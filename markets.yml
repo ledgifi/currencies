@@ -1,5 +1,5 @@
 # FIAT
-USD-CLP: sbif.cl
+# USD-CLP: sbif.cl
 AED-USD: 'currencylayer.com'
 AFN-USD: 'currencylayer.com'
 ALL-USD: 'currencylayer.com'
@@ -29,7 +29,7 @@ CAD-USD: 'currencylayer.com'
 CDF-USD: 'currencylayer.com'
 CHF-USD: 'currencylayer.com'
 CLF-USD: 'currencylayer.com'
-# CLP-USD: 'currencylayer.com'
+CLP-USD: 'currencylayer.com'
 CNY-USD: 'currencylayer.com'
 COP-USD: 'currencylayer.com'
 CRC-USD: 'currencylayer.com'
@@ -170,8 +170,10 @@ ZWL-USD: 'currencylayer.com'
 $$$-USD: cryptocompare.com
 $PAC-USD: cryptocompare.com
 0XBTC-USD: cryptocompare.com
+10SET-USD: cryptocompare.com
 1337-USD: cryptocompare.com
 1CR-USD: cryptocompare.com
+1INCH-USD: cryptocompare.com
 1SG-USD: cryptocompare.com
 1ST-USD: cryptocompare.com
 1WO-USD: cryptocompare.com
@@ -268,6 +270,7 @@ AIR-USD: cryptocompare.com
 AIT-USD: cryptocompare.com
 AIX-USD: cryptocompare.com
 AKA-USD: cryptocompare.com
+AKITA-USD: cryptocompare.com
 AKRO-USD: cryptocompare.com
 ALC-USD: cryptocompare.com
 ALEX-USD: cryptocompare.com
@@ -383,6 +386,7 @@ ATP-USD: cryptocompare.com
 ATS-USD: cryptocompare.com
 ATX-USD: cryptocompare.com
 AUC-USD: cryptocompare.com
+AUDIO-USD: cryptocompare.com
 AUDX-USD: cryptocompare.com
 AUK-USD: cryptocompare.com
 AUN-USD: cryptocompare.com
@@ -395,6 +399,7 @@ AUTON-USD: cryptocompare.com
 AV-USD: cryptocompare.com
 AVA-USD: cryptocompare.com
 AVALA-USD: cryptocompare.com
+AVAX-USD: cryptocompare.com
 AVH-USD: cryptocompare.com
 AVT-USD: cryptocompare.com
 AWC-USD: cryptocompare.com
@@ -414,6 +419,7 @@ B91-USD: cryptocompare.com
 B@-USD: cryptocompare.com
 BAAS-USD: cryptocompare.com
 BAC-USD: cryptocompare.com
+BAKE-USD: cryptocompare.com
 BAN-USD: cryptocompare.com
 BANCA-USD: cryptocompare.com
 BAND-USD: cryptocompare.com
@@ -783,6 +789,7 @@ CEEK-USD: cryptocompare.com
 CEFS-USD: cryptocompare.com
 CEL-USD: cryptocompare.com
 CELR-USD: cryptocompare.com
+CELO-USD: cryptocompare.com
 CEN-USD: cryptocompare.com
 CENNZ-USD: cryptocompare.com
 CENT-USD: cryptocompare.com
@@ -1377,6 +1384,7 @@ FCQ-USD: cryptocompare.com
 FCT-USD: cryptocompare.com
 FDX-USD: cryptocompare.com
 FDZ-USD: cryptocompare.com
+FEG-USD: cryptocompare.com
 FET-USD: cryptocompare.com
 FFC-USD: cryptocompare.com
 FGZ-USD: cryptocompare.com
@@ -1545,6 +1553,7 @@ GLD-USD: cryptocompare.com
 GLDR-USD: cryptocompare.com
 GLDX-USD: cryptocompare.com
 GLEEC-USD: cryptocompare.com
+GLM-USD: cryptocompare.com
 GLOBE-USD: cryptocompare.com
 GLOS-USD: cryptocompare.com
 GLS-USD: cryptocompare.com
@@ -1850,6 +1859,7 @@ JST-USD: cryptocompare.com
 JUDGE-USD: cryptocompare.com
 JUL-USD: cryptocompare.com
 JUMP-USD: cryptocompare.com
+JUV-USD: cryptocompare.com
 JWL-USD: cryptocompare.com
 KAL-USD: cryptocompare.com
 KAM-USD: cryptocompare.com
@@ -1884,6 +1894,7 @@ KING-USD: cryptocompare.com
 KISC-USD: cryptocompare.com
 KLAY-USD: cryptocompare.com
 KLKS-USD: cryptocompare.com
+KLV-USD: cryptocompare.com
 KMD-USD: cryptocompare.com
 KMX-USD: cryptocompare.com
 KNC-USD: cryptocompare.com
@@ -2616,6 +2627,7 @@ PTON-USD: cryptocompare.com
 PTOY-USD: cryptocompare.com
 PTT-USD: cryptocompare.com
 PULSE-USD: cryptocompare.com
+PUNDIX-USD: cryptocompare.com
 PUPA-USD: cryptocompare.com
 PURA-USD: cryptocompare.com
 PURE-USD: cryptocompare.com
@@ -2698,6 +2710,7 @@ REDC-USD: cryptocompare.com
 REDI-USD: cryptocompare.com
 REDi-USD: cryptocompare.com
 REE-USD: cryptocompare.com
+REEF-USD: cryptocompare.com
 REF-USD: cryptocompare.com
 REM-USD: cryptocompare.com
 REMCO-USD: cryptocompare.com
@@ -2776,6 +2789,7 @@ RYO-USD: cryptocompare.com
 RYZ-USD: cryptocompare.com
 RZR-USD: cryptocompare.com
 SAFE-USD: cryptocompare.com
+SAFEMOON-USD: cryptocompare.com
 SAFEX-USD: cryptocompare.com
 SAGA-USD: cryptocompare.com
 SAI-USD: cryptocompare.com
@@ -2889,6 +2903,7 @@ SKYM-USD: cryptocompare.com
 SLC-USD: cryptocompare.com
 SLG-USD: cryptocompare.com
 SLING-USD: cryptocompare.com
+SLP-USD: cryptocompare.com
 SLR-USD: cryptocompare.com
 SLS-USD: cryptocompare.com
 SLST-USD: cryptocompare.com
@@ -3003,6 +3018,7 @@ STP-USD: cryptocompare.com
 STPT-USD: cryptocompare.com
 STQ-USD: cryptocompare.com
 STRAT-USD: cryptocompare.com
+STRAX-USD: cryptocompare.com
 STREAM-USD: cryptocompare.com
 STRS-USD: cryptocompare.com
 STU-USD: cryptocompare.com
@@ -3211,6 +3227,7 @@ TUR-USD: cryptocompare.com
 TUSD-USD: cryptocompare.com
 TWEE-USD: cryptocompare.com
 TWIST-USD: cryptocompare.com
+TWT-USD: cryptocompare.com
 TX-USD: cryptocompare.com
 TXT-USD: cryptocompare.com
 TYPE-USD: cryptocompare.com
@@ -3603,6 +3620,7 @@ XVC-USD: cryptocompare.com
 XVE-USD: cryptocompare.com
 XVG-USD: cryptocompare.com
 XVP-USD: cryptocompare.com
+XVS-USD: cryptocompare.com
 XWC-USD: cryptocompare.com
 XWP-USD: cryptocompare.com
 XWT-USD: cryptocompare.com
