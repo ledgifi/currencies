@@ -1,0 +1,242 @@
+{
+  "AED": {
+    "name": "United Arab Emirates Dirham",
+    "decimals": 2,
+    "countryCode": "ae",
+    "fiat": true
+  },
+  "ARS": {
+    "name": "Argentine Peso",
+    "decimals": 2,
+    "countryCode": "ar",
+    "fiat": true
+  },
+  "AUD": {
+    "name": "Australian Dollar",
+    "decimals": 2,
+    "countryCode": "au",
+    "fiat": true
+  },
+  "BGN": {
+    "name": "Bulgarian Lev",
+    "decimals": 2,
+    "countryCode": "bg",
+    "fiat": true
+  },
+  "BRL": {
+    "name": "Brazilian Real",
+    "decimals": 2,
+    "countryCode": "br",
+    "fiat": true
+  },
+  "CAD": {
+    "name": "Canadian Dollar",
+    "decimals": 2,
+    "countryCode": "ca",
+    "fiat": true
+  },
+  "CHF": {
+    "name": "Swiss Franc",
+    "decimals": 2,
+    "countryCode": "ch",
+    "fiat": true
+  },
+  "CLP": {
+    "name": "Chilean Peso",
+    "decimals": 2,
+    "countryCode": "cl",
+    "fiat": true
+  },
+  "COP": {
+    "name": "Colombian Peso",
+    "decimals": 2,
+    "countryCode": "co",
+    "fiat": true
+  },
+  "CZK": {
+    "name": "Czech Republic Koruna",
+    "decimals": 2,
+    "countryCode": "cz",
+    "fiat": true
+  },
+  "DKK": {
+    "name": "Danish Krone",
+    "decimals": 2,
+    "countryCode": "dk",
+    "fiat": true
+  },
+  "EUR": {
+    "name": "Euro",
+    "decimals": 2,
+    "countryCode": "eu",
+    "fiat": true
+  },
+  "GBP": {
+    "name": "British Pound Sterling",
+    "decimals": 2,
+    "countryCode": "gb",
+    "fiat": true
+  },
+  "HKD": {
+    "name": "Hong Kong Dollar",
+    "decimals": 2,
+    "countryCode": "hk",
+    "fiat": true
+  },
+  "HUF": {
+    "name": "Hungarian Forint",
+    "decimals": 2,
+    "countryCode": "hu",
+    "fiat": true
+  },
+  "IDR": {
+    "name": "Indonesian Rupiah",
+    "decimals": 2,
+    "countryCode": "id",
+    "fiat": true
+  },
+  "ILS": {
+    "name": "Israeli New Sheqel",
+    "decimals": 2,
+    "countryCode": "il",
+    "fiat": true
+  },
+  "INR": {
+    "name": "Indian Rupee",
+    "decimals": 2,
+    "countryCode": "in",
+    "fiat": true
+  },
+  "JPY": {
+    "name": "Japanese Yen",
+    "decimals": 0,
+    "countryCode": "jp",
+    "fiat": true
+  },
+  "KRW": {
+    "name": "South Korean Won",
+    "decimals": 0,
+    "countryCode": "kr",
+    "fiat": true
+  },
+  "LTL": {
+    "name": "Lithuanian Litas",
+    "decimals": 2,
+    "countryCode": "lt",
+    "fiat": true
+  },
+  "LVL": {
+    "name": "Latvian Lats",
+    "decimals": 2,
+    "countryCode": "lv",
+    "fiat": true
+  },
+  "MXN": {
+    "name": "Mexican Peso",
+    "decimals": 2,
+    "countryCode": "mx",
+    "fiat": true
+  },
+  "MYR": {
+    "name": "Malaysian Ringgit",
+    "decimals": 2,
+    "countryCode": "my",
+    "fiat": true
+  },
+  "NGN": {
+    "name": "Nigerian Naira",
+    "decimals": 2,
+    "countryCode": "ng",
+    "fiat": true
+  },
+  "NOK": {
+    "name": "Norwegian Krone",
+    "decimals": 2,
+    "countryCode": "no",
+    "fiat": true
+  },
+  "NZD": {
+    "name": "New Zealand Dollar",
+    "decimals": 2,
+    "countryCode": "nz",
+    "fiat": true
+  },
+  "PEN": {
+    "name": "Peruvian Nuevo Sol",
+    "decimals": 2,
+    "countryCode": "pe",
+    "fiat": true
+  },
+  "PHP": {
+    "name": "Philippine Peso",
+    "decimals": 2,
+    "countryCode": "ph",
+    "fiat": true
+  },
+  "PLN": {
+    "name": "Polish Zloty",
+    "decimals": 2,
+    "countryCode": "pl",
+    "fiat": true
+  },
+  "RON": {
+    "name": "Romanian Leu",
+    "decimals": 2,
+    "countryCode": "ro",
+    "fiat": true
+  },
+  "RUB": {
+    "name": "Russian Ruble",
+    "decimals": 2,
+    "countryCode": "ru",
+    "fiat": true
+  },
+  "SEK": {
+    "name": "Swedish Krona",
+    "decimals": 2,
+    "countryCode": "se",
+    "fiat": true
+  },
+  "SGD": {
+    "name": "Singapore Dollar",
+    "decimals": 2,
+    "countryCode": "sg",
+    "fiat": true
+  },
+  "THB": {
+    "name": "Thai Baht",
+    "decimals": 2,
+    "countryCode": "th",
+    "fiat": true
+  },
+  "TRY": {
+    "name": "Turkish Lira",
+    "decimals": 2,
+    "countryCode": "tr",
+    "fiat": true
+  },
+  "TWD": {
+    "name": "New Taiwan Dollar",
+    "decimals": 0,
+    "countryCode": "tw",
+    "fiat": true
+  },
+  "USD": {
+    "name": "United States Dollar",
+    "decimals": 2,
+    "countryCode": "us",
+    "fiat": true
+  },
+  "UYU": {
+    "name": "Uruguayan Peso",
+    "decimals": 2,
+    "countryCode": "uy",
+    "fiat": true
+  },
+  "ZAR": {
+    "name": "South African Rand",
+    "decimals": 2,
+    "countryCode": "za",
+    "fiat": true
+  }
+}
