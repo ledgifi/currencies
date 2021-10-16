@@ -3,5 +3,7 @@ decimals: 8
 fiat: false
 id: BNB
 id_binance: '10'
-logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201110/550eda20-1b9a-4bc7-9a65-e4a329e8bb57.png
-name: BNB
+id_coinpaprika: bnb-binance-coin
+id_nomics: BNB
+logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.0/svg/color/bnb.svg
+name: Binance Coin
