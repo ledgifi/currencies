@@ -2,4 +2,5 @@ crypto: true
 fiat: false
 id: $PAC
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.0/svg/color/$pac.svg
+logoKey: currencies/$pac.svg
 name: PACcoin
