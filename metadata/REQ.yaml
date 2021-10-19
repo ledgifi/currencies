@@ -3,6 +3,7 @@ decimals: 8
 fiat: false
 id: REQ
 id_binance: '72'
+id_coinpaprika: req-request-network
 id_nomics: REQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/req.svg
 name: Request Network
