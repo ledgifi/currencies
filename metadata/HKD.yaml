@@ -1,0 +1,11 @@
+countryCode: hk
+crypto: false
+decimals: 2
+fiat: true
+id: HKD
+localeNames:
+  en: Hong Kong Dollar
+  es: dólar hongkonés
+logo: https://cdn.jsdelivr.net/npm/flag-icon-css@3.5.0/flags/4x3/hk.svg
+logoKey: currencies/hkd.svg
+name: Hong Kong Dollar

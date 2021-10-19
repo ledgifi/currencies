@@ -1,0 +1,11 @@
+countryCode: ca
+crypto: false
+decimals: 2
+fiat: true
+id: CAD
+localeNames:
+  en: Canadian Dollar
+  es: dólar canadiense
+logo: https://cdn.jsdelivr.net/npm/flag-icon-css@3.5.0/flags/4x3/ca.svg
+logoKey: currencies/cad.svg
+name: Canadian Dollar

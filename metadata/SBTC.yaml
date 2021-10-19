@@ -1,0 +1,10 @@
+crypto: true
+decimals: 8
+fiat: false
+id: SBTC
+id_binance: '131'
+id_coinpaprika: sbtc-super-bitcoin
+id_nomics: SBTC
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBTC.png
+logoKey: currencies/sbtc.png
+name: Super Bitcoin

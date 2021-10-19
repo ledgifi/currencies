@@ -1,0 +1,11 @@
+countryCode: 'no'
+crypto: false
+decimals: 2
+fiat: true
+id: NOK
+localeNames:
+  en: Norwegian Krone
+  es: corona noruega
+logo: https://cdn.jsdelivr.net/npm/flag-icon-css@3.5.0/flags/4x3/no.svg
+logoKey: currencies/nok.svg
+name: Norwegian Krone

@@ -1,0 +1,10 @@
+crypto: true
+decimals: 8
+fiat: false
+id: BNT
+id_binance: '16'
+id_coinpaprika: bnt-bancor
+id_nomics: BNT
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bnt.svg
+logoKey: currencies/bnt.svg
+name: Bancor

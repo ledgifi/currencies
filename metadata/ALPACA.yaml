@@ -1,0 +1,10 @@
+crypto: true
+decimals: 8
+fiat: false
+id: ALPACA
+id_binance: '757'
+id_coinpaprika: alpaca-alpaca-finance
+id_nomics: ALPACA
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALPACA.svg
+logoKey: currencies/alpaca.svg
+name: Alpaca Finance

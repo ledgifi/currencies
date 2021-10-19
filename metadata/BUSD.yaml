@@ -1,0 +1,10 @@
+crypto: true
+decimals: 8
+fiat: false
+id: BUSD
+id_binance: '245'
+id_coinpaprika: busd-binance-usd
+id_nomics: BUSD
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUSD.png
+logoKey: currencies/busd.png
+name: Binance USD

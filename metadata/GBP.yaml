@@ -1,0 +1,11 @@
+countryCode: gb
+crypto: false
+decimals: 2
+fiat: true
+id: GBP
+localeNames:
+  en: British Pound
+  es: libra esterlina
+logo: https://cdn.jsdelivr.net/npm/flag-icon-css@3.5.0/flags/4x3/gb.svg
+logoKey: currencies/gbp.svg
+name: British Pound Sterling

@@ -1,0 +1,10 @@
+crypto: true
+decimals: 8
+fiat: false
+id: FIL
+id_binance: '508'
+id_coinpaprika: fil-filecoin
+id_nomics: FIL
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIL.png
+logoKey: currencies/fil.png
+name: Filecoin

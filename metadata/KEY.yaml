@@ -1,0 +1,10 @@
+crypto: true
+decimals: 8
+fiat: false
+id: KEY
+id_binance: '183'
+id_coinpaprika: key-selfkey
+id_nomics: KEY
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/key.png
+logoKey: currencies/key.png
+name: SelfKey

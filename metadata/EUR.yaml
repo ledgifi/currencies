@@ -1,0 +1,11 @@
+countryCode: eu
+crypto: false
+decimals: 2
+fiat: true
+id: EUR
+localeNames:
+  en: Euro
+  es: euro
+logo: https://cdn.jsdelivr.net/npm/flag-icon-css@3.5.0/flags/4x3/eu.svg
+logoKey: currencies/eur.svg
+name: Euro
