@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: RUFUS
 id_coinpaprika: rufus-rufus-finance
-logo: https://static.coinpaprika.com/coin/rufus-rufus-finance/logo.png
+id_nomics: RUFUS
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RUFUS.jpeg
 logoKey: currencies/rufus.png
 name: Rufus Finance
