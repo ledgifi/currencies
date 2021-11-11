@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: PRPS
 id_coinpaprika: prps-purpose
-logo: https://static.coinpaprika.com/coin/prps-purpose/logo.png
+id_nomics: PRPS
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRPS.jpg
 logoKey: currencies/prps.png
 name: Purpose

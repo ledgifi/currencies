@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: RGT
+id_binance: '800'
 id_coinpaprika: rgt-rari-governance-token
 id_nomics: RGT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RGT.jpg

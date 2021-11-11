@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: STAY
 id_coinpaprika: stay-stay-token
-logo: https://static.coinpaprika.com/coin/stay-stay-token/logo.png
+id_nomics: STAY
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STAY.jpg
 logoKey: currencies/stay.png
-name: STAY TOKEN
+name: Stay Token

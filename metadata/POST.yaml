@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: POST
+id_coinpaprika: post-postcoin
 id_nomics: POST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POST.png
 logoKey: currencies/post.png

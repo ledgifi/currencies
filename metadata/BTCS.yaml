@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: BTCS
+id_coinpaprika: btcs-bitcoin-scrypt
 id_nomics: BTCS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCS.png
 logoKey: currencies/btcs.png
