@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: CRASH
 id_coinpaprika: crash-crashcoin
-logo: https://static.coinpaprika.com/coin/crash-crashcoin/logo.png
+id_nomics: CRASH
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRASH.png
 logoKey: currencies/crash.png
 name: CrashCoin

@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: EVOX
 id_coinpaprika: evox-evolution
-logo: https://static.coinpaprika.com/coin/evox-evolution/logo.png
+id_nomics: EVOX
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVOX.png
 logoKey: currencies/evox.png
 name: Evolution

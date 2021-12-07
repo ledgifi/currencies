@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: ANY
+id_binance: '825'
 id_nomics: ANY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANY.svg
 logoKey: currencies/any.svg

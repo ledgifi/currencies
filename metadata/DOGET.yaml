@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: DOGET
 id_coinpaprika: doget-doge-token
-logo: https://static.coinpaprika.com/coin/doget-doge-token/logo.png
+id_nomics: DOGET
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGET.jpg
 logoKey: currencies/doget.png
 name: Doge Token

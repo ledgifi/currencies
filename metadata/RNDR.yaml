@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: RNDR
+id_binance: '817'
 id_coinpaprika: rndr-render-token
 id_nomics: RNDR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RNDR.jpg

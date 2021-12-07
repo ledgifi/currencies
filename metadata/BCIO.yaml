@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: BCIO
 id_coinpaprika: bcio-blockchainio
+id_nomics: BCIO
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.0/svg/color/bcio.svg
 logoKey: currencies/bcio.svg
 name: Blockchain.io
