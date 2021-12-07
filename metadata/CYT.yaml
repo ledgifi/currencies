@@ -1,7 +1,8 @@
 crypto: true
 fiat: false
 id: CYT
-id_nomics: CYT
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CYT.png
-logoKey: currencies/cyt.png
-name: Cryptokenz
+id_coinpaprika: cyt-coinary-token
+id_nomics: CYT2
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CYT2.jpg
+logoKey: currencies/cyt2.jpg
+name: Coinary Token
