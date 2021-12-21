@@ -2,5 +2,6 @@ crypto: true
 fiat: false
 id: WEGG
 id_coinpaprika: wegg-wrapped-nestegg-coin
-logo: https://static.coinpaprika.com/coin/wegg-wrapped-nestegg-coin/logo.png
+id_nomics: WEGG
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WEGG.png
 name: Wrapped NestEGG Coin

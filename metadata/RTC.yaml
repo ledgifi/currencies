@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: RTC
+id_coinpaprika: rtc-read-this-contract
 id_nomics: RTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RTC.png
 logoKey: currencies/rtc.png

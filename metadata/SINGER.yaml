@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: SINGER
 id_coinpaprika: singer-singer-community-coin
-logo: https://static.coinpaprika.com/coin/singer-singer-community-coin/logo.png
+id_nomics: SINGER
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SINGER.jpg
 logoKey: currencies/singer.png
 name: Singer Community Coin
