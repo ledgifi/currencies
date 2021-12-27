@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: SPELL
+id_binance: '838'
 id_coinpaprika: spell-spell-token
 id_nomics: SPELL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPELL.jpg

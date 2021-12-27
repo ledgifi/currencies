@@ -3,6 +3,8 @@ decimals: 8
 fiat: false
 id: CRV
 id_binance: '430'
+id_coinpaprika: crv-curve-dao-token
+id_nomics: CRV
 logo: https://bin.bnbstatic.com/images/20200814/f8d49a7f-d950-4e26-922f-42b11bd95584.png
 logoKey: currencies/crv.png
 name: Curve

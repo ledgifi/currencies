@@ -2,5 +2,6 @@ crypto: true
 fiat: false
 id: BNTU
 id_coinpaprika: bntu-buntu
-logo: https://static.coinpaprika.com/coin/bntu-buntu/logo.png
+id_nomics: BNTU
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNTU.png
 name: Buntu

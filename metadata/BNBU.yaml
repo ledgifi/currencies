@@ -2,5 +2,6 @@ crypto: true
 fiat: false
 id: BNBU
 id_coinpaprika: bnbu-bnbuniverse
-logo: https://static.coinpaprika.com/coin/bnbu-bnbuniverse/logo.png
-name: BNBUNIVERSE
+id_nomics: BNBU
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNBU.png
+name: BNB Universe

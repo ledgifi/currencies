@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: CVX
+id_binance: '836'
 id_coinpaprika: cvx-convex-finance
 id_nomics: CVX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CVX.jpg

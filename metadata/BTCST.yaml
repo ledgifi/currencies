@@ -3,6 +3,8 @@ decimals: 8
 fiat: false
 id: BTCST
 id_binance: '584'
+id_coinpaprika: btcst-btc-standard-hashrate-token
+id_nomics: BTCST
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210107/42cb93e4-4078-43f4-afa3-1f0c350e7483.png
 logoKey: currencies/btcst.png
 name: Bitcoin Standard Hashrate Token

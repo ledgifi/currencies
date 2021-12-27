@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: UST
+id_binance: '832'
 id_coinpaprika: ust-terrausd
 id_nomics: UST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UST2.png
