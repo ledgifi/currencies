@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: PURSE
+id_binance: '839'
 id_nomics: PURSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PURSE.jpg
 logoKey: currencies/purse.jpg

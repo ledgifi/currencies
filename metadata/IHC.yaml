@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: IHC
+id_binance: '848'
 id_coinpaprika: ihc-inflation-hedging-coin
 id_nomics: IHC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IHC.jpg
