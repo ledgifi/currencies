@@ -1,8 +1,9 @@
 countryCode: sg
-crypto: false
+crypto: true
 decimals: 2
-fiat: true
+fiat: false
 id: SGD
+id_coinpaprika: sgd-singaporedollar
 localeNames:
   en: Singapore Dollar
   es: dólar singapurense

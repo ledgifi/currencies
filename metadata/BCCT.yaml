@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: BCCT
 id_coinpaprika: bcct-bcc-token
-logo: https://static.coinpaprika.com/coin/bcct-bcc-token/logo.png
+id_nomics: BCCT
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCCT.jpeg
 logoKey: currencies/bcct.png
-name: BCC TOKEN
+name: BCC Token

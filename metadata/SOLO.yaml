@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: SOLO
+id_binance: '852'
 id_coinpaprika: solo-sologenic
 id_nomics: SOLO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOLO.jpg

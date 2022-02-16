@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: ZENI
 id_coinpaprika: zeni-zennies
-logo: https://static.coinpaprika.com/coin/zeni-zennies/logo.png
+id_nomics: ZENI
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZENI.jpg
 logoKey: currencies/zeni.png
 name: Zennies

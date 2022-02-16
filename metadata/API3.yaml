@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: API3
+id_binance: '854'
 id_nomics: API3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/API3.jpg
 logoKey: currencies/api3.jpg
