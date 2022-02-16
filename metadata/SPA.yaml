@@ -1,7 +1,8 @@
 crypto: true
 fiat: false
 id: SPA
-id_nomics: SPA
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPA.png
-logoKey: currencies/spa.png
-name: Sparta Core
+id_coinpaprika: spa-spartacus
+id_nomics: SPA4
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPA4.jpg
+logoKey: currencies/spa4.jpg
+name: Spartacus

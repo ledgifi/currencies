@@ -1,7 +1,8 @@
 crypto: true
 fiat: false
 id: VOLT
-id_nomics: VOLT
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VOLT.jpg
-logoKey: currencies/volt.jpg
-name: VoldyToken
+id_coinpaprika: volt-voltage
+id_nomics: VOLT2
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VOLT2.jpg
+logoKey: currencies/volt2.jpg
+name: Voltage

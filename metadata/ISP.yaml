@@ -1,7 +1,8 @@
 crypto: true
 fiat: false
 id: ISP
-id_nomics: ISP
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ISP.jpg
-logoKey: currencies/isp.jpg
-name: ISHOP PLUS
+id_coinpaprika: isp-ispolink-token
+id_nomics: ISP2
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ISP2.png
+logoKey: currencies/isp2.png
+name: Ispolink
