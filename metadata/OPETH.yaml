@@ -2,5 +2,5 @@ crypto: true
 fiat: false
 id: OPETH
 id_nomics: OPETH
-logo: https://github.com/ethereum-optimism/brand-kit/blob/main/assets/images/Profile-Logo.png?raw=true
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OPETH.png
 name: Optimistic Ethereum
