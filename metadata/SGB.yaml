@@ -1,7 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: SGB
-id_nomics: SGB
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SGB.jpg
-logoKey: currencies/sgb.jpg
-name: SubGame
+id_binance: '808'
+id_nomics: SGB2
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20211118/0dbe5acd-af93-4cd8-b94b-4707960e45c5.png
+name: Songbird

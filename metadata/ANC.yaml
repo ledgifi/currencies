@@ -1,8 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: ANC
-id_coinpaprika: anc-anoncoin
-id_nomics: ANC
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANC.png
-logoKey: currencies/anc.png
-name: Anoncoin
+id_binance: '853'
+id_nomics: ANC3
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220119/1034060e-4074-4d4b-a087-ccd7ed499d49.png
+name: Anchor Protocol

@@ -1,7 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: EFI
-id_nomics: EFI
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EFI.jpg
-logoKey: currencies/efi.jpg
-name: ETHYFI
+id_binance: '797'
+id_nomics: EFI2
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20211102/e3931c06-0949-4531-a517-2dcb4127e6a5.png
+name: Efinity Token

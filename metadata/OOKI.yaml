@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: OOKI
+id_binance: '834'
 id_coinpaprika: ooki-ooki
 id_nomics: OOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OOKI.jpg

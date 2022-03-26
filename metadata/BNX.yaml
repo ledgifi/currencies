@@ -1,7 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: BNX
-id_nomics: BNX
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNX.jpg
-logoKey: currencies/bnx.jpg
-name: Benex
+id_binance: '799'
+id_nomics: BNX4
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/806bf0e6-98e8-4593-bf5e-21bc5b72c879.png
+name: BinaryX

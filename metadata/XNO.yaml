@@ -1,8 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: XNO
-id_coinpaprika: xno-xeno-token
-id_nomics: XNO
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XNO.jpg
-logoKey: currencies/xno.jpg
-name: Xeno Token
+id_binance: '855'
+id_nomics: NANO
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220125/9430e2ea-73c8-49b2-9b4c-4eb166caf280.png
+name: Nano

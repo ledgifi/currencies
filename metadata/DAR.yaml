@@ -1,8 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: DAR
-id_coinpaprika: dar-darcrus
-id_nomics: DAR
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAR.png
-logoKey: currencies/dar.png
-name: Darcrus
+id_binance: '791'
+id_nomics: DAR2
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/6c6e5304-e74b-4a4b-96c1-6fb28c2b224e.png
+name: Mines of Dalarnia

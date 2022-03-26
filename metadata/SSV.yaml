@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: SSV
+id_binance: '780'
 id_coinpaprika: ssv-ssv-network
 id_nomics: SSV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SSV.png

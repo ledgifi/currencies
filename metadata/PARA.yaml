@@ -1,8 +1,7 @@
 crypto: true
+decimals: 8
 fiat: false
 id: PARA
-id_coinpaprika: para-paralink-network
-id_nomics: PARA2
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PARA2.png
-logoKey: currencies/para.png
-name: Paralink Network
+id_binance: '798'
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20211104/6e7975b0-54c3-4954-9353-ea0f10ff6995.png
+name: Parallel Finance

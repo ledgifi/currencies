@@ -1,7 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: APE
-id_nomics: APE
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APE.png
-logoKey: currencies/ape.png
-name: APE Punk
+id_binance: '888'
+id_nomics: APE7
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220315/4de85771-938e-4a03-853d-8a54be45f1b1.jpg
+name: ApeCoin

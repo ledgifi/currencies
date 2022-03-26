@@ -1,7 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: ACH
-id_nomics: ACH
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACH.jpg
-logoKey: currencies/ach.jpg
-name: Acash
+id_binance: '846'
+id_nomics: ACH3
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/27c7070d-5951-4f84-ade2-bf7ca05c41d2.png
+name: Alchemy Pay

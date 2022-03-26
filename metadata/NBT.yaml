@@ -1,7 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: NBT
-id_nomics: NBT
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/nbt.jpg
-logoKey: currencies/nbt.jpg
-name: Ninsa B Token
+id_binance: '864'
+id_nomics: NBT3
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220218/319d6cb6-bf38-45ab-a24d-445a0b26de8b.png
+name: NanoByte Token

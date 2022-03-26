@@ -1,7 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: PLA
-id_nomics: PLA
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/pla.jpg
-logoKey: currencies/pla.jpg
-name: PlayChip
+id_binance: '814'
+id_nomics: PLA3
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20211123/57140f25-ef37-4e1f-bf26-a7688a0c057a.png
+name: PlayDapp

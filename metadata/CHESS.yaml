@@ -1,8 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: CHESS
-id_coinpaprika: chess-chesscoin
-id_nomics: CHESS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHESS.png
-logoKey: currencies/chess.png
-name: ChessCoin
+id_binance: '784'
+id_nomics: CHESS4
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/e3c31d90-01ed-43e2-b97b-ef9ef1aeb6cd.png
+name: Tranchess

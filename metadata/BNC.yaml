@@ -1,8 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: BNC
-id_coinpaprika: bnc-bionic
-id_nomics: BNC
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bnc.jpg
-logoKey: currencies/bnc.jpg
-name: Bionic
+id_binance: '4'
+id_nomics: BNC3
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20211102/a758003d-2c25-412e-8323-a7525f2ceb4d.png
+name: Bifrost

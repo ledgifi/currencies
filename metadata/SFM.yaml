@@ -1,7 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: SFM
-id_nomics: SFM
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFM.jpg
-logoKey: currencies/sfm.jpg
-name: SFMoney
+id_binance: '856'
+id_nomics: SFM2
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/bade437a-057c-4cee-8c23-e2d7632bd4a6.png
+name: SafeMoon

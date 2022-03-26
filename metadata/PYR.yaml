@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: PYR
+id_binance: '815'
 id_coinpaprika: pyr-vulcan-forged
 id_nomics: PYR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PYR.jpg

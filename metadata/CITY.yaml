@@ -1,8 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: CITY
-id_coinpaprika: city-city-coin
-id_nomics: CITY
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CITY.png
-logoKey: currencies/city.png
-name: City Coin
+id_binance: '802'
+id_nomics: CITY2
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/6dba2796-c081-465d-a5e0-c4163e73cac6.png
+name: Manchester City Fan Token

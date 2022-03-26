@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: BICO
+id_binance: '829'
 id_nomics: BICO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BICO.jpg
 logoKey: currencies/bico.jpg

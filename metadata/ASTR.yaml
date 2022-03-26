@@ -1,7 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: ASTR
-id_nomics: ASTR
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASTR.jpg
-logoKey: currencies/astr.jpg
-name: ASTR Coin
+id_binance: '796'
+id_nomics: ASTR4
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20211101/e1b90e36-2b64-4683-89f2-abf35ef4dee3.png
+name: Astar

@@ -1,7 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: MC
-id_nomics: MC
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MC.png
-logoKey: currencies/mc.png
-name: MasterCoin
+id_binance: '824'
+id_nomics: MC5
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/7cd97fb7-06cb-4a37-b08d-7aaf57c8bcfc.png
+name: Merit Circle
