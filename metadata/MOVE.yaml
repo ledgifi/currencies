@@ -1,8 +1,7 @@
 crypto: true
 fiat: false
 id: MOVE
-id_coinpaprika: move-mover
-id_nomics: MOVE
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOVE.jpg
-logoKey: currencies/move.jpg
-name: Mover
+id_nomics: MOVE2
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOVE2.png
+logoKey: currencies/move2.png
+name: MarketMove
