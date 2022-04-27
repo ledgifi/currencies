@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: LOOKS
+id_binance: '915'
 id_coinpaprika: looks-looksrare-token
 id_nomics: LOOKS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOOKS.jpg
