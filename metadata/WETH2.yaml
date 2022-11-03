@@ -2,4 +2,5 @@ crypto: true
 fiat: false
 id: WETH2
 id_nomics: WETH2
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WETH.png
 name: Wrapped Ether (Polygon)
