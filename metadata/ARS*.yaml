@@ -2,11 +2,11 @@ countryCode: ar
 crypto: false
 decimals: 2
 fiat: true
-virtual: true
 id: ARS*
 localeNames:
   en: Argentine Peso (parallel)
   es: Peso Argentino (paralelo)
 logo: https://cdn.jsdelivr.net/npm/flag-icon-css@4.1.4/flags/4x3/ar.svg
-logoKey: currencies/ars.svg
+logoKey: currencies/ars*.svg
 name: Peso Argentino (paralelo)
+virtual: true

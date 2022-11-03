@@ -3,4 +3,5 @@ fiat: false
 id: ETHCKB
 id_nomics: ETHCKB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHCKB.svg
+logoKey: currencies/ethckb.svg
 name: ETH (via Force Bridge from ETH)
