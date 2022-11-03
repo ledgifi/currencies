@@ -2,6 +2,6 @@ crypto: true
 fiat: false
 id: RYO2
 id_nomics: RYO2
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RYO2.png
+logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/ryo.svg
 logoKey: currencies/ryo2.png
 name: Ryo Currency

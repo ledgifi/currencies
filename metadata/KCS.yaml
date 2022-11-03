@@ -3,6 +3,6 @@ fiat: false
 id: KCS
 id_coinpaprika: kcs-kucoin-token
 id_nomics: KCS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/kcs.jpg
+logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/kcs.svg
 logoKey: currencies/kcs.jpg
 name: KuCoin Token

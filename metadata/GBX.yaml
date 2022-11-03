@@ -3,6 +3,6 @@ fiat: false
 id: GBX
 id_coinpaprika: gbx-gobyte
 id_nomics: GBX
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/gbx.png
+logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/gbx.svg
 logoKey: currencies/gbx.png
 name: GoByte

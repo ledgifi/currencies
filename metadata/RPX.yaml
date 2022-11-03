@@ -2,6 +2,6 @@ crypto: true
 fiat: false
 id: RPX
 id_nomics: RPX
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/rpx.svg
+logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/rpx.svg
 logoKey: currencies/rpx.svg
 name: Red Pulse

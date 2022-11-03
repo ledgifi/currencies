@@ -2,6 +2,6 @@ crypto: true
 fiat: false
 id: DBC
 id_nomics: DBC
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/dbc.png
+logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/dbc.svg
 logoKey: currencies/dbc.png
 name: DeepBrain Wallet

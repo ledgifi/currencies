@@ -2,6 +2,6 @@ crypto: true
 fiat: false
 id: ATLAS
 id_nomics: ATLAS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATLAS.jpg
+logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/atlas.svg
 logoKey: currencies/atlas.jpg
 name: Star Atlas
