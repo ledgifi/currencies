@@ -1,7 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: SPIRIT
-id_nomics: SPIRIT
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPIRIT.jpg
-logoKey: currencies/spirit.jpg
-name: SPIRIT
+id_binance: '939'
+id_nomics: SPIRIT2
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPIRIT2.png
+name: SpiritSwap

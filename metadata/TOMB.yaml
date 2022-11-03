@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: TOMB
+id_binance: '907'
 id_nomics: TOMB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOMB.jpg
 logoKey: currencies/tomb.jpg

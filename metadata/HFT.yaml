@@ -1,8 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: HFT
-id_coinpaprika: hft-hodl-finance
-id_nomics: HFT
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HFT.png
-logoKey: currencies/hft.png
-name: Hodl Finance
+id_binance: '1110'
+id_nomics: HFT6
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20221031/7bcb7043-d345-485c-9cc5-a3b3093459b8.png
+name: Hashflow

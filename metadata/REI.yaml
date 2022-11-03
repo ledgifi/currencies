@@ -1,8 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: REI
-id_coinpaprika: rei-zerogoki
-id_nomics: REI
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REI.jpg
-logoKey: currencies/rei.jpg
-name: Zerogoki
+id_binance: '914'
+id_nomics: REI2
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220506/dea601b9-8a93-4a8c-aa87-ae245b272330.png
+name: REI Network

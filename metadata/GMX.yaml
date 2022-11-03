@@ -1,7 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: GMX
-id_nomics: GMX
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMX.png
-logoKey: currencies/gmx.png
-name: Global Monetary Transfer
+id_binance: '1068'
+id_nomics: GMX4
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMX4.jpg
+name: GMX

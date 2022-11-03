@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: FUSDT
+id_binance: '980'
 id_coinpaprika: fusdt-frapped-usdt
 id_nomics: FUSDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FUSDT.jpg

@@ -1,8 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: GAL
-id_coinpaprika: gal-galore
-id_nomics: GAL
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAL.png
-logoKey: currencies/gal.png
-name: Galore
+id_binance: '932'
+id_nomics: GALERC20
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220907/4e3c263c-0899-4640-9f50-ad4fcd1f4bd1.png
+name: Galxe

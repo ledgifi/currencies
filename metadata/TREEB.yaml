@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: TREEB
+id_binance: '982'
 id_coinpaprika: treeb-treeb
 id_nomics: TREEB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TREEB.jpg

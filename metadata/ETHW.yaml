@@ -1,8 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: ETHW
-id_coinpaprika: ethw-ethereum-wizard
-id_nomics: ETHW
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHW.png
-logoKey: currencies/ethw.png
-name: Ethereum wizard
+id_binance: '1051'
+id_nomics: ETHW2
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220915/8a5f5fe0-efed-4b22-ab1c-42f9ed12d812.png
+name: Ethereum Pow

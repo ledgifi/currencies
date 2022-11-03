@@ -1,7 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: EPX
-id_nomics: EPX
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EPX.jpg
-logoKey: currencies/epx.jpg
-name: EmporiumX
+id_binance: '941'
+id_nomics: EPX2
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220516/72e64f1e-3012-4c77-ba58-9aba2e4c69fc.png
+name: Ellipsis X

@@ -1,7 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: STG
-id_nomics: STG
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STG.png
-logoKey: currencies/stg.png
-name: SecureTag
+id_binance: '1033'
+id_nomics: STG3
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STG3.jpg
+name: Stargate Finance

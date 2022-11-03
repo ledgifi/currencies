@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: OSMO
+id_binance: '1099'
 id_nomics: OSMO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OSMO.jpg
 logoKey: currencies/osmo.jpg

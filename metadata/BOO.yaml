@@ -1,8 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: BOO
-id_coinpaprika: boo-bamboo
-id_nomics: BOO
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOO.png
-logoKey: currencies/boo.png
-name: Bamboo
+id_binance: '922'
+id_nomics: BOO4
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOO4.jpg
+name: Spookyswap

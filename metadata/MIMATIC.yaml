@@ -1,8 +1,7 @@
 crypto: true
+decimals: 8
 fiat: false
 id: MIMATIC
-id_coinpaprika: mimatic-mimatic
-id_nomics: MIMATIC
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIMATIC.jpg
-logoKey: currencies/mimatic.jpg
-name: miMatic
+id_binance: '950'
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220518/39e8f7a6-dbef-4902-96fb-20156696c273.png
+name: MAI

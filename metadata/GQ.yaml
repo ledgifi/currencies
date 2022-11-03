@@ -1,7 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: GQ
-id_nomics: GQ
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GQ.png
-logoKey: currencies/gq.png
-name: Goose Q
+id_binance: '1026'
+id_nomics: GQ2
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220726/fb12cf18-c2dc-4c10-8a43-711b3cd74291.png
+name: Outer Ring

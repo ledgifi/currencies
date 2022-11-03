@@ -1,6 +1,8 @@
 crypto: true
+decimals: 1
 fiat: false
 id: ELON
+id_binance: '916'
 id_coinpaprika: elon-dogelon-mars
 id_nomics: ELON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELON.jpg

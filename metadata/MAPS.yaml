@@ -1,7 +1,6 @@
 crypto: true
+decimals: 8
 fiat: false
 id: MAPS
-id_nomics: MAPS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAPS.jpg
-logoKey: currencies/maps.jpg
-name: Maps.me Token
+id_binance: '823'
+name: MAPS

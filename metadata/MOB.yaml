@@ -1,7 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: MOB
-id_nomics: MOB
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOB.jpg
-logoKey: currencies/mob.jpg
-name: Mobile Technologies
+id_binance: '892'
+id_nomics: MOB2
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOB2.jpg
+name: MobileCoin

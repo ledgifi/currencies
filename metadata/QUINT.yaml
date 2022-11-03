@@ -1,7 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: QUINT
-id_nomics: QUINT
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QUINT.png
-logoKey: currencies/quint.png
-name: Quintcoin
+id_binance: '1025'
+id_nomics: QUINT2
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220726/11fe3be5-c067-4d10-80ab-aae537d9263a.png
+name: QUINT
