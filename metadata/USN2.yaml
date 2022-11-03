@@ -2,4 +2,6 @@ crypto: true
 fiat: false
 id: USN2
 id_nomics: USN2
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USN2.png
+logoKey: currencies/usn2.png
 name: USN
