@@ -1,8 +1,7 @@
 crypto: true
 fiat: false
 id: ARG
-id_coinpaprika: arg-argentum
-id_nomics: ARG
-logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/arg.svg
-logoKey: currencies/arg.svg
-name: Argentum
+id_nomics: ARG2
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARG2.jpg
+logoKey: currencies/arg.jpg
+name: Argentine Football Association Fan Token
