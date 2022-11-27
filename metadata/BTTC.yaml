@@ -4,6 +4,6 @@ fiat: false
 id: BTTC
 id_binance: '850'
 id_nomics: BTT2
-logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220117/855a404c-52c7-4dab-ae56-eb2bbb6f4c55.png
-logoKey: currencies/bttc.png
+logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/btt.svg
+logoKey: currencies/bttc.svg
 name: BitTorrent
