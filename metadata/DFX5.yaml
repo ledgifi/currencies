@@ -3,6 +3,7 @@ fiat: false
 id: DFX5
 id_nomics: DFX5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DFX5.png
+logoKey: currencies/dfx5.png
 name: DeFi²
 platform: ETH
 platform_contract: '0xdd3a88ef8535ff7b19178b735c52ea277ef25623'

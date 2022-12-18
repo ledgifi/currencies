@@ -3,6 +3,7 @@ fiat: false
 id: S3
 id_nomics: S3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/S3.png
+logoKey: currencies/s3.png
 name: S
 platform: MATIC
 platform_contract: '0x81773cFEA4f68216c4F20BDaaAAE8F73e7b16DF9'

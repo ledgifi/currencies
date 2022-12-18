@@ -3,6 +3,7 @@ fiat: false
 id: KIRA4
 id_nomics: KIRA4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KIRA4.png
+logoKey: currencies/kira4.png
 name: KIRA
 platform: ETH
 platform_contract: '0xf98ab0874b13a7fdc39d7295dedd49850a5d426b'

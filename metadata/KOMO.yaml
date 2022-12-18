@@ -3,6 +3,7 @@ fiat: false
 id: KOMO
 id_nomics: KOMO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KOMO.jpg
+logoKey: currencies/komo.jpg
 name: Komondor Inu
 platform: BNB
 platform_contract: '0x12d4bde9065b38bb2b7b6230934cd5f2292e804c'

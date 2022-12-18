@@ -3,6 +3,7 @@ fiat: false
 id: DCGOLD
 id_nomics: DCGOLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DCGOLD.jpg
+logoKey: currencies/dcgold.jpg
 name: DogeCoin Gold
 platform: BNB
 platform_contract: '0xC5f7b0D7E1628C0d8854dce36A1A37541D18d481'

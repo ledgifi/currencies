@@ -3,6 +3,7 @@ fiat: false
 id: RB3
 id_nomics: RB3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RB3.png
+logoKey: currencies/rb3.png
 name: REBorn
 platform: BNB
 platform_contract: '0x0307ad99bd569fd8d4934b7313b9b479caf7f225'

@@ -3,6 +3,7 @@ fiat: false
 id: NTIC2
 id_nomics: NTIC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NTIC2.png
+logoKey: currencies/ntic2.png
 name: Entice V2
 platform: MATIC
 platform_contract: '0x8c9bac920cd9cf8c61f7fa4f34f43c572d040f61'

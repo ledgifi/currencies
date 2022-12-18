@@ -3,6 +3,7 @@ fiat: false
 id: MATICATS
 id_nomics: MATICATS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MATICATS.jpeg
+logoKey: currencies/maticats.jpeg
 name: Maticats
 platform: BNB
 platform_contract: '0xd7915b7f068b608e0c77faa36ae0c5de0c6c7f85'

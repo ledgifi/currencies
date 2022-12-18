@@ -3,6 +3,7 @@ fiat: false
 id: ELM3
 id_nomics: ELM3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELM3.png
+logoKey: currencies/elm3.png
 name: ELLERIUM
 platform: ARBETH
 platform_contract: '0x45d55eadf0ed5495b369e040af0717eafae3b731'

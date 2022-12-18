@@ -3,6 +3,7 @@ fiat: false
 id: BNBCFX2
 id_nomics: BNBCFX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNBCFX2.png
+logoKey: currencies/bnbcfx2.png
 name: Binance Coin (Conflux)
 platform: CFX2
 platform_contract: '0x94bd7a37d2ce24cc597e158facaa8d601083ffec'

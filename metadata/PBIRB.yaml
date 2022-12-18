@@ -3,6 +3,7 @@ fiat: false
 id: PBIRB
 id_nomics: PBIRB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PBIRB.png
+logoKey: currencies/pbirb.png
 name: Parrotly
 platform: MATIC
 platform_contract: '0x60eec374a1ba3907e9bdd8a74ce368d041d89c79'

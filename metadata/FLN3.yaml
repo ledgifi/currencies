@@ -3,6 +3,7 @@ fiat: false
 id: FLN3
 id_nomics: FLN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLN3.jpg
+logoKey: currencies/fln3.jpg
 name: Falcon
 platform: BNB
 platform_contract: '0x37d39950f9c753d62529dbf68fcb4dca4004fbfd'

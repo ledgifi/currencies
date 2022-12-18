@@ -3,6 +3,7 @@ fiat: false
 id: SKK2
 id_nomics: SKK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SKK2.jpg
+logoKey: currencies/skk2.jpg
 name: Space Kill King
 platform: BNB
 platform_contract: '0x3cc237b6d172f06ddb375853853b33d3e403d893'

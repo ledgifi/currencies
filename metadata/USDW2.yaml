@@ -3,6 +3,7 @@ fiat: false
 id: USDW2
 id_nomics: USDW2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDW2.png
+logoKey: currencies/usdw2.png
 name: TetherPow
 platform: ETHW2
 platform_contract: '0x5186c4fb5752eb4a952c7ef03fae3e543f48383e'

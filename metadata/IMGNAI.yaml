@@ -3,6 +3,7 @@ fiat: false
 id: IMGNAI
 id_nomics: IMGNAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IMGNAI.jpg
+logoKey: currencies/imgnai.jpg
 name: Image Generation AI
 platform: ETH
 platform_contract: '0xA735A3AF76CC30791C61c10d585833829d36CBe0'

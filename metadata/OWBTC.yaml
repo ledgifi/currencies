@@ -3,6 +3,7 @@ fiat: false
 id: OWBTC
 id_nomics: OWBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OWBTC.png
+logoKey: currencies/owbtc.png
 name: Orbit Bridge Klaytn Wrapped BTC
 platform: KLAY
 platform_contract: '0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c'

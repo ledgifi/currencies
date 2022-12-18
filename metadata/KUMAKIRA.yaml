@@ -3,6 +3,7 @@ fiat: false
 id: KUMAKIRA
 id_nomics: KUMAKIRA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KUMAKIRA.jpg
+logoKey: currencies/kumakira.jpg
 name: Kuma Kira
 platform: BNB
 platform_contract: '0x690Cd853179BcAdD41785b772D7Bc247E5537E42'

@@ -3,6 +3,7 @@ fiat: false
 id: AIPRO
 id_nomics: AIPRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AIPRO.jpg
+logoKey: currencies/aipro.jpg
 name: AIPRO
 platform: ETH
 platform_contract: '0x913c9509b94d32ee38b0d98431c1ff109d24ff16'

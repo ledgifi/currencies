@@ -3,6 +3,7 @@ fiat: false
 id: CKITOKEN
 id_nomics: CKITOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CKITOKEN.jpg
+logoKey: currencies/ckitoken.jpg
 name: CKI TOKEN
 platform: BNB
 platform_contract: '0xC966876364C0d4f8d08D15cE2E25A19F2AC3c78d'

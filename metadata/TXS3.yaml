@@ -3,6 +3,7 @@ fiat: false
 id: TXS3
 id_nomics: TXS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TXS3.jpg
+logoKey: currencies/txs3.jpg
 name: XStudio
 platform: BNB
 platform_contract: '0xc042705c93525ae247c8998715e7942ef6135747'

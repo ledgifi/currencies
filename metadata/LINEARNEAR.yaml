@@ -3,6 +3,7 @@ fiat: false
 id: LINEARNEAR
 id_nomics: LINEARNEAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LINEARNEAR.png
+logoKey: currencies/linearnear.png
 name: LiNEAR Protocol (Near)
 platform: NEAR
 platform_contract: linear-protocol.near

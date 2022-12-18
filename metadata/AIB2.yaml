@@ -3,6 +3,7 @@ fiat: false
 id: AIB2
 id_nomics: AIB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AIB2.png
+logoKey: currencies/aib2.png
 name: All Inclusive Bot
 platform: BNB
 platform_contract: '0x33586b6a04cc5a53651a23028b96a273ee0e0bc1'

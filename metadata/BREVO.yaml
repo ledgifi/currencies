@@ -3,6 +3,7 @@ fiat: false
 id: BREVO
 id_nomics: BREVO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BREVO.jpg
+logoKey: currencies/brevo.jpg
 name: Binance Revolution
 platform: BNB
 platform_contract: '0x6dF8a02602fb3321858068d3dA8d1268a3161553'

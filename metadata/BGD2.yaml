@@ -3,6 +3,7 @@ fiat: false
 id: BGD2
 id_nomics: BGD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BGD2.jpg
+logoKey: currencies/bgd2.jpg
 name: Bitgold
 platform: BNB
 platform_contract: '0x516d11b8b6f69282c607c2afc58abdcf41dcaf2b'

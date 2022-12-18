@@ -3,6 +3,7 @@ fiat: false
 id: JACK3
 id_nomics: JACK3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JACK3.jpg
+logoKey: currencies/jack3.jpg
 name: Jackinu
 platform: BNB
 platform_contract: '0x81b8341329ec97e109b604d3c877065a5164aec1'

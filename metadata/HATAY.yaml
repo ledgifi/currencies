@@ -3,6 +3,7 @@ fiat: false
 id: HATAY
 id_nomics: HATAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HATAY.png
+logoKey: currencies/hatay.png
 name: Hatayspor Token
 platform: ETH
 platform_contract: '0xf3c6327b4c58e38a7986edb4a8f236031708f280'

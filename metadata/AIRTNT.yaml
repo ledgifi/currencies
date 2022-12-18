@@ -3,6 +3,7 @@ fiat: false
 id: AIRTNT
 id_nomics: AIRTNT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AIRTNT.png
+logoKey: currencies/airtnt.png
 name: Airtnt
 platform: MATIC
 platform_contract: '0x25c498781ca536547b147e2199f572e5393d36f0'

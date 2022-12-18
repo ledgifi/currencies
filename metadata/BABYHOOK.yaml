@@ -3,6 +3,7 @@ fiat: false
 id: BABYHOOK
 id_nomics: BABYHOOK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYHOOK.jpg
+logoKey: currencies/babyhook.jpg
 name: BabyHooked
 platform: BNB
 platform_contract: '0x35c65cbc16570c99fbedf0feeb2d3e1c955e291d'

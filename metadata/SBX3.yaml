@@ -3,6 +3,7 @@ fiat: false
 id: SBX3
 id_nomics: SBX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBX3.jpg
+logoKey: currencies/sbx3.jpg
 name: Senchain BCX
 platform: BNB
 platform_contract: '0x20b3b15ff7ec2586edab7d69b1fb6f57d481bb5b'

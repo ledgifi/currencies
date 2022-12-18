@@ -3,6 +3,7 @@ fiat: false
 id: BINX
 id_nomics: BINX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BINX.png
+logoKey: currencies/binx.png
 name: Binx
 platform: MATIC
 platform_contract: '0xEfC6951F17327aD83bACdd812B5758818Fefc89e'

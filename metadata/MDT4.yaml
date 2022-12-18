@@ -3,6 +3,7 @@ fiat: false
 id: MDT4
 id_nomics: MDT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MDT4.png
+logoKey: currencies/mdt4.png
 name: Meta Dance
 platform: KLAY
 platform_contract: '0x1b26a7e4d27ace6ba3bc82d5d1b26fb2d8616de0'

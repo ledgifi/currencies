@@ -3,6 +3,7 @@ fiat: false
 id: BUSDM
 id_nomics: BUSDM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUSDM.jpg
+logoKey: currencies/busdm.jpg
 name: BUSD Miners
 platform: BNB
 platform_contract: '0xa9dac2cca7ad012d31628449d303420a36bebdbe'

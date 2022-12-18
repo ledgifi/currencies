@@ -3,6 +3,7 @@ fiat: false
 id: GFLY
 id_nomics: GFLY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GFLY.jpg
+logoKey: currencies/gfly.jpg
 name: BattleFly
 platform: ARBETH
 platform_contract: '0x872bAD41CFc8BA731f811fEa8B2d0b9fd6369585'

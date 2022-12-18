@@ -3,6 +3,7 @@ fiat: false
 id: ZOGIERC20
 id_nomics: ZOGIERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZOGIERC20.png
+logoKey: currencies/zogierc20.png
 name: Zogi (ERC-20)
 platform: ETH
 platform_contract: '0x7e80e4d7d5725499791cf8b17a4586f1f0672a0c'

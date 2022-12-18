@@ -3,6 +3,7 @@ fiat: false
 id: RUNNINGRABBIT
 id_nomics: RUNNINGRABBIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RUNNINGRABBIT.jpg
+logoKey: currencies/runningrabbit.jpg
 name: RunningRabbit
 platform: BNB
 platform_contract: '0x4e3ec17f301325052e52cba1998dca8275ff768f'

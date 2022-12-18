@@ -3,6 +3,7 @@ fiat: false
 id: PINKBET
 id_nomics: PINKBET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PINKBET.jpg
+logoKey: currencies/pinkbet.jpg
 name: Pink BET
 platform: BNB
 platform_contract: '0x1446Af29C56C0106147b42e020392fC8dF3C8D40'

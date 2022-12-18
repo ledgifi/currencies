@@ -3,6 +3,7 @@ fiat: false
 id: TWTF
 id_nomics: TWTF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TWTF.png
+logoKey: currencies/twtf.png
 name: The Twitter Files
 platform: ETH
 platform_contract: '0xC9F340De8ae70072893C52B12D24aB910C2d8d03'

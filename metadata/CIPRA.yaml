@@ -3,6 +3,7 @@ fiat: false
 id: CIPRA
 id_nomics: CIPRA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CIPRA.jpg
+logoKey: currencies/cipra.jpg
 name: CIPRA NETWORK
 platform: BNB
 platform_contract: '0xd35edd64fbc8ddef476455b3c12fee5e7ebc1ded'

@@ -3,6 +3,7 @@ fiat: false
 id: BTCAERC20
 id_nomics: BTCAERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCAERC20.png
+logoKey: currencies/btcaerc20.png
 name: Bitcoin Anonymous [ETH]
 platform: ETH
 platform_contract: '0x6486e992bdbf80271fd2b8f97c67f0d7ca8affa3'

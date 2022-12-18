@@ -3,6 +3,7 @@ fiat: false
 id: TC3
 id_nomics: TC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TC3.png
+logoKey: currencies/tc3.png
 name: TokerrClassic
 platform: BNB
 platform_contract: '0x33d1eaea9e9f2347324bc6c718389679070e41e6'

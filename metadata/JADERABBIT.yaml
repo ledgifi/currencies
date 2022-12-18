@@ -3,6 +3,7 @@ fiat: false
 id: JADERABBIT
 id_nomics: JADERABBIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JADERABBIT.png
+logoKey: currencies/jaderabbit.png
 name: Jade Rabbit
 platform: ETH
 platform_contract: '0x4a84a297f0673a8f02c63ddd82ec42368b9a837d'

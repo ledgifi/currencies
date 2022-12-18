@@ -3,6 +3,7 @@ fiat: false
 id: SHIBGUN2
 id_nomics: SHIBGUN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBGUN2.jpg
+logoKey: currencies/shibgun2.jpg
 name: Shibagun
 platform: ETH
 platform_contract: '0xa3ba969dd831d4eff2baf930e7f66d2eef5d929c'

@@ -3,6 +3,7 @@ fiat: false
 id: GNP2
 id_nomics: GNP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GNP2.png
+logoKey: currencies/gnp2.png
 name: GreenAppa
 platform: BNB
 platform_contract: '0xef1f07a8cee55ed121f4557cc4ace6cb33d2caaf'

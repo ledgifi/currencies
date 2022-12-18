@@ -3,6 +3,7 @@ fiat: false
 id: XR2
 id_nomics: XR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XR2.png
+logoKey: currencies/xr2.png
 name: Runa
 platform: MATIC
 platform_contract: '0x9af9649403536fdcc52eafb9230852a824153223'

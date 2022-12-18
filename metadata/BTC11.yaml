@@ -3,6 +3,7 @@ fiat: false
 id: BTC11
 id_nomics: BTC11
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTC11.png
+logoKey: currencies/btc11.png
 name: Bitcoin [Polygon] (BTC)
 platform: MATIC
 platform_contract: '0x82734b765450adb1a89c4b068a3e34e2079dd838'

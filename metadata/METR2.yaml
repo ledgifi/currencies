@@ -3,6 +3,7 @@ fiat: false
 id: METR2
 id_nomics: METR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METR2.jpg
+logoKey: currencies/metr2.jpg
 name: Met Reality
 platform: BNB
 platform_contract: '0xa7955e034e96204529e32b63ae412415f322c630'

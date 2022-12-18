@@ -3,6 +3,7 @@ fiat: false
 id: DRB4
 id_nomics: DRB4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRB4.png
+logoKey: currencies/drb4.png
 name: Digimon Rabbit
 platform: BNB
 platform_contract: '0x485d37ca1c8d4e0b5b11b87604816a4843c079ed'

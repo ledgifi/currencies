@@ -3,6 +3,7 @@ fiat: false
 id: GEST2
 id_nomics: GEST2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GEST2.png
+logoKey: currencies/gest2.png
 name: Green Energy Support Token
 platform: BNB
 platform_contract: '0xc0D71a4e15377a24B60eeB8d52EDC09cB466CB54'

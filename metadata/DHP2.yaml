@@ -3,6 +3,7 @@ fiat: false
 id: DHP2
 id_nomics: DHP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DHP2.jpg
+logoKey: currencies/dhp2.jpg
 name: Diamond Holders Protocol
 platform: ETH
 platform_contract: '0x3BBAe6ec0aF0d3b5b5737eA60f5ed6265a920354'

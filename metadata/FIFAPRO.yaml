@@ -3,6 +3,7 @@ fiat: false
 id: FIFAPRO
 id_nomics: FIFAPRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIFAPRO.jpg
+logoKey: currencies/fifapro.jpg
 name: FIFA PROTOCOL
 platform: BNB
 platform_contract: '0x4527d43b5582e1f71f04f5142285f945457633b4'

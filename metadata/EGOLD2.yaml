@@ -3,6 +3,7 @@ fiat: false
 id: EGOLD2
 id_nomics: EGOLD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EGOLD2.jpg
+logoKey: currencies/egold2.jpg
 name: EGOLD - Algorithmic NFT Mining
 platform: BNB
 platform_contract: '0x8005D97E993668a528008d16338B42f9e976ED0F'

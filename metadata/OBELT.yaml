@@ -3,6 +3,7 @@ fiat: false
 id: OBELT
 id_nomics: OBELT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OBELT.png
+logoKey: currencies/obelt.png
 name: Orbit Bridge Klaytn BELT
 platform: KLAY
 platform_contract: '0xdfe180e288158231ffa5faf183eca3301344a51f'

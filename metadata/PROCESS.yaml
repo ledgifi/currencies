@@ -3,6 +3,7 @@ fiat: false
 id: PROCESS
 id_nomics: PROCESS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PROCESS.jpg
+logoKey: currencies/process.jpg
 name: Process Network
 platform: BNB
 platform_contract: '0xfd8dCA49eCe2108e5cA6f05327F47452AE1d26AC'

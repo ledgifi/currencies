@@ -3,6 +3,7 @@ fiat: false
 id: QATAR4
 id_nomics: QATAR4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QATAR4.png
+logoKey: currencies/qatar4.png
 name: QAtar
 platform: BNB
 platform_contract: '0x2651793ce5ec4d7f18322314f5fba1be3a8d9f0c'

@@ -3,6 +3,7 @@ fiat: false
 id: SHIB99
 id_nomics: SHIB99
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIB99.jpg
+logoKey: currencies/shib99.jpg
 name: SHIBA 2099
 platform: BNB
 platform_contract: '0x9bb9bd9a95a8816e5da5ee4b51f13b3ee1e75e57'

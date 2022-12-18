@@ -3,6 +3,7 @@ fiat: false
 id: SM96
 id_nomics: SM96
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SM96.webp
+logoKey: currencies/sm96.webp
 name: Safemoon 1996
 platform: BNB
 platform_contract: '0x4a76a1eaa365c10bd9b895acab5760d52ff2f7c9'

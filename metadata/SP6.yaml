@@ -3,6 +3,7 @@ fiat: false
 id: SP6
 id_nomics: SP6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SP6.png
+logoKey: currencies/sp6.png
 name: SANPUJA
 platform: BNB
 platform_contract: '0xfcCB632a669DdDda81710e2dDA8614aDD4E9234f'

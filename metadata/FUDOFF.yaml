@@ -3,6 +3,7 @@ fiat: false
 id: FUDOFF
 id_nomics: FUDOFF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FUDOFF.png
+logoKey: currencies/fudoff.png
 name: FIGHT UNTIL DEATH
 platform: BNB
 platform_contract: '0x67f3b26bfc40ce121257c298f49b7cb2fe078bce'

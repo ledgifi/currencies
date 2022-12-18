@@ -3,6 +3,7 @@ fiat: false
 id: ETHI
 id_nomics: ETHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHI.jpg
+logoKey: currencies/ethi.jpg
 name: Ethical
 platform: ETH
 platform_contract: '0xf708dbe00198d97e083ff77b8f506be38423ec99'

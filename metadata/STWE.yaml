@@ -3,6 +3,7 @@ fiat: false
 id: STWE
 id_nomics: STWE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STWE.jpg
+logoKey: currencies/stwe.jpg
 name: Safe Twelon
 platform: BNB
 platform_contract: '0x178731260C63B4053fD3E90c4882aA9f699Ce894'

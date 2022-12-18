@@ -3,6 +3,7 @@ fiat: false
 id: AMBIT
 id_nomics: AMBIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMBIT.jpg
+logoKey: currencies/ambit.jpg
 name: ambitfiance
 platform: BNB
 platform_contract: '0x9770939ec49161eebecb9b6c0884333f325ef0b5'

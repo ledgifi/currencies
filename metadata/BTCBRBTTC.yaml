@@ -3,6 +3,7 @@ fiat: false
 id: BTCBRBTTC
 id_nomics: BTCBRBTTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCBRBTTC.png
+logoKey: currencies/btcbrbttc.png
 name: BitcoinBR [BitTorrent Network]
 platform: BTT2
 platform_contract: '0x7ab45f17f3faff53aa9b3c580ad006b47829fcac'

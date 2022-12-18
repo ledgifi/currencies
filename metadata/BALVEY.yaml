@@ -3,6 +3,7 @@ fiat: false
 id: BALVEY
 id_nomics: BALVEY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BALVEY.png
+logoKey: currencies/balvey.png
 name: Baby Alvey
 platform: BNB
 platform_contract: '0x4c496592fd52c2810651b4862cc9fe13940fea31'

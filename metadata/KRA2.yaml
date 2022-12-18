@@ -3,6 +3,7 @@ fiat: false
 id: KRA2
 id_nomics: KRA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KRA2.png
+logoKey: currencies/kra2.png
 name: King Rabbit
 platform: BNB
 platform_contract: '0x660902b9395b1daf79f190de3ae44133e4ceaeab'

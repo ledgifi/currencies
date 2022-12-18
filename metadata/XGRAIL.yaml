@@ -3,6 +3,7 @@ fiat: false
 id: XGRAIL
 id_nomics: XGRAIL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XGRAIL.svg
+logoKey: currencies/xgrail.svg
 name: xGRAIL token
 platform: ARBETH
 platform_contract: '0x3CAaE25Ee616f2C8E13C74dA0813402eae3F496b'

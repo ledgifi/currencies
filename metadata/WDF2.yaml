@@ -3,6 +3,7 @@ fiat: false
 id: WDF2
 id_nomics: WDF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WDF2.jpg
+logoKey: currencies/wdf2.jpg
 name: Wallet Defi
 platform: BNB
 platform_contract: '0xfc12242996ed64382286d765572f19e9b843f196'

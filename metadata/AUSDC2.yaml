@@ -3,6 +3,7 @@ fiat: false
 id: AUSDC2
 id_nomics: AUSDC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AUSDC2.png
+logoKey: currencies/ausdc2.png
 name: aUSDC
 platform: MATIC
 platform_contract: '0xe87ba1bd11ee6e0d3c7dd6932e6a038e38627f65'

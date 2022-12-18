@@ -3,6 +3,7 @@ fiat: false
 id: WMOVR
 id_nomics: WMOVR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WMOVR.jpg
+logoKey: currencies/wmovr.jpg
 name: Wrapped MOVR
 platform: MOVR
 platform_contract: '0xf50225a84382c74cbdea10b0c176f71fc3de0c4d'

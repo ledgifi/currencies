@@ -3,6 +3,7 @@ fiat: false
 id: UNISANTA
 id_nomics: UNISANTA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNISANTA.png
+logoKey: currencies/unisanta.png
 name: UniSanta
 platform: BNB
 platform_contract: '0x4554ab1e5d033541d41639196a97000ca7b982ce'

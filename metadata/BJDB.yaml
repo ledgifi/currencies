@@ -3,6 +3,7 @@ fiat: false
 id: BJDB
 id_nomics: BJDB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BJDB.jpg
+logoKey: currencies/bjdb.jpg
 name: BabyJDBot
 platform: BNB
 platform_contract: '0x1e29c66aa708d9d6291eaad78cac65559ff70572'

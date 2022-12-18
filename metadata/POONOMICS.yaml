@@ -3,6 +3,7 @@ fiat: false
 id: POONOMICS
 id_nomics: POONOMICS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POONOMICS.png
+logoKey: currencies/poonomics.png
 name: PooNomics
 platform: BNB
 platform_contract: '0x9c5a41c126ef47e45bd04fd8d4a39c4756781c1f'

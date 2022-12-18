@@ -3,6 +3,7 @@ fiat: false
 id: SS3
 id_nomics: SS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SS3.jpg
+logoKey: currencies/ss3.jpg
 name: SecretSociety
 platform: ETH
 platform_contract: '0xe4b4c008ff36e3c50c4299c223504a480de9c833'

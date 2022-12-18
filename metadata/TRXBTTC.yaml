@@ -3,6 +3,7 @@ fiat: false
 id: TRXBTTC
 id_nomics: TRXBTTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRXBTTC.jpg
+logoKey: currencies/trxbttc.jpg
 name: Tron (BitTorrent)
 platform: BTT2
 platform_contract: '0xedf53026aea60f8f75fca25f8830b7e2d6200662'

@@ -3,6 +3,7 @@ fiat: false
 id: YMS
 id_nomics: YMS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YMS.png
+logoKey: currencies/yms.png
 name: Yeni Malatyaspor Token
 platform: ETH
 platform_contract: '0xd64126835cecaca345c8f137bda68e975f5ab790'

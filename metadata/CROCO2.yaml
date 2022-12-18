@@ -3,6 +3,7 @@ fiat: false
 id: CROCO2
 id_nomics: CROCO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CROCO2.png
+logoKey: currencies/croco2.png
 name: CROCO Network
 platform: BNB
 platform_contract: '0x8fac6e63d0a72220e6f3b056c1f7fcdc87213b9f'

@@ -3,6 +3,7 @@ fiat: false
 id: SNOW6
 id_nomics: SNOW6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNOW6.png
+logoKey: currencies/snow6.png
 name: SNOW
 platform: BNB
 platform_contract: '0xC6cE7532D5048808ea3F0adF2c1EED8bC596f04a'

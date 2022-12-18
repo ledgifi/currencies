@@ -3,6 +3,7 @@ fiat: false
 id: ZRXAVAX
 id_nomics: ZRXAVAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZRXAVAX.svg
+logoKey: currencies/zrxavax.svg
 name: 0x (Avalanche)
 platform: AVAX
 platform_contract: '0x596fa47043f99a4e0f122243b841e55375cde0d2'

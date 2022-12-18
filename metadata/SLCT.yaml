@@ -3,6 +3,7 @@ fiat: false
 id: SLCT
 id_nomics: SLCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLCT.png
+logoKey: currencies/slct.png
 name: SmartLeCo token
 platform: MATIC
 platform_contract: '0x04b05df237c62970bd8925321a71dd059ffe3e9c'

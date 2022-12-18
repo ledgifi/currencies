@@ -3,6 +3,7 @@ fiat: false
 id: ASW
 id_nomics: ASW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASW.jpg
+logoKey: currencies/asw.jpg
 name: AdaSwap
 platform: ETH
 platform_contract: '0x56694577564FdD577a0ABB20FE95C1E2756C2a11'

@@ -3,6 +3,7 @@ fiat: false
 id: KXP
 id_nomics: KXP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KXP.jpg
+logoKey: currencies/kxp.jpg
 name: KodexPay
 platform: BNB
 platform_contract: '0x02a655942dbb886c77bb22b270060c561300b0e2'

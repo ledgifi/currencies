@@ -3,6 +3,7 @@ fiat: false
 id: IPL2
 id_nomics: IPL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IPL2.png
+logoKey: currencies/ipl2.png
 name: INSEPARABLE
 platform: BNB
 platform_contract: '0xd625e86e41ecf854d7baed5f519a4a57991417bb'

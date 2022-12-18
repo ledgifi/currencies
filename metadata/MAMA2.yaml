@@ -3,6 +3,7 @@ fiat: false
 id: MAMA2
 id_nomics: MAMA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAMA2.png
+logoKey: currencies/mama2.png
 name: Masterpiece Maker
 platform: BNB
 platform_contract: '0x6710d8658094d1f02276b677345078f816bdb8f3'

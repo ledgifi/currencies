@@ -3,6 +3,7 @@ fiat: false
 id: CCHAIN
 id_nomics: CCHAIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CCHAIN.jpg
+logoKey: currencies/cchain.jpg
 name: CloudChain
 platform: ETH
 platform_contract: '0xbd701D582cCfF80C02c320ffb6bD8F202B89817d'

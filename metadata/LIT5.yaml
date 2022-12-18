@@ -3,6 +3,7 @@ fiat: false
 id: LIT5
 id_nomics: LIT5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIT5.png
+logoKey: currencies/lit5.png
 name: LIT
 platform: ETH
 platform_contract: '0xab78f098b3ca1a0fbc5fc611b22d739f5add13dd'

@@ -3,6 +3,7 @@ fiat: false
 id: MTLS
 id_nomics: MTLS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTLS.png
+logoKey: currencies/mtls.png
 name: Metal Friends
 platform: BNB
 platform_contract: '0x4d4af26f52c7e96a5f42d7a70caa43f2dab5acb4'

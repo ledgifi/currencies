@@ -3,6 +3,7 @@ fiat: false
 id: DPL2
 id_nomics: DPL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DPL2.jpg
+logoKey: currencies/dpl2.jpg
 name: DarePlay
 platform: BNB
 platform_contract: '0x08a5390fee3602ca833a9b6d3f12b0891b08e689'

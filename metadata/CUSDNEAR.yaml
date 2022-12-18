@@ -3,6 +3,7 @@ fiat: false
 id: CUSDNEAR
 id_nomics: CUSDNEAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CUSDNEAR.png
+logoKey: currencies/cusdnear.png
 name: Celo Dollar (Near)
 platform: NEAR
 platform_contract: cusd.token.a11bd.near

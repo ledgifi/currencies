@@ -3,6 +3,7 @@ fiat: false
 id: ACRIA
 id_nomics: ACRIA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACRIA.jpg
+logoKey: currencies/acria.jpg
 name: Acria Network
 platform: ETH
 platform_contract: '0x44f5909e97e1cbf5fbbdf0fc92fd83cde5d5c58a'

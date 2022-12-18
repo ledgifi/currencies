@@ -3,6 +3,7 @@ fiat: false
 id: BTC8
 id_nomics: BTC8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTC8.png
+logoKey: currencies/btc8.png
 name: BTC (BTC)
 platform: BNB
 platform_contract: '0x088a8920ae2313a918d1a4bf078e58ea6bf4d719'

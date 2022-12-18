@@ -3,6 +3,7 @@ fiat: false
 id: BLACK4
 id_nomics: BLACK4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLACK4.jpg
+logoKey: currencies/black4.jpg
 name: Black Token
 platform: BNB
 platform_contract: '0xa2f1a99a74d4cc072b810b1696239e4dd76221c4'

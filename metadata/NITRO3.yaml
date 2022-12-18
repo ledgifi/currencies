@@ -3,6 +3,7 @@ fiat: false
 id: NITRO3
 id_nomics: NITRO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NITRO3.png
+logoKey: currencies/nitro3.png
 name: Nitro
 platform: BNB
 platform_contract: '0x8a1cb5289ee4c5a0f0d9dc83225619b11d24e031'

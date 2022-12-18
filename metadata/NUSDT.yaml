@@ -3,6 +3,7 @@ fiat: false
 id: NUSDT
 id_nomics: NUSDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NUSDT.png
+logoKey: currencies/nusdt.png
 name: Normalized Tether USD
 platform: ETH
 platform_contract: '0x2205d2f559ef91580090011aa4e0ef68ec33da44'

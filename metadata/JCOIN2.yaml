@@ -3,6 +3,7 @@ fiat: false
 id: JCOIN2
 id_nomics: JCOIN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JCOIN2.jpg
+logoKey: currencies/jcoin2.jpg
 name: Juno Coin
 platform: ETH
 platform_contract: '0x7C72f41342d485D59A890528880a210ee7BFBb73'

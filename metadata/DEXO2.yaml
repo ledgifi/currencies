@@ -3,6 +3,7 @@ fiat: false
 id: DEXO2
 id_nomics: DEXO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEXO2.jpg
+logoKey: currencies/dexo2.jpg
 name: DEXO
 platform: BNB
 platform_contract: '0xfcfc325875c949f049649101082f703000cb205d'

@@ -3,6 +3,7 @@ fiat: false
 id: POM4
 id_nomics: POM4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POM4.png
+logoKey: currencies/pom4.png
 name: Pomeranian ETH
 platform: ETH
 platform_contract: '0x24ffe459f51ea20c5d8ad49843529fc33654e7e4'

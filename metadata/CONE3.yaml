@@ -3,6 +3,7 @@ fiat: false
 id: CONE3
 id_nomics: CONE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CONE3.png
+logoKey: currencies/cone3.png
 name: BitCone
 platform: MATIC
 platform_contract: '0xba777ae3a3c91fcd83ef85bfe65410592bdd0f7c'

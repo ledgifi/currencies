@@ -3,6 +3,7 @@ fiat: false
 id: GSX50
 id_nomics: GSX50
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GSX50.png
+logoKey: currencies/gsx50.png
 name: GenesisX50
 platform: BNB
 platform_contract: '0xe953ec90533756a478068f0a97b92aa53fc5018b'

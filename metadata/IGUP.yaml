@@ -3,6 +3,7 @@ fiat: false
 id: IGUP
 id_nomics: IGUP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IGUP.png
+logoKey: currencies/igup.png
 name: IguVerse
 platform: BNB
 platform_contract: '0x522d0f9f3eff479a5b256bb1c1108f47b8e1a153'

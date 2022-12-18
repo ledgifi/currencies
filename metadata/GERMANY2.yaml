@@ -3,6 +3,7 @@ fiat: false
 id: GERMANY2
 id_nomics: GERMANY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GERMANY2.png
+logoKey: currencies/germany2.png
 name: Germany Rabbit Token
 platform: BNB
 platform_contract: '0xd9d0e3dd09c78930de4ac83856bd0af6d3dd2022'

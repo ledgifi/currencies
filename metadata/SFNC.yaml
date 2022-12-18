@@ -3,6 +3,7 @@ fiat: false
 id: SFNC
 id_nomics: SFNC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFNC.jpg
+logoKey: currencies/sfnc.jpg
 name: Synthetic FNC
 platform: MATIC
 platform_contract: '0x8f06208951e202d30769f50faec22aeec7621be2'

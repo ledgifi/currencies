@@ -3,6 +3,7 @@ fiat: false
 id: RABBITSWAP
 id_nomics: RABBITSWAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RABBITSWAP.jpg
+logoKey: currencies/rabbitswap.jpg
 name: RabbitSwap
 platform: BNB
 platform_contract: '0xb5d1385138ac0de1ccc88fe5419a98bb252d47f6'

@@ -3,6 +3,7 @@ fiat: false
 id: GOM2
 id_nomics: GOM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOM2.jpg
+logoKey: currencies/gom2.jpg
 name: GoMoney2
 platform: ETH
 platform_contract: '0x48783486ddd7fa85eca6b0c4ae8920bc25dfbcd7'

@@ -3,6 +3,7 @@ fiat: false
 id: CUBIX
 id_nomics: CUBIX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CUBIX.png
+logoKey: currencies/cubix.png
 name: CUBIX
 platform: MATIC
 platform_contract: '0xa0e5c8b2b2e345c72f452880b2c164b944012907'

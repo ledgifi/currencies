@@ -3,6 +3,7 @@ fiat: false
 id: FAIRHEX
 id_nomics: FAIRHEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FAIRHEX.png
+logoKey: currencies/fairhex.png
 name: FairHEX
 platform: ETH
 platform_contract: '0xed390c5f9df0d65eb7033e59dc1b0944233c2a20'

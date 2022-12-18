@@ -3,6 +3,7 @@ fiat: false
 id: FISH9
 id_nomics: FISH9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FISH9.png
+logoKey: currencies/fish9.png
 name: SwapFish
 platform: ARBETH
 platform_contract: '0xb348b87b23d5977e2948e6f36ca07e1ec94d7328'

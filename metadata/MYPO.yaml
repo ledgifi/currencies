@@ -3,6 +3,7 @@ fiat: false
 id: MYPO
 id_nomics: MYPO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MYPO.webp
+logoKey: currencies/mypo.webp
 name: MyPoints E-Commerce
 platform: BNB
 platform_contract: '0xd0ba1cad35341acd1cd88a85e16b054ba9ccc385'

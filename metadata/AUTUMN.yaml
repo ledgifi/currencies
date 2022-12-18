@@ -3,6 +3,7 @@ fiat: false
 id: AUTUMN
 id_nomics: AUTUMN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AUTUMN.png
+logoKey: currencies/autumn.png
 name: Autumn Token
 platform: ETH
 platform_contract: '0x4c3bae16c79c30eeb1004fb03c878d89695e3a99'

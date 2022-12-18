@@ -3,6 +3,7 @@ fiat: false
 id: TRUMPLON
 id_nomics: TRUMPLON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRUMPLON.png
+logoKey: currencies/trumplon.png
 name: TrumpLon
 platform: BNB
 platform_contract: '0x6d835d2c2A5C1351bbe1B1587d7Dfe95a5415eA8'

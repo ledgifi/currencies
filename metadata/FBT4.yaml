@@ -3,6 +3,7 @@ fiat: false
 id: FBT4
 id_nomics: FBT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FBT4.jpg
+logoKey: currencies/fbt4.jpg
 name: FIFA Bet Token
 platform: BNB
 platform_contract: '0xe4e3fe4252264bd2bf5800a0fc283e9f61f697cf'

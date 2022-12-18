@@ -3,6 +3,7 @@ fiat: false
 id: ZILLACOIN
 id_nomics: ZILLACOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZILLACOIN.jpg
+logoKey: currencies/zillacoin.jpg
 name: ZillaCoin
 platform: BNB
 platform_contract: '0xc12a601724b388bf8c16dda9da3daac08643de85'

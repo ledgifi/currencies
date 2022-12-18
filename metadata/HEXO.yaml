@@ -3,6 +3,7 @@ fiat: false
 id: HEXO
 id_nomics: HEXO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HEXO.jpg
+logoKey: currencies/hexo.jpg
 name: HEXO Protocol
 platform: BNB
 platform_contract: '0x9c37d2dbff4ba578b37945f2cf7a3a794cb8177a'

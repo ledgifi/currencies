@@ -3,6 +3,7 @@ fiat: false
 id: FLOKIA
 id_nomics: FLOKIA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKIA.jpg
+logoKey: currencies/flokia.jpg
 name: Floki Astro
 platform: BNB
 platform_contract: '0x7fd4a32bb33cd75856be161f7c24edf10bfc88b1'

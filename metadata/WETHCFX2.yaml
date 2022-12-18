@@ -3,6 +3,7 @@ fiat: false
 id: WETHCFX2
 id_nomics: WETHCFX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WETHCFX2.png
+logoKey: currencies/wethcfx2.png
 name: Wrapped Ether (Conflux)
 platform: CFX2
 platform_contract: '0xa47f43de2f9623acb395ca4905746496d2014d57'

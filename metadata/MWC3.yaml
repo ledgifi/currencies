@@ -3,6 +3,7 @@ fiat: false
 id: MWC3
 id_nomics: MWC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MWC3.png
+logoKey: currencies/mwc3.png
 name: Mafia World Cup
 platform: BNB
 platform_contract: '0x9fC5568A9C85F302A40C10dAFdEDdCdbDe87c5b2'

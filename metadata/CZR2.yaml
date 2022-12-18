@@ -3,6 +3,7 @@ fiat: false
 id: CZR2
 id_nomics: CZR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CZR2.svg
+logoKey: currencies/czr2.svg
 name: CZRed
 platform: BNB
 platform_contract: '0x5cd0c2C744caF04cda258Efc6558A3Ed3defE97b'

@@ -3,6 +3,7 @@ fiat: false
 id: UNIDO
 id_nomics: UNIDO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNIDO.jpg
+logoKey: currencies/unido.jpg
 name: UnidogeFinance Token
 platform: DC7
 platform_contract: '0x565f1d2fc198c8661b63dcf39befb39e5bb736d6'

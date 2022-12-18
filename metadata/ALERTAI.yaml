@@ -3,6 +3,7 @@ fiat: false
 id: ALERTAI
 id_nomics: ALERTAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALERTAI.webp
+logoKey: currencies/alertai.webp
 name: Alert-AI
 platform: BNB
 platform_contract: '0xcb87d8388558dfc66402d3b39288ab44bcd045ea'

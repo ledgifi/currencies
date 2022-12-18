@@ -3,6 +3,7 @@ fiat: false
 id: BIB3
 id_nomics: BIB3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIB3.png
+logoKey: currencies/bib3.png
 name: BIB Token
 platform: BNB
 platform_contract: '0x2b339d46e157cf93de6a919aa05350e952f67359'

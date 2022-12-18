@@ -3,6 +3,7 @@ fiat: false
 id: MGROW
 id_nomics: MGROW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MGROW.jpg
+logoKey: currencies/mgrow.jpg
 name: MARVIN GROW
 platform: BNB
 platform_contract: '0xac8d1122dc90fa72b359b8067d247304b825f3b9'

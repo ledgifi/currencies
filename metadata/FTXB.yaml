@@ -3,6 +3,7 @@ fiat: false
 id: FTXB
 id_nomics: FTXB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FTXB.jpg
+logoKey: currencies/ftxb.jpg
 name: FTX Burn
 platform: BNB
 platform_contract: '0x1e6b0569f30ACa01e9ecefbcEAd2377D219E848a'

@@ -3,6 +3,7 @@ fiat: false
 id: SANTAGROW
 id_nomics: SANTAGROW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SANTAGROW.png
+logoKey: currencies/santagrow.png
 name: SantaGrow
 platform: BNB
 platform_contract: '0x971DA639582DA982FCC0869f12AD2107791c548c'

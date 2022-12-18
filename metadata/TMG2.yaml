@@ -3,6 +3,7 @@ fiat: false
 id: TMG2
 id_nomics: TMG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TMG2.jpg
+logoKey: currencies/tmg2.jpg
 name: T-mac DAO
 platform: BNB
 platform_contract: '0x71b87be9ccbabe4f393e809dfc26df3c9720e0a2'

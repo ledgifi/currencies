@@ -3,6 +3,7 @@ fiat: false
 id: GENI3
 id_nomics: GENI3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GENI3.png
+logoKey: currencies/geni3.png
 name: Genius
 platform: BNB
 platform_contract: '0x444444444444c1a66f394025ac839a535246fcc8'

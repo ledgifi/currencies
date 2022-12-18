@@ -3,6 +3,7 @@ fiat: false
 id: SHPPOS
 id_nomics: SHPPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHPPOS.jpg
+logoKey: currencies/shppos.jpg
 name: Staking LTD
 platform: MATIC
 platform_contract: '0x7630011aa45b24a68ef7011736ee954ba5bd20ab'

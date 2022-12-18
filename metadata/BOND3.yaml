@@ -3,6 +3,7 @@ fiat: false
 id: BOND3
 id_nomics: BOND3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOND3.jpg
+logoKey: currencies/bond3.jpg
 name: Bondly
 platform: BNB
 platform_contract: '0xb19a3f8761e4ecfd26aaa2e3a302b45692daced3'

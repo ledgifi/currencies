@@ -3,6 +3,7 @@ fiat: false
 id: BTC14
 id_nomics: BTC14
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTC14.png
+logoKey: currencies/btc14.png
 name: Bitcoin [Ethereum Pow] (BTC)
 platform: ETHW2
 platform_contract: '0x8394992030f20f720ecEa32761773194ee571C5e'

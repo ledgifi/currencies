@@ -3,6 +3,7 @@ fiat: false
 id: BIDZ
 id_nomics: BIDZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIDZ.png
+logoKey: currencies/bidz.png
 name: BIDZ Coin
 platform: BNB
 platform_contract: '0xc2ebaa5f640b30c0d6712a6e0656fb816c10a7d4'

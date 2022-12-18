@@ -3,6 +3,7 @@ fiat: false
 id: SHP3
 id_nomics: SHP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHP3.jpg
+logoKey: currencies/shp3.jpg
 name: Staking LTD
 platform: FTM
 platform_contract: '0xe381a3fde9c94feebbb8db1407885904785882f6'

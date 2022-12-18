@@ -3,6 +3,7 @@ fiat: false
 id: CATCORN
 id_nomics: CATCORN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CATCORN.jpg
+logoKey: currencies/catcorn.jpg
 name: CatCorn
 platform: BNB
 platform_contract: '0x31376c856c4f0d9bade5aac203127a94b0994610'

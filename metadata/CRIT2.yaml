@@ -3,6 +3,7 @@ fiat: false
 id: CRIT2
 id_nomics: CRIT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRIT2.jpg
+logoKey: currencies/crit2.jpg
 name: Critereum
 platform: BNB
 platform_contract: '0x89abb24cb18fbef540e49d0e474bf1b59b1c59df'

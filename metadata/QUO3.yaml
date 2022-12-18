@@ -3,6 +3,7 @@ fiat: false
 id: QUO3
 id_nomics: QUO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QUO3.webp
+logoKey: currencies/quo3.webp
 name: QUO
 platform: BNB
 platform_contract: '0x08b450e4a48c04cdf6db2bd4cf24057f7b9563ff'

@@ -3,6 +3,7 @@ fiat: false
 id: ALT10
 id_nomics: ALT10
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALT10.png
+logoKey: currencies/alt10.png
 name: ArchLoot
 platform: BNB
 platform_contract: '0x1BD55090B8878630E57FAE6eBd11FD61d16DFC9f'

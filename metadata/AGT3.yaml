@@ -3,6 +3,7 @@ fiat: false
 id: AGT3
 id_nomics: AGT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AGT3.png
+logoKey: currencies/agt3.png
 name: AvataGo
 platform: BNB
 platform_contract: '0x49074051AD996828504D7F719Fc5769aC942220d'

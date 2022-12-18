@@ -3,6 +3,7 @@ fiat: false
 id: VOLT9
 id_nomics: VOLT9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VOLT9.png
+logoKey: currencies/volt9.png
 name: Volt Inu V2
 platform: ETH
 platform_contract: '0x7db5af2b9624e1b3b4bb69d6debd9ad1016a58ac'

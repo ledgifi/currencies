@@ -3,6 +3,7 @@ fiat: false
 id: RYN
 id_nomics: RYN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RYN.jpg
+logoKey: currencies/ryn.jpg
 name: RABBIT NEW YEAR
 platform: BNB
 platform_contract: '0x0d929c3081f92d143024aa7da5ff9f00db990352'

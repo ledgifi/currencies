@@ -3,6 +3,7 @@ fiat: false
 id: DAI4
 id_nomics: DAI4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAI4.png
+logoKey: currencies/dai4.png
 name: DecentraAI
 platform: BNB
 platform_contract: '0x43e6b20ed7f452dbb746ca9984f7b4d3d7f95f95'

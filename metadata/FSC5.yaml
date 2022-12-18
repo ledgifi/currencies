@@ -3,6 +3,7 @@ fiat: false
 id: FSC5
 id_nomics: FSC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FSC5.png
+logoKey: currencies/fsc5.png
 name: Fileshare Platform
 platform: ETH
 platform_contract: '0x5f4361971667c8198706dec8c59cf7607e405c6e'

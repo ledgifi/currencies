@@ -3,6 +3,7 @@ fiat: false
 id: AG4
 id_nomics: AG4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AG4.jpg
+logoKey: currencies/ag4.jpg
 name: AGAME
 platform: BNB
 platform_contract: '0x88888888faedeb25b94a015af705f18666079038'

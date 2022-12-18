@@ -3,6 +3,7 @@ fiat: false
 id: POSDON
 id_nomics: POSDON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POSDON.png
+logoKey: currencies/posdon.png
 name: Poseidon
 platform: BNB
 platform_contract: '0x3A4C0F080c3D1C0dF58ccF60557EdAB86A85e2aD'

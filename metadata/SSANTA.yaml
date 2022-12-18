@@ -3,6 +3,7 @@ fiat: false
 id: SSANTA
 id_nomics: SSANTA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SSANTA.jpg
+logoKey: currencies/ssanta.jpg
 name: Super Santa
 platform: BNB
 platform_contract: '0xbe52c54a64f62ca4a8fa46d7903775ad6ea5a467'

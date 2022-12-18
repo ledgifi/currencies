@@ -3,6 +3,7 @@ fiat: false
 id: DEXFY
 id_nomics: DEXFY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEXFY.jpg
+logoKey: currencies/dexfy.jpg
 name: Dexify
 platform: ETH
 platform_contract: '0xf09be999c002db5c85c4c1c274c2dc8d4e08cad8'

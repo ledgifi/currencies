@@ -3,6 +3,7 @@ fiat: false
 id: TRKO
 id_nomics: TRKO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRKO.png
+logoKey: currencies/trko.png
 name: Trko
 platform: BNB
 platform_contract: '0xe63A38B2d8066fB57E14312f2B381b0443E28A9d'

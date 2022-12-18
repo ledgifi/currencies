@@ -3,6 +3,7 @@ fiat: false
 id: BINU5
 id_nomics: BINU5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BINU5.jpg
+logoKey: currencies/binu5.jpg
 name: Baby Inu
 platform: BNB
 platform_contract: '0x50f54fbcd1c6b0c847c72c71fd45032c7206a7e1'

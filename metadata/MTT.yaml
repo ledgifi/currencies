@@ -3,6 +3,7 @@ fiat: false
 id: MTT
 id_nomics: MTT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTT.jpg
+logoKey: currencies/mtt.jpg
 name: MeetToken
 platform: ETH
 platform_contract: '0xe54bed429c033bae5cb0747efa0f41beefd9e99a'

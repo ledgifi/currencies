@@ -3,6 +3,7 @@ fiat: false
 id: MAORABBIT
 id_nomics: MAORABBIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAORABBIT.jpg
+logoKey: currencies/maorabbit.jpg
 name: MaoRabbit
 platform: BNB
 platform_contract: '0x037d70234eea7d05e8cd6796d89bc37a2ac45de9'

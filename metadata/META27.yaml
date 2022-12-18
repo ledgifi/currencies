@@ -3,6 +3,7 @@ fiat: false
 id: META27
 id_nomics: META27
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/META27.png
+logoKey: currencies/meta27.png
 name: METABIZ
 platform: BNB
 platform_contract: '0xDd6eF888477d801D762a99e35E986315DC502B98'

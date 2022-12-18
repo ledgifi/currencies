@@ -3,6 +3,7 @@ fiat: false
 id: PULSEM
 id_nomics: PULSEM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PULSEM.jpg
+logoKey: currencies/pulsem.jpg
 name: Pulse Meds
 platform: BNB
 platform_contract: '0x7f58F58a90b0d92F66f458147330bB9205913BB6'

@@ -3,6 +3,7 @@ fiat: false
 id: FLIGHT2
 id_nomics: FLIGHT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLIGHT2.jpg
+logoKey: currencies/flight2.jpg
 name: Flight Clup Coin
 platform: BNB
 platform_contract: '0xf397680d99a92e4b60637e9f5c71a4def1f6c7b5'

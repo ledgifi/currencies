@@ -3,6 +3,7 @@ fiat: false
 id: ALUSDOP
 id_nomics: ALUSDOP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALUSDOP.jpg
+logoKey: currencies/alusdop.jpg
 name: Alchemix USD (Optimism)
 platform: OPETH
 platform_contract: '0xcb8fa9a76b8e203d8c3797bf438d8fb81ea3326a'

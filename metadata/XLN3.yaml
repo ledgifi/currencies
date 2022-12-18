@@ -3,6 +3,7 @@ fiat: false
 id: XLN3
 id_nomics: XLN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XLN3.jpg
+logoKey: currencies/xln3.jpg
 name: Stellaris Network
 platform: BNB
 platform_contract: '0x058a3985afc2ed0feabba3133e599de97deb2c0c'

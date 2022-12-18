@@ -3,6 +3,7 @@ fiat: false
 id: FMS
 id_nomics: FMS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FMS.jpg
+logoKey: currencies/fms.jpg
 name: Web3 social network
 platform: MATIC
 platform_contract: '0x8473443bb2cda3d26ce70ec9fcdd89b683c19362'

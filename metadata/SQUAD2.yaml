@@ -3,6 +3,7 @@ fiat: false
 id: SQUAD2
 id_nomics: SQUAD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SQUAD2.png
+logoKey: currencies/squad2.png
 name: SQUAD INU
 platform: BNB
 platform_contract: '0x1c6c94e2300485ac1fe437329fb03a1dc6e20888'

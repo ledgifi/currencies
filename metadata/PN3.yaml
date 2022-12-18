@@ -3,6 +3,7 @@ fiat: false
 id: PN3
 id_nomics: PN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PN3.jpg
+logoKey: currencies/pn3.jpg
 name: PixelNetwork
 platform: ETH
 platform_contract: '0x62fa43fd87545c5c0d3236fb25e165afb296dc6f'

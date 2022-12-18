@@ -3,6 +3,7 @@ fiat: false
 id: FWCL
 id_nomics: FWCL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FWCL.jpg
+logoKey: currencies/fwcl.jpg
 name: Legends
 platform: BNB
 platform_contract: '0x83adb07bb91ddde95a24982f1b2d343963ba3995'

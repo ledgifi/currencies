@@ -3,6 +3,7 @@ fiat: false
 id: KVX
 id_nomics: KVX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KVX.jpg
+logoKey: currencies/kvx.jpg
 name: KVX Token
 platform: ETH
 platform_contract: '0xee3675969662a4d3fd901a40f3a3d9ba6f335b99'

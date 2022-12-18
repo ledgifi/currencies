@@ -3,6 +3,7 @@ fiat: false
 id: PMD3
 id_nomics: PMD3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PMD3.png
+logoKey: currencies/pmd3.png
 name: Promodio
 platform: ETH
 platform_contract: '0xf5555732b3925356964695578fefcffcd31bcbb8'

@@ -3,6 +3,7 @@ fiat: false
 id: ROSA2
 id_nomics: ROSA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROSA2.png
+logoKey: currencies/rosa2.png
 name: Rosa Finance
 platform: BNB
 platform_contract: '0xe09a89df0264ee75f589d2498ba530d8532ba15d'

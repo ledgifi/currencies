@@ -3,6 +3,7 @@ fiat: false
 id: SPOT3
 id_nomics: SPOT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPOT3.jpg
+logoKey: currencies/spot3.jpg
 name: Spot
 platform: ETH
 platform_contract: '0xc1f33e0cf7e40a67375007104b929e49a581bafe'

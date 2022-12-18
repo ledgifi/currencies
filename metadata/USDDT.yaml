@@ -3,6 +3,7 @@ fiat: false
 id: USDDT
 id_nomics: USDDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDDT.png
+logoKey: currencies/usddt.png
 name: Decentralized USD_TRON
 platform: BTT2
 platform_contract: '0x17f235fd5974318e4e2a5e37919a209f7c37a6d1'

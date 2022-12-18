@@ -3,6 +3,7 @@ fiat: false
 id: TWDO
 id_nomics: TWDO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TWDO.png
+logoKey: currencies/twdo.png
 name: Tweet Doge
 platform: BNB
 platform_contract: '0x25a1e3b1d6f3e391e72254cae5b2590e31a0f5ae'

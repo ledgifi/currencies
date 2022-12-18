@@ -3,6 +3,7 @@ fiat: false
 id: CC15
 id_nomics: CC15
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CC15.jpg
+logoKey: currencies/cc15.jpg
 name: Colosseum Coin
 platform: BNB
 platform_contract: '0x0C21AC471494dFca9a0A2406e52c6f45D3c4E0C6'

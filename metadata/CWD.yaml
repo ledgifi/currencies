@@ -3,6 +3,7 @@ fiat: false
 id: CWD
 id_nomics: CWD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CWD.jpg
+logoKey: currencies/cwd.jpg
 name: CROWD
 platform: ETH
 platform_contract: '0x374fb05c96c36348b92e38fb088b26b8511e3b3d'

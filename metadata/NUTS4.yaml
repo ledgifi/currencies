@@ -3,6 +3,7 @@ fiat: false
 id: NUTS4
 id_nomics: NUTS4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NUTS4.jpg
+logoKey: currencies/nuts4.jpg
 name: NutsDAO
 platform: ETH
 platform_contract: '0x981dc247745800bd2ca28a4bf147f0385eaa0bc0'

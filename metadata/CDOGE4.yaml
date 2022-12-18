@@ -3,6 +3,7 @@ fiat: false
 id: CDOGE4
 id_nomics: CDOGE4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CDOGE4.png
+logoKey: currencies/cdoge4.png
 name: CDOGE
 platform: BNB
 platform_contract: '0x560f41c26c1da51ccfc86b52dfe50b5e0105f5b0'

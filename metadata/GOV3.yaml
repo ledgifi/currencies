@@ -3,6 +3,7 @@ fiat: false
 id: GOV3
 id_nomics: GOV3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOV3.png
+logoKey: currencies/gov3.png
 name: SubDAO
 platform: ETH
 platform_contract: '0x274e7eb07b485cfde53d02270555213447570ac6'

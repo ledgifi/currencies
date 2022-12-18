@@ -3,6 +3,7 @@ fiat: false
 id: BISOAL
 id_nomics: BISOAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BISOAL.png
+logoKey: currencies/bisoal.png
 name: Bisoal
 platform: BNB
 platform_contract: '0xBFacef3A11775B648D65eC557F67E57d110E5c4C'

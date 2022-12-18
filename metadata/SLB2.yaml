@@ -3,6 +3,7 @@ fiat: false
 id: SLB2
 id_nomics: SLB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLB2.jpg
+logoKey: currencies/slb2.jpg
 name: Smooth Launch Bot
 platform: BNB
 platform_contract: '0x037faee80a8b7d5616597198bf1afffb3f132c8b'

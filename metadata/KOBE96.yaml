@@ -3,6 +3,7 @@ fiat: false
 id: KOBE96
 id_nomics: KOBE96
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KOBE96.jpg
+logoKey: currencies/kobe96.jpg
 name: KOBE1996
 platform: BNB
 platform_contract: '0x985b95f2f33d798210e087ed460d37978e773b14'

@@ -3,6 +3,7 @@ fiat: false
 id: 10SET2
 id_nomics: 10SET2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/10SET2.png
+logoKey: currencies/10set2.png
 name: Tenset V2
 platform: BNB
 platform_contract: '0x1AE369A6AB222aFF166325B7b87Eb9aF06C86E57'

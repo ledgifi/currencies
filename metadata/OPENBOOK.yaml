@@ -3,6 +3,7 @@ fiat: false
 id: OPENBOOK
 id_nomics: OPENBOOK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OPENBOOK.jpg
+logoKey: currencies/openbook.jpg
 name: OpenBook
 platform: BNB
 platform_contract: '0x02a0fd020d8493f6779504014ad3402e8d2bb4ca'

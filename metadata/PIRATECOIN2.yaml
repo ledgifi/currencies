@@ -3,6 +3,7 @@ fiat: false
 id: PIRATECOIN2
 id_nomics: PIRATECOIN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIRATECOIN2.png
+logoKey: currencies/piratecoin2.png
 name: Pirate Coin V2
 platform: BNB
 platform_contract: '0x3c3e6e468e4d9addf6439722c81b37de2ea39c90'

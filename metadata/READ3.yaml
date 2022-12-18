@@ -3,6 +3,7 @@ fiat: false
 id: READ3
 id_nomics: READ3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/READ3.jpg
+logoKey: currencies/read3.jpg
 name: Reach DAO
 platform: BNB
 platform_contract: '0x271b446d0c2230f59a7c5cc4b61cb84d7e4bd0dd'

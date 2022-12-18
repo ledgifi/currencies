@@ -3,6 +3,7 @@ fiat: false
 id: XMATIC
 id_nomics: XMATIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XMATIC.png
+logoKey: currencies/xmatic.png
 name: xMATIC
 platform: MATIC
 platform_contract: '0xf6d5d14c5684fa5853a3be6d217cad19c6ab2164'

@@ -3,6 +3,7 @@ fiat: false
 id: FT4
 id_nomics: FT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FT4.png
+logoKey: currencies/ft4.png
 name: Fanverse
 platform: BNB
 platform_contract: '0x43d1416171d683816b067347a1727861a9cfef9a'

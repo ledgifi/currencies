@@ -3,6 +3,7 @@ fiat: false
 id: MIMATICOP
 id_nomics: MIMATICOP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIMATICOP.jpg
+logoKey: currencies/mimaticop.jpg
 name: miMatic (Optimism)
 platform: OPETH
 platform_contract: '0xdfa46478f9e5ea86d57387849598dbfb2e964b02'

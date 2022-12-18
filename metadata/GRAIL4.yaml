@@ -3,6 +3,7 @@ fiat: false
 id: GRAIL4
 id_nomics: GRAIL4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GRAIL4.svg
+logoKey: currencies/grail4.svg
 name: GRAIL token
 platform: ARBETH
 platform_contract: '0x3d9907f9a368ad0a51be60f7da3b97cf940982d8'

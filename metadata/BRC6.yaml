@@ -3,6 +3,7 @@ fiat: false
 id: BRC6
 id_nomics: BRC6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRC6.jpg
+logoKey: currencies/brc6.jpg
 name: BORCOIN
 platform: MATIC
 platform_contract: '0x844391614427309fa4146ca3de4f929c7250affc'

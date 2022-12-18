@@ -3,6 +3,7 @@ fiat: false
 id: ALTC2
 id_nomics: ALTC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALTC2.png
+logoKey: currencies/altc2.png
 name: ALTCrypto
 platform: BNB
 platform_contract: '0x4e9d2a4e614c29961afaedbfb28414ec14d43ce1'

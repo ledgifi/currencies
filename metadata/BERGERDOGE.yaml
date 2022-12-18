@@ -3,6 +3,7 @@ fiat: false
 id: BERGERDOGE
 id_nomics: BERGERDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BERGERDOGE.png
+logoKey: currencies/bergerdoge.png
 name: BergerDoge
 platform: BNB
 platform_contract: '0x7fa92c33fdfa1050256437b302832a2ed530859f'

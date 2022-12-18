@@ -3,6 +3,7 @@ fiat: false
 id: RODOBEP20
 id_nomics: RODOBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RODOBEP20.jpg
+logoKey: currencies/rodobep20.jpg
 name: RODO (BEP-20)
 platform: BNB
 platform_contract: '0xed08918b059afa36ec8ab2611bdecd2dd7e6508c'

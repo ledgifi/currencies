@@ -3,6 +3,7 @@ fiat: false
 id: NEWAI
 id_nomics: NEWAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEWAI.jpg
+logoKey: currencies/newai.jpg
 name: New AI
 platform: ETH
 platform_contract: '0xb04bbD676F0134649f0a4b4Fd56c65dAA96D7b7e'

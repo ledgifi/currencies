@@ -3,6 +3,7 @@ fiat: false
 id: XGAS
 id_nomics: XGAS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XGAS.jpg
+logoKey: currencies/xgas.jpg
 name: Project X gas
 platform: BNB
 platform_contract: '0x7daf09ee685f910f8c7e6d3b0d03f90311446b02'

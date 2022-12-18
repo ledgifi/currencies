@@ -3,6 +3,7 @@ fiat: false
 id: SHINA
 id_nomics: SHINA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHINA.jpg
+logoKey: currencies/shina.jpg
 name: Shinarium
 platform: BNB
 platform_contract: '0xd4c8b96369a1fae9d77e666358ad4c9a6eefed64'

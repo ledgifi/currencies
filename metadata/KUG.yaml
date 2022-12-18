@@ -3,6 +3,7 @@ fiat: false
 id: KUG
 id_nomics: KUG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KUG.png
+logoKey: currencies/kug.png
 name: Kugsha Inu
 platform: ETH
 platform_contract: '0x3d63d74a69c5a5b9df79f2cbd343cb76687a54d1'

@@ -3,6 +3,7 @@ fiat: false
 id: FNFT
 id_nomics: FNFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FNFT.jpg
+logoKey: currencies/fnft.jpg
 name: Fantasy NFT
 platform: BNB
 platform_contract: '0x870023a09fd1ee5a3cdc6119f86c120dee6875b5'

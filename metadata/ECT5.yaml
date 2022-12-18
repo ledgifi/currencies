@@ -3,6 +3,7 @@ fiat: false
 id: ECT5
 id_nomics: ECT5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECT5.png
+logoKey: currencies/ect5.png
 name: Echain Network
 platform: ETH
 platform_contract: '0xda4dd9586d27202a338843dd6b9824d267006783'

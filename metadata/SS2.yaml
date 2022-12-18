@@ -3,6 +3,7 @@ fiat: false
 id: SS2
 id_nomics: SS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SS2.jpg
+logoKey: currencies/ss2.jpg
 name: Santas Stash
 platform: BNB
 platform_contract: '0x08f962d7cbd4f39f8ee82365068f17ea99249002'

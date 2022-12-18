@@ -3,6 +3,7 @@ fiat: false
 id: NETA2
 id_nomics: NETA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NETA2.jpg
+logoKey: currencies/neta2.jpg
 name: Negative Tax
 platform: BNB
 platform_contract: '0x31a9975f71f53d5cdeb4bf4a48b3857e3827d487'

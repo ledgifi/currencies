@@ -3,6 +3,7 @@ fiat: false
 id: TSB2
 id_nomics: TSB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TSB2.jpg
+logoKey: currencies/tsb2.jpg
 name: Trading Signals Bot
 platform: BNB
 platform_contract: '0x13cd1acb234a9e49a93e3a8a4031a4d38facc2f5'

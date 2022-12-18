@@ -3,6 +3,7 @@ fiat: false
 id: BDF2
 id_nomics: BDF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BDF2.jpg
+logoKey: currencies/bdf2.jpg
 name: BitDeFi
 platform: BNB
 platform_contract: '0x70FB764c33BA2D92C5700bE4bF8f64Eb6D7FEabc'

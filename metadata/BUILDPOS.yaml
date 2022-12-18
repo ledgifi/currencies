@@ -3,6 +3,7 @@ fiat: false
 id: BUILDPOS
 id_nomics: BUILDPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUILDPOS.png
+logoKey: currencies/buildpos.png
 name: BUILD (Polygon)
 platform: MATIC
 platform_contract: '0xe94845Ac6782A2E71C407ABe4D5201445C26a62B'

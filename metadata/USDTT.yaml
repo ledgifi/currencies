@@ -3,6 +3,7 @@ fiat: false
 id: USDTT
 id_nomics: USDTT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDTT.png
+logoKey: currencies/usdtt.png
 name: Tether USD_TRON
 platform: BTT2
 platform_contract: '0xdb28719f7f938507dbfe4f0eae55668903d34a15'

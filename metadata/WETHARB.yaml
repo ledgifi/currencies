@@ -3,6 +3,7 @@ fiat: false
 id: WETHARB
 id_nomics: WETHARB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WETHARB.png
+logoKey: currencies/wetharb.png
 name: Wrapped Ether (Arbitrum)
 platform: ARBETH
 platform_contract: '0x82aF49447D8a07e3bd95BD0d56f35241523fBab1'

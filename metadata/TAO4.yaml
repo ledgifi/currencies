@@ -3,6 +3,7 @@ fiat: false
 id: TAO4
 id_nomics: TAO4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TAO4.jpg
+logoKey: currencies/tao4.jpg
 name: Fusotao
 platform: NEAR
 platform_contract: fusotao-token.near

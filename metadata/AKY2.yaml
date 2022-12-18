@@ -3,6 +3,7 @@ fiat: false
 id: AKY2
 id_nomics: AKY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AKY2.png
+logoKey: currencies/aky2.png
 name: Allky Token
 platform: BNB
 platform_contract: '0xC2A37e140546c25a607502c42Cb2d44Fc4d1609c'

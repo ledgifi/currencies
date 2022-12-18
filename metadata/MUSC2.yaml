@@ -3,6 +3,7 @@ fiat: false
 id: MUSC2
 id_nomics: MUSC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MUSC2.png
+logoKey: currencies/musc2.png
 name: MUSÉCOIN
 platform: BNB
 platform_contract: '0x6707d27e1438b8a5eb7b9248272045da3f8cbfac'

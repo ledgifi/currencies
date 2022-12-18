@@ -3,6 +3,7 @@ fiat: false
 id: DALLE
 id_nomics: DALLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DALLE.jpg
+logoKey: currencies/dalle.jpg
 name: DALL·E DAO
 platform: ETH
 platform_contract: '0x878c143c3a964872d5ddc67db2ad63dd0475cf35'

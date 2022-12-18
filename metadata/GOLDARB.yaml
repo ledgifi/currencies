@@ -3,6 +3,7 @@ fiat: false
 id: GOLDARB
 id_nomics: GOLDARB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOLDARB.png
+logoKey: currencies/goldarb.png
 name: Adventurer Gold (Arbitrum)
 platform: ARBETH
 platform_contract: '0xc4be0798e5b5b1c15eda36d9b2d8c1a60717fa92'

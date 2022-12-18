@@ -3,6 +3,7 @@ fiat: false
 id: MSC8
 id_nomics: MSC8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSC8.png
+logoKey: currencies/msc8.png
 name: MultiScope
 platform: BNB
 platform_contract: '0xb7969bbb55061049f9b1fdeae1ee6c8d6d33f455'

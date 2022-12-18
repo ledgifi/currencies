@@ -3,6 +3,7 @@ fiat: false
 id: LDB3
 id_nomics: LDB3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LDB3.jpg
+logoKey: currencies/ldb3.jpg
 name: Launch Detector Bot V2
 platform: BNB
 platform_contract: '0xaa7096b8e90960893981b5453210d19fbcde34ea'

@@ -3,6 +3,7 @@ fiat: false
 id: EAD2
 id_nomics: EAD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EAD2.png
+logoKey: currencies/ead2.png
 name: Learning Cash V2
 platform: BNB
 platform_contract: '0xbc72ff9d74d1002cd1b07eb43d36e03611bfeb28'

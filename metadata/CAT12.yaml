@@ -3,6 +3,7 @@ fiat: false
 id: CAT12
 id_nomics: CAT12
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAT12.jpg
+logoKey: currencies/cat12.jpg
 name: CAT PROTOCOL
 platform: ETH
 platform_contract: '0xd1ef6ad4379c6936587a021167f39024ef9d4699'

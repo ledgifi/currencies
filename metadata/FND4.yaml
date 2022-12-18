@@ -3,6 +3,7 @@ fiat: false
 id: FND4
 id_nomics: FND4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FND4.png
+logoKey: currencies/fnd4.png
 name: Foundation
 platform: ETH
 platform_contract: '0xb13d747d783bf1a9f1d65df74c080c890045f17e'

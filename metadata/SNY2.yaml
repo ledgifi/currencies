@@ -3,6 +3,7 @@ fiat: false
 id: SNY2
 id_nomics: SNY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNY2.jpg
+logoKey: currencies/sny2.jpg
 name: Santa New Year
 platform: BNB
 platform_contract: '0x9F7720323A9788BeC70c1277C019A3a39F0CC62A'

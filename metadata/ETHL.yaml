@@ -3,6 +3,7 @@ fiat: false
 id: ETHL
 id_nomics: ETHL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHL.jpg
+logoKey: currencies/ethl.jpg
 name: ETHLight
 platform: ETH
 platform_contract: '0x17453EB077EF138bBc463F35a59F554e724b1f49'

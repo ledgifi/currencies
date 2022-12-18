@@ -3,6 +3,7 @@ fiat: false
 id: IXP
 id_nomics: IXP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IXP.png
+logoKey: currencies/ixp.png
 name: IMPACTXPRIME
 platform: ETH
 platform_contract: '0x54cb643ab007f47882e8120a8c57b639005c2688'

@@ -3,6 +3,7 @@ fiat: false
 id: FOXC
 id_nomics: FOXC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOXC.png
+logoKey: currencies/foxc.png
 name: FoxClassic
 platform: BNB
 platform_contract: '0x00eA5e735f95650D5416cc47cAe8Cf1B29f23fe8'

@@ -3,6 +3,7 @@ fiat: false
 id: BPLSX
 id_nomics: BPLSX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BPLSX.png
+logoKey: currencies/bplsx.png
 name: BabyPulseX
 platform: BNB
 platform_contract: '0x179357DfEbe78c5933BC961b616276F3CEf70A22'

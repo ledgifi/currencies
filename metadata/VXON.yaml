@@ -3,6 +3,7 @@ fiat: false
 id: VXON
 id_nomics: VXON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VXON.jpg
+logoKey: currencies/vxon.jpg
 name: VoxNET
 platform: ETH
 platform_contract: '0x048aa6e69d5117bd665af4128383a6982b8367b3'

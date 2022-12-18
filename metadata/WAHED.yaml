@@ -3,6 +3,7 @@ fiat: false
 id: WAHED
 id_nomics: WAHED
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAHED.jpg
+logoKey: currencies/wahed.jpg
 name: WAHED PROJECTS LTD
 platform: BNB
 platform_contract: '0x733708a9869066A82B741410855AA756646C0F18'

@@ -3,6 +3,7 @@ fiat: false
 id: TG3
 id_nomics: TG3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TG3.jpg
+logoKey: currencies/tg3.jpg
 name: Thegrow
 platform: BNB
 platform_contract: '0x49dcdc31a98d84ab05f4194dc2f7ce06e8120e98'

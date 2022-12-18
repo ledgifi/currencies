@@ -3,6 +3,7 @@ fiat: false
 id: SQDY
 id_nomics: SQDY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SQDY.jpg
+logoKey: currencies/sqdy.jpg
 name: Squaddy
 platform: BNB
 platform_contract: '0x496593285fe10edd0e7f6255c4b288aa0519c689'

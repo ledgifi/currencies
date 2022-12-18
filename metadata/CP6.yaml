@@ -3,6 +3,7 @@ fiat: false
 id: CP6
 id_nomics: CP6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CP6.jpg
+logoKey: currencies/cp6.jpg
 name: Cookies Protocol
 platform: MATIC
 platform_contract: '0xf9d3d8b25b95bcda979025b74fdfa7ac3f380f9f'

@@ -3,6 +3,7 @@ fiat: false
 id: SENDOR2
 id_nomics: SENDOR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SENDOR2.webp
+logoKey: currencies/sendor2.webp
 name: Sendor Inu
 platform: BNB
 platform_contract: '0x0BFd146B2d6b75059C343a3C24ecDf2764F01817'

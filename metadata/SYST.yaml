@@ -3,6 +3,7 @@ fiat: false
 id: SYST
 id_nomics: SYST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SYST.png
+logoKey: currencies/syst.png
 name: System
 platform: BNB
 platform_contract: '0x19bdb9d187979a89ad43561c627accd752efd16f'

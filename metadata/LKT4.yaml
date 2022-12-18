@@ -3,6 +3,7 @@ fiat: false
 id: LKT4
 id_nomics: LKT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LKT4.png
+logoKey: currencies/lkt4.png
 name: Locker Token
 platform: ETH
 platform_contract: '0xd3e133a0a14bb8b595e5fbf9851c7c783685ba69'

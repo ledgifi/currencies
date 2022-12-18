@@ -3,6 +3,7 @@ fiat: false
 id: HOLIDOGE
 id_nomics: HOLIDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOLIDOGE.jpg
+logoKey: currencies/holidoge.jpg
 name: Holidoge
 platform: BNB
 platform_contract: '0x91a02ef89ee17b39bcc7fd5b2c9eec0fdaf2dcc9'

@@ -3,6 +3,7 @@ fiat: false
 id: SK2
 id_nomics: SK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SK2.jpg
+logoKey: currencies/sk2.jpg
 name: SmartKey
 platform: ETH
 platform_contract: '0xB30037Cf0B605aFf4BCc5c2Fe4A8Bb1EE1b75Bdc'

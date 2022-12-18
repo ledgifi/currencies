@@ -3,6 +3,7 @@ fiat: false
 id: LODE3
 id_nomics: LODE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LODE3.png
+logoKey: currencies/lode3.png
 name: LODE Token
 platform: AVAX
 platform_contract: '0xbbaaa0420d474b34be197f95a323c2ff3829e811'

@@ -3,6 +3,7 @@ fiat: false
 id: GAME6
 id_nomics: GAME6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAME6.jpg
+logoKey: currencies/game6.jpg
 name: Game Stonk
 platform: ETH
 platform_contract: '0x0618A4eEeFfab5FFcBfC1C62B371292F7ac3d71F'

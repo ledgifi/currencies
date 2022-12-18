@@ -3,6 +3,7 @@ fiat: false
 id: GLFI
 id_nomics: GLFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GLFI.jpg
+logoKey: currencies/glfi.jpg
 name: Glass Finance
 platform: BNB
 platform_contract: '0x053a26a3a6a453f6118fb7cbf308b594f27037bf'

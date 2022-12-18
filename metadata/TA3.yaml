@@ -3,6 +3,7 @@ fiat: false
 id: TA3
 id_nomics: TA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TA3.jpg
+logoKey: currencies/ta3.jpg
 name: The Ape V2
 platform: ETH
 platform_contract: '0x7aA0a88f90457af2a8348c20338a19FBCc569fe2'

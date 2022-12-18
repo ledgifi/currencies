@@ -3,6 +3,7 @@ fiat: false
 id: STEALTHBUSD
 id_nomics: STEALTHBUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STEALTHBUSD.jpg
+logoKey: currencies/stealthbusd.jpg
 name: StealthBUSD
 platform: BNB
 platform_contract: '0xcbd2e78c4e595bd4412b6b212802e514e6409af9'

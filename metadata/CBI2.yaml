@@ -3,6 +3,7 @@ fiat: false
 id: CBI2
 id_nomics: CBI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBI2.png
+logoKey: currencies/cbi2.png
 name: Cyptobit
 platform: BNB
 platform_contract: '0x1060ac0554fac1bd674a9927f7e7ac3e234cd1d0'

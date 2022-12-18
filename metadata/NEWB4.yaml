@@ -3,6 +3,7 @@ fiat: false
 id: NEWB4
 id_nomics: NEWB4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEWB4.jpg
+logoKey: currencies/newb4.jpg
 name: New Bitcoin
 platform: BNB
 platform_contract: '0x9c4b1cb5cff2affbc52b87418469f67058b0ba43'

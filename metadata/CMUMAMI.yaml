@@ -3,6 +3,7 @@ fiat: false
 id: CMUMAMI
 id_nomics: CMUMAMI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CMUMAMI.jpeg
+logoKey: currencies/cmumami.jpeg
 name: Compounded Marinated UMAMI
 platform: ARBETH
 platform_contract: '0x1922c36f3bc762ca300b4a46bb2102f84b1684ab'

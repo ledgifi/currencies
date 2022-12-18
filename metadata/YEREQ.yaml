@@ -3,6 +3,7 @@ fiat: false
 id: YEREQ
 id_nomics: YEREQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YEREQ.jpg
+logoKey: currencies/yereq.jpg
 name: YEREQ GEO ENERGY
 platform: ETH
 platform_contract: '0xC4576045b37D0887E9f7e3ba2a742eED549d0a33'

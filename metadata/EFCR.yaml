@@ -3,6 +3,7 @@ fiat: false
 id: EFCR
 id_nomics: EFCR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EFCR.png
+logoKey: currencies/efcr.png
 name: EFLANCER
 platform: BNB
 platform_contract: '0xc49c749c95c2b2fff6bcaab87c1a95bee2c646d2'

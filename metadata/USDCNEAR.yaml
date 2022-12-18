@@ -3,6 +3,7 @@ fiat: false
 id: USDCNEAR
 id_nomics: USDCNEAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDCNEAR.png
+logoKey: currencies/usdcnear.png
 name: USD Coin (Near)
 platform: NEAR
 platform_contract: a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.factory.bridge.near

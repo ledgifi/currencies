@@ -3,6 +3,7 @@ fiat: false
 id: HAPINEAR
 id_nomics: HAPINEAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HAPINEAR.jpg
+logoKey: currencies/hapinear.jpg
 name: Hapi (Near)
 platform: NEAR
 platform_contract: d9c2d319cd7e6177336b0a9c93c21cb48d84fb54.factory.bridge.near

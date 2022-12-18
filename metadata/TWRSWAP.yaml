@@ -3,6 +3,7 @@ fiat: false
 id: TWRSWAP
 id_nomics: TWRSWAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TWRSWAP.jpg
+logoKey: currencies/twrswap.jpg
 name: TwitterSwap
 platform: BNB
 platform_contract: '0x5e604be13f0af210910f5e5ba01c7c9cb64b1c30'

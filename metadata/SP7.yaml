@@ -3,6 +3,7 @@ fiat: false
 id: SP7
 id_nomics: SP7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SP7.png
+logoKey: currencies/sp7.png
 name: SNFTPRO
 platform: MATIC
 platform_contract: '0x1d5A9Ce2A88f3e0D442feaBaD2aB153BBdA56Cf7'
