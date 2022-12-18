@@ -3,3 +3,5 @@ fiat: false
 id: WATCHER
 id_nomics: WATCHER
 name: We See You
+platform: ETH
+platform_contract: '0xbbd36ff3560e2fe8f69ec559cdd124b45f603986'

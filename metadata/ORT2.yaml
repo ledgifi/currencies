@@ -5,3 +5,5 @@ id_nomics: ORT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORT2.jpg
 logoKey: currencies/ort2.jpg
 name: Omni Real Estate Token
+platform: BNB
+platform_contract: '0x1d64327c74d6519afef54e58730ad6fc797f05ba'

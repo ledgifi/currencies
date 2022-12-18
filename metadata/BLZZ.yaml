@@ -6,3 +6,5 @@ id_nomics: BLZZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLZZ.jpg
 logoKey: currencies/blzz.jpg
 name: Blizz Finance
+platform: AVAX
+platform_contract: '0x0f34919404a290e71fc6a510cb4a6acb8d764b24'

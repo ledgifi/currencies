@@ -5,3 +5,5 @@ id_nomics: ODINTOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ODINTOKEN.jpg
 logoKey: currencies/odintoken.jpg
 name: OdinBrowser
+platform: ETH
+platform_contract: '0x57c8d5d5b87a1580fdaf996cef674bb0d7f14c98'

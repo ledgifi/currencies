@@ -3,3 +3,5 @@ fiat: false
 id: ETH20
 id_nomics: ETH20
 name: ETH 2.0
+platform: ETH
+platform_contract: '0xd3553c53f31ebefb17a316020ca9edcf03f54076'

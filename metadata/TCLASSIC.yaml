@@ -3,3 +3,5 @@ fiat: false
 id: TCLASSIC
 id_nomics: TCLASSIC
 name: Tsuzuki Classic
+platform: ETH
+platform_contract: '0x7a9deefd0b086c459571658ebfe0ec72189317f6'

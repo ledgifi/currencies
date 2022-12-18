@@ -5,3 +5,5 @@ id_nomics: SHIK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIK2.jpg
 logoKey: currencies/shik2.jpg
 name: Shikoku Inu
+platform: ETH
+platform_contract: '0xed196d746493bc855f95ce5346c0161f68db874b'

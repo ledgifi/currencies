@@ -3,3 +3,5 @@ fiat: false
 id: MANTA
 id_nomics: MANTA
 name: Manta
+platform: BNB
+platform_contract: '0x4de1ff52564483736bab9847467f7c03b524f8d9'

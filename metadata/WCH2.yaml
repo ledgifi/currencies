@@ -5,3 +5,5 @@ id_nomics: WCH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WCH2.jpg
 logoKey: currencies/wch2.jpg
 name: WitcherVerse
+platform: BNB
+platform_contract: '0xd2f71875d66188f96badbf98a5f020894209e34b'

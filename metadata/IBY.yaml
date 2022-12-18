@@ -5,3 +5,5 @@ id_nomics: IBY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IBY.jpg
 logoKey: currencies/iby.jpg
 name: iBetYou
+platform: ETH
+platform_contract: '0x6a68de599e8e0b1856e322ce5bd11c5c3c79712b'

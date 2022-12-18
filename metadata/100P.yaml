@@ -3,3 +3,5 @@ fiat: false
 id: 100P
 id_nomics: 100P
 name: proxy100
+platform: MATIC
+platform_contract: '0x353a4698de5848df9c879341ca12a553e4fd33bd'

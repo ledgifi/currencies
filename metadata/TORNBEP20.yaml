@@ -5,3 +5,5 @@ id_nomics: TORNBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TORNBEP20.jpg
 logoKey: currencies/tornbep20.jpg
 name: Binance-Peg TornadoCash Token
+platform: BNB
+platform_contract: '0x1ba8d3c4c219b124d351f603060663bd1bcd9bbf'

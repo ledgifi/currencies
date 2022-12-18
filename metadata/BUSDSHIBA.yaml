@@ -3,3 +3,5 @@ fiat: false
 id: BUSDSHIBA
 id_nomics: BUSDSHIBA
 name: BUSDShiba
+platform: BNB
+platform_contract: '0x06d2e78c10d3d743b70e4f4b2d090db4aa71a290'

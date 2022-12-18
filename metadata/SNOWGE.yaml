@@ -5,3 +5,5 @@ id_nomics: SNOWGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNOWGE.png
 logoKey: currencies/snowge.png
 name: SnowgeCoin
+platform: BNB
+platform_contract: '0x5e9280d53f28281ce098c8f64e49f5f5dc9ea185'

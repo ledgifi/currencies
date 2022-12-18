@@ -6,3 +6,5 @@ id_nomics: ALPHASHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALPHASHIB.jpg
 logoKey: currencies/alphashib.jpg
 name: Alpha Shiba Inu
+platform: MATIC
+platform_contract: '0x4668e4225e6bf7469c70adb17a6e1cacd03e7c85'

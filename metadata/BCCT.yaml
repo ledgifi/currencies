@@ -6,3 +6,5 @@ id_nomics: BCCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCCT.jpeg
 logoKey: currencies/bcct.jpeg
 name: BCC Token
+platform: BNB
+platform_contract: '0x61c2ec987c32dce69153ca4f52cfe4800d84a594'

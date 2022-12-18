@@ -5,3 +5,5 @@ id_nomics: REAPER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REAPER.jpg
 logoKey: currencies/reaper.jpg
 name: Reaper Token
+platform: FTM
+platform_contract: '0x117db78176c8ede4f12fcd29d85cd96b91a4cbbb'

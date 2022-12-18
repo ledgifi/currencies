@@ -5,3 +5,5 @@ id_nomics: USDTAURORA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDTAURORA3.png
 logoKey: currencies/usdtaurora3.png
 name: Tether (Aurora)
+platform: AURORA3
+platform_contract: '0x4988a896b1227218e4a686fde5eabdcabd91571f'

@@ -5,3 +5,5 @@ id_nomics: MINIELON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINIELON.jpeg
 logoKey: currencies/minielon.jpeg
 name: MiniELON
+platform: BNB
+platform_contract: '0x0ecf8ef1e93d50cf689842e8de1912606d041f0f'

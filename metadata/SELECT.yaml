@@ -3,3 +3,5 @@ fiat: false
 id: SELECT
 id_nomics: SELECT
 name: Smart Electrum
+platform: ETH
+platform_contract: '0x01fb70ea8acfdd5435c8e8bd1531d96d57ced0ec'

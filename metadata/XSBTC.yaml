@@ -3,3 +3,5 @@ fiat: false
 id: XSBTC
 id_nomics: XSBTC
 name: 稀释比特币
+platform: HT
+platform_contract: '0xb4e510617b7d58a7e7302a1c0b70d17c94d5daef'

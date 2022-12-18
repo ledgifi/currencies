@@ -5,3 +5,5 @@ id_nomics: MENSA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MENSA.png
 logoKey: currencies/mensa.png
 name: Mensa Protocol
+platform: FTM
+platform_contract: '0x6b77d8b9be440fcbfe72cb4104d98bbd7cf91b14'

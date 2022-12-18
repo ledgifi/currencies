@@ -3,3 +3,5 @@ fiat: false
 id: FTMSWAP
 id_nomics: FTMSWAP
 name: Fantom Swap
+platform: BNB
+platform_contract: '0xe34b0dea352f7e414a44e015d9972998db189a32'

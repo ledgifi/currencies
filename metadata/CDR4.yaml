@@ -5,3 +5,5 @@ id_nomics: CDR4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CDR4.png
 logoKey: currencies/cdr4.png
 name: CondorChain
+platform: BNB
+platform_contract: '0xf5930e4a767657e547c621f6c05b108b1e721614'

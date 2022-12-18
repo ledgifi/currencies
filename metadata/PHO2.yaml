@@ -5,3 +5,5 @@ id_nomics: PHO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PHO2.jpg
 logoKey: currencies/pho2.jpg
 name: Phoswap
+platform: BNB
+platform_contract: '0xb9784c1633ef3b839563b988c323798634714368'

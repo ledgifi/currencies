@@ -3,3 +3,5 @@ fiat: false
 id: CASHNIP
 id_nomics: CASHNIP
 name: CashNip
+platform: ETH
+platform_contract: '0x1240a63a39efafad3433a7b95b9e19f062b67e23'

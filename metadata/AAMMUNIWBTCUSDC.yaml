@@ -5,3 +5,5 @@ id_nomics: AAMMUNIWBTCUSDC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AAMMUNIWBTCUSDC.jpg
 logoKey: currencies/aammuniwbtcusdc.jpg
 name: Aave AMM UniWBTCUSDC
+platform: ETH
+platform_contract: '0x2365a4890ed8965e564b7e2d27c38ba67fec4c6f'

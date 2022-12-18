@@ -5,3 +5,5 @@ id_nomics: RSN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RSN.png
 logoKey: currencies/rsn.png
 name: Roketsin
+platform: BNB
+platform_contract: '0xdd002e183c6390a2ab074af647e794eeb834e69d'

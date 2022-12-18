@@ -3,3 +3,5 @@ fiat: false
 id: METASTORE
 id_nomics: METASTORE
 name: MetaStore
+platform: BNB
+platform_contract: '0x91852171db7fe4470f74d49326a0e2c949f3a1fb'

@@ -5,3 +5,5 @@ id_nomics: SCAMUNKNOWN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCAMUNKNOWN.jpg
 logoKey: currencies/scamunknown.jpg
 name: Scamunknown
+platform: ETH
+platform_contract: '0xc57e4f6e40c600742bdf33a687bd6ef38ae9a846'

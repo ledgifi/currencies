@@ -5,3 +5,5 @@ id_nomics: FINS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FINS2.jpg
 logoKey: currencies/fins2.jpg
 name: Fins Token
+platform: BNB
+platform_contract: '0x1b219aca875f8c74c33cff9ff98f3a9b62fcbff5'

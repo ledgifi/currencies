@@ -5,3 +5,5 @@ id_nomics: PRFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRFI.jpg
 logoKey: currencies/prfi.jpg
 name: PRFI
+platform: BNB
+platform_contract: '0x746e3cf7027593084eea5610cc62df143a4c06fd'

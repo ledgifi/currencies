@@ -5,3 +5,5 @@ id_nomics: MPG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MPG2.jpg
 logoKey: currencies/mpg2.jpg
 name: Medping
+platform: BNB
+platform_contract: '0x53f0e242ea207b6e9b63e0a53e788267aa99ff9b'

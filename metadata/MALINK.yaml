@@ -5,3 +5,5 @@ id_nomics: MALINK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MALINK.jpg
 logoKey: currencies/malink.jpg
 name: Matic Aave Interest Bearing LINK
+platform: MATIC
+platform_contract: '0x98ea609569bd25119707451ef982b90e3eb719cd'

@@ -5,3 +5,5 @@ id_nomics: RDT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RDT3.jpg
 logoKey: currencies/rdt3.jpg
 name: Ridotto
+platform: ETH
+platform_contract: '0x4740735aa98dc8aa232bd049f8f0210458e7fca3'

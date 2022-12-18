@@ -5,3 +5,5 @@ id_nomics: MEH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEH2.png
 logoKey: currencies/meh2.png
 name: meh
+platform: ETH
+platform_contract: '0xba98c0fbebc892f5b07a42b0febd606913ebc981'

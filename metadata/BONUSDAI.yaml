@@ -5,3 +5,5 @@ id_nomics: BONUSDAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BONUSDAI.jpg
 logoKey: currencies/bonusdai.jpg
 name: BonusDAI
+platform: BNB
+platform_contract: '0x6084b7771f9de3eb9f5360282b15ffdb28c31664'

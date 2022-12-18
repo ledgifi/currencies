@@ -5,3 +5,5 @@ id_nomics: DOGEENERGY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEENERGY.jpg
 logoKey: currencies/dogeenergy.jpg
 name: DogeEnergy
+platform: BNB
+platform_contract: '0x7f5e835f6310976aa376b5a6862bb6b433f9e81c'

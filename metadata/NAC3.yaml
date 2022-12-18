@@ -5,3 +5,5 @@ id_nomics: NAC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NAC3.jpg
 logoKey: currencies/nac3.jpg
 name: Nowlage Coin
+platform: BNB
+platform_contract: '0xe198e8fe1aab441e54d9572e2402d7b132ccb15a'

@@ -5,3 +5,5 @@ id_nomics: KAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/kat.jpg
 logoKey: currencies/kat.jpg
 name: Kambria Token
+platform: ETH
+platform_contract: '0x14da230d6726c50f759bc1838717f8ce6373509c'

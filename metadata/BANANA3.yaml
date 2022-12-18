@@ -5,3 +5,5 @@ id_nomics: BANANA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BANANA3.jpg
 logoKey: currencies/banana3.jpg
 name: Banana
+platform: ETH
+platform_contract: '0xe2311ae37502105b442bbef831e9b53c5d2e9b3b'

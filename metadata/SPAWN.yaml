@@ -3,3 +3,5 @@ fiat: false
 id: SPAWN
 id_nomics: SPAWN
 name: Avax Frogs Spawn
+platform: AVAX
+platform_contract: '0xbb89e8ce73d3ca88b7ea959afc3f39a82c8c34fd'

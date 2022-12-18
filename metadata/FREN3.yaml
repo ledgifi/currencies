@@ -5,3 +5,5 @@ id_nomics: FREN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FREN3.jpg
 logoKey: currencies/fren3.jpg
 name: FREN
+platform: ETH
+platform_contract: '0x37941b3fdb2bd332e667d452a58be01bcacb923e'

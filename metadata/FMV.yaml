@@ -5,3 +5,5 @@ id_nomics: FMV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FMV.jpeg
 logoKey: currencies/fmv.jpeg
 name: FlameMetaverse
+platform: BNB
+platform_contract: '0xb2fdb4853fec142957a2d7acfc846adb772f8b69'

@@ -5,3 +5,5 @@ id_nomics: TRD3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRD3.jpg
 logoKey: currencies/trd3.jpg
 name: The Realm Defenders
+platform: MATIC
+platform_contract: '0x2a1f0ad3cab040e28845734d932f3ff0a24b14f4'

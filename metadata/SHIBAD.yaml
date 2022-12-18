@@ -6,3 +6,5 @@ id_nomics: SHIBAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBAD.jpg
 logoKey: currencies/shibad.jpg
 name: Shiba Dragon
+platform: BNB
+platform_contract: '0x1ed3cc3490efd36e78f301523ccd169330520d3f'

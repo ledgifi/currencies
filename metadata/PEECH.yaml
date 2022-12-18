@@ -6,3 +6,5 @@ id_nomics: PEECH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEECH.jpg
 logoKey: currencies/peech.jpg
 name: Peach Finance
+platform: ETH
+platform_contract: '0x31d939dc09a6bb55642fcbf9d56166ebc0bdec9a'

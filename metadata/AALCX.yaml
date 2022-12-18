@@ -5,3 +5,5 @@ id_nomics: AALCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AALCX.jpg
 logoKey: currencies/aalcx.jpg
 name: American Airlines Group Inc.
+platform: ETH
+platform_contract: '0x28e2f86dd2ed3e86469d7f369320a94953bf3b9e'

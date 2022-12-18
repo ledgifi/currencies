@@ -5,3 +5,5 @@ id_nomics: ODM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ODM.png
 logoKey: currencies/odm.png
 name: OdeMatic
+platform: MATIC
+platform_contract: '0x7ccF8E6480927246043d3a754fc2978651Fa9a5e'

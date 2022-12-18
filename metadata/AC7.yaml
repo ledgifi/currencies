@@ -5,3 +5,5 @@ id_nomics: AC7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AC7.png
 logoKey: currencies/ac7.png
 name: Aureal Coin
+platform: BNB
+platform_contract: '0x8647bc6Eb41a6F948971977d814241BC8bDaAE32'

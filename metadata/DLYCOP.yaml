@@ -3,3 +3,5 @@ fiat: false
 id: DLYCOP
 id_nomics: DLYCOP
 name: Daily COP
+platform: MATIC
+platform_contract: '0x1659ffb2d40dfb1671ac226a0d9dcc95a774521a'

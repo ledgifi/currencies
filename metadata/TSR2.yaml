@@ -5,3 +5,5 @@ id_nomics: TSR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TSR2.jpg
 logoKey: currencies/tsr2.jpg
 name: TESLAR
+platform: BNB
+platform_contract: '0xd43EF2bF3Ec11e0a18148D2D1B6A3C946A7AccF9'

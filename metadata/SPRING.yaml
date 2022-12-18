@@ -6,3 +6,5 @@ id_nomics: SPRING
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPRING.png
 logoKey: currencies/spring.png
 name: SpringRole
+platform: ETH
+platform_contract: '0xfb0bdc444c8ae7e9b5beea5e4d1e8de93879e487'

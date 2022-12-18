@@ -3,3 +3,5 @@ fiat: false
 id: DCAP
 id_nomics: DCAP
 name: DEGENCAPITAL
+platform: BNB
+platform_contract: '0x7ce910a8e811be8cda9a862f799878a96d276e7c'

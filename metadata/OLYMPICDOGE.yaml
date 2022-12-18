@@ -5,3 +5,5 @@ id_nomics: OLYMPICDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OLYMPICDOGE.jpg
 logoKey: currencies/olympicdoge.jpg
 name: Olympic Doge
+platform: BNB
+platform_contract: '0xe8a7da5c28ab1b29c4389b864fa890e225ddd6c8'

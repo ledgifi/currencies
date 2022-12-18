@@ -6,3 +6,5 @@ id_nomics: XES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XES.png
 logoKey: currencies/xes.png
 name: PROXEUS
+platform: ETH
+platform_contract: '0xa017ac5fac5941f95010b12570b812c974469c2c'

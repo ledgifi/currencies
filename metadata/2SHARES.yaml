@@ -6,3 +6,5 @@ id_nomics: 2SHARES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/2SHARES.jpg
 logoKey: currencies/2shares.jpg
 name: 2SHARE
+platform: FTM
+platform_contract: '0xc54a1684fd1bef1f077a336e6be4bd9a3096a6ca'

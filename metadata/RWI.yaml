@@ -5,3 +5,5 @@ id_nomics: RWI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RWI.jpg
 logoKey: currencies/rwi.jpg
 name: Rewind Finance
+platform: ETH
+platform_contract: '0x3a423bf3f811238fa5a8309fe17b9ddc34ce6341'

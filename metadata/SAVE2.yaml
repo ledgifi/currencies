@@ -5,3 +5,5 @@ id_nomics: SAVE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAVE2.jpg
 logoKey: currencies/save2.jpg
 name: SaveTheWorld
+platform: BNB
+platform_contract: '0x159802fbe16aa6a0863a56a18dd41afce546c93e'

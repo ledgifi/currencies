@@ -5,3 +5,5 @@ id_nomics: MTM3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTM3.jpeg
 logoKey: currencies/mtm3.jpeg
 name: MetaMoon
+platform: BNB
+platform_contract: '0x58adf54892563201f43075cfee78b1efa8d5946a'

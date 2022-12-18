@@ -5,3 +5,5 @@ id_nomics: BASEBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BASEBEP20.jpg
 logoKey: currencies/basebep20.jpg
 name: Defido Coin (BEP-20)
+platform: BNB
+platform_contract: '0x0422b63182798ae9876cae3cabd225d96b284d14'

@@ -5,3 +5,5 @@ id_nomics: SHIBAGO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBAGO2.jpeg
 logoKey: currencies/shibago2.jpeg
 name: ShibaGo
+platform: BNB
+platform_contract: '0x1c4e5161382fa56a04a00a4a77a20f59a5149b28'

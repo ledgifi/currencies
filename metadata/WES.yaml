@@ -5,3 +5,5 @@ id_nomics: WES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WES.png
 logoKey: currencies/wes.png
 name: WES Token
+platform: ETH
+platform_contract: '0x10766a65a17701eb411aedabfca1d94e072d44b8'

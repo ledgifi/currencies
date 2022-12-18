@@ -5,3 +5,5 @@ id_nomics: VTD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VTD.jpg
 logoKey: currencies/vtd.jpg
 name: Variable Time Dollar
+platform: ETH
+platform_contract: '0xf0e3543744afced8042131582f2a19b6aeb82794'

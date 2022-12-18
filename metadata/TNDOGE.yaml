@@ -3,3 +3,5 @@ fiat: false
 id: TNDOGE
 id_nomics: TNDOGE
 name: TinyDoge
+platform: BNB
+platform_contract: '0x01ac68f93ae1e026daad8c0886b65d6bd84761a0'

@@ -5,3 +5,5 @@ id_nomics: DRAGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRAGO.jpeg
 logoKey: currencies/drago.jpeg
 name: Dragoshi Token
+platform: BNB
+platform_contract: '0xd371768d252c3510f459d47bc950ddb364b42d6b'

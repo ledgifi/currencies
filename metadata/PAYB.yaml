@@ -6,3 +6,5 @@ id_nomics: PAYB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAYB.jpg
 logoKey: currencies/payb.jpg
 name: Paybswap
+platform: BNB
+platform_contract: '0x916792fd41855914ba4b71285c8a05b866f0618b'

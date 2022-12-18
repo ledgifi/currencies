@@ -5,3 +5,5 @@ id_nomics: 8FI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/8FI.jpg
 logoKey: currencies/8fi.jpg
 name: InFi
+platform: ETH
+platform_contract: '0x2091457430924515e23d7cd4e6a23d2c01fd446e'

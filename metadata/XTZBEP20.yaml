@@ -5,3 +5,5 @@ id_nomics: XTZBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XTZBEP20.jpg
 logoKey: currencies/xtzbep20.jpg
 name: Tezos (BEP-20)
+platform: BNB
+platform_contract: '0x16939ef78684453bfdfb47825f8a5f714f12623a'

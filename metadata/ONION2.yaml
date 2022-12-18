@@ -5,3 +5,5 @@ id_nomics: ONION2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ONION2.jpeg
 logoKey: currencies/onion2.jpeg
 name: FarmersOnly Onion
+platform: AVAX
+platform_contract: '0xf6931e67ef0cb20423351a53069719df2ad76e78'

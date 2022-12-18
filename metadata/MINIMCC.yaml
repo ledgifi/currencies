@@ -3,3 +3,5 @@ fiat: false
 id: MINIMCC
 id_nomics: MINIMCC
 name: miniMongoose Chain Capital
+platform: ETH
+platform_contract: '0xa0797f5ca9ae1da889a2fd09fc211218ae3f3d11'

@@ -5,3 +5,5 @@ id_nomics: PIBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIBEP20.jpg
 logoKey: currencies/pibep20.jpg
 name: Pi Futures (BEP-20)
+platform: BNB
+platform_contract: '0xdce53f9ad31ee259065af91917cf72e2264c8d32'

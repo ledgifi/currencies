@@ -5,3 +5,5 @@ id_nomics: MOON13
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOON13.jpg
 logoKey: currencies/moon13.jpg
 name: CakeMoon
+platform: BNB
+platform_contract: '0x893535ed1b5c6969e62a10babfed4f5ff8373278'

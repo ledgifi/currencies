@@ -3,3 +3,5 @@ fiat: false
 id: ETHMERGE
 id_nomics: ETHMERGE
 name: Merge Inu
+platform: ETH
+platform_contract: '0xaf2ea0d03eb825ec02bf3288018bda38dcc01e95'

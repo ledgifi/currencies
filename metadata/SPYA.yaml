@@ -5,3 +5,5 @@ id_nomics: SPYA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPYA.png
 logoKey: currencies/spya.png
 name: SPY AGENTS
+platform: ETH
+platform_contract: '0x2297af5e7e48be46c61a9e6164f64bd44ddc6ca3'

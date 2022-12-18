@@ -3,3 +3,5 @@ fiat: false
 id: SPY
 id_nomics: SPY
 name: Super Pay
+platform: ETH
+platform_contract: '0xb73e314501ec4dc2c7c7351514458b1c139df98a'

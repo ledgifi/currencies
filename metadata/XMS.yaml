@@ -5,3 +5,5 @@ id_nomics: XMS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XMS.jpg
 logoKey: currencies/xms.jpg
 name: Mars Ecosystem Token
+platform: BNB
+platform_contract: '0x7859b01bbf675d67da8cd128a50d155cd881b576'

@@ -5,3 +5,5 @@ id_nomics: KRN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KRN2.png
 logoKey: currencies/krn2.png
 name: Croesus
+platform: BNB
+platform_contract: '0xdaf930071a1552b6aae816f296a1ad92e7df301a'

@@ -5,3 +5,5 @@ id_nomics: PNT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PNT2.jpg
 logoKey: currencies/pnt2.jpg
 name: pNetwork
+platform: ETH
+platform_contract: '0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed'

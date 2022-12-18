@@ -5,3 +5,5 @@ id_nomics: BABYBOO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYBOO.jpg
 logoKey: currencies/babyboo.jpg
 name: BabyBoo
+platform: FTM
+platform_contract: '0x471762a7017a5b1a3e931f1a97aa03ef1e7f4a73'

@@ -6,3 +6,5 @@ id_nomics: XBN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XBN.png
 logoKey: currencies/xbn.png
 name: Elastic BNB
+platform: BNB
+platform_contract: '0x547cbe0f0c25085e7015aa6939b28402eb0ccdac'

@@ -3,3 +3,5 @@ fiat: false
 id: BOOZE
 id_nomics: BOOZE
 name: BoozeToken
+platform: ETH
+platform_contract: '0x87a4d5e39636ea56dc2c22419a8b1ed4256cec47'

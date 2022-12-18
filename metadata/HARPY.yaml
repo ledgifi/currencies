@@ -5,3 +5,5 @@ id_nomics: HARPY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HARPY.jpg
 logoKey: currencies/harpy.jpg
 name: Harpy Finance
+platform: MATIC
+platform_contract: '0xd1750f78af070c041229f8a57bb13878c4945e53'

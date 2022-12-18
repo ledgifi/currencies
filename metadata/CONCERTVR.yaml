@@ -5,3 +5,5 @@ id_nomics: CONCERTVR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CONCERTVR.png
 logoKey: currencies/concertvr.png
 name: concertVR
+platform: ETH
+platform_contract: '0x24b47299e756af0571f512232a3629e0dabb52ed'

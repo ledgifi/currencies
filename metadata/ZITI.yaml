@@ -6,3 +6,5 @@ id_nomics: ZITI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZITI.jpg
 logoKey: currencies/ziti.jpg
 name: Ziticoin
+platform: ETH
+platform_contract: '0x8dd4228605e467671941ffb4cae15cf7959c8d9d'

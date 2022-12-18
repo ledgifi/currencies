@@ -5,3 +5,5 @@ id_nomics: CHEEMSK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHEEMSK.jpeg
 logoKey: currencies/cheemsk.jpeg
 name: Cheems Killer
+platform: BNB
+platform_contract: '0x71431b729e8ef413ed3d6293358e1e2834e8f8fe'

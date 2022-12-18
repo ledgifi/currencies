@@ -5,3 +5,5 @@ id_nomics: MDB3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MDB3.jpg
 logoKey: currencies/mdb3.jpg
 name: MetaDubai
+platform: BNB
+platform_contract: '0x033fc4ec65a22d29a87631e5fed9616a0d343f42'

@@ -6,3 +6,5 @@ id_nomics: RAJAINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAJAINU.jpg
 logoKey: currencies/rajainu.jpg
 name: RajaInu
+platform: ETH
+platform_contract: '0x77d64cb9b19228157a7628ca0d26f5d9656b3d03'

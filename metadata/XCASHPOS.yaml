@@ -5,3 +5,5 @@ id_nomics: XCASHPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XCASHPOS.jpg
 logoKey: currencies/xcashpos.jpg
 name: X-Cash (Polygon)
+platform: MATIC
+platform_contract: '0x03678f2c2c762dc63c2bb738c3a837d366eda560'

@@ -3,3 +3,5 @@ fiat: false
 id: NODCON
 id_nomics: NODCON
 name: Node Control
+platform: ETH
+platform_contract: '0x4e8ef534b9fc01d02dcecfb6ce125a568d391d74'

@@ -5,3 +5,5 @@ id_nomics: CASPER2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CASPER2.jpg
 logoKey: currencies/casper2.jpg
 name: Casper
+platform: CRO
+platform_contract: '0x350033d688aa5f63669612c2543e582ea93ddbfd'

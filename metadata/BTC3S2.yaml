@@ -5,3 +5,5 @@ id_nomics: BTC3S2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTC3S2.jpg
 logoKey: currencies/btc3s2.jpg
 name: Amun Bitcoin 3x Daily Short
+platform: ETH
+platform_contract: '0x1148661869d30e095ff4aa48aa8b5eadedc75f2a'

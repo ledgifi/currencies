@@ -6,3 +6,5 @@ id_nomics: ELEPHANT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELEPHANT.png
 logoKey: currencies/elephant.png
 name: Elephant Money
+platform: BNB
+platform_contract: '0xe283d0e3b8c102badf5e8166b73e02d96d92f688'

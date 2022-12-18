@@ -5,3 +5,5 @@ id_nomics: CO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CO3.jpg
 logoKey: currencies/co3.jpg
 name: Crypto Ogres
+platform: BNB
+platform_contract: '0x0b2091e9f5819876b7236a65691252cbbede64a9'

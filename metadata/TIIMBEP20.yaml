@@ -5,3 +5,5 @@ id_nomics: TIIMBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIIMBEP20.png
 logoKey: currencies/tiimbep20.png
 name: TriipMiles (BEP-20)
+platform: BNB
+platform_contract: '0x3da4f9e86deef7c50a8b167493f26e894edcd7d5'

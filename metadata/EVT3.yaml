@@ -3,3 +3,5 @@ fiat: false
 id: EVT3
 id_nomics: EVT3
 name: Evereth
+platform: ETH
+platform_contract: '0x136a16f2698a0bb163ba204ec26c2efad1c60722'

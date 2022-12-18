@@ -5,3 +5,5 @@ id_nomics: LIFE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIFE2.jpg
 logoKey: currencies/life2.jpg
 name: Life Crypto
+platform: ETH
+platform_contract: '0x6c936d4ae98e6d2172db18c16c4b601c99918ee6'

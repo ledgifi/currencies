@@ -5,3 +5,5 @@ id_nomics: LASTFLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LASTFLOKI.jpg
 logoKey: currencies/lastfloki.jpg
 name: The Last Floki
+platform: BNB
+platform_contract: '0x579a91a65269fc11f73f70ceb7e09c1b934fba58'

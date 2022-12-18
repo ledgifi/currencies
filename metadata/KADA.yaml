@@ -6,3 +6,5 @@ id_nomics: KADA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KADA.jpg
 logoKey: currencies/kada.jpg
 name: King Cardano
+platform: BNB
+platform_contract: '0xffa99969608fd3c1ddf68b28d7db2e073c33fd91'

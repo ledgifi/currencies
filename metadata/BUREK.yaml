@@ -3,3 +3,5 @@ fiat: false
 id: BUREK
 id_nomics: BUREK
 name: BurekSwap
+platform: BNB
+platform_contract: '0x0d36086ffe9974c6603429618f385911dabcbadb'

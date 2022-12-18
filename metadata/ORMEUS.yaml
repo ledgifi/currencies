@@ -5,3 +5,5 @@ id_nomics: ORMEUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORMEUS.jpg
 logoKey: currencies/ormeus.jpg
 name: ORMEUS
+platform: ETH
+platform_contract: '0xc96DF921009B790dfFcA412375251ed1A2b75c60'

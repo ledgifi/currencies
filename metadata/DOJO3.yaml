@@ -5,3 +5,5 @@ id_nomics: DOJO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOJO3.png
 logoKey: currencies/dojo3.png
 name: DojoFarm Finance
+platform: MATIC
+platform_contract: '0xca9e4a7617d5fdaaa49beb8dc8e506706324e253'

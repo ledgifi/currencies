@@ -6,3 +6,5 @@ id_nomics: BTRL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTRL.jpg
 logoKey: currencies/btrl.jpg
 name: BitcoinRegular
+platform: ETH
+platform_contract: '0x388fd8a5145d6ef85aae14d494f93df9d1c7c00c'

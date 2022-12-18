@@ -5,3 +5,5 @@ id_nomics: DOLLYV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOLLYV2.png
 logoKey: currencies/dollyv2.png
 name: DOLLYPAD V2
+platform: BNB
+platform_contract: '0x8B8D8b6d98453D3450156220B660Dfa957ca1C7F'

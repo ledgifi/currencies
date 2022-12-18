@@ -5,3 +5,5 @@ id_nomics: KITTY4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KITTY4.png
 logoKey: currencies/kitty4.png
 name: Kitty Inu
+platform: ETH
+platform_contract: '0x044727e50ff30db57fad06ff4f5846eab5ea52a2'

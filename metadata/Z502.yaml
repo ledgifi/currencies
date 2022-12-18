@@ -6,3 +6,5 @@ id_nomics: Z502
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/Z502.jpg
 logoKey: currencies/z502.jpg
 name: 502 Bad Gateway Token
+platform: ETH
+platform_contract: '0x2cd9324ba13b77554592d453e6364086fbba446a'

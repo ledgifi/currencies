@@ -5,3 +5,5 @@ id_nomics: STUD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STUD.jpg
 logoKey: currencies/stud.jpg
 name: Studyum Token
+platform: BNB
+platform_contract: '0x56900be791fb3c6abf1932df0f20daae6208dbe0'

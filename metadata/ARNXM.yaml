@@ -5,3 +5,5 @@ id_nomics: ARNXM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARNXM.png
 logoKey: currencies/arnxm.png
 name: Armor NXM
+platform: ETH
+platform_contract: '0x1337def18c680af1f9f45cbcab6309562975b1dd'

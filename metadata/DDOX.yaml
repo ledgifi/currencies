@@ -5,3 +5,5 @@ id_nomics: DDOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DDOX.jpg
 logoKey: currencies/ddox.jpg
 name: Deudox
+platform: BNB
+platform_contract: '0x1d0bf75d73da6bba31c7d726e9d92a09caac288d'

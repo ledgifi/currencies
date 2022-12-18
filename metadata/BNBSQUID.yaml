@@ -3,3 +3,5 @@ fiat: false
 id: BNBSQUID
 id_nomics: BNBSQUID
 name: BNBSquid
+platform: BNB
+platform_contract: '0x3004832d614bbe3ea1afae699ccc73b8a8279170'

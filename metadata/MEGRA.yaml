@@ -3,3 +3,5 @@ fiat: false
 id: MEGRA
 id_nomics: MEGRA
 name: Megramus
+platform: BNB
+platform_contract: '0x17ece550e83c335ef438bebde51b655776bffdaa'

@@ -5,3 +5,5 @@ id_nomics: MAB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAB.png
 logoKey: currencies/mab.png
 name: Meta Ape Billionaires
+platform: BNB
+platform_contract: '0x729deed4aa60a9734aa9a376cbddfe52aa4373c0'

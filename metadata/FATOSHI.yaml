@@ -6,3 +6,5 @@ id_nomics: FATOSHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FATOSHI.jpg
 logoKey: currencies/fatoshi.jpg
 name: Fat Satoshi
+platform: BNB
+platform_contract: '0xfcedd1291086cad50f15606c7674923eaafb2395'

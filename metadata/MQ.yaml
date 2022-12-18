@@ -3,3 +3,5 @@ fiat: false
 id: MQ
 id_nomics: MQ
 name: MiqiToken
+platform: ETH
+platform_contract: '0xc26d79f8dcb5bbbc52e4cf17c6fb800a9aad39a7'

@@ -6,3 +6,5 @@ id_nomics: GEM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/gem.png
 logoKey: currencies/gem.png
 name: Gems
+platform: ETH
+platform_contract: '0xc7bba5b765581efb2cdd2679db5bea9ee79b201f'

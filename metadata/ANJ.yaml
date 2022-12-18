@@ -5,3 +5,5 @@ id_nomics: ANJ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANJ.png
 logoKey: currencies/anj.png
 name: ANJ
+platform: ETH
+platform_contract: '0xcd62b1c403fa761baadfc74c525ce2b51780b184'

@@ -3,3 +3,5 @@ fiat: false
 id: BVC
 id_nomics: BVC
 name: Crypto Chip
+platform: BNB
+platform_contract: '0x2dea12c4f08074032a9997f0a199b04af0fc0392'

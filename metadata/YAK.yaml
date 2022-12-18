@@ -6,3 +6,5 @@ id_nomics: YAK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YAK.png
 logoKey: currencies/yak.png
 name: Yield Yak
+platform: AVAX
+platform_contract: '0x59414b3089ce2af0010e7523dea7e2b35d776ec7'

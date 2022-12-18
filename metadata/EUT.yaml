@@ -5,3 +5,5 @@ id_nomics: EUT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EUT.png
 logoKey: currencies/eut.png
 name: EtherUtilityToken
+platform: ETH
+platform_contract: '0xf2aea81b6ad3d0191c11ce118cbe73d0403fd51a'

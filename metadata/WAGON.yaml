@@ -3,3 +3,5 @@ fiat: false
 id: WAGON
 id_nomics: WAGON
 name: wagon
+platform: ETH
+platform_contract: '0x48c19720feeffaf6929f036d438f851746d8590d'

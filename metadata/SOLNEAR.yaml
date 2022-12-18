@@ -5,3 +5,5 @@ id_nomics: SOLNEAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOLNEAR.jpg
 logoKey: currencies/solnear.jpg
 name: Wrapped Solana (Near)
+platform: NEAR
+platform_contract: sol.token.a11bd.near

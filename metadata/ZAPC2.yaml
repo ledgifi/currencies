@@ -3,3 +3,5 @@ fiat: false
 id: ZAPC2
 id_nomics: ZAPC2
 name: Zappay
+platform: ETH
+platform_contract: '0x88400f09934f817baf7e5e5be3b88961a501eead'

@@ -5,3 +5,5 @@ id_nomics: NMS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NMS2.jpg
 logoKey: currencies/nms2.jpg
 name: Nemesis
+platform: ETH
+platform_contract: '0x77252494c25444f8598a0c74ffc90adc535291a9'

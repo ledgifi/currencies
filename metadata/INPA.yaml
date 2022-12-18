@@ -6,3 +6,5 @@ id_nomics: INPA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INPA.jpeg
 logoKey: currencies/inpa.jpeg
 name: INPA Coin
+platform: BNB
+platform_contract: '0xd9cbc18e554aec0d99e9d99324decc9b4b473af0'

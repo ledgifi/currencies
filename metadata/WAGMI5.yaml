@@ -5,3 +5,5 @@ id_nomics: WAGMI5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAGMI5.jpeg
 logoKey: currencies/wagmi5.jpeg
 name: WAGMI
+platform: AVAX
+platform_contract: '0xcd024f038b6e79968f9aba4bee3e27cb3c9e1e91'

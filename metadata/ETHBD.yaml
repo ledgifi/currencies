@@ -3,3 +3,5 @@ fiat: false
 id: ETHBD
 id_nomics: ETHBD
 name: ETHBD
+platform: HT
+platform_contract: '0x9540d361d2341f7a862d98e5e808d72fb028ffed'

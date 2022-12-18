@@ -5,3 +5,5 @@ id_nomics: AVAXFLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVAXFLOKI.jpg
 logoKey: currencies/avaxfloki.jpg
 name: Avax Floki
+platform: AVAX
+platform_contract: '0x9f05bf860f7015507513dafca8f5ea61ee9f6c4e'

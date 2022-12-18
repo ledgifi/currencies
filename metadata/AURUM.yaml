@@ -5,3 +5,5 @@ id_nomics: AURUM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AURUM.jpg
 logoKey: currencies/aurum.jpg
 name: Alchemist DeFi Aurum
+platform: BNB
+platform_contract: '0x49207baa3a7332f0716788aa57b088d499bcc104'

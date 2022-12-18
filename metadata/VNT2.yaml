@@ -5,3 +5,5 @@ id_nomics: VNT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VNT2.jpg
 logoKey: currencies/vnt2.jpg
 name: InventoryClub
+platform: ETH
+platform_contract: '0xe912b8ba2513d7e29b7b2e5b14398dbf77503fb4'

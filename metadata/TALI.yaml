@@ -6,3 +6,5 @@ id_nomics: TALI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TALI.jpeg
 logoKey: currencies/tali.jpeg
 name: TALARIA INU
+platform: ETH
+platform_contract: '0x6765fdd028be3d7874bc2bb3d7d5ca01c1bf14b2'

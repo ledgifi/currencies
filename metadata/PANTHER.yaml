@@ -5,3 +5,5 @@ id_nomics: PANTHER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PANTHER.jpg
 logoKey: currencies/panther.jpg
 name: PANTHER
+platform: ETH
+platform_contract: '0xd7acaf41361b56b1fdf7bfd866798268c754d82b'

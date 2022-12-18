@@ -6,3 +6,5 @@ id_nomics: SALSA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SALSA.jpg
 logoKey: currencies/salsa.jpg
 name: SALSA TOKEN
+platform: BNB
+platform_contract: '0xbb5515d1cfcd6f667ca2b2a56872797c889cb048'

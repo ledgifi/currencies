@@ -5,3 +5,5 @@ id_nomics: ARNO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARNO.jpg
 logoKey: currencies/arno.jpg
 name: ART-NANO
+platform: ETH
+platform_contract: '0x7aa885b81cd8bde980df6ecad860336068459895'

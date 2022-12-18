@@ -8,3 +8,5 @@ id_nomics: CRV
 logo: https://bin.bnbstatic.com/images/20200814/f8d49a7f-d950-4e26-922f-42b11bd95584.png
 logoKey: currencies/crv.png
 name: Curve
+platform: ETH
+platform_contract: '0xd533a949740bb3306d119cc777fa900ba034cd52'

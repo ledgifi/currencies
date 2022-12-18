@@ -5,3 +5,5 @@ id_nomics: FORESTRY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FORESTRY.jpg
 logoKey: currencies/forestry.jpg
 name: Forestry Token
+platform: BNB
+platform_contract: '0x8c5a93fa9bb2b0f396e80b51323767043c58e686'

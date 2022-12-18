@@ -6,3 +6,5 @@ id_nomics: BBRA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBRA.jpg
 logoKey: currencies/bbra.jpg
 name: BooBanker Research Association
+platform: ETH
+platform_contract: '0x70460c3bb9abcc0aa51f922c00d37816d6ede4d7'

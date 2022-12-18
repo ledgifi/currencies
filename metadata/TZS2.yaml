@@ -3,3 +3,5 @@ fiat: false
 id: TZS2
 id_nomics: TZS2
 name: TenzShield
+platform: ETH
+platform_contract: '0x168481ca7f9fb3d015aa58961222ca38db8b97a2'

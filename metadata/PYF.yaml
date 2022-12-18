@@ -3,3 +3,5 @@ fiat: false
 id: PYF
 id_nomics: PYF
 name: Python Finance
+platform: MATIC
+platform_contract: '0x43e7165f3466232a914edf6c5b1654350f96f828'

@@ -5,3 +5,5 @@ id_nomics: LEVI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LEVI2.png
 logoKey: currencies/levi2.png
 name: Leverage Inu
+platform: ARBETH
+platform_contract: '0x954ac1c73e16c77198e83c088ade88f6223f3d44'

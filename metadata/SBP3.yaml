@@ -5,3 +5,5 @@ id_nomics: SBP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBP3.jpg
 logoKey: currencies/sbp3.jpg
 name: Shiba Burn Protocol
+platform: ETH
+platform_contract: '0xFEEEC9b428cE38ca95D1Dba41b7b4005A6612BeF'

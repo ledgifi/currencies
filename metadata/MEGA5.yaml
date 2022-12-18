@@ -5,3 +5,5 @@ id_nomics: MEGA5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEGA5.png
 logoKey: currencies/mega5.png
 name: Megalodon
+platform: BNB
+platform_contract: '0x8142743a1e2c15f8802512e48b01f27568b7cfcb'

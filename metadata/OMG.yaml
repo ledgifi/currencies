@@ -8,3 +8,5 @@ id_nomics: OMG
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/omg.svg
 logoKey: currencies/omg.svg
 name: OMG Network
+platform: ETH
+platform_contract: '0xd26114cd6ee289accf82350c8d8487fedb8a0c07'

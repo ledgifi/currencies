@@ -3,3 +3,5 @@ fiat: false
 id: TESTSTP
 id_nomics: TESTSTP
 name: TEST STP
+platform: BNB
+platform_contract: '0xffd1a26410d3370e86409bead50ce41fd2ba84cc'

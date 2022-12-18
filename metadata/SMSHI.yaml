@@ -5,3 +5,5 @@ id_nomics: SMSHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMSHI.png
 logoKey: currencies/smshi.png
 name: SmartShiba
+platform: BNB
+platform_contract: '0xd5ADd5009c90044Fb9C65B2D5Fe17aBA6d4495Aa'

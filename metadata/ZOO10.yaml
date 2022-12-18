@@ -5,3 +5,5 @@ id_nomics: ZOO10
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZOO10.jpg
 logoKey: currencies/zoo10.jpg
 name: CryptoZoo V2
+platform: BNB
+platform_contract: '0x7ffc1243232da3ac001994208e2002816b57c669'

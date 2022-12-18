@@ -6,3 +6,5 @@ id_nomics: CXO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CXO.png
 logoKey: currencies/cxo.png
 name: CargoX
+platform: ETH
+platform_contract: '0xb6ee9668771a79be7967ee29a63d4184f8097143'

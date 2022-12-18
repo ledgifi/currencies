@@ -6,3 +6,5 @@ id_nomics: VFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VFT.png
 logoKey: currencies/vft.png
 name: Value Finance
+platform: BNB
+platform_contract: '0x14e8bcd053e68a22f239b9e9bead87932465d245'

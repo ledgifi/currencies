@@ -3,3 +3,5 @@ fiat: false
 id: GROUND
 id_nomics: GROUND
 name: G-GROUND
+platform: BNB
+platform_contract: '0x0cf798feab02fe6c49b014594582180cd4bd82f4'

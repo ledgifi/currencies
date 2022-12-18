@@ -5,3 +5,5 @@ id_nomics: FIRECAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIRECAKE.jpeg
 logoKey: currencies/firecake.jpeg
 name: FireCake
+platform: BNB
+platform_contract: '0xe17ea0b77054016fb1c095aa30be7088ff036bcd'

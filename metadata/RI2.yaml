@@ -5,3 +5,5 @@ id_nomics: RI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RI2.png
 logoKey: currencies/ri2.png
 name: Reddit Inu
+platform: BNB
+platform_contract: '0x76133c987de7b8c20472ddc5550520057ea6a264'

@@ -5,3 +5,5 @@ id_nomics: ENX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ENX2.png
 logoKey: currencies/enx2.png
 name: EnigmaX
+platform: MATIC
+platform_contract: '0xC05c8f1FF323C3246fB6E9A4C8c608ECf3C58941'

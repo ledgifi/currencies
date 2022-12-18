@@ -6,3 +6,5 @@ id_nomics: DRC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRC.png
 logoKey: currencies/drc.png
 name: Dracula Token
+platform: ETH
+platform_contract: '0xb78b3320493a4efaa1028130c5ba26f0b6085ef8'

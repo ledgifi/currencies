@@ -5,3 +5,5 @@ id_nomics: GIF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GIF2.jpeg
 logoKey: currencies/gif2.jpeg
 name: GIFcoin
+platform: BNB
+platform_contract: '0x33f8ed7d9013f921de6f373608b1d3c21c82c92d'

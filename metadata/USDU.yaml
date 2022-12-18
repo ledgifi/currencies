@@ -6,3 +6,5 @@ id_nomics: USDU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDU.png
 logoKey: currencies/usdu.png
 name: Upper Dollar
+platform: ETH
+platform_contract: '0x41a03e41ef555392c9f0ad60f4f61e263078bf10'

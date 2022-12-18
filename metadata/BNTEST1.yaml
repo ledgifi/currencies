@@ -3,3 +3,5 @@ fiat: false
 id: BNTEST1
 id_nomics: BNTEST1
 name: BNTEST1
+platform: BNB
+platform_contract: '0x3b46ff63c8659d1077fd1a3205ad5fd33e25c13a'

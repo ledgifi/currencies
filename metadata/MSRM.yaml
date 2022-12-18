@@ -5,3 +5,5 @@ id_nomics: MSRM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSRM.jpg
 logoKey: currencies/msrm.jpg
 name: MegaSerum
+platform: ETH
+platform_contract: '0x1320c8c64b9f2eaa851f70702e6c9fc1ee4e8ce4'

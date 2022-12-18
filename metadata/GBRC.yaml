@@ -3,3 +3,5 @@ fiat: false
 id: GBRC
 id_nomics: GBRC
 name: BrincGovToken
+platform: ARBETH
+platform_contract: '0x62c7e128e7c3205964429f58a0c6f63a776d10d1'

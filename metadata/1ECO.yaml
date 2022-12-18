@@ -6,3 +6,5 @@ id_nomics: 1ECO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/1ECO.png
 logoKey: currencies/1eco.png
 name: 1eco
+platform: ETH
+platform_contract: '0x1af2eaeaf2b1d9dda800861268e6bbb3995a6c3b'

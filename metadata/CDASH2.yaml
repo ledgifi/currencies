@@ -5,3 +5,5 @@ id_nomics: CDASH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CDASH2.jpeg
 logoKey: currencies/cdash2.jpeg
 name: CryptDash
+platform: BNB
+platform_contract: '0xff5d80cf848d6a516ded3a799c32ed6901badff0'

@@ -3,3 +3,5 @@ fiat: false
 id: BSTEEM
 id_nomics: BSTEEM
 name: BSteem Token
+platform: BNB
+platform_contract: '0x382d36e85178f2d3fd84e336d4e1d442fce78e8e'

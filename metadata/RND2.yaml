@@ -3,3 +3,5 @@ fiat: false
 id: RND2
 id_nomics: RND2
 name: The RandomDAO
+platform: ETH
+platform_contract: '0x1c7e83f8c581a967940dbfa7984744646ae46b29'

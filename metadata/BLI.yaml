@@ -6,3 +6,5 @@ id_nomics: BLI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLI.jpg
 logoKey: currencies/bli.jpg
 name: Bali Token
+platform: BNB
+platform_contract: '0x42be29132756ddd6e8b3b94584ca0bab20545eec'

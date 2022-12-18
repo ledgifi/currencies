@@ -3,3 +3,5 @@ fiat: false
 id: OKANETOKEN
 id_nomics: OKANETOKEN
 name: OKANE TOKEN
+platform: ETH
+platform_contract: '0x8fa6212e78eb808789dd6d827544462cc510af19'

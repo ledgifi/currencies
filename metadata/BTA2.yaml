@@ -3,3 +3,5 @@ fiat: false
 id: BTA2
 id_nomics: BTA2
 name: BitcoinAsset
+platform: BNB
+platform_contract: '0xad9787017e82f6368bbe4893b475caada2258564'

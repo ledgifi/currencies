@@ -6,3 +6,5 @@ id_nomics: LSHB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LSHB.jpg
 logoKey: currencies/lshb.jpg
 name: LolaShib
+platform: ETH
+platform_contract: '0x8c1b6cdd00054ed72f8cb49507792a8ffc6cff44'

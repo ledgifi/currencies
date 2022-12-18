@@ -5,3 +5,5 @@ id_nomics: STGFTM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STGFTM.jpg
 logoKey: currencies/stgftm.jpg
 name: Stargate Finance (Fantom)
+platform: FTM
+platform_contract: '0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590'

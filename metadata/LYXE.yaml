@@ -6,3 +6,5 @@ id_nomics: LYXE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LYXE.jpg
 logoKey: currencies/lyxe.jpg
 name: LUKSO Token
+platform: ETH
+platform_contract: '0xa8b919680258d369114910511cc87595aec0be6d'

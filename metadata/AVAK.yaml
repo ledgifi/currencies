@@ -6,3 +6,5 @@ id_nomics: AVAK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVAK.jpg
 logoKey: currencies/avak.jpg
 name: Avakus
+platform: ETH
+platform_contract: '0x724dd18be5de3ed3d6ad7bb46d7387d867cdbdcc'

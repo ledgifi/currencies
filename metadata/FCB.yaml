@@ -5,3 +5,5 @@ id_nomics: FCB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FCB.jpg
 logoKey: currencies/fcb.jpg
 name: ForceCowBoy
+platform: BNB
+platform_contract: '0xd6f53e7fa7c6c83d749255c06e9444e3325ab53e'

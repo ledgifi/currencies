@@ -5,3 +5,5 @@ id_nomics: PURPLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PURPLE.jpg
 logoKey: currencies/purple.jpg
 name: Purple
+platform: BNB
+platform_contract: '0x3a6f79cecfa4fafbe7514d4d5fa85d3665939e89'

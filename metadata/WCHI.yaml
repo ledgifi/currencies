@@ -3,3 +3,5 @@ fiat: false
 id: WCHI
 id_nomics: WCHI
 name: Wrapped CHI
+platform: ETH
+platform_contract: '0x6dc02164d75651758ac74435806093e421b64605'

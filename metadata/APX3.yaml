@@ -5,3 +5,5 @@ id_nomics: APX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APX3.jpg
 logoKey: currencies/apx3.jpg
 name: Apollo Coin
+platform: BNB
+platform_contract: '0x992ace1acb518837ac615b380719bfc0c64eaa8f'

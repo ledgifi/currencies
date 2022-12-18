@@ -5,3 +5,5 @@ id_nomics: GRAND3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GRAND3.jpg
 logoKey: currencies/grand3.jpg
 name: Grandle
+platform: BNB
+platform_contract: '0x335f346f64f8eb5e88116335fe9969776b4b0306'

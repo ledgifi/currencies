@@ -6,3 +6,5 @@ id_nomics: BCMC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCMC.jpg
 logoKey: currencies/bcmc.jpg
 name: Blockchain Monster Hunt
+platform: ETH
+platform_contract: '0x2ba8349123de45e931a8c8264c332e6e9cf593f9'

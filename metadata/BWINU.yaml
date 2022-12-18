@@ -5,3 +5,5 @@ id_nomics: BWINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BWINU.jpg
 logoKey: currencies/bwinu.jpg
 name: Bwuk Inu
+platform: BNB
+platform_contract: '0x147801f3c0745a7173f95794e3c8e6106c4af556'

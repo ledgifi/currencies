@@ -5,3 +5,5 @@ id_nomics: SONIC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SONIC3.jpeg
 logoKey: currencies/sonic3.jpeg
 name: Sonic Token
+platform: AVAX
+platform_contract: '0x4aca0ad6357b918e3d06bb1a0bcc403619177523'

@@ -6,3 +6,5 @@ id_nomics: BTMC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTMC.jpg
 logoKey: currencies/btmc.jpg
 name: Bit Miner Chain
+platform: ETH
+platform_contract: '0x4a8f44be523580a11cdb20e2c7c470adf44ec9bb'

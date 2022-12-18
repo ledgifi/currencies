@@ -5,3 +5,5 @@ id_nomics: DOGEY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEY2.png
 logoKey: currencies/dogey2.png
 name: Doge Yellow Coin
+platform: BNB
+platform_contract: '0x6f373cd69c329b1da2e00b861ad950e59454aa18'

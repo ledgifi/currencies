@@ -5,3 +5,5 @@ id_nomics: BURN7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BURN7.png
 logoKey: currencies/burn7.png
 name: Prometheus
+platform: BNB
+platform_contract: '0xc6bb4f13556e377015c5f0d04e384191421ee4ac'

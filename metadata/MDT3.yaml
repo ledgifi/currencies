@@ -5,3 +5,5 @@ id_nomics: MDT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MDT3.png
 logoKey: currencies/mdt3.png
 name: Modernite
+platform: BNB
+platform_contract: '0xbda0717794a812a0b3207476799cbd8672067e34'

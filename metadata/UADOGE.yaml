@@ -5,3 +5,5 @@ id_nomics: UADOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UADOGE.png
 logoKey: currencies/uadoge.png
 name: Ukranian Doge
+platform: BNB
+platform_contract: '0xdf1e9c6bd8dbf0abdfac85568b4b0efe1a00be27'

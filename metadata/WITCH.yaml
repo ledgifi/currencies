@@ -6,3 +6,5 @@ id_nomics: WITCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WITCH.jpg
 logoKey: currencies/witch.jpg
 name: Witch Token
+platform: ETH
+platform_contract: '0xdc524e3c6910257744c1f93cf15e9f472b5bd236'

@@ -5,3 +5,5 @@ id_nomics: BANDI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BANDI.jpg
 logoKey: currencies/bandi.jpg
 name: Bandicoot Coin
+platform: BNB
+platform_contract: '0x34378c82433c28e6e2784558319955a511347ec9'

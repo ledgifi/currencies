@@ -6,3 +6,5 @@ id_nomics: KNUCKLES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KNUCKLES.jpg
 logoKey: currencies/knuckles.jpg
 name: KNUCKLES
+platform: ETH
+platform_contract: '0xc92e75431614ecae3847842cc7f1b6bc58326427'

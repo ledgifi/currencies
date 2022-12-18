@@ -6,3 +6,5 @@ id_nomics: APEFUND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APEFUND.jpg
 logoKey: currencies/apefund.jpg
 name: ApeFund
+platform: BNB
+platform_contract: '0xf81f3ff200abd5451e78105eaa7ee9f8e8dd20f8'

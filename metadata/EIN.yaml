@@ -3,3 +3,5 @@ fiat: false
 id: EIN
 id_nomics: EIN
 name: Einstein
+platform: ETH
+platform_contract: '0x25deb74aac0a426b77bd897fbf063ba4ac52ee96'

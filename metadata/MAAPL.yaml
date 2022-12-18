@@ -5,3 +5,5 @@ id_nomics: MAAPL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAAPL.png
 logoKey: currencies/maapl.png
 name: Mirrored Apple
+platform: ETH
+platform_contract: '0xd36932143f6ebdedd872d5fb0651f4b72fd15a84'

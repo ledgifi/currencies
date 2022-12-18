@@ -5,3 +5,5 @@ id_nomics: LNDA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LNDA.jpg
 logoKey: currencies/lnda.jpg
 name: Landian
+platform: BNB
+platform_contract: '0x5f841172399c5f94b1f8390bb361890fe0ca1857'

@@ -5,3 +5,5 @@ id_nomics: JPMCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JPMCX.jpg
 logoKey: currencies/jpmcx.jpg
 name: JPMorgan Chase & Co. Token
+platform: ETH
+platform_contract: '0x339989c3d77a57d1abf1209af3ce8bb6cac53875'

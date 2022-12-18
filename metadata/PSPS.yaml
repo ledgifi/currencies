@@ -3,3 +3,5 @@ fiat: false
 id: PSPS
 id_nomics: PSPS
 name: Polygon SPS
+platform: MATIC
+platform_contract: '0x28cead9e4ff96806c79f4189ef28fc61418e2216'

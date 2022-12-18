@@ -5,3 +5,5 @@ id_nomics: PIRATEP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIRATEP.jpg
 logoKey: currencies/piratep.jpg
 name: PirateP
+platform: MATIC
+platform_contract: '0x3750144acd56cc1d3e8dafd8a187ad10d174d462'

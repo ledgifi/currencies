@@ -5,3 +5,5 @@ id_nomics: DLPNBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DLPNBEP20.png
 logoKey: currencies/dlpnbep20.png
 name: Dolphin Token
+platform: BNB
+platform_contract: '0x27e29abc7fe0d0e9507f74d70cb35d84c7400e46'

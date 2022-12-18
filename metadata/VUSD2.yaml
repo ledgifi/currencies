@@ -5,3 +5,5 @@ id_nomics: VUSD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VUSD2.jpg
 logoKey: currencies/vusd2.jpg
 name: Value DeFi USD
+platform: ETH
+platform_contract: '0x1b8e12f839bd4e73a47addf76cf7f0097d74c14c'

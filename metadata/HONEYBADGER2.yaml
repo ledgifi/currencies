@@ -5,3 +5,5 @@ id_nomics: HONEYBADGER2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HONEYBADGER2.jpg
 logoKey: currencies/honeybadger2.jpg
 name: Honey Badger
+platform: ETH
+platform_contract: '0x3d60f2bde6762ce9ce45945d05bc6846d12a140e'

@@ -5,3 +5,5 @@ id_nomics: FLOKI5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKI5.png
 logoKey: currencies/floki5.png
 name: Baby Moon Floki
+platform: BNB
+platform_contract: '0x54e87ed5a096f09d9665fd114002bddfc2084a7f'

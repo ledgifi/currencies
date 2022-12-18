@@ -5,3 +5,5 @@ id_nomics: POB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POB.jpg
 logoKey: currencies/pob.jpg
 name: PolkaBased
+platform: ETH
+platform_contract: '0x58712c6d7aab798fc312f481e677e20253c8c7c7'

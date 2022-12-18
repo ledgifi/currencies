@@ -5,3 +5,5 @@ id_nomics: CYBG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CYBG.png
 logoKey: currencies/cybg.png
 name: Cybergame
+platform: ETH
+platform_contract: '0x00b8b059f132009e5a812f27cc42733d135915df'

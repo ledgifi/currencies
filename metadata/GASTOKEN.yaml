@@ -3,3 +3,5 @@ fiat: false
 id: GASTOKEN
 id_nomics: GASTOKEN
 name: Gastoken
+platform: ETH
+platform_contract: '0x0000000000b3f879cb30fe243b4dfee438691c04'

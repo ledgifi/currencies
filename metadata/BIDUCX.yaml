@@ -5,3 +5,5 @@ id_nomics: BIDUCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIDUCX.jpg
 logoKey: currencies/biducx.jpg
 name: Baidu, Inc. Token
+platform: ETH
+platform_contract: '0xafc21be9e4d9303d51a61cc5a236619e65e873d9'

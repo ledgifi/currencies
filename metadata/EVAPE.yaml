@@ -6,3 +6,5 @@ id_nomics: EVAPE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVAPE.jpg
 logoKey: currencies/evape.jpg
 name: EveryApe
+platform: ETH
+platform_contract: '0x69d1ff85004a445a892dfbd88df00d48fb0af638'

@@ -5,3 +5,5 @@ id_nomics: SML2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SML2.jpg
 logoKey: currencies/sml2.jpg
 name: Super Music League
+platform: BNB
+platform_contract: '0x7c7333fe5b32f6057c795dc3d5265004c4adae9a'

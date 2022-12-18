@@ -5,3 +5,5 @@ id_nomics: MTR4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTR4.png
 logoKey: currencies/mtr4.png
 name: MadTrip
+platform: BNB
+platform_contract: '0x6ee09a319cfaf41699813687aa222f0ed38b40c3'

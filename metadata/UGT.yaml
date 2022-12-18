@@ -6,3 +6,5 @@ id_nomics: UGT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UGT.jpg
 logoKey: currencies/ugt.jpg
 name: Unreal Finance
+platform: ETH
+platform_contract: '0x9cf98eb8a8b28c83e8612046cf55701ce3eb0063'

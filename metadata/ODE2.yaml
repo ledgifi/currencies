@@ -5,3 +5,5 @@ id_nomics: ODE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ODE2.jpg
 logoKey: currencies/ode2.jpg
 name: ODE
+platform: ETH
+platform_contract: '0x6f6d15e2dabd182c7c0830db1bdff1f920b57ffa'

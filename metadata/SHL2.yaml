@@ -3,3 +3,5 @@ fiat: false
 id: SHL2
 id_nomics: SHL2
 name: Shelly
+platform: BNB
+platform_contract: '0x11089b429a6ce64f685d39a197c2154f28801e12'

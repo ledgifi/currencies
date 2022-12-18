@@ -5,3 +5,5 @@ id_nomics: HUM4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HUM4.jpg
 logoKey: currencies/hum4.jpg
 name: Hummer Coin
+platform: BNB
+platform_contract: '0xe6a33e051bee575dfffda34c03f5e5775f167ebd'

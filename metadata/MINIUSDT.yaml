@@ -3,3 +3,5 @@ fiat: false
 id: MINIUSDT
 id_nomics: MINIUSDT
 name: MiniUSDT
+platform: BNB
+platform_contract: '0xaa7c0d90176daa58706e73233d3e778dbbe69e5e'

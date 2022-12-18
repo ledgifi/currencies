@@ -5,3 +5,5 @@ id_nomics: FANG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FANG2.jpg
 logoKey: currencies/fang2.jpg
 name: FANG Token
+platform: FTM
+platform_contract: '0x49894fcc07233957c35462cfc3418ef0cc26129f'

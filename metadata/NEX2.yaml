@@ -5,3 +5,5 @@ id_nomics: NEX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEX2.jpg
 logoKey: currencies/nex2.jpg
 name: NexFin
+platform: ETH
+platform_contract: '0xa7be196d92629620154291e4b90c056517489904'

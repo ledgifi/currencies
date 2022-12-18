@@ -3,3 +3,5 @@ fiat: false
 id: SPDO2
 id_nomics: SPDO2
 name: pDollar Share
+platform: FTM
+platform_contract: '0x1d3918043d22de2d799a4d80f72efd50db90b5af'

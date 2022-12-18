@@ -5,3 +5,5 @@ id_nomics: PARBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PARBEP20.png
 logoKey: currencies/parbep20.png
 name: Parachute (BEP-20)
+platform: BNB
+platform_contract: '0x19c91764a976ac6c1e2c2e4c5856f2939342a814'

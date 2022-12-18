@@ -6,3 +6,5 @@ id_nomics: CADC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CADC.jpg
 logoKey: currencies/cadc.jpg
 name: CAD Coin
+platform: ETH
+platform_contract: '0xcadc0acd4b445166f12d2c07eac6e2544fbe2eef'

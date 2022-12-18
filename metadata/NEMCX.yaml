@@ -5,3 +5,5 @@ id_nomics: NEMCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEMCX.jpg
 logoKey: currencies/nemcx.jpg
 name: Newmont Corporation Token
+platform: ETH
+platform_contract: '0x9730eeee01d9068e8c37fc2e92045295a617b329'

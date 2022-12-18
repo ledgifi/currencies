@@ -6,3 +6,5 @@ id_nomics: HKDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HKDT.jpg
 logoKey: currencies/hkdt.jpg
 name: HKD Tether
+platform: ETH
+platform_contract: '0x508325285114821151a18e148f4299ea09a9ca05'

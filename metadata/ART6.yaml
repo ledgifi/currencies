@@ -5,3 +5,5 @@ id_nomics: ART6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ART6.jpg
 logoKey: currencies/art6.jpg
 name: ART Token
+platform: ETH
+platform_contract: '0xe51f24b251430a6e615f66e0d3c3a97c442ab38c'

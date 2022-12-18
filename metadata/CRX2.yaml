@@ -5,3 +5,5 @@ id_nomics: CRX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRX2.png
 logoKey: currencies/crx2.png
 name: Crodex
+platform: CRO
+platform_contract: '0xe243ccab9e66e6cf1215376980811ddf1eb7f689'

@@ -5,3 +5,5 @@ id_nomics: UARS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UARS.png
 logoKey: currencies/uars.png
 name: Uarini Silver
+platform: BNB
+platform_contract: '0x7eec8576b4c306c713c58d3cd88d7f0afbab6b37'

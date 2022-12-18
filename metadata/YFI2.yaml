@@ -6,3 +6,5 @@ id_nomics: YFI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFI2.jpg
 logoKey: currencies/yfi2.jpg
 name: YEARN2.FINANCE
+platform: ETH
+platform_contract: '0xf6c151ea50a4f1a50983eb98998a18be0a549ad5'

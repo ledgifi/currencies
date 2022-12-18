@@ -3,3 +3,5 @@ fiat: false
 id: WPHX
 id_nomics: WPHX
 name: Wrapped Phoenix
+platform: BNB
+platform_contract: '0xb4d59ccdd2300508cd57348816b80d91b4e3800e'

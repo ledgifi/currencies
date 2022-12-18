@@ -6,3 +6,5 @@ id_nomics: NIROS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NIROS.jpg
 logoKey: currencies/niros.jpg
 name: Niros
+platform: ETH
+platform_contract: '0x0770e5018b71f5fbda00f42dd13507e03d101a90'

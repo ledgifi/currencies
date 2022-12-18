@@ -5,3 +5,5 @@ id_nomics: BUNNYCAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUNNYCAKE.jpg
 logoKey: currencies/bunnycake.jpg
 name: BunnyCake
+platform: BNB
+platform_contract: '0x4e50deb3270906ca77d0f1d4452212f9e71593e1'

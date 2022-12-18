@@ -5,3 +5,5 @@ id_nomics: BOO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOO2.jpg
 logoKey: currencies/boo2.jpg
 name: Booster
+platform: HT
+platform_contract: '0xff96dccf2763d512b6038dc60b7e96d1a9142507'

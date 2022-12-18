@@ -3,3 +3,5 @@ fiat: false
 id: HASHWALLET
 id_nomics: HASHWALLET
 name: Hash Wallet
+platform: ARBETH
+platform_contract: '0xafbb6024693f127447e190d03c367602d8ac9a08'

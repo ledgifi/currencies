@@ -5,3 +5,5 @@ id_nomics: VSC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VSC2.jpg
 logoKey: currencies/vsc2.jpg
 name: Vari-Stable Capital
+platform: ETH
+platform_contract: '0x99bfe582a97f0ded07ee6fb5c1e5b6f1ff082243'

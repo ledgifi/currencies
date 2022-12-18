@@ -6,3 +6,5 @@ id_nomics: FARA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FARA.jpg
 logoKey: currencies/fara.jpg
 name: FaraLand
+platform: BNB
+platform_contract: '0xf4ed363144981d3a65f42e7d0dc54ff9eef559a1'

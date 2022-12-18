@@ -3,3 +3,5 @@ fiat: false
 id: LYTEST
 id_nomics: LYTEST
 name: LYtest Token
+platform: BNB
+platform_contract: '0x64cbe8395a4ad627ccca83db7acfb7d671bd151b'

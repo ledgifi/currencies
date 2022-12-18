@@ -3,3 +3,5 @@ fiat: false
 id: OPINU
 id_nomics: OPINU
 name: Optimism Inu
+platform: ETH
+platform_contract: '0xd5e9504509ada92ed98b7f372f8a4ab8a850f8ca'

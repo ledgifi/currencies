@@ -3,3 +3,5 @@ fiat: false
 id: CLNY3
 id_nomics: CLNY3
 name: Colony Network Token
+platform: ETH
+platform_contract: '0x3e828ac5c480069d4765654fb4b8733b910b13b2'

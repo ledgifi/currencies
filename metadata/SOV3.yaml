@@ -5,3 +5,5 @@ id_nomics: SOV3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOV3.jpg
 logoKey: currencies/sov3.jpg
 name: Store of Value Token
+platform: ETH
+platform_contract: '0x0afee744b6d9ff2b78f76fe10b3e0199c413fd34'

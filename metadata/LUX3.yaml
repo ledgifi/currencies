@@ -5,3 +5,5 @@ id_nomics: LUX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUX3.jpg
 logoKey: currencies/lux3.jpg
 name: Luxury Club
+platform: BNB
+platform_contract: '0xa34fa60f1615c1204924eb7b48fdf2369b7de586'

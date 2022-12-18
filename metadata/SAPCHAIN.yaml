@@ -5,3 +5,5 @@ id_nomics: SAPCHAIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAPCHAIN.png
 logoKey: currencies/sapchain.png
 name: Sapchain
+platform: ETH
+platform_contract: '0x91f529e972d6cf43d36abfa91c1118122ff7f16c'

@@ -5,3 +5,5 @@ id_nomics: BGAME
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BGAME.jpg
 logoKey: currencies/bgame.jpg
 name: Binamars Game
+platform: BNB
+platform_contract: '0x24a55346c17205f9561122c11f414d422e49cf75'

@@ -5,3 +5,5 @@ id_nomics: TDOCCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TDOCCX.jpg
 logoKey: currencies/tdoccx.jpg
 name: Teladoc Health, Inc.
+platform: ETH
+platform_contract: '0xdcc5b9300b87d78c17f1c6e4e948a55156603bbd'

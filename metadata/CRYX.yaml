@@ -5,3 +5,5 @@ id_nomics: CRYX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRYX.jpg
 logoKey: currencies/cryx.jpg
 name: Cryxcoin
+platform: CRO
+platform_contract: '0x2c9c7bf004d5aa7c4d0a6374b935653117577d27'

@@ -3,3 +3,5 @@ fiat: false
 id: YBET
 id_nomics: YBET
 name: YBET.NETWORK
+platform: ETH
+platform_contract: '0x1abbac88b8f47d46a3d822efa75f64a15c25966f'

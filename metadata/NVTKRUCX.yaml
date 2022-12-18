@@ -5,3 +5,5 @@ id_nomics: NVTKRUCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NVTKRUCX.jpg
 logoKey: currencies/nvtkrucx.jpg
 name: Novatek
+platform: ETH
+platform_contract: '0x5514eb9a280923d9af0f051c1458dd3fb764c56e'

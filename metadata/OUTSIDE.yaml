@@ -3,3 +3,5 @@ fiat: false
 id: OUTSIDE
 id_nomics: OUTSIDE
 name: Outside Coin
+platform: ETH
+platform_contract: '0x615691b89d3ebe83da4d8abcbc5beae31fbd4159'

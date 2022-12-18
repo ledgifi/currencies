@@ -5,3 +5,5 @@ id_nomics: KAFE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAFE.png
 logoKey: currencies/kafe.png
 name: Kafe Finance
+platform: MOVR
+platform_contract: '0x52f04c806eb82930f40d410259b7af8e18d3bdc9'

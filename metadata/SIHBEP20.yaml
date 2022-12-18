@@ -5,3 +5,5 @@ id_nomics: SIHBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIHBEP20.jpg
 logoKey: currencies/sihbep20.jpg
 name: Salient Investment Holding (BEP-20)
+platform: BNB
+platform_contract: '0x6d728ff862bfe74be2aba30537e992a24f259a22'

@@ -5,3 +5,5 @@ id_nomics: APWINE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APWINE.jpg
 logoKey: currencies/apwine.jpg
 name: APWine
+platform: ETH
+platform_contract: '0x4104b135dbc9609fc1a9490e61369036497660c8'

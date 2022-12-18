@@ -3,3 +3,5 @@ fiat: false
 id: BLOCKCHAINNOTE
 id_nomics: BLOCKCHAINNOTE
 name: blockchain note
+platform: ETH
+platform_contract: '0x32cb452540d4baa19acfc1bfef09002cf27db30f'

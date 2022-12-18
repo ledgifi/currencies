@@ -6,3 +6,5 @@ id_nomics: BQT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BQT.png
 logoKey: currencies/bqt.png
 name: Blockchain Quotations Index Token
+platform: ETH
+platform_contract: '0x5eb87caa0105a63aa87a36c7bd2573bd13e84fae'

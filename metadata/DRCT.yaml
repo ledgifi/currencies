@@ -6,3 +6,5 @@ id_nomics: DRCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRCT.jpg
 logoKey: currencies/drct.jpg
 name: DRC Token
+platform: ETH
+platform_contract: '0x91cdb5bb5969bfed2373e97378354052bbc606f2'

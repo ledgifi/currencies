@@ -5,3 +5,5 @@ id_nomics: BAM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAM2.jpg
 logoKey: currencies/bam2.jpg
 name: Bamboo Finance
+platform: AVAX
+platform_contract: '0x5cc339aa2a582d857f38b85f662ea3513706a1e7'

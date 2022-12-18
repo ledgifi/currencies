@@ -5,3 +5,5 @@ id_nomics: MTX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTX3.jpg
 logoKey: currencies/mtx3.jpg
 name: Matrix Protocol
+platform: BNB
+platform_contract: '0xe28832f94aa99d3ed4c61ef805330168556b4179'

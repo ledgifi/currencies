@@ -3,3 +3,5 @@ fiat: false
 id: KSC2
 id_nomics: KSC2
 name: KibaStableCapital
+platform: ETH
+platform_contract: '0x9ee985007e03e279a736f8e86e412377db93d014'

@@ -3,3 +3,5 @@ fiat: false
 id: QUOTH
 id_nomics: QUOTH
 name: Quoth
+platform: BNB
+platform_contract: '0xb025bc1675f6be04ec528574712f268d99db494d'

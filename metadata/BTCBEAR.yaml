@@ -5,3 +5,5 @@ id_nomics: BTCBEAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCBEAR.png
 logoKey: currencies/btcbear.png
 name: 3X Short Bitcoin Token
+platform: ETH
+platform_contract: '0x016ee7373248a80bde1fd6baa001311d233b3cfa'

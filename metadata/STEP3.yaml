@@ -5,3 +5,5 @@ id_nomics: STEP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STEP3.jpg
 logoKey: currencies/step3.jpg
 name: Step
+platform: BNB
+platform_contract: '0x465707181acba42ed01268a33f0507e320a154bd'

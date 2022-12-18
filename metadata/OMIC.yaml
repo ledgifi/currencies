@@ -6,3 +6,5 @@ id_nomics: OMIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OMIC.jpg
 logoKey: currencies/omic.jpg
 name: Omicron
+platform: ARBETH
+platform_contract: '0x86b3353387f560295a8fa7902679735e5f076bd5'

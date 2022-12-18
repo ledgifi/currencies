@@ -5,3 +5,5 @@ id_nomics: SGROW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SGROW.jpg
 logoKey: currencies/sgrow.jpg
 name: SONIC GROW
+platform: BNB
+platform_contract: '0xc7679d4aa13daa76ea81003a245ef1ad89d3410a'

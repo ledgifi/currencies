@@ -6,3 +6,5 @@ id_nomics: SZILLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SZILLA.jpeg
 logoKey: currencies/szilla.jpeg
 name: ShibarmyZilla
+platform: BNB
+platform_contract: '0xbde8649bebb55c481da8f1015bd0eb7f96006a0f'

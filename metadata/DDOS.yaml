@@ -5,3 +5,5 @@ id_nomics: DDOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DDOS.jpg
 logoKey: currencies/ddos.jpg
 name: disBalancer (ERC-20)
+platform: ETH
+platform_contract: '0x7fbec0bb6a7152e77c30d005b5d49cbc08a602c3'

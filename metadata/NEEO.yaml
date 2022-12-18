@@ -5,3 +5,5 @@ id_nomics: NEEO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEEO.jpg
 logoKey: currencies/neeo.jpg
 name: NEEO Token
+platform: ETH
+platform_contract: '0xd8446236fa95b9b5f9fd0f8e7df1a944823c683d'

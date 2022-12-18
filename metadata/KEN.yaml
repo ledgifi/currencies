@@ -5,3 +5,5 @@ id_nomics: KEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KEN.jpg
 logoKey: currencies/ken.jpg
 name: Kencoin
+platform: ETH
+platform_contract: '0xbf4a29269bf3a5c351c2af3a9c9ed81b07129ce4'

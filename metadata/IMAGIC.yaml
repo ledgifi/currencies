@@ -5,3 +5,5 @@ id_nomics: IMAGIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IMAGIC.png
 logoKey: currencies/imagic.png
 name: iMagicToken
+platform: IOTX
+platform_contract: '0x490cfbf9b9c43633ddd1968d062996227ef438a9'

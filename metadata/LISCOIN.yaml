@@ -3,3 +3,5 @@ fiat: false
 id: LISCOIN
 id_nomics: LISCOIN
 name: LISCOIN
+platform: BNB
+platform_contract: '0xbfa2253180df21225551c710ce376ce5a719192d'

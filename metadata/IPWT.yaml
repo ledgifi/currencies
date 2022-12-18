@@ -5,3 +5,5 @@ id_nomics: IPWT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IPWT.png
 logoKey: currencies/ipwt.png
 name: IPWeb
+platform: ETH
+platform_contract: '0xa02d0b6bfce1dbd02b9cbb70e6b480333e8a86ec'

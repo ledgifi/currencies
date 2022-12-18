@@ -5,3 +5,5 @@ id_nomics: APEGINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APEGINU.jpg
 logoKey: currencies/apeginu.jpg
 name: Apegeinu
+platform: BNB
+platform_contract: '0xeee43f6119fd2d9dba76ccef6bb817d98e4e8893'

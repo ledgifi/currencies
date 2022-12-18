@@ -5,3 +5,5 @@ id_nomics: ILNAM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ILNAM.png
 logoKey: currencies/ilnam.png
 name: Player001
+platform: BNB
+platform_contract: '0x0bd4378d3572d3588af5519086bfce06e4e097ee'

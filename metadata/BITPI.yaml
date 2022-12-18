@@ -3,3 +3,5 @@ fiat: false
 id: BITPI
 id_nomics: BITPI
 name: BitPi
+platform: BNB
+platform_contract: '0xadf633e7e3aa6b19024d869350ada3789f4aedc0'

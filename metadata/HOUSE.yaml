@@ -6,3 +6,5 @@ id_nomics: HOUSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOUSE.jpg
 logoKey: currencies/house.jpg
 name: Toast.finance
+platform: ETH
+platform_contract: '0x19810559df63f19cfe88923313250550edadb743'

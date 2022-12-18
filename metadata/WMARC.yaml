@@ -3,3 +3,5 @@ fiat: false
 id: WMARC
 id_nomics: WMARC
 name: Wrapped Marcoin token
+platform: BNB
+platform_contract: '0x5a12eb4227f177918b61826e718d239f0786b3a8'

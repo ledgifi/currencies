@@ -5,3 +5,5 @@ id_nomics: CPA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CPA2.jpeg
 logoKey: currencies/cpa2.jpeg
 name: Cryptoaia
+platform: BNB
+platform_contract: '0x8a08a0c8d1f663593928d43b11ab4a1b0b8ac2ba'

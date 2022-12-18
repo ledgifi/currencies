@@ -5,3 +5,5 @@ id_nomics: KANA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KANA.jpg
 logoKey: currencies/kana.jpg
 name: Kanaloa
+platform: BNB
+platform_contract: '0x0328a69b363a16f66810b23cb0b8d32abadb203d'

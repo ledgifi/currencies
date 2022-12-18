@@ -6,3 +6,5 @@ id_nomics: ACD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACD.png
 logoKey: currencies/acd.png
 name: Alliance Cargo Direct
+platform: ETH
+platform_contract: '0xe45fc4290fd3159588f532058592ea327d2e97d4'

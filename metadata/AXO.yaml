@@ -3,3 +3,5 @@ fiat: false
 id: AXO
 id_nomics: AXO
 name: AXOS
+platform: BNB
+platform_contract: '0x63d2322e5f66287cdd97addb826eae98ebe63fb7'

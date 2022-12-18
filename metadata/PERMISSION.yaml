@@ -3,3 +3,5 @@ fiat: false
 id: PERMISSION
 id_nomics: PERMISSION
 name: Permissionless
+platform: ETH
+platform_contract: '0x5fb798a123cdd34b1c4297bdbfe997f6a4806440'

@@ -5,3 +5,5 @@ id_nomics: BITRUE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITRUE.jpg
 logoKey: currencies/bitrue.jpg
 name: Bitrue Coin
+platform: ETH
+platform_contract: '0xd433138d12beb9929ff6fd583dc83663eea6aaa5'

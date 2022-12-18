@@ -5,3 +5,5 @@ id_nomics: MYFI3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MYFI3.jpg
 logoKey: currencies/myfi3.jpg
 name: MyFinance
+platform: ETH
+platform_contract: '0x22fe5bcada4e30a7310efb1dff7f90168dc42b62'

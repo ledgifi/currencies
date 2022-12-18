@@ -5,3 +5,5 @@ id_nomics: LCD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LCD2.png
 logoKey: currencies/lcd2.png
 name: Lucidao
+platform: FTM
+platform_contract: '0xc2a45fe7d40bcac8369371b08419ddafd3131b4a'

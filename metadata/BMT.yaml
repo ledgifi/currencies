@@ -5,3 +5,5 @@ id_nomics: BMT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BMT.jpg
 logoKey: currencies/bmt.jpg
 name: BMChain
+platform: ETH
+platform_contract: '0xf028adee51533b1b47beaa890feb54a457f51e89'

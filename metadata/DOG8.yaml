@@ -5,3 +5,5 @@ id_nomics: DOG8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOG8.jpg
 logoKey: currencies/dog8.jpg
 name: Dog
+platform: BNB
+platform_contract: '0xcc4861adc85d86ae8c9cc9d19f4f109969eb4f7b'

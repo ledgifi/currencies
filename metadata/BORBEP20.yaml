@@ -5,3 +5,5 @@ id_nomics: BORBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BORBEP20.jpg
 logoKey: currencies/borbep20.jpg
 name: BoringDAO (BEP-20)
+platform: BNB
+platform_contract: '0xffeecbf8d7267757c2dc3d13d730e97e15bfdf7f'

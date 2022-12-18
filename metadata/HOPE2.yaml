@@ -5,3 +5,5 @@ id_nomics: HOPE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOPE2.jpg
 logoKey: currencies/hope2.jpg
 name: Hope Token
+platform: BNB
+platform_contract: '0x6f2afbf4f5e5e804c5b954889d7bf3768a3c9a45'

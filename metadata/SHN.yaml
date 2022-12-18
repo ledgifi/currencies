@@ -5,3 +5,5 @@ id_nomics: SHN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHN.jpg
 logoKey: currencies/shn.jpg
 name: Shine
+platform: ETH
+platform_contract: '0x1c7ede23b1361acc098a1e357c9085d131b34a01'

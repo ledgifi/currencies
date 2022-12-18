@@ -5,3 +5,5 @@ id_nomics: CREAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CREAP.jpg
 logoKey: currencies/creap.jpg
 name: CryptReaper
+platform: BNB
+platform_contract: '0x2c9a2f2282c81ed4761e2792def9be99d9a3e032'

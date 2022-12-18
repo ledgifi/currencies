@@ -5,3 +5,5 @@ id_nomics: SDBY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SDBY2.jpg
 logoKey: currencies/sdby2.jpg
 name: Sadbaby V2
+platform: BNB
+platform_contract: '0x3ad405ef7aea80ccb41beef0a74510e18feef190'

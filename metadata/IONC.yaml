@@ -6,3 +6,5 @@ id_nomics: IONC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IONC.jpg
 logoKey: currencies/ionc.jpg
 name: IONChain
+platform: ETH
+platform_contract: '0xbc647aad10114b89564c0a7aabe542bd0cf2c5af'

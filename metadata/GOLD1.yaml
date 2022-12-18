@@ -3,3 +3,5 @@ fiat: false
 id: GOLD1
 id_nomics: GOLD1
 name: Teh Golden One
+platform: ETH
+platform_contract: '0x0ec72cd6690db40b16be166858299f19d4f8e5b0'

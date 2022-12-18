@@ -5,3 +5,5 @@ id_nomics: BDE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BDE.png
 logoKey: currencies/bde.png
 name: BDEX COIN
+platform: ETH
+platform_contract: '0x1e258ca7cca4513a219e2e0d0dd29e2888b3ba4b'

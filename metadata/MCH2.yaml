@@ -5,3 +5,5 @@ id_nomics: MCH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCH2.jpg
 logoKey: currencies/mch2.jpg
 name: Meme Cash
+platform: ETH
+platform_contract: '0xa4e7414fcba1af15203030c6daac630df8f16aea'

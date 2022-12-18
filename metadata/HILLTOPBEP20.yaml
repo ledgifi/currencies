@@ -5,3 +5,5 @@ id_nomics: HILLTOPBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HILLTOPBEP20.jpeg
 logoKey: currencies/hilltopbep20.jpeg
 name: Hilltop (BEP-20)
+platform: BNB
+platform_contract: '0x27845cfff80407100481d2eef169e9887d641939'

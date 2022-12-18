@@ -5,3 +5,5 @@ id_nomics: PYX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PYX2.jpg
 logoKey: currencies/pyx2.jpg
 name: PYXIS
+platform: BNB
+platform_contract: '0x3ebb316d8c387ef235baa38978cbb9b97c8c3017'

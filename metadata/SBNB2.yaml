@@ -5,3 +5,5 @@ id_nomics: SBNB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBNB2.jpg
 logoKey: currencies/sbnb2.jpg
 name: SafeBNB Token
+platform: BNB
+platform_contract: '0x9f0ae06e8b2478266c894e6464f8f1e5045e38d7'

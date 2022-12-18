@@ -5,3 +5,5 @@ id_nomics: BITGAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITGAY.jpg
 logoKey: currencies/bitgay.jpg
 name: BitGay
+platform: BNB
+platform_contract: '0x98fc5b3a39d712fa5a826df4f9c47bb6c0f6f8a9'

@@ -5,3 +5,5 @@ id_nomics: VOW3CX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VOW3CX.jpg
 logoKey: currencies/vow3cx.jpg
 name: Volkswagen AG Token
+platform: ETH
+platform_contract: '0xcb21b60dc7d0ec8341b55adfe2df25db8503a21b'

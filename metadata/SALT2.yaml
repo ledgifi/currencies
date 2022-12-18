@@ -5,3 +5,5 @@ id_nomics: SALT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SALT2.jpg
 logoKey: currencies/salt2.jpg
 name: SaltSwap
+platform: BNB
+platform_contract: '0x2849b1ae7e04a3d9bc288673a92477cf63f28af4'

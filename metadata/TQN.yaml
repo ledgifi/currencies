@@ -6,3 +6,5 @@ id_nomics: TQN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TQN.png
 logoKey: currencies/tqn.png
 name: Toqqn
+platform: ETH
+platform_contract: '0x6613876533bc69b9dd628611a4d5dd2ccd8c7638'

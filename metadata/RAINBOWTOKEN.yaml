@@ -5,3 +5,5 @@ id_nomics: RAINBOWTOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAINBOWTOKEN.jpg
 logoKey: currencies/rainbowtoken.jpg
 name: RainbowToken
+platform: BNB
+platform_contract: '0x673da443da2f6ae7c5c660a9f0d3dd24d1643d36'

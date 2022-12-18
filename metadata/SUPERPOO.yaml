@@ -5,3 +5,5 @@ id_nomics: SUPERPOO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUPERPOO.png
 logoKey: currencies/superpoo.png
 name: SuperPoo
+platform: BNB
+platform_contract: '0xcafb873ae0fdaa955489e096ad77f34aa8fc681d'

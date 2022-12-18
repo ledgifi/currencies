@@ -5,3 +5,5 @@ id_nomics: CAT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAT4.jpg
 logoKey: currencies/cat4.jpg
 name: KuCat
+platform: KCS
+platform_contract: '0xb4bbc2912e1c1ebaf06249e66e7af26bb1941138'

@@ -3,3 +3,5 @@ fiat: false
 id: PAWN3
 id_nomics: PAWN3
 name: Pawn V2
+platform: FTM
+platform_contract: '0x1f35b7a92564a50fe9c3a9ae8b3864464a950318'

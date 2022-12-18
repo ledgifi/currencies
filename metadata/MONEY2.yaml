@@ -3,3 +3,5 @@ fiat: false
 id: MONEY2
 id_nomics: MONEY2
 name: Moremoney USD
+platform: AVAX
+platform_contract: '0x0f577433bf59560ef2a79c124e9ff99fca258948'

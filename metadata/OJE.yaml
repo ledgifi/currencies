@@ -6,3 +6,5 @@ id_nomics: OJE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OJE.jpg
 logoKey: currencies/oje.jpg
 name: Oje Token
+platform: ETH
+platform_contract: '0xc5ec4f1fc86da45ae788ec98756ba70b57676409'

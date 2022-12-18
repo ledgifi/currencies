@@ -3,3 +3,5 @@ fiat: false
 id: ETHGAL
 id_nomics: ETHGAL
 name: EtherGals
+platform: ETH
+platform_contract: '0x0115bd305885999562d593c94328fe25190dbc90'

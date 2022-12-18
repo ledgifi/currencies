@@ -3,3 +3,5 @@ fiat: false
 id: CROCLOCK
 id_nomics: CROCLOCK
 name: CROCLOCK
+platform: CRO
+platform_contract: '0x181babdd93d66c78e2bfd01a1bee228f1bf5bd65'

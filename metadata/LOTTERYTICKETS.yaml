@@ -5,3 +5,5 @@ id_nomics: LOTTERYTICKETS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOTTERYTICKETS.png
 logoKey: currencies/lotterytickets.png
 name: Lottery Tickets
+platform: ETH
+platform_contract: '0x39b23f14528fb000e8c46ad75df2db9a3ee49422'

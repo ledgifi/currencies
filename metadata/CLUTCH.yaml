@@ -3,3 +3,5 @@ fiat: false
 id: CLUTCH
 id_nomics: CLUTCH
 name: Clutch Token
+platform: ETH
+platform_contract: '0x339c9044b54c0f411e9a7e7b1f09853e723ad9de'

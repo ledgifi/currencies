@@ -3,3 +3,5 @@ fiat: false
 id: MSPLINTER
 id_nomics: MSPLINTER
 name: MasterSplinter
+platform: ETH
+platform_contract: '0xa4a244f5a7151cc05a813fe0a4193538d80cc6ec'

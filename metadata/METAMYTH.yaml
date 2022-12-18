@@ -5,3 +5,5 @@ id_nomics: METAMYTH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAMYTH.jpg
 logoKey: currencies/metamyth.jpg
 name: MetaMyth
+platform: ETH
+platform_contract: '0xd86e2c7a51b9aaa01cf1b6888bdaafa491283ee7'

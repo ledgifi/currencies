@@ -5,3 +5,5 @@ id_nomics: IZOBI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IZOBI2.jpg
 logoKey: currencies/izobi2.jpg
 name: iZOBi V2
+platform: BNB
+platform_contract: '0x9987e6a7afddd33a43367f560638dc2dc45ebd99'

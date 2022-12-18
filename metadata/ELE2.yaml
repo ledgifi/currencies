@@ -5,3 +5,5 @@ id_nomics: ELE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELE2.png
 logoKey: currencies/ele2.png
 name: Elevate
+platform: ETH
+platform_contract: '0x48be867b240d2ffaff69e0746130f2c027d8d3d2'

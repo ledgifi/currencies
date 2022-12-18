@@ -5,3 +5,5 @@ id_nomics: SEAS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SEAS2.jpeg
 logoKey: currencies/seas2.jpeg
 name: TeamSeas
+platform: BNB
+platform_contract: '0x7F2296E416475840be7B0a5577F2bb6EDf349afC'

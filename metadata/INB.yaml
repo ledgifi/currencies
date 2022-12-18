@@ -6,3 +6,5 @@ id_nomics: INB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/inb.jpg
 logoKey: currencies/inb.jpg
 name: Insight Chain
+platform: ETH
+platform_contract: '0x17aa18a4b64a55abed7fa543f2ba4e91f2dce482'

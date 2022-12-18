@@ -5,3 +5,5 @@ id_nomics: SHIBAGROW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBAGROW.jpg
 logoKey: currencies/shibagrow.jpg
 name: Shiba Grow
+platform: BNB
+platform_contract: '0x30792e9a7d66ae23aa6cb74a6db9de903053ae75'

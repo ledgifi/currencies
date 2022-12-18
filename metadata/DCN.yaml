@@ -6,3 +6,5 @@ id_nomics: DCN
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/dcn.svg
 logoKey: currencies/dcn.svg
 name: Dentacoin
+platform: ETH
+platform_contract: '0x08d32b0da63e2c3bcf8019c9c5d849d7a9d791e6'

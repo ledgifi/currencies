@@ -5,3 +5,5 @@ id_nomics: ALLCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALLCOIN.png
 logoKey: currencies/allcoin.png
 name: Allcoin
+platform: ETH
+platform_contract: '0xa958e706fc1934e26a3d0c32f471b54f733d0009'

@@ -5,3 +5,5 @@ id_nomics: SING2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SING2.png
 logoKey: currencies/sing2.png
 name: Sing
+platform: MATIC
+platform_contract: '0xcb898b0efb084df14dd8e018da37b4d0f06ab26d'

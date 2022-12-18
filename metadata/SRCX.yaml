@@ -5,3 +5,5 @@ id_nomics: SRCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SRCX.png
 logoKey: currencies/srcx.png
 name: Source Token
+platform: BNB
+platform_contract: '0x454b90716a9435e7161a9aea5cf00e0acbe565ae'

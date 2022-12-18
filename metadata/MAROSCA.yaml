@@ -5,3 +5,5 @@ id_nomics: MAROSCA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAROSCA.png
 logoKey: currencies/marosca.png
 name: Marosca Inu
+platform: ETH
+platform_contract: '0xd0a2e008eb1f160fa6055a28d5224034d8f527f7'

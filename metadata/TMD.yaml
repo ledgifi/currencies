@@ -3,3 +3,5 @@ fiat: false
 id: TMD
 id_nomics: TMD
 name: TMD Token
+platform: BNB
+platform_contract: '0x6e7b62ac246f9567f6d2148b1e3497b85659ffd4'

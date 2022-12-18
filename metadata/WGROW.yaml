@@ -5,3 +5,5 @@ id_nomics: WGROW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WGROW.jpg
 logoKey: currencies/wgrow.jpg
 name: Wallet Grow
+platform: BNB
+platform_contract: '0xaab7f2afa6c57c28a368763df38deae9dd41cc64'

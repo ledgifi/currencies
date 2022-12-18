@@ -5,3 +5,5 @@ id_nomics: BSS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSS.PNG
 logoKey: currencies/bss.png
 name: Bless
+platform: ETH
+platform_contract: '0x220f0b2186f96a3572dfc0dc7da5070b7df013a4'

@@ -5,3 +5,5 @@ id_nomics: CDD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CDD.png
 logoKey: currencies/cdd.png
 name: CoinDD
+platform: BNB
+platform_contract: '0x975367d8d68f96f5956cfe01f6e9868e271220de'

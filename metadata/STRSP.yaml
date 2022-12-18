@@ -3,3 +3,5 @@ fiat: false
 id: STRSP
 id_nomics: STRSP
 name: StarSwap
+platform: ETH
+platform_contract: '0xb95e5a116b5de2f8eb7af885b3e2542d0fd9ecbb'

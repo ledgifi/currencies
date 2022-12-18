@@ -5,3 +5,5 @@ id_nomics: SUIKO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUIKO.png
 logoKey: currencies/suiko.png
 name: Suiko
+platform: ETH
+platform_contract: '0x5a0d2e12edc316bee9005327c7076f1833904053'

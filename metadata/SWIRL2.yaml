@@ -5,3 +5,5 @@ id_nomics: SWIRL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWIRL2.jpg
 logoKey: currencies/swirl2.jpg
 name: SwirlToken
+platform: BNB
+platform_contract: '0x38ffa52c7628f5ccf871472e40c462e4483215c9'

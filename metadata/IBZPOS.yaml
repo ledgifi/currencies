@@ -5,3 +5,5 @@ id_nomics: IBZPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IBZPOS.jpg
 logoKey: currencies/ibzpos.jpg
 name: Ibiza (Polygon)
+platform: MATIC
+platform_contract: '0x428ac1de3fc08c0f3a47745c964f7d677716981f'

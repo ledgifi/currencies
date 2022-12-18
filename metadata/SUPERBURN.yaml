@@ -5,3 +5,5 @@ id_nomics: SUPERBURN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUPERBURN.jpg
 logoKey: currencies/superburn.jpg
 name: SuperBurn
+platform: BNB
+platform_contract: '0x6a77c11a84de26e4baa2462679640a503145e739'

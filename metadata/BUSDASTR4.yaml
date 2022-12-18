@@ -5,3 +5,5 @@ id_nomics: BUSDASTR4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUSDASTR4.png
 logoKey: currencies/busdastr4.png
 name: Binance USD (Astar)
+platform: ASTR4
+platform_contract: '0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E'

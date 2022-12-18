@@ -5,3 +5,5 @@ id_nomics: GDT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GDT2.jpg
 logoKey: currencies/gdt2.jpg
 name: Globe Derivative Exchange
+platform: ETH
+platform_contract: '0xc67b12049c2d0cf6e476bc64c7f82fc6c63cffc5'

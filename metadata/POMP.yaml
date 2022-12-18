@@ -3,3 +3,5 @@ fiat: false
 id: POMP
 id_nomics: POMP
 name: POMPC
+platform: ETH
+platform_contract: '0x8b0cb0c5c0d707f0ae0da8e9868efae2c0456d43'

@@ -5,3 +5,5 @@ id_nomics: GREENROCKET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GREENROCKET.png
 logoKey: currencies/greenrocket.png
 name: Green Rocket
+platform: BNB
+platform_contract: '0x2abaaa46964dce8e00045f3711f3d04323864fb5'

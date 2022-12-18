@@ -5,3 +5,5 @@ id_nomics: NCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NCH.jpg
 logoKey: currencies/nch.jpg
 name: NEURONET
+platform: BNB
+platform_contract: '0x02dbb44417a5d7bcb3418b98b0ba0ef2925cf38c'

@@ -6,3 +6,5 @@ id_nomics: TNODE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TNODE.jpg
 logoKey: currencies/tnode.jpg
 name: Trusted Node
+platform: BNB
+platform_contract: '0x7f12a37b6921ffac11fab16338b3ae67ee0c462b'

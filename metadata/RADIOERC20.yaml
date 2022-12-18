@@ -5,3 +5,5 @@ id_nomics: RADIOERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RADIOERC20.jpg
 logoKey: currencies/radioerc20.jpg
 name: RadioShack (ERC-20)
+platform: ETH
+platform_contract: '0x7a5d3a9dcd33cb8d527f7b5f96eb4fef43d55636'

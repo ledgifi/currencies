@@ -6,3 +6,5 @@ id_nomics: LMOOSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LMOOSE.jpg
 logoKey: currencies/lmoose.jpg
 name: LittleMoose
+platform: BNB
+platform_contract: '0x17d8c396a55d6c1c2130efc23f4936b56860df9c'

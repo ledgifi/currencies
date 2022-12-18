@@ -5,3 +5,5 @@ id_nomics: EPARA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EPARA.png
 logoKey: currencies/epara.png
 name: Paralism-EPARA
+platform: ETH
+platform_contract: '0x7fc2a3a998e8a80da7f2962c5a8803b641711e6c'

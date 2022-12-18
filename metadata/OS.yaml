@@ -5,3 +5,5 @@ id_nomics: OS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OS.jpg
 logoKey: currencies/os.jpg
 name: OS
+platform: ETH
+platform_contract: '0x6100dd79fcaa88420750dcee3f735d168abcb771'

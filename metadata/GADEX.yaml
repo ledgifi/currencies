@@ -3,3 +3,5 @@ fiat: false
 id: GADEX
 id_nomics: GADEX
 name: GADexSwap
+platform: BNB
+platform_contract: '0x80c1d7d8458bf83f6c37bcc4cd8f28d1eb085ddb'

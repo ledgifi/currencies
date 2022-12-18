@@ -3,3 +3,5 @@ fiat: false
 id: SECURITYSAM
 id_nomics: SECURITYSAM
 name: security-samToken
+platform: XDAI
+platform_contract: '0x73d13d8c5ab4c1651c613a7e65861edf2a032bb8'

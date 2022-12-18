@@ -5,3 +5,5 @@ id_nomics: MDOGE4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MDOGE4.png
 logoKey: currencies/mdoge4.png
 name: MetisDoge
+platform: METIS
+platform_contract: '0x31021E0B1CC6F89E04586A0e3cF5C46D5498A5E9'

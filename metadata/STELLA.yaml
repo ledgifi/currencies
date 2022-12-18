@@ -5,3 +5,5 @@ id_nomics: STELLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STELLA.jpg
 logoKey: currencies/stella.jpg
 name: StellaSwap
+platform: MOVR
+platform_contract: '0x0e358838ce72d5e61e0018a2ffac4bec5f4c88d2'

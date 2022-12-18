@@ -3,3 +3,5 @@ fiat: false
 id: CHICA2
 id_nomics: CHICA2
 name: BocaChica
+platform: NEAR
+platform_contract: token.bocachica_mars.near

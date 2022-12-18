@@ -6,3 +6,5 @@ id_nomics: BNZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNZ.jpg
 logoKey: currencies/bnz.jpg
 name: BonezYard
+platform: ETH
+platform_contract: '0x014a543f767b3b06e31a811b0a75483ee8dfd72d'

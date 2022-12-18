@@ -3,3 +3,5 @@ fiat: false
 id: RBCTEST
 id_nomics: RBCTEST
 name: RBC-TEST
+platform: BNB
+platform_contract: '0x757036c26dd117cfd5b5e1d5049665c01226d9fb'

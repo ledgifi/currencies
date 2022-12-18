@@ -5,3 +5,5 @@ id_nomics: KINGH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KINGH.jpg
 logoKey: currencies/kingh.jpg
 name: KINGH Token
+platform: BNB
+platform_contract: '0x4a30d01ab7b7835ca9a8712d3edb8dc63e0dd642'

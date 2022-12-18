@@ -5,3 +5,5 @@ id_nomics: REV4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REV4.png
 logoKey: currencies/rev4.png
 name: Revive
+platform: BNB
+platform_contract: '0x42b30ea205767ec9a496934bd09bcd4b00ce9746'

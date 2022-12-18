@@ -3,3 +3,5 @@ fiat: false
 id: SUIA
 id_nomics: SUIA
 name: Sui Attendance
+platform: ARBETH
+platform_contract: '0x82affce07acfe7d3048e2c128a73d380521fbab1'

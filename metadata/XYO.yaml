@@ -6,3 +6,5 @@ id_nomics: XYO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/xyo.jpg
 logoKey: currencies/xyo.jpg
 name: XYO
+platform: ETH
+platform_contract: '0x55296f69f40ea6d20e478533c15a6b08b654e758'

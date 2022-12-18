@@ -5,3 +5,5 @@ id_nomics: GENF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GENF.jpg
 logoKey: currencies/genf.jpg
 name: Genesis Defi by Floki
+platform: BNB
+platform_contract: '0xc0ab0d085dcba5e7c65848974c928f8fd81982eb'

@@ -6,3 +6,5 @@ id_nomics: PRISM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRISM.jpg
 logoKey: currencies/prism.jpg
 name: Prism Network
+platform: ETH
+platform_contract: '0xd46df541148932690b81092f600f35208afd4325'

@@ -4,3 +4,5 @@ id: RBT10
 id_nomics: RBT10
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RBT10.jpg
 name: Run&Burn
+platform: BNB
+platform_contract: '0x7c6663367f1a5fafff37ec36290ccd5fe67f2bdf'

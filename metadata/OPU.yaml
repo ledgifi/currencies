@@ -3,3 +3,5 @@ fiat: false
 id: OPU
 id_nomics: OPU
 name: Opu Coin
+platform: ETH
+platform_contract: '0x65e3c4a750a2e7cc7cce86d01587bbcbbe99042e'

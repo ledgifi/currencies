@@ -5,3 +5,5 @@ id_nomics: VIR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VIR.jpg
 logoKey: currencies/vir.jpg
 name: VirtualToken
+platform: ETH
+platform_contract: '0xb763628c6bde4266cd4232a0cd91c1523aaa077c'

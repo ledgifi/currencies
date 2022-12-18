@@ -6,3 +6,5 @@ id_nomics: ALGB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALGB.jpg
 logoKey: currencies/algb.jpg
 name: Algebra
+platform: MATIC
+platform_contract: '0x0169ec1f8f639b32eec6d923e24c2a2ff45b9dd6'

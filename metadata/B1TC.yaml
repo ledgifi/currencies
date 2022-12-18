@@ -6,3 +6,5 @@ id_nomics: B1TC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/B1TC.jpg
 logoKey: currencies/b1tc.jpg
 name: Biden One Trillion Coin
+platform: BNB
+platform_contract: '0x90316ddde4e2cc292f11c85e427cb94343ec1508'

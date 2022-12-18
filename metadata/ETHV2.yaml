@@ -3,3 +3,5 @@ fiat: false
 id: ETHV2
 id_nomics: ETHV2
 name: ETH.Vitalik
+platform: ETH
+platform_contract: '0xb77deba82a57028e275c599df283f4c97e822b37'

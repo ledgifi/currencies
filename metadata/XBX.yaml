@@ -5,3 +5,5 @@ id_nomics: XBX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XBX.jpg
 logoKey: currencies/xbx.jpg
 name: Bitex Global XBX Coin
+platform: ETH
+platform_contract: '0x57c09a8de0b0f471f8567609777addffb5c46a08'

@@ -3,3 +3,5 @@ fiat: false
 id: CELTTEST
 id_nomics: CELTTEST
 name: CelestialTest
+platform: BNB
+platform_contract: '0xef5b5246320a09aa7e07bcf89fe62329e38fe9df'

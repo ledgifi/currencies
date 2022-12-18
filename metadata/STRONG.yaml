@@ -6,3 +6,5 @@ id_nomics: STRONG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STRONG.png
 logoKey: currencies/strong.png
 name: Strong
+platform: ETH
+platform_contract: '0x990f341946a3fdb507ae7e52d17851b87168017c'

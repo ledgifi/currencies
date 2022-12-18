@@ -6,3 +6,5 @@ id_nomics: LION
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/lion.jpg
 logoKey: currencies/lion.jpg
 name: CoinLion
+platform: ETH
+platform_contract: '0x2167fb82309cf76513e83b25123f8b0559d6b48f'

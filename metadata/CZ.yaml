@@ -5,3 +5,5 @@ id_nomics: CZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CZ.jpg
 logoKey: currencies/cz.jpg
 name: CryptowarriorZ
+platform: ETH
+platform_contract: '0xd1ceac1d42ce8ce956cc68e4fde3b58a6c41c55b'

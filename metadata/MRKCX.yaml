@@ -5,3 +5,5 @@ id_nomics: MRKCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MRKCX.jpg
 logoKey: currencies/mrkcx.jpg
 name: Merck & Co., Inc. Token
+platform: ETH
+platform_contract: '0x05b4fb1a630c330feb85980d4bf0e32a96ef16c9'

@@ -6,3 +6,5 @@ id_nomics: VYBE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VYBE.jpg
 logoKey: currencies/vybe.jpg
 name: Vybe
+platform: ETH
+platform_contract: '0x3a1c1d1c06be03cddc4d3332f7c20e1b37c97ce9'

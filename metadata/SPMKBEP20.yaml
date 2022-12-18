@@ -5,3 +5,5 @@ id_nomics: SPMKBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPMKBEP20.jpg
 logoKey: currencies/spmkbep20.jpg
 name: SpaceMonkey (BEP-20)
+platform: BNB
+platform_contract: '0x130022a99f02208f2e9bdabdc5ab4bd3b9a4cd18'

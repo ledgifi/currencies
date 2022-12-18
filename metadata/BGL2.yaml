@@ -5,3 +5,5 @@ id_nomics: BGL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BGL2.jpeg
 logoKey: currencies/bgl2.jpeg
 name: BGL Token
+platform: BNB
+platform_contract: '0x225d0236ce8c9d753dfae9cd0265da2d2699ba4f'

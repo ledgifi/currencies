@@ -5,3 +5,5 @@ id_nomics: DXC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DXC3.jpg
 logoKey: currencies/dxc3.jpg
 name: Dex-Trade Coin
+platform: ETH
+platform_contract: '0xb0e99627bc29adef1178f16117bf495351e81997'

@@ -6,3 +6,5 @@ id_nomics: FNB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FNB.jpg
 logoKey: currencies/fnb.jpg
 name: FinexboxToken
+platform: ETH
+platform_contract: '0xe6d2c3cb986db66818c14c7032db05d1d2a6ee74'

@@ -5,3 +5,5 @@ id_nomics: LSC6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LSC6.jpg
 logoKey: currencies/lsc6.jpg
 name: Last Standing Croc
+platform: BNB
+platform_contract: '0xE07a9534B188f578514E69b554da7408f52D8B5b'

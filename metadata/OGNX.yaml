@@ -5,3 +5,5 @@ id_nomics: OGNX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OGNX.png
 logoKey: currencies/ognx.png
 name: Originex
+platform: BNB
+platform_contract: '0x70c26558545E2e8d3808D28a9d81CbB9a1bE545b'

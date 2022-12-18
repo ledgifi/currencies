@@ -3,3 +3,5 @@ fiat: false
 id: NEUROBANK
 id_nomics: NEUROBANK
 name: NeuroBank
+platform: ETH
+platform_contract: '0x68fbc92a69b47005a50a1a893b7e37ee3d80b0a2'

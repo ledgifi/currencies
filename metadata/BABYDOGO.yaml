@@ -6,3 +6,5 @@ id_nomics: BABYDOGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYDOGO.jpg
 logoKey: currencies/babydogo.jpg
 name: Baby Dogo Coin
+platform: BNB
+platform_contract: '0x6eb52af9541bc5a7e9f671daecd300cb55831a1e'

@@ -5,3 +5,5 @@ id_nomics: BONK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BONK2.png
 logoKey: currencies/bonk2.png
 name: theBONK
+platform: BNB
+platform_contract: '0x19e596e942f7c2bfbd23974fabdd9ddf3a7cc6d2'

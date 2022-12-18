@@ -5,3 +5,5 @@ id_nomics: CTRFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTRFI.jpg
 logoKey: currencies/ctrfi.jpg
 name: ChesterCoin
+platform: BNB
+platform_contract: '0xb74ed4112c23b7c8ef1439fa55d304d537c5599b'

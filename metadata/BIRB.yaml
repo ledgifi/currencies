@@ -6,3 +6,5 @@ id_nomics: BIRB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIRB.jpg
 logoKey: currencies/birb.jpg
 name: Birb
+platform: BNB
+platform_contract: '0x82a479264b36104be4fdb91618a59a4fc0f50650'

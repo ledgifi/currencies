@@ -5,3 +5,5 @@ id_nomics: WCRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WCRO.jpg
 logoKey: currencies/wcro.jpg
 name: Wrapped CRO
+platform: CRO
+platform_contract: '0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23'

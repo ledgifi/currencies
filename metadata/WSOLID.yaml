@@ -3,3 +3,5 @@ fiat: false
 id: WSOLID
 id_nomics: WSOLID
 name: Solidswap
+platform: ETH
+platform_contract: '0x7cfa05320d83a20980ac76b91a3a11981877ef3a'

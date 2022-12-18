@@ -5,3 +5,5 @@ id_nomics: DGT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DGT2.jpeg
 logoKey: currencies/dgt2.jpeg
 name: DGT
+platform: BNB
+platform_contract: '0x90fe761c696066672190cc62a84a2a41bc630a1b'

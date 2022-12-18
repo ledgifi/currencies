@@ -6,3 +6,5 @@ id_nomics: NYRP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NYRP.png
 logoKey: currencies/nyrp.png
 name: New Year Rug Pull
+platform: BNB
+platform_contract: '0xfd00cd81514a7666caaf012b9c998973170e2341'

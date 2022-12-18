@@ -3,3 +3,5 @@ fiat: false
 id: RFTM
 id_nomics: RFTM
 name: Fantom Token
+platform: METIS
+platform_contract: '0xa9109271abcf0c4106ab7366b4edb34405947eed'

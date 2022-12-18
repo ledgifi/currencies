@@ -6,3 +6,5 @@ id_nomics: CHLI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHLI.jpg
 logoKey: currencies/chli.jpg
 name: ChilliSwap
+platform: ETH
+platform_contract: '0x12b54baa8ffcfd6679ccf1ae618ca3006cfcc2ac'

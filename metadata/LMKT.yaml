@@ -5,3 +5,5 @@ id_nomics: LMKT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LMKT.png
 logoKey: currencies/lmkt.png
 name: Lamkart
+platform: BNB
+platform_contract: '0xa1c5210ac78167e559f3fa0f320d96d0c6c999f7'

@@ -5,3 +5,5 @@ id_nomics: 1PECO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/1PECO.png
 logoKey: currencies/1peco.png
 name: 1peco
+platform: ETH
+platform_contract: '0x7169ba45cf03e0377b464462aacbccdf1f721125'

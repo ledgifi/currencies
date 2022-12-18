@@ -5,3 +5,5 @@ id_nomics: QUEEN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QUEEN2.jpeg
 logoKey: currencies/queen2.jpeg
 name: Queen Elizabeth Coin
+platform: BNB
+platform_contract: '0x3cf7fc678876cc9e338b4fe939ff7217ceea7a93'

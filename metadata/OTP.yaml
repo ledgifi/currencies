@@ -5,3 +5,5 @@ id_nomics: OTP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OTP.jpg
 logoKey: currencies/otp.jpg
 name: Octopus Market
+platform: ETH
+platform_contract: '0x8b42d5640515685b9d5acec14952dd289cbe4b4c'

@@ -5,3 +5,5 @@ id_nomics: WIN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WIN3.jpeg
 logoKey: currencies/win3.jpeg
 name: Winance
+platform: BNB
+platform_contract: '0x2d56c9aae62cfd3e7d84ac752dc68ba329da4212'

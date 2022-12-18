@@ -5,3 +5,5 @@ id_nomics: SAFU9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFU9.jpg
 logoKey: currencies/safu9.jpg
 name: Safe Zone V2
+platform: BNB
+platform_contract: '0xa701EC6B9C1883fcF727FED7e41FE925A1b1E91C'

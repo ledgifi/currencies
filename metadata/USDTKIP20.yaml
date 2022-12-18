@@ -3,3 +3,5 @@ fiat: false
 id: USDTKIP20
 id_nomics: USDTKIP20
 name: Tether (KIP-20)
+platform: OKT
+platform_contract: '0x382bb369d343125bfb2117af9c149795c6c65c50'

@@ -6,3 +6,5 @@ id_nomics: OLP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OLP.jpg
 logoKey: currencies/olp.jpg
 name: Olympia
+platform: BNB
+platform_contract: '0x79395a77c8ddbefb74f242242960cac7368fd64e'

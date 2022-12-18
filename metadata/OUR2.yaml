@@ -5,3 +5,5 @@ id_nomics: OUR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OUR2.jpg
 logoKey: currencies/our2.jpg
 name: Our Pay
+platform: ETH
+platform_contract: '0xdff3d69a00759449f091561a0af99a218982bd7f'

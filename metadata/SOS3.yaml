@@ -5,3 +5,5 @@ id_nomics: SOS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOS3.jpg
 logoKey: currencies/sos3.jpg
 name: SOS Foundation
+platform: BNB
+platform_contract: '0xc3eac7eb10cd1b6b11504259fe933d011d99b797'

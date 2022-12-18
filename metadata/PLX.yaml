@@ -6,3 +6,5 @@ id_nomics: PLX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLX.png
 logoKey: currencies/plx.png
 name: PlexCoin
+platform: ETH
+platform_contract: '0xb3203db25a01fa7950a860b42b899ad7da52ddd6'

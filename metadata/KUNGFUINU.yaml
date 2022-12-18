@@ -5,3 +5,5 @@ id_nomics: KUNGFUINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KUNGFUINU.png
 logoKey: currencies/kungfuinu.png
 name: KungFu Inu
+platform: ETH
+platform_contract: '0x3effb7b180f3cc9af2e51b9b71d4c792e646394b'

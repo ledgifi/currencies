@@ -5,3 +5,5 @@ id_nomics: CWST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CWST.jpeg
 logoKey: currencies/cwst.jpeg
 name: CWST
+platform: BNB
+platform_contract: '0x6b5f250fc8a8fde6b18fd11ca2d51c6cabe8235f'

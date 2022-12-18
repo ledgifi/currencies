@@ -6,3 +6,5 @@ id_nomics: SCARD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCARD.jpg
 logoKey: currencies/scard.jpg
 name: SCARDust
+platform: ETH
+platform_contract: '0xc10b30820f793e24733dc80da12c798dfbff0fff'

@@ -3,3 +3,5 @@ fiat: false
 id: CXBP
 id_nomics: CXBP
 name: cxbp
+platform: BNB
+platform_contract: '0x867d05afa2e3facff0534c825be4c268497710c8'

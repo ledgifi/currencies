@@ -3,3 +3,5 @@ fiat: false
 id: HYTEST
 id_nomics: HYTEST
 name: HYTEST Token
+platform: HT
+platform_contract: '0x87d9482357daacb50bef48b672a05d680e90364e'

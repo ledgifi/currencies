@@ -5,3 +5,5 @@ id_nomics: ANRXPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANRXPOS.jpg
 logoKey: currencies/anrxpos.jpg
 name: AnRKey X (Polygon)
+platform: MATIC
+platform_contract: '0x554f074d9ccda8f483d1812d4874cbebd682644e'

@@ -3,3 +3,5 @@ fiat: false
 id: ETHTOKEN
 id_nomics: ETHTOKEN
 name: EthToken
+platform: BNB
+platform_contract: '0x4072c224c56e9fff00b29ea08dceafb6f9bad6ff'

@@ -5,3 +5,5 @@ id_nomics: AWARS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AWARS.jpeg
 logoKey: currencies/awars.jpeg
 name: AWARS
+platform: ETH
+platform_contract: '0xca808163a4d0c5d0960d2a604b598db70fd84b80'

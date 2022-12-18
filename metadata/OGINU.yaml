@@ -5,3 +5,5 @@ id_nomics: OGINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OGINU.jpg
 logoKey: currencies/oginu.jpg
 name: OG INU
+platform: BNB
+platform_contract: '0x107c7adbb4df7472c6617dc40c406f171eaf2183'

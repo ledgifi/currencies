@@ -5,3 +5,5 @@ id_nomics: LUMI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUMI2.jpg
 logoKey: currencies/lumi2.jpg
 name: Luminos Mining Protocol
+platform: BNB
+platform_contract: '0x37c9ab94818c995569fd6f23feccec54bce900e0'

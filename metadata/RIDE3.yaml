@@ -5,3 +5,5 @@ id_nomics: RIDE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RIDE3.png
 logoKey: currencies/ride3.png
 name: Ride DeFi
+platform: ETH
+platform_contract: '0x5e80c96cd07b80c6a37b97552f15289d3e9b61fd'

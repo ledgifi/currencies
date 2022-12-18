@@ -6,3 +6,5 @@ id_nomics: INARI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INARI.jpg
 logoKey: currencies/inari.jpg
 name: Inari
+platform: ETH
+platform_contract: '0xca75c43f8c9afd356c585ce7aa4490b48a95c466'

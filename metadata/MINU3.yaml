@@ -5,3 +5,5 @@ id_nomics: MINU3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINU3.jpg
 logoKey: currencies/minu3.jpg
 name: Mastiff Inu
+platform: BNB
+platform_contract: '0x91d0d7349e98b52edb8628645b8e1bb5f290a4c9'

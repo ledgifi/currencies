@@ -5,3 +5,5 @@ id_nomics: MARCO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MARCO2.png
 logoKey: currencies/marco2.png
 name: Melega
+platform: BNB
+platform_contract: '0x963556de0eb8138e97a85f0a86ee0acd159d210b'

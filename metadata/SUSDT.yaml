@@ -3,3 +3,5 @@ fiat: false
 id: SUSDT
 id_nomics: SUSDT
 name: SUSDT Token
+platform: HT
+platform_contract: '0x9460168979641f3a6f659251cabd8ef264b302b8'

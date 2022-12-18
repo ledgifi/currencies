@@ -5,3 +5,5 @@ id_nomics: ABELETRUST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ABELETRUST.jpeg
 logoKey: currencies/abeletrust.jpeg
 name: Abele Trust
+platform: ETH
+platform_contract: '0xff19a86c938acdf34f4fc6f5a8567106647c7a8f'

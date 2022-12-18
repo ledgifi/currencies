@@ -3,3 +3,5 @@ fiat: false
 id: XPOWGPU
 id_nomics: XPOWGPU
 name: XPower
+platform: AVAX
+platform_contract: '0xc63e3b6d0a2d382a74b13d19426b65c0aa5f3648'

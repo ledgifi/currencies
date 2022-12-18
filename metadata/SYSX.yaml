@@ -5,3 +5,5 @@ id_nomics: SYSX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SYSX.jpg
 logoKey: currencies/sysx.jpg
 name: SyscoinToken
+platform: ETH
+platform_contract: '0x3a0d746b3ea1d8ccdf19ad915913bd68391133ca'

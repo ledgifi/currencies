@@ -3,3 +3,5 @@ fiat: false
 id: PTPC
 id_nomics: PTPC
 name: Primero Coin
+platform: BNB
+platform_contract: '0x6066bf0ddd2fee3b099cc6006e186d0d25a6fcda'

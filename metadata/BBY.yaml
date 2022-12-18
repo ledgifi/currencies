@@ -6,3 +6,5 @@ id_nomics: BBY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBY.jpg
 logoKey: currencies/bby.jpg
 name: BlocBuy
+platform: ETH
+platform_contract: '0xaf5e6afa14a5de9a48395869f4f887a63f7f755f'

@@ -5,3 +5,5 @@ id_nomics: SHIBMS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBMS.png
 logoKey: currencies/shibms.png
 name: Shiba Meta Space
+platform: BNB
+platform_contract: '0x4dA9ac8d9727049Db92Df9969f763447F29d4d4d'

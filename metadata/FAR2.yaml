@@ -5,3 +5,5 @@ id_nomics: FAR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FAR2.jpg
 logoKey: currencies/far2.jpg
 name: FarSwap
+platform: BNB
+platform_contract: '0xccf4b473ae8139196205ca72770c0330d43a0541'

@@ -5,3 +5,5 @@ id_nomics: KING7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KING7.jpg
 logoKey: currencies/king7.jpg
 name: King Floki
+platform: BNB
+platform_contract: '0x7a413a278c230e87858ca1cecf3036cd3d1808bf'

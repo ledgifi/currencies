@@ -3,3 +3,5 @@ fiat: false
 id: NAP
 id_nomics: NAP
 name: NAP
+platform: ETH
+platform_contract: '0x66b3037aa8dd64c3ef1aee13a4d1f2509f672d1c'

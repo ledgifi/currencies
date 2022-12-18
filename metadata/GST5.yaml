@@ -5,3 +5,5 @@ id_nomics: GST5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GST5.jpg
 logoKey: currencies/gst5.jpg
 name: GooseToken
+platform: BNB
+platform_contract: '0x54b654e9855eb30a3680ba62d95fa1413900931f'

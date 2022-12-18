@@ -5,3 +5,5 @@ id_nomics: BEABULL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEABULL.jpg
 logoKey: currencies/beabull.jpg
 name: Beabull Inu
+platform: ETH
+platform_contract: '0x33cc097ca3d8236e8580048c2a5eec2a2d33f36d'

@@ -3,3 +3,5 @@ fiat: false
 id: CRYPTOMARS
 id_nomics: CRYPTOMARS
 name: CryptoMars
+platform: BNB
+platform_contract: '0x4946887fc227adfa045a3d06a46f6878a5f60d74'

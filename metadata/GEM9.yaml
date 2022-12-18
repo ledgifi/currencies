@@ -5,3 +5,5 @@ id_nomics: GEM9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GEM9.jpg
 logoKey: currencies/gem9.jpg
 name: Green Eyed Monsters
+platform: ETH
+platform_contract: '0xa22d31228699efffe79b5403da9e7b4009732d6a'

@@ -6,3 +6,5 @@ id_nomics: WET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/wet.jpg
 logoKey: currencies/wet.jpg
 name: WeShow Token
+platform: ETH
+platform_contract: '0x36d10c6800d569bb8c4fe284a05ffe3b752f972c'

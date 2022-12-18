@@ -3,3 +3,5 @@ fiat: false
 id: XED
 id_nomics: XED
 name: Exeedme (ERC-20)
+platform: ETH
+platform_contract: '0xee573a945b01b788b9287ce062a0cfc15be9fd86'

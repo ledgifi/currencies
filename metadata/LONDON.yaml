@@ -3,3 +3,5 @@ fiat: false
 id: LONDON
 id_nomics: LONDON
 name: LONDON
+platform: ETH
+platform_contract: '0x491d6b7d6822d5d4bc88a1264e1b47791fd8e904'

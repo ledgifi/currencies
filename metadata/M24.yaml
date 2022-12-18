@@ -3,3 +3,5 @@ fiat: false
 id: M24
 id_nomics: M24
 name: Mining24
+platform: ETH
+platform_contract: '0x139d415b5fd0981fbee78d0fa503168855b34652'

@@ -5,3 +5,5 @@ id_nomics: DOGETWIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGETWIN.png
 logoKey: currencies/dogetwin.png
 name: DogeTwin
+platform: BNB
+platform_contract: '0x72a7e28f2721c3b7d3da7d69a91d7373432eccdb'

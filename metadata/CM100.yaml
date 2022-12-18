@@ -3,3 +3,5 @@ fiat: false
 id: CM100
 id_nomics: CM100
 name: CoinMarket 100
+platform: BNB
+platform_contract: '0x00ad418ca33dc9c49592357086b88a939b293bb5'

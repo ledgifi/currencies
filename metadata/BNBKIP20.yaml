@@ -3,3 +3,5 @@ fiat: false
 id: BNBKIP20
 id_nomics: BNBKIP20
 name: Binance Coin (KIP-20)
+platform: OKT
+platform_contract: '0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0'

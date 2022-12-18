@@ -6,3 +6,5 @@ id_nomics: FREC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/frec.jpg
 logoKey: currencies/frec.jpg
 name: Freyrchain
+platform: ETH
+platform_contract: '0x17e67d1cb4e349b9ca4bc3e17c7df2a397a7bb64'

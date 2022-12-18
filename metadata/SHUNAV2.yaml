@@ -5,3 +5,5 @@ id_nomics: SHUNAV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHUNAV2.jpg
 logoKey: currencies/shunav2.jpg
 name: Shuna Inuverse V2
+platform: ETH
+platform_contract: '0xde72a052cbb212eff11a4a33d61df9c5a2de8dd1'

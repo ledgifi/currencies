@@ -6,3 +6,5 @@ id_nomics: SHIO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIO.jpg
 logoKey: currencies/shio.jpg
 name: Shibanomi
+platform: BNB
+platform_contract: '0x0c251e67d41efc33a9d3264a5492f63f743ca87c'

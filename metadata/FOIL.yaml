@@ -3,3 +3,5 @@ fiat: false
 id: FOIL
 id_nomics: FOIL
 name: FOIL Bep-20
+platform: BNB
+platform_contract: '0x0a886c3674816291fd727229375d5b6bf99e1cab'

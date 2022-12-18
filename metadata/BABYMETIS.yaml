@@ -5,3 +5,5 @@ id_nomics: BABYMETIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYMETIS.png
 logoKey: currencies/babymetis.png
 name: Baby Metis
+platform: METIS
+platform_contract: '0xE3d81abecE2531e6c60b8a3226Fb6C3513d4A039'

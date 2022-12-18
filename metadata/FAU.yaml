@@ -3,3 +3,5 @@ fiat: false
 id: FAU
 id_nomics: FAU
 name: FaucetToken
+platform: MATIC
+platform_contract: '0xb816d2bd3ffef8ca2e65e5f7e0695351b733c4f3'

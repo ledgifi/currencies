@@ -5,3 +5,5 @@ id_nomics: EZPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EZPOS.jpg
 logoKey: currencies/ezpos.jpg
 name: Easy V2 (Polygon)
+platform: MATIC
+platform_contract: '0x34c1b299a74588d6abdc1b85a53345a48428a521'

@@ -3,3 +3,5 @@ fiat: false
 id: SDANGLE
 id_nomics: SDANGLE
 name: Stake DAO ANGLE
+platform: ETH
+platform_contract: '0x752b4c6e92d96467fe9b9a2522ef07228e00f87c'

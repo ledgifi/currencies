@@ -5,3 +5,5 @@ id_nomics: LOCK3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOCK3.jpeg
 logoKey: currencies/lock3.jpeg
 name: Contracto
+platform: BNB
+platform_contract: '0x559100c4c697ad514340943625bceeff8605cdc3'

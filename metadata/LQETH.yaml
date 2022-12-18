@@ -3,3 +3,5 @@ fiat: false
 id: LQETH
 id_nomics: LQETH
 name: liquid ETH
+platform: ARBETH
+platform_contract: '0x73700aecfc4621e112304b6edc5ba9e36d7743d3'

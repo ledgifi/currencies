@@ -3,3 +3,5 @@ fiat: false
 id: PAW
 id_nomics: PAW
 name: Paw
+platform: MATIC
+platform_contract: '0x6971aca589bbd367516d70c3d210e4906b090c96'

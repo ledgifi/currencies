@@ -3,3 +3,5 @@ fiat: false
 id: DISCOUNT
 id_nomics: DISCOUNT
 name: Discount Token
+platform: AVAX
+platform_contract: '0xb05340b6d11856e1f5f306e00b7265cda4dda847'

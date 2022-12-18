@@ -3,3 +3,5 @@ fiat: false
 id: SWEEP2
 id_nomics: SWEEP2
 name: Sweep Capital
+platform: ETH
+platform_contract: '0x5fdaa123bf828d0d6a1c4ae62a95a6b3bade57c6'

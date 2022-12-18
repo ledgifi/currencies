@@ -5,3 +5,5 @@ id_nomics: WS30CX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WS30CX.jpg
 logoKey: currencies/ws30cx.jpg
 name: Dow Jones 30 Token
+platform: ETH
+platform_contract: '0xca673072ceedc01486e51a5434c3849216445658'

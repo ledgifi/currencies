@@ -5,3 +5,5 @@ id_nomics: OLYMPUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OLYMPUS.jpg
 logoKey: currencies/olympus.jpg
 name: OLYMPUS token
+platform: BNB
+platform_contract: '0x18b426813731c144108c6d7faf5ede71a258fd9a'

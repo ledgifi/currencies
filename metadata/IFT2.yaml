@@ -5,3 +5,5 @@ id_nomics: IFT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IFT2.png
 logoKey: currencies/ift2.png
 name: IFToken
+platform: ETH
+platform_contract: '0x2731d151cbdf84a8a4c6d9d0bae74012db51e428'

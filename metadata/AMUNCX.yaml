@@ -5,3 +5,5 @@ id_nomics: AMUNCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMUNCX.jpg
 logoKey: currencies/amuncx.jpg
 name: Amundi Token
+platform: ETH
+platform_contract: '0x79de7ab8aed2cf7187cafcc9bc5a8101364a3a9e'

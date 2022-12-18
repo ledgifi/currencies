@@ -6,3 +6,5 @@ id_nomics: CAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAR.png
 logoKey: currencies/car.png
 name: CarBlock
+platform: ETH
+platform_contract: '0x4d9e23a3842fe7eb7682b9725cf6c507c424a41b'

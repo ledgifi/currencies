@@ -5,3 +5,5 @@ id_nomics: WZCRERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WZCRERC20.jpg
 logoKey: currencies/wzcrerc20.jpg
 name: Wrapped ZCore (ERC-20)
+platform: ETH
+platform_contract: '0x72896d5478ad86b14a6d4f6e7441740d4970083d'

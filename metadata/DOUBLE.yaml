@@ -3,3 +3,5 @@ fiat: false
 id: DOUBLE
 id_nomics: DOUBLE
 name: DOUBLE
+platform: ETH
+platform_contract: '0x4c035bca303e62bc0bcaa29d670a7530df73c051'

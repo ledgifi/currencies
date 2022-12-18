@@ -5,3 +5,5 @@ id_nomics: VRC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VRC2.jpg
 logoKey: currencies/vrc2.jpg
 name: Veteran
+platform: BNB
+platform_contract: '0xfb5e19b6840755e9aa3bc7f1bdc1725e3a8ae215'

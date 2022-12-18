@@ -5,3 +5,5 @@ id_nomics: 7UP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/7UP.jpg
 logoKey: currencies/7up.jpg
 name: 7up
+platform: BNB
+platform_contract: '0x29f350b3822f51dc29619c583adbc9628646e315'

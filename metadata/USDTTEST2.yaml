@@ -3,3 +3,5 @@ fiat: false
 id: USDTTEST2
 id_nomics: USDTTEST2
 name: Tether USD2
+platform: BNB
+platform_contract: '0x606e01b7e3b20e2afefa591771d048dce5d20502'

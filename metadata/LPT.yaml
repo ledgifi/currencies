@@ -8,3 +8,5 @@ id_nomics: LPT
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/lpt.svg
 logoKey: currencies/lpt.svg
 name: livepeer
+platform: ETH
+platform_contract: '0x58b6a8a3302369daec383334672404ee733ab239'

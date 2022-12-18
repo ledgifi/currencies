@@ -6,3 +6,5 @@ id_nomics: BEM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEM.jpg
 logoKey: currencies/bem.jpg
 name: Bemil Coin
+platform: BNB
+platform_contract: '0x5306be16e6af81140aa1cc4de45aa27f657f02b2'

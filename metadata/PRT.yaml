@@ -5,3 +5,5 @@ id_nomics: PRT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRT.jpg
 logoKey: currencies/prt.jpg
 name: PalaceResidence
+platform: ETH
+platform_contract: '0xa617e4728f216009b86354797d8d2305d3380179'

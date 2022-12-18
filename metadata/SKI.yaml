@@ -6,3 +6,5 @@ id_nomics: SKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SKI.jpg
 logoKey: currencies/ski.jpg
 name: Skillchain
+platform: ETH
+platform_contract: '0x996dc5dfc819408dd98cd92c9a76f64b0738dc3d'

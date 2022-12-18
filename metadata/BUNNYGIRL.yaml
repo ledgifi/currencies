@@ -6,3 +6,5 @@ id_nomics: BUNNYGIRL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUNNYGIRL.jpg
 logoKey: currencies/bunnygirl.jpg
 name: BunnyGirl
+platform: BNB
+platform_contract: '0xa0382abb8f6373fe0db62083d95ad69a57c467e2'

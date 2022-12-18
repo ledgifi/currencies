@@ -6,3 +6,5 @@ id_nomics: RVRS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RVRS.png
 logoKey: currencies/rvrs.png
 name: Reverse
+platform: MATIC
+platform_contract: '0x5dd175a4242afe19e5c1051d8cd13fc8979f2329'

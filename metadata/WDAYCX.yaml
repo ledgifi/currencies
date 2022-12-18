@@ -5,3 +5,5 @@ id_nomics: WDAYCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WDAYCX.jpg
 logoKey: currencies/wdaycx.jpg
 name: Workday, Inc. Token
+platform: ETH
+platform_contract: '0x99d1f0f82c028bf4e017dd397a05bd860fc6edfb'

@@ -5,3 +5,5 @@ id_nomics: BTCM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCM2.jpg
 logoKey: currencies/btcm2.jpg
 name: Bitcoin Monkey
+platform: ETH
+platform_contract: '0x04c7cd246330288a84d2788e8a323cc41206c2eb'

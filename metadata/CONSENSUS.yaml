@@ -3,3 +3,5 @@ fiat: false
 id: CONSENSUS
 id_nomics: CONSENSUS
 name: Consensus economic tokens
+platform: HT
+platform_contract: '0x84c133f86c0b4b8ff052848d5c892e9772a0822a'

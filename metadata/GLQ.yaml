@@ -5,3 +5,5 @@ id_nomics: GLQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GLQ.jpg
 logoKey: currencies/glq.jpg
 name: GraphLinq Protocol
+platform: ETH
+platform_contract: '0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24'

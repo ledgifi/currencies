@@ -6,3 +6,5 @@ id_nomics: KXC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KXC.png
 logoKey: currencies/kxc.png
 name: KingXChain
+platform: ETH
+platform_contract: '0x016396044709eb3edc69c44f4d5fa6996917e4e8'

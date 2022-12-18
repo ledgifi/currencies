@@ -5,3 +5,5 @@ id_nomics: BTCDEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCDEX.png
 logoKey: currencies/btcdex.png
 name: Bitcoin Dex
+platform: BNB
+platform_contract: '0x9b2a3812647f31114f737B34be5cA9346665c9e9'

@@ -6,3 +6,5 @@ id_nomics: ZADDY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZADDY.jpg
 logoKey: currencies/zaddy.jpg
 name: Zaddy Inu
+platform: ETH
+platform_contract: '0x4fff29d95a8953ad28847278dd6aa11f4c695a24'

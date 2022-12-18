@@ -5,3 +5,5 @@ id_nomics: FUN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FUN2.png
 logoKey: currencies/fun2.png
 name: FUN
+platform: BNB
+platform_contract: '0xb1703efbd571bcc16b9733a9a7d82e49b23955d7'

@@ -6,3 +6,5 @@ id_nomics: TRONPAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRONPAD.jpg
 logoKey: currencies/tronpad.jpg
 name: TRONPAD
+platform: BNB
+platform_contract: '0x1bf7aedec439d6bfe38f8f9b20cf3dc99e3571c4'

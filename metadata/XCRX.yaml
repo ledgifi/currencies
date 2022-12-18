@@ -5,3 +5,5 @@ id_nomics: XCRX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XCRX.png
 logoKey: currencies/xcrx.png
 name: xCRX
+platform: CRO
+platform_contract: '0x9315054f01bf8c13ee67c8498af09a1933cbf24c'

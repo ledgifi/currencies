@@ -5,3 +5,5 @@ id_nomics: GROWINU2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GROWINU2.jpg
 logoKey: currencies/growinu2.jpg
 name: GrowInu
+platform: BNB
+platform_contract: '0xfb3df49c53c0269be8e79d3b87957f062414f17a'

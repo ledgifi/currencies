@@ -5,3 +5,5 @@ id_nomics: BPK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BPK.png
 logoKey: currencies/bpk.png
 name: Bitpacket
+platform: ETH
+platform_contract: '0xb1a219e35ac1aab0ea8f7dae92b06142c1bff542'

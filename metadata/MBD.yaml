@@ -3,3 +3,5 @@ fiat: false
 id: MBD
 id_nomics: MBD
 name: burndown test
+platform: MATIC
+platform_contract: '0x90fcf41dec57ad6401b8d9b14536a03a02145120'

@@ -6,3 +6,5 @@ id_nomics: SLNV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLNV2.png
 logoKey: currencies/slnv2.png
 name: SLNV2
+platform: HT
+platform_contract: '0x4e252342cf35ff02c4cca9bc655129f5b4a2f901'

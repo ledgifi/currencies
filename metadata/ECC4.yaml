@@ -3,3 +3,5 @@ fiat: false
 id: ECC4
 id_nomics: ECC4
 name: Etherconnect
+platform: BNB
+platform_contract: '0x173bf1815e933224a97c5b0abbbb036d0d02e9b7'

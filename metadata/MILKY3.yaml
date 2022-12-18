@@ -5,3 +5,5 @@ id_nomics: MILKY3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MILKY3.jpg
 logoKey: currencies/milky3.jpg
 name: MilkyWayEx
+platform: BNB
+platform_contract: '0xa7002fccc20f10a38c579a8d2d14d34f2a9a02a5'

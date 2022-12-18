@@ -3,3 +3,5 @@ fiat: false
 id: TETT
 id_nomics: TETT
 name: TETTOKEN
+platform: BNB
+platform_contract: '0x2bb9063637dd51a0ce1a78c524360f763d08f769'

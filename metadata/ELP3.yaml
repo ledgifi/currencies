@@ -5,3 +5,5 @@ id_nomics: ELP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELP3.jpg
 logoKey: currencies/elp3.jpg
 name: ElonsPets
+platform: ETH
+platform_contract: '0x40b50a516e081945b95d30fcbbb31476a63ffb4a'

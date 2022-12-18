@@ -5,3 +5,5 @@ id_nomics: MOONGROW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOONGROW.jpg
 logoKey: currencies/moongrow.jpg
 name: MoonGrow
+platform: BNB
+platform_contract: '0x089c192b23e522bde4a7a5fa045e8604476a7ac2'

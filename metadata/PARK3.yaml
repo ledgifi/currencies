@@ -5,3 +5,5 @@ id_nomics: PARK3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PARK3.jpeg
 logoKey: currencies/park3.jpeg
 name: DogePark
+platform: BNB
+platform_contract: '0x66625174a7981f9b07b2efd1e274eba958175b19'

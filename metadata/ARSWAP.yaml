@@ -3,3 +3,5 @@ fiat: false
 id: ARSWAP
 id_nomics: ARSWAP
 name: ' Aircash Swap'
+platform: AVAX
+platform_contract: '0x423235787bf36782c92534def0e3c9b30f3e974b'

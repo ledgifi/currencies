@@ -5,3 +5,5 @@ id_nomics: EBSO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EBSO.jpg
 logoKey: currencies/ebso.jpg
 name: BlockBen
+platform: ETH
+platform_contract: '0x866f8a50a64e68ca66e97e032c5da99538b3f942'

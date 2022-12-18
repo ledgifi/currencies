@@ -3,3 +3,5 @@ fiat: false
 id: ZHYTNIKCOIN
 id_nomics: ZHYTNIKCOIN
 name: ZhytnikCoin
+platform: BNB
+platform_contract: '0x768bcd7160846a01ef95000ae82e9f38a437db70'

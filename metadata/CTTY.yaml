@@ -3,3 +3,5 @@ fiat: false
 id: CTTY
 id_nomics: CTTY
 name: CattyCoin
+platform: FUSE
+platform_contract: '0x877ee7fb4c4af1d4e6744d74477af04381273572'

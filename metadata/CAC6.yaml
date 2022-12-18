@@ -5,3 +5,5 @@ id_nomics: CAC6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAC6.png
 logoKey: currencies/cac6.png
 name: CAC
+platform: BNB
+platform_contract: '0x5b7d8a53e63f1817b68d40dc997cb7394db0ff1a'

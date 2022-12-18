@@ -3,3 +3,5 @@ fiat: false
 id: OTAUSDC30DEC2021
 id_nomics: OTAUSDC30DEC2021
 name: OT Aave interest bearing USDC 30DEC2021
+platform: ETH
+platform_contract: '0x010a0288af52ed61e32674d82bbc7ddbfa9a1324'

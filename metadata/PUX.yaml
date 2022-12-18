@@ -6,3 +6,5 @@ id_nomics: PUX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PUX.jpg
 logoKey: currencies/pux.jpg
 name: Polypux
+platform: ETH
+platform_contract: '0xe277ac35f9d327a670c1a3f3eec80a83022431e4'

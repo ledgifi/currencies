@@ -5,3 +5,5 @@ id_nomics: MRO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MRO3.png
 logoKey: currencies/mro3.png
 name: Mereo
+platform: BNB
+platform_contract: '0x04a03bb3ad7d02adc14aec101c9e64c699bbaa8f'

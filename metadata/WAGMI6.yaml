@@ -5,3 +5,5 @@ id_nomics: WAGMI6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAGMI6.jpeg
 logoKey: currencies/wagmi6.jpeg
 name: WagmiCoin
+platform: BNB
+platform_contract: '0xd5f9c3b520ba78dcb8a29bad546a9352e3d19295'

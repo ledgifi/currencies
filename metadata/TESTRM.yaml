@@ -3,3 +3,5 @@ fiat: false
 id: TESTRM
 id_nomics: TESTRM
 name: testRM Token
+platform: BNB
+platform_contract: '0x7e788721f2f40cf9fe9e5a1778ffafad8f4892a6'

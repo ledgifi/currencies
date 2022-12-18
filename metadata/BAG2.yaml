@@ -5,3 +5,5 @@ id_nomics: BAG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAG2.jpg
 logoKey: currencies/bag2.jpg
 name: Basis Gold (HRC-20)
+platform: HT
+platform_contract: '0xa042fb0e60125a4022670014ac121931e7501af4'

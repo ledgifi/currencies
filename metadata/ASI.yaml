@@ -5,3 +5,5 @@ id_nomics: ASI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASI.jpg
 logoKey: currencies/asi.jpg
 name: asi.finance
+platform: ETH
+platform_contract: '0x705d6cbf5352b29b4f4ee0bbe0788721f961abcd'

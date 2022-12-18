@@ -5,3 +5,5 @@ id_nomics: UNIC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNIC2.jpg
 logoKey: currencies/unic2.jpg
 name: Unicly
+platform: ETH
+platform_contract: '0x94e0bab2f6ab1f19f4750e42d7349f2740513ad5'

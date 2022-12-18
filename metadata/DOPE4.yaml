@@ -5,3 +5,5 @@ id_nomics: DOPE4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOPE4.png
 logoKey: currencies/dope4.png
 name: DogePepe
+platform: BNB
+platform_contract: '0xa7a78fe8fb104e71be08eeba3a4140cde485dfac'

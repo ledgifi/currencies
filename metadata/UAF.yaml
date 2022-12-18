@@ -5,3 +5,5 @@ id_nomics: UAF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UAF.png
 logoKey: currencies/uaf.png
 name: Urban Acupuncture Fund
+platform: BNB
+platform_contract: '0x0f498d31832a66250473ccb166513a73f4f9398e'

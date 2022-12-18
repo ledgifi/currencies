@@ -5,3 +5,5 @@ id_nomics: XPO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XPO.jpg
 logoKey: currencies/xpo.jpg
 name: X-power Chain
+platform: ETH
+platform_contract: '0x1a3564852d8ede7c8249805e71718bd7aa93dd6d'

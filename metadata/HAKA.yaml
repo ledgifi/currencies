@@ -6,3 +6,5 @@ id_nomics: HAKA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HAKA.jpg
 logoKey: currencies/haka.jpg
 name: TribeOne
+platform: BNB
+platform_contract: '0xd85ad783cc94bd04196a13dc042a3054a9b52210'

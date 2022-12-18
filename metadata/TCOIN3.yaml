@@ -5,3 +5,5 @@ id_nomics: TCOIN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCOIN3.jpg
 logoKey: currencies/tcoin3.jpg
 name: Travel Coin
+platform: BNB
+platform_contract: '0xb8b10dafb5546b3740886d8a77b8b9bacb44fffd'

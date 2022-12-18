@@ -3,3 +3,5 @@ fiat: false
 id: ELAHRC20
 id_nomics: ELAHRC20
 name: ELA on HuobiChain
+platform: HT
+platform_contract: '0xa1ecfc2bec06e4b43ddd423b94fef84d0dbc8f5c'

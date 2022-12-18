@@ -5,3 +5,5 @@ id_nomics: ROOK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROOK2.jpg
 logoKey: currencies/rook2.jpg
 name: ROOK
+platform: ETH
+platform_contract: '0xfa5047c9c78b8877af97bdcb85db743fd7313d4a'

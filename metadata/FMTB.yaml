@@ -5,3 +5,5 @@ id_nomics: FMTB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FMTB.jpg
 logoKey: currencies/fmtb.jpg
 name: Fudmart Token
+platform: BNB
+platform_contract: '0x27145227c3eececda6ec7cc3213bb5892ca17035'

@@ -6,3 +6,5 @@ id_nomics: MX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MX.png
 logoKey: currencies/mx.png
 name: MX Token
+platform: ETH
+platform_contract: '0x11eef04c884e24d9b7b4760e7476d06ddf797f36'

@@ -3,3 +3,5 @@ fiat: false
 id: INSTE
 id_nomics: INSTE
 name: institute
+platform: ETH
+platform_contract: '0x3cb56ae8b92dc4b2f62f32487bee348ceb2a26c2'

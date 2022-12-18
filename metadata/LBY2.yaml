@@ -5,3 +5,5 @@ id_nomics: LBY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LBY2.jpg
 logoKey: currencies/lby2.jpg
 name: Lobby
+platform: ETH
+platform_contract: '0xac042d9284df95cc6bd35982f6a61e3e7a6f875b'

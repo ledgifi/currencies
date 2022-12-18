@@ -3,3 +3,5 @@ fiat: false
 id: CHT3
 id_nomics: CHT3
 name: CoinHot
+platform: ETH
+platform_contract: '0x792e0fc822ac6ff5531e46425f13540f1f68a7a8'

@@ -3,3 +3,5 @@ fiat: false
 id: CATCOIN2
 id_nomics: CATCOIN2
 name: CatCoin Cash
+platform: BNB
+platform_contract: '0x3e362283b86c1b45097cc3fb02213b79cf6211df'

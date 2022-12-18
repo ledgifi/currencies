@@ -5,3 +5,5 @@ id_nomics: ACK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACK.jpg
 logoKey: currencies/ack.jpg
 name: AcknoLedger
+platform: BNB
+platform_contract: '0xf7b5fb4607abfe0ecf332c23cbdcc9e425b443a8'

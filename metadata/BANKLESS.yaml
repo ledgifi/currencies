@@ -3,3 +3,5 @@ fiat: false
 id: BANKLESS
 id_nomics: BANKLESS
 name: Bankless
+platform: BNB
+platform_contract: '0x3ac48ff13592aba35a622f9079a2b9ec078697d9'

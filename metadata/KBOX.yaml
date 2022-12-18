@@ -6,3 +6,5 @@ id_nomics: KBOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KBOX.png
 logoKey: currencies/kbox.png
 name: The Killbox Game
+platform: BNB
+platform_contract: '0x3523d58d8036b1c5c9a13493143c97aefc5ad422'

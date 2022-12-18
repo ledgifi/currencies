@@ -6,3 +6,5 @@ id_nomics: EMS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EMS.jpg
 logoKey: currencies/ems.jpg
 name: Ethereum Message Search
+platform: ETH
+platform_contract: '0x17e6616c45d267bc20a9892b58a01621c592b72d'

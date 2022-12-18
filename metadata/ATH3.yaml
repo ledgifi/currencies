@@ -5,3 +5,5 @@ id_nomics: ATH3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATH3.jpg
 logoKey: currencies/ath3.jpg
 name: Athena Money
+platform: MOVR
+platform_contract: '0xa8e472b1446e6d9fb97a9478e5bc13ff1815e730'

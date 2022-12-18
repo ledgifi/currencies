@@ -5,3 +5,5 @@ id_nomics: DEFINER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEFINER.jpg
 logoKey: currencies/definer.jpg
 name: DeFiner
+platform: ETH
+platform_contract: '0x054f76beed60ab6dbeb23502178c52d6c5debe40'

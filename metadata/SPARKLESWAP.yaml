@@ -5,3 +5,5 @@ id_nomics: SPARKLESWAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPARKLESWAP.jpg
 logoKey: currencies/sparkleswap.jpg
 name: Sparkleswap Rewards
+platform: ETH
+platform_contract: '0xa3a7cba479df86c7f866280b90ebc3b25f2371f0'

@@ -6,3 +6,5 @@ id_nomics: VBSWAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VBSWAP.jpg
 logoKey: currencies/vbswap.jpg
 name: vBSWAP
+platform: BNB
+platform_contract: '0x4f0ed527e8a95ecaa132af214dfd41f30b361600'

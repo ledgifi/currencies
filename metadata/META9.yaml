@@ -5,3 +5,5 @@ id_nomics: META9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/META9.png
 logoKey: currencies/meta9.png
 name: Metarcade
+platform: ETH
+platform_contract: '0xb120b0b309f6ee56b67a7a6af216ab2fe56c3ed2'

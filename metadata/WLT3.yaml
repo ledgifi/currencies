@@ -5,3 +5,5 @@ id_nomics: WLT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WLT3.jpg
 logoKey: currencies/wlt3.jpg
 name: Wealth
+platform: BNB
+platform_contract: '0x7cf2cb3cd0a4b31a309b78526f33cedb7ced0766'

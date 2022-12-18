@@ -6,3 +6,5 @@ id_nomics: GREW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GREW.png
 logoKey: currencies/grew.png
 name: Green World
+platform: BNB
+platform_contract: '0x77bd60ec67812eb3090a57978f1df69e3b8dad98'

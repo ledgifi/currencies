@@ -5,3 +5,5 @@ id_nomics: ETHBSC
 logo: https://raw.githubusercontent.com/hadeswap/assets/master/blockchains/olympus/assets/0xaFb66752Ad6F4cCcD92049c36C90dd00c71fA99B/logo.png
 logoKey: currencies/ethbsc.png
 name: Binance Pegged ETH from BSC wrapped by passport.meter.io
+platform: POLIS
+platform_contract: '0xaFb66752Ad6F4cCcD92049c36C90dd00c71fA99B'

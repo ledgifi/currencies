@@ -5,3 +5,5 @@ id_nomics: DOR4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOR4.jpg
 logoKey: currencies/dor4.jpg
 name: DogyRace
+platform: BNB
+platform_contract: '0xfafbc48f6aa3587984ea50e472304802b39c2604'

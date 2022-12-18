@@ -5,3 +5,5 @@ id_nomics: USDK3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDK3.jpg
 logoKey: currencies/usdk3.jpg
 name: KROME stablecoin
+platform: KLAY
+platform_contract: '0xd2137fdf10bd9e4e850c17539eb24cfe28777753'

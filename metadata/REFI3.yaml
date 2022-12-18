@@ -5,3 +5,5 @@ id_nomics: REFI3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REFI3.jpg
 logoKey: currencies/refi3.jpg
 name: Reimagined Finance
+platform: ETH
+platform_contract: '0xa808b22ffd2c472ad1278088f16d4010e6a54d5f'

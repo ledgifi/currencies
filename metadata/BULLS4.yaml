@@ -5,3 +5,5 @@ id_nomics: BULLS4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BULLS4.png
 logoKey: currencies/bulls4.png
 name: Bulls Coin
+platform: BNB
+platform_contract: '0x9e95a285eb16a4dc6254f5354e8c2214b3e4a9d4'

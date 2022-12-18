@@ -5,3 +5,5 @@ id_nomics: DGL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DGL.jpg
 logoKey: currencies/dgl.jpg
 name: DGL Coin
+platform: ETH
+platform_contract: '0x842c2b97772b4528589ed243f6bda3381ef0261f'

@@ -5,3 +5,5 @@ id_nomics: FSLYCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FSLYCX.jpg
 logoKey: currencies/fslycx.jpg
 name: Fastly, Inc.
+platform: ETH
+platform_contract: '0x236dbb1e0d69af169f0c68db699f1e433a69a231'

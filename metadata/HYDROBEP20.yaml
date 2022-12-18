@@ -5,3 +5,5 @@ id_nomics: HYDROBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HYDROBEP20.jpg
 logoKey: currencies/hydrobep20.jpg
 name: Hydro (BEP-20)
+platform: BNB
+platform_contract: '0xf3dbb49999b25c9d6641a9423c7ad84168d00071'

@@ -5,3 +5,5 @@ id_nomics: MIIDAS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIIDAS.jpg
 logoKey: currencies/miidas.jpg
 name: Miidas
+platform: BRISE2
+platform_contract: '0x5b534a2df329195fd7e5c9aca1d9ffbda14a4963'

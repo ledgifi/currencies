@@ -5,3 +5,5 @@ id_nomics: FARM3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FARM3.jpg
 logoKey: currencies/farm3.jpg
 name: Harvest Finance
+platform: ETH
+platform_contract: '0xa0246c9032bc3a600820415ae600c6388619a14d'

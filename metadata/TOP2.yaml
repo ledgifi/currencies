@@ -5,3 +5,5 @@ id_nomics: TOP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/top.jpg
 logoKey: currencies/top2.jpg
 name: Top Network
+platform: ETH
+platform_contract: '0xdcd85914b8ae28c1e62f1c488e1d968d5aaffe2b'

@@ -3,3 +3,5 @@ fiat: false
 id: CROBANK
 id_nomics: CROBANK
 name: CroBank Finance
+platform: CRO
+platform_contract: '0xf10ea82f99102be253e74d513fbfc94306ffc237'

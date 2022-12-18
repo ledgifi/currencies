@@ -5,3 +5,5 @@ id_nomics: YVM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YVM.png
 logoKey: currencies/yvm.png
 name: YourVoteMatters
+platform: ETH
+platform_contract: '0x807a8889e84cc9a2b3271c45e886b0a4469b64fc'

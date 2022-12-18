@@ -6,3 +6,5 @@ id_nomics: BULLETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BULLETH.jpg
 logoKey: currencies/bulleth.jpg
 name: Bulleth
+platform: ETH
+platform_contract: '0x7154de3689b9138ff8aeab7a4fb2bce229f803e9'

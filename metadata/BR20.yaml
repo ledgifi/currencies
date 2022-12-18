@@ -5,3 +5,5 @@ id_nomics: BR20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BR20.jpg
 logoKey: currencies/br20.jpg
 name: BullRun2.0
+platform: BNB
+platform_contract: '0xe0062a28798f85388da4355fe8a1bb4ec921ed3a'

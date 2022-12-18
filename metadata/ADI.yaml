@@ -6,3 +6,5 @@ id_nomics: ADI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADI.png
 logoKey: currencies/adi.png
 name: Aditus
+platform: ETH
+platform_contract: '0x8810c63470d38639954c6b41aac545848c46484a'

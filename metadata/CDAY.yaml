@@ -5,3 +5,5 @@ id_nomics: CDAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CDAY.png
 logoKey: currencies/cday.png
 name: Caturday
+platform: BNB
+platform_contract: '0x7b115b53e5d5744987abf95056e790c0e33c0cc8'

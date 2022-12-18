@@ -6,3 +6,5 @@ id_nomics: BABL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABL.jpg
 logoKey: currencies/babl.jpg
 name: Babylon Finance
+platform: ETH
+platform_contract: '0xf4dc48d260c93ad6a96c5ce563e70ca578987c74'

@@ -5,3 +5,5 @@ id_nomics: DKYC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DKYC.jpg
 logoKey: currencies/dkyc.jpg
 name: DataKYC
+platform: ETH
+platform_contract: '0x38d1b0d157529bd5d936719a8a5f8379afb24faa'

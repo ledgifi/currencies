@@ -3,3 +3,5 @@ fiat: false
 id: SPOOKY
 id_nomics: SPOOKY
 name: Spooky Coin
+platform: ETH
+platform_contract: '0x555ecd946a0e6d0672f03637de798ba48b845737'

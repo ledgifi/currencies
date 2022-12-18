@@ -3,3 +3,5 @@ fiat: false
 id: PERPDEX
 id_nomics: PERPDEX
 name: Perp.DEX
+platform: ARBETH
+platform_contract: '0x943e4ebe6d2b9a29039cbe5d8b6e30ce938bbcfb'

@@ -5,3 +5,5 @@ id_nomics: CUDL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CUDL.png
 logoKey: currencies/cudl.png
 name: Cudl Finance
+platform: ETH
+platform_contract: '0xecd20f0ebc3da5e514b4454e3dc396e7da18ca6a'

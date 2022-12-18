@@ -3,3 +3,5 @@ fiat: false
 id: HOMARSWAP
 id_nomics: HOMARSWAP
 name: Homar Swap
+platform: BNB
+platform_contract: '0x2d99448d7860c9f36c54e8d246c99cc933d81cfe'

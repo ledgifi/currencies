@@ -4,3 +4,5 @@ id: FTXSAVE
 id_nomics: FTXSAVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FTXSAVE.jpg
 name: FTXSave
+platform: ETH
+platform_contract: '0x5df6f3e76278c60383142d2adf54cfc929708b05'

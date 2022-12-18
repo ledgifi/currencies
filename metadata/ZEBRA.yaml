@@ -3,3 +3,5 @@ fiat: false
 id: ZEBRA
 id_nomics: ZEBRA
 name: Zebra token
+platform: HT
+platform_contract: '0x02dc01cb072546ba8f21a4abd153d1086fd19726'

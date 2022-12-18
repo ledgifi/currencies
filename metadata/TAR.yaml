@@ -5,3 +5,5 @@ id_nomics: TAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TAR.png
 logoKey: currencies/tar.png
 name: TronArt
+platform: TRX
+platform_contract: '1001617'

@@ -5,3 +5,5 @@ id_nomics: FRET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FRET.jpg
 logoKey: currencies/fret.jpg
 name: Freestarter
+platform: BNB
+platform_contract: '0x65d0c17fbd419cba0ebeb80bf25f338c8456ef4f'

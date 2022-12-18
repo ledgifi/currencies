@@ -5,3 +5,5 @@ id_nomics: GIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GIT.png
 logoKey: currencies/git.png
 name: GoDigit
+platform: ETH
+platform_contract: '0x1d0582fa759e4b9beab4f6f82cc539ac62c49250'

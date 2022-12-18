@@ -5,3 +5,5 @@ id_nomics: RENA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RENA2.jpg
 logoKey: currencies/rena2.jpg
 name: Warena
+platform: BNB
+platform_contract: '0xa9d75cc3405f0450955050c520843f99aff8749d'

@@ -5,3 +5,5 @@ id_nomics: VELA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VELA.jpg
 logoKey: currencies/vela.jpg
 name: Vela
+platform: ETH
+platform_contract: '0x3de46d6b13314ec944100ad4dce8a730b6314315'

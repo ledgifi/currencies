@@ -5,3 +5,5 @@ id_nomics: DERCBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DERCBEP20.jpg
 logoKey: currencies/dercbep20.jpg
 name: DeRace (BEP-20)
+platform: BNB
+platform_contract: '0x373e768f79c820aa441540d254dca6d045c6d25b'

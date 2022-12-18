@@ -5,3 +5,5 @@ id_nomics: BABYDOGE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYDOGE3.jpg
 logoKey: currencies/babydoge3.jpg
 name: BabyDoge
+platform: KCS
+platform_contract: '0x7c7aed089e730223316cbe45ee78d2b542aec658'

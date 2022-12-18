@@ -5,3 +5,5 @@ id_nomics: UPDF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UPDF.jpg
 logoKey: currencies/updf.jpg
 name: Up DeFi
+platform: ETH
+platform_contract: '0x11fef700a4801639871372d75d039755ddd0dc20'

@@ -5,3 +5,5 @@ id_nomics: GPX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GPX2.jpg
 logoKey: currencies/gpx2.jpg
 name: GPEX
+platform: ETH
+platform_contract: '0x3e7804c51a70ba26e904c2e0ab440c5623a8a83f'

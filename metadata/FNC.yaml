@@ -5,3 +5,5 @@ id_nomics: FNC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FNC.jpg
 logoKey: currencies/fnc.jpg
 name: Fancy Games
+platform: ETH
+platform_contract: '0x7f280dac515121dcda3eac69eb4c13a52392cace'

@@ -5,3 +5,5 @@ id_nomics: YMPA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YMPA.jpg
 logoKey: currencies/ympa.jpg
 name: Ympla
+platform: BNB
+platform_contract: '0x5f7871433322b9f9795b97801ec3396276d1d056'

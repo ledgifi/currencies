@@ -5,3 +5,5 @@ id_nomics: KNOT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KNOT2.jpg
 logoKey: currencies/knot2.jpg
 name: Knotse Chain Network
+platform: BNB
+platform_contract: '0xad2e55fe18b0632618ab3971b213739d2935dcf3'

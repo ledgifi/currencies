@@ -3,3 +3,5 @@ fiat: false
 id: 1BUSD
 id_nomics: 1BUSD
 name: 1BUSD
+platform: BNB
+platform_contract: '0xe081ae78d799aae6905088cc2e8207bd1717b6df'

@@ -5,3 +5,5 @@ id_nomics: HDDN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HDDN.png
 logoKey: currencies/hddn.png
 name: Hidden Global
+platform: ETH
+platform_contract: '0x9dca0903768abd565bc861a8e18c37962aaf31f6'

@@ -6,3 +6,5 @@ id_nomics: BOSON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOSON.png
 logoKey: currencies/boson.png
 name: Boson Protocol
+platform: ETH
+platform_contract: '0xc477d038d5420c6a9e0b031712f61c5120090de9'

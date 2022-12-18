@@ -5,3 +5,5 @@ id_nomics: SAFEDOGE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFEDOGE2.jpg
 logoKey: currencies/safedoge2.jpg
 name: SafeDoge
+platform: BNB
+platform_contract: '0x7b5beb86af822125762bd0e9eb0df3154ffbf640'

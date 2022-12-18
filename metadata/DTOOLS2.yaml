@@ -5,3 +5,5 @@ id_nomics: DTOOLS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DTOOLS2.png
 logoKey: currencies/dtools2.png
 name: DogeTools
+platform: DC7
+platform_contract: '0x1df5c9b7789bd1416d005c15a42762481c95edc2'

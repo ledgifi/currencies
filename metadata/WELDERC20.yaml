@@ -5,3 +5,5 @@ id_nomics: WELDERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WELDERC20.png
 logoKey: currencies/welderc20.png
 name: Weld.Money (ERC-20)
+platform: ETH
+platform_contract: '0xdd2a36ae937bc134ea694d77fc7e2e36f5d86de0'

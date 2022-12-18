@@ -5,3 +5,5 @@ id_nomics: CDR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CDR3.jpg
 logoKey: currencies/cdr3.jpg
 name: Cartel Del Rico
+platform: BNB
+platform_contract: '0xe6912b20c43eb73b0061e846c97b6fc862708b0a'

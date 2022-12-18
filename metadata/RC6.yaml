@@ -5,3 +5,5 @@ id_nomics: RC6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RC6.jpg
 logoKey: currencies/rc6.jpg
 name: Reward Cycle
+platform: BNB
+platform_contract: '0x229a54fb9de889c271380452c0483ce89b8c1e0d'

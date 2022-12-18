@@ -3,3 +3,5 @@ fiat: false
 id: BPYTC
 id_nomics: BPYTC
 name: Pytcoin
+platform: BNB
+platform_contract: '0x36c935d0c337f90962e60dad936cc63b06eb0d37'

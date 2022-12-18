@@ -3,3 +3,5 @@ fiat: false
 id: MEVG
 id_nomics: MEVG
 name: MEV Game Token
+platform: MATIC
+platform_contract: '0x74d727e735fc38e5eaba18d96eeb1139b0de3cb4'

@@ -3,3 +3,5 @@ fiat: false
 id: PTX3
 id_nomics: PTX3
 name: Pass Token
+platform: ETH
+platform_contract: '0x3a6700516a46dbeef6768e322d4248a81c580f15'

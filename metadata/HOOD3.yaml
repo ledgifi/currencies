@@ -5,3 +5,5 @@ id_nomics: HOOD3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOOD3.jpg
 logoKey: currencies/hood3.jpg
 name: CrobinHood
+platform: CRO
+platform_contract: '0x67338044C58f4BeE40c1167d7350fAf74cfD8B69'

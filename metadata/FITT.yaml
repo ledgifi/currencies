@@ -3,3 +3,5 @@ fiat: false
 id: FITT
 id_nomics: FITT
 name: Fitmint
+platform: BNB
+platform_contract: '0x323f973e95805a5784a4d49c1878c0b0b4f1c677'

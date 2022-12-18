@@ -3,3 +3,5 @@ fiat: false
 id: AKV
 id_nomics: AKV
 name: Akiverse Governance (PoS)
+platform: MATIC
+platform_contract: '0xf0af7795765273aebfd8a908460b728bdc3fc937'

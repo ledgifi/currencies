@@ -5,3 +5,5 @@ id_nomics: RNL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RNL2.png
 logoKey: currencies/rnl2.png
 name: Rontalia
+platform: BNB
+platform_contract: '0xfcdb74f6fab28102cd1a932a4b2e2db40a6391fb'

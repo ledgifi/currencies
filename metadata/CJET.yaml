@@ -6,3 +6,5 @@ id_nomics: CJET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CJET.jpg
 logoKey: currencies/cjet.jpg
 name: CryptoJetski
+platform: BNB
+platform_contract: '0x38fc43bbddb64cd23bc8d085f88722ab1f9a6c50'

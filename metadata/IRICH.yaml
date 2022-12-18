@@ -3,3 +3,5 @@ fiat: false
 id: IRICH
 id_nomics: IRICH
 name: IAMRICHTOKEN
+platform: ETH
+platform_contract: '0x6c9815dace70391615425044d103d5f2ae5fc551'

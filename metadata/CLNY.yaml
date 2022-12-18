@@ -3,3 +3,5 @@ fiat: false
 id: CLNY
 id_nomics: CLNY
 name: colony.io
+platform: ETH
+platform_contract: '0x4a3a6d97776c7b7c162991eab6c77c972d2436b7'

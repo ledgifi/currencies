@@ -3,3 +3,5 @@ fiat: false
 id: BASE58
 id_nomics: BASE58
 name: Cryptology
+platform: ETH
+platform_contract: '0x0764ca4657b7f97c1ede377305b24f065246751f'

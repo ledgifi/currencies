@@ -5,3 +5,5 @@ id_nomics: CLT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLT3.jpg
 logoKey: currencies/clt3.jpg
 name: ClienteleCoin
+platform: ETH
+platform_contract: '0xe5db2c3e2ceff742e5306bcfc12622f5e2d14e98'

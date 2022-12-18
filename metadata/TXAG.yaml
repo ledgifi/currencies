@@ -3,3 +3,5 @@ fiat: false
 id: TXAG
 id_nomics: TXAG
 name: tSILVER
+platform: MATIC
+platform_contract: '0x57fcbd6503c8be3b1abad191bc7799ef414a5b31'

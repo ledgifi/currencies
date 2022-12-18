@@ -5,3 +5,5 @@ id_nomics: NISHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NISHI.png
 logoKey: currencies/nishi.png
 name: NitroShiba
+platform: BNB
+platform_contract: '0x3f46dfc078ffcb09ef5397c430c4886c557ca346'

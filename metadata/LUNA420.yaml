@@ -3,3 +3,5 @@ fiat: false
 id: LUNA420
 id_nomics: LUNA420
 name: LUNA420
+platform: ETH
+platform_contract: '0x8a32ab0717af16bf98f37407edf7eafd2983c773'

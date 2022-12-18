@@ -5,3 +5,5 @@ id_nomics: FOMO5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOMO5.jpg
 logoKey: currencies/fomo5.jpg
 name: Fomo Inu
+platform: BNB
+platform_contract: '0xc324b080f858836e3e395a3fa87fb55686c159b6'

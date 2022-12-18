@@ -3,3 +3,5 @@ fiat: false
 id: CMSNBANK
 id_nomics: CMSNBANK
 name: The Commission Bank
+platform: ETH
+platform_contract: '0x533da833551a77395ab5b0f465bcbbe301bfe861'

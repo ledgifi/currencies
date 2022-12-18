@@ -5,3 +5,5 @@ id_nomics: BB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BB.jpg
 logoKey: currencies/bb.jpg
 name: BullAndBear
+platform: ETH
+platform_contract: '0x97472ce862fc811ecbed9f3123e1dbf55fe40c9b'

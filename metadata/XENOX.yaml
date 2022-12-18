@@ -6,3 +6,5 @@ id_nomics: XENOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XENOX.jpg
 logoKey: currencies/xenox.jpg
 name: Xenoverse Crypto
+platform: BNB
+platform_contract: '0x80df74dc3de4477eaee5c3e14348c6bf7fffad87'

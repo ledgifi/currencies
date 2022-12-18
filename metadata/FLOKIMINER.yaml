@@ -5,3 +5,5 @@ id_nomics: FLOKIMINER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKIMINER.png
 logoKey: currencies/flokiminer.png
 name: Floki Miner
+platform: BNB
+platform_contract: '0x7923488f17bb40ed50b9dcbbcfe978d2f9ba6859'

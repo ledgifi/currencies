@@ -5,3 +5,5 @@ id_nomics: LIB3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIB3.jpg
 logoKey: currencies/lib3.jpg
 name: Librium Tech
+platform: BNB
+platform_contract: '0x5f2172b64a33f423bc7f0c48c23f7d3008f7e4fe'

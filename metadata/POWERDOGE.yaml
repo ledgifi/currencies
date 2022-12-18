@@ -3,3 +3,5 @@ fiat: false
 id: POWERDOGE
 id_nomics: POWERDOGE
 name: PowerDoge
+platform: BNB
+platform_contract: '0x50f525be99d4c4b48d75169817c065301ecdcefb'

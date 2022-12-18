@@ -5,3 +5,5 @@ id_nomics: UREV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UREV.jpg
 logoKey: currencies/urev.jpg
 name: Unireview
+platform: BNB
+platform_contract: '0xdee5004afa9d5ee986dad63c6e7576c874cfd228'

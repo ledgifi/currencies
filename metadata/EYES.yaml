@@ -6,3 +6,5 @@ id_nomics: EYES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EYES.jpg
 logoKey: currencies/eyes.jpg
 name: EYES Protocol
+platform: ETH
+platform_contract: '0x2dca19e944453e46d9130950ca135461b3bc0c30'

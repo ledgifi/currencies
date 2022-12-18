@@ -5,3 +5,5 @@ id_nomics: NSC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NSC.png
 logoKey: currencies/nsc.png
 name: North Star Chain
+platform: ETH
+platform_contract: '0x184c280e3450bd59b0df35ba7fce3aae3f353b83'

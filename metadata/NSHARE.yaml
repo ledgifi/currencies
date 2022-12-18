@@ -5,3 +5,5 @@ id_nomics: NSHARE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NSHARE.png
 logoKey: currencies/nshare.png
 name: NSHARE
+platform: MATIC
+platform_contract: '0x948d0a28b600bdbd77af4ea30e6f338167034181'

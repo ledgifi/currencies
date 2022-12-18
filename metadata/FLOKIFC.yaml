@@ -5,3 +5,5 @@ id_nomics: FLOKIFC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKIFC.png
 logoKey: currencies/flokifc.png
 name: Floki Fan Club
+platform: BNB
+platform_contract: '0x081c6c00777b3e62ac40278dd64a2a55c47cc0a0'

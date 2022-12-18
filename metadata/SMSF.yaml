@@ -3,3 +3,5 @@ fiat: false
 id: SMSF
 id_nomics: SMSF
 name: SafeMoonSideFund
+platform: BNB
+platform_contract: '0xb33db433279e1db74962143cc398b63e5e3205ed'

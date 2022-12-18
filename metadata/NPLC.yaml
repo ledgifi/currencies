@@ -6,3 +6,5 @@ id_nomics: NPLC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NPLC.png
 logoKey: currencies/nplc.png
 name: Plus Coin
+platform: ETH
+platform_contract: '0x97fb6fc2ad532033af97043b563131c5204f8a35'

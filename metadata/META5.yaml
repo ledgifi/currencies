@@ -5,3 +5,5 @@ id_nomics: META5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/META5.jpg
 logoKey: currencies/meta5.jpg
 name: Metaverse Miner
+platform: BNB
+platform_contract: '0x04073d16c6a08c27e8bbebe262ea4d1c6fa4c772'

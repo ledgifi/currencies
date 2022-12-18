@@ -5,3 +5,5 @@ id_nomics: VOC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VOC2.png
 logoKey: currencies/voc2.png
 name: Vegas On Chain
+platform: BNB
+platform_contract: '0xc9af202c8aecba891a0e8940ee5caa466d52bb1b'

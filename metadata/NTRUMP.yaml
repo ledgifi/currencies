@@ -5,3 +5,5 @@ id_nomics: NTRUMP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NTRUMP.png
 logoKey: currencies/ntrump.png
 name: NO Trump Augur Prediction Token
+platform: ETH
+platform_contract: '0x44ea84a85616f8e9cd719fc843de31d852ad7240'

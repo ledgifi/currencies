@@ -3,3 +3,5 @@ fiat: false
 id: NEWDOG
 id_nomics: NEWDOG
 name: New Dogecoin
+platform: BNB
+platform_contract: '0x5c9cc95869c5ca869578c8b2cf4688733aa0d036'

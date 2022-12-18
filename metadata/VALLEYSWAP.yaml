@@ -3,3 +3,5 @@ fiat: false
 id: VALLEYSWAP
 id_nomics: VALLEYSWAP
 name: ValleySwap
+platform: BNB
+platform_contract: '0x5df43c94e5d2221e272d03bfa7e14c74b24ff770'

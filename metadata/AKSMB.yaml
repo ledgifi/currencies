@@ -3,3 +3,5 @@ fiat: false
 id: AKSMB
 id_nomics: AKSMB
 name: ANKR Reward Earning KSM
+platform: ETH
+platform_contract: '0x84da8e731172827fcb233b911678e2a82e27baf2'

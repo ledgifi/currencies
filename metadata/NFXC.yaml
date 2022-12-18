@@ -6,3 +6,5 @@ id_nomics: NFXC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFXC.jpg
 logoKey: currencies/nfxc.jpg
 name: NFX Coin
+platform: ETH
+platform_contract: '0x2d39ec4da54329d28d230b4973f5aa27886c3aee'

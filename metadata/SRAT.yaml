@@ -5,3 +5,5 @@ id_nomics: SRAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SRAT.jpg
 logoKey: currencies/srat.jpg
 name: SpaceRat
+platform: MATIC
+platform_contract: '0x1132f58810ee9ff13e97aeccd8dda688cc5eb8f4'

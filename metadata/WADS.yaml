@@ -3,3 +3,5 @@ fiat: false
 id: WADS
 id_nomics: WADS
 name: AdsByWiFi
+platform: ETH
+platform_contract: '0x24b80fba4b2ecaf0c4df522354408f0a59a775c8'

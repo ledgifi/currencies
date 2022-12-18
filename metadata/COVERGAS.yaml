@@ -3,3 +3,5 @@ fiat: false
 id: COVERGAS
 id_nomics: COVERGAS
 name: COVER GAS FEE
+platform: BNB
+platform_contract: '0xf301cb3a56dd47156694018f95ac9dd2a40939e5'

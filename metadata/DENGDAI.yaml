@@ -5,3 +5,5 @@ id_nomics: DENGDAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DENGDAI.jpg
 logoKey: currencies/dengdai.jpg
 name: Děngdai
+platform: ETH
+platform_contract: '0xA786158a85029B84e77159492ca0808841Ba2961'

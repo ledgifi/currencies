@@ -5,3 +5,5 @@ id_nomics: INFINITY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INFINITY2.jpg
 logoKey: currencies/infinity2.jpg
 name: Infinite Ecosystem
+platform: BNB
+platform_contract: '0x1996294d6fbda0e441f6a1c0a8d65b9d7aa17145'

@@ -5,3 +5,5 @@ id_nomics: PDX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PDX3.jpg
 logoKey: currencies/pdx3.jpg
 name: PokeDX
+platform: BNB
+platform_contract: '0x43a0c5eb1763a211aa3c05849a617f2ee0452767'

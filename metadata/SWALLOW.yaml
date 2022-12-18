@@ -3,3 +3,5 @@ fiat: false
 id: SWALLOW
 id_nomics: SWALLOW
 name: SwallowToken
+platform: ETH
+platform_contract: '0x0534e695f6196646d9fe9254333541a30dae07b7'

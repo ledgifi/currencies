@@ -5,3 +5,5 @@ id_nomics: IMVR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IMVR.png
 logoKey: currencies/imvr.png
 name: ImmVRse
+platform: ETH
+platform_contract: '0x7878424e994d8a2b8e329d31096922b7ceabe660'

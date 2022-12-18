@@ -5,3 +5,5 @@ id_nomics: BAI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAI2.png
 logoKey: currencies/bai2.png
 name: BAI Stablecoin
+platform: ASTR4
+platform_contract: '0x733ebcc6df85f8266349defd0980f8ced9b45f35'

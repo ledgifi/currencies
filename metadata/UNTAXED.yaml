@@ -3,3 +3,5 @@ fiat: false
 id: UNTAXED
 id_nomics: UNTAXED
 name: Untaxed
+platform: ETH
+platform_contract: '0x9a172e48fbd870d93aa37c60beb29c75e5f97573'

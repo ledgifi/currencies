@@ -5,3 +5,5 @@ id_nomics: CWP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CWP.png
 logoKey: currencies/cwp.png
 name: Chainweb Protocol
+platform: BNB
+platform_contract: '0xe2de019b7965971fbc900afb6e28fb371712acb9'

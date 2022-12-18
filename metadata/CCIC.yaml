@@ -6,3 +6,5 @@ id_nomics: CCIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CCIC.png
 logoKey: currencies/ccic.png
 name: Carbon Credit Investing Coin
+platform: BNB
+platform_contract: '0x504f70a792002a8689e07bd5f8638ff74814d534'

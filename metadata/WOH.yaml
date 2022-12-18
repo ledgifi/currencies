@@ -5,3 +5,5 @@ id_nomics: WOH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOH.png
 logoKey: currencies/woh.png
 name: World Of Humanity
+platform: BNB
+platform_contract: '0x4ff0896d04c2ec063d0de0f845935154e110790d'

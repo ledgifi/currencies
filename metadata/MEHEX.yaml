@@ -3,3 +3,5 @@ fiat: false
 id: MEHEX
 id_nomics: MEHEX
 name: mehex
+platform: BNB
+platform_contract: '0xc8488702b9af287d239248948a8a277a5cd32ec5'

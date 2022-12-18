@@ -5,3 +5,5 @@ id_nomics: CAKEBSC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAKEBSC.png
 logoKey: currencies/cakebsc.png
 name: CAKE from BSC wrapped by passport.meter.io
+platform: POLIS
+platform_contract: '0x7c4af0042e2723e0bc1fe24ee303d6ccb2cd00f7'

@@ -5,3 +5,5 @@ id_nomics: XOTBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XOTBEP20.png
 logoKey: currencies/xotbep20.png
 name: Okuru Token (BEP-20)
+platform: BNB
+platform_contract: '0xe17915332d853093af2a35b0f7acb3dea8734f0d'

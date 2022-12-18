@@ -5,3 +5,5 @@ id_nomics: ORBIT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORBIT2.jpg
 logoKey: currencies/orbit2.jpg
 name: Orbit Token
+platform: BNB
+platform_contract: '0x9ccd7671fde42d814430ccabcb5dda127526ec91'

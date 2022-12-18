@@ -5,3 +5,5 @@ id_nomics: FTB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FTB2.jpg
 logoKey: currencies/ftb2.jpg
 name: Free Tool Box
+platform: ETH
+platform_contract: '0x1e71034c89dd191accb27dc35f18a3d8b6f91311'

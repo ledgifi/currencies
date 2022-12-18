@@ -5,3 +5,5 @@ id_nomics: VRML
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VRML.png
 logoKey: currencies/vrml.png
 name: Vermil Coin
+platform: BNB
+platform_contract: '0xe56285150318d8828dd4067c62af7522fb5d799b'

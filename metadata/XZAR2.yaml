@@ -5,3 +5,5 @@ id_nomics: XZAR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XZAR2.png
 logoKey: currencies/xzar2.png
 name: South African Tether
+platform: ETH
+platform_contract: '0x48f07301e9e29c3c38a80ae8d9ae771f224f1054'

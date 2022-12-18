@@ -5,3 +5,5 @@ id_nomics: JKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JKE.png
 logoKey: currencies/jke.png
 name: Joe King Coin
+platform: BNB
+platform_contract: '0x1EFdF2A0e23B222a6A6ef784F448e03f21373053'

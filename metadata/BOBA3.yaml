@@ -5,3 +5,5 @@ id_nomics: BOBA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOBA3.jpg
 logoKey: currencies/boba3.jpg
 name: Boba Inu
+platform: BNB
+platform_contract: '0x7fde44d6d8fbb3407d9ef4f5b23550abf0d62dfa'

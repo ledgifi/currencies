@@ -3,3 +3,5 @@ fiat: false
 id: SHREM
 id_nomics: SHREM
 name: ShremHouse
+platform: BNB
+platform_contract: '0x8c885e7c21a9b3644fce1605f52d7dd5c8687d2f'

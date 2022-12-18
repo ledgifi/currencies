@@ -5,3 +5,5 @@ id_nomics: PINKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PINKE.png
 logoKey: currencies/pinke.png
 name: PinkElon
+platform: BNB
+platform_contract: '0x8da0f18e4deb7ba81dbd061df57325a894014b5a'

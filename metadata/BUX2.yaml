@@ -5,3 +5,5 @@ id_nomics: BUX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUX2.jpg
 logoKey: currencies/bux2.jpg
 name: Buytex
+platform: ETH
+platform_contract: '0x12d79c345cac7b050a5ff0797b5a607e254c73f5'

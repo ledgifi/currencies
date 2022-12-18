@@ -6,3 +6,5 @@ id_nomics: VANA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VANA.jpg
 logoKey: currencies/vana.jpg
 name: Nirvana
+platform: ETH
+platform_contract: '0x790baf0c914898c62163a61f150637d4bd180697'

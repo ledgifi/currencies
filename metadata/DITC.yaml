@@ -5,3 +5,5 @@ id_nomics: DITC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DITC.png
 logoKey: currencies/ditc.png
 name: DittoCoin
+platform: BNB
+platform_contract: '0xdaca5fd5617d693923226e47c48fd2371f72d747'

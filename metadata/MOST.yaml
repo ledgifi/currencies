@@ -5,3 +5,5 @@ id_nomics: MOST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOST.jpg
 logoKey: currencies/most.jpg
 name: Most Protocol
+platform: ETH
+platform_contract: '0x784561b89a160990f46de6db19571ca1b5f14bce'

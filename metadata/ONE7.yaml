@@ -5,3 +5,5 @@ id_nomics: ONE7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ONE7.png
 logoKey: currencies/one7.png
 name: ON Equity
+platform: BNB
+platform_contract: '0x7c4b23451509472a3721ae1e3678b3d69ad2a304'

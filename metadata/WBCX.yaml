@@ -5,3 +5,5 @@ id_nomics: WBCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WBCX.jpg
 logoKey: currencies/wbcx.jpg
 name: Weibo Corporation Token
+platform: ETH
+platform_contract: '0xfdccb100ecb130377c70c17c15c8a2fa5b61b18e'

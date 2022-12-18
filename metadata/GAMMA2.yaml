@@ -5,3 +5,5 @@ id_nomics: GAMMA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAMMA2.png
 logoKey: currencies/gamma2.png
 name: PolyGamma Finance
+platform: MATIC
+platform_contract: '0x329f5e8aff351327e63acdb264389c798a46c2d3'

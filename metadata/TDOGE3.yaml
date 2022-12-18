@@ -5,3 +5,5 @@ id_nomics: TDOGE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TDOGE3.png
 logoKey: currencies/tdoge3.png
 name: Technodoge
+platform: BNB
+platform_contract: '0x08af3fa6e5a1e29737e26b35d37d547c298c56e3'

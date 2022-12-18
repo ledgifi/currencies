@@ -3,3 +3,5 @@ fiat: false
 id: DPAY3
 id_nomics: DPAY3
 name: Devour
+platform: ETH
+platform_contract: '0xe5a733681bbe6cd8c764bb8078ef8e13a576dd78'

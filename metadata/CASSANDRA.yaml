@@ -3,3 +3,5 @@ fiat: false
 id: CASSANDRA
 id_nomics: CASSANDRA
 name: Cassandra
+platform: ETH
+platform_contract: '0xc786864b37b6bf056f32deb5fc80c1f38bfcf4ab'

@@ -5,3 +5,5 @@ id_nomics: MAD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAD.png
 logoKey: currencies/mad2.png
 name: MAD Token
+platform: ETH
+platform_contract: '0x5b09a0371c1da44a8e24d36bf5deb1141a84d875'

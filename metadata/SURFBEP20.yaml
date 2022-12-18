@@ -3,3 +3,5 @@ fiat: false
 id: SURFBEP20
 id_nomics: SURFBEP20
 name: Surf Finance (BEP-20)
+platform: BNB
+platform_contract: '0x0d1a15b277d25598144593836e5c6c20d427b61d'

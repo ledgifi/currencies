@@ -5,3 +5,5 @@ id_nomics: LOTDOG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOTDOG.jpg
 logoKey: currencies/lotdog.jpg
 name: Lotdog
+platform: BNB
+platform_contract: '0x29f920ddc62fe53711a5c8b8ff16fa5c75ca12a3'

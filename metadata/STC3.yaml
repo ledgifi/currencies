@@ -5,3 +5,5 @@ id_nomics: STC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STC3.png
 logoKey: currencies/stc3.png
 name: Student Coin
+platform: ETH
+platform_contract: '0x15b543e986b8c34074dfc9901136d9355a537e7e'

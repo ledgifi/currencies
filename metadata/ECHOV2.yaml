@@ -5,3 +5,5 @@ id_nomics: ECHOV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECHOV2.jpg
 logoKey: currencies/echov2.jpg
 name: echoDeFi
+platform: BNB
+platform_contract: '0x26be0e3ea3990a035b18e96926b2e7e60cc33dcb'

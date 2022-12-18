@@ -3,3 +3,5 @@ fiat: false
 id: PUBLICDAO
 id_nomics: PUBLICDAO
 name: Public DAO
+platform: ETH
+platform_contract: '0xf74d9d79730f5476b913c0774503e24aed986d59'

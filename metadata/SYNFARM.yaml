@@ -3,3 +3,5 @@ fiat: false
 id: SYNFARM
 id_nomics: SYNFARM
 name: Synapse Cross-Chain Farming Protocol
+platform: ETH
+platform_contract: '0x022d4ad9b6649140252f44cd126d5ad00f0c25c5'

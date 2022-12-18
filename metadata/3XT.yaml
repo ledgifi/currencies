@@ -5,3 +5,5 @@ id_nomics: 3XT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/3XT.jpg
 logoKey: currencies/3xt.jpg
 name: 3XT
+platform: ETH
+platform_contract: '0x96cf107e446a6e528ffd045f4eb6dff3cdb6a666'

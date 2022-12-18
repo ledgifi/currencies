@@ -5,3 +5,5 @@ id_nomics: TESS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TESS.png
 logoKey: currencies/tess.png
 name: Tesseract
+platform: ETH
+platform_contract: '0x34f7da1243a4aaa69de3639a2f124fa56f4dd5cd'

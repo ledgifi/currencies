@@ -3,3 +3,5 @@ fiat: false
 id: DGN
 id_nomics: DGN
 name: Degenerate Platform
+platform: ETH
+platform_contract: '0x7461c43bb1e96863233d72a09191008ee9217ee8'

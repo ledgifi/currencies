@@ -5,3 +5,5 @@ id_nomics: WAG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAG.jpg
 logoKey: currencies/wag.jpg
 name: WagyuSwap
+platform: BNB
+platform_contract: '0x7fa7df4996ac59f398476892cfb195ed38543520'

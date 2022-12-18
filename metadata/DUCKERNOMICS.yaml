@@ -3,3 +3,5 @@ fiat: false
 id: DUCKERNOMICS
 id_nomics: DUCKERNOMICS
 name: Duckernomics
+platform: ETH
+platform_contract: '0x01b92cb4f058cf4e35e3627c255f95afa29dd6e9'

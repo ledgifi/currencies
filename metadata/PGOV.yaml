@@ -6,3 +6,5 @@ id_nomics: PGOV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PGOV.png
 logoKey: currencies/pgov.png
 name: PGOV
+platform: MATIC
+platform_contract: '0xd5d84e75f48e75f01fb2eb6dfd8ea148ee3d0feb'

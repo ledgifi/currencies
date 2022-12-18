@@ -5,3 +5,5 @@ id_nomics: LGX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LGX2.jpeg
 logoKey: currencies/lgx2.jpeg
 name: Legion Network
+platform: BNB
+platform_contract: '0x9096b4309224d751fcb43d7eb178dcffc122ad15'

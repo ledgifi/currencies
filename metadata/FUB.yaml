@@ -3,3 +3,5 @@ fiat: false
 id: FUB
 id_nomics: FUB
 name: FUBAO
+platform: BNB
+platform_contract: '0x369d7c7fe353bebf89acb80ffdcaeb83c95d64ec'

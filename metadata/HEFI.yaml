@@ -3,3 +3,5 @@ fiat: false
 id: HEFI
 id_nomics: HEFI
 name: HedgeFi
+platform: ETH
+platform_contract: '0x90be3ba4123cb6a8fd57f1b5769d89383837ff36'

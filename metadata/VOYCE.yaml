@@ -6,3 +6,5 @@ id_nomics: VOYCE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VOYCE.jpeg
 logoKey: currencies/voyce.jpeg
 name: VOYCEToken
+platform: BNB
+platform_contract: '0x05901cb9cbd15ecbe48cc98f946045661a7e12ba'

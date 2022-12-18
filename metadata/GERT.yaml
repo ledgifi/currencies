@@ -3,3 +3,5 @@ fiat: false
 id: GERT
 id_nomics: GERT
 name: gertcoin
+platform: BNB
+platform_contract: '0x29deb024511cda0f85a5d9a53d160c56f2c96417'

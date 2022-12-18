@@ -6,3 +6,5 @@ id_nomics: AVXL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVXL.jpg
 logoKey: currencies/avxl.jpg
 name: Avaxlauncher
+platform: BNB
+platform_contract: '0xbd29490383edfd560426c3b63d01534408bc2da6'

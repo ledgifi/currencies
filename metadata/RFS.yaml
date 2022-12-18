@@ -5,3 +5,5 @@ id_nomics: RFS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RFS.jpg
 logoKey: currencies/rfs.jpg
 name: REFLECT.CASH SHARE
+platform: ETH
+platform_contract: '0x98987a4fd2ca9eb06c06b82199fd69ba8e0bbebb'

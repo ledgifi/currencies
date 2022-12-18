@@ -6,3 +6,5 @@ id_nomics: ROCK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROCK2.png
 logoKey: currencies/rock2.png
 name: Ice Rock Mining
+platform: ETH
+platform_contract: '0xc16b542ff490e01fcc0dc58a60e1efdc3e357ca6'

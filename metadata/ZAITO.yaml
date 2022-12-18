@@ -5,3 +5,5 @@ id_nomics: ZAITO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZAITO.jpg
 logoKey: currencies/zaito.jpg
 name: Zaitobu
+platform: ETH
+platform_contract: '0xbd548ff6c0cd14e2d8c4a10032744b507cbba21d'

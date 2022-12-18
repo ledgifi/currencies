@@ -5,3 +5,5 @@ id_nomics: XVON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XVON.jpg
 logoKey: currencies/xvon.jpg
 name: Extended VONDER
+platform: BNB
+platform_contract: '0xd42220de5f5260ccc4c80fe3b08dae0968688d13'

@@ -5,3 +5,5 @@ id_nomics: NNECC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NNECC.png
 logoKey: currencies/nnecc.png
 name: Wrapped Staked Necc
+platform: AURORA3
+platform_contract: '0x449f661c53ae0611a24c2883a910a563a7e42489'

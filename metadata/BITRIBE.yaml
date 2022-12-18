@@ -5,3 +5,5 @@ id_nomics: BITRIBE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITRIBE.png
 logoKey: currencies/bitribe.png
 name: Bitribe
+platform: ETH
+platform_contract: '0xf096577feba1574d622db7685c14bf7e21742536'

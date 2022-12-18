@@ -5,3 +5,5 @@ id_nomics: MTFSN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTFSN.jpg
 logoKey: currencies/mtfsn.jpg
 name: MetaFashion
+platform: BNB
+platform_contract: '0x401f3334ccf4324172a1f535eac6b66e0fb858ce'

@@ -5,3 +5,5 @@ id_nomics: FORECLOSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FORECLOSE.jpeg
 logoKey: currencies/foreclose.jpeg
 name: Foreclose Finance Token
+platform: BNB
+platform_contract: '0x93126017021baa4a9a3f63afcd183aba3381a69a'

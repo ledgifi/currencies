@@ -5,3 +5,5 @@ id_nomics: FARMINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FARMINU.png
 logoKey: currencies/farminu.png
 name: Farmer Inu
+platform: BNB
+platform_contract: '0x4cd54b1f9aa38fcbf5b678b5797b03b652500473'

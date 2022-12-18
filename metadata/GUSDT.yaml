@@ -6,3 +6,5 @@ id_nomics: GUSDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GUSDT.jpg
 logoKey: currencies/gusdt.jpg
 name: Global Utility Smart Digital Token
+platform: ETH
+platform_contract: '0x3242aebcdcf8de491004b1c98e6595e9827f6c17'

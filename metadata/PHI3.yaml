@@ -5,3 +5,5 @@ id_nomics: PHI3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PHI3.png
 logoKey: currencies/phi3.png
 name: PHI
+platform: BNB
+platform_contract: '0x4f7620a4e134b1d3fca3f419663acf351b225c74'

@@ -5,3 +5,5 @@ id_nomics: BPF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BPF2.jpg
 logoKey: currencies/bpf2.jpg
 name: Blockchain Property
+platform: BNB
+platform_contract: '0x121ee2f5ed6646d0c71ec9bfc4be4c0ee505b9d0'

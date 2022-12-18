@@ -5,3 +5,5 @@ id_nomics: BITSHARE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITSHARE.png
 logoKey: currencies/bitshare.png
 name: bitBOMB SHARE Token
+platform: BNB
+platform_contract: '0x116b19fbafcc947e7ffcc3a42ff7185589143a56'

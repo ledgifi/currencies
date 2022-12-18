@@ -5,3 +5,5 @@ id_nomics: SIM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIM2.jpg
 logoKey: currencies/sim2.jpg
 name: Simba Empire
+platform: MATIC
+platform_contract: '0x70784d8a360491562342b4f3d3d039aaacaf8f5d'

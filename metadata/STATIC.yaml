@@ -6,3 +6,5 @@ id_nomics: STATIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STATIC.jpg
 logoKey: currencies/static.jpg
 name: Static
+platform: BNB
+platform_contract: '0x7deb9906bd1d77b410a56e5c23c36340bd60c983'

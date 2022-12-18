@@ -5,3 +5,5 @@ id_nomics: ZCC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZCC2.jpg
 logoKey: currencies/zcc2.jpg
 name: ZuCoinChain
+platform: ETH
+platform_contract: '0x26548041e3a78fdc60f3cce21977e1f5e46561b7'

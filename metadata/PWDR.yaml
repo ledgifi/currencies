@@ -3,3 +3,5 @@ fiat: false
 id: PWDR
 id_nomics: PWDR
 name: Altitude
+platform: ETH
+platform_contract: '0x35557bda8c1eb81e2924af07ccccb9608e2e4a9b'

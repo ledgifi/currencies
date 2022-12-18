@@ -3,3 +3,5 @@ fiat: false
 id: SOXM
 id_nomics: SOXM
 name: solana xmitter
+platform: BNB
+platform_contract: '0xbfb6cfa8113ad45998e5407592720a69975276f7'

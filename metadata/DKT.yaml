@@ -6,3 +6,5 @@ id_nomics: DKT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DKT.png
 logoKey: currencies/dkt.png
 name: Duelist King
+platform: BNB
+platform_contract: '0x7ceb519718a80dd78a8545ad8e7f401de4f2faa7'

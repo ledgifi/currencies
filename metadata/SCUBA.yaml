@@ -5,3 +5,5 @@ id_nomics: SCUBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCUBA.jpg
 logoKey: currencies/scuba.jpg
 name: Scuba Inu
+platform: BNB
+platform_contract: '0x8A5e6Fc2d406EAA3086fb45fBFb3B685F950f992'

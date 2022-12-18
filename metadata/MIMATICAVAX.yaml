@@ -5,3 +5,5 @@ id_nomics: MIMATICAVAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIMATICAVAX.jpg
 logoKey: currencies/mimaticavax.jpg
 name: miMatic (Avalanche)
+platform: AVAX
+platform_contract: '0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e'

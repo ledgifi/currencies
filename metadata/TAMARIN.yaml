@@ -3,3 +3,5 @@ fiat: false
 id: TAMARIN
 id_nomics: TAMARIN
 name: Tamarin
+platform: ARBETH
+platform_contract: '0xfd44c3be8f56e043871ec50d1b15c99792044e9d'

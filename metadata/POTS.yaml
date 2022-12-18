@@ -6,3 +6,5 @@ id_nomics: POTS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POTS.jpg
 logoKey: currencies/pots.jpg
 name: Moonpot
+platform: BNB
+platform_contract: '0x3fcca8648651e5b974dd6d3e50f61567779772a8'

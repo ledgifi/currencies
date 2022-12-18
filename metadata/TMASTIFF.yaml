@@ -5,3 +5,5 @@ id_nomics: TMASTIFF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TMASTIFF.jpg
 logoKey: currencies/tmastiff.jpg
 name: Tibetan Mastiff
+platform: BNB
+platform_contract: '0x7122f1c0777900b959573132deac9a7209741aa0'

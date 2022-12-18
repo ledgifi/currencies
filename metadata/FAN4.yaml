@@ -3,3 +3,5 @@ fiat: false
 id: FAN4
 id_nomics: FAN4
 name: Fandora Network
+platform: BNB
+platform_contract: '0xbaa88ec0d95c12651b728c76742e70d670e3e556'

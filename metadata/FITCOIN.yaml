@@ -3,3 +3,5 @@ fiat: false
 id: FITCOIN
 id_nomics: FITCOIN
 name: FitCoin
+platform: ETH
+platform_contract: '0x12bafa32c73c6b7f0c00b36b3ba6d9416b163c59'

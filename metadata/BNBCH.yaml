@@ -6,3 +6,5 @@ id_nomics: BNBCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNBCH.jpg
 logoKey: currencies/bnbch.jpg
 name: BNB Cash
+platform: BNB
+platform_contract: '0x840bcd536d647c3433bf830dbcb8debfa5b71c79'

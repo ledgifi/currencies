@@ -6,3 +6,5 @@ id_nomics: RENDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RENDOGE.jpg
 logoKey: currencies/rendoge.jpg
 name: renDOGE
+platform: ETH
+platform_contract: '0x3832d2f059e55934220881f831be501d180671a7'

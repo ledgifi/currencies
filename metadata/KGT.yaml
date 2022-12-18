@@ -5,3 +5,5 @@ id_nomics: KGT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KGT.jpg
 logoKey: currencies/kgt.jpg
 name: KIZUNA GLOBAL TOKEN
+platform: ETH
+platform_contract: '0xf3e0b9368993640287eeed970945fdf57da53ed1'

@@ -6,3 +6,5 @@ id_nomics: TLNT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TLNT.jpeg
 logoKey: currencies/tlnt.jpeg
 name: Talent Coin
+platform: ETH
+platform_contract: '0x9f300b4ac0bf94cad77e7e2d3f850352b8bb264c'

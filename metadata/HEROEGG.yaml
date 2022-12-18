@@ -5,3 +5,5 @@ id_nomics: HEROEGG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HEROEGG.jpg
 logoKey: currencies/heroegg.jpg
 name: HeroFiEgg
+platform: BNB
+platform_contract: '0xcfbb1bfa710cb2eba070cc3bec0c35226fea4baf'

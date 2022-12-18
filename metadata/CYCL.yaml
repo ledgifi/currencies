@@ -3,3 +3,5 @@ fiat: false
 id: CYCL
 id_nomics: CYCL
 name: yfCyclic
+platform: ETH
+platform_contract: '0x69f08bd1929ef62ecbe947d6bf76a7b7cdba55e8'

@@ -6,3 +6,5 @@ id_nomics: READ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/READ.png
 logoKey: currencies/read.png
 name: Read
+platform: ETH
+platform_contract: '0x13d0bf45e5f319fa0b58900807049f23cae7c40d'

@@ -6,3 +6,5 @@ id_nomics: ZSC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/zsc.svg
 logoKey: currencies/zsc.svg
 name: Zeusshield
+platform: ETH
+platform_contract: '0x7a41e0517a5eca4fdbc7fbeba4d4c47b9ff6dc63'

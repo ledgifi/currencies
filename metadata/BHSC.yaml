@@ -5,3 +5,5 @@ id_nomics: BHSC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BHSC.png
 logoKey: currencies/bhsc.png
 name: BlackHoleSwap-Compound DAI/USDC
+platform: ETH
+platform_contract: '0x35101c731b1548b5e48bb23f99edbc2f5c341935'

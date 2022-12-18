@@ -6,3 +6,5 @@ id_nomics: DRP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRP.png
 logoKey: currencies/drp.png
 name: DCORP
+platform: ETH
+platform_contract: '0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed'

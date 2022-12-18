@@ -6,3 +6,5 @@ id_nomics: SIR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIR.png
 logoKey: currencies/sir.png
 name: Sirio
+platform: BNB
+platform_contract: '0xebb07b888cf4bc1276203408aa0b2022e633a34c'

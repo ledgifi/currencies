@@ -6,3 +6,5 @@ id_nomics: PSV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PSV.jpg
 logoKey: currencies/psv.jpg
 name: PASV
+platform: ETH
+platform_contract: '0x3a06624845c3f11b2c04265dede07b88cc0b197b'

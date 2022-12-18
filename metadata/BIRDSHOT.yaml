@@ -3,3 +3,5 @@ fiat: false
 id: BIRDSHOT
 id_nomics: BIRDSHOT
 name: Kill the Birds
+platform: ETH
+platform_contract: '0x2e9422d3efd4481a0176e211bf9415ed35487416'

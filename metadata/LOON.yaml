@@ -5,3 +5,5 @@ id_nomics: LOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOON.jpg
 logoKey: currencies/loon.jpg
 name: Loon Network
+platform: ETH
+platform_contract: '0x7c5d5100b339fe7d995a893af6cb496b9474373c'

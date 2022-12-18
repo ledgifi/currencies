@@ -3,3 +3,5 @@ fiat: false
 id: FIRSTNODE
 id_nomics: FIRSTNODE
 name: First Node
+platform: AVAX
+platform_contract: '0x3d5533b93a59653ba2ad397ccf16ffa7c933382f'

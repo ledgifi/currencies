@@ -5,3 +5,5 @@ id_nomics: CRDAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRDAI.jpg
 logoKey: currencies/crdai.jpg
 name: Cream Dai Stablecoin
+platform: ETH
+platform_contract: '0x92b767185fb3b04f881e3ac8e5b0662a027a1d9f'

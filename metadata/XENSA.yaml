@@ -5,3 +5,5 @@ id_nomics: XENSA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XENSA.png
 logoKey: currencies/xensa.png
 name: Xensa
+platform: OKT
+platform_contract: '0x01d346f740e27b0f3f5513bc4d2e132e3a43cc6e'

@@ -6,3 +6,5 @@ id_nomics: CNFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CNFI.png
 logoKey: currencies/cnfi.png
 name: Connect Financial
+platform: ETH
+platform_contract: '0xeabb8996ea1662cad2f7fb715127852cd3262ae9'

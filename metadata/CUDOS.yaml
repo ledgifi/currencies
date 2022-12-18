@@ -5,3 +5,5 @@ id_nomics: CUDOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CUDOS.png
 logoKey: currencies/cudos.png
 name: Cudos
+platform: ETH
+platform_contract: '0x817bbdbc3e8a1204f3691d14bb44992841e3db35'

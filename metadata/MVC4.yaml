@@ -5,3 +5,5 @@ id_nomics: MVC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MVC4.png
 logoKey: currencies/mvc4.png
 name: Multiverse Capital
+platform: BNB
+platform_contract: '0x80d04e44955aa9c3f24041b2a824a20a88e735a8'

@@ -5,3 +5,5 @@ id_nomics: GREN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GREN2.jpg
 logoKey: currencies/gren2.jpg
 name: Grenade Token
+platform: BNB
+platform_contract: '0x937ec4c10d072633d4672855b1837bc45879c51d'

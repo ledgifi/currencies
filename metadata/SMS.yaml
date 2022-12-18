@@ -6,3 +6,5 @@ id_nomics: SMS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/sms.png
 logoKey: currencies/sms.png
 name: Speed Mining Service
+platform: ETH
+platform_contract: '0xe5867608b51a2c9c78b9587355cc093140a49b0a'

@@ -6,3 +6,5 @@ id_nomics: DZOO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DZOO.jpg
 logoKey: currencies/dzoo.jpg
 name: DogeZoo
+platform: BNB
+platform_contract: '0x5419291d81c68c103363e06046f40a9056ab2b7f'

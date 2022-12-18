@@ -3,3 +3,5 @@ fiat: false
 id: BRDFI
 id_nomics: BRDFI
 name: bridged DFI (DefiChain)
+platform: BNB
+platform_contract: '0xfc1a129325efd34b81ce9769a9f620e2aa6551c6'

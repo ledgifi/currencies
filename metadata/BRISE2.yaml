@@ -5,3 +5,5 @@ id_nomics: BRISE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRISE2.jpg
 logoKey: currencies/brise2.jpg
 name: Bitrise Token
+platform: BNB
+platform_contract: '0x8fff93e810a2edaafc326edee51071da9d398e83'

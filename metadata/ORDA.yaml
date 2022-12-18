@@ -3,3 +3,5 @@ fiat: false
 id: ORDA
 id_nomics: ORDA
 name: CryptOrda
+platform: BNB
+platform_contract: '0x59f1d7cb1884d73eae9c1a8d07f9dcdf59a79d98'

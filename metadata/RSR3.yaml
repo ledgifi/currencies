@@ -5,3 +5,5 @@ id_nomics: RSR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RSR3.jpg
 logoKey: currencies/rsr3.jpg
 name: Reserve Rights V2
+platform: ETH
+platform_contract: '0x320623b8e4ff03373931769a31fc52a4e78b5d70'

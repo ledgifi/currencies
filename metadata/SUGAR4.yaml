@@ -5,3 +5,5 @@ id_nomics: SUGAR4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUGAR4.png
 logoKey: currencies/sugar4.png
 name: Sugarland
+platform: BNB
+platform_contract: '0xcb2adbca6f15e9b3f1d98fce57ac48a093f34fa9'

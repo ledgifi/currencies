@@ -3,3 +3,5 @@ fiat: false
 id: TCF
 id_nomics: TCF
 name: Cryptofi Token
+platform: MATIC
+platform_contract: '0x996201a94dea6fbfff0790e8416bc8abd05a617f'

@@ -3,3 +3,5 @@ fiat: false
 id: KADAN
 id_nomics: KADAN
 name: kadan
+platform: BNB
+platform_contract: '0x46c589f91d65fe8dd7b08b88cb81895c7ca7166e'

@@ -5,3 +5,5 @@ id_nomics: ELI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/eli.jpg
 logoKey: currencies/eli.jpg
 name: EligmaToken
+platform: ETH
+platform_contract: '0xc7c03b8a3fc5719066e185ea616e87b88eba44a3'

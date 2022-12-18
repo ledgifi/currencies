@@ -5,3 +5,5 @@ id_nomics: YPARETO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YPARETO.jpg
 logoKey: currencies/ypareto.jpg
 name: yPARETO
+platform: ETH
+platform_contract: '0xb01f1cc0382a8f30debc57c65c235da9d5774bec'

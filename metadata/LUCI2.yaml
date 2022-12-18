@@ -5,3 +5,5 @@ id_nomics: LUCI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUCI2.png
 logoKey: currencies/luci2.png
 name: Lucifer Shiba Inu
+platform: BNB
+platform_contract: '0xc2f014db4be8b87a64edb818041f70b95d6856ba'

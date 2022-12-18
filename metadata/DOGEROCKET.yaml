@@ -3,3 +3,5 @@ fiat: false
 id: DOGEROCKET
 id_nomics: DOGEROCKET
 name: Doge Rocket
+platform: ETH
+platform_contract: '0x2b65d97c47b857c962dbeb5510509895da4d8b52'

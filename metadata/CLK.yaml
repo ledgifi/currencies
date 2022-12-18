@@ -3,3 +3,5 @@ fiat: false
 id: CLK
 id_nomics: CLK
 name: Cloud Link
+platform: HT
+platform_contract: '0x3366806629a55fc2278dcd8a11da8ccb13494976'

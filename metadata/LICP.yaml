@@ -6,3 +6,5 @@ id_nomics: LICP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LICP.jpg
 logoKey: currencies/licp.jpg
 name: Liquid ICP
+platform: MATIC
+platform_contract: '0x1b43b97094aa3c6cc678edb9e28ac67daaa7cc64'

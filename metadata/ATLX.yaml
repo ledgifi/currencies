@@ -5,3 +5,5 @@ id_nomics: ATLX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATLX.png
 logoKey: currencies/atlx.png
 name: Atlantis Loans Polygon
+platform: MATIC
+platform_contract: '0x0b68782eff3177f1f9240b64a7e2f8e0497e2454'

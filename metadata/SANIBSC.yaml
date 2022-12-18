@@ -3,3 +3,5 @@ fiat: false
 id: SANIBSC
 id_nomics: SANIBSC
 name: SaninInuBsc
+platform: BNB
+platform_contract: '0xdeb30612e0daa85ca32c7430c923403add27397f'

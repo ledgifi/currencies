@@ -6,3 +6,5 @@ id_nomics: FOTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOTC.jpg
 logoKey: currencies/fotc.jpg
 name: Forte Coin
+platform: ETH
+platform_contract: '0xd9a1fe8b4d6de4f41c8a1b6ad3b6457916e546b4'

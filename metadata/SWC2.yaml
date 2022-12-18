@@ -5,3 +5,5 @@ id_nomics: SWC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWC2.jpg
 logoKey: currencies/swc2.jpg
 name: SW DAO
+platform: ETH
+platform_contract: '0x8dca21c5c8165886ea1fa800ff9321ec74fde2c0'

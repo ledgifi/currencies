@@ -5,3 +5,5 @@ id_nomics: SME2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SME2.jpg
 logoKey: currencies/sme2.jpg
 name: SafeMeme
+platform: BNB
+platform_contract: '0x36dbcbca106353d49e1e0e8974492ffb862a0c92'

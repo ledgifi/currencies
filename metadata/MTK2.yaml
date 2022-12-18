@@ -5,3 +5,5 @@ id_nomics: MTK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTK2.jpg
 logoKey: currencies/mtk2.jpg
 name: Metakings
+platform: BNB
+platform_contract: '0x129385c4acd0075e45a0c9a5177bdfec9678a138'

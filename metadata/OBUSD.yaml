@@ -3,3 +3,5 @@ fiat: false
 id: OBUSD
 id_nomics: OBUSD
 name: OpenSea BSC-ETH Bridge
+platform: BNB
+platform_contract: '0x89787cca77d3033ff1b4fc3a1e31c7cb17aed326'

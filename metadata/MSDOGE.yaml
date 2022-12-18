@@ -3,3 +3,5 @@ fiat: false
 id: MSDOGE
 id_nomics: MSDOGE
 name: Moon Snow Doge
+platform: ETH
+platform_contract: '0x8c1bad96e0d048872cd4cc7577d4170b4516b594'

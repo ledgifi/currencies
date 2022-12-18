@@ -6,3 +6,5 @@ id_nomics: VLO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VLO.jpg
 logoKey: currencies/vlo.jpg
 name: VELO Token
+platform: ETH
+platform_contract: '0x98ad9b32dd10f8d8486927d846d4df8baf39abe2'

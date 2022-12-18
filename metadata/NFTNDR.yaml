@@ -6,3 +6,5 @@ id_nomics: NFTNDR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTNDR.jpeg
 logoKey: currencies/nftndr.jpeg
 name: NFTinder
+platform: BNB
+platform_contract: '0xec37441dbc28c17d22740d8298cd737b994e4adf'

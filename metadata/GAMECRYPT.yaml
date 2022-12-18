@@ -6,3 +6,5 @@ id_nomics: GAMECRYPT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAMECRYPT.jpg
 logoKey: currencies/gamecrypt.jpg
 name: Gamecrypt
+platform: ETH
+platform_contract: '0x255a1d41bd0942adb1db5e78371798901c9cb4f3'

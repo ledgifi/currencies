@@ -3,3 +3,5 @@ fiat: false
 id: TCARD
 id_nomics: TCARD
 name: TCARD
+platform: HT
+platform_contract: '0x354432f197d7c647ce1f679ccd794aebac38e3dd'

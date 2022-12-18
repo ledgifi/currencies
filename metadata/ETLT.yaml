@@ -6,3 +6,5 @@ id_nomics: ETLT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETLT.png
 logoKey: currencies/etlt.png
 name: Ethereum Lightning Token
+platform: ETH
+platform_contract: '0x54efec15d08428c7ba31f8f085d4860ee6e38313'

@@ -5,3 +5,5 @@ id_nomics: PEPOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEPOGE.png
 logoKey: currencies/pepoge.png
 name: Pepoge
+platform: BNB
+platform_contract: '0x47324a8a48a7b9078899c60d6a0600e46a88ff6e'

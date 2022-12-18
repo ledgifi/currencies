@@ -3,3 +3,5 @@ fiat: false
 id: BNTC
 id_nomics: BNTC
 name: BNTC Coin
+platform: BNB
+platform_contract: '0x90ed5bfd9200b783c5d32f7b5dd2b64cf693c571'

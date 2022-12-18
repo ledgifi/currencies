@@ -6,3 +6,5 @@ id_nomics: FMON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FMON.jpg
 logoKey: currencies/fmon.jpg
 name: FlokiMON
+platform: BNB
+platform_contract: '0x03d1581c2198185b630eb27ffaf27a615dfc4815'

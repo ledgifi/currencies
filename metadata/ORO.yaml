@@ -5,3 +5,5 @@ id_nomics: ORO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORO.jpg
 logoKey: currencies/oro.jpg
 name: ORO Token (ERC-20)
+platform: ETH
+platform_contract: '0xc3eb2622190c57429aac3901808994443b64b466'

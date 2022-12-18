@@ -3,3 +3,5 @@ fiat: false
 id: BBAUSD
 id_nomics: BBAUSD
 name: Balancer Aave Boosted StablePool (USD)
+platform: ETH
+platform_contract: '0x7b50775383d3d6f0215a8f290f2c9e2eebbeceb2'

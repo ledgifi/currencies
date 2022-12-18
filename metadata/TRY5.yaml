@@ -5,3 +5,5 @@ id_nomics: TRY5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRY5.jpg
 logoKey: currencies/try5.jpg
 name: TryHards
+platform: MATIC
+platform_contract: '0xefee2de82343be622dcb4e545f75a3b9f50c272d'

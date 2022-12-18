@@ -5,3 +5,5 @@ id_nomics: UNII
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNII.jpg
 logoKey: currencies/unii.jpg
 name: UNII Finance
+platform: ETH
+platform_contract: '0x825130aa1beef07bdf4f389705321816d05b0d0f'

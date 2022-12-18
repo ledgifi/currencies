@@ -5,3 +5,5 @@ id_nomics: NWCBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NWCBEP20.jpg
 logoKey: currencies/nwcbep20.jpg
 name: Newscrypto (BEP-20)
+platform: BNB
+platform_contract: '0x968f6f898a6df937fc1859b323ac2f14643e3fed'

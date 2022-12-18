@@ -5,3 +5,5 @@ id_nomics: DLPHCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DLPHCX.jpg
 logoKey: currencies/dlphcx.jpg
 name: Delphi Technologies PLC Token
+platform: ETH
+platform_contract: '0xc5ef726e7f244522876fee3292db6557b6b854c9'

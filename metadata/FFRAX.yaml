@@ -3,3 +3,5 @@ fiat: false
 id: FFRAX
 id_nomics: FFRAX
 name: Fluid FRAX
+platform: ETH
+platform_contract: '0x2be1e42bf263aab47d27ba92e72c14823e101d7c'

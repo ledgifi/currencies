@@ -5,3 +5,5 @@ id_nomics: ILOVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ILOVE.jpg
 logoKey: currencies/ilove.jpg
 name: ILOVE Token
+platform: ETH
+platform_contract: '0x300698589b7ef7449e6974a0142c2ad0f077fffc'

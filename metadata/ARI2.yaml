@@ -5,3 +5,5 @@ id_nomics: ARI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARI2.jpg
 logoKey: currencies/ari2.jpg
 name: Denarii
+platform: ETH
+platform_contract: '0x8a8b5318d3a59fa6d1d0a83a1b0506f2796b5670'

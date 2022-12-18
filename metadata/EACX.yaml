@@ -5,3 +5,5 @@ id_nomics: EACX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EACX.jpg
 logoKey: currencies/eacx.jpg
 name: Electronic Arts, Inc.
+platform: ETH
+platform_contract: '0xf875a076352450249dcb383be0b3aff410fc49d6'

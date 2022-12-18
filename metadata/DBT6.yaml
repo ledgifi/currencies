@@ -5,3 +5,5 @@ id_nomics: DBT6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DBT6.jpg
 logoKey: currencies/dbt6.jpg
 name: Disco Burn Token
+platform: BNB
+platform_contract: '0x6bc736cc4a81ffc1ff67c89413913d418804ab43'

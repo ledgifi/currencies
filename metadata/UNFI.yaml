@@ -8,3 +8,5 @@ id_nomics: UNFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNFI.png
 logoKey: currencies/unfi.png
 name: Unifi Protocol DAO
+platform: ETH
+platform_contract: '0x441761326490cacf7af299725b6292597ee822c2'

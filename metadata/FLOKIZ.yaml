@@ -6,3 +6,5 @@ id_nomics: FLOKIZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKIZ.jpg
 logoKey: currencies/flokiz.jpg
 name: FlokiZap
+platform: BNB
+platform_contract: '0xee901a8a13e5b71dd35ad259d87e17a891d1f0f3'

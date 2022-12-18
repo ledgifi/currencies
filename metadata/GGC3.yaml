@@ -5,3 +5,5 @@ id_nomics: GGC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GGC3.jpg
 logoKey: currencies/ggc3.jpg
 name: Ghost Galaxies
+platform: BNB
+platform_contract: '0xb2b6a096e322b9353517884cc06fe2133c77b998'

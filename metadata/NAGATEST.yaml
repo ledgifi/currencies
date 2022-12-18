@@ -3,3 +3,5 @@ fiat: false
 id: NAGATEST
 id_nomics: NAGATEST
 name: NAGA_TEST
+platform: BNB
+platform_contract: '0x9f024edc395150dc860e6ce7796ae9da7102fb0c'

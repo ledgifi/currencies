@@ -6,3 +6,5 @@ id_nomics: BBO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBO.png
 logoKey: currencies/bbo.png
 name: Bigbom
+platform: ETH
+platform_contract: '0x84f7c44b6fed1080f647e354d552595be2cc602f'

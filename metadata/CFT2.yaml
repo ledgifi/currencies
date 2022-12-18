@@ -5,3 +5,5 @@ id_nomics: CFT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CFT2.jpg
 logoKey: currencies/cft2.jpg
 name: CoinBene Future Token
+platform: ETH
+platform_contract: '0x9b683d81b8334325bcc1802d47de65571993fe89'

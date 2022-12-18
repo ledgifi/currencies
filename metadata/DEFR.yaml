@@ -5,3 +5,5 @@ id_nomics: DEFR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEFR.jpeg
 logoKey: currencies/defr.jpeg
 name: DeFi Reflections
+platform: BNB
+platform_contract: '0x8fe0eed52Fd6745AD4D6d559A2faf40B68e1e806'

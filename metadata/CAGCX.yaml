@@ -5,3 +5,5 @@ id_nomics: CAGCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAGCX.jpg
 logoKey: currencies/cagcx.jpg
 name: Conagra Brands, Inc. Token
+platform: ETH
+platform_contract: '0x68c5e456f4156e8500ea7ea0218b84b1749fb2d8'

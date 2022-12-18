@@ -3,3 +3,5 @@ fiat: false
 id: SWAPXI
 id_nomics: SWAPXI
 name: SwapXI Token
+platform: AVAX
+platform_contract: '0x312ee43df66d1fd1ea28e5b28f355da84dca13c2'

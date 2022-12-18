@@ -5,3 +5,5 @@ id_nomics: EOC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EOC3.jpg
 logoKey: currencies/eoc3.jpg
 name: Essence of Creation
+platform: MATIC
+platform_contract: '0x4e9d760637da87fe3003adc8e1dad2fe0ae3c671'

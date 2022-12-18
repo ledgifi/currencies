@@ -3,3 +3,5 @@ fiat: false
 id: GPCR
 id_nomics: GPCR
 name: Game Place Crypto
+platform: MATIC
+platform_contract: '0x9717b2461adc69211c059db3dab08efe2d63cd10'

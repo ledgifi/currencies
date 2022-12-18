@@ -3,3 +3,5 @@ fiat: false
 id: PIGO
 id_nomics: PIGO
 name: PIGO
+platform: BNB
+platform_contract: '0xc4524ee3216733f3003a3e783d20433c77e8dc5b'

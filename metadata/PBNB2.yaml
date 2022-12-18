@@ -5,3 +5,5 @@ id_nomics: PBNB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PBNB2.png
 logoKey: currencies/pbnb2.png
 name: Orbit Bridge Polygon Binance Coin
+platform: MATIC
+platform_contract: '0x7e9928afe96fefb820b85b4ce6597b8f660fe4f4'

@@ -5,3 +5,5 @@ id_nomics: GSHARE5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GSHARE5.png
 logoKey: currencies/gshare5.png
 name: GSHARE
+platform: FTM
+platform_contract: '0x5BadadD7aFff73687596793173257cC69A82bd76'

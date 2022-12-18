@@ -3,3 +3,5 @@ fiat: false
 id: FTDOGE
 id_nomics: FTDOGE
 name: FTDogeCoin
+platform: BNB
+platform_contract: '0x8daf698fb162eabdf00cc569044175b50156167e'

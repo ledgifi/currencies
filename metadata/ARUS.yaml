@@ -3,3 +3,5 @@ fiat: false
 id: ARUS
 id_nomics: ARUS
 name: Aureus Token
+platform: BNB
+platform_contract: '0x6dd195c23f3126e03bef84969b64dc17742e79ed'

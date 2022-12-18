@@ -5,3 +5,5 @@ id_nomics: XNY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XNY.png
 logoKey: currencies/xny.png
 name: Cryptonity
+platform: ETH
+platform_contract: '0xec8b363164cf453bdaadfad4094b566dada41f4d'

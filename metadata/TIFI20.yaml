@@ -5,3 +5,5 @@ id_nomics: TIFI20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIFI20.jpg
 logoKey: currencies/tifi20.jpg
 name: TiFi Token 2.0
+platform: BNB
+platform_contract: '0x0C1cc5d2A3929b23a32962aa76fA3ea9e691828f'

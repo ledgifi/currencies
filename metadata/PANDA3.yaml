@@ -5,3 +5,5 @@ id_nomics: PANDA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PANDA3.jpg
 logoKey: currencies/panda3.jpg
 name: HashPanda
+platform: BNB
+platform_contract: '0x8578eb576e126f67913a8bc0622e0a22eba0989a'

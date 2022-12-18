@@ -6,3 +6,5 @@ id_nomics: PORKY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PORKY.jpeg
 logoKey: currencies/porky.jpeg
 name: PorkyCoin
+platform: BNB
+platform_contract: '0xaa4702adddcc72665680bc16a5b43450591404d5'

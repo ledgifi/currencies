@@ -5,3 +5,5 @@ id_nomics: FACTR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FACTR.jpg
 logoKey: currencies/factr.jpg
 name: Defactor
+platform: ETH
+platform_contract: '0xdefac16715671b7b6aeefe012125f1e19ee4b7d7'

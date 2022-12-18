@@ -6,3 +6,5 @@ id_nomics: EXN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/exn.png
 logoKey: currencies/exn.png
 name: ExchangeN
+platform: ETH
+platform_contract: '0x0766e79a6fd74469733e8330b3b461c0320ff059'

@@ -6,3 +6,5 @@ id_nomics: WAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAP.jpg
 logoKey: currencies/wap.jpg
 name: WapSwap Finance
+platform: BNB
+platform_contract: '0xd819f503cf5c5932f549cb9c97d28685558d9c80'

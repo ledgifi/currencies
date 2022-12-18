@@ -6,3 +6,5 @@ id_nomics: KIBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KIBA.jpg
 logoKey: currencies/kiba.jpg
 name: Kiba Inu
+platform: ETH
+platform_contract: '0x4b2c54b80b77580dc02a0f6734d3bad733f50900'

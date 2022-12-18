@@ -5,3 +5,5 @@ id_nomics: FLOKIM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKIM2.jpg
 logoKey: currencies/flokim2.jpg
 name: Floki Musk
+platform: ETH
+platform_contract: '0x36fd796f7afd47de870e86a52b1a75b1557399f3'

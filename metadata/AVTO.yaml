@@ -3,3 +3,5 @@ fiat: false
 id: AVTO
 id_nomics: AVTO
 name: avtoMATIC
+platform: MATIC
+platform_contract: '0x1f3995854c486632f750530538f5f8cd475c96f4'

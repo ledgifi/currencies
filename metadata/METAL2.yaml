@@ -5,3 +5,5 @@ id_nomics: METAL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAL2.jpg
 logoKey: currencies/metal2.jpg
 name: Meta Legends
+platform: BNB
+platform_contract: '0xce8fda2f7da85643c2cad1bd299c9c24b01a0963'

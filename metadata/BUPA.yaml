@@ -5,3 +5,5 @@ id_nomics: BUPA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUPA.png
 logoKey: currencies/bupa.png
 name: British Union Public Asset
+platform: BNB
+platform_contract: '0x63bf7e7807e9ee7076930cf854a4a856cf3b4539'

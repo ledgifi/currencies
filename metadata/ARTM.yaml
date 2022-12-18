@@ -6,3 +6,5 @@ id_nomics: ARTM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARTM.png
 logoKey: currencies/artm.png
 name: ARTM
+platform: ETH
+platform_contract: '0x19ebaa7f212b09de2aee2a32d40338553c70e2e3'

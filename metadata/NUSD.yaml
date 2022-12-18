@@ -6,3 +6,5 @@ id_nomics: NUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NUSD.png
 logoKey: currencies/nusd.png
 name: Neutral Dollar
+platform: ETH
+platform_contract: '0x0c6144c16af288948c8fdb37fd8fec94bff3d1d9'

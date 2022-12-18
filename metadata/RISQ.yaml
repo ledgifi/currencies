@@ -6,3 +6,5 @@ id_nomics: RISQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RISQ.jpg
 logoKey: currencies/risq.jpg
 name: Risq Protocol
+platform: BNB
+platform_contract: '0xc2c82622a7cb7159d44cea7e39843a495f2674de'

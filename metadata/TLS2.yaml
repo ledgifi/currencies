@@ -3,3 +3,5 @@ fiat: false
 id: TLS2
 id_nomics: TLS2
 name: tellus
+platform: ETH
+platform_contract: '0x63c4814326e80c9e21d6718e047a91b7d121ac76'

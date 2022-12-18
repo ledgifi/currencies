@@ -5,3 +5,5 @@ id_nomics: PALA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PALA2.jpg
 logoKey: currencies/pala2.jpg
 name: Pala
+platform: KLAY
+platform_contract: '0x7a1cdca99fe5995ab8e317ede8495c07cbf488ad'

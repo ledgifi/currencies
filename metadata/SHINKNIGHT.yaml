@@ -3,3 +3,5 @@ fiat: false
 id: SHINKNIGHT
 id_nomics: SHINKNIGHT
 name: Shinknight
+platform: ETH
+platform_contract: '0x550e6000663eaf96a65bbd930ec19b85f2392bf9'

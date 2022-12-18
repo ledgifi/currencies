@@ -6,3 +6,5 @@ id_nomics: NFTPUNK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTPUNK.png
 logoKey: currencies/nftpunk.png
 name: NFTPunk.Finance
+platform: BNB
+platform_contract: '0x31de61d9a39cb9f479570bd3dc3ac93bc0402cdb'

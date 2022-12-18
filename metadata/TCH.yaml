@@ -5,3 +5,5 @@ id_nomics: TCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCH.png
 logoKey: currencies/tch.png
 name: Thorecash
+platform: ETH
+platform_contract: '0x9972a0f24194447e73a7e8b6cd26a52e02ddfad5'

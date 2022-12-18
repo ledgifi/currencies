@@ -5,3 +5,5 @@ id_nomics: CATSU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CATSU.jpg
 logoKey: currencies/catsu.jpg
 name: Catsu Token
+platform: ETH
+platform_contract: '0xc83a5fab499d96025978d5683b21045309877e40'

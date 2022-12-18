@@ -5,3 +5,5 @@ id_nomics: BLITZ2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLITZ2.jpg
 logoKey: currencies/blitz2.jpg
 name: BLITZ
+platform: BNB
+platform_contract: '0x6e474bcfb5f9165ae3f264e57e1dbeb6309ad9fe'

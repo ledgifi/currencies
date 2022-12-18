@@ -6,3 +6,5 @@ id_nomics: CYL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CYL.png
 logoKey: currencies/cyl.png
 name: Crystal Token
+platform: ETH
+platform_contract: '0x26cb3641aaa43911f1d4cb2ce544eb652aac7c47'

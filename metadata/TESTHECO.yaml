@@ -3,3 +3,5 @@ fiat: false
 id: TESTHECO
 id_nomics: TESTHECO
 name: test_heco
+platform: HT
+platform_contract: '0xdabfeff44259e7b93b11357f9b4c6eba713446cc'

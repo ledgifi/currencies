@@ -5,3 +5,5 @@ id_nomics: MINISAITAMA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINISAITAMA.jpg
 logoKey: currencies/minisaitama.jpg
 name: miniSAITAMA
+platform: ETH
+platform_contract: '0x7a11fa3f1dfa7602c9f5a0676fcdd44ab909a156'

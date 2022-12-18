@@ -6,3 +6,5 @@ id_nomics: IKA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IKA.jpg
 logoKey: currencies/ika.jpg
 name: Linkka
+platform: BNB
+platform_contract: '0xd2878944bf19531249cf4f97ff8d6654203b8c13'

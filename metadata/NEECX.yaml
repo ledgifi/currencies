@@ -5,3 +5,5 @@ id_nomics: NEECX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEECX.jpg
 logoKey: currencies/neecx.jpg
 name: NextEra Energy, Inc. Token
+platform: ETH
+platform_contract: '0x0cda1454bda46df7f8593286c4aab856be803518'

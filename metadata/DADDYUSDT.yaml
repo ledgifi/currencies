@@ -5,3 +5,5 @@ id_nomics: DADDYUSDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DADDYUSDT.jpg
 logoKey: currencies/daddyusdt.jpg
 name: DaddyUSDT
+platform: BNB
+platform_contract: '0xcd929f47ce8eb0dc88d30abac83d002a4c000142'

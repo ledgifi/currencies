@@ -3,3 +3,5 @@ fiat: false
 id: DUCK5
 id_nomics: DUCK5
 name: Duck Token
+platform: BNB
+platform_contract: '0x0704563d6fbc9a858748298d6445e077987b51f2'

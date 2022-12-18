@@ -6,3 +6,5 @@ id_nomics: WEBFOUR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WEBFOUR.jpg
 logoKey: currencies/webfour.jpg
 name: Web Four
+platform: BNB
+platform_contract: '0xd3987cb8a59e8ef6aab0d95b92254344ed9c3c6f'

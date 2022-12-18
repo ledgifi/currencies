@@ -5,3 +5,5 @@ id_nomics: BGATE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BGATE.jpg
 logoKey: currencies/bgate.jpg
 name: Baby Gate
+platform: BNB
+platform_contract: '0x7a0a204464304fe3d218a18309e8de0c94f565a5'

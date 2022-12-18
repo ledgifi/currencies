@@ -5,3 +5,5 @@ id_nomics: TREATV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TREATV2.jpg
 logoKey: currencies/treatv2.jpg
 name: TreatDAO v2
+platform: BNB
+platform_contract: '0x01bd7acb6ff3b6dd5aefa05cf085f2104f3fc53f'

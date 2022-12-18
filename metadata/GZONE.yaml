@@ -6,3 +6,5 @@ id_nomics: GZONE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GZONE.jpg
 logoKey: currencies/gzone.jpg
 name: GameZone
+platform: BNB
+platform_contract: '0xb6adb74efb5801160ff749b1985fd3bd5000e938'

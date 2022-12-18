@@ -6,3 +6,5 @@ id_nomics: SKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SKE.png
 logoKey: currencies/ske.png
 name: Super Keep Token
+platform: ETH
+platform_contract: '0x13db74b3cf512f65c4b91683940b4f3955e05085'

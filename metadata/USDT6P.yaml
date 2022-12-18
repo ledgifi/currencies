@@ -3,3 +3,5 @@ fiat: false
 id: USDT6P
 id_nomics: USDT6P
 name: usdt6p
+platform: BNB
+platform_contract: '0xd4105dd4b0bdbeb2e7155f385d71d0ee94b827e9'

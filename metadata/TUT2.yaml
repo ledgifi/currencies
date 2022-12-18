@@ -5,3 +5,5 @@ id_nomics: TUT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TUT2.jpg
 logoKey: currencies/tut2.jpg
 name: Tutellus
+platform: MATIC
+platform_contract: '0x12a34a6759c871c4c1e8a0a42cfc97e4d7aaf68d'

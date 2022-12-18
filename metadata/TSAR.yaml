@@ -5,3 +5,5 @@ id_nomics: TSAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TSAR.jpg
 logoKey: currencies/tsar.jpg
 name: TSAR Token
+platform: BNB
+platform_contract: '0x2b697fe168fb168e34153b775c5fd7cbcaa30b75'

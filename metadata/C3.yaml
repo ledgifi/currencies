@@ -6,3 +6,5 @@ id_nomics: C3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/C3.png
 logoKey: currencies/c3.png
 name: Charli3
+platform: ETH
+platform_contract: '0xf1a91c7d44768070f711c68f33a7ca25c8d30268'

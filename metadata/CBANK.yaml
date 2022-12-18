@@ -6,3 +6,5 @@ id_nomics: CBANK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBANK.jpg
 logoKey: currencies/cbank.jpg
 name: Crypto Bank
+platform: ETH
+platform_contract: '0xa5e412ba6fca1e07b15defcaa4236ff7b5a7f086'

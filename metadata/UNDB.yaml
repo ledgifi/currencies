@@ -5,3 +5,5 @@ id_nomics: UNDB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNDB.png
 logoKey: currencies/undb.png
 name: unibot.cash
+platform: ETH
+platform_contract: '0xd03b6ae96cae26b743a6207dcee7cbe60a425c70'

@@ -5,3 +5,5 @@ id_nomics: KAIJU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAIJU.jpg
 logoKey: currencies/kaiju.jpg
 name: Kaiju
+platform: ETH
+platform_contract: '0x58a5d3e4873a75b07fb3c7cf477eebc44ea73b3b'

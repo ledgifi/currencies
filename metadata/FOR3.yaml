@@ -5,3 +5,5 @@ id_nomics: FOR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOR3.jpg
 logoKey: currencies/for3.jpg
 name: Fortuna Sittard Fan Token
+platform: CHZ
+platform_contract: '0x7fbd14bc7df32509be488a81ad91b795bd45d08f'

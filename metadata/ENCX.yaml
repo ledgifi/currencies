@@ -5,3 +5,5 @@ id_nomics: ENCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ENCX.jpg
 logoKey: currencies/encx.jpg
 name: Enceladus Network
+platform: ETH
+platform_contract: '0x20211ab9388781532fece6c57347a0004a420f16'

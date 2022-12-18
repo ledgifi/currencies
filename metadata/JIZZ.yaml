@@ -3,3 +3,5 @@ fiat: false
 id: JIZZ
 id_nomics: JIZZ
 name: JizzToken
+platform: ETH
+platform_contract: '0x58f93ab02519ef86c6dd87884a97922f8443f0ea'

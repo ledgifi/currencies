@@ -5,3 +5,5 @@ id_nomics: DGW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DGW.png
 logoKey: currencies/dgw.png
 name: Digiwill
+platform: ETH
+platform_contract: '0x87b87a7583d8d8f15b58bdd290318386ac8ee174'

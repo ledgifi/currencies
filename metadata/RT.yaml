@@ -5,3 +5,5 @@ id_nomics: RT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RT.png
 logoKey: currencies/rt.png
 name: Resource Token
+platform: ETH
+platform_contract: '0x6028d881eea57c18255a85809cdd7f212688d946'

@@ -5,3 +5,5 @@ id_nomics: BERE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BERE.jpg
 logoKey: currencies/bere.jpg
 name: CapraNoastra
+platform: BNB
+platform_contract: '0x425e339793f1930c3b44c39cb1a8695114b3f94c'

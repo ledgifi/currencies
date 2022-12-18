@@ -5,3 +5,5 @@ id_nomics: RNO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RNO2.jpeg
 logoKey: currencies/rno2.jpeg
 name: Earneo
+platform: BNB
+platform_contract: '0x92a0d359c87b8f3fe383aa0a42c19d1a2afe6be0'

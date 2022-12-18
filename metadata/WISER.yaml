@@ -5,3 +5,5 @@ id_nomics: WISER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WISER.jpg
 logoKey: currencies/wiser.jpg
 name: Wiser CASH
+platform: ETH
+platform_contract: '0xd1a58a18ab40e3c5b8f611d0d405d01707cf77ac'

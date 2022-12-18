@@ -5,3 +5,5 @@ id_nomics: MEMEGROW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEMEGROW.jpg
 logoKey: currencies/memegrow.jpg
 name: MemeGrow
+platform: BNB
+platform_contract: '0x66a0dadf3d41760c392126a90a330cbf4d3378f0'

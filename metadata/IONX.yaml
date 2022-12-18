@@ -6,3 +6,5 @@ id_nomics: IONX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IONX.png
 logoKey: currencies/ionx.png
 name: Charged Particles
+platform: ETH
+platform_contract: '0x02d3a27ac3f55d5d91fb0f52759842696a864217'

@@ -5,3 +5,5 @@ id_nomics: GLOSFER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GLOSFER.jpg
 logoKey: currencies/glosfer.jpg
 name: Glosfer Token
+platform: ETH
+platform_contract: '0xc0e6737a29de7a00e2f6011924eb257106cb082f'

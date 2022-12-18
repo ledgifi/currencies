@@ -3,3 +3,5 @@ fiat: false
 id: TEST2
 id_nomics: TEST2
 name: TestToken2
+platform: BNB
+platform_contract: '0x483e4e95760cb0579583a0f179174cb6c4d07928'

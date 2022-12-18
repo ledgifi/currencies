@@ -5,3 +5,5 @@ id_nomics: BEFX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEFX.jpg
 logoKey: currencies/befx.jpg
 name: Belifex (ERC-20)
+platform: ETH
+platform_contract: '0xb91c2a2b953d72f3ef890490669a0a41b0add5f7'

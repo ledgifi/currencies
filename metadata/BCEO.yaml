@@ -6,3 +6,5 @@ id_nomics: BCEO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCEO.jpg
 logoKey: currencies/bceo.jpg
 name: bitCEO
+platform: ETH
+platform_contract: '0x19ca83a13b4c4be43fa82c5e415e16f1d86f57f7'

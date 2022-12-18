@@ -3,3 +3,5 @@ fiat: false
 id: MYCOIN
 id_nomics: MYCOIN
 name: MyCoin
+platform: ETH
+platform_contract: '0xd38c81f27def33d96b0fdd54363bb88f4b01d94c'

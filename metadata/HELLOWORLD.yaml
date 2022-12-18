@@ -3,3 +3,5 @@ fiat: false
 id: HELLOWORLD
 id_nomics: HELLOWORLD
 name: Hello World
+platform: ETH
+platform_contract: '0xef4b4e804ee09b3bc7b819d1cf0a41288f7a6cfe'

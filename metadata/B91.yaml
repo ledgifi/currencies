@@ -6,3 +6,5 @@ id_nomics: B91
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/B91.png
 logoKey: currencies/b91.png
 name: B91
+platform: ETH
+platform_contract: '0x1519aff03b3e23722511d2576c769a77baf09580'

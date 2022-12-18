@@ -5,3 +5,5 @@ id_nomics: ASUSDV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASUSDV2.jpg
 logoKey: currencies/asusdv2.jpg
 name: Aave SUSD
+platform: ETH
+platform_contract: '0x6c5024cd4f8a59110119c56f8933403a539555eb'

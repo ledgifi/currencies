@@ -6,3 +6,5 @@ id_nomics: COINSCOPE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COINSCOPE.jpg
 logoKey: currencies/coinscope.jpg
 name: Coinscope
+platform: BNB
+platform_contract: '0xd41c4805a9a3128f9f7a7074da25965371ba50d5'

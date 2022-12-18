@@ -3,3 +3,5 @@ fiat: false
 id: SBL
 id_nomics: SBL
 name: SBL
+platform: BNB
+platform_contract: '0x36bed06225030cd262b1dd4c53b518e51a132d8f'

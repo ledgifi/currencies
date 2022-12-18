@@ -3,3 +3,5 @@ fiat: false
 id: BDAO2
 id_nomics: BDAO2
 name: BetDao
+platform: ETH
+platform_contract: '0x05d8c63437907daa0982aa2171096306ccfcf132'

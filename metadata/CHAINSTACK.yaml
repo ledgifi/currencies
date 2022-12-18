@@ -3,3 +3,5 @@ fiat: false
 id: CHAINSTACK
 id_nomics: CHAINSTACK
 name: Chainstack
+platform: ARBETH
+platform_contract: '0xdb84d756564aec6fe958ef688629f60eff7236cd'

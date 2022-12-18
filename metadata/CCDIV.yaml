@@ -3,3 +3,5 @@ fiat: false
 id: CCDIV
 id_nomics: CCDIV
 name: CC Dividend
+platform: BNB
+platform_contract: '0xd9f136f55d303f0220d15296884889782d54cb15'

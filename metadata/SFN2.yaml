@@ -5,3 +5,5 @@ id_nomics: SFN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFN2.jpg
 logoKey: currencies/sfn2.jpg
 name: Strains
+platform: BNB
+platform_contract: '0xdca8a5bb74ec9536d13511c51f6a68821bf6a1a6'

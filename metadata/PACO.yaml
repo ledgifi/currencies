@@ -3,3 +3,5 @@ fiat: false
 id: PACO
 id_nomics: PACO
 name: Pacocoin
+platform: MATIC
+platform_contract: '0x19c5b620f7a4ccb22af0cf83bef55ee9bbf28725'

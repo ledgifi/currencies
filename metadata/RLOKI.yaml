@@ -6,3 +6,5 @@ id_nomics: RLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RLOKI.png
 logoKey: currencies/rloki.png
 name: Floki Rocket
+platform: BNB
+platform_contract: '0x1476e96fadb37668d7680921297e2ab98ec36c2f'

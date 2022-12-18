@@ -3,3 +3,5 @@ fiat: false
 id: NITEST
 id_nomics: NITEST
 name: NitroTest
+platform: ARBETH
+platform_contract: '0xebaf3c24575819e0f10d1bd0309ae11250c1f313'

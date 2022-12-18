@@ -5,3 +5,5 @@ id_nomics: VGBP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VGBP.png
 logoKey: currencies/vgbp.png
 name: vGBP
+platform: ETH
+platform_contract: '0x6364d4f283601d4beb170dcdf0080b84e056389a'

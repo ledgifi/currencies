@@ -3,3 +3,5 @@ fiat: false
 id: XLP
 id_nomics: XLP
 name: XLP
+platform: ETH
+platform_contract: '0x8dc6ed015579167d181e86ae9c324943c7360d7f'

@@ -5,3 +5,5 @@ id_nomics: CYFMPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CYFMPOS.png
 logoKey: currencies/cyfmpos.png
 name: CyberFM (Polygon)
+platform: MATIC
+platform_contract: '0xda5949544aaf6124d06f398bfde4c86cc33b0ee7'

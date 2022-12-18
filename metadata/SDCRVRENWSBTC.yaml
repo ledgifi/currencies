@@ -3,3 +3,5 @@ fiat: false
 id: SDCRVRENWSBTC
 id_nomics: SDCRVRENWSBTC
 name: stake dao Curve.fi renBTC/wBTC/sBTC (PoS)
+platform: MATIC
+platform_contract: '0xe212f92e5af85268b33d2aa587b51f49c3b945be'

@@ -3,3 +3,5 @@ fiat: false
 id: CTCO2
 id_nomics: CTCO2
 name: Connector Coin
+platform: BNB
+platform_contract: '0x3746519cfb4a0ca13745a38326282585de95e0a5'

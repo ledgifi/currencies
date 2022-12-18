@@ -3,3 +3,5 @@ fiat: false
 id: CELONGATE
 id_nomics: CELONGATE
 name: Classic ElonGate
+platform: ETH
+platform_contract: '0x509d83715db82d20d52ce721203e79f96439da09'

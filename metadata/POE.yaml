@@ -8,3 +8,5 @@ id_nomics: POE
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/poe.svg
 logoKey: currencies/poe.svg
 name: Po.et
+platform: ETH
+platform_contract: '0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195'

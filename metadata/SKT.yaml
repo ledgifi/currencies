@@ -5,3 +5,5 @@ id_nomics: SKT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SKT.jpg
 logoKey: currencies/skt.jpg
 name: SealBlock Token
+platform: ETH
+platform_contract: '0x82bdfb4c6f488fc47700cef12c448a2f13f8ff4f'

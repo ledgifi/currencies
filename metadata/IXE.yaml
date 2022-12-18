@@ -5,3 +5,5 @@ id_nomics: IXE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IXE.jpg
 logoKey: currencies/ixe.jpg
 name: IXTUS
+platform: ETH
+platform_contract: '0x7a07e1a0c2514d51132183ecfea2a880ec3b7648'

@@ -6,3 +6,5 @@ id_nomics: CSMC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CSMC.jpg
 logoKey: currencies/csmc.jpg
 name: Cosmic Music
+platform: BNB
+platform_contract: '0x937a580dca21e3519ac5a66b7be55090d87b7c18'

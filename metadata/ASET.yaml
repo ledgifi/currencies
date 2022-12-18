@@ -6,3 +6,5 @@ id_nomics: ASET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASET.jpg
 logoKey: currencies/aset.jpg
 name: Parasset
+platform: ETH
+platform_contract: '0x139cec55d1ec47493dfa25ca77c9208aba4d3c68'

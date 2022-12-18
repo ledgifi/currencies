@@ -5,3 +5,5 @@ id_nomics: FLX5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLX5.jpg
 logoKey: currencies/flx5.jpg
 name: Flux Token
+platform: ETH
+platform_contract: '0x3ea8ea4237344c9931214796d9417af1a1180770'

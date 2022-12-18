@@ -5,3 +5,5 @@ id_nomics: ANVIL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANVIL.jpg
 logoKey: currencies/anvil.jpg
 name: FrozenAnvil
+platform: BNB
+platform_contract: '0x8577e6df4228a7d6e4a93ad63ec324f7d6fbb702'

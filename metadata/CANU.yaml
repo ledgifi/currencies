@@ -6,3 +6,5 @@ id_nomics: CANU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CANU.jpg
 logoKey: currencies/canu.jpg
 name: Cannumo
+platform: BNB
+platform_contract: '0xdbb66eb9f4d737b49ae5cd4de25e6c8da8b034f9'

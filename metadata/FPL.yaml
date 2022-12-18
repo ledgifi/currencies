@@ -6,3 +6,5 @@ id_nomics: FPL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FPL.jpg
 logoKey: currencies/fpl.jpg
 name: Farm Planet
+platform: BNB
+platform_contract: '0xe5e29fc606a3002dec5663568bd6739ac0a6d41c'

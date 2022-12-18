@@ -5,3 +5,5 @@ id_nomics: GOODSHIP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOODSHIP.jpg
 logoKey: currencies/goodship.jpg
 name: Goodship
+platform: BNB
+platform_contract: '0x1fc891697728639d959ee715fb27ed93dc320eef'

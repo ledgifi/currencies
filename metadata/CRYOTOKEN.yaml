@@ -3,3 +3,5 @@ fiat: false
 id: CRYOTOKEN
 id_nomics: CRYOTOKEN
 name: CRYO
+platform: ETH
+platform_contract: '0xbbf7e6268a2579780215235d988ba382a097f935'

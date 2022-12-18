@@ -6,3 +6,5 @@ id_nomics: SQUIDS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SQUIDS.jpg
 logoKey: currencies/squids.jpg
 name: Baby Squid Games
+platform: BNB
+platform_contract: '0xea88d713af5d742dbcafc4b0360b59a8b3e34d6b'

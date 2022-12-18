@@ -5,3 +5,5 @@ id_nomics: FEU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FEU.jpg
 logoKey: currencies/feu.jpg
 name: FEU Token
+platform: BNB
+platform_contract: '0x254e47f6402f48f3f12cfedf04d24aafeac3a25e'

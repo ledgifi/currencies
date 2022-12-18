@@ -5,3 +5,5 @@ id_nomics: DPAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DPAD.jpeg
 logoKey: currencies/dpad.jpeg
 name: DiamondPad
+platform: BNB
+platform_contract: '0x855a88ff63eac30c1aabf3c2ff21348e359665aa'

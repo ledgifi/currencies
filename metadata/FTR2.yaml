@@ -5,3 +5,5 @@ id_nomics: FTR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FTR2.png
 logoKey: currencies/ftr2.png
 name: Futurier Coin
+platform: BNB
+platform_contract: '0x0583fb65766351b9202091ba695c702808015183'

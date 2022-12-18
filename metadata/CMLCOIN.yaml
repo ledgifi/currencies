@@ -3,3 +3,5 @@ fiat: false
 id: CMLCOIN
 id_nomics: CMLCOIN
 name: Camel Coin
+platform: ETH
+platform_contract: '0xf026d795a7f28e0197bf9ae6fbe8c8f8a25277bc'

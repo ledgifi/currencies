@@ -5,3 +5,5 @@ id_nomics: MONEY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MONEY.jpg
 logoKey: currencies/money.jpg
 name: MoneyTree
+platform: BNB
+platform_contract: '0x2d5b21074d81ae888c01722ec0657f20521be893'

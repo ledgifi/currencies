@@ -6,3 +6,5 @@ id_nomics: ROTTEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROTTEN.jpg
 logoKey: currencies/rotten.jpg
 name: Rotten Floki
+platform: BNB
+platform_contract: '0x7f976fce4ff9f5fa3ed76609c5cb4d406399e32d'

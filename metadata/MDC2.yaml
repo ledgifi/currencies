@@ -5,3 +5,5 @@ id_nomics: MDC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MDC2.jpg
 logoKey: currencies/mdc2.jpg
 name: MediCash
+platform: KLAY
+platform_contract: '0x7ccfe0a1244d260785784fcff333123482e71194'

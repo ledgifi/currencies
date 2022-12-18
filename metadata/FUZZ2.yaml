@@ -5,3 +5,5 @@ id_nomics: FUZZ2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FUZZ2.jpg
 logoKey: currencies/fuzz2.jpg
 name: Fuzz Finance
+platform: HARMONY
+platform_contract: '0x984b969a8e82f5ce1121ceb03f96ff5bb3f71fee'

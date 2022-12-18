@@ -5,3 +5,5 @@ id_nomics: RISU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RISU.png
 logoKey: currencies/risu.png
 name: Risu
+platform: BNB
+platform_contract: '0x8163100460d2186de4e700c479d5e87283426d27'

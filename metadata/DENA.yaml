@@ -6,3 +6,5 @@ id_nomics: DENA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DENA.jpg
 logoKey: currencies/dena.jpg
 name: Decentralized Nations
+platform: ETH
+platform_contract: '0x15f0eedf9ce24fc4b6826e590a8292ce5524a1da'

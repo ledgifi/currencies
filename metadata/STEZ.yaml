@@ -5,3 +5,5 @@ id_nomics: STEZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STEZ.jpg
 logoKey: currencies/stez.jpg
 name: StepZ
+platform: BNB
+platform_contract: '0x4311bc59b6f7967dcf969c44f07672e602f3433d'

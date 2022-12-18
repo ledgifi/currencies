@@ -5,3 +5,5 @@ id_nomics: CHT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHT2.jpg
 logoKey: currencies/cht2.jpg
 name: CoinHe Token
+platform: ETH
+platform_contract: '0x3277dd536471a3cbeb0c9486acad494c95a31e73'

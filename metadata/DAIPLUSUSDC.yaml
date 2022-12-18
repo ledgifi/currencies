@@ -3,3 +3,5 @@ fiat: false
 id: DAIPLUSUSDC
 id_nomics: DAIPLUSUSDC
 name: Curve.fi DAI/USDC
+platform: FTM
+platform_contract: '0x27e611fd27b276acbd5ffd632e5eaebec9761e40'

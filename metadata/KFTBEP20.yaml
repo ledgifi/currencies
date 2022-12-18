@@ -5,3 +5,5 @@ id_nomics: KFTBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KFTBEP20.jpg
 logoKey: currencies/kftbep20.jpg
 name: Knit Finance (BEP-20)
+platform: BNB
+platform_contract: '0x1b41a1ba7722e6431b1a782327dbe466fe1ee9f9'

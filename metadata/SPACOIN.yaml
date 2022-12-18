@@ -3,3 +3,5 @@ fiat: false
 id: SPACOIN
 id_nomics: SPACOIN
 name: SpaCoin
+platform: MATIC
+platform_contract: '0x25ace4409d2ff52ca4789d706f699a5084273af5'

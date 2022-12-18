@@ -5,3 +5,5 @@ id_nomics: CRG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRG2.png
 logoKey: currencies/crg2.png
 name: Charger Coin
+platform: BNB
+platform_contract: '0x84da5c3014c8b5fea0cb4e2f0e7270889e8afd83'

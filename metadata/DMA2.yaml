@@ -3,3 +3,5 @@ fiat: false
 id: DMA2
 id_nomics: DMA2
 name: Dragoma
+platform: MATIC
+platform_contract: '0x16dfb898cf7029303c2376031392cb9bac450f94'

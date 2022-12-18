@@ -6,3 +6,5 @@ id_nomics: AVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVE.jpg
 logoKey: currencies/ave.jpg
 name: Avaware
+platform: AVAX
+platform_contract: '0x78ea17559b3d2cf85a7f9c2c704eda119db5e6de'

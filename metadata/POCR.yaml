@@ -3,3 +3,5 @@ fiat: false
 id: POCR
 id_nomics: POCR
 name: POCR Token
+platform: BNB
+platform_contract: '0x238657cf9a87bf2028d5f193adadccb7a09429fd'

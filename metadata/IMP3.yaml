@@ -5,3 +5,5 @@ id_nomics: IMP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IMP3.jpg
 logoKey: currencies/imp3.jpg
 name: Imperial Obelisk
+platform: ETH
+platform_contract: '0x42a0d24cb5c423eaaf926ce3984aaff0c4ff6fe2'

@@ -5,3 +5,5 @@ id_nomics: CLOUD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLOUD2.png
 logoKey: currencies/cloud2.png
 name: Cloud Tx
+platform: BNB
+platform_contract: '0xffad7f9f704a5fdc6265e24b436b4b35ed52def2'

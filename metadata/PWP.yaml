@@ -5,3 +5,5 @@ id_nomics: PWP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PWP.png
 logoKey: currencies/pwp.png
 name: Paywind Pay
+platform: BNB
+platform_contract: '0x3df48E4a024EebC107faD7b88aD312ea7127594d'

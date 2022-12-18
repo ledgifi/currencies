@@ -5,3 +5,5 @@ id_nomics: SPRUG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPRUG.png
 logoKey: currencies/sprug.png
 name: Sprug
+platform: MINTME
+platform_contract: '0xb0c9a038c55a18f9ec4224794fa815c82313153d'

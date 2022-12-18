@@ -5,3 +5,5 @@ id_nomics: GFARM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GFARM2.jpg
 logoKey: currencies/gfarm2.jpg
 name: Gains V2
+platform: ETH
+platform_contract: '0x831091da075665168e01898c6dac004a867f1e1b'

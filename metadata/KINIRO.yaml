@@ -3,3 +3,5 @@ fiat: false
 id: KINIRO
 id_nomics: KINIRO
 name: Kiniro Bank
+platform: ETH
+platform_contract: '0x40f43363f9e0584794b352807eafde49452d58ae'

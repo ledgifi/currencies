@@ -5,3 +5,5 @@ id_nomics: NABOXBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NABOXBEP20.png
 logoKey: currencies/naboxbep20.png
 name: Nabox (BEP-20)
+platform: BNB
+platform_contract: '0x755f34709e369d37c6fa52808ae84a32007d1155'

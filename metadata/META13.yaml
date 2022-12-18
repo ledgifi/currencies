@@ -5,3 +5,5 @@ id_nomics: META13
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/META13.jpeg
 logoKey: currencies/meta13.jpeg
 name: Metaset
+platform: BNB
+platform_contract: '0x70315f45ea31e646214e18d225c0b0629a01d44f'

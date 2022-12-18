@@ -6,3 +6,5 @@ id_nomics: TOU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOU.png
 logoKey: currencies/tou.png
 name: TOURISTOKEN
+platform: BNB
+platform_contract: '0x1e29ca8c874b4dff828297cc2e9856819eea0933'

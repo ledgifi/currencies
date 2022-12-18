@@ -5,3 +5,5 @@ id_nomics: ILOTTO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ILOTTO2.jpg
 logoKey: currencies/ilotto2.jpg
 name: Infinity Lotto2
+platform: BNB
+platform_contract: '0x9144Ab67d29a6B9819655A850036a7Db7DE4bbe8'

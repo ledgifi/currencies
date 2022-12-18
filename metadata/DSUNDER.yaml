@@ -3,3 +3,5 @@ fiat: false
 id: DSUNDER
 id_nomics: DSUNDER
 name: Sunder dToken
+platform: ETH
+platform_contract: '0x1696d007c0719bf02e37184f2fa2d37bccd11757'

@@ -3,3 +3,5 @@ fiat: false
 id: SAVAX
 id_nomics: SAVAX
 name: Staked AVAX
+platform: AVAX
+platform_contract: '0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be'

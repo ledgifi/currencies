@@ -5,3 +5,5 @@ id_nomics: CUBIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CUBIC.jpg
 logoKey: currencies/cubic.jpg
 name: Cubic Finance
+platform: ETH
+platform_contract: '0x88bb0ad86db019e5ccc17809206dad9cb38daff4'

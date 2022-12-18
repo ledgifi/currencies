@@ -5,3 +5,5 @@ id_nomics: SLAP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLAP2.png
 logoKey: currencies/slap2.png
 name: ChrisRockInu
+platform: BNB
+platform_contract: '0xc9e23d75ee33c1d71bad172c96459afea155ede0'

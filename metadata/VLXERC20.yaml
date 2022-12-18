@@ -5,3 +5,5 @@ id_nomics: VLXERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VLXERC20.jpg
 logoKey: currencies/vlxerc20.jpg
 name: Velas (ERC-20)
+platform: ETH
+platform_contract: '0x8c543aed163909142695f2d2acd0d55791a9edb9'

@@ -5,3 +5,5 @@ id_nomics: SUP4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUP4.jpg
 logoKey: currencies/sup4.jpg
 name: SupperCoin
+platform: BNB
+platform_contract: '0x90E9b9617DD4eF4946d3De553bB6d8B5CE97e46D'

@@ -3,3 +3,5 @@ fiat: false
 id: DEIP2
 id_nomics: DEIP2
 name: DEIP Protocol
+platform: NEAR
+platform_contract: deip-token.near

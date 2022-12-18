@@ -5,3 +5,5 @@ id_nomics: HINU2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HINU2.jpeg
 logoKey: currencies/hinu2.jpeg
 name: Hitoshi Inu
+platform: BNB
+platform_contract: '0x5c345ff3f91680a3b252A8dcAA14F314a601E576'

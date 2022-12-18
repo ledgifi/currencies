@@ -5,3 +5,5 @@ id_nomics: EURO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EURO3.jpeg
 logoKey: currencies/euro3.jpeg
 name: eurToken
+platform: BNB
+platform_contract: '0xffd9cdd12876db77c233888133fb09d49ac71ac2'

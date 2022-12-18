@@ -5,3 +5,5 @@ id_nomics: GDSY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GDSY2.jpg
 logoKey: currencies/gdsy2.jpg
 name: Golden Society Token V2
+platform: AVAX
+platform_contract: '0x955e02d81ca94d8af5a74ac44e19cbe921b9a51b'

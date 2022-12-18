@@ -5,3 +5,5 @@ id_nomics: K11
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/K11.png
 logoKey: currencies/k11.png
 name: Killer11
+platform: BNB
+platform_contract: '0x9232d82c084fd7014c11b263a6bf8f353d9dfced'

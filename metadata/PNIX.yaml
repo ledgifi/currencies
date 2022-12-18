@@ -5,3 +5,5 @@ id_nomics: PNIX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PNIX.jpg
 logoKey: currencies/pnix.jpg
 name: PhoenixDefi.Finance
+platform: BNB
+platform_contract: '0xc25d94fc3f8d7bd1d88f89802fe075338f71dec7'

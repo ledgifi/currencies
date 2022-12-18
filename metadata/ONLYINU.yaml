@@ -5,3 +5,5 @@ id_nomics: ONLYINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ONLYINU.jpg
 logoKey: currencies/onlyinu.jpg
 name: Only Inu
+platform: BNB
+platform_contract: '0xcbecc275370054a20526b7beeea22cdd8d8610af'

@@ -5,3 +5,5 @@ id_nomics: CFL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CFL2.jpg
 logoKey: currencies/cfl2.jpg
 name: Crypto Fantasy League
+platform: BNB
+platform_contract: '0x78ebc325641c9db284fc0e69305afbc0c92ab475'

@@ -5,3 +5,5 @@ id_nomics: LCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LCT.png
 logoKey: currencies/lct.png
 name: LendConnect
+platform: ETH
+platform_contract: '0x05c7065d644096a4e4c3fe24af86e36de021074b'

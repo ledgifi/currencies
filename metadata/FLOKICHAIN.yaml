@@ -5,3 +5,5 @@ id_nomics: FLOKICHAIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKICHAIN.png
 logoKey: currencies/flokichain.png
 name: Floki Chain
+platform: ETH
+platform_contract: '0x0c23a0ce478ada00df4e3c951b8fa6ffe7f1c56b'

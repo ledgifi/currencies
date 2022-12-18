@@ -6,3 +6,5 @@ id_nomics: SAFEBULL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFEBULL.jpg
 logoKey: currencies/safebull.jpg
 name: Safebull
+platform: BNB
+platform_contract: '0xfa344c08c93066a4d6266063c6ebc63925a18467'

@@ -6,3 +6,5 @@ id_nomics: GNY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GNY.png
 logoKey: currencies/gny.png
 name: GNY
+platform: ETH
+platform_contract: '0xb1f871Ae9462F1b2C6826E88A7827e76f86751d4'

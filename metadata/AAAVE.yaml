@@ -5,3 +5,5 @@ id_nomics: AAAVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AAAVE.jpg
 logoKey: currencies/aaave.jpg
 name: Aave AAVE
+platform: ETH
+platform_contract: '0xffc97d72e13e01096502cb8eb52dee56f74dad7b'

@@ -4,3 +4,5 @@ id: GADGET
 id_coinpaprika: gadget-inspector-crypto
 id_nomics: GADGET
 name: Inspector Crypto
+platform: ETH
+platform_contract: '0x337c456d481d1c09e615eeacc6f590e6d9c8fbae'

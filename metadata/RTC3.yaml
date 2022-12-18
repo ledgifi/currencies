@@ -3,3 +3,5 @@ fiat: false
 id: RTC3
 id_nomics: RTC3
 name: Reltime
+platform: ETH
+platform_contract: '0x47a85fe1ce3ce83d1a9184d42880cc71dfc7a494'

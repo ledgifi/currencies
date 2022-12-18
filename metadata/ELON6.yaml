@@ -5,3 +5,5 @@ id_nomics: ELON6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELON6.png
 logoKey: currencies/elon6.png
 name: Wheres Elon
+platform: BNB
+platform_contract: '0x6cd9006124fa396502053cdea40c453210c5a4b3'

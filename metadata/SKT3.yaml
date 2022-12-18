@@ -5,3 +5,5 @@ id_nomics: SKT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SKT3.jpg
 logoKey: currencies/skt3.jpg
 name: Sukhavati Network Token
+platform: ETH
+platform_contract: '0x012e0e6342308b247f36ee500ecb14dc77a7a8c1'

@@ -6,3 +6,5 @@ id_nomics: NVA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NVA.jpg
 logoKey: currencies/nva.jpg
 name: Neeva Defi
+platform: ETH
+platform_contract: '0x38f7cd43662d1cff4cc3c2c4b749f7cfed1d1db3'

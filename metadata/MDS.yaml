@@ -6,3 +6,5 @@ id_nomics: MDS
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/mds.svg
 logoKey: currencies/mds.svg
 name: MediShares
+platform: ETH
+platform_contract: '0x66186008c1050627f979d464eabb258860563dbe'

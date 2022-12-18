@@ -5,3 +5,5 @@ id_nomics: SOUND2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOUND2.jpg
 logoKey: currencies/sound2.jpg
 name: SoundBox
+platform: BNB
+platform_contract: '0xddf9b9a691ce1fa09de10d2d0f408b698f7bc1d2'

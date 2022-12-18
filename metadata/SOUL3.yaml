@@ -5,3 +5,5 @@ id_nomics: SOUL3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOUL3.jpg
 logoKey: currencies/soul3.jpg
 name: APOyield
+platform: BNB
+platform_contract: '0x67d012f731c23f0313cea1186d0121779c77fcfe'

@@ -5,3 +5,5 @@ id_nomics: XPERL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XPERL.jpg
 logoKey: currencies/xperl.jpg
 name: Perlin IOU
+platform: ETH
+platform_contract: '0x1fbbcfcfe97f27dea1b5e97fbfeb488b8b63e478'

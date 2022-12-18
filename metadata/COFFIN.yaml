@@ -6,3 +6,5 @@ id_nomics: COFFIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COFFIN.jpg
 logoKey: currencies/coffin.jpg
 name: Coffin Finance
+platform: FTM
+platform_contract: '0x593ab53baffaf1e821845cf7080428366f030a9c'

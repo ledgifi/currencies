@@ -5,3 +5,5 @@ id_nomics: MUMMY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MUMMY.jpeg
 logoKey: currencies/mummy.jpeg
 name: Mummyswap
+platform: FTM
+platform_contract: '0x2BA4836842E74a2212C2666739ac0Da2C426c243'

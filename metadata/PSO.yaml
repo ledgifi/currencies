@@ -3,3 +3,5 @@ fiat: false
 id: PSO
 id_nomics: PSO
 name: pso
+platform: BNB
+platform_contract: '0x438f910a82e1407d4beaf22cad138ba0d4fc0f30'

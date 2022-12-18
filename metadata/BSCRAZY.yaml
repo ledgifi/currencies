@@ -5,3 +5,5 @@ id_nomics: BSCRAZY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSCRAZY.png
 logoKey: currencies/bscrazy.png
 name: BatShit Crazy
+platform: BNB
+platform_contract: '0xa8755780c3992d63ee0a155e18ffcfb77c446e4d'

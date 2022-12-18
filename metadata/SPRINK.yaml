@@ -6,3 +6,5 @@ id_nomics: SPRINK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPRINK.jpg
 logoKey: currencies/sprink.jpg
 name: Sprink
+platform: ETH
+platform_contract: '0xbef7cb91fe9cd57f0c60811b83ab5f8e0dab8795'

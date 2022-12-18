@@ -5,3 +5,5 @@ id_nomics: CHADMETA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHADMETA.png
 logoKey: currencies/chadmeta.png
 name: Chad Meta
+platform: BNB
+platform_contract: '0x992b6a3551770656889dd06d9bf3969d3f3fc089'

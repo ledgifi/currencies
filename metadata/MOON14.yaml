@@ -5,3 +5,5 @@ id_nomics: MOON14
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOON14.jpg
 logoKey: currencies/moon14.jpg
 name: BabyCakeMoon
+platform: BNB
+platform_contract: '0xc3d6cdb61a5c7ce28a92294b53918db333afbfb4'

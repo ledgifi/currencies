@@ -3,3 +3,5 @@ fiat: false
 id: PACEM
 id_nomics: PACEM
 name: PACEM
+platform: BNB
+platform_contract: '0x75abd44477dd89a41d04ec1c59c462c448c19a07'

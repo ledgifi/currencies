@@ -3,3 +3,5 @@ fiat: false
 id: OIR
 id_nomics: OIR
 name: Irish Gold
+platform: MATIC
+platform_contract: '0x2457ad300bdf9d672561c40c4ac31392e15aafd8'

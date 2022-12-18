@@ -6,3 +6,5 @@ id_nomics: QC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QC.png
 logoKey: currencies/qc.png
 name: Qcash
+platform: QTUM
+platform_contract: f2033ede578e17fa6231047265010445bca8cf1c

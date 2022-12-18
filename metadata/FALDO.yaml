@@ -3,3 +3,5 @@ fiat: false
 id: FALDO
 id_nomics: FALDO
 name: Faldo Token
+platform: ETH
+platform_contract: '0x57e11b2f52e57c2173217ae87b9a0f16875c2957'

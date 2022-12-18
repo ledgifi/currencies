@@ -6,3 +6,5 @@ id_nomics: SIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIT.jpg
 logoKey: currencies/sit.jpg
 name: Sitadel
+platform: BNB
+platform_contract: '0x46739726b0b04a04d438c47f9ea2c230cb753b84'

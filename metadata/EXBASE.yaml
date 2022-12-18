@@ -3,3 +3,5 @@ fiat: false
 id: EXBASE
 id_nomics: EXBASE
 name: exbase.finance
+platform: ETH
+platform_contract: '0x15c5339954a1016c77732ea626cc714b0d37dd6a'

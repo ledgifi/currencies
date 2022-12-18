@@ -5,3 +5,5 @@ id_nomics: HDAO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HDAO3.jpg
 logoKey: currencies/hdao3.jpg
 name: humanDAO
+platform: ETH
+platform_contract: '0xdac657ffd44a3b9d8aba8749830bf14beb66ff2d'

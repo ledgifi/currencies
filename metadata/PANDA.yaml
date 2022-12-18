@@ -5,3 +5,5 @@ id_nomics: PANDA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PANDA.jpg
 logoKey: currencies/panda.jpg
 name: PandaGold
+platform: ETH
+platform_contract: '0x0a5dc2204dfc6082ef3bbcfc3a468f16318c4168'

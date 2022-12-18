@@ -5,3 +5,5 @@ id_nomics: RC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RC.png
 logoKey: currencies/rc.png
 name: Racecoin
+platform: ETH
+platform_contract: '0x2ff0a6868e80e0177295a3ebfca75f9bae074499'

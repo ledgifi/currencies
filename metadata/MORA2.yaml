@@ -5,3 +5,5 @@ id_nomics: MORA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MORA2.jpg
 logoKey: currencies/mora2.jpg
 name: MoraFi
+platform: BNB
+platform_contract: '0x03Db1233c4fEBE3d520931E43e6289bFfB5aDA20'

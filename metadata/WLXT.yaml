@@ -3,3 +3,5 @@ fiat: false
 id: WLXT
 id_nomics: WLXT
 name: Wallex Token
+platform: ETH
+platform_contract: '0x1fd389ac8e6c958b0f01067540fdff8a11488201'

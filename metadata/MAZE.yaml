@@ -5,3 +5,5 @@ id_nomics: MAZE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAZE.jpg
 logoKey: currencies/maze.jpg
 name: Mazecurrency
+platform: ETH
+platform_contract: '0x65e8f2e28bc2ab0d64213201225de53ec0ac044c'

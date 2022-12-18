@@ -5,3 +5,5 @@ id_nomics: LUNAT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUNAT2.jpg
 logoKey: currencies/lunat2.jpg
 name: Lunatics 2.0
+platform: BNB
+platform_contract: '0x68859d5d93214a882d7946cf44bbb4a3e5ace5a7'

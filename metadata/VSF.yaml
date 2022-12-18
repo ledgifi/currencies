@@ -6,3 +6,5 @@ id_nomics: VSF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/vsf.jpg
 logoKey: currencies/vsf.jpg
 name: VeriSafe
+platform: ETH
+platform_contract: '0xac9ce326e95f51b5005e9fe1dd8085a01f18450c'

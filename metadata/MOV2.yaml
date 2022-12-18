@@ -3,3 +3,5 @@ fiat: false
 id: MOV2
 id_nomics: MOV2
 name: MOVN
+platform: MATIC
+platform_contract: '0x6d802ac662b898622f7a13e1f4cb1a50c7085b6e'

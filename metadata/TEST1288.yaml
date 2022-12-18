@@ -3,3 +3,5 @@ fiat: false
 id: TEST1288
 id_nomics: TEST1288
 name: Token
+platform: MATIC
+platform_contract: '0xadb2df02793484b8ca511232a329a1f756527131'

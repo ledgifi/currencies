@@ -5,3 +5,5 @@ id_nomics: LTS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LTS3.png
 logoKey: currencies/lts3.png
 name: Lotus
+platform: BNB
+platform_contract: '0x833a2ce4957fb66d67a135fee940def77080d300'

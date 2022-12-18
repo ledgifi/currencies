@@ -5,3 +5,5 @@ id_nomics: PIGO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIGO2.jpg
 logoKey: currencies/pigo2.jpg
 name: Pigodzilla
+platform: BNB
+platform_contract: '0x8Eb4e0c4C4896827a1B4d6Aea52f2a93609Ebb62'

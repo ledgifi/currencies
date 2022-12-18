@@ -6,3 +6,5 @@ id_nomics: GAV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAV.jpg
 logoKey: currencies/gav.jpg
 name: Gravisible
+platform: BNB
+platform_contract: '0xdd79c56410fc922552b8afd6d0e29f4f046e4c6d'

@@ -5,3 +5,5 @@ id_nomics: TGDY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TGDY.jpg
 logoKey: currencies/tgdy.jpg
 name: Tegridy
+platform: BNB
+platform_contract: '0x4763d54b2c22ac684a7bf7d144e19322593598e3'

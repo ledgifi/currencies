@@ -6,3 +6,5 @@ id_nomics: MNTT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MNTT.jpg
 logoKey: currencies/mntt.jpg
 name: MoonTrust
+platform: BNB
+platform_contract: '0x390037d710c86f88f05174599425b77c72eda305'

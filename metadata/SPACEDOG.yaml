@@ -5,3 +5,5 @@ id_nomics: SPACEDOG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPACEDOG.jpg
 logoKey: currencies/spacedog.jpg
 name: Space dog
+platform: BNB
+platform_contract: '0xd034c1f3cd74094fe966a0f25c9e5a21a21eb487'

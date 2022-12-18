@@ -6,3 +6,5 @@ id_nomics: '432'
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/432.png
 logoKey: currencies/432.png
 name: '432'
+platform: BNB
+platform_contract: '0xa70D63006778FDB03C9B199988D623456F90a29B'

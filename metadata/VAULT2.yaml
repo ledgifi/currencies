@@ -5,3 +5,5 @@ id_nomics: VAULT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VAULT2.jpg
 logoKey: currencies/vault2.jpg
 name: VAULT Token
+platform: BNB
+platform_contract: '0x66ca60d2d25398e7e08f87277e6e50ee41a3e11f'

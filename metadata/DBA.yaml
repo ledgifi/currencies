@@ -6,3 +6,5 @@ id_nomics: DBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DBA.jpg
 logoKey: currencies/dba.jpg
 name: Digital Bank of Africa
+platform: BNB
+platform_contract: '0x1006ea3289b833b6720aaa82746990ec77de8c36'

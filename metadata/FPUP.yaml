@@ -5,3 +5,5 @@ id_nomics: FPUP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FPUP.jpg
 logoKey: currencies/fpup.jpg
 name: FTM PUP Token
+platform: FTM
+platform_contract: '0x900825ea297c7c5d1f6fa54146849bc41eddaf29'

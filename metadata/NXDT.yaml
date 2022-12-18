@@ -5,3 +5,5 @@ id_nomics: NXDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NXDT.png
 logoKey: currencies/nxdt.png
 name: NXD Next
+platform: BNB
+platform_contract: '0xadf6d29572af16de3c44e6b89d2d8e0380044fa6'

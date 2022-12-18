@@ -3,3 +3,5 @@ fiat: false
 id: INKZ
 id_nomics: INKZ
 name: INKzToken
+platform: ETH
+platform_contract: '0xd0c37cda48fe5d6ee7132181a90dc58206db5404'

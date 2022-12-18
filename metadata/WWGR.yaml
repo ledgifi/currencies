@@ -5,3 +5,5 @@ id_nomics: WWGR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WWGR.png
 logoKey: currencies/wwgr.png
 name: Wrapped Wagerr
+platform: ETH
+platform_contract: '0xc237868a9c5729bdf3173dddacaa336a0a5bb6e0'

@@ -5,3 +5,5 @@ id_nomics: SLV3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLV3.jpg
 logoKey: currencies/slv3.jpg
 name: Slavi Coin
+platform: BNB
+platform_contract: '0x187d0bf09572b10c89e717b9473e07a5a157855a'

@@ -5,3 +5,5 @@ id_nomics: GORE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GORE.png
 logoKey: currencies/gore.png
 name: Gorezilla
+platform: BNB
+platform_contract: '0x6421a0def32c7dda20890d9a3de04e1e14904d70'

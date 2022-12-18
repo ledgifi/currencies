@@ -3,3 +3,5 @@ fiat: false
 id: FLIGHT
 id_nomics: FLIGHT
 name: World Flight
+platform: BNB
+platform_contract: '0xf8cbf2c40b641449d29e97a03c76b7d15bc7415e'

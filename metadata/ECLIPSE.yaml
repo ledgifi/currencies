@@ -3,3 +3,5 @@ fiat: false
 id: ECLIPSE
 id_nomics: ECLIPSE
 name: Luna Eclipse
+platform: ETH
+platform_contract: '0xc02ca6cf36239e920d97a618dc9470950c5a7add'

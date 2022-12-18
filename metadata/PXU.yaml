@@ -6,3 +6,5 @@ id_nomics: PXU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PXU.jpg
 logoKey: currencies/pxu.jpg
 name: Phoenix Unity
+platform: BNB
+platform_contract: '0x2acd4d05cbfdb78f46f0b4ef32aff32c74e8afbe'

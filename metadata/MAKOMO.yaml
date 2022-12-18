@@ -3,3 +3,5 @@ fiat: false
 id: MAKOMO
 id_nomics: MAKOMO
 name: MakomoToken
+platform: ETH
+platform_contract: '0x74d248e2ce96b732172f0c57263cdef914324a58'

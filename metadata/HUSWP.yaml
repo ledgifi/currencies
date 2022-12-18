@@ -3,3 +3,5 @@ fiat: false
 id: HUSWP
 id_nomics: HUSWP
 name: Hugeswap
+platform: ETH
+platform_contract: '0x33cf48debdcf255b689a7b1d6be5661ec832cc30'

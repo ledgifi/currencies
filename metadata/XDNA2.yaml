@@ -5,3 +5,5 @@ id_nomics: XDNA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XDNA2.jpg
 logoKey: currencies/xdna2.jpg
 name: extraDNA
+platform: ETH
+platform_contract: '0x8e57c27761ebbd381b0f9d09bb92ceb51a358abb'

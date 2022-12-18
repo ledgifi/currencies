@@ -3,3 +3,5 @@ fiat: false
 id: HONGKONG
 id_nomics: HONGKONG
 name: Hong Kong
+platform: ETH
+platform_contract: '0x55f29c0ea278052df597882260ee196e950f0d0c'

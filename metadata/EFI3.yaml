@@ -3,3 +3,5 @@ fiat: false
 id: EFI3
 id_nomics: EFI3
 name: EarnableFi
+platform: ETH
+platform_contract: '0x48666fe01d123d14b53eacf21f36786f2a786c86'

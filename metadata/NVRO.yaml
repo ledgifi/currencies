@@ -5,3 +5,5 @@ id_nomics: NVRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NVRO.jpg
 logoKey: currencies/nvro.jpg
 name: Enviro Token
+platform: BNB
+platform_contract: '0x7617b3FCB5B4103439c100E710c2615bd3D334C3'

@@ -3,3 +3,5 @@ fiat: false
 id: MOONGOOSE
 id_nomics: MOONGOOSE
 name: Moongoose Coin
+platform: ETH
+platform_contract: '0x47aa3a428f4476f3c52994024332ced51932f306'

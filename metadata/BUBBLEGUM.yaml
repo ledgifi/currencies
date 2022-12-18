@@ -5,3 +5,5 @@ id_nomics: BUBBLEGUM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUBBLEGUM.jpeg
 logoKey: currencies/bubblegum.jpeg
 name: Bubblegum
+platform: BNB
+platform_contract: '0x58bfc98f3974aef4fed9a0168b97cccd3512cb4a'

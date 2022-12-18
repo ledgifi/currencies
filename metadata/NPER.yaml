@@ -6,3 +6,5 @@ id_nomics: NPER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NPER.png
 logoKey: currencies/nper.png
 name: NPER
+platform: ETH
+platform_contract: '0x4ce6b362bc77a24966dda9078f9cef81b3b886a7'

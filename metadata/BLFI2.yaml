@@ -5,3 +5,5 @@ id_nomics: BLFI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLFI2.png
 logoKey: currencies/blfi2.png
 name: Blockify
+platform: BNB
+platform_contract: '0xb1922c9bb683768622d7e714348946addf4a3da2'

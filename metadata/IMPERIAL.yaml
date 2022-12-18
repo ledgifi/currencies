@@ -3,3 +3,5 @@ fiat: false
 id: IMPERIAL
 id_nomics: IMPERIAL
 name: Imperial Financial
+platform: BNB
+platform_contract: '0xe8242509a35fab08aed9c7c417edf2ab0b3e4d80'

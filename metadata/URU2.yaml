@@ -5,3 +5,5 @@ id_nomics: URU2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/URU2.jpeg
 logoKey: currencies/uru2.jpeg
 name: URU Token V2
+platform: BNB
+platform_contract: '0x2582a0a17b7af2faf7815432b14a2fa35511bbae'

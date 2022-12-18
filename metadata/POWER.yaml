@@ -6,3 +6,5 @@ id_nomics: POWER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POWER.jpg
 logoKey: currencies/power.jpg
 name: UniPower
+platform: ETH
+platform_contract: '0xf2f9a7e93f845b3ce154efbeb64fb9346fcce509'

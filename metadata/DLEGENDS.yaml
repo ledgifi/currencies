@@ -6,3 +6,5 @@ id_nomics: DLEGENDS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DLEGENDS.jpg
 logoKey: currencies/dlegends.jpg
 name: My Defi Legends
+platform: BNB
+platform_contract: '0x88c55b3255ae1e6628c953c5cdff27ad3cc33c81'

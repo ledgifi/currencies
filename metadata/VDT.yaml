@@ -5,3 +5,5 @@ id_nomics: VDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VDT.jpg
 logoKey: currencies/vdt.jpg
 name: Vera Dividend Token
+platform: BNB
+platform_contract: '0xe2e1b859be6279d44afaed77dee45b9a31ee786a'

@@ -5,3 +5,5 @@ id_nomics: BNBTIGER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNBTIGER.jpg
 logoKey: currencies/bnbtiger.jpg
 name: Bnb Tiger Inu
+platform: BNB
+platform_contract: '0xac68931b666e086e9de380cfdb0fb5704a35dc2d'

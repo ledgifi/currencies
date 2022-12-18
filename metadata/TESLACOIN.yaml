@@ -3,3 +3,5 @@ fiat: false
 id: TESLACOIN
 id_nomics: TESLACOIN
 name: Tesla Coin
+platform: BNB
+platform_contract: '0xa8427d40d8dcab1f5d89640579a688c0bc01c5df'

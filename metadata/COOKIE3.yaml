@@ -5,3 +5,5 @@ id_nomics: COOKIE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COOKIE3.jpg
 logoKey: currencies/cookie3.jpg
 name: CookieSale
+platform: BNB
+platform_contract: '0x6d342877fc199c629f49a5c6c521c297b15bc92d'

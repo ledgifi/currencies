@@ -3,3 +3,5 @@ fiat: false
 id: XEO
 id_nomics: XEO
 name: Xeo
+platform: ETH
+platform_contract: '0x1c9e899c530e8ec57dc5526fa176a80200c926a5'

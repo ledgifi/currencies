@@ -6,3 +6,5 @@ id_nomics: MECH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MECH.jpg
 logoKey: currencies/mech.jpg
 name: Mech Master
+platform: BNB
+platform_contract: '0xc7b7844494c516b840a7a4575ff3e60ff0f056a9'

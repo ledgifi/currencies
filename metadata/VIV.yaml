@@ -5,3 +5,5 @@ id_nomics: VIV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VIV.png
 logoKey: currencies/viv.png
 name: Vival V2
+platform: BNB
+platform_contract: '0x4666e77fa1a7f6749e48b533ef500587b094f61c'

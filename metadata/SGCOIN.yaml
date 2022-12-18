@@ -3,3 +3,5 @@ fiat: false
 id: SGCOIN
 id_nomics: SGCOIN
 name: GMONEY
+platform: MATIC
+platform_contract: '0x951806a2581c22c478ac613a675e6c898e2abe21'

@@ -3,3 +3,5 @@ fiat: false
 id: ESATOSHI
 id_nomics: ESATOSHI
 name: Ethereum Satoshi
+platform: ETH
+platform_contract: '0x4b3c776b577ac86cfd5961b30aa6c38815e577bb'

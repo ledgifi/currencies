@@ -5,3 +5,5 @@ id_nomics: WAR8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAR8.jpg
 logoKey: currencies/war8.jpg
 name: Robot Wars
+platform: BNB
+platform_contract: '0xce842fd2ebe59aed59c30c728fcc2c3e1a9e88c4'

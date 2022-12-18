@@ -5,3 +5,5 @@ id_nomics: VMA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VMA2.jpg
 logoKey: currencies/vma2.jpg
 name: Virtual Meta
+platform: BNB
+platform_contract: '0xcc6c9773a8a70c4642dffceb017742830aaac1a6'

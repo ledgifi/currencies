@@ -3,3 +3,5 @@ fiat: false
 id: BSBOT
 id_nomics: BSBOT
 name: Buoystocks
+platform: BNB
+platform_contract: '0x273edfe2a6aa8dce9a6fea380c3d518252d7e82b'

@@ -5,3 +5,5 @@ id_nomics: LIRAERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIRAERC20.png
 logoKey: currencies/liraerc20.png
 name: Lira (ERC-20) V1 (OLD)
+platform: ETH
+platform_contract: '0xfd46f44a5ad3227a7325b695b6ea1aa549862309'

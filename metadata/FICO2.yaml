@@ -5,3 +5,5 @@ id_nomics: FICO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FICO2.jpg
 logoKey: currencies/fico2.jpg
 name: Fish Crypto
+platform: BNB
+platform_contract: '0x29cabf2a1e5de6f0ebc39ca6fe83c687fe90fb6c'

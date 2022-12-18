@@ -6,3 +6,5 @@ id_nomics: CAKEPUNKS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAKEPUNKS.jpeg
 logoKey: currencies/cakepunks.jpeg
 name: CakePunks
+platform: BNB
+platform_contract: '0xe1dfd41fba67ab6e26a7072fa97508506093ac01'

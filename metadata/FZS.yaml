@@ -5,3 +5,5 @@ id_nomics: FZS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FZS.jpeg
 logoKey: currencies/fzs.jpeg
 name: Fozeus
+platform: BNB
+platform_contract: '0xfc225919d42999d23de3b80ced99f427f97e779a'

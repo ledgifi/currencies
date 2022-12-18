@@ -3,3 +3,5 @@ fiat: false
 id: LXD
 id_nomics: LXD
 name: Luxodo
+platform: ETH
+platform_contract: '0x261a614280ed5a2eebf77c6a783ce807099a9457'

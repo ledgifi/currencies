@@ -6,3 +6,5 @@ id_nomics: TRUBGR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRUBGR.jpg
 logoKey: currencies/trubgr.jpg
 name: TruBadger
+platform: BNB
+platform_contract: '0xc003f5193cabe3a6cbb56948dfeaae2276a6aa5e'

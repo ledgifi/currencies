@@ -6,3 +6,5 @@ id_nomics: EARNX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EARNX.jpg
 logoKey: currencies/earnx.jpg
 name: EarnX
+platform: BNB
+platform_contract: '0x9c28e48ea9170d9a9cb76d338655b8bd4124bc7a'

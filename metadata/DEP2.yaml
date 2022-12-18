@@ -5,3 +5,5 @@ id_nomics: DEP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEP2.jpg
 logoKey: currencies/dep2.jpg
 name: Depth Token
+platform: HT
+platform_contract: '0x48c859531254f25e57d1c1a8e030ef0b1c895c27'

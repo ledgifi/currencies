@@ -3,3 +3,5 @@ fiat: false
 id: ZNB
 id_nomics: ZNB
 name: ZNB
+platform: BNB
+platform_contract: '0x09da3daabf178dd471e5971705e3e9fdc810f12f'

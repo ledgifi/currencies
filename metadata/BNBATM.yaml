@@ -3,3 +3,5 @@ fiat: false
 id: BNBATM
 id_nomics: BNBATM
 name: BNBATM
+platform: BNB
+platform_contract: '0x511d5e8595a9da0428deb1d112ea4ea6d5f9d550'

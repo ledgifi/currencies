@@ -5,3 +5,5 @@ id_nomics: SLD4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLD4.jpg
 logoKey: currencies/sld4.jpg
 name: ShieldEX
+platform: BNB
+platform_contract: '0x1ef6a7e2c966fb7c5403efefde38338b1a95a084'

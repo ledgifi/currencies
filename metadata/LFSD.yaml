@@ -5,3 +5,5 @@ id_nomics: LFSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LFSD.png
 logoKey: currencies/lfsd.png
 name: Left Side
+platform: BNB
+platform_contract: '0x5F498d121792A23ad177b0980CC6B0e822D92A5F'

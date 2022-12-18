@@ -3,3 +3,5 @@ fiat: false
 id: CC9
 id_nomics: CC9
 name: CowCoin
+platform: BNB
+platform_contract: '0x982de39fb553c7b4399940a811c6078a87d4efba'

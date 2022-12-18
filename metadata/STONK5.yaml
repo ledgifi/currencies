@@ -5,3 +5,5 @@ id_nomics: STONK5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STONK5.png
 logoKey: currencies/stonk5.png
 name: Stonks
+platform: BNB
+platform_contract: '0x52fd0db7597c332c0d3449a35f03625d881c3117'

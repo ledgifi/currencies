@@ -3,3 +3,5 @@ fiat: false
 id: FOELON
 id_nomics: FOELON
 name: Funding Organization
+platform: ETH
+platform_contract: '0x915e321f827328bfcb01fd75770b11d2b79d7ade'

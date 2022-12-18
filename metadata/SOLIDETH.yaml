@@ -6,3 +6,5 @@ id_nomics: SOLIDETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOLIDETH.jpg
 logoKey: currencies/solideth.jpg
 name: SolidETH
+platform: BNB
+platform_contract: '0x5d772ca965648bcdbc263a7e672b46d214cca432'

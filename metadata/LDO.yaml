@@ -8,3 +8,5 @@ id_nomics: LDO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LDO.png
 logoKey: currencies/ldo.png
 name: Lido DAO
+platform: ETH
+platform_contract: '0x5a98fcbea516cf06857215779fd812ca3bef1b32'

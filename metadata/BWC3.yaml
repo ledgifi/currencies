@@ -5,3 +5,5 @@ id_nomics: BWC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BWC3.jpg
 logoKey: currencies/bwc3.jpg
 name: Bet World Cup
+platform: BNB
+platform_contract: '0x86e4cc6fb6c7776bbdf4189feb75c4b8b1cf5d11'

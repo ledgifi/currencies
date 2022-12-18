@@ -5,3 +5,5 @@ id_nomics: GOBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOBTC.png
 logoKey: currencies/gobtc.png
 name: goBTC
+platform: ALGO
+platform_contract: '386192725'

@@ -5,3 +5,5 @@ id_nomics: BRK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRK2.jpg
 logoKey: currencies/brk2.jpg
 name: BlueArk
+platform: BNB
+platform_contract: '0xd045d776d894ec6e8b685dbef196527ea8720bab'

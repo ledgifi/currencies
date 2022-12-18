@@ -6,3 +6,5 @@ id_nomics: SYMM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SYMM.jpg
 logoKey: currencies/symm.jpg
 name: Symmetric
+platform: ETH
+platform_contract: '0x57db3ffca78dbbe0efa0ec745d55f62aa0cbd345'

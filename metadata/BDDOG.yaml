@@ -3,3 +3,5 @@ fiat: false
 id: BDDOG
 id_nomics: BDDOG
 name: bddogtoken
+platform: HT
+platform_contract: '0x9cb64b9e89d65e79a2f606e4148806a7e01f1acf'

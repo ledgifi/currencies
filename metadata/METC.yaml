@@ -3,3 +3,5 @@ fiat: false
 id: METC
 id_nomics: METC
 name: METC
+platform: MATIC
+platform_contract: '0x1564ea1d27e541973783d90b23329633b6686e91'

@@ -6,3 +6,5 @@ id_nomics: ALOHA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALOHA.jpg
 logoKey: currencies/aloha.jpg
 name: Aloha
+platform: ETH
+platform_contract: '0x455f7ef6d8bcfc35f9337e85aee1b0600a59fabe'

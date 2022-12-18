@@ -5,3 +5,5 @@ id_nomics: AVNBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVNBEP20.jpg
 logoKey: currencies/avnbep20.jpg
 name: AVNRich (BEP-20)
+platform: BNB
+platform_contract: '0xbf151f63d8d1287db5fc7a3bc104a9c38124cdeb'

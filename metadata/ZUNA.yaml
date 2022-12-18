@@ -6,3 +6,5 @@ id_nomics: ZUNA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZUNA.jpeg
 logoKey: currencies/zuna.jpeg
 name: Zuna
+platform: BNB
+platform_contract: '0x5d07edaba2151a3c6802b28636ecc23082398edb'

@@ -8,3 +8,5 @@ id_nomics: AKRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AKRO.png
 logoKey: currencies/akro.png
 name: Akropolis
+platform: ETH
+platform_contract: '0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7'

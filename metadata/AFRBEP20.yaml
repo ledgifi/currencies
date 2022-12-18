@@ -5,3 +5,5 @@ id_nomics: AFRBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AFRBEP20.jpg
 logoKey: currencies/afrbep20.jpg
 name: Afreum (BEP-20)
+platform: BNB
+platform_contract: '0x0a5bc35f81c4e12a5aa6c09144d33f5da7b9ceec'

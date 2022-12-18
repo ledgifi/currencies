@@ -5,3 +5,5 @@ id_nomics: MXEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MXEN.jpg
 logoKey: currencies/mxen.jpg
 name: Xen (Polygon)
+platform: MATIC
+platform_contract: '0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e'

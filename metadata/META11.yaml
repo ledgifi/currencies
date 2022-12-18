@@ -5,3 +5,5 @@ id_nomics: META11
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/META11.jpg
 logoKey: currencies/meta11.jpg
 name: META GROW
+platform: BNB
+platform_contract: '0x2a5e3d7570425a7e7d0e7722c352d8d2b6945c7c'

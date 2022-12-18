@@ -6,3 +6,5 @@ id_nomics: GMNG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMNG.jpg
 logoKey: currencies/gmng.jpg
 name: Global Gaming
+platform: ETH
+platform_contract: '0xcf81e6fdb8d7a743c3d4c3542a5356ff197ea1c0'

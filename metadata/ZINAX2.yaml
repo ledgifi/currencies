@@ -5,3 +5,5 @@ id_nomics: ZINAX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZINAX2.png
 logoKey: currencies/zinax2.png
 name: ZinaX Token V2
+platform: BNB
+platform_contract: '0xa973f2ec4ab693bb0b3a68279c9d9832e207d886'

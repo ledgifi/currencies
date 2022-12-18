@@ -6,3 +6,5 @@ id_nomics: ECHT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECHT.png
 logoKey: currencies/echt.png
 name: e-Chat
+platform: ETH
+platform_contract: '0x1a2277c83930b7a64c3e3d5544eaa8c4f946b1b7'

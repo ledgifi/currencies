@@ -5,3 +5,5 @@ id_nomics: AMIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMIS.png
 logoKey: currencies/amis.png
 name: AMIS
+platform: ETH
+platform_contract: '0x949bed886c739f1a3273629b3320db0c5024c719'

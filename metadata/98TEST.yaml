@@ -3,3 +3,5 @@ fiat: false
 id: 98TEST
 id_nomics: 98TEST
 name: 98#test Token
+platform: MATIC
+platform_contract: '0xe9e81da8ac2d488f92a6ce5b451ec6e1bbd6fcbb'

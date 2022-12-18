@@ -5,3 +5,5 @@ id_nomics: MTNFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTNFT.jpeg
 logoKey: currencies/mtnft.jpeg
 name: METAMOONNFT
+platform: BNB
+platform_contract: '0x71ac003c2724446d95DAE545e923788a5B84086c'

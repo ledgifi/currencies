@@ -5,3 +5,5 @@ id_nomics: BYK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BYK2.jpg
 logoKey: currencies/byk2.jpg
 name: Byakko
+platform: BNB
+platform_contract: '0xc57612d32c970c2279539ab4c017bc9e66f17e82'

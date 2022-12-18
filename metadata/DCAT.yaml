@@ -5,3 +5,5 @@ id_nomics: DCAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DCAT.jpg
 logoKey: currencies/dcat.jpg
 name: DonutCat
+platform: BNB
+platform_contract: '0xb6cf9444994f0d5d7c8956d13e661f8649a4e98a'

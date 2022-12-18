@@ -5,3 +5,5 @@ id_nomics: DGX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DGX2.jpg
 logoKey: currencies/dgx2.jpg
 name: Memegimon
+platform: BNB
+platform_contract: '0xf671edaf2b4b20a1bc4505a4011951cb320623f5'

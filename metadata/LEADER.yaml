@@ -3,3 +3,5 @@ fiat: false
 id: LEADER
 id_nomics: LEADER
 name: Serving Leader Token
+platform: ETH
+platform_contract: '0xceffd4de4fc0b6b3479aa63699dd2c4988fe99f3'

@@ -6,3 +6,5 @@ id_nomics: XLMX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XLMX.png
 logoKey: currencies/xlmx.png
 name: Stellar Classic
+platform: ETH
+platform_contract: '0x1e66008a24a486456a796e0c771fdc0cdf43cad9'

@@ -6,3 +6,5 @@ id_nomics: PEER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEER.jpg
 logoKey: currencies/peer.jpg
 name: Unilord
+platform: ETH
+platform_contract: '0x5dd115eb39a0fc5da9022e4bbb8e8679ca066a74'

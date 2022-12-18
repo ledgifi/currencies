@@ -5,3 +5,5 @@ id_nomics: TROLLS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TROLLS.jpg
 logoKey: currencies/trolls.jpg
 name: Trolls Token
+platform: ETH
+platform_contract: '0x7d9ce0781a3592309657c06324d906032885bec5'

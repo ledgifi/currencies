@@ -3,3 +3,5 @@ fiat: false
 id: SBER
 id_nomics: SBER
 name: Sbercoin
+platform: ETH
+platform_contract: '0x7e0517f9e9b2736d4d94e0a632d6c257e431941b'

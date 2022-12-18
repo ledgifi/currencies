@@ -6,3 +6,5 @@ id_nomics: TRDL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRDL.jpg
 logoKey: currencies/trdl.jpg
 name: Strudel Finance
+platform: ETH
+platform_contract: '0x297d33e17e61c2ddd812389c2105193f8348188a'

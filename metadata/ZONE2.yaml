@@ -5,3 +5,5 @@ id_nomics: ZONE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZONE2.jpg
 logoKey: currencies/zone2.jpg
 name: Zone
+platform: ALGO
+platform_contract: '444035862'

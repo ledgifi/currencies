@@ -6,3 +6,5 @@ id_nomics: B1P
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/B1P.png
 logoKey: currencies/b1p.png
 name: B ONE PAYMENT
+platform: ETH
+platform_contract: '0x4b742b5bdb1d252907ae7f399a891d4a178dbc24'

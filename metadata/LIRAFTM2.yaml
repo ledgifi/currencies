@@ -5,3 +5,5 @@ id_nomics: LIRAFTM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIRAFTM2.png
 logoKey: currencies/liraftm2.png
 name: Lira (Fantom) V2
+platform: FTM
+platform_contract: '0x8031c44b96ec8c9b66ab16c2c164e8deeb361a3f'

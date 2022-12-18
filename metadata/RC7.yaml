@@ -5,3 +5,5 @@ id_nomics: RC7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RC7.png
 logoKey: currencies/rc7.png
 name: Real Coin
+platform: BNB
+platform_contract: '0x8C03AD4Bd6dDcA45a8aeD4188F097CC93340cd96'

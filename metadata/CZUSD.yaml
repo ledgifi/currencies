@@ -6,3 +6,5 @@ id_nomics: CZUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CZUSD.png
 logoKey: currencies/czusd.png
 name: CZUSD
+platform: BNB
+platform_contract: '0xe68b79e51bf826534ff37aa9cee71a3842ee9c70'

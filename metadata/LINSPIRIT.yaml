@@ -5,3 +5,5 @@ id_nomics: LINSPIRIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LINSPIRIT.png
 logoKey: currencies/linspirit.png
 name: linSpirit
+platform: FTM
+platform_contract: '0xc5713b6a0f26bf0fdc1c52b90cd184d950be515c'

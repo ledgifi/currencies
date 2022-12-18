@@ -5,3 +5,5 @@ id_nomics: CATCOINERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CATCOINERC20.jpg
 logoKey: currencies/catcoinerc20.jpg
 name: CatCoin (ERC-20)
+platform: ETH
+platform_contract: '0x3e362283b86c1b45097cc3fb02213b79cf6211df'

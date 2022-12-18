@@ -5,3 +5,5 @@ id_nomics: FTS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FTS2.jpg
 logoKey: currencies/fts2.jpg
 name: FootballStars
+platform: BNB
+platform_contract: '0x6507458bb53aec6be863161641ec28739c41cc97'

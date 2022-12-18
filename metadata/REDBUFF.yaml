@@ -6,3 +6,5 @@ id_nomics: REDBUFF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REDBUFF.jpg
 logoKey: currencies/redbuff.jpg
 name: RedBuff Token
+platform: BNB
+platform_contract: '0x9ec132c19f2c35272de3f81a75d674752d952da8'

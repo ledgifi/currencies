@@ -5,3 +5,5 @@ id_nomics: L2DAO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/L2DAO.jpg
 logoKey: currencies/l2dao.jpg
 name: Layer2DAO
+platform: ARBETH
+platform_contract: '0x2cab3abfc1670d1a452df502e216a66883cdf079'

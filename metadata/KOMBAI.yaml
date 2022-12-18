@@ -6,3 +6,5 @@ id_nomics: KOMBAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KOMBAI.jpg
 logoKey: currencies/kombai.jpg
 name: Kombai Inu
+platform: ETH
+platform_contract: '0x3fce6ae1f55656663ba6a5b0e0812463cf45c2ee'

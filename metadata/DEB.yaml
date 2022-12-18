@@ -5,3 +5,5 @@ id_nomics: DEB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEB.jpg
 logoKey: currencies/deb.jpg
 name: Debitum Network
+platform: ETH
+platform_contract: '0x151202c9c18e495656f372281f493eb7698961d5'

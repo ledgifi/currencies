@@ -5,3 +5,5 @@ id_nomics: SIERRA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIERRA2.jpg
 logoKey: currencies/sierra2.jpg
 name: Sierra
+platform: AVAX
+platform_contract: '0x803b44d0e9d3c45119e228ca7be3af06268aaed9'

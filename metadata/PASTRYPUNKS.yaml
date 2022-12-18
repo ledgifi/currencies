@@ -5,3 +5,5 @@ id_nomics: PASTRYPUNKS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PASTRYPUNKS.jpg
 logoKey: currencies/pastrypunks.jpg
 name: PastryPunks
+platform: BNB
+platform_contract: '0x1bf571b3d5485109e59d002e9765104e4e238bfd'

@@ -6,3 +6,5 @@ id_nomics: XETA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XETA.jpeg
 logoKey: currencies/xeta.jpeg
 name: Xeta Reality
+platform: BNB
+platform_contract: '0x179960442ece8de9f390011b7f7c9b56c74e4d0a'

@@ -6,3 +6,5 @@ id_nomics: KICK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/kick.svg
 logoKey: currencies/kick.svg
 name: KickToken
+platform: ETH
+platform_contract: '0xc12d1c73ee7dc3615ba4e37e4abfdbddfa38907e'

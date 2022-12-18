@@ -6,3 +6,5 @@ id_nomics: OH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OH.jpg
 logoKey: currencies/oh.jpg
 name: Oh! Finance
+platform: ETH
+platform_contract: '0x16ba8efe847ebdfef99d399902ec29397d403c30'

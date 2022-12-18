@@ -5,3 +5,5 @@ id_nomics: TRIDENT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRIDENT.jpg
 logoKey: currencies/trident.jpg
 name: Trident
+platform: BNB
+platform_contract: '0xdd9d737e55028021827d36433db75f575db54599'

@@ -6,3 +6,5 @@ id_nomics: MQL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MQL.jpg
 logoKey: currencies/mql.jpg
 name: MiraQle
+platform: ETH
+platform_contract: '0x428dc22668e6f3468273634067e5545ed5417a3e'

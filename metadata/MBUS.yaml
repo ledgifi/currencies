@@ -3,3 +3,5 @@ fiat: false
 id: MBUS
 id_nomics: MBUS
 name: MBUS
+platform: BNB
+platform_contract: '0x8d4845252bba8d4cc77a8354d96feea98f498d65'

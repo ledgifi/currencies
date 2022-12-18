@@ -5,3 +5,5 @@ id_nomics: SUKI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUKI2.png
 logoKey: currencies/suki2.png
 name: Suki
+platform: ETH
+platform_contract: '0xaa28a2be895d4c8564c8f0c0896d07c19f197f89'

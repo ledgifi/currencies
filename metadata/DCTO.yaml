@@ -5,3 +5,5 @@ id_nomics: DCTO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/dcto.jpg
 logoKey: currencies/dcto.jpg
 name: Decentralized Crypto Token Markets
+platform: ETH
+platform_contract: '0x9ccbd05d4d25c745d49f5e6bf17e09113eb4c769'

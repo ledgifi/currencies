@@ -5,3 +5,5 @@ id_nomics: OPOH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OPOH.jpg
 logoKey: currencies/opoh.jpg
 name: OPOH
+platform: BNB
+platform_contract: '0x62bF581D0465227bc9f5762b8B4a378fFB9fAC64'

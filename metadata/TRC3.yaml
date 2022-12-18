@@ -3,3 +3,5 @@ fiat: false
 id: TRC3
 id_nomics: TRC3
 name: Trust Coin
+platform: ETH
+platform_contract: '0x5fe532f57cebd4528f04efca0f83c3fb5dee4eed'

@@ -5,3 +5,5 @@ id_nomics: AFC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AFC2.jpg
 logoKey: currencies/afc2.jpg
 name: Apiary Fund Coin
+platform: ETH
+platform_contract: '0xf576ff0d7e4c1e8f27dbd50321e95e36a965985f'

@@ -5,3 +5,5 @@ id_nomics: ECDF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECDF.jpg
 logoKey: currencies/ecdf.jpg
 name: EasyCoinDigitalFreedom
+platform: ETH
+platform_contract: '0x406ab55c0bab2d4a3361f87f251211c3090d80bc'

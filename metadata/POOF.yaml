@@ -5,3 +5,5 @@ id_nomics: POOF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POOF.png
 logoKey: currencies/poof.png
 name: PoofCash
+platform: CELO
+platform_contract: '0x00400fcbf0816bebb94654259de7273f4a05c762'

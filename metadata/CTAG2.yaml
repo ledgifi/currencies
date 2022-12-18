@@ -5,3 +5,5 @@ id_nomics: CTAG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTAG2.png
 logoKey: currencies/ctag2.png
 name: Cipher Tags
+platform: MATIC
+platform_contract: '0x4153a5d4bb617f425e2b427ea7a436bc8ffd8e75'

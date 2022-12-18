@@ -5,3 +5,5 @@ id_nomics: SHIDOKI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIDOKI2.jpg
 logoKey: currencies/shidoki2.jpg
 name: Shidoki Inu
+platform: BNB
+platform_contract: '0x64Db38ab214004F449dd8458D3a338c5ba3EeEd5'

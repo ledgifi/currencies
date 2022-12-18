@@ -5,3 +5,5 @@ id_nomics: PITZILLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PITZILLA.jpg
 logoKey: currencies/pitzilla.jpg
 name: PitZilla
+platform: BNB
+platform_contract: '0x4746d00BFBd60BFc64b0D34F1107493153c356f7'

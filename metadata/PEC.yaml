@@ -5,3 +5,5 @@ id_nomics: PEC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEC.png
 logoKey: currencies/pec.png
 name: PE Chain
+platform: ETH
+platform_contract: '0x70d0efcadf013e1cdd88870c7b23737dbc19b523'

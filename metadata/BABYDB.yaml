@@ -6,3 +6,5 @@ id_nomics: BABYDB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYDB.jpg
 logoKey: currencies/babydb.jpg
 name: Baby Doge Billionaire
+platform: BNB
+platform_contract: '0x6d9fb3332f62fc044d5075feeea597a92f1ce0ad'

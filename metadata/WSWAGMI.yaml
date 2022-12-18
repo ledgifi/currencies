@@ -5,3 +5,5 @@ id_nomics: WSWAGMI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WSWAGMI.jpg
 logoKey: currencies/wswagmi.jpg
 name: Wrapped sWAGMI
+platform: HARMONY
+platform_contract: '0xbb948620fa9cd554ef9a331b13edea9b181f9d45'

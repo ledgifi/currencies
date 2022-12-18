@@ -6,3 +6,5 @@ id_nomics: MATPAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MATPAD.jpg
 logoKey: currencies/matpad.jpg
 name: MaticPad
+platform: MATIC
+platform_contract: '0x3bfce6d6f0d3d3f1326d86abdbe2845b4740dc2e'

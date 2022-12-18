@@ -5,3 +5,5 @@ id_nomics: FROG5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FROG5.jpg
 logoKey: currencies/frog5.jpg
 name: Frog Nation Farm
+platform: FTM
+platform_contract: '0xfa5c941bc491ee6dc1e933f38d01d8b5d5637205'

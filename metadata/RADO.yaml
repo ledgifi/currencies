@@ -5,3 +5,5 @@ id_nomics: RADO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RADO.png
 logoKey: currencies/rado.png
 name: Codrado
+platform: BNB
+platform_contract: '0x195befB4377C7E484517FF3e265c7a5f8e47F26b'

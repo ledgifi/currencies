@@ -5,3 +5,5 @@ id_nomics: BBD3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBD3.jpg
 logoKey: currencies/bbd3.jpg
 name: Baby Dalmatian
+platform: BNB
+platform_contract: '0x02fa32c0a8c29a30c02170475b09248c9e137478'

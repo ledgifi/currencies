@@ -5,3 +5,5 @@ id_nomics: 0XBUTT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/0XBUTT.jpg
 logoKey: currencies/0xbutt.jpg
 name: ButtCoin
+platform: ETH
+platform_contract: '0x5556d6a283fd18d71fd0c8b50d1211c5f842dbbc'

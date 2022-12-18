@@ -5,3 +5,5 @@ id_nomics: FIN4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIN4.png
 logoKey: currencies/fin4.png
 name: Fcoin
+platform: BNB
+platform_contract: '0xea4bd0B311C8cD2B4Dd21398dE7945C065735A3C'

@@ -5,3 +5,5 @@ id_nomics: CRYSHP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRYSHP.jpeg
 logoKey: currencies/cryshp.jpeg
 name: CRYSHP
+platform: MATIC
+platform_contract: '0xe4b527f0dd57dfe7d0ac4ee7c69a6b5eed6971ac'

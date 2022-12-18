@@ -6,3 +6,5 @@ id_nomics: CRYPL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRYPL.jpg
 logoKey: currencies/crypl.jpg
 name: Cryptolandy
+platform: ETH
+platform_contract: '0x1062fdf250b44697216d07e41df93824519f47aa'

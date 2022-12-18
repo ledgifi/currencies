@@ -5,3 +5,5 @@ id_nomics: MTG5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTG5.jpeg
 logoKey: currencies/mtg5.jpeg
 name: Meta Games
+platform: BNB
+platform_contract: '0xc42663b03b9030b536b29c7cb276869e8cb727f5'

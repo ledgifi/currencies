@@ -6,3 +6,5 @@ id_nomics: NOKU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NOKU.png
 logoKey: currencies/noku.png
 name: Noku
+platform: ETH
+platform_contract: '0x1fc52f1abade452dd4674477d4711951700b3d27'

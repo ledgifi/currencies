@@ -3,3 +3,5 @@ fiat: false
 id: XTAROT
 id_nomics: XTAROT
 name: Staked TAROT
+platform: FTM
+platform_contract: '0x74d1d2a851e339b8cb953716445be7e8abdf92f4'

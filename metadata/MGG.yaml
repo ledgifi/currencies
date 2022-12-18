@@ -6,3 +6,5 @@ id_nomics: MGG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MGG.jpg
 logoKey: currencies/mgg.jpg
 name: MUD Guild Game
+platform: ETH
+platform_contract: '0xb435eeffe949182aebe85506eb88d4a0ffea8f9e'

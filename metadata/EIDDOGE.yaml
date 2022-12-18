@@ -5,3 +5,5 @@ id_nomics: EIDDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EIDDOGE.png
 logoKey: currencies/eiddoge.png
 name: Eid Doge
+platform: BNB
+platform_contract: '0x62da70cbe134ac45920ede9ea03f00b89a16d3a4'

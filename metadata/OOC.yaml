@@ -3,3 +3,5 @@ fiat: false
 id: OOC
 id_nomics: OOC
 name: Only One Coin
+platform: SMARTBCH
+platform_contract: '0x20a7d2865c6bdbeca531b89571c3b5483eb53c2c'

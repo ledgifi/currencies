@@ -6,3 +6,5 @@ id_nomics: JPT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JPT.jpg
 logoKey: currencies/jpt.jpg
 name: Jackpot Token
+platform: BNB
+platform_contract: '0x8c9e7f82b6d3c816cfd78d6d49ab26268bf05d43'

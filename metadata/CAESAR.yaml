@@ -3,3 +3,5 @@ fiat: false
 id: CAESAR
 id_nomics: CAESAR
 name: Caesar Finance
+platform: AVAX
+platform_contract: '0x42d047534eef46fd68fad3d74726fe51be4eeb8f'

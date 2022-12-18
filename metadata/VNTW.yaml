@@ -5,3 +5,5 @@ id_nomics: VNTW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VNTW.jpg
 logoKey: currencies/vntw.jpg
 name: Value Network Token
+platform: ETH
+platform_contract: '0xd0f05d3d4e4d1243ac826d8c6171180c58eaa9bc'

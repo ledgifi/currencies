@@ -5,3 +5,5 @@ id_nomics: DYPBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DYPBEP20.jpg
 logoKey: currencies/dypbep20.jpg
 name: DeFi Yield Protocol (BEP-20)
+platform: BNB
+platform_contract: '0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17'

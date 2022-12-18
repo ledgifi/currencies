@@ -3,3 +3,5 @@ fiat: false
 id: HIPPT
 id_nomics: HIPPT
 name: HippTest
+platform: BNB
+platform_contract: '0x3f7cafdb7fded4eb6c62ad238438a068fc53d302'

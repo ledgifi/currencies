@@ -6,3 +6,5 @@ id_nomics: KINGDOG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KINGDOG.png
 logoKey: currencies/kingdog.png
 name: King Dog Inu
+platform: BNB
+platform_contract: '0x3bb55ba11f1a220c7c1e15b56e6cf9c69519c50f'

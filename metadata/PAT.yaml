@@ -6,3 +6,5 @@ id_nomics: PAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAT.png
 logoKey: currencies/pat.png
 name: Patron
+platform: ETH
+platform_contract: '0xf3b3cad094b89392fce5fafd40bc03b80f2bc624'

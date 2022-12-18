@@ -5,3 +5,5 @@ id_nomics: YAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YAX.jpg
 logoKey: currencies/yax.jpg
 name: yAxis
+platform: ETH
+platform_contract: '0xb1dc9124c395c1e97773ab855d66e879f053a289'

@@ -5,3 +5,5 @@ id_nomics: WBSC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WBSC.jpg
 logoKey: currencies/wbsc.jpg
 name: Weird BSC
+platform: BNB
+platform_contract: '0xd86e838c1580453fc6c76f9c0a310540e9be2b55'

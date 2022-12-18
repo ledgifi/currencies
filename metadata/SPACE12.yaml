@@ -3,3 +3,5 @@ fiat: false
 id: SPACE12
 id_nomics: SPACE12
 name: The Space
+platform: MATIC
+platform_contract: '0x264808855b0a6a5a318d238c6ee9f299179f27fc'

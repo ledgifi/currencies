@@ -5,3 +5,5 @@ id_nomics: DEVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEVE.jpg
 logoKey: currencies/deve.jpg
 name: Divert Finance
+platform: ETH
+platform_contract: '0xfdb615d6a15f929ddabc6b83a4f1cf9d361b064e'

@@ -5,3 +5,5 @@ id_nomics: XLD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XLD2.jpg
 logoKey: currencies/xld2.jpg
 name: Xcel Swap
+platform: BNB
+platform_contract: '0xc79d1fd14f514cd713b5ca43d288a782ae53eab2'

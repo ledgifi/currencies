@@ -5,3 +5,5 @@ id_nomics: OTIUM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OTIUM.png
 logoKey: currencies/otium.png
 name: Otium
+platform: BNB
+platform_contract: '0x56a02228ce17dbbbc809fe2262b36dd99f28e824'

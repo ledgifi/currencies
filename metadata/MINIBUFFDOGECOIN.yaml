@@ -5,3 +5,5 @@ id_nomics: MINIBUFFDOGECOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINIBUFFDOGECOIN.jpg
 logoKey: currencies/minibuffdogecoin.jpg
 name: MINIBUFFDOGECOIN
+platform: BNB
+platform_contract: '0xa158838838b1305e0ed9668eaac1762b8c515a03'

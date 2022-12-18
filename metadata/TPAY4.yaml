@@ -4,3 +4,5 @@ id: TPAY4
 id_nomics: TPAY4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TPAY4.png
 name: TaxPay
+platform: BNB
+platform_contract: '0x2714e07a0047191a3e60ccaa1679e6cef28c560b'

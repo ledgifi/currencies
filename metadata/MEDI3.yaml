@@ -3,3 +3,5 @@ fiat: false
 id: MEDI3
 id_nomics: MEDI3
 name: Medi Token
+platform: ETH
+platform_contract: '0x24b20da7a2fa0d1d5afcd693e1c8afff20507efd'

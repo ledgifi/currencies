@@ -5,3 +5,5 @@ id_nomics: EFLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EFLOKI.jpg
 logoKey: currencies/efloki.jpg
 name: ElonFlokiInu
+platform: BNB
+platform_contract: '0x5a79d742e396760f5e0990a59d6e5cf0b134d92b'

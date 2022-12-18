@@ -3,3 +3,5 @@ fiat: false
 id: MERCE
 id_nomics: MERCE
 name: MetaMerce
+platform: BNB
+platform_contract: '0x6d163b653010740bfb41bed4bee23f94b3285cba'

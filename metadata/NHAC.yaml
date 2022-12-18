@@ -6,3 +6,5 @@ id_nomics: NHAC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NHAC.jpeg
 logoKey: currencies/nhac.jpeg
 name: Shark Coin
+platform: BNB
+platform_contract: '0x5fb7228f5fcc41c65e054db911ad7e03a9ea8894'

@@ -5,3 +5,5 @@ id_nomics: MDG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MDG.jpg
 logoKey: currencies/mdg.jpg
 name: Midas Gold
+platform: BNB
+platform_contract: '0xc1edcc306e6faab9da629efca48670be4678779d'

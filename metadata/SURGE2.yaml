@@ -5,3 +5,5 @@ id_nomics: SURGE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SURGE2.jpg
 logoKey: currencies/surge2.jpg
 name: Surge Inu
+platform: BNB
+platform_contract: '0x68fbd4d89ba15343e7d2457189459b7ac80a20a3'

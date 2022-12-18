@@ -5,3 +5,5 @@ id_nomics: METASFM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METASFM2.jpeg
 logoKey: currencies/metasfm2.jpeg
 name: MetaSafeMars
+platform: BNB
+platform_contract: '0x93b552F317FD392d8B27F63d999F7a8678FCfBEB'

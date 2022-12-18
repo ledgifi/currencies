@@ -5,3 +5,5 @@ id_nomics: SCIFI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCIFI2.jpg
 logoKey: currencies/scifi2.jpg
 name: ScifiToken
+platform: ETH
+platform_contract: '0xfdc4a3fc36df16a78edcaf1b837d3acaaedb2cb4'

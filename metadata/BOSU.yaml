@@ -6,3 +6,5 @@ id_nomics: BOSU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOSU.jpeg
 logoKey: currencies/bosu.jpeg
 name: Bosu Inu
+platform: BNB
+platform_contract: '0x3b668e5e3e2c28e3e17578f493957694b45f69ab'

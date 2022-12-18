@@ -6,3 +6,5 @@ id_nomics: BSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSE.jpg
 logoKey: currencies/bse.jpg
 name: Buy-Sell
+platform: ETH
+platform_contract: '0xa30189d8255322a2f8b2a77906b000aeb005570c'

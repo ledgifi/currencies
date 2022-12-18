@@ -5,3 +5,5 @@ id_nomics: NLIFEERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NLIFEERC20.jpg
 logoKey: currencies/nlifeerc20.jpg
 name: Night Life Crypto (ERC-20)
+platform: ETH
+platform_contract: '0x1951ab088141e69a3713a351b0d55ba3acda192c'

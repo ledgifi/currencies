@@ -3,3 +3,5 @@ fiat: false
 id: XOXCASH
 id_nomics: XOXCASH
 name: One Million XOX
+platform: BNB
+platform_contract: '0x7b273b6ab7e43fad5319374622cdcbb2d00f62e7'

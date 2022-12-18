@@ -3,3 +3,5 @@ fiat: false
 id: CLK2TRND
 id_nomics: CLK2TRND
 name: Click2Trend
+platform: ETH
+platform_contract: '0x486c46bb230667539497c1623dcce9dcc6a84293'

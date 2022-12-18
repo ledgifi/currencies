@@ -5,3 +5,5 @@ id_nomics: ALINK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALINK.jpg
 logoKey: currencies/alink.jpg
 name: Aave LINK v1
+platform: ETH
+platform_contract: '0xa64bd6c70cb9051f6a9ba1f163fdc07e0dfb5f84'

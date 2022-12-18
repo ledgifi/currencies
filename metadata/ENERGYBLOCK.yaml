@@ -5,3 +5,5 @@ id_nomics: ENERGYBLOCK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ENERGYBLOCK.jpg
 logoKey: currencies/energyblock.jpg
 name: Energy Block
+platform: ETH
+platform_contract: '0x0a25c807291e58716ab78752f8bb15eae8370e7d'

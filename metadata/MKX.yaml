@@ -5,3 +5,5 @@ id_nomics: MKX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MKX.png
 logoKey: currencies/mkx.png
 name: MedikhanaX
+platform: BNB
+platform_contract: '0x6967dda12bc22315749cb6ebe8689fb7d9b8e629'

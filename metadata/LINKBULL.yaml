@@ -3,3 +3,5 @@ fiat: false
 id: LINKBULL
 id_nomics: LINKBULL
 name: 3X Long Chainlink Token
+platform: ETH
+platform_contract: '0x83ad87c988ac0c6277c0c6234cc8108b20bb5d9b'

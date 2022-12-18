@@ -5,3 +5,5 @@ id_nomics: TRCL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRCL2.png
 logoKey: currencies/trcl2.png
 name: Treecle
+platform: KLAY
+platform_contract: '0x4b91c67a89d4c4b2a4ed9fcde6130d7495330972'

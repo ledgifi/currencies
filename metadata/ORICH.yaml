@@ -5,3 +5,5 @@ id_nomics: ORICH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORICH.jpeg
 logoKey: currencies/orich.jpeg
 name: Over Rich
+platform: BNB
+platform_contract: '0x443110067420E279bc8Dee08C711ae97D53da774'

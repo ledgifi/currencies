@@ -6,3 +6,5 @@ id_nomics: BURNDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BURNDOGE.png
 logoKey: currencies/burndoge.png
 name: BurnDoge
+platform: BNB
+platform_contract: '0xb73569a56614867601cd330dea8ab5a8f5570a2c'

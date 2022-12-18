@@ -5,3 +5,5 @@ id_nomics: HACHIKO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HACHIKO2.jpg
 logoKey: currencies/hachiko2.jpg
 name: Hachiko Inu
+platform: ETH
+platform_contract: '0xccac36423def6c19ee6b5679144e2976e309ca45'

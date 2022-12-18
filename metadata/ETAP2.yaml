@@ -5,3 +5,5 @@ id_nomics: ETAP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETAP2.png
 logoKey: currencies/etap2.png
 name: EtapToken
+platform: BNB
+platform_contract: '0xbe983f4dedfa35442b9920628d94be6aadb7afc1'

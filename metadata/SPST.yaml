@@ -3,3 +3,5 @@ fiat: false
 id: SPST
 id_nomics: SPST
 name: SpaceStake
+platform: BNB
+platform_contract: '0xd2ec5ec82915377959118aaaf31e62700389a65e'

@@ -5,3 +5,5 @@ id_nomics: CAKE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAKE2.jpg
 logoKey: currencies/cake2.jpg
 name: CakeDAO
+platform: AVAX
+platform_contract: '0x4eb49a2f9a79053866fae806fac95a3ef5b92c05'

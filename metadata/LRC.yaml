@@ -8,3 +8,5 @@ id_nomics: LRC
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/lrc.svg
 logoKey: currencies/lrc.svg
 name: Loopring
+platform: ETH
+platform_contract: '0xbbbbca6a901c926f240b89eacb641d8aec7aeafd'

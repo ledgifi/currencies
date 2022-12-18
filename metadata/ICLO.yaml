@@ -5,3 +5,5 @@ id_nomics: ICLO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICLO.png
 logoKey: currencies/iclo.png
 name: iCLOVER
+platform: BNB
+platform_contract: '0x8ec1c72a7926c572a64902be6504098b1d6901c7'

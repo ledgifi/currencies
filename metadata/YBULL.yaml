@@ -3,3 +3,5 @@ fiat: false
 id: YBULL
 id_nomics: YBULL
 name: YieldBull.finance
+platform: BNB
+platform_contract: '0x4f79124304f12b0a40c0800dbd906bba96c803bf'

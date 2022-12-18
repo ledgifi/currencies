@@ -3,3 +3,5 @@ fiat: false
 id: FEDCASH
 id_nomics: FEDCASH
 name: fedCash
+platform: ETH
+platform_contract: '0x62faa8937f71b4896f9b250f675ff89a5f6875cc'

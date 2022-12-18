@@ -5,3 +5,5 @@ id_nomics: CSHIP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CSHIP2.jpg
 logoKey: currencies/cship2.jpg
 name: CryptoShips
+platform: BNB
+platform_contract: '0x6218079f1a5d50d3a8358093699b9943a662ef7c'

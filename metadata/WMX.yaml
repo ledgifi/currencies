@@ -5,3 +5,5 @@ id_nomics: WMX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WMX.png
 logoKey: currencies/wmx.png
 name: Wombex
+platform: BNB
+platform_contract: '0xa75d9ca2a0a1d547409d82e1b06618ec284a2ced'

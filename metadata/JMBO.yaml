@@ -3,3 +3,5 @@ fiat: false
 id: JMBO
 id_nomics: JMBO
 name: Jimbo Swap
+platform: BNB
+platform_contract: '0x1b765c9f763c8597b65d565618dd36d73e17ee39'

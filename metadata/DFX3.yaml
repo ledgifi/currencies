@@ -5,3 +5,5 @@ id_nomics: DFX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DFX3.jpg
 logoKey: currencies/dfx3.jpg
 name: DeFireX on BSC
+platform: BNB
+platform_contract: '0x74b3abb94e9e1ecc25bd77d6872949b4a9b2aacf'

@@ -3,3 +3,5 @@ fiat: false
 id: VTT
 id_nomics: VTT
 name: Value Task Token
+platform: BNB
+platform_contract: '0x6d6ab3bd7578bd11c62112a93f8078de16c58fe7'

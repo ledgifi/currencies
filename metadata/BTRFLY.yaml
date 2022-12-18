@@ -3,3 +3,5 @@ fiat: false
 id: BTRFLY
 id_nomics: BTRFLY
 name: Butterfly
+platform: ETH
+platform_contract: '0x3e87d72f3455c56b739ffef0bfd75f3ba3c0f86b'

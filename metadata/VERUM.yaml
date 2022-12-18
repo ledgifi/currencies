@@ -6,3 +6,5 @@ id_nomics: VERUM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VERUM.png
 logoKey: currencies/verum.png
 name: Verum Coin
+platform: BNB
+platform_contract: '0xe6e4d9e1ddd783b6beeccc059abc17be88ee1a03'

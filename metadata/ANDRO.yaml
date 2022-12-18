@@ -5,3 +5,5 @@ id_nomics: ANDRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANDRO.jpg
 logoKey: currencies/andro.jpg
 name: Andromeda
+platform: BNB
+platform_contract: '0xfAEB60be4F3B47a62Aa4f96584d02CD24D68866D'

@@ -3,3 +3,5 @@ fiat: false
 id: TRXHEDGE
 id_nomics: TRXHEDGE
 name: 1X Short TRX Token
+platform: ETH
+platform_contract: '0xe58c8df0088cf27b26c7d546a9835deacc29496c'

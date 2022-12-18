@@ -5,3 +5,5 @@ id_nomics: WIENERS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WIENERS.jpg
 logoKey: currencies/wieners.jpg
 name: Wiener Dogs
+platform: BNB
+platform_contract: '0xf31927b38f4aa5bf074d23e5fb77726866d157ee'

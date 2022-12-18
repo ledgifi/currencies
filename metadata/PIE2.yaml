@@ -5,3 +5,5 @@ id_nomics: PIE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIE2.jpg
 logoKey: currencies/pie2.jpg
 name: Pie Network
+platform: BNB
+platform_contract: '0x47541848d3b3d9702ed9a66e519bbacacb45fd0d'

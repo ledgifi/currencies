@@ -3,3 +3,5 @@ fiat: false
 id: KON3
 id_nomics: KON3
 name: KonPay
+platform: ETH
+platform_contract: '0x8e83a9ebc6954cc8182d9b9abc711c601905ac2d'

@@ -5,3 +5,5 @@ id_nomics: WOOBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOOBEP20.jpg
 logoKey: currencies/woobep20.jpg
 name: Wootrade Network (BEP-20)
+platform: BNB
+platform_contract: '0x4691937a7508860f876c9c0a2a617e7d9e945d4b'

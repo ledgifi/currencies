@@ -3,3 +3,5 @@ fiat: false
 id: ACW
 id_nomics: ACW
 name: ACW Token
+platform: BNB
+platform_contract: '0x47f92f95ff7ca80cd4f9d7f50af709356dc71e41'

@@ -6,3 +6,5 @@ id_nomics: VETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VETH.png
 logoKey: currencies/veth.png
 name: Vether
+platform: ETH
+platform_contract: '0x4ba6ddd7b89ed838fed25d208d4f644106e34279'

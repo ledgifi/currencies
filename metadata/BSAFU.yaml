@@ -5,3 +5,5 @@ id_nomics: BSAFU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSAFU.png
 logoKey: currencies/bsafu.png
 name: BabySafuu
+platform: BNB
+platform_contract: '0x347f2439d9efa092d335cc019d2962abd10786de'

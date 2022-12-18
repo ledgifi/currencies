@@ -3,3 +3,5 @@ fiat: false
 id: CMVE
 id_nomics: CMVE
 name: Certification Membership Value Element
+platform: MATIC
+platform_contract: '0x63dcf0f818d0969ae28ebf4e4aff70326541f47f'

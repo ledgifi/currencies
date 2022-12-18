@@ -5,3 +5,5 @@ id_nomics: GIRLDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GIRLDOGE.png
 logoKey: currencies/girldoge.png
 name: Girl Doge Coin
+platform: BNB
+platform_contract: '0x60dba8c81a449a643f9058ee37607b25b1c3adb4'

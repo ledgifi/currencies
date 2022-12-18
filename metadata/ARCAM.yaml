@@ -3,3 +3,5 @@ fiat: false
 id: ARCAM
 id_nomics: ARCAM
 name: ARCAMTOKEN
+platform: ETH
+platform_contract: '0x52adc6c7b15450e04e3b4798b0d57a06506de42d'

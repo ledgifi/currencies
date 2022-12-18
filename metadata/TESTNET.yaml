@@ -3,3 +3,5 @@ fiat: false
 id: TESTNET
 id_nomics: TESTNET
 name: Testnet
+platform: ARBETH
+platform_contract: '0xaafc60875290cf8f6393b91b8c9a60d11999ff3a'

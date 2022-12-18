@@ -5,3 +5,5 @@ id_nomics: MUSUBI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MUSUBI2.jpg
 logoKey: currencies/musubi2.jpg
 name: Musubi
+platform: BNB
+platform_contract: '0x59aca0079cb25dec05fc6271f63988918b62b0ea'

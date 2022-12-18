@@ -6,3 +6,5 @@ id_nomics: PICIPO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PICIPO.jpg
 logoKey: currencies/picipo.jpg
 name: Picipo
+platform: ETH
+platform_contract: '0x1e05f68b29b286fb3bbad3c688d7e2abda549b80'

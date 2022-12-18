@@ -3,3 +3,5 @@ fiat: false
 id: EURX
 id_nomics: EURX
 name: eToro Euro
+platform: ETH
+platform_contract: '0x05ac103f68e05da35e78f6165b9082432fe64b58'

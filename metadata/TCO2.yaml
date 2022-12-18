@@ -5,3 +5,5 @@ id_nomics: TCO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCO2.jpg
 logoKey: currencies/tco2.jpg
 name: ThinkCoin
+platform: ETH
+platform_contract: '0x6288014d6ba425d71f5fdc1dbfb01378241d78db'

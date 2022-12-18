@@ -5,3 +5,5 @@ id_nomics: UETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UETH.jpg
 logoKey: currencies/ueth.jpg
 name: Unagii ETH
+platform: ETH
+platform_contract: '0x77607588222e01bf892a29abab45796a2047fc7b'

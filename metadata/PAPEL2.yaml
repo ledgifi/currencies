@@ -5,3 +5,5 @@ id_nomics: PAPEL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAPEL2.jpg
 logoKey: currencies/papel2.jpg
 name: Papel
+platform: BNB
+platform_contract: '0x557dd6700e66818af340cce17fd4508ced81fbc1'

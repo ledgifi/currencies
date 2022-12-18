@@ -5,3 +5,5 @@ id_nomics: AXI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AXI.jpg
 logoKey: currencies/axi.jpg
 name: Axioms
+platform: ETH
+platform_contract: '0x73ee6d7e6b203125add89320e9f343d65ec7c39a'

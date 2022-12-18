@@ -5,3 +5,5 @@ id_nomics: CALCIFIRE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CALCIFIRE.png
 logoKey: currencies/calcifire.png
 name: Calcifire
+platform: BNB
+platform_contract: '0x9e236b43D779B385c3279820e322ABAE249D3405'

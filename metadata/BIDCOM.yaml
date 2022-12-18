@@ -6,3 +6,5 @@ id_nomics: BIDCOM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIDCOM.jpg
 logoKey: currencies/bidcom.jpg
 name: BidCommerce
+platform: BNB
+platform_contract: '0x9986aa69545dc44b66fc85ba505fd66feae0d6a5'

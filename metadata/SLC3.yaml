@@ -3,3 +3,5 @@ fiat: false
 id: SLC3
 id_nomics: SLC3
 name: Support Listing Coin
+platform: ETH
+platform_contract: '0xbd2ebe1ddf549e6e9079faa6182bcc33c21f13a3'

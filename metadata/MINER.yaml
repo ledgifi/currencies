@@ -5,3 +5,5 @@ id_nomics: MINER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINER.jpg
 logoKey: currencies/miner.jpg
 name: Miner Token
+platform: BNB
+platform_contract: '0xa937e7cb9ed7c9443d9c1b7961c67c9034edc038'

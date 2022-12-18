@@ -6,3 +6,5 @@ id_nomics: PEAKAVAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEAKAVAX.jpg
 logoKey: currencies/peakavax.jpg
 name: Peak Avalanche
+platform: BNB
+platform_contract: '0x39ab0ede3e107b3d9400cfa4d82d273e72a0b162'

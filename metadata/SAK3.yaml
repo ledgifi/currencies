@@ -6,3 +6,5 @@ id_nomics: SAK3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAK3.jpg
 logoKey: currencies/sak3.jpg
 name: SAK3
+platform: ETH
+platform_contract: '0xe9f84de264e91529af07fa2c746e934397810334'

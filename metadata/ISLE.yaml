@@ -6,3 +6,5 @@ id_nomics: ISLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ISLE.jpg
 logoKey: currencies/isle.jpg
 name: Island Coin
+platform: ETH
+platform_contract: '0x1681bcb589b3cfcf0c0616b0ce9b19b240643dc1'

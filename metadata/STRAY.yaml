@@ -5,3 +5,5 @@ id_nomics: STRAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STRAY.jpg
 logoKey: currencies/stray.jpg
 name: StrayDog
+platform: BNB
+platform_contract: '0xa207a86b79d9b270b3e0f6a11decb7bd2829ca00'

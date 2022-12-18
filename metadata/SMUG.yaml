@@ -5,3 +5,5 @@ id_nomics: SMUG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMUG.png
 logoKey: currencies/smug.png
 name: SmugDoge
+platform: HARMONY
+platform_contract: '0x44afdbe2cb42cc18759159f7e383afb0ca8e57ad'

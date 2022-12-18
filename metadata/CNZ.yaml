@@ -6,3 +6,5 @@ id_nomics: CNZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CNZ.jpg
 logoKey: currencies/cnz.jpg
 name: Coinzo Token
+platform: ETH
+platform_contract: '0xc1965d7d18f37062b18ab3d5d1fe7f69873b30dd'

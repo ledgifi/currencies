@@ -5,3 +5,5 @@ id_nomics: EDH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EDH.jpg
 logoKey: currencies/edh.jpg
 name: Elon Diamond Hands
+platform: ETH
+platform_contract: '0x3b046fde911d3b6f9caa4759dbcfb034a87648ba'

@@ -5,3 +5,5 @@ id_nomics: STRB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STRB.jpeg
 logoKey: currencies/strb.jpeg
 name: Startar Bronze
+platform: BNB
+platform_contract: '0x550a5e9c90cc238dd1afd88a0680b4feeb5f8dd6'

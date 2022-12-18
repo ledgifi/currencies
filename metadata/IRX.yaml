@@ -5,3 +5,5 @@ id_nomics: IRX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IRX.jpg
 logoKey: currencies/irx.jpg
 name: IronX
+platform: ETH
+platform_contract: '0xf28463c616bd7b14287b0a4a950d35324f2d7280'

@@ -5,3 +5,5 @@ id_nomics: LOREM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOREM.jpg
 logoKey: currencies/lorem.jpg
 name: Lorem Token
+platform: BNB
+platform_contract: '0x401d9c80b8f349c462c1f85f16f0e7158216d98b'

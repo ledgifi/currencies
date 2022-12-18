@@ -5,3 +5,5 @@ id_nomics: IHF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IHF.png
 logoKey: currencies/ihf.png
 name: Invictus Hyperion
+platform: ETH
+platform_contract: '0xaf1250fa68d7decd34fd75de8742bc03b29bd58e'

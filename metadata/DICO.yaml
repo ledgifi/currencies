@@ -3,3 +3,5 @@ fiat: false
 id: DICO
 id_nomics: DICO
 name: Dico Coin
+platform: ETH
+platform_contract: '0xa89fd5459c67afc8727c07333ed830643cf898b6'

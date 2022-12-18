@@ -3,3 +3,5 @@ fiat: false
 id: STERN
 id_nomics: STERN
 name: SternPe
+platform: BNB
+platform_contract: '0x7a879cbc09b9da6b12c561a98e8ac705a665bbea'

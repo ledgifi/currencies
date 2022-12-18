@@ -6,3 +6,5 @@ id_nomics: HKSM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HKSM.jpg
 logoKey: currencies/hksm.jpg
 name: H-Space Metaverse
+platform: BNB
+platform_contract: '0x958c129c3543c964c3d9fcb9dc7cf82b727aa68a'

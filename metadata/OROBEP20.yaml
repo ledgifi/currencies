@@ -5,3 +5,5 @@ id_nomics: OROBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OROBEP20.jpg
 logoKey: currencies/orobep20.jpg
 name: ORO Token (BEP-20)
+platform: BNB
+platform_contract: '0x9f998d62b81af019e3346af141f90cccd679825e'

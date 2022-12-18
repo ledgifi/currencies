@@ -6,3 +6,5 @@ id_nomics: GGT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GGT.png
 logoKey: currencies/ggt.png
 name: Global Gold Token
+platform: ETH
+platform_contract: '0x1d72e76e38c815b9f91661c340949e8673e897b3'

@@ -3,3 +3,5 @@ fiat: false
 id: TEZ
 id_nomics: TEZ
 name: TEZCA
+platform: ETH
+platform_contract: '0xdc638a86aebd272fd0175550c4eac2c24606eab9'

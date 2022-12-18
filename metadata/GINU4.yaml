@@ -5,3 +5,5 @@ id_nomics: GINU4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GINU4.png
 logoKey: currencies/ginu4.png
 name: Grab Inu
+platform: BNB
+platform_contract: '0x4bf503b9f7681f0831d2bed26df7900f3764ed1e'

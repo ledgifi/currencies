@@ -5,3 +5,5 @@ id_nomics: GCOOOM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GCOOOM.jpg
 logoKey: currencies/gcooom.jpg
 name: Incooom Genesis Gold
+platform: ETH
+platform_contract: '0x1e23fb8bd851cc2a341428c0b10e65d49987d744'

@@ -3,3 +3,5 @@ fiat: false
 id: BUFFETT
 id_nomics: BUFFETT
 name: BuffettCoin
+platform: BNB
+platform_contract: '0x6ebfc270c027946458cbcd020a249f3acc20f054'

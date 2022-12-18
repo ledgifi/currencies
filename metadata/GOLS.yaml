@@ -3,3 +3,5 @@ fiat: false
 id: GOLS
 id_nomics: GOLS
 name: Gold SV
+platform: AVAX
+platform_contract: '0x06db7528dc7ed2865ad433c5f11b8d9397a71722'

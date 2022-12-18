@@ -3,3 +3,5 @@ fiat: false
 id: TENBTCB
 id_nomics: TENBTCB
 name: Teneo BTCB
+platform: BNB
+platform_contract: '0xa01be845f95447110082797267aecca1de4047bf'

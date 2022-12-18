@@ -5,3 +5,5 @@ id_nomics: TPCAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TPCAKE.jpg
 logoKey: currencies/tpcake.jpg
 name: Toddler Pancake
+platform: BNB
+platform_contract: '0x38b5c08c9879a70805b6694262c1ce2befa9f44c'

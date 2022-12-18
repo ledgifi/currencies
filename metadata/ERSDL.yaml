@@ -6,3 +6,5 @@ id_nomics: ERSDL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ERSDL.png
 logoKey: currencies/ersdl.png
 name: UnFederalReserve
+platform: ETH
+platform_contract: '0x5218e472cfcfe0b64a064f055b43b4cdc9efd3a6'

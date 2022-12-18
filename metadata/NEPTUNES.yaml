@@ -5,3 +5,5 @@ id_nomics: NEPTUNES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEPTUNES.jpg
 logoKey: currencies/neptunes.jpg
 name: NEP
+platform: BNB
+platform_contract: '0x6b7d6902686de3fa5b974c83d603eceb62178dd0'

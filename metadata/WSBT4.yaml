@@ -3,3 +3,5 @@ fiat: false
 id: WSBT4
 id_nomics: WSBT4
 name: WSB.sh
+platform: BNB
+platform_contract: '0x7f4e04aa61b9a46403c1634e91bf31df3bc554cf'

@@ -3,3 +3,5 @@ fiat: false
 id: RNDX
 id_nomics: RNDX
 name: Round X
+platform: KLAY
+platform_contract: '0xff1bf7a212012ee903fbb5a3adb4a9a31f371ef7'

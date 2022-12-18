@@ -5,3 +5,5 @@ id_nomics: BLOCKCHAINCOM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLOCKCHAINCOM.png
 logoKey: currencies/blockchaincom.png
 name: Block-chain.com
+platform: ETH
+platform_contract: '0x2ecb13a8c458c379c4d9a7259e202de03c8f3d19'

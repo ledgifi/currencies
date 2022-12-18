@@ -6,3 +6,5 @@ id_nomics: EGR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EGR.png
 logoKey: currencies/egr.png
 name: Egoras
+platform: ETH
+platform_contract: '0x73cee8348b9bdd48c64e13452b8a6fbc81630573'

@@ -5,3 +5,5 @@ id_nomics: SHIBAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBAL.jpg
 logoKey: currencies/shibal.jpg
 name: Shiba Launch
+platform: ETH
+platform_contract: '0x77f39c61ddac121ca1b24fdea984fab734fdce8f'

@@ -5,3 +5,5 @@ id_nomics: MTA4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTA4.jpg
 logoKey: currencies/mta4.jpg
 name: MetaAxis
+platform: BNB
+platform_contract: '0x19d3a7c26a1271eebb6f04bdb4565b7f2b7efc30'

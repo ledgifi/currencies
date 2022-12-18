@@ -6,3 +6,5 @@ id_nomics: KSHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KSHIB.jpg
 logoKey: currencies/kshib.jpg
 name: Kaiken Shiba
+platform: BNB
+platform_contract: '0x11c0c93035d1302083eb09841042cfa582839a8c'

@@ -3,3 +3,5 @@ fiat: false
 id: RAILPOLY
 id_nomics: RAILPOLY
 name: Rail Polygon
+platform: MATIC
+platform_contract: '0x92a9c92c215092720c731c96d4ff508c831a714f'

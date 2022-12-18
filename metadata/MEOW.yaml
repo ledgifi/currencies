@@ -6,3 +6,5 @@ id_nomics: MEOW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEOW.jpg
 logoKey: currencies/meow.jpg
 name: MoonKitties
+platform: BNB
+platform_contract: '0x56ac565b5bb244f6e16f1023bc88c7ee57f59f05'

@@ -5,3 +5,5 @@ id_nomics: PHXERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PHXERC20.jpg
 logoKey: currencies/phxerc20.jpg
 name: Phoenix Token (ERC-20)
+platform: ETH
+platform_contract: '0xaec65404ddc3af3c897ad89571d5772c1a695f22'

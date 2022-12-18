@@ -5,3 +5,5 @@ id_nomics: DCA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DCA3.jpg
 logoKey: currencies/dca3.jpg
 name: DCA Coin
+platform: BNB
+platform_contract: '0x254708f426ef8cc76d5ad5d4ffde6a3e8a2fd310'

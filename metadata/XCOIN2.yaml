@@ -5,3 +5,5 @@ id_nomics: XCOIN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XCOIN2.png
 logoKey: currencies/xcoin2.png
 name: dForce Coinbase Stock
+platform: BNB
+platform_contract: '0x3d9a9ed8a28a64827a684cee3aa499da1824bf6c'

@@ -5,3 +5,5 @@ id_nomics: WMW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WMW.jpg
 logoKey: currencies/wmw.jpg
 name: WoopMoney
+platform: BNB
+platform_contract: '0x3cd0e0154acb80bfbdd8dbffe3cb61ccf23c981e'

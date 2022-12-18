@@ -5,3 +5,5 @@ id_nomics: TGB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TGB2.jpg
 logoKey: currencies/tgb2.jpg
 name: Traders Global Business V2
+platform: BNB
+platform_contract: '0xffef225b4a1b5de683d53dd745664c4ef8840f61'

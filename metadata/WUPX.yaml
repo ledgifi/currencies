@@ -5,3 +5,5 @@ id_nomics: WUPX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WUPX.jpg
 logoKey: currencies/wupx.jpg
 name: Wrapped uPlexa
+platform: ETH
+platform_contract: '0xc3d91ffdf44eafc32a9e4489a4efe188489fc183'

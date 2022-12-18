@@ -5,3 +5,5 @@ id_nomics: SZOBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SZOBEP20.png
 logoKey: currencies/szobep20.png
 name: ShuttleOne (BEP-20)
+platform: BNB
+platform_contract: '0xab837ac8800083653e5d15ceaa7e23d20adfc991'

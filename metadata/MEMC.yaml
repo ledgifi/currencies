@@ -3,3 +3,5 @@ fiat: false
 id: MEMC
 id_nomics: MEMC
 name: MEMCOIN
+platform: BNB
+platform_contract: '0x46f34fb04e520012d352211eda6553cb631479b0'

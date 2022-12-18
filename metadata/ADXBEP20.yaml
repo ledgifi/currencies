@@ -5,3 +5,5 @@ id_nomics: ADXBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADXBEP20.jpg
 logoKey: currencies/adxbep20.jpg
 name: AdEx (BEP-20)
+platform: BNB
+platform_contract: '0x6bff4fb161347ad7de4a625ae5aa3a1ca7077819'

@@ -5,3 +5,5 @@ id_nomics: APEX5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APEX5.jpg
 logoKey: currencies/apex5.jpg
 name: Apex Finance
+platform: BNB
+platform_contract: '0x6563048e9bba7828f0b597d8a68880c886ef1709'

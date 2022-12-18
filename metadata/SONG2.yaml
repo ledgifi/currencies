@@ -5,3 +5,5 @@ id_nomics: SONG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SONG2.jpg
 logoKey: currencies/song2.jpg
 name: Beatify
+platform: MATIC
+platform_contract: '0x609255414ff5289f87c99baf9737a4ec85a18643'

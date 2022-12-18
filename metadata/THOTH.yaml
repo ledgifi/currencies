@@ -3,3 +3,5 @@ fiat: false
 id: THOTH
 id_nomics: THOTH
 name: THOTH
+platform: BNB
+platform_contract: '0x355c4ba923527a58f91e6c47c9e75a3f319edbb1'

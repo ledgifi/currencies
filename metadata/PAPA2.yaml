@@ -5,3 +5,5 @@ id_nomics: PAPA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAPA2.png
 logoKey: currencies/papa2.png
 name: PAPAFEG
+platform: BNB
+platform_contract: '0xE050de1C8F7c19A934DCf5f3851D40B206fb0183'

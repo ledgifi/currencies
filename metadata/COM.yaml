@@ -5,3 +5,5 @@ id_nomics: COM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COM.jpg
 logoKey: currencies/com.jpg
 name: Community Token
+platform: ETH
+platform_contract: '0x1b4052d98fb1888c2bf3b8d3b930e0aff8a910df'

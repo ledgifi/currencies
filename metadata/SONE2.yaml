@@ -3,3 +3,5 @@ fiat: false
 id: SONE2
 id_nomics: SONE2
 name: SbercoinOne
+platform: ETH
+platform_contract: '0xc55891e8b246417ac0ff87c292a8f34819b2e29b'

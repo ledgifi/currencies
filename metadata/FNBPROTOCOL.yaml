@@ -5,3 +5,5 @@ id_nomics: FNBPROTOCOL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FNBPROTOCOL.jpg
 logoKey: currencies/fnbprotocol.jpg
 name: FNB protocol
+platform: ETH
+platform_contract: '0x47b28f365bf4cb38db4b6356864bde7bc4b35129'

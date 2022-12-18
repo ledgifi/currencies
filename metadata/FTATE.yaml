@@ -5,3 +5,5 @@ id_nomics: FTATE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FTATE.jpg
 logoKey: currencies/ftate.jpg
 name: FreeTate
+platform: BNB
+platform_contract: '0xd85b65ad08be3e3371a5a09e160094c31535a84e'

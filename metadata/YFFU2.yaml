@@ -5,3 +5,5 @@ id_nomics: YFFU2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFFU2.jpg
 logoKey: currencies/yffu2.jpg
 name: YFFU.Finance 2.0
+platform: ETH
+platform_contract: '0xbd0001bb1a7ebdc64899161b48c60bcbef62004e'

@@ -6,3 +6,5 @@ id_nomics: XRHP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XRHP.jpg
 logoKey: currencies/xrhp.jpg
 name: RobinHoodProtocol
+platform: BNB
+platform_contract: '0x0e53c8779197ac62b93251ebcb1d562325a0f5f3'

@@ -5,3 +5,5 @@ id_nomics: PRC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRC2.jpeg
 logoKey: currencies/prc2.jpeg
 name: Pearl Rush Coin
+platform: BNB
+platform_contract: '0x0F48128537ad795B70fE0FF505386EdE303dB185'

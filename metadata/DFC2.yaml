@@ -5,3 +5,5 @@ id_nomics: DFC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DFC2.jpg
 logoKey: currencies/dfc2.jpg
 name: DeFiCoin
+platform: ETH
+platform_contract: '0xff362c6a335e373633f1677540aac6917208dc0d'

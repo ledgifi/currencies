@@ -5,3 +5,5 @@ id_nomics: RRSPACE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RRSPACE.jpg
 logoKey: currencies/rrspace.jpg
 name: RRSpace
+platform: ETH
+platform_contract: '0xdc7836bc6c84c51275365e337fd147db2dc7b3c3'

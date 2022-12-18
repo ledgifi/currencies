@@ -5,3 +5,5 @@ id_nomics: RBT8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RBT8.php
 logoKey: currencies/rbt8.php
 name: Rebelution Token
+platform: BNB
+platform_contract: '0xF9b620A19D19a7A595FA385b797B69b39d2Fb774'

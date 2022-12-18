@@ -5,3 +5,5 @@ id_nomics: IDEXBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IDEXBEP20.jpg
 logoKey: currencies/idexbep20.jpg
 name: IDEX Token (BEP-20)
+platform: BNB
+platform_contract: '0x0856978f7ffff0a2471b4520e3521c4b3343e36f'

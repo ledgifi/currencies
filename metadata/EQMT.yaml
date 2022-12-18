@@ -5,3 +5,5 @@ id_nomics: EQMT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EQMT.jpg
 logoKey: currencies/eqmt.jpg
 name: Equus Mining Token
+platform: ETH
+platform_contract: '0xa462d0e6bb788c7807b1b1c96992ce1f7069e195'

@@ -5,3 +5,5 @@ id_nomics: WFX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WFX.jpg
 logoKey: currencies/wfx.jpg
 name: WebFlix
+platform: ETH
+platform_contract: '0xba1ed22c69ad00739ee2b4abd70e270be9e87ee2'

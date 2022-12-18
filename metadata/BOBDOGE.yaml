@@ -3,3 +3,5 @@ fiat: false
 id: BOBDOGE
 id_nomics: BOBDOGE
 name: Bob Doge
+platform: BNB
+platform_contract: '0x973623284d894533b782ff87f0e672a2b990fb0a'

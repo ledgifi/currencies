@@ -5,3 +5,5 @@ id_nomics: OVEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OVEN.jpg
 logoKey: currencies/oven.jpg
 name: Oven
+platform: BNB
+platform_contract: '0x22e35e7c4dee96298c8d90ccdbdcedfc82e09395'

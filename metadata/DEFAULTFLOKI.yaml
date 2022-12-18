@@ -3,3 +3,5 @@ fiat: false
 id: DEFAULTFLOKI
 id_nomics: DEFAULTFLOKI
 name: Default Floki
+platform: BNB
+platform_contract: '0x7e34e49d2d2d8018c443ba8aa416986238948d16'

@@ -3,3 +3,5 @@ fiat: false
 id: MT2
 id_nomics: MT2
 name: MT Token
+platform: MATIC
+platform_contract: '0x0da6a7a0a2e7525950204bb2c511e47a52235b17'

@@ -6,3 +6,5 @@ id_nomics: HOFF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOFF.jpg
 logoKey: currencies/hoff.jpg
 name: Hoff Coin
+platform: ETH
+platform_contract: '0xb3f822dbbd694901e2051a2495a8755d6cfd5133'

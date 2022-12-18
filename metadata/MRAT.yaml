@@ -6,3 +6,5 @@ id_nomics: MRAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MRAT.jpg
 logoKey: currencies/mrat.jpg
 name: MoonRat
+platform: BNB
+platform_contract: '0x6d949f9297a522c0f97c232cc209a67bd7cfa471'

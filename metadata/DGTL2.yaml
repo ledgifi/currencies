@@ -5,3 +5,5 @@ id_nomics: DGTL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DGTL2.png
 logoKey: currencies/dgtl2.png
 name: Digitalatto
+platform: BNB
+platform_contract: '0x0a96EE8b3D59AeA26b4cC31342747e176e711FDd'

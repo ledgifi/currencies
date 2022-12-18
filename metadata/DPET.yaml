@@ -6,3 +6,5 @@ id_nomics: DPET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DPET.jpg
 logoKey: currencies/dpet.jpg
 name: My DeFi Pet
+platform: BNB
+platform_contract: '0xfb62ae373aca027177d1c18ee0862817f9080d08'

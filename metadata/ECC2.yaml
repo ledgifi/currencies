@@ -3,3 +3,5 @@ fiat: false
 id: ECC2
 id_nomics: ECC2
 name: ECC Token
+platform: ETH
+platform_contract: '0xd5bf66ff3dab4c74ac6014fd2181bd3ad1bbaf32'

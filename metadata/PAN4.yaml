@@ -5,3 +5,5 @@ id_nomics: PAN4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAN4.png
 logoKey: currencies/pan4.png
 name: Pandorium
+platform: BNB
+platform_contract: '0x72e3d54293e2912fc66cf4a93625ac8305e3120d'

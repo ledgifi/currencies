@@ -5,3 +5,5 @@ id_nomics: WONK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WONK.png
 logoKey: currencies/wonk.png
 name: WojakBonk
+platform: BNB
+platform_contract: '0x38cfa7586df6c26d5755ae4e72557cb29d8830e6'

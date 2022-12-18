@@ -6,3 +6,5 @@ id_nomics: YOK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YOK.jpg
 logoKey: currencies/yok.jpg
 name: YOKcoin
+platform: ETH
+platform_contract: '0x05fcc72cfb4150abae415c885f7a433ff523296f'

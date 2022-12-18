@@ -6,3 +6,5 @@ id_nomics: ITG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ITG.jpg
 logoKey: currencies/itg.jpg
 name: iTrust Governance Token
+platform: ETH
+platform_contract: '0xf88b137cfa667065955abd17525e89edcf4d6426'

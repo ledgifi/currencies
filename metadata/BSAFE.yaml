@@ -6,3 +6,5 @@ id_nomics: BSAFE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSAFE.jpg
 logoKey: currencies/bsafe.jpg
 name: BeeSafe
+platform: ETH
+platform_contract: '0x462bdd68a4be090b2166627e212788cb91abb655'

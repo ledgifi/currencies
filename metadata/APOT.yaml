@@ -6,3 +6,5 @@ id_nomics: APOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APOT.png
 logoKey: currencies/apot.png
 name: APOT
+platform: ETH
+platform_contract: '0x16c1e5baf21b9fa4bc9f2c374e4dc19fab5ac5dc'

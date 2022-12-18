@@ -5,3 +5,5 @@ id_nomics: SHINJI3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHINJI3.png
 logoKey: currencies/shinji3.png
 name: Shinjiru Inu
+platform: BNB
+platform_contract: '0x6dfd3103E680e85A4e1fB4903Ec4E99bDfAfC182'

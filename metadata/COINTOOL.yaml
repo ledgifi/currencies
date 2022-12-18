@@ -3,3 +3,5 @@ fiat: false
 id: COINTOOL
 id_nomics: COINTOOL
 name: CoinTool
+platform: ARBETH
+platform_contract: '0x77cb46f81f5acb918b5f3599d45f9739c351705c'

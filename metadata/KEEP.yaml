@@ -8,3 +8,5 @@ id_nomics: KEEP
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210617/09a474b7-9fe8-47fd-8fc7-c7a8e4470c8c.png
 logoKey: currencies/keep.png
 name: Keep Network
+platform: ETH
+platform_contract: '0x85eee30c52b0b379b046fb0f85f4f3dc3009afec'

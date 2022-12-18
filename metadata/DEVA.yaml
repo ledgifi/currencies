@@ -6,3 +6,5 @@ id_nomics: DEVA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEVA.jpg
 logoKey: currencies/deva.jpg
 name: DEVA Token
+platform: ETH
+platform_contract: '0x7ed621d37e30214d5e197454f08b1c5c9558517a'

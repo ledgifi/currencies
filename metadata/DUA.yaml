@@ -3,3 +3,5 @@ fiat: false
 id: DUA
 id_nomics: DUA
 name: DUA
+platform: MATIC
+platform_contract: '0x38fc4bcc17f7ee24f49b9f0f693349e5bce266ea'

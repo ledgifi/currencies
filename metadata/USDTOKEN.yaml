@@ -3,3 +3,5 @@ fiat: false
 id: USDTOKEN
 id_nomics: USDTOKEN
 name: USD Token
+platform: BNB
+platform_contract: '0x3e9bd4d0e498e704e84a787abbb1584032173789'

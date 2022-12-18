@@ -6,3 +6,5 @@ id_nomics: WOLFY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOLFY.jpg
 logoKey: currencies/wolfy.jpg
 name: Wolfy
+platform: ETH
+platform_contract: '0x7dbbcae15d4db168e01673400d7844870cc1e36f'

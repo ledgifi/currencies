@@ -6,3 +6,5 @@ id_nomics: MISTEL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MISTEL.jpg
 logoKey: currencies/mistel.jpg
 name: Mistel Finance
+platform: AVAX
+platform_contract: '0xf3f8772f92028bfb6d641c28bbcf1dbded424767'

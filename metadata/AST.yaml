@@ -8,3 +8,5 @@ id_nomics: AST
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/ast.svg
 logoKey: currencies/ast.svg
 name: AirSwap
+platform: ETH
+platform_contract: '0x27054b13b1b798b345b591a4d22e6562d47ea75a'

@@ -5,3 +5,5 @@ id_nomics: METARC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METARC.png
 logoKey: currencies/metarc.png
 name: Meta Arcade
+platform: BNB
+platform_contract: '0xdf41c31bbe17fafab4b5a172faaa5755aac772f0'

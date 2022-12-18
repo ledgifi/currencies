@@ -5,3 +5,5 @@ id_nomics: MIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIT.jpg
 logoKey: currencies/mit.jpg
 name: Minerta
+platform: ETH
+platform_contract: '0xc7d9dfa504a61b7f2cce80ca2aadce134b21bb67'

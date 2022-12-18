@@ -5,3 +5,5 @@ id_nomics: MEMO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEMO.png
 logoKey: currencies/memo.png
 name: MEMOries (Wonderland)
+platform: AVAX
+platform_contract: '0x136acd46c134e8269052c62a67042d6bdedde3c9'

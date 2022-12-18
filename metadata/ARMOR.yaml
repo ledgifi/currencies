@@ -5,3 +5,5 @@ id_nomics: ARMOR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARMOR.png
 logoKey: currencies/armor.png
 name: ARMOR
+platform: ETH
+platform_contract: '0x1337def16f9b486faed0293eb623dc8395dfe46a'

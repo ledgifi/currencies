@@ -3,3 +3,5 @@ fiat: false
 id: BRDG3
 id_nomics: BRDG3
 name: Bridge Network
+platform: BNB
+platform_contract: '0x1562c99ad7179b7d1d862ff4e8bff6cc016a97ee'

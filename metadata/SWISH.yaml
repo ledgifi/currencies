@@ -3,3 +3,5 @@ fiat: false
 id: SWISH
 id_nomics: SWISH
 name: SWISH
+platform: ETH
+platform_contract: '0xd87ee2cd7cd54ee8e5f0d73387215aaac17ec198'

@@ -5,3 +5,5 @@ id_nomics: ADAM3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADAM3.jpeg
 logoKey: currencies/adam3.jpeg
 name: Ada Metaverse
+platform: BNB
+platform_contract: '0x17ccbd4335010d7a11f9d1b06f135e077f6f979f'

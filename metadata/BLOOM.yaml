@@ -3,3 +3,5 @@ fiat: false
 id: BLOOM
 id_nomics: BLOOM
 name: Bloom Token
+platform: FTM
+platform_contract: '0x9b2e37cdc711cfcac1e1482b5741c74dd3924199'

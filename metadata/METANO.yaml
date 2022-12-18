@@ -4,3 +4,5 @@ id: METANO
 id_nomics: METANO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METANO.png
 name: Metano
+platform: ETH
+platform_contract: '0x9d9e399e5385e2b9a58d4f775a1e16441b571afb'

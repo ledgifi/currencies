@@ -6,3 +6,5 @@ id_nomics: GOVI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOVI.png
 logoKey: currencies/govi.png
 name: Govi
+platform: ETH
+platform_contract: '0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107'

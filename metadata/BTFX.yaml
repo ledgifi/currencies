@@ -5,3 +5,5 @@ id_nomics: BTFX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTFX.png
 logoKey: currencies/btfx.png
 name: BITFLEX
+platform: ETH
+platform_contract: '0x9bac0cd26ef307a01031ca58963509d2b7be6664'

@@ -6,3 +6,5 @@ id_nomics: BABYXRP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYXRP.jpg
 logoKey: currencies/babyxrp.jpg
 name: Baby Ripple
+platform: BNB
+platform_contract: '0xbc9bb68c561a1ff1b3fbc954fcead1d4862ac5cf'

@@ -5,3 +5,5 @@ id_nomics: SC8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SC8.jpg
 logoKey: currencies/sc8.jpg
 name: Swish Finance
+platform: BNB
+platform_contract: '0xa723595D2C84076E78cF8e0AF46F7B48460001Ec'

@@ -3,3 +3,5 @@ fiat: false
 id: JORO
 id_nomics: JORO
 name: Joro Token
+platform: ETH
+platform_contract: '0x1fb747e7feaaf3d749c433aa854a990628ca51dc'

@@ -5,3 +5,5 @@ id_nomics: FANT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FANT.jpg
 logoKey: currencies/fant.jpg
 name: Fantour
+platform: BNB
+platform_contract: '0xa9261e3ebd3f88d4c069c8d0a2e12a02edbf2ba7'

@@ -5,3 +5,5 @@ id_nomics: MAQ2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAQ2.jpg
 logoKey: currencies/maq2.jpg
 name: MAQ
+platform: BNB
+platform_contract: '0x702a56618820f5c5fa3508ef176c552597952276'

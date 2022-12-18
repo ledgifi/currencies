@@ -5,3 +5,5 @@ id_nomics: YFIIBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFIIBEP20.jpg
 logoKey: currencies/yfiibep20.jpg
 name: YFII.finance Token (BEP-20)
+platform: BNB
+platform_contract: '0x7f70642d88cf1c4a3a7abb072b53b929b653eda5'

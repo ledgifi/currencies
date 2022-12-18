@@ -6,3 +6,5 @@ id_nomics: LAUNCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LAUNCH.jpg
 logoKey: currencies/launch.jpg
 name: SuperLauncher
+platform: BNB
+platform_contract: '0xb5389a679151c4b8621b1098c6e0961a3cfee8d4'

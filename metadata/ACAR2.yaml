@@ -5,3 +5,5 @@ id_nomics: ACAR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACAR2.png
 logoKey: currencies/acar2.png
 name: AGA Carbon Rewards
+platform: MATIC
+platform_contract: '0xcbce9f77921c2e90522d438df4c5582f4c617768'

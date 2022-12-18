@@ -5,3 +5,5 @@ id_nomics: FLO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLO3.png
 logoKey: currencies/flo3.png
 name: Flash Oracle
+platform: ETH
+platform_contract: '0x2de3399d849f431d0303b5590817d60d2af8dadd'

@@ -3,3 +3,5 @@ fiat: false
 id: EKOJI
 id_nomics: EKOJI
 name: Ethereum KOJI
+platform: ETH
+platform_contract: '0x64a20352f977898b63dbc893d13dd26be654851a'

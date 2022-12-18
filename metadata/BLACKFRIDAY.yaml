@@ -3,3 +3,5 @@ fiat: false
 id: BLACKFRIDAY
 id_nomics: BLACKFRIDAY
 name: BlackFriday
+platform: ARBETH
+platform_contract: '0x1255bfb1988cc45af67202d2fc78e238c588b9dd'

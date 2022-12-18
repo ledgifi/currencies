@@ -5,3 +5,5 @@ id_nomics: ARCANINEINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARCANINEINU.jpg
 logoKey: currencies/arcanineinu.jpg
 name: ArcanineInu
+platform: ETH
+platform_contract: '0xe217c5eb9ea6f94ba965fabd0e867aa47b6f986e'

@@ -6,3 +6,5 @@ id_nomics: ACCEL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACCEL.jpg
 logoKey: currencies/accel.jpg
 name: Accel Defi
+platform: ETH
+platform_contract: '0x7475c42f8bf2c19f4eaf12feaababa859fdc8914'

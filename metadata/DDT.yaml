@@ -6,3 +6,5 @@ id_nomics: DDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DDT.jpg
 logoKey: currencies/ddt.jpg
 name: Dar Dex Token
+platform: BNB
+platform_contract: '0x28a899e29235e973a69e7c5df833d8cd63985fce'

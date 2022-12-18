@@ -5,3 +5,5 @@ id_nomics: MFS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MFS2.jpg
 logoKey: currencies/mfs2.jpg
 name: Moonbase File System
+platform: BNB
+platform_contract: '0xdf4110b7e785c52bd2ff5696e73b1a9c1a5125cf'

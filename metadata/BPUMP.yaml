@@ -3,3 +3,5 @@ fiat: false
 id: BPUMP
 id_nomics: BPUMP
 name: Bogdanoff Pump
+platform: ETH
+platform_contract: '0xab1b11e04811d6d29b299c454aed04847c5e0cfd'

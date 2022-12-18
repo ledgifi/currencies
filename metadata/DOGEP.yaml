@@ -6,3 +6,5 @@ id_nomics: DOGEP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEP.png
 logoKey: currencies/dogep.png
 name: Doge Protocol
+platform: ETH
+platform_contract: '0xe7eaec9bca79d537539c00c58ae93117fb7280b9'

@@ -5,3 +5,5 @@ id_nomics: CHEESE4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHEESE4.jpg
 logoKey: currencies/cheese4.jpg
 name: CheeseFry
+platform: ETH
+platform_contract: '0x332e824e46fceeb9e59ba9491b80d3e6d42b0b59'

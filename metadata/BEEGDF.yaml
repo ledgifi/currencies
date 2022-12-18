@@ -3,3 +3,5 @@ fiat: false
 id: BEEGDF
 id_nomics: BEEGDF
 name: BeeGDFtoken
+platform: BNB
+platform_contract: '0x31045bc296f4fee9ecb5e699b48c12cf2fa7948a'

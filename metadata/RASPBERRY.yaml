@@ -3,3 +3,5 @@ fiat: false
 id: RASPBERRY
 id_nomics: RASPBERRY
 name: Raspberry Coin
+platform: BNB
+platform_contract: '0xcb843f0ca3c5e93b46c1fbc83329944b8380316b'

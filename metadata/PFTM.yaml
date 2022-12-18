@@ -3,3 +3,5 @@ fiat: false
 id: PFTM
 id_nomics: PFTM
 name: pFTM
+platform: FTM
+platform_contract: '0x112df7e3b4b7ab424f07319d4e92f41e6608c48b'

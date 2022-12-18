@@ -3,3 +3,5 @@ fiat: false
 id: AMA
 id_nomics: AMA
 name: Amaten
+platform: ETH
+platform_contract: '0xd7e1e4530d95717506633e58437f056a49c1fabb'

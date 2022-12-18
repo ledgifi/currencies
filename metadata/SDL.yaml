@@ -5,3 +5,5 @@ id_nomics: SDL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SDL.jpg
 logoKey: currencies/sdl.jpg
 name: Saddle Finance
+platform: ETH
+platform_contract: '0xf1dc500fde233a4055e25e5bbf516372bc4f6871'

@@ -5,3 +5,5 @@ id_nomics: PIT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIT2.jpg
 logoKey: currencies/pit2.jpg
 name: Pitbull
+platform: BNB
+platform_contract: '0xa57ac35ce91ee92caefaa8dc04140c8e232c2e50'

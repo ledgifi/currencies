@@ -5,3 +5,5 @@ id_nomics: WBTCHRC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WBTCHRC20.png
 logoKey: currencies/wbtchrc20.png
 name: Wrapped Bitcoin (Harmony)
+platform: HARMONY
+platform_contract: '0x3095c7557bcb296ccc6e363de01b760ba031f2d9'

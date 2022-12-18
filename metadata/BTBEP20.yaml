@@ -5,3 +5,5 @@ id_nomics: BTBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTBEP20.jpg
 logoKey: currencies/btbep20.jpg
 name: BT.Finance (BEP-20)
+platform: BNB
+platform_contract: '0x5478a575ece4fb4768d1d43edf5826cfe1c6225a'

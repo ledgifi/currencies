@@ -5,3 +5,5 @@ id_nomics: MAO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAO2.jpeg
 logoKey: currencies/mao2.jpeg
 name: WaterTigerMao
+platform: BNB
+platform_contract: '0xd29b049488518fc7b26f7622d4d663b66dc7f2cb'

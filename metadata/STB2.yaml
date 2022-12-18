@@ -5,3 +5,5 @@ id_nomics: STB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STB2.jpg
 logoKey: currencies/stb2.jpg
 name: Storm Bringer token
+platform: BNB
+platform_contract: '0x25926e600725227b61e187ae4df6d3a0e06802a4'

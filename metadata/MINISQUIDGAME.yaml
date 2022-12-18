@@ -5,3 +5,5 @@ id_nomics: MINISQUIDGAME
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINISQUIDGAME.jpeg
 logoKey: currencies/minisquidgame.jpeg
 name: MiniSquidGame
+platform: BNB
+platform_contract: '0x5cc46683c7951449d02d3e65806ddb454a8c72bc'

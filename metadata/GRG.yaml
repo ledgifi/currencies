@@ -5,3 +5,5 @@ id_nomics: GRG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GRG.jpg
 logoKey: currencies/grg.jpg
 name: RigoBlock
+platform: ETH
+platform_contract: '0x4fbb350052bca5417566f188eb2ebce5b19bc964'

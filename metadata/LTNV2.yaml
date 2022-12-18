@@ -5,3 +5,5 @@ id_nomics: LTNV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LTNV2.jpg
 logoKey: currencies/ltnv2.jpg
 name: Life Token v2
+platform: BNB
+platform_contract: '0x167e5455e4c978883b414e7f02c0147eec9a18e9'

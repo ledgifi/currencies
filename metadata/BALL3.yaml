@@ -5,3 +5,5 @@ id_nomics: BALL3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BALL3.jpg
 logoKey: currencies/ball3.jpg
 name: Ball Token
+platform: MATIC
+platform_contract: '0x883abe4168705d2e5da925d28538b7a6aa9d8419'

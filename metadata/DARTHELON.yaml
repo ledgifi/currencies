@@ -5,3 +5,5 @@ id_nomics: DARTHELON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DARTHELON.jpg
 logoKey: currencies/darthelon.jpg
 name: DarthElon
+platform: BNB
+platform_contract: '0xeb08ef74268cda2811025179b22bc63c410bd06e'

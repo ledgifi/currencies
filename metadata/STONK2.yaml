@@ -5,3 +5,5 @@ id_nomics: STONK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STONK2.jpg
 logoKey: currencies/stonk2.jpg
 name: STONKS
+platform: ETH
+platform_contract: '0x60ca261e14f26e8daae8b1a7f8e783d64859126c'

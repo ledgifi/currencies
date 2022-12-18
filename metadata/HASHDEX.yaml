@@ -3,3 +3,5 @@ fiat: false
 id: HASHDEX
 id_nomics: HASHDEX
 name: Hashdex Metaverse
+platform: ETH
+platform_contract: '0x85e116993eb8367b6a34db1cf608fa0555a2ddfd'

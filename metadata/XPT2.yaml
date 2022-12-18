@@ -5,3 +5,5 @@ id_nomics: XPT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XPT2.jpg
 logoKey: currencies/xpt2.jpg
 name: XPToken.io
+platform: ETH
+platform_contract: '0xf0814d0e47f2390a8082c4a1bd819fdde50f9bfc'

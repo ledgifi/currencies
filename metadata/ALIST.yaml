@@ -6,3 +6,5 @@ id_nomics: ALIST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALIST.jpeg
 logoKey: currencies/alist.jpeg
 name: A-List Royale
+platform: BNB
+platform_contract: '0x9e96e806f8f72ce3bc59f8169cce9b1d0968aa2d'

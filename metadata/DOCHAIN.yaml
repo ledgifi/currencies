@@ -5,3 +5,5 @@ id_nomics: DOCHAIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOCHAIN.png
 logoKey: currencies/dochain.png
 name: Dochain
+platform: ETH
+platform_contract: '0x450bbc727100d806797cd617c88d1319563f8416'

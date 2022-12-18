@@ -6,3 +6,5 @@ id_nomics: DEXF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEXF.png
 logoKey: currencies/dexf.png
 name: Dexfolio
+platform: BNB
+platform_contract: '0xb9844a9cb6abd9f86bb0b3ad159e37eecce08987'

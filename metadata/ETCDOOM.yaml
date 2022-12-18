@@ -3,3 +3,5 @@ fiat: false
 id: ETCDOOM
 id_nomics: ETCDOOM
 name: 10X Short Ethereum Classic Token
+platform: ETH
+platform_contract: '0x7d1234e0b45acb7dadc321325ba113a6f7caa7ee'

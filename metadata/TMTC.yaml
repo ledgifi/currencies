@@ -3,3 +3,5 @@ fiat: false
 id: TMTC
 id_nomics: TMTC
 name: MTCToken
+platform: BNB
+platform_contract: '0xb6535a18476109cf633c8a196371db5d8e25377a'

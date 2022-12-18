@@ -6,3 +6,5 @@ id_nomics: VDV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VDV.jpg
 logoKey: currencies/vdv.jpg
 name: VDV Token
+platform: BNB
+platform_contract: '0xe586a0af5f3844f1408fed1d284270827a116010'

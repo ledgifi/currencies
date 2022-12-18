@@ -5,3 +5,5 @@ id_nomics: BETS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BETS2.jpg
 logoKey: currencies/bets2.jpg
 name: Betswamp
+platform: BNB
+platform_contract: '0x749f031fda3a4904b026f2275a697096492a129d'

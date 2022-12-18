@@ -5,3 +5,5 @@ id_nomics: CBC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBC.png
 logoKey: currencies/cbc.png
 name: CashBet
+platform: ETH
+platform_contract: '0x26db5439f651caf491a87d48799da81f191bdb6b'

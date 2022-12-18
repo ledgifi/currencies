@@ -5,3 +5,5 @@ id_nomics: SBC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBC3.png
 logoKey: currencies/sbc3.png
 name: Shiba Cent
+platform: BNB
+platform_contract: '0x13ee60e445a63c06dcbe62d378ea6e2f417ca29a'

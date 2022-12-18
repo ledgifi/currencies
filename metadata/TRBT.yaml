@@ -5,3 +5,5 @@ id_nomics: TRBT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRBT.jpg
 logoKey: currencies/trbt.jpg
 name: Tribute
+platform: ETH
+platform_contract: '0x7031ab87dcc46818806ec07af46fa8c2ad2a2bfc'

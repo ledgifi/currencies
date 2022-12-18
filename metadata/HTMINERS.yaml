@@ -3,3 +3,5 @@ fiat: false
 id: HTMINERS
 id_nomics: HTMINERS
 name: HTMiners
+platform: HT
+platform_contract: '0x52f56cbe0f26a2da83d5bb9f556ac95b22e8e12c'

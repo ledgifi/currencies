@@ -5,3 +5,5 @@ id_nomics: KAMI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAMI2.jpg
 logoKey: currencies/kami2.jpg
 name: Kamiland
+platform: BNB
+platform_contract: '0x8d841867c96253f3d3a93f33ddeba341906a529c'

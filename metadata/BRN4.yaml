@@ -5,3 +5,5 @@ id_nomics: BRN4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRN4.png
 logoKey: currencies/brn4.png
 name: BurnIt
+platform: AVAX
+platform_contract: '0x9ccad19669259c1fbf13fda959400c871b3d0e00'

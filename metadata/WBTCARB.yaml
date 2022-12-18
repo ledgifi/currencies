@@ -5,3 +5,5 @@ id_nomics: WBTCARB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WBTCARB.png
 logoKey: currencies/wbtcarb.png
 name: Wrapped BTC (Arbitrum)
+platform: ARBETH
+platform_contract: '0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f'

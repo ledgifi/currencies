@@ -3,3 +3,5 @@ fiat: false
 id: JPORT
 id_nomics: JPORT
 name: JPort
+platform: ETH
+platform_contract: '0x873ba92b5659c0fe0ef03959eed854f32839e220'

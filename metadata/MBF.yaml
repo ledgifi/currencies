@@ -6,3 +6,5 @@ id_nomics: MBF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MBF.jpg
 logoKey: currencies/mbf.jpg
 name: MoonBear Finance
+platform: BNB
+platform_contract: '0xe2997ae926c7a76af782923a7fef89f36d86c98f'

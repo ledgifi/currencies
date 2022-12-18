@@ -5,3 +5,5 @@ id_nomics: BGC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BGC3.jpg
 logoKey: currencies/bgc3.jpg
 name: BigCash
+platform: ETH
+platform_contract: '0xd043f70ff0634167db1149b15e5668f5be52d72c'

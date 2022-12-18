@@ -5,3 +5,5 @@ id_nomics: BNBCKB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNBCKB.png
 logoKey: currencies/bnbckb.png
 name: BNB (via Force Bridge from BSC)
+platform: CKB
+platform_contract: '0xbadb9b25150ee75bb794198658a4d0448e43e528'

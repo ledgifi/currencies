@@ -5,3 +5,5 @@ id_nomics: TABBY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TABBY.jpeg
 logoKey: currencies/tabby.jpeg
 name: TABBY
+platform: BNB
+platform_contract: '0x10476cdbdd123499b29bd27b8b8c56f713627f22'

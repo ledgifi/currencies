@@ -5,3 +5,5 @@ id_nomics: QEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QEN.png
 logoKey: currencies/qen.png
 name: QUENTIN
+platform: BNB
+platform_contract: '0x074b65fc52b5ecbdde83da2716e66680e1b88670'

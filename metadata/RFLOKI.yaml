@@ -5,3 +5,5 @@ id_nomics: RFLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RFLOKI.jpeg
 logoKey: currencies/rfloki.jpeg
 name: Rewards Floki
+platform: BNB
+platform_contract: '0x49844d33f9de2a7847842f6e2382fedfaf619748'

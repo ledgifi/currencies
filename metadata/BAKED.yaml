@@ -5,3 +5,5 @@ id_nomics: BAKED
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAKED.jpg
 logoKey: currencies/baked.jpg
 name: Baked Token
+platform: ETH
+platform_contract: '0xa4cb0dce4849bdcad2d553e9e68644cf40e26cce'

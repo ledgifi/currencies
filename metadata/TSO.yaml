@@ -3,3 +3,5 @@ fiat: false
 id: TSO
 id_nomics: TSO
 name: Technical Standard Orders
+platform: HT
+platform_contract: '0xdef5d6a283b3754c8c3fb86c65399d2a70afaf3d'

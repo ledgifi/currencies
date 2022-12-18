@@ -5,3 +5,5 @@ id_nomics: OZG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OZG.png
 logoKey: currencies/ozg.png
 name: Ozagold
+platform: BNB
+platform_contract: '0x8460b5a15b41e3fca7df1ed98a5017bbf518f3a9'

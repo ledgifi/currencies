@@ -5,3 +5,5 @@ id_nomics: HSHARES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HSHARES.jpg
 logoKey: currencies/hshares.jpg
 name: HERMES Shares
+platform: AVAX
+platform_contract: '0xfa4b6db72a650601e7bd50a0a9f537c9e98311b2'

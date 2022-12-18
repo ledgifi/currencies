@@ -5,3 +5,5 @@ id_nomics: EARTH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EARTH2.jpg
 logoKey: currencies/earth2.jpg
 name: EarthChain
+platform: BNB
+platform_contract: '0xc5ededb242e20d3fa5ee0c4cbd4de909f22395e9'

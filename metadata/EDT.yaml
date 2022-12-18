@@ -6,3 +6,5 @@ id_nomics: EDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EDT.png
 logoKey: currencies/edt.png
 name: EtherDelta Token
+platform: ETH
+platform_contract: '0xce53a179047ebed80261689367c093c90a94cc08'

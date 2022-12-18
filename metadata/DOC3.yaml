@@ -5,3 +5,5 @@ id_nomics: DOC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOC3.png
 logoKey: currencies/doc3.png
 name: Dollar on Chain
+platform: RBTC
+platform_contract: '0xe700691da7b9851f2f35f8b8182c69c53ccad9db'

@@ -5,3 +5,5 @@ id_nomics: LEOPARD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LEOPARD.jpg
 logoKey: currencies/leopard.jpg
 name: Leopard
+platform: BNB
+platform_contract: '0x4efab39b14167da54aebed2094a61aa1fd384056'

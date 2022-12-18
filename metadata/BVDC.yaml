@@ -3,3 +3,5 @@ fiat: false
 id: BVDC
 id_nomics: BVDC
 name: BVDC
+platform: HT
+platform_contract: '0x962850f1bb29198290b111a87b535652db801bbc'

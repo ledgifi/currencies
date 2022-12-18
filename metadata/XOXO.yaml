@@ -6,3 +6,5 @@ id_nomics: XOXO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XOXO.png
 logoKey: currencies/xoxo.png
 name: Bitxoxo
+platform: ETH
+platform_contract: '0x222139425bcb172721dd4c22c29dd841d4358f69'

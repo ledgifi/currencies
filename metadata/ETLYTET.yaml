@@ -6,3 +6,5 @@ id_nomics: ETLYTET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETLYTET.jpg
 logoKey: currencies/etlytet.jpg
 name: Ethlyte Crypto
+platform: ETH
+platform_contract: '0x1d8ca7baf0895da8afcf153657be064b5092a274'

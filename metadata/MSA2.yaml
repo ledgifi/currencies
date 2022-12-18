@@ -5,3 +5,5 @@ id_nomics: MSA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSA2.jpg
 logoKey: currencies/msa2.jpg
 name: My Shiba Academia
+platform: ETH
+platform_contract: '0x93a20a5f1709659005e1610d1a022d5f1e2d0df7'

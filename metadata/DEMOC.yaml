@@ -3,3 +3,5 @@ fiat: false
 id: DEMOC
 id_nomics: DEMOC
 name: Democ Token
+platform: BNB
+platform_contract: '0xa5fb8f093d546446572e940bbd36db4b7460672c'

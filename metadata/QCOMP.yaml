@@ -5,3 +5,5 @@ id_nomics: QCOMP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QCOMP.jpeg
 logoKey: currencies/qcomp.jpeg
 name: Quantum Compound
+platform: BNB
+platform_contract: '0x10850d9eaE94E21C09C92691EC3a575BA86D4E70'

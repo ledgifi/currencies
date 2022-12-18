@@ -6,3 +6,5 @@ id_nomics: ICNQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/icnq.png
 logoKey: currencies/icnq.png
 name: Iconiq Lab Token
+platform: ETH
+platform_contract: '0xb3e2cb7cccfe139f8ff84013823bf22da6b6390a'

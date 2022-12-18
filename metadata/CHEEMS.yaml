@@ -5,3 +5,5 @@ id_nomics: CHEEMS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHEEMS.jpg
 logoKey: currencies/cheems.jpg
 name: PolyCheems
+platform: MATIC
+platform_contract: '0xf74703cc85d760a65018d9a4b393ff22fff9be08'

@@ -6,3 +6,5 @@ id_nomics: BETR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/betr.jpg
 logoKey: currencies/betr.jpg
 name: BetterBetting
+platform: ETH
+platform_contract: '0x763186eb8d4856d536ed4478302971214febc6a9'

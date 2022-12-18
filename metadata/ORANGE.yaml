@@ -6,3 +6,5 @@ id_nomics: ORANGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORANGE.png
 logoKey: currencies/orange.png
 name: Orange Token
+platform: BNB
+platform_contract: '0xacab3ee32aacdbc745667fb261ed7af1de5c5ecd'

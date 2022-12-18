@@ -5,3 +5,5 @@ id_nomics: SUT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUT.png
 logoKey: currencies/sut.png
 name: SUAPP
+platform: ETH
+platform_contract: '0xf83e5f1ba4a36a4b02f056291dc529d4f2d3959a'

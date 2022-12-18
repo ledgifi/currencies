@@ -6,3 +6,5 @@ id_nomics: OGODS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OGODS.jpg
 logoKey: currencies/ogods.jpg
 name: GOTOGODS
+platform: ETH
+platform_contract: '0x1051a014e4b3f2bd08e5a7e52522f0f71628162b'

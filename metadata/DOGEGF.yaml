@@ -6,3 +6,5 @@ id_nomics: DOGEGF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEGF.jpg
 logoKey: currencies/dogegf.jpg
 name: DogeGF
+platform: ETH
+platform_contract: '0xfb130d93e49dca13264344966a611dc79a456bc5'

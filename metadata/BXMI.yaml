@@ -6,3 +6,5 @@ id_nomics: BXMI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BXMI.jpg
 logoKey: currencies/bxmi.jpg
 name: Bxmi Token
+platform: ETH
+platform_contract: '0xc703bdef2e8e0d36c0c25d485be854e44f81a774'

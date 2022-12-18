@@ -3,3 +3,5 @@ fiat: false
 id: SPHD
 id_nomics: SPHD
 name: SPHD
+platform: HT
+platform_contract: '0x1a0636b2784bf4019671cdc4e2df21f89adc1fbe'

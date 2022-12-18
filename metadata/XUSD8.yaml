@@ -4,3 +4,5 @@ id: XUSD8
 id_nomics: XUSD8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XUSD8.png
 name: Space Rebase XUSD
+platform: MATIC
+platform_contract: '0x81ee105457c4eafc061b8c8fedc7bb45d22286d2'

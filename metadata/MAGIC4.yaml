@@ -5,3 +5,5 @@ id_nomics: MAGIC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAGIC4.jpg
 logoKey: currencies/magic4.jpg
 name: Magic
+platform: HARMONY
+platform_contract: '0x892d81221484f690c0a97d3dd18b9144a3ecdfb7'

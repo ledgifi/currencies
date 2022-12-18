@@ -3,3 +3,5 @@ fiat: false
 id: SNZ
 id_nomics: SNZ
 name: SNZCOIN
+platform: BNB
+platform_contract: '0xb21b964ba56a552d7ae8d545472188ef48ae7707'

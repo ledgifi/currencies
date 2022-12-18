@@ -6,3 +6,5 @@ id_nomics: WATER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WATER.jpg
 logoKey: currencies/water.jpg
 name: Water Finance
+platform: BNB
+platform_contract: '0x57f81252d1187754048f5af1938226b9034b599f'

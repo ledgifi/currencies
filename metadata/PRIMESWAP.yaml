@@ -3,3 +3,5 @@ fiat: false
 id: PRIMESWAP
 id_nomics: PRIMESWAP
 name: Prime Swap
+platform: ARBETH
+platform_contract: '0x68e8346e445f95e014ec05bb28ef245eb0d21f81'

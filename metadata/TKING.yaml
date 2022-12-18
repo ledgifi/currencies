@@ -6,3 +6,5 @@ id_nomics: TKING
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TKING.jpg
 logoKey: currencies/tking.jpg
 name: Tiger King
+platform: ETH
+platform_contract: '0xc626d951eff8e421448074bd2ad7805c6d585793'

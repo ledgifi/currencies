@@ -3,3 +3,5 @@ fiat: false
 id: TFTBEP20
 id_nomics: TFTBEP20
 name: The Famous Token (BEP-20)
+platform: BNB
+platform_contract: '0xa9d3fa202b4915c3eca496b0e7db41567cfa031c'

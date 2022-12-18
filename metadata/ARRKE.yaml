@@ -3,3 +3,5 @@ fiat: false
 id: ARRKE
 id_nomics: ARRKE
 name: The Final Block
+platform: ETH
+platform_contract: '0x9a2c05fb6960b0769199338f649097e552d55d29'

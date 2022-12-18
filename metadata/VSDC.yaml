@@ -3,3 +3,5 @@ fiat: false
 id: VSDC
 id_nomics: VSDC
 name: VSD Coin
+platform: ETH
+platform_contract: '0x7311cd50667eff17f4e97dffbe9683aec47e4890'

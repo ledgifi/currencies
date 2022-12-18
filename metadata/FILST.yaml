@@ -5,3 +5,5 @@ id_nomics: FILST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FILST.jpg
 logoKey: currencies/filst.jpg
 name: Filecoin Standard Token
+platform: ETH
+platform_contract: '0x7346ad4c8cd1886ff6d16072bcea5dfc0bc24ca2'

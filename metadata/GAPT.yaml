@@ -5,3 +5,5 @@ id_nomics: GAPT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAPT.jpg
 logoKey: currencies/gapt.jpg
 name: GAPToken
+platform: BNB
+platform_contract: '0x24c5aaa98ed11594a4ebb69e065790c716c39e10'

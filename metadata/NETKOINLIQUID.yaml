@@ -5,3 +5,5 @@ id_nomics: NETKOINLIQUID
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NETKOINLIQUID.png
 logoKey: currencies/netkoinliquid.png
 name: Netkoin Liquid
+platform: ETH
+platform_contract: '0xac2385e183d9301dd5e2bb08da932cbf9800dc9c'

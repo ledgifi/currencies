@@ -3,3 +3,5 @@ fiat: false
 id: MONZA
 id_nomics: MONZA
 name: CriptoMonza
+platform: BNB
+platform_contract: '0x68c5a76a952903e416bbac924d66833811e8f08a'

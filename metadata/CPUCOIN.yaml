@@ -5,3 +5,5 @@ id_nomics: CPUCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CPUCOIN.png
 logoKey: currencies/cpucoin.png
 name: CPUcoin
+platform: ETH
+platform_contract: '0x6d52dfefb16bb9cdc78bfca09061e44574886626'

@@ -5,3 +5,5 @@ id_nomics: XVC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XVC3.jpeg
 logoKey: currencies/xvc3.jpeg
 name: Xave Coin
+platform: ETH
+platform_contract: '0x4fabf135bcf8111671870d4399af739683198f96'

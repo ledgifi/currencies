@@ -5,3 +5,5 @@ id_nomics: BRO7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRO7.jpg
 logoKey: currencies/bro7.jpg
 name: Brotocol
+platform: BNB
+platform_contract: '0x489434F733081e40D2b4E21A74ce05d0E2F0D3Ef'

@@ -3,3 +3,5 @@ fiat: false
 id: WTI
 id_nomics: WTI
 name: WTI
+platform: ETH
+platform_contract: '0x260b3399309eff1fb1ed14b2029a60b889171f49'

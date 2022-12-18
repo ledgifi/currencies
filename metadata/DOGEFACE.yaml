@@ -5,3 +5,5 @@ id_nomics: DOGEFACE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEFACE.jpg
 logoKey: currencies/dogeface.jpg
 name: DogeFace
+platform: BNB
+platform_contract: '0x6a329b0248b08f750b8d279eeadd8d5e29d1376e'

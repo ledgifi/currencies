@@ -6,3 +6,5 @@ id_nomics: SEAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SEAL.png
 logoKey: currencies/seal.png
 name: Seal Network
+platform: ETH
+platform_contract: '0xd7b3669c7d3e38ab5a441383d41f25e003e02148'

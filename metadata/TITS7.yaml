@@ -5,3 +5,5 @@ id_nomics: TITS7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TITS7.jpg
 logoKey: currencies/tits7.jpg
 name: NFTitties
+platform: ETH
+platform_contract: '0x3c5576b5fa220c886e561891f1956069ad50407a'

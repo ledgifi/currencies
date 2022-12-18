@@ -4,3 +4,5 @@ id: BWJUP
 id_coinpaprika: bwjup-bsc-wrapped-jupiter
 id_nomics: BWJUP
 name: BSC Wrapped Jupiter
+platform: BNB
+platform_contract: '0x0231f91e02debd20345ae8ab7d71a41f8e140ce7'

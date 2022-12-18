@@ -5,3 +5,5 @@ id_nomics: HMB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HMB2.jpeg
 logoKey: currencies/hmb2.jpeg
 name: Homeless Boy
+platform: BNB
+platform_contract: '0xa19714921718d6aaed30c9b5ef0615edd8a8d7c4'

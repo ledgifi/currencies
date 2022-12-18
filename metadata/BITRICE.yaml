@@ -5,3 +5,5 @@ id_nomics: BITRICE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITRICE.png
 logoKey: currencies/bitrice.png
 name: BitRice
+platform: ETH
+platform_contract: '0x31fd1a50c467ae7986e26c72e8650a28940e11de'

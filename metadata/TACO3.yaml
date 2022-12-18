@@ -5,3 +5,5 @@ id_nomics: TACO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TACO3.jpg
 logoKey: currencies/taco3.jpg
 name: Taco Finance
+platform: BNB
+platform_contract: '0x9066e87bac891409d690cfefa41379b34af06391'

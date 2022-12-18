@@ -5,3 +5,5 @@ id_nomics: BHTX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BHTX.png
 logoKey: currencies/bhtx.png
 name: BHTX Token
+platform: ETH
+platform_contract: '0xb0ca787f8cf38f077e8201b05378da230a8b462f'

@@ -3,3 +3,5 @@ fiat: false
 id: WHITE2
 id_nomics: WHITE2
 name: White Ethereum
+platform: ETH
+platform_contract: '0xfe4beb9217cddf2422d4bd65449b76d807b30fe1'

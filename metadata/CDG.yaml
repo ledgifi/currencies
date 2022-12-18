@@ -5,3 +5,5 @@ id_nomics: CDG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CDG.png
 logoKey: currencies/cdg.png
 name: Cardano Gold
+platform: BNB
+platform_contract: '0x3A2BCb2CDb0AE9C54c9754fC550872A38ED6CeA4'

@@ -3,3 +3,5 @@ fiat: false
 id: USDV
 id_nomics: USDV
 name: Vader USD
+platform: ETH
+platform_contract: '0xea3fb6f331735252e7bfb0b24b3b761301293dbe'

@@ -6,3 +6,5 @@ id_nomics: WPX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WPX.jpg
 logoKey: currencies/wpx.jpg
 name: Wallet Plus X
+platform: ETH
+platform_contract: '0xb3bace433288645114fe8e8aa91f87659cbf665b'

@@ -3,3 +3,5 @@ fiat: false
 id: CPROUSD
 id_nomics: CPROUSD
 name: CPRO USD TEST
+platform: BNB
+platform_contract: '0x99d2e23d5105852de629ccb7e4e1b0cd3d6fa878'

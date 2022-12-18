@@ -5,3 +5,5 @@ id_nomics: WAULT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAULT.jpg
 logoKey: currencies/wault.jpg
 name: Wault Finance (OLD)
+platform: BNB
+platform_contract: '0x6ff2d9e5891a7a7c554b80e0d1b791483c78bce9'

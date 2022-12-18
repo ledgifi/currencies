@@ -6,3 +6,5 @@ id_nomics: FATCAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FATCAKE.png
 logoKey: currencies/fatcake.png
 name: FatCake
+platform: BNB
+platform_contract: '0xb7dba4c673bedb174dc3ff7ec65d17c863d39b16'

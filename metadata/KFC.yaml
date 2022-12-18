@@ -6,3 +6,5 @@ id_nomics: KFC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KFC.jpg
 logoKey: currencies/kfc.jpg
 name: Chicken
+platform: ETH
+platform_contract: '0xe63684bcf2987892cefb4caa79bd21b34e98a291'

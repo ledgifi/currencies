@@ -5,3 +5,5 @@ id_nomics: SPOREBARK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPOREBARK.jpg
 logoKey: currencies/sporebark.jpg
 name: Sporebark
+platform: MATIC
+platform_contract: '0xe0df35DD951Aea2eDB96eaE88E7E0652A1729ACc'

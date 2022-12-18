@@ -5,3 +5,5 @@ id_nomics: SQUA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SQUA.jpg
 logoKey: currencies/squa.jpg
 name: Square Token
+platform: BNB
+platform_contract: '0xb82beb6ee0063abd5fc8e544c852237aa62cbb14'

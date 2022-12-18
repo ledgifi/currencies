@@ -5,3 +5,5 @@ id_nomics: TCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCOIN.jpg
 logoKey: currencies/tcoin.jpg
 name: TRUECOIN
+platform: ETH
+platform_contract: '0xabb77f5c1e1c61adc3666b62dc614e64c584be6b'

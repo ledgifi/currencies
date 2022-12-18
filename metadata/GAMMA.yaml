@@ -5,3 +5,5 @@ id_nomics: GAMMA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAMMA.jpg
 logoKey: currencies/gamma.jpg
 name: Gamma Token
+platform: ETH
+platform_contract: '0x1e1eed62f8d82ecfd8230b8d283d5b5c1ba81b55'

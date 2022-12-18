@@ -5,3 +5,5 @@ id_nomics: SLINK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLINK.png
 logoKey: currencies/slink.png
 name: sLINK
+platform: ETH
+platform_contract: '0xbbc455cb4f1b9e4bfc4b73970d360c8f032efee6'

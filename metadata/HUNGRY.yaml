@@ -5,3 +5,5 @@ id_nomics: HUNGRY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HUNGRY.jpg
 logoKey: currencies/hungry.jpg
 name: HungryBear
+platform: BNB
+platform_contract: '0x812ff2420ec87eb40da80a596f14756acf98dacc'

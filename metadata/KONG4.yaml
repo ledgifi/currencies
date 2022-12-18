@@ -5,3 +5,5 @@ id_nomics: KONG4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KONG4.jpg
 logoKey: currencies/kong4.jpg
 name: FlokiKong
+platform: BNB
+platform_contract: '0x8f7ff372869a25eded0c094e854e66c3a471de3d'

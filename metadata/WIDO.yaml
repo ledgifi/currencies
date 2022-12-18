@@ -4,3 +4,5 @@ id: WIDO
 id_coinpaprika: wido-wrapped-idexo-token
 id_nomics: WIDO
 name: Wrapped Idexo Token
+platform: BNB
+platform_contract: '0x049eab8a00e0600622883c8eba4442bf23ac79a8'

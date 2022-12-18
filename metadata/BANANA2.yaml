@@ -5,3 +5,5 @@ id_nomics: BANANA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BANANA2.jpg
 logoKey: currencies/banana2.jpg
 name: ApeSwap Finance
+platform: BNB
+platform_contract: '0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95'

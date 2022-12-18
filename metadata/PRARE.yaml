@@ -6,3 +6,5 @@ id_nomics: PRARE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRARE.jpg
 logoKey: currencies/prare.jpg
 name: Polkarare
+platform: ETH
+platform_contract: '0x2c2f7e7c5604d162d75641256b80f1bf6f4dc796'

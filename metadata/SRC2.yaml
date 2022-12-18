@@ -5,3 +5,5 @@ id_nomics: SRC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SRC2.jpg
 logoKey: currencies/src2.jpg
 name: Super Running Coin
+platform: ETH
+platform_contract: '0x221f7d0f2fa0bfbd5f8b0d0340425906f2f9968c'

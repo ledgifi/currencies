@@ -6,3 +6,5 @@ id_nomics: METAYOOSHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAYOOSHI.jpeg
 logoKey: currencies/metayooshi.jpeg
 name: MetaYooshi
+platform: BNB
+platform_contract: '0xb8990a57d099c913B25e819c9849A5C3e378F3F8'

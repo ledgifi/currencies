@@ -5,3 +5,5 @@ id_nomics: DUSKBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUSKBEP20.jpg
 logoKey: currencies/duskbep20.jpg
 name: Dusk Network (BEP-20)
+platform: BNB
+platform_contract: '0xb2bd0749dbe21f623d9baba856d3b0f0e1bfec9c'

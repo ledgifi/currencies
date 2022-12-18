@@ -3,3 +3,5 @@ fiat: false
 id: SHIBASTA
 id_nomics: SHIBASTA
 name: Shiba Pasta
+platform: ETH
+platform_contract: '0x6d493ccc683ff44cb9cd373b0fabac47b7841684'

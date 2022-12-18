@@ -6,3 +6,5 @@ id_nomics: CHSB
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/chsb.svg
 logoKey: currencies/chsb.svg
 name: SwissBorg
+platform: ETH
+platform_contract: '0xba9d4199fab4f26efe3551d490e3821486f135ba'

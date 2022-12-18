@@ -6,3 +6,5 @@ id_nomics: ASUNAINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASUNAINU.jpg
 logoKey: currencies/asunainu.jpg
 name: Asuna Inu
+platform: ETH
+platform_contract: '0xc656b2279b0fdf761e832133b06ce607fbbcbceb'

@@ -5,3 +5,5 @@ id_nomics: JRR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JRR.jpg
 logoKey: currencies/jrr.jpg
 name: JRR
+platform: BNB
+platform_contract: '0x8d46739bb6ad55ae438d921cb130afb27e74b46e'

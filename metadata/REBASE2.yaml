@@ -5,3 +5,5 @@ id_nomics: REBASE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REBASE2.jpg
 logoKey: currencies/rebase2.jpg
 name: REBASE
+platform: BNB
+platform_contract: '0x4208d8d500b1643dca98dd27ba6c0060bca311c5'

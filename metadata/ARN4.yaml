@@ -5,3 +5,5 @@ id_nomics: ARN4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARN4.png
 logoKey: currencies/arn4.png
 name: Arnoya
+platform: BNB
+platform_contract: '0x6c04a43A757b7ca349591cCB08f713A986E73e4A'

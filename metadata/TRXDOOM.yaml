@@ -3,3 +3,5 @@ fiat: false
 id: TRXDOOM
 id_nomics: TRXDOOM
 name: 10X Short TRX Token
+platform: ETH
+platform_contract: '0xc58432a1969a2cb15f14dae6dcca736cfa60285a'

@@ -5,3 +5,5 @@ id_nomics: NR1
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NR1.jpg
 logoKey: currencies/nr1.jpg
 name: Number 1 Token
+platform: BITCI
+platform_contract: '0xa9c4f5024eaf74a3daa4b7afe83b9eca7aa9eeca'

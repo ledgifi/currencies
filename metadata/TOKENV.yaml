@@ -3,3 +3,5 @@ fiat: false
 id: TOKENV
 id_nomics: TOKENV
 name: Token_V
+platform: BNB
+platform_contract: '0x10289c95445e2c2cd4ef77f646547baae5c3ce5b'

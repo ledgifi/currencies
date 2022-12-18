@@ -6,3 +6,5 @@ id_nomics: SONA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SONA.jpg
 logoKey: currencies/sona.jpg
 name: Sona Network
+platform: BNB
+platform_contract: '0xaf2052d2933a117c5d21314662bacb53839aedc9'

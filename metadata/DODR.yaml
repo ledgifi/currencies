@@ -3,3 +3,5 @@ fiat: false
 id: DODR
 id_nomics: DODR
 name: Dorado Dollar
+platform: BNB
+platform_contract: '0x1ba43b9c565adfab379c98631d0c295cc7ede06e'

@@ -5,3 +5,5 @@ id_nomics: AAACHAIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/aaachain.jpg
 logoKey: currencies/aaachain.jpg
 name: AAAChain
+platform: ETH
+platform_contract: '0x6aba1623ea906d1164cbb007e764ebde2514a2ba'

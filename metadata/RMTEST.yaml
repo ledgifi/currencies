@@ -3,3 +3,5 @@ fiat: false
 id: RMTEST
 id_nomics: RMTEST
 name: RM-TEST Token
+platform: BNB
+platform_contract: '0x41976598c5f17af51185c97041c740fe76499792'

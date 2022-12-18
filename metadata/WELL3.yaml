@@ -5,3 +5,5 @@ id_nomics: WELL3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WELL3.jpg
 logoKey: currencies/well3.jpg
 name: Bitwell Token
+platform: ETH
+platform_contract: '0x1b06b43f3b0bbad73784d858c782e029f3f5af14'

@@ -5,3 +5,5 @@ id_nomics: GEL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GEL2.jpg
 logoKey: currencies/gel2.jpg
 name: DEXG Enhanced Liquidity
+platform: ETH
+platform_contract: '0x94ec4e3a7c5068ae4a035f702f2cd5a6da9c5cc1'

@@ -6,3 +6,5 @@ id_nomics: BRBG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRBG.jpg
 logoKey: currencies/brbg.jpg
 name: BurgerBurn
+platform: BNB
+platform_contract: '0xf594aacc5437a74591c8807b72acc6c160160015'

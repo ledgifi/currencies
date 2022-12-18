@@ -3,3 +3,5 @@ fiat: false
 id: PDO2
 id_nomics: PDO2
 name: pDollar
+platform: FTM
+platform_contract: '0xb9d62c829fbf7eaff1eba4e50f3d0480b66c1748'

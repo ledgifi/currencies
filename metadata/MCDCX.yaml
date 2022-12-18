@@ -5,3 +5,5 @@ id_nomics: MCDCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCDCX.jpg
 logoKey: currencies/mcdcx.jpg
 name: McDonald's Corporation Token
+platform: ETH
+platform_contract: '0x29d84dd4559ff6d5a09596b549cc01b3af8f1e9e'

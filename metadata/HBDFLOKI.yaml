@@ -5,3 +5,5 @@ id_nomics: HBDFLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HBDFLOKI.jpg
 logoKey: currencies/hbdfloki.jpg
 name: HBD Floki
+platform: BNB
+platform_contract: '0x144dbcf1c0ff4fbf3d529a30a1ff3b0e8f00606a'

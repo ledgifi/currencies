@@ -5,3 +5,5 @@ id_nomics: EPSTEIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EPSTEIN.jpg
 logoKey: currencies/epstein.jpg
 name: Epstein
+platform: ETH
+platform_contract: '0x051cf5178f60e9def5d5a39b2a988a9f914107cb'

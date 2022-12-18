@@ -3,3 +3,5 @@ fiat: false
 id: SPID
 id_nomics: SPID
 name: Spider
+platform: MATIC
+platform_contract: '0xcdec16443508a4f53cdb81c19dd111facb70e8a9'

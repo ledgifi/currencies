@@ -3,3 +3,5 @@ fiat: false
 id: VALUEB
 id_nomics: VALUEB
 name: Bearn-Peg Value Liquidity
+platform: BNB
+platform_contract: '0xf8397e7c7eb51d1d417c23201e8e95238b791d8c'

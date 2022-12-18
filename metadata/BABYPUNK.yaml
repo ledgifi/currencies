@@ -5,3 +5,5 @@ id_nomics: BABYPUNK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYPUNK.jpg
 logoKey: currencies/babypunk.jpg
 name: Baby Punk Coin
+platform: BNB
+platform_contract: '0x94018906d88c9efcbca50f7e0221321ad503e9eb'

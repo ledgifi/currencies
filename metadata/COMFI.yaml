@@ -6,3 +6,5 @@ id_nomics: COMFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COMFI.jpg
 logoKey: currencies/comfi.jpg
 name: CompliFi
+platform: ETH
+platform_contract: '0x752efadc0a7e05ad1bcccda22c141d01a75ef1e4'

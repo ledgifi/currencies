@@ -5,3 +5,5 @@ id_nomics: NODE4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NODE4.jpg
 logoKey: currencies/node4.jpg
 name: DAppNode
+platform: ETH
+platform_contract: '0xda007777d86ac6d989cc9f79a73261b3fc5e0da0'

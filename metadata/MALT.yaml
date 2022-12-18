@@ -5,3 +5,5 @@ id_nomics: MALT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MALT.png
 logoKey: currencies/malt.png
 name: Malt Stablecoin
+platform: MATIC
+platform_contract: '0x1c40ac03aacaf5f85808674e526e9c26309db92f'

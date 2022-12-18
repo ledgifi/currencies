@@ -5,3 +5,5 @@ id_nomics: SEC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SEC2.jpg
 logoKey: currencies/sec2.jpg
 name: SmileCoin
+platform: ETH
+platform_contract: '0x75d669c53142302c8826d16b5689bffad50a7e18'

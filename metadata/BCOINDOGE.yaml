@@ -3,3 +3,5 @@ fiat: false
 id: BCOINDOGE
 id_nomics: BCOINDOGE
 name: BCOIN Doge
+platform: BNB
+platform_contract: '0xa1b654d801d8aa440a55df2e60d94f62dae43c20'

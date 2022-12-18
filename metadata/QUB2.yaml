@@ -5,3 +5,5 @@ id_nomics: QUB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QUB2.jpg
 logoKey: currencies/qub2.jpg
 name: Qubism
+platform: BNB
+platform_contract: '0xfbaad4efdb7797f45dac9cd369b03a90bd731298'

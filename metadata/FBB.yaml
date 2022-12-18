@@ -6,3 +6,5 @@ id_nomics: FBB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FBB.jpg
 logoKey: currencies/fbb.jpg
 name: Foxboy
+platform: BNB
+platform_contract: '0xfe0927f43a4f0a0dc7ee946859d7109a9a090257'

@@ -5,3 +5,5 @@ id_nomics: TFIAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TFIAT.jpg
 logoKey: currencies/tfiat.jpg
 name: TearFiat
+platform: ETH
+platform_contract: '0xf19d446c35570eff44cf9871ee389067ebd6e962'

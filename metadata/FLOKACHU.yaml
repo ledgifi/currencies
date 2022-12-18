@@ -5,3 +5,5 @@ id_nomics: FLOKACHU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKACHU.png
 logoKey: currencies/flokachu.png
 name: Flokachu
+platform: BNB
+platform_contract: '0x8167b85a10ce3bf274c464362ae9b2d411dba447'

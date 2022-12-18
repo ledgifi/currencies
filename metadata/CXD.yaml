@@ -5,3 +5,5 @@ id_nomics: CXD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CXD.png
 logoKey: currencies/cxd.png
 name: CortexDAO
+platform: ETH
+platform_contract: '0x5a56da75c50aa2733f5fa9a2442aaefcbc60b2e6'

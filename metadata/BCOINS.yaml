@@ -3,3 +3,5 @@ fiat: false
 id: BCOINS
 id_nomics: BCOINS
 name: Bcoins Finance
+platform: BNB
+platform_contract: '0x809f34fdff5586ae7a453a96809f2d87c489e2a2'

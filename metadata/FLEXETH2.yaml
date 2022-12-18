@@ -5,3 +5,5 @@ id_nomics: FLEXETH2
 logo: https://set-core.s3.amazonaws.com/img/social_trader_set_icons/flex_eth.png
 logoKey: currencies/flexeth2.png
 name: FlexETH Set II
+platform: ETH
+platform_contract: '0x654424f4b3ed6de828c9ca30484dc1a626bb5fba'

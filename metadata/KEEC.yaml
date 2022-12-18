@@ -6,3 +6,5 @@ id_nomics: KEEC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KEEC.png
 logoKey: currencies/keec.png
 name: Keecoin
+platform: BNB
+platform_contract: '0x7fa4c259b9f98aeed77b884f6d944c95f6853ebb'

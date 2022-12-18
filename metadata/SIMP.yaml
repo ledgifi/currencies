@@ -6,3 +6,5 @@ id_nomics: SIMP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIMP.jpeg
 logoKey: currencies/simp.jpeg
 name: SIMP
+platform: BNB
+platform_contract: '0xd0accf05878cafe24ff8b3f82f194c62ed755707'

@@ -5,3 +5,5 @@ id_nomics: EVM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVM.jpg
 logoKey: currencies/evm.jpg
 name: EverMars
+platform: BNB
+platform_contract: '0x57c56665b2bcdf3cb86e40a9d3dc21f5b0aed7ad'

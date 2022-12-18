@@ -3,3 +3,5 @@ fiat: false
 id: RICB
 id_nomics: RICB
 name: Riecoin BEP20
+platform: BNB
+platform_contract: '0xc2097531d6cd4a712ae08f398283a92631dc39f9'

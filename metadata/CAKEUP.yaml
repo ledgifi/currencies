@@ -6,3 +6,5 @@ id_nomics: CAKEUP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAKEUP.jpg
 logoKey: currencies/cakeup.jpg
 name: CakeUp
+platform: BNB
+platform_contract: '0x709018c03f5abe17485c1ef9c7b0ff19079af24a'

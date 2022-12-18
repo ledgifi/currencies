@@ -5,3 +5,5 @@ id_nomics: GROOOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GROOOT.jpg
 logoKey: currencies/grooot.jpg
 name: wearegrooot.finance
+platform: BNB
+platform_contract: '0x5ab41eaa399e0dbdb35bdf49dc8ca0c0692f5fc5'

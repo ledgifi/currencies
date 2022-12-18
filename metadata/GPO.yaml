@@ -3,3 +3,5 @@ fiat: false
 id: GPO
 id_nomics: GPO
 name: Galaxy Pool Coin
+platform: ETH
+platform_contract: '0x5cf501e64786444e025c5b24025f98399538ea5d'

@@ -3,3 +3,5 @@ fiat: false
 id: CHILDREN
 id_nomics: CHILDREN
 name: children
+platform: BNB
+platform_contract: '0x980ba89e8e611437ab3537b51635feadc83fde12'

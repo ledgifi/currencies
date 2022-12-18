@@ -6,3 +6,5 @@ id_nomics: PTF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PTF.jpg
 logoKey: currencies/ptf.jpg
 name: PowerTrade Fuel
+platform: ETH
+platform_contract: '0xc57d533c50bc22247d49a368880fb49a1caa39f7'

@@ -5,3 +5,5 @@ id_nomics: CORXBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CORXBEP20.jpg
 logoKey: currencies/corxbep20.jpg
 name: CorionX (BEP-20)
+platform: BNB
+platform_contract: '0x141383cdb8158982fb3469c3e49cc82f8026d968'

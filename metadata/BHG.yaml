@@ -3,3 +3,5 @@ fiat: false
 id: BHG
 id_nomics: BHG
 name: Bit Global Payment Ecology
+platform: ETH
+platform_contract: '0x856e19b3ce92dde6892290c48204aade2f9c3ea0'

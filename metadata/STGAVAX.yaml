@@ -5,3 +5,5 @@ id_nomics: STGAVAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STGAVAX.jpg
 logoKey: currencies/stgavax.jpg
 name: Stargate Finance (Avalanche)
+platform: AVAX
+platform_contract: '0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590'

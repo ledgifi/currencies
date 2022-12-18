@@ -6,3 +6,5 @@ id_nomics: K9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/K9.jpg
 logoKey: currencies/k9.jpg
 name: K-9 Inu
+platform: ETH
+platform_contract: '0x39682bb3f826e0461632284bc823e7cbd75e273b'

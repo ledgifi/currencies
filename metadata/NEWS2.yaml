@@ -5,3 +5,5 @@ id_nomics: NEWS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEWS2.jpg
 logoKey: currencies/news2.jpg
 name: CryptoNewsNet
+platform: ETH
+platform_contract: '0x130da3e198f092fe2a6e6c21893dc77746d7e406'

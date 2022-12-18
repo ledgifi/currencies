@@ -5,3 +5,5 @@ id_nomics: BHBD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BHBD.png
 logoKey: currencies/bhbd.png
 name: bHBD
+platform: BNB
+platform_contract: '0x874966221020d6ac1aed0e2cfad9cbfee0ba713b'

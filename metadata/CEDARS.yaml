@@ -6,3 +6,5 @@ id_nomics: CEDARS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CEDARS.png
 logoKey: currencies/cedars.png
 name: CedarToken
+platform: BNB
+platform_contract: '0x3C1725e7517e8A3DD5a52bA810660fe79AA6f781'

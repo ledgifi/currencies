@@ -5,3 +5,5 @@ id_nomics: VR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VR2.jpeg
 logoKey: currencies/vr2.jpeg
 name: VirtualReality
+platform: BNB
+platform_contract: '0x12667a6c14345a532c92c13f2380810663fd58cb'

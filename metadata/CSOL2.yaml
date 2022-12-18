@@ -5,3 +5,5 @@ id_nomics: CSOL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CSOL2.jpg
 logoKey: currencies/csol2.jpg
 name: New Community Solana Bsc
+platform: BNB
+platform_contract: '0x66ac968cf228c53fdceeeb8dfab1f5e20dfd4523'

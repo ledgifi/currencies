@@ -5,3 +5,5 @@ id_nomics: RUBIK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RUBIK2.jpg
 logoKey: currencies/rubik2.jpg
 name: Rubik Farm
+platform: BNB
+platform_contract: '0xf00e46f3eed43232c882c16796ee1d6793a33675'

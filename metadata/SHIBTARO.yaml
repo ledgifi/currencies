@@ -6,3 +6,5 @@ id_nomics: SHIBTARO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBTARO.jpg
 logoKey: currencies/shibtaro.jpg
 name: ShibTaro
+platform: ETH
+platform_contract: '0x22e5e3e5cd12042c532394437627bc5ea9708afe'

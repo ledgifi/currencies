@@ -3,3 +3,5 @@ fiat: false
 id: RUSD4
 id_nomics: RUSD4
 name: Reflecto USD
+platform: BNB
+platform_contract: '0x4be8c674c51674beb729832682bba5e5b105b6e2'

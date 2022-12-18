@@ -3,3 +3,5 @@ fiat: false
 id: XBULL
 id_nomics: XBULL
 name: XBull
+platform: BNB
+platform_contract: '0x93f668a0c97a171e4bfb1b0378e0eebc0d187ab4'

@@ -5,3 +5,5 @@ id_nomics: BLTV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLTV.jpg
 logoKey: currencies/bltv.jpg
 name: BLTV Token
+platform: ETH
+platform_contract: '0xe08854b668958657064fa20f309f6ba7a19d5af2'

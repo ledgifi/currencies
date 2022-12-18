@@ -5,3 +5,5 @@ id_nomics: CNG3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CNG3.jpg
 logoKey: currencies/cng3.jpg
 name: Centrin Global
+platform: BNB
+platform_contract: '0x8ebd76c067f486034aa26f8d682bfe60e85ce8d3'

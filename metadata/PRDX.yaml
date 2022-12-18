@@ -5,3 +5,5 @@ id_nomics: PRDX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRDX.jpg
 logoKey: currencies/prdx.jpg
 name: Predix Network
+platform: ETH
+platform_contract: '0x556148562d5ddeb72545d7ec4b3ec8edc8f55ba7'

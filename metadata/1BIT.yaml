@@ -6,3 +6,5 @@ id_nomics: 1BIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/1BIT.jpg
 logoKey: currencies/1bit.jpg
 name: OneBit
+platform: BNB
+platform_contract: '0x97a266490efa4fb564ad625accabe5641de2f805'

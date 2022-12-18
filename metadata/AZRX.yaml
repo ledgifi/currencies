@@ -5,3 +5,5 @@ id_nomics: AZRX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AZRX.jpg
 logoKey: currencies/azrx.jpg
 name: Aave ZRX v1
+platform: ETH
+platform_contract: '0x6fb0855c404e09c47c3fbca25f08d4e41f9f062f'

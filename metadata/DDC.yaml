@@ -6,3 +6,5 @@ id_nomics: DDC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DDC.jpg
 logoKey: currencies/ddc.jpg
 name: DuxDoge
+platform: BNB
+platform_contract: '0x418236ca7c807cfc1d04eb64475df7ce17c2f218'

@@ -3,3 +3,5 @@ fiat: false
 id: SAVEBNB
 id_nomics: SAVEBNB
 name: SaveBNB
+platform: BNB
+platform_contract: '0xf36ddcb16b493f20ed3325aa8c6fbe1cdd43fecb'

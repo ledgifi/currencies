@@ -5,3 +5,5 @@ id_nomics: PECO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PECO2.jpg
 logoKey: currencies/peco2.jpg
 name: Polygon Ecosystem Index
+platform: ETH
+platform_contract: '0x9d3ee6b64e69ebe12a4bf0b01d031cb80f556ee4'

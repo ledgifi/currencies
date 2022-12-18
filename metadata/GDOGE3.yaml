@@ -5,3 +5,5 @@ id_nomics: GDOGE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GDOGE3.jpg
 logoKey: currencies/gdoge3.jpg
 name: Grandma Doge
+platform: BNB
+platform_contract: '0x624ef4e11a393b9843579db37b24322b64f83fb9'

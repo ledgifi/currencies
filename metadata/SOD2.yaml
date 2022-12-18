@@ -5,3 +5,5 @@ id_nomics: SOD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOD2.jpg
 logoKey: currencies/sod2.jpg
 name: Soldait
+platform: BNB
+platform_contract: '0xfd7113a715cee3d961edd72e277cb122e2f2744b'

@@ -5,3 +5,5 @@ id_nomics: BDC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BDC3.png
 logoKey: currencies/bdc3.png
 name: Barbie Doll Coin
+platform: BNB
+platform_contract: '0xadbd4553aa22b2cf3a99a0c3123f9c1f0d0bd79e'

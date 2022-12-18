@@ -6,3 +6,5 @@ id_nomics: BTCI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCI.png
 logoKey: currencies/btci.png
 name: Bitcoin International
+platform: BNB
+platform_contract: '0x79f8e9862c5240f316fabf31e5406e497d65484d'

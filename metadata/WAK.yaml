@@ -6,3 +6,5 @@ id_nomics: WAK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAK.png
 logoKey: currencies/wak.png
 name: Wak Classic
+platform: BNB
+platform_contract: '0x6f54453528f2859c4e5df5e209f6bcce66a8593b'

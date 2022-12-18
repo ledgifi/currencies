@@ -6,3 +6,5 @@ id_nomics: DIY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DIY.png
 logoKey: currencies/diy.png
 name: DIYChain
+platform: ETH
+platform_contract: '0x8dbf4d457929f339d4742dd45de28bed97b7d635'

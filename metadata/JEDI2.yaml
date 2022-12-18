@@ -5,3 +5,5 @@ id_nomics: JEDI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JEDI2.jpeg
 logoKey: currencies/jedi2.jpeg
 name: Dogenobi
+platform: ETH
+platform_contract: '0x5e85796613a56960bbbfa95a2327a08d06d80d7d'

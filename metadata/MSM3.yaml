@@ -5,3 +5,5 @@ id_nomics: MSM3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSM3.jpg
 logoKey: currencies/msm3.jpg
 name: My Safe Money
+platform: BNB
+platform_contract: '0x44fc6068e01992a6dc8bdd27972cb86ca1b5965c'

@@ -5,3 +5,5 @@ id_nomics: HOD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOD.png
 logoKey: currencies/hod.png
 name: HoDooi
+platform: BNB
+platform_contract: '0x19a4866a85c652eb4a2ed44c42e4cb2863a62d51'

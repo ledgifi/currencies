@@ -5,3 +5,5 @@ id_nomics: CUTE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CUTE.jpg
 logoKey: currencies/cute.jpg
 name: Blockchain Cuties
+platform: ETH
+platform_contract: '0x047686fb287e7263a23873dea66b4501015a2226'

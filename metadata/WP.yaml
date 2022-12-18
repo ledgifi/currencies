@@ -5,3 +5,5 @@ id_nomics: WP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WP.jpg
 logoKey: currencies/wp.jpg
 name: White Pigeon
+platform: ETH
+platform_contract: '0x8f4f0e144783e60971376c8e24ba25d0d54d127b'

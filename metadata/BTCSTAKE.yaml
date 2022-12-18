@@ -5,3 +5,5 @@ id_nomics: BTCSTAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCSTAKE.png
 logoKey: currencies/btcstake.png
 name: Bitcoin Stake
+platform: BNB
+platform_contract: '0xbfe17c38ebfba82686cab28cab81b6820e7737be'

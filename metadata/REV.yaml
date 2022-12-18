@@ -5,3 +5,5 @@ id_nomics: REV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REV.jpg
 logoKey: currencies/rev.jpg
 name: Revelation coin
+platform: ETH
+platform_contract: '0xe6be436df1ff96956dfe0b2b77fab84ede30236f'

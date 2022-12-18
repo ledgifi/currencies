@@ -6,3 +6,5 @@ id_nomics: MNE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/mne.png
 logoKey: currencies/mne.png
 name: Minereum
+platform: ETH
+platform_contract: '0x426ca1ea2406c07d75db9585f22781c096e3d0e0'

@@ -5,3 +5,5 @@ id_nomics: BSCGIRLMOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSCGIRLMOON.png
 logoKey: currencies/bscgirlmoon.png
 name: Binance Smart Chain Girl Moon
+platform: BNB
+platform_contract: '0x4a706451cf6d87bb04365b1bea6242710d71078e'

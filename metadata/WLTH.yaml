@@ -5,3 +5,5 @@ id_nomics: WLTH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WLTH.png
 logoKey: currencies/wlth.png
 name: Wealth Token
+platform: BNB
+platform_contract: '0x41a03333c34388433c86268d1bb06af5d9b1d460'

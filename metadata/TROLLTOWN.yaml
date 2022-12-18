@@ -3,3 +3,5 @@ fiat: false
 id: TROLLTOWN
 id_nomics: TROLLTOWN
 name: $trolltown
+platform: ETH
+platform_contract: '0x5b34dd299adfe2cb704831d07e09c6fcc0243b23'

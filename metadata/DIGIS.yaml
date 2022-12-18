@@ -5,3 +5,5 @@ id_nomics: DIGIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DIGIS.png
 logoKey: currencies/digis.png
 name: DigiSwap
+platform: BNB
+platform_contract: '0x0ff81f18bcb9519ac6027c732d196945ca4d2a9a'

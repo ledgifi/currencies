@@ -5,3 +5,5 @@ id_nomics: DSINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DSINU.jpg
 logoKey: currencies/dsinu.jpg
 name: DipSquidInu
+platform: BNB
+platform_contract: '0x29d65861d46e8bcaeb941a70674c73022c4d7e32'

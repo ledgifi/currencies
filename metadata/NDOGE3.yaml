@@ -3,3 +3,5 @@ fiat: false
 id: NDOGE3
 id_nomics: NDOGE3
 name: New Crazy Doge
+platform: ETH
+platform_contract: '0x1ce465279eb2776c6dcd25addabf4d7eb7d78ab0'

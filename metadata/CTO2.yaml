@@ -5,3 +5,5 @@ id_nomics: CTO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTO2.jpg
 logoKey: currencies/cto2.jpg
 name: Coinversation
+platform: ETH
+platform_contract: '0xa5e48a6e56e164907263e901b98d9b11ccb46c47'

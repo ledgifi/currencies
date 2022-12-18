@@ -5,3 +5,5 @@ id_nomics: AIOZBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AIOZBEP20.jpg
 logoKey: currencies/aiozbep20.jpg
 name: AIOZ Network (BEP-20)
+platform: BNB
+platform_contract: '0x33d08d8c7a168333a85285a68c0042b39fc3741d'

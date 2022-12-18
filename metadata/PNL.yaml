@@ -5,3 +5,5 @@ id_nomics: PNL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PNL.jpg
 logoKey: currencies/pnl.jpg
 name: True PNL
+platform: BNB
+platform_contract: '0xb346c52874c7023df183068c39478c3b7b2515bc'

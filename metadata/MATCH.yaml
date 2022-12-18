@@ -5,3 +5,5 @@ id_nomics: MATCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MATCH.jpg
 logoKey: currencies/match.jpg
 name: Match
+platform: BNB
+platform_contract: '0x2dd91da413f2859f73350223b6247ac235668e17'

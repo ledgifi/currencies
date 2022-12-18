@@ -5,3 +5,5 @@ id_nomics: YASHA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YASHA2.jpg
 logoKey: currencies/yasha2.jpg
 name: InuYasha
+platform: BNB
+platform_contract: '0x54c654b61881e270ad06946fc00b0f14647c139a'

@@ -6,3 +6,5 @@ id_nomics: BRND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRND.jpeg
 logoKey: currencies/brnd.jpeg
 name: Burning Doge
+platform: BNB
+platform_contract: '0x67b554e2b97306765a29795bb8d20693e7c83311'

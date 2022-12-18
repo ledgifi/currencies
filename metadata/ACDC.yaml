@@ -6,3 +6,5 @@ id_nomics: ACDC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/acdc.jpg
 logoKey: currencies/acdc.jpg
 name: VOLT
+platform: ETH
+platform_contract: '0xfc44ec51c80e35a87bc2140299b1636ec83dfb04'

@@ -5,3 +5,5 @@ id_nomics: BUSDP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUSDP2.jpg
 logoKey: currencies/busdp2.jpg
 name: Busd Pro
+platform: BNB
+platform_contract: '0x79ac52d2c6bac5fbbe06d97963d8280c08304183'

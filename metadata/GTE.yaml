@@ -6,3 +6,5 @@ id_nomics: GTE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GTE.jpg
 logoKey: currencies/gte.jpg
 name: GreenTek
+platform: ETH
+platform_contract: '0x8c7e3b5e720b7a9bbcf15c38be5b657bb2b71dba'

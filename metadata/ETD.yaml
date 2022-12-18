@@ -5,3 +5,5 @@ id_nomics: ETD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETD.jpg
 logoKey: currencies/etd.jpg
 name: EtherDiamond
+platform: ETH
+platform_contract: '0x221c64c978d98bc34e49219e921e2ec8f318b05a'

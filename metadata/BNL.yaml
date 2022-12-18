@@ -6,3 +6,5 @@ id_nomics: BNL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNL.jpg
 logoKey: currencies/bnl.jpg
 name: Business Chain
+platform: ETH
+platform_contract: '0x41688f411f43bfc4527e8c19de85eacd4b46591c'

@@ -3,3 +3,5 @@ fiat: false
 id: WORM4
 id_nomics: WORM4
 name: worm4
+platform: MATIC
+platform_contract: '0xf42d69540df4e0166160784f2ce8c0b8cc73c4ef'

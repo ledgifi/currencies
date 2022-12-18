@@ -5,3 +5,5 @@ id_nomics: TLMO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TLMO.png
 logoKey: currencies/tlmo.png
 name: TelmoCoin
+platform: BNB
+platform_contract: '0x34d5e8d87f7a7a4f08da392f4cca4be222f875d2'

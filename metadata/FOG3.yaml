@@ -5,3 +5,5 @@ id_nomics: FOG3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOG3.jpg
 logoKey: currencies/fog3.jpg
 name: Fog
+platform: ETH
+platform_contract: '0x35d7bbe9012b5a93ecdc5eef53ab9d143542abc7'

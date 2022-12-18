@@ -6,3 +6,5 @@ id_nomics: BREW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BREW.jpg
 logoKey: currencies/brew.jpg
 name: CafeSwap Token
+platform: BNB
+platform_contract: '0x790be81c3ca0e53974be2688cdb954732c9862e1'

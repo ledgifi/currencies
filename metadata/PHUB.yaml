@@ -5,3 +5,5 @@ id_nomics: PHUB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PHUB.png
 logoKey: currencies/phub.png
 name: PegHub
+platform: BNB
+platform_contract: '0x95a6772a2272b9822d4b3dfeeaedf732f1d28db8'

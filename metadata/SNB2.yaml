@@ -5,3 +5,5 @@ id_nomics: SNB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNB2.jpg
 logoKey: currencies/snb2.jpg
 name: Safe Nebula
+platform: BNB
+platform_contract: '0x5e7fc3844463745fca858f85d6b90d9a03fcbe93'

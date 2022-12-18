@@ -5,3 +5,5 @@ id_nomics: CTR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTR2.jpg
 logoKey: currencies/ctr2.jpg
 name: Creator Chain
+platform: ETH
+platform_contract: '0x923b83c26b3809d960ff80332ed00aa46d7ed375'

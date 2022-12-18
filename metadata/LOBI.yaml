@@ -6,3 +6,5 @@ id_nomics: LOBI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOBI.jpg
 logoKey: currencies/lobi.jpg
 name: Lobis
+platform: ETH
+platform_contract: '0xdec41db0c33f3f6f3cb615449c311ba22d418a8d'

@@ -5,3 +5,5 @@ id_nomics: HUMP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HUMP3.jpg
 logoKey: currencies/hump3.jpg
 name: Whale Loans
+platform: BNB
+platform_contract: '0x453939c0270e9405876c7f047ade3932fd2d7a51'

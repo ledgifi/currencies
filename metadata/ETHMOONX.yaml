@@ -5,3 +5,5 @@ id_nomics: ETHMOONX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHMOONX.png
 logoKey: currencies/ethmoonx.png
 name: ETH Moonshot X Set
+platform: ETH
+platform_contract: '0x73104e9d3da91e410a6c211068f7bffabbbd3e26'

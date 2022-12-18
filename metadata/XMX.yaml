@@ -6,3 +6,5 @@ id_nomics: XMX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/xmx.jpg
 logoKey: currencies/xmx.jpg
 name: XMAX
+platform: ETH
+platform_contract: '0x0f8c45b896784a1e408526b9300519ef8660209c'

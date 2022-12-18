@@ -5,3 +5,5 @@ id_nomics: TA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TA2.jpg
 logoKey: currencies/ta2.jpg
 name: The Ape
+platform: ETH
+platform_contract: '0x1a4f4d457786314668bd5de0e49f89fe6e2a4802'

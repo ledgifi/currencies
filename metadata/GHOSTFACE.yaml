@@ -6,3 +6,5 @@ id_nomics: GHOSTFACE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GHOSTFACE.jpg
 logoKey: currencies/ghostface.jpg
 name: Ghostface
+platform: BNB
+platform_contract: '0x0952ddffde60786497c7ced1f49b4a14cf527f76'

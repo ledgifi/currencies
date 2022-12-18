@@ -5,3 +5,5 @@ id_nomics: FISH7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FISH7.jpg
 logoKey: currencies/fish7.jpg
 name: Metafish
+platform: BNB
+platform_contract: '0xe15176bcb7633be736e94ab6aa2e57a7ed5988ab'

@@ -5,3 +5,5 @@ id_nomics: VENT2ERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VENT2ERC20.jpg
 logoKey: currencies/vent2erc20.jpg
 name: Vent Finance (ERC-20)
+platform: ETH
+platform_contract: '0x5f0bc16d50f72d10b719dbf6845de2e599eb5624'

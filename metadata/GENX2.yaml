@@ -5,3 +5,5 @@ id_nomics: GENX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GENX2.jpg
 logoKey: currencies/genx2.jpg
 name: GenX Token
+platform: BNB
+platform_contract: '0x9aa18a4e73e1016918fa360eed950d9580c9551d'

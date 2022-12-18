@@ -5,3 +5,5 @@ id_nomics: ICOC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICOC.png
 logoKey: currencies/icoc.png
 name: Crowdfunding-2020
+platform: ETH
+platform_contract: '0x5ef211f58c16b080621e4c5d7c7eed47f103233b'

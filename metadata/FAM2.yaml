@@ -5,3 +5,5 @@ id_nomics: FAM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FAM2.svg
 logoKey: currencies/fam2.svg
 name: Family
+platform: HARMONY
+platform_contract: '0x53cba17b4159461a8f9bc0ed5785654370549b7d'

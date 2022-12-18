@@ -3,3 +3,5 @@ fiat: false
 id: EOSDOOM
 id_nomics: EOSDOOM
 name: 10X Short EOS Token
+platform: ETH
+platform_contract: '0x50f044bf65cc7cf0d4814cfda69748539f6c4fa3'

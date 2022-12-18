@@ -5,3 +5,5 @@ id_nomics: AXS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AXS2.jpg
 logoKey: currencies/axs2.jpg
 name: Axie Infinity
+platform: ETH
+platform_contract: '0xbb0e17ef65f82ab018d8edd776e8dd940327b28b'

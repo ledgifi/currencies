@@ -5,3 +5,5 @@ id_nomics: CLEAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLEAR.jpg
 logoKey: currencies/clear.jpg
 name: Clear Coin
+platform: BNB
+platform_contract: '0x09faf80c7df27d0fb8a717324963cb871f6814f7'

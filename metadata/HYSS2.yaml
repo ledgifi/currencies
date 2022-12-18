@@ -3,3 +3,5 @@ fiat: false
 id: HYSS2
 id_nomics: HYSS2
 name: Highest Yield Savings Service
+platform: BNB
+platform_contract: '0xe745c551389556f2ba42bdd27eecbad326b7e65b'

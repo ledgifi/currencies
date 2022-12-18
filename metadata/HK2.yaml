@@ -5,3 +5,5 @@ id_nomics: HK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HK2.png
 logoKey: currencies/hk2.png
 name: HumilityKishu
+platform: BNB
+platform_contract: '0x418680664a0b6f10cc14bd2fdc95431956b5115e'

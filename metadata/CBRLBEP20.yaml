@@ -3,3 +3,5 @@ fiat: false
 id: CBRLBEP20
 id_nomics: CBRLBEP20
 name: Crypto BRL (BEP-20)
+platform: BNB
+platform_contract: '0x9e691fd624410d631c082202b050694233031cb7'

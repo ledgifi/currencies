@@ -3,3 +3,5 @@ fiat: false
 id: SLDR
 id_nomics: SLDR
 name: Soldiers
+platform: BNB
+platform_contract: '0x698d1171c8908196401940598462bd5f1b0acfc4'

@@ -3,3 +3,5 @@ fiat: false
 id: FMC2
 id_nomics: FMC2
 name: FidoMeta
+platform: BNB
+platform_contract: '0x63ed39dd8917e916d6c95cbcd2de604415af690f'

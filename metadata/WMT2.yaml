@@ -5,3 +5,5 @@ id_nomics: WMT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WMT2.jpg
 logoKey: currencies/wmt2.jpg
 name: Wodex
+platform: BNB
+platform_contract: '0x780622e3043d329abd7b1fd522c9b6c877cfb8c0'

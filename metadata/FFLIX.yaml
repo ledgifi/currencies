@@ -6,3 +6,5 @@ id_nomics: FFLIX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FFLIX.jpeg
 logoKey: currencies/fflix.jpeg
 name: FutureFlix
+platform: BNB
+platform_contract: '0xb6fec2120d391604f01d0776d344372f8a4990ec'

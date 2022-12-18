@@ -3,3 +3,5 @@ fiat: false
 id: RBC
 id_nomics: RBC
 name: Reibex Coin
+platform: ETH
+platform_contract: '0xe5bafc0e45973259bce6923ec884680867332447'

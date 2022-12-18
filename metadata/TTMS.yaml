@@ -3,3 +3,5 @@ fiat: false
 id: TTMS
 id_nomics: TTMS
 name: DOUBLE Test Token
+platform: HT
+platform_contract: '0xb5e33f6ca66be91605e88612d23ff4b84d27ddd7'

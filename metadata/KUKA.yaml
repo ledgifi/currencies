@@ -6,3 +6,5 @@ id_nomics: KUKA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KUKA.jpg
 logoKey: currencies/kuka.jpg
 name: Kukachu
+platform: BNB
+platform_contract: '0x5020f345679a1951e1cc6a2a9000418965103a01'

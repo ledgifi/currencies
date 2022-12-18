@@ -6,3 +6,5 @@ id_nomics: MEGA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEGA.jpg
 logoKey: currencies/mega.jpg
 name: MegaCryptoPolis
+platform: ETH
+platform_contract: '0x3218a02f8f8b5c3894ce30eb255f10bcba13e654'

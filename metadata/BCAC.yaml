@@ -6,3 +6,5 @@ id_nomics: BCAC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCAC.png
 logoKey: currencies/bcac.png
 name: Business Credit Alliance Chain
+platform: ETH
+platform_contract: '0x1abdb309aa592f00a101c545168bfdf9a6ec61ce'

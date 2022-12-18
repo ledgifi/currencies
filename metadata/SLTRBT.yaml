@@ -6,3 +6,5 @@ id_nomics: SLTRBT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLTRBT.jpg
 logoKey: currencies/sltrbt.jpg
 name: sLittle Rabbit
+platform: BNB
+platform_contract: '0xea3cc71354d4c6e654ac6b4ee3e6052811a2eec5'

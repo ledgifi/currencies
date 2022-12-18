@@ -6,3 +6,5 @@ id_nomics: SEFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SEFI.jpg
 logoKey: currencies/sefi.jpg
 name: SEFI
+platform: ETH
+platform_contract: '0x773258b03c730f84af10dfcb1bfaa7487558b8ac'

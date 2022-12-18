@@ -4,3 +4,5 @@ id: OSMC
 id_nomics: OSMC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OSMC.jpg
 name: OSM Coin
+platform: BNB
+platform_contract: '0x3295d5585b11d0316d125e870e29a1f2ffa6a9e6'

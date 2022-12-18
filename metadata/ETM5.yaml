@@ -5,3 +5,5 @@ id_nomics: ETM5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETM5.jpg
 logoKey: currencies/etm5.jpg
 name: EtherSmart
+platform: ETH
+platform_contract: '0xf3eb8b90c763b8b2b53e7819ac27eca8f94c8ec2'

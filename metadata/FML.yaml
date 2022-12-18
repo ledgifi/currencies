@@ -6,3 +6,5 @@ id_nomics: FML
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FML.png
 logoKey: currencies/fml.png
 name: FormulA
+platform: ETH
+platform_contract: '0xde522a2778e4554707e6a8df36a4871ce9967bb5'

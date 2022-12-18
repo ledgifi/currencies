@@ -3,3 +3,5 @@ fiat: false
 id: 0XESV
 id_nomics: 0XESV
 name: 0xETH SV
+platform: ETH
+platform_contract: '0x8e9c3d1f30904e91764b7b8bbfda3a429b886874'

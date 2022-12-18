@@ -5,3 +5,5 @@ id_nomics: PWC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PWC2.jpg
 logoKey: currencies/pwc2.jpg
 name: Prime Whiterock Company
+platform: ETH
+platform_contract: '0xa3d93c0616dbc31fef1e112c7665a4ba4ddbf0be'

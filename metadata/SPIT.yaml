@@ -3,3 +3,5 @@ fiat: false
 id: SPIT
 id_nomics: SPIT
 name: Spit Token
+platform: MATIC
+platform_contract: '0x5c947eb80d096a5e332bf79bfdc9feb3d0a201d7'

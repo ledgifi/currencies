@@ -5,3 +5,5 @@ id_nomics: SPND2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPND2.jpg
 logoKey: currencies/spnd2.jpg
 name: SafePanda
+platform: BNB
+platform_contract: '0x75e3cf3dc6748ff6c92fe77646be7d2fdfdfa623'

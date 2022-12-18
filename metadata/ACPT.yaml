@@ -5,3 +5,5 @@ id_nomics: ACPT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACPT.png
 logoKey: currencies/acpt.png
 name: Crypto Accept
+platform: ETH
+platform_contract: '0xcad2d4c4469ff09ab24d02a63bcedfcd44be0645'

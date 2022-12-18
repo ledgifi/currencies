@@ -3,3 +3,5 @@ fiat: false
 id: SPECIALS
 id_nomics: SPECIALS
 name: Specials
+platform: ETH
+platform_contract: '0xcfce167c8a6aece1b80168c45c0da41b1941136a'

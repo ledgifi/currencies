@@ -5,3 +5,5 @@ id_nomics: LIV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIV.png
 logoKey: currencies/liv.png
 name: LIV-Life
+platform: BNB
+platform_contract: '0xEd0d8831e1b7E10C5c99cFD618eDdF4Ed0459792'

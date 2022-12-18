@@ -3,3 +3,5 @@ fiat: false
 id: RBCH
 id_nomics: RBCH
 name: rBCH
+platform: BCH
+platform_contract: '0xb4602588e5f1f9653b6f234206c91552e457facb'

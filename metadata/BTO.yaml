@@ -6,3 +6,5 @@ id_nomics: BTO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bto.svg
 logoKey: currencies/bto.svg
 name: Bottos
+platform: ETH
+platform_contract: '0x36905fc93280f52362a1cbab151f25dc46742fb5'

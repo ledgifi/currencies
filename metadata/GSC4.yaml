@@ -5,3 +5,5 @@ id_nomics: GSC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GSC4.png
 logoKey: currencies/gsc4.png
 name: Goldstar
+platform: BNB
+platform_contract: '0x70ad794204223e3b66f50584c40464507a4a6a50'

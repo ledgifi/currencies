@@ -5,3 +5,5 @@ id_nomics: STC7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STC7.png
 logoKey: currencies/stc7.png
 name: Shitcoin
+platform: BNB
+platform_contract: '0x28d82c4d7315c02d19562db1080a713eb5cc2639'

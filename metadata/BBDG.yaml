@@ -5,3 +5,5 @@ id_nomics: BBDG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBDG.jpg
 logoKey: currencies/bbdg.jpg
 name: BabelDoge
+platform: ETH
+platform_contract: '0xd5918eb8800e8d01ccd7dfaca7b5ade7d66d0519'

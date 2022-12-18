@@ -3,3 +3,5 @@ fiat: false
 id: AGS3ERC20
 id_nomics: AGS3ERC20
 name: Collector Coin (ERC-20)
+platform: ETH
+platform_contract: '0x667fd83e24ca1d935d36717d305d54fa0cac991c'

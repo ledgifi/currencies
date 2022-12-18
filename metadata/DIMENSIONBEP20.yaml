@@ -3,3 +3,5 @@ fiat: false
 id: DIMENSIONBEP20
 id_nomics: DIMENSIONBEP20
 name: Dimension (BEP-20)
+platform: BNB
+platform_contract: '0x526b1f64c3ffec83c7b2eff380fab607fe9481c7'

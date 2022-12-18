@@ -5,3 +5,5 @@ id_nomics: DRC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRC5.jpeg
 logoKey: currencies/drc5.jpeg
 name: Draco Force
+platform: FTM
+platform_contract: '0x8d05b42749428c26613deb12f8989cb8d1f5c17f'

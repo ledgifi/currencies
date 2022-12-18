@@ -5,3 +5,5 @@ id_nomics: BLUEBERRY3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLUEBERRY3.jpeg
 logoKey: currencies/blueberry3.jpeg
 name: Blueberry Network
+platform: AVAX
+platform_contract: '0x17d348eaa30f191ee34c3de874ba9989f259e44c'

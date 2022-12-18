@@ -8,3 +8,5 @@ id_nomics: FORTH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FORTH.png
 logoKey: currencies/forth.png
 name: Ampleforth Governance Token
+platform: ETH
+platform_contract: '0x77fba179c79de5b7653f68b5039af940ada60ce0'

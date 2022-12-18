@@ -6,3 +6,5 @@ id_nomics: WENLAMBO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WENLAMBO.jpg
 logoKey: currencies/wenlambo.jpg
 name: Wenlambo
+platform: BNB
+platform_contract: '0xd8a31016cd7da048ca21ffe04256c6d08c3a2251'

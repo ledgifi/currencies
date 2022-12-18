@@ -5,3 +5,5 @@ id_nomics: STARS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STARS.png
 logoKey: currencies/stars.png
 name: Mogul Productions
+platform: ETH
+platform_contract: '0xc55c2175e90a46602fd42e931f62b3acc1a013ca'

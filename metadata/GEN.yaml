@@ -6,3 +6,5 @@ id_nomics: GEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/gen.jpg
 logoKey: currencies/gen.jpg
 name: DAOstack
+platform: ETH
+platform_contract: '0x543ff227f64aa17ea132bf9886cab5db55dcaddf'

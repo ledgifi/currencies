@@ -5,3 +5,5 @@ id_nomics: DUO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUO2.png
 logoKey: currencies/duo2.png
 name: Duo
+platform: AVAX
+platform_contract: '0xed4102f3a1a24bd4ef1f29b90cd8bf00a540c0c2'

@@ -6,3 +6,5 @@ id_nomics: KHALIFA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KHALIFA.jpg
 logoKey: currencies/khalifa.jpg
 name: Khalifa Finance
+platform: BNB
+platform_contract: '0xdae7238a7e83b439673a7900fa3bae2108c6ec12'

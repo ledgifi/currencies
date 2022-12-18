@@ -6,3 +6,5 @@ id_nomics: DOGDEFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGDEFI.jpg
 logoKey: currencies/dogdefi.jpg
 name: DogDeFiCoin
+platform: ETH
+platform_contract: '0x80bb277f4355a43cdbb86a82f9876c946476d9eb'

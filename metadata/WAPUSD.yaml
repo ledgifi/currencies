@@ -3,3 +3,5 @@ fiat: false
 id: WAPUSD
 id_nomics: WAPUSD
 name: Wasabi PUSD
+platform: MATIC
+platform_contract: '0x3d244d67d680cadcccf34f8f996cea777b6d9ffe'

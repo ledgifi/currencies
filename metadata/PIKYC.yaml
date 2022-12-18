@@ -3,3 +3,5 @@ fiat: false
 id: PIKYC
 id_nomics: PIKYC
 name: Pi distribute bonus(usdt)
+platform: BNB
+platform_contract: '0x58fa88454b1d4b2e0748c30da553fed2d65a9590'

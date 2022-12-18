@@ -6,3 +6,5 @@ id_nomics: GMF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMF.jpeg
 logoKey: currencies/gmf.jpeg
 name: Gummy Finance
+platform: BNB
+platform_contract: '0xa22a98cb3716d5bed3eca0cba1f3668bf81485f5'

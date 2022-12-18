@@ -5,3 +5,5 @@ id_nomics: DAI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAI2.jpg
 logoKey: currencies/dai2.jpg
 name: Dai (Polygon)
+platform: MATIC
+platform_contract: '0x8f3cf7ad23cd3cadbd9735aff958023239c6a063'

@@ -5,3 +5,5 @@ id_nomics: SAT11
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAT11.jpg
 logoKey: currencies/sat11.jpg
 name: SAT NUKE
+platform: BNB
+platform_contract: '0xbA745170516e244e9c4FEEF2Ec388814E9BD8d38'

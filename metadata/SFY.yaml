@@ -5,3 +5,5 @@ id_nomics: SFY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFY.png
 logoKey: currencies/sfy.png
 name: Safeway
+platform: BNB
+platform_contract: '0x21ad5a38233ff7d21e5527641f649ca6cc7ee27c'

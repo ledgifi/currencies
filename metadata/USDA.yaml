@@ -3,3 +3,5 @@ fiat: false
 id: USDA
 id_nomics: USDA
 name: USDA
+platform: ETH
+platform_contract: '0x3c7b464376db7c9927930cf50eefdea2eff3a66a'

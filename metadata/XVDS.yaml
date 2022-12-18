@@ -3,3 +3,5 @@ fiat: false
 id: XVDS
 id_nomics: XVDS
 name: X-VDSToken
+platform: BNB
+platform_contract: '0x6486ef8bbe279d707e4ed34828b2b006d3dd3b5e'

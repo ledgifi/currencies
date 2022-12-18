@@ -5,3 +5,5 @@ id_nomics: FAIRGAME
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FAIRGAME.png
 logoKey: currencies/fairgame.png
 name: FairGame
+platform: ETH
+platform_contract: '0x9b20dabcec77f6289113e61893f7beefaeb1990a'

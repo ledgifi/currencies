@@ -6,3 +6,5 @@ id_nomics: STA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STA.jpeg
 logoKey: currencies/sta.jpeg
 name: Statera
+platform: ETH
+platform_contract: '0xa7de087329bfcda5639247f96140f9dabe3deed1'

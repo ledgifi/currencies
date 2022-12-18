@@ -3,3 +3,5 @@ fiat: false
 id: AWM
 id_nomics: AWM
 name: AWM Token
+platform: BNB
+platform_contract: '0x5cc660a176afdba3452566d7678d4d7f9d431909'

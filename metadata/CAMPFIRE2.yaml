@@ -5,3 +5,5 @@ id_nomics: CAMPFIRE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAMPFIRE2.jpg
 logoKey: currencies/campfire2.jpg
 name: Campfire
+platform: BNB
+platform_contract: '0x286a93b7811e674d27bc05ed546bb85a7e6043eb'

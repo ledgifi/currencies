@@ -3,3 +3,5 @@ fiat: false
 id: NITROWALLET
 id_nomics: NITROWALLET
 name: Nitro Wallet
+platform: ARBETH
+platform_contract: '0x8ff4ae971af0f0716689087cd6e22e11b2dac8b6'

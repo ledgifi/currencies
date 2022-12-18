@@ -3,3 +3,5 @@ fiat: false
 id: STEPDOGE
 id_nomics: STEPDOGE
 name: Step Doge
+platform: ETH
+platform_contract: '0x91d408d19a31aab036f5f6d08b741022fa51aa46'

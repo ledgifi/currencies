@@ -5,3 +5,5 @@ id_nomics: FIT5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIT5.jpeg
 logoKey: currencies/fit5.jpeg
 name: FitFluencer
+platform: HARMONY
+platform_contract: '0x026716ceff8172322d4fa6cd7d0a8c90cbe58102'

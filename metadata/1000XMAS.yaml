@@ -5,3 +5,5 @@ id_nomics: 1000XMAS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/1000XMAS.png
 logoKey: currencies/1000xmas.png
 name: 1000Xmas
+platform: BNB
+platform_contract: '0x2c224fe08b267fd4d8f0f668b8567601f8ba97e8'

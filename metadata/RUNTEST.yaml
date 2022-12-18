@@ -3,3 +3,5 @@ fiat: false
 id: RUNTEST
 id_nomics: RUNTEST
 name: RUNSTEPNTEST
+platform: BNB
+platform_contract: '0xccbd7c69292246ce384450f02ec12d584fc2febe'

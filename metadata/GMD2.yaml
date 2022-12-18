@@ -5,3 +5,5 @@ id_nomics: GMD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMD2.jpg
 logoKey: currencies/gmd2.jpg
 name: The Geoma DAO
+platform: ETH
+platform_contract: '0x2509b1a5ff82ab94172cfc527676acf45c2a0d08'

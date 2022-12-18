@@ -6,3 +6,5 @@ id_nomics: GTMR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GTMR.png
 logoKey: currencies/gtmr.png
 name: GETModer
+platform: ETH
+platform_contract: '0x0f4315934eb9ebe33c602e2726ffe0cda9e6dc83'

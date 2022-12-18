@@ -5,3 +5,5 @@ id_nomics: MTRM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTRM.jpeg
 logoKey: currencies/mtrm.jpeg
 name: Metahreum
+platform: BNB
+platform_contract: '0xd737d3382064d11820beb831e4f0fd00ae1317ae'

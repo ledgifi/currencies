@@ -3,3 +3,5 @@ fiat: false
 id: DMMP
 id_nomics: DMMP
 name: DEX MM Platfrom
+platform: MATIC
+platform_contract: '0xc3d10d47318a60335bc6ce5598f9e7b83485e69e'

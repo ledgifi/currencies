@@ -3,3 +3,5 @@ fiat: false
 id: PSTABLE
 id_nomics: PSTABLE
 name: PSTABLE
+platform: BNB
+platform_contract: '0x8f85b84680b7b76af042f08a3a029cec3bd4e1b3'

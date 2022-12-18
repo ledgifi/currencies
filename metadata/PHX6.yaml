@@ -5,3 +5,5 @@ id_nomics: PHX6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PHX6.jpg
 logoKey: currencies/phx6.jpg
 name: Phoenix
+platform: BNB
+platform_contract: '0xbe93af2d00288f7e1e9056a6d069d1bb3c460cc7'

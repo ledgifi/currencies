@@ -6,3 +6,5 @@ id_nomics: GCM
 logo: https://static.coinpaprika.com/coin/gcm-global-coin-market/logo.png
 logoKey: currencies/gcm.png
 name: Global Coin Market
+platform: ETH
+platform_contract: '0x9bd4f0b2c73b5e2bef9f1ab0841e5c460cf8cedc'

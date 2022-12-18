@@ -3,3 +3,5 @@ fiat: false
 id: PPMT
 id_nomics: PPMT
 name: PepinoMaster
+platform: BNB
+platform_contract: '0xe9ccde3e0e289ace0356bfdd0ee6d1e7baf87f13'

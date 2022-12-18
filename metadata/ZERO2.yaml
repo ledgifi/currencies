@@ -5,3 +5,5 @@ id_nomics: ZERO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZERO2.jpg
 logoKey: currencies/zero2.jpg
 name: Zero Tech
+platform: ETH
+platform_contract: '0x0ec78ed49c2d27b315d462d43b5bab94d2c79bf8'

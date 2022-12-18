@@ -6,3 +6,5 @@ id_nomics: YOLOV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YOLOV.jpg
 logoKey: currencies/yolov.jpg
 name: YoloVerse
+platform: BNB
+platform_contract: '0xd084c5a4a621914ed2992310024d2438dfde5bfd'

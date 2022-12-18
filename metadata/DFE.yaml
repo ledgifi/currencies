@@ -5,3 +5,5 @@ id_nomics: DFE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DFE.jpg
 logoKey: currencies/dfe.jpg
 name: DFE.Finance
+platform: ETH
+platform_contract: '0xd35ce4fd815522ff52243eb587020d557617f4db'

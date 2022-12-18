@@ -6,3 +6,5 @@ id_nomics: M2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/M2.png
 logoKey: currencies/m2.png
 name: M2
+platform: ETH
+platform_contract: '0x965d79f1a1016b574a62986e13ca8ab04dfdd15c'

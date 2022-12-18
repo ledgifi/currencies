@@ -6,3 +6,5 @@ id_nomics: CLU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLU.png
 logoKey: currencies/clu.png
 name: CluCoin
+platform: BNB
+platform_contract: '0x1162e2efce13f99ed259ffc24d99108aaa0ce935'

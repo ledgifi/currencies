@@ -6,3 +6,5 @@ id_nomics: ZORA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZORA.jpg
 logoKey: currencies/zora.jpg
 name: Zoracles
+platform: ETH
+platform_contract: '0xd8e3fb3b08eba982f2754988d70d57edc0055ae6'

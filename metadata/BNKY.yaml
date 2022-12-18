@@ -6,3 +6,5 @@ id_nomics: BNKY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNKY.jpg
 logoKey: currencies/bnky.jpg
 name: Bonkey dAPP
+platform: BNB
+platform_contract: '0xadc8e9b18b671df686acce0543f086293f2ef886'

@@ -5,3 +5,5 @@ id_nomics: GLO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GLO2.png
 logoKey: currencies/glo2.png
 name: Gloriart
+platform: ETH
+platform_contract: '0xf85ab50c9653c5f18d108f58ada869e62a7b8bc9'

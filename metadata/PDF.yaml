@@ -5,3 +5,5 @@ id_nomics: PDF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PDF.jpg
 logoKey: currencies/pdf.jpg
 name: Port of DeFi Network
+platform: ETH
+platform_contract: '0x6ccd05f73a54359a257fc5649c598a3de75905e7'

@@ -5,3 +5,5 @@ id_nomics: ROYA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROYA2.jpg
 logoKey: currencies/roya2.jpg
 name: Royal Token
+platform: BNB
+platform_contract: '0x682ff2a434054ec3a7099615eaedf0517ffcb439'

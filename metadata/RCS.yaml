@@ -3,3 +3,5 @@ fiat: false
 id: RCS
 id_nomics: RCS
 name: RCS Chain
+platform: ETH
+platform_contract: '0x07f70efd747379edb2d1c81fbad7d703b2caf77c'

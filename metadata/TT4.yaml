@@ -5,3 +5,5 @@ id_nomics: TT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TT4.jpg
 logoKey: currencies/tt4.jpg
 name: Trillium
+platform: BNB
+platform_contract: '0x2f8a4c0ca0b45a2fb240cba7010c34ba60ad9b6d'

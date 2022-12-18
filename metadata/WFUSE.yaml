@@ -5,3 +5,5 @@ id_nomics: WFUSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WFUSE.jpg
 logoKey: currencies/wfuse.jpg
 name: Wrapped Fuse
+platform: FUSE
+platform_contract: '0x0be9e53fd7edac9f859882afdda116645287c629'

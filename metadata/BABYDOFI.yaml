@@ -5,3 +5,5 @@ id_nomics: BABYDOFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYDOFI.png
 logoKey: currencies/babydofi.png
 name: Baby Doge Floki
+platform: BNB
+platform_contract: '0x14b07A04561098FCf2c12c1E0677Ec35af70295E'

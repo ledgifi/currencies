@@ -3,3 +3,5 @@ fiat: false
 id: GOGH
 id_nomics: GOGH
 name: Gogh Token
+platform: ETH
+platform_contract: '0x8dc68d98db6a01bf3971c94e55083374a46442ea'

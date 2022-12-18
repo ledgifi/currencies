@@ -3,3 +3,5 @@ fiat: false
 id: WBUILD
 id_nomics: WBUILD
 name: wBUILD
+platform: BNB
+platform_contract: '0x7f65e5c752094345f9f77bef0d772e968ea8941b'

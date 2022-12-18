@@ -6,3 +6,5 @@ id_nomics: COVIDTOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COVIDTOKEN.jpg
 logoKey: currencies/covidtoken.jpg
 name: Covid Token
+platform: BNB
+platform_contract: '0x23c28e9346c82228fb2b62b20b6fe5d75989f5b2'

@@ -5,3 +5,5 @@ id_nomics: OKNC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OKNC.png
 logoKey: currencies/oknc.png
 name: Ok Node Community Token
+platform: ETH
+platform_contract: '0x0228528581c01a303d59d8cf6b72bd5a5d219458'

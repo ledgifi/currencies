@@ -8,3 +8,5 @@ id_nomics: FUEL
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/fuel.svg
 logoKey: currencies/fuel.svg
 name: Etherparty
+platform: ETH
+platform_contract: '0xea38eaa3c86c8f9b751533ba2e562deb9acded40'

@@ -5,3 +5,5 @@ id_nomics: AAMMUNIAAVEWETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AAMMUNIAAVEWETH.jpg
 logoKey: currencies/aammuniaaveweth.jpg
 name: Aave AMM UniAAVEWETH
+platform: ETH
+platform_contract: '0xe59d2ff6995a926a574390824a657eed36801e55'

@@ -6,3 +6,5 @@ id_nomics: SHIBAKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBAKEN.jpg
 logoKey: currencies/shibaken.jpg
 name: Shibaken Finance
+platform: ETH
+platform_contract: '0xa4cf2afd3b165975afffbf7e487cdd40c894ab6b'

@@ -5,3 +5,5 @@ id_nomics: DEFITPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEFITPOS.jpg
 logoKey: currencies/defitpos.jpg
 name: Digital Fitness (Polygon)
+platform: MATIC
+platform_contract: '0x428360b02c1269bc1c79fbc399ad31d58c1e8fda'

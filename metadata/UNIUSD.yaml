@@ -3,3 +3,5 @@ fiat: false
 id: UNIUSD
 id_nomics: UNIUSD
 name: UniDollar
+platform: ETH
+platform_contract: '0x256845e721c0c46d54e6afbd4fa3b52cb72353ea'

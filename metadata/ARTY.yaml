@@ -3,3 +3,5 @@ fiat: false
 id: ARTY
 id_nomics: ARTY
 name: Arty
+platform: ETH
+platform_contract: '0xd0549d3c59facbd091e548600c1ec53d762aa66b'

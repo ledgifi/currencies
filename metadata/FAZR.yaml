@@ -6,3 +6,5 @@ id_nomics: FAZR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FAZR.jpg
 logoKey: currencies/fazr.jpg
 name: Fazer
+platform: ETH
+platform_contract: '0x6e4d93efc2beac20992197278ad41f8d10b3efaa'

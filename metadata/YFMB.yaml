@@ -6,3 +6,5 @@ id_nomics: YFMB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFMB.jpeg
 logoKey: currencies/yfmb.jpeg
 name: YFMoonBeam
+platform: ETH
+platform_contract: '0x7aFaC1D878C66A47263DCe57976C371Ae2e74882'

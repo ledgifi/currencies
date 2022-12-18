@@ -5,3 +5,5 @@ id_nomics: MTVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTVE.jpg
 logoKey: currencies/mtve.jpg
 name: Metaverse
+platform: BNB
+platform_contract: '0xe97a8df4f02b173a2c63eddabb64ae8f7aebf858'

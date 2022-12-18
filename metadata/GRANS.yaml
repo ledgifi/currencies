@@ -5,3 +5,5 @@ id_nomics: GRANS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GRANS.png
 logoKey: currencies/grans.png
 name: 10grans
+platform: UBQ
+platform_contract: '0x0826180a4c981d5095cb5c48bb2a098a44cf6f73'

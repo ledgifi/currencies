@@ -6,3 +6,5 @@ id_nomics: PSM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PSM.png
 logoKey: currencies/psm.png
 name: PRASM
+platform: ETH
+platform_contract: '0x1a66e09f7dccc10eae46e27cfa6b8d44a50df1e7'

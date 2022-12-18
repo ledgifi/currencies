@@ -5,3 +5,5 @@ id_nomics: VR5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VR5.jpeg
 logoKey: currencies/vr5.jpeg
 name: VirtualReality V4
+platform: BNB
+platform_contract: '0x23bf9b65e3af5255e70bff8ba42dd36a3ff079f9'

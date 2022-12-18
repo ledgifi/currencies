@@ -5,3 +5,5 @@ id_nomics: MAMADOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAMADOGE.jpg
 logoKey: currencies/mamadoge.jpg
 name: MamaDoge
+platform: BNB
+platform_contract: '0x7819806b6ea4b5582c5ae3825a521b4067b5c7fe'

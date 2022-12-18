@@ -5,3 +5,5 @@ id_nomics: FIRST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIRST.jpg
 logoKey: currencies/first.jpg
 name: Harrison First
+platform: ETH
+platform_contract: '0x9903a4cd589da8e434f264deafc406836418578e'

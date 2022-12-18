@@ -3,3 +3,5 @@ fiat: false
 id: CYW
 id_nomics: CYW
 name: CYWEX
+platform: BNB
+platform_contract: '0xcf8e1d4567aba28ef679333efe70a8c90d1c9ee0'

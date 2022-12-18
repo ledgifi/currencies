@@ -5,3 +5,5 @@ id_nomics: PB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PB2.jpg
 logoKey: currencies/pb2.jpg
 name: Piggy Bank
+platform: AVAX
+platform_contract: '0x0e75cdb914ddcca683357dd94d26caa39bc14b16'

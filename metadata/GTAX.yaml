@@ -3,3 +3,5 @@ fiat: false
 id: GTAX
 id_nomics: GTAX
 name: Global Tax
+platform: ETH
+platform_contract: '0xac2cea82d16965568a8c44ed573880e016457b6f'

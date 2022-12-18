@@ -5,3 +5,5 @@ id_nomics: SRM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SRM2.jpg
 logoKey: currencies/srm2.jpg
 name: SolarMining
+platform: ETH
+platform_contract: '0x681724368d052a4e29fc226ed5085082d74fe716'

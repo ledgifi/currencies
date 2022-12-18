@@ -5,3 +5,5 @@ id_nomics: CDS4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CDS4.jpg
 logoKey: currencies/cds4.jpg
 name: Capital DAO Starter Token
+platform: ETH
+platform_contract: '0x3c48ca59bf2699e51d4974d4b6d284ae52076e5e'

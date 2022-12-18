@@ -5,3 +5,5 @@ id_nomics: BRN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRN.png
 logoKey: currencies/brn.png
 name: Brainmab
+platform: ETH
+platform_contract: '0xe23665542fdd22de602eab11bb4d1ddbfb07e53b'

@@ -5,3 +5,5 @@ id_nomics: KMP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KMP.png
 logoKey: currencies/kmp.png
 name: Kampustesin
+platform: BNB
+platform_contract: '0x0135bACDC13928782a190d53ceDB486B188fbd95'

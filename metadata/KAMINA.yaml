@@ -5,3 +5,5 @@ id_nomics: KAMINA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAMINA.jpg
 logoKey: currencies/kamina.jpg
 name: Kamina Inu
+platform: ETH
+platform_contract: '0xa97753d634252959fc0653deca97be3823c9e836'

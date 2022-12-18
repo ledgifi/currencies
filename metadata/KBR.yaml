@@ -6,3 +6,5 @@ id_nomics: KBR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/kbr.png
 logoKey: currencies/kbr.png
 name: Kubera Coin
+platform: ETH
+platform_contract: '0xd5527579226e4ebc8864906e49d05d4458ccf47f'

@@ -6,3 +6,5 @@ id_nomics: ZOOSHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZOOSHI.jpg
 logoKey: currencies/zooshi.jpg
 name: Zooshi
+platform: BNB
+platform_contract: '0xa060e0c0588d26caba4a0009513337ace50752dd'

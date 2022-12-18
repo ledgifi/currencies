@@ -5,3 +5,5 @@ id_nomics: SOAK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOAK.jpg
 logoKey: currencies/soak.jpg
 name: Soak Token
+platform: BNB
+platform_contract: '0x849233ff1aea15d80ef658b2871664c9ca994063'

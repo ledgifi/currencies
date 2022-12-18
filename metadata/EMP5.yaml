@@ -5,3 +5,5 @@ id_nomics: EMP5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EMP5.png
 logoKey: currencies/emp5.png
 name: EMP MONEY
+platform: BNB
+platform_contract: '0x3b248cefa87f836a4e6f6d6c9b42991b88dc1d58'

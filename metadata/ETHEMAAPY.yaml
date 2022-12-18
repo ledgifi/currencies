@@ -5,3 +5,5 @@ id_nomics: ETHEMAAPY
 logo: https://set-core.s3.amazonaws.com/img/rebalancing_set_icons/eth-26-day-exponential-moving-average-set-ctoken.svg
 logoKey: currencies/ethemaapy.svg
 name: ETH 26 Day EMA Crossover Yield Set
+platform: ETH
+platform_contract: '0x316b13b951efe25aad1cb565385b23869a7d4c48'

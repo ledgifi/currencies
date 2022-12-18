@@ -5,3 +5,5 @@ id_nomics: MGCTOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MGCTOKEN.png
 logoKey: currencies/mgctoken.png
 name: MGC Token
+platform: ETH
+platform_contract: '0x174bfa6600bf90c885c7c01c7031389ed1461ab9'

@@ -3,3 +3,5 @@ fiat: false
 id: BMXTOKEN
 id_nomics: BMXTOKEN
 name: BMX Token
+platform: ETH
+platform_contract: '0x138d02c0c59c6d6ac480218e5585cd97f54e3516'

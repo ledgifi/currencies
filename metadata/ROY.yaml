@@ -6,3 +6,5 @@ id_nomics: ROY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROY.jpg
 logoKey: currencies/roy.jpg
 name: Royal Protocol
+platform: BNB
+platform_contract: '0xcbcb497d505469f34463bbd5490cc46ae43f81ca'

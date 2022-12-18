@@ -8,3 +8,5 @@ id_nomics: POLY
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/poly.svg
 logoKey: currencies/poly.svg
 name: Polymath
+platform: ETH
+platform_contract: '0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec'

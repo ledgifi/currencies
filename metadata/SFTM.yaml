@@ -4,3 +4,5 @@ id: SFTM
 id_nomics: SFTM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFTM.png
 name: S (Fantom)
+platform: FTM
+platform_contract: '0x728d2765716820f0F101a390ca124914635ffD0b'

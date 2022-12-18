@@ -3,3 +3,5 @@ fiat: false
 id: MINMI
 id_nomics: MINMI
 name: Minmi Token
+platform: ETH
+platform_contract: '0x1f270224b176aa1dccae424325be949440138f5b'

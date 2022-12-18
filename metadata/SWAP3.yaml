@@ -5,3 +5,5 @@ id_nomics: SWAP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWAP3.jpg
 logoKey: currencies/swap3.jpg
 name: Swap Online Community Token
+platform: ETH
+platform_contract: '0x14a52cf6b4f68431bd5d9524e4fcd6f41ce4ade9'

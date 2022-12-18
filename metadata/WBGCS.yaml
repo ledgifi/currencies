@@ -6,3 +6,5 @@ id_nomics: WBGCS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WBGCS.png
 logoKey: currencies/wbgcs.png
 name: Wrapped BSC GRECAS
+platform: BNB
+platform_contract: '0xe1a499b4d829e522ef6e2bfcdc63c4e19ae992f0'

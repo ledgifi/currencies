@@ -5,3 +5,5 @@ id_nomics: BWR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BWR.jpeg
 logoKey: currencies/bwr.jpeg
 name: BWR
+platform: BNB
+platform_contract: '0x2FF9624848376276300F4C7bEDacceD0dFA43d30'

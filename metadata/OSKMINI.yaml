@@ -3,3 +3,5 @@ fiat: false
 id: OSKMINI
 id_nomics: OSKMINI
 name: OSKmini
+platform: BNB
+platform_contract: '0x260597f8fb75a5e5f10343287417e58f604ab0bb'

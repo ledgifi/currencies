@@ -5,3 +5,5 @@ id_nomics: WXEQV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WXEQV2.jpg
 logoKey: currencies/wxeqv2.jpg
 name: Wrapped Equilibria V2
+platform: ETH
+platform_contract: '0x4a5b3d0004454988c50e8de1bcfc921ee995ade3'

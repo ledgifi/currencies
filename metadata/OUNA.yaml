@@ -5,3 +5,5 @@ id_nomics: OUNA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OUNA.png
 logoKey: currencies/ouna.png
 name: OUNA
+platform: ETH
+platform_contract: '0xccdf71102e1d7fada8fafb930edd0af11688d79a'

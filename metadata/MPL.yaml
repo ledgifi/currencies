@@ -5,3 +5,5 @@ id_nomics: MPL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MPL.jpg
 logoKey: currencies/mpl.jpg
 name: M+Plus
+platform: ETH
+platform_contract: '0x218f1de2ea9ae3e9fdea347b6e707ebfda2d6233'

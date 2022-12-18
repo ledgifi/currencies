@@ -6,3 +6,5 @@ id_nomics: PKG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/pkg.jpg
 logoKey: currencies/pkg.jpg
 name: PKG Token
+platform: ETH
+platform_contract: '0x02f2d4a04e6e01ace88bd2cd632875543b2ef577'

@@ -5,3 +5,5 @@ id_nomics: OUTBREAK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OUTBREAK2.jpeg
 logoKey: currencies/outbreak2.jpeg
 name: OutbreakDAO
+platform: BNB
+platform_contract: '0x7bfd1dc4508df6f1498067de56d06a648323b814'

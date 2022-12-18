@@ -5,3 +5,5 @@ id_nomics: CACT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CACT.jpg
 logoKey: currencies/cact.jpg
 name: Crypto Against Cancer
+platform: BNB
+platform_contract: '0x6fbff934ec9d724450e66d9ace621cb7e67ceb5a'

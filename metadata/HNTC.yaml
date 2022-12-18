@@ -3,3 +3,5 @@ fiat: false
 id: HNTC
 id_nomics: HNTC
 name: HNT Chain
+platform: ETH
+platform_contract: '0x135093731f61dd5cbfd7744751bf3ced3aaa69b1'

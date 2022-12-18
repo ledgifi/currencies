@@ -3,3 +3,5 @@ fiat: false
 id: BBBUSD
 id_nomics: BBBUSD
 name: BenSwap Bridged BUSD Token
+platform: SMARTBCH
+platform_contract: '0xbb1fcb08961d7fc7ab58dc608a0448aa30e66269'

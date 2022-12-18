@@ -5,3 +5,5 @@ id_nomics: FREEBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FREEBEP20.jpg
 logoKey: currencies/freebep20.jpg
 name: FREE Coin (BEP-20)
+platform: BNB
+platform_contract: '0x12e34cdf6a031a10fe241864c32fb03a4fdad739'

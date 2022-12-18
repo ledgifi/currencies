@@ -6,3 +6,5 @@ id_nomics: DATX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/datx.png
 logoKey: currencies/datx.png
 name: DATx
+platform: ETH
+platform_contract: '0xabbbb6447b68ffd6141da77c18c7b5876ed6c5ab'

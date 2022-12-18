@@ -6,3 +6,5 @@ id_nomics: BITORB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITORB.jpeg
 logoKey: currencies/bitorb.jpeg
 name: BitOrbit
+platform: BNB
+platform_contract: '0xed0c1c9c64ff7c7cc37c3af0dfcf5b02efe0bb5f'

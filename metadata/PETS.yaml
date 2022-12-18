@@ -6,3 +6,5 @@ id_nomics: PETS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PETS.jpeg
 logoKey: currencies/pets.jpeg
 name: MicroPets
+platform: BNB
+platform_contract: '0xa77346760341460b42c230ca6d21d4c8e743fa9c'

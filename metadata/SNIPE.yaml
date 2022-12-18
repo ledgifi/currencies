@@ -3,3 +3,5 @@ fiat: false
 id: SNIPE
 id_nomics: SNIPE
 name: Sniper Test Token
+platform: BNB
+platform_contract: '0x822206c36f44d5e76645371384a62c988afca9ed'

@@ -6,3 +6,5 @@ id_nomics: GLORYD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GLORYD.jpg
 logoKey: currencies/gloryd.jpg
 name: GloryDoge
+platform: BNB
+platform_contract: '0xcc5667333f5e997ac9f0c26d41b7dda65b2b675a'

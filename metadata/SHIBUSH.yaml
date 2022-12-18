@@ -5,3 +5,5 @@ id_nomics: SHIBUSH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBUSH.jpg
 logoKey: currencies/shibush.jpg
 name: Shibush Inu
+platform: ETH
+platform_contract: '0x692553dd0511e54001a99c6763d4fe7ac317b8af'

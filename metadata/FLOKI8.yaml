@@ -5,3 +5,5 @@ id_nomics: FLOKI8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKI8.jpeg
 logoKey: currencies/floki8.jpeg
 name: Floki ONE
+platform: HARMONY
+platform_contract: '0x24b6179e4062ed9baeace0e6081dbd55b6072380'

@@ -6,3 +6,5 @@ id_nomics: RDPX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RDPX.png
 logoKey: currencies/rdpx.png
 name: Dopex Rebate Token
+platform: ETH
+platform_contract: '0x0ff5a8451a839f5f0bb3562689d9a44089738d11'

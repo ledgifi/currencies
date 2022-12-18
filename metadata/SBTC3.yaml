@@ -5,3 +5,5 @@ id_nomics: SBTC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBTC3.jpeg
 logoKey: currencies/sbtc3.jpeg
 name: SuperBTC
+platform: BNB
+platform_contract: '0xe8c52441fcd457c9703ab5412217df71f2eaa327'

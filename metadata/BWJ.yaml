@@ -6,3 +6,5 @@ id_nomics: BWJ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BWJ.jpg
 logoKey: currencies/bwj.jpg
 name: Baby WOJ
+platform: BNB
+platform_contract: '0x83f41c98d028842ccc8060b4ec7738df3eb9a2e6'

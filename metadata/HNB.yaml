@@ -6,3 +6,5 @@ id_nomics: HNB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/hnb.jpg
 logoKey: currencies/hnb.jpg
 name: HashNet BitEco
+platform: ETH
+platform_contract: '0x9c197c4b58527faaab67cb35e3145166b23d242e'

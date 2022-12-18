@@ -5,3 +5,5 @@ id_nomics: PEA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEA2.jpg
 logoKey: currencies/pea2.jpg
 name: Prelax
+platform: BNB
+platform_contract: '0x337b07656a2fe8ab015912c1f2319e178a7cbffd'

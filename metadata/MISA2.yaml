@@ -5,3 +5,5 @@ id_nomics: MISA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MISA2.jpg
 logoKey: currencies/misa2.jpg
 name: Sangkara
+platform: BNB
+platform_contract: '0x934b0633f4874ca9340341ad66ff2f6ce3124b4c'

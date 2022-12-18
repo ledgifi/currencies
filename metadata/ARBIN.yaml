@@ -3,3 +3,5 @@ fiat: false
 id: ARBIN
 id_nomics: ARBIN
 name: ARBINCOME
+platform: ARBETH
+platform_contract: '0x21f80b2395931cc6ce5e34811b795556e5aa47ab'

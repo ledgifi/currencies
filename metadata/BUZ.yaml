@@ -6,3 +6,5 @@ id_nomics: BUZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUZ.png
 logoKey: currencies/buz.png
 name: Buzcoin
+platform: ETH
+platform_contract: '0xae8488e75493b89a0e1488bf91542208c416f486'

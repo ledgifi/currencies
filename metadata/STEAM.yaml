@@ -5,3 +5,5 @@ id_nomics: STEAM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STEAM.jpg
 logoKey: currencies/steam.jpg
 name: Steam token
+platform: BNB
+platform_contract: '0x072e3d0d4f14dd82a16b0a33678c6104e9009ed9'

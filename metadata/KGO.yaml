@@ -6,3 +6,5 @@ id_nomics: KGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KGO.jpg
 logoKey: currencies/kgo.jpg
 name: Kiwigo
+platform: BNB
+platform_contract: '0x5d3afba1924ad748776e4ca62213bf7acf39d773'

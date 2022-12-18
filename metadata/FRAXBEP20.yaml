@@ -5,3 +5,5 @@ id_nomics: FRAXBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FRAXBEP20.jpg
 logoKey: currencies/fraxbep20.jpg
 name: Frax (BEP-20)
+platform: BNB
+platform_contract: '0x29ced01c447166958605519f10dcf8b0255fb379'

@@ -6,3 +6,5 @@ id_nomics: DOW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOW.png
 logoKey: currencies/dow.png
 name: Dowcoin
+platform: ETH
+platform_contract: '0x76974c7b79dc8a6a109fd71fd7ceb9e40eff5382'

@@ -6,3 +6,5 @@ id_nomics: BHIG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bhig.jpg
 logoKey: currencies/bhig.jpg
 name: BuckHathCoin
+platform: ETH
+platform_contract: '0x996229d0c6a485c7f4b52e092eaa907cb2def5c6'

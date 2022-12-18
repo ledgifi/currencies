@@ -5,3 +5,5 @@ id_nomics: SNAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNAKE.jpg
 logoKey: currencies/snake.jpg
 name: Snake Token
+platform: BNB
+platform_contract: '0x53a38d12b84a7413eda4b1206a7a28b59aed9850'

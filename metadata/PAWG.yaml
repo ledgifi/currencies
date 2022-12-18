@@ -5,3 +5,5 @@ id_nomics: PAWG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAWG.jpg
 logoKey: currencies/pawg.jpg
 name: PAWGcoin
+platform: BNB
+platform_contract: '0x19b60612f9a93359bca835a788a334d4157e675b'

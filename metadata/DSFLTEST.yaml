@@ -3,3 +3,5 @@ fiat: false
 id: DSFLTEST
 id_nomics: DSFLTEST
 name: dsfltest
+platform: BNB
+platform_contract: '0x84b795d2a113df4bde72e1e8a3aa64467633c8dd'

@@ -5,3 +5,5 @@ id_nomics: POLY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POLY2.png
 logoKey: currencies/poly2.png
 name: Polymetric
+platform: MATIC
+platform_contract: '0x144e2005c25ea92254c24ac6303a6d74aa4f5ec0'

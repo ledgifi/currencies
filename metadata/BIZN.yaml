@@ -5,3 +5,5 @@ id_nomics: BIZN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIZN.jpeg
 logoKey: currencies/bizn.jpeg
 name: Biznek
+platform: MATIC
+platform_contract: '0x2c763b519ece33bb2c57e63c40e09465dbe7637b'

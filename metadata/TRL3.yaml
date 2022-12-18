@@ -5,3 +5,5 @@ id_nomics: TRL3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRL3.png
 logoKey: currencies/trl3.png
 name: Triall
+platform: ETH
+platform_contract: '0x58f9102bf53cf186682bd9a281d3cd3c616eec41'

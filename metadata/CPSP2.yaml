@@ -5,3 +5,5 @@ id_nomics: CPSP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CPSP2.png
 logoKey: currencies/cpsp2.png
 name: Crypto Swap V2 (OLD)
+platform: BNB
+platform_contract: '0xc5d9325e6D06854EEb4a878ca906284E28BC6673'

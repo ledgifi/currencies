@@ -3,3 +3,5 @@ fiat: false
 id: RESET
 id_nomics: RESET
 name: MetaReset
+platform: ETH
+platform_contract: '0x9ebe20b644224aadcd8811296bc80d66d84e4a50'

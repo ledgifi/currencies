@@ -5,3 +5,5 @@ id_nomics: FODIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FODIS.jpg
 logoKey: currencies/fodis.jpg
 name: FODIES
+platform: BNB
+platform_contract: '0x45d4d5b638884f84eb32bc532eec7adcaa7ceff3'

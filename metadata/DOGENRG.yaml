@@ -5,3 +5,5 @@ id_nomics: DOGENRG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGENRG.svg
 logoKey: currencies/dogenrg.svg
 name: Dogecoin (Energi)
+platform: NRG
+platform_contract: '0x9d1a68399d14e1cf31de846b69ba8e70b87a711f'

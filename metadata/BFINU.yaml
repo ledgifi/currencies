@@ -3,3 +3,5 @@ fiat: false
 id: BFINU
 id_nomics: BFINU
 name: BABY FETCH INU
+platform: ETH
+platform_contract: '0x090d4da05ec23c33355dd253df64907a71002084'

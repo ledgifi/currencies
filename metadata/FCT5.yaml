@@ -5,3 +5,5 @@ id_nomics: FCT5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FCT5.jpg
 logoKey: currencies/fct5.jpg
 name: Farmers Community Token
+platform: MATIC
+platform_contract: '0x5548e42353334614f0aa92780bcf2c221313e1ac'

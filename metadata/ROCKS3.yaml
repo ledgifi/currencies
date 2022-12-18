@@ -5,3 +5,5 @@ id_nomics: ROCKS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROCKS3.png
 logoKey: currencies/rocks3.png
 name: ROCKS
+platform: BNB
+platform_contract: '0xa01000c52b234a92563ba61e5649b7c76e1ba0f3'

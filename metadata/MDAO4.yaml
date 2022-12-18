@@ -5,3 +5,5 @@ id_nomics: MDAO4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MDAO4.png
 logoKey: currencies/mdao4.png
 name: MarsDAO
+platform: BNB
+platform_contract: '0x60322971a672b81bcce5947706d22c19daecf6fb'

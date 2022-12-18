@@ -5,3 +5,5 @@ id_nomics: 1AI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/1AI.jpg
 logoKey: currencies/1ai.jpg
 name: 1AI
+platform: ETH
+platform_contract: '0x208bbb6bcea22ef2011789331405347394ebaa51'

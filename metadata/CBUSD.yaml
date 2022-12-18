@@ -3,3 +3,5 @@ fiat: false
 id: CBUSD
 id_nomics: CBUSD
 name: New Community busd
+platform: BNB
+platform_contract: '0xc6fea5c2869e57ed6f5369a453004e3ec2fa8245'

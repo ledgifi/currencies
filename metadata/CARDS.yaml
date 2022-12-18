@@ -6,3 +6,5 @@ id_nomics: CARDS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CARDS.jpg
 logoKey: currencies/cards.jpg
 name: Cardstarter
+platform: ETH
+platform_contract: '0x3d6f0dea3ac3c607b3998e6ce14b6350721752d9'

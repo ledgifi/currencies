@@ -3,3 +3,5 @@ fiat: false
 id: NILE
 id_nomics: NILE
 name: The Great River
+platform: ETH
+platform_contract: '0x849beb2ccecfe80177c0f9910bc91612c7d42673'

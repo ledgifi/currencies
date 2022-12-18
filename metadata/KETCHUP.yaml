@@ -5,3 +5,5 @@ id_nomics: KETCHUP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KETCHUP.jpg
 logoKey: currencies/ketchup.jpg
 name: Ketchup Finance
+platform: BNB
+platform_contract: '0x714a84632ed7edbbbfeb62dacf02db4beb4c69d9'

@@ -5,3 +5,5 @@ id_nomics: ZOLO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZOLO2.jpg
 logoKey: currencies/zolo2.jpg
 name: ZOLO
+platform: BNB
+platform_contract: '0x7C18EE4E597E05209F64b4e55F48623C5e2a24a1'

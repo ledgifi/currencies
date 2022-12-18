@@ -3,3 +3,5 @@ fiat: false
 id: CROWSWAP
 id_nomics: CROWSWAP
 name: CrowSwap
+platform: CRO
+platform_contract: '0x77944d5ece7b5d33212822ce5d129c8d458022e6'

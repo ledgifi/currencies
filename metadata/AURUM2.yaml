@@ -5,3 +5,5 @@ id_nomics: AURUM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AURUM2.jpg
 logoKey: currencies/aurum2.jpg
 name: Raider Aurum
+platform: MATIC
+platform_contract: '0x34d4ab47bee066f361fa52d792e69ac7bd05ee23'

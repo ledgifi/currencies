@@ -3,3 +3,5 @@ fiat: false
 id: NFTFARM
 id_nomics: NFTFARM
 name: NFT.Farm
+platform: BNB
+platform_contract: '0xac402f0044637c12dcafc8fd414836e4cb5eadcc'

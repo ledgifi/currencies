@@ -6,3 +6,5 @@ id_nomics: PHTR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PHTR.jpg
 logoKey: currencies/phtr.jpg
 name: Phuture
+platform: ETH
+platform_contract: '0xe1fc4455f62a6e89476f1072530c20cf1a0622da'

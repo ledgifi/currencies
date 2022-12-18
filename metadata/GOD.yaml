@@ -6,3 +6,5 @@ id_nomics: GOD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/god.png
 logoKey: currencies/god.png
 name: Bitcoin God
+platform: BNB
+platform_contract: '0x2aaa5cb023cf458e7dfa765fd48b64cd95995ab7'

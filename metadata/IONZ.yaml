@@ -6,3 +6,5 @@ id_nomics: IONZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IONZ.png
 logoKey: currencies/ionz.png
 name: IONZ
+platform: BNB
+platform_contract: '0x7268192a0e5882b21f13fc857cf78299d8e3d75b'

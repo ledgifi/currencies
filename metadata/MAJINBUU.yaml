@@ -5,3 +5,5 @@ id_nomics: MAJINBUU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAJINBUU.png
 logoKey: currencies/majinbuu.png
 name: Majinbuu
+platform: BNB
+platform_contract: '0x14dfc6a4bcd765d5fc196d93901f10746a218c61'

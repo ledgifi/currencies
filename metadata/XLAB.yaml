@@ -6,3 +6,5 @@ id_nomics: XLAB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XLAB.jpg
 logoKey: currencies/xlab.jpg
 name: XCELTOKEN PLUS
+platform: ETH
+platform_contract: '0x8c4e7f814d40f8929f9112c5d09016f923d34472'

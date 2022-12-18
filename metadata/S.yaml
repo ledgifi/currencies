@@ -6,3 +6,5 @@ id_nomics: S
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/s.svg
 logoKey: currencies/s.svg
 name: Sharpay
+platform: ETH
+platform_contract: '0x96b0bf939d9460095c15251f71fda11e41dcbddb'

@@ -5,3 +5,5 @@ id_nomics: QTC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QTC3.png
 logoKey: currencies/qtc3.png
 name: Quick Transfer Coin
+platform: BNB
+platform_contract: '0x22eef13c3ccd9a506d43fe260f7b05116ae1af97'

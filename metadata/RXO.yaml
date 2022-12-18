@@ -5,3 +5,5 @@ id_nomics: RXO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RXO.jpg
 logoKey: currencies/rxo.jpg
 name: RocketXRP Official
+platform: BNB
+platform_contract: '0xec5473af618d475e130dcb47cc991d43677a54cd'

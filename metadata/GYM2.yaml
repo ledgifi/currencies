@@ -5,3 +5,5 @@ id_nomics: GYM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GYM2.png
 logoKey: currencies/gym2.png
 name: GYM Token
+platform: BNB
+platform_contract: '0xe98d920370d87617eb11476b41bf4be4c556f3f8'

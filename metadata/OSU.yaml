@@ -3,3 +3,5 @@ fiat: false
 id: OSU
 id_nomics: OSU
 name: OSU
+platform: BNB
+platform_contract: '0x6318eb8f7a98f75f73fe38949a8742497445d4db'

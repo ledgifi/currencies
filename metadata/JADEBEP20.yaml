@@ -5,3 +5,5 @@ id_nomics: JADEBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JADEBEP20.jpg
 logoKey: currencies/jadebep20.jpg
 name: Jade Currency (BEP-20)
+platform: BNB
+platform_contract: '0x330f4fe5ef44b4d0742fe8bed8ca5e29359870df'

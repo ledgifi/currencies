@@ -5,3 +5,5 @@ id_nomics: SAKEBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAKEBEP20.jpg
 logoKey: currencies/sakebep20.jpg
 name: SakeToken (BEP-20)
+platform: BNB
+platform_contract: '0x8bd778b12b15416359a227f0533ce2d91844e1ed'

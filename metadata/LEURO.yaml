@@ -3,3 +3,5 @@ fiat: false
 id: LEURO
 id_nomics: LEURO
 name: LEONEURO
+platform: BNB
+platform_contract: '0xf76c98493adfa8b74c9335a4c779da2f1583a8e5'

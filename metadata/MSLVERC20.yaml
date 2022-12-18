@@ -5,3 +5,5 @@ id_nomics: MSLVERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSLVERC20.png
 logoKey: currencies/mslverc20.png
 name: Wrapped Mirror SLV Token (ERC-20)
+platform: ETH
+platform_contract: '0x9d1555d8cb3c846bb4f7d5b1b1080872c3166676'

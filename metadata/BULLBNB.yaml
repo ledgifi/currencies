@@ -5,3 +5,5 @@ id_nomics: BULLBNB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BULLBNB.jpeg
 logoKey: currencies/bullbnb.jpeg
 name: BullBNB
+platform: BNB
+platform_contract: '0x63b2605b1a01dbefe31daa17d0369cbd8a12d065'

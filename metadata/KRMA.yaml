@@ -5,3 +5,5 @@ id_nomics: KRMA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KRMA.png
 logoKey: currencies/krma.png
 name: Karma
+platform: BNB
+platform_contract: '0x4ee251c23f81744865fb24082503977a1843f237'

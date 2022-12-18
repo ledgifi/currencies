@@ -5,3 +5,5 @@ id_nomics: GW4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GW4.png
 logoKey: currencies/gw4.png
 name: Green Wall
+platform: BNB
+platform_contract: '0x2cb3aaa71801ea3d4c8c22028e34ce0d28b16fa3'

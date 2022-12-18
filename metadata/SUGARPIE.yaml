@@ -5,3 +5,5 @@ id_nomics: SUGARPIE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUGARPIE.jpg
 logoKey: currencies/sugarpie.jpg
 name: Sugar Pie Token
+platform: BNB
+platform_contract: '0xe36304eb47abacf98a314c412b64cf7be63d64cd'

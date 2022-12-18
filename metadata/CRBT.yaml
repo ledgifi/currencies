@@ -6,3 +6,5 @@ id_nomics: CRBT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRBT.png
 logoKey: currencies/crbt.png
 name: Cruisebit
+platform: ETH
+platform_contract: '0x6b7734c5ecc51116b806e2ea6decbb3b97f4f92e'

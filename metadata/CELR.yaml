@@ -8,3 +8,5 @@ id_nomics: CELR
 logo: https://bin.bnbstatic.com/images/20191211/5c9b1c61-4605-4795-82ad-1206d01b54a9.png
 logoKey: currencies/celr.png
 name: Celer Network
+platform: ETH
+platform_contract: '0x4f9254c83eb525f9fcf346490bbb3ed28a81c667'

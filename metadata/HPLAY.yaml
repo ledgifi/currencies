@@ -5,3 +5,5 @@ id_nomics: HPLAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HPLAY.jpeg
 logoKey: currencies/hplay.jpeg
 name: Harmony Play
+platform: HARMONY
+platform_contract: '0x66cf8375fd083e7d103d69378e9af20f1b46dc59'

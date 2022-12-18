@@ -6,3 +6,5 @@ id_nomics: DAT
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/dat.svg
 logoKey: currencies/dat.svg
 name: Datum
+platform: ETH
+platform_contract: '0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c'

@@ -5,3 +5,5 @@ id_nomics: MMAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MMAI.jpg
 logoKey: currencies/mmai.jpg
 name: MetamonkeyAi
+platform: ETH
+platform_contract: '0xaa0c5b3567fd1bac8a2a11eb16c3f81a49eea90f'

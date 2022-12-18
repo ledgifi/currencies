@@ -5,3 +5,5 @@ id_nomics: ICUBE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICUBE.jpg
 logoKey: currencies/icube.jpg
 name: Ice Cube
+platform: ETH
+platform_contract: '0x05BC8eb2fF284989c720Cb5E468eA8c51D70fB2a'

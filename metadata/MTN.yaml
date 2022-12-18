@@ -6,3 +6,5 @@ id_nomics: MTN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/mtn.png
 logoKey: currencies/mtn.png
 name: Medicalchain
+platform: ETH
+platform_contract: '0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3'

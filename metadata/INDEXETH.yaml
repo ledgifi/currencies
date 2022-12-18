@@ -3,3 +3,5 @@ fiat: false
 id: INDEXETH
 id_nomics: INDEXETH
 name: Thetanuts Bridged Index ETH
+platform: BNB
+platform_contract: '0xb404b6bc6537d66ffade642b0158d423e2a6de22'

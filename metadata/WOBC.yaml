@@ -3,3 +3,5 @@ fiat: false
 id: WOBC
 id_nomics: WOBC
 name: Wombat
+platform: BNB
+platform_contract: '0x632b313c649aebc63d151985882fc36dfd014e2a'

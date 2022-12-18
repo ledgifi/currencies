@@ -3,3 +3,5 @@ fiat: false
 id: BABYLEO
 id_nomics: BABYLEO
 name: babyleo
+platform: BNB
+platform_contract: '0xf7e05d975061ebc3442348400908fe03b7eb1d1e'

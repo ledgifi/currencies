@@ -6,3 +6,5 @@ id_nomics: GAM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/gam.png
 logoKey: currencies/gam.png
 name: Gambit
+platform: ETH
+platform_contract: '0xf67451dc8421f0e0afeb52faa8101034ed081ed9'

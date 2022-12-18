@@ -6,3 +6,5 @@ id_nomics: EBIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EBIT.png
 logoKey: currencies/ebit.png
 name: eBIT
+platform: ETH
+platform_contract: '0xdb45faeca61c70e271bffeaf66162fa68a1c4def'

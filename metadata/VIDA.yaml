@@ -6,3 +6,5 @@ id_nomics: VIDA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VIDA.jpg
 logoKey: currencies/vida.jpg
 name: Vidiachange
+platform: ETH
+platform_contract: '0xe35f19e4457a114a951781aaf421ec5266ef25fe'

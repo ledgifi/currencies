@@ -3,3 +3,5 @@ fiat: false
 id: STC10
 id_nomics: STC10
 name: Satoshi Island
+platform: BNB
+platform_contract: '0x340724464cf51a551106cc6657606ee7d87b28b9'

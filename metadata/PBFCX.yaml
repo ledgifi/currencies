@@ -5,3 +5,5 @@ id_nomics: PBFCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PBFCX.jpg
 logoKey: currencies/pbfcx.jpg
 name: PBF Energy Inc Token
+platform: ETH
+platform_contract: '0xe27fc04d0f239ddff43c4a2531d2a16c26ec014b'

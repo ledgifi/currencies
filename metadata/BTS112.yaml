@@ -5,3 +5,5 @@ id_nomics: BTS112
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTS112.png
 logoKey: currencies/bts112.png
 name: BTS11 TOKEN
+platform: BNB
+platform_contract: '0x9f2e44eb5e02a1791cfbcaa6a3240fcb1e62ab38'

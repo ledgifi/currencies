@@ -3,3 +3,5 @@ fiat: false
 id: NUTS3
 id_nomics: NUTS3
 name: Nuts
+platform: BNB
+platform_contract: '0x20eac65284a3cb0298d1abab3db704f40a919ceb'

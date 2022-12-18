@@ -5,3 +5,5 @@ id_nomics: BLANKBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLANKBEP20.jpg
 logoKey: currencies/blankbep20.jpg
 name: Blank Token (BEP-20)
+platform: BNB
+platform_contract: '0xaec7e1f531bb09115103c53ba76829910ec48966'

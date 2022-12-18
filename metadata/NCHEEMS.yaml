@@ -5,3 +5,5 @@ id_nomics: NCHEEMS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NCHEEMS.jpeg
 logoKey: currencies/ncheems.jpeg
 name: NanoCheems
+platform: BNB
+platform_contract: '0x307f4784cf83adc62514a7414d71a75e0d27971b'

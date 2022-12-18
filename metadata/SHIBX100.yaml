@@ -3,3 +3,5 @@ fiat: false
 id: SHIBX100
 id_nomics: SHIBX100
 name: SHIBX100
+platform: ETH
+platform_contract: '0xe529cbcf1d0ec9b20fb8dd0dd48075d29c177e69'

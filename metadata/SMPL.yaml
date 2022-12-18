@@ -6,3 +6,5 @@ id_nomics: SMPL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMPL.jpg
 logoKey: currencies/smpl.jpg
 name: SMPL Foundation
+platform: ETH
+platform_contract: '0x8bf92cad232f72a7c61eb42e9185e8d0ea470f6b'

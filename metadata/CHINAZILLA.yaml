@@ -6,3 +6,5 @@ id_nomics: CHINAZILLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHINAZILLA.jpeg
 logoKey: currencies/chinazilla.jpeg
 name: Chinazilla
+platform: BNB
+platform_contract: '0x7fb4ed1b35d8f8638056913bece78b8cd624ca0d'

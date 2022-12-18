@@ -6,3 +6,5 @@ id_nomics: AURA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/aura.jpg
 logoKey: currencies/aura.jpg
 name: Aurora DAO
+platform: ETH
+platform_contract: '0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814'

@@ -3,3 +3,5 @@ fiat: false
 id: KICO
 id_nomics: KICO
 name: KingCrypto
+platform: BNB
+platform_contract: '0x811ec23c2da922c4060688f5eae88ef477bb50dd'

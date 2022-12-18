@@ -3,3 +3,5 @@ fiat: false
 id: DEUSDC2
 id_nomics: DEUSDC2
 name: deUSDC
+platform: AVAX
+platform_contract: '0xd39016475200ab8957e9c772c949ef54bda69111'

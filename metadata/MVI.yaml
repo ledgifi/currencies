@@ -5,3 +5,5 @@ id_nomics: MVI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MVI.jpg
 logoKey: currencies/mvi.jpg
 name: Metaverse Index
+platform: ETH
+platform_contract: '0x72e364f2abdc788b7e918bc238b21f109cd634d7'

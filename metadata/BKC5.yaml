@@ -5,3 +5,5 @@ id_nomics: BKC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BKC5.jpg
 logoKey: currencies/bkc5.jpg
 name: Buskercommcoin
+platform: BNB
+platform_contract: '0xd97ef5b3d8c793474232f656e611526a1751d433'

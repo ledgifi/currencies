@@ -5,3 +5,5 @@ id_nomics: UBC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ubc.jpg
 logoKey: currencies/ubc.jpg
 name: Ubcoin
+platform: ETH
+platform_contract: '0x2d3e7d4870a51b918919e7b851fe19983e4c38d5'

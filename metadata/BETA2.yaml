@@ -3,3 +3,5 @@ fiat: false
 id: BETA2
 id_nomics: BETA2
 name: Beta Token
+platform: ETH
+platform_contract: '0x35f67c1d929e106fdff8d1a55226afe15c34dbe2'

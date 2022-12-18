@@ -3,3 +3,5 @@ fiat: false
 id: SACS
 id_nomics: SACS
 name: SACS
+platform: HT
+platform_contract: '0xe8677f93fd11264756b965ac108fb46d7109cc84'

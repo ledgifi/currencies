@@ -5,3 +5,5 @@ id_nomics: CHT6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHT6.png
 logoKey: currencies/cht6.png
 name: Chronic Token
+platform: ETH
+platform_contract: '0x19fab8f7dffff38268644eaebd3d538f68036000'

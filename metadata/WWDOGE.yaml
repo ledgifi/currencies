@@ -5,3 +5,5 @@ id_nomics: WWDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WWDOGE.jpeg
 logoKey: currencies/wwdoge.jpeg
 name: Wrapped WDOGE
+platform: DC7
+platform_contract: '0xb7ddc6414bf4f5515b52d8bdd69973ae205ff101'

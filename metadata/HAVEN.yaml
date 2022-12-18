@@ -6,3 +6,5 @@ id_nomics: HAVEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HAVEN.jpg
 logoKey: currencies/haven.jpg
 name: Haven Token
+platform: BNB
+platform_contract: '0x51cc64be1d35315ac654a630e9f6e6f7ca822368'

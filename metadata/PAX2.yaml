@@ -5,3 +5,5 @@ id_nomics: PAX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAX2.jpg
 logoKey: currencies/pax2.jpg
 name: PayperEx
+platform: ETH
+platform_contract: '0xc1d204d77861def49b6e769347a883b15ec397ff'

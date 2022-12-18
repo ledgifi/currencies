@@ -5,3 +5,5 @@ id_nomics: LIGHT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/light.png
 logoKey: currencies/light.png
 name: LightChain
+platform: ETH
+platform_contract: '0x1295b55fa04fbac6d9e7c351ecb3486e88129027'

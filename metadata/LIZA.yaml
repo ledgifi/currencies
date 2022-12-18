@@ -5,3 +5,5 @@ id_nomics: LIZA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIZA.png
 logoKey: currencies/liza.png
 name: LIZA
+platform: ETH
+platform_contract: '0x3b7712b395bc5f7f7fb6976ea4827377e77adab6'

@@ -6,3 +6,5 @@ id_nomics: BRICKS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRICKS.jpg
 logoKey: currencies/bricks.jpg
 name: MyBricks
+platform: BNB
+platform_contract: '0x13e1070e3a388e53ec35480ff494538f9ffc5b8d'

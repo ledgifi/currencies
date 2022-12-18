@@ -6,3 +6,5 @@ id_nomics: RWSC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RWSC.jpg
 logoKey: currencies/rwsc.jpg
 name: RewardsCoin
+platform: BNB
+platform_contract: '0xb44c00a75d63eb9c12ec97add741e554ebc2f4bd'

@@ -6,3 +6,5 @@ id_nomics: ABYSS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/abyss.jpg
 logoKey: currencies/abyss.jpg
 name: The Abyss
+platform: BNB
+platform_contract: '0x73ec9d20c6a1e8cf34e7e446d76aeb742eb6ae28'

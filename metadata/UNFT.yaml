@@ -6,3 +6,5 @@ id_nomics: UNFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNFT.jpg
 logoKey: currencies/unft.jpg
 name: Ultra NFT
+platform: BNB
+platform_contract: '0xdb29192fc2b487bb5185e155752328d4f249743c'

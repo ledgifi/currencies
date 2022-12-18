@@ -3,3 +3,5 @@ fiat: false
 id: CRIME
 id_nomics: CRIME
 name: Crime Gold
+platform: FTM
+platform_contract: '0xf378f05a51868c29d94f57e4240d7423cb526083'

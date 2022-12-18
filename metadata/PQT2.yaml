@@ -5,3 +5,5 @@ id_nomics: PQT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PQT2.jpg
 logoKey: currencies/pqt2.jpg
 name: Prediqt
+platform: ETH
+platform_contract: '0xf8c17c840549974ec17c6573b3963f1e3046c0eb'

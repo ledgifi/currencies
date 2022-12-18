@@ -5,3 +5,5 @@ id_nomics: FEAR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FEAR2.jpg
 logoKey: currencies/fear2.jpg
 name: Fear NFTs
+platform: ETH
+platform_contract: '0x88a9a52f944315d5b4e917b9689e65445c401e83'

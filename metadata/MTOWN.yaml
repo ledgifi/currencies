@@ -6,3 +6,5 @@ id_nomics: MTOWN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTOWN.jpg
 logoKey: currencies/mtown.jpg
 name: MetaTown
+platform: BNB
+platform_contract: '0xcaf1b8f0240376b616b797ec1e93794455946897'

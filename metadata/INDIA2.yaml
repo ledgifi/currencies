@@ -5,3 +5,5 @@ id_nomics: INDIA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INDIA2.jpg
 logoKey: currencies/india2.jpg
 name: India Coin
+platform: BNB
+platform_contract: '0x4d8c829c02585aa62d2bbaf562099bf749637580'

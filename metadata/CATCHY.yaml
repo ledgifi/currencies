@@ -6,3 +6,5 @@ id_nomics: CATCHY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CATCHY.jpg
 logoKey: currencies/catchy.jpg
 name: Catchy
+platform: BNB
+platform_contract: '0x2789604fe261adc1aed3927f41277d8bffe33c36'

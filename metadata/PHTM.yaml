@@ -3,3 +3,5 @@ fiat: false
 id: PHTM
 id_nomics: PHTM
 name: Phantom Matter
+platform: ETH
+platform_contract: '0x50fff411f4e22e79857ff9ad3475b50d6df195f0'

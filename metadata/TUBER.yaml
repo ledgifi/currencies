@@ -6,3 +6,5 @@ id_nomics: TUBER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TUBER.png
 logoKey: currencies/tuber.png
 name: TokenTuber
+platform: ETH
+platform_contract: '0xd1766a85b0d6f81185782dc07f15326d63c3cbaa'

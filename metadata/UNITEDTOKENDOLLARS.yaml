@@ -5,3 +5,5 @@ id_nomics: UNITEDTOKENDOLLARS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNITEDTOKENDOLLARS.png
 logoKey: currencies/unitedtokendollars.png
 name: United Token Dollars
+platform: ETH
+platform_contract: '0xc2be193f581f129ace32d2fe949d100dc09c2a05'

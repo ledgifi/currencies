@@ -5,3 +5,5 @@ id_nomics: MTRL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTRL.jpg
 logoKey: currencies/mtrl.jpg
 name: Material
+platform: ETH
+platform_contract: '0x13c99770694f07279607a6274f28a28c33086424'

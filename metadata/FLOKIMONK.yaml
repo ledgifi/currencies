@@ -6,3 +6,5 @@ id_nomics: FLOKIMONK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKIMONK.jpg
 logoKey: currencies/flokimonk.jpg
 name: Floki Monk
+platform: BNB
+platform_contract: '0x50276ec18765278b582c6fb4dbc2ee5f31309257'

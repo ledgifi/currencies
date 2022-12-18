@@ -5,3 +5,5 @@ id_nomics: RPINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RPINU.png
 logoKey: currencies/rpinu.png
 name: Rupiah Inu
+platform: BNB
+platform_contract: '0xCc9B793CC9A4c10c706da713067Aa80930103BD3'

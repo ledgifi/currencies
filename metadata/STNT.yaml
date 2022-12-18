@@ -3,3 +3,5 @@ fiat: false
 id: STNT
 id_nomics: STNT
 name: ' Sensational Token (Wormhole)'
+platform: MATIC
+platform_contract: '0x35c9b0b00874960eb79f57e4cf8e6b7f4bd7d56e'

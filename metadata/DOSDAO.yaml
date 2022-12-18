@@ -3,3 +3,5 @@ fiat: false
 id: DOSDAO
 id_nomics: DOSDAO
 name: dosdao
+platform: BNB
+platform_contract: '0x5ddbb773c797ffcc1fb9a3d4539fc4abf862e8cf'

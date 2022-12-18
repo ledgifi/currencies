@@ -3,3 +3,5 @@ fiat: false
 id: GGCM
 id_nomics: GGCM
 name: Gold Guaranteed Coin
+platform: BNB
+platform_contract: '0xe5431bcf8769fcc7f2f3dbdd93300b9696747c4c'

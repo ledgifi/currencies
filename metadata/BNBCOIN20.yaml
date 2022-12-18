@@ -3,3 +3,5 @@ fiat: false
 id: BNBCOIN20
 id_nomics: BNBCOIN20
 name: BNBCOIN2.0
+platform: BNB
+platform_contract: '0x4f861a84b6a7451b32e1bf293dfb2f0ebc0a05f2'

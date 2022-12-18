@@ -3,3 +3,5 @@ fiat: false
 id: NEBULANODESPRINTER
 id_nomics: NEBULANODESPRINTER
 name: NebulaNodesPrinter
+platform: AVAX
+platform_contract: '0xd5509b44d07eb9be3458eb49b7326f320a4bf772'

@@ -5,3 +5,5 @@ id_nomics: LUNQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUNQ.jpg
 logoKey: currencies/lunq.jpg
 name: Queen Luna
+platform: BNB
+platform_contract: '0x5fb5fea77711e321a55fdefdaf5c18fcb88a24a6'

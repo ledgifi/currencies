@@ -5,3 +5,5 @@ id_nomics: STHO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STHO.jpg
 logoKey: currencies/stho.jpg
 name: ThorusStake
+platform: AVAX
+platform_contract: '0x63468133ed352e602beb61dd254d6060ad2fe419'

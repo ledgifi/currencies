@@ -5,3 +5,5 @@ id_nomics: RELAYAVAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RELAYAVAX.jpg
 logoKey: currencies/relayavax.jpg
 name: Relay Token (Avalanche)
+platform: AVAX
+platform_contract: '0x78c42324016cd91D1827924711563fb66E33A83A'

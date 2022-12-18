@@ -6,3 +6,5 @@ id_nomics: ELUNR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELUNR.jpg
 logoKey: currencies/elunr.jpg
 name: Ethereum-bridged Lunr Token
+platform: BNB
+platform_contract: '0x37807d4fbeb84124347b8899dd99616090d3e304'

@@ -3,3 +3,5 @@ fiat: false
 id: SDC4
 id_nomics: SDC4
 name: SDC Protocol
+platform: ETH
+platform_contract: '0x2770b3a2fc1b2eb4a54371421092c5a526dd1fa5'

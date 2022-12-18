@@ -3,3 +3,5 @@ fiat: false
 id: UCX
 id_nomics: UCX
 name: UCX
+platform: ETH
+platform_contract: '0x3d3af44cf092a49280e316f09c8f20ecf97bc933'

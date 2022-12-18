@@ -5,3 +5,5 @@ id_nomics: BTG4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTG4.jpeg
 logoKey: currencies/btg4.jpeg
 name: Bullish Tiger Game
+platform: BNB
+platform_contract: '0x3ca2b6e9fe155998fb55e0eb00c1ff95376ca1a0'

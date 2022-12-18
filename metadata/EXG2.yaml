@@ -5,3 +5,5 @@ id_nomics: EXG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EXG2.jpg
 logoKey: currencies/exg2.jpg
 name: EXG Token
+platform: ETH
+platform_contract: '0xd77604d92cfc8d51c945a52908b8532ab7bd19d2'

@@ -5,3 +5,5 @@ id_nomics: AVAXGAS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVAXGAS.jpeg
 logoKey: currencies/avaxgas.jpeg
 name: avaxGAS
+platform: AVAX
+platform_contract: '0x57dc3dfb48252daa731e70f9166252f8cc1b116f'

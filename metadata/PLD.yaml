@@ -6,3 +6,5 @@ id_nomics: PLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLD.png
 logoKey: currencies/pld.png
 name: Pureland Project
+platform: ETH
+platform_contract: '0xe9541c7ea236332f4d07be73101670f39b27da02'

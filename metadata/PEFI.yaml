@@ -6,3 +6,5 @@ id_nomics: PEFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEFI.jpg
 logoKey: currencies/pefi.jpg
 name: Penguin Finance
+platform: AVAX
+platform_contract: '0xe896cdeaac9615145c0ca09c8cd5c25bced6384c'

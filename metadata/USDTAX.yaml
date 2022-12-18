@@ -3,3 +3,5 @@ fiat: false
 id: USDTAX
 id_nomics: USDTAX
 name: USDTax
+platform: MATIC
+platform_contract: '0x3145c31cbe04f652e879020a223c2a007a0ec0de'

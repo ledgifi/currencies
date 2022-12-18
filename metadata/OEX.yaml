@@ -5,3 +5,5 @@ id_nomics: OEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OEX.png
 logoKey: currencies/oex.png
 name: OEX
+platform: ETH
+platform_contract: '0x770192738485d4794f4222e49501f31e85814cec'

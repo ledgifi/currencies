@@ -3,3 +3,5 @@ fiat: false
 id: RECIPE
 id_nomics: RECIPE
 name: Recipe Token
+platform: ETH
+platform_contract: '0x700be7970b6f9d39872c2091593c45d00e0bed1b'

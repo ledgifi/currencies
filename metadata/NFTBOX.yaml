@@ -5,3 +5,5 @@ id_nomics: NFTBOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTBOX.jpg
 logoKey: currencies/nftbox.jpg
 name: NFTBOX
+platform: BNB
+platform_contract: '0xc713d1053a6e8efa08ae2903181d8ce5182aa66c'

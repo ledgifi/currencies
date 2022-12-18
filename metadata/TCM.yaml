@@ -5,3 +5,5 @@ id_nomics: TCM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCM.jpg
 logoKey: currencies/tcm.jpg
 name: Time Cash
+platform: BNB
+platform_contract: '0x820ff3659da2dcb132281f70c08550bfe4358e11'

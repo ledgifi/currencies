@@ -5,3 +5,5 @@ id_nomics: SLAM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLAM2.jpg
 logoKey: currencies/slam2.jpg
 name: Slam Token
+platform: BNB
+platform_contract: '0xcce7f9eb881248e04f2975a3fb3b62631ad9ee37'

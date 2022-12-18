@@ -3,3 +3,5 @@ fiat: false
 id: JUB
 id_nomics: JUB
 name: JUBToken
+platform: ETH
+platform_contract: '0x3d3e392a734c07c7c97f3355f6024b408598f5a6'

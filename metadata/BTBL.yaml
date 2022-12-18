@@ -5,3 +5,5 @@ id_nomics: BTBL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/btbl.jpg
 logoKey: currencies/btbl.jpg
 name: BitBall
+platform: ETH
+platform_contract: '0x06e0feb0d74106c7ada8497754074d222ec6bcdf'

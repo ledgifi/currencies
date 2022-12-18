@@ -6,3 +6,5 @@ id_nomics: PEACH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEACH.jpg
 logoKey: currencies/peach.jpg
 name: Peach
+platform: BNB
+platform_contract: '0x5ced26185f82b07e1516d0b013c54ccbd252a4ad'

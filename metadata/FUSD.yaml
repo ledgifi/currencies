@@ -3,3 +3,5 @@ fiat: false
 id: FUSD
 id_nomics: FUSD
 name: Foton USD
+platform: ETH
+platform_contract: '0x7f20f6e68bd14dbdb95244dbee6c316999a2d4c1'

@@ -3,3 +3,5 @@ fiat: false
 id: USDTBEP20
 id_nomics: USDTBEP20
 name: Tether USD (BEP-20)
+platform: BNB
+platform_contract: '0x55d398326f99059ff775485246999027b3197955'

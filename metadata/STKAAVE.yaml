@@ -5,3 +5,5 @@ id_nomics: STKAAVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STKAAVE.jpg
 logoKey: currencies/stkaave.jpg
 name: Staked Aave
+platform: ETH
+platform_contract: '0x4da27a545c0c5b758a6ba100e3a049001de870f5'

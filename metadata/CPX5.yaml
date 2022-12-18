@@ -5,3 +5,5 @@ id_nomics: CPX5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CPX5.png
 logoKey: currencies/cpx5.png
 name: Cat Sphynx
+platform: BNB
+platform_contract: '0x1e2b832edd325e85eac987d3e6a95861f6280c46'

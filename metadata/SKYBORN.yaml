@@ -5,3 +5,5 @@ id_nomics: SKYBORN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SKYBORN.jpg
 logoKey: currencies/skyborn.jpg
 name: SkyBorn
+platform: BNB
+platform_contract: '0xf78bbc835b52d7f0e9538c3566997ba2bf050b85'

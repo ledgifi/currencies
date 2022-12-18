@@ -5,3 +5,5 @@ id_nomics: WFTM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WFTM.png
 logoKey: currencies/wftm.png
 name: Wrapped Fantom
+platform: FTM
+platform_contract: '0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83'

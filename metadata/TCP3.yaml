@@ -5,3 +5,5 @@ id_nomics: TCP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCP3.jpg
 logoKey: currencies/tcp3.jpg
 name: The Crypto Prophecies
+platform: ETH
+platform_contract: '0x06576eb3b212d605b797dc15523d9dc9f4f66db4'

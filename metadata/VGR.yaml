@@ -6,3 +6,5 @@ id_nomics: VGR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VGR.jpg
 logoKey: currencies/vgr.jpg
 name: Voyager
+platform: ETH
+platform_contract: '0x16987c021c14ca1045cd0afebb33c124a58bf16c'

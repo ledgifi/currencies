@@ -3,3 +3,5 @@ fiat: false
 id: BARNEY
 id_nomics: BARNEY
 name: BarneyCoin
+platform: BNB
+platform_contract: '0x2ea87c637fff608568c5093212016b5e530be024'

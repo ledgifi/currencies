@@ -3,3 +3,5 @@ fiat: false
 id: MYCAKE
 id_nomics: MYCAKE
 name: My Pancake Token
+platform: BNB
+platform_contract: '0x8ca21e54df330d940c141aecd91944c4edb83734'

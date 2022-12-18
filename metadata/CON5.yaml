@@ -5,3 +5,5 @@ id_nomics: CON5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CON5.png
 logoKey: currencies/con5.png
 name: Coin of Nature
+platform: BNB
+platform_contract: '0xe0e0fbc7e8d881953d39cf899409410b50b8c924'

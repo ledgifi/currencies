@@ -6,3 +6,5 @@ id_nomics: MITTEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MITTEN.jpg
 logoKey: currencies/mitten.jpg
 name: Mittens
+platform: ETH
+platform_contract: '0x01d5609df23dee77fe8db8e03c66be11dca7d21b'

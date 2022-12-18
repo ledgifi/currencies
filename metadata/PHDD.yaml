@@ -3,3 +3,5 @@ fiat: false
 id: PHDD
 id_nomics: PHDD
 name: HDDCoin via PlotBridge
+platform: BNB
+platform_contract: '0xfee42eff2dbbdb18f3cf5dce30139fb853a835a2'

@@ -3,3 +3,5 @@ fiat: false
 id: ZETH3X
 id_nomics: ZETH3X
 name: Zerogoki ETH3X Leveraged Token
+platform: ETH
+platform_contract: '0x247913d11957f3561d4a14166ec478c3c70a9297'

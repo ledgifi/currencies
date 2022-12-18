@@ -3,3 +3,5 @@ fiat: false
 id: CROMD
 id_nomics: CROMD
 name: DrCronos
+platform: CRO
+platform_contract: '0x7156f7458d73411634d24a92616627f38621f90e'

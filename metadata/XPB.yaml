@@ -5,3 +5,5 @@ id_nomics: XPB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XPB.jpg
 logoKey: currencies/xpb.jpg
 name: Transmute
+platform: ETH
+platform_contract: '0xbc81bf5b3173bccdbe62dba5f5b695522ad63559'

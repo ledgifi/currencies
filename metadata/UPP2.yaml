@@ -5,3 +5,5 @@ id_nomics: UPP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UPP2.jpg
 logoKey: currencies/upp2.jpg
 name: Unipump
+platform: ETH
+platform_contract: '0xce25b4271cc4d937a7d9bf75b2068a7892b9961d'

@@ -6,3 +6,5 @@ id_nomics: IUC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IUC.png
 logoKey: currencies/iuc.png
 name: IU Coin
+platform: BNB
+platform_contract: '0x4c0797c0b7e916f4190f71ce6dfec820d4c06c19'

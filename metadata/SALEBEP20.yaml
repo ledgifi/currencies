@@ -5,3 +5,5 @@ id_nomics: SALEBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SALEBEP20.png
 logoKey: currencies/salebep20.png
 name: DxSale Network (BEP-20)
+platform: BNB
+platform_contract: '0x97bb08ba41f033beaac315169fc566ac9e0daf52'

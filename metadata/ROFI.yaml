@@ -5,3 +5,5 @@ id_nomics: ROFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROFI.jpg
 logoKey: currencies/rofi.jpg
 name: Roar Finance
+platform: BNB
+platform_contract: '0x548848ed9b70ec604062dace5a02272a16670983'

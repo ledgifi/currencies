@@ -6,3 +6,5 @@ id_nomics: INEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INEX.jpg
 logoKey: currencies/inex.jpg
 name: Internet Exchange Token
+platform: ETH
+platform_contract: '0xa2d77f8353cb2afd709aba4a967257511ecff716'

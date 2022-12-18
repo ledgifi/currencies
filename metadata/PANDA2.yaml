@@ -5,3 +5,5 @@ id_nomics: PANDA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PANDA2.jpg
 logoKey: currencies/panda2.jpg
 name: Panda Token
+platform: ETH
+platform_contract: '0x27a25fa937549babefc415ad72bf43ad9a0f9e7d'

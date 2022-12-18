@@ -5,3 +5,5 @@ id_nomics: CRAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRAT.jpeg
 logoKey: currencies/crat.jpeg
 name: CRAT
+platform: BNB
+platform_contract: '0xc6d7062ed5b8bf1532cbc101e4daa0cc0b06f2a2'

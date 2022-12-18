@@ -5,3 +5,5 @@ id_nomics: C4C
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/C4C.png
 logoKey: currencies/c4c.png
 name: Coin4Cast
+platform: ETH
+platform_contract: '0xc230ce24b527ed4caf97310753330a2965f3a4bd'

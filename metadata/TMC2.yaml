@@ -5,3 +5,5 @@ id_nomics: TMC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TMC2.jpg
 logoKey: currencies/tmc2.jpg
 name: TMC
+platform: ETH
+platform_contract: '0x1c153badb7e54abcdcb65f0a09fcd6f10de36aa3'

@@ -5,3 +5,5 @@ id_nomics: SET3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SET3.jpg
 logoKey: currencies/set3.jpg
 name: Sustainable Energy Token
+platform: BNB
+platform_contract: '0x1b391f9d0fffa86a6088a73ac4ac28d12c9ccfbd'

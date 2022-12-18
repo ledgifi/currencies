@@ -5,3 +5,5 @@ id_nomics: DUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUSD.jpg
 logoKey: currencies/dusd.jpg
 name: DigitalUSD
+platform: ETH
+platform_contract: '0x556ea1fe7cb0964e7de8dfe6cde63f1e40908541'

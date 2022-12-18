@@ -5,3 +5,5 @@ id_nomics: WAR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAR3.jpg
 logoKey: currencies/war3.jpg
 name: NFT Wars
+platform: ETH
+platform_contract: '0x4d75d9e37667a2d4677ec3d74bdd9049326ad8d6'

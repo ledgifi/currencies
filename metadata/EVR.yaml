@@ -6,3 +6,5 @@ id_nomics: EVR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVR.png
 logoKey: currencies/evr.png
 name: Everus
+platform: ETH
+platform_contract: '0x3137619705b5fc22a3048989f983905e456b59ab'

@@ -6,3 +6,5 @@ id_nomics: FXE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FXE.png
 logoKey: currencies/fxe.png
 name: FuturXe
+platform: ETH
+platform_contract: '0x9653cfd0865ad8313bea2f0c2ec0584bfd05115b'

@@ -6,3 +6,5 @@ id_nomics: SSTX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SSTX.png
 logoKey: currencies/sstx.png
 name: Silver Stonks
+platform: BNB
+platform_contract: '0x5396734569e26101677eb39c89413f7fa7d8006f'

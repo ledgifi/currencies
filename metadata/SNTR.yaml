@@ -6,3 +6,5 @@ id_nomics: SNTR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/sntr.jpg
 logoKey: currencies/sntr.jpg
 name: Silent Notary
+platform: ETH
+platform_contract: '0x2859021ee7f2cb10162e67f33af2d22764b31aff'

@@ -5,3 +5,5 @@ id_nomics: FLOKI15
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKI15.jpeg
 logoKey: currencies/floki15.jpeg
 name: Floki Inu (BEP-20) V2
+platform: BNB
+platform_contract: '0xfb5b838b6cfeedc2873ab27866079ac55363d37e'

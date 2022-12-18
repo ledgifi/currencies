@@ -5,3 +5,5 @@ id_nomics: ASGARDV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASGARDV2.png
 logoKey: currencies/asgardv2.png
 name: Asgard Dao V2
+platform: BNB
+platform_contract: '0x5b6bd1ad8cf355c22df1323822cdc66afcfa87bb'

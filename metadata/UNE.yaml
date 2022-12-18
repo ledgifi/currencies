@@ -5,3 +5,5 @@ id_nomics: UNE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNE.jpg
 logoKey: currencies/une.jpg
 name: United Exchange
+platform: ETH
+platform_contract: '0xf0754b811bcc3cd80912dca2ad4833b8081682f3'

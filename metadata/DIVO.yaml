@@ -5,3 +5,5 @@ id_nomics: DIVO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DIVO.jpg
 logoKey: currencies/divo.jpg
 name: DIVO Token
+platform: ETH
+platform_contract: '0xff1beda5ca92a83d05323e338d0534410858b6a2'

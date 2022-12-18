@@ -6,3 +6,5 @@ id_nomics: PTP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PTP.jpg
 logoKey: currencies/ptp.jpg
 name: Platypus Finance
+platform: AVAX
+platform_contract: '0x22d4002028f537599be9f666d1c4fa138522f9c8'

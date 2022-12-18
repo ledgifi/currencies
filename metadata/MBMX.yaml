@@ -6,3 +6,5 @@ id_nomics: MBMX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MBMX.jpg
 logoKey: currencies/mbmx.jpg
 name: Metal Backed Money
+platform: ETH
+platform_contract: '0xdebaa67a818c0582e35406a29ee07fe63e93130a'

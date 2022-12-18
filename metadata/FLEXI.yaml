@@ -3,3 +3,5 @@ fiat: false
 id: FLEXI
 id_nomics: FLEXI
 name: FlexiCoin
+platform: ETH
+platform_contract: '0x4b5087c5361bd1dfdc0adbe73d4f57674d222767'

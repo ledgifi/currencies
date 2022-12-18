@@ -6,3 +6,5 @@ id_nomics: SIMBAINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIMBAINU.jpg
 logoKey: currencies/simbainu.jpg
 name: Simba Inu
+platform: BNB
+platform_contract: '0x14e2c19dd223603def5ef4a2a6af9d1eb03186e2'

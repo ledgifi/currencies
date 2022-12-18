@@ -6,3 +6,5 @@ id_nomics: PHENIX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PHENIX.jpg
 logoKey: currencies/phenix.jpg
 name: Phenix
+platform: BNB
+platform_contract: '0xc81d5e0ba9fd68911967313b1e00240bb6b7315b'

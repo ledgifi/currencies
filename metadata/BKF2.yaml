@@ -5,3 +5,5 @@ id_nomics: BKF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BKF2.png
 logoKey: currencies/bkf2.png
 name: BKING Finance
+platform: BNB
+platform_contract: '0x767da3a74154bfb1f022087e533967afeaebf892'

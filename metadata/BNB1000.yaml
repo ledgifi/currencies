@@ -3,3 +3,5 @@ fiat: false
 id: BNB1000
 id_nomics: BNB1000
 name: Helmet.Insure BNB long call option strike 1000 BUSD
+platform: BNB
+platform_contract: '0x7aae192b83589784851a7df13c225fda2e3d87c5'

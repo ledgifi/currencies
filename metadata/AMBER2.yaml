@@ -5,3 +5,5 @@ id_nomics: AMBER2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMBER2.jpg
 logoKey: currencies/amber2.jpg
 name: Amber Chain
+platform: BNB
+platform_contract: '0x25549873cb296323181f841b80915ad270198c48'

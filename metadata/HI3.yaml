@@ -5,3 +5,5 @@ id_nomics: HI3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HI3.png
 logoKey: currencies/hi3.png
 name: hi Dollar
+platform: ETH
+platform_contract: '0xc4f6e93aeddc11dc22268488465babcaf09399ac'

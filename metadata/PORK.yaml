@@ -3,3 +3,5 @@ fiat: false
 id: PORK
 id_nomics: PORK
 name: PorkToken
+platform: BNB
+platform_contract: '0x067fc2b8340a5db4366e3137902d3ade232a66d2'

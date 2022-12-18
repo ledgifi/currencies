@@ -3,3 +3,5 @@ fiat: false
 id: BCL2
 id_nomics: BCL2
 name: Bitcoin Legend
+platform: ETH
+platform_contract: '0x7b75e328829f66bb1da0b3bcbe7e8123751a05f7'

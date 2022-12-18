@@ -5,3 +5,5 @@ id_nomics: PUB20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PUB20.png
 logoKey: currencies/pub20.png
 name: Pubg 2.0
+platform: BNB
+platform_contract: '0xF41fB084eb9823405466DE672349aA1699Dc8C56'

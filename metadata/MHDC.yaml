@@ -5,3 +5,5 @@ id_nomics: MHDC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MHDC.jpg
 logoKey: currencies/mhdc.jpg
 name: MahaDevCoin
+platform: BNB
+platform_contract: '0xfe648e4625dF6E595E5264e4d2cb1db878e8db4D'

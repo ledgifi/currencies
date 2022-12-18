@@ -5,3 +5,5 @@ id_nomics: BUNC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUNC.png
 logoKey: currencies/bunc.png
 name: BUNC Inu
+platform: BNB
+platform_contract: '0xf4322a2be8fad78e8e7a0fbc9d62009915bb54ab'

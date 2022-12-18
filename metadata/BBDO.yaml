@@ -6,3 +6,5 @@ id_nomics: BBDO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBDO.png
 logoKey: currencies/bbdo.png
 name: bDollar Bond
+platform: BNB
+platform_contract: '0x9586b02b09bd68a7cd4aa9167a61b78f43092063'

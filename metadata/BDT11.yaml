@@ -5,3 +5,5 @@ id_nomics: BDT11
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BDT11.jpg
 logoKey: currencies/bdt11.jpg
 name: Baby DogeTrust
+platform: BNB
+platform_contract: '0x8e6087851d6f56fc9124174c6575184fbd695555'

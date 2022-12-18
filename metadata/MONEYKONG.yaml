@@ -3,3 +3,5 @@ fiat: false
 id: MONEYKONG
 id_nomics: MONEYKONG
 name: MoneyKong
+platform: ETH
+platform_contract: '0x3319cbbb460e3c00275f818241644c1042064387'

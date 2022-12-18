@@ -6,3 +6,5 @@ id_nomics: SPADE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPADE.jpg
 logoKey: currencies/spade.jpg
 name: PolygonFarm Finance
+platform: MATIC
+platform_contract: '0xf5ea626334037a2cf0155d49ea6462fddc6eff19'

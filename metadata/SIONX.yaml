@@ -5,3 +5,5 @@ id_nomics: SIONX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIONX.jpeg
 logoKey: currencies/sionx.jpeg
 name: SIONIX V2
+platform: BNB
+platform_contract: '0xd448068f8c73a7f64bfddbc17204afbbd7b3f80a'

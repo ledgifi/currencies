@@ -3,3 +3,5 @@ fiat: false
 id: BIDENCASH
 id_nomics: BIDENCASH
 name: Biden Cash
+platform: ETH
+platform_contract: '0x99cf15913cc44f81284210c2b1d4aebe2da23a7d'

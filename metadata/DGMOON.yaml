@@ -5,3 +5,5 @@ id_nomics: DGMOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DGMOON.jpg
 logoKey: currencies/dgmoon.jpg
 name: DOGEMOON
+platform: BNB
+platform_contract: '0x18359cf655a444204e46f286edc445c9d30ffc54'

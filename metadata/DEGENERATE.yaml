@@ -3,3 +3,5 @@ fiat: false
 id: DEGENERATE
 id_nomics: DEGENERATE
 name: Degenerate Play
+platform: ETH
+platform_contract: '0x55a62e13a57d23aa72a054b501ec224d6e891ebb'

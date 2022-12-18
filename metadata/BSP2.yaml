@@ -5,3 +5,5 @@ id_nomics: BSP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSP2.jpg
 logoKey: currencies/bsp2.jpg
 name: BallSwap
+platform: ETH
+platform_contract: '0xa1454f9c704af96636f3a7532b9a04c411f85680'

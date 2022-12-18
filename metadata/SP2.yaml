@@ -5,3 +5,5 @@ id_nomics: SP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SP2.jpg
 logoKey: currencies/sp2.jpg
 name: Sponsorships
+platform: ETH
+platform_contract: '0x0ab346a16cea1b1363b20430c414eab7bc179324'

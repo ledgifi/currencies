@@ -6,3 +6,5 @@ id_nomics: GETX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GETX.png
 logoKey: currencies/getx.png
 name: Guaranteed Ethurance Token Extra
+platform: ETH
+platform_contract: '0x07a58629aaf3e1a0d07d8f43114b76bd5eee3b91'

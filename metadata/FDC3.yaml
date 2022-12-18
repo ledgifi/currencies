@@ -4,3 +4,5 @@ id: FDC3
 id_nomics: FDC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FDC3.png
 name: Fintech Decentralized Coin
+platform: MATIC
+platform_contract: '0x99987a0524ba54f375e12aa517a1be85bb815cc6'

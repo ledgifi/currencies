@@ -5,3 +5,5 @@ id_nomics: SBANKERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBANKERC20.jpg
 logoKey: currencies/sbankerc20.jpg
 name: SafeBank (ERC-20)
+platform: ETH
+platform_contract: '0x43acedd39ba4b0bfccd92897fce617fb90a971d8'

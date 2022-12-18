@@ -3,3 +3,5 @@ fiat: false
 id: TERRAC
 id_nomics: TERRAC
 name: Terra Classic
+platform: ETH
+platform_contract: '0xf3c72424acff8a94f997337612f7fcf4b4efb116'

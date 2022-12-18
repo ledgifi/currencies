@@ -3,3 +3,5 @@ fiat: false
 id: VCPI
 id_nomics: VCPI
 name: VulnCoinPleaseIgnore
+platform: MATIC
+platform_contract: '0x01b995d8b2b9df4be983088b76f4a802bf90975b'

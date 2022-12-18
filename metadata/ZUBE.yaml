@@ -5,3 +5,5 @@ id_nomics: ZUBE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZUBE.png
 logoKey: currencies/zube.png
 name: zuzubecoin
+platform: ETH
+platform_contract: '0xc5e017450346e4f9a2e477519d65affcfc90586a'

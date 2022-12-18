@@ -5,3 +5,5 @@ id_nomics: EDEN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EDEN2.jpg
 logoKey: currencies/eden2.jpg
 name: Eden
+platform: HARMONY
+platform_contract: '0xb55106308974cebe299a0f0505435c47b404b9a6'

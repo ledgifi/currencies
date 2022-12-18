@@ -5,3 +5,5 @@ id_nomics: STSC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STSC.jpg
 logoKey: currencies/stsc.jpg
 name: Starbull Travel
+platform: ETH
+platform_contract: '0xe15c61c60fdf5f4552c5cd8a041628895925f8bd'

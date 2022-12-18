@@ -3,3 +3,5 @@ fiat: false
 id: DGC2
 id_nomics: DGC2
 name: Dogecoin Gold Classic
+platform: ETH
+platform_contract: '0x2fb3d7f7dd7027f7e7ef32fe09e4c94ca3cc6e9c'

@@ -3,3 +3,5 @@ fiat: false
 id: SLEEP2
 id_nomics: SLEEP2
 name: SLEEP
+platform: BNB
+platform_contract: '0x70b514801e7e59c24c32a353ac00951bb6979944'

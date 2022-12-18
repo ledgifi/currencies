@@ -5,3 +5,5 @@ id_nomics: SEA5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SEA5.jpg
 logoKey: currencies/sea5.jpg
 name: StarSharks SEA
+platform: BNB
+platform_contract: '0x26193c7fa4354ae49ec53ea2cebc513dc39a10aa'

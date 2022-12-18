@@ -5,3 +5,5 @@ id_nomics: RUG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RUG2.png
 logoKey: currencies/rug2.png
 name: R U Generous
+platform: AVAX
+platform_contract: '0xb8ef3a190b68175000b74b4160d325fd5024760e'

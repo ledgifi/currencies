@@ -3,3 +3,5 @@ fiat: false
 id: GILD
 id_nomics: GILD
 name: Gilded
+platform: ETH
+platform_contract: '0x4f392a6fa322ab7dc196689cef9f8547b847259c'

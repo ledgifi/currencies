@@ -5,3 +5,5 @@ id_nomics: WIZARD3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WIZARD3.png
 logoKey: currencies/wizard3.png
 name: Wizard Coin
+platform: BNB
+platform_contract: '0xe6bdbb9242261461f21b35ecf3c7b86d8691e911'

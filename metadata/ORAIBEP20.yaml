@@ -5,3 +5,5 @@ id_nomics: ORAIBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORAIBEP20.jpg
 logoKey: currencies/oraibep20.jpg
 name: Oraichain Token (BEP-20)
+platform: BNB
+platform_contract: '0xa325ad6d9c92b55a3fc5ad7e412b1518f96441c0'

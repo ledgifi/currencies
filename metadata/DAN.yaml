@@ -6,3 +6,5 @@ id_nomics: DAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/dan.png
 logoKey: currencies/dan.png
 name: Daneel
+platform: ETH
+platform_contract: '0x9b70740e708a083c6ff38df52297020f5dfaa5ee'

@@ -3,3 +3,5 @@ fiat: false
 id: VIDYXBEP20
 id_nomics: VIDYXBEP20
 name: VidyX (BEP-20)
+platform: BNB
+platform_contract: '0x7a16175098fbb7e5eb304dfd29fe232efe54f8fc'

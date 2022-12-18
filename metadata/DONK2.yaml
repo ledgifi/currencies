@@ -5,3 +5,5 @@ id_nomics: DONK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DONK2.jpg
 logoKey: currencies/donk2.jpg
 name: Donkey King
+platform: BNB
+platform_contract: '0x1f82a9b541fe4c322b5cd81dcb066620d57de35c'

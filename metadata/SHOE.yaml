@@ -6,3 +6,5 @@ id_nomics: SHOE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHOE.jpg
 logoKey: currencies/shoe.jpg
 name: ShoeFy
+platform: ETH
+platform_contract: '0x0fd67b4ceb9b607ef206904ec73459c4880132c9'

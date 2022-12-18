@@ -5,3 +5,5 @@ id_nomics: AFC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AFC3.jpg
 logoKey: currencies/afc3.jpg
 name: Arsenal Fan Token
+platform: CHZ
+platform_contract: '0x09f9f796a05d94a302cf7ec4d19fa889575ff188'

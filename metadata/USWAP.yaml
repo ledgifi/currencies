@@ -3,3 +3,5 @@ fiat: false
 id: USWAP
 id_nomics: USWAP
 name: Unique Swap
+platform: ETH
+platform_contract: '0x00d78e74c866b2056ba17afbbb175f76e06db3a7'

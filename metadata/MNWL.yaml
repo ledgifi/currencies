@@ -5,3 +5,5 @@ id_nomics: MNWL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MNWL.jpg
 logoKey: currencies/mnwl.jpg
 name: MoonWilly V1 (OLD)
+platform: BNB
+platform_contract: '0xd4d2abbef1b26458504e7027233d5e7f09ea476d'

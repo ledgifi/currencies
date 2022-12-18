@@ -6,3 +6,5 @@ id_nomics: FSINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FSINU.jpg
 logoKey: currencies/fsinu.jpg
 name: Flappy Shiba Inu
+platform: BNB
+platform_contract: '0xcc1df4cff1e9186ece7b71367749e8e749c82a85'

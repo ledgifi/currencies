@@ -6,3 +6,5 @@ id_nomics: DEFLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEFLA.png
 logoKey: currencies/defla.png
 name: Defla
+platform: ETH
+platform_contract: '0xbc6819294c554f46bee6f5eb5260089a03e270a2'

@@ -3,3 +3,5 @@ fiat: false
 id: CATDOG
 id_nomics: CATDOG
 name: CatDog Token
+platform: ETH
+platform_contract: '0xbd5c150e810bf6b3189da52521fab4257a611f4b'

@@ -3,3 +3,5 @@ fiat: false
 id: SEURO
 id_nomics: SEURO
 name: Standard Euro
+platform: ETH
+platform_contract: '0xb399511642fe1666c6a07f83483e6e4feaed9a00'

@@ -3,3 +3,5 @@ fiat: false
 id: NTMAVAX
 id_nomics: NTMAVAX
 name: TOKENDEFDP
+platform: AVAX
+platform_contract: '0xf0b26f3b3365c5ded3ab9378c81c82360c39e199'

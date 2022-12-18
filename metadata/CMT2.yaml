@@ -3,3 +3,5 @@ fiat: false
 id: CMT2
 id_nomics: CMT2
 name: Central Market
+platform: ETH
+platform_contract: '0xedf12cd1cef3c09f599962d1f15a79de19df8ebd'

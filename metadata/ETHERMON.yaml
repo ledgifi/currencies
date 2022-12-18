@@ -3,3 +3,5 @@ fiat: false
 id: ETHERMON
 id_nomics: ETHERMON
 name: ETHERMON
+platform: ETH
+platform_contract: '0x4214f43bb44eb8695cc88b6e124bf1a9de5ea0aa'

@@ -5,3 +5,5 @@ id_nomics: HAM3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HAM3.jpg
 logoKey: currencies/ham3.jpg
 name: Hamster V1 (OLD)
+platform: BNB
+platform_contract: '0xb7b36ca86685af52186f1f9394e91d115a9da654'

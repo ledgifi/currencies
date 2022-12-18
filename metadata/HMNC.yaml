@@ -6,3 +6,5 @@ id_nomics: HMNC
 logo: https://static.coinpaprika.com/coin/hmnc-humancoin/logo.png
 logoKey: currencies/hmnc.png
 name: HumanCoin
+platform: ETH
+platform_contract: '0x77e31d674a46d356b2e65892bde7758bb26238ca'

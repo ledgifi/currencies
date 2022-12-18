@@ -8,3 +8,5 @@ id_nomics: DYDX
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/3d0a3cb6-4ebf-417f-adef-694ab90c19ff.png
 logoKey: currencies/dydx.png
 name: dYdX
+platform: ETH
+platform_contract: '0x92d6c1e31e14520e676a687f0a93788b716beff5'

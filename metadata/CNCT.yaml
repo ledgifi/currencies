@@ -6,3 +6,5 @@ id_nomics: CNCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CNCT.png
 logoKey: currencies/cnct.png
 name: Connect
+platform: ETH
+platform_contract: '0x54a9ed327f2614316914c3f3a782a77d0aa47aee'

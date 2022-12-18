@@ -5,3 +5,5 @@ id_nomics: SUPERNOVA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUPERNOVA.jpg
 logoKey: currencies/supernova.jpg
 name: Supernova
+platform: BNB
+platform_contract: '0x771004d5e0d35124c4394928094bcaccd4a66039'

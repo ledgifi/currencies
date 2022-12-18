@@ -5,3 +5,5 @@ id_nomics: MARU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MARU.jpg
 logoKey: currencies/maru.jpg
 name: Hamaru
+platform: BNB
+platform_contract: '0x215f51990a0ca5aa360a177181f014e2da376e5e'

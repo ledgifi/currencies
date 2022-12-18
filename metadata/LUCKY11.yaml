@@ -5,3 +5,5 @@ id_nomics: LUCKY11
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUCKY11.png
 logoKey: currencies/lucky11.png
 name: Maximus LUCKY
+platform: ETH
+platform_contract: '0x6b0956258ff7bd7645aa35369b55b61b8e6d6140'

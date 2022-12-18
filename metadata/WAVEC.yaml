@@ -3,3 +3,5 @@ fiat: false
 id: WAVEC
 id_nomics: WAVEC
 name: Wrapped AVEC
+platform: ETH
+platform_contract: '0xb7c2f48c8e133b0cb3140b0e1af31178e010e955'

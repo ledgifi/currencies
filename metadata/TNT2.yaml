@@ -5,3 +5,5 @@ id_nomics: TNT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TNT2.jpg
 logoKey: currencies/tnt2.jpg
 name: Titanium Network
+platform: ETH
+platform_contract: '0x63c4b30b918ea0e516e8dc85fc204a88a1c6103d'

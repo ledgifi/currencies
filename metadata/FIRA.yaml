@@ -5,3 +5,5 @@ id_nomics: FIRA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIRA.png
 logoKey: currencies/fira.png
 name: FIRA
+platform: HARMONY
+platform_contract: '0x2a719af848bf365489e548be5edbec1d65858e59'

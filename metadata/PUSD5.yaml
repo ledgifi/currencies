@@ -5,3 +5,5 @@ id_nomics: PUSD5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PUSD5.jpg
 logoKey: currencies/pusd5.jpg
 name: Pynths pUSD
+platform: BNB
+platform_contract: '0xc9363d559d2e6dcac6955a00b47d28326e07cf07'

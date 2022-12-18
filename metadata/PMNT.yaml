@@ -6,3 +6,5 @@ id_nomics: PMNT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/pmnt.jpg
 logoKey: currencies/pmnt.jpg
 name: Paymon
+platform: ETH
+platform_contract: '0x81b4d08645da11374a03749ab170836e4e539767'

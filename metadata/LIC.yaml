@@ -6,3 +6,5 @@ id_nomics: LIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIC.jpg
 logoKey: currencies/lic.jpg
 name: Lightening Cash
+platform: BNB
+platform_contract: '0x3e900195b93423b8e7bddd63d1d51c02fd18ccdf'

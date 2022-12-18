@@ -3,3 +3,5 @@ fiat: false
 id: BCCINU
 id_nomics: BCCINU
 name: BitConnect Inu
+platform: ETH
+platform_contract: '0xe095268fed6ef4f16f96d6bd4d264b87b3994dfd'

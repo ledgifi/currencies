@@ -5,3 +5,5 @@ id_nomics: SUBS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUBS2.jpg
 logoKey: currencies/subs2.jpg
 name: Subscriptions
+platform: ETH
+platform_contract: '0x61ceac48136d6782dbd83c09f51e23514d12470a'

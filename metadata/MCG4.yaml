@@ -5,3 +5,5 @@ id_nomics: MCG4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCG4.jpg
 logoKey: currencies/mcg4.jpg
 name: McGrow
+platform: BNB
+platform_contract: '0xf0d3e7605a18db231f924bc1f34548e45be5c7b6'

@@ -5,3 +5,5 @@ id_nomics: ETIR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETIR.jpg
 logoKey: currencies/etir.jpg
 name: ETH Iron
+platform: ETH
+platform_contract: '0xd431636dd0eb0700c14aa62891108bf5f3c873de'

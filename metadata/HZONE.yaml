@@ -3,3 +3,5 @@ fiat: false
 id: HZONE
 id_nomics: HZONE
 name: HostileZone
+platform: ETH
+platform_contract: '0x05186597d7fd8021a33b88b2b58a355cf6ffdf11'

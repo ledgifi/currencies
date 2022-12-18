@@ -3,3 +3,5 @@ fiat: false
 id: IBUSD
 id_nomics: IBUSD
 name: IBUSD
+platform: BNB
+platform_contract: '0x7b54804edf95e99fc974511c1834909039a14375'

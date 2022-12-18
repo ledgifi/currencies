@@ -3,3 +3,5 @@ fiat: false
 id: MRQC
 id_nomics: MRQC
 name: MarqCoin
+platform: BNB
+platform_contract: '0xa20e1718ceb6052a79aefe2b917519e446056a1e'

@@ -3,3 +3,5 @@ fiat: false
 id: VAY
 id_nomics: VAY
 name: Vay Coin
+platform: BNB
+platform_contract: '0x02abbe068eb5f6238a76640593d3496f7b1b48f0'

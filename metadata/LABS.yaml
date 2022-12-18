@@ -6,3 +6,5 @@ id_nomics: LABS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LABS.jpg
 logoKey: currencies/labs.jpg
 name: LABS Group
+platform: ETH
+platform_contract: '0x8b0e42f366ba502d787bb134478adfae966c8798'

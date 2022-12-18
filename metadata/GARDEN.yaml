@@ -3,3 +3,5 @@ fiat: false
 id: GARDEN
 id_nomics: GARDEN
 name: Garden Swap
+platform: MATIC
+platform_contract: '0x70922043b447c6097e07602c0b21e1fd87f6df39'

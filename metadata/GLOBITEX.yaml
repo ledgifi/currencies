@@ -5,3 +5,5 @@ id_nomics: GLOBITEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GLOBITEX.jpg
 logoKey: currencies/globitex.jpg
 name: Globitex
+platform: ETH
+platform_contract: '0x12fcd6463e66974cf7bbc24ffc4d40d6be458283'

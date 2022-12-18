@@ -6,3 +6,5 @@ id_nomics: AXPR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/axpr.svg
 logoKey: currencies/axpr.svg
 name: aXpire
+platform: ETH
+platform_contract: '0xdd0020b1d5ba47a54e2eb16800d73beb6546f91a'

@@ -6,3 +6,5 @@ id_nomics: ASTROCAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASTROCAKE.jpeg
 logoKey: currencies/astrocake.jpeg
 name: Astrocake
+platform: BNB
+platform_contract: '0x0e118b154566c43ccd9b3b52cc6d4137a75871a7'

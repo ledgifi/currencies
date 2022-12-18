@@ -3,3 +3,5 @@ fiat: false
 id: ENCODE
 id_nomics: ENCODE
 name: Encode
+platform: ETH
+platform_contract: '0xb41cc1b67588a981d39f9755eea2951679cb6055'

@@ -5,3 +5,5 @@ id_nomics: GSIQNAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GSIQNAL.jpg
 logoKey: currencies/gsiqnal.jpg
 name: Gamble Siqnal
+platform: BNB
+platform_contract: '0xecf189d773bd060a0a9a96cac32b0fe6383bd231'

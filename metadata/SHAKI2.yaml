@@ -5,3 +5,5 @@ id_nomics: SHAKI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHAKI2.jpg
 logoKey: currencies/shaki2.jpg
 name: SHIBNAKI
+platform: ETH
+platform_contract: '0x85122a589fc2a92cbe6c6606e2b6661fedfa67ee'

@@ -6,3 +6,5 @@ id_nomics: H3X
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/H3X.jpg
 logoKey: currencies/h3x.jpg
 name: H3X
+platform: ETH
+platform_contract: '0x85eba557c06c348395fd49e35d860f58a4f7c95a'

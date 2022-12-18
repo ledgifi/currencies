@@ -3,3 +3,5 @@ fiat: false
 id: BTOKEN
 id_nomics: BTOKEN
 name: BToken
+platform: BNB
+platform_contract: '0x56569d41221c721452f89f0b9a10a1b95ca7ede8'

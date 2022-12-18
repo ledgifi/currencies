@@ -6,3 +6,5 @@ id_nomics: BHAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BHAX.jpg
 logoKey: currencies/bhax.jpg
 name: Bithashex
+platform: BNB
+platform_contract: '0x81ca302d88d089dd42e80e81623f84f9730e94fe'

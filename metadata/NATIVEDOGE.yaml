@@ -5,3 +5,5 @@ id_nomics: NATIVEDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NATIVEDOGE.png
 logoKey: currencies/nativedoge.png
 name: NativeDoge
+platform: BNB
+platform_contract: '0xfb9387858c60b69d81fc0e1b44911f843994406a'

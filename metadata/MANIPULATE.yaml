@@ -3,3 +3,5 @@ fiat: false
 id: MANIPULATE
 id_nomics: MANIPULATE
 name: Buy Low Sell High
+platform: ETH
+platform_contract: '0x396296a5e06c699f10a9d04a5037da9e611d8af3'

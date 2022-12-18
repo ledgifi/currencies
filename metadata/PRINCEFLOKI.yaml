@@ -5,3 +5,5 @@ id_nomics: PRINCEFLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRINCEFLOKI.jpg
 logoKey: currencies/princefloki.jpg
 name: PrinceFloki
+platform: BNB
+platform_contract: '0x39a7dac3546d37c1f4a05e711bbb5c0ccac2d3bb'

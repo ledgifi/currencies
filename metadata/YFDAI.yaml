@@ -6,3 +6,5 @@ id_nomics: YFDAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFDAI.jpg
 logoKey: currencies/yfdai.jpg
 name: YfDAI.finance
+platform: ETH
+platform_contract: '0xf4cd3d3fda8d7fd6c5a500203e38640a70bf9577'

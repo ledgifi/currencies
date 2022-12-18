@@ -5,3 +5,5 @@ id_nomics: BTCETH5050
 logo: https://set-core.s3.amazonaws.com/img/rebalancing_set_icons/btceth_buy_and_hold.svg
 logoKey: currencies/btceth5050.svg
 name: 50% BTC 50% ETH Target
+platform: ETH
+platform_contract: '0xc06aec5191be16b94ffc97b6fc01393527367365'

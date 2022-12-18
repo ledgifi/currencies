@@ -3,3 +3,5 @@ fiat: false
 id: FOLMORCOIN
 id_nomics: FOLMORCOIN
 name: Folmor Coin
+platform: BNB
+platform_contract: '0x1f5281c7ad5cec05bfb3aa0bb8f8654e5e48d4cc'

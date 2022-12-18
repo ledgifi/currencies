@@ -5,3 +5,5 @@ id_nomics: MOONS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOONS2.jpeg
 logoKey: currencies/moons2.jpeg
 name: Moontopia
+platform: BNB
+platform_contract: '0x9bbece36f6f0359492fbbc3500aafd6c3e53e26f'

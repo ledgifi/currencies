@@ -6,3 +6,5 @@ id_nomics: WSN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WSN.jpg
 logoKey: currencies/wsn.jpg
 name: WallStreetNinja
+platform: BNB
+platform_contract: '0x7fa4cd8aeedcb8d36dbc5d856e3a1bee490d7b36'

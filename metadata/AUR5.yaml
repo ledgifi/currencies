@@ -5,3 +5,5 @@ id_nomics: AUR5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AUR5.jpeg
 logoKey: currencies/aur5.jpeg
 name: AURUM V2
+platform: BNB
+platform_contract: '0x1deb45c74e0192d9272adf54e9a7519c48c2bd81'

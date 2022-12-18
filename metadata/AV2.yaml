@@ -5,3 +5,5 @@ id_nomics: AV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AV2.jpeg
 logoKey: currencies/av2.jpeg
 name: AstroViking
+platform: BNB
+platform_contract: '0x95d68b83afae3c99fddf232644074543e3cb0676'

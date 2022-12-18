@@ -3,3 +3,5 @@ fiat: false
 id: CSMATIC
 id_nomics: CSMATIC
 name: ClayStack Staked MATIC (PoS)
+platform: MATIC
+platform_contract: '0x7ed6390f38d554b8518ef30b925b46972e768af8'

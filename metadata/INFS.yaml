@@ -5,3 +5,5 @@ id_nomics: INFS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INFS.png
 logoKey: currencies/infs.png
 name: Infinity Esaham
+platform: ETH
+platform_contract: '0x193408ca0576b73156ed42a2ea7d6fd3f6507162'

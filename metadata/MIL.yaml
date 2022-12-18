@@ -6,3 +6,5 @@ id_nomics: MIL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIL.jpg
 logoKey: currencies/mil.jpg
 name: Military Finance
+platform: BNB
+platform_contract: '0xf5015995376a35b10dcbd96ba6b6e9de1c9f87c5'

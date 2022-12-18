@@ -3,3 +3,5 @@ fiat: false
 id: HIBOR
 id_nomics: HIBOR
 name: HiBor MDX
+platform: HT
+platform_contract: '0x6eb9e3b74d113b0381adc5a1fa066d7f783548a0'

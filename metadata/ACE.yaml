@@ -5,3 +5,5 @@ id_nomics: ACE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ace.jpg
 logoKey: currencies/ace.jpg
 name: TokenStars Ace
+platform: ETH
+platform_contract: '0x06147110022b768ba8f99a8f385df11a151a9cc8'

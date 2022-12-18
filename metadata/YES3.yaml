@@ -5,3 +5,5 @@ id_nomics: YES3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YES3.png
 logoKey: currencies/yes3.png
 name: 'Yes'
+platform: ETH
+platform_contract: '0x1e1ebae5ea313b47eebb1674f46e722c01c6c860'

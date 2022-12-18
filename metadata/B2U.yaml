@@ -6,3 +6,5 @@ id_nomics: B2U
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/B2U.jpg
 logoKey: currencies/b2u.jpg
 name: B2U Coin
+platform: ETH
+platform_contract: '0x350758e4a1256561fd0ee142dc7e0545f561fadc'

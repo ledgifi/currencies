@@ -6,3 +6,5 @@ id_nomics: RADIUM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RADIUM.png
 logoKey: currencies/radium.png
 name: Radium
+platform: BNB
+platform_contract: '0x2b92f4284c6d375eec13e4ad6d9db476b9b812cb'

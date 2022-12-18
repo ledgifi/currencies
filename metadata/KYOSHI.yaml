@@ -3,3 +3,5 @@ fiat: false
 id: KYOSHI
 id_nomics: KYOSHI
 name: Kyoshi
+platform: ETH
+platform_contract: '0x72beb5237ba1bad56cb406ed946eec120f767cdb'

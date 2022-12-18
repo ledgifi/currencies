@@ -5,3 +5,5 @@ id_nomics: METADOGS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METADOGS.jpeg
 logoKey: currencies/metadogs.jpeg
 name: MetaDogs
+platform: BNB
+platform_contract: '0x6841a2688b8bd85732470f54c2a3c588aa66289d'

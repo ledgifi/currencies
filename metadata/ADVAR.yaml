@@ -6,3 +6,5 @@ id_nomics: ADVAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADVAR.jpg
 logoKey: currencies/advar.jpg
 name: Advar Protocol
+platform: BNB
+platform_contract: '0x2725922990951b53ed0aaab655b17a40cac15d06'

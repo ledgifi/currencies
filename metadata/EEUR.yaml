@@ -3,3 +3,5 @@ fiat: false
 id: EEUR
 id_nomics: EEUR
 name: Elastic Euro
+platform: ETH
+platform_contract: '0x5905adf94914223a3d51220f97285d79cf673f5e'

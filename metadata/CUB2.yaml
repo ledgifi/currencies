@@ -5,3 +5,5 @@ id_nomics: CUB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CUB2.jpg
 logoKey: currencies/cub2.jpg
 name: Cubebit
+platform: ETH
+platform_contract: '0x7a12a550cc13ce7c38c40a58465bfbb55d1edc36'

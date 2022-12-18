@@ -5,3 +5,5 @@ id_nomics: CRC6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRC6.jpg
 logoKey: currencies/crc6.jpg
 name: Crazy Rich Coin
+platform: ETH
+platform_contract: '0xc23fa49b581fff9a3ea7e49d0504b06d07c6ff2a'

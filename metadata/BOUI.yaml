@@ -5,3 +5,5 @@ id_nomics: BOUI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOUI.png
 logoKey: currencies/boui.png
 name: BOUI Metaplace
+platform: BNB
+platform_contract: '0x945b4812cf50fc29f6d65382763bbc96fca87dd5'

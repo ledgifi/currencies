@@ -3,3 +3,5 @@ fiat: false
 id: TRUNK202
 id_nomics: TRUNK202
 name: CryptoTrunks
+platform: ETH
+platform_contract: '0x387951d0f438636c704b3eaa34a9629bc88e9517'

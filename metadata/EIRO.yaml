@@ -5,3 +5,5 @@ id_nomics: EIRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EIRO.png
 logoKey: currencies/eiro.png
 name: Eiroki
+platform: BNB
+platform_contract: '0x6705e0708307e7a7c765b93e8d73e69cddf61109'

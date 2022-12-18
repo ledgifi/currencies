@@ -5,3 +5,5 @@ id_nomics: MARACX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MARACX.jpg
 logoKey: currencies/maracx.jpg
 name: Marathon Patent Group, Inc.
+platform: ETH
+platform_contract: '0x1e4da6fa0c953e9fcfdc309dd3aa9c4f5157655a'

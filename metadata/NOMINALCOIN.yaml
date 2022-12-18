@@ -3,3 +3,5 @@ fiat: false
 id: NOMINALCOIN
 id_nomics: NOMINALCOIN
 name: Nominal Coin
+platform: BNB
+platform_contract: '0x59d8a671a29bf2089d29b8c26ecf81aa8c859369'

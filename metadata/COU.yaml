@@ -6,3 +6,5 @@ id_nomics: COU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/cou.jpg
 logoKey: currencies/cou.jpg
 name: Couchain
+platform: ETH
+platform_contract: '0xf091cf09c51811819db705710e9634b8bf18f164'

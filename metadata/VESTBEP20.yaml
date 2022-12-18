@@ -5,3 +5,5 @@ id_nomics: VESTBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VESTBEP20.jpg
 logoKey: currencies/vestbep20.jpg
 name: DAO Invest (BEP-20)
+platform: BNB
+platform_contract: '0x873801ae2ff12d816db9a7b082f5796bec64c82c'

@@ -6,3 +6,5 @@ id_nomics: SRWD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SRWD.jpg
 logoKey: currencies/srwd.jpg
 name: ShibRWD
+platform: ETH
+platform_contract: '0xa518c9f3724cced4715e6813858dc2ce9b21ed78'

@@ -6,3 +6,5 @@ id_nomics: BMCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BMCH.jpg
 logoKey: currencies/bmch.jpg
 name: bMeme Cash
+platform: BNB
+platform_contract: '0x16a437ec46321e674bf0f9167d44f9e0159e0115'

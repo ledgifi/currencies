@@ -3,3 +3,5 @@ fiat: false
 id: NFTD
 id_nomics: NFTD
 name: NFTD Protocol
+platform: BNB
+platform_contract: '0x11a9a7e3c320eaa80b8ecb223a10c5ae281d9ae0'

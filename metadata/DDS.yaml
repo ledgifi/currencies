@@ -6,3 +6,5 @@ id_nomics: DDS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DDS.jpg
 logoKey: currencies/dds.jpg
 name: DDS.Store
+platform: ETH
+platform_contract: '0xf9fbaefde7112f78fa9bfe813341f0f49f888cb3'

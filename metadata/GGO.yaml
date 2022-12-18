@@ -5,3 +5,5 @@ id_nomics: GGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GGO.png
 logoKey: currencies/ggo.png
 name: GOGAME
+platform: BNB
+platform_contract: '0xa85e17Fc9018627309920a33EeD01139759607A9'

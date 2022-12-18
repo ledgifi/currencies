@@ -5,3 +5,5 @@ id_nomics: OCTSMMERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCTSMMERC20.jpg
 logoKey: currencies/octsmmerc20.jpg
 name: Social Media Marketing (ERC-20)
+platform: ETH
+platform_contract: '0xbfc43a35b3ae8f7463c5ac88a0c46107cfce6f67'

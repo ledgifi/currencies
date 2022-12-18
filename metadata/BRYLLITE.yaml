@@ -5,3 +5,5 @@ id_nomics: BRYLLITE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRYLLITE.png
 logoKey: currencies/bryllite.png
 name: Bryllite
+platform: ETH
+platform_contract: '0x8f7a9b503aa7f9255368bd34d01aea2b502164c2'

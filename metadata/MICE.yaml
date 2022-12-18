@@ -3,3 +3,5 @@ fiat: false
 id: MICE
 id_nomics: MICE
 name: Mice Token
+platform: ETH
+platform_contract: '0x9378e4fcc68d5bfb4d5531d80f44bdf2291126ad'

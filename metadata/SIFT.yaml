@@ -6,3 +6,5 @@ id_nomics: SIFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIFT.jpg
 logoKey: currencies/sift.jpg
 name: Smart Investment Fund Token
+platform: ETH
+platform_contract: '0x8a187d5285d316bcbc9adafc08b51d70a0d8e000'

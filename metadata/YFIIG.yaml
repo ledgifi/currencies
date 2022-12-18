@@ -6,3 +6,5 @@ id_nomics: YFIIG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFIIG.jpg
 logoKey: currencies/yfiig.jpg
 name: YFII Gold
+platform: ETH
+platform_contract: '0xef8ba8cba86f81b3108f60186fce9c81b5096d5c'

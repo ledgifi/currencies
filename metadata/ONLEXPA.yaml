@@ -6,3 +6,5 @@ id_nomics: ONLEXPA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ONLEXPA.png
 logoKey: currencies/onlexpa.png
 name: onLEXpa Token
+platform: ETH
+platform_contract: '0x33384af34b03eaca63fd153f59589f504772b570'

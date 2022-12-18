@@ -3,3 +3,5 @@ fiat: false
 id: SHIBACROIN
 id_nomics: SHIBACROIN
 name: ShibaCroin
+platform: CRO
+platform_contract: '0x79bb5028f5978875198dfb238628f7fdfc6bc7e2'

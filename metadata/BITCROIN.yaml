@@ -3,3 +3,5 @@ fiat: false
 id: BITCROIN
 id_nomics: BITCROIN
 name: BitCroin
+platform: CRO
+platform_contract: '0x71d877ab19c9e3a67db10b238a343951cc272c52'

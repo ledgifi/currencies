@@ -3,3 +3,5 @@ fiat: false
 id: TESTVEL
 id_nomics: TESTVEL
 name: TESTVELToken
+platform: BNB
+platform_contract: '0xd727e13ba89d6e083b4e4fe267f29f330790c7c3'

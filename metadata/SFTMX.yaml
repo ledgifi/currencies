@@ -5,3 +5,5 @@ id_nomics: SFTMX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFTMX.png
 logoKey: currencies/sftmx.png
 name: Stader sFTMX
+platform: FTM
+platform_contract: '0xd7028092c830b5c8fce061af2e593413ebbc1fc1'

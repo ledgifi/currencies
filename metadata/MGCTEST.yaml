@@ -3,3 +3,5 @@ fiat: false
 id: MGCTEST
 id_nomics: MGCTEST
 name: Magic manor
+platform: BNB
+platform_contract: '0xed10adf11e0a28baf783899b7ff12ccfc7bf0c61'

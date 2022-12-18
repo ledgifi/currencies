@@ -5,3 +5,5 @@ id_nomics: HINU4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HINU4.jpg
 logoKey: currencies/hinu4.jpg
 name: Happy Inu
+platform: BNB
+platform_contract: '0xc55b6c61b7efbceee1df1f813c6a32c095f6de9f'

@@ -3,3 +3,5 @@ fiat: false
 id: FUZZER
 id_nomics: FUZZER
 name: Fuzzereum
+platform: ETH
+platform_contract: '0x53ed14c4c28b985c36ba3fb598e6aa243a8438ce'

@@ -5,3 +5,5 @@ id_nomics: GOEUREKA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOEUREKA.jpg
 logoKey: currencies/goeureka.jpg
 name: GOeureka
+platform: ETH
+platform_contract: '0x8678b5fb41d87f4bec43b3142bce852366100336'

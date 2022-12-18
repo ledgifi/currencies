@@ -5,3 +5,5 @@ id_nomics: DOGT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGT2.jpg
 logoKey: currencies/dogt2.jpg
 name: Doge Tree
+platform: BNB
+platform_contract: '0x67f8739ea33e267e5d7edc7a82a81c4c5aff4e93'

@@ -5,3 +5,5 @@ id_nomics: SHEESH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHEESH.jpg
 logoKey: currencies/sheesh.jpg
 name: Sheesh it is bussin bussin
+platform: BNB
+platform_contract: '0x7e5d52c3335c91af0da392bea4bb9e43f2aba62c'

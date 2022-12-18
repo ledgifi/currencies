@@ -5,3 +5,5 @@ id_nomics: FUR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FUR.jpg
 logoKey: currencies/fur.jpg
 name: FurToken
+platform: BNB
+platform_contract: '0x48378891d6e459ca9a56b88b406e8f4eab2e39bf'

@@ -3,3 +3,5 @@ fiat: false
 id: VMC
 id_nomics: VMC
 name: V-Members Coin
+platform: ETH
+platform_contract: '0xa3afe717038d4e12133d84088754811220af9329'

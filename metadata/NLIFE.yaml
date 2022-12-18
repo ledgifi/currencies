@@ -5,3 +5,5 @@ id_nomics: NLIFE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NLIFE.jpg
 logoKey: currencies/nlife.jpg
 name: Night Life Crypto (BEP-20)
+platform: BNB
+platform_contract: '0x86cbbedca621ae78a421a40365081caafda24296'

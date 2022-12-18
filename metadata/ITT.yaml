@@ -5,3 +5,5 @@ id_nomics: ITT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/itt.jpg
 logoKey: currencies/itt.jpg
 name: Intelligent Trading Foundation
+platform: ETH
+platform_contract: '0x0aef06dcccc531e581f0440059e6ffcc206039ee'

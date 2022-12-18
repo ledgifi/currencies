@@ -5,3 +5,5 @@ id_nomics: LGB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LGB2.png
 logoKey: currencies/lgb2.png
 name: Let's Go Brandon
+platform: ETH
+platform_contract: '0x21e783bcf445b515957a10e992ad3c8e9ff51288'

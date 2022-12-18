@@ -7,3 +7,5 @@ id_nomics: MTLX
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210604/ab3c5278-ffef-4b6b-b774-d52bf5a43726.png
 logoKey: currencies/mtlx.png
 name: Mettalex
+platform: ETH
+platform_contract: '0x2e1e15c44ffe4df6a0cb7371cd00d5028e571d14'

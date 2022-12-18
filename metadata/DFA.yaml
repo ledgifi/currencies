@@ -6,3 +6,5 @@ id_nomics: DFA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DFA.jpg
 logoKey: currencies/dfa.jpg
 name: DeFine
+platform: ETH
+platform_contract: '0x62959c699a52ec647622c91e79ce73344e4099f5'

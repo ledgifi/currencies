@@ -6,3 +6,5 @@ id_nomics: X8X
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/X8X.png
 logoKey: currencies/x8x.png
 name: X8X Token
+platform: ETH
+platform_contract: '0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c'

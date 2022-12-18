@@ -5,3 +5,5 @@ id_nomics: SWAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWAT.jpg
 logoKey: currencies/swat.jpg
 name: SWAT Coin
+platform: BNB
+platform_contract: '0x82e7eb8f4c307f2dcf522fdca7b7038296584f29'

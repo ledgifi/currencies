@@ -6,3 +6,5 @@ id_nomics: CROX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CROX.jpg
 logoKey: currencies/crox.jpg
 name: CroxSwap
+platform: BNB
+platform_contract: '0x2c094f5a7d1146bb93850f629501eb749f6ed491'

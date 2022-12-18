@@ -5,3 +5,5 @@ id_nomics: BANG3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BANG3.jpg
 logoKey: currencies/bang3.jpg
 name: BANG Decentralized
+platform: BNB
+platform_contract: '0x76ba1ce2c05049ee943f7e087128786f4f9eb077'

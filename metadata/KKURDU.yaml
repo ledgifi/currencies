@@ -5,3 +5,5 @@ id_nomics: KKURDU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KKURDU.jpg
 logoKey: currencies/kkurdu.jpg
 name: Kripto Kurdu
+platform: BNB
+platform_contract: '0xa82485ed7e74ff1c2adc43e10aa051363aea70cc'

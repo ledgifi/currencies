@@ -6,3 +6,5 @@ id_nomics: WXBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WXBTC.jpg
 logoKey: currencies/wxbtc.jpg
 name: Wrapped xBTC
+platform: ETH
+platform_contract: '0x5592c5aa89492ea918d55b804e177b5ca7dccd5a'

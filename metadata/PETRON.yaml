@@ -5,3 +5,5 @@ id_nomics: PETRON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PETRON.png
 logoKey: currencies/petron.png
 name: Petron Pay
+platform: ETH
+platform_contract: '0x43789e8aeef0d30cffb57fc0870a5c785b7b93a1'

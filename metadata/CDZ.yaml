@@ -6,3 +6,5 @@ id_nomics: CDZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CDZ.jpg
 logoKey: currencies/cdz.jpg
 name: CDzExchange
+platform: BNB
+platform_contract: '0x17acc21da1cd31d273c3f54b7d5dd556c8715b79'

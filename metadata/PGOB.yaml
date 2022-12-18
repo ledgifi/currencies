@@ -3,3 +3,5 @@ fiat: false
 id: PGOB
 id_nomics: PGOB
 name: Goons of Balatroon
+platform: MATIC
+platform_contract: '0x16d63619cd67b15ff822bfeb60388a226d2e452b'

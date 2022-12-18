@@ -6,3 +6,5 @@ id_nomics: METAS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAS.jpg
 logoKey: currencies/metas.jpg
 name: Metaseer
+platform: BNB
+platform_contract: '0xfa1e1754bd2896d467930c97d07af799c531cb7d'

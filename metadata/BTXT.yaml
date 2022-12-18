@@ -5,3 +5,5 @@ id_nomics: BTXT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTXT.png
 logoKey: currencies/btxt.png
 name: BitsXT
+platform: BRISE2
+platform_contract: '0x1a8a039007186d7640c1d7cd7c2606e333d04e03'

@@ -3,3 +3,5 @@ fiat: false
 id: PDD
 id_nomics: PDD
 name: PDDOLLAR
+platform: MATIC
+platform_contract: '0x146e58d34eab0bff7e0a63cfe9332908d680c667'

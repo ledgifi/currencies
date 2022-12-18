@@ -3,3 +3,5 @@ fiat: false
 id: MONEYAPE
 id_nomics: MONEYAPE
 name: MoneyApe
+platform: ETH
+platform_contract: '0x25568fb553298fb9681828afd406e29c9c395918'

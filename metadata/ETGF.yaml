@@ -5,3 +5,5 @@ id_nomics: ETGF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETGF.jpg
 logoKey: currencies/etgf.jpg
 name: ETG Finance
+platform: ETH
+platform_contract: '0x74603e780545d02c4257e7d2be19c74de7be1952'

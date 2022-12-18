@@ -3,3 +3,5 @@ fiat: false
 id: CHPG
 id_nomics: CHPG
 name: Champagne Coin
+platform: BNB
+platform_contract: '0x2a86949c899d3156f5a5ca99ec73ecf48988f54e'

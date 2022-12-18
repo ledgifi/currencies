@@ -5,3 +5,5 @@ id_nomics: GILDCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GILDCX.jpg
 logoKey: currencies/gildcx.jpg
 name: Gilead Sciences, Inc. Token
+platform: ETH
+platform_contract: '0xc305787acdc859b36f64d72cb0e00519d20731ad'

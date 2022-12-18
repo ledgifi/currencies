@@ -5,3 +5,5 @@ id_nomics: PARA5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PARA5.png
 logoKey: currencies/para5.png
 name: Para
+platform: ETH
+platform_contract: '0xfb13dfc9f8f3eeddd7c9b581d0d7cf367513ff7c'

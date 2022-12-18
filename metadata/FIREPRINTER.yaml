@@ -3,3 +3,5 @@ fiat: false
 id: FIREPRINTER
 id_nomics: FIREPRINTER
 name: FIREPRINTER
+platform: AVAX
+platform_contract: '0x30454c555ac388de6fbe289976b01f6edbcc885a'

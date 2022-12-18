@@ -3,3 +3,5 @@ fiat: false
 id: TESTT
 id_nomics: TESTT
 name: TestToken
+platform: BNB
+platform_contract: '0x6c17702a20b8fecdd8c34e2c5f13cc21a5c2f7a7'

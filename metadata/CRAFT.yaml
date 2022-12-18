@@ -5,3 +5,5 @@ id_nomics: CRAFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRAFT.jpg
 logoKey: currencies/craft.jpg
 name: deCraft Finance
+platform: ETH
+platform_contract: '0xa09ff006c652496e72d648cef2f4ee6777efdf6f'

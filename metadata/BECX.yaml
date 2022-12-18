@@ -5,3 +5,5 @@ id_nomics: BECX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BECX.jpg
 logoKey: currencies/becx.jpg
 name: Bloom Energy Corporation
+platform: ETH
+platform_contract: '0x44dc5009716bfba2361b3c234c36eb20ef7ddac7'

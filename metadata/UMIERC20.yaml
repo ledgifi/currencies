@@ -5,3 +5,5 @@ id_nomics: UMIERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UMIERC20.PNG
 logoKey: currencies/umierc20.png
 name: UMI (ERC-20)
+platform: ETH
+platform_contract: '0x46943113ae84e732bb510b5f7686d8b76ff56774'

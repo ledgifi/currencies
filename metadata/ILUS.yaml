@@ -5,3 +5,5 @@ id_nomics: ILUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ILUS.jpg
 logoKey: currencies/ilus.jpg
 name: ILUS
+platform: BNB
+platform_contract: '0xa6630b22974f908a98a8139cb12ec2ebabfbe9d4'

@@ -6,3 +6,5 @@ id_nomics: HATSU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HATSU.jpg
 logoKey: currencies/hatsu.jpg
 name: Hatsu Inu
+platform: ETH
+platform_contract: '0xb9725b33f2937d9b1bfc0aa090f78a7ae2575410'

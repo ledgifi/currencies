@@ -5,3 +5,5 @@ id_nomics: ORBV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORBV2.png
 logoKey: currencies/orbv2.png
 name: Orb V2
+platform: ETH
+platform_contract: '0x1b7c4d4f226ccf3211b0f99c4fdfb84a2606bf8e'

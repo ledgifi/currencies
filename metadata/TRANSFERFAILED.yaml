@@ -3,3 +3,5 @@ fiat: false
 id: TRANSFERFAILED
 id_nomics: TRANSFERFAILED
 name: Transfer Failed
+platform: CRO
+platform_contract: '0xda1c68b74a1eba2d66b468cfe9e890a05e8ab3cd'

@@ -3,3 +3,5 @@ fiat: false
 id: CREDITS
 id_nomics: CREDITS
 name: $credits
+platform: AVAX
+platform_contract: '0xbdca906c6facfecfff4a20819c381c3badae6d05'

@@ -5,3 +5,5 @@ id_nomics: GRIF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GRIF.jpeg
 logoKey: currencies/grif.jpeg
 name: Griffoncoin
+platform: BNB
+platform_contract: '0x2c2817e648396babb2febe3fa00c80467d156819'

@@ -5,3 +5,5 @@ id_nomics: MSPX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSPX.jpg
 logoKey: currencies/mspx.jpg
 name: MegaSpaceX
+platform: BNB
+platform_contract: '0xa8501b9e22d9177d498da4852c9c0acff11eb791'

@@ -6,3 +6,5 @@ id_nomics: NXFLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NXFLOKI.jpeg
 logoKey: currencies/nxfloki.jpeg
 name: Next Floki
+platform: BNB
+platform_contract: '0xb7F054D21EdB622a6E1551caA7CE7D5318C6D587'

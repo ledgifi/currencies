@@ -6,3 +6,5 @@ id_nomics: OXN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OXN.jpeg
 logoKey: currencies/oxn.jpeg
 name: OxoniCoin
+platform: BNB
+platform_contract: '0x6d4c86a68c040ebcd3508883778cf86f4ab65939'

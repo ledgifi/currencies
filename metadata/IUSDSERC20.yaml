@@ -5,3 +5,5 @@ id_nomics: IUSDSERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IUSDSERC20.png
 logoKey: currencies/iusdserc20.png
 name: Inflation Adjusted Spice USD (ERC-20)
+platform: ETH
+platform_contract: '0xf9c2b386ff5df088ac717ab0010587bad3bc1ab1'

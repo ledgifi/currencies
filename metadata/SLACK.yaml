@@ -3,3 +3,5 @@ fiat: false
 id: SLACK
 id_nomics: SLACK
 name: slackToken
+platform: XDAI
+platform_contract: '0xdaf2ec1a249e7aa944101cd438696e55efb9306f'

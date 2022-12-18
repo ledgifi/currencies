@@ -6,3 +6,5 @@ id_nomics: KAREN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAREN.jpg
 logoKey: currencies/karen.jpg
 name: KarenCoin
+platform: BNB
+platform_contract: '0xfd42728b76772a82ccad527e298dd15a55f4ddd6'

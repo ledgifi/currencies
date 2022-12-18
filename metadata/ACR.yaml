@@ -6,3 +6,5 @@ id_nomics: ACR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACR.jpg
 logoKey: currencies/acr.jpg
 name: Acreage Coin
+platform: ETH
+platform_contract: '0x76306f029f8f99effe509534037ba7030999e3cf'

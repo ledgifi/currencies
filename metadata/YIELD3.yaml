@@ -5,3 +5,5 @@ id_nomics: YIELD3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YIELD3.jpg
 logoKey: currencies/yield3.jpg
 name: PolyYield Token
+platform: MATIC
+platform_contract: '0xce4e6da9c509cb33c23d748713c681c959f68658'

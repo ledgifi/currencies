@@ -5,3 +5,5 @@ id_nomics: ETHRSI6040
 logo: https://set-core.s3.amazonaws.com/img/rebalancing_set_icons/eth-rsi-40-60-set.svg
 logoKey: currencies/ethrsi6040.svg
 name: Automate Trading using Oscillators
+platform: ETH
+platform_contract: '0x93e01899c10532d76c0e864537a1d26433dbbddb'

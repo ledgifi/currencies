@@ -6,3 +6,5 @@ id_nomics: CLIMB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLIMB.jpg
 logoKey: currencies/climb.jpg
 name: Climb Token Finance
+platform: BNB
+platform_contract: '0x2a1d286ed5edad78befd6e0d8beb38791e8cd69d'

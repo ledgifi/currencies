@@ -5,3 +5,5 @@ id_nomics: SWAPTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWAPTC.jpg
 logoKey: currencies/swaptc.jpg
 name: Swap TC
+platform: BNB
+platform_contract: '0x0bf969ab4082ead3bdac5b93badfe2f9cf5e155d'

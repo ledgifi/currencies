@@ -5,3 +5,5 @@ id_nomics: PMC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PMC4.png
 logoKey: currencies/pmc4.png
 name: Prime Chain
+platform: BNB
+platform_contract: '0x933ae540ca1096e44e9e57a88d616f01d043e48b'

@@ -5,3 +5,5 @@ id_nomics: YAKUZA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YAKUZA2.png
 logoKey: currencies/yakuza2.png
 name: Doge Yakuza
+platform: BNB
+platform_contract: '0xd3d225806612756bf3b73a02eb9f69e8ce85ae2c'

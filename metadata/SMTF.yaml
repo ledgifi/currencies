@@ -6,3 +6,5 @@ id_nomics: SMTF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMTF.jpeg
 logoKey: currencies/smtf.jpeg
 name: SmartFi
+platform: BNB
+platform_contract: '0x11fd9ed04f1eb43ef9df6425a6990609f2468895'

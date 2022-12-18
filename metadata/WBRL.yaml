@@ -6,3 +6,5 @@ id_nomics: WBRL
 logo: https://static.coinpaprika.com/coin/wbrl-wrapped-brl/logo.png
 logoKey: currencies/wbrl.png
 name: Wrapped BRL
+platform: BNB
+platform_contract: '0x687cb243265b127fef45742f8d17d8a1be5539f0'

@@ -3,3 +3,5 @@ fiat: false
 id: METH
 id_nomics: METH
 name: Mini Ethereum
+platform: ETH
+platform_contract: '0x6c158864d3b06113bfd9f5f2c219725fd5bc3923'

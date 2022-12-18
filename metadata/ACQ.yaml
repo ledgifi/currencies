@@ -3,3 +3,5 @@ fiat: false
 id: ACQ
 id_nomics: ACQ
 name: ApeClique
+platform: ETH
+platform_contract: '0x28279348563e609d012ee81fbdf29214aa127e61'

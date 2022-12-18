@@ -5,3 +5,5 @@ id_nomics: SPAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPAR.jpg
 logoKey: currencies/spar.jpg
 name: Sparta
+platform: FTM
+platform_contract: '0xccbbd6b8e7d135ed0e54fce6945e83d6a7baf60f'

@@ -3,3 +3,5 @@ fiat: false
 id: XYZZ
 id_nomics: XYZZ
 name: XYZZ Swap
+platform: BNB
+platform_contract: '0x1a5a6f1ba485cdbaf90b0c0db270d5a656a783b3'

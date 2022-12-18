@@ -5,3 +5,5 @@ id_nomics: MAFIA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAFIA.jpg
 logoKey: currencies/mafia.jpg
 name: MoonMafia
+platform: BNB
+platform_contract: '0x34c425b2b02ee83ee6ade0b4611d8d4e5a3ca809'

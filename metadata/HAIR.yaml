@@ -5,3 +5,5 @@ id_nomics: HAIR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HAIR.jpg
 logoKey: currencies/hair.jpg
 name: Hair
+platform: MATIC
+platform_contract: '0x100a947f51fa3f1dcdf97f3ae507a72603cae63c'

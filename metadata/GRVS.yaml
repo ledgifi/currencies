@@ -5,3 +5,5 @@ id_nomics: GRVS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GRVS.png
 logoKey: currencies/grvs.png
 name: Gravis Finance
+platform: MATIC
+platform_contract: '0x190cec0657a02e9eab1c1df5d59f9139131cf539'

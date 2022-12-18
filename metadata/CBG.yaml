@@ -6,3 +6,5 @@ id_nomics: CBG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBG.jpg
 logoKey: currencies/cbg.jpg
 name: Chainbing
+platform: ETH
+platform_contract: '0x1900e8b5619a3596745f715d0427fe617c729ba9'

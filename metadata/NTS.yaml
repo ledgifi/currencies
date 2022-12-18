@@ -5,3 +5,5 @@ id_nomics: NTS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NTS.jpg
 logoKey: currencies/nts.jpg
 name: Nerthus
+platform: ETH
+platform_contract: '0x3dfeaf13a6615e560aecc5648ace8fa50d7cf6bf'

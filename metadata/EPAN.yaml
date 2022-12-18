@@ -6,3 +6,5 @@ id_nomics: EPAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EPAN.png
 logoKey: currencies/epan.png
 name: Paypolitan Token
+platform: ETH
+platform_contract: '0x72630b1e3b42874bf335020ba0249e3e9e47bafc'

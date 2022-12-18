@@ -6,3 +6,5 @@ id_nomics: ELV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELV.jpg
 logoKey: currencies/elv.jpg
 name: E-leven
+platform: BNB
+platform_contract: '0x20a2ee8d26aa6a7ce4890c2a44b788c4283356eb'

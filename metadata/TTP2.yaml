@@ -5,3 +5,5 @@ id_nomics: TTP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TTP2.jpg
 logoKey: currencies/ttp2.jpg
 name: Tech Trees Protocol
+platform: BNB
+platform_contract: '0x4f5c939277583730e3de917e45c63b3cc01739ee'

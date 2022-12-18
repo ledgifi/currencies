@@ -5,3 +5,5 @@ id_nomics: BURNINGSUN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BURNINGSUN.jpg
 logoKey: currencies/burningsun.jpg
 name: BurningSunCoin
+platform: BNB
+platform_contract: '0xeB40D42499B358E8Dd03117A849c18eb4b0a9280'

@@ -5,3 +5,5 @@ id_nomics: O2T
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/O2T.jpeg
 logoKey: currencies/o2t.jpeg
 name: O2 Token
+platform: ETH
+platform_contract: '0xb1bafca3737268a96673a250173b6ed8f1b5b65f'

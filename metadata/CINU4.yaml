@@ -5,3 +5,5 @@ id_nomics: CINU4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CINU4.png
 logoKey: currencies/cinu4.png
 name: Chilli Inu
+platform: BNB
+platform_contract: '0x800b663c8ad489ec18e3c5e3e583151fc1a85f9e'

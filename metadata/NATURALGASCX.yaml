@@ -5,3 +5,5 @@ id_nomics: NATURALGASCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NATURALGASCX.jpg
 logoKey: currencies/naturalgascx.jpg
 name: US Natural Gas Spot Token
+platform: ETH
+platform_contract: '0x34031510cb586733050f25c9888f685f4b084c66'

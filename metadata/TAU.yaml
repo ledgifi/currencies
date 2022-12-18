@@ -6,3 +6,5 @@ id_nomics: TAU
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/tau.svg
 logoKey: currencies/tau.svg
 name: Lamden
+platform: ETH
+platform_contract: '0xc27a2f05fa577a83ba0fdb4c38443c0718356501'

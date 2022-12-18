@@ -6,3 +6,5 @@ id_nomics: KLAYG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KLAYG.jpg
 logoKey: currencies/klayg.jpg
 name: Klaygames
+platform: ETH
+platform_contract: '0x2fde5357c4715b12e754aaf2b85722ef803cb0b9'

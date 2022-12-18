@@ -3,3 +3,5 @@ fiat: false
 id: CRU2
 id_nomics: CRU2
 name: Crypto Unit Token
+platform: ETH
+platform_contract: '0xfbc1473e245b8afbba3b46116e0b01f91a026633'

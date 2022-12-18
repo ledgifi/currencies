@@ -5,3 +5,5 @@ id_nomics: UNIVERSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNIVERSE.jpeg
 logoKey: currencies/universe.jpeg
 name: UniVerse
+platform: BNB
+platform_contract: '0x366fca9512fec4ead5c46a5a02172e872e83df60'

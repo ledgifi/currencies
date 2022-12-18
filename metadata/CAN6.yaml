@@ -5,3 +5,5 @@ id_nomics: CAN6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAN6.png
 logoKey: currencies/can6.png
 name: CaliCoin
+platform: BNB
+platform_contract: '0xcbc1e356fe889ee836cc893f24f780c924c89c8a'

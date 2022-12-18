@@ -6,3 +6,5 @@ id_nomics: QOB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QOB.jpg
 logoKey: currencies/qob.jpg
 name: Qobit
+platform: ETH
+platform_contract: '0xbd1e7f594600dcaf7f483af55deacec0159a064e'

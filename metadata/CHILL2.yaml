@@ -5,3 +5,5 @@ id_nomics: CHILL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHILL2.jpeg
 logoKey: currencies/chill2.jpeg
 name: ChillChat
+platform: BNB
+platform_contract: '0xa90c635a7c931dcb5875af3463972a5c2791325d'

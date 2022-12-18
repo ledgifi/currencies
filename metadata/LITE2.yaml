@@ -3,3 +3,5 @@ fiat: false
 id: LITE2
 id_nomics: LITE2
 name: LiteUSD
+platform: BNB
+platform_contract: '0x4a846d300f793752ee8bd579192c477130c4b369'

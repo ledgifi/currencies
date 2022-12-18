@@ -5,3 +5,5 @@ id_nomics: SWU2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWU2.png
 logoKey: currencies/swu2.png
 name: Smart World Union
+platform: BNB
+platform_contract: '0x958cc5ac2efa569cd9ad9b9b88245e1f038b02be'

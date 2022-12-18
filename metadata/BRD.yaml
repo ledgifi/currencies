@@ -8,3 +8,5 @@ id_nomics: BRD
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/brd.svg
 logoKey: currencies/brd.svg
 name: Bread
+platform: ETH
+platform_contract: '0x558ec3152e2eb2174905cd19aea4e34a23de9ad6'

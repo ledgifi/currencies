@@ -3,3 +3,5 @@ fiat: false
 id: P2PTXT
 id_nomics: P2PTXT
 name: P2P Taxi
+platform: BNB
+platform_contract: '0x920376be228eb5aa973fc2e050f7a07eb9a9bce6'

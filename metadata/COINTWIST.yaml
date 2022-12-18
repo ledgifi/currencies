@@ -3,3 +3,5 @@ fiat: false
 id: COINTWIST
 id_nomics: COINTWIST
 name: Coin Twist
+platform: ARBETH
+platform_contract: '0x55542cc1d2d21db3d01a202e567d7cc6a2decacc'

@@ -5,3 +5,5 @@ id_nomics: GSHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GSHIB.jpg
 logoKey: currencies/gshib.jpg
 name: God Shiba
+platform: BNB
+platform_contract: '0xe38928cd467ad7347465048b3637893124187d02'

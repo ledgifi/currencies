@@ -5,3 +5,5 @@ id_nomics: BULN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BULN.jpg
 logoKey: currencies/buln.jpg
 name: BulldogNinja
+platform: BNB
+platform_contract: '0x35b5c7ef02f7f9c3f8e998e85aeb1e8a585cc877'

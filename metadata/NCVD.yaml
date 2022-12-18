@@ -3,3 +3,5 @@ fiat: false
 id: NCVD
 id_nomics: NCVD
 name: NoCoViD
+platform: BNB
+platform_contract: '0x35a5a248e9abb5ecf64c3e2e8ea82d484607b18a'

@@ -3,3 +3,5 @@ fiat: false
 id: CONCLAVE
 id_nomics: CONCLAVE
 name: TheConclave
+platform: ETH
+platform_contract: '0xd9db801b8459a965f567e5fcc1f03940063d2a43'

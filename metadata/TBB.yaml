@@ -6,3 +6,5 @@ id_nomics: TBB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TBB.jpg
 logoKey: currencies/tbb.jpg
 name: Trade Butler Bot
+platform: ETH
+platform_contract: '0x4a7adcb083fe5e3d6b58edc3d260e2e61668e7a2'

@@ -5,3 +5,5 @@ id_nomics: BETABEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BETABEP20.jpg
 logoKey: currencies/betabep20.jpg
 name: Beta Finance (BEP-20)
+platform: BNB
+platform_contract: '0xbe1a001fe942f96eea22ba08783140b9dcc09d28'

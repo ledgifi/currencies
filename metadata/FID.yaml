@@ -6,3 +6,5 @@ id_nomics: FID
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FID.png
 logoKey: currencies/fid.png
 name: Fidelium
+platform: ETH
+platform_contract: '0x52fb36c83ad33c1824912fc81071ca5eeb8ab390'

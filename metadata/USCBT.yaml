@@ -3,3 +3,5 @@ fiat: false
 id: USCBT
 id_nomics: USCBT
 name: USDT-ChainBank-T
+platform: BNB
+platform_contract: '0x9948a363c8cd2442156824fe7600290183588c29'

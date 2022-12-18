@@ -5,3 +5,5 @@ id_nomics: HOW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOW.jpeg
 logoKey: currencies/how.jpeg
 name: Home On Way
+platform: BNB
+platform_contract: '0x7de2a7c48bdf9bc7880161e78bd5e04e3281688c'

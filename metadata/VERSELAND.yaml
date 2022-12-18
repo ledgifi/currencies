@@ -5,3 +5,5 @@ id_nomics: VERSELAND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VERSELAND.jpeg
 logoKey: currencies/verseland.jpeg
 name: VerseLand
+platform: BNB
+platform_contract: '0x0a6e95b8d78620ccc1bbca44f65e542b80813e0f'

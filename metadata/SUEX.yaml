@@ -3,3 +3,5 @@ fiat: false
 id: SUEX
 id_nomics: SUEX
 name: SuniExchange
+platform: ETH
+platform_contract: '0x3a49360098cf9061630211874398ec75704c0595'

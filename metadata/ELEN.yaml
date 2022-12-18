@@ -6,3 +6,5 @@ id_nomics: ELEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELEN.jpg
 logoKey: currencies/elen.jpg
 name: Everlens
+platform: BNB
+platform_contract: '0xca2483727292ba552aec12dfee4dc105cb1376b9'

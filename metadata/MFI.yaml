@@ -5,3 +5,5 @@ id_nomics: MFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MFI.png
 logoKey: currencies/mfi.png
 name: MetaPool Finance
+platform: ETH
+platform_contract: '0xeadc218ac4cb7895a5a56e6484646b48f841c45a'

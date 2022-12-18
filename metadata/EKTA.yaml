@@ -6,3 +6,5 @@ id_nomics: EKTA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EKTA.jpg
 logoKey: currencies/ekta.jpg
 name: Ekta
+platform: BNB
+platform_contract: '0x2d2dc094218d9608dd2ca15eff8433d8fea0f1c5'

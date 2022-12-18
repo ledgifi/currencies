@@ -3,3 +3,5 @@ fiat: false
 id: WXDN
 id_nomics: WXDN
 name: Wrapped DigitalNote
+platform: BNB
+platform_contract: '0xbea2576f400b070c7cdf11d1cbb49de0c84e3bcf'

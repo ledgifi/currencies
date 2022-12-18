@@ -5,3 +5,5 @@ id_nomics: OIM81
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OIM81.png
 logoKey: currencies/oim81.png
 name: OrbitInu
+platform: BNB
+platform_contract: '0xd2ee9fa931272c92776d43da6f0f33eeb424f81d'

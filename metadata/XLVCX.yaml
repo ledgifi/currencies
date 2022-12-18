@@ -5,3 +5,5 @@ id_nomics: XLVCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XLVCX.jpg
 logoKey: currencies/xlvcx.jpg
 name: Health Care Select Sector SPDR Fund Token
+platform: ETH
+platform_contract: '0x511ef917ec95c8b2642f88444539e7821764614e'

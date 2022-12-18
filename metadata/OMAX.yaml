@@ -6,3 +6,5 @@ id_nomics: OMAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OMAX.jpg
 logoKey: currencies/omax.jpg
 name: Omax Token
+platform: BNB
+platform_contract: '0xeb84be66c8e71f07ea57cf3b21626d7784f32a7f'

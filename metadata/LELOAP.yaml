@@ -5,3 +5,5 @@ id_nomics: LELOAP
 logo: https://set-core.s3.amazonaws.com/img/social_trader_set_icons/sw_link_set.png
 logoKey: currencies/leloap.png
 name: LINK/ETH Long-Only Alpha Portfolio
+platform: ETH
+platform_contract: '0x8a63be90f095f6777be3ed25d9fc7cd2a63ddb30'

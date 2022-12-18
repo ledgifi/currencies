@@ -6,3 +6,5 @@ id_nomics: PIE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIE.png
 logoKey: currencies/pie.png
 name: DeFiPie
+platform: ETH
+platform_contract: '0x607c794cda77efb21f8848b7910ecf27451ae842'

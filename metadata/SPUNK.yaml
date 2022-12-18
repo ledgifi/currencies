@@ -5,3 +5,5 @@ id_nomics: SPUNK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPUNK.jpg
 logoKey: currencies/spunk.jpg
 name: SPUNK Vault (NFTX)
+platform: ETH
+platform_contract: '0x97aa8e14db0bc073cc7e2d42ac715427717d6042'

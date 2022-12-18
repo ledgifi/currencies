@@ -5,3 +5,5 @@ id_nomics: FOC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOC.jpg
 logoKey: currencies/foc.jpg
 name: TheForce
+platform: BNB
+platform_contract: '0x3051cfb958dcd408fba70256073adba943fdf552'

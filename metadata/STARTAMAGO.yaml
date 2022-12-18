@@ -5,3 +5,5 @@ id_nomics: STARTAMAGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STARTAMAGO.jpg
 logoKey: currencies/startamago.jpg
 name: Startama Go
+platform: ETH
+platform_contract: '0x291cd408e561aa4902a53c04ff094ebd514195d9'

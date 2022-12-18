@@ -5,3 +5,5 @@ id_nomics: BITFXT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITFXT.jpg
 logoKey: currencies/bitfxt.jpg
 name: Bitfxt Coin
+platform: ETH
+platform_contract: '0x24d77c210a014b1e123a0878f6c903df74a2317b'

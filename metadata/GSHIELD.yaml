@@ -3,3 +3,5 @@ fiat: false
 id: GSHIELD
 id_nomics: GSHIELD
 name: GoldShield
+platform: BNB
+platform_contract: '0x6aa9fa011c63c2cde19eafd5a8121e1774602fe6'

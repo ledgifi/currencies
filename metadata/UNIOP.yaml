@@ -3,3 +3,5 @@ fiat: false
 id: UNIOP
 id_nomics: UNIOP
 name: Uniswap (Optimism)
+platform: OPETH
+platform_contract: '0x6fd9d7ad17242c41f7131d257212c54a0e816691'

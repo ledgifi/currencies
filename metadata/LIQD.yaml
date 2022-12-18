@@ -3,3 +3,5 @@ fiat: false
 id: LIQD
 id_nomics: LIQD
 name: LIQD
+platform: BNB
+platform_contract: '0x3d6f259fbc2ba3fc064a84794ebd25b00dc1fbf8'

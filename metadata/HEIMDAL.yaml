@@ -3,3 +3,5 @@ fiat: false
 id: HEIMDAL
 id_nomics: HEIMDAL
 name: heimdal.money
+platform: MATIC
+platform_contract: '0x11881ac2a5d2cd4a60c9847b3297674c641739fa'

@@ -5,3 +5,5 @@ id_nomics: TBACPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TBACPOS.png
 logoKey: currencies/tbacpos.png
 name: BlockAura (Polygon)
+platform: MATIC
+platform_contract: '0x7ff54b5c384c9f3a3fece70e150d2ce2d70da6f7'

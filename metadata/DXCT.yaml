@@ -6,3 +6,5 @@ id_nomics: DXCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DXCT.jpg
 logoKey: currencies/dxct.jpg
 name: DNAxCAT
+platform: BNB
+platform_contract: '0x5b1baec64af6dc54e6e04349315919129a6d3c23'

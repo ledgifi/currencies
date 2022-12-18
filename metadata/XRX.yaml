@@ -5,3 +5,5 @@ id_nomics: XRX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XRX.jpg
 logoKey: currencies/xrx.jpg
 name: X-REIS
+platform: ETH
+platform_contract: '0x5f12f33d0a36fd369e4fffae3d82eff9160013ce'

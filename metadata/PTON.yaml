@@ -5,3 +5,5 @@ id_nomics: PTON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PTON.png
 logoKey: currencies/pton.png
 name: Foresting
+platform: ETH
+platform_contract: '0x4946583c5b86e01ccd30c71a05617d06e3e73060'

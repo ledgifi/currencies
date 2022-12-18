@@ -5,3 +5,5 @@ id_nomics: EGX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EGX2.jpeg
 logoKey: currencies/egx2.jpeg
 name: Enegra
+platform: MATIC
+platform_contract: '0x8db0a6d1b06950b4e81c4f67d1289fc7b9359c7f'

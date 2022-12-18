@@ -5,3 +5,5 @@ id_nomics: JOB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JOB2.jpg
 logoKey: currencies/job2.jpg
 name: JobCoin
+platform: ETH
+platform_contract: '0x3ff2ccac5e8d09a25c5b9aaad8206a98deaa0953'

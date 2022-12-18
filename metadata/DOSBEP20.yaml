@@ -5,3 +5,5 @@ id_nomics: DOSBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOSBEP20.jpg
 logoKey: currencies/dosbep20.jpg
 name: DOS Network (BEP-20)
+platform: BNB
+platform_contract: '0xdc0f0a5719c39764b011edd02811bd228296887c'

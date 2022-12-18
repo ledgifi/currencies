@@ -5,3 +5,5 @@ id_nomics: WIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WIS.jpg
 logoKey: currencies/wis.jpg
 name: Experty Wisdom Token
+platform: ETH
+platform_contract: '0xdecade1c6bf2cd9fb89afad73e4a519c867adcf5'

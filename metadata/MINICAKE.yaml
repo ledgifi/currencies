@@ -5,3 +5,5 @@ id_nomics: MINICAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINICAKE.jpg
 logoKey: currencies/minicake.jpg
 name: MiniCake
+platform: BNB
+platform_contract: '0xc184e85e9fa942b8ae553f5ef4d5b40fd0213bf9'

@@ -3,3 +3,5 @@ fiat: false
 id: BITDAO
 id_nomics: BITDAO
 name: bitcodeDAO
+platform: MATIC
+platform_contract: '0x259ba1bc783da697f20fb25793bcc46cc39e5e30'

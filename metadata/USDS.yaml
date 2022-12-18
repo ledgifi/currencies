@@ -7,3 +7,5 @@ id_nomics: USDS
 logo: https://bin.bnbstatic.com/images/20191212/71443a8a-5878-4329-a255-2468480941e0.png
 logoKey: currencies/usds.png
 name: StableUSD
+platform: ETH
+platform_contract: '0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe'

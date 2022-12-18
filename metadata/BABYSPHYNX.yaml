@@ -5,3 +5,5 @@ id_nomics: BABYSPHYNX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYSPHYNX.jpg
 logoKey: currencies/babysphynx.jpg
 name: BabySphynx
+platform: BNB
+platform_contract: '0x058fc94c507eeeeab8d44ceb6fc98b7229512030'

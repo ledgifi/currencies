@@ -5,3 +5,5 @@ id_nomics: CBD3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBD3.jpg
 logoKey: currencies/cbd3.jpg
 name: CyberDoge
+platform: BNB
+platform_contract: '0xa771db393b78f266181b25000c775453b6969b86'

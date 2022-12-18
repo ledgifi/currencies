@@ -5,3 +5,5 @@ id_nomics: DOKWON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOKWON.jpg
 logoKey: currencies/dokwon.jpg
 name: DoKwonCASH
+platform: BNB
+platform_contract: '0xa83712f1330cd1c16eb0c21990f0aa766b498048'

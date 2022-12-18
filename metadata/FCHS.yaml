@@ -3,3 +3,5 @@ fiat: false
 id: FCHS
 id_nomics: FCHS
 name: FCHsToken
+platform: HT
+platform_contract: '0x4a9632a7f34e7c5196f1c9dba77e27e3cef60dab'

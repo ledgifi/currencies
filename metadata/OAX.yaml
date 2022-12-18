@@ -8,3 +8,5 @@ id_nomics: OAX
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/oax.svg
 logoKey: currencies/oax.svg
 name: OpenANX
+platform: ETH
+platform_contract: '0x701c244b988a513c945973defa05de933b23fe1d'

@@ -5,3 +5,5 @@ id_nomics: LUM5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUM5.png
 logoKey: currencies/lum5.png
 name: Lum
+platform: BNB
+platform_contract: '0x864ae55775c978a80b2d7114cb30cbf2f3364ebe'

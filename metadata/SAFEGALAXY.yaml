@@ -6,3 +6,5 @@ id_nomics: SAFEGALAXY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFEGALAXY.jpg
 logoKey: currencies/safegalaxy.jpg
 name: SafeGalaxy
+platform: BNB
+platform_contract: '0x6b51231c43b1604815313801db5e9e614914d6e4'

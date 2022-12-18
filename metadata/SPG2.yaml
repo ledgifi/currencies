@@ -5,3 +5,5 @@ id_nomics: SPG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPG2.jpg
 logoKey: currencies/spg2.jpg
 name: Sponge
+platform: BNB
+platform_contract: '0x3aabcf53a1930a42e18d938c019e83ebee50a849'

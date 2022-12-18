@@ -5,3 +5,5 @@ id_nomics: BHY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BHY.png
 logoKey: currencies/bhy.png
 name: Bitcoin High Yield Set
+platform: ETH
+platform_contract: '0x48ac44f4e29e602f851b84c271c22b85b9447251'

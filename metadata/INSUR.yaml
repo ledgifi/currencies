@@ -5,3 +5,5 @@ id_nomics: INSUR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/insur.jpg
 logoKey: currencies/insur.jpg
 name: InsurChain
+platform: ETH
+platform_contract: '0x51fb3da8a67861361281ac56fe2ad8c3b4539ffa'

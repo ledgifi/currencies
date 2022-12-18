@@ -5,3 +5,5 @@ id_nomics: XTS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XTS.jpg
 logoKey: currencies/xts.jpg
 name: Xaviera Tech
+platform: ETH
+platform_contract: '0x36232b1328e49a043434e71c02c0dc2be278e975'

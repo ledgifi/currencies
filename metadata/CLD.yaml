@@ -5,3 +5,5 @@ id_nomics: CLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLD.png
 logoKey: currencies/cld.png
 name: Cloud
+platform: ETH
+platform_contract: '0xc3951d77737733174152532e8b0f27e2c4e9f0dc'

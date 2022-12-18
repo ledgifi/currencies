@@ -3,3 +3,5 @@ fiat: false
 id: ALTPAY
 id_nomics: ALTPAY
 name: ALTPAY FINANCE
+platform: BNB
+platform_contract: '0x773ad0415790082ea99baa7309376a8979a0709a'

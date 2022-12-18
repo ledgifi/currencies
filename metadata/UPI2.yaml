@@ -5,3 +5,5 @@ id_nomics: UPI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UPI2.png
 logoKey: currencies/upi2.png
 name: UniPi Network
+platform: ETH
+platform_contract: '0x2e1c7221086762d5f657cd5119e8ed5bf2af4ce6'

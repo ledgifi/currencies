@@ -3,3 +3,5 @@ fiat: false
 id: LATS
 id_nomics: LATS
 name: Latcoin
+platform: BNB
+platform_contract: '0xd115ab218dc8578c64acf2ad2f35acde9aa2d09a'

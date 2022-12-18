@@ -5,3 +5,5 @@ id_nomics: ELVES2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELVES2.jpg
 logoKey: currencies/elves2.jpg
 name: Elves Century
+platform: BNB
+platform_contract: '0x9587cec6edda767d68bf5ed5a3114e414a9008b0'

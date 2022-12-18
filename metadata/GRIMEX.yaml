@@ -6,3 +6,5 @@ id_nomics: GRIMEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GRIMEX.png
 logoKey: currencies/grimex.png
 name: SpaceGrime
+platform: BNB
+platform_contract: '0x89671544190ee39e469c8393009875df6565457a'

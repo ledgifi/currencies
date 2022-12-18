@@ -5,3 +5,5 @@ id_nomics: SLR4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLR4.jpg
 logoKey: currencies/slr4.jpg
 name: Salare Pay
+platform: BNB
+platform_contract: '0x05a71170dbd95a4d37ef4856d2957b124f19c380'

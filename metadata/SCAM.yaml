@@ -5,3 +5,5 @@ id_nomics: SCAM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCAM.jpg
 logoKey: currencies/scam.jpg
 name: SCAM Token
+platform: BNB
+platform_contract: '0x4a3027204a98231b53a0798fb373e3b5016eaf82'

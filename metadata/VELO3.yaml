@@ -5,3 +5,5 @@ id_nomics: VELO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VELO3.jpg
 logoKey: currencies/velo3.jpg
 name: Velo Money
+platform: BNB
+platform_contract: '0x10E3209875Cd56452af43BeD05Ff4a1547c06528'

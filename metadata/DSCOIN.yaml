@@ -5,3 +5,5 @@ id_nomics: DSCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DSCOIN.jpg
 logoKey: currencies/dscoin.jpg
 name: Sky Net Security
+platform: ETH
+platform_contract: '0xee395235ac363725c6b895d8994706cb7050482f'

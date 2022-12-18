@@ -5,3 +5,5 @@ id_nomics: HAPPYXRP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HAPPYXRP.jpg
 logoKey: currencies/happyxrp.jpg
 name: Happy XRP
+platform: BNB
+platform_contract: '0x65568259632534457e8bc1097df9275812710544'

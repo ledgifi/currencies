@@ -5,3 +5,5 @@ id_nomics: LAVA6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LAVA6.jpg
 logoKey: currencies/lava6.jpg
 name: Duorice
+platform: BNB
+platform_contract: '0x18fa0dde9f599f42be2cbfd37b77f2e779d8dc3a'

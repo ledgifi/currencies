@@ -3,3 +3,5 @@ fiat: false
 id: WTEST21
 id_nomics: WTEST21
 name: WTest21
+platform: BNB
+platform_contract: '0x7bd1141b16641d33a95abc556ec39cb3a15a48b9'

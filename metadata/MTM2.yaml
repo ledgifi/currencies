@@ -5,3 +5,5 @@ id_nomics: MTM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTM2.jpeg
 logoKey: currencies/mtm2.jpeg
 name: MetaMask
+platform: BNB
+platform_contract: '0x3c1397b156cd8349934a780850d71a3d0e802027'

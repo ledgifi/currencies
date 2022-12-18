@@ -5,3 +5,5 @@ id_nomics: NZE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NZE.png
 logoKey: currencies/nze.png
 name: Nagezeni
+platform: ETH
+platform_contract: '0x47ba0689fbd72936749b007d18dfb75d34bf241b'

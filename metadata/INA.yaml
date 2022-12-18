@@ -6,3 +6,5 @@ id_nomics: INA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INA.png
 logoKey: currencies/ina.png
 name: Islantia
+platform: BNB
+platform_contract: '0xb46662ed8ee13d41a3efd3ea1e36060726cc62be'

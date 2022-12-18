@@ -3,3 +3,5 @@ fiat: false
 id: GOCP
 id_nomics: GOCP
 name: GOCP-Token
+platform: HT
+platform_contract: '0x47dd08ac01fe7924d834b53757420baca97b16db'

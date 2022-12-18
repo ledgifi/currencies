@@ -5,3 +5,5 @@ id_nomics: USHARE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USHARE.jpg
 logoKey: currencies/ushare.jpg
 name: USHARE
+platform: HARMONY
+platform_contract: '0xd0105cff72a89f6ff0bd47e1209bf4bdfb9dea8a'

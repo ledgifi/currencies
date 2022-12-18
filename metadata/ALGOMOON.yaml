@@ -3,3 +3,5 @@ fiat: false
 id: ALGOMOON
 id_nomics: ALGOMOON
 name: 10X Long Algorand Token
+platform: ETH
+platform_contract: '0xa386e04f0fb641869accd582c1b76eaa7d7087fe'

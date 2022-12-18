@@ -5,3 +5,5 @@ id_nomics: BCHAIN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCHAIN2.jpg
 logoKey: currencies/bchain2.jpg
 name: bChain
+platform: BNB
+platform_contract: '0x3e96f79a607d0d2199976c292f9cdf73991a3439'

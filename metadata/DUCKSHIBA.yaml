@@ -3,3 +3,5 @@ fiat: false
 id: DUCKSHIBA
 id_nomics: DUCKSHIBA
 name: DuckShiba
+platform: ETH
+platform_contract: '0x87cf888d333a05e003bca5dfda37f9be9b50236b'

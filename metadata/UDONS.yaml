@@ -5,3 +5,5 @@ id_nomics: UDONS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UDONS.jpg
 logoKey: currencies/udons.jpg
 name: UDONS STAKE
+platform: ETH
+platform_contract: '0x4ad00d296ea29fa4d4d3afc0fd024a698878fbc2'

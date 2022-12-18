@@ -5,3 +5,5 @@ id_nomics: FEG20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FEG20.jpg
 logoKey: currencies/feg20.jpg
 name: Feg 2.0
+platform: BNB
+platform_contract: '0xb46dd2065fc7e5b3a1ef1eb46816c085bce134cd'

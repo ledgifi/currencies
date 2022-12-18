@@ -6,3 +6,5 @@ id_nomics: BERRY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/berry.svg
 logoKey: currencies/berry.svg
 name: Rentberry
+platform: ETH
+platform_contract: '0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c'

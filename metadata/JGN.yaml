@@ -6,3 +6,5 @@ id_nomics: JGN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JGN.jpg
 logoKey: currencies/jgn.jpg
 name: Juggernaut
+platform: ETH
+platform_contract: '0x73374ea518de7addd4c2b624c0e8b113955ee041'

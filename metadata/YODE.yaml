@@ -5,3 +5,5 @@ id_nomics: YODE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YODE.png
 logoKey: currencies/yode.png
 name: YodeSwap
+platform: DC7
+platform_contract: '0x6fc4563460d5f45932c473334d5c1c5b4aea0e01'

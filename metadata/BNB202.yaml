@@ -5,3 +5,5 @@ id_nomics: BNB202
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNB202.png
 logoKey: currencies/bnb202.png
 name: Proof Of Degen
+platform: BNB
+platform_contract: '0x3d01755e06fd11a08cd2995abd183cd8990256df'

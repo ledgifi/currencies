@@ -5,3 +5,5 @@ id_nomics: SHIELD4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIELD4.jpeg
 logoKey: currencies/shield4.jpeg
 name: Meta Shield
+platform: BNB
+platform_contract: '0xf9b25c96c659648a805bf40b4d1dc4f22abcb936'

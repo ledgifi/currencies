@@ -5,3 +5,5 @@ id_nomics: ARTFINITYTOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARTFINITYTOKEN.png
 logoKey: currencies/artfinitytoken.png
 name: Artfinity Token
+platform: ETH
+platform_contract: '0xe54b3458c47e44c37a267e7c633afef88287c294'

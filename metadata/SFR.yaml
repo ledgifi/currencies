@@ -5,3 +5,5 @@ id_nomics: SFR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFR.jpg
 logoKey: currencies/sfr.jpg
 name: Safari
+platform: ETH
+platform_contract: '0x648d19d775a8d4bafba09e189090bdcbf8ef31c1'

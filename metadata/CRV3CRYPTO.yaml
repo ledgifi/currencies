@@ -3,3 +3,5 @@ fiat: false
 id: CRV3CRYPTO
 id_nomics: CRV3CRYPTO
 name: Curve.fi USD-BTC-ETH
+platform: ARBETH
+platform_contract: '0x8e0b8c8bb9db49a46697f3a5bb8a308e744821d2'

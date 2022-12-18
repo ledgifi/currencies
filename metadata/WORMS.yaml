@@ -5,3 +5,5 @@ id_nomics: WORMS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WORMS.jpeg
 logoKey: currencies/worms.jpeg
 name: MoonWorms
+platform: BNB
+platform_contract: '0x7682ff4befe3f18acfcbbaea3f022b7bd7693be8'

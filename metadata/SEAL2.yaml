@@ -5,3 +5,5 @@ id_nomics: SEAL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SEAL2.jpg
 logoKey: currencies/seal2.jpg
 name: Seal Finance
+platform: ETH
+platform_contract: '0x33c2da7fd5b125e629b3950f3c38d7f721d7b30d'

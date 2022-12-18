@@ -6,3 +6,5 @@ id_nomics: IGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IGO.jpg
 logoKey: currencies/igo.jpg
 name: Meta Islands
+platform: BNB
+platform_contract: '0x247f7ad24a2a21ba3ae475fb0114528c916ea3e4'

@@ -4,3 +4,5 @@ id: JUMBO
 id_nomics: JUMBO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JUMBO.png
 name: Jumbo Exchange
+platform: NEAR
+platform_contract: token.jumbo_exchange.near

@@ -5,3 +5,5 @@ id_nomics: TPG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TPG2.jpg
 logoKey: currencies/tpg2.jpg
 name: TopG BUSD
+platform: BNB
+platform_contract: '0x50c346a8B6B50A7334b02B9480Df001c4112C0a3'

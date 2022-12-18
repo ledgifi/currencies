@@ -3,3 +3,5 @@ fiat: false
 id: SZJ
 id_nomics: SZJ
 name: szj
+platform: BNB
+platform_contract: '0x76867eab20d725fd09cb52966d2d8f94bca5727a'

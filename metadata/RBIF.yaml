@@ -5,3 +5,5 @@ id_nomics: RBIF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RBIF.jpg
 logoKey: currencies/rbif.jpg
 name: Robo Inu Finance
+platform: ETH
+platform_contract: '0x7b32e70e8d73ac87c1b342e063528b2930b15ceb'

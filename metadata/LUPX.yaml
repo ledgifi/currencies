@@ -6,3 +6,5 @@ id_nomics: LUPX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUPX.png
 logoKey: currencies/lupx.png
 name: Lupecoin
+platform: ETH
+platform_contract: '0x49c67ae22c334d0123dd6dbdc44f5302e130a88b'

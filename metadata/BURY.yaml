@@ -5,3 +5,5 @@ id_nomics: BURY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BURY.jpg
 logoKey: currencies/bury.jpg
 name: BuryBit
+platform: BNB
+platform_contract: '0x2a2dfa569f4c58ccf1c1800475cd7b12f29e3c01'

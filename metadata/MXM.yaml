@@ -5,3 +5,5 @@ id_nomics: MXM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/mxm.png
 logoKey: currencies/mxm.png
 name: MaxiMine
+platform: ETH
+platform_contract: '0x8e766f57f7d16ca50b4a0b90b88f6468a09b0439'

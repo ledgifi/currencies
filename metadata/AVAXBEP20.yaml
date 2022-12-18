@@ -5,3 +5,5 @@ id_nomics: AVAXBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVAXBEP20.jpg
 logoKey: currencies/avaxbep20.jpg
 name: Avalanche (BEP-20)
+platform: BNB
+platform_contract: '0x1ce0c2827e2ef14d5c4f29a091d735a204794041'

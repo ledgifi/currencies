@@ -3,3 +3,5 @@ fiat: false
 id: UNBT
 id_nomics: UNBT
 name: Unobot
+platform: BNB
+platform_contract: '0x91f4966719a9bed6fdfa9d43bb98475be46e4304'

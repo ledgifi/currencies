@@ -5,3 +5,5 @@ id_nomics: URIAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/URIAL.png
 logoKey: currencies/urial.png
 name: Urial WildSheep
+platform: BNB
+platform_contract: '0xaac67495301ba344b5458024ee366a12b65b4600'

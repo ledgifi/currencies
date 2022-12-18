@@ -5,3 +5,5 @@ id_nomics: BOTS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOTS2.jpeg
 logoKey: currencies/bots2.jpeg
 name: Coinbot Space
+platform: BNB
+platform_contract: '0x6d2e852078923F2df94BE45105898091643Cd3B6'

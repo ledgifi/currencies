@@ -5,3 +5,5 @@ id_nomics: NUXBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NUXBEP20.jpg
 logoKey: currencies/nuxbep20.jpg
 name: Peanut (BEP-20)
+platform: BNB
+platform_contract: '0x6d8734002fbffe1c86495e32c95f732fc77f6f2a'

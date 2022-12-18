@@ -5,3 +5,5 @@ id_nomics: DX8BEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DX8BEP20.jpeg
 logoKey: currencies/dx8bep20.jpeg
 name: Delta 8 (BEP-20)
+platform: BNB
+platform_contract: '0x3a4ef67fc58293bc1ee5cd61156b0b9684397b14'

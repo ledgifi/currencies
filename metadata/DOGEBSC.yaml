@@ -5,3 +5,5 @@ id_nomics: DOGEBSC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEBSC.jpg
 logoKey: currencies/dogebsc.jpg
 name: DogeBSC
+platform: BNB
+platform_contract: '0x1060ae67986a1a5a02ee023e3f5dfc2f5d04ebb4'

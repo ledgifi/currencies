@@ -6,3 +6,5 @@ id_nomics: ICH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICH.jpg
 logoKey: currencies/ich.jpg
 name: IdeaChain
+platform: ETH
+platform_contract: '0xf8483e2d6560585c02d46bf7b3186bf154a96166'

@@ -3,3 +3,5 @@ fiat: false
 id: FRAC
 id_nomics: FRAC
 name: FRAC Token
+platform: BNB
+platform_contract: '0x3b60cd6f9aa6788fd09cd10450f16219e6fabdd5'

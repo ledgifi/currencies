@@ -5,3 +5,5 @@ id_nomics: CNTM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CNTM.jpg
 logoKey: currencies/cntm.jpg
 name: Connectome
+platform: ETH
+platform_contract: '0x0e5f00da8aaef196a719d045db89b5da8f371b32'

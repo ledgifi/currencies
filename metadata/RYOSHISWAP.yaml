@@ -3,3 +3,5 @@ fiat: false
 id: RYOSHISWAP
 id_nomics: RYOSHISWAP
 name: Ryoshi Swap
+platform: ETH
+platform_contract: '0x12b6293f024f0c4952809404cf8078d581d196e7'

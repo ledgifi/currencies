@@ -6,3 +6,5 @@ id_nomics: ZB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/zb.jpg
 logoKey: currencies/zb.jpg
 name: ZB
+platform: ETH
+platform_contract: '0xbd0793332e9fb844a52a205a233ef27a5b34b927'

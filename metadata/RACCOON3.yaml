@@ -5,3 +5,5 @@ id_nomics: RACCOON3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RACCOON3.jpg
 logoKey: currencies/raccoon3.jpg
 name: RaccoonSwap
+platform: BNB
+platform_contract: '0xf0b68421b8d1f2da97f59a8cf391471591981453'

@@ -3,3 +3,5 @@ fiat: false
 id: ETHOGE
 id_nomics: ETHOGE
 name: Ethoge
+platform: ETH
+platform_contract: '0x4512989c63566a6de7c433b63819d3fcaecabefe'

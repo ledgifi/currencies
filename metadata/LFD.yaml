@@ -5,3 +5,5 @@ id_nomics: LFD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LFD.jpg
 logoKey: currencies/lfd.jpg
 name: LuckyFortuneDog
+platform: BNB
+platform_contract: '0xdeb1eaf085979a73ab0e85901d786cba991c2617'

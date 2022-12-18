@@ -6,3 +6,5 @@ id_nomics: CRACE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRACE.jpg
 logoKey: currencies/crace.jpg
 name: Coinracer
+platform: BNB
+platform_contract: '0xfbb4f2f342c6daab63ab85b0226716c4d1e26f36'

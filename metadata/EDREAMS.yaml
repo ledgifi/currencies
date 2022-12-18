@@ -5,3 +5,5 @@ id_nomics: EDREAMS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EDREAMS.jpg
 logoKey: currencies/edreams.jpg
 name: Eagle Dreams
+platform: BNB
+platform_contract: '0xb9610923b20e82e01c2332fe713943470dca1145'

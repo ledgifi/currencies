@@ -6,3 +6,5 @@ id_nomics: CNB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CNB.jpg
 logoKey: currencies/cnb.jpg
 name: Coinsbit Token
+platform: ETH
+platform_contract: '0xc538143202f3b11382d8606aae90a96b042a19db'

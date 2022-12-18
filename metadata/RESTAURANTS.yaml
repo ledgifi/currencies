@@ -5,3 +5,5 @@ id_nomics: RESTAURANTS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RESTAURANTS.png
 logoKey: currencies/restaurants.png
 name: Devour Token
+platform: ETH
+platform_contract: '0xdffc63f92c939deb112d88735ade3b4d21b6d491'

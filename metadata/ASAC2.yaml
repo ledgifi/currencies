@@ -5,3 +5,5 @@ id_nomics: ASAC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASAC2.jpg
 logoKey: currencies/asac2.jpg
 name: Asac Coin
+platform: ETH
+platform_contract: '0x6913ccabbc337f0ea7b4109dd8200d61c704d332'

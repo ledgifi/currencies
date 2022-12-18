@@ -6,3 +6,5 @@ id_nomics: APM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APM.png
 logoKey: currencies/apm.png
 name: apM Coin
+platform: ETH
+platform_contract: '0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c'

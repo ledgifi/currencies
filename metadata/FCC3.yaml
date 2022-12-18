@@ -5,3 +5,5 @@ id_nomics: FCC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FCC3.png
 logoKey: currencies/fcc3.png
 name: First Choice Coin
+platform: MATIC
+platform_contract: '0xb6c3c00d730acca326db40e418353f04f7444e2b'

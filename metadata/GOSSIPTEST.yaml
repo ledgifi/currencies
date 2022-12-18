@@ -3,3 +3,5 @@ fiat: false
 id: GOSSIPTEST
 id_nomics: GOSSIPTEST
 name: GossipTest
+platform: BNB
+platform_contract: '0xbbfd94f68cb92a2ad6d8d3cbeb4fca566f71f86f'

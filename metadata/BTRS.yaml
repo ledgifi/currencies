@@ -6,3 +6,5 @@ id_nomics: BTRS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTRS.png
 logoKey: currencies/btrs.png
 name: Bitball Treasure
+platform: ETH
+platform_contract: '0x73c9275c3a2dd84b5741fd59aebf102c91eb033f'

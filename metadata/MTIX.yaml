@@ -6,3 +6,5 @@ id_nomics: MTIX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTIX.png
 logoKey: currencies/mtix.png
 name: Matrix
+platform: BNB
+platform_contract: '0x33b783a4833f7613ccb6569a9f39a261b311afbb'

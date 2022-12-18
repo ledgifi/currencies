@@ -6,3 +6,5 @@ id_nomics: COOK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COOK.jpg
 logoKey: currencies/cook.jpg
 name: Cook
+platform: ETH
+platform_contract: '0xff75ced57419bcaebe5f05254983b013b0646ef5'

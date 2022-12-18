@@ -5,3 +5,5 @@ id_nomics: TSK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TSK2.jpeg
 logoKey: currencies/tsk2.jpeg
 name: Toska
+platform: BNB
+platform_contract: '0xca85585a160058e21770e4118a5187a09793b333'

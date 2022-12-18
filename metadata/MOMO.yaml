@@ -6,3 +6,5 @@ id_nomics: MOMO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOMO.jpg
 logoKey: currencies/momo.jpg
 name: Momo Protocol
+platform: BNB
+platform_contract: '0xafb2997fe9a99022e61c7e01b974e0e3d7704b02'

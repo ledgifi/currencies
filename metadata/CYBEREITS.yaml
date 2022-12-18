@@ -5,3 +5,5 @@ id_nomics: CYBEREITS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CYBEREITS.png
 logoKey: currencies/cybereits.png
 name: Cybereits
+platform: ETH
+platform_contract: '0x61f33da40594cec1e3dc900faf99f861d01e2e7d'

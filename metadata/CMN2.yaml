@@ -5,3 +5,5 @@ id_nomics: CMN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CMN2.jpg
 logoKey: currencies/cmn2.jpg
 name: Crypto Media Network
+platform: BNB
+platform_contract: '0x2dfbedc45a8a1fa0a14cacacc0c1cbd88946326c'

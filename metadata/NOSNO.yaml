@@ -5,3 +5,5 @@ id_nomics: NOSNO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NOSNO.png
 logoKey: currencies/nosno.png
 name: NOSNO
+platform: AVAX
+platform_contract: '0x78cbe8f3be2bf342c8bc4cfa2e0164c15323dc4f'

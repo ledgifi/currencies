@@ -6,3 +6,5 @@ id_nomics: OBOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OBOT.jpg
 logoKey: currencies/obot.jpg
 name: Obortech
+platform: ETH
+platform_contract: '0xedadeb5faa413e6c8623461849dfd0b7c3790c32'

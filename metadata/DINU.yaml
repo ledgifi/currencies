@@ -6,3 +6,5 @@ id_nomics: DINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DINU.jpeg
 logoKey: currencies/dinu.jpeg
 name: Dogey-Inu
+platform: ETH
+platform_contract: '0xbb1ee07d6c7baeb702949904080eb61f5d5e7732'

@@ -3,3 +3,5 @@ fiat: false
 id: SAPES
 id_nomics: SAPES
 name: Solar Apes
+platform: ETH
+platform_contract: '0x26f22c365095f44b8343def4b18b45d6415885fd'

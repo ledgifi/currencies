@@ -3,3 +3,5 @@ fiat: false
 id: EBOXERC20
 id_nomics: EBOXERC20
 name: Ebox (ERC-20)
+platform: ETH
+platform_contract: '0x33840024177a7daca3468912363bed8b425015c5'

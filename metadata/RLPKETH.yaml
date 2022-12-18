@@ -3,3 +3,5 @@ fiat: false
 id: RLPKETH
 id_nomics: RLPKETH
 name: Uniswap LP [KETH/ROOT]
+platform: ETH
+platform_contract: '0xbfbb9b401114e367f7e174cdf4fbb8fcc0585fcc'

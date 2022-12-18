@@ -5,3 +5,5 @@ id_nomics: ENTEGRATED
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ENTEGRATED.png
 logoKey: currencies/entegrated.png
 name: Entegrated Finance
+platform: BNB
+platform_contract: '0xbfa7b70a5c0750da31be19e96a99de3b995f93e7'

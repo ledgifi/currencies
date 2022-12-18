@@ -5,3 +5,5 @@ id_nomics: UKETAMO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UKETAMO.jpg
 logoKey: currencies/uketamo.jpg
 name: Uketamo
+platform: ETH
+platform_contract: '0x6dd8106609bf0f0d703abc12585fea32502f3a2e'

@@ -3,3 +3,5 @@ fiat: false
 id: HETH2
 id_nomics: HETH2
 name: Hashthereum
+platform: ETH
+platform_contract: '0x500d15aA5b01E7eb77e4D4C8283Df3E6c49Da754'

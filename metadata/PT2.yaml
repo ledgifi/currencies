@@ -5,3 +5,5 @@ id_nomics: PT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PT2.jpg
 logoKey: currencies/pt2.jpg
 name: Polies
+platform: ETH
+platform_contract: '0x709b28615ed6482fee3b779cc03a119f2d231fb5'

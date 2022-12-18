@@ -5,3 +5,5 @@ id_nomics: OKTP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OKTP.jpg
 logoKey: currencies/oktp.jpg
 name: OKTPlay
+platform: OKT
+platform_contract: '0xd95aae6cb88813f745a50a46b36656f050557a6c'

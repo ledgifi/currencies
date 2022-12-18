@@ -5,3 +5,5 @@ id_nomics: GFMI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GFMI.png
 logoKey: currencies/gfmi.png
 name: GOFUNDMEINU
+platform: ETH
+platform_contract: '0x50635ae380aebe7be5347236a4f8810872b3bed1'

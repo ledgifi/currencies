@@ -5,3 +5,5 @@ id_nomics: MUDRA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MUDRA2.jpg
 logoKey: currencies/mudra2.jpg
 name: Mudra
+platform: BNB
+platform_contract: '0xa1fa5df3a7c98cbd97d4c4f72a995150ee4a822b'

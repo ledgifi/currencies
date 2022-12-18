@@ -5,3 +5,5 @@ id_nomics: MM6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MM6.jpg
 logoKey: currencies/mm6.jpg
 name: Markhor Meta
+platform: BNB
+platform_contract: '0xbb19ac7afcd532b13158810ff66c16f17635de87'

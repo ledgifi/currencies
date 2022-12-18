@@ -5,3 +5,5 @@ id_nomics: MFD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MFD.png
 logoKey: currencies/mfd.png
 name: MetaFireDot
+platform: BNB
+platform_contract: '0x7f1eecb0f91388608a3fb4f0aefdd31e0ece0685'

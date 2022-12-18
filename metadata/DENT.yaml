@@ -8,3 +8,5 @@ id_nomics: DENT
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/dent.svg
 logoKey: currencies/dent.svg
 name: Dent
+platform: ETH
+platform_contract: '0x3597bfd533a99c9aa083587b074434e61eb0a258'

@@ -5,3 +5,5 @@ id_nomics: WETHFUSE
 logo: https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png
 logoKey: currencies/wethfuse.png
 name: Wrapped Ether (Fuse)
+platform: FUSE
+platform_contract: '0xa722c13135930332Eb3d749B2F0906559D2C5b99'

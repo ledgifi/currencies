@@ -5,3 +5,5 @@ id_nomics: COMET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COMET.jpg
 logoKey: currencies/comet.jpg
 name: COMET14
+platform: ETH
+platform_contract: '0x4cee978c126c43522765de9ed02d9373c72ac290'

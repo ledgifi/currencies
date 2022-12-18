@@ -5,3 +5,5 @@ id_nomics: IBETH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IBETH2.png
 logoKey: currencies/ibeth2.png
 name: ibETHv2
+platform: ETH
+platform_contract: '0xeea3311250fe4c3268f8e684f7c87a82ff183ec1'

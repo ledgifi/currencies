@@ -4,3 +4,5 @@ id: WOPT
 id_nomics: WOPT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOPT.png
 name: Wrapped Optimus
+platform: MATIC
+platform_contract: '0x676fcd577d0c8705f9f81577c4bfc4cc7979e69b'

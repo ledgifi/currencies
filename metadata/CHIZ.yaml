@@ -5,3 +5,5 @@ id_nomics: CHIZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHIZ.jpg
 logoKey: currencies/chiz.jpg
 name: SRSC Chiz Token
+platform: ETH
+platform_contract: '0x5c761c1a21637362374204000e383204d347064c'

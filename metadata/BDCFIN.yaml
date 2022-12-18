@@ -5,3 +5,5 @@ id_nomics: BDCFIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BDCFIN.jpeg
 logoKey: currencies/bdcfin.jpeg
 name: BDC Finance
+platform: BNB
+platform_contract: '0xe23c2756c1190d8e9a433a0920919f91f7817cd1'

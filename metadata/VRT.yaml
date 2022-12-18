@@ -8,3 +8,5 @@ id_nomics: VRT2
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210518/9521d90e-006b-46a3-bc72-cc39ddaca187.png
 logoKey: currencies/vrt.png
 name: Venus Reward Token
+platform: BNB
+platform_contract: '0x5f84ce30dc3cf7909101c69086c50de191895883'

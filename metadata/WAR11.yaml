@@ -5,3 +5,5 @@ id_nomics: WAR11
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAR11.jpg
 logoKey: currencies/war11.jpg
 name: Spartan
+platform: BNB
+platform_contract: '0x9d6b60b2281d687dc69b7634632ce3db9939c244'

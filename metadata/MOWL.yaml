@@ -6,3 +6,5 @@ id_nomics: MOWL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOWL.jpg
 logoKey: currencies/mowl.jpg
 name: Moon Owl
+platform: MATIC
+platform_contract: '0x9c9c3d859a4c0dd0505ae57714f3231fe8a07149'

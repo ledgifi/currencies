@@ -6,3 +6,5 @@ id_nomics: DEP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEP.png
 logoKey: currencies/dep.png
 name: DEAPCOIN
+platform: ETH
+platform_contract: '0x1a3496c18d558bd9c6c8f609e1b129f67ab08163'

@@ -5,3 +5,5 @@ id_nomics: GAPE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAPE.jpeg
 logoKey: currencies/gape.jpeg
 name: Ghost Ape
+platform: BNB
+platform_contract: '0xcae54c4bd221c0cf5c5c0a6e67617743e21c6aa7'

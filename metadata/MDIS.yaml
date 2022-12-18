@@ -5,3 +5,5 @@ id_nomics: MDIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MDIS.jpg
 logoKey: currencies/mdis.jpg
 name: MDIS Finance
+platform: HT
+platform_contract: '0x7929142ad99b662207288d42ec0abacd95041317'

@@ -6,3 +6,5 @@ id_nomics: REFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REFI.jpg
 logoKey: currencies/refi.jpg
 name: Realfinance Network
+platform: BNB
+platform_contract: '0x641a6dc991a49f7be9fe3c72c5d0fbb223edb12f'

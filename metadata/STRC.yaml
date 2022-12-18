@@ -6,3 +6,5 @@ id_nomics: STRC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STRC.png
 logoKey: currencies/strc.png
 name: StarCredits
+platform: ETH
+platform_contract: '0x46492473755e8df960f8034877f61732d718ce96'

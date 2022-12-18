@@ -3,3 +3,5 @@ fiat: false
 id: MBGB
 id_nomics: MBGB
 name: MBGBToken
+platform: BNB
+platform_contract: '0xe48f3e44419d73200886ef81dd4d8f90cbb873e8'

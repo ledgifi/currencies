@@ -5,3 +5,5 @@ id_nomics: CRB5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRB5.jpeg
 logoKey: currencies/crb5.jpeg
 name: CryptoBites
+platform: BNB
+platform_contract: '0x16cf635e4b83f21b2c159614e79927dacc156c7c'

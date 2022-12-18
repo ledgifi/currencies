@@ -5,3 +5,5 @@ id_nomics: BFTS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BFTS.png
 logoKey: currencies/bfts.png
 name: Byzantine Fault Tolerance
+platform: BNB
+platform_contract: '0x74cc24e80c446c94f429586b3ed71c42ed033ce8'

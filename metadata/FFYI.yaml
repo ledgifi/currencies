@@ -5,3 +5,5 @@ id_nomics: FFYI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FFYI.png
 logoKey: currencies/ffyi.png
 name: Fiscus FYI
+platform: ETH
+platform_contract: '0xca76BAa777d749De63Ca044853D22D56bC70bb47'

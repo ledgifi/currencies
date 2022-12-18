@@ -5,3 +5,5 @@ id_nomics: APS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APS.jpeg
 logoKey: currencies/aps.jpeg
 name: Cap Swap
+platform: BNB
+platform_contract: '0x5bDdC0A13ea2d1B6fCa3d3f5F5DECB5A0bFCd43d'

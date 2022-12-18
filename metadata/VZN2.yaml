@@ -5,3 +5,5 @@ id_nomics: VZN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VZN2.jpg
 logoKey: currencies/vzn2.jpg
 name: Vincenzo Network
+platform: BNB
+platform_contract: '0x527810fef739caf5611bcec15f4a1f5d51e9027e'

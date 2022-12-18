@@ -5,3 +5,5 @@ id_nomics: MELD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MELD.jpg
 logoKey: currencies/meld.jpg
 name: Melodity
+platform: BNB
+platform_contract: '0x13e971de9181eef7a4aeaeaa67552a6a4cc54f43'

@@ -3,3 +3,5 @@ fiat: false
 id: NOBTC
 id_nomics: NOBTC
 name: NOBTC
+platform: ETH
+platform_contract: '0x6e729f0c1590b4c7ca7883376f9bd8d2d6aba149'

@@ -5,3 +5,5 @@ id_nomics: WIS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WIS3.jpg
 logoKey: currencies/wis3.jpg
 name: Wis.com (DISCONTINUED)
+platform: BNB
+platform_contract: '0x64e9ec7757184e598b304446cf415deed7b690f2'

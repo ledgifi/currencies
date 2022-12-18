@@ -5,3 +5,5 @@ id_nomics: KALI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KALI2.jpg
 logoKey: currencies/kali2.jpg
 name: Kalissa
+platform: BNB
+platform_contract: '0xd790d1bea5269985b07e967d610197dab3791d13'

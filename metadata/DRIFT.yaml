@@ -3,3 +3,5 @@ fiat: false
 id: DRIFT
 id_nomics: DRIFT
 name: DriftDelivery.CC
+platform: BNB
+platform_contract: '0x1a8006d0a5fa2d0baae74f5571133787b9b150dc'

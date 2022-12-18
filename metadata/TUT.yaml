@@ -5,3 +5,5 @@ id_nomics: TUT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TUT.png
 logoKey: currencies/tut.png
 name: Trust Union
+platform: ETH
+platform_contract: '0xfe3a06a947a036eff9f9e8ec25b385ff4e853c38'

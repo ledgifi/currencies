@@ -3,3 +3,5 @@ fiat: false
 id: LTEA
 id_nomics: LTEA
 name: Liptons Tea
+platform: FUSE
+platform_contract: '0x02f2186277dabbe63de4013db858473af8960783'

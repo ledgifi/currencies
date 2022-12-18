@@ -3,3 +3,5 @@ fiat: false
 id: STAG
 id_nomics: STAG
 name: Staging Token
+platform: MATIC
+platform_contract: '0xbbf9692d84a87a22f4ae6ec56f30885b09cb7d0e'

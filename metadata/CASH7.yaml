@@ -3,3 +3,5 @@ fiat: false
 id: CASH7
 id_nomics: CASH7
 name: RichCity Cash
+platform: FTM
+platform_contract: '0xbb4f92034927d4ce195b7d8f0acd4b3f661c5c45'

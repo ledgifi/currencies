@@ -3,3 +3,5 @@ fiat: false
 id: BEFTM
 id_nomics: BEFTM
 name: Beefy Escrowed Fantom
+platform: FTM
+platform_contract: '0x7381ed41f6de418dde5e84b55590422a57917886'

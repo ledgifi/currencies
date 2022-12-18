@@ -6,3 +6,5 @@ id_nomics: SPON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPON.jpg
 logoKey: currencies/spon.jpg
 name: Sponsee
+platform: BNB
+platform_contract: '0xe41d9e1311209f2e05850f9de6201ab4b930bfc2'

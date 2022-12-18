@@ -3,3 +3,5 @@ fiat: false
 id: POOLHOUSE
 id_nomics: POOLHOUSE
 name: Pool House
+platform: ETH
+platform_contract: '0x1a2add18cb212db1c478595237831850e4a44d4e'

@@ -5,3 +5,5 @@ id_nomics: CHUNK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHUNK2.jpg
 logoKey: currencies/chunk2.jpg
 name: Chunk Norris Cheese Coin
+platform: ETH
+platform_contract: '0xbc045cf128effce5c7bb82a90457771f11ade168'

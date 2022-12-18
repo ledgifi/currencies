@@ -6,3 +6,5 @@ id_nomics: MARIO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MARIO.jpg
 logoKey: currencies/mario.jpg
 name: SUPER MARIO
+platform: ETH
+platform_contract: '0xc8cf9b8ccfb4c53c052427e98669ff28b6f7e301'

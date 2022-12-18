@@ -5,3 +5,5 @@ id_nomics: HHPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HHPOS.jpg
 logoKey: currencies/hhpos.jpg
 name: Holyheld (Polygon)
+platform: MATIC
+platform_contract: '0x521cddc0cba84f14c69c1e99249f781aa73ee0bc'

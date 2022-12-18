@@ -5,3 +5,5 @@ id_nomics: PUNK5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PUNK5.jpg
 logoKey: currencies/punk5.jpg
 name: Pig Punk
+platform: BNB
+platform_contract: '0xa79dac628c5e5f86f5e8d15e8421b5558543b59d'

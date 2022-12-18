@@ -5,3 +5,5 @@ id_nomics: ALMX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALMX.jpg
 logoKey: currencies/almx.jpg
 name: Almace Shards
+platform: ETH
+platform_contract: '0x25a3dcabbf0070cb8e5baaa62d576cf6643afb5b'

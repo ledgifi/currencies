@@ -5,3 +5,5 @@ id_nomics: BIGETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIGETH.jpg
 logoKey: currencies/bigeth.jpg
 name: Bigeth
+platform: BNB
+platform_contract: '0x2866e9546be562301046206824ab33283983c6db'

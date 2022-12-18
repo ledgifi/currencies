@@ -3,3 +3,5 @@ fiat: false
 id: ELECTROPUMP
 id_nomics: ELECTROPUMP
 name: ELECTROPUMP
+platform: ETH
+platform_contract: '0x51b763ac5d455d4b7dee41fa8dd87e8ccedd926e'

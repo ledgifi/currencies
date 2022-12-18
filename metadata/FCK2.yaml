@@ -5,3 +5,5 @@ id_nomics: FCK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FCK2.jpeg
 logoKey: currencies/fck2.jpeg
 name: FCKcoin
+platform: BNB
+platform_contract: '0x7B06AECDd6511ae7aB8e5ABA9345bf0bd9B19daD'

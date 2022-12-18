@@ -5,3 +5,5 @@ id_nomics: MPLUTO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MPLUTO.png
 logoKey: currencies/mpluto.png
 name: Meta Pluto
+platform: BNB
+platform_contract: '0xe45f0ce94e716d653b1776ed49f4ffffb3ac6ee3'

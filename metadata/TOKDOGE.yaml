@@ -3,3 +3,5 @@ fiat: false
 id: TOKDOGE
 id_nomics: TOKDOGE
 name: TokDoge
+platform: BNB
+platform_contract: '0x89db2ee468f83c8d2dabc3211581b28a573c1d59'

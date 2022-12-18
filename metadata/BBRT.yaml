@@ -5,3 +5,5 @@ id_nomics: BBRT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBRT.png
 logoKey: currencies/bbrt.png
 name: Blockbank
+platform: ETH
+platform_contract: '0xa897303e3f1ec585aa0816d1527f9025a37a5905'

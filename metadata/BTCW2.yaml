@@ -5,3 +5,5 @@ id_nomics: BTCW2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCW2.webp
 logoKey: currencies/btcw2.webp
 name: Bitcowins
+platform: BNB
+platform_contract: '0x7e644f0c69f1bf226300311b9e3195f8a5440706'

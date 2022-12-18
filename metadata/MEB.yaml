@@ -6,3 +6,5 @@ id_nomics: MEB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEB.jpg
 logoKey: currencies/meb.jpg
 name: Meblox Protocol
+platform: BNB
+platform_contract: '0x7268b479eb7ce8d1b37ef1ffc3b82d7383a1162d'

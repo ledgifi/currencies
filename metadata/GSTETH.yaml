@@ -5,3 +5,5 @@ id_nomics: GSTETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GSTETH.svg
 logoKey: currencies/gsteth.svg
 name: Green Satoshi Token on ETH
+platform: ETH
+platform_contract: '0x473037de59cf9484632f4a27b509cfe8d4a31404'

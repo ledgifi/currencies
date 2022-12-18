@@ -5,3 +5,5 @@ id_nomics: DOS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOS3.jpeg
 logoKey: currencies/dos3.jpeg
 name: Dad Of Safemoon
+platform: BNB
+platform_contract: '0x15d63e78aef2cbadba0ef1c7e45d254cc6251faf'

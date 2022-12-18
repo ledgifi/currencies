@@ -5,3 +5,5 @@ id_nomics: CYFMBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CYFMBEP20.png
 logoKey: currencies/cyfmbep20.png
 name: CyberFM Radio
+platform: BNB
+platform_contract: '0x9001fd53504f7bf253296cffadf5b6030cd61abb'

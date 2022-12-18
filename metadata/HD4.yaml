@@ -5,3 +5,5 @@ id_nomics: HD4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HD4.png
 logoKey: currencies/hd4.png
 name: Humility Doge
+platform: BNB
+platform_contract: '0x76eadeb2d757355d881c63b1414d14d2d2c26652'

@@ -5,3 +5,5 @@ id_nomics: SHIBAMURA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBAMURA.jpeg
 logoKey: currencies/shibamura.jpeg
 name: SHIBAMURA
+platform: BNB
+platform_contract: '0xddf0ab7ea1833c362904bf7aafe11a3057fba21e'

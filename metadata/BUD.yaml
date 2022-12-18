@@ -6,3 +6,5 @@ id_nomics: BUD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bud.jpg
 logoKey: currencies/bud.jpg
 name: Buddy
+platform: ETH
+platform_contract: '0x57652fc91f522f9eff0b38cdf1d51f5fb5764215'

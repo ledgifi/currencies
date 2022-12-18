@@ -6,3 +6,5 @@ id_nomics: CSM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/csm.jpg
 logoKey: currencies/csm.jpg
 name: Consentium
+platform: ETH
+platform_contract: '0xd8698a985b89650d0a70f99ad2909bd0c0b4b51c'

@@ -3,3 +3,5 @@ fiat: false
 id: PLUSHT10
 id_nomics: PLUSHT10
 name: AntiMatter.Finance HT Perpetual Call Option Floor 10 HUSD Cap 30 HUSD
+platform: HT
+platform_contract: '0x8ae16faf06d937efa56b3b401cc633ffc949bffb'

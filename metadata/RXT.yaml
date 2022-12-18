@@ -5,3 +5,5 @@ id_nomics: RXT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RXT.png
 logoKey: currencies/rxt.png
 name: RIMAUNANGIS
+platform: BNB
+platform_contract: '0x8d1427a32f0a4c4bf052252e68e7ff1b2ba80c01'

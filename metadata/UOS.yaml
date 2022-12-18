@@ -6,3 +6,5 @@ id_nomics: UOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UOS.png
 logoKey: currencies/uos.png
 name: Ultra
+platform: ETH
+platform_contract: '0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c'

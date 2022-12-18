@@ -5,3 +5,5 @@ id_nomics: BABY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABY2.png
 logoKey: currencies/baby2.png
 name: BabySwap Token
+platform: BNB
+platform_contract: '0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657'

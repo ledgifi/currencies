@@ -6,3 +6,5 @@ id_nomics: LDP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LDP.png
 logoKey: currencies/ldp.png
 name: LDXPAY
+platform: BNB
+platform_contract: '0xd8cd64429ca8f55a0257014b6a04bd685fc4a623'

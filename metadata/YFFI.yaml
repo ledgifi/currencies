@@ -6,3 +6,5 @@ id_nomics: YFFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFFI.jpg
 logoKey: currencies/yffi.jpg
 name: yffi finance
+platform: ETH
+platform_contract: '0xcee1d3c3a02267e37e6b373060f79d5d7b9e1669'

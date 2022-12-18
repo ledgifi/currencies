@@ -5,3 +5,5 @@ id_nomics: CONTENT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/content.png
 logoKey: currencies/content.png
 name: Contents Protocol
+platform: ETH
+platform_contract: '0x9b62513c8a27290cf6a7a9e29386e600245ea819'

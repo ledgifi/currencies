@@ -5,3 +5,5 @@ id_nomics: DTNG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DTNG.jpg
 logoKey: currencies/dtng.jpg
 name: Dating Token
+platform: BNB
+platform_contract: '0x28337d750194c17769bf31324512Ca4E217174Fa'

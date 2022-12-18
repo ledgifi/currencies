@@ -6,3 +6,5 @@ id_nomics: BUIDL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUIDL.jpg
 logoKey: currencies/buidl.jpg
 name: DFOhub
+platform: ETH
+platform_contract: '0x7b123f53421b1bf8533339bfbdc7c98aa94163db'

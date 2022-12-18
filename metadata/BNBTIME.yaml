@@ -3,3 +3,5 @@ fiat: false
 id: BNBTIME
 id_nomics: BNBTIME
 name: BNBtime
+platform: BNB
+platform_contract: '0x5babea16367d39fce526f83ffd7a76b226d67602'

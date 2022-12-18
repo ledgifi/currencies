@@ -6,3 +6,5 @@ id_nomics: CFXT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CFXT.jpg
 logoKey: currencies/cfxt.jpg
 name: Chainflix
+platform: ETH
+platform_contract: '0x368bf9f1a1ca767935e39f20439d9041707e2634'

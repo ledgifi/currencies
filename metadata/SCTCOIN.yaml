@@ -3,3 +3,5 @@ fiat: false
 id: SCTCOIN
 id_nomics: SCTCOIN
 name: SCT Token
+platform: ETH
+platform_contract: '0x2df43e6826cf24bb844cc78611b0036eea3671b4'

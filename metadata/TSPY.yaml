@@ -3,3 +3,5 @@ fiat: false
 id: TSPY
 id_nomics: TSPY
 name: Test Smarty Pay
+platform: BNB
+platform_contract: '0xcf3bd734ee54417285593422eef6fea0eb4552a4'

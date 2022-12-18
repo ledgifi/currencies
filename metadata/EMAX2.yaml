@@ -5,3 +5,5 @@ id_nomics: EMAX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EMAX2.jpg
 logoKey: currencies/emax2.jpg
 name: EthereumMax 2
+platform: ETH
+platform_contract: '0xa3e059c0b01f07f211c85bf7b4f1d907afb011df'

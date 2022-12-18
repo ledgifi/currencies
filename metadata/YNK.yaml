@@ -6,3 +6,5 @@ id_nomics: YNK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YNK.jpg
 logoKey: currencies/ynk.jpg
 name: Yoink
+platform: ETH
+platform_contract: '0x87c00817abe35ed4c093e59043fae488238d2f74'

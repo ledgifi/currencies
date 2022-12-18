@@ -6,3 +6,5 @@ id_nomics: CELL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CELL.jpeg
 logoKey: currencies/cell.jpeg
 name: Cellframe
+platform: ETH
+platform_contract: '0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099'

@@ -5,3 +5,5 @@ id_nomics: GW3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GW3.jpg
 logoKey: currencies/gw3.jpg
 name: GW
+platform: ETH
+platform_contract: '0x4be9fc99bd4102c6ddc68a1002af21852761b298'

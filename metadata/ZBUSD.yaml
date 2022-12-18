@@ -3,3 +3,5 @@ fiat: false
 id: ZBUSD
 id_nomics: ZBUSD
 name: ZBUSD Token
+platform: BNB
+platform_contract: '0x9226fbbd50f5c06569a156011b0a05dbda014ea4'

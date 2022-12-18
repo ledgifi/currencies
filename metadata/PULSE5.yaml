@@ -5,3 +5,5 @@ id_nomics: PULSE5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PULSE5.jpg
 logoKey: currencies/pulse5.jpg
 name: PulseNet
+platform: ETH
+platform_contract: '0xf648894Bc56872Ec09ce7F4689efab744c01f2ee'

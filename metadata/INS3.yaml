@@ -5,3 +5,5 @@ id_nomics: INS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INS3.jpg
 logoKey: currencies/ins3.jpg
 name: INS3
+platform: BNB
+platform_contract: '0x171928f3add0317dd3ed38649ce7cf37433078df'

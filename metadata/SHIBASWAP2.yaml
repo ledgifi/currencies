@@ -3,3 +3,5 @@ fiat: false
 id: SHIBASWAP2
 id_nomics: SHIBASWAP2
 name: SHIBASWAP
+platform: ETH
+platform_contract: '0x829000be100853a5c14efbbb5bc33e32833ae966'

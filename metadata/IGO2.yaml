@@ -5,3 +5,5 @@ id_nomics: IGO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IGO2.jpeg
 logoKey: currencies/igo2.jpeg
 name: IGOCOIN
+platform: BNB
+platform_contract: '0x7f483b96cfcf0cc89d98e8215a36190eeeafa1cc'

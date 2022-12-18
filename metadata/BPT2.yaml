@@ -5,3 +5,5 @@ id_nomics: BPT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BPT2.png
 logoKey: currencies/bpt2.png
 name: BlockPool Token
+platform: ETH
+platform_contract: '0x8605d3cc9bc5b98be240445824f216a1bc659533'

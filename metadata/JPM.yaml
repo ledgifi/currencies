@@ -6,3 +6,5 @@ id_nomics: JPM
 logo: https://static.coinpaprika.com/coin/jpm-jpmorgan-chase/logo.png
 logoKey: currencies/jpm.png
 name: JPMorgan Chase
+platform: ETH
+platform_contract: '0x25b74fb57db11e27367b2f972032f072ea40ea70'

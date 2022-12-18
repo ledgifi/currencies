@@ -6,3 +6,5 @@ id_nomics: CERES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CERES.png
 logoKey: currencies/ceres.png
 name: Ceres
+platform: ETH
+platform_contract: '0x2e7b0d4f9b2eaf782ed3d160e3a0a4b1a7930ada'

@@ -3,3 +3,5 @@ fiat: false
 id: DMCDEV
 id_nomics: DMCDEV
 name: Decentralized Mining Coin Dev
+platform: HT
+platform_contract: '0x8ebe9ff068d5d74a666f72a0ab832d5b1668ada3'

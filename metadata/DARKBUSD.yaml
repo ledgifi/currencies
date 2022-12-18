@@ -3,3 +3,5 @@ fiat: false
 id: DARKBUSD
 id_nomics: DARKBUSD
 name: DarkBUSD
+platform: BNB
+platform_contract: '0x12fa2ea9ba7eae030f1f1adf9965689b9a45efdb'

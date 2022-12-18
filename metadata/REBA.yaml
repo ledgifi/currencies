@@ -5,3 +5,5 @@ id_nomics: REBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REBA.png
 logoKey: currencies/reba.png
 name: Real.Bitcoinauto
+platform: BNB
+platform_contract: '0xb61e0654d8b3e6f93b79de8f1983b45ebc27c3cf'

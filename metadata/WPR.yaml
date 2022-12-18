@@ -8,3 +8,5 @@ id_nomics: WPR
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/wpr.svg
 logoKey: currencies/wpr.svg
 name: WePower
+platform: ETH
+platform_contract: '0x4cf488387f035ff08c371515562cba712f9015d4'

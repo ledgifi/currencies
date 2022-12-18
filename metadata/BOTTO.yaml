@@ -6,3 +6,5 @@ id_nomics: BOTTO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOTTO.jpg
 logoKey: currencies/botto.jpg
 name: Botto
+platform: ETH
+platform_contract: '0x9dfad1b7102d46b1b197b90095b5c4e9f5845bba'

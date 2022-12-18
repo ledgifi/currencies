@@ -6,3 +6,5 @@ id_nomics: KIN
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/kin.svg
 logoKey: currencies/kin.svg
 name: Kin
+platform: ETH
+platform_contract: '0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5'

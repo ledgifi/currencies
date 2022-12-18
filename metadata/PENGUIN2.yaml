@@ -5,3 +5,5 @@ id_nomics: PENGUIN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PENGUIN2.jpg
 logoKey: currencies/penguin2.jpg
 name: Penguin Coin
+platform: BNB
+platform_contract: '0xbe2e3804792d74075ce5e1b60e41e3083f3aafb5'

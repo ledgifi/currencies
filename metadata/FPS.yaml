@@ -5,3 +5,5 @@ id_nomics: FPS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FPS.jpg
 logoKey: currencies/fps.jpg
 name: FPS Token
+platform: BNB
+platform_contract: '0x213503534d927424a5cdf6d580e9fd408be9337a'

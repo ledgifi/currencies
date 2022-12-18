@@ -5,3 +5,5 @@ id_nomics: CITEXTOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CITEXTOKEN.png
 logoKey: currencies/citextoken.png
 name: CitexToken
+platform: ETH
+platform_contract: '0x13c2b7f851e756415cf7d51d04dcf4f94a5b382e'

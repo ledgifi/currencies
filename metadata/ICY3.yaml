@@ -5,3 +5,5 @@ id_nomics: ICY3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICY3.jpg
 logoKey: currencies/icy3.jpg
 name: ICY.MONEY
+platform: AVAX
+platform_contract: '0xe18950c8f3b01f549cfc79dc44c3944fbd43fb76'

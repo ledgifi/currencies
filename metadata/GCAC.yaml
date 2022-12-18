@@ -5,3 +5,5 @@ id_nomics: GCAC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GCAC.jpg
 logoKey: currencies/gcac.jpg
 name: Global Cannabis Applications Corp
+platform: ETH
+platform_contract: '0xc0ba6eee30932c18e6cd19f433fe84186500148a'

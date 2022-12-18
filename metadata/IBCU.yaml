@@ -3,3 +3,5 @@ fiat: false
 id: IBCU
 id_nomics: IBCU
 name: IBCU
+platform: HT
+platform_contract: '0xd5b0b47025f6f11aff019b6f8f254a963bad268a'

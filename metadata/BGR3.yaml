@@ -5,3 +5,5 @@ id_nomics: BGR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BGR3.png
 logoKey: currencies/bgr3.png
 name: Baghaera
+platform: BNB
+platform_contract: '0x397441c58fcc55f0c0f3ede09bed58169fe2bd78'

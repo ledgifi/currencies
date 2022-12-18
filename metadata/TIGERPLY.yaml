@@ -5,3 +5,5 @@ id_nomics: TIGERPLY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIGERPLY.png
 logoKey: currencies/tigerply.png
 name: Tiger Play
+platform: BNB
+platform_contract: '0x5cc6cea637bdc815fbb3fc4acc28da18757930b9'

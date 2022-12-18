@@ -5,3 +5,5 @@ id_nomics: PPP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PPP3.png
 logoKey: currencies/ppp3.png
 name: PariPapaPiripipi
+platform: BNB
+platform_contract: '0xb3770c01976d90a99e4a9288d8a3be28b00a270b'

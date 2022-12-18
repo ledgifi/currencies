@@ -5,3 +5,5 @@ id_nomics: SBT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBT3.jpg
 logoKey: currencies/sbt3.jpg
 name: SnowballLand
+platform: BNB
+platform_contract: '0x23de6d136ae765f256619c57201ff57c25acb565'

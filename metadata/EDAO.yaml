@@ -5,3 +5,5 @@ id_nomics: EDAO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EDAO.png
 logoKey: currencies/edao.png
 name: ElonDoge DAO Token
+platform: BNB
+platform_contract: '0x730cb2ba0f654ddec32470d265555f26fe545eb8'

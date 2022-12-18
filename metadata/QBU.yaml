@@ -6,3 +6,5 @@ id_nomics: QBU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QBU.jpg
 logoKey: currencies/qbu.jpg
 name: Quannabu
+platform: ETH
+platform_contract: '0x44dcf4dc9ec228b7748422c51b6c5c57f5f229ec'

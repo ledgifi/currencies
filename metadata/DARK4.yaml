@@ -3,3 +3,5 @@ fiat: false
 id: DARK4
 id_nomics: DARK4
 name: DarkPay
+platform: ETH
+platform_contract: '0x7d7587513e4674e93be5cb18d7ea6b905abd1bbc'

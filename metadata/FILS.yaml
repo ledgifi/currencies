@@ -3,3 +3,5 @@ fiat: false
 id: FILS
 id_nomics: FILS
 name: filescoin
+platform: BNB
+platform_contract: '0x09633e13f0e61c2cc199467bf13fefa6fa2df571'

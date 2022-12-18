@@ -3,3 +3,5 @@ fiat: false
 id: COZY
 id_nomics: COZY
 name: CozyCoin
+platform: BNB
+platform_contract: '0x8ea938186f31469ee39a4900fcef800361caa525'

@@ -5,3 +5,5 @@ id_nomics: NAM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NAM.png
 logoKey: currencies/nam.png
 name: Namacoin
+platform: ETH
+platform_contract: '0x87810854c3dda6e4a668ac953ed9143a085ad5f1'

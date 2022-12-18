@@ -5,3 +5,5 @@ id_nomics: KEF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KEF.jpg
 logoKey: currencies/kef.jpg
 name: Keep Safe Finance
+platform: BNB
+platform_contract: '0xCAe905A3ab9304D681C73b32B6fCcBc69C9cEBb1'

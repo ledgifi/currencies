@@ -6,3 +6,5 @@ id_nomics: BPM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BPM.png
 logoKey: currencies/bpm.png
 name: Baby Pokemoon
+platform: BNB
+platform_contract: '0x35359f21abdf0f2b6ae01bfb96814738b515111e'

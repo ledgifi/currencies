@@ -5,3 +5,5 @@ id_nomics: BRLU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRLU.jpg
 logoKey: currencies/brlu.jpg
 name: Upper Real
+platform: ETH
+platform_contract: '0x55e2a029ddf57d2a1474b2abc533f16be2b9f75e'

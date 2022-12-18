@@ -6,3 +6,5 @@ id_nomics: SMSCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMSCT.jpg
 logoKey: currencies/smsct.jpg
 name: SMSCodes
+platform: ETH
+platform_contract: '0x668f7dfb8c8d716839fa5dbea317d8723ebe6110'

@@ -5,3 +5,5 @@ id_nomics: LICO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LICO.png
 logoKey: currencies/lico.png
 name: Liquid Collectibles
+platform: BNB
+platform_contract: '0x4f3266a56589357b4f8082918b14b923693e57f0'

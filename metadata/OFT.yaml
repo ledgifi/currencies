@@ -6,3 +6,5 @@ id_nomics: OFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OFT.jpg
 logoKey: currencies/oft.jpg
 name: Orient
+platform: ETH
+platform_contract: '0xc0a25a24cce412e2fb407c08e3785437fee9ad1d'

@@ -6,3 +6,5 @@ id_nomics: CHECK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHECK.jpg
 logoKey: currencies/check.jpg
 name: Paycheck Defi
+platform: BNB
+platform_contract: '0x0f17771ccf1b990dbe2a6d7f61183c9b29997e36'

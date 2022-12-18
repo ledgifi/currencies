@@ -6,3 +6,5 @@ id_nomics: MOMENTO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOMENTO.jpg
 logoKey: currencies/momento.jpg
 name: Momento
+platform: ETH
+platform_contract: '0x0ae8b74cd2d566853715800c9927f879d6b76a37'

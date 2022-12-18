@@ -5,3 +5,5 @@ id_nomics: ONE2BEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ONE2BEP20.png
 logoKey: currencies/one2bep20.png
 name: BigONE (BEP-20)
+platform: BNB
+platform_contract: '0x04baf95fd4c52fd09a56d840baee0ab8d7357bf0'

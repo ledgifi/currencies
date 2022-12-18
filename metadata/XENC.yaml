@@ -5,3 +5,5 @@ id_nomics: XENC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XENC.jpg
 logoKey: currencies/xenc.jpg
 name: xenchain
+platform: ETH
+platform_contract: '0x4cfe597e2922790353a093a1de4f6b47a4bb3f44'

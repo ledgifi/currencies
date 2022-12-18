@@ -5,3 +5,5 @@ id_nomics: NIO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/nio.svg
 logoKey: currencies/nio2.svg
 name: Autonio
+platform: ETH
+platform_contract: '0xc813EA5e3b48BEbeedb796ab42A30C5599b01740'

@@ -5,3 +5,5 @@ id_nomics: CRD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRD.png
 logoKey: currencies/crd.png
 name: CRD Network
+platform: ETH
+platform_contract: '0xcaaa93712bdac37f736c323c93d4d5fdefcc31cc'

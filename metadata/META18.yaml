@@ -5,3 +5,5 @@ id_nomics: META18
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/META18.jpg
 logoKey: currencies/meta18.jpg
 name: MetaCash
+platform: BNB
+platform_contract: '0x2e42c9eac96833c6e16dc71c743cecc114ccd7e3'

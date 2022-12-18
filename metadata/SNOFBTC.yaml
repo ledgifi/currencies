@@ -5,3 +5,5 @@ id_nomics: SNOFBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNOFBTC.jpeg
 logoKey: currencies/snofbtc.jpeg
 name: SonOfBTC
+platform: BNB
+platform_contract: '0xD52FAE4cCB1FE28293e49CAaa41Fa2cF10d3E7D6'

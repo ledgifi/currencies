@@ -6,3 +6,5 @@ id_nomics: PSP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PSP.jpg
 logoKey: currencies/psp.jpg
 name: ParaSwap
+platform: ETH
+platform_contract: '0xcafe001067cdef266afb7eb5a286dcfd277f3de5'

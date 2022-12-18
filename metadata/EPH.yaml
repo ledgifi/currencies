@@ -5,3 +5,5 @@ id_nomics: EPH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EPH.png
 logoKey: currencies/eph.png
 name: Euphoria
+platform: ETH
+platform_contract: '0x875089a734213ca39f0d93c2bbb8209827ec5e9f'

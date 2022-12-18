@@ -5,3 +5,5 @@ id_nomics: GOUDA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOUDA.jpg
 logoKey: currencies/gouda.jpg
 name: CowSwap Token
+platform: BNB
+platform_contract: '0x14b06bf2c5b0afd259c47c4be39cb9368ef0be3f'

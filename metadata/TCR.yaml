@@ -5,3 +5,5 @@ id_nomics: TCR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCR.jpg
 logoKey: currencies/tcr.jpg
 name: TecraCoin
+platform: ETH
+platform_contract: '0xe38b72d6595fd3885d1d2f770aa23e94757f91a1'

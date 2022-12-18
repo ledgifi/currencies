@@ -6,3 +6,5 @@ id_nomics: WISH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WISH.jpg
 logoKey: currencies/wish.jpg
 name: MyWish
+platform: ETH
+platform_contract: '0x1b22c32cd936cb97c28c5690a0695a82abf688e6'

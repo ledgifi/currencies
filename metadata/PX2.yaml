@@ -5,3 +5,5 @@ id_nomics: PX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PX2.jpeg
 logoKey: currencies/px2.jpeg
 name: Apax
+platform: BNB
+platform_contract: '0x11d89f3f6c9fa90e3a82e7c893bf22a63d16e489'

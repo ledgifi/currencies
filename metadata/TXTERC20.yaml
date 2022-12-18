@@ -5,3 +5,5 @@ id_nomics: TXTERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TXTERC20.jpg
 logoKey: currencies/txterc20.jpg
 name: TXT (ERC-20)
+platform: ETH
+platform_contract: '0xb12907dcd65e09871bbd6f1659436f3be310af65'

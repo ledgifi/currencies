@@ -5,3 +5,5 @@ id_nomics: QT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QT.png
 logoKey: currencies/qt.png
 name: QT
+platform: ETH
+platform_contract: '0xb64c90fe1d053bc59fb0db09d5061a8c1f0fbe30'

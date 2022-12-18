@@ -5,3 +5,5 @@ id_nomics: FROZEN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FROZEN2.jpg
 logoKey: currencies/frozen2.jpg
 name: FrozenCake
+platform: BNB
+platform_contract: '0xe7a8e7d7729859ea6eedbd4d67f8c97a22b11435'

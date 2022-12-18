@@ -6,3 +6,5 @@ id_nomics: PDOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PDOX.jpg
 logoKey: currencies/pdox.jpg
 name: Paradox
+platform: BNB
+platform_contract: '0x9358a2c091444b5a319c4b966dcecb561ae9f2d9'

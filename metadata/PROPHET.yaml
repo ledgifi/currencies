@@ -6,3 +6,5 @@ id_nomics: PROPHET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PROPHET.jpg
 logoKey: currencies/prophet.jpg
 name: Prophet
+platform: ETH
+platform_contract: '0x8d5db0c1f0681071cb38a382ae6704588d9da587'

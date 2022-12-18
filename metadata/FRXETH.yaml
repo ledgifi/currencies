@@ -3,3 +3,5 @@ fiat: false
 id: FRXETH
 id_nomics: FRXETH
 name: Frax Ether
+platform: ETH
+platform_contract: '0x5e8422345238f34275888049021821e8e08caa1f'

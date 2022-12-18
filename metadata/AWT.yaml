@@ -6,3 +6,5 @@ id_nomics: AWT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AWT.jpg
 logoKey: currencies/awt.jpg
 name: Airdrop World
+platform: BNB
+platform_contract: '0x10e73d296fb247dc6c5f134b7dc2aa3583a9e3b0'

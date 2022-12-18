@@ -5,3 +5,5 @@ id_nomics: LITE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LITE3.jpg
 logoKey: currencies/lite3.jpg
 name: LiteUSD
+platform: BNB
+platform_contract: '0x3ef3f6cf9f867a33c4109208a6bd043a9ef0e091'

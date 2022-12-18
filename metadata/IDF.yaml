@@ -3,3 +3,5 @@ fiat: false
 id: IDF
 id_nomics: IDF
 name: InDeFi on BSC
+platform: BNB
+platform_contract: '0x8e0220d425cd65e29200670cfbba27048f7933b5'

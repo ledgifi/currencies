@@ -5,3 +5,5 @@ id_nomics: RYUJI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RYUJI.png
 logoKey: currencies/ryuji.png
 name: Ryuji Inu
+platform: BNB
+platform_contract: '0x279dc2a2700c192A817Cb8DFadA3c02a7BA8a337'

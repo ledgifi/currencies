@@ -5,3 +5,5 @@ id_nomics: TROBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TROBEP20.jpg
 logoKey: currencies/trobep20.jpg
 name: Trodl (BEP-20)
+platform: BNB
+platform_contract: '0xce3b0d4e4e4285e55c0bfb294112caf19682eb8a'

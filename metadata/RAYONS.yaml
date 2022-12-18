@@ -6,3 +6,5 @@ id_nomics: RAYONS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAYONS.jpg
 logoKey: currencies/rayons.jpg
 name: Rayons Energy
+platform: BNB
+platform_contract: '0x81b24bd68791f970dbe0cff281445e3486866b4c'

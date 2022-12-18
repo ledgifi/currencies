@@ -5,3 +5,5 @@ id_nomics: ZRT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZRT2.jpg
 logoKey: currencies/zrt2.jpg
 name: ZRUST
+platform: BNB
+platform_contract: '0x67acfd5431818a04a5582736f3899e2a616a5f99'

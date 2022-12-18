@@ -5,3 +5,5 @@ id_nomics: YON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YON.jpg
 logoKey: currencies/yon.jpg
 name: YONIEX
+platform: ETH
+platform_contract: '0x41be2a220daecec12829839e8bb576275663b7ce'

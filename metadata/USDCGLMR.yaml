@@ -5,3 +5,5 @@ id_nomics: USDCGLMR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDCGLMR.png
 logoKey: currencies/usdcglmr.png
 name: USD Coin (Moonbeam)
+platform: GLMR
+platform_contract: '0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b'

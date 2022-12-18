@@ -6,3 +6,5 @@ id_nomics: TRGI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRGI.jpg
 logoKey: currencies/trgi.jpg
 name: The Real Golden Inu
+platform: BNB
+platform_contract: '0xb5db7640182042a150ccdb386291f08f23b77a96'

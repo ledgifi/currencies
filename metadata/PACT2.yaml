@@ -5,3 +5,5 @@ id_nomics: PACT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PACT2.jpg
 logoKey: currencies/pact2.jpg
 name: PactSwap
+platform: ETH
+platform_contract: '0x66e7ce35578a37209d01f99f3d2ff271f981f581'

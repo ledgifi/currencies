@@ -3,3 +3,5 @@ fiat: false
 id: MF
 id_nomics: MF
 name: MoonFarm
+platform: ETH
+platform_contract: '0xb1421859552c810c53dc4c148ceaa8a54eae6ef6'

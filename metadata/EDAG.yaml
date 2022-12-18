@@ -5,3 +5,5 @@ id_nomics: EDAG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EDAG.jpg
 logoKey: currencies/edag.jpg
 name: EDAG
+platform: ETH
+platform_contract: '0x79da70814b5854a59e772aeb36a3e9898f1311b4'

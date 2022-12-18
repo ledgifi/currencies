@@ -5,3 +5,5 @@ id_nomics: CRP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRP3.jpg
 logoKey: currencies/crp3.jpg
 name: Cross Finance
+platform: BNB
+platform_contract: '0x1ad8d89074afa789a027b9a31d0bd14e254711d0'

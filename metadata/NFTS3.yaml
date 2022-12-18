@@ -5,3 +5,5 @@ id_nomics: NFTS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTS3.jpg
 logoKey: currencies/nfts3.jpg
 name: NFTSystem
+platform: BNB
+platform_contract: '0x5b24cbce11a5511a3d7084b1256d32d307a241dd'

@@ -5,3 +5,5 @@ id_nomics: ICONS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICONS.jpg
 logoKey: currencies/icons.jpg
 name: SportsIcon
+platform: ETH
+platform_contract: '0x3f68e7b44e9bcb486c2feadb7a2289d9cdfc9088'

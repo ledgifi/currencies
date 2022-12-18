@@ -5,3 +5,5 @@ id_nomics: ONEMCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ONEMCX.jpg
 logoKey: currencies/onemcx.jpg
 name: 1Life Healthcare, Inc. Token
+platform: ETH
+platform_contract: '0x56f71ce60b10192901e97f281d2f230eb5ab27aa'

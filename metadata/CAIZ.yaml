@@ -5,3 +5,5 @@ id_nomics: CAIZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAIZ.jpg
 logoKey: currencies/caiz.jpg
 name: CAIZCOIN
+platform: ETH
+platform_contract: '0xaebbd7b2eb03f84126f6849753b809755d7532f9'

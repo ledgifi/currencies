@@ -5,3 +5,5 @@ id_nomics: FLYBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLYBEP20.jpg
 logoKey: currencies/flybep20.jpg
 name: Franklin (BEP-20)
+platform: BNB
+platform_contract: '0x681fd3e49a6188fc526784ee70aa1c269ee2b887'

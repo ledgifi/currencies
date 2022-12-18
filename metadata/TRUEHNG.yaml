@@ -5,3 +5,5 @@ id_nomics: TRUEHNG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRUEHNG.jpeg
 logoKey: currencies/truehng.jpeg
 name: TRUEHN GOLD
+platform: MATIC
+platform_contract: '0x1c037a9fca50668b828905c954cabcbcf89a74d3'

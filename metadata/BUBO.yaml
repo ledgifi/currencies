@@ -6,3 +6,5 @@ id_nomics: BUBO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bubo.jpg
 logoKey: currencies/bubo.jpg
 name: Budbo
+platform: ETH
+platform_contract: '0xccbf21ba6ef00802ab06637896b799f7101f54a2'

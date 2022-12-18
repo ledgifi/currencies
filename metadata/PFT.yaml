@@ -3,3 +3,5 @@ fiat: false
 id: PFT
 id_nomics: PFT
 name: Photon Flow
+platform: ETH
+platform_contract: '0x2982ebea276e044c93be5bb1806f1f4ebc88a47a'

@@ -5,3 +5,5 @@ id_nomics: PXBSC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PXBSC.png
 logoKey: currencies/pxbsc.png
 name: Paradox NFT
+platform: BNB
+platform_contract: '0xa4cfe5ea184a9a8bb2bb8377a378606a36ddea80'

@@ -3,3 +3,5 @@ fiat: false
 id: ENDCEX
 id_nomics: ENDCEX
 name: Endpoint Cex Fan Token
+platform: CHZ
+platform_contract: '0xe509da178999fa04fa9de0094c274bdb53816ede'

@@ -3,3 +3,5 @@ fiat: false
 id: WROSE
 id_nomics: WROSE
 name: Wrapped ROSE (Wormhole)
+platform: BNB
+platform_contract: '0x7de61b4a5eff7ddc7d249971f0b9f60727ca2bb8'

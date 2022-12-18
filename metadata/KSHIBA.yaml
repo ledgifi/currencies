@@ -6,3 +6,5 @@ id_nomics: KSHIBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KSHIBA.png
 logoKey: currencies/kshiba.png
 name: Kawai Shiba
+platform: BNB
+platform_contract: '0x0a24646623a95248e6d9c153f2be6fef4b78d00d'

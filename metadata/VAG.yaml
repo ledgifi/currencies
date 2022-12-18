@@ -3,3 +3,5 @@ fiat: false
 id: VAG
 id_nomics: VAG
 name: VagCoin
+platform: ETH
+platform_contract: '0x59a3b625ee9f31dbc9a5f45b63047237d4c87d46'

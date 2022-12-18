@@ -5,3 +5,5 @@ id_nomics: AURO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AURO2.jpg
 logoKey: currencies/auro2.jpg
 name: AURO V2
+platform: BNB
+platform_contract: '0x3d398362a8eaa1a070918899993e07eda1ba9d93'

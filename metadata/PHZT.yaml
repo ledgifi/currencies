@@ -5,3 +5,5 @@ id_nomics: PHZT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PHZT.jpg
 logoKey: currencies/phzt.jpg
 name: PHEEZEZ Token
+platform: ETH
+platform_contract: '0x8296bced40ba067a1de30aeb5a294258c16a0473'

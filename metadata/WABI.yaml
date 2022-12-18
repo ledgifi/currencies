@@ -7,3 +7,5 @@ id_nomics: WABI
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/wabi.svg
 logoKey: currencies/wabi.svg
 name: Tael
+platform: ETH
+platform_contract: '0x286bda1413a2df81731d4930ce2f862a35a609fe'

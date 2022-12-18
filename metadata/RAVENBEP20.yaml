@@ -5,3 +5,5 @@ id_nomics: RAVENBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAVENBEP20.jpg
 logoKey: currencies/ravenbep20.jpg
 name: Raven Protocol (BEP-20)
+platform: BNB
+platform_contract: '0xcd7c5025753a49f1881b31c48caa7c517bb46308'

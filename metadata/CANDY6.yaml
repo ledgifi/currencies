@@ -5,3 +5,5 @@ id_nomics: CANDY6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CANDY6.jpeg
 logoKey: currencies/candy6.jpeg
 name: Candy Finance Fantom
+platform: FTM
+platform_contract: '0x1cb12cfeefc417a8a0d99b31d738e4c2c07691b1'

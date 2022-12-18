@@ -5,3 +5,5 @@ id_nomics: WHNS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HNS.jpg
 logoKey: currencies/whns.jpg
 name: Wrapped Handshake
+platform: ETH
+platform_contract: '0xa771b49064da011df051052848477f18dba1d2ac'

@@ -3,3 +3,5 @@ fiat: false
 id: ANGELNODE
 id_nomics: ANGELNODE
 name: Angel Node
+platform: AVAX
+platform_contract: '0x05af3a9ea35c411fe76574586edb5fdb4e439593'

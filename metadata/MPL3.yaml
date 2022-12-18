@@ -5,3 +5,5 @@ id_nomics: MPL3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MPL3.jpg
 logoKey: currencies/mpl3.jpg
 name: MetaPlanet
+platform: BNB
+platform_contract: '0xba007b6170c602c08545ff97395677408688d3a2'

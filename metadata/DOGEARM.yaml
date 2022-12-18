@@ -5,3 +5,5 @@ id_nomics: DOGEARM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEARM.jpeg
 logoKey: currencies/dogearm.jpeg
 name: DOGEARM
+platform: BNB
+platform_contract: '0x39923c4edf7ce91f44285dccd7c217fdd077369b'

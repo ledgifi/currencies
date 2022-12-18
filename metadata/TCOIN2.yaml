@@ -3,3 +3,5 @@ fiat: false
 id: TCOIN2
 id_nomics: TCOIN2
 name: Corona Time Coins
+platform: ETH
+platform_contract: '0x86b9d8b2491cd816b1b26ad2afc5c267126c0c34'

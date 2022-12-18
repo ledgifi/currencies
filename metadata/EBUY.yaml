@@ -5,3 +5,5 @@ id_nomics: EBUY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EBUY.jpg
 logoKey: currencies/ebuy.jpg
 name: Ebuy Finance
+platform: BNB
+platform_contract: '0xccd5c2128190b6a9bdf0e9fd80cbebf9b7d4c9d5'

@@ -5,3 +5,5 @@ id_nomics: GLX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GLX3.jpg
 logoKey: currencies/glx3.jpg
 name: Galaxer
+platform: ETH
+platform_contract: '0x75d0fb8db2f6485fdfe6ff58321e91effae759a8'

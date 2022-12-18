@@ -5,3 +5,5 @@ id_nomics: SET4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SET4.jpg
 logoKey: currencies/set4.jpg
 name: Stabilize Token
+platform: AVAX
+platform_contract: '0x37d87e316cb4e35163881fdb6c6bc0cdba91dc0a'

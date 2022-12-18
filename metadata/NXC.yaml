@@ -6,3 +6,5 @@ id_nomics: NXC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/nxc.png
 logoKey: currencies/nxc.png
 name: Nexium
+platform: ETH
+platform_contract: '0x45e42d659d9f9466cd5df622506033145a9b89bc'

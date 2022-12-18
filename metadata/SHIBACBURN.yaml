@@ -3,3 +3,5 @@ fiat: false
 id: SHIBACBURN
 id_nomics: SHIBACBURN
 name: Shiba Classic Burn
+platform: ETH
+platform_contract: '0x502a126876fccac88f2edf18ec17d7cfdb918894'

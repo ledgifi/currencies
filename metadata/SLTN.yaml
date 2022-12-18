@@ -6,3 +6,5 @@ id_nomics: SLTN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLTN.jpg
 logoKey: currencies/sltn.jpg
 name: Skylight
+platform: BNB
+platform_contract: '0x069d4401ac10e171f0d276a93b16dcd38ca6ba55'

@@ -3,3 +3,5 @@ fiat: false
 id: CTRAIN
 id_nomics: CTRAIN
 name: CryptoTrains Token
+platform: BNB
+platform_contract: '0x4770d04b63d6a96188e497f3aa60c074ce5e41b2'

@@ -5,3 +5,5 @@ id_nomics: WAF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAF.jpg
 logoKey: currencies/waf.jpg
 name: Waffle
+platform: BNB
+platform_contract: '0x650febe5ad8a17a8f27f17ec80fd208e23e9246c'

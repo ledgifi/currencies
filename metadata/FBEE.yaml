@@ -5,3 +5,5 @@ id_nomics: FBEE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FBEE.png
 logoKey: currencies/fbee.png
 name: FBEE
+platform: ETH
+platform_contract: '0x3395167319297a0806260e87a329885f20e13da2'

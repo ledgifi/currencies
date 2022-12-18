@@ -3,3 +3,5 @@ fiat: false
 id: BCROM
 id_nomics: BCROM
 name: Baby Cromosom
+platform: CRO
+platform_contract: '0x9b89b6d7af221c41a6a36df9c5a8a201db43aadc'

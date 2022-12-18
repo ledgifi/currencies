@@ -3,3 +3,5 @@ fiat: false
 id: ACOIN2
 id_nomics: ACOIN2
 name: Alchemy
+platform: ETH
+platform_contract: '0xfd25676fc2c4421778b18ec7ab86e7c5701df187'

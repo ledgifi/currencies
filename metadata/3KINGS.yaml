@@ -5,3 +5,5 @@ id_nomics: 3KINGS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/3KINGS.png
 logoKey: currencies/3kings.png
 name: Three Kings
+platform: BNB
+platform_contract: '0x56903ba0a1e9241dbae316a2895742de0fe7196f'

@@ -5,3 +5,5 @@ id_nomics: WCX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WCX2.jpg
 logoKey: currencies/wcx2.jpg
 name: WeCoOwn
+platform: ETH
+platform_contract: '0xc014186cf1ba36032aaec7f96088f09eb3934347'

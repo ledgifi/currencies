@@ -5,3 +5,5 @@ id_nomics: OWN4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OWN4.jpg
 logoKey: currencies/own4.jpg
 name: Ownly
+platform: BNB
+platform_contract: '0x7665cb7b0d01df1c9f9b9cc66019f00abd6959ba'

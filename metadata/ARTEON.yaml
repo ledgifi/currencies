@@ -6,3 +6,5 @@ id_nomics: ARTEON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARTEON.jpg
 logoKey: currencies/arteon.jpg
 name: Arteon
+platform: ETH
+platform_contract: '0x897abf83f0c44b86cb67ec56c006c00d56659517'

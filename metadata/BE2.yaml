@@ -5,3 +5,5 @@ id_nomics: BE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BE2.png
 logoKey: currencies/be2.png
 name: COBE
+platform: BNB
+platform_contract: '0xAd83a59563CCfd913D5129c1c9B6278b63025Dd8'

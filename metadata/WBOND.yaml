@@ -3,3 +3,5 @@ fiat: false
 id: WBOND
 id_nomics: WBOND
 name: War Bond Token
+platform: BNB
+platform_contract: '0xbbef28d912c92225df5ecd183c0246b7118a4c8d'

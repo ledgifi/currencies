@@ -6,3 +6,5 @@ id_nomics: BL3M
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BL3M.jpeg
 logoKey: currencies/bl3m.jpeg
 name: BLU3MOON
+platform: BNB
+platform_contract: '0x48c748bf42e9d4a921983de76a824cc39731f39b'

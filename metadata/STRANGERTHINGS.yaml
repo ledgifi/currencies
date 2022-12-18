@@ -5,3 +5,5 @@ id_nomics: STRANGERTHINGS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STRANGERTHINGS.jpeg
 logoKey: currencies/strangerthings.jpeg
 name: StrangerThings
+platform: BNB
+platform_contract: '0x05c76e868a4cd079034Def0Ac51E8e9f6064d878'

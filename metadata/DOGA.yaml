@@ -6,3 +6,5 @@ id_nomics: DOGA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGA.jpg
 logoKey: currencies/doga.jpg
 name: Dogacoin
+platform: ETH
+platform_contract: '0x7295Df6B5c3338582EFCa8D93e54711B25A3aB6d'

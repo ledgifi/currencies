@@ -5,3 +5,5 @@ id_nomics: ASIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASIC.png
 logoKey: currencies/asic.png
 name: ASIC Token
+platform: ETH
+platform_contract: '0x347a96a5bd06d2e15199b032f46fb724d6c73047'

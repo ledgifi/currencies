@@ -5,3 +5,5 @@ id_nomics: GMXAVAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMXAVAX.jpg
 logoKey: currencies/gmxavax.jpg
 name: GMX (Avalanche)
+platform: AVAX
+platform_contract: '0x62edc0692BD897D2295872a9FFCac5425011c661'

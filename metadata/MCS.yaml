@@ -6,3 +6,5 @@ id_nomics: MCS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCS.png
 logoKey: currencies/mcs.png
 name: Magic Stone Fund
+platform: ETH
+platform_contract: '0x8c5cc09dfc32af3fbe764c5ec9ffada63aada32a'

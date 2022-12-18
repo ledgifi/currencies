@@ -6,3 +6,5 @@ id_nomics: SBY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBY.jpg
 logoKey: currencies/sby.jpg
 name: Shelby Token
+platform: BNB
+platform_contract: '0xc95278cd6e51bc2e1e30cf660e82819d296152d9'

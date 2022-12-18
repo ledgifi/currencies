@@ -5,3 +5,5 @@ id_nomics: RATGUN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RATGUN.jpg
 logoKey: currencies/ratgun.jpg
 name: Rat Gun BSC
+platform: BNB
+platform_contract: '0x3c356abec9d8accf01c0817923959b7eec2502ed'

@@ -6,3 +6,5 @@ id_nomics: AMIO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMIO.jpg
 logoKey: currencies/amio.jpg
 name: Amino Network
+platform: ETH
+platform_contract: '0x2e68dfb3f50ea302c88f8db74096d57565d9970a'

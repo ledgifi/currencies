@@ -5,3 +5,5 @@ id_nomics: DUCK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUCK2.jpg
 logoKey: currencies/duck2.jpg
 name: DLP Duck Token
+platform: ETH
+platform_contract: '0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f'

@@ -3,3 +3,5 @@ fiat: false
 id: FUNGIBLE
 id_nomics: FUNGIBLE
 name: Bored Elon
+platform: ETH
+platform_contract: '0x9b784841cd353589d1d3b359db9c4d238d2be8d3'

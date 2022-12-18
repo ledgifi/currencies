@@ -3,3 +3,5 @@ fiat: false
 id: IPOR
 id_nomics: IPOR
 name: IPOR
+platform: ETH
+platform_contract: '0x1e4746dc744503b53b4a082cb3607b169a289090'

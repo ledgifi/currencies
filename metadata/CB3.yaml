@@ -5,3 +5,5 @@ id_nomics: CB3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CB3.jpg
 logoKey: currencies/cb3.jpg
 name: CryptoBike
+platform: BNB
+platform_contract: '0xf66a8a197d5cb0e2799d79be115208899332a0ba'

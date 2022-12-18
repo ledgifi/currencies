@@ -5,3 +5,5 @@ id_nomics: ACC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/acc.jpg
 logoKey: currencies/acc.jpg
 name: Accelerator
+platform: ETH
+platform_contract: '0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2'

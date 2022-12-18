@@ -5,3 +5,5 @@ id_nomics: SANIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SANIC.jpeg
 logoKey: currencies/sanic.jpeg
 name: Sanic Hegehog
+platform: BNB
+platform_contract: '0xdae16522f6a4f8d0cc9b1b6c14055b9a7fe8ec73'

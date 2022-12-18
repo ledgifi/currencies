@@ -6,3 +6,5 @@ id_nomics: GAME
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/game.svg
 logoKey: currencies/game.svg
 name: GameCredits
+platform: ETH
+platform_contract: '0x63f88a2298a5c4aee3c216aa6d926b184a4b2437'

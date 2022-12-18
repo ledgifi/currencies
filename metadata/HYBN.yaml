@@ -6,3 +6,5 @@ id_nomics: HYBN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HYBN.png
 logoKey: currencies/hybn.png
 name: HEY-BITCOIN
+platform: ETH
+platform_contract: '0x20bcae16a8ba95d8e8363e265de4ecfc36ec5cd9'

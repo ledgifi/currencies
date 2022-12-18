@@ -5,3 +5,5 @@ id_nomics: MTWR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTWR.png
 logoKey: currencies/mtwr.png
 name: MetaWar Token
+platform: BNB
+platform_contract: '0xd9fc762e2d1899aad7233de46ff9a36d034c4ffb'

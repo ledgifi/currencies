@@ -3,3 +3,5 @@ fiat: false
 id: EXOS
 id_nomics: EXOS
 name: EXOS
+platform: BNB
+platform_contract: '0x16b8dba442cc9faa40d0dd53f698087546ccf096'

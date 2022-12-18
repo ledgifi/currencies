@@ -5,3 +5,5 @@ id_nomics: SLASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLASH.jpg
 logoKey: currencies/slash.jpg
 name: Slash Protocol
+platform: ETH
+platform_contract: '0x755e83f560335e6bb8e45e44460ec4af598e24c9'

@@ -5,3 +5,5 @@ id_nomics: MLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MLD.jpg
 logoKey: currencies/mld.jpg
 name: MOLD
+platform: ETH
+platform_contract: '0x52e30201f31283dc5f7928b4198896083f604416'

@@ -6,3 +6,5 @@ id_nomics: KENNEL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KENNEL.jpg
 logoKey: currencies/kennel.jpg
 name: Token Kennel
+platform: BNB
+platform_contract: '0x2c319cde4e46f85f7a1004b9a81d4a52d896e208'

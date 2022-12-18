@@ -5,3 +5,5 @@ id_nomics: RAUX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAUX.jpeg
 logoKey: currencies/raux.jpeg
 name: ErcauX
+platform: ETH
+platform_contract: '0x68496eE825DAFE1cF66D4083f776B9eAAb31e447'

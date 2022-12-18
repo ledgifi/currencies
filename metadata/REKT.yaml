@@ -6,3 +6,5 @@ id_nomics: REKT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REKT.jpg
 logoKey: currencies/rekt.jpg
 name: REKT
+platform: ETH
+platform_contract: '0x2c36316d46a59fad9103dee17f80ae0671a4fe33'

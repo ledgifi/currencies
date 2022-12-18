@@ -3,3 +3,5 @@ fiat: false
 id: PUMPER
 id_nomics: PUMPER
 name: Pump Rocket
+platform: BNB
+platform_contract: '0x210ff1b715a411fbfff83f51b9b2afaf06707065'

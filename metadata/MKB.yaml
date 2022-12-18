@@ -6,3 +6,5 @@ id_nomics: MKB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MKB.jpg
 logoKey: currencies/mkb.jpg
 name: Maker Basic
+platform: BNB
+platform_contract: '0xb75d611a50d52e0bc827cd1579a158914a324351'

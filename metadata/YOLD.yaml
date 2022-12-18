@@ -6,3 +6,5 @@ id_nomics: YOLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YOLD.jpeg
 logoKey: currencies/yold.jpeg
 name: Yellow Dog
+platform: BNB
+platform_contract: '0xf3eb7a1f1f3ab83a414a839c5d5a0cf0b7a28fd0'

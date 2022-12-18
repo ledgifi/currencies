@@ -5,3 +5,5 @@ id_nomics: ICE6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICE6.jpg
 logoKey: currencies/ice6.jpg
 name: Decentral Games ICE
+platform: MATIC
+platform_contract: '0xb0811176bfdfb7313e0f9e49b29ea116e3b0d910'

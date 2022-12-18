@@ -5,3 +5,5 @@ id_nomics: REALTOKEN1002410028APPOLINE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REALTOKEN1002410028APPOLINE.jpg
 logoKey: currencies/realtoken1002410028appoline.jpg
 name: RealToken 10024 10028 Appoline St Detroit MI
+platform: ETH
+platform_contract: '0x5807ca447851c98569c567963b25b1c83d41bebc'

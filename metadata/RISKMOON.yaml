@@ -6,3 +6,5 @@ id_nomics: RISKMOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RISKMOON.jpg
 logoKey: currencies/riskmoon.jpg
 name: Riskmoon
+platform: BNB
+platform_contract: '0xa96f3414334f5a0a529ff5d9d8ea95f42147b8c9'

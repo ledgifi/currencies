@@ -5,3 +5,5 @@ id_nomics: GPSCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GPSCX.jpg
 logoKey: currencies/gpscx.jpg
 name: The Gap, Inc. Token
+platform: ETH
+platform_contract: '0xbd5b192fa5af70f1f871e4a155a3be1a43a1d583'

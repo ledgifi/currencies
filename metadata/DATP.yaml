@@ -6,3 +6,5 @@ id_nomics: DATP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/datp.jpg
 logoKey: currencies/datp.jpg
 name: Decentralized Asset Trading Platform
+platform: ETH
+platform_contract: '0x813b428af3920226e059b68a62e4c04933d4ea7a'

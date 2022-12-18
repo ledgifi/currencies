@@ -3,3 +3,5 @@ fiat: false
 id: DADO
 id_nomics: DADO
 name: DADO
+platform: BNB
+platform_contract: '0x509e9d2c3ae6c91cceff8be23e103ab0dcbd958f'

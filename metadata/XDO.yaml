@@ -6,3 +6,5 @@ id_nomics: XDO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XDO.jpg
 logoKey: currencies/xdo.jpg
 name: xDollar
+platform: MATIC
+platform_contract: '0x3dc7b06dd0b1f08ef9acbbd2564f8605b4868eea'

@@ -5,3 +5,5 @@ id_nomics: RELIC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RELIC2.png
 logoKey: currencies/relic2.png
 name: Relic
+platform: ETH
+platform_contract: '0x77132bb08b02a7a87732ec289efab45edf49884f'

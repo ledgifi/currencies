@@ -6,3 +6,5 @@ id_nomics: PANDAVS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PANDAVS.jpg
 logoKey: currencies/pandavs.jpg
 name: My Pandaverse
+platform: BNB
+platform_contract: '0x70707e604a3c1f2982132fa35603b61fa0bd634c'

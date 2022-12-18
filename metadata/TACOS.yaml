@@ -5,3 +5,5 @@ id_nomics: TACOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TACOS.png
 logoKey: currencies/tacos.png
 name: TacoCoin
+platform: ALGO
+platform_contract: '329110405'

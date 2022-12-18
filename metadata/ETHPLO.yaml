@@ -6,3 +6,5 @@ id_nomics: ETHPLO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHPLO.png
 logoKey: currencies/ethplo.png
 name: ETHplode
+platform: ETH
+platform_contract: '0xe0c6ce3e73029f201e5c0bedb97f67572a93711c'

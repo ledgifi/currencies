@@ -5,3 +5,5 @@ id_nomics: CUP4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CUP4.jpeg
 logoKey: currencies/cup4.jpeg
 name: CryptUP
+platform: ETH
+platform_contract: '0xfda36ae9e99f2661f77b11e280591501af44dee0'

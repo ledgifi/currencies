@@ -6,3 +6,5 @@ id_nomics: SWAG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWAG.jpg
 logoKey: currencies/swag.jpg
 name: SWAG Finance
+platform: ETH
+platform_contract: '0x87edffde3e14c7a66c9b9724747a1c5696b742e6'

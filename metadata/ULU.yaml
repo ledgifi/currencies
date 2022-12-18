@@ -6,3 +6,5 @@ id_nomics: ULU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ULU.png
 logoKey: currencies/ulu.png
 name: Universal Liquidity Union
+platform: ETH
+platform_contract: '0x035bfe6057e15ea692c0dfdcab3bb41a64dd2ad4'

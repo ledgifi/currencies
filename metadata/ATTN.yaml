@@ -6,3 +6,5 @@ id_nomics: ATTN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATTN.jpg
 logoKey: currencies/attn.jpg
 name: ATTN
+platform: ETH
+platform_contract: '0xdf3a0a958f5a599aa8f3071aa6488c22416efb89'

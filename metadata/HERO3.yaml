@@ -6,3 +6,5 @@ id_nomics: HERO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HERO3.jpg
 logoKey: currencies/hero3.jpg
 name: Metahero
+platform: BNB
+platform_contract: '0xd40bedb44c081d2935eeba6ef5a3c8a31a1bbe13'

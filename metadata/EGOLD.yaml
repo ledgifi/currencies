@@ -6,3 +6,5 @@ id_nomics: EGOLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EGOLD.png
 logoKey: currencies/egold.png
 name: eGold
+platform: ETH
+platform_contract: '0x6025f65f6b2f93d8ed1efedc752acfd4bdbcec3e'

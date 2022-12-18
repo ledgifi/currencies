@@ -5,3 +5,5 @@ id_nomics: BEE5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEE5.jpg
 logoKey: currencies/bee5.jpg
 name: BEE
+platform: ETH
+platform_contract: '0x7649d65368fcd66100ea83c7bfe094198845beae'

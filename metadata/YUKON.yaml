@@ -6,3 +6,5 @@ id_nomics: YUKON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YUKON.jpg
 logoKey: currencies/yukon.jpg
 name: Yukon
+platform: ETH
+platform_contract: '0x724a4dbc096e8553120ec99d975ca62c1e4f9f51'

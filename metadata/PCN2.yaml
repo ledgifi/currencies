@@ -5,3 +5,5 @@ id_nomics: PCN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PCN2.jpg
 logoKey: currencies/pcn2.jpg
 name: PhoenixChain
+platform: BNB
+platform_contract: '0xe50947ae0d86b889b384cd791d3a24fa1054906b'

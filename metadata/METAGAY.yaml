@@ -5,3 +5,5 @@ id_nomics: METAGAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAGAY.png
 logoKey: currencies/metagay.png
 name: MetaGay
+platform: BNB
+platform_contract: '0xc28d6a84fc5f800b9e3672ff7d3cb08830249951'

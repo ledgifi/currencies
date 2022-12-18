@@ -3,3 +3,5 @@ fiat: false
 id: CRAID
 id_nomics: CRAID
 name: Raidmachine
+platform: ETH
+platform_contract: '0xa5530dee446a50a35170c4bae2d2494b2b3de328'

@@ -5,3 +5,5 @@ id_nomics: KALA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KALA3.png
 logoKey: currencies/kala3.png
 name: Kala Coin
+platform: BNB
+platform_contract: '0x5f7b680de12d3da8eab7c6309b5336ca1ef04172'

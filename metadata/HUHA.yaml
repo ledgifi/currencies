@@ -5,3 +5,5 @@ id_nomics: HUHA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HUHA.jpeg
 logoKey: currencies/huha.jpeg
 name: Huha
+platform: BNB
+platform_contract: '0x1bfdae471e25c16f51b323f1cba6d024faa460bb'

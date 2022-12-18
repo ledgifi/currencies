@@ -3,3 +3,5 @@ fiat: false
 id: TOOLS
 id_nomics: TOOLS
 name: Tools Chain
+platform: ETH
+platform_contract: '0xee59784fc8fba300ae37fa41e229163dfaeb68c3'

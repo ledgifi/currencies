@@ -3,3 +3,5 @@ fiat: false
 id: NBOND
 id_nomics: NBOND
 name: NBOND
+platform: MATIC
+platform_contract: '0xfc4a30f328e946ef3e727bd294a93e84c2e43c24'

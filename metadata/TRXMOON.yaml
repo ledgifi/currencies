@@ -3,3 +3,5 @@ fiat: false
 id: TRXMOON
 id_nomics: TRXMOON
 name: 10X Long TRX Token
+platform: ETH
+platform_contract: '0x681f1a3761384109e5bc52f7d479ef27540a5641'

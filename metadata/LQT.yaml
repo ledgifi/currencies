@@ -5,3 +5,5 @@ id_nomics: LQT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LQT.jpg
 logoKey: currencies/lqt.jpg
 name: Liquidifty
+platform: BNB
+platform_contract: '0xbd2c43da85d007b0b3cd856fd55c299578d832bc'

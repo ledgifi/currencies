@@ -5,3 +5,5 @@ id_nomics: NXM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NXM.jpeg
 logoKey: currencies/nxm.jpeg
 name: NXM
+platform: ETH
+platform_contract: '0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b'

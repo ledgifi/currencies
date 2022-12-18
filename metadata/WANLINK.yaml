@@ -3,3 +3,5 @@ fiat: false
 id: WANLINK
 id_nomics: WANLINK
 name: wanLINK
+platform: WAN
+platform_contract: '0x06da85475f9d2ae79af300de474968cd5a4fde61'

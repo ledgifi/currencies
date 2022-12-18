@@ -6,3 +6,5 @@ id_nomics: FSH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FSH.jpg
 logoKey: currencies/fsh.jpg
 name: Fusion Heroes
+platform: BNB
+platform_contract: '0x0d77e65f231ab6214492498788cdd9441dd0ce72'

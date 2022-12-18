@@ -3,3 +3,5 @@ fiat: false
 id: DOGGER
 id_nomics: DOGGER
 name: Dogger Token
+platform: ETH
+platform_contract: '0x56143e2736c1b7f8a7d8c74707777850b46ac9af'

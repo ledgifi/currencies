@@ -5,3 +5,5 @@ id_nomics: WITCHER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WITCHER.jpeg
 logoKey: currencies/witcher.jpeg
 name: Witcher
+platform: FTM
+platform_contract: '0x0449b9c58a317a8b78e33453f9d48c1780b27a3c'

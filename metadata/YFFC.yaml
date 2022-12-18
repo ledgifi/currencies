@@ -6,3 +6,5 @@ id_nomics: YFFC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFFC.jpg
 logoKey: currencies/yffc.jpg
 name: yffc.finance
+platform: ETH
+platform_contract: '0xea004e8fa3701b8e58e41b78d50996e0f7176cbd'

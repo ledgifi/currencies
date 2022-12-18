@@ -5,3 +5,5 @@ id_nomics: CFIBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CFIBEP20.jpg
 logoKey: currencies/cfibep20.jpg
 name: CyberFi (BEP-20)
+platform: BNB
+platform_contract: '0x6a545f9c64d8f7b957d8d2e6410b52095a9e6c29'

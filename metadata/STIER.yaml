@@ -5,3 +5,5 @@ id_nomics: STIER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STIER.png
 logoKey: currencies/stier.png
 name: Stier
+platform: BNB
+platform_contract: '0xa02e45e1e328ded6788017a4249d09e38ad97edb'

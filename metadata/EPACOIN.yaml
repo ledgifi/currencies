@@ -5,3 +5,5 @@ id_nomics: EPACOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EPACOIN.png
 logoKey: currencies/epacoin.png
 name: EpaCoin
+platform: ETH
+platform_contract: '0xd0c4ad14f872bcdf7c3cc2bae99279ab5cdead30'

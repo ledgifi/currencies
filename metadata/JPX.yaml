@@ -6,3 +6,5 @@ id_nomics: JPX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JPX.jpg
 logoKey: currencies/jpx.jpg
 name: Japan Excitement Coin
+platform: ETH
+platform_contract: '0xcd56fc21564fba45c17d0bf663cced37f5e22d7e'

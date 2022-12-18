@@ -6,3 +6,5 @@ id_nomics: X99
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/X99.jpg
 logoKey: currencies/x99.jpg
 name: x99Token
+platform: BNB
+platform_contract: '0x3e520f16ac21c271db7117e8d6574b81fdc9f66c'

@@ -5,3 +5,5 @@ id_nomics: NOVA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NOVA2.jpg
 logoKey: currencies/nova2.jpg
 name: Shiba NOVA
+platform: BNB
+platform_contract: '0x56e344be9a7a7a1d27c854628483efd67c11214f'

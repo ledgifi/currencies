@@ -5,3 +5,5 @@ id_nomics: ACRV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACRV.jpg
 logoKey: currencies/acrv.jpg
 name: Aave CRV
+platform: ETH
+platform_contract: '0x8dae6cb04688c62d939ed9b68d32bc62e49970b1'

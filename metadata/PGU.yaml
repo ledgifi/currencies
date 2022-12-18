@@ -5,3 +5,5 @@ id_nomics: PGU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PGU.jpg
 logoKey: currencies/pgu.jpg
 name: Polyient Games Unity
+platform: ETH
+platform_contract: '0x98c36c0e953463bd5146c8783ce081ce1d187acf'

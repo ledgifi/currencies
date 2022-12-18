@@ -5,3 +5,5 @@ id_nomics: ENG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ENG2.jpg
 logoKey: currencies/eng2.jpg
 name: Endless Board Game
+platform: BNB
+platform_contract: '0x7eefb6aeb8bc2c1ba6be1d4273ec0758a1321272'

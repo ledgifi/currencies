@@ -5,3 +5,5 @@ id_nomics: LCD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LCD.png
 logoKey: currencies/lcd.png
 name: Lucyd
+platform: ETH
+platform_contract: '0x9a4059c1cf329a017e0ee1337c503137fd9463b2'

@@ -5,3 +5,5 @@ id_nomics: MAGA4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAGA4.png
 logoKey: currencies/maga4.png
 name: MAGA Coin ETH
+platform: ETH
+platform_contract: '0xc9b6a17ebb43491635f603a01f8bb3e4b5d22228'

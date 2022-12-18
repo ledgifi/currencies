@@ -3,3 +3,5 @@ fiat: false
 id: BEPO
 id_nomics: BEPO
 name: Bepo
+platform: BNB
+platform_contract: '0x33dca61993b8a86c282c54b95233af2325d69bb5'

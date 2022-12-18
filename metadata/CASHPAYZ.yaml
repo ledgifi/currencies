@@ -5,3 +5,5 @@ id_nomics: CASHPAYZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CASHPAYZ.png
 logoKey: currencies/cashpayz.png
 name: Cashpayz Token
+platform: ETH
+platform_contract: '0x28ea81fac7b1719138cbf61267198155b433e00e'

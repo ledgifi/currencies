@@ -5,3 +5,5 @@ id_nomics: VOSS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VOSS.jpg
 logoKey: currencies/voss.jpg
 name: Winklevoss.finance
+platform: ETH
+platform_contract: '0xfbcf817bdb473eb01abb0bc3b7a6e46577d14f68'

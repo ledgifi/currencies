@@ -3,3 +3,5 @@ fiat: false
 id: NFXT
 id_nomics: NFXT
 name: NFXToken
+platform: BNB
+platform_contract: '0x8a2267cbfffe11bce63c84abbde30e4f5f2d7c1c'

@@ -3,3 +3,5 @@ fiat: false
 id: MSCOIN
 id_nomics: MSCOIN
 name: MS-Coin
+platform: MINTME
+platform_contract: '0x34C171a4Ee5a3E6ad7EA1b356600E30d7c333d5E'

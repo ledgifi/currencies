@@ -5,3 +5,5 @@ id_nomics: HEXETF4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HEXETF4.png
 logoKey: currencies/hexetf4.png
 name: HEX (EthereumFair)
+platform: ETF4
+platform_contract: '0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39'

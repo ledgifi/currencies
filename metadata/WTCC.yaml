@@ -3,3 +3,5 @@ fiat: false
 id: WTCC
 id_nomics: WTCC
 name: WorldTradeCrowdfund
+platform: BNB
+platform_contract: '0x7ce280570d3cbbcca88238995466a503c73ac642'

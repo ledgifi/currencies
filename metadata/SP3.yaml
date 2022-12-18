@@ -5,3 +5,5 @@ id_nomics: SP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SP3.png
 logoKey: currencies/sp3.png
 name: SpacePath
+platform: BNB
+platform_contract: '0xc24bf9808617db1c9f7ba4b43bdbed5875ddc7c7'

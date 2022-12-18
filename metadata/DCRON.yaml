@@ -5,3 +5,5 @@ id_nomics: DCRON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DCRON.jpeg
 logoKey: currencies/dcron.jpeg
 name: Deltacron
+platform: BNB
+platform_contract: '0xb65ec7e2e9cc768d6094a59cbf6b33a243c02977'

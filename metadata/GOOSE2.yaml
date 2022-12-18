@@ -5,3 +5,5 @@ id_nomics: GOOSE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOOSE2.jpg
 logoKey: currencies/goose2.jpg
 name: Goose
+platform: BNB
+platform_contract: '0xfb11d7ffde8d643f5368c62fa9943bceabcb0c36'

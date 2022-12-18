@@ -3,3 +3,5 @@ fiat: false
 id: VLTMA
 id_nomics: VLTMA
 name: Voltama
+platform: ETH
+platform_contract: '0xf96c29c81dff290b36065ac446a0cfdc4beb268b'

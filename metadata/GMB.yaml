@@ -6,3 +6,5 @@ id_nomics: GMB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMB.png
 logoKey: currencies/gmb.png
 name: GAMB
+platform: ETH
+platform_contract: '0xa0008f510fe9ee696e7e320c9e5cbf61e27791ee'

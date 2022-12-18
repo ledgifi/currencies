@@ -5,3 +5,5 @@ id_nomics: AKONG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AKONG.jpg
 logoKey: currencies/akong.jpg
 name: AdaKong
+platform: BNB
+platform_contract: '0x4f426812c5c9b47c64763e438970bcd7c6de6bbd'

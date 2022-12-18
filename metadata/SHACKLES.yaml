@@ -3,3 +3,5 @@ fiat: false
 id: SHACKLES
 id_nomics: SHACKLES
 name: Break The Shackles
+platform: ETH
+platform_contract: '0x7ec7f0915cd50deee542d44426ffe683e45fdac5'

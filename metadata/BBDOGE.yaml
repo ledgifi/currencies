@@ -5,3 +5,5 @@ id_nomics: BBDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBDOGE.jpg
 logoKey: currencies/bbdoge.jpg
 name: BabyBackDOGE
+platform: BNB
+platform_contract: '0x545c6721314a1064821a8f235a7cef987b4fbc32'

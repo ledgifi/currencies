@@ -3,3 +3,5 @@ fiat: false
 id: SAFUSWAP
 id_nomics: SAFUSWAP
 name: SafuSwap
+platform: ETH
+platform_contract: '0xc8918a32933007881947f76e1e478062f4adba85'

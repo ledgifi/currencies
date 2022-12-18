@@ -3,3 +3,5 @@ fiat: false
 id: ISLANDS
 id_nomics: ISLANDS
 name: islands
+platform: BNB
+platform_contract: '0x60d642185b9305d8a17e9510a11f3eaa3401dbba'

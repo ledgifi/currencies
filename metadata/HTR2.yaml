@@ -5,3 +5,5 @@ id_nomics: HTR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HTR2.png
 logoKey: currencies/htr2.png
 name: Hunter
+platform: BNB
+platform_contract: '0x5df1a681ed7810fb9654dbaa8555e2b863293259'

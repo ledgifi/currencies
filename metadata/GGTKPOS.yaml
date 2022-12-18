@@ -3,3 +3,5 @@ fiat: false
 id: GGTKPOS
 id_nomics: GGTKPOS
 name: GGToken (Polygon)
+platform: MATIC
+platform_contract: '0x49b1be61a8ca3f9a9f178d6550e41e00d9162159'

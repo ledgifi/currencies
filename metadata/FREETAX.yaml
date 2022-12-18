@@ -3,3 +3,5 @@ fiat: false
 id: FREETAX
 id_nomics: FREETAX
 name: FreeTax
+platform: ETH
+platform_contract: '0x6b01725430f93b419c6d2a4b97305b29d04f8d41'

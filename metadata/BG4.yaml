@@ -5,3 +5,5 @@ id_nomics: BG4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BG4.jpg
 logoKey: currencies/bg4.jpg
 name: BINGO
+platform: BNB
+platform_contract: '0x7699211a5a2ec96b611eb2fd8ddabe622d852793'

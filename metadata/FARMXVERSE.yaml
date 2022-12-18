@@ -5,3 +5,5 @@ id_nomics: FARMXVERSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FARMXVERSE.jpeg
 logoKey: currencies/farmxverse.jpeg
 name: FARMXVERSE
+platform: BNB
+platform_contract: '0x7ed27048585f0ca132d6a8732774b1d802faf10f'

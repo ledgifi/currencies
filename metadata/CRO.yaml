@@ -6,3 +6,5 @@ id_nomics: CRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/cro.jpg
 logoKey: currencies/cro.jpg
 name: Crypto.com Chain
+platform: ETH
+platform_contract: '0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b'

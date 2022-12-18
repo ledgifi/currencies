@@ -4,3 +4,5 @@ id: SM2
 id_nomics: SM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SM2.jpg
 name: SureMoon
+platform: BNB
+platform_contract: '0x7a7fd7ba9c375ddab744ed8bcac471db413339e3'

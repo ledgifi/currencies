@@ -5,3 +5,5 @@ id_nomics: BCM3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCM3.jpg
 logoKey: currencies/bcm3.jpg
 name: Boom Crypto Market
+platform: BNB
+platform_contract: '0x26caba196478b2eef1ed5009c675c4243bb6d547'

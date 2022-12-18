@@ -5,3 +5,5 @@ id_nomics: SENT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SENT2.jpg
 logoKey: currencies/sent2.jpg
 name: Sentiment Token
+platform: ETH
+platform_contract: '0x97abee33cd075c58bfdd174e0885e08e8f03556f'

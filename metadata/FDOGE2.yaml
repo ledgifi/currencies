@@ -3,3 +3,5 @@ fiat: false
 id: FDOGE2
 id_nomics: FDOGE2
 name: FujiDoge
+platform: ETH
+platform_contract: '0x9482d95d471999753f9f830fea554b15cf9e38de'

@@ -5,3 +5,5 @@ id_nomics: HDG3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HDG3.jpg
 logoKey: currencies/hdg3.jpg
 name: Heera Digital Gold
+platform: BNB
+platform_contract: '0xbf87ed8a9a9353ddd8d5337104e388d52bce3f2c'

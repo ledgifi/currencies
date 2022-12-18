@@ -5,3 +5,5 @@ id_nomics: SPORE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPORE.jpg
 logoKey: currencies/spore3.jpg
 name: Enoki Finance
+platform: ETH
+platform_contract: '0xa4bad5d040d4464ec5ce130987731f2f428c9307'

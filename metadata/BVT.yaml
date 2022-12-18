@@ -5,3 +5,5 @@ id_nomics: BVT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BVT.png
 logoKey: currencies/bvt.png
 name: VTChain
+platform: ETH
+platform_contract: '0x9fe173573b3f3cf4aebce5fd5bef957b9a6686e8'

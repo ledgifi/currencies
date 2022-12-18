@@ -5,3 +5,5 @@ id_nomics: HAPPYERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HAPPYERC20.png
 logoKey: currencies/happyerc20.png
 name: HappyFans (ERC-20)
+platform: ETH
+platform_contract: '0x3079f61704e9efa2bcf1db412f735d8d4cfa26f4'

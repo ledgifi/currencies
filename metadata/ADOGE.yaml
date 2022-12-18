@@ -5,3 +5,5 @@ id_nomics: ADOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADOGE.jpg
 logoKey: currencies/adoge.jpg
 name: ArbiDoge
+platform: BNB
+platform_contract: '0x5cb7e2dc122b33c7b191799ca7e23d5b4a15fbd0'

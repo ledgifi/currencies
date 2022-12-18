@@ -5,3 +5,5 @@ id_nomics: BABYLINK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYLINK.jpg
 logoKey: currencies/babylink.jpg
 name: Baby Link
+platform: BNB
+platform_contract: '0xeb8945d9eb7c48d4a1dd7d12eb86820f98f166e3'

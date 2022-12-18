@@ -5,3 +5,5 @@ id_nomics: BCASHV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCASHV2.jpg
 logoKey: currencies/bcashv2.jpg
 name: Binance Cash V2
+platform: BNB
+platform_contract: '0x809fd83628337562b343fce5cb3196c8de88e961'

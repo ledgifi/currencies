@@ -5,3 +5,5 @@ id_nomics: SIBNRUCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIBNRUCX.jpg
 logoKey: currencies/sibnrucx.jpg
 name: Gazprom Neft PJSC
+platform: ETH
+platform_contract: '0x8bb4e0c57821c90c056ae50d5dd53d2837bf8e8d'

@@ -3,3 +3,5 @@ fiat: false
 id: HB12SWAP
 id_nomics: HB12SWAP
 name: hb12swap
+platform: BNB
+platform_contract: '0xa14a237a97daf5114ec1ce150fba5b7df41c0c55'

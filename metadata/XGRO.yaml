@@ -5,3 +5,5 @@ id_nomics: XGRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XGRO.png
 logoKey: currencies/xgro.png
 name: Growth DeFi
+platform: BNB
+platform_contract: '0x4AdAE3Ad22c4e8fb56D4Ae5C7Eb3abC0dd2d3379'

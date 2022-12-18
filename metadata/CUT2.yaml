@@ -5,3 +5,5 @@ id_nomics: CUT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CUT2.jpg
 logoKey: currencies/cut2.jpg
 name: Carbon Utility Token
+platform: ETH
+platform_contract: '0xe2da716381d7e0032cecaa5046b34223fc3f218d'

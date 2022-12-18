@@ -6,3 +6,5 @@ id_nomics: CCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/cct.png
 logoKey: currencies/cct.png
 name: Crystal Clear
+platform: ETH
+platform_contract: '0x336f646f87d9f6bc6ed42dd46e8b3fd9dbd15c22'

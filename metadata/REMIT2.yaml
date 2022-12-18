@@ -5,3 +5,5 @@ id_nomics: REMIT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REMIT2.jpg
 logoKey: currencies/remit2.jpg
 name: Remit
+platform: ETH
+platform_contract: '0xa2fcc180fa0cbc0983f9b6948d22df733273925b'

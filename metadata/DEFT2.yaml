@@ -5,3 +5,5 @@ id_nomics: DEFT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEFT2.jpg
 logoKey: currencies/deft2.jpg
 name: DeFi Factory Token
+platform: ETH
+platform_contract: '0xdef1fac7bf08f173d286bbbdcbeeade695129840'

@@ -5,3 +5,5 @@ id_nomics: CTT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTT3.png
 logoKey: currencies/ctt3.png
 name: Crazy Treasure
+platform: BNB
+platform_contract: '0xf56783b3a4fa5f09efca962bd4bab1f5fadd9ab9'

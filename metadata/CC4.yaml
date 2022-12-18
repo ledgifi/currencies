@@ -5,3 +5,5 @@ id_nomics: CC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CC4.jpg
 logoKey: currencies/cc4.jpg
 name: CCSwap
+platform: ETH
+platform_contract: '0xb7fbff4ce5200215c690cc95855e5d6c5236ee9f'

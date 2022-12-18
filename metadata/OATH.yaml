@@ -6,3 +6,5 @@ id_nomics: OATH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OATH.jpg
 logoKey: currencies/oath.jpg
 name: Oath Protocol
+platform: ETH
+platform_contract: '0x19c9872640ec38c2cf36c0f04d1365ef067869b3'

@@ -5,3 +5,5 @@ id_nomics: AUS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AUS3.png
 logoKey: currencies/aus3.png
 name: Aurous
+platform: BNB
+platform_contract: '0xdfa2352e0399f2455bc82374e51f41089b4c2a77'

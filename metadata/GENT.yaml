@@ -6,3 +6,5 @@ id_nomics: GENT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GENT.jpg
 logoKey: currencies/gent.jpg
 name: Genesis Token
+platform: ETH
+platform_contract: '0x0f767338244418310342d49b02183715691d988f'

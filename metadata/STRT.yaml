@@ -3,3 +3,5 @@ fiat: false
 id: STRT
 id_nomics: STRT
 name: STARLINK TEST TOKEN
+platform: BNB
+platform_contract: '0x23c42769279654b58ee00860720e8c7f1844c40f'

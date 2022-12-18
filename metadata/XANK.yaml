@@ -5,3 +5,5 @@ id_nomics: XANK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XANK.jpg
 logoKey: currencies/xank.jpg
 name: Xank
+platform: ETH
+platform_contract: '0x0e7f79e89ba8c4a13431129fb2db0d4f444b5b9a'

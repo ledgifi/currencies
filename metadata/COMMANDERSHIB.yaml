@@ -3,3 +3,5 @@ fiat: false
 id: COMMANDERSHIB
 id_nomics: COMMANDERSHIB
 name: COMMANDERSHIB
+platform: ETH
+platform_contract: '0x3727b75beca99449dd76b60ddae7c943c1446c9e'

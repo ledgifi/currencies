@@ -5,3 +5,5 @@ id_nomics: LULZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LULZ.png
 logoKey: currencies/lulz.png
 name: LULZ
+platform: ETH
+platform_contract: '0x89a64014d429509cffda1aebc7eb36b9435794bd'

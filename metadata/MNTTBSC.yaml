@@ -6,3 +6,5 @@ id_nomics: MNTTBSC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MNTTBSC.jpg
 logoKey: currencies/mnttbsc.jpg
 name: MoonTrustBSC
+platform: BNB
+platform_contract: '0xe9406b73d4f54572e27d60479905723de08e689e'

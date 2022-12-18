@@ -3,3 +3,5 @@ fiat: false
 id: CASHT
 id_nomics: CASHT
 name: CASH Tokens
+platform: BNB
+platform_contract: '0x102569c32204e6619f5f21998d3d42f7d781b2b3'

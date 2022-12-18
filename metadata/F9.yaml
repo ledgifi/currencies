@@ -6,3 +6,5 @@ id_nomics: F9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/F9.jpg
 logoKey: currencies/f9.jpg
 name: Falcon Nine
+platform: ETH
+platform_contract: '0x38a94e92a19e970c144ded0b2dd47278ca11cc1f'

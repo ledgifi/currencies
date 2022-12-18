@@ -5,3 +5,5 @@ id_nomics: ZCK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZCK.jpg
 logoKey: currencies/zck.jpg
 name: Polkazeck
+platform: ETH
+platform_contract: '0xedb7b7842f7986a7f211d791e8f306c4ce82ba32'

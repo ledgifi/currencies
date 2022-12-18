@@ -6,3 +6,5 @@ id_nomics: MEAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEAD.jpg
 logoKey: currencies/mead.jpg
 name: Thors Mead
+platform: AVAX
+platform_contract: '0x245c2591403e182e41d7a851eab53b01854844ce'

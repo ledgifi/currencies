@@ -6,3 +6,5 @@ id_nomics: GPOOL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GPOOL.jpg
 logoKey: currencies/gpool.jpg
 name: Genesis Pool
+platform: ETH
+platform_contract: '0x797de1dc0b9faf5e25c1f7efe8df9599138fa09d'

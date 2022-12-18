@@ -5,3 +5,5 @@ id_nomics: BITFEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITFEX.png
 logoKey: currencies/bitfex.png
 name: Bitfex
+platform: ETH
+platform_contract: '0x25901f2a5a4bb0aaabe2cdb24e0e15a0d49b015d'

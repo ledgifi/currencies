@@ -6,3 +6,5 @@ id_nomics: DOGEPEPSI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEPEPSI.jpg
 logoKey: currencies/dogepepsi.jpg
 name: DogePepsi
+platform: BNB
+platform_contract: '0xb8a9c44613bcc1c4d5454eb89071a82d8919cccf'

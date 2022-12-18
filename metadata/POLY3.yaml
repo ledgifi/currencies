@@ -5,3 +5,5 @@ id_nomics: POLY3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POLY3.jpg
 logoKey: currencies/poly3.jpg
 name: FarmPoly
+platform: BNB
+platform_contract: '0x61073ed3acefafc5e8f87afaedacf9b8586fb28c'

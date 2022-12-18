@@ -6,3 +6,5 @@ id_nomics: CRVT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRVT.jpg
 logoKey: currencies/crvt.jpg
 name: Crypto Revolution
+platform: ETH
+platform_contract: '0x0eb6e56aacae6a21bde99c826ac798d225488c3d'

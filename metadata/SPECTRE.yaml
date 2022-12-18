@@ -5,3 +5,5 @@ id_nomics: SPECTRE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPECTRE.png
 logoKey: currencies/spectre.png
 name: Speculative Resistance
+platform: ETH
+platform_contract: '0x441d91F7AAEe51C7AE8cAB84333D6383A8a8C175'

@@ -6,3 +6,5 @@ id_nomics: XFLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XFLOKI.jpg
 logoKey: currencies/xfloki.jpg
 name: SpaceX Floki
+platform: BNB
+platform_contract: '0x09756234f29bddc18ecb83db8398d0dda90071a1'

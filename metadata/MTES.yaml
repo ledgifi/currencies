@@ -5,3 +5,5 @@ id_nomics: MTES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTES.jpg
 logoKey: currencies/mtes.jpg
 name: Matries Finance
+platform: BNB
+platform_contract: '0xe36c4b7024cd6dfffe8bb51f23f5575c7a46fae2'

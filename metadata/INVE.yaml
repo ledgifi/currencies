@@ -6,3 +6,5 @@ id_nomics: INVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INVE.png
 logoKey: currencies/inve.png
 name: InterValue
+platform: ETH
+platform_contract: '0xdac4ae188ace3c8985765edc6c9b4739d4845ddc'

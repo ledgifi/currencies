@@ -3,3 +3,5 @@ fiat: false
 id: WIZ1
 id_nomics: WIZ1
 name: Wiz Coin
+platform: ETH
+platform_contract: '0x018a6106cb540af1ae6da985361afd5e176d1c00'

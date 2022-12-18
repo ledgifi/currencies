@@ -5,3 +5,5 @@ id_nomics: M3M3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/M3M3.png
 logoKey: currencies/m3m3.png
 name: Memecoin
+platform: ETH
+platform_contract: '0xC6c9C41530769d80b8129C4278848010FE59515b'

@@ -5,3 +5,5 @@ id_nomics: LUNCAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUNCAT.jpg
 logoKey: currencies/luncat.jpg
 name: Luncat
+platform: BNB
+platform_contract: '0xbb1E50521C3f49aC67eA6547AD88de64EFf9d9a1'

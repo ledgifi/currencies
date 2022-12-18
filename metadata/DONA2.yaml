@@ -5,3 +5,5 @@ id_nomics: DONA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DONA2.jpeg
 logoKey: currencies/dona2.jpeg
 name: Donaswap
+platform: BNB
+platform_contract: '0xa6bf49ab16c2b42a6bc9c6eb531873a53f5e43d7'

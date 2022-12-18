@@ -5,3 +5,5 @@ id_nomics: LION2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LION2.png
 logoKey: currencies/lion2.png
 name: Lion Token
+platform: BNB
+platform_contract: '0x7969dc3c6e925bccbea9f7fc466a63c74f0115b8'

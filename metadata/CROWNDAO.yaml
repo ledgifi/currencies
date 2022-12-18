@@ -3,3 +3,5 @@ fiat: false
 id: CROWNDAO
 id_nomics: CROWNDAO
 name: CROWNDAO
+platform: ETH
+platform_contract: '0x321481a4f6adfd1bcbec04265b8a68e075aee515'

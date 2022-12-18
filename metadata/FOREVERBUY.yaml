@@ -3,3 +3,5 @@ fiat: false
 id: FOREVERBUY
 id_nomics: FOREVERBUY
 name: ForeverBuy
+platform: ETH
+platform_contract: '0x4d71c437be3bdcf1e798b173681a47034adfb625'

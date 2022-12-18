@@ -5,3 +5,5 @@ id_nomics: HYPER4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HYPER4.jpg
 logoKey: currencies/hyper4.jpg
 name: HyperHash
+platform: ETH
+platform_contract: '0xeb5a8eefdae23a815072bf28de8114a825c27876'

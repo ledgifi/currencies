@@ -5,3 +5,5 @@ id_nomics: BOTZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOTZ.png
 logoKey: currencies/botz.png
 name: Beep
+platform: ETH
+platform_contract: '0x3475fc1d0d2e03761c19d5c7601fe476f0e02f80'

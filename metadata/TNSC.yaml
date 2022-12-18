@@ -3,3 +3,5 @@ fiat: false
 id: TNSC
 id_nomics: TNSC
 name: Totally Not a Scam Coin
+platform: ETH
+platform_contract: '0x10e6bcab4e0f5161dd152e51df5fbe785f170b48'

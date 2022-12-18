@@ -5,3 +5,5 @@ id_nomics: TSD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TSD2.jpg
 logoKey: currencies/tsd2.jpg
 name: TSD Stablecoin
+platform: AVAX
+platform_contract: '0x4fbf0429599460d327bd5f55625e30e4fc066095'

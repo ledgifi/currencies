@@ -5,3 +5,5 @@ id_nomics: ABEE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ABEE.jpg
 logoKey: currencies/abee.jpg
 name: Avalanche HoneyBee
+platform: AVAX
+platform_contract: '0xb669c71431bc4372140bc35aa1962c4b980ba507'

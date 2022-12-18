@@ -5,3 +5,5 @@ id_nomics: DARK6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DARK6.jpg
 logoKey: currencies/dark6.jpg
 name: Darkcoin
+platform: MATIC
+platform_contract: '0x1942b8262a0683b54f4f91d0c08ddd92ed6e8fe6'

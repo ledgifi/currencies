@@ -5,3 +5,5 @@ id_nomics: KDAINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KDAINU.png
 logoKey: currencies/kdainu.png
 name: Kadena Inu
+platform: BNB
+platform_contract: '0x5b31e859A50e95f5d9C100700b1AB50712f26bF8'

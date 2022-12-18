@@ -5,3 +5,5 @@ id_nomics: FPG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FPG.jpg
 logoKey: currencies/fpg.jpg
 name: FancypuppyGrow V1 (OLD)
+platform: BNB
+platform_contract: '0x86639A24cd2e96254b348171eD1c1A1e2C9b1cEe'

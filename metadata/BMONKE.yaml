@@ -5,3 +5,5 @@ id_nomics: BMONKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BMONKE.jpg
 logoKey: currencies/bmonke.jpg
 name: Monke Money
+platform: BNB
+platform_contract: '0x54892503d57939b0d8c842d505ffc51c94eed958'

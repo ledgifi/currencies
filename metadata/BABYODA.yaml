@@ -5,3 +5,5 @@ id_nomics: BABYODA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYODA.jpg
 logoKey: currencies/babyoda.jpg
 name: BabYoda
+platform: BNB
+platform_contract: '0xdc3d56d9f3a2b3cab5bd6ca6549229c33cb11aab'

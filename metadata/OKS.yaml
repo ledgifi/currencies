@@ -6,3 +6,5 @@ id_nomics: OKS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OKS.png
 logoKey: currencies/oks.png
 name: OksChain
+platform: ETH
+platform_contract: '0x7b68d272eda2185ea2f9283f241b1c44c51e712a'

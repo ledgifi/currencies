@@ -5,3 +5,5 @@ id_nomics: WNEAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WNEAR.jpg
 logoKey: currencies/wnear.jpg
 name: Wrapped Near
+platform: AURORA3
+platform_contract: '0xc42c30ac6cc15fac9bd938618bcaa1a1fae8501d'

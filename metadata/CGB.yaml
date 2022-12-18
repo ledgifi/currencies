@@ -6,3 +6,5 @@ id_nomics: CGB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CGB.png
 logoKey: currencies/cgb.png
 name: Crypto Global Bank
+platform: ETH
+platform_contract: '0x2858ed0225e9aa0638ccd9b552bee2712426fa24'

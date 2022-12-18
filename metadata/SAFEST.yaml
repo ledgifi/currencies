@@ -5,3 +5,5 @@ id_nomics: SAFEST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFEST.jpg
 logoKey: currencies/safest.jpg
 name: SafuFide Token
+platform: BNB
+platform_contract: '0xb51499f983a8b186ea2fef4074e3a93dcc9ca355'

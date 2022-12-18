@@ -4,3 +4,5 @@ id: WSTETHARB
 id_nomics: WSTETHARB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WSTETHARB.png
 name: Wrapped liquid staked Ether 2.0 (Arbitrum)
+platform: ARBETH
+platform_contract: '0x5979D7b546E38E414F7E9822514be443A4800529'

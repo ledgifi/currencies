@@ -5,3 +5,5 @@ id_nomics: SRISE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SRISE.jpg
 logoKey: currencies/srise.jpg
 name: SurpRise
+platform: BNB
+platform_contract: '0x69c3c5126ca87ccf01d524b7804c662f2121dd87'

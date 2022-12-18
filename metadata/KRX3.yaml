@@ -5,3 +5,5 @@ id_nomics: KRX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KRX3.jpg
 logoKey: currencies/krx3.jpg
 name: Kurax
+platform: BNB
+platform_contract: '0x132ac0f9c3600859b83b10070168f6ce95eb5e9f'

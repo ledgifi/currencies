@@ -5,3 +5,5 @@ id_nomics: BPT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BPT3.png
 logoKey: currencies/bpt3.png
 name: Bitpumps Token
+platform: ETH
+platform_contract: '0xa44d9f50b0decb13713fc5f0df44b4eb5fb300ca'

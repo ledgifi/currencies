@@ -3,3 +3,5 @@ fiat: false
 id: WTML
 id_nomics: WTML
 name: wtml.finance
+platform: BNB
+platform_contract: '0x378043d0ac29def288017be291fa260e33c7fe86'

@@ -5,3 +5,5 @@ id_nomics: MBC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MBC5.png
 logoKey: currencies/mbc5.png
 name: MetaBUSDCoin
+platform: BNB
+platform_contract: '0xf14d3692b0055db9ca4c04065165d59b87e763f1'

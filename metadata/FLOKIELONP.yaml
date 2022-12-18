@@ -5,3 +5,5 @@ id_nomics: FLOKIELONP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKIELONP.jpg
 logoKey: currencies/flokielonp.jpg
 name: FlokiElonPuppy
+platform: BNB
+platform_contract: '0x35e3509be41c089a8eed0b52abc8423c0ada7dfe'

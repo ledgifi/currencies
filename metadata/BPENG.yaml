@@ -5,3 +5,5 @@ id_nomics: BPENG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BPENG.jpg
 logoKey: currencies/bpeng.jpg
 name: BabyPenguins
+platform: ETH
+platform_contract: '0xbe46985ee59830e18c02dfa143000dba7ac967dd'

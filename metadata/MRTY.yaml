@@ -5,3 +5,5 @@ id_nomics: MRTY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MRTY.jpg
 logoKey: currencies/mrty.jpg
 name: Morty Token
+platform: BNB
+platform_contract: '0xb76ec79ca2a3ecbc5f54c77bac782352c118e706'

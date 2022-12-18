@@ -6,3 +6,5 @@ id_nomics: BBNANA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBNANA.jpg
 logoKey: currencies/bbnana.jpg
 name: BabyBanana
+platform: BNB
+platform_contract: '0xa3be3b30fa5302dad5c9874cdb50e220eaadf092'

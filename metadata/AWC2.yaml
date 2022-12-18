@@ -5,3 +5,5 @@ id_nomics: AWC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AWC2.jpg
 logoKey: currencies/awc2.jpg
 name: All World Coin
+platform: ETH
+platform_contract: '0xf649c39e7efdbac6c9adb65c43e87894fc14aedd'

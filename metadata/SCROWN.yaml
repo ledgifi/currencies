@@ -5,3 +5,5 @@ id_nomics: SCROWN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCROWN.jpg
 logoKey: currencies/scrown.jpg
 name: SumSwapCrown
+platform: ETH
+platform_contract: '0x62edd284cd681539e81492a4dbbb2ee715a353d4'

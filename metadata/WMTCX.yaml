@@ -5,3 +5,5 @@ id_nomics: WMTCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WMTCX.jpg
 logoKey: currencies/wmtcx.jpg
 name: Walmart Inc. Token
+platform: ETH
+platform_contract: '0x021ecda86507d0bc0ca1d8e738d78fe303b42cd8'

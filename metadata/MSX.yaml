@@ -3,3 +3,5 @@ fiat: false
 id: MSX
 id_nomics: MSX
 name: MoneySix
+platform: BNB
+platform_contract: '0x66a94d8be75640e7954d72795d16acb036c40cdf'

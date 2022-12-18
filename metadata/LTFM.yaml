@@ -5,3 +5,5 @@ id_nomics: LTFM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LTFM.jpg
 logoKey: currencies/ltfm.jpg
 name: Little Fish Moon
+platform: BNB
+platform_contract: '0x473eb9bd02ad444d7e686fab384afc476cc337b8'

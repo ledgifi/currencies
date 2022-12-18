@@ -5,3 +5,5 @@ id_nomics: TUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TUS.jpg
 logoKey: currencies/tus.jpg
 name: Treasure Under Sea
+platform: AVAX
+platform_contract: '0xf693248f96fe03422fea95ac0afbbbc4a8fdd172'

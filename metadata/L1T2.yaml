@@ -5,3 +5,5 @@ id_nomics: L1T2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/L1T2.jpg
 logoKey: currencies/l1t2.jpg
 name: Lucky1Token V2
+platform: ETH
+platform_contract: '0x30baadb0c58a913934082962512c1aab1e596fef'

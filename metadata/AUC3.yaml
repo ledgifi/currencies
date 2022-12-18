@@ -5,3 +5,5 @@ id_nomics: AUC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AUC3.jpg
 logoKey: currencies/auc3.jpg
 name: Advanced United Continent
+platform: ETH
+platform_contract: '0x87a92428bbc876d463c21c8e51b903f127d9a9f4'

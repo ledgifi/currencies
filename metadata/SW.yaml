@@ -6,3 +6,5 @@ id_nomics: SW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SW.png
 logoKey: currencies/sw.png
 name: Super Wallet
+platform: ETH
+platform_contract: '0xae66d00496aaa25418f829140bb259163c06986e'

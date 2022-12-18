@@ -6,3 +6,5 @@ id_nomics: THUNDRR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THUNDRR.jpg
 logoKey: currencies/thundrr.jpg
 name: Thunder Run BSC
+platform: BNB
+platform_contract: '0xbc0b35bfefcc3d91ea782d93eb5b82cb11cad7a0'

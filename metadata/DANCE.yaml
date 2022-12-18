@@ -5,3 +5,5 @@ id_nomics: DANCE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DANCE.jpg
 logoKey: currencies/dance.jpg
 name: Dancing Banana
+platform: BNB
+platform_contract: '0x17e302588ca33c4c1c01500338d5ddc933109dff'

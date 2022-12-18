@@ -3,3 +3,5 @@ fiat: false
 id: BASTARD
 id_nomics: BASTARD
 name: BastardToken
+platform: ETH
+platform_contract: '0x78d9a9355a7823887868492c47368956ea473618'

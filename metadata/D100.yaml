@@ -5,3 +5,5 @@ id_nomics: D100
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/D100.jpg
 logoKey: currencies/d100.jpg
 name: Defi 100
+platform: BNB
+platform_contract: '0x9d8aac497a4b8fe697dd63101d793f0c6a6eebb6'

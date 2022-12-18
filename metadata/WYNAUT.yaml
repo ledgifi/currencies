@@ -5,3 +5,5 @@ id_nomics: WYNAUT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WYNAUT.jpg
 logoKey: currencies/wynaut.jpg
 name: Wynaut
+platform: BNB
+platform_contract: '0x067a5ad3f0f91acf512ffe66ea77f37b4dcaaf18'

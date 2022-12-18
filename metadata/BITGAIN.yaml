@@ -5,3 +5,5 @@ id_nomics: BITGAIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITGAIN.PNG
 logoKey: currencies/bitgain.png
 name: BitGain Project
+platform: ETH
+platform_contract: '0x0a5248ff74842600175c3edd7c84cd45257ff0d0'

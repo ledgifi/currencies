@@ -3,3 +3,5 @@ fiat: false
 id: FAA
 id_nomics: FAA
 name: FAA
+platform: BNB
+platform_contract: '0xc13b58228081cb6db1a76817cdbaadb27903d7ed'

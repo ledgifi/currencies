@@ -6,3 +6,5 @@ id_nomics: OPTCM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OPTCM.jpg
 logoKey: currencies/optcm.jpg
 name: Optimus
+platform: BNB
+platform_contract: '0x7a2277f34f275ded630deff758fbc818409ca36d'

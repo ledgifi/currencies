@@ -3,3 +3,5 @@ fiat: false
 id: LHBBEP20
 id_nomics: LHBBEP20
 name: LendHub (BEP-20)
+platform: BNB
+platform_contract: '0xba622a558c0a7cc33034fae0f26bdd01724c6dde'

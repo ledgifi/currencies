@@ -3,3 +3,5 @@ fiat: false
 id: NMI
 id_nomics: NMI
 name: NMIToken
+platform: ETH
+platform_contract: '0xc772aa1ae7c2fa5aedea02bcf37d13e17fa50062'

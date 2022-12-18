@@ -3,3 +3,5 @@ fiat: false
 id: T16D
 id_nomics: T16D
 name: Token 16 decimals
+platform: BNB
+platform_contract: '0x3e5fc17db31c316ff6361c0ffc04bed42e0ce0e3'

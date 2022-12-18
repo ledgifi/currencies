@@ -5,3 +5,5 @@ id_nomics: APX4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APX4.jpg
 logoKey: currencies/apx4.jpg
 name: ApolloX
+platform: BNB
+platform_contract: '0x78f5d389f5cdccfc41594abab4b0ed02f31398b3'

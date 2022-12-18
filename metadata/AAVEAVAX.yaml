@@ -5,3 +5,5 @@ id_nomics: AAVEAVAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AAVEAVAX.jpg
 logoKey: currencies/aaveavax.jpg
 name: Aave (Avalanche)
+platform: AVAX
+platform_contract: '0x63a72806098bd3d9520cc43356dd78afe5d386d9'

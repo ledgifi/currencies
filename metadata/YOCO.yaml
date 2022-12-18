@@ -5,3 +5,5 @@ id_nomics: YOCO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YOCO.jpg
 logoKey: currencies/yoco.jpg
 name: Yoco Finance
+platform: BNB
+platform_contract: '0xdd17629d05e068a9d118ee35d11101d4140d0586'

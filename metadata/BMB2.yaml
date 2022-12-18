@@ -5,3 +5,5 @@ id_nomics: BMB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BMB2.png
 logoKey: currencies/bmb2.png
 name: BMBCoin
+platform: ETH
+platform_contract: '0x3d9da8fe44ccf682bb1bd974bb664bef099ef813'

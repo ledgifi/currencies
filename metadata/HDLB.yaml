@@ -6,3 +6,5 @@ id_nomics: HDLB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HDLB.jpg
 logoKey: currencies/hdlb.jpg
 name: HODL Bucks
+platform: ETH
+platform_contract: '0xad6714bd97cbbd29788f8838bc865ee71b843eb8'

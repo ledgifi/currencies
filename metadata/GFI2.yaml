@@ -5,3 +5,5 @@ id_nomics: GFI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GFI2.jpg
 logoKey: currencies/gfi2.jpg
 name: Gravity Finance
+platform: MATIC
+platform_contract: '0x874e178a2f3f3f9d34db862453cd756e7eab0381'

@@ -3,3 +3,5 @@ fiat: false
 id: TESTUSVP
 id_nomics: TESTUSVP
 name: usvp
+platform: BNB
+platform_contract: '0x8323666619cee25de8e5572a53bbf739e82ff80c'

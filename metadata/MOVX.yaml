@@ -3,3 +3,5 @@ fiat: false
 id: MOVX
 id_nomics: MOVX
 name: MoveX
+platform: BNB
+platform_contract: '0x1bd8f7db38e3657b072c8f214cb83fbd7b99d46c'

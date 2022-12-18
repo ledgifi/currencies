@@ -5,3 +5,5 @@ id_nomics: CSOUL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/csoul.jpg
 logoKey: currencies/csoul.jpg
 name: CryptoSoul
+platform: ETH
+platform_contract: '0xbb1f24c0c1554b9990222f036b0aad6ee4caec29'

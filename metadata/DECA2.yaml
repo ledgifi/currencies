@@ -5,3 +5,5 @@ id_nomics: DECA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DECA2.png
 logoKey: currencies/deca2.png
 name: DecaSwap
+platform: BNB
+platform_contract: '0x2ba63e81cf28dc82e81a6b31516323ffed2f3a25'

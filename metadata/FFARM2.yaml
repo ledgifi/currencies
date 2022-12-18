@@ -5,3 +5,5 @@ id_nomics: FFARM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FFARM2.jpeg
 logoKey: currencies/ffarm2.jpeg
 name: FrostArbi Farm
+platform: ARBETH
+platform_contract: '0x2cabc2e7f38675fc757ed239b717a4eff5193e19'

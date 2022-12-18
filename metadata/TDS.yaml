@@ -6,3 +6,5 @@ id_nomics: TDS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/tds.jpg
 logoKey: currencies/tds.jpg
 name: TokenDesk
+platform: ETH
+platform_contract: '0x6295ab2be04a617747481b292c390bfca592cf28'

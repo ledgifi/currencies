@@ -3,3 +3,5 @@ fiat: false
 id: PUSH1
 id_nomics: PUSH1
 name: Push Token
+platform: BNB
+platform_contract: '0x4cbd241e248e0545fc8acf6338639988751b40e8'

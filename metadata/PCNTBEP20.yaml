@@ -5,3 +5,5 @@ id_nomics: PCNTBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PCNTBEP20.jpg
 logoKey: currencies/pcntbep20.jpg
 name: Playcent
+platform: BNB
+platform_contract: '0xe9b9c1c38dab5eab3b7e2ad295425e89bd8db066'

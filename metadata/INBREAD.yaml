@@ -5,3 +5,5 @@ id_nomics: INBREAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INBREAD.jpg
 logoKey: currencies/inbread.jpg
 name: Cat Breading
+platform: BNB
+platform_contract: '0x1eab9c243f5075c159cc2925ac930c89ee5b6c8b'

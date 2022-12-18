@@ -5,3 +5,5 @@ id_nomics: FOREX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOREX3.jpg
 logoKey: currencies/forex3.jpg
 name: handle.fi
+platform: ETH
+platform_contract: '0xdb298285fe4c5410b05390ca80e8fbe9de1f259b'

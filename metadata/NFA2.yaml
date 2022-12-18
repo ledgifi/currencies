@@ -5,3 +5,5 @@ id_nomics: NFA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFA2.jpg
 logoKey: currencies/nfa2.jpg
 name: NFA Inu
+platform: BNB
+platform_contract: '0xe794ff28db78273a87fae07677294422397edb47'

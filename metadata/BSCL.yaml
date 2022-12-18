@@ -5,3 +5,5 @@ id_nomics: BSCL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSCL.jpg
 logoKey: currencies/bscl.jpg
 name: BSCLauncher.finance
+platform: BNB
+platform_contract: '0x2eea102f84080f37dadda3fef02308d0b8600330'

@@ -6,3 +6,5 @@ id_nomics: LUCKYDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUCKYDOGE.png
 logoKey: currencies/luckydoge.png
 name: LuckyDoge
+platform: BNB
+platform_contract: '0x2a11bd0d1e928c98570d85c72398dd96802705aa'

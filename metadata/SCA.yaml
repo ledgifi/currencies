@@ -6,3 +6,5 @@ id_nomics: SCA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCA.jpg
 logoKey: currencies/sca.jpg
 name: ScaleSwapToken
+platform: ETH
+platform_contract: '0x1fbd3df007eb8a7477a1eab2c63483dcc24effd6'

@@ -3,3 +3,5 @@ fiat: false
 id: XLMBEP20
 id_nomics: XLMBEP20
 name: Stellar (BEP-20)
+platform: BNB
+platform_contract: '0x43c934a845205f0b514417d757d7235b8f53f1b9'

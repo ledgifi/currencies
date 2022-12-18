@@ -5,3 +5,5 @@ id_nomics: WEL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WEL2.jpg
 logoKey: currencies/wel2.jpg
 name: Welnance Finance
+platform: BNB
+platform_contract: '0x854b4c305554c5fa72353e31b8480c0e5128a152'

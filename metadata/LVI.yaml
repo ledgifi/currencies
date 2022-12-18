@@ -5,3 +5,5 @@ id_nomics: LVI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LVI.jpg
 logoKey: currencies/lvi.jpg
 name: Levoist
+platform: ETH
+platform_contract: '0xB172E326B5E380E46B355F09EC10C1C2FD70F155'

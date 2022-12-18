@@ -5,3 +5,5 @@ id_nomics: PPL3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PPL3.jpg
 logoKey: currencies/ppl3.jpg
 name: Pink Panther Lovers
+platform: BNB
+platform_contract: '0x8B6da8506623aa995faF3e604bA512b511ec0b65'

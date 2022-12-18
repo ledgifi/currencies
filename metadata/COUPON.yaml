@@ -3,3 +3,5 @@ fiat: false
 id: COUPON
 id_nomics: COUPON
 name: Coupon
+platform: MINTME
+platform_contract: '0x0e21033A189e7f89024Fe9BFA29CD69Fd1eb5542'

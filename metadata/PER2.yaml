@@ -5,3 +5,5 @@ id_nomics: PER2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PER2.jpeg
 logoKey: currencies/per2.jpeg
 name: Per Token
+platform: BNB
+platform_contract: '0x1026cf9f5a9c84b846ee88e8474710610547b69c'

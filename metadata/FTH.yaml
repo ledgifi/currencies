@@ -6,3 +6,5 @@ id_nomics: FTH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FTH.png
 logoKey: currencies/fth.png
 name: FITCASH
+platform: ETH
+platform_contract: '0xb414f8ec2d14c64f37b1559cbe43746284514596'

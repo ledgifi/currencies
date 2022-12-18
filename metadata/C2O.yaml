@@ -6,3 +6,5 @@ id_nomics: C2O
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/C2O.jpg
 logoKey: currencies/c2o.jpg
 name: CryptoWater
+platform: ETH
+platform_contract: '0x13ca8eb6405cfbe2eae5d00207651002083fbc9d'

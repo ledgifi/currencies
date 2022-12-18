@@ -6,3 +6,5 @@ id_nomics: TUNDRA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TUNDRA.jpg
 logoKey: currencies/tundra.jpg
 name: Tundra Token
+platform: AVAX
+platform_contract: '0x21c5402c3b7d40c89cc472c9df5dd7e51bbab1b1'

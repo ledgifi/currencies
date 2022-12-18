@@ -5,3 +5,5 @@ id_nomics: DINGER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DINGER.jpg
 logoKey: currencies/dinger.jpg
 name: Dinger
+platform: ETH
+platform_contract: '0x9e5bd9d9fad182ff0a93ba8085b664bcab00fa68'

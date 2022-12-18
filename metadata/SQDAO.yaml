@@ -3,3 +3,5 @@ fiat: false
 id: SQDAO
 id_nomics: SQDAO
 name: SQDAO
+platform: BNB
+platform_contract: '0x51320ab5094277a1b709aa165ec38ad74ec1866a'

@@ -6,3 +6,5 @@ id_nomics: SNC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/snc.svg
 logoKey: currencies/snc.svg
 name: SunContract
+platform: ETH
+platform_contract: '0xf4134146af2d511dd5ea8cdb1c4ac88c57d60404'

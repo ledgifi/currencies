@@ -5,3 +5,5 @@ id_nomics: BABYQUINT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYQUINT.jpg
 logoKey: currencies/babyquint.jpg
 name: Baby Quint
+platform: BNB
+platform_contract: '0x4cc9c2f878cf8b30f82eb6858e7025a3496f51b3'

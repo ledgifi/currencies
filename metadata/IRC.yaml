@@ -5,3 +5,5 @@ id_nomics: IRC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IRC.jpg
 logoKey: currencies/irc.jpg
 name: IronCoin
+platform: ETH
+platform_contract: '0x1f21d8395655fb262251897df7cb3c9358bec6a2'

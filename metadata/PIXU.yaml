@@ -5,3 +5,5 @@ id_nomics: PIXU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIXU.jpg
 logoKey: currencies/pixu.jpg
 name: Pixel Inu
+platform: ETH
+platform_contract: '0xad4c6ad1f02def1710a2d06c875a31d4868bd70a'

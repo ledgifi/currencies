@@ -5,3 +5,5 @@ id_nomics: BUZZ3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUZZ3.png
 logoKey: currencies/buzz3.png
 name: BUZZ
+platform: BNB
+platform_contract: '0xaada984a97c9836114066b2a36401accd82d9871'

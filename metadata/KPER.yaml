@@ -6,3 +6,5 @@ id_nomics: KPER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KPER.png
 logoKey: currencies/kper.png
 name: Kper Network
+platform: ETH
+platform_contract: '0xc89b4a8a121dd3e726fe7515e703936cf83e3350'

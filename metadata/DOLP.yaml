@@ -5,3 +5,5 @@ id_nomics: DOLP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOLP.jpg
 logoKey: currencies/dolp.jpg
 name: DolphinNetwork
+platform: BNB
+platform_contract: '0x54e5721ea9c828e725ae6e3f640f69928b696b3e'

@@ -3,3 +3,5 @@ fiat: false
 id: ZEKV2
 id_nomics: ZEKV2
 name: ZEK V2.0
+platform: BNB
+platform_contract: '0xc0765b2032a3ed49f1041eb37de0db45b1faa5a9'

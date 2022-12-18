@@ -5,3 +5,5 @@ id_nomics: GAPE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAPE2.jpeg
 logoKey: currencies/gape2.jpeg
 name: Golden Ape
+platform: BNB
+platform_contract: '0xb1F0780f0Cd0baE9702687c7fAc815A2838A8e69'

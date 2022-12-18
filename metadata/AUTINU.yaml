@@ -5,3 +5,5 @@ id_nomics: AUTINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AUTINU.jpg
 logoKey: currencies/autinu.jpg
 name: Autistic Inu
+platform: ETH
+platform_contract: '0x3eba39186ca052fb884174059b6c21a3ed5cc816'

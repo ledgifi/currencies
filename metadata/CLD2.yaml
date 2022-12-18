@@ -5,3 +5,5 @@ id_nomics: CLD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLD2.jpg
 logoKey: currencies/cld2.jpg
 name: CryptopiaLandDollar
+platform: BNB
+platform_contract: '0xb0d9bd0937720956b3f1d4cab7d54ebab1dcba7f'

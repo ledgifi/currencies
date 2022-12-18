@@ -6,3 +6,5 @@ id_nomics: FTX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ftx.jpg
 logoKey: currencies/ftx.jpg
 name: FintruX Network
+platform: ETH
+platform_contract: '0xd559f20296ff4895da39b5bd9add54b442596a61'

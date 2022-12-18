@@ -6,3 +6,5 @@ id_nomics: KICKS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KICKS.png
 logoKey: currencies/kicks.png
 name: SESSIA
+platform: ETH
+platform_contract: '0xd91a6162f146ef85922d9a15ee6eb14a00344586'

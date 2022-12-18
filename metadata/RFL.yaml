@@ -5,3 +5,5 @@ id_nomics: RFL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RFL.png
 logoKey: currencies/rfl.png
 name: Refael
+platform: BNB
+platform_contract: '0x0d2b799cd9ca4a1eb7363a0e9bd541953a36ab0b'

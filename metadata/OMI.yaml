@@ -6,3 +6,5 @@ id_nomics: OMI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OMI.png
 logoKey: currencies/omi.png
 name: ECOMI
+platform: GO
+platform_contract: '0x5347FDeA6AA4d7770B31734408Da6d34a8a07BdF'

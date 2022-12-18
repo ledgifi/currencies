@@ -5,3 +5,5 @@ id_nomics: BUGG3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUGG3.jpeg
 logoKey: currencies/bugg3.jpeg
 name: BUGG Finance v2
+platform: BNB
+platform_contract: '0x7d62d515ca6dd901fc920e361559fd394eef3d52'

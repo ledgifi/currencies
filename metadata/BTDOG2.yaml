@@ -4,3 +4,5 @@ id: BTDOG2
 id_nomics: BTDOG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTDOG2.jpg
 name: BTDog BEP20 Token
+platform: BNB
+platform_contract: '0x552b574a6879e29dde03606ef3ce68de052b3f63'

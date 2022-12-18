@@ -5,3 +5,5 @@ id_nomics: STAND2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STAND2.png
 logoKey: currencies/stand2.png
 name: Standard in Gold
+platform: BNB
+platform_contract: '0x401bbFB0f6d6432A33dd35C5EBb1bc4Ee0f1c45B'

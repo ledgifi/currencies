@@ -6,3 +6,5 @@ id_nomics: EDRA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EDRA.jpg
 logoKey: currencies/edra.jpg
 name: EDRA
+platform: ETH
+platform_contract: '0xa62f436faaa942a518a9543f5ef3174ad4112a9e'

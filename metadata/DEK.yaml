@@ -6,3 +6,5 @@ id_nomics: DEK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEK.png
 logoKey: currencies/dek.png
 name: DekBox
+platform: BNB
+platform_contract: '0xe52c5a3590952f3ed6fccf89a0bd7f38e11c5b98'

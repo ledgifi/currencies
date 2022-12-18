@@ -3,3 +3,5 @@ fiat: false
 id: TWLT
 id_nomics: TWLT
 name: Twilight
+platform: KCS
+platform_contract: '0x905bb6419948455847bef285485495fb570973b0'

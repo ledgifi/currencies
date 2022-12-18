@@ -5,3 +5,5 @@ id_nomics: BDGK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BDGK.jpg
 logoKey: currencies/bdgk.jpg
 name: BabyDogeKing
+platform: BNB
+platform_contract: '0x19127d633940db8d48412b83ee2322afe52eb47a'

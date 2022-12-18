@@ -5,3 +5,5 @@ id_nomics: TDT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TDT3.png
 logoKey: currencies/tdt3.png
 name: TREND BSC Token
+platform: BNB
+platform_contract: '0x03158f64179cff71ee3206024cee79d55b70ca9d'

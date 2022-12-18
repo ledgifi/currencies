@@ -5,3 +5,5 @@ id_nomics: WPOLIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WPOLIS.webp
 logoKey: currencies/wpolis.webp
 name: Wrapped Polis
+platform: ETH
+platform_contract: '0x622f2962ae78e8686ecc1e30cf2f9a6e5ac35626'

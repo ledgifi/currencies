@@ -5,3 +5,5 @@ id_nomics: SOCA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOCA2.jpg
 logoKey: currencies/soca2.jpg
 name: SoccerCard
+platform: ETH
+platform_contract: '0xB7DD3DAfe42cD1f4dC641A97f58a8eb129BD5540'

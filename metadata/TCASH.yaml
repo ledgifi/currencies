@@ -6,3 +6,5 @@ id_nomics: TCASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCASH.jpg
 logoKey: currencies/tcash.jpg
 name: TCASH
+platform: ETH
+platform_contract: '0x7051620d11042c4335069aaa4f10cd3b4290c681'

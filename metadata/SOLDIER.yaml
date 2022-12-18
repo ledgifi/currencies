@@ -5,3 +5,5 @@ id_nomics: SOLDIER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOLDIER.jpg
 logoKey: currencies/soldier.jpg
 name: Space Soldier
+platform: BNB
+platform_contract: '0x2921872530f53eb8e6fc388676b141ef41ee2d4e'

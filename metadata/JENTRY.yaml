@@ -3,3 +3,5 @@ fiat: false
 id: JENTRY
 id_nomics: JENTRY
 name: Jentry
+platform: ETH
+platform_contract: '0xff583f9c298fda98a664315fad45b2d5b8685b8a'

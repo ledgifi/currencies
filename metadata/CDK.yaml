@@ -3,3 +3,5 @@ fiat: false
 id: CDK
 id_nomics: CDK
 name: CryptoDuck
+platform: BNB
+platform_contract: '0x1d2928419fcaf9278b95569fc413d8d4b05305e9'

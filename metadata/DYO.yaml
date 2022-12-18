@@ -5,3 +5,5 @@ id_nomics: DYO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DYO.jpg
 logoKey: currencies/dyo.jpg
 name: DUYODACOIN
+platform: ETH
+platform_contract: '0x7fdcf60ee99811948f9ce7eed20761e6defb52fb'

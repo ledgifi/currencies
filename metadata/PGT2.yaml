@@ -5,3 +5,5 @@ id_nomics: PGT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PGT2.jpeg
 logoKey: currencies/pgt2.jpeg
 name: Polyient Games Governance Token
+platform: ETH
+platform_contract: '0xeaccb6E0f24d66cF4Aa6cBDa33971b9231d332a1'

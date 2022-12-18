@@ -5,3 +5,5 @@ id_nomics: E4USD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/E4USD.jpeg
 logoKey: currencies/e4usd.jpeg
 name: EqualMoney4usdc
+platform: FTM
+platform_contract: '0xb70130610e19f93e7e775f130eb70c4fa800ed7b'

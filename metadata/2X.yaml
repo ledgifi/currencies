@@ -5,3 +5,5 @@ id_nomics: 2X
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/2X.png
 logoKey: currencies/2x.png
 name: TwoX
+platform: BNB
+platform_contract: '0x4278ec576804c9e653a797b29bdca627ade4f6f8'

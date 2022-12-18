@@ -5,3 +5,5 @@ id_nomics: HOR4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOR4.jpg
 logoKey: currencies/hor4.jpg
 name: Horace
+platform: BNB
+platform_contract: '0x9cfae9369690836a9b176cfcd7fb07ab1cb9ab44'

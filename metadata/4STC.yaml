@@ -6,3 +6,5 @@ id_nomics: 4STC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/4STC.jpg
 logoKey: currencies/4stc.jpg
 name: 4-Stock
+platform: BNB
+platform_contract: '0x8a4840dc5975e424ec530ec88a8f27910a3cef51'

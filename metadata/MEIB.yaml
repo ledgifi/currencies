@@ -3,3 +3,5 @@ fiat: false
 id: MEIB
 id_nomics: MEIB
 name: mei coin
+platform: HT
+platform_contract: '0x36450783d8dc06261cc23fcac5e1861955c6628a'

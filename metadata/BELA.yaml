@@ -6,3 +6,5 @@ id_nomics: BELA
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/bela.svg
 logoKey: currencies/bela.svg
 name: Bela
+platform: ETH
+platform_contract: '0x2e98a6804e4b6c832ed0ca876a943abd3400b224'

@@ -5,3 +5,5 @@ id_nomics: KEK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KEK2.jpg
 logoKey: currencies/kek2.jpg
 name: CryptoKek
+platform: ETH
+platform_contract: '0x3fa400483487a489ec9b1db29c4129063eec4654'

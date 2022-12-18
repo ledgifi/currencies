@@ -5,3 +5,5 @@ id_nomics: SEED4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SEED4.jpg
 logoKey: currencies/seed4.jpg
 name: MetaGame
+platform: ETH
+platform_contract: '0x30cf203b48edaa42c3b4918e955fed26cd012a3f'

@@ -5,3 +5,5 @@ id_nomics: WELA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WELA.jpeg
 logoKey: currencies/wela.jpeg
 name: Wrapped Elastos
+platform: ELA
+platform_contract: '0x517e9e5d46c1ea8ab6f78677d6114ef47f71f6c4'

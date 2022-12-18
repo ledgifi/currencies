@@ -8,3 +8,5 @@ id_nomics: ALPACA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALPACA.png
 logoKey: currencies/alpaca.png
 name: Alpaca Finance
+platform: BNB
+platform_contract: '0x8f0528ce5ef7b51152a59745befdd91d97091d2f'

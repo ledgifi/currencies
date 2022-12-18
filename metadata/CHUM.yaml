@@ -6,3 +6,5 @@ id_nomics: CHUM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHUM.jpg
 logoKey: currencies/chum.jpg
 name: Chumhum Finance
+platform: MATIC
+platform_contract: '0x2e2dde47952b9c7defde7424d00dd2341ad927ca'

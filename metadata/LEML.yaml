@@ -5,3 +5,5 @@ id_nomics: LEML
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LEML.jpg
 logoKey: currencies/leml.jpg
 name: Energy Source
+platform: ETH
+platform_contract: '0x1f9232e7f1318abf91366e6081d57fa3c1bcde88'

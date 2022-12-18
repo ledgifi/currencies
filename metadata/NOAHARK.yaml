@@ -6,3 +6,5 @@ id_nomics: NOAHARK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NOAHARK.jpg
 logoKey: currencies/noahark.jpg
 name: Noah's Ark
+platform: ETH
+platform_contract: '0xfce94fde7ac091c2f1db00d62f15eeb82b624389'

@@ -6,3 +6,5 @@ id_nomics: UZZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UZZ.jpg
 logoKey: currencies/uzz.jpg
 name: UZURAS
+platform: ETH
+platform_contract: '0x66e5d4063219a54a8244078affb49e23982d9640'

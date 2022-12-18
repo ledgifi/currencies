@@ -3,3 +3,5 @@ fiat: false
 id: AMKT
 id_nomics: AMKT
 name: Alongside Crypto Market Index
+platform: ETH
+platform_contract: '0xf17a3fe536f8f7847f1385ec1bc967b2ca9cae8d'

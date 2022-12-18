@@ -6,3 +6,5 @@ id_nomics: MAPES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAPES.jpg
 logoKey: currencies/mapes.jpg
 name: Meta Apes
+platform: BNB
+platform_contract: '0xbdaf8d359eaa3bf2cc46878b912261db0503a9e9'

@@ -3,3 +3,5 @@ fiat: false
 id: CLASSIC2
 id_nomics: CLASSIC2
 name: Classic 2.0
+platform: ETH
+platform_contract: '0x208539932f28f83c9a5fd8b723fdc3fc50bc444b'

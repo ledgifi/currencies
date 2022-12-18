@@ -3,3 +3,5 @@ fiat: false
 id: XPRBEP20
 id_nomics: XPRBEP20
 name: Proton (BEP-20)
+platform: BNB
+platform_contract: '0x5de3939b2f811a61d830e6f52d13b066881412ab'

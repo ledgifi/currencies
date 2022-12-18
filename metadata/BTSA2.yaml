@@ -5,3 +5,5 @@ id_nomics: BTSA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTSA2.png
 logoKey: currencies/btsa2.png
 name: BTSA Coin
+platform: BNB
+platform_contract: '0xfd4d1db6dcaa4b5449da6cd31e33b14ae776c5cb'

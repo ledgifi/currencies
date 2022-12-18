@@ -5,3 +5,5 @@ id_nomics: ECIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECIT.png
 logoKey: currencies/ecit.png
 name: EternalCasino Invest
+platform: ETH
+platform_contract: '0x5a8e4bf903138b27e06e6f5dcc40ef0de195102d'

@@ -5,3 +5,5 @@ id_nomics: BBLINK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBLINK.jpg
 logoKey: currencies/bblink.jpg
 name: BabyLink
+platform: BNB
+platform_contract: '0xdb5bd5763c16e90f1d5b5947e1b9e2c278f054d9'

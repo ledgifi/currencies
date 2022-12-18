@@ -3,3 +3,5 @@ fiat: false
 id: HKDX
 id_nomics: HKDX
 name: eToro Hong Kong Dollar
+platform: ETH
+platform_contract: '0x1af20b8d1ede928f437b3a86801796b167840d2b'

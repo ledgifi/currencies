@@ -5,3 +5,5 @@ id_nomics: NSDX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NSDX.jpg
 logoKey: currencies/nsdx.jpg
 name: NASDEX Token
+platform: MATIC
+platform_contract: '0xe8d17b127ba8b9899a160d9a07b69bca8e08bfc6'

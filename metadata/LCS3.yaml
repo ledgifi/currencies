@@ -5,3 +5,5 @@ id_nomics: LCS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LCS3.jpeg
 logoKey: currencies/lcs3.jpeg
 name: LemonCheems
+platform: BNB
+platform_contract: '0x81609c405b5f4079f6d217e4cc9bb13ba812c36f'

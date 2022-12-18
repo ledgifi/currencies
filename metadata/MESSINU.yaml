@@ -5,3 +5,5 @@ id_nomics: MESSINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MESSINU.jpg
 logoKey: currencies/messinu.jpg
 name: Messi INU
+platform: BNB
+platform_contract: '0x3fed760d572848e107cedeb4eed3bcd1588f1073'

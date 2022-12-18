@@ -6,3 +6,5 @@ id_nomics: AGS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AGS.png
 logoKey: currencies/ags.png
 name: Aegis
+platform: ETH
+platform_contract: '0xdb2f2bcce3efa95eda95a233af45f3e0d4f00e2a'

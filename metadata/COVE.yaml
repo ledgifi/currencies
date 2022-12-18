@@ -3,3 +3,5 @@ fiat: false
 id: COVE
 id_nomics: COVE
 name: Covenant Bank
+platform: ETH
+platform_contract: '0x331da6dbf84514ded0aa3f22d7b6b84b9ca20a25'

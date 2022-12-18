@@ -5,3 +5,5 @@ id_nomics: PINKSALE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PINKSALE.png
 logoKey: currencies/pinksale.png
 name: PinkSale
+platform: BNB
+platform_contract: '0x602ba546a7b06e0fc7f58fd27eb6996ecc824689'

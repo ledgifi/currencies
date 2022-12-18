@@ -3,3 +3,5 @@ fiat: false
 id: YDES
 id_nomics: YDES
 name: YDES
+platform: BNB
+platform_contract: '0x21cefac80146dd7247489a6a87ad7a596200197f'

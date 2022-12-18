@@ -5,3 +5,5 @@ id_nomics: RSHIB5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RSHIB5.jpg
 logoKey: currencies/rshib5.jpg
 name: Rainbow Shiba
+platform: BNB
+platform_contract: '0xbd95c8595c5c9e186e66d461d21716eaac5a895a'

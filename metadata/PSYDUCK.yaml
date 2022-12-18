@@ -6,3 +6,5 @@ id_nomics: PSYDUCK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PSYDUCK.jpeg
 logoKey: currencies/psyduck.jpeg
 name: Psyduck Inu
+platform: ETH
+platform_contract: '0x99342b1a141aa3a02e04afb496562037fdf8e655'

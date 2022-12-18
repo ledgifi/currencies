@@ -5,3 +5,5 @@ id_nomics: DSHARE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DSHARE2.jpg
 logoKey: currencies/dshare2.jpg
 name: Dibs Share
+platform: BNB
+platform_contract: '0x26d3163b165be95137cee97241e716b2791a7572'

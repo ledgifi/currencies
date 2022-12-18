@@ -3,3 +3,5 @@ fiat: false
 id: ACP
 id_nomics: ACP
 name: AsynchronousCryptoPayments
+platform: BNB
+platform_contract: '0xc8876ba1167c0622521c2bf557a35640d15eb498'

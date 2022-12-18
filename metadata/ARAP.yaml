@@ -5,3 +5,5 @@ id_nomics: ARAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARAP.jpg
 logoKey: currencies/arap.jpg
 name: AraPlanet
+platform: BNB
+platform_contract: '0xa49e44976c236beb51a1f818d49b9b9759ed97b1'

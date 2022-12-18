@@ -3,3 +3,5 @@ fiat: false
 id: CATALUNA
 id_nomics: CATALUNA
 name: Cataluna
+platform: MATIC
+platform_contract: '0x38bfedd141519eea9e5c99acf4049d7edc703206'

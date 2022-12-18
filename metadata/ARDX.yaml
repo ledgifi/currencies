@@ -6,3 +6,5 @@ id_nomics: ARDX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARDX.png
 logoKey: currencies/ardx.png
 name: ArdCoin
+platform: ETH
+platform_contract: '0xb8e2e2101ed11e9138803cd3e06e16dd19910647'

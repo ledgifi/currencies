@@ -5,3 +5,5 @@ id_nomics: WBTCCKB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WBTCCKB.png
 logoKey: currencies/wbtcckb.png
 name: WBTC (via ForceBridge from ETH)
+platform: CKB
+platform_contract: '0x82455018f2c32943b3f12f4e59d0da2faf2257ef'

@@ -6,3 +6,5 @@ id_nomics: NANJ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/nanj.jpg
 logoKey: currencies/nanj.jpg
 name: NANJCOIN
+platform: ETH
+platform_contract: '0xffe02ee4c69edf1b340fcad64fbd6b37a7b9e265'

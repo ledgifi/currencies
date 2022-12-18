@@ -5,3 +5,5 @@ id_nomics: CNXCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CNXCX.jpg
 logoKey: currencies/cnxcx.jpg
 name: Consol Energy Token
+platform: ETH
+platform_contract: '0xb68db6b3e0dd4213f17cb2bf1039f08f69437b99'

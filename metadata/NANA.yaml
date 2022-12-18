@@ -5,3 +5,5 @@ id_nomics: NANA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NANA.jpg
 logoKey: currencies/nana.jpg
 name: Ape Tools
+platform: BNB
+platform_contract: '0x355ad7abb7bdd53bec94c068f3abbcb2e2571d0d'

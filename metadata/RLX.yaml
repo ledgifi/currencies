@@ -5,3 +5,5 @@ id_nomics: RLX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/rlx.jpg
 logoKey: currencies/rlx.jpg
 name: Relex
+platform: ETH
+platform_contract: '0x4a42d2c580f83dce404acad18dab26db11a1750e'

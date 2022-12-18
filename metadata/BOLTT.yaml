@@ -6,3 +6,5 @@ id_nomics: BOLTT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOLTT.jpeg
 logoKey: currencies/boltt.jpeg
 name: BolttCoin
+platform: ETH
+platform_contract: '0xbb340a2eaf55c5e67a5a05fe5ceed9b9702d76f4'

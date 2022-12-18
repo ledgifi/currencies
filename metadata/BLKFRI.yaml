@@ -3,3 +3,5 @@ fiat: false
 id: BLKFRI
 id_nomics: BLKFRI
 name: Black Friday
+platform: ETH
+platform_contract: '0x5fe61ca9f0190d3e4e9482edadb3a674e8ea605c'

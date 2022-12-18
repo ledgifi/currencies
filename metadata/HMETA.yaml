@@ -5,3 +5,5 @@ id_nomics: HMETA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HMETA.jpeg
 logoKey: currencies/hmeta.jpeg
 name: HMETA
+platform: ETH
+platform_contract: '0x0db2ce47a592ae82af29f96f029cba43f11de77a'

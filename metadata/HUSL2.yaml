@@ -5,3 +5,5 @@ id_nomics: HUSL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HUSL2.jpg
 logoKey: currencies/husl2.jpg
 name: The HUSL
+platform: ETH
+platform_contract: '0xa2881f7f441267042f9778ffa0d4f834693426be'

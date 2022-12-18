@@ -3,3 +3,5 @@ fiat: false
 id: GUMBEP20
 id_nomics: GUMBEP20
 name: Gourmet Galaxy (BEP-20)
+platform: BNB
+platform_contract: '0xc53708664b99df348dd27c3ac0759d2da9c40462'

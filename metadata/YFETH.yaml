@@ -5,3 +5,5 @@ id_nomics: YFETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFETH.png
 logoKey: currencies/yfeth.png
 name: YFEthereum
+platform: ETH
+platform_contract: '0x68763e696bdee1726e5a2d100fceaa5bd6c2fb3e'

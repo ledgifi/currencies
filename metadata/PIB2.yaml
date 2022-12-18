@@ -5,3 +5,5 @@ id_nomics: PIB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIB2.jpg
 logoKey: currencies/pib2.jpg
 name: Passive Income Bot
+platform: ETH
+platform_contract: '0x1baffbc23f2246040cce12f7a140c38c5dc73e46'

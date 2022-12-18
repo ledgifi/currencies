@@ -5,3 +5,5 @@ id_nomics: ROVA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROVA.jpg
 logoKey: currencies/rova.jpg
 name: ROVA
+platform: MATIC
+platform_contract: '0x4125D86746b2D3aEDa95da99dbDfa228Ba28cDB3'

@@ -5,3 +5,5 @@ id_nomics: BUGT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUGT.png
 logoKey: currencies/bugt.png
 name: Bug Thoughts Token
+platform: BNB
+platform_contract: '0x2380c93E64a47DBF0545665854726739Fc08A18B'

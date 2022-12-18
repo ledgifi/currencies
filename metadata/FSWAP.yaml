@@ -5,3 +5,5 @@ id_nomics: FSWAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FSWAP.jpg
 logoKey: currencies/fswap.jpg
 name: FlatSwap
+platform: BNB
+platform_contract: '0xd22246644d2be5d0427a8e474477d96677c3ec24'

@@ -6,3 +6,5 @@ id_nomics: NUTS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NUTS.jpg
 logoKey: currencies/nuts.jpg
 name: Squirrel Finance
+platform: ETH
+platform_contract: '0x84294fc9710e1252d407d3d80a84bc39001bd4a8'

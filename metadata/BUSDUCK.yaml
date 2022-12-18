@@ -5,3 +5,5 @@ id_nomics: BUSDUCK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUSDUCK.jpeg
 logoKey: currencies/busduck.jpeg
 name: BUSDUCK
+platform: BNB
+platform_contract: '0x12f9ae92ad8d7b16630d3bf2dfdf7f078d9edeef'

@@ -6,3 +6,5 @@ id_nomics: HPTT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HPTT.jpg
 logoKey: currencies/hptt.jpg
 name: Hyper Trust
+platform: ETH
+platform_contract: '0xba711fb93ca039cb592ee34c96f4adf632e5b8e7'

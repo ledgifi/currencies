@@ -5,3 +5,5 @@ id_nomics: KBCC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KBCC.png
 logoKey: currencies/kbcc.png
 name: Knowledge Blockchain Coin
+platform: ETH
+platform_contract: '0x6ac544849414fbafdc0adba7c77bbd73a7d36ac1'

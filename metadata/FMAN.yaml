@@ -6,3 +6,5 @@ id_nomics: FMAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FMAN.jpeg
 logoKey: currencies/fman.jpeg
 name: Florida Man
+platform: BNB
+platform_contract: '0xc2aebbbc596261d0be3b41812820dad54508575b'

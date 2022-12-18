@@ -6,3 +6,5 @@ id_nomics: TGNB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TGNB.jpg
 logoKey: currencies/tgnb.jpg
 name: Tiger Token
+platform: BNB
+platform_contract: '0x087b005b57c286886e4c6175822929ea42832719'

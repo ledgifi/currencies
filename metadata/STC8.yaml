@@ -5,3 +5,5 @@ id_nomics: STC8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STC8.png
 logoKey: currencies/stc8.png
 name: Starch
+platform: BNB
+platform_contract: '0xe57d85ecff76be30b2ae9d3ac02a99e1c0cee6e3'

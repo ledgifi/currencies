@@ -5,3 +5,5 @@ id_nomics: NT5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NT5.jpg
 logoKey: currencies/nt5.jpg
 name: Nort Token
+platform: BNB
+platform_contract: '0xA752dF1dE29CdDbA6f1142db2a75d407092CCE4b'

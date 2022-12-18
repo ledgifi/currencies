@@ -5,3 +5,5 @@ id_nomics: SPE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPE2.jpg
 logoKey: currencies/spe2.jpg
 name: SavePlanetEarth
+platform: BNB
+platform_contract: '0xdbaaa36b347d56b77ce0e36f050fceebbf9fbc38'

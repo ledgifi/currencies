@@ -5,3 +5,5 @@ id_nomics: ZIOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZIOX.jpg
 logoKey: currencies/ziox.jpg
 name: Zionomics
+platform: BNB
+platform_contract: '0xe7d76aa271041b2a1ff5fdef42730d9ab08f6163'

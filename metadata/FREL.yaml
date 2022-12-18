@@ -6,3 +6,5 @@ id_nomics: FREL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FREELA.jpg
 logoKey: currencies/frel.jpg
 name: Freela
+platform: ETH
+platform_contract: '0x29ceddcf0da3c1d8068a7dfbd0fb06c2e438ff70'

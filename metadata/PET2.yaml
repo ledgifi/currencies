@@ -5,3 +5,5 @@ id_nomics: PET2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PET2.jpg
 logoKey: currencies/pet2.jpg
 name: Battle Pets
+platform: BNB
+platform_contract: '0x4d4e595d643dc61ea7fcbf12e4b1aaa39f9975b8'

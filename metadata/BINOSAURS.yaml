@@ -6,3 +6,5 @@ id_nomics: BINOSAURS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BINOSAURS.jpg
 logoKey: currencies/binosaurs.jpg
 name: Binosaurs
+platform: BNB
+platform_contract: '0x7fdd003d3b61dda10429c1ebb502ec02946219cc'

@@ -3,3 +3,5 @@ fiat: false
 id: CODO
 id_nomics: CODO
 name: Corona Dollar
+platform: ETH
+platform_contract: '0x8301b6220eed034bc18e8406241e98fd306322f1'

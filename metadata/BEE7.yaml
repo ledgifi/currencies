@@ -5,3 +5,5 @@ id_nomics: BEE7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEE7.jpg
 logoKey: currencies/bee7.jpg
 name: Beecoin
+platform: BNB
+platform_contract: '0x959e3d0e6AC8297E6430D57707a6cFea341E963F'

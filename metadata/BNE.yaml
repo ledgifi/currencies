@@ -5,3 +5,5 @@ id_nomics: BNE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNE.png
 logoKey: currencies/bne.png
 name: Bankere
+platform: BNB
+platform_contract: '0xa5349425e079e0f33ebddf0ab9f936c54ae0054d'

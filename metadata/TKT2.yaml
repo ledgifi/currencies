@@ -3,3 +3,5 @@ fiat: false
 id: TKT2
 id_nomics: TKT2
 name: Tokyo Token
+platform: ETH
+platform_contract: '0x9fe16cf3068cfc1341053a5633e01d7e4806835a'

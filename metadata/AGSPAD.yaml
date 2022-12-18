@@ -6,3 +6,5 @@ id_nomics: AGSPAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AGSPAD.jpg
 logoKey: currencies/agspad.jpg
 name: Aegis Launchpad
+platform: BNB
+platform_contract: '0xf834673d496aeacb5e99dfbfc34f1bdcdf81d7bd'

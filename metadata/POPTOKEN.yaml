@@ -3,3 +3,5 @@ fiat: false
 id: POPTOKEN
 id_nomics: POPTOKEN
 name: PopToken
+platform: BNB
+platform_contract: '0x12267a917cf54d6615abe2841076caacc53b8a87'

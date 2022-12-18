@@ -6,3 +6,5 @@ id_nomics: CWOLF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CWOLF.png
 logoKey: currencies/cwolf.png
 name: CryptoWolf
+platform: BNB
+platform_contract: '0x8c5921a9563e6d5dda95cb46b572bb1cc9b04a27'

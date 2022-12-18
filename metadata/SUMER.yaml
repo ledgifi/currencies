@@ -5,3 +5,5 @@ id_nomics: SUMER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUMER.jpg
 logoKey: currencies/sumer.jpg
 name: Sumeriyen
+platform: BNB
+platform_contract: '0x94b6e405D6Ab244fAca031890B2aaaA0609994DD'

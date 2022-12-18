@@ -6,3 +6,5 @@ id_nomics: MONKY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MONKY.jpeg
 logoKey: currencies/monky.jpeg
 name: Monky Money
+platform: ETH
+platform_contract: '0xed4adbad65b3a8db119e285388185fc45dde5ce4'

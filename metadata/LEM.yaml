@@ -5,3 +5,5 @@ id_nomics: LEM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LEM.png
 logoKey: currencies/lem.png
 name: Lemur Finance
+platform: BNB
+platform_contract: '0xc35f46aaeb8ad17bcbaa78c03540feffa44790cb'

@@ -5,3 +5,5 @@ id_nomics: RTDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RTDOGE.jpg
 logoKey: currencies/rtdoge.jpg
 name: RetroDoge
+platform: BNB
+platform_contract: '0x335F07aC2c4363a5951427cbda38B0075455b2b5'

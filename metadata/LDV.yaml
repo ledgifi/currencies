@@ -3,3 +3,5 @@ fiat: false
 id: LDV
 id_nomics: LDV
 name: Leonardo Da Vinci
+platform: ETH
+platform_contract: '0x302cc16165b3ae82643ac62a8b77ba48b1f03fe1'

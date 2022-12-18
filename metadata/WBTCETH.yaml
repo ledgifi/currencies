@@ -3,3 +3,5 @@ fiat: false
 id: WBTCETH
 id_nomics: WBTCETH
 name: WBTC from Etherem wrapped by passport.meter.io
+platform: MOVR
+platform_contract: '0xe6a991ffa8cfe62b0bf6bf72959a3d4f11b2e0f5'

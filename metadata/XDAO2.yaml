@@ -3,3 +3,5 @@ fiat: false
 id: XDAO2
 id_nomics: XDAO2
 name: XDAO
+platform: ETH
+platform_contract: '0x71eeba415a523f5c952cc2f06361d5443545ad28'

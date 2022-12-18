@@ -5,3 +5,5 @@ id_nomics: MISSSHIBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MISSSHIBA.png
 logoKey: currencies/missshiba.png
 name: Miss Shiba Inu
+platform: BNB
+platform_contract: '0xD5fE426286B2Cfef4C49AA8f51F4C1965c116B5A'

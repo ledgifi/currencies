@@ -3,3 +3,5 @@ fiat: false
 id: PPC2
 id_nomics: PPC2
 name: Philips Pay Coin
+platform: ETH
+platform_contract: '0x84f710bae3316a74fb0fcb01904d2578a4cc6a26'

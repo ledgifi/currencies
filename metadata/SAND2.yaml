@@ -5,3 +5,5 @@ id_nomics: SAND2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAND2.svg
 logoKey: currencies/sand2.svg
 name: The Sandbox
+platform: ETH
+platform_contract: '0x3845badade8e6dff049820680d1f14bd3903a5d0'

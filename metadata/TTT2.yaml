@@ -5,3 +5,5 @@ id_nomics: TTT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TTT2.png
 logoKey: currencies/ttt2.png
 name: The Transfer Token
+platform: ETH
+platform_contract: '0x2494a68C1484376fEf880b4c24D91f049d29B02A'

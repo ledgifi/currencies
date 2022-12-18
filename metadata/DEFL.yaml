@@ -3,3 +3,5 @@ fiat: false
 id: DEFL
 id_nomics: DEFL
 name: Deflacoin
+platform: ETH
+platform_contract: '0x4ec2efb9cbd374786a03261e46ffce1a67756f3b'

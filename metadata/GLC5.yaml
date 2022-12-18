@@ -5,3 +5,5 @@ id_nomics: GLC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GLC5.png
 logoKey: currencies/glc5.png
 name: Good Life Coin
+platform: BNB
+platform_contract: '0xef3eef88186e95c8144cd8f4efec8b10395debf2'

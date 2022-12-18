@@ -5,3 +5,5 @@ id_nomics: VRGW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VRGW.png
 logoKey: currencies/vrgw.png
 name: Virtual Reality Game World
+platform: BNB
+platform_contract: '0xfdd2374be7ae7a71138b9f6b93d9ef034a49edb6'

@@ -6,3 +6,5 @@ id_nomics: HYPERSONIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HYPERSONIC.jpg
 logoKey: currencies/hypersonic.jpg
 name: Hypersonic Finance
+platform: BNB
+platform_contract: '0x2fd24e68dc5f6384255497d3ced04f715b87b4cf'

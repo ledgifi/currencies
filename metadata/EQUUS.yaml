@@ -3,3 +3,5 @@ fiat: false
 id: EQUUS
 id_nomics: EQUUS
 name: Mustang
+platform: ETH
+platform_contract: '0x27fb5310ebe81961872fb9d2a35494dad82e86bd'

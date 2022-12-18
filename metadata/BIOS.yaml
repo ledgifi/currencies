@@ -5,3 +5,5 @@ id_nomics: BIOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIOS.jpg
 logoKey: currencies/bios.jpg
 name: BIOS
+platform: ETH
+platform_contract: '0xaaca86b876ca011844b5798eca7a67591a9743c8'

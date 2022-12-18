@@ -3,3 +3,5 @@ fiat: false
 id: OCOIN
 id_nomics: OCOIN
 name: Oricoin
+platform: BNB
+platform_contract: '0x0bbcd4acf6e671b3e1136da58c58cf5b7c0cbaad'

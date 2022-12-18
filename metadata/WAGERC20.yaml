@@ -5,3 +5,5 @@ id_nomics: WAGERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAGERC20.jpg
 logoKey: currencies/wagerc20.jpg
 name: WagyuSwap (ERC-20)
+platform: ETH
+platform_contract: '0x7fa7df4996ac59f398476892cfb195ed38543520'

@@ -3,3 +3,5 @@ fiat: false
 id: XA9
 id_nomics: XA9
 name: XANTA9 (Wormhole)
+platform: MATIC
+platform_contract: '0x1b12bdef2d562e19dd3b8cb66f61f1e1b714d491'

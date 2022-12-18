@@ -5,3 +5,5 @@ id_nomics: BRUH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRUH.jpeg
 logoKey: currencies/bruh.jpeg
 name: Bruh
+platform: ETH
+platform_contract: '0xe6d2a9fcd946e07826c6cdd919da04763ea4d812'

@@ -3,3 +3,5 @@ fiat: false
 id: AIG
 id_nomics: AIG
 name: AIG
+platform: BNB
+platform_contract: '0x1b35bAbfFF2a2B440f9a66C435e1b737e28B9cE5'

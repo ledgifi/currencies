@@ -6,3 +6,5 @@ id_nomics: REVV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REVV.jpg
 logoKey: currencies/revv.jpg
 name: REVV
+platform: ETH
+platform_contract: '0x557b933a7c2c45672b610f8954a3deb39a51a8ca'

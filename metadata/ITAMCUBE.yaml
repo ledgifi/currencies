@@ -6,3 +6,5 @@ id_nomics: ITAMCUBE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ITAMCUBE.jpg
 logoKey: currencies/itamcube.jpg
 name: ITAM Cube
+platform: BNB
+platform_contract: '0x9b08f10d8c250714f6485212300a7b72f973f1fd'

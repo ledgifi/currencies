@@ -5,3 +5,5 @@ id_nomics: IBMCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IBMCX.jpg
 logoKey: currencies/ibmcx.jpg
 name: International Business Machines Corporation Token
+platform: ETH
+platform_contract: '0x3b7ac088c0d56d1fcb890a510a4a911ce4fe363a'

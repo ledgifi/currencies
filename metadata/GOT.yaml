@@ -6,3 +6,5 @@ id_nomics: GOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/got.png
 logoKey: currencies/got.png
 name: ParkinGo
+platform: ETH
+platform_contract: '0x613fa2a6e6daa70c659060e86ba1443d2679c9d7'

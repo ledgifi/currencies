@@ -6,3 +6,5 @@ id_nomics: NCOV
 logo: https://static.coinpaprika.com/coin/ncov-coronacoin/logo.png
 logoKey: currencies/ncov.png
 name: CoronaCoin
+platform: ETH
+platform_contract: '0xb80112e516dabcac6ab4665f1bd650996403156c'

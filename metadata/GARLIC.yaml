@@ -3,3 +3,5 @@ fiat: false
 id: GARLIC
 id_nomics: GARLIC
 name: Garlic Token
+platform: BNB
+platform_contract: '0x0d8ec18c2339088426d213cd72adef9c637a394e'

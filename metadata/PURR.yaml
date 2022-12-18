@@ -5,3 +5,5 @@ id_nomics: PURR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PURR.jpg
 logoKey: currencies/purr.jpg
 name: PurrCoin
+platform: ETH
+platform_contract: '0x779508466c23622ea40b07b32596adb025c84dfc'

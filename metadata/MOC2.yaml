@@ -5,3 +5,5 @@ id_nomics: MOC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOC2.png
 logoKey: currencies/moc2.png
 name: Money on Chain
+platform: RBTC
+platform_contract: '0x9ac7fe28967b30e3a4e6e03286d715b42b453d10'

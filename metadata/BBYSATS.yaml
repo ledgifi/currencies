@@ -5,3 +5,5 @@ id_nomics: BBYSATS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBYSATS.jpg
 logoKey: currencies/bbysats.jpg
 name: BabySatoshi
+platform: BNB
+platform_contract: '0xa8370e0aa4f1d51bef24331931d73398d52d2fac'

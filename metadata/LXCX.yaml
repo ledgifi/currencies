@@ -5,3 +5,5 @@ id_nomics: LXCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LXCX.jpg
 logoKey: currencies/lxcx.jpg
 name: LexinFintech Holdings Ltd. Token
+platform: ETH
+platform_contract: '0xe06d2bf8fb832020091fdc0063b5cb6c5b889ea4'

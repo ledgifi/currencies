@@ -5,3 +5,5 @@ id_nomics: STF5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STF5.jpg
 logoKey: currencies/stf5.jpg
 name: Soccer Tora
+platform: BNB
+platform_contract: '0x5d78d92f478ddafd746a593e9a1c1083c6a7a5d6'

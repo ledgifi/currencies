@@ -5,3 +5,5 @@ id_nomics: DUCKBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUCKBEP20.jpg
 logoKey: currencies/duckbep20.jpg
 name: DLP Duck Token (BEP-20)
+platform: BNB
+platform_contract: '0x5d186e28934c6b0ff5fc2fece15d1f34f78cbd87'

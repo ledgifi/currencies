@@ -5,3 +5,5 @@ id_nomics: IWON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IWON.jpg
 logoKey: currencies/iwon.jpg
 name: iWonGames
+platform: BNB
+platform_contract: '0xb3a1129d56c3131b960eeaf27dfd510ae1b38026'

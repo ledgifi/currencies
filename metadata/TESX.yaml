@@ -3,3 +3,5 @@ fiat: false
 id: TESX
 id_nomics: TESX
 name: TESX
+platform: BNB
+platform_contract: '0x4799fe6f975e768ae75b7939be180ef1f559b496'

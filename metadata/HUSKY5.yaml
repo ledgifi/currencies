@@ -5,3 +5,5 @@ id_nomics: HUSKY5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HUSKY5.png
 logoKey: currencies/husky5.png
 name: Husky Brother
+platform: BNB
+platform_contract: '0xd915ceb9661963392ef75500e596ce3f63a69b61'

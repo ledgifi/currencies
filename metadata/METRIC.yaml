@@ -6,3 +6,5 @@ id_nomics: METRIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METRIC.png
 logoKey: currencies/metric.png
 name: MetricExchange
+platform: ETH
+platform_contract: '0xefc1c73a3d8728dc4cf2a18ac5705fe93e5914ac'

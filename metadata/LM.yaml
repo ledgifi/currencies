@@ -3,3 +3,5 @@ fiat: false
 id: LM
 id_nomics: LM
 name: LM Token
+platform: ETH
+platform_contract: '0x7f1deb56075912e434189a74d5e3b0c733c5a050'

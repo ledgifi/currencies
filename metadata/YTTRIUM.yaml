@@ -6,3 +6,5 @@ id_nomics: YTTRIUM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YTTRIUM.jpg
 logoKey: currencies/yttrium.jpg
 name: Ladyminers
+platform: BNB
+platform_contract: '0xb4c61a351f1455fccfe9d6d35baf0bd7080f4199'

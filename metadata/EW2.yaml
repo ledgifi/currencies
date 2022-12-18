@@ -5,3 +5,5 @@ id_nomics: EW2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EW2.jpg
 logoKey: currencies/ew2.jpg
 name: EarthWater
+platform: BNB
+platform_contract: '0xca4822c30f161c34b312828c247fdd2cb0942f3e'

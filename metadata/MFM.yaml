@@ -6,3 +6,5 @@ id_nomics: MFM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MFM.jpg
 logoKey: currencies/mfm.jpg
 name: MoonFarmer
+platform: BNB
+platform_contract: '0x361f3d81e9b249cfafa7a047d9225c10323f10bd'

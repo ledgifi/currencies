@@ -3,3 +3,5 @@ fiat: false
 id: SWAP61NONE
 id_nomics: SWAP61NONE
 name: swap61none
+platform: BNB
+platform_contract: '0xc2325825f9cd84386796331e7516c160f32030a2'

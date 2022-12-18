@@ -5,3 +5,5 @@ id_nomics: MPRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MPRO.jpeg
 logoKey: currencies/mpro.jpeg
 name: Manager PRO
+platform: BNB
+platform_contract: '0x79fde167c18c51892be4b559b60d9420c02afd05'

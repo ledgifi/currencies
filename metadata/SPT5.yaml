@@ -5,3 +5,5 @@ id_nomics: SPT5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPT5.jpeg
 logoKey: currencies/spt5.jpeg
 name: Saintpatrick
+platform: BNB
+platform_contract: '0x3fc60b81c1610bb1924fb98903a33d5b478f7210'

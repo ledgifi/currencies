@@ -5,3 +5,5 @@ id_nomics: LAVA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LAVA3.jpg
 logoKey: currencies/lava3.jpg
 name: Lava Token
+platform: BNB
+platform_contract: '0xfaff5251ea98f90540d6bacdf7a458f61b456c06'

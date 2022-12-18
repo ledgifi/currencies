@@ -6,3 +6,5 @@ id_nomics: FEVR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FEVR.png
 logoKey: currencies/fevr.png
 name: RealFevr
+platform: BNB
+platform_contract: '0x82030cdbd9e4b7c5bb0b811a61da6360d69449cc'

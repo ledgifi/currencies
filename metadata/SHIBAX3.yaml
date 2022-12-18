@@ -5,3 +5,5 @@ id_nomics: SHIBAX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBAX3.png
 logoKey: currencies/shibax3.png
 name: Shibax
+platform: AVAX
+platform_contract: '0xcf2ebdbf09baf0cda1eecac6b74113ef3be7f845'

@@ -3,3 +3,5 @@ fiat: false
 id: HIC
 id_nomics: HIC
 name: HiChain
+platform: ETH
+platform_contract: '0xa1be20b6fdc9c722a987b1ad54aebd2bc931e5e0'

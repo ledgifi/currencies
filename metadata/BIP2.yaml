@@ -5,3 +5,5 @@ id_nomics: BIP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIP2.jpg
 logoKey: currencies/bip2.jpg
 name: BlockchainInvestPlatform
+platform: ETH
+platform_contract: '0xa0562477af9d02c20e9e94280d50022c350ca0a2'

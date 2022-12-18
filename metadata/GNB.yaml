@@ -5,3 +5,5 @@ id_nomics: GNB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GNB.png
 logoKey: currencies/gnb.png
 name: Grimance
+platform: BNB
+platform_contract: '0x8bf592df0a294f2fda54be025759c4e60710840d'

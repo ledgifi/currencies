@@ -5,3 +5,5 @@ id_nomics: PRINT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRINT4.jpg
 logoKey: currencies/print4.jpg
 name: Central Bank of Memes
+platform: ETH
+platform_contract: '0xb634bAbe1698C8E102416B0f7Fe6A68053dCcb3B'

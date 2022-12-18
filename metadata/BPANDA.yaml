@@ -6,3 +6,5 @@ id_nomics: BPANDA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BPANDA.jpg
 logoKey: currencies/bpanda.jpg
 name: Baby Panda
+platform: BNB
+platform_contract: '0xd1d613cd9c385d3b50bfec187f19638e91772ae6'

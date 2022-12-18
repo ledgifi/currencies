@@ -6,3 +6,5 @@ id_nomics: MBR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MBR.jpg
 logoKey: currencies/mbr.jpg
 name: MetaBullRun
+platform: BNB
+platform_contract: '0xe0118b83775000a9a4dd2579746ee4c8c7d3d73c'

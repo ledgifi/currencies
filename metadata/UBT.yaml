@@ -6,3 +6,5 @@ id_nomics: UBT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ubt.jpg
 logoKey: currencies/ubt.jpg
 name: Unibright
+platform: ETH
+platform_contract: '0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e'

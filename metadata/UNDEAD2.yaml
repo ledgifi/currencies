@@ -5,3 +5,5 @@ id_nomics: UNDEAD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNDEAD2.jpeg
 logoKey: currencies/undead2.jpeg
 name: Undead
+platform: FTM
+platform_contract: '0x89dD4d82F4aF70df521A76A4f0997b5Dc571917E'

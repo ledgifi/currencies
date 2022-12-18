@@ -5,3 +5,5 @@ id_nomics: HER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HER.jpg
 logoKey: currencies/her.jpg
 name: Hero Node Token
+platform: ETH
+platform_contract: '0x491c9a23db85623eed455a8efdd6aba9b911c5df'

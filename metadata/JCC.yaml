@@ -6,3 +6,5 @@ id_nomics: JCC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JCC.png
 logoKey: currencies/jcc.png
 name: Junca cash
+platform: ETH
+platform_contract: '0xea7aa1edd21735a5ab05ee3e90869016191e274e'

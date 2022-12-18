@@ -5,3 +5,5 @@ id_nomics: MSHIB3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSHIB3.png
 logoKey: currencies/mshib3.png
 name: Mutant Shiba Inu
+platform: BNB
+platform_contract: '0x8504477d949DA7Cb401D8dAFAAFFD3b696DB0419'

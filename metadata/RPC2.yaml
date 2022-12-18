@@ -5,3 +5,5 @@ id_nomics: RPC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RPC2.jpg
 logoKey: currencies/rpc2.jpg
 name: Ripio Coin
+platform: ETH
+platform_contract: '0xed025a9fe4b30bcd68460bca42583090c2266468'

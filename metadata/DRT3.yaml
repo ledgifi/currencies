@@ -5,3 +5,5 @@ id_nomics: DRT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRT3.jpg
 logoKey: currencies/drt3.jpg
 name: Decentralized REIT
+platform: BNB
+platform_contract: '0xa44a78e46217e82675f47dbbaa26f5651bce8d7a'

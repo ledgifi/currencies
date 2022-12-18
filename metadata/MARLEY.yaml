@@ -3,3 +3,5 @@ fiat: false
 id: MARLEY
 id_nomics: MARLEY
 name: Bird Marley
+platform: ETH
+platform_contract: '0x0b75c12539cc962bd7b7ec38c5bbd36ac6aad033'

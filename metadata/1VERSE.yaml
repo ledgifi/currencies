@@ -5,3 +5,5 @@ id_nomics: 1VERSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/1VERSE.jpeg
 logoKey: currencies/1verse.jpeg
 name: AstraVerse
+platform: BNB
+platform_contract: '0x648dDb8aE0417b64a2eCb36E57F248C8fE0816Ad'

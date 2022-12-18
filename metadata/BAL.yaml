@@ -8,3 +8,5 @@ id_nomics: BAL
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/bal.svg
 logoKey: currencies/bal.svg
 name: Balancer
+platform: ETH
+platform_contract: '0xba100000625a3754423978a60c9317c58a424e3D'

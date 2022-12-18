@@ -5,3 +5,5 @@ id_nomics: BNB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNB2.jpg
 logoKey: currencies/bnb2.jpg
 name: Binance Coin (Wormhole)
+platform: ETH
+platform_contract: '0x418d75f65a02b3d53b2418fb8e1fe493759c7605'

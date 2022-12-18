@@ -5,3 +5,5 @@ id_nomics: MWAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MWAR.jpg
 logoKey: currencies/mwar.jpg
 name: Moon Warriors
+platform: BNB
+platform_contract: '0xf8a1919da520a6c3b92e6abc64bf83c8d4432b14'

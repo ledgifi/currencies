@@ -5,3 +5,5 @@ id_nomics: ELONAPE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELONAPE.jpg
 logoKey: currencies/elonape.jpg
 name: ElonApe
+platform: BNB
+platform_contract: '0x69a227cc0d566bde085ada5e5d3258407026237a'

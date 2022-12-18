@@ -5,3 +5,5 @@ id_nomics: MGM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MGM2.jpeg
 logoKey: currencies/mgm2.jpeg
 name: Magnum Coin
+platform: BNB
+platform_contract: '0x498de7a5b206798e0c7f3aab5f42ce514e4beaed'

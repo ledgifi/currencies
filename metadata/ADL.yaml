@@ -6,3 +6,5 @@ id_nomics: ADL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADL.png
 logoKey: currencies/adl.png
 name: Adelphoi
+platform: ETH
+platform_contract: '0x660e71483785f66133548b10f6926dc332b06e61'

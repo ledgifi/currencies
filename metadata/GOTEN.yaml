@@ -5,3 +5,5 @@ id_nomics: GOTEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOTEN.jpg
 logoKey: currencies/goten.jpg
 name: GOTEN Token
+platform: ETH
+platform_contract: '0x7d56ef98b92a0aa0979bcf41e7a50b2009d134d9'

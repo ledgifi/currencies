@@ -6,3 +6,5 @@ id_nomics: KSC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KSC.jpg
 logoKey: currencies/ksc.jpg
 name: KStarCoin
+platform: ETH
+platform_contract: '0x990e081a7b7d3ccba26a2f49746a68cc4ff73280'

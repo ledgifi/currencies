@@ -5,3 +5,5 @@ id_nomics: PULSE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PULSE3.jpg
 logoKey: currencies/pulse3.jpg
 name: PulseNet
+platform: BNB
+platform_contract: '0x35b1e68510a12386b2a7a18f01e1cadc5946d6a7'

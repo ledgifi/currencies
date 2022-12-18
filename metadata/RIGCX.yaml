@@ -5,3 +5,5 @@ id_nomics: RIGCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RIGCX.jpg
 logoKey: currencies/rigcx.jpg
 name: Transocean Ltd.
+platform: ETH
+platform_contract: '0xf2ecf98db7b1d6fcb91d20efa26ba13130d7c8be'

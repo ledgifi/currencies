@@ -3,3 +3,5 @@ fiat: false
 id: TXH
 id_nomics: TXH
 name: TradeX Token
+platform: ETH
+platform_contract: '0x5432c580e34f590f4dd901b825ddeb92e905e826'

@@ -5,3 +5,5 @@ id_nomics: ICB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICB.jpg
 logoKey: currencies/icb.jpg
 name: ICHIBA
+platform: ETH
+platform_contract: '0x16886879d577815c3421fbbee77c85c947caeff6'

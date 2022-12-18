@@ -3,3 +3,5 @@ fiat: false
 id: HAPPYDOGCOIN
 id_nomics: HAPPYDOGCOIN
 name: Happy Dog Coin
+platform: ETH
+platform_contract: '0x355dafbb96ff87cf0714051b0e9bd889c4aa34ea'

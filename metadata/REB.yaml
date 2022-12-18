@@ -5,3 +5,5 @@ id_nomics: REB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REB.jpg
 logoKey: currencies/reb.jpg
 name: Rebased
+platform: ETH
+platform_contract: '0xe6279e1c65dd41b30ba3760dcac3cd8bbb4420d6'

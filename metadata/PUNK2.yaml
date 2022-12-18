@@ -5,3 +5,5 @@ id_nomics: PUNK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PUNK2.jpg
 logoKey: currencies/punk2.jpg
 name: CryptoPunks
+platform: ETH
+platform_contract: '0x269616d549d7e8eaa82dfb17028d0b212d11232a'

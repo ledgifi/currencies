@@ -5,3 +5,5 @@ id_nomics: OXM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OXM.png
 logoKey: currencies/oxm.png
 name: Oxmoon
+platform: BNB
+platform_contract: '0x4484692a0aa0207ee2693c2cebf9074405e04190'

@@ -5,3 +5,5 @@ id_nomics: JUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JUSD.png
 logoKey: currencies/jusd.png
 name: JustBamUsd
+platform: BNB
+platform_contract: '0x8de41396f750fa2c6521de3db27b42f02e4ee837'

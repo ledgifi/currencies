@@ -5,3 +5,5 @@ id_nomics: INC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INC2.jpeg
 logoKey: currencies/inc2.jpeg
 name: IBNCOIN
+platform: MATIC
+platform_contract: '0x821b40ec40bdb030db7d2c07c34eb67e5459267c'

@@ -5,3 +5,5 @@ id_nomics: TFDAO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TFDAO.jpg
 logoKey: currencies/tfdao.jpg
 name: The Figure
+platform: BNB
+platform_contract: '0x01f8f4ee7e57fb05884b7253e98fc11f8cb19ef3'

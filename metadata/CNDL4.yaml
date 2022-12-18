@@ -5,3 +5,5 @@ id_nomics: CNDL4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CNDL4.jpg
 logoKey: currencies/cndl4.jpg
 name: Candle
+platform: ETH
+platform_contract: '0xa7f75b22384ff06b1228ef82e075e30f047455c7'

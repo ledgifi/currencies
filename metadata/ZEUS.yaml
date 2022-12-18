@@ -6,3 +6,5 @@ id_nomics: ZEUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZEUS.png
 logoKey: currencies/zeus.png
 name: ZeusNetwork
+platform: ETH
+platform_contract: '0xe7e4279b80d319ede2889855135a22021baf0907'

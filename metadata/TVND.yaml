@@ -5,3 +5,5 @@ id_nomics: TVND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/tvnd.jpg
 logoKey: currencies/tvnd.jpg
 name: TrueVND
+platform: ETH
+platform_contract: '0x3dc0501c32bee0cc1e629d590302a4b909797474'

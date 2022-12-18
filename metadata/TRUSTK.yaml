@@ -6,3 +6,5 @@ id_nomics: TRUSTK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRUSTK.jpg
 logoKey: currencies/trustk.jpg
 name: TrustKeys Network
+platform: BNB
+platform_contract: '0xee89bd9af5e72b19b48cac3e51acde3a09a3ade3'

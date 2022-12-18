@@ -5,3 +5,5 @@ id_nomics: LIJ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIJ.jpg
 logoKey: currencies/lij.jpg
 name: LijanCoin
+platform: BNB
+platform_contract: '0xe1cb04ed13c38ebf5187ba54c0c36db690f77f72'

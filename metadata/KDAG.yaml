@@ -6,3 +6,5 @@ id_nomics: KDAG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KDAG.jpg
 logoKey: currencies/kdag.jpg
 name: King DAG
+platform: ETH
+platform_contract: '0x95e40e065afb3059dcabe4aaf404c1f92756603a'

@@ -5,3 +5,5 @@ id_nomics: DCANDY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DCANDY.png
 logoKey: currencies/dcandy.png
 name: Doge Candy
+platform: BNB
+platform_contract: '0xef34f878ff1607d4844e237501687c813693259a'

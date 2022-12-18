@@ -5,3 +5,5 @@ id_nomics: EOTO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EOTO.jpg
 logoKey: currencies/eoto.jpg
 name: Everyonetoken
+platform: ETH
+platform_contract: '0xd3e7e71d20403a6d0bead558c0bf19452a3fd002'

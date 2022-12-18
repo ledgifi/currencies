@@ -5,3 +5,5 @@ id_nomics: KOFFEE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KOFFEE.jpg
 logoKey: currencies/koffee.jpg
 name: KoffeeSwap
+platform: KCS
+platform_contract: '0xc0ffee0000921eb8dd7d506d4de8d5b79b856157'

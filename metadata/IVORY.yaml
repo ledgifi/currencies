@@ -6,3 +6,5 @@ id_nomics: IVORY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IVORY.jpg
 logoKey: currencies/ivory.jpg
 name: IvoryGate
+platform: BNB
+platform_contract: '0x5006867dbfc6022c4d1b6f3950f7889509bd7f6f'

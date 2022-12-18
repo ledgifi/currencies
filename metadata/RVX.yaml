@@ -5,3 +5,5 @@ id_nomics: RVX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RVX.jpg
 logoKey: currencies/rvx.jpg
 name: RiveX Token
+platform: ETH
+platform_contract: '0x91d6f6e9026e43240ce6f06af6a4b33129ebde94'

@@ -5,3 +5,5 @@ id_nomics: SWAGG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWAGG.png
 logoKey: currencies/swagg.png
 name: Swagg Network
+platform: ETH
+platform_contract: '0xa19a40fbd7375431fab013a4b08f00871b9a2791'

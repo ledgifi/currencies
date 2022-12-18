@@ -5,3 +5,5 @@ id_nomics: SSN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SSN.jpg
 logoKey: currencies/ssn.jpg
 name: SuperSkyNet
+platform: ETH
+platform_contract: '0xa5b46ff9a887180c8fb2d97146398ddfc5fef1cd'

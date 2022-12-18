@@ -6,3 +6,5 @@ id_nomics: INUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INUS.jpg
 logoKey: currencies/inus.jpg
 name: MultiPlanetary Inus
+platform: ETH
+platform_contract: '0x53821b9ef069cb6eb360b09480953bf737e2e013'

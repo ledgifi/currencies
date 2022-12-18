@@ -5,3 +5,5 @@ id_nomics: GDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GDOGE.jpg
 logoKey: currencies/gdoge.jpg
 name: GDOGE Finance
+platform: BNB
+platform_contract: '0xdeb9aca4f54abd9b82ca91b52fcccf869882b9fe'

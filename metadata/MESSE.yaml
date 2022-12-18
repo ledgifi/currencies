@@ -6,3 +6,5 @@ id_nomics: MESSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/messe.png
 logoKey: currencies/messe.png
 name: MesseToken
+platform: ETH
+platform_contract: '0x5874548c51822da642661b235e101d6d636b6feb'

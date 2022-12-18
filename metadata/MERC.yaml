@@ -6,3 +6,5 @@ id_nomics: MERC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MERC.png
 logoKey: currencies/merc.png
 name: MERLIN COINS
+platform: ETH
+platform_contract: '0x3a08b85d00eb899afe3bb382fe7375926880718f'

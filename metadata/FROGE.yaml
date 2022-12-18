@@ -6,3 +6,5 @@ id_nomics: FROGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FROGE.png
 logoKey: currencies/froge.png
 name: Froge Finance
+platform: ETH
+platform_contract: '0x29502fe4d233ef0b45c3647101fa1252ce0634bd'

@@ -6,3 +6,5 @@ id_nomics: BR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BR.jpg
 logoKey: currencies/br.jpg
 name: Bull Run Finance
+platform: BNB
+platform_contract: '0x25b070898a6c899b31e81de686b82241f5964ab4'

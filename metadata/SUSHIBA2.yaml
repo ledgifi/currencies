@@ -5,3 +5,5 @@ id_nomics: SUSHIBA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUSHIBA2.png
 logoKey: currencies/sushiba2.png
 name: Sushiba
+platform: BNB
+platform_contract: '0xD1f2CEa510F90A550a24aA08D3A8EDb66e1DF093'

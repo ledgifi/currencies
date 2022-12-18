@@ -5,3 +5,5 @@ id_nomics: UNO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNO2.jpg
 logoKey: currencies/uno2.jpg
 name: Uno Reinsure
+platform: ETH
+platform_contract: '0x474021845c4643113458ea4414bdb7fb74a01a77'

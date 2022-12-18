@@ -5,3 +5,5 @@ id_nomics: POKERFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POKERFI.jpg
 logoKey: currencies/pokerfi.jpg
 name: PokerFI.Finance
+platform: BNB
+platform_contract: '0xfe073c3b891325ae8686d9cf2c8b3586674f7be2'

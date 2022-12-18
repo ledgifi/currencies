@@ -6,3 +6,5 @@ id_nomics: WEGRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WEGRO.jpg
 logoKey: currencies/wegro.jpg
 name: WeGro
+platform: BNB
+platform_contract: '0x5946fe65ab9dc66a961234502ee96776e4fa9f52'

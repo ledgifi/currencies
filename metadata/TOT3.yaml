@@ -5,3 +5,5 @@ id_nomics: TOT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOT3.png
 logoKey: currencies/tot3.png
 name: Trick or Treat
+platform: BNB
+platform_contract: '0xdb1e47A3d64C699021ab774BC0cE01F92fB3Eb3e'

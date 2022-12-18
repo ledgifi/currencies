@@ -3,3 +3,5 @@ fiat: false
 id: CATCOINCAPITAL
 id_nomics: CATCOINCAPITAL
 name: CatcoinCapital
+platform: ETH
+platform_contract: '0x36973e7204cf70714a23e3b0af8fbecaf1122806'

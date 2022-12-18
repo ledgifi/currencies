@@ -6,3 +6,5 @@ id_nomics: MOJOV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOJOV2.jpg
 logoKey: currencies/mojov2.jpg
 name: Mojo V2
+platform: BNB
+platform_contract: '0xD893B0A45a83E6a7bE1Caa904626f38A81cBbD0D'

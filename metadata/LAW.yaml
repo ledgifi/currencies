@@ -5,3 +5,5 @@ id_nomics: LAW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LAW.png
 logoKey: currencies/law.png
 name: LAW
+platform: BCH
+platform_contract: '0x0b00366fbf7037e9d75e4a569ab27dab84759302'

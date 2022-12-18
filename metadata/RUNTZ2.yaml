@@ -5,3 +5,5 @@ id_nomics: RUNTZ2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RUNTZ2.png
 logoKey: currencies/runtz2.png
 name: RuntzCoin
+platform: BNB
+platform_contract: '0x72991fac4d29a8f68830a795e05e6b5cfb99e67c'

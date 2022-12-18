@@ -5,3 +5,5 @@ id_nomics: RVL5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RVL5.jpg
 logoKey: currencies/rvl5.jpg
 name: Revolotto
+platform: BNB
+platform_contract: '0x6dc3d0d6ec970bf5522611d8eff127145d02b675'

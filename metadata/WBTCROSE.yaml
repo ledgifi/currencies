@@ -5,3 +5,5 @@ id_nomics: WBTCROSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WBTCROSE.png
 logoKey: currencies/wbtcrose.png
 name: Wrapped Bitcoin (Oasis)
+platform: ROSE
+platform_contract: '0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818'

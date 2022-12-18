@@ -6,3 +6,5 @@ id_nomics: MSP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/msp.svg
 logoKey: currencies/msp.svg
 name: Mothership
+platform: ETH
+platform_contract: '0x68aa3f232da9bdc2343465545794ef3eea5209bd'

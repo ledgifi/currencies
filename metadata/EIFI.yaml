@@ -5,3 +5,5 @@ id_nomics: EIFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EIFI.jpg
 logoKey: currencies/eifi.jpg
 name: Eifi
+platform: BNB
+platform_contract: '0xbbf33a3c83cf86d0965a66e108669d272dfe4214'

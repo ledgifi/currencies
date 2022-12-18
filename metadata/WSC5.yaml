@@ -5,3 +5,5 @@ id_nomics: WSC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WSC5.jpg
 logoKey: currencies/wsc5.jpg
 name: Wall Street Capital
+platform: BNB
+platform_contract: '0x5b0c64768118380b357495f0c5d01ad714eda981'

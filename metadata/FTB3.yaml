@@ -5,3 +5,5 @@ id_nomics: FTB3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FTB3.jpg
 logoKey: currencies/ftb3.jpg
 name: Fit&Beat
+platform: ETH
+platform_contract: '0x5c6ff62552a25d68d453277dd3693f94c7e8c964'

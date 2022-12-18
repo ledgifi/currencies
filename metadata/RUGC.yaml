@@ -3,3 +3,5 @@ fiat: false
 id: RUGC
 id_nomics: RUGC
 name: RUGCLEANER
+platform: ETH
+platform_contract: '0x2ae2811675a8e38ab70f602560e881eaddce3511'

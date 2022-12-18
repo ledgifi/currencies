@@ -5,3 +5,5 @@ id_nomics: DOCUCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOCUCX.jpg
 logoKey: currencies/docucx.jpg
 name: DocuSign, Inc.
+platform: ETH
+platform_contract: '0xbfaf05861a01d37ae7a89dac83e8d306a83e8998'

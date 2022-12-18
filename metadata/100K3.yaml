@@ -5,3 +5,5 @@ id_nomics: 100K3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/100K3.png
 logoKey: currencies/100k3.png
 name: Wow100K V2
+platform: BNB
+platform_contract: '0x76110518dbb50c0421a00bf1bb5abf301bc7b7fe'

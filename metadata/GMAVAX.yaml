@@ -5,3 +5,5 @@ id_nomics: GMAVAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMAVAX.png
 logoKey: currencies/gmavax.png
 name: GhostMarket (Avalanche)
+platform: AVAX
+platform_contract: '0x0B53b5dA7d0F275C31a6A182622bDF02474aF253'

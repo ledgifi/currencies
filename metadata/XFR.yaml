@@ -5,3 +5,5 @@ id_nomics: XFR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XFR.jpg
 logoKey: currencies/xfr.jpg
 name: The Fire Token
+platform: BNB
+platform_contract: '0x11c3f759c0aae61078ec923af15f2f6fa2d326ce'

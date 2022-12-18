@@ -6,3 +6,5 @@ id_nomics: OXY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OXY.png
 logoKey: currencies/oxy.png
 name: Oxycoin
+platform: ETH
+platform_contract: '0x869b1f57380ae501d387b19262efd3c0eb7501b0'

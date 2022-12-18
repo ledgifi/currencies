@@ -5,3 +5,5 @@ id_nomics: KOOL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KOOL.jpg
 logoKey: currencies/kool.jpg
 name: KoolAid
+platform: ETH
+platform_contract: '0x9d695e811beb55c98b1b3668295e390d33de5930'

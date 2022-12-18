@@ -5,3 +5,5 @@ id_nomics: PMP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PMP.jpg
 logoKey: currencies/pmp.jpg
 name: Pumpy Farm
+platform: BNB
+platform_contract: '0x8d4fbb3ac63bf33851dce80d63613df1a515bc00'

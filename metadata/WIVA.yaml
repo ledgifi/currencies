@@ -6,3 +6,5 @@ id_nomics: WIVA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WIVA.jpg
 logoKey: currencies/wiva.jpg
 name: Wiva
+platform: ETH
+platform_contract: '0xa00055e6ee4d1f4169096ecb682f70caa8c29987'

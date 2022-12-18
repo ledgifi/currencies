@@ -5,3 +5,5 @@ id_nomics: ETHDAIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHDAIS.png
 logoKey: currencies/ethdais.png
 name: ETH Super Set
+platform: ETH
+platform_contract: '0xa12a696b9b11788076a6cb384cac6986b82545e1'

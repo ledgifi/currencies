@@ -6,3 +6,5 @@ id_nomics: KNGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KNGO.jpg
 logoKey: currencies/kngo.jpg
 name: Kangaroo Token
+platform: BNB
+platform_contract: '0x9b29e85752c17d92687c842b26e47fbe811f9a19'

@@ -5,3 +5,5 @@ id_nomics: AFIV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AFIV2.jpg
 logoKey: currencies/afiv2.jpg
 name: AFIv2
+platform: BNB
+platform_contract: '0x6c77df12c39cae90c4c46e5c19177679b7235cfa'

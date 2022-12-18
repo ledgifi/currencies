@@ -5,3 +5,5 @@ id_nomics: MELT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MELT3.jpeg
 logoKey: currencies/melt3.jpeg
 name: Defrost Finance
+platform: AVAX
+platform_contract: '0x47eb6f7525c1aa999fbc9ee92715f5231eb1241d'

@@ -5,3 +5,5 @@ id_nomics: VBNT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VBNT.png
 logoKey: currencies/vbnt.png
 name: Bancor Governance Token
+platform: ETH
+platform_contract: '0x48fb253446873234f2febbf9bdeaa72d9d387f94'

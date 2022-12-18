@@ -5,3 +5,5 @@ id_nomics: POR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POR3.jpg
 logoKey: currencies/por3.jpg
 name: Portuma
+platform: BNB
+platform_contract: '0x9000cac49c3841926baac5b2e13c87d43e51b6a4'

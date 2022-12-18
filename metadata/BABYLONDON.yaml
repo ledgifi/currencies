@@ -5,3 +5,5 @@ id_nomics: BABYLONDON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYLONDON.jpeg
 logoKey: currencies/babylondon.jpeg
 name: BabyLondon
+platform: BNB
+platform_contract: '0x3de0a68721bc846e950438071f6afc1faa42ef3e'

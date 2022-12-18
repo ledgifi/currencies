@@ -6,3 +6,5 @@ id_nomics: DCC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DCC.png
 logoKey: currencies/dcc.png
 name: Distributed Credit Chain
+platform: ETH
+platform_contract: '0xffa93aacf49297d51e211817452839052fdfb961'

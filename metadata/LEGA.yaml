@@ -5,3 +5,5 @@ id_nomics: LEGA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LEGA.png
 logoKey: currencies/lega.png
 name: LINK/ETH Growth Alpha Set
+platform: ETH
+platform_contract: '0xc166f976ce9926a3205b145af104eb0e4b38b5c0'

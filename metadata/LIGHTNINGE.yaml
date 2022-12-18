@@ -3,3 +3,5 @@ fiat: false
 id: LIGHTNINGE
 id_nomics: LIGHTNINGE
 name: Lightning ETH
+platform: ETH
+platform_contract: '0xbbe338b99f0ebdc7a19b6041ae20a99481a076f3'

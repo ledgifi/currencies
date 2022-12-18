@@ -6,3 +6,5 @@ id_nomics: FLOKIM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKIM.jpg
 logoKey: currencies/flokim.jpg
 name: Flokimooni
+platform: BNB
+platform_contract: '0x0f5351b9eaefd6687dff143de6ea5d01cb9c1205'

@@ -5,3 +5,5 @@ id_nomics: BEANS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEANS.jpg
 logoKey: currencies/beans.jpg
 name: BNBeanstalk
+platform: BNB
+platform_contract: '0x40be8529226de4507b19f5d88e52e511bef22e9a'

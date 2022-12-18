@@ -6,3 +6,5 @@ id_nomics: THEROCKS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THEROCKS.jpg
 logoKey: currencies/therocks.jpg
 name: The Rocks
+platform: BNB
+platform_contract: '0xd301fc0f091d87f59db47e0c7255c967c55cdd96'

@@ -3,3 +3,5 @@ fiat: false
 id: TST12
 id_nomics: TST12
 name: Test Only 12
+platform: ETH
+platform_contract: '0xc64d3a8815b043c9064599c88fbbbd7aaf5cc5c3'

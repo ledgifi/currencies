@@ -6,3 +6,5 @@ id_nomics: CHAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHAR.jpg
 logoKey: currencies/char.jpg
 name: Charitas
+platform: BNB
+platform_contract: '0x6466849a30247d90f0c228a6c4b6b106ff18cab9'

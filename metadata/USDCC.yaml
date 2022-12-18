@@ -3,3 +3,5 @@ fiat: false
 id: USDCC
 id_nomics: USDCC
 name: USDC Classic
+platform: ETH
+platform_contract: '0x69270cfc7165409e6a92658820ee9631f87008d9'

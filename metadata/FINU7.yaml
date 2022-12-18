@@ -5,3 +5,5 @@ id_nomics: FINU7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FINU7.jpeg
 logoKey: currencies/finu7.jpeg
 name: FloppaInu
+platform: BNB
+platform_contract: '0x154d56a0d51beee609a967a9bd4777d5912625c5'

@@ -6,3 +6,5 @@ id_nomics: UNQM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNQM.jpg
 logoKey: currencies/unqm.jpg
 name: UniqueMeta
+platform: ETH
+platform_contract: '0xc2e8f7d9fc0cbc7e7e8a6bf6035b934981077bdf'

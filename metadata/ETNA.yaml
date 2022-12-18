@@ -6,3 +6,5 @@ id_nomics: ETNA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETNA.jpg
 logoKey: currencies/etna.jpg
 name: ETNA Network
+platform: BNB
+platform_contract: '0x51f35073ff7cf54c9e86b7042e59a8cc9709fc46'

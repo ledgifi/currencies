@@ -3,3 +3,5 @@ fiat: false
 id: TABC
 id_nomics: TABC
 name: TabamCoin
+platform: BNB
+platform_contract: '0x01264a48850e02ccf10ffcc1c261a88ae15b9d4b'

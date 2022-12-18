@@ -6,3 +6,5 @@ id_nomics: CBY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBY.jpg
 logoKey: currencies/cby.jpg
 name: CBerry
+platform: BNB
+platform_contract: '0xa667fe00e537673582cb703ecaec7722dfb9a2e3'

@@ -3,3 +3,5 @@ fiat: false
 id: OSIS
 id_nomics: OSIS
 name: OSIS
+platform: MATIC
+platform_contract: '0x8303396ea8b5419e187950ce609ea1f610289912'

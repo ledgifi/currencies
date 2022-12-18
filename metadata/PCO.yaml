@@ -6,3 +6,5 @@ id_nomics: PCO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PCO.png
 logoKey: currencies/pco.png
 name: Pecunio
+platform: ETH
+platform_contract: '0xf5b815344641412401d8e868790dbd125e6761ca'

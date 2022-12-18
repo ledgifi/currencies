@@ -6,3 +6,5 @@ id_nomics: 2GT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/2GT.jpg
 logoKey: currencies/2gt.jpg
 name: 2gether
+platform: ETH
+platform_contract: '0xc96c1609a1a45ccc667b2b7fa6508e29617f7b69'

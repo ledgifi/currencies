@@ -6,3 +6,5 @@ id_nomics: PINT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PINT.jpg
 logoKey: currencies/pint.jpg
 name: Pub Finance
+platform: ETH
+platform_contract: '0xfecba472b2540c5a2d3700b2c9e06f0aa7dc6462'

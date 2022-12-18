@@ -3,3 +3,5 @@ fiat: false
 id: PCR2
 id_nomics: PCR2
 name: Paycer Protocol
+platform: MATIC
+platform_contract: '0xa6083abe845fbb8649d98b8586cbf50b7f233612'

@@ -5,3 +5,5 @@ id_nomics: PHLOW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PHLOW.jpg
 logoKey: currencies/phlow.jpg
 name: MOphlow
+platform: MATIC
+platform_contract: '0xbd78d0666e707f386ddafe587848deb018d8e641'

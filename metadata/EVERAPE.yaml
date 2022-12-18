@@ -6,3 +6,5 @@ id_nomics: EVERAPE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVERAPE.png
 logoKey: currencies/everape.png
 name: EverApe
+platform: ETH
+platform_contract: '0x3f9078b8fbcb1c4e03b41fa9e5a0532a28848db7'

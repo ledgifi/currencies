@@ -5,3 +5,5 @@ id_nomics: ZINAX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZINAX3.jpg
 logoKey: currencies/zinax3.jpg
 name: ZinaX DAO
+platform: BNB
+platform_contract: '0xff3aa0d4874c3bd5adcbb94254005ff19f798acb'

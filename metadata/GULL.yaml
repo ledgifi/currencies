@@ -6,3 +6,5 @@ id_nomics: GULL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GULL.jpg
 logoKey: currencies/gull.jpg
 name: PolyGod
+platform: BNB
+platform_contract: '0xca830317146bfdde71e7c0b880e2ec1f66e273ee'

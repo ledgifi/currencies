@@ -5,3 +5,5 @@ id_nomics: VVL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VVL2.png
 logoKey: currencies/vvl2.png
 name: Vival
+platform: BNB
+platform_contract: '0xcb4b60ab2d6c11e9f065c8e4850350a14c1b8b01'

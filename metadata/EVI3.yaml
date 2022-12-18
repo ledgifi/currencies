@@ -5,3 +5,5 @@ id_nomics: EVI3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVI3.jpg
 logoKey: currencies/evi3.jpg
 name: Eevee Inu
+platform: ETH
+platform_contract: '0x165b3172a3c63492f197a344d8937c752932ec15'

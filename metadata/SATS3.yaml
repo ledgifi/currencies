@@ -5,3 +5,5 @@ id_nomics: SATS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SATS3.jpg
 logoKey: currencies/sats3.jpg
 name: DeCus Satoshi
+platform: BNB
+platform_contract: '0xa258b20c6e6220dcf7cd523ff39847fec7a6a0cf'

@@ -5,3 +5,5 @@ id_nomics: USDY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDY.jpg
 logoKey: currencies/usdy.jpg
 name: USDY
+platform: BNB
+platform_contract: '0xe955ca3c79da781bf3e3da48f7a4a487f54bb1d4'

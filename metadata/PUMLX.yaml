@@ -5,3 +5,5 @@ id_nomics: PUMLX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PUMLX.png
 logoKey: currencies/pumlx.png
 name: PUMLx
+platform: ETH
+platform_contract: '0x8c088775e4139af116ac1fa6f281bbf71e8c1c73'

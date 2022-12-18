@@ -6,3 +6,5 @@ id_nomics: OYT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OYT.jpg
 logoKey: currencies/oyt.jpg
 name: OxyDev
+platform: ETH
+platform_contract: '0x33c8517e8b1beefd4a5275ab72acf39cd18331a3'

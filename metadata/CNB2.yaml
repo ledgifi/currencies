@@ -5,3 +5,5 @@ id_nomics: CNB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CNB2.jpeg
 logoKey: currencies/cnb2.jpeg
 name: Chicken N Beer
+platform: BNB
+platform_contract: '0x22f7ee3d9dfe821f59b543f160a8cbb812738495'

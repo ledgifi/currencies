@@ -5,3 +5,5 @@ id_nomics: SUM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUM2.jpg
 logoKey: currencies/sum2.jpg
 name: SUM
+platform: ETH
+platform_contract: '0x043c308bb8a5ae96d0093444be7f56459f1340b1'

@@ -6,3 +6,5 @@ id_nomics: HADA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HADA.jpg
 logoKey: currencies/hada.jpg
 name: HodlADA
+platform: BNB
+platform_contract: '0xc50d9ec1f70b907ca639e314e525c5adfd4285ba'

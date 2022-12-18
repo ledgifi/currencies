@@ -3,3 +3,5 @@ fiat: false
 id: ZHINV
 id_nomics: ZHINV
 name: zhinv
+platform: BNB
+platform_contract: '0xa206ab2b61158f69de674c550d02638f8b76e0ab'

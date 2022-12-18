@@ -6,3 +6,5 @@ id_nomics: SAKATA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAKATA.jpg
 logoKey: currencies/sakata.jpg
 name: Sakata Inu
+platform: ETH
+platform_contract: '0xcfe6f0b007e817ca0ed2f1b7581d1dea213d07ae'

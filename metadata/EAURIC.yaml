@@ -6,3 +6,5 @@ id_nomics: EAURIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EAURIC.jpg
 logoKey: currencies/eauric.jpg
 name: Eauric
+platform: ETH
+platform_contract: '0xc36c65693ea9e207ad35d4ee2fb6c5f6f43bdec8'

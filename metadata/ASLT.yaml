@@ -3,3 +3,5 @@ fiat: false
 id: ASLT
 id_nomics: ASLT
 name: ASLTToken
+platform: ETH
+platform_contract: '0x52d1d1c87eb75a5d695bffa343cac71222cd518e'

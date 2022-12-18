@@ -5,3 +5,5 @@ id_nomics: ATOMBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATOMBEP20.jpeg
 logoKey: currencies/atombep20.jpeg
 name: Cosmos Token (BEP-20)
+platform: BNB
+platform_contract: '0x0eb3a705fc54725037cc9e008bdede697f62f335'

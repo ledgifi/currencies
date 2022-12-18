@@ -5,3 +5,5 @@ id_nomics: FUSII
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FUSII.jpg
 logoKey: currencies/fusii.jpg
 name: Fusible | Fusible.io
+platform: BNB
+platform_contract: '0x3a50d6daacc82f17a2434184fe904fc45542a734'

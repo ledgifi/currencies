@@ -6,3 +6,5 @@ id_nomics: TCAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCAKE.jpg
 logoKey: currencies/tcake.jpg
 name: PancakeTools
+platform: BNB
+platform_contract: '0x3b831d36ed418e893f42d46ff308c326c239429f'

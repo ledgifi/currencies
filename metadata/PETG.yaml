@@ -6,3 +6,5 @@ id_nomics: PETG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PETG.jpg
 logoKey: currencies/petg.jpg
 name: Pet Games
+platform: BNB
+platform_contract: '0x09607078980cbb0665aba9c6d1b84b8ead246aa0'

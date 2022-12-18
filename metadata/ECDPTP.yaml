@@ -3,3 +3,5 @@ fiat: false
 id: ECDPTP
 id_nomics: ECDPTP
 name: Echidna PTP
+platform: AVAX
+platform_contract: '0xb2c5172e5c15af6add1ec92e518a5ea1c7ded2ad'

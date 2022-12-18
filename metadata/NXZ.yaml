@@ -5,3 +5,5 @@ id_nomics: NXZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NXZ.png
 logoKey: currencies/nxz.png
 name: Nexy Zero
+platform: ETH
+platform_contract: '0x63e66571a6936b23e03b82a44306409d9f0afe32'

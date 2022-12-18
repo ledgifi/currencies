@@ -5,3 +5,5 @@ id_nomics: BMWCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BMWCX.jpg
 logoKey: currencies/bmwcx.jpg
 name: BMW AG Token
+platform: ETH
+platform_contract: '0xe8e29fa0e8b21f6791ad9f65347d806d4f47d063'

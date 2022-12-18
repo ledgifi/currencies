@@ -5,3 +5,5 @@ id_nomics: SPOTCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPOTCX.jpg
 logoKey: currencies/spotcx.jpg
 name: Spotify Technology SA (SPOT)
+platform: ETH
+platform_contract: '0x6e465c4f1a13c6f73f251773e3869db565c5e41a'

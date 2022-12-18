@@ -5,3 +5,5 @@ id_nomics: LBTRX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LBTRX.jpeg
 logoKey: currencies/lbtrx.jpeg
 name: Little Baby Tron
+platform: BNB
+platform_contract: '0xc9c9b84dc045de7c781e361d32aea3e978b061e6'

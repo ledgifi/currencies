@@ -3,3 +3,5 @@ fiat: false
 id: GOJO
 id_nomics: GOJO
 name: $GOJO
+platform: ETH
+platform_contract: '0xca43f65830c56d9b7d74c517697ef996f7e8a73a'

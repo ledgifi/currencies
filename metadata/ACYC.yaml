@@ -6,3 +6,5 @@ id_nomics: ACYC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACYC.jpg
 logoKey: currencies/acyc.jpg
 name: All Coins Yield Capital
+platform: ETH
+platform_contract: '0xb56a1f3310578f23120182fb2e58c087efe6e147'

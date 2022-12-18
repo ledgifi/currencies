@@ -3,3 +3,5 @@ fiat: false
 id: CITIZENS
 id_nomics: CITIZENS
 name: CITIZENS
+platform: ETH
+platform_contract: '0xfeadd3c0346d3f87576cb134ca47e2d0a9e6c8eb'

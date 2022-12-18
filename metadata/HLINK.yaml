@@ -6,3 +6,5 @@ id_nomics: HLINK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HLINK.png
 logoKey: currencies/hlink.png
 name: HydroLink
+platform: BNB
+platform_contract: '0x5523636a2ae324000eb0f239c474bb04346fec31'

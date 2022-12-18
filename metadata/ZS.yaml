@@ -3,3 +3,5 @@ fiat: false
 id: ZS
 id_nomics: ZS
 name: ZSToken
+platform: ETH
+platform_contract: '0x7815017625fc9fc7a921578c8b6a3015f99f76fe'

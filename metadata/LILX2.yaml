@@ -5,3 +5,5 @@ id_nomics: LILX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LILX2.jpeg
 logoKey: currencies/lilx2.jpeg
 name: Lil X Floki
+platform: BNB
+platform_contract: '0xcb65b797c650b3a25e7cb862f7d9d0f125021aa6'

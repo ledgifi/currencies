@@ -5,3 +5,5 @@ id_nomics: CENT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CENT3.jpg
 logoKey: currencies/cent3.jpg
 name: Centaurify
+platform: ETH
+platform_contract: '0x08ba718f288c3b12b01146816bef9fa03cc635bc'

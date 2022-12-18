@@ -6,3 +6,5 @@ id_nomics: METAPUL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAPUL.jpg
 logoKey: currencies/metapul.jpg
 name: Parallel Universe Meta
+platform: BNB
+platform_contract: '0xc852426f0fd87a2e33669ed485e3395e3c559952'

@@ -6,3 +6,5 @@ id_nomics: BANKETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BANKETH.jpg
 logoKey: currencies/banketh.jpg
 name: BankEth
+platform: ETH
+platform_contract: '0xbe0c826f17680d8da620855be89dd6544c034ca1'

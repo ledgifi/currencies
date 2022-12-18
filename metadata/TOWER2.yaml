@@ -5,3 +5,5 @@ id_nomics: TOWER2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOWER2.png
 logoKey: currencies/tower2.png
 name: Tower Finance
+platform: MATIC
+platform_contract: '0x8201532917e55ba29674ef4e88ffe0b775f1bae8'

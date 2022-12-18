@@ -5,3 +5,5 @@ id_nomics: DBB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DBB.png
 logoKey: currencies/dbb.png
 name: Document Bill Bit
+platform: ETH
+platform_contract: '0x976010db5538f0c1daf9f3855b8504721a23e5d4'

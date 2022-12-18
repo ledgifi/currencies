@@ -5,3 +5,5 @@ id_nomics: SHIBBOLETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBBOLETH.png
 logoKey: currencies/shibboleth.png
 name: Shibboleth
+platform: MINTME
+platform_contract: '0x619d5184bebfccae29677af50a94b194ea6857b8'

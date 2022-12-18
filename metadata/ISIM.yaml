@@ -6,3 +6,5 @@ id_nomics: ISIM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ISIM.jpeg
 logoKey: currencies/isim.jpeg
 name: iSim
+platform: BNB
+platform_contract: '0x03bb171c8e9fb3ff0490f2b33c63ecaa17af4084'

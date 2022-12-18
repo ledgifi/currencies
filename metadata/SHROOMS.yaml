@@ -5,3 +5,5 @@ id_nomics: SHROOMS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHROOMS.png
 logoKey: currencies/shrooms.png
 name: Mushroom Coin
+platform: BNB
+platform_contract: '0xafc742d160941d2f05cab2869db2b16a1d51d560'

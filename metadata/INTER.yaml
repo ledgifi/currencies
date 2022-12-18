@@ -5,3 +5,5 @@ id_nomics: INTER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INTER.jpg
 logoKey: currencies/inter.jpg
 name: Inter Milan Fan Token
+platform: CHZ
+platform_contract: '0x67e410b0e722ff2eec6ddcc7aefd3edbc2b9078d'

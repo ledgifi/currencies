@@ -5,3 +5,5 @@ id_nomics: LED4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LED4.jpg
 logoKey: currencies/led4.jpg
 name: Ledgis
+platform: ETH
+platform_contract: '0x041a36b015486941ce8d5f2c7ff2e88f97390640'

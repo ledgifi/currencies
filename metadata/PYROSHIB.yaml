@@ -6,3 +6,5 @@ id_nomics: PYROSHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PYROSHIB.png
 logoKey: currencies/pyroshib.png
 name: Pyro Shiba Inu
+platform: BNB
+platform_contract: '0xe104c75Add36308e59511CC03522f739c2961504'

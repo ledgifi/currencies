@@ -6,3 +6,5 @@ id_nomics: KALLY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KALLY.jpg
 logoKey: currencies/kally.jpg
 name: Polkally
+platform: ETH
+platform_contract: '0xfd30c9bea1a952feeed2ef2c6b2ff8a8fc4aad07'

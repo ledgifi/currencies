@@ -3,3 +3,5 @@ fiat: false
 id: WCRS
 id_nomics: WCRS
 name: Wrapped CROSkull
+platform: CRO
+platform_contract: '0x12236cae779a2388eb8e6be8385de6d086b76010'

@@ -5,3 +5,5 @@ id_nomics: RISEERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RISEERC20.png
 logoKey: currencies/riseerc20.png
 name: EverRise (ERC-20)
+platform: ETH
+platform_contract: '0x0cd022dde27169b20895e0e2b2b8a33b25e63579'

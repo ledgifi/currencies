@@ -5,3 +5,5 @@ id_nomics: IETHV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IETHV.jpg
 logoKey: currencies/iethv.jpg
 name: Inverse Ethereum Volatility Index Token
+platform: ETH
+platform_contract: '0x3a707d56d538e85b783e8ce12b346e7fb6511f90'

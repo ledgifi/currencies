@@ -3,3 +3,5 @@ fiat: false
 id: NOMI
 id_nomics: NOMI
 name: NWOMI
+platform: BNB
+platform_contract: '0x0031aeb3b473e0c437b6c77c0fc8527a368dcca1'

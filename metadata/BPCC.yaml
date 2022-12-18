@@ -3,3 +3,5 @@ fiat: false
 id: BPCC
 id_nomics: BPCC
 name: BPCC
+platform: HT
+platform_contract: '0x8eba5b349e69401ed25a996d3d6c9b934868df32'

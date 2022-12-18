@@ -5,3 +5,5 @@ id_nomics: AUR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AUR3.jpg
 logoKey: currencies/aur3.jpg
 name: Aurum V1 (OLD)
+platform: BNB
+platform_contract: '0x5b6afbd5184638c9c49c485c3de5ed56269ba6cb'

@@ -5,3 +5,5 @@ id_nomics: STACK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STACK.jpg
 logoKey: currencies/stack.jpg
 name: Stacker Ventures
+platform: ETH
+platform_contract: '0xe0955f26515d22e347b17669993fcefcc73c3a0a'

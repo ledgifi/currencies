@@ -5,3 +5,5 @@ id_nomics: UNIX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNIX2.jpg
 logoKey: currencies/unix2.jpg
 name: UniX
+platform: ETH
+platform_contract: '0xddd6a0ecc3c6f6c102e5ea3d8af7b801d1a77ac8'

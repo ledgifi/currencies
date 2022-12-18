@@ -5,3 +5,5 @@ id_nomics: MELT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MELT2.png
 logoKey: currencies/melt2.png
 name: MeltShroom
+platform: AVAX
+platform_contract: '0x479710b1cfD30C4D93B4e1a47d821C5E06B3d3FE'

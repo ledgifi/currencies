@@ -3,3 +3,5 @@ fiat: false
 id: STONEBUCKS
 id_nomics: STONEBUCKS
 name: STONEBUCKS
+platform: ETH
+platform_contract: '0x3fbd42443ba53ce6de62a6a95e2f8fc558dc866d'

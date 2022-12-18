@@ -5,3 +5,5 @@ id_nomics: NC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NC.jpeg
 logoKey: currencies/nc.jpeg
 name: NewChat
+platform: ETH
+platform_contract: '0x9e176ad338d72dda4b3434a2a9daa598b08fa5c5'

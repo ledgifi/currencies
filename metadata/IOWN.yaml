@@ -6,3 +6,5 @@ id_nomics: IOWN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IOWN.jpg
 logoKey: currencies/iown.jpg
 name: iOWN Token
+platform: ETH
+platform_contract: '0x555d051538c7a13712f1f590fa6b4c176ca4529f'

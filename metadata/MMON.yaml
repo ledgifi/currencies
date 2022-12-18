@@ -6,3 +6,5 @@ id_nomics: MMON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MMON.jpg
 logoKey: currencies/mmon.jpg
 name: Mammon
+platform: BNB
+platform_contract: '0xa9f179c99567d6d671c3ac5edf206f5fc647483f'

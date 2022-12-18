@@ -5,3 +5,5 @@ id_nomics: CPINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CPINU.jpeg
 logoKey: currencies/cpinu.jpeg
 name: CheemsPepeInu
+platform: BNB
+platform_contract: '0x8f1c2be25dcb615e6e26b44966c29018d4d6d5ae'

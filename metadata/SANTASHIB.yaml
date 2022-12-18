@@ -6,3 +6,5 @@ id_nomics: SANTASHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SANTASHIB.jpg
 logoKey: currencies/santashib.jpg
 name: Santa Shiba
+platform: BNB
+platform_contract: '0x74c609b16512869b1873f5a9d7999deee386e740'

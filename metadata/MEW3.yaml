@@ -5,3 +5,5 @@ id_nomics: MEW3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEW3.jpeg
 logoKey: currencies/mew3.jpeg
 name: MewBsc
+platform: BNB
+platform_contract: '0x8D854C6Ac4078cfDaa9ec629Bcd05f654c04372D'

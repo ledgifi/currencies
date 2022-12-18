@@ -5,3 +5,5 @@ id_nomics: BTCT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCT2.jpg
 logoKey: currencies/btct2.jpg
 name: Bitcoin True
+platform: ETH
+platform_contract: '0x820a8481451e893bc66dce50c84d45617cac3705'

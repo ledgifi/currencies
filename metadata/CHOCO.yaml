@@ -3,3 +3,5 @@ fiat: false
 id: CHOCO
 id_nomics: CHOCO
 name: ChocoToken
+platform: HT
+platform_contract: '0x24cf3b9a7d54727fb1ce7af8471ee983acf835a3'

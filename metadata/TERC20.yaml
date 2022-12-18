@@ -3,3 +3,5 @@ fiat: false
 id: TERC20
 id_nomics: TERC20
 name: True ERC20
+platform: ETH
+platform_contract: '0x7435ff44105a99f64f2b4f9562ae3ae104721e90'

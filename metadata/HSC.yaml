@@ -6,3 +6,5 @@ id_nomics: HSC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/hsc.png
 logoKey: currencies/hsc.png
 name: Hashcoin
+platform: ETH
+platform_contract: '0x2bba3cf6de6058cc1b4457ce00deb359e2703d7f'

@@ -3,3 +3,5 @@ fiat: false
 id: CEM
 id_nomics: CEM
 name: CRYPTO EMERGENCY
+platform: BNB
+platform_contract: '0x4a5e2cf8db7066d075afcdca9e692cfd03e47a8c'

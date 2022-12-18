@@ -3,3 +3,5 @@ fiat: false
 id: SUMST
 id_nomics: SUMST
 name: SumtenStable
+platform: MATIC
+platform_contract: '0x23a0bd0dee1de7928fd9539fd12a14f7c7608e9b'

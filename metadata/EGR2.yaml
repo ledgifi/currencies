@@ -5,3 +5,5 @@ id_nomics: EGR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EGR2.png
 logoKey: currencies/egr2.png
 name: Egoras Rights
+platform: BNB
+platform_contract: '0x8e9a916b6920136110a77e9acaf878862358a467'

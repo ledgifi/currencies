@@ -5,3 +5,5 @@ id_nomics: LYS4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LYS4.jpg
 logoKey: currencies/lys4.jpg
 name: Lystoken
+platform: BNB
+platform_contract: '0x2d8d1253dc5c72469826ac3d8c104195492828e8'

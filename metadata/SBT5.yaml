@@ -5,3 +5,5 @@ id_nomics: SBT5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBT5.jpg
 logoKey: currencies/sbt5.jpg
 name: Solaris Betting Token
+platform: BNB
+platform_contract: '0x5879e032b77099bca9c62b27a9b004fd7e6334a1'

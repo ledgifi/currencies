@@ -5,3 +5,5 @@ id_nomics: KYC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KYC2.png
 logoKey: currencies/kyc2.png
 name: KeyChain
+platform: ETH
+platform_contract: '0x94aa0b1724242EA98e17ed987Bbb1B8afF20A16c'

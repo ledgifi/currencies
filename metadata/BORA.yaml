@@ -6,3 +6,5 @@ id_nomics: BORA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bora.jpg
 logoKey: currencies/bora.jpg
 name: BORA
+platform: ETH
+platform_contract: '0x26fb86579e371c7aedc461b2ddef0a8628c93d3b'

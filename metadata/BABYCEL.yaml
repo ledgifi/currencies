@@ -5,3 +5,5 @@ id_nomics: BABYCEL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYCEL.png
 logoKey: currencies/babycel.png
 name: Baby Celsius
+platform: BNB
+platform_contract: '0xfef9c18e6057d0ec753ebd5e755b64dda8b441e2'

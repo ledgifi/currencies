@@ -5,3 +5,5 @@ id_nomics: CELN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CELN.jpeg
 logoKey: currencies/celn.jpeg
 name: Chameleon Bridges
+platform: BNB
+platform_contract: '0x29CA11C167043EEE8FCcA884a49894E4e14aEd02'

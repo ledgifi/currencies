@@ -6,3 +6,5 @@ id_nomics: QUACK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QUACK.jpg
 logoKey: currencies/quack.jpg
 name: RichQuack
+platform: BNB
+platform_contract: '0xd74b782e05aa25c50e7330af541d46e18f36661c'

@@ -5,3 +5,5 @@ id_nomics: OKSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OKSE.jpg
 logoKey: currencies/okse.jpg
 name: OKSE
+platform: BNB
+platform_contract: '0x606fb7969fc1b5cad58e64b12cf827fb65ee4875'

@@ -5,3 +5,5 @@ id_nomics: NUKE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NUKE3.jpeg
 logoKey: currencies/nuke3.jpeg
 name: Mini Nuke
+platform: BNB
+platform_contract: '0xae0099081d9fa88dfc76cfff903fff42a9056f80'

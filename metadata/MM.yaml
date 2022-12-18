@@ -5,3 +5,5 @@ id_nomics: MM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MM.jpg
 logoKey: currencies/mm.jpg
 name: Moon Money Chain
+platform: ETH
+platform_contract: '0xcd23ef2cba177a1b5f5d3818d055868e4b599d18'

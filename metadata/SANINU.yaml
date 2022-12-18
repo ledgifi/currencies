@@ -6,3 +6,5 @@ id_nomics: SANINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SANINU.jpeg
 logoKey: currencies/saninu.jpeg
 name: Santa Inu
+platform: BNB
+platform_contract: '0x4d496efc21754481fe7a9f3f0f758785ade8e1d3'

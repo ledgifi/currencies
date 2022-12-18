@@ -6,3 +6,5 @@ id_nomics: SHIBIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBIN.jpeg
 logoKey: currencies/shibin.jpeg
 name: Shibanomics
+platform: BNB
+platform_contract: '0x4ddb1a46cf4b93dc9073d89b2ef7cf48c18e15c6'

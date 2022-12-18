@@ -5,3 +5,5 @@ id_nomics: WISHCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WISHCX.jpg
 logoKey: currencies/wishcx.jpg
 name: ContextLogic, Inc.
+platform: ETH
+platform_contract: '0xacecabef427b8bbbe16c62f5a046d12dcb0d20ae'

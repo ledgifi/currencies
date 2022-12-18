@@ -5,3 +5,5 @@ id_nomics: RIP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RIP2.jpg
 logoKey: currencies/rip2.jpg
 name: Fantom Doge
+platform: FTM
+platform_contract: '0x1d43697d67cb5d0436cc38d583ca473a1bfebc7a'

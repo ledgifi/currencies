@@ -5,3 +5,5 @@ id_nomics: ORION
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORION.jpg
 logoKey: currencies/orion.jpg
 name: Orion Initiative
+platform: BNB
+platform_contract: '0x2821989877c0189bf63837f18a2856e30297af70'

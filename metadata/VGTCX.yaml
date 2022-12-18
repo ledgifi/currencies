@@ -5,3 +5,5 @@ id_nomics: VGTCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VGTCX.jpg
 logoKey: currencies/vgtcx.jpg
 name: Vanguard Information Technology ETF Token
+platform: ETH
+platform_contract: '0x08d8aa3f0011e529cc4be4fda8999c0b01fb6ec3'

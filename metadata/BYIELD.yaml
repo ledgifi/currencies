@@ -5,3 +5,5 @@ id_nomics: BYIELD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BYIELD.jpg
 logoKey: currencies/byield.jpg
 name: BYield Token
+platform: BNB
+platform_contract: '0xb0359dc68af5f5aa908ab1579d7e902361367a62'

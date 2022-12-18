@@ -3,3 +3,5 @@ fiat: false
 id: FISSION
 id_nomics: FISSION
 name: FISSION
+platform: BNB
+platform_contract: '0x35e645e9f16861e7600b2ba816763c41471dda16'

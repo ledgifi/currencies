@@ -6,3 +6,5 @@ id_nomics: UNCL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNCL.jpg
 logoKey: currencies/uncl.jpg
 name: UNCL
+platform: ETH
+platform_contract: '0x2f4eb47a1b1f4488c71fc10e39a4aa56af33dd49'

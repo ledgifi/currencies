@@ -3,3 +3,5 @@ fiat: false
 id: NLCC
 id_nomics: NLCC
 name: NLCC
+platform: BNB
+platform_contract: '0x318d1991019fe7bdde641f2ff9072093c487fd6e'

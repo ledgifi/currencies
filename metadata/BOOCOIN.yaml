@@ -5,3 +5,5 @@ id_nomics: BOOCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOOCOIN.jpg
 logoKey: currencies/boocoin.jpg
 name: BooCoin
+platform: BNB
+platform_contract: '0xc29130b1f12992054f495d6b1580a5ca85b643fc'

@@ -3,3 +3,5 @@ fiat: false
 id: EOTAINU
 id_nomics: EOTAINU
 name: Ethereum OtaInu
+platform: ETH
+platform_contract: '0xa9ac76556611ec4eb8c81cca2066aa40873d183b'

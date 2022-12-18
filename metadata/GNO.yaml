@@ -8,3 +8,5 @@ id_nomics: GNO
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/gno.svg
 logoKey: currencies/gno.svg
 name: Gnosis
+platform: ETH
+platform_contract: '0x6810e776880c02933d47db1b9fc05908e5386b96'

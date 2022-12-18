@@ -6,3 +6,5 @@ id_nomics: UPDOG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UPDOG.jpg
 logoKey: currencies/updog.jpg
 name: UpDog
+platform: BNB
+platform_contract: '0x400613f184d1207f5c07a67d67040a4e23e92feb'

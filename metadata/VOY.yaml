@@ -5,3 +5,5 @@ id_nomics: VOY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VOY.jpg
 logoKey: currencies/voy.jpg
 name: Voyage
+platform: ETH
+platform_contract: '0x4bfb837d3a9311a3681afaa921b6813def1b21cb'

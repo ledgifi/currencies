@@ -5,3 +5,5 @@ id_nomics: NLC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NLC4.png
 logoKey: currencies/nlc4.png
 name: Nippon Lagoon
+platform: BNB
+platform_contract: '0x59c6833917d65f0e4800fc0bfb0b7a1584a965bc'

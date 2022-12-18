@@ -3,3 +3,5 @@ fiat: false
 id: VBUCK
 id_nomics: VBUCK
 name: VBucks on xDai
+platform: XDAI
+platform_contract: '0x2d0f8dbb3e8742d920694e26e890d273abc5b152'

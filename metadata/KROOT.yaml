@@ -5,3 +5,5 @@ id_nomics: KROOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KROOT.jpg
 logoKey: currencies/kroot.jpg
 name: K-ROOT
+platform: BNB
+platform_contract: '0x0cd3a8ce155a8d9daaf19e5caa642e72a2a24cd8'

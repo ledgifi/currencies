@@ -3,3 +3,5 @@ fiat: false
 id: SHIZUKI
 id_nomics: SHIZUKI
 name: Shizuki Token
+platform: ETH
+platform_contract: '0x6511672e23ccd7da756175249287aa80ffef1a5b'

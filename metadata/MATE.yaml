@@ -6,3 +6,5 @@ id_nomics: MATE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MATE.jpg
 logoKey: currencies/mate.jpg
 name: Mate
+platform: BNB
+platform_contract: '0x2198b69b36b86f250549d26d69c5957912a34ec2'

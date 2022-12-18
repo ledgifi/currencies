@@ -3,3 +3,5 @@ fiat: false
 id: PIDEFI
 id_nomics: PIDEFI
 name: Pi Network DeFi
+platform: BNB
+platform_contract: '0x3ffecc93f586302fa4f507e6442f02cf6151eab7'

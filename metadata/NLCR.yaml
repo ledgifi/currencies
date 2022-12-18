@@ -3,3 +3,5 @@ fiat: false
 id: NLCR
 id_nomics: NLCR
 name: Nolian Credits
+platform: BNB
+platform_contract: '0x02b439484227ec3a8798b1777b3076f29ba2e387'

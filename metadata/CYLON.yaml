@@ -3,3 +3,5 @@ fiat: false
 id: CYLON
 id_nomics: CYLON
 name: CYLON
+platform: ETH
+platform_contract: '0x8227ef63529f72b3b3b7784bc5239ed958d0e3aa'

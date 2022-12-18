@@ -6,3 +6,5 @@ id_nomics: XMINE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XMINE.jpg
 logoKey: currencies/xmine.jpg
 name: X-MINE
+platform: BNB
+platform_contract: '0x0fa9651a0ecc19906843c13c60443300b9d37355'

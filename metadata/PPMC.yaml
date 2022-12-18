@@ -3,3 +3,5 @@ fiat: false
 id: PPMC
 id_nomics: PPMC
 name: ppmcro
+platform: CRO
+platform_contract: '0x474031a1ef7f87b2c4a30f3432e4fa3d4989d383'

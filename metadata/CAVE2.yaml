@@ -5,3 +5,5 @@ id_nomics: CAVE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAVE2.png
 logoKey: currencies/cave2.png
 name: Draco Cave
+platform: FTM
+platform_contract: '0x3c8024805813ee5b8c1e4753dd56490c5b3b3047'

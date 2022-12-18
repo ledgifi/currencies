@@ -5,3 +5,5 @@ id_nomics: BPAY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BPAY2.png
 logoKey: currencies/bpay2.png
 name: BNBPay
+platform: BNB
+platform_contract: '0xebc76079da0c245fae7225b58a57a54809b40618'

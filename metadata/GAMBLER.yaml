@@ -5,3 +5,5 @@ id_nomics: GAMBLER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAMBLER.png
 logoKey: currencies/gambler.png
 name: Gambler
+platform: BNB
+platform_contract: '0xC2C05B7df3B3b046BC452105722dE3145C3229FA'

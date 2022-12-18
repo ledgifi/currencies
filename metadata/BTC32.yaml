@@ -5,3 +5,5 @@ id_nomics: BTC32
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTC32.png
 logoKey: currencies/btc32.png
 name: Bitcoin3.0 (OLD)
+platform: BNB
+platform_contract: '0xac642e017764c4759efeb1c9ea0782cf5d1a81d1'

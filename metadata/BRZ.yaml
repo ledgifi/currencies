@@ -5,3 +5,5 @@ id_nomics: BRZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRZ.svg
 logoKey: currencies/brz.svg
 name: BRZ
+platform: ETH
+platform_contract: '0x420412e765bfa6d85aaac94b4f7b708c89be2e2b'

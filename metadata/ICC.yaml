@@ -5,3 +5,5 @@ id_nomics: ICC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICC.jpg
 logoKey: currencies/icc.jpg
 name: Intelligent Commerce Chain
+platform: ETH
+platform_contract: '0xedc502b12ced7e16ce21749e7161f9ed22bfca53'

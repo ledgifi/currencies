@@ -3,3 +3,5 @@ fiat: false
 id: BSDT
 id_nomics: BSDT
 name: BSDT
+platform: BNB
+platform_contract: '0x03620b5fc05814544887d9c1d30d3704c012e537'

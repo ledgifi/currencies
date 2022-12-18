@@ -3,3 +3,5 @@ fiat: false
 id: FTT2
 id_nomics: FTT2
 name: FreeTip
+platform: ETH
+platform_contract: '0x174bea2cb8b20646681e855196cf34fcecec2489'

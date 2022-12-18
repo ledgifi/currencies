@@ -3,3 +3,5 @@ fiat: false
 id: SHIPRODAO
 id_nomics: SHIPRODAO
 name: ShibaProtocolDAO
+platform: ETH
+platform_contract: '0x3af916f9130fbe7587af885111fda2346fc731b8'

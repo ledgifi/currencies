@@ -5,3 +5,5 @@ id_nomics: YOSHI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YOSHI2.jpg
 logoKey: currencies/yoshi2.jpg
 name: Yoshi.exchange
+platform: FTM
+platform_contract: '0x3dc57b391262e3aae37a08d91241f9ba9d58b570'

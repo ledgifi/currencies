@@ -5,3 +5,5 @@ id_nomics: RES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RES.jpg
 logoKey: currencies/res.jpg
 name: Resistance
+platform: ETH
+platform_contract: '0xebbbe2ae55c9b2e21b09239362f3eee69455934d'

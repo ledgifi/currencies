@@ -5,3 +5,5 @@ id_nomics: XGT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XGT2.png
 logoKey: currencies/xgt2.png
 name: Xion Global Token
+platform: XDAI
+platform_contract: '0xf1738912ae7439475712520797583ac784ea9033'

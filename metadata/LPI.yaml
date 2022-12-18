@@ -6,3 +6,5 @@ id_nomics: LPI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LPI.jpg
 logoKey: currencies/lpi.jpg
 name: LPI DAO
+platform: BNB
+platform_contract: '0x3428ebf69d2db64a056c68871f27c9e0310f26c9'

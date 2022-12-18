@@ -5,3 +5,5 @@ id_nomics: YFCS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFCS.jpg
 logoKey: currencies/yfcs.jpg
 name: YFCSilver
+platform: BNB
+platform_contract: '0xd89bb4978f9533bb4fb74a5715c4304d06c06950'

@@ -5,3 +5,5 @@ id_nomics: BLS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLS2.jpg
 logoKey: currencies/bls2.jpg
 name: Blocsport.one
+platform: BNB
+platform_contract: '0x708739980021a0b0b2e555383fe1283697e140e9'

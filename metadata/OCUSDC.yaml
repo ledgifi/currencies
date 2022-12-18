@@ -5,3 +5,5 @@ id_nomics: OCUSDC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCUSDC.png
 logoKey: currencies/ocusdc.png
 name: Opyn cUSDC Insurance
+platform: ETH
+platform_contract: '0x8ed9f862363ffdfd3a07546e618214b6d59f03d4'

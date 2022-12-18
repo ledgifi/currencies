@@ -5,3 +5,5 @@ id_nomics: BORGDAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BORGDAI.png
 logoKey: currencies/borgdai.png
 name: BORGDAI
+platform: BNB
+platform_contract: '0xacd9c515a43e80d67c8a5982e6ef2ddc4c41629a'

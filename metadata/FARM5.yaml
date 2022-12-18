@@ -5,3 +5,5 @@ id_nomics: FARM5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FARM5.png
 logoKey: currencies/farm5.png
 name: FARM
+platform: BNB
+platform_contract: '0x04fba7a22b1883e3b0cdcaa80ee0e3fade357ff2'

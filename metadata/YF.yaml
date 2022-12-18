@@ -5,3 +5,5 @@ id_nomics: YF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YF.jpg
 logoKey: currencies/yf.jpg
 name: YstarFarming
+platform: ETH
+platform_contract: '0x96f9632b25f874769969ff91219fccb6cedf26d2'

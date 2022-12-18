@@ -5,3 +5,5 @@ id_nomics: DUEL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUEL.jpg
 logoKey: currencies/duel.jpg
 name: Duel Network
+platform: BNB
+platform_contract: '0x297817ce1a8de777e7ddbed86c3b7f9dc9349f2c'

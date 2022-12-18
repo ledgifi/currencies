@@ -3,3 +3,5 @@ fiat: false
 id: CHANE
 id_nomics: CHANE
 name: Chanecoin
+platform: ETH
+platform_contract: '0x3ac17408da720189d2bd82d02759b91492c64de8'

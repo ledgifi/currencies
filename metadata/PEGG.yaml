@@ -3,3 +3,5 @@ fiat: false
 id: PEGG
 id_nomics: PEGG
 name: EggPrint
+platform: AVAX
+platform_contract: '0x7610b0e8efd8c53c4f7232e2825580f2cfe16e7f'

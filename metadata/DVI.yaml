@@ -5,3 +5,5 @@ id_nomics: DVI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DVI.jpg
 logoKey: currencies/dvi.jpg
 name: Dvision Network
+platform: ETH
+platform_contract: '0x10633216e7e8281e33c86f02bf8e565a635d9770'

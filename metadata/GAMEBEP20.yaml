@@ -3,3 +3,5 @@ fiat: false
 id: GAMEBEP20
 id_nomics: GAMEBEP20
 name: Game Coin [via ChainPort.io]
+platform: BNB
+platform_contract: '0x66109633715d2110dda791e64a7b2afadb517abb'

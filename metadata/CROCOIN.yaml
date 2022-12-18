@@ -3,3 +3,5 @@ fiat: false
 id: CROCOIN
 id_nomics: CROCOIN
 name: CrocodileCoin
+platform: CRO
+platform_contract: '0x89c4222862d4bcedb40431dbd0ecca2f23fb6b6a'

@@ -5,3 +5,5 @@ id_nomics: LEVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LEVE.png
 logoKey: currencies/leve.png
 name: Leve Invest
+platform: BNB
+platform_contract: '0xb12418ae5284ac6215ee255b5cbc7d795e7016b5'

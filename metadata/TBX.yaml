@@ -6,3 +6,5 @@ id_nomics: TBX
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/tbx.svg
 logoKey: currencies/tbx.svg
 name: Tokenbox
+platform: ETH
+platform_contract: '0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b'

@@ -6,3 +6,5 @@ id_nomics: FOMO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOMO.jpg
 logoKey: currencies/fomo.jpg
 name: Fomo Labs
+platform: BNB
+platform_contract: '0x5eef8c4320e2bf8d1e6231a31500fd7a87d02985'

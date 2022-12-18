@@ -3,3 +3,5 @@ fiat: false
 id: APEL
 id_nomics: APEL
 name: APELend
+platform: ETH
+platform_contract: '0x8f2856dd43273d80c845679fb148fb96e5b996f2'

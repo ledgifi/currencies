@@ -3,3 +3,5 @@ fiat: false
 id: SS1
 id_nomics: SS1
 name: SoakSink1
+platform: BNB
+platform_contract: '0x5cd48fe5194f49a718fc56bafab7144e197e443c'

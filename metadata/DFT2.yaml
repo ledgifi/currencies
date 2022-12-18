@@ -5,3 +5,5 @@ id_nomics: DFT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DFT2.jpg
 logoKey: currencies/dft2.jpg
 name: DeFiat
+platform: ETH
+platform_contract: '0xb6ee603933e024d8d53dde3faa0bf98fe2a3d6f1'

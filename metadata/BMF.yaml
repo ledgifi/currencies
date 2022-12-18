@@ -5,3 +5,5 @@ id_nomics: BMF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BMF.png
 logoKey: currencies/bmf.png
 name: Baby Mafia
+platform: BNB
+platform_contract: '0xB4B57F17635134eA65deF7237292ba5ED8e4C975'

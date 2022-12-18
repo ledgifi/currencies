@@ -3,3 +3,5 @@ fiat: false
 id: COSMOWEB
 id_nomics: COSMOWEB
 name: Cosmo Web
+platform: ARBETH
+platform_contract: '0x3ecb31106f745a1ab87091bd2dd1a473c3b05e94'

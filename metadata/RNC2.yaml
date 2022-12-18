@@ -5,3 +5,5 @@ id_nomics: RNC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RNC2.png
 logoKey: currencies/rnc2.png
 name: Royal BNB Community
+platform: BNB
+platform_contract: '0x5a3c65786c8be8821c76f2dc3fd3bbad8f05935c'

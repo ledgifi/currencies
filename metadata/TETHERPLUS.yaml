@@ -6,3 +6,5 @@ id_nomics: TETHERPLUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TETHERPLUS.jpeg
 logoKey: currencies/tetherplus.jpeg
 name: Tether Plus
+platform: BNB
+platform_contract: '0x66c8f195ec4fda7e6327c59cdc2cd203a6a151e3'

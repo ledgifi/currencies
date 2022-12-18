@@ -5,3 +5,5 @@ id_nomics: SWN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWN.jpeg
 logoKey: currencies/swn.jpeg
 name: Solwin
+platform: BNB
+platform_contract: '0x09472C1bff14904f0e64910A4116703dF6C9c31C'

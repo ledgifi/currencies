@@ -6,3 +6,5 @@ id_nomics: GMAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMAT.png
 logoKey: currencies/gmat.png
 name: GoWithMi
+platform: ETH
+platform_contract: '0xb13de094cc5cee6c4cc0a3737bf0290166d9ca5d'

@@ -5,3 +5,5 @@ id_nomics: BGDO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BGDO.png
 logoKey: currencies/bgdo.png
 name: BigDoge
+platform: BNB
+platform_contract: '0xced71c68e752ba2adf43c985db69daea212ae8d5'

@@ -5,3 +5,5 @@ id_nomics: BAOINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAOINU.jpeg
 logoKey: currencies/baoinu.jpeg
 name: Bao Inu
+platform: BNB
+platform_contract: '0x4b9cfb1d5769b6bc3BD1352AF291D14cd8daC16B'

@@ -5,3 +5,5 @@ id_nomics: YTS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YTS.jpg
 logoKey: currencies/yts.jpg
 name: YetiSwap
+platform: AVAX
+platform_contract: '0x488F73cddDA1DE3664775fFd91623637383D6404'

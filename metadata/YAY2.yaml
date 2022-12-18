@@ -5,3 +5,5 @@ id_nomics: YAY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YAY2.png
 logoKey: currencies/yay2.png
 name: YAY Games
+platform: AVAX
+platform_contract: '0x01c2086facfd7aa38f69a6bd8c91bef3bb5adfca'

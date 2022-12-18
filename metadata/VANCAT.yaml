@@ -5,3 +5,5 @@ id_nomics: VANCAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VANCAT.jpg
 logoKey: currencies/vancat.jpg
 name: Vancat
+platform: BNB
+platform_contract: '0x8597ba143ac509189e89aab3ba28d661a5dd9830'

@@ -5,3 +5,5 @@ id_nomics: TPR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TPR.jpg
 logoKey: currencies/tpr.jpg
 name: Tripler
+platform: ETH
+platform_contract: '0x97b8c4b6dbf5886c352d80b15c4a066d3a657444'

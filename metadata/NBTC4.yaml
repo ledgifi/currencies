@@ -3,3 +3,5 @@ fiat: false
 id: NBTC4
 id_nomics: NBTC4
 name: NewBTC
+platform: BNB
+platform_contract: '0xbe878cffb39a347a70809b5d98b65dd85de2e37b'

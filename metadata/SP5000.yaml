@@ -3,3 +3,5 @@ fiat: false
 id: SP5000
 id_nomics: SP5000
 name: S&P500
+platform: POLIS
+platform_contract: '0x311c491e5156d27aa969daffc5aa0000820236f7'

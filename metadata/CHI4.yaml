@@ -5,3 +5,5 @@ id_nomics: CHI4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHI4.jpg
 logoKey: currencies/chi4.jpg
 name: Chicken Token
+platform: BNB
+platform_contract: '0xb106c1e59df2d2cacd3f615fbec9e5930d34da52'

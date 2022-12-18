@@ -3,3 +3,5 @@ fiat: false
 id: GOMI
 id_nomics: GOMI
 name: GOMI
+platform: MATIC
+platform_contract: '0xbb7b33aafbdf128650ccd8d46407e508bf009ae0'

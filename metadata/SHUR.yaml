@@ -3,3 +3,5 @@ fiat: false
 id: SHUR
 id_nomics: SHUR
 name: Shurcoin
+platform: BNB
+platform_contract: '0x755d31a8494bce7fd39351acbcc754ef028397de'

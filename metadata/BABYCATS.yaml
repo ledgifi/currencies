@@ -3,3 +3,5 @@ fiat: false
 id: BABYCATS
 id_nomics: BABYCATS
 name: Baby Catcoin
+platform: BNB
+platform_contract: '0x1bd5ddcd740f2d13b2255fc325c02509da35c4e4'

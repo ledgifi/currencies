@@ -5,3 +5,5 @@ id_nomics: AXN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AXN2.png
 logoKey: currencies/axn2.png
 name: Axion
+platform: ETH
+platform_contract: '0x71f85b2e46976bd21302b64329868fd15eb0d127'

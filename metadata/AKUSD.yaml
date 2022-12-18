@@ -3,3 +3,5 @@ fiat: false
 id: AKUSD
 id_nomics: AKUSD
 name: AK Peg USD
+platform: MATIC
+platform_contract: '0x380a8ec069a353542582b701b8da83a83279ff0d'

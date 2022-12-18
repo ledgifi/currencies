@@ -3,3 +3,5 @@ fiat: false
 id: ETCBEAR
 id_nomics: ETCBEAR
 name: 3X Short Ethereum Classic Token
+platform: ETH
+platform_contract: '0xa340f0937a8c00db11c83cc16cec12310160f0b6'

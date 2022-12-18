@@ -6,3 +6,5 @@ id_nomics: TNDR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TNDR.jpg
 logoKey: currencies/tndr.jpg
 name: Thunder Swap
+platform: BNB
+platform_contract: '0x7cc46141ab1057b1928de5ad5ee78bb37efc4868'

@@ -5,3 +5,5 @@ id_nomics: GUARD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GUARD.png
 logoKey: currencies/guard.png
 name: Guardium
+platform: NEO
+platform_contract: 591f92493cd6dd003470e41376f79a515abc707f

@@ -5,3 +5,5 @@ id_nomics: SAT5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAT5.jpg
 logoKey: currencies/sat5.jpg
 name: Saturna
+platform: BNB
+platform_contract: '0x1e446cbea52badeb614fbe4ab7610f737995fb44'

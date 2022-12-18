@@ -5,3 +5,5 @@ id_nomics: KAIR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAIR.png
 logoKey: currencies/kair.png
 name: Kairos
+platform: BNB
+platform_contract: '0x85f1fa798ec0ac3693f67b00541f699c37003725'

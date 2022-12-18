@@ -3,3 +3,5 @@ fiat: false
 id: AGMT
 id_nomics: AGMT
 name: Agamotto Token
+platform: AVAX
+platform_contract: '0x87b33d9e393e4fa46558d833a3cfc0fb147d72a6'

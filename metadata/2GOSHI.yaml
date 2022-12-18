@@ -5,3 +5,5 @@ id_nomics: 2GOSHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/2GOSHI.jpg
 logoKey: currencies/2goshi.jpg
 name: 2GoShi
+platform: BNB
+platform_contract: '0x70e132641d6f1bd787b119a289fee544fbb2f316'

@@ -5,3 +5,5 @@ id_nomics: HYVEBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HYVEBEP20.jpeg
 logoKey: currencies/hyvebep20.jpeg
 name: Hyve (BEP-20)
+platform: BNB
+platform_contract: '0xf6565a97dc832d93dc83b75ee9aa5c7e8ecb0f9d'

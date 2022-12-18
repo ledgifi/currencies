@@ -5,3 +5,5 @@ id_nomics: JYC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JYC3.png
 logoKey: currencies/jyc3.png
 name: Joe-Yo Coin
+platform: BNB
+platform_contract: '0x13b8abb1cfd7bbe1f5764fe967ed049d488d9d1d'

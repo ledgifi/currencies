@@ -3,3 +3,5 @@ fiat: false
 id: SMELT
 id_nomics: SMELT
 name: Smelt
+platform: FTM
+platform_contract: '0x141faa507855e56396eadbd25ec82656755cd61e'

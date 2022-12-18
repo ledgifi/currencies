@@ -5,3 +5,5 @@ id_nomics: THE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THE2.png
 logoKey: currencies/the2.png
 name: The Protocol
+platform: ETH
+platform_contract: '0x0cba60ca5ef4d42f92a5070a8fedd13be93e2861'

@@ -5,3 +5,5 @@ id_nomics: FAITH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FAITH.png
 logoKey: currencies/faith.png
 name: FaithCoin
+platform: ETH
+platform_contract: '0xe531642e9bb5d027e9c20e03284287b97919a9a5'

@@ -3,3 +3,5 @@ fiat: false
 id: GRQ
 id_nomics: GRQ
 name: GRQ Token
+platform: ETH
+platform_contract: '0x5b517df31b3edcd2cb569bebb9bb817833cf746c'

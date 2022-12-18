@@ -3,3 +3,5 @@ fiat: false
 id: COCAUSDT
 id_nomics: COCAUSDT
 name: CocaUSDT
+platform: MATIC
+platform_contract: '0x3b28538b76bc202e6cd5282aa0dde52278e5b854'

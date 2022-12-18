@@ -6,3 +6,5 @@ id_nomics: FLOKIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKIS.jpg
 logoKey: currencies/flokis.jpg
 name: Floki Swap
+platform: BNB
+platform_contract: '0x2fb09b8749a3a13eefa3fd4e643fc44dbdba5b39'

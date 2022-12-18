@@ -6,3 +6,5 @@ id_nomics: NTRM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NTRM.png
 logoKey: currencies/ntrm.png
 name: Neutrome
+platform: BNB
+platform_contract: '0x03e42d77e4fcd315b08c14b731414248425eacb6'

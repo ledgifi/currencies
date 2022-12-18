@@ -6,3 +6,5 @@ id_nomics: ABST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ABST.png
 logoKey: currencies/abst.png
 name: ABITSHADOW TOKEN
+platform: ETH
+platform_contract: '0xa0b207103f764a920b4af9e691f5bd956de14ded'

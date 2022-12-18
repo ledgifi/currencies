@@ -3,3 +3,5 @@ fiat: false
 id: WATCHR
 id_nomics: WATCHR
 name: WatchRare
+platform: ETH
+platform_contract: '0x08c74e505f90052ce34c1241d322cfc93fc8232c'

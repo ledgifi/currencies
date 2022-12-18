@@ -3,3 +3,5 @@ fiat: false
 id: MTST
 id_nomics: MTST
 name: Mts Token
+platform: ETH
+platform_contract: '0x66bf1e5594a73e1d27d39277c990da9ab71e7323'

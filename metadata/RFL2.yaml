@@ -5,3 +5,5 @@ id_nomics: RFL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RFL2.jpg
 logoKey: currencies/rfl2.jpg
 name: Run For Life
+platform: BNB
+platform_contract: '0xd8b80a966b22af8b857a10ff217b00a0c630d1dc'

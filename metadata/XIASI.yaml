@@ -6,3 +6,5 @@ id_nomics: XIASI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XIASI.jpg
 logoKey: currencies/xiasi.jpg
 name: Xiasi Inu
+platform: BNB
+platform_contract: '0x0e20e3216ea172fcf9eaa19723b119e090fd353f'

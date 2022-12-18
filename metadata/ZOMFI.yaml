@@ -6,3 +6,5 @@ id_nomics: ZOMFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZOMFI.png
 logoKey: currencies/zomfi.png
 name: Zomfi
+platform: BNB
+platform_contract: '0xb1a05d0ee3c8d936f70b77318a348c0de2f8a396'

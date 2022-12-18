@@ -5,3 +5,5 @@ id_nomics: DISC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DISC.jpg
 logoKey: currencies/disc.jpg
 name: DisCas Vision
+platform: BNB
+platform_contract: '0x2bcdcf1ef1320fc5f9a71ca0bd1504d6125f7569'

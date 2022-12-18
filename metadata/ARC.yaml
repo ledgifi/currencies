@@ -5,3 +5,5 @@ id_nomics: ARC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARC.png
 logoKey: currencies/arc.png
 name: Arcade City
+platform: BNB
+platform_contract: '0x2dede4b234a735cb76a00df33588f2b8f0aa0b6a'

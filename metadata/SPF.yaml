@@ -5,3 +5,5 @@ id_nomics: SPF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/spf.png
 logoKey: currencies/spf.png
 name: SportyCo
+platform: ETH
+platform_contract: '0x85089389c14bd9c77fc2b8f0c3d1dc3363bf06ef'

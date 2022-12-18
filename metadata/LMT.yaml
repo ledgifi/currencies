@@ -6,3 +6,5 @@ id_nomics: LMT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LMT.jpg
 logoKey: currencies/lmt.jpg
 name: Lympo Market Token
+platform: ETH
+platform_contract: '0x327673ae6b33bd3d90f0096870059994f30dc8af'

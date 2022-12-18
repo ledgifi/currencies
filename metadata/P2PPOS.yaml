@@ -5,3 +5,5 @@ id_nomics: P2PPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/P2PPOS.jpeg
 logoKey: currencies/p2ppos.jpeg
 name: P2PCOIN (Polygon)
+platform: MATIC
+platform_contract: '0x826b5ca9277a57bc8bd71c6219e5b61d0862288f'

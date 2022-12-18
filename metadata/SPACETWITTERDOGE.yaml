@@ -5,3 +5,5 @@ id_nomics: SPACETWITTERDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPACETWITTERDOGE.jpg
 logoKey: currencies/spacetwitterdoge.jpg
 name: SpaceTwitterDoge
+platform: BNB
+platform_contract: '0x9C8F5fD8f120F7946d56C7BE22243C3139a850ce'

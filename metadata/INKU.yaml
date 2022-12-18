@@ -5,3 +5,5 @@ id_nomics: INKU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INKU.jpg
 logoKey: currencies/inku.jpg
 name: INKU Token
+platform: BNB
+platform_contract: '0xb37cad62441ef8b866f3e36f12fd42062b6c0f33'

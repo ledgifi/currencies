@@ -5,3 +5,5 @@ id_nomics: BONES3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BONES3.jpg
 logoKey: currencies/bones3.jpg
 name: BONES
+platform: BNB
+platform_contract: '0x612b5c1a2d7e94d03dddd53d459d4b944903497d'

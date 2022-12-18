@@ -5,3 +5,5 @@ id_nomics: FAV
 logo: https://static.wixstatic.com/media/c5b4a6_d83360447715455e886437970d62f35a~mv2.png/v1/fill/w_322,h_259,al_c,usm_0.66_1.00_0.01,enc_auto/favcoin.png
 logoKey: currencies/fav.png
 name: Favcoin
+platform: ETH
+platform_contract: '0xd20482dEA70Ca9390B7c29D3461aE5501d216232'

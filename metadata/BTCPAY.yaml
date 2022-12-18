@@ -3,3 +3,5 @@ fiat: false
 id: BTCPAY
 id_nomics: BTCPAY
 name: Bitcoin Pay
+platform: BNB
+platform_contract: '0x9f5c37e0fd9bf729b1f0a6f39ce57be5e9bfd435'

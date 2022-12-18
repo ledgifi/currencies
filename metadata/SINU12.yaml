@@ -5,3 +5,5 @@ id_nomics: SINU12
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SINU12.jpg
 logoKey: currencies/sinu12.jpg
 name: Stable Inu
+platform: BNB
+platform_contract: '0xb24cbfc7ccba455314244a9c8b055cac375b00fc'

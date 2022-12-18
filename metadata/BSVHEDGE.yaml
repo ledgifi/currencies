@@ -3,3 +3,5 @@ fiat: false
 id: BSVHEDGE
 id_nomics: BSVHEDGE
 name: 1X Short Bitcoin SV Token
+platform: ETH
+platform_contract: '0xf6254cd565c5e78dfb0030b0b14d1e6f482a2413'

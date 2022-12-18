@@ -5,3 +5,5 @@ id_nomics: YPANDA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YPANDA.jpg
 logoKey: currencies/ypanda.jpg
 name: YieldPanda
+platform: BNB
+platform_contract: '0x9806aec346064183b5ce441313231dff89811f7a'

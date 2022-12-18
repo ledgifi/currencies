@@ -5,3 +5,5 @@ id_nomics: ELONPAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELONPAY.png
 logoKey: currencies/elonpay.png
 name: ElonPay
+platform: BNB
+platform_contract: '0x8c7defba592c3dd6ea9699f86edd8418f07ee699'

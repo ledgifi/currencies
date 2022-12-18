@@ -5,3 +5,5 @@ id_nomics: DLF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DLF.jpg
 logoKey: currencies/dlf.jpg
 name: Dollarfuture
+platform: BNB
+platform_contract: '0x942ed7dfa2a564984747420d47c4f49c2b3140f9'

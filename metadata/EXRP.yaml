@@ -5,3 +5,5 @@ id_nomics: EXRP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EXRP.svg
 logoKey: currencies/exrp.svg
 name: XRP @ Energi
+platform: NRG
+platform_contract: '0x34f0411586d2a077499d4e11ad0cc575b06a1556'

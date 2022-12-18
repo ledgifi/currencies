@@ -5,3 +5,5 @@ id_nomics: CNHT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CNHT.jpg
 logoKey: currencies/cnht.jpg
 name: Tether CNH
+platform: ETH
+platform_contract: '0x6e109e9dd7fa1a58bc3eff667e8e41fc3cc07aef'

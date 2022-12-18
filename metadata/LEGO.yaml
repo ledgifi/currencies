@@ -6,3 +6,5 @@ id_nomics: LEGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LEGO.jpg
 logoKey: currencies/lego.jpg
 name: LEGOFI METAVERSE
+platform: BNB
+platform_contract: '0x017e00b42a26316ef8ab19ee48552c92b89162ab'

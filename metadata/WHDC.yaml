@@ -3,3 +3,5 @@ fiat: false
 id: WHDC
 id_nomics: WHDC
 name: Wellington coin
+platform: HT
+platform_contract: '0x941a754a48a51a42b2434ced231146ab232b2109'

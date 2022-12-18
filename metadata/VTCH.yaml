@@ -5,3 +5,5 @@ id_nomics: VTCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VTCH.jpg
 logoKey: currencies/vtch.jpg
 name: VertcoinCash
+platform: ETH
+platform_contract: '0x881e1344eee25ce7de2f4857ba86b04df8f77bea'

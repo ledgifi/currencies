@@ -6,3 +6,5 @@ id_nomics: CRASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRASH.png
 logoKey: currencies/crash.png
 name: CrashCoin
+platform: BNB
+platform_contract: '0x6198b305145ea3424e1dbc3109562b77f74a72e6'

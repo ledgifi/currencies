@@ -5,3 +5,5 @@ id_nomics: NNM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NNM.png
 logoKey: currencies/nnm.png
 name: Naanayam
+platform: BNB
+platform_contract: '0xf00b91596263e0ee32dc6facfe36334577f1c4e6'

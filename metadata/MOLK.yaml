@@ -6,3 +6,5 @@ id_nomics: MOLK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOLK.png
 logoKey: currencies/molk.png
 name: MobilinkToken
+platform: ETH
+platform_contract: '0x97cb5cc1b2e10cc56dc16ab9179f06dfedbe41a2'

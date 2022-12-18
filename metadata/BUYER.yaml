@@ -3,3 +3,5 @@ fiat: false
 id: BUYER
 id_nomics: BUYER
 name: Buyereum
+platform: ETH
+platform_contract: '0xa7de18790b31befd811c6c723916c9a32c2a2d37'

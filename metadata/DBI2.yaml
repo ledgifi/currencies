@@ -5,3 +5,5 @@ id_nomics: DBI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DBI2.png
 logoKey: currencies/dbi2.png
 name: Don't Buy Inu
+platform: ETH
+platform_contract: '0x2de509bf0014ddf697b220be628213034d320ece'

@@ -3,3 +3,5 @@ fiat: false
 id: SU
 id_nomics: SU
 name: String Universe
+platform: BNB
+platform_contract: '0x4c027cb6e769da3898f93539d130a8383704d135'

@@ -5,3 +5,5 @@ id_nomics: YMPLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YMPLE.jpeg
 logoKey: currencies/ymple.jpeg
 name: Ymple
+platform: BNB
+platform_contract: '0xb28a8f3da8e240b853fea45288750c61fcc23fc4'

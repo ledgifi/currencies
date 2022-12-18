@@ -6,3 +6,5 @@ id_nomics: BNS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNS.jpg
 logoKey: currencies/bns.jpg
 name: BNS Token
+platform: ETH
+platform_contract: '0x19E2a43Fbbc643C3B2D9667D858D49cAd17bc2b5'

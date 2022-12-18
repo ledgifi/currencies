@@ -3,3 +3,5 @@ fiat: false
 id: PRETEST
 id_nomics: PRETEST
 name: 100 Tests
+platform: AVAX
+platform_contract: '0xfc2a1d690a322a05532ff8fc0977f201a1f9b893'

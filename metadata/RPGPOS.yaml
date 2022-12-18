@@ -5,3 +5,5 @@ id_nomics: RPGPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RPGPOS.jpg
 logoKey: currencies/rpgpos.jpg
 name: Revolve Games (Polygon)
+platform: MATIC
+platform_contract: '0x01e0d17a533e5930a349c2bb71304f04f20ab12b'

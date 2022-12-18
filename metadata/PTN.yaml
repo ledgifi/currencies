@@ -5,3 +5,5 @@ id_nomics: PTN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PTN.png
 logoKey: currencies/ptn.png
 name: PalletOneToken
+platform: ETH
+platform_contract: '0xfe76be9cec465ed3219a9972c21655d57d21aec6'

@@ -5,3 +5,5 @@ id_nomics: SOCCER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOCCER.jpg
 logoKey: currencies/soccer.jpg
 name: Bakery Soccer Ball
+platform: BNB
+platform_contract: '0x338d44d19c8d45ed9771b8d2b95d988f0e42187f'

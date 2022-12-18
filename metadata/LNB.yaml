@@ -3,3 +3,5 @@ fiat: false
 id: LNB
 id_nomics: LNB
 name: LNB
+platform: BNB
+platform_contract: '0x0d17c3902dd30ab4474f9fa3d87c2ebad06adef3'

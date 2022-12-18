@@ -6,3 +6,5 @@ id_nomics: BITO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITO.png
 logoKey: currencies/bito.png
 name: BITO Coin
+platform: ETH
+platform_contract: '0x93b1e78a3e652cd2e71c4a767595b77282344932'

@@ -5,3 +5,5 @@ id_nomics: ISHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ISHIB.jpeg
 logoKey: currencies/ishib.jpeg
 name: IAMSHIBA
+platform: BNB
+platform_contract: '0x4d9d0d1403ed7c30f5e905cfe9f62c27275c9f14'

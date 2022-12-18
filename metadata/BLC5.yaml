@@ -5,3 +5,5 @@ id_nomics: BLC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLC5.png
 logoKey: currencies/blc5.png
 name: Bitlive Coin
+platform: BNB
+platform_contract: '0x9a3dad8f95ceb7c3954f640b37a7fcdb1ac55176'

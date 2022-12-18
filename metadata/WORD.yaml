@@ -5,3 +5,5 @@ id_nomics: WORD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WORD.png
 logoKey: currencies/word.png
 name: Word
+platform: FTM
+platform_contract: '0xba2b469778083572b56e7347eef2ebf751fcea73'

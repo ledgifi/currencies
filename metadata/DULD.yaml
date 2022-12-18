@@ -3,3 +3,5 @@ fiat: false
 id: DULD
 id_nomics: DULD
 name: DulSwap
+platform: BNB
+platform_contract: '0x6a822567525660dd7d8a55e116ddcc30072989c4'

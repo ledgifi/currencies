@@ -3,3 +3,5 @@ fiat: false
 id: EFLOCK
 id_nomics: EFLOCK
 name: Elon's Flock
+platform: ETH
+platform_contract: '0x09e9f76cce653b2617a881d6ea1f5389dc33dd20'

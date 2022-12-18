@@ -3,3 +3,5 @@ fiat: false
 id: CRPTP
 id_nomics: CRPTP
 name: Cryptium Temporary Public Token
+platform: ETH
+platform_contract: '0xd825e23bbb7a2cbf51c8ab996733d216bd72f647'

@@ -6,3 +6,5 @@ id_nomics: FOY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOY.jpg
 logoKey: currencies/foy.jpg
 name: Fund Of Yours
+platform: ETH
+platform_contract: '0xaf91e8afbe87642dc628786188a54b78580a4d76'

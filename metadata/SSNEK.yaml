@@ -5,3 +5,5 @@ id_nomics: SSNEK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SSNEK.jpg
 logoKey: currencies/ssnek.jpg
 name: SpaceSnek
+platform: BNB
+platform_contract: '0x5c69631b305df7cdc6e17e8c2c4014d1b7d8b9cf'

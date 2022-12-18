@@ -5,3 +5,5 @@ id_nomics: SMSS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMSS.jpg
 logoKey: currencies/smss.jpg
 name: staymobilestaysocial
+platform: BNB
+platform_contract: '0xb17f7d7a2cef4c6b271eafd42a7e91bb422896b9'

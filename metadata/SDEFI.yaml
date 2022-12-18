@@ -5,3 +5,5 @@ id_nomics: SDEFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SDEFI.png
 logoKey: currencies/sdefi.png
 name: sDEFI
+platform: ETH
+platform_contract: '0xe1afe1fd76fd88f78cbf599ea1846231b8ba3b6b'

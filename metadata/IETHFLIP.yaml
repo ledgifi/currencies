@@ -3,3 +3,5 @@ fiat: false
 id: IETHFLIP
 id_nomics: IETHFLIP
 name: Index Coop - Inverse ETH Flexible Leverage Index
+platform: MATIC
+platform_contract: '0x4f025829c4b13df652f38abd2ab901185ff1e609'

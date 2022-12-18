@@ -6,3 +6,5 @@ id_nomics: CYT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CYT2.jpg
 logoKey: currencies/cyt.jpg
 name: Coinary Token
+platform: BNB
+platform_contract: '0xd9025e25bb6cf39f8c926a704039d2dd51088063'

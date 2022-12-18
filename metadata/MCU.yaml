@@ -6,3 +6,5 @@ id_nomics: MCU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCU.jpg
 logoKey: currencies/mcu.jpg
 name: MemeCoinUniverse
+platform: ETH
+platform_contract: '0xe0aee745b22c522de621f826a9453f534808dfd0'

@@ -5,3 +5,5 @@ id_nomics: MBCASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MBCASH.png
 logoKey: currencies/mbcash.png
 name: MBCash
+platform: BNB
+platform_contract: '0xa588c99De311d93479c0C4B4EaA24b751F443efa'

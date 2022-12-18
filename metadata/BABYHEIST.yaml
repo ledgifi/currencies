@@ -5,3 +5,5 @@ id_nomics: BABYHEIST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYHEIST.png
 logoKey: currencies/babyheist.png
 name: Baby MoneyHeist
+platform: BNB
+platform_contract: '0xd28ea777d564389180586bcd29c0c100f2dbada8'

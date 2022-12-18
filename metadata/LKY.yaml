@@ -6,3 +6,5 @@ id_nomics: LKY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LKY.png
 logoKey: currencies/lky.png
 name: Linkey
+platform: ETH
+platform_contract: '0x49bd2da75b1f7af1e4dfd6b1125fecde59dbec58'

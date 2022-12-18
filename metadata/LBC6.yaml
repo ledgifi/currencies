@@ -5,3 +5,5 @@ id_nomics: LBC6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LBC6.png
 logoKey: currencies/lbc6.png
 name: Legacy Builder Coin
+platform: BNB
+platform_contract: '0xdfd8358cd1e9e855d3abef27dad9055cfcfe73a7'

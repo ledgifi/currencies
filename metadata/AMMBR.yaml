@@ -5,3 +5,5 @@ id_nomics: AMMBR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMMBR.png
 logoKey: currencies/ammbr.png
 name: Ammbr
+platform: ETH
+platform_contract: '0xd3fb5cabd07c85395667f83d20b080642bde66c7'

@@ -3,3 +3,5 @@ fiat: false
 id: OVBC
 id_nomics: OVBC
 name: ovbc
+platform: HT
+platform_contract: '0x382ab17e993d5ade7d2a58462ffaee22f2373a7e'

@@ -5,3 +5,5 @@ id_nomics: WBTCFUSE
 logo: https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png
 logoKey: currencies/wbtcfuse.png
 name: Wrapped Bitcoin (Fuse)
+platform: FUSE
+platform_contract: '0x33284f95ccb7B948d9D352e1439561CF83d8d00d'

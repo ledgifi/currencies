@@ -5,3 +5,5 @@ id_nomics: BBSEC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBSEC.png
 logoKey: currencies/bbsec.png
 name: BABYSEC
+platform: BNB
+platform_contract: '0x3e8e1a1423fa137d8f72dd670eeabcd92d7d9e7f'

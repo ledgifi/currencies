@@ -5,3 +5,5 @@ id_nomics: GS4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GS4.png
 logoKey: currencies/gs4.png
 name: Gadget Security
+platform: BNB
+platform_contract: '0xfccddf4172a03316286bbf0a46119b8f6bcde051'

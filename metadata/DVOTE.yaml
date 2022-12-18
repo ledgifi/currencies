@@ -3,3 +3,5 @@ fiat: false
 id: DVOTE
 id_nomics: DVOTE
 name: DoontVote
+platform: ETH
+platform_contract: '0x1f818456fe2fe08bb85db038fce1989a6300daa7'

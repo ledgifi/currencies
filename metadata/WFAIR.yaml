@@ -5,3 +5,5 @@ id_nomics: WFAIR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WFAIR.jpg
 logoKey: currencies/wfair.jpg
 name: Wallfair
+platform: ETH
+platform_contract: '0xc6065b9fc8171ad3d29bad510709249681758972'

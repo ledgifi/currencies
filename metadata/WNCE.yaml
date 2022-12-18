@@ -6,3 +6,5 @@ id_nomics: WNCE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WNCE.png
 logoKey: currencies/wnce.png
 name: Wrapped NCE
+platform: BNB
+platform_contract: '0x855028c40c9f90cd4295c0fbc9ec06c528900114'

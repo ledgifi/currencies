@@ -5,3 +5,5 @@ id_nomics: COCKTAIL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COCKTAIL2.jpg
 logoKey: currencies/cocktail2.jpg
 name: Cocktail
+platform: BNB
+platform_contract: '0x10f292a6e694c38c5d570127da445143a2d882f3'

@@ -5,3 +5,5 @@ id_nomics: GMERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMERC20.png
 logoKey: currencies/gmerc20.png
 name: GhostMarket (ERC-20)
+platform: ETH
+platform_contract: '0x35609dC59E15d03c5c865507e1348FA5abB319A8'

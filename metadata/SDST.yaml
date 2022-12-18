@@ -3,3 +3,5 @@ fiat: false
 id: SDST
 id_nomics: SDST
 name: Single Swap
+platform: HT
+platform_contract: '0x8eafb4ff212aa226d7bbe2d07b095b8155c1dd96'

@@ -5,3 +5,5 @@ id_nomics: MYMC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MYMC.png
 logoKey: currencies/mymc.png
 name: MYMC
+platform: BNB
+platform_contract: '0xa206c8924c9fe86f9eb2b68a7290e4afb40ec321'

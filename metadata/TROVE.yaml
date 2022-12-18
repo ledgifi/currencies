@@ -3,3 +3,5 @@ fiat: false
 id: TROVE
 id_nomics: TROVE
 name: Trove Dao
+platform: ETH
+platform_contract: '0x44a8211f5fc517d9e384d5732179ed6be9982afc'

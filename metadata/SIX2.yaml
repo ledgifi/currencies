@@ -5,3 +5,5 @@ id_nomics: SIX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIX2.png
 logoKey: currencies/six2.png
 name: SIXPENCE
+platform: BNB
+platform_contract: '0xe40c78c5a03bb94084c93fd0e618d17bb31367c0'

@@ -5,3 +5,5 @@ id_nomics: LAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LAL.png
 logoKey: currencies/lal.png
 name: Learn a language
+platform: BNB
+platform_contract: '0x44942775dbfe3e478d34b0a356321235414af83b'

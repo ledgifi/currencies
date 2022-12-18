@@ -5,3 +5,5 @@ id_nomics: OLO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OLO2.jpg
 logoKey: currencies/olo2.jpg
 name: OolongSwap
+platform: BOBA
+platform_contract: '0x5008f837883ea9a07271a1b5eb0658404f5a9610'

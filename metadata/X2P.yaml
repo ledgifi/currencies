@@ -5,3 +5,5 @@ id_nomics: X2P
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/X2P.jpg
 logoKey: currencies/x2p.jpg
 name: Xenon Pay
+platform: BNB
+platform_contract: '0x53dcd4ef8e21fe014594a0854c4271a0623b31ec'

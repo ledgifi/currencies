@@ -5,3 +5,5 @@ id_nomics: XTK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XTK2.jpg
 logoKey: currencies/xtk2.jpg
 name: Xtake
+platform: ETH
+platform_contract: '0xbff0e42eec4223fbd12260f47f3348d29876db42'

@@ -5,3 +5,5 @@ id_nomics: FICO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FICO.jpg
 logoKey: currencies/fico.jpg
 name: French ICO Coin
+platform: ETH
+platform_contract: '0x7e442206da059905050ba02be63cbb85c559eb04'

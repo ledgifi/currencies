@@ -5,3 +5,5 @@ id_nomics: GAIA5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAIA5.jpg
 logoKey: currencies/gaia5.jpg
 name: Gaia DAO
+platform: AVAX
+platform_contract: '0x9f6aedca032b1092e08b848fc9d6f29139370837'

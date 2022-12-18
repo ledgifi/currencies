@@ -6,3 +6,5 @@ id_nomics: 1FLR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/1FLR.jpg
 logoKey: currencies/1flr.jpg
 name: Flare Token
+platform: MATIC
+platform_contract: '0x5f0197ba06860dac7e31258bdf749f92b6a636d4'

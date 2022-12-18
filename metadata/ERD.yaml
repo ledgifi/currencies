@@ -7,3 +7,5 @@ id_nomics: ERD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ERD.png
 logoKey: currencies/erd.png
 name: Elrond
+platform: BNB
+platform_contract: ERD-D06

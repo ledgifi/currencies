@@ -5,3 +5,5 @@ id_nomics: SAKURA4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAKURA4.jpg
 logoKey: currencies/sakura4.jpg
 name: Sakura Inu
+platform: BNB
+platform_contract: '0xa689e13c0e425ae9c53d5d0de9f02959a9e0f034'

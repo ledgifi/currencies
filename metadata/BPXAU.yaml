@@ -3,3 +3,5 @@ fiat: false
 id: BPXAU
 id_nomics: BPXAU
 name: bDollar-peg XAU
+platform: BNB
+platform_contract: '0xeaaf11ff129c2e44801ca6c169c32bee728cfe8e'

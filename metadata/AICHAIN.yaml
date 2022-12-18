@@ -3,3 +3,5 @@ fiat: false
 id: AICHAIN
 id_nomics: AICHAIN
 name: AiChain (BEP-20)
+platform: BNB
+platform_contract: '0xaf27dB302351B470669E65707ABA9f674Af0d270'

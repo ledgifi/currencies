@@ -3,3 +3,5 @@ fiat: false
 id: SSE
 id_nomics: SSE
 name: Shinsama ERC-20
+platform: ETH
+platform_contract: '0x7658cdc9cfe85808cd4454addf223c0586f85601'

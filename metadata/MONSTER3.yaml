@@ -5,3 +5,5 @@ id_nomics: MONSTER3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MONSTER3.jpg
 logoKey: currencies/monster3.jpg
 name: MonsterToys
+platform: BNB
+platform_contract: '0x5bf9a89aab5edaf58540116b43986b758d957813'

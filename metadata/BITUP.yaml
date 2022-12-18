@@ -6,3 +6,5 @@ id_nomics: BITUP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITUP.png
 logoKey: currencies/bitup.png
 name: BitUp
+platform: BNB
+platform_contract: '0x28a27ba716d306c842a4b5da20a42e1d4d1e8d6b'

@@ -5,3 +5,5 @@ id_nomics: MHAM3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MHAM3.jpg
 logoKey: currencies/mham3.jpg
 name: Mighty Hamster
+platform: BNB
+platform_contract: '0xe55d1f7a001a71154064b9f85b047121a68e1c36'

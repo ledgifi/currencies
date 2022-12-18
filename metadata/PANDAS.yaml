@@ -5,3 +5,5 @@ id_nomics: PANDAS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PANDAS.png
 logoKey: currencies/pandas.png
 name: Pandas
+platform: BNB
+platform_contract: '0x0ea5746c605069aa45f4d8bcfdc52a8d5b4e745b'

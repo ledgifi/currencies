@@ -5,3 +5,5 @@ id_nomics: ORM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORM2.jpg
 logoKey: currencies/orm2.jpg
 name: OREOMAGIC
+platform: BNB
+platform_contract: '0xb3810a6768666a977d206d5e916f422331e22777'

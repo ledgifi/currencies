@@ -5,3 +5,5 @@ id_nomics: HMC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/hmc.png
 logoKey: currencies/hmc.png
 name: Hi Mutual Society
+platform: ETH
+platform_contract: '0xaa0bb10cec1fa372eb3abc17c933fc6ba863dd9e'

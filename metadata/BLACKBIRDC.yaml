@@ -3,3 +3,5 @@ fiat: false
 id: BLACKBIRDC
 id_nomics: BLACKBIRDC
 name: Blackbird Classic
+platform: ETH
+platform_contract: '0x4b7d6ddfa0916a6e99a75afc5e120b0754947b64'

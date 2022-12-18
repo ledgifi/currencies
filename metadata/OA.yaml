@@ -5,3 +5,5 @@ id_nomics: OA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OA.png
 logoKey: currencies/oa.png
 name: Open Aurum
+platform: ETH
+platform_contract: '0x534479d1f4e31bc8f3265009b2b05f89dc3b9af1'

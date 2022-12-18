@@ -5,3 +5,5 @@ id_nomics: POLYSHIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POLYSHIT.jpg
 logoKey: currencies/polyshit.jpg
 name: PolyShit
+platform: MATIC
+platform_contract: '0x2C1dab7116ACC4137dd017F17271E3cB003F966E'

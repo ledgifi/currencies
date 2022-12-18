@@ -5,3 +5,5 @@ id_nomics: DVX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DVX2.jpg
 logoKey: currencies/dvx2.jpg
 name: DRIVENx V1 (OLD)
+platform: BNB
+platform_contract: '0x0a950ac7f14a4982cee3bf24adb1dad17e0a9026'

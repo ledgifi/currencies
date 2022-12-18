@@ -3,3 +3,5 @@ fiat: false
 id: FBA
 id_nomics: FBA
 name: Firebird Aggregator
+platform: FTM
+platform_contract: '0x0e249130b3545a2a287de9f27d805cab95f03db9'

@@ -5,3 +5,5 @@ id_nomics: LUM4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUM4.png
 logoKey: currencies/lum4.png
 name: LunaMoon
+platform: BNB
+platform_contract: '0x6d3a803bece09407f935dd37621467de89934c9c'

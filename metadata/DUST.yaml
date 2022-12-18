@@ -5,3 +5,5 @@ id_nomics: DUST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUST.png
 logoKey: currencies/dust.png
 name: DUST Token
+platform: ETH
+platform_contract: '0xbca3c97837a39099ec3082df97e28ce91be14472'

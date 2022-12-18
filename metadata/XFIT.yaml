@@ -5,3 +5,5 @@ id_nomics: XFIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XFIT.jpg
 logoKey: currencies/xfit.jpg
 name: Xfit
+platform: ETH
+platform_contract: '0x4aa41bc1649c9c3177ed16caaa11482295fc7441'

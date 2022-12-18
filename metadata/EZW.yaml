@@ -6,3 +6,5 @@ id_nomics: EZW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EZW.png
 logoKey: currencies/ezw.png
 name: EZOOW
+platform: ETH
+platform_contract: '0x78a2a1029e3168b49d3a276c787050ff5106dcf2'

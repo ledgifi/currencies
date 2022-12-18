@@ -6,3 +6,5 @@ id_nomics: UENC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UENC.png
 logoKey: currencies/uenc.png
 name: UniversalEnergyChain
+platform: ETH
+platform_contract: '0xb3dd5dce850dca7519e74a943568b69f958df52c'

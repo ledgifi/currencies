@@ -5,3 +5,5 @@ id_nomics: BABYDALI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYDALI.jpeg
 logoKey: currencies/babydali.jpeg
 name: Baby Dali
+platform: BNB
+platform_contract: '0x6cec025f1c20f65865714841228dd69e98472913'

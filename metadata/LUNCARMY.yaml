@@ -5,3 +5,5 @@ id_nomics: LUNCARMY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUNCARMY.jpg
 logoKey: currencies/luncarmy.jpg
 name: LUNCARMY
+platform: BNB
+platform_contract: '0x7ba1a5780ce75a6998e0f65529393873a6d57cda'

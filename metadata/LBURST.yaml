@@ -6,3 +6,5 @@ id_nomics: LBURST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LBURST.jpg
 logoKey: currencies/lburst.jpg
 name: LoanBurst
+platform: ETH
+platform_contract: '0x93ecd2ecdfb91ab2fee28a8779a6adfe2851cda6'

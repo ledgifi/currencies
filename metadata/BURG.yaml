@@ -3,3 +3,5 @@ fiat: false
 id: BURG
 id_nomics: BURG
 name: CryptoBurgers
+platform: BNB
+platform_contract: '0x9e88a9aacdeae344c254e64133f5989b9fb9eabb'

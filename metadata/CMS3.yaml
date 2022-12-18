@@ -5,3 +5,5 @@ id_nomics: CMS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CMS3.jpg
 logoKey: currencies/cms3.jpg
 name: CryptoMoonShots
+platform: ETH
+platform_contract: '0x1f22ad99c334e6689bae751cc225bcc38fe54f82'

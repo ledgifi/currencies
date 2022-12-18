@@ -5,3 +5,5 @@ id_nomics: BCDC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCDC.jpg
 logoKey: currencies/bcdc.jpg
 name: BCDC
+platform: ETH
+platform_contract: '0xa1069a93b0e44cc42bdcec90d010746d1b65a65c'

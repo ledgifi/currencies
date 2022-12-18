@@ -3,3 +3,5 @@ fiat: false
 id: VDOG
 id_nomics: VDOG
 name: Violent Dog
+platform: BNB
+platform_contract: '0x5bec1ac2711d1119b471c2aa9117b826275ef05b'

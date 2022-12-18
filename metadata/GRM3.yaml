@@ -5,3 +5,5 @@ id_nomics: GRM3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GRM3.jpg
 logoKey: currencies/grm3.jpg
 name: GreenMoon
+platform: BNB
+platform_contract: '0x7472e4f397e46eb371fe4c8e078cfda46d72415f'

@@ -5,3 +5,5 @@ id_nomics: DESP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DESP.jpg
 logoKey: currencies/desp.jpg
 name: DeSports Network
+platform: BNB
+platform_contract: '0x92d7142ba886c710ba72994972d108fb2fb1889a'

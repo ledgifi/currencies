@@ -5,3 +5,5 @@ id_nomics: SNOWBALL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNOWBALL.jpg
 logoKey: currencies/snowball.jpg
 name: Snowball Token
+platform: BNB
+platform_contract: '0x764b602c261a929b45f9fe7a4eabf4a9f8470458'

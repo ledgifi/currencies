@@ -5,3 +5,5 @@ id_nomics: UFTBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UFTBEP20.jpg
 logoKey: currencies/uftbep20.jpg
 name: UniLend Finance Token (BEP-20)
+platform: BNB
+platform_contract: '0x2645d5f59d952ef2317c8e0aaa5a61c392ccd44d'

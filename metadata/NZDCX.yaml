@@ -5,3 +5,5 @@ id_nomics: NZDCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NZDCX.jpg
 logoKey: currencies/nzdcx.jpg
 name: NZD.cx
+platform: ETH
+platform_contract: '0x688f393ba893ae5116412fa0062292361bde967f'

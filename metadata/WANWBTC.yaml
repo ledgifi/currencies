@@ -3,3 +3,5 @@ fiat: false
 id: WANWBTC
 id_nomics: WANWBTC
 name: wanWBTC
+platform: WAN
+platform_contract: '0xd15e200060fc17ef90546ad93c1c61bfefdc89c7'

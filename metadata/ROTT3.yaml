@@ -5,3 +5,5 @@ id_nomics: ROTT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROTT3.jpg
 logoKey: currencies/rott3.jpg
 name: Rottcoin
+platform: BNB
+platform_contract: '0x1CC41b493EEcc0CE084776a7a4BDdfF50D77EC91'

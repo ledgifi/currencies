@@ -6,3 +6,5 @@ id_nomics: CREDO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/credo.jpg
 logoKey: currencies/credo.jpg
 name: Credo
+platform: ETH
+platform_contract: '0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be'

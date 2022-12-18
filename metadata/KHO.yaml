@@ -5,3 +5,5 @@ id_nomics: KHO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KHO.jpeg
 logoKey: currencies/kho.jpeg
 name: Khonsu Network
+platform: BNB
+platform_contract: '0xba8b13f90e3ba6617cc1a275c1c0372523f2233b'

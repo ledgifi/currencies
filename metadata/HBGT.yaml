@@ -3,3 +3,5 @@ fiat: false
 id: HBGT
 id_nomics: HBGT
 name: hbgt token
+platform: BNB
+platform_contract: '0xff2904dacf60d9cc275068d588d85fa1f28696f1'

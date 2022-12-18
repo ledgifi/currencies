@@ -3,3 +3,5 @@ fiat: false
 id: MINER2
 id_nomics: MINER2
 name: Meta Miner
+platform: ETH
+platform_contract: '0x2b645a57e82123796c3ea7d78de27c3e3ff7f016'

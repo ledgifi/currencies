@@ -6,3 +6,5 @@ id_nomics: BBN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bbn.png
 logoKey: currencies/bbn.png
 name: Banyan Network
+platform: ETH
+platform_contract: '0x35a69642857083ba2f30bfab735dacc7f0bac969'

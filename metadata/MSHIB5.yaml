@@ -5,3 +5,5 @@ id_nomics: MSHIB5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSHIB5.jpeg
 logoKey: currencies/mshib5.jpeg
 name: MilkShiba
+platform: MILKADA
+platform_contract: '0x8684edd3014cee0fed4f1608b4b9bdaa96dfdad5'

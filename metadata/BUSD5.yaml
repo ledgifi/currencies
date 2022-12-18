@@ -5,3 +5,5 @@ id_nomics: BUSD5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUSD5.png
 logoKey: currencies/busd5.png
 name: BUSDRAGON
+platform: BNB
+platform_contract: '0xa68110ad4e5b80e7a054f40b237bd522aca676b8'

@@ -5,3 +5,5 @@ id_nomics: FAME2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FAME2.jpg
 logoKey: currencies/fame2.jpg
 name: Fame
+platform: ETH
+platform_contract: '0xf2da15ae6ef94988534bad4b9e646f5911cbd487'

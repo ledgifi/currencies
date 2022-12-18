@@ -6,3 +6,5 @@ id_nomics: CDROP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CDROP.jpg
 logoKey: currencies/cdrop.jpg
 name: CryptoDrop
+platform: BNB
+platform_contract: '0xec6ca5a04b08e382d218de9cb30c9d8176406d34'

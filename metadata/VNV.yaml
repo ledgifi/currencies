@@ -3,3 +3,5 @@ fiat: false
 id: VNV
 id_nomics: VNV
 name: Vinovault Coin
+platform: ETH
+platform_contract: '0xfffdaa42568c2032616ba7061c690e9dccf6bdea'

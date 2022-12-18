@@ -3,3 +3,5 @@ fiat: false
 id: ICF
 id_nomics: ICF
 name: ICF
+platform: BNB
+platform_contract: '0x77ff4a0f718905ff5d12eb7e04d00bba44b57c37'

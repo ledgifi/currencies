@@ -6,3 +6,5 @@ id_nomics: RPST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RPST.jpg
 logoKey: currencies/rpst.jpg
 name: Rock Paper Scissors Token
+platform: BNB
+platform_contract: '0x4fb431848e8d36978c3ab89c5a2140f877fd155c'

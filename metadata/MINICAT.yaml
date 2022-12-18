@@ -3,3 +3,5 @@ fiat: false
 id: MINICAT
 id_nomics: MINICAT
 name: MiniCat
+platform: BNB
+platform_contract: '0x2545d0fbe9e28b02dfb7fc21835c8610baa7f8aa'

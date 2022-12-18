@@ -5,3 +5,5 @@ id_nomics: A4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/A4.jpg
 logoKey: currencies/a4.jpg
 name: A4
+platform: BNB
+platform_contract: '0x9767203e89dcd34851240b3919d4900d3e5069f1'

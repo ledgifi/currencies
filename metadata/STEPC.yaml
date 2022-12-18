@@ -3,3 +3,5 @@ fiat: false
 id: STEPC
 id_nomics: STEPC
 name: STEP CRO
+platform: CRO
+platform_contract: '0x56316e5fa1e7932b58bb30e40a7be76cc47d3c33'

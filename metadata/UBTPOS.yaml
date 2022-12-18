@@ -5,3 +5,5 @@ id_nomics: UBTPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UBTPOS.jpg
 logoKey: currencies/ubtpos.jpg
 name: Unibright (Polygon)
+platform: MATIC
+platform_contract: '0x7fbc10850cae055b27039af31bd258430e714c62'

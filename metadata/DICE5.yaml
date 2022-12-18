@@ -5,3 +5,5 @@ id_nomics: DICE5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DICE5.jpg
 logoKey: currencies/dice5.jpg
 name: DICE Rolls
+platform: BNB
+platform_contract: '0x2ee965e0300de55dddc3470de6761142ff211b3d'

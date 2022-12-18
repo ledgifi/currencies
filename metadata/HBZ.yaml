@@ -5,3 +5,5 @@ id_nomics: HBZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HBZ.png
 logoKey: currencies/hbz.png
 name: HBZ
+platform: ETH
+platform_contract: '0xe34e1944e776f39b9252790a0527ebda647ae668'

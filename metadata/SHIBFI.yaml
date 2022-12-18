@@ -3,3 +3,5 @@ fiat: false
 id: SHIBFI
 id_nomics: SHIBFI
 name: ShibFi Inu
+platform: ETH
+platform_contract: '0x931df6bfea2c8e153054863f77c65cc96fbf0771'

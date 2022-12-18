@@ -6,3 +6,5 @@ id_nomics: JMT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JMT.png
 logoKey: currencies/jmt.png
 name: JMTIME
+platform: ETH
+platform_contract: '0xda022ca91df99413e8cb0caab4d1cba4e9018bea'

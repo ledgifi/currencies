@@ -5,3 +5,5 @@ id_nomics: LIGER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIGER.jpg
 logoKey: currencies/liger.jpg
 name: Liger DeFi
+platform: BNB
+platform_contract: '0xb99d0edf4b601851c535a5b6d8e05607e0a40a84'

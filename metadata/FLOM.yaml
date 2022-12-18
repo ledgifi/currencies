@@ -6,3 +6,5 @@ id_nomics: FLOM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOM.jpg
 logoKey: currencies/flom.jpg
 name: Flokimars
+platform: BNB
+platform_contract: '0xcc2bf0f46c561afdce6c23710d0d7f38b007443f'

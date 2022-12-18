@@ -5,3 +5,5 @@ id_nomics: PNFTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PNFTC.jpg
 logoKey: currencies/pnftc.jpg
 name: PottersNFTCorporation (pottersnft.io)
+platform: ETH
+platform_contract: '0x38d3c259cb5cbb8b5b4bf263e3934f12a0128d7c'

@@ -5,3 +5,5 @@ id_nomics: TRESOR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRESOR.png
 logoKey: currencies/tresor.png
 name: Tresor Finance
+platform: BNB
+platform_contract: '0x7c08e27319119e2a0400c7ad60a21515e12dd069'

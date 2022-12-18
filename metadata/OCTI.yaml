@@ -5,3 +5,5 @@ id_nomics: OCTI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCTI.jpg
 logoKey: currencies/octi.jpg
 name: Oction
+platform: BNB
+platform_contract: '0x6c1de9907263f0c12261d88b65ca18f31163f29d'

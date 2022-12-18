@@ -5,3 +5,5 @@ id_nomics: FBE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FBE.png
 logoKey: currencies/fbe.png
 name: Foobee
+platform: MATIC
+platform_contract: '0x6f0dcc6597c86a2fde9795f634f621f947ca125c'

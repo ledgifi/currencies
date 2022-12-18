@@ -5,3 +5,5 @@ id_nomics: HODLX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HODLX2.png
 logoKey: currencies/hodlx2.png
 name: HODLX
+platform: BNB
+platform_contract: '0xaebdbcc7d6821e3924ee5167b4138a43c19cf681'

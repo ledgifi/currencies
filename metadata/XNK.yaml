@@ -6,3 +6,5 @@ id_nomics: XNK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/xnk.jpg
 logoKey: currencies/xnk.jpg
 name: Ink Protocol
+platform: ETH
+platform_contract: '0xbc86727e770de68b1060c91f6bb6945c73e10388'

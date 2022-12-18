@@ -5,3 +5,5 @@ id_nomics: MEV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEV2.png
 logoKey: currencies/mev2.png
 name: MEVerse
+platform: ETH
+platform_contract: '0xb3cb8d5aeff0f4d1f432f353309f47b885e404e3'

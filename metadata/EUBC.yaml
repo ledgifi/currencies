@@ -6,3 +6,5 @@ id_nomics: EUBC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EUBC.jpg
 logoKey: currencies/eubc.jpg
 name: EUB Chain
+platform: ETH
+platform_contract: '0xc37e8a31ba2d110c12f09f0239954a68b00bc599'

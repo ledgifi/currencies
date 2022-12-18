@@ -6,3 +6,5 @@ id_nomics: FBL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FBL.png
 logoKey: currencies/fbl.png
 name: Faceblock
+platform: ETH
+platform_contract: '0xc0c2ee1ce1fed8f6e2764363a36db3dd4cf10022'

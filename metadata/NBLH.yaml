@@ -5,3 +5,5 @@ id_nomics: NBLH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NBLH.png
 logoKey: currencies/nblh.png
 name: NBLH
+platform: ETH
+platform_contract: '0x0ecc0e963625e0c5504718ec460116176b3aa06c'

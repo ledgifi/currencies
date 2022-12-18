@@ -5,3 +5,5 @@ id_nomics: WDP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WDP.jpg
 logoKey: currencies/wdp.jpg
 name: WaterDrop
+platform: ETH
+platform_contract: '0xd61b60ccbdaf09c2e036c72734adb3270ed27192'

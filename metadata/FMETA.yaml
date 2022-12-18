@@ -5,3 +5,5 @@ id_nomics: FMETA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FMETA.png
 logoKey: currencies/fmeta.png
 name: Future Meta Group
+platform: BNB
+platform_contract: '0xaa4a126000956070Fc5Dc8677Cc2e483dFC2F8c5'

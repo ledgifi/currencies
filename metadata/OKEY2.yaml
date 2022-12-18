@@ -5,3 +5,5 @@ id_nomics: OKEY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OKEY2.jpg
 logoKey: currencies/okey2.jpg
 name: Okeycoin
+platform: BNB
+platform_contract: '0xc628d60b7ec7504b7482bc8a65348f3b7afccbe0'

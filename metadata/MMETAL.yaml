@@ -3,3 +3,5 @@ fiat: false
 id: MMETAL
 id_nomics: MMETAL
 name: mMetal
+platform: BNB
+platform_contract: '0x77d92870c05d4e29690eb05126b201391786c7ce'

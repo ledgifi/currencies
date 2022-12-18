@@ -4,3 +4,5 @@ id: GTPS
 id_coinpaprika: gtps-global-transaction-payment-solution
 id_nomics: GTPS
 name: Global Transaction Payment Solution
+platform: AVAX
+platform_contract: '0xbe217b06d3233d56938aa2a8cd1ac728c9dc848a'

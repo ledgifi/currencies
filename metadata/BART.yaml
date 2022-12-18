@@ -6,3 +6,5 @@ id_nomics: BART
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BART.jpg
 logoKey: currencies/bart.jpg
 name: BarterTrade
+platform: ETH
+platform_contract: '0x54c9ea2e9c9e8ed865db4a4ce6711c2a0d5063ba'

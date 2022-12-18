@@ -3,3 +3,5 @@ fiat: false
 id: MEEBITS
 id_nomics: MEEBITS
 name: Meebits Coin
+platform: ETH
+platform_contract: '0x7816ef3667a5f06b7bb7b25cc475130c00fc9c87'

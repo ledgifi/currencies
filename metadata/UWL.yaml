@@ -5,3 +5,5 @@ id_nomics: UWL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UWL.jpg
 logoKey: currencies/uwl.jpg
 name: UniWhales.io
+platform: ETH
+platform_contract: '0xdbdd6f355a37b94e6c7d32fef548e98a280b8df5'

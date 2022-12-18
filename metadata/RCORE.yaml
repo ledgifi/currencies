@@ -5,3 +5,5 @@ id_nomics: RCORE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RCORE.jpeg
 logoKey: currencies/rcore.jpeg
 name: rcore.finance
+platform: ETH
+platform_contract: '0x691ACE5e56507C008d836c8c58ed93546bDc81fF'

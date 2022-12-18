@@ -5,3 +5,5 @@ id_nomics: HECATE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HECATE.jpg
 logoKey: currencies/hecate.jpg
 name: Hecate Capital
+platform: METIS
+platform_contract: '0x8ef6f05ada3e7c5baf7162846875ec0b4f369222'

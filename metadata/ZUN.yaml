@@ -3,3 +3,5 @@ fiat: false
 id: ZUN
 id_nomics: ZUN
 name: ZUN
+platform: BNB
+platform_contract: '0x30c04546112c64bd863388928cf4db8161ca43aa'

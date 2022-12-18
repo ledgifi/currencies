@@ -3,3 +3,5 @@ fiat: false
 id: HXTZ
 id_nomics: HXTZ
 name: Heco-Peg HXTZ Token
+platform: HT
+platform_contract: '0x45e97dad828ad735af1df0473fc2735f0fd5330c'

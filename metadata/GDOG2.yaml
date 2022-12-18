@@ -5,3 +5,5 @@ id_nomics: GDOG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GDOG2.jpg
 logoKey: currencies/gdog2.jpg
 name: GoldenDog
+platform: ETH
+platform_contract: '0x8b01ebc7ccc7385e490a394a891dd52c36976c39'

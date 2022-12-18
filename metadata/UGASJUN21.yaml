@@ -5,3 +5,5 @@ id_nomics: UGASJUN21
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UGASJUN21.png
 logoKey: currencies/ugasjun21.png
 name: uGAS-JUN21 Token Expiring 30 Jun 2021
+platform: ETH
+platform_contract: '0xa6b9d7e3d76cf23549293fb22c488e0ea591a44e'

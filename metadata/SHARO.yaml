@@ -5,3 +5,5 @@ id_nomics: SHARO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHARO.png
 logoKey: currencies/sharo.png
 name: CrazySharo
+platform: BNB
+platform_contract: '0x7f3daf301c629bfa243cbba6654370d929379657'

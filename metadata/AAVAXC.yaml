@@ -3,3 +3,5 @@ fiat: false
 id: AAVAXC
 id_nomics: AAVAXC
 name: Ankr Reward Bearing AVAX
+platform: AVAX
+platform_contract: '0xc3344870d52688874b06d844e0c36cc39fc727f6'

@@ -6,3 +6,5 @@ id_nomics: MOGX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOGX.jpg
 logoKey: currencies/mogx.jpg
 name: Mogu
+platform: ETH
+platform_contract: '0xbdec45952b5e234eddc2981b43eed360826d5087'

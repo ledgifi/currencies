@@ -5,3 +5,5 @@ id_nomics: HUMANITY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HUMANITY.png
 logoKey: currencies/humanity.png
 name: Complete Humanity
+platform: BNB
+platform_contract: '0x2e4114a9768e722cdd94990642fc0b4b159176dd'

@@ -3,3 +3,5 @@ fiat: false
 id: RCELO
 id_nomics: RCELO
 name: RewardsCELO
+platform: CELO
+platform_contract: '0x1a8Dbe5958c597a744Ba51763AbEBD3355996c3e'

@@ -6,3 +6,5 @@ id_nomics: OROX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OROX.png
 logoKey: currencies/orox.png
 name: Cointorox
+platform: ETH
+platform_contract: '0x1c5b760f133220855340003b43cc9113ec494823'

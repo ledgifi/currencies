@@ -5,3 +5,5 @@ id_nomics: FIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIN.jpg
 logoKey: currencies/fin.jpg
 name: Fuel Injection Network
+platform: ETH
+platform_contract: '0x1dd7b2878b6d5671ed602e60818b0d9a0cd1cdf7'

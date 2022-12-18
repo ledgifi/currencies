@@ -3,3 +3,5 @@ fiat: false
 id: NNBTC
 id_nomics: NNBTC
 name: NNBTC
+platform: HT
+platform_contract: '0x9c5bc7c6d7f552abdd27aebd8def39162198fdce'

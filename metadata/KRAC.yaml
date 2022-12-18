@@ -3,3 +3,5 @@ fiat: false
 id: KRAC
 id_nomics: KRAC
 name: KraCoin
+platform: ETH
+platform_contract: '0xf392debfe4477bdb3dd748ed4bee214e0c897f85'

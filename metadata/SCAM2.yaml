@@ -5,3 +5,5 @@ id_nomics: SCAM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCAM2.jpg
 logoKey: currencies/scam2.jpg
 name: Simple Cool Automatic Money
+platform: BNB
+platform_contract: '0x00aa85e010204068b7cc2235800b2d8036bdbf2e'

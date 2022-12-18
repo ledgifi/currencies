@@ -3,3 +3,5 @@ fiat: false
 id: STARGOLD
 id_nomics: STARGOLD
 name: StarGold
+platform: BNB
+platform_contract: '0xc8193f81b6b6473d5b00eee041214dcc847600de'

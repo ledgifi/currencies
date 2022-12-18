@@ -3,3 +3,5 @@ fiat: false
 id: REDDOT
 id_nomics: REDDOT
 name: REDDOT Token
+platform: MATIC
+platform_contract: '0xba2ad4342eaeba15328d1ab5aa51efa12097ce14'

@@ -3,3 +3,5 @@ fiat: false
 id: ORDER
 id_nomics: ORDER
 name: The Golden Order
+platform: ETH
+platform_contract: '0xf15ae50b618aa7db90a5820b2ce093af083860b4'

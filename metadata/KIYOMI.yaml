@@ -3,3 +3,5 @@ fiat: false
 id: KIYOMI
 id_nomics: KIYOMI
 name: Kiyomi
+platform: ETH
+platform_contract: '0x835366d466ac26f6f13f43cbf39fe4c7a7d787a2'

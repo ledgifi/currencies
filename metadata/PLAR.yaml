@@ -3,3 +3,5 @@ fiat: false
 id: PLAR
 id_nomics: PLAR
 name: PolaarCoin
+platform: ETH
+platform_contract: '0x8f9f80fbbe8134e9cac8b207e9552d0d39a3fab9'

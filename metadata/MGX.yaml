@@ -5,3 +5,5 @@ id_nomics: MGX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MGX.jpg
 logoKey: currencies/mgx.jpg
 name: MegaX
+platform: ETH
+platform_contract: '0xc79d440551a03f84f863b1f259f135794c8a7190'

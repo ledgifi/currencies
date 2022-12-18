@@ -5,3 +5,5 @@ id_nomics: WOXEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOXEN.jpg
 logoKey: currencies/woxen.jpg
 name: Wrapped OXEN
+platform: ETH
+platform_contract: '0xd1e2d5085b39b80c9948aeb1b9aa83af6756bcc5'

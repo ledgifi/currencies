@@ -5,3 +5,5 @@ id_nomics: SAFEMOONCASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFEMOONCASH.jpg
 logoKey: currencies/safemooncash.jpg
 name: SafeMoonCash
+platform: BNB
+platform_contract: '0xf017e2773e4ee0590c81d79ccbcf1b2de1d22877'

@@ -6,3 +6,5 @@ id_nomics: BPLC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BPLC.png
 logoKey: currencies/bplc.png
 name: BlackPearl Token
+platform: ETH
+platform_contract: '0x426fc8be95573230f6e6bc4af91873f0c67b21b4'

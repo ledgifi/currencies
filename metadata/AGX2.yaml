@@ -5,3 +5,5 @@ id_nomics: AGX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AGX2.jpg
 logoKey: currencies/agx2.jpg
 name: Agricoin
+platform: BNB
+platform_contract: '0xa2d78cb5cc4e8931dc695a24df73cb751c0aeb07'

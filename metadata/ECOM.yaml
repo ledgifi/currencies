@@ -6,3 +6,5 @@ id_nomics: ECOM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ecom.png
 logoKey: currencies/ecom.png
 name: Omnitude
+platform: ETH
+platform_contract: '0x171d750d42d661b62c277a6b486adb82348c3eca'

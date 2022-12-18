@@ -3,3 +3,5 @@ fiat: false
 id: IDLEUSDCYIELD
 id_nomics: IDLEUSDCYIELD
 name: IdleUSDC (Yield)
+platform: ETH
+platform_contract: '0x12b98c621e8754ae70d0fdbbc73d6208bc3e3ca6'

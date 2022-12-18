@@ -3,3 +3,5 @@ fiat: false
 id: KAZCOIN
 id_nomics: KAZCOIN
 name: KAZCOIN
+platform: BNB
+platform_contract: '0xa5bf1428175471037bd80a9135611ca79ff6d7b3'

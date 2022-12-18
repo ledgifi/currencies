@@ -5,3 +5,5 @@ id_nomics: PET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PET.PNG
 logoKey: currencies/pet.png
 name: Allpet
+platform: ETH
+platform_contract: '0x66208d03526fc7435caa36fc4fe698c9c02a4aed'

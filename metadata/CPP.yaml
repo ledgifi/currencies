@@ -5,3 +5,5 @@ id_nomics: CPP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CPP.jpg
 logoKey: currencies/cpp.jpg
 name: Crypto Price Platform
+platform: ETH
+platform_contract: '0x021c9c28970e25623ab426e76a1ff14ae6b8c6e6'

@@ -5,3 +5,5 @@ id_nomics: FMR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FMR.png
 logoKey: currencies/fmr.png
 name: Free Money Radio
+platform: BNB
+platform_contract: '0x44051Acc6aE608063076506c9b614018D21e40B3'

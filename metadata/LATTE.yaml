@@ -6,3 +6,5 @@ id_nomics: LATTE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LATTE.jpg
 logoKey: currencies/latte.jpg
 name: LatteSwap
+platform: BNB
+platform_contract: '0xef6f50fe05f4ead7805835fd1594406d31b96ed8'

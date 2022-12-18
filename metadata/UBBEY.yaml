@@ -5,3 +5,5 @@ id_nomics: UBBEY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UBBEY.png
 logoKey: currencies/ubbey.png
 name: Universal Labs
+platform: ETH
+platform_contract: '0x6cb1c2b61e24ad08bf5fff4d2b13ea987d211a88'

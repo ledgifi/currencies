@@ -3,3 +3,5 @@ fiat: false
 id: EGDOGE
 id_nomics: EGDOGE
 name: EightGenerationDoge
+platform: BNB
+platform_contract: '0x89ea15a1d2352197967f30345d8e0206562de3b2'

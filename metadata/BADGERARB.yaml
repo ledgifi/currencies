@@ -5,3 +5,5 @@ id_nomics: BADGERARB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BADGERARB.jpg
 logoKey: currencies/badgerarb.jpg
 name: Badger (Arbitrum)
+platform: ARBETH
+platform_contract: '0xbfa641051ba0a0ad1b0acf549a89536a0d76472e'

@@ -5,3 +5,5 @@ id_nomics: PANTHER3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PANTHER3.jpg
 logoKey: currencies/panther3.jpg
 name: Pink Panther
+platform: BNB
+platform_contract: '0x01600ed07fc7493686ef143d1b92cd5612d50d5b'

@@ -5,3 +5,5 @@ id_nomics: BLU4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLU4.png
 logoKey: currencies/blu4.png
 name: Bluejay Finance
+platform: ETH
+platform_contract: '0xe5d2e173b120341face9e9970889c9fe64081ffd'

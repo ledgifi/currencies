@@ -3,3 +3,5 @@ fiat: false
 id: SIKE
 id_nomics: SIKE
 name: SIKE
+platform: ETH
+platform_contract: '0x5cd16fda4316c75177250a4bb5bfd8f786219806'

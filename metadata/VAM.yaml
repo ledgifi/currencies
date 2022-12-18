@@ -5,3 +5,5 @@ id_nomics: VAM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VAM.jpg
 logoKey: currencies/vam.jpg
 name: VampireSwap
+platform: FTM
+platform_contract: '0x97058c0b5ff0e0e350e241ebc63b55906a9eadbc'

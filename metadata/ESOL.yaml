@@ -6,3 +6,5 @@ id_nomics: ESOL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ESOL.jpg
 logoKey: currencies/esol.jpg
 name: EVERSOL
+platform: BNB
+platform_contract: '0x727f7b75bfb83dfe10a54744dae887843ceb673f'

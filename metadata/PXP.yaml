@@ -6,3 +6,5 @@ id_nomics: PXP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PXP.png
 logoKey: currencies/pxp.png
 name: PointPay
+platform: ETH
+platform_contract: '0x8f179114235842978d8917e08721541072c46584'

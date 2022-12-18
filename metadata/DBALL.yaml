@@ -5,3 +5,5 @@ id_nomics: DBALL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DBALL.png
 logoKey: currencies/dball.png
 name: Dragon Ball Token
+platform: BNB
+platform_contract: '0xceb2f5e9c7f2d3bcd12a7560d73c56f3396af3f9'

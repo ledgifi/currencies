@@ -6,3 +6,5 @@ id_nomics: SIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIS.jpg
 logoKey: currencies/sis.jpg
 name: Symbiosis Finance
+platform: ETH
+platform_contract: '0xd38bb40815d2b0c2d2c866e0c72c5728ffc76dd9'

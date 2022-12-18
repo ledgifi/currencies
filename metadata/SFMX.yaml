@@ -5,3 +5,5 @@ id_nomics: SFMX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFMX.jpg
 logoKey: currencies/sfmx.jpg
 name: SafemoonX
+platform: BNB
+platform_contract: '0xac3dc19afa95d7f4b9b9d0313be1afe7953fe9ec'

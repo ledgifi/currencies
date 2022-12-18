@@ -5,3 +5,5 @@ id_nomics: FLVR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLVR.jpg
 logoKey: currencies/flvr.jpg
 name: Flavors BSC
+platform: BNB
+platform_contract: '0xf1a45e52d6d11d0e591d4f18da9d88a4c266b300'

@@ -3,3 +3,5 @@ fiat: false
 id: MOCC
 id_nomics: MOCC
 name: Mongoose Chain Capital
+platform: ETH
+platform_contract: '0x2495272c3ccf177d142c2118ce63f3be21aa4818'

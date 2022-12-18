@@ -5,3 +5,5 @@ id_nomics: SHINNOSUKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHINNOSUKE.jpg
 logoKey: currencies/shinnosuke.jpg
 name: ShinChan Token
+platform: ETH
+platform_contract: '0xbaa9af8a83500ac4137c555b9e58ccb3e1f2269d'

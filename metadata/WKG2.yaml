@@ -5,3 +5,5 @@ id_nomics: WKG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WKG2.png
 logoKey: currencies/wkg2.png
 name: Wukong
+platform: BNB
+platform_contract: '0x9A3985CCadf3b8835EDeeC913246809AFdB25A1e'

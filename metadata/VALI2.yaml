@@ -5,3 +5,5 @@ id_nomics: VALI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VALI2.png
 logoKey: currencies/vali2.png
 name: Valimarket
+platform: BNB
+platform_contract: '0xb2f307fc5d7b34f22267aef01e84915a4509cf86'

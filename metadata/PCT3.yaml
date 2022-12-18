@@ -5,3 +5,5 @@ id_nomics: PCT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PCT3.jpg
 logoKey: currencies/pct3.jpg
 name: Pinecone Token
+platform: BNB
+platform_contract: '0x4631d9d8b34f51b82958a19453bdc9ea0c4e49fc'

@@ -3,3 +3,5 @@ fiat: false
 id: SKCS
 id_nomics: SKCS
 name: Staked KCS
+platform: KCS
+platform_contract: '0x00ee2d494258d6c5a30d6b6472a09b27121ef451'

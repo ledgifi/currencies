@@ -5,3 +5,5 @@ id_nomics: PREZTOKENSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PREZTOKENSD.jpeg
 logoKey: currencies/preztokensd.jpeg
 name: PrezTokenSD
+platform: BNB
+platform_contract: '0xe8c889e4e921919d6254b1fd69a2a380823fd4a5'

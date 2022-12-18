@@ -5,3 +5,5 @@ id_nomics: ICE4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICE4.jpg
 logoKey: currencies/ice4.jpg
 name: Iron Finance
+platform: MATIC
+platform_contract: '0x4a81f8796e0c6ad4877a51c86693b0de8093f2ef'

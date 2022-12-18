@@ -5,3 +5,5 @@ id_nomics: DOGU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGU.jpg
 logoKey: currencies/dogu.jpg
 name: DogEdu
+platform: BNB
+platform_contract: '0x346b426b5c4d3bcbb129ed84b52d8717e245bce1'

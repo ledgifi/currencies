@@ -3,3 +3,5 @@ fiat: false
 id: PMM
 id_nomics: PMM
 name: Perpetual Motion Machine
+platform: BNB
+platform_contract: '0x3438d2337866586686bf45496ef00b88ff411c57'

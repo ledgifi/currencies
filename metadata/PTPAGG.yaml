@@ -3,3 +3,5 @@ fiat: false
 id: PTPAGG
 id_nomics: PTPAGG
 name: Platypus Aggregator
+platform: AVAX
+platform_contract: '0x56671a1b895839bbe494cc808cbc17f18b2d3033'

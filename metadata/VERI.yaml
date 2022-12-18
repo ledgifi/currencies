@@ -6,3 +6,5 @@ id_nomics: VERI
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/veri.svg
 logoKey: currencies/veri.svg
 name: Veritaseum
+platform: ETH
+platform_contract: '0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374'

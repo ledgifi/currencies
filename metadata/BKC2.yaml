@@ -3,3 +3,5 @@ fiat: false
 id: BKC2
 id_nomics: BKC2
 name: Bank Coin
+platform: ETH
+platform_contract: '0xdfa9e19a4c4640dc0030718430aecfcda9121dbd'

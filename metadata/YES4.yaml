@@ -5,3 +5,5 @@ id_nomics: YES4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YES4.jpeg
 logoKey: currencies/yes4.jpeg
 name: Eyeska
+platform: BNB
+platform_contract: '0x5a17f97b31a1b1f70d07dd9381a02c091babf999'

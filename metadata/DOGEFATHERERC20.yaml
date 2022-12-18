@@ -5,3 +5,5 @@ id_nomics: DOGEFATHERERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEFATHERERC20.png
 logoKey: currencies/dogefathererc20.png
 name: Dogefather (ERC-20)
+platform: ETH
+platform_contract: '0x73c61dd9e121de834a4f3ed607263ee33b308c06'

@@ -3,3 +3,5 @@ fiat: false
 id: XTANGO
 id_nomics: XTANGO
 name: TANGObar
+platform: SMARTBCH
+platform_contract: '0x98ff640323c059d8c4cb846976973feeb0e068aa'

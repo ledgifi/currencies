@@ -6,3 +6,5 @@ id_nomics: DRUN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRUN.jpg
 logoKey: currencies/drun.jpg
 name: Doge Run
+platform: BNB
+platform_contract: '0x29b86ecb7d434a5571f959f1c9a812b7aab34894'

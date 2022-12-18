@@ -5,3 +5,5 @@ id_nomics: BKING2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BKING2.jpg
 logoKey: currencies/bking2.jpg
 name: BNB King
+platform: BNB
+platform_contract: '0x8a9afd1820bbd1f01a1a25cefef350ee3bd1d589'

@@ -3,3 +3,5 @@ fiat: false
 id: LEOHEDGE
 id_nomics: LEOHEDGE
 name: 1X Short LEO Token
+platform: ETH
+platform_contract: '0xd83c5c357969628272def87dcdb5b66352dfd794'

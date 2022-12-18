@@ -5,3 +5,5 @@ id_nomics: AVANET2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVANET2.png
 logoKey: currencies/avanet2.png
 name: AVANET V2
+platform: AVAX
+platform_contract: '0x5d0f0ed60da6e68c51d25a56d127ab35531368a3'

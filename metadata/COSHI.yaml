@@ -6,3 +6,5 @@ id_nomics: COSHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COSHI.jpg
 logoKey: currencies/coshi.jpg
 name: CoShi Inu
+platform: ETH
+platform_contract: '0x668c50b1c7f46effbe3f242687071d7908aab00a'

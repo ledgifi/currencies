@@ -3,3 +3,5 @@ fiat: false
 id: CAKELP
 id_nomics: CAKELP
 name: Pancake LPs
+platform: BNB
+platform_contract: '0x0faff2264fcc6b1c9e8b245e37d11eef951fa958'

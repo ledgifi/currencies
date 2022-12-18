@@ -5,3 +5,5 @@ id_nomics: BBS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBS2.jpg
 logoKey: currencies/bbs2.jpg
 name: Baby-Shark.Finance
+platform: BNB
+platform_contract: '0x46551803322db7be94074e9773377f8b037e9d0e'

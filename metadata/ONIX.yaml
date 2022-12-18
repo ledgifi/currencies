@@ -5,3 +5,5 @@ id_nomics: ONIX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ONIX.png
 logoKey: currencies/onix.png
 name: OniXToken
+platform: BNB
+platform_contract: '0xe9cf1c525802d6106dbe30b536aabe5b16aab28b'

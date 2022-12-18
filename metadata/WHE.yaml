@@ -6,3 +6,5 @@ id_nomics: WHE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WHE.jpg
 logoKey: currencies/whe.jpg
 name: Worthwhile
+platform: BNB
+platform_contract: '0x2decb6d8789777910ca5e425370bc9b6e5eb7b9c'

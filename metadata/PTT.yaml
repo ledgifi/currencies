@@ -6,3 +6,5 @@ id_nomics: PTT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ptt.jpg
 logoKey: currencies/ptt.jpg
 name: Proton Token
+platform: ETH
+platform_contract: '0x4689a4e169eb39cc9078c0940e21ff1aa8a39b9c'

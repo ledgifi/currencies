@@ -3,3 +3,5 @@ fiat: false
 id: CM
 id_nomics: CM
 name: CMail
+platform: ETH
+platform_contract: '0x7e39d37798ca69e74433f14df0a34af40b9bd1b5'

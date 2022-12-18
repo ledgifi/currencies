@@ -6,3 +6,5 @@ id_nomics: METAWORLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAWORLD.jpg
 logoKey: currencies/metaworld.jpg
 name: Meta World
+platform: BNB
+platform_contract: '0x0c6d23abf24f8c97ca1397547d50ee22bdcee7d6'

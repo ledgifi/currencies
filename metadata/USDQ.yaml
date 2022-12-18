@@ -6,3 +6,5 @@ id_nomics: USDQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDQ.png
 logoKey: currencies/usdq.png
 name: USDQ
+platform: ETH
+platform_contract: '0x4954db6391f4feb5468b6b943d4935353596aec9'

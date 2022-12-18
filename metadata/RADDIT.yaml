@@ -5,3 +5,5 @@ id_nomics: RADDIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RADDIT.jpg
 logoKey: currencies/raddit.jpg
 name: Radditarium Network
+platform: BNB
+platform_contract: 0xbb8170ad35325522c0026d67584d4fefbd08b750#balances

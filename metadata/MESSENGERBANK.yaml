@@ -5,3 +5,5 @@ id_nomics: MESSENGERBANK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MESSENGERBANK.jpg
 logoKey: currencies/messengerbank.jpg
 name: MessengerBank
+platform: ETH
+platform_contract: '0xabd1f4cf6d1119895faed8dea5748726f254b3b2'

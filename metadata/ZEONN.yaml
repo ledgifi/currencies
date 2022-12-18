@@ -5,3 +5,5 @@ id_nomics: ZEONN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZEONN.jpg
 logoKey: currencies/zeonn.jpg
 name: ZEON Network
+platform: ETH
+platform_contract: '0xe5b826ca2ca02f09c1725e9bd98d9a8874c30532'

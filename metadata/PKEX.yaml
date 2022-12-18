@@ -5,3 +5,5 @@ id_nomics: PKEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PKEX.jpg
 logoKey: currencies/pkex.jpg
 name: PolkaEx
+platform: ETH
+platform_contract: '0xe6f143a0e0a8f24f6294ce3432ea10fad0206920'

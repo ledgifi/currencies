@@ -3,3 +3,5 @@ fiat: false
 id: LIGHTHOUSE
 id_nomics: LIGHTHOUSE
 name: Lighthouse
+platform: ETH
+platform_contract: '0x8d4423251c787743254e9fa9ba51ad65c0c0be0a'

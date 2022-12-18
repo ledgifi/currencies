@@ -3,3 +3,5 @@ fiat: false
 id: XBV
 id_nomics: XBV
 name: BlockVentures XBV
+platform: ETH
+platform_contract: '0x6ee294117fdb8decf4097cd4e73de7c59eed93d7'

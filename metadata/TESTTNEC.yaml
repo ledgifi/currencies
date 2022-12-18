@@ -3,3 +3,5 @@ fiat: false
 id: TESTTNEC
 id_nomics: TESTTNEC
 name: Test TNEC
+platform: BNB
+platform_contract: '0x3776a0cfc48e7fb73d14326be9d527dad829bc0d'

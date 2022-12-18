@@ -6,3 +6,5 @@ id_nomics: XPRESS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XPRESS.jpg
 logoKey: currencies/xpress.jpg
 name: CryptoXpress
+platform: BNB
+platform_contract: '0xaa9826732f3a4973ff8b384b3f4e3c70c2984651'

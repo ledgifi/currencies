@@ -6,3 +6,5 @@ id_nomics: TBFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TBFT.png
 logoKey: currencies/tbft.png
 name: Turkiye Basketbol Federasyonu Token
+platform: BITCI
+platform_contract: '0xa3225ae74e9a92f8deef5b857100b31259b998db'

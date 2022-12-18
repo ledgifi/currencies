@@ -5,3 +5,5 @@ id_nomics: MGOOGLBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MGOOGLBEP20.png
 logoKey: currencies/mgooglbep20.png
 name: Wrapped Mirror GOOGL Token (BEP-20)
+platform: BNB
+platform_contract: '0x62d71b23bf15218c7d2d7e48dbbd9e9c650b173f'

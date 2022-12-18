@@ -6,3 +6,5 @@ id_nomics: BLWA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLWA.jpg
 logoKey: currencies/blwa.jpg
 name: BlockWarrior
+platform: BNB
+platform_contract: '0x5c7c45e7c8febb2a16092fe32bc465e88d4389eb'

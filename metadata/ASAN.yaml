@@ -4,3 +4,5 @@ id: ASAN
 id_nomics: ASAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASAN.png
 name: Asan Verse
+platform: ETH
+platform_contract: '0x27b33131a0b02879d63830292931281b1b83000f'

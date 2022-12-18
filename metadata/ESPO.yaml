@@ -3,3 +3,5 @@ fiat: false
 id: ESPO
 id_nomics: ESPO
 name: ESPORAS
+platform: MATIC
+platform_contract: '0x7e60ef0bd76237dbf8c9b7bb2283b6e3b36b010c'

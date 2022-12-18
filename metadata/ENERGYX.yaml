@@ -6,3 +6,5 @@ id_nomics: ENERGYX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ENERGYX.jpg
 logoKey: currencies/energyx.jpg
 name: Safe Energy
+platform: BNB
+platform_contract: '0xbbe899c61198d1826a43e20ea19efc46e50c2b00'

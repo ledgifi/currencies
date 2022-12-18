@@ -6,3 +6,5 @@ id_nomics: VENTION
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VENTION.jpg
 logoKey: currencies/vention.jpg
 name: Vention
+platform: BNB
+platform_contract: '0x2f053e33bd590830858161d42c67e9e8a9390019'

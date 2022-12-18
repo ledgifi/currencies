@@ -6,3 +6,5 @@ id_nomics: PXG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/pxg.jpg
 logoKey: currencies/pxg.jpg
 name: PlayGame
+platform: ETH
+platform_contract: '0x47e67ba66b0699500f18a53f94e2b9db3d47437e'

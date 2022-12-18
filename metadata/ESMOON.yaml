@@ -3,3 +3,5 @@ fiat: false
 id: ESMOON
 id_nomics: ESMOON
 name: EasySafeMoon
+platform: ETH
+platform_contract: '0x261f52ed4f09db92e77efc786fea8cfac500877b'

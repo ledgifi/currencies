@@ -5,3 +5,5 @@ id_nomics: IMONKEY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IMONKEY.jpg
 logoKey: currencies/imonkey.jpg
 name: Ironmonkey Finance
+platform: BNB
+platform_contract: '0x8a70619b0bc57fea47ec09a1e68ebdd7e47c3ef5'

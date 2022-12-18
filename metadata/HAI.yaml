@@ -5,3 +5,5 @@ id_nomics: HAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HAI.png
 logoKey: currencies/hai.png
 name: Hai Chain
+platform: ETH
+platform_contract: '0x136723300aef2aab4b7cf52c3eaac6f997e12a68'

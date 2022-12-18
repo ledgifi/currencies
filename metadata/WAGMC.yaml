@@ -3,3 +3,5 @@ fiat: false
 id: WAGMC
 id_nomics: WAGMC
 name: WagmCRO
+platform: CRO
+platform_contract: '0x2ed102bae0030c66c4b44863e5fa70623066b23e'

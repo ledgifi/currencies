@@ -5,3 +5,5 @@ id_nomics: CHIPS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHIPS3.png
 logoKey: currencies/chips3.png
 name: Cookie Finance
+platform: BNB
+platform_contract: '0x1e584d356db17decfa474fb9669fa7d2f181ee4e'

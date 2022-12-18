@@ -3,3 +3,5 @@ fiat: false
 id: MCYN
 id_nomics: MCYN
 name: Matic CYN Token
+platform: MATIC
+platform_contract: '0x92117c2aacec7780f05c00f96277e600b62fc5e6'

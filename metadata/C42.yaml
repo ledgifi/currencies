@@ -5,3 +5,5 @@ id_nomics: C42
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/C42.jpg
 logoKey: currencies/c42.jpg
 name: Clover42 Token
+platform: ETH
+platform_contract: '0x08a840a446bad3269122abe7f638d969a993ee64'

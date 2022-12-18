@@ -5,3 +5,5 @@ id_nomics: VZWL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VZWL.png
 logoKey: currencies/vzwl.png
 name: vZWL
+platform: ETH
+platform_contract: '0x663cbf0f8ac632ff6eea2a249e2f6e147e65a04b'

@@ -5,3 +5,5 @@ id_nomics: NELUM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NELUM.jpg
 logoKey: currencies/nelum.jpg
 name: VICDAO NELUM
+platform: BNB
+platform_contract: '0xbc846b8a1caaa95cdd18faa28d4fd16791007801'

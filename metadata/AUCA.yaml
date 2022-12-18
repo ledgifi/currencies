@@ -3,3 +3,5 @@ fiat: false
 id: AUCA
 id_nomics: AUCA
 name: Auto Captcha
+platform: BNB
+platform_contract: '0x02e1ff47d2cc4e00724db1a4d05dddda7b858bee'

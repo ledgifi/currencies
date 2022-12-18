@@ -3,3 +3,5 @@ fiat: false
 id: MFERS
 id_nomics: MFERS
 name: Mfers Coin
+platform: ETH
+platform_contract: '0xce4fd7ea4c894ed145ecb996a79c336f3a279334'

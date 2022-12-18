@@ -5,3 +5,5 @@ id_nomics: STOL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STOL.png
 logoKey: currencies/stol.png
 name: Stabinol
+platform: ETH
+platform_contract: '0x4ff5253e2304e3f5ed6547ac5d9952a62b91e3e8'

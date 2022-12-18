@@ -5,3 +5,5 @@ id_nomics: ASGARD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASGARD.jpg
 logoKey: currencies/asgard.jpg
 name: AsgardToken
+platform: BNB
+platform_contract: '0xa5593837af2b99021fe657c80d70d2365f5cfd38'

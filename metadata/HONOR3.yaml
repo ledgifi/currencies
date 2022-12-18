@@ -5,3 +5,5 @@ id_nomics: HONOR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HONOR3.jpg
 logoKey: currencies/honor3.jpg
 name: Honor
+platform: ETH
+platform_contract: '0x976d071D737E90fDe3bf98C0b98362D81121F2f1'

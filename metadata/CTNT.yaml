@@ -3,3 +3,5 @@ fiat: false
 id: CTNT
 id_nomics: CTNT
 name: Cryptonite Token
+platform: BNB
+platform_contract: '0x145812dd822cca602161e9e1ea96963be290b549'

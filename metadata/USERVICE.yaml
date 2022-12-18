@@ -5,3 +5,5 @@ id_nomics: USERVICE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USERVICE.png
 logoKey: currencies/uservice.png
 name: Uservice
+platform: ETH
+platform_contract: '0xcda4377806cb09f226aa4840a9df8b5c2b7744ec'

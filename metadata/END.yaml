@@ -6,3 +6,5 @@ id_nomics: END
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/END.jpg
 logoKey: currencies/end.jpg
 name: Endgame Token
+platform: BNB
+platform_contract: '0x373e4b4e4d328927bc398a9b50e0082c6f91b7bb'

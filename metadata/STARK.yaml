@@ -6,3 +6,5 @@ id_nomics: STARK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STARK.jpg
 logoKey: currencies/stark.jpg
 name: Stark Chain
+platform: ETH
+platform_contract: '0x1edc9ba729ef6fb017ef9c687b1a37d48b6a166c'

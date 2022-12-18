@@ -3,3 +3,5 @@ fiat: false
 id: MUSDT
 id_nomics: MUSDT
 name: 'DMM: USDT'
+platform: ETH
+platform_contract: '0x84d4afe150da7ea1165b9e45ff8ee4798d7c38da'

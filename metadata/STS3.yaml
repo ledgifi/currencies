@@ -3,3 +3,5 @@ fiat: false
 id: STS3
 id_nomics: STS3
 name: SBank
+platform: ETH
+platform_contract: '0x4c14114c107d6374ec31981f5f6cc27a13e22f9a'

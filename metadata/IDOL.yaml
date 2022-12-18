@@ -6,3 +6,5 @@ id_nomics: IDOL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IDOL.png
 logoKey: currencies/idol.png
 name: IDOLCOIN
+platform: MATIC
+platform_contract: '0xaec815ae1e9ab58f49692aec2840ffc82c56f7e5'

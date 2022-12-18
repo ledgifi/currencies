@@ -5,3 +5,5 @@ id_nomics: CROP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CROP2.jpg
 logoKey: currencies/crop2.jpg
 name: FarmerDoge
+platform: BNB
+platform_contract: '0x54d625b45bcb1326f64ce79fac313f4d8f47ae24'

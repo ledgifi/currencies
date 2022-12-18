@@ -5,3 +5,5 @@ id_nomics: RUSH3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RUSH3.jpg
 logoKey: currencies/rush3.jpg
 name: Rush Coin
+platform: ETH
+platform_contract: '0x382A1667C9062F0621362F49076Ef6e4fE4C9eC7'

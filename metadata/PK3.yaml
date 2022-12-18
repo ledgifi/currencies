@@ -5,3 +5,5 @@ id_nomics: PK3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PK3.jpeg
 logoKey: currencies/pk3.jpeg
 name: Pinscher Killer
+platform: MATIC
+platform_contract: '0x1ca9aa2707aaa3072c8387d57fbaeea7fbdec6e6'

@@ -6,3 +6,5 @@ id_nomics: TIME
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIME.jpg
 logoKey: currencies/time.jpg
 name: Madagascar Token
+platform: BNB
+platform_contract: '0x4aad6a01068c2621545d087a3c5281837112585b'

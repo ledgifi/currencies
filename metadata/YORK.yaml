@@ -6,3 +6,5 @@ id_nomics: YORK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YORK.jpg
 logoKey: currencies/york.jpg
 name: PolyYork
+platform: MATIC
+platform_contract: '0x21de43d96cfddd203da3352545e0054534776652'

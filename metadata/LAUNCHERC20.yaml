@@ -4,3 +4,5 @@ id: LAUNCHERC20
 id_nomics: LAUNCHERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LAUNCHERC20.jpg
 name: Launch (ERC-20)
+platform: ETH
+platform_contract: '0x1b0cfc52767599dd07885697e14b1a08a4f8978e'

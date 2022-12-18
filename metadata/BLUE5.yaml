@@ -5,3 +5,5 @@ id_nomics: BLUE5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLUE5.jpeg
 logoKey: currencies/blue5.jpeg
 name: Tip.Blue
+platform: AVAX
+platform_contract: '0xc12e249fabe1c5eb7c558e5f50d187687a244e31'

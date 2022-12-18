@@ -3,3 +3,5 @@ fiat: false
 id: BOLNTCOIN
 id_nomics: BOLNTCOIN
 name: Bolnt Coin
+platform: BNB
+platform_contract: '0x4fe96f2574ad850c3ff41f001c15f3cbc58e92f5'

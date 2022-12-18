@@ -5,3 +5,5 @@ id_nomics: SCAR4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCAR4.jpg
 logoKey: currencies/scar4.jpg
 name: Scar Inu
+platform: BNB
+platform_contract: '0x1564b4728e8f928bc6357ecaa5a990b85dc70868'

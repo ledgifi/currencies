@@ -5,3 +5,5 @@ id_nomics: 7CATS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/7CATS.png
 logoKey: currencies/7cats.png
 name: Seven Cats
+platform: BNB
+platform_contract: '0x5f906de9b1c3a6a0fb14f73169dd77af9deaeb0a'

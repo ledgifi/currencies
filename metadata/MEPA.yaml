@@ -5,3 +5,5 @@ id_nomics: MEPA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEPA.png
 logoKey: currencies/mepa.png
 name: MetaPaladin
+platform: BNB
+platform_contract: '0x92698363f056b3EAC49106d5551b564f456F6d63'

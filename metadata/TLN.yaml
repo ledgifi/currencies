@@ -6,3 +6,5 @@ id_nomics: TLN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TLN.png
 logoKey: currencies/tln.png
 name: Trustlines Network
+platform: ETH
+platform_contract: '0x679131f591b4f369acb8cd8c51e68596806c3916'

@@ -3,3 +3,5 @@ fiat: false
 id: SACKS
 id_nomics: SACKS
 name: Sacks
+platform: ETH
+platform_contract: '0xa6610ed604047e7b76c1da288172d15bcda57596'

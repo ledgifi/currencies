@@ -6,3 +6,5 @@ id_nomics: PV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PV.jpeg
 logoKey: currencies/pv.jpeg
 name: PokiVerse
+platform: BNB
+platform_contract: '0xae85e7b6abfe4f28c756c911719146ce83e5a710'

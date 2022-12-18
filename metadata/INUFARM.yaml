@@ -3,3 +3,5 @@ fiat: false
 id: INUFARM
 id_nomics: INUFARM
 name: Inu Farm
+platform: ETH
+platform_contract: '0x2797bccbf1c404a2b23396692235a0f76b500c82'

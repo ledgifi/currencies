@@ -5,3 +5,5 @@ id_nomics: XT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XT2.png
 logoKey: currencies/xt2.png
 name: ExtStock Token
+platform: ETH
+platform_contract: '0xef65887a05415bf6316204b5ffb350d4d1a19bba'

@@ -5,3 +5,5 @@ id_nomics: XSHOP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XSHOP.jpg
 logoKey: currencies/xshop.jpg
 name: Shopereum
+platform: ETH
+platform_contract: '0xa8dba64afc4a8704c98b0d1c9bfb7d307b30963a'

@@ -5,3 +5,5 @@ id_nomics: BSYS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSYS.jpg
 logoKey: currencies/bsys.jpg
 name: BSYS
+platform: ETH
+platform_contract: '0x3004cf8b4e28d60f4e305df25a57cd5faf37b8d5'

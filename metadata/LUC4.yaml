@@ -5,3 +5,5 @@ id_nomics: LUC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUC4.png
 logoKey: currencies/luc4.png
 name: Luna Classic
+platform: BNB
+platform_contract: '0x51966ee09a33accfafbd84827faeac50f42b2d94'

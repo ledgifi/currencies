@@ -8,3 +8,5 @@ id_nomics: WETHAVAX
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210317/9aca3918-6794-48ff-9392-19a38847e4df.png
 logoKey: currencies/weth.png
 name: Wrapped Ether
+platform: AVAX
+platform_contract: '0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB'

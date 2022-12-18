@@ -5,3 +5,5 @@ id_nomics: 1PEGG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/1PEGG.jpg
 logoKey: currencies/1pegg.jpg
 name: Harmony Parrot Egg
+platform: HARMONY
+platform_contract: '0xc36769dfcdf05b2949f206fc34c8870707d33c89'

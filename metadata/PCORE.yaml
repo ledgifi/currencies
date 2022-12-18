@@ -3,3 +3,5 @@ fiat: false
 id: PCORE
 id_nomics: PCORE
 name: Protocore
+platform: ETH
+platform_contract: '0x1a5f2b45ac63b98695f124dec6b70b54a22281c2'

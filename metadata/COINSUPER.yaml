@@ -5,3 +5,5 @@ id_nomics: COINSUPER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COINSUPER.png
 logoKey: currencies/coinsuper.png
 name: Coinsuper Ecosystem Network
+platform: ETH
+platform_contract: '0x0bc61dded5f6710c637cf8288eb6058766ce1921'

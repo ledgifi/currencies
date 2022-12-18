@@ -5,3 +5,5 @@ id_nomics: FV3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FV3.jpeg
 logoKey: currencies/fv3.jpeg
 name: FitVerse
+platform: BNB
+platform_contract: '0x409ab9c0c5b373a0a047173218b72de7dbc529b8'

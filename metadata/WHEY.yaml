@@ -5,3 +5,5 @@ id_nomics: WHEY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WHEY.jpg
 logoKey: currencies/whey.jpg
 name: WHEY
+platform: ETH
+platform_contract: '0xca5d29b3e74d59ebcdf09111495d86f319886a40'

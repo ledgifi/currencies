@@ -5,3 +5,5 @@ id_nomics: HOTDOGE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOTDOGE2.jpeg
 logoKey: currencies/hotdoge2.jpeg
 name: HotDoge V2
+platform: BNB
+platform_contract: '0x902311dc4c84fb788e8b0ecad548787845db6d37'

@@ -3,3 +3,5 @@ fiat: false
 id: YVSBEP20
 id_nomics: YVSBEP20
 name: YVS Finance (BEP-20)
+platform: BNB
+platform_contract: '0x47c1c7b9d7941a7265d123dcfb100d8fb5348213'

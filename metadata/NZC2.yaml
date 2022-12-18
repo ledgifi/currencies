@@ -5,3 +5,5 @@ id_nomics: NZC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NZC2.png
 logoKey: currencies/nzc2.png
 name: NZ Carbon Credit
+platform: ARBETH
+platform_contract: '0x491F10FC3F4ca24795997F7060ef40DC32A19F0C'

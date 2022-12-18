@@ -3,3 +3,5 @@ fiat: false
 id: CHECKOUT
 id_nomics: CHECKOUT
 name: CHECKOUT
+platform: AVAX
+platform_contract: '0xc82b4edc355eaad8c86e08d18c08f22d5578a764'

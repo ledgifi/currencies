@@ -6,3 +6,5 @@ id_nomics: LDF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LDF.png
 logoKey: currencies/ldf.png
 name: Londefy
+platform: BNB
+platform_contract: '0xffee80e4bc6767a89f897d10d6011c8c188e2a64'

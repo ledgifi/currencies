@@ -5,3 +5,5 @@ id_nomics: GMI20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMI20.jpg
 logoKey: currencies/gmi20.jpg
 name: Gem Inu2.0
+platform: ETH
+platform_contract: '0x0041fb383081576f9750c5a9b507180992e1c5da'

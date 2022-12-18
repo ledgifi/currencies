@@ -6,3 +6,5 @@ id_nomics: ESWAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ESWAP.jpg
 logoKey: currencies/eswap.jpg
 name: eSwapping
+platform: BNB
+platform_contract: '0x1b79708eea29900dbbbca8a5ae620ac741618ae4'

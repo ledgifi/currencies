@@ -5,3 +5,5 @@ id_nomics: UGAS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ugas.jpg
 logoKey: currencies/ugas.jpg
 name: Ultrain
+platform: ETH
+platform_contract: '0x8716fc5da009d3a208f0178b637a50f4ef42400f'

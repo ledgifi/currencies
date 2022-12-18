@@ -6,3 +6,5 @@ id_nomics: CROWN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CROWN.jpg
 logoKey: currencies/crown.jpg
 name: KingPad
+platform: BNB
+platform_contract: '0x7a3ba320d44192ae9f6c061f15bcebd7a6217242'

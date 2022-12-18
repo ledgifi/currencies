@@ -3,3 +3,5 @@ fiat: false
 id: ARBIPAD
 id_nomics: ARBIPAD
 name: ArbiPad
+platform: ARBETH
+platform_contract: '0xe0c18e3dfc9ed09c21c1628adce428bf6168ae8a'

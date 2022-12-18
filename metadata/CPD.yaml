@@ -6,3 +6,5 @@ id_nomics: CPD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CPD.jpg
 logoKey: currencies/cpd.jpg
 name: Coinspaid
+platform: ETH
+platform_contract: '0x9b31bb425d8263fa1b8b9d090b83cf0c31665355'

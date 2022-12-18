@@ -6,3 +6,5 @@ id_nomics: TRISE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRISE.jpg
 logoKey: currencies/trise.jpg
 name: TrustRise
+platform: BNB
+platform_contract: '0x07f805698e8e610d52fbf6fb3d8e636eac060b5e'

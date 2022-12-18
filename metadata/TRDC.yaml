@@ -6,3 +6,5 @@ id_nomics: TRDC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRDC.png
 logoKey: currencies/trdc.png
 name: TradersCoin
+platform: BNB
+platform_contract: '0x7e8db69dcff9209e486a100e611b0af300c3374e'

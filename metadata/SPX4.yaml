@@ -5,3 +5,5 @@ id_nomics: SPX4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPX4.jpg
 logoKey: currencies/spx4.jpg
 name: SCOPX
+platform: BNB
+platform_contract: '0x7f973c7ffa8e2d2e1149550e4b8fe7e2e9d0e466'

@@ -5,3 +5,5 @@ id_nomics: PINADA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PINADA.jpeg
 logoKey: currencies/pinada.jpeg
 name: PiñADA
+platform: BNB
+platform_contract: '0xc03e21b2580b627fbd32caea53714282b623853c'

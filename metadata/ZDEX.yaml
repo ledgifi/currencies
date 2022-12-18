@@ -6,3 +6,5 @@ id_nomics: ZDEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZDEX.jpg
 logoKey: currencies/zdex.jpg
 name: Zeedex
+platform: ETH
+platform_contract: '0x5150956e082c748ca837a5dfa0a7c10ca4697f9c'

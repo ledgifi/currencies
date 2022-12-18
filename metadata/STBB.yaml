@@ -6,3 +6,5 @@ id_nomics: STBB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STBB.png
 logoKey: currencies/stbb.png
 name: Stabilize BSC
+platform: BNB
+platform_contract: '0xe1316066af35fbff54f870ea6d1468255602a696'

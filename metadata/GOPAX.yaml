@@ -3,3 +3,5 @@ fiat: false
 id: GOPAX
 id_nomics: GOPAX
 name: Gopax
+platform: ETH
+platform_contract: '0x8e368aaf5ca99a51a7cd320fbf4823dbfefb81cf'

@@ -5,3 +5,5 @@ id_nomics: DHANDS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DHANDS.jpg
 logoKey: currencies/dhands.jpg
 name: Diamond Hands
+platform: BNB
+platform_contract: '0x4552eafb35ec3aaca13b60c1edd593a61c021e37'

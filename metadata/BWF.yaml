@@ -6,3 +6,5 @@ id_nomics: BWF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BWF.jpeg
 logoKey: currencies/bwf.jpeg
 name: Beowulf
+platform: ETH
+platform_contract: '0xF7E04D8a32229B4cA63aA51eEA9979C7287FEa48'

@@ -5,3 +5,5 @@ id_nomics: SLTH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLTH.jpg
 logoKey: currencies/slth.jpg
 name: Slothi
+platform: BNB
+platform_contract: '0x5b9dbebbad94b8c6467af9e8a851bb120f9601c6'

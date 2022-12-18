@@ -5,3 +5,5 @@ id_nomics: BTL5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTL5.jpg
 logoKey: currencies/btl5.jpg
 name: Bitline
+platform: BNB
+platform_contract: '0xe93937cfd7b8edf22018675738db495a4545d459'

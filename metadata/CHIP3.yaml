@@ -5,3 +5,5 @@ id_nomics: CHIP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHIP3.jpg
 logoKey: currencies/chip3.jpg
 name: Chip
+platform: ETH
+platform_contract: '0x0ace20a35ee382bda90d1d93cee65f5970fc01c8'

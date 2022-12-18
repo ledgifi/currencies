@@ -5,3 +5,5 @@ id_nomics: STT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STT4.jpg
 logoKey: currencies/stt4.jpg
 name: Stamen Tellus Token
+platform: BNB
+platform_contract: '0x9ee75952e3408ed7005225855aa1835d6d0023ca'

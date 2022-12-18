@@ -6,3 +6,5 @@ id_nomics: SAFEBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFEBTC.jpg
 logoKey: currencies/safebtc.jpg
 name: SafeBTC
+platform: BNB
+platform_contract: '0x380624a4a7e69db1ca07deecf764025fc224d056'

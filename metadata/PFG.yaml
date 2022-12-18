@@ -5,3 +5,5 @@ id_nomics: PFG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PFG.jpeg
 logoKey: currencies/pfg.jpeg
 name: Pray for Gainz
+platform: BNB
+platform_contract: '0x00871aa4b4272267062dc3dfbbfb351ee781bb63'

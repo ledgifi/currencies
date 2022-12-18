@@ -3,3 +3,5 @@ fiat: false
 id: 75BPS
 id_nomics: 75BPS
 name: FOMC
+platform: ETH
+platform_contract: '0x22b7a6ace65e29e494e012c0a2d5d09ded3041c4'

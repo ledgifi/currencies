@@ -6,3 +6,5 @@ id_nomics: ADT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/adt.svg
 logoKey: currencies/adt.svg
 name: adToken
+platform: ETH
+platform_contract: '0xd0d6d6c5fe4a677d343cc433536bb717bae167dd'

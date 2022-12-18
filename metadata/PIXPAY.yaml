@@ -3,3 +3,5 @@ fiat: false
 id: PIXPAY
 id_nomics: PIXPAY
 name: PixPay
+platform: BNB
+platform_contract: '0x7b128c71d44bdfd33681bcc22b2c9a031a3a36d7'

@@ -3,3 +3,5 @@ fiat: false
 id: COMPDAO
 id_nomics: COMPDAO
 name: Compound DAO
+platform: ETH
+platform_contract: '0xa87084057233416372ce246eee2e084df873eb41'

@@ -5,3 +5,5 @@ id_nomics: LUNAR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUNAR3.jpg
 logoKey: currencies/lunar3.jpg
 name: LunarSwap
+platform: BNB
+platform_contract: '0xf4206e5f264420630520e0d23c14d8dd5645e6c3'

@@ -8,3 +8,5 @@ id_nomics: APPC
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/appc.svg
 logoKey: currencies/appc.svg
 name: AppCoins
+platform: ETH
+platform_contract: '0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db'

@@ -3,3 +3,5 @@ fiat: false
 id: SGDX
 id_nomics: SGDX
 name: eToro Singapore Dollar
+platform: ETH
+platform_contract: '0x0e3e965acffb719e2f5dd4309969e2debe6215dd'

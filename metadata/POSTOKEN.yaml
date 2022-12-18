@@ -5,3 +5,5 @@ id_nomics: POSTOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POSTOKEN.png
 logoKey: currencies/postoken.png
 name: PoSToken
+platform: ETH
+platform_contract: '0xee609fe292128cad03b786dbb9bc2634ccdbe7fc'

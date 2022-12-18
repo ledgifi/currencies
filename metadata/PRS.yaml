@@ -6,3 +6,5 @@ id_nomics: PRS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRS.png
 logoKey: currencies/prs.png
 name: PressOne
+platform: ETH
+platform_contract: '0xe0d95530820aafc51b1d98023aa1ff000b78d8b2'

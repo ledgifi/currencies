@@ -5,3 +5,5 @@ id_nomics: CREDA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CREDA.jpg
 logoKey: currencies/creda.jpg
 name: CreDA
+platform: ARBETH
+platform_contract: '0xc136e6b376a9946b156db1ed3a34b08afdaed76d'

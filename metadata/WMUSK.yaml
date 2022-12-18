@@ -5,3 +5,5 @@ id_nomics: WMUSK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WMUSK.jpg
 logoKey: currencies/wmusk.jpg
 name: Willy Musk
+platform: ETH
+platform_contract: '0x57ff6c50cec21fb5910ce07bb09d0dd776709c87'

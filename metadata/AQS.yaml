@@ -3,3 +3,5 @@ fiat: false
 id: AQS
 id_nomics: AQS
 name: Aquasis
+platform: ETH
+platform_contract: '0x51bde723d5cf0ce453870ab8e0faa17e228adf1b'

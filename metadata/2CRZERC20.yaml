@@ -5,3 +5,5 @@ id_nomics: 2CRZERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/2CRZERC20.jpg
 logoKey: currencies/2crzerc20.jpg
 name: 2CrazyToken (ERC-20)
+platform: ETH
+platform_contract: '0x2c9c19ce3b15ae77c6d80aec3c1194cfd6f7f3fa'

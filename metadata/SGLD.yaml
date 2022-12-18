@@ -3,3 +3,5 @@ fiat: false
 id: SGLD
 id_nomics: SGLD
 name: Safe Gold
+platform: AVAX
+platform_contract: '0x9a8c21d41044f69c99b9688a1fffe3e2307045a5'

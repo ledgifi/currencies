@@ -5,3 +5,5 @@ id_nomics: BASED3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BASED3.jpg
 logoKey: currencies/based3.jpg
 name: BASED
+platform: AVAX
+platform_contract: '0xF5f277894CE428b49c550090c7bdE954e0CFa9d2'

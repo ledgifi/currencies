@@ -5,3 +5,5 @@ id_nomics: YFL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFL.jpg
 logoKey: currencies/yfl.jpg
 name: YF Link
+platform: ETH
+platform_contract: '0x28cb7e841ee97947a86b06fa4090c8451f64c0be'

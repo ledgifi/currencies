@@ -6,3 +6,5 @@ id_nomics: SHINT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHINT.png
 logoKey: currencies/shint.png
 name: Shiba Interstellar
+platform: BNB
+platform_contract: '0xca2f9ce9967c1717f5a2539d525a9a8bca3dea3b'

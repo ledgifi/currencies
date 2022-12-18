@@ -5,3 +5,5 @@ id_nomics: MPT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MPT4.jpg
 logoKey: currencies/mpt4.jpg
 name: Mars Panda World
+platform: BNB
+platform_contract: '0xabf14398786295ee4638368d2004eca9d780097e'

@@ -3,3 +3,5 @@ fiat: false
 id: ZLP
 id_nomics: ZLP
 name: Zuplo
+platform: ETH
+platform_contract: '0x94d8db14831c2c08943798542c450df2844913e5'

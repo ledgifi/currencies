@@ -6,3 +6,5 @@ id_nomics: SUPA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUPA.jpg
 logoKey: currencies/supa.jpg
 name: SUPA Foundation
+platform: FTM
+platform_contract: '0x59d07a115fe3ffe5db3d52029d43cc0ef5e9ba08'

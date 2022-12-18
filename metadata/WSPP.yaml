@@ -6,3 +6,5 @@ id_nomics: WSPP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WSPP.png
 logoKey: currencies/wspp.png
 name: WolfSafePoorPeople
+platform: BNB
+platform_contract: '0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f'

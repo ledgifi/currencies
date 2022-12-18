@@ -6,3 +6,5 @@ id_nomics: DOFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOFI.png
 logoKey: currencies/dofi.png
 name: Doge Floki Coin
+platform: BNB
+platform_contract: '0xf9d6ddf44016953dbf7ab135a0f64d7a41870ede'

@@ -3,3 +3,5 @@ fiat: false
 id: GRU
 id_nomics: GRU
 name: READCONTRACT
+platform: ETH
+platform_contract: '0xa1fe5c7fe0001935f3cb32d841163910134e3f54'

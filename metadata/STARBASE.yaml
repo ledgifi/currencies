@@ -6,3 +6,5 @@ id_nomics: STARBASE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STARBASE.jpeg
 logoKey: currencies/starbase.jpeg
 name: Starbase
+platform: BNB
+platform_contract: '0x58cd65d53f98a48288ff65868603f484a77536d4'

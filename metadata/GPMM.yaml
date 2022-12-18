@@ -3,3 +3,5 @@ fiat: false
 id: GPMM
 id_nomics: GPMM
 name: Gold Perpetual Motion Machine
+platform: BNB
+platform_contract: '0x3c4f20d044372d4d297f6e068fc75cc7effe7ae7'

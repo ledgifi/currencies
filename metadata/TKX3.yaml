@@ -5,3 +5,5 @@ id_nomics: TKX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TKX3.jpg
 logoKey: currencies/tkx3.jpg
 name: Token X
+platform: BNB
+platform_contract: '0x4d864e4f542b4b40acb3151c9dad2e2c9236a88f'

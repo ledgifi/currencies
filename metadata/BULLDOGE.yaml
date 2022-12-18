@@ -3,3 +3,5 @@ fiat: false
 id: BULLDOGE
 id_nomics: BULLDOGE
 name: BullDoge
+platform: ETH
+platform_contract: '0x1e89ed298f830c4824b1836e69878b621d5881b0'

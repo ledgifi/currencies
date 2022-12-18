@@ -3,3 +3,5 @@ fiat: false
 id: TTERC20
 id_nomics: TTERC20
 name: Thunder Token (ERC-20)
+platform: ETH
+platform_contract: '0x1e053d89e08c24aa2ce5c5b4206744dc2d7bd8f5'

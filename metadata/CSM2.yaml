@@ -5,3 +5,5 @@ id_nomics: CSM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CSM2.jpg
 logoKey: currencies/csm2.jpg
 name: Crust Storage Market
+platform: ETH
+platform_contract: '0x2620638eda99f9e7e902ea24a285456ee9438861'

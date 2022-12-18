@@ -6,3 +6,5 @@ id_nomics: VOLTZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VOLTZ.png
 logoKey: currencies/voltz.png
 name: Voltz
+platform: ETH
+platform_contract: '0x60715e436c37444e29772c0d26a98ae1e8e1a989'

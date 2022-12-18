@@ -5,3 +5,5 @@ id_nomics: JUMPX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JUMPX.png
 logoKey: currencies/jumpx.png
 name: JumpX
+platform: BNB
+platform_contract: '0x84a0fdfcaea03f57fb7e7aa511db3da76bbefd0f'

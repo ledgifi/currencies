@@ -5,3 +5,5 @@ id_nomics: MITHRILORE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MITHRILORE.png
 logoKey: currencies/mithrilore.png
 name: Mithril Ore
+platform: ETH
+platform_contract: '0x501262281b2ba043e2fbf14904980689cddb0c78'

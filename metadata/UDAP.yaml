@@ -5,3 +5,5 @@ id_nomics: UDAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UDAP.png
 logoKey: currencies/udap.png
 name: UDAP
+platform: ETH
+platform_contract: '0x5f778ec4b31a506c1dfd8b06f131e9b451a61d39'

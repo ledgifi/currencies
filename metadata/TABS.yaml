@@ -5,3 +5,5 @@ id_nomics: TABS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TABS.jpg
 logoKey: currencies/tabs.jpg
 name: Lsd.finance
+platform: ETH
+platform_contract: '0xc38dc661c6b4a2cbf1e0e347fd53d74614f505bb'

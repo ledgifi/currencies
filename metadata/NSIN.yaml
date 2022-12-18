@@ -5,3 +5,5 @@ id_nomics: NSIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NSIN.jpeg
 logoKey: currencies/nsin.jpeg
 name: New Sin City Token
+platform: BNB
+platform_contract: '0x352569ece5dd0a8f3596a5afd7637e2fa2c35fa9'

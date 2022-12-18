@@ -5,3 +5,5 @@ id_nomics: JOOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JOOS.jpg
 logoKey: currencies/joos.jpg
 name: JOOS Protocol
+platform: ETH
+platform_contract: '0x05f9abf4b0c5661e83b92c056a8791d5ccd7ca52'

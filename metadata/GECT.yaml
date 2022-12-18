@@ -5,3 +5,5 @@ id_nomics: GECT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GECT.jpg
 logoKey: currencies/gect.jpg
 name: Gecko Token
+platform: BNB
+platform_contract: '0xa2cc8427580806bb244b2c0e8cd0f9889af559f3'

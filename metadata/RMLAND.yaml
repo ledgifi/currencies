@@ -5,3 +5,5 @@ id_nomics: RMLAND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RMLAND.jpeg
 logoKey: currencies/rmland.jpeg
 name: RealMetaLand
+platform: BNB
+platform_contract: '0x0a0799c13c93ce773012c9a766f9ca66378e1f93'

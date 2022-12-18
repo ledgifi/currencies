@@ -5,3 +5,5 @@ id_nomics: DOSEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOSEX.png
 logoKey: currencies/dosex.png
 name: Dose of ETH
+platform: BNB
+platform_contract: '0x62fa2ff70d507c57a56eb37d9232dbb884e2a4a3'

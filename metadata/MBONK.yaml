@@ -6,3 +6,5 @@ id_nomics: MBONK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MBONK.jpg
 logoKey: currencies/mbonk.jpg
 name: megaBonk
+platform: ETH
+platform_contract: '0xacfe45c352c902ae3a3f9b6bfe6ec994c5d791bf'

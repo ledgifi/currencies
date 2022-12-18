@@ -3,3 +3,5 @@ fiat: false
 id: NEPT
 id_nomics: NEPT
 name: Metanept
+platform: ETH
+platform_contract: '0x355a824bea1adc22733978a3748271e1bbb34130'

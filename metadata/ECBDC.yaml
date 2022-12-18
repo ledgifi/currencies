@@ -3,3 +3,5 @@ fiat: false
 id: ECBDC
 id_nomics: ECBDC
 name: European Central Bank Digital Currency
+platform: ETH
+platform_contract: '0x6ba081392ada2d2526baa5a7992de80648622d2b'

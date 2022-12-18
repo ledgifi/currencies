@@ -6,3 +6,5 @@ id_nomics: DTH
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/dth.svg
 logoKey: currencies/dth.svg
 name: Dether
+platform: ETH
+platform_contract: '0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190'

@@ -6,3 +6,5 @@ id_nomics: IVO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IVO.jpg
 logoKey: currencies/ivo.jpg
 name: iVeryOne
+platform: ETH
+platform_contract: '0x39d39b7afde675cf79ef1483d43eea0b28507945'

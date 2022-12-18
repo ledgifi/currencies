@@ -5,3 +5,5 @@ id_nomics: FINU9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FINU9.jpg
 logoKey: currencies/finu9.jpg
 name: Fege Inu
+platform: BNB
+platform_contract: '0x2877dfe962f954f667049d7307ef23bec84995ae'

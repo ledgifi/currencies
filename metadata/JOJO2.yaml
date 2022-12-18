@@ -5,3 +5,5 @@ id_nomics: JOJO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JOJO2.jpg
 logoKey: currencies/jojo2.jpg
 name: JoJo Inu
+platform: ETH
+platform_contract: '0xe18024f4838962d61eb591982390dffc762f2cd7'

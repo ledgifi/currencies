@@ -6,3 +6,5 @@ id_nomics: RULER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RULER.jpg
 logoKey: currencies/ruler.jpg
 name: Ruler Protocol
+platform: ETH
+platform_contract: '0x2aeccb42482cc64e087b6d2e5da39f5a7a7001f8'

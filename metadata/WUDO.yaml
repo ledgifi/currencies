@@ -5,3 +5,5 @@ id_nomics: WUDO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WUDO.jpg
 logoKey: currencies/wudo.jpg
 name: Wrapped Unido
+platform: BNB
+platform_contract: '0x70802af0ba10dd5bb33276b5b37574b6451db3d9'

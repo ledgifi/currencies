@@ -5,3 +5,5 @@ id_nomics: WETL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WETL.jpg
 logoKey: currencies/wetl.jpg
 name: Wrapped EtherLite
+platform: ETH
+platform_contract: '0x71abbd6b628da7874e9861b6a9e5d67b10eec729'

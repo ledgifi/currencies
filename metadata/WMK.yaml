@@ -5,3 +5,5 @@ id_nomics: WMK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WMK.png
 logoKey: currencies/wmk.png
 name: Wemark
+platform: ETH
+platform_contract: '0xbfbe5332f172d77811bc6c272844f3e54a7b23bb'

@@ -5,3 +5,5 @@ id_nomics: UNC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNC2.jpg
 logoKey: currencies/unc2.jpg
 name: Uncloak
+platform: ETH
+platform_contract: '0x25bceaf96191d34c6a135a26ae8d7281dacf8ff0'

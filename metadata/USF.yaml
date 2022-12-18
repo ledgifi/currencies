@@ -6,3 +6,5 @@ id_nomics: USF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USF.jpg
 logoKey: currencies/usf.jpg
 name: Unslashed Finance
+platform: ETH
+platform_contract: '0xe0e05c43c097b0982db6c9d626c4eb9e95c3b9ce'

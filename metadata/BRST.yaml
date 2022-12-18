@@ -5,3 +5,5 @@ id_nomics: BRST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRST.png
 logoKey: currencies/brst.png
 name: Brave Sound Token
+platform: ETH
+platform_contract: '0x16c4672c614fa107972427db6f5fb165583b8fbc'

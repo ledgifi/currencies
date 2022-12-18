@@ -6,3 +6,5 @@ id_nomics: BEPIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEPIS.jpg
 logoKey: currencies/bepis.jpg
 name: BEPIS
+platform: BNB
+platform_contract: '0xa031d93dd0dc21bb799d3f7780e9d29df5210114'

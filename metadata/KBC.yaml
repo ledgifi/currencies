@@ -6,3 +6,5 @@ id_nomics: KBC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KBC.png
 logoKey: currencies/kbc.png
 name: KaratGold Coin
+platform: ETH
+platform_contract: '0xd67b1db49801b6f4c96a01a4f7964233150dc58b'

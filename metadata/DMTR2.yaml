@@ -5,3 +5,5 @@ id_nomics: DMTR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DMTR2.png
 logoKey: currencies/dmtr2.png
 name: Demeter
+platform: METIS
+platform_contract: '0xC95ff4d20D02aa1968BA98B6DBbD89cbbAE9FBE1'

@@ -5,3 +5,5 @@ id_nomics: XGG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XGG.jpg
 logoKey: currencies/xgg.jpg
 name: Going Gems
+platform: ETH
+platform_contract: '0xf6b6aa0ef0f5edc2c1c5d925477f97eaf66303e7'

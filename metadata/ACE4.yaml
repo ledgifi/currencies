@@ -5,3 +5,5 @@ id_nomics: ACE4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACE4.jpg
 logoKey: currencies/ace4.jpg
 name: Acent
+platform: ETH
+platform_contract: '0xec5483804e637d45cde22fa0869656b64b5ab1ab'

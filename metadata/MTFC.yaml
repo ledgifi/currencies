@@ -5,3 +5,5 @@ id_nomics: MTFC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTFC.jpg
 logoKey: currencies/mtfc.jpg
 name: METAFACT
+platform: BNB
+platform_contract: '0xd829718CdaD1a886c738464a004653D87464ED12'

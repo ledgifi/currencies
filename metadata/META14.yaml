@@ -5,3 +5,5 @@ id_nomics: META14
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/META14.jpg
 logoKey: currencies/meta14.jpg
 name: MetaversePRO
+platform: BNB
+platform_contract: '0x0a2046c7faa5a5f2b38c0599deb4310ab781cc83'

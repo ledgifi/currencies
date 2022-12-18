@@ -5,3 +5,5 @@ id_nomics: IZOBI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IZOBI.jpg
 logoKey: currencies/izobi.jpg
 name: iZOBi V1 (OLD)
+platform: ETH
+platform_contract: '0x1fb78556ee121475d95a6b71b951996140f0d248'

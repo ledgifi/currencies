@@ -6,3 +6,5 @@ id_nomics: 1ST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/1ST.svg
 logoKey: currencies/1st.svg
 name: Firstblood
+platform: ETH
+platform_contract: '0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7'

@@ -6,3 +6,5 @@ id_nomics: HZD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HZD.jpg
 logoKey: currencies/hzd.jpg
 name: Horizon Dollar
+platform: BNB
+platform_contract: '0xfefbbeebbeef18e3e4a2909f2b2729ca2fc61347'

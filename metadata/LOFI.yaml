@@ -6,3 +6,5 @@ id_nomics: LOFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOFI.jpg
 logoKey: currencies/lofi.jpg
 name: Lofi Defi
+platform: BNB
+platform_contract: '0x17d8519f57450e2b7e6ae1163e0e448322a8af17'

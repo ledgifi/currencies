@@ -5,3 +5,5 @@ id_nomics: TAPE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TAPE2.jpg
 logoKey: currencies/tape2.jpg
 name: ToolApe
+platform: BNB
+platform_contract: '0xf63400ee0420ce5b1ebdee0c942d7de1c734a41f'

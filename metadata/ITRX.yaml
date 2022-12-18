@@ -5,3 +5,5 @@ id_nomics: ITRX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ITRX.png
 logoKey: currencies/itrx.png
 name: iTRX
+platform: ETH
+platform_contract: '0xcd8d927f2cb03d2efb7f96ceb66ec4976843e012'

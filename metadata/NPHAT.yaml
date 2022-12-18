@@ -3,3 +3,5 @@ fiat: false
 id: NPHAT
 id_nomics: NPHAT
 name: NitroPhat
+platform: ARBETH
+platform_contract: '0xfbc607f59e659e2b6e44978715a4a6684c260326'

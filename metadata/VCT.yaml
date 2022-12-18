@@ -6,3 +6,5 @@ id_nomics: VCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VCT.jpg
 logoKey: currencies/vct.jpg
 name: ValueCyberToken
+platform: ETH
+platform_contract: '0x9746953f5b1324a78132895cfd263f417b0faae3'

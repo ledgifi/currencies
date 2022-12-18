@@ -5,3 +5,5 @@ id_nomics: IPUX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IPUX.jpg
 logoKey: currencies/ipux.jpg
 name: Initial Point Unit X
+platform: ETH
+platform_contract: '0x5f236f062f16a9b19819c535127398df9a01d762'

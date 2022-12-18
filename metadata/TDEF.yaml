@@ -5,3 +5,5 @@ id_nomics: TDEF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TDEF.jpg
 logoKey: currencies/tdef.jpg
 name: thedogelonfather
+platform: ETH
+platform_contract: '0xdf1c1b185d7cdd2afcb74757d50aa9589c9c2ad3'

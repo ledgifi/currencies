@@ -5,3 +5,5 @@ id_nomics: DAC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAC4.png
 logoKey: currencies/dac4.png
 name: DACProtocol
+platform: BNB
+platform_contract: '0xF5BA0856805b9B69b2a8BC89D31A473894D1f86c'

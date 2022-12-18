@@ -3,3 +3,5 @@ fiat: false
 id: FGR
 id_nomics: FGR
 name: FGRCOIN
+platform: BNB
+platform_contract: '0x155d1f08c07724b2421bf2d382915878e5d2477c'

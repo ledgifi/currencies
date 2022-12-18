@@ -5,3 +5,5 @@ id_nomics: GLDT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GLDT2.jpg
 logoKey: currencies/gldt2.jpg
 name: Goldit Coin
+platform: BNB
+platform_contract: '0x66F40AA38a84B6998F5e25d3c110fD59d18f1c9E'

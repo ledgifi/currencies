@@ -3,3 +3,5 @@ fiat: false
 id: VICIVEST
 id_nomics: VICIVEST
 name: ViCiVest
+platform: MATIC
+platform_contract: '0x22aadbdb89534c3c455e59066afe0ce9fec0436a'

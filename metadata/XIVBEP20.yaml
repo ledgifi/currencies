@@ -3,3 +3,5 @@ fiat: false
 id: XIVBEP20
 id_nomics: XIVBEP20
 name: Project Inverse (BEP-20)
+platform: BNB
+platform_contract: '0x00518f36d2e0e514e8eb94d34124fc18ee756f10'

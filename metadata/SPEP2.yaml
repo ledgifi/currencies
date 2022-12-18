@@ -5,3 +5,5 @@ id_nomics: SPEP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPEP2.jpg
 logoKey: currencies/spep2.jpg
 name: Stadium Pepe
+platform: BNB
+platform_contract: '0x5c2d4caefae1b1a746706aca1bdded72d463215e'

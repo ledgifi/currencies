@@ -5,3 +5,5 @@ id_nomics: ARTI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARTI.jpg
 logoKey: currencies/arti.jpg
 name: Arti Project
+platform: ETH
+platform_contract: '0x3625b55f653f8c7c884ac668696881df43631d44'

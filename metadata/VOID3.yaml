@@ -5,3 +5,5 @@ id_nomics: VOID3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VOID3.jpg
 logoKey: currencies/void3.jpg
 name: AvalancheVoid
+platform: AVAX
+platform_contract: '0x02fe8adc1b58a63ccb1bb8c39930dcedd7cef4db'

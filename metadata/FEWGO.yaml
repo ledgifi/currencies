@@ -6,3 +6,5 @@ id_nomics: FEWGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FEWGO.jpg
 logoKey: currencies/fewgo.jpg
 name: Fewmans Gold
+platform: ETH
+platform_contract: '0x60e46a4dd91d10506d8efa2caa266e7191fe7ea8'

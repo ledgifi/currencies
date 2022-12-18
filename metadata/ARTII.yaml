@@ -6,3 +6,5 @@ id_nomics: ARTII
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARTII.jpg
 logoKey: currencies/artii.jpg
 name: ARTII Token
+platform: ETH
+platform_contract: '0x07a858fc699f99ddf2b186bf162fd7f4d42f7f63'

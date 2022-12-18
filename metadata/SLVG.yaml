@@ -6,3 +6,5 @@ id_nomics: SLVG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLVG.jpeg
 logoKey: currencies/slvg.jpeg
 name: Silvering
+platform: ETH
+platform_contract: '0x7ef55a013d0632c24955553367c8d5cc082ddbff'

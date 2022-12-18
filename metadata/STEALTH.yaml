@@ -3,3 +3,5 @@ fiat: false
 id: STEALTH
 id_nomics: STEALTH
 name: StealthListingToken
+platform: MATIC
+platform_contract: '0x073fa5325970bd5fd69b94e546e277ad1545b9a4'

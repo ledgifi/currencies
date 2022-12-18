@@ -5,3 +5,5 @@ id_nomics: CCOMP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CCOMP.png
 logoKey: currencies/ccomp.png
 name: cCOMP
+platform: ETH
+platform_contract: '0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4'

@@ -5,3 +5,5 @@ id_nomics: HTF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HTF2.jpeg
 logoKey: currencies/htf2.jpeg
 name: Healthify
+platform: BNB
+platform_contract: '0x1a8b6e637aab57c8544dc90bd813c62faa68aa1c'

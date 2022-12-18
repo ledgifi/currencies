@@ -5,3 +5,5 @@ id_nomics: FONT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FONT2.jpg
 logoKey: currencies/font2.jpg
 name: Font FTM
+platform: FTM
+platform_contract: '0xbbc4a8d076f4b1888fec42581b6fc58d242cf2d5'

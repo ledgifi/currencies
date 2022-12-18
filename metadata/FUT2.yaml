@@ -5,3 +5,5 @@ id_nomics: FUT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FUT2.png
 logoKey: currencies/fut2.png
 name: Futira Token
+platform: BNB
+platform_contract: '0x660c31acabc91304d8c2ce058dc8df6773ffbaf8'

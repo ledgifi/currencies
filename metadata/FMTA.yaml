@@ -6,3 +6,5 @@ id_nomics: FMTA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FMTA.jpg
 logoKey: currencies/fmta.jpg
 name: Fundamenta
+platform: ETH
+platform_contract: '0xaa9d866666c2a3748d6b23ff69e63e52f08d9ab4'

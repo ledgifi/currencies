@@ -5,3 +5,5 @@ id_nomics: NDC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NDC2.jpg
 logoKey: currencies/ndc2.jpg
 name: Nano Dogecoin
+platform: BNB
+platform_contract: '0x1b41821625d8cfad21cd56491dacd57ecacc83de'

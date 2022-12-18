@@ -6,3 +6,5 @@ id_nomics: TORI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TORI.jpg
 logoKey: currencies/tori.jpg
 name: Storichain Token
+platform: ETH
+platform_contract: '0xc71e20e54adfc415f79bf0a8f11122917920050e'

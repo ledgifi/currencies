@@ -5,3 +5,5 @@ id_nomics: BMRNCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BMRNCX.jpg
 logoKey: currencies/bmrncx.jpg
 name: BioMarin Pharmaceutical Inc. Token
+platform: ETH
+platform_contract: '0x8bd18c6fbe72ada40f54d5921dfd5454a6d548a9'

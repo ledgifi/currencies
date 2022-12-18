@@ -5,3 +5,5 @@ id_nomics: KBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KBA.png
 logoKey: currencies/kba.png
 name: KBA Coin
+platform: BNB
+platform_contract: '0xb96fc3324fc8e54cb929b2bb035501eb54b00e2e'

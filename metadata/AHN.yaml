@@ -3,3 +3,5 @@ fiat: false
 id: AHN
 id_nomics: AHN
 name: Anti-hunger
+platform: FUSE
+platform_contract: '0x556c251cbe046bb34c333922cbfa220cc2c5e306'

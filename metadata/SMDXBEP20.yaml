@@ -5,3 +5,5 @@ id_nomics: SMDXBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMDXBEP20.png
 logoKey: currencies/smdxbep20.png
 name: SOMIDAX (BEP-20)
+platform: BNB
+platform_contract: '0xea8c5b9c537f3ebbcc8f2df0573f2d084e9e2bdb'

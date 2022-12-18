@@ -5,3 +5,5 @@ id_nomics: GREATTIGER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GREATTIGER.jpeg
 logoKey: currencies/greattiger.jpeg
 name: GreatTiger
+platform: BNB
+platform_contract: '0x4fc8ad5caa314a1afaefa64b59d5c6a6df470606'

@@ -5,3 +5,5 @@ id_nomics: SHIBFB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBFB.png
 logoKey: currencies/shibfb.png
 name: ShibaFootball
+platform: BNB
+platform_contract: '0x9FDf76790010c108DA73C6366C2776b2Fc983354'

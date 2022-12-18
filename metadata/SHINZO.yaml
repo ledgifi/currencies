@@ -3,3 +3,5 @@ fiat: false
 id: SHINZO
 id_nomics: SHINZO
 name: Shinzo Token
+platform: BNB
+platform_contract: '0x2e8276d68e270ece1b6d0ecc0a89fdf4f3fa35bf'

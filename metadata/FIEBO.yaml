@@ -3,3 +3,5 @@ fiat: false
 id: FIEBO
 id_nomics: FIEBO
 name: fiebo
+platform: BNB
+platform_contract: '0xdaa552101e5845f32c77ab4cf3e075bfe8157a54'

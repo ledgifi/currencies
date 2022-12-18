@@ -5,3 +5,5 @@ id_nomics: SHD3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHD3.png
 logoKey: currencies/shd3.png
 name: SuperHelpingDoge
+platform: BNB
+platform_contract: '0xe7be194ade6cc2295aff4b13389893cf9e0e414a'

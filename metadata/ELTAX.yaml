@@ -5,3 +5,5 @@ id_nomics: ELTAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELTAX.jpeg
 logoKey: currencies/eltax.jpeg
 name: ELONSTAX
+platform: BNB
+platform_contract: '0xd76edc8f949d18adef9092272bb36fdcad03dfdf'

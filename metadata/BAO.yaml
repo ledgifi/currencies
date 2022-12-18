@@ -6,3 +6,5 @@ id_nomics: BAO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAO.jpg
 logoKey: currencies/bao.jpg
 name: Bao Finance
+platform: ETH
+platform_contract: '0x374cb8c27130e2c9e04f44303f3c8351b9de61c1'

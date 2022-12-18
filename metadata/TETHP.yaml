@@ -3,3 +3,5 @@ fiat: false
 id: TETHP
 id_nomics: TETHP
 name: Tether Print
+platform: AVAX
+platform_contract: '0xf65507e296e33cc29d04b72ee2e907c158455ca2'

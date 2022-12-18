@@ -5,3 +5,5 @@ id_nomics: WCUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WCUSD.jpg
 logoKey: currencies/wcusd.jpg
 name: Wrapped Celo Dollar
+platform: ETH
+platform_contract: '0xad3e3fc59dff318beceaab7d00eb4f68b1ecf195'

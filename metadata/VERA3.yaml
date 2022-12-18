@@ -5,3 +5,5 @@ id_nomics: VERA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VERA3.jpg
 logoKey: currencies/vera3.jpg
 name: Vera Defi
+platform: ETH
+platform_contract: '0xd7f0cc50ad69408ae58be033f4f85d2367c2e468'

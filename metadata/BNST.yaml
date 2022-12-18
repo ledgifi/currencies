@@ -3,3 +3,5 @@ fiat: false
 id: BNST
 id_nomics: BNST
 name: Bansho-Shinra Token
+platform: MATIC
+platform_contract: '0x77e873c772dd54ba70bc0d60fbf6b8b3c39538a3'

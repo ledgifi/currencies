@@ -3,3 +3,5 @@ fiat: false
 id: EVERPUMP
 id_nomics: EVERPUMP
 name: PUMP IT UP
+platform: ETH
+platform_contract: '0x83ddea393231da524e07b63825f0babf6b55e11a'

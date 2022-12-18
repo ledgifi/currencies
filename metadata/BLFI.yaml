@@ -5,3 +5,5 @@ id_nomics: BLFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLFI.jpg
 logoKey: currencies/blfi.jpg
 name: BlackFisk
+platform: ETH
+platform_contract: '0x417ffdbc285dd2c4dc00937798ab901634137caa'

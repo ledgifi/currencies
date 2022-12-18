@@ -3,3 +3,5 @@ fiat: false
 id: NOP
 id_nomics: NOP
 name: Nop
+platform: BNB
+platform_contract: '0x28181b002d2bb92d6d78034cbfc836581d0ab357'

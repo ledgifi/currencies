@@ -5,3 +5,5 @@ id_nomics: ADEL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADEL.jpg
 logoKey: currencies/adel.jpg
 name: Akropolis Delphi
+platform: ETH
+platform_contract: '0x94d863173ee77439e4292284ff13fad54b3ba182'

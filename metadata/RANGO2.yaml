@@ -5,3 +5,5 @@ id_nomics: RANGO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RANGO2.png
 logoKey: currencies/rango2.png
 name: Rango Inu
+platform: BNB
+platform_contract: '0x4175308cdd29911f65cc09be2ec21c50d1ccabb9'

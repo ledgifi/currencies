@@ -3,3 +3,5 @@ fiat: false
 id: DEMOTOKEN
 id_nomics: DEMOTOKEN
 name: DemoToken
+platform: BNB
+platform_contract: '0x9016b70a132ec15aae8e9af0ac3c2a724b38db6a'

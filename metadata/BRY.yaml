@@ -6,3 +6,5 @@ id_nomics: BRY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRY.jpg
 logoKey: currencies/bry.jpg
 name: Berry Data
+platform: BNB
+platform_contract: '0xf859bf77cbe8699013d6dbc7c2b926aaf307f830'

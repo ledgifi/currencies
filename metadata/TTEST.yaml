@@ -3,3 +3,5 @@ fiat: false
 id: TTEST
 id_nomics: TTEST
 name: ttest
+platform: BNB
+platform_contract: '0x01af1cbc1ff587d2ebc3439575d9f1e860464b54'

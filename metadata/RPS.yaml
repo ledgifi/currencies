@@ -6,3 +6,5 @@ id_nomics: RPS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RPS.jpg
 logoKey: currencies/rps.jpg
 name: Rps League
+platform: BNB
+platform_contract: '0xc2a605a31bf67a5af81cf6e39af79a62d8462717'

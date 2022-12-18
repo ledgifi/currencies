@@ -3,3 +3,5 @@ fiat: false
 id: NTZ
 id_nomics: NTZ
 name: Net Zero Token
+platform: ETH
+platform_contract: '0x0a93d51f7fe462f4335a3779784908bc9dd53661'

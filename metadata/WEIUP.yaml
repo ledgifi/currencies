@@ -6,3 +6,5 @@ id_nomics: WEIUP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WEIUP.jpg
 logoKey: currencies/weiup.jpg
 name: WeiUp
+platform: BNB
+platform_contract: '0xd0f08610b9bb66395b0d2679f749bbe8a12cc0bb'

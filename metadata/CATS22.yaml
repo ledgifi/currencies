@@ -5,3 +5,5 @@ id_nomics: CATS22
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CATS22.jpg
 logoKey: currencies/cats22.jpg
 name: CatCoin2.0
+platform: BNB
+platform_contract: '0x4260a66fae135a3f423e75a3b16415f27a5282d2'

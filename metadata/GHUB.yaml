@@ -5,3 +5,5 @@ id_nomics: GHUB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GHUB.png
 logoKey: currencies/ghub.png
 name: GemHUB
+platform: KLAY
+platform_contract: '0x4836cc1f355bb2a61c210eaa0cd3f729160cd95e'

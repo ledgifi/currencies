@@ -5,3 +5,5 @@ id_nomics: BROC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BROC.jpg
 logoKey: currencies/broc.jpg
 name: Broadcasting
+platform: ETH
+platform_contract: '0x9f57580e84ef56f905911b7d53477d42367be93c'

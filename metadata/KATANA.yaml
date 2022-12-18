@@ -5,3 +5,5 @@ id_nomics: KATANA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KATANA.jpg
 logoKey: currencies/katana.jpg
 name: Katana Finance
+platform: ETH
+platform_contract: '0xe6410569602124506658ff992f258616ea2d4a3d'

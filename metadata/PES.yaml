@@ -3,3 +3,5 @@ fiat: false
 id: PES
 id_nomics: PES
 name: pesgacoin
+platform: BNB
+platform_contract: '0x1a8e2bc2c7d375791a38b0b931e259f9dc3c4d8d'

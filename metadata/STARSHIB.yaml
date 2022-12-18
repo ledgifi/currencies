@@ -5,3 +5,5 @@ id_nomics: STARSHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STARSHIB.jpg
 logoKey: currencies/starshib.jpg
 name: Starshiba Inu
+platform: BNB
+platform_contract: '0xe3795d79CD3dBb408f8d2E21836835C91400D06d'

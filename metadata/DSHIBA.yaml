@@ -5,3 +5,5 @@ id_nomics: DSHIBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DSHIBA.jpg
 logoKey: currencies/dshiba.jpg
 name: DarkShibaCash
+platform: BNB
+platform_contract: '0x5cf1ebf71db3940288240eb107953d7776b82ba6'

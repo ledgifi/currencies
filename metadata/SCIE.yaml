@@ -6,3 +6,5 @@ id_nomics: SCIE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCIE.png
 logoKey: currencies/scie.png
 name: Scientia
+platform: BNB
+platform_contract: '0x6af2f57f61cec0883c71f3175774ebeb290a10e6'

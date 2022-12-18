@@ -5,3 +5,5 @@ id_nomics: BSE4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSE4.jpeg
 logoKey: currencies/bse4.jpeg
 name: Best Shitcoin Ever
+platform: BNB
+platform_contract: '0xd3b7bb7f0b46fc0fcd4cbdbed7672fca94ab021a'

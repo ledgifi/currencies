@@ -5,3 +5,5 @@ id_nomics: ADBECX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADBECX.jpg
 logoKey: currencies/adbecx.jpg
 name: Adobe Inc. Token
+platform: ETH
+platform_contract: '0xca52a83d53f3a0beed391657c0e83b915489fd1c'

@@ -5,3 +5,5 @@ id_nomics: DDN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DDN2.jpg
 logoKey: currencies/ddn2.jpg
 name: Den Domains
+platform: BNB
+platform_contract: '0x180caf92a1989efc5af3efe154db0dd73199930f'

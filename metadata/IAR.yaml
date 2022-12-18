@@ -5,3 +5,5 @@ id_nomics: IAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IAR.jpg
 logoKey: currencies/iar.jpg
 name: I Am Rich
+platform: BNB
+platform_contract: '0xcD27AC184e387c1f544dc79Ae8c92eb3919CE282'

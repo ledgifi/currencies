@@ -6,3 +6,5 @@ id_nomics: ARMD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARMD.jpeg
 logoKey: currencies/armd.jpeg
 name: Armada
+platform: BNB
+platform_contract: '0xd307e64c0c0e70eaa463926e4c2dd7370de11507'

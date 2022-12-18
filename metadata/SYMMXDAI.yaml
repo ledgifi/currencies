@@ -5,3 +5,5 @@ id_nomics: SYMMXDAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SYMMXDAI.jpg
 logoKey: currencies/symmxdai.jpg
 name: Symmetric on xDai
+platform: XDAI
+platform_contract: '0xc45b3c1c24d5f54e7a2cf288ac668c74dd507a84'

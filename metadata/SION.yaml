@@ -6,3 +6,5 @@ id_nomics: SION
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SION.jpg
 logoKey: currencies/sion.jpg
 name: Sion
+platform: ETH
+platform_contract: '0xe8d1efd0c95011298e9a30143a0182c06b45ff5d'

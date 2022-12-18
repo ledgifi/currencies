@@ -5,3 +5,5 @@ id_nomics: STARFOMO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STARFOMO.jpg
 logoKey: currencies/starfomo.jpg
 name: Star FOMO
+platform: BNB
+platform_contract: '0x438a94b3b262061f7a62a1b5585abc9312e66b4a'

@@ -5,3 +5,5 @@ id_nomics: DBLK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DBLK.jpg
 logoKey: currencies/dblk.jpg
 name: DataOnBlock
+platform: ETH
+platform_contract: '0x526ccc90191a9472299323816bd2c784c0a1bcde'

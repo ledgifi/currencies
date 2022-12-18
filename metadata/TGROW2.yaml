@@ -5,3 +5,5 @@ id_nomics: TGROW2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TGROW2.jpg
 logoKey: currencies/tgrow2.jpg
 name: TWITTER GROW
+platform: BNB
+platform_contract: '0x1341c7d84bb24e48a4ccef2042cefe3dbf577540'

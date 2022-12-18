@@ -5,3 +5,5 @@ id_nomics: DOGRMY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGRMY.png
 logoKey: currencies/dogrmy.png
 name: DogeArmy
+platform: BNB
+platform_contract: '0xbF758F2AFEC32B92E8008b5671088D42aF616515'

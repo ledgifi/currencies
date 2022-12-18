@@ -6,3 +6,5 @@ id_nomics: BYG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BYG.jpg
 logoKey: currencies/byg.jpg
 name: Black Eye Galaxy
+platform: BNB
+platform_contract: '0x4f7b627b88651e3dddca0240bca68a3062632c8c'

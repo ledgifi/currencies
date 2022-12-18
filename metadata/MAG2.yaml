@@ -5,3 +5,5 @@ id_nomics: MAG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAG2.jpg
 logoKey: currencies/mag2.jpg
 name: Magnet DAO
+platform: AVAX
+platform_contract: '0x1d60109178c48e4a937d8ab71699d8ebb6f7c5de'

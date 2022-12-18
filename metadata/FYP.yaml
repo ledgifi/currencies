@@ -6,3 +6,5 @@ id_nomics: FYP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/fyp.svg
 logoKey: currencies/fyp.svg
 name: FlypMe
+platform: ETH
+platform_contract: '0x8f0921f30555624143d427b340b1156914882c10'

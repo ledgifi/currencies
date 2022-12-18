@@ -5,3 +5,5 @@ id_nomics: HESHIBA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HESHIBA2.jpg
 logoKey: currencies/heshiba2.jpg
 name: HeroShiba
+platform: BNB
+platform_contract: '0x58ce4b0116be1641b0e726858c23d5942334d69f'

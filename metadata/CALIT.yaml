@@ -5,3 +5,5 @@ id_nomics: CALIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CALIT.png
 logoKey: currencies/calit.png
 name: CALIT
+platform: BNB
+platform_contract: '0x83404e49ad2a3fde41f3fc4ca946f9c8db3508cd'

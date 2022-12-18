@@ -5,3 +5,5 @@ id_nomics: HTG3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HTG3.jpeg
 logoKey: currencies/htg3.jpeg
 name: Gourdes Coin
+platform: BNB
+platform_contract: '0xe8a875bbcd34a459fa1f251d8024ab5f35b662e0'

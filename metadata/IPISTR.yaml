@@ -3,3 +3,5 @@ fiat: false
 id: IPISTR
 id_nomics: IPISTR
 name: IPI Shorter
+platform: ETH
+platform_contract: '0x888888888888f195e27a2e0f98d712952ab9348e'

@@ -5,3 +5,5 @@ id_nomics: BEANZ2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEANZ2.png
 logoKey: currencies/beanz2.png
 name: Beanz Pixel
+platform: BNB
+platform_contract: '0xfcbf9dc9879b37ff107daa83417190c459953080'

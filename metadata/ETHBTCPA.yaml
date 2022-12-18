@@ -5,3 +5,5 @@ id_nomics: ETHBTCPA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHBTCPA.png
 logoKey: currencies/ethbtcpa.png
 name: ETH/BTC Price Action Candlestick Set
+platform: ETH
+platform_contract: '0x1bcca39ae82e53dede8ec5500c3bcd76cd1e0072'

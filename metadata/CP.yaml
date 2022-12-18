@@ -5,3 +5,5 @@ id_nomics: CP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CP.jpg
 logoKey: currencies/cp.jpg
 name: CoinPark Token
+platform: ETH
+platform_contract: '0xfd45e61e085b3e7a1990a47828d757755b206eee'

@@ -6,3 +6,5 @@ id_nomics: FLISHU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLISHU.jpg
 logoKey: currencies/flishu.jpg
 name: FloKishu
+platform: BNB
+platform_contract: '0xfe6367ee89ad114833c05dd22c9797baca8aa370'

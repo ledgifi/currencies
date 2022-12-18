@@ -4,3 +4,5 @@ id: HIOD
 id_nomics: HIOD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HIOD.png
 name: hiOD
+platform: ETH
+platform_contract: '0x7a83ff237e7870d8d6c3485920ebe654d2841315'

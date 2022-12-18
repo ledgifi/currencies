@@ -5,3 +5,5 @@ id_nomics: COW4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COW4.jpg
 logoKey: currencies/cow4.jpg
 name: CoinWind
+platform: HT
+platform_contract: '0x80861a817106665bca173db6ac2ab628a738c737'

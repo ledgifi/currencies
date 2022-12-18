@@ -5,3 +5,5 @@ id_nomics: CHFU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHFU.png
 logoKey: currencies/chfu.png
 name: Upper Swiss Franc
+platform: ETH
+platform_contract: '0x430e705c7a90d380e9c2d9da4f547d221d6e88cb'

@@ -5,3 +5,5 @@ id_nomics: RBNB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RBNB.jpg
 logoKey: currencies/rbnb.jpg
 name: ROUNDBNB
+platform: BNB
+platform_contract: '0x0045d10145bf6ca1478d978d7d45075809c7e3ee'

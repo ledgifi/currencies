@@ -5,3 +5,5 @@ id_nomics: CRB3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRB3.jpg
 logoKey: currencies/crb3.jpg
 name: Carbon
+platform: ETH
+platform_contract: '0x2fd8bc03d9e827f77fac20b5130ee98b7f80149d'

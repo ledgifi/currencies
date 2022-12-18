@@ -8,3 +8,5 @@ id_nomics: CLV2
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220412/1d8b5d65-329b-42a8-a492-39212d5611b4.png
 logoKey: currencies/clv.png
 name: Clover Finance
+platform: ETH
+platform_contract: '0x80c62fe4487e1351b47ba49809ebd60ed085bf52'

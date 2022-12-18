@@ -5,3 +5,5 @@ id_nomics: AIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AIC.png
 logoKey: currencies/aic.png
 name: Akaiito
+platform: ETH
+platform_contract: '0x7ca936344d234034cf6936472d6bedbe8ae6667f'

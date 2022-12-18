@@ -5,3 +5,5 @@ id_nomics: UFO12
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UFO12.jpg
 logoKey: currencies/ufo12.jpg
 name: UFO
+platform: BNB
+platform_contract: '0x406482b0ADB0587fCF9DD8EDEc27dcda8a456DB0'

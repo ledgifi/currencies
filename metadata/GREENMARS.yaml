@@ -5,3 +5,5 @@ id_nomics: GREENMARS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GREENMARS.jpg
 logoKey: currencies/greenmars.jpg
 name: GreenMars
+platform: BNB
+platform_contract: '0x0709f67254df2d6bbfd4884a5472439b5417615d'

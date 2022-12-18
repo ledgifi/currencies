@@ -5,3 +5,5 @@ id_nomics: ELTHM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELTHM.jpeg
 logoKey: currencies/elthm.jpeg
 name: Elitheum
+platform: BNB
+platform_contract: '0x5774f0e73bb1c0957dd7442b2442c6f77c10aaa1'

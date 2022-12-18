@@ -6,3 +6,5 @@ id_nomics: BIHODL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIHODL.jpg
 logoKey: currencies/bihodl.jpg
 name: BinanceHODL
+platform: BNB
+platform_contract: '0x56ea3a560086d7961cfa29b4ede10eb2300f53e4'

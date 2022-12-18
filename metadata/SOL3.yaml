@@ -5,3 +5,5 @@ id_nomics: SOL3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOL3.jpg
 logoKey: currencies/sol3.jpg
 name: Helios Charts
+platform: BNB
+platform_contract: '0xa36d5e816a6e72c99a5b53dcaf964af500436d3e'

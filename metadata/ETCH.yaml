@@ -6,3 +6,5 @@ id_nomics: ETCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETCH.jpg
 logoKey: currencies/etch.jpg
 name: ElonTech
+platform: BNB
+platform_contract: '0xc66c8b40e9712708d0b4f27c9775dc934b65f0d9'

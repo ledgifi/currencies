@@ -6,3 +6,5 @@ id_nomics: TENDIE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TENDIE.jpg
 logoKey: currencies/tendie.jpg
 name: TendieSwap
+platform: BNB
+platform_contract: '0x9853a30c69474bed37595f9b149ad634b5c323d9'

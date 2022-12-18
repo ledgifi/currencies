@@ -5,3 +5,5 @@ id_nomics: GN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GN.jpg
 logoKey: currencies/gn.jpg
 name: Generosity
+platform: BNB
+platform_contract: '0xFbE8c13B30945F893e738CeDf7473d364D53BabA'

@@ -5,3 +5,5 @@ id_nomics: TRIP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRIP3.png
 logoKey: currencies/trip3.png
 name: Trip Finance
+platform: BNB
+platform_contract: '0x9b09d900de2212d622d3dd77a9fcf92a97ade775'

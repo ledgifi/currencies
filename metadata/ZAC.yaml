@@ -6,3 +6,5 @@ id_nomics: ZAC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZAC.jpeg
 logoKey: currencies/zac.jpeg
 name: ZAC Finance
+platform: ETH
+platform_contract: '0x98a90499b62Ae48E151a66B0F647570b5a473B1c'

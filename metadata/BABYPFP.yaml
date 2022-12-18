@@ -5,3 +5,5 @@ id_nomics: BABYPFP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYPFP.png
 logoKey: currencies/babypfp.png
 name: Baby Pray for Profit
+platform: BNB
+platform_contract: '0x05c7ad2f3f281583bf27821ad3a5400526aea7ba'

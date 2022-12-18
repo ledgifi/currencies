@@ -5,3 +5,5 @@ id_nomics: XPOSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XPOSE.jpg
 logoKey: currencies/xpose.jpg
 name: Xpose Protocol
+platform: BNB
+platform_contract: '0xcc10c8afd683c5aa86b1d170d75b555bce5a2c37'

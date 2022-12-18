@@ -5,3 +5,5 @@ id_nomics: CUP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CUP3.jpg
 logoKey: currencies/cup3.jpg
 name: Crypto Cup
+platform: BNB
+platform_contract: '0x177B8625d7a0aaa3617aA2020c2816eF45BF0D64'

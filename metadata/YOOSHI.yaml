@@ -6,3 +6,5 @@ id_nomics: YOOSHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YOOSHI.jpg
 logoKey: currencies/yooshi.jpg
 name: YooShi
+platform: BNB
+platform_contract: '0x02ff5065692783374947393723dba9599e59f591'

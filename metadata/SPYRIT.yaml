@@ -5,3 +5,5 @@ id_nomics: SPYRIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPYRIT.png
 logoKey: currencies/spyrit.png
 name: SpyritCoin
+platform: MATIC
+platform_contract: '0xca63d9208e3a40e6ff0eaffdcf01daf885612cf3'

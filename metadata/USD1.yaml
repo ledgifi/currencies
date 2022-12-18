@@ -6,3 +6,5 @@ id_nomics: USD1
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USD1.jpg
 logoKey: currencies/usd1.jpg
 name: Psyche
+platform: ETH
+platform_contract: '0xf6c0aa7ebfe9992200c67e5388e4f42da49e1783'

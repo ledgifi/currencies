@@ -6,3 +6,5 @@ id_nomics: YAMV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YAMV2.png
 logoKey: currencies/yamv2.png
 name: YAM v2
+platform: ETH
+platform_contract: '0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a'

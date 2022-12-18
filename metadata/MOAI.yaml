@@ -5,3 +5,5 @@ id_nomics: MOAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOAI.jpeg
 logoKey: currencies/moai.jpeg
 name: SMOAI
+platform: BNB
+platform_contract: '0x2C28b7af158f55d6F9F8B968429938D4634959d4'

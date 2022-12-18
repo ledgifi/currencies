@@ -5,3 +5,5 @@ id_nomics: PWMC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PWMC.png
 logoKey: currencies/pwmc.png
 name: Phoenix Wealth Management Coin
+platform: ETH
+platform_contract: '0xb6098082cc5b21e3cf89e802dd2343455b545c3b'

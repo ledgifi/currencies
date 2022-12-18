@@ -3,3 +3,5 @@ fiat: false
 id: FLDAO
 id_nomics: FLDAO
 name: Frontline DAO
+platform: MATIC
+platform_contract: '0x1cbe6f76d0cea170574a6dafecfa064765d12283'

@@ -6,3 +6,5 @@ id_nomics: LIPS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIPS.jpg
 logoKey: currencies/lips.jpg
 name: LIPCHAIN
+platform: ETH
+platform_contract: '0xc67d5cfb933c4a1c6d2ca4cbdae2ed9f017ee9e5'

@@ -5,3 +5,5 @@ id_nomics: DOGEWHISKY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEWHISKY.jpeg
 logoKey: currencies/dogewhisky.jpeg
 name: DogeWhisky
+platform: BNB
+platform_contract: '0x06285e401843192833f557002dbdae31bbe1f4d9'

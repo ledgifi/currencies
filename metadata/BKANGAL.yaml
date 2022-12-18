@@ -5,3 +5,5 @@ id_nomics: BKANGAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BKANGAL.jpg
 logoKey: currencies/bkangal.jpg
 name: Kangal
+platform: BNB
+platform_contract: '0xd632bd021a07af70592ce1e18717ab9aa126decb'

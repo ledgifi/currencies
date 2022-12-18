@@ -3,3 +3,5 @@ fiat: false
 id: LIGDOGE
 id_nomics: LIGDOGE
 name: Lightning Doge
+platform: BNB
+platform_contract: '0x95c4a460ce8bb332fcda9745380b6ebce74b6383'

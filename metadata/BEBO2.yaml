@@ -5,3 +5,5 @@ id_nomics: BEBO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEBO2.jpeg
 logoKey: currencies/bebo2.jpeg
 name: BearBonk
+platform: BNB
+platform_contract: '0x643d9cd25fa48c4b68910e73d7e51ed482f87411'

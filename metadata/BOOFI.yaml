@@ -6,3 +6,5 @@ id_nomics: BOOFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOOFI.jpg
 logoKey: currencies/boofi.jpg
 name: Boo Finance
+platform: AVAX
+platform_contract: '0xb00f1ad977a949a3ccc389ca1d1282a2946963b0'

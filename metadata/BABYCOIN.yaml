@@ -3,3 +3,5 @@ fiat: false
 id: BABYCOIN
 id_nomics: BABYCOIN
 name: Babycoin
+platform: ETH
+platform_contract: '0xd2cb4366d8111d65ebff6c29852fef7a1628ae80'

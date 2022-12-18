@@ -6,3 +6,5 @@ id_nomics: GNUN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GNUN.jpg
 logoKey: currencies/gnun.jpg
 name: Golden Inu
+platform: BNB
+platform_contract: '0x2e1bc05ad781289fc68c86c2a40266e8a39344cd'

@@ -3,3 +3,5 @@ fiat: false
 id: OLK
 id_nomics: OLK
 name: OracleLocker
+platform: MATIC
+platform_contract: '0x046ea590745abd3f86b232dbb51ca9847da21751'

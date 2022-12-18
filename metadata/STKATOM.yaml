@@ -5,3 +5,5 @@ id_nomics: STKATOM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STKATOM.jpg
 logoKey: currencies/stkatom.jpg
 name: pSTAKE Staked ATOM
+platform: ETH
+platform_contract: '0x44017598f2af1bd733f9d87b5017b4e7c1b28dde'

@@ -5,3 +5,5 @@ id_nomics: CHAD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHAD2.jpg
 logoKey: currencies/chad2.jpg
 name: CHAD
+platform: BNB
+platform_contract: '0x9e1892ed30796ff96abbb1b6a5e722c6ea9c46eb'

@@ -3,3 +3,5 @@ fiat: false
 id: FDTA
 id_nomics: FDTA
 name: FunDelta
+platform: BNB
+platform_contract: '0x150d38a71fdd3ce8e3392bc187aff6f51d3ef34b'

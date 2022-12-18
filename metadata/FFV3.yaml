@@ -3,3 +3,5 @@ fiat: false
 id: FFV3
 id_nomics: FFV3
 name: FFV3
+platform: AVAX
+platform_contract: '0x24a80bfc5a2a244992063d70bd840e3f95742273'

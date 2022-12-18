@@ -5,3 +5,5 @@ id_nomics: GAME1
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAME1.png
 logoKey: currencies/game1.png
 name: Game1Network
+platform: BNB
+platform_contract: '0x0e52d24c87a5ca4f37e3ee5e16ef5913fb0cceeb'

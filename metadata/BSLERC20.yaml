@@ -5,3 +5,5 @@ id_nomics: BSLERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSLERC20.jpg
 logoKey: currencies/bslerc20.jpg
 name: BankSocial (ERC-20)
+platform: ETH
+platform_contract: '0x0af55d5ff28a3269d69b98680fd034f115dd53ac'

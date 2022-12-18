@@ -5,3 +5,5 @@ id_nomics: MPW2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MPW2.jpg
 logoKey: currencies/mpw2.jpg
 name: MPW
+platform: BNB
+platform_contract: '0x1aa96084c38e1fcbb0816d697ce578d7f61be560'

@@ -5,3 +5,5 @@ id_nomics: DXO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DXO2.jpg
 logoKey: currencies/dxo2.jpg
 name: DeepSpace Token
+platform: ETH
+platform_contract: '0x528b3e98c63ce21c6f680b713918e0f89dfae555'

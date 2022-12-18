@@ -5,3 +5,5 @@ id_nomics: MRCR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MRCR.jpg
 logoKey: currencies/mrcr.jpg
 name: Mercor Token
+platform: BNB
+platform_contract: '0x155dab50f1dded25c099e209e7b375456a70e504'

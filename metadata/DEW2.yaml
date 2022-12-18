@@ -5,3 +5,5 @@ id_nomics: DEW2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEW2.jpg
 logoKey: currencies/dew2.jpg
 name: Dew Network
+platform: ETH
+platform_contract: '0x34bd86b1162e0dfb3e1cf66dd1e90489d292280b'

@@ -5,3 +5,5 @@ id_nomics: LCHEE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LCHEE.jpg
 logoKey: currencies/lchee.jpg
 name: Litechee
+platform: BNB
+platform_contract: '0x86d6404c5fe697866a14968bba81eb18d1af5f4e'

@@ -5,3 +5,5 @@ id_nomics: CERT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CERT2.jpg
 logoKey: currencies/cert2.jpg
 name: CertRise
+platform: BNB
+platform_contract: '0xdf4cf10f245b3442098e6ce7a5b800f030897ffa'

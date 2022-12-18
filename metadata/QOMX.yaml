@@ -3,3 +3,5 @@ fiat: false
 id: QOMX
 id_nomics: QOMX
 name: QOMChain
+platform: ETH
+platform_contract: '0x8fdc6fec5e33b26aa47c0837ccc2a929a5d794a2'

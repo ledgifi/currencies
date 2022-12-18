@@ -6,3 +6,5 @@ id_nomics: TKX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TKX.png
 logoKey: currencies/tkx.png
 name: Tokenize Xchange
+platform: ETH
+platform_contract: '0x667102bd3413bfeaa3dffb48fa8288819e480a88'

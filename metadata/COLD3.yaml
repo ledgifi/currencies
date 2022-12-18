@@ -5,3 +5,5 @@ id_nomics: COLD3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COLD3.png
 logoKey: currencies/cold3.png
 name: Coldbank
+platform: ETH
+platform_contract: '0xf49f43c1e8b0c8ac13e63ec7921692a199029d49'

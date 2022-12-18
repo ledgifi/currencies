@@ -5,3 +5,5 @@ id_nomics: DVP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DVP2.jpg
 logoKey: currencies/dvp2.jpg
 name: DRIVENprotocol
+platform: BNB
+platform_contract: '0x43bff6eab0903cd0da8d7c57c25e17314e51da54'

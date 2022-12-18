@@ -5,3 +5,5 @@ id_nomics: KSFBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KSFBEP20.jpg
 logoKey: currencies/ksfbep20.jpg
 name: Kesef Finance (BEP-20)
+platform: BNB
+platform_contract: '0xf056c78ae863b08808c1fe3c0f8a7db2a4fdcf28'

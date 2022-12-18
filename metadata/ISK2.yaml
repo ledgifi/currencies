@@ -3,3 +3,5 @@ fiat: false
 id: ISK2
 id_nomics: ISK2
 name: ISKRA Token
+platform: ETH
+platform_contract: '0x17d2628d30f8e9e966c9ba831c9b9b01ea8ea75c'

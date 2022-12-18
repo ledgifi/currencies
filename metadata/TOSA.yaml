@@ -5,3 +5,5 @@ id_nomics: TOSA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOSA.jpg
 logoKey: currencies/tosa.jpg
 name: Tosa.Finance
+platform: BNB
+platform_contract: '0x8c082f2eb522ad681e775a106babe8d24ac7b3f2'

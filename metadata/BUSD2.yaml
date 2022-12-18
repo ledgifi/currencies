@@ -5,3 +5,5 @@ id_nomics: BUSD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUSD2.png
 logoKey: currencies/busd2.png
 name: Bancor USD Token
+platform: ETH
+platform_contract: '0xedf216b3c9748082c2d7f3f54efe45b41076e3e1'

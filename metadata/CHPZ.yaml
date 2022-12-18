@@ -5,3 +5,5 @@ id_nomics: CHPZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHPZ.jpg
 logoKey: currencies/chpz.jpg
 name: Chipz
+platform: ETH
+platform_contract: '0xd7d6ab522fa41caae78f6edeb46a14954ae0c772'

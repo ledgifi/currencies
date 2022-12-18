@@ -5,3 +5,5 @@ id_nomics: ESS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ess.png
 logoKey: currencies/ess.png
 name: Essentia.One
+platform: ETH
+platform_contract: '0xfc05987bd2be489accf0f509e44b0145d68240f7'

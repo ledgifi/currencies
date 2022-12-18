@@ -3,3 +3,5 @@ fiat: false
 id: ETHHRC20
 id_nomics: ETHHRC20
 name: Heco-Peg ETH Token
+platform: HT
+platform_contract: '0x64ff637fb478863b7468bc97d30a5bf3a428a1fd'

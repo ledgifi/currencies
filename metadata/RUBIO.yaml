@@ -3,3 +3,5 @@ fiat: false
 id: RUBIO
 id_nomics: RUBIO
 name: $RBO
+platform: BNB
+platform_contract: '0x30ff48a2fb00e383a401d86bfbbf2a880be34ef1'

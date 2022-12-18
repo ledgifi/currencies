@@ -5,3 +5,5 @@ id_nomics: BPTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BPTC.jpg
 logoKey: currencies/bptc.jpg
 name: Business Platform Tomato Coin
+platform: ETH
+platform_contract: '0x05237E2bd2dfAb39a135d254cABAE94b183C8baD'

@@ -5,3 +5,5 @@ id_nomics: NYAN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NYAN3.jpg
 logoKey: currencies/nyan3.jpg
 name: YieldNyan Token
+platform: BNB
+platform_contract: '0x45b07df4fe00202dd31f2d95f6c06f3a029625d5'

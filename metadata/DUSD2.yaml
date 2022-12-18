@@ -5,3 +5,5 @@ id_nomics: DUSD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUSD2.png
 logoKey: currencies/dusd2.png
 name: DefiDollar
+platform: ETH
+platform_contract: '0x5bc25f649fc4e26069ddf4cf4010f9f706c23831'

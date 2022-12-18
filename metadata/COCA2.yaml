@@ -5,3 +5,5 @@ id_nomics: COCA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COCA2.png
 logoKey: currencies/coca2.png
 name: Coca
+platform: MATIC
+platform_contract: '0x896bc51151b3bf94b1cdfb8a2536a54b87e172d6'

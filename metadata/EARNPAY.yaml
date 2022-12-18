@@ -6,3 +6,5 @@ id_nomics: EARNPAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EARNPAY.jpg
 logoKey: currencies/earnpay.jpg
 name: EarnPay
+platform: BNB
+platform_contract: '0x17245f6c4f54b84bb71aeaeef38cec57b7f9a77b'

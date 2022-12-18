@@ -5,3 +5,5 @@ id_nomics: WND2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WND2.jpg
 logoKey: currencies/wnd2.jpg
 name: WonderHero
+platform: BNB
+platform_contract: '0xb2aa453b56b495cb95bc9fa72e7706b84e41ee54'

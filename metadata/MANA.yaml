@@ -8,3 +8,5 @@ id_nomics: MANA
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/mana.svg
 logoKey: currencies/mana.svg
 name: Decentraland
+platform: ETH
+platform_contract: '0x0f5d2fb29fb7d3cfee444a200298f468908cc942'

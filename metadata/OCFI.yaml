@@ -3,3 +3,5 @@ fiat: false
 id: OCFI
 id_nomics: OCFI
 name: Octonauts
+platform: ETH
+platform_contract: '0x192b06840f349868e3a80832f09c791b9cb77889'

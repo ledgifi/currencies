@@ -5,3 +5,5 @@ id_nomics: ETHBN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHBN.jpg
 logoKey: currencies/ethbn.jpg
 name: EtherBone
+platform: ETH
+platform_contract: '0x96b52b5bf8d902252d0714a1bd2651a785fd2660'

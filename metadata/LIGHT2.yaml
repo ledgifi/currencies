@@ -5,3 +5,5 @@ id_nomics: LIGHT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIGHT2.jpg
 logoKey: currencies/light2.jpg
 name: Lightning Protocol
+platform: BNB
+platform_contract: '0x7b9c3df47f3326fbc0674d51dc3eb0f2df29f37f'

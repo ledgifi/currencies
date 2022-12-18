@@ -5,3 +5,5 @@ id_nomics: BABIL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABIL.jpeg
 logoKey: currencies/babil.jpeg
 name: Babiltoken
+platform: ETH
+platform_contract: '0xf92364c2369a2633ffcd7db1b18d1fafff6bcbab'

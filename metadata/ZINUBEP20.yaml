@@ -5,3 +5,5 @@ id_nomics: ZINUBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZINUBEP20.jpg
 logoKey: currencies/zinubep20.jpg
 name: Zombie Inu (BEP-20)
+platform: BNB
+platform_contract: '0x21f9b5b2626603e3f40bfc13d01afb8c431d382f'

@@ -5,3 +5,5 @@ id_nomics: SHIBELLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBELLA.png
 logoKey: currencies/shibella.png
 name: Shibella Token
+platform: BNB
+platform_contract: '0x0a971b9b7d33f04fe22abd83390fd506e588c98f'

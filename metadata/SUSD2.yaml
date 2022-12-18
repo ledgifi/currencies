@@ -5,3 +5,5 @@ id_nomics: SUSD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUSD2.jpg
 logoKey: currencies/susd2.jpg
 name: Stabilize USD
+platform: AVAX
+platform_contract: '0xaafd2577fb67366d3c89db0d627c49d769ee2e5d'

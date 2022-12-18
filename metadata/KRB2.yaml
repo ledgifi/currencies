@@ -5,3 +5,5 @@ id_nomics: KRB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KRB2.jpg
 logoKey: currencies/krb2.jpg
 name: Kuriboh Inu
+platform: BNB
+platform_contract: '0x4ccb88eceaa4aa2ecb0c2478c0cc16d5e0fa6654'

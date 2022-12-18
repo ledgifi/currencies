@@ -5,3 +5,5 @@ id_nomics: COMB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COMB.jpg
 logoKey: currencies/comb.jpg
 name: Combine.finance
+platform: ETH
+platform_contract: '0x7d36cce46dd2b0d28dde12a859c2ace4a21e3678'

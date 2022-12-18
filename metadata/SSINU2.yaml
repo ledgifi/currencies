@@ -5,3 +5,5 @@ id_nomics: SSINU2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SSINU2.jpg
 logoKey: currencies/ssinu2.jpg
 name: Senso Inu
+platform: ETH
+platform_contract: '0xadf2dd5ffb2a11e1396a04d70ff7d9c1ad54652c'

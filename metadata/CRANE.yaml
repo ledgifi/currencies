@@ -5,3 +5,5 @@ id_nomics: CRANE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRANE.png
 logoKey: currencies/crane.png
 name: Crane Mine
+platform: TT
+platform_contract: '0xdb76531b80e8d1ed96a58f1aa8ded9ef2c4d070c'

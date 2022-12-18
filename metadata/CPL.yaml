@@ -6,3 +6,5 @@ id_nomics: CPL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CPL.jpg
 logoKey: currencies/cpl.jpg
 name: CoinPlace
+platform: ETH
+platform_contract: '0x4b3c89e986b12f83eed896f02410429a7289526e'

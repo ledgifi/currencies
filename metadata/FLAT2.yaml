@@ -5,3 +5,5 @@ id_nomics: FLAT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLAT2.jpg
 logoKey: currencies/flat2.jpg
 name: Flat Earth Token
+platform: BNB
+platform_contract: '0x41540ba32db90269bb72a7be1d4b1ee18f5544f1'

@@ -6,3 +6,5 @@ id_nomics: NFTX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTX.jpg
 logoKey: currencies/nftx.jpg
 name: NFTX
+platform: ETH
+platform_contract: '0x87d73e916d7057945c9bcd8cdd94e42a6f47f776'

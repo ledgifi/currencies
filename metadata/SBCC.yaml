@@ -3,3 +3,5 @@ fiat: false
 id: SBCC
 id_nomics: SBCC
 name: Smart Block Chain City
+platform: BNB
+platform_contract: '0x6e02be885fca1138038420fddd4b41c59a8cea6d'

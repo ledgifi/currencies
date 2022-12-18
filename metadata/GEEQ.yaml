@@ -6,3 +6,5 @@ id_nomics: GEEQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GEEQ.jpg
 logoKey: currencies/geeq.jpg
 name: GEEQ
+platform: ETH
+platform_contract: '0x6b9f031d718dded0d681c20cb754f97b3bb81b78'

@@ -5,3 +5,5 @@ id_nomics: UARI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UARI.png
 logoKey: currencies/uari.png
 name: Uarini
+platform: BNB
+platform_contract: '0x61408c75f397928c359b9581364ed0695216719b'

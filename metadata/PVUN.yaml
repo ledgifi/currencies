@@ -6,3 +6,5 @@ id_nomics: PVUN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PVUN.png
 logoKey: currencies/pvun.png
 name: Paviliun
+platform: BNB
+platform_contract: '0xd565c6cecffc886d802f066e5d37e2dabc286244'

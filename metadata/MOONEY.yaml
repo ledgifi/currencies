@@ -5,3 +5,5 @@ id_nomics: MOONEY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOONEY.jpg
 logoKey: currencies/mooney.jpg
 name: MoonDAO
+platform: ETH
+platform_contract: '0x20d4db1946859e2adb0e5acc2eac58047ad41395'

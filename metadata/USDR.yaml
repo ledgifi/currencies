@@ -3,3 +3,5 @@ fiat: false
 id: USDR
 id_nomics: USDR
 name: USD Reserve
+platform: BNB
+platform_contract: '0x275194ed61cff8e6ab6f4a5a6ebe63f6de882276'

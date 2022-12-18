@@ -5,3 +5,5 @@ id_nomics: BTCBSC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCBSC.png
 logoKey: currencies/btcbsc.png
 name: Binance Pegged BTC from BSC wrapped by passport.meter.io
+platform: POLIS
+platform_contract: '0xc42f8e97dde0e95ad13d6fbe93a40afc116881ac'

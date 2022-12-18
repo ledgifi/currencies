@@ -5,3 +5,5 @@ id_nomics: SFC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFC4.jpg
 logoKey: currencies/sfc4.jpg
 name: SafeCovid
+platform: BNB
+platform_contract: '0xc82a5dd7904ad9dbdfdefe37e6bad6ea2977940c'

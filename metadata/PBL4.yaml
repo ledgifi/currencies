@@ -3,3 +3,5 @@ fiat: false
 id: PBL4
 id_nomics: PBL4
 name: Pebble
+platform: FTM
+platform_contract: '0x9a2d0935e6cc558aaba4ebd280f03a74b4752add'

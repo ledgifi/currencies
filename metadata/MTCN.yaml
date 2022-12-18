@@ -6,3 +6,5 @@ id_nomics: MTCN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTCN.png
 logoKey: currencies/mtcn.png
 name: Multicoin
+platform: ETH
+platform_contract: '0xf6117cc92d7247f605f11d4c942f0feda3399cb5'

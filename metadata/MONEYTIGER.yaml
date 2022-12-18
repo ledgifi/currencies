@@ -5,3 +5,5 @@ id_nomics: MONEYTIGER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MONEYTIGER.png
 logoKey: currencies/moneytiger.png
 name: Money Tiger
+platform: BNB
+platform_contract: '0xb0ee57d9d6355b6e4fc6a2090ec2844df410da89'

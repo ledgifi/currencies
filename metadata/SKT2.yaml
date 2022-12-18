@@ -5,3 +5,5 @@ id_nomics: SKT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SKT2.jpg
 logoKey: currencies/skt2.jpg
 name: SpeedKingToken
+platform: ETH
+platform_contract: '0xa7c8d7a1c894e51dbb7c680b5b1dbdc845bfbdab'

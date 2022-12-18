@@ -6,3 +6,5 @@ id_nomics: PUPP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PUPP.png
 logoKey: currencies/pupp.png
 name: Puppy Coin
+platform: BNB
+platform_contract: '0xdb766082401abd8751ce3182a13ab71709dd7ad2'

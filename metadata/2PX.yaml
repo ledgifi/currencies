@@ -3,3 +3,5 @@ fiat: false
 id: 2PX
 id_nomics: 2PX
 name: demoExch
+platform: BNB
+platform_contract: '0xf14529b02f30c873b3dd5fa529e1182a2c09ea8a'

@@ -5,3 +5,5 @@ id_nomics: LUCKYPIG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUCKYPIG.jpeg
 logoKey: currencies/luckypig.jpeg
 name: LuckyPig
+platform: BNB
+platform_contract: '0xf16e1ad313e3bf4e3381b58731b45fa116ecf53f'

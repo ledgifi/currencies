@@ -3,3 +3,5 @@ fiat: false
 id: POPULATION
 id_nomics: POPULATION
 name: Population
+platform: ETH
+platform_contract: '0x0bae6435e0086005e2c8fe23290f757a4d1f7a00'

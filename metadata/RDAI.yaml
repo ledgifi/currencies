@@ -5,3 +5,5 @@ id_nomics: RDAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RDAI.jpg
 logoKey: currencies/rdai.jpg
 name: rDAI
+platform: ETH
+platform_contract: '0x261b45d85ccfeabb11f022eba346ee8d1cd488c0'

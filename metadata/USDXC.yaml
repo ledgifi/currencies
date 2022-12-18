@@ -3,3 +3,5 @@ fiat: false
 id: USDXC
 id_nomics: USDXC
 name: USDxc Stablecoin
+platform: BNB
+platform_contract: '0xa68d1d59822765cc2edbdc4640a1b6313c69c18f'

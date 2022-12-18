@@ -3,3 +3,5 @@ fiat: false
 id: USDB
 id_nomics: USDB
 name: USD Bancor
+platform: ETH
+platform_contract: '0x309627af60f0926daa6041b8279484312f2bf060'

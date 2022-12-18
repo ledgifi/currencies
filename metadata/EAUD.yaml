@@ -3,3 +3,5 @@ fiat: false
 id: EAUD
 id_nomics: EAUD
 name: Australian Currency
+platform: ETH
+platform_contract: '0x0953b746b099b98d59940bd80e94649dc88514ba'

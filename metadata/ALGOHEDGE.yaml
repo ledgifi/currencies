@@ -3,3 +3,5 @@ fiat: false
 id: ALGOHEDGE
 id_nomics: ALGOHEDGE
 name: 1X Short Algorand Token
+platform: ETH
+platform_contract: '0xfdc3d57eb7839ca68a2fad7a93799c8e8afa61b7'

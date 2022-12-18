@@ -3,3 +3,5 @@ fiat: false
 id: LIONGATE
 id_nomics: LIONGATE
 name: liongate
+platform: ETH
+platform_contract: '0x1adbf2cdd96b990665b3e25e1d998183ace76ce3'

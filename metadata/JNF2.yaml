@@ -5,3 +5,5 @@ id_nomics: JNF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JNF2.png
 logoKey: currencies/jnf2.png
 name: JEENF
+platform: BNB
+platform_contract: '0xd10535b638741dcc9ff2bc4b57bae128a6f7c95f'

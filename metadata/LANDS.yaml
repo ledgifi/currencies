@@ -3,3 +3,5 @@ fiat: false
 id: LANDS
 id_nomics: LANDS
 name: Lands Of The Meta
+platform: ETH
+platform_contract: '0x57286f7157c7958802766b069ffdbe569514f910'

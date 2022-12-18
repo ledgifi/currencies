@@ -6,3 +6,5 @@ id_nomics: MOCA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOCA.jpg
 logoKey: currencies/moca.jpg
 name: Museum of Crypto Art
+platform: MATIC
+platform_contract: '0xce899f26928a2b21c6a2fddd393ef37c61dba918'

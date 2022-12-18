@@ -5,3 +5,5 @@ id_nomics: ETHS4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHS4.png
 logoKey: currencies/eths4.png
 name: ETHs
+platform: RBTC
+platform_contract: '0x1d931bf8656d795e50ef6d639562c5bd8ac2b78f'

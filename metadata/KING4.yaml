@@ -5,3 +5,5 @@ id_nomics: KING4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KING4.jpg
 logoKey: currencies/king4.jpg
 name: CryptoBlades Kingdoms
+platform: BNB
+platform_contract: '0x0ccd575bf9378c06f6dca82f8122f570769f00c2'

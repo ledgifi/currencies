@@ -5,3 +5,5 @@ id_nomics: DADDYCAKE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DADDYCAKE2.jpg
 logoKey: currencies/daddycake2.jpg
 name: DaddyCake
+platform: BNB
+platform_contract: '0x98899de44fdfe52b385fbe53c82042bbbcb8e673'

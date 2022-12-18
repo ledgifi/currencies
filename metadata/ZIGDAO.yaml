@@ -3,3 +3,5 @@ fiat: false
 id: ZIGDAO
 id_nomics: ZIGDAO
 name: Zignaly DAO
+platform: ETH
+platform_contract: '0x663fac0ddf363b395ca307475f683014d8d947ac'

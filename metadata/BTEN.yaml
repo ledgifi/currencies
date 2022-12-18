@@ -3,3 +3,5 @@ fiat: false
 id: BTEN
 id_nomics: BTEN
 name: BlueTentacle
+platform: BNB
+platform_contract: '0x7face08cbce0a33a7fc4f215eac2ff2b7b90b5b3'

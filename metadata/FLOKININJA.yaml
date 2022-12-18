@@ -5,3 +5,5 @@ id_nomics: FLOKININJA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKININJA.jpeg
 logoKey: currencies/flokininja.jpeg
 name: Floki Ninja
+platform: BNB
+platform_contract: '0xc0d920c64a522ca2cc5b17753735f7f12ee1dd0e'

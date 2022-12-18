@@ -5,3 +5,5 @@ id_nomics: CILLION
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CILLION.jpg
 logoKey: currencies/cillion.jpg
 name: Cillion Coin
+platform: BNB
+platform_contract: '0x19258ec35f803a8e3c5fcc69f8ecf91e56396458'

@@ -3,3 +3,5 @@ fiat: false
 id: CLTEST
 id_nomics: CLTEST
 name: CL TEST
+platform: BNB
+platform_contract: '0xe72e4af7ae0c6f6ac949da2c6cbd65b33c496f30'

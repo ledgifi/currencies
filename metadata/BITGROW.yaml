@@ -5,3 +5,5 @@ id_nomics: BITGROW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITGROW.png
 logoKey: currencies/bitgrow.png
 name: BitGrow
+platform: BNB
+platform_contract: '0xdaaa4ed54b2271545750fca866ae06ba21e71aad'

@@ -3,3 +3,5 @@ fiat: false
 id: MINICOW
 id_nomics: MINICOW
 name: Mini Cow
+platform: HT
+platform_contract: '0x77fecd77e9de4fb89c525bc60f04bdf5c5542c28'

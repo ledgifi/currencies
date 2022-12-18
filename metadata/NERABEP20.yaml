@@ -5,3 +5,5 @@ id_nomics: NERABEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NERABEP20.jpg
 logoKey: currencies/nerabep20.jpg
 name: NERA Token (BEP-20)
+platform: BNB
+platform_contract: '0xa2d381358a8473d0aa091dd22e4d7d71c0350e6d'

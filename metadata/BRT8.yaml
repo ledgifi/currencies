@@ -5,3 +5,5 @@ id_nomics: BRT8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRT8.jpg
 logoKey: currencies/brt8.jpg
 name: Brastoken V2
+platform: BNB
+platform_contract: '0xc4ce5e17723db385487fd89c2339ab4fd60703e2'

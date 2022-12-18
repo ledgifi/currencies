@@ -6,3 +6,5 @@ id_nomics: MNTP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/mntp.jpg
 logoKey: currencies/mntp.jpg
 name: Goldmint
+platform: ETH
+platform_contract: '0x83cee9e086a77e492ee0bb93c2b0437ad6fdeccc'

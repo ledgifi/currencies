@@ -5,3 +5,5 @@ id_nomics: CEX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CEX2.jpg
 logoKey: currencies/cex2.jpg
 name: Catena X
+platform: BNB
+platform_contract: '0x59f2c86cfaa2ec1b07b3d032708220506657c479'

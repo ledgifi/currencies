@@ -5,3 +5,5 @@ id_nomics: ANYPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANYPOS.jpg
 logoKey: currencies/anypos.jpg
 name: Anyswap (Polygon)
+platform: MATIC
+platform_contract: '0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8'

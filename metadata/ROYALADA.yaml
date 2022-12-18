@@ -6,3 +6,5 @@ id_nomics: ROYALADA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROYALADA.jpg
 logoKey: currencies/royalada.jpg
 name: RoyalADA
+platform: BNB
+platform_contract: '0xa3ae1d90fd704b0604acb8ca840b0272e32973dd'

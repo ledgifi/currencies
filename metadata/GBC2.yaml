@@ -5,3 +5,5 @@ id_nomics: GBC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GBC2.jpg
 logoKey: currencies/gbc2.jpg
 name: Golden Bridge Coin
+platform: ETH
+platform_contract: '0x539e890f31f8e3fc63d5a2f5756a785c20f5c85d'

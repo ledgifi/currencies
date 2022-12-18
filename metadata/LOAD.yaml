@@ -5,3 +5,5 @@ id_nomics: LOAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOAD.jpg
 logoKey: currencies/load.jpg
 name: LOAD Network
+platform: ETH
+platform_contract: '0xa883e72c12473ded50a5fbffa60e4000fa5fe3c8'

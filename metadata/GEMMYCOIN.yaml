@@ -5,3 +5,5 @@ id_nomics: GEMMYCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GEMMYCOIN.jpg
 logoKey: currencies/gemmycoin.jpg
 name: GemmyCoin
+platform: ETH
+platform_contract: '0x68fec0bcc61727ddec5cece2683027a383492710'

@@ -5,3 +5,5 @@ id_nomics: MAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAX.jpg
 logoKey: currencies/max.jpg
 name: EOSMax
+platform: ETH
+platform_contract: '0x1370e3b7aa261dcbe19ee24c456e56ff186aec85'

@@ -5,3 +5,5 @@ id_nomics: MFC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MFC3.jpeg
 logoKey: currencies/mfc3.jpeg
 name: MetaFrog Coin
+platform: BNB
+platform_contract: '0x62cd6e3ba496239f344ba5b688ed012493f1bd3f'

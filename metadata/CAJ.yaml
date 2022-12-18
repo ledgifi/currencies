@@ -6,3 +6,5 @@ id_nomics: CAJ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/caj.png
 logoKey: currencies/caj.png
 name: Cajutel
+platform: ETH
+platform_contract: '0x3c6a7ab47b5f058be0e7c7fe1a4b7925b8aca40e'

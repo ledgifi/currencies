@@ -6,3 +6,5 @@ id_nomics: SEUR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SEUR.png
 logoKey: currencies/seur.png
 name: sEUR
+platform: ETH
+platform_contract: '0xd71ecff9342a5ced620049e616c5035f1db98620'

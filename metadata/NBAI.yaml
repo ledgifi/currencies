@@ -6,3 +6,5 @@ id_nomics: NBAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/nbai.png
 logoKey: currencies/nbai.png
 name: Nebula AI
+platform: ETH
+platform_contract: '0x17f8afb63dfcdcc90ebe6e84f060cc306a98257d'

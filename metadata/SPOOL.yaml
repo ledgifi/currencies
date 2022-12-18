@@ -5,3 +5,5 @@ id_nomics: SPOOL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPOOL.jpg
 logoKey: currencies/spool.jpg
 name: SmartPool Token
+platform: BNB
+platform_contract: '0x8ceae826d99a8936bc5e2d2e1e7f79afa0408315'

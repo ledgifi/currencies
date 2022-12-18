@@ -5,3 +5,5 @@ id_nomics: LARI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LARI.jpg
 logoKey: currencies/lari.jpg
 name: LARI
+platform: BNB
+platform_contract: '0xedbef88239da65b06c909dd9ae8ef3195bf2ac6f'

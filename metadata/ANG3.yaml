@@ -5,3 +5,5 @@ id_nomics: ANG3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANG3.png
 logoKey: currencies/ang3.png
 name: Angel Pay Token
+platform: BNB
+platform_contract: '0xf3ee2b4b08699b2ec7a7d3182239aa02cb59211e'

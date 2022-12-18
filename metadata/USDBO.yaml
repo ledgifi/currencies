@@ -3,3 +3,5 @@ fiat: false
 id: USDBO
 id_nomics: USDBO
 name: USDBoerse
+platform: BNB
+platform_contract: '0xde25a1745e9dd28c8b8fcea7d95886b25e0291dc'

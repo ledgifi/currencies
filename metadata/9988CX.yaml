@@ -5,3 +5,5 @@ id_nomics: 9988CX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/9988CX.jpg
 logoKey: currencies/9988cx.jpg
 name: Alibaba Group Holding Limited Token
+platform: ETH
+platform_contract: '0xc2c4d4094f521a6905d46cb8aa3d1765abea89cf'

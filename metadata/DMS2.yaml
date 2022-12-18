@@ -5,3 +5,5 @@ id_nomics: DMS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DMS2.jpg
 logoKey: currencies/dms2.jpg
 name: DimSum
+platform: BNB
+platform_contract: '0x7cce48f8f4b67e2318f22f676975c49ff58d0fbe'

@@ -5,3 +5,5 @@ id_nomics: CPRPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CPRPOS.jpeg
 logoKey: currencies/cprpos.jpeg
 name: Cipher (Polygon)
+platform: MATIC
+platform_contract: '0xaa404804ba583c025fa64c9a276a6127ceb355c6'

@@ -6,3 +6,5 @@ id_nomics: WXMR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WXMR.jpg
 logoKey: currencies/wxmr.jpg
 name: Wrapped XMR by BTSE
+platform: ETH
+platform_contract: '0x465e07d6028830124be2e4aa551fbe12805db0f5'

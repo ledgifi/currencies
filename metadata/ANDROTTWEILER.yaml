@@ -5,3 +5,5 @@ id_nomics: ANDROTTWEILER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANDROTTWEILER.jpg
 logoKey: currencies/androttweiler.jpg
 name: Androttweiler Token (OLD)
+platform: ETH
+platform_contract: '0x3fa1216ca613497d038ef0ef680b4a6b3f7b5f7d'

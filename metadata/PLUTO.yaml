@@ -6,3 +6,5 @@ id_nomics: PLUTO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLUTO.jpg
 logoKey: currencies/pluto.jpg
 name: PlutoPepe
+platform: BNB
+platform_contract: '0x0c3ea5aac39101e5b3989b3f19181d8591b734d0'

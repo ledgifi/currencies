@@ -5,3 +5,5 @@ id_nomics: BOM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOM2.png
 logoKey: currencies/bom2.png
 name: Bombay Inu
+platform: BNB
+platform_contract: '0x2f250b50afc4db0ab770e960b205782d228a1ad2'

@@ -5,3 +5,5 @@ id_nomics: GAU3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAU3.jpeg
 logoKey: currencies/gau3.jpeg
 name: Gaia Global Gold
+platform: ETH
+platform_contract: '0xa12a22395289862253f7308fdfc28d71af10a912'

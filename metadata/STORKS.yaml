@@ -5,3 +5,5 @@ id_nomics: STORKS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STORKS.jpg
 logoKey: currencies/storks.jpg
 name: STORKS TOKEN
+platform: ETH
+platform_contract: '0x7ab018b6bba681a0d3555797ea36afcdbe1f53c6'

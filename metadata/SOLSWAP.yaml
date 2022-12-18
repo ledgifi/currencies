@@ -3,3 +3,5 @@ fiat: false
 id: SOLSWAP
 id_nomics: SOLSWAP
 name: Solana Swap
+platform: BNB
+platform_contract: '0x073ae037de1d19d21c5271ea6a9252723a59f7d7'

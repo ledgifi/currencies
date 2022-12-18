@@ -5,3 +5,5 @@ id_nomics: AMSTAFF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMSTAFF2.png
 logoKey: currencies/amstaff2.png
 name: AmericanStaff
+platform: BNB
+platform_contract: '0xc3a8205337d5b7e6c04ec0b57b1b08a5d3117515'

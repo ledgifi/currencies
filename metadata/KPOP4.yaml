@@ -5,3 +5,5 @@ id_nomics: KPOP4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KPOP4.jpg
 logoKey: currencies/kpop4.jpg
 name: KPOP Fan Token
+platform: BNB
+platform_contract: '0x3ba2b1c2c46200e826c56550ff7a2b29bad10f3d'

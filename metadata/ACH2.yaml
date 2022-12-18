@@ -3,3 +3,5 @@ fiat: false
 id: ACH2
 id_nomics: ACH2
 name: Automatic Clearing High Speed
+platform: ETH
+platform_contract: '0x13526d323373f4ebfcc71ffb4177efead651c051'

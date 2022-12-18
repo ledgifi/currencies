@@ -6,3 +6,5 @@ id_nomics: MSWAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSWAP.jpg
 logoKey: currencies/mswap.jpg
 name: MoneySwap
+platform: ETH
+platform_contract: '0xc005204856ee7035a13d8d7cdbbdc13027afff90'

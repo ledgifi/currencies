@@ -6,3 +6,5 @@ id_nomics: MOONSWAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOONSWAP.jpg
 logoKey: currencies/moonswap.jpg
 name: MoonSwap
+platform: ETH
+platform_contract: '0x68a3637ba6e75c0f66b61a42639c4e9fcd3d4824'

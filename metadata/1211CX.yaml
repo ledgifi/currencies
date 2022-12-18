@@ -5,3 +5,5 @@ id_nomics: 1211CX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/1211CX.jpg
 logoKey: currencies/1211cx.jpg
 name: BYD Company Limited Token
+platform: ETH
+platform_contract: '0xc4ce6cb000d1c435c6d0c28814a2d61120f32b84'

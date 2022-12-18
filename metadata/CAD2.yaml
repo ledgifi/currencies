@@ -5,3 +5,5 @@ id_nomics: CAD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAD2.jpg
 logoKey: currencies/cad2.jpg
 name: Candy Protocol
+platform: ETH
+platform_contract: '0x2029017f38128bfefaa6c7b9cdd1b680ce8e5c03'

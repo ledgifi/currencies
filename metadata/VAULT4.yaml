@@ -5,3 +5,5 @@ id_nomics: VAULT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VAULT4.jpg
 logoKey: currencies/vault4.jpg
 name: M7 Vault
+platform: BNB
+platform_contract: '0x838bcbe35da6aee1bfd4c48d994e0133b25465df'

@@ -5,3 +5,5 @@ id_nomics: SNM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNM2.jpg
 logoKey: currencies/snm2.jpg
 name: SafeNotMoon
+platform: BNB
+platform_contract: '0x9826910ff85bac0874b2d36aea8ab5cf6181d3fe'

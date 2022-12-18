@@ -5,3 +5,5 @@ id_nomics: UMONKEY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UMONKEY.jpg
 logoKey: currencies/umonkey.jpg
 name: UltraMonkey
+platform: BNB
+platform_contract: '0xd4cef86ab39d11e2976f9af819af5ee82b8de635'

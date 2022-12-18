@@ -3,3 +3,5 @@ fiat: false
 id: ARBFOOD
 id_nomics: ARBFOOD
 name: ArbFood
+platform: ARBETH
+platform_contract: '0x2fc7cdd74d3394f9a99ac1c34d6e4c900d86320d'

@@ -5,3 +5,5 @@ id_nomics: ADM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADM2.jpeg
 logoKey: currencies/adm2.jpeg
 name: AdMonkey V3
+platform: BNB
+platform_contract: '0x9eeb03bbdef40980e16e6f4332f486d991d11b84'

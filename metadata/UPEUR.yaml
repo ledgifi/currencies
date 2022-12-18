@@ -3,3 +3,5 @@ fiat: false
 id: UPEUR
 id_nomics: UPEUR
 name: Universal Euro
+platform: ETH
+platform_contract: '0x6c103d85c15107dce19f5a75fc746227e610aabd'

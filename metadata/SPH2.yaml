@@ -5,3 +5,5 @@ id_nomics: SPH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPH2.png
 logoKey: currencies/sph2.png
 name: Sphynx Network
+platform: BNB
+platform_contract: '0x8bac6b4af65c8c1967a0fbc27cd37fd6059daa00'

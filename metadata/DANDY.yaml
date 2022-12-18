@@ -5,3 +5,5 @@ id_nomics: DANDY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DANDY.jpg
 logoKey: currencies/dandy.jpg
 name: Dandy Dego
+platform: ETH
+platform_contract: '0x9dfc4b433d359024eb3e810d77d60fbe8b0d9b82'

@@ -6,3 +6,5 @@ id_nomics: FOTO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOTO.jpg
 logoKey: currencies/foto.jpg
 name: Unique Photo
+platform: ETH
+platform_contract: '0xf6ea0e60cee427b90aa36f327ee61d1d4cabc49f'

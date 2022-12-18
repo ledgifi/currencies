@@ -6,3 +6,5 @@ id_nomics: NEAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEAL.png
 logoKey: currencies/neal.png
 name: Coineal Token
+platform: ETH
+platform_contract: '0xacce88f5a63a5e65db9aa7303720be16b556e751'

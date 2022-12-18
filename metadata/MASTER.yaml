@@ -6,3 +6,5 @@ id_nomics: MASTER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MASTER.jpg
 logoKey: currencies/master.jpg
 name: Beast Masters
+platform: BNB
+platform_contract: '0x23e2efa091112b85af95cf9195e505fd58a3dc8f'

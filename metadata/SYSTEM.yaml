@@ -3,3 +3,5 @@ fiat: false
 id: SYSTEM
 id_nomics: SYSTEM
 name: The System
+platform: ETH
+platform_contract: '0x753d3c3043016c02a595d8976b4bd5c7d792fa38'

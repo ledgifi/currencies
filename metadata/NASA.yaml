@@ -5,3 +5,5 @@ id_nomics: NASA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NASA.jpg
 logoKey: currencies/nasa.jpg
 name: Not Another Shit Altcoin
+platform: BNB
+platform_contract: '0x70cf8d40a3d0f7bc88077ba7d103050d0001a653'

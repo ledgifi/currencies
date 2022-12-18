@@ -5,3 +5,5 @@ id_nomics: LIQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIQ.jpg
 logoKey: currencies/liq.jpg
 name: Liquidity Bot Token
+platform: ETH
+platform_contract: '0x44fd55aeb7420b4fd275e19d6f0674a6f91ad356'

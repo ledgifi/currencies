@@ -6,3 +6,5 @@ id_nomics: SETC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SETC.png
 logoKey: currencies/setc.png
 name: sETC
+platform: ETH
+platform_contract: '0x22602469d704bffb0936c7a7cfcd18f7aa269375'

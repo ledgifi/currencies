@@ -3,3 +3,5 @@ fiat: false
 id: CADX
 id_nomics: CADX
 name: eToro Canadian Dollar
+platform: ETH
+platform_contract: '0x8ed876e408959643479534a21970ec023d0fb51e'

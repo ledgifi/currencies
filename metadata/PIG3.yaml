@@ -5,3 +5,5 @@ id_nomics: PIG3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIG3.png
 logoKey: currencies/pig3.png
 name: PigElon
+platform: BNB
+platform_contract: '0x6584303585403e54fd91caba7d5cfc9e36cdc4ab'

@@ -5,3 +5,5 @@ id_nomics: COVA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/cova.jpg
 logoKey: currencies/cova.jpg
 name: Cova Unity
+platform: ETH
+platform_contract: '0xb37a769b37224449d92aac57de379e1267cd3b00'

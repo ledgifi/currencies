@@ -5,3 +5,5 @@ id_nomics: PCTO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PCTO.jpg
 logoKey: currencies/pcto.jpg
 name: Simply Crypto
+platform: ETH
+platform_contract: '0xc4a59854a63588a049f4e326af927400c6140746'

@@ -5,3 +5,5 @@ id_nomics: ISA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ISA.jpg
 logoKey: currencies/isa.jpg
 name: Islander
+platform: AVAX
+platform_contract: '0x3eefb18003d033661f84e48360ebecd181a84709'

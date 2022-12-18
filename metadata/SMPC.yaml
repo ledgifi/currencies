@@ -5,3 +5,5 @@ id_nomics: SMPC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMPC.png
 logoKey: currencies/smpc.png
 name: SMPCOIN
+platform: KLAY
+platform_contract: '0x69906514ff850a8170352a4210ed778f235ae125'

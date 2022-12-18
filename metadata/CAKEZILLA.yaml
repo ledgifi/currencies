@@ -6,3 +6,5 @@ id_nomics: CAKEZILLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAKEZILLA.jpg
 logoKey: currencies/cakezilla.jpg
 name: CakeZilla
+platform: BNB
+platform_contract: '0x443b3143d284e856389efdb929903f773d993e2e'

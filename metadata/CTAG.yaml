@@ -5,3 +5,5 @@ id_nomics: CTAG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTAG.png
 logoKey: currencies/ctag.png
 name: CTAGtoken
+platform: ETH
+platform_contract: '0xb0f14f66cae71164d89e8a0cf0875ef2c32fb660'

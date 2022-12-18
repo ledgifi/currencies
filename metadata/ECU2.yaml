@@ -5,3 +5,5 @@ id_nomics: ECU2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECU2.jpg
 logoKey: currencies/ecu2.jpg
 name: Decurian
+platform: ETH
+platform_contract: '0xd3cdc4e75750dc1e59f8342200742b6b29490e70'

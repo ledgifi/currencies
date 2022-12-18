@@ -5,3 +5,5 @@ id_nomics: HRBF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HRBF.jpeg
 logoKey: currencies/hrbf.jpeg
 name: Herbfarm
+platform: MATIC
+platform_contract: '0x123bac012e3b5edf2db7cbd227dd7077bad59556'

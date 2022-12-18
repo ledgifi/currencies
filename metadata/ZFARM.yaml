@@ -5,3 +5,5 @@ id_nomics: ZFARM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZFARM.jpg
 logoKey: currencies/zfarm.jpg
 name: ZFarm
+platform: BNB
+platform_contract: '0x42d1b21eabe04d308148ea9ab90be674b64b4eef'

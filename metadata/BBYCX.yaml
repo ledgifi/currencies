@@ -5,3 +5,5 @@ id_nomics: BBYCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBYCX.jpg
 logoKey: currencies/bbycx.jpg
 name: Best Buy Token
+platform: ETH
+platform_contract: '0x9c13833483885455bd8767b20f8bd39fa76fbb9c'

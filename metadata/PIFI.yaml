@@ -5,3 +5,5 @@ id_nomics: PIFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIFI.png
 logoKey: currencies/pifi.png
 name: Pirates Finance
+platform: BNB
+platform_contract: '0xd43de982fd201748ea509b4fa30320d3598dffae'

@@ -5,3 +5,5 @@ id_nomics: CMON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CMON.jpg
 logoKey: currencies/cmon.jpg
 name: ClearMoon
+platform: BNB
+platform_contract: '0x4bd658d22f950637993e30681644e66e2d361208'

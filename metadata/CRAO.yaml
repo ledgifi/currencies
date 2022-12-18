@@ -3,3 +3,5 @@ fiat: false
 id: CRAO
 id_nomics: CRAO
 name: Crao Token
+platform: BNB
+platform_contract: '0x47accdcd08a06a203217175994b5ee54d22f4dd8'

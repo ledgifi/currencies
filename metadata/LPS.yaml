@@ -3,3 +3,5 @@ fiat: false
 id: LPS
 id_nomics: LPS
 name: Lapis Chain
+platform: ETH
+platform_contract: '0x97bdd9fdfa0b1677a2a353848514d93c108bec85'

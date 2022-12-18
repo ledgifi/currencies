@@ -5,3 +5,5 @@ id_nomics: LAMBO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LAMBO2.jpg
 logoKey: currencies/lambo2.jpg
 name: Wen Lambo
+platform: BNB
+platform_contract: '0x2c7b396d17e3a5184d4901380836de7a72c5cba4'

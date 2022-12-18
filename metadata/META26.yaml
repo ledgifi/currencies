@@ -5,3 +5,5 @@ id_nomics: META26
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/META26.jpg
 logoKey: currencies/meta26.jpg
 name: ABCMETA
+platform: MATIC
+platform_contract: '0xedcfb6984a3c70501baa8b7f5421ae795ecc1496'

@@ -6,3 +6,5 @@ id_nomics: SKB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/skb.jpg
 logoKey: currencies/skb.jpg
 name: Sakura Bloom
+platform: ETH
+platform_contract: '0x4af328c52921706dcb739f25786210499169afe6'

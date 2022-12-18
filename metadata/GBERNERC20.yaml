@@ -5,3 +5,5 @@ id_nomics: GBERNERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GBERNERC20.jpg
 logoKey: currencies/gbernerc20.jpg
 name: BernCoin (ERC-20)
+platform: ETH
+platform_contract: '0x7891b6cba5522b3aea7a84f4d36a7eee1f619961'

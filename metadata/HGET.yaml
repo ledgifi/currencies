@@ -5,3 +5,5 @@ id_nomics: HGET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HGET.jpg
 logoKey: currencies/hget.jpg
 name: Hedget
+platform: ETH
+platform_contract: '0x7968bc6a03017ea2de509aaa816f163db0f35148'

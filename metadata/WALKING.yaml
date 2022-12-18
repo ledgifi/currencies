@@ -3,3 +3,5 @@ fiat: false
 id: WALKING
 id_nomics: WALKING
 name: Walking
+platform: BNB
+platform_contract: '0x58633ae334a96daf9eee217f6ff5feea4a2fd1dd'

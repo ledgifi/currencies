@@ -6,3 +6,5 @@ id_nomics: HQX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/hqx.png
 logoKey: currencies/hqx.png
 name: HOQU
+platform: ETH
+platform_contract: '0x1b957dc4aefeed3b4a2351a6a6d5cbfbba0cecfa'

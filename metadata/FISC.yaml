@@ -3,3 +3,5 @@ fiat: false
 id: FISC
 id_nomics: FISC
 name: Fiscus
+platform: AVAX
+platform_contract: '0x4a40a97b011acce909c6b4f401cbfbf901f51361'

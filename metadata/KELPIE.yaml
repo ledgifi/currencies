@@ -6,3 +6,5 @@ id_nomics: KELPIE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KELPIE.jpg
 logoKey: currencies/kelpie.jpg
 name: Kelpie Inu
+platform: ETH
+platform_contract: '0x672d7b3333d0f069a28b73a268bc6eaec65f2e1a'

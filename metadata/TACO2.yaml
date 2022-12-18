@@ -5,3 +5,5 @@ id_nomics: TACO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TACO2.png
 logoKey: currencies/taco2.png
 name: TacoToken
+platform: ETH
+platform_contract: '0x41c028a4c1f461ebfc3af91619b240004ebad216'

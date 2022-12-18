@@ -5,3 +5,5 @@ id_nomics: CIMAAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CIMAAI.png
 logoKey: currencies/cimaai.png
 name: CIMA.AI
+platform: MATIC
+platform_contract: '0xbcf131997de512bcdfe468843b0fc19221847b9b'

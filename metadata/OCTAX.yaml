@@ -6,3 +6,5 @@ id_nomics: OCTAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCTAX.jpg
 logoKey: currencies/octax.jpg
 name: OctaX
+platform: BNB
+platform_contract: '0x39cab1ddafda34b9202f5a41f71b15d2f3eba2ac'

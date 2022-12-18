@@ -5,3 +5,5 @@ id_nomics: BIG4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIG4.jpg
 logoKey: currencies/big4.jpg
 name: Bigwinner
+platform: BNB
+platform_contract: '0x222e0eaed3e3e91039e199e28b7f70801afa2bc7'

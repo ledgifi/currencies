@@ -5,3 +5,5 @@ id_nomics: SVF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SVF.jpg
 logoKey: currencies/svf.jpg
 name: SpaceVikingFloki
+platform: BNB
+platform_contract: '0xa5a8275f4891a373d362e0df44e6e0b3020b9e01'

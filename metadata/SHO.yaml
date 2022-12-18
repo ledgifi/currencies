@@ -6,3 +6,5 @@ id_nomics: SHO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHO.jpg
 logoKey: currencies/sho.jpg
 name: Showcase Token
+platform: ETH
+platform_contract: '0xcc0014ccb39f6e86b1be0f17859a783b6722722f'

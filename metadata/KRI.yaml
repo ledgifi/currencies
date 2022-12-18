@@ -6,3 +6,5 @@ id_nomics: KRI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KRI.jpg
 logoKey: currencies/kri.jpg
 name: Krios
+platform: ETH
+platform_contract: '0x838d8e11b160dec88fe62bf0f743fb7000941e13'

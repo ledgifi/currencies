@@ -6,3 +6,5 @@ id_nomics: WBTCBR
 logo: https://static.coinpaprika.com/coin/wbtcbr-wrapped-bitcoinbr/logo.png
 logoKey: currencies/wbtcbr.png
 name: Wrapped BitcoinBR
+platform: BNB
+platform_contract: '0x2919b42e28ba205b56712425d09d98d3bdeb7b1a'

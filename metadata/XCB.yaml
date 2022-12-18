@@ -5,3 +5,5 @@ id_nomics: XCB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XCB.jpg
 logoKey: currencies/xcb.jpg
 name: Crypto Birds
+platform: BNB
+platform_contract: '0x9dcd6ab0511b2e72af3d088538d678bae9bbf552'

@@ -5,3 +5,5 @@ id_nomics: JPYN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JPYN.png
 logoKey: currencies/jpyn.png
 name: WENWEN JPYN
+platform: ETH
+platform_contract: '0x95e91a76f225612995043ab26a98e6a4e3e1999b'

@@ -6,3 +6,5 @@ id_nomics: EXNX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EXNX.jpg
 logoKey: currencies/exnx.jpg
 name: EXENOX MOBILE
+platform: ETH
+platform_contract: '0x60e7f0518102a4e70431960f88c1ebc98f994159'

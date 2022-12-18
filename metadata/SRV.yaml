@@ -5,3 +5,5 @@ id_nomics: SRV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SRV.png
 logoKey: currencies/srv.png
 name: zilSurvey
+platform: BNB
+platform_contract: '0xfdce3ebb2f5f703f350dfc08afc014848f1bf48a'

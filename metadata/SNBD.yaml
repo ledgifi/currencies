@@ -5,3 +5,5 @@ id_nomics: SNBD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNBD.png
 logoKey: currencies/snbd.png
 name: Sinbad Token
+platform: BNB
+platform_contract: '0xFA6F9A78Ac297B48FC69f96d29682b90a1BCEA22'

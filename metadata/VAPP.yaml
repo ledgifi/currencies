@@ -5,3 +5,5 @@ id_nomics: VAPP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VAPP.png
 logoKey: currencies/vapp.png
 name: MetaVapp
+platform: BNB
+platform_contract: '0x1ef1245db9f8B366a667362b206fC2c13CF7C351'

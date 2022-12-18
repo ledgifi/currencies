@@ -5,3 +5,5 @@ id_nomics: SWAPPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWAPPOS.jpg
 logoKey: currencies/swappos.jpg
 name: TrustSwap Token (Polygon)
+platform: MATIC
+platform_contract: '0x3809dcdd5dde24b37abe64a5a339784c3323c44f'

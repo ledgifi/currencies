@@ -3,3 +3,5 @@ fiat: false
 id: HAZEL
 id_nomics: HAZEL
 name: HazelToken
+platform: BNB
+platform_contract: '0xd8a89610c26b293272382625cb3054cfa9d191a8'

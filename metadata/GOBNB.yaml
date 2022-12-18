@@ -5,3 +5,5 @@ id_nomics: GOBNB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOBNB.png
 logoKey: currencies/gobnb.png
 name: GOBNB
+platform: BNB
+platform_contract: '0x6fd26cbcba4ac758a5bf30577ca44c6e6efd401d'

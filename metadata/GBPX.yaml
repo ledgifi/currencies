@@ -3,3 +3,5 @@ fiat: false
 id: GBPX
 id_nomics: GBPX
 name: eToro Pound Sterling
+platform: ETH
+platform_contract: '0xf85ef57fcdb36d628d063fa663e61e44d35ae661'

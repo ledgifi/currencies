@@ -5,3 +5,5 @@ id_nomics: TAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TAX.png
 logoKey: currencies/tax.png
 name: Tax Heaven
+platform: BNB
+platform_contract: '0xecaec5352cfb49565c1fd82377614707f71a8a65'

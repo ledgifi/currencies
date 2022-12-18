@@ -6,3 +6,5 @@ id_nomics: VALOR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/valor.jpg
 logoKey: currencies/valor.jpg
 name: Valor Token
+platform: ETH
+platform_contract: '0x297e4e5e59ad72b1b0a2fd446929e76117be0e0a'

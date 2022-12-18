@@ -5,3 +5,5 @@ id_nomics: FDT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FDT4.jpg
 logoKey: currencies/fdt4.jpg
 name: FIAT DAO Token
+platform: ETH
+platform_contract: '0xed1480d12be41d92f36f5f7bdd88212e381a3677'

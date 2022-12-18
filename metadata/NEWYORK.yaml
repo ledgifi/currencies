@@ -3,3 +3,5 @@ fiat: false
 id: NEWYORK
 id_nomics: NEWYORK
 name: NEW YORK COIN
+platform: ETH
+platform_contract: '0x77b7340faa3d8f75eed612d051b64a5a5f6167f3'

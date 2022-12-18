@@ -5,3 +5,5 @@ id_nomics: MZX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MZX2.png
 logoKey: currencies/mzx2.png
 name: Mezus
+platform: BNB
+platform_contract: '0xe97e7095e3876aeb499a7c23066c30068976558f'

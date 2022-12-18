@@ -5,3 +5,5 @@ id_nomics: KOKOMO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KOKOMO.jpg
 logoKey: currencies/kokomo.jpg
 name: Kokomo Token
+platform: BNB
+platform_contract: '0x9a7b87651c6c93cedb831b2b3b5549142a813cfe'

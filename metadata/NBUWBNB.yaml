@@ -3,3 +3,5 @@ fiat: false
 id: NBUWBNB
 id_nomics: NBUWBNB
 name: Nimbus Wrapped BNB
+platform: BNB
+platform_contract: '0xa2ca18fc541b7b101c64e64bbc2834b05066248b'

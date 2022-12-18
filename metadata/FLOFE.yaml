@@ -5,3 +5,5 @@ id_nomics: FLOFE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOFE.jpg
 logoKey: currencies/flofe.jpg
 name: Floki Wife
+platform: ETH
+platform_contract: '0x6bebfbb1707267bfdd1a9a3923728aa6f98b3f74'

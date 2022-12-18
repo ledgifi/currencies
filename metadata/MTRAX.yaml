@@ -5,3 +5,5 @@ id_nomics: MTRAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTRAX.jpg
 logoKey: currencies/mtrax.jpg
 name: MTRAX
+platform: ETH
+platform_contract: '0xdcc0ccf18186bb5f364cae12d74ffb5aec32e7d0'

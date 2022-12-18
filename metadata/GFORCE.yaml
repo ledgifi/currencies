@@ -3,3 +3,5 @@ fiat: false
 id: GFORCE
 id_nomics: GFORCE
 name: G-force
+platform: BNB
+platform_contract: '0x72fe001668d97ea35c6fda9523ebbc597f67bfed'

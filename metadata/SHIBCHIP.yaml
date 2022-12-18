@@ -3,3 +3,5 @@ fiat: false
 id: SHIBCHIP
 id_nomics: SHIBCHIP
 name: Shiba Chip
+platform: ETH
+platform_contract: '0x39a4bd9fabf10ac9f57fa6f23b39660dea1c29a0'

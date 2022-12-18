@@ -5,3 +5,5 @@ id_nomics: ARTCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARTCOIN.png
 logoKey: currencies/artcoin.png
 name: ArtCoin
+platform: BNB
+platform_contract: '0x26fc6792b447ddf73652611d06f597de75dfad0b'

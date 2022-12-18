@@ -5,3 +5,5 @@ id_nomics: YUE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YUE2.png
 logoKey: currencies/yue2.png
 name: Yueliang
+platform: ETH
+platform_contract: '0xbf5484b28904e8022ac64e96b6eb61cf9d96b00b'

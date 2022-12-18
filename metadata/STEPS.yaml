@@ -3,3 +3,5 @@ fiat: false
 id: STEPS
 id_nomics: STEPS
 name: StepSApp
+platform: BNB
+platform_contract: '0x5d3674c7302636aa7a0e9d4df895703a2cf194a4'

@@ -5,3 +5,5 @@ id_nomics: XBTC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XBTC2.png
 logoKey: currencies/xbtc2.png
 name: dForce BTC
+platform: BNB
+platform_contract: '0x20ecc92f0a33e16e8cf0417dfc3f586cf597f3a9'

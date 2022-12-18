@@ -5,3 +5,5 @@ id_nomics: AGARPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AGARPOS.png
 logoKey: currencies/agarpos.png
 name: AGA Rewards (Polygon)
+platform: MATIC
+platform_contract: '0xf84bd51eab957c2e7b7d646a3427c5a50848281d'

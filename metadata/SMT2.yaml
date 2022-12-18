@@ -5,3 +5,5 @@ id_nomics: SMT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMT2.jpg
 logoKey: currencies/smt2.jpg
 name: Swarm Markets
+platform: ETH
+platform_contract: '0xb17548c7b510427baac4e267bea62e800b247173'

@@ -5,3 +5,5 @@ id_nomics: ABI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ABI.jpg
 logoKey: currencies/abi.jpg
 name: ApeBullInu
+platform: ETH
+platform_contract: '0xb4eaf48bd7f72356e1019c157e91b81a1c541073'

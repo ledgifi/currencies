@@ -5,3 +5,5 @@ id_nomics: HOKK2BEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOKK2BEP20.jpg
 logoKey: currencies/hokk2bep20.jpg
 name: Hokkaido Inu (BEP-20) V2
+platform: BNB
+platform_contract: '0x36a92f809da8c2072b090a9e3322226c5376b207'

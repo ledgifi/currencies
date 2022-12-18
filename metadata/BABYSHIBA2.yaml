@@ -5,3 +5,5 @@ id_nomics: BABYSHIBA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYSHIBA2.jpg
 logoKey: currencies/babyshiba2.jpg
 name: Baby Shiba Coin
+platform: ETH
+platform_contract: '0x66a64a8a9cdc54ef97e45a051ba1c8f3d4b41a1d'

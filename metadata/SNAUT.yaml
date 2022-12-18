@@ -5,3 +5,5 @@ id_nomics: SNAUT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNAUT.jpg
 logoKey: currencies/snaut.jpg
 name: Shibanaut
+platform: BNB
+platform_contract: '0xb35d5173e0cc3ff5c73afe17a7dd14a0e4f0cce3'

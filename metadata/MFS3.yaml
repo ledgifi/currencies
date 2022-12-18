@@ -5,3 +5,5 @@ id_nomics: MFS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MFS3.jpg
 logoKey: currencies/mfs3.jpg
 name: MetaFashioners
+platform: BNB
+platform_contract: '0x60112c0dcb635dfae517173ccb3f460a26237d79'

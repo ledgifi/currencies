@@ -6,3 +6,5 @@ id_nomics: BATH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BATH.jpg
 logoKey: currencies/bath.jpg
 name: Battle Hero
+platform: BNB
+platform_contract: '0x0bc89aa98ad94e6798ec822d0814d934ccd0c0ce'

@@ -5,3 +5,5 @@ id_nomics: IOTABEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IOTABEP20.jpg
 logoKey: currencies/iotabep20.jpg
 name: MIOTAC (BEP-20)
+platform: BNB
+platform_contract: '0xd944f1d1e9d5f9bb90b62f9d45e447d989580782'

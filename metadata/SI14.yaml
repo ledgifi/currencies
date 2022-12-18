@@ -6,3 +6,5 @@ id_nomics: SI14
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SI14.jpg
 logoKey: currencies/si14.jpg
 name: Si14Bet
+platform: ETH
+platform_contract: '0x8b98df4dff429e64e9a56fc6eebe2380c6c3409c'

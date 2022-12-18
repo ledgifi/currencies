@@ -5,3 +5,5 @@ id_nomics: CYBER3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CYBER3.png
 logoKey: currencies/cyber3.png
 name: METACyber
+platform: BNB
+platform_contract: '0xc4d8e482d0fcbb9af5aa3702756fcfb803ec83c4'

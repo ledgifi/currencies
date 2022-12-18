@@ -6,3 +6,5 @@ id_nomics: SHVR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/shvr.jpg
 logoKey: currencies/shvr.jpg
 name: Shivers
+platform: ETH
+platform_contract: '0xd5f788ca0de8f17cbde1d1e35aa8f005a87fa00b'

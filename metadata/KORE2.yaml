@@ -3,3 +3,5 @@ fiat: false
 id: KORE2
 id_nomics: KORE2
 name: KORE Vault
+platform: ETH
+platform_contract: '0xa866f0198208eb07c83081d5136be7f775c2399e'

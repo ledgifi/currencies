@@ -4,3 +4,5 @@ id: POP7
 id_nomics: POP7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POP7.jpg
 name: Popcoin
+platform: BNB
+platform_contract: '0x63bc9770ea9a2f21df6cc1224d64d8dec9c61a74'

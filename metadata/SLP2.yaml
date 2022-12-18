@@ -3,3 +3,5 @@ fiat: false
 id: SLP2
 id_nomics: SLP2
 name: Synthetic LP Test
+platform: BNB
+platform_contract: '0x87a08f0c92fde064c65b7608e16ec0954f2a381a'

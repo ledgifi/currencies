@@ -5,3 +5,5 @@ id_nomics: TANGO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TANGO2.jpg
 logoKey: currencies/tango2.jpg
 name: TangoSwap
+platform: BCH
+platform_contract: '0x73be9c8edf5e951c9a0762ea2b1de8c8f38b5e91'

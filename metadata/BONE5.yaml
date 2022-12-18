@@ -5,3 +5,5 @@ id_nomics: BONE5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BONE5.jpg
 logoKey: currencies/bone5.jpg
 name: Bone Token
+platform: MATIC
+platform_contract: '0x6bb45ceac714c52342ef73ec663479da35934bf7'

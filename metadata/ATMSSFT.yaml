@@ -6,3 +6,5 @@ id_nomics: ATMSSFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATMSSFT.jpg
 logoKey: currencies/atmssft.jpg
 name: Atmosphere CCG
+platform: BNB
+platform_contract: '0xc53c65c4a925039cc149fa99fd011490d40270a3'

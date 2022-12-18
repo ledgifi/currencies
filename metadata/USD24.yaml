@@ -3,3 +3,5 @@ fiat: false
 id: USD24
 id_nomics: USD24
 name: Fiat24 USD
+platform: ARBETH
+platform_contract: '0xbe00f3db78688d9704bcb4e0a827aea3a9cc0d62'

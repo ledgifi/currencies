@@ -5,3 +5,5 @@ id_nomics: PAYERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAYERC20.png
 logoKey: currencies/payerc20.png
 name: PayBolt (ERC-20)
+platform: ETH
+platform_contract: '0xe580074A10360404AF3ABfe2d524D5806D993ea3'

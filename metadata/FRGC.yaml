@@ -5,3 +5,5 @@ id_nomics: FRGC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FRGC.png
 logoKey: currencies/frgc.png
 name: Forage Chain
+platform: BNB
+platform_contract: '0x0e30D09D5E4b9f082eA5d72789359e23D2a45D44'

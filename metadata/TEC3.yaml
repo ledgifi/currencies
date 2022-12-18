@@ -5,3 +5,5 @@ id_nomics: TEC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TEC3.png
 logoKey: currencies/tec3.png
 name: Token Engineering Commons
+platform: XDAI
+platform_contract: '0x5df8339c5e282ee48c0c7ce8a7d01a73d38b3b27'

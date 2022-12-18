@@ -5,3 +5,5 @@ id_nomics: ROTO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROTO.png
 logoKey: currencies/roto.png
 name: Roto
+platform: ETH
+platform_contract: '0x0e3129b3fde4a458b7910a2602e92ac533b9400e'

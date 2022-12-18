@@ -3,3 +3,5 @@ fiat: false
 id: TQA
 id_nomics: TQA
 name: TestQuoteAsset
+platform: MATIC
+platform_contract: '0x02ba8ee756f05b5314816813a6b12c1a8100250b'

@@ -5,3 +5,5 @@ id_nomics: BNIF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNIF.jpg
 logoKey: currencies/bnif.jpg
 name: Unifty
+platform: BNB
+platform_contract: '0x3ad4ec50f30dab25c60e0e71755af6b9690b1297'

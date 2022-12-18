@@ -5,3 +5,5 @@ id_nomics: WTF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WTF2.jpg
 logoKey: currencies/wtf2.jpg
 name: Waterfall Governance Token
+platform: BNB
+platform_contract: '0x2fa0cac2c75efb50382b5091c6494194eacf65b0'

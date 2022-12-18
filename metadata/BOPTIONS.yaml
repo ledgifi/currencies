@@ -3,3 +3,5 @@ fiat: false
 id: BOPTIONS
 id_nomics: BOPTIONS
 name: Binance Options
+platform: BNB
+platform_contract: '0xe95abd84cb23bc8f3e2c1c5537062d6fb42bbcb5'

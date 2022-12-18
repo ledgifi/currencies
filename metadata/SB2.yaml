@@ -5,3 +5,5 @@ id_nomics: SB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SB2.jpeg
 logoKey: currencies/sb2.jpeg
 name: Snowbank
+platform: AVAX
+platform_contract: '0x7d1232b90d3f809a54eeaeebc639c62df8a8942f'

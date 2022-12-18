@@ -5,3 +5,5 @@ id_nomics: BESA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BESA.jpeg
 logoKey: currencies/besa.jpeg
 name: Besa
+platform: BNB
+platform_contract: '0x97fd32bb7f354a208757ba12fc377da885c4429f'

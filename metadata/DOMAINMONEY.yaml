@@ -3,3 +3,5 @@ fiat: false
 id: DOMAINMONEY
 id_nomics: DOMAINMONEY
 name: Domain Money
+platform: ETH
+platform_contract: '0x855550c681081fb751323fc6abf2a6b83414421a'

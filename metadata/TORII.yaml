@@ -6,3 +6,5 @@ id_nomics: TORII
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TORII.png
 logoKey: currencies/torii.png
 name: Torii Finance
+platform: BNB
+platform_contract: '0xfd053f9a52d2d74aae83c28323cc7d2e2fefb263'

@@ -5,3 +5,5 @@ id_nomics: BECOINBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BECOINBEP20.jpeg
 logoKey: currencies/becoinbep20.jpeg
 name: bePAY Finance (BEP-20)
+platform: BNB
+platform_contract: '0x8f081eb884fd47b79536d28e2dd9d4886773f783'

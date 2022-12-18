@@ -6,3 +6,5 @@ id_nomics: SANTADASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SANTADASH.jpg
 logoKey: currencies/santadash.jpg
 name: Santa Dash
+platform: BNB
+platform_contract: '0x185d4df853cafcc57e50c9c0eab904207dcaa818'

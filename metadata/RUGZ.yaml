@@ -5,3 +5,5 @@ id_nomics: RUGZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RUGZ.jpg
 logoKey: currencies/rugz.jpg
 name: pulltherug.finance
+platform: ETH
+platform_contract: '0xedfbd6c48c3ddff5612ade14b45bb19f916809ba'

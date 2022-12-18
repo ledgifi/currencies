@@ -5,3 +5,5 @@ id_nomics: SGW2
 logo: https://set-core.s3.amazonaws.com/img/social_trader_set_icons/trustless_state.png
 logoKey: currencies/sgw2.png
 name: Stacking Gwei Set II
+platform: ETH
+platform_contract: '0x33319fae07128119166476a4bcdd96e5c9401ca4'

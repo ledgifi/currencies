@@ -5,3 +5,5 @@ id_nomics: ARKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARKE.jpg
 logoKey: currencies/arke.jpg
 name: ARKE
+platform: ETH
+platform_contract: '0xa9248f8e40d4b9c3ca8ebd8e07e9bcb942c616d8'

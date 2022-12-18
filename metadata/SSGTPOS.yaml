@@ -5,3 +5,5 @@ id_nomics: SSGTPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SSGTPOS.png
 logoKey: currencies/ssgtpos.png
 name: SafeSwap (Polygon)
+platform: MATIC
+platform_contract: '0x914034f0ff781c430aa9594851cc95806fd19dc6'

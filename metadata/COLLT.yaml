@@ -5,3 +5,5 @@ id_nomics: COLLT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COLLT.jpg
 logoKey: currencies/collt.jpg
 name: COLLECTIBLE
+platform: BNB
+platform_contract: '0x4b2172e798572973b2e670678902d26d2e44c24a'

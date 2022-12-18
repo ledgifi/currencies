@@ -6,3 +6,5 @@ id_nomics: WASP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WASP.jpg
 logoKey: currencies/wasp.jpg
 name: WanSwap
+platform: WAN
+platform_contract: '0x8b9f9f4aa70b1b0d586be8adfb19c1ac38e05e9a'

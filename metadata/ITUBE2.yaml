@@ -5,3 +5,5 @@ id_nomics: ITUBE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ITUBE2.png
 logoKey: currencies/itube2.png
 name: iTube
+platform: BNB
+platform_contract: '0xb4192c333e6d38a5d2a21dcf8c83283f3c97ef3c'

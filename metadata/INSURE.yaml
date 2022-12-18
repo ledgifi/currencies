@@ -3,3 +3,5 @@ fiat: false
 id: INSURE
 id_nomics: INSURE
 name: InsureToken
+platform: ETH
+platform_contract: '0xd83ae04c9ed29d6d3e6bf720c71bc7beb424393e'

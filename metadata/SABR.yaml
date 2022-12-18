@@ -3,3 +3,5 @@ fiat: false
 id: SABR
 id_nomics: SABR
 name: SafeBear
+platform: BNB
+platform_contract: '0x3f4bbf496e62720ecb2c631aa3aa87d1a3434804'

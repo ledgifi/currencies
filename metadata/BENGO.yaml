@@ -5,3 +5,5 @@ id_nomics: BENGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BENGO.jpg
 logoKey: currencies/bengo.jpg
 name: BENGOSHI COIN
+platform: ETH
+platform_contract: '0x5808fb823d720e91f1564cd9c9081af7136f73db'

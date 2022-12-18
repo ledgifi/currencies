@@ -3,3 +3,5 @@ fiat: false
 id: WRIA
 id_nomics: WRIA
 name: Wrapped aRIA
+platform: BNB
+platform_contract: '0x9a27bf99a177fed8d5704ab14041394bd7732f4c'

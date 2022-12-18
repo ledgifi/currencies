@@ -3,3 +3,5 @@ fiat: false
 id: BTCW
 id_nomics: BTCW
 name: BTCW Token
+platform: HT
+platform_contract: '0x85e113a36b4869507a8a0801f62c4952b55c8cd4'

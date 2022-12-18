@@ -5,3 +5,5 @@ id_nomics: OXSOLID
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OXSOLID.png
 logoKey: currencies/oxsolid.png
 name: Oxsolid
+platform: FTM
+platform_contract: '0xda0053f0befcbcac208a3f867bb243716734d809'

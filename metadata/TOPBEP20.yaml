@@ -5,3 +5,5 @@ id_nomics: TOPBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOPBEP20.jpg
 logoKey: currencies/topbep20.jpg
 name: TokenPlay (BEP-20)
+platform: BNB
+platform_contract: '0x0a927ab3b0f48826210ad4a43a953277aa7da8f7'

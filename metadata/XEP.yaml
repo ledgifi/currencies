@@ -6,3 +6,5 @@ id_nomics: XEP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XEP.png
 logoKey: currencies/xep.png
 name: Electra Protocol
+platform: BNB
+platform_contract: '0xb897d0a0f68800f8be7d69ffdd1c24b69f57bf3e'

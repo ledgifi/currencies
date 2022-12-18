@@ -5,3 +5,5 @@ id_nomics: BLZD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLZD.jpg
 logoKey: currencies/blzd.jpg
 name: blizzard.money
+platform: BNB
+platform_contract: '0x57067a6bd75c0e95a6a5f158455926e43e79beb0'

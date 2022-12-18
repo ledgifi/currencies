@@ -5,3 +5,5 @@ id_nomics: APOLLO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APOLLO.jpg
 logoKey: currencies/apollo.jpg
 name: Apollo
+platform: MATIC
+platform_contract: '0x577aa684B89578628941D648f1Fbd6dDE338F059'

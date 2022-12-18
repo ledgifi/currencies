@@ -5,3 +5,5 @@ id_nomics: MTL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTL2.jpeg
 logoKey: currencies/mtl2.jpeg
 name: METAluminium
+platform: BNB
+platform_contract: '0x7285BeCc5323eb20d3e829dE5aa612EE0015a9C9'

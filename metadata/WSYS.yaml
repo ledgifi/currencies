@@ -3,3 +3,5 @@ fiat: false
 id: WSYS
 id_nomics: WSYS
 name: Wrapped SYS
+platform: BNB
+platform_contract: '0x747b1223b23e53070c54df355fac2e198aa54708'

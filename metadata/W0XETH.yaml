@@ -3,3 +3,5 @@ fiat: false
 id: W0XETH
 id_nomics: W0XETH
 name: Wrapped 0xEthereum Token
+platform: ETH
+platform_contract: '0x716523231368d43bdfe1f06afe1c62930731ab13'

@@ -5,3 +5,5 @@ id_nomics: GCMEERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GCMEERC20.jpg
 logoKey: currencies/gcmeerc20.jpg
 name: Go Crypto Me (ERC-20)
+platform: ETH
+platform_contract: '0x9528cceb678b90daf02ca5ca45622d5cbaf58a30'

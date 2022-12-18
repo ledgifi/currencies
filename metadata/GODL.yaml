@@ -6,3 +6,5 @@ id_nomics: GODL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GODL.jpg
 logoKey: currencies/godl.jpg
 name: GODL
+platform: ETH
+platform_contract: '0x7f509465c38b66bdecec2cfdc842e11809cc8357'

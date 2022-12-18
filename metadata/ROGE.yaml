@@ -6,3 +6,5 @@ id_nomics: ROGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROGE.jpg
 logoKey: currencies/roge.jpg
 name: Rogue Doge
+platform: ETH
+platform_contract: '0x45734927fa2f616fbe19e65f42a0ef3d37d1c80a'

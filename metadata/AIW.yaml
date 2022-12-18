@@ -5,3 +5,5 @@ id_nomics: AIW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AIW.jpg
 logoKey: currencies/aiw.jpg
 name: AIW Token
+platform: ETH
+platform_contract: '0x60002b9904a3cdebad33dab9d3df768034d76017'

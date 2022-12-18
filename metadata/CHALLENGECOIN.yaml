@@ -3,3 +3,5 @@ fiat: false
 id: CHALLENGECOIN
 id_nomics: CHALLENGECOIN
 name: ChallengeCoin
+platform: ETH
+platform_contract: '0x553a9f5fe3c525bf58de390b5069c8afe1173c41'

@@ -5,3 +5,5 @@ id_nomics: BUCKY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUCKY.jpg
 logoKey: currencies/bucky.jpg
 name: BuckyBadger
+platform: BNB
+platform_contract: '0x8c540def3b0c89a6bf1662b1789f6251c34605ec'

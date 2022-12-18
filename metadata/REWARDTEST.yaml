@@ -3,3 +3,5 @@ fiat: false
 id: REWARDTEST
 id_nomics: REWARDTEST
 name: RewardTest
+platform: HT
+platform_contract: '0x5d23a3ef52c9ffbcb87cf91c78f50bd3846df29e'

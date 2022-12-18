@@ -5,3 +5,5 @@ id_nomics: DEGOBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEGOBEP20.jpg
 logoKey: currencies/degobep20.jpg
 name: Dego Finance (BEP-20)
+platform: BNB
+platform_contract: '0x3fda9383a84c05ec8f7630fe10adf1fac13241cc'

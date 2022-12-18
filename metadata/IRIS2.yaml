@@ -5,3 +5,5 @@ id_nomics: IRIS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IRIS2.jpg
 logoKey: currencies/iris2.jpg
 name: Iris Token
+platform: MATIC
+platform_contract: '0xdab35042e63e93cc8556c9bae482e5415b5ac4b1'

@@ -3,3 +3,5 @@ fiat: false
 id: TBT5
 id_nomics: TBT5
 name: Transaction Burning Token
+platform: BNB
+platform_contract: '0x61255c8c3383a5ac177d17aa5312906b0f329643'

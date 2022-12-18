@@ -6,3 +6,5 @@ id_nomics: ME
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ME.jpg
 logoKey: currencies/me.jpg
 name: All.me
+platform: ETH
+platform_contract: '0x47140a767a861f7a1f3b0dd22a2f463421c28814'

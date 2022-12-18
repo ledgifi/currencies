@@ -5,3 +5,5 @@ id_nomics: SOME
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOME.jpg
 logoKey: currencies/some.jpg
 name: Mixsome
+platform: ETH
+platform_contract: '0x3e8ffc8c3cb0db3081df85dec91b63abbbe99f71'

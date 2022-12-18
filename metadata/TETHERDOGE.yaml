@@ -3,3 +3,5 @@ fiat: false
 id: TETHERDOGE
 id_nomics: TETHERDOGE
 name: TetherDOGE
+platform: BNB
+platform_contract: '0x0ddb9970d00130a7392a5ce01d78fc992badbab6'

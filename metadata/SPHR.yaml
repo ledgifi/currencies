@@ -6,3 +6,5 @@ id_nomics: SPHR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPHR.png
 logoKey: currencies/sphr.png
 name: Sphere
+platform: UBQ
+platform_contract: '0x20e3dd746ddf519b23ffbbb6da7a5d33ea6349d6'

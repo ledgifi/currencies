@@ -5,3 +5,5 @@ id_nomics: CROPUNKS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CROPUNKS.jpg
 logoKey: currencies/cropunks.jpg
 name: CroPunks Coin
+platform: CRO
+platform_contract: '0x6e8810c796283db52b369dc873c86f02037bf9ab'

@@ -6,3 +6,5 @@ id_nomics: DRAC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRAC.jpg
 logoKey: currencies/drac.jpg
 name: DRACARYS
+platform: ETH
+platform_contract: '0xbcb5ec5a7a05946c3e85fd3b835fee271390866e'

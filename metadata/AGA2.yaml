@@ -5,3 +5,5 @@ id_nomics: AGA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AGA2.png
 logoKey: currencies/aga2.png
 name: AGA Token
+platform: ETH
+platform_contract: '0x2d80f5f5328fdcb6eceb7cacf5dd8aedaec94e20'

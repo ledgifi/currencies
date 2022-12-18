@@ -5,3 +5,5 @@ id_nomics: ULU2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ULU2.jpg
 logoKey: currencies/ulu2.jpg
 name: Uluru Finance
+platform: BNB
+platform_contract: '0x0acc42f8a73cc2dc3fc5ab8e0eb0bd0da1c89644'

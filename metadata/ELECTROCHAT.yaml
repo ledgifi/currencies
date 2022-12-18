@@ -3,3 +3,5 @@ fiat: false
 id: ELECTROCHAT
 id_nomics: ELECTROCHAT
 name: Electrochat
+platform: ETH
+platform_contract: '0x21056809721be9ebfb897515f46c61d9d8ed4f6d'

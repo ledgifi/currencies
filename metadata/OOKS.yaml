@@ -6,3 +6,5 @@ id_nomics: OOKS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OOKS.png
 logoKey: currencies/ooks.png
 name: Onooks
+platform: ETH
+platform_contract: '0x69d9905b2e5f6f5433212b7f3c954433f23c1572'

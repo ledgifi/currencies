@@ -5,3 +5,5 @@ id_nomics: TURBO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TURBO2.jpg
 logoKey: currencies/turbo2.jpg
 name: TURBOETH
+platform: ETH
+platform_contract: '0x29e89f222601ce00a1b44c9e4339171f5e8a04cc'

@@ -5,3 +5,5 @@ id_nomics: XSPACE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XSPACE.jpg
 logoKey: currencies/xspace.jpg
 name: XSPACE
+platform: BNB
+platform_contract: '0xad90c05bc51672eedfee36e58b3ff1a78bbc146d'

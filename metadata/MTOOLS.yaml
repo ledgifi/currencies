@@ -3,3 +3,5 @@ fiat: false
 id: MTOOLS
 id_nomics: MTOOLS
 name: Master Tools
+platform: ETH
+platform_contract: '0x16d10e709c5601c124ab65f7bae706e0746fc112'

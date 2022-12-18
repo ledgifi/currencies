@@ -6,3 +6,5 @@ id_nomics: EVERDOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVERDOT.jpg
 logoKey: currencies/everdot.jpg
 name: EverDot
+platform: BNB
+platform_contract: '0x0b40bbf9265b7f93169b087b9749d9d059d82ffe'

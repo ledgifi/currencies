@@ -5,3 +5,5 @@ id_nomics: AUT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AUT.jpg
 logoKey: currencies/aut.jpg
 name: AutCoin
+platform: BNB
+platform_contract: '0x47b80b600d5e4d2a6c2e1bda0e2d460ef6689850'

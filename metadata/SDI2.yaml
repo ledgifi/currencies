@@ -3,3 +3,5 @@ fiat: false
 id: SDI2
 id_nomics: SDI2
 name: Smart DeFi Index
+platform: ETH
+platform_contract: '0xfD81369a36777f20c8452D39bBD1ADd9E43C9510'

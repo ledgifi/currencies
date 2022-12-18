@@ -5,3 +5,5 @@ id_nomics: MONX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MONX2.jpg
 logoKey: currencies/monx2.jpg
 name: Monster of God
+platform: BNB
+platform_contract: '0xbcde162a6f7a45fbb6913b296e325fe1267a1e9f'

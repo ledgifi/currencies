@@ -6,3 +6,5 @@ id_nomics: WULA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WULA.jpg
 logoKey: currencies/wula.jpg
 name: Wula
+platform: BNB
+platform_contract: '0xa502e153ee236a89842cbd4bc59779cf99d589e1'

@@ -5,3 +5,5 @@ id_nomics: CTIBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTIBEP20.jpg
 logoKey: currencies/ctibep20.jpg
 name: ClinTex (BEP-20)
+platform: BNB
+platform_contract: '0x3f670f65b9ce89b82e82121fd68c340ac22c08d6'

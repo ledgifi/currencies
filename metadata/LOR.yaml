@@ -5,3 +5,5 @@ id_nomics: LOR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOR.jpg
 logoKey: currencies/lor.jpg
 name: Lair Ownership Rights
+platform: ETH
+platform_contract: '0xc3f18a746b7ca4b22976a7aacd289e83ca2faf41'

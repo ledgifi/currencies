@@ -6,3 +6,5 @@ id_nomics: DIAMONDS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DIAMONDS.jpg
 logoKey: currencies/diamonds.jpg
 name: Black Diamond
+platform: BNB
+platform_contract: '0x37c4bcf0b8fc6f074be933af7fb9d1dde55f979c'

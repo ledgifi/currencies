@@ -6,3 +6,5 @@ id_nomics: CBS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBS3.jpg
 logoKey: currencies/cbs3.jpg
 name: Crypto Bits
+platform: ETH
+platform_contract: '0xd4a80224350528b7c0ae8c325a0b5778d92fd86e'

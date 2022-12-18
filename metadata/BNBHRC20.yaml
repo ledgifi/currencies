@@ -5,3 +5,5 @@ id_nomics: BNBHRC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNBHRC20.jpg
 logoKey: currencies/bnbhrc20.jpg
 name: Binance Coin (Harmony)
+platform: HARMONY
+platform_contract: '0xb1f6e61e1e113625593a22fa6aa94f8052bc39e0'

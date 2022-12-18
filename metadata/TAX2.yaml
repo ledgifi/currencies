@@ -5,3 +5,5 @@ id_nomics: TAX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TAX2.png
 logoKey: currencies/tax2.png
 name: TAX FREE
+platform: BNB
+platform_contract: '0xfec9e7107AA8FC8d0346bdd6Db1F9502819fccEF'

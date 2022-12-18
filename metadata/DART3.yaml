@@ -5,3 +5,5 @@ id_nomics: DART3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DART3.jpg
 logoKey: currencies/dart3.jpg
 name: Dart Inu
+platform: BNB
+platform_contract: '0x49152dd96be5a710facf9a8ab7de4343a49186d5'

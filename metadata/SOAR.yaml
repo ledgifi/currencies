@@ -6,3 +6,5 @@ id_nomics: SOAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOAR.png
 logoKey: currencies/soar.png
 name: Soarcoin
+platform: ETH
+platform_contract: '0xd65960facb8e4a2dfcb2c2212cb2e44a02e2a57e'

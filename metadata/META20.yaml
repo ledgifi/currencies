@@ -5,3 +5,5 @@ id_nomics: META20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/META20.png
 logoKey: currencies/meta20.png
 name: META NEWS
+platform: BNB
+platform_contract: '0xc348c9A706372A14529fD3Ac647CE8FF009e30b1'

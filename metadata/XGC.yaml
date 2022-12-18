@@ -6,3 +6,5 @@ id_nomics: XGC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XGC.png
 logoKey: currencies/xgc.png
 name: Xiglute Coin
+platform: ETH
+platform_contract: '0x89d3c0249307ae570a316030764d12f53bb191fd'

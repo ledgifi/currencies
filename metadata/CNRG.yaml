@@ -6,3 +6,5 @@ id_nomics: CNRG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CNRG.jpg
 logoKey: currencies/cnrg.jpg
 name: CryptoEnergy
+platform: ETH
+platform_contract: '0xc21dbee65d62770953035f0434c532d578a666c9'

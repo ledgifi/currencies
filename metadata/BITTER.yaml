@@ -3,3 +3,5 @@ fiat: false
 id: BITTER
 id_nomics: BITTER
 name: Bitcoin Terrible
+platform: ETH
+platform_contract: '0xd0db0a107e9d9cb15b7f2cd963b6db26269a103d'

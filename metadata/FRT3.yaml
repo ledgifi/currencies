@@ -5,3 +5,5 @@ id_nomics: FRT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FRT3.jpg
 logoKey: currencies/frt3.jpg
 name: Fortuna
+platform: BNB
+platform_contract: '0x8482d9b97e6673b635177e542d8fb80c61e0daea'

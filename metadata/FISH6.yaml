@@ -3,3 +3,5 @@ fiat: false
 id: FISH6
 id_nomics: FISH6
 name: FISH Tank
+platform: ETH
+platform_contract: '0x2604e9f68259e609e8744fb67cc410d50fc9aa0f'

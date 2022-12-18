@@ -5,3 +5,5 @@ id_nomics: CLOAK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLOAK2.png
 logoKey: currencies/cloak2.png
 name: Cloak Coin
+platform: BNB
+platform_contract: '0x8077398ff2c530f129a6dd8d7f1e8840312440cd'

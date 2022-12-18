@@ -5,3 +5,5 @@ id_nomics: KOL4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KOL4.jpg
 logoKey: currencies/kol4.jpg
 name: King of Legends
+platform: BNB
+platform_contract: '0x6a731582f6189477c379a8da7d26dcec3f0a0919'

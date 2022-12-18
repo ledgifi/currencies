@@ -3,3 +3,5 @@ fiat: false
 id: OBVERSE
 id_nomics: OBVERSE
 name: Obverse Token
+platform: BNB
+platform_contract: '0xd9de60d94699127b05e5f3828d2b3285cbd3e48b'

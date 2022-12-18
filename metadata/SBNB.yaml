@@ -5,3 +5,5 @@ id_nomics: SBNB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBNB.png
 logoKey: currencies/sbnb.png
 name: Synth sBNB
+platform: ETH
+platform_contract: '0x617aecb6137b5108d1e7d4918e3725c8cebdb848'

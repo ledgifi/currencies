@@ -5,3 +5,5 @@ id_nomics: FVR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FVR.webp
 logoKey: currencies/fvr.webp
 name: Footballverse
+platform: BNB
+platform_contract: '0x155f9659d4f6e5937ee2015926192d8364fb147e'

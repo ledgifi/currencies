@@ -5,3 +5,5 @@ id_nomics: BANK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BANK2.png
 logoKey: currencies/bank2.png
 name: 'Float Protocol: Bank'
+platform: ETH
+platform_contract: '0x24a6a37576377f63f194caa5f518a60f45b42921'

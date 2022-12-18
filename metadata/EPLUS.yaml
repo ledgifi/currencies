@@ -6,3 +6,5 @@ id_nomics: EPLUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EPLUS.png
 logoKey: currencies/eplus.png
 name: Epluscoin
+platform: ETH
+platform_contract: '0x02e3083a51e8632e571fbd6a62ac396c10c653ba'

@@ -6,3 +6,5 @@ id_nomics: BRS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRS.png
 logoKey: currencies/brs.png
 name: Broovs
+platform: BNB
+platform_contract: '0x98c6fd0281a9a0300cb88553bf386a3492bb70f7'

@@ -3,3 +3,5 @@ fiat: false
 id: IOWHITE
 id_nomics: IOWHITE
 name: io-whiteToken
+platform: XDAI
+platform_contract: '0x887a361640b82f3935f6ded071b19dcb0903b9de'

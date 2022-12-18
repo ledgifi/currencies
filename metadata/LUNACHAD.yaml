@@ -5,3 +5,5 @@ id_nomics: LUNACHAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUNACHAD.png
 logoKey: currencies/lunachad.png
 name: Luna Chad
+platform: BNB
+platform_contract: '0x6b3c275726ac21136a9bf25532a74e401b8332d5'

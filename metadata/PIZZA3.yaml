@@ -5,3 +5,5 @@ id_nomics: PIZZA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIZZA3.jpg
 logoKey: currencies/pizza3.jpg
 name: SafePizza
+platform: BNB
+platform_contract: '0x72eb1afddb5652e0f5c7b9a6cc1c3241348b16c6'

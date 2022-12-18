@@ -5,3 +5,5 @@ id_nomics: CBFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBFI.png
 logoKey: currencies/cbfi.png
 name: CoinBox Finance
+platform: BNB
+platform_contract: '0xdb0f8cec7634cb86de98bd8c23e5b521d66ccb1d'

@@ -3,3 +3,5 @@ fiat: false
 id: BASEDSHIBA
 id_nomics: BASEDSHIBA
 name: Based Shiba
+platform: ETH
+platform_contract: '0x11342f694501f9600f31af69ff8ee61809dca1c6'

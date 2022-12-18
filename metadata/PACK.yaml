@@ -6,3 +6,5 @@ id_nomics: PACK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PACK.jpg
 logoKey: currencies/pack.jpg
 name: The Wolf Pack
+platform: BNB
+platform_contract: '0xf4706ee4220861a0ce3a294091689eb6d2dccbc3'

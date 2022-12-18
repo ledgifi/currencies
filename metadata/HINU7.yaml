@@ -5,3 +5,5 @@ id_nomics: HINU7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HINU7.jpg
 logoKey: currencies/hinu7.jpg
 name: Hachiro Inu
+platform: BNB
+platform_contract: '0x0054917aba1f5c0257c49bf28267fe22a245fabb'

@@ -3,3 +3,5 @@ fiat: false
 id: VICSTEP
 id_nomics: VICSTEP
 name: VIC
+platform: BNB
+platform_contract: '0x27ad37d22ee95ac461ab82d79ff0bca8ef42cf23'

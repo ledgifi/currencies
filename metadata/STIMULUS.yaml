@@ -3,3 +3,5 @@ fiat: false
 id: STIMULUS
 id_nomics: STIMULUS
 name: Stimulus Check
+platform: ETH
+platform_contract: '0x4d7beb770bb1c0ac31c2b3a3d0be447e2bf61013'

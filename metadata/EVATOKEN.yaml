@@ -5,3 +5,5 @@ id_nomics: EVATOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVATOKEN.png
 logoKey: currencies/evatoken.png
 name: Eva Token
+platform: ETH
+platform_contract: '0x632a9dc767860d3ba86f2ac6575bac51402b9afa'

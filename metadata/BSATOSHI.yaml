@@ -5,3 +5,5 @@ id_nomics: BSATOSHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSATOSHI.jpg
 logoKey: currencies/bsatoshi.jpg
 name: Baby Satoshi
+platform: ETH
+platform_contract: '0xa44f5ae99b5400360a37ddfa69aeeb5f91dc8679'

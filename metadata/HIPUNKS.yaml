@@ -5,3 +5,5 @@ id_nomics: HIPUNKS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HIPUNKS.jpg
 logoKey: currencies/hipunks.jpg
 name: hiPunks
+platform: ETH
+platform_contract: '0xb1f136a74e18e4e2921febbf25820d1bb65b5647'

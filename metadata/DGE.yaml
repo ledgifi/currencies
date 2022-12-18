@@ -6,3 +6,5 @@ id_nomics: DGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DGE.jpg
 logoKey: currencies/dge.jpg
 name: DragonSea
+platform: BNB
+platform_contract: '0x467f4773879a3917ddc2a6befa430c5d8ac22bee'

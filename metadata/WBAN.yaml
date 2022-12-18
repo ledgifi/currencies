@@ -6,3 +6,5 @@ id_nomics: WBAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WBAN.jpg
 logoKey: currencies/wban.jpg
 name: Wrapped Banano
+platform: BNB
+platform_contract: '0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034'

@@ -6,3 +6,5 @@ id_nomics: DGS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DGS.png
 logoKey: currencies/dgs.png
 name: Dragonglass
+platform: ETH
+platform_contract: '0x6aedbf8dff31437220df351950ba2a3362168d1b'

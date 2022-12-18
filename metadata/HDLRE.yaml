@@ -5,3 +5,5 @@ id_nomics: HDLRE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HDLRE.jpg
 logoKey: currencies/hdlre.jpg
 name: Hodler Mining
+platform: ETH
+platform_contract: '0x86a63063b3a60652fb070f23cbb4a9833fdbbff8'

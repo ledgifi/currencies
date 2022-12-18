@@ -6,3 +6,5 @@ id_nomics: ORAO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORAO.png
 logoKey: currencies/orao.png
 name: ORAO Network
+platform: ETH
+platform_contract: '0x0277d9ad7889dd909d06be863b122844ae9f945a'

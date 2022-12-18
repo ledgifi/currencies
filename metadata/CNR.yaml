@@ -5,3 +5,5 @@ id_nomics: CNR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CNR.jpg
 logoKey: currencies/cnr.jpg
 name: Cinder
+platform: ETH
+platform_contract: '0xce27a2388d2ba7a9995fa0960fb168568e2a7923'

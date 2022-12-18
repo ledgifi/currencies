@@ -5,3 +5,5 @@ id_nomics: ALEND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALEND.jpg
 logoKey: currencies/alend.jpg
 name: Aave LEND
+platform: ETH
+platform_contract: '0x7d2d3688df45ce7c552e19c27e007673da9204b8'

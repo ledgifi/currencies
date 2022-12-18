@@ -5,3 +5,5 @@ id_nomics: LIME3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIME3.jpg
 logoKey: currencies/lime3.jpg
 name: Lime Inu
+platform: BNB
+platform_contract: '0x87c1de8c6637b78134dbf2c180060609c3e37bc3'

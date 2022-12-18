@@ -6,3 +6,5 @@ id_nomics: ESPL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ESPL.jpg
 logoKey: currencies/espl.jpg
 name: ESplash
+platform: ETH
+platform_contract: '0xebc345e12c14449f2b63f077fd86f3345b0f0d14'

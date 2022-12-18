@@ -5,3 +5,5 @@ id_nomics: CTB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTB.jpg
 logoKey: currencies/ctb.jpg
 name: CTB
+platform: ETH
+platform_contract: '0x43c1c012aa89c60019b4e941ccac98f22d2f3c01'

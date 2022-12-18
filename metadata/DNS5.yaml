@@ -5,3 +5,5 @@ id_nomics: DNS5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DNS5.jpg
 logoKey: currencies/dns5.jpg
 name: Dev Never Sleep
+platform: ETH
+platform_contract: '0xB649475F30E167cA4333709D0EcCD77cDc4b34ce'

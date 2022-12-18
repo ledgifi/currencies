@@ -5,3 +5,5 @@ id_nomics: UNIV3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNIV3.png
 logoKey: currencies/univ3.png
 name: ZFI UniVerse Finance
+platform: BNB
+platform_contract: '0x18a0dc43863186c0878fc29af99c4f3079aa8c98'

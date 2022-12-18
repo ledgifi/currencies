@@ -5,3 +5,5 @@ id_nomics: EDFCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EDFCX.jpg
 logoKey: currencies/edfcx.jpg
 name: Stone Harbor Emerging Markets Income Fund Token
+platform: ETH
+platform_contract: '0xcfcd67348e28d202bd01b94214a1b366a35ce27b'

@@ -5,3 +5,5 @@ id_nomics: BLUE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/blue.jpg
 logoKey: currencies/blue.jpg
 name: Ethereum Blue
+platform: ETH
+platform_contract: '0x539efe69bcdd21a83efd9122571a64cc25e0282b'

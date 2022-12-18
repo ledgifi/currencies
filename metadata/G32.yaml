@@ -5,3 +5,5 @@ id_nomics: G32
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/G32.jpg
 logoKey: currencies/g32.jpg
 name: Gladiators 32
+platform: BNB
+platform_contract: '0xe1fd4d9dd64f6a48efb86d96e5a411420624cbcd'

@@ -5,3 +5,5 @@ id_nomics: LVL3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LVL3.jpg
 logoKey: currencies/lvl3.jpg
 name: Level
+platform: BNB
+platform_contract: '0x2f7dc2aea8c1b21898a131f03ffb61eb8f1e30de'

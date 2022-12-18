@@ -5,3 +5,5 @@ id_nomics: BMS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BMS.jpeg
 logoKey: currencies/bms.jpeg
 name: BeamSwap
+platform: BNB
+platform_contract: '0x1b724da08841fc1ee3a3fe906274ef0978320111'

@@ -6,3 +6,5 @@ id_nomics: CGAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CGAR.jpg
 logoKey: currencies/cgar.jpg
 name: CryptoGuards
+platform: BNB
+platform_contract: '0x432c7cf1de2b97a013f1130f199ed9d1363215ba'

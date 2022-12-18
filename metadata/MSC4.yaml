@@ -5,3 +5,5 @@ id_nomics: MSC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSC4.jpg
 logoKey: currencies/msc4.jpg
 name: Multi-Stake Capital
+platform: ETH
+platform_contract: '0x7ed037eb22982b839a5f0b67f6a652c9857ccd4d'

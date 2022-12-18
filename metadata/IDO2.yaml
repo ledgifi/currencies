@@ -5,3 +5,5 @@ id_nomics: IDO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IDO2.jpg
 logoKey: currencies/ido2.jpg
 name: Idexo Token
+platform: ETH
+platform_contract: '0xf9c53268e9de692ae1b2ea5216e24e1c3ad7cb1e'

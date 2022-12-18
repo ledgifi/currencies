@@ -5,3 +5,5 @@ id_nomics: ALPHAMOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALPHAMOON.jpg
 logoKey: currencies/alphamoon.jpg
 name: Alpha Moon
+platform: ETH
+platform_contract: '0xa88f4e1cc0cc5e9d5210ff76952546eb27e69426'

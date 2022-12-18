@@ -5,3 +5,5 @@ id_nomics: CSUSHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CSUSHI.png
 logoKey: currencies/csushi.png
 name: cSUSHI
+platform: ETH
+platform_contract: '0x4b0181102a0112a2ef11abee5563bb4a3176c9d7'

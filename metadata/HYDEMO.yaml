@@ -3,3 +3,5 @@ fiat: false
 id: HYDEMO
 id_nomics: HYDEMO
 name: HY
+platform: BNB
+platform_contract: '0x42231e15655c76194a43197dc3fc633a2b06ce00'

@@ -5,3 +5,5 @@ id_nomics: DWDPCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DWDPCX.jpg
 logoKey: currencies/dwdpcx.jpg
 name: DowDuPont Inc Token
+platform: ETH
+platform_contract: '0x09a981cfdbb37852c7f1d7f3f1ff0ca1ee999080'

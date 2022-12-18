@@ -3,3 +3,5 @@ fiat: false
 id: LQD2
 id_nomics: LQD2
 name: LiquidSwap
+platform: ETH
+platform_contract: '0x7fe8dac51394157811c71bbf74c133a224a9ff44'

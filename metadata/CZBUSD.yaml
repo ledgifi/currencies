@@ -3,3 +3,5 @@ fiat: false
 id: CZBUSD
 id_nomics: CZBUSD
 name: CZpegs BUSD
+platform: BNB
+platform_contract: '0xa2a3be47beb973d48401010742d5e442177d037b'

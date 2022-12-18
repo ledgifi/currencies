@@ -3,3 +3,5 @@ fiat: false
 id: V3VAULT
 id_nomics: V3VAULT
 name: V3S Vault
+platform: CRO
+platform_contract: '0x595ce96a1c257dada878d5ac257a65788a28c675'

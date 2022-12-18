@@ -3,3 +3,5 @@ fiat: false
 id: CENS
 id_nomics: CENS
 name: CENTURY
+platform: BNB
+platform_contract: '0x9e1fd9ba2590af57f926177850eae1611d447874'

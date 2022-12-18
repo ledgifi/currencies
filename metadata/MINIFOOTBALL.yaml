@@ -5,3 +5,5 @@ id_nomics: MINIFOOTBALL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINIFOOTBALL.jpg
 logoKey: currencies/minifootball.jpg
 name: Minifootball
+platform: BNB
+platform_contract: '0xd024ac1195762f6f13f8cfdf3cdd2c97b33b248b'

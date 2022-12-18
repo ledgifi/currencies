@@ -5,3 +5,5 @@ id_nomics: DEG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEG.png
 logoKey: currencies/deg.png
 name: Defi Empire Gold
+platform: BNB
+platform_contract: '0x799c633fcc867877e568cd590f4689feb2993a75'

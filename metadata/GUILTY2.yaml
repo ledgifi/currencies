@@ -5,3 +5,5 @@ id_nomics: GUILTY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GUILTY2.jpg
 logoKey: currencies/guilty2.jpg
 name: KwonTheRun
+platform: ETH
+platform_contract: '0x9b39f9260685f0b6754146cfb84ab7e4c9a05bcd'

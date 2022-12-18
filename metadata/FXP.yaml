@@ -6,3 +6,5 @@ id_nomics: FXP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FXP.jpg
 logoKey: currencies/fxp.jpg
 name: FXPay
+platform: ETH
+platform_contract: '0x14ddda446688b73161aa1382f4e4343353af6fc8'

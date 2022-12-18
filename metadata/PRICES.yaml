@@ -3,3 +3,5 @@ fiat: false
 id: PRICES
 id_nomics: PRICES
 name: PRICES
+platform: AVAX
+platform_contract: '0xd39fe405c2edb420f050ee6534acb888e09acda6'

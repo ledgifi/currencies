@@ -6,3 +6,5 @@ id_nomics: LAYER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LAYER.png
 logoKey: currencies/layer.png
 name: UniLayer
+platform: ETH
+platform_contract: '0x0ff6ffcfda92c53f615a4a75d982f399c989366b'

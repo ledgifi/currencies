@@ -6,3 +6,5 @@ id_nomics: ETHM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHM.png
 logoKey: currencies/ethm.png
 name: Ethereum Meta
+platform: ETH
+platform_contract: '0xfd957f21bd95e723645c07c48a2d8acb8ffb3794'

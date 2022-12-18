@@ -3,3 +3,5 @@ fiat: false
 id: GAIN
 id_nomics: GAIN
 name: GainSwap
+platform: ETH
+platform_contract: '0xfcce65a70794bec59e5be38c85ebe71aedaa74ef'

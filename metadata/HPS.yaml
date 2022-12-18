@@ -6,3 +6,5 @@ id_nomics: HPS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HPS.jpg
 logoKey: currencies/hps.jpg
 name: Happiness Token
+platform: BNB
+platform_contract: '0xeda21b525ac789eab1a08ef2404dd8505ffb973d'

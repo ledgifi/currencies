@@ -3,3 +3,5 @@ fiat: false
 id: TSUKABANK
 id_nomics: TSUKABANK
 name: Bank of Tsuka
+platform: ETH
+platform_contract: '0x07f42e4aa370557b05603467a4e135d48f302047'

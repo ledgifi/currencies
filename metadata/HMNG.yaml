@@ -6,3 +6,5 @@ id_nomics: HMNG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HMNG.jpg
 logoKey: currencies/hmng.jpg
 name: Hummingbird Finance
+platform: BNB
+platform_contract: '0x14357d294fbabbe0fbf59503370c772d563b35b6'

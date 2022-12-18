@@ -3,3 +3,5 @@ fiat: false
 id: TENR
 id_nomics: TENR
 name: 10 Percent Reflection Token
+platform: BNB
+platform_contract: '0x363dbfecee0e0a41b540da33bd49260db7876fd5'

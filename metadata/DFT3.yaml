@@ -5,3 +5,5 @@ id_nomics: DFT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DFT3.jpg
 logoKey: currencies/dft3.jpg
 name: dFuture
+platform: BNB
+platform_contract: '0x42712df5009c20fee340b245b510c0395896cf6e'

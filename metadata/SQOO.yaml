@@ -3,3 +3,5 @@ fiat: false
 id: SQOO
 id_nomics: SQOO
 name: sqoo
+platform: MATIC
+platform_contract: '0x2337121cb9dfd11594c04b7072682a9ea96da120'

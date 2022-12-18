@@ -5,3 +5,5 @@ id_nomics: LOOTNFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOOTNFT.jpg
 logoKey: currencies/lootnft.jpg
 name: Loot (for Adventurers)
+platform: ETH
+platform_contract: '0x8b498ff7d5ce50f7ce5bc3c4ea8c20c42b930ec8'

@@ -5,3 +5,5 @@ id_nomics: BET3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BET3.jpg
 logoKey: currencies/bet3.jpg
 name: EarnBet Token
+platform: ETH
+platform_contract: '0xfdd4e938bb067280a52ac4e02aaf1502cc882ba6'

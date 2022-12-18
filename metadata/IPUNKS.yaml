@@ -3,3 +3,5 @@ fiat: false
 id: IPUNKS
 id_nomics: IPUNKS
 name: InuPunks
+platform: ETH
+platform_contract: '0x90eb9a90a4d3de01e4f052561eb861e79eeb2b5a'

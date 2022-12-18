@@ -6,3 +6,5 @@ id_nomics: LQD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LQD.png
 logoKey: currencies/lqd.png
 name: Liquidity Network
+platform: ETH
+platform_contract: '0xd29f0b5b3f50b07fe9a9511f7d86f4f4bac3f8c4'

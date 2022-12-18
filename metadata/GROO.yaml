@@ -5,3 +5,5 @@ id_nomics: GROO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GROO.png
 logoKey: currencies/groo.png
 name: Groocoin
+platform: ETH
+platform_contract: '0xc17195bde49d70cefcf8a9f2ee1759ffc27bf0b1'

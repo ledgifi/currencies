@@ -5,3 +5,5 @@ id_nomics: SHIBAMOM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBAMOM.jpeg
 logoKey: currencies/shibamom.jpeg
 name: Shiba Mom
+platform: BNB
+platform_contract: '0xc36e66174ebc311978ad2e0a8d37fda4a8d9018a'

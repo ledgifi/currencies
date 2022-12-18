@@ -6,3 +6,5 @@ id_nomics: NAVI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/navi.jpg
 logoKey: currencies/navi.jpg
 name: Naviaddress
+platform: ETH
+platform_contract: '0x588047365df5ba589f923604aac23d673555c623'

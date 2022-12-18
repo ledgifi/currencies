@@ -5,3 +5,5 @@ id_nomics: CLS32
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLS32.jpg
 logoKey: currencies/cls32.jpg
 name: Celsius 3.0
+platform: BNB
+platform_contract: '0x432e123871ccd8912bd47efa1f8ca89e520776e5'

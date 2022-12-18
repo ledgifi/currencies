@@ -6,3 +6,5 @@ id_nomics: XSAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XSAP.png
 logoKey: currencies/xsap.png
 name: xSapphire
+platform: ETH
+platform_contract: '0xb36bcc08cc3f998ab54cec6d0996c3c4f6f63666'

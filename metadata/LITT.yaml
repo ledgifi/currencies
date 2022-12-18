@@ -5,3 +5,5 @@ id_nomics: LITT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LITT.jpg
 logoKey: currencies/litt.jpg
 name: LITTCOIN
+platform: BNB
+platform_contract: '0x508361c3D7ce47d806A2A789D317F6Ba8B3Ec7e3'

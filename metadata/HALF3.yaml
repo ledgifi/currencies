@@ -3,3 +3,5 @@ fiat: false
 id: HALF3
 id_nomics: HALF3
 name: HALF Coin
+platform: ETH
+platform_contract: '0x697d90a75ca5af12691cb07c154d48b3a94c8ef6'

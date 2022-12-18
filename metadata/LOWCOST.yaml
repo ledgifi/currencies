@@ -3,3 +3,5 @@ fiat: false
 id: LOWCOST
 id_nomics: LOWCOST
 name: Lowcost
+platform: BNB
+platform_contract: '0xdbfe47255cba4a7623985444e730719e9f958e67'

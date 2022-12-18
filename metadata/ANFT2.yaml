@@ -5,3 +5,5 @@ id_nomics: ANFT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANFT2.png
 logoKey: currencies/anft2.png
 name: Arsenal NFT
+platform: AVAX
+platform_contract: '0x158cdfa4131965e9d464ae32256b0e0dc9339743'

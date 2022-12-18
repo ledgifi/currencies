@@ -5,3 +5,5 @@ id_nomics: STSL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STSL.jpg
 logoKey: currencies/stsl.jpg
 name: ShortTesla
+platform: BNB
+platform_contract: '0xd98c518248faed177fb9cba0e16401694e66d7c6'

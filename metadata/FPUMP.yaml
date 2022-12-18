@@ -6,3 +6,5 @@ id_nomics: FPUMP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FPUMP.jpg
 logoKey: currencies/fpump.jpg
 name: Forrest Pump
+platform: BNB
+platform_contract: '0xefab9002b8e7d465430673b25e14a11aea848330'

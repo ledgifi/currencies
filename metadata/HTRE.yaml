@@ -5,3 +5,5 @@ id_nomics: HTRE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HTRE.jpg
 logoKey: currencies/htre.jpg
 name: HodlTree
+platform: ETH
+platform_contract: '0xdea67845a51e24461d5fed8084e69b426af3d5db'

@@ -3,3 +3,5 @@ fiat: false
 id: STPNK
 id_nomics: STPNK
 name: Staking PNK on xDai
+platform: XDAI
+platform_contract: '0xcb3231aba3b451343e0fddfc45883c842f223846'

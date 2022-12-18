@@ -5,3 +5,5 @@ id_nomics: ARIA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARIA.jpg
 logoKey: currencies/aria.jpg
 name: ARIA
+platform: ETH
+platform_contract: '0xaef0dea0d86401cff28e23fc7a10fb9b3707ce96'

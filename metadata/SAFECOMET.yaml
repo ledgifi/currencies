@@ -6,3 +6,5 @@ id_nomics: SAFECOMET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFECOMET.jpg
 logoKey: currencies/safecomet.jpg
 name: SafeComet
+platform: BNB
+platform_contract: '0xb667bbfe0dcedae1a53555a0e8b0a14eaf0d5231'

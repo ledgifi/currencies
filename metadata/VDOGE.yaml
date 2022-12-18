@@ -5,3 +5,5 @@ id_nomics: VDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VDOGE.jpg
 logoKey: currencies/vdoge.jpg
 name: Venus DOGE
+platform: BNB
+platform_contract: '0xec3422ef92b2fb59e84c8b02ba73f1fe84ed8d71'

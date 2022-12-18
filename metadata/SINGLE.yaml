@@ -5,3 +5,5 @@ id_nomics: SINGLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SINGLE.jpg
 logoKey: currencies/single.jpg
 name: Single Finance
+platform: CRO
+platform_contract: '0x0804702a4e749d39a35fde73d1df0b1f1d6b8347'

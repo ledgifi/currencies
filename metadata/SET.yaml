@@ -5,3 +5,5 @@ id_nomics: SET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/set.jpg
 logoKey: currencies/set.jpg
 name: Swytch Energy
+platform: ETH
+platform_contract: '0xfa75b65e52a6cbc5503f45f4abba2c5df4688875'

@@ -5,3 +5,5 @@ id_nomics: CPEPE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CPEPE.png
 logoKey: currencies/cpepe.png
 name: CatPepe Token
+platform: ETH
+platform_contract: '0x3603ca64dbfb2d784d235b3e5989dd98aef86fec'

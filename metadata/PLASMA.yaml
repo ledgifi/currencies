@@ -5,3 +5,5 @@ id_nomics: PLASMA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLASMA.jpg
 logoKey: currencies/plasma.jpg
 name: PLASMA
+platform: ETH
+platform_contract: '0x3d3097cd94fec5dc823e5025a59438e63757dc79'

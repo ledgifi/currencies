@@ -5,3 +5,5 @@ id_nomics: STEAK3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STEAK3.png
 logoKey: currencies/steak3.png
 name: Steak
+platform: FTM
+platform_contract: '0x05848b832e872d9edd84ac5718d58f21fd9c9649'

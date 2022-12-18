@@ -3,3 +3,5 @@ fiat: false
 id: ABCC
 id_nomics: ABCC
 name: ABCC
+platform: BNB
+platform_contract: '0x5a4ac49ac60a9dd307de042e804a1869fa8ce464'

@@ -5,3 +5,5 @@ id_nomics: POLYCUB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POLYCUB.png
 logoKey: currencies/polycub.png
 name: PolyCub
+platform: MATIC
+platform_contract: '0x7cc15fef543f205bf21018f038f591c6bada941c'

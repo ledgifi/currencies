@@ -6,3 +6,5 @@ id_nomics: UFC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UFC.png
 logoKey: currencies/ufc.png
 name: Union Fair Coin
+platform: ETH
+platform_contract: '0x995de3d961b40ec6cdee0009059d48768ccbdd48'

@@ -6,3 +6,5 @@ id_nomics: DKKS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DKKS.jpg
 logoKey: currencies/dkks.jpg
 name: DAIKOKUTEN SAMA
+platform: BNB
+platform_contract: '0x834613c64522725b23b458af04ed1590d189962f'

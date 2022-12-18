@@ -5,3 +5,5 @@ id_nomics: CHS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHS2.jpg
 logoKey: currencies/chs2.jpg
 name: CheeseSwap
+platform: BNB
+platform_contract: '0xadd8a06fd58761a5047426e160b2b88ad3b9d464'

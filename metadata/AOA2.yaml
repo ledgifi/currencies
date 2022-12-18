@@ -5,3 +5,5 @@ id_nomics: AOA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AOA.png
 logoKey: currencies/aoa2.png
 name: Aurora
+platform: ETH
+platform_contract: '0x9ab165d795019b6d8b3e971dda91071421305e5a'

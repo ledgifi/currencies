@@ -3,3 +3,5 @@ fiat: false
 id: TOSH
 id_nomics: TOSH
 name: ThorShare
+platform: ETH
+platform_contract: '0x960bea9c686953e218b075c7093d39ebc43b4e25'

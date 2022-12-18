@@ -6,3 +6,5 @@ id_nomics: STURM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STURM.jpg
 logoKey: currencies/sturm.jpg
 name: Sturm
+platform: ETH
+platform_contract: '0x25d8095dc7597eb6257b5aad06febb79e889b4c2'

@@ -5,3 +5,5 @@ id_nomics: FMV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FMV2.png
 logoKey: currencies/fmv2.png
 name: Family Verse
+platform: BNB
+platform_contract: '0x1755a2E073b948E600d612b3448ABc61DF10ed94'

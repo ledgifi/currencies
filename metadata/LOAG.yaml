@@ -5,3 +5,5 @@ id_nomics: LOAG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOAG.jpg
 logoKey: currencies/loag.jpg
 name: LOA Game
+platform: BNB
+platform_contract: '0x18d187cbf42eb84bae155eeb198bc7446887a7a8'

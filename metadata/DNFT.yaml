@@ -5,3 +5,5 @@ id_nomics: DNFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DNFT.jpg
 logoKey: currencies/dnft.jpg
 name: DNFT
+platform: ETH
+platform_contract: '0x23a1000ae9886356f13f29754aa2d0a727cd89ac'

@@ -5,3 +5,5 @@ id_nomics: MRK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/mrk.jpg
 logoKey: currencies/mrk.jpg
 name: Mark Space
+platform: ETH
+platform_contract: '0xf453b5b9d4e0b5c62ffb256bb2378cc2bc8e8a89'

@@ -3,3 +3,5 @@ fiat: false
 id: CBN1
 id_nomics: CBN1
 name: CBN1
+platform: BNB
+platform_contract: '0x0567b8a894a32ed1714a69f832c983cd9116d7e7'

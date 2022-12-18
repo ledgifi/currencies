@@ -5,3 +5,5 @@ id_nomics: ETLCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETLCX.jpg
 logoKey: currencies/etlcx.jpg
 name: Eutelsat Communications Token
+platform: ETH
+platform_contract: '0x6a36a309acb68d7fb3605bc627c3ae68de3d2961'

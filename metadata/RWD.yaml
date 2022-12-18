@@ -5,3 +5,5 @@ id_nomics: RWD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RWD.png
 logoKey: currencies/rwd.png
 name: Rockwood Coin
+platform: ETH
+platform_contract: '0xb657708d990414bca245e11a2abdcdd11f9227c6'

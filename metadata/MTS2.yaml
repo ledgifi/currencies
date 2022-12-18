@@ -5,3 +5,5 @@ id_nomics: MTS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTS2.jpg
 logoKey: currencies/mts2.jpg
 name: Metis
+platform: ETH
+platform_contract: '0xa9598333b99d14d90bc81cad8af82c4c70625e75'

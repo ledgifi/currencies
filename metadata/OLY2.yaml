@@ -5,3 +5,5 @@ id_nomics: OLY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OLY2.jpg
 logoKey: currencies/oly2.jpg
 name: Oly Sport
+platform: BNB
+platform_contract: '0x74c1815474a75dcb366223107cde1bba4a1a7296'

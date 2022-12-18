@@ -3,3 +3,5 @@ fiat: false
 id: BITCOININU
 id_nomics: BITCOININU
 name: Bitcoin Inu
+platform: BNB
+platform_contract: '0x5510244c94e8f368b225e389fb833f432b8678ca'

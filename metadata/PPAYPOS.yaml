@@ -5,3 +5,5 @@ id_nomics: PPAYPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PPAYPOS.jpg
 logoKey: currencies/ppaypos.jpg
 name: Plasma Finance (Polygon)
+platform: MATIC
+platform_contract: '0x08158a6b5d4018340387d1a302f882e98a8bc5b4'

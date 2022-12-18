@@ -6,3 +6,5 @@ id_nomics: FLUFF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLUFF.png
 logoKey: currencies/fluff.png
 name: Fluff Inu
+platform: BNB
+platform_contract: '0x4adb554a7748ea69fa8744afb2f1359b9e375721'

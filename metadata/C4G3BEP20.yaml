@@ -5,3 +5,5 @@ id_nomics: C4G3BEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/C4G3BEP20.png
 logoKey: currencies/c4g3bep20.png
 name: Cage (BEP-20)
+platform: BNB
+platform_contract: '0xde2f7e3c7fbf2d1a68fb7f64acfc05e6d5d7dd83'

@@ -5,3 +5,5 @@ id_nomics: OBS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OBS3.jpg
 logoKey: currencies/obs3.jpg
 name: Obsidium
+platform: BNB
+platform_contract: '0xc6f509274fcc1f485644167cb911fd0c61545e6c'

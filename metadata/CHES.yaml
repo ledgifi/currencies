@@ -3,3 +3,5 @@ fiat: false
 id: CHES
 id_nomics: CHES
 name: ChainEstateToken
+platform: BNB
+platform_contract: '0xe3647FB6024355dBC93133e6c4c74277366A4bdC'

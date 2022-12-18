@@ -5,3 +5,5 @@ id_nomics: SPL3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPL3.jpeg
 logoKey: currencies/spl3.jpeg
 name: Swapl Swap
+platform: BNB
+platform_contract: '0x0DDc6D405EC6E2d8FbBa8840d9ed3949Fb79e456'

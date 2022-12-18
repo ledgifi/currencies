@@ -6,3 +6,5 @@ id_nomics: COT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COT.png
 logoKey: currencies/cot.png
 name: CoTrader
+platform: ETH
+platform_contract: '0x5c872500c00565505f3624ab435c222e558e9ff8'

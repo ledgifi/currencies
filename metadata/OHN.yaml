@@ -5,3 +5,5 @@ id_nomics: OHN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OHN.jpeg
 logoKey: currencies/ohn.jpeg
 name: OpenHandsNetwork
+platform: BNB
+platform_contract: '0xfa92152633fC4488D94a8ee70C11A6e332733bCD'

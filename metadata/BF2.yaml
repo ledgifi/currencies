@@ -5,3 +5,5 @@ id_nomics: BF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BF2.jpg
 logoKey: currencies/bf2.jpg
 name: Boom Finance
+platform: BNB
+platform_contract: '0x24a5de3fe61733955508fdbcad39b37f0afe3dd2'

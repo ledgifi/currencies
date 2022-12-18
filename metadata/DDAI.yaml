@@ -5,3 +5,5 @@ id_nomics: DDAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DDAI.jpg
 logoKey: currencies/ddai.jpg
 name: dForce DAI
+platform: ETH
+platform_contract: '0x02285acaafeb533e03a7306c55ec031297df9224'

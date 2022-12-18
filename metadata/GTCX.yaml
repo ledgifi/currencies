@@ -5,3 +5,5 @@ id_nomics: GTCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GTCX.jpg
 logoKey: currencies/gtcx.jpg
 name: The Goodyear Tire & Rubber Company Token
+platform: ETH
+platform_contract: '0xd0943ff6a36b421189d2af4a03bd53d31f55a624'

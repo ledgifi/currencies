@@ -3,3 +3,5 @@ fiat: false
 id: APYSBEP20
 id_nomics: APYSBEP20
 name: APYSwap (BEP-20)
+platform: BNB
+platform_contract: '0x37dfacfaeda801437ff648a1559d73f4c40aacb7'

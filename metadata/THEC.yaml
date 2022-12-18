@@ -3,3 +3,5 @@ fiat: false
 id: THEC
 id_nomics: THEC
 name: TheCoin
+platform: ETH
+platform_contract: '0x5f886994b7ae0523b6b12e88b0d41e0f0cdab277'

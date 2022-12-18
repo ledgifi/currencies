@@ -5,3 +5,5 @@ id_nomics: WATT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WATT.jpeg
 logoKey: currencies/watt.jpeg
 name: Wattify
+platform: BNB
+platform_contract: '0x3d290b2f39F64e1df62f5398B9D753B3badeeCE0'

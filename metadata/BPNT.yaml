@@ -5,3 +5,5 @@ id_nomics: BPNT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BPNT.png
 logoKey: currencies/bpnt.png
 name: Bitway Pro Network
+platform: BNB
+platform_contract: '0xd0d4734644fbbbb4353b43e62af860ba0fd4d5d0'

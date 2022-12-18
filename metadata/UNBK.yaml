@@ -5,3 +5,5 @@ id_nomics: UNBK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNBK.jpg
 logoKey: currencies/unbk.jpg
 name: Unbanked
+platform: ETH
+platform_contract: '0x06b884e60794ce02aafab13791b59a2e6a07442f'

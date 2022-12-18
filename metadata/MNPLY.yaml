@@ -5,3 +5,5 @@ id_nomics: MNPLY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MNPLY.jpg
 logoKey: currencies/mnply.jpg
 name: Monopoly Millionaire
+platform: BNB
+platform_contract: '0x2b433875241fbad52c5987636aca58b5407f63e8'

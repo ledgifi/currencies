@@ -5,3 +5,5 @@ id_nomics: MM5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MM5.jpg
 logoKey: currencies/mm5.jpg
 name: Monkey Money
+platform: ETH
+platform_contract: '0x1850b846fdb4d2ef026f54d520aa0322873f0cbd'

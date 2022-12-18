@@ -6,3 +6,5 @@ id_nomics: MOONX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOONX.jpg
 logoKey: currencies/moonx.jpg
 name: MoonX
+platform: BNB
+platform_contract: '0x053f574b35eb29deb6817bd8b3f8c848c6abbe53'

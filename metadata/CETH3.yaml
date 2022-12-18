@@ -5,3 +5,5 @@ id_nomics: CETH3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CETH3.jpg
 logoKey: currencies/ceth3.jpg
 name: Wrapped ETH (Celo)
+platform: CELO
+platform_contract: '0x2DEf4285787d58a2f811AF24755A8150622f4361'

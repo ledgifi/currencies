@@ -8,3 +8,5 @@ id_nomics: NMR
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/nmr.svg
 logoKey: currencies/nmr.svg
 name: Numeraire
+platform: ETH
+platform_contract: '0x1776e1f26f98b1a5df9cd347953a26dd3cb46671'

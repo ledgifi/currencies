@@ -5,3 +5,5 @@ id_nomics: QGOLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QGOLD.jpg
 logoKey: currencies/qgold.jpg
 name: Quantum-Gold Digital
+platform: BNB
+platform_contract: '0x6c09bb7b24d950a7ab6b1654a9c74a6284098901'

@@ -5,3 +5,5 @@ id_nomics: GAU2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAU2.jpeg
 logoKey: currencies/gau2.jpeg
 name: Gauntlet
+platform: BNB
+platform_contract: '0xff5d7f91382dcb2a75bb3ffa968e5044567ac4eb'

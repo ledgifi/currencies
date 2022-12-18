@@ -5,3 +5,5 @@ id_nomics: SGBHRC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SGBHRC20.jpg
 logoKey: currencies/sgbhrc20.jpg
 name: SGB
+platform: HT
+platform_contract: '0x7f8ab1593f84b0c450385a3f70e921cb796401ba'

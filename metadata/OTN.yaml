@@ -6,3 +6,5 @@ id_nomics: OTN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/otn.svg
 logoKey: currencies/otn.svg
 name: Open Trading Network
+platform: ETH
+platform_contract: '0x881ef48211982d01e2cb7092c915e647cd40d85c'

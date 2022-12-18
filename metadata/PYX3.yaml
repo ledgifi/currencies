@@ -5,3 +5,5 @@ id_nomics: PYX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PYX3.png
 logoKey: currencies/pyx3.png
 name: PYX Token
+platform: BNB
+platform_contract: '0xcfe808d8898401263271b37afaf452fe7a520309'

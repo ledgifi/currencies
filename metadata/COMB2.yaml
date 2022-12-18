@@ -5,3 +5,5 @@ id_nomics: COMB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COMB2.jpg
 logoKey: currencies/comb2.jpg
 name: Combo
+platform: ETH
+platform_contract: '0x7c81542ed859a2061538fee22b6544a235b9557d'

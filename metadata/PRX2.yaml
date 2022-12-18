@@ -5,3 +5,5 @@ id_nomics: PRX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRX2.png
 logoKey: currencies/prx2.png
 name: Primex Token
+platform: BNB
+platform_contract: '0xa0c2a0a34c04135429a38f7f9a4354090e00145a'

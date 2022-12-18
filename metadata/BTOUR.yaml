@@ -6,3 +6,5 @@ id_nomics: BTOUR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTOUR.jpg
 logoKey: currencies/btour.jpg
 name: BTour Chain
+platform: ETH
+platform_contract: '0xfaa965d80d956de59808974e33ada054f7696de5'

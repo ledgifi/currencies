@@ -3,3 +3,5 @@ fiat: false
 id: CNGT
 id_nomics: CNGT
 name: CryptoNinja Governance Token
+platform: MATIC
+platform_contract: '0x8930568b98e48aa02cc660992a9223e596c528b8'

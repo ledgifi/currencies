@@ -6,3 +6,5 @@ id_nomics: NGOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NGOT.jpg
 logoKey: currencies/ngot.jpg
 name: ngot
+platform: ETH
+platform_contract: '0x1ebd8d3ca115451b9b6bbaa7ee2f7b0f96e49fd8'

@@ -6,3 +6,5 @@ id_nomics: NSFW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NSFW.jpg
 logoKey: currencies/nsfw.jpg
 name: xxxNifty
+platform: BNB
+platform_contract: '0x9daaa05946e486add2c81e0d32d936866b8449d9'

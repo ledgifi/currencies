@@ -5,3 +5,5 @@ id_nomics: WMART
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WMART.jpg
 logoKey: currencies/wmart.jpg
 name: Whalmart
+platform: BNB
+platform_contract: '0xb6c25fedc58fa52774608058c1751cf3d6b852ed'

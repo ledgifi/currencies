@@ -6,3 +6,5 @@ id_nomics: SERIES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SERIES.jpeg
 logoKey: currencies/series.jpeg
 name: Bitseries
+platform: BNB
+platform_contract: '0xfe3d2FDAE717AaFB009447bcd390aF1CfF83381b'

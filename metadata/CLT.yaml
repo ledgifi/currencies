@@ -6,3 +6,5 @@ id_nomics: CLT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLT.jpg
 logoKey: currencies/clt.jpg
 name: CoinLoan
+platform: ETH
+platform_contract: '0x2001f2a0cf801ecfda622f6c28fb6e10d803d969'

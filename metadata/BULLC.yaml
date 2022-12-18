@@ -5,3 +5,5 @@ id_nomics: BULLC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BULLC.png
 logoKey: currencies/bullc.png
 name: Bull Finance
+platform: BNB
+platform_contract: '0x9305cc565a090105645262f8011647a63463187e'

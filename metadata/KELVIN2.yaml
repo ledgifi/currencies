@@ -3,3 +3,5 @@ fiat: false
 id: KELVIN2
 id_nomics: KELVIN2
 name: Kelvin
+platform: FTM
+platform_contract: '0x08d70a47d3f28bbf755ae050a783844b40ae5761'

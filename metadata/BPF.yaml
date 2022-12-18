@@ -5,3 +5,5 @@ id_nomics: BPF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BPF.jpg
 logoKey: currencies/bpf.jpg
 name: BITPIF
+platform: ETH
+platform_contract: '0x5197fbe1a86679ff1360e27862bf88b0c5119bd8'

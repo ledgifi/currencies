@@ -5,3 +5,5 @@ id_nomics: BZH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BZH.jpg
 logoKey: currencies/bzh.jpg
 name: BZH TOKEN
+platform: ETH
+platform_contract: '0x3685ee91777e3ed4ba4122c429c504df833c3b26'

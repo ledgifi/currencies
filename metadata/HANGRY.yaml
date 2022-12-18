@@ -6,3 +6,5 @@ id_nomics: HANGRY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HANGRY.jpg
 logoKey: currencies/hangry.jpg
 name: HangryBirds
+platform: ETH
+platform_contract: '0xda5cae7bf4815e6ce3b2488ee102e67403245679'

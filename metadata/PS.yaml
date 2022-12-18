@@ -5,3 +5,5 @@ id_nomics: PS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PS.png
 logoKey: currencies/ps.png
 name: Paul Sports Coin
+platform: ETH
+platform_contract: '0x9686b875439dd142b0f2008b6596d6313a68a937'

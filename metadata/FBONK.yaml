@@ -3,3 +3,5 @@ fiat: false
 id: FBONK
 id_nomics: FBONK
 name: FuseBonk
+platform: FUSE
+platform_contract: '0x205cdc197afb73490f813c42e8e8a5fb7a801ce3'

@@ -6,3 +6,5 @@ id_nomics: LUNAPAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUNAPAD.jpg
 logoKey: currencies/lunapad.jpg
 name: Luna-Pad
+platform: BNB
+platform_contract: '0xd1fdf57241df3c36dad469060cac9f1ea2ee7585'

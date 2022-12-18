@@ -5,3 +5,5 @@ id_nomics: ROBOT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROBOT2.png
 logoKey: currencies/robot2.png
 name: RobotSwap
+platform: BNB
+platform_contract: '0x8cf7cce44fa4ff02d212393e0f611c321074c4a4'

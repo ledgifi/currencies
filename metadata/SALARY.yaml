@@ -3,3 +3,5 @@ fiat: false
 id: SALARY
 id_nomics: SALARY
 name: Salary
+platform: ETH
+platform_contract: '0x3cefa3551d9b3e674c0efaa0a798afcdef8b56c4'

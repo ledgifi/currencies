@@ -6,3 +6,5 @@ id_nomics: KNB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KNB.jpg
 logoKey: currencies/knb.jpg
 name: Kronobit
+platform: BNB
+platform_contract: '0x197dc4bfc82ad08e3fbaa930a869485236e6a792'

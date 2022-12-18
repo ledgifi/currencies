@@ -5,3 +5,5 @@ id_nomics: PDC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PDC2.jpg
 logoKey: currencies/pdc2.jpg
 name: PLATINUM DIGITAL CORPORATED
+platform: ETH
+platform_contract: '0xaf0336137c2f68e881cea7d95059e6b2ddcf7e57'

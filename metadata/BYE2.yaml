@@ -3,3 +3,5 @@ fiat: false
 id: BYE2
 id_nomics: BYE2
 name: Basis Yield ETH Index
+platform: OPETH
+platform_contract: '0x927eb0dbc5c3fd172fdfa72d563f71612ecb6122'

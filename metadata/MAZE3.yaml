@@ -5,3 +5,5 @@ id_nomics: MAZE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAZE3.png
 logoKey: currencies/maze3.png
 name: NFT MAZE
+platform: BNB
+platform_contract: '0xbc23833d965632cec84bf98181cb84c31bbdfa94'

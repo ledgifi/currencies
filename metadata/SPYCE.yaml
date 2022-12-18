@@ -5,3 +5,5 @@ id_nomics: SPYCE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPYCE.jpg
 logoKey: currencies/spyce.jpg
 name: SPYCE
+platform: ETH
+platform_contract: '0x2b0ef43e0111c8acaeaa26d93fa77048ef2a2cbf'

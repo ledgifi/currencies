@@ -6,3 +6,5 @@ id_nomics: BUKH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUKH.jpg
 logoKey: currencies/bukh.jpg
 name: bUKHI
+platform: ETH
+platform_contract: '0xefe2afb5f2a9ea8ec6d8a57fe88febcfe29db813'

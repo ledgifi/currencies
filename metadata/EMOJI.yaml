@@ -5,3 +5,5 @@ id_nomics: EMOJI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EMOJI.jpg
 logoKey: currencies/emoji.jpg
 name: Emojitoken
+platform: ETH
+platform_contract: '0xe70be6622d2316003d07a659dbbdb47241a68ff7'

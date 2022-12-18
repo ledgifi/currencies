@@ -6,3 +6,5 @@ id_nomics: INXT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/inxt.jpg
 logoKey: currencies/inxt.jpg
 name: Internxt
+platform: ETH
+platform_contract: '0xa8006c4ca56f24d6836727d106349320db7fef82'

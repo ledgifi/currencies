@@ -6,3 +6,5 @@ id_nomics: TEAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TEAT.jpg
 logoKey: currencies/teat.jpg
 name: TEAL
+platform: ETH
+platform_contract: '0x38d58b82cb24a3e0410a7991f255174c9fd8093b'

@@ -5,3 +5,5 @@ id_nomics: DGS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DGS3.png
 logoKey: currencies/dgs3.png
 name: DoggyStyleToken
+platform: BNB
+platform_contract: '0xd5f27605bc3cdecff729538b3e8c009e2dad6f51'

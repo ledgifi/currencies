@@ -5,3 +5,5 @@ id_nomics: THOR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THOR3.jpg
 logoKey: currencies/thor3.jpg
 name: Asgard Finance
+platform: BNB
+platform_contract: '0x91a92482526eb04e60e4372a919b74027f1ad935'

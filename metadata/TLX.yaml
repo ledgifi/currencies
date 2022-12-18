@@ -5,3 +5,5 @@ id_nomics: TLX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TLX.png
 logoKey: currencies/tlx.png
 name: Telex
+platform: ETH
+platform_contract: '0xb3616550abc8af79c7a5902def9efa3bc9a95200'

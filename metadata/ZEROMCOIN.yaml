@@ -3,3 +3,5 @@ fiat: false
 id: ZEROMCOIN
 id_nomics: ZEROMCOIN
 name: Zerom Coin
+platform: BNB
+platform_contract: '0x55d756d95c7e4a452b16fce9dd34c88405a98dca'

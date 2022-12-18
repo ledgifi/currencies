@@ -3,3 +3,5 @@ fiat: false
 id: ARCADE
 id_nomics: ARCADE
 name: $ARCADE
+platform: ETH
+platform_contract: '0xd110efc70d8da69856fde372e34f72450b578e82'

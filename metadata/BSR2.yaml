@@ -5,3 +5,5 @@ id_nomics: BSR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSR2.jpg
 logoKey: currencies/bsr2.jpg
 name: BinStarter
+platform: BNB
+platform_contract: '0xab287e6d370c61f105630e656b5468acb4d00423'

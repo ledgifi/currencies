@@ -3,3 +3,5 @@ fiat: false
 id: ATMG
 id_nomics: ATMG
 name: ATMG
+platform: BNB
+platform_contract: '0x70df95168c90d21563b9dd2d5ae87364ee1ae05e'

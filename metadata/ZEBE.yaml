@@ -3,3 +3,5 @@ fiat: false
 id: ZEBE
 id_nomics: ZEBE
 name: Zebe Finance
+platform: BNB
+platform_contract: '0x107fb562a50c6877deb16b459bb3f434709b085e'

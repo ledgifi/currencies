@@ -5,3 +5,5 @@ id_nomics: CAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAL.jpg
 logoKey: currencies/cal.jpg
 name: Caliente
+platform: BNB
+platform_contract: '0xdb0820dc19726062a95c52c3ac037084d51f8b4e'

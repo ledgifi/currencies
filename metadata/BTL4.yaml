@@ -5,3 +5,5 @@ id_nomics: BTL4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTL4.jpg
 logoKey: currencies/btl4.jpg
 name: Battle Saga
+platform: BNB
+platform_contract: '0x708955db0d4c52ffbf9aa34af7f3ca8bf07390a8'

@@ -6,3 +6,5 @@ id_nomics: BCUG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCUG.jpg
 logoKey: currencies/bcug.jpg
 name: Blockchain Cuties Universe Governance
+platform: ETH
+platform_contract: '0x14da7b27b2e0fedefe0a664118b0c9bc68e2e9af'

@@ -3,3 +3,5 @@ fiat: false
 id: BMRS
 id_nomics: BMRS
 name: Baby Mars
+platform: AVAX
+platform_contract: '0x01ea6706712a32eb520a051dce3fa98acc321c8c'

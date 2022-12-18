@@ -6,3 +6,5 @@ id_nomics: DRACE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRACE.jpg
 logoKey: currencies/drace.jpg
 name: DeathRoad
+platform: BNB
+platform_contract: '0xa6c897caaca3db7fd6e2d2ce1a00744f40ab87bb'

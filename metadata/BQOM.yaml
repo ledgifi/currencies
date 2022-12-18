@@ -3,3 +3,5 @@ fiat: false
 id: BQOM
 id_nomics: BQOM
 name: BabyQom
+platform: ETH
+platform_contract: '0x6168c26bc566763f42d43ae4a537490cbefdd3be'

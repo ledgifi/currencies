@@ -3,3 +3,5 @@ fiat: false
 id: IBBT
 id_nomics: IBBT
 name: iBBT Utility Token
+platform: ETH
+platform_contract: '0x691c25c461dafc47792b6e4d674fbb637bca1c6f'

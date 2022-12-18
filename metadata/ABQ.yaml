@@ -5,3 +5,5 @@ id_nomics: ABQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ABQ.jpg
 logoKey: currencies/abq.jpg
 name: Aardbanq DAO
+platform: ETH
+platform_contract: '0xf9e149a2935bd69e80b50018134132794f8b43a2'

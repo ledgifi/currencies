@@ -3,3 +3,5 @@ fiat: false
 id: DLTABEP20
 id_nomics: DLTABEP20
 name: Chainport.io-Peg delta.theta
+platform: BNB
+platform_contract: '0x3a06212763caf64bf101daa4b0cebb0cd393fa1a'

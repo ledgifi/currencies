@@ -3,3 +3,5 @@ fiat: false
 id: KUSA
 id_nomics: KUSA
 name: Kusa Token
+platform: BNB
+platform_contract: '0xcc21fd52e0e01e82b33d653a148d1aaead62320c'

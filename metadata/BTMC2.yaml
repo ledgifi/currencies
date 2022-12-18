@@ -5,3 +5,5 @@ id_nomics: BTMC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTMC2.jpg
 logoKey: currencies/btmc2.jpg
 name: Baby Tom Coin
+platform: BNB
+platform_contract: '0xb0aff2d1ac081123a3cee8c0f8bb67ed734fd816'

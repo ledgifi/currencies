@@ -3,3 +3,5 @@ fiat: false
 id: SBTT
 id_nomics: SBTT
 name: Small Biz  Transaction Token
+platform: ETH
+platform_contract: '0x353f7ae8e4776df5b88035d8fd33a42bd247d492'

@@ -5,3 +5,5 @@ id_nomics: 7ET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/7ET.jpg
 logoKey: currencies/7et.jpg
 name: 7eternity
+platform: BNB
+platform_contract: '0xdab1169d39c8a5673bd36e97eba3f137e2e4c649'

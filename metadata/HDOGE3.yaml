@@ -5,3 +5,5 @@ id_nomics: HDOGE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HDOGE3.jpeg
 logoKey: currencies/hdoge3.jpeg
 name: HONESTDOGE
+platform: BNB
+platform_contract: '0x7373d008a6d770b86d295886bb5d21ec09d7cee0'

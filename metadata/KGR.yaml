@@ -5,3 +5,5 @@ id_nomics: KGR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KGR.jpg
 logoKey: currencies/kgr.jpg
 name: Kagra
+platform: ETH
+platform_contract: '0xe445e067cb17b62b15f4883b66b69e05ea7b327d'

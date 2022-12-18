@@ -5,3 +5,5 @@ id_nomics: BGNS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BGNS.png
 logoKey: currencies/bgns.png
 name: BitGains
+platform: BNB
+platform_contract: '0xf29e9e04142b882f8dc2793fef68b3d171527bfc'

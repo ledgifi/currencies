@@ -5,3 +5,5 @@ id_nomics: MBT9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MBT9.jpg
 logoKey: currencies/mbt9.jpg
 name: MetaB
+platform: BNB
+platform_contract: '0x44ed6e60b5a820983cd0fc174bbb3604f9c33448'

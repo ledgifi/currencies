@@ -3,3 +3,5 @@ fiat: false
 id: PPPC
 id_nomics: PPPC
 name: PPPC
+platform: BNB
+platform_contract: '0x9d06de1af260a1eb3bffcf297c40953bfea5ec38'

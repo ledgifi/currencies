@@ -3,3 +3,5 @@ fiat: false
 id: KGOLD
 id_nomics: KGOLD
 name: KGOLD
+platform: BNB
+platform_contract: '0x972ef1425f8563eb0950884d94a2335a3860d254'

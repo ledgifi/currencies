@@ -5,3 +5,5 @@ id_nomics: BZP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BZP.jpg
 logoKey: currencies/bzp.jpg
 name: BitZipp
+platform: ETH
+platform_contract: '0x518eb8f17a8baf8dc1d1847e6bd70eae82a6e7b1'

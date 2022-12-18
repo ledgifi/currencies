@@ -5,3 +5,5 @@ id_nomics: EXCALIBUR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EXCALIBUR.png
 logoKey: currencies/excalibur.png
 name: Excaliburcoin
+platform: ETH
+platform_contract: '0x2c594e1cb006e86c3879b1d8191a8b059af52be7'

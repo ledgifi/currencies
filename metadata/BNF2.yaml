@@ -5,3 +5,5 @@ id_nomics: BNF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNF2.jpg
 logoKey: currencies/bnf2.jpg
 name: Bunny Farm
+platform: ETH
+platform_contract: '0xc0142666e595e54c9bf54655b91c36da573e7b91'

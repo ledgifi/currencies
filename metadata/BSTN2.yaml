@@ -5,3 +5,5 @@ id_nomics: BSTN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSTN2.png
 logoKey: currencies/bstn2.png
 name: Bastion Protocol
+platform: AURORA3
+platform_contract: '0x9f1F933C660a1DC856F0E0Fe058435879c5CCEf0'

@@ -3,3 +3,5 @@ fiat: false
 id: TESTUSDC
 id_nomics: TESTUSDC
 name: CROFINALTEST
+platform: CRO
+platform_contract: '0x9a03ac728de57f208aa216b2dea45dfea65d5494'

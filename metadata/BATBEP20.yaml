@@ -5,3 +5,5 @@ id_nomics: BATBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BATBEP20.jpg
 logoKey: currencies/batbep20.jpg
 name: Basic Attention Token (BEP-20)
+platform: BNB
+platform_contract: '0x101d82428437127bf1608f699cd651e6abf9766e'

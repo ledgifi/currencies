@@ -5,3 +5,5 @@ id_nomics: TBYTE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TBYTE.jpeg
 logoKey: currencies/tbyte.jpeg
 name: Terabyte
+platform: BNB
+platform_contract: '0x1cB777EA7E69B327Dfb9d5BD5b18Be5912fB7467'

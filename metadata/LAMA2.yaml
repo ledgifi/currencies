@@ -5,3 +5,5 @@ id_nomics: LAMA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LAMA2.jpg
 logoKey: currencies/lama2.jpg
 name: MetaLama
+platform: BNB
+platform_contract: '0x3933d585d7c41ee55fe93342f8d9e27632f1d169'

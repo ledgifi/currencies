@@ -5,3 +5,5 @@ id_nomics: MILK3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MILK3.jpg
 logoKey: currencies/milk3.jpg
 name: Milk Token
+platform: BNB
+platform_contract: '0xb7cef49d89321e22dd3f51a212d58398ad542640'

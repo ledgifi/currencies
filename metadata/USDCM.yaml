@@ -3,3 +3,5 @@ fiat: false
 id: USDCM
 id_nomics: USDCM
 name: USDC@moonriver
+platform: MOVR
+platform_contract: '0x748134b5f553f2bcbd78c6826de99a70274bdeb3'

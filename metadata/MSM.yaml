@@ -5,3 +5,5 @@ id_nomics: MSM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSM.png
 logoKey: currencies/msm.png
 name: Meta Shiba Millionaire
+platform: BNB
+platform_contract: '0xf17f850f155e4b7a32b35206f93128efafeca777'

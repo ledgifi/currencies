@@ -5,3 +5,5 @@ id_nomics: PDX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PDX2.jpg
 logoKey: currencies/pdx2.jpg
 name: PDX
+platform: ETH
+platform_contract: '0x5f33d158ca7275848f70a3f149b421190df85b32'

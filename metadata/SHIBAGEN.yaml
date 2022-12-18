@@ -3,3 +3,5 @@ fiat: false
 id: SHIBAGEN
 id_nomics: SHIBAGEN
 name: Shibagen
+platform: ETH
+platform_contract: '0x9a147bfe8e2b54828f031e08acf008155608895b'

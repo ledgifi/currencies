@@ -5,3 +5,5 @@ id_nomics: KGF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KGF.jpg
 logoKey: currencies/kgf.jpg
 name: KGF
+platform: BNB
+platform_contract: '0x0b8d655c93aef35c6eeb1036fff3b5b196b7f638'

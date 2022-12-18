@@ -3,3 +3,5 @@ fiat: false
 id: ASTAC
 id_nomics: ASTAC
 name: Asta Coin
+platform: ETH
+platform_contract: '0xef0fb1be5450dfe91bb8932f17315449d0f2f8cc'

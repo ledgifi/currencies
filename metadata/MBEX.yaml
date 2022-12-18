@@ -5,3 +5,5 @@ id_nomics: MBEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MBEX.png
 logoKey: currencies/mbex.png
 name: Monkey Billionaire Exchange
+platform: BNB
+platform_contract: '0xf31d74b47ba516bd2722d167bcce142483282635'

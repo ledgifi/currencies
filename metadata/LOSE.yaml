@@ -5,3 +5,5 @@ id_nomics: LOSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOSE.png
 logoKey: currencies/lose.png
 name: KINGLOSER
+platform: BNB
+platform_contract: '0x6f9d06bf047f8eb154d7403999529f4338d1889f'

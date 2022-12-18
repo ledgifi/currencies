@@ -5,3 +5,5 @@ id_nomics: MZK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MZK.png
 logoKey: currencies/mzk.png
 name: Muzika Network
+platform: ETH
+platform_contract: '0x1f35a281036be57e64e7e7a2a556b4f888a1b829'

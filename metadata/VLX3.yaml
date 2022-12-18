@@ -5,3 +5,5 @@ id_nomics: VLX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VLX3.png
 logoKey: currencies/vlx3.png
 name: Volex
+platform: BNB
+platform_contract: '0x97782ddf3da0e65d97ec27f616219b1243203ccc'

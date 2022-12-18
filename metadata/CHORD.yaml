@@ -5,3 +5,5 @@ id_nomics: CHORD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHORD.png
 logoKey: currencies/chord.png
 name: Chord Protocol
+platform: BNB
+platform_contract: '0xb2f7797389ad34ebd3a30ac6402861844fac7f5e'

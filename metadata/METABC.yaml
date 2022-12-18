@@ -6,3 +6,5 @@ id_nomics: METABC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METABC.jpg
 logoKey: currencies/metabc.jpg
 name: Meta Billionaires Club
+platform: BNB
+platform_contract: '0xe5e33d3fff677218be30b33df5906f53b426875c'

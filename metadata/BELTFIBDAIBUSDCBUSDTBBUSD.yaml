@@ -3,3 +3,5 @@ fiat: false
 id: BELTFIBDAIBUSDCBUSDTBBUSD
 id_nomics: BELTFIBDAIBUSDCBUSDTBBUSD
 name: bDAI+bUSDC+bUSDT+bBUSD
+platform: BNB
+platform_contract: '0x86afa7ff694ab8c985b79733745662760e454169'

@@ -5,3 +5,5 @@ id_nomics: MINILUNA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINILUNA.png
 logoKey: currencies/miniluna.png
 name: Mini Luna
+platform: BNB
+platform_contract: '0xc5ff216d76fcef847843b4a9ef3696c08d19976e'

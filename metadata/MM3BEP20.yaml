@@ -5,3 +5,5 @@ id_nomics: MM3BEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MM3BEP20.jpg
 logoKey: currencies/mm3bep20.jpg
 name: MMToken (BEP-20)
+platform: BNB
+platform_contract: '0x73f059db0182dc2ed716d028e1b13033cfcbf63b'

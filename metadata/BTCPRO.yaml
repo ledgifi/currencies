@@ -5,3 +5,5 @@ id_nomics: BTCPRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCPRO.png
 logoKey: currencies/btcpro.png
 name: Bitcoin Pro
+platform: ETH
+platform_contract: '0x723cbfc05e2cfcc71d3d89e770d32801a5eef5ab'

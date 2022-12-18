@@ -3,3 +3,5 @@ fiat: false
 id: ETHTO5K
 id_nomics: ETHTO5K
 name: Buy Dip
+platform: ETH
+platform_contract: '0xcac74a9da761d1ac65064a12100d90d6b15191a1'

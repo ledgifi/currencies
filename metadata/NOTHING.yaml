@@ -5,3 +5,5 @@ id_nomics: NOTHING
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NOTHING.jpg
 logoKey: currencies/nothing.jpg
 name: Probably Nothing
+platform: BNB
+platform_contract: '0x8ec64c64813b2e8f38776bae0d90e644122c767b'

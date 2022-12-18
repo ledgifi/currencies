@@ -6,3 +6,5 @@ id_nomics: RPM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RPM.png
 logoKey: currencies/rpm.png
 name: Repme
+platform: ETH
+platform_contract: '0x490c95be16384e1f28b9e864e98ffecfcbff386d'

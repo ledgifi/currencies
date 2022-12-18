@@ -5,3 +5,5 @@ id_nomics: DANK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DANK2.jpg
 logoKey: currencies/dank2.jpg
 name: Dank Token
+platform: ETH
+platform_contract: '0x0cb8d0b37c7487b11d57f1f33defa2b1d3cfccfe'

@@ -3,3 +3,5 @@ fiat: false
 id: FUTURESOLDIER
 id_nomics: FUTURESOLDIER
 name: FS
+platform: BNB
+platform_contract: '0x04a16b16fee3270a55b36f94197e46ea81f17078'

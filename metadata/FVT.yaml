@@ -6,3 +6,5 @@ id_nomics: FVT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FVT.jpg
 logoKey: currencies/fvt.jpg
 name: Finance Vote
+platform: ETH
+platform_contract: '0x45080a6531d671ddff20db42f93792a489685e32'

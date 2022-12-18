@@ -5,3 +5,5 @@ id_nomics: ASR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASR2.png
 logoKey: currencies/asr2.png
 name: AS Roma Fan Token
+platform: CHZ
+platform_contract: '0x99c577873be6112533ab84385d042c85ca150186'

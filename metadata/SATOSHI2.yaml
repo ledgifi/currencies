@@ -4,3 +4,5 @@ id: SATOSHI2
 id_nomics: SATOSHI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SATOSHI2.jpg
 name: BTC White
+platform: ETH
+platform_contract: '0x59f745b4c2ce39b2f4b9dc5628a2fa5301b3d673'

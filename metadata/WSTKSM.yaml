@@ -3,3 +3,5 @@ fiat: false
 id: WSTKSM
 id_nomics: WSTKSM
 name: Lido on Kusama
+platform: MOVR
+platform_contract: '0x3bfd113ad0329a7994a681236323fb16e16790e3'

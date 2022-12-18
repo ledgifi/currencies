@@ -3,3 +3,5 @@ fiat: false
 id: RABS
 id_nomics: RABS
 name: RABS
+platform: BNB
+platform_contract: '0x0c5b02bfd907ad403303929a0417bcd375a1e37f'

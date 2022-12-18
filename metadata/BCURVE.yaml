@@ -3,3 +3,5 @@ fiat: false
 id: BCURVE
 id_nomics: BCURVE
 name: LP-bCurve
+platform: ETH
+platform_contract: '0x3b3ac5386837dc563660fb6a0937dfaa5924333b'

@@ -5,3 +5,5 @@ id_nomics: IFXCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IFXCX.jpg
 logoKey: currencies/ifxcx.jpg
 name: Infineon Technologies AG Token
+platform: ETH
+platform_contract: '0x4bdab8164d77608294335be695e01ab3d77de3ab'

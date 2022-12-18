@@ -6,3 +6,5 @@ id_nomics: XCLR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/xclr.jpg
 logoKey: currencies/xclr.jpg
 name: ClearCoin
+platform: ETH
+platform_contract: '0x1e26b3d07e57f453cae30f7ddd2f945f5bf3ef33'

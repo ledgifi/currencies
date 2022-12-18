@@ -5,3 +5,5 @@ id_nomics: BONDLY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BONDLY.jpg
 logoKey: currencies/bondly.jpg
 name: Bondly V1 (OLD)
+platform: ETH
+platform_contract: '0xd2dda223b2617cb616c1580db421e4cfae6a8a85'

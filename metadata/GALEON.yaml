@@ -3,3 +3,5 @@ fiat: false
 id: GALEON
 id_nomics: GALEON
 name: Galeon
+platform: BNB
+platform_contract: '0x1d0ac23f03870f768ca005c84cbb6fb82aa884fd'

@@ -3,3 +3,5 @@ fiat: false
 id: EMM
 id_nomics: EMM
 name: Stable EMM Token
+platform: BNB
+platform_contract: '0xd6026508dbd3cebe57e97b1912f153defecf598b'

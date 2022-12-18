@@ -5,3 +5,5 @@ id_nomics: GHOSHARK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GHOSHARK.jpg
 logoKey: currencies/ghoshark.jpg
 name: Ghostshark
+platform: BNB
+platform_contract: '0x39a6dc94721cde9fc006229a1031770eed97c490'

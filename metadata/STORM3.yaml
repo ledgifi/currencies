@@ -5,3 +5,5 @@ id_nomics: STORM3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STORM3.png
 logoKey: currencies/storm3.png
 name: StormToken
+platform: BNB
+platform_contract: '0xc0e7ba97e9c802656c2b3ea8f27fad6e60f0a795'

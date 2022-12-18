@@ -5,3 +5,5 @@ id_nomics: SHIBATATE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBATATE.jpg
 logoKey: currencies/shibatate.jpg
 name: ShibaTate
+platform: BNB
+platform_contract: '0x3208f8c0be78957406bb89d09e6acbbf00e8c050'

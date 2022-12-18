@@ -3,3 +3,5 @@ fiat: false
 id: FADE
 id_nomics: FADE
 name: Don't Fade
+platform: ETH
+platform_contract: '0x74c90c016b8906cc2637665cbf32fa395aa2ccb0'

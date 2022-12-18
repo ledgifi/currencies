@@ -5,3 +5,5 @@ id_nomics: MRF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MRF2.png
 logoKey: currencies/mrf2.png
 name: MetaReflect
+platform: BNB
+platform_contract: '0x1e2d9f6a71857853f414bf799415b5e56c19def3'

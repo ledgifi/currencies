@@ -5,3 +5,5 @@ id_nomics: MCDOGEINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCDOGEINU.jpeg
 logoKey: currencies/mcdogeinu.jpeg
 name: MCDOGE INU
+platform: BNB
+platform_contract: '0x5f7419ab1d7244038b7341f2cc8c3d1b412f9b9c'

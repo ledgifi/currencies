@@ -3,3 +3,5 @@ fiat: false
 id: TESTXINF
 id_nomics: TESTXINF
 name: '[TEST] XINF Token'
+platform: BNB
+platform_contract: '0x231c5a28888887e9c4a8fbd267af0205cfecbe22'

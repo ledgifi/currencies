@@ -5,3 +5,5 @@ id_nomics: WMET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WMET.png
 logoKey: currencies/wmet.png
 name: Wrapped MeChain
+platform: BNB
+platform_contract: '0x1590e26aba395ab56b0ef7d362673209d42ab2d2'

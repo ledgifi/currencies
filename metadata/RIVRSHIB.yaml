@@ -5,3 +5,5 @@ id_nomics: RIVRSHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RIVRSHIB.jpg
 logoKey: currencies/rivrshib.jpg
 name: RivrShiba
+platform: MOVR
+platform_contract: '0x3d593056f3e34db7a4720d7f171447c489cfa195'

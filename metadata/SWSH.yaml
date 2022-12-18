@@ -6,3 +6,5 @@ id_nomics: SWSH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWSH.jpg
 logoKey: currencies/swsh.jpg
 name: SwapShip
+platform: ETH
+platform_contract: '0x3ac2ab91ddf57e2385089202ca221c360ced0062'

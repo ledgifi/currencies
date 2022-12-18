@@ -5,3 +5,5 @@ id_nomics: GENE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/gene.jpg
 logoKey: currencies/gene.jpg
 name: Gene Source Code Token
+platform: ETH
+platform_contract: '0x884181554dfa9e578d36379919c05c25dc4a15bb'

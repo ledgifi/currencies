@@ -5,3 +5,5 @@ id_nomics: PURR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PURR2.jpg
 logoKey: currencies/purr2.jpg
 name: PURR Vault (NFTX)
+platform: ETH
+platform_contract: '0xe581f272706581f9dcc362df3c7934e99192c492'

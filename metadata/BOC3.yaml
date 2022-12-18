@@ -3,3 +3,5 @@ fiat: false
 id: BOC3
 id_nomics: BOC3
 name: BOCOIN
+platform: BNB
+platform_contract: '0x80e7dc4e726e052b0db04ec8b506596458809c11'

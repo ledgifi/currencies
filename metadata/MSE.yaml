@@ -6,3 +6,5 @@ id_nomics: MSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSE.jpg
 logoKey: currencies/mse.jpg
 name: Museo
+platform: BNB
+platform_contract: '0xd8f3e0fe6254010ee6d309607024d1b2bf378e6b'

@@ -6,3 +6,5 @@ id_nomics: ECOREAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECOREAL.png
 logoKey: currencies/ecoreal.png
 name: Ecoreal Estate
+platform: ETH
+platform_contract: '0xb052f8a33d8bb068414eade06af6955199f9f010'

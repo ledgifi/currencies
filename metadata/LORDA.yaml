@@ -6,3 +6,5 @@ id_nomics: LORDA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LORDA.jpg
 logoKey: currencies/lorda.jpg
 name: Lord Arena
+platform: BNB
+platform_contract: '0xc326622fca914ca15fd44dd070232ce3cd358dde'

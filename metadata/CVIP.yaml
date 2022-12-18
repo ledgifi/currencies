@@ -6,3 +6,5 @@ id_nomics: CVIP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CVIP.jpg
 logoKey: currencies/cvip.jpg
 name: CVIP
+platform: BNB
+platform_contract: '0xe5a46bf898ce7583b612e5d168073ff773d7857e'

@@ -3,3 +3,5 @@ fiat: false
 id: TELEGRAM
 id_nomics: TELEGRAM
 name: Telegram
+platform: BNB
+platform_contract: '0x090282c38f2f5ee1ddb2c3627c7f28e8f409cb0f'

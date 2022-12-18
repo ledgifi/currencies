@@ -6,3 +6,5 @@ id_nomics: UDAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UDAI.jpg
 logoKey: currencies/udai.jpg
 name: Unagii Dai
+platform: ETH
+platform_contract: '0x4ad0b81f92b16624bbcf46fc0030cfbbf8d02376'

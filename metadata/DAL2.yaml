@@ -5,3 +5,5 @@ id_nomics: DAL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAL2.png
 logoKey: currencies/dal2.png
 name: Dalmatian Inu
+platform: BNB
+platform_contract: '0x10B7090f639f99A392f75F8e961b252C9BD996a8'

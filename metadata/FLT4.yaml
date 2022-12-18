@@ -5,3 +5,5 @@ id_nomics: FLT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLT4.jpg
 logoKey: currencies/flt4.jpg
 name: Follis Token
+platform: BNB
+platform_contract: '0xef96e79e2f12f35260bb12becfe7c694be5ddf9d'

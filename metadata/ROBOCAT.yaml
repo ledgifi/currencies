@@ -5,3 +5,5 @@ id_nomics: ROBOCAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROBOCAT.jpg
 logoKey: currencies/robocat.jpg
 name: Cyber Robocat
+platform: BNB
+platform_contract: '0xf8d353592542dfbbbd2c7b309b45dd1be47db46e'

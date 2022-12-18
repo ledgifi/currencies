@@ -5,3 +5,5 @@ id_nomics: FANG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FANG.jpg
 logoKey: currencies/fang.jpg
 name: Fang Gang
+platform: ETH
+platform_contract: '0xebd9dc65c723cadc0ee4ee5a8013ddd3db98f250'

@@ -3,3 +3,5 @@ fiat: false
 id: BTCPRINTER
 id_nomics: BTCPRINTER
 name: BTCPrinter
+platform: AVAX
+platform_contract: '0x9c2adabbf6e6947aeef4ce0532754827d8774d4d'

@@ -5,3 +5,5 @@ id_nomics: PCHF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PCHF2.jpg
 logoKey: currencies/pchf2.jpg
 name: Peachfolio
+platform: BNB
+platform_contract: '0xc1cbfb96a1d5361590b8df04ef78de2fa3178390'

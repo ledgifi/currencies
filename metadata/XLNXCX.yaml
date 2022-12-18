@@ -5,3 +5,5 @@ id_nomics: XLNXCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XLNXCX.jpg
 logoKey: currencies/xlnxcx.jpg
 name: Xilinx, Inc. Token
+platform: ETH
+platform_contract: '0x931a9350333c79d9da373ee857ca97273c5a595f'

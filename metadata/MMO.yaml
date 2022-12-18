@@ -6,3 +6,5 @@ id_nomics: MMO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MMO.png
 logoKey: currencies/mmo.png
 name: MMOCoin
+platform: BNB
+platform_contract: '0x0aa086e7a108d387de63294fe2a88b05820a9855'

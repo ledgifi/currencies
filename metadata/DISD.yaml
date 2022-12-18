@@ -3,3 +3,5 @@ fiat: false
 id: DISD
 id_nomics: DISD
 name: DisDAO
+platform: ETH
+platform_contract: '0x5bf34fa634b4eccaafa7609fccfd6537cdc9f920'

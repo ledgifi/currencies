@@ -8,3 +8,5 @@ id_nomics: GTO
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/gto.svg
 logoKey: currencies/gto.svg
 name: Gifto
+platform: ETH
+platform_contract: '0xc5bbae50781be1669306b9e001eff57a2957b09d'

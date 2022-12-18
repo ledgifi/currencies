@@ -5,3 +5,5 @@ id_nomics: ICOM3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICOM3.png
 logoKey: currencies/icom3.png
 name: ICOM
+platform: BNB
+platform_contract: '0x58a52275e9a1f47f3163a89eaad1bc04b858d427'

@@ -5,3 +5,5 @@ id_nomics: BTCAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCAKE.jpg
 logoKey: currencies/btcake.jpg
 name: Baby TCake
+platform: BNB
+platform_contract: '0xf1bfab7cf86295eec943533c6160903e900c6ee0'

@@ -5,3 +5,5 @@ id_nomics: POWER2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POWER2.png
 logoKey: currencies/power2.png
 name: Power Nodes
+platform: FTM
+platform_contract: '0x131c7afb4e5f5c94a27611f7210dfec2215e85ae'

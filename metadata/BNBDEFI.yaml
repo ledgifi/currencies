@@ -3,3 +3,5 @@ fiat: false
 id: BNBDEFI
 id_nomics: BNBDEFI
 name: BNBdefi Token
+platform: BNB
+platform_contract: '0x691ac3aa5ef222ca298a7f3852fb6990a59813eb'

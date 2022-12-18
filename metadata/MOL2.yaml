@@ -5,3 +5,5 @@ id_nomics: MOL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOL2.png
 logoKey: currencies/mol2.png
 name: Molten
+platform: ETH
+platform_contract: '0x1443e7c1cce72662545d94779120c59251447e91'

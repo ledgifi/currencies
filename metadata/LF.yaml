@@ -6,3 +6,5 @@ id_nomics: LF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LF.jpg
 logoKey: currencies/lf.jpg
 name: Linkflow
+platform: ETH
+platform_contract: '0x88665a7556e1b3c939d6661248116886845249a8'

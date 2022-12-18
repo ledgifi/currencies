@@ -5,3 +5,5 @@ id_nomics: CINO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CINO2.jpg
 logoKey: currencies/cino2.jpg
 name: Cino Games
+platform: ETH
+platform_contract: '0x7a2c7928c8cf294e25ca7db8a379278c5b0cfa0f'

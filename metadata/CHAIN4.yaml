@@ -5,3 +5,5 @@ id_nomics: CHAIN4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHAIN4.jpg
 logoKey: currencies/chain4.jpg
 name: ChainSwaps
+platform: BNB
+platform_contract: '0x6dda867f8f0019fe108e3b4c7187c1d0a2d57897'

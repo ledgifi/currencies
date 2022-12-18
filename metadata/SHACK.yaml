@@ -5,3 +5,5 @@ id_nomics: SHACK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHACK.png
 logoKey: currencies/shack.png
 name: Shack
+platform: MATIC
+platform_contract: '0x6e65ae5572df196fae40be2545ebc2a9a24eace9'

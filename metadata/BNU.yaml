@@ -6,3 +6,5 @@ id_nomics: BNU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNU.png
 logoKey: currencies/bnu.png
 name: ByteNext
+platform: BNB
+platform_contract: '0x4954e0062e0a7668a2fe3df924cd20e6440a7b77'

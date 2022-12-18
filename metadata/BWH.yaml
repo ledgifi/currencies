@@ -5,3 +5,5 @@ id_nomics: BWH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BWH.jpg
 logoKey: currencies/bwh.jpg
 name: Baby White Hamster
+platform: BNB
+platform_contract: '0x4ed2bbfc2fc7b0b7400d8d12248649045e82c708'

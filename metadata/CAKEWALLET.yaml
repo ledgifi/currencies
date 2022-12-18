@@ -5,3 +5,5 @@ id_nomics: CAKEWALLET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAKEWALLET.jpg
 logoKey: currencies/cakewallet.jpg
 name: PancakeSwap Wallet
+platform: BNB
+platform_contract: '0x03ce6d17e7a3b9fc1d43dea741de802504748674'

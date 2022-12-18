@@ -5,3 +5,5 @@ id_nomics: DOGSHOW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGSHOW.jpg
 logoKey: currencies/dogshow.jpg
 name: DogShow
+platform: BNB
+platform_contract: '0x123cd8ed77c5d8c69e88346c3cf1f7e6d231b6e8'

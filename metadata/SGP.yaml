@@ -6,3 +6,5 @@ id_nomics: SGP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SGP.png
 logoKey: currencies/sgp.png
 name: SGPay
+platform: ETH
+platform_contract: '0x33c623a2baafeb8d15dfaf3ce44095efec83d72c'

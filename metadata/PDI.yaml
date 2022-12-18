@@ -5,3 +5,5 @@ id_nomics: PDI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PDI.png
 logoKey: currencies/pdi.png
 name: Pindex
+platform: ETH
+platform_contract: '0xc50948bac01116f246259070ea6084c04649efdf'

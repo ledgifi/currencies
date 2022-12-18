@@ -5,3 +5,5 @@ id_nomics: 100K
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/100K.png
 logoKey: currencies/100k.png
 name: MarioandSonicKissBitcoin100K
+platform: BNB
+platform_contract: '0x8fff782345a2af66361bcf2679d226ee62ed8a8a'

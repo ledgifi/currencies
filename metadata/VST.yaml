@@ -5,3 +5,5 @@ id_nomics: VST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VST.png
 logoKey: currencies/vst.png
 name: Vestarin
+platform: ETH
+platform_contract: '0x552ed8253f341fb770e8badff5a0e0ee2fd57b43'

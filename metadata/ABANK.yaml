@@ -3,3 +3,5 @@ fiat: false
 id: ABANK
 id_nomics: ABANK
 name: ABANK
+platform: BNB
+platform_contract: '0xb08a9cba0f26d19d86f07445d4aa307d5c210de8'

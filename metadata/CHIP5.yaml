@@ -5,3 +5,5 @@ id_nomics: CHIP5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHIP5.jpg
 logoKey: currencies/chip5.jpg
 name: Chip
+platform: BNB
+platform_contract: '0x0e5c51ce714bd319a11bfb26bf0e13d8ceed1ebe'

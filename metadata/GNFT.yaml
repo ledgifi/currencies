@@ -6,3 +6,5 @@ id_nomics: GNFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GNFT.jpg
 logoKey: currencies/gnft.jpg
 name: GameNFT
+platform: BNB
+platform_contract: '0xd32af8bee4095a84e258a82b512356dfc0a7d2c0'

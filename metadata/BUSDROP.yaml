@@ -5,3 +5,5 @@ id_nomics: BUSDROP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUSDROP.jpg
 logoKey: currencies/busdrop.jpg
 name: BUSDrop
+platform: BNB
+platform_contract: '0xEe4cDcaE313E03903aE4Ab96c861a6874b2E37fD'

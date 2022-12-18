@@ -5,3 +5,5 @@ id_nomics: THOR6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THOR6.png
 logoKey: currencies/thor6.png
 name: Thor
+platform: AVAX
+platform_contract: '0x8f47416cae600bccf9530e9f3aeaa06bdd1caa79'

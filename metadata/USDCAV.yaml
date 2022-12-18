@@ -5,3 +5,5 @@ id_nomics: USDCAV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDCAV.jpg
 logoKey: currencies/usdcav.jpg
 name: USD Coin (Wormhole from Avalanche)
+platform: ROSE
+platform_contract: '0x05cbe6319dcc937bdbdf0931466f4ffd0d392b47'

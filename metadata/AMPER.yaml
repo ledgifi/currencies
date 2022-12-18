@@ -3,3 +3,5 @@ fiat: false
 id: AMPER
 id_nomics: AMPER
 name: Amper Token
+platform: BNB
+platform_contract: '0xa1e03b3af4794563dd34a6d38e1dbdbfe060884e'

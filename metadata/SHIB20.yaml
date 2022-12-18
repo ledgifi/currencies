@@ -3,3 +3,5 @@ fiat: false
 id: SHIB20
 id_nomics: SHIB20
 name: Shib2.0
+platform: BNB
+platform_contract: '0x90e49e8e70f5400617861a5f5b21158722b0ed95'

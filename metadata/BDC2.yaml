@@ -5,3 +5,5 @@ id_nomics: BDC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BDC2.jpg
 logoKey: currencies/bdc2.jpg
 name: BabyDogeCake
+platform: BNB
+platform_contract: '0x7181638e041e26321f9f2519e2f885f656458519'

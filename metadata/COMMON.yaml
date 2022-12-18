@@ -3,3 +3,5 @@ fiat: false
 id: COMMON
 id_nomics: COMMON
 name: LooksCommon Token
+platform: ETH
+platform_contract: '0xf43809d3cfe742d0830e14d3489b61cb6e30e0e9'

@@ -5,3 +5,5 @@ id_nomics: ETHMOVR
 logo: https://pbs.twimg.com/profile_images/1084788308595617793/DOnqq1OM_400x400.jpg
 logoKey: currencies/ethmovr.jpg
 name: Ethereum (Moonriver)
+platform: MOVR
+platform_contract: '0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c'

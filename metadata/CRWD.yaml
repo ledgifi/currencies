@@ -6,3 +6,5 @@ id_nomics: CRWD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRWD.jpg
 logoKey: currencies/crwd.jpg
 name: CrowdHero
+platform: BNB
+platform_contract: '0xca76a652ac3c3f3b8669bd41e22a9257bc6a6bc6'

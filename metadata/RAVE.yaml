@@ -5,3 +5,5 @@ id_nomics: RAVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAVE.png
 logoKey: currencies/rave.png
 name: Ravelous
+platform: ETH
+platform_contract: '0x6a09e1b7cc5cb52ffdfc585a8df51ced7063915c'

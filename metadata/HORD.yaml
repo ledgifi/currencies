@@ -6,3 +6,5 @@ id_nomics: HORD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HORD.jpg
 logoKey: currencies/hord.jpg
 name: Hord
+platform: ETH
+platform_contract: '0x43a96962254855f16b925556f9e97be436a43448'

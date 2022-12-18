@@ -6,3 +6,5 @@ id_nomics: WPKT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WPKT.jpg
 logoKey: currencies/wpkt.jpg
 name: Wrapped PKT
+platform: BNB
+platform_contract: '0x1c25222994531c4ac35e4d94bbf7552c9aa92e32'

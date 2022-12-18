@@ -5,3 +5,5 @@ id_nomics: TOMAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOMAN.png
 logoKey: currencies/toman.png
 name: IRR
+platform: BNB
+platform_contract: '0x7a532aa9a2ab86f6bd7e1dcd93d3fdd2b0b410a6'

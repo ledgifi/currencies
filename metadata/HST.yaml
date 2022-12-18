@@ -6,3 +6,5 @@ id_nomics: HST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/hst.jpg
 logoKey: currencies/hst.jpg
 name: Decision Token
+platform: ETH
+platform_contract: '0x554c20b7c486beee439277b4540a434566dc4c02'

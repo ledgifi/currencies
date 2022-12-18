@@ -3,3 +3,5 @@ fiat: false
 id: XMOON
 id_nomics: XMOON
 name: Moons (xDai)
+platform: XDAI
+platform_contract: '0x1e16aa4df73d29c029d94ceda3e3114ec191e25a'

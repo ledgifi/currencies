@@ -5,3 +5,5 @@ id_nomics: LCT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LCT3.png
 logoKey: currencies/lct3.png
 name: Local Traders
+platform: BNB
+platform_contract: '0x5c65badf7f97345b7b92776b22255c973234efe7'

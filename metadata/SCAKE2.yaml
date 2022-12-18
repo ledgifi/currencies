@@ -5,3 +5,5 @@ id_nomics: SCAKE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCAKE2.jpg
 logoKey: currencies/scake2.jpg
 name: SaylorCake
+platform: BNB
+platform_contract: '0xacf531d13fc411f9610ab25f415b5f241b394988'

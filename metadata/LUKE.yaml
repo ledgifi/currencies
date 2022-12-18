@@ -3,3 +3,5 @@ fiat: false
 id: LUKE
 id_nomics: LUKE
 name: Luke Token
+platform: BNB
+platform_contract: '0x15f169779e9508b994c359174f3c3ae7f857cef9'

@@ -6,3 +6,5 @@ id_nomics: LHCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LHCOIN.jpg
 logoKey: currencies/lhcoin.jpg
 name: LHCoin
+platform: ETH
+platform_contract: '0x0778cc2e8bbad3d483e82371606d100cc8604522'

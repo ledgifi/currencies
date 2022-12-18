@@ -6,3 +6,5 @@ id_nomics: AFCASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AFCASH.png
 logoKey: currencies/afcash.png
 name: AFRICUNIA BANK
+platform: ETH
+platform_contract: '0xb8a5dba52fe8a0dd737bf15ea5043cea30c7e30b'

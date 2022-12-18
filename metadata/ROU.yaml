@@ -3,3 +3,5 @@ fiat: false
 id: ROU
 id_nomics: ROU
 name: ROU
+platform: BNB
+platform_contract: '0x47ac65a34c814d2d46c866836445add5ae76be37'

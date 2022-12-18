@@ -5,3 +5,5 @@ id_nomics: SOULERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOULERC20.png
 logoKey: currencies/soulerc20.png
 name: Phantasma Stake
+platform: ETH
+platform_contract: '0x79c75e2e8720b39e258f41c37cc4f309e0b0ff80'

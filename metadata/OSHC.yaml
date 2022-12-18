@@ -3,3 +3,5 @@ fiat: false
 id: OSHC
 id_nomics: OSHC
 name: overseas hard currency
+platform: HT
+platform_contract: '0xa2af509ddb7c1a894bda7bd82b30089531f237ca'

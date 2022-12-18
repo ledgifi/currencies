@@ -5,3 +5,5 @@ id_nomics: TVT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/tvt.jpg
 logoKey: currencies/tvt.jpg
 name: TVT Token
+platform: ETH
+platform_contract: '0x98e0438d3ee1404fea48e38e92853bb08cfa68bd'

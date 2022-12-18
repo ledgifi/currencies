@@ -3,3 +3,5 @@ fiat: false
 id: LSETH
 id_nomics: LSETH
 name: Liquid Staked ETH
+platform: BNB
+platform_contract: '0x8c1bed5b9a0928467c9b1341da1d7bd5e10b6549'

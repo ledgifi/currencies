@@ -3,3 +3,5 @@ fiat: false
 id: COINGATE
 id_nomics: COINGATE
 name: Coin Gate
+platform: ARBETH
+platform_contract: '0x0c3e909492fbc7fee87073af20fdc81f79fa63a3'

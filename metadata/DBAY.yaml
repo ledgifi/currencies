@@ -6,3 +6,5 @@ id_nomics: DBAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DBAY.jpg
 logoKey: currencies/dbay.jpg
 name: DefiBay
+platform: BNB
+platform_contract: '0xfc563895c1d5bb779685fb3d2ec09f5fa5b6473c'

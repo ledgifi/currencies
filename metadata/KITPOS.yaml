@@ -5,3 +5,5 @@ id_nomics: KITPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KITPOS.png
 logoKey: currencies/kitpos.png
 name: DexKit (Polygon)
+platform: MATIC
+platform_contract: '0x4d0def42cf57d6f27cd4983042a55dce1c9f853c'

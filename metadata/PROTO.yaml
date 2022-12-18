@@ -5,3 +5,5 @@ id_nomics: PROTO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PROTO.jpg
 logoKey: currencies/proto.jpg
 name: Proto.Gold Fuel
+platform: BNB
+platform_contract: '0xb9df47c637d481af168ff5e13d9a4b1e5874b6f8'

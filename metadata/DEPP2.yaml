@@ -5,3 +5,5 @@ id_nomics: DEPP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEPP2.jpeg
 logoKey: currencies/depp2.jpeg
 name: Depp Coin
+platform: BNB
+platform_contract: '0xbd952F7d69eFEde46BE4fe58414Fa6F1BF5CB830'

@@ -5,3 +5,5 @@ id_nomics: PITTYS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PITTYS.jpg
 logoKey: currencies/pittys.jpg
 name: Pittys
+platform: ETH
+platform_contract: '0xbf5ed0843b304f93332af890e4ce09ec96145976'

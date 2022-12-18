@@ -5,3 +5,5 @@ id_nomics: SHIBATHOR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBATHOR.png
 logoKey: currencies/shibathor.png
 name: Shiba Thor
+platform: BNB
+platform_contract: '0xb42a38d5f394882f0233ed967408c36b20e7461e'

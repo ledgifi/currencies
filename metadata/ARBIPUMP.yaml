@@ -3,3 +3,5 @@ fiat: false
 id: ARBIPUMP
 id_nomics: ARBIPUMP
 name: ARBI PUMP
+platform: ARBETH
+platform_contract: '0x97e73508603286d56754d1d07eff4ae9dfb55745'

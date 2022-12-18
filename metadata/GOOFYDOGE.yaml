@@ -6,3 +6,5 @@ id_nomics: GOOFYDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOOFYDOGE.jpg
 logoKey: currencies/goofydoge.jpg
 name: GoofyDoge
+platform: BNB
+platform_contract: '0xea7de2a4973f3b3fc1591972a30781899a0961cf'

@@ -6,3 +6,5 @@ id_nomics: ERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/erc20.jpg
 logoKey: currencies/erc20.jpg
 name: ERC20
+platform: ETH
+platform_contract: '0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea'

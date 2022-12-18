@@ -3,3 +3,5 @@ fiat: false
 id: KSK
 id_nomics: KSK
 name: Kskin
+platform: ETH
+platform_contract: '0x44bbb689aa13315ea5d56ebda2d263e53cb4b0b7'

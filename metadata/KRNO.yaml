@@ -5,3 +5,5 @@ id_nomics: KRNO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KRNO.jpeg
 logoKey: currencies/krno.jpeg
 name: Kronos Dao
+platform: KLAY
+platform_contract: '0xd676e57ca65b827feb112ad81ff738e7b6c1048d'

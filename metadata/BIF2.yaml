@@ -5,3 +5,5 @@ id_nomics: BIF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIF2.jpg
 logoKey: currencies/bif2.jpg
 name: BabyInuko
+platform: BNB
+platform_contract: '0x7601ad31506d085109e4680010e988f765783cca'

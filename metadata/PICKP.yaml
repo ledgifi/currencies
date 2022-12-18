@@ -3,3 +3,5 @@ fiat: false
 id: PICKP
 id_nomics: PICKP
 name: PicklePay
+platform: AVAX
+platform_contract: '0xcaab28dffe41c46415df764543bcf9e8e1c58eb6'

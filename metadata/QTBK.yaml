@@ -5,3 +5,5 @@ id_nomics: QTBK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QTBK.jpg
 logoKey: currencies/qtbk.jpg
 name: Quantbook Token
+platform: ETH
+platform_contract: '0x9403d608515f7346EC44B998984d7741Fd0D9bd4'

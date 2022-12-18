@@ -6,3 +6,5 @@ id_nomics: NPTL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NPTL.png
 logoKey: currencies/nptl.png
 name: NEO Protocol
+platform: BNB
+platform_contract: '0xcdab65a02b83069ae724d452d91cf6bd5b39751e'

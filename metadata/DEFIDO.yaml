@@ -6,3 +6,5 @@ id_nomics: DEFIDO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEFIDO.jpg
 logoKey: currencies/defido.jpg
 name: DeFido
+platform: BNB
+platform_contract: '0x199f788ddb566b7ebb59bf35b36914f2acdb33de'

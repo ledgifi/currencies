@@ -5,3 +5,5 @@ id_nomics: ORE7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORE7.jpg
 logoKey: currencies/ore7.jpg
 name: Outrace
+platform: BNB
+platform_contract: '0x91f006ee672f8f39c6e63ca75b1ca14067b3c366'

@@ -6,3 +6,5 @@ id_nomics: UV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UV.jpg
 logoKey: currencies/uv.jpg
 name: UnityVentures
+platform: BNB
+platform_contract: '0xb3a95bdbe4ac65b0628db1e6600f71ed59b89255'

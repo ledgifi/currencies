@@ -3,3 +3,5 @@ fiat: false
 id: MYIDO
 id_nomics: MYIDO
 name: Myido
+platform: BNB
+platform_contract: '0x301533d6addd81f541b3118aa5efef90d86bfc54'

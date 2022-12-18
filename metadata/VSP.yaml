@@ -6,3 +6,5 @@ id_nomics: VSP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VSP.jpg
 logoKey: currencies/vsp.jpg
 name: Vesper Finance
+platform: ETH
+platform_contract: '0x1b40183efb4dd766f11bda7a7c3ad8982e998421'

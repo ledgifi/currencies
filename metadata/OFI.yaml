@@ -5,3 +5,5 @@ id_nomics: OFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OFI.jpg
 logoKey: currencies/ofi.jpg
 name: OFI.cash
+platform: OKT
+platform_contract: '0x2e2f982c3e66db8604b0a99862dd97d31ed740b3'

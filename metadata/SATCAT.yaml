@@ -3,3 +3,5 @@ fiat: false
 id: SATCAT
 id_nomics: SATCAT
 name: SatoshiCat
+platform: CRO
+platform_contract: '0x0419fc8f8a03fee1cfa7a1c5db8776dc27d489ae'

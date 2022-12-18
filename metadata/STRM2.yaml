@@ -5,3 +5,5 @@ id_nomics: STRM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STRM2.png
 logoKey: currencies/strm2.png
 name: StreamCoin
+platform: BNB
+platform_contract: '0xc598275452fa319d75ee5f176fd3b8384925b425'

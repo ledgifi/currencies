@@ -6,3 +6,5 @@ id_nomics: SWCAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWCAT.jpg
 logoKey: currencies/swcat.jpg
 name: Star Wars Cat
+platform: BNB
+platform_contract: '0x98b6e33e77a55732f0e2ce595429144b18ce862c'

@@ -5,3 +5,5 @@ id_nomics: XRPAPE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XRPAPE.jpg
 logoKey: currencies/xrpape.jpg
 name: XRP Apes
+platform: BNB
+platform_contract: '0x87c91dd4552c67a4b82f8008fa08458ca5e62008'

@@ -5,3 +5,5 @@ id_nomics: CONSUMERBLOCKCHAIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CONSUMERBLOCKCHAIN.png
 logoKey: currencies/consumerblockchain.png
 name: Consumer Blockchain
+platform: ETH
+platform_contract: '0xe76da4946fe8bb6e65d7e7b0f0fbe3d9aba41be7'

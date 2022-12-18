@@ -3,3 +3,5 @@ fiat: false
 id: BERNI
 id_nomics: BERNI
 name: Bnd
+platform: BNB
+platform_contract: '0x384fa164bca98eb5b623379121e381af5a819745'

@@ -5,3 +5,5 @@ id_nomics: ZOO7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZOO7.png
 logoKey: currencies/zoo7.png
 name: ZOO
+platform: ETH
+platform_contract: '0x960c1F6eb0929438be0D12Da4982B1DE8E2E8A7D'

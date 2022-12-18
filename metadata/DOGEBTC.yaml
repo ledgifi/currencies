@@ -5,3 +5,5 @@ id_nomics: DOGEBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEBTC.jpg
 logoKey: currencies/dogebtc.jpg
 name: DogeBTC
+platform: BNB
+platform_contract: '0xb3fa62ed37e885e3f6b98f1bf9eaa724bb9aff39'

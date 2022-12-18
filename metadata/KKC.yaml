@@ -5,3 +5,5 @@ id_nomics: KKC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KKC.png
 logoKey: currencies/kkc.png
 name: KnackChain
+platform: ETH
+platform_contract: '0x4399403483e1d6a3185eabb0f62bf303da844e07'

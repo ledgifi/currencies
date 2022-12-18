@@ -5,3 +5,5 @@ id_nomics: CMKR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CMKR.png
 logoKey: currencies/cmkr.png
 name: cMKR
+platform: ETH
+platform_contract: '0x95b4ef2869ebd94beb4eee400a99824bf5dc325b'

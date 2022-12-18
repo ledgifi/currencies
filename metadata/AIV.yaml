@@ -6,3 +6,5 @@ id_nomics: AIV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AIV.png
 logoKey: currencies/aiv.png
 name: AIVIA
+platform: ETH
+platform_contract: '0xc35aaea6dd561a9976e1745a22f8cc5a762354bb'

@@ -5,3 +5,5 @@ id_nomics: ECT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECT3.jpg
 logoKey: currencies/ect3.jpg
 name: Ecochaintoken
+platform: BNB
+platform_contract: '0x6bfd4ca8ec078d613ed6a5248eb2c7a0d5c38b7b'

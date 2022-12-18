@@ -5,3 +5,5 @@ id_nomics: FEICOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FEICOIN.jpg
 logoKey: currencies/feicoin.jpg
 name: FeiCoin
+platform: ETH
+platform_contract: '0x659c6a81afa57a75a3e512587e920b97304d330a'

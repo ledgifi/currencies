@@ -6,3 +6,5 @@ id_nomics: CMI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CMI.png
 logoKey: currencies/cmi.png
 name: Cage Meme Index
+platform: ETH
+platform_contract: '0xbba8120b355bc70e771f28e151a141a126843cdf'

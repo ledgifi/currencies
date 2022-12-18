@@ -5,3 +5,5 @@ id_nomics: MERGE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MERGE2.jpg
 logoKey: currencies/merge2.jpg
 name: Merge Simpson
+platform: BNB
+platform_contract: '0x08a62f30ab4f8cee974f4753e7f4118d3ff27a88'

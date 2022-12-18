@@ -6,3 +6,5 @@ id_nomics: TXA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TXA.jpg
 logoKey: currencies/txa.jpg
 name: TXA
+platform: ETH
+platform_contract: '0x4463e6a3ded0dbe3f6e15bc8420dfc55e5fea830'

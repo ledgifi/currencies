@@ -5,3 +5,5 @@ id_nomics: VBOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VBOX.png
 logoKey: currencies/vbox.png
 name: Versebox
+platform: BNB
+platform_contract: '0x8e0c5dc6bab42dbaa48e0203f6d88928eebe1199'

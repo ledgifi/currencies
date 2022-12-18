@@ -5,3 +5,5 @@ id_nomics: TROY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TROY2.jpg
 logoKey: currencies/troy2.jpg
 name: Troy Inu
+platform: BNB
+platform_contract: '0x62c4691f8971ad6d5e934a5472e2430e0cb1445d'

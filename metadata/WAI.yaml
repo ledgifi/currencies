@@ -6,3 +6,5 @@ id_nomics: WAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAI.jpg
 logoKey: currencies/wai.jpg
 name: Wanaka Wai Token
+platform: BNB
+platform_contract: '0x934c9198582bf2631128c5d4b051aacef9a6224f'

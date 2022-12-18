@@ -3,3 +3,5 @@ fiat: false
 id: HNLS
 id_nomics: HNLS
 name: HNL Stablecoin
+platform: BNB
+platform_contract: '0x80e34a5d1e8d0b6f863e449d0bc48d5af95aaed0'

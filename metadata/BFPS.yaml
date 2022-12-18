@@ -5,3 +5,5 @@ id_nomics: BFPS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BFPS.png
 logoKey: currencies/bfps.png
 name: Baby FPS Token
+platform: BNB
+platform_contract: '0xfffe03b9306df57aafe9d291ac906fbfb0b07be3'

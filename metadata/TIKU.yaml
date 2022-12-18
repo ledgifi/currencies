@@ -5,3 +5,5 @@ id_nomics: TIKU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIKU.jpg
 logoKey: currencies/tiku.jpg
 name: TIKU DeFi
+platform: KCS
+platform_contract: '0xd4b52510719c594514ce7fed6cc876c03278ccf8'

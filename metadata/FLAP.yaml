@@ -5,3 +5,5 @@ id_nomics: FLAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLAP.jpg
 logoKey: currencies/flap.jpg
 name: Flapp
+platform: ETH
+platform_contract: '0xcfb72ed3647cc8e7fa52e4f121ecdabefc305e7f'

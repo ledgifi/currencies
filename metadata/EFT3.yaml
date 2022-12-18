@@ -5,3 +5,5 @@ id_nomics: EFT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EFT3.png
 logoKey: currencies/eft3.png
 name: Easy Finance Token
+platform: BNB
+platform_contract: '0x2eb198ab1a678f3a67f55219e8b408c9b713e825'

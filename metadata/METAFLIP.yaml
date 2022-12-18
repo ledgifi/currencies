@@ -6,3 +6,5 @@ id_nomics: METAFLIP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAFLIP.jpg
 logoKey: currencies/metaflip.jpg
 name: MetaFlip
+platform: BNB
+platform_contract: '0xa49f7e4c67d62d11b0867079f5c63cf4a600b55c'

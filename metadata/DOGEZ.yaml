@@ -6,3 +6,5 @@ id_nomics: DOGEZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEZ.jpg
 logoKey: currencies/dogez.jpg
 name: Dogezilla
+platform: ETH
+platform_contract: '0x4d8046b2f7986feb5a4b0781ebf5fa2d7a808617'

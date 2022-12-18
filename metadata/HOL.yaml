@@ -5,3 +5,5 @@ id_nomics: HOL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOL.png
 logoKey: currencies/hol.png
 name: Holdcoin
+platform: BNB
+platform_contract: '0x22c1b47d103adbc146a96c7b63d9e01075b7bc27'

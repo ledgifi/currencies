@@ -5,3 +5,5 @@ id_nomics: DNXCBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DNXCBEP20.png
 logoKey: currencies/dnxcbep20.png
 name: DinoX (BEP-20)
+platform: BNB
+platform_contract: '0x3c1748d647e6a56b37b66fcd2b5626d0461d3aa0'

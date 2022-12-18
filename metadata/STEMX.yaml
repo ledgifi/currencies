@@ -6,3 +6,5 @@ id_nomics: STEMX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STEMX.jpg
 logoKey: currencies/stemx.jpg
 name: STEMX
+platform: BNB
+platform_contract: '0x26734add0650719ea29087fe5cc0aab81b4f237d'

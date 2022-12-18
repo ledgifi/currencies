@@ -5,3 +5,5 @@ id_nomics: OI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OI.jpeg
 logoKey: currencies/oi.jpeg
 name: Osaka Inu
+platform: BNB
+platform_contract: '0x518a543ee684b3f11366e7b0ba3868662918ef5a'

@@ -5,3 +5,5 @@ id_nomics: BIFI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIFI2.jpg
 logoKey: currencies/bifi2.jpg
 name: Beefy.Finance
+platform: BNB
+platform_contract: '0xca3f508b8e4dd382ee878a314789373d80a5190a'

@@ -5,3 +5,5 @@ id_nomics: DOKWONGATE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOKWONGATE.jpg
 logoKey: currencies/dokwongate.jpg
 name: DoKwonGate
+platform: BNB
+platform_contract: '0x0de500a19d71805adcf967bebb3a2c97b1c8bc21'

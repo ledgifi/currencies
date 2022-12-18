@@ -5,3 +5,5 @@ id_nomics: PZEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PZEN.png
 logoKey: currencies/pzen.png
 name: PLSZEN
+platform: ETH
+platform_contract: '0x5a24d7129b6f3fcad2220296df28911880ad22b0'

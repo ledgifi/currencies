@@ -6,3 +6,5 @@ id_nomics: SCPT
 logo: https://static.coinpaprika.com/coin/scpt-sceptercash/logo.png
 logoKey: currencies/scpt.png
 name: ScepterCash
+platform: ETH
+platform_contract: '0x790304309388c417ff8aab454b8d27e79cad1df5'

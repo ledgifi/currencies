@@ -5,3 +5,5 @@ id_nomics: CMK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CMK2.jpg
 logoKey: currencies/cmk2.jpg
 name: Credmark
+platform: ETH
+platform_contract: '0x68cfb82eacb9f198d508b514d898a403c449533e'

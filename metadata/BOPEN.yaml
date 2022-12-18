@@ -5,3 +5,5 @@ id_nomics: BOPEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOPEN.jpg
 logoKey: currencies/bopen.jpg
 name: OPEN Governance Token
+platform: BNB
+platform_contract: '0xf35262a9d427f96d2437379ef090db986eae5d42'

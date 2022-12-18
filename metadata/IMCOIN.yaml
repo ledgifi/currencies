@@ -3,3 +3,5 @@ fiat: false
 id: IMCOIN
 id_nomics: IMCOIN
 name: IMCoin
+platform: MINTME
+platform_contract: '0x9FEE2d226fe2A5dc10236b0315C8A730FD68391d'

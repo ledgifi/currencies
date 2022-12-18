@@ -5,3 +5,5 @@ id_nomics: ISLA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ISLA2.jpg
 logoKey: currencies/isla2.jpg
 name: Defiville Island Token
+platform: ETH
+platform_contract: '0x20a68f9e34076b2dc15ce726d7eebb83b694702d'

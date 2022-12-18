@@ -3,3 +3,5 @@ fiat: false
 id: SWAPTEST
 id_nomics: SWAPTEST
 name: SWAPTEST
+platform: BNB
+platform_contract: '0xaad444f18e18de0964a8d4ade9b673796eb63c1b'

@@ -5,3 +5,5 @@ id_nomics: ETAB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETAB.jpeg
 logoKey: currencies/etab.jpeg
 name: ETAB
+platform: BNB
+platform_contract: '0xceb4863a68a2efb8b8384dd7df8b26817d4471fe'

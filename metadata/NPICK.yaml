@@ -3,3 +3,5 @@ fiat: false
 id: NPICK
 id_nomics: NPICK
 name: NPick Block
+platform: ETH
+platform_contract: '0xc3dca8f61b275d1e88f3ea31b3e311c49f56b24b'

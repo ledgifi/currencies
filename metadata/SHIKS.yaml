@@ -5,3 +5,5 @@ id_nomics: SHIKS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIKS.jpeg
 logoKey: currencies/shiks.jpeg
 name: ShikokuStar
+platform: BNB
+platform_contract: '0xae2ddd41275d5f0d8036c222b6ac1e0c5d6f522c'

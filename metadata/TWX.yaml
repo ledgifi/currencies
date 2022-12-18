@@ -6,3 +6,5 @@ id_nomics: TWX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TWX.jpg
 logoKey: currencies/twx.jpg
 name: Twindex
+platform: BNB
+platform_contract: '0x41171d5770c4c68686d1af042ada88a45b02f82b'

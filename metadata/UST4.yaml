@@ -5,3 +5,5 @@ id_nomics: UST4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UST4.png
 logoKey: currencies/ust4.png
 name: UST (Wormhole) (Polygon)
+platform: MATIC
+platform_contract: '0xe6469ba6d2fd6130788e0ea9c0a0515900563b59'

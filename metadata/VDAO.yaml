@@ -3,3 +3,5 @@ fiat: false
 id: VDAO
 id_nomics: VDAO
 name: DAO Verification
+platform: MATIC
+platform_contract: '0xe68ae0e34b933a1803c848511934681c3fbf3d44'

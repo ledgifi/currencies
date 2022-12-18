@@ -6,3 +6,5 @@ id_nomics: CRPT
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/crpt.svg
 logoKey: currencies/crpt.svg
 name: Crypterium
+platform: ETH
+platform_contract: '0x08389495d7456e1951ddf7c3a1314a4bfb646d8b'

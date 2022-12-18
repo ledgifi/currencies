@@ -6,3 +6,5 @@ id_nomics: GSONIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GSONIC.jpg
 logoKey: currencies/gsonic.jpg
 name: Gold Sonic
+platform: ETH
+platform_contract: '0x3533a53bf6490596d97f9b39d94dbdfcf1ab3dcb'

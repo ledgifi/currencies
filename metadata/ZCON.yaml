@@ -6,3 +6,5 @@ id_nomics: ZCON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZCON.jpg
 logoKey: currencies/zcon.jpg
 name: Zcon Protocol
+platform: ETH
+platform_contract: '0x4992d8ac40e55350330102abf2debed8864e7ba0'

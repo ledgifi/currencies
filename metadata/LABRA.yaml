@@ -5,3 +5,5 @@ id_nomics: LABRA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LABRA.jpg
 logoKey: currencies/labra.jpg
 name: Labra Coin
+platform: ETH
+platform_contract: '0x106d3c66d22d2dd0446df23d7f5960752994d600'

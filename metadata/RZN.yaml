@@ -5,3 +5,5 @@ id_nomics: RZN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RZN.jpg
 logoKey: currencies/rzn.jpg
 name: Rizen Coin
+platform: ETH
+platform_contract: '0xd8c82fbc4d8ed0644a7ec04cf973e84c6153c1d7'

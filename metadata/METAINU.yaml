@@ -6,3 +6,5 @@ id_nomics: METAINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAINU.jpg
 logoKey: currencies/metainu.jpg
 name: Meta Inu
+platform: BNB
+platform_contract: '0xe66a2b4b2b592a986cf65d8377aa77b045f0be96'

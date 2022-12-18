@@ -5,3 +5,5 @@ id_nomics: THUNDERBNB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THUNDERBNB.jpg
 logoKey: currencies/thunderbnb.jpg
 name: ThunderBNB Token
+platform: BNB
+platform_contract: '0xb9654a42f0f5dcdef5617debf8bd048e33f180e7'

@@ -6,3 +6,5 @@ id_nomics: HYVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HYVE.jpg
 logoKey: currencies/hyve.jpg
 name: Hyve
+platform: ETH
+platform_contract: '0xd794dd1cada4cf79c9eebaab8327a1b0507ef7d4'

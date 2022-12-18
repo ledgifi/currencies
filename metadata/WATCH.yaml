@@ -6,3 +6,5 @@ id_nomics: WATCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WATCH.png
 logoKey: currencies/watch.png
 name: Yieldwatch
+platform: BNB
+platform_contract: '0x7a9f28eb62c791422aa23ceae1da9c847cbec9b0'

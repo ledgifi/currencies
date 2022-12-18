@@ -6,3 +6,5 @@ id_nomics: TESLF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TESLF.jpg
 logoKey: currencies/teslf.jpg
 name: Teslafan
+platform: ETH
+platform_contract: '0x2d5bed63b0fe325ed3b865ae2cdaa3649eb25461'

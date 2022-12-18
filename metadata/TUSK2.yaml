@@ -5,3 +5,5 @@ id_nomics: TUSK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TUSK2.jpg
 logoKey: currencies/tusk2.jpg
 name: Tusk Token
+platform: BNB
+platform_contract: '0x03fffb18c0ea6b0ad4fa3b5226512b334587686f'

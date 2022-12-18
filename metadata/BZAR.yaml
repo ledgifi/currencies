@@ -5,3 +5,5 @@ id_nomics: BZAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BZAR.jpg
 logoKey: currencies/bzar.jpg
 name: Bitcoinrand
+platform: BNB
+platform_contract: '0x3791cc676c34f82e9438ed9752ec5dbc983a0bbc'

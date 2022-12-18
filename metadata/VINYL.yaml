@@ -6,3 +6,5 @@ id_nomics: VINYL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VINYL.jpg
 logoKey: currencies/vinyl.jpg
 name: Vinyl
+platform: ETH
+platform_contract: '0xc17b6C92BB728259ca2F76c88a4A48ac077587f7'

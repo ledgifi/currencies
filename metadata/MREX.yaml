@@ -3,3 +3,5 @@ fiat: false
 id: MREX
 id_nomics: MREX
 name: MREX
+platform: BNB
+platform_contract: '0x76837d56d1105bb493cddbefeddf136e7c34f0c4'

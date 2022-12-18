@@ -5,3 +5,5 @@ id_nomics: MIC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIC2.jpg
 logoKey: currencies/mic2.jpg
 name: MITH Cash
+platform: ETH
+platform_contract: '0x368b3a58b5f49392e5c9e4c998cb0bb966752e51'

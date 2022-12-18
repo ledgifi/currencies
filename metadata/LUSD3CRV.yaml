@@ -3,3 +3,5 @@ fiat: false
 id: LUSD3CRV
 id_nomics: LUSD3CRV
 name: LUSD3CRV-f
+platform: ETH
+platform_contract: '0xed279fdd11ca84beef15af5d39bb4d4bee23f0ca'

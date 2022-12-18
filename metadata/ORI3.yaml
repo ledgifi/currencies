@@ -5,3 +5,5 @@ id_nomics: ORI3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORI3.jpg
 logoKey: currencies/ori3.jpg
 name: Orica
+platform: BNB
+platform_contract: '0x3045d1a840364c3657b8df6c6f86a4359c23472b'

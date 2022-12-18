@@ -5,3 +5,5 @@ id_nomics: MARU2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MARU2.png
 logoKey: currencies/maru2.png
 name: Maru Neko
+platform: BNB
+platform_contract: '0x1134310dCf17071f461e7C7b68f1916B678f0357'

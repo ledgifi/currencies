@@ -5,3 +5,5 @@ id_nomics: UNICAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNICAT.png
 logoKey: currencies/unicat.png
 name: UniCat
+platform: ETH
+platform_contract: '0x87c0192b1b81b9550d495558aac9753972f6db0d'

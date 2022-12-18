@@ -6,3 +6,5 @@ id_nomics: BUBBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUBBA.png
 logoKey: currencies/bubba.png
 name: Bubba
+platform: BNB
+platform_contract: '0x7d2441a94e171ebeaf5cd7a1ebeb2734629dd7e2'

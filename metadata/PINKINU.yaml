@@ -6,3 +6,5 @@ id_nomics: PINKINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PINKINU.jpg
 logoKey: currencies/pinkinu.jpg
 name: Pink Shiba Inu
+platform: BNB
+platform_contract: '0x435adfe586cf6226c0a14f02eb2017d37e807c1f'

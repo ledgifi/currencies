@@ -5,3 +5,5 @@ id_nomics: DSPC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DSPC.png
 logoKey: currencies/dspc.png
 name: DongDongChain
+platform: ETH
+platform_contract: '0x1736fae428eb944a4f0c22016fb60b7ec3a93d41'

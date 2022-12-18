@@ -6,3 +6,5 @@ id_nomics: FMT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FMT.png
 logoKey: currencies/fmt.png
 name: Finminity
+platform: ETH
+platform_contract: '0x99c6e435ec259a7e8d65e1955c9423db624ba54c'

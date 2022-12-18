@@ -6,3 +6,5 @@ id_nomics: UBRIDGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UBRIDGE.png
 logoKey: currencies/ubridge.png
 name: Uranus Bridge
+platform: BNB
+platform_contract: '0x023b2C61301afe221D92313a183613009875e50e'

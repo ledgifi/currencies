@@ -5,3 +5,5 @@ id_nomics: MYANMARGOLDCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MYANMARGOLDCOIN.jpg
 logoKey: currencies/myanmargoldcoin.jpg
 name: Myanmar Gold Coin
+platform: ETH
+platform_contract: '0x0bba19f02b9fbdca23d783ccc3f78c0a06544073'

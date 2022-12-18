@@ -5,3 +5,5 @@ id_nomics: IXODE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IXODE.jpg
 logoKey: currencies/ixode.jpg
 name: Ixode AI
+platform: BNB
+platform_contract: '0x690278550d114d03bb834b8b09eb544198f42135'

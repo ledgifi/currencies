@@ -6,3 +6,5 @@ id_nomics: KILL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KILL.jpg
 logoKey: currencies/kill.jpg
 name: MemeKiller
+platform: BNB
+platform_contract: '0x0df7f2f0f2a9b64c67f14ac5f1ffac133f1aff7f'

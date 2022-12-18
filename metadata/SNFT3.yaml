@@ -5,3 +5,5 @@ id_nomics: SNFT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNFT3.jpg
 logoKey: currencies/snft3.jpg
 name: SafeNFT
+platform: BNB
+platform_contract: '0x6ef3f50083c54482e40e8db55f228b242474bc8e'

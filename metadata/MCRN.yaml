@@ -6,3 +6,5 @@ id_nomics: MCRN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCRN.jpg
 logoKey: currencies/mcrn.jpg
 name: MacaronSwap
+platform: BNB
+platform_contract: '0xacb2d47827c9813ae26de80965845d80935afd0b'

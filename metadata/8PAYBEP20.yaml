@@ -5,3 +5,5 @@ id_nomics: 8PAYBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/8PAYBEP20.jpg
 logoKey: currencies/8paybep20.jpg
 name: 8Pay (BEP-20)
+platform: BNB
+platform_contract: '0xfeea0bdd3d07eb6fe305938878c0cadbfa169042'

@@ -5,3 +5,5 @@ id_nomics: PONES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PONES.png
 logoKey: currencies/pones.png
 name: PingONE Space
+platform: BNB
+platform_contract: '0x8fc813a3a0e006b3605616c907c2edd67fbdb559'

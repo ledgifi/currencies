@@ -5,3 +5,5 @@ id_nomics: INUKO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INUKO.jpg
 logoKey: currencies/inuko.jpg
 name: Squid Inuko
+platform: BNB
+platform_contract: '0xfad280017806549922e71bd9d4d3169c30e985dc'

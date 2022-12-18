@@ -5,3 +5,5 @@ id_nomics: TOTFLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOTFLOKI.png
 logoKey: currencies/totfloki.png
 name: Trick or Treat Floki
+platform: BNB
+platform_contract: '0x56fd4955cd1d1629715e9e61130262bc1ce57c0a'

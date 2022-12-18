@@ -5,3 +5,5 @@ id_nomics: PIR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIR.jpg
 logoKey: currencies/pir.jpg
 name: Piranhas
+platform: ETH
+platform_contract: '0x0e3c91ed7d966ff1f7b58ab739a55e3c4473cd27'

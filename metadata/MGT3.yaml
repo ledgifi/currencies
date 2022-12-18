@@ -5,3 +5,5 @@ id_nomics: MGT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MGT3.png
 logoKey: currencies/mgt3.png
 name: MoonGame
+platform: BNB
+platform_contract: '0x47cbd8454c986a15c16d285bd228d214f662dcf3'

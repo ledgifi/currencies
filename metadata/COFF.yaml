@@ -3,3 +3,5 @@ fiat: false
 id: COFF
 id_nomics: COFF
 name: COFF
+platform: HT
+platform_contract: '0x68ce45d8891ce8258216393d191beed2bfe54a34'

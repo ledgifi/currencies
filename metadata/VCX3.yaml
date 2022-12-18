@@ -5,3 +5,5 @@ id_nomics: VCX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VCX3.jpg
 logoKey: currencies/vcx3.jpg
 name: Viral Crypto
+platform: ETH
+platform_contract: '0x56a5d6a4a78af419ae83c2a58d9a2caab28c5e60'

@@ -6,3 +6,5 @@ id_nomics: NGC
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/ngc.svg
 logoKey: currencies/ngc.svg
 name: NAGA
+platform: ETH
+platform_contract: '0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131'

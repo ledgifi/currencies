@@ -3,3 +3,5 @@ fiat: false
 id: CHPC
 id_nomics: CHPC
 name: ChuapCoins
+platform: BNB
+platform_contract: '0x24849699c194c34371375dfadd0f98787b809a04'

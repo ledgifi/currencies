@@ -5,3 +5,5 @@ id_nomics: TBOG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TBOG.PNG
 logoKey: currencies/tbog.png
 name: Sugar Coin
+platform: ETH
+platform_contract: '0x40c3b70fb78f302b3c9eb25de53306e79b35be90'

@@ -6,3 +6,5 @@ id_nomics: ENTRC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ENTRC.png
 logoKey: currencies/entrc.png
 name: EnterCoin
+platform: ETH
+platform_contract: '0xd9d01d4cb824219a8f482a0fad479cb971fd0628'

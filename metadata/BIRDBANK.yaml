@@ -3,3 +3,5 @@ fiat: false
 id: BIRDBANK
 id_nomics: BIRDBANK
 name: Prederal Reserve
+platform: ETH
+platform_contract: '0x903a697c5aa00eb7b6a325b9a7feb2b3b9576da3'

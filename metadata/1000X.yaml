@@ -5,3 +5,5 @@ id_nomics: 1000X
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/1000X.png
 logoKey: currencies/1000x.png
 name: 1000x
+platform: MINTME
+platform_contract: '0x7b535379bBAfD9cD12b35D91aDdAbF617Df902B2'

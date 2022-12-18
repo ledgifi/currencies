@@ -5,3 +5,5 @@ id_nomics: C2XT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/C2XT.png
 logoKey: currencies/c2xt.png
 name: C2X
+platform: ETH
+platform_contract: '0x80510e56e3f2ef63c07468be6cfb8ffe2468dcc8'

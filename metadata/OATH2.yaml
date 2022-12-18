@@ -3,3 +3,5 @@ fiat: false
 id: OATH2
 id_nomics: OATH2
 name: Oath
+platform: FTM
+platform_contract: '0x21ada0d2ac28c3a5fa3cd2ee30882da8812279b6'

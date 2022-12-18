@@ -5,3 +5,5 @@ id_nomics: ECP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECP2.jpg
 logoKey: currencies/ecp2.jpg
 name: Eclipse
+platform: BNB
+platform_contract: '0x375483cfa7fc18f6b455e005d835a8335fbdbb1f'

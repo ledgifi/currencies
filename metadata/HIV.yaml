@@ -5,3 +5,5 @@ id_nomics: HIV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HIV.png
 logoKey: currencies/hiv.png
 name: Hive Vault
+platform: BNB
+platform_contract: '0x95efdc8ebe732fee41803478dd8ab170d99675b9'

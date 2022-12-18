@@ -3,3 +3,5 @@ fiat: false
 id: STCK
 id_nomics: STCK
 name: Stack Coin
+platform: BNB
+platform_contract: '0x63bbe0801fe3eb20b265973d9e7fd3229685f366'

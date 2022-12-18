@@ -5,3 +5,5 @@ id_nomics: GMT6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMT6.jpeg
 logoKey: currencies/gmt6.jpeg
 name: GreekMythology
+platform: BNB
+platform_contract: '0x7a59ce9c4248f8b078fd96d9965e6e5dc8e6f0a8'

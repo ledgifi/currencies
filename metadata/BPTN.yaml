@@ -5,3 +5,5 @@ id_nomics: BPTN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BPTN.png
 logoKey: currencies/bptn.png
 name: Bit Public Talent Network
+platform: ETH
+platform_contract: '0x6c22b815904165f3599f0a4a092d458966bd8024'

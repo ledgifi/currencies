@@ -5,3 +5,5 @@ id_nomics: SPW2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPW2.png
 logoKey: currencies/spw2.png
 name: SoupSwap
+platform: BNB
+platform_contract: '0x604d105f2f1f68641a000f03b5dc557bfffdb8fe'

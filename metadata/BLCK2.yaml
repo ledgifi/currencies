@@ -5,3 +5,5 @@ id_nomics: BLCK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLCK2.jpg
 logoKey: currencies/blck2.jpg
 name: Billance Token
+platform: BNB
+platform_contract: '0xc9c11ebc7922caa87fabc62e41b59ebbb64c814b'

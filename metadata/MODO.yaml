@@ -6,3 +6,5 @@ id_nomics: MODO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MODO.jpg
 logoKey: currencies/modo.jpg
 name: MoonDoge
+platform: BNB
+platform_contract: '0xf9f89ef3c1b96a662db5fc9184dbf6ca1416dfe5'

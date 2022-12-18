@@ -3,3 +3,5 @@ fiat: false
 id: PKEYS
 id_nomics: PKEYS
 name: pTokens Keys
+platform: BNB
+platform_contract: '0x8783ed9b70d4c354c19dacd211f9d6258cc5ab89'

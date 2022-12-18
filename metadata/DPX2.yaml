@@ -5,3 +5,5 @@ id_nomics: DPX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DPX2.png
 logoKey: currencies/dpx2.png
 name: Dopex
+platform: ETH
+platform_contract: '0xeec2be5c91ae7f8a338e1e5f3b5de49d07afdc81'

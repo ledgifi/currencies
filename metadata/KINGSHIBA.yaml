@@ -5,3 +5,5 @@ id_nomics: KINGSHIBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KINGSHIBA.jpg
 logoKey: currencies/kingshiba.jpg
 name: King of Shiba
+platform: BNB
+platform_contract: '0x22918b2b01b1809d95cac26b3861de9dd5ee7806'

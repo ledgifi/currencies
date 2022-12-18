@@ -5,3 +5,5 @@ id_nomics: FIELD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIELD.jpeg
 logoKey: currencies/field.jpeg
 name: FIELD
+platform: BNB
+platform_contract: '0x04d50c032f16a25d1449ef04d893e95bcc54d747'

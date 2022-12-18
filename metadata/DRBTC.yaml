@@ -5,3 +5,5 @@ id_nomics: DRBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRBTC.jpg
 logoKey: currencies/drbtc.jpg
 name: Dr Bitcoin
+platform: BNB
+platform_contract: '0xe70b620d2cd4265d65065fdca2e4a53f8d43608c'

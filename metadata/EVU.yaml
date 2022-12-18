@@ -6,3 +6,5 @@ id_nomics: EVU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVU.jpg
 logoKey: currencies/evu.jpg
 name: Evulus
+platform: BNB
+platform_contract: '0x18b5f22266343ccd180c6285a66cc9a23dc262e9'

@@ -5,3 +5,5 @@ id_nomics: DMX7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DMX7.jpeg
 logoKey: currencies/dmx7.jpeg
 name: dearMoonX V2
+platform: BNB
+platform_contract: '0x39946d0aa051a7daf29f22491db6d597a29d0e19'

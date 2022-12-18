@@ -5,3 +5,5 @@ id_nomics: STAK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STAK2.jpg
 logoKey: currencies/stak2.jpg
 name: Jigstack
+platform: ETH
+platform_contract: '0x1f8a626883d7724dbd59ef51cbd4bf1cf2016d13'

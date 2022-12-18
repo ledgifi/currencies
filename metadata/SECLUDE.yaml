@@ -3,3 +3,5 @@ fiat: false
 id: SECLUDE
 id_nomics: SECLUDE
 name: stop up
+platform: ETH
+platform_contract: '0x72803bf502dbfdb4811bde10b4ea6c6a65876ac4'

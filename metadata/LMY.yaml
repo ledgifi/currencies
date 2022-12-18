@@ -6,3 +6,5 @@ id_nomics: LMY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LMY.jpg
 logoKey: currencies/lmy.jpg
 name: Lunch Money
+platform: ETH
+platform_contract: '0x66fd97a78d8854fec445cd1c80a07896b0b4851f'

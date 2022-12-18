@@ -5,3 +5,5 @@ id_nomics: SPDO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPDO.png
 logoKey: currencies/spdo.png
 name: pDollar Share
+platform: BNB
+platform_contract: '0xc1e3bdf0e580de25d6a8c2a419da8c859589ed9d'

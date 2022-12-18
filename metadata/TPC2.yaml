@@ -5,3 +5,5 @@ id_nomics: TPC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TPC2.jpeg
 logoKey: currencies/tpc2.jpeg
 name: Transplant Coin
+platform: BNB
+platform_contract: '0xc4dab0f6b014e655a4600cf8f486d9ee2fce39be'

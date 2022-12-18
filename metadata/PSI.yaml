@@ -6,3 +6,5 @@ id_nomics: PSI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PSI.jpg
 logoKey: currencies/psi.jpg
 name: Passive Income
+platform: ETH
+platform_contract: '0xd4cb461eace80708078450e465881599d2235f1a'

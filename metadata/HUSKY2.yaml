@@ -5,3 +5,5 @@ id_nomics: HUSKY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HUSKY2.png
 logoKey: currencies/husky2.png
 name: Husky Avax
+platform: AVAX
+platform_contract: '0x65378b697853568da9ff8eab60c13e1ee9f4a654'

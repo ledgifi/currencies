@@ -6,3 +6,5 @@ id_nomics: KSR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KSR.jpg
 logoKey: currencies/ksr.jpg
 name: Kickstarter
+platform: BNB
+platform_contract: '0x9c373aef0b9831f7895e6d6565683d628cf1c151'

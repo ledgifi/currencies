@@ -3,3 +3,5 @@ fiat: false
 id: WALLPHY
 id_nomics: WALLPHY
 name: Wallphy
+platform: ETH
+platform_contract: '0x51e06c3468c230be0aeaeac44cd7be5dd7fed4d9'

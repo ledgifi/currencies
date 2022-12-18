@@ -5,3 +5,5 @@ id_nomics: BITRATE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITRATE.png
 logoKey: currencies/bitrate.png
 name: Bitrate
+platform: FTM
+platform_contract: '0xcd8ba1a10ebc14dac49b6f235c69d3ab9e1e51a5'

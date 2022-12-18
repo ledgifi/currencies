@@ -5,3 +5,5 @@ id_nomics: FLEXERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLEXERC20.png
 logoKey: currencies/flexerc20.png
 name: FLEX Coin (ERC-20)
+platform: ETH
+platform_contract: '0xfcf8eda095e37a41e002e266daad7efc1579bc0a'

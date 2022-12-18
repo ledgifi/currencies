@@ -6,3 +6,5 @@ id_nomics: VICS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VICS.jpg
 logoKey: currencies/vics.jpg
 name: RoboFi Token
+platform: BNB
+platform_contract: '0x9bcab88763c33a95e73bc6dcf80fcf27a77090b2'

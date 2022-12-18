@@ -5,3 +5,5 @@ id_nomics: ATR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATR.png
 logoKey: currencies/atr.png
 name: Asterion Space
+platform: ETH
+platform_contract: '0x93713bf12ba1bb55edf94298a302a8fc9d118086'

@@ -3,3 +3,5 @@ fiat: false
 id: MOONFARM
 id_nomics: MOONFARM
 name: Harvest Moon
+platform: BNB
+platform_contract: '0x5e8f7dc1642950f4c652271355384c257aa1f15d'

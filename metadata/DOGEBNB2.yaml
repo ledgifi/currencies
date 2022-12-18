@@ -5,3 +5,5 @@ id_nomics: DOGEBNB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEBNB2.jpg
 logoKey: currencies/dogebnb2.jpg
 name: DogeBNB
+platform: BNB
+platform_contract: '0xa591588ac622303c730a85eea4eb8c20fe7ef82a'

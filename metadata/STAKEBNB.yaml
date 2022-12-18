@@ -3,3 +3,5 @@ fiat: false
 id: STAKEBNB
 id_nomics: STAKEBNB
 name: StakingBNB
+platform: BNB
+platform_contract: '0x13b383e2062abae25a363dde2254036a3a490122'

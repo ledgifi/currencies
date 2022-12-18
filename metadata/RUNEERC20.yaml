@@ -5,3 +5,5 @@ id_nomics: RUNEERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RUNEERC20.jpg
 logoKey: currencies/runeerc20.jpg
 name: THORChain (ERC-20)
+platform: ETH
+platform_contract: '0x3155ba85d5f96b2d030a4966af206230e46849cb'

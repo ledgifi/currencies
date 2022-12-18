@@ -5,3 +5,5 @@ id_nomics: BFG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BFG2.jpg
 logoKey: currencies/bfg2.jpg
 name: Baby Feg Token
+platform: BNB
+platform_contract: '0xd1061342b3a119ad2247c79235ecbd51997ed8ed'

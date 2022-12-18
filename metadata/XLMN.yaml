@@ -5,3 +5,5 @@ id_nomics: XLMN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XLMN.jpeg
 logoKey: currencies/xlmn.jpeg
 name: XL-Moon
+platform: BNB
+platform_contract: '0x914737dfbfdb0dbade3c9ff10566fa920d04ac19'

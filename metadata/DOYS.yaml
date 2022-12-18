@@ -3,3 +3,5 @@ fiat: false
 id: DOYS
 id_nomics: DOYS
 name: DoYs
+platform: BNB
+platform_contract: '0x600c480680077dcef3de8dfa4227cb5e40e06931'

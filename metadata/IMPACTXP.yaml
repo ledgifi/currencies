@@ -5,3 +5,5 @@ id_nomics: IMPACTXP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IMPACTXP.jpg
 logoKey: currencies/impactxp.jpg
 name: ImpactXP
+platform: ETH
+platform_contract: '0xb12494c8824fc069757f47d177e666c571cd49ae'

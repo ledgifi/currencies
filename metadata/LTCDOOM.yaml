@@ -3,3 +3,5 @@ fiat: false
 id: LTCDOOM
 id_nomics: LTCDOOM
 name: 10X Short Litecoin Token
+platform: ETH
+platform_contract: '0x31e15a071a5340f0393ea98dde3a095d64206a02'

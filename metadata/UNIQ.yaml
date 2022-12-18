@@ -6,3 +6,5 @@ id_nomics: UNIQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNIQ.jpg
 logoKey: currencies/uniq.jpg
 name: Uniqly
+platform: ETH
+platform_contract: '0x3758e00b100876c854636ef8db61988931bb8025'

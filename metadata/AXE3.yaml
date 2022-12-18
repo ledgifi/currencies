@@ -5,3 +5,5 @@ id_nomics: AXE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AXE3.jpg
 logoKey: currencies/axe3.jpg
 name: AxeDAO
+platform: ETH
+platform_contract: '0x30ac8317dfb0ab4263cd8db1c4f10749911b126c'

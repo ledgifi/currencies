@@ -6,3 +6,5 @@ id_nomics: BETHER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bether.jpg
 logoKey: currencies/bether.jpg
 name: Bethereum
+platform: ETH
+platform_contract: '0x14c926f2290044b647e1bf2072e67b495eff1905'

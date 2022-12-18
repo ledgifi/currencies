@@ -3,3 +3,5 @@ fiat: false
 id: XSGDPOS
 id_nomics: XSGDPOS
 name: XSGD (Polygon)
+platform: MATIC
+platform_contract: '0x769434dca303597c8fc4997bf3dab233e961eda2'

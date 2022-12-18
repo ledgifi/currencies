@@ -5,3 +5,5 @@ id_nomics: SW5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SW5.jpeg
 logoKey: currencies/sw5.jpeg
 name: Shibawars
+platform: BNB
+platform_contract: '0x75f77fa9fdc3c0bafb2217a68f94f1599626f75e'

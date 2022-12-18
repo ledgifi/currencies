@@ -5,3 +5,5 @@ id_nomics: EZI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EZI.jpg
 logoKey: currencies/ezi.jpg
 name: Ezillion
+platform: BNB
+platform_contract: '0xca0c1c12466a57b26850b05a0ba2fb39f9763a0c'

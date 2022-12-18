@@ -5,3 +5,5 @@ id_nomics: SHOP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHOP3.jpg
 logoKey: currencies/shop3.jpg
 name: Shoppi Coin
+platform: BNB
+platform_contract: '0x9bb2b75250fc34e16d9503c04781c718b2d467c8'

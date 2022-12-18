@@ -5,3 +5,5 @@ id_nomics: IBTC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ibtc.jpg
 logoKey: currencies/ibtc3.jpg
 name: iBTC
+platform: ETH
+platform_contract: '0xd6014ea05bde904448b743833ddf07c3c7837481'

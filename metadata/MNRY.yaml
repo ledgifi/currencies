@@ -5,3 +5,5 @@ id_nomics: MNRY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MNRY.jpg
 logoKey: currencies/mnry.jpg
 name: Moonery
+platform: BNB
+platform_contract: '0x5baebd214fdae546ce39750b8363e799e2aba21e'

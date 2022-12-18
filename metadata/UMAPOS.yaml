@@ -5,3 +5,5 @@ id_nomics: UMAPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UMAPOS.jpg
 logoKey: currencies/umapos.jpg
 name: UMA (Polygon)
+platform: MATIC
+platform_contract: '0x3066818837c5e6ed6601bd5a91b0762877a6b731'

@@ -5,3 +5,5 @@ id_nomics: BRC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRC2.png
 logoKey: currencies/brc2.png
 name: BRC Token
+platform: BNB
+platform_contract: '0x43b4b26faf7a3077a53f73aa08688ce70bbe7eb7'

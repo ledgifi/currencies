@@ -5,3 +5,5 @@ id_nomics: DORA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DORA2.jpg
 logoKey: currencies/dora2.jpg
 name: Dora Factory
+platform: ETH
+platform_contract: '0xbc4171f45ef0ef66e76f979df021a34b46dcc81d'

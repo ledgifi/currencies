@@ -5,3 +5,5 @@ id_nomics: INFT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INFT2.png
 logoKey: currencies/inft2.png
 name: iNFT
+platform: BNB
+platform_contract: '0xd2ff8c018a22ff06f4be781090579d0490b9a69f'

@@ -5,3 +5,5 @@ id_nomics: LOOD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOOD.png
 logoKey: currencies/lood.png
 name: Lood
+platform: ETH
+platform_contract: '0x0818eA089c657c53Eb776aC3348EDcf204011A4c'

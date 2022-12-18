@@ -5,3 +5,5 @@ id_nomics: SWAPS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWAPS.png
 logoKey: currencies/swaps.png
 name: SWAPS.NETWORK
+platform: ETH
+platform_contract: '0xc958e9fb59724f8b0927426a8836f1158f0d03cf'

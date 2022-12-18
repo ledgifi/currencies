@@ -5,3 +5,5 @@ id_nomics: SDO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SDO2.jpg
 logoKey: currencies/sdo2.jpg
 name: SafeDollar
+platform: MATIC
+platform_contract: '0x66c59dded4ef01a3412a8b019b6e41d4a8c49a35'

@@ -5,3 +5,5 @@ id_nomics: AMUSDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMUSDT.jpg
 logoKey: currencies/amusdt.jpg
 name: Aave Polygon USDT
+platform: MATIC
+platform_contract: '0x60d55f02a771d515e077c9c2403a1ef324885cec'

@@ -5,3 +5,5 @@ id_nomics: SKITTENS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SKITTENS.jpg
 logoKey: currencies/skittens.jpg
 name: Space Kittens
+platform: BNB
+platform_contract: '0xbdc760cf1efc743783ad485ce4697d2c9960a8ad'

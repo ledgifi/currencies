@@ -3,3 +3,5 @@ fiat: false
 id: ASSEMBLY
 id_nomics: ASSEMBLY
 name: Assembly
+platform: ETH
+platform_contract: '0x30b0b6f643010d61f66716963bc8ce1cdea78e7c'

@@ -5,3 +5,5 @@ id_nomics: ATYNE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATYNE.jpg
 logoKey: currencies/atyne.jpg
 name: Aerotyne
+platform: BNB
+platform_contract: '0x71e1611075800e89a460463fcdfba3d0fea8c01d'

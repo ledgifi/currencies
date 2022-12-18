@@ -5,3 +5,5 @@ id_nomics: SETI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SETI.jpg
 logoKey: currencies/seti.jpg
 name: SETI
+platform: BNB
+platform_contract: '0x4ddc9250e2d64b2d1449c76fc1a4d202e926780d'

@@ -3,3 +3,5 @@ fiat: false
 id: KUVO
 id_nomics: KUVO
 name: KunoVolt
+platform: ETH
+platform_contract: '0x873c19dfe9e0388c4eec52ba1e53594f5874b6a0'

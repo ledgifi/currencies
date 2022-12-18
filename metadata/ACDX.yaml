@@ -5,3 +5,5 @@ id_nomics: ACDX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACDX.png
 logoKey: currencies/acdx.png
 name: Acadex Network
+platform: BNB
+platform_contract: '0x2ad421077d38bf23497b0d9770d7c57c1913f4ca'

@@ -5,3 +5,5 @@ id_nomics: CREDX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CREDX.jpg
 logoKey: currencies/credx.jpg
 name: Credx
+platform: BNB
+platform_contract: '0xfadfec3a713d6c15cb5e008d0dbd885be1af76fa'

@@ -6,3 +6,5 @@ id_nomics: PFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PFI.jpg
 logoKey: currencies/pfi.jpg
 name: Prime Finance
+platform: ETH
+platform_contract: '0x989ac4c1fc5ab2b8c86924c6253aaf1ee68e9ce9'

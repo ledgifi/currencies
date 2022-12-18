@@ -5,3 +5,5 @@ id_nomics: ARCD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARCD.jpg
 logoKey: currencies/arcd.jpg
 name: Arcade Token
+platform: ETH
+platform_contract: '0xb581e3a7db80fbaa821ab39342e9cbfd2ce33c23'

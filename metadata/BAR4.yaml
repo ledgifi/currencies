@@ -5,3 +5,5 @@ id_nomics: BAR4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAR4.jpg
 logoKey: currencies/bar4.jpg
 name: Hierocoin
+platform: BNB
+platform_contract: '0x34550001fbf7d6e42e812763c91ef96f129742ab'

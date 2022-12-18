@@ -3,3 +3,5 @@ fiat: false
 id: BDSMV1
 id_nomics: BDSMV1
 name: BDSM Token - buy only on your own risk (v1)
+platform: ARBETH
+platform_contract: '0x8f408ff2d5353ccfabafbe36105acc691344d41a'

@@ -5,3 +5,5 @@ id_nomics: MSD4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSD4.jpeg
 logoKey: currencies/msd4.jpeg
 name: Meta Squid Doge
+platform: BNB
+platform_contract: '0xcc081ECDe398A2Ac795d299961549BeC97C935Fb'

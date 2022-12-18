@@ -6,3 +6,5 @@ id_nomics: NDSK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NDSK.jpg
 logoKey: currencies/ndsk.jpg
 name: Nadeshiko
+platform: BNB
+platform_contract: '0x568b0d8ac3967d363257c520c9be0f17984e470f'

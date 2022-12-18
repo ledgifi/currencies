@@ -5,3 +5,5 @@ id_nomics: KIRBY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KIRBY2.jpg
 logoKey: currencies/kirby2.jpg
 name: Kirby Cash
+platform: BNB
+platform_contract: '0x23b360e387d9e4d2646609861e68adc621a3af82'

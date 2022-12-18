@@ -5,3 +5,5 @@ id_nomics: BSCM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSCM2.jpg
 logoKey: currencies/bscm2.jpg
 name: BSC-EMAIL
+platform: BNB
+platform_contract: '0xdffba8dcaa357014c9589fee11588d4a9507cdb2'

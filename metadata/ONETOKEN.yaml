@@ -3,3 +3,5 @@ fiat: false
 id: ONETOKEN
 id_nomics: ONETOKEN
 name: Just a Token
+platform: ETH
+platform_contract: '0x090b01bccdfd66189a76182c83126fff81ec3a25'

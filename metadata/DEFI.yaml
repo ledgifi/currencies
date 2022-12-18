@@ -6,3 +6,5 @@ id_nomics: DEFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEFI.jpg
 logoKey: currencies/defi.jpg
 name: Defi
+platform: BNB
+platform_contract: '0x455dedacbe41c178953119847f2b95e2d9ad0a1d'

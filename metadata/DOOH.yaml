@@ -5,3 +5,5 @@ id_nomics: DOOH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOOH.jpeg
 logoKey: currencies/dooh.jpeg
 name: Bidooh
+platform: ETH
+platform_contract: '0x18c525cce3ad9a48d82f91b874754be78e9d0f85'

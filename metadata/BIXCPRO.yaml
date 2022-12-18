@@ -5,3 +5,5 @@ id_nomics: BIXCPRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIXCPRO.jpg
 logoKey: currencies/bixcpro.jpg
 name: BIXCPRO
+platform: ETH
+platform_contract: '0x3e9e371f8d2e9fca315fb0a747533ced8a3fcbcb'

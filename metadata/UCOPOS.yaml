@@ -3,3 +3,5 @@ fiat: false
 id: UCOPOS
 id_nomics: UCOPOS
 name: Uniris (PoS)
+platform: MATIC
+platform_contract: '0x3c720206bfacb2d16fa3ac0ed87d2048dbc401fc'

@@ -3,3 +3,5 @@ fiat: false
 id: ETT2
 id_nomics: ETT2
 name: Efficient Transaction Token
+platform: ETH
+platform_contract: '0x1212b68d8555cf0b08f3371b926b3e1148b520f1'

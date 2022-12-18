@@ -6,3 +6,5 @@ id_nomics: LUFFY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUFFY.jpg
 logoKey: currencies/luffy.jpg
 name: Luffy Inu
+platform: ETH
+platform_contract: '0xc1bfccd4c29813ede019d00d2179eea838a67703'

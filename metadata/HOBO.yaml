@@ -6,3 +6,5 @@ id_nomics: HOBO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOBO.png
 logoKey: currencies/hobo.png
 name: HoboNickels
+platform: ETH
+platform_contract: '0x6Ee2AbfBF98D85c7090B5459103334a3638649c4'

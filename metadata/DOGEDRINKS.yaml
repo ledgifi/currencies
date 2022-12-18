@@ -6,3 +6,5 @@ id_nomics: DOGEDRINKS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEDRINKS.jpg
 logoKey: currencies/dogedrinks.jpg
 name: DogeDrinks
+platform: BNB
+platform_contract: '0x82ed5fe7e64875c30fe7faaf2bf04e3ba9f8f066'

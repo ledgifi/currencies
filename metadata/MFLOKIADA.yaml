@@ -6,3 +6,5 @@ id_nomics: MFLOKIADA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MFLOKIADA.jpg
 logoKey: currencies/mflokiada.jpg
 name: MiniFlokiADA
+platform: BNB
+platform_contract: '0x48cbc7f87c657fea3b297f658a5133a5deef9b04'

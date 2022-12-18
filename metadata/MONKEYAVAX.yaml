@@ -3,3 +3,5 @@ fiat: false
 id: MONKEYAVAX
 id_nomics: MONKEYAVAX
 name: MonkeyAvax
+platform: AVAX
+platform_contract: '0x78bbd045b6b18aef01261bc18079275ec1a792b7'

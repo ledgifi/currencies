@@ -5,3 +5,5 @@ id_nomics: AT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AT3.jpg
 logoKey: currencies/at3.jpg
 name: AT Finance
+platform: BNB
+platform_contract: '0x87eba250a34e7486eab140d89e2eb5d8d113ea2d'

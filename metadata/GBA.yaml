@@ -5,3 +5,5 @@ id_nomics: GBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GBA.jpg
 logoKey: currencies/gba.jpg
 name: Golden BanADAs
+platform: BNB
+platform_contract: '0xcb80a7dc6e1471e2bef9ec0b6c86ecd442e9250b'

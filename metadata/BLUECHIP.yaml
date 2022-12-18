@@ -5,3 +5,5 @@ id_nomics: BLUECHIP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLUECHIP.jpeg
 logoKey: currencies/bluechip.jpeg
 name: BlueChip
+platform: BNB
+platform_contract: '0x56a435d695a41fca7b5bf6d12d286a51b560e20e'

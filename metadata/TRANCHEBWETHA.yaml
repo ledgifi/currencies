@@ -3,3 +3,5 @@ fiat: false
 id: TRANCHEBWETHA
 id_nomics: TRANCHEBWETHA
 name: ButtonTranche bWETH A
+platform: ETH
+platform_contract: '0x57a870aabbaab28d8b60482b6d478242e3533ac5'

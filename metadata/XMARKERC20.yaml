@@ -5,3 +5,5 @@ id_nomics: XMARKERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XMARKERC20.jpg
 logoKey: currencies/xmarkerc20.jpg
 name: xMARK (ERC-20)
+platform: ETH
+platform_contract: '0x36b679bd64ed73dbfd88909cdcb892cb66bd4cbb'

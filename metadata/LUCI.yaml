@@ -5,3 +5,5 @@ id_nomics: LUCI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUCI.jpg
 logoKey: currencies/luci.jpg
 name: Luci Token
+platform: ETH
+platform_contract: '0x23f0a8744098f09b781526d9440f98c197d64aaa'

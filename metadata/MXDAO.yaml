@@ -3,3 +3,5 @@ fiat: false
 id: MXDAO
 id_nomics: MXDAO
 name: mxdao
+platform: ETH
+platform_contract: '0x797d263976cb807d5958252070f61f07ac627b44'

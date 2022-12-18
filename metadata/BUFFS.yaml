@@ -5,3 +5,5 @@ id_nomics: BUFFS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUFFS.jpg
 logoKey: currencies/buffs.jpg
 name: BuffSwap
+platform: BNB
+platform_contract: '0x140b890bf8e2fe3e26fcd516c75728fb20b31c4f'

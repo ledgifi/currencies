@@ -5,3 +5,5 @@ id_nomics: AWG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AWG2.jpg
 logoKey: currencies/awg2.jpg
 name: AurusGOLD
+platform: ETH
+platform_contract: '0x696acc2de564b48682d71d0847b3632f87c9a402'

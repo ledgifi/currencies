@@ -3,3 +3,5 @@ fiat: false
 id: EVIC
 id_nomics: EVIC
 name: Ethereum Victory
+platform: AVAX
+platform_contract: '0x74fefa839a96a1632a29e0fcf0907d0f88528658'

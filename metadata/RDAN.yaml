@@ -5,3 +5,5 @@ id_nomics: RDAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RDAN.png
 logoKey: currencies/rdan.png
 name: REDAN
+platform: ETH
+platform_contract: '0x3643ed7a06ebdd39aa18f8bb2f357afeebafd62b'

@@ -5,3 +5,5 @@ id_nomics: SOUL5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOUL5.jpg
 logoKey: currencies/soul5.jpg
 name: Soul Swap
+platform: FTM
+platform_contract: '0xe2fb177009ff39f52c0134e8007fa0e4baacbd07'

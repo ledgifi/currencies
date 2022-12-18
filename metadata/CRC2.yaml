@@ -5,3 +5,5 @@ id_nomics: CRC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/crc.jpg
 logoKey: currencies/crc2.jpg
 name: Crycash
+platform: ETH
+platform_contract: '0xf41e5fbc2f6aac200dd8619e121ce1f05d150077'

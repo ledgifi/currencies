@@ -5,3 +5,5 @@ id_nomics: ABLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ABLD.png
 logoKey: currencies/abld.png
 name: ABLE Dollar
+platform: ETH
+platform_contract: '0x5cfaf9ad2cb84ce2bc40be1beb735bd12a075e99'

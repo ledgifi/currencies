@@ -5,3 +5,5 @@ id_nomics: VINE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VINE.png
 logoKey: currencies/vine.png
 name: BscMonkey
+platform: BNB
+platform_contract: '0x4C99f5472D62ab764943C297a8d604868946017D'

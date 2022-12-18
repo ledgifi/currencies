@@ -6,3 +6,5 @@ id_nomics: SWG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWG.jpg
 logoKey: currencies/swg.jpg
 name: Swirge
+platform: ETH
+platform_contract: '0x92ef4ffbfe0df030837b65d7fccfe1abd6549579'

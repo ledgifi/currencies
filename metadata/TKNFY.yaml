@@ -6,3 +6,5 @@ id_nomics: TKNFY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TKNFY.jpg
 logoKey: currencies/tknfy.jpg
 name: Tokenfy
+platform: ETH
+platform_contract: '0xa6dd98031551c23bb4a2fbe2c4d524e8f737c6f7'

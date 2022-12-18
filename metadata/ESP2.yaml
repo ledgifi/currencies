@@ -5,3 +5,5 @@ id_nomics: ESP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ESP2.jpg
 logoKey: currencies/esp2.jpg
 name: ESPcoin
+platform: ETH
+platform_contract: '0xebd880564d73566b7479801ed6c17d1c395decb4'

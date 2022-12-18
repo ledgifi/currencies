@@ -6,3 +6,5 @@ id_nomics: BALPAC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BALPAC.jpg
 logoKey: currencies/balpac.jpg
 name: Baby Alpaca
+platform: BNB
+platform_contract: '0x83dd5794d844bb4bd630c2facc45a77729232991'

@@ -5,3 +5,5 @@ id_nomics: SHF4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHF4.png
 logoKey: currencies/shf4.png
 name: Spooky Halloween Floki
+platform: BNB
+platform_contract: '0x9f59e79127fad40bbc26c1ec6578d345af40bd1f'

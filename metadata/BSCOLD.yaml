@@ -5,3 +5,5 @@ id_nomics: BSCOLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSCOLD.png
 logoKey: currencies/bscold.png
 name: BSC Old Days Token
+platform: BNB
+platform_contract: '0xab3bed0044e9f2f83f28481ca49453bad640b492'

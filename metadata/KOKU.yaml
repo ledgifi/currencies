@@ -3,3 +3,5 @@ fiat: false
 id: KOKU
 id_nomics: KOKU
 name: Koku
+platform: BNB
+platform_contract: '0xaa39b60b5c4273f659674b6b34e3f187d16e7cfd'

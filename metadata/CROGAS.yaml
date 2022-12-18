@@ -5,3 +5,5 @@ id_nomics: CROGAS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CROGAS.png
 logoKey: currencies/crogas.png
 name: croGAS
+platform: CRO
+platform_contract: '0x2c7B96bDDa46104521d40AD3dCf80F9015051c31'

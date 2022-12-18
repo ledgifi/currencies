@@ -6,3 +6,5 @@ id_nomics: XJP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XJP.jpg
 logoKey: currencies/xjp.jpg
 name: eXciting Japan Coin
+platform: ETH
+platform_contract: '0x604026696fdb3c6720ae3049c46d59ac604dea0a'

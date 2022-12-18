@@ -6,3 +6,5 @@ id_nomics: COUNTY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COUNTY.jpg
 logoKey: currencies/county.jpg
 name: County Metaverse
+platform: BNB
+platform_contract: '0x1967cabd079fcdd363a044f1444bf00a94558a2f'

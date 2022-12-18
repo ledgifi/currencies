@@ -5,3 +5,5 @@ id_nomics: DECI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DECI.png
 logoKey: currencies/deci.png
 name: Maximus Decimus
+platform: ETH
+platform_contract: '0x6b32022693210cd2cfc466b9ac0085de8fc34ea6'

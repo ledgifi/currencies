@@ -5,3 +5,5 @@ id_nomics: SNES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNES.png
 logoKey: currencies/snes.png
 name: Super Nintendo
+platform: BNB
+platform_contract: '0x92CF07318093b143Faf1f20b0c50ED4eCB7d4B9a'

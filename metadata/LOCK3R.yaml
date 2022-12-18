@@ -3,3 +3,5 @@ fiat: false
 id: LOCK3R
 id_nomics: LOCK3R
 name: lock3r.network
+platform: ETH
+platform_contract: '0xa5ab0a31c34bce7c30a44edbecd685ca9039152f'

@@ -3,3 +3,5 @@ fiat: false
 id: KRUN
 id_nomics: KRUN
 name: StarkUnit
+platform: BNB
+platform_contract: '0xf0a55d91555478be0f6e3f90f78f8227dfa9b723'

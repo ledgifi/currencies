@@ -6,3 +6,5 @@ id_nomics: GANY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GANY.png
 logoKey: currencies/gany.png
 name: Ganymede
+platform: BNB
+platform_contract: '0x72b4404a20b6342ce3d8a9707316a07cbff9063d'

@@ -3,3 +3,5 @@ fiat: false
 id: EURD
 id_nomics: EURD
 name: Euro Token Digital
+platform: BNB
+platform_contract: '0x98690b6ffd294fbcb96b70caa153723b3b08f453'

@@ -5,3 +5,5 @@ id_nomics: SOHM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOHM2.jpg
 logoKey: currencies/sohm2.jpg
 name: SafeOHM
+platform: BNB
+platform_contract: '0xbdaa094a95e452c6ba175ce9edfefba04e6a51ac'

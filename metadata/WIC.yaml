@@ -6,3 +6,5 @@ id_nomics: WIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WIC.jpg
 logoKey: currencies/wic.jpg
 name: Wi Coin
+platform: ETH
+platform_contract: '0x5e4abe6419650ca839ce5bb7db422b881a6064bb'

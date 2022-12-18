@@ -5,3 +5,5 @@ id_nomics: AT5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AT5.jpg
 logoKey: currencies/at5.jpg
 name: ArabTycoon
+platform: BNB
+platform_contract: '0xfdb8b7fc07a36b4d908d4c317118761667236a37'

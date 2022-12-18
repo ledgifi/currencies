@@ -6,3 +6,5 @@ id_nomics: UMAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UMAD.jpg
 logoKey: currencies/umad.jpg
 name: MADworld
+platform: ETH
+platform_contract: '0x31c2415c946928e9fd1af83cdfa38d3edbd4326f'

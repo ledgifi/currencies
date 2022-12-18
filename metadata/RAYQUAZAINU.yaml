@@ -5,3 +5,5 @@ id_nomics: RAYQUAZAINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAYQUAZAINU.jpg
 logoKey: currencies/rayquazainu.jpg
 name: Rayquaza Inu
+platform: ETH
+platform_contract: '0x9098b52e4c7011e9bdbb9ffdf1fff9c6820d85ce'

@@ -3,3 +3,5 @@ fiat: false
 id: OPETS
 id_nomics: OPETS
 name: OctoPets
+platform: BNB
+platform_contract: '0x1603b818b8eca44987df4f619193a59e335691cf'

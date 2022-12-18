@@ -5,3 +5,5 @@ id_nomics: HLD3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HLD3.jpg
 logoKey: currencies/hld3.jpg
 name: Holdefi
+platform: ETH
+platform_contract: '0xd520ddbdf81323f4b9a0ea0adbb692ebef6ce280'

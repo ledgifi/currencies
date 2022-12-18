@@ -6,3 +6,5 @@ id_nomics: FLUF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLUF.jpeg
 logoKey: currencies/fluf.jpeg
 name: Fluffy Coin
+platform: BNB
+platform_contract: '0xa3abe68db1b8467b44715eb94542b20dc134f005'

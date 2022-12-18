@@ -5,3 +5,5 @@ id_nomics: COCA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COCA3.png
 logoKey: currencies/coca3.png
 name: CocaCola Inu
+platform: BNB
+platform_contract: '0x1af8be9c649ad52c17adffafa9050847cd7f4b7d'

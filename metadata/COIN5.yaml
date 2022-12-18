@@ -3,3 +3,5 @@ fiat: false
 id: COIN5
 id_nomics: COIN5
 name: Mushroom Coin
+platform: FTM
+platform_contract: '0xb4559681514867b6db1e7e805118cfad16949d37'

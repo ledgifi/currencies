@@ -6,3 +6,5 @@ id_nomics: UIP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/uip.jpg
 logoKey: currencies/uip.jpg
 name: UnlimitedIP
+platform: ETH
+platform_contract: '0x4290563c2d7c255b5eec87f2d3bd10389f991d68'

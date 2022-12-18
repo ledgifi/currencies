@@ -6,3 +6,5 @@ id_nomics: USG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USG.png
 logoKey: currencies/usg.png
 name: USGold
+platform: ETH
+platform_contract: '0x4000369acfa25c8fe5d17fe3312e30c332bef633'

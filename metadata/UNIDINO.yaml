@@ -5,3 +5,5 @@ id_nomics: UNIDINO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNIDINO.png
 logoKey: currencies/unidino.png
 name: Uni Dino
+platform: ETH
+platform_contract: '0x669ca12926cc446c6e1023d362b5af262833c760'

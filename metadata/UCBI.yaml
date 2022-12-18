@@ -5,3 +5,5 @@ id_nomics: UCBI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UCBI.jpg
 logoKey: currencies/ucbi.jpg
 name: UCBI Banking
+platform: ETH
+platform_contract: '0x2adba23cf1252de095aced801e758b369ec10426'

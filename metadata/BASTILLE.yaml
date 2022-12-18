@@ -5,3 +5,5 @@ id_nomics: BASTILLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BASTILLE.png
 logoKey: currencies/bastille.png
 name: Bastille De La Bouje
+platform: FTM
+platform_contract: '0xcef2b88d5599d578c8d92e7a6e6235fbfad01ef4'

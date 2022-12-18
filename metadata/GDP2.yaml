@@ -5,3 +5,5 @@ id_nomics: GDP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GDP2.jpg
 logoKey: currencies/gdp2.jpg
 name: Gold Pegas
+platform: BNB
+platform_contract: '0xe724279dcb071c3996a1d72defcf7124c3c45082'

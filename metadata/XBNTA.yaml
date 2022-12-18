@@ -5,3 +5,5 @@ id_nomics: XBNTA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XBNTA.png
 logoKey: currencies/xbnta.png
 name: xBNT
+platform: ETH
+platform_contract: '0x39f8e6c7877478de0604fe693c6080511bc0a6da'

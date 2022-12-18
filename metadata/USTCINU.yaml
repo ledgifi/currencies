@@ -3,3 +3,5 @@ fiat: false
 id: USTCINU
 id_nomics: USTCINU
 name: USTC Inu
+platform: ETH
+platform_contract: '0x85c94894b96651397aca3dfaa1715ab4ef853ec5'

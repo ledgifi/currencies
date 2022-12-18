@@ -5,3 +5,5 @@ id_nomics: UAHF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UAHF.png
 logoKey: currencies/uahf.png
 name: Ukrainian First Coin
+platform: BNB
+platform_contract: '0xd1912280b98d42940f8ab8b4da598264799731c3'

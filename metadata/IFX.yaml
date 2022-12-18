@@ -5,3 +5,5 @@ id_nomics: IFX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IFX.png
 logoKey: currencies/ifx.png
 name: IFX
+platform: ETH
+platform_contract: '0x68de11bc4b2623e352e92adf0a2dadb0da9a18af'

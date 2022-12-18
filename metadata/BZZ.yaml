@@ -5,3 +5,5 @@ id_nomics: BZZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BZZ.jpg
 logoKey: currencies/bzz.jpg
 name: BZZ
+platform: ETH
+platform_contract: '0x19062190b1925b5b6689d7073fdfc8c2976ef8cb'

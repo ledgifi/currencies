@@ -6,3 +6,5 @@ id_nomics: ZIP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/zip.png
 logoKey: currencies/zip.png
 name: Zipper
+platform: ETH
+platform_contract: '0xa9d2927d3a04309e008b6af6e2e282ae2952e7fd'

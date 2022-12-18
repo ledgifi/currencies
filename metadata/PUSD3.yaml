@@ -5,3 +5,5 @@ id_nomics: PUSD3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PUSD3.jpg
 logoKey: currencies/pusd3.jpg
 name: PegsUSD
+platform: ETH
+platform_contract: '0x412e5a36bde71aa2c38e1c0e26baaf7f2f0bc24a'

@@ -5,3 +5,5 @@ id_nomics: SLVN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLVN.jpg
 logoKey: currencies/slvn.jpg
 name: Salvation Finance
+platform: BNB
+platform_contract: '0x8fd95df18d6c39088e8ec03208a3fe27d5fccd83'

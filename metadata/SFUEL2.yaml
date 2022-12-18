@@ -5,3 +5,5 @@ id_nomics: SFUEL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFUEL2.jpg
 logoKey: currencies/sfuel2.jpg
 name: SuperFuel
+platform: BNB
+platform_contract: '0x31cc5ac39e2968c861830ade3580318bb815d633'

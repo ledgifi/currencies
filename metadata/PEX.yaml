@@ -5,3 +5,5 @@ id_nomics: PEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEX.jpg
 logoKey: currencies/pex.jpg
 name: PEX DeFi
+platform: BNB
+platform_contract: '0x50f15390951386ce3c34122a77444e54973ddb91'

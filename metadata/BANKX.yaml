@@ -3,3 +3,5 @@ fiat: false
 id: BANKX
 id_nomics: BANKX
 name: BANK OF X
+platform: ETH
+platform_contract: '0x667694e1ad3d361b95fc72868713d771e2729bc2'

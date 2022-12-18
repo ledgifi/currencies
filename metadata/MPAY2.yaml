@@ -5,3 +5,5 @@ id_nomics: MPAY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MPAY2.jpg
 logoKey: currencies/mpay2.jpg
 name: Metapay
+platform: BNB
+platform_contract: '0xfe4066f9c900c4e4dce13fb1c3c751ccffd8b6a3'

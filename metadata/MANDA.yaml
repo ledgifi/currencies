@@ -5,3 +5,5 @@ id_nomics: MANDA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MANDA.jpg
 logoKey: currencies/manda.jpg
 name: Manda Inu
+platform: BNB
+platform_contract: '0x26374af6080fe6bdfe30b7273d322c08b60fae43'

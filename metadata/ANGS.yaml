@@ -3,3 +3,5 @@ fiat: false
 id: ANGS
 id_nomics: ANGS
 name: Angel Starter
+platform: AVAX
+platform_contract: '0xc81ceccaf1cd0264f7095095ac68a45fed0659a5'

@@ -5,3 +5,5 @@ id_nomics: MCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCX.jpg
 logoKey: currencies/mcx.jpg
 name: Macy's, Inc. Token
+platform: ETH
+platform_contract: '0x2e42e8da119315881748b140e69a0343dacab4ea'

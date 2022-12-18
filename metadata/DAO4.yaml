@@ -5,3 +5,5 @@ id_nomics: DAO4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAO4.jpg
 logoKey: currencies/dao4.jpg
 name: Decentralized Autonomous Organization
+platform: BCH
+platform_contract: '0xca0235058985fcc1839e9e37c10900a73c126708'

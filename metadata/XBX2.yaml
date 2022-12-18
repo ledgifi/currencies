@@ -5,3 +5,5 @@ id_nomics: XBX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XBX2.jpg
 logoKey: currencies/xbx2.jpg
 name: XBX Coin
+platform: ETH
+platform_contract: '0x46dceb1bb2c55531d12a4e769e8088f4af64d410'

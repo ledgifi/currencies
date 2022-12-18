@@ -6,3 +6,5 @@ id_nomics: ADAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADAT.jpg
 logoKey: currencies/adat.jpg
 name: Adadex Tools
+platform: BNB
+platform_contract: '0xdce6380b9d2d8beac66b0fba2604c51519d24d77'

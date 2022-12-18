@@ -3,3 +3,5 @@ fiat: false
 id: IOSBNB
 id_nomics: IOSBNB
 name: IOSBNB
+platform: BNB
+platform_contract: '0x86056ad40dc996747779e3d51d87e812890245a9'

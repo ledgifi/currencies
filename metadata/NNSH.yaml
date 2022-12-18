@@ -5,3 +5,5 @@ id_nomics: NNSH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NNSH.jpg
 logoKey: currencies/nnsh.jpg
 name: NANASHI Token
+platform: ETH
+platform_contract: '0x3e419b0401339df3564edfa3686d7f99354f134d'

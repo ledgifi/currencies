@@ -6,3 +6,5 @@ id_nomics: BANKER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BANKER.jpg
 logoKey: currencies/banker.jpg
 name: BankerDoge
+platform: BNB
+platform_contract: '0xf06419c638a1d809c024aa693147dbdc42b60145'

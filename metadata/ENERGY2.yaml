@@ -5,3 +5,5 @@ id_nomics: ENERGY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ENERGY2.jpg
 logoKey: currencies/energy2.jpg
 name: Energy Token
+platform: BNB
+platform_contract: '0x1a566dd84262d51c7543a85408a8452bee025841'

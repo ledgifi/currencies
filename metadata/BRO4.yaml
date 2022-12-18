@@ -5,3 +5,5 @@ id_nomics: BRO4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRO4.png
 logoKey: currencies/bro4.png
 name: Brave Heart
+platform: BNB
+platform_contract: '0x78b414e0fbcb6f34ebb1cf115cfc6c58ac5d3e4a'

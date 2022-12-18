@@ -5,3 +5,5 @@ id_nomics: OCEANEWT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCEANEWT.png
 logoKey: currencies/oceanewt.png
 name: Ocean Token on Energy Web Chain
+platform: EWT
+platform_contract: '0x593122AAE80A6Fc3183b2AC0c4ab3336dEbeE528'

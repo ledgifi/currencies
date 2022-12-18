@@ -6,3 +6,5 @@ id_nomics: ZUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZUSD.jpg
 logoKey: currencies/zusd.jpg
 name: Zytara Dollar
+platform: ETH
+platform_contract: '0xbf0f3ccb8fa385a287106fba22e6bb722f94d686'

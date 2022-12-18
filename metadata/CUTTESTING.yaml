@@ -3,3 +3,5 @@ fiat: false
 id: CUTTESTING
 id_nomics: CUTTESTING
 name: CryptoUnityTokenTesting
+platform: BNB
+platform_contract: '0x972552aec7ca14177fb6b47f5771e6f071bcef40'

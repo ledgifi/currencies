@@ -5,3 +5,5 @@ id_nomics: CT7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CT7.png
 logoKey: currencies/ct7.png
 name: CreativeTalents
+platform: MATIC
+platform_contract: '0x6F7a8816fed71409A5C1d064100433b3328fcdFb'

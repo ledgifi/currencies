@@ -3,3 +3,5 @@ fiat: false
 id: STYCRV
 id_nomics: STYCRV
 name: Staked Yearn CRV Vault
+platform: ETH
+platform_contract: '0x27b5739e22ad9033bcbf192059122d163b60349d'

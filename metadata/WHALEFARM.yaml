@@ -5,3 +5,5 @@ id_nomics: WHALEFARM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WHALEFARM.jpg
 logoKey: currencies/whalefarm.jpg
 name: WhaleFarm
+platform: BNB
+platform_contract: '0xd07efbcdd7242212ff67372cdb2c9ddaa0290fae'

@@ -5,3 +5,5 @@ id_nomics: BEABULL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEABULL2.jpg
 logoKey: currencies/beabull2.jpg
 name: BEABULLv2
+platform: ETH
+platform_contract: '0x0c2590e2997da90da19664dfdef98722ef05889c'

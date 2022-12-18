@@ -5,3 +5,5 @@ id_nomics: KCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KCX.jpg
 logoKey: currencies/kcx.jpg
 name: Kellogg Company Token
+platform: ETH
+platform_contract: '0x9efc8df9ccc40017e800381cd9fd457dbebed995'

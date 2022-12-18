@@ -5,3 +5,5 @@ id_nomics: ISTB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ISTB.jpeg
 logoKey: currencies/istb.jpeg
 name: Istanbul Token
+platform: BNB
+platform_contract: '0x514Ff4dA8566235cE649ba8Fc2f92dEb71C6D168'

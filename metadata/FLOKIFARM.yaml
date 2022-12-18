@@ -5,3 +5,5 @@ id_nomics: FLOKIFARM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKIFARM.jpeg
 logoKey: currencies/flokifarm.jpeg
 name: Floki Inu Farm
+platform: BNB
+platform_contract: '0xe6395549e9a74a0a7283f8f4657888cbd32f9e21'

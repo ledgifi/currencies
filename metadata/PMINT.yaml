@@ -5,3 +5,5 @@ id_nomics: PMINT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PMINT.png
 logoKey: currencies/pmint.png
 name: Peppermint
+platform: MINTME
+platform_contract: '0xe67f14Fa595947bd63546866a1FCCf27E2D58203'

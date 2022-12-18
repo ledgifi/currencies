@@ -6,3 +6,5 @@ id_nomics: DEKU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEKU.jpg
 logoKey: currencies/deku.jpg
 name: DekuInu
+platform: ETH
+platform_contract: '0xa1a88cea335edaf30ce90f103f1434a773ea46bd'

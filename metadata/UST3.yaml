@@ -5,3 +5,5 @@ id_nomics: UST3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UST3.jpg
 logoKey: currencies/ust3.jpg
 name: TerraUSD (Wormhole)
+platform: ETH
+platform_contract: '0xa693b19d2931d498c5b318df961919bb4aee87a5'

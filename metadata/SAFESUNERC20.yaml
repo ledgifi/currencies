@@ -5,3 +5,5 @@ id_nomics: SAFESUNERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFESUNERC20.jpg
 logoKey: currencies/safesunerc20.jpg
 name: SafeSun (ERC-20)
+platform: ETH
+platform_contract: '0xc61708603c7b317eb4e84c923370f50ed9ad8077'

@@ -6,3 +6,5 @@ id_nomics: HB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/hb.jpg
 logoKey: currencies/hb.jpg
 name: HeartBout
+platform: ETH
+platform_contract: '0x877c7deb5eb1fc5faad30c71e3a6e39dc8b1519f'

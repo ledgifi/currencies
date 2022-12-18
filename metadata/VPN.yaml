@@ -3,3 +3,5 @@ fiat: false
 id: VPN
 id_nomics: VPN
 name: VPNI
+platform: BNB
+platform_contract: '0xb77e20ff1d07e83db2c923e8bdf7b9e0c69b8e53'

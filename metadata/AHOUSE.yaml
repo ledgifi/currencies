@@ -6,3 +6,5 @@ id_nomics: AHOUSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AHOUSE.jpg
 logoKey: currencies/ahouse.jpg
 name: AnimalHouse
+platform: ETH
+platform_contract: '0xb125cceb9c6e349217d09b069a8d88dbeacf06e5'

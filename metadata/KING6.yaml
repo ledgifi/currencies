@@ -5,3 +5,5 @@ id_nomics: KING6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KING6.jpg
 logoKey: currencies/king6.jpg
 name: KingFund Finance
+platform: BNB
+platform_contract: '0x51c5807dd8398aedfcc91e6483417838b41eaeb8'

@@ -5,3 +5,5 @@ id_nomics: NINJA5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NINJA5.jpeg
 logoKey: currencies/ninja5.jpeg
 name: Ninja Inu
+platform: BNB
+platform_contract: '0xc5a6b63ebb6b82f86c134fb88cf9657e48bd47eb'

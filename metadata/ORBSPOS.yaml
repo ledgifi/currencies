@@ -5,3 +5,5 @@ id_nomics: ORBSPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORBSPOS.jpg
 logoKey: currencies/orbspos.jpg
 name: Orbs (Polygon)
+platform: MATIC
+platform_contract: '0x614389eaae0a6821dc49062d56bda3d9d45fa2ff'

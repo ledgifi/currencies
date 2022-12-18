@@ -5,3 +5,5 @@ id_nomics: KEKBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KEKBEP20.jpg
 logoKey: currencies/kekbep20.jpg
 name: CryptoKek (BEP-20)
+platform: BNB
+platform_contract: '0x627524d78b4fc840c887ffec90563c7a42b671fd'

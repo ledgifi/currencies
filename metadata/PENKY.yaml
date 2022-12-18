@@ -5,3 +5,5 @@ id_nomics: PENKY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PENKY.jpg
 logoKey: currencies/penky.jpg
 name: Penky
+platform: MATIC
+platform_contract: '0x3a35e98cc7390a15d458bb85f9a12823e2ef25ed'

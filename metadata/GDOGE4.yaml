@@ -5,3 +5,5 @@ id_nomics: GDOGE4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GDOGE4.jpg
 logoKey: currencies/gdoge4.jpg
 name: Generic Doge
+platform: BNB
+platform_contract: '0xf9b2c2f85167d58d1603371a83ffadc676d089dc'

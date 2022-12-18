@@ -6,3 +6,5 @@ id_nomics: N3RDZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NERDZ.jpg
 logoKey: currencies/n3rdz.jpg
 name: N3RD Finance
+platform: ETH
+platform_contract: '0x32c868f6318d6334b2250f323d914bc2239e4eee'

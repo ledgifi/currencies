@@ -3,3 +3,5 @@ fiat: false
 id: WT1
 id_nomics: WT1
 name: WToken1
+platform: BNB
+platform_contract: '0x4993fd2e9d175488712cdbe64be71d4dcd184123'

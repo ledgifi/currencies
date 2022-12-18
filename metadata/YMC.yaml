@@ -3,3 +3,5 @@ fiat: false
 id: YMC
 id_nomics: YMC
 name: ymc
+platform: HT
+platform_contract: '0x1dfd3f1080b9163309d42eb1c9c03acff988a560'

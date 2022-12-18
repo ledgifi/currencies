@@ -5,3 +5,5 @@ id_nomics: WLF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WLF.png
 logoKey: currencies/wlf.png
 name: Wolfs Group
+platform: ETH
+platform_contract: '0x02b1669bc9ee893edaff3cadfd326a294d643f99'

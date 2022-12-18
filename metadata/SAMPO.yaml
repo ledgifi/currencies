@@ -3,3 +3,5 @@ fiat: false
 id: SAMPO
 id_nomics: SAMPO
 name: Sampo Token
+platform: MATIC
+platform_contract: '0x6ef9da0d18f7eaee738c5f4ac727c3f4999581a6'

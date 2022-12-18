@@ -3,3 +3,5 @@ fiat: false
 id: DETH
 id_nomics: DETH
 name: DETH
+platform: BNB
+platform_contract: '0xbf43236d9d406e7aebde7cd39e16bea89a8261e8'

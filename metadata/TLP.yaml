@@ -6,3 +6,5 @@ id_nomics: TLP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TLP.jpg
 logoKey: currencies/tlp.jpg
 name: TLP Token
+platform: BNB
+platform_contract: '0xe86de8caadcfb136e28a43adbeaa9477106fdbed'

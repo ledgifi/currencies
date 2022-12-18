@@ -6,3 +6,5 @@ id_nomics: ZKS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZKS2.jpg
 logoKey: currencies/zks.jpg
 name: ZKSwap
+platform: ETH
+platform_contract: '0xe4815ae53b124e7263f08dcdbbb757d41ed658c6'

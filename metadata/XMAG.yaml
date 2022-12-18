@@ -5,3 +5,5 @@ id_nomics: XMAG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XMAG.jpg
 logoKey: currencies/xmag.jpg
 name: Xmagnet
+platform: BNB
+platform_contract: '0xa9686056aa043e49d560fc4b0fd163ceef17d0c9'

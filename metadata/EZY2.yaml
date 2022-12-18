@@ -5,3 +5,5 @@ id_nomics: EZY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EZY2.jpg
 logoKey: currencies/ezy2.jpg
 name: Ezystayz
+platform: ETH
+platform_contract: '0xa6d5c720a9af5a405dfb6b9f44fc44fab5d4a58d'

@@ -5,3 +5,5 @@ id_nomics: SWAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWAY.jpg
 logoKey: currencies/sway.jpg
 name: Sway Social Protocol
+platform: MATIC
+platform_contract: '0x262b8aa7542004f023b0eb02bc6b96350a02b728'

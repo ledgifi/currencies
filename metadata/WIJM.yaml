@@ -5,3 +5,5 @@ id_nomics: WIJM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WIJM.jpg
 logoKey: currencies/wijm.jpg
 name: Wrapped Injeolmi
+platform: BNB
+platform_contract: '0xf258f061ae2d68d023ea6e7cceef97962785c6c1'

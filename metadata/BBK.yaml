@@ -5,3 +5,5 @@ id_nomics: BBK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bbk.png
 logoKey: currencies/bbk.png
 name: Brickblock
+platform: ETH
+platform_contract: '0x4a6058666cf1057eac3cd3a5a614620547559fc9'

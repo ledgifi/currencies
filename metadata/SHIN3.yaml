@@ -5,3 +5,5 @@ id_nomics: SHIN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIN3.jpg
 logoKey: currencies/shin3.jpg
 name: Shineiji Inu
+platform: BNB
+platform_contract: '0xa906c20302948518ac0c89b8ea363af9ddb96915'

@@ -5,3 +5,5 @@ id_nomics: LBD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LBD2.jpg
 logoKey: currencies/lbd2.jpg
 name: LittleBabyDoge
+platform: BNB
+platform_contract: '0xf67006f8d22edebd1191f3e728ab9a90289e6c38'

@@ -5,3 +5,5 @@ id_nomics: BCPAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCPAY.jpg
 logoKey: currencies/bcpay.jpg
 name: 'BitCashPay (BEP-20) V2 '
+platform: BNB
+platform_contract: '0x21f1ce0fcf1e9e39f8e79b7762801e8096d9f6cd'

@@ -5,3 +5,5 @@ id_nomics: CP5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CP5.jpg
 logoKey: currencies/cp5.jpg
 name: Crystal Powder
+platform: BNB
+platform_contract: '0xe9c133d3d94263c7ac7b848168138d7cf2ceba14'

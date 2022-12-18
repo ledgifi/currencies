@@ -3,3 +3,5 @@ fiat: false
 id: STREND
 id_nomics: STREND
 name: Supertrend
+platform: ETH
+platform_contract: '0x947466de29950cf8d31e5b1c3551b6c14d7b169c'

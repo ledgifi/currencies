@@ -5,3 +5,5 @@ id_nomics: LITHO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LITHO.jpg
 logoKey: currencies/litho.jpg
 name: Litho
+platform: BNB
+platform_contract: '0xb33a7d69ce890445ff861b82d5d8f9ce2dd8f339'

@@ -5,3 +5,5 @@ id_nomics: SQWARD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SQWARD.jpg
 logoKey: currencies/sqward.jpg
 name: Squidward
+platform: BNB
+platform_contract: '0xf4bc3ba27a2725ed25046160d144627bc97492f6'

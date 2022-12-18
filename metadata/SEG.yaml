@@ -6,3 +6,5 @@ id_nomics: SEG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SEG.jpg
 logoKey: currencies/seg.jpg
 name: Solar Energy
+platform: BNB
+platform_contract: '0xec126e20e7cb114dd3ba356100eaca2cc2921322'

@@ -6,3 +6,5 @@ id_nomics: DACXI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DACXI.png
 logoKey: currencies/dacxi.png
 name: Dacxi
+platform: ETH
+platform_contract: '0xefab7248d36585e2340e5d25f8a8d243e6e3193f'

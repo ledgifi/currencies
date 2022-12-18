@@ -5,3 +5,5 @@ id_nomics: NFP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFP2.png
 logoKey: currencies/nfp2.png
 name: Philia Chain
+platform: BNB
+platform_contract: '0x7b1bbdf05423b3910aab76e7d3f4d44713866550'

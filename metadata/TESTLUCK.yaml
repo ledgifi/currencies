@@ -3,3 +3,5 @@ fiat: false
 id: TESTLUCK
 id_nomics: TESTLUCK
 name: testluck
+platform: HT
+platform_contract: '0xbb78b41151738910dfb5d047d96011e644baf1ef'

@@ -6,3 +6,5 @@ id_nomics: LGBTQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LGBTQ.jpg
 logoKey: currencies/lgbtq.jpg
 name: Pride
+platform: ETH
+platform_contract: '0x7cb97a776a49e272baccad31396405a94f3fb3f8'

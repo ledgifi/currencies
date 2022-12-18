@@ -5,3 +5,5 @@ id_nomics: WBDC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WBDC.png
 logoKey: currencies/wbdc.png
 name: BullDoge Chain
+platform: BNB
+platform_contract: '0xf462a351cff44716b0d31df87976467fdf83cb9d'

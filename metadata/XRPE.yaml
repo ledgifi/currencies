@@ -3,3 +3,5 @@ fiat: false
 id: XRPE
 id_nomics: XRPE
 name: XRP
+platform: ETH
+platform_contract: '0x0abe1fbd97b9655189baab092766bfc107c09f53'

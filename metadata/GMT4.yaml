@@ -5,3 +5,5 @@ id_nomics: GMT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMT4.webp
 logoKey: currencies/gmt4.webp
 name: GemLook
+platform: BNB
+platform_contract: '0x6633f69aa2dc7d4c5404991b88f6ef88b8b2ad88'

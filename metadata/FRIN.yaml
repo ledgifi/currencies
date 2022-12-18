@@ -5,3 +5,5 @@ id_nomics: FRIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FRIN.jpg
 logoKey: currencies/frin.jpg
 name: Fringe Finance
+platform: ETH
+platform_contract: '0xc9fe6e1c76210be83dc1b5b20ec7fd010b0b1d15'

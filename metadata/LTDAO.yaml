@@ -3,3 +3,5 @@ fiat: false
 id: LTDAO
 id_nomics: LTDAO
 name: LTDAO
+platform: BNB
+platform_contract: '0x37f68f1eab8728dc5a91add59dcdc0dd5b53f2e9'

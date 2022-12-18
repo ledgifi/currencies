@@ -5,3 +5,5 @@ id_nomics: ZEROBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZERO.jpg
 logoKey: currencies/zerobep20.jpg
 name: Zero Exchange (BEP-20)
+platform: BNB
+platform_contract: '0x1f534d2b1ee2933f1fdf8e4b63a44b2249d77eaf'

@@ -5,3 +5,5 @@ id_nomics: ILNERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ILNERC20.png
 logoKey: currencies/ilnerc20.png
 name: Ilien (ERC-20)
+platform: ETH
+platform_contract: '0x41C2d3948EFC8340B2D6a6bB9Ee566d1De02Fe26'

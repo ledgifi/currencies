@@ -5,3 +5,5 @@ id_nomics: RIFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RIFT.jpg
 logoKey: currencies/rift.jpg
 name: Rift
+platform: ETH
+platform_contract: '0x7743db95a17be7455710e338292eeaefd28a66ae'

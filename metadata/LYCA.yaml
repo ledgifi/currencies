@@ -6,3 +6,5 @@ id_nomics: LYCA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LYCA.jpg
 logoKey: currencies/lyca.jpg
 name: Lyca Island
+platform: BNB
+platform_contract: '0xcea68cfc92f3c0db464a80a3cb07fe12313de478'

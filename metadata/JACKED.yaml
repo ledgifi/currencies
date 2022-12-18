@@ -3,3 +3,5 @@ fiat: false
 id: JACKED
 id_nomics: JACKED
 name: jackedToken
+platform: XDAI
+platform_contract: '0x32420203021062d0f934e2302adbfd64265f1697'

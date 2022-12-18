@@ -5,3 +5,5 @@ id_nomics: ZGOLD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZGOLD2.jpg
 logoKey: currencies/zgold2.jpg
 name: Zeus Finance
+platform: BNB
+platform_contract: '0x2bd6feb40ec48d585e4d9cfe100aa5a7cbff6526'

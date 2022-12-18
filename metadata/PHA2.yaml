@@ -5,3 +5,5 @@ id_nomics: PHA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PHA2.png
 logoKey: currencies/pha2.png
 name: Alpha
+platform: BCH
+platform_contract: '0x5a3bb59f34d60e9eb5643fb80c8d712275f6a96a'

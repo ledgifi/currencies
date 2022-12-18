@@ -5,3 +5,5 @@ id_nomics: ZEROBANK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZEROBANK.jpg
 logoKey: currencies/zerobank.jpg
 name: ZeroBank
+platform: ETH
+platform_contract: '0x182a603541a4483c308475147d621bbb4e2587c6'

@@ -5,3 +5,5 @@ id_nomics: TOKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOKE.jpg
 logoKey: currencies/toke.jpg
 name: Non-Fungible TOKE
+platform: ETH
+platform_contract: '0x98ddc72bd02d448f68c4226f26122c66c5bd711e'

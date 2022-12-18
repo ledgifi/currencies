@@ -6,3 +6,5 @@ id_nomics: DGP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DGP.jpg
 logoKey: currencies/dgp.jpg
 name: DGPayment
+platform: ETH
+platform_contract: '0x927159670c50042109d7c0f4aed0cee89452433e'

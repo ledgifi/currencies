@@ -5,3 +5,5 @@ id_nomics: FRAG4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FRAG4.jpg
 logoKey: currencies/frag4.jpg
 name: Fragmint
+platform: BNB
+platform_contract: '0x1a73308d8eeb3c1a2b771e9ace73508c52706b76'

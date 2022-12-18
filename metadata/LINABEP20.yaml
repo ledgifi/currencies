@@ -5,3 +5,5 @@ id_nomics: LINABEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LINABEP20.jpg
 logoKey: currencies/linabep20.jpg
 name: Linear (BEP-20)
+platform: BNB
+platform_contract: '0x762539b45a1dcce3d36d080f74d1aed37844b878'

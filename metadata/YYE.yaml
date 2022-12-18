@@ -6,3 +6,5 @@ id_nomics: YYE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YYE.jpg
 logoKey: currencies/yye.jpg
 name: YYE Energy
+platform: BNB
+platform_contract: '0x72c3e1cfd42d40e0635ef486527788ef499ac859'

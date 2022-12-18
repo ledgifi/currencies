@@ -3,3 +3,5 @@ fiat: false
 id: SLUSD
 id_nomics: SLUSD
 name: Silisius USD
+platform: ETH
+platform_contract: '0xd1ef44d439a885a867732db280d233213ef54c2b'

@@ -5,3 +5,5 @@ id_nomics: ENOL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ENOL.png
 logoKey: currencies/enol.png
 name: Ethanol
+platform: ETH
+platform_contract: '0x63d0eea1d7c0d1e89d7e665708d7e8997c0a9ed6'

@@ -5,3 +5,5 @@ id_nomics: APE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APE2.jpg
 logoKey: currencies/ape2.jpg
 name: Ape Strong Finance
+platform: BNB
+platform_contract: '0xbfd905c84dd6e408f17a7e18f7fbc5864c935a31'

@@ -3,3 +3,5 @@ fiat: false
 id: CBR2
 id_nomics: CBR2
 name: Cybercoin
+platform: ETH
+platform_contract: '0x4ba012f6e411a1be55b98e9e62c3a4ceb16ec88b'

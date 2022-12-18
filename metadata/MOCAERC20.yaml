@@ -3,3 +3,5 @@ fiat: false
 id: MOCAERC20
 id_nomics: MOCAERC20
 name: Museum of Crypto Art (ERC-20)
+platform: ETH
+platform_contract: '0x9ac07635ddbde5db18648c360defb00f5f22537e'

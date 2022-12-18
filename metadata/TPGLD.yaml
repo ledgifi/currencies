@@ -5,3 +5,5 @@ id_nomics: TPGLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TPGLD.jpg
 logoKey: currencies/tpgld.jpg
 name: TPXGold
+platform: ETH
+platform_contract: '0x1850F0e456616e9a8Bf4fEc8092eb5209481832a'

@@ -3,3 +3,5 @@ fiat: false
 id: 3OMB
 id_nomics: 3OMB
 name: 3OMB Token
+platform: FTM
+platform_contract: '0x14def7584a6c52f470ca4f4b9671056b22f4ffde'

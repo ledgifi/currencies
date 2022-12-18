@@ -5,3 +5,5 @@ id_nomics: UART
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UART.jpg
 logoKey: currencies/uart.jpg
 name: UniArts Network Token (PoS)
+platform: BNB
+platform_contract: '0x5608d5159ab98881bc116ae7761c74ad2ebb0448'

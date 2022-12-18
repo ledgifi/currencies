@@ -5,3 +5,5 @@ id_nomics: BECO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BECO.jpg
 logoKey: currencies/beco.jpg
 name: BecoSwap Token
+platform: KAI2
+platform_contract: '0x2eddba8b949048861d2272068a94792275a51658'

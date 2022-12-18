@@ -3,3 +3,5 @@ fiat: false
 id: IDLEDAIYIELD
 id_nomics: IDLEDAIYIELD
 name: IdleDAI (Yield)
+platform: ETH
+platform_contract: '0x78751b12da02728f467a44eac40f5cbc16bd7934'

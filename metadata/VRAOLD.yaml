@@ -5,3 +5,5 @@ id_nomics: VRAOLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VRAOLD.jpg
 logoKey: currencies/vraold.jpg
 name: VERAsity (Old)
+platform: ETH
+platform_contract: '0xdf1d6405df92d981a2fb3ce68f6a03bac6c0e41f'

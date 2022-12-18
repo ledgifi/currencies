@@ -3,3 +3,5 @@ fiat: false
 id: BAGHOLDING
 id_nomics: BAGHOLDING
 name: Bag Holding
+platform: ETH
+platform_contract: '0x85587254d42de2170f38edec21b97e31cffc3623'

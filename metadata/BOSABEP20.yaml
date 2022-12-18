@@ -5,3 +5,5 @@ id_nomics: BOSABEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOSABEP20.jpg
 logoKey: currencies/bosabep20.jpg
 name: Coinbosa (BEP-20)
+platform: BNB
+platform_contract: '0xecb2d26a48876cc64ce2878cd7e873acf1461119'

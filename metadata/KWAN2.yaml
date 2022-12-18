@@ -5,3 +5,5 @@ id_nomics: KWAN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KWAN2.png
 logoKey: currencies/kwan2.png
 name: KWAN 2.0
+platform: BNB
+platform_contract: '0x5114940b28d9c18ecc89a8928397e32e951290cb'

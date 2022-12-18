@@ -5,3 +5,5 @@ id_nomics: ONEMOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ONEMOON.jpg
 logoKey: currencies/onemoon.jpg
 name: OneMoon
+platform: HARMONY
+platform_contract: '0xcb35e4945c7f463c5ccbe3bf9f0389ab9321248f'

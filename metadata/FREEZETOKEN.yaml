@@ -5,3 +5,5 @@ id_nomics: FREEZETOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FREEZETOKEN.jpg
 logoKey: currencies/freezetoken.jpg
 name: Freeze Token
+platform: BNB
+platform_contract: '0xe4f7c8c00733d51335c776a5032622cdc07601aa'

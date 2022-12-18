@@ -6,3 +6,5 @@ id_nomics: PAZZY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAZZY.jpg
 logoKey: currencies/pazzy.jpg
 name: Pazzy
+platform: ETH
+platform_contract: '0x74c287ad5328daca276c6a1c1f149415b12c148d'

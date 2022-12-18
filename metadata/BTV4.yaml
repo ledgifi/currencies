@@ -5,3 +5,5 @@ id_nomics: BTV4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTV4.jpg
 logoKey: currencies/btv4.jpg
 name: BitValve
+platform: ETH
+platform_contract: '0xb837b6467b4878fb5b3b81664042852593f15126'

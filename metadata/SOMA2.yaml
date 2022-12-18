@@ -5,3 +5,5 @@ id_nomics: SOMA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOMA2.jpg
 logoKey: currencies/soma2.jpg
 name: Somachain
+platform: BNB
+platform_contract: '0x46b5eace6611c1abb10670b63ca17fe93c605466'

@@ -6,3 +6,5 @@ id_nomics: TZKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TZKI.jpg
 logoKey: currencies/tzki.jpg
 name: Tsuzuki Inu
+platform: ETH
+platform_contract: '0xf527d24391c767b86b8e91385e1ce9c54d230a2b'

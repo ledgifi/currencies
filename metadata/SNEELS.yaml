@@ -5,3 +5,5 @@ id_nomics: SNEELS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNEELS.jpg
 logoKey: currencies/sneels.jpg
 name: SNEELS
+platform: BNB
+platform_contract: '0xc4dee7719418e24e03f833057e01535391f290f9'

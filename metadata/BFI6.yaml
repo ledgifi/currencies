@@ -5,3 +5,5 @@ id_nomics: BFI6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BFI6.jpg
 logoKey: currencies/bfi6.jpg
 name: BFis.Finance
+platform: BNB
+platform_contract: '0xafa4f3d72f0803b50c99663b3e90806d9d290770'

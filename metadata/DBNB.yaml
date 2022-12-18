@@ -5,3 +5,5 @@ id_nomics: DBNB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DBNB.jpg
 logoKey: currencies/dbnb.jpg
 name: Diamond-Peg BNB
+platform: BNB
+platform_contract: '0x4101fe75f547a65f6bb054a35f027c16562a45c3'

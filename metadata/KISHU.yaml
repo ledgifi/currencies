@@ -6,3 +6,5 @@ id_nomics: KISHU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KISHU.png
 logoKey: currencies/kishu.png
 name: Kishu Inu
+platform: ETH
+platform_contract: '0xa2b4c0af19cc16a6cfacce81f192b024d625817d'

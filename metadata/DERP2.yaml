@@ -5,3 +5,5 @@ id_nomics: DERP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DERP2.jpg
 logoKey: currencies/derp2.jpg
 name: Derp Inu
+platform: BNB
+platform_contract: '0xe75a6c490c5c51d484dbbea9a246feeaedf27524'

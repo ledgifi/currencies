@@ -5,3 +5,5 @@ id_nomics: MSD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSD2.jpg
 logoKey: currencies/msd2.jpg
 name: MoneyDefiSwap
+platform: BNB
+platform_contract: '0xfa5d78d4517d2c5ccbad2e56fa8fc321d6544f2b'

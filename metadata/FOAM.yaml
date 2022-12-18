@@ -5,3 +5,5 @@ id_nomics: FOAM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/foam.jpg
 logoKey: currencies/foam.jpg
 name: FOAM Token
+platform: ETH
+platform_contract: '0x4946fcea7c692606e8908002e55a582af44ac121'

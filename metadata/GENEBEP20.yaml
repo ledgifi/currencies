@@ -5,3 +5,5 @@ id_nomics: GENEBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GENEBEP20.jpg
 logoKey: currencies/genebep20.jpg
 name: Genopets (BEP-20)
+platform: BNB
+platform_contract: '0x9df465460938f9ebdf51c38cc87d72184471f8f0'

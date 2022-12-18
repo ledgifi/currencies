@@ -3,3 +3,5 @@ fiat: false
 id: CFM
 id_nomics: CFM
 name: CryptoFollow Meta
+platform: BNB
+platform_contract: '0x031f5fca0ee14192bd57eb61816973bd230d8d2e'

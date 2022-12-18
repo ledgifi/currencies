@@ -6,3 +6,5 @@ id_nomics: ORM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORM.jpg
 logoKey: currencies/orm.jpg
 name: ORIUM
+platform: ETH
+platform_contract: '0xd51e852630debc24e9e1041a03d80a0107f8ef0c'

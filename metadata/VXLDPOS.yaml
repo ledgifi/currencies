@@ -5,3 +5,5 @@ id_nomics: VXLDPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VXLDPOS.jpg
 logoKey: currencies/vxldpos.jpg
 name: VXL Dollar (Polygon)
+platform: MATIC
+platform_contract: '0x1ecb8178026ccdd2815218f9fc96ddd3cc4080e8'

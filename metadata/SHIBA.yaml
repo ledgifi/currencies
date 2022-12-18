@@ -6,3 +6,5 @@ id_nomics: SHIBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBA.jpg
 logoKey: currencies/shiba.jpg
 name: Shiba Fantom
+platform: FTM
+platform_contract: '0x9ba3e4f84a34df4e08c112e1a0ff148b81655615'

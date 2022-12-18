@@ -4,3 +4,5 @@ id: NVS
 id_nomics: NVS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NVS.jpg
 name: Navis
+platform: BNB
+platform_contract: '0x43a8a925c1930a313d283359184a64c51a2bc0e9'

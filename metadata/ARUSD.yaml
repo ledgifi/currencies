@@ -3,3 +3,5 @@ fiat: false
 id: ARUSD
 id_nomics: ARUSD
 name: Arable USD
+platform: AVAX
+platform_contract: '0x025ab35ff6abcca56d57475249baaeae08419039'

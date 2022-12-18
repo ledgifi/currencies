@@ -3,3 +3,5 @@ fiat: false
 id: EXODUS
 id_nomics: EXODUS
 name: EXODUS
+platform: ARBETH
+platform_contract: '0x6882ae658ce74b1ac6b5b24df30a5815373da47c'

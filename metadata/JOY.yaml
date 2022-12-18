@@ -5,3 +5,5 @@ id_nomics: JOY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JOY.png
 logoKey: currencies/joy.png
 name: JOYSO
+platform: ETH
+platform_contract: '0xdde12a12a6f67156e0da672be05c374e1b0a3e57'

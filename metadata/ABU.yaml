@@ -6,3 +6,5 @@ id_nomics: ABU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ABU.jpg
 logoKey: currencies/abu.jpg
 name: Abura Farm
+platform: BNB
+platform_contract: '0xa897515b2f01733f450a1da9e51e6df1ad4fa75e'

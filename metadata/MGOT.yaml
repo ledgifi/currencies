@@ -5,3 +5,5 @@ id_nomics: MGOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MGOT.jpg
 logoKey: currencies/mgot.jpg
 name: MoTA
+platform: BCH
+platform_contract: '0x7df65f158126898725f262378538b60db543c11a'

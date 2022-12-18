@@ -5,3 +5,5 @@ id_nomics: TIMEWARP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIMEWARP.png
 logoKey: currencies/timewarp.png
 name: TimeWarp
+platform: AVAX
+platform_contract: '0xfaa539B83CEE9F94A304Fa8389D410647Aafc36B'

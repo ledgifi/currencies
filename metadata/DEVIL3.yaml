@@ -5,3 +5,5 @@ id_nomics: DEVIL3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEVIL3.png
 logoKey: currencies/devil3.png
 name: DevilSquid
+platform: BNB
+platform_contract: '0x7bd4323f5dd9d065276c04b9dac30e120e87b681'

@@ -5,3 +5,5 @@ id_nomics: ND2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ND2.jpg
 logoKey: currencies/nd2.jpg
 name: NeverDrop
+platform: BNB
+platform_contract: '0xc45a7dc7f6e3e20168fbbbe0bd8258a0b76fec05'

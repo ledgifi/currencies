@@ -5,3 +5,5 @@ id_nomics: DMR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DMR.jpg
 logoKey: currencies/dmr.jpg
 name: Dreamr
+platform: ETH
+platform_contract: '0xf74941046389c78f12fe44784c0ec9ca7ceb7dc2'

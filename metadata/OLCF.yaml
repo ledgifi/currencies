@@ -6,3 +6,5 @@ id_nomics: OLCF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OLCF.jpg
 logoKey: currencies/olcf.jpg
 name: OLCF
+platform: ETH
+platform_contract: '0xeeaa34af95b034bada4baf565063132c765b1fa5'

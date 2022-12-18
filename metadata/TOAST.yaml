@@ -5,3 +5,5 @@ id_nomics: TOAST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOAST.jpg
 logoKey: currencies/toast.jpg
 name: Toast.finance
+platform: ETH
+platform_contract: '0x774fb37e50db4bf53b7c08e6b71007bf1f1d9a47'

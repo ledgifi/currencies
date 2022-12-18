@@ -5,3 +5,5 @@ id_nomics: SND2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SND2.jpeg
 logoKey: currencies/snd2.jpeg
 name: Soundypto
+platform: BNB
+platform_contract: '0x8ee5bf5044e0331e7249c77f0a44dc904709c7ee'

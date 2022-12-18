@@ -6,3 +6,5 @@ id_nomics: METHMOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METHMOON.jpg
 logoKey: currencies/methmoon.jpg
 name: ETH Variable Leverage Long
+platform: MATIC
+platform_contract: '0x752d59604d72b6dc44196f4a39a3f07779417407'

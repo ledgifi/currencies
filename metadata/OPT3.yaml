@@ -5,3 +5,5 @@ id_nomics: OPT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OPT3.png
 logoKey: currencies/opt3.png
 name: Outernet Player's Token
+platform: MATIC
+platform_contract: '0x8338bd2dbcc83f1f0190be068779aca296380209'

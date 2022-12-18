@@ -5,3 +5,5 @@ id_nomics: CWR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CWR.png
 logoKey: currencies/cwr.png
 name: Cowrium
+platform: BNB
+platform_contract: '0x0453115cD644550409A149672613024d96f268De'

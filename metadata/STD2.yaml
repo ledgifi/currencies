@@ -5,3 +5,5 @@ id_nomics: STD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STD2.jpg
 logoKey: currencies/std2.jpg
 name: SatoshiDog
+platform: ETH
+platform_contract: '0xc2e79f6aea7551ab1f8a93d9edc43eb8960a362b'

@@ -6,3 +6,5 @@ id_nomics: MNC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MNC.png
 logoKey: currencies/mnc.png
 name: MainCoin
+platform: BNB
+platform_contract: '0xb8ae295fef08728b48094d5a1d4a01f2b85139f8'

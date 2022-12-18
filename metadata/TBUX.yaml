@@ -5,3 +5,5 @@ id_nomics: TBUX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TBUX.jpg
 logoKey: currencies/tbux.jpg
 name: TrumpBux
+platform: ETH
+platform_contract: '0x9d29bd441e9da3eff48568aea1348383544547e7'

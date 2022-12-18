@@ -3,3 +3,5 @@ fiat: false
 id: TMTBC
 id_nomics: TMTBC
 name: TestMetabolic
+platform: BNB
+platform_contract: '0xe0828c33143dfc88bf703f88fb27230472045cd9'

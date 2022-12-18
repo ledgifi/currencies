@@ -3,3 +3,5 @@ fiat: false
 id: PGS
 id_nomics: PGS
 name: Pegasus
+platform: ARBETH
+platform_contract: '0x43e4ef7e796a631539f523900da824e73edc3110'

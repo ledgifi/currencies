@@ -6,3 +6,5 @@ id_nomics: NIIFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NIIFI.jpg
 logoKey: currencies/niifi.jpg
 name: NiiFi
+platform: ETH
+platform_contract: '0x852e5427c86a3b46dd25e5fe027bb15f53c4bcb8'

@@ -5,3 +5,5 @@ id_nomics: ASCEND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASCEND.jpg
 logoKey: currencies/ascend.jpg
 name: Ascension Protocol
+platform: BNB
+platform_contract: '0xf664264e835bc27cbf71da6a6633a6c7b99b9de1'

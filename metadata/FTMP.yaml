@@ -6,3 +6,5 @@ id_nomics: FTMP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FTMP.jpg
 logoKey: currencies/ftmp.jpg
 name: FTMPay
+platform: FTM
+platform_contract: '0xaff15dae5c956f9d7d5b98f304863201ea47c656'

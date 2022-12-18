@@ -5,3 +5,5 @@ id_nomics: DLC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DLC2.jpg
 logoKey: currencies/dlc2.jpg
 name: Dulcet
+platform: BNB
+platform_contract: '0xaf706d0d35c18fc5653acc161df14783a986a8fc'

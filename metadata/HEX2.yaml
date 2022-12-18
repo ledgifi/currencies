@@ -5,3 +5,5 @@ id_nomics: HEX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HEX2.jpeg
 logoKey: currencies/hex2.jpeg
 name: Health Evolution on X.blockchain
+platform: ETH
+platform_contract: '0x3be90f3ac213a730d9091bdda45a2f69ad98892b'

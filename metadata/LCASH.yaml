@@ -5,3 +5,5 @@ id_nomics: LCASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LCASH.png
 logoKey: currencies/lcash.png
 name: LuckyCash
+platform: BNB
+platform_contract: '0xaba9e93b201972c09d18d06758328c1124b14f7a'

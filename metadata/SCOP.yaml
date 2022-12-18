@@ -6,3 +6,5 @@ id_nomics: SCOP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCOP.jpg
 logoKey: currencies/scop.jpg
 name: SCOP
+platform: BNB
+platform_contract: '0x18fcf95f6f3c9e3f4554e1f1eaa944804ba56cd8'

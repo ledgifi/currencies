@@ -5,3 +5,5 @@ id_nomics: LUCKY6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUCKY6.png
 logoKey: currencies/lucky6.png
 name: Lucky Lion
+platform: BNB
+platform_contract: '0xc3d912863152e1afc935ad0d42d469e7c6b05b77'

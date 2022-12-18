@@ -5,3 +5,5 @@ id_nomics: REVVBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REVVBEP20.jpg
 logoKey: currencies/revvbep20.jpg
 name: REVV (BEP-20)
+platform: BNB
+platform_contract: '0x833f307ac507d47309fd8cdd1f835bef8d702a93'

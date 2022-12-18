@@ -5,3 +5,5 @@ id_nomics: BBTC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBTC5.jpg
 logoKey: currencies/bbtc5.jpg
 name: Babie Bitcoin
+platform: BNB
+platform_contract: '0xe11404f4a40221f4d3e53cb1878dcdc9527830e1'

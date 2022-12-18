@@ -6,3 +6,5 @@ id_nomics: BABYOHM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYOHM.png
 logoKey: currencies/babyohm.png
 name: BabyOlympus
+platform: BNB
+platform_contract: '0xdfb392735e465760a17f2e31e63dff889aade8be'

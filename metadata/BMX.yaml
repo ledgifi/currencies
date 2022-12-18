@@ -6,3 +6,5 @@ id_nomics: BMX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BMX.png
 logoKey: currencies/bmx.png
 name: BitMart Token
+platform: ETH
+platform_contract: '0x986ee2b944c42d017f52af21c4c69b84dbea35d8'

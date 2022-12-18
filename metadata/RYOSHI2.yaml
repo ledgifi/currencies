@@ -5,3 +5,5 @@ id_nomics: RYOSHI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RYOSHI2.jpg
 logoKey: currencies/ryoshi2.jpg
 name: Ryoshis Vision
+platform: ETH
+platform_contract: '0x777e2ae845272a2f540ebf6a3d03734a5a8f618e'

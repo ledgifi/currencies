@@ -5,3 +5,5 @@ id_nomics: UBX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UBX2.png
 logoKey: currencies/ubx2.png
 name: UMBRELLAX
+platform: BNB
+platform_contract: '0xc2c6f75645438f1c68bd33228201accf0194cff5'

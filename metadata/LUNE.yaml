@@ -5,3 +5,5 @@ id_nomics: LUNE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUNE.jpg
 logoKey: currencies/lune.jpg
 name: Luneko
+platform: BNB
+platform_contract: '0xacd1caef47e4c47bafe8a51b3f4305fc38203b7a'

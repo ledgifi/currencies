@@ -3,3 +3,5 @@ fiat: false
 id: METAL4
 id_nomics: METAL4
 name: Metal Swap
+platform: BNB
+platform_contract: '0x8995f63d98aaddac79afc92025431b0f50633dda'

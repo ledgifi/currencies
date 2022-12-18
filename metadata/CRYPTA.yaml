@@ -3,3 +3,5 @@ fiat: false
 id: CRYPTA
 id_nomics: CRYPTA
 name: Encryptas
+platform: ETH
+platform_contract: '0x2c7cc359a029ee3ca7f80bb64e70d77c16630461'

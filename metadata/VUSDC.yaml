@@ -5,3 +5,5 @@ id_nomics: VUSDC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VUSDC.jpg
 logoKey: currencies/vusdc.jpg
 name: Venus USDC
+platform: BNB
+platform_contract: '0xeca88125a5adbe82614ffc12d0db554e2e2867c8'

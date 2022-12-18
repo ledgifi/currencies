@@ -8,3 +8,5 @@ id_nomics: UMA
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/uma.svg
 logoKey: currencies/uma.svg
 name: UMA
+platform: ETH
+platform_contract: '0x04fa0d235c4abf4bcf4787af4cf447de572ef828'

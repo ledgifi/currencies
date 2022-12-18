@@ -5,3 +5,5 @@ id_nomics: UCOBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UCOBEP20.png
 logoKey: currencies/ucobep20.png
 name: Archethic (BEP-20)
+platform: BNB
+platform_contract: '0xb001f1e7c8bda414ac7cf7ecba5469fe8d24b6de'

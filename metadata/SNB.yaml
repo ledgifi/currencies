@@ -6,3 +6,5 @@ id_nomics: SNB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNB.jpg
 logoKey: currencies/snb.jpg
 name: SynchroBitCoin
+platform: ETH
+platform_contract: '0x179e31fb25e433441a2839389a7b8ec9c4654b7b'

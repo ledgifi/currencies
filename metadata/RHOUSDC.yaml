@@ -5,3 +5,5 @@ id_nomics: RHOUSDC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RHOUSDC.jpg
 logoKey: currencies/rhousdc.jpg
 name: rhoUSDC
+platform: BNB
+platform_contract: '0x48c39bfdc56534113aacd46b450565a3f3ccc02c'

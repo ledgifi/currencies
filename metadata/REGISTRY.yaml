@@ -3,3 +3,5 @@ fiat: false
 id: REGISTRY
 id_nomics: REGISTRY
 name: BSC Registry Token
+platform: BNB
+platform_contract: '0x8f59d431ac705c815db98cc350b03af88201dd97'

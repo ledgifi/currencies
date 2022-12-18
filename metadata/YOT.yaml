@@ -5,3 +5,5 @@ id_nomics: YOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YOT.jpg
 logoKey: currencies/yot.jpg
 name: PayYoda
+platform: ETH
+platform_contract: '0x9f978aa425148cdd9223eb175446a877b86727ff'

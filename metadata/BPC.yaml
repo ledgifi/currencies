@@ -5,3 +5,5 @@ id_nomics: BPC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BPC.png
 logoKey: currencies/bpc.png
 name: Bitparkcoin
+platform: ETH
+platform_contract: '0xf3d29fb98d2dc5e78c87198deef99377345fd6f1'

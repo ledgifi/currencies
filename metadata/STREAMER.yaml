@@ -6,3 +6,5 @@ id_nomics: STREAMER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STREAMER.png
 logoKey: currencies/streamer.png
 name: NFTMUSIC.STREAM
+platform: ETH
+platform_contract: '0x23880b70e1a31889384956c7270962ec4579358f'

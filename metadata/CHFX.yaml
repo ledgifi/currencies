@@ -3,3 +3,5 @@ fiat: false
 id: CHFX
 id_nomics: CHFX
 name: eToro Swiss Franc
+platform: ETH
+platform_contract: '0xe435502c85a4e7e79cfab4167af566c27a7a0784'

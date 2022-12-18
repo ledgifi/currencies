@@ -5,3 +5,5 @@ id_nomics: MCUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCUSD.jpg
 logoKey: currencies/mcusd.jpg
 name: Moola Celo Dollars
+platform: CELO
+platform_contract: '0x918146359264c492bd6934071c6bd31c854edbc3'

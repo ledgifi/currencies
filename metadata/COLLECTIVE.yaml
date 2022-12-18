@@ -5,3 +5,5 @@ id_nomics: COLLECTIVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COLLECTIVE.jpg
 logoKey: currencies/collective.jpg
 name: COLLECTIVE Vault (NFTX)
+platform: ETH
+platform_contract: '0xb3b4431f812a74bdfc148d6bddfadecdc63fc083'

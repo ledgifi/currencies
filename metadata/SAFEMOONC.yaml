@@ -3,3 +3,5 @@ fiat: false
 id: SAFEMOONC
 id_nomics: SAFEMOONC
 name: SafeMoonClassic
+platform: ETH
+platform_contract: '0xb8f7ed228b7bf3a0f81e67ea065487cac980540a'

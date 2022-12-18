@@ -5,3 +5,5 @@ id_nomics: YRC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YRC2.png
 logoKey: currencies/yrc2.png
 name: Yorocoin
+platform: BNB
+platform_contract: '0xf0b1a6880e441f433a3828b3adef4ea685fd4031'

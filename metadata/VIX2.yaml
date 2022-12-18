@@ -3,3 +3,5 @@ fiat: false
 id: VIX2
 id_nomics: VIX2
 name: Vixco
+platform: ETH
+platform_contract: '0x49bf0220c9ce17e52dcca3d217231746d676085b'

@@ -5,3 +5,5 @@ id_nomics: GASTROADVISOR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GASTROADVISOR.png
 logoKey: currencies/gastroadvisor.png
 name: GastroAdvisor
+platform: ETH
+platform_contract: '0x5bb1632fa0023e1aa76a1ae92b4635c8dba49fa2'

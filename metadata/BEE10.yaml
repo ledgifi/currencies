@@ -5,3 +5,5 @@ id_nomics: BEE10
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEE10.png
 logoKey: currencies/bee10.png
 name: CryptoBee
+platform: BNB
+platform_contract: '0xcdcf5271f8cd1f29a76d5cefae1f24d42451128b'

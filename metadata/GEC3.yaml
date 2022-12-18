@@ -5,3 +5,5 @@ id_nomics: GEC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GEC3.png
 logoKey: currencies/gec3.png
 name: GeckoLands
+platform: BNB
+platform_contract: '0xdec8fb35b96a9ee0b78e662f73287f71b94f15f5'

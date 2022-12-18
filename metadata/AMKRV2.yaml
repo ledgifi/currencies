@@ -5,3 +5,5 @@ id_nomics: AMKRV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMKRV2.jpg
 logoKey: currencies/amkrv2.jpg
 name: Aave MKR
+platform: ETH
+platform_contract: '0xc713e5e149d5d0715dcd1c156a020976e7e56b88'

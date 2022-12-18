@@ -3,3 +3,5 @@ fiat: false
 id: AXLUSDC
 id_nomics: AXLUSDC
 name: Axelar Wrapped USDC
+platform: GLMR
+platform_contract: '0xca01a1d0993565291051daff390892518acfad3a'

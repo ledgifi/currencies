@@ -5,3 +5,5 @@ id_nomics: BBL3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBL3.jpg
 logoKey: currencies/bbl3.jpg
 name: BlockBlend
+platform: BNB
+platform_contract: '0x69b0af16fdd2e80968eb505cd41dc26efb2b80bf'

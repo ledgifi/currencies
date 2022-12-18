@@ -5,3 +5,5 @@ id_nomics: BUFF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUFF.jpg
 logoKey: currencies/buff.jpg
 name: Buffalo Finance
+platform: ETH
+platform_contract: '0xad4727d70ed46710baa0b200412228ac5f81f30a'

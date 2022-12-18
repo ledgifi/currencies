@@ -6,3 +6,5 @@ id_nomics: IQT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IQT.png
 logoKey: currencies/iqt.png
 name: iQuant
+platform: ETH
+platform_contract: '0x51ee82641ac238bde34b9859f98f5f311d6e4954'

@@ -6,3 +6,5 @@ id_nomics: DADDYDB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DADDYDB.jpg
 logoKey: currencies/daddydb.jpg
 name: Daddy Dogeback
+platform: BNB
+platform_contract: '0x8755ccab81406cc5d98abe787719062591527421'

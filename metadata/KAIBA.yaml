@@ -6,3 +6,5 @@ id_nomics: KAIBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAIBA.jpg
 logoKey: currencies/kaiba.jpg
 name: Kaiba Inu
+platform: ETH
+platform_contract: '0x8bb048845ee0d75be8e07954b2e1e5b51b64b442'

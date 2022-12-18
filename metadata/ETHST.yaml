@@ -3,3 +3,5 @@ fiat: false
 id: ETHST
 id_nomics: ETHST
 name: Ethereum Standard Hashrate Token
+platform: HT
+platform_contract: '0xb86e05f2cbed6de54874763e4237be6b6391bf48'

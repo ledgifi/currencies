@@ -6,3 +6,5 @@ id_nomics: BONUSSQUID
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BONUSSQUID.jpeg
 logoKey: currencies/bonussquid.jpeg
 name: Bonus Squid Game
+platform: BNB
+platform_contract: '0xe6929a329bf5df01cc6fdbb508440a8d1bf86102'

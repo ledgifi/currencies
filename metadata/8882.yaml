@@ -5,3 +5,5 @@ id_nomics: '8882'
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/8882.png
 logoKey: currencies/8882.png
 name: 888 DAO
+platform: BNB
+platform_contract: '0xbfb2857474a48b345dd1c2f67ba57c28caa630fa'

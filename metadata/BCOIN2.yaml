@@ -5,3 +5,5 @@ id_nomics: BCOIN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCOIN2.png
 logoKey: currencies/bcoin2.png
 name: Bomber Coin
+platform: BNB
+platform_contract: '0x00e1656e45f18ec6747f5a8496fd39b50b38396d'

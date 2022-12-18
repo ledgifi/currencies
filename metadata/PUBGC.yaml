@@ -5,3 +5,5 @@ id_nomics: PUBGC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PUBGC.jpg
 logoKey: currencies/pubgc.jpg
 name: PUBG Classic
+platform: BNB
+platform_contract: '0x91d7ca1e8ac882764df199fea5ab39891963f484'

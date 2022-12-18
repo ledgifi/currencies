@@ -6,3 +6,5 @@ id_nomics: RACEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RACEX.jpeg
 logoKey: currencies/racex.jpeg
 name: RaceX
+platform: AVAX
+platform_contract: '0x7086e045b78e1e72f741f25231c08d238812cf8a'

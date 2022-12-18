@@ -5,3 +5,5 @@ id_nomics: SUS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUS3.jpg
 logoKey: currencies/sus3.jpg
 name: PegasusDAO
+platform: CRO
+platform_contract: '0x5b5fe1238aca91c65683acd7f9d9bf922e271eaa'

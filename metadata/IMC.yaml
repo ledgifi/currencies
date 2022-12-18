@@ -5,3 +5,5 @@ id_nomics: IMC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IMC.png
 logoKey: currencies/imc.png
 name: IMM COIN
+platform: ETH
+platform_contract: '0xe42ba5558b00d2e6109cc60412d5d4c9473fe998'

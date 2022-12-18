@@ -5,3 +5,5 @@ id_nomics: SAR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAR2.jpg
 logoKey: currencies/sar2.jpg
 name: Saren
+platform: ETH
+platform_contract: '0xbd4a858139b155219e2c8d10135003fdef720b6b'

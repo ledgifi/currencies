@@ -3,3 +3,5 @@ fiat: false
 id: PETHER
 id_nomics: PETHER
 name: prinETHER
+platform: AVAX
+platform_contract: '0x54567ccb6e8cf400fcf00e25c4855050a62c4cf9'

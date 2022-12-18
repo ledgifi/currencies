@@ -5,3 +5,5 @@ id_nomics: SMBR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMBR.jpg
 logoKey: currencies/smbr.jpg
 name: Sombra Network
+platform: BNB
+platform_contract: '0x8ad8e9b85787ddd0d31b32ecf655e93bfc0747ef'

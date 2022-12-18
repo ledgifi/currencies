@@ -3,3 +3,5 @@ fiat: false
 id: TRANS
 id_nomics: TRANS
 name: Transmutation
+platform: ETH
+platform_contract: '0xdcea654a51eb058c3445ce5fef39616576b746e0'

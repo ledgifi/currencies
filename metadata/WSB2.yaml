@@ -5,3 +5,5 @@ id_nomics: WSB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WSB2.jpg
 logoKey: currencies/wsb2.jpg
 name: Wall Street Bets DApp
+platform: BNB
+platform_contract: '0x22168882276e5d5e1da694343b41dd7726eeb288'

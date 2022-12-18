@@ -5,3 +5,5 @@ id_nomics: SAFELIGHT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFELIGHT.jpg
 logoKey: currencies/safelight.jpg
 name: SafeLight
+platform: BNB
+platform_contract: '0xa5360c2070faecfc231fd6bd743fe88382f2991d'

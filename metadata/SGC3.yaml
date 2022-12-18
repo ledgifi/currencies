@@ -5,3 +5,5 @@ id_nomics: SGC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SGC3.jpg
 logoKey: currencies/sgc3.jpg
 name: Sudan Gold Coin
+platform: ETH
+platform_contract: '0x80bd0cc689c206e3f642919244c4251c7ef19852'

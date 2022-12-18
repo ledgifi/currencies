@@ -5,3 +5,5 @@ id_nomics: LUMEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUMEN.png
 logoKey: currencies/lumen.png
 name: LUMEN
+platform: HARMONY
+platform_contract: '0xda7fe71960cd1c19e1b86d6929efd36058f60a03'

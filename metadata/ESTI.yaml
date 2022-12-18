@@ -6,3 +6,5 @@ id_nomics: ESTI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ESTI.jpg
 logoKey: currencies/esti.jpg
 name: Easticoin
+platform: ETH
+platform_contract: '0xf3924df14812b3d3db29124aa9da4353ed5e04a3'

@@ -5,3 +5,5 @@ id_nomics: BWX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bwx.jpg
 logoKey: currencies/bwx.jpg
 name: BlueWhaleToken
+platform: ETH
+platform_contract: '0xce5114d7fa8361f0c088ee26fa3a5446c4a1f50b'

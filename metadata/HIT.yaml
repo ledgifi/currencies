@@ -6,3 +6,5 @@ id_nomics: HIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/hit.png
 logoKey: currencies/hit.png
 name: Hitchain
+platform: ETH
+platform_contract: '0x7995ab36bb307afa6a683c24a25d90dc1ea83566'

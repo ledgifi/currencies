@@ -5,3 +5,5 @@ id_nomics: MTGY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTGY.jpg
 logoKey: currencies/mtgy.jpg
 name: The Moontography Project
+platform: BNB
+platform_contract: '0x025c9f1146d4d94f8f369b9d98104300a3c8ca23'

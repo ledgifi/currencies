@@ -5,3 +5,5 @@ id_nomics: MASTER2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MASTER2.jpg
 logoKey: currencies/master2.jpg
 name: Master Floki
+platform: BNB
+platform_contract: '0x59a99b55c6e12d026cfd02ae3e38f94f102fb46b'

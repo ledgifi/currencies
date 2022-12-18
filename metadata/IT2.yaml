@@ -5,3 +5,5 @@ id_nomics: IT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IT2.jpg
 logoKey: currencies/it2.jpg
 name: Infinity
+platform: ETH
+platform_contract: '0x7fe4fbad1fee10d6cf8e08198608209a9275944c'

@@ -3,3 +3,5 @@ fiat: false
 id: SMTEST
 id_nomics: SMTEST
 name: SMTEST
+platform: BNB
+platform_contract: '0x5041d11ee1c6062770fea9467e7fa866ba5f6c6c'

@@ -5,3 +5,5 @@ id_nomics: PL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PL2.jpg
 logoKey: currencies/pl2.jpg
 name: Plenny
+platform: ARBETH
+platform_contract: '0x3642c0680329ae3e103e2b5ab29ddfed4d43cbe5'

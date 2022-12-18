@@ -6,3 +6,5 @@ id_nomics: ARGON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARGON.jpg
 logoKey: currencies/argon.jpg
 name: Argon
+platform: BNB
+platform_contract: '0x851f7a700c5d67db59612b871338a85526752c25'

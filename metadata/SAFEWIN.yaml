@@ -5,3 +5,5 @@ id_nomics: SAFEWIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFEWIN.jpg
 logoKey: currencies/safewin.jpg
 name: SafeWin
+platform: BNB
+platform_contract: '0xfecd05b947471b5e51645e2d8326445cc266477a'

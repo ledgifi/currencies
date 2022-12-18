@@ -5,3 +5,5 @@ id_nomics: NTC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NTC4.png
 logoKey: currencies/ntc4.png
 name: Natcoin V2
+platform: BNB
+platform_contract: '0xf28B715814DA929882401D24E0cA82A12fe8b14c'

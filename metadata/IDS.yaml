@@ -6,3 +6,5 @@ id_nomics: IDS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IDS.jpeg
 logoKey: currencies/ids.jpeg
 name: Ideas
+platform: BNB
+platform_contract: '0x1c61a220a0f1dfc750d28188a97a6c7bf14e9851'

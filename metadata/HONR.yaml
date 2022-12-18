@@ -6,3 +6,5 @@ id_nomics: HONR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HONR.png
 logoKey: currencies/honr.png
 name: DeltaFlare
+platform: ETH
+platform_contract: '0x39ea10e507720783c27edd5f96bf2d6e199579b8'

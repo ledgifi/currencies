@@ -5,3 +5,5 @@ id_nomics: GIVE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GIVE3.jpg
 logoKey: currencies/give3.jpg
 name: Give Token
+platform: HT
+platform_contract: '0xfd6643b3959f4114f39efa2f4484703fafc47f00'

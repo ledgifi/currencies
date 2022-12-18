@@ -5,3 +5,5 @@ id_nomics: SOVC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOVC.png
 logoKey: currencies/sovc.png
 name: Sovereign Cash
+platform: ETH
+platform_contract: '0x9f4de9ba900fd9fdf56f96439a0c2f447a1eaeb9'

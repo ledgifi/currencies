@@ -3,3 +3,5 @@ fiat: false
 id: SPACEWALK
 id_nomics: SPACEWALK
 name: SpaceWalk.Token
+platform: BNB
+platform_contract: '0x5b493b1b8ec241d873d48c14846884c6dddde72f'

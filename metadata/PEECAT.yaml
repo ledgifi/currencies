@@ -5,3 +5,5 @@ id_nomics: PEECAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEECAT.png
 logoKey: currencies/peecat.png
 name: PissingCat
+platform: BNB
+platform_contract: '0x887cb01eaead4946c4db1a5d357b60a1eafc7a16'

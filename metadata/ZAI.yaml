@@ -5,3 +5,5 @@ id_nomics: ZAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZAI.jpg
 logoKey: currencies/zai.jpg
 name: Zero Collateral Dai
+platform: ETH
+platform_contract: '0x9d1233cc46795e94029fda81aaadc1455d510f15'

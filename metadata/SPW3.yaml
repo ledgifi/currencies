@@ -5,3 +5,5 @@ id_nomics: SPW3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPW3.png
 logoKey: currencies/spw3.png
 name: superpepebros.finance
+platform: BNB
+platform_contract: '0xfcb055630d7f29cf16d70a3b5b51a2aa0cc92ed0'

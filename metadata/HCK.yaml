@@ -6,3 +6,5 @@ id_nomics: HCK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HCK.jpg
 logoKey: currencies/hck.jpg
 name: Hero Cat Key
+platform: BNB
+platform_contract: '0x032a4e59387e08443cf1df662141da09c31cefa1'

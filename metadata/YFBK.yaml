@@ -5,3 +5,5 @@ id_nomics: YFBK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFBK.jpg
 logoKey: currencies/yfbk.jpg
 name: YFBank.Finance
+platform: ETH
+platform_contract: '0xff456fcb713677a18f6be800aadc48061fa87af0'

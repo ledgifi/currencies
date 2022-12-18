@@ -5,3 +5,5 @@ id_nomics: BEBOPINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEBOPINU.jpg
 logoKey: currencies/bebopinu.jpg
 name: Bebop Inu
+platform: ETH
+platform_contract: '0x30f28b7859cb7f7a1439b1a35414c04f761e8f32'

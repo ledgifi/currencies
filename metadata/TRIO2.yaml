@@ -5,3 +5,5 @@ id_nomics: TRIO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRIO2.png
 logoKey: currencies/trio2.png
 name: Maximus TRIO
+platform: ETH
+platform_contract: '0xf55cd1e399e1cc3d95303048897a680be3313308'

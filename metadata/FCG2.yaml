@@ -5,3 +5,5 @@ id_nomics: FCG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FCG2.jpg
 logoKey: currencies/fcg2.jpg
 name: Fat Cat Guardians
+platform: BNB
+platform_contract: '0x66973eb7de28bff6d55d108cff7dd4d9d3533173'

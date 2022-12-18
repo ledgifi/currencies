@@ -5,3 +5,5 @@ id_nomics: Y3CRV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/Y3CRV.png
 logoKey: currencies/y3crv.png
 name: yearn Curve.fi DAI/USDC/USDT
+platform: ETH
+platform_contract: '0x9ca85572e6a3ebf24dedd195623f188735a5179f'

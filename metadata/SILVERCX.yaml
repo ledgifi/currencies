@@ -5,3 +5,5 @@ id_nomics: SILVERCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SILVERCX.jpg
 logoKey: currencies/silvercx.jpg
 name: Silver Spot Token
+platform: ETH
+platform_contract: '0x386358639244ed385ecee3f46dae26e6ab616031'

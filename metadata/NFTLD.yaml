@@ -3,3 +3,5 @@ fiat: false
 id: NFTLD
 id_nomics: NFTLD
 name: NFTLEND
+platform: BNB
+platform_contract: '0x0ebc856a16309a92cb27d4beca46d9ac4183100e'

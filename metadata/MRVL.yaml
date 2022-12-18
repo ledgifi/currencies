@@ -5,3 +5,5 @@ id_nomics: MRVL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MRVL.jpg
 logoKey: currencies/mrvl.jpg
 name: Marvel
+platform: BNB
+platform_contract: '0x572181eccaf3394b58d52142f5c3b89a28e5bcbc'

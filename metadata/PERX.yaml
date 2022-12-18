@@ -6,3 +6,5 @@ id_nomics: PERX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PERX.jpg
 logoKey: currencies/perx.jpg
 name: PeerEx Network
+platform: ETH
+platform_contract: '0x3c6ff50c9ec362efa359317009428d52115fe643'

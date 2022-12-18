@@ -5,3 +5,5 @@ id_nomics: RENS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RENS2.png
 logoKey: currencies/rens2.png
 name: Rens
+platform: BNB
+platform_contract: '0x338dbffc5a1d19473d4762a84b79fcdf2c6a4736'

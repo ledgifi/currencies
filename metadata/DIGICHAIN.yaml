@@ -6,3 +6,5 @@ id_nomics: DIGICHAIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DIGICHAIN.jpg
 logoKey: currencies/digichain.jpg
 name: Digichain
+platform: BNB
+platform_contract: '0x4732a86106064577933552fcea993d30bec950a5'

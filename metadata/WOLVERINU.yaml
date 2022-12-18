@@ -6,3 +6,5 @@ id_nomics: WOLVERINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOLVERINU.jpg
 logoKey: currencies/wolverinu.jpg
 name: WOLVERINU
+platform: ETH
+platform_contract: '0xca7b3ba66556c4da2e2a9afef9c64f909a59430a'

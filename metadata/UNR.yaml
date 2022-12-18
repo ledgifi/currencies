@@ -6,3 +6,5 @@ id_nomics: UNR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNR.jpg
 logoKey: currencies/unr.jpg
 name: Unirealchain
+platform: BNB
+platform_contract: '0x2f5825c4c409c3baac9cac019c9c1e9dcf2cc557'

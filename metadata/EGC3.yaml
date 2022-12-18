@@ -5,3 +5,5 @@ id_nomics: EGC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EGC3.png
 logoKey: currencies/egc3.png
 name: Egoras Credit
+platform: BNB
+platform_contract: '0xd68e5c52f7563486cc1a15d00efa12c8644a907e'

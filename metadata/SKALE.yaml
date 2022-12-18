@@ -3,3 +3,5 @@ fiat: false
 id: SKALE
 id_nomics: SKALE
 name: SKALE V2
+platform: BNB
+platform_contract: '0xfbb765b3321ff55c53e04ec7dec362f517601ea7'

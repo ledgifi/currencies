@@ -5,3 +5,5 @@ id_nomics: SYCO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SYCO.jpg
 logoKey: currencies/syco.jpg
 name: Syariahcoin
+platform: ETH
+platform_contract: '0x0598c2fdd3a0564970a86b69c72a6c57077c84bb'

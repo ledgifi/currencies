@@ -5,3 +5,5 @@ id_nomics: EOC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EOC2.png
 logoKey: currencies/eoc2.png
 name: EveryonesCrypto
+platform: ETH
+platform_contract: '0xa8006e3ac1bd94e54e3136b8e5dd75db0163e6f4'

@@ -3,3 +3,5 @@ fiat: false
 id: WPHR
 id_nomics: WPHR
 name: Wrapped Phore
+platform: BNB
+platform_contract: '0x8ed36a2132f71589eadb07aea26859ae5122757b'

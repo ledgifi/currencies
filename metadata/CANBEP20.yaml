@@ -5,3 +5,5 @@ id_nomics: CANBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CANBEP20.jpg
 logoKey: currencies/canbep20.jpg
 name: CanYaCoin (BEP-20)
+platform: BNB
+platform_contract: '0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56'

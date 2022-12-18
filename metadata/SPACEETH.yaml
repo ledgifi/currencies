@@ -3,3 +3,5 @@ fiat: false
 id: SPACEETH
 id_nomics: SPACEETH
 name: SpaceETH
+platform: BNB
+platform_contract: '0x724c62d6d67a261befa5294c8498c0243cfb6cd4'

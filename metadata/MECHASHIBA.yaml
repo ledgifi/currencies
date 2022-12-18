@@ -5,3 +5,5 @@ id_nomics: MECHASHIBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MECHASHIBA.jpg
 logoKey: currencies/mechashiba.jpg
 name: MechaShiba
+platform: BNB
+platform_contract: '0xc2d56d2d136f16ed1c3e219339b272feddf2a376'

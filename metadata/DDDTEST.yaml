@@ -3,3 +3,5 @@ fiat: false
 id: DDDTEST
 id_nomics: DDDTEST
 name: DDTTT Test Token
+platform: BNB
+platform_contract: '0xcca0487c7ebda30bf4f264ad50dfaf1352f3dce0'

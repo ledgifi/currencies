@@ -6,3 +6,5 @@ id_nomics: KABY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KABY.jpg
 logoKey: currencies/kaby.jpg
 name: Kaby Arena
+platform: BNB
+platform_contract: '0x02a40c048ee2607b5f5606e445cfc3633fb20b58'

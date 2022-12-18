@@ -5,3 +5,5 @@ id_nomics: VOC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VOC.jpeg
 logoKey: currencies/voc.jpeg
 name: Vocal Chain
+platform: ETH
+platform_contract: '0xb1cfb2421f6f12ebda4f9b8d0336518c82e63b2c'

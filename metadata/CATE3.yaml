@@ -5,3 +5,5 @@ id_nomics: CATE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CATE3.png
 logoKey: currencies/cate3.png
 name: CateInu
+platform: BNB
+platform_contract: '0x8042b119a2fe4b8eab5ace334098fb692c77295e'

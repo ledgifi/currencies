@@ -5,3 +5,5 @@ id_nomics: APE8BIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APE8BIT.jpeg
 logoKey: currencies/ape8bit.jpeg
 name: APE 8 BIT
+platform: BNB
+platform_contract: '0x586c31c1c437f96add4998f88fa0f0cea063248b'

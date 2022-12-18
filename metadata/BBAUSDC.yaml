@@ -3,3 +3,5 @@ fiat: false
 id: BBAUSDC
 id_nomics: BBAUSDC
 name: BarnBridge junior aUSDC
+platform: ETH
+platform_contract: '0x3cf46da7d65e9aa2168a31b73dd4beea5ca1a1f1'

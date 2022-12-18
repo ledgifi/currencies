@@ -3,3 +3,5 @@ fiat: false
 id: QXXR
 id_nomics: QXXR
 name: 'QXXR Reserves '
+platform: MATIC
+platform_contract: '0x837ca30ebd80df0ae5e0907e663c5ddf6d77209d'

@@ -6,3 +6,5 @@ id_nomics: GREY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GREY.jpg
 logoKey: currencies/grey.jpg
 name: Grey Token
+platform: ETH
+platform_contract: '0x9b2d81a1ae36e8e66a0875053429816f0b6b829e'

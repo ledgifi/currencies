@@ -3,3 +3,5 @@ fiat: false
 id: CGLD
 id_nomics: CGLD
 name: Crypto Gold
+platform: AVAX
+platform_contract: '0x9b828c36aa01a21366684dbeb848c8686e402ee6'

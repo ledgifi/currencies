@@ -6,3 +6,5 @@ id_nomics: METEOR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METEOR.jpg
 logoKey: currencies/meteor.jpg
 name: Meteorite Network
+platform: ETH
+platform_contract: '0x765baefcb5418fa9f7dddacb1ccc07bd0e890e4e'

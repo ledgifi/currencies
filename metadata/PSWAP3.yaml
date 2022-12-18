@@ -3,3 +3,5 @@ fiat: false
 id: PSWAP3
 id_nomics: PSWAP3
 name: PigeonSwap
+platform: BNB
+platform_contract: '0xdcbc16aa161d7e164cc91e42168046f045aaf476'

@@ -6,3 +6,5 @@ id_nomics: KURAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KURAI.jpg
 logoKey: currencies/kurai.jpg
 name: Kurai MetaVerse
+platform: BNB
+platform_contract: '0x027b19b319f4381f20060606459c055c14791db1'

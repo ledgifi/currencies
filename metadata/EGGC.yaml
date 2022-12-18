@@ -6,3 +6,5 @@ id_nomics: EGGC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EGGC.jpg
 logoKey: currencies/eggc.jpg
 name: EggChain
+platform: BNB
+platform_contract: '0xa244ef3f07699b4b929c17e99ddb39bec238465b'

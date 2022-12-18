@@ -5,3 +5,5 @@ id_nomics: QUA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QUA3.jpg
 logoKey: currencies/qua3.jpg
 name: Quantum Tech
+platform: MATIC
+platform_contract: '0x87e28bd5499e6846141a85659bc7f0cf815db11d'

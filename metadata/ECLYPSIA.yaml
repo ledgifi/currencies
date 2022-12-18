@@ -3,3 +3,5 @@ fiat: false
 id: ECLYPSIA
 id_nomics: ECLYPSIA
 name: Eclypsia Token
+platform: MATIC
+platform_contract: '0x095fe62f6e89138c21d49285bf816d6f4e986d6f'

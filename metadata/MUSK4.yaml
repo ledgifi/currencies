@@ -5,3 +5,5 @@ id_nomics: MUSK4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MUSK4.jpg
 logoKey: currencies/musk4.jpg
 name: MuskCoin
+platform: BNB
+platform_contract: '0x3ea98b8ea287b47494303fc8517049b3f457247f'

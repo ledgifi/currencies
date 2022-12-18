@@ -3,3 +3,5 @@ fiat: false
 id: COINSPH
 id_nomics: COINSPH
 name: Republic Coin
+platform: BNB
+platform_contract: '0x29c0d0375cd9fb48a294b63c8d129c44476656a7'

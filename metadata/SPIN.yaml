@@ -6,3 +6,5 @@ id_nomics: SPIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPIN.png
 logoKey: currencies/spin.png
 name: SPIN Protocol
+platform: ETH
+platform_contract: '0x4f22310c27ef39feaa4a756027896dc382f0b5e2'

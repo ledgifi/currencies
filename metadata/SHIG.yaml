@@ -3,3 +3,5 @@ fiat: false
 id: SHIG
 id_nomics: SHIG
 name: ShigCoin
+platform: ETH
+platform_contract: '0x03d4471699916f166a2b47071e53ac48af217784'

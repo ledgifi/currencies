@@ -3,3 +3,5 @@ fiat: false
 id: LBI
 id_nomics: LBI
 name: Liquidity Income
+platform: ETH
+platform_contract: '0x375da3e307ef2e1a9d9e1516f80738ca52cb7b85'

@@ -5,3 +5,5 @@ id_nomics: SKYSTAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SKYSTAR.jpeg
 logoKey: currencies/skystar.jpeg
 name: SkyStar
+platform: BNB
+platform_contract: '0x8bd2980d55564edb9f558776aeac0074bd7e6bb9'

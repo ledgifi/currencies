@@ -3,3 +3,5 @@ fiat: false
 id: ICI
 id_nomics: ICI
 name: iCoin
+platform: BNB
+platform_contract: '0x7f1e6102626110f23cc425c385e1ce2bea6fd64c'

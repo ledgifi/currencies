@@ -3,3 +3,5 @@ fiat: false
 id: INU2
 id_nomics: INU2
 name: Inu
+platform: ETH
+platform_contract: '0x70a19be0d94694b8e4c07bb756f6a5848fb461ed'

@@ -6,3 +6,5 @@ id_nomics: MVEDA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MVEDA.jpg
 logoKey: currencies/mveda.jpg
 name: MedicalVeda
+platform: ETH
+platform_contract: '0xcbe7142f5c16755d8683ba329efa1abf7b54482d'

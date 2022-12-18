@@ -5,3 +5,5 @@ id_nomics: BITEPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITEPOS.jpeg
 logoKey: currencies/bitepos.jpeg
 name: DragonBite (Polygon)
+platform: MATIC
+platform_contract: '0x280724409b288de06c6d66c05965d3d456e2283a'

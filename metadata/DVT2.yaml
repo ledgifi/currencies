@@ -5,3 +5,5 @@ id_nomics: DVT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DVT2.png
 logoKey: currencies/dvt2.png
 name: Diversitytoken.io
+platform: BNB
+platform_contract: '0x94d16DF08a1f7ed5d50027FbDa51fE492a81F457'

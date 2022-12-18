@@ -5,3 +5,5 @@ id_nomics: ARCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARCX.jpg
 logoKey: currencies/arcx.jpg
 name: Antero Resources Token
+platform: ETH
+platform_contract: '0x24bbac3a6148320cf9ee20d9abeb8dd5a4800b52'

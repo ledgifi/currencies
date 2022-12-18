@@ -5,3 +5,5 @@ id_nomics: BOAT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOAT2.jpg
 logoKey: currencies/boat2.jpg
 name: Conquer Swap Token
+platform: BNB
+platform_contract: '0x094b21ecc329de2e8f24c51abd5188c608403643'

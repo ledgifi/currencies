@@ -6,3 +6,5 @@ id_nomics: GRX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GRX.png
 logoKey: currencies/grx.png
 name: GOLD Reward Token
+platform: ETH
+platform_contract: '0x219218f117dc9348b358b8471c55a073e5e0da0b'

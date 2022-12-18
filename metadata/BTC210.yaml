@@ -3,3 +3,5 @@ fiat: false
 id: BTC210
 id_nomics: BTC210
 name: BTC210
+platform: HT
+platform_contract: '0xd92a090bee4d0bf264f4dabc4b29bb5d7161decc'

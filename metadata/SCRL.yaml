@@ -5,3 +5,5 @@ id_nomics: SCRL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/scrl.jpg
 logoKey: currencies/scrl.jpg
 name: Scroll
+platform: ETH
+platform_contract: '0x24dcc881e7dd730546834452f21872d5cb4b5293'

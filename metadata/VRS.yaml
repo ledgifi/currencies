@@ -6,3 +6,5 @@ id_nomics: VRS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VRS.png
 logoKey: currencies/vrs.png
 name: Veros
+platform: ETH
+platform_contract: '0xabc430136a4de71c9998242de8c1b4b97d2b9045'

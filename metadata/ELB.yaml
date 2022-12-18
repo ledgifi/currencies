@@ -5,3 +5,5 @@ id_nomics: ELB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELB.jpeg
 logoKey: currencies/elb.jpeg
 name: Elon burn
+platform: BNB
+platform_contract: '0x0666ecb0c4617c7a649af45dde4a83bb5b723cd0'

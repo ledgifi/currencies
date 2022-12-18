@@ -6,3 +6,5 @@ id_nomics: RIDERS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RIDERS.jpg
 logoKey: currencies/riders.jpg
 name: Crypto Bike Riders
+platform: BNB
+platform_contract: '0x20762445e5d3c25831ec1ccd55d807bafbda2e55'

@@ -3,3 +3,5 @@ fiat: false
 id: TENBUSD
 id_nomics: TENBUSD
 name: Teneo BUSD
+platform: BNB
+platform_contract: '0xcb870e03fbcad0e8e70d13ce24cd23e9f78e7d2f'

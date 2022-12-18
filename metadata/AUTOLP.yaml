@@ -5,3 +5,5 @@ id_nomics: AUTOLP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AUTOLP.png
 logoKey: currencies/autolp.png
 name: AutoLP.eth.link
+platform: BNB
+platform_contract: '0x01d84a33acb680e55c56df377328884863f922af'

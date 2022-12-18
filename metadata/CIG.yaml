@@ -6,3 +6,5 @@ id_nomics: CIG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CIG.jpg
 logoKey: currencies/cig.jpg
 name: Cigarette Token
+platform: ETH
+platform_contract: '0x5a35a6686db167b05e2eb74e1ede9fb5d9cdb3e0'

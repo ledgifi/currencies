@@ -5,3 +5,5 @@ id_nomics: TBACERC202
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TBACERC202.png
 logoKey: currencies/tbacerc202.png
 name: BlockAura Token 3.0
+platform: ETH
+platform_contract: '0x85800a01809b9a778c78d5ea70bddddb166da65c'

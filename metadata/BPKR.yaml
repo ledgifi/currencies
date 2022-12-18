@@ -6,3 +6,5 @@ id_nomics: BPKR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BPKR.jpg
 logoKey: currencies/bpkr.jpg
 name: Black Poker
+platform: BNB
+platform_contract: '0xc83c08e4bfb9ab9346aeb233161f706e5654fc02'

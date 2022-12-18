@@ -3,3 +3,5 @@ fiat: false
 id: WISP
 id_nomics: WISP
 name: Wisp
+platform: BNB
+platform_contract: '0xfad438ac6b01563859c40365cbc27b92c35758fa'

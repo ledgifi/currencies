@@ -3,3 +3,5 @@ fiat: false
 id: JETH
 id_nomics: JETH
 name: Jones ETH
+platform: ARBETH
+platform_contract: '0x662d0f9ff837a51cf89a1fe7e0882a906dac08a3'

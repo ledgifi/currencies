@@ -3,3 +3,5 @@ fiat: false
 id: INES
 id_nomics: INES
 name: Inescoin
+platform: ETH
+platform_contract: '0x6c58ee9794882c608e6015bde2802412b3d1377e'

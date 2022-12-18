@@ -5,3 +5,5 @@ id_nomics: ADESPOTO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADESPOTO.jpg
 logoKey: currencies/adespoto.jpg
 name: Adespoto
+platform: BNB
+platform_contract: '0x5d1eefad4871c990190058e87fb99a40a98bf7a1'

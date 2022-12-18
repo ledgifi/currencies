@@ -5,3 +5,5 @@ id_nomics: YIELDGROW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YIELDGROW.jpg
 logoKey: currencies/yieldgrow.jpg
 name: YieldGrow
+platform: BNB
+platform_contract: '0x23c53ee164c3c521276869725b23de6f732fba86'

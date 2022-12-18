@@ -5,3 +5,5 @@ id_nomics: MNEM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MNEM.jpg
 logoKey: currencies/mnem.jpg
 name: Mnemos
+platform: BNB
+platform_contract: '0x0ea89656ef2355f30b26b281e69551fbcb9a2d1a'

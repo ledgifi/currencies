@@ -5,3 +5,5 @@ id_nomics: BEANS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEANS2.png
 logoKey: currencies/beans2.png
 name: MoonBeans
+platform: MOVR
+platform_contract: '0xc2392dd3e3fed2c8ed9f7f0bdf6026fcd1348453'

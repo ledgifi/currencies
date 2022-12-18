@@ -6,3 +6,5 @@ id_nomics: TKA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TKA.png
 logoKey: currencies/tka.png
 name: Tokia
+platform: ETH
+platform_contract: '0xdae1baf249964bc4b6ac98c3122f0e3e785fd279'

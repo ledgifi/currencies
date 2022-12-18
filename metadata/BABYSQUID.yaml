@@ -5,3 +5,5 @@ id_nomics: BABYSQUID
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYSQUID.jpg
 logoKey: currencies/babysquid.jpg
 name: Baby SquidGrow
+platform: BNB
+platform_contract: '0x57ff18a4cb3fc61735f26e9e076b5e5c25fc4d3f'

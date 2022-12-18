@@ -6,3 +6,5 @@ id_nomics: DSLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DSLA.jpeg
 logoKey: currencies/dsla.jpeg
 name: DSLA Protocol
+platform: ETH
+platform_contract: '0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe'

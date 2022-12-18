@@ -6,3 +6,5 @@ id_nomics: RETRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RETRO.jpg
 logoKey: currencies/retro.jpg
 name: Retromoon
+platform: BNB
+platform_contract: '0xe81fe8bbbea13a0fd5cc0aafb6062631c659ec54'

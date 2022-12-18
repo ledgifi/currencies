@@ -5,3 +5,5 @@ id_nomics: SLEEPYSHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLEEPYSHIB.jpg
 logoKey: currencies/sleepyshib.jpg
 name: Sleepy-Shib
+platform: ETH
+platform_contract: '0xf8e1d008a98350abb4241139fbc851aaad51eda6'

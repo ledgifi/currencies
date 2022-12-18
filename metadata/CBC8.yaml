@@ -5,3 +5,5 @@ id_nomics: CBC8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBC8.jpg
 logoKey: currencies/cbc8.jpg
 name: CryptoBossCoin
+platform: ETH
+platform_contract: '0x420c5df39576f8e606ce69edf80aa364c298e8c7'

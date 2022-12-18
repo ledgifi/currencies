@@ -6,3 +6,5 @@ id_nomics: NFTSKULL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTSKULL.png
 logoKey: currencies/nftskull.png
 name: NFTSkull
+platform: BNB
+platform_contract: '0x01157889ff623067db3d31e175ae18ad5a9b59de'

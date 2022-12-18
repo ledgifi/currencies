@@ -6,3 +6,5 @@ id_nomics: CTG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTG.jpg
 logoKey: currencies/ctg.jpg
 name: Cryptorg Token
+platform: ETH
+platform_contract: '0xc760721eb65aa6b0a634df6a008887c48813ff63'

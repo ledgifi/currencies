@@ -3,3 +3,5 @@ fiat: false
 id: TCOT
 id_nomics: TCOT
 name: Test Carbon Offset Token
+platform: BNB
+platform_contract: '0xe3a9288d402d37b398375e6d2f3f9da39157524f'

@@ -3,3 +3,5 @@ fiat: false
 id: STKAGVE
 id_nomics: STKAGVE
 name: Staked Agave
+platform: XDAI
+platform_contract: '0x610525b415c1bfaeab1a3fc3d85d87b92f048221'

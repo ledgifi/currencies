@@ -5,3 +5,5 @@ id_nomics: BIRD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIRD2.png
 logoKey: currencies/bird2.png
 name: Bird.Money
+platform: ETH
+platform_contract: '0x70401dfd142a16dc7031c56e862fc88cb9537ce0'

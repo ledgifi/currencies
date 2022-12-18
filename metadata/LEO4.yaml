@@ -5,3 +5,5 @@ id_nomics: LEO4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LEO4.jpg
 logoKey: currencies/leo4.jpg
 name: Leo
+platform: BNB
+platform_contract: '0xda38d8facd3875daad437839308f1885646dfbb6'

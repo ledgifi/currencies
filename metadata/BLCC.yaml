@@ -6,3 +6,5 @@ id_nomics: BLCC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLCC.jpg
 logoKey: currencies/blcc.jpg
 name: Bullers Coin
+platform: ETH
+platform_contract: '0x3f2d8861e8ca9a7649d211dbaa3f3d998c6a254a'

@@ -6,3 +6,5 @@ id_nomics: IJC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IJC.jpg
 logoKey: currencies/ijc.jpg
 name: IjasCoin
+platform: ETH
+platform_contract: '0xc7ff1e126cc81e816915ff48c940ed9d4e6d05d6'

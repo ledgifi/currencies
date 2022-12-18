@@ -5,3 +5,5 @@ id_nomics: MRK3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MRK3.jpeg
 logoKey: currencies/mrk3.jpeg
 name: Meerkat Network
+platform: BNB
+platform_contract: '0xf5bee29f78542e87167c59b2ae136ebd31df5460'

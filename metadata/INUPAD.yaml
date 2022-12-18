@@ -5,3 +5,5 @@ id_nomics: INUPAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INUPAD.jpg
 logoKey: currencies/inupad.jpg
 name: Inupad
+platform: BNB
+platform_contract: '0x607c0e60a4bb3e6e38882db7042d55ce2ceb52ea'

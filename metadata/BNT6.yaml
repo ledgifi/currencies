@@ -5,3 +5,5 @@ id_nomics: BNT6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNT6.jpg
 logoKey: currencies/bnt6.jpg
 name: Bitcoin NFT
+platform: BNB
+platform_contract: '0xacfe685b93567ffb3da78183f60659efb5abb10e'

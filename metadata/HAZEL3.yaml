@@ -5,3 +5,5 @@ id_nomics: HAZEL3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HAZEL3.png
 logoKey: currencies/hazel3.png
 name: Hazel Coin V2
+platform: BNB
+platform_contract: '0x4942816dc99b73302562883fbfc6d6639fc3c26f'

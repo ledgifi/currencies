@@ -5,3 +5,5 @@ id_nomics: CBC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBC4.jpg
 logoKey: currencies/cbc4.jpg
 name: Carbon Coin - CNES
+platform: BNB
+platform_contract: '0x793cea0f1003411396b3a81a77d92fe37015e7a9'

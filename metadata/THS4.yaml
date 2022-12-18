@@ -5,3 +5,5 @@ id_nomics: THS4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THS4.jpg
 logoKey: currencies/ths4.jpg
 name: Theseus
+platform: BNB
+platform_contract: '0xc970f0cb6ad339ebc6df7a2c1258f0565f3bdc77'

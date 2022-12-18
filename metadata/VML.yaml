@@ -6,3 +6,5 @@ id_nomics: VML
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VML.jpg
 logoKey: currencies/vml.jpg
 name: MetaLand
+platform: BNB
+platform_contract: '0xd302c09bc32aef53146b6ba7bc420f5caca897f6'

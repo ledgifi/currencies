@@ -5,3 +5,5 @@ id_nomics: BAPECOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAPECOIN.jpg
 logoKey: currencies/bapecoin.jpg
 name: Billionaire Ape Coin
+platform: BNB
+platform_contract: '0xA0daaA39314934E7EDA63711B6dCab8116a9Ce53'

@@ -6,3 +6,5 @@ id_nomics: PRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/pro.svg
 logoKey: currencies/pro.svg
 name: Propy
+platform: ETH
+platform_contract: '0x226bb599a12c826476e3a771454697ea52e9e220'

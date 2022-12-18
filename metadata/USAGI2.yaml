@@ -5,3 +5,5 @@ id_nomics: USAGI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USAGI2.jpg
 logoKey: currencies/usagi2.jpg
 name: UsagiMoon
+platform: BNB
+platform_contract: '0x4d1f73c28941bf879662fd128baab5a495083ac9'

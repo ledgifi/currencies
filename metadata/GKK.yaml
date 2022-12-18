@@ -5,3 +5,5 @@ id_nomics: GKK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GKK.jpeg
 logoKey: currencies/gkk.jpeg
 name: Grumpy Krypto Kittiez
+platform: MATIC
+platform_contract: '0x2d99fef65960bd43c56ebc22824be40c9a4b0f84'

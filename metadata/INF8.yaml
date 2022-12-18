@@ -5,3 +5,5 @@ id_nomics: INF8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INF8.jpg
 logoKey: currencies/inf8.jpg
 name: INFLUENCER TOKEN
+platform: BNB
+platform_contract: '0x22f91a81c850994523b5c16bb42365b88ba47b40'

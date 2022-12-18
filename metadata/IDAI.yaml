@@ -5,3 +5,5 @@ id_nomics: IDAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IDAI.jpg
 logoKey: currencies/idai.jpg
 name: bZx DAI iToken
+platform: ETH
+platform_contract: '0x14094949152eddbfcd073717200da82fed8dc960'

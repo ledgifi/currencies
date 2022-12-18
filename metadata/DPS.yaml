@@ -6,3 +6,5 @@ id_nomics: DPS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DPS.svg
 logoKey: currencies/dps.svg
 name: DEEPSPACE
+platform: BNB
+platform_contract: '0xf275e1ac303a4c9d987a2c48b8e555a77fec3f1c'

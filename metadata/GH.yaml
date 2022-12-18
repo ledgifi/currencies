@@ -3,3 +3,5 @@ fiat: false
 id: GH
 id_nomics: GH
 name: GHOST
+platform: ETH
+platform_contract: '0x16e4f20fb5912773191b7197d0b8bbda26a80d08'

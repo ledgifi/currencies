@@ -5,3 +5,5 @@ id_nomics: BTCFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCFI.png
 logoKey: currencies/btcfi.png
 name: Bitcoin DeFi
+platform: BNB
+platform_contract: '0xcc9b189401076cdee1fa856e03b0dabbbecaf865'

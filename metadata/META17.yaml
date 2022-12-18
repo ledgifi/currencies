@@ -5,3 +5,5 @@ id_nomics: META17
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/META17.png
 logoKey: currencies/meta17.png
 name: Metaversepad
+platform: BNB
+platform_contract: '0x5f079fd5d9cba42a82dd5848d5174b5386c77e69'

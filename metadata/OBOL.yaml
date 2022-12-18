@@ -3,3 +3,5 @@ fiat: false
 id: OBOL
 id_nomics: OBOL
 name: Obol
+platform: FTM
+platform_contract: '0x1539c63037d95f84a5981f96e43850d1451b6216'

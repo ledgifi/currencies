@@ -5,3 +5,5 @@ id_nomics: LIRAAVAX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIRAAVAX2.png
 logoKey: currencies/liraavax2.png
 name: Lira (Avalanche) V2
+platform: AVAX
+platform_contract: '0x8031c44b96ec8c9b66ab16c2c164e8deeb361a3f'

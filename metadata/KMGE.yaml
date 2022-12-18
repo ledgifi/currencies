@@ -5,3 +5,5 @@ id_nomics: KMGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KMGE.jpg
 logoKey: currencies/kmge.jpg
 name: Karmage
+platform: CELO
+platform_contract: '0x4213e7ab42dd21366508b18edfc33c29e7cbd81b'

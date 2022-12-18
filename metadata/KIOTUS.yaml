@@ -3,3 +3,5 @@ fiat: false
 id: KIOTUS
 id_nomics: KIOTUS
 name: Kiotus token
+platform: BNB
+platform_contract: '0xd58209530c26d6d9792f04975d1addd831348c61'

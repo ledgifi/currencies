@@ -5,3 +5,5 @@ id_nomics: EMUSK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EMUSK2.png
 logoKey: currencies/emusk2.png
 name: EMUSK
+platform: BNB
+platform_contract: '0xDB0486c7aAB6a20ce82167D4C0E63Dca2897880f'

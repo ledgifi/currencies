@@ -5,3 +5,5 @@ id_nomics: SIMF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIMF.jpg
 logoKey: currencies/simf.jpg
 name: Simpson Finance
+platform: ETH
+platform_contract: '0x18bfe544b09587b7f942ae2d3b106889a3c72f3e'

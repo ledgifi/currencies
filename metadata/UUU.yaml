@@ -6,3 +6,5 @@ id_nomics: UUU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/uuu.png
 logoKey: currencies/uuu.png
 name: U Network
+platform: ETH
+platform_contract: '0x3543638ed4a9006e4840b105944271bcea15605d'

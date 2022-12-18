@@ -5,3 +5,5 @@ id_nomics: FOHO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOHO.jpg
 logoKey: currencies/foho.jpg
 name: FOHO
+platform: ETH
+platform_contract: '0xdd2e93924bdd4e20c3cf4a8736e5955224fa450e'

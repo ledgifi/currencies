@@ -5,3 +5,5 @@ id_nomics: VIRCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VIRCX.jpg
 logoKey: currencies/vircx.jpg
 name: Vir Biotechnology, Inc.
+platform: ETH
+platform_contract: '0xdfbae4bfda9ec0a9f1ddfcb77146355ec182b892'

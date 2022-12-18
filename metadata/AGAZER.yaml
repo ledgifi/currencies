@@ -5,3 +5,5 @@ id_nomics: AGAZER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AGAZER.jpg
 logoKey: currencies/agazer.jpg
 name: AlphaGAZER
+platform: ARBETH
+platform_contract: '0x255f1640232d05ea568fb2938ff9aaa509a11087'

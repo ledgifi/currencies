@@ -6,3 +6,5 @@ id_nomics: CON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/con.jpg
 logoKey: currencies/con.jpg
 name: Conun
+platform: ETH
+platform_contract: '0x4dd672e77c795844fe3a464ef8ef0faae617c8fb'

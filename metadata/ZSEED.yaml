@@ -5,3 +5,5 @@ id_nomics: ZSEED
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZSEED.jpg
 logoKey: currencies/zseed.jpg
 name: Sowing.Network
+platform: BNB
+platform_contract: '0x5cd50aae14e14b3fdf3ff13c7a40e8cf5ae8b0a5'

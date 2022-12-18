@@ -5,3 +5,5 @@ id_nomics: VEKTOR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VEKTOR.png
 logoKey: currencies/vektor.png
 name: VEKTOR
+platform: BNB
+platform_contract: '0xf2da079867785018e6d823dd0ff332f05aafe485'

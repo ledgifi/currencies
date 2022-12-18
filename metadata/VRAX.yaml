@@ -3,3 +3,5 @@ fiat: false
 id: VRAX
 id_nomics: VRAX
 name: vrax
+platform: BNB
+platform_contract: '0x8584d48dd26a8a3c63f90e52e445ecea077c6c78'

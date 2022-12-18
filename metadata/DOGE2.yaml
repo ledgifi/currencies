@@ -6,3 +6,5 @@ id_nomics: DOGE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGE2.jpg
 logoKey: currencies/doge2.jpg
 name: Dogecoin 2.0
+platform: BNB
+platform_contract: '0x3780e00d4c60887af38345ccd44f7617dbfb10a0'

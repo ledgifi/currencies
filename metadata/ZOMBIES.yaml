@@ -3,3 +3,5 @@ fiat: false
 id: ZOMBIES
 id_nomics: ZOMBIES
 name: Zombies
+platform: ETH
+platform_contract: '0xc95a6895242df516300d9c8ad4128df3b5dc2b67'

@@ -5,3 +5,5 @@ id_nomics: CSCOCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CSCOCX.jpg
 logoKey: currencies/cscocx.jpg
 name: Cisco Systems, Inc. Token
+platform: ETH
+platform_contract: '0x4cb925ec5e2c52269c1a4f91cc3cb4bf5671b71f'

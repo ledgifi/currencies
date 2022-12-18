@@ -6,3 +6,5 @@ id_nomics: TIPINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIPINU.jpg
 logoKey: currencies/tipinu.jpg
 name: Tipinu
+platform: BNB
+platform_contract: '0xb950e950f11107bb72195c56fe910c76e26fa08e'

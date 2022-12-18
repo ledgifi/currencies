@@ -5,3 +5,5 @@ id_nomics: WINMETA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WINMETA.jpg
 logoKey: currencies/winmeta.jpg
 name: Winmeta
+platform: BNB
+platform_contract: '0x8d03fb33863dabfdad5891152afd307ef171cd52'

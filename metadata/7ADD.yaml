@@ -5,3 +5,5 @@ id_nomics: 7ADD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/7ADD.jpg
 logoKey: currencies/7add.jpg
 name: Holdtowin
+platform: ETH
+platform_contract: '0xed36482c7f8e5850e91ac0cf6bf2130a1aa2df92'

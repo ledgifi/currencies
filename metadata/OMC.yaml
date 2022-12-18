@@ -6,3 +6,5 @@ id_nomics: OMC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OMC.png
 logoKey: currencies/omc.png
 name: Ormeus Cash
+platform: ETH
+platform_contract: '0xd6bd97a26232ba02172ff86b055d5d7be789335b'

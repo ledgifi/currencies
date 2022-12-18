@@ -5,3 +5,5 @@ id_nomics: DAILYS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAILYS.jpg
 logoKey: currencies/dailys.jpg
 name: DailySwap Token
+platform: BNB
+platform_contract: '0xe0d6ad5a77fd1ed1a22f89657e4248a8ac6a8cbf'

@@ -3,3 +3,5 @@ fiat: false
 id: CTY
 id_nomics: CTY
 name: Charity Token
+platform: BNB
+platform_contract: '0x064b1063f39cccd28908b85d2f538a5a10836b1d'

@@ -5,3 +5,5 @@ id_nomics: VICE4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VICE4.jpg
 logoKey: currencies/vice4.jpg
 name: Vice Token
+platform: BNB
+platform_contract: '0xa2644c6a6bdf27004a82af7977cf614db5eb0c65'

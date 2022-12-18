@@ -3,3 +3,5 @@ fiat: false
 id: SGLDM
 id_nomics: SGLDM
 name: GoldMint Shares
+platform: ETH
+platform_contract: '0xe9772c964c87956cf809af8521ef51d471b8abca'

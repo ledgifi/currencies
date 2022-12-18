@@ -5,3 +5,5 @@ id_nomics: BSC6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSC6.webp
 logoKey: currencies/bsc6.webp
 name: Binance Shit Casino
+platform: BNB
+platform_contract: '0x9a80b8d6d1d758b3ee08174adc36455ab54ea40c'

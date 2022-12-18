@@ -5,3 +5,5 @@ id_nomics: CBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBEP20.jpeg
 logoKey: currencies/cbep20.jpeg
 name: Carbon Coin (BEP-20)
+platform: BNB
+platform_contract: '0x1f09c5fa5522036c7cc7cddea46e9961ca01ead2'

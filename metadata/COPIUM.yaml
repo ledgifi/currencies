@@ -3,3 +3,5 @@ fiat: false
 id: COPIUM
 id_nomics: COPIUM
 name: COPIUM
+platform: ETH
+platform_contract: '0x0e30bc9512306534b85afd0c75065b455af55d45'

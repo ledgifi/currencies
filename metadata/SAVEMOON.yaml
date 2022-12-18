@@ -5,3 +5,5 @@ id_nomics: SAVEMOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAVEMOON.jpg
 logoKey: currencies/savemoon.jpg
 name: We Save Moon
+platform: BNB
+platform_contract: '0x96df3508143b3c8918ac1b22ab111e44efeb27ec'

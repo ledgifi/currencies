@@ -5,3 +5,5 @@ id_nomics: STGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STGO.jpg
 logoKey: currencies/stgo.jpg
 name: orion.stargazeprotocol.com
+platform: ETH
+platform_contract: '0xa65957b1e1f0535df74902bf1cf3a77b4a1eb54b'

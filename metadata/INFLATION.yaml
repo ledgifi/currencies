@@ -3,3 +3,5 @@ fiat: false
 id: INFLATION
 id_nomics: INFLATION
 name: INFLATION DAO
+platform: ETH
+platform_contract: '0xedbac6959ea5f319a64c77c82ccd56b0fa65a3f9'

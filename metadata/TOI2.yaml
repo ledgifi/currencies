@@ -5,3 +5,5 @@ id_nomics: TOI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOI2.png
 logoKey: currencies/toi2.png
 name: Toksi
+platform: BNB
+platform_contract: '0xdcc486e492e1c7fd7454f6f2f7183533545fd66c'

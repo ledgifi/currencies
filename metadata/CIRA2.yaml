@@ -5,3 +5,5 @@ id_nomics: CIRA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CIRA2.jpeg
 logoKey: currencies/cira2.jpeg
 name: Crypto IRA V2
+platform: BNB
+platform_contract: '0xdd25e1955fd9f7b3abe83cc419070a7ace104dce'

@@ -3,3 +3,5 @@ fiat: false
 id: DEPPLUSCHUSDPLUSCUSDT
 id_nomics: DEPPLUSCHUSDPLUSCUSDT
 name: Depth.Fi cHUSD/cUSDT
+platform: HT
+platform_contract: '0x8b65b86dc3cadca97b50d4757bb8a686e6ea0ce1'

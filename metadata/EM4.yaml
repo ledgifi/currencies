@@ -3,3 +3,5 @@ fiat: false
 id: EM4
 id_nomics: EM4
 name: Eminer
+platform: ETH
+platform_contract: '0x35b08722aa26be119c1608029ccbc976ac5c1082'

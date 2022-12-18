@@ -6,3 +6,5 @@ id_nomics: FABRIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FABRIC.jpg
 logoKey: currencies/fabric.jpg
 name: MetaFabric
+platform: ETH
+platform_contract: '0x8c6fa66c21ae3fc435790e451946a9ea82e6e523'

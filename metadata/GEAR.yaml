@@ -6,3 +6,5 @@ id_nomics: GEAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GEAR.jpg
 logoKey: currencies/gear.jpg
 name: Bitgear
+platform: ETH
+platform_contract: '0x1b980e05943de3db3a459c72325338d327b6f5a9'

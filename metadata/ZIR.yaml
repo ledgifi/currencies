@@ -5,3 +5,5 @@ id_nomics: ZIR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZIR.png
 logoKey: currencies/zir.png
 name: ZAIR
+platform: BNB
+platform_contract: '0x6caba7782bceae971b68026735fd6f13bc27ef26'

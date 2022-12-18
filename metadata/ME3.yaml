@@ -5,3 +5,5 @@ id_nomics: ME3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ME3.jpeg
 logoKey: currencies/me3.jpeg
 name: Mammoth Earth
+platform: BNB
+platform_contract: '0x2e7f1bfb13bb36227a9ed6853253dffdbac24af7'

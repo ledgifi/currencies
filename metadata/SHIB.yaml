@@ -8,3 +8,5 @@ id_nomics: SHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIB.png
 logoKey: currencies/shib.png
 name: Shiba Inu
+platform: ETH
+platform_contract: '0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce'

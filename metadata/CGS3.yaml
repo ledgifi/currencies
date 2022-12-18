@@ -5,3 +5,5 @@ id_nomics: CGS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CGS3.jpg
 logoKey: currencies/cgs3.jpg
 name: Cougar Token
+platform: HARMONY
+platform_contract: '0x6cc35220349c444c39b8e26b359757739aaec952'

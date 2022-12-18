@@ -6,3 +6,5 @@ id_nomics: AJE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AJE.jpg
 logoKey: currencies/aje.jpg
 name: Ajeverse
+platform: BNB
+platform_contract: '0x1f0dd405ac14ed96dec617c525ed41e0130457bc'

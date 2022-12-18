@@ -5,3 +5,5 @@ id_nomics: POLARIS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POLARIS2.jpeg
 logoKey: currencies/polaris2.jpeg
 name: Polaris
+platform: BNB
+platform_contract: '0x321Da8cD0a3cdA53F71C8a4594e54E9F7e5Df8dF'

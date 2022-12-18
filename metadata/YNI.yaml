@@ -6,3 +6,5 @@ id_nomics: YNI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YNI.jpg
 logoKey: currencies/yni.jpg
 name: YEARNYFI.NETWORK
+platform: ETH
+platform_contract: '0xdeaa665ab71785ccf576dc76e5fcb5a2283ea0c6'

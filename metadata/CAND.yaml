@@ -3,3 +3,5 @@ fiat: false
 id: CAND
 id_nomics: CAND
 name: Canary Dollar
+platform: SGB2
+platform_contract: '0x70Ad7172EF0b131A1428D0c1F66457EB041f2176'

@@ -3,3 +3,5 @@ fiat: false
 id: QOMROCKET
 id_nomics: QOMROCKET
 name: Shiba Sender
+platform: ETH
+platform_contract: '0x8e867de7338808e183815a84eaffbf0f0c16582c'

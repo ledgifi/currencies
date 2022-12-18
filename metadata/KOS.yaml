@@ -5,3 +5,5 @@ id_nomics: KOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KOS.jpg
 logoKey: currencies/kos.jpg
 name: KOISWAP
+platform: BNB
+platform_contract: '0x57a3518696a3238963a8c2a919c1f9c0bfced872'

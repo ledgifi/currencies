@@ -6,3 +6,5 @@ id_nomics: NEOG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEOG.png
 logoKey: currencies/neog.png
 name: NEO GOLD
+platform: ETH
+platform_contract: '0x449574c69f3a658794829ed81639a7a9ece041e1'

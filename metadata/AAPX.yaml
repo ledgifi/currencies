@@ -6,3 +6,5 @@ id_nomics: AAPX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AAPX.png
 logoKey: currencies/aapx.png
 name: AMPnet
+platform: ETH
+platform_contract: '0xbfd815347d024f449886c171f78fa5b8e6790811'

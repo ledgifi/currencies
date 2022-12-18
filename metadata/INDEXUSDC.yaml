@@ -3,3 +3,5 @@ fiat: false
 id: INDEXUSDC
 id_nomics: INDEXUSDC
 name: Thetanut Index USDC
+platform: ETH
+platform_contract: '0x075da7e9efea6813ab0b2680423df75150120d12'

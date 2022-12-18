@@ -5,3 +5,5 @@ id_nomics: ETR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETR3.png
 logoKey: currencies/etr3.png
 name: Eternal War
+platform: BNB
+platform_contract: '0x9dedd2f81cc2f6b3b34b8eb430e8cc506650e863'

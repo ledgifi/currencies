@@ -5,3 +5,5 @@ id_nomics: ANTF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANTF.png
 logoKey: currencies/antf.png
 name: Ant Finance
+platform: BNB
+platform_contract: '0xf00598af0CCf2D43613414F36f40123337f56E71'

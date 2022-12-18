@@ -5,3 +5,5 @@ id_nomics: DIOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DIOS.jpg
 logoKey: currencies/dios.jpg
 name: Dios
+platform: BNB
+platform_contract: '0x08eecf5d03bda3df2467f6af46b160c24d931de7'

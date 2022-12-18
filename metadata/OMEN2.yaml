@@ -5,3 +5,5 @@ id_nomics: OMEN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OMEN2.jpg
 logoKey: currencies/omen2.jpg
 name: Augury Finance
+platform: MATIC
+platform_contract: '0x76e63a3e7ba1e2e61d3da86a87479f983de89a7e'

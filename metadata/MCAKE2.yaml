@@ -5,3 +5,5 @@ id_nomics: MCAKE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCAKE2.png
 logoKey: currencies/mcake2.png
 name: MoonCake Token
+platform: BNB
+platform_contract: '0xc966ad1c98d7c804985c547785f8308dee026bd9'

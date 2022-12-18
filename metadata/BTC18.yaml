@@ -4,3 +4,5 @@ id: BTC18
 id_nomics: BTC18
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTC18.png
 name: Bitcoin [Avalanche] (BTC)
+platform: AVAX
+platform_contract: '0x864FfAb8A1d32dD06403B04d4f6D56EbFb5f07B7'

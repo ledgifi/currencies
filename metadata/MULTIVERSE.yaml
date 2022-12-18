@@ -3,3 +3,5 @@ fiat: false
 id: MULTIVERSE
 id_nomics: MULTIVERSE
 name: MultiverseProtocol
+platform: ETH
+platform_contract: '0xdd7080c0f0d368cfa0371ea05cd3829162273aa0'

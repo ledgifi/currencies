@@ -6,3 +6,5 @@ id_nomics: GDAO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GDAO.jpg
 logoKey: currencies/gdao.jpg
 name: Governor DAO
+platform: ETH
+platform_contract: '0x515d7e9d75e2b76db60f8a051cd890eba23286bc'

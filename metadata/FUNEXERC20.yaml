@@ -5,3 +5,5 @@ id_nomics: FUNEXERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FUNEXERC20.jpg
 logoKey: currencies/funexerc20.jpg
 name: Funex (ERC-20)
+platform: ETH
+platform_contract: '0xd6e460f70e1cf60e55b770f66e568b44bf3657d0'

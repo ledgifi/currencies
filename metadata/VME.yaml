@@ -6,3 +6,5 @@ id_nomics: VME
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VME.png
 logoKey: currencies/vme.png
 name: VeriME
+platform: ETH
+platform_contract: '0xc343f099d3e41aa5c1b59470450e21e92e2d840b'

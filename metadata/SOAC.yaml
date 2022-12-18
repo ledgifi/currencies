@@ -3,3 +3,5 @@ fiat: false
 id: SOAC
 id_nomics: SOAC
 name: SOAcash
+platform: ETH
+platform_contract: '0x54721e0f049a28fead2a667f958a6ed7e3788cb1'

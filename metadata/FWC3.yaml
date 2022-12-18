@@ -5,3 +5,5 @@ id_nomics: FWC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FWC3.jpg
 logoKey: currencies/fwc3.jpg
 name: FIFA WORLD CUP
+platform: BNB
+platform_contract: '0x3ebfa4ea1f539dc9fc90195072119f2cf46570f4'

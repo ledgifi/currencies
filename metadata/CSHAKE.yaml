@@ -3,3 +3,5 @@ fiat: false
 id: CSHAKE
 id_nomics: CSHAKE
 name: CroShake
+platform: CRO
+platform_contract: '0x90675656ba11f1a21d67cf1182e348dfb82aeda2'

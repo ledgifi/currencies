@@ -5,3 +5,5 @@ id_nomics: PCN4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PCN4.jpg
 logoKey: currencies/pcn4.jpg
 name: Piecoin
+platform: BNB
+platform_contract: '0x69bdbb5ef2606885961f3bc4b861d19b02808c32'

@@ -3,3 +3,5 @@ fiat: false
 id: MBOND
 id_nomics: MBOND
 name: Savanna Bond
+platform: CRO
+platform_contract: '0x1ee8d716247675c6909e85dbe73a2f37173fc229'

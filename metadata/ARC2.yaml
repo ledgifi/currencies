@@ -5,3 +5,5 @@ id_nomics: ARC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARC2.jpg
 logoKey: currencies/arc2.jpg
 name: Arca
+platform: BNB
+platform_contract: '0x7f559adb8e2690c9b9ed8a8eabe452631d0179e2'

@@ -5,3 +5,5 @@ id_nomics: CBC9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBC9.jpg
 logoKey: currencies/cbc9.jpg
 name: Carbon Coin - CNES
+platform: ETH
+platform_contract: '0x723b23f44b3e3a0fa029044b6326fba41eddf5e6'

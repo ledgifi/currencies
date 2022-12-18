@@ -5,3 +5,5 @@ id_nomics: FH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FH2.jpg
 logoKey: currencies/fh2.jpg
 name: FIFAHero
+platform: ETH
+platform_contract: '0x780e071a66aaB25f38c752E6F42ABd5c7bEf3Ab2'

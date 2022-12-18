@@ -3,3 +3,5 @@ fiat: false
 id: POLYLAVA
 id_nomics: POLYLAVA
 name: PolyLavaCake Token
+platform: MATIC
+platform_contract: '0x052f73c62628ab6d14674e95cd37c90a40515704'

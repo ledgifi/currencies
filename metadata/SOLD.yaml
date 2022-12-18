@@ -5,3 +5,5 @@ id_nomics: SOLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOLD.jpg
 logoKey: currencies/sold.jpg
 name: SoldOutToken
+platform: ETH
+platform_contract: '0xa00ba1c3fd86aebf4f8cbd9126fd6c5ec7b6f273'

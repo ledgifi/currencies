@@ -5,3 +5,5 @@ id_nomics: CYCERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CYCERC20.jpg
 logoKey: currencies/cycerc20.jpg
 name: Cyclone Protocol (ERC-20)
+platform: ETH
+platform_contract: '0x8861cff2366c1128fd699b68304ad99a0764ef9a'

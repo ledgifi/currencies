@@ -3,3 +3,5 @@ fiat: false
 id: MINIOSK
 id_nomics: MINIOSK
 name: MiniOSK
+platform: BNB
+platform_contract: '0xd2410be16bfe459943aa446590e6ad1f2978546a'

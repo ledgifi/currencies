@@ -5,3 +5,5 @@ id_nomics: AUSDC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AUSDC.jpg
 logoKey: currencies/ausdc.jpg
 name: Aave USDC v1
+platform: ETH
+platform_contract: '0x9ba00d6856a4edf4665bca2c2309936572473b7e'

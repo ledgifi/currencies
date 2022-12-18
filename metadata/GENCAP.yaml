@@ -6,3 +6,5 @@ id_nomics: GENCAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GENCAP.jpg
 logoKey: currencies/gencap.jpg
 name: Gencoin Capital
+platform: ETH
+platform_contract: '0x0b569fa433faa7f01f3ea880193de38044b41de0'

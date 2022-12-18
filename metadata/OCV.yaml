@@ -6,3 +6,5 @@ id_nomics: OCV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCV.jpg
 logoKey: currencies/ocv.jpg
 name: Oculus Vision
+platform: BNB
+platform_contract: '0x76cf21939f7df1e355b8919b439556b064170d49'

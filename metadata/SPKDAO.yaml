@@ -5,3 +5,5 @@ id_nomics: SPKDAO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPKDAO.png
 logoKey: currencies/spkdao.png
 name: Spooky DAO
+platform: BNB
+platform_contract: '0x8b000beb8114522e9cb856f2466a721f83fd9700'

@@ -5,3 +5,5 @@ id_nomics: SOUL8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOUL8.jpg
 logoKey: currencies/soul8.jpg
 name: Soulsaver
+platform: ETH
+platform_contract: '0x992d339532a9c42f1b0e59a57e95f38da38c66f6'

@@ -5,3 +5,5 @@ id_nomics: KOMBAT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KOMBAT2.jpg
 logoKey: currencies/kombat2.jpg
 name: MetaKombat
+platform: BNB
+platform_contract: '0x4f814f93e59242d96595844eb3882bbee0398f7c'

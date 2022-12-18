@@ -5,3 +5,5 @@ id_nomics: GXG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GXG.png
 logoKey: currencies/gxg.png
 name: GXG Token
+platform: BNB
+platform_contract: '0xfce3b7abbed6e7e5b1d3e85d4a369d7658f0190e'

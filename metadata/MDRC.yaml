@@ -6,3 +6,5 @@ id_nomics: MDRC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MDRC.jpeg
 logoKey: currencies/mdrc.jpeg
 name: Modern Coin
+platform: BNB
+platform_contract: '0xb96c037b663a4c18499d418afade3c411f5d0f49'

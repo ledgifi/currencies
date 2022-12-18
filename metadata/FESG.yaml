@@ -3,3 +3,5 @@ fiat: false
 id: FESG
 id_nomics: FESG
 name: Fixed ESG
+platform: ETH
+platform_contract: '0x44507693c5cb1225cc9466ce1b21517c1df59d0e'

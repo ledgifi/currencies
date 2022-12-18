@@ -5,3 +5,5 @@ id_nomics: LNT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LNT.jpg
 logoKey: currencies/lnt.jpg
 name: Lottonation
+platform: ETH
+platform_contract: '0x3a73f6156c4fbc71b8fdf38090a9d99401163644'

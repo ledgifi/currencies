@@ -5,3 +5,5 @@ id_nomics: DFG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DFG.jpg
 logoKey: currencies/dfg.jpg
 name: Defigram
+platform: BNB
+platform_contract: '0xb661f4576d5e0b622fee6ab041fd5451fe02ba4c'

@@ -5,3 +5,5 @@ id_nomics: HERA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HERA3.jpg
 logoKey: currencies/hera3.jpg
 name: Exa Hera
+platform: BNB
+platform_contract: '0x9c41db629ccf3ca9bfdc68e13b077dce0eb378a7'

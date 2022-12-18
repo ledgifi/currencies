@@ -5,3 +5,5 @@ id_nomics: METAQUANTUM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAQUANTUM.jpg
 logoKey: currencies/metaquantum.jpg
 name: Meta Quantum
+platform: BNB
+platform_contract: '0x216590a9ce2e8488ef61424475177fe8ae69292d'

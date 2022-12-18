@@ -6,3 +6,5 @@ id_nomics: BSN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSN.png
 logoKey: currencies/bsn.png
 name: Bastonet
+platform: ETH
+platform_contract: '0xed5a55797caecca39811ac3cc0ee085cafc05953'

@@ -5,3 +5,5 @@ id_nomics: VEMP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VEMP.jpg
 logoKey: currencies/vemp.jpg
 name: vEmpire DDAO
+platform: ETH
+platform_contract: '0xcfeb09c3c5f0f78ad72166d55f9e6e9a60e96eec'

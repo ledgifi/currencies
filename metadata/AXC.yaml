@@ -6,3 +6,5 @@ id_nomics: AXC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AXC.jpg
 logoKey: currencies/axc.jpg
 name: AXIA Coin
+platform: ETH
+platform_contract: '0x37c430c2b5f9ff85e534873c715871818ab1623e'

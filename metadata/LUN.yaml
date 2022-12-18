@@ -8,3 +8,5 @@ id_nomics: LUN
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/lun.svg
 logoKey: currencies/lun.svg
 name: Lunyr
+platform: ETH
+platform_contract: '0xfa05a73ffe78ef8f1a739473e462c54bae6567d9'

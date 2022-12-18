@@ -5,3 +5,5 @@ id_nomics: CTP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTP.png
 logoKey: currencies/ctp.png
 name: CheemsTrump
+platform: BNB
+platform_contract: '0x15f48c6eb15046cd5d3ef815f3352bfb4d83af6e'

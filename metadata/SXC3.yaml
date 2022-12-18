@@ -5,3 +5,5 @@ id_nomics: SXC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SXC3.png
 logoKey: currencies/sxc3.png
 name: SocialXClub
+platform: ETH
+platform_contract: '0xc2dd7a72f16cfa5dd8f9f5b49d251b2fd2163ff6'

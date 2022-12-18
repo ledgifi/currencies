@@ -5,3 +5,5 @@ id_nomics: MYDA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MYDA.jpg
 logoKey: currencies/myda.jpg
 name: MYDA
+platform: BNB
+platform_contract: '0xa42db191c071f34c9dca3a88e3639b46d9296a66'

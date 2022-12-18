@@ -3,3 +3,5 @@ fiat: false
 id: IMS
 id_nomics: IMS
 name: IMSWallet
+platform: ETH
+platform_contract: '0x3c4030839708a20fd2fb379cf11810dde4888d93'

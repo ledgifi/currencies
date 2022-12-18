@@ -5,3 +5,5 @@ id_nomics: EM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EM.png
 logoKey: currencies/em.png
 name: Eminer
+platform: AVAX
+platform_contract: '0x97e7044ab98b7891546485f5f66edcc2f58be106'

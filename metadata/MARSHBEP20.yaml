@@ -5,3 +5,5 @@ id_nomics: MARSHBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MARSHBEP20.png
 logoKey: currencies/marshbep20.png
 name: Unmarshal (BEP-20)
+platform: BNB
+platform_contract: '0x2fa5daf6fe0708fbd63b1a7d1592577284f52256'

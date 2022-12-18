@@ -5,3 +5,5 @@ id_nomics: SCCN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/sccn.jpg
 logoKey: currencies/sccn.jpg
 name: Stem Cell Coin
+platform: NEO
+platform_contract: 323571cfc42a40d48d64832a7da594039fbac76a

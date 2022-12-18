@@ -5,3 +5,5 @@ id_nomics: YAM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YAM2.jpeg
 logoKey: currencies/yam2.jpeg
 name: Lapoyoma
+platform: BNB
+platform_contract: '0x72b947ecda4d6740bb444a07ae3adda936fa0210'

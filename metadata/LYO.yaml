@@ -3,3 +3,5 @@ fiat: false
 id: LYO
 id_nomics: LYO
 name: Lyocredit
+platform: BNB
+platform_contract: '0x9bad6c75b5a4e72df8147cc89d068cc848648e59'

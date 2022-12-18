@@ -5,3 +5,5 @@ id_nomics: RIVIA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RIVIA.png
 logoKey: currencies/rivia.png
 name: The Witcher Game
+platform: BNB
+platform_contract: '0x4b27d3958f748f44cb3fea2d0f8ed22a26d06cdf'

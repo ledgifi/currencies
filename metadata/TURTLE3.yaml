@@ -5,3 +5,5 @@ id_nomics: TURTLE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TURTLE3.png
 logoKey: currencies/turtle3.png
 name: Awkward Turtle BSC
+platform: BNB
+platform_contract: '0xba355d310d35d8817c9f489fa17cc2a0b027f91e'

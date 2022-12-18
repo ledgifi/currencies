@@ -3,3 +3,5 @@ fiat: false
 id: PUMPGODCOIN
 id_nomics: PUMPGODCOIN
 name: PumpGodCoin
+platform: ETH
+platform_contract: '0xfdde392dd9f96dae56ce1e7864704f817f993a32'

@@ -3,3 +3,5 @@ fiat: false
 id: HEGB
 id_nomics: HEGB
 name: HEGB Coin
+platform: BNB
+platform_contract: '0x50aaabae7e8ae7b5a8a38fdd3e39e888c2835dbf'

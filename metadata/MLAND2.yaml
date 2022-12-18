@@ -5,3 +5,5 @@ id_nomics: MLAND2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MLAND2.jpg
 logoKey: currencies/mland2.jpg
 name: MetaLand
+platform: BNB
+platform_contract: '0x349a1b99944914628d13963e2905d6da95695f3b'

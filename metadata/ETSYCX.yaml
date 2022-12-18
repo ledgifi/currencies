@@ -5,3 +5,5 @@ id_nomics: ETSYCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETSYCX.jpg
 logoKey: currencies/etsycx.jpg
 name: Etsy, Inc.
+platform: ETH
+platform_contract: '0x381cd63879d20d12c42e1704b3f516abd3ef5fad'

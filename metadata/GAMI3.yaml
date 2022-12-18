@@ -4,3 +4,5 @@ id: GAMI3
 id_nomics: GAMI3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAMI3.png
 name: Inugami
+platform: ETH
+platform_contract: '0x225b9970f333ffe868f6eff4cd6adf3943dc6c4d'

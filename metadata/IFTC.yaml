@@ -6,3 +6,5 @@ id_nomics: IFTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IFTC.jpg
 logoKey: currencies/iftc.jpg
 name: Internet Fintech Coin
+platform: ETH
+platform_contract: '0xaab29ecc3783acb436a6679919f22d30932e93f2'

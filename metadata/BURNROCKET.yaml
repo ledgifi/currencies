@@ -6,3 +6,5 @@ id_nomics: BURNROCKET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BURNROCKET.jpeg
 logoKey: currencies/burnrocket.jpeg
 name: BurnRocket
+platform: BNB
+platform_contract: '0xbe85da035c6256967b8ee9846cb35c73f7620b13'

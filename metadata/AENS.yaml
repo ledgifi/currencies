@@ -6,3 +6,5 @@ id_nomics: AENS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AENS.jpg
 logoKey: currencies/aens.jpg
 name: AEN Smart Token
+platform: ETH
+platform_contract: '0xd38de88687172bde440755b5237987e4a87c23a7'

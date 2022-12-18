@@ -3,3 +3,5 @@ fiat: false
 id: EMIN2
 id_nomics: EMIN2
 name: EthereumMin
+platform: ETH
+platform_contract: '0x2b4d3bfcaeb943e00c333afe8d9aa7c06ba487d5'

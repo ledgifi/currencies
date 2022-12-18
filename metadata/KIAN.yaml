@@ -5,3 +5,5 @@ id_nomics: KIAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KIAN.jpg
 logoKey: currencies/kian.jpg
 name: Kianite
+platform: BNB
+platform_contract: '0x5ece3f1542c4e1a06767457e4d8286bea772fc41'

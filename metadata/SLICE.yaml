@@ -6,3 +6,5 @@ id_nomics: SLICE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLICE.jpg
 logoKey: currencies/slice.jpg
 name: Tranche Finance
+platform: ETH
+platform_contract: '0x0aee8703d34dd9ae107386d3eff22ae75dd616d1'

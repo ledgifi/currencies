@@ -5,3 +5,5 @@ id_nomics: ARB4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARB4.jpg
 logoKey: currencies/arb4.jpg
 name: Manipulate
+platform: BNB
+platform_contract: '0x8b20e808a8e4e6c10805fbe252f249f3d40fc87f'

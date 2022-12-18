@@ -6,3 +6,5 @@ id_nomics: XELS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XELS.jpg
 logoKey: currencies/xels.jpg
 name: Xels
+platform: ETH
+platform_contract: '0xe748269494e76c1cec3f627bb1e561e607da9161'

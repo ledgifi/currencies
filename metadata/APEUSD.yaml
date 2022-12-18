@@ -3,3 +3,5 @@ fiat: false
 id: APEUSD
 id_nomics: APEUSD
 name: ApeUSD
+platform: ETH
+platform_contract: '0xff709449528b6fb6b88f557f7d93dece33bca78d'

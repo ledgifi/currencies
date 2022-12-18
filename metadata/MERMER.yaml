@@ -5,3 +5,5 @@ id_nomics: MERMER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MERMER.png
 logoKey: currencies/mermer.png
 name: Mini Mermaid
+platform: BNB
+platform_contract: '0xd55ee62d7eaf792e4d4b46af903a970f5fde22a7'

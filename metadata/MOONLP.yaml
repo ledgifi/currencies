@@ -3,3 +3,5 @@ fiat: false
 id: MOONLP
 id_nomics: MOONLP
 name: Moon Liquidity Pool
+platform: BNB
+platform_contract: '0xa9ac05ed4fff0dc2051762511fca68f01dc365c4'

@@ -6,3 +6,5 @@ id_nomics: I9C
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/I9C.png
 logoKey: currencies/i9c.png
 name: i9 Coin
+platform: ETH
+platform_contract: '0x7cf74238d48ce383db00a1efff8da99303552cb0'

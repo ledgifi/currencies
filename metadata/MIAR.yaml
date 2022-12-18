@@ -5,3 +5,5 @@ id_nomics: MIAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIAR.png
 logoKey: currencies/miar.png
 name: Miarma
+platform: BNB
+platform_contract: '0x5f9630f6c179236e9fd055f152b3ddd8c7adba20'

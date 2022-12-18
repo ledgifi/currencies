@@ -3,3 +3,5 @@ fiat: false
 id: CACHE
 id_nomics: CACHE
 name: Cache Token
+platform: ETH
+platform_contract: '0x8b9a25dfae16173403a21894eb9046084f717ec0'

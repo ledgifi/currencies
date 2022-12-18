@@ -5,3 +5,5 @@ id_nomics: CHADLINK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHADLINK.png
 logoKey: currencies/chadlink.png
 name: Chad Link Set
+platform: ETH
+platform_contract: '0x19f4a2f8e21915376f1429c26a3a9b9b1db5ff5a'

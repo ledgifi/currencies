@@ -3,3 +3,5 @@ fiat: false
 id: CMBT
 id_nomics: CMBT
 name: Moonies
+platform: ETH
+platform_contract: '0x7766ca8d4dd84b3dc4df089031617f29ac1f5b5e'

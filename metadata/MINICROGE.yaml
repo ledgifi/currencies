@@ -3,3 +3,5 @@ fiat: false
 id: MINICROGE
 id_nomics: MINICROGE
 name: MINICrogeCoin
+platform: CRO
+platform_contract: '0x2d8fad549927e0cb41dc161badecaac9df8caa39'

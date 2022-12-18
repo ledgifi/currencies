@@ -5,3 +5,5 @@ id_nomics: ORSGROUP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORSGROUP.jpg
 logoKey: currencies/orsgroup.jpg
 name: ORS Group
+platform: ETH
+platform_contract: '0xac2e58a06e6265f1cf5084ee58da68e5d75b49ca'

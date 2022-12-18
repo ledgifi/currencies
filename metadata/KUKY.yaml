@@ -6,3 +6,5 @@ id_nomics: KUKY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KUKY.jpeg
 logoKey: currencies/kuky.jpeg
 name: Kuky Star
+platform: ETH
+platform_contract: '0xe6b7743e2b9aa2d0a9b163c4e69186abb57817d9'

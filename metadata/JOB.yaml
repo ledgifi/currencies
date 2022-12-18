@@ -6,3 +6,5 @@ id_nomics: JOB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JOB.svg
 logoKey: currencies/job.svg
 name: Jobchain
+platform: ETH
+platform_contract: '0xdfbc9050f5b01df53512dcc39b4f2b2bbacd517a'

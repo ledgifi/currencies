@@ -5,3 +5,5 @@ id_nomics: UNIGROW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNIGROW.png
 logoKey: currencies/unigrow.png
 name: UniGrow
+platform: BNB
+platform_contract: '0xe1f94cb8e0601ab0fa8d2fb6550972c34d75fdd9'

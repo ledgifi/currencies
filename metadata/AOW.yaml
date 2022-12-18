@@ -6,3 +6,5 @@ id_nomics: AOW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AOW.jpg
 logoKey: currencies/aow.jpg
 name: Art of War
+platform: BNB
+platform_contract: '0xdd5efe248322d6bd3b1954e1c6ddb1d18b1a96e8'

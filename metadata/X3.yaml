@@ -5,3 +5,5 @@ id_nomics: X3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/X3.jpg
 logoKey: currencies/x3.jpg
 name: GIBX Swap
+platform: BNB
+platform_contract: '0xae28714390e95b8df1ef847c58aeac23ed457702'

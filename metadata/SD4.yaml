@@ -5,3 +5,5 @@ id_nomics: SD4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SD4.jpg
 logoKey: currencies/sd4.jpg
 name: StarDust
+platform: BNB
+platform_contract: '0x277819bf69667b48af57abc52dddcb92ab6a2c45'

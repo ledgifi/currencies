@@ -6,3 +6,5 @@ id_nomics: BLX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/blx.jpg
 logoKey: currencies/blx.jpg
 name: Blockchain Index
+platform: ETH
+platform_contract: '0xe5a7c12972f3bbfe70ed29521c8949b8af6a0970'

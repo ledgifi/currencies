@@ -5,3 +5,5 @@ id_nomics: FAT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FAT4.jpg
 logoKey: currencies/fat4.jpg
 name: FatAnimal Token
+platform: BNB
+platform_contract: '0x73280e2951785f17acc6cb2a1d0c4d65031d54b3'

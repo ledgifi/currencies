@@ -5,3 +5,5 @@ id_nomics: PPEGGPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PPEGGPOS.png
 logoKey: currencies/ppeggpos.png
 name: Parrot Egg (Polygon)
+platform: MATIC
+platform_contract: '0xb63e54f16600b356f6d62ddd43fca5b43d7c66fd'

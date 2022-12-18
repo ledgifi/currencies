@@ -5,3 +5,5 @@ id_nomics: TPP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TPP.jpg
 logoKey: currencies/tpp.jpg
 name: Trusted Property Protocol
+platform: ETH
+platform_contract: '0x11dd5dddd1bd9b2df6ff908fbcf8db09cefed29b'

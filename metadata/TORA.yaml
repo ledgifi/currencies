@@ -5,3 +5,5 @@ id_nomics: TORA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TORA.jpg
 logoKey: currencies/tora.jpg
 name: Tora Inu
+platform: ETH
+platform_contract: '0x8866fef71d3e71edb20aec2529953db76354a9d4'

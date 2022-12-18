@@ -5,3 +5,5 @@ id_nomics: ARC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARC3.jpg
 logoKey: currencies/arc3.jpg
 name: Arcade
+platform: BNB
+platform_contract: '0x67f785d5cf3784e8f35876df323acf193350081f'

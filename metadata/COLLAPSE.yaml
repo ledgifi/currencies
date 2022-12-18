@@ -3,3 +3,5 @@ fiat: false
 id: COLLAPSE
 id_nomics: COLLAPSE
 name: CollapseFi
+platform: ETH
+platform_contract: '0x79b6fa4db86603571ed41a194f2cf75be4cceb13'

@@ -5,3 +5,5 @@ id_nomics: PDEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PDEX.jpg
 logoKey: currencies/pdex.jpg
 name: Polkadex
+platform: ETH
+platform_contract: '0xf59ae934f6fe444afc309586cc60a84a0f89aaea'

@@ -5,3 +5,5 @@ id_nomics: JT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JT.png
 logoKey: currencies/jt.png
 name: JungleToken
+platform: ETH
+platform_contract: '0x285ce65705d26c28f7a720cf3bfe8b868c82a48f'

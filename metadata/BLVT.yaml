@@ -5,3 +5,5 @@ id_nomics: BLVT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLVT.jpg
 logoKey: currencies/blvt.jpg
 name: BlocVault
+platform: BNB
+platform_contract: '0xb3ac46fE1A14589F5fB4EA735DA723cD12a3438A'

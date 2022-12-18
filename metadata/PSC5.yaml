@@ -5,3 +5,5 @@ id_nomics: PSC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PSC5.jpg
 logoKey: currencies/psc5.jpg
 name: Petsneaker
+platform: BNB
+platform_contract: '0xcdf3d1b32cc03080ffa6bf7673b2526c61feec32'

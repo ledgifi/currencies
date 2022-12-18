@@ -5,3 +5,5 @@ id_nomics: ACE5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACE5.jpg
 logoKey: currencies/ace5.jpg
 name: Burnace
+platform: BNB
+platform_contract: '0x9a624b4190f38c888bbf7f845f14198f9c951de7'

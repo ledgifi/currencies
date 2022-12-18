@@ -3,3 +3,5 @@ fiat: false
 id: REEFER
 id_nomics: REEFER
 name: Reefer Token
+platform: BNB
+platform_contract: '0x701b57da9eff1d3f1ce4e90171f602ff16fc05a4'

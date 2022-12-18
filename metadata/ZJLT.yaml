@@ -6,3 +6,5 @@ id_nomics: ZJLT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/zjlt.jpg
 logoKey: currencies/zjlt.jpg
 name: ZJLT Distributed Factoring Network
+platform: ETH
+platform_contract: '0xbc34985b4d345aea933d5cac19f3a86bd1fb398f'

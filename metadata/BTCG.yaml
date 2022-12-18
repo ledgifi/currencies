@@ -5,3 +5,5 @@ id_nomics: BTCG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCG.png
 logoKey: currencies/btcg.png
 name: Bitcoin Galaxy
+platform: ETH
+platform_contract: '0xcde3ef6cacf84ad36d8a6eccc964f25351296d36'

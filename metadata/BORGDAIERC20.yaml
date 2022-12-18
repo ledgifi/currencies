@@ -5,3 +5,5 @@ id_nomics: BORGDAIERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BORGDAIERC20.png
 logoKey: currencies/borgdaierc20.png
 name: BORGDAI (ERC-20)
+platform: ETH
+platform_contract: '0x6c9a9d09431d3a9c03b1ce5f8baedba7123b7d31'

@@ -6,3 +6,5 @@ id_nomics: GES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GES.png
 logoKey: currencies/ges.png
 name: Galaxy eSolutions
+platform: ETH
+platform_contract: '0xfb1e5f5e984c28ad7e228cdaa1f8a0919bb6a09b'

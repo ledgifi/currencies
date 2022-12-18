@@ -6,3 +6,5 @@ id_nomics: AMO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/amo.jpg
 logoKey: currencies/amo.jpg
 name: AMO Coin
+platform: ETH
+platform_contract: '0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169'

@@ -6,3 +6,5 @@ id_nomics: 10MT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/10MT.jpg
 logoKey: currencies/10mt.jpg
 name: 10M Token
+platform: ETH
+platform_contract: '0xe701cd3329057aea9d54300ddd05e41b8d74727a'

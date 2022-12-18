@@ -3,3 +3,5 @@ fiat: false
 id: DPOOL
 id_nomics: DPOOL
 name: Degen Pool
+platform: CRO
+platform_contract: '0x84247cd9b51b112d1e025701e67d623b7a0a6194'

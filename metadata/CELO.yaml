@@ -8,3 +8,5 @@ id_nomics: CELO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CELO.svg
 logoKey: currencies/celo.svg
 name: Celo
+platform: CELO
+platform_contract: '0x471EcE3750Da237f93B8E339c536989b8978a438'

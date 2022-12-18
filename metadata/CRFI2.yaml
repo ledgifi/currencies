@@ -5,3 +5,5 @@ id_nomics: CRFI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRFI2.jpg
 logoKey: currencies/crfi2.jpg
 name: CrossFi
+platform: BNB
+platform_contract: '0x2c7cc3b6acdd71211e951f65c02ba2575be25399'

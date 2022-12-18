@@ -3,3 +3,5 @@ fiat: false
 id: UNIETH
 id_nomics: UNIETH
 name: Universal ETH
+platform: ETH
+platform_contract: '0xf1376bcef0f78459c0ed0ba5ddce976f1ddf51f4'

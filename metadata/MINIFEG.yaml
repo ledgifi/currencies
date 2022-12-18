@@ -3,3 +3,5 @@ fiat: false
 id: MINIFEG
 id_nomics: MINIFEG
 name: MiniFeg
+platform: BNB
+platform_contract: '0x284512003f52daf4b07873145ccee21ed5aef06b'

@@ -3,3 +3,5 @@ fiat: false
 id: MOCK
 id_nomics: MOCK
 name: mock
+platform: BNB
+platform_contract: '0xdf333e2fe864b04b9f75ee51b70c784f5cdbf0c1'

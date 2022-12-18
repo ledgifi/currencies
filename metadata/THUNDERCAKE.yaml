@@ -5,3 +5,5 @@ id_nomics: THUNDERCAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THUNDERCAKE.jpg
 logoKey: currencies/thundercake.jpg
 name: ThunderCake
+platform: BNB
+platform_contract: '0xce4a4a15fccd532ead67be3ecf7e6122c61d06bb'

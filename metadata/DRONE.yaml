@@ -5,3 +5,5 @@ id_nomics: DRONE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRONE.png
 logoKey: currencies/drone.png
 name: Drone
+platform: BNB
+platform_contract: '0x0c0760562e2930e9f06e425a6db5221af5940905'

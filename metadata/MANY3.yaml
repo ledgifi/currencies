@@ -5,3 +5,5 @@ id_nomics: MANY3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MANY3.jpg
 logoKey: currencies/many3.jpg
 name: Many Worlds
+platform: BNB
+platform_contract: '0x3e2ed75f718251fd011312b9e33bf10a4dbfda54'

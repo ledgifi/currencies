@@ -5,3 +5,5 @@ id_nomics: FLOKI12
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKI12.jpg
 logoKey: currencies/floki12.jpg
 name: MarsFlokiInu
+platform: BNB
+platform_contract: '0x2969fac8eabbb3cbdac56778323930bbc90e471c'

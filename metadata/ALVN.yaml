@@ -6,3 +6,5 @@ id_nomics: ALVN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALVN.jpg
 logoKey: currencies/alvn.jpg
 name: AlvareNet
+platform: BNB
+platform_contract: '0x2488f8ce316cfaa9d9094c87fff02e4552ac2dbd'

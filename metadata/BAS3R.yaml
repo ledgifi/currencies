@@ -5,3 +5,5 @@ id_nomics: BAS3R
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAS3R.jpg
 logoKey: currencies/bas3r.jpg
 name: Bas3r.finance
+platform: ETH
+platform_contract: '0x07a1f40a76a5e7e42def56c23deb6b422be2f291'

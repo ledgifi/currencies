@@ -5,3 +5,5 @@ id_nomics: FDLS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FDLS.jpg
 logoKey: currencies/fdls.jpg
 name: Fidelis
+platform: BNB
+platform_contract: '0x85cec9d09529c4239dcd89018889238abdd3ede6'

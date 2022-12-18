@@ -3,3 +3,5 @@ fiat: false
 id: RCKT2
 id_nomics: RCKT2
 name: SafeRocket
+platform: ETH
+platform_contract: '0x54e4eda0bca90921d981ee517d7c26dcfbb537b5'

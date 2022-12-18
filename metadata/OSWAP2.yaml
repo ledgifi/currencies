@@ -5,3 +5,5 @@ id_nomics: OSWAP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OSWAP2.jpg
 logoKey: currencies/oswap2.jpg
 name: OpenSwap
+platform: ETH
+platform_contract: '0xb32ac3c79a94ac1eb258f3c830bbdbc676483c93'

@@ -3,3 +3,5 @@ fiat: false
 id: ADOTB
 id_nomics: ADOTB
 name: ANKR Reward Earning DOT
+platform: ETH
+platform_contract: '0x5cc56c266143f29a5054b9ae07f3ac3513a7965e'

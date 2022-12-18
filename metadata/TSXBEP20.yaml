@@ -5,3 +5,5 @@ id_nomics: TSXBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TSXBEP20.png
 logoKey: currencies/tsxbep20.png
 name: TradeStars (BEP-20)
+platform: BNB
+platform_contract: '0x270388e0ca29cfd7c7e73903d9d933a23d1bab39'

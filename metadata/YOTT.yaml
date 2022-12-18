@@ -5,3 +5,5 @@ id_nomics: YOTT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YOTT.jpeg
 logoKey: currencies/yott.jpeg
 name: Year of the Tiger
+platform: BNB
+platform_contract: '0xb2b4d56ec7005b605a0839d07ca5d60bec83b7aa'

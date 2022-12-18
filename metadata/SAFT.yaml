@@ -3,3 +3,5 @@ fiat: false
 id: SAFT
 id_nomics: SAFT
 name: Safety Token
+platform: ETH
+platform_contract: '0xa2b72ff1edbd1cb26fcf941983376f89a4e230eb'

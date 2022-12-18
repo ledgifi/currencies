@@ -5,3 +5,5 @@ id_nomics: ADRT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADRT2.jpg
 logoKey: currencies/adrt2.jpg
 name: Adrenaline
+platform: ETH
+platform_contract: '0xbed85cf4c249bd5fc187af600d652dd2beefddea'

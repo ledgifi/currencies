@@ -3,3 +3,5 @@ fiat: false
 id: TOKINU
 id_nomics: TOKINU
 name: Tokyo Inu Coin
+platform: ETH
+platform_contract: '0x2e6affa1bdb7139270744723f4ce533e4ee82840'

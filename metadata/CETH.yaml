@@ -6,3 +6,5 @@ id_nomics: CETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CETH.png
 logoKey: currencies/ceth.png
 name: Compound Ether
+platform: ETH
+platform_contract: '0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5'

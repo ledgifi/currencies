@@ -3,3 +3,5 @@ fiat: false
 id: TRMP
 id_nomics: TRMP
 name: TrumpCoins
+platform: BNB
+platform_contract: '0x2b973bd45b06db0867574d29bc6961ba00af724a'

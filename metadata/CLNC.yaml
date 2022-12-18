@@ -3,3 +3,5 @@ fiat: false
 id: CLNC
 id_nomics: CLNC
 name: CarolinaCoin
+platform: ETH
+platform_contract: '0x275c94e0dcbf950f77452325b93b40685b3d8b23'

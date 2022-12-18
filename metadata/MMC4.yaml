@@ -5,3 +5,5 @@ id_nomics: MMC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MMC4.jpg
 logoKey: currencies/mmc4.jpg
 name: MMC
+platform: BNB
+platform_contract: '0x60a184e28a4ae34c2dae66461e61510fa1157721'

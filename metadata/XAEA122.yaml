@@ -5,3 +5,5 @@ id_nomics: XAEA122
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XAEA122.jpg
 logoKey: currencies/xaea122.jpg
 name: X AE A-12
+platform: ETH
+platform_contract: '0x1902882a8f6c7fb1402f83c434ea8e064b35bab3'

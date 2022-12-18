@@ -5,3 +5,5 @@ id_nomics: NEKOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEKOS.jpeg
 logoKey: currencies/nekos.jpeg
 name: Nekocoin
+platform: BNB
+platform_contract: '0x43ce64a4fba3c30c0164e935b0095862a67dc0c9'

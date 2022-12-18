@@ -6,3 +6,5 @@ id_nomics: HES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HES.jpg
 logoKey: currencies/hes.jpg
 name: Hero Essence
+platform: BNB
+platform_contract: '0x215fab3842bfa19dc0dd7248746c0ab72a8fe813'

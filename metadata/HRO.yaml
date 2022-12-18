@@ -6,3 +6,5 @@ id_nomics: HRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HRO.jpg
 logoKey: currencies/hro.jpg
 name: CryptoDiceHero
+platform: BNB
+platform_contract: '0xfb1a34eb2585b0ad7976420d7a21ef2f4aebeeb6'

@@ -3,3 +3,5 @@ fiat: false
 id: LUNAT
 id_nomics: LUNAT
 name: LUNAT
+platform: BNB
+platform_contract: '0x50f609917b118f7a53ce637655159bba1169fcbd'

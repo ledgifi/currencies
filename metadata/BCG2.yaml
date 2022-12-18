@@ -5,3 +5,5 @@ id_nomics: BCG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCG2.png
 logoKey: currencies/bcg2.png
 name: BCPGO
+platform: BNB
+platform_contract: '0x468a3f84efb1080e607b6ba115e7ed07ab54b331'

@@ -3,3 +3,5 @@ fiat: false
 id: NCY
 id_nomics: NCY
 name: New CY
+platform: BNB
+platform_contract: '0xf0230566693a0e8addb3fc12d8878f71c968b456'

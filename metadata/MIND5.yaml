@@ -5,3 +5,5 @@ id_nomics: MIND5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIND5.jpg
 logoKey: currencies/mind5.jpg
 name: MiND Token
+platform: BNB
+platform_contract: '0xE1B66A1F5eF08eb246890c3fAB259A2656653E7F'

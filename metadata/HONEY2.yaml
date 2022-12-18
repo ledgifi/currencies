@@ -5,3 +5,5 @@ id_nomics: HONEY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HONEY2.jpg
 logoKey: currencies/honey2.jpg
 name: Honeycomb
+platform: BNB
+platform_contract: '0x5fb61ac238fd2fe599ad748ae1707ad0d508ac8a'

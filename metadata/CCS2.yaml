@@ -5,3 +5,5 @@ id_nomics: CCS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CCS2.png
 logoKey: currencies/ccs2.png
 name: CloutContracts
+platform: ETH
+platform_contract: '0x1da4858ad385cc377165a298cc2ce3fce0c5fd31'

@@ -5,3 +5,5 @@ id_nomics: CP4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CP4.jpg
 logoKey: currencies/cp4.jpg
 name: Coinpad
+platform: BNB
+platform_contract: '0x31ce6ac6007eb0f5abbc1ca824a9e62db81e8933'

@@ -5,3 +5,5 @@ id_nomics: MAYA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAYA.png
 logoKey: currencies/maya.png
 name: Maya Token
+platform: ETH
+platform_contract: '0x294caec1e7c1b674f409514af529af02e67cdb56'

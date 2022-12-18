@@ -5,3 +5,5 @@ id_nomics: CBSHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBSHIB.jpg
 logoKey: currencies/cbshib.jpg
 name: Cowboy Shiba
+platform: ETH
+platform_contract: '0xdb54e9735367300a358563ac3182cc28bdb565cc'

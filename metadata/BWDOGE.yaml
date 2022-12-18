@@ -5,3 +5,5 @@ id_nomics: BWDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BWDOGE.png
 logoKey: currencies/bwdoge.png
 name: BigWigDoge
+platform: BNB
+platform_contract: '0x29a2a262bb00a502009eadecc65d8ad75be3dece'

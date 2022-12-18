@@ -5,3 +5,5 @@ id_nomics: PIC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIC4.jpg
 logoKey: currencies/pic4.jpg
 name: Poodle Inu Coin
+platform: BNB
+platform_contract: '0x1f39d8723f9AeE35099fEA6a978B62F2e5C3DA06'

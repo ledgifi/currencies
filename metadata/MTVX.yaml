@@ -6,3 +6,5 @@ id_nomics: MTVX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTVX.jpg
 logoKey: currencies/mtvx.jpg
 name: MTVX
+platform: BNB
+platform_contract: '0xd10672a959ce3bb8939827391fe78762f518f740'

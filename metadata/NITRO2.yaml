@@ -5,3 +5,5 @@ id_nomics: NITRO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NITRO2.jpg
 logoKey: currencies/nitro2.jpg
 name: Nitro League
+platform: ETH
+platform_contract: '0x0335a7610d817aeca1bebbefbd392ecc2ed587b8'

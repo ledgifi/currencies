@@ -5,3 +5,5 @@ id_nomics: BULLDOG3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BULLDOG3.jpg
 logoKey: currencies/bulldog3.jpg
 name: BullDog Coin
+platform: BNB
+platform_contract: '0x645c86b54b6bac4e3a70085edde137732fb692e1'

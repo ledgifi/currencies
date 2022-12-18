@@ -5,3 +5,5 @@ id_nomics: SUCCOR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUCCOR.jpg
 logoKey: currencies/succor.jpg
 name: Succor Coin
+platform: BNB
+platform_contract: '0x8f27e7ba0a141cf15adcf6c135c4d694debd001d'

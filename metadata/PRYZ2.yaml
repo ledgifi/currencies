@@ -5,3 +5,5 @@ id_nomics: PRYZ2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRYZ2.jpg
 logoKey: currencies/pryz2.jpg
 name: Pryz
+platform: BNB
+platform_contract: '0x6130aaaffdd8f39dc8ec00c6af0681df0cbb2eef'

@@ -3,3 +3,5 @@ fiat: false
 id: MKEC
 id_nomics: MKEC
 name: mokcoin
+platform: BNB
+platform_contract: '0xfe4560a0ea439007a6fe254c3c948d3513d20e39'

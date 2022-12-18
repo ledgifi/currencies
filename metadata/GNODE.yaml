@@ -3,3 +3,5 @@ fiat: false
 id: GNODE
 id_nomics: GNODE
 name: GMX NODES
+platform: ARBETH
+platform_contract: '0x0715cad17a3ed8da75843133701dd3688cb80224'

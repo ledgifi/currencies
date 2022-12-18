@@ -6,3 +6,5 @@ id_nomics: TCW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCW.jpg
 logoKey: currencies/tcw.jpg
 name: TCW Token
+platform: BNB
+platform_contract: '0x2478d6c228c75eaf53c60707d0102f7bfe1ae379'

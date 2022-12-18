@@ -5,3 +5,5 @@ id_nomics: PRDX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRDX2.png
 logoKey: currencies/prdx2.png
 name: PRDX Token
+platform: ETH
+platform_contract: '0xE17900F23B7eBb2791F25f1eAa63d8F5E603e9a5'

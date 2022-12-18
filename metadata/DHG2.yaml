@@ -5,3 +5,5 @@ id_nomics: DHG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DHG2.jpg
 logoKey: currencies/dhg2.jpg
 name: Doom Hero Game
+platform: BNB
+platform_contract: '0xbba24300490443bb0e344bf6ec11bac3aa91df72'

@@ -6,3 +6,5 @@ id_nomics: POTTERINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POTTERINU.jpg
 logoKey: currencies/potterinu.jpg
 name: Potter Inu
+platform: ETH
+platform_contract: '0x10f9ea5180816d26e28d4e8e12278001b752c455'

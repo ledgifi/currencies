@@ -5,3 +5,5 @@ id_nomics: BITEBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITEBEP20.jpeg
 logoKey: currencies/bitebep20.jpeg
 name: DragonBite (BEP-20)
+platform: BNB
+platform_contract: '0xde69c05e8121ef0db29c3d9ceceda6ef6b606d0c'

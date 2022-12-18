@@ -5,3 +5,5 @@ id_nomics: DUT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUT3.png
 logoKey: currencies/dut3.png
 name: DUT
+platform: BNB
+platform_contract: '0xbccf768576eb4d28fe3dd21f9ebcf9784e4e092c'

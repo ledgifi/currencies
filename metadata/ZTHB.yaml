@@ -3,3 +3,5 @@ fiat: false
 id: ZTHB
 id_nomics: ZTHB
 name: ZeroToHeroBot
+platform: BNB
+platform_contract: '0x7dc9cbcc1de9e178dffdf2dc2458139515c076da'

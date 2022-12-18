@@ -5,3 +5,5 @@ id_nomics: IBEX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IBEX2.jpeg
 logoKey: currencies/ibex2.jpeg
 name: Impermax V2
+platform: MATIC
+platform_contract: '0xf972daced7c6b03223710c11413036d17eb298f6'

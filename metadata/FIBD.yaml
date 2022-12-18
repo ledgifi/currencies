@@ -3,3 +3,5 @@ fiat: false
 id: FIBD
 id_nomics: FIBD
 name: FIBDToken
+platform: BNB
+platform_contract: '0x78735bafd3bdf9949673cc59de0274bdb63a2c18'

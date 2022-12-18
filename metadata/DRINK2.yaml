@@ -5,3 +5,5 @@ id_nomics: DRINK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRINK2.jpg
 logoKey: currencies/drink2.jpg
 name: Beverage Token
+platform: ETH
+platform_contract: '0x9257fb8fab616867cee67c3289547403617b1938'

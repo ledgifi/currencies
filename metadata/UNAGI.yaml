@@ -6,3 +6,5 @@ id_nomics: UNAGI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNAGI.jpg
 logoKey: currencies/unagi.jpg
 name: Unagi Token
+platform: BNB
+platform_contract: '0x8f20eBD7Cdb3eFdb51D58D582a21e1A0b41F4436'

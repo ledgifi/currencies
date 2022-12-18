@@ -6,3 +6,5 @@ id_nomics: GUCCIV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GUCCIV2.jpg
 logoKey: currencies/gucciv2.jpg
 name: GuccinuV2
+platform: ETH
+platform_contract: '0x62c723d9debcfe4a39a3a05a4eefb67a740ef495'

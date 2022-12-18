@@ -5,3 +5,5 @@ id_nomics: DOGEFORK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEFORK.png
 logoKey: currencies/dogefork.png
 name: DOGEFORK
+platform: BNB
+platform_contract: '0x3c4c798cb27debd488bd84e3378e2037e7d0d591'

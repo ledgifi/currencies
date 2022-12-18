@@ -5,3 +5,5 @@ id_nomics: INTETH2
 logo: https://set-core.s3.amazonaws.com/img/social_trader_set_icons/the_intelligent_eth_set.png
 logoKey: currencies/inteth2.png
 name: Intelligent ETH Set II
+platform: ETH
+platform_contract: '0x89c0b027bd7cc2d17854b06f8322e29451192ce3'

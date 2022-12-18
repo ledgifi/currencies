@@ -5,3 +5,5 @@ id_nomics: NSHIB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NSHIB2.jpeg
 logoKey: currencies/nshib2.jpeg
 name: NyanShiba
+platform: BNB
+platform_contract: '0x727fb5aD48bBD8151Debf6951422F323c28b911E'

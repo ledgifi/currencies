@@ -5,3 +5,5 @@ id_nomics: RAIAVAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAIAVAX.png
 logoKey: currencies/raiavax.png
 name: Rai Reflex Index (Avalanche)
+platform: AVAX
+platform_contract: '0x97Cd1CFE2ed5712660bb6c14053C0EcB031Bff7d'

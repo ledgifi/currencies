@@ -5,3 +5,5 @@ id_nomics: SRDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SRDOGE.jpg
 logoKey: currencies/srdoge.jpg
 name: Senior Doge
+platform: BNB
+platform_contract: '0xb5b0628e1fd8BCfBb6901BA33ccEb590641e188e'

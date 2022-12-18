@@ -5,3 +5,5 @@ id_nomics: MSQD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSQD.jpeg
 logoKey: currencies/msqd.jpeg
 name: MetaSquad
+platform: BNB
+platform_contract: '0x26cd0b6345de98925ea8b06fe6e4d60e4c2b5b09'

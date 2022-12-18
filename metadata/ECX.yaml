@@ -5,3 +5,5 @@ id_nomics: ECX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECX.jpg
 logoKey: currencies/ecx.jpg
 name: ECX Token
+platform: ETH
+platform_contract: '0x9c8071c501c8226ab906a68d9ef9da6e0bd3a8ba'

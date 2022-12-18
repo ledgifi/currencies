@@ -5,3 +5,5 @@ id_nomics: MMMDOG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MMMDOG.jpg
 logoKey: currencies/mmmdog.jpg
 name: MMMDOGE
+platform: BNB
+platform_contract: '0x0a200cb87952171ed5b9787e4da4a938aed338ab'

@@ -3,3 +3,5 @@ fiat: false
 id: TINYP
 id_nomics: TINYP
 name: Tiny Predator
+platform: ETH
+platform_contract: '0x0eb78a591e1251ee36a731821bdcea079726887b'

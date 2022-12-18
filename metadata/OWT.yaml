@@ -5,3 +5,5 @@ id_nomics: OWT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OWT.jpg
 logoKey: currencies/owt.jpg
 name: OpenWeb Token
+platform: ETH
+platform_contract: '0xc2494604e9dcefa2a70dcebf81e6d7be064a334e'

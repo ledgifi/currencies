@@ -3,3 +3,5 @@ fiat: false
 id: WHALEUSD
 id_nomics: WHALEUSD
 name: Farming Whales Finance
+platform: AVAX
+platform_contract: '0x549cfd6261044202d7fc8787a3b31d05427b24c5'

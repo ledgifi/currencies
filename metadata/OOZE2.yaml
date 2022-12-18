@@ -5,3 +5,5 @@ id_nomics: OOZE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OOZE2.jpg
 logoKey: currencies/ooze2.jpg
 name: Ooze
+platform: FTM
+platform_contract: '0x60e6afeb3ac2fbc82a8d312bea3b47dc6b4848d2'

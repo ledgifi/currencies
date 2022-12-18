@@ -5,3 +5,5 @@ id_nomics: ZAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZAN.png
 logoKey: currencies/zan.png
 name: Rokhi
+platform: BNB
+platform_contract: '0x4e80722df492abf88f49b3231b6e19855509ba1c'

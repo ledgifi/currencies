@@ -3,3 +3,5 @@ fiat: false
 id: DGLD
 id_nomics: DGLD
 name: Doge Gold
+platform: ETH
+platform_contract: '0x6a55b1105497ce7939349f83cfe8b966845b1eb8'

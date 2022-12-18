@@ -5,3 +5,5 @@ id_nomics: USDTXDAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDTXDAI.png
 logoKey: currencies/usdtxdai.png
 name: Tether (xDai)
+platform: XDAI
+platform_contract: '0x4ecaba5870353805a9f068101a40e0f32ed605c6'

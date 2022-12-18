@@ -5,3 +5,5 @@ id_nomics: TALK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TALK2.jpg
 logoKey: currencies/talk2.jpg
 name: Talken
+platform: ETH
+platform_contract: '0xcaabcaa4ca42e1d86de1a201c818639def0ba7a7'

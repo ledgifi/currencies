@@ -5,3 +5,5 @@ id_nomics: ERZA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ERZA.jpg
 logoKey: currencies/erza.jpg
 name: Erza Inu
+platform: ETH
+platform_contract: '0x1de1ada368bb79cef4f1f23e492b76dcc36d2925'

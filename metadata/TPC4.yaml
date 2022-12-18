@@ -5,3 +5,5 @@ id_nomics: TPC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TPC4.jpg
 logoKey: currencies/tpc4.jpg
 name: TipCoin
+platform: MATIC
+platform_contract: '0x2d38864619981cdd317e5dd2d57ebf5ffeb669b7'

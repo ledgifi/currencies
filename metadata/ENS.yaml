@@ -8,3 +8,5 @@ id_nomics: ENS
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20211110/41e21941-ce24-460f-a6bc-ef9beb66e711.png
 logoKey: currencies/ens.png
 name: Ethereum Name Service
+platform: ETH
+platform_contract: '0xc18360217d8f7ab5e7c516566761ea12ce7f9d72'

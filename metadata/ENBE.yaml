@@ -3,3 +3,5 @@ fiat: false
 id: ENBE
 id_nomics: ENBE
 name: Encubate
+platform: ETH
+platform_contract: '0x70071514015d9a52d979789c629d77566b838d8a'

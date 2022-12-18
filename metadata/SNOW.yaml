@@ -6,3 +6,5 @@ id_nomics: SNOW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNOW.png
 logoKey: currencies/snow.png
 name: SnowBlossom
+platform: MATIC
+platform_contract: '0xe0f463832295adf63eb6ca053413a3f9cd8bf685'

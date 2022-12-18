@@ -3,3 +3,5 @@ fiat: false
 id: DBOX
 id_nomics: DBOX
 name: Donation Box
+platform: MOVR
+platform_contract: '0xf21b8d52d4cb44a7e35349daa7cd1ccc8b54b23b'

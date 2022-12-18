@@ -3,3 +3,5 @@ fiat: false
 id: CWT4
 id_nomics: CWT4
 name: CoinW Token
+platform: ETH
+platform_contract: '0x901ea3606d567f9f1e964639d5cbb8659080be8a'

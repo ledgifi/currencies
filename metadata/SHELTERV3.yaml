@@ -5,3 +5,5 @@ id_nomics: SHELTERV3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHELTERV3.png
 logoKey: currencies/shelterv3.png
 name: SHELTERv3
+platform: BNB
+platform_contract: '0xd8B329D00aCb2D11e45bAC7C406230497A65105c'

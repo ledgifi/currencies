@@ -3,3 +3,5 @@ fiat: false
 id: TALOS
 id_nomics: TALOS
 name: Talos
+platform: BNB
+platform_contract: '0x4d2f1a757622370431b8f4f8da52d1a2ba0efab1'

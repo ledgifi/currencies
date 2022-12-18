@@ -3,3 +3,5 @@ fiat: false
 id: DRONES
 id_nomics: DRONES
 name: $DRONES
+platform: AVAX
+platform_contract: '0x46f9a372ba7cf62331064f3ab58cb19c1e40cecf'

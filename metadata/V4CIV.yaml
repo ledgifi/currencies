@@ -5,3 +5,5 @@ id_nomics: V4CIV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/V4CIV.png
 logoKey: currencies/v4civ.png
 name: V4CIV Token
+platform: BNB
+platform_contract: '0xd02b4e3c414ba6b9d00ddacdf25995d03c6fd1f9'

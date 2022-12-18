@@ -5,3 +5,5 @@ id_nomics: INFI3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INFI3.jpg
 logoKey: currencies/infi3.jpg
 name: Infinity Labs
+platform: BNB
+platform_contract: '0x5d2eae2d9acd865f8eca24dcbca458239c5a81da'

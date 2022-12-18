@@ -5,3 +5,5 @@ id_nomics: WWSHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WWSHIB.jpg
 logoKey: currencies/wwshib.jpg
 name: Wrapped WWSHIB
+platform: WSHIB2
+platform_contract: '0x94d0dca5eae9a6987f15ce91f14154e5b0fdd82f'

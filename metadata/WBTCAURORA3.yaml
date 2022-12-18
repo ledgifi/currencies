@@ -5,3 +5,5 @@ id_nomics: WBTCAURORA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WBTCAURORA3.png
 logoKey: currencies/wbtcaurora3.png
 name: Wrapped BTC (Aurora)
+platform: AURORA3
+platform_contract: '0xf4eb217ba2454613b15dbdea6e5f22276410e89e'

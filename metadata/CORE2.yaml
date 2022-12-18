@@ -5,3 +5,5 @@ id_nomics: CORE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CORE2.png
 logoKey: currencies/core2.png
 name: cVault.finance
+platform: ETH
+platform_contract: '0x62359ed7505efc61ff1d56fef82158ccaffa23d7'

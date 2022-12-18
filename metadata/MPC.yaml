@@ -5,3 +5,5 @@ id_nomics: MPC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MPC.png
 logoKey: currencies/mpc.png
 name: MPCoin
+platform: ETH
+platform_contract: '0xf318aa4f8a29ba712d61a0356f96183e69519a60'

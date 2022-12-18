@@ -5,3 +5,5 @@ id_nomics: DHT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DHT.jpg
 logoKey: currencies/dht.jpg
 name: Deep Health Chain
+platform: ETH
+platform_contract: '0xcc771a11d368a76e6fa34b3aab8227297f48fe41'

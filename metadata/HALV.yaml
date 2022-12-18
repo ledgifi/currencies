@@ -6,3 +6,5 @@ id_nomics: HALV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HALV.png
 logoKey: currencies/halv.png
 name: Halving Coin
+platform: ETH
+platform_contract: '0x245b78f9957f0dc435d1c093c64d2defe78577b2'

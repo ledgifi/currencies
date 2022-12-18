@@ -5,3 +5,5 @@ id_nomics: SQUIDD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SQUIDD.jpg
 logoKey: currencies/squidd.jpg
 name: Squid DAO
+platform: BNB
+platform_contract: '0xe2E8777ee81E559bA8a32cDf7B533e55BA99141A'

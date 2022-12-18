@@ -6,3 +6,5 @@ id_nomics: HYMETEOR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HYMETEOR.jpg
 logoKey: currencies/hymeteor.jpg
 name: HyperMeteor
+platform: BNB
+platform_contract: '0x1fe38769ed41fe7f47270c78d2f0507b508d06f0'

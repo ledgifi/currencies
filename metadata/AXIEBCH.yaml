@@ -3,3 +3,5 @@ fiat: false
 id: AXIEBCH
 id_nomics: AXIEBCH
 name: AxieBCH
+platform: SMARTBCH
+platform_contract: '0x3d13dafcca3a188db340c81414239bc2be312ec9'

@@ -5,3 +5,5 @@ id_nomics: ATVICX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATVICX.jpg
 logoKey: currencies/atvicx.jpg
 name: Activision Blizzard, Inc. Token
+platform: ETH
+platform_contract: '0x02ad2f3c1f761db2374626abd8c59ed4e710a13c'

@@ -6,3 +6,5 @@ id_nomics: HBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HBTC.png
 logoKey: currencies/hbtc.png
 name: Huobi BTC
+platform: ETH
+platform_contract: '0x0316eb71485b0ab14103307bf65a021042c6d380'

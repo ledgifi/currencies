@@ -3,3 +3,5 @@ fiat: false
 id: SHIBGATE
 id_nomics: SHIBGATE
 name: Shib Gate
+platform: ETH
+platform_contract: '0xf843d3fa0022f3f42daac16414c4f1d17eb1a08c'

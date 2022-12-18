@@ -5,3 +5,5 @@ id_nomics: LOLGROW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOLGROW.png
 logoKey: currencies/lolgrow.png
 name: LOLGROW
+platform: BNB
+platform_contract: '0x1B330701c1B95493d41850BeE647e96b45356322'

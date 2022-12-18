@@ -5,3 +5,5 @@ id_nomics: PMOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PMOT.jpg
 logoKey: currencies/pmot.jpg
 name: Purple Monster Token
+platform: BNB
+platform_contract: '0xc46889ec6d0deaffbff6545621f82a3e6e0d73a5'

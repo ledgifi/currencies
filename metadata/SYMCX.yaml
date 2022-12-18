@@ -5,3 +5,5 @@ id_nomics: SYMCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SYMCX.jpg
 logoKey: currencies/symcx.jpg
 name: Symantec Corporation Token
+platform: ETH
+platform_contract: '0x3d6826939286211d1e0e20351f669c642ff64d47'

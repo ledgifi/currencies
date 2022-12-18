@@ -5,3 +5,5 @@ id_nomics: CODE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CODE2.jpg
 logoKey: currencies/code2.jpg
 name: CODE
+platform: ETH
+platform_contract: '0xb24cd494fae4c180a89975f1328eab2a7d5d8f11'

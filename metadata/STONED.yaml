@@ -3,3 +3,5 @@ fiat: false
 id: STONED
 id_nomics: STONED
 name: Stoned Shiba
+platform: BNB
+platform_contract: '0x8feb2557f66a55ea261c2dfce1c3029e27067131'

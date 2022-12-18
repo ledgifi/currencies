@@ -5,3 +5,5 @@ id_nomics: BUSD4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUSD4.png
 logoKey: currencies/busd4.png
 name: Bitcoin US Dollar
+platform: BNB
+platform_contract: '0x0f7a6BD05E8Bc8B6a4282E703B9A7cC30642Ce0A'

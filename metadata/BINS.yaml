@@ -5,3 +5,5 @@ id_nomics: BINS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BINS.png
 logoKey: currencies/bins.png
 name: Bitsense
+platform: ETH
+platform_contract: '0x1c9db47ee8abad20d28f9bbe2363ca0c8c9ab9b8'

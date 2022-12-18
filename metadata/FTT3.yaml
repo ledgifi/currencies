@@ -3,3 +3,5 @@ fiat: false
 id: FTT3
 id_nomics: FTT3
 name: Facter
+platform: KLAY
+platform_contract: '0x43fe6068a04392f8f0e2cd9d0785da8ef22e5869'

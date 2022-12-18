@@ -3,3 +3,5 @@ fiat: false
 id: MONES
 id_nomics: MONES
 name: Mones
+platform: BNB
+platform_contract: '0xac3050c7cc3bd83fd5b53fb94c0be385b1ca6d15'

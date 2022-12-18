@@ -5,3 +5,5 @@ id_nomics: APAMCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APAMCX.jpg
 logoKey: currencies/apamcx.jpg
 name: Artisan Partners Asset Management Inc. Token
+platform: ETH
+platform_contract: '0xd409a4e5d7d1e8596353f307244f45c2b2719e99'

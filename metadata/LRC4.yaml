@@ -5,3 +5,5 @@ id_nomics: LRC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LRC4.png
 logoKey: currencies/lrc4.png
 name: Laro
+platform: ETH
+platform_contract: '0xbbcd3e4eb43aa7f3f57286da31333d53b24d0d6a'

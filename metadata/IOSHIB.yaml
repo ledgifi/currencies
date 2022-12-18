@@ -5,3 +5,5 @@ id_nomics: IOSHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IOSHIB.jpg
 logoKey: currencies/ioshib.jpg
 name: IoTexShiba
+platform: IOTX
+platform_contract: '0x3ea683354bf8d359cd9ec6e08b5aec291d71d880'

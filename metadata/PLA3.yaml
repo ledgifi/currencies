@@ -5,3 +5,5 @@ id_nomics: PLA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLA3.jpg
 logoKey: currencies/pla3.jpg
 name: PlayDapp
+platform: ETH
+platform_contract: '0x3a4f40631a4f906c2bad353ed06de7a5d3fcb430'

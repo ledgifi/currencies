@@ -5,3 +5,5 @@ id_nomics: TOTO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOTO3.png
 logoKey: currencies/toto3.png
 name: The Black Doge
+platform: ETH
+platform_contract: '0x10beb5bd8cc8abf97d60b037ed95c9d8fdd52aa6'

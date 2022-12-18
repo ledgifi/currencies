@@ -5,3 +5,5 @@ id_nomics: BABYCRO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYCRO2.jpg
 logoKey: currencies/babycro2.jpg
 name: BabyCRO
+platform: CRO
+platform_contract: '0x1Ed09BA5Ac1481A94ec0a60821b376e9522B94ae'

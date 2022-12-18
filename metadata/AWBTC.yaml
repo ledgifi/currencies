@@ -5,3 +5,5 @@ id_nomics: AWBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AWBTC.jpg
 logoKey: currencies/awbtc.jpg
 name: Aave WBTC
+platform: ETH
+platform_contract: '0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656'

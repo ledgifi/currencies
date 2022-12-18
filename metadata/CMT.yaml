@@ -8,3 +8,5 @@ id_nomics: CMT
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/cmt.svg
 logoKey: currencies/cmt.svg
 name: CyberMiles
+platform: ETH
+platform_contract: '0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f'

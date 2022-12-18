@@ -3,3 +3,5 @@ fiat: false
 id: ARTHUSD
 id_nomics: ARTHUSD
 name: ARTH USD Rebase
+platform: ETH
+platform_contract: '0x973f054edbecd287209c36a2651094fa52f99a71'

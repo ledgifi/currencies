@@ -5,3 +5,5 @@ id_nomics: SKYPORTAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SKYPORTAL.jpeg
 logoKey: currencies/skyportal.jpeg
 name: Sky Portal
+platform: CELO
+platform_contract: '0x18414Ce6dAece0365f935F3e78A7C1993e77d8Cd'

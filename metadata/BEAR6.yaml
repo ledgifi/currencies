@@ -5,3 +5,5 @@ id_nomics: BEAR6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEAR6.png
 logoKey: currencies/bear6.png
 name: Bearcoin
+platform: BNB
+platform_contract: '0x78073bb050430247191e0e7f2f6199e86d58d6ec'

@@ -3,3 +3,5 @@ fiat: false
 id: FUTCOIN
 id_nomics: FUTCOIN
 name: Futbuttoncoin
+platform: BNB
+platform_contract: '0xeb59716a6f473f4dea6226cc84ce708864f71950'

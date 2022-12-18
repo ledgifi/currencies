@@ -5,3 +5,5 @@ id_nomics: PETB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PETB.png
 logoKey: currencies/petb.png
 name: Petbound
+platform: BNB
+platform_contract: '0x87affff6ff1ac9761360d559ede3e7a1b04d57de'

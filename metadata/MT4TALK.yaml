@@ -3,3 +3,5 @@ fiat: false
 id: MT4TALK
 id_nomics: MT4TALK
 name: MT4talk.com token
+platform: ETH
+platform_contract: '0xd81095451e0f2ac5a1cdb674151e3e77d90c2fba'

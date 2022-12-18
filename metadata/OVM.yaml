@@ -3,3 +3,5 @@ fiat: false
 id: OVM
 id_nomics: OVM
 name: OverMoon
+platform: BNB
+platform_contract: '0x67382a3364b97e09f727afb388fe817de18f7a18'

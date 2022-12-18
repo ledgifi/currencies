@@ -5,3 +5,5 @@ id_nomics: BSPKY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSPKY.jpg
 logoKey: currencies/bspky.jpg
 name: Baby Spooky Floki
+platform: BNB
+platform_contract: '0x96B887DBA8B45ce33453881eA70A1B2cB9295C85'

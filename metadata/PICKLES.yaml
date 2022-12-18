@@ -5,3 +5,5 @@ id_nomics: PICKLES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PICKLES.png
 logoKey: currencies/pickles.png
 name: Pickle Rick Inu
+platform: BNB
+platform_contract: '0x602b1791a4aae3386a0bf1cb97457171ac17b579'

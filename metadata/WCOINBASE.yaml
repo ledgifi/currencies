@@ -5,3 +5,5 @@ id_nomics: WCOINBASE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WCOINBASE.jpg
 logoKey: currencies/wcoinbase.jpg
 name: DEUS Synthetic Coinbase
+platform: ETH
+platform_contract: '0x4185cf99745b2a20727b37ee798193dd4a56cdfa'

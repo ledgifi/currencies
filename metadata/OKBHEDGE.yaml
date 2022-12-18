@@ -3,3 +3,5 @@ fiat: false
 id: OKBHEDGE
 id_nomics: OKBHEDGE
 name: 1X Short OKB Token
+platform: ETH
+platform_contract: '0x889bc62e94bb6902d022bb82b38f7fcd637df28c'

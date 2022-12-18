@@ -3,3 +3,5 @@ fiat: false
 id: IMAU
 id_nomics: IMAU
 name: IMAU Token
+platform: BNB
+platform_contract: '0x2f8cca040aaf2de7e8b0e0fa34473792113a3a90'

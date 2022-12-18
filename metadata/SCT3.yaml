@@ -3,3 +3,5 @@ fiat: false
 id: SCT3
 id_nomics: SCT3
 name: Shopcoin Token
+platform: BNB
+platform_contract: '0x03ff2078fd333687a034c019b078c8d546a60bfb'

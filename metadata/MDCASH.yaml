@@ -3,3 +3,5 @@ fiat: false
 id: MDCASH
 id_nomics: MDCASH
 name: Mini Doge Cash
+platform: BNB
+platform_contract: '0x1e8116625ad5c4843d08fa69854d19f124cd0ec3'

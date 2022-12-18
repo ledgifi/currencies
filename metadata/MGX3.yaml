@@ -5,3 +5,5 @@ id_nomics: MGX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MGX3.png
 logoKey: currencies/mgx3.png
 name: MetaGalaxy
+platform: BNB
+platform_contract: '0x682c9950246439a1d93b51f7674739ace80aafb3'

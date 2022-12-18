@@ -5,3 +5,5 @@ id_nomics: SDSTOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SDSTOKEN.png
 logoKey: currencies/sdstoken.png
 name: SDS Token
+platform: ETH
+platform_contract: '0xba44ffab97960f15c09913d844ced99096debde8'

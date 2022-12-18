@@ -5,3 +5,5 @@ id_nomics: USDSERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDSERC20.png
 logoKey: currencies/usdserc20.png
 name: Spice USD (ERC-20)
+platform: ETH
+platform_contract: '0x45fdb1b92a649fb6a64ef1511d3ba5bf60044838'

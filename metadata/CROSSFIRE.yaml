@@ -6,3 +6,5 @@ id_nomics: CROSSFIRE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CROSSFIRE.jpeg
 logoKey: currencies/crossfire.jpeg
 name: Crossfire
+platform: CRO
+platform_contract: '0x7130BeBD07c541C237De99B719dBcfDdB35be726'

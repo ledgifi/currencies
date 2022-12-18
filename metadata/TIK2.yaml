@@ -5,3 +5,5 @@ id_nomics: TIK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIK2.jpg
 logoKey: currencies/tik2.jpg
 name: ChronoBase
+platform: ETH
+platform_contract: '0x0922f1d808adc3a4444bed2f73fac53a1a2a5859'

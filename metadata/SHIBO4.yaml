@@ -5,3 +5,5 @@ id_nomics: SHIBO4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBO4.jpeg
 logoKey: currencies/shibo4.jpeg
 name: Shibonk
+platform: BNB
+platform_contract: '0xf224ade71c20f9823e34e0792f72437596b4e28c'

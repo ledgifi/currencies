@@ -3,3 +3,5 @@ fiat: false
 id: MISTY
 id_nomics: MISTY
 name: Misty Coin
+platform: ETH
+platform_contract: '0x3be73ba236e190030c88e7cd011cb2b536aa2836'

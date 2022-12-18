@@ -5,3 +5,5 @@ id_nomics: SLIME
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLIME.jpg
 logoKey: currencies/slime.jpg
 name: Slime V2
+platform: BNB
+platform_contract: '0x23b06097f8fe2dd9d3df094d3ee8319daa8756c1'

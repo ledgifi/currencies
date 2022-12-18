@@ -3,3 +3,5 @@ fiat: false
 id: SHIBGAS
 id_nomics: SHIBGAS
 name: ShibGas
+platform: BNB
+platform_contract: '0x4af0f142c2f37aac63f3678b161c1772cde8547a'

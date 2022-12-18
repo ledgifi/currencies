@@ -3,3 +3,5 @@ fiat: false
 id: ELIRA
 id_nomics: ELIRA
 name: eLira
+platform: ETH
+platform_contract: '0xcc98db8557249777a1566a577dca42ac4b893e44'

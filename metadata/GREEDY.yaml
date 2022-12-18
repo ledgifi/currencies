@@ -3,3 +3,5 @@ fiat: false
 id: GREEDY
 id_nomics: GREEDY
 name: Greedy
+platform: ETH
+platform_contract: '0x1302a1b83d10ebca70f9f6d4ff7cb5e2e46ea9cf'

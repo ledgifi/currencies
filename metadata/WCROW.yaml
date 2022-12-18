@@ -3,3 +3,5 @@ fiat: false
 id: WCROW
 id_nomics: WCROW
 name: Wrapped CRO CROW
+platform: CRO
+platform_contract: '0x3e1038fa9f6792951ac5a94e8051f51dec2a0f46'

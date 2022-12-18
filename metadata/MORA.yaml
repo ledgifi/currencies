@@ -6,3 +6,5 @@ id_nomics: MORA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MORA.png
 logoKey: currencies/mora.png
 name: Meliora
+platform: ETH
+platform_contract: '0xb64cd4f56043f8d80691433e395d08b1bebdadf0'

@@ -6,3 +6,5 @@ id_nomics: MINX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINX.jpg
 logoKey: currencies/minx.jpg
 name: InnovaMinex
+platform: ETH
+platform_contract: '0xae353daeed8dcc7a9a12027f7e070c0a50b7b6a4'

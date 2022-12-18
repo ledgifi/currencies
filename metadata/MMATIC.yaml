@@ -5,3 +5,5 @@ id_nomics: MMATIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MMATIC.jpg
 logoKey: currencies/mmatic.jpg
 name: Math-e-MATIC
+platform: BNB
+platform_contract: '0xaf153315b46050c1aa69fe1e611dd82eb4cb17b0'

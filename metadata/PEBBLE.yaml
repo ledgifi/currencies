@@ -5,3 +5,5 @@ id_nomics: PEBBLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEBBLE.jpg
 logoKey: currencies/pebble.jpg
 name: 'Etherrock #72'
+platform: ETH
+platform_contract: '0xdc98c5543f3004debfaad8966ec403093d0aa4a8'

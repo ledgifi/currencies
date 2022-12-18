@@ -3,3 +3,5 @@ fiat: false
 id: CARES
 id_nomics: CARES
 name: CareCoin
+platform: BNB
+platform_contract: '0x6b79d658baa3b5c7fa7dc5ccc61e09b6c725842c'

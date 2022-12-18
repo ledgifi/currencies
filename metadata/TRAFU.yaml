@@ -3,3 +3,5 @@ fiat: false
 id: TRAFU
 id_nomics: TRAFU
 name: TRADING FUND
+platform: ETH
+platform_contract: '0x9f7c3dc1e151cd5c62263902ff5c49653989fd2c'

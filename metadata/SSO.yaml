@@ -5,3 +5,5 @@ id_nomics: SSO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SSO.png
 logoKey: currencies/sso.png
 name: Supra Dollar Share
+platform: BNB
+platform_contract: '0x8408a35cd56534b06dfc085551f072a28212f364'

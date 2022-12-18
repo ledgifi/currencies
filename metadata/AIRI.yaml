@@ -6,3 +6,5 @@ id_nomics: AIRI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AIRI.jpg
 logoKey: currencies/airi.jpg
 name: aiRight
+platform: BNB
+platform_contract: '0x7e2a35c746f2f7c240b664f1da4dd100141ae71f'

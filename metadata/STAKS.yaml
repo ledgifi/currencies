@@ -3,3 +3,5 @@ fiat: false
 id: STAKS
 id_nomics: STAKS
 name: StaksCoin
+platform: ETH
+platform_contract: '0x05951aa67c357f5d45ccdeba10db0acdedacd0ba'

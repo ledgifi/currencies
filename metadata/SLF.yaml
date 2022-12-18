@@ -6,3 +6,5 @@ id_nomics: SLF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLF.jpg
 logoKey: currencies/slf.jpg
 name: Solarfare
+platform: BNB
+platform_contract: '0x32089eaffaf278c82cda2c8d37e7b6b6fabbaaf2'

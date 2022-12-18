@@ -6,3 +6,5 @@ id_nomics: LZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LZ.jpg
 logoKey: currencies/lz.jpg
 name: LaunchZone
+platform: BNB
+platform_contract: '0x3b78458981eb7260d1f781cb8be2caac7027dbe2'

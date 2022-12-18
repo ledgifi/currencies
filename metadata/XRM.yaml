@@ -6,3 +6,5 @@ id_nomics: XRM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XRM.jpeg
 logoKey: currencies/xrm.jpeg
 name: AERUM
+platform: ETH
+platform_contract: '0xa249f0e9a464b9685f66992f41e1012388e39e81'

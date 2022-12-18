@@ -5,3 +5,5 @@ id_nomics: POW8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POW8.png
 logoKey: currencies/pow8.png
 name: Powswap
+platform: ETHW2
+platform_contract: '0x02Cc78362D8124A17d3F884Dbd7476c4ec534Cdb'

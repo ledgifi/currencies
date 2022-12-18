@@ -3,3 +3,5 @@ fiat: false
 id: LNYM
 id_nomics: LNYM
 name: LiquidNYM
+platform: BNB
+platform_contract: '0x05361b6794c11985aa7011d213700893b5298d2f'

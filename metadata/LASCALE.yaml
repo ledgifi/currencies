@@ -5,3 +5,5 @@ id_nomics: LASCALE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LASCALE.png
 logoKey: currencies/lascale.png
 name: LargeScale
+platform: BNB
+platform_contract: '0x819bafc1e08e2adfcf0c04d4c3febd577ba0a5bb'

@@ -5,3 +5,5 @@ id_nomics: SHAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHAKE.png
 logoKey: currencies/shake.png
 name: Spaceswap SHAKE (ERC-20)
+platform: ETH
+platform_contract: '0x6006fc2a849fedaba8330ce36f5133de01f96189'

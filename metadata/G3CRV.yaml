@@ -3,3 +3,5 @@ fiat: false
 id: G3CRV
 id_nomics: G3CRV
 name: Curve.fi gDAI/gUSDC/gUSDT
+platform: FTM
+platform_contract: '0xd02a30d33153877bc20e5721ee53dedee0422b2f'

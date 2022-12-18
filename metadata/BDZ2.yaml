@@ -5,3 +5,5 @@ id_nomics: BDZ2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BDZ2.png
 logoKey: currencies/bdz2.png
 name: BabyDogeZillah
+platform: BNB
+platform_contract: '0x0ec18dda84503cbd8cd91347568309357a5b4661'

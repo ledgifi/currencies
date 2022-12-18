@@ -5,3 +5,5 @@ id_nomics: TOYDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOYDOGE.jpg
 logoKey: currencies/toydoge.jpg
 name: Toy Doge Coin
+platform: BNB
+platform_contract: '0x6205ebd05de85430b7b54e662d2dcb3ba53b12b6'

@@ -6,3 +6,5 @@ id_nomics: SODA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SODA.jpg
 logoKey: currencies/soda.jpg
 name: Soda Token
+platform: ETH
+platform_contract: '0x7afb39837fd244a651e4f0c5660b4037214d4adf'

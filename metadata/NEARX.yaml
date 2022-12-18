@@ -4,3 +4,5 @@ id: NEARX
 id_nomics: NEARX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEARX.png
 name: NearX
+platform: NEAR
+platform_contract: v2-nearx.stader-labs.near

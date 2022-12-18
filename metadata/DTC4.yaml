@@ -5,3 +5,5 @@ id_nomics: DTC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DTC4.jpeg
 logoKey: currencies/dtc4.jpeg
 name: Detective
+platform: BNB
+platform_contract: '0x9ddb4cf96446840e9648038b4cd04aefa8a7364e'

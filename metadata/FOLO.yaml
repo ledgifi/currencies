@@ -5,3 +5,5 @@ id_nomics: FOLO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOLO.jpg
 logoKey: currencies/folo.jpg
 name: Follow Token
+platform: ETH
+platform_contract: '0xb2a63a5dd36c91ec2da59b188ff047f66fac122a'

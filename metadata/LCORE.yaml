@@ -3,3 +3,5 @@ fiat: false
 id: LCORE
 id_nomics: LCORE
 name: Liquid Core
+platform: ETH
+platform_contract: '0xc6b660bc26a7e780d272f5e971cbebb57a11cb76'

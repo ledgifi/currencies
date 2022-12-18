@@ -5,3 +5,5 @@ id_nomics: GENESIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GENESIS.jpg
 logoKey: currencies/genesis.jpg
 name: Genesis Worlds
+platform: MATIC
+platform_contract: '0x51869836681bce74a514625c856afb697a013797'

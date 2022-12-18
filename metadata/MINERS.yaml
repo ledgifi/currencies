@@ -6,3 +6,5 @@ id_nomics: MINERS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINERS.jpg
 logoKey: currencies/miners.jpg
 name: MinersDefi
+platform: BNB
+platform_contract: '0xeb6b00f8c7e1da78fb919c810c30dde95475bdde'

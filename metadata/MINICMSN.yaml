@@ -3,3 +3,5 @@ fiat: false
 id: MINICMSN
 id_nomics: MINICMSN
 name: MiniCommission
+platform: ETH
+platform_contract: '0xe4a4468dd6f20b8bdff1549640075a2cd308e861'

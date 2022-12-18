@@ -6,3 +6,5 @@ id_nomics: USDFL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDFL.png
 logoKey: currencies/usdfl.png
 name: USDFreeLiquidity
+platform: ETH
+platform_contract: '0x2b4200a8d373d484993c37d63ee14aee0096cd12'

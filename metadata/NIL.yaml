@@ -5,3 +5,5 @@ id_nomics: NIL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NIL.jpg
 logoKey: currencies/nil.jpg
 name: Nahmii
+platform: ETH
+platform_contract: '0xac4f2f204b38390b92d0540908447d5ed352799a'

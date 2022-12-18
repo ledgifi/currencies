@@ -5,3 +5,5 @@ id_nomics: FLC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLC.png
 logoKey: currencies/flc.png
 name: FlowChainCoin
+platform: ETH
+platform_contract: '0x32c4adb9cf57f972bc375129de91c897b4f364f1'

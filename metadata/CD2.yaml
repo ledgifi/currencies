@@ -5,3 +5,5 @@ id_nomics: CD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CD2.png
 logoKey: currencies/cd2.png
 name: Clifford Doge
+platform: BNB
+platform_contract: '0xeebf4413ed78f6851363d8acbad471f8c49ab307'

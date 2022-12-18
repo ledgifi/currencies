@@ -5,3 +5,5 @@ id_nomics: PEN5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEN5.jpg
 logoKey: currencies/pen5.jpg
 name: Pecora
+platform: BNB
+platform_contract: '0x3a6b593fb353fd5a3bb68ea120f3ba4f78637c30'

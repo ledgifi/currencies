@@ -5,3 +5,5 @@ id_nomics: WOLF3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOLF3.jpg
 logoKey: currencies/wolf3.jpg
 name: moonwolf.io
+platform: MATIC
+platform_contract: '0x8f18dc399594b451eda8c5da02d0563c0b2d0f16'

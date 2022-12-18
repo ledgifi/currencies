@@ -5,3 +5,5 @@ id_nomics: DEFY3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEFY3.jpg
 logoKey: currencies/defy3.jpg
 name: Defy
+platform: ETH
+platform_contract: '0x205ed31c867bf715e4182137af95afe9177cd8e7'

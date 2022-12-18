@@ -3,3 +3,5 @@ fiat: false
 id: ZMC
 id_nomics: ZMC
 name: ZMCOIN
+platform: HT
+platform_contract: '0xbf920a1f645e0895df75fadc3fe10bd79f45c884'

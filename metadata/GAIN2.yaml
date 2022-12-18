@@ -3,3 +3,5 @@ fiat: false
 id: GAIN2
 id_nomics: GAIN2
 name: SafeGAIN
+platform: BNB
+platform_contract: '0x9360a7fd1885e943b0677326a04fc6f088ebb8ec'

@@ -5,3 +5,5 @@ id_nomics: OWL5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OWL5.png
 logoKey: currencies/owl5.png
 name: OWL
+platform: MOVR
+platform_contract: '0x5c2da48241d3be9626dd0c48081c76dbb6d1046e'

@@ -3,3 +3,5 @@ fiat: false
 id: SAHARA
 id_nomics: SAHARA
 name: The Great Desert
+platform: ETH
+platform_contract: '0x85d33bea6b1f253230784c5b9ec763824738838f'

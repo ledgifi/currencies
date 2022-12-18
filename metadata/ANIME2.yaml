@@ -5,3 +5,5 @@ id_nomics: ANIME2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANIME2.jpg
 logoKey: currencies/anime2.jpg
 name: ANIME Vault (NFTX)
+platform: ETH
+platform_contract: '0x3a63cce6952985f58bbd10c4791b6ff1ba93fffc'

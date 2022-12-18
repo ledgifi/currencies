@@ -8,3 +8,5 @@ id_nomics: COMP
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/comp.svg
 logoKey: currencies/comp.svg
 name: Compound
+platform: ETH
+platform_contract: '0xc00e94cb662c3520282e6f5717214004a7f26888'

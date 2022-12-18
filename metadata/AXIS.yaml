@@ -6,3 +6,5 @@ id_nomics: AXIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AXIS.jpg
 logoKey: currencies/axis.jpg
 name: Axis DeFi
+platform: ETH
+platform_contract: '0xecc0f1f860a82ab3b442382d93853c02d6384389'

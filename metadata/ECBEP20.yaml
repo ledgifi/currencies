@@ -5,3 +5,5 @@ id_nomics: ECBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECBEP20.jpg
 logoKey: currencies/ecbep20.jpg
 name: Eternal Cash (BEP-20)
+platform: BNB
+platform_contract: '0x400df62c3052fdbaad8c74c0226147f9bfaaf7ec'

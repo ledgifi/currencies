@@ -5,3 +5,5 @@ id_nomics: BCFX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCFX.jpg
 logoKey: currencies/bcfx.jpg
 name: BSC Conflux
+platform: BNB
+platform_contract: '0x045c4324039da91c52c55df5d785385aab073dcf'

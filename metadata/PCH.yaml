@@ -6,3 +6,5 @@ id_nomics: PCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PCH.png
 logoKey: currencies/pch.png
 name: POPCHAIN
+platform: ETH
+platform_contract: '0xe3f4b4a5d91e5cb9435b947f090a319737036312'

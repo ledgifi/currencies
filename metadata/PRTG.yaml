@@ -5,3 +5,5 @@ id_nomics: PRTG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRTG.png
 logoKey: currencies/prtg.png
 name: Pre-Retogeum
+platform: ETH
+platform_contract: '0xbd04ccc050058a6a422851fa6c0f92bb65eb06ca'

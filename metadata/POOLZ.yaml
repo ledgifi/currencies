@@ -6,3 +6,5 @@ id_nomics: POOLZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POOLZ.png
 logoKey: currencies/poolz.png
 name: Poolz Finance
+platform: ETH
+platform_contract: '0x69a95185ee2a045cdc4bcd1b1df10710395e4e23'

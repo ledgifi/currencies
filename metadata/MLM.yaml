@@ -6,3 +6,5 @@ id_nomics: MLM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MLM.0
 logoKey: currencies/mlm.0
 name: MktCoin
+platform: BNB
+platform_contract: '0xe83ccc6ff1477745459e940234d88281e0a6486a'

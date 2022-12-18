@@ -6,3 +6,5 @@ id_nomics: QUARTZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QUARTZ.jpg
 logoKey: currencies/quartz.jpg
 name: Sandclock
+platform: ETH
+platform_contract: '0xba8a621b4a54e61c442f5ec623687e2a942225ef'

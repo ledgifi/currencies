@@ -3,3 +3,5 @@ fiat: false
 id: TAXCROC
 id_nomics: TAXCROC
 name: Tax CROllector
+platform: CRO
+platform_contract: '0xda21e95ac6e63a729bfa112aa9768537460cd87f'

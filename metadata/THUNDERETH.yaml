@@ -6,3 +6,5 @@ id_nomics: THUNDERETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THUNDERETH.jpg
 logoKey: currencies/thundereth.jpg
 name: ThunderETH
+platform: BNB
+platform_contract: '0x73c499099bfc964d3cbcd7425026b074869748ce'

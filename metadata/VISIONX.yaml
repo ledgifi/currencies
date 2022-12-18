@@ -5,3 +5,5 @@ id_nomics: VISIONX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VISIONX.png
 logoKey: currencies/visionx.png
 name: VisionX
+platform: ETH
+platform_contract: '0x1563d521ba309e2ad9f4affd6f4de9759e8d4f21'

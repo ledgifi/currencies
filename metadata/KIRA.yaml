@@ -3,3 +3,5 @@ fiat: false
 id: KIRA
 id_nomics: KIRA
 name: kira.network
+platform: ETH
+platform_contract: '0x3f8299ddd34ec15b21a233e1bf096d2ab4d9b2ab'

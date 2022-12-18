@@ -5,3 +5,5 @@ id_nomics: UNS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNS.jpg
 logoKey: currencies/uns.jpg
 name: Union National Services
+platform: BNB
+platform_contract: '0x4e0019a369d5bd4c07402283d6233c5b2cf313ec'

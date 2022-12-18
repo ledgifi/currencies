@@ -5,3 +5,5 @@ id_nomics: EBLX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EBLX.jpg
 logoKey: currencies/eblx.jpg
 name: Bullion Exchange
+platform: ETH
+platform_contract: '0x84e8a50ca43e8f26094799ba60705475cf2b9832'

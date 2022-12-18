@@ -5,3 +5,5 @@ id_nomics: TKB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TKB2.png
 logoKey: currencies/tkb2.png
 name: TokenBurner
+platform: BNB
+platform_contract: '0x0fa7a7be20e3a64e40c871f8f8984424d96c756e'

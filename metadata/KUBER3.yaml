@@ -5,3 +5,5 @@ id_nomics: KUBER3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KUBER3.png
 logoKey: currencies/kuber3.png
 name: Kuber DeFi
+platform: BNB
+platform_contract: '0x9399082Bd980BE65B9984202763f896d9D815459'

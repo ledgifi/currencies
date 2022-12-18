@@ -6,3 +6,5 @@ id_nomics: AID
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/aid.png
 logoKey: currencies/aid.png
 name: AidCoin
+platform: ETH
+platform_contract: '0x37e8789bb9996cac9156cd5f5fd32599e6b91289'

@@ -5,3 +5,5 @@ id_nomics: UETL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UETL.jpg
 logoKey: currencies/uetl.jpg
 name: Useless Eth Token Lite
+platform: ETH
+platform_contract: '0xa5a283557653f36cf9aa0d5cc74b1e30422349f2'

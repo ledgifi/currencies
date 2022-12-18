@@ -5,3 +5,5 @@ id_nomics: BOOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOOS.png
 logoKey: currencies/boos.png
 name: Boo Swap
+platform: BNB
+platform_contract: '0x3B30a884f7eaEbb4F733CFDb58F8513aFD7AC758'

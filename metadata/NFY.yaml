@@ -6,3 +6,5 @@ id_nomics: NFY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFY.jpg
 logoKey: currencies/nfy.jpg
 name: Non-Fungible Yearn
+platform: ETH
+platform_contract: '0x1cbb83ebcd552d5ebf8131ef8c9cd9d9bab342bc'

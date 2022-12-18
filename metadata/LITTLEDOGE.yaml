@@ -5,3 +5,5 @@ id_nomics: LITTLEDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LITTLEDOGE.jpg
 logoKey: currencies/littledoge.jpg
 name: Little Doge
+platform: BNB
+platform_contract: '0x4654e1e66d3b05da526b394f298d05ed1b256d6a'

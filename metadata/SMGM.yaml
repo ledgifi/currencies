@@ -5,3 +5,5 @@ id_nomics: SMGM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMGM.jpg
 logoKey: currencies/smgm.jpg
 name: SMEGMARS
+platform: BNB
+platform_contract: '0x74f3a669a8f35010f6f8811c495c0a5f60c5d04d'

@@ -5,3 +5,5 @@ id_nomics: CMC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CMC2.jpg
 logoKey: currencies/cmc2.jpg
 name: Community Coin
+platform: BNB
+platform_contract: '0x2881a6bd504e323f70159d032f89374222e40d22'

@@ -5,3 +5,5 @@ id_nomics: STACKPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STACKPOS.jpg
 logoKey: currencies/stackpos.jpg
 name: StackOS (Polygon)
+platform: MATIC
+platform_contract: '0x980111ae1b84e50222c8843e3a7a038f36fecd2b'

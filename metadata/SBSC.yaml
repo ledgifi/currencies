@@ -6,3 +6,5 @@ id_nomics: SBSC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBSC.png
 logoKey: currencies/sbsc.png
 name: MiniSatoshiBsc
+platform: BNB
+platform_contract: '0x66dd578022ad20dea8d532d066bb5458f835d8c8'

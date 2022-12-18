@@ -5,3 +5,5 @@ id_nomics: FLASHFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLASHFI.png
 logoKey: currencies/flashfi.png
 name: FLASHFI
+platform: BNB
+platform_contract: '0xffEd5d4342bEe71acf186Dd9071C4e813Ce51E6c'

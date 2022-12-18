@@ -5,3 +5,5 @@ id_nomics: FECORE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FECORE.jpg
 logoKey: currencies/fecore.jpg
 name: fecore.finance
+platform: ETH
+platform_contract: '0x6971fd17a3f82a7b9c957c82c6f4a5c8723ba6c9'

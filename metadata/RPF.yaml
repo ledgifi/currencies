@@ -3,3 +3,5 @@ fiat: false
 id: RPF
 id_nomics: RPF
 name: Rugproof
+platform: MATIC
+platform_contract: '0xa0eb910e451d60dcf0178bb1fc17e5a5ae058620'

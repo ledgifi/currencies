@@ -3,3 +3,5 @@ fiat: false
 id: IOIBEP20
 id_nomics: IOIBEP20
 name: IOI Token  via ChainPort.io
+platform: BNB
+platform_contract: '0x959229d94c9060552daea25ac17193bca65d7884'

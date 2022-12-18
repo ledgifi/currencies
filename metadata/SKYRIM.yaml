@@ -5,3 +5,5 @@ id_nomics: SKYRIM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SKYRIM.jpg
 logoKey: currencies/skyrim.jpg
 name: Skyrim Finance
+platform: ETH
+platform_contract: '0x2610f0bfc21ef389fe4d03cfb7de9ac1e6c99d6e'

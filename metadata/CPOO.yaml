@@ -6,3 +6,5 @@ id_nomics: CPOO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CPOO.jpg
 logoKey: currencies/cpoo.jpg
 name: Cockapoo
+platform: BNB
+platform_contract: '0xb277db4f19fc79f87569ac34eff5d1d50d4aeb8b'

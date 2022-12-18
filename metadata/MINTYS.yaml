@@ -6,3 +6,5 @@ id_nomics: MINTYS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINTYS.jpg
 logoKey: currencies/mintys.jpg
 name: MintySwap
+platform: ETH
+platform_contract: '0xbbd900e05b4af2124390d206f70bc4e583b1be85'

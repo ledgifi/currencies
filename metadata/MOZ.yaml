@@ -6,3 +6,5 @@ id_nomics: MOZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOZ.jpg
 logoKey: currencies/moz.jpg
 name: Mozik Token
+platform: ETH
+platform_contract: '0x7bd82b320ebc28d8eb3c4f5fa2af7b14da5b90c3'

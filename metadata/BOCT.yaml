@@ -3,3 +3,5 @@ fiat: false
 id: BOCT
 id_nomics: BOCT
 name: Base on Credit Token
+platform: ETH
+platform_contract: '0xc52e363a84e9165cce7fa1ad977c5d991d41b85c'

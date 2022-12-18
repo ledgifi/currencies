@@ -5,3 +5,5 @@ id_nomics: CHO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHO3.png
 logoKey: currencies/cho3.png
 name: Chopra
+platform: MATIC
+platform_contract: '0xE3ddB8fc1e290370A671e49D9a0344c2cD1cfEfe'

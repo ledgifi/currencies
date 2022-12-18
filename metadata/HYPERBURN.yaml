@@ -5,3 +5,5 @@ id_nomics: HYPERBURN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HYPERBURN.jpg
 logoKey: currencies/hyperburn.jpg
 name: Little Miss Hyper Burn
+platform: BNB
+platform_contract: '0x4b3af80bafe998ecfbd4df485e208f377e9e36cc'

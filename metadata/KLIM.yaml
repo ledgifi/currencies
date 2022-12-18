@@ -3,3 +3,5 @@ fiat: false
 id: KLIM
 id_nomics: KLIM
 name: klim
+platform: MATIC
+platform_contract: '0x6ae3aa0674dc2811a0f0e6f80d6c2fbf96d9e613'

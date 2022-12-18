@@ -3,3 +3,5 @@ fiat: false
 id: SFMC
 id_nomics: SFMC
 name: Safemoon Classic
+platform: ETH
+platform_contract: '0x5fc167a99386d5b4cd26a06848521663bbd9e497'

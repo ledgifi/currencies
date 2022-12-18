@@ -3,3 +3,5 @@ fiat: false
 id: LOWDOGE
 id_nomics: LOWDOGE
 name: Low Doge
+platform: HT
+platform_contract: '0x79e2dcb3fe3da4e78a39dff1d365234c4d79f35a'

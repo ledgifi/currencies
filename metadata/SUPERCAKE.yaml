@@ -5,3 +5,5 @@ id_nomics: SUPERCAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUPERCAKE.jpg
 logoKey: currencies/supercake.jpg
 name: SuperPancake
+platform: BNB
+platform_contract: '0x2f3b3400427c359f9e4559c4f41c6e6e2d254aca'

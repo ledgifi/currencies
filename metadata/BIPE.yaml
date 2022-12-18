@@ -3,3 +3,5 @@ fiat: false
 id: BIPE
 id_nomics: BIPE
 name: bipe
+platform: HT
+platform_contract: '0x61d28367f160c923a313156c92e4941c2fb61c34'

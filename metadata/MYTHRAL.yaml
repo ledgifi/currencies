@@ -5,3 +5,5 @@ id_nomics: MYTHRAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MYTHRAL.jpg
 logoKey: currencies/mythral.jpg
 name: Mythral
+platform: BNB
+platform_contract: '0xb1aa9ccfd594c3b981be6cef553fe838d7afe5c7'

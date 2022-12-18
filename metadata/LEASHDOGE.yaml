@@ -3,3 +3,5 @@ fiat: false
 id: LEASHDOGE
 id_nomics: LEASHDOGE
 name: LeashDoge
+platform: ETH
+platform_contract: '0x6de1b79869aa55dc592d62bda5ef8605ea7b4cbc'

@@ -5,3 +5,5 @@ id_nomics: WIKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WIKI.jpg
 logoKey: currencies/wiki.jpg
 name: WIKI
+platform: ETH
+platform_contract: '0x66bad545596fb17a0b4ebdc003a85def10e8f6ae'

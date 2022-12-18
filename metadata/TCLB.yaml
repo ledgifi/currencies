@@ -6,3 +6,5 @@ id_nomics: TCLB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCLB.png
 logoKey: currencies/tclb.png
 name: TCLB
+platform: ETH
+platform_contract: '0x798b5c3d3a56b6e55c1b44a8368746f9a11e4d7d'

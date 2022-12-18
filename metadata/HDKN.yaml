@@ -5,3 +5,5 @@ id_nomics: HDKN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HDKN.jpeg
 logoKey: currencies/hdkn.jpeg
 name: Hadouken
+platform: BNB
+platform_contract: '0xba48df18c1a2188290769be9bff7cb68397ee2d3'

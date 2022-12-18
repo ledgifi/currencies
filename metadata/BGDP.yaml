@@ -3,3 +3,5 @@ fiat: false
 id: BGDP
 id_nomics: BGDP
 name: Big Dipper Token
+platform: BNB
+platform_contract: '0x2f41b957d901c035e64fd9533e3463b1132b24bf'

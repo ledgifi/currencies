@@ -5,3 +5,5 @@ id_nomics: DINO12
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DINO12.png
 logoKey: currencies/dino12.png
 name: Uni Dino
+platform: BNB
+platform_contract: '0xd3163e59558bdd8ed9abfcd242aef78ef734d02f'

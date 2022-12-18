@@ -3,3 +3,5 @@ fiat: false
 id: CPI5
 id_nomics: CPI5
 name: Crypto Price Index 5
+platform: ETH
+platform_contract: '0xba9542cfea6d662e24514ce137be45c7e180ca5e'

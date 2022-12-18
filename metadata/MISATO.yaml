@@ -3,3 +3,5 @@ fiat: false
 id: MISATO
 id_nomics: MISATO
 name: Misato Token
+platform: ETH
+platform_contract: '0xdd14397b6fb57a350e7bef6c67a6e0d53714e06c'

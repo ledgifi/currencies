@@ -3,3 +3,5 @@ fiat: false
 id: PDX4
 id_nomics: PDX4
 name: PDX Coin
+platform: ETH
+platform_contract: '0x6a8fee0E33Cb65a7E8D21BadCA62E87639ef74B3'

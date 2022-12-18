@@ -3,3 +3,5 @@ fiat: false
 id: VUNIT
 id_nomics: VUNIT
 name: Virtual Unit
+platform: MATIC
+platform_contract: '0x632fbf85f77978437073a8ce5ceec29e3209514c'

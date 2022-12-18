@@ -5,3 +5,5 @@ id_nomics: BETAF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BETAF.jpg
 logoKey: currencies/betaf.jpg
 name: Beta.Fork
+platform: BNB
+platform_contract: '0x8df7cdad824ea5983f97ba1043eec22c815930cf'

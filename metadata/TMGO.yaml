@@ -3,3 +3,5 @@ fiat: false
 id: TMGO
 id_nomics: TMGO
 name: Tamago Swap
+platform: MATIC
+platform_contract: '0x034d706c3af9d11f0ba90d9967947abeda7a5758'

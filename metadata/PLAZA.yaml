@@ -6,3 +6,5 @@ id_nomics: PLAZA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLAZA.jpg
 logoKey: currencies/plaza.jpg
 name: Plaza Finance
+platform: FTM
+platform_contract: '0xc1e9d0d0a5353dee8b0fb23f1e03b21fc91566ef'

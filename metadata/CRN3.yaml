@@ -5,3 +5,5 @@ id_nomics: CRN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRN3.jpg
 logoKey: currencies/crn3.jpg
 name: CroNodes
+platform: CRO
+platform_contract: '0x8174bac1453c3ac7caed909c20ceadeb5e1cda00'

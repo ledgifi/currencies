@@ -5,3 +5,5 @@ id_nomics: OUSDT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OUSDT2.png
 logoKey: currencies/ousdt2.png
 name: Orbit Bridge Klaytn Tether
+platform: KLAY
+platform_contract: '0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167'

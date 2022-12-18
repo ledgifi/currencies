@@ -5,3 +5,5 @@ id_nomics: PXELTOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PXELTOKEN.png
 logoKey: currencies/pxeltoken.png
 name: Pxel Token
+platform: BNB
+platform_contract: '0x02585E9a416614183c6e71F97AE86Db61E3a9a15'

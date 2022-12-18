@@ -3,3 +3,5 @@ fiat: false
 id: NFB
 id_nomics: NFB
 name: NFB
+platform: BNB
+platform_contract: '0x32aba6822e29e50305376ee12501598f29df3b7c'

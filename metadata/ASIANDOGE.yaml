@@ -5,3 +5,5 @@ id_nomics: ASIANDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASIANDOGE.jpg
 logoKey: currencies/asiandoge.jpg
 name: BABY ASIAN DOGE
+platform: BNB
+platform_contract: '0x36731896752823389e808f5f684d91bbd960e180'

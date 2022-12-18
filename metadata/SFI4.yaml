@@ -5,3 +5,5 @@ id_nomics: SFI4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFI4.jpeg
 logoKey: currencies/sfi4.jpeg
 name: Safu Inu
+platform: BNB
+platform_contract: '0x2af9bdcfbe74a64a3a2b258700259bc42ea6f2f4'

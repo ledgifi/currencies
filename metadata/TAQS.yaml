@@ -3,3 +3,5 @@ fiat: false
 id: TAQS
 id_nomics: TAQS
 name: Test Aquasis token
+platform: ETH
+platform_contract: '0x08a647fbe57c846e3b9ce9caa5689d305e5f5259'

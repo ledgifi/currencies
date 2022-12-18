@@ -3,3 +3,5 @@ fiat: false
 id: SAFEARN
 id_nomics: SAFEARN
 name: SafeMoonEarn
+platform: BNB
+platform_contract: '0x8009a3002c15b124cabec88476490cea838597a8'

@@ -5,3 +5,5 @@ id_nomics: WCI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WCI.png
 logoKey: currencies/wci.png
 name: World Cup Inu
+platform: ETH
+platform_contract: '0xc5a9bc46a7dbe1c6de493e84a18f02e70e2c5a32'

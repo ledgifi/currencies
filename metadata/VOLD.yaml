@@ -3,3 +3,5 @@ fiat: false
 id: VOLD
 id_nomics: VOLD
 name: VOLD
+platform: HT
+platform_contract: '0xf762e3ea22cdf64175c76f5dec18a1839406146d'

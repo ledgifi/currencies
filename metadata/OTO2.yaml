@@ -5,3 +5,5 @@ id_nomics: OTO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OTO2.jpg
 logoKey: currencies/oto2.jpg
 name: OnTime
+platform: ETH
+platform_contract: '0x028ce5ea3298a50c0d8a27b937b1f48cf0d68b56'

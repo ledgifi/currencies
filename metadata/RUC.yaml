@@ -6,3 +6,5 @@ id_nomics: RUC
 logo: https://static.coinpaprika.com/coin/ruc-rush/logo.png
 logoKey: currencies/ruc.png
 name: Rush
+platform: ETH
+platform_contract: '0x395768aeb16484e5785612a98e9408e4cc1269ec'

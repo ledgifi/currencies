@@ -6,3 +6,5 @@ id_nomics: XIDO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XIDO.jpg
 logoKey: currencies/xido.jpg
 name: Xido Finance
+platform: ETH
+platform_contract: '0xf6650117017ffd48b725b4ec5a00b414097108a7'

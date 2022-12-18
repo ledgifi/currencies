@@ -5,3 +5,5 @@ id_nomics: CBOMBER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBOMBER.png
 logoKey: currencies/cbomber.png
 name: Crypto Bomber
+platform: MATIC
+platform_contract: '0xcf74ae52ae2c848387e6cd0048e1ec5a93ee2c66'

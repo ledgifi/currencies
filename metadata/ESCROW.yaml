@@ -5,3 +5,5 @@ id_nomics: ESCROW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ESCROW.jpg
 logoKey: currencies/escrow.jpg
 name: Escrow Protocol
+platform: MATIC
+platform_contract: '0xcf6baa0ede177f446da2aa111a594e6fcee89669'

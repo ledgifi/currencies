@@ -3,3 +3,5 @@ fiat: false
 id: AUS2
 id_nomics: AUS2
 name: Gold Standard
+platform: ETH
+platform_contract: '0x171f9cfc136f2b2aaa148fcc6b660a2029bab048'

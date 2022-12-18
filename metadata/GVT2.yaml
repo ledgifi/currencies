@@ -5,3 +5,5 @@ id_nomics: GVT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GVT2.jpg
 logoKey: currencies/gvt2.jpg
 name: Gro Vault Token
+platform: ETH
+platform_contract: '0x3adb04e127b9c0a5d36094125669d4603ac52a0c'

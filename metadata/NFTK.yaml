@@ -5,3 +5,5 @@ id_nomics: NFTK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTK.jpg
 logoKey: currencies/nftk.jpg
 name: NFTWiki Token
+platform: ETH
+platform_contract: '0xccb4dfdb4f95697ab5c389185f0ba9042a78576f'

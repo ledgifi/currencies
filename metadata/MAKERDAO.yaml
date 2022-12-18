@@ -4,3 +4,5 @@ id: MAKERDAO
 id_coinpaprika: makerdao-makerdao
 id_nomics: MAKERDAO
 name: MakerDAO
+platform: ETH
+platform_contract: '0x6a6e79663faca29a191fd6979e4986eb59c8ce45'

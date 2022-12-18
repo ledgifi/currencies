@@ -3,3 +3,5 @@ fiat: false
 id: DS3
 id_nomics: DS3
 name: ds3
+platform: BNB
+platform_contract: '0x59fcb2c5d41b7061513577bf4cec106149387dba'

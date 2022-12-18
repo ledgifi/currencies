@@ -6,3 +6,5 @@ id_nomics: BGTT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BGTT.jpg
 logoKey: currencies/bgtt.jpg
 name: Baguette Token
+platform: ETH
+platform_contract: '0x7a545ed3863221a974f327199ac22f7f12535f11'

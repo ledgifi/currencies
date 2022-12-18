@@ -5,3 +5,5 @@ id_nomics: SWFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWFI.jpg
 logoKey: currencies/swfi.jpg
 name: Swirge Finance
+platform: BNB
+platform_contract: '0xdb4f6f4da42ccb25b7a462942d81d229ea3ca9ce'

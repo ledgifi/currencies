@@ -3,3 +3,5 @@ fiat: false
 id: BDREP
 id_nomics: BDREP
 name: CopyB DREP
+platform: BNB
+platform_contract: '0x8c4291e2dc7c728a181d2bb224422683f0513d64'

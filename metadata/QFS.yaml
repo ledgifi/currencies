@@ -5,3 +5,5 @@ id_nomics: QFS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QFS.jpg
 logoKey: currencies/qfs.jpg
 name: QFS GOLDEN
+platform: BNB
+platform_contract: '0xab737e248d3c088bdf093e0a28171ce35920f91b'

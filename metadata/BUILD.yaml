@@ -6,3 +6,5 @@ id_nomics: BUILD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUILD.jpg
 logoKey: currencies/build.jpg
 name: BUILD Finance
+platform: ETH
+platform_contract: '0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739'

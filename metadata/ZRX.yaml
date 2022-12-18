@@ -8,3 +8,5 @@ id_nomics: ZRX
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/zrx.svg
 logoKey: currencies/zrx.svg
 name: 0x
+platform: ETH
+platform_contract: '0xe41d2489571d322189246dafa5ebde1f4699f498'

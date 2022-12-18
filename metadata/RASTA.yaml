@@ -6,3 +6,5 @@ id_nomics: RASTA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RASTA.jpg
 logoKey: currencies/rasta.jpg
 name: Rasta Finance
+platform: BNB
+platform_contract: '0xe3e8cc42da487d1116d26687856e9fb684817c52'

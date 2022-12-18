@@ -6,3 +6,5 @@ id_nomics: AIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AIT.png
 logoKey: currencies/ait.png
 name: AICHAIN
+platform: ETH
+platform_contract: '0x79650799e7899a802cb96c0bc33a6a8d4ce4936c'

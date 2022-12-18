@@ -5,3 +5,5 @@ id_nomics: YFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFT.jpg
 logoKey: currencies/yft.jpg
 name: Yield Farming Token
+platform: ETH
+platform_contract: '0x26b3038a7fc10b36c426846a9086ef87328da702'

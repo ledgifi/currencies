@@ -5,3 +5,5 @@ id_nomics: STMT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STMT.jpg
 logoKey: currencies/stmt.jpg
 name: Stranger Things MEME Token
+platform: BNB
+platform_contract: '0x78da2597b0f841acc080dcda43124f59211499ee'

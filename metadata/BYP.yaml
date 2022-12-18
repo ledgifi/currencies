@@ -5,3 +5,5 @@ id_nomics: BYP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BYP.png
 logoKey: currencies/byp.png
 name: Fake Banksy Punks
+platform: ETH
+platform_contract: '0x486fbcfca361971a1734c002122b3c4786a182e0'

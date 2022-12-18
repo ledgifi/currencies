@@ -5,3 +5,5 @@ id_nomics: NIL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NIL2.jpg
 logoKey: currencies/nil2.jpg
 name: Nil DAO
+platform: ETH
+platform_contract: '0x47252a63c723889814aebcac0683e615624cec64'

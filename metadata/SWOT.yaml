@@ -5,3 +5,5 @@ id_nomics: SWOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWOT.png
 logoKey: currencies/swot.png
 name: SWOT
+platform: BNB
+platform_contract: '0x2B9D92789D712A0c0bDcAc36f87F45f9c2E2E498'

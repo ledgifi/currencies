@@ -5,3 +5,5 @@ id_nomics: RAGSCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAGSCOIN.png
 logoKey: currencies/ragscoin.png
 name: Rags
+platform: BNB
+platform_contract: '0xa923180ef71e81f21b36941fb62d954af21c60a3'

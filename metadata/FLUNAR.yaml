@@ -5,3 +5,5 @@ id_nomics: FLUNAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLUNAR.jpg
 logoKey: currencies/flunar.jpg
 name: FairLunar
+platform: BNB
+platform_contract: '0xdcd289ecf644bec54393ba6ce8db35e9b5ff75e7'

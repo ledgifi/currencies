@@ -3,3 +3,5 @@ fiat: false
 id: TCGC
 id_nomics: TCGC
 name: TCGCoin (PoS)
+platform: MATIC
+platform_contract: '0x44acd96620b708162af4a90524f29a6839675533'

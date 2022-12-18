@@ -6,3 +6,5 @@ id_nomics: TDW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TDW.jpg
 logoKey: currencies/tdw.jpg
 name: The Doge World
+platform: BNB
+platform_contract: '0xc5a72fc4324ef3fcebaff9b5e729487719eb5b7a'

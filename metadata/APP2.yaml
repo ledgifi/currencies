@@ -5,3 +5,5 @@ id_nomics: APP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APP2.jpeg
 logoKey: currencies/app2.jpeg
 name: Dappsy
+platform: BNB
+platform_contract: '0x81e07cff8a9331ef2a837b15a3560fb186bf5e8d'

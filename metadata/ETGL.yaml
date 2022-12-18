@@ -6,3 +6,5 @@ id_nomics: ETGL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETGL.jpeg
 logoKey: currencies/etgl.jpeg
 name: EternalGirl
+platform: BNB
+platform_contract: '0xed2286558d7ec45b86cd943d941f1a1a9c9c71be'

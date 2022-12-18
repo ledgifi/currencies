@@ -5,3 +5,5 @@ id_nomics: CRI3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRI3.png
 logoKey: currencies/cri3.png
 name: Cribs Loyalty
+platform: BNB
+platform_contract: '0x304243a820d4a3718becc89a3f33513586162cf0'

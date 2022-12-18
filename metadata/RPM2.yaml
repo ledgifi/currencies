@@ -5,3 +5,5 @@ id_nomics: RPM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RPM2.jpeg
 logoKey: currencies/rpm2.jpeg
 name: Ready Player Motorsports
+platform: MATIC
+platform_contract: '0xF4F1d26013a6D75Fe482e923A92afa6788b25441'

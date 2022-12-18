@@ -3,3 +3,5 @@ fiat: false
 id: RATP
 id_nomics: RATP
 name: RATPOISON
+platform: BNB
+platform_contract: '0x19cf50048613e4085bf6cd34bfa07bcfcea9e613'

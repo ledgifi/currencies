@@ -5,3 +5,5 @@ id_nomics: SHIBURAI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBURAI2.jpeg
 logoKey: currencies/shiburai2.jpeg
 name: Shiba Samurai V2
+platform: ETH
+platform_contract: '0x275eb4f541b372eff2244a444395685c32485368'

@@ -6,3 +6,5 @@ id_nomics: BICAS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BICAS.png
 logoKey: currencies/bicas.png
 name: BitherCash
+platform: ETH
+platform_contract: '0xa7d10ff962eda41f3b037e3af1d8b4037eba4b86'

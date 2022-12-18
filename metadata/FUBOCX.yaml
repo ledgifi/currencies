@@ -5,3 +5,5 @@ id_nomics: FUBOCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FUBOCX.jpg
 logoKey: currencies/fubocx.jpg
 name: fuboTV Inc.
+platform: ETH
+platform_contract: '0x49ecaf1281d5d2f3450750fba047a4ccefcded1b'

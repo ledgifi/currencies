@@ -5,3 +5,5 @@ id_nomics: POKER2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POKER2.jpg
 logoKey: currencies/poker2.jpg
 name: Poker
+platform: BNB
+platform_contract: '0x82caa54ec9aaf213ff611af63d4b650accff53ae'

@@ -6,3 +6,5 @@ id_nomics: YOSI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YOSI.jpeg
 logoKey: currencies/yosi.jpeg
 name: Yoi Shiba Inu
+platform: BNB
+platform_contract: '0x141df21e93460216fe0692e756927118ce4c65be'

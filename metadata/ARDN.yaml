@@ -5,3 +5,5 @@ id_nomics: ARDN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARDN.jpg
 logoKey: currencies/ardn.jpg
 name: Ariadne
+platform: BNB
+platform_contract: '0xa0a9961b7477d1a530f06a1ee805d5e532e73d97'

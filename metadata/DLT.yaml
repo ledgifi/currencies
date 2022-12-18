@@ -8,3 +8,5 @@ id_nomics: DLT
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/dlt.svg
 logoKey: currencies/dlt.svg
 name: Agrello
+platform: ETH
+platform_contract: '0x07e3c70653548b04f0a75970c1f81b4cbbfb606f'

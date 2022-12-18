@@ -5,3 +5,5 @@ id_nomics: PBK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PBK2.jpg
 logoKey: currencies/pbk2.jpg
 name: Profit Bank
+platform: BNB
+platform_contract: '0xf2f087955684eabdf252a16c7b6620a1e3774515'

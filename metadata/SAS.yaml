@@ -6,3 +6,5 @@ id_nomics: SAS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAS.jpg
 logoKey: currencies/sas.jpg
 name: Stand Share
+platform: ETH
+platform_contract: '0x4c38d0e726b6c86f64c1b281348e725973542043'

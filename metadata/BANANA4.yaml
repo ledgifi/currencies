@@ -5,3 +5,5 @@ id_nomics: BANANA4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BANANA4.jpg
 logoKey: currencies/banana4.jpg
 name: Banana Coin
+platform: BNB
+platform_contract: '0x5fe86506985d7e87d16a83806c4007c15e50d24e'

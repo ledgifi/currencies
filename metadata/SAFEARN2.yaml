@@ -5,3 +5,5 @@ id_nomics: SAFEARN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFEARN2.jpg
 logoKey: currencies/safearn2.jpg
 name: SafeEarn
+platform: BNB
+platform_contract: '0x099f551ea3cb85707cac6ac507cbc36c96ec64ff'

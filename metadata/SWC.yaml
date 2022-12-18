@@ -6,3 +6,5 @@ id_nomics: SWC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWC.jpg
 logoKey: currencies/swc.jpg
 name: Scanetchain
+platform: ETH
+platform_contract: '0xadf8b8050639b6236915f7516d69de714672f0bf'

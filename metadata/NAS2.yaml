@@ -5,3 +5,5 @@ id_nomics: NAS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NAS2.png
 logoKey: currencies/nas2.png
 name: NotAScam
+platform: MATIC
+platform_contract: '0xaf7d63eef390baa83fee47c62581af98b22e23ca'

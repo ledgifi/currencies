@@ -6,3 +6,5 @@ id_nomics: KING
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KING.jpg
 logoKey: currencies/king.jpg
 name: King Swap
+platform: ETH
+platform_contract: '0xd2057d71fe3f5b0dc1e3e7722940e1908fc72078'

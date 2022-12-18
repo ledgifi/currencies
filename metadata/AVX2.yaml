@@ -5,3 +5,5 @@ id_nomics: AVX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVX2.png
 logoKey: currencies/avx2.png
 name: Avachain X
+platform: BNB
+platform_contract: '0x3a2c0bd9ffd7045a82bd53e62edc995a00be65e1'

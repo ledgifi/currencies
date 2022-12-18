@@ -6,3 +6,5 @@ id_nomics: EAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EAN.jpg
 logoKey: currencies/ean.jpg
 name: EANTO
+platform: ETH
+platform_contract: '0xb4742e2013f96850a5cef850a3bb74cf63b9a5d5'

@@ -6,3 +6,5 @@ id_nomics: KITE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KITE.jpg
 logoKey: currencies/kite.jpg
 name: Kite Sync
+platform: BNB
+platform_contract: '0xede26a1ee14281b58a5238a3ff246b02358a13b6'

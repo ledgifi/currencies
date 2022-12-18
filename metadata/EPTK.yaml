@@ -5,3 +5,5 @@ id_nomics: EPTK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EPTK.png
 logoKey: currencies/eptk.png
 name: EpinToken
+platform: ETH
+platform_contract: '0xa91ff20bd37d9275498aa468351c14ff2c290a99'

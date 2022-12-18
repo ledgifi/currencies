@@ -6,3 +6,5 @@ id_nomics: SYFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SYFI.jpg
 logoKey: currencies/syfi.jpg
 name: Soft Yearn
+platform: ETH
+platform_contract: '0x322124122df407b0d0d902cb713b3714fb2e2e1f'

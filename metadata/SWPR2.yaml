@@ -5,3 +5,5 @@ id_nomics: SWPR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWPR2.jpg
 logoKey: currencies/swpr2.jpg
 name: Swappery Token
+platform: BNB
+platform_contract: '0x6fa23529476a1337eb5da8238b778e7122d79666'

@@ -6,3 +6,5 @@ id_nomics: SPACEPI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPACEPI.png
 logoKey: currencies/spacepi.png
 name: SpacePi
+platform: BNB
+platform_contract: '0x69b14e8d3cebfdd8196bfe530954a0c226e5008e'

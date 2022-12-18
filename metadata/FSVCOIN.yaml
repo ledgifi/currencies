@@ -3,3 +3,5 @@ fiat: false
 id: FSVCOIN
 id_nomics: FSVCOIN
 name: FalcoShopVipCoin
+platform: BNB
+platform_contract: '0x6881534c467cbd043d601745d27cae27c7ab977f'

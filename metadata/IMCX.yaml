@@ -3,3 +3,5 @@ fiat: false
 id: IMCX
 id_nomics: IMCX
 name: IMM Community Token
+platform: BNB
+platform_contract: '0x742c25fb57d0bcdc64795a4156d8a78818801b49'

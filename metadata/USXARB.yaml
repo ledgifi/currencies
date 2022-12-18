@@ -5,3 +5,5 @@ id_nomics: USXARB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USXARB.png
 logoKey: currencies/usxarb.png
 name: dForce USD (Arbitrum)
+platform: ARBETH
+platform_contract: '0x641441c631e2f909700d2f41fd87f0aa6a6b4edb'

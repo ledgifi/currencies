@@ -6,3 +6,5 @@ id_nomics: AQUARI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AQUARI.jpg
 logoKey: currencies/aquari.jpg
 name: Aquari
+platform: BNB
+platform_contract: '0x6500197a2488610aca288fd8e2dfe88ec99e596c'

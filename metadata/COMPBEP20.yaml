@@ -5,3 +5,5 @@ id_nomics: COMPBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COMPBEP20.png
 logoKey: currencies/compbep20.png
 name: Compound Coin (BEP-20)
+platform: BNB
+platform_contract: '0x52ce071bd9b1c4b00a0b92d298c512478cad67e8'

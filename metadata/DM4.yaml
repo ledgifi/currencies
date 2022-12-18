@@ -5,3 +5,5 @@ id_nomics: DM4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DM4.png
 logoKey: currencies/dm4.png
 name: Calidumm
+platform: BNB
+platform_contract: '0xeE78Df3cD70E9428F1382e23ff5CE15C862B09F1'

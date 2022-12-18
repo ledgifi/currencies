@@ -5,3 +5,5 @@ id_nomics: PASTA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PASTA2.png
 logoKey: currencies/pasta2.png
 name: Pasta Finance
+platform: BNB
+platform_contract: '0xab9d0fae6eb062f2698c2d429a1be9185a5d4f6e'

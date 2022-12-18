@@ -6,3 +6,5 @@ id_nomics: EROWAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EROWAN.jpg
 logoKey: currencies/erowan.jpg
 name: Sifchain
+platform: ETH
+platform_contract: '0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe'

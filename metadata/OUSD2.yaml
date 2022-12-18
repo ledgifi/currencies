@@ -5,3 +5,5 @@ id_nomics: OUSD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OUSD2.jpg
 logoKey: currencies/ousd2.jpg
 name: Origin Dollar
+platform: ETH
+platform_contract: '0x2a8e1e676ec238d8a992307b495b45b3feaa5e86'

@@ -5,3 +5,5 @@ id_nomics: DEFLY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEFLY2.jpeg
 logoKey: currencies/defly2.jpeg
 name: Defly
+platform: ALGO
+platform_contract: '470842789'

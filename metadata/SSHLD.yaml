@@ -6,3 +6,5 @@ id_nomics: SSHLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SSHLD.jpg
 logoKey: currencies/sshld.jpg
 name: SunShield
+platform: BNB
+platform_contract: '0x1e3b5cf330849ee07c5213d2d01dacade02d186d'

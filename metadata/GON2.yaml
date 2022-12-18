@@ -5,3 +5,5 @@ id_nomics: GON2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GON2.jpg
 logoKey: currencies/gon2.jpg
 name: Dragon Warrior
+platform: BNB
+platform_contract: '0x610f34da19797405a276d26f95bd5c7d8cbbd644'

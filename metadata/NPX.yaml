@@ -6,3 +6,5 @@ id_nomics: NPX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/npx.png
 logoKey: currencies/npx.png
 name: Napoleon X
+platform: ETH
+platform_contract: '0x28b5e12cce51f15594b0b91d5b5adaa70f684a02'

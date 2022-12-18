@@ -3,3 +3,5 @@ fiat: false
 id: CROAK
 id_nomics: CROAK
 name: Croakens
+platform: ETH
+platform_contract: '0x563a1094235522a9d84328eef758bd9908dfabdc'

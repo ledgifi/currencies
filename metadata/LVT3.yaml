@@ -5,3 +5,5 @@ id_nomics: LVT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LVT3.jpg
 logoKey: currencies/lvt3.jpg
 name: Louverture
+platform: AVAX
+platform_contract: '0xff579d6259dedcc80488c9b89d2820bcb5609160'

@@ -6,3 +6,5 @@ id_nomics: IPAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IPAY.jpg
 logoKey: currencies/ipay.jpg
 name: iPay
+platform: BNB
+platform_contract: '0xb8159ee8496232396bbfe08d33327aac68284626'

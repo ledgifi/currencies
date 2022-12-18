@@ -6,3 +6,5 @@ id_nomics: KUNAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KUNAI.jpg
 logoKey: currencies/kunai.jpg
 name: KunaiInu
+platform: ETH
+platform_contract: '0x431f5382d4a59c8d05c462d40cf87e2b3df8b14e'

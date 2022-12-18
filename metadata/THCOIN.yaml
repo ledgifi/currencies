@@ -3,3 +3,5 @@ fiat: false
 id: THCOIN
 id_nomics: THCOIN
 name: THCcoin
+platform: BNB
+platform_contract: '0x75a00145eaf6b5e0d3bfe724b6cafa6b1e130279'

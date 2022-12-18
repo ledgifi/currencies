@@ -6,3 +6,5 @@ id_nomics: GYRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GYRO.jpeg
 logoKey: currencies/gyro.jpeg
 name: Gyro
+platform: BNB
+platform_contract: '0x1b239abe619e74232c827fbe5e49a4c072bd869d'

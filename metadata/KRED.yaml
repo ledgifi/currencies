@@ -3,3 +3,5 @@ fiat: false
 id: KRED
 id_nomics: KRED
 name: KRED
+platform: BNB
+platform_contract: '0x1c50e72b9b7a44bf7e63fe7735d67d82c3e4bf74'

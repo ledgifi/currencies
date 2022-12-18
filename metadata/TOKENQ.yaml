@@ -3,3 +3,5 @@ fiat: false
 id: TOKENQ
 id_nomics: TOKENQ
 name: TokenQ
+platform: AVAX
+platform_contract: '0x14bf0e443380c197dd7019c455f7d5d92c230e41'

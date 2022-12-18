@@ -5,3 +5,5 @@ id_nomics: DOGESTYLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGESTYLE.jpg
 logoKey: currencies/dogestyle.jpg
 name: DOGEstyle
+platform: BNB
+platform_contract: '0xb2269a9507602bfa43ba9aa00c2288f7ea83631c'

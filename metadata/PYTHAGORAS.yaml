@@ -3,3 +3,5 @@ fiat: false
 id: PYTHAGORAS
 id_nomics: PYTHAGORAS
 name: Pythagoras Token
+platform: ETH
+platform_contract: '0x0e4a274911e0e0e38ab1044fd7aead45101f1c19'

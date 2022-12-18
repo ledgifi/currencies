@@ -3,3 +3,5 @@ fiat: false
 id: CBDT
 id_nomics: CBDT
 name: CBDToken
+platform: BNB
+platform_contract: '0xf2e9f5ba3628d37333f75ac337602e8b0363f17f'

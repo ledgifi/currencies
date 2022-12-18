@@ -6,3 +6,5 @@ id_nomics: PBK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PBK.jpg
 logoKey: currencies/pbk.jpg
 name: Powerbank
+platform: ETH
+platform_contract: '0x077dc3c0c9543df1cdd78386df3204e69e0dd274'

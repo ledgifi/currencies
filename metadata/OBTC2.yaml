@@ -5,3 +5,5 @@ id_nomics: OBTC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OBTC2.jpg
 logoKey: currencies/obtc2.jpg
 name: BoringDAO BTC
+platform: ETH
+platform_contract: '0x8064d9ae6cdf087b1bcd5bdf3531bd5d8c537a68'

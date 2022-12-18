@@ -3,3 +3,5 @@ fiat: false
 id: LISS
 id_nomics: LISS
 name: Lisstoken
+platform: BNB
+platform_contract: '0x94188c68e6ee157c46fddc25ac07cddcfce6ed2e'

@@ -5,3 +5,5 @@ id_nomics: TOKENLON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOKENLON.jpg
 logoKey: currencies/tokenlon.jpg
 name: Tokenlon
+platform: ETH
+platform_contract: '0x0000000000095413afc295d19edeb1ad7b71c952'

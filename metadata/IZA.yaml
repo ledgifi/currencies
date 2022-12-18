@@ -5,3 +5,5 @@ id_nomics: IZA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IZA.jpg
 logoKey: currencies/iza.jpg
 name: Inzura
+platform: ETH
+platform_contract: '0x52956cd6f9d5d8a0ffdce1e9b68ef72cd9d64655'

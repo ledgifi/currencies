@@ -5,3 +5,5 @@ id_nomics: EASYMOON2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EASYMOON2.jpg
 logoKey: currencies/easymoon2.jpg
 name: EasyMoonNetwork
+platform: BNB
+platform_contract: '0x867cb86baa6f3debb9802bee5511c5d56b90982f'

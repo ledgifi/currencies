@@ -5,3 +5,5 @@ id_nomics: TYTAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TYTAN.jpg
 logoKey: currencies/tytan.jpg
 name: Tytan
+platform: BNB
+platform_contract: '0x912f594fd096e67e0c0a18d496a9f70e3171c330'

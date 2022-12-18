@@ -3,3 +3,5 @@ fiat: false
 id: WITTER
 id_nomics: WITTER
 name: witter
+platform: BNB
+platform_contract: '0xa0e479b61c69afeca1a179055d2b5b39e6545aed'

@@ -5,3 +5,5 @@ id_nomics: DFLY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DFLY.jpg
 logoKey: currencies/dfly.jpg
 name: dragonflyprotocol.com
+platform: ETH
+platform_contract: '0x70a6d0d1561ba98711e935a76b1c167c612978a2'

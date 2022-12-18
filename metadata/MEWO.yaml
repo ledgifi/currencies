@@ -5,3 +5,5 @@ id_nomics: MEWO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEWO.png
 logoKey: currencies/mewo.png
 name: MetaWorlds
+platform: BNB
+platform_contract: '0x63e3b84c5c2b7b914f36dc45dfa4321774f1aede'

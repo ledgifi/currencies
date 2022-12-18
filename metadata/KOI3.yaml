@@ -5,3 +5,5 @@ id_nomics: KOI3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KOI3.jpg
 logoKey: currencies/koi3.jpg
 name: Koinu
+platform: BNB
+platform_contract: '0xc21c98756bf24083056c6d98706619e92f475d50'

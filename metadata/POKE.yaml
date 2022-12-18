@@ -6,3 +6,5 @@ id_nomics: POKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POKE.jpg
 logoKey: currencies/poke.jpg
 name: Pokeball
+platform: BNB
+platform_contract: '0xcdad3683335a4a96d2c437dd4513b061e4aec4ff'

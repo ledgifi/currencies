@@ -5,3 +5,5 @@ id_nomics: GRAPE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GRAPE2.png
 logoKey: currencies/grape2.png
 name: Grape Token
+platform: BNB
+platform_contract: '0xb699390735ed74e2d89075b300761dae34b4b36b'

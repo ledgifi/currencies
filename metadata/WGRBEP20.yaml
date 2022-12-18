@@ -5,3 +5,5 @@ id_nomics: WGRBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WGRBEP20.png
 logoKey: currencies/wgrbep20.png
 name: BSC Wrapped Wagerr
+platform: BNB
+platform_contract: '0xdbf8265b1d5244a13424f13977723acf5395eab2'

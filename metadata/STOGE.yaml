@@ -3,3 +3,5 @@ fiat: false
 id: STOGE
 id_nomics: STOGE
 name: Stoge Finance
+platform: ETH
+platform_contract: '0x1296a923cd4f39116e0297d921fe25fe228552c6'

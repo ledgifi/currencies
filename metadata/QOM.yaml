@@ -3,3 +3,5 @@ fiat: false
 id: QOM
 id_nomics: QOM
 name: Shiba Predator
+platform: ETH
+platform_contract: '0xa71d0588eaf47f12b13cf8ec750430d21df04974'

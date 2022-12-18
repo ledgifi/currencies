@@ -6,3 +6,5 @@ id_nomics: LCG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LCG.jpg
 logoKey: currencies/lcg.jpg
 name: LCG
+platform: ETH
+platform_contract: '0x6e1a58e7e9e801f32bb82462636a8a2e7b65e036'

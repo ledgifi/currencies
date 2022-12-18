@@ -5,3 +5,5 @@ id_nomics: EVER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVER.jpg
 logoKey: currencies/ever.jpg
 name: EverSwap
+platform: BNB
+platform_contract: '0x60684a1f27876aab7022da66909dd234f9cc9e3c'

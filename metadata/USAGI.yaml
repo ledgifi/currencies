@@ -5,3 +5,5 @@ id_nomics: USAGI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USAGI.png
 logoKey: currencies/usagi.png
 name: USAGI COIN
+platform: BNB
+platform_contract: '0xa352fde463645dce3addb81406494fc84b700e20'

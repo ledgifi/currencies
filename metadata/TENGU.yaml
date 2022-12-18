@@ -5,3 +5,5 @@ id_nomics: TENGU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TENGU.jpg
 logoKey: currencies/tengu.jpg
 name: TENGU Token
+platform: BNB
+platform_contract: '0x6f6350d5d347aa8f7e9731756b60b774a7acf95b'

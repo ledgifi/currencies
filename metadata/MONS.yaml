@@ -6,3 +6,5 @@ id_nomics: MONS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MONS.jpg
 logoKey: currencies/mons.jpg
 name: Monsters Clan
+platform: BNB
+platform_contract: '0xe4c797d43631f4d660ec67b5cb0b78ef5c902532'

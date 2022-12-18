@@ -6,3 +6,5 @@ id_nomics: KCS
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/kcs.svg
 logoKey: currencies/kcs.svg
 name: KuCoin Token
+platform: ETH
+platform_contract: '0xf34960d9d60be18cc1d5afc1a6f012a723a28811'

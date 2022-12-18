@@ -5,3 +5,5 @@ id_nomics: MSD5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSD5.gif
 logoKey: currencies/msd5.gif
 name: Meta School Doge
+platform: BNB
+platform_contract: '0xc99f436a6d610061cc47203cd624c4b971e91eb6'

@@ -5,3 +5,5 @@ id_nomics: PLANT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLANT.png
 logoKey: currencies/plant.png
 name: Plant
+platform: BNB
+platform_contract: '0xdC243F2cF20106B53C7b5A6fd4756C1a920a59DC'

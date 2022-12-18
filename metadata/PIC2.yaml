@@ -5,3 +5,5 @@ id_nomics: PIC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIC2.jpg
 logoKey: currencies/pic2.jpg
 name: Pic.finance
+platform: ETH
+platform_contract: '0xbf9fc1181b65542a552da563ae87a797eae208c0'

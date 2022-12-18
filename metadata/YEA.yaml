@@ -6,3 +6,5 @@ id_nomics: YEA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YEA.jpeg
 logoKey: currencies/yea.jpeg
 name: YeaFinance
+platform: ETH
+platform_contract: '0x40b92fCE37CEfA03baf7603e7913C1d34dD1a4EC'

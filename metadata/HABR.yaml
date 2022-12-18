@@ -5,3 +5,5 @@ id_nomics: HABR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HABR.jpg
 logoKey: currencies/habr.jpg
 name: Harbour
+platform: ETH
+platform_contract: '0xf87193cbb9c9aee4790c08031bdfe2050f23ee9d'

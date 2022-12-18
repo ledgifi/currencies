@@ -5,3 +5,5 @@ id_nomics: XGTBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XGTBEP20.png
 logoKey: currencies/xgtbep20.png
 name: Xion Global Token (BEP-20)
+platform: BNB
+platform_contract: '0xc25af3123d2420054c8fcd144c21113aa2853f39'

@@ -5,3 +5,5 @@ id_nomics: DTF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DTF2.jpeg
 logoKey: currencies/dtf2.jpeg
 name: Debt Free V2
+platform: BNB
+platform_contract: '0xb662981D60369EC68e73bb453cC7dAea49642827'

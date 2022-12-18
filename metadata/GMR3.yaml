@@ -5,3 +5,5 @@ id_nomics: GMR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMR3.jpg
 logoKey: currencies/gmr3.jpg
 name: GAMER
+platform: BNB
+platform_contract: '0xadca52302e0a6c2d5d68edcdb4ac75deb5466884'

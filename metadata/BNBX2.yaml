@@ -3,3 +3,5 @@ fiat: false
 id: BNBX2
 id_nomics: BNBX2
 name: Stader BNBx
+platform: BNB
+platform_contract: '0x1bdd3cf7f79cfb8edbb955f20ad99211551ba275'

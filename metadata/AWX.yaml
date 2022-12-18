@@ -5,3 +5,5 @@ id_nomics: AWX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AWX.jpeg
 logoKey: currencies/awx.jpeg
 name: AurusCOIN
+platform: ETH
+platform_contract: '0x54E46cC89588318e3964ca2c1Be94Db9D5cA3dFb'

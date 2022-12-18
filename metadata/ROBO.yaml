@@ -3,3 +3,5 @@ fiat: false
 id: ROBO
 id_nomics: ROBO
 name: Robo Token
+platform: ETH
+platform_contract: '0x6fc2f1044a3b9bb3e43a43ec8f840843ed753061'

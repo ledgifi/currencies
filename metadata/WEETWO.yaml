@@ -6,3 +6,5 @@ id_nomics: WEETWO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WEETWO.png
 logoKey: currencies/weetwo.png
 name: Weetwo
+platform: BNB
+platform_contract: '0x4ec5780db9afcf9f9a5c007a309cc832ac556d7e'

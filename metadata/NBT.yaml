@@ -7,3 +7,5 @@ id_nomics: NBT3
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220218/319d6cb6-bf38-45ab-a24d-445a0b26de8b.png
 logoKey: currencies/nbt.png
 name: NanoByte Token
+platform: BNB
+platform_contract: '0x1d3437e570e93581bd94b2fd8fbf202d4a65654a'

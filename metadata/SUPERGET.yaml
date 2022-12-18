@@ -3,3 +3,5 @@ fiat: false
 id: SUPERGET
 id_nomics: SUPERGET
 name: SuperGet
+platform: BNB
+platform_contract: '0x52f278042ad860a4a327c10fff130e0faf8b34ea'

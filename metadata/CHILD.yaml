@@ -3,3 +3,5 @@ fiat: false
 id: CHILD
 id_nomics: CHILD
 name: Inner Child
+platform: ETH
+platform_contract: '0x1e0d13ad15418d456e4c66b4b97d00ec1528110f'

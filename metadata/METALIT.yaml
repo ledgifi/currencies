@@ -5,3 +5,5 @@ id_nomics: METALIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METALIT.png
 logoKey: currencies/metalit.png
 name: Meta Lition
+platform: BNB
+platform_contract: '0xc0dd87ba4d0effc84427b173480c8e2a97a7c24b'

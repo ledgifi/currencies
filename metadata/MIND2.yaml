@@ -5,3 +5,5 @@ id_nomics: MIND2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIND2.png
 logoKey: currencies/mind2.png
 name: Mind Shop
+platform: BNB
+platform_contract: '0x7c48cca7fbfe77ce0a0f6b1fdae1dd0953ae61c2'

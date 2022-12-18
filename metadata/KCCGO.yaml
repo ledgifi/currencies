@@ -3,3 +3,5 @@ fiat: false
 id: KCCGO
 id_nomics: KCCGO
 name: KCC GO
+platform: BNB
+platform_contract: '0x057cc280a996ccdfc9c1a63e198b2b6100d0c1ed'

@@ -6,3 +6,5 @@ id_nomics: WKDA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WKDA.jpg
 logoKey: currencies/wkda.jpg
 name: Wrapped Kadena
+platform: ETH
+platform_contract: '0x85d7bdfc9c3426b33a684241eeee70385bc42820'

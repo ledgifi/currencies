@@ -3,3 +3,5 @@ fiat: false
 id: NMSIS
 id_nomics: NMSIS
 name: Nemesis Downfall
+platform: MATIC
+platform_contract: '0x57fd78f79824352460137da7aebca70d03a6ac3b'

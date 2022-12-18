@@ -6,3 +6,5 @@ id_nomics: EZT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ezt.jpg
 logoKey: currencies/ezt.jpg
 name: EZToken
+platform: ETH
+platform_contract: '0x5e6016ae7d7c49d347dcf834860b9f3ee282812b'

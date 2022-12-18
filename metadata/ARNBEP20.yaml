@@ -5,3 +5,5 @@ id_nomics: ARNBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARNBEP20.png
 logoKey: currencies/arnbep20.png
 name: Aeron (BEP-20)
+platform: BNB
+platform_contract: '0xba5f11b16b155792cf3b2e6880e8706859a8aeb6'

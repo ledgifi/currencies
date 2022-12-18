@@ -3,3 +3,5 @@ fiat: false
 id: BCUSDC
 id_nomics: BCUSDC
 name: BlockNG-Peg USDC Token
+platform: SMARTBCH
+platform_contract: '0xbcbd9990dcec6a64741ea27bec0ca8ff6b91bc26'

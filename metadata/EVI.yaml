@@ -6,3 +6,5 @@ id_nomics: EVI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVI.png
 logoKey: currencies/evi.png
 name: Evimeria
+platform: ETH
+platform_contract: '0x920db6c38cf5a2a12554e812d4b3ac2daa8eba4d'

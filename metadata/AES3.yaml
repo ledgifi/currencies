@@ -3,3 +3,5 @@ fiat: false
 id: AES3
 id_nomics: AES3
 name: Aree Shards
+platform: MATIC
+platform_contract: '0x2a07461a493b994c2a32f549fd185524f306ab38'

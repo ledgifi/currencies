@@ -6,3 +6,5 @@ id_nomics: CSMS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CSMS.jpg
 logoKey: currencies/csms.jpg
 name: Cosmostarter
+platform: ETH
+platform_contract: '0x4461cfd640da24d1a4642fa5f9ea3e6da966b831'

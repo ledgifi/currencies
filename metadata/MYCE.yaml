@@ -6,3 +6,5 @@ id_nomics: MYCE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MYCE.png
 logoKey: currencies/myce.png
 name: My Ceremonial Event
+platform: ETH
+platform_contract: '0xe9966c1184f8552fcb16f65addba9dd08fe8f4ea'

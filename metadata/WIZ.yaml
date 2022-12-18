@@ -5,3 +5,5 @@ id_nomics: WIZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WIZ.png
 logoKey: currencies/wiz.png
 name: CrowdWizToken
+platform: ETH
+platform_contract: '0x2f9b6779c37df5707249eeb3734bbfc94763fbe2'

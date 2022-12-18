@@ -5,3 +5,5 @@ id_nomics: BLKD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLKD2.png
 logoKey: currencies/blkd2.png
 name: BDToken
+platform: ETH
+platform_contract: '0x229418e78EDf6e9b6FF9a74F9Ba611824671B3b1'

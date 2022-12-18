@@ -5,3 +5,5 @@ id_nomics: NST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NST.jpg
 logoKey: currencies/nst.jpg
 name: Newsolution
+platform: ETH
+platform_contract: '0xd89040ac9823b72f64d71f66fa2deae7c8520671'

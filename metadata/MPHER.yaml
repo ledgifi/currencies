@@ -3,3 +3,5 @@ fiat: false
 id: MPHER
 id_nomics: MPHER
 name: mpher
+platform: ETH
+platform_contract: '0x1d292afdcc5b8ba45d461afccdf53bc338dd566e'

@@ -3,3 +3,5 @@ fiat: false
 id: AIM
 id_nomics: AIM
 name: AI Mining
+platform: ETH
+platform_contract: '0x53352e7d6620cc931c0c9318166ae2a92c1a4666'

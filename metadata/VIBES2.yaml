@@ -5,3 +5,5 @@ id_nomics: VIBES2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VIBES2.jpg
 logoKey: currencies/vibes2.jpg
 name: PositiveEnergy
+platform: BNB
+platform_contract: '0xa9aebcd5d821b6ec7ebb77907db0bafd7f7e846c'

@@ -6,3 +6,5 @@ id_nomics: DEXM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEXM.jpg
 logoKey: currencies/dexm.jpg
 name: Dexmex
+platform: ETH
+platform_contract: '0x0020d80229877b495d2bf3269a4c13f6f1e1b9d3'

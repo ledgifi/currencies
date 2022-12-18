@@ -5,3 +5,5 @@ id_nomics: HFI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HFI2.jpg
 logoKey: currencies/hfi2.jpg
 name: Holder Finance
+platform: BNB
+platform_contract: '0x580631f5cf1052c14452990ef1b117375a1c123b'

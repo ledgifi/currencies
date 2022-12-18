@@ -3,3 +3,5 @@ fiat: false
 id: TC01
 id_nomics: TC01
 name: TEST01COIN
+platform: BNB
+platform_contract: '0x68df248fde6160221b6ba3b22ac8406636ba4c05'

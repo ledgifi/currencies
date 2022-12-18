@@ -5,3 +5,5 @@ id_nomics: BTC23
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTC23.jpg
 logoKey: currencies/btc23.jpg
 name: bitcoin2
+platform: BNB
+platform_contract: '0x1e75e3ffecc97e5f8310275018ea5596b70814c3'

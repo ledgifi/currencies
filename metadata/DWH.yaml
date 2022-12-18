@@ -5,3 +5,5 @@ id_nomics: DWH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DWH.jpeg
 logoKey: currencies/dwh.jpeg
 name: Dragon Watch Heroes
+platform: BNB
+platform_contract: '0xfbcb482eaef3b98b02a49e3a19a38c2b9cbf18bf'

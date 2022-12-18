@@ -5,3 +5,5 @@ id_nomics: CTS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTS2.png
 logoKey: currencies/cts2.png
 name: ChainLink Trading Set
+platform: ETH
+platform_contract: '0x57e83505827788c9f92bcfd398a51a7b0c83dd8e'

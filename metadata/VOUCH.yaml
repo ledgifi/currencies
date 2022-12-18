@@ -3,3 +3,5 @@ fiat: false
 id: VOUCH
 id_nomics: VOUCH
 name: Vouch Register
+platform: ETH
+platform_contract: '0x89b2fd135f4a6f09112d7bc92b4ab1f1d062dac1'

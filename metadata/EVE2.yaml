@@ -5,3 +5,5 @@ id_nomics: EVE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVE2.jpg
 logoKey: currencies/eve2.jpg
 name: Evelyn
+platform: BNB
+platform_contract: '0x3c7f214020d014752aa90befdc815dfa7532ab96'

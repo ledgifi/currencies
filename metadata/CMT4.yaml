@@ -5,3 +5,5 @@ id_nomics: CMT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CMT4.jpeg
 logoKey: currencies/cmt4.jpeg
 name: Classmatetoken
+platform: BNB
+platform_contract: '0x25636650992a16a4108349843a022e8329119893'

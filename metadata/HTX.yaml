@@ -5,3 +5,5 @@ id_nomics: HTX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HTX.jpg
 logoKey: currencies/htx.jpg
 name: Huptex
+platform: ETH
+platform_contract: '0x38a0df9a08d18dc06cd91fc7ec94a0acdf28d994'

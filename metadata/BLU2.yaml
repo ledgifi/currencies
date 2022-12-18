@@ -5,3 +5,5 @@ id_nomics: BLU2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLU2.png
 logoKey: currencies/blu2.png
 name: ShortCat
+platform: BNB
+platform_contract: '0x9e5f6f462d87faa28e312fba65b6e6a1e7b940a8'

@@ -6,3 +6,5 @@ id_nomics: METAWAVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAWAVE.png
 logoKey: currencies/metawave.png
 name: MetaWave
+platform: BNB
+platform_contract: '0x09cef64418c72d91c812de997816f51f9867aeb3'

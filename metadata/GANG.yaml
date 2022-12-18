@@ -5,3 +5,5 @@ id_nomics: GANG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GANG.png
 logoKey: currencies/gang.png
 name: GangWarFare
+platform: BNB
+platform_contract: '0x6c024f4b76b8c9ce51285b469690250d30775219'

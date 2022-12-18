@@ -3,3 +3,5 @@ fiat: false
 id: SAFEELON
 id_nomics: SAFEELON
 name: SafeElon
+platform: ETH
+platform_contract: '0x07be1ead7aebee544618bdc688fa3cff09857c32'

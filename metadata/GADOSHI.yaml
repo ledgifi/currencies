@@ -5,3 +5,5 @@ id_nomics: GADOSHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GADOSHI.jpg
 logoKey: currencies/gadoshi.jpg
 name: Gadoshi
+platform: BNB
+platform_contract: '0x619b20c554df4f915173a0f4f34c82e6c2cd944d'

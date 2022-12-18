@@ -5,3 +5,5 @@ id_nomics: TRANQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRANQ.jpg
 logoKey: currencies/tranq.jpg
 name: Tranquil Finance
+platform: HARMONY
+platform_contract: '0xcf1709ad76a79d5a60210f23e81ce2460542a836'

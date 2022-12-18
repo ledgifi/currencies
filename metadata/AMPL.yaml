@@ -6,3 +6,5 @@ id_nomics: AMPL
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/ampl.svg
 logoKey: currencies/ampl.svg
 name: Ampleforth
+platform: ETH
+platform_contract: '0xd46ba6d942050d489dbd938a2c909a5d5039a161'

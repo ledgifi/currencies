@@ -5,3 +5,5 @@ id_nomics: JINDO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JINDO.jpg
 logoKey: currencies/jindo.jpg
 name: JINDO TOKEN
+platform: ETH
+platform_contract: '0x7e717d3b43897af67f9ea3a2281aaa9f3fb09d1c'

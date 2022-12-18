@@ -5,3 +5,5 @@ id_nomics: FREN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FREN2.jpg
 logoKey: currencies/fren2.jpg
 name: FrenCoin
+platform: BNB
+platform_contract: '0x1f8a1efbf6247139fb9cbdb9d4dea34e3d18c20a'

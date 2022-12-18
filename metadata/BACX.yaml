@@ -5,3 +5,5 @@ id_nomics: BACX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BACX.jpg
 logoKey: currencies/bacx.jpg
 name: The Boeing Company Token
+platform: ETH
+platform_contract: '0x709e68ccea223a774f7144c1b04b71c8dad71138'

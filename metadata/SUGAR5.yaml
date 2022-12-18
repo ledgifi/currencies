@@ -5,3 +5,5 @@ id_nomics: SUGAR5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUGAR5.png
 logoKey: currencies/sugar5.png
 name: SugarInvestor
+platform: BNB
+platform_contract: '0x53aa2a62c1fd09990e11e9b7f2521c49efaabe6b'

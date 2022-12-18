@@ -5,3 +5,5 @@ id_nomics: CHUBBIES20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHUBBIES20.png
 logoKey: currencies/chubbies20.png
 name: Chubbies
+platform: ETH
+platform_contract: '0x48bef6bd05bd23b5e6800cf0406e524b517af250'

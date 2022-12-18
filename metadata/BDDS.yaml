@@ -3,3 +3,5 @@ fiat: false
 id: BDDS
 id_nomics: BDDS
 name: DDS.Store
+platform: BNB
+platform_contract: '0x0d41c514436dcb30724796b85e9c07532d07fc45'

@@ -6,3 +6,5 @@ id_nomics: PVU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PVU.jpg
 logoKey: currencies/pvu.jpg
 name: Plant vs Undead Token
+platform: BNB
+platform_contract: '0x31471e0791fcdbe82fbf4c44943255e923f1b794'

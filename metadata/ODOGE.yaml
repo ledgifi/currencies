@@ -3,3 +3,5 @@ fiat: false
 id: ODOGE
 id_nomics: ODOGE
 name: Opal Doge
+platform: ETH
+platform_contract: '0x103d7469a78e20f062459b71a9142574dc30efdb'

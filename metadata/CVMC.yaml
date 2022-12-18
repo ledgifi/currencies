@@ -3,3 +3,5 @@ fiat: false
 id: CVMC
 id_nomics: CVMC
 name: CVM Coin
+platform: BNB
+platform_contract: '0x1fb36080a22c0d61665165e49fe91b577ac4423b'

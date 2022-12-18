@@ -3,3 +3,5 @@ fiat: false
 id: GOLDMEDAL
 id_nomics: GOLDMEDAL
 name: Gold medal
+platform: BNB
+platform_contract: '0x968354515dc77694157d3d438fa6a2b87e2fe338'

@@ -5,3 +5,5 @@ id_nomics: LLYCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LLYCX.jpg
 logoKey: currencies/llycx.jpg
 name: Eli Lilly and Company Token
+platform: ETH
+platform_contract: '0x5f88889c7466212e85bb9a720952abe56f6acc95'

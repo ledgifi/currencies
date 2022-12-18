@@ -6,3 +6,5 @@ id_nomics: RMOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RMOON.jpg
 logoKey: currencies/rmoon.jpg
 name: RocketMoon
+platform: BNB
+platform_contract: '0x78bc22a215c1ef8a2e41fa1c39cd7bdc09bd5174'

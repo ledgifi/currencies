@@ -5,3 +5,5 @@ id_nomics: RVL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RVL.jpg
 logoKey: currencies/rvl.jpg
 name: REVOIL
+platform: ETH
+platform_contract: '0xbadb19c3997b590222e2c917ca8824dcc93368bd'

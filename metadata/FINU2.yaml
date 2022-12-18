@@ -3,3 +3,5 @@ fiat: false
 id: FINU2
 id_nomics: FINU2
 name: Finance Inu
+platform: ETH
+platform_contract: '0x672a36559da223717008c9d0b9971f9a7e7d673b'

@@ -3,3 +3,5 @@ fiat: false
 id: AAD
 id_nomics: AAD
 name: AAD
+platform: BNB
+platform_contract: '0x4579db996e1331fbf91ac56de3a6d70f8663ec0a'

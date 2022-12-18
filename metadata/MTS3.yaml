@@ -5,3 +5,5 @@ id_nomics: MTS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTS3.png
 logoKey: currencies/mts3.png
 name: Metasims
+platform: BNB
+platform_contract: '0x794633d3367bd81bc13ede2a03acbefdc5414edc'

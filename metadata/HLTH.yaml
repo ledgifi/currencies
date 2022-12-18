@@ -5,3 +5,5 @@ id_nomics: HLTH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HLTH.png
 logoKey: currencies/hlth.png
 name: HLTH Token
+platform: AVAX
+platform_contract: '0x0342993a0a3bcff7668578082c3ad17b5277d97d'

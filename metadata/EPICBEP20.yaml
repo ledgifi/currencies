@@ -5,3 +5,5 @@ id_nomics: EPICBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EPICBEP20.jpg
 logoKey: currencies/epicbep20.jpg
 name: Epic Cash (BEP-20)
+platform: BNB
+platform_contract: '0x2cca66321b8f275339e622af66059ef251b38893'

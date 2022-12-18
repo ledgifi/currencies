@@ -5,3 +5,5 @@ id_nomics: SWEET4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWEET4.gif
 logoKey: currencies/sweet4.gif
 name: Honey Token
+platform: ETH
+platform_contract: '0x1fa9f1cbf8c9a4fb3431a5809f31723038ed291b'

@@ -5,3 +5,5 @@ id_nomics: YNDXRUCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YNDXRUCX.jpg
 logoKey: currencies/yndxrucx.jpg
 name: Yandex N.V.
+platform: ETH
+platform_contract: '0x0c4286fbc1ff6b606981a3ffacbf6147d45962e6'

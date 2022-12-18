@@ -3,3 +3,5 @@ fiat: false
 id: YCRVSNOW
 id_nomics: YCRVSNOW
 name: SnowSwap yyCRV/ybCRV
+platform: ETH
+platform_contract: '0x078b728243b975d1a284666c30b30530a8c087fe'

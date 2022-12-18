@@ -3,3 +3,5 @@ fiat: false
 id: OSTRICH
 id_nomics: OSTRICH
 name: Ostrich Coin
+platform: BNB
+platform_contract: '0x99613f189d0ec3d712c5db7c374da879fded0e37'

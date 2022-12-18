@@ -6,3 +6,5 @@ id_nomics: GOHO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOHO.jpeg
 logoKey: currencies/goho.jpeg
 name: GooseHonk
+platform: BNB
+platform_contract: '0x0712bc03807ebacc3a457a7149e7ab3bcd2e8009'

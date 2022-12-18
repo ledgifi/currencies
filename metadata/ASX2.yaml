@@ -5,3 +5,5 @@ id_nomics: ASX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASX2.jpg
 logoKey: currencies/asx2.jpg
 name: Ads Social
+platform: BNB
+platform_contract: '0xc69ec15775aa8be1698893b681f415038dee8339'

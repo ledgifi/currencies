@@ -5,3 +5,5 @@ id_nomics: KBT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KBT2.jpg
 logoKey: currencies/kbt2.jpg
 name: Kombat
+platform: BNB
+platform_contract: '0xab71a86d93f29aa28e4385d87e49e8464e762362'

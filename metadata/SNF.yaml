@@ -3,3 +3,5 @@ fiat: false
 id: SNF
 id_nomics: SNF
 name: SnorFire
+platform: BNB
+platform_contract: '0x0958a1431ba1f9eed89d90cd98e9bea84d997c72'

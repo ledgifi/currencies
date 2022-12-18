@@ -5,3 +5,5 @@ id_nomics: OCTA4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCTA4.jpg
 logoKey: currencies/octa4.jpg
 name: Octarium
+platform: BNB
+platform_contract: '0xf12e889001fe46da337c0848e429708fe259b9b7'

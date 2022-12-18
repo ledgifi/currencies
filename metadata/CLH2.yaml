@@ -5,3 +5,5 @@ id_nomics: CLH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLH2.jpg
 logoKey: currencies/clh2.jpg
 name: ClearDAO
+platform: ETH
+platform_contract: '0xd7d8f3b8bc8bc48d3acc37879eaba7b85889fa52'

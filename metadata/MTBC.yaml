@@ -3,3 +3,5 @@ fiat: false
 id: MTBC
 id_nomics: MTBC
 name: Metabolic
+platform: BNB
+platform_contract: '0x4f6b30c94f19a0aa3c93079c8f40e76af597aa01'

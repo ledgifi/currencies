@@ -5,3 +5,5 @@ id_nomics: APB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APB.jpg
 logoKey: currencies/apb.jpg
 name: Apes Planet BSC
+platform: BNB
+platform_contract: '0x45f77e7b6089f2a6d15c72f83d16227587a3265c'

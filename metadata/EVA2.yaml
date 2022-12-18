@@ -5,3 +5,5 @@ id_nomics: EVA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVA2.jpg
 logoKey: currencies/eva2.jpg
 name: Evanesco Network
+platform: ETH
+platform_contract: '0xd6caf5bd23cf057f5fccce295dcc50c01c198707'

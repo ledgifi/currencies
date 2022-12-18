@@ -3,3 +3,5 @@ fiat: false
 id: WENPAY
 id_nomics: WENPAY
 name: WenPay me
+platform: ETH
+platform_contract: '0x18e19a6ca3ed0c112ba6302250077c2e4f9ddd46'

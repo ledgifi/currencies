@@ -6,3 +6,5 @@ id_nomics: THPC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/thpc.jpg
 logoKey: currencies/thpc.jpg
 name: Texas Hold'em Poker Chain
+platform: ETH
+platform_contract: '0x38a19ba829f192a30ec7e03cda1368c50dad9785'

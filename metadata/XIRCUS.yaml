@@ -6,3 +6,5 @@ id_nomics: XIRCUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XIRCUS.jpg
 logoKey: currencies/xircus.jpg
 name: Xircus
+platform: BNB
+platform_contract: '0x1df2bf8bff0f2a8d67cf84ca55fc9ccc9c3da018'

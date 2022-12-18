@@ -6,3 +6,5 @@ id_nomics: APY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APY.jpg
 logoKey: currencies/apy.jpg
 name: APY.Finance
+platform: ETH
+platform_contract: '0x95a4492f028aa1fd432ea71146b433e7b4446611'

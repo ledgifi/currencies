@@ -5,3 +5,5 @@ id_nomics: SAT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAT3.png
 logoKey: currencies/sat3.png
 name: SatisFinance
+platform: BNB
+platform_contract: '0xa1928c0d8f83c0bfb7ebe51b412b1fd29a277893'

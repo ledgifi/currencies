@@ -5,3 +5,5 @@ id_nomics: F1T2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/F1T2.jpg
 logoKey: currencies/f1t2.jpg
 name: MetaF1 V2
+platform: BNB
+platform_contract: '0x6b5c8775160685c2c6d4b89d6d83fd04262d895b'

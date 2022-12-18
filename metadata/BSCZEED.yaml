@@ -3,3 +3,5 @@ fiat: false
 id: BSCZEED
 id_nomics: BSCZEED
 name: Binance-Peg BSC-ZEED
+platform: BNB
+platform_contract: '0xb2f53069e1555793481aafe639f8e274f4ec8435'

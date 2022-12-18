@@ -6,3 +6,5 @@ id_nomics: MAIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAIN.jpeg
 logoKey: currencies/main.jpeg
 name: MAIN
+platform: BNB
+platform_contract: '0xa5f249f401ba8931899a364d8e2699b5fa1d87a9'

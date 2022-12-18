@@ -5,3 +5,5 @@ id_nomics: FMK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FMK.jpg
 logoKey: currencies/fmk.jpg
 name: Fawkes Mask
+platform: BNB
+platform_contract: '0xc2591d74cc6a0810847add242319d4b43c8e5f09'

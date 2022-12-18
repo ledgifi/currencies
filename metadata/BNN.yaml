@@ -6,3 +6,5 @@ id_nomics: BNN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNN.png
 logoKey: currencies/bnn.png
 name: BrokerNekoNetwork
+platform: ETH
+platform_contract: '0xda80b20038bdf968c7307bb5907a469482cf6251'

@@ -5,3 +5,5 @@ id_nomics: MRJF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MRJF.jpg
 logoKey: currencies/mrjf.jpg
 name: MR Jobs Finder
+platform: BNB
+platform_contract: '0xd3082a3a20522a21a637a2f071f55bdec5465a7c'

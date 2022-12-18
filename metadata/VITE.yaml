@@ -8,3 +8,5 @@ id_nomics: VITE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/vite.png
 logoKey: currencies/vite.png
 name: Vite
+platform: ETH
+platform_contract: '0xadd5e881984783dd432f80381fb52f45b53f3e70'

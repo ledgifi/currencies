@@ -5,3 +5,5 @@ id_nomics: MYL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MYL.jpg
 logoKey: currencies/myl.jpg
 name: My Lotto Coin
+platform: ETH
+platform_contract: '0xc110e8d4d7f4a319a1a8f16ca94b3afde7665595'

@@ -5,3 +5,5 @@ id_nomics: BTCHG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCHG.png
 logoKey: currencies/btchg.png
 name: BITCOINHEDGE
+platform: ETH
+platform_contract: '0x5547136b913b68881596275ace01e9a589c5b16b'

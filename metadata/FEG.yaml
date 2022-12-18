@@ -6,3 +6,5 @@ id_nomics: FEG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FEG.jpg
 logoKey: currencies/feg.jpg
 name: FEG Token
+platform: ETH
+platform_contract: '0x389999216860ab8e0175387a0c90e5c52522c945'

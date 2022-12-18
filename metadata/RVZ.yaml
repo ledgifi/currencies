@@ -6,3 +6,5 @@ id_nomics: RVZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RVZ.jpg
 logoKey: currencies/rvz.jpg
 name: Revoluzion
+platform: BNB
+platform_contract: '0x7d89c67d3c4e72e8c5c64be201dc225f99d16aca'

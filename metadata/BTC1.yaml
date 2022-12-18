@@ -3,3 +3,5 @@ fiat: false
 id: BTC1
 id_nomics: BTC1
 name: 小比特
+platform: HT
+platform_contract: '0x0bb06a29c943902f0759fdef352e7c45708b999c'

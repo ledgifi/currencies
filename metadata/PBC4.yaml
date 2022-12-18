@@ -5,3 +5,5 @@ id_nomics: PBC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PBC4.jpg
 logoKey: currencies/pbc4.jpg
 name: Professional Bidders Coin
+platform: BNB
+platform_contract: '0xF72Fa02b709f3718ab1C72F368Da8683E621BF17'

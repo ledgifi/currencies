@@ -6,3 +6,5 @@ id_nomics: MTP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTP.jpg
 logoKey: currencies/mtp.jpg
 name: MultiPlay
+platform: BNB
+platform_contract: '0xe56f12123c583de823720a603b2dc11d659c12fc'

@@ -3,3 +3,5 @@ fiat: false
 id: HEVC
 id_nomics: HEVC
 name: Hybrid Electric Vehicle Coin
+platform: BNB
+platform_contract: '0x969ecc05150724987f1c8cca76b500ba26ee7f94'

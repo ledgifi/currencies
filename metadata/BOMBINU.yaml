@@ -5,3 +5,5 @@ id_nomics: BOMBINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOMBINU.jpeg
 logoKey: currencies/bombinu.jpeg
 name: BOMB INU
+platform: BNB
+platform_contract: '0xc005f06fc6391582cb1f17398edd6e6dff4d85c4'

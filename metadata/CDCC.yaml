@@ -5,3 +5,5 @@ id_nomics: CDCC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/cdcc.svg
 logoKey: currencies/cdcc.svg
 name: CDCC
+platform: ETH
+platform_contract: '0x78021abd9b06f0456cb9db95a846c302c34f8b8d'

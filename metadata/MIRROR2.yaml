@@ -5,3 +5,5 @@ id_nomics: MIRROR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIRROR2.png
 logoKey: currencies/mirror2.png
 name: Mirror
+platform: ETH
+platform_contract: '0x69d7da5dbd9b38f422e8152c721f0f4db41ffa23'

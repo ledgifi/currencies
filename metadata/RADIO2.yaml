@@ -5,3 +5,5 @@ id_nomics: RADIO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RADIO2.png
 logoKey: currencies/radio2.png
 name: RadioNFT
+platform: BNB
+platform_contract: '0xbc25ed042c79a901529461f6fb7b2c4756cfdeef'

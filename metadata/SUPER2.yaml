@@ -7,3 +7,5 @@ id_nomics: SUPER2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUPER2.jpg
 logoKey: currencies/super2.jpg
 name: SuperFarm
+platform: ETH
+platform_contract: '0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55'

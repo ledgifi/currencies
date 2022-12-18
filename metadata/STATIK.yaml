@@ -5,3 +5,5 @@ id_nomics: STATIK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STATIK.jpg
 logoKey: currencies/statik.jpg
 name: Statik
+platform: AVAX
+platform_contract: '0x97d367a5f900f5c9db4370d0d801fc52332244c7'

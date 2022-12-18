@@ -3,3 +3,5 @@ fiat: false
 id: TULIP
 id_nomics: TULIP
 name: Tulip Token
+platform: BNB
+platform_contract: '0x5dc2a568d6ccc9ca79e83451405fa1d15598e0e4'

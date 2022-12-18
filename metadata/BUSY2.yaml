@@ -5,3 +5,5 @@ id_nomics: BUSY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUSY2.jpg
 logoKey: currencies/busy2.jpg
 name: Busy DAO
+platform: ETH
+platform_contract: '0x5cb3ce6d081fb00d5f6677d196f2d70010ea3f4a'

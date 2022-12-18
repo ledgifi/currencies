@@ -3,3 +3,5 @@ fiat: false
 id: TICKETS
 id_nomics: TICKETS
 name: TickeTs
+platform: BNB
+platform_contract: '0x44718adc33b5f5f3a1015457592f2337fe831f7b'

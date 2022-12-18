@@ -5,3 +5,5 @@ id_nomics: SCO5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCO5.jpg
 logoKey: currencies/sco5.jpg
 name: Secureo Trade
+platform: BNB
+platform_contract: '0x49C86348fE6383c2357a11DD1E75E2f714948454'

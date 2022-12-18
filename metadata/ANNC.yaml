@@ -5,3 +5,5 @@ id_nomics: ANNC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANNC.jpg
 logoKey: currencies/annc.jpg
 name: Annual Coin
+platform: ETH
+platform_contract: '0xbecd1101ca01005227db7954d7609845f19d36b4'

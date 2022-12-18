@@ -5,3 +5,5 @@ id_nomics: HLDBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HLDBEP20.jpg
 logoKey: currencies/hldbep20.jpg
 name: Holdefi (BEP-20)
+platform: BNB
+platform_contract: '0xd520ddbdf81323f4b9a0ea0adbb692ebef6ce280'

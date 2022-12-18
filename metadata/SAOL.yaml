@@ -3,3 +3,5 @@ fiat: false
 id: SAOL
 id_nomics: SAOL
 name: SaolCoin
+platform: BNB
+platform_contract: '0x253c02daac61e05d2554979c1438cf543ff8b85d'

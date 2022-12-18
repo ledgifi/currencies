@@ -5,3 +5,5 @@ id_nomics: SERUMSO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SERUMSO.jpg
 logoKey: currencies/serumso.jpg
 name: Serum (Wormhole)
+platform: ETH
+platform_contract: '0xe3adaa4fb7c92ab833ee08b3561d9c434aa2a3ee'

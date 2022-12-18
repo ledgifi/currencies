@@ -3,3 +3,5 @@ fiat: false
 id: FORTUNECATS
 id_nomics: FORTUNECATS
 name: Fortune Cats
+platform: BNB
+platform_contract: '0x9bc232e6e7657c6ce42a267f905e2b0c06ead66f'

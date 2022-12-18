@@ -3,3 +3,5 @@ fiat: false
 id: TKEY
 id_nomics: TKEY
 name: test key
+platform: BNB
+platform_contract: '0xd0178ee208129152ea44cd84e53626f93647bc6f'

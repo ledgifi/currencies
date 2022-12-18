@@ -5,3 +5,5 @@ id_nomics: LINKETHRSI
 logo: https://set-core.s3.amazonaws.com/img/rebalancing_set_icons/linketh_rsi_ratio.svg
 logoKey: currencies/linkethrsi.svg
 name: Capture Medium Term Trends and Accumulate ETH
+platform: ETH
+platform_contract: '0x8933ea1ce67b946bdf2436ce860ffbb53ce814d2'

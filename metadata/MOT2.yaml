@@ -5,3 +5,5 @@ id_nomics: MOT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOT2.jpg
 logoKey: currencies/mot2.jpg
 name: Mobius Finance (ERC-20)
+platform: ETH
+platform_contract: '0x1E02cdbbA6729B6470de81Ad4D2cCA4c514521b9'

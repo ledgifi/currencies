@@ -6,3 +6,5 @@ id_nomics: RIK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/rik.png
 logoKey: currencies/rik.png
 name: Rik coin
+platform: ETH
+platform_contract: '0xecc3a47f5d0ac33db287d8f9debf03830853cbb9'

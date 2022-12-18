@@ -3,3 +3,5 @@ fiat: false
 id: BITFLOKI
 id_nomics: BITFLOKI
 name: BitFloki
+platform: BNB
+platform_contract: '0x0026535887b09b2fea91c598193f2796f9169edb'

@@ -5,3 +5,5 @@ id_nomics: SHI3LD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHI3LD.png
 logoKey: currencies/shi3ld.png
 name: PolyShield
+platform: MATIC
+platform_contract: '0xf239e69ce434c7fb408b05a0da416b14917d934e'

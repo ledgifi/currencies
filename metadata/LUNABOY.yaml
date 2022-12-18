@@ -5,3 +5,5 @@ id_nomics: LUNABOY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUNABOY.jpg
 logoKey: currencies/lunaboy.jpg
 name: LunaBoy
+platform: BNB
+platform_contract: '0x7F2A6b494AfccD4e742F014bdDB16C506BA492Ee'

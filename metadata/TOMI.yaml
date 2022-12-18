@@ -6,3 +6,5 @@ id_nomics: TOMI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOMI.jpg
 logoKey: currencies/tomi.jpg
 name: TOMI
+platform: MATIC
+platform_contract: '0xcd966b72cff52dc349089b6b6f5865b5743b4e08'

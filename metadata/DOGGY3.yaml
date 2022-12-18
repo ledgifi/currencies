@@ -5,3 +5,5 @@ id_nomics: DOGGY3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGGY3.png
 logoKey: currencies/doggy3.png
 name: Doggy
+platform: ALGO
+platform_contract: '762747160'

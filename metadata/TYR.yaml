@@ -5,3 +5,5 @@ id_nomics: TYR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TYR.jpg
 logoKey: currencies/tyr.jpg
 name: TYR Protocol
+platform: ETH
+platform_contract: '0x853a2f58c888cea0c57204645d21d3a2271e8f79'

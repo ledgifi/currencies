@@ -6,3 +6,5 @@ id_nomics: APN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APN.jpg
 logoKey: currencies/apn.jpg
 name: Apron
+platform: ETH
+platform_contract: '0xd4342a57ecf2fe7ffa37c33cb8f63b1500e575e6'

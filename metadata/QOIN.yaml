@@ -6,3 +6,5 @@ id_nomics: QOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QOIN.png
 logoKey: currencies/qoin.png
 name: Shitqoin
+platform: BNB
+platform_contract: '0xd94fec7f0f389e08974956b1346d667c2d912dc9'

@@ -5,3 +5,5 @@ id_nomics: BBNZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBNZ.jpg
 logoKey: currencies/bbnz.jpg
 name: Baby Beanz
+platform: BNB
+platform_contract: '0x4977b10ddaa3e213869f429407cb70212f14029c'

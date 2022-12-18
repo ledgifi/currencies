@@ -5,3 +5,5 @@ id_nomics: AVE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVE3.jpg
 logoKey: currencies/ave3.jpg
 name: Avefarm
+platform: BNB
+platform_contract: '0x891c2fe01263e1154ef0e4648f4c12d402aa8e3d'

@@ -6,3 +6,5 @@ id_nomics: CXN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CXN.jpg
 logoKey: currencies/cxn.jpg
 name: CXN Network
+platform: ETH
+platform_contract: '0xb48e0f69e6a3064f5498d495f77ad83e0874ab28'

@@ -6,3 +6,5 @@ id_nomics: SQD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SQD.jpeg
 logoKey: currencies/sqd.jpeg
 name: SquidNetGame
+platform: BNB
+platform_contract: '0xb0e1124b480a493e6d4a5c2ee568d0f5c42734ee'

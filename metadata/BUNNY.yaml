@@ -5,3 +5,5 @@ id_nomics: BUNNY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUNNY.png
 logoKey: currencies/bunny.png
 name: BunnyToken
+platform: ETH
+platform_contract: '0x755eb14d2feff2939eb3026f5cad9d03775b9ff4'

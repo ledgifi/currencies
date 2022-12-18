@@ -5,3 +5,5 @@ id_nomics: EGT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EGT3.jpg
 logoKey: currencies/egt3.jpg
 name: Evergreen Token
+platform: BNB
+platform_contract: '0xa865c6cc3a6164c3a0188efeed6f32aba134693c'

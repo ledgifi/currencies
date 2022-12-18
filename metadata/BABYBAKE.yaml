@@ -5,3 +5,5 @@ id_nomics: BABYBAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYBAKE.jpg
 logoKey: currencies/babybake.jpg
 name: BabyBake
+platform: BNB
+platform_contract: '0x4f73b1f7adcf65d0fa744fd49a8d0341f478cd24'

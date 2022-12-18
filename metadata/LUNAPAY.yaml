@@ -3,3 +3,5 @@ fiat: false
 id: LUNAPAY
 id_nomics: LUNAPAY
 name: LUNA PAY
+platform: BNB
+platform_contract: '0xcfbb872c06266c04c44ba1a8bf10a82f738ba6fa'

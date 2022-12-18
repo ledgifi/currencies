@@ -5,3 +5,5 @@ id_nomics: KITTY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KITTY.jpg
 logoKey: currencies/kitty.jpg
 name: Kitty Token
+platform: BNB
+platform_contract: '0x5b4963b964bac5c2db83e53fffe46e0cb83a1346'

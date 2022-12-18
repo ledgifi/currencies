@@ -5,3 +5,5 @@ id_nomics: APH3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APH3.png
 logoKey: currencies/aph3.png
 name: Apecoin Hashrate
+platform: BNB
+platform_contract: '0xB1582E1221D008BF70b8d682d6DbDECb8C2c8822'

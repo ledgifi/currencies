@@ -5,3 +5,5 @@ id_nomics: DANGX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DANGX.png
 logoKey: currencies/dangx.png
 name: DANGX
+platform: ETH
+platform_contract: '0xb22c9f8e45b3e351a955d89d777d2ccf14915268'

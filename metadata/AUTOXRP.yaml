@@ -3,3 +3,5 @@ fiat: false
 id: AUTOXRP
 id_nomics: AUTOXRP
 name: AUTO XRP
+platform: BNB
+platform_contract: '0x37c95e47e527fdfa1df568e86c96c1472767762b'

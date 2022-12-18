@@ -5,3 +5,5 @@ id_nomics: RACE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RACE3.jpg
 logoKey: currencies/race3.jpg
 name: Race
+platform: BNB
+platform_contract: '0x43bda2973141f4b0a17e9c389e2b75dbc8c9fded'

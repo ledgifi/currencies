@@ -5,3 +5,5 @@ id_nomics: GAINFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAINFI.png
 logoKey: currencies/gainfi.png
 name: GainFi
+platform: BNB
+platform_contract: '0x40619b8b6150f184413ae20b8b153831122d798b'

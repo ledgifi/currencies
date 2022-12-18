@@ -3,3 +3,5 @@ fiat: false
 id: LTCMOON
 id_nomics: LTCMOON
 name: 10X Long Litecoin Token
+platform: ETH
+platform_contract: '0x08da69ca2bfe378f384cb76c84d6ded701ec65c7'

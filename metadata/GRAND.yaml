@@ -6,3 +6,5 @@ id_nomics: GRAND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GRAND.jpg
 logoKey: currencies/grand.jpg
 name: The Grand Banks
+platform: BNB
+platform_contract: '0xee814f5b2bf700d2e843dc56835d28d095161dd9'

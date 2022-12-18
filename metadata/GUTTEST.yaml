@@ -3,3 +3,5 @@ fiat: false
 id: GUTTEST
 id_nomics: GUTTEST
 name: GenesisUniverseToken-TEST
+platform: BNB
+platform_contract: '0x497f900adf077bfb4289faecc276159c5964ce50'

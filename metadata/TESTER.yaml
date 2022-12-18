@@ -3,3 +3,5 @@ fiat: false
 id: TESTER
 id_nomics: TESTER
 name: Tester
+platform: ETH
+platform_contract: '0xb5956016988155671faebc0db10f381e92fffb6f'

@@ -5,3 +5,5 @@ id_nomics: XMCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XMCT.jpg
 logoKey: currencies/xmct.jpg
 name: XMED Chain
+platform: ETH
+platform_contract: '0x44449fa4d607f807d1ed4a69ad942971728391c8'

@@ -5,3 +5,5 @@ id_nomics: EDGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EDGE.png
 logoKey: currencies/edge.png
 name: Edge
+platform: ETH
+platform_contract: '0x4ec1b60b96193a64acae44778e51f7bff2007831'

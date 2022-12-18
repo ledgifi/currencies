@@ -5,3 +5,5 @@ id_nomics: MIND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIND.png
 logoKey: currencies/mind.png
 name: MIND
+platform: ETH
+platform_contract: '0x222728c202e7164dfbd127181d46409338c4328e'

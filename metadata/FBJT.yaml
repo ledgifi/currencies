@@ -3,3 +3,5 @@ fiat: false
 id: FBJT
 id_nomics: FBJT
 name: Friendly BJ Token
+platform: BNB
+platform_contract: '0xc1c7303bd3139fc99854480ea0658bd552a7ffa5'

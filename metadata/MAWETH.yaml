@@ -6,3 +6,5 @@ id_nomics: MAWETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAWETH.jpg
 logoKey: currencies/maweth.jpg
 name: Matic Aave Interest Bearing WETH
+platform: MATIC
+platform_contract: '0x20d3922b4a1a8560e1ac99fba4fade0c849e2142'

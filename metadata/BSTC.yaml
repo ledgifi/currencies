@@ -5,3 +5,5 @@ id_nomics: BSTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSTC.jpg
 logoKey: currencies/bstc.jpg
 name: BUSINESS TICKER COIN
+platform: ETH
+platform_contract: '0x77edd08fa155bce573a6a8c015db188152584572'

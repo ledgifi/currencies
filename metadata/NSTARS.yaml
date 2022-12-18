@@ -3,3 +3,5 @@ fiat: false
 id: NSTARS
 id_nomics: NSTARS
 name: Nafstars Tokens
+platform: MATIC
+platform_contract: '0x559f80c6f05322067455def52114109150f5f19c'

@@ -5,3 +5,5 @@ id_nomics: USDS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDS2.jpg
 logoKey: currencies/usds2.jpg
 name: USD Smart
+platform: BNB
+platform_contract: '0x303de4bdb189b951f875eb4a8ecde2985138161e'

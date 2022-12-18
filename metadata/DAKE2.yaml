@@ -5,3 +5,5 @@ id_nomics: DAKE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAKE2.jpg
 logoKey: currencies/dake2.jpg
 name: DogKage
+platform: ETH
+platform_contract: '0xb0aa163e92f0c3b6005d0580cdcc5dd79c42301f'

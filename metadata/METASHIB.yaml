@@ -6,3 +6,5 @@ id_nomics: METASHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METASHIB.jpg
 logoKey: currencies/metashib.jpg
 name: MetaShib Token
+platform: ETH
+platform_contract: '0x181c94a45ed257baf2211d4ff7e1f49a5964134a'

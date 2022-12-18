@@ -5,3 +5,5 @@ id_nomics: HAPPY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HAPPY2.png
 logoKey: currencies/happy2.png
 name: Happy Coin
+platform: BNB
+platform_contract: '0xb0b924c4a31b7d4581a7f78f57cee1e65736be1d'

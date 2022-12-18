@@ -5,3 +5,5 @@ id_nomics: THANOS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THANOS2.jpg
 logoKey: currencies/thanos2.jpg
 name: THANOS
+platform: ETH
+platform_contract: '0xdb0c52980e66ef97ee2ab85f57f86cd53928ac93'

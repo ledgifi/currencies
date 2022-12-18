@@ -5,3 +5,5 @@ id_nomics: BL3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BL3.jpg
 logoKey: currencies/bl3.jpg
 name: Block AI 3.0
+platform: BNB
+platform_contract: '0xc2f61dc1a6a08de490bc9e6ac1ba13af3b2664ca'

@@ -5,3 +5,5 @@ id_nomics: ASNXV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASNXV2.jpg
 logoKey: currencies/asnxv2.jpg
 name: Aave SNX
+platform: ETH
+platform_contract: '0x35f6b052c598d933d69a4eec4d04c73a191fe6c2'

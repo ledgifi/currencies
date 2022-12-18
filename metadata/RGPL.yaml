@@ -3,3 +3,5 @@ fiat: false
 id: RGPL
 id_nomics: RGPL
 name: Rug Pool
+platform: ETH
+platform_contract: '0xb5fa135f44e201458287277eeee8aef475ab82c5'

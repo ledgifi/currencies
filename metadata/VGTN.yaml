@@ -5,3 +5,5 @@ id_nomics: VGTN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VGTN.jpg
 logoKey: currencies/vgtn.jpg
 name: VideoGamesToken
+platform: ETH
+platform_contract: '0xb52fc0f17df38ad76f290467aab57cabaeeada14'

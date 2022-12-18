@@ -5,3 +5,5 @@ id_nomics: TFBX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TFB.png
 logoKey: currencies/tfbx.png
 name: Truefeedback
+platform: ETH
+platform_contract: '0x4057db5bd9f67a566aa10e5587b1a964affc6a16'

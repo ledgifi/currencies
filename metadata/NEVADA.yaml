@@ -6,3 +6,5 @@ id_nomics: NEVADA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEVADA.jpg
 logoKey: currencies/nevada.jpg
 name: Nevada
+platform: BNB
+platform_contract: '0x52cf099d7c891951eace3e99abc580bda26912fc'

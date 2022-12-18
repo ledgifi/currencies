@@ -3,3 +3,5 @@ fiat: false
 id: DEGS
 id_nomics: DEGS
 name: DE Generations
+platform: ETH
+platform_contract: '0x5b7e14dd815f92f74cd5cfa2af688c51751b46bb'

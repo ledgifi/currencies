@@ -6,3 +6,5 @@ id_nomics: TYT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TYT.png
 logoKey: currencies/tyt.png
 name: Tianya Token
+platform: ETH
+platform_contract: '0x614fd8f06ce4d93aa2361b342c86554eb5cb39f1'

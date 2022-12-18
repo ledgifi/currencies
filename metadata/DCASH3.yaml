@@ -5,3 +5,5 @@ id_nomics: DCASH3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DCASH3.png
 logoKey: currencies/dcash3.png
 name: Dogecoin Cash
+platform: BNB
+platform_contract: '0x58D50C8aD537E2b2f4d32Ad1aeC9BC83f9271A97'

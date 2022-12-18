@@ -5,3 +5,5 @@ id_nomics: SPO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPO2.jpg
 logoKey: currencies/spo2.jpg
 name: Spores
+platform: ETH
+platform_contract: '0xcbe771323587ea16dacb6016e269d7f08a7acc4e'

@@ -3,3 +3,5 @@ fiat: false
 id: LAND2
 id_nomics: LAND2
 name: LAND Token
+platform: ETH
+platform_contract: '0x96c520a79bf62c955eaa044f600f67e3ecfeff52'

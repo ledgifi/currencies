@@ -5,3 +5,5 @@ id_nomics: BAMBOO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAMBOO2.jpg
 logoKey: currencies/bamboo2.jpg
 name: BambooDeFi (ERC-20)
+platform: ETH
+platform_contract: '0xf56842af3b56fd72d17cb103f92d027bba912e89'

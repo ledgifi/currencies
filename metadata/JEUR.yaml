@@ -5,3 +5,5 @@ id_nomics: JEUR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JEUR.jpg
 logoKey: currencies/jeur.jpg
 name: Jarvis Synthetic Euro
+platform: ETH
+platform_contract: '0x0f17bc9a994b87b5225cfb6a2cd4d667adb4f20b'

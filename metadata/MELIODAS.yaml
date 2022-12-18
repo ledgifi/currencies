@@ -6,3 +6,5 @@ id_nomics: MELIODAS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MELIODAS.jpg
 logoKey: currencies/meliodas.jpg
 name: Meliodas
+platform: ETH
+platform_contract: '0xebb3ca3babd51afcd7e0968571874567de02af5c'

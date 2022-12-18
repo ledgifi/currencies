@@ -3,3 +3,5 @@ fiat: false
 id: CHAINSCAN
 id_nomics: CHAINSCAN
 name: Chain Scan
+platform: ARBETH
+platform_contract: '0x6e9c4034a898d930c0f72595f0382d4a53c98eea'

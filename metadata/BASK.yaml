@@ -6,3 +6,5 @@ id_nomics: BASK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BASK.jpg
 logoKey: currencies/bask.jpg
 name: BasketDAO
+platform: ETH
+platform_contract: '0x44564d0bd94343f72e3c8a0d22308b7fa71db0bb'

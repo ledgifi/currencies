@@ -5,3 +5,5 @@ id_nomics: BDEU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BDEU.png
 logoKey: currencies/bdeu.png
 name: Blindex Euro
+platform: RBTC
+platform_contract: '0x99ac494badd0cba26143bd423e39a088591c7b09'

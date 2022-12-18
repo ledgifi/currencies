@@ -6,3 +6,5 @@ id_nomics: PNODE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PNODE.jpg
 logoKey: currencies/pnode.jpg
 name: Pinknode
+platform: ETH
+platform_contract: '0xaf691508ba57d416f895e32a1616da1024e882d2'

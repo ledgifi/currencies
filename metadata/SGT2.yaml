@@ -5,3 +5,5 @@ id_nomics: SGT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SGT2.jpg
 logoKey: currencies/sgt2.jpg
 name: SharedStake Governance V1 (OLD)
+platform: ETH
+platform_contract: '0x84810bcf08744d5862b8181f12d17bfd57d3b078'

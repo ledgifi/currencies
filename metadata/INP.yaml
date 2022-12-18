@@ -3,3 +3,5 @@ fiat: false
 id: INP
 id_nomics: INP
 name: InfinityPool
+platform: BNB
+platform_contract: '0xa1b0a232dfdd81bcec5c5623c0604ab0ec38daf4'

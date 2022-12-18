@@ -5,3 +5,5 @@ id_nomics: AMZNCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMZNCX.jpg
 logoKey: currencies/amzncx.jpg
 name: Amazon.com, Inc. Token
+platform: ETH
+platform_contract: '0xd6a073d973f95b7ce2ecf2b19224fa12103cf460'

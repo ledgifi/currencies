@@ -6,3 +6,5 @@ id_nomics: DOK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOK.png
 logoKey: currencies/dok.png
 name: DOK Token
+platform: BNB
+platform_contract: '0xd3424caaf6552647e0c5d27c217c6794c9e39022'

@@ -5,3 +5,5 @@ id_nomics: BOO7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOO7.jpg
 logoKey: currencies/boo7.jpg
 name: Boo Inu
+platform: ETH
+platform_contract: '0xb000000001b0f298442607acfe543b3981c7eaa0'

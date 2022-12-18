@@ -3,3 +3,5 @@ fiat: false
 id: CFAST
 id_nomics: CFAST
 name: Coin fastest alert
+platform: BNB
+platform_contract: '0x6fd852c86a41bf0607c8ed9fcc42965afdee699d'

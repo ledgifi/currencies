@@ -6,3 +6,5 @@ id_nomics: REL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REL.jpg
 logoKey: currencies/rel.jpg
 name: RELEASE
+platform: ETH
+platform_contract: '0x61bfc979ea8160ede9b862798b7833a97bafa02a'

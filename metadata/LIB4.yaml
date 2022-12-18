@@ -3,3 +3,5 @@ fiat: false
 id: LIB4
 id_nomics: LIB4
 name: Libcoin
+platform: ETH
+platform_contract: '0x195e1d3cdae91b17fdf7f5276addf258ed9afbc4'

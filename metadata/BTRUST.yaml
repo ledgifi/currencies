@@ -3,3 +3,5 @@ fiat: false
 id: BTRUST
 id_nomics: BTRUST
 name: Bit Trust
+platform: BNB
+platform_contract: '0x42ec07d92101725d0725b617fd6985bfc39a59ad'

@@ -6,3 +6,5 @@ id_nomics: TRDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRDT.png
 logoKey: currencies/trdt.png
 name: Trident Group
+platform: ETH
+platform_contract: '0x33f90dee07c6e8b9682dd20f73e6c358b2ed0f03'

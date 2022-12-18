@@ -3,3 +3,5 @@ fiat: false
 id: KYCOIN
 id_nomics: KYCOIN
 name: KYCoin
+platform: HT
+platform_contract: '0x36541a42e406490edd83b8fb9830594f127f842b'

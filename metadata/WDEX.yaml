@@ -5,3 +5,5 @@ id_nomics: WDEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WDEX.png
 logoKey: currencies/wdex.png
 name: Windex
+platform: BNB
+platform_contract: '0x5106b6165d4ce323ede6ac821dbcf83494e5d4c3'

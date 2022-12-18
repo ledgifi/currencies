@@ -3,3 +3,5 @@ fiat: false
 id: GBY
 id_nomics: GBY
 name: GB Coin
+platform: BNB
+platform_contract: '0x0e3731a5ca62d70ed0d4cdde0c1b666918110799'

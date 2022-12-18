@@ -5,3 +5,5 @@ id_nomics: KNVOY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KNVOY.jpeg
 logoKey: currencies/knvoy.jpeg
 name: Knvoy
+platform: BNB
+platform_contract: '0x83eb957d32d08c206a61b8ecbd0bf29ac54e42a1'

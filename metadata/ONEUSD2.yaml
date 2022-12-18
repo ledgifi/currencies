@@ -3,3 +3,5 @@ fiat: false
 id: ONEUSD2
 id_nomics: ONEUSD2
 name: GetThisTokenToOneDollar
+platform: BNB
+platform_contract: '0x297c9f803fdd941c1fd96246852e120929fa8f22'

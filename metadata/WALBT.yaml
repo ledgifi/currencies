@@ -4,3 +4,5 @@ id: WALBT
 id_coinpaprika: walbt-wrapped-allianceblock-token
 id_nomics: WALBT
 name: Wrapped AllianceBlock Token
+platform: BNB
+platform_contract: '0x42f3008f6945f052c31e7680f7f78c512099b904'

@@ -5,3 +5,5 @@ id_nomics: APNET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APNET.jpeg
 logoKey: currencies/apnet.jpeg
 name: Ape Network
+platform: BNB
+platform_contract: '0xf499b414a3a559e058f58c87c43c2d2341109577'

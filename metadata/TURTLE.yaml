@@ -5,3 +5,5 @@ id_nomics: TURTLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TURTLE.jpg
 logoKey: currencies/turtle.jpg
 name: Turtle Token
+platform: ETH
+platform_contract: '0xf3afdc2525568ffe743801c8c54bdea1704c9adb'

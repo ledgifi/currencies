@@ -6,3 +6,5 @@ id_nomics: XSLR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XSLR.jpg
 logoKey: currencies/xslr.jpg
 name: NovaXSolar
+platform: AVAX
+platform_contract: '0xe6ee049183b474ecf7704da3f6f555a1dcaf240f'

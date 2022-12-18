@@ -5,3 +5,5 @@ id_nomics: ZUKI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZUKI2.jpg
 logoKey: currencies/zuki2.jpg
 name: Zuki Moba
+platform: BNB
+platform_contract: '0xe81257d932280ae440b17afc5f07c8a110d21432'

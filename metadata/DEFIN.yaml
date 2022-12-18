@@ -5,3 +5,5 @@ id_nomics: DEFIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEFIN.png
 logoKey: currencies/defin.png
 name: Definance
+platform: BNB
+platform_contract: '0x73852c2259fa6ff1ce268aab081e660c651be9e1'

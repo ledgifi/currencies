@@ -3,3 +3,5 @@ fiat: false
 id: SETHOP
 id_nomics: SETHOP
 name: Synth sETH (Optimism)
+platform: OPETH
+platform_contract: '0xe405de8f52ba7559f9df3c368500b6e6ae6cee49'

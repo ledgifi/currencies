@@ -5,3 +5,5 @@ id_nomics: MMSCBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MMSCBEP20.jpg
 logoKey: currencies/mmscbep20.jpg
 name: MMS Coin (BEP-20)
+platform: BNB
+platform_contract: '0x67db74b6d1ea807cb47248489c99d144323d348d'

@@ -5,3 +5,5 @@ id_nomics: STONKS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STONKS2.png
 logoKey: currencies/stonks2.png
 name: Stonks V2
+platform: BNB
+platform_contract: '0xc2973496e7c568d6eecbf1d4234a24aa2fd71bd8'

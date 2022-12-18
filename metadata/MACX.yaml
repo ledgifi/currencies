@@ -5,3 +5,5 @@ id_nomics: MACX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MACX.jpg
 logoKey: currencies/macx.jpg
 name: Mastercard Incorporated Token
+platform: ETH
+platform_contract: '0x3a50bd419e88b07d7a27eb0b79e691c7350fc54c'

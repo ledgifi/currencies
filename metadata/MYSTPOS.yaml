@@ -3,3 +3,5 @@ fiat: false
 id: MYSTPOS
 id_nomics: MYSTPOS
 name: Mysterium (Polygon)
+platform: MATIC
+platform_contract: '0x1379e8886a944d2d9d440b3d88df536aea08d9f3'

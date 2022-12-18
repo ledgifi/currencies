@@ -5,3 +5,5 @@ id_nomics: BSHIB3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSHIB3.jpeg
 logoKey: currencies/bshib3.jpeg
 name: Black Shiba
+platform: BNB
+platform_contract: '0x1f625a09f8073bfb136a599d43b134960eb5251b'

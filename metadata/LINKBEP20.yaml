@@ -5,3 +5,5 @@ id_nomics: LINKBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LINKBEP20.jpg
 logoKey: currencies/linkbep20.jpg
 name: ChainLink (BEP-20)
+platform: BNB
+platform_contract: '0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd'

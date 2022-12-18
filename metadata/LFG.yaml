@@ -6,3 +6,5 @@ id_nomics: LFG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LFG.jpg
 logoKey: currencies/lfg.jpg
 name: Low Float Gem
+platform: ETH
+platform_contract: '0xdb7a1a851a2977a6f2ba064b2b76a0f79e5ca587'

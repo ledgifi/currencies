@@ -3,3 +3,5 @@ fiat: false
 id: BNW
 id_nomics: BNW
 name: BitNetwork
+platform: ETH
+platform_contract: '0xf52b2237418f59e4ae3184d8cd7780c9b2f11b36'

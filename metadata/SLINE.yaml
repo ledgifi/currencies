@@ -3,3 +3,5 @@ fiat: false
 id: SLINE
 id_nomics: SLINE
 name: Security Line
+platform: ETH
+platform_contract: '0xc7b437b53950fefad385be085cd2c7cad607e263'

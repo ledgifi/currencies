@@ -3,3 +3,5 @@ fiat: false
 id: HSTC
 id_nomics: HSTC
 name: Heist Coin
+platform: BNB
+platform_contract: '0x2b926d6c0c985af2e19d14b9469e095c4b66aa55'

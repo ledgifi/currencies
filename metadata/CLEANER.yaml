@@ -5,3 +5,5 @@ id_nomics: CLEANER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLEANER.png
 logoKey: currencies/cleaner.png
 name: Cleaner Earth Token
+platform: ETH
+platform_contract: '0xdc28c25c345ec21c2af50d42a4fce6e8caeaa514'

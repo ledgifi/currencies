@@ -3,3 +3,5 @@ fiat: false
 id: WFS
 id_nomics: WFS
 name: WallStreet Finance
+platform: BNB
+platform_contract: '0x0a06a57841bf4506792d87ddadc11b3113b2c2e1'

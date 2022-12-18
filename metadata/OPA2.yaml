@@ -5,3 +5,5 @@ id_nomics: OPA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OPA2.jpg
 logoKey: currencies/opa2.jpg
 name: BitUnits Europa
+platform: ETC
+platform_contract: '0xeceadbb8441aa28b76d8c756ee873ac574068204'

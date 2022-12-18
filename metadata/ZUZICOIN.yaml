@@ -3,3 +3,5 @@ fiat: false
 id: ZUZICOIN
 id_nomics: ZUZICOIN
 name: Zuzicoin
+platform: BNB
+platform_contract: '0x61e51515116af748247c635c552152bd45c66e2a'

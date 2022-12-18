@@ -5,3 +5,5 @@ id_nomics: COCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COCOIN.jpg
 logoKey: currencies/cocoin.jpg
 name: Cocoin
+platform: BNB
+platform_contract: '0x9ffafc014832b803aaaab0d2e4d9c127eca0e034'

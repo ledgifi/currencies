@@ -6,3 +6,5 @@ id_nomics: ESHARE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ESHARE.jpg
 logoKey: currencies/eshare.jpg
 name: EverShare
+platform: ETH
+platform_contract: '0xdf417064dea8f3df1d105b0498429eb00cc732a6'

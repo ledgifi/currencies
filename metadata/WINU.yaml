@@ -5,3 +5,5 @@ id_nomics: WINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WINU.jpeg
 logoKey: currencies/winu.jpeg
 name: Wine Inu
+platform: BNB
+platform_contract: '0x42c1613dd2236cfd60b5cbec846b5ead71be99df'

@@ -5,3 +5,5 @@ id_nomics: BDB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BDB.jpg
 logoKey: currencies/bdb.jpg
 name: Big Data Business
+platform: ETH
+platform_contract: '0xb693364be3576ec59a1867d23f32362382f762ac'

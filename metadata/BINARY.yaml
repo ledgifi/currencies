@@ -3,3 +3,5 @@ fiat: false
 id: BINARY
 id_nomics: BINARY
 name: Matrix 101
+platform: ETH
+platform_contract: '0x222f55e0efe33c4a2a4cec7ec1a0eacecc3a7619'

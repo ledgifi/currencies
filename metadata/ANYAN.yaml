@@ -6,3 +6,5 @@ id_nomics: ANYAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANYAN.jpg
 logoKey: currencies/anyan.jpg
 name: AvaNyan
+platform: AVAX
+platform_contract: '0xf54501fbc97d5cb9c8b96480996a397e07516b2e'

@@ -6,3 +6,5 @@ id_nomics: HAND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/hand.jpg
 logoKey: currencies/hand.jpg
 name: ShowHand
+platform: ETH
+platform_contract: '0x48c1b2f3efa85fbafb2ab951bf4ba860a08cdbb7'

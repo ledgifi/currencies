@@ -6,3 +6,5 @@ id_nomics: MAID
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/maid.svg
 logoKey: currencies/maid.svg
 name: MaidSafeCoin
+platform: ETH
+platform_contract: '0x4af698b479d0098229dc715655c667ceb6cd8433'

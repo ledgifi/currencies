@@ -6,3 +6,5 @@ id_nomics: RCCC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RCCC.png
 logoKey: currencies/rccc.png
 name: RCCC
+platform: ETH
+platform_contract: '0x33bfd20660eeaf952e8d5bc3236e1918701f17d0'

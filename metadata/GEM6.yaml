@@ -5,3 +5,5 @@ id_nomics: GEM6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GEM6.jpg
 logoKey: currencies/gem6.jpg
 name: NFTmall
+platform: BNB
+platform_contract: '0xbac1df744df160877cdc45e13d0394c06bc388ff'

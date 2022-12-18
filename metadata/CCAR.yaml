@@ -6,3 +6,5 @@ id_nomics: CCAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CCAR.jpg
 logoKey: currencies/ccar.jpg
 name: CryptoCars
+platform: BNB
+platform_contract: '0x50332bdca94673f33401776365b66cc4e81ac81d'

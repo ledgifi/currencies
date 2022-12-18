@@ -5,3 +5,5 @@ id_nomics: HASHSWAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HASHSWAP.jpg
 logoKey: currencies/hashswap.jpg
 name: HashSwap
+platform: BNB
+platform_contract: '0x2b47f80fcb04556937179625543a1811b95724ea'

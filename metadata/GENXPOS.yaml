@@ -5,3 +5,5 @@ id_nomics: GENXPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GENXPOS.jpg
 logoKey: currencies/genxpos.jpg
 name: GENX (Polygon)
+platform: MATIC
+platform_contract: '0x3ecdeb8fc5023839b92b0c293d049d61069e02b1'

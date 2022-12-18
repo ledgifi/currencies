@@ -5,3 +5,5 @@ id_nomics: BLOWF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLOWF.jpg
 logoKey: currencies/blowf.jpg
 name: BlowFish
+platform: BNB
+platform_contract: '0xa55bb91de33b4abdf3ac64913d98a55ad84dc3a8'

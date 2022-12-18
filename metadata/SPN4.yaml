@@ -3,3 +3,5 @@ fiat: false
 id: SPN4
 id_nomics: SPN4
 name: Sportzchain
+platform: ETH
+platform_contract: '0x32ea3dc70e2962334864a9665254d2433e4ddbfd'

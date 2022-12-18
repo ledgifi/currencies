@@ -5,3 +5,5 @@ id_nomics: DEPLOY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEPLOY2.jpg
 logoKey: currencies/deploy2.jpg
 name: DeployerInu
+platform: BNB
+platform_contract: '0xc3b2ef5abbb588a3174069bf8c36359a9324a094'

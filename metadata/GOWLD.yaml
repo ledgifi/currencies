@@ -3,3 +3,5 @@ fiat: false
 id: GOWLD
 id_nomics: GOWLD
 name: GOWLD
+platform: ETH
+platform_contract: '0x82d3829d97fc2d9987f7ce966486e86bd04716d5'

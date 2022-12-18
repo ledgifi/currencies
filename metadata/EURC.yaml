@@ -3,3 +3,5 @@ fiat: false
 id: EURC
 id_nomics: EURC
 name: Europa Cake
+platform: BNB
+platform_contract: '0xe79dd5d65a7ae4daba58d3380e1956b46aa0b4f0'

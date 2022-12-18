@@ -5,3 +5,5 @@ id_nomics: LINKFTM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LINKFTM.png
 logoKey: currencies/linkftm.png
 name: ChainLink (Fantom)
+platform: FTM
+platform_contract: '0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8'

@@ -5,3 +5,5 @@ id_nomics: SFT7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFT7.png
 logoKey: currencies/sft7.png
 name: Scefundtoken
+platform: BNB
+platform_contract: '0x990eb680a8c5a86de6f81e20b5c19d206b53e0a1'

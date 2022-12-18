@@ -6,3 +6,5 @@ id_nomics: DAO1
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAO1.jpg
 logoKey: currencies/dao1.jpg
 name: DAO1
+platform: ETH
+platform_contract: '0xce3f6f6672616c39d8b6858f8dac9902eca42c84'

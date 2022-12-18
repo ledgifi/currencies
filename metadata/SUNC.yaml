@@ -6,3 +6,5 @@ id_nomics: SUNC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUNC.png
 logoKey: currencies/sunc.png
 name: SunChain
+platform: ETH
+platform_contract: '0x6b0d7b8357bb851de9f1953199c39c7bc4675796'

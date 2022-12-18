@@ -5,3 +5,5 @@ id_nomics: BECH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BECH2.jpeg
 logoKey: currencies/bech2.jpeg
 name: BabyEchelon
+platform: BNB
+platform_contract: '0x57d26c950aa7dd302d583fea983805b4ba146f52'

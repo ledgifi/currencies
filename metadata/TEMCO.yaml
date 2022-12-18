@@ -6,3 +6,5 @@ id_nomics: TEMCO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TEMCO.jpg
 logoKey: currencies/temco.jpg
 name: TEMCO
+platform: ETH
+platform_contract: '0x2fc246aa66f0da5bb1368f688548ecbbe9bdee5d'

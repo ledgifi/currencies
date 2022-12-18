@@ -5,3 +5,5 @@ id_nomics: BABYCATGIRL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYCATGIRL.jpg
 logoKey: currencies/babycatgirl.jpg
 name: BabyCatGirl
+platform: BNB
+platform_contract: '0x22ee49aa40f33ac7dbc3d67de2eb3c2c40e2c5ea'

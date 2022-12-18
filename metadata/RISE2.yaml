@@ -5,3 +5,5 @@ id_nomics: RISE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RISE2.png
 logoKey: currencies/rise2.png
 name: Rise Protocol
+platform: ETH
+platform_contract: '0x3fa807b6f8d4c407e6e605368f4372d14658b38c'

@@ -5,3 +5,5 @@ id_nomics: ALPHACON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALPHACON.png
 logoKey: currencies/alphacon.png
 name: Alphacon
+platform: ETH
+platform_contract: '0x454b9f249bc1492ee995793bbc3e57b830f1a5e9'

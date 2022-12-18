@@ -5,3 +5,5 @@ id_nomics: HDR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HDR.png
 logoKey: currencies/hdr.png
 name: Hedger
+platform: ETH
+platform_contract: '0x52494fbffe10f8c29411521040ae8618c334981e'

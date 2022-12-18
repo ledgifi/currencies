@@ -5,3 +5,5 @@ id_nomics: BPI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BPI.jpg
 logoKey: currencies/bpi.jpg
 name: Baby Pi Network
+platform: BNB
+platform_contract: '0x2bb991638681049d76d51a059edaf963239e1c0f'

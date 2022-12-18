@@ -5,3 +5,5 @@ id_nomics: WET3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WET3.png
 logoKey: currencies/wet3.png
 name: Weble Ecosystem Token
+platform: AVAX
+platform_contract: '0xb1466d4cf0dcfc0bcddcf3500f473cdacb88b56d'

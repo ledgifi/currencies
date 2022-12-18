@@ -3,3 +3,5 @@ fiat: false
 id: ETHUSDC
 id_nomics: ETHUSDC
 name: USD Coin on Elastos
+platform: ELA
+platform_contract: '0xa06be0f5950781ce28d965e5efc6996e88a8c141'

@@ -6,3 +6,5 @@ id_nomics: JED
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JED.jpeg
 logoKey: currencies/jed.jpeg
 name: JedStar
+platform: BNB
+platform_contract: '0x058a7af19bdb63411d0a84e79e3312610d7fa90c'

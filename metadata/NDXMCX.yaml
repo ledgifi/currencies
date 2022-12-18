@@ -5,3 +5,5 @@ id_nomics: NDXMCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NDXMCX.jpg
 logoKey: currencies/ndxmcx.jpg
 name: Nasdaq 100 Index Token
+platform: ETH
+platform_contract: '0x3299842aa08b85c5c68dd432f2e7922eef60eee8'

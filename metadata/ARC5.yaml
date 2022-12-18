@@ -5,3 +5,5 @@ id_nomics: ARC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARC5.jpeg
 logoKey: currencies/arc5.jpeg
 name: ARC
+platform: BNB
+platform_contract: '0x0f253780507e5150e55122c0d76fcfe45c4ef0d0'

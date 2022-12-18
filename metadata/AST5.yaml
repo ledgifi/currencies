@@ -5,3 +5,5 @@ id_nomics: AST5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AST5.png
 logoKey: currencies/ast5.png
 name: Assets Swap
+platform: BNB
+platform_contract: '0xc95eec280a392820e9bc332b71fdd35d646f5302'

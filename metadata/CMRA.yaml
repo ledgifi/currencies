@@ -5,3 +5,5 @@ id_nomics: CMRA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CMRA.png
 logoKey: currencies/cmra.png
 name: Chimera
+platform: ETH
+platform_contract: '0x37737ad7e32ed440c312910cfc4a2e4d52867caf'

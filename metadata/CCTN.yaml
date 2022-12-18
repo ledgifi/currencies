@@ -3,3 +3,5 @@ fiat: false
 id: CCTN
 id_nomics: CCTN
 name: Connectchain
+platform: ETH
+platform_contract: '0x3eeeae101ee289a3bcfd6b9c31a7784315684090'

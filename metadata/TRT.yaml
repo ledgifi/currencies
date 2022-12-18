@@ -3,3 +3,5 @@ fiat: false
 id: TRT
 id_nomics: TRT
 name: Taurus Chain
+platform: ETH
+platform_contract: '0x32054526df40fbb08b733abe256a8d21de58432d'

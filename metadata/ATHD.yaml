@@ -5,3 +5,5 @@ id_nomics: ATHD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATHD.jpg
 logoKey: currencies/athd.jpg
 name: ATH Games
+platform: BNB
+platform_contract: '0x632a21a913a4b59b561b999cf473109e37e87b39'

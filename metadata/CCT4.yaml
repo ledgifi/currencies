@@ -5,3 +5,5 @@ id_nomics: CCT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CCT4.png
 logoKey: currencies/cct4.png
 name: Carousel Coin
+platform: BNB
+platform_contract: '0x029882509EB133A7F1d416133FcA689b55c1bB8F'

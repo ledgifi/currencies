@@ -6,3 +6,5 @@ id_nomics: BLANC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLANC.jpg
 logoKey: currencies/blanc.jpg
 name: Blanc
+platform: AVAX
+platform_contract: '0xf481eec738c46f675e077ee966a680a19210af11'

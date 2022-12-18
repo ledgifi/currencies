@@ -5,3 +5,5 @@ id_nomics: CHEEMSVAULT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHEEMSVAULT.jpeg
 logoKey: currencies/cheemsvault.jpeg
 name: Cheemsvault
+platform: BNB
+platform_contract: '0xe29e330bcf48df1ce451245fcff14e26e009a9d6'

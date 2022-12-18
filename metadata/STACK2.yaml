@@ -3,3 +3,5 @@ fiat: false
 id: STACK2
 id_nomics: STACK2
 name: StackToken
+platform: ETH
+platform_contract: '0x1bbb57def2f6192f0b9b8565f49034bf1fcdb604'

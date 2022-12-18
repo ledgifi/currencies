@@ -5,3 +5,5 @@ id_nomics: MHOKK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MHOKK2.jpg
 logoKey: currencies/mhokk2.jpg
 name: MiniHokk
+platform: BNB
+platform_contract: '0x47aba69224cbd869e10cc6bda10ea62d363b18a6'

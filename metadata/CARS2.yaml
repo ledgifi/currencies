@@ -5,3 +5,5 @@ id_nomics: CARS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CARS2.jpg
 logoKey: currencies/cars2.jpg
 name: Crypto Cars World
+platform: BNB
+platform_contract: '0x1228fb5ef4c98cabd696ba1bd4819e050389d21a'

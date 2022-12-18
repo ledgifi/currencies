@@ -5,3 +5,5 @@ id_nomics: DOGE69
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGE69.png
 logoKey: currencies/doge69.png
 name: DOGE69
+platform: MATIC
+platform_contract: '0x9374b8A848435637e9eBC2aC88904Ff829C4037f'

@@ -3,3 +3,5 @@ fiat: false
 id: INVENT
 id_nomics: INVENT
 name: INVENT Protocol
+platform: ETH
+platform_contract: '0x42707e709daee0eb5273b79aad755c5f18309adf'

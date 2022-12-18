@@ -6,3 +6,5 @@ id_nomics: LCRT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LCRT.png
 logoKey: currencies/lcrt.png
 name: LUCRE
+platform: ETH
+platform_contract: '0xbfd4c175606ab6e8d1e32d029d8c010a9bf4bd36'

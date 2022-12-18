@@ -3,3 +3,5 @@ fiat: false
 id: SAFESHIBA
 id_nomics: SAFESHIBA
 name: Safe Shiba
+platform: ARBETH
+platform_contract: '0x13785d0265eab57c80e99596589cd12c21d620d5'

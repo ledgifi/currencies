@@ -5,3 +5,5 @@ id_nomics: CREED
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CREED.jpg
 logoKey: currencies/creed.jpg
 name: Creed Finance
+platform: ETH
+platform_contract: '0x675e7d927af7e6d0082e0153dc3485b687a6f0ad'

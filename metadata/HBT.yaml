@@ -6,3 +6,5 @@ id_nomics: HBT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/hbt.jpg
 logoKey: currencies/hbt.jpg
 name: Hubii Network
+platform: ETH
+platform_contract: '0xdd6c68bb32462e01705011a4e2ad1a60740f217f'

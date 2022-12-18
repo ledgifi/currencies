@@ -6,3 +6,5 @@ id_nomics: D2D
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/D2D.jpg
 logoKey: currencies/d2d.jpg
 name: Prime
+platform: ETH
+platform_contract: '0x43d4a3cd90ddd2f8f4f693170c9c8098163502ad'

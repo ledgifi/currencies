@@ -5,3 +5,5 @@ id_nomics: SHIBPUP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBPUP.jpg
 logoKey: currencies/shibpup.jpg
 name: ShibPup
+platform: ETH
+platform_contract: '0x289fab59e40e06418c3eaf3c62ea557466483db4'

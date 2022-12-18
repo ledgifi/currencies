@@ -5,3 +5,5 @@ id_nomics: TAZOR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TAZOR.png
 logoKey: currencies/tazor.png
 name: TAZOR
+platform: BNB
+platform_contract: '0xee65d8b88f86ace0f7ba42ba2d2c679b6f604bf0'

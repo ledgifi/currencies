@@ -5,3 +5,5 @@ id_nomics: GPYX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GPYX2.jpg
 logoKey: currencies/gpyx2.jpg
 name: GpyxToken
+platform: ETH
+platform_contract: '0x3e3cda3218212503883c79f6d2feef29e6bbb87d'

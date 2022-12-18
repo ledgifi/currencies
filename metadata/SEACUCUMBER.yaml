@@ -5,3 +5,5 @@ id_nomics: SEACUCUMBER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SEACUCUMBERCHAIN.png
 logoKey: currencies/seacucumber.png
 name: Sea Cucumber Chain
+platform: ETH
+platform_contract: '0xe6b75a1960f91bfa7010dec8543685ead67f8cff'

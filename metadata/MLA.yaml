@@ -5,3 +5,5 @@ id_nomics: MLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MLA.jpg
 logoKey: currencies/mla.jpg
 name: Moola
+platform: BNB
+platform_contract: '0xbddd7d426274fc5f370817c80c06b86d651963e4'

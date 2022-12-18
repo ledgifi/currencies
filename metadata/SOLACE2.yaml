@@ -5,3 +5,5 @@ id_nomics: SOLACE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOLACE2.png
 logoKey: currencies/solace2.png
 name: SOLACE
+platform: ETH
+platform_contract: '0x501ace9c35e60f03a2af4d484f49f9b1efde9f40'

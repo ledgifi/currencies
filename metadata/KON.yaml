@@ -5,3 +5,5 @@ id_nomics: KON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KON.png
 logoKey: currencies/kon.png
 name: Konios
+platform: ETH
+platform_contract: '0x9c10b6d9a92e8cda1179f20a637f748e965f64e7'

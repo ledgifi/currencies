@@ -6,3 +6,5 @@ id_nomics: BZNT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bznt.png
 logoKey: currencies/bznt.png
 name: Bezant
+platform: ETH
+platform_contract: '0xe1aee98495365fc179699c1bb3e761fa716bee62'

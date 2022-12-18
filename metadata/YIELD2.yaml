@@ -5,3 +5,5 @@ id_nomics: YIELD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YIELD2.png
 logoKey: currencies/yield2.png
 name: Yield Protocol
+platform: ETH
+platform_contract: '0xa8b61cff52564758a204f841e636265bebc8db9b'

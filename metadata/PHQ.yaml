@@ -3,3 +3,5 @@ fiat: false
 id: PHQ
 id_nomics: PHQ
 name: PHQCOIN
+platform: ETH
+platform_contract: '0xc30decdf1979ab1e277c8dac82bc3a0ffac40a56'

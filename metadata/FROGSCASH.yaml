@@ -3,3 +3,5 @@ fiat: false
 id: FROGSCASH
 id_nomics: FROGSCASH
 name: FrogsCash
+platform: SMARTBCH
+platform_contract: '0x5f9259bc5e9f7599a76d9d715de28ed361078037'

@@ -3,3 +3,5 @@ fiat: false
 id: SOE
 id_nomics: SOE
 name: SOE
+platform: BNB
+platform_contract: '0x0053208edd7c10c98b6624393a323fff0a555b9a'

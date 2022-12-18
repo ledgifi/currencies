@@ -5,3 +5,5 @@ id_nomics: DOGETHER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGETHER.png
 logoKey: currencies/dogether.png
 name: Dogethereum Token
+platform: ETH
+platform_contract: '0xb0d761755efc1a7c45391815e0057b9598ddae18'

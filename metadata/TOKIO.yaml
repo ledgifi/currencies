@@ -3,3 +3,5 @@ fiat: false
 id: TOKIO
 id_nomics: TOKIO
 name: TOKIO Coin
+platform: ETH
+platform_contract: '0x3aba9f23e857e6dbc4062a2ed4dbb041025b59b0'

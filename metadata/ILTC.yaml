@@ -5,3 +5,5 @@ id_nomics: ILTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ILTC.png
 logoKey: currencies/iltc.png
 name: iLTC
+platform: ETH
+platform_contract: '0x79da1431150c9b82d2e5dfc1c68b33216846851e'

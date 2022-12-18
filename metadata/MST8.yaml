@@ -5,3 +5,5 @@ id_nomics: MST8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MST8.png
 logoKey: currencies/mst8.png
 name: MetaSportsToken
+platform: BNB
+platform_contract: '0x82afb954fdeebd2370d575ac59ae4f119654be14'

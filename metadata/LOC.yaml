@@ -6,3 +6,5 @@ id_nomics: LOC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/loc.png
 logoKey: currencies/loc.png
 name: LockTrip
+platform: ETH
+platform_contract: '0x5e3346444010135322268a4630d2ed5f8d09446c'

@@ -5,3 +5,5 @@ id_nomics: SPCPPR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPCPPR.jpg
 logoKey: currencies/spcppr.jpg
 name: Space Pupper
+platform: BNB
+platform_contract: '0x705220142db829e054ee06351c06ba814da2a89b'

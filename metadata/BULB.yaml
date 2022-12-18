@@ -3,3 +3,5 @@ fiat: false
 id: BULB
 id_nomics: BULB
 name: Bulbswap
+platform: MATIC
+platform_contract: '0x26c94f81ddce371c5a89dfa3a3bb245553b0c050'

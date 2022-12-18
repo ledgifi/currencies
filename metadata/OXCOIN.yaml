@@ -3,3 +3,5 @@ fiat: false
 id: OXCOIN
 id_nomics: OXCOIN
 name: 'oxcoin '
+platform: HT
+platform_contract: '0xf80abf4c931afff7d8a4798532f3077e1cf88a87'

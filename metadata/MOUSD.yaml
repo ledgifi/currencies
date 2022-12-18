@@ -3,3 +3,5 @@ fiat: false
 id: MOUSD
 id_nomics: MOUSD
 name: moUSD
+platform: MATIC
+platform_contract: '0x9fffb2f49adfc231b44ddcff3ffcf0e81b06430a'

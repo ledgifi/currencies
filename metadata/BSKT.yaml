@@ -6,3 +6,5 @@ id_nomics: BSKT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSKT.jpg
 logoKey: currencies/bskt.jpg
 name: BasketCoin
+platform: ETH
+platform_contract: '0xc03841b5135600312707d39eb2af0d2ad5d51a91'

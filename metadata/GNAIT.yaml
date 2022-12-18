@@ -6,3 +6,5 @@ id_nomics: GNAIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GNAIT.png
 logoKey: currencies/gnait.png
 name: GNAIT
+platform: ETH
+platform_contract: '0xd8fbad653825c51d5cd9c747cd9a82d497cc41a4'

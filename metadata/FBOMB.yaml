@@ -5,3 +5,5 @@ id_nomics: FBOMB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FBOMB.jpg
 logoKey: currencies/fbomb.jpg
 name: fBomb
+platform: FTM
+platform_contract: '0x8503eb4a136bdbeb323e37aa6e0fa0c772228378'

@@ -5,3 +5,5 @@ id_nomics: BRAND2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRAND2.jpg
 logoKey: currencies/brand2.jpg
 name: BrandPad
+platform: BNB
+platform_contract: '0x4d993ec7b44276615bb2f6f20361ab34fbf0ec49'

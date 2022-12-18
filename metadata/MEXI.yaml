@@ -6,3 +6,5 @@ id_nomics: MEXI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEXI.jpg
 logoKey: currencies/mexi.jpg
 name: Metaxiz
+platform: BNB
+platform_contract: '0x70d8d5b3416888fd05e806195312dd2d9597d50c'

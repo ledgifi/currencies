@@ -3,3 +3,5 @@ fiat: false
 id: ETLK
 id_nomics: ETLK
 name: Etherlink
+platform: ETH
+platform_contract: '0x8ba4b812b5567696922e605351d088f8c5dc1971'

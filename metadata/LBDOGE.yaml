@@ -3,3 +3,5 @@ fiat: false
 id: LBDOGE
 id_nomics: LBDOGE
 name: Labra Doge
+platform: ETH
+platform_contract: '0x2a1c204331506bbf66a0bb3666c26e4386938af1'

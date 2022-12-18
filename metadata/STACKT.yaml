@@ -6,3 +6,5 @@ id_nomics: STACKT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STACKT.jpg
 logoKey: currencies/stackt.jpg
 name: Stack Treasury
+platform: ETH
+platform_contract: '0xa8cd4a74f03a6115529b00ee2fe646e5e4100e75'

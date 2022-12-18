@@ -5,3 +5,5 @@ id_nomics: EVERR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVERR.jpg
 logoKey: currencies/everr.jpg
 name: EverRaise
+platform: ETH
+platform_contract: '0xc1e8a2ecb5a15955b1af09c16c369ff91ab99a0f'

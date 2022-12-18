@@ -5,3 +5,5 @@ id_nomics: DOR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOR3.jpg
 logoKey: currencies/dor3.jpg
 name: DoragonLand
+platform: BNB
+platform_contract: '0x3465fd2d9f900e34280abab60e8d9987b5b5bb47'

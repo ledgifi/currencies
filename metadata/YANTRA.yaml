@@ -5,3 +5,5 @@ id_nomics: YANTRA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YANTRA.jpg
 logoKey: currencies/yantra.jpg
 name: YANTRA
+platform: ETH
+platform_contract: '0xd55231b619ec464347d7b6eb12cc7ae19fbbf37d'

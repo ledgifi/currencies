@@ -3,3 +3,5 @@ fiat: false
 id: MEVSHARES
 id_nomics: MEVSHARES
 name: MEVSHARES
+platform: ARBETH
+platform_contract: '0x5854ce35d83bc74a2bd45af10b6b8f9f09677b8c'

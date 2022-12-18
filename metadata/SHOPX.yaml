@@ -5,3 +5,5 @@ id_nomics: SHOPX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHOPX.jpg
 logoKey: currencies/shopx.jpg
 name: SPLYT SHOPX
+platform: ETH
+platform_contract: '0x7bef710a5759d197ec0bf621c3df802c2d60d848'

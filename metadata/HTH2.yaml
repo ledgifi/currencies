@@ -5,3 +5,5 @@ id_nomics: HTH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HTH2.jpg
 logoKey: currencies/hth2.jpg
 name: Heath
+platform: ETH
+platform_contract: '0xa7211022b34a84905dbc54bcf11d9d395ca4155f'

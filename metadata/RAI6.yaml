@@ -5,3 +5,5 @@ id_nomics: RAI6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAI6.jpeg
 logoKey: currencies/rai6.jpeg
 name: HakuRai
+platform: BNB
+platform_contract: '0x28971a0b5d89d3badf5495705fd63b413b0bbf39'

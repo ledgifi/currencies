@@ -3,3 +3,5 @@ fiat: false
 id: GOLDX
 id_nomics: GOLDX
 name: eToro Gold
+platform: ETH
+platform_contract: '0x7d2bebd6e41b05384f0a8eb8ff228daac6f39c96'

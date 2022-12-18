@@ -3,3 +3,5 @@ fiat: false
 id: FELLOW
 id_nomics: FELLOW
 name: FellowToken
+platform: BNB
+platform_contract: '0x68a42c8199fc3b9d307e0c670f56bfc9b8a4371f'

@@ -5,3 +5,5 @@ id_nomics: '8883'
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/8883.jpg
 logoKey: currencies/8883.jpg
 name: 888 INFINITY
+platform: ETH
+platform_contract: '0xf65b639cd872217a5cf224e34e28320b06ef317f'

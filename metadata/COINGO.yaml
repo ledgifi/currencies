@@ -3,3 +3,5 @@ fiat: false
 id: COINGO
 id_nomics: COINGO
 name: CoinGOToken
+platform: BNB
+platform_contract: '0x712cf225ae6c1c608097e464f87f0c4eb4717fcc'

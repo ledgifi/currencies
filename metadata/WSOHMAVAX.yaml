@@ -5,3 +5,5 @@ id_nomics: WSOHMAVAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WSOHMAVAX.jpeg
 logoKey: currencies/wsohmavax.jpeg
 name: Wrapped Staked Olympus
+platform: AVAX
+platform_contract: '0x8cd309e14575203535ef120b5b0ab4dded0c2073'

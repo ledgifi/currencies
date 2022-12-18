@@ -5,3 +5,5 @@ id_nomics: MXT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MXT2.jpg
 logoKey: currencies/mxt2.jpg
 name: MixTrust
+platform: ETH
+platform_contract: '0x6251e725cd45fb1af99354035a414a2c0890b929'

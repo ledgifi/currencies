@@ -3,3 +3,5 @@ fiat: false
 id: AWSL
 id_nomics: AWSL
 name: Alway Single Coin
+platform: HT
+platform_contract: '0x8dc0c7df5cfe51c58db5cc9e9e19c5bd2161e389'

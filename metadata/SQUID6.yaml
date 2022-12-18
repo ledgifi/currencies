@@ -5,3 +5,5 @@ id_nomics: SQUID6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SQUID6.jpeg
 logoKey: currencies/squid6.jpeg
 name: Squid Inu
+platform: BNB
+platform_contract: '0x872100aef24bcdd739c084b655a48dee75ab33d3'

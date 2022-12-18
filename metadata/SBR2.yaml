@@ -5,3 +5,5 @@ id_nomics: SBR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBR2.jpg
 logoKey: currencies/sbr2.jpg
 name: Snowbear
+platform: AVAX
+platform_contract: '0x19613fec180746831bdf819e0790f35741040dfd'

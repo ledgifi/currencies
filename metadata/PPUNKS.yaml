@@ -6,3 +6,5 @@ id_nomics: PPUNKS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PPUNKS.png
 logoKey: currencies/ppunks.png
 name: Pumpkin Punks
+platform: BNB
+platform_contract: '0x7e14dfd44d86df7733bceb866478c185d30ae41f'

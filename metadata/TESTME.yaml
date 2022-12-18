@@ -3,3 +3,5 @@ fiat: false
 id: TESTME
 id_nomics: TESTME
 name: test me
+platform: AVAX
+platform_contract: '0x1f9bb6279ed2f50a3ef3cf1755b6848ee44dd0d7'

@@ -3,3 +3,5 @@ fiat: false
 id: KPTEST
 id_nomics: KPTEST
 name: kptest
+platform: BNB
+platform_contract: '0x708913e11a9a9f68116722050371452114a211e8'

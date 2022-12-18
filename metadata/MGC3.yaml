@@ -5,3 +5,5 @@ id_nomics: MGC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MGC3.jpg
 logoKey: currencies/mgc3.jpg
 name: MultiGenCapital
+platform: ETH
+platform_contract: '0x3ed5a70a149f3c758231a2d592c5b5b5aee86e35'

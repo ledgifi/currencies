@@ -5,3 +5,5 @@ id_nomics: DC8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DC8.png
 logoKey: currencies/dc8.png
 name: Dalmata Coin Ecosystem
+platform: BNB
+platform_contract: '0xb195d56db980b7128fa5d94ef912904e5c818f41'

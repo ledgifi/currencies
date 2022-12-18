@@ -6,3 +6,5 @@ id_nomics: GODZILLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GODZILLA.jpg
 logoKey: currencies/godzilla.jpg
 name: Godzilla
+platform: BNB
+platform_contract: '0x84fcdf74dbc363502fafa6b3cb6be2861c095a08'

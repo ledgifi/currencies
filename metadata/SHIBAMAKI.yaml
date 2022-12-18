@@ -6,3 +6,5 @@ id_nomics: SHIBAMAKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBAMAKI.jpeg
 logoKey: currencies/shibamaki.jpeg
 name: Shiba Maki
+platform: BNB
+platform_contract: '0x40d6f307cd6869262caa82907a80bda3317b9501'

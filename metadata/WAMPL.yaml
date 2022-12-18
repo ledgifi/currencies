@@ -6,3 +6,5 @@ id_nomics: WAMPL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAMPL.png
 logoKey: currencies/wampl.png
 name: Wrapped Ampleforth
+platform: ETH
+platform_contract: '0xedb171c18ce90b633db442f2a6f72874093b49ef'

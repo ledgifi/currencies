@@ -5,3 +5,5 @@ id_nomics: AMWMATIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMWMATIC.jpg
 logoKey: currencies/amwmatic.jpg
 name: Aave Polygon WMATIC
+platform: MATIC
+platform_contract: '0x8df3aad3a84da6b69a4da8aec3ea40d9091b2ac4'

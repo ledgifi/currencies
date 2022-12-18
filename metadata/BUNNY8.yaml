@@ -5,3 +5,5 @@ id_nomics: BUNNY8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUNNY8.png
 logoKey: currencies/bunny8.png
 name: PIXELBUNNY
+platform: BNB
+platform_contract: '0xc5cdd74c55c3797f12a85655534a170a67d656aa'

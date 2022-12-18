@@ -5,3 +5,5 @@ id_nomics: VAI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VAI2.jpg
 logoKey: currencies/vai2.jpg
 name: Vai
+platform: BNB
+platform_contract: '0x4bd17003473389a42daf6a0a729f6fdb328bbbd7'

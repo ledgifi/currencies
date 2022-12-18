@@ -5,3 +5,5 @@ id_nomics: PDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PDT.jpeg
 logoKey: currencies/pdt.jpeg
 name: People's Diamond
+platform: BNB
+platform_contract: '0x8a123fe32d609daaac5b7efe5e40aab300321b68'

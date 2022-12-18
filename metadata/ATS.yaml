@@ -6,3 +6,5 @@ id_nomics: ATS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ats.png
 logoKey: currencies/ats.png
 name: Authorship
+platform: ETH
+platform_contract: '0x2daee1aa61d60a252dc80564499a69802853583a'

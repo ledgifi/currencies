@@ -6,3 +6,5 @@ id_nomics: JCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JCT.png
 logoKey: currencies/jct.png
 name: Japan Content Token
+platform: ETH
+platform_contract: '0x9288d6b823927f528aea244c5fa71a356b807112'

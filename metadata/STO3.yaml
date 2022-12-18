@@ -5,3 +5,5 @@ id_nomics: STO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STO3.jpg
 logoKey: currencies/sto3.jpg
 name: StepOut
+platform: BNB
+platform_contract: '0xf042bff2ea5499d927b2237b7e81b62803e67124'

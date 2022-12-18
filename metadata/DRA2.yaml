@@ -5,3 +5,5 @@ id_nomics: DRA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRA2.png
 logoKey: currencies/dra2.png
 name: Dragonic
+platform: BNB
+platform_contract: '0xa411dfdb4f7a81226788b79664b52b38417d49e1'

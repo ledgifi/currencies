@@ -3,3 +3,5 @@ fiat: false
 id: PUSD7
 id_nomics: PUSD7
 name: PUSd
+platform: ETH
+platform_contract: '0x466a756e9a7401b5e2444a3fcb3c2c12fbea0a54'

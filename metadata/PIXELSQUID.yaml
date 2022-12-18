@@ -6,3 +6,5 @@ id_nomics: PIXELSQUID
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIXELSQUID.jpg
 logoKey: currencies/pixelsquid.jpg
 name: PixelSQUID
+platform: BNB
+platform_contract: '0x5a549cb605f1e651200c22d1a8482929b36330f7'

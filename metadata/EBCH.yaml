@@ -5,3 +5,5 @@ id_nomics: EBCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EBCH.png
 logoKey: currencies/ebch.png
 name: eBitcoin Cash
+platform: ETH
+platform_contract: '0xafc39788c51f0c1ff7b55317f3e70299e521fff6'

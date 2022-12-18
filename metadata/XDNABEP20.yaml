@@ -5,3 +5,5 @@ id_nomics: XDNABEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XDNABEP20.jpg
 logoKey: currencies/xdnabep20.jpg
 name: extraDNA (BEP-20)
+platform: BNB
+platform_contract: '0x80dba9c32b7ab5445e482387a5522e24c0ba4c24'

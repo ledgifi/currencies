@@ -5,3 +5,5 @@ id_nomics: ZPRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZPRO.png
 logoKey: currencies/zpro.png
 name: ZAT Project
+platform: BNB
+platform_contract: '0xc8c488fdbbb2e72e41710ade67784f0812160210'

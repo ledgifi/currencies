@@ -5,3 +5,5 @@ id_nomics: EGG10
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EGG10.jpg
 logoKey: currencies/egg10.jpg
 name: eggzilla
+platform: BNB
+platform_contract: '0xd0586700dbac9071474e72f94610613123a222b8'

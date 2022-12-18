@@ -5,3 +5,5 @@ id_nomics: ABC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ABC3.jpg
 logoKey: currencies/abc3.jpg
 name: Alpha Brain Capital
+platform: ETH
+platform_contract: '0x5b4e9a810321e168989802474f689269ec442681'

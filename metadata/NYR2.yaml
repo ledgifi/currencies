@@ -5,3 +5,5 @@ id_nomics: NYR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NYR2.jpg
 logoKey: currencies/nyr2.jpg
 name: New Year Resolution
+platform: ETH
+platform_contract: '0x3ecf9840deb8e3c395e1941fc39ceb662bf5a1dd'

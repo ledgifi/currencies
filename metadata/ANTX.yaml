@@ -6,3 +6,5 @@ id_nomics: ANTX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANTX.jpg
 logoKey: currencies/antx.jpg
 name: Antariksh
+platform: BNB
+platform_contract: '0x2f2265206ebb359bdd2b936ba44cfe9307d6807a'

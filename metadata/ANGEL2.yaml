@@ -5,3 +5,5 @@ id_nomics: ANGEL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANGEL2.jpg
 logoKey: currencies/angel2.jpg
 name: Angel Token
+platform: ETH
+platform_contract: '0xf150b9054013552a6288320dc4afe1beebb79d8e'

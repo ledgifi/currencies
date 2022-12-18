@@ -6,3 +6,5 @@ id_nomics: ZEFU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZEFU.jpg
 logoKey: currencies/zefu.jpg
 name: Zenfuse (ERC-20)
+platform: ETH
+platform_contract: '0xb1e9157c2fdcc5a856c8da8b2d89b6c32b3c1229'

@@ -5,3 +5,5 @@ id_nomics: AGN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AGN.jpg
 logoKey: currencies/agn.jpg
 name: Agrichainx
+platform: ETH
+platform_contract: '0x25d9bef26b6f7018d24d18144fe3c8bfd0d48a53'

@@ -5,3 +5,5 @@ id_nomics: PARK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PARK2.jpeg
 logoKey: currencies/park2.jpeg
 name: Park
+platform: BNB
+platform_contract: '0xcde4e7d6f35919a757433397ac9ed622d2284100'

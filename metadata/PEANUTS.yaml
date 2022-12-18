@@ -6,3 +6,5 @@ id_nomics: PEANUTS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEANUTS.jpg
 logoKey: currencies/peanuts.jpg
 name: PEANUTS
+platform: ETH
+platform_contract: '0x9f41da75ab2b8c6f0dcef7173c4bf66bd4f6b36a'

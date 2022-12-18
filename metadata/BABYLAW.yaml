@@ -3,3 +3,5 @@ fiat: false
 id: BABYLAW
 id_nomics: BABYLAW
 name: BABYLAW
+platform: SMARTBCH
+platform_contract: '0x02905c38b3cfbae5255104c7a6fd10ef78225f35'

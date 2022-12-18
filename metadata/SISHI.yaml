@@ -5,3 +5,5 @@ id_nomics: SISHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SISHI.jpg
 logoKey: currencies/sishi.jpg
 name: Sishi Finance
+platform: BNB
+platform_contract: '0x8e8538c75f273ab2df6adeecd3622a9c314fccf3'

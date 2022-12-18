@@ -5,3 +5,5 @@ id_nomics: TOPC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOPC2.jpg
 logoKey: currencies/topc2.jpg
 name: Tate Cat Token
+platform: BNB
+platform_contract: '0x7db554a9eeafe4e4e5188f2831519b6fc5cb70b8'

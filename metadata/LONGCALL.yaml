@@ -3,3 +3,5 @@ fiat: false
 id: LONGCALL
 id_nomics: LONGCALL
 name: Long Call
+platform: ETH
+platform_contract: '0x3b60f81dfa9f03fe4f7705f167988cbd1e955767'

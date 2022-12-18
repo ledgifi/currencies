@@ -6,3 +6,5 @@ id_nomics: TFL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/tfl.jpg
 logoKey: currencies/tfl.jpg
 name: TrueFlip
+platform: ETH
+platform_contract: '0xa7f976c360ebbed4465c2855684d1aae5271efa9'

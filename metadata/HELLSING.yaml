@@ -6,3 +6,5 @@ id_nomics: HELLSING
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HELLSING.png
 logoKey: currencies/hellsing.png
 name: Hellsing Inu
+platform: ETH
+platform_contract: '0xb087c2180e3134db396977065817aed91fea6ead'

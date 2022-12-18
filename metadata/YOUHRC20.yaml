@@ -5,3 +5,5 @@ id_nomics: YOUHRC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YOUHRC20.jpg
 logoKey: currencies/youhrc20.jpg
 name: YouSwap (HRC-20)
+platform: HT
+platform_contract: '0x9364e119ad76e0346126afcbdf5c9f0189500cc5'

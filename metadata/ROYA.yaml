@@ -6,3 +6,5 @@ id_nomics: ROYA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROYA.jpg
 logoKey: currencies/roya.jpg
 name: Royale
+platform: ETH
+platform_contract: '0x7eaf9c89037e4814dc0d9952ac7f888c784548db'

@@ -5,3 +5,5 @@ id_nomics: BULL5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BULL5.jpg
 logoKey: currencies/bull5.jpg
 name: Bull Coin
+platform: BNB
+platform_contract: '0xf483af09917ba63f1e274056978036d266eb56e6'

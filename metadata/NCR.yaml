@@ -6,3 +6,5 @@ id_nomics: NCR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NCR.png
 logoKey: currencies/ncr.png
 name: Neos Credits
+platform: ETH
+platform_contract: '0xdb5c3c46e28b53a39c255aa39a411dd64e5fed9c'

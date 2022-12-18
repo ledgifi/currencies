@@ -6,3 +6,5 @@ id_nomics: KIRBY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KIRBY.jpg
 logoKey: currencies/kirby.jpg
 name: Kirby Inu
+platform: ETH
+platform_contract: '0x1fd7e8c718c153fa97a5525c227a098007dcfdda'

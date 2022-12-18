@@ -6,3 +6,5 @@ id_nomics: SHWA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHWA.jpg
 logoKey: currencies/shwa.jpg
 name: ShibaWallet
+platform: BNB
+platform_contract: '0x4a2940263acfd179dbc1c6b69a3392671accaf5b'

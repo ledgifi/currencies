@@ -5,3 +5,5 @@ id_nomics: BAS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bas.png
 logoKey: currencies/bas.png
 name: BitAsean
+platform: ETH
+platform_contract: '0x2a05d22db079bc40c2f77a1d1ff703a56e631cc1'

@@ -5,3 +5,5 @@ id_nomics: PCC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PCC.jpg
 logoKey: currencies/pcc.jpg
 name: Pcore
+platform: ETH
+platform_contract: '0x6aa27b3a8aab51745b7eaf53e61aba833b0f9400'

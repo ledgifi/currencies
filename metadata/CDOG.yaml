@@ -5,3 +5,5 @@ id_nomics: CDOG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CDOG.jpg
 logoKey: currencies/cdog.jpg
 name: Captain Doge
+platform: BNB
+platform_contract: '0x87c3729ec366605fe788de6fe8bcf3c051169389'

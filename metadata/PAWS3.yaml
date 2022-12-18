@@ -5,3 +5,5 @@ id_nomics: PAWS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAWS3.jpg
 logoKey: currencies/paws3.jpg
 name: Animal Adoption Advocacy
+platform: BNB
+platform_contract: '0x066fc8dd5955534a01a9f892314c9b01b59a9c11'

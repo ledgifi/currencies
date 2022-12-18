@@ -7,3 +7,5 @@ id_nomics: IMX3
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220110/d0f0a678-a008-47c7-a422-e90e5f855bad.png
 logoKey: currencies/imx.png
 name: Immutable X
+platform: ETH
+platform_contract: '0xf57e7e7c23978c3caec3c3548e3d615c346e79ff'

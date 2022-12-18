@@ -3,3 +3,5 @@ fiat: false
 id: SOVEREIGN
 id_nomics: SOVEREIGN
 name: SOVEREIGN
+platform: MATIC
+platform_contract: '0x4a472e7025de4ef59eb4930cf18742b716535a61'

@@ -5,3 +5,5 @@ id_nomics: KROM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KROM.png
 logoKey: currencies/krom.png
 name: Kromatika
+platform: ETH
+platform_contract: '0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789'

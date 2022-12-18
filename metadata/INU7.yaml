@@ -5,3 +5,5 @@ id_nomics: INU7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INU7.jpeg
 logoKey: currencies/inu7.jpeg
 name: Phantom Inu
+platform: FTM
+platform_contract: '0x4FBE732F4DC25D06e79105Ff2fe453Db40e64a98'

@@ -6,3 +6,5 @@ id_nomics: TSHP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TSHP.jpg
 logoKey: currencies/tshp.jpg
 name: 12Ships
+platform: ETH
+platform_contract: '0x525794473f7ab5715c81d06d10f52d11cc052804'

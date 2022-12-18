@@ -3,3 +3,5 @@ fiat: false
 id: MBUCK
 id_nomics: MBUCK
 name: MetaBUCK
+platform: BNB
+platform_contract: '0x8260e752fff3bd65e1d260e8355303fdf1a41ed8'

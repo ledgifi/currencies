@@ -5,3 +5,5 @@ id_nomics: EURST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EURST.jpg
 logoKey: currencies/eurst.jpg
 name: Euro Stable Token
+platform: ETH
+platform_contract: '0xb1abd7aba7d99bbefb33d1dfc66b0dd522335350'

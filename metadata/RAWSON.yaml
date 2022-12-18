@@ -5,3 +5,5 @@ id_nomics: RAWSON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAWSON.png
 logoKey: currencies/rawson.png
 name: Rawson House
+platform: BNB
+platform_contract: '0xD7F8C503034Acc5E729bADc4c523Eb5D69a1eECe'

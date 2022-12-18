@@ -5,3 +5,5 @@ id_nomics: KAKA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAKA3.jpg
 logoKey: currencies/kaka3.jpg
 name: Kakapo
+platform: BNB
+platform_contract: '0x5fb80a9c77c949a6fb59c7ca6610c58c41864297'

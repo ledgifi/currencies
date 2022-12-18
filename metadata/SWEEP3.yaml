@@ -5,3 +5,5 @@ id_nomics: SWEEP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWEEP3.jpg
 logoKey: currencies/sweep3.jpg
 name: Sweeptoken
+platform: BNB
+platform_contract: '0x09c704c1eb9245af48f058878e72129557a10f04'

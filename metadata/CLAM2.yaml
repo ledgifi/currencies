@@ -5,3 +5,5 @@ id_nomics: CLAM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLAM2.jpg
 logoKey: currencies/clam2.jpg
 name: Otter Clam
+platform: MATIC
+platform_contract: '0x4d6a30efbe2e9d7a9c143fce1c5bb30d9312a465'

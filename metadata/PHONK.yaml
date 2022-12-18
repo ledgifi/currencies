@@ -5,3 +5,5 @@ id_nomics: PHONK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PHONK.jpg
 logoKey: currencies/phonk.jpg
 name: CryptoPhonk
+platform: MATIC
+platform_contract: '0x8747455c85636fa41a4c033b28d4a592c405c97d'

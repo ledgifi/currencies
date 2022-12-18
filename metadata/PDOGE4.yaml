@@ -5,3 +5,5 @@ id_nomics: PDOGE4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PDOGE4.jpg
 logoKey: currencies/pdoge4.jpg
 name: Pride Doge
+platform: BNB
+platform_contract: '0xcac3bbd20e2f123138c7cab66cb84566e42f3b8e'

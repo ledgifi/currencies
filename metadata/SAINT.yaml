@@ -5,3 +5,5 @@ id_nomics: SAINT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAINT.png
 logoKey: currencies/saint.png
 name: Saint Token
+platform: BNB
+platform_contract: '0x503576189edd9feb058ad3f17f1e6e9172a11d75'

@@ -5,3 +5,5 @@ id_nomics: NUTGV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NUTGV2.jpg
 logoKey: currencies/nutgv2.jpg
 name: NUTGv2
+platform: BNB
+platform_contract: '0xb149b030cfa47880af0bde4cd36539e4c928b3eb'

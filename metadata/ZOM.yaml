@@ -5,3 +5,5 @@ id_nomics: ZOM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZOM.png
 logoKey: currencies/zom.png
 name: ZOM
+platform: ETH
+platform_contract: '0x42382f39e7c9f1add5fa5f0c6e24aa62f50be3b3'

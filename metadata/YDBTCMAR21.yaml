@@ -5,3 +5,5 @@ id_nomics: YDBTCMAR21
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YDBTCMAR21.jpg
 logoKey: currencies/ydbtcmar21.jpg
 name: YD-BTC-MAR21
+platform: ETH
+platform_contract: '0x002f0b1a71c5730cf2f4da1970a889207bdb6d0d'

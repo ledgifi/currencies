@@ -5,3 +5,5 @@ id_nomics: CST4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CST4.jpg
 logoKey: currencies/cst4.jpg
 name: CryptoSkates
+platform: BNB
+platform_contract: '0x368eb5efdca39126e8e76aae5187166de7c2766c'

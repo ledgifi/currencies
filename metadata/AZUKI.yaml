@@ -5,3 +5,5 @@ id_nomics: AZUKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AZUKI.jpg
 logoKey: currencies/azuki.jpg
 name: Azuki
+platform: ETH
+platform_contract: '0x910524678c0b1b23ffb9285a81f99c29c11cbaed'

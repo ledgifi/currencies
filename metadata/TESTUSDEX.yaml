@@ -3,3 +3,5 @@ fiat: false
 id: TESTUSDEX
 id_nomics: TESTUSDEX
 name: TEST_USDEX
+platform: BNB
+platform_contract: '0x46969f1ff2163e0100fbab466a2bb347bacb32fc'

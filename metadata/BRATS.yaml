@@ -5,3 +5,5 @@ id_nomics: BRATS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRATS.jpg
 logoKey: currencies/brats.jpg
 name: Baby Rats Coin
+platform: BNB
+platform_contract: '0x5bd600b33d1b682f9b59d67e98a517a4b5740e1f'

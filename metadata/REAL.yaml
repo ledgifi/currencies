@@ -5,3 +5,5 @@ id_nomics: REAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/real.jpg
 logoKey: currencies/real.jpg
 name: Real.Markets
+platform: ETH
+platform_contract: '0x9214ec02cb71cba0ada6896b8da260736a67ab10'

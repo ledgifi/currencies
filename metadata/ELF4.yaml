@@ -5,3 +5,5 @@ id_nomics: ELF4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELF4.png
 logoKey: currencies/elf4.png
 name: Elf Finance
+platform: FTM
+platform_contract: '0x300f03050271e33501973ef00b320f4e9a1a68e2'

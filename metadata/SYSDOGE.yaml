@@ -3,3 +3,5 @@ fiat: false
 id: SYSDOGE
 id_nomics: SYSDOGE
 name: SysDoge
+platform: SYS
+platform_contract: '0x5299fc7b4ccdfc82a808df2bd490871ba764ef1c'

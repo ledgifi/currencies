@@ -5,3 +5,5 @@ id_nomics: PITGROW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PITGROW.png
 logoKey: currencies/pitgrow.png
 name: PitbullGrow
+platform: BNB
+platform_contract: '0xa024289aa9e7cc2a75f3630f176367b36b1bd5f6'

@@ -5,3 +5,5 @@ id_nomics: APPLESCASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APPLESCASH.jpg
 logoKey: currencies/applescash.jpg
 name: $AAPL
+platform: ETH
+platform_contract: '0x41efc0253ee7ea44400abb5f907fdbfdebc82bec'

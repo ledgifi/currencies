@@ -5,3 +5,5 @@ id_nomics: BP5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BP5.jpg
 logoKey: currencies/bp5.jpg
 name: Bella Poarch
+platform: BNB
+platform_contract: '0xf217fcd8455f27315bfd6e301cf291e49342606c'

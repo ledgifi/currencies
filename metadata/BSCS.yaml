@@ -6,3 +6,5 @@ id_nomics: BSCS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSCS.jpg
 logoKey: currencies/bscs.jpg
 name: BSC Station
+platform: BNB
+platform_contract: '0xbcb24afb019be7e93ea9c43b7e22bb55d5b7f45d'

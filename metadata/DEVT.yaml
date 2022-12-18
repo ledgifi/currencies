@@ -5,3 +5,5 @@ id_nomics: DEVT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEVT.jpg
 logoKey: currencies/devt.jpg
 name: DeHorizon
+platform: ETH
+platform_contract: '0xb5c578947de0fd71303f71f2c3d41767438bd0de'

@@ -5,3 +5,5 @@ id_nomics: TNI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TNI.jpg
 logoKey: currencies/tni.jpg
 name: Tunnel Protocol
+platform: ETH
+platform_contract: '0xa5a2af22eac6f050227d844b108c2b2a011fd329'

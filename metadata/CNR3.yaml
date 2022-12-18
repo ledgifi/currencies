@@ -5,3 +5,5 @@ id_nomics: CNR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CNR3.jpg
 logoKey: currencies/cnr3.jpg
 name: Canary
+platform: AVAX
+platform_contract: '0x8d88e48465f30acfb8dac0b3e35c9d6d7d36abaf'

@@ -5,3 +5,5 @@ id_nomics: SMT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMT3.jpg
 logoKey: currencies/smt3.jpg
 name: Smart Money
+platform: BNB
+platform_contract: '0x32d6b4bd2c3196cfb5ec466b09602707396c43b4'

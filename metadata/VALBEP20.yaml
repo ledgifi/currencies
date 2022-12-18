@@ -5,3 +5,5 @@ id_nomics: VALBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VALBEP20.jpg
 logoKey: currencies/valbep20.jpg
 name: Valkyrie Network (BEP-20)
+platform: BNB
+platform_contract: '0x8e56f77fbd2f58256f8ab81c6bb7eed0959ace04'

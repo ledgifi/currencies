@@ -3,3 +3,5 @@ fiat: false
 id: TLCN
 id_nomics: TLCN
 name: Terra Luna Classic Node
+platform: MATIC
+platform_contract: '0xf7b9c6c5dab9c56101a6aecc92f04e18be580606'

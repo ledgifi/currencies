@@ -6,3 +6,5 @@ id_nomics: NFTG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTG.jpg
 logoKey: currencies/nftg.jpg
 name: NFT Global Platform
+platform: BNB
+platform_contract: '0x76f6cd75ce81e88916f8d933ab76efe18ced6ad3'

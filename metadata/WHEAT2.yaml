@@ -3,3 +3,5 @@ fiat: false
 id: WHEAT2
 id_nomics: WHEAT2
 name: Wheat Farm
+platform: ETH
+platform_contract: '0x9ce7448986b77c20ac309a3cbda3f5fc4c0f4a72'

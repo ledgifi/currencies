@@ -3,3 +3,5 @@ fiat: false
 id: TESTHT
 id_nomics: TESTHT
 name: Test contract 018 HECO
+platform: HT
+platform_contract: '0x1c4ae7a088730a61bd652b501734b87c068da376'

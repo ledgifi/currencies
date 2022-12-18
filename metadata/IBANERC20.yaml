@@ -5,3 +5,5 @@ id_nomics: IBANERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IBANERC20.jpeg
 logoKey: currencies/ibanerc20.jpeg
 name: iBAN COIN
+platform: ETH
+platform_contract: '0xc74c0560f46c28e722d82923bf0b79ccac4317e6'

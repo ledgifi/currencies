@@ -5,3 +5,5 @@ id_nomics: DEFYPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEFYPOS.jpg
 logoKey: currencies/defypos.jpg
 name: Defy (Polygon)
+platform: MATIC
+platform_contract: '0xbf9f916bbda29a7f990f5f55c7607d94d7c3a60b'

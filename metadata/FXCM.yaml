@@ -5,3 +5,5 @@ id_nomics: FXCM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FXCM.jpg
 logoKey: currencies/fxcm.jpg
 name: FXCM Chain
+platform: ETH
+platform_contract: '0xcc6bab319eb4c18537963fade173a6917d17d0e6'

@@ -3,3 +3,5 @@ fiat: false
 id: LUNA21
 id_nomics: LUNA21
 name: luna21
+platform: BNB
+platform_contract: '0x27957f701e32831c93ab6ff4cd6190d25c805e05'

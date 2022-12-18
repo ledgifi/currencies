@@ -3,3 +3,5 @@ fiat: false
 id: OPHC
 id_nomics: OPHC
 name: Ophiuchus
+platform: BNB
+platform_contract: '0x0313b78724a379938bad54c0ba8ca148f678d0a0'

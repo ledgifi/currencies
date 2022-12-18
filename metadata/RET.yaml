@@ -6,3 +6,5 @@ id_nomics: RET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RET.png
 logoKey: currencies/ret.png
 name: RealTract
+platform: ETH
+platform_contract: '0xd7394087e1dbbe477fe4f1cf373b9ac9459565ff'

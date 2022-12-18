@@ -6,3 +6,5 @@ id_nomics: RICKMORTY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RICKMORTY.jpg
 logoKey: currencies/rickmorty.jpg
 name: Rick And Morty
+platform: ETH
+platform_contract: '0x00b0e8d3d7a6275dea291111ff8480ea053cd719'

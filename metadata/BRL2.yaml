@@ -5,3 +5,5 @@ id_nomics: BRL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRL2.jpg
 logoKey: currencies/brl2.jpg
 name: Real Crypto
+platform: BNB
+platform_contract: '0x4fdfe04b0a849242ee3e42adbe4862c040481a1c'

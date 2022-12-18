@@ -3,3 +3,5 @@ fiat: false
 id: CATTOKEN2
 id_nomics: CATTOKEN2
 name: CatToken
+platform: ETH
+platform_contract: '0x40181862dabe0651dd4aa0ae29bd7c9b48eb6559'

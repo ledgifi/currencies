@@ -5,3 +5,5 @@ id_nomics: COOKIE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COOKIE.jpg
 logoKey: currencies/cookie.jpg
 name: Cookie Finance
+platform: BNB
+platform_contract: '0x266608075fbc9db7d7fb1932c95f77f6d4c6f164'

@@ -6,3 +6,5 @@ id_nomics: ODA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ODA.jpg
 logoKey: currencies/oda.jpg
 name: Eiichiro Oda Inu
+platform: ETH
+platform_contract: '0x04dc37b220a055c5f93680815f670babcd912c2c'

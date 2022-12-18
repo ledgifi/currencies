@@ -5,3 +5,5 @@ id_nomics: TXBIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TXBIT.jpg
 logoKey: currencies/txbit.jpg
 name: Txbit
+platform: BNB
+platform_contract: '0x339fe932809e39a95b621a7f88bbf6c08eb6c978'

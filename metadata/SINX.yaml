@@ -3,3 +3,5 @@ fiat: false
 id: SINX
 id_nomics: SINX
 name: SINX Token
+platform: ETH
+platform_contract: '0x0cc838351758a674d7368c5d08eab31d30895a17'

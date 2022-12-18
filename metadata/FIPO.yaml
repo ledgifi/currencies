@@ -3,3 +3,5 @@ fiat: false
 id: FIPO
 id_nomics: FIPO
 name: Finpools Token
+platform: ETH
+platform_contract: '0x9bc7192c77ed55e5cca8f927de1391c5bc84428a'

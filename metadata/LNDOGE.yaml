@@ -3,3 +3,5 @@ fiat: false
 id: LNDOGE
 id_nomics: LNDOGE
 name: Lunar Doge
+platform: BNB
+platform_contract: '0x56a365edd53f2f2b79ba0aa642465a75826aeadb'

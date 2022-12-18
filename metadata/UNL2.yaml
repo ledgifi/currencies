@@ -3,3 +3,5 @@ fiat: false
 id: UNL2
 id_nomics: UNL2
 name: Unilock
+platform: ETH
+platform_contract: '0x354e514c135c8603f840ffadb4c33cde6d2a37e0'

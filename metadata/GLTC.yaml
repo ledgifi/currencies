@@ -5,3 +5,5 @@ id_nomics: GLTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GLTC.png
 logoKey: currencies/gltc.png
 name: Glastic
+platform: BNB
+platform_contract: '0x1f0b4bea4012cBd969be7E42a7443757C4a87B2f'

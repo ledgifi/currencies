@@ -6,3 +6,5 @@ id_nomics: PWAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PWAY.jpg
 logoKey: currencies/pway.jpg
 name: PWay
+platform: ETH
+platform_contract: '0x5a14fe6923e767a8238f29d3e1fb1a913975f0d7'

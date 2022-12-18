@@ -5,3 +5,5 @@ id_nomics: PWL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PWL2.jpg
 logoKey: currencies/pwl2.jpg
 name: PowerLabs
+platform: BNB
+platform_contract: '0x2a5f446f8b6a819bc3f1715156a4ddac3b7eaf50'

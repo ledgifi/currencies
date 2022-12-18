@@ -5,3 +5,5 @@ id_nomics: CNR4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CNR4.png
 logoKey: currencies/cnr4.png
 name: Centric Rise
+platform: BNB
+platform_contract: '0xdcba3fbd7bbc28abd18a472d28358089467a8a74'

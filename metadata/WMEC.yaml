@@ -3,3 +3,5 @@ fiat: false
 id: WMEC
 id_nomics: WMEC
 name: World Most Expensive Coin
+platform: BNB
+platform_contract: '0x2a80e0c39ebd276e01054c7dd8fdeab9d4d36d73'

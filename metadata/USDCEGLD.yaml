@@ -5,3 +5,5 @@ id_nomics: USDCEGLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDCEGLD.svg
 logoKey: currencies/usdcegld.svg
 name: USD Coin (Elrond)
+platform: EGLD
+platform_contract: USDC-c76f1f

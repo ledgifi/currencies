@@ -5,3 +5,5 @@ id_nomics: UNITY7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNITY7.png
 logoKey: currencies/unity7.png
 name: Unity Coin
+platform: BNB
+platform_contract: '0x78963f02cdf7fef3be8e1c9761ef957e6a5968f3'

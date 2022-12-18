@@ -3,3 +3,5 @@ fiat: false
 id: XPND
 id_nomics: XPND
 name: Xpendium
+platform: MATIC
+platform_contract: '0x03f61137bfb86be07394f0fd07a33984020f96d8'

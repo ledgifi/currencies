@@ -3,3 +3,5 @@ fiat: false
 id: TOKENBEP20
 id_nomics: TOKENBEP20
 name: ChainSwapMapping Token (BEP-20)
+platform: BNB
+platform_contract: '0x3b73c1b2ea59835cbfcadade5462b6ab630d9890'

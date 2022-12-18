@@ -4,3 +4,5 @@ id: BABYPOOCHAIN
 id_nomics: BABYPOOCHAIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYPOOCHAIN.jpg
 name: BabyPoochain
+platform: BNB
+platform_contract: '0x89161bcab69678baee59879726a35c27a78f8e66'

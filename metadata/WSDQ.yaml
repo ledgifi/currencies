@@ -6,3 +6,5 @@ id_nomics: WSDQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WSDQ.jpg
 logoKey: currencies/wsdq.jpg
 name: Wasdaq
+platform: BNB
+platform_contract: '0xafc4d521df3c0566d61931f81f02f1a525bad04d'

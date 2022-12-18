@@ -5,3 +5,5 @@ id_nomics: BABYDOGEERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYDOGEERC20.jpeg
 logoKey: currencies/babydogeerc20.jpeg
 name: Baby Doge Coin (ERC-20)
+platform: ETH
+platform_contract: '0xac57de9c1a09fec648e93eb98875b212db0d460b'

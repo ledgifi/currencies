@@ -5,3 +5,5 @@ id_nomics: ZCRT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZCRT.jpg
 logoKey: currencies/zcrt.jpg
 name: ZCore Token (ERC-20)
+platform: ETH
+platform_contract: '0xc7e43a1c8e118aa2965f5eabe0e718d83db7a63c'

@@ -5,3 +5,5 @@ id_nomics: MUSDT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MUSDT2.png
 logoKey: currencies/musdt2.png
 name: Tether (Metis)
+platform: METIS
+platform_contract: '0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC'

@@ -5,3 +5,5 @@ id_nomics: ESVD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ESVD.jpg
 logoKey: currencies/esvd.jpg
 name: El Salvador Liquidity Reserve
+platform: ETH
+platform_contract: '0x929ed1e23c231af97bca7760654994973a9d5bc4'

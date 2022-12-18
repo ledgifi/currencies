@@ -5,3 +5,5 @@ id_nomics: ELF5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELF5.jpg
 logoKey: currencies/elf5.jpg
 name: Melfys Crypto Game
+platform: BNB
+platform_contract: '0xb9ed84ba7cb1caa0a8ab97d933e1cd4e6c27c9a9'

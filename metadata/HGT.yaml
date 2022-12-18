@@ -6,3 +6,5 @@ id_nomics: HGT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/hgt.svg
 logoKey: currencies/hgt.svg
 name: HelloGold
+platform: ETH
+platform_contract: '0xba2184520a1cc49a6159c57e61e1844e085615b6'

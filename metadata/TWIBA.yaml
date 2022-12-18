@@ -5,3 +5,5 @@ id_nomics: TWIBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TWIBA.jpg
 logoKey: currencies/twiba.jpg
 name: Twiba Inu
+platform: BNB
+platform_contract: '0x4104c3e7c8722fa3cc86a0fc5787dd22ad8a6f9a'

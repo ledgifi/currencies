@@ -5,3 +5,5 @@ id_nomics: ROOMDAO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROOMDAO.png
 logoKey: currencies/roomdao.png
 name: Room Dao
+platform: ETH
+platform_contract: '0x840086881facb1e8c222fa5deb2f93f238b0ba95'

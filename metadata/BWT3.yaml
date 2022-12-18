@@ -5,3 +5,5 @@ id_nomics: BWT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BWT3.jpg
 logoKey: currencies/bwt3.jpg
 name: BabyWhiteTiger
+platform: BNB
+platform_contract: '0x4329f1fbb62dea8960237fd975a794a604c57ff7'

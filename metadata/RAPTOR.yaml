@@ -6,3 +6,5 @@ id_nomics: RAPTOR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAPTOR.png
 logoKey: currencies/raptor.png
 name: Raptor Finance
+platform: BNB
+platform_contract: '0xf9a3fda781c94942760860fc731c24301c83830a'

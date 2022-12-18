@@ -3,3 +3,5 @@ fiat: false
 id: TMS
 id_nomics: TMS
 name: Timeless
+platform: ETH
+platform_contract: '0x78d288f7a91072f6496dd97b7e20fcbf5857c53d'

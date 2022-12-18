@@ -5,3 +5,5 @@ id_nomics: DIXT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DIXT.jpg
 logoKey: currencies/dixt.jpg
 name: Dixt Finance
+platform: ETH
+platform_contract: '0x43e6228b5bf22eab754486082ca91fdd8585521a'

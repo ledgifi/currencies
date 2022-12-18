@@ -5,3 +5,5 @@ id_nomics: DUNU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUNU.jpg
 logoKey: currencies/dunu.jpg
 name: DuckInu
+platform: BNB
+platform_contract: '0x89a04f55a493bc50fe51c59306b60f34f8b80915'

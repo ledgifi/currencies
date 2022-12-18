@@ -3,3 +3,5 @@ fiat: false
 id: KADOGE
 id_nomics: KADOGE
 name: Kickass Doge
+platform: ETH
+platform_contract: '0x881b9c3575c225000304fd72d8513a9046cdc830'

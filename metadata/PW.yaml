@@ -6,3 +6,5 @@ id_nomics: PW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PW.jpg
 logoKey: currencies/pw.jpg
 name: PetWorld
+platform: BNB
+platform_contract: '0xff00da868f1ca57a3c13ec8a77f6c3cdf06139c3'

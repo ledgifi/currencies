@@ -3,3 +3,5 @@ fiat: false
 id: IKUCHI
 id_nomics: IKUCHI
 name: IkuchiToken
+platform: ETH
+platform_contract: '0xcaafd9bfbcc4f972f64fc90ba4afcde600dac17f'

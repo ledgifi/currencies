@@ -5,3 +5,5 @@ id_nomics: SURF5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SURF5.png
 logoKey: currencies/surf5.png
 name: SpaceSurf
+platform: BNB
+platform_contract: '0xc1c972a3253543ea51cf2a575b3a03f960e8936b'

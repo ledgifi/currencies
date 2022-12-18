@@ -5,3 +5,5 @@ id_nomics: DZC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DZC.png
 logoKey: currencies/dzc.png
 name: D-ZONE COIN
+platform: ETH
+platform_contract: '0x14903ad104da65729b99bbd64c47fb7d75f8548a'

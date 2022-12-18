@@ -5,3 +5,5 @@ id_nomics: TOFY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOFY.jpg
 logoKey: currencies/tofy.jpg
 name: TOFFEE
+platform: BNB
+platform_contract: '0xe1f2d89a6c79b4242f300f880e490a70083e9a1c'

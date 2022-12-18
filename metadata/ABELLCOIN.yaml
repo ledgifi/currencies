@@ -3,3 +3,5 @@ fiat: false
 id: ABELLCOIN
 id_nomics: ABELLCOIN
 name: ABC
+platform: BNB
+platform_contract: '0xedc484a2f6c76aefcec13b40a88fab0439fec778'

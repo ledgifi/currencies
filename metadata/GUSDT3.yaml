@@ -3,3 +3,5 @@ fiat: false
 id: GUSDT3
 id_nomics: GUSDT3
 name: Gravity Bridge Tether
+platform: EVMOS
+platform_contract: '0xeceeefcee421d8062ef8d6b4d814efe4dc898265'

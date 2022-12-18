@@ -3,3 +3,5 @@ fiat: false
 id: 1000LUNA
 id_nomics: 1000LUNA
 name: 1000LUNA
+platform: BNB
+platform_contract: '0xc6c610ce5ad5f0833c257789ba4df212e72580f5'

@@ -3,3 +3,5 @@ fiat: false
 id: OVERSTIM
 id_nomics: OVERSTIM
 name: Overstimulated
+platform: ETH
+platform_contract: '0x18f623e397ef28f1a5a094840f7f6f5587828b94'

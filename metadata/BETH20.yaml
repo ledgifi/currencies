@@ -3,3 +3,5 @@ fiat: false
 id: BETH20
 id_nomics: BETH20
 name: Baby Ethereum BEP20
+platform: BNB
+platform_contract: '0x9ea42417dfc4c9de9361f0978fe32e124d6c7a89'

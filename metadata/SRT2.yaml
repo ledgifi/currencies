@@ -3,3 +3,5 @@ fiat: false
 id: SRT2
 id_nomics: SRT2
 name: Smart Rental Terminal
+platform: ETH
+platform_contract: '0x1f24cfdd40f9e25e03fac03481e3b250a1b6d1f4'

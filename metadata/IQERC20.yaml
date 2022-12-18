@@ -5,3 +5,5 @@ id_nomics: IQERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IQERC20.png
 logoKey: currencies/iqerc20.png
 name: Everipedia IQ (ERC-20)
+platform: ETH
+platform_contract: '0x579cea1889991f68acc35ff5c3dd0621ff29b0c9'

@@ -5,3 +5,5 @@ id_nomics: RICH9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RICH9.jpg
 logoKey: currencies/rich9.jpg
 name: RichCity
+platform: BNB
+platform_contract: '0xc0994af94fee0361a1e1e1ccf72bce19d5fd86fb'

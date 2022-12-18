@@ -5,3 +5,5 @@ id_nomics: CELA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CELA.png
 logoKey: currencies/cela.png
 name: Celadon Coin
+platform: BNB
+platform_contract: '0x8eB12BF64c5513653De549a61078f244eF11dbfF'

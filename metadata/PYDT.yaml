@@ -3,3 +3,5 @@ fiat: false
 id: PYDT
 id_nomics: PYDT
 name: PolyDate Token
+platform: MATIC
+platform_contract: '0x869a6f4bee6a09221a7db6f5d04c166342b05a3e'

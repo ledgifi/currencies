@@ -5,3 +5,5 @@ id_nomics: RING4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RING4.jpg
 logoKey: currencies/ring4.jpg
 name: Ring
+platform: BNB
+platform_contract: '0x2314ecb515665401bc7c20d1ee3c683f9f05f2f7'

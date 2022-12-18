@@ -5,3 +5,5 @@ id_nomics: DUSD3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUSD3.png
 logoKey: currencies/dusd3.png
 name: Demeter USD
+platform: HT
+platform_contract: '0x9f5c80dc840f9cc60670a20c1e5d0fbd3e13b015'

@@ -6,3 +6,5 @@ id_nomics: BAB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAB.png
 logoKey: currencies/bab.png
 name: Basecoin
+platform: TRX
+platform_contract: '1002918'

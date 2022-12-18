@@ -5,3 +5,5 @@ id_nomics: DOSA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOSA2.jpg
 logoKey: currencies/dosa2.jpg
 name: MicroDOSA
+platform: BNB
+platform_contract: '0xAd089DaDd073e2dAeE0734ADe7E13696ed298aD4'

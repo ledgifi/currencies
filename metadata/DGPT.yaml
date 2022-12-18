@@ -5,3 +5,5 @@ id_nomics: DGPT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DGPT.jpg
 logoKey: currencies/dgpt.jpg
 name: DigiPulse Token
+platform: ETH
+platform_contract: '0xf6cfe53d6febaeea051f400ff5fc14f0cbbdaca1'

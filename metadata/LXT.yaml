@@ -6,3 +6,5 @@ id_nomics: LXT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/lxt.jpg
 logoKey: currencies/lxt.jpg
 name: Litex
+platform: ETH
+platform_contract: '0xbc46d9961a3932f7d6b64abfdec80c1816c4b835'

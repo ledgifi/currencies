@@ -5,3 +5,5 @@ id_nomics: TIP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIP2.jpg
 logoKey: currencies/tip2.jpg
 name: Technology Innovation Project
+platform: ETH
+platform_contract: '0x07de533cbc72395c32eb8981ddccd2cc6a6e1c4e'

@@ -6,3 +6,5 @@ id_nomics: YGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YGE.jpg
 logoKey: currencies/yge.jpg
 name: Yu-Gi-Eth!
+platform: ETH
+platform_contract: '0x3850b506d082ecc25e14c0ac0e60db06a725b87f'

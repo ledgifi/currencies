@@ -6,3 +6,5 @@ id_nomics: ANCW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANCW.jpg
 logoKey: currencies/ancw.jpg
 name: Ancient Warrior
+platform: BNB
+platform_contract: '0x57e21d5053a4cc894ec5fdea83fed209507685ad'

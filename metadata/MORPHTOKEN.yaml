@@ -3,3 +3,5 @@ fiat: false
 id: MORPHTOKEN
 id_nomics: MORPHTOKEN
 name: MorphToken
+platform: BNB
+platform_contract: '0x95e7c139a06ccbb8946517c95bed0c7af447c93b'

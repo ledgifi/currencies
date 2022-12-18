@@ -5,3 +5,5 @@ id_nomics: BAMI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAMI.jpg
 logoKey: currencies/bami.jpg
 name: Bami Token
+platform: BNB
+platform_contract: '0xe2d3486f46efbd4199ea087e9e466dcc35ee0248'

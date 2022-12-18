@@ -3,3 +3,5 @@ fiat: false
 id: LIGHTCRO
 id_nomics: LIGHTCRO
 name: Lightning Protocol (Cronos)
+platform: CRO
+platform_contract: '0x380640cccb60989d00c04621698fc3dc981f724c'

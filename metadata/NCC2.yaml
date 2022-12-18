@@ -5,3 +5,5 @@ id_nomics: NCC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NCC2.jpg
 logoKey: currencies/ncc2.jpg
 name: NoCapCoin
+platform: BNB
+platform_contract: '0x93dfc1e09b7164bafd4860963b6d94cbc4284774'

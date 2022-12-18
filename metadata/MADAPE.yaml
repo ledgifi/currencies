@@ -3,3 +3,5 @@ fiat: false
 id: MADAPE
 id_nomics: MADAPE
 name: MadApecoin
+platform: ETH
+platform_contract: '0x1c8606b91a169d0bb3dd3ae0471a2c8a1b10b042'

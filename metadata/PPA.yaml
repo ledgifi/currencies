@@ -3,3 +3,5 @@ fiat: false
 id: PPA
 id_nomics: PPA
 name: PPA
+platform: BNB
+platform_contract: '0xc7ce8427845d5e8fb5f3bdb877959e7370cffb1e'

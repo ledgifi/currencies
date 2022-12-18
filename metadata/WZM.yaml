@@ -6,3 +6,5 @@ id_nomics: WZM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WZM.jpg
 logoKey: currencies/wzm.jpg
 name: WooZooMusic
+platform: ETH
+platform_contract: '0xd15a1a2a3211b58113e45809f05934252e34e2f8'

@@ -6,3 +6,5 @@ id_nomics: RXS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RXS.png
 logoKey: currencies/rxs.png
 name: Rune Shards
+platform: BNB
+platform_contract: '0x2098fef7eeae592038f4f3c4b008515fed0d5886'

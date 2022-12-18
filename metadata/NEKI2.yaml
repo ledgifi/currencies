@@ -5,3 +5,5 @@ id_nomics: NEKI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEKI2.png
 logoKey: currencies/neki2.png
 name: Neki
+platform: BNB
+platform_contract: '0x374e51299e4ceE5d4B0385cc2bE9041c062e3232'

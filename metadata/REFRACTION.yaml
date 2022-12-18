@@ -5,3 +5,5 @@ id_nomics: REFRACTION
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REFRACTION.jpg
 logoKey: currencies/refraction.jpg
 name: Refraction
+platform: ETH
+platform_contract: '0x21a870c7fce1bce5d88bdf845ac332c76204a9a0'

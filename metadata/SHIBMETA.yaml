@@ -5,3 +5,5 @@ id_nomics: SHIBMETA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBMETA.jpg
 logoKey: currencies/shibmeta.jpg
 name: Shiba Metaverse
+platform: BNB
+platform_contract: '0xf52d13b7145390a67f5b93854a4b2eda7fb09fb1'

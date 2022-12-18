@@ -6,3 +6,5 @@ id_nomics: ERPT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ERPT.png
 logoKey: currencies/erpt.png
 name: Encrypter
+platform: BNB
+platform_contract: '0xc48a35b6fcdd1b5081222110a21872af802eddd8'

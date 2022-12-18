@@ -5,3 +5,5 @@ id_nomics: GEMS5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GEMS5.jpg
 logoKey: currencies/gems5.jpg
 name: GemSpree
+platform: BNB
+platform_contract: '0x48a64f116ce221fd7c1119775ba7892701f9911d'

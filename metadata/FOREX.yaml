@@ -5,3 +5,5 @@ id_nomics: FOREX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOREX.PNG
 logoKey: currencies/forex.png
 name: FOREXCOIN
+platform: ETH
+platform_contract: '0xa4e9584daa093cb1205e17ba737c3fd015748087'

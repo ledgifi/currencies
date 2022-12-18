@@ -3,3 +3,5 @@ fiat: false
 id: BRCP
 id_nomics: BRCP
 name: BRCP Token
+platform: ETH
+platform_contract: '0x73484a262730d1d422610729e828346f9b2ff480'

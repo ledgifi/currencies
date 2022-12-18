@@ -5,3 +5,5 @@ id_nomics: SAFESHIB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFESHIB2.jpg
 logoKey: currencies/safeshib2.jpg
 name: SafeShiba
+platform: BNB
+platform_contract: '0x0958fac26d489a0c86c053f9a4843ca57cc6ba7a'

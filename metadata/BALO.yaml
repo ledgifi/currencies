@@ -3,3 +3,5 @@ fiat: false
 id: BALO
 id_nomics: BALO
 name: Balloon Coin
+platform: ETH
+platform_contract: '0x6523203bd28d399068acc14db6b7f31d9bf43f1a'

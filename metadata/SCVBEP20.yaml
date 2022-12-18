@@ -5,3 +5,5 @@ id_nomics: SCVBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCVBEP20.jpg
 logoKey: currencies/scvbep20.jpg
 name: BSC-Peg SCV Token
+platform: BNB
+platform_contract: '0x1ecec64957a7f83f90e77bd1b1816ab40df4f615'

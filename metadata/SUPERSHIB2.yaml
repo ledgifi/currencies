@@ -3,3 +3,5 @@ fiat: false
 id: SUPERSHIB2
 id_nomics: SUPERSHIB2
 name: SuperSHIB
+platform: FTM
+platform_contract: '0x613ee6ae1a5e625530d08b72079d0494e400f5e9'

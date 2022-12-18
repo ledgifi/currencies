@@ -5,3 +5,5 @@ id_nomics: NFTOPIA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTOPIA.jpg
 logoKey: currencies/nftopia.jpg
 name: NFTOPIA
+platform: BNB
+platform_contract: '0x011febca40b8e6b97856717eef14914f2ab74f42'

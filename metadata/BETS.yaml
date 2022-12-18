@@ -5,3 +5,5 @@ id_nomics: BETS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BETS.png
 logoKey: currencies/bets.png
 name: HotBets
+platform: ETH
+platform_contract: '0xaa0b0f3d4c3411ccda45c7dc4eecda2e5cf7d024'

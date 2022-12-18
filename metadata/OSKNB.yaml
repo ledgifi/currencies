@@ -3,3 +3,5 @@ fiat: false
 id: OSKNB
 id_nomics: OSKNB
 name: osknb
+platform: BNB
+platform_contract: '0x582babd1a315fa9e91f7261b550514ff5382218d'

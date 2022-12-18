@@ -5,3 +5,5 @@ id_nomics: SGT5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SGT5.jpg
 logoKey: currencies/sgt5.jpg
 name: Squid God
+platform: BNB
+platform_contract: '0x141381f07fa31432243113cda2f617d5d255d39a'

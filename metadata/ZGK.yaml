@@ -5,3 +5,5 @@ id_nomics: ZGK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZGK.png
 logoKey: currencies/zgk.png
 name: ZGPoker
+platform: ETH
+platform_contract: '0x5e0ed77611560aff6c0fd9e15b7a66c430dc1e72'

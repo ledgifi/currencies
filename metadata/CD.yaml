@@ -5,3 +5,5 @@ id_nomics: CD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CD.jpg
 logoKey: currencies/cd.jpg
 name: Chainstake DEFI
+platform: BNB
+platform_contract: '0x98899db6c9aec89e1c8353f290dafd68a1ae9e40'

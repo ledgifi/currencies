@@ -5,3 +5,5 @@ id_nomics: POLX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POLX2.jpg
 logoKey: currencies/polx2.jpg
 name: Polylastic V2
+platform: BNB
+platform_contract: '0xbe510da084E084e3C27b20D79C135Dc841135c7F'

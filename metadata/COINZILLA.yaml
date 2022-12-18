@@ -3,3 +3,5 @@ fiat: false
 id: COINZILLA
 id_nomics: COINZILLA
 name: coinzilla
+platform: ETH
+platform_contract: '0x7c22fd3910f213e0ac3943aa261525b9a6e740f0'

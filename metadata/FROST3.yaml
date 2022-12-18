@@ -3,3 +3,5 @@ fiat: false
 id: FROST3
 id_nomics: FROST3
 name: Frost
+platform: AVAX
+platform_contract: '0x320ada89dbfa3a154613d2731c9bc3a4030dba19'

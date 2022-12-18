@@ -5,3 +5,5 @@ id_nomics: SIT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIT3.jpg
 logoKey: currencies/sit3.jpg
 name: SITPAY
+platform: ETH
+platform_contract: '0xcaf27e51ccd2a8584805e8521f5e7742599d48a2'

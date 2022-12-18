@@ -5,3 +5,5 @@ id_nomics: WYS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WYS.png
 logoKey: currencies/wys.png
 name: Wysker Token
+platform: ETH
+platform_contract: '0xd8950fdeaa10304b7a7fd03a2fc66bc39f3c711a'

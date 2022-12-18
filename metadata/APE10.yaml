@@ -5,3 +5,5 @@ id_nomics: APE10
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APE10.jpg
 logoKey: currencies/ape10.jpg
 name: ApeGrow
+platform: BNB
+platform_contract: '0x8ace7e0ca3d48f7b42ace2e82d082b91c7f3d32f'

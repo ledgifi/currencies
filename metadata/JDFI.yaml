@@ -5,3 +5,5 @@ id_nomics: JDFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JDFI.png
 logoKey: currencies/jdfi.png
 name: JusDeFi
+platform: ETH
+platform_contract: '0x75cdc4f6be18dc003dc2ae424f85d1243f0fb781'

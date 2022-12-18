@@ -3,3 +3,5 @@ fiat: false
 id: EROCKET
 id_nomics: EROCKET
 name: Ethereum Rocket
+platform: ETH
+platform_contract: '0x9a27f51ce3df4b45ca314d8a25accc048b3dc972'

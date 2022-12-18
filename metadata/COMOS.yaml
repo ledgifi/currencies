@@ -5,3 +5,5 @@ id_nomics: COMOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COMOS.jpg
 logoKey: currencies/comos.jpg
 name: Comos Token
+platform: BNB
+platform_contract: '0x4550f9c9e198f06ae62ab6e98183328caa9ae239'

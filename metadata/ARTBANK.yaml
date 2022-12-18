@@ -3,3 +3,5 @@ fiat: false
 id: ARTBANK
 id_nomics: ARTBANK
 name: Art Bank Pass
+platform: ETH
+platform_contract: '0x0264abd5dc656a2368fc306b7822ef5e51cc8fcf'

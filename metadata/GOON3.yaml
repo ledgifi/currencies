@@ -5,3 +5,5 @@ id_nomics: GOON3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOON3.png
 logoKey: currencies/goon3.png
 name: PolyGoon Token
+platform: MATIC
+platform_contract: '0x50d74b93b2d970a2d727a43f490742051d93401b'

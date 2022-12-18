@@ -5,3 +5,5 @@ id_nomics: SFF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFF2.jpeg
 logoKey: currencies/sff2.jpeg
 name: Sunflower Farmers
+platform: MATIC
+platform_contract: '0xdf9b4b57865b403e08c85568442f95c26b7896b0'

@@ -6,3 +6,5 @@ id_nomics: AVAMIM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVAMIM.jpg
 logoKey: currencies/avamim.jpg
 name: Ava MIM
+platform: AVAX
+platform_contract: '0xf97d917a0ef1bb6919c36489eb0fd00db41ffba8'

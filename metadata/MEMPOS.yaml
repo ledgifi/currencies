@@ -3,3 +3,5 @@ fiat: false
 id: MEMPOS
 id_nomics: MEMPOS
 name: Memecoin (Polygon)
+platform: MATIC
+platform_contract: '0x42dbbd5ae373fea2fc320f62d44c058522bb3758'

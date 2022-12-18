@@ -6,3 +6,5 @@ id_nomics: SAHU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAHU.jpg
 logoKey: currencies/sahu.jpg
 name: Sakhalin Husky
+platform: ETH
+platform_contract: '0x2b1fe2cea92436e8c34b7c215af66aaa2932a8b2'

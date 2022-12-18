@@ -6,3 +6,5 @@ id_nomics: FRG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FRG.jpg
 logoKey: currencies/frg.jpg
 name: Freedom Gold
+platform: BNB
+platform_contract: '0x525e6f5ea64b6750c18b97ce535177f680f15211'

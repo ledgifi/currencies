@@ -5,3 +5,5 @@ id_nomics: ALOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALOT.jpeg
 logoKey: currencies/alot.jpeg
 name: PUMPS
+platform: BNB
+platform_contract: '0x7fa052fb6705D21182704a33f7f10E48F5623A24'

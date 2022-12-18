@@ -3,3 +3,5 @@ fiat: false
 id: 4POOL
 id_nomics: 4POOL
 name: 4Pool Reserve
+platform: ETH
+platform_contract: '0x62dfe603638eb267b3a82a85182014bfb0667c22'

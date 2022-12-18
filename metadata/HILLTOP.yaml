@@ -5,3 +5,5 @@ id_nomics: HILLTOP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HILLTOP.jpeg
 logoKey: currencies/hilltop.jpeg
 name: Hilltop
+platform: MATIC
+platform_contract: '0x27845cFFF80407100481d2eEF169e9887D641939'

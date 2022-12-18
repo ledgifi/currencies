@@ -6,3 +6,5 @@ id_nomics: SBF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBF.jpg
 logoKey: currencies/sbf.jpg
 name: SteakBank Finance
+platform: BNB
+platform_contract: '0xbb53fcab7a3616c5be33b9c0af612f0462b01734'

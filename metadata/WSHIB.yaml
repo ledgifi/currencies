@@ -3,3 +3,5 @@ fiat: false
 id: WSHIB
 id_nomics: WSHIB
 name: Wrapped SHIB
+platform: BNB
+platform_contract: '0x30b40a642c12720bf6a8c498add2d44cc1a769b9'

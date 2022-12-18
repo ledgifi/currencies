@@ -3,3 +3,5 @@ fiat: false
 id: HUB4
 id_nomics: HUB4
 name: HubToken
+platform: ETH
+platform_contract: '0x4790f605cbdba5fce4f209868b5a05b3bff7272c'

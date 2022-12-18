@@ -5,3 +5,5 @@ id_nomics: CLL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLL.jpg
 logoKey: currencies/cll.jpg
 name: Attention Mining
+platform: ETH
+platform_contract: '0x3dc9a42fa7afe57be03c58fd7f4411b1e466c508'

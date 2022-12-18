@@ -5,3 +5,5 @@ id_nomics: WOOFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOOFI.jpg
 logoKey: currencies/woofi.jpg
 name: Woof Inu
+platform: BNB
+platform_contract: '0x5218fbdbb08cb3f238ebd696c075cc7578b457da'

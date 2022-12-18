@@ -6,3 +6,5 @@ id_nomics: PYO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PYO.jpg
 logoKey: currencies/pyo.jpg
 name: Pyrrho DeFi
+platform: BNB
+platform_contract: '0xe6df015f66653ece085a5fbba8d42c356114ce4f'

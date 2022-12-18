@@ -5,3 +5,5 @@ id_nomics: PZS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PZS.png
 logoKey: currencies/pzs.png
 name: Payzus
+platform: ETH
+platform_contract: '0x86690e2613be52ee927d395db87f69ebcdf88f27'

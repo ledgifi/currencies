@@ -5,3 +5,5 @@ id_nomics: PCNT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PCNT.jpg
 logoKey: currencies/pcnt.jpg
 name: Playcent
+platform: ETH
+platform_contract: '0x657b83a0336561c8f64389a6f5ade675c04b0c3b'

@@ -5,3 +5,5 @@ id_nomics: FIREROCKET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIREROCKET.jpg
 logoKey: currencies/firerocket.jpg
 name: FireRocket
+platform: BNB
+platform_contract: '0xf8740caa02d45410de2da9823c5d8b5924bc3b52'

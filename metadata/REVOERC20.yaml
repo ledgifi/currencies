@@ -5,3 +5,5 @@ id_nomics: REVOERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REVOERC20.jpg
 logoKey: currencies/revoerc20.jpg
 name: Revomon (ERC-20)
+platform: ETH
+platform_contract: '0x155040625d7ae3e9cada9a73e3e44f76d3ed1409'

@@ -3,3 +3,5 @@ fiat: false
 id: LUNASWAP
 id_nomics: LUNASWAP
 name: LUNASWAP
+platform: ETH
+platform_contract: '0xc2240b77427c34579d8d9d0447393eb531711ca4'

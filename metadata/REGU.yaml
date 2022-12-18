@@ -6,3 +6,5 @@ id_nomics: REGU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REGU.jpg
 logoKey: currencies/regu.jpg
 name: RegularPresale
+platform: BNB
+platform_contract: '0xf1ca73caa1c7ad66af11147ba7d5636243af0493'

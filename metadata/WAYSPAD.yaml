@@ -5,3 +5,5 @@ id_nomics: WAYSPAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAYSPAD.jpg
 logoKey: currencies/wayspad.jpg
 name: WaysPad
+platform: BNB
+platform_contract: '0x21FeCfFF675ac39442633105bD9c8Afb7776A23c'

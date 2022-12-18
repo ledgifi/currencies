@@ -5,3 +5,5 @@ id_nomics: STARX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STARX.png
 logoKey: currencies/starx.png
 name: STARX Token
+platform: ETH
+platform_contract: '0xc4e8a9d47000ab8e59c7031e311762c68215e467'

@@ -3,3 +3,5 @@ fiat: false
 id: MOOCHARGECHARGEBUSD
 id_nomics: MOOCHARGECHARGEBUSD
 name: Moo Charge CHARGE-BUSD
+platform: BNB
+platform_contract: '0xdf988851e4cba99565a9949706ff75fd7f3b1b7a'

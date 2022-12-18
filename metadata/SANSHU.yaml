@@ -6,3 +6,5 @@ id_nomics: SANSHU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SANSHU.jpg
 logoKey: currencies/sanshu.jpg
 name: Sanshu Inu
+platform: ETH
+platform_contract: '0xc73c167e7a4ba109e4052f70d5466d0c312a344d'

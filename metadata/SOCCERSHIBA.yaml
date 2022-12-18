@@ -5,3 +5,5 @@ id_nomics: SOCCERSHIBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOCCERSHIBA.jpg
 logoKey: currencies/soccershiba.jpg
 name: Soccer Shiba
+platform: BNB
+platform_contract: '0x93520f57d7BA7e76e28F07a065dA982517e146a1'

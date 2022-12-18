@@ -5,3 +5,5 @@ id_nomics: DSRT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DSRT.jpg
 logoKey: currencies/dsrt.jpg
 name: DessertSwap
+platform: BNB
+platform_contract: '0x6d6959ba76e259c4fd50f8b638b07ce17e1c6312'

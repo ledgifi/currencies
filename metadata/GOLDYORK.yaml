@@ -6,3 +6,5 @@ id_nomics: GOLDYORK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOLDYORK.jpg
 logoKey: currencies/goldyork.jpg
 name: Golden York
+platform: MATIC
+platform_contract: '0xbf583f12b9afa44d86a0cc61a858473371b0677d'

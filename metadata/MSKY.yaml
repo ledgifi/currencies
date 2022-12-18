@@ -3,3 +3,5 @@ fiat: false
 id: MSKY
 id_nomics: MSKY
 name: MuskyUP
+platform: BNB
+platform_contract: '0xa7cff4b2976f5a69f1628763967948a6b7e1abdc'

@@ -5,3 +5,5 @@ id_nomics: BRO8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRO8.png
 logoKey: currencies/bro8.png
 name: Brokkr
+platform: AVAX
+platform_contract: '0x65031e28cb0e8cc21ae411f9dd22c9b1bd260ce4'

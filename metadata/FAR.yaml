@@ -6,3 +6,5 @@ id_nomics: FAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FAR.jpg
 logoKey: currencies/far.jpg
 name: Farmland Protocol
+platform: ETH
+platform_contract: '0xaae3cf9968d26925bdb73ce3864e0084a20f4687'

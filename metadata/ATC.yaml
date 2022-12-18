@@ -3,3 +3,5 @@ fiat: false
 id: ATC
 id_nomics: ATC
 name: Atlantic Coin
+platform: ETH
+platform_contract: '0x72b2b8e42a10d785abf85f3044223db8c9167bd6'

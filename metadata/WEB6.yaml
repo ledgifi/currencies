@@ -5,3 +5,5 @@ id_nomics: WEB6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WEB6.jpg
 logoKey: currencies/web6.jpg
 name: Webonomics
+platform: BNB
+platform_contract: '0x7cd946ce688069fdd8ca133d8b8b2ec263b943f4'

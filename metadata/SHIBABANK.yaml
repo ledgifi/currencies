@@ -6,3 +6,5 @@ id_nomics: SHIBABANK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBABANK.jpg
 logoKey: currencies/shibabank.jpg
 name: Shiba Bank
+platform: BNB
+platform_contract: '0x8961bf99c5bb35fc9659620f2ef383e0a24934db'

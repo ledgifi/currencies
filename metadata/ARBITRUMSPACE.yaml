@@ -3,3 +3,5 @@ fiat: false
 id: ARBITRUMSPACE
 id_nomics: ARBITRUMSPACE
 name: ArbitrumSpace
+platform: ARBETH
+platform_contract: '0x70b0d0a92ef014769bea320dd458ff2ab0fd3d91'

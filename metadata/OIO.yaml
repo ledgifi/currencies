@@ -5,3 +5,5 @@ id_nomics: OIO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/oio.png
 logoKey: currencies/oio.png
 name: online.io
+platform: ETH
+platform_contract: '0xa3efef1a1e3d1ad72b9d0f4253e7c9c084c2c08b'

@@ -5,3 +5,5 @@ id_nomics: BBT10
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBT10.jpg
 logoKey: currencies/bbt10.jpg
 name: Big Bank Theory
+platform: ETH
+platform_contract: '0x0c4A49567Cf002A99941cb19C973E794c04B8c30'

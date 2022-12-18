@@ -5,3 +5,5 @@ id_nomics: ECS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECS2.jpeg
 logoKey: currencies/ecs2.jpeg
 name: EthereumCheems
+platform: BNB
+platform_contract: '0x695a4fc5e618b2eee7c52a252d89f2f548d2c158'

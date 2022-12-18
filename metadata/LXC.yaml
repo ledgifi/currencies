@@ -5,3 +5,5 @@ id_nomics: LXC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LXC.jpg
 logoKey: currencies/lxc.jpg
 name: Latex Chain
+platform: ETH
+platform_contract: '0x6a404a3386655bd8b63e584f2efd2e3fb60e70f8'

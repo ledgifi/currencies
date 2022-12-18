@@ -6,3 +6,5 @@ id_nomics: MGAMES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MGAMES.jpg
 logoKey: currencies/mgames.jpg
 name: Meme Games
+platform: ETH
+platform_contract: '0x311f809f14cc30ec50570c59ddc708c0d69b8634'

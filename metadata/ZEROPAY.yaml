@@ -6,3 +6,5 @@ id_nomics: ZEROPAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZEROPAY.jpeg
 logoKey: currencies/zeropay.jpeg
 name: Zeropay Finance
+platform: BNB
+platform_contract: '0x1317844b72a14be861e0eb8b9d427cf3feb84a24'

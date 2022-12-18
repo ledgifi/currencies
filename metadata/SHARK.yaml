@@ -3,3 +3,5 @@ fiat: false
 id: SHARK
 id_nomics: SHARK
 name: SharkTrade
+platform: ETH
+platform_contract: '0x18f865d0fc2c82e787cc2bebc5f7652a3f600df7'

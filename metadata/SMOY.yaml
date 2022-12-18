@@ -5,3 +5,5 @@ id_nomics: SMOY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMOY.png
 logoKey: currencies/smoy.png
 name: Samoyed Finance
+platform: BNB
+platform_contract: '0xbdb44df0a914c290dfd84c1eaf5899d285717fdc'

@@ -5,3 +5,5 @@ id_nomics: TOKYO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOKYO2.jpg
 logoKey: currencies/tokyo2.jpg
 name: TokyoToken
+platform: BNB
+platform_contract: '0x3f25f73707539a2393d673abc99566d4de2071d4'

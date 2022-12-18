@@ -5,3 +5,5 @@ id_nomics: JPYQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JPYQ.jpg
 logoKey: currencies/jpyq.jpg
 name: JPYQ
+platform: ETH
+platform_contract: '0x558A069a3A1a1e72398607b9E3577fCe1C67EA63'

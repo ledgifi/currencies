@@ -6,3 +6,5 @@ id_nomics: FIG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIG.jpg
 logoKey: currencies/fig.jpg
 name: FlowCom
+platform: BNB
+platform_contract: '0x53fdca9a60c911d4e58759b0ae39a2bf2efef5d4'

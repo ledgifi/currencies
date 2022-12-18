@@ -6,3 +6,5 @@ id_nomics: TARP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TARP.jpg
 logoKey: currencies/tarp.jpg
 name: Totally A Rug Pull
+platform: BNB
+platform_contract: '0x6c0a568a3ffb61957812fb3e300e4c10b708d336'

@@ -6,3 +6,5 @@ id_nomics: ZUT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZUT.jpeg
 logoKey: currencies/zut.jpeg
 name: Zero Utility Token
+platform: ETH
+platform_contract: '0x83f873388cd14b83a9f47fabde3c9850b5c74548'

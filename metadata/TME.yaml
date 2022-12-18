@@ -6,3 +6,5 @@ id_nomics: TME
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TME.jpg
 logoKey: currencies/tme.jpg
 name: TAMA EGG NiftyGotchi
+platform: ETH
+platform_contract: '0x6e742e29395cf5736c358538f0f1372ab3dfe731'

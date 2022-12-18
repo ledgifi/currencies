@@ -3,3 +3,5 @@ fiat: false
 id: GMESS
 id_nomics: GMESS
 name: GME Stock Split
+platform: ETH
+platform_contract: '0x2f27805a80ab9383188f541e537a2f7073f3e023'

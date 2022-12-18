@@ -6,3 +6,5 @@ id_nomics: GOL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOL.jpg
 logoKey: currencies/gol.jpg
 name: GogolCoin
+platform: ETH
+platform_contract: '0x083d41d6dd21ee938f0c055ca4fb12268df0efac'

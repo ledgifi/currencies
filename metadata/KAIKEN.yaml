@@ -3,3 +3,5 @@ fiat: false
 id: KAIKEN
 id_nomics: KAIKEN
 name: KaikenToken
+platform: ETH
+platform_contract: '0x5b982018545ff26f0cf2e3cda8aed859e3072e07'

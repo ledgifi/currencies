@@ -5,3 +5,5 @@ id_nomics: SHIELD8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIELD8.png
 logoKey: currencies/shield8.png
 name: Shieldinu
+platform: MATIC
+platform_contract: '0x556Ad1888b6487e5F17F310Da23b922F98A758cF'

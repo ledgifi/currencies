@@ -5,3 +5,5 @@ id_nomics: TOR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOR3.png
 logoKey: currencies/tor3.png
 name: TOR
+platform: FTM
+platform_contract: '0x74e23df9110aa9ea0b6ff2faee01e740ca1c642e'

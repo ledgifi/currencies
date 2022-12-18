@@ -3,3 +3,5 @@ fiat: false
 id: ELECTRICCOIN
 id_nomics: ELECTRICCOIN
 name: ElectricCoin
+platform: ETH
+platform_contract: '0xf9746cc4de5bb67ddaf71facc840f1963342ba55'

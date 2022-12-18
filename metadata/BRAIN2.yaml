@@ -5,3 +5,5 @@ id_nomics: BRAIN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRAIN2.png
 logoKey: currencies/brain2.png
 name: BrainSwap
+platform: MATIC
+platform_contract: '0x5c6014246fc7911f4db270aa3910f23eecd61720'

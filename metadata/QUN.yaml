@@ -6,3 +6,5 @@ id_nomics: QUN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/qun.png
 logoKey: currencies/qun.png
 name: QunQun
+platform: ETH
+platform_contract: '0x264dc2dedcdcbb897561a57cba5085ca416fb7b4'

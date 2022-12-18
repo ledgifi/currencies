@@ -6,3 +6,5 @@ id_nomics: HYPERBOOST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HYPERBOOST.jpg
 logoKey: currencies/hyperboost.jpg
 name: HyperBoost
+platform: BNB
+platform_contract: '0xfbc37a1865dd46091a45221f575062a3b8b2e676'

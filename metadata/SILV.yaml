@@ -5,3 +5,5 @@ id_nomics: SILV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SILV.jpg
 logoKey: currencies/silv.jpg
 name: Escrowed Illuvium
+platform: ETH
+platform_contract: '0x398aea1c9ceb7de800284bb399a15e0efe5a9ec2'

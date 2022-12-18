@@ -5,3 +5,5 @@ id_nomics: PAYNS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAYNS.jpg
 logoKey: currencies/payns.jpg
 name: Paynshop
+platform: BNB
+platform_contract: '0xcb6b5d0562bb2acbd930c3112857e5121a02b522'

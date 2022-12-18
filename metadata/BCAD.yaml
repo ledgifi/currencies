@@ -5,3 +5,5 @@ id_nomics: BCAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCAD.png
 logoKey: currencies/bcad.png
 name: Bitcoin CANADIAN DOLLAR
+platform: BNB
+platform_contract: '0xf4760a47cd23eb27ce475bb013040690977f0568'

@@ -3,3 +3,5 @@ fiat: false
 id: CPS
 id_nomics: CPS
 name: CPS Coin
+platform: ETH
+platform_contract: '0xb5a52519426ec6d88784cc80e621062498306734'

@@ -3,3 +3,5 @@ fiat: false
 id: JABS
 id_nomics: JABS
 name: Jabs Token
+platform: ETH
+platform_contract: '0x704ebb34c391621b4725b68f71d51aa4d7abda16'

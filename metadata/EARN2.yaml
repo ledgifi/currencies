@@ -5,3 +5,5 @@ id_nomics: EARN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EARN2.png
 logoKey: currencies/earn2.png
 name: Earn Network
+platform: ETH
+platform_contract: '0x31e92324ef7185c65dd4d154cfa4f6326b489c55'

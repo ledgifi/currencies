@@ -5,3 +5,5 @@ id_nomics: BCZ2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCZ2.jpg
 logoKey: currencies/bcz2.jpg
 name: Becaz
+platform: ETH
+platform_contract: '0x08399ab5ebbe96870b289754a7bd21e7ec8c6fcb'

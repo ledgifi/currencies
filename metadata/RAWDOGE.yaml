@@ -3,3 +3,5 @@ fiat: false
 id: RAWDOGE
 id_nomics: RAWDOGE
 name: RawDoge
+platform: BNB
+platform_contract: '0x8312415440f767ac43f26de9c24ea10805578ec3'

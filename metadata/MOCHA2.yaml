@@ -5,3 +5,5 @@ id_nomics: MOCHA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOCHA2.jpg
 logoKey: currencies/mocha2.jpg
 name: Mocha Inu
+platform: ETH
+platform_contract: '0x1fc7a7975faa73f974ba9d376c60c918956dc728'

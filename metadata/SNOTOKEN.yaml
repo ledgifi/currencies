@@ -3,3 +3,5 @@ fiat: false
 id: SNOTOKEN
 id_nomics: SNOTOKEN
 name: SNO
+platform: AVAX
+platform_contract: '0x1fe4869f2c5181b9cd780a7e16194fa2c4c4293d'

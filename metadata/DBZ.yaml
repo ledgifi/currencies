@@ -6,3 +6,5 @@ id_nomics: DBZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DBZ.jpg
 logoKey: currencies/dbz.jpg
 name: Diamond Boyz Coin
+platform: BNB
+platform_contract: '0x7a983559e130723b70e45bd637773dbdfd3f71db'

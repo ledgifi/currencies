@@ -5,3 +5,5 @@ id_nomics: ZED2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZED2.png
 logoKey: currencies/zed2.png
 name: ZED
+platform: CNDL
+platform_contract: '0x5c17C48F127D6aE5794b2404F1F8A5CeED419eDf'

@@ -5,3 +5,5 @@ id_nomics: FITC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FITC.jpg
 logoKey: currencies/fitc.jpg
 name: Fitcoin
+platform: ETH
+platform_contract: '0x923c67e90079934a7a81cecad1e1933e98f0b51c'

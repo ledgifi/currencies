@@ -5,3 +5,5 @@ id_nomics: BZIL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BZIL.jpg
 logoKey: currencies/bzil.jpg
 name: BabyGodZilliqa
+platform: BNB
+platform_contract: '0xbce6854647753dbe694dbf0bb336b9aac3c2cb96'

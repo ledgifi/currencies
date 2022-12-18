@@ -5,3 +5,5 @@ id_nomics: CLUB5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLUB5.jpg
 logoKey: currencies/club5.jpg
 name: Club
+platform: ETH
+platform_contract: '0xf76d80200226ac250665139b9e435617e4ba55f9'

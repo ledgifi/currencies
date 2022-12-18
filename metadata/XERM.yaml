@@ -3,3 +3,5 @@ fiat: false
 id: XERM
 id_nomics: XERM
 name: Xerium
+platform: ETH
+platform_contract: '0x700d6eca747892fbad8f51cae938a56b84aae207'

@@ -6,3 +6,5 @@ id_nomics: NCC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ncc.jpg
 logoKey: currencies/ncc.jpg
 name: NeuroChain
+platform: ETH
+platform_contract: '0x5d48f293baed247a2d0189058ba37aa238bd4725'

@@ -6,3 +6,5 @@ id_nomics: RUN
 logo: https://static.coinpaprika.com/coin/run-run/logo.png
 logoKey: currencies/run.png
 name: Run
+platform: ETH
+platform_contract: '0x49A36686333987A3fb0b80D19D75Eb319C2E312E'

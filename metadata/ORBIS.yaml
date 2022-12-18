@@ -3,3 +3,5 @@ fiat: false
 id: ORBIS
 id_nomics: ORBIS
 name: Orbis
+platform: MATIC
+platform_contract: '0x47246854566cb7793be8ece779b53240c5ee418f'

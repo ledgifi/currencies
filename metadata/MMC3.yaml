@@ -5,3 +5,5 @@ id_nomics: MMC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MMC3.jpg
 logoKey: currencies/mmc3.jpg
 name: Metaminecraft
+platform: BNB
+platform_contract: '0x6FEE6007eD50ed435671a6208E0B4a7Aaba72c65'

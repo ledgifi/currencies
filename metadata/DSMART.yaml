@@ -3,3 +3,5 @@ fiat: false
 id: DSMART
 id_nomics: DSMART
 name: DexSMART
+platform: SMARTBCH
+platform_contract: '0x47c259dfe165cef3e429c9b66bf9ce9dc3e68ac2'

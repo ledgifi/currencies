@@ -5,3 +5,5 @@ id_nomics: GROWGOLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GROWGOLD.jpg
 logoKey: currencies/growgold.jpg
 name: Grow Gold Coin
+platform: ETH
+platform_contract: '0x7aa8c5485f5ee965f4e1877cc2112983b9a1ec33'

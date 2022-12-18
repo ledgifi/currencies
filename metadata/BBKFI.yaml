@@ -6,3 +6,5 @@ id_nomics: BBKFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBKFI.jpg
 logoKey: currencies/bbkfi.jpg
 name: BitBlocks Finance
+platform: BNB
+platform_contract: '0xfc8e68e30350c6603d3d29fcc8e676380c28fcf4'

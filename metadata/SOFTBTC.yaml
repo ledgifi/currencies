@@ -5,3 +5,5 @@ id_nomics: SOFTBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOFTBTC.jpg
 logoKey: currencies/softbtc.jpg
 name: Soft Bitcoin
+platform: ETH
+platform_contract: '0x309013d55fb0e8c17363bcc79f25d92f711a5802'

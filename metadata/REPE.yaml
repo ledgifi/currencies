@@ -3,3 +3,5 @@ fiat: false
 id: REPE
 id_nomics: REPE
 name: Repezen Token
+platform: BNB
+platform_contract: '0x909482db3cd4a4c1d3ed13a9fd9263210e8d22bb'

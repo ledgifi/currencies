@@ -3,3 +3,5 @@ fiat: false
 id: SMETA
 id_nomics: SMETA
 name: Staked Meta
+platform: BNB
+platform_contract: '0x09f33ec33052cd253db79ffa883e9c12eb578309'

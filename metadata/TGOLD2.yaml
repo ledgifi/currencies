@@ -5,3 +5,5 @@ id_nomics: TGOLD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TGOLD2.jpg
 logoKey: currencies/tgold2.jpg
 name: Trump Gold
+platform: ETH
+platform_contract: '0x29699c8485302cd2857043fab8bd885ba08cf268'

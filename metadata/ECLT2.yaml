@@ -5,3 +5,5 @@ id_nomics: ECLT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECLT2.jpg
 logoKey: currencies/eclt2.jpg
 name: ECASHLite V2
+platform: BNB
+platform_contract: '0xe97cc4583a126E5BB2f8473671050B155AF4C5F1'

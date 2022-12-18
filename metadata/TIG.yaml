@@ -6,3 +6,5 @@ id_nomics: TIG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIG.png
 logoKey: currencies/tig.png
 name: Tigereum
+platform: ETH
+platform_contract: '0x749826f1041caf0ea856a4b3578ba327b18335f8'

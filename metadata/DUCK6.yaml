@@ -5,3 +5,5 @@ id_nomics: DUCK6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUCK6.jpg
 logoKey: currencies/duck6.jpg
 name: Duck Finance
+platform: BNB
+platform_contract: '0x11187b577b7dc6eabb6bc30965c3a9872cd8ad6a'

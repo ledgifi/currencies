@@ -3,3 +3,5 @@ fiat: false
 id: TESTFARM
 id_nomics: TESTFARM
 name: TESTFARM DONT BUY
+platform: ETH
+platform_contract: '0x4d5080afb25aa7706f26f4d1ae3b381d3ea0ca8a'

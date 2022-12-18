@@ -5,3 +5,5 @@ id_nomics: P2PS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/P2PS.jpg
 logoKey: currencies/p2ps.jpg
 name: P2P solutions foundation
+platform: ETH
+platform_contract: '0x4527a3b4a8a150403090a99b87effc96f2195047'

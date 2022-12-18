@@ -3,3 +3,5 @@ fiat: false
 id: FIRPOW
 id_nomics: FIRPOW
 name: First Power
+platform: BNB
+platform_contract: '0xc0205f9b3e0fdd8254737dcdbf092207cc615667'

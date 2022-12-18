@@ -5,3 +5,5 @@ id_nomics: DAIQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAIQ.png
 logoKey: currencies/daiq.png
 name: Daiquilibrium
+platform: ETH
+platform_contract: '0x73d9e335669462cbdd6aa3adafe9efee86a37fe9'

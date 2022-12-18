@@ -5,3 +5,5 @@ id_nomics: BLCK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLCK.png
 logoKey: currencies/blck.png
 name: Legacy Block
+platform: BNB
+platform_contract: '0x5c4fdfa0fb5ef307e6e891df1ff9a2c3154d46c6'

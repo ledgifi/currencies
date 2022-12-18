@@ -5,3 +5,5 @@ id_nomics: IMP4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IMP4.png
 logoKey: currencies/imp4.png
 name: ImpDAO
+platform: FTM
+platform_contract: '0x1C1d786f88eaf8fD1E0939757520beC1413310FE'

@@ -6,3 +6,5 @@ id_nomics: NSH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NSH.png
 logoKey: currencies/nsh.png
 name: NOSHIT
+platform: BNB
+platform_contract: '0x53f042f3e809d2dcc9492de2dbf05d1da0ef5fbb'

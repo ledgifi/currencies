@@ -3,3 +3,5 @@ fiat: false
 id: TUSDC
 id_nomics: TUSDC
 name: TEST USDC
+platform: MATIC
+platform_contract: '0x910a3709e71690c4bf76f8b73bbc3ff2d2040f53'

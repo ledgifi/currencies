@@ -6,3 +6,5 @@ id_nomics: BUU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUU.jpg
 logoKey: currencies/buu.jpg
 name: Buu Inu
+platform: ETH
+platform_contract: '0xa700f2b3d8ebe35cef86fcc3c2105daff41617be'

@@ -5,3 +5,5 @@ id_nomics: CATS4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CATS4.png
 logoKey: currencies/cats4.png
 name: CATS Token
+platform: ETH
+platform_contract: '0x765a6c174202a78561c986684df1004cbf38faeb'

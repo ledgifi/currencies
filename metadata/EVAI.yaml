@@ -5,3 +5,5 @@ id_nomics: EVAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVAI.png
 logoKey: currencies/evai.png
 name: Evai
+platform: ETH
+platform_contract: '0x50f09629d0afdf40398a3f317cc676ca9132055c'

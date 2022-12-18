@@ -3,3 +3,5 @@ fiat: false
 id: MCCC
 id_nomics: MCCC
 name: MultiChainCapitalClassic
+platform: ETH
+platform_contract: '0x914b05cae395164152a32f036f79c3d07791f993'

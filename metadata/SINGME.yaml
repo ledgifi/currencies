@@ -3,3 +3,5 @@ fiat: false
 id: SINGME
 id_nomics: SINGME
 name: SingMe
+platform: BNB
+platform_contract: '0x1a5978af0c006ba46f1eb92000bf1040a97f647e'

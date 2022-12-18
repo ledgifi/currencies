@@ -3,3 +3,5 @@ fiat: false
 id: USB
 id_nomics: USB
 name: USB
+platform: HT
+platform_contract: '0x00ebc373e8daebd66c7a171dd2d8abbad62fdd4e'

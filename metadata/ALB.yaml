@@ -6,3 +6,5 @@ id_nomics: ALB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALB.jpg
 logoKey: currencies/alb.jpg
 name: Albos
+platform: ETH
+platform_contract: '0xf3e70642c28f3f707408c56624c2f30ea9f9fce3'

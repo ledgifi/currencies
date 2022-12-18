@@ -6,3 +6,5 @@ id_nomics: HEZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HEZ.jpg
 logoKey: currencies/hez.jpg
 name: Hermez Network
+platform: ETH
+platform_contract: '0xeef9f339514298c6a857efcfc1a762af84438dee'

@@ -3,3 +3,5 @@ fiat: false
 id: WINDSTAR
 id_nomics: WINDSTAR
 name: WindStar
+platform: ARBETH
+platform_contract: '0xcb3f626d2fdf7d02ebbee4acda294b0855409598'

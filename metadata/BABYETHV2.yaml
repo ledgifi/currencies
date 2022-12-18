@@ -6,3 +6,5 @@ id_nomics: BABYETHV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYETHV2.jpg
 logoKey: currencies/babyethv2.jpg
 name: BabyETH V2
+platform: BNB
+platform_contract: '0x1718c8727fa248f8b2521e05e1d1065e3be56d55'

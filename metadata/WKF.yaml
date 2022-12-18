@@ -3,3 +3,5 @@ fiat: false
 id: WKF
 id_nomics: WKF
 name: Workfinance
+platform: BNB
+platform_contract: '0xfc626f10eb342e1e519fa28177140ec653f3de2e'

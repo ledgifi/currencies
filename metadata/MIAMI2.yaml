@@ -5,3 +5,5 @@ id_nomics: MIAMI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIAMI2.jpg
 logoKey: currencies/miami2.jpg
 name: Miami Land
+platform: BNB
+platform_contract: '0x706827673f90345546ff3c60e6c1b23de149dd35'

@@ -5,3 +5,5 @@ id_nomics: IBC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IBC.png
 logoKey: currencies/ibc.png
 name: IBC CHAIN
+platform: ETH
+platform_contract: '0x8eff575359d56005b816028384c2b386dcb20015'

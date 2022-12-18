@@ -5,3 +5,5 @@ id_nomics: LIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIB.jpg
 logoKey: currencies/lib.jpg
 name: Banklife
+platform: ETH
+platform_contract: '0x3fd2e747cea0e8a78f1827ea2ffd3334628a600b'

@@ -5,3 +5,5 @@ id_nomics: FLOKIDOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKIDOT.jpg
 logoKey: currencies/flokidot.jpg
 name: FlokiDOT
+platform: BNB
+platform_contract: '0x50c840a03c9a0cd653cf205ced3d88ced6e44e25'

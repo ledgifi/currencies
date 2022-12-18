@@ -5,3 +5,5 @@ id_nomics: SFIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFIN.png
 logoKey: currencies/sfin.png
 name: Songbird Finance
+platform: SGB2
+platform_contract: '0x0D94e59332732D18CF3a3D457A8886A2AE29eA1B'

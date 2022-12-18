@@ -5,3 +5,5 @@ id_nomics: AKITADAO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AKITADAO.png
 logoKey: currencies/akitadao.png
 name: Akita DAO
+platform: BNB
+platform_contract: '0xd848075ed5b5098b343e35b6af0e15064ef8c4e9'

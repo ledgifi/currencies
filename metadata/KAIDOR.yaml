@@ -5,3 +5,5 @@ id_nomics: KAIDOR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAIDOR.png
 logoKey: currencies/kaidor.png
 name: Kaido Reborn
+platform: BNB
+platform_contract: '0x61cdc7816C662cAA72aC3a9130AEBed234131c0c'

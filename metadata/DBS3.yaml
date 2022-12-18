@@ -5,3 +5,5 @@ id_nomics: DBS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DBS3.jpg
 logoKey: currencies/dbs3.jpg
 name: Drakeball Super
+platform: BNB
+platform_contract: '0xfe006dc583ab09b0b67a69cbc398b45f04815566'

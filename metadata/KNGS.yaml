@@ -5,3 +5,5 @@ id_nomics: KNGS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KNGS.png
 logoKey: currencies/kngs.png
 name: Pixel Kings
+platform: BNB
+platform_contract: '0x7444e37559a16c5c7337f41955cd3bb04b28a114'

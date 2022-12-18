@@ -6,3 +6,5 @@ id_nomics: BTCRED
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCRED.png
 logoKey: currencies/btcred.png
 name: Bitcoin Red
+platform: ETH
+platform_contract: '0x6aac8cb9861e42bf8259f5abdc6ae3ae89909e11'

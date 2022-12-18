@@ -5,3 +5,5 @@ id_nomics: SAPPCHAIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAPPCHAIN.png
 logoKey: currencies/sappchain.png
 name: SAPPCHAIN
+platform: ETH
+platform_contract: '0x4df76a9dab9bb8310e4ad3dc4336a8e26ed24ebb'

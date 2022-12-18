@@ -6,3 +6,5 @@ id_nomics: BTC2X
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTC2X.png
 logoKey: currencies/btc2x.png
 name: Bitcoin2x
+platform: ETH
+platform_contract: '0x15ef5b9447710eab904e63e6233ff540400d603f'

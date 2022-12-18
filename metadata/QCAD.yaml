@@ -6,3 +6,5 @@ id_nomics: QCAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QCAD.jpg
 logoKey: currencies/qcad.jpg
 name: QCAD
+platform: ETH
+platform_contract: '0x4a16baf414b8e637ed12019fad5dd705735db2e0'

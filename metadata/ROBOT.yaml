@@ -6,3 +6,5 @@ id_nomics: ROBOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROBOT.jpg
 logoKey: currencies/robot.jpg
 name: Robot
+platform: ETH
+platform_contract: '0xfb5453340c03db5ade474b27e68b6a9c6b2823eb'

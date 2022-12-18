@@ -3,3 +3,5 @@ fiat: false
 id: FRDM
 id_nomics: FRDM
 name: Freedom Inu
+platform: ETH
+platform_contract: '0x928b804149c42830cc2cccd520ee31b72d152ed8'

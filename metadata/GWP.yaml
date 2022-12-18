@@ -5,3 +5,5 @@ id_nomics: GWP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GWP.png
 logoKey: currencies/gwp.png
 name: Green World Project
+platform: ETH
+platform_contract: '0x4ffe33e525042cc84c503db5842ecda280f4a805'

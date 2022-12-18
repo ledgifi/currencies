@@ -5,3 +5,5 @@ id_nomics: METAQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAQ.jpeg
 logoKey: currencies/metaq.jpeg
 name: Meta Quantic
+platform: BNB
+platform_contract: '0x7f7cb9aa61bc8d2198eca42ef7dfa1c532ec33ca'

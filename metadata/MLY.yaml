@@ -6,3 +6,5 @@ id_nomics: MLY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MLY.jpg
 logoKey: currencies/mly.jpg
 name: Meta Land Yield
+platform: BNB
+platform_contract: '0x553af511a05fe87476e49374983eeca0d63bca90'

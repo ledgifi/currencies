@@ -6,3 +6,5 @@ id_nomics: WSG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WSG.jpg
 logoKey: currencies/wsg.jpg
 name: Wall Street Games
+platform: BNB
+platform_contract: '0xa58950f05fea2277d2608748412bf9f802ea4901'

@@ -6,3 +6,5 @@ id_nomics: ECOP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECOP.jpg
 logoKey: currencies/ecop.jpg
 name: Eco DeFi
+platform: BNB
+platform_contract: '0x96a16178edaff58736567cfcaff570c06617f0fd'

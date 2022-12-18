@@ -5,3 +5,5 @@ id_nomics: ITGR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ITGR.jpg
 logoKey: currencies/itgr.jpg
 name: Integral
+platform: ETH
+platform_contract: '0xd502f487e1841fdc805130e13eae80c61186bc98'

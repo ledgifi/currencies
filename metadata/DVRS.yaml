@@ -5,3 +5,5 @@ id_nomics: DVRS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DVRS.png
 logoKey: currencies/dvrs.png
 name: DaoVerse
+platform: BNB
+platform_contract: '0xa155464b1566cdddf9782205602651b8b871b3d5'

@@ -3,3 +3,5 @@ fiat: false
 id: WANUSDC
 id_nomics: WANUSDC
 name: wanUSDC
+platform: WAN
+platform_contract: '0x52a9cea01c4cbdd669883e41758b8eb8e8e2b34b'

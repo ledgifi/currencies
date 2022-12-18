@@ -5,3 +5,5 @@ id_nomics: BZB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BZB.png
 logoKey: currencies/bzb.png
 name: BlazarBits
+platform: MATIC
+platform_contract: '0x462d8d82c2b2d2ddabf7f8a93928de09d47a5807'

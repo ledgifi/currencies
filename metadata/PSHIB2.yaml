@@ -5,3 +5,5 @@ id_nomics: PSHIB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PSHIB2.jpg
 logoKey: currencies/pshib2.jpg
 name: Presa DeFi Guardian
+platform: ETH
+platform_contract: '0x16a4b9be7197469788d89028ba6946e4d19d1f31'

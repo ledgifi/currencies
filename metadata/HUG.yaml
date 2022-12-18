@@ -5,3 +5,5 @@ id_nomics: HUG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HUG.jpg
 logoKey: currencies/hug.jpg
 name: Hubbsgold
+platform: ETH
+platform_contract: '0x79d617768c70936f097cf6e82d1fdca15dc4417c'

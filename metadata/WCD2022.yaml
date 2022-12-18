@@ -5,3 +5,5 @@ id_nomics: WCD2022
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WCD2022.png
 logoKey: currencies/wcd2022.png
 name: World Cup Doge 2022
+platform: BNB
+platform_contract: '0x561d8ac9eb482c41181be844106a4ab2ef8f1a37'

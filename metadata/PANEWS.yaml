@@ -3,3 +3,5 @@ fiat: false
 id: PANEWS
 id_nomics: PANEWS
 name: PANews
+platform: ETH
+platform_contract: '0xf84cedb16aa7ec8c527986312a0a100fcdec3903'

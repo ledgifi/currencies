@@ -5,3 +5,5 @@ id_nomics: PARS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PARS2.jpg
 logoKey: currencies/pars2.jpg
 name: ParsBit
+platform: ETH
+platform_contract: '0xb12e488b968fbf7a2e942f918e31eea4f49fc7a8'

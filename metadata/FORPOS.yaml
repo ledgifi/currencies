@@ -5,3 +5,5 @@ id_nomics: FORPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FORPOS.jpg
 logoKey: currencies/forpos.jpg
 name: The Force Token (Polygon)
+platform: MATIC
+platform_contract: '0x546b4c391520e6652897c65153074088bfc0a909'

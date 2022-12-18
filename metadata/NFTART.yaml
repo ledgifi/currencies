@@ -6,3 +6,5 @@ id_nomics: NFTART
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTART.png
 logoKey: currencies/nftart.png
 name: NFT Art Finance
+platform: BNB
+platform_contract: '0xf7844cb890f4c339c497aeab599abdc3c874b67a'

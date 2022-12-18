@@ -5,3 +5,5 @@ id_nomics: WRB3G
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WRB3G.png
 logoKey: currencies/wrb3g.png
 name: Web3Gold
+platform: BNB
+platform_contract: '0x23bd85120f192aad5f5d7590e271f1d03993aac8'

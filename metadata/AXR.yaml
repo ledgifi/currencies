@@ -5,3 +5,5 @@ id_nomics: AXR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AXR.jpg
 logoKey: currencies/axr.jpg
 name: Axelarium
+platform: BNB
+platform_contract: '0x104a4264c62c4d7a696e33560e324213621040f8'

@@ -5,3 +5,5 @@ id_nomics: ENY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ENY2.jpg
 logoKey: currencies/eny2.jpg
 name: Energy Pay
+platform: BNB
+platform_contract: '0x65cb0cab90c82741241c865cd4899e9b5a149b31'

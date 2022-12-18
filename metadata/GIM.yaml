@@ -6,3 +6,5 @@ id_nomics: GIM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/gim.jpg
 logoKey: currencies/gim.jpg
 name: Gimli
+platform: ETH
+platform_contract: '0xae4f56f072c34c0a65b3ae3e4db797d831439d93'

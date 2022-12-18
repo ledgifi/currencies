@@ -3,3 +3,5 @@ fiat: false
 id: IRNT
 id_nomics: IRNT
 name: Iron Token
+platform: BNB
+platform_contract: '0x557848ca9661a9ea0c9d8042ad96822abe0ed0e5'

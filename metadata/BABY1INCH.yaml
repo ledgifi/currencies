@@ -5,3 +5,5 @@ id_nomics: BABY1INCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABY1INCH.jpg
 logoKey: currencies/baby1inch.jpg
 name: baby1inch
+platform: BNB
+platform_contract: '0x9d6dfdb2382ac8c58e76173e2f19d30e6afef667'

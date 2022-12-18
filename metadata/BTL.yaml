@@ -5,3 +5,5 @@ id_nomics: BTL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTL.jpg
 logoKey: currencies/btl.jpg
 name: Bitlong
+platform: ETH
+platform_contract: '0x5ecd84482176db90bb741ddc8c2f9ccc290e29ce'

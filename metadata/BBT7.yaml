@@ -5,3 +5,5 @@ id_nomics: BBT7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBT7.jpg
 logoKey: currencies/bbt7.jpg
 name: Buried Bones
+platform: BNB
+platform_contract: '0xd66ccc6bad24b82d20a13e470030ef163cb015ad'

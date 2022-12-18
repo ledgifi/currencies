@@ -5,3 +5,5 @@ id_nomics: LGD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LGD.png
 logoKey: currencies/lgd.png
 name: Lab Grown Diamond
+platform: ETH
+platform_contract: '0xb56739d48429d272881597090e5680409271bc24'

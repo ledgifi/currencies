@@ -3,3 +3,5 @@ fiat: false
 id: EVD
 id_nomics: EVD
 name: Evmos Domains
+platform: EVMOS
+platform_contract: '0x47685b6ac7bb4de761a57828877a7b8254c8b145'

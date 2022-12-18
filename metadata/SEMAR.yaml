@@ -5,3 +5,5 @@ id_nomics: SEMAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SEMAR.png
 logoKey: currencies/semar.png
 name: Semar Inu
+platform: MATIC
+platform_contract: '0x5d3cc19f4b811921aea6e178591d4dd7fbf4f146'

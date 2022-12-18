@@ -3,3 +3,5 @@ fiat: false
 id: LETSSEND
 id_nomics: LETSSEND
 name: Let's Send
+platform: ETH
+platform_contract: '0xb687831044d6382d7345370eabfcf0a31a95a664'

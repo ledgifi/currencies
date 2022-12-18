@@ -5,3 +5,5 @@ id_nomics: DOLLARDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOLLARDOGE.png
 logoKey: currencies/dollardoge.png
 name: DollarDoge
+platform: BNB
+platform_contract: '0x454876d97098528d83e661ed3ddf19b10e397352'

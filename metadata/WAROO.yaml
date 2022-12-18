@@ -6,3 +6,5 @@ id_nomics: WAROO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAROO.jpg
 logoKey: currencies/waroo.jpg
 name: SuperWhale
+platform: BNB
+platform_contract: '0x401952fd449da0926ce50205934e5a40a873c7ae'

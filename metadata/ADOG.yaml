@@ -5,3 +5,5 @@ id_nomics: ADOG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADOG.jpg
 logoKey: currencies/adog.jpg
 name: AstroDoggy
+platform: BNB
+platform_contract: '0x478574ad253d7439735c1a0a75fa64c02e20f263'

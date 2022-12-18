@@ -5,3 +5,5 @@ id_nomics: SMTK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMTK.jpg
 logoKey: currencies/smtk.jpg
 name: Super Mario Token
+platform: BNB
+platform_contract: '0xe289cb1baf48e175c5db77af248cfbc2c326676b'

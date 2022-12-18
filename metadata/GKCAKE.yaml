@@ -6,3 +6,5 @@ id_nomics: GKCAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GKCAKE.jpg
 logoKey: currencies/gkcake.jpg
 name: Golden Kitty Cake
+platform: BNB
+platform_contract: '0x2163913bf7094ec9683401225e7947b698a741ff'

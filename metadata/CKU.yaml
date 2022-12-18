@@ -3,3 +3,5 @@ fiat: false
 id: CKU
 id_nomics: CKU
 name: Cryptoku
+platform: ETH
+platform_contract: '0x08f7be99ed83369541501d60f4e66f8e34c3f736'

@@ -5,3 +5,5 @@ id_nomics: DRA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRA3.jpeg
 logoKey: currencies/dra3.jpeg
 name: Drachma
+platform: BNB
+platform_contract: '0x694956a7236e39c60e9113211330350619dfcce6'

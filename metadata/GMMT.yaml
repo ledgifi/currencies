@@ -3,3 +3,5 @@ fiat: false
 id: GMMT
 id_nomics: GMMT
 name: Green mining movement token
+platform: ETH
+platform_contract: '0x8788ea1d181c872fbb5c376f3dc7b95a92eb4ecc'

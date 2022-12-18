@@ -5,3 +5,5 @@ id_nomics: IMPACT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IMPACT.jpg
 logoKey: currencies/impact.jpg
 name: Alpha Impact
+platform: ETH
+platform_contract: '0xfac3f6391c86004289a186ae0198180fcb4d49ab'

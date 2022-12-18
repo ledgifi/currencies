@@ -5,3 +5,5 @@ id_nomics: TVL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TVL.jpg
 logoKey: currencies/tvl.jpg
 name: TravelCake
+platform: BNB
+platform_contract: '0x4388ca448baf6785bf1222a3e8e266536548ed75'

@@ -6,3 +6,5 @@ id_nomics: SPHTX
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/sphtx.svg
 logoKey: currencies/sphtx.svg
 name: SophiaTX
+platform: ETH
+platform_contract: '0x3833dda0aeb6947b98ce454d89366cba8cc55528'

@@ -5,3 +5,5 @@ id_nomics: CPX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CPX2.jpg
 logoKey: currencies/cpx2.jpg
 name: Crypxie
+platform: ETH
+platform_contract: '0x79ddbbcc9d7fbdc77b02a960dabd2577144fdd6e'

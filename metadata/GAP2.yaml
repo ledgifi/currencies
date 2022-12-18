@@ -5,3 +5,5 @@ id_nomics: GAP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAP2.jpg
 logoKey: currencies/gap2.jpg
 name: GAPP NETWORK
+platform: ETH
+platform_contract: '0x9570ec7ab05d61877ff7eb180f837c7c079c4844'

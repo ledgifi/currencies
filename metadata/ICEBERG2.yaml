@@ -5,3 +5,5 @@ id_nomics: ICEBERG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICEBERG2.jpg
 logoKey: currencies/iceberg2.jpg
 name: ICEBERG
+platform: BNB
+platform_contract: '0xc22e223c332e51340cc80ffbeeac088fd026ad2e'

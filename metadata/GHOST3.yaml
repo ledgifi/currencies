@@ -5,3 +5,5 @@ id_nomics: GHOST3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GHOST3.jpg
 logoKey: currencies/ghost3.jpg
 name: Ghost Finance
+platform: FTM
+platform_contract: '0x2241fabdf45c54ca330c34c783b114e6bcaae7e7'

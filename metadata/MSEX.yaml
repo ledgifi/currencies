@@ -5,3 +5,5 @@ id_nomics: MSEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSEX.png
 logoKey: currencies/msex.png
 name: Metasexxx
+platform: BNB
+platform_contract: '0xcC017b37D4e719d2cae7B01081638fb635684406'

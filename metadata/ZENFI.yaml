@@ -6,3 +6,5 @@ id_nomics: ZENFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZENFI.jpg
 logoKey: currencies/zenfi.jpg
 name: ZenFi AI
+platform: BNB
+platform_contract: '0xa84d7a90bdbbe6de3fffe9b7f549366320ef90d3'

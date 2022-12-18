@@ -5,3 +5,5 @@ id_nomics: CRB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRB2.jpg
 logoKey: currencies/crb2.jpg
 name: Cribnb
+platform: ETH
+platform_contract: '0x6767615a97a8204298bbac44c57ef1a615eed244'

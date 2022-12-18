@@ -6,3 +6,5 @@ id_nomics: YDR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YDR.jpg
 logoKey: currencies/ydr.jpg
 name: YDragon
+platform: ETH
+platform_contract: '0x3757232b55e60da4a8793183ac030cfce4c3865d'

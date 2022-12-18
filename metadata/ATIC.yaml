@@ -3,3 +3,5 @@ fiat: false
 id: ATIC
 id_nomics: ATIC
 name: Austin Chain
+platform: ETH
+platform_contract: '0x81ea14e770101e2dfa61df3f38b663084bb0b7e8'

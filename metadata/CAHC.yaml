@@ -3,3 +3,5 @@ fiat: false
 id: CAHC
 id_nomics: CAHC
 name: Cash cowToken
+platform: BNB
+platform_contract: '0x623149e29c01e26e2bf0b24af3680f5c94dbf76a'

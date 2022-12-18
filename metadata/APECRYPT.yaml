@@ -3,3 +3,5 @@ fiat: false
 id: APECRYPT
 id_nomics: APECRYPT
 name: $ApeCrypt
+platform: ETH
+platform_contract: '0xc83764ed767436a3adc7ca6a78f873b9dc9e5de8'

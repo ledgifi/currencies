@@ -5,3 +5,5 @@ id_nomics: FTG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FTG2.jpg
 logoKey: currencies/ftg2.jpg
 name: fantomGO
+platform: ETH
+platform_contract: '0x3a4cab3dcfab144fe7eb2b5a3e288cc03dc07659'

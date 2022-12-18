@@ -3,3 +3,5 @@ fiat: false
 id: MGOLD
 id_nomics: MGOLD
 name: MininGold
+platform: BNB
+platform_contract: '0x277406bfe502982c0afc47eb3de215b88fe47e7b'

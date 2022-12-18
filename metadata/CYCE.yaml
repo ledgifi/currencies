@@ -6,3 +6,5 @@ id_nomics: CYCE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CYCE.jpg
 logoKey: currencies/cyce.jpg
 name: Crypto Carbon Energy
+platform: ETH
+platform_contract: '0xeadd9b69f96140283f9ff75da5fd33bcf54e6296'

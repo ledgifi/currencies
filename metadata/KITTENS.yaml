@@ -3,3 +3,5 @@ fiat: false
 id: KITTENS
 id_nomics: KITTENS
 name: Kitten Coin
+platform: BNB
+platform_contract: '0x0812c7045d69cd3a881becab80e23c222cfbe032'

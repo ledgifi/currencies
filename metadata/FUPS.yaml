@@ -6,3 +6,5 @@ id_nomics: FUPS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FUPS.jpg
 logoKey: currencies/fups.jpg
 name: Feed Pups
+platform: BNB
+platform_contract: '0x5d61a9869d9e12f26331a5ceb71734f585df54f1'

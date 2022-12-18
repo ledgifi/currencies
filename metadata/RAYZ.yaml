@@ -5,3 +5,5 @@ id_nomics: RAYZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAYZ.jpg
 logoKey: currencies/rayz.jpg
 name: Rayz World
+platform: BNB
+platform_contract: '0x7afbe4679ee209183c2551f09d47c9943a629467'

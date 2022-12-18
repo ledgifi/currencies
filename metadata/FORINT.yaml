@@ -6,3 +6,5 @@ id_nomics: FORINT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FORINT.jpg
 logoKey: currencies/forint.jpg
 name: Forint
+platform: BNB
+platform_contract: '0xae8d1d335364ae1d16677390750aeb4c1b2332cb'

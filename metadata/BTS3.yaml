@@ -5,3 +5,5 @@ id_nomics: BTS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTS3.jpg
 logoKey: currencies/bts3.jpg
 name: Bolt True Share
+platform: BNB
+platform_contract: '0xc2e1acef50ae55661855e8dcb72adb182a3cc259'

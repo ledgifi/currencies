@@ -3,3 +3,5 @@ fiat: false
 id: CKP
 id_nomics: CKP
 name: CakePad
+platform: BNB
+platform_contract: '0x81f7bbfc362994badcdcae1b38d426be4d82894a'

@@ -5,3 +5,5 @@ id_nomics: SHIBP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBP2.jpg
 logoKey: currencies/shibp2.jpg
 name: Shiba Pink
+platform: BNB
+platform_contract: '0x084045a3e6e670ec9e39e8f6a13c097ae0a8eefd'

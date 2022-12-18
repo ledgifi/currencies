@@ -5,3 +5,5 @@ id_nomics: CWBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CWBTC.png
 logoKey: currencies/cwbtc.png
 name: cWBTC
+platform: ETH
+platform_contract: '0xc11b1268c1a384e55c48c2391d8d480264a3a7f4'

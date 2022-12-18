@@ -5,3 +5,5 @@ id_nomics: BCHF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCHF.png
 logoKey: currencies/bchf.png
 name: Bitcoin SWISS FRANK
+platform: BNB
+platform_contract: '0x2529ee5b70546dba99cce4e2cb649ac2d34097d5'

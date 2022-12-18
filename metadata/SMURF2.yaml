@@ -5,3 +5,5 @@ id_nomics: SMURF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMURF2.jpg
 logoKey: currencies/smurf2.jpg
 name: SmurfsINU
+platform: BNB
+platform_contract: '0x75afa9915b2210cd6329e820af0365e932bc1dd5'

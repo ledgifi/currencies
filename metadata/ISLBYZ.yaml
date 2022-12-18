@@ -5,3 +5,5 @@ id_nomics: ISLBYZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ISLBYZ.jpg
 logoKey: currencies/islbyz.jpg
 name: Island Boyz
+platform: BNB
+platform_contract: '0x4cf7ea6cb0af1b157b59372780c9b68147ed0608'

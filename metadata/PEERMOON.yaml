@@ -5,3 +5,5 @@ id_nomics: PEERMOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEERMOON.jpg
 logoKey: currencies/peermoon.jpg
 name: Peermoon
+platform: BNB
+platform_contract: '0xe6dc784ac23de067e5783615ad910105cc0e5295'

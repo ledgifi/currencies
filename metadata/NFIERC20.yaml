@@ -5,3 +5,5 @@ id_nomics: NFIERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFIERC20.jpg
 logoKey: currencies/nfierc20.jpg
 name: Norse Finance (ERC-20)
+platform: ETH
+platform_contract: '0xb908c9d7cae7764cc0ef2e9a3ebb959ea556e32e'

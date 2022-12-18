@@ -3,3 +3,5 @@ fiat: false
 id: SUNDOGE
 id_nomics: SUNDOGE
 name: SunDoge Token
+platform: BNB
+platform_contract: '0x7b36edb1a200799936e33786bf1a86c2e415c0bc'

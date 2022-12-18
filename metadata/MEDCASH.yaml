@@ -5,3 +5,5 @@ id_nomics: MEDCASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEDCASH.jpg
 logoKey: currencies/medcash.jpg
 name: MEDCASH
+platform: ETH
+platform_contract: '0x6652Fa201B6BBBC0b5b0aD3f5702b2B9849cc830'

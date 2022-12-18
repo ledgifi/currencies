@@ -3,3 +3,5 @@ fiat: false
 id: PAP
 id_nomics: PAP
 name: Pap System
+platform: ETH
+platform_contract: '0x38925f4481b7e783ba628ea6afc8d235aa01bd70'

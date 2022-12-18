@@ -3,3 +3,5 @@ fiat: false
 id: CANDLE
 id_nomics: CANDLE
 name: Green Candle Man
+platform: ETH
+platform_contract: '0x33f128394af03db639107473e52d84ff1290499e'

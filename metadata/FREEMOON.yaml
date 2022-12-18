@@ -6,3 +6,5 @@ id_nomics: FREEMOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FREEMOON.jpg
 logoKey: currencies/freemoon.jpg
 name: Freemoon
+platform: BNB
+platform_contract: '0x31f0bc450c12eb62b4c617d4c876f7a66470fcb3'

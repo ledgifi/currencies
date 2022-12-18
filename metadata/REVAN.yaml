@@ -5,3 +5,5 @@ id_nomics: REVAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REVAN.png
 logoKey: currencies/revan.png
 name: Revan Inu
+platform: BNB
+platform_contract: '0xd3a998e39996eb5d313a27e1534fa182d12967aa'

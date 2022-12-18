@@ -5,3 +5,5 @@ id_nomics: DEPO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEPO2.png
 logoKey: currencies/depo2.png
 name: DePocket
+platform: BNB
+platform_contract: '0x7d99eda556388ad7743a1b658b9c4fc67d7a9d74'

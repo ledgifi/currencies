@@ -5,3 +5,5 @@ id_nomics: BUFFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUFFI.jpg
 logoKey: currencies/buffi.jpg
 name: Buffalo.Finance
+platform: BNB
+platform_contract: '0xca68100dc0cc00cfba894370b60cccceb0c6cb2c'

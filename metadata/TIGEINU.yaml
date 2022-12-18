@@ -5,3 +5,5 @@ id_nomics: TIGEINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIGEINU.jpg
 logoKey: currencies/tigeinu.jpg
 name: Tige Inu
+platform: BNB
+platform_contract: '0x91e75eec2580ec52298080f144824652850f4243'

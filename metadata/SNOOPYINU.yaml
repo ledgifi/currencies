@@ -5,3 +5,5 @@ id_nomics: SNOOPYINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNOOPYINU.jpeg
 logoKey: currencies/snoopyinu.jpeg
 name: Snoopy Inu
+platform: BNB
+platform_contract: '0x76bb1c73e581fe84b0957defb958a2fcdf3d1c66'

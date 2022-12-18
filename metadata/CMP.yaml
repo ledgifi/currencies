@@ -5,3 +5,5 @@ id_nomics: CMP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CMP.jpg
 logoKey: currencies/cmp.jpg
 name: Component
+platform: ETH
+platform_contract: '0x9f20ed5f919dc1c1695042542c13adcfc100dcab'

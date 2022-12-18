@@ -3,3 +3,5 @@ fiat: false
 id: USDDTEST
 id_nomics: USDDTEST
 name: USDD-Test
+platform: BNB
+platform_contract: '0xb9dfffc0afeedb35c5d22885941987e53595d6bd'

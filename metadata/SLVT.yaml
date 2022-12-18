@@ -6,3 +6,5 @@ id_nomics: SLVT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLVT.jpg
 logoKey: currencies/slvt.jpg
 name: SilverToken
+platform: ETH
+platform_contract: '0x652594082f97392a1703d80985ab575085f34a4e'

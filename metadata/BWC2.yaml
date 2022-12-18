@@ -5,3 +5,5 @@ id_nomics: BWC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BWC2.jpg
 logoKey: currencies/bwc2.jpg
 name: BongWeedCoin
+platform: BNB
+platform_contract: '0x66696ab8c6aaeb22dc14a2dc4a833682388ea901'

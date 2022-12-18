@@ -5,3 +5,5 @@ id_nomics: MSN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSN3.jpg
 logoKey: currencies/msn3.jpg
 name: Mension Chain
+platform: BNB
+platform_contract: '0xed03DcaB5c4984e3E1309c419817ed26018b3e93'

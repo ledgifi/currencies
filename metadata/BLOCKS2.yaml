@@ -3,3 +3,5 @@ fiat: false
 id: BLOCKS2
 id_nomics: BLOCKS2
 name: JoinBlocks
+platform: ETH
+platform_contract: '0x22bb7d3f4dcf074b979021ca4e214361e14c6b26'

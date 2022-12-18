@@ -3,3 +3,5 @@ fiat: false
 id: CRVC
 id_nomics: CRVC
 name: CRV.Casa
+platform: HT
+platform_contract: '0x0629d334cf3e84fed15f47b051e0c0542566c843'

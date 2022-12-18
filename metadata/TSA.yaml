@@ -6,3 +6,5 @@ id_nomics: TSA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TSA.jpg
 logoKey: currencies/tsa.jpg
 name: TEAsWAP.ART
+platform: BNB
+platform_contract: '0x5f99acf13caff815dd9cb4a415c0fb34e9f4545b'

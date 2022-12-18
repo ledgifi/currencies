@@ -5,3 +5,5 @@ id_nomics: OPP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OPP.jpeg
 logoKey: currencies/opp.jpeg
 name: Open Proprietary Protocol
+platform: ETH
+platform_contract: '0xf51ccb15d3f2d304ae6c409303e8b3a3e397a80b'

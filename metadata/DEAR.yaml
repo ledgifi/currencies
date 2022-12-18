@@ -5,3 +5,5 @@ id_nomics: DEAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEAR.jpg
 logoKey: currencies/dear.jpg
 name: DeBear.Club
+platform: ETH
+platform_contract: '0xac48f566bfb00b40112a868b45e44730798abe8d'

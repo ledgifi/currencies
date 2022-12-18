@@ -6,3 +6,5 @@ id_nomics: AIME
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AIME.jpg
 logoKey: currencies/aime.jpg
 name: AnimeInu
+platform: BNB
+platform_contract: '0x3024b8c63e5cb9ce99a9609c2df87cd5c1be21a9'

@@ -3,3 +3,5 @@ fiat: false
 id: VEUSD
 id_nomics: VEUSD
 name: VeUSD
+platform: VET
+platform_contract: '0x4e17357053da4b473e2daa2c65c2c949545724b8'

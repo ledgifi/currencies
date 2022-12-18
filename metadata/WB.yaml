@@ -3,3 +3,5 @@ fiat: false
 id: WB
 id_nomics: WB
 name: WB Token
+platform: BNB
+platform_contract: '0x4e4a463ffe40d79c3a0459ab564d21a154d659df'

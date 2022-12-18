@@ -5,3 +5,5 @@ id_nomics: RI3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RI3.jpg
 logoKey: currencies/ri3.jpg
 name: Raccoon Inu
+platform: BNB
+platform_contract: '0xf2c9d1804097478cd765fc952920f51e0868445b'

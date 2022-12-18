@@ -5,3 +5,5 @@ id_nomics: NXTX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NXTX.jpg
 logoKey: currencies/nxtx.jpg
 name: NXTSCORE
+platform: ETH
+platform_contract: '0x91bf381b418774f67b9af42c93b0d2a3aed74bd8'

@@ -5,3 +5,5 @@ id_nomics: GAIA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAIA3.jpg
 logoKey: currencies/gaia3.jpg
 name: GaiaDAO
+platform: BNB
+platform_contract: '0x25be9e26db60b1a3d1f7fa21679385df076af7fb'

@@ -3,3 +3,5 @@ fiat: false
 id: XFIN
 id_nomics: XFIN
 name: X-FIN
+platform: ETH
+platform_contract: '0xbbb47f7a7556c826846dd1d7a8ac4104ce419656'

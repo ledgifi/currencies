@@ -5,3 +5,5 @@ id_nomics: KITCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KITCOIN.png
 logoKey: currencies/kitcoin.png
 name: Kitcoin
+platform: ETH
+platform_contract: '0x9827f6e8df0ccc584ff7b37144de8bac7c446385'

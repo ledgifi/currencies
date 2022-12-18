@@ -5,3 +5,5 @@ id_nomics: GRM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GRM2.jpg
 logoKey: currencies/grm2.jpg
 name: Green Money
+platform: ETH
+platform_contract: '0xc8c6fc3c4f6342c5291e747268625f979a888ebf'

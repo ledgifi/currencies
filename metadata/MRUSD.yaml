@@ -3,3 +3,5 @@ fiat: false
 id: MRUSD
 id_nomics: MRUSD
 name: MrUSD
+platform: SMARTBCH
+platform_contract: '0x048a4811d30089b5aa86e2e711a6a4aa67dbe275'

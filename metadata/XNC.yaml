@@ -5,3 +5,5 @@ id_nomics: XNC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XNC.jpg
 logoKey: currencies/xnc.jpg
 name: EXNCE
+platform: ETH
+platform_contract: '0x8317b216d7c3f9a5b8401e4b6814d13a7be390ec'

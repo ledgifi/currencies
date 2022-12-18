@@ -3,3 +3,5 @@ fiat: false
 id: PUMPING
 id_nomics: PUMPING
 name: Pumping
+platform: ETH
+platform_contract: '0x0f76625779d6d14c6c7d6321b0985ecefbd56be3'

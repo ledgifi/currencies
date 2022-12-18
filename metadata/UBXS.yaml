@@ -6,3 +6,5 @@ id_nomics: UBXS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UBXS.jpg
 logoKey: currencies/ubxs.jpg
 name: UBXS Token
+platform: BNB
+platform_contract: '0x4f1960e29b2ca581a38c5c474e123f420f8092db'

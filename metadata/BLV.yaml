@@ -5,3 +5,5 @@ id_nomics: BLV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLV.jpeg
 logoKey: currencies/blv.jpeg
 name: Bellevue Network
+platform: ETH
+platform_contract: '0x8DA25B8eD753a5910013167945A676921e864436'

@@ -5,3 +5,5 @@ id_nomics: LEVEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LEVEN.png
 logoKey: currencies/leven.png
 name: Leven
+platform: ETH
+platform_contract: '0x4b3f7f7816701d1fd665f0ad6dd046af9cab3999'

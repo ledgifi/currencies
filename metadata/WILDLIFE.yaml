@@ -5,3 +5,5 @@ id_nomics: WILDLIFE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WILDLIFE.png
 logoKey: currencies/wildlife.png
 name: WildLife
+platform: ETH
+platform_contract: '0xfbcfd010d007d10d49f516bb738f4aed12880225'

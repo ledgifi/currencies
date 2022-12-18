@@ -5,3 +5,5 @@ id_nomics: SW20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SW20.jpeg
 logoKey: currencies/sw20.jpeg
 name: SquidWorld2.0
+platform: BNB
+platform_contract: '0x9f11f8927848bfaacb742f685ffff8be97c6d9c3'

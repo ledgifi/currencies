@@ -8,3 +8,5 @@ id_nomics: IHC
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220114/ce4f9984-5b38-4d65-bddd-0a65d6eb3c9a.png
 logoKey: currencies/ihc.png
 name: Inflation Hedging Coin
+platform: BNB
+platform_contract: '0x86a53fcd199212fea44fa7e16eb1f28812be911d'

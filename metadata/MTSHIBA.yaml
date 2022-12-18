@@ -5,3 +5,5 @@ id_nomics: MTSHIBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTSHIBA.png
 logoKey: currencies/mtshiba.png
 name: Mountain Shiba
+platform: BNB
+platform_contract: '0x204f202bd5ac866d98cb65af79a7bdb949b92487'

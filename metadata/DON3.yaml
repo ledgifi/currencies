@@ -5,3 +5,5 @@ id_nomics: DON3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DON3.png
 logoKey: currencies/don3.png
 name: Don-key
+platform: ETH
+platform_contract: '0x217ddead61a42369a266f1fb754eb5d3ebadc88a'

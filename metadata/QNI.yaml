@@ -5,3 +5,5 @@ id_nomics: QNI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QNI.png
 logoKey: currencies/qni.png
 name: Qroni
+platform: BNB
+platform_contract: '0x98343e3eaf0aa8af6e93faff70c8ff70d98862f1'

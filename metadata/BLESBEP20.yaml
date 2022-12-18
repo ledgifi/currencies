@@ -5,3 +5,5 @@ id_nomics: BLESBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLESBEP20.jpg
 logoKey: currencies/blesbep20.jpg
 name: Blind Boxes (BEP-20)
+platform: BNB
+platform_contract: '0x393d87e44c7b1f5ba521b351532c24ece253b849'

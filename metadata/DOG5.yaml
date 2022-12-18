@@ -5,3 +5,5 @@ id_nomics: DOG5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOG5.png
 logoKey: currencies/dog5.png
 name: DogeCoin Cash
+platform: BNB
+platform_contract: '0x9596a56c73ca6f50cbd05cb8d85865f75659dc78'

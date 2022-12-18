@@ -6,3 +6,5 @@ id_nomics: ADB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/adb.jpg
 logoKey: currencies/adb.jpg
 name: Adbank
+platform: ETH
+platform_contract: '0x2baac9330cf9ac479d819195794d79ad0c7616e3'

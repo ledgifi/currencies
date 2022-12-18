@@ -6,3 +6,5 @@ id_nomics: TAB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TAB.jpg
 logoKey: currencies/tab.jpg
 name: Tabank
+platform: TOMO
+platform_contract: '0x8103bb77ed2035b5da9a3a65d9c313cb6ee41dbd'

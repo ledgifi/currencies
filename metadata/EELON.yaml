@@ -3,3 +3,5 @@ fiat: false
 id: EELON
 id_nomics: EELON
 name: Ethereum ELON
+platform: ETH
+platform_contract: '0x35c3668e230b865b9816a29b0ff3d0d3e417b6bc'

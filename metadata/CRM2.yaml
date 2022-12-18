@@ -5,3 +5,5 @@ id_nomics: CRM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRM2.jpg
 logoKey: currencies/crm2.jpg
 name: Criterium
+platform: BNB
+platform_contract: '0x5af9819b92929086bc6c8800df5497e847ca4b86'

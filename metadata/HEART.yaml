@@ -6,3 +6,5 @@ id_nomics: HEART
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HEART.png
 logoKey: currencies/heart.png
 name: HEART
+platform: BNB
+platform_contract: '0xe02d20ebc122bf86bf2ea2cf630b21e42eba8cc1'

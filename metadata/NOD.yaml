@@ -3,3 +3,5 @@ fiat: false
 id: NOD
 id_nomics: NOD
 name: nodToken
+platform: XDAI
+platform_contract: '0x8df7d844a13a9fcf98e894761181d937be9bc12e'

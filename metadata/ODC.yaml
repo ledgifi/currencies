@@ -5,3 +5,5 @@ id_nomics: ODC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ODC.jpg
 logoKey: currencies/odc.jpg
 name: ODDO coin
+platform: ETH
+platform_contract: '0x49e90537d5ef6778fd000d1f05be20134f9f6dc6'

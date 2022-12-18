@@ -6,3 +6,5 @@ id_nomics: TOL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOL.png
 logoKey: currencies/tol.png
 name: Tolar
+platform: ETH
+platform_contract: '0xd07d9fe2d2cc067015e2b4917d24933804f42cfa'

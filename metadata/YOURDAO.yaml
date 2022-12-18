@@ -3,3 +3,5 @@ fiat: false
 id: YOURDAO
 id_nomics: YOURDAO
 name: Your DAO
+platform: ETH
+platform_contract: '0x32bb97d3e481694cf954a937088d5f12f0508bdd'

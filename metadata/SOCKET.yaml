@@ -5,3 +5,5 @@ id_nomics: SOCKET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOCKET.jpg
 logoKey: currencies/socket.jpg
 name: SOCKET - socket.finance
+platform: ETH
+platform_contract: '0xa6312567e419e73951c451feaba07b6d74a0e8ce'

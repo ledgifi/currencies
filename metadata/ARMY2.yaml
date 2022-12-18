@@ -5,3 +5,5 @@ id_nomics: ARMY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARMY2.webp
 logoKey: currencies/army2.webp
 name: Army Token
+platform: BNB
+platform_contract: '0x61dFbA8C4c12cfdA4392a7DE90B33F6D685868cE'

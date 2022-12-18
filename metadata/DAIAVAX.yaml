@@ -5,3 +5,5 @@ id_nomics: DAIAVAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAIAVAX.jpg
 logoKey: currencies/daiavax.jpg
 name: Dai (Avalanche)
+platform: AVAX
+platform_contract: '0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a'

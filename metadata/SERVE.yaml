@@ -6,3 +6,5 @@ id_nomics: SERVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SERVE.jpg
 logoKey: currencies/serve.jpg
 name: Metavice
+platform: BNB
+platform_contract: '0x3F1d29b611c649eEC1e62bE2237891DD88E1aFe0'

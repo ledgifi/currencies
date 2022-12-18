@@ -5,3 +5,5 @@ id_nomics: DSTR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DSTR.jpg
 logoKey: currencies/dstr.jpg
 name: Dynamic Supply Tracker
+platform: ETH
+platform_contract: '0x55696efc7c9779d868ac34ac6b4a4c5fed61ac12'

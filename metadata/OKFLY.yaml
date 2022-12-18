@@ -5,3 +5,5 @@ id_nomics: OKFLY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OKFLY.png
 logoKey: currencies/okfly.png
 name: Okex Fly
+platform: OKT
+platform_contract: '0x02f093513b7872cdfc518e51ed67f88f0e469592'

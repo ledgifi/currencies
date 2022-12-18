@@ -6,3 +6,5 @@ id_nomics: ELYX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELYX.png
 logoKey: currencies/elyx.png
 name: Elynet Token
+platform: ETH
+platform_contract: '0x881a7e25d44591c467a37da96adf3c3705e7251b'

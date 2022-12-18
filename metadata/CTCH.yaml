@@ -3,3 +3,5 @@ fiat: false
 id: CTCH
 id_nomics: CTCH
 name: Cent Cash
+platform: MATIC
+platform_contract: '0x0cb868f602ccee3084aabdc64aa638acd49409a8'

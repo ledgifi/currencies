@@ -6,3 +6,5 @@ id_nomics: UQC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/uqc.jpg
 logoKey: currencies/uqc.jpg
 name: Uquid Coin
+platform: ETH
+platform_contract: '0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2'

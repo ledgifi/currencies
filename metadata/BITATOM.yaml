@@ -5,3 +5,5 @@ id_nomics: BITATOM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITATOM.png
 logoKey: currencies/bitatom.png
 name: bitBOMB ATOM Peg
+platform: BNB
+platform_contract: '0x3cdc14690b4930f8b61a2195062f5ab8a6bec48d'

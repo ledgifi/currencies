@@ -5,3 +5,5 @@ id_nomics: ALRTO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALRTO.png
 logoKey: currencies/alrto.png
 name: Alerto
+platform: MATIC
+platform_contract: '0x7d645cbbcade2a130bf1bf0528b8541d32d3f8cf'

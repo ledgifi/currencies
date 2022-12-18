@@ -3,3 +3,5 @@ fiat: false
 id: CTOKEN
 id_nomics: CTOKEN
 name: CToken
+platform: BNB
+platform_contract: '0xc7df6412b4839b1a9695f59e376cc00a611a76ef'

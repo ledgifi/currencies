@@ -6,3 +6,5 @@ id_nomics: BTED
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTED.jpg
 logoKey: currencies/bted.jpg
 name: BitEd
+platform: ETH
+platform_contract: '0x2ad1219367dcbff80d37bb770de008875ab58cd9'

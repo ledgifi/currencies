@@ -6,3 +6,5 @@ id_nomics: WARS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WARS.jpg
 logoKey: currencies/wars.jpg
 name: MetaWars
+platform: BNB
+platform_contract: '0x50e756a22ff5cee3559d18b9d9576bc38f09fa7c'

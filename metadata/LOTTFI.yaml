@@ -5,3 +5,5 @@ id_nomics: LOTTFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOTTFI.jpeg
 logoKey: currencies/lottfi.jpeg
 name: Lottery Finance
+platform: BNB
+platform_contract: '0x80149f136dfa2a7517c646829e56d67836f4ab03'

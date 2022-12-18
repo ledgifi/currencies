@@ -5,3 +5,5 @@ id_nomics: PROTETHX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PROTETHX.jpg
 logoKey: currencies/protethx.jpg
 name: ProTrade EthX
+platform: ETH
+platform_contract: '0xb9355c0ec4c68a7b417f3adbc02d84e941e5eecd'

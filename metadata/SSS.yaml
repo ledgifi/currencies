@@ -5,3 +5,5 @@ id_nomics: SSS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SSS.png
 logoKey: currencies/sss.png
 name: Sharechain
+platform: ETH
+platform_contract: '0x7d3e7d41da367b4fdce7cbe06502b13294deb758'

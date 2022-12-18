@@ -3,3 +3,5 @@ fiat: false
 id: PHILOSOPHER
 id_nomics: PHILOSOPHER
 name: The Philosopher
+platform: ETH
+platform_contract: '0xa90e40a6bcdef6cb9c0045f5ec65f1441cc31c93'

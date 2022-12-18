@@ -5,3 +5,5 @@ id_nomics: BAGS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAGS2.jpg
 logoKey: currencies/bags2.jpg
 name: Basis Gold Share (HRC-20)
+platform: HT
+platform_contract: '0x6868d406a125eb30886a6dd6b651d81677d1f22c'

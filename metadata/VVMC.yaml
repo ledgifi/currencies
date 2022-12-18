@@ -6,3 +6,5 @@ id_nomics: VVMC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VVMC.jpeg
 logoKey: currencies/vvmc.jpeg
 name: Virtual Venture Media Coin
+platform: BNB
+platform_contract: '0x0886074ffadb3cccfe1303f9fb5bab8b4564b239'

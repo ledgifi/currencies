@@ -3,3 +3,5 @@ fiat: false
 id: KETA
 id_nomics: KETA
 name: KetaToken
+platform: ETH
+platform_contract: '0x440d344cc78a3b07b4479c3647ec4ade02e86ce3'

@@ -6,3 +6,5 @@ id_nomics: GCS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GCS.png
 logoKey: currencies/gcs.png
 name: GameChain System
+platform: ETH
+platform_contract: '0x86949dc8043a5fd7619a1289d65964ad5ec3d25c'

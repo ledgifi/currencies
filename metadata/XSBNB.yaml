@@ -3,3 +3,5 @@ fiat: false
 id: XSBNB
 id_nomics: XSBNB
 name: XSBNB
+platform: BNB
+platform_contract: '0x63adfa939b84e6ba06421da4dbb45254427083c6'

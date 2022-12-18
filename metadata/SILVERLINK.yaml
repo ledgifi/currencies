@@ -5,3 +5,5 @@ id_nomics: SILVERLINK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SILVERLINK.png
 logoKey: currencies/silverlink.png
 name: Silverlink Network
+platform: ETH
+platform_contract: '0xdd2634908c54139964e316b6953818b043120b63'

@@ -4,3 +4,5 @@ id: ETHBTCTREND
 id_nomics: ETHBTCTREND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHBTCTREND.svg
 name: ETHBTCTrend
+platform: ETH
+platform_contract: '0x6b7f87279982d919bbf85182ddeab179b366d8f2'

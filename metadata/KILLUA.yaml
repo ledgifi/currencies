@@ -5,3 +5,5 @@ id_nomics: KILLUA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KILLUA.jpg
 logoKey: currencies/killua.jpg
 name: Killua Inu
+platform: ETH
+platform_contract: '0xeef61fc851ccac31b71b075e5e963803654f047b'

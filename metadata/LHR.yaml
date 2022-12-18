@@ -3,3 +3,5 @@ fiat: false
 id: LHR
 id_nomics: LHR
 name: London Token
+platform: BNB
+platform_contract: '0xfa70b54df901d5d04f4cc3e2938b72ea86edbebe'

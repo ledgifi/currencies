@@ -6,3 +6,5 @@ id_nomics: GRUMPYSHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GRUMPYSHIB.png
 logoKey: currencies/grumpyshib.png
 name: GrumpyShiba
+platform: BNB
+platform_contract: '0xae448cb5a3ec77ba4adcc6c8f9621e5921dcd77a'

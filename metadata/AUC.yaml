@@ -6,3 +6,5 @@ id_nomics: AUC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/auc.jpg
 logoKey: currencies/auc.jpg
 name: Auctus
+platform: ETH
+platform_contract: '0xc12d099be31567add4e4e4d0d45691c3f58f5663'

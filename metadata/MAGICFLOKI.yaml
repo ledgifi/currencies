@@ -6,3 +6,5 @@ id_nomics: MAGICFLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAGICFLOKI.jpg
 logoKey: currencies/magicfloki.jpg
 name: MagicFloki
+platform: BNB
+platform_contract: '0x57b7909c0677d35130675ece6509122901163409'

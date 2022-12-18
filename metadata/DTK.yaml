@@ -6,3 +6,5 @@ id_nomics: DTK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DTK.jpeg
 logoKey: currencies/dtk.jpeg
 name: DETIK
+platform: BNB
+platform_contract: '0x5d176404cc58227c2ebb88731a15b0acb6eae9c9'

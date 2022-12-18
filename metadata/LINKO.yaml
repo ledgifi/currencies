@@ -3,3 +3,5 @@ fiat: false
 id: LINKO
 id_nomics: LINKO
 name: LinkOracle
+platform: BNB
+platform_contract: '0x65d2674fb23df460ffc533e64980c255ca3c6c91'

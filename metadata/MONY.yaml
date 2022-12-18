@@ -3,3 +3,5 @@ fiat: false
 id: MONY
 id_nomics: MONY
 name: The MONY Project
+platform: ETH
+platform_contract: '0x5528059b35101782ef2f07497c65ee0d636c0a30'

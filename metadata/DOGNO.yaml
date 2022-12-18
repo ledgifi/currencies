@@ -3,3 +3,5 @@ fiat: false
 id: DOGNO
 id_nomics: DOGNO
 name: Collector
+platform: ETH
+platform_contract: '0x328449c99fc193e02e4b2ab970a7bfd658907bfe'

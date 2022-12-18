@@ -3,3 +3,5 @@ fiat: false
 id: BTUSD
 id_nomics: BTUSD
 name: Beta Test USDC
+platform: OPETH
+platform_contract: '0x2c1ae762fe57ab01b215374be9f2f2b5bcc31c81'

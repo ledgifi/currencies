@@ -6,3 +6,5 @@ id_nomics: NXU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NXU.png
 logoKey: currencies/nxu.png
 name: NXU Coin
+platform: BNB
+platform_contract: '0x62afe40c07917028901eeb071d94486bf087f71e'

@@ -6,3 +6,5 @@ id_nomics: EQUAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/equad.jpg
 logoKey: currencies/equad.jpg
 name: Quadrant Protocol
+platform: ETH
+platform_contract: '0xc28e931814725bbeb9e670676fabbcb694fe7df2'

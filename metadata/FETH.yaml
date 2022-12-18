@@ -3,3 +3,5 @@ fiat: false
 id: FETH
 id_nomics: FETH
 name: FEG Wrapped ETH
+platform: BNB
+platform_contract: '0x5f6528f22656b7f3db140d60bcdc3eddb023e3f0'

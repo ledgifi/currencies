@@ -3,3 +3,5 @@ fiat: false
 id: BNBJET
 id_nomics: BNBJET
 name: BNBJet
+platform: BNB
+platform_contract: '0x18f81230593a420afa2884712463a0aa43c12ef7'

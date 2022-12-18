@@ -5,3 +5,5 @@ id_nomics: PLAY4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLAY4.jpg
 logoKey: currencies/play4.jpg
 name: Metaverse NFT Index
+platform: ETH
+platform_contract: '0x33e18a092a93ff21ad04746c7da12e35d34dc7c4'

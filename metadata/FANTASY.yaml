@@ -5,3 +5,5 @@ id_nomics: FANTASY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FANTASY.jpeg
 logoKey: currencies/fantasy.jpeg
 name: Fantasy Token
+platform: BNB
+platform_contract: '0x629eea117632a14ed8ba97c0deee345757741209'

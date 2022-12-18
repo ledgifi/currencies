@@ -5,3 +5,5 @@ id_nomics: SOCABEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOCABEP20.jpg
 logoKey: currencies/socabep20.jpg
 name: SoccerCard (BEP-20)
+platform: BNB
+platform_contract: '0xb7dd3dafe42cd1f4dc641a97f58a8eb129bd5540'

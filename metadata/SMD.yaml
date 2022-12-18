@@ -6,3 +6,5 @@ id_nomics: SMD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMD.jpg
 logoKey: currencies/smd.jpg
 name: SMD Coin
+platform: BNB
+platform_contract: '0x2b31b83d2a960d648e9c8d3b84df5452c80ab947'

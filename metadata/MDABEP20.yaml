@@ -5,3 +5,5 @@ id_nomics: MDABEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MDABEP20.jpg
 logoKey: currencies/mdabep20.jpg
 name: Moeda Loyalty Points (BEP-20)
+platform: BNB
+platform_contract: '0xd72aa9e1cddc2f6d6e0444580002170fba1f8eed'

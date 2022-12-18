@@ -5,3 +5,5 @@ id_nomics: XMD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XMD.jpg
 logoKey: currencies/xmd.jpg
 name: Mydexpay
+platform: ETH
+platform_contract: '0xea2524bb0773de6a5f641aa97294401f116572e7'

@@ -5,3 +5,5 @@ id_nomics: ZIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZIN.jpg
 logoKey: currencies/zin.jpg
 name: Zin Finance
+platform: ETH
+platform_contract: '0x033e223870f766644f7f7a4b7dc2e91573707d06'

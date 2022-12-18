@@ -6,3 +6,5 @@ id_nomics: LAZYSHIBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LAZYSHIBA.jpg
 logoKey: currencies/lazyshiba.jpg
 name: Lazy Shiba
+platform: BNB
+platform_contract: '0x1f6d33dadffb37f1ba4582b2694a67a14ad587e5'

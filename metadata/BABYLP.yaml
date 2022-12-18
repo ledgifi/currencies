@@ -3,3 +3,5 @@ fiat: false
 id: BABYLP
 id_nomics: BABYLP
 name: Baby LPs
+platform: BNB
+platform_contract: '0x36ae10a4d16311959b607ee98bc4a8a653a33b1f'

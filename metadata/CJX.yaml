@@ -6,3 +6,5 @@ id_nomics: CJX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CJX.png
 logoKey: currencies/cjx.png
 name: Cryptojaguars
+platform: BNB
+platform_contract: '0x019c75824667b95f449d069495ee5ca7c2ec4660'

@@ -5,3 +5,5 @@ id_nomics: WLM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WLM.png
 logoKey: currencies/wlm.png
 name: Weight Loss Marbella
+platform: BNB
+platform_contract: '0x86108D62142EFA65d37Ec7F4D5B63D58dc9a4728'

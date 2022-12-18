@@ -5,3 +5,5 @@ id_nomics: HPA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HPA.png
 logoKey: currencies/hpa.png
 name: Harry Potter Anniversary
+platform: BNB
+platform_contract: '0x6ea339d420fb85a8217280713bca0391a7099fc3'

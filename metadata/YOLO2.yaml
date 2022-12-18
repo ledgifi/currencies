@@ -5,3 +5,5 @@ id_nomics: YOLO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YOLO2.jpeg
 logoKey: currencies/yolo2.jpeg
 name: YOLO
+platform: BNB
+platform_contract: '0x205d4796a9b6d0531c2dd5eda468a30addd8714e'

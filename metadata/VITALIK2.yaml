@@ -5,3 +5,5 @@ id_nomics: VITALIK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VITALIK2.jpg
 logoKey: currencies/vitalik2.jpg
 name: Vitalik Fan Token
+platform: BNB
+platform_contract: '0x36a07e77ae23f133268111250e70bf8f5da02df1'

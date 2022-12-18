@@ -5,3 +5,5 @@ id_nomics: ANDX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANDX.jpg
 logoKey: currencies/andx.jpg
 name: ARRANO
+platform: BNB
+platform_contract: '0xb63a911ae7dc40510e7bb552b7fcb94c198bbe2d'

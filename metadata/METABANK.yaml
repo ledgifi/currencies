@@ -5,3 +5,5 @@ id_nomics: METABANK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METABANK.png
 logoKey: currencies/metabank.png
 name: MetaBank
+platform: BNB
+platform_contract: '0x52d3013e6a69f16d7ed93c088e1b87355cfd0350'

@@ -3,3 +3,5 @@ fiat: false
 id: FMDT
 id_nomics: FMDT
 name: FMDT
+platform: BNB
+platform_contract: '0x14769a6f9eb8d47c9818b3377d3506ad88e2b915'

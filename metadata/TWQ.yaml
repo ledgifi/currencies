@@ -5,3 +5,5 @@ id_nomics: TWQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TWQ.jpg
 logoKey: currencies/twq.jpg
 name: TWQ Token
+platform: ETH
+platform_contract: '0x50b676fa034b9afe83e05968f2b76aef2c35228d'

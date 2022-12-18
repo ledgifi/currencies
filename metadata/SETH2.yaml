@@ -5,3 +5,5 @@ id_nomics: SETH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/seth.svg
 logoKey: currencies/seth2.svg
 name: Sether
+platform: ETH
+platform_contract: '0x78b039921e84e726eb72e7b1212bb35504c645ca'

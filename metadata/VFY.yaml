@@ -6,3 +6,5 @@ id_nomics: VFY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VFY.jpg
 logoKey: currencies/vfy.jpg
 name: Verify Token
+platform: BNB
+platform_contract: '0x8ab03c1a8e094d6cb9f064a75fd0eff74acf6ccb'

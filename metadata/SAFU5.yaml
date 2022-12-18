@@ -5,3 +5,5 @@ id_nomics: SAFU5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFU5.jpg
 logoKey: currencies/safu5.jpg
 name: StaySAFU
+platform: BNB
+platform_contract: '0x890cc7d14948478c98a6cd7f511e1f7f7f99f397'

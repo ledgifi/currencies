@@ -5,3 +5,5 @@ id_nomics: WEAVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WEAVE.jpg
 logoKey: currencies/weave.jpg
 name: Weave Token
+platform: BNB
+platform_contract: '0x6cc97ef7d330c090681c3a6d266f6adedf80e56b'

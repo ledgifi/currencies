@@ -5,3 +5,5 @@ id_nomics: DOGEX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEX2.jpg
 logoKey: currencies/dogex2.jpg
 name: Project DogeX
+platform: BNB
+platform_contract: '0x1f6819d87bd6e10cae34883175232ee9774e00b2'

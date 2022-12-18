@@ -6,3 +6,5 @@ id_nomics: ERABBIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ERABBIT.jpg
 logoKey: currencies/erabbit.jpg
 name: ELONs RABBIT
+platform: BNB
+platform_contract: '0x92a4ebee814afe58741d7f216dc10211d5abc250'

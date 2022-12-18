@@ -6,3 +6,5 @@ id_nomics: WOWS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOWS.jpg
 logoKey: currencies/wows.jpg
 name: Wolves of Wall Street
+platform: ETH
+platform_contract: '0x672ef7e4fe230b5ca1466c5fdd40588d30fdf90a'

@@ -5,3 +5,5 @@ id_nomics: DBX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DBX3.jpeg
 logoKey: currencies/dbx3.jpeg
 name: DoGeBeer
+platform: BNB
+platform_contract: '0x963362524712FD186811e49267eBBd083Dd36697'

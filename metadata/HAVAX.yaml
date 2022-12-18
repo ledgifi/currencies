@@ -3,3 +3,5 @@ fiat: false
 id: HAVAX
 id_nomics: HAVAX
 name: SpookyFinance Protocol Peg-1AVAX
+platform: AVAX
+platform_contract: '0x6cc929eb08fb9b706dcea0aea47229b1fbf3921b'

@@ -5,3 +5,5 @@ id_nomics: CIPHC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CIPHC.jpg
 logoKey: currencies/ciphc.jpg
 name: Cipher Core Token
+platform: ETH
+platform_contract: '0x83eb94cb563146a42fe0a8b3d051f2387a7fb81f'

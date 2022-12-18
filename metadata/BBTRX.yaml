@@ -5,3 +5,5 @@ id_nomics: BBTRX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBTRX.jpg
 logoKey: currencies/bbtrx.jpg
 name: BABY TRON
+platform: BNB
+platform_contract: '0x787e5285aefe32a147f14219886feb0bb7340371'

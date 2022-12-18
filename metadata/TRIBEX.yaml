@@ -6,3 +6,5 @@ id_nomics: TRIBEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRIBEX.jpg
 logoKey: currencies/tribex.jpg
 name: Tribe Token
+platform: BNB
+platform_contract: '0xc34c85a3d7a84212b6234146773f7939a931a8af'

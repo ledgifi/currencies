@@ -6,3 +6,5 @@ id_nomics: METAGA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAGA.jpg
 logoKey: currencies/metaga.jpg
 name: Meta Galaxy War
+platform: BNB
+platform_contract: '0xd3e216940354ccd65fb36135f09c08acd3771854'

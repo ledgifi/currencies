@@ -5,3 +5,5 @@ id_nomics: EARTH3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EARTH3.jpg
 logoKey: currencies/earth3.jpg
 name: EARTH Token
+platform: BNB
+platform_contract: '0x65b050dea610ec5b70c170d078c03937b01b9c76'

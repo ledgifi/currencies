@@ -3,3 +3,5 @@ fiat: false
 id: MINICHURCH
 id_nomics: MINICHURCH
 name: Mini Church DAO
+platform: ETH
+platform_contract: '0x02e5dbbc18793061ab33ac333ea26c7766328252'

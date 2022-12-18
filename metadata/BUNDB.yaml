@@ -6,3 +6,5 @@ id_nomics: BUNDB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUNDB.png
 logoKey: currencies/bundb.png
 name: UniDexBot BSC
+platform: BNB
+platform_contract: '0x3dc8311b7d0fbc88ef600174e079bb0a34d370e6'

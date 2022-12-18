@@ -5,3 +5,5 @@ id_nomics: FOOK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOOK.jpeg
 logoKey: currencies/fook.jpeg
 name: FOOK Token
+platform: BNB
+platform_contract: '0x820671E3647d8aaa22Feab05aaA14AB1665e06e1'

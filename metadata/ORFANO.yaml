@@ -5,3 +5,5 @@ id_nomics: ORFANO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORFANO.jpg
 logoKey: currencies/orfano.jpg
 name: Orfano
+platform: BNB
+platform_contract: '0xef2ec90e0b8d4cdfdb090989ea1bc663f0d680bf'

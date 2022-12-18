@@ -3,3 +3,5 @@ fiat: false
 id: ARBIBOX
 id_nomics: ARBIBOX
 name: ArbiBox
+platform: ARBETH
+platform_contract: '0x4e0a97528c795ceb8a1760e38f292dcb319d8243'

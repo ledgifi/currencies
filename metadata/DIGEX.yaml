@@ -3,3 +3,5 @@ fiat: false
 id: DIGEX
 id_nomics: DIGEX
 name: Digex
+platform: ETH
+platform_contract: '0x763f8b4fb067190e739ed6acb12f40f2f3890840'

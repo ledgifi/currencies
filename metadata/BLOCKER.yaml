@@ -3,3 +3,5 @@ fiat: false
 id: BLOCKER
 id_nomics: BLOCKER
 name: Block Education
+platform: ETH
+platform_contract: '0xa09c28630fb056d05c4451ac6efb5de54a5714ad'

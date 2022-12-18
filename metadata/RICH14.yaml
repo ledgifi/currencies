@@ -5,3 +5,5 @@ id_nomics: RICH14
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RICH14.jpg
 logoKey: currencies/rich14.jpg
 name: Rich Inu
+platform: BNB
+platform_contract: '0x803f5821736f8b1c4a59b13ff147c69f2906d8c5'

@@ -3,3 +3,5 @@ fiat: false
 id: BTPI
 id_nomics: BTPI
 name: BTC Pi
+platform: HT
+platform_contract: '0x92562645af7310ae15ff70119ff8a0624b4b0ee6'

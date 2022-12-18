@@ -6,3 +6,5 @@ id_nomics: TPE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TPE.jpeg
 logoKey: currencies/tpe.jpeg
 name: The Poor Killer
+platform: BNB
+platform_contract: '0x8b94ca15a6411ad46ce53ac2e0babc502727af0f'

@@ -3,3 +3,5 @@ fiat: false
 id: RBASX
 id_nomics: RBASX
 name: rbasx.finance
+platform: ETH
+platform_contract: '0xd5478ce32a7d4edbe87e9ba67fe0494c83aa2dee'

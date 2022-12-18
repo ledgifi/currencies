@@ -5,3 +5,5 @@ id_nomics: DESS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DESS.jpg
 logoKey: currencies/dess.jpg
 name: Dessfi
+platform: ETH
+platform_contract: '0x5a80b50a0420a2507e33508a93e0aa037fc90636'

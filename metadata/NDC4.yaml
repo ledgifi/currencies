@@ -5,3 +5,5 @@ id_nomics: NDC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NDC4.png
 logoKey: currencies/ndc4.png
 name: Nandos Chicken
+platform: BNB
+platform_contract: '0x19774EeE2e9B962Bd6A53334b3adE2e74810A971'

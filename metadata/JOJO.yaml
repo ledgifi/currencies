@@ -6,3 +6,5 @@ id_nomics: JOJO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JOJO.jpg
 logoKey: currencies/jojo.jpg
 name: JOJO
+platform: BNB
+platform_contract: '0x78a499a998bdd5a84cf8b5abe49100d82de12f1c'

@@ -5,3 +5,5 @@ id_nomics: GES2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GES2.jpg
 logoKey: currencies/ges2.jpg
 name: GES
+platform: ETH
+platform_contract: '0xd667d5a228cb09f190c4308cf89d39cab18a413c'

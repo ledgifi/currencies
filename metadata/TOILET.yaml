@@ -3,3 +3,5 @@ fiat: false
 id: TOILET
 id_nomics: TOILET
 name: Toilet
+platform: BNB
+platform_contract: '0x31bf48b5e2cfe6802720b7e6a54bc2deba59cf02'

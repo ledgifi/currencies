@@ -5,3 +5,5 @@ id_nomics: NAMI3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NAMI3.jpg
 logoKey: currencies/nami3.jpg
 name: Nami Inu
+platform: ETH
+platform_contract: '0xe624a29cb327b03350820ef98584d56083eaf392'

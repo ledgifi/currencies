@@ -5,3 +5,5 @@ id_nomics: TRUV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRUV.jpeg
 logoKey: currencies/truv.jpeg
 name: TruvInu
+platform: BNB
+platform_contract: '0xe038f891a189af5fa21986789ffe26ba9b604be4'

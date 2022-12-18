@@ -5,3 +5,5 @@ id_nomics: STARLINKDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STARLINKDOGE.jpg
 logoKey: currencies/starlinkdoge.jpg
 name: Baby Starlink Doge
+platform: BNB
+platform_contract: '0x325956bd5491fa4aefec665c028d4bca5acfdd1d'

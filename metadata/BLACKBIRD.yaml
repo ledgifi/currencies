@@ -3,3 +3,5 @@ fiat: false
 id: BLACKBIRD
 id_nomics: BLACKBIRD
 name: Blackbird
+platform: ETH
+platform_contract: '0x06f96ebc423488a36e55bb57850aff69e061ab2e'

@@ -5,3 +5,5 @@ id_nomics: GOLD4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOLD4.png
 logoKey: currencies/gold4.png
 name: Golden Goose
+platform: ETH
+platform_contract: '0x40d1f63b5d2048e67e9bedb1b4c2f1a9fb4b6817'

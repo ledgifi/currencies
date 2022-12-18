@@ -5,3 +5,5 @@ id_nomics: KIRA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KIRA2.png
 logoKey: currencies/kira2.png
 name: Death Note Token
+platform: BNB
+platform_contract: '0xe05455647bf923d14718b750ef3ed1ac691c5f53'

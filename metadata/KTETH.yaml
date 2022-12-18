@@ -5,3 +5,5 @@ id_nomics: KTETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KTETH.png
 logoKey: currencies/kteth.png
 name: Kino Token ETH
+platform: ETH
+platform_contract: '0x2f90599ab7d47a7eeb25017b5429d7305794257b'

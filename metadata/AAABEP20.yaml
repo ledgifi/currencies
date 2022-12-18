@@ -5,3 +5,5 @@ id_nomics: AAABEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AAABEP20.jpg
 logoKey: currencies/aaabep20.jpg
 name: Moon Rabbit (BEP-20)
+platform: BNB
+platform_contract: '0xa39bf0446268d99c5c0a85ecf92970611912d386'

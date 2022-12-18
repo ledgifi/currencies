@@ -3,3 +3,5 @@ fiat: false
 id: CRYPTOSAUR
 id_nomics: CRYPTOSAUR
 name: Cryptosaur Battles
+platform: ETH
+platform_contract: '0x585c0a3455a85100cc43365299191d215cf16769'

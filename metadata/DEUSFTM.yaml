@@ -5,3 +5,5 @@ id_nomics: DEUSFTM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEUS3.jpg
 logoKey: currencies/deusftm.jpg
 name: DEUS Finance
+platform: FTM
+platform_contract: '0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44'

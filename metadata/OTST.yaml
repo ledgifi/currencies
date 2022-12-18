@@ -3,3 +3,5 @@ fiat: false
 id: OTST
 id_nomics: OTST
 name: opentest
+platform: MATIC
+platform_contract: '0x1fb89ded7b9e6d6215c70a7f7c8644158f5fc1d6'

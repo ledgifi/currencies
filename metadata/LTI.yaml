@@ -3,3 +3,5 @@ fiat: false
 id: LTI
 id_nomics: LTI
 name: Layer 2 Index on xDai
+platform: XDAI
+platform_contract: '0xcf9dc2de2a67d7db1a7171e3b8456d2171e4da75'

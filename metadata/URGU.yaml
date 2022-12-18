@@ -5,3 +5,5 @@ id_nomics: URGU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/URGU.jpg
 logoKey: currencies/urgu.jpg
 name: URG University
+platform: BNB
+platform_contract: '0x76ce4184c3e2411df998bdebe2daebefaab9934c'

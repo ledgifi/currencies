@@ -5,3 +5,5 @@ id_nomics: RPS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RPS2.jpeg
 logoKey: currencies/rps2.jpeg
 name: Repush Network
+platform: BNB
+platform_contract: '0x2EA24326002b0C00d586b1F1d2a259b902D02c8F'

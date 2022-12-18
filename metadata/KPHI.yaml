@@ -6,3 +6,5 @@ id_nomics: KPHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KPHI.jpg
 logoKey: currencies/kphi.jpg
 name: Kephi Gallery
+platform: BNB
+platform_contract: '0xfa4a5c4ce029fd6872400545df44675219c2e037'

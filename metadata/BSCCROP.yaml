@@ -6,3 +6,5 @@ id_nomics: BSCCROP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSCCROP.jpg
 logoKey: currencies/bsccrop.jpg
 name: BSCCrop
+platform: BNB
+platform_contract: '0xc045fb5b3ae934a7f95679852ee598d79f268114'

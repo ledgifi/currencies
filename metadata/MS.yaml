@@ -5,3 +5,5 @@ id_nomics: MS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MS.jpg
 logoKey: currencies/ms.jpg
 name: Monster Slayer
+platform: BNB
+platform_contract: '0x16a7fa783378da47a4f09613296b0b2dd2b08d06'

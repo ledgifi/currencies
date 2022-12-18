@@ -5,3 +5,5 @@ id_nomics: MSK4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSK4.jpeg
 logoKey: currencies/msk4.jpeg
 name: MetaShark
+platform: BNB
+platform_contract: '0x3d76D90b81F49581D6E0C2C797A2aFe2Db677F3b'

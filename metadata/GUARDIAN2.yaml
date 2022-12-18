@@ -5,3 +5,5 @@ id_nomics: GUARDIAN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GUARDIAN2.jpg
 logoKey: currencies/guardian2.jpg
 name: Guardian Token
+platform: ETH
+platform_contract: '0x16c525c7cd751c19adf26f39118154d7c4bd0088'

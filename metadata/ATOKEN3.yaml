@@ -5,3 +5,5 @@ id_nomics: ATOKEN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATOKEN3.jpg
 logoKey: currencies/atoken3.jpg
 name: A-Token V2
+platform: BNB
+platform_contract: '0x720e8b251b43d53264a432fdee6d4113aca42438'

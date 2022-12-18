@@ -3,3 +3,5 @@ fiat: false
 id: CROC
 id_nomics: CROC
 name: croc.cash
+platform: ETH
+platform_contract: '0x0adb905e46ffd36a20c843af7a094b3590ff5836'

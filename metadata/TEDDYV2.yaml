@@ -5,3 +5,5 @@ id_nomics: TEDDYV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TEDDYV2.png
 logoKey: currencies/teddyv2.png
 name: Teddy Doge V2
+platform: BNB
+platform_contract: '0xdb79c12d1d0670988a39b0e48b96e955ef922d24'

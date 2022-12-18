@@ -5,3 +5,5 @@ id_nomics: GOO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOO3.png
 logoKey: currencies/goo3.png
 name: Art Gobblers Goo
+platform: ETH
+platform_contract: '0x600000000a36f3cd48407e35eb7c5c910dc1f7a8'

@@ -6,3 +6,5 @@ id_nomics: UDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UDT.png
 logoKey: currencies/udt.png
 name: Unlock Protocol
+platform: ETH
+platform_contract: '0x90de74265a416e1393a450752175aed98fe11517'

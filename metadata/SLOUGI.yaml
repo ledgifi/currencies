@@ -5,3 +5,5 @@ id_nomics: SLOUGI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLOUGI.jpg
 logoKey: currencies/slougi.jpg
 name: Slougi V1 (OLD)
+platform: ETH
+platform_contract: '0x2656f02bc30427ed9d380e20cec5e04f5a7a50fe'

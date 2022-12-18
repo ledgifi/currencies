@@ -3,3 +3,5 @@ fiat: false
 id: FDOVE
 id_nomics: FDOVE
 name: Flight Dove
+platform: BNB
+platform_contract: '0x7ced6a01b4161bd0cc142256c4227bd32f3345f7'

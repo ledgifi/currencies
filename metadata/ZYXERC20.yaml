@@ -5,3 +5,5 @@ id_nomics: ZYXERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZYXERC20.png
 logoKey: currencies/zyxerc20.png
 name: ZyxToken (ERC-20)
+platform: ETH
+platform_contract: '0xf974b5f9ac9c6632fee8b76c61b0242ce69c839d'

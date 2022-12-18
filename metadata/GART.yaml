@@ -6,3 +6,5 @@ id_nomics: GART
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GART.png
 logoKey: currencies/gart.png
 name: Griffin Art
+platform: BNB
+platform_contract: '0x6d830e1d0179b4fe656683c9d14c05f8cd95db75'

@@ -5,3 +5,5 @@ id_nomics: PITMOONS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PITMOONS.png
 logoKey: currencies/pitmoons.png
 name: PitMOONS
+platform: BNB
+platform_contract: '0x9498dc3c229cf917fb131671bc15fb1d781ef231'

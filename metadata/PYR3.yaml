@@ -5,3 +5,5 @@ id_nomics: PYR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PYR3.jpg
 logoKey: currencies/pyr3.jpg
 name: Pyraveum
+platform: BNB
+platform_contract: '0xf15931dfc50ace0625a0c662ad0b3b95f4ba1863'

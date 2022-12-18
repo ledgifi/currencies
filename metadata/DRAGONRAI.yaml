@@ -5,3 +5,5 @@ id_nomics: DRAGONRAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRAGONRAI.jpg
 logoKey: currencies/dragonrai.jpg
 name: Dragon Samurai
+platform: BNB
+platform_contract: '0x035500f959bcd0196da218cdc74fbbaaf94c0db8'

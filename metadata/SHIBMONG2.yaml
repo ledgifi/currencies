@@ -5,3 +5,5 @@ id_nomics: SHIBMONG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBMONG2.jpg
 logoKey: currencies/shibmong2.jpg
 name: Shiba Mongoose
+platform: ETH
+platform_contract: '0xceaaf939438fa3b93479962d519227aed65a5eb2'

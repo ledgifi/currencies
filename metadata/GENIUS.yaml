@@ -6,3 +6,5 @@ id_nomics: GENIUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GENIUS.jpg
 logoKey: currencies/genius.jpg
 name: Genius Coin
+platform: BNB
+platform_contract: '0xba5b0408b0645ec091b3bb76ee793091a9399bf2'

@@ -6,3 +6,5 @@ id_nomics: JEM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JEM.jpg
 logoKey: currencies/jem.jpg
 name: Jem
+platform: ETH
+platform_contract: '0x21cf09bc065082478dcc9ccb5fd215a978dc8d86'

@@ -5,3 +5,5 @@ id_nomics: POOP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POOP2.jpg
 logoKey: currencies/poop2.jpg
 name: Poopsicle
+platform: FTM
+platform_contract: '0x070eb1a48725622de867a7e3d1dd4f0108966ed1'

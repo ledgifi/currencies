@@ -5,3 +5,5 @@ id_nomics: STONK4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STONK4.jpg
 logoKey: currencies/stonk4.jpg
 name: StonkInu
+platform: BNB
+platform_contract: '0x735757db5fffa9620bdb279d01a9cfcc016ab61b'

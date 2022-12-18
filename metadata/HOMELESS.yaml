@@ -3,3 +3,5 @@ fiat: false
 id: HOMELESS
 id_nomics: HOMELESS
 name: HOMELESS
+platform: ETH
+platform_contract: '0x9753933ec7fd2e5241a3de0ddfa49e9cfd397c61'

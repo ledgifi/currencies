@@ -5,3 +5,5 @@ id_nomics: CBN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBN2.jpg
 logoKey: currencies/cbn2.jpg
 name: CoinBurn
+platform: BNB
+platform_contract: '0x53a61eab81463803a269118d5e41b4af26969af6'

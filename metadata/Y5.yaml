@@ -5,3 +5,5 @@ id_nomics: Y5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/Y5.png
 logoKey: currencies/y5.png
 name: Y-5 Finance
+platform: BNB
+platform_contract: '0xcbd8aece0c920eef3f215ad4e7319052bd8eaa74'

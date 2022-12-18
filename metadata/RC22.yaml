@@ -5,3 +5,5 @@ id_nomics: RC22
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RC22.jpg
 logoKey: currencies/rc22.jpg
 name: Reward Cycle 2
+platform: BNB
+platform_contract: '0x38330281b627240b1f5470014091f69ad5a84146'

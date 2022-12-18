@@ -3,3 +3,5 @@ fiat: false
 id: AVF
 id_nomics: AVF
 name: AVF Token
+platform: HT
+platform_contract: '0xcd2e58ccb029b998a73872a3da1d1eebd8951685'

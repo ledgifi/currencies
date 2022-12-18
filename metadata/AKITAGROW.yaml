@@ -5,3 +5,5 @@ id_nomics: AKITAGROW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AKITAGROW.jpg
 logoKey: currencies/akitagrow.jpg
 name: AkitaGrow
+platform: BNB
+platform_contract: '0x54f4b4a205982a6891ce0f12ef05d10299b4cbc7'

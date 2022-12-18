@@ -6,3 +6,5 @@ id_nomics: VZT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VZT.png
 logoKey: currencies/vzt.png
 name: Vezt
+platform: ETH
+platform_contract: '0x9720b467a710382a232a32f540bdced7d662a10b'

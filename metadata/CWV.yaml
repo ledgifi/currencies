@@ -5,3 +5,5 @@ id_nomics: CWV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CWV.jpg
 logoKey: currencies/cwv.jpg
 name: CryptoWorld.VIP
+platform: ETH
+platform_contract: '0xed494c9e2f8e34e53bdd0ea9b4d80305cb15c5c2'

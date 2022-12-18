@@ -5,3 +5,5 @@ id_nomics: KUMA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KUMA2.png
 logoKey: currencies/kuma2.png
 name: Kuma Inu
+platform: ETH
+platform_contract: '0xb525ecee288b99216cd481c56b6efbdbe9bf90b5'

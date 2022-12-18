@@ -6,3 +6,5 @@ id_nomics: MEFA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEFA.jpg
 logoKey: currencies/mefa.jpg
 name: Metaverse Face
+platform: BNB
+platform_contract: '0x6ad0f087501eee603aeda0407c52864bc7f83322'

@@ -6,3 +6,5 @@ id_nomics: CBUNNY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBUNNY.jpg
 logoKey: currencies/cbunny.jpg
 name: Crazy Bunny Equity Token
+platform: BNB
+platform_contract: '0xaec23008b1098e39c0f8de90bf7431d185efe8b3'

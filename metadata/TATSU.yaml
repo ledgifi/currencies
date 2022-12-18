@@ -5,3 +5,5 @@ id_nomics: TATSU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TATSU.jpg
 logoKey: currencies/tatsu.jpg
 name: TATsu
+platform: ETH
+platform_contract: '0xf44697f9fb54e9cdab89167c78d60a4289b5301f'

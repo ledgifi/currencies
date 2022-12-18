@@ -5,3 +5,5 @@ id_nomics: FRIES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FRIES.jpg
 logoKey: currencies/fries.jpg
 name: fry.world
+platform: BNB
+platform_contract: '0x393b312c01048b3ed2720bf1b090084c09e408a1'

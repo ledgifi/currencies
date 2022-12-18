@@ -5,3 +5,5 @@ id_nomics: ATC7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATC7.jpeg
 logoKey: currencies/atc7.jpeg
 name: Arcturus
+platform: BNB
+platform_contract: '0x365460425937f6A8B17026f440D301Cf7B894BE4'

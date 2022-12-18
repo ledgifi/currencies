@@ -5,3 +5,5 @@ id_nomics: CMERGEBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CMERGEBEP20.png
 logoKey: currencies/cmergebep20.png
 name: CoinMerge (BEP-20)
+platform: BNB
+platform_contract: '0x8d3e3a57c5f140b5f9feb0d43d37a347ee01c851'

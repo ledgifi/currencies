@@ -6,3 +6,5 @@ id_nomics: MEXP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEXP.jpg
 logoKey: currencies/mexp.jpg
 name: MOJI Experience Points
+platform: ETH
+platform_contract: '0xde201daec04ba73166d9917fdf08e1728e270f06'

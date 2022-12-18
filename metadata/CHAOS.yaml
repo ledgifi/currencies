@@ -5,3 +5,5 @@ id_nomics: CHAOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHAOS.jpg
 logoKey: currencies/chaos.jpg
 name: ZKCHAOS
+platform: ETH
+platform_contract: '0xb53de031602cd825febe9f2eedf962cd8cc3805d'

@@ -6,3 +6,5 @@ id_nomics: CYMT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/cymt.jpg
 logoKey: currencies/cymt.jpg
 name: CyberMusic
+platform: ETH
+platform_contract: '0x78c292d1445e6b9558bf42e8bc369271ded062ea'

@@ -5,3 +5,5 @@ id_nomics: ES3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ES3.jpg
 logoKey: currencies/es3.jpg
 name: ElonSpace
+platform: BNB
+platform_contract: '0x75434d2c52dc257c4b538ba9e397e153ac7d6acf'

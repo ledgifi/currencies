@@ -5,3 +5,5 @@ id_nomics: ZUM3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZUM3.jpg
 logoKey: currencies/zum3.jpg
 name: ZumToken
+platform: BNB
+platform_contract: '0x54c2c07b3af037567269ad6a168d5bd527867b58'

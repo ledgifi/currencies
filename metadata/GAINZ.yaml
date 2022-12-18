@@ -5,3 +5,5 @@ id_nomics: GAINZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAINZ.png
 logoKey: currencies/gainz.png
 name: GymRocket
+platform: BNB
+platform_contract: '0x65bb3de5174ebfff241aa501b6142559bf7d85a0'

@@ -5,3 +5,5 @@ id_nomics: BTCNEXT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCNEXT.png
 logoKey: currencies/btcnext.png
 name: BTCNEXT Coin
+platform: ETH
+platform_contract: '0x40c836982788dca47d11024b1fa3e01fd4661766'

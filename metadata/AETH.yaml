@@ -5,3 +5,5 @@ id_nomics: AETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AETH.png
 logoKey: currencies/aeth.png
 name: Aave ETH v1
+platform: ETH
+platform_contract: '0x3a3a65aab0dd2a17e3f1947ba16138cd37d08c04'

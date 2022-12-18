@@ -3,3 +3,5 @@ fiat: false
 id: MGRAIN
 id_nomics: MGRAIN
 name: multigrain
+platform: ETH
+platform_contract: '0x88cd6f71e48dc70c3025f260d5714f95fd9d9706'

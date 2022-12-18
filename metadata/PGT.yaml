@@ -5,3 +5,5 @@ id_nomics: PGT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PGT.jpg
 logoKey: currencies/pgt.jpg
 name: Puregold Token
+platform: ETH
+platform_contract: '0xc949fc82a15964fb5b97e5cf8f9ffed139086821'

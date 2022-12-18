@@ -3,3 +3,5 @@ fiat: false
 id: PEGU
 id_nomics: PEGU
 name: PenguinToken
+platform: BNB
+platform_contract: '0x65b6592ef9dd2f462401c6bcd90afbb2f3c55382'

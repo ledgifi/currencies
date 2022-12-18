@@ -5,3 +5,5 @@ id_nomics: BTCHALF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCHALF.jpg
 logoKey: currencies/btchalf.jpg
 name: Bitcoin 0.5
+platform: BNB
+platform_contract: '0x7a196e9495ecc5a5af161d766d15e0d1a7fbcc86'

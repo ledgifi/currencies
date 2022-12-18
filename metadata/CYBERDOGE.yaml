@@ -5,3 +5,5 @@ id_nomics: CYBERDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CYBERDOGE.png
 logoKey: currencies/cyberdoge.png
 name: Cyber Doge
+platform: BNB
+platform_contract: '0x8119249bd74632f51ead85b91f4565f36970ea4e'

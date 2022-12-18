@@ -3,3 +3,5 @@ fiat: false
 id: TRADEDAO
 id_nomics: TRADEDAO
 name: Trade DAO
+platform: ETH
+platform_contract: '0x6510fbb900401ee50be9ccca15fb99bd1d3aeb9a'

@@ -3,3 +3,5 @@ fiat: false
 id: SBOND
 id_nomics: SBOND
 name: SBOND
+platform: SMARTBCH
+platform_contract: '0xfd07c46121f5c621784146731d673b32e0abda6b'

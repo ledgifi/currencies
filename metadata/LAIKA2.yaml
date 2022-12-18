@@ -5,3 +5,5 @@ id_nomics: LAIKA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LAIKA2.jpg
 logoKey: currencies/laika2.jpg
 name: Laika Protocol
+platform: BNB
+platform_contract: '0x2a49de60cc6204c3afc3e770fdb30a0554147519'

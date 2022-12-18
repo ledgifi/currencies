@@ -5,3 +5,5 @@ id_nomics: CHOW2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHOW2.jpg
 logoKey: currencies/chow2.jpg
 name: Chow Chow
+platform: ETH
+platform_contract: '0x2c33f2501f83dbf43c9ef6378a5c902e724a4a6a'

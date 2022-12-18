@@ -5,3 +5,5 @@ id_nomics: PEEWEE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEEWEE.jpeg
 logoKey: currencies/peewee.jpeg
 name: PeeWee Dog
+platform: BNB
+platform_contract: '0x19819368aa253a9d8381852076dced6a7043385b'

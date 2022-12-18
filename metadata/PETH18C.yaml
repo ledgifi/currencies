@@ -5,3 +5,5 @@ id_nomics: PETH18C
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PETH18C.jpg
 logoKey: currencies/peth18c.jpg
 name: POW ETH-1.8W/M
+platform: ETH
+platform_contract: '0xa15690e9205de386ce849889831c1668c300c1ad'

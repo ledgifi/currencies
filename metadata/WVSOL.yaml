@@ -3,3 +3,5 @@ fiat: false
 id: WVSOL
 id_nomics: WVSOL
 name: Wrapped VSolidus
+platform: BNB
+platform_contract: '0x3f76cb0b1c2be725f4015bc55fe8cf89dbb4d938'

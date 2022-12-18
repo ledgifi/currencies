@@ -6,3 +6,5 @@ id_nomics: MOONTOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOONTOKEN.jpg
 logoKey: currencies/moontoken.jpg
 name: Moon Token
+platform: BNB
+platform_contract: '0x81e4d494b85a24a58a6ba45c9b418b32a4e039de'

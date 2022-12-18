@@ -3,3 +3,5 @@ fiat: false
 id: MCREAL
 id_nomics: MCREAL
 name: Moola interest bearing CREAL
+platform: CELO
+platform_contract: '0x9802d866fde4563d088a6619f7cef82c0b991a55'

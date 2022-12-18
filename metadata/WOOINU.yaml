@@ -5,3 +5,5 @@ id_nomics: WOOINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOOINU.jpg
 logoKey: currencies/wooinu.jpg
 name: Nature Boy Inu
+platform: ETH
+platform_contract: '0xbf820fbb448c564b456ce376cbfbe341b84d1a58'

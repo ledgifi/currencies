@@ -5,3 +5,5 @@ id_nomics: CBR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBR.jpg
 logoKey: currencies/cbr.jpg
 name: CCBrother
+platform: ETH
+platform_contract: '0x0445ae32d33066a29e4573bf15d4a2a9690ab754'

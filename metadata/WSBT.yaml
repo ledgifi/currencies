@@ -6,3 +6,5 @@ id_nomics: WSBT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WSBT.jpg
 logoKey: currencies/wsbt.jpg
 name: WallStreetBets Token
+platform: BNB
+platform_contract: '0x8244609023097aef71c702ccbaefc0bde5b48694'

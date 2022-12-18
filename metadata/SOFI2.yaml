@@ -5,3 +5,5 @@ id_nomics: SOFI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOFI2.jpg
 logoKey: currencies/sofi2.jpg
 name: Social Finance
+platform: BNB
+platform_contract: '0x099b8575dfdf1020e07e1d54e125a5bc23433f32'

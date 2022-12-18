@@ -5,3 +5,5 @@ id_nomics: NTS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NTS2.jpg
 logoKey: currencies/nts2.jpg
 name: Notarised
+platform: ETH
+platform_contract: '0xc2d0e87ca97506e0894cab3af3d72fbce485ad36'

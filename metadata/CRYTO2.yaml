@@ -5,3 +5,5 @@ id_nomics: CRYTO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRYTO2.png
 logoKey: currencies/cryto2.png
 name: Cryto
+platform: BNB
+platform_contract: '0xb39137A00D58FA9162ed5B12A5b1b28082ee601F'

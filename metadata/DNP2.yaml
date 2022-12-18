@@ -5,3 +5,5 @@ id_nomics: DNP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DNP2.png
 logoKey: currencies/dnp2.png
 name: The Donation Post
+platform: BNB
+platform_contract: '0xf95d215b8140E445783CD45ffc5Bf9C07e5B3E05'

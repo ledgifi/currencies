@@ -3,3 +3,5 @@ fiat: false
 id: WOCEANS
 id_nomics: WOCEANS
 name: Wrapped Oceans
+platform: BNB
+platform_contract: '0x7881ba9c6224163c366763d0dfc309acdefa0c51'

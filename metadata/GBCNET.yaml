@@ -3,3 +3,5 @@ fiat: false
 id: GBCNET
 id_nomics: GBCNET
 name: GBlock Chain Network
+platform: MATIC
+platform_contract: '0x3fac86aa7d49c005af74cadbdd2518215c70149b'

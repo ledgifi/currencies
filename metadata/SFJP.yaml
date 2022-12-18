@@ -5,3 +5,5 @@ id_nomics: SFJP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFJP.jpg
 logoKey: currencies/sfjp.jpg
 name: SafeJupiter
+platform: BNB
+platform_contract: '0x01efdf57e1a809e24295af52284fc167dba3cd29'

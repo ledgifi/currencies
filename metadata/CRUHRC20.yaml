@@ -5,3 +5,5 @@ id_nomics: CRUHRC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRUHRC20.jpg
 logoKey: currencies/cruhrc20.jpg
 name: Heco-Peg CRU Token
+platform: HT
+platform_contract: '0x926875854917c871ebbd44b75ac33ac8386d4ed5'

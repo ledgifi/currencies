@@ -5,3 +5,5 @@ id_nomics: ANT5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANT5.jpeg
 logoKey: currencies/ant5.jpeg
 name: ANONTOKEN
+platform: BNB
+platform_contract: '0xd283ce7acd177f7cf6cabb7ce5b11fda3605659e'

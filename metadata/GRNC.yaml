@@ -5,3 +5,5 @@ id_nomics: GRNC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GRNC.jpg
 logoKey: currencies/grnc.jpg
 name: VeganNation GreenCoin
+platform: ETH
+platform_contract: '0x37d299ef5548bf19503cb72c085799e331f9097d'

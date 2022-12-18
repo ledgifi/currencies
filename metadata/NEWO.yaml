@@ -5,3 +5,5 @@ id_nomics: NEWO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEWO.png
 logoKey: currencies/newo.png
 name: NEWO Coin
+platform: BNB
+platform_contract: '0x15d57ce57ab752a069fb6fc76ff431812fd3ada3'

@@ -5,3 +5,5 @@ id_nomics: NOAHP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NOAHP.jpg
 logoKey: currencies/noahp.jpg
 name: NOAH DECENTRALIZED STATE COIN
+platform: ETH
+platform_contract: '0x41b3f18c6384dc9a39c33afeca60d9b8e61eaa9f'

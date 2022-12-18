@@ -5,3 +5,5 @@ id_nomics: TEXO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TEXO.jpg
 logoKey: currencies/texo.jpg
 name: tEXO Token
+platform: BNB
+platform_contract: '0xf1afb5674bf946458bd1163163f62de683b07d65'

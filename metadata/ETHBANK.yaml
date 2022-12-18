@@ -3,3 +3,5 @@ fiat: false
 id: ETHBANK
 id_nomics: ETHBANK
 name: EtherBank.club
+platform: ETH
+platform_contract: '0xa61f4a461065d909a712777b6e4d4ee22b2cd66e'

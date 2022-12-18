@@ -5,3 +5,5 @@ id_nomics: UINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UINU.jpg
 logoKey: currencies/uinu.jpg
 name: Uchiha Inu
+platform: BNB
+platform_contract: '0x6b10773bdea72cbed258b36a83b8d0c588b42596'

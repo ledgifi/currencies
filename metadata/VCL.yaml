@@ -6,3 +6,5 @@ id_nomics: VCL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VCL.jpeg
 logoKey: currencies/vcl.jpeg
 name: Volcano Uni
+platform: BNB
+platform_contract: '0x8fbd0298eda57a140e35da1f9f9ac233ace21440'

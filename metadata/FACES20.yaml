@@ -3,3 +3,5 @@ fiat: false
 id: FACES20
 id_nomics: FACES20
 name: SatoshiFaces
+platform: ETH
+platform_contract: '0xf549abe026c3a10388b62d65a741544a9b4c1f9d'

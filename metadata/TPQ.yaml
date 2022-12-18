@@ -3,3 +3,5 @@ fiat: false
 id: TPQ
 id_nomics: TPQ
 name: TPQ
+platform: BNB
+platform_contract: '0x8d86592433a3450dc845d129a09db8d3d785e88b'

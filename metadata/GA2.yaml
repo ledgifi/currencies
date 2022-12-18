@@ -5,3 +5,5 @@ id_nomics: GA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GA2.png
 logoKey: currencies/ga2.png
 name: Golden Age
+platform: BNB
+platform_contract: '0x68db7736df537fcf5504dc701d720457c279719d'

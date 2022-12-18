@@ -3,3 +3,5 @@ fiat: false
 id: GUSDC
 id_nomics: GUSDC
 name: Geist USDC
+platform: FTM
+platform_contract: '0xe578c856933d8e1082740bf7661e379aa2a30b26'

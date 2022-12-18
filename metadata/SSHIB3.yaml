@@ -5,3 +5,5 @@ id_nomics: SSHIB3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SSHIB3.png
 logoKey: currencies/sshib3.png
 name: SoraShib
+platform: BNB
+platform_contract: '0x785d1de9272780e0eb6c3f62a621e778dff368e0'

@@ -5,3 +5,5 @@ id_nomics: BLV3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLV3.png
 logoKey: currencies/blv3.png
 name: Crypto Legions Bloodstone v3
+platform: BNB
+platform_contract: '0x63441e5c9f55b5a9141f3d834a28426ca1c5c5cc'

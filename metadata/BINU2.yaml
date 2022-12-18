@@ -5,3 +5,5 @@ id_nomics: BINU2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BINU2.jpg
 logoKey: currencies/binu2.jpg
 name: Bully Inu
+platform: ETH
+platform_contract: '0x55d1d16fb42fce47b899010c996a3a31f6db8fd6'

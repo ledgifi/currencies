@@ -5,3 +5,5 @@ id_nomics: WIDE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WIDE.png
 logoKey: currencies/wide.png
 name: Wide Energy
+platform: ETH
+platform_contract: '0x62e9ce974213c04bbf97dee1e15f1a0b9df7274c'

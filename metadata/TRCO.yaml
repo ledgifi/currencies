@@ -5,3 +5,5 @@ id_nomics: TRCO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRCO.jpg
 logoKey: currencies/trco.jpg
 name: Treasure Coin
+platform: ETH
+platform_contract: '0xbe5f1eeab114e55b4ca1e332386853f1556a94ce'

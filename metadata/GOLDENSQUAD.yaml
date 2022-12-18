@@ -5,3 +5,5 @@ id_nomics: GOLDENSQUAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOLDENSQUAD.jpeg
 logoKey: currencies/goldensquad.jpeg
 name: Golden Squad
+platform: BNB
+platform_contract: '0xcb2be50e6d2a89390b954a9ce005bd4b210d2bda'

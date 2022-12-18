@@ -5,3 +5,5 @@ id_nomics: BTCFARM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCFARM.png
 logoKey: currencies/btcfarm.png
 name: Bitcoin Farm
+platform: BNB
+platform_contract: '0x62cc01f9bbCf0B60d4EbcfDe456e95cD5ebF9495'

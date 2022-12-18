@@ -3,3 +3,5 @@ fiat: false
 id: INVESTER
 id_nomics: INVESTER
 name: Investereum
+platform: ETH
+platform_contract: '0x2bd8637b0dc00b7225ae0746999dea365324189d'

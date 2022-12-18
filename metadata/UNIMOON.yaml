@@ -6,3 +6,5 @@ id_nomics: UNIMOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNIMOON.jpg
 logoKey: currencies/unimoon.jpg
 name: Unimoon
+platform: BNB
+platform_contract: '0x893e14fafa8df32d9be7eab810027eea8828a98c'

@@ -6,3 +6,5 @@ id_nomics: MEONG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEONG.jpg
 logoKey: currencies/meong.jpg
 name: Meong Token
+platform: BNB
+platform_contract: '0x464acc420607d818f271875552868ddf8095cafe'

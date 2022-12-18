@@ -6,3 +6,5 @@ id_nomics: PAYT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAYT.jpg
 logoKey: currencies/payt.jpg
 name: PayAccept
+platform: ETH
+platform_contract: '0x8ef47555856f6ce2e0cd7c36aef4fab317d2e2e2'

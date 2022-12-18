@@ -6,3 +6,5 @@ id_nomics: SOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOON.jpg
 logoKey: currencies/soon.jpg
 name: Dogematic
+platform: BNB
+platform_contract: '0x06d72db97bcf607f065d8d65d9b8105fdfc1cab3'

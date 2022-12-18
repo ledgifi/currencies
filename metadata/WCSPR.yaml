@@ -3,3 +3,5 @@ fiat: false
 id: WCSPR
 id_nomics: WCSPR
 name: Wrapped Casper Token
+platform: BNB
+platform_contract: '0xa5033ad7f1928566225057fa3e6f704e8401bc25'

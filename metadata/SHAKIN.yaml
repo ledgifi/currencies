@@ -3,3 +3,5 @@ fiat: false
 id: SHAKIN
 id_nomics: SHAKIN
 name: PPSWAP
+platform: MATIC
+platform_contract: '0x90c7c31633dcb1d8b00a57516da2fe09fe8b21f2'

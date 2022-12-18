@@ -5,3 +5,5 @@ id_nomics: ARA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARA3.jpg
 logoKey: currencies/ara3.jpg
 name: Adora Token
+platform: ETH
+platform_contract: '0x9ac5c63ddcb93612e316ab31dfc8192bc8961988'

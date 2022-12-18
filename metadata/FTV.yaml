@@ -5,3 +5,5 @@ id_nomics: FTV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FTV.jpg
 logoKey: currencies/ftv.jpg
 name: Futurov Governance Token
+platform: BNB
+platform_contract: '0xfd2ceaf2a104b2817d8d3252801c52af6b8dae77'

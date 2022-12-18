@@ -5,3 +5,5 @@ id_nomics: AKR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AKR.png
 logoKey: currencies/akr.png
 name: Akurrate Coin
+platform: BNB
+platform_contract: '0xbd1626408d5bda94ea0bf5a0325b9ab8ff155eef'

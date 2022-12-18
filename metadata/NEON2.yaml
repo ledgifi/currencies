@@ -5,3 +5,5 @@ id_nomics: NEON2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEON2.jpg
 logoKey: currencies/neon2.jpg
 name: Neonic Finance
+platform: BNB
+platform_contract: '0x94026f0227ce0c9611e8a228f114f9f19cc3fa87'

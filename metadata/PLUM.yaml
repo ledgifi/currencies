@@ -6,3 +6,5 @@ id_nomics: PLUM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLUM.jpg
 logoKey: currencies/plum.jpg
 name: PlumCake Finance
+platform: BNB
+platform_contract: '0xde8ed8c9480ea12d050182aa99630b235de30f83'

@@ -5,3 +5,5 @@ id_nomics: SIMPSONS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIMPSONS2.jpg
 logoKey: currencies/simpsons2.jpg
 name: Simpsons Swap
+platform: BNB
+platform_contract: '0x58118f34ac9cafe44856882d95a4a7dd964fd88c'

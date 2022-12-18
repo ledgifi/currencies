@@ -3,3 +3,5 @@ fiat: false
 id: WHIP
 id_nomics: WHIP
 name: Whiplash
+platform: MATIC
+platform_contract: '0x831511b82345cf7847ef07db2f0f5f619fce4d91'

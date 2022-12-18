@@ -5,3 +5,5 @@ id_nomics: CENIPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CENIPOS.jpg
 logoKey: currencies/cenipos.jpg
 name: Central Infinite (Polygon)
+platform: MATIC
+platform_contract: '0x57423613e8ca8856dedc2885c689ca31d34ef63f'

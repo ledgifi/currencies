@@ -5,3 +5,5 @@ id_nomics: MRNACX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MRNACX.jpg
 logoKey: currencies/mrnacx.jpg
 name: Moderna, Inc.
+platform: ETH
+platform_contract: '0x9ebd09d9a8364070772660d7443ec12f16d726e3'

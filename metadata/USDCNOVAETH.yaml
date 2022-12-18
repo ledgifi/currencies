@@ -5,3 +5,5 @@ id_nomics: USDCNOVAETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDCNOVAETH.png
 logoKey: currencies/usdcnovaeth.png
 name: USD Coin (Arbitrum Nova)
+platform: NOVAETH
+platform_contract: '0x750ba8b76187092B0D1E87E28daaf484d1b5273b'

@@ -5,3 +5,5 @@ id_nomics: USDCBRISE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDCBRISE2.svg
 logoKey: currencies/usdcbrise2.svg
 name: USD Coin (Bitgert)
+platform: BRISE2
+platform_contract: '0xcf2DF9377A4e3C10e9EA29fDB8879d74C27FCDE7'

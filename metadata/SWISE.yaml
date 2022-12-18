@@ -6,3 +6,5 @@ id_nomics: SWISE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWISE.png
 logoKey: currencies/swise.png
 name: StakeWise
+platform: ETH
+platform_contract: '0x48c3399719b582dd63eb5aadf12a40b4c3f52fa2'

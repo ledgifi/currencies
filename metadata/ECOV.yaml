@@ -5,3 +5,5 @@ id_nomics: ECOV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECOV.jpg
 logoKey: currencies/ecov.jpg
 name: EcomVerse Finance
+platform: BNB
+platform_contract: '0x2c002a7058053bd0eebc82b43c531e23e2ad9bef'

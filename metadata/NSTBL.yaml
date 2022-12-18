@@ -3,3 +3,5 @@ fiat: false
 id: NSTBL
 id_nomics: NSTBL
 name: Polly nStable Nest
+platform: MATIC
+platform_contract: '0x9bf320bd1796a7495bb6187f9eb4db2679b74ed3'

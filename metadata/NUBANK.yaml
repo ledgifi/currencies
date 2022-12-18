@@ -3,3 +3,5 @@ fiat: false
 id: NUBANK
 id_nomics: NUBANK
 name: Nubank
+platform: ETH
+platform_contract: '0xdc0fc330e5560c5764329f53e7ceb7fa6df94f3b'

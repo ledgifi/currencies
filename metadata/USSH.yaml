@@ -3,3 +3,5 @@ fiat: false
 id: USSH
 id_nomics: USSH
 name: USSH
+platform: MATIC
+platform_contract: '0x8727cacbd118d6645d65b0ce37f49eca387db9be'

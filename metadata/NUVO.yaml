@@ -3,3 +3,5 @@ fiat: false
 id: NUVO
 id_nomics: NUVO
 name: Nuvo Cash
+platform: ETH
+platform_contract: '0xe2db94e8d4e4144c336e45668a792d17d48a482c'

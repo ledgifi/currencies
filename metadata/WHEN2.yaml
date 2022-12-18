@@ -5,3 +5,5 @@ id_nomics: WHEN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WHEN2.png
 logoKey: currencies/when2.png
 name: When CMC
+platform: BNB
+platform_contract: '0x4737f7f1cd8c16c3f3cd42bb5fc622786e708b7a'

@@ -3,3 +3,5 @@ fiat: false
 id: BKUS
 id_nomics: BKUS
 name: KUS Bond
+platform: KCS
+platform_contract: '0xff6da76b47f1f782300869edffe893458a92df26'

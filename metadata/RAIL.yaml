@@ -6,3 +6,5 @@ id_nomics: RAIL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAIL.jpg
 logoKey: currencies/rail.jpg
 name: Railgun
+platform: ETH
+platform_contract: '0xe76c6c83af64e4c60245d8c7de953df673a7a33d'

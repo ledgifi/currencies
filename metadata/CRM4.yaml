@@ -5,3 +5,5 @@ id_nomics: CRM4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRM4.jpg
 logoKey: currencies/crm4.jpg
 name: Crommunity Coin
+platform: CRO
+platform_contract: '0x7398a7b563D78208cF7cF35Fdd774871dE6ED57E'

@@ -6,3 +6,5 @@ id_nomics: ASIA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASIA.jpg
 logoKey: currencies/asia.jpg
 name: Asia Coin
+platform: ETH
+platform_contract: '0xf519381791c03dd7666c142d4e49fd94d3536011'

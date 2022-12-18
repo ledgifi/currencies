@@ -5,3 +5,5 @@ id_nomics: MONOC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MONOC.png
 logoKey: currencies/monoc.png
 name: MonoCallers
+platform: BNB
+platform_contract: '0x610696b7cf472678894080610e295a1fc01a8e8f'

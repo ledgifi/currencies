@@ -5,3 +5,5 @@ id_nomics: MOCO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOCO.png
 logoKey: currencies/moco.png
 name: MoCo
+platform: ETH
+platform_contract: '0x06a8f2bcc622ac55d596ea02ce5bb5f318f485e9'

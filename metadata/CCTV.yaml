@@ -3,3 +3,5 @@ fiat: false
 id: CCTV
 id_nomics: CCTV
 name: CCTV Coin
+platform: HT
+platform_contract: '0xf157ffe93454615c68dfc3a9c0ed13c0fc437e65'

@@ -5,3 +5,5 @@ id_nomics: GMX4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMX4.jpg
 logoKey: currencies/gmx4.jpg
 name: GMX
+platform: ARBETH
+platform_contract: '0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a'

@@ -6,3 +6,5 @@ id_nomics: UPP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/upp.png
 logoKey: currencies/upp.png
 name: Sentinel Protocol
+platform: ETH
+platform_contract: '0xc86d054809623432210c107af2e3f619dcfbf652'

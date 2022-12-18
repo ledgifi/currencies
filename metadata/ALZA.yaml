@@ -6,3 +6,5 @@ id_nomics: ALZA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALZA.jpg
 logoKey: currencies/alza.jpg
 name: Alza
+platform: ETH
+platform_contract: '0xf0a6cd665ec8ba3ff38a9f464318d18766762b20'

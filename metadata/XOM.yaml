@@ -6,3 +6,5 @@ id_nomics: XOM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XOM.jpg
 logoKey: currencies/xom.jpg
 name: ExxonMobil
+platform: BNB
+platform_contract: '0x95315508c88DF08dF9cC3D59DC9C7c440A61d373'

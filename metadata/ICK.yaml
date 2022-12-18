@@ -5,3 +5,5 @@ id_nomics: ICK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICK.jpg
 logoKey: currencies/ick.jpg
 name: $ICK Mask
+platform: ETH
+platform_contract: '0x793e2602a8396468f3ce6e34c1b6c6fd6d985bad'

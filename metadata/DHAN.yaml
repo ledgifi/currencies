@@ -5,3 +5,5 @@ id_nomics: DHAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DHAN.jpg
 logoKey: currencies/dhan.jpg
 name: Dhanncoin
+platform: BNB
+platform_contract: '0x23187595d3db70065a0c71ba9d20b298c6b32db7'

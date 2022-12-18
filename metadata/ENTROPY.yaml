@@ -3,3 +3,5 @@ fiat: false
 id: ENTROPY
 id_nomics: ENTROPY
 name: Disorder
+platform: ETH
+platform_contract: '0x3fb5a65b2d9c34a8427cf9588e3aafdeb16f2775'

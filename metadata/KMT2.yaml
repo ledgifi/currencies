@@ -5,3 +5,5 @@ id_nomics: KMT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KMT2.png
 logoKey: currencies/kmt2.png
 name: KEMET
+platform: BNB
+platform_contract: '0x7c8af9e06d1c06e54bd98d3fb842afb731e0d577'

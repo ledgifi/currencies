@@ -5,3 +5,5 @@ id_nomics: LKT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LKT.jpg
 logoKey: currencies/lkt.jpg
 name: Lukutex
+platform: ETH
+platform_contract: '0x243c56e8e740025ac6b112d7b9af59be8eef6e33'

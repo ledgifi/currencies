@@ -3,3 +3,5 @@ fiat: false
 id: USDTDOGE
 id_nomics: USDTDOGE
 name: UsdtDoge
+platform: BNB
+platform_contract: '0x57d74e3f447da0274959ea564d0c16d2eb3b9188'

@@ -6,3 +6,5 @@ id_nomics: XPA
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/xpa.svg
 logoKey: currencies/xpa.svg
 name: XPA
+platform: ETH
+platform_contract: '0x90528aeb3a2b736b780fd1b6c478bb7e1d643170'

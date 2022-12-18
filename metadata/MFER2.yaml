@@ -5,3 +5,5 @@ id_nomics: MFER2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MFER2.png
 logoKey: currencies/mfer2.png
 name: MFER
+platform: AVAX
+platform_contract: '0xf37C45f6481C27C050133bb4257A4017f0b82261'

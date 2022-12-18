@@ -5,3 +5,5 @@ id_nomics: DSN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DSN2.png
 logoKey: currencies/dsn2.png
 name: Disio Network
+platform: BNB
+platform_contract: '0x39BA53702CF4BBd5d8260acfd5FB357F1f80fdb0'

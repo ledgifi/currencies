@@ -6,3 +6,5 @@ id_nomics: AGF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AGF.jpeg
 logoKey: currencies/agf.jpeg
 name: Augmented Finance
+platform: ETH
+platform_contract: '0xb3ed706b564bba9cab64042f4e1b391be7bebce5'

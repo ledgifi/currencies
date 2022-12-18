@@ -3,3 +3,5 @@ fiat: false
 id: MONONOKE
 id_nomics: MONONOKE
 name: Mononoke
+platform: ETH
+platform_contract: '0x3ce2c0ccc479b7b95d9a93087ca6021480d4a849'

@@ -6,3 +6,5 @@ id_nomics: CXGC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CXGC.png
 logoKey: currencies/cxgc.png
 name: Cashex Global Coin
+platform: ETH
+platform_contract: '0xdd6eef0507f10d21f716e36d8b1aae76a4fa3f62'

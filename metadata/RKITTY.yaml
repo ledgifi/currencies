@@ -5,3 +5,5 @@ id_nomics: RKITTY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RKITTY.jpeg
 logoKey: currencies/rkitty.jpeg
 name: RivrKitty
+platform: MOVR
+platform_contract: '0xc2b0435276139731d82ae2fa8928c9b9de0761c1'

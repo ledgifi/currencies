@@ -3,3 +3,5 @@ fiat: false
 id: HCM
 id_nomics: HCM
 name: HCM
+platform: BNB
+platform_contract: '0x293f76e0ebf1470085e355184a740ba06846380e'

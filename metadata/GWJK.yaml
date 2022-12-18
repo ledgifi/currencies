@@ -5,3 +5,5 @@ id_nomics: GWJK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GWJK.jpg
 logoKey: currencies/gwjk.jpg
 name: GreenWojak
+platform: BNB
+platform_contract: '0xe9bc708d74a20fc07d7c98a72f3972651dce6255'

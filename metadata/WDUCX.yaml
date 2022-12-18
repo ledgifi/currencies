@@ -6,3 +6,5 @@ id_nomics: WDUCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WDUCX.jpg
 logoKey: currencies/wducx.jpg
 name: Wrapped DucatusX
+platform: BNB
+platform_contract: '0xeac4cc67f1200d24c1ef6cfb96db6f51cb62b6e2'

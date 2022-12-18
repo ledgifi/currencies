@@ -5,3 +5,5 @@ id_nomics: OGC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OGC2.jpg
 logoKey: currencies/ogc2.jpg
 name: Onegetcoin
+platform: BNB
+platform_contract: '0x33d53608167ac3679c0fe9f7a7a725891cf0f471'

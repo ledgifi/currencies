@@ -6,3 +6,5 @@ id_nomics: IQCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IQCOIN.jpg
 logoKey: currencies/iqcoin.jpg
 name: IQCoin
+platform: BNB
+platform_contract: '0xc530fb1008ef5bafdf8f4ab589b69de837e41169'

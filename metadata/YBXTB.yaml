@@ -5,3 +5,5 @@ id_nomics: YBXTB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YBXTB.jpg
 logoKey: currencies/ybxtb.jpg
 name: BXTB PoC Utility Token
+platform: ETH
+platform_contract: '0x7bA9caa5D19002618F1D93e691490377361D5E60'

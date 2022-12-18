@@ -5,3 +5,5 @@ id_nomics: IRISTOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IRISTOKEN.png
 logoKey: currencies/iristoken.png
 name: Iris Ecosystem
+platform: BNB
+platform_contract: '0x7b9f36a2f331ece03a7483d2713cfd806f9beef2'

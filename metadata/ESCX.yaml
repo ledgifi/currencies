@@ -6,3 +6,5 @@ id_nomics: ESCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ESCX.jpg
 logoKey: currencies/escx.jpg
 name: ESCX Token
+platform: ETH
+platform_contract: '0xa8ebb13b9895e52ab7d815ce7f63591402581624'

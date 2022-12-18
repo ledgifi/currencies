@@ -5,3 +5,5 @@ id_nomics: CREP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CREP.png
 logoKey: currencies/crep.png
 name: Compound Augur
+platform: ETH
+platform_contract: '0x158079ee67fce2f58472a96584a73c7ab9ac95c1'

@@ -5,3 +5,5 @@ id_nomics: MAVAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAVAX.jpg
 logoKey: currencies/mavax.jpg
 name: Mini Avalanche
+platform: BNB
+platform_contract: '0x64aa603d469ff47ca66e1204a569e3356a4ecce2'

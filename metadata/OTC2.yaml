@@ -5,3 +5,5 @@ id_nomics: OTC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OTC2.jpg
 logoKey: currencies/otc2.jpg
 name: Botice
+platform: BNB
+platform_contract: '0xc5E5d4362d55C16A132D9FcA340dE8a453DA21d3'

@@ -5,3 +5,5 @@ id_nomics: GODERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GODERC20.jpg
 logoKey: currencies/goderc20.jpg
 name: Game of Dragons (ERC-20)
+platform: ETH
+platform_contract: '0x2F60EbD82577e95B8f792988D414032b46271c1c'

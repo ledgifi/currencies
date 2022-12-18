@@ -3,3 +3,5 @@ fiat: false
 id: SHIBFLATION
 id_nomics: SHIBFLATION
 name: Shibflation
+platform: ETH
+platform_contract: '0x02ad61ad17d3ee26bb1f72096464ce8ad0fcf73e'

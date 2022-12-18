@@ -3,3 +3,5 @@ fiat: false
 id: NDFI
 id_nomics: NDFI
 name: Nodeify
+platform: FTM
+platform_contract: '0x7dcd01e3a119c8592a5aed681cdc9ed163090362'

@@ -5,3 +5,5 @@ id_nomics: DEXSHARE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEXSHARE.png
 logoKey: currencies/dexshare.png
 name: dexSHARE
+platform: BNB
+platform_contract: '0xf4914e6d97a75f014acfcf4072f11be5cffc4ca6'

@@ -3,3 +3,5 @@ fiat: false
 id: EPID
 id_nomics: EPID
 name: Epidaurus
+platform: MATIC
+platform_contract: '0xe0d4bf77a7c8657058f9fcc733aab01c033f4d30'

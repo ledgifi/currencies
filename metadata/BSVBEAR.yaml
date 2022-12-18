@@ -3,3 +3,5 @@ fiat: false
 id: BSVBEAR
 id_nomics: BSVBEAR
 name: 3X Short Bitcoin SV Token
+platform: ETH
+platform_contract: '0xce49c3c92b33a1653f34811a9d7e34502bf12b89'

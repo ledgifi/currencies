@@ -3,3 +3,5 @@ fiat: false
 id: CENTR
 id_nomics: CENTR
 name: CentralBank
+platform: BNB
+platform_contract: '0x580a16fdcaaed67f9a26085b8108e4d4de0620f8'

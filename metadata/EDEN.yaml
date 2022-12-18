@@ -5,3 +5,5 @@ id_nomics: EDEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EDEN.jpg
 logoKey: currencies/eden.jpg
 name: Eden
+platform: ETH
+platform_contract: '0x1559fa1b8f28238fd5d76d9f434ad86fd20d1559'

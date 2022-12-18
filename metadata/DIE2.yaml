@@ -5,3 +5,5 @@ id_nomics: DIE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DIE2.jpg
 logoKey: currencies/die2.jpg
 name: Die Protocol
+platform: ETH
+platform_contract: '0x6ef6610d24593805144d73b13d4405e00a4e4ac7'

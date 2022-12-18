@@ -5,3 +5,5 @@ id_nomics: SOX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOX3.jpg
 logoKey: currencies/sox3.jpg
 name: Ethersocks
+platform: ETH
+platform_contract: '0x300a902513815028e97fc79e92082ce6a98d3b74'

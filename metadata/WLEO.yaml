@@ -5,3 +5,5 @@ id_nomics: WLEO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WLEO.jpg
 logoKey: currencies/wleo.jpg
 name: Wrapped LEO
+platform: ETH
+platform_contract: '0x176D5681AF7a7D33bCA2B10F716Bb19499a9dD12'

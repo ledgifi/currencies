@@ -5,3 +5,5 @@ id_nomics: LOKIINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOKIINU.jpg
 logoKey: currencies/lokiinu.jpg
 name: Loki Inu
+platform: BNB
+platform_contract: '0x8d52a799110bc1a4f3cb21a84f947290bca9f1eb'

@@ -5,3 +5,5 @@ id_nomics: CTT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTT2.jpg
 logoKey: currencies/ctt2.jpg
 name: CryptoTycoon
+platform: BNB
+platform_contract: '0x464863745ed3af8b9f8871f1082211c55f8f884d'

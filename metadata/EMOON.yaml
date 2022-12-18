@@ -3,3 +3,5 @@ fiat: false
 id: EMOON
 id_nomics: EMOON
 name: Elon Moon
+platform: ETH
+platform_contract: '0x8a6b4de343770717113415941a7924e8711c44c7'

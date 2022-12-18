@@ -6,3 +6,5 @@ id_nomics: PLAAS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLAAS.jpg
 logoKey: currencies/plaas.jpg
 name: PLAAS FARMERS TOKEN
+platform: ETH
+platform_contract: '0x60571e95e12c78cba5223042692908f0649435a5'

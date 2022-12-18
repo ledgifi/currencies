@@ -3,3 +3,5 @@ fiat: false
 id: BLIB
 id_nomics: BLIB
 name: BitLibra
+platform: BNB
+platform_contract: '0x7f044c2f8aca499a0d102aa6f259df41d8624c0c'

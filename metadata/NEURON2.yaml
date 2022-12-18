@@ -5,3 +5,5 @@ id_nomics: NEURON2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEURON2.png
 logoKey: currencies/neuron2.png
 name: Neuron Chain
+platform: BNB
+platform_contract: '0x06ae7A979D9818B64498c8acaFDd0ccc78bC6fd2'

@@ -5,3 +5,5 @@ id_nomics: BABYDOGEZILLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYDOGEZILLA.jpg
 logoKey: currencies/babydogezilla.jpg
 name: BabyDogeZilla
+platform: BNB
+platform_contract: '0x0fbc08905c1d683cf7530bb2a70bb0bde231e5b9'

@@ -5,3 +5,5 @@ id_nomics: WBTCNEAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WBTCNEAR.png
 logoKey: currencies/wbtcnear.png
 name: Wrapped Bitcoin (Near)
+platform: NEAR
+platform_contract: 2260fac5e5542a773aa44fbcfedf7c193bc2c599.factory.bridge.near

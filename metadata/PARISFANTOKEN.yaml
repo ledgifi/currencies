@@ -3,3 +3,5 @@ fiat: false
 id: PARISFANTOKEN
 id_nomics: PARISFANTOKEN
 name: Paris Fan Token
+platform: BNB
+platform_contract: '0x3f4142a0d6169693bedb9ca8d92e4607b3fbcc04'

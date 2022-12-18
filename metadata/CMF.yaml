@@ -5,3 +5,5 @@ id_nomics: CMF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CMF.jpeg
 logoKey: currencies/cmf.jpeg
 name: Crypto Mafia
+platform: BNB
+platform_contract: '0x2f86a794fee552e98d46b33b135ff9126d6e136e'

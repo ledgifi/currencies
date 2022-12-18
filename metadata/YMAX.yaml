@@ -5,3 +5,5 @@ id_nomics: YMAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YMAX.jpg
 logoKey: currencies/ymax.jpg
 name: YMAX
+platform: ETH
+platform_contract: '0x062f90480551379791fbe2ed74c1fe69821b30d3'

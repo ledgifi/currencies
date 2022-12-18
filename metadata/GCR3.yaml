@@ -5,3 +5,5 @@ id_nomics: GCR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GCR3.jpg
 logoKey: currencies/gcr3.jpg
 name: Global Coin Research
+platform: ETH
+platform_contract: '0x6307b25a665efc992ec1c1bc403c38f3ddd7c661'

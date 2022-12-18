@@ -6,3 +6,5 @@ id_nomics: DANK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DANK.jpg
 logoKey: currencies/dank.jpg
 name: Mu Dank
+platform: ETH
+platform_contract: '0x9ea1ae46c15a4164b74463bc26f8aa3b0eea2e6e'

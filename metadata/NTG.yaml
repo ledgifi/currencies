@@ -5,3 +5,5 @@ id_nomics: NTG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NTG.png
 logoKey: currencies/ntg.png
 name: NEWTOWNGAMING
+platform: BNB
+platform_contract: '0xa896928209881bcf9fc363210473bb10eb0c0a10'

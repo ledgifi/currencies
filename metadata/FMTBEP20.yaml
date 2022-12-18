@@ -5,3 +5,5 @@ id_nomics: FMTBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FMTBEP20.png
 logoKey: currencies/fmtbep20.png
 name: Finminity (BEP-20)
+platform: BNB
+platform_contract: '0x99c6e435ec259a7e8d65e1955c9423db624ba54c'

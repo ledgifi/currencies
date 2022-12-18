@@ -6,3 +6,5 @@ id_nomics: EGGP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EGGP.jpg
 logoKey: currencies/eggp.jpg
 name: Eggplant Finance
+platform: BNB
+platform_contract: '0x21adb1c644663069e83059ac3f9d9ca1133d29e4'

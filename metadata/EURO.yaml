@@ -5,3 +5,5 @@ id_nomics: EURO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EURO.jpg
 logoKey: currencies/euro.jpg
 name: Euro Token
+platform: BNB
+platform_contract: '0x3c2c8fc79d37c97cf41d0a2e0a4c89953e49cc4e'

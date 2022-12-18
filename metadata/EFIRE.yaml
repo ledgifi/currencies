@@ -3,3 +3,5 @@ fiat: false
 id: EFIRE
 id_nomics: EFIRE
 name: Ethereum Fire
+platform: ARBETH
+platform_contract: '0xf843ec392f959129a458ca0d1f27e66c1c474458'

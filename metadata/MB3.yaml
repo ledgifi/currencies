@@ -3,3 +3,5 @@ fiat: false
 id: MB3
 id_nomics: MB3
 name: Microchain
+platform: ETH
+platform_contract: '0x7ab1fc79f319718690e9c883bac910f8e289ce8f'

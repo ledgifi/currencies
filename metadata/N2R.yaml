@@ -5,3 +5,5 @@ id_nomics: N2R
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/N2R.jpeg
 logoKey: currencies/n2r.jpeg
 name: Night2Rider
+platform: BNB
+platform_contract: '0x753eb0db710c872d93635cd7a275a90968fd5b9e'

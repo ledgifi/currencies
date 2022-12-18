@@ -3,3 +3,5 @@ fiat: false
 id: BVOL
 id_nomics: BVOL
 name: 1x Long BTC Implied Volatility Token
+platform: ETH
+platform_contract: '0x81824663353a9d29b01b2de9dd9a2bb271d298cd'

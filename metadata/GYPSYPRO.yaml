@@ -5,3 +5,5 @@ id_nomics: GYPSYPRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GYPSYPRO.jpeg
 logoKey: currencies/gypsypro.jpeg
 name: Gypsy Coin Pro
+platform: BNB
+platform_contract: '0x3cc2d674c53ae6ef383964b7b977173da1b28cef'

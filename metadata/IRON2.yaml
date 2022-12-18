@@ -5,3 +5,5 @@ id_nomics: IRON2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IRON2.jpg
 logoKey: currencies/iron2.jpg
 name: Iron
+platform: MATIC
+platform_contract: '0xd86b5923f3ad7b585ed81b448170ae026c65ae9a'

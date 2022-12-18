@@ -5,3 +5,5 @@ id_nomics: CATEFARM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CATEFARM.png
 logoKey: currencies/catefarm.png
 name: CateFarm
+platform: BNB
+platform_contract: '0x108DE51Ee1D922E12Dec90c2863962B49483FE8A'

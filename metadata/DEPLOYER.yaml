@@ -3,3 +3,5 @@ fiat: false
 id: DEPLOYER
 id_nomics: DEPLOYER
 name: DEPLOYER
+platform: ARBETH
+platform_contract: '0xa97ff310eddfb7c8cf8e348a13d4849930ef7bb2'

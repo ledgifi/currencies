@@ -6,3 +6,5 @@ id_nomics: HMMM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HMMM.jpg
 logoKey: currencies/hmmm.jpg
 name: Hmmm
+platform: BNB
+platform_contract: '0x88cf50037f8069071cd56f641a81b369a5fd3a42'

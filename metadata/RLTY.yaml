@@ -5,3 +5,5 @@ id_nomics: RLTY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RLTY.png
 logoKey: currencies/rlty.png
 name: SMARTRealty
+platform: ETH
+platform_contract: '0xbe99b09709fc753b09bcf557a992f6605d5997b0'

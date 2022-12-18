@@ -5,3 +5,5 @@ id_nomics: PROA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PROA.jpg
 logoKey: currencies/proa.jpg
 name: Protocol of Apes
+platform: ETH
+platform_contract: '0x727785974ea02d10d95edac8448de03e5f322bf7'

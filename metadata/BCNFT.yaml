@@ -3,3 +3,5 @@ fiat: false
 id: BCNFT
 id_nomics: BCNFT
 name: BombNFT
+platform: BNB
+platform_contract: '0x3b8e2510a54ccf4018d124858a48028b5cd4cd4f'

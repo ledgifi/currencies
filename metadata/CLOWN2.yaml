@@ -5,3 +5,5 @@ id_nomics: CLOWN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLOWN2.png
 logoKey: currencies/clown2.png
 name: CLOWN
+platform: FTM
+platform_contract: '0x693dCE0b7C647E56dEE3Ff3E1a4c822e31220A1B'

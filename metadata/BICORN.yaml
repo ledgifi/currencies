@@ -3,3 +3,5 @@ fiat: false
 id: BICORN
 id_nomics: BICORN
 name: BicornSwap Token
+platform: BNB
+platform_contract: '0x48150e0e2f669ed2c7e8da00bd13172909f4ee7f'

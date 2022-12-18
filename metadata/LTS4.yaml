@@ -5,3 +5,5 @@ id_nomics: LTS4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LTS4.jpeg
 logoKey: currencies/lts4.jpeg
 name: Lnkto Swap
+platform: BNB
+platform_contract: '0xf2b5ad1d1d9dbce97fafa3dd9fd593aa8d7e8cdb'

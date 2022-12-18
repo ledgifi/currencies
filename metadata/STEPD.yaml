@@ -3,3 +3,5 @@ fiat: false
 id: STEPD
 id_nomics: STEPD
 name: StepD
+platform: BNB
+platform_contract: '0x2582d7afc1bf4496bcb87b6c2a72d24db279dd0e'

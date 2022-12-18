@@ -5,3 +5,5 @@ id_nomics: LIT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIT2.jpg
 logoKey: currencies/lit2.jpg
 name: LITonium
+platform: ETH
+platform_contract: '0x2e3c062e16c1a3a04ddc5003c62e294305d83684'

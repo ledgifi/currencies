@@ -5,3 +5,5 @@ id_nomics: FCATS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FCATS.jpg
 logoKey: currencies/fcats.jpg
 name: Friendcats
+platform: BNB
+platform_contract: '0x6d03830d206bbf75f047e89134a6402a2704f950'

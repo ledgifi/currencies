@@ -5,3 +5,5 @@ id_nomics: WBT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WBT2.jpg
 logoKey: currencies/wbt2.jpg
 name: Waterfall Bot Token
+platform: BNB
+platform_contract: '0xc7435088819f1af950357fed65be856165cc3abb'

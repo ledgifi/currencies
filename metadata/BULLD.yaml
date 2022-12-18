@@ -5,3 +5,5 @@ id_nomics: BULLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BULLD.jpeg
 logoKey: currencies/bulld.jpeg
 name: BullDog Inu
+platform: BNB
+platform_contract: '0x599209ab40daeb44108d9e9426ed1dc207b85460'

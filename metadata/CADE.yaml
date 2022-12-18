@@ -6,3 +6,5 @@ id_nomics: CADE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CADE.jpg
 logoKey: currencies/cade.jpg
 name: CrypCade Shares
+platform: BNB
+platform_contract: '0xa2bf6ed01e13d80d927815ceb0d79e563232f928'

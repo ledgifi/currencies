@@ -5,3 +5,5 @@ id_nomics: AAT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AAT2.jpg
 logoKey: currencies/aat2.jpg
 name: AscensionArcade
+platform: BNB
+platform_contract: '0x2180f5cc1ddf117640963ae91868948bd3ef6838'

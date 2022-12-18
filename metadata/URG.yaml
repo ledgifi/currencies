@@ -5,3 +5,5 @@ id_nomics: URG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/URG.jpg
 logoKey: currencies/urg.jpg
 name: UrGaming
+platform: BNB
+platform_contract: '0xfaf9cc03c9855777fb56d02bc2bcb9d57e0755de'

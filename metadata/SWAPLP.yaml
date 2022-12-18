@@ -3,3 +3,5 @@ fiat: false
 id: SWAPLP
 id_nomics: SWAPLP
 name: HunterSwap LPs
+platform: BNB
+platform_contract: '0xa5b7ec261e3c1304b24b3e5c1f2b18f0a9cb3f6d'

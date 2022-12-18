@@ -5,3 +5,5 @@ id_nomics: KSQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KSQ.jpg
 logoKey: currencies/ksq.jpg
 name: Kesqu
+platform: BNB
+platform_contract: '0x425Ab06b4e60336C97A3D666241B488f65902488'

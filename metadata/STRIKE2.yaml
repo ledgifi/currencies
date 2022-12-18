@@ -5,3 +5,5 @@ id_nomics: STRIKE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STRIKE2.jpg
 logoKey: currencies/strike2.jpg
 name: BNBStrikers
+platform: BNB
+platform_contract: '0x0a19b4f4fcea9cd72e145585301f4c6eb1d46368'

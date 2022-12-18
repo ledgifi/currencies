@@ -5,3 +5,5 @@ id_nomics: DXIOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DXIOT.jpg
 logoKey: currencies/dxiot.jpg
 name: dXIOT
+platform: ETH
+platform_contract: '0x8b6dd24bcb2d0aea92c3abd4eb11103a5db6d714'

@@ -6,3 +6,5 @@ id_nomics: 4XB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/4XB.png
 logoKey: currencies/4xb.png
 name: 4xBit
+platform: ETH
+platform_contract: '0xa3ac41fde5f3a569fa79e81ffe6734ee8097ce9d'

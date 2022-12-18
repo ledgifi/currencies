@@ -5,3 +5,5 @@ id_nomics: WZEC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WZEC.png
 logoKey: currencies/wzec.png
 name: Wrapped Zcash
+platform: ETH
+platform_contract: '0x4a64515e5e1d1073e83f30cb97bed20400b66e10'

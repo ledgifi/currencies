@@ -6,3 +6,5 @@ id_nomics: ISPN4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ISPN4.jpg
 logoKey: currencies/ispn4.jpg
 name: Inspiration4
+platform: BNB
+platform_contract: '0xed52d233416903fa721066d59819b08ef00fe4b0'

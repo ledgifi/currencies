@@ -5,3 +5,5 @@ id_nomics: KAC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAC.png
 logoKey: currencies/kac.png
 name: Kaco
+platform: BNB
+platform_contract: '0xf96429a7ae52da7d07e60be95a3ece8b042016fb'

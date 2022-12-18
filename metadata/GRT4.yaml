@@ -5,3 +5,5 @@ id_nomics: GRT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GRT.png
 logoKey: currencies/grt4.png
 name: Global Rental Token
+platform: ETH
+platform_contract: '0x1fb6bccc7da51aa32e96118b8a33226d2ae16517'

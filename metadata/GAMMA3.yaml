@@ -5,3 +5,5 @@ id_nomics: GAMMA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAMMA3.jpg
 logoKey: currencies/gamma3.jpg
 name: Green Planet
+platform: BNB
+platform_contract: '0xb3cb6d2f8f2fde203a022201c81a96c167607f15'

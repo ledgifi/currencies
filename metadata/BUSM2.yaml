@@ -5,3 +5,5 @@ id_nomics: BUSM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUSM2.png
 logoKey: currencies/busm2.png
 name: Bomb US Money
+platform: BNB
+platform_contract: '0x6216b17f696b14701e17bcb24ec14430261be94a'

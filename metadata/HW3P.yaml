@@ -5,3 +5,5 @@ id_nomics: HW3P
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HW3P.png
 logoKey: currencies/hw3p.png
 name: Holo Web3 Project
+platform: BNB
+platform_contract: '0x04bd3374fb0e74354dccf5f765eaf3955542359f'

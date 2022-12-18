@@ -6,3 +6,5 @@ id_nomics: NASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/nash.png
 logoKey: currencies/nash.png
 name: NeoWorld Cash
+platform: ETH
+platform_contract: '0x0a255f700b16c0acf5673565c757b94fb38b27f2'

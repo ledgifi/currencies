@@ -6,3 +6,5 @@ id_nomics: FTI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/fti.png
 logoKey: currencies/fti.png
 name: FansTime
+platform: ETH
+platform_contract: '0x943ed852dadb5c3938ecdc6883718df8142de4c8'

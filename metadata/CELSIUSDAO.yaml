@@ -3,3 +3,5 @@ fiat: false
 id: CELSIUSDAO
 id_nomics: CELSIUSDAO
 name: Celsius DAO
+platform: ETH
+platform_contract: '0xeacfe95b4c82871e8c4a0c098e1ee693ef02ed74'

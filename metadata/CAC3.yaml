@@ -5,3 +5,5 @@ id_nomics: CAC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAC3.jpeg
 logoKey: currencies/cac3.jpeg
 name: BitCactus
+platform: BNB
+platform_contract: '0x9895638b6f5c72d221bfba7e1b9312e513d6c3aa'

@@ -5,3 +5,5 @@ id_nomics: XGT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XGT.jpg
 logoKey: currencies/xgt.jpg
 name: Guten Check
+platform: ETH
+platform_contract: '0xf87271ff78a3de23bb7a6fbd3c7080199f6ae82b'

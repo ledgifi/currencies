@@ -5,3 +5,5 @@ id_nomics: TMC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TMC3.jpg
 logoKey: currencies/tmc3.jpg
 name: TMC NiftyGotchi
+platform: ETH
+platform_contract: '0xe13559cf6edf84bd04bf679e251f285000b9305e'

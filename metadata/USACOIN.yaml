@@ -3,3 +3,5 @@ fiat: false
 id: USACOIN
 id_nomics: USACOIN
 name: USACOIN
+platform: ETH
+platform_contract: '0xe70ea90718fd21471db240f3bae343daece65f53'

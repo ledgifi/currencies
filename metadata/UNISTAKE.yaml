@@ -6,3 +6,5 @@ id_nomics: UNISTAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNISTAKE.png
 logoKey: currencies/unistake.png
 name: Unistake
+platform: ETH
+platform_contract: '0x9ed8e7c9604790f7ec589f99b94361d8aab64e5e'

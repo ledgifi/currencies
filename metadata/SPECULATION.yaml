@@ -3,3 +3,5 @@ fiat: false
 id: SPECULATION
 id_nomics: SPECULATION
 name: Speculation
+platform: ETH
+platform_contract: '0x463971d2e13159c807abf2e4667fc570138d58f2'

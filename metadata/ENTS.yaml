@@ -6,3 +6,5 @@ id_nomics: ENTS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ENTS.png
 logoKey: currencies/ents.png
 name: EUNOMIA
+platform: ETH
+platform_contract: '0x0f612a09ead55bb81b6534e80ed5a21bf0a27b16'

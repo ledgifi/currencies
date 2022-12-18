@@ -6,3 +6,5 @@ id_nomics: DKC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DKC.png
 logoKey: currencies/dkc.png
 name: Duke Coin
+platform: BNB
+platform_contract: '0x691d658ecdc3554672ba007335cc139bfe67bab9'

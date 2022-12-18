@@ -5,3 +5,5 @@ id_nomics: HOUND3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOUND3.jpg
 logoKey: currencies/hound3.jpg
 name: Hound Inu
+platform: BNB
+platform_contract: '0xfa25bff162bb86553c265f60c894f7136f931109'

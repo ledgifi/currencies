@@ -5,3 +5,5 @@ id_nomics: LTR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LTR.jpg
 logoKey: currencies/ltr.jpg
 name: LogiTron
+platform: ETH
+platform_contract: '0xa4c7963b98838e8f958cf7b87a039249044fe2db'

@@ -6,3 +6,5 @@ id_nomics: CNNS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CNNS.png
 logoKey: currencies/cnns.png
 name: CNNS
+platform: ETH
+platform_contract: '0x6c3be406174349cfa4501654313d97e6a31072e1'

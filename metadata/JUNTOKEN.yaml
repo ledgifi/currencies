@@ -3,3 +3,5 @@ fiat: false
 id: JUNTOKEN
 id_nomics: JUNTOKEN
 name: junToken
+platform: BNB
+platform_contract: '0x604405149a7118f2ceb4cd59d6597ffd6f85b484'

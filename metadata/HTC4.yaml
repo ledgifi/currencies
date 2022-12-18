@@ -5,3 +5,5 @@ id_nomics: HTC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HTC4.png
 logoKey: currencies/htc4.png
 name: Hashtag Token
+platform: BNB
+platform_contract: '0x8904d1ba6256749414d0bbd3cbaa586bd241a658'

@@ -3,3 +3,5 @@ fiat: false
 id: FASTBTC
 id_nomics: FASTBTC
 name: FastBTC
+platform: BNB
+platform_contract: '0x3c7eed3de61f4bf5c92c1c0042ee48147cef0d99'

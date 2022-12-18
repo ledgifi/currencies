@@ -5,3 +5,5 @@ id_nomics: EPARA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EPARA2.jpg
 logoKey: currencies/epara2.jpg
 name: ePara
+platform: BNB
+platform_contract: '0x85f533595c70ecf845c677798632751b49f10407'

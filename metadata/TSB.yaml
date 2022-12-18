@@ -5,3 +5,5 @@ id_nomics: TSB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TSB.jpg
 logoKey: currencies/tsb.jpg
 name: Top Shelf Bourbon Token
+platform: BNB
+platform_contract: '0xa37f71f092f891757d23dd350f57c78e8469c026'

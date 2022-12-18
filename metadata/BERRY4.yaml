@@ -5,3 +5,5 @@ id_nomics: BERRY4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BERRY4.jpg
 logoKey: currencies/berry4.jpg
 name: Strawberry.WTF
+platform: ETH
+platform_contract: '0xe944f2b46fcfc9d0e887bbeaad95268d9416d0fd'

@@ -6,3 +6,5 @@ id_nomics: JRT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JRT.jpg
 logoKey: currencies/jrt.jpg
 name: Jarvis Reward Token
+platform: ETH
+platform_contract: '0x8a9c67fee641579deba04928c4bc45f66e26343a'

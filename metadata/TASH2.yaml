@@ -5,3 +5,5 @@ id_nomics: TASH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TASH2.jpg
 logoKey: currencies/tash2.jpg
 name: Tengo TASH
+platform: MATIC
+platform_contract: '0x1ca773c43d555f11c2f42b98a38a21794c827012'

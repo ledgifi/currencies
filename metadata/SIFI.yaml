@@ -6,3 +6,5 @@ id_nomics: SIFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIFI.jpg
 logoKey: currencies/sifi.jpg
 name: Simian Finance
+platform: ETH
+platform_contract: '0x4afb0aac9b862946837b2444566b8a914d6d0d97'

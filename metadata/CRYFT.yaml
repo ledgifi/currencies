@@ -5,3 +5,5 @@ id_nomics: CRYFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRYFT.png
 logoKey: currencies/cryft.png
 name: Cryft Coin
+platform: BNB
+platform_contract: '0xd2267477a35dc048b41af9c96b0405e0717ca1bf'

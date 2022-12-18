@@ -3,3 +3,5 @@ fiat: false
 id: ALC2
 id_nomics: ALC2
 name: AlrightCoin
+platform: ETH
+platform_contract: '0x95d82ba91256db995c80bed690d0a779191af62b'

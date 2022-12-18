@@ -5,3 +5,5 @@ id_nomics: IDM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IDM.jpg
 logoKey: currencies/idm.jpg
 name: IDM Token
+platform: BNB
+platform_contract: '0x14b13e06f75e1f0fd51ca2e699589ef398e10f4c '

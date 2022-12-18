@@ -6,3 +6,5 @@ id_nomics: MTA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTA2.jpg
 logoKey: currencies/mta.jpg
 name: Meta
+platform: ETH
+platform_contract: '0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2'

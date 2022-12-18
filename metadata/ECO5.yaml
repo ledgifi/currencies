@@ -5,3 +5,5 @@ id_nomics: ECO5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECO5.jpg
 logoKey: currencies/eco5.jpg
 name: ECO2 Ledger
+platform: ETH
+platform_contract: '0x83058f5bc487151253d8deff14e58ed707582f8d'

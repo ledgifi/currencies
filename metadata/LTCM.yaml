@@ -3,3 +3,5 @@ fiat: false
 id: LTCM
 id_nomics: LTCM
 name: LTC@moonriver
+platform: MOVR
+platform_contract: '0xdd7f2bc5f0ef210ca183349ae90785fdfb374ae7'

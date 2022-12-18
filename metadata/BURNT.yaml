@@ -5,3 +5,5 @@ id_nomics: BURNT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BURNT.png
 logoKey: currencies/burnt.png
 name: BURNT
+platform: ETH
+platform_contract: '0x33e1089b4b0a456488cfb0a445d090907b5d3e7d'

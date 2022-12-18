@@ -3,3 +3,5 @@ fiat: false
 id: SSD
 id_nomics: SSD
 name: Stabilized Set Dollar
+platform: ETH
+platform_contract: '0x7bf5898a9c24818a90d9763bbf4cd1432645c17f'

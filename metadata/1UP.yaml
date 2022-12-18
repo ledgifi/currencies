@@ -5,3 +5,5 @@ id_nomics: 1UP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/1UP.png
 logoKey: currencies/1up.png
 name: 1-UP
+platform: ETH
+platform_contract: '0xc86817249634ac209bc73fca1712bbd75e37407d'

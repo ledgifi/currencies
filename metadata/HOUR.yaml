@@ -5,3 +5,5 @@ id_nomics: HOUR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOUR.png
 logoKey: currencies/hour.png
 name: HOUR
+platform: BNB
+platform_contract: '0x6785f8ea1788367cf47811a113c6973b6cf00546'

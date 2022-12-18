@@ -6,3 +6,5 @@ id_nomics: AIX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/aix.jpg
 logoKey: currencies/aix.jpg
 name: Aigang
+platform: ETH
+platform_contract: '0x1063ce524265d5a3a624f4914acd573dd89ce988'

@@ -6,3 +6,5 @@ id_nomics: MAMA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAMA.jpg
 logoKey: currencies/mama.jpg
 name: MAMA DAO
+platform: MATIC
+platform_contract: '0xa9a779aea33b6f40cfc78a29cf56fc7e6fb329ab'

@@ -5,3 +5,5 @@ id_nomics: USB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USB2.jpg
 logoKey: currencies/usb2.jpg
 name: USDT BANK
+platform: BNB
+platform_contract: '0x58ed9120b6a5aee5e04fcf958efdf009d9dbe112'

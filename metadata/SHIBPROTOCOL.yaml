@@ -5,3 +5,5 @@ id_nomics: SHIBPROTOCOL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBPROTOCOL.png
 logoKey: currencies/shibprotocol.png
 name: Shib Protocol
+platform: BNB
+platform_contract: '0xef6f1216f20369e48e08279de034e3cfac8a4d9b'

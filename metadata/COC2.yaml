@@ -5,3 +5,5 @@ id_nomics: COC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COC2.jpg
 logoKey: currencies/coc2.jpg
 name: CocktailBar
+platform: ETH
+platform_contract: '0x22b6c31c2beb8f2d0d5373146eed41ab9ede3caf'

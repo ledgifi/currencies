@@ -5,3 +5,5 @@ id_nomics: DCAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DCAR.png
 logoKey: currencies/dcar.png
 name: Descartes Chain
+platform: AVAX
+platform_contract: '0x250bdca7d1845cd543bb55e7d82dca24d48e9f0f'

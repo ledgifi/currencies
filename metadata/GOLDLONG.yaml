@@ -3,3 +3,5 @@ fiat: false
 id: GOLDLONG
 id_nomics: GOLDLONG
 name: GoldLong
+platform: BNB
+platform_contract: '0xcf718830da0b4ffccec9e3d90a27054541d8d89c'

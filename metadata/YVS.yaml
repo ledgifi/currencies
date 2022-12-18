@@ -6,3 +6,5 @@ id_nomics: YVS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YVS.jpg
 logoKey: currencies/yvs.jpg
 name: YVS Finance
+platform: ETH
+platform_contract: '0xec681f28f4561c2a9534799aa38e0d36a83cf478'

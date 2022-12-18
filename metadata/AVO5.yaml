@@ -5,3 +5,5 @@ id_nomics: AVO5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVO5.png
 logoKey: currencies/avo5.png
 name: Avoteo
+platform: BNB
+platform_contract: '0xaed8bd0608ef3cc45290a8d0e4223ef4c92dd3dc'

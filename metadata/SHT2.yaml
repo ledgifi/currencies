@@ -5,3 +5,5 @@ id_nomics: SHT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHT2.png
 logoKey: currencies/sht2.png
 name: Shiba Team
+platform: BNB
+platform_contract: '0x0220cc9b88225fed4c137bf36fd5cd4fbfd5dc48'

@@ -5,3 +5,5 @@ id_nomics: LUD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUD2.jpg
 logoKey: currencies/lud2.jpg
 name: Little Ugly Duck
+platform: BNB
+platform_contract: '0xde009cb3371825bafb80a01004c58f8166ee13d5'

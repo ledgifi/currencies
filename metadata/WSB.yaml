@@ -5,3 +5,5 @@ id_nomics: WSB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WSB.jpg
 logoKey: currencies/wsb.jpg
 name: Wall Street Baby
+platform: ETH
+platform_contract: '0x62f8dbdea37a4ed40ff3d2631001e4490c13218f'

@@ -5,3 +5,5 @@ id_nomics: TNGLFTM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TNGLFTM.jpeg
 logoKey: currencies/tnglftm.jpeg
 name: Tangle (Fantom)
+platform: FTM
+platform_contract: '0xd17584633bc8d190e5a14502976dad9640456d6d'

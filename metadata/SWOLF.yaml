@@ -3,3 +3,5 @@ fiat: false
 id: SWOLF
 id_nomics: SWOLF
 name: Safe Wolf
+platform: ETH
+platform_contract: '0x72f3bcb3e9abd21c79cc0b106a4b4f0f5d712b01'

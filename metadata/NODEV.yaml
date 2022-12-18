@@ -3,3 +3,5 @@ fiat: false
 id: NODEV
 id_nomics: NODEV
 name: NODEV
+platform: FUSE
+platform_contract: '0x9b1b14ca66f5c77fdc756c9352bb4c9d9129f055'

@@ -5,3 +5,5 @@ id_nomics: AVAKITA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVAKITA.png
 logoKey: currencies/avakita.png
 name: Avakita
+platform: AVAX
+platform_contract: '0xd962e6E7d945fBfecf35184dA5774f653f5cD5FB'

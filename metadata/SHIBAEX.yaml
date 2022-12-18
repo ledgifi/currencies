@@ -3,3 +3,5 @@ fiat: false
 id: SHIBAEX
 id_nomics: SHIBAEX
 name: Shiba Exchange
+platform: ETH
+platform_contract: '0x1c5c3c2da7d5a3d20348ff15ab1cac7b55d6a324'

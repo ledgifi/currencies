@@ -3,3 +3,5 @@ fiat: false
 id: MONZY
 id_nomics: MONZY
 name: Monzy Token
+platform: ETH
+platform_contract: '0xfe53138fd6da3a6e8d53cac26d350cb483258921'

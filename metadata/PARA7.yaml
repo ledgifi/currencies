@@ -5,3 +5,5 @@ id_nomics: PARA7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PARA7.png
 logoKey: currencies/para7.png
 name: PARA Network
+platform: BNB
+platform_contract: '0x30B806F964CB86d482C56F5aC73B0C3cb155f452'

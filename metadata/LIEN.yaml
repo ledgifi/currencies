@@ -5,3 +5,5 @@ id_nomics: LIEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIEN.jpg
 logoKey: currencies/lien.jpg
 name: Lien (ERC-20)
+platform: ETH
+platform_contract: '0xab37e1358b639fd877f015027bb62d3ddaa7557e'

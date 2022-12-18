@@ -6,3 +6,5 @@ id_nomics: INFINITY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INFINITY.jpg
 logoKey: currencies/infinity.jpg
 name: Infinity Protocol BSC
+platform: BNB
+platform_contract: '0xf27a589281e1b933e122dfe306ebfd02b061850f'

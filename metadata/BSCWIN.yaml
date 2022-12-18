@@ -6,3 +6,5 @@ id_nomics: BSCWIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSCWIN.jpg
 logoKey: currencies/bscwin.jpg
 name: BSCWIN Bulls
+platform: BNB
+platform_contract: '0x73b01a9c8379a9d3009f2351f22583f8b75cc1ba'

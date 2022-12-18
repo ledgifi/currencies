@@ -6,3 +6,5 @@ id_nomics: TITANO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TITANO.jpg
 logoKey: currencies/titano.jpg
 name: Titano
+platform: BNB
+platform_contract: '0xba96731324de188ebc1ed87ca74544ddebc07d7f'

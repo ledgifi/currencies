@@ -5,3 +5,5 @@ id_nomics: TGCAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TGCAT.png
 logoKey: currencies/tgcat.png
 name: Telegram Cat
+platform: BNB
+platform_contract: '0x8623ede7ad4e8efa97b6646b37752a8fc7d63f97'

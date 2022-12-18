@@ -5,3 +5,5 @@ id_nomics: COPTER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COPTER.jpg
 logoKey: currencies/copter.jpg
 name: Helicopter Finance
+platform: BNB
+platform_contract: '0xbc12ad556581ff7162e595e5956f5f3845fdb38c'

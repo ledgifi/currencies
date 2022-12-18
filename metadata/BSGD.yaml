@@ -5,3 +5,5 @@ id_nomics: BSGD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSGD.png
 logoKey: currencies/bsgd.png
 name: Bitcoin SINGAPORE DOLLAR
+platform: BNB
+platform_contract: '0x2cb6c6c9faa1cc164e83efe76ae005b7f5c0664b'

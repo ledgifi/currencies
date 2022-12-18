@@ -5,3 +5,5 @@ id_nomics: ENCRYPTOTELETH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ENCRYPTOTELETH2.png
 logoKey: currencies/encryptoteleth2.png
 name: Encryptotel [ETH]
+platform: ETH
+platform_contract: '0xe0c72452740414d861606a44ccd5ea7f96488278'

@@ -5,3 +5,5 @@ id_nomics: RIZE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RIZE.jpg
 logoKey: currencies/rize.jpg
 name: RIZE Token
+platform: ETH
+platform_contract: '0xf8d778219d253df289da5f43e2711124ff3953c2'

@@ -6,3 +6,5 @@ id_nomics: DOE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOE.png
 logoKey: currencies/doe.png
 name: Dogs Of Elon
+platform: ETH
+platform_contract: '0xf8e9f10c22840b613cda05a0c5fdb59a4d6cd7ef'

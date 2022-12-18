@@ -5,3 +5,5 @@ id_nomics: UFARM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UFARM.jpg
 logoKey: currencies/ufarm.jpg
 name: UniFarm
+platform: ETH
+platform_contract: '0x40986a85b4cfcdb054a6cbfb1210194fee51af88'

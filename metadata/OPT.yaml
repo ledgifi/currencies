@@ -6,3 +6,5 @@ id_nomics: OPT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/opt.png
 logoKey: currencies/opt.png
 name: Opus
+platform: ETH
+platform_contract: '0x4355fc160f74328f9b383df2ec589bb3dfd82ba0'

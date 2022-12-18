@@ -5,3 +5,5 @@ id_nomics: MATSUSWAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MATSUSWAP.png
 logoKey: currencies/matsuswap.png
 name: MatsuSwap
+platform: ETH
+platform_contract: '0x2f0f622a93c85c43fd47f4ab119360f5846026c4'

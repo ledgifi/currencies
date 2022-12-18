@@ -5,3 +5,5 @@ id_nomics: ARSL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARSL.jpg
 logoKey: currencies/arsl.jpg
 name: ARSL
+platform: ETH
+platform_contract: '0xf9f7567bfb1b336de4e542de19b72192cb7c0354'

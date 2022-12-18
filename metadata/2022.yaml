@@ -6,3 +6,5 @@ id_nomics: '2022'
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/2022.png
 logoKey: currencies/2022.png
 name: Twenty22
+platform: BNB
+platform_contract: '0x5e71f45118169b1b0be13b3b77c34f56fbc8ace0'

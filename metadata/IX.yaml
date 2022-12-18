@@ -5,3 +5,5 @@ id_nomics: IX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IX.jpg
 logoKey: currencies/ix.jpg
 name: X-Block
+platform: ETH
+platform_contract: '0x53f0c9f1b6e283a59bcd672e80e2222b97e534cb'

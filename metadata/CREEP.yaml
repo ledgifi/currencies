@@ -3,3 +3,5 @@ fiat: false
 id: CREEP
 id_nomics: CREEP
 name: CREEP
+platform: ARBETH
+platform_contract: '0x69e5c957709725de4c9f85815b50d71ce0699ea5'

@@ -5,3 +5,5 @@ id_nomics: RGL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RGL.png
 logoKey: currencies/rgl.png
 name: Rigel
+platform: BNB
+platform_contract: '0x56ca184eb3cb8024fea509703ed6605c92d0fb54'

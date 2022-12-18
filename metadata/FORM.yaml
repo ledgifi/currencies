@@ -5,3 +5,5 @@ id_nomics: FORM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FORM.png
 logoKey: currencies/form.png
 name: Formation Finance
+platform: ETH
+platform_contract: '0x21381e026ad6d8266244f2a583b35f9e4413fa2a'

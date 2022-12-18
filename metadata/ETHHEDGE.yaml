@@ -3,3 +3,5 @@ fiat: false
 id: ETHHEDGE
 id_nomics: ETHHEDGE
 name: 1X Short Ethereum Token
+platform: ETH
+platform_contract: '0x10e1e953ddba597011f8bfa806ab0cc3415a622b'

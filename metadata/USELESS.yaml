@@ -6,3 +6,5 @@ id_nomics: USELESS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USELESS.jpg
 logoKey: currencies/useless.jpg
 name: Useless
+platform: BNB
+platform_contract: '0x2cd2664ce5639e46c6a3125257361e01d0213657'

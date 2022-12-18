@@ -5,3 +5,5 @@ id_nomics: PONG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PONG.png
 logoKey: currencies/pong.png
 name: Pong Chain
+platform: ETH
+platform_contract: '0x95fa5c2d804838164bdca5c188e9ffd1d8a624dc'

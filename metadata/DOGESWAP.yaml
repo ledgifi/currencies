@@ -3,3 +3,5 @@ fiat: false
 id: DOGESWAP
 id_nomics: DOGESWAP
 name: DogeSwap
+platform: ETH
+platform_contract: '0x53a64847711e3b32e6a9619d84bd7d86d9276c6d'

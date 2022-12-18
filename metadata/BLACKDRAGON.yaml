@@ -5,3 +5,5 @@ id_nomics: BLACKDRAGON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLACKDRAGON.jpg
 logoKey: currencies/blackdragon.jpg
 name: BlackDragon Token
+platform: ETH
+platform_contract: '0x4efe8665e564bf454ccf5c90ee16817f7485d5cf'

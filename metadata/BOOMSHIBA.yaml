@@ -6,3 +6,5 @@ id_nomics: BOOMSHIBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOOMSHIBA.jpg
 logoKey: currencies/boomshiba.jpg
 name: Boom Shiba
+platform: BNB
+platform_contract: '0x14af0e9d51d9fe25c1675cc580409b640286167f'

@@ -5,3 +5,5 @@ id_nomics: DENTRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DENTRO.png
 logoKey: currencies/dentro.png
 name: Dentrocoin
+platform: BNB
+platform_contract: '0x3f30b6169b2178fa205a7a77e8823d2b359e7224'

@@ -3,3 +3,5 @@ fiat: false
 id: SB
 id_nomics: SB
 name: SpaceBoost
+platform: BNB
+platform_contract: '0x1c0f7ad43b7511b4f885cbf2eef311365fe9c0ba'

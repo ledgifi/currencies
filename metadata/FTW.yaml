@@ -5,3 +5,5 @@ id_nomics: FTW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FTW.png
 logoKey: currencies/ftw.png
 name: FeedtheWorld
+platform: BNB
+platform_contract: '0xdd7678a370f4c240e1cf1bc9a74fb726ba791d6b'

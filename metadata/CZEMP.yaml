@@ -3,3 +3,5 @@ fiat: false
 id: CZEMP
 id_nomics: CZEMP
 name: CZpegs EMP
+platform: BNB
+platform_contract: '0xa700ec63f9d3d9a03981cf7f8eb805c444edbc21'

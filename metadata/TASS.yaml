@@ -3,3 +3,5 @@ fiat: false
 id: TASS
 id_nomics: TASS
 name: TASS
+platform: BNB
+platform_contract: '0x11c35b22520e1176d1827afb4e1c86446f22836d'

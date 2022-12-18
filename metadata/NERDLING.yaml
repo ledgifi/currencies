@@ -3,3 +3,5 @@ fiat: false
 id: NERDLING
 id_nomics: NERDLING
 name: Nerdling Token
+platform: ETH
+platform_contract: '0x201850680b79bbeff4e00684248b237a77bded0c'

@@ -5,3 +5,5 @@ id_nomics: FOMO4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOMO4.jpg
 logoKey: currencies/fomo4.jpg
 name: FOMO
+platform: ETH
+platform_contract: '0xa622f100b1d59e5ee8cdfafb876e3a9446a675e5'

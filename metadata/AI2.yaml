@@ -5,3 +5,5 @@ id_nomics: AI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AI2.jpg
 logoKey: currencies/ai2.jpg
 name: Multiverse
+platform: ETH
+platform_contract: '0xc91b523a59acc63a64f61fc7bbfb4bfc82dd25f2'

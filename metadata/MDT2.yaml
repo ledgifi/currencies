@@ -5,3 +5,5 @@ id_nomics: MDT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MDT2.jpg
 logoKey: currencies/mdt2.jpg
 name: governance token MonolithosDAO
+platform: ETH
+platform_contract: '0x4dfd148b532e934a2a26ea65689cf6268753e130'

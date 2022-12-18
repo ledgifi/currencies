@@ -5,3 +5,5 @@ id_nomics: EXL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EXL.jpg
 logoKey: currencies/exl.jpg
 name: EXL Capital
+platform: ETH
+platform_contract: '0xfa47546d241b8ab4e89cd6b0d7e44239a87930d9'

@@ -5,3 +5,5 @@ id_nomics: FROGZILLABSC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FROGZILLABSC.jpg
 logoKey: currencies/frogzillabsc.jpg
 name: FrogZillaBSC
+platform: BNB
+platform_contract: '0xc221eb3aaa15715f90feb83c370b61ccbd07b07b'

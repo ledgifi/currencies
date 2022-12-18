@@ -8,3 +8,5 @@ id_nomics: RAMP
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/4d73f69e-3a16-4c6e-a1b3-92856f673ac7.png
 logoKey: currencies/ramp.png
 name: RAMP
+platform: ETH
+platform_contract: '0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f'

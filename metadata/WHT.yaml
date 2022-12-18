@@ -5,3 +5,5 @@ id_nomics: WHT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WHT.png
 logoKey: currencies/wht.png
 name: WhatsHalal
+platform: ETH
+platform_contract: '0xae8d4da01658dd0ac118dde60f5b78042d0da7f2'

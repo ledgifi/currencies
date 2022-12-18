@@ -5,3 +5,5 @@ id_nomics: VINU5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VINU5.jpeg
 logoKey: currencies/vinu5.jpeg
 name: Vault Inu
+platform: BNB
+platform_contract: '0x2f5c784140c656a76AF82187a197a4c10fd20Ca8'

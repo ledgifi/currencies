@@ -5,3 +5,5 @@ id_nomics: CGT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CGT2.jpg
 logoKey: currencies/cgt2.jpg
 name: Curio Governance
+platform: ETH
+platform_contract: '0xf56b164efd3cfc02ba739b719b6526a6fa1ca32a'

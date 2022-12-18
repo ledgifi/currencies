@@ -5,3 +5,5 @@ id_nomics: CATA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CATA.png
 logoKey: currencies/cata.png
 name: Catacomb
+platform: BNB
+platform_contract: '0x3a3f6ba8d139c3a8563d9f3e00faaf99e9613530'

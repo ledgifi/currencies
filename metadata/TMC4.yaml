@@ -5,3 +5,5 @@ id_nomics: TMC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TMC4.png
 logoKey: currencies/tmc4.png
 name: Trustmecoin
+platform: MATIC
+platform_contract: '0xfd1d6c5033078f25d7e2a00ab97840f4a5a4fe58'

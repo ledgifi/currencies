@@ -5,3 +5,5 @@ id_nomics: RM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RM.jpg
 logoKey: currencies/rm.jpg
 name: RiverMount
+platform: ETH
+platform_contract: '0x5ab55ec290beacae98f54c3eb70860460b167c3c'

@@ -5,3 +5,5 @@ id_nomics: ARW2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARW2.jpg
 logoKey: currencies/arw2.jpg
 name: Arowana Token
+platform: ETH
+platform_contract: '0x351caa9045d65107b9d311d922d15887cfd634e4'

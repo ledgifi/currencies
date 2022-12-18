@@ -3,3 +3,5 @@ fiat: false
 id: BABYHASH
 id_nomics: BABYHASH
 name: BABYHASH
+platform: BNB
+platform_contract: '0x658b4dd9f0b1446f997bd970d20ac763b730525c'

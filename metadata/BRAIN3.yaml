@@ -5,3 +5,5 @@ id_nomics: BRAIN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRAIN3.jpeg
 logoKey: currencies/brain3.jpeg
 name: BnbRain
+platform: BNB
+platform_contract: '0xd53f89a893c825c09afd39e02369ca0bcf27d03d'

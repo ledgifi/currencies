@@ -6,3 +6,5 @@ id_nomics: ADEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADEN.png
 logoKey: currencies/aden.png
 name: Adene
+platform: BNB
+platform_contract: '0xe782ccb8f8749a0f23ab690aa601455e8eb8e550'

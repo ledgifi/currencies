@@ -6,3 +6,5 @@ id_nomics: URAC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/URAC.jpg
 logoKey: currencies/urac.jpg
 name: Uranus
+platform: ETH
+platform_contract: '0xff8be4b22cedc440591dcb1e641eb2a0dd9d25a5'

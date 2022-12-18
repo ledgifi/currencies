@@ -3,3 +3,5 @@ fiat: false
 id: DOMINO
 id_nomics: DOMINO
 name: Domino Effect
+platform: ARBETH
+platform_contract: '0x3ba3a8c15475a71a5d765144e961b62da371ecf1'

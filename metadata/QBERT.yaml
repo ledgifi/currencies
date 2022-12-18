@@ -3,3 +3,5 @@ fiat: false
 id: QBERT
 id_nomics: QBERT
 name: QBERT
+platform: BNB
+platform_contract: '0x6ed390befbb50f4b492f08ea0965735906034f81'

@@ -6,3 +6,5 @@ id_nomics: YFID
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFID.jpg
 logoKey: currencies/yfid.jpg
 name: YFIDapp
+platform: ETH
+platform_contract: '0x61266424b904d65ceb2945a1413ac322185187d5'

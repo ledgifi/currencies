@@ -5,3 +5,5 @@ id_nomics: KRP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KRP2.jpeg
 logoKey: currencies/krp2.jpeg
 name: Krypto Republic
+platform: BNB
+platform_contract: '0x8dfe5ab691b1678e52a54c68d641916b48e12ab5'

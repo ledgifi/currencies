@@ -3,3 +3,5 @@ fiat: false
 id: MSNC
 id_nomics: MSNC
 name: The Mission Classic
+platform: ETH
+platform_contract: '0x7393064f639215fb1bb620513be0c2855b26fb5d'

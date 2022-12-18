@@ -3,3 +3,5 @@ fiat: false
 id: LCKYTEST
 id_nomics: LCKYTEST
 name: LCKYTEST token
+platform: BNB
+platform_contract: '0xc6e06f2db02f36ff91398138d6e6f40aee304c9c'

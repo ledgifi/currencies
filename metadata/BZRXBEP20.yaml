@@ -5,3 +5,5 @@ id_nomics: BZRXBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BZRXBEP20.png
 logoKey: currencies/bzrxbep20.png
 name: bZx Protocol Token (BEP-20)
+platform: BNB
+platform_contract: '0x4b87642aedf10b642be4663db842ecc5a88bf5ba'

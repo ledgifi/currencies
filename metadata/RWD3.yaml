@@ -5,3 +5,5 @@ id_nomics: RWD3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RWD3.png
 logoKey: currencies/rwd3.png
 name: Rewards
+platform: ETH
+platform_contract: '0xd80f72a6558ec337e0d4cf76b8752b17fa770860'

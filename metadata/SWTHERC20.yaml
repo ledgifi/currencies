@@ -5,3 +5,5 @@ id_nomics: SWTHERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWTHERC20.jpg
 logoKey: currencies/swtherc20.jpg
 name: Switcheo Token (ERC-20)
+platform: ETH
+platform_contract: '0xb4371da53140417cbb3362055374b10d97e420bb'

@@ -5,3 +5,5 @@ id_nomics: CTCO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTCO.jpg
 logoKey: currencies/ctco.jpg
 name: Connector Coin
+platform: BNB
+platform_contract: '0x544d5b92765514AF32879d311993c5dD1C147967'

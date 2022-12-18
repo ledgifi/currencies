@@ -3,3 +3,5 @@ fiat: false
 id: XRPHEDGE
 id_nomics: XRPHEDGE
 name: 1X Short XRP Token
+platform: ETH
+platform_contract: '0x55b54d8fb1640d1321d5164590e7b020ba43def2'

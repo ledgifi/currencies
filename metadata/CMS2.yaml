@@ -5,3 +5,5 @@ id_nomics: CMS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CMS2.jpg
 logoKey: currencies/cms2.jpg
 name: CryptoMoonSwap
+platform: BNB
+platform_contract: '0xa6ccaeba565a11725ff5d6a642cb622f3d1402cf'

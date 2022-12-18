@@ -5,3 +5,5 @@ id_nomics: XBOO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XBOO.png
 logoKey: currencies/xboo.png
 name: Boo MirrorWorld
+platform: FTM
+platform_contract: '0xa48d959ae2e88f1daa7d5f611e01908106de7598'

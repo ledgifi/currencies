@@ -5,3 +5,5 @@ id_nomics: BFY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BFY.jpg
 logoKey: currencies/bfy.jpg
 name: Bike4you
+platform: BNB
+platform_contract: '0x48478d1ca8096e0b53904c750bd0d31912445b4d'

@@ -5,3 +5,5 @@ id_nomics: WCF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WCF2.jpeg
 logoKey: currencies/wcf2.jpeg
 name: WorldCoin Finance
+platform: BNB
+platform_contract: '0x7be414d2e4a87435a8a6273be41b8a60b452e7c1'

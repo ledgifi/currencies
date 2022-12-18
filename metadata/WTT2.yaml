@@ -5,3 +5,5 @@ id_nomics: WTT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WTT2.png
 logoKey: currencies/wtt2.png
 name: WinTap Token
+platform: BNB
+platform_contract: '0x3554744d1a93f7aa01d3625977ac3eac3516618d'

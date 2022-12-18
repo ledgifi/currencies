@@ -5,3 +5,5 @@ id_nomics: INU6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INU6.jpg
 logoKey: currencies/inu6.jpg
 name: KOKA INU
+platform: ETH
+platform_contract: '0xac5bf342763248702f4fbd6dc068381a609543a2'

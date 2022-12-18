@@ -3,3 +3,5 @@ fiat: false
 id: SUPERBOWL
 id_nomics: SUPERBOWL
 name: Super Bowl Token
+platform: ETH
+platform_contract: '0x5274e0de3232b22a875e5c4854d3949414bfab1c'

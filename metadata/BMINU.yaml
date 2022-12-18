@@ -5,3 +5,5 @@ id_nomics: BMINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BMINU.png
 logoKey: currencies/bminu.png
 name: Bill Murray Inu
+platform: BNB
+platform_contract: '0x226832d91e92ed8851344466f3cbf0261322eacb'

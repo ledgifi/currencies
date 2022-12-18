@@ -5,3 +5,5 @@ id_nomics: ROCKET3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROCKET3.jpg
 logoKey: currencies/rocket3.jpg
 name: SafeRocket
+platform: BNB
+platform_contract: '0xebdf1b978dc2576ef0020ba4cf5f98174425c3a1'

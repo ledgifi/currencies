@@ -3,3 +3,5 @@ fiat: false
 id: TWIM
 id_nomics: TWIM
 name: TWIM
+platform: ETH
+platform_contract: '0x48e21ec0006329f1e8d6283564227d8a875bac89'

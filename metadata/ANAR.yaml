@@ -5,3 +5,5 @@ id_nomics: ANAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANAR.jpg
 logoKey: currencies/anar.jpg
 name: Anarchy token
+platform: ETH
+platform_contract: '0xfdf63ed4abdda6e771c7a396d81fce60e134395f'

@@ -5,3 +5,5 @@ id_nomics: LOVEDOG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOVEDOG.jpg
 logoKey: currencies/lovedog.jpg
 name: LoveDog
+platform: BNB
+platform_contract: '0x20a1bddab61c611caab1c2fe3d97f32d477adb2a'

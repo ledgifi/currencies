@@ -5,3 +5,5 @@ id_nomics: GEC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GEC2.jpg
 logoKey: currencies/gec2.jpg
 name: Carbon Neutrality
+platform: BNB
+platform_contract: '0x0965d7717068ff4f8f302556316f7b8e8661e485'

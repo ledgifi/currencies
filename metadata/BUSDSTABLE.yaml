@@ -3,3 +3,5 @@ fiat: false
 id: BUSDSTABLE
 id_nomics: BUSDSTABLE
 name: BUSDSTABLE
+platform: BNB
+platform_contract: '0xa7260a530ac50ada3f5de502fc11ad90228fbcd6'

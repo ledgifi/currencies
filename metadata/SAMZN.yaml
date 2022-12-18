@@ -5,3 +5,5 @@ id_nomics: SAMZN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAMZN.png
 logoKey: currencies/samzn.png
 name: sAMZN
+platform: ETH
+platform_contract: '0x9cf7e61853ea30a41b02169391b393b901eac457'

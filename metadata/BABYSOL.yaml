@@ -6,3 +6,5 @@ id_nomics: BABYSOL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYSOL.jpg
 logoKey: currencies/babysol.jpg
 name: Baby Solana
+platform: BNB
+platform_contract: '0x5650d8f1e947b17ff6f29db6d2ad06f0d1f4df18'

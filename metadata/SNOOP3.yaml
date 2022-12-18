@@ -5,3 +5,5 @@ id_nomics: SNOOP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNOOP3.png
 logoKey: currencies/snoop3.png
 name: Snoop Coin
+platform: BNB
+platform_contract: '0xa66832289578d1c379d5d9ce3cefbf39f62731b1'

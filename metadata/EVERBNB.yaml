@@ -6,3 +6,5 @@ id_nomics: EVERBNB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVERBNB.jpg
 logoKey: currencies/everbnb.jpg
 name: EverBNB
+platform: BNB
+platform_contract: '0xb87bc0ff5dd585a93c44d8511d876933e4233707'

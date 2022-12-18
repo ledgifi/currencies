@@ -5,3 +5,5 @@ id_nomics: FIN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIN3.png
 logoKey: currencies/fin3.png
 name: Financio
+platform: BNB
+platform_contract: '0x09e7e61f28e83c7bac827a0ec9dcd800ce4b4cc1'

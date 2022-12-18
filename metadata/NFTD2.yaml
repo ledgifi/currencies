@@ -5,3 +5,5 @@ id_nomics: NFTD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTD2.jpg
 logoKey: currencies/nftd2.jpg
 name: NFTrade
+platform: ETH
+platform_contract: '0x8e0fe2947752be0d5acf73aae77362daf79cb379'

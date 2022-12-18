@@ -3,3 +3,5 @@ fiat: false
 id: TUPAC
 id_nomics: TUPAC
 name: Tupac Token
+platform: MATIC
+platform_contract: '0x473867abf138791302c8cb385ac68ecaa32c21c4'

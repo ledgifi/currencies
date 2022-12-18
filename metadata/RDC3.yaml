@@ -5,3 +5,5 @@ id_nomics: RDC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RDC3.jpg
 logoKey: currencies/rdc3.jpg
 name: Rescue Doge Coin
+platform: BNB
+platform_contract: '0xacd6134e26f699ce4fc4c160d9f0ec480eda7474'

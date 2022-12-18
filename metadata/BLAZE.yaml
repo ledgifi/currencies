@@ -5,3 +5,5 @@ id_nomics: BLAZE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLAZE.png
 logoKey: currencies/blaze.png
 name: Blazecoin
+platform: ETH
+platform_contract: '0xffa8b451f22ab4ceabdef3a9dc66aad3564c8829'

@@ -5,3 +5,5 @@ id_nomics: BSC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSC5.jpeg
 logoKey: currencies/bsc5.jpeg
 name: Blessed Santa Coin
+platform: BNB
+platform_contract: '0x03649f4d0fb5ee2e0d40c52be3d9a3a6bedf4162'

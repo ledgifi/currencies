@@ -6,3 +6,5 @@ id_nomics: DMLG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DMLG.jpg
 logoKey: currencies/dmlg.jpg
 name: Demole
+platform: BNB
+platform_contract: '0x1c796c140de269e255372ea687ef7644bab87935'

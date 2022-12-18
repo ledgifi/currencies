@@ -5,3 +5,5 @@ id_nomics: MOONMATIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOONMATIC.jpg
 logoKey: currencies/moonmatic.jpg
 name: MoonMatic
+platform: BNB
+platform_contract: '0x6acba23f23ad3ae6d031b6b29c51af3a5c8f46ef'

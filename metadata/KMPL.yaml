@@ -5,3 +5,5 @@ id_nomics: KMPL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KMPL.jpg
 logoKey: currencies/kmpl.jpg
 name: KiloAmple
+platform: ETH
+platform_contract: '0xe8d17542dfe79ff4fbd4b850f2d39dc69c4489a2'

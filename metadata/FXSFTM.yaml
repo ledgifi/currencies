@@ -5,3 +5,5 @@ id_nomics: FXSFTM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FXSFTM.png
 logoKey: currencies/fxsftm.png
 name: Frax Share (Fantom)
+platform: FTM
+platform_contract: '0x7d016eec9c25232b01f23ef992d98ca97fc2af5a'

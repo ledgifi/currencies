@@ -3,3 +3,5 @@ fiat: false
 id: PAYB2
 id_nomics: PAYB2
 name: PayB
+platform: ETH
+platform_contract: '0xdcb5645eda1ed34c5641d81b927d33ebae9cf2a4'

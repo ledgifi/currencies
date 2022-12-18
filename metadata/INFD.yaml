@@ -5,3 +5,5 @@ id_nomics: INFD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INFD.jpg
 logoKey: currencies/infd.jpg
 name: InfinityDeFi
+platform: ETH
+platform_contract: '0x82dad985afd3708680bac660f4e527da4f0dcfa5'

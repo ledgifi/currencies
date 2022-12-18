@@ -6,3 +6,5 @@ id_nomics: JS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JS.png
 logoKey: currencies/js.png
 name: JavaScript Token
+platform: ETH
+platform_contract: '0x5046e860ff274fb8c66106b0ffb8155849fb0787'

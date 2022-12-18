@@ -3,3 +3,5 @@ fiat: false
 id: GQC
 id_nomics: GQC
 name: GOLDQR COIN
+platform: ETH
+platform_contract: '0xcb4787bf505a751ec37678e33d2b4fdf491af9d2'

@@ -6,3 +6,5 @@ id_nomics: XDEFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XDEFI.jpg
 logoKey: currencies/xdefi.jpg
 name: XDEFI
+platform: ETH
+platform_contract: '0x72b886d09c117654ab7da13a14d603001de0b777'

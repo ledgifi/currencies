@@ -5,3 +5,5 @@ id_nomics: PEPEBET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEPEBET.png
 logoKey: currencies/pepebet.png
 name: PEPE.bet
+platform: ETH
+platform_contract: '0x33cf519030235f75a13f29afcff5d6ff4fd10350'

@@ -5,3 +5,5 @@ id_nomics: DFH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DFH.jpg
 logoKey: currencies/dfh.jpg
 name: DeFiHelper Governance Token
+platform: ETH
+platform_contract: '0x5f2080542ab6ae7e0b06778f0b2d263006297840'

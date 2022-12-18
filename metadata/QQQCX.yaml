@@ -5,3 +5,5 @@ id_nomics: QQQCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QQQCX.jpg
 logoKey: currencies/qqqcx.jpg
 name: Invesco QQQ Trust
+platform: ETH
+platform_contract: '0x7c8dbabfd4cc96bbbb0e800c70a422c0ae4f8b36'

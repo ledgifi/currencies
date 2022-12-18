@@ -5,3 +5,5 @@ id_nomics: FNXBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FNXBEP20.jpg
 logoKey: currencies/fnxbep20.jpg
 name: FinNexus (BEP-20)
+platform: BNB
+platform_contract: '0xdfd9e2a17596cad6295ecffda42d9b6f63f7b5d5'

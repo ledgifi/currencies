@@ -5,3 +5,5 @@ id_nomics: THUNDER4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THUNDER4.jpeg
 logoKey: currencies/thunder4.jpeg
 name: MiniThunder
+platform: BNB
+platform_contract: '0xe9acc19d6f78d62d70945d4c89e9ce315d81c455'

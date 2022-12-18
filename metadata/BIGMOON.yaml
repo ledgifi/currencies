@@ -6,3 +6,5 @@ id_nomics: BIGMOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIGMOON.jpeg
 logoKey: currencies/bigmoon.jpeg
 name: BIGMOON
+platform: BNB
+platform_contract: '0x3f9a1b8354e744514A65645F7721ae84AD031F10'

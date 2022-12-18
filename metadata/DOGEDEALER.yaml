@@ -6,3 +6,5 @@ id_nomics: DOGEDEALER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEDEALER.jpg
 logoKey: currencies/dogedealer.jpg
 name: DogeDealer
+platform: BNB
+platform_contract: '0xf8cdb0a8def55443f5abb385321ca705ec9d0eed'

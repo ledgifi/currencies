@@ -6,3 +6,5 @@ id_nomics: BTRST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTRST.jpg
 logoKey: currencies/btrst.jpg
 name: Braintrust
+platform: ETH
+platform_contract: '0x799ebfabe77a6e34311eeee9825190b9ece32824'

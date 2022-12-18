@@ -3,3 +3,5 @@ fiat: false
 id: PUSDUSDC
 id_nomics: PUSDUSDC
 name: PUSD.USDC
+platform: MATIC
+platform_contract: '0x73da7f257f6b306ae5a14e85b60fb36b5518a840'

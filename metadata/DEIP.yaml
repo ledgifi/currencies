@@ -5,3 +5,5 @@ id_nomics: DEIP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEIP.png
 logoKey: currencies/deip.png
 name: DEIP
+platform: BNB
+platform_contract: '0x4BAA79c9A8E2843d4E118134d15581b54e81C6b3'

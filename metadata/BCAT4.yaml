@@ -5,3 +5,5 @@ id_nomics: BCAT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCAT4.png
 logoKey: currencies/bcat4.png
 name: Billionaire Cat
+platform: BNB
+platform_contract: '0x17534da60daff58ee1d77ef4aec6556e03ff39b9'

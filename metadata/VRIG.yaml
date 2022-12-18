@@ -3,3 +3,5 @@ fiat: false
 id: VRIG
 id_nomics: VRIG
 name: V-RIG
+platform: BNB
+platform_contract: '0xe60c560901fcd4e85c167534fdbf2bbad383be23'

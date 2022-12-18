@@ -5,3 +5,5 @@ id_nomics: SAUD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAUD.png
 logoKey: currencies/saud.png
 name: sAUD
+platform: ETH
+platform_contract: '0xf48e200eaf9906362bb1442fca31e0835773b8b4'

@@ -6,3 +6,5 @@ id_nomics: MASQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MASQ.png
 logoKey: currencies/masq.png
 name: MASQ
+platform: ETH
+platform_contract: '0x06f3c323f0238c72bf35011071f2b5b7f43a054c'

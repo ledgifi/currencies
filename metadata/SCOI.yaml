@@ -5,3 +5,5 @@ id_nomics: SCOI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCOI.png
 logoKey: currencies/scoi.png
 name: SprinkleCoin
+platform: ETH
+platform_contract: '0x3f5b26b0fa3e9d8547b7cf6725871f96ee91313a'

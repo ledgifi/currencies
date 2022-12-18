@@ -5,3 +5,5 @@ id_nomics: CLV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLV2.svg
 logoKey: currencies/clv2.svg
 name: Clover
+platform: ETH
+platform_contract: '0x80c62fe4487e1351b47ba49809ebd60ed085bf52'

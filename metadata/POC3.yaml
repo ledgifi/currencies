@@ -5,3 +5,5 @@ id_nomics: POC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POC3.jpg
 logoKey: currencies/poc3.jpg
 name: PANGEA Cleanup Coin
+platform: BNB
+platform_contract: '0x123f92226c626adc919ad122d6cc3c20a6c25666'

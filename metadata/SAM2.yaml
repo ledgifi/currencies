@@ -5,3 +5,5 @@ id_nomics: SAM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAM2.jpg
 logoKey: currencies/sam2.jpg
 name: Samurai
+platform: ETH
+platform_contract: '0x53378825d95281737914a8a2ac0e5a9304ae5ed7'

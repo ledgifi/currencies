@@ -3,3 +3,5 @@ fiat: false
 id: FLEATO
 id_nomics: FLEATO
 name: Fleato (PoS)
+platform: MATIC
+platform_contract: '0x6804b07d883d0169c05233332ccf17aa956424c5'

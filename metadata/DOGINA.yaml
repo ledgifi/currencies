@@ -5,3 +5,5 @@ id_nomics: DOGINA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGINA.jpg
 logoKey: currencies/dogina.jpg
 name: Dogina Coin
+platform: BNB
+platform_contract: '0x56f04f0a300a7c2ca5c8c68b30a3c6e10ded3d03'

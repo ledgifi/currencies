@@ -3,3 +3,5 @@ fiat: false
 id: APCG
 id_nomics: APCG
 name: ALLPAYCOIN
+platform: ETH
+platform_contract: '0x434cb4fc4b952872967914d430878eee53ebd502'

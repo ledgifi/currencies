@@ -5,3 +5,5 @@ id_nomics: MYRA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MYRA2.jpg
 logoKey: currencies/myra2.jpg
 name: Myra AI
+platform: BNB
+platform_contract: '0x5cd7d317d9cb4d46ff0b4f6a20d9547069fe0f27'

@@ -3,3 +3,5 @@ fiat: false
 id: ETHVOL
 id_nomics: ETHVOL
 name: Ethereum Volatility Token
+platform: ETH
+platform_contract: '0x36bab6b3b722f90475b8e681b4b0a4dc68ee5399'

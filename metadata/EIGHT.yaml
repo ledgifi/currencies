@@ -5,3 +5,5 @@ id_nomics: EIGHT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EIGHT.jpg
 logoKey: currencies/eight.jpg
 name: 8ight Finance
+platform: HARMONY
+platform_contract: '0xcda2fdeee5c382e401c04dc929e53ababf6c8109'

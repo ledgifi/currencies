@@ -3,3 +3,5 @@ fiat: false
 id: ERIS
 id_nomics: ERIS
 name: Eris.Exchange
+platform: ETH
+platform_contract: '0x735e147eafa0abb3014395c46743af36bda43d18'

@@ -5,3 +5,5 @@ id_nomics: BGAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BGAN.jpg
 logoKey: currencies/bgan.jpg
 name: BGAN Vault (NFTX)
+platform: ETH
+platform_contract: '0xc3b5284b2c0cfa1871a6ac63b6d6ee43c08bdc79'

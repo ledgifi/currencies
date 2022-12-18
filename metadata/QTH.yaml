@@ -3,3 +3,5 @@ fiat: false
 id: QTH
 id_nomics: QTH
 name: Ethereum Predator
+platform: ETH
+platform_contract: '0x70b2322d650a7f506632772bee9569e37890efbd'

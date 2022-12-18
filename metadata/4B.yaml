@@ -5,3 +5,5 @@ id_nomics: 4B
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/4B.jpg
 logoKey: currencies/4b.jpg
 name: 4Bulls
+platform: ETH
+platform_contract: '0x43b72464a93687dc2f14d5e49086e641d011b890'

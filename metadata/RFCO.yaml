@@ -3,3 +3,5 @@ fiat: false
 id: RFCO
 id_nomics: RFCO
 name: ReflectionCoin
+platform: BNB
+platform_contract: '0x81292bc3b470cf74c78a9d76b6e8a82285045f21'

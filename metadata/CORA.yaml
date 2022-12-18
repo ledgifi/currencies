@@ -5,3 +5,5 @@ id_nomics: CORA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CORA.jpg
 logoKey: currencies/cora.jpg
 name: Corra Finance V1 (OLD)
+platform: ETH
+platform_contract: '0x0077d27cb82ff12322987b225bfce0bb6e8931b4'

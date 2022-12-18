@@ -5,3 +5,5 @@ id_nomics: WWE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WWE.jpg
 logoKey: currencies/wwe.jpg
 name: WWE Swap
+platform: BNB
+platform_contract: '0x24927d33f7bf1e07790fb44ea1836fed7f80ab86'

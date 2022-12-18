@@ -5,3 +5,5 @@ id_nomics: MAAAVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAAAVE.jpg
 logoKey: currencies/maaave.jpg
 name: Matic Aave Interest Bearing AAVE
+platform: MATIC
+platform_contract: '0x823cd4264c1b951c9209ad0deaea9988fe8429bf'

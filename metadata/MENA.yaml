@@ -6,3 +6,5 @@ id_nomics: MENA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MENA.png
 logoKey: currencies/mena.png
 name: MetaNations
+platform: BNB
+platform_contract: '0xeb970c3d2e46cbd465da05db6cc080365050817a'

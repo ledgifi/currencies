@@ -6,3 +6,5 @@ id_nomics: MAXR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAXR.jpg
 logoKey: currencies/maxr.jpg
 name: Max Revive
+platform: ETH
+platform_contract: '0x8a2ead49d2123edee893181fb69527a022235c36'

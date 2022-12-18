@@ -5,3 +5,5 @@ id_nomics: MSS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSS.png
 logoKey: currencies/mss.png
 name: Monster Cash Share
+platform: BNB
+platform_contract: '0xacabd3f9b8f76ffd2724604185fa5afa5df25ac6'

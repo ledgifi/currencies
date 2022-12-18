@@ -5,3 +5,5 @@ id_nomics: 50K
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/50K.jpg
 logoKey: currencies/50k.jpg
 name: 50 Keeper
+platform: MATIC
+platform_contract: '0xa656dc2b1061f80f4e847bba2d9bd52db4889836'

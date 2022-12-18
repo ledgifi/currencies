@@ -5,3 +5,5 @@ id_nomics: SDAO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SDAO.jpg
 logoKey: currencies/sdao.jpg
 name: Solar DAO
+platform: ETH
+platform_contract: '0x646cec6ee42d258336165cbbd5deb4af14f0f476'

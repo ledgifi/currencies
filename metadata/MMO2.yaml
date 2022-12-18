@@ -5,3 +5,5 @@ id_nomics: MMO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MMO2.jpeg
 logoKey: currencies/mmo2.jpeg
 name: MoonMissionOne
+platform: HARMONY
+platform_contract: '0x5C234F74e4fe8dCb3794Dac0006b3b85c1Aa528A'

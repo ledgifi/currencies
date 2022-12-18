@@ -6,3 +6,5 @@ id_nomics: MATH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MATH.png
 logoKey: currencies/math.png
 name: MATH
+platform: ETH
+platform_contract: '0x08d967bb0134f2d07f7cfb6e246680c53927dd30'

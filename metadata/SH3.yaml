@@ -5,3 +5,5 @@ id_nomics: SH3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SH3.jpg
 logoKey: currencies/sh3.jpg
 name: StakHolders
+platform: BNB
+platform_contract: '0x0ae2c8280ccc6a765991eecc87f8d569b5d53e52'

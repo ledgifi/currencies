@@ -3,3 +3,5 @@ fiat: false
 id: WCANTO
 id_nomics: WCANTO
 name: Wrapped CANTO
+platform: CANTO
+platform_contract: '0x826551890dc65655a0aceca109ab11abdbd7a07b'

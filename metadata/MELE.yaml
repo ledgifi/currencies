@@ -5,3 +5,5 @@ id_nomics: MELE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MELE.png
 logoKey: currencies/mele.png
 name: Melecoin
+platform: ETH
+platform_contract: '0x14449de7937fe1c1207006e92f89dee17bbe418a'

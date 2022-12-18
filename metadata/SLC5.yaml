@@ -5,3 +5,5 @@ id_nomics: SLC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLC5.png
 logoKey: currencies/slc5.png
 name: Smart Lion V2
+platform: BNB
+platform_contract: '0xe6897766ce6843d253a14b6c153dd2ca8412ce23'

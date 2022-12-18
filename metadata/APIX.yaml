@@ -6,3 +6,5 @@ id_nomics: APIX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APIX.png
 logoKey: currencies/apix.png
 name: APIX
+platform: ETH
+platform_contract: '0xf51ebf9a26dbc02b13f8b3a9110dac47a4d62d78'

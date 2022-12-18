@@ -5,3 +5,5 @@ id_nomics: ADC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADC.png
 logoKey: currencies/adc.png
 name: Android chain
+platform: ETH
+platform_contract: '0x1e41a55030e0d0794abfb6dced22e6c7d18d8247'

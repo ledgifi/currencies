@@ -5,3 +5,5 @@ id_nomics: IXTZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IXTZ.png
 logoKey: currencies/ixtz.png
 name: iXTZ
+platform: ETH
+platform_contract: '0xc2992b2c22238f296c2f429ee2f7afb462ed1750'

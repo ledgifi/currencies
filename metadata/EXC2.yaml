@@ -3,3 +3,5 @@ fiat: false
 id: EXC2
 id_nomics: EXC2
 name: Excellence Coin
+platform: ETH
+platform_contract: '0x7d3ebd924d96f629599d677a072833dd52407dff'

@@ -5,3 +5,5 @@ id_nomics: MCELO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCELO2.jpg
 logoKey: currencies/mcelo2.jpg
 name: mCELO
+platform: CELO
+platform_contract: '0x7d00cd74ff385c955ea3d79e47bf06bd7386387d'

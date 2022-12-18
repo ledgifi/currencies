@@ -6,3 +6,5 @@ id_nomics: TAC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TAC.png
 logoKey: currencies/tac.png
 name: Traceability Chain
+platform: ETH
+platform_contract: '0xca694eb79ef355ea0999485d211e68f39ae98493'

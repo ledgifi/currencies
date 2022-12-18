@@ -6,3 +6,5 @@ id_nomics: ADF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADF.png
 logoKey: currencies/adf.png
 name: Ad Flex Token
+platform: ETH
+platform_contract: '0x7220e92d418e2eb59d0c25d195fa004bfd3afc42'

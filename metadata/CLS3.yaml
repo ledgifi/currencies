@@ -5,3 +5,5 @@ id_nomics: CLS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLS3.png
 logoKey: currencies/cls3.png
 name: Classic Coin V2
+platform: BNB
+platform_contract: '0x8f5f8e30ab8aff4cd4a290b860e6f372c5d1a3f5'

@@ -6,3 +6,5 @@ id_nomics: K21
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/K21.jpg
 logoKey: currencies/k21.jpg
 name: K21
+platform: ETH
+platform_contract: '0xb9d99c33ea2d86ec5ec6b8a4dd816ebba64404af'

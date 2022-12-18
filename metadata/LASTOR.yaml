@@ -3,3 +3,5 @@ fiat: false
 id: LASTOR
 id_nomics: LASTOR
 name: THE LASTOR
+platform: ETH
+platform_contract: '0x3906ae496dc17123d804e88e51f8282fbc988cc9'

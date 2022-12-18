@@ -5,3 +5,5 @@ id_nomics: PEECOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEECOIN.jpeg
 logoKey: currencies/peecoin.jpeg
 name: PeeCoin Charts
+platform: BNB
+platform_contract: '0x67fe403a75d871b992143fa15474f542a7892a6e'

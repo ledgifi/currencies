@@ -6,3 +6,5 @@ id_nomics: MB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MB.png
 logoKey: currencies/mb.png
 name: MineBee
+platform: ETH
+platform_contract: '0x8d8129963291740dddd917ab01af18c7aed4ba58'

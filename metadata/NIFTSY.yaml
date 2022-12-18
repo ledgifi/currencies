@@ -6,3 +6,5 @@ id_nomics: NIFTSY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NIFTSY.jpg
 logoKey: currencies/niftsy.jpg
 name: Envelop (Niftsy)
+platform: ETH
+platform_contract: '0x7728cd70b3dd86210e2bd321437f448231b81733'

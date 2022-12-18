@@ -6,3 +6,5 @@ id_nomics: NIF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NIF.jpg
 logoKey: currencies/nif.jpg
 name: Unifty
+platform: ETH
+platform_contract: '0x7e291890b01e5181f7ecc98d79ffbe12ad23df9e'

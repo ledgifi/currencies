@@ -3,3 +3,5 @@ fiat: false
 id: INITIALA
 id_nomics: INITIALA
 name: Initial A Token
+platform: MATIC
+platform_contract: '0xa3101dfa2d623b28caf154e15df905c90b7db49d'

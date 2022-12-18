@@ -5,3 +5,5 @@ id_nomics: FLOKIGROW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKIGROW.jpg
 logoKey: currencies/flokigrow.jpg
 name: FlokiGrow
+platform: BNB
+platform_contract: '0xc6082790554478ff3bcd264adc1cfaea6de7e64c'

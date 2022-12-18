@@ -5,3 +5,5 @@ id_nomics: DROOPY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DROOPY.png
 logoKey: currencies/droopy.png
 name: Droopy Inu
+platform: BNB
+platform_contract: '0xe7d390169aa1373c22a9f70b075551d3352dd9a5'

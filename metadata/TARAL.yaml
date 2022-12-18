@@ -6,3 +6,5 @@ id_nomics: TARAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TARAL.jpg
 logoKey: currencies/taral.jpg
 name: Tarality
+platform: BNB
+platform_contract: '0x0fc812b96de7e910878039121938f6d5471b73dc'

@@ -6,3 +6,5 @@ id_nomics: 3DOG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/3DOG.jpg
 logoKey: currencies/3dog.jpg
 name: Cerberus
+platform: ETH
+platform_contract: '0x8a14897ea5f668f36671678593fae44ae23b39fb'

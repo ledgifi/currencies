@@ -6,3 +6,5 @@ id_nomics: TOKO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOKO.jpg
 logoKey: currencies/toko.jpg
 name: Tokoin
+platform: ETH
+platform_contract: '0x0c963a1b52eb97c5e457c7d76696f8b95c3087ed'

@@ -5,3 +5,5 @@ id_nomics: ASU2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASU2.jpeg
 logoKey: currencies/asu2.jpeg
 name: ASU
+platform: BNB
+platform_contract: '0xfe62ae8459f53b25ecdad287f6fab247a2248b93'

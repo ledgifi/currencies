@@ -6,3 +6,5 @@ id_nomics: SCORGI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCORGI.jpg
 logoKey: currencies/scorgi.jpg
 name: SpaceCorgi
+platform: BNB
+platform_contract: '0x5a81b31b4a5f2d2a36bbd4d755dab378de735565'

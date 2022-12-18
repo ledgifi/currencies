@@ -5,3 +5,5 @@ id_nomics: BTC3L2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTC3L2.jpg
 logoKey: currencies/btc3l2.jpg
 name: Amun Bitcoin 3x Daily Long
+platform: ETH
+platform_contract: '0x7e5f9f248e84ef0b1f63586323e92a0d91b15568'

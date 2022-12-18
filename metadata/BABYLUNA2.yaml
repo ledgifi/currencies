@@ -5,3 +5,5 @@ id_nomics: BABYLUNA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYLUNA2.jpg
 logoKey: currencies/babyluna2.jpg
 name: Baby Luna Coin
+platform: BNB
+platform_contract: '0x9f826d380169aeb7fa254fb0c40cb1a9e5a138b4'

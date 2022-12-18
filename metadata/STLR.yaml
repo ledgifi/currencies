@@ -5,3 +5,5 @@ id_nomics: STLR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STLR.jpg
 logoKey: currencies/stlr.jpg
 name: NFT STELLAR
+platform: BNB
+platform_contract: '0xfa8c62699b4e38661bfa07d8962ead55c4618bc7'

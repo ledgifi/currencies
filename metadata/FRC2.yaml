@@ -5,3 +5,5 @@ id_nomics: FRC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FRC2.png
 logoKey: currencies/frc2.png
 name: Frium Chain
+platform: BNB
+platform_contract: '0xd8c81bD911BF906a4F8c2027564BAB3f55337c6C'

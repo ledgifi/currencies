@@ -5,3 +5,5 @@ id_nomics: ASTROAPE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASTROAPE.jpg
 logoKey: currencies/astroape.jpg
 name: Astroape
+platform: BNB
+platform_contract: '0x95df1652cbab65fd566c088531b7760c9da19f5f'

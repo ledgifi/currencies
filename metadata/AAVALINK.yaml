@@ -3,3 +3,5 @@ fiat: false
 id: AAVALINK
 id_nomics: AAVALINK
 name: Aave Avalanche LINK
+platform: AVAX
+platform_contract: '0x191c10aa4af7c30e871e70c95db0e4eb77237530'

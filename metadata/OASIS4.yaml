@@ -5,3 +5,5 @@ id_nomics: OASIS4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OASIS4.jpg
 logoKey: currencies/oasis4.jpg
 name: Oasis
+platform: BNB
+platform_contract: '0xd9c99510a5e3145359d91fe9caf92dd5d68b603a'

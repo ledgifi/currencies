@@ -5,3 +5,5 @@ id_nomics: KCL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KCL.jpeg
 logoKey: currencies/kcl.jpeg
 name: KCC Launchpad
+platform: KCS
+platform_contract: '0xdb48aea9cdf4bf01ff240973b345b16f39efacb4'

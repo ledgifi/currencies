@@ -5,3 +5,5 @@ id_nomics: BFT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BFT3.jpg
 logoKey: currencies/bft3.jpg
 name: Bitfresh
+platform: BNB
+platform_contract: '0xa4f93159ce0a4b533b443c74b89967c60a5969f8'

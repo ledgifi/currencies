@@ -3,3 +3,5 @@ fiat: false
 id: NEO2
 id_nomics: NEO2
 name: Neopay Payments
+platform: BNB
+platform_contract: '0xd6A79a52D8c048eE9c242374070432f520596A47'

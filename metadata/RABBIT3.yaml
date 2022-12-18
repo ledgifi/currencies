@@ -5,3 +5,5 @@ id_nomics: RABBIT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RABBIT3.jpg
 logoKey: currencies/rabbit3.jpg
 name: Rabbit2023
+platform: BNB
+platform_contract: '0x7791d80425cb542937fa499afe835d26ee7284fb'

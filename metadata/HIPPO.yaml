@@ -5,3 +5,5 @@ id_nomics: HIPPO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HIPPO.jpg
 logoKey: currencies/hippo.jpg
 name: HippoFinance
+platform: ETH
+platform_contract: '0x81313f7c5c9c824236c9e4cba3ac4b049986e756'

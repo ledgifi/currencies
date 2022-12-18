@@ -5,3 +5,5 @@ id_nomics: HAREM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HAREM.jpg
 logoKey: currencies/harem.jpg
 name: Harem Token
+platform: ETH
+platform_contract: '0x2b89d32cfb9b28dfcc7facc22453c812f9097655'

@@ -5,3 +5,5 @@ id_nomics: CCX4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CCX4.jpg
 logoKey: currencies/ccx4.jpg
 name: CCExchange
+platform: ETH
+platform_contract: '0x84ce597b08651fbf551cee3240a3e86365449d51'

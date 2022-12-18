@@ -5,3 +5,5 @@ id_nomics: HACHIKO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HACHIKO3.jpg
 logoKey: currencies/hachiko3.jpg
 name: HACHIKO
+platform: BNB
+platform_contract: '0xAAa9589F650d5890C1c019F42F5438a8d865Ed9E'

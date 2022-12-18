@@ -5,3 +5,5 @@ id_nomics: NOMADI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NOMADI.jpg
 logoKey: currencies/nomadi.jpg
 name: Nomadic
+platform: BNB
+platform_contract: '0x21c713ff5938dea53c8fc0aaad8b8259b545e766'

@@ -3,3 +3,5 @@ fiat: false
 id: SOLT
 id_nomics: SOLT
 name: SolarCity
+platform: BNB
+platform_contract: '0x3e146ff826927448f32b5a46473d3b83ea8fb0e2'

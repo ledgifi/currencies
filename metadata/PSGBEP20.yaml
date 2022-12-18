@@ -5,3 +5,5 @@ id_nomics: PSGBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PSGBEP20.jpg
 logoKey: currencies/psgbep20.jpg
 name: Paris Saint-Germain (BEP-20)
+platform: BNB
+platform_contract: '0xbc5609612b7c44bef426de600b5fd1379db2ecf1'

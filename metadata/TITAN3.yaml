@@ -5,3 +5,5 @@ id_nomics: TITAN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TITAN3.jpg
 logoKey: currencies/titan3.jpg
 name: TitanSwap
+platform: ETH
+platform_contract: '0x3a8cccb969a61532d1e6005e2ce12c200caece87'

@@ -3,3 +3,5 @@ fiat: false
 id: MILFIN
 id_nomics: MILFIN
 name: MilETH
+platform: ETH
+platform_contract: '0x512abe7b6299ae9a8de3a02e964ebca0926c3e49'

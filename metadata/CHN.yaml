@@ -6,3 +6,5 @@ id_nomics: CHN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHN.jpg
 logoKey: currencies/chn.jpg
 name: Chain
+platform: ETH
+platform_contract: '0x41c37a4683d6a05adb31c39d71348a8403b13ca9'

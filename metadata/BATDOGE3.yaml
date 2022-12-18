@@ -5,3 +5,5 @@ id_nomics: BATDOGE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BATDOGE3.jpg
 logoKey: currencies/batdoge3.jpg
 name: The Batdoge
+platform: BNB
+platform_contract: '0xcf71b92f244e369bae3a35b303aff3d1e848b858'

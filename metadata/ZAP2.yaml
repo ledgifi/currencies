@@ -5,3 +5,5 @@ id_nomics: ZAP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZAP2.jpg
 logoKey: currencies/zap2.jpg
 name: Zap DeFi
+platform: ETH
+platform_contract: '0x7d7470bc321a60cb11c7989356ad66a161c56628'

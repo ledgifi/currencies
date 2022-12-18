@@ -5,3 +5,5 @@ id_nomics: FLIRTY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLIRTY.jpg
 logoKey: currencies/flirty.jpg
 name: Flirty
+platform: BNB
+platform_contract: '0x84d25b10a15fbd6f682d3b7e835ab949f46879e4'

@@ -5,3 +5,5 @@ id_nomics: DLB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DLB2.jpg
 logoKey: currencies/dlb2.jpg
 name: DiemLibre
+platform: ETH
+platform_contract: '0x87c22615435998d69aca34889d03155b694a94fc'

@@ -5,3 +5,5 @@ id_nomics: PXSEAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PXSEAL.png
 logoKey: currencies/pxseal.png
 name: pxseal.eth.link
+platform: ETH
+platform_contract: '0xbea1d2a9305b0eb5c022332b50cc9960b0583b3b'

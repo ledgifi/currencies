@@ -3,3 +3,5 @@ fiat: false
 id: NETWORK
 id_nomics: NETWORK
 name: Network
+platform: ETH
+platform_contract: '0xe9695699f485ffbfecef55d78e152ae8ae06b4b9'

@@ -5,3 +5,5 @@ id_nomics: WEB3COIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WEB3COIN.jpg
 logoKey: currencies/web3coin.jpg
 name: Web3Coin
+platform: BNB
+platform_contract: '0xb0f8d835e957ceb92d40fa110c9428440420f061'

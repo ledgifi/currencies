@@ -5,3 +5,5 @@ id_nomics: TBAG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TBAG.jpg
 logoKey: currencies/tbag.jpg
 name: Teabag
+platform: TRX
+platform_contract: '1003980'

@@ -5,3 +5,5 @@ id_nomics: TWOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TWOKI.jpg
 logoKey: currencies/twoki.jpg
 name: Twoki Inu
+platform: BNB
+platform_contract: '0xa20085717c2f2425fb6efe3f8ae5cd94d75725bf'

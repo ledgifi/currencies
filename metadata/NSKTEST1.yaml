@@ -3,3 +3,5 @@ fiat: false
 id: NSKTEST1
 id_nomics: NSKTEST1
 name: NSK-TEST1
+platform: BNB
+platform_contract: '0xa5fec0581b3a418577bd8e4bb0b2d790058fed69'

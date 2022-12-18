@@ -5,3 +5,5 @@ id_nomics: AFON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AFON.jpg
 logoKey: currencies/afon.jpg
 name: AFON Token
+platform: BNB
+platform_contract: '0xe9289f81d9c8ab27949fcb0dfc40da7897131695'

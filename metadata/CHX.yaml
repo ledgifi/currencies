@@ -6,3 +6,5 @@ id_nomics: CHX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/chx.png
 logoKey: currencies/chx.png
 name: Own
+platform: ETH
+platform_contract: '0x1460a58096d80a50a2f1f956dda497611fa4f165'

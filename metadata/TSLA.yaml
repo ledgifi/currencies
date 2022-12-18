@@ -6,3 +6,5 @@ id_nomics: TSLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TSLA.jpg
 logoKey: currencies/tsla.jpg
 name: Tessla Coin
+platform: ETH
+platform_contract: '0x110fe5f21c1edd4f03a6e0de0d96d0c2eed0b9cc'

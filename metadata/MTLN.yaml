@@ -5,3 +5,5 @@ id_nomics: MTLN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTLN.jpg
 logoKey: currencies/mtln.jpg
 name: Metaloni Token
+platform: BNB
+platform_contract: '0x025578046e90d2d83a1e09b7103e450fdc70657f'

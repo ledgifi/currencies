@@ -3,3 +3,5 @@ fiat: false
 id: TDUSD
 id_nomics: TDUSD
 name: TRADEX USD
+platform: BNB
+platform_contract: '0x281f5dafdcdd58a02a738f34cd21a2e78b5db845'

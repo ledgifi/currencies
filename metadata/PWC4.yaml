@@ -5,3 +5,5 @@ id_nomics: PWC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PWC4.png
 logoKey: currencies/pwc4.png
 name: PowerCoin V1 (OLD)
+platform: BNB
+platform_contract: '0x515a34f96937fdd36592abfc3aade7ae22cf5352'

@@ -5,3 +5,5 @@ id_nomics: GHOST2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GHST.jpeg
 logoKey: currencies/ghost2.jpeg
 name: GHOST
+platform: ETH
+platform_contract: '0x4c327471c44b2dacd6e90525f9d629bd2e4f662c'

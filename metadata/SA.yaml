@@ -6,3 +6,5 @@ id_nomics: SA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SA.jpg
 logoKey: currencies/sa.jpg
 name: Superalgos
+platform: BNB
+platform_contract: '0xfb981ed9a92377ca4d75d924b9ca06df163924fd'

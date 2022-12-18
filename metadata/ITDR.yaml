@@ -6,3 +6,5 @@ id_nomics: ITDR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ITDR.jpg
 logoKey: currencies/itdr.jpg
 name: iTrader Today
+platform: BNB
+platform_contract: '0x0c00a4eaf7d4c941640c0507f460cec72736c378'

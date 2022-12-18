@@ -3,3 +3,5 @@ fiat: false
 id: RDS
 id_nomics: RDS
 name: RODS
+platform: MATIC
+platform_contract: '0xebe205acffcb6ad223f82873939b1e61412193f9'

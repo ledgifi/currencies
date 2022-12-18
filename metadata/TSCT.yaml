@@ -6,3 +6,5 @@ id_nomics: TSCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TSCT.jpg
 logoKey: currencies/tsct.jpg
 name: Transient
+platform: ETH
+platform_contract: '0x805ea9c07b49dd23ce11ec66dc6d8a2957385035'

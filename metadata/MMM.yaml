@@ -5,3 +5,5 @@ id_nomics: MMM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MMM.jpg
 logoKey: currencies/mmm.jpg
 name: MultiMillion
+platform: ETH
+platform_contract: '0x5b558564b57e4ff88c6b8d8e7eeee599bf79b368'

@@ -5,3 +5,5 @@ id_nomics: NYAC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NYAC.png
 logoKey: currencies/nyac.png
 name: NYA Cash
+platform: BNB
+platform_contract: '0x7e3656fccf19583dc432fb3af813e53ea566814b'

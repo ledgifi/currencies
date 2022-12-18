@@ -5,3 +5,5 @@ id_nomics: SHAK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHAK2.jpg
 logoKey: currencies/shak2.jpg
 name: ShakeSwap
+platform: BNB
+platform_contract: '0x6dfbbaa1f9400a4ca017075023b907f6cdce1e71'

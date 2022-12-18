@@ -5,3 +5,5 @@ id_nomics: GDOG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GDOG.jpg
 logoKey: currencies/gdog.jpg
 name: Gold Dog
+platform: BNB
+platform_contract: '0xe5de4fb2c36c1b476cc546793ca9307435f39326'

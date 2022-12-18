@@ -3,3 +3,5 @@ fiat: false
 id: TCH2
 id_nomics: TCH2
 name: THECASH
+platform: ETH
+platform_contract: '0xcd475371e39c0d94e82fccc9dd0ea710d0dc0c0b'

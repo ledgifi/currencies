@@ -3,3 +3,5 @@ fiat: false
 id: WSTDOT
 id_nomics: WSTDOT
 name: Wrapped liquid staked DOT
+platform: GLMR
+platform_contract: '0x191cf2602ca2e534c5ccae7bcbf4c46a704bb949'

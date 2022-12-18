@@ -5,3 +5,5 @@ id_nomics: MIMFTM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIMFTM.png
 logoKey: currencies/mimftm.png
 name: Magic Internet Money (Fantom)
+platform: FTM
+platform_contract: '0x82f0b8b456c1a451378467398982d4834b6829c1'

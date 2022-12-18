@@ -3,3 +3,5 @@ fiat: false
 id: EPUNCH
 id_nomics: EPUNCH
 name: Elon Punch
+platform: ETH
+platform_contract: '0x241df3c020ecd410f054479401edc2e85d9f9ae9'

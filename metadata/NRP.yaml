@@ -6,3 +6,5 @@ id_nomics: NRP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/nrp.jpg
 logoKey: currencies/nrp.jpg
 name: Neural Protocol
+platform: ETH
+platform_contract: '0x3918c42f14f2eb1168365f911f63e540e5a306b5'

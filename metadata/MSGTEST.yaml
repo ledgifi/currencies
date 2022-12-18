@@ -3,3 +3,5 @@ fiat: false
 id: MSGTEST
 id_nomics: MSGTEST
 name: MSG-TEST
+platform: BNB
+platform_contract: '0x7e2ae18b3e338a1218301f8e990056d76037b35e'

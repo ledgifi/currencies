@@ -6,3 +6,5 @@ id_nomics: UCF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UCF.jpg
 logoKey: currencies/ucf.jpg
 name: Uma Chit Fund
+platform: ETH
+platform_contract: '0x8e77d6596743ED542ED8779553C6Ece6A64785af'

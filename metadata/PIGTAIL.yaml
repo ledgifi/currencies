@@ -5,3 +5,5 @@ id_nomics: PIGTAIL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIGTAIL.jpg
 logoKey: currencies/pigtail.jpg
 name: Pig Tail
+platform: BNB
+platform_contract: '0x9d84802278e6d53d302b9090229eefa9b3b0e917'

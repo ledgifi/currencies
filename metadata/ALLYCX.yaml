@@ -5,3 +5,5 @@ id_nomics: ALLYCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALLYCX.jpg
 logoKey: currencies/allycx.jpg
 name: Ally Financial Token
+platform: ETH
+platform_contract: '0x6a5a44f3c814b064dec0465ad97500ab255922c2'

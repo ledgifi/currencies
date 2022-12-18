@@ -5,3 +5,5 @@ id_nomics: ZCG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZCG.png
 logoKey: currencies/zcg.png
 name: ZCash Gold
+platform: ETH
+platform_contract: '0x180e5087935a94fd5bbab00fd2249c5be0473381'

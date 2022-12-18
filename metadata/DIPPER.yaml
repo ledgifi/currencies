@@ -5,3 +5,5 @@ id_nomics: DIPPER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DIPPER.jpg
 logoKey: currencies/dipper.jpg
 name: Dipper
+platform: ETH
+platform_contract: '0x786448439d9401e0a8427acf7ca66a5114eb2368'

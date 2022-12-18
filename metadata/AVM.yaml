@@ -3,3 +3,5 @@ fiat: false
 id: AVM
 id_nomics: AVM
 name: AVM
+platform: BNB
+platform_contract: '0x000bc9a768b36907a61a44912059f9bf8e81bff8'

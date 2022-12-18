@@ -5,3 +5,5 @@ id_nomics: EPSILON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EPSILON.jpg
 logoKey: currencies/epsilon.jpg
 name: Epsilon
+platform: ETH
+platform_contract: '0x31a217b8065b376b192388b877d26e682044b82b'

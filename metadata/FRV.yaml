@@ -6,3 +6,5 @@ id_nomics: FRV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FRV.png
 logoKey: currencies/frv.png
 name: Fitrova
+platform: ETH
+platform_contract: '0x48df4e0296f908ceab0428a5182d19b31fc037d6'

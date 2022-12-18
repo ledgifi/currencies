@@ -3,3 +3,5 @@ fiat: false
 id: GFUNDS
 id_nomics: GFUNDS
 name: Gooby Fund
+platform: ETH
+platform_contract: '0x7cf3ea23423d5bcd0d19f3b1f501214d571c7f3f'

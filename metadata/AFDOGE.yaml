@@ -3,3 +3,5 @@ fiat: false
 id: AFDOGE
 id_nomics: AFDOGE
 name: AprilFoolsDoge
+platform: ETH
+platform_contract: '0x1e56c3c77fe3ee894390a6ab6e21a907ea74a703'

@@ -6,3 +6,5 @@ id_nomics: XCUR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XCUR.png
 logoKey: currencies/xcur.png
 name: Curate
+platform: ETH
+platform_contract: '0xe1c7e30c42c24582888c758984f6e382096786bd'

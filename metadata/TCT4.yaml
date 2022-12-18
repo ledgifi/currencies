@@ -5,3 +5,5 @@ id_nomics: TCT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCT4.jpg
 logoKey: currencies/tct4.jpg
 name: TacoCat Token V2
+platform: BNB
+platform_contract: '0xb036f689bd98b4bd3bd648fa09a23e54d839a859'

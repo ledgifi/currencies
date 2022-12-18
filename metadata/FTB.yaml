@@ -5,3 +5,5 @@ id_nomics: FTB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FTB.png
 logoKey: currencies/ftb.png
 name: Feitebi
+platform: ETH
+platform_contract: '0x71c25dd74a8bf4fb393cb06623aa43a5376d1431'

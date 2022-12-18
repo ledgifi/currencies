@@ -5,3 +5,5 @@ id_nomics: FDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FDOGE.jpg
 logoKey: currencies/fdoge.jpg
 name: FLY DOGE
+platform: ETH
+platform_contract: '0xe3798a240bf06610ff756850c1a1489c803c7314'

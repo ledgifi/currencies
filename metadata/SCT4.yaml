@@ -5,3 +5,5 @@ id_nomics: SCT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCT4.jpg
 logoKey: currencies/sct4.jpg
 name: Safechaintoken
+platform: BNB
+platform_contract: '0xc3262500039696ff8ef9830fb422ab32b15bd366'

@@ -6,3 +6,5 @@ id_nomics: SHRB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHRB.png
 logoKey: currencies/shrb.png
 name: SHIBA INU REBIRTH
+platform: BNB
+platform_contract: '0x48415e64d41dd90d0718112512b6ce96eba94141'

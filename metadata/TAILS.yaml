@@ -6,3 +6,5 @@ id_nomics: TAILS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TAILS.jpg
 logoKey: currencies/tails.jpg
 name: Tails
+platform: ETH
+platform_contract: '0x3d79abb948bc76794ff4a0bcd60170a741f26360'

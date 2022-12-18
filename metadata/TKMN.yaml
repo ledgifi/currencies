@@ -5,3 +5,5 @@ id_nomics: TKMN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TKMN.jpg
 logoKey: currencies/tkmn.jpg
 name: Tokemon
+platform: ETH
+platform_contract: '0x2b5016cea1c425f915e13727f7657025de3208fe'

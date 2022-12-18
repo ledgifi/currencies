@@ -5,3 +5,5 @@ id_nomics: CRED2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRED2.png
 logoKey: currencies/cred2.png
 name: Street Cred
+platform: ETH
+platform_contract: '0xED7Fa212E100DFb3b13B834233E4B680332a3420'

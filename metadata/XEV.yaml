@@ -5,3 +5,5 @@ id_nomics: XEV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XEV.png
 logoKey: currencies/xev.png
 name: Xevenue Shares
+platform: ETH
+platform_contract: '0xf4bbd1f932bda87c24fe13a50912a13b06ed2601'

@@ -3,3 +3,5 @@ fiat: false
 id: TBUSD
 id_nomics: TBUSD
 name: TEST BUSD
+platform: BNB
+platform_contract: '0x745e3de355a7539dd8ec88b6b502ae7e093375e3'

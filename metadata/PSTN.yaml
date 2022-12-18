@@ -3,3 +3,5 @@ fiat: false
 id: PSTN
 id_nomics: PSTN
 name: PISTON
+platform: BNB
+platform_contract: '0xbfacd29427ff376ff3bc22dffb29866277ca5fb4'

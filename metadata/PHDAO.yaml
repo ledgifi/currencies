@@ -5,3 +5,5 @@ id_nomics: PHDAO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PHDAO.png
 logoKey: currencies/phdao.png
 name: Photography DAO
+platform: MATIC
+platform_contract: '0x8dfe02fa7982549465124a3586cdbc32a64f117b'

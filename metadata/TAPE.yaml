@@ -5,3 +5,5 @@ id_nomics: TAPE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TAPE.jpg
 logoKey: currencies/tape.jpg
 name: BOY Cassette Tape by RAC
+platform: ETH
+platform_contract: '0x9bfb088c9f311415e3f9b507da73081c52a49d8c'

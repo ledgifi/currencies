@@ -5,3 +5,5 @@ id_nomics: ENIGMA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ENIGMA.png
 logoKey: currencies/enigma.png
 name: Enigma
+platform: BNB
+platform_contract: '0x83181d17c9e3291b322ef8d8410e5976edafc834'

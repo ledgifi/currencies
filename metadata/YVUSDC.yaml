@@ -3,3 +3,5 @@ fiat: false
 id: YVUSDC
 id_nomics: YVUSDC
 name: USDC yVault
+platform: XDAI
+platform_contract: '0x21d7b09bcf08f7b6b872bed56cb32416ae70bcc8'

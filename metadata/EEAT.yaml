@@ -6,3 +6,5 @@ id_nomics: EEAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EEAT.jpg
 logoKey: currencies/eeat.jpg
 name: eEat
+platform: BNB
+platform_contract: '0x4b4e64c53e0b334176e4fd5a53df6f3f36bfa131'

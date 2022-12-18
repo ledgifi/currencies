@@ -3,3 +3,5 @@ fiat: false
 id: CRODOG
 id_nomics: CRODOG
 name: $CRODOG
+platform: CRO
+platform_contract: '0x3724d76ce10f831ae5d0d924473a65c5fa06ed69'

@@ -5,3 +5,5 @@ id_nomics: GERALD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GERALD.png
 logoKey: currencies/gerald.png
 name: GERALD
+platform: BNB
+platform_contract: '0xcb9b97537edecca3e07a56443a5ec368ba637d63'

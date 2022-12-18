@@ -5,3 +5,5 @@ id_nomics: STR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STR.png
 logoKey: currencies/str.png
 name: Staker Token
+platform: ETH
+platform_contract: '0x426567f78e74577f8a6233b635970eb729631e05'

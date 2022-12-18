@@ -3,3 +3,5 @@ fiat: false
 id: FUSDT3
 id_nomics: FUSDT3
 name: Fluid USDT
+platform: ETH
+platform_contract: '0xadc234a4e90e2045f353f5d4fcde66144d23b458'

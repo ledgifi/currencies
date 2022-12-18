@@ -6,3 +6,5 @@ id_nomics: FAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FAP.png
 logoKey: currencies/fap.png
 name: FAPcoin
+platform: ETH
+platform_contract: '0x6467882316dc6e206feef05fba6deaa69277f155'

@@ -5,3 +5,5 @@ id_nomics: DOG10
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOG10.jpg
 logoKey: currencies/dog10.jpg
 name: DogeGift
+platform: BNB
+platform_contract: '0xf5131DcE0014010458FD8407ECfad5e34B80FaF9'

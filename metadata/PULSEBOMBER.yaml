@@ -5,3 +5,5 @@ id_nomics: PULSEBOMBER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PULSEBOMBER.jpeg
 logoKey: currencies/pulsebomber.jpeg
 name: PulseBomber
+platform: BNB
+platform_contract: '0x6521fE347a4B3f7923DB05B6913dCfFa5E8BEeb0'

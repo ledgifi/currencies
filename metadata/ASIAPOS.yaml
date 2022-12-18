@@ -5,3 +5,5 @@ id_nomics: ASIAPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASIAPOS.jpeg
 logoKey: currencies/asiapos.jpeg
 name: Asia Coin (Polygon)
+platform: MATIC
+platform_contract: '0x50bCBC40306230713239Ae1BdDD5eefEEaa273Dc'

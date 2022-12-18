@@ -5,3 +5,5 @@ id_nomics: WAXE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAXE.jpg
 logoKey: currencies/waxe.jpg
 name: WAXE
+platform: ETH
+platform_contract: '0x7a2bc711e19ba6aff6ce8246c546e8c4b4944dfd'

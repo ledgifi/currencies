@@ -3,3 +3,5 @@ fiat: false
 id: RAISEFIRSTCHECK
 id_nomics: RAISEFIRSTCHECK
 name: raise-firstcheckToken
+platform: XDAI
+platform_contract: '0xa9381506b33f382062a9e13c6576da5afe5fcdfe'

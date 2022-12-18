@@ -5,3 +5,5 @@ id_nomics: GLX4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GLX4.jpeg
 logoKey: currencies/glx4.jpeg
 name: Galaxy Diamond
+platform: BNB
+platform_contract: '0xe6212df504f3c7e7ff4e9447a39140907629d98e'

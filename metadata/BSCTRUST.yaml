@@ -3,3 +3,5 @@ fiat: false
 id: BSCTRUST
 id_nomics: BSCTRUST
 name: BSCTrust.finance
+platform: BNB
+platform_contract: '0x0684ffcc67792c50fdc303813c7b0c00d6aa6b99'

@@ -3,3 +3,5 @@ fiat: false
 id: IFA
 id_nomics: IFA
 name: IFA
+platform: BNB
+platform_contract: '0x9633c80e6cbaaf4cf041c8dac375d8fe42f0709a'

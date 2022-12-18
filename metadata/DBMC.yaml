@@ -3,3 +3,5 @@ fiat: false
 id: DBMC
 id_nomics: DBMC
 name: Dragonboat Master Control
+platform: BNB
+platform_contract: '0x3f5a34b7dbffd50b3490a8cd6d744787aa059522'

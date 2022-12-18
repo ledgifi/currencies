@@ -5,3 +5,5 @@ id_nomics: YFKA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFKA.jpg
 logoKey: currencies/yfka.jpg
 name: Yield Farming Known as Ash
+platform: ETH
+platform_contract: '0x4086692d53262b2be0b13909d804f0491ff6ec3e'

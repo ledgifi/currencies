@@ -3,3 +3,5 @@ fiat: false
 id: PTL
 id_nomics: PTL
 name: Pass The Loot
+platform: ETH
+platform_contract: '0x85fafc4665e1a2e127ce1a9574ced0c9aa0b125c'

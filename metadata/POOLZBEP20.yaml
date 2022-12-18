@@ -5,3 +5,5 @@ id_nomics: POOLZBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POOLZBEP20.png
 logoKey: currencies/poolzbep20.png
 name: Poolz Finance (BEP-20)
+platform: BNB
+platform_contract: '0x77018282fd033daf370337a5367e62d8811bc885'

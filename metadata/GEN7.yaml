@@ -5,3 +5,5 @@ id_nomics: GEN7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GEN7.jpg
 logoKey: currencies/gen7.jpg
 name: Genius Man
+platform: BNB
+platform_contract: '0x08ca438e57895a6a40286e8f2b526381cf6a1c5a'

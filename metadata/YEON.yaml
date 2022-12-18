@@ -6,3 +6,5 @@ id_nomics: YEON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YEON.png
 logoKey: currencies/yeon.png
 name: YEON
+platform: BNB
+platform_contract: '0x84b1270f5a858dc25db8cc005fff27fbf6c8afd2'

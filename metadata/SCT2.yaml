@@ -5,3 +5,5 @@ id_nomics: SCT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCT2.png
 logoKey: currencies/sct2.png
 name: Clash Token
+platform: ETH
+platform_contract: '0x6fa0952355607dfb2d399138b7fe10eb90f245e4'

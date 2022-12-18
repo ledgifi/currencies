@@ -5,3 +5,5 @@ id_nomics: DAMA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAMA.jpg
 logoKey: currencies/dama.jpg
 name: DAMA Token
+platform: ETH
+platform_contract: '0x2c0da41c89adb5a1d4430e5761b9b400911426b0'

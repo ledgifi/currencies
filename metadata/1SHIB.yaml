@@ -3,3 +3,5 @@ fiat: false
 id: 1SHIB
 id_nomics: 1SHIB
 name: One Dollar Shiba
+platform: BNB
+platform_contract: '0x26c30d89128733887ead47366c001cfcbb578ff0'

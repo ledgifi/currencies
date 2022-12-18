@@ -5,3 +5,5 @@ id_nomics: HMOCHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HMOCHI.png
 logoKey: currencies/hmochi.png
 name: MochiSwap Token
+platform: HARMONY
+platform_contract: '0x0dd740db89b9fda3baadf7396ddad702b6e8d6f5'

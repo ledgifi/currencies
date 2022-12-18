@@ -5,3 +5,5 @@ id_nomics: LWAZIBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LWAZIBEP20.jpg
 logoKey: currencies/lwazibep20.jpg
 name: Lwazi (BEP-20)
+platform: BNB
+platform_contract: '0x1e6882749471b2491e5592beaac4544be771e68a'

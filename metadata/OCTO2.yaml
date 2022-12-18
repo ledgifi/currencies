@@ -5,3 +5,5 @@ id_nomics: OCTO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCTO2.jpeg
 logoKey: currencies/octo2.jpeg
 name: Octopus Alpha
+platform: BNB
+platform_contract: '0x2ad7a225ba398638a52ded4590d4c2ce297c7464'

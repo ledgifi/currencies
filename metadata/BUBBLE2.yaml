@@ -5,3 +5,5 @@ id_nomics: BUBBLE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUBBLE2.png
 logoKey: currencies/bubble2.png
 name: BubblePet
+platform: BNB
+platform_contract: '0x95748bd1AE6737AE4aff8a8F986e5cDaD21E2944'

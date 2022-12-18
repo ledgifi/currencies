@@ -6,3 +6,5 @@ id_nomics: NLM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NLM.png
 logoKey: currencies/nlm.png
 name: NUCLUM
+platform: ETH
+platform_contract: '0xa30c7cdac7d8505f32bb0930ed82b9ba5777b5f3'

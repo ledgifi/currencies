@@ -4,3 +4,5 @@ id: AOTN
 id_nomics: AOTN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AOTN.jpg
 name: Artea One
+platform: BNB
+platform_contract: '0x22c2f19ff326edd098049995e6d11e0f077f122d'

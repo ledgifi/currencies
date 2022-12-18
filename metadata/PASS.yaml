@@ -6,3 +6,5 @@ id_nomics: PASS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/pass.jpg
 logoKey: currencies/pass.jpg
 name: Blockpass
+platform: ETH
+platform_contract: '0xee4458e052b533b1aabd493b5f8c4d85d7b263dc'

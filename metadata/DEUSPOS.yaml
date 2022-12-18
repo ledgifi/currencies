@@ -5,3 +5,5 @@ id_nomics: DEUSPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEUS3.jpg
 logoKey: currencies/deuspos.jpg
 name: DEUS Finance
+platform: MATIC
+platform_contract: '0xde5ed76e7c05ec5e4572cfc88d1acea165109e44'

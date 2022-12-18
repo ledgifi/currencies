@@ -5,3 +5,5 @@ id_nomics: DDIMBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DDIMBEP20.jpg
 logoKey: currencies/ddimbep20.jpg
 name: DuckDaoDime (BEP-20)
+platform: BNB
+platform_contract: '0xc9132c76060f6b319764ea075973a650a1a53bc9'

@@ -5,3 +5,5 @@ id_nomics: FCAKE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FCAKE2.jpg
 logoKey: currencies/fcake2.jpg
 name: FIFA CAKE
+platform: BNB
+platform_contract: '0x593ea61ca627eaff9be878d11eff62c3d89dd803'

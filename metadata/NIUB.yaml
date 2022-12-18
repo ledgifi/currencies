@@ -5,3 +5,5 @@ id_nomics: NIUB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NIUB.jpg
 logoKey: currencies/niub.jpg
 name: NIUB
+platform: ETH
+platform_contract: '0xc8650534be22e2c73f3b7e67bcd46032c100ef5e'

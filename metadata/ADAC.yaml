@@ -3,3 +3,5 @@ fiat: false
 id: ADAC
 id_nomics: ADAC
 name: ADACatto
+platform: BNB
+platform_contract: '0x13fb3cdcf3e5e226342f17a1bc9c46e7f848d6ff'

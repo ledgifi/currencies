@@ -3,3 +3,5 @@ fiat: false
 id: UARTB
 id_nomics: UARTB
 name: Unicly ArtBlocks Collection
+platform: ETH
+platform_contract: '0xf824402747e5142d04892fdc27c73e6460e80080'

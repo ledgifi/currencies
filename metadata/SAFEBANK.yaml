@@ -6,3 +6,5 @@ id_nomics: SAFEBANK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFEBANK.jpg
 logoKey: currencies/safebank.jpg
 name: SafeBank
+platform: BNB
+platform_contract: '0x2ab90fbb649ba3ddd4269764eb2975d8f32b7b5a'

@@ -5,3 +5,5 @@ id_nomics: FUD3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FUD3.jpg
 logoKey: currencies/fud3.jpg
 name: FUDcoin Official
+platform: BNB
+platform_contract: '0x2046954284c631c285b59e0919bcccd66b3bd289'

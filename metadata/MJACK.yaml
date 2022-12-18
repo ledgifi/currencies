@@ -3,3 +3,5 @@ fiat: false
 id: MJACK
 id_nomics: MJACK
 name: MjackSwap
+platform: BNB
+platform_contract: '0x4dad73719c4f4d5197b89c19460b1171d800097d'

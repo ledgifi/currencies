@@ -5,3 +5,5 @@ id_nomics: APET2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APET2.png
 logoKey: currencies/apet2.png
 name: Ape Token
+platform: BNB
+platform_contract: '0x196dc2421af765c2673fc6093fb1374b28064270'

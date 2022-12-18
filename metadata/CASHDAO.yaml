@@ -3,3 +3,5 @@ fiat: false
 id: CASHDAO
 id_nomics: CASHDAO
 name: Cash DAO
+platform: ETH
+platform_contract: '0xa167b70c2f4748d3d326e9acc8f65e131d3161a3'

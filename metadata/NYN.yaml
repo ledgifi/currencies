@@ -5,3 +5,5 @@ id_nomics: NYN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NYN.jpg
 logoKey: currencies/nyn.jpg
 name: NYNJACoin
+platform: ETH
+platform_contract: '0x5b52b324fc10cb43b9eeadaf9bd15afb98867942'

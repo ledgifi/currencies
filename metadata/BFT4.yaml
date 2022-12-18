@@ -5,3 +5,5 @@ id_nomics: BFT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BFT4.png
 logoKey: currencies/bft4.png
 name: Brazil Fan Token
+platform: BITCI
+platform_contract: '0x4270a3d1a61fc6b86ea9e19730e529acee592c3b'

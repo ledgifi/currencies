@@ -5,3 +5,5 @@ id_nomics: RUB4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RUB4.png
 logoKey: currencies/rub4.png
 name: Rublix Protocol
+platform: BNB
+platform_contract: '0xb7fB05D5c8e79A61F212A42D2DDc3058357caF97'

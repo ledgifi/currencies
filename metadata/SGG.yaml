@@ -5,3 +5,5 @@ id_nomics: SGG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SGG.png
 logoKey: currencies/sgg.png
 name: StuffGoGo
+platform: ETH
+platform_contract: '0xe2f45f1660dc99daf3bd06f637ab1e4debc15bde'

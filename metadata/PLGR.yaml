@@ -3,3 +3,5 @@ fiat: false
 id: PLGR
 id_nomics: PLGR
 name: Pledge
+platform: BNB
+platform_contract: '0x6aa91cbfe045f9d154050226fcc830ddba886ced'

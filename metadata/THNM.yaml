@@ -3,3 +3,5 @@ fiat: false
 id: THNM
 id_nomics: THNM
 name: ThinMints
+platform: BNB
+platform_contract: '0xb780aa8331455db9bf0334196e619581ca2c77a7'

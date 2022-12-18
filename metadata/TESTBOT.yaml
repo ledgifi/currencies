@@ -3,3 +3,5 @@ fiat: false
 id: TESTBOT
 id_nomics: TESTBOT
 name: TestBot
+platform: BNB
+platform_contract: '0x6c398cfbffe025e228ed92ba0dee49f0d1808ec6'

@@ -3,3 +3,5 @@ fiat: false
 id: DRTY
 id_nomics: DRTY
 name: Dirty
+platform: ETH
+platform_contract: '0x980dcb07a0ca2120d8b339fd70f8666f099e0759'

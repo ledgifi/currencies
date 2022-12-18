@@ -5,3 +5,5 @@ id_nomics: LIBER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIBER.jpeg
 logoKey: currencies/liber.jpeg
 name: Liber Coin
+platform: BNB
+platform_contract: '0x891731f842e47e6dbc84527c89fc58537e58c28e'

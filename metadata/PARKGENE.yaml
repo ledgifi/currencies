@@ -5,3 +5,5 @@ id_nomics: PARKGENE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PARKGENE.png
 logoKey: currencies/parkgene.png
 name: Parkgene
+platform: ETH
+platform_contract: '0x6dd4e4aad29a40edd6a409b9c1625186c9855b4d'

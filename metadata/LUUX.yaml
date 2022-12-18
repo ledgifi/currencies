@@ -5,3 +5,5 @@ id_nomics: LUUX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUUX.png
 logoKey: currencies/luux.png
 name: Luux
+platform: BNB
+platform_contract: '0x71ce4750f8f650a5f74959a3db63463ee98e54fd'

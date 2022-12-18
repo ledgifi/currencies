@@ -5,3 +5,5 @@ id_nomics: ATC8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATC8.jpg
 logoKey: currencies/atc8.jpg
 name: Atlantis Coin
+platform: BNB
+platform_contract: '0x0fad86cc1b412b330494e350bf1dc1994ac55c9e'

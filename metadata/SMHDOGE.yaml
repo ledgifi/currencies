@@ -6,3 +6,5 @@ id_nomics: SMHDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMHDOGE.jpg
 logoKey: currencies/smhdoge.jpg
 name: SuperMegaHyperDoge
+platform: ETH
+platform_contract: '0x5644bb2b594fcf6f74384d2ad26c68f02a47981c'

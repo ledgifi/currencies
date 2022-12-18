@@ -5,3 +5,5 @@ id_nomics: ET4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ET4.jpg
 logoKey: currencies/et4.jpg
 name: Ether Terrestrial
+platform: ETH
+platform_contract: '0x316f17a75978575e9fedc839ba393395a9d83877'

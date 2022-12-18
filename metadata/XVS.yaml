@@ -8,3 +8,5 @@ id_nomics: XVS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XVS.png
 logoKey: currencies/xvs.png
 name: Venus
+platform: BNB
+platform_contract: '0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63'

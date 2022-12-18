@@ -3,3 +3,5 @@ fiat: false
 id: MOONLA
 id_nomics: MOONLA
 name: MoonlaToken
+platform: BNB
+platform_contract: '0x7908eb700db4d4cc5aa8fd76f03e9bf452d72e9d'

@@ -5,3 +5,5 @@ id_nomics: VIX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VIX.png
 logoKey: currencies/vix.png
 name: VianeX
+platform: ETH
+platform_contract: '0x86c31e6da2190a1ffd39a36990a44174d0a8be15'

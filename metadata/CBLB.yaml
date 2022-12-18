@@ -5,3 +5,5 @@ id_nomics: CBLB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBLB.png
 logoKey: currencies/cblb.png
 name: Cblb Token
+platform: MATIC
+platform_contract: '0x7a45922f95c845ff9be01112afcf207968a9ca0b'

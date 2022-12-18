@@ -3,3 +3,5 @@ fiat: false
 id: TRYPTO
 id_nomics: TRYPTO
 name: Tryptamine Cosmic Token
+platform: ETH
+platform_contract: '0x3e8c621d156df0bab305eabb2b22c0f320500c0a'

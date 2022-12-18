@@ -5,3 +5,5 @@ id_nomics: VNG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VNG.jpg
 logoKey: currencies/vng.jpg
 name: Gateway Cash
+platform: ETH
+platform_contract: '0xa05a577732b6f52cec3d35eb5cc8f91cba8d0be4'

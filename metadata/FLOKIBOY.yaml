@@ -5,3 +5,5 @@ id_nomics: FLOKIBOY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKIBOY.jpeg
 logoKey: currencies/flokiboy.jpeg
 name: Floki Boy
+platform: BNB
+platform_contract: '0x59fd59d6a855664edca1a4196a48261fff0faac8'

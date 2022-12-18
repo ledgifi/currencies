@@ -3,3 +3,5 @@ fiat: false
 id: BALANCED
 id_nomics: BALANCED
 name: balanced
+platform: ETH
+platform_contract: '0xf310a8bc22fbbc4c084ee4938da72c849cad9d58'

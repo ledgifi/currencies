@@ -5,3 +5,5 @@ id_nomics: INULAMBO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INULAMBO.jpg
 logoKey: currencies/inulambo.jpg
 name: InuLambo
+platform: BNB
+platform_contract: '0x6389812be6dd9d58808da337c68b52d603274ea3'

@@ -6,3 +6,5 @@ id_nomics: STISH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STISH.png
 logoKey: currencies/stish.png
 name: Stish
+platform: ETH
+platform_contract: '0xb472c71365ef9ed14226bb0aa4c9a3fa45ece510'

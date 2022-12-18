@@ -3,3 +3,5 @@ fiat: false
 id: RGLD
 id_nomics: RGLD
 name: RolazGold
+platform: BNB
+platform_contract: '0x51bfa748fbdeee68626f9a1d41ddec7ea05aaf54'

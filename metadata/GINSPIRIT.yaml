@@ -5,3 +5,5 @@ id_nomics: GINSPIRIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GINSPIRIT.jpg
 logoKey: currencies/ginspirit.jpg
 name: GinSpirit
+platform: FTM
+platform_contract: '0x2787bea3366335068bf8b4a253044d09ea4e1c96'

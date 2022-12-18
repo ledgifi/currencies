@@ -6,3 +6,5 @@ id_nomics: OPTI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OPTI.png
 logoKey: currencies/opti.png
 name: Optitoken
+platform: ETH
+platform_contract: '0x832904863978b94802123106e6eb491bdf0df928'

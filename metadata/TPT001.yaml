@@ -3,3 +3,5 @@ fiat: false
 id: TPT001
 id_nomics: TPT001
 name: TemplateToken
+platform: BNB
+platform_contract: '0x68d1f550454e345d5d8178825025b25f0568c7a2'

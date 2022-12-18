@@ -3,3 +3,5 @@ fiat: false
 id: BSPT
 id_nomics: BSPT
 name: Blocksport
+platform: ETH
+platform_contract: '0xa350da05405cc204e551c4eed19c3039646528d5'

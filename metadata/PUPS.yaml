@@ -5,3 +5,5 @@ id_nomics: PUPS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PUPS.jpg
 logoKey: currencies/pups.jpg
 name: PUPS Vault (NFTX)
+platform: ETH
+platform_contract: '0xd53998c536fc8b59b38aa0b49dbd8170d5ebf4c2'

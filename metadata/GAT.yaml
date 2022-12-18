@@ -5,3 +5,5 @@ id_nomics: GAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/gat.jpg
 logoKey: currencies/gat.jpg
 name: Global Awards Token
+platform: ETH
+platform_contract: '0x687174f8c49ceb7729d925c3a961507ea4ac7b28'

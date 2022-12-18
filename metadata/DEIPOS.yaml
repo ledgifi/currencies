@@ -5,3 +5,5 @@ id_nomics: DEIPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEI2.jpg
 logoKey: currencies/deipos.jpg
 name: DEI Token
+platform: MATIC
+platform_contract: '0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3'

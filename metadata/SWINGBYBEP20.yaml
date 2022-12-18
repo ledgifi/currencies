@@ -3,3 +3,5 @@ fiat: false
 id: SWINGBYBEP20
 id_nomics: SWINGBYBEP20
 name: Swingby (BEP-20)
+platform: BNB
+platform_contract: '0x71de20e0c4616e7fcbfdd3f875d568492cbe4739'

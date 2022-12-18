@@ -5,3 +5,5 @@ id_nomics: PUSH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PUSH.jpg
 logoKey: currencies/push.jpg
 name: Ethereum Push Notification Service
+platform: ETH
+platform_contract: '0xf418588522d5dd018b425e472991e52ebbeeeeee'

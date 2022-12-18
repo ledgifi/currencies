@@ -5,3 +5,5 @@ id_nomics: MINT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINT4.jpg
 logoKey: currencies/mint4.jpg
 name: Mint Club
+platform: BNB
+platform_contract: '0x1f3af095cda17d63cad238358837321e95fc5915'

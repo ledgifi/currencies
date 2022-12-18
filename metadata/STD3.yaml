@@ -5,3 +5,5 @@ id_nomics: STD3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STD3.jpg
 logoKey: currencies/std3.jpg
 name: Stadium
+platform: BNB
+platform_contract: '0xfa2258704a201c6c3d07c32f29d3059c56da58d4'

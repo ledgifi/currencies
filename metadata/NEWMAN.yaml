@@ -5,3 +5,5 @@ id_nomics: NEWMAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEWMAN.jpeg
 logoKey: currencies/newman.jpeg
 name: Seinfeldcoin
+platform: BNB
+platform_contract: '0x5d2dcc73e11da8775c77cc6b7a61f1f4c08c176a'

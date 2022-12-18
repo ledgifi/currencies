@@ -6,3 +6,5 @@ id_nomics: CVXCRV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CVXCRV.jpg
 logoKey: currencies/cvxcrv.jpg
 name: Convex CRV
+platform: ETH
+platform_contract: '0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7'

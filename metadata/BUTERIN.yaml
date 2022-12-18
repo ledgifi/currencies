@@ -3,3 +3,5 @@ fiat: false
 id: BUTERIN
 id_nomics: BUTERIN
 name: Buterin
+platform: ETH
+platform_contract: '0xb5a3b5de983c40d428496f71694b847bbd219fd1'

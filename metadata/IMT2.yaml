@@ -5,3 +5,5 @@ id_nomics: IMT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IMT2.jpg
 logoKey: currencies/imt2.jpg
 name: IMSMART Token
+platform: ETH
+platform_contract: '0xbfe03707adb75b478add9a01978057803f480e44'

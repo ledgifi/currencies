@@ -5,3 +5,5 @@ id_nomics: WHL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WHL2.jpg
 logoKey: currencies/whl2.jpg
 name: WhaleRoom
+platform: ETH
+platform_contract: '0x2af72850c504ddd3c1876c66a914caee7ff8a46a'

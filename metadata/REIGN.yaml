@@ -5,3 +5,5 @@ id_nomics: REIGN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REIGN.jpg
 logoKey: currencies/reign.jpg
 name: Sovreign Governance Token
+platform: ETH
+platform_contract: '0x17f59dd7fefc2f276509eed2ad6b65271458177e'

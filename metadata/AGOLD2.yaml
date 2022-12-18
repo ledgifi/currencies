@@ -5,3 +5,5 @@ id_nomics: AGOLD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AGOLD2.jpg
 logoKey: currencies/agold2.jpg
 name: Axeman Legends Gold
+platform: BNB
+platform_contract: '0x39Ad15c6Cd91Dc10d7cd35B811d2753d7D659b57'

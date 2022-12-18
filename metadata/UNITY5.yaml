@@ -5,3 +5,5 @@ id_nomics: UNITY5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNITY5.jpg
 logoKey: currencies/unity5.jpg
 name: PolyUnity Finance
+platform: MATIC
+platform_contract: '0x9e9ced60d3c5d52dd779893dce0c14e0e361d702'

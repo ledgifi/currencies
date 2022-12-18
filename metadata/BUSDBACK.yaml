@@ -3,3 +3,5 @@ fiat: false
 id: BUSDBACK
 id_nomics: BUSDBACK
 name: BUSDBACK
+platform: BNB
+platform_contract: '0x79b947b8f689b8200caa58bc4093d13e187313b1'

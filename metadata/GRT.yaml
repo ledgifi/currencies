@@ -8,3 +8,5 @@ id_nomics: GRT
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/grt.svg
 logoKey: currencies/grt.svg
 name: The Graph
+platform: ETH
+platform_contract: '0xc944e90c64b2c07662a292be6244bdf05cda44a7'

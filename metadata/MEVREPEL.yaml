@@ -3,3 +3,5 @@ fiat: false
 id: MEVREPEL
 id_nomics: MEVREPEL
 name: MEV Repellent
+platform: ETH
+platform_contract: '0xe7de43cd09b9e50ebc5fcc4f3c9ec563bae25bd9'

@@ -6,3 +6,5 @@ id_nomics: MESH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MESH.jpg
 logoKey: currencies/mesh.jpg
 name: MeshBox
+platform: ETH
+platform_contract: '0xcf9fbffec9e0e5bbc62e79bf1965f5db76955661'

@@ -6,3 +6,5 @@ id_nomics: BRAWL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRAWL.jpg
 logoKey: currencies/brawl.jpg
 name: Meta Brawl
+platform: BNB
+platform_contract: '0x122edffca1c940a82574b21031623f063fc8c7f9'

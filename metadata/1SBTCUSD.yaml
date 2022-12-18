@@ -3,3 +3,5 @@ fiat: false
 id: 1SBTCUSD
 id_nomics: 1SBTCUSD
 name: 1S-BTC/USD
+platform: ARBETH
+platform_contract: '0x052814194f459af30edb6a506eabfc85a4d99501'

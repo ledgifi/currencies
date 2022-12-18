@@ -6,3 +6,5 @@ id_nomics: PVN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PVN.jpg
 logoKey: currencies/pvn.jpg
 name: Pavecoin
+platform: BNB
+platform_contract: '0x87f76cda81d65d4b0983965725f598905cbca98d'

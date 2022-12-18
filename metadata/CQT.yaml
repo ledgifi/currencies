@@ -5,3 +5,5 @@ id_nomics: CQT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CQT.jpg
 logoKey: currencies/cqt.jpg
 name: Covalent
+platform: ETH
+platform_contract: '0xd417144312dbf50465b1c641d016962017ef6240'

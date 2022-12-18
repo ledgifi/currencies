@@ -5,3 +5,5 @@ id_nomics: ATRI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATRI.jpg
 logoKey: currencies/atri.jpg
 name: Atari
+platform: ETH
+platform_contract: '0xdacd69347de42babfaecd09dc88958378780fb62'

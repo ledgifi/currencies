@@ -5,3 +5,5 @@ id_nomics: OUSD3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OUSD3.png
 logoKey: currencies/ousd3.png
 name: Synth oUSD
+platform: BNB
+platform_contract: '0x6bf2be9468314281cd28a94c35f967cafd388325'

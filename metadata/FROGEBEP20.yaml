@@ -5,3 +5,5 @@ id_nomics: FROGEBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FROGEBEP20.png
 logoKey: currencies/frogebep20.png
 name: Froge Finance (BEP-20)
+platform: BNB
+platform_contract: '0x93ab30c08421750d5c7993fb621c6ff32fe3f89e'

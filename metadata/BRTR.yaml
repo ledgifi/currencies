@@ -6,3 +6,5 @@ id_nomics: BRTR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRTR.jpg
 logoKey: currencies/brtr.jpg
 name: Barter
+platform: ETH
+platform_contract: '0xf0acf8949e705e0ebb6cb42c2164b0b986454223'

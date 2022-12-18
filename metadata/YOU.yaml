@@ -6,3 +6,5 @@ id_nomics: YOU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/you.png
 logoKey: currencies/you.png
 name: YOU COIN
+platform: ETH
+platform_contract: '0x34364bee11607b1963d66bca665fde93fca666a8'

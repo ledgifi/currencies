@@ -5,3 +5,5 @@ id_nomics: CTK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTK2.png
 logoKey: currencies/ctk2.png
 name: CoinTick
+platform: ETH
+platform_contract: '0x62fba5d3de6d80a9e311eaef89b12a712e38ec8b'

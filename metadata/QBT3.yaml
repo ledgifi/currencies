@@ -3,3 +3,5 @@ fiat: false
 id: QBT3
 id_nomics: QBT3
 name: Quite
+platform: ETH
+platform_contract: '0x7d6197be8f42811b1361fe962492b22ba7dc8c1e'

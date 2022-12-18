@@ -3,3 +3,5 @@ fiat: false
 id: EPRINT
 id_nomics: EPRINT
 name: EverPrinter
+platform: BNB
+platform_contract: '0x1209c8fbdb85eb887f81b47b74068f679c25d3a5'

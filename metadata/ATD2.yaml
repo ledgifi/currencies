@@ -5,3 +5,5 @@ id_nomics: ATD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATD2.jpg
 logoKey: currencies/atd2.jpg
 name: A2DAO
+platform: ETH
+platform_contract: '0x8052327f1baf94a9dc8b26b9100f211ee3774f54'

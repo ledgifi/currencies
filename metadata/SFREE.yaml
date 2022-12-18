@@ -3,3 +3,5 @@ fiat: false
 id: SFREE
 id_nomics: SFREE
 name: Staked FREE Token
+platform: KCS
+platform_contract: '0x0cc4e8fbf76e48253bc68cda8f2ca56a98269889'

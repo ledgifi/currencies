@@ -5,3 +5,5 @@ id_nomics: CCS4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CCS4.jpg
 logoKey: currencies/ccs4.jpg
 name: Cacao Shares
+platform: ETH
+platform_contract: '0x315ce59fafd3a8d562b7ec1c8542382d2710b06c'

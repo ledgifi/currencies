@@ -5,3 +5,5 @@ id_nomics: TUSDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TUSDT.png
 logoKey: currencies/tusdt.png
 name: TUSDT
+platform: BNB
+platform_contract: '0x43693bCD525Dc197E651Ec40b1D258031dDEC7be'

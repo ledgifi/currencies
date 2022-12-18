@@ -5,3 +5,5 @@ id_nomics: POWERV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POWERV2.png
 logoKey: currencies/powerv2.png
 name: PowerV2
+platform: FTM
+platform_contract: '0x1498cbbd983b894c83d3dcc85e533d4a285b55e6'

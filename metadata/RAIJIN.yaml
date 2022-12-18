@@ -5,3 +5,5 @@ id_nomics: RAIJIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAIJIN.jpg
 logoKey: currencies/raijin.jpg
 name: Raijin Token
+platform: ETH
+platform_contract: '0x79dc068b70a8cf71f7a577c30fd7e502a2e183bd'

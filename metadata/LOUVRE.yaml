@@ -6,3 +6,5 @@ id_nomics: LOUVRE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOUVRE.jpg
 logoKey: currencies/louvre.jpg
 name: Louvre Finance
+platform: BNB
+platform_contract: '0x24905b248dceeb17b221a48efa0d0388b3b38fe4'

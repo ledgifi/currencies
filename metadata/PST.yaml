@@ -6,3 +6,5 @@ id_nomics: PST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/pst.png
 logoKey: currencies/pst.png
 name: Primas
+platform: ETH
+platform_contract: '0xe3fedaecd47aa8eab6b23227b0ee56f092c967a9'

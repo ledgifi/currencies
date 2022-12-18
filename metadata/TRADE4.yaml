@@ -5,3 +5,5 @@ id_nomics: TRADE4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRADE4.jpg
 logoKey: currencies/trade4.jpg
 name: Polytrade
+platform: ETH
+platform_contract: '0x6e5970dbd6fc7eb1f29c6d2edf2bc4c36124c0c1'

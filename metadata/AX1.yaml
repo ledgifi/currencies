@@ -3,3 +3,5 @@ fiat: false
 id: AX1
 id_nomics: AX1
 name: Axiom Space
+platform: ETH
+platform_contract: '0xda61f461b0061ba610e869466f33d44b67d0d442'

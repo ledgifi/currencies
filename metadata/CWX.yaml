@@ -6,3 +6,5 @@ id_nomics: CWX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CWX.jpeg
 logoKey: currencies/cwx.jpeg
 name: Cognitive CWX
+platform: BNB
+platform_contract: '0x100938918a34659F8d1c47Da398d686de9b14407'

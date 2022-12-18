@@ -5,3 +5,5 @@ id_nomics: CFOOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CFOOT.png
 logoKey: currencies/cfoot.png
 name: CarboFoot
+platform: BNB
+platform_contract: '0xea0a4bffa83dd1ea09109878108848532b826496'

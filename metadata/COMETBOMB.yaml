@@ -3,3 +3,5 @@ fiat: false
 id: COMETBOMB
 id_nomics: COMETBOMB
 name: CometBomb
+platform: BNB
+platform_contract: '0x9e43d07ef428c532318d26c11a58dc6a1f374270'

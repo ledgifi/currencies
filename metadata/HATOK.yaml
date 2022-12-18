@@ -6,3 +6,5 @@ id_nomics: HATOK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HATOK.jpeg
 logoKey: currencies/hatok.jpeg
 name: Human Asset Token
+platform: BNB
+platform_contract: '0xf086d5b9019cc637dad17b83321d93f84ffaa49b'

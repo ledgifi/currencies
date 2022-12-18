@@ -3,3 +3,5 @@ fiat: false
 id: EOSHEDGE
 id_nomics: EOSHEDGE
 name: 1X Short EOS Token
+platform: ETH
+platform_contract: '0xb38f206615325306dddeb0794a6482486b6b78b8'

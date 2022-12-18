@@ -5,3 +5,5 @@ id_nomics: SAMOY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAMOY.jpg
 logoKey: currencies/samoy.jpg
 name: Samoyed Fan Token
+platform: BNB
+platform_contract: '0x3327d6e68830103d666467e5fd1153feb062400b'

@@ -5,3 +5,5 @@ id_nomics: BCC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCC2.jpg
 logoKey: currencies/bcc2.jpg
 name: Basis Coin Cash
+platform: ETH
+platform_contract: '0xae17f4f5ca32f77ea8e3786db7c0b2fe877ac176'

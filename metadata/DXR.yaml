@@ -6,3 +6,5 @@ id_nomics: DXR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DXR.png
 logoKey: currencies/dxr.png
 name: DEXTER
+platform: ETH
+platform_contract: '0xfff3ada5a2555a2b59bff4f44dfad90146cce8cb'

@@ -6,3 +6,5 @@ id_nomics: IND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ind.png
 logoKey: currencies/ind.png
 name: Indorse Token
+platform: ETH
+platform_contract: '0xf8e386eda857484f5a12e4b5daa9984e06e73705'

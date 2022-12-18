@@ -5,3 +5,5 @@ id_nomics: DSOLAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DSOLAR.png
 logoKey: currencies/dsolar.png
 name: Doge Solar
+platform: BNB
+platform_contract: '0x6556153450c85ce348b2c26022566cbeb1a95f8f'

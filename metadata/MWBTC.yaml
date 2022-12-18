@@ -5,3 +5,5 @@ id_nomics: MWBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MWBTC.jpg
 logoKey: currencies/mwbtc.jpg
 name: MetaWhale BTC
+platform: ETH
+platform_contract: '0x3521c85c3000bff57eac04489eb05bbd3193a531'

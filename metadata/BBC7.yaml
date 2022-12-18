@@ -5,3 +5,5 @@ id_nomics: BBC7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBC7.jpg
 logoKey: currencies/bbc7.jpg
 name: Bull BTC CLUB
+platform: BNB
+platform_contract: '0x37e5da11b6a4dc6d2f7abe232cdd30b0b8fc63b1'

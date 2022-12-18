@@ -3,3 +3,5 @@ fiat: false
 id: CHEESEPIZZA
 id_nomics: CHEESEPIZZA
 name: Cheese Pizza Token
+platform: ETH
+platform_contract: '0x65e26fecea5bb1e9de954490d5ce2812e1d086b0'

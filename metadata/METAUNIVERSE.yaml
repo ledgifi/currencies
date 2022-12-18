@@ -5,3 +5,5 @@ id_nomics: METAUNIVERSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAUNIVERSE.png
 logoKey: currencies/metauniverse.png
 name: MetaUniverse
+platform: ETH
+platform_contract: '0xe4ea7aa0b39a5158950e1c070047317b894314e8'

@@ -5,3 +5,5 @@ id_nomics: LEVIA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LEVIA.jpg
 logoKey: currencies/levia.jpg
 name: Leviathan Protocol
+platform: BNB
+platform_contract: '0x375fC5Fef3B22A4842811DA633241bEaE9eA876b'

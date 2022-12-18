@@ -5,3 +5,5 @@ id_nomics: BAMBOO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAMBOO.jpg
 logoKey: currencies/bamboo.jpg
 name: Panda Yield
+platform: BNB
+platform_contract: '0x2eb5ecc40e403b12ee4428d70fddf34e2c2c27b0'

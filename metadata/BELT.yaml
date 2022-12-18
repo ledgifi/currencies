@@ -6,3 +6,5 @@ id_nomics: BELT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BELT.png
 logoKey: currencies/belt.png
 name: Belt
+platform: BNB
+platform_contract: '0xe0e514c71282b6f4e823703a39374cf58dc3ea4f'

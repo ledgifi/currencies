@@ -3,3 +3,5 @@ fiat: false
 id: TINC
 id_nomics: TINC
 name: Tiny Coin
+platform: BNB
+platform_contract: '0x05ad6e30a855be07afa57e08a4f30d00810a402e'

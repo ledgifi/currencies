@@ -5,3 +5,5 @@ id_nomics: AXE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AXE2.png
 logoKey: currencies/axe2.png
 name: Axe Centaurus Network
+platform: BNB
+platform_contract: '0x0841f5b9781fdeabea7a9ec8e4884ff05c439a3b'

@@ -6,3 +6,5 @@ id_nomics: C0
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/C0.jpg
 logoKey: currencies/c0.jpg
 name: CarbonEco
+platform: ETH
+platform_contract: '0xbb3c2a170fbb8988cdb41c04344f9863b0f71c20'

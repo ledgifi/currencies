@@ -6,3 +6,5 @@ id_nomics: SSP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ssp.png
 logoKey: currencies/ssp.png
 name: Smartshare
+platform: ETH
+platform_contract: '0x624d520bab2e4ad83935fa503fb130614374e850'

@@ -3,3 +3,5 @@ fiat: false
 id: VTFI
 id_nomics: VTFI
 name: Value Token Fix Idendity
+platform: BNB
+platform_contract: '0x788b1f19515d8ed58147d3150dc7726c546bb0dd'

@@ -5,3 +5,5 @@ id_nomics: LUNRERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUNRERC20.png
 logoKey: currencies/lunrerc20.png
 name: Lunr (ERC-20)
+platform: ETH
+platform_contract: '0xA87135285Ae208e22068AcDBFf64B11Ec73EAa5A'

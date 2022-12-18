@@ -5,3 +5,5 @@ id_nomics: AAH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AAH.png
 logoKey: currencies/aah.png
 name: AAH
+platform: ETH
+platform_contract: '0x7a911c71144f4d5a00e4216b1c5b12d9571e9336'

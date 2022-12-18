@@ -5,3 +5,5 @@ id_nomics: SBTC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBTC2.png
 logoKey: currencies/sbtc2.png
 name: sBTC
+platform: ETH
+platform_contract: '0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6'

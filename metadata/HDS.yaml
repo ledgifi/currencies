@@ -6,3 +6,5 @@ id_nomics: HDS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HDS.jpg
 logoKey: currencies/hds.jpg
 name: HotDollars Token
+platform: ETH
+platform_contract: '0xcafe27178308351a12fffffdeb161d9d730da082'

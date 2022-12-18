@@ -3,3 +3,5 @@ fiat: false
 id: PEDESTAL
 id_nomics: PEDESTAL
 name: Pedestal Node Finance
+platform: AVAX
+platform_contract: '0x9b99768b1e367ec7381ca8be603e5f72f5e467bc'

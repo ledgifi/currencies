@@ -6,3 +6,5 @@ id_nomics: DPN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/dpn.jpg
 logoKey: currencies/dpn.jpg
 name: DIPNET
+platform: ETH
+platform_contract: '0xfb8bf095ebcdad57d2e37573a505e7d3bafdd3cc'

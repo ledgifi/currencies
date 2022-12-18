@@ -3,3 +3,5 @@ fiat: false
 id: MINERINU
 id_nomics: MINERINU
 name: Miner Inu
+platform: ETH
+platform_contract: '0x14b3bd602b9a2e540ba42648f402cfb1e7db9dca'

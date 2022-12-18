@@ -5,3 +5,5 @@ id_nomics: RCKT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RCKT.jpg
 logoKey: currencies/rckt.jpg
 name: Rocket Token
+platform: ETH
+platform_contract: '0xbd03bd923c7d51019fd84571d84e4ebcf7213509'

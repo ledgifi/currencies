@@ -3,3 +3,5 @@ fiat: false
 id: OSKSWAP
 id_nomics: OSKSWAP
 name: OSK SWAP
+platform: BNB
+platform_contract: '0x81f233130361d82076a943610ff801a69f79b5dc'

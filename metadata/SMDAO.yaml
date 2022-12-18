@@ -3,3 +3,5 @@ fiat: false
 id: SMDAO
 id_nomics: SMDAO
 name: SMDao
+platform: ETH
+platform_contract: '0x3a8f84c58112acab6a188cca61d9a4a8df27febc'

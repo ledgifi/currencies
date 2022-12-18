@@ -3,3 +3,5 @@ fiat: false
 id: BUSD20
 id_nomics: BUSD20
 name: BUSD2.0
+platform: BNB
+platform_contract: '0x218d05e868eee70fdb97c4ffd00ef744ad71bb6a'

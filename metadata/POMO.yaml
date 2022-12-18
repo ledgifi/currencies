@@ -5,3 +5,5 @@ id_nomics: POMO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POMO.jpg
 logoKey: currencies/pomo.jpg
 name: Pomo Token
+platform: BNB
+platform_contract: '0x19af9dab517746257dba18fcd74f7df5383bdf1b'

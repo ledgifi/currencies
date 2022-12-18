@@ -5,3 +5,5 @@ id_nomics: ASG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASG2.jpg
 logoKey: currencies/asg2.jpg
 name: Asgard
+platform: ETH
+platform_contract: '0x0dc5189ec8cde5732a01f0f592e927b304370551'

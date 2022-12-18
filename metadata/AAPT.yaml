@@ -6,3 +6,5 @@ id_nomics: AAPT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AAPT.jpeg
 logoKey: currencies/aapt.jpeg
 name: AAptitude
+platform: BNB
+platform_contract: '0x2a6f8e3a8fe92849b08ca82f4f323dd43029b33d'

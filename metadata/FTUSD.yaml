@@ -3,3 +3,5 @@ fiat: false
 id: FTUSD
 id_nomics: FTUSD
 name: Fluid TUSD
+platform: ETH
+platform_contract: '0x0b319db00d07c8fadfaaef13c910141a5da0aa8f'

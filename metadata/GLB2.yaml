@@ -5,3 +5,5 @@ id_nomics: GLB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GLB2.png
 logoKey: currencies/glb2.png
 name: Golden Ball
+platform: BNB
+platform_contract: '0x52eb6c887a4691f10bee396778603927c23be1fc'

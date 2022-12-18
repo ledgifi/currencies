@@ -5,3 +5,5 @@ id_nomics: OTETHUSDC29DEC2022
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OTETHUSDC29DEC2022.jpg
 logoKey: currencies/otethusdc29dec2022.jpg
 name: OT-ETH/USDC
+platform: ETH
+platform_contract: '0x322d6c69048330247165231eb7848a5c80a48878'

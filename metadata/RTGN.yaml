@@ -3,3 +3,5 @@ fiat: false
 id: RTGN
 id_nomics: RTGN
 name: Retrogression
+platform: ETH
+platform_contract: '0x304243a820d4a3718becc89a3f33513586162cf0'

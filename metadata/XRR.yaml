@@ -5,3 +5,5 @@ id_nomics: XRR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XRR.jpg
 logoKey: currencies/xrr.jpg
 name: XchangeRate
+platform: ETH
+platform_contract: '0x293989bb8b44c73b59f3e1f379bc861a33bd6aea'

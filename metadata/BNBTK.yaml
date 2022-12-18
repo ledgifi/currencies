@@ -3,3 +3,5 @@ fiat: false
 id: BNBTK
 id_nomics: BNBTK
 name: BNBTK
+platform: BNB
+platform_contract: '0x09e59315ee059cf0c794a5d809117ccecf0b6f52'

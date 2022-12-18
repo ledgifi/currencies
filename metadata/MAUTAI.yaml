@@ -3,3 +3,5 @@ fiat: false
 id: MAUTAI
 id_nomics: MAUTAI
 name: MautaiCoin
+platform: BNB
+platform_contract: '0x00fab117bdca301beb23a46e287a74aff26989a8'

@@ -6,3 +6,5 @@ id_nomics: P2E
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/P2E.jpg
 logoKey: currencies/p2e.jpg
 name: Plant2Earn
+platform: BNB
+platform_contract: '0x8461708744dab03391961d72ddd72e6687f478f2'

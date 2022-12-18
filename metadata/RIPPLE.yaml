@@ -3,3 +3,5 @@ fiat: false
 id: RIPPLE
 id_nomics: RIPPLE
 name: Ripple
+platform: ETH
+platform_contract: '0xa5c56d909c79fbbffebe412cf50b3893dff65fb6'

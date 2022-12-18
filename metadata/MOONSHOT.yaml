@@ -6,3 +6,5 @@ id_nomics: MOONSHOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOONSHOT.jpg
 logoKey: currencies/moonshot.jpg
 name: Moonshot
+platform: BNB
+platform_contract: '0xd27d3f7f329d93d897612e413f207a4dbe8bf799'

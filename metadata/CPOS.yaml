@@ -6,3 +6,5 @@ id_nomics: CPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CPOS.jpg
 logoKey: currencies/cpos.jpg
 name: CPOS Cloud Payment
+platform: BNB
+platform_contract: '0xc0dc5adfae1dada9111f376810d772cabd9b6f13'

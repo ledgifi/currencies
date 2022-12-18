@@ -5,3 +5,5 @@ id_nomics: RAVE4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAVE4.png
 logoKey: currencies/rave4.png
 name: RAVE DOGE
+platform: BNB
+platform_contract: '0xcf462b341cc53c9e71975e5aec47896c47a5bba0'

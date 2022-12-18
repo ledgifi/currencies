@@ -5,3 +5,5 @@ id_nomics: TOKE4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOKE4.jpg
 logoKey: currencies/toke4.jpg
 name: Tokémon
+platform: BNB
+platform_contract: '0x3489d468c26df8d4542e7c8975cf2f4d96180e91'

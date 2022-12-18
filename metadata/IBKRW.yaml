@@ -5,3 +5,5 @@ id_nomics: IBKRW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IBKRW.png
 logoKey: currencies/ibkrw.png
 name: Iron Bank KRW
+platform: ETH
+platform_contract: '0x95dfdc8161832e4ff7816ac4b6367ce201538253'

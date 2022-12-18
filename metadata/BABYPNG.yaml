@@ -5,3 +5,5 @@ id_nomics: BABYPNG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYPNG.png
 logoKey: currencies/babypng.png
 name: Baby Pangolin
+platform: AVAX
+platform_contract: '0x62a4f3280C02C8Cc3E9ff984e4aaD94f8F7fEA26'

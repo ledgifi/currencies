@@ -6,3 +6,5 @@ id_nomics: QUB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QUB.jpg
 logoKey: currencies/qub.jpg
 name: Qub Coin
+platform: ETH
+platform_contract: '0xb2d74b7a454eda300c6e633f5b593d128c0c0dcf'

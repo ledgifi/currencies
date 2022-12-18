@@ -5,3 +5,5 @@ id_nomics: MUSK3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MUSK3.jpg
 logoKey: currencies/musk3.jpg
 name: Musk Token
+platform: BNB
+platform_contract: '0xcd657182a749554fc8487757612f02226355269d'

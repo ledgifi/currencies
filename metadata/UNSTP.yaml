@@ -3,3 +3,5 @@ fiat: false
 id: UNSTP
 id_nomics: UNSTP
 name: STOCKS unstoppable
+platform: BNB
+platform_contract: '0x2abb1d12fe3021b501041c3c20c7fe25043f070c'

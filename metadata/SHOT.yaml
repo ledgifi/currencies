@@ -5,3 +5,5 @@ id_nomics: SHOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHOT.jpg
 logoKey: currencies/shot.jpg
 name: MoneyShot
+platform: BNB
+platform_contract: '0xe73d249e9f82efd2e0d8f2ec0db1da4597e39574'

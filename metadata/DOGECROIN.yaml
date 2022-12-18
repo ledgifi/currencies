@@ -3,3 +3,5 @@ fiat: false
 id: DOGECROIN
 id_nomics: DOGECROIN
 name: DOGE CROIN
+platform: CRO
+platform_contract: '0x5ca5489f1de421d5cbe7667a74ab324a95e3c62a'

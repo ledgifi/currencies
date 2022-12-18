@@ -6,3 +6,5 @@ id_nomics: RCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/rct.png
 logoKey: currencies/rct.png
 name: RealChain
+platform: ETH
+platform_contract: '0x13f25cd52b21650caa8225c9942337d914c9b030'

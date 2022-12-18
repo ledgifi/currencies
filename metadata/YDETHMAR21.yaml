@@ -5,3 +5,5 @@ id_nomics: YDETHMAR21
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YDETHMAR21.jpg
 logoKey: currencies/ydethmar21.jpg
 name: YD-ETH-MAR21
+platform: ETH
+platform_contract: '0x90f802c7e8fb5d40b0de583e34c065a3bd2020d8'

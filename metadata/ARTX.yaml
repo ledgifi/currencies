@@ -6,3 +6,5 @@ id_nomics: ARTX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARTX.jpg
 logoKey: currencies/artx.jpg
 name: ARTX
+platform: ETH
+platform_contract: '0x741b0428efdf4372a8df6fb54b018db5e5ab7710'

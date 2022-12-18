@@ -6,3 +6,5 @@ id_nomics: VBSC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VBSC.jpg
 logoKey: currencies/vbsc.jpg
 name: Votechain
+platform: BNB
+platform_contract: '0xa3294a571b4526310332a6602a3dec110125af61'

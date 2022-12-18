@@ -3,3 +3,5 @@ fiat: false
 id: LUNAUSDT
 id_nomics: LUNAUSDT
 name: LunaUSDT
+platform: BNB
+platform_contract: '0x6773a0154c21b784e84fccb1fcc3d29dc63703fa'

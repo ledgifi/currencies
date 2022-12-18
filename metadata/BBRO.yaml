@@ -5,3 +5,5 @@ id_nomics: BBRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBRO.png
 logoKey: currencies/bbro.png
 name: bBRO
+platform: AVAX
+platform_contract: '0x53d8fede675825db0fca6ff3e25d46b7510e8c8b'

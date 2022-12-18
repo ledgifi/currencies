@@ -3,3 +3,5 @@ fiat: false
 id: BTCPLUS
 id_nomics: BTCPLUS
 name: BTCPLUS
+platform: HT
+platform_contract: '0x27e7e09778223fecaab9d34cc7b8aeaf3ef4255c'

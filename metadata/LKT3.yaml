@@ -5,3 +5,5 @@ id_nomics: LKT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LKT3.jpg
 logoKey: currencies/lkt3.jpg
 name: LuckyToken
+platform: BNB
+platform_contract: '0xd294affd029d89054496675c52693b12decfd6dc'

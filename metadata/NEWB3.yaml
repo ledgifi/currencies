@@ -5,3 +5,5 @@ id_nomics: NEWB3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEWB3.jpg
 logoKey: currencies/newb3.jpg
 name: NewB.Farm
+platform: BNB
+platform_contract: '0x545f90dc35ca1e6129f1fed354b3e2df12034261'

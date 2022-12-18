@@ -5,3 +5,5 @@ id_nomics: IBG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IBG.jpg
 logoKey: currencies/ibg.jpg
 name: IBG Token
+platform: BNB
+platform_contract: '0x5c46c55a699a6359e451b2c99344138420c87261'

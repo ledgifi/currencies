@@ -5,3 +5,5 @@ id_nomics: TWISTPAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TWISTPAD.jpg
 logoKey: currencies/twistpad.jpg
 name: Twist Protocol
+platform: BNB
+platform_contract: '0x48dBDF90daC2990145BeC30Baf1ec669C5a6c0ce'

@@ -3,3 +3,5 @@ fiat: false
 id: LEODOOM
 id_nomics: LEODOOM
 name: 10X Short LEO Token
+platform: ETH
+platform_contract: '0x22f39b18d17665177f1ac88d6da4861b13be07df'

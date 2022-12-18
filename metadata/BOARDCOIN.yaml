@@ -5,3 +5,5 @@ id_nomics: BOARDCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOARDCOIN.png
 logoKey: currencies/boardcoin.png
 name: Boardcoin
+platform: ETH
+platform_contract: '0x83dc1a0f90bbc5c90d5ccc9c254bf164de4d9dde'

@@ -5,3 +5,5 @@ id_nomics: WAPPIECOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAPPIECOIN.png
 logoKey: currencies/wappiecoin.png
 name: Wappie Donate Coin
+platform: BNB
+platform_contract: '0xa00c5548c7700574c35f5998b148461014469552'

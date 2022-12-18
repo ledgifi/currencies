@@ -5,3 +5,5 @@ id_nomics: ROK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROK.jpg
 logoKey: currencies/rok.jpg
 name: Ragnarok Token
+platform: BNB
+platform_contract: '0x1717cc260bacb7841b37fed8d06846101b31e5c8'

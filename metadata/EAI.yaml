@@ -6,3 +6,5 @@ id_nomics: EAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EAI.jpeg
 logoKey: currencies/eai.jpeg
 name: EthereumAI
+platform: ETH
+platform_contract: '0x2f102963f61acf1ca4badfe82057b440f2fc722c'

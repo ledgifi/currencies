@@ -5,3 +5,5 @@ id_nomics: INUB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INUB2.jpg
 logoKey: currencies/inub2.jpg
 name: InuBase
+platform: BNB
+platform_contract: '0x7d6c3f7aaaf01a91574c82b82e57b1f64ff48039'

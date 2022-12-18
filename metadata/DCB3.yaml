@@ -5,3 +5,5 @@ id_nomics: DCB3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DCB3.png
 logoKey: currencies/dcb3.png
 name: Discrete cipher block
+platform: ETH
+platform_contract: '0xE87E267E92c8f950fd194419c3538B7df6590909'

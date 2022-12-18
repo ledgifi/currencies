@@ -5,3 +5,5 @@ id_nomics: MIGUEL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIGUEL.jpg
 logoKey: currencies/miguel.jpg
 name: Miguel Piedrafita
+platform: ETH
+platform_contract: '0x9eeab5dacad364017c400bfbf717543a0e3c35cb'

@@ -5,3 +5,5 @@ id_nomics: SHIRA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIRA.jpeg
 logoKey: currencies/shira.jpeg
 name: ShiraCoin
+platform: BNB
+platform_contract: '0x8bbebac431a927d8cdc5b29941e63c6bc745d3da'

@@ -6,3 +6,5 @@ id_nomics: KWH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/kwh.jpg
 logoKey: currencies/kwh.jpg
 name: KWHCoin
+platform: ETH
+platform_contract: '0xb8ddc930c2bab6c71610a2be639036e829f9c10b'

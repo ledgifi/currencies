@@ -5,3 +5,5 @@ id_nomics: CSC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CSC3.jpg
 logoKey: currencies/csc3.jpg
 name: Crypto Soccer
+platform: BNB
+platform_contract: '0xf0fb4a5acf1b1126a991ee189408b112028d7a63'

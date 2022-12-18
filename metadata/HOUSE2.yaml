@@ -5,3 +5,5 @@ id_nomics: HOUSE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOUSE2.png
 logoKey: currencies/house2.png
 name: Klaymore Stakehouse
+platform: KLAY
+platform_contract: '0x158beff8c8cdebd64654add5f6a1d9937e73536c'

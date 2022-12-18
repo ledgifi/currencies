@@ -5,3 +5,5 @@ id_nomics: INVISINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INVISINU.jpeg
 logoKey: currencies/invisinu.jpeg
 name: Invisible Inu
+platform: BNB
+platform_contract: '0xcb94540a83eb7345521b916a7e5e6a7fef9a5f78'

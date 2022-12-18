@@ -5,3 +5,5 @@ id_nomics: AVAO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVAO2.jpg
 logoKey: currencies/avao2.jpg
 name: AvaOne Finance
+platform: AVAX
+platform_contract: '0xecf4e40e564a1de686d89142a0963d908579daaa'

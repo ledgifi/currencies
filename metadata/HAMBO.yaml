@@ -5,3 +5,5 @@ id_nomics: HAMBO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HAMBO.jpeg
 logoKey: currencies/hambo.jpeg
 name: HamBonk
+platform: BNB
+platform_contract: '0x90b29a3ec4c4957b9d1bd41c991f9901263c29a6'

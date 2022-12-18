@@ -5,3 +5,5 @@ id_nomics: ICORE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICORE.jpg
 logoKey: currencies/icore.jpg
 name: iCORE
+platform: ETH
+platform_contract: '0x3dc98697894d276a7d4762deb1dece69041581e2'

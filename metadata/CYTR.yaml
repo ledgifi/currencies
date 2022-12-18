@@ -6,3 +6,5 @@ id_nomics: CYTR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CYTR.jpeg
 logoKey: currencies/cytr.jpeg
 name: Cyclops Treasure
+platform: ETH
+platform_contract: '0xbd05cee8741100010d8e93048a80ed77645ac7bf'

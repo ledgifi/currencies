@@ -5,3 +5,5 @@ id_nomics: PALM3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PALM3.jpg
 logoKey: currencies/palm3.jpg
 name: PalmPay
+platform: BNB
+platform_contract: '0xae9a270567dcaee18a909830b1c7f6ec8a4243f8'

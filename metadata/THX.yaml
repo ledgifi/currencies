@@ -6,3 +6,5 @@ id_nomics: THX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THX.png
 logoKey: currencies/thx.png
 name: Thorenext
+platform: ETH
+platform_contract: '0xf08c68bd5f4194d994fd70726746bf529ee5a617'

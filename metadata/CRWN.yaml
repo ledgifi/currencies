@@ -6,3 +6,5 @@ id_nomics: CRWN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRWN.jpg
 logoKey: currencies/crwn.jpg
 name: Crown Finance
+platform: ETH
+platform_contract: '0x72a56f7bbee939a8c441c891e1754bb795ee0b21'

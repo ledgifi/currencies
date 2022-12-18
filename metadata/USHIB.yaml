@@ -3,3 +3,5 @@ fiat: false
 id: USHIB
 id_nomics: USHIB
 name: UpShiba
+platform: ETH
+platform_contract: '0x7b261a8ad72aa1733142db0aef35f047f204c4af'

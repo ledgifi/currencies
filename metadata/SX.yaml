@@ -5,3 +5,5 @@ id_nomics: SX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SX.png
 logoKey: currencies/sx.png
 name: SportX
+platform: ETH
+platform_contract: '0x99fe3b1391503a1bc1788051347a1324bff41452'

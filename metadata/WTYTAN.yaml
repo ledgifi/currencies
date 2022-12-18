@@ -3,3 +3,5 @@ fiat: false
 id: WTYTAN
 id_nomics: WTYTAN
 name: Wrapped TYTAN
+platform: BNB
+platform_contract: '0x3593d409484e36aad862101054fbdbe1c9a4fc9b'

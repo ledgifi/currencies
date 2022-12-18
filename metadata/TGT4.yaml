@@ -5,3 +5,5 @@ id_nomics: TGT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TGT4.jpg
 logoKey: currencies/tgt4.jpg
 name: THORWallet
+platform: ETH
+platform_contract: '0x108a850856db3f85d0269a2693d896b394c80325'

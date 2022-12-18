@@ -5,3 +5,5 @@ id_nomics: WFNB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WFNB.jpg
 logoKey: currencies/wfnb.jpg
 name: Wrapped Fanbase Coin
+platform: ETH
+platform_contract: '0x7016c6f4dba9a9a48a47a2fe73a1b9271432d1d5'

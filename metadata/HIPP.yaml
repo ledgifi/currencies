@@ -3,3 +3,5 @@ fiat: false
 id: HIPP
 id_nomics: HIPP
 name: Hipp Token
+platform: BNB
+platform_contract: '0xa82ed962d748fbcd65c7d01e3466242586fd3a72'

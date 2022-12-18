@@ -3,3 +3,5 @@ fiat: false
 id: HOUND
 id_nomics: HOUND
 name: HOUND
+platform: BNB
+platform_contract: '0x9055823c1154321b771e03cd5ef064136ea29711'

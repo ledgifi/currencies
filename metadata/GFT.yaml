@@ -5,3 +5,5 @@ id_nomics: GFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GFT.png
 logoKey: currencies/gft.png
 name: GasFarm Token
+platform: ETH
+platform_contract: '0x1df833335ead4138450deb06dab63e3a9be9f3ba'

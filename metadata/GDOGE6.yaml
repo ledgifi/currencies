@@ -5,3 +5,5 @@ id_nomics: GDOGE6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GDOGE6.png
 logoKey: currencies/gdoge6.png
 name: Gold Doge Token
+platform: BNB
+platform_contract: '0x5a291bff21b65474af46e3bf05ac1abcd6a86526'

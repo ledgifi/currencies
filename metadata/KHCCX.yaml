@@ -5,3 +5,5 @@ id_nomics: KHCCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KHCCX.jpg
 logoKey: currencies/khccx.jpg
 name: The Kraft Heinz Company Token
+platform: ETH
+platform_contract: '0xe96bfebe8b8c85540519c57c06ab96f7435dc184'

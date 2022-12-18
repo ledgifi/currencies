@@ -5,3 +5,5 @@ id_nomics: EXP22
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EXP22.jpg
 logoKey: currencies/exp22.jpg
 name: Internet Explorer 2.0
+platform: BNB
+platform_contract: '0x3ca837630318843f155e26f5bd8b36ded8da20a4'

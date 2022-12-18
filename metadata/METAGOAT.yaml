@@ -5,3 +5,5 @@ id_nomics: METAGOAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAGOAT.jpg
 logoKey: currencies/metagoat.jpg
 name: MetaGoat
+platform: BNB
+platform_contract: '0xdb680a8f1dc76ab1f17ab5f8ecd9c0a0a7c27e0b'

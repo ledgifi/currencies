@@ -6,3 +6,5 @@ id_nomics: GREEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GREEN.png
 logoKey: currencies/green.png
 name: GreenToken
+platform: BNB
+platform_contract: '0xa4fb1f591980e6e4eb4661a0d96df19a13d21aa7'

@@ -3,3 +3,5 @@ fiat: false
 id: BNP
 id_nomics: BNP
 name: BenePit
+platform: ETH
+platform_contract: '0xd27d76a1ba55ce5c0291ccd04febbe793d22ebf4'

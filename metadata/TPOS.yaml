@@ -6,3 +6,5 @@ id_nomics: TPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TPOS.jpg
 logoKey: currencies/tpos.jpg
 name: The Philosophers Stone
+platform: BNB
+platform_contract: '0xdadebb7bc62db8614a59f52f221ce8c226464599'

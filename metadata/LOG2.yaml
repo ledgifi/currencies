@@ -5,3 +5,5 @@ id_nomics: LOG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOG2.jpg
 logoKey: currencies/log2.jpg
 name: LOGOS
+platform: BNB
+platform_contract: '0xf5ce0c13f9287d37adea719628821e4c20edaa2a'

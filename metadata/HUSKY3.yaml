@@ -5,3 +5,5 @@ id_nomics: HUSKY3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HUSKY3.jpg
 logoKey: currencies/husky3.jpg
 name: Huskycoin
+platform: BNB
+platform_contract: '0xa3a0Da039f7632569044828718c1234674ADC0a3'

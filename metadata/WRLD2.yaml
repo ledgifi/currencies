@@ -5,3 +5,5 @@ id_nomics: WRLD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WRLD2.jpg
 logoKey: currencies/wrld2.jpg
 name: NFT Worlds
+platform: ETH
+platform_contract: '0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9'

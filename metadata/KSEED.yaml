@@ -6,3 +6,5 @@ id_nomics: KSEED
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KSEED.jpg
 logoKey: currencies/kseed.jpg
 name: Kush Finance
+platform: ETH
+platform_contract: '0x3f09400313e83d53366147e3ea0e4e2279d80850'

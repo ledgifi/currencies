@@ -5,3 +5,5 @@ id_nomics: OCSAFEMOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCSAFEMOON.jpg
 logoKey: currencies/ocsafemoon.jpg
 name: OldCommunitySafemoon
+platform: BNB
+platform_contract: '0xeb2908e91e8e337e9d73fa77e2c9f0b4c163ffd4'

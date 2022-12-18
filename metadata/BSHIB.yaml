@@ -6,3 +6,5 @@ id_nomics: BSHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSHIB.jpg
 logoKey: currencies/bshib.jpg
 name: Baby Shiba Inu
+platform: BNB
+platform_contract: '0xdeff0ee83ba00be152bcff88795f1577bf5be806'

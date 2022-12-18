@@ -5,3 +5,5 @@ id_nomics: BABYCUBAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYCUBAN.jpg
 logoKey: currencies/babycuban.jpg
 name: Baby Cuban
+platform: ETH
+platform_contract: '0xd21730353086b0d6c34656ca74f4e4295dc9b8e0'

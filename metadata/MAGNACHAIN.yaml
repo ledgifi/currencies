@@ -5,3 +5,5 @@ id_nomics: MAGNACHAIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAGNACHAIN.jpg
 logoKey: currencies/magnachain.jpg
 name: Magnachain
+platform: ETH
+platform_contract: '0xa6eb54102f20095679882db4c84e72e65ab782a4'

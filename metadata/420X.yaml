@@ -5,3 +5,5 @@ id_nomics: 420X
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/420X.jpg
 logoKey: currencies/420x.jpg
 name: 420x
+platform: BNB
+platform_contract: '0xc4b790e1d5f0c3d8aa526f0a8098ed2a1ff0886a'

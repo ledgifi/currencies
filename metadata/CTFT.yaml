@@ -5,3 +5,5 @@ id_nomics: CTFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTFT.jpg
 logoKey: currencies/ctft.jpg
 name: Coin To Fish V1 (OLD)
+platform: BNB
+platform_contract: '0xb506c3916cd60dee77d73217aff24b1b28d47e2e'

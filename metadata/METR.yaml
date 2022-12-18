@@ -3,3 +3,5 @@ fiat: false
 id: METR
 id_nomics: METR
 name: Metria
+platform: ETH
+platform_contract: '0x405ce8b2eaeea7d4ba5fc160848cb2a6569e03f0'

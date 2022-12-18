@@ -6,3 +6,5 @@ id_nomics: FGSPORT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FGSPORT.jpg
 logoKey: currencies/fgsport.jpg
 name: FootBallGo
+platform: BNB
+platform_contract: '0x9d12cc56d133fc5c60e9385b7a92f35a682da0bd'

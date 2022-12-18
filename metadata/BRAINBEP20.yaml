@@ -5,3 +5,5 @@ id_nomics: BRAINBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRAINBEP20.jpg
 logoKey: currencies/brainbep20.jpg
 name: Nobrainer Finance (BEP-20)
+platform: BNB
+platform_contract: '0xe6f4acfd9718c13b22eb7607025582abc21955e8'

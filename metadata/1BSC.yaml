@@ -3,3 +3,5 @@ fiat: false
 id: 1BSC
 id_nomics: 1BSC
 name: BSC
+platform: BNB
+platform_contract: '0xfd71e15e4285e0efbd8d089a48e537d5616a3d0c'

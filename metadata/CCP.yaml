@@ -6,3 +6,5 @@ id_nomics: CCP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CCP.png
 logoKey: currencies/ccp.png
 name: CryptoCoinPay
+platform: ETH
+platform_contract: '0xc8d07671afba9492da95819de4ad10859e00ab7f'

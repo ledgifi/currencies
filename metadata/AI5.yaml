@@ -5,3 +5,5 @@ id_nomics: AI5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AI5.jpeg
 logoKey: currencies/ai5.jpeg
 name: AI Token
+platform: BNB
+platform_contract: '0x1a964533075554825e197c3983943f86cfaf2eeb'

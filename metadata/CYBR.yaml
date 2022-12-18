@@ -6,3 +6,5 @@ id_nomics: CYBR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CYBR.png
 logoKey: currencies/cybr.png
 name: CYBR Token
+platform: ETH
+platform_contract: '0xaeaabb69dcb0fe926b1979f0b032fcd17fd7b2e0'

@@ -5,3 +5,5 @@ id_nomics: AEL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AEL2.jpg
 logoKey: currencies/ael2.jpg
 name: Spantale
+platform: BNB
+platform_contract: '0x4f8853d1aa59409c06de66ed9deeaffa139f975d'

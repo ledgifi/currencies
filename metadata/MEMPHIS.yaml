@@ -5,3 +5,5 @@ id_nomics: MEMPHIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEMPHIS.jpg
 logoKey: currencies/memphis.jpg
 name: Pharaoh Memphis
+platform: BNB
+platform_contract: '0xf555257a08E40F57Af44C0dE9da4ea7b32e4a0de'

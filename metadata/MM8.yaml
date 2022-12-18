@@ -5,3 +5,5 @@ id_nomics: MM8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MM8.png
 logoKey: currencies/mm8.png
 name: Meta Monkey
+platform: BNB
+platform_contract: '0x29c6e26cfc2d198fca518b84a78372e1d0be08eb'

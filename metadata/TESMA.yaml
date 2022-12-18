@@ -5,3 +5,5 @@ id_nomics: TESMA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TESMA.jpeg
 logoKey: currencies/tesma.jpeg
 name: Teska Modern Accounting
+platform: BNB
+platform_contract: '0xe9b594502f10aa8f2ed1cf97cf20b096178d6cfd'

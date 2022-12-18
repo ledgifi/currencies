@@ -5,3 +5,5 @@ id_nomics: ALRIHLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALRIHLA.png
 logoKey: currencies/alrihla.png
 name: Alrihla
+platform: BNB
+platform_contract: '0x9d3e24252876b5f69521f403a5d9065ccdf05466'

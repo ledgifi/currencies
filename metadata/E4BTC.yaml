@@ -5,3 +5,5 @@ id_nomics: E4BTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/E4BTC.jpg
 logoKey: currencies/e4btc.jpg
 name: EqualMoney4btc
+platform: FTM
+platform_contract: '0x246b6f4bb3d06385fc1826edcf00c3bf7b03d334'

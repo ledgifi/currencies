@@ -8,3 +8,5 @@ id_nomics: JASMY
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/981a0181-9a85-4b3b-86c7-65e044a1e2ba.png
 logoKey: currencies/jasmy.png
 name: JasmyCoin
+platform: ETH
+platform_contract: '0x7420b4b9a0110cdc71fb720908340c03f9bc03ec'

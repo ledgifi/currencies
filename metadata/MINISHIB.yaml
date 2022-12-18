@@ -5,3 +5,5 @@ id_nomics: MINISHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINISHIB.jpg
 logoKey: currencies/minishib.jpg
 name: MiniShib
+platform: BNB
+platform_contract: '0xd099d6ebfe446c9e8342dffd8903109d890f73b7'

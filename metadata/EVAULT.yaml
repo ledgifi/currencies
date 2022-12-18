@@ -6,3 +6,5 @@ id_nomics: EVAULT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVAULT.jpg
 logoKey: currencies/evault.jpg
 name: Ethereum Vault
+platform: ETH
+platform_contract: '0x1d15a70f1c8c2a9938ba8036f5a46021146d8c15'

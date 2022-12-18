@@ -6,3 +6,5 @@ id_nomics: STU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/stu.png
 logoKey: currencies/stu.png
 name: bitJob
+platform: ETH
+platform_contract: '0x0371a82e4a9d0a4312f3ee2ac9c6958512891372'

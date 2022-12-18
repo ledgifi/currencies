@@ -5,3 +5,5 @@ id_nomics: NOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NOGE.jpg
 logoKey: currencies/noge.jpg
 name: Noge Inu
+platform: BNB
+platform_contract: '0x58a9fc05fbe529a8d7bca3391c51716abe398b0c'

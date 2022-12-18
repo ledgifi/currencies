@@ -5,3 +5,5 @@ id_nomics: MG6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MG6.jpg
 logoKey: currencies/mg6.jpg
 name: MemeGrow
+platform: BNB
+platform_contract: '0x2693987064c3b66fc38e2ea659160414a4a522ed'

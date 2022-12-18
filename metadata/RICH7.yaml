@@ -5,3 +5,5 @@ id_nomics: RICH7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RICH7.jpg
 logoKey: currencies/rich7.jpg
 name: Richie
+platform: BNB
+platform_contract: '0xc7bc24c4c18f8251d31611114d0e7b5f5ef76762'

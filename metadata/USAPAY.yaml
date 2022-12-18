@@ -3,3 +3,5 @@ fiat: false
 id: USAPAY
 id_nomics: USAPAY
 name: USApay
+platform: BNB
+platform_contract: '0x35b08b1f176de240c8945f5c918b2f693f67c0d4'

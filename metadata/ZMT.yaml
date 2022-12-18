@@ -6,3 +6,5 @@ id_nomics: ZMT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZMT.jpg
 logoKey: currencies/zmt.jpg
 name: Zipmex Token
+platform: ETH
+platform_contract: '0xaa602de53347579f86b996d2add74bb6f79462b2'

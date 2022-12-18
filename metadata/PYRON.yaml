@@ -3,3 +3,5 @@ fiat: false
 id: PYRON
 id_nomics: PYRON
 name: Pyronomics
+platform: ETH
+platform_contract: '0x86c2e171bd9f29d0839be52c251202164c616139'

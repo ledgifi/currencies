@@ -3,3 +3,5 @@ fiat: false
 id: LEASHEREUM
 id_nomics: LEASHEREUM
 name: Leashereum
+platform: ETH
+platform_contract: '0x83c7a1d726d031e19df8da6d9e1e10887c539cd6'

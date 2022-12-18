@@ -5,3 +5,5 @@ id_nomics: LTCONE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LTCONE.jpg
 logoKey: currencies/ltcone.jpg
 name: Litecoin One
+platform: ETH
+platform_contract: '0x9eb4f2dd25958ef1c72fe115d62da67abd6c000c'

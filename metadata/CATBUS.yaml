@@ -5,3 +5,5 @@ id_nomics: CATBUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CATBUS.jpeg
 logoKey: currencies/catbus.jpeg
 name: Nekobasu
+platform: BNB
+platform_contract: '0x85cd07eb6735e6a4010c5b24f190753d7293eab1'

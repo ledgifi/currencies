@@ -5,3 +5,5 @@ id_nomics: USDTAVAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDTAVAX.png
 logoKey: currencies/usdtavax.png
 name: Tether (Avalanche)
+platform: AVAX
+platform_contract: '0xc7198437980c041c805a1edcba50c1ce5db95118'

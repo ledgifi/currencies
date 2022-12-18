@@ -3,3 +3,5 @@ fiat: false
 id: UAT
 id_nomics: UAT
 name: UltrAlpha
+platform: ETH
+platform_contract: '0x01c0987e88f778df6640787226bc96354e1a9766'

@@ -5,3 +5,5 @@ id_nomics: GMECX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMECX.jpg
 logoKey: currencies/gmecx.jpg
 name: GameStop Corp. Token
+platform: ETH
+platform_contract: '0x79f9ef8429b24e3cb0929eaaa5fabfcc3b15f86d'

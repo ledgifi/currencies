@@ -6,3 +6,5 @@ id_nomics: DXY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DXY.jpg
 logoKey: currencies/dxy.jpg
 name: DXY Finance
+platform: ETH
+platform_contract: '0x39fa206c1648944f92e8f7b626e1cbdf78d7e9db'

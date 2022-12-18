@@ -5,3 +5,5 @@ id_nomics: DF3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DF3.png
 logoKey: currencies/df3.png
 name: Devil Floki
+platform: BNB
+platform_contract: '0xc77fa20904482b4202cda60e288b732fa21d61f3'

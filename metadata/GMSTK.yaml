@@ -5,3 +5,5 @@ id_nomics: GMSTK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMSTK.jpg
 logoKey: currencies/gmstk.jpg
 name: GameStack
+platform: BNB
+platform_contract: '0xa913E951541f3Ff4f927aCd0Fb31dD8CD7872A07'

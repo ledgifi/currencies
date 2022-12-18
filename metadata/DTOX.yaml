@@ -5,3 +5,5 @@ id_nomics: DTOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DTOX.jpeg
 logoKey: currencies/dtox.jpeg
 name: DeTox The World
+platform: ETH
+platform_contract: '0x39550dc5919a990a5786fcdc1d5b7c392d362dde'

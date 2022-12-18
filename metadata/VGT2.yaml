@@ -5,3 +5,5 @@ id_nomics: VGT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VGT2.jpg
 logoKey: currencies/vgt2.jpg
 name: Vanguard Wallet Token
+platform: BNB
+platform_contract: '0x09e7f2bf0d8115cec9a881e113a5b4a3fd2819fa'

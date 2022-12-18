@@ -5,3 +5,5 @@ id_nomics: CROWN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CROWN2.jpeg
 logoKey: currencies/crown2.jpeg
 name: MidasDAO
+platform: AVAX
+platform_contract: '0xed46443c18e38064523180fc364c6180b35803d3'

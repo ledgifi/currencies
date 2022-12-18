@@ -6,3 +6,5 @@ id_nomics: CBUCKS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBUCKS.jpg
 logoKey: currencies/cbucks.jpg
 name: CRYPTOBUCKS
+platform: ETH
+platform_contract: '0x0d2bb9d68dd4451a09ec94c05e20bd395022bd8e'

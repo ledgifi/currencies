@@ -3,3 +3,5 @@ fiat: false
 id: STARLINKS
 id_nomics: STARLINKS
 name: StarlinksDao
+platform: ETH
+platform_contract: '0x461e836daabcdb490562bd784651fbcd16914f19'

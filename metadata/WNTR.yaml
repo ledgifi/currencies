@@ -6,3 +6,5 @@ id_nomics: WNTR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WNTR.jpg
 logoKey: currencies/wntr.jpg
 name: Weentar
+platform: BNB
+platform_contract: '0x93f63d9455685621abd73e63cc04f7e454270a66'

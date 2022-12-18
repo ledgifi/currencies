@@ -5,3 +5,5 @@ id_nomics: VEST3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VEST3.jpg
 logoKey: currencies/vest3.jpg
 name: DAO Invest
+platform: ETH
+platform_contract: '0x1f19f83fc9a25f3c861260143e36c17706257986'

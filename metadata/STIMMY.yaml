@@ -5,3 +5,5 @@ id_nomics: STIMMY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STIMMY.jpg
 logoKey: currencies/stimmy.jpg
 name: Stimmy Protocol
+platform: BNB
+platform_contract: '0xa50801a5ddf7afe277fa6695895dffa35ed891a7'

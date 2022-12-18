@@ -5,3 +5,5 @@ id_nomics: FETCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FETCH.jpg
 logoKey: currencies/fetch.jpg
 name: MoonRetriever
+platform: BNB
+platform_contract: '0x8bfc1c564e4490790dfac641c9a0fecd3f91f584'

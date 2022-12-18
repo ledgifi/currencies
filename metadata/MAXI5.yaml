@@ -5,3 +5,5 @@ id_nomics: MAXI5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAXI5.jpg
 logoKey: currencies/maxi5.jpg
 name: Maximus
+platform: ETH
+platform_contract: '0x0d86eb9f43c57f6ff3bc9e23d8f9d82503f0e84b'

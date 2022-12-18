@@ -6,3 +6,5 @@ id_nomics: LELOUCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LELOUCH.png
 logoKey: currencies/lelouch.png
 name: Lelouch Lamperouge
+platform: ETH
+platform_contract: '0xfc05205ff402849b081e72ae4f8fc93cbdf40db1'

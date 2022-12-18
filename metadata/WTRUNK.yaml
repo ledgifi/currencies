@@ -5,3 +5,5 @@ id_nomics: WTRUNK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WTRUNK.jpg
 logoKey: currencies/wtrunk.jpg
 name: wTRUNK
+platform: FTM
+platform_contract: '0xa56f3899af37572e5b48d52c1f6bef84c5946002'

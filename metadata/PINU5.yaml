@@ -5,3 +5,5 @@ id_nomics: PINU5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PINU5.jpg
 logoKey: currencies/pinu5.jpg
 name: PolkaInu
+platform: ETH
+platform_contract: '0xaabcecd071ab4ace5496f6ff3e1c4c3ee8116f75'

@@ -6,3 +6,5 @@ id_nomics: DIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DIS.jpg
 logoKey: currencies/dis.jpg
 name: TosDis
+platform: ETH
+platform_contract: '0x220b71671b649c03714da9c621285943f3cbcdc6'

@@ -5,3 +5,5 @@ id_nomics: ARTI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARTI2.jpg
 logoKey: currencies/arti2.jpg
 name: ArtKit
+platform: BNB
+platform_contract: '0xab9ed2c3d76a1877d959c0d7e8de48a33c55205c'

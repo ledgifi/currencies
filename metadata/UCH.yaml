@@ -5,3 +5,5 @@ id_nomics: UCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UCH.jpg
 logoKey: currencies/uch.jpg
 name: Universidad de Chile Fan Token
+platform: CHZ
+platform_contract: '0x8a014bd5f85ab3715af39403ad20e138e480603d'

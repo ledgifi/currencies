@@ -5,3 +5,5 @@ id_nomics: TURING
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TURING.png
 logoKey: currencies/turing.png
 name: TuringMachine Token
+platform: BNB
+platform_contract: '0x76ed05fa250e8e993275e6e78b470b4d70ed120b'

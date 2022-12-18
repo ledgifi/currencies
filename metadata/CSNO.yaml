@@ -6,3 +6,5 @@ id_nomics: CSNO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/csno.svg
 logoKey: currencies/csno.svg
 name: BitDice
+platform: ETH
+platform_contract: '0x29d75277ac7f0335b2165d0895e8725cbf658d73'

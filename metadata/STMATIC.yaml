@@ -5,3 +5,5 @@ id_nomics: STMATIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STMATIC.png
 logoKey: currencies/stmatic.png
 name: Lido Staked Matic
+platform: ETH
+platform_contract: '0x9ee91f9f426fa633d227f7a9b000e28b9dfd8599'

@@ -6,3 +6,5 @@ id_nomics: LYM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/lym.png
 logoKey: currencies/lym.png
 name: Lympo
+platform: ETH
+platform_contract: '0xc690f7c7fcffa6a82b79fab7508c466fefdfc8c5'

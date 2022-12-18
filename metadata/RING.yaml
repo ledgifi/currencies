@@ -6,3 +6,5 @@ id_nomics: RING
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RING.jpeg
 logoKey: currencies/ring.jpeg
 name: Darwinia Network Native Token
+platform: ETH
+platform_contract: '0x9469d013805bffb7d3debe5e7839237e535ec483'

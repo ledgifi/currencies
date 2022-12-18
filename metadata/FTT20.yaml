@@ -3,3 +3,5 @@ fiat: false
 id: FTT20
 id_nomics: FTT20
 name: FTT2.0
+platform: ARBETH
+platform_contract: '0x30a0cf19a65a1102230075e495b4dda30ef73945'

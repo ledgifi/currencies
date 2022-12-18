@@ -6,3 +6,5 @@ id_nomics: CMZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CMZ.jpeg
 logoKey: currencies/cmz.jpeg
 name: Comyz Coin
+platform: BNB
+platform_contract: '0x8177d657891ed7b66e9924edab36b449bf7842b6'

@@ -6,3 +6,5 @@ id_nomics: JETS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JETS.jpg
 logoKey: currencies/jets.jpg
 name: JeToken
+platform: BNB
+platform_contract: '0x0f005dfe97c5041e538b7075915b2ee706677c26'

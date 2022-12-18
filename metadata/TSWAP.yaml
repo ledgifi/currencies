@@ -3,3 +3,5 @@ fiat: false
 id: TSWAP
 id_nomics: TSWAP
 name: Tool Swap
+platform: BNB
+platform_contract: '0xe256c8a8ba9b4d385eb0a2430b7ce144eeb94273'

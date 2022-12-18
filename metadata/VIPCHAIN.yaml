@@ -5,3 +5,5 @@ id_nomics: VIPCHAIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VIPCHAIN.png
 logoKey: currencies/vipchain.png
 name: VIPChain
+platform: ETH
+platform_contract: '0xc0d9da090194d62b2027e4009d9123de399ea7bf'

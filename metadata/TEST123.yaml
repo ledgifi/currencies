@@ -3,3 +3,5 @@ fiat: false
 id: TEST123
 id_nomics: TEST123
 name: Test1Token
+platform: SMARTBCH
+platform_contract: '0x7b53fba323c4f4d9d202fb3d429a7bca4501261d'

@@ -5,3 +5,5 @@ id_nomics: START2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/START2.jpg
 logoKey: currencies/start2.jpg
 name: BSCstarter
+platform: BNB
+platform_contract: '0x31d0a7ada4d4c131eb612db48861211f63e57610'

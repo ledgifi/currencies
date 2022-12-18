@@ -5,3 +5,5 @@ id_nomics: CT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CT4.jpg
 logoKey: currencies/ct4.jpg
 name: CLIQ
+platform: ETH
+platform_contract: '0x18f97ef6b2cbac5ca85b375b7093c4a207340d06'

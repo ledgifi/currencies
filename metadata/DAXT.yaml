@@ -6,3 +6,5 @@ id_nomics: DAXT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/daxt.jpg
 logoKey: currencies/daxt.jpg
 name: Digital Asset Exchange Token
+platform: ETH
+platform_contract: '0x61725f3db4004afe014745b21dab1e1677cc328b'

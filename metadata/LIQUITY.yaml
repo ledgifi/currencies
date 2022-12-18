@@ -3,3 +3,5 @@ fiat: false
 id: LIQUITY
 id_nomics: LIQUITY
 name: liquity.org
+platform: ETH
+platform_contract: '0x56a207bd4ec5fb553ee41795d0e1d7b39926cc80'

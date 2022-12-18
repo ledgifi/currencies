@@ -5,3 +5,5 @@ id_nomics: NAWA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NAWA.png
 logoKey: currencies/nawa.png
 name: Narwhale
+platform: ETH
+platform_contract: '0x7d529a5b3c41126760a0fa3c1a9652d8a7a07793'

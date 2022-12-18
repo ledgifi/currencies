@@ -5,3 +5,5 @@ id_nomics: BSCTOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSCTOKEN.jpg
 logoKey: currencies/bsctoken.jpg
 name: BSC Token
+platform: ETH
+platform_contract: '0x577f04d8e049cc9306d4becf25cec6e5c4de214a'

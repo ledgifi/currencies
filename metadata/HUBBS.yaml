@@ -5,3 +5,5 @@ id_nomics: HUBBS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HUBBS.png
 logoKey: currencies/hubbs.png
 name: Myhubb
+platform: ETH
+platform_contract: '0x1e999ee452eafbcfd6b8f038bb6cabbb533dc1b9'

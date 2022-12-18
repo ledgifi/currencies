@@ -5,3 +5,5 @@ id_nomics: GCS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GCS3.png
 logoKey: currencies/gcs3.png
 name: Grecas
+platform: BNB
+platform_contract: '0xa529A7879685B151c0b0b91D51c16aaf1C9450ed'

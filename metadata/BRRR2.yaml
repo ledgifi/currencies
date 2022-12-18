@@ -4,3 +4,5 @@ id: BRRR2
 id_nomics: BRRR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRRR2.PNG
 name: Burrow
+platform: NEAR
+platform_contract: token.burrow.near

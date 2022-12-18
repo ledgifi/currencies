@@ -5,3 +5,5 @@ id_nomics: RRCHAIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RRCHAIN.jpg
 logoKey: currencies/rrchain.jpg
 name: RRChain
+platform: ETH
+platform_contract: '0xb6259685685235c1ef4b8529e7105f00bd42b9f8'

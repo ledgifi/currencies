@@ -6,3 +6,5 @@ id_nomics: DUCK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUCK.jpg
 logoKey: currencies/duck.jpg
 name: Unit Protocol New
+platform: ETH
+platform_contract: '0x92e187a03b6cd19cb6af293ba17f2745fd2357d5'

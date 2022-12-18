@@ -3,3 +3,5 @@ fiat: false
 id: BRLN
 id_nomics: BRLN
 name: Berlin X
+platform: BNB
+platform_contract: '0x7e68f48e749af251ece8567da23f0904a2077816'

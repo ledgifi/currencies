@@ -6,3 +6,5 @@ id_nomics: TAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TAT.jpg
 logoKey: currencies/tat.jpg
 name: Leblock
+platform: ETH
+platform_contract: '0xd6e6a28eb0a72af2336f80e143e7311bc3108b97'

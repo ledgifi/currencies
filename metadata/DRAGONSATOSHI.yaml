@@ -3,3 +3,5 @@ fiat: false
 id: DRAGONSATOSHI
 id_nomics: DRAGONSATOSHI
 name: DragonSatoshi
+platform: ETH
+platform_contract: '0x555727a7aae4e2d6b42f4935380984662afac338'

@@ -3,3 +3,5 @@ fiat: false
 id: SAFELOCK
 id_nomics: SAFELOCK
 name: SafeLock
+platform: BNB
+platform_contract: '0xaa69893c5e5587535624f8ba0bb911f537d9ba39'

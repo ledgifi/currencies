@@ -5,3 +5,5 @@ id_nomics: INVOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INVOX.jpg
 logoKey: currencies/invox.jpg
 name: Invox Finance Token
+platform: ETH
+platform_contract: '0x4485561db76614ff727f8e0a3ea95690b8b16022'

@@ -5,3 +5,5 @@ id_nomics: KANGALINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KANGALINU.png
 logoKey: currencies/kangalinu.png
 name: Kangal Inu
+platform: BNB
+platform_contract: '0x666dfb8ac931ffca98999c5c60e74f6069243d71'

@@ -5,3 +5,5 @@ id_nomics: WAR4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAR4.jpg
 logoKey: currencies/war4.jpg
 name: ArtOfWar
+platform: BNB
+platform_contract: '0x5b475f9344ddd33a6461497e7f9395f4ace2b7ac'

@@ -3,3 +3,5 @@ fiat: false
 id: AUFO
 id_nomics: AUFO
 name: ArbiUFO
+platform: ARBETH
+platform_contract: '0x689df05c0447e70affaa66babf0e6156414c2bc6'

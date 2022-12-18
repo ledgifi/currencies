@@ -3,3 +3,5 @@ fiat: false
 id: YIELDTIME
 id_nomics: YIELDTIME
 name: Yield Time
+platform: ETH
+platform_contract: '0x18578b97873fd2f04486287c3eec9e6aab2b1515'

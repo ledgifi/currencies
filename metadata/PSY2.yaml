@@ -5,3 +5,5 @@ id_nomics: PSY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PSY2.jpg
 logoKey: currencies/psy2.jpg
 name: Psychic
+platform: BNB
+platform_contract: '0x8dbc995946ad745dd77186d1ac10019b8ea6694a'

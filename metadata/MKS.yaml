@@ -6,3 +6,5 @@ id_nomics: MKS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MKS.jpg
 logoKey: currencies/mks.jpg
 name: Makes
+platform: ETH
+platform_contract: '0xcff20ce22e71ecf2ea89c86ecbd4a3cf513768c7'

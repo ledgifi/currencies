@@ -5,3 +5,5 @@ id_nomics: KINU6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KINU6.jpg
 logoKey: currencies/kinu6.jpg
 name: Krillinu
+platform: ETH
+platform_contract: '0x84434746cb43a309d579ad95bf87d42a6d92ea32'

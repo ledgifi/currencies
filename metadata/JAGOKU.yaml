@@ -5,3 +5,5 @@ id_nomics: JAGOKU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JAGOKU.png
 logoKey: currencies/jagoku.png
 name: Jagoku
+platform: BNB
+platform_contract: '0x2788d0dd859174be7c4ab2d6d6d6f79277929328'

@@ -6,3 +6,5 @@ id_nomics: EXY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/exy.jpg
 logoKey: currencies/exy.jpg
 name: Experty
+platform: ETH
+platform_contract: '0x5c743a35e903f6c584514ec617acee0611cf44f3'

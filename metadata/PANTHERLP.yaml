@@ -3,3 +3,5 @@ fiat: false
 id: PANTHERLP
 id_nomics: PANTHERLP
 name: PantherSwap LPs
+platform: BNB
+platform_contract: '0x9287f5ad55d7ee8eae90b865718eb9a7cf3fb71a'

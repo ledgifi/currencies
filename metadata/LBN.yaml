@@ -6,3 +6,5 @@ id_nomics: LBN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LBN.jpg
 logoKey: currencies/lbn.jpg
 name: Lucky Block Network
+platform: ETH
+platform_contract: '0xb9843e5de0f37d1e22c8075e5814e13565fe7c22'

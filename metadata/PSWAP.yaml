@@ -6,3 +6,5 @@ id_nomics: PSWAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PSWAP.jpg
 logoKey: currencies/pswap.jpg
 name: PorkSwap
+platform: BNB
+platform_contract: '0x42539f50c5f8a0c929e7895eb265391f58b22a19'

@@ -3,3 +3,5 @@ fiat: false
 id: NW
 id_nomics: NW
 name: nw
+platform: BNB
+platform_contract: '0x6ec1aa537cb7e8125f8121b6f602c278cc7511ed'

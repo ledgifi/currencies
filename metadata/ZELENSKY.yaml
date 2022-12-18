@@ -3,3 +3,5 @@ fiat: false
 id: ZELENSKY
 id_nomics: ZELENSKY
 name: Zelensky Coin
+platform: ETH
+platform_contract: '0x5edb64e7bd0f2a276a8bdae7c24338bc24dd1765'

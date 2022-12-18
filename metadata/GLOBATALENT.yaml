@@ -5,3 +5,5 @@ id_nomics: GLOBATALENT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GLOBATALENT.png
 logoKey: currencies/globatalent.png
 name: Globatalent
+platform: ETH
+platform_contract: '0xd8bd3958725f216eb236e9dc65b169de48101c6a'

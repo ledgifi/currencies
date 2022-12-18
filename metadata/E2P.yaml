@@ -5,3 +5,5 @@ id_nomics: E2P
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/E2P.jpg
 logoKey: currencies/e2p.jpg
 name: E2P Group
+platform: ETH
+platform_contract: '0xa0b84460a1e78339692c7463009c35f0b9a6ae4c'

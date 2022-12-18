@@ -5,3 +5,5 @@ id_nomics: ABTC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ABTC2.png
 logoKey: currencies/abtc2.png
 name: Advanced Bitcoin
+platform: BNB
+platform_contract: '0x12A7a976FC10779773631C51733Ce7081aE0A0D7'

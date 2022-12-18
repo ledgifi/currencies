@@ -5,3 +5,5 @@ id_nomics: BORK3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BORK3.png
 logoKey: currencies/bork3.png
 name: RipGabe
+platform: ETH
+platform_contract: '0x003625571edc6D3350c09d250BA0Cc7C6be84e74'

@@ -5,3 +5,5 @@ id_nomics: MOONION
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOONION.png
 logoKey: currencies/moonion.png
 name: Moonions
+platform: BNB
+platform_contract: '0x9073b858a7cdf121e6bf8d1367e200e5d0cc0188'

@@ -5,3 +5,5 @@ id_nomics: MARKO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MARKO.jpg
 logoKey: currencies/marko.jpg
 name: marko.finance
+platform: ETH
+platform_contract: '0x577e7f9fa80ab33e87a01b701114257c8d9455a8'

@@ -3,3 +3,5 @@ fiat: false
 id: OSMOSIS
 id_nomics: OSMOSIS
 name: OSMO
+platform: BNB
+platform_contract: '0x530ac387218bae8f3e50e5dfa04983dc2f56cad1'

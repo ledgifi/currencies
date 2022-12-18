@@ -3,3 +3,5 @@ fiat: false
 id: FES2
 id_nomics: FES2
 name: FEStoken
+platform: BNB
+platform_contract: '0x488c56dbfd3a5512cb9d06470adc1361d188ed33'

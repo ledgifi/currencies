@@ -6,3 +6,5 @@ id_nomics: VFOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VFOX.png
 logoKey: currencies/vfox.png
 name: VFOX
+platform: BNB
+platform_contract: '0x4d61577d8fd2208a0afb814ea089fdeae19ed202'

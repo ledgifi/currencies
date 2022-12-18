@@ -5,3 +5,5 @@ id_nomics: TARA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TARA.jpg
 logoKey: currencies/tara.jpg
 name: Taraxa
+platform: ETH
+platform_contract: '0xf001937650bb4f62b57521824b2c20f5b91bea05'

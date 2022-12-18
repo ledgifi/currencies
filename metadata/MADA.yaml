@@ -6,3 +6,5 @@ id_nomics: MADA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MADA.jpg
 logoKey: currencies/mada.jpg
 name: Mini Cardano
+platform: BNB
+platform_contract: '0xf70c14ad93905f39ee3df2d4fb92b87c31d779e0'

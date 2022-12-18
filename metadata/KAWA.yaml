@@ -5,3 +5,5 @@ id_nomics: KAWA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAWA.jpg
 logoKey: currencies/kawa.jpg
 name: Kawakami Inu V1 (OLD)
+platform: ETH
+platform_contract: '0x17a4ae8b1ea75d51ab0f2875b80452f7e34c272a'

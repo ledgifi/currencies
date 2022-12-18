@@ -5,3 +5,5 @@ id_nomics: TRXBEP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRXBEP2.png
 logoKey: currencies/trxbep2.png
 name: Tron (BEP-2)
+platform: BNB
+platform_contract: TRXB-2E6

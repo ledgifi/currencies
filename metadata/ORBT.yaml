@@ -5,3 +5,5 @@ id_nomics: ORBT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORBT.jpg
 logoKey: currencies/orbt.jpg
 name: Orbise10
+platform: ETH
+platform_contract: '0x7c8efa4cdcd3c1c1287dde290d8d96868c294fb6'

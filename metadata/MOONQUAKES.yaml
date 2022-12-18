@@ -3,3 +3,5 @@ fiat: false
 id: MOONQUAKES
 id_nomics: MOONQUAKES
 name: moonquakes
+platform: ETH
+platform_contract: '0xa2823e8527e7e0ce591c48645636f6217167d519'

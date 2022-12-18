@@ -5,3 +5,5 @@ id_nomics: BLOC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bloc.jpg
 logoKey: currencies/bloc.jpg
 name: Blockcloud
+platform: ETH
+platform_contract: '0x6f919d67967a97ea36195a2346d9244e60fe0ddb'

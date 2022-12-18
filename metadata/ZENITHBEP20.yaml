@@ -5,3 +5,5 @@ id_nomics: ZENITHBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZENITHBEP20.png
 logoKey: currencies/zenithbep20.png
 name: Zenith Coin (BEP-20)
+platform: BNB
+platform_contract: '0x57c81885faad67fc4de892102f6fead3b9215f6b'

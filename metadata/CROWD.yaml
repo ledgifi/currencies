@@ -6,3 +6,5 @@ id_nomics: CROWD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CROWD.jpg
 logoKey: currencies/crowd.jpg
 name: Crowdvilla Point
+platform: ETH
+platform_contract: '0x26c0e6f69b18125f68ac55f439b1e10c2a2e5c03'

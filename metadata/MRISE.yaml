@@ -5,3 +5,5 @@ id_nomics: MRISE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MRISE.jpeg
 logoKey: currencies/mrise.jpeg
 name: MetisRise
+platform: METIS
+platform_contract: '0x30ac7259a6718484b0ed67be39e04385a668749d'

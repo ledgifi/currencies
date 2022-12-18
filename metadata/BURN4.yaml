@@ -5,3 +5,5 @@ id_nomics: BURN4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BURN4.jpeg
 logoKey: currencies/burn4.jpeg
 name: FormulaDoge
+platform: BNB
+platform_contract: '0xbcac7d814eecae58b33191c5ca55b67ad40c16ce'

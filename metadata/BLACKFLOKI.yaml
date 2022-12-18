@@ -5,3 +5,5 @@ id_nomics: BLACKFLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLACKFLOKI.jpeg
 logoKey: currencies/blackfloki.jpeg
 name: Black Floki
+platform: BNB
+platform_contract: '0x15f69dd4ec2e42853cb23655fe12545c70ec6dd9'

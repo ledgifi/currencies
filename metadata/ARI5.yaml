@@ -5,3 +5,5 @@ id_nomics: ARI5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARI5.jpg
 logoKey: currencies/ari5.jpg
 name: Manarium
+platform: BNB
+platform_contract: '0xc80a0a55caf6a7bfb4ee22f9380c4077312c4a35'

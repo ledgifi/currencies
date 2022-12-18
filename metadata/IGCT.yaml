@@ -3,3 +3,5 @@ fiat: false
 id: IGCT
 id_nomics: IGCT
 name: IGCT
+platform: MATIC
+platform_contract: '0x0d9948844ed5c8c10537b3342ab9269244c664be'

@@ -6,3 +6,5 @@ id_nomics: AIRT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AIRT.jpg
 logoKey: currencies/airt.jpg
 name: AirNFT Token
+platform: BNB
+platform_contract: '0x016cf83732f1468150d87dcc5bdf67730b3934d3'

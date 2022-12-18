@@ -5,3 +5,5 @@ id_nomics: STETH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STETH2.png
 logoKey: currencies/steth2.png
 name: StakeHound Staked Ether
+platform: ETH
+platform_contract: '0xdfe66b14d37c77f4e9b180ceb433d1b164f0281d'

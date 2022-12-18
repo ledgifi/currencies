@@ -5,3 +5,5 @@ id_nomics: TOCC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOCC.png
 logoKey: currencies/tocc.png
 name: Texas Oil Crypto Currency
+platform: ETH
+platform_contract: '0x71179af0e9d44a8299eb54c8c4eda226e8a93859'

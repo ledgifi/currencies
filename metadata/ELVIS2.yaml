@@ -5,3 +5,5 @@ id_nomics: ELVIS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELVIS2.jpg
 logoKey: currencies/elvis2.jpg
 name: Elvis Presley Coin
+platform: BNB
+platform_contract: '0x00C6f1a2c414CF8E7Aa076A2A181dEEE13a4c94e'

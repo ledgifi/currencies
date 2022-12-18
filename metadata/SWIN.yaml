@@ -5,3 +5,5 @@ id_nomics: SWIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWIN.png
 logoKey: currencies/swin.png
 name: Swinate
+platform: BNB
+platform_contract: '0x8592fb0e6724a90ce45f05f31b85bddd45931560'

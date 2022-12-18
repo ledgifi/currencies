@@ -5,3 +5,5 @@ id_nomics: BNBS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNBS.png
 logoKey: currencies/bnbs.png
 name: BNBs
+platform: RBTC
+platform_contract: '0x6d9659bdf5b1a1da217f7bbaf7dbaf8190e2e71b'

@@ -6,3 +6,5 @@ id_nomics: SANS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SANS.png
 logoKey: currencies/sans.png
 name: Sans Token
+platform: BNB
+platform_contract: '0x37829950fd06497b0915f4c6a0cf49c19eb3f968'

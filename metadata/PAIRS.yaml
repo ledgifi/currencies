@@ -3,3 +3,5 @@ fiat: false
 id: PAIRS
 id_nomics: PAIRS
 name: pairsDAO
+platform: ETH
+platform_contract: '0xce6dd59b110eeb7ce838789a0745acc11cc4cd77'

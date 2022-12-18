@@ -3,3 +3,5 @@ fiat: false
 id: CLASSIC
 id_nomics: CLASSIC
 name: The Man From The 50s
+platform: ETH
+platform_contract: '0x9e178fd53cb15ffd39bcebd3cf01bbb10b61ce5c'

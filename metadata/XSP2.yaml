@@ -5,3 +5,5 @@ id_nomics: XSP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XSP2.png
 logoKey: currencies/xsp2.png
 name: XSwap
+platform: ETH
+platform_contract: '0x9b06d48e0529ecf05905ff52dd426ebec0ea3011'

@@ -5,3 +5,5 @@ id_nomics: DOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOX.jpg
 logoKey: currencies/dox.jpg
 name: Doxxed
+platform: BNB
+platform_contract: '0x30ea7c369b87fe261de28a1eefafe806696a738b'

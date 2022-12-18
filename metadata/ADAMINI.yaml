@@ -5,3 +5,5 @@ id_nomics: ADAMINI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADAMINI.jpg
 logoKey: currencies/adamini.jpg
 name: CardanoMini
+platform: BNB
+platform_contract: '0xd1d52246271ed5a7403c543ceea3344e39a8af29'

@@ -3,3 +3,5 @@ fiat: false
 id: YDAI
 id_nomics: YDAI
 name: yearn Dai Stablecoin
+platform: ETH
+platform_contract: '0xacd43e627e64355f1861cec6d3a6688b31a6f952'

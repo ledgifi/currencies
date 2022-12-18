@@ -5,3 +5,5 @@ id_nomics: SLM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLM2.png
 logoKey: currencies/slm2.png
 name: Solomon Defi
+platform: ETH
+platform_contract: '0x07a0ad7a9dfc3854466f8f29a173bf04bba5686e'

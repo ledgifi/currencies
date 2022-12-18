@@ -6,3 +6,5 @@ id_nomics: WTT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/wtt.jpg
 logoKey: currencies/wtt.jpg
 name: Giga Watt Token
+platform: ETH
+platform_contract: '0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda'

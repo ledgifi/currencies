@@ -6,3 +6,5 @@ id_nomics: REFLECTO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REFLECTO.jpg
 logoKey: currencies/reflecto.jpg
 name: Reflecto
+platform: BNB
+platform_contract: '0xea3c823176d2f6fedc682d3cd9c30115448767b3'

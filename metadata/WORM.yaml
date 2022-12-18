@@ -5,3 +5,5 @@ id_nomics: WORM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WORM.jpg
 logoKey: currencies/worm.jpg
 name: WormFi
+platform: BNB
+platform_contract: '0xaff6a69959314d06f7ed743232144f98701e34d5'

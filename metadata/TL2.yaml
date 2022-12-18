@@ -5,3 +5,5 @@ id_nomics: TL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TL2.jpg
 logoKey: currencies/tl2.jpg
 name: Tango Launchpad Token
+platform: BNB
+platform_contract: '0xa39bf8608022850cf703b3d43421c9c7e0a3aa71'

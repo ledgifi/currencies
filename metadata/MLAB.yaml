@@ -5,3 +5,5 @@ id_nomics: MLAB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MLAB.png
 logoKey: currencies/mlab.png
 name: Moon Labs
+platform: BNB
+platform_contract: '0xe967574fb976804c6bac426dfbbcade5a18fdd9b'

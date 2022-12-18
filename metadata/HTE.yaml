@@ -3,3 +3,5 @@ fiat: false
 id: HTE
 id_nomics: HTE
 name: HoldToEarn
+platform: BNB
+platform_contract: '0x9900671e57f0e7a5cd7367e219a31a34437d6ad3'

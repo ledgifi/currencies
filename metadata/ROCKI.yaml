@@ -5,3 +5,5 @@ id_nomics: ROCKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROCKI.png
 logoKey: currencies/rocki.png
 name: ROCKI
+platform: ETH
+platform_contract: '0xff44b937788215eca197baaf9af69dbdc214aa04'

@@ -3,3 +3,5 @@ fiat: false
 id: FMEX
 id_nomics: FMEX
 name: FMex Token
+platform: ETH
+platform_contract: '0x20c3d4e5c17578250fc4f350f2afee6c6ebea06a'

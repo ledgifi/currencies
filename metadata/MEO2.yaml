@@ -5,3 +5,5 @@ id_nomics: MEO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEO2.jpeg
 logoKey: currencies/meo2.jpeg
 name: Meo.tools
+platform: BNB
+platform_contract: '0x7dff85eeb321957a429fa220ec2664774240b766'

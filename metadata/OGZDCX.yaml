@@ -5,3 +5,5 @@ id_nomics: OGZDCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OGZDCX.jpg
 logoKey: currencies/ogzdcx.jpg
 name: Gazprom PJSC ADR Token
+platform: ETH
+platform_contract: '0xc1e83478bfa1f590a75d3477dbcb995aa2a142dd'

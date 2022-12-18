@@ -3,3 +3,5 @@ fiat: false
 id: LEMUR
 id_nomics: LEMUR
 name: LemurCoin
+platform: BNB
+platform_contract: '0x4a064876892f841eecd0e7f5b1fd562992188179'

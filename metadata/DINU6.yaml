@@ -5,3 +5,5 @@ id_nomics: DINU6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DINU6.jpg
 logoKey: currencies/dinu6.jpg
 name: Dinoge Inu
+platform: BNB
+platform_contract: '0xc6d9fb636860e86db43758560da0dd481444a402'

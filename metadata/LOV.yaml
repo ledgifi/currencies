@@ -5,3 +5,5 @@ id_nomics: LOV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOV.png
 logoKey: currencies/lov.png
 name: LoveChain
+platform: ETH
+platform_contract: '0xe3c864307b5592404431649de541c259497e2bd1'

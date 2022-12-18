@@ -5,3 +5,5 @@ id_nomics: NYETHBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NYETHBEP20.jpg
 logoKey: currencies/nyethbep20.jpg
 name: NYETH (BEP-20)
+platform: BNB
+platform_contract: '0x4Bc932C0e444B3FDf6c6187ae78D33F20383626A'

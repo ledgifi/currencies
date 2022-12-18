@@ -6,3 +6,5 @@ id_nomics: RHOBUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RHOBUSD.jpg
 logoKey: currencies/rhobusd.jpg
 name: rhoBUSD Token
+platform: BNB
+platform_contract: '0x35cdc6bd2d9c4cdd7ddbddb57593c274b31e4601'

@@ -3,3 +3,5 @@ fiat: false
 id: SPETF
 id_nomics: SPETF
 name: S&P ETF
+platform: ARBETH
+platform_contract: '0xfe7dfdc382d73ba8ce868dbcb87ef0a4fb31eadb'

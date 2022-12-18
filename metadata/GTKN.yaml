@@ -3,3 +3,5 @@ fiat: false
 id: GTKN
 id_nomics: GTKN
 name: G-Token
+platform: MATIC
+platform_contract: '0x82037617102f57d0d39008cc5d6efcb03caad3b5'

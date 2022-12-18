@@ -6,3 +6,5 @@ id_nomics: XDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XDOGE.jpg
 logoKey: currencies/xdoge.jpg
 name: XDOGE
+platform: BNB
+platform_contract: '0x4c0415a6e340eccebff58131799c6c4127cc39fa'

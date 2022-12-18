@@ -5,3 +5,5 @@ id_nomics: SNGJ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNGJ.jpg
 logoKey: currencies/sngj.jpg
 name: Singular J
+platform: ETH
+platform_contract: '0x249f71f8d9da86c60f485e021b509a206667a079'

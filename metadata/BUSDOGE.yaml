@@ -3,3 +3,5 @@ fiat: false
 id: BUSDOGE
 id_nomics: BUSDOGE
 name: BUSDoge
+platform: BNB
+platform_contract: '0xe323ef0186a0e88fd5f203a85012b8c9c1063231'

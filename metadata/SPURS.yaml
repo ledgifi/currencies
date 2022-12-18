@@ -3,3 +3,5 @@ fiat: false
 id: SPURS
 id_nomics: SPURS
 name: Spurs
+platform: BNB
+platform_contract: '0x375ec5475f1ee761f629b07f4bdf466ad83ad63d'

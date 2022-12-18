@@ -6,3 +6,5 @@ id_nomics: HFS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HFS.jpg
 logoKey: currencies/hfs.jpg
 name: HolderSwap
+platform: ETH
+platform_contract: '0x578301f78b7269261cea3c968f0643fb1a101e5e'

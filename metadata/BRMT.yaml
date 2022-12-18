@@ -5,3 +5,5 @@ id_nomics: BRMT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRMT.png
 logoKey: currencies/brmt.png
 name: Bremit
+platform: BNB
+platform_contract: '0x9f868632faac944959d6eb0b294bbf7811ac0096'

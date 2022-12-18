@@ -6,3 +6,5 @@ id_nomics: UBU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UBU.png
 logoKey: currencies/ubu.png
 name: UBU
+platform: ETH
+platform_contract: '0x6b74dd5d01f8320081247f5cf1f7a48324700db6'

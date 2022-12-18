@@ -5,3 +5,5 @@ id_nomics: REAL6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REAL6.jpg
 logoKey: currencies/real6.jpg
 name: Real Estate
+platform: MATIC
+platform_contract: '0x2DD9c4E3c07024DcfDe96F3f8F8f0defc30E6D8f'

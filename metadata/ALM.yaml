@@ -5,3 +5,5 @@ id_nomics: ALM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALM.jpg
 logoKey: currencies/alm.jpg
 name: Allium Finance
+platform: BNB
+platform_contract: '0x7ac8a920cf1f7e7cc4f698c9c5cbc1e26f604790'

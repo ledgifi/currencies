@@ -6,3 +6,5 @@ id_nomics: M1B
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/M1B.jpeg
 logoKey: currencies/m1b.jpeg
 name: MyOneBillion
+platform: BNB
+platform_contract: '0x69e1aee7275b7895957f18de5a3dec403045f20a'

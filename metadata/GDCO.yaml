@@ -3,3 +3,5 @@ fiat: false
 id: GDCO
 id_nomics: GDCO
 name: GDCO
+platform: ETH
+platform_contract: '0x87efe7efe26c52508e0ea795ddd9fafd58b618fe'

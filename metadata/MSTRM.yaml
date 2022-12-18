@@ -3,3 +3,5 @@ fiat: false
 id: MSTRM
 id_nomics: MSTRM
 name: Matic-Peg Stream
+platform: MATIC
+platform_contract: '0xe7879bafa6a41f919f145a97207e54839d34c9ba'

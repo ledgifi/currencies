@@ -8,3 +8,5 @@ id_nomics: ORN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORN.png
 logoKey: currencies/orn.png
 name: Orion Protocol
+platform: ETH
+platform_contract: '0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a'

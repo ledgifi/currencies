@@ -3,3 +3,5 @@ fiat: false
 id: PRCT
 id_nomics: PRCT
 name: PRC Token
+platform: BNB
+platform_contract: '0x3a86e0b2bee0bb466c1a7086a6e51b22867d8ff6'

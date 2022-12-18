@@ -5,3 +5,5 @@ id_nomics: HALFSATS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HALFSATS.jpg
 logoKey: currencies/halfsats.jpg
 name: RyoshibaNakamotoINU0.5
+platform: BNB
+platform_contract: '0xc7d28C031e08d2bAe157eaf5AF89CAb2740c107B'

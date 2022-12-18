@@ -5,3 +5,5 @@ id_nomics: ARTS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARTS3.jpeg
 logoKey: currencies/arts3.jpeg
 name: Yes To Art
+platform: BNB
+platform_contract: '0x1d8a422271a4c42a4d8a713495ce0d9a28a5fbe5'

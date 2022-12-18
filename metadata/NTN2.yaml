@@ -5,3 +5,5 @@ id_nomics: NTN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NTN2.jpg
 logoKey: currencies/ntn2.jpg
 name: Notion
+platform: BNB
+platform_contract: '0xd7212d630FF0582Aaf3F55B711Ef9d0f2258caFD'

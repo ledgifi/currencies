@@ -5,3 +5,5 @@ id_nomics: SHEBA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHEBA2.png
 logoKey: currencies/sheba2.png
 name: SHEBA
+platform: BNB
+platform_contract: '0x08762be6631bef12efb750ff276e2e5095957afb'

@@ -3,3 +3,5 @@ fiat: false
 id: CDEFI
 id_nomics: CDEFI
 name: Celo Defi Index
+platform: CELO
+platform_contract: '0xa287a3722c367849efa5c76e96be36efd65c290e'

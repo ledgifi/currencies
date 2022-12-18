@@ -3,3 +3,5 @@ fiat: false
 id: POSSD
 id_nomics: POSSD
 name: Portable Secure Storage Data
+platform: BNB
+platform_contract: '0x5feea07f4afcd26b79644e13c90b04418bd65fa9'

@@ -5,3 +5,5 @@ id_nomics: THIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THIS.png
 logoKey: currencies/this.png
 name: THIS
+platform: BNB
+platform_contract: '0xCFefD691d95B4CD707daBB16e6bEe17b66cf8a39'

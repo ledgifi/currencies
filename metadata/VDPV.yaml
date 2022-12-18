@@ -5,3 +5,5 @@ id_nomics: VDPV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VDPV.jpeg
 logoKey: currencies/vdpv.jpeg
 name: Vadapav
+platform: BNB
+platform_contract: '0x8907f40333f7a2bbc82ed4021e0f71c8ef497ca6'

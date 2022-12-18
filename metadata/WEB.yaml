@@ -6,3 +6,5 @@ id_nomics: WEB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/web.jpg
 logoKey: currencies/web.jpg
 name: Webcoin
+platform: ETH
+platform_contract: '0x840fe75abfadc0f2d54037829571b2782e919ce4'

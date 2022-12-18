@@ -5,3 +5,5 @@ id_nomics: YONKOU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YONKOU.jpg
 logoKey: currencies/yonkou.jpg
 name: Luffy 2.0
+platform: BNB
+platform_contract: '0x7ca7c7819da3fee3cd2e81f67bc839ed4b41f047'

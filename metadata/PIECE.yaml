@@ -5,3 +5,5 @@ id_nomics: PIECE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIECE.jpg
 logoKey: currencies/piece.jpg
 name: The Piece
+platform: FTM
+platform_contract: '0x3c027bf2fdc5fec4fc213fdfc432f647f506fa2b'

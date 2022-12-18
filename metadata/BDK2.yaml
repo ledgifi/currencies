@@ -5,3 +5,5 @@ id_nomics: BDK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BDK2.jpg
 logoKey: currencies/bdk2.jpg
 name: Bidesk
+platform: ETH
+platform_contract: '0xbfc1502ebc37475b940ced8f036b91018a73c8f6'

@@ -5,3 +5,5 @@ id_nomics: HSOV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HSOV.jpg
 logoKey: currencies/hsov.jpg
 name: Hope Soviet
+platform: ETH
+platform_contract: '0x9d83d493688caf9d34f04b3c0d50d197d44abbca'

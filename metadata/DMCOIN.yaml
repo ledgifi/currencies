@@ -3,3 +3,5 @@ fiat: false
 id: DMCOIN
 id_nomics: DMCOIN
 name: DMcoin
+platform: MATIC
+platform_contract: '0xa617b8df080ab4c7c95327efc46d0c45607585fc'

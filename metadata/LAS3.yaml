@@ -5,3 +5,5 @@ id_nomics: LAS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LAS3.jpg
 logoKey: currencies/las3.jpg
 name: Last Ape Standing
+platform: BNB
+platform_contract: '0xeba5ef26c655E25fcbA6778b1D755a8f67bC1387'

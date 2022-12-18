@@ -5,3 +5,5 @@ id_nomics: TST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TST.jpg
 logoKey: currencies/tst.jpg
 name: Thunder Stone
+platform: ETH
+platform_contract: '0x9eeab220e44410c16ac80c12830bc11af7dd5c6e'

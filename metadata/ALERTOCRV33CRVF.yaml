@@ -3,3 +3,5 @@ fiat: false
 id: ALERTOCRV33CRVF
 id_nomics: ALERTOCRV33CRVF
 name: 'Curve.fi Factory USD Metapool: AlertoCrv3'
+platform: MATIC
+platform_contract: '0x3da78d5c0ea557c28b4dc92a6629abb03dc6dc7d'

@@ -3,3 +3,5 @@ fiat: false
 id: SIMMO
 id_nomics: SIMMO
 name: Staked Immortal
+platform: CELO
+platform_contract: '0xf71c475f566273cc549f597872c6432642d96def'

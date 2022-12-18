@@ -5,3 +5,5 @@ id_nomics: AXEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AXEN.jpg
 logoKey: currencies/axen.jpg
 name: Xen (Avalanche)
+platform: AVAX
+platform_contract: '0xc0c5aa69dbe4d6dddfbc89c0957686ec60f24389'

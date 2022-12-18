@@ -5,3 +5,5 @@ id_nomics: CNFI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CNFI2.png
 logoKey: currencies/cnfi2.png
 name: Chainfi
+platform: BNB
+platform_contract: '0x4293c4c9a75d5554da71a5746dd8560453fd3ca7'

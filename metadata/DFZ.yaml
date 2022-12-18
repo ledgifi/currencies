@@ -5,3 +5,5 @@ id_nomics: DFZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DFZ.png
 logoKey: currencies/dfz.png
 name: DeFizer.io
+platform: BNB
+platform_contract: '0xda9600bcd2291dbbbb35f0cec42da9bba83cf0a6'

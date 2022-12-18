@@ -5,3 +5,5 @@ id_nomics: ARBITRAGING
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARBITRAGING.png
 logoKey: currencies/arbitraging.png
 name: ARBITRAGING
+platform: ETH
+platform_contract: '0xafbec4d65bc7b116d85107fd05d912491029bf46'

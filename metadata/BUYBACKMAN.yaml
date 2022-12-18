@@ -3,3 +3,5 @@ fiat: false
 id: BUYBACKMAN
 id_nomics: BUYBACKMAN
 name: BUYBACK MAN
+platform: ETH
+platform_contract: '0x0887138df90b31abd4de95cf565ff70d772e679f'

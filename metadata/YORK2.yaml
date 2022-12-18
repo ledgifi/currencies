@@ -5,3 +5,5 @@ id_nomics: YORK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YORK2.png
 logoKey: currencies/york2.png
 name: York
+platform: BNB
+platform_contract: '0xe9b9d05c8b61f932c73094fa05026283fb4db7fd'

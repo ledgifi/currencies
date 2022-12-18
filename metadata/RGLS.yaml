@@ -5,3 +5,5 @@ id_nomics: RGLS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RGLS.jpg
 logoKey: currencies/rgls.jpg
 name: Regulus Token
+platform: ETH
+platform_contract: '0xc25cb249d4f6b8f2e69f58703f03e76523b081b0'

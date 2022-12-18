@@ -3,3 +3,5 @@ fiat: false
 id: FII
 id_nomics: FII
 name: Freedom is important
+platform: ARBETH
+platform_contract: '0x60f380a00fd65305df1cca2e58e31ff5b703c78d'

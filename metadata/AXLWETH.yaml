@@ -3,3 +3,5 @@ fiat: false
 id: AXLWETH
 id_nomics: AXLWETH
 name: axlWETH
+platform: EVMOS
+platform_contract: '0x50de24b3f0b3136c50fa8a3b8ebc8bd80a269ce5'

@@ -5,3 +5,5 @@ id_nomics: X13
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/X13.png
 logoKey: currencies/x13.png
 name: MetaX
+platform: ETH
+platform_contract: '0xf6c2a37acc8ba45874808837486110dc0afc63c8'

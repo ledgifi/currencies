@@ -5,3 +5,5 @@ id_nomics: TROYERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TROYERC20.png
 logoKey: currencies/troyerc20.png
 name: Troy (ERC-20)
+platform: ETH
+platform_contract: '0x4574562e9310a94f9ca962bd23168d8a06875b1a'

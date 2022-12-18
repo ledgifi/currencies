@@ -5,3 +5,5 @@ id_nomics: GFX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GFX2.jpg
 logoKey: currencies/gfx2.jpg
 name: Golden Forex
+platform: ETH
+platform_contract: '0xca948a2e6648c6fd35a296c3aaa5831fd654b7d9'

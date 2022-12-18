@@ -6,3 +6,5 @@ id_nomics: JBC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JBC.png
 logoKey: currencies/jbc.png
 name: Japan Brand Coin
+platform: ETH
+platform_contract: '0x3635e381c67252405c1c0e550973155832d5e490'

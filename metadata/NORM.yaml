@@ -3,3 +3,5 @@ fiat: false
 id: NORM
 id_nomics: NORM
 name: Normcoin
+platform: BNB
+platform_contract: '0x75cfbc7e636c08d8ae10f71ff54d5f3a02a9f6bd'

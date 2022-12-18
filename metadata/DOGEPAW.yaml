@@ -5,3 +5,5 @@ id_nomics: DOGEPAW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEPAW.jpg
 logoKey: currencies/dogepaw.jpg
 name: DogePaw
+platform: BNB
+platform_contract: '0x522c8101686bd6128c7a53c421b9f600a5cbcf84'

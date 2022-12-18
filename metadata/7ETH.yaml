@@ -3,3 +3,5 @@ fiat: false
 id: 7ETH
 id_nomics: 7ETH
 name: 7% ETH Reflections
+platform: BNB
+platform_contract: '0x1721e092f3995951845f29f3d6a80c20b9719445'

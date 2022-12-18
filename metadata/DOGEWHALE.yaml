@@ -6,3 +6,5 @@ id_nomics: DOGEWHALE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEWHALE.jpg
 logoKey: currencies/dogewhale.jpg
 name: Dogewhale
+platform: BNB
+platform_contract: '0x43adc41cf63666ebb1938b11256f0ea3f16e6932'

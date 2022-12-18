@@ -5,3 +5,5 @@ id_nomics: SHIBGROW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBGROW.jpg
 logoKey: currencies/shibgrow.jpg
 name: SHIBGROW
+platform: BNB
+platform_contract: '0x819854d4d7517b8ebe1f1ecc20b1556e1d9f3fc8'

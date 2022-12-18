@@ -5,3 +5,5 @@ id_nomics: TCAT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCAT2.jpg
 logoKey: currencies/tcat2.jpg
 name: TopCatInu
+platform: ETH
+platform_contract: '0x0e84d86c3745a05d65f8051407249cd1c4970346'

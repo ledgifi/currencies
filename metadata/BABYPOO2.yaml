@@ -5,3 +5,5 @@ id_nomics: BABYPOO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYPOO2.jpeg
 logoKey: currencies/babypoo2.jpeg
 name: BABYPOO
+platform: BNB
+platform_contract: '0x95b47139aee45d6a51fcbaedbfcc9c9e1b12ef0e'

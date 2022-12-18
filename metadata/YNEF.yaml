@@ -5,3 +5,5 @@ id_nomics: YNEF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YNEF.png
 logoKey: currencies/ynef.png
 name: Ynef Coin
+platform: ETH
+platform_contract: '0x1dae0680f6b8059c8945de6a8a93009e054417b4'

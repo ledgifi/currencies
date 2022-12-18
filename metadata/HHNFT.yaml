@@ -6,3 +6,5 @@ id_nomics: HHNFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HHNFT.jpg
 logoKey: currencies/hhnft.jpg
 name: Hodler Heroes NFT
+platform: BNB
+platform_contract: '0x882fd7db274b32dd0361931c406f7cf058bac822'

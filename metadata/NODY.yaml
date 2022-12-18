@@ -3,3 +3,5 @@ fiat: false
 id: NODY
 id_nomics: NODY
 name: NodyToken
+platform: BNB
+platform_contract: '0xfe01c159ecdee4377abfc4cd1827089c47b806ea'

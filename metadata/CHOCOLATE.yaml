@@ -3,3 +3,5 @@ fiat: false
 id: CHOCOLATE
 id_nomics: CHOCOLATE
 name: ChocolateSwap
+platform: BNB
+platform_contract: '0x1f22e84094e84bdcb19866703d211ea7a16090da'

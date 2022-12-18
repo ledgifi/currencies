@@ -5,3 +5,5 @@ id_nomics: MND2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MND2.jpg
 logoKey: currencies/mnd2.jpg
 name: Mound Token
+platform: BNB
+platform_contract: '0x4c97c901b5147f8c1c7ce3c5cf3eb83b44f244fe'

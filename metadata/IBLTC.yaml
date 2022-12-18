@@ -3,3 +3,5 @@ fiat: false
 id: IBLTC
 id_nomics: IBLTC
 name: Litecoin Token WOW Interest Bearing
+platform: BNB
+platform_contract: '0x10e4bd15cbd4febdeb6cf7b3c070be805cfdeaa8'

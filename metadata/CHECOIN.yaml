@@ -6,3 +6,5 @@ id_nomics: CHECOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHECOIN.jpg
 logoKey: currencies/checoin.jpg
 name: CheCoin
+platform: BNB
+platform_contract: '0x54626300818e5c5b44db0fcf45ba4943ca89a9e2'

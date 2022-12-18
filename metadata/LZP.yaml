@@ -5,3 +5,5 @@ id_nomics: LZP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LZP.jpg
 logoKey: currencies/lzp.jpg
 name: LZP
+platform: BNB
+platform_contract: '0x4211959585c8f18b06dab8b5bb0bc825cad4c1de'

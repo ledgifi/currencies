@@ -5,3 +5,5 @@ id_nomics: NHTERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NHTERC20.png
 logoKey: currencies/nhterc20.png
 name: Neighbourhoods (ERC-20)
+platform: ETH
+platform_contract: '0x84342e932797fc62814189f01f0fb05f52519708'

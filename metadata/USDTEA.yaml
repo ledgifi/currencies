@@ -3,3 +3,5 @@ fiat: false
 id: USDTEA
 id_nomics: USDTEA
 name: USDTea
+platform: ETH
+platform_contract: '0xddc61aeb0da4ee68d9b8928fe0f8402885ba3314'

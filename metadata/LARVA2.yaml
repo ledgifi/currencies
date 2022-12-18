@@ -5,3 +5,5 @@ id_nomics: LARVA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LARVA2.png
 logoKey: currencies/larva2.png
 name: LarvaverseSwap
+platform: BNB
+platform_contract: '0xe0b9f896e53f711d3f76685713e8117cecb34d20'

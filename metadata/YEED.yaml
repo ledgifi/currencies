@@ -6,3 +6,5 @@ id_nomics: YEED
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/yeed.jpg
 logoKey: currencies/yeed.jpg
 name: YGGDRASH
+platform: ETH
+platform_contract: '0xca2796f9f61dc7b238aab043971e49c6164df375'

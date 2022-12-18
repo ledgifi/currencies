@@ -5,3 +5,5 @@ id_nomics: PPL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PPL.png
 logoKey: currencies/ppl.png
 name: Qripplex
+platform: ETH
+platform_contract: '0x36dd88a0a0f53c90555087e57f758383978e64b5'

@@ -6,3 +6,5 @@ id_nomics: GCAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GCAKE.png
 logoKey: currencies/gcake.png
 name: Pancake Games
+platform: ETH
+platform_contract: '0x5f944b0c4315cb7c3a846b025ab4045da44abf6c'

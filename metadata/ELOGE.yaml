@@ -5,3 +5,5 @@ id_nomics: ELOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELOGE.jpg
 logoKey: currencies/eloge.jpg
 name: ELOGE
+platform: BNB
+platform_contract: '0x87e1193189c057c8507b80fae08a362d2123efe6'

@@ -6,3 +6,5 @@ id_nomics: NABOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NABOX.png
 logoKey: currencies/nabox.png
 name: Nabox
+platform: ETH
+platform_contract: '0x630bc7dd0abfc2d196289ce09db947dd2cafae7c'

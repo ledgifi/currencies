@@ -3,3 +3,5 @@ fiat: false
 id: ASSETER
 id_nomics: ASSETER
 name: Assethereum
+platform: ETH
+platform_contract: '0xbd9c9f4100bb0fbe83435f0e1a3c2040de5d75fd'

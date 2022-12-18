@@ -6,3 +6,5 @@ id_nomics: V
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/V.png
 logoKey: currencies/v.png
 name: Version
+platform: ETH
+platform_contract: '0x6b4fc67b7866121036b7e36ba202b0c6bab8cd82'

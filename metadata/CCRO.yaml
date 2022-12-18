@@ -3,3 +3,5 @@ fiat: false
 id: CCRO
 id_nomics: CCRO
 name: CrowCROpay
+platform: CRO
+platform_contract: '0x2ed9da8e1c8c125bd0175fea9d85cc334cd3de33'

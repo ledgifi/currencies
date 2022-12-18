@@ -5,3 +5,5 @@ id_nomics: TCS4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCS4.jpg
 logoKey: currencies/tcs4.jpg
 name: TheCryptoStar
+platform: BNB
+platform_contract: '0x43501aD052E817962e406f913BFFAaAFce48574D'

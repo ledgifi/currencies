@@ -6,3 +6,5 @@ id_nomics: HLT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HLT.jpg
 logoKey: currencies/hlt.jpg
 name: Esportbits
+platform: ETH
+platform_contract: '0xa809d363a66c576a2a814cdbfefc107c600a55f0'

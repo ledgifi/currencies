@@ -6,3 +6,5 @@ id_nomics: TGDAO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TGDAO.jpg
 logoKey: currencies/tgdao.jpg
 name: TG DAO
+platform: BNB
+platform_contract: '0x46f275321107d7c49cf80216371abf1a1599c36f'

@@ -5,3 +5,5 @@ id_nomics: MESO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MESO.jpg
 logoKey: currencies/meso.jpg
 name: Meso
+platform: FTM
+platform_contract: '0x4d9361a86d038c8ada3db2457608e2275b3e08d4'

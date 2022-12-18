@@ -5,3 +5,5 @@ id_nomics: KOTDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KOTDOGE.jpg
 logoKey: currencies/kotdoge.jpg
 name: King Of The Doge
+platform: BNB
+platform_contract: '0xdc4bf310b5c685a25031580682568fdb1cd55658'

@@ -3,3 +3,5 @@ fiat: false
 id: WETHONE
 id_nomics: WETHONE
 name: Wrapped EtherOne
+platform: MATIC
+platform_contract: '0xae8c779c1c5d4bfb328259a9b0f2134c1b60287b'

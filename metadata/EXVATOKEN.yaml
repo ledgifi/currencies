@@ -3,3 +3,5 @@ fiat: false
 id: EXVATOKEN
 id_nomics: EXVATOKEN
 name: EXVA Token
+platform: ETH
+platform_contract: '0x8e483b016cb4ba8a0dc17c2ece61a16e480712e1'

@@ -3,3 +3,5 @@ fiat: false
 id: XFTM
 id_nomics: XFTM
 name: Fantasm XFTM
+platform: FTM
+platform_contract: '0xfbd2945d3601f21540ddd85c29c5c3caf108b96f'

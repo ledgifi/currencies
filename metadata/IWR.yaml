@@ -6,3 +6,5 @@ id_nomics: IWR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IWR.jpg
 logoKey: currencies/iwr.jpg
 name: Inu Wars
+platform: BNB
+platform_contract: '0xaf91b59629c40b17c7e88065d5228f5a7161520f'

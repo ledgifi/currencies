@@ -3,3 +3,5 @@ fiat: false
 id: RUBBISH
 id_nomics: RUBBISH
 name: RubbishCoin
+platform: ETH
+platform_contract: '0x64237de2a291be08b77bbd57dd186daecd4c64c0'

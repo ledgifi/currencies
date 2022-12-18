@@ -3,3 +3,5 @@ fiat: false
 id: HNBTEST
 id_nomics: HNBTEST
 name: HNB Token test
+platform: HT
+platform_contract: '0xff9b2bd987b221872dc35a1c4f722fe772699534'

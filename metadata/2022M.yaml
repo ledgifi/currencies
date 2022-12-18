@@ -6,3 +6,5 @@ id_nomics: 2022M
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/2022M.jpg
 logoKey: currencies/2022m.jpg
 name: 2022MOON
+platform: BNB
+platform_contract: '0x047a02a57501a813975b2d347278fdd3df671e86'

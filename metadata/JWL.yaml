@@ -6,3 +6,5 @@ id_nomics: JWL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JWL.jpg
 logoKey: currencies/jwl.jpg
 name: Jewel
+platform: ETH
+platform_contract: '0x8275ebf521dc217aa79c88132017a5bcef001dd9'

@@ -5,3 +5,5 @@ id_nomics: DLTT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DLTT.png
 logoKey: currencies/dltt.png
 name: delightToken
+platform: ETH
+platform_contract: '0x6cb9c5abf310b42893adff0b1f38322eea109c98'

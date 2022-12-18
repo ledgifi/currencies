@@ -5,3 +5,5 @@ id_nomics: FLNS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLNS.jpg
 logoKey: currencies/flns.jpg
 name: Falcons
+platform: BNB
+platform_contract: '0x099e4a42427fb80fd7e746ebab8a61bdfbf10a12'

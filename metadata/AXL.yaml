@@ -6,3 +6,5 @@ id_nomics: AXL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AXL.jpg
 logoKey: currencies/axl.jpg
 name: AXiaL
+platform: ETH
+platform_contract: '0x4fac0ccd9e2ed9fd462d42b66fb81ba9a1f6f25e'

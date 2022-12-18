@@ -3,3 +3,5 @@ fiat: false
 id: ASU
 id_nomics: ASU
 name: ASUBRAND
+platform: BNB
+platform_contract: '0x70d39d757a48db31eac4acc91231d0483b44ccfe'

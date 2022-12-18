@@ -6,3 +6,5 @@ id_nomics: ONSTON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ONSTON.jpg
 logoKey: currencies/onston.jpg
 name: Onston
+platform: ETH
+platform_contract: '0x47b9f01b16e9c9cb99191dca68c9cc5bf6403957'

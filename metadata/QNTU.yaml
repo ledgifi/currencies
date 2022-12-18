@@ -5,3 +5,5 @@ id_nomics: QNTU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/qntu.png
 logoKey: currencies/qntu.png
 name: Quanta Network Utility Token
+platform: ETH
+platform_contract: '0x4234f63b1d202f6c016ca3b6a0d41d7d85f17716'

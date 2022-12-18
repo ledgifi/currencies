@@ -6,3 +6,5 @@ id_nomics: DOV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/dov.jpg
 logoKey: currencies/dov.jpg
 name: DOVU
+platform: ETH
+platform_contract: '0xac3211a5025414af2866ff09c23fc18bc97e79b1'

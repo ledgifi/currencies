@@ -5,3 +5,5 @@ id_nomics: QATAR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QATAR3.png
 logoKey: currencies/qatar3.png
 name: Qatar Inu Token
+platform: ETH
+platform_contract: '0x4e0df4560cedfda5d793f607cefa30383bda7327'

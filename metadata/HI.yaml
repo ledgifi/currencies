@@ -5,3 +5,5 @@ id_nomics: HI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HI.jpg
 logoKey: currencies/hi.jpg
 name: Hi Friends Coin
+platform: ETH
+platform_contract: '0x66e247de1f61da1cc3e2c6e74ac15d1ba741b76f'

@@ -8,3 +8,5 @@ id_nomics: BSW
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220321/ba102abc-1da3-4de8-9edf-86c0923f4d62.png
 logoKey: currencies/bsw.png
 name: Biswap
+platform: BNB
+platform_contract: '0x965f527d9159dce6288a2219db51fc6eef120dd1'

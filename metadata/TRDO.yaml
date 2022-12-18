@@ -5,3 +5,5 @@ id_nomics: TRDO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRDO.jpg
 logoKey: currencies/trdo.jpg
 name: Tronado
+platform: BNB
+platform_contract: '0x0d2af8e1f7dec481d17e87cddb13e870cb0b034b'

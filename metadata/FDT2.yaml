@@ -5,3 +5,5 @@ id_nomics: FDT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FDT2.jpg
 logoKey: currencies/fdt2.jpg
 name: Food Token
+platform: ETH
+platform_contract: '0xb2a01ad9738450f082e5238e43b17fe80781faae'

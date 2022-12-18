@@ -6,3 +6,5 @@ id_nomics: IZI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IZI.png
 logoKey: currencies/izi.png
 name: IZIChain
+platform: ETH
+platform_contract: '0xdf59c8ba19b4d1437d80836b45f1319d9a429eed'

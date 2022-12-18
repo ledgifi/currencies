@@ -5,3 +5,5 @@ id_nomics: CHN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHN2.jpg
 logoKey: currencies/chn2.jpg
 name: Chainer
+platform: BNB
+platform_contract: '0x86b20E23C30Fefefc2aC1b97Aa612Ee355668141'

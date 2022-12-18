@@ -5,3 +5,5 @@ id_nomics: PFI4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PFI4.png
 logoKey: currencies/pfi4.png
 name: PartyFi
+platform: MATIC
+platform_contract: '0xe46b4a950c389e80621d10dfc398e91613c7e25e'

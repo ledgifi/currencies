@@ -5,3 +5,5 @@ id_nomics: MED2U
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MED2U.png
 logoKey: currencies/med2u.png
 name: MED2U
+platform: BNB
+platform_contract: '0x83d809cb8ba2116cbb847b760657087dce1d33ad'

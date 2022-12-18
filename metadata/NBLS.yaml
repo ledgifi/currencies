@@ -3,3 +3,5 @@ fiat: false
 id: NBLS
 id_nomics: NBLS
 name: Noblesscoin
+platform: ETH
+platform_contract: '0x94eb98db969124178189bb765beaa2fd36f1c5a4'

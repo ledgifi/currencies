@@ -5,3 +5,5 @@ id_nomics: AGVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AGVE.png
 logoKey: currencies/agve.png
 name: Agave Token
+platform: XDAI
+platform_contract: '0x3a97704a1b25f08aa230ae53b352e2e72ef52843'

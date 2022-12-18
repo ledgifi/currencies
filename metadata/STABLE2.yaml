@@ -3,3 +3,5 @@ fiat: false
 id: STABLE2
 id_nomics: STABLE2
 name: Keep3r Stable Pool
+platform: ETH
+platform_contract: '0x442c8ebd48239bcd187635e991481f0600454390'

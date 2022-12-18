@@ -5,3 +5,5 @@ id_nomics: JUL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JUL2.jpg
 logoKey: currencies/jul2.jpg
 name: JustLiquidity
+platform: ETH
+platform_contract: '0x5580ab97f226c324c671746a1787524aef42e415'

@@ -6,3 +6,5 @@ id_nomics: SEAMLESS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SEAMLESS.jpg
 logoKey: currencies/seamless.jpg
 name: SeamlessSwap Token
+platform: BNB
+platform_contract: '0x2fc9e0f34d86f65b495de7ee3bb5cbeac7f92b04'

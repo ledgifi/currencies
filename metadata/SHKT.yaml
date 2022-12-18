@@ -3,3 +3,5 @@ fiat: false
 id: SHKT
 id_nomics: SHKT
 name: SHKT Token
+platform: BNB
+platform_contract: '0x9da6f9c41c3d7a36ca6e98953886ded7c5660f82'

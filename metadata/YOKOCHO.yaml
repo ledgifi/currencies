@@ -5,3 +5,5 @@ id_nomics: YOKOCHO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YOKOCHO.jpg
 logoKey: currencies/yokocho.jpg
 name: YOKOCHO COIN
+platform: ETH
+platform_contract: '0xd664fe5b3277f04349c709745cca7eb549a9df0f'

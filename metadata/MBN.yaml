@@ -5,3 +5,5 @@ id_nomics: MBN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MBN.png
 logoKey: currencies/mbn.png
 name: Membrana platform
+platform: ETH
+platform_contract: '0x4eeea7b48b9c3ac8f70a9c932a8b1e8a5cb624c7'

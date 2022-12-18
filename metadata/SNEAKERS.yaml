@@ -5,3 +5,5 @@ id_nomics: SNEAKERS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNEAKERS.png
 logoKey: currencies/sneakers.png
 name: SneakersVerse
+platform: BNB
+platform_contract: '0x8227b5f353a3f79c0f8cae5b6f7a96a649522303'

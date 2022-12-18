@@ -5,3 +5,5 @@ id_nomics: TFS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TFS2.png
 logoKey: currencies/tfs2.png
 name: TFS Token
+platform: ETH
+platform_contract: '0xc2a81eb482cb4677136d8812cc6db6e0cb580883'

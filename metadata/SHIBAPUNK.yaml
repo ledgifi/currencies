@@ -3,3 +3,5 @@ fiat: false
 id: SHIBAPUNK
 id_nomics: SHIBAPUNK
 name: Shiba Punk
+platform: ETH
+platform_contract: '0x31c6df349b5b674aa92ed3e4a454cf796094b94b'

@@ -6,3 +6,5 @@ id_nomics: WHEAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WHEAT.jpg
 logoKey: currencies/wheat.jpg
 name: Wheat Token
+platform: BNB
+platform_contract: '0x3ab63309f85df5d4c3351ff8eacb87980e05da4e'

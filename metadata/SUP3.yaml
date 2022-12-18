@@ -5,3 +5,5 @@ id_nomics: SUP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUP3.png
 logoKey: currencies/sup3.png
 name: StableUP
+platform: BNB
+platform_contract: '0x71d9bd945fe527dab9e203a05b507d8104307b27'

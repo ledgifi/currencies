@@ -6,3 +6,5 @@ id_nomics: PTERIA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PTERIA.jpg
 logoKey: currencies/pteria.jpg
 name: Pteria
+platform: ETH
+platform_contract: '0x02eca910cb3a7d43ebc7e8028652ed5c6b70259b'

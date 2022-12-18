@@ -6,3 +6,5 @@ id_nomics: BUND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUND.jpg
 logoKey: currencies/bund.jpg
 name: Bundles
+platform: ETH
+platform_contract: '0x8d3e855f3f55109d473735ab76f753218400fe96'

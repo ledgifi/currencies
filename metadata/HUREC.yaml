@@ -5,3 +5,5 @@ id_nomics: HUREC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HUREC.png
 logoKey: currencies/hurec.png
 name: HUREC
+platform: BNB
+platform_contract: '0x71034e2e6d183ec504262536f09c22954c997eba'

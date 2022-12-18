@@ -6,3 +6,5 @@ id_nomics: DT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DT.png
 logoKey: currencies/dt.png
 name: Dragon Token
+platform: ETH
+platform_contract: '0x1da015ea4ad2d3e5586e54b9fb0682ca3ca8a17a'

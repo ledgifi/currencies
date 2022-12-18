@@ -4,3 +4,5 @@ id: USDCCFX2
 id_nomics: USDCCFX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDCCFX2.png
 name: USD Coin (Conflux)
+platform: CFX2
+platform_contract: '0x6963efed0ab40f6c3d7bda44a05dcf1437c44372'

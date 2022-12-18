@@ -3,3 +3,5 @@ fiat: false
 id: TXZ
 id_nomics: TXZ
 name: txzmtoken
+platform: HT
+platform_contract: '0x08e7d9e59036b3441df17a21ce8ed648c8406d31'

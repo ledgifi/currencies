@@ -5,3 +5,5 @@ id_nomics: DXF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DXF.png
 logoKey: currencies/dxf.png
 name: Dexfin
+platform: ETH
+platform_contract: '0x15eabb7500e44b7fdb6e4051ca8deca430cf9fb8'

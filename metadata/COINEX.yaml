@@ -3,3 +3,5 @@ fiat: false
 id: COINEX
 id_nomics: COINEX
 name: COINEX
+platform: HT
+platform_contract: '0xff0cf510934f4c111cb49ee0993d768f6178ec9a'

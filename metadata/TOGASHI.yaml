@@ -5,3 +5,5 @@ id_nomics: TOGASHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOGASHI.jpg
 logoKey: currencies/togashi.jpg
 name: Togashi Inu
+platform: ETH
+platform_contract: '0x5daa0cbe290e082dbfd6f595e2e53b678895f322'

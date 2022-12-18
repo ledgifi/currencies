@@ -6,3 +6,5 @@ id_nomics: EWC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EWC.jpg
 logoKey: currencies/ewc.jpg
 name: Erugo World Coin
+platform: ETH
+platform_contract: '0xcd74cf66c43e45abd5703f3642f73d0675d6aff7'

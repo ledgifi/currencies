@@ -5,3 +5,5 @@ id_nomics: BGSP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BGSP.jpeg
 logoKey: currencies/bgsp.jpeg
 name: BigSwap Governance Token
+platform: BNB
+platform_contract: '0xe9f861b22cd5240494ecc14afea02659ec59864f'

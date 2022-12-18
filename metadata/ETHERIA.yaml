@@ -5,3 +5,5 @@ id_nomics: ETHERIA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHERIA.png
 logoKey: currencies/etheria.png
 name: Etheria
+platform: BNB
+platform_contract: '0xd350596935f4a209ba970060e50dfbc1c0f1e3b9'

@@ -6,3 +6,5 @@ id_nomics: BTZC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTZC.jpg
 logoKey: currencies/btzc.jpg
 name: BeatzCoin
+platform: TRX
+platform_contract: '1002413'

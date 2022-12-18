@@ -3,3 +3,5 @@ fiat: false
 id: TTS
 id_nomics: TTS
 name: TT-Swap
+platform: BNB
+platform_contract: '0x923276653fc289daf155e1ff5aa21ef3e4643d94'

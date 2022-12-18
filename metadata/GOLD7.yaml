@@ -5,3 +5,5 @@ id_nomics: GOLD7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOLD7.png
 logoKey: currencies/gold7.png
 name: XBullion
+platform: ETH
+platform_contract: '0x670f9d9a26d3d42030794ff035d35a67aa092ead'

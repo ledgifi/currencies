@@ -6,3 +6,5 @@ id_nomics: JOKER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JOKER.jpg
 logoKey: currencies/joker.jpg
 name: Joker Coin
+platform: BNB
+platform_contract: '0xed554ce4d15d83858f57e9996296fcd742e76e24'

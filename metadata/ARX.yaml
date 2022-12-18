@@ -6,3 +6,5 @@ id_nomics: ARX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARX.jpg
 logoKey: currencies/arx.jpg
 name: ARCS
+platform: ETH
+platform_contract: '0x7d8daff6d70cead12c6f077048552cf89130a2b1'

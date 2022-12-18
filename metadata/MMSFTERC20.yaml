@@ -5,3 +5,5 @@ id_nomics: MMSFTERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MMSFTERC20.png
 logoKey: currencies/mmsfterc20.png
 name: Wrapped Mirror MSFT Token (ERC-20)
+platform: ETH
+platform_contract: '0x41bbedd7286daab5910a1f15d12cbda839852bd7'

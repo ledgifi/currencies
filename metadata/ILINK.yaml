@@ -5,3 +5,5 @@ id_nomics: ILINK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ILINK.png
 logoKey: currencies/ilink.png
 name: iLINK
+platform: ETH
+platform_contract: '0x2d7ac061fc3db53c39fe1607fb8cec1b2c162b01'

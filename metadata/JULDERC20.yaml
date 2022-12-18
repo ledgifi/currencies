@@ -3,3 +3,5 @@ fiat: false
 id: JULDERC20
 id_nomics: JULDERC20
 name: JulSwap (ERC-20)
+platform: ETH
+platform_contract: '0x93effd08e3e5a4b1b40c26137e63876b2501ffa4'

@@ -3,3 +3,5 @@ fiat: false
 id: DECLINE
 id_nomics: DECLINE
 name: DeclineCrypto
+platform: ETH
+platform_contract: '0xb68dc01dd966349c9c3fba165223cbd6930d9ec9'

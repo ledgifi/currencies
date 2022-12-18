@@ -6,3 +6,5 @@ id_nomics: DFS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DFS.png
 logoKey: currencies/dfs.png
 name: Digital Fantasy Sports
+platform: ETH
+platform_contract: '0xcec38306558a31cdbb2a9d6285947c5b44a24f3e'

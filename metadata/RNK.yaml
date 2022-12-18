@@ -5,3 +5,5 @@ id_nomics: RNK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RNK.jpg
 logoKey: currencies/rnk.jpg
 name: Rocket Network
+platform: BNB
+platform_contract: '0x420ab4821839d337dbe5e5e0768f64c892ea35d1'

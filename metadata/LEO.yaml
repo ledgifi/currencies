@@ -6,3 +6,5 @@ id_nomics: LEO
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/leo.svg
 logoKey: currencies/leo.svg
 name: Unus Sed LEO
+platform: ETH
+platform_contract: '0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3'

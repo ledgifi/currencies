@@ -5,3 +5,5 @@ id_nomics: SHIBI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBI2.png
 logoKey: currencies/shibi2.png
 name: ShibZombie
+platform: BNB
+platform_contract: '0xef7bD0d9dadB6ba3e3eA7F5D608D0615F5fAd9A7'

@@ -3,3 +3,5 @@ fiat: false
 id: UFXTEST
 id_nomics: UFXTEST
 name: United Farmers Xtest
+platform: BNB
+platform_contract: '0x119e4c3808cf6c00e9471042f0d8b7b3d090eee8'

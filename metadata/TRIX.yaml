@@ -6,3 +6,5 @@ id_nomics: TRIX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRIX.jpg
 logoKey: currencies/trix.jpg
 name: TriumphX
+platform: ETH
+platform_contract: '0x056354f3ff20743aa4c0da365603871c7000b081'

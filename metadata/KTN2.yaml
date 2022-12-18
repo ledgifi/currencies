@@ -5,3 +5,5 @@ id_nomics: KTN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KTN2.jpg
 logoKey: currencies/ktn2.jpg
 name: Kattana
+platform: ETH
+platform_contract: '0x491e136ff7ff03e6ab097e54734697bb5802fc1c'

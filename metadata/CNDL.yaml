@@ -3,3 +3,5 @@ fiat: false
 id: CNDL
 id_nomics: CNDL
 name: Candle
+platform: ETH
+platform_contract: '0x00f644cb516e53a09d02e5e2c49fc7fc0cfc37a5'

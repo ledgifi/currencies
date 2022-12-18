@@ -6,3 +6,5 @@ id_nomics: GOBBLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOBBLE.jpg
 logoKey: currencies/gobble.jpg
 name: Gobble Token
+platform: ETH
+platform_contract: '0x1ec1b3fffd5072d97b27110a667c35025c96d5c5'

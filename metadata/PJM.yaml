@@ -6,3 +6,5 @@ id_nomics: PJM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PJM.png
 logoKey: currencies/pjm.png
 name: Pajama.Finance
+platform: ETH
+platform_contract: '0x61bc1f530ac6193d73af1e1a6a14cb44b9c3f915'

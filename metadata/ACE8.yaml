@@ -5,3 +5,5 @@ id_nomics: ACE8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACE8.png
 logoKey: currencies/ace8.png
 name: ACEToken
+platform: BNB
+platform_contract: '0xfaaa87943bfca6d97434be3d26c589647fea4375'

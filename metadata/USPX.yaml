@@ -3,3 +3,5 @@ fiat: false
 id: USPX
 id_nomics: USPX
 name: Unicorn SPX Security Token
+platform: ETH
+platform_contract: '0x38d3d9abbdba8305ebb8b72996efe55bf785aed0'

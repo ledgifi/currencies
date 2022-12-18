@@ -3,3 +3,5 @@ fiat: false
 id: BLSH
 id_nomics: BLSH
 name: $BuyLowSellHigh
+platform: BNB
+platform_contract: '0x89342b1ef09e86b34657b2efa3676c8753294f8c'

@@ -5,3 +5,5 @@ id_nomics: MONET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MONET.jpg
 logoKey: currencies/monet.jpg
 name: Monster Network
+platform: BNB
+platform_contract: '0xf876eafeb2e623e943dd65bfda6cd234270b1e4c'

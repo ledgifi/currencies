@@ -3,3 +3,5 @@ fiat: false
 id: YPRC
 id_nomics: YPRC
 name: Yooper Coin
+platform: MATIC
+platform_contract: '0x433edbf014abfb6e751b2ef99a60a8e57c2d790c'

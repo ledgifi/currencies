@@ -3,3 +3,5 @@ fiat: false
 id: WINGMAN
 id_nomics: WINGMAN
 name: Wingman
+platform: ETH
+platform_contract: '0x853094dd11cc7497b01d13554f45e6af0e78341d'

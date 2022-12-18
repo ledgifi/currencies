@@ -5,3 +5,5 @@ id_nomics: PWX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PWX.jpg
 logoKey: currencies/pwx.jpg
 name: Power X
+platform: BNB
+platform_contract: '0xe303bffccdc4333146cdde0ae6b5afc0f42a82e6'

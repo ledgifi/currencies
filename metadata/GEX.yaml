@@ -6,3 +6,5 @@ id_nomics: GEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GEX.jpg
 logoKey: currencies/gex.jpg
 name: Globex
+platform: ETH
+platform_contract: '0x03282f2d7834a97369cad58f888ada19eec46ab6'

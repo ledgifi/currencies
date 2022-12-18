@@ -5,3 +5,5 @@ id_nomics: GENOSV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GENOSV2.jpeg
 logoKey: currencies/genosv2.jpeg
 name: Genos V2
+platform: BNB
+platform_contract: '0x61e44b0d64c265916c078be6b565a957c7621f15'

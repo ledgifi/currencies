@@ -5,3 +5,5 @@ id_nomics: FIT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIT4.jpg
 logoKey: currencies/fit4.jpg
 name: FIT Token
+platform: BNB
+platform_contract: '0xe990b1b75c3c374bb1fbd03faf20b5afb6b525da'

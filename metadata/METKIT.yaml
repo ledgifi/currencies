@@ -3,3 +3,5 @@ fiat: false
 id: METKIT
 id_nomics: METKIT
 name: MetaKitties
+platform: ETH
+platform_contract: '0x44d2d740a5e346a66dd7c7e6919814a44441a64c'

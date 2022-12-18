@@ -3,3 +3,5 @@ fiat: false
 id: USDAO
 id_nomics: USDAO
 name: United States DAO
+platform: ETH
+platform_contract: '0x9a491d887a47854b2c9e952867f28c5badf78e96'

@@ -5,3 +5,5 @@ id_nomics: YFT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFT2.jpg
 logoKey: currencies/yft2.jpg
 name: Toshify.finance
+platform: ETH
+platform_contract: '0x9cd39da8f25ec50cf2ee260e464ac23ea23f6bb0'

@@ -5,3 +5,5 @@ id_nomics: MTO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTO3.jpg
 logoKey: currencies/mto3.jpg
 name: MetaOceans
+platform: BNB
+platform_contract: '0x0c44ea46a537f9fa17b97c680fc65f2db336a1a3'

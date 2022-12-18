@@ -6,3 +6,5 @@ id_nomics: ORIO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORIO.jpg
 logoKey: currencies/orio.jpg
 name: Boorio
+platform: BNB
+platform_contract: '0xa30baba694b8fc3524c46edc5af295f55381dc60'

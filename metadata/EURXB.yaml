@@ -5,3 +5,5 @@ id_nomics: EURXB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EURXB.jpg
 logoKey: currencies/eurxb.jpg
 name: EURxb
+platform: ETH
+platform_contract: '0x0bead9a1bcc1b84d06e3f2df67e3549fd55ab054'

@@ -5,3 +5,5 @@ id_nomics: KSC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KSC3.jpg
 logoKey: currencies/ksc3.jpg
 name: KingSpeed
+platform: BNB
+platform_contract: '0x3ac0f8cecc1fb0ee6c2017a072d52e85b00c6694'

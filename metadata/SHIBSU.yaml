@@ -5,3 +5,5 @@ id_nomics: SHIBSU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBSU.png
 logoKey: currencies/shibsu.png
 name: SubShiba
+platform: BNB
+platform_contract: '0x4973e14a56444b3ec3a85f50c538c9c38911d41d'

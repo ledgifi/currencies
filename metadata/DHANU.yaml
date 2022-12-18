@@ -5,3 +5,5 @@ id_nomics: DHANU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DHANU.png
 logoKey: currencies/dhanu.png
 name: Dhanu
+platform: BNB
+platform_contract: '0x2971BE951341304E225D285518533131Ba28CC89'

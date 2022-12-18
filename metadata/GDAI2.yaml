@@ -3,3 +3,5 @@ fiat: false
 id: GDAI2
 id_nomics: GDAI2
 name: Gravity Bridge DAI
+platform: EVMOS
+platform_contract: '0xd567b3d7b8fe3c79a1ad8da978812cfc4fa05e75'

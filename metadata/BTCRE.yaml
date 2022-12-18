@@ -3,3 +3,5 @@ fiat: false
 id: BTCRE
 id_nomics: BTCRE
 name: BTC Reward
+platform: BNB
+platform_contract: '0xb33f7d961ed68e26630a4b52abb8bee3d5b6f687'

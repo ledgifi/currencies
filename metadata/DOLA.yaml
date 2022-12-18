@@ -5,3 +5,5 @@ id_nomics: DOLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOLA.jpg
 logoKey: currencies/dola.jpg
 name: Dola USD Stablecoin
+platform: ETH
+platform_contract: '0x865377367054516e17014ccded1e7d814edc9ce4'

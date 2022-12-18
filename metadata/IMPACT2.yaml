@@ -5,3 +5,5 @@ id_nomics: IMPACT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IMPACT2.jpg
 logoKey: currencies/impact2.jpg
 name: Gen Impact
+platform: ETH
+platform_contract: '0x845761c72d77982a574fa99cca2c3514d616be70'

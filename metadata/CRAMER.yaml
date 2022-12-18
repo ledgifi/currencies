@@ -3,3 +3,5 @@ fiat: false
 id: CRAMER
 id_nomics: CRAMER
 name: Cramereum
+platform: ETH
+platform_contract: '0x3a7055b5b46976b129dcfab9f73d7fae8ddd54e7'

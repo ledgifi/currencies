@@ -3,3 +3,5 @@ fiat: false
 id: WALLST
 id_nomics: WALLST
 name: Wall St. Crypto Club
+platform: ETH
+platform_contract: '0x788c755f6e6cd24d4339e24d1ec4d810afec44ea'

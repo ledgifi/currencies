@@ -3,3 +3,5 @@ fiat: false
 id: TGOS
 id_nomics: TGOS
 name: Treasure Ghost
+platform: AVAX
+platform_contract: '0x88c48d4397274b795191b38bf96a69114e466fcf'

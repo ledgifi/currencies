@@ -6,3 +6,5 @@ id_nomics: FFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FFT.jpg
 logoKey: currencies/fft.jpg
 name: Futura Finance
+platform: BNB
+platform_contract: '0x183b2c147fe11788b73bc0d6a7e0186aa5464bfa'

@@ -5,3 +5,5 @@ id_nomics: FTS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FTS3.jpg
 logoKey: currencies/fts3.jpg
 name: Fantasy Tales
+platform: BNB
+platform_contract: '0x23662f3f9f35daab7a8d10654b5a4c1f3e57fc7a'

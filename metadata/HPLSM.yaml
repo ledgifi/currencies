@@ -5,3 +5,5 @@ id_nomics: HPLSM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HPLSM.png
 logoKey: currencies/hplsm.png
 name: HypePlasma
+platform: ETH
+platform_contract: '0xf6c3393ad30224d938c16cbdac27792cbcbfcf62'

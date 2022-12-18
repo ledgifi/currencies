@@ -5,3 +5,5 @@ id_nomics: SLDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLDOGE.jpg
 logoKey: currencies/sldoge.jpg
 name: SLDoge
+platform: BNB
+platform_contract: '0x7475a30f545ffcc1b43aa6206116534ac2f54be6'

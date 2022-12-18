@@ -5,3 +5,5 @@ id_nomics: LUCID
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUCID.png
 logoKey: currencies/lucid.png
 name: Lucid
+platform: MATIC
+platform_contract: '0x8a2505e1c5cce5584b9c9950537d729a6ae841e7'

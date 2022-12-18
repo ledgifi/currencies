@@ -6,3 +6,5 @@ id_nomics: STREET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STREET.png
 logoKey: currencies/street.png
 name: Street Money
+platform: BNB
+platform_contract: '0x7599419a804c792239098917e5bb5b75c9071cf3'

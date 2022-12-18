@@ -6,3 +6,5 @@ id_nomics: RAKUC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAKUC.png
 logoKey: currencies/rakuc.png
 name: Raku Coin
+platform: ETH
+platform_contract: '0x714599f7604144a3fe1737c440a70fc0fd6503ea'

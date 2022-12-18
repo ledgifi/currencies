@@ -5,3 +5,5 @@ id_nomics: ACOIN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACOIN3.jpg
 logoKey: currencies/acoin3.jpg
 name: Aladdin Coins
+platform: ETH
+platform_contract: '0x9741eaa28c446e87ec859ad871f85ac9b62a983c'

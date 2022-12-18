@@ -5,3 +5,5 @@ id_nomics: VEX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VEX2.jpg
 logoKey: currencies/vex2.jpg
 name: Velorex
+platform: BNB
+platform_contract: '0x7996cf3fbc0655131bd5a6d66e1ae2720f1de45e'

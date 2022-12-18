@@ -5,3 +5,5 @@ id_nomics: MUXE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MUXE.png
 logoKey: currencies/muxe.png
 name: MUXE
+platform: ETH
+platform_contract: '0x515669d308f887fd83a471c7764f5d084886d34d'

@@ -5,3 +5,5 @@ id_nomics: MLIV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MLIV.jpeg
 logoKey: currencies/mliv.jpeg
 name: Metalimoverse
+platform: BNB
+platform_contract: '0xB00a6a2e2d06B626bF044911dE8E4ba5D5015573'

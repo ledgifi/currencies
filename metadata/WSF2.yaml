@@ -5,3 +5,5 @@ id_nomics: WSF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WSF2.png
 logoKey: currencies/wsf2.png
 name: WSF
+platform: BNB
+platform_contract: '0x71F9033EcbaD23737c298e654303F76FEe57AFfF'

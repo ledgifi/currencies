@@ -6,3 +6,5 @@ id_nomics: BOMB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOMB.png
 logoKey: currencies/bomb.png
 name: BOMB
+platform: ETH
+platform_contract: '0x1c95b093d6c236d3ef7c796fe33f9cc6b8606714'

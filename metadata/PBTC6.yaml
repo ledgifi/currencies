@@ -5,3 +5,5 @@ id_nomics: PBTC6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PBTC6.jpg
 logoKey: currencies/pbtc6.jpg
 name: PolyBTC
+platform: BNB
+platform_contract: '0x434f30874b8Bf94cab10771E60F96F2De539317b'

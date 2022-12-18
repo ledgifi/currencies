@@ -5,3 +5,5 @@ id_nomics: BTH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTH2.png
 logoKey: currencies/bth2.png
 name: Beethoven Finance
+platform: ETH
+platform_contract: '0x265cd209a1ce46ad5a7fc5e51b2831290578996a'

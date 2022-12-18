@@ -3,3 +3,5 @@ fiat: false
 id: CDAO
 id_nomics: CDAO
 name: ConverterDAO
+platform: ETH
+platform_contract: '0x02d9a1b83d18102b80c9c959b00e9c7a26e2afa0'

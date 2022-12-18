@@ -5,3 +5,5 @@ id_nomics: FUEL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FUEL2.jpg
 logoKey: currencies/fuel2.jpg
 name: Fuel Token
+platform: BNB
+platform_contract: '0x2090c8295769791ab7a3cf1cc6e0aa19f35e441a'

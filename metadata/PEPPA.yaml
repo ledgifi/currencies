@@ -6,3 +6,5 @@ id_nomics: PEPPA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEPPA.png
 logoKey: currencies/peppa.png
 name: Peppa Network
+platform: BNB
+platform_contract: '0x6d34f621d2a1812434ce7af6e04a344bfce9b47e'

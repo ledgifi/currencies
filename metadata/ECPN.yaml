@@ -6,3 +6,5 @@ id_nomics: ECPN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECPN.png
 logoKey: currencies/ecpn.png
 name: ECPN Token
+platform: ETH
+platform_contract: '0xb55732a15b3dc5d6e8d4adf40634f37470da71fa'

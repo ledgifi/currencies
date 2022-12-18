@@ -3,3 +3,5 @@ fiat: false
 id: CANDIES
 id_nomics: CANDIES
 name: Candyverse Coin
+platform: ETH
+platform_contract: '0x631e80d75c51ebf15f4dd4269ad2968c5f16ec75'

@@ -3,3 +3,5 @@ fiat: false
 id: PGOLD2
 id_nomics: PGOLD2
 name: Pyrrhos Gold Token
+platform: ETH
+platform_contract: '0xf02dab52205aff6bb3d47cc7b21624a5064f9fba'

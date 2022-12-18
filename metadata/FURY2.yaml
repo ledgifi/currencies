@@ -5,3 +5,5 @@ id_nomics: FURY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FURY2.png
 logoKey: currencies/fury2.png
 name: FURY
+platform: FTM
+platform_contract: '0xf5e0491d55e64034721102100cd82153323ae841'

@@ -5,3 +5,5 @@ id_nomics: DWC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DWC.jpg
 logoKey: currencies/dwc.jpg
 name: Digital Wallet
+platform: ETH
+platform_contract: '0xc626c9e2247c8a0c863ad6daa97ed939e12786de'

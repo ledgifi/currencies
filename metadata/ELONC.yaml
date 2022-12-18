@@ -3,3 +3,5 @@ fiat: false
 id: ELONC
 id_nomics: ELONC
 name: Elon Currency
+platform: ETH
+platform_contract: '0x17d62299283a3734789d8e9c2be5ee709def8e6b'

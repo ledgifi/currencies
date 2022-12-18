@@ -5,3 +5,5 @@ id_nomics: DWT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DWT2.png
 logoKey: currencies/dwt2.png
 name: DiveWallet Token
+platform: BNB
+platform_contract: '0x4b7d697635e6b9965d13e0655f538149de425f4e'

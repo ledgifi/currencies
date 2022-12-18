@@ -5,3 +5,5 @@ id_nomics: POI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POI.png
 logoKey: currencies/poi.png
 name: Poicoin
+platform: ETH
+platform_contract: '0x2326166addeda51301960c4fd888c22a8f9d6f6e'

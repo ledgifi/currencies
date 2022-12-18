@@ -3,3 +3,5 @@ fiat: false
 id: HETH
 id_nomics: HETH
 name: Ethash
+platform: ETH
+platform_contract: '0x90F08Cc8ddc43f5C01224F67fDf4640995139e8F'

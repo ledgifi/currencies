@@ -5,3 +5,5 @@ id_nomics: URL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/URL.jpeg
 logoKey: currencies/url.jpeg
 name: Shorturl Token
+platform: BNB
+platform_contract: '0x38d51e4f13232137eae2a6e89a3860dd6e52744b'

@@ -5,3 +5,5 @@ id_nomics: REALTOKEN16200FULLERTON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REALTOKEN16200FULLERTON.jpg
 logoKey: currencies/realtoken16200fullerton.jpg
 name: RealToken16200 Fullerton Avenue Detroit MI
+platform: ETH
+platform_contract: '0x22c8ecf727c23422f47093b562ec53c139805301'

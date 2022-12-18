@@ -6,3 +6,5 @@ id_nomics: APIDAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APIDAI.jpg
 logoKey: currencies/apidai.jpg
 name: Apidai Network
+platform: BNB
+platform_contract: '0x1dbea177ced3dfaedc37223916ed6d7b05bf3247'

@@ -5,3 +5,5 @@ id_nomics: REBL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REBL2.jpg
 logoKey: currencies/rebl2.jpg
 name: Rebellion Protocol
+platform: BNB
+platform_contract: '0xbb8b7e9a870fbc22ce4b543fc3a43445fbf9097f'

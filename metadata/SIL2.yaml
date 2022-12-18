@@ -5,3 +5,5 @@ id_nomics: SIL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIL2.jpg
 logoKey: currencies/sil2.jpg
 name: SIL Finance Token V2
+platform: BNB
+platform_contract: '0x133bb423d9248a336d2b3086b8f44a7dbff3a13c'

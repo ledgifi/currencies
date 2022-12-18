@@ -5,3 +5,5 @@ id_nomics: ETM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETM.jpg
 logoKey: currencies/etm.jpg
 name: Ethereum Mobile
+platform: ETH
+platform_contract: '0xceedf087d386109ff18dd38b0684efb0355a13e8'

@@ -5,3 +5,5 @@ id_nomics: BCATS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCATS.jpeg
 logoKey: currencies/bcats.jpeg
 name: Baby Catcoin
+platform: BNB
+platform_contract: '0x9505757dba2ea2be5234cc17c7fced087630c5e9'

@@ -3,3 +3,5 @@ fiat: false
 id: SPHOGE
 id_nomics: SPHOGE
 name: Sphoge
+platform: ETH
+platform_contract: '0x44b5c249eb99cad9de39c9876efcc36e114f65bc'

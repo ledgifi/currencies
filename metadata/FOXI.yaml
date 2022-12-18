@@ -5,3 +5,5 @@ id_nomics: FOXI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOXI.jpg
 logoKey: currencies/foxi.jpg
 name: FoxShiba
+platform: BNB
+platform_contract: '0x55d3cb2f8e7c9edeeb0cf8ddb478d30146f2247e'

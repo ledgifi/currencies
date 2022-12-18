@@ -5,3 +5,5 @@ id_nomics: TAR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TAR3.jpg
 logoKey: currencies/tar3.jpg
 name: Tartarus
+platform: ETH
+platform_contract: '0xc567bca531992352166252ea5121e535432e81ed'

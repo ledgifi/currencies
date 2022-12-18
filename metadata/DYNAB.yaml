@@ -5,3 +5,5 @@ id_nomics: DYNAB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DYNAB.jpg
 logoKey: currencies/dynab.jpg
 name: Dynable Network
+platform: BNB
+platform_contract: '0x10747f2b7f14871ffbebfac74ebae657a2c118b4'

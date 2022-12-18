@@ -5,3 +5,5 @@ id_nomics: PRI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRI2.jpg
 logoKey: currencies/pri2.jpg
 name: PRI
+platform: BNB
+platform_contract: '0xb10be3f4c7e1f870d86ed6cfd412fed6615feb6f'

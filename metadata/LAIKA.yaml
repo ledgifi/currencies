@@ -5,3 +5,5 @@ id_nomics: LAIKA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LAIKA.jpg
 logoKey: currencies/laika.jpg
 name: LaikaCoin
+platform: BNB
+platform_contract: '0x270877fbdadd2e28c7eaf08e528691b95684207e'

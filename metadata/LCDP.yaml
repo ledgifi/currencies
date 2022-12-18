@@ -5,3 +5,5 @@ id_nomics: LCDP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LCDP.jpg
 logoKey: currencies/lcdp.jpg
 name: La Casa de Papel Token
+platform: BNB
+platform_contract: '0x1e19f5f52527700186339da4409bb19fbc622f2c'

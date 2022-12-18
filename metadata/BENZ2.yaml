@@ -3,3 +3,5 @@ fiat: false
 id: BENZ2
 id_nomics: BENZ2
 name: BenzToken
+platform: HT
+platform_contract: '0x4d6b5d913b3076ad9f7aa01bbd0ae53a8c046971'

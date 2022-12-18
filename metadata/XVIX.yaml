@@ -5,3 +5,5 @@ id_nomics: XVIX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XVIX.jpg
 logoKey: currencies/xvix.jpg
 name: XVIX
+platform: ETH
+platform_contract: '0x4bae380b5d762d543d426331b8437926443ae9ec'

@@ -5,3 +5,5 @@ id_nomics: HON3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HON3.png
 logoKey: currencies/hon3.png
 name: HonSocial
+platform: BNB
+platform_contract: '0xe37212f6a57bfa20e933d18d26d5b4f40729dac0'

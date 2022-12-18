@@ -5,3 +5,5 @@ id_nomics: AIDTOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AIDTOKEN.png
 logoKey: currencies/aidtoken.png
 name: AIDTOKEN
+platform: BNB
+platform_contract: '0x80ef6C9C91c8f150098C5b0763d0A40D46fB3B3e'

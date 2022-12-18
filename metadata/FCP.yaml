@@ -6,3 +6,5 @@ id_nomics: FCP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FCP.jpg
 logoKey: currencies/fcp.jpg
 name: Filipcoin
+platform: BNB
+platform_contract: '0x155e8a74dac3d8560ddabbc26aa064b764535193'

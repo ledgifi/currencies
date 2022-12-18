@@ -3,3 +3,5 @@ fiat: false
 id: HYDRA20
 id_nomics: HYDRA20
 name: HYDRA 2.0
+platform: ETH
+platform_contract: '0x685fe55d9f555be8f7418e903b4902c0732cbf53'

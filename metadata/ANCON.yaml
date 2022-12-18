@@ -6,3 +6,5 @@ id_nomics: ANCON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANCON.png
 logoKey: currencies/ancon.png
 name: Ancon Token
+platform: BNB
+platform_contract: '0x217f3bdbb0358082c99e1de01c47d1b2dba45ad5'

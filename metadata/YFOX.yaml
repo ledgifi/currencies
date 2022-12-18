@@ -6,3 +6,5 @@ id_nomics: YFOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFOX.jpeg
 logoKey: currencies/yfox.jpeg
 name: YFOX Finance
+platform: ETH
+platform_contract: '0x706cb9e741cbfee00ad5b3f5acc8bd44d1644a74'

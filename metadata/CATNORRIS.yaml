@@ -5,3 +5,5 @@ id_nomics: CATNORRIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CATNORRIS.jpg
 logoKey: currencies/catnorris.jpg
 name: CatNorris Revenge
+platform: ETH
+platform_contract: '0x920fbc929bb5940fc44dd722577d542caa0cd6d8'

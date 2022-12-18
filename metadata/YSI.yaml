@@ -6,3 +6,5 @@ id_nomics: YSI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YSI.jpg
 logoKey: currencies/ysi.jpg
 name: Yorkshire Inu
+platform: ETH
+platform_contract: '0x2ffe0301d2c0f9b99deb3afcd24dc2766ffca33d'

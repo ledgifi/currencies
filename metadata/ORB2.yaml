@@ -3,3 +3,5 @@ fiat: false
 id: ORB2
 id_nomics: ORB2
 name: OrbitalStarship
+platform: ETH
+platform_contract: '0x9eebe53ee1becec953ae0337dec64a4d4beee8a6'

@@ -5,3 +5,5 @@ id_nomics: CRYPTOM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRYPTOM.jpg
 logoKey: currencies/cryptom.jpg
 name: Crypto Messiah
+platform: BNB
+platform_contract: '0x06da2b784c54e67f02feed9ded7092057e41f0fa'

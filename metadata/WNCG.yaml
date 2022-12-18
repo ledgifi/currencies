@@ -6,3 +6,5 @@ id_nomics: WNCG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WNCG.png
 logoKey: currencies/wncg.png
 name: Wrapped NCG
+platform: ETH
+platform_contract: '0xf203ca1769ca8e9e8fe1da9d147db68b6c919817'

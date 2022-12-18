@@ -6,3 +6,5 @@ id_nomics: BUY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUY.png
 logoKey: currencies/buy.png
 name: Burency
+platform: ETH
+platform_contract: '0x31fdd1c6607f47c14a2821f599211c67ac20fa96'

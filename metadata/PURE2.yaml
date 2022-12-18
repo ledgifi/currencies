@@ -5,3 +5,5 @@ id_nomics: PURE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PURE2.jpg
 logoKey: currencies/pure2.jpg
 name: Puriever
+platform: ETH
+platform_contract: '0x2904b9b16652d7d0408eccfa23a19d4a3358230f'

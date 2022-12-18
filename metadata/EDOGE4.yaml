@@ -3,3 +3,5 @@ fiat: false
 id: EDOGE4
 id_nomics: EDOGE4
 name: Etherium DOGE
+platform: ETH
+platform_contract: '0x5906fa068db26d433914e343d4889e3c79cbaaf3'

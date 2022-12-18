@@ -3,3 +3,5 @@ fiat: false
 id: CHATGPT
 id_nomics: CHATGPT
 name: ChatGPT
+platform: ARBETH
+platform_contract: '0x3194dbaded0b6eb735a667b4fad451ac5ed906a3'

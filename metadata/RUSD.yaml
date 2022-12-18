@@ -6,3 +6,5 @@ id_nomics: RUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RUSD.jpg
 logoKey: currencies/rusd.jpg
 name: rUSD
+platform: BNB
+platform_contract: '0x07663837218a003e66310a01596af4bf4e44623d'

@@ -5,3 +5,5 @@ id_nomics: BEAR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEAR2.png
 logoKey: currencies/bear2.png
 name: arcane bear
+platform: ETH
+platform_contract: '0xaf162491c0b21900c01f4cc0f7110238aacdebe7'

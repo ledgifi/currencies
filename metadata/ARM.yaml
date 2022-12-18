@@ -6,3 +6,5 @@ id_nomics: ARM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARM.jpg
 logoKey: currencies/arm.jpg
 name: Armours
+platform: ETH
+platform_contract: '0xa9ff725189fe00da9c5f27a580dc67fea61e3fb2'

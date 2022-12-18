@@ -5,3 +5,5 @@ id_nomics: WOJAK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOJAK.png
 logoKey: currencies/wojak.png
 name: Wojak
+platform: BCH
+platform_contract: '0x8d7ea0ec6cab515463121a3c70df541f2f534909'

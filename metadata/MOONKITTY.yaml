@@ -5,3 +5,5 @@ id_nomics: MOONKITTY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOONKITTY.jpg
 logoKey: currencies/moonkitty.jpg
 name: MoonKitty
+platform: BNB
+platform_contract: '0xb54ea77647207f0ea1f60d4c14f838662264ef65'

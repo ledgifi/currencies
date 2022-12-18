@@ -3,3 +3,5 @@ fiat: false
 id: SATELLITE
 id_nomics: SATELLITE
 name: SATELLITE
+platform: ETH
+platform_contract: '0x5df8c06e82efcf2f221da16ac5467bcd586f7818'

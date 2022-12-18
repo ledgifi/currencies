@@ -6,3 +6,5 @@ id_nomics: TKREV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TKREV.jpg
 logoKey: currencies/tkrev.jpg
 name: Token Revolution
+platform: BNB
+platform_contract: '0xc3b613982460ebd50571799ce91623e7ab7c8803'

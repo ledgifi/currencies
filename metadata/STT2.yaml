@@ -5,3 +5,5 @@ id_nomics: STT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STT2.jpg
 logoKey: currencies/stt2.jpg
 name: Scatter.cx
+platform: ETH
+platform_contract: '0xac9bb427953ac7fddc562adca86cf42d988047fd'

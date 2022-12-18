@@ -3,3 +3,5 @@ fiat: false
 id: FPAD
 id_nomics: FPAD
 name: FantomPAD
+platform: ETH
+platform_contract: '0x62f72c7ed1e74a2ec901b1e9b4c6c1fe4a21ab00'

@@ -5,3 +5,5 @@ id_nomics: IETC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IETC.jpg
 logoKey: currencies/ietc2.jpg
 name: iETC
+platform: ETC
+platform_contract: '0xd50c1746d835d2770dda3703b69187bffeb14126'

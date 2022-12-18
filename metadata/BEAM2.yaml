@@ -5,3 +5,5 @@ id_nomics: BEAM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEAM2.jpg
 logoKey: currencies/beam2.jpg
 name: Light Beams
+platform: ETH
+platform_contract: '0xcd9b72f6e971026ea8609d2918c7bd02e1653945'

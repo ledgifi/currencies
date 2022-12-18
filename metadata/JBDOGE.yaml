@@ -3,3 +3,5 @@ fiat: false
 id: JBDOGE
 id_nomics: JBDOGE
 name: jbdoge
+platform: BNB
+platform_contract: '0x872ecf2036badad11fbb89c34fd7f170d5145a73'

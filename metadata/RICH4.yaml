@@ -5,3 +5,5 @@ id_nomics: RICH4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RICH4.jpg
 logoKey: currencies/rich4.jpg
 name: Rich Maker
+platform: BNB
+platform_contract: '0x0d94335595ae842890bec091ef8c47d62f545d99'

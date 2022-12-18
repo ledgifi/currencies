@@ -5,3 +5,5 @@ id_nomics: LHSHOE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LHSHOE.jpeg
 logoKey: currencies/lhshoe.jpeg
 name: Lucky Horseshoe
+platform: BNB
+platform_contract: '0x338e19ec5cc9430f09c962f3ff369a0cc0fcda7b'

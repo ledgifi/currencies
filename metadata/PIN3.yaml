@@ -5,3 +5,5 @@ id_nomics: PIN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIN3.png
 logoKey: currencies/pin3.png
 name: Pay It Now
+platform: BNB
+platform_contract: '0x5e8f6244a57f4f6c47daafc14aa0723d2a9f594c'

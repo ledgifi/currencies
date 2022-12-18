@@ -5,3 +5,5 @@ id_nomics: THREE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THREE.jpg
 logoKey: currencies/three.jpg
 name: 3 Comma Club
+platform: ETH
+platform_contract: '0x14fd3063dfd3ce0a2c4c5ee43ab49988a989202c'

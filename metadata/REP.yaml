@@ -8,3 +8,5 @@ id_nomics: REP
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/rep.svg
 logoKey: currencies/rep.svg
 name: Augur v2
+platform: ETH
+platform_contract: '0x221657776846890989a759ba2973e427dff5c9bb'

@@ -5,3 +5,5 @@ id_nomics: DOLLY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOLLY.jpg
 logoKey: currencies/dolly.jpg
 name: Dolly Stable Coin
+platform: BNB
+platform_contract: '0xff54da7caf3bc3d34664891fc8f3c9b6dea6c7a5'

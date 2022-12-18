@@ -3,3 +3,5 @@ fiat: false
 id: SVNT
 id_nomics: SVNT
 name: sVNT Token
+platform: SMARTBCH
+platform_contract: '0x8f66c730e383bb412a9a3cb58178bab2f432d194'

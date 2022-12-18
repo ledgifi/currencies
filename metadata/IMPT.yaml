@@ -5,3 +5,5 @@ id_nomics: IMPT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IMPT.jpg
 logoKey: currencies/impt.jpg
 name: IMMOPET Token
+platform: ETH
+platform_contract: '0x73Da6c5f616EB9d8A3B3a4bb920365eDEf8AF4E4'

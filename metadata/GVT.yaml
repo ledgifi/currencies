@@ -8,3 +8,5 @@ id_nomics: GVT
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/gvt.svg
 logoKey: currencies/gvt.svg
 name: Genesis Vision
+platform: ETH
+platform_contract: '0x103c3a209da59d3e7c4a89307e66521e081cfdf0'

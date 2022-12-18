@@ -5,3 +5,5 @@ id_nomics: MDF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MDF2.png
 logoKey: currencies/mdf2.png
 name: MatrixETF
+platform: ETH
+platform_contract: '0x1a57367c6194199e5d9aea1ce027431682dfb411'

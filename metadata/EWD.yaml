@@ -5,3 +5,5 @@ id_nomics: EWD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EWD.png
 logoKey: currencies/ewd.png
 name: EnergyWeb DOGE
+platform: EWT
+platform_contract: '0x16e13C4cCcC031a0D7BAa34bcB39Aaf65b3C1891'

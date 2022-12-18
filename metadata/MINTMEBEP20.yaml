@@ -4,3 +4,5 @@ id: MINTMEBEP20
 id_nomics: MINTMEBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINTMEBEP20.jpg
 name: MintMe.com Coin (BEP-20)
+platform: BNB
+platform_contract: '0x138218c8e064ED2A011c9ff203759A8A1E23e6C8'

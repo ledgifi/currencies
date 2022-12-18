@@ -3,3 +3,5 @@ fiat: false
 id: WEGC
 id_nomics: WEGC
 name: Wrapped EverGreenCoin
+platform: BNB
+platform_contract: '0xb3a2f1814ed0e68c9e6b4ef4b67acb78f4e60c0a'

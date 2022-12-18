@@ -5,3 +5,5 @@ id_nomics: KINGS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KINGS2.png
 logoKey: currencies/kings2.png
 name: Kings Coin
+platform: ETH
+platform_contract: '0xa1b26b9918b350e9657d9ab43a45088805d65e4e'

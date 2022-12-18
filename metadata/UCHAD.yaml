@@ -6,3 +6,5 @@ id_nomics: UCHAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UCHAD.jpg
 logoKey: currencies/uchad.jpg
 name: UltraChad
+platform: BNB
+platform_contract: '0x17e7668dbcaae71b8965cd44785d070bd4e129cf'

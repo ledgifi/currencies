@@ -5,3 +5,5 @@ id_nomics: MONI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MONI.jpg
 logoKey: currencies/moni.jpg
 name: Monsta Infinite
+platform: BNB
+platform_contract: '0x9573c88ae3e37508f87649f87c4dd5373c9f31e0'

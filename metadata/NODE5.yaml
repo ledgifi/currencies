@@ -5,3 +5,5 @@ id_nomics: NODE5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NODE5.png
 logoKey: currencies/node5.png
 name: Nodehash
+platform: BNB
+platform_contract: '0xE2796c5F4b491CB59296EeC758a8eFa4EE6f75EC'

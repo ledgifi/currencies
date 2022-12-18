@@ -5,3 +5,5 @@ id_nomics: ONEX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ONEX3.png
 logoKey: currencies/onex3.png
 name: One Tech
+platform: BNB
+platform_contract: '0x261633eb63cfd72df9bb4f5865fff49a8420bfc0'

@@ -5,3 +5,5 @@ id_nomics: DFK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DFK2.png
 logoKey: currencies/dfk2.png
 name: Defi Kings
+platform: BNB
+platform_contract: '0x8956692426786f16cf96922181553ef2d308de5c'

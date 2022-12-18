@@ -5,3 +5,5 @@ id_nomics: WAVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAVE.jpg
 logoKey: currencies/wave.jpg
 name: polyWAVE
+platform: MATIC
+platform_contract: '0x4de7fea447b837d7e77848a4b6c0662a64a84e14'

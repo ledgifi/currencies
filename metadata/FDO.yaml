@@ -6,3 +6,5 @@ id_nomics: FDO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FDO.jpg
 logoKey: currencies/fdo.jpg
 name: Firdaos
+platform: ETH
+platform_contract: '0x361887c1d1b73557018c47c8001711168128cf69'

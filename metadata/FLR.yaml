@@ -5,3 +5,5 @@ id_nomics: FLR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLR.jpg
 logoKey: currencies/flr.jpg
 name: Spark
+platform: ETH
+platform_contract: '0xbba477999ed5b067fddbb1fe1797ba026d89eb23'

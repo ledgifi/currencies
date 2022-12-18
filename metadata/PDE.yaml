@@ -3,3 +3,5 @@ fiat: false
 id: PDE
 id_nomics: PDE
 name: Panda Economy
+platform: FUSE
+platform_contract: '0x23831fcfa625cc709fcdde6f28de3ca8c9a4bfe1'

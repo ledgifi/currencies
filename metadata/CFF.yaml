@@ -5,3 +5,5 @@ id_nomics: CFF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CFF.jpg
 logoKey: currencies/cff.jpg
 name: Coffe
+platform: BNB
+platform_contract: '0xd7e1a99f1e0794195a532cb0cb641ddf51ddaf51'

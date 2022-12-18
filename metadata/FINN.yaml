@@ -5,3 +5,5 @@ id_nomics: FINN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FINN.png
 logoKey: currencies/finn.png
 name: Huckleberry
+platform: MOVR
+platform_contract: '0x9a92b5ebf1f6f6f7d93696fcd44e5cf75035a756'

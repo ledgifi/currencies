@@ -6,3 +6,5 @@ id_nomics: NUG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NUG.png
 logoKey: currencies/nug.png
 name: Nuggets
+platform: ETH
+platform_contract: '0x245ef47d4d0505ecf3ac463f4d81f41ade8f1fd1'

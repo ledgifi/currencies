@@ -5,3 +5,5 @@ id_nomics: BBC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBC5.png
 logoKey: currencies/bbc5.png
 name: Blue Baikal (Klaytn)
+platform: KLAY
+platform_contract: '0x321bc0b63efb1e4af08ec6d20c85d5e94ddaaa18'

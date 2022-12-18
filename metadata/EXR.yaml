@@ -5,3 +5,5 @@ id_nomics: EXR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EXR.jpg
 logoKey: currencies/exr.jpg
 name: Extractor
+platform: BNB
+platform_contract: '0xde0995b804665f84d0e7e4651f97db25460f4bc0'

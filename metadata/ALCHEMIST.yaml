@@ -5,3 +5,5 @@ id_nomics: ALCHEMIST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALCHEMIST.png
 logoKey: currencies/alchemist.png
 name: AlchemistBSC
+platform: BNB
+platform_contract: '0x69a397c7434bb8cae7978c5a19ba3b0c2c86c948'

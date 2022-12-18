@@ -3,3 +3,5 @@ fiat: false
 id: KUNA
 id_nomics: KUNA
 name: Hakuna
+platform: ETH
+platform_contract: '0x856c89cfea6c367ec92c70050845f1a0807caa6b'

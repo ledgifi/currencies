@@ -6,3 +6,5 @@ id_nomics: BASIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BASIC.jpg
 logoKey: currencies/basic.jpg
 name: BASIC
+platform: ETH
+platform_contract: '0xf25c91c87e0b1fd9b4064af0f427157aab0193a7'

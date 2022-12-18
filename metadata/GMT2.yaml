@@ -5,3 +5,5 @@ id_nomics: GMT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMT2.jpg
 logoKey: currencies/gmt2.jpg
 name: Gambit
+platform: BNB
+platform_contract: '0x99e92123eb77bc8f999316f622e5222498438784'

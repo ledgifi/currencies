@@ -5,3 +5,5 @@ id_nomics: CBS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBS2.jpg
 logoKey: currencies/cbs2.jpg
 name: Columbus
+platform: BNB
+platform_contract: '0x5a9908ec2173bac7423f490bfd2b24ae9cba7115'

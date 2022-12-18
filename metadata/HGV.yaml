@@ -3,3 +3,5 @@ fiat: false
 id: HGV
 id_nomics: HGV
 name: Hogeverse
+platform: BNB
+platform_contract: '0x4431e9765d8c8320ed98c1847e7dabd046aa5df1'

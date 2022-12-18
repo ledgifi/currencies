@@ -3,3 +3,5 @@ fiat: false
 id: RWCT
 id_nomics: RWCT
 name: RewardContract
+platform: CRO
+platform_contract: '0x63f98c65f1e973d43891de3b2418d467ff486645'

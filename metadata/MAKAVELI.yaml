@@ -3,3 +3,5 @@ fiat: false
 id: MAKAVELI
 id_nomics: MAKAVELI
 name: Makaveli Token
+platform: ETH
+platform_contract: '0x455a9549dd5d3f174b51660291642b52c69c5946'

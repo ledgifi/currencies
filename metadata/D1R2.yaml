@@ -5,3 +5,5 @@ id_nomics: D1R2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/D1R2.jpg
 logoKey: currencies/d1r2.jpg
 name: DOGE-1 Rocket
+platform: BNB
+platform_contract: '0xbfbc6c29385ac9a0b43e0156c7f53dda6028a090'

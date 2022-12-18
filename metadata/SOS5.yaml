@@ -5,3 +5,5 @@ id_nomics: SOS5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOS5.jpeg
 logoKey: currencies/sos5.jpeg
 name: OpenDAO
+platform: ETH
+platform_contract: '0x3b484b82567a09e2588a13d54d032153f0c0aee0'

@@ -5,3 +5,5 @@ id_nomics: XAPE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XAPE.jpg
 logoKey: currencies/xape.jpg
 name: X-Ape
+platform: BNB
+platform_contract: '0xce3da9c0d4bd23b8c91cb3a33ab498fa31a23528'

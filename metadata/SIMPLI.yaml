@@ -6,3 +6,5 @@ id_nomics: SIMPLI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIMPLI.jpg
 logoKey: currencies/simpli.jpg
 name: Simpli Finance
+platform: BNB
+platform_contract: '0x71f69afed8825d6d9300ba4d74103e1dcc263b93'

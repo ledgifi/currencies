@@ -5,3 +5,5 @@ id_nomics: MSHARE4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSHARE4.png
 logoKey: currencies/mshare4.png
 name: MSHARE
+platform: FTM
+platform_contract: '0xA732a96cf0fC2bABa3b4C39a1F1CB9741CF2fb49'

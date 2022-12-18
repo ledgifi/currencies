@@ -6,3 +6,5 @@ id_nomics: INVEST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INVEST.jpg
 logoKey: currencies/invest.jpg
 name: InvestDex
+platform: BNB
+platform_contract: '0x853a8ab1c365ea54719eb13a54d6b22f1fbe7feb'

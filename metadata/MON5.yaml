@@ -5,3 +5,5 @@ id_nomics: MON5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MON5.png
 logoKey: currencies/mon5.png
 name: Monstock
+platform: KLAY
+platform_contract: '0x648fd38efefb4f97cf2df3ff93eff70e94da0691'

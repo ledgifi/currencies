@@ -5,3 +5,5 @@ id_nomics: PINU8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PINU8.png
 logoKey: currencies/pinu8.png
 name: Pims Inu
+platform: BNB
+platform_contract: '0x3ec6adc435b9f27ba214e8024f755bb54fa15a1b'

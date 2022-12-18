@@ -5,3 +5,5 @@ id_nomics: CELRARB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CELRARB.jpg
 logoKey: currencies/celrarb.jpg
 name: Celer Network (Arbitrum)
+platform: ARBETH
+platform_contract: '0x3a8b787f78d775aecfeea15706d4221b40f345ab'

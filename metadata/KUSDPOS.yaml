@@ -5,3 +5,5 @@ id_nomics: KUSDPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KUSDPOS.jpg
 logoKey: currencies/kusdpos.jpg
 name: Kine USD (Polygon)
+platform: MATIC
+platform_contract: '0x03324bbc860fbbfd452f6ac0b0b1d76deafc99a2'

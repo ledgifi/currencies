@@ -3,3 +3,5 @@ fiat: false
 id: PAYE
 id_nomics: PAYE
 name: PayPal Elite
+platform: ETH
+platform_contract: '0x8e8608ad703c86284981b5515e8687ce9587d1a7'

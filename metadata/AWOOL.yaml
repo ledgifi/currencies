@@ -6,3 +6,5 @@ id_nomics: AWOOL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AWOOL.jpg
 logoKey: currencies/awool.jpg
 name: Sheep Game
+platform: AVAX
+platform_contract: '0x5ede350e84223fb50775fd91a723f2ca71034cf7'

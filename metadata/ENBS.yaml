@@ -3,3 +3,5 @@ fiat: false
 id: ENBS
 id_nomics: ENBS
 name: ENBS
+platform: BNB
+platform_contract: '0xbb3683a09bbc830ab56ff7b3402106500f959af3'

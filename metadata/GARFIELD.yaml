@@ -6,3 +6,5 @@ id_nomics: GARFIELD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GARFIELD.jpg
 logoKey: currencies/garfield.jpg
 name: Garfield Token
+platform: ETH
+platform_contract: '0x7b392dd9bdef6e17c3d1ba62d1a6c7dcc99d839b'

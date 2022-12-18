@@ -5,3 +5,5 @@ id_nomics: 0XT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/0XT.png
 logoKey: currencies/0xt.png
 name: 0xTrade
+platform: BNB
+platform_contract: '0x735c09d9e6c68faaa8562e7316b34a8d89f4a3b8'

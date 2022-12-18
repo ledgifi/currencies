@@ -5,3 +5,5 @@ id_nomics: UTO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UTO2.jpg
 logoKey: currencies/uto2.jpg
 name: UniTopia Token
+platform: ETH
+platform_contract: '0x1f8f123bf24849443a56ed9fc42b9265b7f3a39a'

@@ -5,3 +5,5 @@ id_nomics: SAAVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAAVE.png
 logoKey: currencies/saave.png
 name: sAAVE
+platform: ETH
+platform_contract: '0xd2df355c19471c8bd7d8a3aa27ff4e26a21b4076'

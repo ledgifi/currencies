@@ -3,3 +3,5 @@ fiat: false
 id: NSU
 id_nomics: NSU
 name: NSU coin
+platform: BNB
+platform_contract: '0x8538313df7bca4fa782e642cd78707a8c2d696d9'

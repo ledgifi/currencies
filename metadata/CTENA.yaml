@@ -6,3 +6,5 @@ id_nomics: CTENA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTENA.jpeg
 logoKey: currencies/ctena.jpeg
 name: CTENA Finance
+platform: BNB
+platform_contract: '0x8f4fc37bff97e6e7fd4355a5df76a486ac1e2e1c'

@@ -5,3 +5,5 @@ id_nomics: AQUA5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AQUA5.jpg
 logoKey: currencies/aqua5.jpg
 name: AquaFi
+platform: ETH
+platform_contract: '0xd34a24006b862f4e9936c506691539d6433ad297'

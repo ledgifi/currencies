@@ -5,3 +5,5 @@ id_nomics: P2P2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/P2P2.jpg
 logoKey: currencies/p2p2.jpg
 name: P2P
+platform: ETH
+platform_contract: '0xabe9b2e4bbd5a8c718752c41254ed81aae7d98bf'

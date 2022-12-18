@@ -5,3 +5,5 @@ id_nomics: SANTADAO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SANTADAO.jpeg
 logoKey: currencies/santadao.jpeg
 name: Santa DAO
+platform: BNB
+platform_contract: '0x5c18347cbfd821d5365e9e339cafc83bff063307'

@@ -5,3 +5,5 @@ id_nomics: MNOP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MNOP.jpg
 logoKey: currencies/mnop.jpg
 name: Memenopoly Money V1 (OLD)
+platform: BNB
+platform_contract: '0xbc3951f1d582f5637a76d8a915b1d2827a17941a'

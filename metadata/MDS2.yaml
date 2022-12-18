@@ -5,3 +5,5 @@ id_nomics: MDS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MDS2.jpg
 logoKey: currencies/mds2.jpg
 name: Midas
+platform: ETH
+platform_contract: '0x0290b327a8583bd6fa63c130b732a808864e55fc'

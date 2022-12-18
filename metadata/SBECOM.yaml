@@ -6,3 +6,5 @@ id_nomics: SBECOM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBECOM.jpg
 logoKey: currencies/sbecom.jpg
 name: SheBollETH Commerce
+platform: ETH
+platform_contract: '0x888e88e71378133b7ada5a90c08bc97d772a0a28'

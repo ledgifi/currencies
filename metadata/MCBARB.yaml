@@ -5,3 +5,5 @@ id_nomics: MCBARB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCBARB.jpg
 logoKey: currencies/mcbarb.jpg
 name: MCDEX Token (Arbitrum)
+platform: ARBETH
+platform_contract: '0x4e352cf164e64adcbad318c3a1e222e9eba4ce42'

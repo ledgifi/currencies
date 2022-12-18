@@ -5,3 +5,5 @@ id_nomics: OCAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCAT.jpg
 logoKey: currencies/ocat.jpg
 name: Orange Cat Token
+platform: BNB
+platform_contract: '0x7128e52ca302c5f5beeb801b6ad373fdebe3dc5e'

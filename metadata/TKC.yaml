@@ -6,3 +6,5 @@ id_nomics: TKC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TKC.png
 logoKey: currencies/tkc.png
 name: TAN-KE
+platform: ETH
+platform_contract: '0xeeb7a9744e82d00998ebfe232f4b00f3d03b7a77'

@@ -3,3 +3,5 @@ fiat: false
 id: STKGHSTUSDC
 id_nomics: STKGHSTUSDC
 name: Staked GHST-USDC LP
+platform: MATIC
+platform_contract: '0x04439ec4ba8b09acfae0e9b5d75a82cc63b19f09'

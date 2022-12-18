@@ -5,3 +5,5 @@ id_nomics: BSCGAS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSCGAS.png
 logoKey: currencies/bscgas.png
 name: bscGAS
+platform: BNB
+platform_contract: '0x6fAbfe7946b23da23aD51Dc45167cc2CFd0ce70e'

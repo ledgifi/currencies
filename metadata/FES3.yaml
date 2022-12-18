@@ -5,3 +5,5 @@ id_nomics: FES3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FES3.jpg
 logoKey: currencies/fes3.jpg
 name: FeedEveryShiba
+platform: BNB
+platform_contract: '0xcdfb8ddcf29a843590f5a8a212678ab38863167e'

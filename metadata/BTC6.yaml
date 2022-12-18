@@ -5,3 +5,5 @@ id_nomics: BTC6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTC6.png
 logoKey: currencies/btc6.png
 name: Bitcoin [BTC Core Group]
+platform: BNB
+platform_contract: '0xA2B3d74bf2c9348C10c69A9F7D17E7e7A3ba40F0'

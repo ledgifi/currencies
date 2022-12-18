@@ -3,3 +3,5 @@ fiat: false
 id: LITHEREUM3CRVF
 id_nomics: LITHEREUM3CRVF
 name: 'Curve.fi Factory USD Metapool: Lithereum'
+platform: MATIC
+platform_contract: '0xcecf60b95109cb4c897b22877612228f0c76e52c'

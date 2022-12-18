@@ -6,3 +6,5 @@ id_nomics: DINK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DINK.jpg
 logoKey: currencies/dink.jpg
 name: Dink Doink
+platform: BNB
+platform_contract: '0xefd39883adb365fbf591bc0d624c9e1b12aea35f'

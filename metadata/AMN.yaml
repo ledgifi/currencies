@@ -6,3 +6,5 @@ id_nomics: AMN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/amn.jpg
 logoKey: currencies/amn.jpg
 name: Amon
+platform: ETH
+platform_contract: '0x737f98ac8ca59f2c68ad658e3c3d8c8963e40a4c'

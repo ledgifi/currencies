@@ -3,3 +3,5 @@ fiat: false
 id: CHOC
 id_nomics: CHOC
 name: Chocolate Nodes
+platform: AVAX
+platform_contract: '0x51f9b72fbd080350af697ce86f1e67494440f276'

@@ -5,3 +5,5 @@ id_nomics: SMOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMOON.jpg
 logoKey: currencies/smoon.jpg
 name: SwiftMoon
+platform: BNB
+platform_contract: '0xb47d8d9cd415dae40e364b140ae6af186e2332f4'

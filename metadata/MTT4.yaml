@@ -5,3 +5,5 @@ id_nomics: MTT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTT4.png
 logoKey: currencies/mtt4.png
 name: Micro Town
+platform: BNB
+platform_contract: '0x9cb631c4fe628e480b94b5b33f9e92b902d5bde4'

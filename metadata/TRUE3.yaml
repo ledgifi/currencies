@@ -5,3 +5,5 @@ id_nomics: TRUE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRUE3.jpg
 logoKey: currencies/true3.jpg
 name: TrueBurn
+platform: BNB
+platform_contract: '0x2480334963d06dc39dd148f504a13ef3e6d8d896'

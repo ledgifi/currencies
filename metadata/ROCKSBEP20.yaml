@@ -5,3 +5,5 @@ id_nomics: ROCKSBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROCKSBEP20.jpg
 logoKey: currencies/rocksbep20.jpg
 name: Social Rocket (BEP-20)
+platform: BNB
+platform_contract: '0x0829d2d5cc09d3d341e813c821b0cfae272d9fb2'

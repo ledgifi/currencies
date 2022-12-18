@@ -5,3 +5,5 @@ id_nomics: MILK14
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MILK14.png
 logoKey: currencies/milk14.png
 name: CowSwap MILK
+platform: BCH
+platform_contract: '0xc8e09aedb3c949a875e1fd571dc4b3e48fb221f0'

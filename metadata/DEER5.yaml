@@ -5,3 +5,5 @@ id_nomics: DEER5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEER5.png
 logoKey: currencies/deer5.png
 name: DEERcoin
+platform: BNB
+platform_contract: '0xf1f37efcd204595ee49320d7f6146b5517f2f903'

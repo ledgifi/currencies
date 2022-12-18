@@ -6,3 +6,5 @@ id_nomics: BOK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOK.png
 logoKey: currencies/bok.png
 name: Blockium
+platform: ETH
+platform_contract: '0x27c743954bce1bfaef8bcbd685527531001d88d7'

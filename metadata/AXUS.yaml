@@ -6,3 +6,5 @@ id_nomics: AXUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AXUS.jpg
 logoKey: currencies/axus.jpg
 name: Axus Coin
+platform: ETH
+platform_contract: '0x872d63d889d4b445c89a0887dcdbcc179b026432'

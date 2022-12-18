@@ -5,3 +5,5 @@ id_nomics: SBUSD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBUSD2.jpg
 logoKey: currencies/sbusd2.jpg
 name: Spooky BUSD
+platform: BNB
+platform_contract: '0x9192ad68e60cf4351daf934ea8114f2a9d5d28d3'

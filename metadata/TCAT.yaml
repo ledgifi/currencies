@@ -6,3 +6,5 @@ id_nomics: TCAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCAT.png
 logoKey: currencies/tcat.png
 name: The Currency Analytics
+platform: ETH
+platform_contract: '0xaff84e86d72edb971341a6a66eb2da209446fa14'

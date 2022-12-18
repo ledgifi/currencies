@@ -5,3 +5,5 @@ id_nomics: YFIG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFIG2.png
 logoKey: currencies/yfig2.png
 name: Yearn Finance Global
+platform: BNB
+platform_contract: '0x115c6aa68a1bfa7e8b00b31c137105925e767233'

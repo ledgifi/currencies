@@ -5,3 +5,5 @@ id_nomics: SHIBARMY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBARMY2.png
 logoKey: currencies/shibarmy2.png
 name: ShibArmy
+platform: BNB
+platform_contract: '0x1224cabc48e750a38a85f040b48c33925b61a765'

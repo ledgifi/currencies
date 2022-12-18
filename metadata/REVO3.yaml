@@ -5,3 +5,5 @@ id_nomics: REVO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REVO3.png
 logoKey: currencies/revo3.png
 name: RevoluteCoin
+platform: BNB
+platform_contract: '0xc95ff60ec79593fa838c7bc28433e4b57100d53c'

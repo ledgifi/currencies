@@ -5,3 +5,5 @@ id_nomics: TRADEBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRADEBEP20.jpg
 logoKey: currencies/tradebep20.jpg
 name: UniTrade (BEP-20)
+platform: BNB
+platform_contract: '0x7af173f350d916358af3e218bdf2178494beb748'

@@ -6,3 +6,5 @@ id_nomics: TSAITAMA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TSAITAMA.jpg
 logoKey: currencies/tsaitama.jpg
 name: tiny SAITAMA
+platform: ETH
+platform_contract: '0x25de47da7cec64d7b3531c1c36e61bffa5d9a83d'

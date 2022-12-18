@@ -5,3 +5,5 @@ id_nomics: PXGTOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PXGTOKEN.png
 logoKey: currencies/pxgtoken.png
 name: Piexgo Token
+platform: ETH
+platform_contract: '0x91bb6965bace45bae7e78ae638152af467f9b004'

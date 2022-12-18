@@ -6,3 +6,5 @@ id_nomics: STRIP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STRIP.jpg
 logoKey: currencies/strip.jpg
 name: StripCoin
+platform: ETH
+platform_contract: '0xe9cb6838902ccf711f16a9ea5a1170f8e9853c02'

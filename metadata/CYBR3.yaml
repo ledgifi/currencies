@@ -5,3 +5,5 @@ id_nomics: CYBR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CYBR3.jpeg
 logoKey: currencies/cybr3.jpeg
 name: Cyber
+platform: ETH
+platform_contract: '0x438a6E42813118548C065336844239b63ad4Fcfd'

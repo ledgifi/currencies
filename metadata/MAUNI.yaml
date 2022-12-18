@@ -6,3 +6,5 @@ id_nomics: MAUNI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAUNI.jpg
 logoKey: currencies/mauni.jpg
 name: Matic Aave Interest Bearing UNI
+platform: MATIC
+platform_contract: '0x8c8bdbe9cee455732525086264a4bf9cf821c498'

@@ -5,3 +5,5 @@ id_nomics: SPERM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPERM2.png
 logoKey: currencies/sperm2.png
 name: ElonSperm
+platform: BNB
+platform_contract: '0x7abf7f54f30a45c7c43d728a75d6741440d7c591'

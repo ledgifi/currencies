@@ -6,3 +6,5 @@ id_nomics: MNSTP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MNSTP.jpg
 logoKey: currencies/mnstp.jpg
 name: Moon Stop
+platform: BNB
+platform_contract: '0x150159c72f0f9ef9000bf95e242de6682480d6d3'

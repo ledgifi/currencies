@@ -5,3 +5,5 @@ id_nomics: CTN4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTN4.jpg
 logoKey: currencies/ctn4.jpg
 name: Cryptonex
+platform: BNB
+platform_contract: '0x672859fF39d83C920e928808939DFE52Da1610AE'

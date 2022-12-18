@@ -6,3 +6,5 @@ id_nomics: DTA
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/dta.svg
 logoKey: currencies/dta.svg
 name: DATA
+platform: ETH
+platform_contract: '0x69b148395ce0015c13e36bffbad63f49ef874e03'

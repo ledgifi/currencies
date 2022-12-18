@@ -3,3 +3,5 @@ fiat: false
 id: BGS
 id_nomics: BGS
 name: Bill gates
+platform: BNB
+platform_contract: '0x15ed7b543ccf1110210e49a8c354d73f7be572db'

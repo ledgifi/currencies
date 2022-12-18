@@ -6,3 +6,5 @@ id_nomics: TFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TFI.jpg
 logoKey: currencies/tfi.jpg
 name: TrustFi Network Token
+platform: BNB
+platform_contract: '0x7565ab68d3f9dadff127f864103c8c706cf28235'

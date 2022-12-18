@@ -5,3 +5,5 @@ id_nomics: DEMP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEMP.jpeg
 logoKey: currencies/demp.jpeg
 name: Doge Empire
+platform: BNB
+platform_contract: '0x5ea3c84458fb596fa3e56d5fcd9b2cc1db623bb2'

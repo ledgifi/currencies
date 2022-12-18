@@ -3,3 +3,5 @@ fiat: false
 id: LOCKPAY
 id_nomics: LOCKPAY
 name: LockPay
+platform: BNB
+platform_contract: '0x7d99d2c760de063080b1300b5b09fa4e7bd60638'

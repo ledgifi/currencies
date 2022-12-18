@@ -3,3 +3,5 @@ fiat: false
 id: EQUAL2
 id_nomics: EQUAL2
 name: Equalizer DEX
+platform: FTM
+platform_contract: '0x3fd3a0c85b70754efc07ac9ac0cbbdce664865a6'

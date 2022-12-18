@@ -5,3 +5,5 @@ id_nomics: AMANAV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMANAV2.jpg
 logoKey: currencies/amanav2.jpg
 name: Aave MANA
+platform: ETH
+platform_contract: '0xa685a61171bb30d4072b338c80cb7b2c865c873e'

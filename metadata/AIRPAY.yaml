@@ -3,3 +3,5 @@ fiat: false
 id: AIRPAY
 id_nomics: AIRPAY
 name: AirPay
+platform: BNB
+platform_contract: '0xe332912b9279a7d01f78fc6df87865c7a8fa1efb'

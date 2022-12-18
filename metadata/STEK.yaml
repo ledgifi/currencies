@@ -5,3 +5,5 @@ id_nomics: STEK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STEK.png
 logoKey: currencies/stek.png
 name: StarTEK
+platform: BNB
+platform_contract: '0x6cc9e4423258a97598f865a1b6acde76a6b81b7b'

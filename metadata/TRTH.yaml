@@ -5,3 +5,5 @@ id_nomics: TRTH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRTH.jpg
 logoKey: currencies/trth.jpg
 name: TERETH
+platform: ETH
+platform_contract: '0xc57bed059772b91c2421baea4e7b179319b3cc9b'

@@ -3,3 +3,5 @@ fiat: false
 id: CSSEALS
 id_nomics: CSSEALS
 name: cs-sealsToken
+platform: XDAI
+platform_contract: '0x88971082d29923077a6788c7b479b0a5dff302b0'

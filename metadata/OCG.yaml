@@ -5,3 +5,5 @@ id_nomics: OCG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCG.jpg
 logoKey: currencies/ocg.jpg
 name: Orocrypt Gold Token
+platform: ETH
+platform_contract: '0xd84958efa6fe4e6f29457917a9ab1bbc1b542995'

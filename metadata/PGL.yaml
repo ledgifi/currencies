@@ -5,3 +5,5 @@ id_nomics: PGL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/pgl.jpg
 logoKey: currencies/pgl.jpg
 name: Prospectors
+platform: ETH
+platform_contract: '0x089a6d83282fb8988a656189f1e7a73fa6c1cac2'

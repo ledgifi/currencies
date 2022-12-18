@@ -3,3 +3,5 @@ fiat: false
 id: VCC3
 id_nomics: VCC3
 name: 28VCC
+platform: ETH
+platform_contract: '0xd54d056d4b79ea7001e69c04b5f93e57cc4713d9'

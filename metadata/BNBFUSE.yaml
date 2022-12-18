@@ -5,3 +5,5 @@ id_nomics: BNBFUSE
 logo: https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB8c77482e45F1F44dE1745F52C74426C631bDD52/logo.png
 logoKey: currencies/bnbfuse.png
 name: Binance Coin (Fuse)
+platform: FUSE
+platform_contract: '0x6acb34b1Df86E254b544189Ec32Cf737e2482058'

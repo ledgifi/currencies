@@ -5,3 +5,5 @@ id_nomics: DRAGON7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRAGON7.png
 logoKey: currencies/dragon7.png
 name: Dragon
+platform: BNB
+platform_contract: '0x01daae426946a93681525bb97496a3a6279fac5d'

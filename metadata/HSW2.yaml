@@ -5,3 +5,5 @@ id_nomics: HSW2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HSW2.png
 logoKey: currencies/hsw2.png
 name: HyperSwap
+platform: MATIC
+platform_contract: '0xa216bb4d1dd10737e71357587a47fc5691e39e26'

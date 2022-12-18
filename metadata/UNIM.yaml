@@ -3,3 +3,5 @@ fiat: false
 id: UNIM
 id_nomics: UNIM
 name: Unicorn Milk
+platform: MATIC
+platform_contract: '0x64060ab139feaae7f06ca4e63189d86adeb51691'

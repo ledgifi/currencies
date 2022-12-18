@@ -3,3 +3,5 @@ fiat: false
 id: INVES
 id_nomics: INVES
 name: INVES
+platform: BNB
+platform_contract: '0x52d950b89071525958dd3841a813ff7bf3a47f8f'

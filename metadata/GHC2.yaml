@@ -5,3 +5,5 @@ id_nomics: GHC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GHC2.jpg
 logoKey: currencies/ghc2.jpg
 name: Galaxy Heroes Coin
+platform: BNB
+platform_contract: '0x683fae4411249ca05243dfb919c20920f3f5bfe0'

@@ -3,3 +3,5 @@ fiat: false
 id: NUSDO
 id_nomics: NUSDO
 name: nUSDO
+platform: NEAR
+platform_contract: v3.oin_finance.near

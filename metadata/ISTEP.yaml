@@ -3,3 +3,5 @@ fiat: false
 id: ISTEP
 id_nomics: ISTEP
 name: ISTEP
+platform: BNB
+platform_contract: '0x67343c29c0fd9827f33e675e0eb80773f9444444'

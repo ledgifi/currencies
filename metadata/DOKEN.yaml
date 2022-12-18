@@ -6,3 +6,5 @@ id_nomics: DOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOKEN.jpeg
 logoKey: currencies/doken.jpeg
 name: DoKEN
+platform: BNB
+platform_contract: '0xf9a2d40589271be17612a3f57a9028a568f56e3d'

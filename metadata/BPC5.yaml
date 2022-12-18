@@ -3,3 +3,5 @@ fiat: false
 id: BPC5
 id_nomics: BPC5
 name: Bitex Payment Coin
+platform: TRX
+platform_contract: '1002434'

@@ -5,3 +5,5 @@ id_nomics: AXL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AXL2.jpg
 logoKey: currencies/axl2.jpg
 name: AXL INU
+platform: BNB
+platform_contract: '0x25b24b3c47918b7962b3e49c4f468367f73cc0e0'

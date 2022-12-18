@@ -6,3 +6,5 @@ id_nomics: STBZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STBZ.png
 logoKey: currencies/stbz.png
 name: Stabilize
+platform: ETH
+platform_contract: '0xb987d48ed8f2c468d52d6405624eadba5e76d723'

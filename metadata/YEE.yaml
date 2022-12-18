@@ -6,3 +6,5 @@ id_nomics: YEE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/yee.png
 logoKey: currencies/yee.png
 name: YEE
+platform: ETH
+platform_contract: '0x922105fad8153f516bcfb829f56dc097a0e1d705'

@@ -5,3 +5,5 @@ id_nomics: YEFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YEFI.jpg
 logoKey: currencies/yefi.jpg
 name: Yearn Ethereum Finance
+platform: ETH
+platform_contract: '0xcf282ba0bc91d2aa6e775bcfd90da6b7912f1b1a'

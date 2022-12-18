@@ -5,3 +5,5 @@ id_nomics: MUMOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MUMOON.jpg
 logoKey: currencies/mumoon.jpg
 name: Muu Moon
+platform: BNB
+platform_contract: '0x13e7804710dd83e6c7675cc703d998ecef223223'

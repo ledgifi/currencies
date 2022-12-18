@@ -5,3 +5,5 @@ id_nomics: INSTINCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INSTINCT.jpg
 logoKey: currencies/instinct.jpg
 name: Instinct
+platform: BNB
+platform_contract: '0xc4eeb3199df249a6bce8ff706fe86c08c5f847d0'

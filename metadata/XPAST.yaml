@@ -5,3 +5,5 @@ id_nomics: XPAST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XPAST.png
 logoKey: currencies/xpast.png
 name: XPAST
+platform: FTM
+platform_contract: '0xD3111Fb8BDf936B11fFC9eba3b597BeA21e72724'

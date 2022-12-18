@@ -5,3 +5,5 @@ id_nomics: MNR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MNR.jpg
 logoKey: currencies/mnr.jpg
 name: Mnoer
+platform: ETH
+platform_contract: '0xe4e2daf5f7f0c1c35df922c5d9340913edecc8e8'

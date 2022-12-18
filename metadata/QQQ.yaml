@@ -6,3 +6,5 @@ id_nomics: QQQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QQQ.jpg
 logoKey: currencies/qqq.jpg
 name: Poseidon Network
+platform: ETH
+platform_contract: '0x2822f6d1b2f41f93f33d937bc7d84a8dfa4f4c21'

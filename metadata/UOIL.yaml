@@ -3,3 +3,5 @@ fiat: false
 id: UOIL
 id_nomics: UOIL
 name: UEAOIL
+platform: ETH
+platform_contract: '0x35ed65f4d94cd416cb81612352429fbb8588b01d'

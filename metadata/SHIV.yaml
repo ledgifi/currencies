@@ -6,3 +6,5 @@ id_nomics: SHIV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIV.jpg
 logoKey: currencies/shiv.jpg
 name: Shiba Virgin
+platform: BNB
+platform_contract: '0xd0db6632ee7b40ed667d593c361da3142c0a35f9'

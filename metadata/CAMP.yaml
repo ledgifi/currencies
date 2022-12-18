@@ -6,3 +6,5 @@ id_nomics: CAMP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAMP.jpg
 logoKey: currencies/camp.jpg
 name: Camp
+platform: ETH
+platform_contract: '0xe9e73e1ae76d17a16cc53e3e87a9a7da78834d37'

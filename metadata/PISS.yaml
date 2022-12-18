@@ -6,3 +6,5 @@ id_nomics: PISS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PISS.png
 logoKey: currencies/piss.png
 name: PISSCOIN
+platform: ETH
+platform_contract: '0x41afc4220b08d1f336eacf231cd8ce5c7e7fb9c9'

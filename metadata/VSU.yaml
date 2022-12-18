@@ -5,3 +5,5 @@ id_nomics: VSU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VSU.png
 logoKey: currencies/vsu.png
 name: VERSUS
+platform: TRX
+platform_contract: '1000105'

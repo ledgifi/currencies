@@ -6,3 +6,5 @@ id_nomics: HERON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HERON.jpg
 logoKey: currencies/heron.jpg
 name: Heron
+platform: BNB
+platform_contract: '0x90451265fd0598e088e42c1768d6211f0978954a'

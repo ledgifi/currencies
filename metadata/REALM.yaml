@@ -6,3 +6,5 @@ id_nomics: REALM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REALM.jpg
 logoKey: currencies/realm.jpg
 name: Realm
+platform: ETH
+platform_contract: '0x464fdb8affc9bac185a7393fd4298137866dcfb8'

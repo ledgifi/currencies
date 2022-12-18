@@ -5,3 +5,5 @@ id_nomics: WBST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WBST.jpg
 logoKey: currencies/wbst.jpg
 name: Wrapped BST
+platform: BNB
+platform_contract: '0x58d6f302aaf33dd30a7666e16909db3c5c74021b'

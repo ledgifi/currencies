@@ -5,3 +5,5 @@ id_nomics: FLOVM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOVM.png
 logoKey: currencies/flovm.png
 name: FLOV Market
+platform: BNB
+platform_contract: '0xC93116aa4854950Ff1852618554E068cd996fc01'

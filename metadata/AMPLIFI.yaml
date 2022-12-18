@@ -5,3 +5,5 @@ id_nomics: AMPLIFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMPLIFI.png
 logoKey: currencies/amplifi.png
 name: AmpliFi
+platform: ETH
+platform_contract: '0xd23367155b55d67492dfdc0fc7f8bb1df7114fd9'

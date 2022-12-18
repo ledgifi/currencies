@@ -3,3 +3,5 @@ fiat: false
 id: SQUAWKBANK
 id_nomics: SQUAWKBANK
 name: Bank Of Squawk
+platform: ETH
+platform_contract: '0xac6f1e26c9aa3ae78b2cbd8a4f2cbe2be0012ad7'

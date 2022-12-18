@@ -5,3 +5,5 @@ id_nomics: NBT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NBT2.jpeg
 logoKey: currencies/nbt2.jpeg
 name: VOICE Token
+platform: ETH
+platform_contract: '0x2e2364966267b5d7d2ce6cd9a9b5bd19d9c7c6a9'

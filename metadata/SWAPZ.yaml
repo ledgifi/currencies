@@ -5,3 +5,5 @@ id_nomics: SWAPZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWAPZ.png
 logoKey: currencies/swapz.png
 name: Swapz
+platform: BNB
+platform_contract: '0xd522a1dce1ca4b138dda042a78672307eb124cc2'

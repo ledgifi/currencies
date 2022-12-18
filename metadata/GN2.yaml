@@ -5,3 +5,5 @@ id_nomics: GN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GN2.jpg
 logoKey: currencies/gn2.jpg
 name: GN
+platform: ETH
+platform_contract: '0xc5019e129b75d380d3d837b8e609dec6c8f5d044'

@@ -3,3 +3,5 @@ fiat: false
 id: DLG
 id_nomics: DLG
 name: Digital Linked Gold
+platform: BNB
+platform_contract: '0x891dc083842d1865ffdb8519b9dcaf363af5422a'

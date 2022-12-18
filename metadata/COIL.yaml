@@ -5,3 +5,5 @@ id_nomics: COIL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COIL.png
 logoKey: currencies/coil.png
 name: Coil Crypto
+platform: ETH
+platform_contract: '0x3936ad01cf109a36489d93cabda11cf062fd3d48'

@@ -5,3 +5,5 @@ id_nomics: PWRD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PWRD.jpg
 logoKey: currencies/pwrd.jpg
 name: PWRD Stablecoin
+platform: ETH
+platform_contract: '0xf0a93d4994b3d98fb5e3a2f90dbc2d69073cb86b'

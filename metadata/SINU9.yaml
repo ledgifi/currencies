@@ -5,3 +5,5 @@ id_nomics: SINU9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SINU9.jpeg
 logoKey: currencies/sinu9.jpeg
 name: Spook Inu
+platform: BNB
+platform_contract: '0x7C22F2C61513AFf63372D3B04E900aE153B253Af'

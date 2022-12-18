@@ -5,3 +5,5 @@ id_nomics: AVAXMILKADA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVAXMILKADA.jpg
 logoKey: currencies/avaxmilkada.jpg
 name: Avalanche (C1 Milkomeda)
+platform: MILKADA
+platform_contract: '0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A'

@@ -5,3 +5,5 @@ id_nomics: BDR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BDR.jpg
 logoKey: currencies/bdr.jpg
 name: Boardroom Cash
+platform: ETH
+platform_contract: '0xd626547ec8f44e7075f36091e7fd898af4342ee6'

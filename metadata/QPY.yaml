@@ -5,3 +5,5 @@ id_nomics: QPY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QPY.png
 logoKey: currencies/qpy.png
 name: QPay
+platform: ETH
+platform_contract: '0x6911270d4bc1915744aedd785d41d44f47245bd0'

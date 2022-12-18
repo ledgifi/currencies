@@ -3,3 +3,5 @@ fiat: false
 id: PIZZAPRINT
 id_nomics: PIZZAPRINT
 name: PizzaPrinter
+platform: AVAX
+platform_contract: '0xfa44983b46fdc61e84d7bd08b5d83bd59bb633f2'

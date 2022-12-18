@@ -6,3 +6,5 @@ id_nomics: ESZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/esz.jpg
 logoKey: currencies/esz.jpg
 name: EtherSportz
+platform: ETH
+platform_contract: '0xe8a1df958be379045e2b46a31a98b93a2ecdfded'

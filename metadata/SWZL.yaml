@@ -5,3 +5,5 @@ id_nomics: SWZL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWZL.png
 logoKey: currencies/swzl.png
 name: Swapzilla
+platform: ETH
+platform_contract: '0x946ea588417ffa565976efda354d82c01719a2ea'

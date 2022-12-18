@@ -6,3 +6,5 @@ id_nomics: CNUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CNUS.png
 logoKey: currencies/cnus.png
 name: CoinUs
+platform: ETH
+platform_contract: '0x722f2f3eac7e9597c73a593f7cf3de33fbfc3308'

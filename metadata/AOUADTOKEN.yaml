@@ -5,3 +5,5 @@ id_nomics: AOUADTOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AOUADTOKEN.jpeg
 logoKey: currencies/aouadtoken.jpeg
 name: AllofUsAreDeadToken
+platform: BNB
+platform_contract: '0x502a1638ab81d94cb49e162d817c46f8f71a12eb'

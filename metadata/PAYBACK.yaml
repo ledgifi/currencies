@@ -3,3 +3,5 @@ fiat: false
 id: PAYBACK
 id_nomics: PAYBACK
 name: Payback
+platform: ETH
+platform_contract: '0x6fa12e2cf6c2ac3ba7b1bf6a31be6e05f649e140'

@@ -3,3 +3,5 @@ fiat: false
 id: XKAT
 id_nomics: XKAT
 name: XKATToken
+platform: BNB
+platform_contract: '0x513f20943c7a5b46c084c7254c0a5533fa72459c'

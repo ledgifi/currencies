@@ -3,3 +3,5 @@ fiat: false
 id: M87TREASURY
 id_nomics: M87TREASURY
 name: M87treasury
+platform: ETH
+platform_contract: '0x919c39b7387071efbf23824c0d97ae728fd7b56e'

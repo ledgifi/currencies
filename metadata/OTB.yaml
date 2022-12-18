@@ -6,3 +6,5 @@ id_nomics: OTB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/otb.jpg
 logoKey: currencies/otb.jpg
 name: OTCBTC Token
+platform: ETH
+platform_contract: '0xa86a0da9d05d0771955df05b44ca120661af16de'

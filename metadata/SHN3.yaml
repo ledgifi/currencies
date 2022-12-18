@@ -5,3 +5,5 @@ id_nomics: SHN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHN3.png
 logoKey: currencies/shn3.png
 name: Shibanomy
+platform: BNB
+platform_contract: '0x13cb51dbc3334d1bc71b07b8acd653047510ffea'

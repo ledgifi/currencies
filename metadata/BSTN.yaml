@@ -6,3 +6,5 @@ id_nomics: BSTN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSTN.png
 logoKey: currencies/bstn.png
 name: BitStation
+platform: ETH
+platform_contract: '0x2f8472dd7ecf7ca760c8f6b45db20ca7cf52f8d7'

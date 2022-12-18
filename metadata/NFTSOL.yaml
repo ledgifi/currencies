@@ -6,3 +6,5 @@ id_nomics: NFTSOL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTSOL.jpg
 logoKey: currencies/nftsol.jpg
 name: NFT SolPad
+platform: BNB
+platform_contract: '0x5007ba81fbb85dfcfba8efcd0008e5c4dc6e303d'

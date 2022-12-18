@@ -5,3 +5,5 @@ id_nomics: EEL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EEL.jpg
 logoKey: currencies/eel.jpg
 name: EEL Finance
+platform: BNB
+platform_contract: '0xd514472df98db53c288e91f1a649ab7466908d90'

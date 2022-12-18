@@ -5,3 +5,5 @@ id_nomics: BTCSILVER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCSILVER.jpg
 logoKey: currencies/btcsilver.jpg
 name: Bitcoin Silver
+platform: ETH
+platform_contract: '0xd96b9fd7586d9ea24c950d24399be4fb65372fdd'

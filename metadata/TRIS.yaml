@@ -3,3 +3,5 @@ fiat: false
 id: TRIS
 id_nomics: TRIS
 name: Tethris
+platform: ETH
+platform_contract: '0x79a86d5e427456fd650e59acaa3451588ba863b7'

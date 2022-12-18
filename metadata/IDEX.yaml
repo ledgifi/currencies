@@ -8,3 +8,5 @@ id_nomics: IDEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IDEX.png
 logoKey: currencies/idex.png
 name: IDEX
+platform: ETH
+platform_contract: '0xb705268213d593b8fd88d3fdeff93aff5cbdcfae'

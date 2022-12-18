@@ -5,3 +5,5 @@ id_nomics: ASU3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASU3.jpeg
 logoKey: currencies/asu3.jpeg
 name: Advanced Swap Utility V2
+platform: BNB
+platform_contract: '0xa14b6a5bac5d8356c0b758453e0d6cf3d8f494c1'

@@ -5,3 +5,5 @@ id_nomics: MOON9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOON9.png
 logoKey: currencies/moon9.png
 name: WANAMOON
+platform: BNB
+platform_contract: '0xc21490565eaf5637d36508683ceb1003f8dcfc65'

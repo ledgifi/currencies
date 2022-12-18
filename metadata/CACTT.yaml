@@ -5,3 +5,5 @@ id_nomics: CACTT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CACTT.png
 logoKey: currencies/cactt.png
 name: Cactus Exchange
+platform: BNB
+platform_contract: '0x649a339B8FC3A8bA0A03255c00fDC5D969684074'

@@ -5,3 +5,5 @@ id_nomics: GABECOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GABECOIN.jpg
 logoKey: currencies/gabecoin.jpg
 name: Gabecoin
+platform: BNB
+platform_contract: '0x6e0bef56b648b3eebae3808b8cbe7efe8755ad9c'

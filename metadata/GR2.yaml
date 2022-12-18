@@ -5,3 +5,5 @@ id_nomics: GR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GR2.jpeg
 logoKey: currencies/gr2.jpeg
 name: GoldRush
+platform: BNB
+platform_contract: '0xdecefe7ba2cce96379b0807374ef66b6f3f382e4'

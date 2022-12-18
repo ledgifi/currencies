@@ -5,3 +5,5 @@ id_nomics: ETHMPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHMPOS.jpg
 logoKey: currencies/ethmpos.jpg
 name: Ethereum Meta (Polygon)
+platform: MATIC
+platform_contract: '0x55b1a124c04a54eefdefe5fa2ef5f852fb5f2f26'

@@ -6,3 +6,5 @@ id_nomics: KATSUMI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KATSUMI.jpg
 logoKey: currencies/katsumi.jpg
 name: Katsumi
+platform: ETH
+platform_contract: '0x5e4efb364071c64ee3641fe1e68cb5d2d5558709'

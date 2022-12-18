@@ -5,3 +5,5 @@ id_nomics: CALO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CALO2.jpg
 logoKey: currencies/calo2.jpg
 name: Calo App
+platform: BNB
+platform_contract: '0xb6b91269413b6b99242b1c0bc611031529999999'

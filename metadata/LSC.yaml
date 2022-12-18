@@ -6,3 +6,5 @@ id_nomics: LSC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LSC.png
 logoKey: currencies/lsc.png
 name: Littlesesame
+platform: ETH
+platform_contract: '0xc77d7e0dd7b2a01b990e866feb21d031f1418c2e'

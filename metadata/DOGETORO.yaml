@@ -3,3 +3,5 @@ fiat: false
 id: DOGETORO
 id_nomics: DOGETORO
 name: DogeToro
+platform: ETH
+platform_contract: '0x26768ca0fb372879fb18b96fd6575d8262f7f35b'

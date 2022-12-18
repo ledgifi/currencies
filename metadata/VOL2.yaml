@@ -5,3 +5,5 @@ id_nomics: VOL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VOL2.png
 logoKey: currencies/vol2.png
 name: Volatility Protocol Token
+platform: ETH
+platform_contract: '0x5166e09628b696285e3a151e84fb977736a83575'

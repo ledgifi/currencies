@@ -5,3 +5,5 @@ id_nomics: CASHADA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CASHADA.jpg
 logoKey: currencies/cashada.jpg
 name: Cash ADA
+platform: BNB
+platform_contract: '0x1fac45f8f5f34d6ae4fc3139f028ef726805d6fd'

@@ -3,3 +3,5 @@ fiat: false
 id: USDCOP
 id_nomics: USDCOP
 name: USD Coin (Optimism)
+platform: OPETH
+platform_contract: '0x7f5c764cbc14f9669b88837ca1490cca17c31607'

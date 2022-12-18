@@ -5,3 +5,5 @@ id_nomics: USDTALGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDTALGO.png
 logoKey: currencies/usdtalgo.png
 name: Tether (Algorand)
+platform: ALGO
+platform_contract: '312769'

@@ -5,3 +5,5 @@ id_nomics: VNXAU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VNXAU.png
 logoKey: currencies/vnxau.png
 name: VNX Gold
+platform: ETH
+platform_contract: '0x6d57b2e05f26c26b549231c866bdd39779e4a488'

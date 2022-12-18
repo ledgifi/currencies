@@ -5,3 +5,5 @@ id_nomics: DHLT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DHLT.png
 logoKey: currencies/dhlt.png
 name: DeHealth
+platform: BNB
+platform_contract: '0xb148df3c114b1233b206160a0f2a74999bb2fbf3'

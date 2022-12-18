@@ -3,3 +3,5 @@ fiat: false
 id: BRIGHTTOKEN
 id_nomics: BRIGHTTOKEN
 name: BrightToken
+platform: ETH
+platform_contract: '0x48f2640b6180d54954394363583e2d92ccb3d80f'

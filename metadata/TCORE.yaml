@@ -6,3 +6,5 @@ id_nomics: TCORE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCORE.jpg
 logoKey: currencies/tcore.jpg
 name: TornadoCORE
+platform: ETH
+platform_contract: '0x7a3d5d49d64e57dbd6fbb21df7202bd3ee7a2253'

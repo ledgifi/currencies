@@ -5,3 +5,5 @@ id_nomics: ADT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADT2.jpg
 logoKey: currencies/adt2.jpg
 name: DotArcade
+platform: BNB
+platform_contract: '0xc008debbb1f33d9453ffd2104feb1fe7e9663524'

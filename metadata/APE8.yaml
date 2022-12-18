@@ -5,3 +5,5 @@ id_nomics: APE8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APE8.jpg
 logoKey: currencies/ape8.jpg
 name: ApeCoin 2.0
+platform: BNB
+platform_contract: '0x5731f45c354a1cce1462d07510ac08e5db9d4285'

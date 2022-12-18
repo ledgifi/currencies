@@ -3,3 +3,5 @@ fiat: false
 id: WPPC
 id_nomics: WPPC
 name: WrappedPeercoin
+platform: ETH
+platform_contract: '0x044d078f1c86508e13328842cc75ac021b272958'

@@ -5,3 +5,5 @@ id_nomics: ODN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ODN2.jpg
 logoKey: currencies/odn2.jpg
 name: Odin Platform
+platform: BNB
+platform_contract: '0x42f7332b14347c9f77a9bef1ac7bb60d2cd9ec2e'

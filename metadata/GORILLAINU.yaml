@@ -5,3 +5,5 @@ id_nomics: GORILLAINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GORILLAINU.jpg
 logoKey: currencies/gorillainu.jpg
 name: Gorilla Inu
+platform: ETH
+platform_contract: '0x68257309fcdfe1e6edb592da97ac8215fe583908'

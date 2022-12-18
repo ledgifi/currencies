@@ -6,3 +6,5 @@ id_nomics: METTI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METTI.jpg
 logoKey: currencies/metti.jpg
 name: Metti Inu
+platform: FTM
+platform_contract: '0x42ae8468a1fddb965d420bd71368a87ec3a2b4b8'

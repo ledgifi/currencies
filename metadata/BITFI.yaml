@@ -3,3 +3,5 @@ fiat: false
 id: BITFI
 id_nomics: BITFI
 name: bitfinex
+platform: BNB
+platform_contract: '0xd6ff05a4df276b78a35f2b56dee529ddcb746993'

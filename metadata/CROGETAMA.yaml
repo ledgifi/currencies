@@ -5,3 +5,5 @@ id_nomics: CROGETAMA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CROGETAMA.jpg
 logoKey: currencies/crogetama.jpg
 name: Crogetama
+platform: BNB
+platform_contract: '0x24bc996403767169fa88e4e38da1d57665959448'

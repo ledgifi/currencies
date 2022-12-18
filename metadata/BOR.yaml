@@ -5,3 +5,5 @@ id_nomics: BOR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOR.jpg
 logoKey: currencies/bor.jpg
 name: BoringDAO
+platform: ETH
+platform_contract: '0x3c9d6c1c73b31c837832c72e04d3152f051fc1a9'

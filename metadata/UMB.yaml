@@ -5,3 +5,5 @@ id_nomics: UMB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UMB.jpg
 logoKey: currencies/umb.jpg
 name: Umbrella Network (ERC-20)
+platform: ETH
+platform_contract: '0x6fc13eace26590b80cccab1ba5d51890577d83b2'

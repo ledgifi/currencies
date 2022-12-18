@@ -5,3 +5,5 @@ id_nomics: CODEX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CODEX2.png
 logoKey: currencies/codex2.png
 name: CODEX Finance
+platform: BNB
+platform_contract: '0x9e95cb3d0560f9cba88991f828322526851bfb56'

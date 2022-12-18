@@ -5,3 +5,5 @@ id_nomics: SKIDDO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SKIDDO.jpg
 logoKey: currencies/skiddo.jpg
 name: SuccessKid
+platform: BNB
+platform_contract: '0x73d8fd2a7e264b0c19cb981294c0cd11389cc0b8'

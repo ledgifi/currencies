@@ -6,3 +6,5 @@ id_nomics: SMILE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMILE.jpg
 logoKey: currencies/smile.jpg
 name: Smile Token
+platform: BNB
+platform_contract: '0x1cd137eb5bdf426aae58c3ed80383f74e42d9bf2'

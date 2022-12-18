@@ -5,3 +5,5 @@ id_nomics: EVI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVI2.png
 logoKey: currencies/evi2.png
 name: Eagle Vision
+platform: BNB
+platform_contract: '0x6926be55c50c752b238ad85a86feeb278e991d81'

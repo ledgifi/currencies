@@ -6,3 +6,5 @@ id_nomics: SPX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPX.png
 logoKey: currencies/spx.png
 name: Sp8de
+platform: ETH
+platform_contract: '0x05aaaa829afa407d83315cded1d45eb16025910c'

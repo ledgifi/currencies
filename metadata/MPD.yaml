@@ -6,3 +6,5 @@ id_nomics: MPD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MPD.jpg
 logoKey: currencies/mpd.jpg
 name: Metapad
+platform: BNB
+platform_contract: '0xd88c6ec2d3fbd90892c6749cf83de6ad10c30b4b'

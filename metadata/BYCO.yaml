@@ -6,3 +6,5 @@ id_nomics: BYCO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BYCO.jpg
 logoKey: currencies/byco.jpg
 name: Bycoin
+platform: BNB
+platform_contract: '0xdbca1fecbd2d3ae9efc48f3e823fede48530551a'

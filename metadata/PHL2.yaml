@@ -3,3 +3,5 @@ fiat: false
 id: PHL2
 id_nomics: PHL2
 name: Philcoin
+platform: BNB
+platform_contract: '0x68dd887d012abdf99d3492621e4d576a3f75019d'

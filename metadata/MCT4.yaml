@@ -5,3 +5,5 @@ id_nomics: MCT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCT4.jpg
 logoKey: currencies/mct4.jpg
 name: Metacraft
+platform: BNB
+platform_contract: '0xdf677713a2c661ecd0b2bd4d7485170aa8c1eceb'

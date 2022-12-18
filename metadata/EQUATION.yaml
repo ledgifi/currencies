@@ -3,3 +3,5 @@ fiat: false
 id: EQUATION
 id_nomics: EQUATION
 name: $EQU
+platform: BNB
+platform_contract: '0xd4375ed0c69b8232d31ea07ffd73195e19bb9b1f'

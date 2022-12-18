@@ -6,3 +6,5 @@ id_nomics: MSB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSB.jpg
 logoKey: currencies/msb.jpg
 name: Misbloc
+platform: ETH
+platform_contract: '0x84c722e6f1363e8d5c6db3ea600bef9a006da824'

@@ -5,3 +5,5 @@ id_nomics: MEGATOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEGATOKEN.jpg
 logoKey: currencies/megatoken.jpg
 name: MEGATOKEN
+platform: BNB
+platform_contract: '0x148c560a9ce8a9d7f869aa97efa2c2aa623927c9'

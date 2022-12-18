@@ -5,3 +5,5 @@ id_nomics: ZGF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZGF.jpg
 logoKey: currencies/zgf.jpg
 name: ZG.com Finance
+platform: ETH
+platform_contract: '0x2f2cc936f49371acdb4a3eccf22fd15e3d6ffe8e'

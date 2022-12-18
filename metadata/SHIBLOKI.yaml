@@ -5,3 +5,5 @@ id_nomics: SHIBLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBLOKI.jpeg
 logoKey: currencies/shibloki.jpeg
 name: Shibloki
+platform: BNB
+platform_contract: '0x687be4c4780484b2e74fa5d3da382c6c20632e19'

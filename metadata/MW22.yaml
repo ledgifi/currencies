@@ -5,3 +5,5 @@ id_nomics: MW22
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MW22.jpg
 logoKey: currencies/mw22.jpg
 name: MoonWay
+platform: BNB
+platform_contract: '0x1481ea464db1a24ccd4d59799a28b00d6c2f3271'

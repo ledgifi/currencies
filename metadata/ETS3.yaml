@@ -5,3 +5,5 @@ id_nomics: ETS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETS3.jpg
 logoKey: currencies/ets3.jpg
 name: Etheros
+platform: BNB
+platform_contract: '0xaef76e2c14365ad2ce78a52fc8c224623c2657b6'

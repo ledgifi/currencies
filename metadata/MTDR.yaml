@@ -6,3 +6,5 @@ id_nomics: MTDR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTDR.jpg
 logoKey: currencies/mtdr.jpg
 name: Matador Token
+platform: BNB
+platform_contract: '0x994517e000aa3f117e7ad61b0e2336c76b4fd94a'

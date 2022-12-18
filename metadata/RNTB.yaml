@@ -6,3 +6,5 @@ id_nomics: RNTB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/rntb.png
 logoKey: currencies/rntb.png
 name: BitRent
+platform: ETH
+platform_contract: '0x1fe70be734e473e5721ea57c8b5b01e6caa52686'

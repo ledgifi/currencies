@@ -5,3 +5,5 @@ id_nomics: CLABEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLABEP20.jpg
 logoKey: currencies/clabep20.jpg
 name: Candela Coin (BEP-20)
+platform: BNB
+platform_contract: '0xf6663f46ecd7ae8ee8b6cc54681a42eba0ef52b4'

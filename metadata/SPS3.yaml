@@ -5,3 +5,5 @@ id_nomics: SPS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPS3.jpg
 logoKey: currencies/sps3.jpg
 name: Splintershards
+platform: BNB
+platform_contract: '0x1633b7157e7638c4d6593436111bf125ee74703f'

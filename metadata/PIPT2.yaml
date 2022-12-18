@@ -5,3 +5,5 @@ id_nomics: PIPT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIPT2.jpg
 logoKey: currencies/pipt2.jpg
 name: Power Index Pool Token
+platform: ETH
+platform_contract: '0x26607ac599266b21d13c7acf7942c7701a8b699c'

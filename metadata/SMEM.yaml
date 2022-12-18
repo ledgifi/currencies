@@ -3,3 +3,5 @@ fiat: false
 id: SMEM
 id_nomics: SMEM
 name: SMinEMfree
+platform: BNB
+platform_contract: '0xf5e028df3643a347517016f76ad6232c6ffd9af5'

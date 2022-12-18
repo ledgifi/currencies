@@ -5,3 +5,5 @@ id_nomics: UCF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UCF2.jpeg
 logoKey: currencies/ucf2.jpeg
 name: UCF Finance
+platform: BNB
+platform_contract: '0xd87e6f186418a7e5b5ad84d236fb75738a852ca9'

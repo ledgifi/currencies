@@ -5,3 +5,5 @@ id_nomics: MPP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MPP.jpeg
 logoKey: currencies/mpp.jpeg
 name: Monsta Pizza
+platform: BNB
+platform_contract: '0x314879e99999eecd1df5c81a4ae6d50d7d4b4110'

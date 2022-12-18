@@ -3,3 +3,5 @@ fiat: false
 id: LKD
 id_nomics: LKD
 name: Linked
+platform: ETH
+platform_contract: '0x950d4230ad0790cf0846bb3b23d5f476a169ef1f'

@@ -5,3 +5,5 @@ id_nomics: KAMHOL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAMHOL.jpg
 logoKey: currencies/kamhol.jpg
 name: Kamermans Holding
+platform: MATIC
+platform_contract: '0xcBf56a2C53706C4e9068CEA3fFcD3bF23B5FC229'

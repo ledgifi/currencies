@@ -5,3 +5,5 @@ id_nomics: KTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KTC.png
 logoKey: currencies/ktc.png
 name: Kyvalion Token Coin
+platform: ETH
+platform_contract: '0x1f224c07a3d6cafa422072ee17f764c6aacf2d56'

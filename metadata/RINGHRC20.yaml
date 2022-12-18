@@ -3,3 +3,5 @@ fiat: false
 id: RINGHRC20
 id_nomics: RINGHRC20
 name: Heco-Peg RING Token
+platform: HT
+platform_contract: '0x15e65456310ecb216b51efbd8a1dbf753353dcf9'

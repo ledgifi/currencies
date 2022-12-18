@@ -5,3 +5,5 @@ id_nomics: EFFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EFFT.jpg
 logoKey: currencies/efft.jpg
 name: Effort Economy
+platform: BNB
+platform_contract: '0x144e72b405530ad82a5e6833ef1bb73d0bd2a216'

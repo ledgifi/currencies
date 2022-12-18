@@ -6,3 +6,5 @@ id_nomics: CRED
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/cred.svg
 logoKey: currencies/cred.svg
 name: Verify
+platform: ETH
+platform_contract: '0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd'

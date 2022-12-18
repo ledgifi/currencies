@@ -5,3 +5,5 @@ id_nomics: COOSHA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COOSHA.png
 logoKey: currencies/coosha.png
 name: Coosha Aurora V1 (OLD)
+platform: BNB
+platform_contract: '0x8d163c152f6e26ca9569346fd94c63a3741cc10e'

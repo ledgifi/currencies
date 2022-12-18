@@ -3,3 +3,5 @@ fiat: false
 id: BCBUSD
 id_nomics: BCBUSD
 name: BlockNG-Peg BUSD Token
+platform: SMARTBCH
+platform_contract: '0xbc6aea0c2cd7bfa073903ebdc23c8aae79c7c826'

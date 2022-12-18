@@ -5,3 +5,5 @@ id_nomics: CRC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRC5.jpg
 logoKey: currencies/crc5.jpg
 name: Crypto Classic
+platform: BNB
+platform_contract: '0x8a6cfd647abdafb80cfcf941bf96011a67f35e9a'

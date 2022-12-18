@@ -5,3 +5,5 @@ id_nomics: BITCOINUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bitcoinus.jpg
 logoKey: currencies/bitcoinus.jpg
 name: Bitcoinus
+platform: ETH
+platform_contract: '0xc38f1fb49acdf2f1213caf3319f6eb3ea2cb7527'

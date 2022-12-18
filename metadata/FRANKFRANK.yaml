@@ -3,3 +3,5 @@ fiat: false
 id: FRANKFRANK
 id_nomics: FRANKFRANK
 name: frankfrank
+platform: ETH
+platform_contract: '0x84d831fe9556692bf34b58731969f617af791696'

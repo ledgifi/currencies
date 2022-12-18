@@ -5,3 +5,5 @@ id_nomics: POWERPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POWERPOS.jpg
 logoKey: currencies/powerpos.jpg
 name: UniPower (Polygon)
+platform: MATIC
+platform_contract: '0x00d5149cdf7cec8725bf50073c51c4fa58ecca12'

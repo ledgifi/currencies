@@ -6,3 +6,5 @@ id_nomics: TLT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TLT.png
 logoKey: currencies/tlt.png
 name: Trip Leverage Token
+platform: BNB
+platform_contract: '0x01f959f4b637eca434682b620542454572d07042'

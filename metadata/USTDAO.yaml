@@ -3,3 +3,5 @@ fiat: false
 id: USTDAO
 id_nomics: USTDAO
 name: Ustdao
+platform: BNB
+platform_contract: '0x328db0c80a21395925908ddfed23567cf61147b0'

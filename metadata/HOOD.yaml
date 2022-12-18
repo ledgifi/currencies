@@ -6,3 +6,5 @@ id_nomics: HOOD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOOD.jpg
 logoKey: currencies/hood.jpg
 name: Hoodler
+platform: BNB
+platform_contract: '0x02df6cf91c519db4ac254216a8ed3a17aecfaed7'

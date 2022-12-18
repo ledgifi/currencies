@@ -5,3 +5,5 @@ id_nomics: ZAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZAY.png
 logoKey: currencies/zay.png
 name: Zayka Token
+platform: ETH
+platform_contract: '0xffb5531e6a916d228958016441146299ab5eddd0'

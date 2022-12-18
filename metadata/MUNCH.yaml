@@ -6,3 +6,5 @@ id_nomics: MUNCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MUNCH.jpg
 logoKey: currencies/munch.jpg
 name: Munch Token
+platform: ETH
+platform_contract: '0x944eee930933be5e23b690c8589021ec8619a301'

@@ -3,3 +3,5 @@ fiat: false
 id: UBOND
 id_nomics: UBOND
 name: UBOND
+platform: HARMONY
+platform_contract: '0x1d8a836a204228051e7e24e86469ca067dc052c5'

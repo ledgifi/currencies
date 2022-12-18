@@ -5,3 +5,5 @@ id_nomics: KYUBI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KYUBI.jpg
 logoKey: currencies/kyubi.jpg
 name: Kyūbi World
+platform: ETH
+platform_contract: '0x6777d4e4d86df506887dbeb62f63ad532ac11ad7'

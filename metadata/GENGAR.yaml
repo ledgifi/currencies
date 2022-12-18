@@ -6,3 +6,5 @@ id_nomics: GENGAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GENGAR.jpg
 logoKey: currencies/gengar.jpg
 name: Gengar
+platform: ETH
+platform_contract: '0x48b2dd9cefba73c60882478a16bc3428aceed2b9'

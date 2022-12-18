@@ -3,3 +3,5 @@ fiat: false
 id: ORBX
 id_nomics: ORBX
 name: Orbital Coin
+platform: BNB
+platform_contract: '0x49969019255d948dc2f1d9e4485aaea8cf701487'

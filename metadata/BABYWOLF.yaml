@@ -6,3 +6,5 @@ id_nomics: BABYWOLF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYWOLF.jpg
 logoKey: currencies/babywolf.jpg
 name: Baby Moon Wolf
+platform: BNB
+platform_contract: '0x5b5a3a45002736413613b8a4c46cc0d9d1d6f4ae'

@@ -3,3 +3,5 @@ fiat: false
 id: BOLO
 id_nomics: BOLO
 name: Bollo Token
+platform: BNB
+platform_contract: '0x1921168344840d1ca5acd82e8815f24582d4ad27'

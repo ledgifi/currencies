@@ -6,3 +6,5 @@ id_nomics: QUAM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QUAM.jpg
 logoKey: currencies/quam.jpg
 name: Quam Network
+platform: BNB
+platform_contract: '0x1ade17b4b38b472b5259bbc938618226df7b5ca8'

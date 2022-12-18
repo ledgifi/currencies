@@ -5,3 +5,5 @@ id_nomics: BGS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BGS2.jpg
 logoKey: currencies/bgs2.jpg
 name: Battle of Guardians Share
+platform: BNB
+platform_contract: '0xf339e8c294046e6e7ef6ad4f6fa9e202b59b556b'

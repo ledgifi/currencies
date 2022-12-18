@@ -6,3 +6,5 @@ id_nomics: BUX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUX.jpg
 logoKey: currencies/bux.jpg
 name: BUX Token
+platform: BNB
+platform_contract: '0x211ffbe424b90e25a15531ca322adf1559779e45'

@@ -5,3 +5,5 @@ id_nomics: LION3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LION3.jpg
 logoKey: currencies/lion3.jpg
 name: PolyLion
+platform: MATIC
+platform_contract: '0x1da554d34027ca8de74c5b1cd2fa53a8a1492c94'

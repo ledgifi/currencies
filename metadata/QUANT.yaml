@@ -3,3 +3,5 @@ fiat: false
 id: QUANT
 id_nomics: QUANT
 name: Quant Token
+platform: BNB
+platform_contract: '0xbca627fed3b6e8f414c745e12b2b89371497779d'

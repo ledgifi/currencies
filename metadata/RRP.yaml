@@ -5,3 +5,5 @@ id_nomics: RRP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RRP.jpeg
 logoKey: currencies/rrp.jpeg
 name: Reverse Rug Pull
+platform: BNB
+platform_contract: '0x4dea62e758354d4743e80eb61adb5648f568b93e'

@@ -3,3 +3,5 @@ fiat: false
 id: MTOS
 id_nomics: MTOS
 name: MTOS
+platform: BNB
+platform_contract: '0xec7798104df162bec18a568283725af62d940f24'

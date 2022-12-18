@@ -3,3 +3,5 @@ fiat: false
 id: MOLTEST
 id_nomics: MOLTEST
 name: MolSwapTest
+platform: BNB
+platform_contract: '0x1192555701e62e2018e2279deb9ccfeb9c3cf139'

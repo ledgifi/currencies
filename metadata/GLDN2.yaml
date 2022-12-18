@@ -5,3 +5,5 @@ id_nomics: GLDN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GLDN2.png
 logoKey: currencies/gldn2.png
 name: Golden Retriever
+platform: ETH
+platform_contract: '0xfeeb4d0f5463b1b04351823c246bdb84c4320cc2'

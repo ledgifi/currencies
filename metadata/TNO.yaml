@@ -6,3 +6,5 @@ id_nomics: TNO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TNO.png
 logoKey: currencies/tno.png
 name: Tnos Coin
+platform: ETH
+platform_contract: '0xad6683b7f3618c44f5ca6040902812dd890dde4d'

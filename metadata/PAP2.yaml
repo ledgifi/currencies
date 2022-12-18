@@ -5,3 +5,5 @@ id_nomics: PAP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAP2.png
 logoKey: currencies/pap2.png
 name: Pan Protocol
+platform: BNB
+platform_contract: '0xebd7417e3ec0f54f654338f44cc5fd0fc5382fe4'

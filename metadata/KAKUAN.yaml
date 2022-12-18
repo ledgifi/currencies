@@ -5,3 +5,5 @@ id_nomics: KAKUAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAKUAN.png
 logoKey: currencies/kakuan.png
 name: 10 Bulls
+platform: ETH
+platform_contract: '0xcd452ad761bd624cb016d40ce9d232f180e55d73'

@@ -5,3 +5,5 @@ id_nomics: MERCURY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MERCURY2.jpeg
 logoKey: currencies/mercury2.jpeg
 name: MercuryRising
+platform: BNB
+platform_contract: '0xbc6be6809d048eac4294b584768190fb939c5585'

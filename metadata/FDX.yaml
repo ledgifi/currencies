@@ -5,3 +5,5 @@ id_nomics: FDX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/fdx.jpg
 logoKey: currencies/fdx.jpg
 name: fidentiax
+platform: ETH
+platform_contract: '0x52a7cb918c11a16958be40cba7e31e32a499a465'

@@ -3,3 +3,5 @@ fiat: false
 id: LUCO
 id_nomics: LUCO
 name: LunaCore
+platform: ETH
+platform_contract: '0x1d1dad28770ad8af00bbfc71fad222a3aaef7148'

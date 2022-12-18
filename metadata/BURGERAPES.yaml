@@ -5,3 +5,5 @@ id_nomics: BURGERAPES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BURGERAPES.jpg
 logoKey: currencies/burgerapes.jpg
 name: Burger Apes
+platform: BNB
+platform_contract: '0x90f1b8d1f0a74456481bd34529d2464d6010c2e1'

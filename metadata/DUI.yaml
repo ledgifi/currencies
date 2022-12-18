@@ -5,3 +5,5 @@ id_nomics: DUI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUI.jpg
 logoKey: currencies/dui.jpg
 name: Dui Token
+platform: BNB
+platform_contract: '0x8943b6d1677a4addbe5aa58f429e11e856746fba'

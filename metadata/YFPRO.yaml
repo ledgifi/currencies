@@ -6,3 +6,5 @@ id_nomics: YFPRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFPRO.jpg
 logoKey: currencies/yfpro.jpg
 name: YFPRO Finance
+platform: ETH
+platform_contract: '0x0fdc5313333533cc0c00c22792bff7383d3055f2'

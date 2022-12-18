@@ -5,3 +5,5 @@ id_nomics: PIGI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIGI2.jpg
 logoKey: currencies/pigi2.jpg
 name: Piggy Planet
+platform: BNB
+platform_contract: '0x94bab59150580674666e4403abf90df64398e26b'

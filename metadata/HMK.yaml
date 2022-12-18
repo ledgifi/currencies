@@ -5,3 +5,5 @@ id_nomics: HMK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HMK.png
 logoKey: currencies/hmk.png
 name: HMK Global Economic Circular
+platform: ETH
+platform_contract: '0xa0a6b8f5f8d41b88a4306c6a9e85028cbefad8e1'

@@ -3,3 +3,5 @@ fiat: false
 id: ALLBOARD
 id_nomics: ALLBOARD
 name: LastCall
+platform: MATIC
+platform_contract: '0x65bb89be0c45441d16d435a5ef0c63e9eb5cbec2'

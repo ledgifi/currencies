@@ -3,3 +3,5 @@ fiat: false
 id: UDC
 id_nomics: UDC
 name: UD Coin
+platform: ETH
+platform_contract: '0x1378bfd46a7ffbcae16c7af06a6af34281d0ba7a'

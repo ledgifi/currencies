@@ -5,3 +5,5 @@ id_nomics: SPORTY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPORTY.jpg
 logoKey: currencies/sporty.jpg
 name: Sporty
+platform: BNB
+platform_contract: '0xe672237cc26fcfdfb593e30e7feff450646c8a3f'

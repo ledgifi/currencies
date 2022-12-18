@@ -5,3 +5,5 @@ id_nomics: ALLOY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALLOY.jpg
 logoKey: currencies/alloy.jpg
 name: HyperAlloy
+platform: BNB
+platform_contract: '0x5ef5994fa33ff4eb6c82d51ee1dc145c546065bd'

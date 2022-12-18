@@ -5,3 +5,5 @@ id_nomics: SCARE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCARE.jpg
 logoKey: currencies/scare.jpg
 name: ScareCrow
+platform: FTM
+platform_contract: '0x46e1ee17f51c52661d04238f1700c547de3b84a1'

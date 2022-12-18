@@ -5,3 +5,5 @@ id_nomics: FIRACRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIRACRO.png
 logoKey: currencies/firacro.png
 name: Fira (Cronos)
+platform: CRO
+platform_contract: '0x7aba852082b6f763e13010ca33b5d9ea4eee2983'

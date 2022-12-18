@@ -5,3 +5,5 @@ id_nomics: ETS4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETS4.jpg
 logoKey: currencies/ets4.jpg
 name: Ethersniper
+platform: BNB
+platform_contract: '0x080f2ed125c2e41e979d1ae9f8ef8c262b344855'

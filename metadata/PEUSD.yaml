@@ -3,3 +3,5 @@ fiat: false
 id: PEUSD
 id_nomics: PEUSD
 name: PabloEscobarUSD
+platform: BNB
+platform_contract: '0xf948b125066e3cc0b7d3b561ae0f8107816e1dc3'

@@ -3,3 +3,5 @@ fiat: false
 id: WSOW
 id_nomics: WSOW
 name: Wrapped SOW
+platform: BNB
+platform_contract: '0xe70d287aad130e2cee520e75d12c6efa4f1a377d'

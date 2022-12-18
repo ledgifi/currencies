@@ -6,3 +6,5 @@ id_nomics: TRR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRR.jpg
 logoKey: currencies/trr.jpg
 name: Terran Coin
+platform: ETH
+platform_contract: '0x490e3f4af13e1616ec97a8c6600c1061a8d0253e'

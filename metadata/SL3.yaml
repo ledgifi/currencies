@@ -5,3 +5,5 @@ id_nomics: SL3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SL3.jpg
 logoKey: currencies/sl3.jpg
 name: SL3 Token
+platform: AVAX
+platform_contract: '0x2841a8a2ce98a9d21ad8c3b7fc481527569bd7bb'

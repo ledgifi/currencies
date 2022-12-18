@@ -3,3 +3,5 @@ fiat: false
 id: NP4
 id_nomics: NP4
 name: BEP20 Standard
+platform: BNB
+platform_contract: '0x21eab8f3a6c980d6c68cdf2a28906f99d6a46391'

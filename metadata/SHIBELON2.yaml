@@ -5,3 +5,5 @@ id_nomics: SHIBELON2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBELON2.jpg
 logoKey: currencies/shibelon2.jpg
 name: ShibElon
+platform: BNB
+platform_contract: '0xc183062db25fc96325485ea369c979ce881ac0ea'

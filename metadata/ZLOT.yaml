@@ -6,3 +6,5 @@ id_nomics: ZLOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZLOT.jpg
 logoKey: currencies/zlot.jpg
 name: zLOT
+platform: ETH
+platform_contract: '0xa8e7ad77c60ee6f30bac54e2e7c0617bd7b5a03e'

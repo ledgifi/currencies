@@ -5,3 +5,5 @@ id_nomics: VLC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VLC.png
 logoKey: currencies/vlc.png
 name: ValueChain
+platform: ETH
+platform_contract: '0x8f7b0b40e27e357540f90f187d90ce06366ac5a5'

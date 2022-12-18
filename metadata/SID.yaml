@@ -5,3 +5,5 @@ id_nomics: SID
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SID.jpg
 logoKey: currencies/sid.jpg
 name: Shield Token
+platform: BNB
+platform_contract: '0x9dadf352e3f997616f2562dd4af246c971f6cb67'

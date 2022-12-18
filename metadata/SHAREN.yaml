@@ -5,3 +5,5 @@ id_nomics: SHAREN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHAREN.png
 logoKey: currencies/sharen.png
 name: WENWEN SHAREN
+platform: ETH
+platform_contract: '0x772c316e0a7ab5f1de6de5199a22c951254c5cd3'

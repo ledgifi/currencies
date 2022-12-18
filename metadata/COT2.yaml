@@ -5,3 +5,5 @@ id_nomics: COT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COT2.jpg
 logoKey: currencies/cot2.jpg
 name: Cosplay Token
+platform: ETH
+platform_contract: '0x5cac718a3ae330d361e39244bf9e67ab17514ce8'

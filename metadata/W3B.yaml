@@ -5,3 +5,5 @@ id_nomics: W3B
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/W3B.jpg
 logoKey: currencies/w3b.jpg
 name: W3bPUSH
+platform: ETH
+platform_contract: '0x777ba4d2393ea77893322743c7d817efef872204'

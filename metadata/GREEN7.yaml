@@ -5,3 +5,5 @@ id_nomics: GREEN7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GREEN7.jpg
 logoKey: currencies/green7.jpg
 name: Green Chart
+platform: BNB
+platform_contract: '0x5775e60447a0bc86c67c61472476ebf6fcab0d87'

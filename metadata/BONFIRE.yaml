@@ -6,3 +6,5 @@ id_nomics: BONFIRE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BONFIRE.jpg
 logoKey: currencies/bonfire.jpg
 name: BONFIRE
+platform: BNB
+platform_contract: '0x5e90253fbae4Dab78aa351f4E6fed08A64AB5590'

@@ -5,3 +5,5 @@ id_nomics: USDPLUSPLUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDPLUSPLUS.jpg
 logoKey: currencies/usdplusplus.jpg
 name: PieDAO USD++
+platform: ETH
+platform_contract: '0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e'

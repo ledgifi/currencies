@@ -5,3 +5,5 @@ id_nomics: MACH7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MACH7.jpg
 logoKey: currencies/mach7.jpg
 name: Mach7
+platform: BNB
+platform_contract: '0x0d648aff904a6f755b27c49db3f4e5a59e407961'

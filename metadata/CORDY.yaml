@@ -3,3 +3,5 @@ fiat: false
 id: CORDY
 id_nomics: CORDY
 name: CordyCeps
+platform: AVAX
+platform_contract: '0x5938956037534ae93089a91d427d7855f83726bf'

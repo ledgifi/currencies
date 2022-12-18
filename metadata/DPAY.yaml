@@ -3,3 +3,5 @@ fiat: false
 id: DPAY
 id_nomics: DPAY
 name: Dinamicpay
+platform: BNB
+platform_contract: '0x20e12fcbe171e8458c599046a2fe3cf6f5644189'

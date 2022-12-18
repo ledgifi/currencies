@@ -5,3 +5,5 @@ id_nomics: STARS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STARS2.jpg
 logoKey: currencies/stars2.jpg
 name: StarShip
+platform: ETH
+platform_contract: '0x7ccfeef4f0ff48b0e0abd19bbbebae90939f180d'

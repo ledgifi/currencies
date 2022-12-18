@@ -5,3 +5,5 @@ id_nomics: TBE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TBE2.jpg
 logoKey: currencies/tbe2.jpg
 name: TrustBase
+platform: HT
+platform_contract: '0x0e0ba709a042618eb0d1ad8109b5f0e7dfb6a6c3'

@@ -5,3 +5,5 @@ id_nomics: CARS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CARS.png
 logoKey: currencies/cars.png
 name: Car Sharing
+platform: ETH
+platform_contract: '0x423e4322cdda29156b49a17dfbd2acc4b280600d'

@@ -3,3 +3,5 @@ fiat: false
 id: SANIBANK
 id_nomics: SANIBANK
 name: Bank of Moontoshi
+platform: ETH
+platform_contract: '0x40026a6dd4fdfabc006ef2a27b3232d9bc2f3e5d'

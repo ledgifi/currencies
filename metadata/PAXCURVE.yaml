@@ -3,3 +3,5 @@ fiat: false
 id: PAXCURVE
 id_nomics: PAXCURVE
 name: LP-paxCurve
+platform: ETH
+platform_contract: '0xd905e2eaebe188fc92179b6350807d8bd91db0d8'

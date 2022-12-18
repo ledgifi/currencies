@@ -5,3 +5,5 @@ id_nomics: ORC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORC4.jpg
 logoKey: currencies/orc4.jpg
 name: Orclands Metaverse
+platform: BNB
+platform_contract: '0x968f9c44879f67a29b1bfccf93ea82d46a72881f'

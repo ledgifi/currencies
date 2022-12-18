@@ -5,3 +5,5 @@ id_nomics: SADA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SADA.png
 logoKey: currencies/sada.png
 name: sADA
+platform: ETH
+platform_contract: '0xe36e2d3c7c34281fa3bc737950a68571736880a1'

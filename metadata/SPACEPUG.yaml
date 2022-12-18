@@ -5,3 +5,5 @@ id_nomics: SPACEPUG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPACEPUG.jpg
 logoKey: currencies/spacepug.jpg
 name: SPACEPUG
+platform: BNB
+platform_contract: '0xfc13a56fe9ed0d4f6c7470e01d88c2fe18f6c27c'

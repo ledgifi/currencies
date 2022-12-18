@@ -3,3 +3,5 @@ fiat: false
 id: TWERC
 id_nomics: TWERC
 name: Twithereum
+platform: ETH
+platform_contract: '0x7d5037bf1182fe606286b442bd54624481b9676f'

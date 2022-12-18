@@ -5,3 +5,5 @@ id_nomics: SPICE6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPICE6.png
 logoKey: currencies/spice6.png
 name: Spice Trade
+platform: AVAX
+platform_contract: '0xf30c5083a1479865c9a8916dec6ddadd82e8907b'

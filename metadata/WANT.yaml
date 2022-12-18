@@ -3,3 +3,5 @@ fiat: false
 id: WANT
 id_nomics: WANT
 name: WAN
+platform: BNB
+platform_contract: '0x234a4dc077787222ec36c4a85972334426232047'

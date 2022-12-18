@@ -6,3 +6,5 @@ id_nomics: REW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REW.jpg
 logoKey: currencies/rew.jpg
 name: Rewardiqa
+platform: ETH
+platform_contract: '0x3ffffa8f3cc943e43f9f17a83cbb18f4bbb9f4ac'

@@ -5,3 +5,5 @@ id_nomics: ALLN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALLN.jpg
 logoKey: currencies/alln.jpg
 name: Airline and Life Networking
+platform: ETH
+platform_contract: '0x1c7f4d9f954f12efd3763d6ae7a14f1336a067ef'

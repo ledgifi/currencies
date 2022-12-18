@@ -6,3 +6,5 @@ id_nomics: B2P
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/B2P.png
 logoKey: currencies/b2p.png
 name: Block2Play
+platform: BNB
+platform_contract: '0xe3a9d3c1174f315ed5c3a8e6c643f2e0aea58dff'

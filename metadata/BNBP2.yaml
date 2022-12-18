@@ -5,3 +5,5 @@ id_nomics: BNBP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNBP2.png
 logoKey: currencies/bnbp2.png
 name: BNBPot
+platform: BNB
+platform_contract: '0x4d9927a8dc4432b93445da94e4084d292438931f'

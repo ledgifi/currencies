@@ -3,3 +3,5 @@ fiat: false
 id: MONEYHEIST
 id_nomics: MONEYHEIST
 name: Money Heist
+platform: ETH
+platform_contract: '0x7203f072af89c27890257da2f9b3d318a4cfdd9b'

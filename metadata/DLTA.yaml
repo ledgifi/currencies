@@ -6,3 +6,5 @@ id_nomics: DLTA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DELTATHETA.jpg
 logoKey: currencies/dlta.jpg
 name: delta.theta
+platform: ETH
+platform_contract: '0x0000000de40dfa9b17854cbc7869d80f9f98d823'

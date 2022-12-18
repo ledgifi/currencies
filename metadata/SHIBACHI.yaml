@@ -5,3 +5,5 @@ id_nomics: SHIBACHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBACHI.png
 logoKey: currencies/shibachi.png
 name: Shibachi Inu
+platform: BNB
+platform_contract: '0x8ad2e1a0de26aee2d5e396e5a498dfc7cd816e62'

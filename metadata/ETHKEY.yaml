@@ -4,3 +4,5 @@ id: ETHKEY
 id_coinpaprika: ethkey-eth-key
 id_nomics: ETHKEY
 name: ETH Key
+platform: ETH
+platform_contract: '0x43f07f1d52eb52ccca4601bac8b9d034465a3899'

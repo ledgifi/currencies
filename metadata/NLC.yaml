@@ -5,3 +5,5 @@ id_nomics: NLC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NLC.jpg
 logoKey: currencies/nlc.jpg
 name: Night Light Coin
+platform: ETH
+platform_contract: '0xee6a3cd161bbda18300c03ed1a7b33544c5dfc3c'

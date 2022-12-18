@@ -3,3 +3,5 @@ fiat: false
 id: CATPAY
 id_nomics: CATPAY
 name: Catpay
+platform: BNB
+platform_contract: '0x0611686a2558de495617685b3da12448657170fe'

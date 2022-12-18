@@ -3,3 +3,5 @@ fiat: false
 id: STRA
 id_nomics: STRA
 name: Stra Swap
+platform: ETH
+platform_contract: '0x9f09b7687af892c9d7d2d498a2bd531691996506'

@@ -5,3 +5,5 @@ id_nomics: POW4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POW4.jpg
 logoKey: currencies/pow4.jpg
 name: Power Block
+platform: ETH
+platform_contract: '0x66e714bfb21f255f57c0682ac1e20254a7821779'

@@ -5,3 +5,5 @@ id_nomics: BTR7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTR7.jpg
 logoKey: currencies/btr7.jpg
 name: BigTrump
+platform: BNB
+platform_contract: '0xeb7e3acf594ed3767eeb3e1a8a20a8cdbf65e747'

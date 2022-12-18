@@ -5,3 +5,5 @@ id_nomics: TINU8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TINU8.jpg
 logoKey: currencies/tinu8.jpg
 name: Tristan Tate Inu
+platform: BNB
+platform_contract: '0x3669a0ca07e2f5352300fb96579ffa53b3e35892'

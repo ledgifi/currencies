@@ -5,3 +5,5 @@ id_nomics: SPADE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPADE2.png
 logoKey: currencies/spade2.png
 name: SPADE
+platform: FTM
+platform_contract: '0x300e170EC32d09A4AA312A21c6bEd1C001Dcd996'

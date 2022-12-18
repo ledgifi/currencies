@@ -5,3 +5,5 @@ id_nomics: BONE7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BONE7.jpg
 logoKey: currencies/bone7.jpg
 name: BoneSwap
+platform: MATIC
+platform_contract: '0x80244c2441779361f35803b8c711c6c8fc6054a3'

@@ -5,3 +5,5 @@ id_nomics: VANCO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VANCO.png
 logoKey: currencies/vanco.png
 name: Vanilla Coin
+platform: ETH
+platform_contract: '0x2bcfb680210892800d3dc19bcb1f75711349b5d7'

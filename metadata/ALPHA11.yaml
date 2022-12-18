@@ -5,3 +5,5 @@ id_nomics: ALPHA11
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALPHA11.jpg
 logoKey: currencies/alpha11.jpg
 name: Alpha Launchpad
+platform: BNB
+platform_contract: '0xb88542d7ae8d23d0c9a1dffa9f89a937f5f71fde'

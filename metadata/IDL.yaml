@@ -6,3 +6,5 @@ id_nomics: IDL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IDL.jpg
 logoKey: currencies/idl.jpg
 name: IDL Token
+platform: ETH
+platform_contract: '0x6febd6be8fa45be6a5eeb61a17c82d33b9addd41'

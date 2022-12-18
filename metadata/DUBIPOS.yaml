@@ -5,3 +5,5 @@ id_nomics: DUBIPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUBIPOS.png
 logoKey: currencies/dubipos.png
 name: Decentralized Universal Basic Income (Polygon)
+platform: MATIC
+platform_contract: '0x950e1561B7A7dEB1A32A6419FD435410daf851B0'

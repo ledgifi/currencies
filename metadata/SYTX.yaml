@@ -3,3 +3,5 @@ fiat: false
 id: SYTX
 id_nomics: SYTX
 name: SYTX
+platform: HT
+platform_contract: '0x81c072fedbace45dc729b548772d699f0bd0e4dd'

@@ -8,3 +8,5 @@ id_nomics: SFP
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220817/e1e8124f-e298-409b-849f-9b725f390db7.png
 logoKey: currencies/sfp.png
 name: SafePal
+platform: BNB
+platform_contract: '0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb'

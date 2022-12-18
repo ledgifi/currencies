@@ -5,3 +5,5 @@ id_nomics: EAPEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EAPEX.jpg
 logoKey: currencies/eapex.jpg
 name: Ethereum Apex
+platform: ETH
+platform_contract: '0x1caa202df9240d7b464d9486a6f1542768ef0d30'

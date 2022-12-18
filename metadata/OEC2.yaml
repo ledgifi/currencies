@@ -3,3 +3,5 @@ fiat: false
 id: OEC2
 id_nomics: OEC2
 name: Ocean Environment Coin
+platform: ETH
+platform_contract: '0xa85d9c9a4fa993f2f865815a04c0dc3e4e3c58b4'

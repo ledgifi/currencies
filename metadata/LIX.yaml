@@ -6,3 +6,5 @@ id_nomics: LIX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIX.jpg
 logoKey: currencies/lix.jpg
 name: Lixir Finance
+platform: ETH
+platform_contract: '0xd0345d30fd918d7682398acbcdf139c808998709'

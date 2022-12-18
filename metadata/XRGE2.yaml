@@ -5,3 +5,5 @@ id_nomics: XRGE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XRGE2.png
 logoKey: currencies/xrge2.png
 name: RougeCoin V2
+platform: BNB
+platform_contract: '0x60290c4350f96a255d923df74aee8fdde3ac7cd7'

@@ -3,3 +3,5 @@ fiat: false
 id: FQS
 id_nomics: FQS
 name: FqSwap
+platform: BNB
+platform_contract: '0x9075055c3ee590ee0d7a2e1ef4376a851369e8e0'

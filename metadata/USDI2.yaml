@@ -3,3 +3,5 @@ fiat: false
 id: USDI2
 id_nomics: USDI2
 name: Interest Protocol
+platform: ETH
+platform_contract: '0x2a54ba2964c8cd459dc568853f79813a60761b58'

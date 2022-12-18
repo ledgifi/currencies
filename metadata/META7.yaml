@@ -5,3 +5,5 @@ id_nomics: META7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/META7.png
 logoKey: currencies/meta7.png
 name: Meta
+platform: BNB
+platform_contract: '0x26165a5a3dd21fa528becf3ff7f114d00a517344'

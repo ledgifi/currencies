@@ -5,3 +5,5 @@ id_nomics: CZDIAMOND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CZDIAMOND.jpg
 logoKey: currencies/czdiamond.jpg
 name: CZDiamond
+platform: MATIC
+platform_contract: '0x6664c64c8582e62da861fcac33a627b0f92ff0f8'

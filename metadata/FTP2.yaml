@@ -5,3 +5,5 @@ id_nomics: FTP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FTP2.png
 logoKey: currencies/ftp2.png
 name: Fountain Protocol
+platform: ROSE
+platform_contract: '0xd1df9ce4b6159441d18bd6887dbd7320a8d52a05'

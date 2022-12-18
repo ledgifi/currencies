@@ -5,3 +5,5 @@ id_nomics: TIFI3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIFI3.jpg
 logoKey: currencies/tifi3.jpg
 name: TifiGrow
+platform: BNB
+platform_contract: '0x14dbc537218c090944c17683d9842b99028c18d6'

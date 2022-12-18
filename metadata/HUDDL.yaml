@@ -6,3 +6,5 @@ id_nomics: HUDDL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HUDDL.jpg
 logoKey: currencies/huddl.jpg
 name: Huddl
+platform: ETH
+platform_contract: '0x5137a403dd25e48de528912a4af62881e625d801'

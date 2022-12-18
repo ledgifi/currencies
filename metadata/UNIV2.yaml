@@ -3,3 +3,5 @@ fiat: false
 id: UNIV2
 id_nomics: UNIV2
 name: Uniswap V2
+platform: ETH
+platform_contract: '0x59f96b8571e3b11f859a09eaf5a790a138fc64d0'

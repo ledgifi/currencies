@@ -5,3 +5,5 @@ id_nomics: RORY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RORY.png
 logoKey: currencies/rory.png
 name: Rory Coin
+platform: BNB
+platform_contract: '0xc3373eea2a6b27baed2b39f87810a8dd5b2a642a'

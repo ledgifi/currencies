@@ -5,3 +5,5 @@ id_nomics: PUSHINPI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PUSHINPI.jpeg
 logoKey: currencies/pushinpi.jpeg
 name: PushinPi
+platform: BNB
+platform_contract: '0x7eafb720edfb92e9d7d50f82769b9035100f2c93'

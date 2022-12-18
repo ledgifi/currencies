@@ -3,3 +3,5 @@ fiat: false
 id: XENDBEP20
 id_nomics: XENDBEP20
 name: XEND (BEP-20)
+platform: BNB
+platform_contract: '0x4a080377f83d669d7bb83b3184a8a5e61b500608'

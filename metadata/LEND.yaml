@@ -8,3 +8,5 @@ id_nomics: LEND
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/lend.svg
 logoKey: currencies/lend.svg
 name: Aave
+platform: ETH
+platform_contract: '0x80fb784b7ed66730e8b1dbd9820afd29931aab03'

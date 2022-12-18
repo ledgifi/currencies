@@ -3,3 +3,5 @@ fiat: false
 id: RLAM
 id_nomics: RLAM
 name: Reward Lambo
+platform: SMARTBCH
+platform_contract: '0x82b646944956c05b353c0802c8dfc84a571eac6b'

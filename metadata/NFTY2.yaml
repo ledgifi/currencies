@@ -5,3 +5,5 @@ id_nomics: NFTY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTY2.jpg
 logoKey: currencies/nfty2.jpg
 name: NFTY Token
+platform: ETH
+platform_contract: '0xe1d7c7a4596b038ced2a84bf65b8647271c53208'

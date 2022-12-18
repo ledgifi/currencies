@@ -3,3 +3,5 @@ fiat: false
 id: COWBOY
 id_nomics: COWBOY
 name: CowBoy
+platform: BNB
+platform_contract: '0x61f8d75499d853bfaeb02ef3afcc911a6a67c6b8'

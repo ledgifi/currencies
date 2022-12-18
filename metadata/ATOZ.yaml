@@ -3,3 +3,5 @@ fiat: false
 id: ATOZ
 id_nomics: ATOZ
 name: AtozToken
+platform: BNB
+platform_contract: '0x8b2c763bc13f9610bfff20ddd5e8fb1b8d794519'

@@ -3,3 +3,5 @@ fiat: false
 id: MOORETEST1
 id_nomics: MOORETEST1
 name: Mooretest1
+platform: HT
+platform_contract: '0x0ea3ba41201592568071af50d19a0845c0b4c86c'

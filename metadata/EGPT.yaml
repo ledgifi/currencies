@@ -3,3 +3,5 @@ fiat: false
 id: EGPT
 id_nomics: EGPT
 name: EGYPTOKEN
+platform: ETH
+platform_contract: '0xda3bd278a39ae57439ee26b361118173bc70f21f'

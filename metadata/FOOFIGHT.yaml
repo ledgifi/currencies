@@ -6,3 +6,5 @@ id_nomics: FOOFIGHT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOOFIGHT.png
 logoKey: currencies/foofight.png
 name: Fruit Fighters
+platform: BNB
+platform_contract: '0x8c473a401e7ebde6dab178ea0bb5b35cde542c0e'

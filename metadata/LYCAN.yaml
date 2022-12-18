@@ -5,3 +5,5 @@ id_nomics: LYCAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LYCAN.jpeg
 logoKey: currencies/lycan.jpeg
 name: Lycan Finance
+platform: BNB
+platform_contract: '0xAD0B6A90D616580806798BD45CA2045f53aA366e'

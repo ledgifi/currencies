@@ -3,3 +3,5 @@ fiat: false
 id: SFPC
 id_nomics: SFPC
 name: SFPCOIN
+platform: BNB
+platform_contract: '0x8f49b95be06e771fed2955b84f90413484de9fcb'

@@ -5,3 +5,5 @@ id_nomics: MILK5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MILK5.jpg
 logoKey: currencies/milk5.jpg
 name: MilkSwap Token
+platform: BNB
+platform_contract: '0x26ab5131dd666b4179ac909926ee3c18ee05e470'

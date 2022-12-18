@@ -5,3 +5,5 @@ id_nomics: CCC6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CCC6.jpeg
 logoKey: currencies/ccc6.jpeg
 name: Cross Chain Capital V2
+platform: AVAX
+platform_contract: '0x4939B3313E73ae8546b90e53E998E82274afDbDB'

@@ -4,3 +4,5 @@ id: LINKNEAR
 id_nomics: LINKNEAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LINKNEAR.jpg
 name: Chainlink (Near)
+platform: NEAR
+platform_contract: 514910771af9ca656af840dff83e8264ecf986ca.factory.bridge.near

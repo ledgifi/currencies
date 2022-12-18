@@ -5,3 +5,5 @@ id_nomics: MD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MD.png
 logoKey: currencies/md.png
 name: MoonDoge Coin
+platform: BNB
+platform_contract: '0x2dbbe7c69d071f64f595e8d4fd9b176041f0a995'

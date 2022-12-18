@@ -5,3 +5,5 @@ id_nomics: GOCOCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOCOCX.jpg
 logoKey: currencies/gococx.jpg
 name: GoHealth, Inc.
+platform: ETH
+platform_contract: '0x3f4ab8d4bbadd24f9a87082ad61f248989f86f3f'

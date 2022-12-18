@@ -6,3 +6,5 @@ id_nomics: MTF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTF.jpg
 logoKey: currencies/mtf.jpg
 name: Milktea Finance
+platform: BNB
+platform_contract: '0x95ea82a63ee70f3cb141ec55ea4a37339746eb32'

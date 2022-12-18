@@ -6,3 +6,5 @@ id_nomics: NOIZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NOIZ.jpg
 logoKey: currencies/noiz.jpg
 name: Noiz Chain
+platform: ETH
+platform_contract: '0x36151737b45017234e9570cf9a1cac97138953c2'

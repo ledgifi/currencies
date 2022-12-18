@@ -5,3 +5,5 @@ id_nomics: ZIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZIB.jpg
 logoKey: currencies/zib.jpg
 name: ZibCoin
+platform: ETH
+platform_contract: '0x51a2e89dfc28d6e2108848c5a74d5f209be923e0'

@@ -5,3 +5,5 @@ id_nomics: BGLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BGLD.jpg
 logoKey: currencies/bgld.jpg
 name: BAG Gold
+platform: ETH
+platform_contract: '0xabb63bfcbbe7a928864bd3eb75ff06746e1b8a40'

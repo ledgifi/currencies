@@ -5,3 +5,5 @@ id_nomics: CLY4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLY4.jpg
 logoKey: currencies/cly4.jpg
 name: Celery
+platform: BCH
+platform_contract: '0x7642df81b5beaeeb331cc5a104bd13ba68c34b91'

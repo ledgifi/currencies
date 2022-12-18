@@ -3,3 +3,5 @@ fiat: false
 id: YJUSDT
 id_nomics: YJUSDT
 name: YJUSDT
+platform: BNB
+platform_contract: '0x5df9565eade6ff889e11158819587021301563fe'

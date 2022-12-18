@@ -5,3 +5,5 @@ id_nomics: MOJITO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOJITO.jpg
 logoKey: currencies/mojito.jpg
 name: Mojito
+platform: ETH
+platform_contract: '0xda579367c6ca7854009133d1b3739020ba350c23'

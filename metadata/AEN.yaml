@@ -5,3 +5,5 @@ id_nomics: AEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AEN.jpg
 logoKey: currencies/aen.jpg
 name: Aenco
+platform: ETH
+platform_contract: '0x0bef619cf38cf0c22967289b8419720fbd1db9f7'

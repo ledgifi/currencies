@@ -5,3 +5,5 @@ id_nomics: MERD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MERD.jpeg
 logoKey: currencies/merd.jpeg
 name: Mermaid Swap
+platform: AVAX
+platform_contract: '0xF54Cd11595aeC3B99d274318446060E24b0d2D33'

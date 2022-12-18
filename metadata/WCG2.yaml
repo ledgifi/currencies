@@ -5,3 +5,5 @@ id_nomics: WCG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WCG2.jpg
 logoKey: currencies/wcg2.jpg
 name: World Cup Gems
+platform: BNB
+platform_contract: '0x941fbbf336cdf4ab2305EdE4bd834e93A16f9a6F'

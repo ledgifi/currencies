@@ -5,3 +5,5 @@ id_nomics: SUNBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUNBEP20.jpg
 logoKey: currencies/sunbep20.jpg
 name: Sun Token (BEP-20)
+platform: BNB
+platform_contract: '0xa1e6c58d503e4eee986167f45a063853cefe08c3'

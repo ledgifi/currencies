@@ -3,3 +3,5 @@ fiat: false
 id: BLOCKPLUS
 id_nomics: BLOCKPLUS
 name: BlockPlus
+platform: ETH
+platform_contract: '0x2b8fe63f798d9ea13f0dcc9043407b37c1af8621'

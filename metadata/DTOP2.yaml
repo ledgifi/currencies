@@ -5,3 +5,5 @@ id_nomics: DTOP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DTOP2.jpg
 logoKey: currencies/dtop2.jpg
 name: dHEDGE Top Index
+platform: ETH
+platform_contract: '0x0f4c00139602ab502bc7c1c0e71d6cb72a9fb0e7'

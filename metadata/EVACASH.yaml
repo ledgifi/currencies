@@ -5,3 +5,5 @@ id_nomics: EVACASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVACASH.jpg
 logoKey: currencies/evacash.jpg
 name: EvaCash
+platform: ETH
+platform_contract: '0xba14b245d449965bdbeb630ebe135b569474f5b1'

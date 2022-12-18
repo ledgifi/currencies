@@ -5,3 +5,5 @@ id_nomics: DHC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DHC2.jpg
 logoKey: currencies/dhc2.jpg
 name: Diamond Hands Token
+platform: BNB
+platform_contract: '0x4b747b2ed0c445bd52a3a559ff12700689870ca9'

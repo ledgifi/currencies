@@ -5,3 +5,5 @@ id_nomics: DLF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DLF2.png
 logoKey: currencies/dlf2.png
 name: Delfino Finance
+platform: BNB
+platform_contract: '0xf595b2400cb13a140fb162b226e4be3a1bfc3606'

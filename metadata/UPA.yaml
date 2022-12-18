@@ -5,3 +5,5 @@ id_nomics: UPA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UPA.png
 logoKey: currencies/upa.png
 name: Unitopia
+platform: ETH
+platform_contract: '0xd17f8c64635e189f3ca1ca3a16b33e841bf53427'

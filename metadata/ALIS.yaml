@@ -5,3 +5,5 @@ id_nomics: ALIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/alis.jpg
 logoKey: currencies/alis.jpg
 name: ALIS Media
+platform: ETH
+platform_contract: '0xea610b1153477720748dc13ed378003941d84fab'

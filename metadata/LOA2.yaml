@@ -5,3 +5,5 @@ id_nomics: LOA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOA2.jpg
 logoKey: currencies/loa2.jpg
 name: League of Ancients
+platform: BNB
+platform_contract: '0x94b69263fca20119ae817b6f783fc0f13b02ad50'

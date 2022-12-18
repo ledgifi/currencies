@@ -5,3 +5,5 @@ id_nomics: CT6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CT6.jpg
 logoKey: currencies/ct6.jpg
 name: CLIQ
+platform: BNB
+platform_contract: '0xc85a2576693e5a6206398fe1c498c4bfe214df58'

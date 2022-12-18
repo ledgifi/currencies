@@ -3,3 +3,5 @@ fiat: false
 id: THEDIP
 id_nomics: THEDIP
 name: TheDip
+platform: ETH
+platform_contract: '0x56c08585b640933d0a71617c9a792641885db6d4'

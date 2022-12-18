@@ -5,3 +5,5 @@ id_nomics: NMP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NMP.jpg
 logoKey: currencies/nmp.jpg
 name: Neuromorphic.io
+platform: ETH
+platform_contract: '0x4d6b9f281af31916a0f16d1cea2ec7384851eaab'

@@ -5,3 +5,5 @@ id_nomics: LARVAS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LARVAS.jpeg
 logoKey: currencies/larvas.jpeg
 name: Larvas
+platform: BNB
+platform_contract: '0xdab45b23f5334d3c86e198d1b0d4359082d5874a'

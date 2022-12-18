@@ -5,3 +5,5 @@ id_nomics: XAEA123
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XAEA123.jpg
 logoKey: currencies/xaea123.jpg
 name: Son of Elon
+platform: BNB
+platform_contract: '0x7e92445faf696d969d32474b4f1ccafd95e8dcf6'

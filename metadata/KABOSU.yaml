@@ -6,3 +6,5 @@ id_nomics: KABOSU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KABOSU.jpg
 logoKey: currencies/kabosu.jpg
 name: Kabosu
+platform: BNB
+platform_contract: '0x4a824ee819955a7d769e03fe36f9e0c3bd3aa60b'

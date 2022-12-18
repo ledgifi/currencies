@@ -5,3 +5,5 @@ id_nomics: LEV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LEV2.png
 logoKey: currencies/lev2.png
 name: Lever Network
+platform: ETH
+platform_contract: '0xbc194e6f748a222754c3e8b9946922c09e7d4e91'

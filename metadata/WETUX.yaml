@@ -5,3 +5,5 @@ id_nomics: WETUX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WETUX.png
 logoKey: currencies/wetux.png
 name: WETUX
+platform: BNB
+platform_contract: '0x58f0c2fd4b7b0fbac97c9cc71a5eb810627734c8'

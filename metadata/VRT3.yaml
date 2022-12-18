@@ -5,3 +5,5 @@ id_nomics: VRT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VRT3.jpeg
 logoKey: currencies/vrt3.jpeg
 name: Vrtrinity
+platform: BNB
+platform_contract: '0xe935a5ed165b8cffa1475e872867e8c5910adaa9'

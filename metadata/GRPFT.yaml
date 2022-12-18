@@ -5,3 +5,5 @@ id_nomics: GRPFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GRPFT.jpg
 logoKey: currencies/grpft.jpg
 name: GRAPEFRUIT
+platform: ETH
+platform_contract: '0x64b986211c0cc675143f895c437b79c3cadf364a'

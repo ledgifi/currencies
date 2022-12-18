@@ -5,3 +5,5 @@ id_nomics: STL3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STL3.png
 logoKey: currencies/stl3.png
 name: Stelios V2
+platform: BNB
+platform_contract: '0x6cdbe872fd493fd2495cc2b4239ee1aee3c6e2dd'

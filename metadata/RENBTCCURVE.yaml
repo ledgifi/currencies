@@ -3,3 +3,5 @@ fiat: false
 id: RENBTCCURVE
 id_nomics: RENBTCCURVE
 name: LP renBTC Curve
+platform: ETH
+platform_contract: '0x49849c98ae39fff122806c06791fa73784fb3675'

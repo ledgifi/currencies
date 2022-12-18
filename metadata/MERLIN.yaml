@@ -5,3 +5,5 @@ id_nomics: MERLIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MERLIN.jpg
 logoKey: currencies/merlin.jpg
 name: Merlin Inu
+platform: ETH
+platform_contract: '0xa5ed22aeebf79415a10dc5251b42d088fc6bcd52'

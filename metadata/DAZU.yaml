@@ -5,3 +5,5 @@ id_nomics: DAZU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAZU.jpg
 logoKey: currencies/dazu.jpg
 name: Dazu Huike
+platform: ETH
+platform_contract: '0xE1E44E6918c283a0481037a03056B416f4347B28'

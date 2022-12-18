@@ -5,3 +5,5 @@ id_nomics: RODOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RODOGE.jpg
 logoKey: currencies/rodoge.jpg
 name: Rose Doge
+platform: BNB
+platform_contract: '0x8131813119150a70ac385e3601affb51e4b0c10a'

@@ -5,3 +5,5 @@ id_nomics: CREDIT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CREDIT2.jpg
 logoKey: currencies/credit2.jpg
 name: Credit
+platform: ETH
+platform_contract: '0xc4cb5793bd58bad06bf51fb37717b86b02cbe8a4'

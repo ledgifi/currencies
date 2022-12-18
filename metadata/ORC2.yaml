@@ -5,3 +5,5 @@ id_nomics: ORC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORC2.png
 logoKey: currencies/orc2.png
 name: Orbit Chain
+platform: ETH
+platform_contract: '0x662b67d00a13faf93254714dd601f5ed49ef2f51'

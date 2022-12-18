@@ -3,3 +3,5 @@ fiat: false
 id: BALHRC20
 id_nomics: BALHRC20
 name: Heco-Peg BAL Token
+platform: HT
+platform_contract: '0x045de15ca76e76426e8fc7cba8392a3138078d0f'

@@ -5,3 +5,5 @@ id_nomics: SAFIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFIN.jpg
 logoKey: currencies/safin.jpg
 name: Saudi Finance
+platform: BNB
+platform_contract: '0x22f256a7c2bc78a1973af0e129f5ef8c7b0c7730'

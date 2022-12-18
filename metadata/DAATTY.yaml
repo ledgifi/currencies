@@ -5,3 +5,5 @@ id_nomics: DAATTY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAATTY.jpg
 logoKey: currencies/daatty.jpg
 name: DAATTY COIN
+platform: ETH
+platform_contract: '0xad8b556174bff978c6a6ea022871c3e26ea9ddb2'

@@ -5,3 +5,5 @@ id_nomics: PRCHBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRCHBEP20.png
 logoKey: currencies/prchbep20.png
 name: Power Cash (BEP-20)
+platform: BNB
+platform_contract: '0x3B1308AD9d2590ca6A0bF3cA12a2D4Ee15DB07a4'

@@ -5,3 +5,5 @@ id_nomics: COUGAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COUGAR.jpg
 logoKey: currencies/cougar.jpg
 name: COUGAR
+platform: BNB
+platform_contract: '0x694dc0619e7140d83f2627d573015565096832d3'

@@ -6,3 +6,5 @@ id_nomics: BABYFROG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYFROG.jpg
 logoKey: currencies/babyfrog.jpg
 name: BabyFrog
+platform: BNB
+platform_contract: '0x99c2383b5932a785ff4ed0017bc16428bb74510e'

@@ -5,3 +5,5 @@ id_nomics: YOU5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YOU5.jpg
 logoKey: currencies/you5.jpg
 name: You-tility
+platform: ETH
+platform_contract: '0x8f3465bf858ce5fdbdba9e77b48bea9c81822f5a'

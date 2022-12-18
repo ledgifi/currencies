@@ -5,3 +5,5 @@ id_nomics: UVT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UVT.jpeg
 logoKey: currencies/uvt.jpeg
 name: UmbrellaVision
+platform: BNB
+platform_contract: '0xca780a9dd294705d41437a7c530809daa7a85efc'

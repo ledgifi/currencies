@@ -3,3 +3,5 @@ fiat: false
 id: BTCFLY
 id_nomics: BTCFLY
 name: BTCFly
+platform: HT
+platform_contract: '0xef73eb75e1a177bdeb599cd66ddce73e7bb418b7'

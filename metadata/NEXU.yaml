@@ -5,3 +5,5 @@ id_nomics: NEXU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEXU.png
 logoKey: currencies/nexu.png
 name: NEXU
+platform: MATIC
+platform_contract: '0x710D5F47E99bAdEbE41B5de6e97A26359121De34'

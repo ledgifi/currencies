@@ -5,3 +5,5 @@ id_nomics: FUBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FUBTC.jpg
 logoKey: currencies/fubtc.jpg
 name: FUBitcoin
+platform: BNB
+platform_contract: '0xe689511b29db3057d5c9385d9aabdcf0e3114958'

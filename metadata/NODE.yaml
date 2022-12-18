@@ -5,3 +5,5 @@ id_nomics: NODE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NODE.png
 logoKey: currencies/node.png
 name: NODE
+platform: ETH
+platform_contract: '0xac956c72c262e5405a84dac655d5f3bea7ae9534'

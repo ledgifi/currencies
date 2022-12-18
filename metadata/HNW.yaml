@@ -6,3 +6,5 @@ id_nomics: HNW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HNW.jpg
 logoKey: currencies/hnw.jpg
 name: Hobbs Networking
+platform: BNB
+platform_contract: '0x8173ccc721111b5a93ce7fa6fec0fc077b58b1b7'

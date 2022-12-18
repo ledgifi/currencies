@@ -3,3 +3,5 @@ fiat: false
 id: MASTERCHAIN
 id_nomics: MASTERCHAIN
 name: Masterchain
+platform: ETH
+platform_contract: '0x819700f332affacb4f29595ddd3f05eed2a20f9b'

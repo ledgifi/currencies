@@ -5,3 +5,5 @@ id_nomics: RON2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RON2.png
 logoKey: currencies/ron2.png
 name: RON
+platform: ETH
+platform_contract: '0x23f043426b2336e723b32fb3bf4a1ca410f7c49a'

@@ -5,3 +5,5 @@ id_nomics: ROC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROC4.jpg
 logoKey: currencies/roc4.jpg
 name: Rocket Raccoon
+platform: BNB
+platform_contract: '0xaa8f550ed21ae4ece978f4141c4551d1deb7390a'

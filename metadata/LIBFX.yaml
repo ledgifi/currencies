@@ -6,3 +6,5 @@ id_nomics: LIBFX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIBFX.jpg
 logoKey: currencies/libfx.jpg
 name: Libfx
+platform: ETH
+platform_contract: '0xc0ea83113038987d974fe667831a36e442e661e7'

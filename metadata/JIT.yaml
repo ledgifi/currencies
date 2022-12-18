@@ -3,3 +3,5 @@ fiat: false
 id: JIT
 id_nomics: JIT
 name: JitaInu
+platform: ETH
+platform_contract: '0x2df60c61c8dace957f3e124053b80319bd1971bc'

@@ -5,3 +5,5 @@ id_nomics: GER2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GER2.jpg
 logoKey: currencies/ger2.jpg
 name: Ginza Eternity Reward
+platform: BNB
+platform_contract: '0x0e9b29aa5aed3d65867db8b980484c8c49a7f915'

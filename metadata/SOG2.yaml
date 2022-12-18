@@ -5,3 +5,5 @@ id_nomics: SOG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOG2.jpeg
 logoKey: currencies/sog2.jpeg
 name: Son of George Floyd
+platform: BNB
+platform_contract: '0x6197f787a46c24279df74c94fc6f8fc107940446'

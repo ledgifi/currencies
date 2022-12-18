@@ -6,3 +6,5 @@ id_nomics: CHIWA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHIWA.jpg
 logoKey: currencies/chiwa.jpg
 name: Chiwawa
+platform: BNB
+platform_contract: '0xc3434677ec3048df655c39a376969ecd7b726ef6'

@@ -3,3 +3,5 @@ fiat: false
 id: STARNODE
 id_nomics: STARNODE
 name: Star Node
+platform: AVAX
+platform_contract: '0x6f6c7d83c96096606d984c88a766590e386d8738'

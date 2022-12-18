@@ -5,3 +5,5 @@ id_nomics: '002'
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/002.jpg
 logoKey: currencies/002.jpg
 name: 00 Token
+platform: ETH
+platform_contract: '0x881ba05de1e78f549cc63a8f6cabb1d4ad32250d'

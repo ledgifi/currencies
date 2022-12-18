@@ -5,3 +5,5 @@ id_nomics: WINSOR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WINSOR.jpg
 logoKey: currencies/winsor.jpg
 name: Winsor Token
+platform: ETH
+platform_contract: '0x2cf2f4e07ecc54740293df6d6fb4150d725a919f'

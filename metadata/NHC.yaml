@@ -6,3 +6,5 @@ id_nomics: NHC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NHC.jpg
 logoKey: currencies/nhc.jpg
 name: Neo Holistic Coin
+platform: ETH
+platform_contract: '0x62947ff43626ea26427be5ae4c7dd03b4f1ca872'

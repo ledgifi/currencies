@@ -5,3 +5,5 @@ id_nomics: CURA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CURA.jpg
 logoKey: currencies/cura.jpg
 name: CuraDAI
+platform: ETH
+platform_contract: '0x0a4b2d4b48a63088e0897a3f147ba37f81a27722'

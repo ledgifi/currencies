@@ -5,3 +5,5 @@ id_nomics: PUNKS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PUNKS3.png
 logoKey: currencies/punks3.png
 name: Street Punks
+platform: BNB
+platform_contract: '0x3ca35c4f8bc33d44d10d379f3fe601ba67bbbe7f'

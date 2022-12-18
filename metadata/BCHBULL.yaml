@@ -3,3 +3,5 @@ fiat: false
 id: BCHBULL
 id_nomics: BCHBULL
 name: 3X Long Bitcoin Cash Token
+platform: ETH
+platform_contract: '0x4c133e081dfb5858e39cca74e69bf603d409e57a'

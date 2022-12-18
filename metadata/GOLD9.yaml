@@ -5,3 +5,5 @@ id_nomics: GOLD9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOLD9.jpg
 logoKey: currencies/gold9.jpg
 name: Projekt Gold
+platform: ETH
+platform_contract: '0xdfc628a33c18e856cd1c59583cb5ace8db706f14'

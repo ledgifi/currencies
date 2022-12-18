@@ -6,3 +6,5 @@ id_nomics: NFMON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFMON.jpg
 logoKey: currencies/nfmon.jpg
 name: NFMonsters
+platform: BNB
+platform_contract: '0x88f206403c647793800342babcf00718ab812ae2'

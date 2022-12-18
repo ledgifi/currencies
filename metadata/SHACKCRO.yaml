@@ -5,3 +5,5 @@ id_nomics: SHACKCRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHACKCRO.png
 logoKey: currencies/shackcro.png
 name: Shack (Cronos)
+platform: CRO
+platform_contract: '0x671d2e0e1a9c8e117a071bfc5763af3fbe9bdf0b'

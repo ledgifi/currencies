@@ -5,3 +5,5 @@ id_nomics: TP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TP2.jpg
 logoKey: currencies/tp2.jpg
 name: TaiwanPeace
+platform: BNB
+platform_contract: '0x229769255b383a24c3c3e50945d6421fcd1b17aa'

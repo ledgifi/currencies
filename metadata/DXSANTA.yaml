@@ -6,3 +6,5 @@ id_nomics: DXSANTA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DXSANTA.jpg
 logoKey: currencies/dxsanta.jpg
 name: Doxxed Santa
+platform: BNB
+platform_contract: '0x2013a45418b1fdf7d0e1fa046e6cc27faa290be5'

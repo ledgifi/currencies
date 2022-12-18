@@ -5,3 +5,5 @@ id_nomics: PEPITA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEPITA.jpg
 logoKey: currencies/pepita.jpg
 name: PEPITA
+platform: ETH
+platform_contract: '0x96939020e626b31d9888d7f9c26a767802e6047a'

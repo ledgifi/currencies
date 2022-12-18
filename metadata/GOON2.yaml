@@ -5,3 +5,5 @@ id_nomics: GOON2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOON2.jpg
 logoKey: currencies/goon2.jpg
 name: GoonRich
+platform: ETH
+platform_contract: '0xb0302d59237e6104c3f0d145996302f044797ca5'

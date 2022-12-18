@@ -3,3 +3,5 @@ fiat: false
 id: CHARGED
 id_nomics: CHARGED
 name: Charged.Finance
+platform: ETH
+platform_contract: '0x0dafe2b22323dac2940d43cede16cd8790c5d4e6'

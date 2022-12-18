@@ -5,3 +5,5 @@ id_nomics: DOGS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGS.jpg
 logoKey: currencies/dogs.jpg
 name: Doggy Swap
+platform: BNB
+platform_contract: '0x8869eac0d82245a2df50a0fad770d72ce63649d1'

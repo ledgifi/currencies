@@ -5,3 +5,5 @@ id_nomics: WED
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WED.png
 logoKey: currencies/wed.png
 name: Wednesday Coin
+platform: ETH
+platform_contract: '0x7848ae8f19671dc05966dafbefbbbb0308bdfabd'

@@ -5,3 +5,5 @@ id_nomics: SBR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBR3.jpg
 logoKey: currencies/sbr3.jpg
 name: Saber (Wormhole)
+platform: BNB
+platform_contract: '0x75344e5693ed5ecadf4f292ffeb866c2cf8afcf1'

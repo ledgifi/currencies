@@ -5,3 +5,5 @@ id_nomics: SSC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SSC2.jpg
 logoKey: currencies/ssc2.jpg
 name: Superstringchain
+platform: ETH
+platform_contract: '0x68965122b7532a4170d8b1334783cccf0e33f965'

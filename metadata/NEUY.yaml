@@ -5,3 +5,5 @@ id_nomics: NEUY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEUY.png
 logoKey: currencies/neuy.png
 name: Neuy
+platform: ETH
+platform_contract: '0xa80505c408c4defd9522981cd77e026f5a49fe63'

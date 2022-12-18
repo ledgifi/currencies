@@ -6,3 +6,5 @@ id_nomics: FIRSTDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIRSTDOGE.jpg
 logoKey: currencies/firstdoge.jpg
 name: FirstDoge
+platform: BNB
+platform_contract: '0xa21f043f78f51cabacf84960aaacb7a2f8110b67'

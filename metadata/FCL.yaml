@@ -6,3 +6,5 @@ id_nomics: FCL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FCL.png
 logoKey: currencies/fcl.png
 name: Free Crypto Lotto
+platform: ETH
+platform_contract: '0xec1cad815b5e8f0f86bb8fb2add2774886e79cf0'

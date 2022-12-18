@@ -5,3 +5,5 @@ id_nomics: DTE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DTE.jpg
 logoKey: currencies/dte.jpg
 name: Data Exchange
+platform: ETH
+platform_contract: '0x605ec235c045915f7e18051697c9530659df8757'

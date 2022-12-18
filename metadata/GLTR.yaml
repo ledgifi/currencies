@@ -3,3 +3,5 @@ fiat: false
 id: GLTR
 id_nomics: GLTR
 name: GAX Liquidity Token Reward
+platform: MATIC
+platform_contract: '0x3801c3b3b5c98f88a9c9005966aa96aa440b9afc'

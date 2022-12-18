@@ -5,3 +5,5 @@ id_nomics: BELAND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BELAND.jpg
 logoKey: currencies/beland.jpg
 name: Etherland
+platform: BNB
+platform_contract: '0x708cb02ad77e1b245b1640cee51b3cc844bcaef4'

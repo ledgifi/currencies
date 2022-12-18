@@ -3,3 +3,5 @@ fiat: false
 id: MBC4
 id_nomics: MBC4
 name: MobiCoin
+platform: ETH
+platform_contract: '0x68ae0f350e4ea96c2006a110090188b058b33a74'

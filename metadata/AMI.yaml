@@ -6,3 +6,5 @@ id_nomics: AMI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMI.jpg
 logoKey: currencies/ami.jpg
 name: AMMYI Coin
+platform: ETH
+platform_contract: '0x72c14bc8e28f18e91a2e9551802d3fb2cb80e712'

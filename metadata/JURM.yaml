@@ -6,3 +6,5 @@ id_nomics: JURM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JURM.png
 logoKey: currencies/jurm.png
 name: Juriseum
+platform: ETH
+platform_contract: '0x34dd5edfed51c632d1d4d2502bc901efb5fdfcd4'

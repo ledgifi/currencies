@@ -6,3 +6,5 @@ id_nomics: PANDO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PANDO.jpg
 logoKey: currencies/pando.jpg
 name: PANDO
+platform: ETH
+platform_contract: '0x252b9f56359901a0bde52d0675b1f1130d86f471'

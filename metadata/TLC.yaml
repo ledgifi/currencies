@@ -6,3 +6,5 @@ id_nomics: TLC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TLC.png
 logoKey: currencies/tlc.png
 name: TL Coin
+platform: ETH
+platform_contract: '0xf340b180a486d9c7a7da83e8c1937258c492fc8a'

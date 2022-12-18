@@ -5,3 +5,5 @@ id_nomics: ILN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ILN.png
 logoKey: currencies/iln.png
 name: Ilien
+platform: BNB
+platform_contract: '0xb49a312677ba1e80dde23c17e46e80b3e86b533d'

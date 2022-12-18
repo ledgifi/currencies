@@ -3,3 +3,5 @@ fiat: false
 id: KMATIC
 id_nomics: KMATIC
 name: KillSwitch-Peg MATIC Token
+platform: BNB
+platform_contract: '0x032574b64bf6fa42951f836cc8c5099d1c5747d3'

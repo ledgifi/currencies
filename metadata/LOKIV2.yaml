@@ -5,3 +5,5 @@ id_nomics: LOKIV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOKIV2.jpg
 logoKey: currencies/lokiv2.jpg
 name: Lockey Chain V2
+platform: BNB
+platform_contract: '0x2b85f2cd78235cc04ca02398a0f7daca9372f61a'

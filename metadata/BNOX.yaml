@@ -6,3 +6,5 @@ id_nomics: BNOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNOX.jpg
 logoKey: currencies/bnox.jpg
 name: BlockNoteX
+platform: ETH
+platform_contract: '0x8752bf7ad53d25a4165b9370f2becc22dd8ae838'

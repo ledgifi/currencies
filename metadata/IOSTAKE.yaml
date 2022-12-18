@@ -3,3 +3,5 @@ fiat: false
 id: IOSTAKE
 id_nomics: IOSTAKE
 name: IOTEX STAKE
+platform: IOTX
+platform_contract: '0x0d396d64404ea09ef17048fc33da482505df0ceb'

@@ -6,3 +6,5 @@ id_nomics: ISH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ISH.jpg
 logoKey: currencies/ish.jpg
 name: Interlude
+platform: BNB
+platform_contract: '0xe377462302280136d7987720267fc4315b557b93'

@@ -5,3 +5,5 @@ id_nomics: MOW2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOW2.png
 logoKey: currencies/mow2.png
 name: Metaverse Old World
+platform: BNB
+platform_contract: '0x287f0243f68b3f6f3ce72cf0cf4194f016bebc6b'

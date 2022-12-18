@@ -5,3 +5,5 @@ id_nomics: GNLR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GNLR.jpg
 logoKey: currencies/gnlr.jpg
 name: GodsNLegends
+platform: BNB
+platform_contract: '0x2e2b887c76cc1b5c5ef27c6361101bfd57e0bb98'

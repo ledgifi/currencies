@@ -5,3 +5,5 @@ id_nomics: WOM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOM.jpeg
 logoKey: currencies/wom.jpeg
 name: WOM Token
+platform: ETH
+platform_contract: '0xa982b2e19e90b2d9f7948e9c1b65d119f1ce88d6'

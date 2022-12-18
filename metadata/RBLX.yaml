@@ -6,3 +6,5 @@ id_nomics: RBLX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/rblx.jpg
 logoKey: currencies/rblx.jpg
 name: Rublix
+platform: ETH
+platform_contract: '0xfc2c4d8f95002c14ed0a7aa65102cac9e5953b5e'

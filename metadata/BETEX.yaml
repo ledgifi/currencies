@@ -5,3 +5,5 @@ id_nomics: BETEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BETEX.jpg
 logoKey: currencies/betex.jpg
 name: BETEX
+platform: ETH
+platform_contract: '0xbd270f9a96ed49a1c82055a22ad9b8eec564097f'

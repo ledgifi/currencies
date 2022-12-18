@@ -3,3 +3,5 @@ fiat: false
 id: CRYB
 id_nomics: CRYB
 name: Cryb Token
+platform: ETH
+platform_contract: '0x5362799f2228a180b03a68fd41cd39137dd99c42'

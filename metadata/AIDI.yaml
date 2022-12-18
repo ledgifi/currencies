@@ -5,3 +5,5 @@ id_nomics: AIDI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AIDI.jpg
 logoKey: currencies/aidi.jpg
 name: Aidi Inu (ERC-20)
+platform: ETH
+platform_contract: '0xda1e53e088023fe4d1dc5a418581748f52cbd1b8'

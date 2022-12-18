@@ -6,3 +6,5 @@ id_nomics: NFTASCII
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTASCII.jpeg
 logoKey: currencies/nftascii.jpeg
 name: NFTASCII
+platform: BNB
+platform_contract: '0xab2392379c1c8876690aebbae735ecc2b465825c'

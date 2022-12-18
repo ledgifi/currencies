@@ -3,3 +3,5 @@ fiat: false
 id: SCLAM
 id_nomics: SCLAM
 name: Staked Clam
+platform: MATIC
+platform_contract: '0xaac144dc08ce39ed92182dd85ded60e5000c9e67'

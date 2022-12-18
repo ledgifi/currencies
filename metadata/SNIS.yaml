@@ -6,3 +6,5 @@ id_nomics: SNIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNIS.jpeg
 logoKey: currencies/snis.jpeg
 name: Shibonics
+platform: BNB
+platform_contract: '0x16c0a48fb3b180772b033d0dc5e960ca1534d6b9'

@@ -5,3 +5,5 @@ id_nomics: MEIN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEIN2.jpg
 logoKey: currencies/mein2.jpg
 name: Mein
+platform: BNB
+platform_contract: '0x14a83bb74da432258c4051e3976a3f8f6b02a4d9'

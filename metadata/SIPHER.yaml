@@ -6,3 +6,5 @@ id_nomics: SIPHER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIPHER.png
 logoKey: currencies/sipher.png
 name: Sipher
+platform: ETH
+platform_contract: '0x9F52c8ecbEe10e00D9faaAc5Ee9Ba0fF6550F511'

@@ -5,3 +5,5 @@ id_nomics: SATO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SATO.jpg
 logoKey: currencies/sato.jpg
 name: Super Algorithmic Token
+platform: BNB
+platform_contract: '0xf6e6892325a74383a70570f1ebea9a476483a611'

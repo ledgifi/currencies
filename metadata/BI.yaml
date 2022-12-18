@@ -5,3 +5,5 @@ id_nomics: BI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BI.jpg
 logoKey: currencies/bi.jpg
 name: Bitanium
+platform: ETH
+platform_contract: '0x5b5bb9765eff8d26c24b9ff0daa09838a3cd78e9'

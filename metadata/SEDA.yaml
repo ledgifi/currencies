@@ -3,3 +3,5 @@ fiat: false
 id: SEDA
 id_nomics: SEDA
 name: SEDA
+platform: ETH
+platform_contract: '0x5bcc05d4dbd27776b456bb4a3796f15fb78ed6a9'

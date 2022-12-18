@@ -3,3 +3,5 @@ fiat: false
 id: AOSD
 id_nomics: AOSD
 name: AOSD
+platform: BNB
+platform_contract: '0x340b690fa360b31d12cb576cb24ab166920cd4d4'

@@ -5,3 +5,5 @@ id_nomics: SAFEMOONTWO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFEMOONTWO2.png
 logoKey: currencies/safemoontwo2.png
 name: SafeMoon 2.0
+platform: BNB
+platform_contract: '0xf0e2b59ef566567d4e3115a81f02b473a1077947'

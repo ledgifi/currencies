@@ -5,3 +5,5 @@ id_nomics: BTS11
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTS11.png
 logoKey: currencies/bts11.png
 name: BTS Assets
+platform: BNB
+platform_contract: '0x0957c4b93c973f3cf67419613E443557bD6e08a6'

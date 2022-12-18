@@ -3,3 +3,5 @@ fiat: false
 id: TKNERC20SYM
 id_nomics: TKNERC20SYM
 name: TknERC20Name
+platform: MATIC
+platform_contract: '0x3b82319ef9e45c16621cc6f6b588324f5719a882'

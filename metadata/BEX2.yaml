@@ -5,3 +5,5 @@ id_nomics: BEX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEX2.png
 logoKey: currencies/bex2.png
 name: BelecX
+platform: BNB
+platform_contract: '0x3ee08275b513f3085231ccc85de4c386fcc1f18b'

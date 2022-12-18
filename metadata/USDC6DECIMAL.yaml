@@ -3,3 +3,5 @@ fiat: false
 id: USDC6DECIMAL
 id_nomics: USDC6DECIMAL
 name: USDC HECO TEST
+platform: HT
+platform_contract: '0x7eaa3d2f9caaad21afba0ea1819faf29447ad1d1'

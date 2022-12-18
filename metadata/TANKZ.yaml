@@ -6,3 +6,5 @@ id_nomics: TANKZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TANKZ.jpg
 logoKey: currencies/tankz.jpg
 name: CryptoTankz
+platform: ETH
+platform_contract: '0xc0dbb6b1bd7e574eb45fc78ecc2afad57d9623fe'

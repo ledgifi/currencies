@@ -5,3 +5,5 @@ id_nomics: EHIVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EHIVE.png
 logoKey: currencies/ehive.png
 name: eHive
+platform: ETH
+platform_contract: '0x4ae2cd1f5b8806a973953b76f9ce6d5fab9cdcfd'

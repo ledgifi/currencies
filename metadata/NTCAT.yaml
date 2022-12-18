@@ -5,3 +5,5 @@ id_nomics: NTCAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NTCAT.jpeg
 logoKey: currencies/ntcat.jpeg
 name: Nefertiti Cat
+platform: BNB
+platform_contract: '0xd18b6d1651b7b203c3993e99df045f40050541a5'

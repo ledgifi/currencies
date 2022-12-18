@@ -6,3 +6,5 @@ id_nomics: ZFAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZFAI.jpg
 logoKey: currencies/zfai.jpg
 name: Zafira
+platform: BNB
+platform_contract: '0x205cd59eea8e8c5083f16d20e1050fd4a7d72037'

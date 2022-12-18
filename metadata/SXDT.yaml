@@ -6,3 +6,5 @@ id_nomics: SXDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SXDT.png
 logoKey: currencies/sxdt.png
 name: Spectre.ai Dividend Token
+platform: ETH
+platform_contract: '0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf'

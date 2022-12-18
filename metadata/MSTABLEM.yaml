@@ -3,3 +3,5 @@ fiat: false
 id: MSTABLEM
 id_nomics: MSTABLEM
 name: Mock StableM Token
+platform: MATIC
+platform_contract: '0xe0a510cb670f5289befd2a3591ec6c70f8e49ccd'

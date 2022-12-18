@@ -5,3 +5,5 @@ id_nomics: EDA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EDA.jpg
 logoKey: currencies/eda.jpg
 name: Enterprise Digital Alliance
+platform: ETH
+platform_contract: '0x74901f98b3ade8742ffc5025723d65cd6259b87b'

@@ -5,3 +5,5 @@ id_nomics: CASHFEG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CASHFEG.png
 logoKey: currencies/cashfeg.png
 name: Cash FEG
+platform: BNB
+platform_contract: '0x1265dafb76724e00ae7d34fd3daea83be1dc16a7'

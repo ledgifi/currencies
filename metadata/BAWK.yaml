@@ -3,3 +3,5 @@ fiat: false
 id: BAWK
 id_nomics: BAWK
 name: BAWK
+platform: ETH
+platform_contract: '0x08d0949e14560006598dd98ad704835e3d991c6c'

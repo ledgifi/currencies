@@ -6,3 +6,5 @@ id_nomics: YFTE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFTE.jpg
 logoKey: currencies/yfte.jpg
 name: YFTether
+platform: ETH
+platform_contract: '0x94f31ac896c9823d81cf9c2c93feceed4923218f'

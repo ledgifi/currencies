@@ -6,3 +6,5 @@ id_nomics: XAC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XAC.png
 logoKey: currencies/xac.png
 name: General Attention Currency
+platform: ETH
+platform_contract: '0xde4c5a791913838027a2185709e98c5c6027ea63'

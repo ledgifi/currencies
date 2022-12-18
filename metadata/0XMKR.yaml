@@ -5,3 +5,5 @@ id_nomics: 0XMKR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/0XMKR.jpg
 logoKey: currencies/0xmkr.jpg
 name: 0xMaker Token
+platform: ETH
+platform_contract: '0xcc7dbc32c67246d03de824ca06bccbc6c02fe8b7'

@@ -5,3 +5,5 @@ id_nomics: MOMA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOMA.png
 logoKey: currencies/moma.png
 name: Mochi Market (ERC-20)
+platform: ETH
+platform_contract: '0xbd1848e1491d4308ad18287a745dd4db2a4bd55b'

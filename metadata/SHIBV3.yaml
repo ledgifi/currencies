@@ -3,3 +3,5 @@ fiat: false
 id: SHIBV3
 id_nomics: SHIBV3
 name: Shiba Inu v3
+platform: ETH
+platform_contract: '0x53821d67263daf4c1264049ba41fc73d1346b8f2'

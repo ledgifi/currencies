@@ -5,3 +5,5 @@ id_nomics: NFT7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFT7.png
 logoKey: currencies/nft7.png
 name: NFT Smart Coin
+platform: BNB
+platform_contract: '0x72753ba29b3370ef40c1cad3a65a24212a7a96e0'

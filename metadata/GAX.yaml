@@ -5,3 +5,5 @@ id_nomics: GAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAX.jpg
 logoKey: currencies/gax.jpg
 name: GETART Token
+platform: BNB
+platform_contract: '0x5507f52c96e64e5e5c3df0ea90d3515fc0c7d9df'

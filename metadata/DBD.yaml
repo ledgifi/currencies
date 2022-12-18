@@ -5,3 +5,5 @@ id_nomics: DBD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DBD.jpg
 logoKey: currencies/dbd.jpg
 name: Day By Day Token
+platform: ETH
+platform_contract: '0xa5f1dbb0e55bc31f32c6d032bee330288490e722'

@@ -5,3 +5,5 @@ id_nomics: MMSHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MMSHIB.png
 logoKey: currencies/mmshib.png
 name: MaMa Shiba Inu
+platform: BNB
+platform_contract: '0x3f77FA5C5638B02DB98Ae29860DB684e734D9D6E'

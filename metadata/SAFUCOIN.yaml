@@ -6,3 +6,5 @@ id_nomics: SAFUCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFUCOIN.png
 logoKey: currencies/safucoin.png
 name: SafuCoin v2
+platform: BNB
+platform_contract: '0xfbd57367524b389425c4adfb5a6f97b0e7ad3690'

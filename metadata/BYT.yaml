@@ -5,3 +5,5 @@ id_nomics: BYT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BYT.png
 logoKey: currencies/byt.png
 name: Bayan Token
+platform: ETH
+platform_contract: '0x68d3af29a900d21d092778a9d0aa4f73b1367141'

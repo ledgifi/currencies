@@ -5,3 +5,5 @@ id_nomics: GTN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GTN2.jpg
 logoKey: currencies/gtn2.jpg
 name: Globe Tech Network
+platform: BNB
+platform_contract: '0x7e77ded27cdc667064c776d199010528b6b9db4b'

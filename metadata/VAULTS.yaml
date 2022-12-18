@@ -5,3 +5,5 @@ id_nomics: VAULTS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VAULTS.png
 logoKey: currencies/vaults.png
 name: VAULT-S
+platform: BNB
+platform_contract: '0x7e1cceed4b908303a4262957abd536509e7af54f'

@@ -5,3 +5,5 @@ id_nomics: PP4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PP4.jpg
 logoKey: currencies/pp4.jpg
 name: Pension Plan
+platform: ETH
+platform_contract: '0xf14b9adf84812ba463799357f4dc716b4384010b'

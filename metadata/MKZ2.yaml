@@ -5,3 +5,5 @@ id_nomics: MKZ2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MKZ2.jpeg
 logoKey: currencies/mkz2.jpeg
 name: MarioKingZilla
+platform: BNB
+platform_contract: '0x6dc2795c0e190c646c72854b06cd07a2ccdb3b0c'

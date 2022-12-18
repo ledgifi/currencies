@@ -5,3 +5,5 @@ id_nomics: RRR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RRR3.jpg
 logoKey: currencies/rrr3.jpg
 name: Rapidly Reusable Rocket
+platform: ETH
+platform_contract: '0x1306c7d95e59cfcdff7ae3c13db7f56acc543815'

@@ -5,3 +5,5 @@ id_nomics: SOFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOFI.jpg
 logoKey: currencies/sofi.jpg
 name: Social Finance
+platform: ETH
+platform_contract: '0xaea5e11e22e447fa9837738a0cd2848857748adf'

@@ -5,3 +5,5 @@ id_nomics: ICA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICA.jpg
 logoKey: currencies/ica.jpg
 name: Icarus
+platform: BNB
+platform_contract: '0x0ca2f09eca544b61b91d149dea2580c455c564b2'

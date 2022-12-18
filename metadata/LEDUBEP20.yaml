@@ -5,3 +5,5 @@ id_nomics: LEDUBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LEDUBEP20.jpg
 logoKey: currencies/ledubep20.jpg
 name: Education Ecosystem (BEP-20)
+platform: BNB
+platform_contract: '0x887d9c01fff04022da9c6d64a65a481a9e5d1fca'

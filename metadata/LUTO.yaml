@@ -6,3 +6,5 @@ id_nomics: LUTO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUTO.jpg
 logoKey: currencies/luto.jpg
 name: Luto Cash
+platform: BNB
+platform_contract: '0xb1f0ba284811a649ea30240ea03a75496fa18998'

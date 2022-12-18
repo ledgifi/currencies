@@ -6,3 +6,5 @@ id_nomics: CCL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ccl.png
 logoKey: currencies/ccl.png
 name: CyClean
+platform: ETH
+platform_contract: '0x749f35ff65932e68267dd82f6cd85eea735d700e'

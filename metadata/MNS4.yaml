@@ -5,3 +5,5 @@ id_nomics: MNS4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MNS4.png
 logoKey: currencies/mns4.png
 name: Minswap
+platform: BNB
+platform_contract: '0x135a8b5a9396cd6ef9966877b020db11217c12f1'

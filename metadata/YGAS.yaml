@@ -3,3 +3,5 @@ fiat: false
 id: YGAS
 id_nomics: YGAS
 name: YTIZER GAS
+platform: BNB
+platform_contract: '0x3d10c109704f37fe73f2d3527a40073ae529198e'

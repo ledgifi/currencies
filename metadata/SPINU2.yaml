@@ -5,3 +5,5 @@ id_nomics: SPINU2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPINU2.jpg
 logoKey: currencies/spinu2.jpg
 name: Spurdo Inu
+platform: BNB
+platform_contract: '0xbff3b6995203b076b43de7ed91e17e5a4349b8f8'

@@ -3,3 +3,5 @@ fiat: false
 id: SV
 id_nomics: SV
 name: SV
+platform: ETH
+platform_contract: '0x3ec81cebc9b5ec70852279e195b21bf0ad89b8fe'

@@ -6,3 +6,5 @@ id_nomics: SHICO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHICO.jpg
 logoKey: currencies/shico.jpg
 name: ShibaCorgi
+platform: BNB
+platform_contract: '0x092bbec1342afffd16cfb41b56343d5a299cdf0d'

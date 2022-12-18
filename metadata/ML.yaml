@@ -6,3 +6,5 @@ id_nomics: ML
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ML.jpg
 logoKey: currencies/ml.jpg
 name: MarketLedger
+platform: BNB
+platform_contract: '0xc4fb957e3f1c04c8dc4000525e55920861f25bfc'

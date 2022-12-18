@@ -3,3 +3,5 @@ fiat: false
 id: NITZ
 id_nomics: NITZ
 name: Pronitz
+platform: ETH
+platform_contract: '0xb143c7769b3a47b15ac07afc94d631be93d1f2df'

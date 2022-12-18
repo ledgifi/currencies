@@ -5,3 +5,5 @@ id_nomics: MAVC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAVC.png
 logoKey: currencies/mavc.png
 name: Mountains and Valleys ETH/BTC Set
+platform: ETH
+platform_contract: '0x621e3b71d07b51242bcca167928e184235a4bb87'

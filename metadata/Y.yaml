@@ -3,3 +3,5 @@ fiat: false
 id: 'Y'
 id_nomics: 'Y'
 name: Y Token
+platform: ETH
+platform_contract: '0x1f41d36b0ac80c4d5012ec65eb03ab5aaa09702a'

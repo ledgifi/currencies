@@ -5,3 +5,5 @@ id_nomics: OPPE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OPPE2.png
 logoKey: currencies/oppe2.png
 name: Oppe Finance
+platform: BNB
+platform_contract: '0x4056f1d1335caa9530b33e170e8d22dece2c6045'

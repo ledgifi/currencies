@@ -6,3 +6,5 @@ id_nomics: CHEFCAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHEFCAKE.jpg
 logoKey: currencies/chefcake.jpg
 name: ChefCake
+platform: BNB
+platform_contract: '0x10e24a15bb2b49f6211401af82f0f3ebed05bf71'

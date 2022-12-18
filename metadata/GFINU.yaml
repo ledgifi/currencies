@@ -5,3 +5,5 @@ id_nomics: GFINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GFINU.png
 logoKey: currencies/gfinu.png
 name: GoldFish Inu
+platform: BNB
+platform_contract: '0xfe2060879be4cdfc6c4760a03b98a79145da56ca'

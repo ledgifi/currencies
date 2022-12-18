@@ -5,3 +5,5 @@ id_nomics: MAGA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAGA2.jpg
 logoKey: currencies/maga2.jpg
 name: MAGA coin
+platform: BNB
+platform_contract: '0x3ef144cb45c8a390eb207a6aa9bfcf3da639cb5c'

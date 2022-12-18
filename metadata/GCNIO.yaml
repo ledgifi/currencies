@@ -5,3 +5,5 @@ id_nomics: GCNIO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GCNIO.jpg
 logoKey: currencies/gcnio.jpg
 name: Goldconio V2
+platform: BNB
+platform_contract: '0x5c7e2fbf5803938b99191387465e95e70ab552d7'

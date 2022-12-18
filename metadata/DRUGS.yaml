@@ -5,3 +5,5 @@ id_nomics: DRUGS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRUGS.jpg
 logoKey: currencies/drugs.jpg
 name: Drugs
+platform: BNB
+platform_contract: '0xfd26889cd6454d8751562f1c0fcf88b18b46f7b7'

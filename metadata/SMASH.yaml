@@ -6,3 +6,5 @@ id_nomics: SMASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMASH.jpg
 logoKey: currencies/smash.jpg
 name: Smash Cash
+platform: BNB
+platform_contract: '0x3d0e93bfcb8fb46331ea8c98b6ab8c575ab424c3'

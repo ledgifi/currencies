@@ -5,3 +5,5 @@ id_nomics: ALICE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALICE2.jpg
 logoKey: currencies/alice2.jpg
 name: My Neighbor Alice
+platform: ETH
+platform_contract: '0xac51066d7bec65dc4589368da368b212745d63e8'

@@ -3,3 +3,5 @@ fiat: false
 id: COINB
 id_nomics: COINB
 name: COINB
+platform: BNB
+platform_contract: '0x2d3464d4ec985ceca32bb9abc0edc163b4c0d045'

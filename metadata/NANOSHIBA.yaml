@@ -6,3 +6,5 @@ id_nomics: NANOSHIBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NANOSHIBA.jpg
 logoKey: currencies/nanoshiba.jpg
 name: Nano Shiba Inu
+platform: BNB
+platform_contract: '0x8da80544045480bc9e2109c91e9515c4823c5561'

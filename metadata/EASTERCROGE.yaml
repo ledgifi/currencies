@@ -5,3 +5,5 @@ id_nomics: EASTERCROGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EASTERCROGE.png
 logoKey: currencies/eastercroge.png
 name: Easter Crogecoin
+platform: CRO
+platform_contract: '0x0f669bdea6c6406a8ee4ac9339a5999b8e6912bf'

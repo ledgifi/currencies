@@ -6,3 +6,5 @@ id_nomics: WFCT
 logo: https://static.coinpaprika.com/coin/wfct-wrapped-fct/logo.png
 logoKey: currencies/wfct.png
 name: Wrapped FCT
+platform: ETH
+platform_contract: '0x415acc3c6636211e67e248dc28400b452acefa68'

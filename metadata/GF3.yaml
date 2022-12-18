@@ -5,3 +5,5 @@ id_nomics: GF3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GF3.jpg
 logoKey: currencies/gf3.jpg
 name: GirlsFren
+platform: BNB
+platform_contract: '0xa747fda67a69896ccaed001358eb681bef713d8b'

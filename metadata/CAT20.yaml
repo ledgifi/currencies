@@ -3,3 +3,5 @@ fiat: false
 id: CAT20
 id_nomics: CAT20
 name: Acclimated MoonCats
+platform: ETH
+platform_contract: '0x67bdcd02705cecf08cb296394db7d6ed00a496f9'

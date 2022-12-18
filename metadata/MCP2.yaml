@@ -5,3 +5,5 @@ id_nomics: MCP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCP2.png
 logoKey: currencies/mcp2.png
 name: MetaCyberPunk
+platform: MATIC
+platform_contract: '0xac2713f0c89c8b6cfef4c94de8149ba164c98f84'

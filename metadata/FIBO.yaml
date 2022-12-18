@@ -3,3 +3,5 @@ fiat: false
 id: FIBO
 id_nomics: FIBO
 name: FibonacciBurn.network
+platform: ETH
+platform_contract: '0xb1623a51c9a832f1dae39e0247f4b11083a9b401'

@@ -5,3 +5,5 @@ id_nomics: WCRW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WCRW.jpg
 logoKey: currencies/wcrw.jpg
 name: wrappedCrown
+platform: BNB
+platform_contract: '0x4b04fd7060ee7e30d5a2b369ee542f9ad8ada571'

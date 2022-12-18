@@ -5,3 +5,5 @@ id_nomics: '777'
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/777.jpg
 logoKey: currencies/777.jpg
 name: 777.Bingo
+platform: ETH
+platform_contract: '0xd8002cd05d5b2a85557e1caaa179cc2408d5ad42'

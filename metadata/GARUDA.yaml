@@ -5,3 +5,5 @@ id_nomics: GARUDA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GARUDA.jpg
 logoKey: currencies/garuda.jpg
 name: GarudaSwap
+platform: BNB
+platform_contract: '0x854086dc841e1bfae50cb615bf41f55bf432a90b'

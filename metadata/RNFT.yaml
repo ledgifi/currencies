@@ -3,3 +3,5 @@ fiat: false
 id: RNFT
 id_nomics: RNFT
 name: RNFTToken
+platform: BNB
+platform_contract: '0x2f6fb65bce25d1538dc53a3d17a5ba0efc8a10de'

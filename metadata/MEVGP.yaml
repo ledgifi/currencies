@@ -3,3 +3,5 @@ fiat: false
 id: MEVGP
 id_nomics: MEVGP
 name: MEV Game Token Permissioned
+platform: MATIC
+platform_contract: '0xe7baa77b0d845a9b6ff5c71bf97069cff0318ddd'

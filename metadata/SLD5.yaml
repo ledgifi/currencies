@@ -5,3 +5,5 @@ id_nomics: SLD5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLD5.png
 logoKey: currencies/sld5.png
 name: SoldiersLand
+platform: BNB
+platform_contract: '0x24519018513a71f83951336b990098de978f5bad'

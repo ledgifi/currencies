@@ -5,3 +5,5 @@ id_nomics: POOR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POOR2.jpeg
 logoKey: currencies/poor2.jpeg
 name: PoorQuack
+platform: BNB
+platform_contract: '0x682ca13182eca9e5230d8654215037815288b556'

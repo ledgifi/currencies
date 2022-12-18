@@ -5,3 +5,5 @@ id_nomics: MOMENTOBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOMENTOBEP20.jpg
 logoKey: currencies/momentobep20.jpg
 name: Momento (BEP-20)
+platform: BNB
+platform_contract: '0x1b9a8c4f2df5dc7b8744b1a170d8d727360c67ee'

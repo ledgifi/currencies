@@ -5,3 +5,5 @@ id_nomics: DEPI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEPI.png
 logoKey: currencies/depi.png
 name: Decentralized Pirates
+platform: BNB
+platform_contract: '0x1ebb8947bdcd3079d910caaf8d9ae1a57a300be3'

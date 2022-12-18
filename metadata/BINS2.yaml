@@ -5,3 +5,5 @@ id_nomics: BINS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BINS2.jpg
 logoKey: currencies/bins2.jpg
 name: BSocial
+platform: BNB
+platform_contract: '0x822dc83fa4dc997fff24d0bc0a66fcb2954a6156'

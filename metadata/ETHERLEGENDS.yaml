@@ -5,3 +5,5 @@ id_nomics: ETHERLEGENDS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHERLEGENDS.png
 logoKey: currencies/etherlegends.png
 name: Elementeum
+platform: ETH
+platform_contract: '0x6c37bf4f042712c978a73e3fd56d1f5738dd7c43'

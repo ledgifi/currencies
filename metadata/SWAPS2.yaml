@@ -5,3 +5,5 @@ id_nomics: SWAPS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWAPS2.jpg
 logoKey: currencies/swaps2.jpg
 name: NFTSwaps
+platform: BNB
+platform_contract: '0xc536462e5a9fdacd4f1008a91e7daba1374c0226'

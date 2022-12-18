@@ -6,3 +6,5 @@ id_nomics: EDUX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EDUX.jpg
 logoKey: currencies/edux.jpg
 name: EDUFEX
+platform: BNB
+platform_contract: '0x2b1b730c997d81db2e792b47d0bc42a64ee6aa55'

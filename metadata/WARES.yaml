@@ -5,3 +5,5 @@ id_nomics: WARES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WARES.png
 logoKey: currencies/wares.png
 name: Warehouse
+platform: BNB
+platform_contract: '0xc5e7909685ac6c540d0026c1ce725ea1fafb8c6a'

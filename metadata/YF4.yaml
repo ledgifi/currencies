@@ -6,3 +6,5 @@ id_nomics: YF4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YF4.jpeg
 logoKey: currencies/yf4.jpeg
 name: Yearn4 Finance
+platform: ETH
+platform_contract: '0x38acefad338b870373fb8c810fe705569e1c7225'

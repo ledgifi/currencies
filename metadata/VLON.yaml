@@ -6,3 +6,5 @@ id_nomics: VLON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VLON.jpg
 logoKey: currencies/vlon.jpg
 name: Valon
+platform: BNB
+platform_contract: '0xc5419b49c60521116152fa47481b70cd8d0b742e'

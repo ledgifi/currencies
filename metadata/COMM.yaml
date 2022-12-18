@@ -5,3 +5,5 @@ id_nomics: COMM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COMM.jpg
 logoKey: currencies/comm.jpg
 name: COMMONWEALTH
+platform: ETH
+platform_contract: '0x82357df5c6e660f6ca33224aa9a2a0b8170be99d'

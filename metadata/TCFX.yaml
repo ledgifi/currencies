@@ -6,3 +6,5 @@ id_nomics: TCFX
 logo: https://static.coinpaprika.com/coin/tcfx-tcbcoin/logo.png
 logoKey: currencies/tcfx.png
 name: Tcbcoin
+platform: ETH
+platform_contract: '0x36dcffe069a3f2878fab2a46d81e83d462d0cbf7'

@@ -5,3 +5,5 @@ id_nomics: FINU8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FINU8.jpeg
 logoKey: currencies/finu8.jpeg
 name: Footballinu
+platform: BNB
+platform_contract: '0xa47a5fb2dc93468ddbc0815836743184724144bf'

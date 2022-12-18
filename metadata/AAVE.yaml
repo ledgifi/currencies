@@ -8,3 +8,5 @@ id_nomics: AAVE
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/aave.svg
 logoKey: currencies/aave.svg
 name: AAVE
+platform: ETH
+platform_contract: '0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9'

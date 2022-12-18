@@ -6,3 +6,5 @@ id_nomics: ECU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECU.png
 logoKey: currencies/ecu.png
 name: ECOSCU
+platform: ETH
+platform_contract: '0x8fc9b6354e839ab1c8b31f4afa53607092b8c2e5'

@@ -5,3 +5,5 @@ id_nomics: MARKETPEAK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MARKETPEAK.jpg
 logoKey: currencies/marketpeak.jpg
 name: MarketPeak
+platform: ETH
+platform_contract: '0x633ee3fbe5ffc05bd44ecd8240732ff9ef9dee1d'

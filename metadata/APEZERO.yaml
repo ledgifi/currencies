@@ -3,3 +3,5 @@ fiat: false
 id: APEZERO
 id_nomics: APEZERO
 name: ApeCoin2.0
+platform: ETH
+platform_contract: '0x0b016c51ae6657c2322ff158b839d6186e6a04b1'

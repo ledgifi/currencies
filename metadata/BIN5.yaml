@@ -5,3 +5,5 @@ id_nomics: BIN5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIN5.jpg
 logoKey: currencies/bin5.jpg
 name: Bineon Game
+platform: ETH
+platform_contract: '0x9412d561930470e73938c10bfdba5a478f08d6cc'

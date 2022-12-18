@@ -3,3 +3,5 @@ fiat: false
 id: RNCT
 id_nomics: RNCT
 name: Roborovski NameChangeToken
+platform: ETH
+platform_contract: '0x2c5e6ffe9f7f161c15f78cd67d79c33a7c8d84b5'

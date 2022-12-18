@@ -5,3 +5,5 @@ id_nomics: BCC6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCC6.jpg
 logoKey: currencies/bcc6.jpg
 name: BlueChip Capital Token
+platform: ETH
+platform_contract: '0xabade89df6625e532cb88853d84c5e755e9e2bfd'

@@ -5,3 +5,5 @@ id_nomics: OVS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OVS.png
 logoKey: currencies/ovs.png
 name: OnlyVerse
+platform: BNB
+platform_contract: '0x554Cf4a79a076f69C1123a891a8062971a12Ce2C'

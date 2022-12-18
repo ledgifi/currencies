@@ -5,3 +5,5 @@ id_nomics: EX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EX2.jpeg
 logoKey: currencies/ex2.jpeg
 name: EsEx
+platform: BNB
+platform_contract: '0x8448934bfe7c25d6f267d4c8a40f106611a68e2c'

@@ -5,3 +5,5 @@ id_nomics: WE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WE2.jpg
 logoKey: currencies/we2.jpg
 name: WeBuy
+platform: KLAY
+platform_contract: '0xfaea8f7839f343a52c11a2d5395406eb2a87c55b'

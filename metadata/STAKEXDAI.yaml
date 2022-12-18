@@ -5,3 +5,5 @@ id_nomics: STAKEXDAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STAKEXDAI.jpg
 logoKey: currencies/stakexdai.jpg
 name: STAKE (xDai)
+platform: XDAI
+platform_contract: '0xb7d311e2eb55f2f68a9440da38e7989210b9a05e'

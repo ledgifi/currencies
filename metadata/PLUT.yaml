@@ -5,3 +5,5 @@ id_nomics: PLUT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLUT.png
 logoKey: currencies/plut.png
 name: Pluto
+platform: ETH
+platform_contract: '0xf38011f9153acffaca3fbfc42ddfa766c980d967'

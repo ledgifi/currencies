@@ -6,3 +6,5 @@ id_nomics: SAI
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/sai.svg
 logoKey: currencies/sai.svg
 name: Single Collateral DAI
+platform: ETH
+platform_contract: '0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359'

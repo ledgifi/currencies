@@ -5,3 +5,5 @@ id_nomics: KAM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAM.jpg
 logoKey: currencies/kam.jpg
 name: Kamari
+platform: ETH
+platform_contract: '0xf8d9fd49d0519a7b93f3ce80c2c070f1294ead26'

@@ -3,3 +3,5 @@ fiat: false
 id: ETHCROIN
 id_nomics: ETHCROIN
 name: ETHERCroin
+platform: CRO
+platform_contract: '0x3848b1a13407a51acd39b2e82698bfb2f083261e'

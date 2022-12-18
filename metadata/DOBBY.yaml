@@ -3,3 +3,5 @@ fiat: false
 id: DOBBY
 id_nomics: DOBBY
 name: Dobby Token
+platform: ETH
+platform_contract: '0x29b22f4ef5a0c76d611e707029cd4f151dc6f8bd'

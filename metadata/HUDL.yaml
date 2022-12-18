@@ -5,3 +5,5 @@ id_nomics: HUDL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HUDL.jpg
 logoKey: currencies/hudl.jpg
 name: HUDL PROTOCOL
+platform: BNB
+platform_contract: '0xd4f61c60339ba76240181861b0d176d5095aab26'

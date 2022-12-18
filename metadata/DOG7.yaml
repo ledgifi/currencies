@@ -5,3 +5,5 @@ id_nomics: DOG7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOG7.jpeg
 logoKey: currencies/dog7.jpeg
 name: Dog Coin
+platform: BNB
+platform_contract: '0xe3d37c3c2e67980ebe98616b1a94e2c1656406ed'

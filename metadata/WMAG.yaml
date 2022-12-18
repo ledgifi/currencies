@@ -3,3 +3,5 @@ fiat: false
 id: WMAG
 id_nomics: WMAG
 name: Wrapped MAG
+platform: AVAX
+platform_contract: '0xdd4115bbbc2555d3d3053ff42ade45bebc2f2ddc'

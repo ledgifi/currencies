@@ -3,3 +3,5 @@ fiat: false
 id: MGAT
 id_nomics: MGAT
 name: MGAT
+platform: BNB
+platform_contract: '0x90777ea61520afb0f1371cc2d6d128f01720d9aa'

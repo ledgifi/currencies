@@ -5,3 +5,5 @@ id_nomics: TAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TAKE.jpg
 logoKey: currencies/take.jpg
 name: Take
+platform: ETH
+platform_contract: '0x86389efb27908a8724444b17f5056767a9a15d1a'

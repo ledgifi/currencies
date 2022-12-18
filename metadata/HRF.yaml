@@ -3,3 +3,5 @@ fiat: false
 id: HRF
 id_nomics: HRF
 name: HoldReef
+platform: BNB
+platform_contract: '0x3c61379f9f2c3610f1b829687d54d4298966ed80'

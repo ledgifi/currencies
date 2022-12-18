@@ -5,3 +5,5 @@ id_nomics: SLVD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLVD2.jpg
 logoKey: currencies/slvd2.jpg
 name: SilverDollar
+platform: ETH
+platform_contract: '0xdba8e8021fe321af91fc3a08e223ef15908cb2bb'

@@ -5,3 +5,5 @@ id_nomics: SKULL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SKULL2.png
 logoKey: currencies/skull2.png
 name: SKULL
+platform: AVAX
+platform_contract: '0x84A8297720FE27C71fFcCfA3f685E4d9fc377AFC'

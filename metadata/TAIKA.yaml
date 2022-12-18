@@ -5,3 +5,5 @@ id_nomics: TAIKA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TAIKA.jpg
 logoKey: currencies/taika.jpg
 name: Taika
+platform: ETH
+platform_contract: '0x263830b95a370846f2cb899372fcad3a568f2a47'

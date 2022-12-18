@@ -3,3 +3,5 @@ fiat: false
 id: INFINITE
 id_nomics: INFINITE
 name: 'Ethereum: The Infinite Garden'
+platform: ETH
+platform_contract: '0xff2f509668048d4fde4f40fedab3334ce104a39b'

@@ -3,3 +3,5 @@ fiat: false
 id: CCELS
 id_nomics: CCELS
 name: New Community Celsius
+platform: ETH
+platform_contract: '0x26bff12f1144508f0b50ab10f372045d7160ae15'

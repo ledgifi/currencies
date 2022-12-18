@@ -3,3 +3,5 @@ fiat: false
 id: NEWETH
 id_nomics: NEWETH
 name: NETH
+platform: BNB
+platform_contract: '0xc30a54ce38f64fa3dd535d8ea557c5037585ee2a'

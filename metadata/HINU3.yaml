@@ -5,3 +5,5 @@ id_nomics: HINU3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HINU3.jpg
 logoKey: currencies/hinu3.jpg
 name: Hayate Inu
+platform: ETH
+platform_contract: '0x903aed40b7fcbe8de84a699151c9055f4c0a6db3'

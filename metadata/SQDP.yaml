@@ -3,3 +3,5 @@ fiat: false
 id: SQDP
 id_nomics: SQDP
 name: SquidPrinter
+platform: AVAX
+platform_contract: '0xb05af67bba7fe0debc28ef3221a578f46a4a5da6'

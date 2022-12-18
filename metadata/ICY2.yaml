@@ -3,3 +3,5 @@ fiat: false
 id: ICY2
 id_nomics: ICY2
 name: ICURY
+platform: ETH
+platform_contract: '0x8903e8f101d86ea097efe104a3d53f4c42cb44bc'

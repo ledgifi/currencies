@@ -5,3 +5,5 @@ id_nomics: EMBER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EMBER.jpg
 logoKey: currencies/ember.jpg
 name: Ember
+platform: BCH
+platform_contract: '0x6babf5277849265b6738e75aec43aefdde0ce88d'

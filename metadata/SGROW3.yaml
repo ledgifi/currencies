@@ -5,3 +5,5 @@ id_nomics: SGROW3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SGROW3.jpg
 logoKey: currencies/sgrow3.jpg
 name: ShrimpGrow
+platform: BNB
+platform_contract: '0x9b911e0efd7b7e9d781c8d20a6a6b32612ecea88'

@@ -6,3 +6,5 @@ id_nomics: NDX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NDX.png
 logoKey: currencies/ndx.png
 name: nDEX
+platform: ETH
+platform_contract: '0x1966d718a565566e8e202792658d7b5ff4ece469'

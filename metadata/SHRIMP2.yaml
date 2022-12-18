@@ -5,3 +5,5 @@ id_nomics: SHRIMP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHRIMP2.jpg
 logoKey: currencies/shrimp2.jpg
 name: WhaleStreet $hrimp Token
+platform: ETH
+platform_contract: '0x9077f9e1efe0ea72867ac89046b2a6264cbcaef5'

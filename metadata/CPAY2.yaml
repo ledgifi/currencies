@@ -5,3 +5,5 @@ id_nomics: CPAY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CPAY2.jpg
 logoKey: currencies/cpay2.jpg
 name: Chainpay
+platform: ETH
+platform_contract: '0x5825fba40871aaacba45e4b34629abb86520b807'

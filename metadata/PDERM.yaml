@@ -5,3 +5,5 @@ id_nomics: PDERM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PDERM.jpeg
 logoKey: currencies/pderm.jpeg
 name: Pachyderm
+platform: BNB
+platform_contract: '0x6da34889b261d8febd7866578e8955ffae0c8332'

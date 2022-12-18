@@ -6,3 +6,5 @@ id_nomics: IQQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IQQ.jpg
 logoKey: currencies/iqq.jpg
 name: Iqoniq
+platform: ETH
+platform_contract: '0x68a9d92fe19399feebed6a9a0980a7ea7638074c'

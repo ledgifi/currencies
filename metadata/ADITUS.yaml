@@ -5,3 +5,5 @@ id_nomics: ADITUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADITUS.jpeg
 logoKey: currencies/aditus.jpeg
 name: Aditus Pay
+platform: BNB
+platform_contract: '0x7bc7b1d98c431639dacd6aa44c4fdcb969e0835e'

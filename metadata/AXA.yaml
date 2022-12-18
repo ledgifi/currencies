@@ -5,3 +5,5 @@ id_nomics: AXA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AXA.png
 logoKey: currencies/axa.png
 name: Alldex Alliance
+platform: ETH
+platform_contract: '0xf8ed6c51762208ff26f8f3e4efd4e06af2da649c'

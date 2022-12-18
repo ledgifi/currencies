@@ -5,3 +5,5 @@ id_nomics: TRUSTSHORE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRUSTSHORE.jpg
 logoKey: currencies/trustshore.jpg
 name: Trust Shore Token
+platform: ETH
+platform_contract: '0xc6003a33f7464d6e6c1dc17344a75a9952187541'

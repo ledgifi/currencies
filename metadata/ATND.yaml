@@ -3,3 +3,5 @@ fiat: false
 id: ATND
 id_nomics: ATND
 name: Alternate Dollar
+platform: BNB
+platform_contract: '0xfbb97e50886473b24a72c902ee74a583876e9075'

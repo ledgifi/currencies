@@ -5,3 +5,5 @@ id_nomics: LBNB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LBNB2.jpg
 logoKey: currencies/lbnb2.jpg
 name: LiteBNB
+platform: BNB
+platform_contract: '0x9dd6626e3dc415eb5dcbbeeb19bc345bffe388a2'

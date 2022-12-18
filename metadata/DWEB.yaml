@@ -6,3 +6,5 @@ id_nomics: DWEB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DWEB.jpeg
 logoKey: currencies/dweb.jpeg
 name: DecentraWeb
+platform: ETH
+platform_contract: '0xe7f58a92476056627f9fdb92286778abd83b285f'

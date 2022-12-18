@@ -5,3 +5,5 @@ id_nomics: DAKS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAKS2.png
 logoKey: currencies/daks2.png
 name: Draggable Aktionariat AG Shares
+platform: ETH
+platform_contract: '0x6f38e0f1a73c96cb3f42598613ea3474f09cb200'

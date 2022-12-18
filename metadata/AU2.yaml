@@ -5,3 +5,5 @@ id_nomics: AU2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AU2.png
 logoKey: currencies/au2.png
 name: AutoCrypto
+platform: BNB
+platform_contract: '0x8ea2f890cb86dfb0e376137451c6fd982afefc15'

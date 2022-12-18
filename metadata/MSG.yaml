@@ -5,3 +5,5 @@ id_nomics: MSG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSG.png
 logoKey: currencies/msg.png
 name: BitMessage
+platform: ETH
+platform_contract: '0xbd10eaccc4004f379b30562835668f3a74433714'

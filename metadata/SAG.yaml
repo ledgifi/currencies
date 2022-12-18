@@ -5,3 +5,5 @@ id_nomics: SAG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAG.png
 logoKey: currencies/sag.png
 name: Sagapassive
+platform: ETH
+platform_contract: '0x06ea6a8992c447a618b1b5495aa5c42228c1a5e1'

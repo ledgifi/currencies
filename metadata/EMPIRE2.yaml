@@ -5,3 +5,5 @@ id_nomics: EMPIRE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EMPIRE2.png
 logoKey: currencies/empire2.png
 name: EmpireDEX
+platform: BNB
+platform_contract: '0xc83859C413a6bA5ca1620cD876c7E33a232c1C34'

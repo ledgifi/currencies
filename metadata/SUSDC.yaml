@@ -3,3 +3,5 @@ fiat: false
 id: SUSDC
 id_nomics: SUSDC
 name: USD Coin (PoS)-LP
+platform: MATIC
+platform_contract: '0x1205f31718499dbf1fca446663b532ef87481fe1'

@@ -5,3 +5,5 @@ id_nomics: PIZZA7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIZZA7.jpg
 logoKey: currencies/pizza7.jpg
 name: Binance Pizza
+platform: BNB
+platform_contract: '0x09e3c39a3e626747c671d952b8b5f3ef8973c54f'

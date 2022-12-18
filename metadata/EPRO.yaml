@@ -3,3 +3,5 @@ fiat: false
 id: EPRO
 id_nomics: EPRO
 name: EthereumPro
+platform: ETH
+platform_contract: '0x189f0c596064520a0eb45fe5a9ec50553b655861'

@@ -6,3 +6,5 @@ id_nomics: SALE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SALE.jpg
 logoKey: currencies/sale.jpg
 name: DxSale Network
+platform: ETH
+platform_contract: '0xf063fe1ab7a291c5d06a86e14730b00bf24cb589'

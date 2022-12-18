@@ -5,3 +5,5 @@ id_nomics: ANCHOR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANCHOR.jpg
 logoKey: currencies/anchor.jpg
 name: AnchorSwap Token
+platform: BNB
+platform_contract: '0x4aac18de824ec1b553dbf342829834e4ff3f7a9f'

@@ -6,3 +6,5 @@ id_nomics: SEFA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SEFA.png
 logoKey: currencies/sefa.png
 name: MESEFA
+platform: ETH
+platform_contract: '0x27201232579491ce9b116ac6f37d354cc723a2f3'

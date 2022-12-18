@@ -3,3 +3,5 @@ fiat: false
 id: ITOC
 id_nomics: ITOC
 name: ITOChain Token
+platform: ETH
+platform_contract: '0xe554ffc701c0a6b3de6b0847e3beb44b47d702a9'

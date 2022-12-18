@@ -5,3 +5,5 @@ id_nomics: C3W
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/C3W.png
 logoKey: currencies/c3w.png
 name: C3 Wallet
+platform: ETH
+platform_contract: '0x19055b944806fba2717dc694cf0173a1eb2d1604'

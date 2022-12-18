@@ -6,3 +6,5 @@ id_nomics: FORCE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FORCE.png
 logoKey: currencies/force.png
 name: Force DAO
+platform: ETH
+platform_contract: '0x6807d7f7df53b7739f6438eabd40ab8c262c0aa8'

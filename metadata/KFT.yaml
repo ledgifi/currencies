@@ -5,3 +5,5 @@ id_nomics: KFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KFT.jpg
 logoKey: currencies/kft.jpg
 name: Knit Finance
+platform: ETH
+platform_contract: '0xef53462838000184f35f7d991452e5f25110b207'

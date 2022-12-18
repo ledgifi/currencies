@@ -5,3 +5,5 @@ id_nomics: SMRT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMRT2.jpg
 logoKey: currencies/smrt2.jpg
 name: SmartCoin
+platform: AVAX
+platform_contract: '0xcc2f1d827b18321254223df4e84de399d9ff116c'

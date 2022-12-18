@@ -5,3 +5,5 @@ id_nomics: CLNY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLNY2.jpg
 logoKey: currencies/clny2.jpg
 name: MarsColony
+platform: HARMONY
+platform_contract: '0x0d625029e21540abdfafa3bfc6fd44fb4e0a66d0'

@@ -5,3 +5,5 @@ id_nomics: GSP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GSP3.jpg
 logoKey: currencies/gsp3.jpg
 name: Golden Sparrow
+platform: BNB
+platform_contract: '0xdcf6773f545c8da07bd8a764c56fcba4de48c46b'

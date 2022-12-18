@@ -3,3 +3,5 @@ fiat: false
 id: PRVD
 id_nomics: PRVD
 name: Provide
+platform: ETH
+platform_contract: '0x65bb569faadd324a00883fde4c46346cc96d5c0a'

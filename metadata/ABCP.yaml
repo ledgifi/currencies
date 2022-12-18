@@ -3,3 +3,5 @@ fiat: false
 id: ABCP
 id_nomics: ABCP
 name: ABCP
+platform: BNB
+platform_contract: '0x3c815f53b89c87260779443e7406ddd1d6d9e350'

@@ -3,3 +3,5 @@ fiat: false
 id: TDNT
 id_nomics: TDNT
 name: TestDoNotTrade
+platform: BNB
+platform_contract: '0xa287893b2898b3d646ee926ba7cf791d1ffa54f0'

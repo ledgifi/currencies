@@ -3,3 +3,5 @@ fiat: false
 id: WATTS
 id_nomics: WATTS
 name: WATTS
+platform: ETH
+platform_contract: '0x5058b77cbd029f56a11bd56326519e3ec0081cd0'

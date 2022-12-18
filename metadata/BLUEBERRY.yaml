@@ -6,3 +6,5 @@ id_nomics: BLUEBERRY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLUEBERRY.jpeg
 logoKey: currencies/blueberry.jpeg
 name: Blueberry Network
+platform: BNB
+platform_contract: '0xee7f7531d770498cc7917ffed31847bbc53b9618'

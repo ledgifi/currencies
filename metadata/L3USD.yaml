@@ -3,3 +3,5 @@ fiat: false
 id: L3USD
 id_nomics: L3USD
 name: L3USD
+platform: FTM
+platform_contract: '0x5f0456f728e2d59028b4f5b8ad8c604100724c6a'

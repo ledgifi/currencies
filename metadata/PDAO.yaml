@@ -6,3 +6,5 @@ id_nomics: PDAO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PDAO.jpg
 logoKey: currencies/pdao.jpg
 name: Panda Dao
+platform: BNB
+platform_contract: '0x1af3b59a839e97e944c65177ab3a024b499133f8'

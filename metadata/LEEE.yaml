@@ -5,3 +5,5 @@ id_nomics: LEEE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LEEE.jpg
 logoKey: currencies/leee.jpg
 name: LeeeMall
+platform: ETH
+platform_contract: '0x7f23114a9810757f38bf5d5a342872aafbe98c13'

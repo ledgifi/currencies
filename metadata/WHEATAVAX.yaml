@@ -5,3 +5,5 @@ id_nomics: WHEATAVAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WHEATAVAX.jpg
 logoKey: currencies/wheatavax.jpg
 name: Wheat Token (Avalanche)
+platform: AVAX
+platform_contract: '0x1a51686fb42861aa7e38c1cf8868877f43f82aa4'

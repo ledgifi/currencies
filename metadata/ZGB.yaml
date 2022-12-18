@@ -3,3 +3,5 @@ fiat: false
 id: ZGB
 id_nomics: ZGB
 name: ZGB
+platform: BNB
+platform_contract: '0xee9513454a5c10cabd13be51db22f3feafc697ef'

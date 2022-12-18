@@ -5,3 +5,5 @@ id_nomics: PUGBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PUGBEP20.jpeg
 logoKey: currencies/pugbep20.jpeg
 name: PUG Inu (BEP-20)
+platform: BNB
+platform_contract: '0x0575266547f58a7937A285fB608A2126059A00d3'

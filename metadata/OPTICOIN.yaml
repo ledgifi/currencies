@@ -3,3 +3,5 @@ fiat: false
 id: OPTICOIN
 id_nomics: OPTICOIN
 name: OptiSwap.pro
+platform: ETH
+platform_contract: '0x6a3bbfd3db3740d26c2df7282575dd6531d64d1a'

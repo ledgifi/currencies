@@ -3,3 +3,5 @@ fiat: false
 id: SNFT2
 id_nomics: SNFT2
 name: SNFT Exchange
+platform: BNB
+platform_contract: '0x0aea2d721cdbfaed70f52103b01ca7cd29c17ed1'

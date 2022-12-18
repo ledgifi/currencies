@@ -6,3 +6,5 @@ id_nomics: TORJ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TORJ.jpg
 logoKey: currencies/torj.jpg
 name: TORJ World
+platform: BNB
+platform_contract: '0xecd2376a8c5ece76323282441a1b935bbcb45ec2'

@@ -7,3 +7,5 @@ id_nomics: ACH3
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/27c7070d-5951-4f84-ade2-bf7ca05c41d2.png
 logoKey: currencies/ach.png
 name: Alchemy Pay
+platform: ETH
+platform_contract: '0xed04915c23f00a313a544955524eb7dbd823143d'

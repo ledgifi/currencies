@@ -3,3 +3,5 @@ fiat: false
 id: EXCHDOOM
 id_nomics: EXCHDOOM
 name: 10X Short Exchange Token Index Token
+platform: ETH
+platform_contract: '0xc3f206e06b33c3f5df9b95b8294a5e71f09480ab'

@@ -5,3 +5,5 @@ id_nomics: CBIXP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBIXP.jpg
 logoKey: currencies/cbixp.jpg
 name: Cubiex Power
+platform: BNB
+platform_contract: '0x39bff8613defd221b0410ed3d4e5c07512d55f2d'

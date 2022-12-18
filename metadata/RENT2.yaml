@@ -5,3 +5,5 @@ id_nomics: RENT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RENT2.png
 logoKey: currencies/rent2.png
 name: House Rent Coin
+platform: BNB
+platform_contract: '0xf4464191ba31674a8c77a93f13a9a0cd18d335f0'

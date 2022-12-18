@@ -5,3 +5,5 @@ id_nomics: BBOO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBOO.jpg
 logoKey: currencies/bboo.jpg
 name: Bamboo Token
+platform: BNB
+platform_contract: '0xd909840613fcb0fadc6ee7e5ecf30cdef4281a68'

@@ -6,3 +6,5 @@ id_nomics: FBRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FBRO.jpg
 logoKey: currencies/fbro.jpg
 name: FlokiBro
+platform: BNB
+platform_contract: '0x32aff736f1e855f0dde6872a3f072b85315ff431'

@@ -6,3 +6,5 @@ id_nomics: ARCG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARCG.jpeg
 logoKey: currencies/arcg.jpeg
 name: Arch Crypton Game
+platform: ETH
+platform_contract: '0xf5774f42b28f35429aac35f8eb57541c511fdd49'

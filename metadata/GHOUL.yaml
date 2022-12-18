@@ -5,3 +5,5 @@ id_nomics: GHOUL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GHOUL.jpg
 logoKey: currencies/ghoul.jpg
 name: GHOUL
+platform: ETH
+platform_contract: '0x3bb86d867a9f3addf994cdadb210fa82f0d4157a'

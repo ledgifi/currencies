@@ -3,3 +3,5 @@ fiat: false
 id: MINISTARDOGE
 id_nomics: MINISTARDOGE
 name: Mini Star Doge
+platform: ETH
+platform_contract: '0x853ab45d9cd7208cc3451c56ea94263f6c82bbb5'

@@ -3,3 +3,5 @@ fiat: false
 id: SHBTC
 id_nomics: SHBTC
 name: SHBTC
+platform: HT
+platform_contract: '0x1116ca8fb3811fb9ac91e3216029a572a0ef43e5'

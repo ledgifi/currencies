@@ -5,3 +5,5 @@ id_nomics: GENE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GENE2.jpg
 logoKey: currencies/gene2.jpg
 name: GeneToken
+platform: ETH
+platform_contract: '0xf6ec87dfe1ed3a7256cc0c38e3c8139103e9af3b'

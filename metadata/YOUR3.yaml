@@ -5,3 +5,5 @@ id_nomics: YOUR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YOUR3.jpg
 logoKey: currencies/your3.jpg
 name: YourCoin
+platform: BNB
+platform_contract: '0x0b04a1224f94767340f8086cec973488bcc66a43'

@@ -3,3 +3,5 @@ fiat: false
 id: BNB3
 id_nomics: BNB3
 name: Heco-Peg Binance Coin
+platform: HT
+platform_contract: '0x4f99d10e16972ff2fe315eee53a95fc5a5870ce3'

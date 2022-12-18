@@ -6,3 +6,5 @@ id_nomics: SOD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOD.jpeg
 logoKey: currencies/sod.jpeg
 name: Son of Doge
+platform: BNB
+platform_contract: '0x77dbde04c1e593eb372ae11cbadb3fb7af305574'

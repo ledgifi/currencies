@@ -5,3 +5,5 @@ id_nomics: ROKK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROKK.jpg
 logoKey: currencies/rokk.jpg
 name: Rokkit Fuel
+platform: BNB
+platform_contract: '0xd85baa6cfea9d9f64d9e341f6f58f8aca1284817'

@@ -3,3 +3,5 @@ fiat: false
 id: QDI
 id_nomics: QDI
 name: Quix Defi Index
+platform: MATIC
+platform_contract: '0x69d5f01c72aa7343819b843b62defd44b52ec7e9'

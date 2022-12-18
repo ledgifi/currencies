@@ -5,3 +5,5 @@ id_nomics: MUX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MUX.jpg
 logoKey: currencies/mux.jpg
 name: Manutax
+platform: ETH
+platform_contract: '0x488e4c2dc6696a04286eb204a7bdb7f99aa48d69'

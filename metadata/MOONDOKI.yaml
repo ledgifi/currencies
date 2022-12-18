@@ -3,3 +3,5 @@ fiat: false
 id: MOONDOKI
 id_nomics: MOONDOKI
 name: MoonDoki Token
+platform: ETH
+platform_contract: '0x3d6a0cea86d95aa343ff842129ae6e14b11c8729'

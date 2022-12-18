@@ -5,3 +5,5 @@ id_nomics: IEM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IEM.jpg
 logoKey: currencies/iem.jpg
 name: Icon ElonMusk
+platform: BNB
+platform_contract: '0x291a52c9bd992d0d02ce5e890ef4d7103082724a'

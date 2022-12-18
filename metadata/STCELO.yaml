@@ -3,3 +3,5 @@ fiat: false
 id: STCELO
 id_nomics: STCELO
 name: Staked Celo
+platform: CELO
+platform_contract: '0xc668583dcbdc9ae6fa3ce46462758188adfdfc24'

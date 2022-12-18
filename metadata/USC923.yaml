@@ -5,3 +5,5 @@ id_nomics: USC923
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USC923.png
 logoKey: currencies/usc923.png
 name: Usc923 Coin
+platform: BNB
+platform_contract: '0xc3db6255573434c68221104548a8dc271132f177'

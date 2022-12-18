@@ -6,3 +6,5 @@ id_nomics: SODV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SODV2.jpg
 logoKey: currencies/sodv2.jpg
 name: Son of Doge V2
+platform: BNB
+platform_contract: '0xcdb943908de5ee37998a53f23467017d1a307e60'

@@ -3,3 +3,5 @@ fiat: false
 id: BGI
 id_nomics: BGI
 name: BoGo Inheritance
+platform: BNB
+platform_contract: '0x29f9a70a7f5c3072b741c9e62ddeb3a026e84abb'

@@ -5,3 +5,5 @@ id_nomics: CLBR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLBR.jpg
 logoKey: currencies/clbr.jpg
 name: ClbrToken
+platform: ETH
+platform_contract: '0x47a60748de6dbd8dce3991adc5751ce0f32279dc'

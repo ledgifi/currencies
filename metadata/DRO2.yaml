@@ -5,3 +5,5 @@ id_nomics: DRO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRO2.jpg
 logoKey: currencies/dro2.jpg
 name: Dooro
+platform: ETH
+platform_contract: '0xa3e89b7B9b0D587db6db486189e3a793d8E49Adf'

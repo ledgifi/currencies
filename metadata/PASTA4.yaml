@@ -5,3 +5,5 @@ id_nomics: PASTA4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PASTA4.png
 logoKey: currencies/pasta4.png
 name: PastaToken
+platform: BNB
+platform_contract: '0xdace8c37bd8bb86f9c534e579976ee6cd20b2fe2'

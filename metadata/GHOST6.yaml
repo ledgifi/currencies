@@ -5,3 +5,5 @@ id_nomics: GHOST6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GHOST6.png
 logoKey: currencies/ghost6.png
 name: Ghost Protocol
+platform: BNB
+platform_contract: '0x90b89403d088b9f840c123ffab4a90629a023762'

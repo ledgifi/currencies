@@ -5,3 +5,5 @@ id_nomics: DPT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DPT3.jpg
 logoKey: currencies/dpt3.jpg
 name: Diviner Protocol
+platform: BNB
+platform_contract: '0xe69caef10a488d7af31da46c89154d025546e990'

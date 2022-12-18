@@ -3,3 +3,5 @@ fiat: false
 id: SPAD
 id_nomics: SPAD
 name: Space Dollar
+platform: BNB
+platform_contract: '0x4c56d643bb74e349bed7873f4a4ed743b254d3f6'

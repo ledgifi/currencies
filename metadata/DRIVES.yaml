@@ -3,3 +3,5 @@ fiat: false
 id: DRIVES
 id_nomics: DRIVES
 name: Drive Club
+platform: ETH
+platform_contract: '0xf64f811063e2aad9ae0a27dd11df1854444ce3ac'

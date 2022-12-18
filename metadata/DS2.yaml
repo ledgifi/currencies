@@ -5,3 +5,5 @@ id_nomics: DS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DS2.jpg
 logoKey: currencies/ds2.jpg
 name: DiamondShiba
+platform: BNB
+platform_contract: '0xed0fd5ec2ae6d1021d928e2bfd8cec2bac41600f'

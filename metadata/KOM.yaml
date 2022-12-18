@@ -6,3 +6,5 @@ id_nomics: KOM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KOM.jpg
 logoKey: currencies/kom.jpg
 name: Kommunitas
+platform: MATIC
+platform_contract: '0xc004e2318722ea2b15499d6375905d75ee5390b8'

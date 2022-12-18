@@ -6,3 +6,5 @@ id_nomics: ZADA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZADA.jpg
 logoKey: currencies/zada.jpg
 name: Zada
+platform: BNB
+platform_contract: '0xfcadd830ff2d6cf3ad1681e1e8fc5ddce9d59e74'

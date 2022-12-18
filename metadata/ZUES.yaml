@@ -3,3 +3,5 @@ fiat: false
 id: ZUES
 id_nomics: ZUES
 name: ZUES Token
+platform: FUSE
+platform_contract: '0x6eab0ed8aac79ce3eeb629193e0a74f8297ca04c'

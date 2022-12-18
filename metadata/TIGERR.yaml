@@ -5,3 +5,5 @@ id_nomics: TIGERR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIGERR.png
 logoKey: currencies/tigerr.png
 name: Tiger Rich
+platform: BNB
+platform_contract: '0x10c6b59a330cb43bd175c09041b9a651058a7b50'

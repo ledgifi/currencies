@@ -5,3 +5,5 @@ id_nomics: UNICOIN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNICOIN2.jpg
 logoKey: currencies/unicoin2.jpg
 name: UniCoin
+platform: BNB
+platform_contract: '0x8ed9df1aa16536772456af71f762903aba27886f'

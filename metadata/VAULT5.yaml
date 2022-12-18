@@ -5,3 +5,5 @@ id_nomics: VAULT5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VAULT5.jpg
 logoKey: currencies/vault5.jpg
 name: VaultBTC
+platform: BNB
+platform_contract: '0x92da405b6771c9caa7988a41dd969a73d10a3cc6'

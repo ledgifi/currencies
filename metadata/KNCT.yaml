@@ -5,3 +5,5 @@ id_nomics: KNCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KNCT.jpg
 logoKey: currencies/knct.jpg
 name: KnoxsterChain
+platform: ETH
+platform_contract: '0xb5e62a10c362a479be1f629f01a7e8146ea7a748'

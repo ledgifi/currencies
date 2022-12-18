@@ -5,3 +5,5 @@ id_nomics: CST2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CST2.png
 logoKey: currencies/cst2.png
 name: Coinopolis Staking Token
+platform: MATIC
+platform_contract: '0x04d40bEFB0a3DFbF76c1B1157EB23865Abdb6D0B'

@@ -5,3 +5,5 @@ id_nomics: ROMTV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROMTV.jpg
 logoKey: currencies/romtv.jpg
 name: ROMTV
+platform: ETH
+platform_contract: '0x5301e9f1b9156e600af0e08ad57a6e725a6cd479'

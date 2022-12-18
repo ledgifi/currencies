@@ -5,3 +5,5 @@ id_nomics: KAT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAT2.png
 logoKey: currencies/kat2.png
 name: King Ape Token
+platform: BNB
+platform_contract: '0x72e7fcc15c8754d8d70d1352c9d935d74d0fea8c'

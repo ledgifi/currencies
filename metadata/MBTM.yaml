@@ -3,3 +3,5 @@ fiat: false
 id: MBTM
 id_nomics: MBTM
 name: Bytom minted
+platform: HT
+platform_contract: '0xd97b21993187391f44d497dd4d961122e0a6f958'

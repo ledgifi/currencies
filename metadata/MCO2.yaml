@@ -6,3 +6,5 @@ id_nomics: MCO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCO2.jpg
 logoKey: currencies/mco2.jpg
 name: Moss Carbon Credit
+platform: ETH
+platform_contract: '0xfc98e825a2264d890f9a1e68ed50e1526abccacd'

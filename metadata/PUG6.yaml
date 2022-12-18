@@ -5,3 +5,5 @@ id_nomics: PUG6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PUG6.png
 logoKey: currencies/pug6.png
 name: Pug
+platform: AVAX
+platform_contract: '0x49a143d7a188356bae286273b2244f763deb080e'

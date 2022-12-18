@@ -5,3 +5,5 @@ id_nomics: EUM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EUM2.png
 logoKey: currencies/eum2.png
 name: Walleteum
+platform: ETH
+platform_contract: '0x3071a55a0f7916d796b54a2d095db85df693d956'

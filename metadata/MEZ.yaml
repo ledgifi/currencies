@@ -6,3 +6,5 @@ id_nomics: MEZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEZ.jpeg
 logoKey: currencies/mez.jpeg
 name: MetaZoon Token
+platform: BNB
+platform_contract: '0x60e9129dcf1d2e235ea0b572fddc2bfbbbe9c0bc'

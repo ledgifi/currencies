@@ -5,3 +5,5 @@ id_nomics: GBAG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GBAG.jpg
 logoKey: currencies/gbag.jpg
 name: Giftbag
+platform: BNB
+platform_contract: '0x6820f244b81d0906d70266cc9bccc2a8eaa5464c'

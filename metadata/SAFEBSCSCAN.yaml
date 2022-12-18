@@ -3,3 +3,5 @@ fiat: false
 id: SAFEBSCSCAN
 id_nomics: SAFEBSCSCAN
 name: SafeBscscan
+platform: BNB
+platform_contract: '0xb0f912532e4fb81620c1a27b55433cbd7fec2f2b'

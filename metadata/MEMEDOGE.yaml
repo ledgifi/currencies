@@ -6,3 +6,5 @@ id_nomics: MEMEDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEMEDOGE.png
 logoKey: currencies/memedoge.png
 name: Meme Doge Coin
+platform: BNB
+platform_contract: '0xf1761596cc6568c608cff23895075312ed374bf1'

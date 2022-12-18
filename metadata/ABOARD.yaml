@@ -3,3 +3,5 @@ fiat: false
 id: ABOARD
 id_nomics: ABOARD
 name: AboardExchange
+platform: ARBETH
+platform_contract: '0xe8f556e032adac3524efeed84ffff32fe15b2a45'

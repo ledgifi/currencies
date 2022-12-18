@@ -3,3 +3,5 @@ fiat: false
 id: DEXMMETF
 id_nomics: DEXMMETF
 name: Money Market Fund
+platform: BNB
+platform_contract: '0x60ebfd605cb25c7796f729c78a4453acecb1ce03'

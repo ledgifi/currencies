@@ -5,3 +5,5 @@ id_nomics: PDCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PDCT.jpg
 logoKey: currencies/pdct.jpg
 name: Predictr
+platform: ETH
+platform_contract: '0xbc4f10c010bdc0966707e9267b4f6dc597faf374'

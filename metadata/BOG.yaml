@@ -6,3 +6,5 @@ id_nomics: BOG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOG.jpg
 logoKey: currencies/bog.jpg
 name: Bogged Finance
+platform: BNB
+platform_contract: '0xd7b729ef857aa773f47d37088a1181bb3fbf0099'

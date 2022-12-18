@@ -6,3 +6,5 @@ id_nomics: FOA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOA.jpg
 logoKey: currencies/foa.jpg
 name: Fragments of Arker
+platform: BNB
+platform_contract: '0xae7300b51a8cd43d5b74be0dd5047715b7017e3e'

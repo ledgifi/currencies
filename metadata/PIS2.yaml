@@ -5,3 +5,5 @@ id_nomics: PIS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIS2.jpg
 logoKey: currencies/pis2.jpg
 name: Polkainsure Finance
+platform: ETH
+platform_contract: '0x834ce7ad163ab3be0c5fd4e0a81e67ac8f51e00c'

@@ -3,3 +3,5 @@ fiat: false
 id: RITE
 id_nomics: RITE
 name: ritestream
+platform: BNB
+platform_contract: '0x2f23c0d879e37eb8bee10d4174a287f65043d688'

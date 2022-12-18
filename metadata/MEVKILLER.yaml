@@ -3,3 +3,5 @@ fiat: false
 id: MEVKILLER
 id_nomics: MEVKILLER
 name: MEV KILLER
+platform: ETH
+platform_contract: '0x64326f0044854ab47d775468aef1ccaddaba8419'

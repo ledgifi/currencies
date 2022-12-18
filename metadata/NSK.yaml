@@ -6,3 +6,5 @@ id_nomics: NSK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NSK.jpg
 logoKey: currencies/nsk.jpg
 name: Noahs ark
+platform: BNB
+platform_contract: '0x47fb260e384c807c7f365f754239408cd1ff34f2'

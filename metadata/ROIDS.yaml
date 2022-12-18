@@ -6,3 +6,5 @@ id_nomics: ROIDS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROIDS.jpeg
 logoKey: currencies/roids.jpeg
 name: SteroiDoge
+platform: BNB
+platform_contract: '0x2d0cf7105b4e394e37dc95d513c6482100eb0849'

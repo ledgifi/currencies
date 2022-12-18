@@ -3,3 +3,5 @@ fiat: false
 id: FAVAX2
 id_nomics: FAVAX2
 name: Fantastic Protocol Peg-AVAX (FAVAX) Token
+platform: AVAX
+platform_contract: '0xf9a49321d3d34cf94c4abd1957c219572a646692'

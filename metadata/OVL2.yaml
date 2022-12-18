@@ -3,3 +3,5 @@ fiat: false
 id: OVL2
 id_nomics: OVL2
 name: Overlay Protocol
+platform: ETH
+platform_contract: '0xdc77acc82cce1cc095cba197474cc06824ade6f7'

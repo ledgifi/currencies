@@ -5,3 +5,5 @@ id_nomics: HAPI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HAPI.jpg
 logoKey: currencies/hapi.jpg
 name: HAPI
+platform: BNB
+platform_contract: '0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54'

@@ -3,3 +3,5 @@ fiat: false
 id: APEB
 id_nomics: APEB
 name: APE Burn
+platform: AVAX
+platform_contract: '0x1d2a4e19a3bf230380e7a05b01925055fe977b0b'

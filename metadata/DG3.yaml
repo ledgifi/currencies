@@ -5,3 +5,5 @@ id_nomics: DG3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DG3.jpg
 logoKey: currencies/dg3.jpg
 name: Decentral Games (New)
+platform: ETH
+platform_contract: '0x4b520c812e8430659fc9f12f6d0c39026c83588d'

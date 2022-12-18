@@ -5,3 +5,5 @@ id_nomics: DOGES3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGES3.png
 logoKey: currencies/doges3.png
 name: Doge Spacemoon
+platform: BNB
+platform_contract: '0x8bB8Cc040a948CE658db1Ef3271aBE3AAD66E54c'

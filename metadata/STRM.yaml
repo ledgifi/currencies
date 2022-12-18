@@ -6,3 +6,5 @@ id_nomics: STRM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STRM.jpg
 logoKey: currencies/strm.jpg
 name: Instrumental Finance
+platform: ETH
+platform_contract: '0x0edf9bc41bbc1354c70e2107f80c42cae7fbbca8'

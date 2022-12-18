@@ -3,3 +3,5 @@ fiat: false
 id: INCREMENT
 id_nomics: INCREMENT
 name: Increment
+platform: ETH
+platform_contract: '0xf9cc249a661c45f6d8fec7dc4dc5d07e3e5bb9b4'

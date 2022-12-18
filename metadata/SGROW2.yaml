@@ -5,3 +5,5 @@ id_nomics: SGROW2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SGROW2.jpg
 logoKey: currencies/sgrow2.jpg
 name: Starlink Grow
+platform: BNB
+platform_contract: '0xad30691c51b649f7e80009ca1a5aeb4b1700e385'

@@ -3,3 +3,5 @@ fiat: false
 id: ARKES
 id_nomics: ARKES
 name: Arke Token (PoS)
+platform: MATIC
+platform_contract: '0x0784d958ee09ff8e876a82d3c6e798912c0f0a11'

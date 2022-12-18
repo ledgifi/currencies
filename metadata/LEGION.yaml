@@ -5,3 +5,5 @@ id_nomics: LEGION
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LEGION.jpg
 logoKey: currencies/legion.jpg
 name: LEGION
+platform: BNB
+platform_contract: '0x7cf23dff6dedbf80211ffada15ae01463c47d034'

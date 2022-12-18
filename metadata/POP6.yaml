@@ -3,3 +3,5 @@ fiat: false
 id: POP6
 id_nomics: POP6
 name: Popcorn V2
+platform: MATIC
+platform_contract: '0x5a35d30c8b23e571e4f7efc25f353c91fd12f8e8'

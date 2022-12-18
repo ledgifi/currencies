@@ -5,3 +5,5 @@ id_nomics: GOF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOF.jpg
 logoKey: currencies/gof.jpg
 name: Golff (ERC-20)
+platform: ETH
+platform_contract: '0x488e0369f9bc5c40c002ea7c1fe4fd01a198801c'

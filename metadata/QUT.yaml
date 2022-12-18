@@ -3,3 +3,5 @@ fiat: false
 id: QUT
 id_nomics: QUT
 name: Qura Token
+platform: ETH
+platform_contract: '0x73e62944ec0606dfa5c58b07d0e4efcf18b81337'

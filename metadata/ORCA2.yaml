@@ -5,3 +5,5 @@ id_nomics: ORCA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORCA2.svg
 logoKey: currencies/orca2.svg
 name: Orca DAO
+platform: AVAX
+platform_contract: '0x8b1d98a91f853218ddbb066f20b8c63e782e2430'

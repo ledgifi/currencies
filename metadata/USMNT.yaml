@@ -3,3 +3,5 @@ fiat: false
 id: USMNT
 id_nomics: USMNT
 name: USMNT COIN
+platform: BNB
+platform_contract: '0xd94e9e9c54cd05731009922fc65ac3aeaba50cfe'

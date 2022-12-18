@@ -5,3 +5,5 @@ id_nomics: GUEST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GUEST.png
 logoKey: currencies/guest.png
 name: GuestCoin
+platform: BNB
+platform_contract: '0x48294aef8d2c9c109196ab3067c0b72e9b0f79ce'

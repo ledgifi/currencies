@@ -5,3 +5,5 @@ id_nomics: SAVG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAVG2.jpg
 logoKey: currencies/savg2.jpg
 name: SAVAGE
+platform: MATIC
+platform_contract: '0x981aecc6eb4d382b96a02b75e931900705e95a31'

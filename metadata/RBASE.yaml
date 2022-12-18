@@ -6,3 +6,5 @@ id_nomics: RBASE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RBASE.jpg
 logoKey: currencies/rbase.jpg
 name: rbase.finance
+platform: ETH
+platform_contract: '0xe8b251822d003a2b2466ee0e38391c2db2048739'

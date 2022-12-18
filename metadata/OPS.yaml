@@ -6,3 +6,5 @@ id_nomics: OPS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OPS.jpg
 logoKey: currencies/ops.jpg
 name: Octopus Protocol
+platform: BNB
+platform_contract: '0x3710cd84e0e331c99c70a34b8c6c136c2cdf91c4'

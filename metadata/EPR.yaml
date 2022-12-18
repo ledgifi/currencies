@@ -5,3 +5,5 @@ id_nomics: EPR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EPR.jpg
 logoKey: currencies/epr.jpg
 name: Epic Deer
+platform: BNB
+platform_contract: '0x948a4affa3da8e1bf8859f416ef362be8028cc52'

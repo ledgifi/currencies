@@ -5,3 +5,5 @@ id_nomics: BASKETCHAMP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BASKETCHAMP.jpg
 logoKey: currencies/basketchamp.jpg
 name: Basket Champ
+platform: BNB
+platform_contract: '0x7918a29464425f224a8a9c93cba4b3c42492d97c'

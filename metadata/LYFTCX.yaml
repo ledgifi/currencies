@@ -5,3 +5,5 @@ id_nomics: LYFTCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LYFTCX.jpg
 logoKey: currencies/lyftcx.jpg
 name: Lyft, Inc. Token
+platform: ETH
+platform_contract: '0x3f1844917418cade330f938093cf6f23f0ed5093'

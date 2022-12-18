@@ -5,3 +5,5 @@ id_nomics: DREAM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DREAM.png
 logoKey: currencies/dream.png
 name: DreamTeam
+platform: ETH
+platform_contract: '0x82f4ded9cec9b5750fbff5c2185aee35afc16587'

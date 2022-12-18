@@ -5,3 +5,5 @@ id_nomics: DAICX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAICX.jpg
 logoKey: currencies/daicx.jpg
 name: Daimler AG Token
+platform: ETH
+platform_contract: '0x60d9564303c70d3f040ea9393d98d94f767d020c'

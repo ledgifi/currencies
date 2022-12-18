@@ -6,3 +6,5 @@ id_nomics: KANDY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KANDY.jpg
 logoKey: currencies/kandy.jpg
 name: KANDY
+platform: AVAX
+platform_contract: '0x37ded665a387a6f170fb60376b3057f09df6c0ea'

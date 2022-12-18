@@ -6,3 +6,5 @@ id_nomics: BABYKITTY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYKITTY.jpg
 logoKey: currencies/babykitty.jpg
 name: BabyKitty
+platform: BNB
+platform_contract: '0x3efe3bee4dbeb77d260bc12aeb62072cf6e68478'

@@ -3,3 +3,5 @@ fiat: false
 id: ONEBEP20
 id_nomics: ONEBEP20
 name: Harmony ONE (BEP-20)
+platform: BNB
+platform_contract: '0x03ff0ff224f904be3118461335064bb48df47938'

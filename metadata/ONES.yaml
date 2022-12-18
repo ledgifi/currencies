@@ -6,3 +6,5 @@ id_nomics: ONES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ONES.jpg
 logoKey: currencies/ones.jpg
 name: OneSwap DAO Token
+platform: ETH
+platform_contract: '0x0b342c51d1592c41068d5d4b4da4a68c0a04d5a4'

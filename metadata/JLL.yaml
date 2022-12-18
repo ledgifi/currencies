@@ -6,3 +6,5 @@ id_nomics: JLL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JLL.png
 logoKey: currencies/jll.png
 name: Jllone
+platform: ETH
+platform_contract: '0x5661c46e366570360064ae1a50a17a7a1a8f3236'

@@ -6,3 +6,5 @@ id_nomics: YFD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFD.jpg
 logoKey: currencies/yfd.jpg
 name: YfDFI Finance
+platform: ETH
+platform_contract: '0x4f4f0ef7978737ce928bff395529161b44e27ad9'

@@ -5,3 +5,5 @@ id_nomics: FENRIR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FENRIR.jpeg
 logoKey: currencies/fenrir.jpeg
 name: Fenrir
+platform: BNB
+platform_contract: '0x44332ff15aef29585821a2232819ae2d30b2264c'

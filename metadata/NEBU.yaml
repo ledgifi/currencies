@@ -5,3 +5,5 @@ id_nomics: NEBU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEBU.jpg
 logoKey: currencies/nebu.jpg
 name: NebulaNodes
+platform: AVAX
+platform_contract: '0x5AA2Ff4Ab706307d8B3D90A462c1ddC055655734'

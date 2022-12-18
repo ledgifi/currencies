@@ -6,3 +6,5 @@ id_nomics: TRACTOR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRACTOR.jpg
 logoKey: currencies/tractor.jpg
 name: Tractor Joe
+platform: AVAX
+platform_contract: '0x542fa0b261503333b90fe60c78f2beed16b7b7fd'

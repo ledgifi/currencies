@@ -6,3 +6,5 @@ id_nomics: SMI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMI.jpg
 logoKey: currencies/smi.jpg
 name: SafeMoon Inu
+platform: ETH
+platform_contract: '0xcd7492db29e2ab436e819b249452ee1bbdf52214'

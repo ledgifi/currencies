@@ -3,3 +3,5 @@ fiat: false
 id: BBTC4
 id_nomics: BBTC4
 name: BIG BTC
+platform: BNB
+platform_contract: '0xb34825d9e48a7b338e811a1882f4d804ba6f456e'

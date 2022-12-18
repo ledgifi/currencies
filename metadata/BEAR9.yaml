@@ -5,3 +5,5 @@ id_nomics: BEAR9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEAR9.jpg
 logoKey: currencies/bear9.jpg
 name: TEDDY
+platform: BNB
+platform_contract: '0x6effc3b9ea59a081e7132ad2e491d1ae523394f5'

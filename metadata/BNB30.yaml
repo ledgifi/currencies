@@ -3,3 +3,5 @@ fiat: false
 id: BNB30
 id_nomics: BNB30
 name: bnb3.0
+platform: BNB
+platform_contract: '0x176fc33432d951f3db2535ae008bef01b7671cb4'

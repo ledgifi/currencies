@@ -5,3 +5,5 @@ id_nomics: VXVS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VXVS.jpg
 logoKey: currencies/vxvs.jpg
 name: Venus XVS
+platform: BNB
+platform_contract: '0x151b1e2635a717bcdc836ecd6fbb62b674fe3e1d'

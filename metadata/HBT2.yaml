@@ -5,3 +5,5 @@ id_nomics: HBT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HBT2.jpg
 logoKey: currencies/hbt2.jpg
 name: Habitat
+platform: ETH
+platform_contract: '0x0ace32f6e87ac1457a5385f8eb0208f37263b415'

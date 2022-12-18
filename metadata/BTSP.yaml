@@ -3,3 +3,5 @@ fiat: false
 id: BTSP
 id_nomics: BTSP
 name: Bootstrappers
+platform: MATIC
+platform_contract: '0xe55b8543323f5b510a2546db0e2eb229d0e3260c'

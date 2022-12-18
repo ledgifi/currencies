@@ -6,3 +6,5 @@ id_nomics: QRT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QRT.jpg
 logoKey: currencies/qrt.jpg
 name: Qrkita Token
+platform: BNB
+platform_contract: '0x921d3a6ed8223afb6358410f717e2fb13cbae700'

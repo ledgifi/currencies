@@ -3,3 +3,5 @@ fiat: false
 id: TARGARYEN
 id_nomics: TARGARYEN
 name: Targaryen Coin
+platform: ETH
+platform_contract: '0x48e99ef185d9bf71e79ce22ad0d01c27399fe81b'

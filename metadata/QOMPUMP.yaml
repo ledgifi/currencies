@@ -3,3 +3,5 @@ fiat: false
 id: QOMPUMP
 id_nomics: QOMPUMP
 name: Shiba Pumper
+platform: ETH
+platform_contract: '0x315ee5d15cb7633a4f2cdb4b2a99dea58a0bf9d5'

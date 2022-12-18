@@ -3,3 +3,5 @@ fiat: false
 id: ADTC
 id_nomics: ADTC
 name: ADTESTCOIN
+platform: BNB
+platform_contract: '0x2461b53694179e8835d39071200058af94db4bc9'

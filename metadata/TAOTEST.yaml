@@ -3,3 +3,5 @@ fiat: false
 id: TAOTEST
 id_nomics: TAOTEST
 name: TAO TEST TOKEN
+platform: MATIC
+platform_contract: '0x1e4eb34c2e48b735deef2a49c82708190a0d5869'

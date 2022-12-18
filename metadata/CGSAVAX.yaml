@@ -5,3 +5,5 @@ id_nomics: CGSAVAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CGSAVAX.png
 logoKey: currencies/cgsavax.png
 name: AvaCougarSwap
+platform: AVAX
+platform_contract: '0x727C43b707C6Fe3ACD92f17EFAC8e05476DFa81c'

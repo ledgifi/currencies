@@ -6,3 +6,5 @@ id_nomics: NGL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NGL.jpg
 logoKey: currencies/ngl.jpg
 name: Gold Fever Native Gold
+platform: ETH
+platform_contract: '0x2653891204f463fb2a2f4f412564b19e955166ae'

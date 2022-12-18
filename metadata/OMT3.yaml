@@ -5,3 +5,5 @@ id_nomics: OMT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OMT3.jpg
 logoKey: currencies/omt3.jpg
 name: Onion Mixer
+platform: BNB
+platform_contract: '0x943978707717d4d73da6f74312aef59feafe368c'

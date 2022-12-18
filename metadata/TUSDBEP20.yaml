@@ -3,3 +3,5 @@ fiat: false
 id: TUSDBEP20
 id_nomics: TUSDBEP20
 name: TrueUSD (BEP-20)
+platform: BNB
+platform_contract: '0x14016e85a25aeb13065688cafb43044c2ef86784'

@@ -5,3 +5,5 @@ id_nomics: BANANAPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BANANAPOS.jpg
 logoKey: currencies/bananapos.jpg
 name: Banana (Polygon)
+platform: MATIC
+platform_contract: '0x5d47baba0d66083c52009271faf3f50dcc01023c'

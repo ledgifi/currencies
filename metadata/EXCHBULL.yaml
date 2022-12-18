@@ -3,3 +3,5 @@ fiat: false
 id: EXCHBULL
 id_nomics: EXCHBULL
 name: 3X Long Exchange Token Index Token
+platform: ETH
+platform_contract: '0x592ef68c18f05a22c5890263dea5d952dd140d2a'

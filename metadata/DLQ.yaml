@@ -3,3 +3,5 @@ fiat: false
 id: DLQ
 id_nomics: DLQ
 name: Deliq
+platform: AVAX
+platform_contract: '0x50c72103940d419fb64448f258f7eabba784f84b'

@@ -5,3 +5,5 @@ id_nomics: HOLXCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOLXCX.jpg
 logoKey: currencies/holxcx.jpg
 name: Hologic, Inc.
+platform: ETH
+platform_contract: '0x6b3d42012d73a0b94f10a56fa8b283e7525d24ef'

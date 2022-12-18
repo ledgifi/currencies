@@ -5,3 +5,5 @@ id_nomics: MAINST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAINST.jpg
 logoKey: currencies/mainst.jpg
 name: BuyMainStreet
+platform: BNB
+platform_contract: '0x8fc1a944c149762b6b578a06c0de2abd6b7d2b89'

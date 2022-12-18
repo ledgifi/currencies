@@ -6,3 +6,5 @@ id_nomics: XRGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XRGE.jpg
 logoKey: currencies/xrge.jpg
 name: RougeCoin
+platform: ETH
+platform_contract: '0xa1c7d450130bb77c6a23ddfaecbc4a060215384b'

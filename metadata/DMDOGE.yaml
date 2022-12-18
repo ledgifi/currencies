@@ -3,3 +3,5 @@ fiat: false
 id: DMDOGE
 id_nomics: DMDOGE
 name: DMDOGE
+platform: BNB
+platform_contract: '0x77b228ec34418eaeaf26f70b1d3c839d0a7e0b8a'

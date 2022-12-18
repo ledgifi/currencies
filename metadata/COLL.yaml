@@ -6,3 +6,5 @@ id_nomics: COLL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COLL.jpg
 logoKey: currencies/coll.jpg
 name: Collateral Pay
+platform: ETH
+platform_contract: '0x957891c11616d3e0b0a76a76fb42724c382e0ef3'

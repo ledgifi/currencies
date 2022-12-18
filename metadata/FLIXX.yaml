@@ -5,3 +5,5 @@ id_nomics: FLIXX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/flixx.jpg
 logoKey: currencies/flixx.jpg
 name: Flixx
+platform: ETH
+platform_contract: '0xf04a8ac553fcedb5ba99a64799155826c136b0be'

@@ -6,3 +6,5 @@ id_nomics: ELMON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELMON.jpg
 logoKey: currencies/elmon.jpg
 name: Elemon
+platform: BNB
+platform_contract: '0xe3233fdb23f1c27ab37bd66a19a1f1762fcf5f3f'

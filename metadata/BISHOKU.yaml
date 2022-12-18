@@ -5,3 +5,5 @@ id_nomics: BISHOKU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BISHOKU.jpg
 logoKey: currencies/bishoku.jpg
 name: Bishoku Inu
+platform: BNB
+platform_contract: '0xe8813e1c7eaf1de10d331ed6c0b210eb36561356'

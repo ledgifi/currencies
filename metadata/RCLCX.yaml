@@ -5,3 +5,5 @@ id_nomics: RCLCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RCLCX.jpg
 logoKey: currencies/rclcx.jpg
 name: 'Royal Caribbean Cruises '
+platform: ETH
+platform_contract: '0xda0f7fe8ca3244c8ab6f810e5f0f93606c1ccb86'

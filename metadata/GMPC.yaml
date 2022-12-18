@@ -3,3 +3,5 @@ fiat: false
 id: GMPC
 id_nomics: GMPC
 name: GMPC
+platform: HT
+platform_contract: '0x94cbb2d2010d962c42154e8dd13c3a682f8abdb6'

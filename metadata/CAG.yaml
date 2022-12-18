@@ -6,3 +6,5 @@ id_nomics: CAG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/cag.jpg
 logoKey: currencies/cag.jpg
 name: Change
+platform: ETH
+platform_contract: '0x7d4b8cce0591c9044a22ee543533b72e976e36c3'

@@ -6,3 +6,5 @@ id_nomics: FETHP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FETHP.jpg
 logoKey: currencies/fethp.jpg
 name: FANTOM ETHPrinter
+platform: FTM
+platform_contract: '0xda25293b6186d597ddf4986c82245f2a48cd6b4d'

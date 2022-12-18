@@ -5,3 +5,5 @@ id_nomics: TIN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIN2.jpg
 logoKey: currencies/tin2.jpg
 name: Tinfoil Finance
+platform: BNB
+platform_contract: '0xaadeb3d2170d391abb1a12e3da69cc93d880a31b'

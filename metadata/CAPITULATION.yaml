@@ -3,3 +3,5 @@ fiat: false
 id: CAPITULATION
 id_nomics: CAPITULATION
 name: Surrender
+platform: ETH
+platform_contract: '0xc2b5f58eb64ea82ec95279a211cd458bc9eae31c'

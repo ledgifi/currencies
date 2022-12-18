@@ -5,3 +5,5 @@ id_nomics: COCO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COCO2.jpg
 logoKey: currencies/coco2.jpg
 name: Coco Swap
+platform: BNB
+platform_contract: '0x9aa6fc71aed1130dee06a91a487bf5ea481de80d'

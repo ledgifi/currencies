@@ -3,3 +3,5 @@ fiat: false
 id: ESS2
 id_nomics: ESS2
 name: Empty Set Share
+platform: ETH
+platform_contract: '0x24ae124c4cc33d6791f8e8b63520ed7107ac8b3e'

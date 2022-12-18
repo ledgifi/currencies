@@ -5,3 +5,5 @@ id_nomics: VERSA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VERSA3.png
 logoKey: currencies/versa3.png
 name: Versatile Finance
+platform: BNB
+platform_contract: '0xfd3dbb4709af9feeb87eb842cf6b6b5f37b30fac'

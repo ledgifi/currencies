@@ -5,3 +5,5 @@ id_nomics: SUPD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUPD.jpg
 logoKey: currencies/supd.jpg
 name: Support Doge
+platform: BNB
+platform_contract: '0xc81d74bc2aa0c2be3fb56908e8caba186e106d9d'

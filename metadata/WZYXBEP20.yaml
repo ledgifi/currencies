@@ -5,3 +5,5 @@ id_nomics: WZYXBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WZYXBEP20.webp
 logoKey: currencies/wzyxbep20.webp
 name: ZYX (BEP-20)
+platform: BNB
+platform_contract: '0x377c6e37633e390aef9afb4f5e0b16689351eed4'

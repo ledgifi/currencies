@@ -3,3 +3,5 @@ fiat: false
 id: PARABEP20
 id_nomics: PARABEP20
 name: Paralink Network (BEP-20)
+platform: BNB
+platform_contract: '0x7eBfcF19AACe1C83189A2CC17FF26c7044361016'

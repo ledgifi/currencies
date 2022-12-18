@@ -6,3 +6,5 @@ id_nomics: DUNES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUNES.jpg
 logoKey: currencies/dunes.jpg
 name: Dunes
+platform: ETH
+platform_contract: '0xcbfd3340a21694ecd3812ff6affc4dec9dc2c6dc'

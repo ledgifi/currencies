@@ -6,3 +6,5 @@ id_nomics: TCAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCAD.jpg
 logoKey: currencies/tcad.jpg
 name: TrueCAD
+platform: ETH
+platform_contract: '0x00000100f2a2bd000715001920eb70d229700085'

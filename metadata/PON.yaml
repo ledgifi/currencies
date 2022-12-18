@@ -6,3 +6,5 @@ id_nomics: PON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PON.jpg
 logoKey: currencies/pon.jpg
 name: Proof of Nature Token
+platform: ETH
+platform_contract: '0x19ddc3605052554a1ac2b174ae745c911456841f'

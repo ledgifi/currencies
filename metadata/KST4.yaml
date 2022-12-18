@@ -5,3 +5,5 @@ id_nomics: KST4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KST4.png
 logoKey: currencies/kst4.png
 name: KOINSWAP
+platform: BNB
+platform_contract: '0xc3589ba9272196190de7ae9175cfe829945426d7'

@@ -5,3 +5,5 @@ id_nomics: BFND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BFND.jpg
 logoKey: currencies/bfnd.jpg
 name: Baby FND
+platform: BNB
+platform_contract: '0xf4eda9d3a789eb221178fbdd57d25fc6929b38e3'

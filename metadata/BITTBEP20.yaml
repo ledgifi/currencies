@@ -5,3 +5,5 @@ id_nomics: BITTBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITTBEP20.jpg
 logoKey: currencies/bittbep20.jpg
 name: BITToken (BEP-20)
+platform: BNB
+platform_contract: '0x518445f0db93863e5e93a7f70617c05afa8048f1'

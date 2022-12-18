@@ -3,3 +3,5 @@ fiat: false
 id: NFC2
 id_nomics: NFC2
 name: NFCoin
+platform: ETH
+platform_contract: '0xc1ad2c188a012391b51a153ea4a2e8ec3d84ad0f'

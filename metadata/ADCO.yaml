@@ -6,3 +6,5 @@ id_nomics: ADCO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADCO.jpg
 logoKey: currencies/adco.jpg
 name: Advertise Coin
+platform: ETH
+platform_contract: '0xb6c3dc857845a713d3531cea5ac546f6767992f4'

@@ -3,3 +3,5 @@ fiat: false
 id: EOSMOON
 id_nomics: EOSMOON
 name: 10X Long EOS Token
+platform: ETH
+platform_contract: '0x4aaff81cfe81523b1c4f6b6c075ebf9bbdb094c9'

@@ -3,3 +3,5 @@ fiat: false
 id: GRT3
 id_nomics: GRT3
 name: GRT Token
+platform: ETH
+platform_contract: '0xcfa99ee2ec34269541072c0fe507c7b77a0c56af'

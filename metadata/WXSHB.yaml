@@ -3,3 +3,5 @@ fiat: false
 id: WXSHB
 id_nomics: WXSHB
 name: wrapped xshiba
+platform: BNB
+platform_contract: '0xa1b031800d9f25a1292f1c308d51e2c00f230a02'

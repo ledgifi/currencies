@@ -3,3 +3,5 @@ fiat: false
 id: BTV3
 id_nomics: BTV3
 name: Bitcoin EVO
+platform: ETH
+platform_contract: '0x3917e933bd430c08304cae2aa6d9746b806406c2'

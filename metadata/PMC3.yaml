@@ -5,3 +5,5 @@ id_nomics: PMC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PMC3.jpeg
 logoKey: currencies/pmc3.jpeg
 name: Premium Coin
+platform: BNB
+platform_contract: '0x96b85016c9407b079cef09003bbd1d09846730d2'

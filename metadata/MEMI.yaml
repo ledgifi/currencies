@@ -3,3 +3,5 @@ fiat: false
 id: MEMI
 id_nomics: MEMI
 name: MEMI Token
+platform: MATIC
+platform_contract: '0xcc022af4f41ae388b84729a02b202ecf84051786'

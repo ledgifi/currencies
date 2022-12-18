@@ -5,3 +5,5 @@ id_nomics: WETBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WETBEP20.png
 logoKey: currencies/wetbep20.png
 name: Weble Ecosystem Token (BEP-20)
+platform: BNB
+platform_contract: '0x632b8c4e95b2f8a9309417f8d990ab9c04c77369'

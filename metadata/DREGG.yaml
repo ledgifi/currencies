@@ -6,3 +6,5 @@ id_nomics: DREGG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DREGG.jpg
 logoKey: currencies/dregg.jpg
 name: Dragon Egg
+platform: AVAX
+platform_contract: '0x88c090496125b751b4e3ce4d3fdb8e47dd079c57'

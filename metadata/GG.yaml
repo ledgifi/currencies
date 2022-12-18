@@ -5,3 +5,5 @@ id_nomics: GG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GG.jpg
 logoKey: currencies/gg.jpg
 name: Good Game
+platform: ETH
+platform_contract: '0xcea8a10df595a20fceca4f6f2c23384eec1e4073'

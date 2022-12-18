@@ -6,3 +6,5 @@ id_nomics: 1DOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/1DOGE.jpg
 logoKey: currencies/1doge.jpg
 name: 1Doge
+platform: BNB
+platform_contract: '0x40619dc9f00ea34e51d96b6ec5d8a6ad75457434'

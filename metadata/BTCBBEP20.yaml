@@ -3,3 +3,5 @@ fiat: false
 id: BTCBBEP20
 id_nomics: BTCBBEP20
 name: BTCB Token (BEP-20)
+platform: BNB
+platform_contract: '0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c'

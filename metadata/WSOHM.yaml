@@ -6,3 +6,5 @@ id_nomics: WSOHM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WSOHM.jpg
 logoKey: currencies/wsohm.jpg
 name: Wrapped sOHM
+platform: ARBETH
+platform_contract: '0x739ca6d71365a08f584c8fc4e1029045fa8abc4b'

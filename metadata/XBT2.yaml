@@ -5,3 +5,5 @@ id_nomics: XBT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XBT2.jpg
 logoKey: currencies/xbt2.jpg
 name: Elastic Bitcoin
+platform: ETH
+platform_contract: '0x64fb96d0395f6bf105f35233911e3df2c5bf4ce8'

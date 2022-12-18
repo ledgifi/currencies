@@ -3,3 +3,5 @@ fiat: false
 id: METACONVOY
 id_nomics: METACONVOY
 name: MetaConvoy
+platform: ETH
+platform_contract: '0xf42a91eba400abaa7250d9743090625cbd6ede0d'

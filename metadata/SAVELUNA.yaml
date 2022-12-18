@@ -3,3 +3,5 @@ fiat: false
 id: SAVELUNA
 id_nomics: SAVELUNA
 name: Save Terra
+platform: ETH
+platform_contract: '0x99750fbcf3e76501eb9fb7a1fc644852acaa01c5'

@@ -5,3 +5,5 @@ id_nomics: DOGI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGI.jpg
 logoKey: currencies/dogi.jpg
 name: DOGI Finance
+platform: ETH
+platform_contract: '0xadfc205e0e3aa54bc4f8e6f9426f5c44e5034f04'

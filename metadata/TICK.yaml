@@ -5,3 +5,5 @@ id_nomics: TICK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TICK.jpg
 logoKey: currencies/tick.jpg
 name: TickTock Moon
+platform: ETH
+platform_contract: '0xafc0d7510a4e6521c2c282424d3e6bbc3f5d4cb8'

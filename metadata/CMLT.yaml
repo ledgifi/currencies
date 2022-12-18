@@ -6,3 +6,5 @@ id_nomics: CMLT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CMLT.jpg
 logoKey: currencies/cmlt.jpg
 name: CamelToken
+platform: BNB
+platform_contract: '0x829ee30a8fac90152105dd77d6ffa01158af9434'

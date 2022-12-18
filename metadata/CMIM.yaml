@@ -3,3 +3,5 @@ fiat: false
 id: CMIM
 id_nomics: CMIM
 name: Changming Token
+platform: HT
+platform_contract: '0x3ddc40c258fbd43171da91bea5628c12c96d09e1'

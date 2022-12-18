@@ -8,3 +8,5 @@ id_nomics: NKN
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/nkn.svg
 logoKey: currencies/nkn.svg
 name: NKN
+platform: ETH
+platform_contract: '0x5cf04716ba20127f1e2297addcf4b5035000c9eb'

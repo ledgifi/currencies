@@ -5,3 +5,5 @@ id_nomics: CARVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CARVE.png
 logoKey: currencies/carve.png
 name: Carve
+platform: ETH
+platform_contract: '0x34d0df862d12cb05e97ebf5b38725284966d0ad6'

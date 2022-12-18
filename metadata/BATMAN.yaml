@@ -6,3 +6,5 @@ id_nomics: BATMAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BATMAN.jpg
 logoKey: currencies/batman.jpg
 name: Batman
+platform: ETH
+platform_contract: '0x8b2ca226f78a8f35e97e944a5468af85c0a6c616'

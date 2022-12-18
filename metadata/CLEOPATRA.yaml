@@ -3,3 +3,5 @@ fiat: false
 id: CLEOPATRA
 id_nomics: CLEOPATRA
 name: The Great Queen
+platform: ETH
+platform_contract: '0x32f7d0f7bcfa3b7a3dc925283684de85ca55fcba'

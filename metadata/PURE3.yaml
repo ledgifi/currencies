@@ -5,3 +5,5 @@ id_nomics: PURE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PURE3.jpg
 logoKey: currencies/pure3.jpg
 name: PureSwap Token
+platform: BNB
+platform_contract: '0x481f0557fb3bb5ee461fd47f287b1ca944ad89bc'

@@ -5,3 +5,5 @@ id_nomics: BTCMTBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCMTBEP20.png
 logoKey: currencies/btcmtbep20.png
 name: BTCMT (BEP-20)
+platform: BNB
+platform_contract: '0x410a56541bD912F9B60943fcB344f1E3D6F09567'

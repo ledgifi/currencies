@@ -5,3 +5,5 @@ id_nomics: TRIBE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRIBE2.png
 logoKey: currencies/tribe2.png
 name: Tribe
+platform: ETH
+platform_contract: '0xc7283b66eb1eb5fb86327f08e1b5816b0720212b'

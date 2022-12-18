@@ -5,3 +5,5 @@ id_nomics: SHIBBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBBEP20.jpg
 logoKey: currencies/shibbep20.jpg
 name: Shiba Inu (BEP-20)
+platform: BNB
+platform_contract: '0x2859e4544c4bb03966803b044a93563bd2d0dd4d'

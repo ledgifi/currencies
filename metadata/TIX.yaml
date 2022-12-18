@@ -6,3 +6,5 @@ id_nomics: TIX
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/tix.svg
 logoKey: currencies/tix.svg
 name: Blocktix
+platform: ETH
+platform_contract: '0xea1f346faf023f974eb5adaf088bbcdf02d761f4'

@@ -5,3 +5,5 @@ id_nomics: TONIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TONIC.png
 logoKey: currencies/tonic.png
 name: Tectonic
+platform: CRO
+platform_contract: '0xdd73dea10abc2bff99c60882ec5b2b81bb1dc5b2'

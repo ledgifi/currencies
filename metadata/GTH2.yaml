@@ -5,3 +5,5 @@ id_nomics: GTH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GTH2.jpg
 logoKey: currencies/gth2.jpg
 name: Gather V2
+platform: ETH
+platform_contract: '0xeb986DA994E4a118d5956b02d8b7c3C7CE373674'

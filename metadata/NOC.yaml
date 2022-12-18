@@ -6,3 +6,5 @@ id_nomics: NOC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NOC.jpg
 logoKey: currencies/noc.jpg
 name: New Origin
+platform: BNB
+platform_contract: '0x0e6457233baa6477f660666624dc29d8e88d9fdf'

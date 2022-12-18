@@ -5,3 +5,5 @@ id_nomics: SAFEBUTT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFEBUTT.png
 logoKey: currencies/safebutt.png
 name: SafeButt
+platform: BNB
+platform_contract: '0x1fb967bfa1c2eb09d9f0b009a5e7690993a8668d'

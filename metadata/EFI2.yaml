@@ -5,3 +5,5 @@ id_nomics: EFI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EFI2.jpg
 logoKey: currencies/efi2.jpg
 name: Efinity
+platform: ETH
+platform_contract: '0x656c00e1bcd96f256f224ad9112ff426ef053733'

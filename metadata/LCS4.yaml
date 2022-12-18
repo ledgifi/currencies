@@ -5,3 +5,5 @@ id_nomics: LCS4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LCS4.jpeg
 logoKey: currencies/lcs4.jpeg
 name: LinkCheems
+platform: BNB
+platform_contract: '0x87c0b5223a7f692cd2fedebce278f389a4d65cf8'

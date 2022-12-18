@@ -5,3 +5,5 @@ id_nomics: INFO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INFO2.jpg
 logoKey: currencies/info2.jpg
 name: Infomatix
+platform: BNB
+platform_contract: '0xdf727040d3997b5d95dee8c661fa96e3c13ee0c9'

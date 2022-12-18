@@ -3,3 +3,5 @@ fiat: false
 id: RUSD2
 id_nomics: RUSD2
 name: Ring USD
+platform: ETH
+platform_contract: '0x1036c90a7dea8a392901147870f74a40af812bb4'

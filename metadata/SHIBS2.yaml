@@ -5,3 +5,5 @@ id_nomics: SHIBS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBS2.png
 logoKey: currencies/shibs2.png
 name: ShibaSafe
+platform: BNB
+platform_contract: '0x609bb77d57ee6b5d3204a38eb7f6d43acac3f382'

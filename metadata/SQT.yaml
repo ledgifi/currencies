@@ -6,3 +6,5 @@ id_nomics: SQT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SQT.jpg
 logoKey: currencies/sqt.jpg
 name: Squidgame Token
+platform: BNB
+platform_contract: '0xd9124604b5dc6eec0e75d5b02f1610c7ba734cc1'

@@ -6,3 +6,5 @@ id_nomics: GLCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GLCH.jpg
 logoKey: currencies/glch.jpg
 name: Glitch Protocol
+platform: ETH
+platform_contract: '0x038a68ff68c393373ec894015816e33ad41bd564'

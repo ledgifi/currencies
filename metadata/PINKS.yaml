@@ -3,3 +3,5 @@ fiat: false
 id: PINKS
 id_nomics: PINKS
 name: PinkSwap Token
+platform: BNB
+platform_contract: '0x702b3f41772e321aaccdea91e1fcef682d21125d'

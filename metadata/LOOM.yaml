@@ -8,3 +8,5 @@ id_nomics: LOOM
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/loom.svg
 logoKey: currencies/loom.svg
 name: Loom Network
+platform: ETH
+platform_contract: '0x42476f744292107e34519f9c357927074ea3f75d'

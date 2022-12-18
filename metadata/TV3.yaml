@@ -3,3 +3,5 @@ fiat: false
 id: TV3
 id_nomics: TV3
 name: Test Token v3
+platform: BNB
+platform_contract: '0x049c4cfb817d7df8f7c59e28f3a07d28b39b7edb'

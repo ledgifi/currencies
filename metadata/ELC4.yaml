@@ -5,3 +5,5 @@ id_nomics: ELC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELC4.png
 logoKey: currencies/elc4.png
 name: Electron
+platform: BNB
+platform_contract: '0xC77b4C6b9075B461e3eDdA2b39aB0CaAF02B0F8B'

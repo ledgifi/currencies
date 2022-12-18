@@ -5,3 +5,5 @@ id_nomics: ANT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANT2.jpg
 logoKey: currencies/ant2.jpg
 name: ANTcoin
+platform: BNB
+platform_contract: '0x43f3918ff115081cfbfb256a5bde1e8d181f2907'

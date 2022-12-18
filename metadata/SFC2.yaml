@@ -3,3 +3,5 @@ fiat: false
 id: SFC2
 id_nomics: SFC2
 name: Silver Fabric Coin
+platform: ETH
+platform_contract: '0x3d3560279b7a4e57af202c285305d8f761ccb60a'

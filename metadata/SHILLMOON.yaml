@@ -6,3 +6,5 @@ id_nomics: SHILLMOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHILLMOON.jpg
 logoKey: currencies/shillmoon.jpg
 name: ShillMoon
+platform: BNB
+platform_contract: '0x26b007d1d0976228d71ee4edc6fe7993616c04bc'

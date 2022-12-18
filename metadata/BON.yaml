@@ -6,3 +6,5 @@ id_nomics: BON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BON.png
 logoKey: currencies/bon.png
 name: Bonpay
+platform: ETH
+platform_contract: '0xcc34366e3842ca1bd36c1f324d15257960fcc801'

@@ -5,3 +5,5 @@ id_nomics: UNICRYPT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNICRYPT.jpg
 logoKey: currencies/unicrypt.jpg
 name: UniCrypt
+platform: ETH
+platform_contract: '0xf29e46887ffae92f1ff87dfe39713875da541373'

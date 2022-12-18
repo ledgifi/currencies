@@ -3,3 +3,5 @@ fiat: false
 id: QUBIT
 id_nomics: QUBIT
 name: Qubits
+platform: ETH
+platform_contract: '0x35f53755ba9bc9160d31ffe86bcaa9b1d187ba71'

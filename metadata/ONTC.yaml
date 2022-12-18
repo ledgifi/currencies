@@ -3,3 +3,5 @@ fiat: false
 id: ONTC
 id_nomics: ONTC
 name: Ontology Cash
+platform: ETH
+platform_contract: '0x7c9facd75421c963685d7b8446fe2dbdb1240ab0'

@@ -5,3 +5,5 @@ id_nomics: AINU3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AINU3.jpg
 logoKey: currencies/ainu3.jpg
 name: Ainu Token
+platform: BNB
+platform_contract: '0x2db0d5cb907014c67dc201886624716fb5c71123'

@@ -5,3 +5,5 @@ id_nomics: UXT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UXT2.png
 logoKey: currencies/uxt2.png
 name: Uxcord
+platform: BNB
+platform_contract: '0xb80cfe66de9809f5528dbd794d25a4e61f5a28d9'

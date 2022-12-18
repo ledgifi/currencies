@@ -3,3 +3,5 @@ fiat: false
 id: ASNDTEST
 id_nomics: ASNDTEST
 name: Ascend_test
+platform: AVAX
+platform_contract: '0x60c60b0ea6570217dd74d322649c5d5283da4842'

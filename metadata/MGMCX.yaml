@@ -5,3 +5,5 @@ id_nomics: MGMCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MGMCX.jpg
 logoKey: currencies/mgmcx.jpg
 name: MGM Resorts International Token
+platform: ETH
+platform_contract: '0xaa1878e5243b86c4ba9073f8419ccb37bfeb5631'

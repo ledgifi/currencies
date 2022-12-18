@@ -3,3 +3,5 @@ fiat: false
 id: APEUSDUMADEC21
 id_nomics: APEUSDUMADEC21
 name: apeUSD-UMA Synthetic USD (Dec 2021)
+platform: ETH
+platform_contract: '0xfa5e27893aee4805283d86e4283da64f8c72dd56'

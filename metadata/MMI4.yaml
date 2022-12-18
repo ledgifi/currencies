@@ -5,3 +5,5 @@ id_nomics: MMI4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MMI4.png
 logoKey: currencies/mmi4.png
 name: Midas Miner
+platform: BNB
+platform_contract: '0xfdcabd329dc59615dca6df02ff942c047468e61c'

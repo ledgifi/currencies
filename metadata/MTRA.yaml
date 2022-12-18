@@ -6,3 +6,5 @@ id_nomics: MTRA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTRA.png
 logoKey: currencies/mtra.png
 name: Metra
+platform: BNB
+platform_contract: '0x1bf3fc16a0181498ec5cc77ff57c0c08906e1564'

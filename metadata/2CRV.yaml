@@ -3,3 +3,5 @@ fiat: false
 id: 2CRV
 id_nomics: 2CRV
 name: Curve.fi USDC/USDT
+platform: ARBETH
+platform_contract: '0x7f90122bf0700f9e7e1f688fe926940e8839f353'

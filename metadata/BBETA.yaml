@@ -5,3 +5,5 @@ id_nomics: BBETA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBETA.jpg
 logoKey: currencies/bbeta.jpg
 name: bBeta
+platform: ETH
+platform_contract: '0x00e2dde5a0e824740ed4bd2a27d6a6b0d92d8c99'

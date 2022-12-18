@@ -6,3 +6,5 @@ id_nomics: HIPHOP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HIPHOP.jpg
 logoKey: currencies/hiphop.jpg
 name: 4Hiphop
+platform: ETH
+platform_contract: '0x3c1f3bdffd3ff6ba385b4700eface997adcaf8db'

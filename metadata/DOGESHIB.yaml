@@ -5,3 +5,5 @@ id_nomics: DOGESHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGESHIB.png
 logoKey: currencies/dogeshib.png
 name: Meta Doge Shib
+platform: BNB
+platform_contract: '0xdb1d151c986ca957adf473d6de6431888b71957c'

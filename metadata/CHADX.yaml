@@ -3,3 +3,5 @@ fiat: false
 id: CHADX
 id_nomics: CHADX
 name: CHADCOIN
+platform: ETH
+platform_contract: '0xa706787f5b3be5ce8b5c67120d104a7ddc0ced78'

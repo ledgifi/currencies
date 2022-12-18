@@ -3,3 +3,5 @@ fiat: false
 id: COLLECTION
 id_nomics: COLLECTION
 name: Collection Plate
+platform: ETH
+platform_contract: '0x5aeeb8cca5916ea4bda3d46ba89d1ea19aa035cb'

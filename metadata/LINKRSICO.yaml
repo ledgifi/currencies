@@ -5,3 +5,5 @@ id_nomics: LINKRSICO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LINKRSICO.png
 logoKey: currencies/linkrsico.png
 name: LINK RSI Crossover Set
+platform: ETH
+platform_contract: '0x0329d23fc7b1b1e6cca57afa3f0090f1189069e8'

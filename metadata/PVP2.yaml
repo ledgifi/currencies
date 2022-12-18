@@ -5,3 +5,5 @@ id_nomics: PVP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PVP2.jpg
 logoKey: currencies/pvp2.jpg
 name: Token PVP
+platform: BNB
+platform_contract: '0x559752951e103402c8c4fe9af874f68ce0845bf0'

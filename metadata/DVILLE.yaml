@@ -6,3 +6,5 @@ id_nomics: DVILLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DVILLE.jpg
 logoKey: currencies/dville.jpg
 name: DogeVille
+platform: BNB
+platform_contract: '0xd3b6bfd18b34ae0e3165738bf66ebc64cad1b944'

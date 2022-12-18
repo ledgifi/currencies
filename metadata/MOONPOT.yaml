@@ -3,3 +3,5 @@ fiat: false
 id: MOONPOT
 id_nomics: MOONPOT
 name: MoonPot
+platform: BNB
+platform_contract: '0x33f9eb3aea1939b74ad4022643d0e4a277c8def8'

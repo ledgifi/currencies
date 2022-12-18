@@ -5,3 +5,5 @@ id_nomics: BAT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAT2.png
 logoKey: currencies/bat2.png
 name: Bat Finance
+platform: BNB
+platform_contract: '0xe76804b43f17fc41f226d63fd2a676df409d4678'

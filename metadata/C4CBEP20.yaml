@@ -5,3 +5,5 @@ id_nomics: C4CBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/C4CBEP20.png
 logoKey: currencies/c4cbep20.png
 name: Crypto 4 A Cause Fund (BEP-20)
+platform: BNB
+platform_contract: '0x86028c1c730943ab56ebb7d6f39e20ad22121004'

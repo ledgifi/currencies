@@ -5,3 +5,5 @@ id_nomics: VFT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VFT2.jpg
 logoKey: currencies/vft2.jpg
 name: Vitalik Fan Token
+platform: BNB
+platform_contract: '0xd0a24Bac39B47441D222023ce55FDD3517590b06'

@@ -5,3 +5,5 @@ id_nomics: MSV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSV.jpg
 logoKey: currencies/msv.jpg
 name: MSV Chain
+platform: ETH
+platform_contract: '0x1a04cfe90fb72ed884977dbb8f77b59d95fedbb3'

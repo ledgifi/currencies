@@ -5,3 +5,5 @@ id_nomics: LBC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LBC5.jpg
 logoKey: currencies/lbc5.jpg
 name: LockyBoxCoin
+platform: BNB
+platform_contract: '0xaadac316bf05330077ad215528dde18ee8276dcd'

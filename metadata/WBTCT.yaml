@@ -5,3 +5,5 @@ id_nomics: WBTCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WBTCT.jpg
 logoKey: currencies/wbtct.jpg
 name: Wrapped BitcoinToken
+platform: BNB
+platform_contract: '0xd47ba9a00eb87b9e753c6651e402dad7d9f1c4ca'

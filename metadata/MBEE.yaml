@@ -3,3 +3,5 @@ fiat: false
 id: MBEE
 id_nomics: MBEE
 name: Meta Bee
+platform: ETH
+platform_contract: '0x3e2cbdc26ea82468ff25fb6eba838d3d1b5dd7fd'

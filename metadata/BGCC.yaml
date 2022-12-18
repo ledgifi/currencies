@@ -5,3 +5,5 @@ id_nomics: BGCC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BGCC.png
 logoKey: currencies/bgcc.png
 name: BlockgameChain
+platform: ETH
+platform_contract: '0x6c217dd1f9ff509ca957a15cbba3f7d473958791'

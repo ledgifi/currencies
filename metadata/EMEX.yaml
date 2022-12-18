@@ -3,3 +3,5 @@ fiat: false
 id: EMEX
 id_nomics: EMEX
 name: EthereumMex
+platform: ETH
+platform_contract: '0x3bd3284b2dd68d7f0502568d2c8c2df649d42a31'

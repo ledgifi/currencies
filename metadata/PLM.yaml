@@ -6,3 +6,5 @@ id_nomics: PLM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLM.png
 logoKey: currencies/plm.png
 name: Palmes
+platform: ETH
+platform_contract: '0x80d211718f9b9ba31959a14328acd8d8c9d5382f'

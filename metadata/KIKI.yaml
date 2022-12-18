@@ -6,3 +6,5 @@ id_nomics: KIKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KIKI.jpg
 logoKey: currencies/kiki.jpg
 name: Kiki
+platform: ETH
+platform_contract: '0x369b77bbeeee50e6ea206dcf41ee670c47360055'

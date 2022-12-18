@@ -6,3 +6,5 @@ id_nomics: SHL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHL.png
 logoKey: currencies/shl.png
 name: Oyster Shell
+platform: ETH
+platform_contract: '0x8542325b72c6d9fc0ad2ca965a78435413a915a0'

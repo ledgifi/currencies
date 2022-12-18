@@ -6,3 +6,5 @@ id_nomics: MEL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEL.jpg
 logoKey: currencies/mel.jpg
 name: Melalie
+platform: ETH
+platform_contract: '0xed0889f7e1c7c7267407222be277e1f1ef4d4892'

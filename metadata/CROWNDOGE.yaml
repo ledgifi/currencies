@@ -3,3 +3,5 @@ fiat: false
 id: CROWNDOGE
 id_nomics: CROWNDOGE
 name: CrownDoge Coin
+platform: HT
+platform_contract: '0x93023ed33c938a9b72641dec56804dbb5e4ef50e'

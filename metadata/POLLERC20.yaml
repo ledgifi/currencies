@@ -5,3 +5,5 @@ id_nomics: POLLERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POLLERC20.png
 logoKey: currencies/pollerc20.png
 name: Pollchain (ERC-20)
+platform: ETH
+platform_contract: '0x4b0f027d0b694aae2761ed2d426295d4f949f5d0'

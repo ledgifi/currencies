@@ -5,3 +5,5 @@ id_nomics: APACHE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APACHE.jpg
 logoKey: currencies/apache.jpg
 name: Apache
+platform: BNB
+platform_contract: '0x5448d402466413ac558eb29a670e1d0fadf54bd8'

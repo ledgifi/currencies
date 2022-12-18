@@ -6,3 +6,5 @@ id_nomics: ERW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ERW.jpg
 logoKey: currencies/erw.jpg
 name: ZeLoop Eco Reward
+platform: BNB
+platform_contract: '0x77e5cce02139814e7eff377244cac8b802cddab8'

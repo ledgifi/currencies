@@ -3,3 +3,5 @@ fiat: false
 id: PCELO
 id_nomics: PCELO
 name: Poof CELO
+platform: CELO
+platform_contract: '0x301a61d01a63c8d670c2b8a43f37d12ef181f997'

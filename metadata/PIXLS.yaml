@@ -6,3 +6,5 @@ id_nomics: PIXLS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIXLS.jpg
 logoKey: currencies/pixls.jpg
 name: PIXLS Vault (NFTX)
+platform: ETH
+platform_contract: '0xf8eb56c7e4e3c885c905a19583bf41644d35aa0a'

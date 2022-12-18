@@ -5,3 +5,5 @@ id_nomics: RSPT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RSPT.jpg
 logoKey: currencies/rspt.jpg
 name: Rari Stable Pool Token
+platform: ETH
+platform_contract: '0x016bf078abcacb987f0589a6d3beadd4316922b0'

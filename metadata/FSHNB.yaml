@@ -5,3 +5,5 @@ id_nomics: FSHNB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FSHNB.jpg
 logoKey: currencies/fshnb.jpg
 name: FashionCoin Binance
+platform: BNB
+platform_contract: '0x17fdf2789d65347e81e2e93739f77441db488a96'

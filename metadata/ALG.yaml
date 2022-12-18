@@ -6,3 +6,5 @@ id_nomics: ALG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALG.jpg
 logoKey: currencies/alg.jpg
 name: Algory
+platform: ETH
+platform_contract: '0x16b0a1a87ae8af5c792fabc429c4fe248834842b'

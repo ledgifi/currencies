@@ -5,3 +5,5 @@ id_nomics: SYT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SYT.jpg
 logoKey: currencies/syt.jpg
 name: Syndicate Token
+platform: ETH
+platform_contract: '0x1f6324f07e452c4c63c14844f0aa9d235167fe72'

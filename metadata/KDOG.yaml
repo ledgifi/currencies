@@ -3,3 +3,5 @@ fiat: false
 id: KDOG
 id_nomics: KDOG
 name: KryptoDog
+platform: ETH
+platform_contract: '0xb75c6c1263e81c711074fde00774342bd7144441'

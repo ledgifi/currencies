@@ -5,3 +5,5 @@ id_nomics: WST3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WST3.jpg
 logoKey: currencies/wst3.jpg
 name: Wisteria Swap
+platform: BNB
+platform_contract: '0xaadff17d56d80312b392ced903f3e8dbe5c3ece7'

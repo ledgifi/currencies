@@ -6,3 +6,5 @@ id_nomics: BABYADA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYADA.jpg
 logoKey: currencies/babyada.jpg
 name: Baby ADA
+platform: BNB
+platform_contract: '0xa3902e6f17021121390603be54c1719dce19aeb5'

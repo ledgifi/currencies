@@ -5,3 +5,5 @@ id_nomics: PULSEFLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PULSEFLOKI.png
 logoKey: currencies/pulsefloki.png
 name: PulseFloki
+platform: BNB
+platform_contract: '0x2e6d707ab0a4a04ea1522d114a3986823b03e18e'

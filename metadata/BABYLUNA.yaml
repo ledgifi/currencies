@@ -3,3 +3,5 @@ fiat: false
 id: BABYLUNA
 id_nomics: BABYLUNA
 name: BABY LUNA
+platform: ETH
+platform_contract: '0x9a9514c53ba831b68622f62bebcfe3525663cddb'

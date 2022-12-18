@@ -3,3 +3,5 @@ fiat: false
 id: DFTB
 id_nomics: DFTB
 name: DFTB
+platform: BNB
+platform_contract: '0x33853868c7722c31d76462a79db5a87378a7e2b8'

@@ -5,3 +5,5 @@ id_nomics: SETC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SETC2.png
 logoKey: currencies/setc2.png
 name: SNAFU
+platform: BNB
+platform_contract: '0xf30e2cff732a93ceb45f9f9172fd970da88632c6'

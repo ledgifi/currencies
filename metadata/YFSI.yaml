@@ -5,3 +5,5 @@ id_nomics: YFSI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFSI.jpg
 logoKey: currencies/yfsi.jpg
 name: Yfscience
+platform: ETH
+platform_contract: '0x1df6f1bb7454e5e4ba3bca882d3148fbf9b5697a'

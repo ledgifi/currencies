@@ -3,3 +3,5 @@ fiat: false
 id: BURNING
 id_nomics: BURNING
 name: Burning Token
+platform: ETH
+platform_contract: '0x8c520cd6f691c1ff5a111c45969ddb23c97098fd'

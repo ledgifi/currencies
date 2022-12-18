@@ -4,3 +4,5 @@ id: GMNEO
 id_nomics: GMNEO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMNEO.png
 name: GhostMarket (Neo)
+platform: NEO
+platform_contract: '0xcc638d55d99fc81295daccbaf722b84f179fb9c4'

@@ -6,3 +6,5 @@ id_nomics: REDKISHU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REDKISHU.jpg
 logoKey: currencies/redkishu.jpg
 name: Red Kishu
+platform: BNB
+platform_contract: '0xe7301e73543c3149f1dae09f6a7b0f737301a64e'

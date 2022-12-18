@@ -3,3 +3,5 @@ fiat: false
 id: HVND
 id_nomics: HVND
 name: BLVKHVND
+platform: ETH
+platform_contract: '0x83221650e771f54773b32b602cedb705c500a2cc'

@@ -5,3 +5,5 @@ id_nomics: TRADE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRADE2.jpg
 logoKey: currencies/trade2.jpg
 name: UniTrade
+platform: ETH
+platform_contract: '0x6f87d756daf0503d08eb8993686c7fc01dc44fb1'

@@ -5,3 +5,5 @@ id_nomics: IMCGENE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IMCGENE.PNG
 logoKey: currencies/imcgene.png
 name: IMC GENE
+platform: ETH
+platform_contract: '0x78b819f1b13d412b1c7094fa52b8b425704157e9'

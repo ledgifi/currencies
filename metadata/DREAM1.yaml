@@ -5,3 +5,5 @@ id_nomics: DREAM1
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DREAM1.jpeg
 logoKey: currencies/dream1.jpeg
 name: Dream1 Token
+platform: BNB
+platform_contract: '0x23c8ba24f040b264defd57fc2dcfddf8a005bb2b'

@@ -6,3 +6,5 @@ id_nomics: BUT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/but.png
 logoKey: currencies/but.png
 name: BitUP Token
+platform: ETH
+platform_contract: '0xb2e260f12406c401874ecc960893c0f74cd6afcd'

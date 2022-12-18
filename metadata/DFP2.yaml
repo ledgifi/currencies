@@ -6,3 +6,5 @@ id_nomics: DFP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DFP2.png
 logoKey: currencies/dfp2.png
 name: DefiPlaza
+platform: ETH
+platform_contract: '0x2f57430a6ceda85a67121757785877b4a71b8e6d'

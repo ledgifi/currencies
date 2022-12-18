@@ -5,3 +5,5 @@ id_nomics: MIDAS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIDAS2.png
 logoKey: currencies/midas2.png
 name: Midas
+platform: FTM
+platform_contract: '0xb37528da6b4d378305d000a66ad91bd88e626761'

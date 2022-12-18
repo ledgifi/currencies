@@ -5,3 +5,5 @@ id_nomics: ASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASH.jpg
 logoKey: currencies/ash.jpg
 name: Burn
+platform: ETH
+platform_contract: '0x64d91f12ece7362f91a6f8e7940cd55f05060b92'

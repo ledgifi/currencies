@@ -3,3 +3,5 @@ fiat: false
 id: CHARGEV2
 id_nomics: CHARGEV2
 name: ChargeV2
+platform: ETH
+platform_contract: '0xcc91875714f044a1033b9d3215719bb8ff3f26c8'

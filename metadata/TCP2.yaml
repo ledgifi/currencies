@@ -5,3 +5,5 @@ id_nomics: TCP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCP2.jpg
 logoKey: currencies/tcp2.jpg
 name: Token CashPay
+platform: ETH
+platform_contract: '0x331a4589516eae384ea5f557853af6af73b9534e'

@@ -3,3 +3,5 @@ fiat: false
 id: BBAUSDT
 id_nomics: BBAUSDT
 name: Balancer Boosted Aave USDT
+platform: ETH
+platform_contract: '0x2bbf681cc4eb09218bee85ea2a5d3d13fa40fc0c'

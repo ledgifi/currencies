@@ -5,3 +5,5 @@ id_nomics: BBLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBLD.jpg
 logoKey: currencies/bbld.jpg
 name: BabyBlades
+platform: BNB
+platform_contract: '0x598afbfe6b7248ff69fedb113ea79057ceea67e7'

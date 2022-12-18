@@ -6,3 +6,5 @@ id_nomics: BRUNO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRUNO.png
 logoKey: currencies/bruno.png
 name: Bruno Inu
+platform: ETH
+platform_contract: '0xc9bca77c9fed40710727948f6a934208918d316a'

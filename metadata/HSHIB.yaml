@@ -5,3 +5,5 @@ id_nomics: HSHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HSHIB.jpeg
 logoKey: currencies/hshib.jpeg
 name: Hunter Shiba
+platform: BNB
+platform_contract: '0x6D6aC8f3E57fa4462ABE96d5A221d9012fFa845b'

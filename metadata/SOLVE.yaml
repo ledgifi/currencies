@@ -6,3 +6,5 @@ id_nomics: SOLVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOLVE.png
 logoKey: currencies/solve.png
 name: SOLVE
+platform: ETH
+platform_contract: '0x446c9033e7516d820cc9a2ce2d0b7328b579406f'

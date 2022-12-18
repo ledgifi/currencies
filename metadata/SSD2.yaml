@@ -5,3 +5,5 @@ id_nomics: SSD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SSD2.jpeg
 logoKey: currencies/ssd2.jpeg
 name: Save Squid DAO
+platform: BNB
+platform_contract: '0x2def038e6eac3f51ef2e259af63a8116490d1ccc'

@@ -3,3 +3,5 @@ fiat: false
 id: WANUNI
 id_nomics: WANUNI
 name: wanUNI
+platform: WAN
+platform_contract: '0x73eaa7431b11b1e7a7d5310de470de09883529df'

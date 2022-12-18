@@ -3,3 +3,5 @@ fiat: false
 id: BTCB4
 id_nomics: BTCB4
 name: Bitcoin Avalanche Bridged (BTC.b)
+platform: AVAX
+platform_contract: '0x152b9d0fdc40c096757f570a51e494bd4b943e50'

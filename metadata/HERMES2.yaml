@@ -5,3 +5,5 @@ id_nomics: HERMES2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HERMES2.jpg
 logoKey: currencies/hermes2.jpg
 name: HERMES
+platform: AVAX
+platform_contract: '0xb15f02f9da8cd1f99e9dd375f21dc96d25ddd82c'

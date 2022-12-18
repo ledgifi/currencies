@@ -6,3 +6,5 @@ id_nomics: YFBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFBTC.png
 logoKey: currencies/yfbtc.png
 name: YFBitcoin
+platform: ETH
+platform_contract: '0xff034d12353867fc4228f4ae3e689cd6dcaad120'

@@ -5,3 +5,5 @@ id_nomics: DOWN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOWN3.png
 logoKey: currencies/down3.png
 name: DOWN Vault
+platform: MATIC
+platform_contract: '0xa934bcbf24a7272781197b6559230c30bf0bb2e6'

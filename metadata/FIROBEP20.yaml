@@ -5,3 +5,5 @@ id_nomics: FIROBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIROBEP20.jpg
 logoKey: currencies/firobep20.jpg
 name: Binance-Peg Firo
+platform: BNB
+platform_contract: '0xd5d0322b6bab6a762c79f8c81a0b674778e13aed'

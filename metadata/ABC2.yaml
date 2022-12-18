@@ -5,3 +5,5 @@ id_nomics: ABC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ABC2.jpg
 logoKey: currencies/abc2.jpg
 name: Abell Coin
+platform: BNB
+platform_contract: '0xa0b0bd446f76f66e4791631431f4034d08f4a00c'

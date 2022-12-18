@@ -3,3 +3,5 @@ fiat: false
 id: CALIPSO
 id_nomics: CALIPSO
 name: Calipso
+platform: BNB
+platform_contract: '0xc69880f08831b5c6ace8c40cccd237e26a188903'

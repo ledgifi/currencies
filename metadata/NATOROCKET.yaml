@@ -3,3 +3,5 @@ fiat: false
 id: NATOROCKET
 id_nomics: NATOROCKET
 name: Natorocket
+platform: ETH
+platform_contract: '0x32f38aa32fc2d14b6f8b6d21626ccbf75566a35f'

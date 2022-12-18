@@ -5,3 +5,5 @@ id_nomics: AC6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AC6.jpg
 logoKey: currencies/ac6.jpg
 name: American Coin
+platform: BNB
+platform_contract: '0xc577b6599234b5B29E602aeB5BC6EeAb333829A3'

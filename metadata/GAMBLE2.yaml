@@ -5,3 +5,5 @@ id_nomics: GAMBLE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAMBLE2.png
 logoKey: currencies/gamble2.png
 name: MetaGambling
+platform: BNB
+platform_contract: '0x86c07f91cb2058b58da0e4e27c7268ce9f38883e'

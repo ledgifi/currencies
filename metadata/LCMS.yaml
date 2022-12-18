@@ -5,3 +5,5 @@ id_nomics: LCMS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LCMS.jpg
 logoKey: currencies/lcms.jpg
 name: LCMS Coin
+platform: ETH
+platform_contract: '0x86911b82bfa596e9377836838ac1f0d9ad4ecc19'

@@ -3,3 +3,5 @@ fiat: false
 id: SIMS
 id_nomics: SIMS
 name: MetaSims Token
+platform: BNB
+platform_contract: '0x02188d7af2cdee8aa70155a7e4a6ecc265bf12a7'

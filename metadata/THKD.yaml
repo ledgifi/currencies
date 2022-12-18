@@ -6,3 +6,5 @@ id_nomics: THKD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THKD.jpg
 logoKey: currencies/thkd.jpg
 name: TrueHKD
+platform: ETH
+platform_contract: '0x0000852600ceb001e08e00bc008be620d60031f2'

@@ -3,3 +3,5 @@ fiat: false
 id: IDLEUSDTSAFE
 id_nomics: IDLEUSDTSAFE
 name: IdleUSDT (Risk Adjusted)
+platform: ETH
+platform_contract: '0x42740698959761baf1b06baa51efbd88cb1d862b'

@@ -6,3 +6,5 @@ id_nomics: TLB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TLB.jpg
 logoKey: currencies/tlb.jpg
 name: The Luxury Coin
+platform: ETH
+platform_contract: '0x8ab0565dfe65bf9be754d7b0dadbb42c4ecaec01'

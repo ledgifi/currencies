@@ -3,3 +3,5 @@ fiat: false
 id: ORBR
 id_nomics: ORBR
 name: Orbler
+platform: ETH
+platform_contract: '0xda30f261a962d5aae94c9ecd170544600d193766'

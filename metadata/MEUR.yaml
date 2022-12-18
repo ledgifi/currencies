@@ -6,3 +6,5 @@ id_nomics: MEUR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEUR.jpeg
 logoKey: currencies/meur.jpeg
 name: Meta Uranus
+platform: BNB
+platform_contract: '0xc36b9c6a6b55f1d0cd4689830a98205291c548f5'

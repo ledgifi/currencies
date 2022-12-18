@@ -5,3 +5,5 @@ id_nomics: CZXP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CZXP.jpg
 logoKey: currencies/czxp.jpg
 name: Cryptoz eXPerience
+platform: BNB
+platform_contract: '0x2b974da27c9dd35412d71dd36e3e108486c45444'

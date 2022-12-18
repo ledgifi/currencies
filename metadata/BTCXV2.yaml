@@ -5,3 +5,5 @@ id_nomics: BTCXV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCXV2.jpg
 logoKey: currencies/btcxv2.jpg
 name: bitcoinXv2.0
+platform: BNB
+platform_contract: '0x3c75a237677d495aa2651b594b0629a553377e10'

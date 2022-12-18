@@ -5,3 +5,5 @@ id_nomics: BBK3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBK3.jpeg
 logoKey: currencies/bbk3.jpeg
 name: Baby Kishu
+platform: BNB
+platform_contract: '0x0f54dde8ba870b2415340370b0673b009c422239'

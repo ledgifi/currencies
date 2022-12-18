@@ -3,3 +3,5 @@ fiat: false
 id: MAGGOT
 id_nomics: MAGGOT
 name: MaggotToken
+platform: ETH
+platform_contract: '0x163c754ef4d9c03fc7fa9cf6dd43bfc760e6ce89'

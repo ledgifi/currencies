@@ -8,3 +8,5 @@ id_nomics: DGD
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/dgd.svg
 logoKey: currencies/dgd.svg
 name: DigixDAO
+platform: ETH
+platform_contract: '0xe0b7927c4af23765cb51314a0e0521a9645f0e2a'

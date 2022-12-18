@@ -5,3 +5,5 @@ id_nomics: STEEL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STEEL2.jpg
 logoKey: currencies/steel2.jpg
 name: IRON Share V2
+platform: BNB
+platform_contract: '0x9001ee054f1692fef3a48330cb543b6fec6287eb'

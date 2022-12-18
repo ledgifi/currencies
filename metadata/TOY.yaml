@@ -5,3 +5,5 @@ id_nomics: TOY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOY.jpeg
 logoKey: currencies/toy.jpeg
 name: ToyCoin
+platform: BNB
+platform_contract: '0xF6452d8ce3Af612a6B5eb946D7ffb0609D804793'

@@ -5,3 +5,5 @@ id_nomics: PIANO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIANO.jpg
 logoKey: currencies/piano.jpg
 name: Piano Token
+platform: BNB
+platform_contract: '0xd46936677b2c1bb696f2b67c55239331e2b7cd42'

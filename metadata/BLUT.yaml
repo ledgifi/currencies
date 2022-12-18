@@ -5,3 +5,5 @@ id_nomics: BLUT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLUT.jpg
 logoKey: currencies/blut.jpg
 name: Bluetherium
+platform: BNB
+platform_contract: '0xef4ec6011c6fed75abccc51af378a26894865f87'

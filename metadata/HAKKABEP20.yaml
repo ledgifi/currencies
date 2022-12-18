@@ -5,3 +5,5 @@ id_nomics: HAKKABEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HAKKABEP20.png
 logoKey: currencies/hakkabep20.png
 name: Hakka Finance (BEP-20)
+platform: BNB
+platform_contract: '0x1d1eb8e8293222e1a29d2c0e4ce6c0acfd89aaac'

@@ -5,3 +5,5 @@ id_nomics: BTCBRKCC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCBRKCC.jpeg
 logoKey: currencies/btcbrkcc.jpeg
 name: Bitcoin BR (KCC)
+platform: KCS
+platform_contract: '0xe57425f1598f9b0d6219706b77f4b3da573a3695'

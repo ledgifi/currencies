@@ -5,3 +5,5 @@ id_nomics: PFECX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PFECX.jpg
 logoKey: currencies/pfecx.jpg
 name: Pfizer Inc. Token
+platform: ETH
+platform_contract: '0xf2eb99dec2feef17f7158b67dcb959fa08a41852'

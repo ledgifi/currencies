@@ -5,3 +5,5 @@ id_nomics: UMAMI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UMAMI2.png
 logoKey: currencies/umami2.png
 name: Umami Swap
+platform: BNB
+platform_contract: '0x58e720cce069c9c74e9a7b56a21aeffd45f63ec3'

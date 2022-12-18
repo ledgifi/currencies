@@ -3,3 +3,5 @@ fiat: false
 id: GREASE
 id_nomics: GREASE
 name: $GREASE
+platform: AVAX
+platform_contract: '0x96d58f4646e988c236a4d2bf57a0468e16e2ddfc'

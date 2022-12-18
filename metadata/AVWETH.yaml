@@ -3,3 +3,5 @@ fiat: false
 id: AVWETH
 id_nomics: AVWETH
 name: avWETH
+platform: AVAX
+platform_contract: '0x53f7c5869a859f0aec3d334ee8b4cf01e3492f21'

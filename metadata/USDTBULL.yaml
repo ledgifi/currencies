@@ -3,3 +3,5 @@ fiat: false
 id: USDTBULL
 id_nomics: USDTBULL
 name: 3X Long Tether Token
+platform: ETH
+platform_contract: '0x8cce19943a01e78b7c277794fb081816f6151bab'

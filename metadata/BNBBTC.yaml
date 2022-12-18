@@ -3,3 +3,5 @@ fiat: false
 id: BNBBTC
 id_nomics: BNBBTC
 name: BNBBTC
+platform: BNB
+platform_contract: '0xad39ffb2626efa147a5f25427e2948d1efa0878a'

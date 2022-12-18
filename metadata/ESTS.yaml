@@ -5,3 +5,5 @@ id_nomics: ESTS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ESTS.png
 logoKey: currencies/ests.png
 name: Ests
+platform: ETH
+platform_contract: '0x054ad3cd4a66f14bf5c0de2548a53be66995a4f6'

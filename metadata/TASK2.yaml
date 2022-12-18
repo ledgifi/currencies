@@ -3,3 +3,5 @@ fiat: false
 id: TASK2
 id_nomics: TASK2
 name: Telos Task
+platform: EOS
+platform_contract: telostaskapp

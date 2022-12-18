@@ -5,3 +5,5 @@ id_nomics: FES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FES.png
 logoKey: currencies/fes.png
 name: FES chain
+platform: ETH
+platform_contract: '0x8cbad22e65e7aa6f450a465c0588befd661b6bcb'

@@ -5,3 +5,5 @@ id_nomics: SHINY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHINY2.jpg
 logoKey: currencies/shiny2.jpg
 name: Shiny
+platform: ETH
+platform_contract: '0xc150bac3cd3678acb2c093e433bed40a6ef08542'

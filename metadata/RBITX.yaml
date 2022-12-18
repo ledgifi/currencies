@@ -5,3 +5,5 @@ id_nomics: RBITX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RBITX.png
 logoKey: currencies/rbitx.png
 name: rBitex
+platform: ETH
+platform_contract: '0xfb3a7bfc0d54e9347e321242d1723809415f8fe4'

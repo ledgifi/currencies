@@ -5,3 +5,5 @@ id_nomics: FLOKI4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKI.jpg
 logoKey: currencies/floki4.jpg
 name: Floki Inu
+platform: ETH
+platform_contract: '0xb1f4b66104353ec63d8d59d3da42c0b4fb06e7f3'

@@ -5,3 +5,5 @@ id_nomics: CORGI3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CORGI3.jpg
 logoKey: currencies/corgi3.jpg
 name: Corgi Inu
+platform: ETH
+platform_contract: '0xe50006781f435ae43096288334afd9ae5ba50065'

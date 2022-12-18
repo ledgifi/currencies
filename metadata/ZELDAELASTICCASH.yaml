@@ -5,3 +5,5 @@ id_nomics: ZELDAELASTICCASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZELDAELASTICCASH.jpg
 logoKey: currencies/zeldaelasticcash.jpg
 name: Zelda Elastic Cash
+platform: ETH
+platform_contract: '0xcf55a7f92d5e0c6683debbc1fc20c0a6e056df13'

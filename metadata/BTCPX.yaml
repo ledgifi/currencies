@@ -5,3 +5,5 @@ id_nomics: BTCPX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCPX.jpg
 logoKey: currencies/btcpx.jpg
 name: BTC Proxy
+platform: ETH
+platform_contract: '0x9c32185b81766a051e08de671207b34466dd1021'

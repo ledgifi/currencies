@@ -5,3 +5,5 @@ id_nomics: LMR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LMR.jpeg
 logoKey: currencies/lmr.jpeg
 name: Lumerin
+platform: ETH
+platform_contract: '0x4b1d0b9f081468d780ca1d5d79132b64301085d1'

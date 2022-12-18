@@ -5,3 +5,5 @@ id_nomics: MARS7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MARS7.jpg
 logoKey: currencies/mars7.jpg
 name: ProjectMars
+platform: FTM
+platform_contract: '0xbe41772587872a92184873d55b09c6bb6f59f895'

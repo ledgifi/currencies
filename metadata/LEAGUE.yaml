@@ -3,3 +3,5 @@ fiat: false
 id: LEAGUE
 id_nomics: LEAGUE
 name: League Clash
+platform: ETH
+platform_contract: '0x68e28f121fee5962fa52f36ff15372eb84f2e9c5'

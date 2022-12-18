@@ -5,3 +5,5 @@ id_nomics: METAMORSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAMORSE.jpg
 logoKey: currencies/metamorse.jpg
 name: MetaMorse
+platform: BNB
+platform_contract: '0xfe44942a186636d8566de535637f30f3c3c5dad2'

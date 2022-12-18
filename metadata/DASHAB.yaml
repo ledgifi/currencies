@@ -3,3 +3,5 @@ fiat: false
 id: DASHAB
 id_nomics: DASHAB
 name: dashab
+platform: BNB
+platform_contract: '0x194c1270e406dbb92d7998cdb74fcbe39b3bf286'

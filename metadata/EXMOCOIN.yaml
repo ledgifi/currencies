@@ -5,3 +5,5 @@ id_nomics: EXMOCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EXMOCOIN.jpg
 logoKey: currencies/exmocoin.jpg
 name: EXMO Coin
+platform: ETH
+platform_contract: '0x83869de76b9ad8125e22b857f519f001588c0f62'

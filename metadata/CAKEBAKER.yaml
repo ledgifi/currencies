@@ -6,3 +6,5 @@ id_nomics: CAKEBAKER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAKEBAKER.jpg
 logoKey: currencies/cakebaker.jpg
 name: CakeBaker
+platform: BNB
+platform_contract: '0x3fd8dcf7ce608ddd11c56e920c70edaffdd915e9'

@@ -6,3 +6,5 @@ id_nomics: VSN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VSN.jpg
 logoKey: currencies/vsn.jpg
 name: Vision
+platform: TRX
+platform_contract: '1003159'

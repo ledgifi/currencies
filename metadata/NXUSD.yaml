@@ -3,3 +3,5 @@ fiat: false
 id: NXUSD
 id_nomics: NXUSD
 name: NXUSD
+platform: AVAX
+platform_contract: '0xf14f4ce569cb3679e99d5059909e23b07bd2f387'

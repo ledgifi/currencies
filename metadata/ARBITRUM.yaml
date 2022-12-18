@@ -3,3 +3,5 @@ fiat: false
 id: ARBITRUM
 id_nomics: ARBITRUM
 name: Arbitrum
+platform: ETH
+platform_contract: '0x3e19f8808d651ebf3a67025f05123b44c6beb239'

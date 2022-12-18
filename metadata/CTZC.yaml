@@ -3,3 +3,5 @@ fiat: false
 id: CTZC
 id_nomics: CTZC
 name: Citizen Cash
+platform: ETH
+platform_contract: '0x28008c0c8a2765238194e4420e6c354c75da7e0b'

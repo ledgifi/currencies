@@ -5,3 +5,5 @@ id_nomics: RBT5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RBT5.jpg
 logoKey: currencies/rbt5.jpg
 name: Rare Bourbon Token
+platform: BNB
+platform_contract: '0x7595bb34bf391c3de0a6878a36d06223b2bfd404'

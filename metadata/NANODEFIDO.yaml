@@ -5,3 +5,5 @@ id_nomics: NANODEFIDO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NANODEFIDO.jpg
 logoKey: currencies/nanodefido.jpg
 name: Nano DeFido
+platform: BNB
+platform_contract: '0x8f68bb1b27002d07aefbb9b927b9a394747b6d2a'

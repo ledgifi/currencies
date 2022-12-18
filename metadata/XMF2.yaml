@@ -5,3 +5,5 @@ id_nomics: XMF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XMF2.png
 logoKey: currencies/xmf2.png
 name: Xmonkey
+platform: BNB
+platform_contract: '0x86dC131C921e8fAB82cC712e19A29323732c9a41'

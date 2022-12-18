@@ -5,3 +5,5 @@ id_nomics: ABBVCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ABBVCX.jpg
 logoKey: currencies/abbvcx.jpg
 name: AbbVie Inc. Token
+platform: ETH
+platform_contract: '0xf573303b74968cbf2045eb8c8f945b48954d711e'

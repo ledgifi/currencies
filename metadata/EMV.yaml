@@ -6,3 +6,5 @@ id_nomics: EMV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/emv.jpg
 logoKey: currencies/emv.jpg
 name: Ethereum Movie Venture
+platform: ETH
+platform_contract: '0xb802b24e0637c2b87d2e8b7784c055bbe921011a'

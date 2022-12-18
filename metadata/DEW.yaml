@@ -6,3 +6,5 @@ id_nomics: DEW
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/dew.svg
 logoKey: currencies/dew.svg
 name: DEW
+platform: ETH
+platform_contract: '0x20e94867794dba030ee287f1406e100d03c84cd3'

@@ -3,3 +3,5 @@ fiat: false
 id: REDHULK
 id_nomics: REDHULK
 name: RedHulk
+platform: ETH
+platform_contract: '0x73c76ed3172b87de8e21a0776dc68950d790ca17'

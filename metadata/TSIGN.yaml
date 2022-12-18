@@ -3,3 +3,5 @@ fiat: false
 id: TSIGN
 id_nomics: TSIGN
 name: The Signature
+platform: ETH
+platform_contract: '0x039893d7e19d770b2465e7faf7209df4d80b0b2a'

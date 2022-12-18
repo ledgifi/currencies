@@ -5,3 +5,5 @@ id_nomics: ICC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICC2.jpg
 logoKey: currencies/icc2.jpg
 name: Intergalactic Cockroach
+platform: BNB
+platform_contract: '0x8d672014fb107cb409dccd9042dda3b97313f4c3'

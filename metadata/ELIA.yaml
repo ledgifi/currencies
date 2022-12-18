@@ -5,3 +5,5 @@ id_nomics: ELIA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELIA.jpg
 logoKey: currencies/elia.jpg
 name: Elia Token
+platform: BNB
+platform_contract: '0x9a065d2ec9afc9c9f7d12bc0fa53c402b57757fa'

@@ -6,3 +6,5 @@ id_nomics: KUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KUS.jpg
 logoKey: currencies/kus.jpg
 name: KuSwap
+platform: KCS
+platform_contract: '0x4a81704d8c16d9fb0d7f61b747d0b5a272badf14'

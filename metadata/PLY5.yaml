@@ -5,3 +5,5 @@ id_nomics: PLY5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLY5.png
 logoKey: currencies/ply5.png
 name: Elysium Planitia
+platform: BNB
+platform_contract: '0x4428ef61fD290932fd02a7Ef7a83629503C7211E'

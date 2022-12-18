@@ -6,3 +6,5 @@ id_nomics: OCTO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCTO.jpeg
 logoKey: currencies/octo.jpeg
 name: OctoFi
+platform: ETH
+platform_contract: '0x7240ac91f01233baaf8b064248e80feaa5912ba3'

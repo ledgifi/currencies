@@ -5,3 +5,5 @@ id_nomics: RP1
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RP1.png
 logoKey: currencies/rp1.png
 name: RP1
+platform: BNB
+platform_contract: '0x48d8c7e6c92dcaf1fd0a3973aac850f51e71d991'

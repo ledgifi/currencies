@@ -5,3 +5,5 @@ id_nomics: H2O2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/H2O2.jpg
 logoKey: currencies/h2o2.jpg
 name: IFOSwap Token
+platform: BNB
+platform_contract: '0x97641c20355571820f591839d972ad2d38ad9f00'

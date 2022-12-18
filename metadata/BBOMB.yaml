@@ -5,3 +5,5 @@ id_nomics: BBOMB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBOMB.jpg
 logoKey: currencies/bbomb.jpg
 name: BIGBOMB
+platform: ETH
+platform_contract: '0x252f830448d8890ca06a3ff78823db8d23587037'

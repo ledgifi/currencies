@@ -6,3 +6,5 @@ id_nomics: FODL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FODL.jpg
 logoKey: currencies/fodl.jpg
 name: Fodl Finance
+platform: ETH
+platform_contract: '0x4c2e59d098df7b6cbae0848d66de2f8a4889b9c3'

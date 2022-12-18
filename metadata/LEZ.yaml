@@ -6,3 +6,5 @@ id_nomics: LEZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LEZ.jpg
 logoKey: currencies/lez.jpg
 name: Peoplez
+platform: BNB
+platform_contract: '0xc23be03f64a834b3fa6ae62c97ac8b40f3eec6a9'

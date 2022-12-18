@@ -3,3 +3,5 @@ fiat: false
 id: COINHODL24H
 id_nomics: COINHODL24H
 name: Coin Hodl can be sold 24 hours after purchase
+platform: BNB
+platform_contract: '0xd86d2bc3383cb9d5ba0ffca623ba5ec06a7e111c'

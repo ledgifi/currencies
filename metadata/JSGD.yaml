@@ -3,3 +3,5 @@ fiat: false
 id: JSGD
 id_nomics: JSGD
 name: Jarvis Synthetic Singapore Dollar
+platform: MATIC
+platform_contract: '0xa926db7a4cc0cb1736d5ac60495ca8eb7214b503'

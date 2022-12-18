@@ -5,3 +5,5 @@ id_nomics: MOR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOR.jpg
 logoKey: currencies/mor.jpg
 name: MorCrypto Coin
+platform: ETH
+platform_contract: '0xae746520ffdb15d0505e32f1d6e9a2b4ab866572'

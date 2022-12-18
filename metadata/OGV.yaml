@@ -7,3 +7,5 @@ id_nomics: OGV
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220715/70af8ee5-2c80-4171-9384-2bac4aea0525.png
 logoKey: currencies/ogv.png
 name: Origin Dollar Governance
+platform: ETH
+platform_contract: '0x9c354503c38481a7a7a51629142963f98ecc12d0'

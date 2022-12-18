@@ -5,3 +5,5 @@ id_nomics: EXRT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EXRT.jpg
 logoKey: currencies/exrt.jpg
 name: EXRT
+platform: ETH
+platform_contract: '0xb20043f149817bff5322f1b928e89abfc65a9925'

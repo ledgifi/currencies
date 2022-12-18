@@ -5,3 +5,5 @@ id_nomics: BTNTBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTNTBEP20.jpeg
 logoKey: currencies/btntbep20.jpeg
 name: BitNautic (BEP-20)
+platform: BNB
+platform_contract: '0xb9c7099d2fbbf82314de08045745daf951cdda85'

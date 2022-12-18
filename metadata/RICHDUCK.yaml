@@ -5,3 +5,5 @@ id_nomics: RICHDUCK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RICHDUCK.jpg
 logoKey: currencies/richduck.jpg
 name: RICHDUCK
+platform: BNB
+platform_contract: '0x09eab30000635f514cbaf07564cc46ff1a95933d'

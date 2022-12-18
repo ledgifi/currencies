@@ -3,3 +3,5 @@ fiat: false
 id: FERRARI
 id_nomics: FERRARI
 name: FerrariToken
+platform: ETH
+platform_contract: '0xebf698ede71af52ab1acb12975472ba2e302e810'

@@ -5,3 +5,5 @@ id_nomics: GN10
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GN10.png
 logoKey: currencies/gn10.png
 name: GN10 DIGITAL NEWS
+platform: ETH
+platform_contract: '0x1866e913c7d5003787ae062e805eba04afdba3d7'

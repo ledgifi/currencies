@@ -5,3 +5,5 @@ id_nomics: FXC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FXC3.jpg
 logoKey: currencies/fxc3.jpg
 name: FUDX Coin
+platform: BNB
+platform_contract: '0xe63c9Fe38AE0efe631d6A556DC10Ef8264dbF1f0'

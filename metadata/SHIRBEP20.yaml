@@ -5,3 +5,5 @@ id_nomics: SHIRBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIRBEP20.jpg
 logoKey: currencies/shirbep20.jpg
 name: SHIRO INU (BEP-20)
+platform: BNB
+platform_contract: '0x4ddba615a7f6ee612d3a23c6882b698dfbbef7e7'

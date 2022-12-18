@@ -6,3 +6,5 @@ id_nomics: NAVY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/navy.jpg
 logoKey: currencies/navy.jpg
 name: BoatPilot Token
+platform: ETH
+platform_contract: '0xc15a399c4ea7815fe36857c9e290ee452a5d6b21'

@@ -5,3 +5,5 @@ id_nomics: EST6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EST6.png
 logoKey: currencies/est6.png
 name: Elon Slayer Token
+platform: BNB
+platform_contract: '0xB585d21Af2edd0169558C63835798F2bC4666D29'

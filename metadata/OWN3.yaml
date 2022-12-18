@@ -5,3 +5,5 @@ id_nomics: OWN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OWN3.jpg
 logoKey: currencies/own3.jpg
 name: OwnerCoin
+platform: ETH
+platform_contract: '0x9acc71aa02793e4bd5610c3a4f85f5a5a4e89195'

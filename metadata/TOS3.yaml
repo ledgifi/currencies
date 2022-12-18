@@ -5,3 +5,5 @@ id_nomics: TOS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOS3.jpg
 logoKey: currencies/tos3.jpg
 name: TONStarter
+platform: ETH
+platform_contract: '0x409c4d8cd5d2924b9bc5509230d16a61289c8153'

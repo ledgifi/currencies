@@ -5,3 +5,5 @@ id_nomics: GETDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GETDOGE.jpg
 logoKey: currencies/getdoge.jpg
 name: Get Doge
+platform: BNB
+platform_contract: '0x5ee36c0a5e96220f9dcde6a068c5f4e597f83fbb'

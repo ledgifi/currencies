@@ -5,3 +5,5 @@ id_nomics: TNU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TNU.jpg
 logoKey: currencies/tnu.jpg
 name: Thunus
+platform: ETH
+platform_contract: '0x4e24f9cfb4acf138c529780d924da12fd313134a'

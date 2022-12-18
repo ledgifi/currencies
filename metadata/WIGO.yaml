@@ -3,3 +3,5 @@ fiat: false
 id: WIGO
 id_nomics: WIGO
 name: WigoSwap
+platform: FTM
+platform_contract: '0xe992beab6659bff447893641a378fbbf031c5bd6'

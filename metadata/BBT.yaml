@@ -6,3 +6,5 @@ id_nomics: BBT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBT.jpg
 logoKey: currencies/bbt.jpg
 name: BitBoost
+platform: ETH
+platform_contract: '0x1500205f50bf3fd976466d0662905c9ff254fc9c'

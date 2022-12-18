@@ -5,3 +5,5 @@ id_nomics: CHPHS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHPHS.jpg
 logoKey: currencies/chphs.jpg
 name: Chespisichis
+platform: MATIC
+platform_contract: '0x2998184e87cb97c9752807a861fd6957c28d7a40'

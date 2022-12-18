@@ -6,3 +6,5 @@ id_nomics: ROCKSTAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROCKSTAR.jpg
 logoKey: currencies/rockstar.jpg
 name: ROCKSTAR DOGE
+platform: BNB
+platform_contract: '0x1c8d407ad2b4b755482743c542b680bd4385476c'

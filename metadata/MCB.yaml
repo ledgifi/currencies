@@ -5,3 +5,5 @@ id_nomics: MCB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCB.jpg
 logoKey: currencies/mcb.jpg
 name: Microbyte
+platform: ETH
+platform_contract: '0x03a6d45820edb4e66e41ece0dc96170e875a1d16'

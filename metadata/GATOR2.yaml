@@ -5,3 +5,5 @@ id_nomics: GATOR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GATOR2.png
 logoKey: currencies/gator2.png
 name: GatorSwap
+platform: BNB
+platform_contract: '0x88371dec00bc3543231e01089c3dc6d94289d4af'

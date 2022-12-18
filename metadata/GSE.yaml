@@ -6,3 +6,5 @@ id_nomics: GSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/gse.png
 logoKey: currencies/gse.png
 name: GSENetwork
+platform: ETH
+platform_contract: '0xe530441f4f73bdb6dc2fa5af7c3fc5fd551ec838'

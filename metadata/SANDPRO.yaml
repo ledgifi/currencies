@@ -5,3 +5,5 @@ id_nomics: SANDPRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SANDPRO.jpg
 logoKey: currencies/sandpro.jpg
 name: SandBox Pro
+platform: BNB
+platform_contract: '0x6a2560645075e50cd5585591396e033022661ff1'

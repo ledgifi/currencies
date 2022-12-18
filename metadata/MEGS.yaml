@@ -3,3 +3,5 @@ fiat: false
 id: MEGS
 id_nomics: MEGS
 name: MEGS
+platform: BNB
+platform_contract: '0x31cde769ce07973c45d9075a2e945af4ba750153'

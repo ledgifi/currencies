@@ -3,3 +3,5 @@ fiat: false
 id: FERMI
 id_nomics: FERMI
 name: The Fermi Paradox
+platform: ETH
+platform_contract: '0x484e906259fccd8f78b7bc1597995cdf43c201f5'

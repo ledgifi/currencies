@@ -5,3 +5,5 @@ id_nomics: MUVMOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MUVMOON.jpeg
 logoKey: currencies/muvmoon.jpeg
 name: Muvmoon
+platform: BNB
+platform_contract: '0x9b6f9f5dfb8150407ddc326e23b53dc5347fcb33'

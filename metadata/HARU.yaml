@@ -5,3 +5,5 @@ id_nomics: HARU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HARU.jpeg
 logoKey: currencies/haru.jpeg
 name: HARU
+platform: ETH
+platform_contract: '0xef497b970f50286a9805b91809b8615e6d0ef19b'

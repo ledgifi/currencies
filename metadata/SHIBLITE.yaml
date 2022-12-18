@@ -6,3 +6,5 @@ id_nomics: SHIBLITE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBLITE.jpg
 logoKey: currencies/shiblite.jpg
 name: ShibaLite
+platform: BNB
+platform_contract: '0x76ef2a25b1ea6eb5dc4d079ae82c767d55b0a99e'

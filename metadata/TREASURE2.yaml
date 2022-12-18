@@ -5,3 +5,5 @@ id_nomics: TREASURE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TREASURE2.jpg
 logoKey: currencies/treasure2.jpg
 name: Treasure
+platform: BNB
+platform_contract: '0xc0b943b63e605cf8a75c7832c2baf46629f7f762'

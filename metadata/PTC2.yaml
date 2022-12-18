@@ -5,3 +5,5 @@ id_nomics: PTC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PTC2.jpg
 logoKey: currencies/ptc2.jpg
 name: PropertyCoin
+platform: ETH
+platform_contract: '0x27e627d032593fe2a8ebbb30f3b1264b3b51a707'

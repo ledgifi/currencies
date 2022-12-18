@@ -5,3 +5,5 @@ id_nomics: KMC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KMC4.jpg
 logoKey: currencies/kmc4.jpg
 name: Kawai Mice
+platform: BNB
+platform_contract: '0x4ebe156b9f2b6ac59231e73cdb72a38649727937'

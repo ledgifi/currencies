@@ -5,3 +5,5 @@ id_nomics: NINJA6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NINJA6.png
 logoKey: currencies/ninja6.png
 name: NINJA
+platform: BNB
+platform_contract: '0xb8cdff4e6c698ef0eab7ea2930d178635d11a3e0'

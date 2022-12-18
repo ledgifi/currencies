@@ -5,3 +5,5 @@ id_nomics: WFDR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WFDR.png
 logoKey: currencies/wfdr.png
 name: Wrapped FDR
+platform: BNB
+platform_contract: '0x985051a53a8ab90670540c2e7d537013fd5ae5e4'

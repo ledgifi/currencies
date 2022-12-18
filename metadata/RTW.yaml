@@ -5,3 +5,5 @@ id_nomics: RTW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RTW.png
 logoKey: currencies/rtw.png
 name: RETAWATCH
+platform: BNB
+platform_contract: '0x7dc27fc31924465faa76cb7cabf7c24e85372d03'

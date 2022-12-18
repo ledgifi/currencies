@@ -5,3 +5,5 @@ id_nomics: PKR4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PKR3.jpg
 logoKey: currencies/pkr4.jpg
 name: Polker (ERC-20)
+platform: ETH
+platform_contract: '0x001a8ffcb0f03e99141652ebcdecdb0384e3bd6c'

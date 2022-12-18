@@ -5,3 +5,5 @@ id_nomics: EBRY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EBRY.jpg
 logoKey: currencies/ebry.jpg
 name: Ebry
+platform: BNB
+platform_contract: '0x45ecfe847f84299853951371295f977667281bc1'

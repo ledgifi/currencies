@@ -6,3 +6,5 @@ id_nomics: PRP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRP.jpg
 logoKey: currencies/prp.jpg
 name: Pharma Pay Coin
+platform: ETH
+platform_contract: '0xa3d29c52bf09ef16f23317029a01c40363131827'

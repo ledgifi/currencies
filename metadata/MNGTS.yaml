@@ -5,3 +5,5 @@ id_nomics: MNGTS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MNGTS.jpg
 logoKey: currencies/mngts.jpg
 name: MNgts
+platform: ETH
+platform_contract: '0xad3a3551b21a0fe228f3442665556aa6533530d7'

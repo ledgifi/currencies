@@ -3,3 +3,5 @@ fiat: false
 id: UNCP
 id_nomics: UNCP
 name: Uncp
+platform: BNB
+platform_contract: '0x41c68247eae9e29aa2be01e56a28c8864aa5af09'

@@ -5,3 +5,5 @@ id_nomics: NFTA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTA2.jpg
 logoKey: currencies/nfta2.jpg
 name: NFracTion
+platform: ETH
+platform_contract: '0x9a54a39a8d78cd6031636628a11c890124b1b5cf'

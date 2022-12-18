@@ -6,3 +6,5 @@ id_nomics: PCHS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PCHS.png
 logoKey: currencies/pchs.png
 name: Peaches.Finance
+platform: ETH
+platform_contract: '0xa4c6984e817c086ddc3ebaeedbdcc01469586918'

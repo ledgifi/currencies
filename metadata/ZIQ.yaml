@@ -5,3 +5,5 @@ id_nomics: ZIQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZIQ.jpg
 logoKey: currencies/ziq.jpg
 name: ZIQ
+platform: ETH
+platform_contract: '0x65871fc4183c2c6f14e1ccd293aa08d4325a273d'

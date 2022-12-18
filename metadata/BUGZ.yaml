@@ -5,3 +5,5 @@ id_nomics: BUGZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUGZ.jpg
 logoKey: currencies/bugz.jpg
 name: CryptoCrawlerz
+platform: ETH
+platform_contract: '0x6b023c1e3a860050ee3e608357aae86a113b70f9'

@@ -5,3 +5,5 @@ id_nomics: SOTABEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOTABEP20.jpg
 logoKey: currencies/sotabep20.jpg
 name: SOTA Finance (BEP-20)
+platform: BNB
+platform_contract: '0x0742b62efb5f2eabbc14567dfc0860ce0565bcf4'

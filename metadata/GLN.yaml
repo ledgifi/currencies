@@ -3,3 +3,5 @@ fiat: false
 id: GLN
 id_nomics: GLN
 name: Galleon
+platform: BNB
+platform_contract: '0xd311654fc2b14c95b2cd40d733e526eac43434c3'

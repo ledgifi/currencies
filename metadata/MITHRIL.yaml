@@ -5,3 +5,5 @@ id_nomics: MITHRIL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MITHRIL.png
 logoKey: currencies/mithril.png
 name: Mithrilverse
+platform: BNB
+platform_contract: '0xc4caf585c2b7eaf3f61ac69b1529e79f90b15569'

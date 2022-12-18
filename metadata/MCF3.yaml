@@ -5,3 +5,5 @@ id_nomics: MCF3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCF3.png
 logoKey: currencies/mcf3.png
 name: Max Crowdfund
+platform: BNB
+platform_contract: '0xecb19b2a4e9c76ce748cf33f68f0857288f9f090'

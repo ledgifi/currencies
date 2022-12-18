@@ -5,3 +5,5 @@ id_nomics: TCR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCR2.jpg
 logoKey: currencies/tcr2.jpg
 name: Tracer DAO
+platform: ETH
+platform_contract: '0x9c4a4204b79dd291d6b6571c5be8bbcd0622f050'

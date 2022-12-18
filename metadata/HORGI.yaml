@@ -5,3 +5,5 @@ id_nomics: HORGI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HORGI.jpeg
 logoKey: currencies/horgi.jpeg
 name: HORGI
+platform: BNB
+platform_contract: '0x4f5c381861333097afa97e98a8d6dc0eb0d69ec4'

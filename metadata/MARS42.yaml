@@ -6,3 +6,5 @@ id_nomics: MARS42
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MARS42.jpg
 logoKey: currencies/mars42.jpg
 name: MARS4
+platform: ETH
+platform_contract: '0x16cda4028e9e872a38acb903176719299beaed87'

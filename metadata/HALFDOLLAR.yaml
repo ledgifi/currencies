@@ -5,3 +5,5 @@ id_nomics: HALFDOLLAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HALFDOLLAR.png
 logoKey: currencies/halfdollar.png
 name: HALF DOLLAR
+platform: BNB
+platform_contract: '0x0f180C8c013666EE90454016EE7Aee2d29271E35'

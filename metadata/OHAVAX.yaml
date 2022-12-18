@@ -5,3 +5,5 @@ id_nomics: OHAVAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OHAVAX.jpg
 logoKey: currencies/ohavax.jpg
 name: Oh! Finance
+platform: AVAX
+platform_contract: '0x937e077abaea52d3abf879c9b9d3f2ebd15baa21'

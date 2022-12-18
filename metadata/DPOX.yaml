@@ -3,3 +3,5 @@ fiat: false
 id: DPOX
 id_nomics: DPOX
 name: DegenPox
+platform: ETH
+platform_contract: '0x7a8e9a1a04cb87b67043a44fbe528be3381d9176'

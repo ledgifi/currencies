@@ -6,3 +6,5 @@ id_nomics: CLAW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLAW.jpg
 logoKey: currencies/claw.jpg
 name: Cats Claw
+platform: ETH
+platform_contract: '0x02eddbbf40f7ab1b6fd1a87bf263d4be967d0552'

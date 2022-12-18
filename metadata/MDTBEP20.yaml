@@ -5,3 +5,5 @@ id_nomics: MDTBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MDTBEP20.jpg
 logoKey: currencies/mdtbep20.jpg
 name: Measurable Data Token (BEP-20)
+platform: BNB
+platform_contract: '0x668db7aa38eac6b40c9d13dbe61361dc4c4611d1'

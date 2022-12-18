@@ -6,3 +6,5 @@ id_nomics: SEKO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SEKO.png
 logoKey: currencies/seko.png
 name: SekoPay
+platform: BNB
+platform_contract: '0x1840efa31d2e26dc8af5502efa5124da450995f1'

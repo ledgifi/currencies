@@ -5,3 +5,5 @@ id_nomics: LUCHOWBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUCHOWBEP20.jpeg
 logoKey: currencies/luchowbep20.jpeg
 name: LunaChow (BEP-20)
+platform: BNB
+platform_contract: '0xe4e8e6878718bfe533702D4a6571Eb74D79b0915'

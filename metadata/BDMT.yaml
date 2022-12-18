@@ -3,3 +3,5 @@ fiat: false
 id: BDMT
 id_nomics: BDMT
 name: BuddyMint
+platform: BNB
+platform_contract: '0x8225e12bbff24b6cc85c3d3f05b81135d750eaa0'

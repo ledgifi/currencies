@@ -5,3 +5,5 @@ id_nomics: DOXY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOXY.jpg
 logoKey: currencies/doxy.jpg
 name: Doxy Finance
+platform: BNB
+platform_contract: '0xd6c7fbd02752e41d9b6000193668c16470fefd7d'

@@ -5,3 +5,5 @@ id_nomics: DOGO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGO3.jpg
 logoKey: currencies/dogo3.jpg
 name: DogemonGo
+platform: BNB
+platform_contract: '0x9e6b3e35c8f563b45d864f9ff697a144ad28a371'

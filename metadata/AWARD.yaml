@@ -3,3 +3,5 @@ fiat: false
 id: AWARD
 id_nomics: AWARD
 name: BlockAwards
+platform: BNB
+platform_contract: '0xdcc6779a4c0feb586784568009a03189b3623e6b'

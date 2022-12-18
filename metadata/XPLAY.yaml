@@ -6,3 +6,5 @@ id_nomics: XPLAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XPLAY.jpeg
 logoKey: currencies/xplay.jpeg
 name: Xenon Play
+platform: BNB
+platform_contract: '0xb7feeab5ea787e83a40f185237c717597363e0d6'

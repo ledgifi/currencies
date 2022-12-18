@@ -3,3 +3,5 @@ fiat: false
 id: PCST
 id_nomics: PCST
 name: PetCoinStoreTest
+platform: BNB
+platform_contract: '0xaa52aec4d06dcb4709be8561dd883dc611b4ead2'

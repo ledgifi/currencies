@@ -6,3 +6,5 @@ id_nomics: KIWI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KIWI.png
 logoKey: currencies/kiwi.png
 name: KIWI Token
+platform: ETH
+platform_contract: '0x2bf91c18cd4ae9c2f2858ef9fe518180f7b5096d'

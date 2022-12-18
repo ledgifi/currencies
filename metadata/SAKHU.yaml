@@ -5,3 +5,5 @@ id_nomics: SAKHU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAKHU.jpg
 logoKey: currencies/sakhu.jpg
 name: Sakhalin Inu
+platform: ETH
+platform_contract: '0xd12fb0cd9dd19b5124dd7506769aa741bf031c30'

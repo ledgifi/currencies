@@ -6,3 +6,5 @@ id_nomics: ALIX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALIX.jpg
 logoKey: currencies/alix.jpg
 name: AlinX
+platform: BNB
+platform_contract: '0xaf6bd11a6f8f9c44b9d18f5fa116e403db599f8e'

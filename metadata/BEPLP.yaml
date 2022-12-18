@@ -5,3 +5,5 @@ id_nomics: BEPLP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEPLP.jpg
 logoKey: currencies/beplp.jpg
 name: Polygon Beplay (BEP-LP)
+platform: MATIC
+platform_contract: '0x431cf674dd96338cbe981e4354dd58eca507457c'

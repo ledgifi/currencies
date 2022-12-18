@@ -5,3 +5,5 @@ id_nomics: LOCO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOCO.jpeg
 logoKey: currencies/loco.jpeg
 name: LocoMeta
+platform: BNB
+platform_contract: '0x723ef00502e76e8501101de1b25ef146c4b571ca'

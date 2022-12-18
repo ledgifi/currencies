@@ -6,3 +6,5 @@ id_nomics: NDC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ndc.png
 logoKey: currencies/ndc.png
 name: NEVERDIE
+platform: ETH
+platform_contract: '0xa54ddc7b3cce7fc8b1e3fa0256d0db80d2c10970'

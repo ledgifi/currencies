@@ -3,3 +3,5 @@ fiat: false
 id: USCC
 id_nomics: USCC
 name: USCCOIN
+platform: HT
+platform_contract: '0x91ae06ebcaf909024b3be681952331d4ecc4293a'

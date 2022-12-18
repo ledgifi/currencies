@@ -5,3 +5,5 @@ id_nomics: WTB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WTB.png
 logoKey: currencies/wtb.png
 name: WORLD TRADE BASE
+platform: ETH
+platform_contract: '0x39405a9cee35331dfe835fd6b0e7a9fa6f2cf48d'

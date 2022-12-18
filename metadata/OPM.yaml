@@ -6,3 +6,5 @@ id_nomics: OPM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OPM.jpg
 logoKey: currencies/opm.jpg
 name: Omega Protocol Money
+platform: ETH
+platform_contract: '0xf4c17bc4979c1dc7b4ca50115358dec58c67fd9d'

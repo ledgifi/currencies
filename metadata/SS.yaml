@@ -5,3 +5,5 @@ id_nomics: SS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ss.jpg
 logoKey: currencies/ss.jpg
 name: Sharder Chain
+platform: ETH
+platform_contract: '0xbbff862d906e348e9946bfb2132ecb157da3d4b4'

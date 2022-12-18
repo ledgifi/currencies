@@ -5,3 +5,5 @@ id_nomics: NAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NAT.png
 logoKey: currencies/nat.png
 name: Natmin
+platform: ETH
+platform_contract: '0x90d46a9636b973f18186541d1b04ed3621a49cb0'

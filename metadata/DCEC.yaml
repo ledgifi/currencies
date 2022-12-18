@@ -3,3 +3,5 @@ fiat: false
 id: DCEC
 id_nomics: DCEC
 name: parallel
+platform: BNB
+platform_contract: '0xf207bf0405538a949d1b5c391c1a9c9fd1d047e8'

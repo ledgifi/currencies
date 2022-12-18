@@ -5,3 +5,5 @@ id_nomics: RTP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RTP.jpg
 logoKey: currencies/rtp.jpg
 name: RetirementPlan
+platform: BNB
+platform_contract: '0x39b2610c7c4d06b14444e684e392fa25b919dfc5'

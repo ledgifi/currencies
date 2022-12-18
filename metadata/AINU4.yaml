@@ -5,3 +5,5 @@ id_nomics: AINU4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AINU4.jpg
 logoKey: currencies/ainu4.jpg
 name: AstaInu
+platform: ETH
+platform_contract: '0x4e98de04e3ce408fbe77ec14c48918aa41fbc89c'

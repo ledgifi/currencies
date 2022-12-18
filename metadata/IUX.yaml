@@ -5,3 +5,5 @@ id_nomics: IUX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IUX.png
 logoKey: currencies/iux.png
 name: GeniuX
+platform: MATIC
+platform_contract: '0x346404079b3792a6c548b072b9c4dddfb92948d5'

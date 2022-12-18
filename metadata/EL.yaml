@@ -6,3 +6,5 @@ id_nomics: EL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EL.jpg
 logoKey: currencies/el.jpg
 name: ELYSIA
+platform: ETH
+platform_contract: '0x2781246fe707bb15cee3e5ea354e2154a2877b16'

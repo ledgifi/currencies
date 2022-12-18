@@ -6,3 +6,5 @@ id_nomics: OHM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OHM.jpg
 logoKey: currencies/ohm.jpg
 name: Olympus
+platform: ETH
+platform_contract: '0x383518188c0c6d7730d91b2c03a03c837814a899'

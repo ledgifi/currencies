@@ -3,3 +3,5 @@ fiat: false
 id: SEAGULL
 id_nomics: SEAGULL
 name: Seagull Coin
+platform: HT
+platform_contract: '0x1bed99417a3ea62521f94e35396ca3ac1fc2f3f5'

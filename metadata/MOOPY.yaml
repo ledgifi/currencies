@@ -3,3 +3,5 @@ fiat: false
 id: MOOPY
 id_nomics: MOOPY
 name: Moopy Token
+platform: ETH
+platform_contract: '0x05b498f5aa48c959822786ef4204f09e3e06603e'

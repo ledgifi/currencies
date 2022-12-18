@@ -5,3 +5,5 @@ id_nomics: MCC9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCC9.jpg
 logoKey: currencies/mcc9.jpg
 name: MonChiChi
+platform: BNB
+platform_contract: '0x7004ca0feb4ddc52cb98a8621a7e06b913cf60a9'

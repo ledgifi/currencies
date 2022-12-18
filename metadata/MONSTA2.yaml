@@ -5,3 +5,5 @@ id_nomics: MONSTA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MONSTA2.jpg
 logoKey: currencies/monsta2.jpg
 name: Meta Monstas
+platform: BNB
+platform_contract: '0x82598bb4c9b40217c0bb28b63eaae3a7aabd9b7e'

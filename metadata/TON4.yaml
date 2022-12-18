@@ -5,3 +5,5 @@ id_nomics: TON4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TON4.jpg
 logoKey: currencies/ton4.jpg
 name: To The Moon
+platform: BNB
+platform_contract: '0xb919149a7f1fcf4b5e7a05e6ea6f951ca6d73b5b'

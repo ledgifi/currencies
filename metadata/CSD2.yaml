@@ -5,3 +5,5 @@ id_nomics: CSD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CSD2.jpg
 logoKey: currencies/csd2.jpg
 name: Crypto Scam Defence
+platform: ETH
+platform_contract: '0xba2f318b98218fb7727261defa99017c265bdaef'

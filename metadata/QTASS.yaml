@@ -3,3 +3,5 @@ fiat: false
 id: QTASS
 id_nomics: QTASS
 name: Qtass
+platform: ARBETH
+platform_contract: '0x3491bb3a95ffb82510f76eaa21994269e7492375'

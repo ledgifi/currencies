@@ -6,3 +6,5 @@ id_nomics: FLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLA.jpg
 logoKey: currencies/fla.jpg
 name: Fiola
+platform: ETH
+platform_contract: '0x7be5901f679bde8202a123c84c19bbce2cf3449b'

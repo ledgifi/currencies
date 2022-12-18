@@ -5,3 +5,5 @@ id_nomics: UST5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UST5.png
 logoKey: currencies/ust5.png
 name: UnStableToken
+platform: BNB
+platform_contract: '0xCa5ce450B854d7cECD48cD3b037d51830FfAd301'

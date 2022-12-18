@@ -6,3 +6,5 @@ id_nomics: TCGCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCGCOIN.jpg
 logoKey: currencies/tcgcoin.jpg
 name: TCGCoin
+platform: BNB
+platform_contract: '0xc070c8ae94977f78d04553d33449def944f24254'

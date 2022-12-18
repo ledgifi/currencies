@@ -5,3 +5,5 @@ id_nomics: JT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JT2.jpg
 logoKey: currencies/jt2.jpg
 name: Jubi Token
+platform: ETH
+platform_contract: '0xeb7355c2f217b3485a591332fe13c8c5a76a581d'

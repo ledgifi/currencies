@@ -5,3 +5,5 @@ id_nomics: SRUNE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SRUNE.png
 logoKey: currencies/srune.png
 name: Synth sRUNE
+platform: ETH
+platform_contract: '0x0352557b007a4aae1511c114409b932f06f9e2f4'

@@ -5,3 +5,5 @@ id_nomics: GLOBALAEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GLOBALAEX.jpg
 logoKey: currencies/globalaex.jpg
 name: Global AEX Token
+platform: BTS
+platform_contract: '0x24efe6b87bf1bfe9ea2ccb5a9d0a959c7172b364'

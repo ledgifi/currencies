@@ -5,3 +5,5 @@ id_nomics: LEAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LEAN.jpg
 logoKey: currencies/lean.jpg
 name: Lean
+platform: BNB
+platform_contract: '0x7404b8bda7a48319926eda374e0a6559bcfd2967'

@@ -3,3 +3,5 @@ fiat: false
 id: SHETH
 id_nomics: SHETH
 name: Shethcoin
+platform: ETH
+platform_contract: '0xcc8021f3a42dfff9ccfd4054c775049d8b5d1b85'

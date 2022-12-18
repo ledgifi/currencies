@@ -5,3 +5,5 @@ id_nomics: MONFTER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MONFTER.jpg
 logoKey: currencies/monfter.jpg
 name: Monfter
+platform: ETH
+platform_contract: '0xcacc19c5ca77e06d6578decac80408cc036e0499'

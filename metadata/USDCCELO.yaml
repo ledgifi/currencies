@@ -5,3 +5,5 @@ id_nomics: USDCCELO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDCCELO.jpg
 logoKey: currencies/usdccelo.jpg
 name: USD Coin (CELO)
+platform: CELO
+platform_contract: '0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7'

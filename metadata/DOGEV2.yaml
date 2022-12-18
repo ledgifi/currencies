@@ -3,3 +3,5 @@ fiat: false
 id: DOGEV2
 id_nomics: DOGEV2
 name: DOGE-V2Token
+platform: HT
+platform_contract: '0x9c8a4d337fe27384038864320fc89e0cdd25f99c'

@@ -6,3 +6,5 @@ id_nomics: VGW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VGW.jpg
 logoKey: currencies/vgw.jpg
 name: VegaWallet Token
+platform: ETH
+platform_contract: '0x94236591125e935f5ac128bb3d5062944c24958c'

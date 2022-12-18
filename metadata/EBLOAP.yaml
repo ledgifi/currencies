@@ -5,3 +5,5 @@ id_nomics: EBLOAP
 logo: https://set-core.s3.amazonaws.com/img/social_trader_set_icons/sw_ethbtc_set.svg
 logoKey: currencies/ebloap.svg
 name: ETH/BTC Long-Only Alpha Portfolio
+platform: ETH
+platform_contract: '0x253444bd9ecf11e5516d6d00974e91c9f0857ccb'

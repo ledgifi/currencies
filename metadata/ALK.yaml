@@ -6,3 +6,5 @@ id_nomics: ALK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALK.jpg
 logoKey: currencies/alk.jpg
 name: Alkemi Network DAO Token
+platform: ETH
+platform_contract: '0x6c16119b20fa52600230f074b349da3cb861a7e3'

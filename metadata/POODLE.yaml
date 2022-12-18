@@ -5,3 +5,5 @@ id_nomics: POODLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POODLE.jpg
 logoKey: currencies/poodle.jpg
 name: Poodledog Token
+platform: BNB
+platform_contract: '0x4487a8a40caa9fa0e70b9041c368b6e0d4089314'

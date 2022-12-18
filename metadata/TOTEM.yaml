@@ -5,3 +5,5 @@ id_nomics: TOTEM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOTEM.jpg
 logoKey: currencies/totem.jpg
 name: Totem Finance
+platform: FTM
+platform_contract: '0x31a37aedc0c18aa139e120e1cdc673bbb2063e6f'

@@ -5,3 +5,5 @@ id_nomics: MYSTIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MYSTIC.jpg
 logoKey: currencies/mystic.jpg
 name: Mystic Warriors
+platform: BNB
+platform_contract: '0x56ac025dd322eaab069d7193b4401181adfdd83e'

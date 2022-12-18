@@ -6,3 +6,5 @@ id_nomics: CSP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CSP.png
 logoKey: currencies/csp.png
 name: Caspian
+platform: ETH
+platform_contract: '0xa6446d655a0c34bc4f05042ee88170d056cbaf45'

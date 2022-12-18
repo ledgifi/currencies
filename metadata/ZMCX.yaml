@@ -5,3 +5,5 @@ id_nomics: ZMCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZMCX.jpg
 logoKey: currencies/zmcx.jpg
 name: Zoom Video Communications, Inc.
+platform: ETH
+platform_contract: '0x2fed2394fff3378bccb3d0000e71af671bc4bda9'

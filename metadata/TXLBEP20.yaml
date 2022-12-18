@@ -5,3 +5,5 @@ id_nomics: TXLBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TXLBEP20.jpg
 logoKey: currencies/txlbep20.jpg
 name: Tixl Token (BEP-20)
+platform: BNB
+platform_contract: '0x1ffd0b47127fdd4097e54521c9e2c7f0d66aafc5'

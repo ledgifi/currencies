@@ -5,3 +5,5 @@ id_nomics: USDCARB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDCARB.png
 logoKey: currencies/usdcarb.png
 name: USD Coin (Arbitrum)
+platform: ARBETH
+platform_contract: '0xff970a61a04b1ca14834a43f5de4533ebddb5cc8'

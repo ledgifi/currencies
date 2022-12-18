@@ -5,3 +5,5 @@ id_nomics: MOTHER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOTHER.jpg
 logoKey: currencies/mother.jpg
 name: MotherCoin
+platform: BNB
+platform_contract: '0x656c0d16597865d41ad4fc0c277ae7987101b998'

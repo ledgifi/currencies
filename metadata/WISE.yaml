@@ -6,3 +6,5 @@ id_nomics: WISE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WISE.jpeg
 logoKey: currencies/wise.jpeg
 name: Wise
+platform: ETH
+platform_contract: '0x66a0f676479cee1d7373f3dc2e2952778bff5bd6'

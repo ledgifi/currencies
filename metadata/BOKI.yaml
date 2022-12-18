@@ -3,3 +3,5 @@ fiat: false
 id: BOKI
 id_nomics: BOKI
 name: Boki Coin
+platform: ETH
+platform_contract: '0x5eee30b87666a20b87b4e1d0cc61851b4e983cf1'

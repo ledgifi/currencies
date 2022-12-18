@@ -5,3 +5,5 @@ id_nomics: VCC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VCC4.jpg
 logoKey: currencies/vcc4.jpg
 name: Victorum
+platform: BNB
+platform_contract: '0x5fc6179fcf814fcd4344ee03376ba717a95992b6'

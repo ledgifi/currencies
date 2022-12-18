@@ -5,3 +5,5 @@ id_nomics: SNAILV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNAILV2.jpg
 logoKey: currencies/snailv2.jpg
 name: Snail V2 Coin
+platform: BNB
+platform_contract: '0x9321de03e10168931dbdaa4debf1f3f08c547228'

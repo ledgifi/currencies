@@ -3,3 +3,5 @@ fiat: false
 id: ANNUITY
 id_nomics: ANNUITY
 name: Annuity
+platform: ETH
+platform_contract: '0xdc4e535a0a9fe553e8b72019408ae57f950459c1'

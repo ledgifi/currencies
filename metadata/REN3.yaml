@@ -5,3 +5,5 @@ id_nomics: REN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REN3.jpg
 logoKey: currencies/ren3.jpg
 name: Rention
+platform: BNB
+platform_contract: '0x38BC8456B184C4B7D2E83530766363C66f504f6e'

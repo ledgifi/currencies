@@ -3,3 +3,5 @@ fiat: false
 id: ALPHAOHM
 id_nomics: ALPHAOHM
 name: Alpha Olympus
+platform: ETH
+platform_contract: '0x24ecfd535675f36ba1ab9c5d39b50dc097b0792e'

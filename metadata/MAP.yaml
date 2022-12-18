@@ -5,3 +5,5 @@ id_nomics: MAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAP.jpg
 logoKey: currencies/map.jpg
 name: Marcopolo
+platform: ETH
+platform_contract: '0x49229c3902d49be6443e01c0251b02780397ab1a'

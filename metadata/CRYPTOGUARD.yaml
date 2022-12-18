@@ -3,3 +3,5 @@ fiat: false
 id: CRYPTOGUARD
 id_nomics: CRYPTOGUARD
 name: CryptoGuardToken
+platform: BNB
+platform_contract: '0x5c26d2712f446942ec3933ff682cdaf558ce7d27'

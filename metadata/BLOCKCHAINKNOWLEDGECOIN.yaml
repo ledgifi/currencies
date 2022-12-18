@@ -5,3 +5,5 @@ id_nomics: BLOCKCHAINKNOWLEDGECOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLOCKCHAINKNOWLEDGECOIN.jpg
 logoKey: currencies/blockchainknowledgecoin.jpg
 name: Blockchain Knowledge Coin
+platform: ETH
+platform_contract: '0x09cb097356fd053f8544abfa2c8a9d4fb2200d62'

@@ -5,3 +5,5 @@ id_nomics: NESSBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NESSBEP20.png
 logoKey: currencies/nessbep20.png
 name: PrivateNess Network (BEP-20)
+platform: BNB
+platform_contract: '0x0f6655c4c2aedd0378bf055e8efa2df6020dff3a'

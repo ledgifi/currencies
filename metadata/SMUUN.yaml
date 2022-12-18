@@ -5,3 +5,5 @@ id_nomics: SMUUN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMUUN.png
 logoKey: currencies/smuun.png
 name: NewCommunitySafemuunInu
+platform: BNB
+platform_contract: '0xc74c18c5a4d13ac180373877c4307a5254451652'

@@ -5,3 +5,5 @@ id_nomics: AFG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AFG.png
 logoKey: currencies/afg.png
 name: AFG Token
+platform: ETH
+platform_contract: '0x155e5e7c77274ca7a1c58236326518cc948daad6'

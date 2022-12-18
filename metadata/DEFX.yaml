@@ -3,3 +3,5 @@ fiat: false
 id: DEFX
 id_nomics: DEFX
 name: Defi Index Funds
+platform: ETH
+platform_contract: '0x378e79e4e536c1012b1b0852f4d70b35e4023458'

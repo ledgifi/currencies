@@ -5,3 +5,5 @@ id_nomics: KTR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KTR.jpg
 logoKey: currencies/ktr.jpg
 name: KuTikiRise
+platform: KCS
+platform_contract: '0x141b987f067db2745402a07de8d1e471fc48c4aa'

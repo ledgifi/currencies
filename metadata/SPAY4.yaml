@@ -3,3 +3,5 @@ fiat: false
 id: SPAY4
 id_nomics: SPAY4
 name: Shopayment
+platform: BNB
+platform_contract: '0x9c1ae9c1772a04a2e491cfe8c84125df9dc537e5'

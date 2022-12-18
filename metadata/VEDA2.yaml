@@ -5,3 +5,5 @@ id_nomics: VEDA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VEDA2.png
 logoKey: currencies/veda2.png
 name: AyurVeda AG Shares
+platform: ETH
+platform_contract: '0x2adcbee886d23eff5adecc7767bf102e4a1ce151'

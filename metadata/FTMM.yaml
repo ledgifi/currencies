@@ -3,3 +3,5 @@ fiat: false
 id: FTMM
 id_nomics: FTMM
 name: FTM@moonriver
+platform: MOVR
+platform_contract: '0xd924f195c6012c301f42290cf0fde385a66039de'

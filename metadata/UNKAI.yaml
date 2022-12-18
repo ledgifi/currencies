@@ -5,3 +5,5 @@ id_nomics: UNKAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNKAI.png
 logoKey: currencies/unkai.png
 name: Unkai
+platform: ETH
+platform_contract: '0x8a34d707189fbfa46930abfde3d22abdc48ab73d'

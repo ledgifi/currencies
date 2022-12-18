@@ -5,3 +5,5 @@ id_nomics: ICICB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICICB.jpg
 logoKey: currencies/icicb.jpg
 name: ICICB Coin
+platform: ETH
+platform_contract: '0xffcf5f9feb7e14833331b6687755d1622399316c'

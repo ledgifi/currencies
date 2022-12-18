@@ -5,3 +5,5 @@ id_nomics: PEA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEA.jpg
 logoKey: currencies/pea.jpg
 name: PEA
+platform: BNB
+platform_contract: '0xaeb9864bfb718818904e9c70e4ab4e52b50b6481'

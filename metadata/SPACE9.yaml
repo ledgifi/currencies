@@ -5,3 +5,5 @@ id_nomics: SPACE9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPACE9.jpg
 logoKey: currencies/space9.jpg
 name: Space
+platform: ETH
+platform_contract: '0x3dc7b06dd0b1f08ef9acbbd2564f8605b4868eea'

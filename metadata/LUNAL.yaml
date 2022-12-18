@@ -3,3 +3,5 @@ fiat: false
 id: LUNAL
 id_nomics: LUNAL
 name: Luna Lock
+platform: ETH
+platform_contract: '0x7ee0af3789046325bbd53269ae4b4a7d268715a7'

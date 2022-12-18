@@ -5,3 +5,5 @@ id_nomics: IDEFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IDEFI.png
 logoKey: currencies/idefi.png
 name: iDeFi
+platform: ETH
+platform_contract: '0x14d10003807ac60d07bb0ba82caeac8d2087c157'

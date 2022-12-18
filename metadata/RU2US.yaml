@@ -3,3 +3,5 @@ fiat: false
 id: RU2US
 id_nomics: RU2US
 name: RUBtoUSD
+platform: BNB
+platform_contract: '0x407f9dc0f113ac06b7463bfb917f8c8eaec9b5b6'

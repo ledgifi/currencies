@@ -6,3 +6,5 @@ id_nomics: FZL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FZL.jpg
 logoKey: currencies/fzl.jpg
 name: FrogZilla
+platform: BNB
+platform_contract: '0x72fd99c313068267d06af74f0f0f5e6697a5f67b'

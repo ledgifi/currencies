@@ -3,3 +3,5 @@ fiat: false
 id: CUBO
 id_nomics: CUBO
 name: CUBO token
+platform: MATIC
+platform_contract: '0x381d168de3991c7413d46e3459b48a5221e3dfe4'

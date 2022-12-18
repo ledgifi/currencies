@@ -5,3 +5,5 @@ id_nomics: MTHDPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTHDPOS.jpg
 logoKey: currencies/mthdpos.jpg
 name: Method Fi (Polygon)
+platform: MATIC
+platform_contract: '0x9bd0463b12b432afbdd6b79ae2032267676ce948'

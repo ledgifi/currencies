@@ -3,3 +3,5 @@ fiat: false
 id: ZOZ
 id_nomics: ZOZ
 name: ZozToken
+platform: ETH
+platform_contract: '0x65adb08beb7454c2cd5dffc271adee9fbf69632b'

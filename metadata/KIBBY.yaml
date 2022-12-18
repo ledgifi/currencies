@@ -5,3 +5,5 @@ id_nomics: KIBBY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KIBBY.jpg
 logoKey: currencies/kibby.jpg
 name: Kibbles Inu
+platform: ETH
+platform_contract: '0xd6fdaae53a89188e18b338a2ad4f8440c634ec39'

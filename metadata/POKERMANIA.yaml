@@ -5,3 +5,5 @@ id_nomics: POKERMANIA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POKERMANIA.jpeg
 logoKey: currencies/pokermania.jpeg
 name: PokerMania
+platform: BNB
+platform_contract: '0xa2660ae2d704eefaddb50c56c708865c6e5c2f69'

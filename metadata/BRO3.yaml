@@ -5,3 +5,5 @@ id_nomics: BRO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRO3.png
 logoKey: currencies/bro3.png
 name: DexBrowser
+platform: FTM
+platform_contract: '0x230576a0455d7ae33c6defe64182c0bb68bafaf3'

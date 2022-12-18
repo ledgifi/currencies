@@ -3,3 +3,5 @@ fiat: false
 id: MACFACTOR
 id_nomics: MACFACTOR
 name: MaxFactor
+platform: ARBETH
+platform_contract: '0x625c63b73ad336809f58192686126f2226ba8a1a'

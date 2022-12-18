@@ -3,3 +3,5 @@ fiat: false
 id: PCG
 id_nomics: PCG
 name: Procedural content generation
+platform: BNB
+platform_contract: '0x68c889960e2dfcece5b790ed5a4f11904dc48956'

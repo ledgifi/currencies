@@ -5,3 +5,5 @@ id_nomics: ASTRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/astro.jpg
 logoKey: currencies/astro.jpg
 name: AstroTokens
+platform: ETH
+platform_contract: '0x7b22938ca841aa392c93dbb7f4c42178e3d65e88'

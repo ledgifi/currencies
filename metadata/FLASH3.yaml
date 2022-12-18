@@ -3,3 +3,5 @@ fiat: false
 id: FLASH3
 id_nomics: FLASH3
 name: FSwap Token
+platform: BNB
+platform_contract: '0x4eb4619e5b6b8eb06b3d10f20828cef00eded20f'

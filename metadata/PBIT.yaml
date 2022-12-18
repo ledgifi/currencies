@@ -5,3 +5,5 @@ id_nomics: PBIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PBIT.png
 logoKey: currencies/pbit.png
 name: PornBit
+platform: BNB
+platform_contract: '0x1d66894a304caf707fa429c6338cd631b039e9ec'

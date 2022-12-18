@@ -5,3 +5,5 @@ id_nomics: COURT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COURT.png
 logoKey: currencies/court.png
 name: OptionRoom Governance Token
+platform: ETH
+platform_contract: '0x0538a9b4f4dcb0cb01a7fa34e17c0ac947c22553'

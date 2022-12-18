@@ -5,3 +5,5 @@ id_nomics: LUCKY8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUCKY8.jpg
 logoKey: currencies/lucky8.jpg
 name: Lucky Cat
+platform: ETH
+platform_contract: '0x8e864054ee1257f03332005105cdf86779e721a4'

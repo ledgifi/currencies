@@ -5,3 +5,5 @@ id_nomics: BABYLLAMA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYLLAMA.png
 logoKey: currencies/babyllama.png
 name: Babyllama
+platform: BNB
+platform_contract: '0xc263bb99fa42c3493a136b9d56388de66f421aea'

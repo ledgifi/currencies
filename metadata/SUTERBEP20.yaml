@@ -3,3 +3,5 @@ fiat: false
 id: SUTERBEP20
 id_nomics: SUTERBEP20
 name: Suterusu (BEP-20)
+platform: BNB
+platform_contract: '0x4cfbbdfbd5bf0814472ff35c72717bd095ada055'

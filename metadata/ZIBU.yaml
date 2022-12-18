@@ -4,3 +4,5 @@ id: ZIBU
 id_nomics: ZIBU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZIBU.png
 name: Zibu
+platform: BNB
+platform_contract: '0x580e2b3170aa36e7018ead248298c8cc18b0f019'

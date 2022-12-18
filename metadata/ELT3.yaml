@@ -5,3 +5,5 @@ id_nomics: ELT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELT3.jpeg
 logoKey: currencies/elt3.jpeg
 name: Eclat
+platform: BNB
+platform_contract: '0xae90ca218f9c3b1aa84af33a7907e4890ec6a167'

@@ -5,3 +5,5 @@ id_nomics: DAPSW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAPSW.jpg
 logoKey: currencies/dapsw.jpg
 name: DAPS Coin Wrapped
+platform: BNB
+platform_contract: '0x8743f476de18e76884c5e6d6dc55e940596ab25d'

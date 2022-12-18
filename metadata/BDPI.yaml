@@ -5,3 +5,5 @@ id_nomics: BDPI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BDPI.jpg
 logoKey: currencies/bdpi.jpg
 name: Interest Bearing Defi Pulse Index
+platform: ETH
+platform_contract: '0x0309c98b1bffa350bcb3f9fb9780970ca32a5060'

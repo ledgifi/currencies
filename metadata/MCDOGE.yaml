@@ -6,3 +6,5 @@ id_nomics: MCDOGE
 logo: https://static.coinpaprika.com/coin/mcdoge-mcdoge/logo.png
 logoKey: currencies/mcdoge.png
 name: McDoge
+platform: ETH
+platform_contract: '0x5fdfe5ee55ae0fb7e0dba3481ea46f22fc92cbbb'

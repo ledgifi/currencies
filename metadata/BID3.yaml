@@ -3,3 +3,5 @@ fiat: false
 id: BID3
 id_nomics: BID3
 name: Bitcoin International Domestique
+platform: ETH
+platform_contract: '0x811817a87f9b9c00621d6a1a9a3cf8ccf10f4e7f'

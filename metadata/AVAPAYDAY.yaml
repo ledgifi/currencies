@@ -3,3 +3,5 @@ fiat: false
 id: AVAPAYDAY
 id_nomics: AVAPAYDAY
 name: Avapayday
+platform: AVAX
+platform_contract: '0x68c71b0481b15cc961ca589f4a156311fa200f7f'

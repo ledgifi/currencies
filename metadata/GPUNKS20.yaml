@@ -5,3 +5,5 @@ id_nomics: GPUNKS20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GPUNKS20.png
 logoKey: currencies/gpunks20.png
 name: Gan Punks
+platform: ETH
+platform_contract: '0xcccbf11ac3030ee8cd7a04cfe15a3718df6dd030'

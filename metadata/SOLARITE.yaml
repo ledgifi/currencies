@@ -6,3 +6,5 @@ id_nomics: SOLARITE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOLARITE.jpg
 logoKey: currencies/solarite.jpg
 name: Solarite
+platform: ETH
+platform_contract: '0x930ed81ad809603baf727117385d01f04354612e'

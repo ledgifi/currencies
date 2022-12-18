@@ -6,3 +6,5 @@ id_nomics: BTC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTC3.jpg
 logoKey: currencies/btc3.jpg
 name: Bitcoin 3
+platform: ETH
+platform_contract: '0xcea83bc11a51cf07eea1286eee099871b428e613'

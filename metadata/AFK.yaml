@@ -5,3 +5,5 @@ id_nomics: AFK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AFK.png
 logoKey: currencies/afk.png
 name: Idle Cyber
+platform: BNB
+platform_contract: '0xba0b46f556633bd742546e4f37d66d416753003b'

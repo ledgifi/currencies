@@ -8,3 +8,5 @@ id_nomics: REQ
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/req.svg
 logoKey: currencies/req.svg
 name: Request Network
+platform: ETH
+platform_contract: '0x8f8221afbb33998d8584a2b05749ba73c37a938a'

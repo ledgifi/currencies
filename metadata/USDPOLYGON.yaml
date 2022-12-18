@@ -3,3 +3,5 @@ fiat: false
 id: USDPOLYGON
 id_nomics: USDPOLYGON
 name: USD Polygon
+platform: MATIC
+platform_contract: '0x2da87a4e6c9922a9c4508552dc3ba0a667416eff'

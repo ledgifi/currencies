@@ -3,3 +3,5 @@ fiat: false
 id: TWDC
 id_nomics: TWDC
 name: New Taiwan Dollar Coin
+platform: MATIC
+platform_contract: '0xffbe4646e4ab8e7138759748d999eb2636787eef'

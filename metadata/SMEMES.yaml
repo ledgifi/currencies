@@ -5,3 +5,5 @@ id_nomics: SMEMES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMEMES.jpg
 logoKey: currencies/smemes.jpg
 name: StrangerMemes
+platform: BNB
+platform_contract: '0x69133dcd45e577b6da394858885e4a60505f48a4'

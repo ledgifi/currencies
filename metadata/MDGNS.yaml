@@ -3,3 +3,5 @@ fiat: false
 id: MDGNS
 id_nomics: MDGNS
 name: Mini Degens
+platform: BNB
+platform_contract: '0x084d31510aa511b052f16bb031fdbcae6fa8774b'

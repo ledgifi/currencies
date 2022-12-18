@@ -3,3 +3,5 @@ fiat: false
 id: CSDAO
 id_nomics: CSDAO
 name: ConsensusToken
+platform: BNB
+platform_contract: '0xff2e19b37606b1609912538ca9227f85e231b64e'

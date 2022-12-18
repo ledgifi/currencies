@@ -8,3 +8,5 @@ id_nomics: RENBTC
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201109/0fbd66ed-2153-405e-b0d3-e793a361392a.png
 logoKey: currencies/renbtc.png
 name: renBTC
+platform: ETH
+platform_contract: '0xeb4c2781e4eba804ce9a9803c67d0893436bb27d'

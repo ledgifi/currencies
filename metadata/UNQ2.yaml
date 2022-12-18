@@ -5,3 +5,5 @@ id_nomics: UNQ2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNQ2.jpeg
 logoKey: currencies/unq2.jpeg
 name: UNIQ
+platform: ETH
+platform_contract: '0x50671EE126d1b4E7E8a2ed14bA7455F8c95a69A5'

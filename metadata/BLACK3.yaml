@@ -5,3 +5,5 @@ id_nomics: BLACK3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLACK3.jpg
 logoKey: currencies/black3.jpg
 name: Squid Black
+platform: BNB
+platform_contract: '0x01733239a4179bec3a14fa2d34a03c7ab6f580e6'

@@ -5,3 +5,5 @@ id_nomics: HAL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HAL2.png
 logoKey: currencies/hal2.png
 name: Hailey's NFT
+platform: BNB
+platform_contract: '0x593e732de95ba8471c77d6a6718d5f49cbc13c7e'

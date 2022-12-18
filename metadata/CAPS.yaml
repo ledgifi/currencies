@@ -6,3 +6,5 @@ id_nomics: CAPS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAPS.jpg
 logoKey: currencies/caps.jpg
 name: Ternoa
+platform: ETH
+platform_contract: '0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2'

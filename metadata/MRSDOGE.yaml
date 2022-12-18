@@ -5,3 +5,5 @@ id_nomics: MRSDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MRSDOGE.jpg
 logoKey: currencies/mrsdoge.jpg
 name: Dogette
+platform: BNB
+platform_contract: '0x986eedb84a934c81edc0a080d03c6e3c1d7a8399'

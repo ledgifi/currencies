@@ -5,3 +5,5 @@ id_nomics: GOAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOAT.png
 logoKey: currencies/goat.png
 name: Goat Cash
+platform: ETH
+platform_contract: '0x9f452e458b024e82d6e3ff50a07b8de74c988523'

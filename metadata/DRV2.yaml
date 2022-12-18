@@ -5,3 +5,5 @@ id_nomics: DRV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRV2.jpg
 logoKey: currencies/drv2.jpg
 name: Dragon Verse
+platform: BNB
+platform_contract: '0xcd9442d70eb0e6ecf26919e62278fc4fd24c3ed2'

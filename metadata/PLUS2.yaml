@@ -5,3 +5,5 @@ id_nomics: PLUS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLUS2.jpg
 logoKey: currencies/plus2.jpg
 name: PlusPad
+platform: BNB
+platform_contract: '0xecdbf2fec71ce3007b8fb7b5b46f946d60ba5a05'

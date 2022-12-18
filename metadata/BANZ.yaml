@@ -3,3 +3,5 @@ fiat: false
 id: BANZ
 id_nomics: BANZ
 name: Ban Z Token
+platform: ETH
+platform_contract: '0x103e2932c8f0056db13ac1d2603949fd85206946'

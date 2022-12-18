@@ -6,3 +6,5 @@ id_nomics: YFBETA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFBETA.jpg
 logoKey: currencies/yfbeta.jpg
 name: yfBeta
+platform: ETH
+platform_contract: '0x89ee58af4871b474c30001982c3d7439c933c838'

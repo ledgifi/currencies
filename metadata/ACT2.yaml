@@ -5,3 +5,5 @@ id_nomics: ACT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACT2.jpg
 logoKey: currencies/act2.jpg
 name: Acet Token
+platform: BNB
+platform_contract: '0x9f3bcbe48e8b754f331dfc694a894e8e686ac31d'

@@ -6,3 +6,5 @@ id_nomics: QCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QCH.png
 logoKey: currencies/qch.png
 name: QChi
+platform: ETH
+platform_contract: '0x687bfc3e73f6af55f0ccca8450114d107e781a0e'

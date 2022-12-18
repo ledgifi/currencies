@@ -5,3 +5,5 @@ id_nomics: ZENDOR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZENDOR.jpg
 logoKey: currencies/zendor.jpg
 name: God Of Pump
+platform: ETH
+platform_contract: '0x2a06b59d35db5668e8914886943a4643e88c76f3'

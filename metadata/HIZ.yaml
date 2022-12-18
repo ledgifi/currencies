@@ -5,3 +5,5 @@ id_nomics: HIZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HIZ.png
 logoKey: currencies/hiz.png
 name: Hiz Finance
+platform: ETH
+platform_contract: '0xc761d1ccb38a94703675d2cdb15f7f1b3dcff7b7'

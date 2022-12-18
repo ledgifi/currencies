@@ -6,3 +6,5 @@ id_nomics: CATF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CATF.jpeg
 logoKey: currencies/catf.jpeg
 name: Catfish Coin
+platform: BNB
+platform_contract: '0x69b7c834c5c404770d994202aebee4f25bd17b4b'

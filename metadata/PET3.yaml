@@ -5,3 +5,5 @@ id_nomics: PET3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PET3.jpg
 logoKey: currencies/pet3.jpg
 name: Peace Token
+platform: BNB
+platform_contract: '0x9ca00f0b5562914bcd84ca6e0132cae295cc84b7'

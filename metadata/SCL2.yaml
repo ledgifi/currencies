@@ -5,3 +5,5 @@ id_nomics: SCL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCL2.jpg
 logoKey: currencies/scl2.jpg
 name: Securial Protocol
+platform: BNB
+platform_contract: '0x806f8c79875ece66d13cc069fb5bae20511f9ba9'

@@ -5,3 +5,5 @@ id_nomics: CDEX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CDEX2.jpg
 logoKey: currencies/cdex2.jpg
 name: CDEX Token
+platform: ETH
+platform_contract: '0x6b6bcb3a53597075474183e344448e06bc0d5fdc'

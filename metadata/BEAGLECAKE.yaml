@@ -6,3 +6,5 @@ id_nomics: BEAGLECAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEAGLECAKE.jpg
 logoKey: currencies/beaglecake.jpg
 name: BeagleCake
+platform: BNB
+platform_contract: '0xe7244e92956428a058c37557551ecfdfd54890ac'

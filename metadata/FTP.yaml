@@ -3,3 +3,5 @@ fiat: false
 id: FTP
 id_nomics: FTP
 name: FTP
+platform: HT
+platform_contract: '0x6d15fbfacd798ec1b09a9d92026fd41dc3afc69c'

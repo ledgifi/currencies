@@ -5,3 +5,5 @@ id_nomics: BONK3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BONK3.jpg
 logoKey: currencies/bonk3.jpg
 name: Bonk Inu
+platform: BNB
+platform_contract: '0xd3F6D3937222E2255c35B428b79Db126BA795a10'

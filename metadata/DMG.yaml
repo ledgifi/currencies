@@ -6,3 +6,5 @@ id_nomics: DMG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DMG.jpg
 logoKey: currencies/dmg.jpg
 name: DMM Governance
+platform: ETH
+platform_contract: '0xed91879919b71bb6905f23af0a68d231ecf87b14'

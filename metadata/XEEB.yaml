@@ -6,3 +6,5 @@ id_nomics: XEEB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XEEB.jpg
 logoKey: currencies/xeeb.jpg
 name: Xeebster
+platform: BNB
+platform_contract: '0xfae5a913fac73ef8ed647e53dc42d2febc9ea6c9'

@@ -3,3 +3,5 @@ fiat: false
 id: CHIP
 id_nomics: CHIP
 name: ChipCoin
+platform: ETH
+platform_contract: '0x86aa993fdb0a60c2d548256a862258ab5d352fab'

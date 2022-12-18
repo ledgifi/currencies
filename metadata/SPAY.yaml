@@ -5,3 +5,5 @@ id_nomics: SPAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPAY.png
 logoKey: currencies/spay.png
 name: SYNAPSE PAY
+platform: BNB
+platform_contract: '0x606645e29d9e7c8b83a545f346b377adf089d6eb'

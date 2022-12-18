@@ -6,3 +6,5 @@ id_nomics: DICASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DICASH.png
 logoKey: currencies/dicash.png
 name: Dinheirus.Cash
+platform: BNB
+platform_contract: '0xe03b91172f5161064eae471e1c05d4912fce1db3'

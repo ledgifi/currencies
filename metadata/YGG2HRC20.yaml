@@ -5,3 +5,5 @@ id_nomics: YGG2HRC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YGG2HRC20.jpg
 logoKey: currencies/ygg2hrc20.jpg
 name: Yield Guild Games (Harmony)
+platform: HARMONY
+platform_contract: '0x63cf309500d8be0B9fDB8F1fb66C821236c0438c'

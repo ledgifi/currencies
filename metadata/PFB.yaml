@@ -6,3 +6,5 @@ id_nomics: PFB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PFB.png
 logoKey: currencies/pfb.png
 name: Penny For Bit
+platform: ETH
+platform_contract: '0x46760d2bf2f4dd5405646d9b2ce7b723efe74a48'

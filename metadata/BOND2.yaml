@@ -5,3 +5,5 @@ id_nomics: BOND2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOND2.jpg
 logoKey: currencies/bond2.jpg
 name: Bonded Finance
+platform: ETH
+platform_contract: '0x5dc02ea99285e17656b8350722694c35154db1e8'

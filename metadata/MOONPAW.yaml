@@ -6,3 +6,5 @@ id_nomics: MOONPAW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOONPAW.jpg
 logoKey: currencies/moonpaw.jpg
 name: MoonPaw
+platform: BNB
+platform_contract: '0x139b2c2c6dd8ee165d41788877df5b2ef74b1ff1'

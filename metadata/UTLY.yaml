@@ -3,3 +3,5 @@ fiat: false
 id: UTLY
 id_nomics: UTLY
 name: Utility Token
+platform: BNB
+platform_contract: '0x6fbd68e0ed90e5f389cf6611668bbde65ef2ad2b'

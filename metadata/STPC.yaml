@@ -5,3 +5,5 @@ id_nomics: STPC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STPC.jpg
 logoKey: currencies/stpc.jpg
 name: StarPlay
+platform: ETH
+platform_contract: '0x3fb8d8a28aff053ccf446bc075eecb7a0ef65d0c'

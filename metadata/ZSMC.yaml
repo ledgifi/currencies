@@ -3,3 +3,5 @@ fiat: false
 id: ZSMC
 id_nomics: ZSMC
 name: ZSMC
+platform: BNB
+platform_contract: '0x7ec1e49e7b16f804f4ef716e96fa3a79b89850c0'

@@ -5,3 +5,5 @@ id_nomics: ACID2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACID2.png
 logoKey: currencies/acid2.png
 name: AcidX
+platform: BNB
+platform_contract: '0xb83b867dee9a55b1e9761f75342312a2eaa05fea'

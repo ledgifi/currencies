@@ -5,3 +5,5 @@ id_nomics: PFC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PFC2.jpeg
 logoKey: currencies/pfc2.jpeg
 name: Pafetcoin
+platform: BNB
+platform_contract: '0x7702db9533e02f7ed83903a7f78762913bb44231'

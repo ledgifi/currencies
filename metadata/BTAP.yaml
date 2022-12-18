@@ -5,3 +5,5 @@ id_nomics: BTAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTAP.jpg
 logoKey: currencies/btap.jpg
 name: BTA Protocol
+platform: ETH
+platform_contract: '0x270371c58d9d775ed73971dd414656107384f235'

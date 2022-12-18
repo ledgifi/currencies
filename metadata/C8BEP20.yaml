@@ -5,3 +5,5 @@ id_nomics: C8BEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/C8BEP20.jpg
 logoKey: currencies/c8bep20.jpg
 name: Carboneum (BEP-20)
+platform: BNB
+platform_contract: '0x5cb09911c7bea3396b4b0e997471a4989d65c2da'

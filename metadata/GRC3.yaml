@@ -5,3 +5,5 @@ id_nomics: GRC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GRC3.jpg
 logoKey: currencies/grc3.jpg
 name: Green Flow
+platform: ETH
+platform_contract: '0x46d886887b6908183032c75dee1b731b26d653c6'

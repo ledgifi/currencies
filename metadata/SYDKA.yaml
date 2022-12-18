@@ -6,3 +6,5 @@ id_nomics: SYDKA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SYDKA.jpeg
 logoKey: currencies/sydka.jpeg
 name: Sydka
+platform: BNB
+platform_contract: '0xda01d3d7f6b7d7d314e038bda5c950aa3b7f2179'

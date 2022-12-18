@@ -5,3 +5,5 @@ id_nomics: PPM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PPM2.jpg
 logoKey: currencies/ppm2.jpg
 name: PunkPanda
+platform: BNB
+platform_contract: '0xee246aa7e2ecf136466c6fe4808f395861c6a04e'

@@ -3,3 +3,5 @@ fiat: false
 id: DOL
 id_nomics: DOL
 name: Dolphinal
+platform: BNB
+platform_contract: '0x715b4573d7922aca78ce471dbea97d2eb4261f41'

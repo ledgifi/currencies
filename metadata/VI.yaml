@@ -6,3 +6,5 @@ id_nomics: VI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VI.jpg
 logoKey: currencies/vi.jpg
 name: Vid
+platform: ETH
+platform_contract: '0x8b6c3b7c01d9db4393f9aa734750f36df1543e9a'

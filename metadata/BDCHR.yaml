@@ -5,3 +5,5 @@ id_nomics: BDCHR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BDCHR.jpg
 logoKey: currencies/bdchr.jpg
 name: BADCHAR
+platform: BNB
+platform_contract: '0x141523c9c07a1ef060d9ba4c86e25564865fd3e3'

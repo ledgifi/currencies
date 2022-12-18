@@ -6,3 +6,5 @@ id_nomics: FOMOZILLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOMOZILLA.jpg
 logoKey: currencies/fomozilla.jpg
 name: FomoZilla
+platform: BNB
+platform_contract: '0x1f37cae0e132f53a49323465499facb384dc7800'

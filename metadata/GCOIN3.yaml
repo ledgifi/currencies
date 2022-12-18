@@ -5,3 +5,5 @@ id_nomics: GCOIN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GCOIN3.png
 logoKey: currencies/gcoin3.png
 name: GorillaCoin
+platform: BNB
+platform_contract: '0x10bc992e6f87d3a9b0c8a3689e0576e92919090e'

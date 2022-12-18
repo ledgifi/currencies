@@ -6,3 +6,5 @@ id_nomics: ULTBNB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ULTBNB.jpeg
 logoKey: currencies/ultbnb.jpeg
 name: UltimateBNB
+platform: BNB
+platform_contract: '0xc4b7a73e5b1a3ab0fcb72872e04157af9c581faf'

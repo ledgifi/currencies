@@ -5,3 +5,5 @@ id_nomics: PDL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PDL.jpg
 logoKey: currencies/pdl.jpg
 name: Padlock Token
+platform: BNB
+platform_contract: '0x16ecb992fb60def293dd6023e1f96ea39a73c194'

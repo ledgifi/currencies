@@ -5,3 +5,5 @@ id_nomics: SWM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/swm.png
 logoKey: currencies/swm.png
 name: Swarm Fund Token
+platform: ETH
+platform_contract: '0x3505f494c3f0fed0b594e01fa41dd3967645ca39'

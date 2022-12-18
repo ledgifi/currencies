@@ -3,3 +3,5 @@ fiat: false
 id: ETHMOON
 id_nomics: ETHMOON
 name: 10X Long Ethereum Token
+platform: ETH
+platform_contract: '0x5dcfa62f81b43ce7a3632454d327dee1f1d93b28'

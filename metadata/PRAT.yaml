@@ -5,3 +5,5 @@ id_nomics: PRAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRAT.png
 logoKey: currencies/prat.png
 name: Parrot Token
+platform: BNB
+platform_contract: '0x24089C49536B4590fb2069c7F9F91d7d297b2590'

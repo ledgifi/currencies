@@ -3,3 +3,5 @@ fiat: false
 id: BONNY
 id_nomics: BONNY
 name: Bonny Network
+platform: ETH
+platform_contract: '0x2007484f0822a11d01d96bf2bdb061293c64d514'

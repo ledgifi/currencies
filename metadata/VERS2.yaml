@@ -5,3 +5,5 @@ id_nomics: VERS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VERS2.jpeg
 logoKey: currencies/vers2.jpeg
 name: VERSEMALL
+platform: BNB
+platform_contract: '0xd9259f16bd1d4eb2bbd393717c48ec609f831390'

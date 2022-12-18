@@ -6,3 +6,5 @@ id_nomics: 8PAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/8PAY.jpg
 logoKey: currencies/8pay.jpg
 name: 8Pay
+platform: ETH
+platform_contract: '0xfeea0bdd3d07eb6fe305938878c0cadbfa169042'

@@ -5,3 +5,5 @@ id_nomics: TRUNK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRUNK.png
 logoKey: currencies/trunk.png
 name: Elephant Money Stable
+platform: BNB
+platform_contract: '0xdd325C38b12903B727D16961e61333f4871A70E0'

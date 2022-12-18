@@ -5,3 +5,5 @@ id_nomics: GENIM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GENIM.jpeg
 logoKey: currencies/genim.jpeg
 name: GenshinImpact
+platform: ETH
+platform_contract: '0x237c9e8a085663ebaa22a600c1b9846fb529e900'

@@ -5,3 +5,5 @@ id_nomics: REEFBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REEFBEP20.jpg
 logoKey: currencies/reefbep20.jpg
 name: Reef Finance (BEP-20)
+platform: BNB
+platform_contract: '0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e'

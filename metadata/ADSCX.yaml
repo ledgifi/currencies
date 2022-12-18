@@ -5,3 +5,5 @@ id_nomics: ADSCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADSCX.jpg
 logoKey: currencies/adscx.jpg
 name: Adidas AG Token
+platform: ETH
+platform_contract: '0x68cbc28321666cf93d933c495631e81051fe656e'

@@ -5,3 +5,5 @@ id_nomics: LAROJA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LAROJA.png
 logoKey: currencies/laroja.png
 name: LA ROJA Fan Token
+platform: BNB
+platform_contract: '0x541a3862072ae818e1390b4483e14e47975c5cf9'

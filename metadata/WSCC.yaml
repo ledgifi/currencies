@@ -5,3 +5,5 @@ id_nomics: WSCC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WSCC.jpeg
 logoKey: currencies/wscc.jpeg
 name: WangSiCong Coin
+platform: BNB
+platform_contract: '0xfebea420cae46621f095de046c2c2386dfa9f941'

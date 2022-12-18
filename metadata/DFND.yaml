@@ -6,3 +6,5 @@ id_nomics: DFND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DFND.jpg
 logoKey: currencies/dfnd.jpg
 name: dFund
+platform: ETH
+platform_contract: '0xd2adc1c84443ad06f0017adca346bd9b6fc52cab'

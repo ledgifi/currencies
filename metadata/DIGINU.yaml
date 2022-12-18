@@ -6,3 +6,5 @@ id_nomics: DIGINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DIGINU.jpg
 logoKey: currencies/diginu.jpg
 name: Diginu
+platform: ETH
+platform_contract: '0x31bfde4d0fbf3fa89b230d370e3b206e67ef8b15'

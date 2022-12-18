@@ -5,3 +5,5 @@ id_nomics: KPX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KPX.jpg
 logoKey: currencies/kpx.jpg
 name: KAPEX
+platform: ETH
+platform_contract: '0x8c4ed3b546fcd99d1e8f0d839d35ddb4b93525de'

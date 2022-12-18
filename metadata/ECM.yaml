@@ -5,3 +5,5 @@ id_nomics: ECM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECM.png
 logoKey: currencies/ecm.png
 name: Ezcoinmarket
+platform: BNB
+platform_contract: '0x87e837803513e8c735a4ec1bcbf97bc3050f41a5'

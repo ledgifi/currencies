@@ -3,3 +3,5 @@ fiat: false
 id: MTC7
 id_nomics: MTC7
 name: Metacoin
+platform: BNB
+platform_contract: '0x99408485dcb3af2d02660a33983112bdb920eeb2'

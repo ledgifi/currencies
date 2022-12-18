@@ -5,3 +5,5 @@ id_nomics: CTX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ctx.svg
 logoKey: currencies/ctx.svg
 name: CarTaxi Token
+platform: ETH
+platform_contract: '0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66'

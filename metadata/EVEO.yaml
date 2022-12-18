@@ -5,3 +5,5 @@ id_nomics: EVEO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVEO.png
 logoKey: currencies/eveo.png
 name: EVERY ORIGINAL
+platform: ETH
+platform_contract: '0x6b40d317bc1de4b0938519ac707ae36464f49171'

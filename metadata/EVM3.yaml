@@ -4,3 +4,5 @@ id: EVM3
 id_nomics: EVM3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVM3.jpg
 name: Evereum Coin
+platform: BNB
+platform_contract: '0xe0d9b579357f3a17c24049a0ae1b1d3de6e415b6'

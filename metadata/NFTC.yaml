@@ -6,3 +6,5 @@ id_nomics: NFTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTC.png
 logoKey: currencies/nftc.png
 name: NFTCircle
+platform: BNB
+platform_contract: '0x2efcdd1383eae3af14d785dcc65d6b865b562312'

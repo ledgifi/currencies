@@ -5,3 +5,5 @@ id_nomics: SC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SC4.jpg
 logoKey: currencies/sc4.jpg
 name: SilverCoin
+platform: BNB
+platform_contract: '0x09d9963def672b1d4be8f1bc0ec1d3f30b380f5e'

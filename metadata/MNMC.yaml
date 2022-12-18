@@ -5,3 +5,5 @@ id_nomics: MNMC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MNMC.jpg
 logoKey: currencies/mnmc.jpg
 name: MNMCoin
+platform: ETH
+platform_contract: '0xf45091f25d374bbe956c0bb64bb85e02d07aa741'

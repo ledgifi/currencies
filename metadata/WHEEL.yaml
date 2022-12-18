@@ -6,3 +6,5 @@ id_nomics: WHEEL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WHEEL.jpg
 logoKey: currencies/wheel.jpg
 name: Wheelers
+platform: BNB
+platform_contract: '0xb4b42d968cbf9e7d07eca5f03f8b4d99dfd7f7c9'

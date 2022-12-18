@@ -5,3 +5,5 @@ id_nomics: LK3R
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LK3R.jpg
 logoKey: currencies/lk3r.jpg
 name: Lock3r
+platform: ETH
+platform_contract: '0xe3f3869ddd41c23eff3630f58e5bfa584c770d67'

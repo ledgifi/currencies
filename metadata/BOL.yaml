@@ -5,3 +5,5 @@ id_nomics: BOL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOL.jpeg
 logoKey: currencies/bol.jpeg
 name: Boltr
+platform: MATIC
+platform_contract: '0x8b661d59f1923b138e0048ff5ed5b8fef6f9e5cf'

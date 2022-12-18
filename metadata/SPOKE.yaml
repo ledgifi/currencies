@@ -3,3 +3,5 @@ fiat: false
 id: SPOKE
 id_nomics: SPOKE
 name: SPOKE
+platform: ETH
+platform_contract: '0x2c826967667fd4cffd15c3b02095135e7627f9ea'

@@ -5,3 +5,5 @@ id_nomics: PI3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PI3.jpg
 logoKey: currencies/pi3.jpg
 name: Pi Futures
+platform: ETH
+platform_contract: '0xe875c61d4721424a6988e5fa2dfb8d6ca6af5c64'

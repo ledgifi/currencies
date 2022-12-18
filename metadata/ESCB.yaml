@@ -5,3 +5,5 @@ id_nomics: ESCB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ESCB.png
 logoKey: currencies/escb.png
 name: EscrowBlock
+platform: ETH
+platform_contract: '0x5e365a320779acc2c72f5dcd2ba8a81e4a34569f'

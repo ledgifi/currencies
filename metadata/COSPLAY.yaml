@@ -5,3 +5,5 @@ id_nomics: COSPLAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COSPLAY.PNG
 logoKey: currencies/cosplay.png
 name: Cosplay Token
+platform: ETH
+platform_contract: '0xed64142f7d0a4d94ce0e7fe45d12f712fe360bd0'

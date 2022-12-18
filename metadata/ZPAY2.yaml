@@ -5,3 +5,5 @@ id_nomics: ZPAY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZPAY2.jpg
 logoKey: currencies/zpay2.jpg
 name: ZoidPay
+platform: TOMO
+platform_contract: '0xe1a9a5fae06696d314994a9d6915c12a63ad055d'

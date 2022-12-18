@@ -5,3 +5,5 @@ id_nomics: RISING
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RISING.jpeg
 logoKey: currencies/rising.jpeg
 name: Rising Bird
+platform: BNB
+platform_contract: '0x694499c5e851405ed9824e5772b3b1a03387bcf0'

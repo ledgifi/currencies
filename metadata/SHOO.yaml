@@ -5,3 +5,5 @@ id_nomics: SHOO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHOO.jpg
 logoKey: currencies/shoo.jpg
 name: SHOOT
+platform: BNB
+platform_contract: '0x0fcc11f873360450a1afd8cb7cfe0a9d787cc25e'

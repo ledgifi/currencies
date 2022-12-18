@@ -5,3 +5,5 @@ id_nomics: LOVO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOVO.png
 logoKey: currencies/lovo.png
 name: LOVO
+platform: MATIC
+platform_contract: '0x6781a980e982cc51b8db32061e5797bbc07e5a7d'

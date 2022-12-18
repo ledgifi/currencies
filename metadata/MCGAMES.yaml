@@ -5,3 +5,5 @@ id_nomics: MCGAMES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCGAMES.jpg
 logoKey: currencies/mcgames.jpg
 name: MC Games
+platform: BNB
+platform_contract: '0xc2a18c458f17f93e27e8c63113d691f4b5725797'

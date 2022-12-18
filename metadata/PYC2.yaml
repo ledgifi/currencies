@@ -5,3 +5,5 @@ id_nomics: PYC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PYC2.jpeg
 logoKey: currencies/pyc2.jpeg
 name: PigeYachtClub
+platform: BNB
+platform_contract: '0x51eda40e4b83918847334c8974fedaa8ea474453'

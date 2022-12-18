@@ -5,3 +5,5 @@ id_nomics: ALIENS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALIENS.png
 logoKey: currencies/aliens.png
 name: CyberAliens
+platform: MATIC
+platform_contract: '0x8d619b97902902dfdee3470e5c381cbaa075f2bb'

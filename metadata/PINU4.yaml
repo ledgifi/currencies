@@ -5,3 +5,5 @@ id_nomics: PINU4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PINU4.jpg
 logoKey: currencies/pinu4.jpg
 name: Piccolo Inu
+platform: ETH
+platform_contract: '0x3a1311b8c404629e38f61d566cefefed083b9670'

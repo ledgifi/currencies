@@ -5,3 +5,5 @@ id_nomics: BLN4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLN4.png
 logoKey: currencies/bln4.png
 name: Balance Network
+platform: BNB
+platform_contract: '0xe90334c19c798c3a18d81b8cd16594247d5b19dd'

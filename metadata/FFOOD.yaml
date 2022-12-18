@@ -3,3 +3,5 @@ fiat: false
 id: FFOOD
 id_nomics: FFOOD
 name: RatAlert FastFood
+platform: MATIC
+platform_contract: '0x2721d859ee8d03599f628522d30f14d516502944'

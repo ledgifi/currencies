@@ -6,3 +6,5 @@ id_nomics: ANONS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANONS.jpg
 logoKey: currencies/anons.jpg
 name: Anons Network
+platform: ETH
+platform_contract: '0xc74cb1bbc2a1bc6e0c9e35ee176f832ad7cdb3ab'

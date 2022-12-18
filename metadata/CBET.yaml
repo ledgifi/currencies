@@ -5,3 +5,5 @@ id_nomics: CBET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBET.jpg
 logoKey: currencies/cbet.jpg
 name: CryptoBet
+platform: ETH
+platform_contract: '0x35dd2ebf20746c6e658fac75cd80d4722fae62f6'

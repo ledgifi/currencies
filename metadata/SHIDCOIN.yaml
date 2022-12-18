@@ -3,3 +3,5 @@ fiat: false
 id: SHIDCOIN
 id_nomics: SHIDCOIN
 name: ShiDogCoin
+platform: ETH
+platform_contract: '0x5fcc2a5fc914867ac59a19b208caaf250128bbfc'

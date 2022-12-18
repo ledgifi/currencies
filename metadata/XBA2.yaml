@@ -5,3 +5,5 @@ id_nomics: XBA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XBA2.jpg
 logoKey: currencies/xba2.jpg
 name: XBank
+platform: BNB
+platform_contract: '0x40c0ba4e74d9b95f2647526ee35d6e756fa8bf09'

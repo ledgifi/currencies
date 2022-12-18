@@ -3,3 +3,5 @@ fiat: false
 id: MICROV
 id_nomics: MICROV
 name: Microv Token
+platform: ETH
+platform_contract: '0x04c3838b6a7a08c97921f588a096beb078b35658'

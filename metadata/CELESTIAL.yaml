@@ -3,3 +3,5 @@ fiat: false
 id: CELESTIAL
 id_nomics: CELESTIAL
 name: Celestial Token
+platform: ETH
+platform_contract: '0x6e9a2c0c5001c83a223320c4ac1eb8e06123b241'

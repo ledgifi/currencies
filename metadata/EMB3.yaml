@@ -5,3 +5,5 @@ id_nomics: EMB3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EMB3.jpg
 logoKey: currencies/emb3.jpg
 name: Overline Emblem
+platform: ETH
+platform_contract: '0xdb0acc14396d108b3c5574483acb817855c9dc8d'

@@ -5,3 +5,5 @@ id_nomics: SCBD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCBD.jpg
 logoKey: currencies/scbd.jpg
 name: sCBD
+platform: BNB
+platform_contract: '0x7a0ffa3db812701e711fc38eacb99675352f31be'

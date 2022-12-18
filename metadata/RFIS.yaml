@@ -5,3 +5,5 @@ id_nomics: RFIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RFIS.jpg
 logoKey: currencies/rfis.jpg
 name: rFIS
+platform: ETH
+platform_contract: '0xc82eb6dea0c93edb8b697b89ad1b13d19469d635'

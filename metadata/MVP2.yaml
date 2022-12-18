@@ -5,3 +5,5 @@ id_nomics: MVP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MVP2.jpg
 logoKey: currencies/mvp2.jpg
 name: MVP
+platform: ETH
+platform_contract: '0x65fc94d99cb301c5630c485d312e6ff5edde13d0'

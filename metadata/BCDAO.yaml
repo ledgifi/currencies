@@ -3,3 +3,5 @@ fiat: false
 id: BCDAO
 id_nomics: BCDAO
 name: Blue Chips DAO
+platform: ETH
+platform_contract: '0x077cb6388eac2cee048ecded2c9ce922b42785b2'

@@ -3,3 +3,5 @@ fiat: false
 id: PATA
 id_nomics: PATA
 name: Pata Dao
+platform: ETH
+platform_contract: '0x49b9eb5eac9ce2b4dd051b032addfc63b3cb486d'

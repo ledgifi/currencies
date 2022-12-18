@@ -5,3 +5,5 @@ id_nomics: LC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LC5.jpg
 logoKey: currencies/lc5.jpg
 name: Light Year
+platform: BNB
+platform_contract: '0x39bd64e5b9e025b0c8d91ee2cfec9125a388894b'

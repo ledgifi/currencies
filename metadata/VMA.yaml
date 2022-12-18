@@ -3,3 +3,5 @@ fiat: false
 id: VMA
 id_nomics: VMA
 name: VMA
+platform: BNB
+platform_contract: '0xf8a8a4086b545f38cd558b583680e91dc86d48c7'

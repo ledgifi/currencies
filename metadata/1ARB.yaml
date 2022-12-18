@@ -3,3 +3,5 @@ fiat: false
 id: 1ARB
 id_nomics: 1ARB
 name: OneArb
+platform: ARBETH
+platform_contract: '0x5e0072361efbba618f3685f3d8163a7313d11589'

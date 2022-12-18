@@ -5,3 +5,5 @@ id_nomics: KTT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KTT.jpg
 logoKey: currencies/ktt.jpg
 name: Kringle Trade Token
+platform: ETH
+platform_contract: '0xca24db399ffc8f33aaefa4926c9de3f58d1da63d'

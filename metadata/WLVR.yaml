@@ -6,3 +6,5 @@ id_nomics: WLVR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WLVR.jpg
 logoKey: currencies/wlvr.jpg
 name: Wolverine
+platform: BNB
+platform_contract: '0xbe6de6b614b079236839404440e3e8867b5d6751'

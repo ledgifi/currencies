@@ -3,3 +3,5 @@ fiat: false
 id: AVOCADO
 id_nomics: AVOCADO
 name: Avocado
+platform: ETH
+platform_contract: '0x7930d45a9ed754396da3a0c864f951ae84ceaa35'

@@ -3,3 +3,5 @@ fiat: false
 id: SDOG2
 id_nomics: SDOG2
 name: SafeDog
+platform: ETH
+platform_contract: '0x7eb99dcce2dcbf341bb620d6f29c091e390b9e25'

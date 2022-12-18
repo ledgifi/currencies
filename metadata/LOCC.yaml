@@ -5,3 +5,5 @@ id_nomics: LOCC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOCC.jpg
 logoKey: currencies/locc.jpg
 name: Low Orbit Crypto Cannon
+platform: ETH
+platform_contract: '0x556938621c19e5eae58c94a806da9d237b969bd8'

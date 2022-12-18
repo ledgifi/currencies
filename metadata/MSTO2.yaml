@@ -3,3 +3,5 @@ fiat: false
 id: MSTO2
 id_nomics: MSTO2
 name: Millennium Sapphire
+platform: ETH
+platform_contract: '0x8d26cca0d58913932157dd4b294d4c95066172df'

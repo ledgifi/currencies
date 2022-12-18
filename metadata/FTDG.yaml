@@ -5,3 +5,5 @@ id_nomics: FTDG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FTDG.jpg
 logoKey: currencies/ftdg.jpg
 name: Fifty Dogge
+platform: ETH
+platform_contract: '0x54a0f63a8840aa703c4474ea624ea7fa556c6ed0'

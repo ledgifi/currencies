@@ -3,3 +3,5 @@ fiat: false
 id: SHIBUGOLD
 id_nomics: SHIBUGOLD
 name: Shibu.gold
+platform: ETH
+platform_contract: '0x303a84064dff4c685846fe3d37e63dfbfe1a989b'

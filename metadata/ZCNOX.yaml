@@ -6,3 +6,5 @@ id_nomics: ZCNOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZCNOX.jpg
 logoKey: currencies/zcnox.jpg
 name: ZCNOX Coin
+platform: ETH
+platform_contract: '0x8b83116e05f722554e1089b9850e731ee20dd692'

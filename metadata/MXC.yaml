@@ -6,3 +6,5 @@ id_nomics: MXC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/mxc.jpg
 logoKey: currencies/mxc.jpg
 name: Machine Xchange Coin
+platform: ETH
+platform_contract: '0x5ca381bbfb58f0092df149bd3d243b08b9a8386e'

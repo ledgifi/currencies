@@ -3,3 +3,5 @@ fiat: false
 id: FBUSDT
 id_nomics: FBUSDT
 name: Floki_USDT
+platform: BNB
+platform_contract: '0x338d8ae71e01631dd5fb9a082ac29e4193ab44c6'

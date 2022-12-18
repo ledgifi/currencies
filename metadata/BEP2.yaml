@@ -5,3 +5,5 @@ id_nomics: BEP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEP2.jpeg
 logoKey: currencies/bep2.jpeg
 name: Blue Earth Protocol
+platform: BNB
+platform_contract: '0x869d01f9dad52a6c975a65d1834b0923f43d1d7e'

@@ -6,3 +6,5 @@ id_nomics: XBP
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/xbp.svg
 logoKey: currencies/xbp.svg
 name: BlitzPredict
+platform: ETH
+platform_contract: '0x28dee01d53fed0edf5f6e310bf8ef9311513ae40'

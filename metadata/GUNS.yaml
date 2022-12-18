@@ -5,3 +5,5 @@ id_nomics: GUNS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GUNS.jpg
 logoKey: currencies/guns.jpg
 name: GUNS
+platform: BNB
+platform_contract: '0x179983892ec36287f1f342443b671ba549762241'

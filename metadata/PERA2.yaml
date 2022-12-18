@@ -5,3 +5,5 @@ id_nomics: PERA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PERA2.jpg
 logoKey: currencies/pera2.jpg
 name: Pera Finance
+platform: BNB
+platform_contract: '0xb9d8592e16a9c1a3ae6021cddb324eac1cbc70d6'

@@ -5,3 +5,5 @@ id_nomics: TIME7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIME7.jpg
 logoKey: currencies/time7.jpg
 name: TIME Token
+platform: BNB
+platform_contract: '0x77e443932a780a825e10c547454f034982523b4c'

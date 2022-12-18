@@ -3,3 +3,5 @@ fiat: false
 id: GOFHRC20
 id_nomics: GOFHRC20
 name: Heco-Peg GOF Token
+platform: HT
+platform_contract: '0x2aafe3c9118db36a20dd4a942b6ff3e78981dce1'

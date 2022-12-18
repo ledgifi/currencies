@@ -3,3 +3,5 @@ fiat: false
 id: AIRCASH
 id_nomics: AIRCASH
 name: AirCash
+platform: BNB
+platform_contract: '0xd0f8c08d879096c85d74441851c0e54da602a391'

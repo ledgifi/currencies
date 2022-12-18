@@ -6,3 +6,5 @@ id_nomics: MRXB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MRXB.png
 logoKey: currencies/mrxb.png
 name: Wrapped Metrix
+platform: BNB
+platform_contract: '0x767b28a30e3a15dcece7bff7a020adfde9d19cf8'

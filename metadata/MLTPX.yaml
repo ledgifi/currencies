@@ -5,3 +5,5 @@ id_nomics: MLTPX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MLTPX.jpeg
 logoKey: currencies/mltpx.jpeg
 name: Moonlift
+platform: BNB
+platform_contract: '0x9d7c580e0bc4ea441db96eebc7e1440d264bce51'

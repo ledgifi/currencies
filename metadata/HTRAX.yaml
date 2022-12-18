@@ -3,3 +3,5 @@ fiat: false
 id: HTRAX
 id_nomics: HTRAX
 name: HTRAX Token
+platform: BNB
+platform_contract: '0x434fa8c0ba1629f55932bfc8062ed593a0732919'

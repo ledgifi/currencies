@@ -5,3 +5,5 @@ id_nomics: GBK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GBK2.jpg
 logoKey: currencies/gbk2.jpg
 name: GBANK APY
+platform: BNB
+platform_contract: '0xdA0638EA374c4c5bF2914E6F4D5B2335dEb8D80D'

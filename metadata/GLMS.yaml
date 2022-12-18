@@ -6,3 +6,5 @@ id_nomics: GLMS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GLMS.jpg
 logoKey: currencies/glms.jpg
 name: Glimpse
+platform: BNB
+platform_contract: '0x75f53011f6d51c60e6dcbf54a8b1bcb54f07f0c9'

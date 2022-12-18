@@ -6,3 +6,5 @@ id_nomics: SAN
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/san.svg
 logoKey: currencies/san.svg
 name: Santiment Network Token
+platform: ETH
+platform_contract: '0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098'

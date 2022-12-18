@@ -3,3 +3,5 @@ fiat: false
 id: ABM
 id_nomics: ABM
 name: Abmcoin
+platform: BNB
+platform_contract: '0xe94c85ffc664f50eb707fa6d403629a3c3da3358'

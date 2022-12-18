@@ -6,3 +6,5 @@ id_nomics: PBTC35A
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PBTC35A.jpg
 logoKey: currencies/pbtc35a.jpg
 name: pBTC35A
+platform: ETH
+platform_contract: '0xa8b12cc90abf65191532a12bb5394a714a46d358'

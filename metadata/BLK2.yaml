@@ -3,3 +3,5 @@ fiat: false
 id: BLK2
 id_nomics: BLK2
 name: BLKtoken
+platform: ETH
+platform_contract: '0x2c243ea2abb2eb02fe168a7b002ab142d4960f14'

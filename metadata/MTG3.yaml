@@ -5,3 +5,5 @@ id_nomics: MTG3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTG3.jpg
 logoKey: currencies/mtg3.jpg
 name: MoonTimer
+platform: BNB
+platform_contract: '0xe5bb16faceafea96c3e1c97b3c20f0edfe94a9c3'

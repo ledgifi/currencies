@@ -5,3 +5,5 @@ id_nomics: CWC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CWC2.jpeg
 logoKey: currencies/cwc2.jpeg
 name: Crypworldcoin
+platform: ETH
+platform_contract: '0xdf1991ae3fe031c81e359d536e96b0ab49c05cd2'

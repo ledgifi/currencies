@@ -5,3 +5,5 @@ id_nomics: KAGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAGE.jpg
 logoKey: currencies/kage.jpg
 name: Kage Inu
+platform: BNB
+platform_contract: '0x05848feb497aae59fe21eea0b4d460d40578a167'

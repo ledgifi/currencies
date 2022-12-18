@@ -5,3 +5,5 @@ id_nomics: CRBOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRBOX.jpg
 logoKey: currencies/crbox.jpg
 name: CALLERBOX
+platform: BNB
+platform_contract: '0x599b6bf06d129d0f701415b08c6bcda5238866e0'

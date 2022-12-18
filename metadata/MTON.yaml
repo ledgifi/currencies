@@ -5,3 +5,5 @@ id_nomics: MTON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTON.jpg
 logoKey: currencies/mton.jpg
 name: Marathon.Finance
+platform: ETH
+platform_contract: '0xb0a59d07adffcd8a70552ccede849c14c9e7be24'

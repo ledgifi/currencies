@@ -5,3 +5,5 @@ id_nomics: BDG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BDG2.png
 logoKey: currencies/bdg2.png
 name: BitCoin Digital Gold
+platform: BNB
+platform_contract: '0xea8d0b55c3da2da170eb2b2ee4039752c8d0fe64'

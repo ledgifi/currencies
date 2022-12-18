@@ -3,3 +3,5 @@ fiat: false
 id: POSC
 id_nomics: POSC
 name: POSC
+platform: BNB
+platform_contract: '0xd0b1a2db793a6c91b0059d7c02b81f39e4c7becd'

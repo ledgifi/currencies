@@ -5,3 +5,5 @@ id_nomics: PNDA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PNDA.jpg
 logoKey: currencies/pnda.jpg
 name: ProjectPanda
+platform: BNB
+platform_contract: '0x4273d797ebc0063d5d887b1e67dad4a43e2fd244'

@@ -3,3 +3,5 @@ fiat: false
 id: CORBO
 id_nomics: CORBO
 name: Corbin
+platform: MATIC
+platform_contract: '0x2cf7e671a80841c496d3007803389753f76dd702'

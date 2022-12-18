@@ -3,3 +3,5 @@ fiat: false
 id: LFUND
 id_nomics: LFUND
 name: LunaFund
+platform: ETH
+platform_contract: '0xe90db211ed42421a7f43fc6985e572354fc09ef1'

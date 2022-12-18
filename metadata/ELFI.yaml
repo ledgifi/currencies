@@ -5,3 +5,5 @@ id_nomics: ELFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELFI.jpg
 logoKey: currencies/elfi.jpg
 name: ELFI Token
+platform: ETH
+platform_contract: '0x4da34f8264cb33a5c9f17081b9ef5ff6091116f4'

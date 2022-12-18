@@ -5,3 +5,5 @@ id_nomics: FAT5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FAT5.jpeg
 logoKey: currencies/fat5.jpeg
 name: Fatima
+platform: FTM
+platform_contract: '0xb8013bab2efaf014c8df509a570b71a1b6f0dc2b'

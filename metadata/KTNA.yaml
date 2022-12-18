@@ -5,3 +5,5 @@ id_nomics: KTNA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KTNA.jpg
 logoKey: currencies/ktna.jpg
 name: Katana
+platform: FTM
+platform_contract: '0x8E36C77E88A0Cb91803D82589DcD13a698A13647'

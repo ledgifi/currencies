@@ -5,3 +5,5 @@ id_nomics: YUPX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YUPX.jpg
 logoKey: currencies/yupx.jpg
 name: Yup
+platform: ETH
+platform_contract: '0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9'

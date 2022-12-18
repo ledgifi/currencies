@@ -5,3 +5,5 @@ id_nomics: ROTO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROTO2.jpg
 logoKey: currencies/roto2.jpg
 name: Rotomoon
+platform: BNB
+platform_contract: '0xa9b21900115843d655c4a8a5cb7adf49e8f4113a'

@@ -5,3 +5,5 @@ id_nomics: ASL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASL2.png
 logoKey: currencies/asl2.png
 name: Astrol V1 (OLD)
+platform: BNB
+platform_contract: '0xa2921559f26F4d1c1804F96c1Fe581255e53F4fF'

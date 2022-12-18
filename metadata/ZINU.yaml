@@ -6,3 +6,5 @@ id_nomics: ZINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZINU.jpg
 logoKey: currencies/zinu.jpg
 name: Zombie Inu
+platform: ETH
+platform_contract: '0xc50ef449171a51fbeafd7c562b064b6471c36caa'

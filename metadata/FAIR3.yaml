@@ -3,3 +3,5 @@ fiat: false
 id: FAIR3
 id_nomics: FAIR3
 name: Fairmint
+platform: ETH
+platform_contract: '0x3983c6da8235f59e16a034ee773e60a69e8f14b2'

@@ -3,3 +3,5 @@ fiat: false
 id: HBLOCK
 id_nomics: HBLOCK
 name: HamperBlock
+platform: MATIC
+platform_contract: '0x1b69d5b431825cd1fc68b8f883104835f3c72c80'

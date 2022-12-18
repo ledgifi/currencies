@@ -5,3 +5,5 @@ id_nomics: SDC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SDC3.jpg
 logoKey: currencies/sdc3.jpg
 name: Smart Digital Connect
+platform: BNB
+platform_contract: '0xf57fd03eaacd3a9157184a55d8d9117fc84503b7'

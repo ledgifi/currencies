@@ -6,3 +6,5 @@ id_nomics: AUSCM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AUSCM.jpg
 logoKey: currencies/auscm.jpg
 name: Auric Network
+platform: ETH
+platform_contract: '0x1c7bbadc81e18f7177a95eb1593e5f5f35861b10'

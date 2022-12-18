@@ -3,3 +3,5 @@ fiat: false
 id: FOTCOIN
 id_nomics: FOTCOIN
 name: FOTCOIN
+platform: ETH
+platform_contract: '0x516895bef06442372abc66435f4a9755bbcedfa6'

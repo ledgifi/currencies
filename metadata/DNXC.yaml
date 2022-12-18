@@ -6,3 +6,5 @@ id_nomics: DNXC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DNXC.png
 logoKey: currencies/dnxc.png
 name: DinoX
+platform: ETH
+platform_contract: '0x20a8cec5fffea65be7122bcab2ffe32ed4ebf03a'

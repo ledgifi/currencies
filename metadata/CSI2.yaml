@@ -5,3 +5,5 @@ id_nomics: CSI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CSI2.png
 logoKey: currencies/csi2.png
 name: Credit Suisse Inu
+platform: ETH
+platform_contract: '0x74bff2018687b8a1ff7132e13cd4fdc763725bcf'

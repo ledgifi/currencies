@@ -5,3 +5,5 @@ id_nomics: BBOMB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBOMB2.png
 logoKey: currencies/bbomb2.png
 name: BabyBomb
+platform: FTM
+platform_contract: '0x0d318ef2cf0aafa2713419aed6c0f6a21fd34cf0'

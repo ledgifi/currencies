@@ -6,3 +6,5 @@ id_nomics: SHIBADUFF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBADUFF.jpg
 logoKey: currencies/shibaduff.jpg
 name: ShibaDuff
+platform: BNB
+platform_contract: '0x6696623f0122ff144e4e9f2f2315aca142cf4e08'

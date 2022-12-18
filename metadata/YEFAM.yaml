@@ -5,3 +5,5 @@ id_nomics: YEFAM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YEFAM.jpg
 logoKey: currencies/yefam.jpg
 name: Yefam.Finance
+platform: ETH
+platform_contract: '0x9d24364b97270961b2948734afe8d58832efd43a'

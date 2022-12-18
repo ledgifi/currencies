@@ -5,3 +5,5 @@ id_nomics: SQD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SQD2.jpg
 logoKey: currencies/sqd2.jpg
 name: SquidDex Token
+platform: BNB
+platform_contract: '0xb17fea2e0ff1c043cd121698c1952259736caa71'

@@ -5,3 +5,5 @@ id_nomics: CGC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CGC3.jpg
 logoKey: currencies/cgc3.jpg
 name: HeroesTD CGC
+platform: BNB
+platform_contract: '0x52f8d048ba279556dd981036e7fa0345b5a90c7a'

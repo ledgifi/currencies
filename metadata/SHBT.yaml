@@ -6,3 +6,5 @@ id_nomics: SHBT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHBT.png
 logoKey: currencies/shbt.png
 name: Shiba Toby
+platform: BNB
+platform_contract: '0xc72a66a6b2f4c0c1935deaeb0dbe2fa65ab2f297'

@@ -6,3 +6,5 @@ id_nomics: DFY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DFY.jpg
 logoKey: currencies/dfy.jpg
 name: Defi For You
+platform: BNB
+platform_contract: '0xd98560689c6e748dc37bc410b4d3096b1aa3d8c2'

@@ -5,3 +5,5 @@ id_nomics: BITEYERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITEYERC20.jpeg
 logoKey: currencies/biteyerc20.jpeg
 name: Bitey (ERC-20)
+platform: ETH
+platform_contract: '0xc033fc8f779d9742e174536f85fbcc1e3403faeb'

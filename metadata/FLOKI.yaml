@@ -5,3 +5,5 @@ id_nomics: FLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKI.png
 logoKey: currencies/floki.png
 name: Floki Inu (ERC-20)
+platform: ETH
+platform_contract: '0x43f11c02439e2736800433b4594994Bd43Cd066D'

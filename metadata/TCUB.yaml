@@ -5,3 +5,5 @@ id_nomics: TCUB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCUB.webp
 logoKey: currencies/tcub.webp
 name: TCUB
+platform: BNB
+platform_contract: '0xb7fda7374362f66a50665b991aa7ee77b2c6abbe'

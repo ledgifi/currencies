@@ -3,3 +3,5 @@ fiat: false
 id: PCAP
 id_nomics: PCAP
 name: PartyCaps
+platform: ARBETH
+platform_contract: '0xef7bdfdfcacc875065fa9a3755889da44710777c'

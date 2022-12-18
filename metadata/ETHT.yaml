@@ -3,3 +3,5 @@ fiat: false
 id: ETHT
 id_nomics: ETHT
 name: Ethereum Turbo
+platform: ETH
+platform_contract: '0xb93f28781c2b649231e8977c4021e34662d948cc'

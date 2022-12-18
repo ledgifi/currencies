@@ -3,3 +3,5 @@ fiat: false
 id: WBPC
 id_nomics: WBPC
 name: BuyPay
+platform: ETH
+platform_contract: '0x85F9a507ef1d8e1bf666243A3B6215CE7Ee5c47C'

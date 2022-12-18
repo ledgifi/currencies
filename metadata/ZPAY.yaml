@@ -6,3 +6,5 @@ id_nomics: ZPAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZPAY.jpg
 logoKey: currencies/zpay.jpg
 name: Zantepay
+platform: ETH
+platform_contract: '0xeffea57067e02999fdcd0bb45c0f1071a29472d9'

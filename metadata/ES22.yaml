@@ -5,3 +5,5 @@ id_nomics: ES22
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ES22.png
 logoKey: currencies/es22.png
 name: EverSAFUv2
+platform: BNB
+platform_contract: '0xfef0c1670cb569008bb3d070918922dbb4f92de4'

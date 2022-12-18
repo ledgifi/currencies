@@ -5,3 +5,5 @@ id_nomics: HAPPY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HAPPY.jpg
 logoKey: currencies/happy.jpg
 name: Happy Token
+platform: ETH
+platform_contract: '0xef188b2698a695f49a538b8035a14ffaac9327ec'

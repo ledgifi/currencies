@@ -5,3 +5,5 @@ id_nomics: DTX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DTX2.jpg
 logoKey: currencies/dtx2.jpg
 name: Detox
+platform: BNB
+platform_contract: '0x978e4e5b0586c848898eda9fbbb02eb4a207e7bc'

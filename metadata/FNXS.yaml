@@ -6,3 +6,5 @@ id_nomics: FNXS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FNXS.jpg
 logoKey: currencies/fnxs.jpg
 name: FinanceX Exchange Token
+platform: ETH
+platform_contract: '0x05919a3915462abbdf2cd3c5b42213cc8f596102'

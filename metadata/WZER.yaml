@@ -5,3 +5,5 @@ id_nomics: WZER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WZER.jpg
 logoKey: currencies/wzer.jpg
 name: Wrapped Zero
+platform: BNB
+platform_contract: '0x530e9346870e632a63e8d461bb3c3622e00782de'

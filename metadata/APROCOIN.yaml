@@ -5,3 +5,5 @@ id_nomics: APROCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APROCOIN.jpeg
 logoKey: currencies/aprocoin.jpeg
 name: Aprocoin
+platform: ETH
+platform_contract: '0x114b3381b47650c6bea8a4dca8d8fa6afb329678'

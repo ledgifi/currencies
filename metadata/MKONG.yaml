@@ -6,3 +6,5 @@ id_nomics: MKONG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MKONG.jpeg
 logoKey: currencies/mkong.jpeg
 name: Meme Kong
+platform: ETH
+platform_contract: '0xee6b9cf11d968e0bac7bfff547577b8ae35b8065'

@@ -5,3 +5,5 @@ id_nomics: SAKURA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAKURA3.jpg
 logoKey: currencies/sakura3.jpg
 name: SakuraToken
+platform: ETH
+platform_contract: '0xbdecfff36573363e3de13bdde7dd87330220cf55'

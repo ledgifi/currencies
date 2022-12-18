@@ -3,3 +3,5 @@ fiat: false
 id: KONRA
 id_nomics: KONRA
 name: Konra SEP20
+platform: SMARTBCH
+platform_contract: '0x4f1480ba79f7477230ec3b2ecc868e8221925072'

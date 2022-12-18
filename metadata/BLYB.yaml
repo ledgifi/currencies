@@ -5,3 +5,5 @@ id_nomics: BLYB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLYB.png
 logoKey: currencies/blyb.png
 name: BabyLIBERO
+platform: BNB
+platform_contract: '0x38131ea21006fe35bd877f1efc25c384614e1159'

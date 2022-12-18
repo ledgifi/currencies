@@ -6,3 +6,5 @@ id_nomics: ASS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASS.jpg
 logoKey: currencies/ass.jpg
 name: Australian Safe Shepherd
+platform: BNB
+platform_contract: '0x7c63f96feafacd84e75a594c00fac3693386fbf0'

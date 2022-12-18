@@ -6,3 +6,5 @@ id_nomics: EMPIRE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EMPIRE.jpg
 logoKey: currencies/empire.jpg
 name: Empire Token
+platform: BNB
+platform_contract: '0x293c3ee9abacb08bb8ced107987f00efd1539288'

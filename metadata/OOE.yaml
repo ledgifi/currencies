@@ -5,3 +5,5 @@ id_nomics: OOE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OOE.jpg
 logoKey: currencies/ooe.jpg
 name: OpenOcean (BEP-20)
+platform: BNB
+platform_contract: '0x9029fdfae9a03135846381c7ce16595c3554e10a'

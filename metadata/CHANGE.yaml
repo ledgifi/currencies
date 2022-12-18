@@ -5,3 +5,5 @@ id_nomics: CHANGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHANGE.jpg
 logoKey: currencies/change.jpg
 name: Change Our World
+platform: BNB
+platform_contract: '0x6e1b4ba8f5be7708cd475795fc23924ed078a8d2'

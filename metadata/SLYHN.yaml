@@ -5,3 +5,5 @@ id_nomics: SLYHN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLYHN.jpg
 logoKey: currencies/slyhn.jpg
 name: Slytherin Finance
+platform: BNB
+platform_contract: '0x89e42100096c069e21a196d05c918d16e0fbdbc7'

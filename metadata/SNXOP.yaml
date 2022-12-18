@@ -5,3 +5,5 @@ id_nomics: SNXOP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNXOP.png
 logoKey: currencies/snxop.png
 name: Synthetix Network Token (Optimism)
+platform: OPETH
+platform_contract: '0x8700daec35af8ff88c16bdf0418774cb3d7599b4'

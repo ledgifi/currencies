@@ -6,3 +6,5 @@ id_nomics: PHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/phi.jpg
 logoKey: currencies/phi.jpg
 name: PHI Token
+platform: ETH
+platform_contract: '0x13c2fab6354d3790d8ece4f0f1a3280b4a25ad96'

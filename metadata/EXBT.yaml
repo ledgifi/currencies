@@ -5,3 +5,5 @@ id_nomics: EXBT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EXBT.png
 logoKey: currencies/exbt.png
 name: Exhibit Token
+platform: ETH
+platform_contract: '0xcafdc517691fcf4d1186953f02f19ced50efc9e2'

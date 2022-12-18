@@ -3,3 +3,5 @@ fiat: false
 id: PAYD
 id_nomics: PAYD
 name: PAYDAY
+platform: BNB
+platform_contract: '0xea44c8bfd1bc9ce0b64be483189279ec12a30e7e'

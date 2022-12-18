@@ -6,3 +6,5 @@ id_nomics: B8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/B8.jpg
 logoKey: currencies/b8.jpg
 name: Binance8
+platform: BNB
+platform_contract: '0xf62a6268e3164926f8435de771706082c73bebd9'

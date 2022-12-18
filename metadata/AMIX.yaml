@@ -5,3 +5,5 @@ id_nomics: AMIX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMIX.jpg
 logoKey: currencies/amix.jpg
 name: AMIX
+platform: ETH
+platform_contract: '0x564393b8d6deaea8f3d739a3f6d9b441d8ee6198'

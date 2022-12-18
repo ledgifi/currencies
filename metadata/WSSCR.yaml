@@ -3,3 +3,5 @@ fiat: false
 id: WSSCR
 id_nomics: WSSCR
 name: Wrapped Staked SCR
+platform: FTM
+platform_contract: '0xa7727db8db5afca6d88eb7fb9e8e322dc043325a'

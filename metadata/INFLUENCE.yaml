@@ -6,3 +6,5 @@ id_nomics: INFLUENCE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INFLUENCE.jpg
 logoKey: currencies/influence.jpg
 name: Influencer Finance
+platform: BNB
+platform_contract: '0x31e4660915558b408dba65f7f39e317bed63367b'

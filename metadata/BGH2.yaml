@@ -5,3 +5,5 @@ id_nomics: BGH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BGH2.jpeg
 logoKey: currencies/bgh2.jpeg
 name: BitGourde
+platform: MATIC
+platform_contract: '0x5ad15bb4b85cde2ad36b3f7d71bc7729794b2fc6'

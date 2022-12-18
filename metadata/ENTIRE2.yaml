@@ -5,3 +5,5 @@ id_nomics: ENTIRE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ENTIRE2.jpg
 logoKey: currencies/entire2.jpg
 name: EntireSwap
+platform: BNB
+platform_contract: '0x75414a4b901a0a11003633e61c2690e9c03da145'

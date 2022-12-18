@@ -3,3 +3,5 @@ fiat: false
 id: RATL
 id_nomics: RATL
 name: Ratl Token
+platform: ETH
+platform_contract: '0x414492f6361193b8fa659acb57f7a45c7d34097e'

@@ -5,3 +5,5 @@ id_nomics: MOT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOT3.jpg
 logoKey: currencies/mot3.jpg
 name: Mother Earth
+platform: BNB
+platform_contract: '0xf3f3d7f713df0447e9595d9b830a5f00297070e4'

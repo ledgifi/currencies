@@ -5,3 +5,5 @@ id_nomics: GM4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GM4.jpg
 logoKey: currencies/gm4.jpg
 name: we love gm
+platform: ETH
+platform_contract: '0x7f0693074f8064cfbcf9fa6e5a3fa0e4f58ccccf'

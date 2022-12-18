@@ -3,3 +3,5 @@ fiat: false
 id: ZZB
 id_nomics: ZZB
 name: Sovereign treasure
+platform: BNB
+platform_contract: '0x160064058b55cc95dfa26b001a9acb0271697e87'

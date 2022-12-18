@@ -8,3 +8,5 @@ id_nomics: ENJ
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/enj.svg
 logoKey: currencies/enj.svg
 name: Enjin Coin
+platform: ETH
+platform_contract: '0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c'

@@ -3,3 +3,5 @@ fiat: false
 id: MATICPAD
 id_nomics: MATICPAD
 name: Matic Launchpad
+platform: BNB
+platform_contract: '0x1e7e0efb87e609b87f12f1cea1dac48569da2328'

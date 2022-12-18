@@ -5,3 +5,5 @@ id_nomics: MCF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCF.png
 logoKey: currencies/mcf.png
 name: Moon Chain
+platform: BNB
+platform_contract: '0x6fc015dc3283369125cc31907eef990b8f67a7a1'

@@ -3,3 +3,5 @@ fiat: false
 id: ZSP
 id_nomics: ZSP
 name: Zest Synthetic Protocol
+platform: FTM
+platform_contract: '0x2c26617034c840c9412cd67ae0fc68a6755d00bf'

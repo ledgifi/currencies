@@ -5,3 +5,5 @@ id_nomics: ACAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACAD.jpg
 logoKey: currencies/acad.jpg
 name: Academy Token
+platform: ETH
+platform_contract: '0x1efc4dfd580df95426a0f04848870bd8cb5a338e'

@@ -5,3 +5,5 @@ id_nomics: GOON4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOON4.png
 logoKey: currencies/goon4.png
 name: GOpherON
+platform: ETH
+platform_contract: '0x3c2f3F1B2d8eeA420055D3CF7D0Ceabf8432ecf3'

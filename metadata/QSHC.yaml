@@ -5,3 +5,5 @@ id_nomics: QSHC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QSHC.png
 logoKey: currencies/qshc.png
 name: Qshucoin
+platform: ETH
+platform_contract: '0x28be79bd9ac609876b03f692d8d85278d8cbc2f3'

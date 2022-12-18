@@ -5,3 +5,5 @@ id_nomics: BDT9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BDT9.png
 logoKey: currencies/bdt9.png
 name: Binance DEFI
+platform: BNB
+platform_contract: '0xeacbb3b105b47dc12a3aabec34108ab6a8be708d'

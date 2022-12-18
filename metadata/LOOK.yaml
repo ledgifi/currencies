@@ -6,3 +6,5 @@ id_nomics: LOOK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOOK.jpg
 logoKey: currencies/look.jpg
 name: LooksCoin
+platform: BNB
+platform_contract: '0x73cba57ad8bc775a5345d9a0de2e90c74621d802'

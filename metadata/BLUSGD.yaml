@@ -3,3 +3,5 @@ fiat: false
 id: BLUSGD
 id_nomics: BLUSGD
 name: SGD Tracker
+platform: ETH
+platform_contract: '0x92830ef7c8d651ed3a708053c602e807bad7db22'

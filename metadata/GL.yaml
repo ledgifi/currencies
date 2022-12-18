@@ -6,3 +6,5 @@ id_nomics: GL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GL.jpg
 logoKey: currencies/gl.jpg
 name: Green Light
+platform: ETH
+platform_contract: '0x70fadbe1f2cccbaf98ac88fdcf94a0509a48e46d'

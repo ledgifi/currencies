@@ -4,3 +4,5 @@ id: BTC13
 id_nomics: BTC13
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTC13.png
 name: Bitcoin [HECO] (BTC)
+platform: HT
+platform_contract: '0x9Ab4f458113B6905C6B92Db4F6981866E3e4DfF4'

@@ -5,3 +5,5 @@ id_nomics: BRNG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRNG.jpg
 logoKey: currencies/brng.jpg
 name: bRing Token
+platform: ETH
+platform_contract: '0x3ecb96039340630c8b82e5a7732bc88b2aeade82'

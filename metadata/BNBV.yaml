@@ -3,3 +3,5 @@ fiat: false
 id: BNBV
 id_nomics: BNBV
 name: BNBV
+platform: BNB
+platform_contract: '0xd2133d614fd9497053bbcdc2d37d3e6e40ead62f'

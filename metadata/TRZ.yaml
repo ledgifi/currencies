@@ -5,3 +5,5 @@ id_nomics: TRZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRZ.jpg
 logoKey: currencies/trz.jpg
 name: TRADEZ
+platform: ETH
+platform_contract: '0x23935765cdf2f7548f86042ff053d16a22c4e240'

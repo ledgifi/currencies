@@ -5,3 +5,5 @@ id_nomics: ARCHA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARCHA2.jpeg
 logoKey: currencies/archa2.jpeg
 name: Archangel V2
+platform: ETH
+platform_contract: '0x36e43065e977bc72cb86dbd8405fae7057cdc7fd'

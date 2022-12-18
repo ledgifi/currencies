@@ -5,3 +5,5 @@ id_nomics: BTCHODL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCHODL.png
 logoKey: currencies/btchodl.png
 name: Bitcoin Holder
+platform: BNB
+platform_contract: '0x6ab8D6B8fd0Ea43be5B04fd257484399Cf672103'

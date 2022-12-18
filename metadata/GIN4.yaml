@@ -5,3 +5,5 @@ id_nomics: GIN4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GIN4.jpeg
 logoKey: currencies/gin4.jpeg
 name: Ginga Finance
+platform: BNB
+platform_contract: '0x2c77778c189abae5951aab1100cebd99a42307c5'

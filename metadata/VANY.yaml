@@ -5,3 +5,5 @@ id_nomics: VANY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VANY.jpg
 logoKey: currencies/vany.jpg
 name: Vanywhere
+platform: ETH
+platform_contract: '0x4edd66235349e353eb8cb8e40596599644bfe91c'

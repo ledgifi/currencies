@@ -5,3 +5,5 @@ id_nomics: WOLFILAND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOLFILAND.png
 logoKey: currencies/wolfiland.png
 name: WOLFILAND
+platform: BNB
+platform_contract: '0x61AF471DF5c3889de136fA0a17dA651FEDA83A88'

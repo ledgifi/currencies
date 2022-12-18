@@ -6,3 +6,5 @@ id_nomics: EXPO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EXPO.png
 logoKey: currencies/expo.png
 name: Expo Token
+platform: ETH
+platform_contract: '0x7acb51e690301b114a2a65b2e557cc1b7e644ba8'

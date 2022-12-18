@@ -5,3 +5,5 @@ id_nomics: SALT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SALT4.png
 logoKey: currencies/salt4.png
 name: Hypesalt
+platform: KLAY
+platform_contract: '0x3247abb921c83f81b406e1a87fb7bfa6f79262d0'

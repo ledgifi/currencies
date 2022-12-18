@@ -6,3 +6,5 @@ id_nomics: ONEPIECE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ONEPIECE.jpg
 logoKey: currencies/onepiece.jpg
 name: ONE PIECE
+platform: ETH
+platform_contract: '0xf40edf22e4ab146a32ecd8d659cedc7a2a55cd43'

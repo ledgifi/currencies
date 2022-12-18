@@ -5,3 +5,5 @@ id_nomics: DEFIGROW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEFIGROW.jpg
 logoKey: currencies/defigrow.jpg
 name: DeFiGrow
+platform: BNB
+platform_contract: '0xa8bf4afd0f079359741c1370687bafad9a0f9d72'

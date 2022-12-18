@@ -3,3 +3,5 @@ fiat: false
 id: XSWAP
 id_nomics: XSWAP
 name: xSwap
+platform: BNB
+platform_contract: '0x8cd1531d7eaf33cedad85111e267f617a0a91d77'

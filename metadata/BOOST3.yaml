@@ -5,3 +5,5 @@ id_nomics: BOOST3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOOST3.jpg
 logoKey: currencies/boost3.jpg
 name: Booster BSC
+platform: BNB
+platform_contract: '0x773b532126b9f307665942b0fa4cda0540cedb71'

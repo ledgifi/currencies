@@ -3,3 +3,5 @@ fiat: false
 id: BABYTETHER
 id_nomics: BABYTETHER
 name: BABY TETHER
+platform: BNB
+platform_contract: '0x89ab641e93012787b25c9d73ff47eaac705974a4'

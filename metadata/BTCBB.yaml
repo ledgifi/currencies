@@ -3,3 +3,5 @@ fiat: false
 id: BTCBB
 id_nomics: BTCBB
 name: BitcoinBaby
+platform: BNB
+platform_contract: '0x7b4a7e8e5691bd0b88cf3e01a3298db9f656496d'

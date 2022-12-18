@@ -5,3 +5,5 @@ id_nomics: UP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/up.png
 logoKey: currencies/up.png
 name: OnlyUp
+platform: BNB
+platform_contract: '0x5e12bb6ddd9214923d6c837ddf1ffb9c90f18883'

@@ -5,3 +5,5 @@ id_nomics: 10SETBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/10SETBEP20.jpg
 logoKey: currencies/10setbep20.jpg
 name: 10Set Token (BEP-20)
+platform: BNB
+platform_contract: '0x1f64fdad335ed784898effb5ce22d54d8f432523'

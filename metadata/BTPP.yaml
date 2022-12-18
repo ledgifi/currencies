@@ -5,3 +5,5 @@ id_nomics: BTPP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTPP.png
 logoKey: currencies/btpp.png
 name: Buttpoop
+platform: ETH
+platform_contract: '0xbebe03d890a535fd2427358eb030996cfe456ed7'

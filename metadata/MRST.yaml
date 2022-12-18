@@ -3,3 +3,5 @@ fiat: false
 id: MRST
 id_nomics: MRST
 name: Mars Token
+platform: MATIC
+platform_contract: '0x383b2a85cefe5c1b97c6de043abad5ed59ee4307'

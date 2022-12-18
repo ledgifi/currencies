@@ -5,3 +5,5 @@ id_nomics: WTF3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WTF3.jpg
 logoKey: currencies/wtf3.jpg
 name: WTF Token
+platform: ETH
+platform_contract: '0xa68dd8cb83097765263adad881af6eed479c4a33'

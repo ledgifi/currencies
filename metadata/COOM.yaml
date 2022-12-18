@@ -6,3 +6,5 @@ id_nomics: COOM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COOM.jpg
 logoKey: currencies/coom.jpg
 name: CoomCoin
+platform: ETH
+platform_contract: '0x2f3e054d233c93c59140c0905227c7c607c70cbb'

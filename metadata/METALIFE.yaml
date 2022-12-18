@@ -5,3 +5,5 @@ id_nomics: METALIFE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METALIFE.png
 logoKey: currencies/metalife.png
 name: Meta Life
+platform: BNB
+platform_contract: '0x7116c12b1a453eeaa22282f9f3b48c7c9ac73d42'

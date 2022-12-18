@@ -5,3 +5,5 @@ id_nomics: CHOWP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHOWP.png
 logoKey: currencies/chowp.png
 name: Chow Panda Inu
+platform: BNB
+platform_contract: '0x86f7ae1d17059b40ffe4e862d9f5dd68bb616167'

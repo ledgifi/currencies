@@ -5,3 +5,5 @@ id_nomics: FEMI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FEMI.PNG
 logoKey: currencies/femi.png
 name: Femicoin
+platform: ETH
+platform_contract: '0xb26e8b9b6cf53e499abdb2c83e15337be85a9e5a'

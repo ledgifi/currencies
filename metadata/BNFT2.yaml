@@ -3,3 +3,5 @@ fiat: false
 id: BNFT2
 id_nomics: BNFT2
 name: BNFT Token
+platform: BNB
+platform_contract: '0x3014463c7fe025c76b346e24f7ae17c94bad4bed'

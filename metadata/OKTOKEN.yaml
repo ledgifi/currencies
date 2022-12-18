@@ -3,3 +3,5 @@ fiat: false
 id: OKTOKEN
 id_nomics: OKTOKEN
 name: OkToken
+platform: ETH
+platform_contract: '0x09ec28c654706ea5ab23affb64c47311f2a88eed'

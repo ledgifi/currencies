@@ -5,3 +5,5 @@ id_nomics: AQUA8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AQUA8.png
 logoKey: currencies/aqua8.png
 name: Aqua Token
+platform: MATIC
+platform_contract: '0xb6ae0Ba7d485886fFae1eb668580D83cC1aB5514'

@@ -5,3 +5,5 @@ id_nomics: IDEA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IDEA2.jpg
 logoKey: currencies/idea2.jpg
 name: Ideaology
+platform: ETH
+platform_contract: '0x5d3a4f62124498092ce665f865e0b38ff6f5fbea'

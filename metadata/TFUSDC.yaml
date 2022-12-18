@@ -5,3 +5,5 @@ id_nomics: TFUSDC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TFUSDC.jpg
 logoKey: currencies/tfusdc.jpg
 name: TrueFi USD Coin
+platform: ETH
+platform_contract: '0xa991356d261fbaf194463af6df8f0464f8f1c742'

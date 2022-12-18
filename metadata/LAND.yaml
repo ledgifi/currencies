@@ -6,3 +6,5 @@ id_nomics: LAND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LAND.jpg
 logoKey: currencies/land.jpg
 name: LandBox
+platform: ETH
+platform_contract: '0xc8001e5fe8188a7dbd8af5d91f172dc11ced22b5'

@@ -3,3 +3,5 @@ fiat: false
 id: ORCATOKEN
 id_nomics: ORCATOKEN
 name: OrcaToken
+platform: BNB
+platform_contract: '0xfd90974b5a9da92560eb08b5e15092e2248e0914'

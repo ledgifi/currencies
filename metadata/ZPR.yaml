@@ -6,3 +6,5 @@ id_nomics: ZPR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/zpr.png
 logoKey: currencies/zpr.png
 name: ZPER
+platform: ETH
+platform_contract: '0xb5b8f5616fe42d5ceca3e87f3fddbdd8f496d760'

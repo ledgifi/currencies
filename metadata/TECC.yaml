@@ -3,3 +3,5 @@ fiat: false
 id: TECC
 id_nomics: TECC
 name: TEST-ecc
+platform: BNB
+platform_contract: '0xf2380c318cdde8383bae881bf0cf1f68b33c4b49'

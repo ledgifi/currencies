@@ -5,3 +5,5 @@ id_nomics: JETW3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JETW3.jpg
 logoKey: currencies/jetw3.jpg
 name: Jet Web3 Project
+platform: BNB
+platform_contract: '0x9fff2712cac33993bcc734ac243879e38f9c4cda'

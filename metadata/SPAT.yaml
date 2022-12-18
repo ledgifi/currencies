@@ -6,3 +6,5 @@ id_nomics: SPAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPAT.jpg
 logoKey: currencies/spat.jpg
 name: Meta Spatial
+platform: BNB
+platform_contract: '0x62cd26cb698fa8067d9c76f8ccb26922f6a86909'

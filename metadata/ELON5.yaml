@@ -5,3 +5,5 @@ id_nomics: ELON5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELON5.png
 logoKey: currencies/elon5.png
 name: Dogelon on Fuse
+platform: FUSE
+platform_contract: '0x5DD8015cec49F4dB01fd228F688BF30337d3e0A9'

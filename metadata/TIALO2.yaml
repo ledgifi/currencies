@@ -5,3 +5,5 @@ id_nomics: TIALO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIALO2.png
 logoKey: currencies/tialo2.png
 name: Tick A Lock V2 (OLD)
+platform: BNB
+platform_contract: '0x1252c3d8770d13a38065848a7476964142d848fe'

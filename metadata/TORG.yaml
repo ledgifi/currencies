@@ -6,3 +6,5 @@ id_nomics: TORG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TORG.jpg
 logoKey: currencies/torg.jpg
 name: Torg
+platform: ETH
+platform_contract: '0xcfa0885131f602d11d4da248d2c65a62063567a9'

@@ -5,3 +5,5 @@ id_nomics: MFTC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MFTC2.png
 logoKey: currencies/mftc2.png
 name: Metasoft Coin
+platform: BNB
+platform_contract: '0x5E60e2C13601D984aB1b82e6BaaB5Ac3dDD8E22a'

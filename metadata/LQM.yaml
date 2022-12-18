@@ -3,3 +3,5 @@ fiat: false
 id: LQM
 id_nomics: LQM
 name: Liquid Marketplace
+platform: ETH
+platform_contract: '0x136683ecb5ad825fdbb0c028e59725855a264a67'

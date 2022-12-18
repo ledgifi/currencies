@@ -6,3 +6,5 @@ id_nomics: ACED
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACED.png
 logoKey: currencies/aced.png
 name: AceD
+platform: ETH
+platform_contract: '0x885e127aba09bf8fae058a2895c221b37697c9be'

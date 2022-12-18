@@ -6,3 +6,5 @@ id_nomics: SOLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOLA.jpg
 logoKey: currencies/sola.jpg
 name: Solarys
+platform: BNB
+platform_contract: '0xdb8469dfe691b4521df510938c8a822db575fc83'

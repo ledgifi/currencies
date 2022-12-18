@@ -5,3 +5,5 @@ id_nomics: HH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HH.jpg
 logoKey: currencies/hh.jpg
 name: Holyheld
+platform: ETH
+platform_contract: '0x3fa729b4548becbad4eab6ef18413470e6d5324c'

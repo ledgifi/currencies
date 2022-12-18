@@ -6,3 +6,5 @@ id_nomics: TMCN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TMCN.jpg
 logoKey: currencies/tmcn.jpg
 name: Timecoin Protocol
+platform: ETH
+platform_contract: '0x5d45aa01b73c971c65f3df409c9b3627b8fe2726'

@@ -3,3 +3,5 @@ fiat: false
 id: TESTB3
 id_nomics: TESTB3
 name: Test B3
+platform: BNB
+platform_contract: '0x155835ed4a7f3117b5514a7506dae9f3d4810eae'

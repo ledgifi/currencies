@@ -5,3 +5,5 @@ id_nomics: UNX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNX.jpg
 logoKey: currencies/unx.jpg
 name: UniXDefi
+platform: ETH
+platform_contract: '0xa55a49e5382fcf27eba3a102c55b7fe26c630755'

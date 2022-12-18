@@ -6,3 +6,5 @@ id_nomics: DAFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAFT.jpg
 logoKey: currencies/daft.jpg
 name: DaftCoin
+platform: BNB
+platform_contract: '0x8e83eb3cc2585b9648687c3d1d9c7a2d17448772'

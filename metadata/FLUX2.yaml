@@ -5,3 +5,5 @@ id_nomics: FLUX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLUX2.png
 logoKey: currencies/flux2.png
 name: Flux Protocol
+platform: BNB
+platform_contract: '0x0747cda49c82d3fc6b06df1822e1de0c16673e9f'

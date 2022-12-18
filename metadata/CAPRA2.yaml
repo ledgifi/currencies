@@ -5,3 +5,5 @@ id_nomics: CAPRA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAPRA2.jpeg
 logoKey: currencies/capra2.jpeg
 name: Capra XT
+platform: BNB
+platform_contract: '0x13fadeb7eccaf00688f518ecbe975c1458f1c1d6'

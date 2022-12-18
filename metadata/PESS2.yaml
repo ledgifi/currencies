@@ -5,3 +5,5 @@ id_nomics: PESS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PESS2.jpeg
 logoKey: currencies/pess2.jpeg
 name: Pure essence
+platform: BNB
+platform_contract: '0x7c024b74a169c8f458a5657e1af9bba85be69126'

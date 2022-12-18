@@ -6,3 +6,5 @@ id_nomics: PACOCA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PACOCA.jpg
 logoKey: currencies/pacoca.jpg
 name: Pacoca
+platform: BNB
+platform_contract: '0x55671114d774ee99d653d6c12460c780a67f1d18'

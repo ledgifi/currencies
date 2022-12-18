@@ -3,3 +3,5 @@ fiat: false
 id: PRAGMA
 id_nomics: PRAGMA
 name: Pragma
+platform: FTM
+platform_contract: '0x449f45deb9c57350130732733bd96aad7203342a'

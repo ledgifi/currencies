@@ -5,3 +5,5 @@ id_nomics: HYBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HYBEP20.png
 logoKey: currencies/hybep20.png
 name: Hybrix Hydra (BEP-20)
+platform: BNB
+platform_contract: '0x8d3437e683004bd36bf21d4d075cc10165a863e8'

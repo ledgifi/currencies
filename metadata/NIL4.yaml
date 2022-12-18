@@ -5,3 +5,5 @@ id_nomics: NIL4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NIL4.jpeg
 logoKey: currencies/nil4.jpeg
 name: NIL Coin V2
+platform: ETH
+platform_contract: '0x0eb638648207d00b9025684d13b1cb53806debe4'

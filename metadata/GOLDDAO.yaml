@@ -3,3 +3,5 @@ fiat: false
 id: GOLDDAO
 id_nomics: GOLDDAO
 name: GoldDAO
+platform: BNB
+platform_contract: '0x7d646387124b3badfd7938596e7f1a24972701b8'

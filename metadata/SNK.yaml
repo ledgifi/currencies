@@ -6,3 +6,5 @@ id_nomics: SNK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNK.jpg
 logoKey: currencies/snk.jpg
 name: Snook
+platform: MATIC
+platform_contract: '0x689f8e5913c158ffb5ac5aeb83b3c875f5d20309'

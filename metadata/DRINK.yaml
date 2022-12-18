@@ -6,3 +6,5 @@ id_nomics: DRINK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRINK.jpeg
 logoKey: currencies/drink.jpeg
 name: DrinkChain
+platform: ETH
+platform_contract: '0x0089659f609933d16a5cd6c2be1a5dca1abe24ad'

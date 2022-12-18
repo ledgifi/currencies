@@ -5,3 +5,5 @@ id_nomics: BBOX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBOX2.png
 logoKey: currencies/bbox2.png
 name: Black Box
+platform: BNB
+platform_contract: '0x74ee86c1b4f0b400f5fbc606152497f21b11c508'

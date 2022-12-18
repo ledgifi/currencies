@@ -5,3 +5,5 @@ id_nomics: BLOSM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLOSM.jpg
 logoKey: currencies/blosm.jpg
 name: BlossomCoin
+platform: BNB
+platform_contract: '0x8d03e069840d6fb103abc4f640c8cc07f7f4bc10'

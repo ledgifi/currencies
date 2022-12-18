@@ -3,3 +3,5 @@ fiat: false
 id: MARST
 id_nomics: MARST
 name: MARST Project
+platform: BNB
+platform_contract: '0x500b59ae41c140cb508efd8320e4c92df450f4e3'

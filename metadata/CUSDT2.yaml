@@ -3,3 +3,5 @@ fiat: false
 id: CUSDT2
 id_nomics: CUSDT2
 name: Ctether USD
+platform: ETH
+platform_contract: '0x39ab32006afe65a0b4d6a9a89877c2c33ad19eb5'

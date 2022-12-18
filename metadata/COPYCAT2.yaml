@@ -5,3 +5,5 @@ id_nomics: COPYCAT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COPYCAT2.jpg
 logoKey: currencies/copycat2.jpg
 name: Copycat Finance
+platform: BNB
+platform_contract: '0xd635b32688f36ee4a7fe117b4c91dd811277acb6'

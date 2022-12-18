@@ -6,3 +6,5 @@ id_nomics: WRC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/wrc.svg
 logoKey: currencies/wrc.svg
 name: Worldcore
+platform: ETH
+platform_contract: '0x72adadb447784dd7ab1f472467750fc485e4cb2d'

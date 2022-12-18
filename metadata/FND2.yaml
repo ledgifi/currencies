@@ -5,3 +5,5 @@ id_nomics: FND2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FND2.jpg
 logoKey: currencies/fnd2.jpg
 name: Fundum
+platform: ETH
+platform_contract: '0xbe6c01a67bd0160fe3e731555ad014895b225dfa'

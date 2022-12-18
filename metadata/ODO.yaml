@@ -5,3 +5,5 @@ id_nomics: ODO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ODO.png
 logoKey: currencies/odo.png
 name: Odo Token
+platform: BNB
+platform_contract: '0xebca8ad8c53e88101e90fdc85316432ac4608bcd'

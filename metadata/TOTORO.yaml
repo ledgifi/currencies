@@ -5,3 +5,5 @@ id_nomics: TOTORO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOTORO.jpg
 logoKey: currencies/totoro.jpg
 name: TOTORO
+platform: BNB
+platform_contract: '0x83c43fdc737541196c6085ae4378db3dbaa90c99'

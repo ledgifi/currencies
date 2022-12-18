@@ -5,3 +5,5 @@ id_nomics: PCATV3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PCATV3.jpg
 logoKey: currencies/pcatv3.jpg
 name: pCATv3
+platform: BNB
+platform_contract: '0x41d7ca990138dddd70aef6a66cce6cf37b478428'

@@ -3,3 +3,5 @@ fiat: false
 id: XYUSDT
 id_nomics: XYUSDT
 name: 星宇稳定币
+platform: HT
+platform_contract: '0x0f892de6a82f1a5989c9cf1e1e96c8037d092bf4'

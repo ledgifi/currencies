@@ -5,3 +5,5 @@ id_nomics: CUMINU2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CUMINU2.jpg
 logoKey: currencies/cuminu2.jpg
 name: CumDoge Inu
+platform: BNB
+platform_contract: '0x36e1b0ef2cb61f43bbf37fdd9bb5d9e46908ad41'

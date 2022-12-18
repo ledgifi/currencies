@@ -5,3 +5,5 @@ id_nomics: KWD3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KWD3.png
 logoKey: currencies/kwd3.png
 name: KWD Coin
+platform: BNB
+platform_contract: '0x65453110319e9ce742dd146beffac2a5ee655e7e'

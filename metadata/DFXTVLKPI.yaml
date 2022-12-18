@@ -3,3 +3,5 @@ fiat: false
 id: DFXTVLKPI
 id_nomics: DFXTVLKPI
 name: DFX TVL KPI Option
+platform: MATIC
+platform_contract: '0x8e3dac652540a8e5128afd2ddf2d0c2099e4d4ab'

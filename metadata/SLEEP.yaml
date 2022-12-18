@@ -3,3 +3,5 @@ fiat: false
 id: SLEEP
 id_nomics: SLEEP
 name: SLEEP
+platform: ETH
+platform_contract: '0x888680deda2a1a53c1d93bfae591b93ca1f83bec'

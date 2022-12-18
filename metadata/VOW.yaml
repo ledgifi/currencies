@@ -6,3 +6,5 @@ id_nomics: VOW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VOW.png
 logoKey: currencies/vow.png
 name: Vow
+platform: ETH
+platform_contract: '0x1bbf25e71ec48b84d773809b4ba55b6f4be946fb'

@@ -3,3 +3,5 @@ fiat: false
 id: GODTOKEN
 id_nomics: GODTOKEN
 name: GODTOKEN
+platform: BNB
+platform_contract: '0x92187f9e97c2c923e8de15bfb04a8413bd786b87'

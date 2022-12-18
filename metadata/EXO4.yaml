@@ -5,3 +5,5 @@ id_nomics: EXO4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EXO4.jpg
 logoKey: currencies/exo4.jpg
 name: Exosama
+platform: ETH
+platform_contract: '0xac5c7493036de60e63eb81c5e9a440b42f47ebf5'

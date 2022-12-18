@@ -7,3 +7,5 @@ id_nomics: AUCTION
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210224/81fb7676-fedb-42e0-b227-b9f219baf8a3.png
 logoKey: currencies/auction.png
 name: Auction
+platform: ETH
+platform_contract: '0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096'

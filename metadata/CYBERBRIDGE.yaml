@@ -3,3 +3,5 @@ fiat: false
 id: CYBERBRIDGE
 id_nomics: CYBERBRIDGE
 name: Cyber Bridge
+platform: ARBETH
+platform_contract: '0x36d5da40cf2e566eda2ae4ff4d561ee108eff61c'

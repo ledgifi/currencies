@@ -5,3 +5,5 @@ id_nomics: R2F
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/R2F.png
 logoKey: currencies/r2f.png
 name: r2f.finance
+platform: ETH
+platform_contract: '0xf57d7b8fe66cd64b15396faaf332a369929a3ba5'

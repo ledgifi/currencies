@@ -3,3 +3,5 @@ fiat: false
 id: FXPRO
 id_nomics: FXPRO
 name: FXPRO Trade
+platform: ETH
+platform_contract: '0x41b0ebaa7a08599a30657e7fbf9701a4e057ec6f'

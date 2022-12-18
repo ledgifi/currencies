@@ -6,3 +6,5 @@ id_nomics: MAKK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAKK.jpg
 logoKey: currencies/makk.jpg
 name: Makk
+platform: BNB
+platform_contract: '0x4ce3dbf21f46febe307be777d9bb5638d6b0a8d4'

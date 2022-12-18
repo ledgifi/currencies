@@ -5,3 +5,5 @@ id_nomics: FYRE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FYRE2.png
 logoKey: currencies/fyre2.png
 name: Fyre Doge
+platform: ETC
+platform_contract: '0xda2319F41a9C5C52134f7D98dC317160feE8dd5F'

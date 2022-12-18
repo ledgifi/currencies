@@ -3,3 +3,5 @@ fiat: false
 id: USD0X
 id_nomics: USD0X
 name: USD0x
+platform: ETH
+platform_contract: '0x49b4100971f17b6d1b89cb4beed570774551f010'

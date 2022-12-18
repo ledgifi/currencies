@@ -5,3 +5,5 @@ id_nomics: TTTK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TTTK.jpg
 logoKey: currencies/tttk.jpg
 name: Top Things To Know
+platform: BNB
+platform_contract: '0x4c1766ed05ca4435e829d4a036e68017c9608072'

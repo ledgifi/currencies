@@ -3,3 +3,5 @@ fiat: false
 id: ONLYBNDS
 id_nomics: ONLYBNDS
 name: OnlyBands
+platform: ETH
+platform_contract: '0x1d34b7c808ccd0ed3796706a99385db39d28f9eb'

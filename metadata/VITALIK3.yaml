@@ -5,3 +5,5 @@ id_nomics: VITALIK3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VITALIK3.jpg
 logoKey: currencies/vitalik3.jpg
 name: Shibtalik
+platform: ETH
+platform_contract: '0x5442d2293b596a96223b84781dd11a3ea56f5f9d'

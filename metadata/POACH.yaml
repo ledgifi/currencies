@@ -5,3 +5,5 @@ id_nomics: POACH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POACH.jpeg
 logoKey: currencies/poach.jpeg
 name: Poacher
+platform: WAN
+platform_contract: '0x555e5752caa9e8e02f4ba8dcd7682c051bbcb933'

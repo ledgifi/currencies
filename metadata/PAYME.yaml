@@ -4,3 +4,5 @@ id: PAYME
 id_coinpaprika: payme-payme
 id_nomics: PAYME
 name: PAYME
+platform: BNB
+platform_contract: '0xbeecd9dfbbff6d583767e3c561a886079327c0e4'

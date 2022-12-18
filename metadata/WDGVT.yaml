@@ -3,3 +3,5 @@ fiat: false
 id: WDGVT
 id_nomics: WDGVT
 name: Wrapped DGPAL
+platform: CRO
+platform_contract: '0x70fd5ecbc7e1199b89a9feddeaeaa813584944f8'

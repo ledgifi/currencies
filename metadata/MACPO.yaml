@@ -5,3 +5,5 @@ id_nomics: MACPO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MACPO.jpg
 logoKey: currencies/macpo.jpg
 name: Master Coin Point
+platform: ETH
+platform_contract: '0x63bf0126c6c4d17bb33c362151759ec21b36537b'

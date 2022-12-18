@@ -3,3 +3,5 @@ fiat: false
 id: MAGUS
 id_nomics: MAGUS
 name: Magus Nodes
+platform: CRO
+platform_contract: '0x66e25ce0c99f5fc3cacad3a1b88479f4984f91eb'

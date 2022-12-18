@@ -4,3 +4,5 @@ id: BTCF2
 id_nomics: BTCF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCF2.png
 name: BTCF (BTCF)
+platform: BNB
+platform_contract: '0xdb1d7a5de610983675df8b570a972d4accd4bbe7'

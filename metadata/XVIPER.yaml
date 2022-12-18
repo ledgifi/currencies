@@ -5,3 +5,5 @@ id_nomics: XVIPER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XVIPER.jpg
 logoKey: currencies/xviper.jpg
 name: ViperPit
+platform: HARMONY
+platform_contract: '0xe064a68994e9380250cfee3e8c0e2ac5c0924548'

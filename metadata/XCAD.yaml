@@ -5,3 +5,5 @@ id_nomics: XCAD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XCAD2.jpg
 logoKey: currencies/xcad.jpg
 name: XCAD Network
+platform: ETH
+platform_contract: '0x7659ce147d0e714454073a5dd7003544234b6aa0'

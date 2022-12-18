@@ -6,3 +6,5 @@ id_nomics: AMIP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMIP.png
 logoKey: currencies/amip.png
 name: Amitarp
+platform: BNB
+platform_contract: '0x8a856dd0240b7b3dd385cb5f788478f9ef5e870d'

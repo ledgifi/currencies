@@ -3,3 +3,5 @@ fiat: false
 id: TEE
 id_nomics: TEE
 name: TEE
+platform: BNB
+platform_contract: '0x33058da74ae1ea9a4571c128d7f5c72c88d7a03d'

@@ -5,3 +5,5 @@ id_nomics: WHSKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WHSKI.jpg
 logoKey: currencies/whski.jpg
 name: trywhiski.com
+platform: ETH
+platform_contract: '0x4c0a395b211e7ece8b93146f5fa3671547998b8f'

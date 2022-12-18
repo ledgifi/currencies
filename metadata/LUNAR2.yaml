@@ -5,3 +5,5 @@ id_nomics: LUNAR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUNAR2.jpg
 logoKey: currencies/lunar2.jpg
 name: Lunar Highway
+platform: BNB
+platform_contract: '0x4e8a9d0bf525d78fd9e0c88710099f227f6924cf'

@@ -5,3 +5,5 @@ id_nomics: SFR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFR2.jpg
 logoKey: currencies/sfr2.jpg
 name: 'Sunflower '
+platform: BNB
+platform_contract: '0x8ab98c28295ea3bd2db6ac8b3ca57a625c054bd1'

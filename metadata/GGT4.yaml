@@ -5,3 +5,5 @@ id_nomics: GGT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GGT4.jpeg
 logoKey: currencies/ggt4.jpeg
 name: Gem Gard Token
+platform: MATIC
+platform_contract: '0xcf2feb4976523c55f5fe2c2b69e0a789e682bf49'

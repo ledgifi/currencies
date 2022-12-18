@@ -5,3 +5,5 @@ id_nomics: CA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CA2.png
 logoKey: currencies/ca2.png
 name: Crossy Animals
+platform: BNB
+platform_contract: '0xfa71f9956996d3d54502a5c83290b6bb15cef0a4'

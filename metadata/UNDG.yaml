@@ -6,3 +6,5 @@ id_nomics: UNDG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNDG.jpg
 logoKey: currencies/undg.jpg
 name: UniDexGas
+platform: ETH
+platform_contract: '0xa5959e9412d27041194c3c3bcbe855face2864f7'

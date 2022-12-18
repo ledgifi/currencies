@@ -3,3 +3,5 @@ fiat: false
 id: CLK2
 id_nomics: CLK2
 name: Click
+platform: BNB
+platform_contract: '0xd80e4abaffdda331ebb7dea2aa283e909cbbedf3'

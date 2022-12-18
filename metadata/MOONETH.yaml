@@ -3,3 +3,5 @@ fiat: false
 id: MOONETH
 id_nomics: MOONETH
 name: MOON ETH
+platform: ETH
+platform_contract: '0x6a169a13e92a3461ced631d4bb53dee0d33aec56'

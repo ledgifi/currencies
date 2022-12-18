@@ -6,3 +6,5 @@ id_nomics: DSCVR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DSCVR.jpg
 logoKey: currencies/dscvr.jpg
 name: DSCVR.Finance
+platform: ETH
+platform_contract: '0x3ee6e46f52c475c52040b934745501f2a0cea252'

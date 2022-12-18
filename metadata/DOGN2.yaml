@@ -5,3 +5,5 @@ id_nomics: DOGN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGN2.jpg
 logoKey: currencies/dogn2.jpg
 name: Dogging.io V1 (OLD)
+platform: BNB
+platform_contract: '0x0fc14697e5ccebda46adbce93b8877d67dc20712'

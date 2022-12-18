@@ -3,3 +3,5 @@ fiat: false
 id: DSATOSHI
 id_nomics: DSATOSHI
 name: DaddySatoshi
+platform: ETH
+platform_contract: '0xbbc367ed9b4a1a9266bc5b357cdfaa1f175762f7'

@@ -5,3 +5,5 @@ id_nomics: CLUNA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLUNA2.jpg
 logoKey: currencies/cluna2.jpg
 name: New Community Luna
+platform: BNB
+platform_contract: '0x8a0c6c59a80292b1a7fc8770bfbb1e27801c5e9c'

@@ -6,3 +6,5 @@ id_nomics: BABEL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABEL.jpg
 logoKey: currencies/babel.jpg
 name: BabelFish
+platform: ETH
+platform_contract: '0xe9f86c5c87dfa9504c630cba497571dd7d541801'

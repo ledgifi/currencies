@@ -6,3 +6,5 @@ id_nomics: BLINKY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLINKY.jpg
 logoKey: currencies/blinky.jpg
 name: Blinky Bob
+platform: BNB
+platform_contract: '0xcc63538944863685834e91e9168c9c2fea20320f'

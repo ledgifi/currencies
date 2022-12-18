@@ -3,3 +3,5 @@ fiat: false
 id: OMEGAORACLE
 id_nomics: OMEGAORACLE
 name: Omega Oracle
+platform: ETH
+platform_contract: '0x2a1954d8692b7a4636462943b5da681cd5c80a0e'

@@ -5,3 +5,5 @@ id_nomics: XGEM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XGEM.jpg
 logoKey: currencies/xgem.jpg
 name: Exchange Genesis Ethlas Medium
+platform: MATIC
+platform_contract: '0x02649c1ff4296038de4b9ba8f491b42b940a8252'

@@ -5,3 +5,5 @@ id_nomics: FSC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FSC4.jpeg
 logoKey: currencies/fsc4.jpeg
 name: First Spacex Cat
+platform: BNB
+platform_contract: '0x9fee9da0cb1be7bdca5ba3160c73acce75dc3c50'

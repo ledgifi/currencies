@@ -3,3 +3,5 @@ fiat: false
 id: XPOWCPU
 id_nomics: XPOWCPU
 name: XPower
+platform: AVAX
+platform_contract: '0xf48c4a0394dd9f27117a43dbb6400872399ab7e7'

@@ -3,3 +3,5 @@ fiat: false
 id: STABLEBCH
 id_nomics: STABLEBCH
 name: StableBCH
+platform: SMARTBCH
+platform_contract: '0x18687e0b9cd40aaeb8eb03e73f16cd291a0ae628'

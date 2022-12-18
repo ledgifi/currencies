@@ -5,3 +5,5 @@ id_nomics: BIKINI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIKINI.jpg
 logoKey: currencies/bikini.jpg
 name: Bikini Finance
+platform: BNB
+platform_contract: '0xc865a1dfb8717f53261a935d5c2577fda7523c55'

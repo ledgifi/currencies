@@ -5,3 +5,5 @@ id_nomics: TCOIN4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCOIN4.jpg
 logoKey: currencies/tcoin4.jpg
 name: Titter Coin
+platform: BNB
+platform_contract: '0x5c1fd710edb691cc9f5aa00f347e388bd89573b9'

@@ -6,3 +6,5 @@ id_nomics: XYX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XYX.jpg
 logoKey: currencies/xyx.jpg
 name: Burn Yield Burn
+platform: ETH
+platform_contract: '0x5cc737a37a02a1b34ba8edf899aa6441765232a0'

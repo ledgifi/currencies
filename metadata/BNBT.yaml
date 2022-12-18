@@ -3,3 +3,5 @@ fiat: false
 id: BNBT
 id_nomics: BNBT
 name: BinanceToken
+platform: BNB
+platform_contract: '0x70dba53393667869f1f5c55ea6e0b47c6440d67f'

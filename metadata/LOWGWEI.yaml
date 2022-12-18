@@ -3,3 +3,5 @@ fiat: false
 id: LOWGWEI
 id_nomics: LOWGWEI
 name: LOW GWEI
+platform: ETH
+platform_contract: '0xd39762beb85dafdead4e95a4c11c88a218056e3e'

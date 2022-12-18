@@ -5,3 +5,5 @@ id_nomics: SPA5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPA5.jpg
 logoKey: currencies/spa5.jpg
 name: Spartan Token
+platform: BNB
+platform_contract: '0xbcfe392e778dbb59dcad624f10f7fa8c4a910b1e'

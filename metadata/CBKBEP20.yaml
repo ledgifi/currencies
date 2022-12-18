@@ -5,3 +5,5 @@ id_nomics: CBKBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBKBEP20.png
 logoKey: currencies/cbkbep20.png
 name: CBK (BEP-20)
+platform: BNB
+platform_contract: '0x4f60a160d8c2dddaafe16fcc57566db84d674bd6'

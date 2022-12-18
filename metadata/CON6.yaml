@@ -5,3 +5,5 @@ id_nomics: CON6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CON6.jpeg
 logoKey: currencies/con6.jpeg
 name: Conshiptrack
+platform: BNB
+platform_contract: '0xC0047130995e0E6892703BEd59AC8F5829C54106'

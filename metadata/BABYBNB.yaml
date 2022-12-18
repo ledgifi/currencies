@@ -5,3 +5,5 @@ id_nomics: BABYBNB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYBNB.jpg
 logoKey: currencies/babybnb.jpg
 name: BabyBNB
+platform: BNB
+platform_contract: '0xc1168b7b85b2bbc8a5c73c007b74e7523b2da209'

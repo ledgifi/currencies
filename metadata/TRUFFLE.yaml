@@ -3,3 +3,5 @@ fiat: false
 id: TRUFFLE
 id_nomics: TRUFFLE
 name: Truffle Protocol
+platform: ETH
+platform_contract: '0xa966341fd23b6e0ab3593455ecf2261192b757e1'

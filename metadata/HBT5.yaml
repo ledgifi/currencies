@@ -5,3 +5,5 @@ id_nomics: HBT5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HBT5.png
 logoKey: currencies/hbt5.png
 name: Habitant
+platform: BNB
+platform_contract: '0x4BA37AD296a798A1C793F0f7446ddD5d719C2dA5'

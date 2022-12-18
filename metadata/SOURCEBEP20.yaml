@@ -5,3 +5,5 @@ id_nomics: SOURCEBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOURCEBEP20.png
 logoKey: currencies/sourcebep20.png
 name: ReSource Protocol (BEP-20)
+platform: BNB
+platform_contract: '0xea136fc555e695ba96d22e10b7e2151c4c6b2a20'

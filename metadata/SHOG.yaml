@@ -3,3 +3,5 @@ fiat: false
 id: SHOG
 id_nomics: SHOG
 name: Shogecoin
+platform: BNB
+platform_contract: '0x7cdb0d6dd672588ec7d7e515bdacec44306448e4'

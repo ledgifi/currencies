@@ -5,3 +5,5 @@ id_nomics: IG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ig.jpg
 logoKey: currencies/ig.jpg
 name: IG
+platform: ETH
+platform_contract: '0x8a88f04e0c905054d2f33b26bb3a46d7091a039a'

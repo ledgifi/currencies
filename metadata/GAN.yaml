@@ -5,3 +5,5 @@ id_nomics: GAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAN.jpg
 logoKey: currencies/gan.jpg
 name: 'Galactic Arena: The NFTverse'
+platform: BNB
+platform_contract: '0x8f1408171eae06aec4549fd0a5808a42cee6dd84'

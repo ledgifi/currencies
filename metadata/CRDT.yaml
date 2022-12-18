@@ -6,3 +6,5 @@ id_nomics: CRDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRDT.jpg
 logoKey: currencies/crdt.jpg
 name: CRDT
+platform: ETH
+platform_contract: '0xdaab5e695bb0e8ce8384ee56ba38fa8290618e52'

@@ -5,3 +5,5 @@ id_nomics: BAHT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAHT.jpg
 logoKey: currencies/baht.jpg
 name: BEING A HUMAN TOKEN
+platform: BNB
+platform_contract: '0x950d738392b60ea8b9242b5ddf69cdf18eeadd3c'

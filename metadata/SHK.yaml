@@ -5,3 +5,5 @@ id_nomics: SHK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHK.png
 logoKey: currencies/shk.png
 name: iShook
+platform: ETH
+platform_contract: '0xebe4a49df7885d015329c919bf43e6460a858f1e'

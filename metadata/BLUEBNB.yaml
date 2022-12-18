@@ -5,3 +5,5 @@ id_nomics: BLUEBNB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLUEBNB.jpeg
 logoKey: currencies/bluebnb.jpeg
 name: Blue BNB
+platform: BNB
+platform_contract: '0x9efdf352d74229dc2f35051d5b36bb3954290199'

@@ -5,3 +5,5 @@ id_nomics: ARVM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARVM.jpg
 logoKey: currencies/arvm.jpg
 name: RugCheck
+platform: BNB
+platform_contract: '0xb3551f6ffbdb15c96b8691cbce748866f2cbeb82'

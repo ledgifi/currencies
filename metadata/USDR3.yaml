@@ -3,3 +3,5 @@ fiat: false
 id: USDR3
 id_nomics: USDR3
 name: Real USD
+platform: MATIC
+platform_contract: '0xb5dfabd7ff7f83bab83995e72a52b97abb7bcf63'

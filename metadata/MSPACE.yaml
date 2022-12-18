@@ -6,3 +6,5 @@ id_nomics: MSPACE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSPACE.jpg
 logoKey: currencies/mspace.jpg
 name: Metaspace
+platform: BNB
+platform_contract: '0xb8ced2c93584c4e228df25a88dcbe346df89525d'

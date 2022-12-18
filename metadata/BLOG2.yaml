@@ -5,3 +5,5 @@ id_nomics: BLOG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLOG2.jpeg
 logoKey: currencies/blog2.jpeg
 name: BlogChain
+platform: BNB
+platform_contract: '0x9dc1c98461197e34a88df77d4c3733c0317cda65'

@@ -3,3 +3,5 @@ fiat: false
 id: GOPI
 id_nomics: GOPI
 name: Guild
+platform: MATIC
+platform_contract: '0x3017f7cd9be91ce3c6ff791ccb1a6142c8fb167e'

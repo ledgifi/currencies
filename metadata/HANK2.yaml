@@ -5,3 +5,5 @@ id_nomics: HANK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HANK2.png
 logoKey: currencies/hank2.png
 name: Hank Inu
+platform: BNB
+platform_contract: '0x6533CC9BBa0582720659F1E8f2B1C71ADc63C2CF'

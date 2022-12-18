@@ -5,3 +5,5 @@ id_nomics: DEFIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEFIT.jpg
 logoKey: currencies/defit.jpg
 name: Defit
+platform: ETH
+platform_contract: '0x84cffa78b2fbbeec8c37391d2b12a04d2030845e'

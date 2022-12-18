@@ -3,3 +3,5 @@ fiat: false
 id: FINSIMP
 id_nomics: FINSIMP
 name: Ethfin Simp
+platform: BNB
+platform_contract: '0x573a1f238d45ce783bd116e9c9960db6833916e7'

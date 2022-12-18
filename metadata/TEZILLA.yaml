@@ -6,3 +6,5 @@ id_nomics: TEZILLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TEZILLA.jpg
 logoKey: currencies/tezilla.jpg
 name: Tezilla
+platform: BNB
+platform_contract: '0x5778a155fa82063c5c1e48771caa44ea4d8a5d7a'

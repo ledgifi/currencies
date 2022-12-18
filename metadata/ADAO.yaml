@@ -5,3 +5,5 @@ id_nomics: ADAO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADAO.jpg
 logoKey: currencies/adao.jpg
 name: revelation.finance
+platform: ETH
+platform_contract: '0x71fbc1d795fcfbca43a3ebf6de0101952f31a410'

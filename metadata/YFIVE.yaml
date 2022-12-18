@@ -6,3 +6,5 @@ id_nomics: YFIVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFIVE.jpg
 logoKey: currencies/yfive.jpg
 name: YFIVE FINANCE
+platform: ETH
+platform_contract: '0xd3e8695d2bef061eab38b5ef526c0f714108119c'

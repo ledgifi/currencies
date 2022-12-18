@@ -3,3 +3,5 @@ fiat: false
 id: UCOIL
 id_nomics: UCOIL
 name: UCONetwork
+platform: ETH
+platform_contract: '0x549044000a94870ab7c5017cd8fb0aefa9239a13'

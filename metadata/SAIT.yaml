@@ -5,3 +5,5 @@ id_nomics: SAIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAIT.jpg
 logoKey: currencies/sait.jpg
 name: Sophon Capital Token
+platform: ETH
+platform_contract: '0x34f0d846c766874413938994da32360cf0e4350d'

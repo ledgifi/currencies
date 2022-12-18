@@ -3,3 +3,5 @@ fiat: false
 id: COLICE
 id_nomics: COLICE
 name: Crypto Police
+platform: ETH
+platform_contract: '0x7dd545b6963a20cc5c0b5337b6e880cb85c428a3'

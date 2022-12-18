@@ -5,3 +5,5 @@ id_nomics: ATC6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATC6.jpeg
 logoKey: currencies/atc6.jpeg
 name: Art The Crypto
+platform: BNB
+platform_contract: '0x77d469a3321fe0314c1115e335ff7ff4651c75ea'

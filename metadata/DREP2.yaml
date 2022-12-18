@@ -3,3 +3,5 @@ fiat: false
 id: DREP2
 id_nomics: DREP2
 name: Drep (OLD)
+platform: ETH
+platform_contract: '0x22de9912cd3d74953b1cd1f250b825133cc2c1b3'

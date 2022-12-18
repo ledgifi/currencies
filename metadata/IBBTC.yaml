@@ -6,3 +6,5 @@ id_nomics: IBBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IBBTC.jpg
 logoKey: currencies/ibbtc.jpg
 name: Interest Bearing Bitcoin
+platform: ETH
+platform_contract: '0xc4e15973e6ff2a35cc804c2cf9d2a1b817a8b40f'

@@ -6,3 +6,5 @@ id_nomics: KOGECOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KOGECOIN.jpg
 logoKey: currencies/kogecoin.jpg
 name: KogeCoin
+platform: MATIC
+platform_contract: '0x13748d548d95d78a3c83fe3f32604b4796cffa23'

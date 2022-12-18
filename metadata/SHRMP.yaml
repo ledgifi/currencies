@@ -5,3 +5,5 @@ id_nomics: SHRMP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHRMP.jpg
 logoKey: currencies/shrmp.jpg
 name: Shrimp Capital
+platform: BNB
+platform_contract: '0xeeeeeeee82a747508b66431cfe9443ace4e30881'

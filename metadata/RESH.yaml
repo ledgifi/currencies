@@ -5,3 +5,5 @@ id_nomics: RESH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RESH.png
 logoKey: currencies/resh.png
 name: RESH
+platform: ETH
+platform_contract: '0xbf85479abcf60328cd7224f43ecd71e2f9a282f8'

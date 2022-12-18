@@ -5,3 +5,5 @@ id_nomics: MBASKETBALL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MBASKETBALL.jpg
 logoKey: currencies/mbasketball.jpg
 name: MiniBasketball
+platform: BNB
+platform_contract: '0x3f35a88ea8b69bf52210b3db64c254db34d9d6d8'

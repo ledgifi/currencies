@@ -5,3 +5,5 @@ id_nomics: CERE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CERE2.png
 logoKey: currencies/cere2.png
 name: Cere Network
+platform: ETH
+platform_contract: '0x2da719db753dfa10a62e140f436e1d67f2ddb0d6'

@@ -6,3 +6,5 @@ id_nomics: SKYFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SKYFT.png
 logoKey: currencies/skyft.png
 name: SKYFchain
+platform: ETH
+platform_contract: '0x5dd0815a4cf119ad91ba045bbbf879f3f7de3c68'

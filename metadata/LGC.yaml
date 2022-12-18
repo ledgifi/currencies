@@ -5,3 +5,5 @@ id_nomics: LGC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LGC.jpg
 logoKey: currencies/lgc.jpg
 name: Language Coin
+platform: ETH
+platform_contract: '0xa0e5a7da90765bef7550cbd0e208e50e20c97d41'

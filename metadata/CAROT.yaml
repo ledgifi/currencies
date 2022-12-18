@@ -5,3 +5,5 @@ id_nomics: CAROT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAROT.jpeg
 logoKey: currencies/carot.jpeg
 name: CarbonOffset Token
+platform: BNB
+platform_contract: '0xe670df405e22fbed6e1175a3348fff2f5b611986'

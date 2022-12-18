@@ -5,3 +5,5 @@ id_nomics: NCZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NCZ.jpg
 logoKey: currencies/ncz.jpg
 name: Nft Colony Zone
+platform: BNB
+platform_contract: '0x4960c6ef6bb8b67139533cca513b52b5aabb84e9'

@@ -3,3 +3,5 @@ fiat: false
 id: FPR
 id_nomics: FPR
 name: FPR
+platform: BNB
+platform_contract: '0x575dec1be72790d4c6b1bf96418a90bfe9f9261c'

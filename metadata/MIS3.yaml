@@ -5,3 +5,5 @@ id_nomics: MIS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIS2.jpg
 logoKey: currencies/mis3.jpg
 name: Mithril Share
+platform: ETH
+platform_contract: '0x4b4d2e899658fb59b1d518b68fe836b100ee8958'

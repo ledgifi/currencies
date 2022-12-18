@@ -6,3 +6,5 @@ id_nomics: VISR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VISR.jpg
 logoKey: currencies/visr.jpg
 name: Visor
+platform: ETH
+platform_contract: '0xf938424f7210f31df2aee3011291b658f872e91e'

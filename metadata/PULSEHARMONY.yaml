@@ -5,3 +5,5 @@ id_nomics: PULSEHARMONY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PULSEHARMONY.jpeg
 logoKey: currencies/pulseharmony.jpeg
 name: PulseHarmony
+platform: BNB
+platform_contract: '0x66f132f7cdf7cd00a167fa9e65a1f064229b64e5'

@@ -5,3 +5,5 @@ id_nomics: UTED
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UTED.jpg
 logoKey: currencies/uted.jpg
 name: United Token
+platform: ETH
+platform_contract: '0x1ba05ae30b4bbeb16be6951a709095ad21e3b6fb'

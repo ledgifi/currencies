@@ -5,3 +5,5 @@ id_nomics: LEARN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LEARN2.png
 logoKey: currencies/learn2.png
 name: LiquidEarn
+platform: FTM
+platform_contract: '0xb526facbfa366ad863b8d68b5d9e266e7fe12e48'

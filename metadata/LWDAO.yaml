@@ -3,3 +3,5 @@ fiat: false
 id: LWDAO
 id_nomics: LWDAO
 name: lwdao
+platform: BNB
+platform_contract: '0x10edfcee604a4d80d3713863a0d1637d96cc3094'

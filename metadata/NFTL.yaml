@@ -5,3 +5,5 @@ id_nomics: NFTL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTL.jpg
 logoKey: currencies/nftl.jpg
 name: NFTL Token
+platform: BNB
+platform_contract: '0xe5904e9816b309d3ed4d061c922f5aa8f3b24c92'

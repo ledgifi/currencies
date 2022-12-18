@@ -6,3 +6,5 @@ id_nomics: SHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHI.jpg
 logoKey: currencies/shi.jpg
 name: Shirtum
+platform: BNB
+platform_contract: '0x7269d98af4aa705e0b1a5d8512fadb4d45817d5a'

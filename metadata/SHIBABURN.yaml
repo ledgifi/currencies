@@ -6,3 +6,5 @@ id_nomics: SHIBABURN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBABURN.jpeg
 logoKey: currencies/shibaburn.jpeg
 name: ShibaBurn
+platform: BNB
+platform_contract: '0x636ac3a78eddfcf8301e5f1e6f68cab6eccbee6a'

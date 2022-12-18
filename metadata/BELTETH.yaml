@@ -5,3 +5,5 @@ id_nomics: BELTETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BELTETH.png
 logoKey: currencies/belteth.png
 name: beltETH
+platform: BNB
+platform_contract: '0xaa20e8cb61299df2357561c2ac2e1172bc68bc25'

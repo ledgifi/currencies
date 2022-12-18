@@ -6,3 +6,5 @@ id_nomics: PULSEFEG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PULSEFEG.jpg
 logoKey: currencies/pulsefeg.jpg
 name: PulseFEG
+platform: BNB
+platform_contract: '0x1e5dd94a6d7190ab77f834e2ccdf9072597ae4e3'

@@ -6,3 +6,5 @@ id_nomics: FSDCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FSDCOIN.jpg
 logoKey: currencies/fsdcoin.jpg
 name: FSD Coin
+platform: BNB
+platform_contract: '0x680943981ce014a838536fa03b5398ced3ec6f21'

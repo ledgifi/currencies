@@ -3,3 +3,5 @@ fiat: false
 id: DEPLOY
 id_nomics: DEPLOY
 name: DEPLOY
+platform: ETH
+platform_contract: '0xb2b2dbc30f60f6404ec17255842ed831e46e8819'

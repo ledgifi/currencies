@@ -3,3 +3,5 @@ fiat: false
 id: DESTROY
 id_nomics: DESTROY
 name: Destroy
+platform: BNB
+platform_contract: '0xc62ccad7c62a9eafd8e306af42b451a1760d42e2'

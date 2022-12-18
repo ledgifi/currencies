@@ -5,3 +5,5 @@ id_nomics: MARKGOAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MARKGOAT.jpg
 logoKey: currencies/markgoat.jpg
 name: Markgoat
+platform: BNB
+platform_contract: '0xf707155aaf4cd8e97d7b298964e84f3221241142'

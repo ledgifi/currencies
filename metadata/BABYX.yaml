@@ -6,3 +6,5 @@ id_nomics: BABYX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYX.jpg
 logoKey: currencies/babyx.jpg
 name: BabyXape
+platform: BNB
+platform_contract: '0x234003ffa399e8bc53236ac777f4c781b10d1344'

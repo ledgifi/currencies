@@ -3,3 +3,5 @@ fiat: false
 id: PMTA
 id_nomics: PMTA
 name: Paymeta
+platform: BNB
+platform_contract: '0x33087b3ef482ad77c93ce6eac4a372fb7e5aa092'

@@ -5,3 +5,5 @@ id_nomics: MUSD3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MUSD3.jpeg
 logoKey: currencies/musd3.jpeg
 name: MetaDollars
+platform: BNB
+platform_contract: '0x85c5fbd34dab134b867e39a6709962f54f0c442a'

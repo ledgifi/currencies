@@ -5,3 +5,5 @@ id_nomics: EQZBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EQZBEP20.png
 logoKey: currencies/eqzbep20.png
 name: Equalizer (BEP-20)
+platform: BNB
+platform_contract: '0x1da87b114f35e1dc91f72bf57fc07a768ad40bb0'

@@ -5,3 +5,5 @@ id_nomics: LCK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LCK.png
 logoKey: currencies/lck.png
 name: LuckCash
+platform: ETH
+platform_contract: '0x82adce3b6a226f9286af99841410b04a075b54d5'

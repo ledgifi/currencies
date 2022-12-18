@@ -5,3 +5,5 @@ id_nomics: SAFEW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFEW.jpg
 logoKey: currencies/safew.jpg
 name: SafeWages
+platform: BNB
+platform_contract: '0xb419e3243bcdfcab1a93a2cf42c4cd0c45020acc'

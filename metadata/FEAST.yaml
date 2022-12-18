@@ -6,3 +6,5 @@ id_nomics: FEAST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FEAST.jpg
 logoKey: currencies/feast.jpg
 name: Feast Finance
+platform: BNB
+platform_contract: '0xf2df8458130f00c94bcde2dd3f288cf608187f87'

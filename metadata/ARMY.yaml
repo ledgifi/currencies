@@ -3,3 +3,5 @@ fiat: false
 id: ARMY
 id_nomics: ARMY
 name: Army Dollar
+platform: ETH
+platform_contract: '0x6e571032eb3d09e5bd049cc3f4786b8708eaaedb'

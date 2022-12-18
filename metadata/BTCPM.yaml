@@ -5,3 +5,5 @@ id_nomics: BTCPM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCPM.jpg
 logoKey: currencies/btcpm.jpg
 name: Bitcoin Pro Max
+platform: BNB
+platform_contract: '0xa3888338bd5db608add35d506797ea1d70af87d3'

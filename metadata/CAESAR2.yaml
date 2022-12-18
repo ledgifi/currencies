@@ -5,3 +5,5 @@ id_nomics: CAESAR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAESAR2.png
 logoKey: currencies/caesar2.png
 name: Caesar Finance V2
+platform: AVAX
+platform_contract: '0xEDdeF578a930DDc6F8Ceef10f4B00829c54686C2'

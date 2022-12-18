@@ -5,3 +5,5 @@ id_nomics: PRV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRV2.jpg
 logoKey: currencies/prv2.jpg
 name: PrivacySwap
+platform: BNB
+platform_contract: '0x7762a14082ab475c06d3868b385e46ae27017231'

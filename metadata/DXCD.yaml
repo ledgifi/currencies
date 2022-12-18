@@ -3,3 +3,5 @@ fiat: false
 id: DXCD
 id_nomics: DXCD
 name: DexCloud
+platform: ETH
+platform_contract: '0xbbf6e33c93f1725daac01993e74be1a765b4c150'

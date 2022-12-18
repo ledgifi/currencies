@@ -5,3 +5,5 @@ id_nomics: FOX7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOX7.jpg
 logoKey: currencies/fox7.jpg
 name: Fox
+platform: BNB
+platform_contract: '0x02df2d8120966a143caaf760cc3ae1d12f9862a7'

@@ -3,3 +3,5 @@ fiat: false
 id: 'OFF'
 id_nomics: 'OFF'
 name: Offline
+platform: BNB
+platform_contract: '0x837086540af27aa0a51b64873fbc37920500ed43'

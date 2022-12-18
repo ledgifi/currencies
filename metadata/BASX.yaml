@@ -5,3 +5,5 @@ id_nomics: BASX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BASX.jpg
 logoKey: currencies/basx.jpg
 name: Basix
+platform: ETH
+platform_contract: '0x23157662a9cb9be32d4d9bd019d9bcbaa040a62b'

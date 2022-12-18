@@ -5,3 +5,5 @@ id_nomics: RSHIB3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RSHIB3.jpg
 logoKey: currencies/rshib3.jpg
 name: ROBOT SHIB
+platform: BNB
+platform_contract: '0xc7fba797141f5392094e3dca8943ca7d8b6f92d8'

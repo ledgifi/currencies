@@ -6,3 +6,5 @@ id_nomics: MARSDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MARSDOGE.jpg
 logoKey: currencies/marsdoge.jpg
 name: MarsDoge
+platform: BNB
+platform_contract: '0xd76f84a1d7b9628280f9e9c6910866cecdc7f3a5'

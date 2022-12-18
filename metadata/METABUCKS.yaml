@@ -3,3 +3,5 @@ fiat: false
 id: METABUCKS
 id_nomics: METABUCKS
 name: MetaBucks
+platform: ETH
+platform_contract: '0xf443787298b784a832d2b0374efa0e3338b40ced'

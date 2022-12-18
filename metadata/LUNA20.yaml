@@ -3,3 +3,5 @@ fiat: false
 id: LUNA20
 id_nomics: LUNA20
 name: LUNA2.0
+platform: ETH
+platform_contract: '0xf00e776d56183089e847eb06a319b8927f6bb7f5'

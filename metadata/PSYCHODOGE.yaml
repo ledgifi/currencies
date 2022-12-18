@@ -6,3 +6,5 @@ id_nomics: PSYCHODOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PSYCHODOGE.jpg
 logoKey: currencies/psychodoge.jpg
 name: Psycho Doge
+platform: BNB
+platform_contract: '0xd4cdbd31f55c6f06b267809b5eca0f0c257c8a6a'

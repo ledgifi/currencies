@@ -5,3 +5,5 @@ id_nomics: KITS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KITS.png
 logoKey: currencies/kits.png
 name: Kitsune
+platform: BNB
+platform_contract: '0x9a2f8259776817ceb84fa9dbcd26f276286c0db7'

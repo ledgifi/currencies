@@ -5,3 +5,5 @@ id_nomics: BBB3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBB3.png
 logoKey: currencies/bbb3.png
 name: Big.Byte.Block
+platform: BNB
+platform_contract: '0x195075035e0fe74989d30a90b66a4c837839d5b9'

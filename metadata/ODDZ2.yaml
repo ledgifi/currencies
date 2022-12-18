@@ -5,3 +5,5 @@ id_nomics: ODDZ2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ODDZ2.png
 logoKey: currencies/oddz2.png
 name: OddzToken (Polygon)
+platform: MATIC
+platform_contract: '0x4e830f67ec499e69930867f9017aeb5b3f629c73'

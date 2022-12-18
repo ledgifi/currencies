@@ -3,3 +3,5 @@ fiat: false
 id: PMATIC
 id_nomics: PMATIC
 name: WePiggy MATIC
+platform: MATIC
+platform_contract: '0xc1b02e52e9512519edf99671931772e452fb4399'

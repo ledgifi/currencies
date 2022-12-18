@@ -6,3 +6,5 @@ id_nomics: UMC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UMC.jpg
 logoKey: currencies/umc.jpg
 name: Umbrella Coin
+platform: ETH
+platform_contract: '0x190fb342aa6a15eb82903323ae78066ff8616746'

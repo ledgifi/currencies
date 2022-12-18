@@ -5,3 +5,5 @@ id_nomics: KEIKO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KEIKO2.jpg
 logoKey: currencies/keiko2.jpg
 name: Keiko
+platform: ETH
+platform_contract: '0x9b4711575a056f936210bee2838dc61355506eb4'

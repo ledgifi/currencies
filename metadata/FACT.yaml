@@ -5,3 +5,5 @@ id_nomics: FACT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FACT.jpg
 logoKey: currencies/fact.jpg
 name: Fee Active Collateral Token
+platform: ETH
+platform_contract: '0x23aeff664c1b2bba98422a0399586e96cc8a1c92'

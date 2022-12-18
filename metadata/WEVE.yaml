@@ -6,3 +6,5 @@ id_nomics: WEVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WEVE.jpg
 logoKey: currencies/weve.jpg
 name: veDAO
+platform: FTM
+platform_contract: '0x911da02c1232a3c3e1418b834a311921143b04d7'

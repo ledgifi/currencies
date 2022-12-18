@@ -6,3 +6,5 @@ id_nomics: FEY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FEY.jpg
 logoKey: currencies/fey.jpg
 name: Feyorra
+platform: ETH
+platform_contract: '0xe8e06a5613dc86d459bc8fb989e173bb8b256072'

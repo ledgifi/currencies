@@ -3,3 +3,5 @@ fiat: false
 id: TIMETOBUILD
 id_nomics: TIMETOBUILD
 name: Time To Build
+platform: ETH
+platform_contract: '0x69c7ebe84d4589cdbe42acb33a9bef5d8d7528de'

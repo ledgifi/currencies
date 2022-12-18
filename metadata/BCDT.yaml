@@ -5,3 +5,5 @@ id_nomics: BCDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bcdt.png
 logoKey: currencies/bcdt.png
 name: Blockchain Certified Data Token
+platform: ETH
+platform_contract: '0xacfa209fb73bf3dd5bbfb1101b9bc999c49062a5'

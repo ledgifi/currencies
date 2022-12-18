@@ -5,3 +5,5 @@ id_nomics: T2T
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/T2T.png
 logoKey: currencies/t2t.png
 name: Traceto
+platform: ETH
+platform_contract: '0xe6824483e279d967ea6f8472ace7585862fa1185'

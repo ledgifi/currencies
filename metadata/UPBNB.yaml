@@ -6,3 +6,5 @@ id_nomics: UPBNB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UPBNB.jpg
 logoKey: currencies/upbnb.jpg
 name: upBNB
+platform: BNB
+platform_contract: '0x9c3bbff333f4aeab60b3c060607b7c505ff30c82'

@@ -3,3 +3,5 @@ fiat: false
 id: CRYTO
 id_nomics: CRYTO
 name: cryto
+platform: BNB
+platform_contract: '0x1147b9c912e81489e64c2cec16e862c5bf74e962'

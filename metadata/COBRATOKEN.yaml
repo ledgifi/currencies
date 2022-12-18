@@ -3,3 +3,5 @@ fiat: false
 id: COBRATOKEN
 id_nomics: COBRATOKEN
 name: Cobratoken
+platform: BNB
+platform_contract: '0xee60cff3049d01663461a6d4c4722d4015ce39f9'

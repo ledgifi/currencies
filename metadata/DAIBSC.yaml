@@ -5,3 +5,5 @@ id_nomics: DAIBSC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAIBSC.png
 logoKey: currencies/daibsc.png
 name: Binance Pegged DAI from BSC wrapped by passport.meter.io
+platform: POLIS
+platform_contract: '0x247123e806a27ea322bfd93e0273d04602dc942d'

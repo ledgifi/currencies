@@ -5,3 +5,5 @@ id_nomics: TPTBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TPTBEP20.jpg
 logoKey: currencies/tptbep20.jpg
 name: TokenPocket (BEP-20)
+platform: BNB
+platform_contract: '0xeca41281c24451168a37211f0bc2b8645af45092'

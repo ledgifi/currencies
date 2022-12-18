@@ -5,3 +5,5 @@ id_nomics: ROR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROR2.png
 logoKey: currencies/ror2.png
 name: Rooster Inu
+platform: BNB
+platform_contract: '0xbc7bdd319d324e315fb4dfa5ea77bb34823992b7'

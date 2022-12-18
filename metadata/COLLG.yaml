@@ -5,3 +5,5 @@ id_nomics: COLLG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COLLG.jpg
 logoKey: currencies/collg.jpg
 name: Collateral Pay Governance
+platform: ETH
+platform_contract: '0xc92276872cd1907d2e00b58a81a9bbd275b0a4ba'

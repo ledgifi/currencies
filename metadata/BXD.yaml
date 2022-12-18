@@ -5,3 +5,5 @@ id_nomics: BXD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BXD.png
 logoKey: currencies/bxd.png
 name: BonePaymentToken
+platform: ETH
+platform_contract: '0x22ddb9cf9e0f5604cad73f950670b360053f1454'

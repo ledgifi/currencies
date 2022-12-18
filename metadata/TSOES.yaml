@@ -3,3 +3,5 @@ fiat: false
 id: TSOES
 id_nomics: TSOES
 name: The Shib Of Eth Street
+platform: ETH
+platform_contract: '0x3d14841c95cad4ec0acd48d3622aea9e34396733'

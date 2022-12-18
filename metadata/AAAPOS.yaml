@@ -5,3 +5,5 @@ id_nomics: AAAPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AAAPOS.jpg
 logoKey: currencies/aaapos.jpg
 name: Moon Rabbit (Polygon)
+platform: MATIC
+platform_contract: '0x2EBD50AE084e71eed419cB6C620B3BbD3927bF7e'

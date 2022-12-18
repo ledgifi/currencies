@@ -6,3 +6,5 @@ id_nomics: DMT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/dmt.svg
 logoKey: currencies/dmt.svg
 name: DMarket
+platform: ETH
+platform_contract: '0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1'

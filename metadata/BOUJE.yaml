@@ -5,3 +5,5 @@ id_nomics: BOUJE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOUJE.png
 logoKey: currencies/bouje.png
 name: Bouje
+platform: FTM
+platform_contract: '0x37f70aa9fefc8971117bd53a1ddc2372aa7eec41'

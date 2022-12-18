@@ -3,3 +3,5 @@ fiat: false
 id: DOPING
 id_nomics: DOPING
 name: Doping Token
+platform: ETH
+platform_contract: '0x70f68c52df113cafc8bd68b6f7c368cdbaf1c6d3'

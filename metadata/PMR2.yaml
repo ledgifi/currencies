@@ -4,3 +4,5 @@ id: PMR2
 id_nomics: PMR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PMR2.png
 name: Pomerium
+platform: BNB
+platform_contract: '0x1dc5779ed65bcc1f0a42d654444fb0ce59d7783b'

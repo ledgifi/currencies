@@ -3,3 +3,5 @@ fiat: false
 id: MMOO2
 id_nomics: MMOO2
 name: Interest Bearing MOO
+platform: CELO
+platform_contract: '0x3a5024e3aab31a1d3184127b52b0e4b4e9adcc34'

@@ -3,3 +3,5 @@ fiat: false
 id: CWDEL
 id_nomics: CWDEL
 name: CustomWrappedDel
+platform: BNB
+platform_contract: '0x6a1788a29aef4881e5e0a9f66d00d7068f1d7a3e'

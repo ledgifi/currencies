@@ -5,3 +5,5 @@ id_nomics: ATF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATF.jpg
 logoKey: currencies/atf.jpg
 name: Agro Tech Farm
+platform: ETH
+platform_contract: '0xa55ffaea5c8cf32b550f663bf17d4f7b739534ff'

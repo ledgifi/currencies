@@ -5,3 +5,5 @@ id_nomics: MTUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTUSD.jpg
 logoKey: currencies/mtusd.jpg
 name: MythicUSD
+platform: ETH
+platform_contract: '0x4f01ecbe8d6882ffaee47fe23a9677a96aabed07'

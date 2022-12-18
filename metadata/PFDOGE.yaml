@@ -3,3 +3,5 @@ fiat: false
 id: PFDOGE
 id_nomics: PFDOGE
 name: PolyFamilyDoge
+platform: MATIC
+platform_contract: '0xaf01e635939930ad8bb8b7c5282fbcd136146b35'

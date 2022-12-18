@@ -5,3 +5,5 @@ id_nomics: TERK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TERK.jpg
 logoKey: currencies/terk.jpg
 name: Terk
+platform: BNB
+platform_contract: '0x53035e4e14fb3f82c02357b35d5cc0c5b53928b4'

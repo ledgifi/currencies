@@ -5,3 +5,5 @@ id_nomics: PAPER3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAPER3.jpg
 logoKey: currencies/paper3.jpg
 name: Paper DAO
+platform: ETH
+platform_contract: '0x7ae1d57b58fa6411f32948314badd83583ee0e8c'

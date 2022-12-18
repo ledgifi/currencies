@@ -5,3 +5,5 @@ id_nomics: SPIBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPIBEP20.jpg
 logoKey: currencies/spibep20.jpg
 name: Shopping.io on BSC
+platform: BNB
+platform_contract: '0x78a18db278f9c7c9657f61da519e6ef43794dd5d'

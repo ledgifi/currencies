@@ -5,3 +5,5 @@ id_nomics: MOON8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOON8.png
 logoKey: currencies/moon8.png
 name: CroMoon
+platform: CRO
+platform_contract: '0x7d30c36f845d1dee79f852abf3a8a402fadf3b53'

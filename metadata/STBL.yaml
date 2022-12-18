@@ -5,3 +5,5 @@ id_nomics: STBL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STBL.png
 logoKey: currencies/stbl.png
 name: AlgoStable
+platform: ALGO
+platform_contract: '465865291'

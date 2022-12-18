@@ -5,3 +5,5 @@ id_nomics: WAGMI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAGMI.jpg
 logoKey: currencies/wagmi.jpg
 name: Euphoria
+platform: HARMONY
+platform_contract: '0x0dc78c79b4eb080ead5c1d16559225a46b580694'

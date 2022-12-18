@@ -5,3 +5,5 @@ id_nomics: NOA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NOA2.png
 logoKey: currencies/noa2.png
 name: NOA PLAY
+platform: ETH
+platform_contract: '0x0fd3822072ad001aac1c90a09d9506f097f24458'

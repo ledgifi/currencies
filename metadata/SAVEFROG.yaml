@@ -3,3 +3,5 @@ fiat: false
 id: SAVEFROG
 id_nomics: SAVEFROG
 name: Save The Frons
+platform: ETH
+platform_contract: '0x2b0805836933af80758d938b6b598755a8e50890'

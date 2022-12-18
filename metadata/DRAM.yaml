@@ -3,3 +3,5 @@ fiat: false
 id: DRAM
 id_nomics: DRAM
 name: Doraemon
+platform: BNB
+platform_contract: '0xc21590f35177b37f9f80deb4bd0c334bc1d7d93b'

@@ -5,3 +5,5 @@ id_nomics: FBTC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FBTC2.jpg
 logoKey: currencies/fbtc2.jpg
 name: Fire Bitcoin
+platform: BNB
+platform_contract: '0x3c492f060dca62d9ac2454681a2d258235d122d4'

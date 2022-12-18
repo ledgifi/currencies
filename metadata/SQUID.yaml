@@ -5,3 +5,5 @@ id_nomics: SQUID
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SQUID.jpg
 logoKey: currencies/squid.jpg
 name: Squidanomics
+platform: BNB
+platform_contract: '0x1f878d0bccd3d502ff55f7a4797c556f103d6e4b'

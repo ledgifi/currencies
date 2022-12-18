@@ -3,3 +3,5 @@ fiat: false
 id: SUPM
 id_nomics: SUPM
 name: SuperMeta
+platform: BNB
+platform_contract: '0x9e0c9979d8987fe7f244ce780ee8f281daf20045'

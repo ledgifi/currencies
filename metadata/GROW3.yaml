@@ -5,3 +5,5 @@ id_nomics: GROW3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GROW3.png
 logoKey: currencies/grow3.png
 name: GrowTrees Finance
+platform: HARMONY
+platform_contract: '0x728c2feb0b09da60f8c46c7324971c8f33017950'

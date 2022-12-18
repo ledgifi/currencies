@@ -5,3 +5,5 @@ id_nomics: AUC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AUC4.png
 logoKey: currencies/auc4.png
 name: Aid Ukraine Coin
+platform: BNB
+platform_contract: '0x6506CaAa8ED96813e9C5cD01133b125ED11Cf9a5'

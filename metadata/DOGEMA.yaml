@@ -3,3 +3,5 @@ fiat: false
 id: DOGEMA
 id_nomics: DOGEMA
 name: DogeMaticSwap Token
+platform: MATIC
+platform_contract: '0x2742696b103685c2a080bbc12ab0a74b1157af45'

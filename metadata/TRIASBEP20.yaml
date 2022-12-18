@@ -3,3 +3,5 @@ fiat: false
 id: TRIASBEP20
 id_nomics: TRIASBEP20
 name: Trias Token (BEP-20)
+platform: BNB
+platform_contract: '0xa4838122c683f732289805fc3c207febd55babdd'

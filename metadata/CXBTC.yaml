@@ -3,3 +3,5 @@ fiat: false
 id: CXBTC
 id_nomics: CXBTC
 name: CryptexBank BTC
+platform: BNB
+platform_contract: '0x22f70d2c25cc04563defc6e683ac2984edece693'

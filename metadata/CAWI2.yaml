@@ -5,3 +5,5 @@ id_nomics: CAWI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAWI2.jpg
 logoKey: currencies/cawi2.jpg
 name: CAW INU
+platform: BNB
+platform_contract: '0x1E421C96c0E464D826683dc54CA33fE4d5F397D3'

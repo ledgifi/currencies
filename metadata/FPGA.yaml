@@ -3,3 +3,5 @@ fiat: false
 id: FPGA
 id_nomics: FPGA
 name: Field Programmable Gate Array
+platform: HT
+platform_contract: '0xb4a73aceb20e033066920c8fb8a5dc46f6802915'

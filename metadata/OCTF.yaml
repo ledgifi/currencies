@@ -6,3 +6,5 @@ id_nomics: OCTF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCTF.jpg
 logoKey: currencies/octf.jpg
 name: Octafarm
+platform: BNB
+platform_contract: '0x04d4f38dcdfe976cb325db16b868f0020104014e'

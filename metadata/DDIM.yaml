@@ -6,3 +6,5 @@ id_nomics: DDIM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DDIM.jpg
 logoKey: currencies/ddim.jpg
 name: DuckDaoDime
+platform: ETH
+platform_contract: '0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20'

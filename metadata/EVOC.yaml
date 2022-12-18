@@ -6,3 +6,5 @@ id_nomics: EVOC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVOC.jpg
 logoKey: currencies/evoc.jpg
 name: EvoCardano
+platform: BNB
+platform_contract: '0x086cc8e468b3cb5494f18a7abc2de1321306af12'

@@ -5,3 +5,5 @@ id_nomics: SHIBAYBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBAYBEP20.png
 logoKey: currencies/shibaybep20.png
 name: SHIBAY (BEP-20)
+platform: BNB
+platform_contract: '0xc6ba74847c0385d603250d56b463f7006b4e4864'

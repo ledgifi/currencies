@@ -5,3 +5,5 @@ id_nomics: NFTSTATUEBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTSTATUEBEP20.jpg
 logoKey: currencies/nftstatuebep20.jpg
 name: NFTStatue (BEP-20)
+platform: BNB
+platform_contract: '0xea34D65B689aEb1d579982b5f29cdebd8B2aA5b8'

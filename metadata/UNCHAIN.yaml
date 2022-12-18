@@ -3,3 +3,5 @@ fiat: false
 id: UNCHAIN
 id_nomics: UNCHAIN
 name: unchain.fund
+platform: BNB
+platform_contract: '0xbefd935c0eb4f115360bfce9d4ac05860ebb503a'

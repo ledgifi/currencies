@@ -5,3 +5,5 @@ id_nomics: AGX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AGX3.jpg
 logoKey: currencies/agx3.jpg
 name: AGXCASH
+platform: BNB
+platform_contract: '0xdbfd69cc63cdd5bb1591c9ef4b535bb23a94335a'

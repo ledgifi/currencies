@@ -6,3 +6,5 @@ id_nomics: SEAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SEAD.jpg
 logoKey: currencies/sead.jpg
 name: SEADEX
+platform: ETH
+platform_contract: '0x936862d34b930b85272f65e94d5b6ec469f95ff7'

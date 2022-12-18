@@ -3,3 +3,5 @@ fiat: false
 id: DSAFU
 id_nomics: DSAFU
 name: DegenSafu
+platform: ETH
+platform_contract: '0x6c13fec5938303d51d9e2592ae8a436a756d2ab7'

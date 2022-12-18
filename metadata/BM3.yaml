@@ -5,3 +5,5 @@ id_nomics: BM3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BM3.jpg
 logoKey: currencies/bm3.jpg
 name: BtMiracles
+platform: BNB
+platform_contract: '0x3De90aac2dE63981b441Ba84F48BD063C158e566 '

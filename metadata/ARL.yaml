@@ -5,3 +5,5 @@ id_nomics: ARL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARL.jpeg
 logoKey: currencies/arl.jpeg
 name: ARL
+platform: BNB
+platform_contract: '0x481efa0f790d6ed680e1408e044bc56c0bf95756'

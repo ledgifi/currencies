@@ -5,3 +5,5 @@ id_nomics: BRD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRD2.png
 logoKey: currencies/brd2.png
 name: BlueRacingDoge
+platform: BNB
+platform_contract: '0x3a1c5572a5c0db50bb4aa638669647a4c0181b3b'

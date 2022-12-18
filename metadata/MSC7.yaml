@@ -5,3 +5,5 @@ id_nomics: MSC7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSC7.jpg
 logoKey: currencies/msc7.jpg
 name: Messiah Chain
+platform: BNB
+platform_contract: '0xad8fc01770946de3e4f1834a1e86cf2c81849ada'

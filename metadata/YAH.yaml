@@ -5,3 +5,5 @@ id_nomics: YAH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YAH.png
 logoKey: currencies/yah.png
 name: JamaiCoin
+platform: ETH
+platform_contract: '0xc2856a8310af421a2a65de16428c2dec6ceacb36'

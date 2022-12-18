@@ -5,3 +5,5 @@ id_nomics: MADF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MADF.jpg
 logoKey: currencies/madf.jpg
 name: Mad Floki
+platform: BNB
+platform_contract: '0x15df5186729e95483f49370604a65bbc01d7860e'

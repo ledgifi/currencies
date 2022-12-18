@@ -3,3 +3,5 @@ fiat: false
 id: OVERBTC
 id_nomics: OVERBTC
 name: OverBTC
+platform: BNB
+platform_contract: '0x209ad366c7ab8872053a3bcf2bbb4b585ffde736'

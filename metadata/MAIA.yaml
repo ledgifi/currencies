@@ -5,3 +5,5 @@ id_nomics: MAIA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAIA.jpg
 logoKey: currencies/maia.jpg
 name: Maia
+platform: METIS
+platform_contract: '0x72c232d56542ba082592dee7c77b1c6cfa758bcd'

@@ -3,3 +3,5 @@ fiat: false
 id: ETHP3
 id_nomics: ETHP3
 name: Ethereum Diamond
+platform: ETH
+platform_contract: '0x9c1cdc4a51e7f80ff17eea90a4534e1a20b437bb'

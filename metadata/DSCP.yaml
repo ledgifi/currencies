@@ -5,3 +5,5 @@ id_nomics: DSCP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/dscp.jpg
 logoKey: currencies/dscp.jpg
 name: Disciplina
+platform: ETH
+platform_contract: '0x03e3f0c25965f13dbbc58246738c183e27b26a56'

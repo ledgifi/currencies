@@ -5,3 +5,5 @@ id_nomics: TLMBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TLMBEP20.jpg
 logoKey: currencies/tlmbep20.jpg
 name: Alien Worlds (BEP-20)
+platform: BNB
+platform_contract: '0x2222227e22102fe3322098e4cbfe18cfebd57c95'

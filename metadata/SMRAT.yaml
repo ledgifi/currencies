@@ -5,3 +5,5 @@ id_nomics: SMRAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMRAT.jpg
 logoKey: currencies/smrat.jpg
 name: Secured MoonRat Token
+platform: BNB
+platform_contract: '0x68590a47578e5060a29fd99654f4556dbfa05d10'

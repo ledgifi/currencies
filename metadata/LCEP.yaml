@@ -3,3 +3,5 @@ fiat: false
 id: LCEP
 id_nomics: LCEP
 name: LC Electronic Payment
+platform: BNB
+platform_contract: '0xa79957f668a655845d52865b6f2832d2cfa35caa'

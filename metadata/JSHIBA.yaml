@@ -6,3 +6,5 @@ id_nomics: JSHIBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JSHIBA.jpg
 logoKey: currencies/jshiba.jpg
 name: Jomon Shiba
+platform: ETH
+platform_contract: '0x1426cc6d52d1b14e2b3b1cb04d57ea42b39c4c7c'

@@ -3,3 +3,5 @@ fiat: false
 id: ALWAYS
 id_nomics: ALWAYS
 name: Always
+platform: HT
+platform_contract: '0x066143b382363b692ec008f0cd4788040381c3fa'

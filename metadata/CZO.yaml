@@ -6,3 +6,5 @@ id_nomics: CZO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CZO.jpg
 logoKey: currencies/czo.jpg
 name: CarbonZero
+platform: BNB
+platform_contract: '0x1b000abc16a40abee05eb5dc267bea3a5359c322'

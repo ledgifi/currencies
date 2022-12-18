@@ -5,3 +5,5 @@ id_nomics: NEMO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEMO.png
 logoKey: currencies/nemo.png
 name: NemoCoin
+platform: ETH
+platform_contract: '0x957b28f93b0e01557e21e6c564ab26ddc2d18ec5'

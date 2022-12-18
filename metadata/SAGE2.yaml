@@ -5,3 +5,5 @@ id_nomics: SAGE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAGE2.jpg
 logoKey: currencies/sage2.jpg
 name: Polysage
+platform: MATIC
+platform_contract: '0x2ed945dc703d85c80225d95abde41cdee14e1992'

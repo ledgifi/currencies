@@ -3,3 +3,5 @@ fiat: false
 id: DCHAIN
 id_nomics: DCHAIN
 name: The DOGE CHAIN
+platform: ETH
+platform_contract: '0x8ed2db19301e5a7ab9180bea32d3c45437646aa2'

@@ -3,3 +3,5 @@ fiat: false
 id: LOOSE
 id_nomics: LOOSE
 name: Lucky Goose
+platform: ETH
+platform_contract: '0x4612a3f9fe2d3ff22d202cbc63632029a62aa263'

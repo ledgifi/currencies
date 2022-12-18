@@ -3,3 +3,5 @@ fiat: false
 id: BUSDTEST1
 id_nomics: BUSDTEST1
 name: BUSDTest1
+platform: BNB
+platform_contract: '0x7c392fc82b3c0701cefc308ad387d97c26a6d276'

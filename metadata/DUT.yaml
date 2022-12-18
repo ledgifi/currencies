@@ -3,3 +3,5 @@ fiat: false
 id: DUT
 id_nomics: DUT
 name: Dut
+platform: BNB
+platform_contract: '0x1982b14f9273c273defe8c963f0fe7309738ec05'

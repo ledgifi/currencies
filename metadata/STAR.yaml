@@ -6,3 +6,5 @@ id_nomics: STAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/star.png
 logoKey: currencies/star.png
 name: Starbase
+platform: ETH
+platform_contract: '0xf70a642bd387f94380ffb90451c2c81d4eb82cbc'

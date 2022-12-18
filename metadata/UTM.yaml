@@ -5,3 +5,5 @@ id_nomics: UTM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UTM.jpg
 logoKey: currencies/utm.jpg
 name: Unitum
+platform: BNB
+platform_contract: '0x8e80c4aa22cab0b9fc04f7b818aa85cea737460f'

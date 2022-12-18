@@ -3,3 +3,5 @@ fiat: false
 id: ALPHAC
 id_nomics: ALPHAC
 name: AlphaClassic
+platform: ETH
+platform_contract: '0x7cf2ccae9a5e486b75b7aa5fe20f944cbcda696a'

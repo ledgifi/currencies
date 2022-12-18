@@ -6,3 +6,5 @@ id_nomics: DOUGH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOUGH.jpeg
 logoKey: currencies/dough.jpeg
 name: PieDAO DOUGH v2
+platform: ETH
+platform_contract: '0xad32a8e6220741182940c5abf610bde99e737b2d'

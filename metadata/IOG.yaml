@@ -6,3 +6,5 @@ id_nomics: IOG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IOG.png
 logoKey: currencies/iog.png
 name: Playgroundz
+platform: ETH
+platform_contract: '0x1c4b7d0e1885bd7667af3378e0c538f74e712006'

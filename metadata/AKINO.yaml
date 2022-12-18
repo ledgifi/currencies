@@ -5,3 +5,5 @@ id_nomics: AKINO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AKINO.jpeg
 logoKey: currencies/akino.jpeg
 name: Akino Inu
+platform: BNB
+platform_contract: '0x1ac9A46C4031D949b1135Bf4Ceab5f259d1343Af'

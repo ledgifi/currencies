@@ -5,3 +5,5 @@ id_nomics: ABS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ABS2.png
 logoKey: currencies/abs2.png
 name: Absorber
+platform: ETH
+platform_contract: '0xf4c05296c449edcee3e3f1524fac919510b168a2'

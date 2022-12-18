@@ -5,3 +5,5 @@ id_nomics: COINLIM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COINLIM.jpg
 logoKey: currencies/coinlim.jpg
 name: CoinLim Token
+platform: ETH
+platform_contract: '0xab6257fab118222751b339cc199145b29661ed7c'

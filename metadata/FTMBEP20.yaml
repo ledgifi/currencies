@@ -5,3 +5,5 @@ id_nomics: FTMBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FTMBEP20.png
 logoKey: currencies/ftmbep20.png
 name: Fantom (BEP-20)
+platform: BNB
+platform_contract: '0xad29abb318791d579433d831ed122afeaf29dcfe'

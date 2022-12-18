@@ -6,3 +6,5 @@ id_nomics: TAF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TAF.jpg
 logoKey: currencies/taf.jpg
 name: TAF Token
+platform: BNB
+platform_contract: '0x4bcbfc9a023fd68b662bfbaebe75aefc453b1bde'

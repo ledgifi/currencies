@@ -5,3 +5,5 @@ id_nomics: VXLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VXLD.jpg
 logoKey: currencies/vxld.jpg
 name: VXL DOLLAR
+platform: ETH
+platform_contract: '0x12c8f391e5f373656fe915ff4414954a509a7fac'

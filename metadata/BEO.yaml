@@ -3,3 +3,5 @@ fiat: false
 id: BEO
 id_nomics: BEO
 name: Test Token - BEO - Ver1
+platform: BNB
+platform_contract: '0x43f41d662b905062cc09f48d6f3fba88d9f00bc2'

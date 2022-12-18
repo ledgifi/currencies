@@ -5,3 +5,5 @@ id_nomics: AVVP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVVP.png
 logoKey: currencies/avvp.png
 name: Andrey Voronkov Ventures Promo
+platform: ETH
+platform_contract: '0x783ba0062326861ee76e0e15429594922e9fe2f5'

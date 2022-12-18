@@ -5,3 +5,5 @@ id_nomics: CKG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CKG2.jpg
 logoKey: currencies/ckg2.jpg
 name: Crystal Kingdoms
+platform: BNB
+platform_contract: '0xcd32a0e26b3a87a064476b2c9e5e691df9ca063a'

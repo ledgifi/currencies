@@ -5,3 +5,5 @@ id_nomics: DOGEFOOD3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEFOOD3.jpeg
 logoKey: currencies/dogefood3.jpeg
 name: DogeFood V2
+platform: BNB
+platform_contract: '0x1bec41a36356d5574aeb068b599ab7e48dd008b8'

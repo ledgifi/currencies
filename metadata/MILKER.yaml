@@ -3,3 +3,5 @@ fiat: false
 id: MILKER
 id_nomics: MILKER
 name: Milkers
+platform: ETH
+platform_contract: '0xe053f19d5bc0a669ed4e72c76af2635373e70874'

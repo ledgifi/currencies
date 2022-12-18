@@ -6,3 +6,5 @@ id_nomics: HIBIKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HIBIKI.jpg
 logoKey: currencies/hibiki.jpg
 name: Hibiki Finance
+platform: BNB
+platform_contract: '0xa532cfaa916c465a094daf29fea07a13e41e5b36'

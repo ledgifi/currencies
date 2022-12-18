@@ -5,3 +5,5 @@ id_nomics: LED3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LED3.jpg
 logoKey: currencies/led3.jpg
 name: LedgerScore
+platform: ETH
+platform_contract: '0x72de803b67b6ab05b61efab2efdcd414d16ebf6d'

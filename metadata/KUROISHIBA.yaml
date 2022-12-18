@@ -5,3 +5,5 @@ id_nomics: KUROISHIBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KUROISHIBA.png
 logoKey: currencies/kuroishiba.png
 name: Kuroi Shiba inu
+platform: BNB
+platform_contract: '0x84c5a924c8ba1b420f03b904b88a7a88800ab7e0'

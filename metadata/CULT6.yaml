@@ -5,3 +5,5 @@ id_nomics: CULT6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CULT6.png
 logoKey: currencies/cult6.png
 name: CultBSC
+platform: BNB
+platform_contract: '0x4c03f8251a3d28569efa7ad3f8f48c887d231ad9'

@@ -5,3 +5,5 @@ id_nomics: KEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KEX.jpg
 logoKey: currencies/kex.jpg
 name: KIRA Network
+platform: ETH
+platform_contract: '0x16980b3b4a3f9d89e33311b5aa8f80303e5ca4f8'

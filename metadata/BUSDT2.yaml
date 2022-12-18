@@ -5,3 +5,5 @@ id_nomics: BUSDT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUSDT2.png
 logoKey: currencies/busdt2.png
 name: BridgeTech USDT
+platform: ETHW2
+platform_contract: '0xb6334bedf341d111525a1db8fbe7805de57de957'

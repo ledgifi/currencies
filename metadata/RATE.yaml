@@ -3,3 +3,5 @@ fiat: false
 id: RATE
 id_nomics: RATE
 name: Ratever
+platform: FUSE
+platform_contract: '0x463d3dd5b001c57f151e18a97a4c242b8d65c1e7'

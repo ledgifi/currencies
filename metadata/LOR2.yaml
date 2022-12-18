@@ -5,3 +5,5 @@ id_nomics: LOR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOR2.jpg
 logoKey: currencies/lor2.jpg
 name: Land of Realm
+platform: BNB
+platform_contract: '0x1d8e5ac9839960920121b2f79bc24df4ce8f8816'

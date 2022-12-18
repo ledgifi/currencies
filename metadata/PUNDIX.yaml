@@ -7,3 +7,5 @@ id_nomics: PUNDIX
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/d3ed884e-2ee7-441b-8764-082965bb6769.png
 logoKey: currencies/pundix.png
 name: Pundi X
+platform: ETH
+platform_contract: '0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38'

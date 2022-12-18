@@ -6,3 +6,5 @@ id_nomics: PPDEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PPDEX.png
 logoKey: currencies/ppdex.png
 name: Pepedex
+platform: ETH
+platform_contract: '0xf1f508c7c9f0d1b15a76fba564eef2d956220cf7'

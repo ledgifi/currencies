@@ -3,3 +3,5 @@ fiat: false
 id: AMAZONBTC
 id_nomics: AMAZONBTC
 name: AmazonBTC
+platform: HT
+platform_contract: '0xe9a7081a0e970c2e7d8c6e430ee0595edc31d45a'

@@ -5,3 +5,5 @@ id_nomics: ADAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADAI.png
 logoKey: currencies/adai.png
 name: Aave DAI v1
+platform: ETH
+platform_contract: '0xfc1e690f61efd961294b3e1ce3313fbd8aa4f85d'

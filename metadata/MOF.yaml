@@ -6,3 +6,5 @@ id_nomics: MOF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/mof.png
 logoKey: currencies/mof.png
 name: Molecular Future
+platform: ETH
+platform_contract: '0x653430560be843c4a3d143d0110e896c2ab8ac0d'

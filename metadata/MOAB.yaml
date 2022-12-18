@@ -5,3 +5,5 @@ id_nomics: MOAB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOAB.jpg
 logoKey: currencies/moab.jpg
 name: M.O.A.B
+platform: ETH
+platform_contract: '0xd54e2e7281de8e7d220f9173e33241fbfa881968'

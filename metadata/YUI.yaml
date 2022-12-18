@@ -5,3 +5,5 @@ id_nomics: YUI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YUI.jpg
 logoKey: currencies/yui.jpg
 name: YUI Hinata
+platform: ETH
+platform_contract: '0x4c10bd19688b906665fbd53415f279f34b44ece7'

@@ -3,3 +3,5 @@ fiat: false
 id: ATMCLUNA
 id_nomics: ATMCLUNA
 name: ATMCLUNA
+platform: ETH
+platform_contract: '0x0221377b005df3a94a505b22e9efc96df61dc316'

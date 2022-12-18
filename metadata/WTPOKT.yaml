@@ -3,3 +3,5 @@ fiat: false
 id: WTPOKT
 id_nomics: WTPOKT
 name: Wrapped ThunderPOKT
+platform: MATIC
+platform_contract: '0x301595f6fd5f69fad7a488dacb8971e7c0c2f559'

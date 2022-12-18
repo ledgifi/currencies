@@ -6,3 +6,5 @@ id_nomics: BELUGA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BELUGA.jpg
 logoKey: currencies/beluga.jpg
 name: Belugaswap
+platform: BNB
+platform_contract: '0x181de8c57c4f25eba9fd27757bbd11cc66a55d31'

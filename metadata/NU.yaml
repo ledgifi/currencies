@@ -8,3 +8,5 @@ id_nomics: NU
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210604/a575d070-0e5a-4dcb-9c27-790731f30bcf.png
 logoKey: currencies/nu.png
 name: NuCypher
+platform: ETH
+platform_contract: '0x4fe83213d56308330ec302a8bd641f1d0113a4cc'

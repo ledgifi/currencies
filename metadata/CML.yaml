@@ -5,3 +5,5 @@ id_nomics: CML
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CML.jpg
 logoKey: currencies/cml.jpg
 name: Camelcoin
+platform: ETH
+platform_contract: '0x16f211421b40a0fac88310be8d11ea56deca374f'

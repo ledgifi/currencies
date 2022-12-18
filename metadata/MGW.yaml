@@ -5,3 +5,5 @@ id_nomics: MGW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MGW.png
 logoKey: currencies/mgw.png
 name: MetaGirlWarrior
+platform: BNB
+platform_contract: '0x773bce12e7cf820fe26a835d6f919e8b5b0393ea'

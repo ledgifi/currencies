@@ -6,3 +6,5 @@ id_nomics: BOOL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOOL.jpg
 logoKey: currencies/bool.jpg
 name: Boolean
+platform: ETH
+platform_contract: '0x6c929cde908481f3d1d775008791f42b1b89dbb0'

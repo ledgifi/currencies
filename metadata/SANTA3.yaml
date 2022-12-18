@@ -5,3 +5,5 @@ id_nomics: SANTA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SANTA3.jpg
 logoKey: currencies/santa3.jpg
 name: Santa Coin
+platform: BNB
+platform_contract: '0x4f1a6fc6a7b65dc7ebc4eb692dc3641be997c2f2'

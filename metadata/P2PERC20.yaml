@@ -5,3 +5,5 @@ id_nomics: P2PERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/P2PERC20.jpeg
 logoKey: currencies/p2perc20.jpeg
 name: P2PCOIN (ERC-20)
+platform: ETH
+platform_contract: '0x5405b4f1ad67acd90f4c02290c028072997e3154'

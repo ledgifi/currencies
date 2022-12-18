@@ -5,3 +5,5 @@ id_nomics: EQX2BEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EQX2BEP20.jpg
 logoKey: currencies/eqx2bep20.jpg
 name: EQIFI (BEP-20)
+platform: BNB
+platform_contract: '0x436c52a8cee41d5e9c5e6f4cb146e66d552fb700'

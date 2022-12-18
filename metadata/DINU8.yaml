@@ -5,3 +5,5 @@ id_nomics: DINU8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DINU8.jpg
 logoKey: currencies/dinu8.jpg
 name: DunkinInu
+platform: BNB
+platform_contract: '0xE5659bFa2f17D639252d702d167756e75d6025e3'

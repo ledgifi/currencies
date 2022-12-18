@@ -6,3 +6,5 @@ id_nomics: COPS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COPS.jpg
 logoKey: currencies/cops.jpg
 name: Cops Finance
+platform: ETH
+platform_contract: '0x14dfa5cfaafe89d81d7bf3df4e11eaeda0416618'

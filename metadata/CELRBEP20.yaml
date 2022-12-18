@@ -5,3 +5,5 @@ id_nomics: CELRBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CELRBEP20.jpg
 logoKey: currencies/celrbep20.jpg
 name: Celer Network (BEP-20)
+platform: BNB
+platform_contract: '0x1f9f6a696c6fd109cd3956f45dc709d2b3902163'

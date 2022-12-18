@@ -3,3 +3,5 @@ fiat: false
 id: IXBTC
 id_nomics: IXBTC
 name: IXBTC
+platform: BNB
+platform_contract: '0x26bbe014369b4a3ae739d590ee2f403189128f02'

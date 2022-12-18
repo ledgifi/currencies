@@ -6,3 +6,5 @@ id_nomics: SUKU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUKU.jpg
 logoKey: currencies/suku.jpg
 name: SUKU
+platform: ETH
+platform_contract: '0x0763fdccf1ae541a5961815c0872a8c5bc6de4d7'

@@ -6,3 +6,5 @@ id_nomics: HARE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HARE.png
 logoKey: currencies/hare.png
 name: Hare Token
+platform: BNB
+platform_contract: '0x4afc8c2be6a0783ea16e16066fde140d15979296'

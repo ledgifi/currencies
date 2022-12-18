@@ -3,3 +3,5 @@ fiat: false
 id: QMD
 id_nomics: QMD
 name: Quantum
+platform: BNB
+platform_contract: '0x43f5c7247b0af6cd79dde132e2cefa01f1bac88f'

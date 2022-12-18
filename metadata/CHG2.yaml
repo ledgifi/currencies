@@ -5,3 +5,5 @@ id_nomics: CHG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHG2.jpeg
 logoKey: currencies/chg2.jpeg
 name: Charge
+platform: ETH
+platform_contract: '0x317fbfdb264b57fcef01867c6218ade697614443'

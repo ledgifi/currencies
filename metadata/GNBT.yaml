@@ -6,3 +6,5 @@ id_nomics: GNBT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GNBT.jpg
 logoKey: currencies/gnbt.jpg
 name: Genebank Token
+platform: ETH
+platform_contract: '0x7aa46a51f717404d944051af3075bbcb49b2288b'

@@ -5,3 +5,5 @@ id_nomics: KIMJU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KIMJU.jpeg
 logoKey: currencies/kimju.jpeg
 name: KIMJU
+platform: BNB
+platform_contract: '0x9f9bec61586996f9c63bc26c9a9b179458ed30be'

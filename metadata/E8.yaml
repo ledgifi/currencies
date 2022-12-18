@@ -6,3 +6,5 @@ id_nomics: E8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/E8.jpg
 logoKey: currencies/e8.jpg
 name: Energy8
+platform: MATIC
+platform_contract: '0x08e175a1eac9744a0f1ccaeb8f669af6a2bda3ce'

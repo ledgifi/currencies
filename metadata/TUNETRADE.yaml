@@ -5,3 +5,5 @@ id_nomics: TUNETRADE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TUNETRADE.png
 logoKey: currencies/tunetrade.png
 name: Tunetrade
+platform: ETH
+platform_contract: '0xa57a2ad52ad6b1995f215b12fc037bffd990bc5e'

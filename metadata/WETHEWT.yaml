@@ -5,3 +5,5 @@ id_nomics: WETHEWT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WETHEWT.png
 logoKey: currencies/wethewt.png
 name: Wrapped Ether on Energy Web Chain
+platform: EWT
+platform_contract: '0xe1BCdcd419Eb96d67D3eAb707FC108eD9172aDc7'

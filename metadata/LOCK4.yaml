@@ -5,3 +5,5 @@ id_nomics: LOCK4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOCK4.jpg
 logoKey: currencies/lock4.jpg
 name: Sherlock365
+platform: BNB
+platform_contract: '0xa701d17b70fefc79f9fe40b4b37085d2d7f418e1'

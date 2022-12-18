@@ -5,3 +5,5 @@ id_nomics: WFIL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WFIL.png
 logoKey: currencies/wfil.png
 name: Wrapped Filecoin
+platform: ETH
+platform_contract: '0x6e1a19f235be7ed8e3369ef73b196c07257494de'

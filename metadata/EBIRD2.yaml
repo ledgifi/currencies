@@ -5,3 +5,5 @@ id_nomics: EBIRD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EBIRD2.jpg
 logoKey: currencies/ebird2.jpg
 name: Early Bird
+platform: BNB
+platform_contract: '0x999aeb6d778b3883c88ebc502b16a5395d011462'

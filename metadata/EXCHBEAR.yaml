@@ -3,3 +3,5 @@ fiat: false
 id: EXCHBEAR
 id_nomics: EXCHBEAR
 name: 3X Short Exchange Token Index Token
+platform: ETH
+platform_contract: '0x6baa91cd8aa07431760ef2eedfedcef662a6b8b3'

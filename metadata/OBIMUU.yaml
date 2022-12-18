@@ -5,3 +5,5 @@ id_nomics: OBIMUU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OBIMUU.png
 logoKey: currencies/obimuu.png
 name: ObiMuu
+platform: BNB
+platform_contract: '0xfe445d02229a19095cc529b6ae5fe594402b4735'

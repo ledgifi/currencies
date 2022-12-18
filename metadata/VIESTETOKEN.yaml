@@ -5,3 +5,5 @@ id_nomics: VIESTETOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VIESTETOKEN.jpg
 logoKey: currencies/viestetoken.jpg
 name: ViesteToken-Crypto.com
+platform: CRO
+platform_contract: '0x83d47834b7d8cc92dc854d4b5198b5a1e8d03c25'

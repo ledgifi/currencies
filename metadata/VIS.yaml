@@ -5,3 +5,5 @@ id_nomics: VIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VIS.jpg
 logoKey: currencies/vis.jpg
 name: Vigorus
+platform: MATIC
+platform_contract: '0xcc1b9517460d8ae86fe576f614d091fca65a28fc'

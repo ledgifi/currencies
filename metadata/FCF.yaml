@@ -6,3 +6,5 @@ id_nomics: FCF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FCF.jpeg
 logoKey: currencies/fcf.jpeg
 name: French Connection Finance
+platform: BNB
+platform_contract: '0x4673f018cc6d401aad0402bdbf2abcbf43dd69f3'

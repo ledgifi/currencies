@@ -6,3 +6,5 @@ id_nomics: FUMA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FUMA.jpeg
 logoKey: currencies/fuma.jpeg
 name: Fuma Finance
+platform: BNB
+platform_contract: '0x9d872b4a9aaaab513f41c464baaf4033cf6c603b'

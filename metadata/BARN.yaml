@@ -5,3 +5,5 @@ id_nomics: BARN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BARN.jpg
 logoKey: currencies/barn.jpg
 name: BARN
+platform: BNB
+platform_contract: '0x067c9a5ac00009342ae45401e8fc2bd0c058d37d'

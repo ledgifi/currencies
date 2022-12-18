@@ -5,3 +5,5 @@ id_nomics: VNT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VNT.jpg
 logoKey: currencies/vnt.jpg
 name: Vanta Network
+platform: ETH
+platform_contract: '0xdcc27bbaa14cafd8a6aeb847e1b01c5dffb70935'

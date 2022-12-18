@@ -5,3 +5,5 @@ id_nomics: SIS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIS2.png
 logoKey: currencies/sis2.png
 name: Sorposis Token
+platform: MATIC
+platform_contract: '0xaedc551ff5af998994d760a6e373067a88c0a2b5'

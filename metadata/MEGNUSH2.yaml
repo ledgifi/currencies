@@ -5,3 +5,5 @@ id_nomics: MEGNUSH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEGNUSH2.jpeg
 logoKey: currencies/megnush2.jpeg
 name: MEGNUSH V2
+platform: BNB
+platform_contract: '0x25c5788512ebd830415ba4ae594587ad3d057b95'

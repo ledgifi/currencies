@@ -6,3 +6,5 @@ id_nomics: DOGEZILLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEZILLA.jpg
 logoKey: currencies/dogezilla.jpg
 name: DogeZilla
+platform: BNB
+platform_contract: '0x7a565284572d03ec50c35396f7d6001252eb43b6'

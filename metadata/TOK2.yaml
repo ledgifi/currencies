@@ -5,3 +5,5 @@ id_nomics: TOK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOK2.png
 logoKey: currencies/tok2.png
 name: Tokenplace
+platform: ETH
+platform_contract: '0x4fb721ef3bf99e0f2c193847afa296b9257d3c30'

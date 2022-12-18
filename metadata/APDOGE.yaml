@@ -3,3 +3,5 @@ fiat: false
 id: APDOGE
 id_nomics: APDOGE
 name: Apollo Doge
+platform: ETH
+platform_contract: '0x6f069b9eab2967723217d320688a00eb2a9fb8fa'

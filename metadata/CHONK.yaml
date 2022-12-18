@@ -6,3 +6,5 @@ id_nomics: CHONK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHONK.jpg
 logoKey: currencies/chonk.jpg
 name: Chonk
+platform: ETH
+platform_contract: '0x84679bc467dc6c2c40ab04538813aff3796351f1'

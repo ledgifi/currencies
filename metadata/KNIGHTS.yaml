@@ -5,3 +5,5 @@ id_nomics: KNIGHTS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KNIGHTS.png
 logoKey: currencies/knights.png
 name: Knights of Fantom
+platform: FTM
+platform_contract: '0xba36266B6565C96BD77815fa898f403Cc06F64cf'

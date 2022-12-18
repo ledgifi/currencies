@@ -3,3 +3,5 @@ fiat: false
 id: MBOTTAX
 id_nomics: MBOTTAX
 name: Mini BotTax
+platform: BNB
+platform_contract: '0x906251a947e666a9fdf32a9d9e512f3c83a034e3'

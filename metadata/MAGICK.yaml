@@ -6,3 +6,5 @@ id_nomics: MAGICK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAGICK.jpg
 logoKey: currencies/magick.jpg
 name: Magick DAO
+platform: ETH
+platform_contract: '0x6b578f63a40173d85215cc01d6d79e553e8c993c'

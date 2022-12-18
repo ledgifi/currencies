@@ -5,3 +5,5 @@ id_nomics: RZRV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RZRV.jpg
 logoKey: currencies/rzrv.jpg
 name: Rezerve V1 (OLD)
+platform: ETH
+platform_contract: '0x23b8b512175590a76fff32c6f06a7ef1ce4724c7'

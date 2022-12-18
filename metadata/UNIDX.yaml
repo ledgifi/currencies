@@ -6,3 +6,5 @@ id_nomics: UNIDX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNIDX.jpg
 logoKey: currencies/unidx.jpg
 name: UniDex
+platform: ETH
+platform_contract: '0x95b3497bbcccc46a8f45f5cf54b0878b39f8d96c'

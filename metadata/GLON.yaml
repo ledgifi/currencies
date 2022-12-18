@@ -5,3 +5,5 @@ id_nomics: GLON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GLON.jpg
 logoKey: currencies/glon.jpg
 name: Glowston
+platform: BNB
+platform_contract: '0x9698Bb7572819Fb8Df523A899621B72E281AACb0'

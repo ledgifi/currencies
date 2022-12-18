@@ -6,3 +6,5 @@ id_nomics: XBURGER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XBURGER.jpg
 logoKey: currencies/xburger.jpg
 name: xBURGER
+platform: BNB
+platform_contract: '0xafe24e29da7e9b3e8a25c9478376b6ad6ad788dd'

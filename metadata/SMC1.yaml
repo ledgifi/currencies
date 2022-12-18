@@ -5,3 +5,5 @@ id_nomics: SMC1
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMC1.png
 logoKey: currencies/smc1.png
 name: semicon1
+platform: ETH
+platform_contract: '0x2edc01f6e8b2387e76872cbbe1b69407ec058f34'

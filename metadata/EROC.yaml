@@ -5,3 +5,5 @@ id_nomics: EROC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EROC.png
 logoKey: currencies/eroc.png
 name: EmeraldRockets
+platform: ETH
+platform_contract: '0x9b9f0dad27516c237c6ea3024d4cdaea0c6b2ce9'

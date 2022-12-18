@@ -3,3 +3,5 @@ fiat: false
 id: WEBT
 id_nomics: WEBT
 name: WEB Test
+platform: BNB
+platform_contract: '0x67487de12f8e2c522d6896fa41be75a311007448'

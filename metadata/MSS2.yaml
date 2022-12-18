@@ -5,3 +5,5 @@ id_nomics: MSS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSS2.jpeg
 logoKey: currencies/mss2.jpeg
 name: MetaSupercars
+platform: BNB
+platform_contract: '0x9c76b80a85035c03492e9b9b022d73051c38a914'

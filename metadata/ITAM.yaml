@@ -5,3 +5,5 @@ id_nomics: ITAM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ITAM.jpg
 logoKey: currencies/itam.jpg
 name: ITAM (ERC-20)
+platform: ETH
+platform_contract: '0x3b4f7cb9e60362a49dd04eb0091a374d340e3efd'

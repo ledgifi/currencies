@@ -3,3 +3,5 @@ fiat: false
 id: EPROINU
 id_nomics: EPROINU
 name: ETHEREUM PRO INU
+platform: ETH
+platform_contract: '0x258dd908cf6911e2c55effefd820c695963848b9'

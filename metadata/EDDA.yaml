@@ -6,3 +6,5 @@ id_nomics: EDDA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EDDA.jpg
 logoKey: currencies/edda.jpg
 name: EDDASwap
+platform: ETH
+platform_contract: '0xfbbe9b1142c699512545f47937ee6fae0e4b0aa9'

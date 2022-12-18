@@ -5,3 +5,5 @@ id_nomics: ELET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELET.jpg
 logoKey: currencies/elet.jpg
 name: Elementium token
+platform: ETH
+platform_contract: '0x0568025c55c21bda4bc488f3107ebfc8b3d3ef2d'

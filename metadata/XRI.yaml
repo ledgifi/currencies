@@ -6,3 +6,5 @@ id_nomics: XRI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XRI.jpg
 logoKey: currencies/xri.jpg
 name: XRoad
+platform: ETH
+platform_contract: '0x9287aefe51047ef43f68612f80bac17745b23aec'

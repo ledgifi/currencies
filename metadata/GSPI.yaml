@@ -5,3 +5,5 @@ id_nomics: GSPI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GSPI.jpg
 logoKey: currencies/gspi.jpg
 name: GSPI
+platform: BNB
+platform_contract: '0xb42e1c3902b85b410334f5fff79cdc51fbee6950'

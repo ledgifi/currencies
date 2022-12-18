@@ -3,3 +3,5 @@ fiat: false
 id: MOOMAIUSDCMIMATIC
 id_nomics: MOOMAIUSDCMIMATIC
 name: Moo Mai USDC-miMATIC
+platform: MATIC
+platform_contract: '0xebe0c8d842aa5a57d7bef8e524deaba676f91cd1'

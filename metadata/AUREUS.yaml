@@ -5,3 +5,5 @@ id_nomics: AUREUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AUREUS.jpeg
 logoKey: currencies/aureus.jpeg
 name: Aureus Token
+platform: BNB
+platform_contract: '0xe8F6311A615b4E5f50bb2C6071c725518207337d'

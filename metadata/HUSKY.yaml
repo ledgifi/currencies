@@ -5,3 +5,5 @@ id_nomics: HUSKY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HUSKY.jpg
 logoKey: currencies/husky.jpg
 name: Husky
+platform: ETH
+platform_contract: '0xd5281bb2d1ee94866b03a0fccdd4e900c8cb5091'

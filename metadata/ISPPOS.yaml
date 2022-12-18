@@ -5,3 +5,5 @@ id_nomics: ISPPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ISPPOS.png
 logoKey: currencies/isppos.png
 name: Ispolink (Polygon)
+platform: MATIC
+platform_contract: '0x1e289178612f5b6d32f692e312dcf783c74b2162'

@@ -6,3 +6,5 @@ id_nomics: KRON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KRON.jpg
 logoKey: currencies/kron.jpg
 name: KRON Token
+platform: ETH
+platform_contract: '0x2e182afc7dc747f3bd65264f2a446120f5c044b1'

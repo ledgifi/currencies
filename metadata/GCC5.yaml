@@ -3,3 +3,5 @@ fiat: false
 id: GCC5
 id_nomics: GCC5
 name: Global Communication
+platform: HT
+platform_contract: '0xdd5853b1548cfd07502b02b0a76f44aeee2284bf'

@@ -5,3 +5,5 @@ id_nomics: BAPT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAPT.jpg
 logoKey: currencies/bapt.jpg
 name: Baby Aptos
+platform: BNB
+platform_contract: '0xe4c6dd06da4c0934d265d6cb6875e576485cf332'

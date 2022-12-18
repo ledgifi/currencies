@@ -5,3 +5,5 @@ id_nomics: ELLIESWAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELLIESWAP.png
 logoKey: currencies/ellieswap.png
 name: EllieSwap
+platform: BNB
+platform_contract: '0xD5bcCE8d8feeaC8221cb5b03e77BE91Cfe052e5D'

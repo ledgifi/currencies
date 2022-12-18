@@ -5,3 +5,5 @@ id_nomics: OSMOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OSMOX.jpg
 logoKey: currencies/osmox.jpg
 name: OsmoX
+platform: BNB
+platform_contract: '0xc46869c706293a0f732aac532825888cc11f4807'

@@ -6,3 +6,5 @@ id_nomics: TOROCUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOROCUS.png
 logoKey: currencies/torocus.png
 name: TOROCUS Token
+platform: ETH
+platform_contract: '0x406ae253fb0aa898f9912fb192c1e6deb9623a07'

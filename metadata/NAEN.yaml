@@ -5,3 +5,5 @@ id_nomics: NAEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NAEN.jpg
 logoKey: currencies/naen.jpg
 name: Natizet.Network
+platform: ETH
+platform_contract: '0x01d7a391969986dead1ad4d856948bf939029299'

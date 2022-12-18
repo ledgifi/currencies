@@ -5,3 +5,5 @@ id_nomics: PUGL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PUGL.jpg
 logoKey: currencies/pugl.jpg
 name: PugLife
+platform: ETH
+platform_contract: '0xdb69c3f8977f78952303987e87153c1988cf65a9'

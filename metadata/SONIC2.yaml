@@ -5,3 +5,5 @@ id_nomics: SONIC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SONIC2.jpg
 logoKey: currencies/sonic2.jpg
 name: SonicToken
+platform: ETH
+platform_contract: '0x263cd48d120a528c75fe4c4af94f3f3a3b5865d7'

@@ -6,3 +6,5 @@ id_nomics: SOSX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOSX.png
 logoKey: currencies/sosx.png
 name: SocialX
+platform: BNB
+platform_contract: '0xc27f6473a04b2bdee0bf650f153f1d8720aa3062'

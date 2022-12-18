@@ -6,3 +6,5 @@ id_nomics: MELLO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MELLO.jpg
 logoKey: currencies/mello.jpg
 name: Mello Token
+platform: BNB
+platform_contract: '0x651bfbb26455294408aabc61a7adf427bf149898'

@@ -5,3 +5,5 @@ id_nomics: SQUIRGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SQUIRGE.jpg
 logoKey: currencies/squirge.jpg
 name: SquidMerge
+platform: BNB
+platform_contract: '0xfcc2d56255ffe7045a4f31592bcc1ffdd7fdbe55'

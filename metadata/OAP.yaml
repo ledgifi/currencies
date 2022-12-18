@@ -6,3 +6,5 @@ id_nomics: OAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OAP.jpg
 logoKey: currencies/oap.jpg
 name: OpenAlexa Protocol
+platform: ETH
+platform_contract: '0x1788430620960f9a70e3dc14202a3a35dde1a316'

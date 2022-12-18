@@ -3,3 +3,5 @@ fiat: false
 id: SONIC
 id_nomics: SONIC
 name: Super Sonic Eth
+platform: ETH
+platform_contract: '0x31013f7bd19c8877fef787c47ca8b2478e71a7b8'

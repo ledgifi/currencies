@@ -3,3 +3,5 @@ fiat: false
 id: INEG
 id_nomics: INEG
 name: infinite energy
+platform: BNB
+platform_contract: '0x07b881d28a638624d6d34f403f63a82e1787676c'

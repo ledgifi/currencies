@@ -3,3 +3,5 @@ fiat: false
 id: BSCHO
 id_nomics: BSCHO
 name: Binance-Peg BSC-HO
+platform: BNB
+platform_contract: '0x41515885251e724233c6ca94530d6dcf3a20dec7'

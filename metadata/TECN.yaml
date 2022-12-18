@@ -5,3 +5,5 @@ id_nomics: TECN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TECN.jpeg
 logoKey: currencies/tecn.jpeg
 name: Teccoin
+platform: ETH
+platform_contract: '0x7dee371a788f9bd6c546df83f0d74fbe37cbf006'

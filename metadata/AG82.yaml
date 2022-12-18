@@ -5,3 +5,5 @@ id_nomics: AG82
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AG82.png
 logoKey: currencies/ag82.png
 name: Aggreg8 Finance
+platform: BNB
+platform_contract: '0x5f43310f55f2377010724ec55de77707d5c6531b'

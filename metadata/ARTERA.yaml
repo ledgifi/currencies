@@ -3,3 +3,5 @@ fiat: false
 id: ARTERA
 id_nomics: ARTERA
 name: Artera Token
+platform: ETH
+platform_contract: '0xd1f27e2a32e36ea5012d34178ca452ace284bc03'

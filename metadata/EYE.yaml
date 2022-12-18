@@ -5,3 +5,5 @@ id_nomics: EYE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EYE.png
 logoKey: currencies/eye.png
 name: Behodler
+platform: ETH
+platform_contract: '0x155ff1a85f440ee0a382ea949f24ce4e0b751c65'

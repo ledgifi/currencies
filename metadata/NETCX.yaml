@@ -5,3 +5,5 @@ id_nomics: NETCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NETCX.jpg
 logoKey: currencies/netcx.jpg
 name: Cloudflare, Inc. Token
+platform: ETH
+platform_contract: '0x3ea9fb5d766458e8eec3c2d6434e14c484d03db7'

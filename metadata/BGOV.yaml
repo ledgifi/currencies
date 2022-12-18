@@ -5,3 +5,5 @@ id_nomics: BGOV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BGOV.png
 logoKey: currencies/bgov.png
 name: BGOV
+platform: BNB
+platform_contract: '0xf8e026dc4c0860771f691ecffbbdfe2fa51c77cf'

@@ -5,3 +5,5 @@ id_nomics: KONGZ20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KONGZ20.png
 logoKey: currencies/kongz20.png
 name: CyberKongz
+platform: ETH
+platform_contract: '0x9d59eba4deaee09466ba9d4073bf912bc72982b0'

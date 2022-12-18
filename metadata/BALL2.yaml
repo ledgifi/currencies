@@ -5,3 +5,5 @@ id_nomics: BALL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BALL2.jpg
 logoKey: currencies/ball2.jpg
 name: Ball Token
+platform: BNB
+platform_contract: '0xc87eafc1d1c3f46148ea5446d7a645602340b1e6'

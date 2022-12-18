@@ -6,3 +6,5 @@ id_nomics: CHKN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHKN.jpg
 logoKey: currencies/chkn.jpg
 name: Chicken Zilla
+platform: BNB
+platform_contract: '0xabde9af935d52ed5eaf17db7f1f3d025b8abd9ae'

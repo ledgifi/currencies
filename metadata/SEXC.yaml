@@ -6,3 +6,5 @@ id_nomics: SEXC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SEXC.png
 logoKey: currencies/sexc.png
 name: ShareX
+platform: ETH
+platform_contract: '0x2567c677473d110d75a8360c35309e63b1d52429'

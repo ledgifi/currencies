@@ -5,3 +5,5 @@ id_nomics: DIAMONDGEMS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DIAMONDGEMS.jpeg
 logoKey: currencies/diamondgems.jpeg
 name: Diamond Gems
+platform: BNB
+platform_contract: '0xd9efdf60dbe45e83c9e9c6ee19fa1e15ac17d11c'

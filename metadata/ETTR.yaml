@@ -3,3 +3,5 @@ fiat: false
 id: ETTR
 id_nomics: ETTR
 name: EnergyTrade
+platform: BNB
+platform_contract: '0x49926719991f3491fb087e1694da4a3cb410fc2d'

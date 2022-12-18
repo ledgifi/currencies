@@ -5,3 +5,5 @@ id_nomics: NEKOCHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEKOCHI.jpg
 logoKey: currencies/nekochi.jpg
 name: Nekochi Inu
+platform: BNB
+platform_contract: '0xdca060ab89ce1c6f398c3df2fd40a5837f5bc6ce'

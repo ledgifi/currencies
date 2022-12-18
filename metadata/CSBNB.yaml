@@ -3,3 +3,5 @@ fiat: false
 id: CSBNB
 id_nomics: CSBNB
 name: Classic BNB
+platform: BNB
+platform_contract: '0x7c433e970216eea548f47528a451356463c2fb06'

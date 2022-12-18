@@ -5,3 +5,5 @@ id_nomics: TXTCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TXTCX.jpg
 logoKey: currencies/txtcx.jpg
 name: Textron Inc. Token
+platform: ETH
+platform_contract: '0x57b1b057330d428199477b463f93a1fc9e61f94f'

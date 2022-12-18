@@ -5,3 +5,5 @@ id_nomics: BAYNCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAYNCX.jpg
 logoKey: currencies/bayncx.jpg
 name: Bayer AG
+platform: ETH
+platform_contract: '0xa075ca239e642d48dc5ab178b5f4fe3cd07f5c04'

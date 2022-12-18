@@ -5,3 +5,5 @@ id_nomics: BRT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRT2.jpg
 logoKey: currencies/brt2.jpg
 name: Base Reward Token
+platform: BNB
+platform_contract: '0x0d499b25bce7aa72bb6c50e434e2ed26fe1e785d'

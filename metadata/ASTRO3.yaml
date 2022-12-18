@@ -5,3 +5,5 @@ id_nomics: ASTRO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASTRO3.png
 logoKey: currencies/astro3.png
 name: Astronautas Token
+platform: BNB
+platform_contract: '0x3835943d4013ef994e3062e6049d2a7415daff9e'

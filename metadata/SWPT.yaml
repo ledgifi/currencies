@@ -6,3 +6,5 @@ id_nomics: SWPT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWPT.png
 logoKey: currencies/swpt.png
 name: SwapTracker
+platform: BNB
+platform_contract: '0x01832e3346fd3a0d38ca589d836bd78d1de7030c'

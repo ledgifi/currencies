@@ -5,3 +5,5 @@ id_nomics: FNDZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FNDZ.jpg
 logoKey: currencies/fndz.jpg
 name: FNDZ
+platform: BNB
+platform_contract: '0x7754c0584372d29510c019136220f91e25a8f706'

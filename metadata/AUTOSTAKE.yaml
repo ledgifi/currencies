@@ -5,3 +5,5 @@ id_nomics: AUTOSTAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AUTOSTAKE.jpg
 logoKey: currencies/autostake.jpg
 name: Auto-Stake
+platform: BNB
+platform_contract: '0x306ac15437a09aa4717feca317e3812476b8801a'

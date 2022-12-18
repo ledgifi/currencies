@@ -5,3 +5,5 @@ id_nomics: LORDSHIBAINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LORDSHIBAINU.jpg
 logoKey: currencies/lordshibainu.jpg
 name: Lord Shiba Inu
+platform: BNB
+platform_contract: '0xa2d07c3c1118e919d8fe5f2d44e96e5d56498e4c'

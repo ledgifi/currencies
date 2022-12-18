@@ -6,3 +6,5 @@ id_nomics: ABIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ABIC.jpg
 logoKey: currencies/abic.jpg
 name: Arabic
+platform: BNB
+platform_contract: '0x4823a096382f4fa583b55d563afb9f9a58c72fc0'

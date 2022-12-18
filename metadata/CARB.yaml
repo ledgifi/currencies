@@ -5,3 +5,5 @@ id_nomics: CARB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CARB.jpg
 logoKey: currencies/carb.jpg
 name: CarbCoin
+platform: ETH
+platform_contract: '0xa517a46baad6b054a76bd19c46844f717fe69fea'

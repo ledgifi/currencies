@@ -5,3 +5,5 @@ id_nomics: DNX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/dnx.jpg
 logoKey: currencies/dnx.jpg
 name: Den-X
+platform: ETH
+platform_contract: '0x16f22eed5dcced8bf57d28834a75a76ff5520206'

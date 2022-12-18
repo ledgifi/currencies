@@ -6,3 +6,5 @@ id_nomics: FBX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FBX.jpg
 logoKey: currencies/fbx.jpg
 name: ForthBox
+platform: BNB
+platform_contract: '0xfd57ac98aa8e445c99bc2c41b23997573fadf795'

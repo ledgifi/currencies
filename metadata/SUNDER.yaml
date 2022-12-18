@@ -5,3 +5,5 @@ id_nomics: SUNDER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUNDER.jpg
 logoKey: currencies/sunder.jpg
 name: Sunder Goverance Token
+platform: ETH
+platform_contract: '0xbdbf245c690d54b67c6e610a28486a2c6de08be6'

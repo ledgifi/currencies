@@ -5,3 +5,5 @@ id_nomics: ANPAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANPAN.png
 logoKey: currencies/anpan.png
 name: AnpanSwap
+platform: BNB
+platform_contract: '0x10b0a78520fbdda95adc331445d9319b164f85d5'

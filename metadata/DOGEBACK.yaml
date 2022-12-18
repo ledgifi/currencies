@@ -6,3 +6,5 @@ id_nomics: DOGEBACK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEBACK.jpg
 logoKey: currencies/dogeback.jpg
 name: Doge Back
+platform: BNB
+platform_contract: '0x08c975868e547bfe5f76db7d1e075680e9736034'

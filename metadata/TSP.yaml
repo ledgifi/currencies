@@ -6,3 +6,5 @@ id_nomics: TSP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TSP.jpg
 logoKey: currencies/tsp.jpg
 name: The Spartans
+platform: BNB
+platform_contract: '0x930cec48eddc7f80afad2b08997d0a43912b80d4'

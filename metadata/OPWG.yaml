@@ -3,3 +3,5 @@ fiat: false
 id: OPWG
 id_nomics: OPWG
 name: opwg token
+platform: BNB
+platform_contract: '0x414f9e3414cc8d8e837412781ab822d8b4ca54fb'

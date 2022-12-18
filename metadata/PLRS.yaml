@@ -5,3 +5,5 @@ id_nomics: PLRS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLRS.jpg
 logoKey: currencies/plrs.jpg
 name: Polaris Token
+platform: AURORA3
+platform_contract: '0x631edd14bb0b2505c91176feedc5f082d27dd5b8'

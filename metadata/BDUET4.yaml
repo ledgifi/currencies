@@ -3,3 +3,5 @@ fiat: false
 id: BDUET4
 id_nomics: BDUET4
 name: Bonded Duet
+platform: BNB
+platform_contract: '0xe25e744b905bbfefaed43346764034f536c9d5d5'

@@ -5,3 +5,5 @@ id_nomics: PXT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PXT4.jpg
 logoKey: currencies/pxt4.jpg
 name: PXT
+platform: AVAX
+platform_contract: '0x9adcbba4b79ee5285e891512b44706f41f14cafd'

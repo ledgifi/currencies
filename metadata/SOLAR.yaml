@@ -6,3 +6,5 @@ id_nomics: SOLAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOLAR.jpg
 logoKey: currencies/solar.jpg
 name: Solarmoon
+platform: BNB
+platform_contract: '0x5f00052b8c81a799b4f3bbc9ea2a1b7ecd06fba6'

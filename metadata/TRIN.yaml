@@ -6,3 +6,5 @@ id_nomics: TRIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRIN.jpg
 logoKey: currencies/trin.jpg
 name: Trinity Defi
+platform: BNB
+platform_contract: '0x07756a602d94d710ee53058244333efb74024883'

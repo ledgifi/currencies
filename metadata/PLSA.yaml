@@ -5,3 +5,5 @@ id_nomics: PLSA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLSA.png
 logoKey: currencies/plsa.png
 name: PulseApeCoin
+platform: ETH
+platform_contract: '0x8af38d3530bbd802ff2d132ae361897aca004ec1'

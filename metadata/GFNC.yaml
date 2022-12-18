@@ -6,3 +6,5 @@ id_nomics: GFNC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GFNC.jpg
 logoKey: currencies/gfnc.jpg
 name: GrafenoCoin
+platform: TRX
+platform_contract: '1002992'

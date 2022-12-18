@@ -4,3 +4,5 @@ id: GSBL
 id_nomics: GSBL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GSBL.png
 name: GasBlock
+platform: ETH
+platform_contract: '0x4a5dec561de897c04062137e687db6093c3278b8'

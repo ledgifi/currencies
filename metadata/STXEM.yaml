@@ -5,3 +5,5 @@ id_nomics: STXEM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STXEM.png
 logoKey: currencies/stxem.png
 name: stakedXEM
+platform: ETH
+platform_contract: '0x0c63cae5fcc2ca3dde60a35e50362220651ebec8'

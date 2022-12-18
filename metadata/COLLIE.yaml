@@ -3,3 +3,5 @@ fiat: false
 id: COLLIE
 id_nomics: COLLIE
 name: Collie Token
+platform: BNB
+platform_contract: '0x276a31937882880e91413e9734c15df1101b46c5'

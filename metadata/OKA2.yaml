@@ -5,3 +5,5 @@ id_nomics: OKA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OKA2.jpg
 logoKey: currencies/oka2.jpg
 name: Okaleido
+platform: BNB
+platform_contract: '0x0736fbf90ac5892135908b30161994646678ef7d'

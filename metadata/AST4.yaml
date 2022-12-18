@@ -5,3 +5,5 @@ id_nomics: AST4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AST4.jpg
 logoKey: currencies/ast4.jpg
 name: Ainu Swap Token
+platform: BNB
+platform_contract: '0xf86f68de7a9158b877f4283621d7aa83d3ea2633'

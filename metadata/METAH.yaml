@@ -5,3 +5,5 @@ id_nomics: METAH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAH.jpg
 logoKey: currencies/metah.jpg
 name: MetaHuman
+platform: BNB
+platform_contract: '0x6Ae0E762392C8A553D213BDA4d6Ca204fe13B34f'

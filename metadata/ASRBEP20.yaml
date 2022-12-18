@@ -5,3 +5,5 @@ id_nomics: ASRBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASRBEP20.jpg
 logoKey: currencies/asrbep20.jpg
 name: ' AS Roma (BEP-20)'
+platform: BNB
+platform_contract: '0x80d5f92c2c8c682070c95495313ddb680b267320'

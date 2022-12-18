@@ -5,3 +5,5 @@ id_nomics: MOONWALK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOONWALK.jpg
 logoKey: currencies/moonwalk.jpg
 name: MoonWalk
+platform: BNB
+platform_contract: '0xaab13c27aaa573b83bcb705ffe2d4858569b615c'

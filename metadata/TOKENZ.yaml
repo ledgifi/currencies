@@ -3,3 +3,5 @@ fiat: false
 id: TOKENZ
 id_nomics: TOKENZ
 name: TokenZ
+platform: AVAX
+platform_contract: '0x68d62afe25ebcab048e3b1571c1df9cbce2ef847'

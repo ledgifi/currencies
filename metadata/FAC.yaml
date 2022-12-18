@@ -5,3 +5,5 @@ id_nomics: FAC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FAC.jpg
 logoKey: currencies/fac.jpg
 name: Facepower
+platform: ETH
+platform_contract: '0x598c0d599d4a08e7719556ae54e7c88fff80f74d'

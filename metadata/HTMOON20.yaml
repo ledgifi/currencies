@@ -5,3 +5,5 @@ id_nomics: HTMOON20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HTMOON20.jpg
 logoKey: currencies/htmoon20.jpg
 name: HTMoon2.0
+platform: HT
+platform_contract: '0x1b512fc4662010138cba64923ee6ae8e01d26d84'

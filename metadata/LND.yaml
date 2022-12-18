@@ -6,3 +6,5 @@ id_nomics: LND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/lnd.png
 logoKey: currencies/lnd.png
 name: Lendingblock
+platform: ETH
+platform_contract: '0x0947b0e6d821378805c9598291385ce7c791a6b2'

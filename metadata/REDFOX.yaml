@@ -5,3 +5,5 @@ id_nomics: REDFOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REDFOX.jpg
 logoKey: currencies/redfox.jpg
 name: Red Fox
+platform: BNB
+platform_contract: '0xf5a5409affc41ed8524d5186aec1bbc85c8f422e'

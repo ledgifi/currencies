@@ -5,3 +5,5 @@ id_nomics: RNT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RNT2.jpeg
 logoKey: currencies/rnt2.jpeg
 name: Ring Network Token V2
+platform: BNB
+platform_contract: '0x2609ebad53f7660b4c336f81c6cdf2e0734aad61'

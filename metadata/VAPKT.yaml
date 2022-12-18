@@ -3,3 +3,5 @@ fiat: false
 id: VAPKT
 id_nomics: VAPKT
 name: vApeKingTest
+platform: BNB
+platform_contract: '0x42164b237b45b100f1fbf294588783acb3ccd89c'

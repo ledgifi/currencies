@@ -3,3 +3,5 @@ fiat: false
 id: BTCDAO
 id_nomics: BTCDAO
 name: BtcDAO
+platform: HT
+platform_contract: '0x911359d34f96c65c7f07ab4de97b241fa296d99d'

@@ -3,3 +3,5 @@ fiat: false
 id: MSAA
 id_nomics: MSAA
 name: MetaSwap Avalanche
+platform: AVAX
+platform_contract: '0x38b00fdf5f57831ca168676a71d860d1f084c84c'

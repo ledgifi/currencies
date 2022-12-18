@@ -5,3 +5,5 @@ id_nomics: SHINZI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHINZI.jpg
 logoKey: currencies/shinzi.jpg
 name: Shinzi Network
+platform: BNB
+platform_contract: '0xb58705818ed1cd68c7419b914db67edd0d781f9b'

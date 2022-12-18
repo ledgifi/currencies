@@ -5,3 +5,5 @@ id_nomics: MDC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MDC4.jpg
 logoKey: currencies/mdc4.jpg
 name: Mars DogeCoin
+platform: BNB
+platform_contract: '0xfb47e699facdf4493614b90234691b62a55a484c'

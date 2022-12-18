@@ -5,3 +5,5 @@ id_nomics: PLDAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLDAI.jpg
 logoKey: currencies/pldai.jpg
 name: Pool Dai
+platform: ETH
+platform_contract: '0x49d716dfe60b37379010a75329ae09428f17118d'

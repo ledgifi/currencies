@@ -3,3 +3,5 @@ fiat: false
 id: CHEETAH
 id_nomics: CHEETAH
 name: Cheetah Coin
+platform: ETH
+platform_contract: '0x1451b2a296904b5f5f482ebd0983b154105bc614'

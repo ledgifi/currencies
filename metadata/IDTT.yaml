@@ -6,3 +6,5 @@ id_nomics: IDTT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IDTT.png
 logoKey: currencies/idtt.png
 name: Identity
+platform: ETH
+platform_contract: '0x6fb1e018f107d3352506c23777e4cd62e063584a'

@@ -5,3 +5,5 @@ id_nomics: BINGS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BINGS.png
 logoKey: currencies/bings.png
 name: Bingschain
+platform: BNB
+platform_contract: '0x07800715245d547ad6b483f34ce8c392523ac8ec'

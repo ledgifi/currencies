@@ -6,3 +6,5 @@ id_nomics: IQG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IQG.png
 logoKey: currencies/iqg.png
 name: IQ Coin
+platform: BNB
+platform_contract: '0x3e0e89077cc8ef305e1354fce19037ba50c1a3a0'

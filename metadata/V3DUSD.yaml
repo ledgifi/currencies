@@ -3,3 +3,5 @@ fiat: false
 id: V3DUSD
 id_nomics: V3DUSD
 name: V3S-Peg Darkness Dollar
+platform: CRO
+platform_contract: '0xd9ef024bb157c2b897a95007a1b73543712f3b48'

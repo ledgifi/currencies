@@ -5,3 +5,5 @@ id_nomics: HCT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HCT3.jpg
 logoKey: currencies/hct3.jpg
 name: Hero Cat Token
+platform: BNB
+platform_contract: '0x29a1e54de0fce58e1018535d30af77a9d2d940c4'

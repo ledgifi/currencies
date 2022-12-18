@@ -6,3 +6,5 @@ id_nomics: 452B
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/452B.jpg
 logoKey: currencies/452b.jpg
 name: Kepler452b
+platform: BNB
+platform_contract: '0xc4544edef986eac0592516b6de4968da2405452b'

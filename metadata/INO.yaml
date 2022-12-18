@@ -5,3 +5,5 @@ id_nomics: INO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INO.jpg
 logoKey: currencies/ino.jpg
 name: Ino Coin
+platform: ETH
+platform_contract: '0xc9859fccc876e6b4b3c749c5d29ea04f48acb74f'

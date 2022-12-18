@@ -3,3 +3,5 @@ fiat: false
 id: SMC2
 id_nomics: SMC2
 name: Smart Medical Coin
+platform: ETH
+platform_contract: '0xb6eda82597808c96969c21a88bf6c749b441c44a'

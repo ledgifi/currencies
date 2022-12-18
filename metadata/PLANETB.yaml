@@ -5,3 +5,5 @@ id_nomics: PLANETB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLANETB.jpg
 logoKey: currencies/planetb.jpg
 name: PlanetB
+platform: BNB
+platform_contract: '0xd5830e9431482e72cc94a174e36ff6fa4b1eadf7'

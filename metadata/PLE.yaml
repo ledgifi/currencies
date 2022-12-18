@@ -6,3 +6,5 @@ id_nomics: PLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLE.png
 logoKey: currencies/ple.png
 name: Plethori
+platform: ETH
+platform_contract: '0x3873965e73d9a21f88e645ce40b7db187fde4931'

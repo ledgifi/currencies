@@ -3,3 +3,5 @@ fiat: false
 id: CELLS
 id_nomics: CELLS
 name: CELLS
+platform: ETH
+platform_contract: '0x68200a8d0e85022664e4a5c38750bb54857becc3'

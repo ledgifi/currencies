@@ -3,3 +3,5 @@ fiat: false
 id: BPX
 id_nomics: BPX
 name: Bispex
+platform: ETH
+platform_contract: '0x2aa4a3e8bb72be68a31c9c3c98ca7bec723c6222'

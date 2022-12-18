@@ -5,3 +5,5 @@ id_nomics: KJRAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KJRAI.jpg
 logoKey: currencies/kjrai.jpg
 name: Kujirai Official
+platform: BNB
+platform_contract: '0x2fc5bf1b940c1c58f8f1ae945d1d9c82a71c6e14'

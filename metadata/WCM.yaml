@@ -5,3 +5,5 @@ id_nomics: WCM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WCM.jpeg
 logoKey: currencies/wcm.jpeg
 name: Weedcommerce
+platform: BNB
+platform_contract: '0x5dcceecab066b8aabecfedbd5e9ccb3b2eb7a534'

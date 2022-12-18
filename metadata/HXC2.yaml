@@ -5,3 +5,5 @@ id_nomics: HXC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HXC2.png
 logoKey: currencies/hxc2.png
 name: Hellox
+platform: BNB
+platform_contract: '0x24c0965347ccb88aa2f9aea308ec742769e96a8b'

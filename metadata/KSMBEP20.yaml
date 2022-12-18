@@ -5,3 +5,5 @@ id_nomics: KSMBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KSMBEP20.jpg
 logoKey: currencies/ksmbep20.jpg
 name: Kusama (BEP-20)
+platform: BNB
+platform_contract: '0x2aa69e8d25c045b659787bc1f03ce47a388db6e8'

@@ -5,3 +5,5 @@ id_nomics: DPKTOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DPKTOKEN.jpg
 logoKey: currencies/dpktoken.jpg
 name: Dont Play With Kitty Token
+platform: BNB
+platform_contract: '0xff73adcc8cc0556467d8fe78fb4fd0c3da51f151'

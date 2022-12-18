@@ -5,3 +5,5 @@ id_nomics: DYNO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DYNO2.jpeg
 logoKey: currencies/dyno2.jpeg
 name: Dyno ICU
+platform: BNB
+platform_contract: '0x9df841894f1e499947e0a8436485797da7447508'

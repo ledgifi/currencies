@@ -3,3 +3,5 @@ fiat: false
 id: LMLT
 id_nomics: LMLT
 name: Limelight (PoS)
+platform: MATIC
+platform_contract: '0x1f435c17d7ff631218827f9ba43a696650a9d512'

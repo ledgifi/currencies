@@ -5,3 +5,5 @@ id_nomics: IOTE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/iote.png
 logoKey: currencies/iote.png
 name: IoTEdge Network
+platform: ETH
+platform_contract: '0xad7195e2f5e4f104cc2ed31cb719efd95b9eb490'

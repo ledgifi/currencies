@@ -5,3 +5,5 @@ id_nomics: BCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCT.jpg
 logoKey: currencies/bct.jpg
 name: BiCoin
+platform: ETH
+platform_contract: '0xf0667d12278a5f0519aaa01d91e94d94f7ab0f4d'

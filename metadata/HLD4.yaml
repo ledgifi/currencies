@@ -5,3 +5,5 @@ id_nomics: HLD4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HLD4.png
 logoKey: currencies/hld4.png
 name: Hulda Token
+platform: BNB
+platform_contract: '0x50a744a8520b23edae88a26fe35a9a9543e14737'

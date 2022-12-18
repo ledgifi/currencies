@@ -5,3 +5,5 @@ id_nomics: AQUA6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AQUA6.jpeg
 logoKey: currencies/aqua6.jpeg
 name: Aquacoin
+platform: BNB
+platform_contract: '0x10e4c3dc4bbc5f488058dd0a694b467a6958a244'

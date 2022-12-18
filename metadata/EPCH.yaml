@@ -6,3 +6,5 @@ id_nomics: EPCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EPCH.jpg
 logoKey: currencies/epch.jpg
 name: ElonnPooch
+platform: BNB
+platform_contract: '0xef11eea274d669312620b78133eeb713a84412a9'

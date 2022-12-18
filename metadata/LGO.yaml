@@ -5,3 +5,5 @@ id_nomics: LGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/lgo.jpg
 logoKey: currencies/lgo.jpg
 name: Legolas
+platform: ETH
+platform_contract: '0x0a50c93c762fdd6e56d86215c24aaad43ab629aa'

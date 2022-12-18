@@ -5,3 +5,5 @@ id_nomics: FRX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FRX.png
 logoKey: currencies/frx.png
 name: GT FREISINGER SHARES
+platform: ETH
+platform_contract: '0x4c6e4a16b5448269240bbe7af331acb821d22693'

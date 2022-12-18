@@ -5,3 +5,5 @@ id_nomics: MOONJ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOONJ.jpeg
 logoKey: currencies/moonj.jpeg
 name: MoonJames
+platform: BNB
+platform_contract: '0xb3c0c17cda620434891dd0c3855e9bcd19b537bd'

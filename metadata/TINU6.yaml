@@ -5,3 +5,5 @@ id_nomics: TINU6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TINU6.jpg
 logoKey: currencies/tinu6.jpg
 name: Turge Inu
+platform: BNB
+platform_contract: '0x3ce0914254c54f4e644716c541cf87ca515b0077'

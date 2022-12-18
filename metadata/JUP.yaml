@@ -6,3 +6,5 @@ id_nomics: JUP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JUP.png
 logoKey: currencies/jup.png
 name: Jupiter
+platform: ETH
+platform_contract: '0x4b1e80cac91e2216eeb63e29b957eb91ae9c2be8'

@@ -5,3 +5,5 @@ id_nomics: PUN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PUN.png
 logoKey: currencies/pun.png
 name: PunchToken
+platform: ETH
+platform_contract: '0x32eb7fa944ad61b0cf093499af12f35a479315a2'

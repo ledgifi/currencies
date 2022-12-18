@@ -5,3 +5,5 @@ id_nomics: PMT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PMT2.png
 logoKey: currencies/pmt2.png
 name: polyMETA
+platform: MATIC
+platform_contract: '0x8e684871c5997ed63bf84dc0dfab1aa031ec7493'

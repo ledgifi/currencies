@@ -3,3 +3,5 @@ fiat: false
 id: RWASTE
 id_nomics: RWASTE
 name: RadioactiveWaste
+platform: ETH
+platform_contract: '0x5cd2fac9702d68dde5a94b1af95962bcfb80fc7d'

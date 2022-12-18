@@ -5,3 +5,5 @@ id_nomics: TOTHEMOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOTHEMOON.png
 logoKey: currencies/tothemoon.png
 name: PACMOON COIN
+platform: BNB
+platform_contract: '0x8f4139bb8189027e1cad28c2673f93fa0b56e972'

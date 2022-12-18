@@ -5,3 +5,5 @@ id_nomics: PICBO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PICBO.png
 logoKey: currencies/picbo.png
 name: Picborate
+platform: CRO
+platform_contract: '0xd0bd5472e1afb90c8ce70d1096fdaed4df7b81bd'

@@ -3,3 +3,5 @@ fiat: false
 id: SPCP
 id_nomics: SPCP
 name: Spcp
+platform: BNB
+platform_contract: '0xf69660abde38f6faba5f8935f40aa5fcdac09f9b'

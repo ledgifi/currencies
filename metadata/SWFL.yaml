@@ -6,3 +6,5 @@ id_nomics: SWFL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWFL.jpg
 logoKey: currencies/swfl.jpg
 name: Swapfolio
+platform: ETH
+platform_contract: '0xba21ef4c9f433ede00badefcc2754b8e74bd538a'

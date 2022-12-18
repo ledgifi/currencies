@@ -6,3 +6,5 @@ id_nomics: BAFE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAFE.jpg
 logoKey: currencies/bafe.jpg
 name: Bafe.io
+platform: BNB
+platform_contract: '0x7bb362962f2a4e2089466c79566572b37cfc5d78'

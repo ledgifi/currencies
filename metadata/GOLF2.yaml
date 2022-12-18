@@ -5,3 +5,5 @@ id_nomics: GOLF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOLF2.jpg
 logoKey: currencies/golf2.jpg
 name: Golfrochain
+platform: KLAY
+platform_contract: '0x83c3b5a9a9d1f1438f2505ba972366eecfc4488e'

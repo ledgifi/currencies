@@ -5,3 +5,5 @@ id_nomics: MGPX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MGPX2.jpg
 logoKey: currencies/mgpx2.jpg
 name: Monster Grand Prix Token V3
+platform: BNB
+platform_contract: '0x1eb98a53afe4467836805005682677a0de57c22f'

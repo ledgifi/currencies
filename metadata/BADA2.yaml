@@ -5,3 +5,5 @@ id_nomics: BADA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BADA2.jpeg
 logoKey: currencies/bada2.jpeg
 name: BabyCardano
+platform: BNB
+platform_contract: '0x14Cd15A7662bd3f16a25ECBf126A1cb1a21098A7'

@@ -6,3 +6,5 @@ id_nomics: WOOP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOOP.jpg
 logoKey: currencies/woop.jpg
 name: Woonkly Power
+platform: BNB
+platform_contract: '0x8b303d5bbfbbf46f1a4d9741e491e06986894e18'

@@ -5,3 +5,5 @@ id_nomics: SFT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFT3.jpg
 logoKey: currencies/sft3.jpg
 name: Sport Finance Token
+platform: BNB
+platform_contract: '0xe4eb998a6640008d760cba9bd0213e6ddb75f8d0'

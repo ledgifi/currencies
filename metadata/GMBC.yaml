@@ -6,3 +6,5 @@ id_nomics: GMBC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMBC.jpg
 logoKey: currencies/gmbc.jpg
 name: Gamblica
+platform: ETH
+platform_contract: '0xfe1d71498da3261844ec14325bdbc93c0f7579f0'

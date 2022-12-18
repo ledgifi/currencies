@@ -5,3 +5,5 @@ id_nomics: CHAK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHAK.jpg
 logoKey: currencies/chak.jpg
 name: CHAK INU
+platform: BNB
+platform_contract: '0x6775592C0DAfe461AAC94b9AdDFCD84b7aCf67F5'

@@ -5,3 +5,5 @@ id_nomics: ERA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ERA.jpg
 logoKey: currencies/era.jpg
 name: EarthBi
+platform: ETH
+platform_contract: '0x7f1cdbab1e03882da7742e09611f3298add9f890'

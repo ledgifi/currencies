@@ -6,3 +6,5 @@ id_nomics: N1CE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/N1CE.jpg
 logoKey: currencies/n1ce.jpg
 name: N1CE
+platform: BNB
+platform_contract: '0xc14df1e2fff3708816495e7364ff274aceecad91'

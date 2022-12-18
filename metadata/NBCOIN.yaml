@@ -3,3 +3,5 @@ fiat: false
 id: NBCOIN
 id_nomics: NBCOIN
 name: NBCOIN
+platform: BNB
+platform_contract: '0x274528b9b937213cd876eda61593626523ca8418'

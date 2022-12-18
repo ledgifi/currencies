@@ -6,3 +6,5 @@ id_nomics: HTD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HTD.jpg
 logoKey: currencies/htd.jpg
 name: Heroes TD
+platform: BNB
+platform_contract: '0x5e2689412fae5c29bd575fbe1d5c1cd1e0622a8f'

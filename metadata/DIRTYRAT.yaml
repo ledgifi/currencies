@@ -5,3 +5,5 @@ id_nomics: DIRTYRAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DIRTYRAT.jpg
 logoKey: currencies/dirtyrat.jpg
 name: Dirty Rat
+platform: BNB
+platform_contract: '0x596328ebe4a9b0814d3360cfa9387b885d83ccf4'

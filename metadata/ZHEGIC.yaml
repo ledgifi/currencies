@@ -5,3 +5,5 @@ id_nomics: ZHEGIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZHEGIC.jpg
 logoKey: currencies/zhegic.jpg
 name: zHEGIC
+platform: ETH
+platform_contract: '0x837010619aeb2ae24141605afc8f66577f6fb2e7'

@@ -5,3 +5,5 @@ id_nomics: B1MT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/B1MT.png
 logoKey: currencies/b1mt.png
 name: 1Million Token
+platform: BNB
+platform_contract: '0x8d67448d4f6231abc070a42a8905084b79e09136'

@@ -5,3 +5,5 @@ id_nomics: AQUA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AQUA2.png
 logoKey: currencies/aqua2.png
 name: Aqua Token
+platform: ETH
+platform_contract: '0x7e32c8727cc19dd59a7a4d01b95ae1cbfc8f4c77'

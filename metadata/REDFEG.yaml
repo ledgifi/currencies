@@ -6,3 +6,5 @@ id_nomics: REDFEG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REDFEG.jpg
 logoKey: currencies/redfeg.jpg
 name: RedFeg
+platform: BNB
+platform_contract: '0x25574cad6f03ffacd9d08b288e8d5d88997fb2f3'

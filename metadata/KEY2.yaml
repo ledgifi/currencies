@@ -5,3 +5,5 @@ id_nomics: KEY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KEY2.png
 logoKey: currencies/key2.png
 name: Key
+platform: ETH
+platform_contract: '0x4cd988afbad37289baaf53c13e98e2bd46aaea8c'

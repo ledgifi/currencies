@@ -5,3 +5,5 @@ id_nomics: LAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LAN.jpg
 logoKey: currencies/lan.jpg
 name: FreelancerCoin
+platform: ETH
+platform_contract: '0x64ff248ddd36430e3640fbea76999941a8bccbd7'

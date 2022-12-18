@@ -5,3 +5,5 @@ id_nomics: REZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REZ.jpg
 logoKey: currencies/rez.jpg
 name: Rez
+platform: BNB
+platform_contract: '0x2ad6651FCA362E99cb0ea220535ba6e69510F2c4'

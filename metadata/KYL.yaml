@@ -5,3 +5,5 @@ id_nomics: KYL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KYL.jpg
 logoKey: currencies/kyl.jpg
 name: Kylin Network
+platform: ETH
+platform_contract: '0x67b6d479c7bb412c54e03dca8e1bc6740ce6b99c'

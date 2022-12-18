@@ -3,3 +3,5 @@ fiat: false
 id: ABMD
 id_nomics: ABMD
 name: ABMD
+platform: HT
+platform_contract: '0x65c19cb3a7bb58946195402e2c918e6759b7080d'

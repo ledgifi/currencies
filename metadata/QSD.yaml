@@ -6,3 +6,5 @@ id_nomics: QSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QSD.jpg
 logoKey: currencies/qsd.jpg
 name: QIAN second generation dollar
+platform: BNB
+platform_contract: '0x07aaa29e63ffeb2ebf59b33ee61437e1a91a3bb2'

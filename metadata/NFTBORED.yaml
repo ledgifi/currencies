@@ -5,3 +5,5 @@ id_nomics: NFTBORED
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTBORED.png
 logoKey: currencies/nftbored.png
 name: NFT Bored
+platform: BNB
+platform_contract: '0x6e6ff697c037235a30676e226e229dfe92cde7b2'

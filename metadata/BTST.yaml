@@ -3,3 +3,5 @@ fiat: false
 id: BTST
 id_nomics: BTST
 name: Bitcoin Stable (PoS)
+platform: MATIC
+platform_contract: '0x53cf566cf80e1a26bfc16d055c866a72fdcbaee7'

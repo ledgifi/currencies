@@ -5,3 +5,5 @@ id_nomics: FYHBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FYHBEP20.png
 logoKey: currencies/fyhbep20.png
 name: FuYoH (BEP-20)
+platform: BNB
+platform_contract: '0x0d450bf37ec899cca90ede124b3e69c9ae2f2f1c'

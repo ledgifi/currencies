@@ -6,3 +6,5 @@ id_nomics: RC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RC20.png
 logoKey: currencies/rc20.png
 name: RoboCalls
+platform: ETH
+platform_contract: '0x61b2d3ea9f1c6b387c985c73d40e8fbfb284e5c7'

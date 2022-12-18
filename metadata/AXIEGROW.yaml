@@ -5,3 +5,5 @@ id_nomics: AXIEGROW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AXIEGROW.png
 logoKey: currencies/axiegrow.png
 name: AxieGrow
+platform: BNB
+platform_contract: '0x566e386a1eb2138e3fdde0dab86932bcd9c0dd19'

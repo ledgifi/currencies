@@ -5,3 +5,5 @@ id_nomics: INRG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INRG.jpeg
 logoKey: currencies/inrg.jpeg
 name: INRGold
+platform: BNB
+platform_contract: '0xd1c878556c089b6c3e642793af0bed2c12ffa2ba'

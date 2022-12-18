@@ -6,3 +6,5 @@ id_nomics: AOG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AOG.png
 logoKey: currencies/aog.png
 name: smARTOFGIVING
+platform: ETH
+platform_contract: '0x8578530205cecbe5db83f7f29ecfeec860c297c2'

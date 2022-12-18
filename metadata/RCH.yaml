@@ -3,3 +3,5 @@ fiat: false
 id: RCH
 id_nomics: RCH
 name: RichToken
+platform: BNB
+platform_contract: '0x041e714aa0dce7d4189441896486d361e98bad5f'

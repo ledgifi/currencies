@@ -3,3 +3,5 @@ fiat: false
 id: TIK
 id_nomics: TIK
 name: TIKTOKEN
+platform: BNB
+platform_contract: '0x6403aac51fadf1421c9f543c01a8038d6dc3dbf5'

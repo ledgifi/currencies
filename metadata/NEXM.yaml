@@ -3,3 +3,5 @@ fiat: false
 id: NEXM
 id_nomics: NEXM
 name: Nexum Coin
+platform: ETH
+platform_contract: '0xe831f96a7a1dce1aa2eb760b1e296c6a74caa9d5'

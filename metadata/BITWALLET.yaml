@@ -5,3 +5,5 @@ id_nomics: BITWALLET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITWALLET.png
 logoKey: currencies/bitwallet.png
 name: Bitcoin E-wallet
+platform: BNB
+platform_contract: '0xc868642d123289f0a6cb34a3c2810a0a46141947'

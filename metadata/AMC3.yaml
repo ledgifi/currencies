@@ -5,3 +5,5 @@ id_nomics: AMC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMC3.jpg
 logoKey: currencies/amc3.jpg
 name: AMC Fight Night
+platform: ETH
+platform_contract: '0x7603de2ea4cbceb0250118de03fcb70fe1e8e935'

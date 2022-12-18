@@ -6,3 +6,5 @@ id_nomics: ZABU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZABU.png
 logoKey: currencies/zabu.png
 name: Zabu Token
+platform: AVAX
+platform_contract: '0xdd453dbd253fa4e5e745047d93667ce9da93bbcf'

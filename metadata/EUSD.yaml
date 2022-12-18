@@ -6,3 +6,5 @@ id_nomics: EUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EUSDTOKEN.png
 logoKey: currencies/eusd.png
 name: eUSD
+platform: ETH
+platform_contract: '0x87611ca3403a3878dfef0da2a786e209abfc1eff'

@@ -5,3 +5,5 @@ id_nomics: PAW2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAW2.jpeg
 logoKey: currencies/paw2.jpeg
 name: Paw
+platform: MATIC
+platform_contract: '0xbc5b59ea1b6f8da8258615ee38d40e999ec5d74f'

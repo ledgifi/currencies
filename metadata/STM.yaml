@@ -5,3 +5,5 @@ id_nomics: STM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STM.png
 logoKey: currencies/stm.png
 name: Streamity (ERC-20)
+platform: ETH
+platform_contract: '0x0e22734e078d6e399bcee40a549db591c4ea46cb'

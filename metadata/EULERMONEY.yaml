@@ -5,3 +5,5 @@ id_nomics: EULERMONEY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EULERMONEY.PNG
 logoKey: currencies/eulermoney.png
 name: Euler Money Blockchain
+platform: ETH
+platform_contract: '0x498d99de4268cebca264887f591c4ba8fac042e4'

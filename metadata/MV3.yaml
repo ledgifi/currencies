@@ -5,3 +5,5 @@ id_nomics: MV3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MV3.png
 logoKey: currencies/mv3.png
 name: Multiverse
+platform: MATIC
+platform_contract: '0xffec5b0ec59a5760a3273764a9d100f782d8e221'

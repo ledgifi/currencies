@@ -5,3 +5,5 @@ id_nomics: MONG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MONG.jpeg
 logoKey: currencies/mong.jpeg
 name: King Mongoose
+platform: BNB
+platform_contract: '0xB9dAcED72fad6cC426a8B0a5bC16fd8E981f5350'

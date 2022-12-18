@@ -6,3 +6,5 @@ id_nomics: PVERSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PVERSE.jpg
 logoKey: currencies/pverse.jpg
 name: PornVerse
+platform: BNB
+platform_contract: '0x9733e1038897efb36bb2e526c328c9b6a4b78db2'

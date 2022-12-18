@@ -6,3 +6,5 @@ id_nomics: ARTINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARTINU.jpg
 logoKey: currencies/artinu.jpg
 name: ARTINU
+platform: ETH
+platform_contract: '0xc1ff84c5c6fcf7e6e60d6bf4c1209bc4254629ad'

@@ -6,3 +6,5 @@ id_nomics: DLAUNCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DLAUNCH.jpg
 logoKey: currencies/dlaunch.jpg
 name: DeFiLaunch
+platform: BNB
+platform_contract: '0xd7d23d89c510f306e4037385ebbefc6dd6c41e61'

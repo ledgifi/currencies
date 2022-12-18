@@ -5,3 +5,5 @@ id_nomics: KAWA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAWA3.png
 logoKey: currencies/kawa3.png
 name: Kawakami V3
+platform: ETH
+platform_contract: '0x5552e5a89a70cb2ef5adbbc45a6be442fe7160ec'

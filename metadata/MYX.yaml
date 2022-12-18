@@ -6,3 +6,5 @@ id_nomics: MYX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MYX.jpg
 logoKey: currencies/myx.jpg
 name: MYX Network
+platform: ETH
+platform_contract: '0x2129ff6000b95a973236020bcd2b2006b0d8e019'

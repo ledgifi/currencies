@@ -5,3 +5,5 @@ id_nomics: TSWIFTY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TSWIFTY.jpg
 logoKey: currencies/tswifty.jpg
 name: TSWIFTY
+platform: BNB
+platform_contract: '0xe8d0bA0BEBa675F6dcCe5856D9306Fbf6836aB3B'

@@ -6,3 +6,5 @@ id_nomics: GDL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GDL.jpg
 logoKey: currencies/gdl.jpg
 name: Gondola Finance
+platform: AVAX
+platform_contract: '0xd606199557c8ab6f4cc70bd03facc96ca576f142'

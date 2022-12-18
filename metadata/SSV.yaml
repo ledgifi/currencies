@@ -8,3 +8,5 @@ id_nomics: SSV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SSV.png
 logoKey: currencies/ssv.png
 name: SSV Network
+platform: ETH
+platform_contract: '0x9d65ff81a3c488d585bbfb0bfe3c7707c7917f54'

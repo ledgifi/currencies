@@ -6,3 +6,5 @@ id_nomics: BITN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITN.jpg
 logoKey: currencies/bitn.jpg
 name: BITCOIN & COMPANY NETWORK
+platform: ETH
+platform_contract: '0x41ad4093349c8a60de591a3c37dcd184558eaae3'

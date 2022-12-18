@@ -5,3 +5,5 @@ id_nomics: INU9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INU9.png
 logoKey: currencies/inu9.png
 name: Inu
+platform: ETH
+platform_contract: '0x050d94685c6b0477e1fc555888af6e2bb8dfbda5'

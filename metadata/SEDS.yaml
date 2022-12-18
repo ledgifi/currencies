@@ -3,3 +3,5 @@ fiat: false
 id: SEDS
 id_nomics: SEDS
 name: seds
+platform: BNB
+platform_contract: '0x0ee341db49082c65ba50ff7aba488384ce2f00e3'

@@ -5,3 +5,5 @@ id_nomics: MEMDI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEMDI.jpg
 logoKey: currencies/memdi.jpg
 name: Meme Dinosaur Coin
+platform: BNB
+platform_contract: '0xf8d83d8a8be5c3ec8bc0fe03eb8647f6c87fad1f'

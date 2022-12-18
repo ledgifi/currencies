@@ -6,3 +6,5 @@ id_nomics: SRSB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SRSB.jpg
 logoKey: currencies/srsb.jpg
 name: Sirius Bond
+platform: BNB
+platform_contract: '0x738076a6cb6c30d906bcb2e9ba0e0d9a58b3292e'

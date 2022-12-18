@@ -5,3 +5,5 @@ id_nomics: THECAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THECAT.png
 logoKey: currencies/thecat.png
 name: The Cat Inu
+platform: BNB
+platform_contract: '0x9f485c50a611199fde9c849c56be7df888a90725'

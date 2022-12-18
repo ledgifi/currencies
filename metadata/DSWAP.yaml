@@ -5,3 +5,5 @@ id_nomics: DSWAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DSWAP.png
 logoKey: currencies/dswap.png
 name: Definex
+platform: ETH
+platform_contract: '0x3f344c88d823f180fb8b44a3c7cfc4edc92dfa35'

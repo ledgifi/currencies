@@ -3,3 +3,5 @@ fiat: false
 id: V3DARK
 id_nomics: V3DARK
 name: V3S-Peg DarkCrypto
+platform: CRO
+platform_contract: '0x40d34600e959a9549cda7db2c04a7d5925a96e32'

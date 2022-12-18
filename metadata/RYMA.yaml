@@ -5,3 +5,5 @@ id_nomics: RYMA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RYMA.jpg
 logoKey: currencies/ryma.jpg
 name: Ryoma Token
+platform: ETH
+platform_contract: '0x2b8a66201665cd8c36ab9f39127221847110aa8e'

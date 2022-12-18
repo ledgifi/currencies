@@ -3,3 +3,5 @@ fiat: false
 id: CFTEST
 id_nomics: CFTEST
 name: CF-test
+platform: BNB
+platform_contract: '0x661652ae4b867405d2df20592dc9fbcbe3e85fd7'

@@ -5,3 +5,5 @@ id_nomics: AVEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVEX.jpg
 logoKey: currencies/avex.jpg
 name: Aevolve Token
+platform: BNB
+platform_contract: '0xea6c643b02ead1e42813771826e64a70a973f3e9'

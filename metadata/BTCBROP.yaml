@@ -5,3 +5,5 @@ id_nomics: BTCBROP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCBROP.png
 logoKey: currencies/btcbrop.png
 name: BitcoinBR (Optimism)
+platform: OPETH
+platform_contract: '0x75C5f6D32d8Ef3a4f0F43F7792Aa08e8678972F9'

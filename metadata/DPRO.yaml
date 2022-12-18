@@ -5,3 +5,5 @@ id_nomics: DPRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DPRO.jpg
 logoKey: currencies/dpro.jpg
 name: DEXPRO
+platform: ETH
+platform_contract: '0x617a781e26419b5b0d9bf63c4ecb7f192adb9768'

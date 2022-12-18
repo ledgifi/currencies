@@ -5,3 +5,5 @@ id_nomics: AOM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AOM.jpg
 logoKey: currencies/aom.jpg
 name: A lot of money
+platform: ETH
+platform_contract: '0x060924fb947e37eee230d0b1a71d9618aec269fc'

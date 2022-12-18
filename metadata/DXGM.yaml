@@ -5,3 +5,5 @@ id_nomics: DXGM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DXGM.jpg
 logoKey: currencies/dxgm.jpg
 name: Dex Game
+platform: ETH
+platform_contract: '0x66f73d0fd4161cfad4302dc145ff994375c13475'

@@ -3,3 +3,5 @@ fiat: false
 id: MTCH
 id_nomics: MTCH
 name: Metachain
+platform: BNB
+platform_contract: '0x8a40614100763cc0c238c0dcbd173fd650789b0b'

@@ -6,3 +6,5 @@ id_nomics: HERODOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HERODOGE.jpg
 logoKey: currencies/herodoge.jpg
 name: HeroDoge
+platform: BNB
+platform_contract: '0x5a8baec93d3d21e545d3e8a91d7dccdd0e8c4ddd'

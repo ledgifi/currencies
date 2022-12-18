@@ -6,3 +6,5 @@ id_nomics: ARI10
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARI10.jpg
 logoKey: currencies/ari10.jpg
 name: Ari10
+platform: BNB
+platform_contract: '0x80262f604acac839724f66846f290a2cc8b48662'

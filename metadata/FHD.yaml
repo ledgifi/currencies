@@ -3,3 +3,5 @@ fiat: false
 id: FHD
 id_nomics: FHD
 name: FHD token
+platform: ETH
+platform_contract: '0xaec253de743ec57b8e982a6ce3779316860f91c4'

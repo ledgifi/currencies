@@ -5,3 +5,5 @@ id_nomics: MOR4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOR4.jpg
 logoKey: currencies/mor4.jpg
 name: Mor Stablecoin
+platform: BNB
+platform_contract: '0x87bade473ea0513d4aa7085484aeaa6cb6ebe7e3'

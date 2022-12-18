@@ -3,3 +3,5 @@ fiat: false
 id: BNCQ
 id_nomics: BNCQ
 name: BNCQ
+platform: BNB
+platform_contract: '0x975629c8a20900dd1ca921cc18621710bd630a71'

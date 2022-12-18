@@ -3,3 +3,5 @@ fiat: false
 id: GOLDLOCK
 id_nomics: GOLDLOCK
 name: GOLD LOCK
+platform: ETH
+platform_contract: '0x3bcc993a83e4da6de74ca6fd75e8ff4a4527ba8c'

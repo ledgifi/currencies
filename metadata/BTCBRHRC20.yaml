@@ -5,3 +5,5 @@ id_nomics: BTCBRHRC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCBRHRC20.jpeg
 logoKey: currencies/btcbrhrc20.jpeg
 name: Bitcoin BR (HRC-20)
+platform: HT
+platform_contract: '0xE57425F1598f9b0d6219706b77f4b3DA573a3695'

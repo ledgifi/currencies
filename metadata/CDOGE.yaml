@@ -6,3 +6,5 @@ id_nomics: CDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CDOGE.jpg
 logoKey: currencies/cdoge.jpg
 name: ChubbyDoge
+platform: BNB
+platform_contract: '0x3699d20715c750aba5a108baca5c555347da034f'

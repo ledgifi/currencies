@@ -6,3 +6,5 @@ id_nomics: EMIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EMIT.png
 logoKey: currencies/emit.png
 name: SmartMint BondFiat StableToken
+platform: ETH
+platform_contract: '0xb5f278ee11811efec0692ec61b1e9f9984f2de11'

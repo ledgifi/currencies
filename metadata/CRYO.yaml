@@ -5,3 +5,5 @@ id_nomics: CRYO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRYO.jpg
 logoKey: currencies/cryo.jpg
 name: CryoWeb Token
+platform: BNB
+platform_contract: '0x4ca7d9133978a26de0b377726de0dd7b42a1c998'

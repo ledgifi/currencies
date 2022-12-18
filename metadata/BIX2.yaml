@@ -5,3 +5,5 @@ id_nomics: BIX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIX2.png
 logoKey: currencies/bix2.png
 name: Bitmax Token
+platform: BNB
+platform_contract: '0xf6b588d0e3f19a28cbdfb4a715f053a2cdb7f0d1'

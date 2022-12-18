@@ -6,3 +6,5 @@ id_nomics: BFU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BFU.jpg
 logoKey: currencies/bfu.jpg
 name: Baby Floki Up
+platform: BNB
+platform_contract: '0x8927282a3d05ef5f7dc24ed0ee009be264d2ebd7'

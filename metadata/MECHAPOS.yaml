@@ -5,3 +5,5 @@ id_nomics: MECHAPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MECHAPOS.png
 logoKey: currencies/mechapos.png
 name: MECHA (Polygon)
+platform: MATIC
+platform_contract: '0xacd4e2d936be9b16c01848a3742a34b3d5a5bdfa'

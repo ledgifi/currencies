@@ -5,3 +5,5 @@ id_nomics: DOGS4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGS4.jpg
 logoKey: currencies/dogs4.jpg
 name: Call Dogs
+platform: BNB
+platform_contract: '0x03cab183a3f1335a04e8b6510d5b56818b6b63e1'

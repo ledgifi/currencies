@@ -5,3 +5,5 @@ id_nomics: KNIGHT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KNIGHT4.jpg
 logoKey: currencies/knight4.jpg
 name: CitaDAO
+platform: ETH
+platform_contract: '0x3541a5c1b04adaba0b83f161747815cd7b1516bc'

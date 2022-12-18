@@ -5,3 +5,5 @@ id_nomics: ROSNRUCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROSNRUCX.jpg
 logoKey: currencies/rosnrucx.jpg
 name: NK Rosneft
+platform: ETH
+platform_contract: '0xe67ea9db6a5dfac34c7d5146f82b900a735d84cc'

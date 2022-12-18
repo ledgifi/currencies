@@ -5,3 +5,5 @@ id_nomics: GNC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GNC2.jpg
 logoKey: currencies/gnc2.jpg
 name: Gerino Coin
+platform: BNB
+platform_contract: '0x0Ea4EC094C822dC9a9A4da49ED4447910Fc78A9D'

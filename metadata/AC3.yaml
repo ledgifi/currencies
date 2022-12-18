@@ -5,3 +5,5 @@ id_nomics: AC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AC3.jpg
 logoKey: currencies/ac3.jpg
 name: ACoconut
+platform: ETH
+platform_contract: '0x9a0aba393aac4dfbff4333b06c407458002c6183'

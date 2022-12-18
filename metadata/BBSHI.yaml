@@ -5,3 +5,5 @@ id_nomics: BBSHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBSHI.png
 logoKey: currencies/bbshi.png
 name: Baby SmartShiba
+platform: BNB
+platform_contract: '0xcd3cad4cd83fb2562006818ef1c364d97a65f6bd'

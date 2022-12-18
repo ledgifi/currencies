@@ -5,3 +5,5 @@ id_nomics: MBOOK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MBOOK.jpg
 logoKey: currencies/mbook.jpg
 name: Mindbook
+platform: BNB
+platform_contract: '0xb896d8808cfAdc340949B3eA4A1B4A7E66E8cf1b'

@@ -5,3 +5,5 @@ id_nomics: COMRAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COMRAD.png
 logoKey: currencies/comrad.png
 name: Comrades.Finance Token
+platform: BNB
+platform_contract: '0x77ff9a81b106b8e1ed92f6c3ac844c3a35a33386'

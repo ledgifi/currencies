@@ -5,3 +5,5 @@ id_nomics: SOUP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOUP.jpg
 logoKey: currencies/soup.jpg
 name: Soup
+platform: BNB
+platform_contract: '0x94f559ae621f1c810f31a6a620ad7376776fe09e'

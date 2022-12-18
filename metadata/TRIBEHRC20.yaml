@@ -3,3 +3,5 @@ fiat: false
 id: TRIBEHRC20
 id_nomics: TRIBEHRC20
 name: Poly-Peg TRIBE
+platform: HT
+platform_contract: '0x38999fa3a7320bd2c3609bf0f8cb5cd4c11d3fe1'

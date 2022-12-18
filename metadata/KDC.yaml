@@ -6,3 +6,5 @@ id_nomics: KDC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KDC.jpg
 logoKey: currencies/kdc.jpg
 name: DroneFly
+platform: ETH
+platform_contract: '0x7e00b63483c92975a3be0a71432277935326a618'

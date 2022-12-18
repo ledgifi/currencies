@@ -3,3 +3,5 @@ fiat: false
 id: BABYCELO
 id_nomics: BABYCELO
 name: BabyCeloCoin
+platform: CELO
+platform_contract: '0xd6c56a9b281307259e425fa53485a09d2954e9b7'

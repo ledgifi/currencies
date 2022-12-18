@@ -5,3 +5,5 @@ id_nomics: PETR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PETR3.jpeg
 logoKey: currencies/petr3.jpeg
 name: Petr3
+platform: BNB
+platform_contract: '0xda5f2a8c4d0e2f931bbc1197b34d81b14c9e15c4'

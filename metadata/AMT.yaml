@@ -6,3 +6,5 @@ id_nomics: AMT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMT.jpg
 logoKey: currencies/amt.jpg
 name: AMeiToken
+platform: ETH
+platform_contract: '0xe235b2a194c9cbf8e32167c398d929a6057877d8'

@@ -6,3 +6,5 @@ id_nomics: ANONFLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANONFLOKI.jpg
 logoKey: currencies/anonfloki.jpg
 name: AnonFloki
+platform: BNB
+platform_contract: '0xb72b6f2e5897354b485dc13c13878712cb6a76ca'

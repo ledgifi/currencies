@@ -5,3 +5,5 @@ id_nomics: TBABY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TBABY.png
 logoKey: currencies/tbaby.png
 name: TrustBaby
+platform: BNB
+platform_contract: '0x36903e74b2cc3b7a660bef773732b7cf816e32d6'

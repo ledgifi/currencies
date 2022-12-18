@@ -8,3 +8,5 @@ id_nomics: SUSHI
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/sushi.svg
 logoKey: currencies/sushi.svg
 name: Sushi
+platform: ETH
+platform_contract: '0x6b3595068778dd592e39a122f4f5a5cf09c90fe2'

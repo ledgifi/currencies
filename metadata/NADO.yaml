@@ -6,3 +6,5 @@ id_nomics: NADO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NADO.jpg
 logoKey: currencies/nado.jpg
 name: Tornadao
+platform: AVAX
+platform_contract: '0xb80323c7aa915cb960b19b5cca1d88a2132f7bd1'

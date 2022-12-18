@@ -5,3 +5,5 @@ id_nomics: AEGIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AEGIS.png
 logoKey: currencies/aegis.png
 name: StonkLeague
+platform: ETH
+platform_contract: '0x15dd37a83564559927bbdcdbfcf85f60a2c6a419'

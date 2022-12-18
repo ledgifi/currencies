@@ -5,3 +5,5 @@ id_nomics: HTSHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HTSHIB.png
 logoKey: currencies/htshib.png
 name: Healthy Shiba
+platform: BNB
+platform_contract: '0x9039D1636db9D65AacA966457033C26388D72738'

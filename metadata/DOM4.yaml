@@ -5,3 +5,5 @@ id_nomics: DOM4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOM4.jpg
 logoKey: currencies/dom4.jpg
 name: Ancient Kingdom
+platform: BNB
+platform_contract: '0x8c282ea9eacd1b95d44a3a18dcdd1d0472868998'

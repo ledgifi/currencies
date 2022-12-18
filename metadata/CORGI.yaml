@@ -5,3 +5,5 @@ id_nomics: CORGI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CORGI.jpg
 logoKey: currencies/corgi.jpg
 name: CORGI
+platform: ETH
+platform_contract: '0x151220cf596c3ac80736a7ef7036c6f1b30aaf48'

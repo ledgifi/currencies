@@ -5,3 +5,5 @@ id_nomics: HRB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HRB2.jpg
 logoKey: currencies/hrb2.jpg
 name: Herobattle
+platform: BNB
+platform_contract: '0x8d58a9254a84275c5449589527a5ddf85fff6d6d'

@@ -6,3 +6,5 @@ id_nomics: ABLX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ABLX.png
 logoKey: currencies/ablx.png
 name: ABLE
+platform: ETH
+platform_contract: '0x865bfd8232778f00cae81315bf75ef1fe6e30cdd'

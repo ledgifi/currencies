@@ -6,3 +6,5 @@ id_nomics: HROI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HROI.jpg
 logoKey: currencies/hroi.jpg
 name: High Roi
+platform: ETH
+platform_contract: '0x8b73f7ac6b831dbc7ded283554d1d39ebbaad28c'

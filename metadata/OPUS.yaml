@@ -5,3 +5,5 @@ id_nomics: OPUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OPUS.jpg
 logoKey: currencies/opus.jpg
 name: Canopus
+platform: AVAX
+platform_contract: '0x76076880e1ebbce597e6e15c47386cd34de4930f'

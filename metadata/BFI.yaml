@@ -5,3 +5,5 @@ id_nomics: BFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BFI.jpg
 logoKey: currencies/bfi.jpg
 name: BitDefi
+platform: ETH
+platform_contract: '0x2b2b0559081c41e962777b5049632fdb30f7e652'

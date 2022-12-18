@@ -5,3 +5,5 @@ id_nomics: CFISH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CFISH.jpg
 logoKey: currencies/cfish.jpg
 name: Cat Fish
+platform: BNB
+platform_contract: '0xf012c5cfc692480ecbda4c0ae1fe0764f37a6f43'

@@ -3,3 +3,5 @@ fiat: false
 id: MPUP
 id_nomics: MPUP
 name: Moonpup
+platform: BNB
+platform_contract: '0x0796b2435fefd883948b3799be869dd2d72686bc'

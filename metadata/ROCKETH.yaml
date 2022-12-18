@@ -6,3 +6,5 @@ id_nomics: ROCKETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROCKETH.jpeg
 logoKey: currencies/rocketh.jpeg
 name: RockETH
+platform: ETH
+platform_contract: '0xceb85862351f00e237c3a22563326a98f3ab7427'

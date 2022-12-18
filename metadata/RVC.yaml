@@ -5,3 +5,5 @@ id_nomics: RVC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RVC.jpg
 logoKey: currencies/rvc.jpg
 name: Renvale Coin
+platform: ETH
+platform_contract: '0xa3ebd756729904ba2a39289751d96d9b2eac793b'

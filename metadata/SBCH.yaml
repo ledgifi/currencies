@@ -5,3 +5,5 @@ id_nomics: SBCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBCH.png
 logoKey: currencies/sbch.png
 name: sBCH
+platform: ETH
+platform_contract: '0x36a2422a863d5b950882190ff5433e513413343a'

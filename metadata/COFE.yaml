@@ -5,3 +5,5 @@ id_nomics: COFE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COFE.png
 logoKey: currencies/cofe.png
 name: CoffeeSwap Token
+platform: BNB
+platform_contract: '0xf0eebab492d4e3c7500f30401534fb1eb9635e2d'

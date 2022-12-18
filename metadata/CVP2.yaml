@@ -5,3 +5,5 @@ id_nomics: CVP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CVP2.jpg
 logoKey: currencies/cvp2.jpg
 name: CVP Token
+platform: ETH
+platform_contract: '0x19fd4c760a7d4a38aee9f226035cbc9fdf434ffe'

@@ -5,3 +5,5 @@ id_nomics: BASECRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BASECRO.jpg
 logoKey: currencies/basecro.jpg
 name: Defido Coin (Cronos)
+platform: CRO
+platform_contract: '0x0422b63182798ae9876cae3cabd225d96b284d14'

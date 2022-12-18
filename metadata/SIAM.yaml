@@ -6,3 +6,5 @@ id_nomics: SIAM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIAM.jpg
 logoKey: currencies/siam.jpg
 name: Siamese Neko
+platform: BNB
+platform_contract: '0xf36f22d8d583fbafc034450f50110925c76d40d7'

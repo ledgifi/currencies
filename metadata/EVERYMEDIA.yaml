@@ -5,3 +5,5 @@ id_nomics: EVERYMEDIA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVERYMEDIA.jpg
 logoKey: currencies/everymedia.jpg
 name: EMP
+platform: ETH
+platform_contract: '0xec193241dc1ca3bbe3165de6d37a793585b4504e'

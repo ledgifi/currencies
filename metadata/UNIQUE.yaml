@@ -3,3 +3,5 @@ fiat: false
 id: UNIQUE
 id_nomics: UNIQUE
 name: Unique
+platform: ETH
+platform_contract: '0x6dd8dc7c523319d278b43deebb7867b7259498fc'

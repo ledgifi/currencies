@@ -5,3 +5,5 @@ id_nomics: TEAM3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TEAM3.png
 logoKey: currencies/team3.png
 name: Team
+platform: ETH
+platform_contract: '0xb7c9e99da8a857ce576a830a9c19312114d9de02'

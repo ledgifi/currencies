@@ -5,3 +5,5 @@ id_nomics: TRUSTSWAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRUSTSWAP.jpg
 logoKey: currencies/trustswap.jpg
 name: TrustSwap Token
+platform: ETH
+platform_contract: '0xcc4304a31d09258b0029ea7fe63d032f52e44efe'

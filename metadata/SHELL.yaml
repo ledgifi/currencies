@@ -5,3 +5,5 @@ id_nomics: SHELL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHELL.png
 logoKey: currencies/shell.png
 name: Shell Chain
+platform: ETH
+platform_contract: '0xe4587fae2214677289a5e40cf670bd91fe498b99'

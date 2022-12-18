@@ -5,3 +5,5 @@ id_nomics: SRN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SRN2.jpg
 logoKey: currencies/srn2.jpg
 name: Shorn
+platform: BNB
+platform_contract: '0x124831BB885DF3c4bf88176A478Ff1b3B95f3769'

@@ -5,3 +5,5 @@ id_nomics: BITCOINFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITCOINFI.png
 logoKey: currencies/bitcoinfi.png
 name: Bitcoin Finance
+platform: BNB
+platform_contract: '0x790B9c0a8a3B692F30Dc6E62E47221a7eD4574A8'

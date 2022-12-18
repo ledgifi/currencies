@@ -5,3 +5,5 @@ id_nomics: DECH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DECH.jpg
 logoKey: currencies/dech.jpg
 name: DeCash
+platform: ETH
+platform_contract: '0x95ba34760ac3d7fbe98ee8b2ab33b4f1a6d18878'

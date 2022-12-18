@@ -5,3 +5,5 @@ id_nomics: MKLAND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MKLAND.jpeg
 logoKey: currencies/mkland.jpeg
 name: MetaKittyLand
+platform: BNB
+platform_contract: '0x5462511d6c21f104d70fb9d851eb896bf603f695'

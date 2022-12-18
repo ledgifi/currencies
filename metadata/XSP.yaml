@@ -5,3 +5,5 @@ id_nomics: XSP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XSP.png
 logoKey: currencies/xsp.png
 name: SpaikCoin
+platform: ETH
+platform_contract: '0xba90351ac53860eca66fb57ae43640fbb066418c'

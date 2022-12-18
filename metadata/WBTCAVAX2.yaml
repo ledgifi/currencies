@@ -3,3 +3,5 @@ fiat: false
 id: WBTCAVAX2
 id_nomics: WBTCAVAX2
 name: Wrapped BTC (Avalanche)
+platform: AVAX
+platform_contract: '0x50b7545627a5162f82a992c33b87adc75187b218'

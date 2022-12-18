@@ -5,3 +5,5 @@ id_nomics: LOL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOL2.jpg
 logoKey: currencies/lol2.jpg
 name: LOLTOKEN
+platform: ETH
+platform_contract: '0x5978708d6cce1cc9640eed47422d64c91bbd5171'

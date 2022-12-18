@@ -5,3 +5,5 @@ id_nomics: MENU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MENU.png
 logoKey: currencies/menu.png
 name: Muuge Inu
+platform: BNB
+platform_contract: '0x90af57aabdaf36bc153fa6217ad1c2d5a1a4b404'

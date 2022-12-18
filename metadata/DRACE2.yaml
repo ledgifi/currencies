@@ -5,3 +5,5 @@ id_nomics: DRACE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRACE2.jpg
 logoKey: currencies/drace2.jpg
 name: MetaDrace
+platform: BNB
+platform_contract: '0x72a8e7520296623f2e8c7668d01eb3fa30d9b106'

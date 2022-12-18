@@ -6,3 +6,5 @@ id_nomics: SKYBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SKYBTC.jpeg
 logoKey: currencies/skybtc.jpeg
 name: Sky Bitcoin
+platform: BNB
+platform_contract: '0x6bf4a2d1b93113ed8ea3165a222ee3715cc7da12'

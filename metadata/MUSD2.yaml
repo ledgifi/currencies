@@ -5,3 +5,5 @@ id_nomics: MUSD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MUSD2.jpg
 logoKey: currencies/musd2.jpg
 name: MASTER USD
+platform: ETH
+platform_contract: '0xa52383b665b91dce42dd4b6d1e0fb37d3effe489'

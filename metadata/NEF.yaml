@@ -5,3 +5,5 @@ id_nomics: NEF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEF.jpg
 logoKey: currencies/nef.jpg
 name: Nef
+platform: BNB
+platform_contract: '0xef4f66506aaaeeff6d10775ad6f994105d8f11b4'

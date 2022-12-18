@@ -3,3 +3,5 @@ fiat: false
 id: KHA
 id_nomics: KHA
 name: Konoha
+platform: BNB
+platform_contract: '0x0a5adc4300f22f2a4cf432fd0f269de1def26a0b'

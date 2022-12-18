@@ -6,3 +6,5 @@ id_nomics: LOA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOA.png
 logoKey: currencies/loa.png
 name: LOA Protocol
+platform: ETH
+platform_contract: '0x7458fd786b2fe8cd801c0381f88b61c5071a006f'

@@ -5,3 +5,5 @@ id_nomics: WFIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WFIS.jpg
 logoKey: currencies/wfis.jpg
 name: Wrapped Stafi
+platform: ETH
+platform_contract: '0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d'

@@ -5,3 +5,5 @@ id_nomics: TAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TAL.jpg
 logoKey: currencies/tal.jpg
 name: Thaler
+platform: ETH
+platform_contract: '0x375a08ce3a460f20bbafd282be1e3579a2c31f41'

@@ -3,3 +3,5 @@ fiat: false
 id: ELONINDEX
 id_nomics: ELONINDEX
 name: Dogelon Index
+platform: MATIC
+platform_contract: '0x35ac92580eb672d9c76fee4228165f6ef224c334'

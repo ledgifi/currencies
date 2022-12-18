@@ -5,3 +5,5 @@ id_nomics: BLOK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLOK2.jpg
 logoKey: currencies/blok2.jpg
 name: Bloktopia
+platform: MATIC
+platform_contract: '0x229b1b6c23ff8953d663c4cbb519717e323a0a84'

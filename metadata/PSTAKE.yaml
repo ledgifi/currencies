@@ -3,3 +3,5 @@ fiat: false
 id: PSTAKE
 id_nomics: PSTAKE
 name: pSTAKE Finance
+platform: ETH
+platform_contract: '0xfb5c6815ca3ac72ce9f5006869ae67f18bf77006'

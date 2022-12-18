@@ -3,3 +3,5 @@ fiat: false
 id: DYST
 id_nomics: DYST
 name: Dystopia
+platform: MATIC
+platform_contract: '0x39ab6574c289c3ae4d88500eec792ab5b947a5eb'

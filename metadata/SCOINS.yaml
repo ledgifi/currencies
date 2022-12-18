@@ -3,3 +3,5 @@ fiat: false
 id: SCOINS
 id_nomics: SCOINS
 name: Scoins
+platform: BNB
+platform_contract: '0xb15f815c098d60e63a50c8cc536b90a7e538ea95'

@@ -5,3 +5,5 @@ id_nomics: KAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAP.png
 logoKey: currencies/kap.png
 name: Kittens & Puppies
+platform: BNB
+platform_contract: '0x1a4e3646baeda21276b34e408d4c6b75f6cc9a37'

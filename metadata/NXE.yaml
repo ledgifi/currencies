@@ -3,3 +3,5 @@ fiat: false
 id: NXE
 id_nomics: NXE
 name: NewNits
+platform: BNB
+platform_contract: '0xff4fd41e45b5b7cb9558aaa82c023870960d5651'

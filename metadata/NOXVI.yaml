@@ -5,3 +5,5 @@ id_nomics: NOXVI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NOXVI.png
 logoKey: currencies/noxvi.png
 name: Noxvium
+platform: BNB
+platform_contract: '0xa3c008712ab7cd4111fee771f0f1ab911bec1ba3'

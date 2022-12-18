@@ -3,3 +3,5 @@ fiat: false
 id: CUSD2
 id_nomics: CUSD2
 name: cUSD Currency
+platform: ETH
+platform_contract: '0x5c406d99e04b8494dc253fcc52943ef82bca7d75'

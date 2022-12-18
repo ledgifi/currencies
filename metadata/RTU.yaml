@@ -3,3 +3,5 @@ fiat: false
 id: RTU
 id_nomics: RTU
 name: RTU Token
+platform: ETH
+platform_contract: '0x9027a0d061e0ba99768fb734af0c7e1526391c74'

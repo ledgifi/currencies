@@ -3,3 +3,5 @@ fiat: false
 id: WOKT
 id_nomics: WOKT
 name: Wrapped OKT
+platform: OKT
+platform_contract: '0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15'

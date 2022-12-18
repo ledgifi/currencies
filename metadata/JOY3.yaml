@@ -5,3 +5,5 @@ id_nomics: JOY3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JOY3.jpg
 logoKey: currencies/joy3.jpg
 name: Joystick
+platform: BCH
+platform_contract: '0x6732e55ac3eca734f54c26bd8df4eed52fb79a6e'

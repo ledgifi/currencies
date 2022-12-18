@@ -3,3 +3,5 @@ fiat: false
 id: GUSDC2
 id_nomics: GUSDC2
 name: Gravity Bridge USDC
+platform: EVMOS
+platform_contract: '0x5fd55a1b9fc24967c4db09c513c3ba0dfa7ff687'

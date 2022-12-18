@@ -5,3 +5,5 @@ id_nomics: CYFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CYFI.png
 logoKey: currencies/cyfi.png
 name: cYFI
+platform: ETH
+platform_contract: '0x80a2ae356fc9ef4305676f7a3e2ed04e12c33946'

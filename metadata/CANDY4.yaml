@@ -5,3 +5,5 @@ id_nomics: CANDY4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CANDY4.jpg
 logoKey: currencies/candy4.jpg
 name: TripCandy
+platform: BNB
+platform_contract: '0x639ad7c49ec616a64e074c21a58608c0d843a8a3'

@@ -6,3 +6,5 @@ id_nomics: OVI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OVI.jpg
 logoKey: currencies/ovi.jpg
 name: Oviex
+platform: ETH
+platform_contract: '0x6b3760facdeb7f798cd13c0af2e4cd9ddc085122'

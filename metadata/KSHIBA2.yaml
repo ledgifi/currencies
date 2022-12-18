@@ -5,3 +5,5 @@ id_nomics: KSHIBA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KSHIBA2.jpg
 logoKey: currencies/kshiba2.jpg
 name: Kitty Shiba
+platform: BNB
+platform_contract: '0xc978ba9309f3c3be3a79302251a2bb041baa7118'

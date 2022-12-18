@@ -5,3 +5,5 @@ id_nomics: ORCV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORCV2.jpg
 logoKey: currencies/orcv2.jpg
 name: oracleV2 token
+platform: BNB
+platform_contract: '0x2d75449f41e7fe96be1191ebe5a70dc74f9643aa'

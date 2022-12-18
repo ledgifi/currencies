@@ -5,3 +5,5 @@ id_nomics: FAIRC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FAIRC.jpg
 logoKey: currencies/fairc.jpg
 name: Faireum
+platform: ETH
+platform_contract: '0x437365ffb4c5dd6fd6f9f6ed0b4a9e23d7edc9ce'

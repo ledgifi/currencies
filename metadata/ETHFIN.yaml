@@ -6,3 +6,5 @@ id_nomics: ETHFIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHFIN.png
 logoKey: currencies/ethfin.png
 name: Ethernal Finance
+platform: BNB
+platform_contract: '0x17bd2e09fa4585c15749f40bb32a6e3db58522ba'

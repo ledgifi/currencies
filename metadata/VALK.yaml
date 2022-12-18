@@ -6,3 +6,5 @@ id_nomics: VALK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VALK.jpg
 logoKey: currencies/valk.jpg
 name: Valkyrio Token
+platform: BNB
+platform_contract: '0x405cff4ce041d3235e8b1f7aaa4e458998a47363'

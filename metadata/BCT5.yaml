@@ -5,3 +5,5 @@ id_nomics: BCT5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCT5.jpg
 logoKey: currencies/bct5.jpg
 name: 'Toucan Protocol: Base Carbon Tonne'
+platform: MATIC
+platform_contract: '0x2f800db0fdb5223b3c3f354886d907a671414a7f'

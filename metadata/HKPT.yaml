@@ -3,3 +3,5 @@ fiat: false
 id: HKPT
 id_nomics: HKPT
 name: HeliKopter
+platform: BNB
+platform_contract: '0xcc5aa790cb7221e183f3e5f7295ab861cde242c0'

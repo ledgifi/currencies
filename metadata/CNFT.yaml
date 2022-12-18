@@ -6,3 +6,5 @@ id_nomics: CNFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CNFT.jpg
 logoKey: currencies/cnft.jpg
 name: Communifty
+platform: ETH
+platform_contract: '0x8e2b4badac15a4ec8c56020f4ce60faa7558c052'

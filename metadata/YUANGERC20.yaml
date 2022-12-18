@@ -3,3 +3,5 @@ fiat: false
 id: YUANGERC20
 id_nomics: YUANGERC20
 name: Yuang Coin (ERC-20)
+platform: ETH
+platform_contract: '0x8ae005c97aa6853478c7f373b1d0f72aa92880a7'

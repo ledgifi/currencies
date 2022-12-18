@@ -3,3 +3,5 @@ fiat: false
 id: ETRN
 id_nomics: ETRN
 name: Eternal Token v2
+platform: MATIC
+platform_contract: '0x36a36eae690e1e138018b706567b0c2d9188b76a'

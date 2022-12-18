@@ -3,3 +3,5 @@ fiat: false
 id: KSWAP2
 id_nomics: KSWAP2
 name: KeanuSwap
+platform: ETH
+platform_contract: '0x107b3a32baba83d3e518de7f83a7cf56992069de'

@@ -5,3 +5,5 @@ id_nomics: MVC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MVC.png
 logoKey: currencies/mvc.png
 name: Maverick Chain
+platform: ETH
+platform_contract: '0xb17df9a3b09583a9bdcf757d6367171476d4d8a3'

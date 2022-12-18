@@ -3,3 +3,5 @@ fiat: false
 id: SOCRATES
 id_nomics: SOCRATES
 name: Socrates
+platform: ETH
+platform_contract: '0x8adbef738661eba0806b9a25afb028de985428d6'

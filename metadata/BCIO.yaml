@@ -6,3 +6,5 @@ id_nomics: BCIO
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/bcio.svg
 logoKey: currencies/bcio.svg
 name: Blockchain.io
+platform: ETH
+platform_contract: '0xcdc412f306e0c51e3249b88c65423cd16b322673'

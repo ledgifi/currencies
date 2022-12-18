@@ -6,3 +6,5 @@ id_nomics: TRN
 logo: https://static.coinpaprika.com/coin/trn-treelion/logo.png
 logoKey: currencies/trn.png
 name: Treelion
+platform: ETH
+platform_contract: '0x70968feaf13299d0dbf78f66860bab9dbe3856bc'

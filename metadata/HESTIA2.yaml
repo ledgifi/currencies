@@ -5,3 +5,5 @@ id_nomics: HESTIA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HESTIA2.jpg
 logoKey: currencies/hestia2.jpg
 name: Hestia
+platform: METIS
+platform_contract: '0x8f44dC51018AFc30d3c3F18342Ad1835DA0B3507'

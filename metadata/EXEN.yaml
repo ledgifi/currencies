@@ -5,3 +5,5 @@ id_nomics: EXEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EXEN.jpg
 logoKey: currencies/exen.jpg
 name: ExenToken
+platform: ETH
+platform_contract: '0xe6cc10ef4de1ccfb821c99c04abfe1859d8eab8f'

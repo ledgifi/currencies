@@ -5,3 +5,5 @@ id_nomics: SCEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCEX.png
 logoKey: currencies/scex.png
 name: sCEX
+platform: ETH
+platform_contract: '0xeabacd844a196d7faf3ce596edebf9900341b420'

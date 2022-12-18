@@ -3,3 +3,5 @@ fiat: false
 id: BMEG
 id_nomics: BMEG
 name: BME Group
+platform: ETH
+platform_contract: '0x0a509c02129c2c18aee6394a54aec873782642df'

@@ -3,3 +3,5 @@ fiat: false
 id: AUTOS2
 id_nomics: AUTOS2
 name: AutoSingle
+platform: MATIC
+platform_contract: '0x925fadb35b73720238cc78777d02ed4dd3100816'

@@ -5,3 +5,5 @@ id_nomics: MASTERSHIBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MASTERSHIBA.png
 logoKey: currencies/mastershiba.png
 name: MasterShiba
+platform: BNB
+platform_contract: '0x83f91b174fcb3346b2F730348F126453A730C64D'

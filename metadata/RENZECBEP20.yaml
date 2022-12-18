@@ -5,3 +5,5 @@ id_nomics: RENZECBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RENZECBEP20.jpg
 logoKey: currencies/renzecbep20.jpg
 name: renZEC (BEP-20)
+platform: BNB
+platform_contract: '0x695fd30af473f2960e81dc9ba7cb67679d35edb7'

@@ -5,3 +5,5 @@ id_nomics: DBF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DBF.jpeg
 logoKey: currencies/dbf.jpeg
 name: Doge Best Friends
+platform: BNB
+platform_contract: '0x65621806d98a3bb1ef664eb7789ef574477ef8ea'

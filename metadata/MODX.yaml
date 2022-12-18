@@ -6,3 +6,5 @@ id_nomics: MODX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MODX.png
 logoKey: currencies/modx.png
 name: MODEL-X-coin
+platform: ETH
+platform_contract: '0x3c6da7763caa0e4b684bbc733f04a8ec08af3762'

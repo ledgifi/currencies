@@ -5,3 +5,5 @@ id_nomics: TANJUROINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TANJUROINU.jpg
 logoKey: currencies/tanjuroinu.jpg
 name: Tanjuro Inu
+platform: ETH
+platform_contract: '0x970a7bdf0ef7830a19531603fd86fbb8fe1c62e6'

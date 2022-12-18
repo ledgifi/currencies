@@ -5,3 +5,5 @@ id_nomics: WOOF4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOOF4.jpg
 logoKey: currencies/woof4.jpg
 name: Woof Token
+platform: ETH
+platform_contract: '0x1f56ae850930460d076e8c2177d92daa6dd046c3'

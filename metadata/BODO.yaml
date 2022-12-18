@@ -6,3 +6,5 @@ id_nomics: BODO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BODO.jpg
 logoKey: currencies/bodo.jpg
 name: BoozeDoge
+platform: BNB
+platform_contract: '0x2f87afe4bc8c989fa488cb3fd6fe6ac2976b0743'

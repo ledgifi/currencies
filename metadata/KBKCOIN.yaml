@@ -3,3 +3,5 @@ fiat: false
 id: KBKCOIN
 id_nomics: KBKCOIN
 name: KBKcoin Token
+platform: BNB
+platform_contract: '0xcd55c7831b100c0ac4122107781c9df5f14d8888'

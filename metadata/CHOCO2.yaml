@@ -5,3 +5,5 @@ id_nomics: CHOCO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHOCO2.jpg
 logoKey: currencies/choco2.jpg
 name: Chocolate Milk Coin
+platform: BNB
+platform_contract: '0xaa5d289c018962f4711c77a9ac012e4600b6fe88'

@@ -5,3 +5,5 @@ id_nomics: BBC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBC4.jpg
 logoKey: currencies/bbc4.jpg
 name: BBC
+platform: BNB
+platform_contract: '0xf0a7635f2f2e4fdc4d6730dfe8c1ada19b58f4c2'

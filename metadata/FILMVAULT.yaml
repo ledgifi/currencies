@@ -5,3 +5,5 @@ id_nomics: FILMVAULT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FILMVAULT.jpg
 logoKey: currencies/filmvault.jpg
 name: FilmVault
+platform: BNB
+platform_contract: '0xc481e366aad63df7304df888705b86523c3e8681'

@@ -6,3 +6,5 @@ id_nomics: TOSHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOSHI.jpg
 logoKey: currencies/toshi.jpg
 name: Toshimon
+platform: ETH
+platform_contract: '0xf136d7b0b7ae5b86d21e7b78dfa95375a7360f19'

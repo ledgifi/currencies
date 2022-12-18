@@ -6,3 +6,5 @@ id_nomics: EGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EGO.jpg
 logoKey: currencies/ego.jpg
 name: EGO
+platform: BNB
+platform_contract: '0xd001ee3c400c308d468d1e3fc760c7c498c26d67'

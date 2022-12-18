@@ -6,3 +6,5 @@ id_nomics: HERB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/herb.jpg
 logoKey: currencies/herb.jpg
 name: Herbalist Token
+platform: ETH
+platform_contract: '0x04a020325024f130988782bd5276e53595e8d16e'

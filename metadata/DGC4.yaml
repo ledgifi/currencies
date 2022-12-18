@@ -5,3 +5,5 @@ id_nomics: DGC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DGC4.png
 logoKey: currencies/dgc4.png
 name: Digital Genetic Code (Avaxtars)
+platform: AVAX
+platform_contract: '0x7F29e7086453ed97283893E763aE0989F4B70f8d'

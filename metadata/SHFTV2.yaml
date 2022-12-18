@@ -5,3 +5,5 @@ id_nomics: SHFTV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHFTV2.jpg
 logoKey: currencies/shftv2.jpg
 name: Shyft V2
+platform: ETH
+platform_contract: '0xb17c88bda07d28b3838e0c1de6a30eafbcf52d85'

@@ -5,3 +5,5 @@ id_nomics: MONA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MONA2.jpg
 logoKey: currencies/mona2.jpg
 name: Monavale
+platform: ETH
+platform_contract: '0x275f5ad03be0fa221b4c6649b8aee09a42d9412a'

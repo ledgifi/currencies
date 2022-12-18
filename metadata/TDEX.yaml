@@ -5,3 +5,5 @@ id_nomics: TDEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TDEX.jpg
 logoKey: currencies/tdex.jpg
 name: TradePower Dex
+platform: ETH
+platform_contract: '0xc5e19fd321b9bc49b41d9a3a5ad71bcc21cc3c54'

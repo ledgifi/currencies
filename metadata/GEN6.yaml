@@ -5,3 +5,5 @@ id_nomics: GEN6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GEN6.png
 logoKey: currencies/gen6.png
 name: Gen
+platform: BNB
+platform_contract: '0x7d7a7f452e04c2a5df792645e8bfaf529adccecf'

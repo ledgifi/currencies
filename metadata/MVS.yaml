@@ -6,3 +6,5 @@ id_nomics: MVS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MVS.png
 logoKey: currencies/mvs.png
 name: MovieStar
+platform: BNB
+platform_contract: '0x17456d37406cb58335747f922e5eb86b9eed5f9d'

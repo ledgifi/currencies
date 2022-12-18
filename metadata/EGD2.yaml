@@ -3,3 +3,5 @@ fiat: false
 id: EGD2
 id_nomics: EGD2
 name: egd-2 token
+platform: BNB
+platform_contract: '0xaf72f6dc9f83cc19694c30a109da489ee2814e03'

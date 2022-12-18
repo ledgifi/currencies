@@ -5,3 +5,5 @@ id_nomics: BABYAZUKICOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYAZUKICOIN.png
 logoKey: currencies/babyazukicoin.png
 name: BabyAzukiCoin
+platform: BNB
+platform_contract: '0x1ec95e3636a53c372bf71086b9b9a7143241857b'

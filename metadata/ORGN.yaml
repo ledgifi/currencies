@@ -5,3 +5,5 @@ id_nomics: ORGN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORGN.jpg
 logoKey: currencies/orgn.jpg
 name: OragonX
+platform: BNB
+platform_contract: '0x88c676fc777c225b69869aeef5d10535de1e4f5d'

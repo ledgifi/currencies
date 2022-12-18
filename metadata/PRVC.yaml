@@ -5,3 +5,5 @@ id_nomics: PRVC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRVC.jpg
 logoKey: currencies/prvc.jpg
 name: PrivaCoin
+platform: BNB
+platform_contract: '0xEcC5dd7B72A3eEdDbA91613bfF72F968363EFB53'

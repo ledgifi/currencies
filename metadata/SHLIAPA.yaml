@@ -6,3 +6,5 @@ id_nomics: SHLIAPA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHLIAPA.jpg
 logoKey: currencies/shliapa.jpg
 name: SHLIAPA
+platform: BNB
+platform_contract: '0x32bbe16775b98a1a474269ff5b8993e73d793bb7'

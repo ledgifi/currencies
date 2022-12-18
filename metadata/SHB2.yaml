@@ -5,3 +5,5 @@ id_nomics: SHB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHB2.jpg
 logoKey: currencies/shb2.jpg
 name: StakeHouse Batch
+platform: ETH
+platform_contract: '0x7c3e3bdcec89a3f706c9a02797ec427ffa596787'

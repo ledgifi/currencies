@@ -6,3 +6,5 @@ id_nomics: THAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/thar.jpg
 logoKey: currencies/thar.jpg
 name: Thar Token
+platform: ETH
+platform_contract: '0x757703bd5b2c4bbcfde0be2c0b0e7c2f31fcf4e9'

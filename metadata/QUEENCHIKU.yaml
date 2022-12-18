@@ -5,3 +5,5 @@ id_nomics: QUEENCHIKU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QUEENCHIKU.png
 logoKey: currencies/queenchiku.png
 name: Queen Chiku
+platform: BNB
+platform_contract: '0x8614d9d60965ed93994573ea2cc15ba23c8380e1'

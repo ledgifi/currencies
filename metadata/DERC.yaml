@@ -6,3 +6,5 @@ id_nomics: DERC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DERC.jpg
 logoKey: currencies/derc.jpg
 name: DeRace
+platform: ETH
+platform_contract: '0x9fa69536d1cda4a04cfb50688294de75b505a9ae'

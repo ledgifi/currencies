@@ -5,3 +5,5 @@ id_nomics: PING2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PING2.jpg
 logoKey: currencies/ping2.jpg
 name: Sonar
+platform: BNB
+platform_contract: '0x5546600f77eda1dcf2e8817ef4d617382e7f71f5'

@@ -5,3 +5,5 @@ id_nomics: NFTT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTT2.jpg
 logoKey: currencies/nftt2.jpg
 name: NFT Tech
+platform: ETH
+platform_contract: '0x5fa2e9ba5757504b3d6e8f6da03cc40d4ce19499'

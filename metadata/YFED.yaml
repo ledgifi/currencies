@@ -6,3 +6,5 @@ id_nomics: YFED
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFED.jpg
 logoKey: currencies/yfed.jpg
 name: YFED.Finance
+platform: ETH
+platform_contract: '0x2dbd330bc9b7f3a822a9173ab52172bdddcace2a'

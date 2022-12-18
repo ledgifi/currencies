@@ -3,3 +3,5 @@ fiat: false
 id: LABORATORY
 id_nomics: LABORATORY
 name: laboratory
+platform: ETH
+platform_contract: '0x77ced90bc6d451922648ed727d0ff918cf6677a1'

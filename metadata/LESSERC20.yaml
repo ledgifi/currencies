@@ -5,3 +5,5 @@ id_nomics: LESSERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LESSERC20.png
 logoKey: currencies/lesserc20.png
 name: LessToken (ERC-20)
+platform: ETH
+platform_contract: '0x62786eeacc9246b4018e0146cb7a3efeacd9459d'

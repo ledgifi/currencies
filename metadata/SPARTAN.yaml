@@ -5,3 +5,5 @@ id_nomics: SPARTAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPARTAN.jpg
 logoKey: currencies/spartan.jpg
 name: Spartan
+platform: ETH
+platform_contract: '0x167e2a574669b0eeb552aaf3da47c728cb348a41'

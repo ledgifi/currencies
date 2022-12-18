@@ -6,3 +6,5 @@ id_nomics: LILFLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LILFLOKI.jpg
 logoKey: currencies/lilfloki.jpg
 name: Lil Floki
+platform: BNB
+platform_contract: '0x3271d12d5ba36b6582fafa029598fee0f5f6db35'

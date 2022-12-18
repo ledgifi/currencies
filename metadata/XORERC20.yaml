@@ -5,3 +5,5 @@ id_nomics: XORERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XORERC20.jpg
 logoKey: currencies/xorerc20.jpg
 name: Sora (ERC-20)
+platform: ETH
+platform_contract: '0x40fd72257597aa14c7231a7b1aaa29fce868f677'

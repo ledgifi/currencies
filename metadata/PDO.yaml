@@ -5,3 +5,5 @@ id_nomics: PDO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PDO.png
 logoKey: currencies/pdo.png
 name: pDollar
+platform: BNB
+platform_contract: '0x5bccfbd33873a5498f8406146868eddd5e998962'

@@ -5,3 +5,5 @@ id_nomics: TRIG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRIG2.jpg
 logoKey: currencies/trig2.jpg
 name: Trigger
+platform: BNB
+platform_contract: '0x0f6a325BB286f8Db02552358De72091EE641dd62'

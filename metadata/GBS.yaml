@@ -3,3 +3,5 @@ fiat: false
 id: GBS
 id_nomics: GBS
 name: GreenBull Swap Token
+platform: BNB
+platform_contract: '0x40d464c69ca4ae6e860058db5c75a800dd908125'

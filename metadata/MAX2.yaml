@@ -5,3 +5,5 @@ id_nomics: MAX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAX2.jpeg
 logoKey: currencies/max2.jpeg
 name: Maximum Farm
+platform: FTM
+platform_contract: '0x287A3f943Db1C053c3e79d2f211FFE5c795b978B'

@@ -3,3 +3,5 @@ fiat: false
 id: TESTRVRS
 id_nomics: TESTRVRS
 name: TEST Reverse Token
+platform: HARMONY
+platform_contract: '0x5a24e33c1f3ac55b96f818d40d0ad97f71b42658'

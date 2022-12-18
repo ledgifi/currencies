@@ -3,3 +3,5 @@ fiat: false
 id: POLOCON
 id_nomics: POLOCON
 name: Polocon Coin
+platform: MATIC
+platform_contract: '0x99c62306ae9df0c69f08c2b3f55b82394a3fa75f'

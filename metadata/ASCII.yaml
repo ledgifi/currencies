@@ -3,3 +3,5 @@ fiat: false
 id: ASCII
 id_nomics: ASCII
 name: ASCII Finance
+platform: ETH
+platform_contract: '0xaeb80f71de9e8b9d96ee9077b758a94c9fa01c25'

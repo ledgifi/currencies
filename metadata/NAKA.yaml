@@ -6,3 +6,5 @@ id_nomics: NAKA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NAKA.jpg
 logoKey: currencies/naka.jpg
 name: Nakamoto Games
+platform: ETH
+platform_contract: '0x2e10348ee563dec5fe483de558d1946b7a3372c2'

@@ -5,3 +5,5 @@ id_nomics: FART3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FART3.jpeg
 logoKey: currencies/fart3.jpeg
 name: Findart
+platform: BNB
+platform_contract: '0xbce318cace863ddbfa6e34480087159a83de4091'

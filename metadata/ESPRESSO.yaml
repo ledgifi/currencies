@@ -3,3 +3,5 @@ fiat: false
 id: ESPRESSO
 id_nomics: ESPRESSO
 name: LatteSwap Token
+platform: BNB
+platform_contract: '0x9b836f62b975f9f3e700e4670131d03db998ab24'

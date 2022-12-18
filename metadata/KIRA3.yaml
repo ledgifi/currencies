@@ -5,3 +5,5 @@ id_nomics: KIRA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KIRA3.png
 logoKey: currencies/kira3.png
 name: Kira Coin
+platform: BNB
+platform_contract: '0x4015610a72b4f2a8ac0a40a22335767a084fc8cb'

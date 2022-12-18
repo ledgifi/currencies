@@ -5,3 +5,5 @@ id_nomics: FCN3BEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FCN3BEP20.jpg
 logoKey: currencies/fcn3bep20.jpg
 name: Feichang Niu (BEP-20)
+platform: BNB
+platform_contract: '0x289f347ac469bc1b7359ed95c87c75ac2c3eb16f'

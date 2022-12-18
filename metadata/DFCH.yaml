@@ -6,3 +6,5 @@ id_nomics: DFCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DFCH.jpg
 logoKey: currencies/dfch.jpg
 name: DeFi.ch
+platform: ETH
+platform_contract: '0xa92cdf011c895780733b2a6a6e15c4c1ed836148'

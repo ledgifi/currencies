@@ -6,3 +6,5 @@ id_nomics: HONEYD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HONEYD.png
 logoKey: currencies/honeyd.png
 name: Honey Deluxe
+platform: ETH
+platform_contract: '0x40615b82999b8aa46803f11493bedab0314eb5e7'

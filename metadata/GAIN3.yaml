@@ -5,3 +5,5 @@ id_nomics: GAIN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAIN3.jpg
 logoKey: currencies/gain3.jpg
 name: Gain Protocol
+platform: BNB
+platform_contract: '0xa24e87efb0a6599c18f3710db47f724acef5254b'

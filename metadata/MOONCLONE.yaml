@@ -5,3 +5,5 @@ id_nomics: MOONCLONE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOONCLONE.jpg
 logoKey: currencies/moonclone.jpg
 name: MoonClone
+platform: BNB
+platform_contract: '0x5e8a5a64ea834c8195d5d0e92de1100f496572a0'

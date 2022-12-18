@@ -6,3 +6,5 @@ id_nomics: VTY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VTY.jpg
 logoKey: currencies/vty.jpg
 name: VERITY
+platform: ETH
+platform_contract: '0x7ba8a5d59b21390a70b2ba968a183712e12a049c'

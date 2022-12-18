@@ -6,3 +6,5 @@ id_nomics: AXIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AXIN.jpg
 logoKey: currencies/axin.jpg
 name: Axienomics
+platform: BNB
+platform_contract: '0x763aca17f03c221d16ba9191a66f75b78a403bcb'

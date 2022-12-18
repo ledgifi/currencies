@@ -5,3 +5,5 @@ id_nomics: DAOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAOS.jpg
 logoKey: currencies/daos.jpg
 name: Daopolis Blockchain Game
+platform: BNB
+platform_contract: '0x6b7ccd19b78f57efaa89e6291b8834831c2f539f'

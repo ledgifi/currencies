@@ -6,3 +6,5 @@ id_nomics: GT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GT.png
 logoKey: currencies/gt.png
 name: Gatechain Token
+platform: ETH
+platform_contract: '0xe66747a101bff2dba3697199dcce5b743b454759'

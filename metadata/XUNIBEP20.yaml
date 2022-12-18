@@ -5,3 +5,5 @@ id_nomics: XUNIBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XUNIBEP20.png
 logoKey: currencies/xunibep20.png
 name: UltraNote Infinity
+platform: BNB
+platform_contract: '0xc6660965869fae1776f83b56e68e32555067ea85'

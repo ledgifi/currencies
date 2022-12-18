@@ -5,3 +5,5 @@ id_nomics: BACON2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BACON2.png
 logoKey: currencies/bacon2.png
 name: BaconDAO
+platform: ETH
+platform_contract: '0x34f797e7190c131cf630524655a618b5bd8738e7'

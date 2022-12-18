@@ -5,3 +5,5 @@ id_nomics: EFS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EFS2.jpg
 logoKey: currencies/efs2.jpg
 name: EnFormation
+platform: BNB
+platform_contract: '0xfea37c8a3195f406bf497af819712d8fbde64ca2'

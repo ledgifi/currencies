@@ -3,3 +3,5 @@ fiat: false
 id: FXORACLE
 id_nomics: FXORACLE
 name: FoxOracle
+platform: ETH
+platform_contract: '0x4433151c0a15adce16e9c4f8da5d7810ec8b9973'

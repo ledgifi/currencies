@@ -5,3 +5,5 @@ id_nomics: AVGL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVGL.jpg
 logoKey: currencies/avgl.jpg
 name: AVGL
+platform: ETH
+platform_contract: '0x3bcf909d564bdac5d7ead28a99664643aabe961a'

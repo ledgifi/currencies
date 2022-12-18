@@ -5,3 +5,5 @@ id_nomics: GMS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMS2.jpg
 logoKey: currencies/gms2.jpg
 name: GameStar Exchange
+platform: BNB
+platform_contract: '0xdae3c2cb0ac034a4a491b112d2922f12427201a6'

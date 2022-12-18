@@ -6,3 +6,5 @@ id_nomics: XTRD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/xtrd.jpg
 logoKey: currencies/xtrd.jpg
 name: XTRD
+platform: ETH
+platform_contract: '0x9c794f933b4dd8b49031a79b0f924d68bef43992'

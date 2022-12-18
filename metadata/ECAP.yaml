@@ -3,3 +3,5 @@ fiat: false
 id: ECAP
 id_nomics: ECAP
 name: Elona Capital
+platform: ETH
+platform_contract: '0x2d98b691a46a75711ae42ced9960277960d91d64'

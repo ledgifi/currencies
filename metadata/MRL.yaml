@@ -5,3 +5,5 @@ id_nomics: MRL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MRL.jpg
 logoKey: currencies/mrl.jpg
 name: Marcelo
+platform: ETH
+platform_contract: '0x82125afe01819dff1535d0d6276d57045291b6c0'

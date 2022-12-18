@@ -5,3 +5,5 @@ id_nomics: RELY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RELY.jpg
 logoKey: currencies/rely.jpg
 name: Reliance Token
+platform: BNB
+platform_contract: '0x82d530f1f24a902d5d31b6808ad8823ea4f2e4d1'

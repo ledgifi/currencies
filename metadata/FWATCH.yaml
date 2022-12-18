@@ -3,3 +3,5 @@ fiat: false
 id: FWATCH
 id_nomics: FWATCH
 name: Foliowatch
+platform: BNB
+platform_contract: '0x5cdcb6c1a30f59d59393d1629172634056e0461c'

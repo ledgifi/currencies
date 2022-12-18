@@ -5,3 +5,5 @@ id_nomics: MCDCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCDCOIN.jpeg
 logoKey: currencies/mcdcoin.jpeg
 name: McDoge Coin
+platform: BNB
+platform_contract: '0xba915ec2da7ac71a974662aeecafca33413070c1'

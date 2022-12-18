@@ -5,3 +5,5 @@ id_nomics: CLAIM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLAIM.jpg
 logoKey: currencies/claim.jpg
 name: Claim (BEP-20)
+platform: BNB
+platform_contract: '0x13154efe79d4d7f86407d56f8f6a1b07fb0b80ff'

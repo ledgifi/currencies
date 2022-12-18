@@ -6,3 +6,5 @@ id_nomics: LECLIENTE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LECLIENTE.jpg
 logoKey: currencies/lecliente.jpg
 name: LE CALIENTE
+platform: BNB
+platform_contract: '0xaa66a93346e09d140e203eadf22886a21123a1b9'

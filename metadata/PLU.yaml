@@ -6,3 +6,5 @@ id_nomics: PLU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/plu.svg
 logoKey: currencies/plu.svg
 name: Pluton
+platform: ETH
+platform_contract: '0xd8912c10681d8b21fd3742244f44658dba12264e'

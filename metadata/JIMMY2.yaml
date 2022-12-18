@@ -5,3 +5,5 @@ id_nomics: JIMMY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JIMMY2.png
 logoKey: currencies/jimmy2.png
 name: Jimmy
+platform: BNB
+platform_contract: '0xc5f49e1452869ddaa5b0cf038bd7fe1d03b3d703'

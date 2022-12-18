@@ -5,3 +5,5 @@ id_nomics: CHEEMSGROW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHEEMSGROW.jpg
 logoKey: currencies/cheemsgrow.jpg
 name: Cheems Grow
+platform: BNB
+platform_contract: '0x2a3c372261ee9b4d01e0b49043c63307360ae52d'

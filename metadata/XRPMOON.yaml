@@ -3,3 +3,5 @@ fiat: false
 id: XRPMOON
 id_nomics: XRPMOON
 name: 10X Long XRP Token
+platform: ETH
+platform_contract: '0x574a37b7244dabb08ce1618193f818f1c85180e6'

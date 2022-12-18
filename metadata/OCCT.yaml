@@ -6,3 +6,5 @@ id_nomics: OCCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCCT.jpg
 logoKey: currencies/occt.jpg
 name: Official Crypto Cowboy Token
+platform: ETH
+platform_contract: '0x95a1796437bad6502d1c1cce165cd76e522409a9'

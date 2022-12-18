@@ -5,3 +5,5 @@ id_nomics: FUNEXBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FUNEXBEP20.jpg
 logoKey: currencies/funexbep20.jpg
 name: Funex (BEP-20)
+platform: BNB
+platform_contract: '0xa07c39f8df11ca675f77efc19501e3dddacd03ed'

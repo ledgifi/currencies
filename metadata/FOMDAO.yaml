@@ -3,3 +3,5 @@ fiat: false
 id: FOMDAO
 id_nomics: FOMDAO
 name: Fortunecoin
+platform: HT
+platform_contract: '0x81e482a1e76e01e0e293a217e33e972870176dc3'

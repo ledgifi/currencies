@@ -3,3 +3,5 @@ fiat: false
 id: LIP
 id_nomics: LIP
 name: Light Project
+platform: BNB
+platform_contract: '0x9921043e5678eed2c4f9e19d60449f4e134b37ef'

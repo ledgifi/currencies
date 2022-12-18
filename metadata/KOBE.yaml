@@ -6,3 +6,5 @@ id_nomics: KOBE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KOBE.jpg
 logoKey: currencies/kobe.jpg
 name: Shabu Shabu
+platform: ETH
+platform_contract: '0xcb4e8cafeda995da5cedfda5205bd5664a12b848'

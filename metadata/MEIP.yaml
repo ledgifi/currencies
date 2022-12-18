@@ -3,3 +3,5 @@ fiat: false
 id: MEIP
 id_nomics: MEIP
 name: MEIP
+platform: HT
+platform_contract: '0x35bc0288ec1ef26ed936f28e7c719de5f3b2e8b8'

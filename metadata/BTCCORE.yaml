@@ -3,3 +3,5 @@ fiat: false
 id: BTCCORE
 id_nomics: BTCCORE
 name: Bitcoin Core Token
+platform: MATIC
+platform_contract: '0x4f373b6671db3a752602cbc6f944e653e0e3a766'

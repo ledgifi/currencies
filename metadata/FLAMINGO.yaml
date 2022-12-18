@@ -5,3 +5,5 @@ id_nomics: FLAMINGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLAMINGO.png
 logoKey: currencies/flamingo.png
 name: Flamingo Coin
+platform: BNB
+platform_contract: '0xeb5e6716a9c0c8d1643181d8283efbd3b99b0aa1'

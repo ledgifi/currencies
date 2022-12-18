@@ -6,3 +6,5 @@ id_nomics: GLDY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GLDY.jpg
 logoKey: currencies/gldy.jpg
 name: Buzzshow
+platform: ETH
+platform_contract: '0x594207c791afd06a8d087d84d99d1da53ccbd45f'

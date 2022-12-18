@@ -5,3 +5,5 @@ id_nomics: CTH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTH.jpg
 logoKey: currencies/cth.jpg
 name: Crypto Hounds
+platform: BNB
+platform_contract: '0xb7148ae5745f4753673511b1315d6089e64d83d1'

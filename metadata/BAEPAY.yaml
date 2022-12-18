@@ -3,3 +3,5 @@ fiat: false
 id: BAEPAY
 id_nomics: BAEPAY
 name: BAEPAY
+platform: ETH
+platform_contract: '0x6bffa07a1b0cebc474ce6833eaf2be6326252449'

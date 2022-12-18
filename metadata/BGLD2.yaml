@@ -3,3 +3,5 @@ fiat: false
 id: BGLD2
 id_nomics: BGLD2
 name: Based Gold
+platform: ETH
+platform_contract: '0xba7970f10d9f0531941dced1dda7ef3016b24e5b'

@@ -5,3 +5,5 @@ id_nomics: HUNEKU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HUNEKU.jpg
 logoKey: currencies/huneku.jpg
 name: Huneku Inu
+platform: BNB
+platform_contract: '0x5461dc4ebe8d024873dd14c239569a52b7e5f9c2'

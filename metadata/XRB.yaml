@@ -3,3 +3,5 @@ fiat: false
 id: XRB
 id_nomics: XRB
 name: Rainbow
+platform: ETH
+platform_contract: '0x0e3abf45855fbaa1afcc3b33cf08b3915bdcda96'

@@ -5,3 +5,5 @@ id_nomics: NMS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NMS3.png
 logoKey: currencies/nms3.png
 name: Nomos
+platform: BNB
+platform_contract: '0xf7b7db914e8fd226f5648cebdc7464d1ac4f6afc'

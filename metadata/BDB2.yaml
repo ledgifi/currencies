@@ -5,3 +5,5 @@ id_nomics: BDB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BDB2.jpg
 logoKey: currencies/bdb2.jpg
 name: Bot Detector Bot
+platform: BNB
+platform_contract: '0x1694ff38e8fd746b8e234a2aafc3ae43a8641929'

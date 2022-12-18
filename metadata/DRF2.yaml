@@ -5,3 +5,5 @@ id_nomics: DRF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRF2.jpg
 logoKey: currencies/drf2.jpg
 name: Drife
+platform: BNB
+platform_contract: '0x9400aa8eb5126d20cde45c7822836bfb70f19878'

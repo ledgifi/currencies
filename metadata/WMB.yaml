@@ -5,3 +5,5 @@ id_nomics: WMB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WMB.png
 logoKey: currencies/wmb.png
 name: WatermelonBlock
+platform: ETH
+platform_contract: '0x7a18919f0b05fa5e91f3ef43afe8a72105c9d4b8'

@@ -5,3 +5,5 @@ id_nomics: PXL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PXL2.jpg
 logoKey: currencies/pxl2.jpg
 name: Pixl Coin
+platform: BNB
+platform_contract: '0x5b2b5bd1e5c53870fe135fb7b289d686f762858d'

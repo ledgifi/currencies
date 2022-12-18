@@ -6,3 +6,5 @@ id_nomics: ANYP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANYP.jpg
 logoKey: currencies/anyp.jpg
 name: AnyPrinter
+platform: BNB
+platform_contract: '0xd37a5a2d554a1b3521dabe690036963e322cbb30'

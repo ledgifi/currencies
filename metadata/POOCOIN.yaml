@@ -6,3 +6,5 @@ id_nomics: POOCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POOCOIN.jpg
 logoKey: currencies/poocoin.jpg
 name: PooCoin
+platform: BNB
+platform_contract: '0xb27adaffb9fea1801459a1a81b17218288c097cc'

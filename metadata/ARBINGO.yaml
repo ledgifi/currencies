@@ -3,3 +3,5 @@ fiat: false
 id: ARBINGO
 id_nomics: ARBINGO
 name: Arbingo
+platform: ARBETH
+platform_contract: '0x6167e9ded10f88eca42a402138635d678385d089'

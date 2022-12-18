@@ -5,3 +5,5 @@ id_nomics: OROS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OROS.png
 logoKey: currencies/oros.png
 name: Oros
+platform: BNB
+platform_contract: '0xe540b81133c597b31c3a33e318e5bc0f3e78dfc9'

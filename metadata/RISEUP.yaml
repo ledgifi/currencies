@@ -5,3 +5,5 @@ id_nomics: RISEUP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RISEUP.jpg
 logoKey: currencies/riseup.jpg
 name: RiseUp
+platform: BNB
+platform_contract: '0x61c911b6d1b46dcadbb61bfa7100290a6faad53d'

@@ -3,3 +3,5 @@ fiat: false
 id: MINIBIKE
 id_nomics: MINIBIKE
 name: MiniBIKE Token
+platform: BNB
+platform_contract: '0x4b17e8b736c534ee6728789f1ed261440e8d43fc'

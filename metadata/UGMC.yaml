@@ -5,3 +5,5 @@ id_nomics: UGMC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UGMC.jpg
 logoKey: currencies/ugmc.jpg
 name: Unicly Genesis MoonCats Collection
+platform: ETH
+platform_contract: '0xd4f2249dd6c26446f1413f6d97f14fcaa7792545'

@@ -6,3 +6,5 @@ id_nomics: XGR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XGR.png
 logoKey: currencies/xgr.png
 name: GoldReserve
+platform: ETH
+platform_contract: '0xcf28bf20b662f746a4b487fa81de5a40ac0af49c'

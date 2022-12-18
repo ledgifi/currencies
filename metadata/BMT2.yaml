@@ -5,3 +5,5 @@ id_nomics: BMT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BMT2.jpg
 logoKey: currencies/bmt2.jpg
 name: BitMinutes
+platform: ETH
+platform_contract: '0x86c2752f8fe2c6679a942c8ee6c785c28f42cd55'

@@ -5,3 +5,5 @@ id_nomics: RADIO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RADIO3.jpg
 logoKey: currencies/radio3.jpg
 name: CryptoRadio
+platform: BNB
+platform_contract: '0x27daba8f3731e27b46b836ab6f0332f51531270a'

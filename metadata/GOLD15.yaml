@@ -4,3 +4,5 @@ id: GOLD15
 id_nomics: GOLD15
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOLD15.png
 name: Adventurer Gold
+platform: ETH
+platform_contract: '0x486f4641ef2b50cc130dadbd27b6f271723873b8'

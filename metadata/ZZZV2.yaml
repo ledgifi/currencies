@@ -5,3 +5,5 @@ id_nomics: ZZZV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZZZV2.jpg
 logoKey: currencies/zzzv2.jpg
 name: zzz.finance v2
+platform: ETH
+platform_contract: '0x93ed140172ff226dad1f7f3650489b8daa07ae7f'

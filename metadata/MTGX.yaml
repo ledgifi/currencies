@@ -3,3 +3,5 @@ fiat: false
 id: MTGX
 id_nomics: MTGX
 name: MTGOX
+platform: BNB
+platform_contract: '0x41333b166d43690237be166867cf960dc688267e'

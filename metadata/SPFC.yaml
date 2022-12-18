@@ -5,3 +5,5 @@ id_nomics: SPFC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPFC.jpg
 logoKey: currencies/spfc.jpg
 name: Sao Paulo FC Fan Token
+platform: CHZ
+platform_contract: '0x9e8c72a057c8f785a206506e27ee9af0d8f81a28'

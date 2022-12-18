@@ -5,3 +5,5 @@ id_nomics: BOOSTO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOOSTO.png
 logoKey: currencies/boosto.png
 name: BOOSTO
+platform: ETH
+platform_contract: '0xdf0041891bda1f911c4243f328f7cf61b37f965b'

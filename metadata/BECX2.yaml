@@ -5,3 +5,5 @@ id_nomics: BECX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BECX2.jpeg
 logoKey: currencies/becx2.jpeg
 name: ECX Token (BEP-20)
+platform: BNB
+platform_contract: '0xc7dc78ff2ad007c271bde3e3c3a3448b7fb9fcce'

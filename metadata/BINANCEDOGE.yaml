@@ -3,3 +3,5 @@ fiat: false
 id: BINANCEDOGE
 id_nomics: BINANCEDOGE
 name: Binance Doge
+platform: BNB
+platform_contract: '0xb60799ed1f625aff8c643e572e5821c43778c864'

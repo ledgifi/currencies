@@ -3,3 +3,5 @@ fiat: false
 id: LIGHT4
 id_nomics: LIGHT4
 name: Lightning
+platform: BNB
+platform_contract: '0x037838b556d9c9d654148a284682c55bb5f56ef4'

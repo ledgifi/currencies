@@ -5,3 +5,5 @@ id_nomics: NCT5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NCT5.png
 logoKey: currencies/nct5.png
 name: Nature Carbon Tonne
+platform: MATIC
+platform_contract: '0xd838290e877e0188a4a44700463419ed96c16107'

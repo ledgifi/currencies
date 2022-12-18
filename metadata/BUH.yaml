@@ -5,3 +5,5 @@ id_nomics: BUH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUH.jpg
 logoKey: currencies/buh.jpg
 name: Buhund
+platform: ETH
+platform_contract: '0x66bcd0c22bb15cd1ba7199c7a383dc89528f4427'

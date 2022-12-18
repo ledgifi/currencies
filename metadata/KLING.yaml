@@ -5,3 +5,5 @@ id_nomics: KLING
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KLING.png
 logoKey: currencies/kling.png
 name: Klingon Token
+platform: BNB
+platform_contract: '0xf6527df4592bd17cf5c697330f38781fefe7def6'

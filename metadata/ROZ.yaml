@@ -6,3 +6,5 @@ id_nomics: ROZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROZ.jpg
 logoKey: currencies/roz.jpg
 name: Rozeus
+platform: ETH
+platform_contract: '0xe55cc44c0cf9cede2d68f9432cbeeafa6357ed92'

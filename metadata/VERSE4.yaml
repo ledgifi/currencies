@@ -5,3 +5,5 @@ id_nomics: VERSE4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VERSE4.jpg
 logoKey: currencies/verse4.jpg
 name: Traverse
+platform: AVAX
+platform_contract: '0xb72ab6f7177bbb41efcc17d817778d77460259f1'

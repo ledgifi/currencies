@@ -3,3 +3,5 @@ fiat: false
 id: BIT360
 id_nomics: BIT360
 name: Bit360Token
+platform: BNB
+platform_contract: '0xbf8feeaa4799f8765ecb3ae6e1569ede0fee0366'

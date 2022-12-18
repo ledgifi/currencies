@@ -5,3 +5,5 @@ id_nomics: STKN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STKN2.jpg
 logoKey: currencies/stkn2.jpg
 name: Stakin Yield Token
+platform: BNB
+platform_contract: '0x822768cf477be7cc2c48003513af717efa31bc31'

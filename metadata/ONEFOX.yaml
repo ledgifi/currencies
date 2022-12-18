@@ -5,3 +5,5 @@ id_nomics: ONEFOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ONEFOX.jpg
 logoKey: currencies/onefox.jpg
 name: oneFOX
+platform: ETH
+platform_contract: '0x03352d267951e96c6f7235037c5dfd2ab1466232'

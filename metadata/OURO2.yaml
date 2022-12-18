@@ -5,3 +5,5 @@ id_nomics: OURO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OURO2.jpg
 logoKey: currencies/ouro2.jpg
 name: Ouro Stablecoin
+platform: BNB
+platform_contract: '0x0a4fc79921f960a4264717fefee518e088173a79'

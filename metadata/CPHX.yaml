@@ -6,3 +6,5 @@ id_nomics: CPHX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CPHX.jpg
 logoKey: currencies/cphx.jpg
 name: Crypto Phoenix
+platform: ETH
+platform_contract: '0x8689d850cdf3b74a1f6a5eb60302c785b71c2fc7'

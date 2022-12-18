@@ -6,3 +6,5 @@ id_nomics: TEMPO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TEMPO.jpg
 logoKey: currencies/tempo.jpg
 name: Tempo DAO
+platform: AVAX
+platform_contract: '0x88a425b738682f58c0ff9fcf2cceb47a361ef4cf'

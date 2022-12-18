@@ -5,3 +5,5 @@ id_nomics: BTCBRFTM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCBRFTM.jpeg
 logoKey: currencies/btcbrftm.jpeg
 name: Bitcoin BR (Fantom)
+platform: FTM
+platform_contract: '0xb355f4f4cc84a9429a59d5c2b98d77016f7ec482'

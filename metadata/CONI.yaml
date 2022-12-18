@@ -5,3 +5,5 @@ id_nomics: CONI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CONI.jpg
 logoKey: currencies/coni.jpg
 name: Coinbene Token
+platform: ETH
+platform_contract: '0x2c949199cff14aeaf1b33d64db01f48fb57f592f'

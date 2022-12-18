@@ -5,3 +5,5 @@ id_nomics: DAF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAF2.jpg
 logoKey: currencies/daf2.jpg
 name: Defend Animals Foundation
+platform: BNB
+platform_contract: '0x564dd7e2d2a16ec83c3241e300e59acd012dca9c'

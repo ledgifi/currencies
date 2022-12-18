@@ -3,3 +3,5 @@ fiat: false
 id: MARBI
 id_nomics: MARBI
 name: MidasArbi
+platform: ARBETH
+platform_contract: '0xa779021dab790b31dcdb7caec09145a75d65881e'

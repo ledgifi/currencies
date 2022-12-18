@@ -3,3 +3,5 @@ fiat: false
 id: IMATICFLIP
 id_nomics: IMATICFLIP
 name: Index Coop - Inverse MATIC Flexible Leverage Index
+platform: MATIC
+platform_contract: '0x340f412860da7b7823df372a2b59ff78b7ae6abc'

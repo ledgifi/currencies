@@ -5,3 +5,5 @@ id_nomics: NASTY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NASTY2.jpg
 logoKey: currencies/nasty2.jpg
 name: Nasty
+platform: BNB
+platform_contract: '0x323464cd64965ef7480bd04fbc36bbfdcf9c5ba0'

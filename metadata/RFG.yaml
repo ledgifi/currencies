@@ -6,3 +6,5 @@ id_nomics: RFG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RFG.png
 logoKey: currencies/rfg.png
 name: Refugees Token
+platform: BNB
+platform_contract: '0x4477b28e8b797ebaebd2539bb24290fdfcc27807'

@@ -3,3 +3,5 @@ fiat: false
 id: NEBTC
 id_nomics: NEBTC
 name: NEBTC
+platform: BNB
+platform_contract: '0x0e9e35376c576e7df968977cef47845898820375'

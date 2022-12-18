@@ -6,3 +6,5 @@ id_nomics: CODEO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CODEO.jpg
 logoKey: currencies/codeo.jpg
 name: CODEO TOKEN
+platform: ETH
+platform_contract: '0x46b4a7d906f1a943b7744df23625e63726d79035'

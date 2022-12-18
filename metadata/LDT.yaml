@@ -3,3 +3,5 @@ fiat: false
 id: LDT
 id_nomics: LDT
 name: Libra Dragon
+platform: ETH
+platform_contract: '0x35ec8eb2b0621ce51d6540a737687b85c4bb3d76'

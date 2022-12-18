@@ -6,3 +6,5 @@ id_nomics: BRKL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRKL.jpg
 logoKey: currencies/brkl.jpg
 name: Brokoli
+platform: ETH
+platform_contract: '0x4674a4f24c5f63d53f22490fb3a08eaaad739ff8'

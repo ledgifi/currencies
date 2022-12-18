@@ -5,3 +5,5 @@ id_nomics: DEXI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEXI2.png
 logoKey: currencies/dexi2.png
 name: Dexioprotocol V2
+platform: CRO
+platform_contract: '0x3e1bef464f2600ef94de4d965c8991e06570d2e8'

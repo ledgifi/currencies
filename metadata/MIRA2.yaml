@@ -5,3 +5,5 @@ id_nomics: MIRA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIRA2.png
 logoKey: currencies/mira2.png
 name: Miracle Tech
+platform: BNB
+platform_contract: '0x69755022be962535869543d6e09cece3c1791aaf'

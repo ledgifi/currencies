@@ -3,3 +3,5 @@ fiat: false
 id: SESSIONTOKEN
 id_nomics: SESSIONTOKEN
 name: SessionToken
+platform: BNB
+platform_contract: '0x71f25dfc86aa27e53e9e077031cde0e0694b8f19'

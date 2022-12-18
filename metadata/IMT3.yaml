@@ -5,3 +5,5 @@ id_nomics: IMT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IMT3.jpeg
 logoKey: currencies/imt3.jpeg
 name: Immortality
+platform: BNB
+platform_contract: '0x2bf2141ed175f3236903cf07de33d7324871802d'

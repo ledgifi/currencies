@@ -3,3 +3,5 @@ fiat: false
 id: DOGPREZ
 id_nomics: DOGPREZ
 name: DogPrezToken
+platform: ETH
+platform_contract: '0x1b85fd9c6185acf3ed0471fd0780bd11ca64491f'

@@ -3,3 +3,5 @@ fiat: false
 id: UBUT
 id_nomics: UBUT
 name: Ubuntu
+platform: BNB
+platform_contract: '0xc995142158909882e7184672318d6401271af7f5'

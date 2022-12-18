@@ -5,3 +5,5 @@ id_nomics: MBF3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MBF3.jpg
 logoKey: currencies/mbf3.jpg
 name: Meta Book Finance V2
+platform: BNB
+platform_contract: '0xe65a33048d3E12d1129F85CEa3eA7F97d3FB82E6'

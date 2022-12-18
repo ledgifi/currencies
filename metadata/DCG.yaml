@@ -3,3 +3,5 @@ fiat: false
 id: DCG
 id_nomics: DCG
 name: DogecoinGold
+platform: BNB
+platform_contract: '0x489922da12ae85e320d126c19ed2719517a89f85'

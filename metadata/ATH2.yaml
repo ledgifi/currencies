@@ -5,3 +5,5 @@ id_nomics: ATH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATH2.jpg
 logoKey: currencies/ath2.jpg
 name: AetherV2
+platform: BNB
+platform_contract: '0x6d3a0fb0070ea61f901ebc0b675c30450acac737'

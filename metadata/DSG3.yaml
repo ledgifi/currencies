@@ -5,3 +5,5 @@ id_nomics: DSG3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DSG3.jpg
 logoKey: currencies/dsg3.jpg
 name: D-Skyscraper
+platform: BNB
+platform_contract: '0x26646b7c71f19bc9440612caaab465c26f4e8f7c'

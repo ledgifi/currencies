@@ -5,3 +5,5 @@ id_nomics: ATM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATM2.jpg
 logoKey: currencies/atm2.jpg
 name: Atletico Madrid
+platform: CHZ
+platform_contract: '0x87f0600b13cf4ef14b0b98956c6317d80b45ef5f'

@@ -5,3 +5,5 @@ id_nomics: TIPSY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIPSY2.jpg
 logoKey: currencies/tipsy2.jpg
 name: Tipsy
+platform: BNB
+platform_contract: '0xf380334b9a181f54bf2f32fdd3e153d259472ebb'

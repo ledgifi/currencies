@@ -3,3 +3,5 @@ fiat: false
 id: ETORO
 id_nomics: ETORO
 name: eToro
+platform: ETH
+platform_contract: '0xcab684775b163a7942aea07d4b17e180ffa0e8cf'

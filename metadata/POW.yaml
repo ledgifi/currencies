@@ -5,3 +5,5 @@ id_nomics: POW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POW.png
 logoKey: currencies/pow.png
 name: EBOMB
+platform: ETC
+platform_contract: '0x171040cd10f204f3b257e45b41ce65d36150558c'

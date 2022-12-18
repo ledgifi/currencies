@@ -5,3 +5,5 @@ id_nomics: METANEO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METANEO.jpeg
 logoKey: currencies/metaneo.jpeg
 name: Meta Neo
+platform: BNB
+platform_contract: '0x4efb987b96e344872af96ffa8fb9eefed8846b78'

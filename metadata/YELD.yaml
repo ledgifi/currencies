@@ -6,3 +6,5 @@ id_nomics: YELD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YELD.jpg
 logoKey: currencies/yeld.jpg
 name: Yeld Finance
+platform: ETH
+platform_contract: '0x468ab3b1f63a1c14b361bc367c3cc92277588da1'

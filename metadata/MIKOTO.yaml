@@ -5,3 +5,5 @@ id_nomics: MIKOTO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIKOTO.png
 logoKey: currencies/mikoto.png
 name: Tsukuyomi-no-Mikoto
+platform: ETH
+platform_contract: '0x921fa0f0fe7e01e861b2cf583a54a8c3e9b40b1e'

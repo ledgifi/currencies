@@ -3,3 +3,5 @@ fiat: false
 id: COGM
 id_nomics: COGM
 name: COGM
+platform: BNB
+platform_contract: '0x3f0ca9da50e0cc3b25f429ae9dbea81cb5cf546d'

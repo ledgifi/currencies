@@ -3,3 +3,5 @@ fiat: false
 id: PAPI
 id_nomics: PAPI
 name: Papillon
+platform: ETH
+platform_contract: '0x86eb604fc4fb3f8a6154f4ae25e43c4881dd51af'

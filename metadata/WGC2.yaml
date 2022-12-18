@@ -5,3 +5,5 @@ id_nomics: WGC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WGC2.jpg
 logoKey: currencies/wgc2.jpg
 name: Green Climate World
+platform: BNB
+platform_contract: '0x1e4ffa373d94c95717fb83ec026b2e0e2f443bb0'

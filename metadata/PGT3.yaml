@@ -5,3 +5,5 @@ id_nomics: PGT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PGT3.jpg
 logoKey: currencies/pgt3.jpg
 name: PetZ Gold Token
+platform: BNB
+platform_contract: '0xb78bf2a671ef8d52a62390772445165507ab7029'

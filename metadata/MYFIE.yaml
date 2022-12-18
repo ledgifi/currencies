@@ -5,3 +5,5 @@ id_nomics: MYFIE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MYFIE.jpg
 logoKey: currencies/myfie.jpg
 name: Monetize Your Selfie
+platform: ETH
+platform_contract: '0xcb529ae44941500ded968baf9617ddecacc6fb87'

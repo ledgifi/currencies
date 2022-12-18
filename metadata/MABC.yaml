@@ -3,3 +3,5 @@ fiat: false
 id: MABC
 id_nomics: MABC
 name: MABC
+platform: BNB
+platform_contract: '0x516446e56842120514cf2548735e6fcc9c686c89'

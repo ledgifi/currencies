@@ -3,3 +3,5 @@ fiat: false
 id: PFBT
 id_nomics: PFBT
 name: PayFbit.com
+platform: ETH
+platform_contract: '0x2bed89dec873751004a874868871457c2120c020'

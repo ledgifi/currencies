@@ -5,3 +5,5 @@ id_nomics: FFT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FFT3.jpg
 logoKey: currencies/fft3.jpg
 name: Farm Finance
+platform: BNB
+platform_contract: '0xf205cec3ffc4c4974ac773d9b3f59f8e8501d5cf'

@@ -5,3 +5,5 @@ id_nomics: KPC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KPC4.png
 logoKey: currencies/kpc4.png
 name: King Pig Coin
+platform: BNB
+platform_contract: '0xaa410719995ba0505e4e9c91e39a40cc59c0b007'

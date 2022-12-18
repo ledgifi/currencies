@@ -5,3 +5,5 @@ id_nomics: TUKAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TUKAR.png
 logoKey: currencies/tukar.png
 name: TUKAR
+platform: BNB
+platform_contract: '0xe499df0f79d6b01c0ee0457adb2986c0d0e3e86a'

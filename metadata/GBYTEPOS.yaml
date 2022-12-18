@@ -5,3 +5,5 @@ id_nomics: GBYTEPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GBYTEPOS.jpg
 logoKey: currencies/gbytepos.jpg
 name: Obyte (Polygon)
+platform: MATIC
+platform_contract: '0xab5f7a0e20b0d056aed4aa4528c78da45be7308b'

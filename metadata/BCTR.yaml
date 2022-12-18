@@ -5,3 +5,5 @@ id_nomics: BCTR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCTR.jpg
 logoKey: currencies/bctr.jpg
 name: Bitcratic Revenue
+platform: ETH
+platform_contract: '0x579353231f3540b218239774422962c64a3693e7'

@@ -5,3 +5,5 @@ id_nomics: LIBRACOL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIBRACOL.png
 logoKey: currencies/libracol.png
 name: LIBRAPROTOCOL
+platform: BNB
+platform_contract: '0x99edc435e05067b9b4b4dcf83babbf070fa3a930'

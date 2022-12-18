@@ -3,3 +3,5 @@ fiat: false
 id: SFTMP
 id_nomics: SFTMP
 name: Dumbinos
+platform: ETH
+platform_contract: '0x51bcd8410dbf6eca6df3b812ed7885c5f344dab6'

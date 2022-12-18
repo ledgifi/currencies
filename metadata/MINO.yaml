@@ -5,3 +5,5 @@ id_nomics: MINO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINO.jpg
 logoKey: currencies/mino.jpg
 name: Minotaur
+platform: CRO
+platform_contract: '0x3a1138075bd97a33f23a87824b811146fa44288e'

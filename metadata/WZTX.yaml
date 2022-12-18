@@ -3,3 +3,5 @@ fiat: false
 id: WZTX
 id_nomics: WZTX
 name: Wrapped ZTX (Ethereum)
+platform: ETH
+platform_contract: '0xbd3579babaeb7e9e1f15c3d4aa3e41751105d103'

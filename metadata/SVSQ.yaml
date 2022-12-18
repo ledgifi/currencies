@@ -3,3 +3,5 @@ fiat: false
 id: SVSQ
 id_nomics: SVSQ
 name: Staked VSQ
+platform: MATIC
+platform_contract: '0xbb0fdc2fe6d3ceb6bf76cc955173a07edbf57494'

@@ -5,3 +5,5 @@ id_nomics: COMT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COMT.jpg
 logoKey: currencies/comt.jpg
 name: Community Metaverse
+platform: BNB
+platform_contract: '0x45b239cc0a760d1afd276b749141c7e404844ee6'

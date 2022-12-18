@@ -5,3 +5,5 @@ id_nomics: DXW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DXW.png
 logoKey: currencies/dxw.png
 name: Dexview.io
+platform: BNB
+platform_contract: '0x89675dccfe0c19bca178a0e0384bd8e273a45cba'

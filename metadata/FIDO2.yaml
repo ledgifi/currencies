@@ -3,3 +3,5 @@ fiat: false
 id: FIDO2
 id_nomics: FIDO2
 name: FIDO
+platform: BNB
+platform_contract: '0x493676fc6b47c87361a3b85a8c18b051e810f37d'

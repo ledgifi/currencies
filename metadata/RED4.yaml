@@ -5,3 +5,5 @@ id_nomics: RED4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RED4.png
 logoKey: currencies/red4.png
 name: RED TOKEN
+platform: ETH
+platform_contract: '0xc744df3419a8c9bd4d6b9852a503eb1c5308a326'

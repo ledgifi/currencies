@@ -5,3 +5,5 @@ id_nomics: BOGBNK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOGBNK.png
 logoKey: currencies/bogbnk.png
 name: BogBonk
+platform: BNB
+platform_contract: '0xb3d199b7ce9c88d97b9834a8b7898d53f379dc0b'

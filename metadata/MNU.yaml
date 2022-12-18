@@ -5,3 +5,5 @@ id_nomics: MNU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MNU.jpg
 logoKey: currencies/mnu.jpg
 name: Nirvana Meta coin
+platform: BNB
+platform_contract: '0x6a63bb297ea1e5428bf9a10c37215616e3583c8b'

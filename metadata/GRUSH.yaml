@@ -3,3 +3,5 @@ fiat: false
 id: GRUSH
 id_nomics: GRUSH
 name: Gold Rush
+platform: BNB
+platform_contract: '0x2cd6f07bf8a32b43fc1d8c06fd910fd59ec7b9b7'

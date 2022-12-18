@@ -6,3 +6,5 @@ id_nomics: EQZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EQZ.png
 logoKey: currencies/eqz.png
 name: Equalizer
+platform: ETH
+platform_contract: '0x1da87b114f35e1dc91f72bf57fc07a768ad40bb0'

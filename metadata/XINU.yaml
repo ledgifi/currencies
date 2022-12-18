@@ -5,3 +5,5 @@ id_nomics: XINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XINU.png
 logoKey: currencies/xinu.png
 name: ChristmasINU
+platform: BNB
+platform_contract: '0x7475be4898cd220800b58f5047323d65065ae919'

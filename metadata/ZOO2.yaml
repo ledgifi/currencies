@@ -5,3 +5,5 @@ id_nomics: ZOO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZOO2.jpg
 logoKey: currencies/zoo2.jpg
 name: ZooToken
+platform: ETH
+platform_contract: '0x1af39b291fcd158ade7b85d83f1044d02ab8d6c2'

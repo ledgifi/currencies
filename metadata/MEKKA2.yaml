@@ -5,3 +5,5 @@ id_nomics: MEKKA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEKKA2.png
 logoKey: currencies/mekka2.png
 name: MEKKA
+platform: FTM
+platform_contract: '0xc31ab4b0F19eDbAD6e2C13d8130B15829BE31bf7'

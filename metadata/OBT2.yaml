@@ -5,3 +5,5 @@ id_nomics: OBT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OBT2.jpg
 logoKey: currencies/obt2.jpg
 name: OBToken
+platform: BNB
+platform_contract: '0x8da6113655309f84127e0837fcf5c389892578b3'

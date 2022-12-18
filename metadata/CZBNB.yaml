@@ -3,3 +3,5 @@ fiat: false
 id: CZBNB
 id_nomics: CZBNB
 name: CZpegs BNB
+platform: BNB
+platform_contract: '0xf43fffb83d7c73275c2feaac15d5670f7d739b50'

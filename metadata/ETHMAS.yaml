@@ -4,3 +4,5 @@ id: ETHMAS
 id_nomics: ETHMAS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHMAS.png
 name: ETHMAS
+platform: ETH
+platform_contract: '0xb638f750e009bdc17986a9be1b3bfc76f495c062'

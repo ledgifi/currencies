@@ -3,3 +3,5 @@ fiat: false
 id: RLUNA
 id_nomics: RLUNA
 name: Reverse Luna
+platform: BNB
+platform_contract: '0x74fa8a3a3b7772810c1ffb906725fae864518d31'

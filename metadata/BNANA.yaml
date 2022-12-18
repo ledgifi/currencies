@@ -6,3 +6,5 @@ id_nomics: BNANA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bnana.jpg
 logoKey: currencies/bnana.jpg
 name: Chimpion
+platform: ETH
+platform_contract: '0x07ef9e82721ac16809d24dafbe1792ce01654db4'

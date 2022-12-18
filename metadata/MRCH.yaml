@@ -6,3 +6,5 @@ id_nomics: MRCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MRCH.png
 logoKey: currencies/mrch.png
 name: MerchDAO
+platform: ETH
+platform_contract: '0xbed4ab0019ff361d83ddeb74883dac8a70f5ea1e'

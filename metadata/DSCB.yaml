@@ -5,3 +5,5 @@ id_nomics: DSCB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DSCB.jpg
 logoKey: currencies/dscb.jpg
 name: Data Shield Coin
+platform: ETH
+platform_contract: '0x42f1d3380cc1526eb182343dc3bdd970ce664322'

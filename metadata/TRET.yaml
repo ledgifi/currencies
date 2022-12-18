@@ -6,3 +6,5 @@ id_nomics: TRET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRET.jpg
 logoKey: currencies/tret.jpg
 name: Tourist Review Token
+platform: ETH
+platform_contract: '0xc6d603a9df53d1542552058c382bf115aace70c7'

@@ -5,3 +5,5 @@ id_nomics: FDC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FDC2.png
 logoKey: currencies/fdc2.png
 name: FiDance
+platform: BNB
+platform_contract: '0x6d1a4650e83708b583c35d5e0952a0b46354ca9b'

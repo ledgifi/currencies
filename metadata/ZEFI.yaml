@@ -6,3 +6,5 @@ id_nomics: ZEFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZEFI.jpg
 logoKey: currencies/zefi.jpg
 name: ZCore Finance
+platform: BNB
+platform_contract: '0x0288d3e353fe2299f11ea2c2e1696b4a648ecc07'

@@ -5,3 +5,5 @@ id_nomics: OXF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OXF.png
 logoKey: currencies/oxf.png
 name: OXF Token
+platform: BNB
+platform_contract: '0x47216F683aab6DF702f2fDA2c20f9605D9B6Db43'

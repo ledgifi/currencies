@@ -6,3 +6,5 @@ id_nomics: LTEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LTEX.jpg
 logoKey: currencies/ltex.jpg
 name: Ltradex
+platform: BNB
+platform_contract: '0xbcb3ac7a3ceb2d0c5e162a03901d6d7bb8602912'

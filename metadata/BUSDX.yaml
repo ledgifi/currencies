@@ -6,3 +6,5 @@ id_nomics: BUSDX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUSDX.png
 logoKey: currencies/busdx.png
 name: BUSDX
+platform: BNB
+platform_contract: '0xf729f4d13a9c9556875d20bacf9ebd0bf891464c'

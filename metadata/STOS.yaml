@@ -6,3 +6,5 @@ id_nomics: STOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STOS.png
 logoKey: currencies/stos.png
 name: Stratos
+platform: ETH
+platform_contract: '0x08c32b0726c5684024ea6e141c50ade9690bbdcc'

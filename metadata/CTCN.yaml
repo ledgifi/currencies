@@ -6,3 +6,5 @@ id_nomics: CTCN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTCN.jpg
 logoKey: currencies/ctcn.jpg
 name: Contracoin
+platform: ETH
+platform_contract: '0xfd6c31bb6f05fc8db64f4b740ab758605c271fd8'

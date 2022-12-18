@@ -6,3 +6,5 @@ id_nomics: XCM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XCM.png
 logoKey: currencies/xcm.png
 name: CoinMetro Token
+platform: ETH
+platform_contract: '0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25'

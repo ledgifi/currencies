@@ -3,3 +3,5 @@ fiat: false
 id: UBO
 id_nomics: UBO
 name: Universal Basic Offset
+platform: MATIC
+platform_contract: '0x2b3ecb0991af0498ece9135bcd04013d7993110c'

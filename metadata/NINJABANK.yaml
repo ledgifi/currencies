@@ -3,3 +3,5 @@ fiat: false
 id: NINJABANK
 id_nomics: NINJABANK
 name: NINJABANK
+platform: ETH
+platform_contract: '0x4ebce9e095cde12533aa6aac22f99a62dc047ce9'

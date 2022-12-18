@@ -3,3 +3,5 @@ fiat: false
 id: 20WETH80BAL
 id_nomics: 20WETH80BAL
 name: 20WETH-80BAL
+platform: MATIC
+platform_contract: '0x3d468ab2329f296e1b9d8476bb54dd77d8c2320f'

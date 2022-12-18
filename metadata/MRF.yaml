@@ -6,3 +6,5 @@ id_nomics: MRF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MRF.jpg
 logoKey: currencies/mrf.jpg
 name: Moonradar.finance
+platform: BNB
+platform_contract: '0xb41d606ffe40283cfda1f08266be9a4d29ef74df'

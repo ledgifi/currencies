@@ -5,3 +5,5 @@ id_nomics: SHLS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHLS.jpg
 logoKey: currencies/shls.jpg
 name: Shellcoin
+platform: ETH
+platform_contract: '0xf17cd81b845f126cf2afa2a564c7b94facb3c4a9'

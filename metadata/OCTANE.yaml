@@ -5,3 +5,5 @@ id_nomics: OCTANE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCTANE.jpg
 logoKey: currencies/octane.jpg
 name: Octane Finance
+platform: BNB
+platform_contract: '0x5416ab2b4b5a40f740b67a83dc5939591b5c08be'

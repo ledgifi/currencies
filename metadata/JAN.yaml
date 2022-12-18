@@ -6,3 +6,5 @@ id_nomics: JAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JAN.png
 logoKey: currencies/jan.png
 name: CoinJanitor
+platform: ETH
+platform_contract: '0xaf80e6612d9c2e883122e7f2292ee6c34176ad4f'

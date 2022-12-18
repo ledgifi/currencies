@@ -3,3 +3,5 @@ fiat: false
 id: TRFX
 id_nomics: TRFX
 name: TretaFox
+platform: BNB
+platform_contract: '0x2e3e406ac259bd628d0fb54a427b524831efe9fb'

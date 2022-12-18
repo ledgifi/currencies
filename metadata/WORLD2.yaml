@@ -5,3 +5,5 @@ id_nomics: WORLD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WORLD2.jpeg
 logoKey: currencies/world2.jpeg
 name: WORLD
+platform: BNB
+platform_contract: '0x31ddab3fe67ab0cad739e5465f6d31562705cf6a'

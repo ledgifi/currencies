@@ -5,3 +5,5 @@ id_nomics: FLIP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLIP3.jpg
 logoKey: currencies/flip3.jpg
 name: FlipStar
+platform: BNB
+platform_contract: '0x4b0b206d43d8bd2c52147f46436c62fb4c214388'

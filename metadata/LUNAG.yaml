@@ -5,3 +5,5 @@ id_nomics: LUNAG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUNAG.png
 logoKey: currencies/lunag.png
 name: Luna Gold
+platform: BNB
+platform_contract: '0x405b48f450a24ff44501e966352ea728b10a1430'

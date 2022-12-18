@@ -3,3 +3,5 @@ fiat: false
 id: TONMOON
 id_nomics: TONMOON
 name: TonMoon
+platform: ETH
+platform_contract: '0xf3cf29afd460f64b7aca367597651114325a119e'

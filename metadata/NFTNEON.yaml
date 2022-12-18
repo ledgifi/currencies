@@ -5,3 +5,5 @@ id_nomics: NFTNEON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTNEON.jpeg
 logoKey: currencies/nftneon.jpeg
 name: NFTNEON
+platform: BNB
+platform_contract: '0x579cb0fc4e026056785c4f7f1c802e077d629c16'

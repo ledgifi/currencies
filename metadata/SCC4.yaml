@@ -5,3 +5,5 @@ id_nomics: SCC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCC4.jpg
 logoKey: currencies/scc4.jpg
 name: Scary Chain Capital
+platform: FTM
+platform_contract: '0xb63029e37fc5186cb58c3b8c193fd37b1e1e1d43'

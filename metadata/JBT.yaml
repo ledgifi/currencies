@@ -5,3 +5,5 @@ id_nomics: JBT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JBT.jpg
 logoKey: currencies/jbt.jpg
 name: Jukebucks
+platform: ETH
+platform_contract: '0xaa3a522d9e25070d30961baeae0112498f90e295'

@@ -6,3 +6,5 @@ id_nomics: NNB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/nbb.jpg
 logoKey: currencies/nnb.jpg
 name: NNB token
+platform: ETH
+platform_contract: '0xb66a2131a6b840dd020151f80723caed603efb51'

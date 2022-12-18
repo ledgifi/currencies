@@ -5,3 +5,5 @@ id_nomics: BLST2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLST2.png
 logoKey: currencies/blst2.png
 name: Ballast.Community
+platform: ETH
+platform_contract: '0xE7B40046a1f6f5561a6Edf329F61874f3fDcd3b1'

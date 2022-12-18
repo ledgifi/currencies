@@ -5,3 +5,5 @@ id_nomics: FLEXUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLEXUSD.jpg
 logoKey: currencies/flexusd.jpg
 name: flexUSD
+platform: ETH
+platform_contract: '0xa774ffb4af6b0a91331c084e1aebae6ad535e6f3'

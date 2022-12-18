@@ -3,3 +3,5 @@ fiat: false
 id: DOGFOODCOIN
 id_nomics: DOGFOODCOIN
 name: Dogfoodcoin
+platform: HT
+platform_contract: '0x8f3ac7b605c61ce834990f749a41a037c5ff052f'

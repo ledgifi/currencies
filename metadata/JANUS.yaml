@@ -3,3 +3,5 @@ fiat: false
 id: JANUS
 id_nomics: JANUS
 name: JanusSpans
+platform: BNB
+platform_contract: '0x0b41e8c628452b8ba79040cd9b280e17c993d97b'

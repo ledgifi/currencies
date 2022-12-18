@@ -3,3 +3,5 @@ fiat: false
 id: TBART
 id_nomics: TBART
 name: Wrapped BarterTrade
+platform: BNB
+platform_contract: '0x1bdf1ec9d5e2f6e0e6e95419bca0f65c8e6c26b3'

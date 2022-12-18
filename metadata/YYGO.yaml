@@ -3,3 +3,5 @@ fiat: false
 id: YYGO
 id_nomics: YYGO
 name: Exotic purchase
+platform: BNB
+platform_contract: '0x24ceaf3fb3917a9c2aeb5844a74ea50d97ee2be6'

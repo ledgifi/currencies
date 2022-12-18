@@ -5,3 +5,5 @@ id_nomics: WATER5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WATER5.jpg
 logoKey: currencies/water5.jpg
 name: OCEANA Waters
+platform: BNB
+platform_contract: '0xac129dc5caecde65a2a318050f7b778613f728f0'

@@ -5,3 +5,5 @@ id_nomics: ETHA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHA.jpg
 logoKey: currencies/etha.jpg
 name: ETHA Lend
+platform: ETH
+platform_contract: '0x59e9261255644c411afdd00bd89162d09d862e38'

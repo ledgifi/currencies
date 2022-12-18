@@ -5,3 +5,5 @@ id_nomics: EPS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EPS2.png
 logoKey: currencies/eps2.png
 name: Epanus
+platform: ETH
+platform_contract: '0x50ec35d1e18d439f02fa895746fc3e1bef311780'

@@ -5,3 +5,5 @@ id_nomics: DOIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOIS.png
 logoKey: currencies/dois.png
 name: Dois Coin
+platform: BNB
+platform_contract: '0x2ffcc491aee13062778f36b4b8437836923f6516'

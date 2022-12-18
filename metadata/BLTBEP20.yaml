@@ -5,3 +5,5 @@ id_nomics: BLTBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLTBEP20.jpg
 logoKey: currencies/bltbep20.jpg
 name: Blocto Token (BEP-20)
+platform: BNB
+platform_contract: '0x02bdf640fba368e7ba5c6429ccaf251512273865'

@@ -5,3 +5,5 @@ id_nomics: GFRUIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GFRUIT.png
 logoKey: currencies/gfruit.png
 name: Green Fruit
+platform: BNB
+platform_contract: '0x86d766b5b106a11731e5f816b31aaf52ba598fc6'

@@ -6,3 +6,5 @@ id_nomics: UFLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UFLOKI.jpg
 logoKey: currencies/ufloki.jpg
 name: Universal Floki Coin
+platform: BNB
+platform_contract: '0xe6e2454bd6d85e52309bfb6a3e3521e83c53da8a'

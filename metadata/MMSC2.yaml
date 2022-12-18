@@ -5,3 +5,5 @@ id_nomics: MMSC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MMSC2.jpeg
 logoKey: currencies/mmsc2.jpeg
 name: MetaMusic
+platform: BNB
+platform_contract: '0x723f81e044f12fe1311a340d809e251ff1579564'

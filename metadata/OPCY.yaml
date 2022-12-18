@@ -3,3 +3,5 @@ fiat: false
 id: OPCY
 id_nomics: OPCY
 name: OPCY
+platform: BNB
+platform_contract: '0x9b59ddd09a6306087ad9d51f53226122004b598f'

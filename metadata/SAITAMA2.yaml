@@ -5,3 +5,5 @@ id_nomics: SAITAMA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAITAMA2.jpeg
 logoKey: currencies/saitama2.jpeg
 name: PurpleSaitamaInu
+platform: BNB
+platform_contract: '0xb69628d95ed96df8809127b80c6c50b4923d55f2'

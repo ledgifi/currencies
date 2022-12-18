@@ -6,3 +6,5 @@ id_nomics: RMPL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RMPL.jpeg
 logoKey: currencies/rmpl.jpeg
 name: RMPL
+platform: ETH
+platform_contract: '0xe17f017475a709de58e976081eb916081ff4c9d5'

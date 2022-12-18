@@ -3,3 +3,5 @@ fiat: false
 id: THING
 id_nomics: THING
 name: THING
+platform: BNB
+platform_contract: '0xd51fd577f89d54c01506721c7fb34acd26266998'

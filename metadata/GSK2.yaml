@@ -5,3 +5,5 @@ id_nomics: GSK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GSK2.jpg
 logoKey: currencies/gsk2.jpg
 name: SNAKE
+platform: BNB
+platform_contract: '0x870d7f829f060ffcf3fcfaa29b8984e62412ddee'

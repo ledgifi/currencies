@@ -5,3 +5,5 @@ id_nomics: RGE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RGE2.jpg
 logoKey: currencies/rge2.jpg
 name: RagnarokProtocol
+platform: BNB
+platform_contract: '0xF0140F515FDB68e9f0c40672Eb56e8A14F336Ea7'

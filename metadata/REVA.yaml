@@ -5,3 +5,5 @@ id_nomics: REVA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REVA.jpg
 logoKey: currencies/reva.jpg
 name: Revault
+platform: BNB
+platform_contract: '0x4fdd92bd67acf0676bfc45ab7168b3996f7b4a3b'

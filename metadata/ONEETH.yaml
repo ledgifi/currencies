@@ -5,3 +5,5 @@ id_nomics: ONEETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ONEETH.jpg
 logoKey: currencies/oneeth.jpg
 name: oneETH
+platform: ETH
+platform_contract: '0xec0d77a58528a218cbf41fa6e1585c8d7a085868'

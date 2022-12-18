@@ -5,3 +5,5 @@ id_nomics: AMO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMO2.jpg
 logoKey: currencies/amo2.jpg
 name: Amodule Network
+platform: ETH
+platform_contract: '0x9ee904e7b92c872ac5d3eff3e6c5ec4dbe3c26b4'

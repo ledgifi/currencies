@@ -6,3 +6,5 @@ id_nomics: WDR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WDR.jpg
 logoKey: currencies/wdr.jpg
 name: Wider Coin
+platform: ETH
+platform_contract: '0x78b6174cc8a3848251704b8a5ced7f86e5d8ddf1'

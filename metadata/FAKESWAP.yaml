@@ -3,3 +3,5 @@ fiat: false
 id: FAKESWAP
 id_nomics: FAKESWAP
 name: fake_swap
+platform: BNB
+platform_contract: '0xadd5d23dd2296b758fbf87f84053acae3e861c58'

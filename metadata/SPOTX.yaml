@@ -3,3 +3,5 @@ fiat: false
 id: SPOTX
 id_nomics: SPOTX
 name: SpotXToken
+platform: BNB
+platform_contract: '0x689875f68a50333c0ce6d00bb5c27fca4bb39dda'

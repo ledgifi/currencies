@@ -5,3 +5,5 @@ id_nomics: DVS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DVS.png
 logoKey: currencies/dvs.png
 name: Davies
+platform: ETH
+platform_contract: '0x18562c02456962d1537cd3e4c70e88c48a466418'

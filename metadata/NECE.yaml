@@ -3,3 +3,5 @@ fiat: false
 id: NECE
 id_nomics: NECE
 name: nece
+platform: BNB
+platform_contract: '0xd3f0ad76a701bbc3e628694b18b38326506f3f61'

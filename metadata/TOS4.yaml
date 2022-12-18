@@ -5,3 +5,5 @@ id_nomics: TOS4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOS4.png
 logoKey: currencies/tos4.png
 name: Tosa Inu
+platform: ETH
+platform_contract: '0x34748fedad669c788aabe4fb325a4587941f7b48'

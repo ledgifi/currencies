@@ -5,3 +5,5 @@ id_nomics: INNBC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INNBC.png
 logoKey: currencies/innbc.png
 name: Innovative Bioresearch
+platform: ETH
+platform_contract: '0xb67718b98d52318240c52e71a898335da4a28c42'

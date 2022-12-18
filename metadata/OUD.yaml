@@ -6,3 +6,5 @@ id_nomics: OUD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OUD.jpg
 logoKey: currencies/oud.jpg
 name: OUD
+platform: BNB
+platform_contract: '0xbae6925313a8063ffde1e09acc76d44a5e637119'

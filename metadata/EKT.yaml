@@ -6,3 +6,5 @@ id_nomics: EKT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ekt.png
 logoKey: currencies/ekt.png
 name: EDUCare
+platform: ETH
+platform_contract: '0xbab165df9455aa0f2aed1f2565520b91ddadb4c8'

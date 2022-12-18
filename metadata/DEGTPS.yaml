@@ -3,3 +3,5 @@ fiat: false
 id: DEGTPS
 id_nomics: DEGTPS
 name: deBridge GLOBAL TRANSACTION PAYMENT SOLUTION
+platform: HT
+platform_contract: '0x0ebe25836ad4559d2435cf631e9bcf120990ed07'

@@ -6,3 +6,5 @@ id_nomics: POPCAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POPCAT.png
 logoKey: currencies/popcat.png
 name: Popcat
+platform: BNB
+platform_contract: '0xb4d9693d0a65073e6e1fb83f875d77fc04210b63'

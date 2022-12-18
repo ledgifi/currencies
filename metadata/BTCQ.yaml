@@ -3,3 +3,5 @@ fiat: false
 id: BTCQ
 id_nomics: BTCQ
 name: BTCQ
+platform: HT
+platform_contract: '0x446502f49d54c9c084d8795dd2b610f7782aa962'

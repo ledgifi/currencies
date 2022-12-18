@@ -3,3 +3,5 @@ fiat: false
 id: SFS
 id_nomics: SFS
 name: SafeSea
+platform: BNB
+platform_contract: '0x3fd6f737a375ae22f522770f563f7ccb48124c42'

@@ -3,3 +3,5 @@ fiat: false
 id: USDTEBC
 id_nomics: USDTEBC
 name: USDTEBC
+platform: BNB
+platform_contract: '0xaa139d3c81c374f58824e007f94f6134223976eb'

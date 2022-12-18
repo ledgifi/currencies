@@ -6,3 +6,5 @@ id_nomics: CRB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/crb.svg
 logoKey: currencies/crb.svg
 name: Creditbit
+platform: ETH
+platform_contract: '0xaef38fbfbf932d1aef3b808bc8fbd8cd8e1f8bc5'

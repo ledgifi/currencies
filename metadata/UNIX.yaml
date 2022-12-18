@@ -5,3 +5,5 @@ id_nomics: UNIX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNIX.jpg
 logoKey: currencies/unix.jpg
 name: Uniswap X
+platform: ETH
+platform_contract: '0x5728e59002939074a10d0819732dcfc0bf6b5610'

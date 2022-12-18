@@ -5,3 +5,5 @@ id_nomics: UCX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UCX2.jpg
 logoKey: currencies/ucx2.jpg
 name: UCX FOUNDATION
+platform: ETH
+platform_contract: '0xe7cd2c56d3f01f9f8ae542ba5b2f00cf2cf994b1'

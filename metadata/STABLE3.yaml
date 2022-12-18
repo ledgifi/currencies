@@ -5,3 +5,5 @@ id_nomics: STABLE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STABLE3.jpg
 logoKey: currencies/stable3.jpg
 name: Stable Inu
+platform: BNB
+platform_contract: '0x74f3c9ac92494DB942FFDBCfbc42919695EAc213'

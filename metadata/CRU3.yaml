@@ -5,3 +5,5 @@ id_nomics: CRU3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRU3.jpg
 logoKey: currencies/cru3.jpg
 name: Crust Network
+platform: ETH
+platform_contract: '0x32a7c02e79c4ea1008dd6564b35f131428673c41'

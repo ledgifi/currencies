@@ -6,3 +6,5 @@ id_nomics: 4AC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/4AC.png
 logoKey: currencies/4ac.png
 name: 4A Coin
+platform: ETH
+platform_contract: '0x6c94f6a21ef54b99c5985642814877210531d99b'

@@ -5,3 +5,5 @@ id_nomics: GOLDENDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOLDENDOGE.png
 logoKey: currencies/goldendoge.png
 name: GoldenDoge
+platform: BNB
+platform_contract: '0x4cb1f44690D9416f7D4987995271Ee64FC9a3852'

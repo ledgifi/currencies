@@ -6,3 +6,5 @@ id_nomics: FLOAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOAT.jpg
 logoKey: currencies/float.jpg
 name: 'Float Protocol: Float'
+platform: ETH
+platform_contract: '0xb05097849bca421a3f51b249ba6cca4af4b97cb9'

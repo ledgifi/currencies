@@ -5,3 +5,5 @@ id_nomics: TEA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TEA2.jpg
 logoKey: currencies/tea2.jpg
 name: TEA
+platform: ETH
+platform_contract: '0x504fa07ad26bf82455bc67653e8aadb19d25fee3'

@@ -3,3 +3,5 @@ fiat: false
 id: CCTD
 id_nomics: CCTD
 name: crocotrader
+platform: BNB
+platform_contract: '0xf5359086eef96cbf0d081c1f454d237edd41e704'

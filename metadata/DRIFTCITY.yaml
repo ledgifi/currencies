@@ -3,3 +3,5 @@ fiat: false
 id: DRIFTCITY
 id_nomics: DRIFTCITY
 name: DriftCoin
+platform: ETH
+platform_contract: '0xafe10ddc55f243f5223671efec02826896762e2d'

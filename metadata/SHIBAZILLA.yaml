@@ -6,3 +6,5 @@ id_nomics: SHIBAZILLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBAZILLA.jpg
 logoKey: currencies/shibazilla.jpg
 name: ShibaZilla
+platform: BNB
+platform_contract: '0x68810a6f5bb0491cb9ccf8c52735a1acf5f28009'

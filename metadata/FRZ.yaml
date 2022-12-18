@@ -3,3 +3,5 @@ fiat: false
 id: FRZ
 id_nomics: FRZ
 name: TrueFreeze
+platform: ETH
+platform_contract: '0x55b1e2d8b13e7acad03353fad58fc3fa065c5822'

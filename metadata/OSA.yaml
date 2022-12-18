@@ -6,3 +6,5 @@ id_nomics: OSA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OSA.png
 logoKey: currencies/osa.png
 name: Optimal Shelf Availability Token
+platform: ETH
+platform_contract: '0xc6abf3c09341741ac6041b0b08195701bdfd460c'

@@ -3,3 +3,5 @@ fiat: false
 id: SOKI
 id_nomics: SOKI
 name: $SOKI
+platform: ETH
+platform_contract: '0x527f955920d23965cd28e315419eee51c701f248'

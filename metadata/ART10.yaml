@@ -5,3 +5,5 @@ id_nomics: ART10
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ART10.jpg
 logoKey: currencies/art10.jpg
 name: Arttoken
+platform: BNB
+platform_contract: '0xdc007945ce4c2073e89871b4583abba3c19b6a08'

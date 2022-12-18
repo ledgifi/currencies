@@ -5,3 +5,5 @@ id_nomics: GASCITY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GASCITY.jpg
 logoKey: currencies/gascity.jpg
 name: Gas City Coin
+platform: BNB
+platform_contract: '0x5c600c5064ff70ac11be666a28be27417720bf9f'

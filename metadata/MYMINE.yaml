@@ -5,3 +5,5 @@ id_nomics: MYMINE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MYMINE.png
 logoKey: currencies/mymine.png
 name: MyMine DAO
+platform: FTM
+platform_contract: '0x3d3121d2aedff5e11e390027331cb544bc3d2c59'

@@ -3,3 +3,5 @@ fiat: false
 id: XROSS
 id_nomics: XROSS
 name: XrossChainToken
+platform: BNB
+platform_contract: '0x5db59f9ce5d832013faf387f609875311e433abd'

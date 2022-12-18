@@ -6,3 +6,5 @@ id_nomics: JET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/jet.jpg
 logoKey: currencies/jet.jpg
 name: Jetcoin
+platform: ETH
+platform_contract: '0x8727c112c712c4a03371ac87a74dd6ab104af768'

@@ -5,3 +5,5 @@ id_nomics: RENBTCBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RENBTCBEP20.jpg
 logoKey: currencies/renbtcbep20.jpg
 name: renBTC (BEP-20)
+platform: BNB
+platform_contract: '0xfce146bf3146100cfe5db4129cf6c82b0ef4ad8c'

@@ -5,3 +5,5 @@ id_nomics: BSHIB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSHIB2.jpg
 logoKey: currencies/bshib2.jpg
 name: BuffedShiba
+platform: BNB
+platform_contract: '0xd8f61cdeca41def1a7923f308a042f678109f54b'

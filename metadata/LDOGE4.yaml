@@ -5,3 +5,5 @@ id_nomics: LDOGE4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LDOGE4.jpg
 logoKey: currencies/ldoge4.jpg
 name: LOVE DOGE
+platform: BNB
+platform_contract: '0x68d0954eed135ffb439bf0b39859096d53f3d3e0'

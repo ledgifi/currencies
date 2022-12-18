@@ -3,3 +3,5 @@ fiat: false
 id: FITN
 id_nomics: FITN
 name: FITN
+platform: BNB
+platform_contract: '0x3bc1a74a483d721e7b41981dd445298024af620c'

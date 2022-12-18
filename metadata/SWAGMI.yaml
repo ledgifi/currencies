@@ -5,3 +5,5 @@ id_nomics: SWAGMI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWAGMI.jpg
 logoKey: currencies/swagmi.jpg
 name: Staked WAGMI
+platform: HARMONY
+platform_contract: '0xf38593388079f7f5130d605e38abf6090d981ec2'

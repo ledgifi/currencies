@@ -5,3 +5,5 @@ id_nomics: ALE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALE.png
 logoKey: currencies/ale.png
 name: ALE Сoin
+platform: ETH
+platform_contract: '0x7d2701fb8c73e279e818db92544e471d5df3afdf'

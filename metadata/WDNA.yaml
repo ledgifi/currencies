@@ -5,3 +5,5 @@ id_nomics: WDNA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WDNA.jpg
 logoKey: currencies/wdna.jpg
 name: WDNA
+platform: ETH
+platform_contract: '0xfcf1d048fad53ff6afb801659cf8b7fa2468d170'

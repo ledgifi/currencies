@@ -5,3 +5,5 @@ id_nomics: BTCSHIBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCSHIBA.png
 logoKey: currencies/btcshiba.png
 name: BTC SHIBA INU
+platform: BNB
+platform_contract: '0x54ac1b417b17a5ee7435992422db4fab0805fbfd'

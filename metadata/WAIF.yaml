@@ -6,3 +6,5 @@ id_nomics: WAIF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAIF.jpg
 logoKey: currencies/waif.jpg
 name: Waifu Token
+platform: ETH
+platform_contract: '0xb2279b6769cfba691416f00609b16244c0cf4b20'

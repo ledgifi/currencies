@@ -6,3 +6,5 @@ id_nomics: FEGN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FEGN.jpg
 logoKey: currencies/fegn.jpg
 name: Fegnomics
+platform: BNB
+platform_contract: '0x7f3058b872555ecb3a2723d4fcf2a56a0b8488ca'

@@ -3,3 +3,5 @@ fiat: false
 id: MLN2
 id_nomics: MLN2
 name: MLN Network
+platform: ETH
+platform_contract: '0x7c72d52d5653e4b2aa1bcd4a4bdea29ed7b868c2'

@@ -3,3 +3,5 @@ fiat: false
 id: QUSDBEP20
 id_nomics: QUSDBEP20
 name: QUSD Stablecoin (BEP-20)
+platform: BNB
+platform_contract: '0xb8c540d00dd0bf76ea12e4b4b95efc90804f924e'

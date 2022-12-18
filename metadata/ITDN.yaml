@@ -6,3 +6,5 @@ id_nomics: ITDN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ITDN.png
 logoKey: currencies/itdn.png
 name: TRIPTO
+platform: BNB
+platform_contract: '0xB73BB86f2055a4e86fF06D46196621Bb5eB7104e'

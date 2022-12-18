@@ -5,3 +5,5 @@ id_nomics: CHARIX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHARIX.jpg
 logoKey: currencies/charix.jpg
 name: Charix Token
+platform: BNB
+platform_contract: '0x4eabb20064586dea07aaaf84d4ba35037854bd44'

@@ -5,3 +5,5 @@ id_nomics: BB3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BB3.jpg
 logoKey: currencies/bb3.jpg
 name: Baby Bali
+platform: BNB
+platform_contract: '0x16f9cc3c6f8d8006cfc0ee693cef9d76b0d44c36'

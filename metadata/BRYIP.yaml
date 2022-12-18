@@ -3,3 +3,5 @@ fiat: false
 id: BRYIP
 id_nomics: BRYIP
 name: RYI Platinum (BEP-20)
+platform: BNB
+platform_contract: '0x901d17006a9e161ba226735de60cfd0cd7a4c817'

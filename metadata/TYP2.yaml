@@ -5,3 +5,5 @@ id_nomics: TYP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TYP2.png
 logoKey: currencies/typ2.png
 name: The Youth Pay
+platform: ETH
+platform_contract: '0xb46eda6219ba121ce9280388e7afb7dc84be3ff2'

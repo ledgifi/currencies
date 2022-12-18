@@ -5,3 +5,5 @@ id_nomics: PLAYMARKET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLAYMARKET.png
 logoKey: currencies/playmarket.png
 name: DAO PlayMarket 2.0
+platform: ETH
+platform_contract: '0xc1322d8ae3b0e2e437e0ae36388d0cfd2c02f1c9'

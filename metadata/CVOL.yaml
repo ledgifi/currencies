@@ -3,3 +3,5 @@ fiat: false
 id: CVOL
 id_nomics: CVOL
 name: Crypto Volatility Token
+platform: MATIC
+platform_contract: '0x9cd552551ec130b50c1421649c8d11e76ac821e1'

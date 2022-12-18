@@ -5,3 +5,5 @@ id_nomics: SPONB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPONB.jpg
 logoKey: currencies/sponb.jpg
 name: SPONB
+platform: ETH
+platform_contract: '0x3cdc8d06dbbd72dc11c2fa9896e5bd90cfac0570'

@@ -3,3 +3,5 @@ fiat: false
 id: IN2
 id_nomics: IN2
 name: IN Token
+platform: ETH
+platform_contract: '0xabdf7ef67f9f2a96c471810ea66262f73e2bd664'

@@ -5,3 +5,5 @@ id_nomics: MIXIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIXIN.jpg
 logoKey: currencies/mixin.jpg
 name: Mixin
+platform: ETH
+platform_contract: '0xa974c709cfb4566686553a20790685a47aceaa33'

@@ -3,3 +3,5 @@ fiat: false
 id: MMUSD
 id_nomics: MMUSD
 name: MMUSD
+platform: CRO
+platform_contract: '0x73193f475473715c28cd999ac2affc95553f78d5'

@@ -5,3 +5,5 @@ id_nomics: MBBASED
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MBBASED.png
 logoKey: currencies/mbbased.png
 name: Moonbase
+platform: ETH
+platform_contract: '0x26cF82e4aE43D31eA51e72B663d26e26a75AF729'

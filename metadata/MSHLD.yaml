@@ -5,3 +5,5 @@ id_nomics: MSHLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSHLD.jpg
 logoKey: currencies/mshld.jpg
 name: Moonshield Finance
+platform: BNB
+platform_contract: '0xf565aaf0b8eb813a1c8c956d2c59f1ce27fd2366'

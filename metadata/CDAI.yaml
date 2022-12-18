@@ -5,3 +5,5 @@ id_nomics: CDAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CDAI.png
 logoKey: currencies/cdai.png
 name: Compound Dai
+platform: ETH
+platform_contract: '0x5d3a536e4d6dbd6114cc1ead35777bab948e3643'

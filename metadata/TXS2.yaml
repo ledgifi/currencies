@@ -5,3 +5,5 @@ id_nomics: TXS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TXS2.png
 logoKey: currencies/txs2.png
 name: Texas Protocol
+platform: BNB
+platform_contract: '0xCC14eB2829491c8f6840Df545d5CA2A7504DDc58'

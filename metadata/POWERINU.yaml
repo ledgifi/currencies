@@ -6,3 +6,5 @@ id_nomics: POWERINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POWERINU.jpg
 logoKey: currencies/powerinu.jpg
 name: PowerInu
+platform: BNB
+platform_contract: '0xec743655ddb648c4362dfa71cdb1877783ed1cca'

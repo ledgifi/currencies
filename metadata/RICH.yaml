@@ -5,3 +5,5 @@ id_nomics: RICH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RICH.png
 logoKey: currencies/rich.png
 name: Ultra Rich Group
+platform: ETH
+platform_contract: '0x198482924b5ed2c8dd5a0c824fcd618c6b49e6e8'

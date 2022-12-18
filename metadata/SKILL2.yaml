@@ -5,3 +5,5 @@ id_nomics: SKILL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SKILL2.jpg
 logoKey: currencies/skill2.jpg
 name: CryptoBlades
+platform: BNB
+platform_contract: '0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab'

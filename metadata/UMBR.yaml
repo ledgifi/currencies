@@ -6,3 +6,5 @@ id_nomics: UMBR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UMBR.jpg
 logoKey: currencies/umbr.jpg
 name: Umbria Network
+platform: ETH
+platform_contract: '0xa4bbe66f151b22b167127c770016b15ff97dd35c'

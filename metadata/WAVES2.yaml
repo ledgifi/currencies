@@ -5,3 +5,5 @@ id_nomics: WAVES2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAVES2.png
 logoKey: currencies/waves2.png
 name: Waves (ERC-20)
+platform: ETH
+platform_contract: '0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a'

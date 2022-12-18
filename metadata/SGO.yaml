@@ -6,3 +6,5 @@ id_nomics: SGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SGO.jpg
 logoKey: currencies/sgo.jpg
 name: Sportemon Go
+platform: BNB
+platform_contract: '0xe5d46cc0fd592804b36f9dc6d2ed7d4d149ebd6f'

@@ -5,3 +5,5 @@ id_nomics: YFC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFC3.jpg
 logoKey: currencies/yfc3.jpg
 name: YFC
+platform: ETH
+platform_contract: '0xc6ff7eac464c99ff0e1ad8bcfd0ab0cebe08c9a3'

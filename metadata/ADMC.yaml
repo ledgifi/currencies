@@ -6,3 +6,5 @@ id_nomics: ADMC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADMC.jpg
 logoKey: currencies/admc.jpg
 name: Adamant Coin
+platform: BNB
+platform_contract: '0xa55ef2fb2b7b6a60371fd3def9b806e74a48be69'

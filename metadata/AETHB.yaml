@@ -6,3 +6,5 @@ id_nomics: AETHB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AETHB.jpg
 logoKey: currencies/aethb.jpg
 name: Ankr Reward-Earning Staked ETH
+platform: ETH
+platform_contract: '0xd01ef7c0a5d8c432fc2d1a85c66cf2327362e5c6'

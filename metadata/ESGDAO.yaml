@@ -3,3 +3,5 @@ fiat: false
 id: ESGDAO
 id_nomics: ESGDAO
 name: ESGDao
+platform: BNB
+platform_contract: '0x7191b753b029790e6ed56bd20d881071df5da284'

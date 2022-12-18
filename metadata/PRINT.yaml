@@ -5,3 +5,5 @@ id_nomics: PRINT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRINT.png
 logoKey: currencies/print.png
 name: Printer.Finance
+platform: ETH
+platform_contract: '0x54b8c98268da0055971652a95f2bfd3a9349a38c'

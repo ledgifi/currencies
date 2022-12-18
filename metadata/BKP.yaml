@@ -5,3 +5,5 @@ id_nomics: BKP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BKP.png
 logoKey: currencies/bkp.png
 name: Burn King Protocol
+platform: BNB
+platform_contract: '0x4E09B6BE20928b7AE4f7E29525A8838bBCaD6ED7'

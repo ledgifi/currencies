@@ -3,3 +3,5 @@ fiat: false
 id: INCA
 id_nomics: INCA
 name: INCA
+platform: ETH
+platform_contract: '0x4fbfc8fd1374e762d266540b96ff46e9236613e1'

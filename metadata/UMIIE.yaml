@@ -3,3 +3,5 @@ fiat: false
 id: UMIIE
 id_nomics: UMIIE
 name: UMIIE COIN
+platform: ETH
+platform_contract: '0x12b32f10a499bf40db334efe04226cca00bf2d9b'

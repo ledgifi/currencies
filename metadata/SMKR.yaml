@@ -5,3 +5,5 @@ id_nomics: SMKR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMKR.png
 logoKey: currencies/smkr.png
 name: sMKR
+platform: ETH
+platform_contract: '0xe88a4976cb7d8898d39e3f317421d625403ecb8c'

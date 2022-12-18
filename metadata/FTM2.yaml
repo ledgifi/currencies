@@ -5,3 +5,5 @@ id_nomics: FTM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FTM2.jpg
 logoKey: currencies/ftm2.jpg
 name: Fitmin
+platform: BNB
+platform_contract: '0xa4b6e76bba7413b9b4bd83f4e3aa63cc181d869f'

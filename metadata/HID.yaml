@@ -5,3 +5,5 @@ id_nomics: HID
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HID.jpg
 logoKey: currencies/hid.jpg
 name: Hypersign Identity Token
+platform: ETH
+platform_contract: '0xb14ebf566511b9e6002bb286016ab2497b9b9c9d'

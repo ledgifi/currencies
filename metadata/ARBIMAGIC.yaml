@@ -3,3 +3,5 @@ fiat: false
 id: ARBIMAGIC
 id_nomics: ARBIMAGIC
 name: ArbiMagic
+platform: ARBETH
+platform_contract: '0x69d2b6debc2a67eda3741bbfe694334b8f469500'

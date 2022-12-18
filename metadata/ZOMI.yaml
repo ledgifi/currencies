@@ -6,3 +6,5 @@ id_nomics: ZOMI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZOMI.jpg
 logoKey: currencies/zomi.jpg
 name: ZOMI
+platform: BNB
+platform_contract: '0x5194433e6fb169ae74f06215d1fcfb642626cfee'

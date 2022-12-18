@@ -3,3 +3,5 @@ fiat: false
 id: BNBP
 id_nomics: BNBP
 name: BNB Printer
+platform: BNB
+platform_contract: '0x5db8e98e62676ba142d877e51ee8fd595f556c2d'

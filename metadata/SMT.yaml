@@ -6,3 +6,5 @@ id_nomics: SMT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/smt.png
 logoKey: currencies/smt.png
 name: SmartMesh
+platform: ETH
+platform_contract: '0x21f15966e07a10554c364b988e91dab01d32794a'

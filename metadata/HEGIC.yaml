@@ -8,3 +8,5 @@ id_nomics: HEGIC
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201125/2b1ab7a2-54f9-4268-93b8-69851c81694f.png
 logoKey: currencies/hegic.png
 name: Hegic
+platform: ETH
+platform_contract: '0x584bc13c7d411c00c01a62e8019472de68768430'

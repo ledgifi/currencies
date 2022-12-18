@@ -5,3 +5,5 @@ id_nomics: ZEUS6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZEUS6.png
 logoKey: currencies/zeus6.png
 name: Zeus Finance
+platform: AVAX
+platform_contract: '0x8c3633ee619a42d3755327c2524e4d108838c47f'

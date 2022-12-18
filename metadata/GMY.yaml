@@ -6,3 +6,5 @@ id_nomics: GMY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMY.jpg
 logoKey: currencies/gmy.jpg
 name: Gameology
+platform: BNB
+platform_contract: '0x4b71bd5e1db6cce4179e175a3a2033e4f17b7432'

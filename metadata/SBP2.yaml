@@ -5,3 +5,5 @@ id_nomics: SBP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBP2.jpg
 logoKey: currencies/sbp2.jpg
 name: ShibaPad
+platform: BNB
+platform_contract: '0x75e457c1ad98bcc78ae676e9a87a324807475b6b'

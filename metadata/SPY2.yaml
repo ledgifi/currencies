@@ -5,3 +5,5 @@ id_nomics: SPY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPY2.jpeg
 logoKey: currencies/spy2.jpeg
 name: Satopay Yield Token
+platform: ETH
+platform_contract: '0xe4883bcb919386bb5f48ef59b7c31c1d93a51a57'

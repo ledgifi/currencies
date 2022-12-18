@@ -5,3 +5,5 @@ id_nomics: DD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DD.jpg
 logoKey: currencies/dd.jpg
 name: Daredevil
+platform: BNB
+platform_contract: '0x5d1f9499a00cd88bd17b615e6c6ac2470237a913'

@@ -6,3 +6,5 @@ id_nomics: NFTQR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTQR.jpg
 logoKey: currencies/nftqr.jpg
 name: NFT-QR
+platform: BNB
+platform_contract: '0x432ef8b023aaba3c42ca540d32351c5b1a869cf7'

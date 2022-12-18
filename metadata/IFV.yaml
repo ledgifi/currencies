@@ -5,3 +5,5 @@ id_nomics: IFV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IFV.png
 logoKey: currencies/ifv.png
 name: INFLIV
+platform: ETH
+platform_contract: '0x3656bd0f3f07623bb7f429b390d208f894e44ece'

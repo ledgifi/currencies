@@ -5,3 +5,5 @@ id_nomics: DOPE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOPE2.jpg
 logoKey: currencies/dope2.jpg
 name: DopeSwap
+platform: ETH
+platform_contract: '0xbfec1b4c9398600fe2cbc918d500e494aef3e6f5'

@@ -3,3 +3,5 @@ fiat: false
 id: STONETH
 id_nomics: STONETH
 name: Stoneth
+platform: ETH
+platform_contract: '0xb7f959e8df35f01608922bee0d12a8f92d376a85'

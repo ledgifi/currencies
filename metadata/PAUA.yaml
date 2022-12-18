@@ -3,3 +3,5 @@ fiat: false
 id: PAUA
 id_nomics: PAUA
 name: PAUA Token
+platform: BNB
+platform_contract: '0x52dd1523e7260c1c420ce2511ae9f25714d84064'

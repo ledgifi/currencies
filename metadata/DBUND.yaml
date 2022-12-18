@@ -5,3 +5,5 @@ id_nomics: DBUND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DBUND.jpg
 logoKey: currencies/dbund.jpg
 name: Dark Bundles
+platform: ETH
+platform_contract: '0xc6d19a604fbdb5c2eeb363255fd63c9eea29288e'

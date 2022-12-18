@@ -5,3 +5,5 @@ id_nomics: SQUIDCASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SQUIDCASH.png
 logoKey: currencies/squidcash.png
 name: SquidCash
+platform: BNB
+platform_contract: '0x72fc6ecce38ecf1e3acb15154a40369edd83fe10'

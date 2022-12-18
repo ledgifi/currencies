@@ -3,3 +3,5 @@ fiat: false
 id: TEST888
 id_nomics: TEST888
 name: test888
+platform: HT
+platform_contract: '0x6a6054d1866c79152118e032bb0a4e422d9eeeef'

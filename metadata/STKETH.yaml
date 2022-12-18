@@ -3,3 +3,5 @@ fiat: false
 id: STKETH
 id_nomics: STKETH
 name: Staked ETH
+platform: ETH
+platform_contract: '0x2c5bcad9ade17428874855913def0a02d8be2324'

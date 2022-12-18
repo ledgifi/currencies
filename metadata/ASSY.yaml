@@ -5,3 +5,5 @@ id_nomics: ASSY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASSY.jpg
 logoKey: currencies/assy.jpg
 name: ASSY Index
+platform: ETH
+platform_contract: '0xfa2562da1bba7b954f26c74725df51fb62646313'

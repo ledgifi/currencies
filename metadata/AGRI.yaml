@@ -5,3 +5,5 @@ id_nomics: AGRI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AGRI.png
 logoKey: currencies/agri.png
 name: AgriChain
+platform: ETH
+platform_contract: '0xa704fce7b309ec09df16e2f5ab8caf6fe8a4baa9'

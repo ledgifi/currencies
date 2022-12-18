@@ -5,3 +5,5 @@ id_nomics: MAX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAX3.png
 logoKey: currencies/max3.png
 name: Max
+platform: AVAX
+platform_contract: '0xEF6BBF76E3b89794d84dB65ac82022D0B97a0efd'

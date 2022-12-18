@@ -6,3 +6,5 @@ id_nomics: WAND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/wand.jpg
 logoKey: currencies/wand.jpg
 name: WANDX
+platform: ETH
+platform_contract: '0x27f610bf36eca0939093343ac28b1534a721dbb4'

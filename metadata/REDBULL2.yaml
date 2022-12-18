@@ -5,3 +5,5 @@ id_nomics: REDBULL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REDBULL2.png
 logoKey: currencies/redbull2.png
 name: Red Bull Coin
+platform: BNB
+platform_contract: '0x59e324dab02731368aaec88e3aac6ee3484ac66e'

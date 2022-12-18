@@ -6,3 +6,5 @@ id_nomics: SHIBIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBIC.jpg
 logoKey: currencies/shibic.jpg
 name: Shiba Inu Classic
+platform: BNB
+platform_contract: '0xaf3889ba617ac973b358513d9031778d2bc783df'

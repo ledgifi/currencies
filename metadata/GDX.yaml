@@ -5,3 +5,5 @@ id_nomics: GDX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GDX.jpg
 logoKey: currencies/gdx.jpg
 name: Greendex
+platform: BNB
+platform_contract: '0x384e1b03adcb4f5e22c2c0c3d8ba9bf5c7dbee57'

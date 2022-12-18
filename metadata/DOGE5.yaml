@@ -5,3 +5,5 @@ id_nomics: DOGE5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGE5.jpg
 logoKey: currencies/doge5.jpg
 name: Hashtag Doge
+platform: BNB
+platform_contract: '0x961A4E2fa2C907BB1583c52AF70234C5DDb8Ad36'

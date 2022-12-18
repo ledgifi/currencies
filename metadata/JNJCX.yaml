@@ -5,3 +5,5 @@ id_nomics: JNJCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JNJCX.jpg
 logoKey: currencies/jnjcx.jpg
 name: Johnson & Johnson Token
+platform: ETH
+platform_contract: '0x5c583018358339adbfcc46410c346d52606bf70d'

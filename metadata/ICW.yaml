@@ -6,3 +6,5 @@ id_nomics: ICW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICW.jpg
 logoKey: currencies/icw.jpg
 name: iCrypto World
+platform: BNB
+platform_contract: '0xcec907f0d4f16b797efa6c25a633e6f70aab4061'

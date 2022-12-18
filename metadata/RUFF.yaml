@@ -5,3 +5,5 @@ id_nomics: RUFF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ruff.svg
 logoKey: currencies/ruff.svg
 name: RuffChain
+platform: ETH
+platform_contract: '0xf278c1ca969095ffddded020290cf8b5c424ace2'

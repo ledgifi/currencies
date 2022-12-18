@@ -5,3 +5,5 @@ id_nomics: TIGERCASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIGERCASH.png
 logoKey: currencies/tigercash.png
 name: TigerCash
+platform: ETH
+platform_contract: '0x9b39a0b97319a9bd5fed217c1db7b030453bac91'

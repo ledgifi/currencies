@@ -5,3 +5,5 @@ id_nomics: ELONREWARD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELONREWARD.png
 logoKey: currencies/elonreward.png
 name: ElonReward
+platform: BNB
+platform_contract: '0x0ca057995ad1cec33622a8756bf69d26b5ca0046'

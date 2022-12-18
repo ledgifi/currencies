@@ -5,3 +5,5 @@ id_nomics: X
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/X.jpg
 logoKey: currencies/x.jpg
 name: X
+platform: BNB
+platform_contract: '0x42e83f8b9fadcfcbaabec2ba3133c9751d9812a0'

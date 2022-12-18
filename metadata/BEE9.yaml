@@ -5,3 +5,5 @@ id_nomics: BEE9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEE9.jpg
 logoKey: currencies/bee9.jpg
 name: BeeChain
+platform: BNB
+platform_contract: '0xe159685df2a7a70dcf60e8c9c2dccdc5d5c9e37f'

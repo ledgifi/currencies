@@ -5,3 +5,5 @@ id_nomics: AURA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AURA2.jpg
 logoKey: currencies/aura2.jpg
 name: Aura Protocol
+platform: ETH
+platform_contract: '0x6417e8673dedd7a0471a87804bf85a559fd8bcc2'

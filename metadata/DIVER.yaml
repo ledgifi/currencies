@@ -6,3 +6,5 @@ id_nomics: DIVER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DIVER.jpg
 logoKey: currencies/diver.jpg
 name: Divergence Protocol
+platform: ETH
+platform_contract: '0xfb782396c9b20e564a64896181c7ac8d8979d5f4'

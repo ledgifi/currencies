@@ -5,3 +5,5 @@ id_nomics: GREED3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GREED3.jpg
 logoKey: currencies/greed3.jpg
 name: Greed
+platform: BNB
+platform_contract: '0x5905df3d03e29a22e22462d3257e6ac731e22c15'

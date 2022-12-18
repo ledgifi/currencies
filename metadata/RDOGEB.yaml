@@ -5,3 +5,5 @@ id_nomics: RDOGEB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RDOGEB.jpg
 logoKey: currencies/rdogeb.jpg
 name: RDOGEBRIDGE
+platform: BNB
+platform_contract: '0x95c3e562d80e775db47297ccd1c24d06b4c0a767'

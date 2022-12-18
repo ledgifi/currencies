@@ -5,3 +5,5 @@ id_nomics: YEL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YEL.png
 logoKey: currencies/yel.png
 name: Yellow Token
+platform: ETH
+platform_contract: '0x8633e144f2d9b9b8bdd12ddb58e4bef1e163a0ce'

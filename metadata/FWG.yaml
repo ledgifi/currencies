@@ -6,3 +6,5 @@ id_nomics: FWG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FWG.jpg
 logoKey: currencies/fwg.jpg
 name: Fantasy World Gold
+platform: ETH
+platform_contract: '0x7345ffe6291bc15381a4110831013e8fe9f93253'

@@ -3,3 +3,5 @@ fiat: false
 id: DUCKER20
 id_nomics: DUCKER20
 name: Duckereum 2.0
+platform: ETH
+platform_contract: '0x0ea721cdea69e10484aa16ab258845bb9a816c92'

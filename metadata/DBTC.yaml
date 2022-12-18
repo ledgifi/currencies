@@ -6,3 +6,5 @@ id_nomics: DBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DBTC.png
 logoKey: currencies/dbtc.png
 name: Debitcoin
+platform: ETH
+platform_contract: '0x95408930d6323ac7aa69e6c2cbfe58774d565fa8'

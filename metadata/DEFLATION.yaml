@@ -3,3 +3,5 @@ fiat: false
 id: DEFLATION
 id_nomics: DEFLATION
 name: Deflation
+platform: ETH
+platform_contract: '0xd85c2ad850bd89a39746bea83fc401e6e1ea5405'

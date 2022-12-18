@@ -5,3 +5,5 @@ id_nomics: ZOMBIE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZOMBIE3.jpg
 logoKey: currencies/zombie3.jpg
 name: Zombies Farm
+platform: BNB
+platform_contract: '0x99d6b719d78f75a0a8f34d7443630df58973ff41'

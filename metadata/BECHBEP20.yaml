@@ -5,3 +5,5 @@ id_nomics: BECHBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BECHBEP20.png
 logoKey: currencies/bechbep20.png
 name: Bridged Echelon (BEP-20)
+platform: BNB
+platform_contract: '0x00eafc9c1fb1b7f7889c7e91441ab62de0259ad5'

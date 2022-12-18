@@ -5,3 +5,5 @@ id_nomics: SAFETESLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFETESLA.png
 logoKey: currencies/safetesla.png
 name: SafeTesla
+platform: BNB
+platform_contract: '0xa1efce38cb265af369e891bc3026d0285545d4e5'

@@ -5,3 +5,5 @@ id_nomics: KOTARO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KOTARO.jpeg
 logoKey: currencies/kotaro.jpeg
 name: Kotaro Inu
+platform: BNB
+platform_contract: '0xb42627052e7acfd20a6d05020867f10e53e40789'

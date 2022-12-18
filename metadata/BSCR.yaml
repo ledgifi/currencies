@@ -5,3 +5,5 @@ id_nomics: BSCR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSCR.jpeg
 logoKey: currencies/bscr.jpeg
 name: BSC Run
+platform: BNB
+platform_contract: '0xb88ade76e885a5dd4f19a5de63824ae7f4a8d2f4'

@@ -6,3 +6,5 @@ id_nomics: DGTX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DGTX.png
 logoKey: currencies/dgtx.png
 name: DigitexFutures
+platform: ETH
+platform_contract: '0xc666081073e8dff8d3d1c2292a29ae1a2153ec09'

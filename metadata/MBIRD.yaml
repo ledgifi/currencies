@@ -6,3 +6,5 @@ id_nomics: MBIRD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MBIRD.png
 logoKey: currencies/mbird.png
 name: Moonbird
+platform: BNB
+platform_contract: '0x3b23a0ffbc53198d86fa5927e8ee32f7ef699a14'

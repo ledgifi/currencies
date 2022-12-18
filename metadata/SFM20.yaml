@@ -5,3 +5,5 @@ id_nomics: SFM20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFM20.jpg
 logoKey: currencies/sfm20.jpg
 name: Safemoon2.0
+platform: BNB
+platform_contract: '0x9e80b4ed718169f62a22e6946331ea34bfc2a14b'

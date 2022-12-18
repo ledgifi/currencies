@@ -6,3 +6,5 @@ id_nomics: ANFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANFT.jpg
 logoKey: currencies/anft.jpg
 name: Artwork NFT
+platform: BNB
+platform_contract: '0x4ad871d02415717f55adb23def23faec98e7bba8'

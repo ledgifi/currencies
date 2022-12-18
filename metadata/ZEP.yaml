@@ -5,3 +5,5 @@ id_nomics: ZEP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZEP.jpg
 logoKey: currencies/zep.jpg
 name: Zeppelin Dao
+platform: BNB
+platform_contract: '0x2e291e1c9f85a86d0c58ae15621aac005a8b2ead'

@@ -5,3 +5,5 @@ id_nomics: TMT7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TMT7.jpg
 logoKey: currencies/tmt7.jpg
 name: TMETA
+platform: BNB
+platform_contract: '0x9e94473e7cba9f886e4c6cdd9a6d605fad81ed5d'

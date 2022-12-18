@@ -6,3 +6,5 @@ id_nomics: BHO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BHO.jpg
 logoKey: currencies/bho.jpg
 name: Bholdus Token
+platform: BNB
+platform_contract: '0x8717e80eff08f53a45b4a925009957e14860a8a8'

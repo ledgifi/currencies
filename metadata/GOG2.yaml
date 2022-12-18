@@ -5,3 +5,5 @@ id_nomics: GOG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOG2.jpg
 logoKey: currencies/gog2.jpg
 name: Guild of Guardians
+platform: ETH
+platform_contract: '0x9ab7bb7fdc60f4357ecfef43986818a2a3569c62'

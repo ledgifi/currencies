@@ -5,3 +5,5 @@ id_nomics: SAVE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAVE3.webp
 logoKey: currencies/save3.webp
 name: Save It
+platform: ETH
+platform_contract: '0x1f0547c08abfc4c9f3be2524592e9281008402d5'

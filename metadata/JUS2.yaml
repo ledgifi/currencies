@@ -5,3 +5,5 @@ id_nomics: JUS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JUS2.jpg
 logoKey: currencies/jus2.jpg
 name: JUS Token
+platform: ETH
+platform_contract: '0x202b0534a49fa306be03837a885ab0b66bc40a5d'

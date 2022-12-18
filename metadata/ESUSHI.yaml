@@ -3,3 +3,5 @@ fiat: false
 id: ESUSHI
 id_nomics: ESUSHI
 name: Ethereum Sushi
+platform: ETH
+platform_contract: '0x406e4e33be95410e624849272d0a5cb972edbed9'

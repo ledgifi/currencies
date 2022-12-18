@@ -3,3 +3,5 @@ fiat: false
 id: STARGRAM
 id_nomics: STARGRAM
 name: Stargram
+platform: ETH
+platform_contract: '0x0727e6688c3cdc4177beb65fa6c6670830d7e4d7'

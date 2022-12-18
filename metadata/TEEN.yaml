@@ -5,3 +5,5 @@ id_nomics: TEEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TEEN.png
 logoKey: currencies/teen.png
 name: MyTeenCoin
+platform: ETH
+platform_contract: '0xd3003b3778bf4887e73eb320b71a04728961505c'

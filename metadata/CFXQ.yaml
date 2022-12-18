@@ -6,3 +6,5 @@ id_nomics: CFXQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CFXQ.jpg
 logoKey: currencies/cfxq.jpg
 name: CFX Quantum
+platform: ETH
+platform_contract: '0x0557e0d15aec0b9026dd17aa874fdf7d182a2ceb'

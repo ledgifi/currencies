@@ -5,3 +5,5 @@ id_nomics: SHK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHK2.jpg
 logoKey: currencies/shk2.jpg
 name: Shrek
+platform: BNB
+platform_contract: '0xe44dd7cb0256241ca7eea20036bed27586fa13c4'

@@ -5,3 +5,5 @@ id_nomics: YIELD5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YIELD5.jpeg
 logoKey: currencies/yield5.jpeg
 name: Yield Gaming
+platform: BNB
+platform_contract: '0x941b823652b2e921e389845a78414e23a4724b43'

@@ -5,3 +5,5 @@ id_nomics: PRDETKN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRDETKN.jpg
 logoKey: currencies/prdetkn.jpg
 name: PrideToken
+platform: BNB
+platform_contract: '0x2da99d367d504099322444ce0b23b5462c5b81c8'

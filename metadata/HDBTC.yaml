@@ -5,3 +5,5 @@ id_nomics: HDBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HDBTC.png
 logoKey: currencies/hdbtc.png
 name: Hidigital btc
+platform: ETH
+platform_contract: '0xbb6cd639724417a20a7db0f45c1fb2fe532f490a'

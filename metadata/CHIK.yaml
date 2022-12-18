@@ -5,3 +5,5 @@ id_nomics: CHIK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHIK.jpg
 logoKey: currencies/chik.jpg
 name: Chicken Kebab
+platform: BNB
+platform_contract: '0x893411cacf9e62a744d9fc0f72f7fb1b1373b6cd'

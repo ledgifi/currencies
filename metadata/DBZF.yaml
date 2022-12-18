@@ -5,3 +5,5 @@ id_nomics: DBZF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DBZF.jpeg
 logoKey: currencies/dbzf.jpeg
 name: DBZFOMO
+platform: BNB
+platform_contract: '0xad1acae668c2e68e2f7152c3673fdb65e64d4cfe'

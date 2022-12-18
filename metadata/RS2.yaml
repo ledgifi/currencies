@@ -5,3 +5,5 @@ id_nomics: RS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RS2.png
 logoKey: currencies/rs2.png
 name: Royal Stake
+platform: BNB
+platform_contract: '0xB4b0917CA1970727664DAD60994917Bbe68E668c'

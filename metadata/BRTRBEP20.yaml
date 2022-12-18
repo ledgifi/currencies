@@ -5,3 +5,5 @@ id_nomics: BRTRBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRTRBEP20.jpg
 logoKey: currencies/brtrbep20.jpg
 name: Barter (BEP-20)
+platform: BNB
+platform_contract: '0x5e57f24415f37c7d304e85df9b4c36bc08789794'

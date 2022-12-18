@@ -5,3 +5,5 @@ id_nomics: RCVR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RCVR.jpg
 logoKey: currencies/rcvr.jpg
 name: RecoverToken
+platform: BNB
+platform_contract: '0x26d4552879cdcc32599e2ff1c1e2a438d5c5323e'

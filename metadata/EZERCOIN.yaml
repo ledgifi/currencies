@@ -3,3 +3,5 @@ fiat: false
 id: EZERCOIN
 id_nomics: EZERCOIN
 name: EzerCoin
+platform: BNB
+platform_contract: '0x7f6f7c2f74a1a092c1ec044a988111a1c61c3d11'

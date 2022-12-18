@@ -5,3 +5,5 @@ id_nomics: STGARB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STGARB.jpg
 logoKey: currencies/stgarb.jpg
 name: Stargate Finance (Arbitrum)
+platform: ARBETH
+platform_contract: '0x6694340fc020c5e6b96567843da2df01b2ce1eb6'

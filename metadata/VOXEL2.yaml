@@ -5,3 +5,5 @@ id_nomics: VOXEL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VOXEL2.png
 logoKey: currencies/voxel2.png
 name: Voxies
+platform: MATIC
+platform_contract: '0xd0258a3fd00f38aa8090dfee343f10a9d4d30d3f'

@@ -5,3 +5,5 @@ id_nomics: PETC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PETC.png
 logoKey: currencies/petc.png
 name: Petcoin
+platform: ETH
+platform_contract: '0xd1d3b662d91faaa4a5d809d804fa70550b2b3e9c'

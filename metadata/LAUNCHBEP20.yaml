@@ -4,3 +4,5 @@ id: LAUNCHBEP20
 id_nomics: LAUNCHBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LAUNCHBEP20.jpg
 name: Launch (BEP-20)
+platform: BNB
+platform_contract: '0x2cf63899478322e18ca92bbfb15fd6edbb5edf85'

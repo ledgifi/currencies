@@ -6,3 +6,5 @@ id_nomics: SUG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUG.png
 logoKey: currencies/sug.png
 name: Sulgecoin
+platform: BNB
+platform_contract: '0x668a5163991662ca5098b2c1357cb73bbcb88a4f'

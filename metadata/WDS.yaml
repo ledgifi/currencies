@@ -3,3 +3,5 @@ fiat: false
 id: WDS
 id_nomics: WDS
 name: WINDOWS
+platform: BNB
+platform_contract: '0xde5c0b28ae3f02ff89d8175d0d56a079113c0a20'

@@ -3,3 +3,5 @@ fiat: false
 id: DTOOLS
 id_nomics: DTOOLS
 name: degenerate.tools
+platform: ETH
+platform_contract: '0x2c7800f451bb32e8332b3cf5225590f5018d96a5'

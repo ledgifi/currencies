@@ -5,3 +5,5 @@ id_nomics: MVIXYERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MVIXYERC20.png
 logoKey: currencies/mvixyerc20.png
 name: Wrapped Mirror VIXY Token (ERC-20)
+platform: ETH
+platform_contract: '0xf72fcd9dcf0190923fadd44811e240ef4533fc86'

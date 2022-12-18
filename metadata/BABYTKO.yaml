@@ -5,3 +5,5 @@ id_nomics: BABYTKO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYTKO.jpg
 logoKey: currencies/babytko.jpg
 name: BABY TKO
+platform: BNB
+platform_contract: '0x230af5f829c4130a2179567ac63248001a37ac54'

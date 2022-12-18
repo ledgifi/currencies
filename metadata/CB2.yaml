@@ -5,3 +5,5 @@ id_nomics: CB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CB2.jpg
 logoKey: currencies/cb2.jpg
 name: Cyber
+platform: BNB
+platform_contract: '0x0b771aaf0c6745ced26d6c875cdad4c4483ca4c7'

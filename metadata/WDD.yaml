@@ -5,3 +5,5 @@ id_nomics: WDD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WDD.jpg
 logoKey: currencies/wdd.jpg
 name: Wedding
+platform: BNB
+platform_contract: '0x8fa32aea6a4bb2f47770ace49f1d9399714b429c'

@@ -5,3 +5,5 @@ id_nomics: OSHARE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OSHARE2.png
 logoKey: currencies/oshare2.png
 name: Owl Share
+platform: MOVR
+platform_contract: '0xbecc61601c59d5afffe750d201ec98cdc70db796'

@@ -5,3 +5,5 @@ id_nomics: OPT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OPT2.jpg
 logoKey: currencies/opt2.jpg
 name: Open Predict Token
+platform: ETH
+platform_contract: '0x4fe5851c9af07df9e5ad8217afae1ea72737ebda'

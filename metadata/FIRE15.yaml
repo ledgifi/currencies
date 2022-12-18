@@ -5,3 +5,5 @@ id_nomics: FIRE15
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIRE15.jpg
 logoKey: currencies/fire15.jpg
 name: Fire Doge
+platform: BNB
+platform_contract: '0x8489cf3652d06f1b33aca641037f5759276312d3'

@@ -5,3 +5,5 @@ id_nomics: KS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KS.jpg
 logoKey: currencies/ks.jpg
 name: Kingdomswap
+platform: BNB
+platform_contract: '0x630aea3d41945a367c8ce920cc247ee5084ef1ab'

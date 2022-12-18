@@ -5,3 +5,5 @@ id_nomics: BCAT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCAT3.jpg
 logoKey: currencies/bcat3.jpg
 name: BabyCat Inu
+platform: BNB
+platform_contract: '0xF4c86970d6f0C9eCA2f307a49f37BBa791724F50'

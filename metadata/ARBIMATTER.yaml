@@ -5,3 +5,5 @@ id_nomics: ARBIMATTER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARBIMATTER.jpg
 logoKey: currencies/arbimatter.jpg
 name: ArbiMATTER
+platform: ARBETH
+platform_contract: '0xa7e1d00f1dc94040a8aad3ad993589f3e39a6b7a'

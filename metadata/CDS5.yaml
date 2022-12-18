@@ -5,3 +5,5 @@ id_nomics: CDS5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CDS5.jpeg
 logoKey: currencies/cds5.jpeg
 name: Crypto Development Services
+platform: BNB
+platform_contract: '0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5'

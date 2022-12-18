@@ -5,3 +5,5 @@ id_nomics: KCH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KCH2.jpg
 logoKey: currencies/kch2.jpg
 name: Keep Calm
+platform: ETH
+platform_contract: '0xdb80734b094a3f964dedfd10e8946753ae0ac04c'

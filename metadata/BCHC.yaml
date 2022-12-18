@@ -6,3 +6,5 @@ id_nomics: BCHC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCHC.png
 logoKey: currencies/bchc.png
 name: BitCherry
+platform: ETH
+platform_contract: '0x2ab05b915c30093679165bcdba9c26d8cd8bee99'

@@ -3,3 +3,5 @@ fiat: false
 id: METAZERO
 id_nomics: METAZERO
 name: MetaZero
+platform: BNB
+platform_contract: '0x88c549d28695f8fd761acdb90bf1e21eb26b0d6c'

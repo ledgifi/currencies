@@ -3,3 +3,5 @@ fiat: false
 id: DAIOP
 id_nomics: DAIOP
 name: Dai Stablecoin (Optimism)
+platform: OPETH
+platform_contract: '0xda10009cbd5d07dd0cecc66161fc93d7c9000da1'

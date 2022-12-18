@@ -3,3 +3,5 @@ fiat: false
 id: BRWL
 id_nomics: BRWL
 name: Blockchain Brawlers
+platform: ETH
+platform_contract: '0x4086e77c5e993fdb90a406285d00111a974f877a'

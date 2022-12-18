@@ -5,3 +5,5 @@ id_nomics: ABE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ABE.png
 logoKey: currencies/abe.png
 name: STABLE 005
+platform: MATIC
+platform_contract: '0x53207533d6c4c3c04f2ed6ef5bf85a3473e403b3'

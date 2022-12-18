@@ -6,3 +6,5 @@ id_nomics: DBY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DBY.jpg
 logoKey: currencies/dby.jpg
 name: Dobuy
+platform: ETH
+platform_contract: '0x7c82a76db0166b0e153a66b1a4c331970b2b0ee2'

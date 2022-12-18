@@ -6,3 +6,5 @@ id_nomics: GOMAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOMAX.jpg
 logoKey: currencies/gomax.jpg
 name: GOMAx
+platform: BNB
+platform_contract: '0xb61ff1f6fc4c13e7531cae429269faac74ad0fee'

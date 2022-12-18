@@ -6,3 +6,5 @@ id_nomics: YFIA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFIA.png
 logoKey: currencies/yfia.png
 name: YFIA
+platform: ETH
+platform_contract: '0x94373d40135604ce50083ff282250a9033761e53'

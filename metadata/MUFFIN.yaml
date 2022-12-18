@@ -3,3 +3,5 @@ fiat: false
 id: MUFFIN
 id_nomics: MUFFIN
 name: Muffin Token
+platform: MATIC
+platform_contract: '0x94b62040d663fa870d399e2fd044d40fbc0b79ec'

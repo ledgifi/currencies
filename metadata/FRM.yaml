@@ -6,3 +6,5 @@ id_nomics: FRM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FRM.png
 logoKey: currencies/frm.png
 name: Ferrum Network
+platform: ETH
+platform_contract: '0xe5caef4af8780e59df925470b050fb23c43ca68c'

@@ -5,3 +5,5 @@ id_nomics: ROCKET7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROCKET7.png
 logoKey: currencies/rocket7.png
 name: Rocket Launch V2
+platform: BNB
+platform_contract: '0xa1703804e1f4f0ca2c3bfb1c3d556a0f48c68e22'

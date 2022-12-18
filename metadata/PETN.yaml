@@ -6,3 +6,5 @@ id_nomics: PETN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PETN.jpg
 logoKey: currencies/petn.jpg
 name: Pylon Eco Token
+platform: BNB
+platform_contract: '0x57457b5d725d85a70a3625d6a71818304e773618'

@@ -5,3 +5,5 @@ id_nomics: FLR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLR2.jpg
 logoKey: currencies/flr2.jpg
 name: Floki Robot
+platform: BNB
+platform_contract: '0xdfbd9b07c9ca1d30983910411d6aa0828026d74b'

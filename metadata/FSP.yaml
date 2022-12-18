@@ -5,3 +5,5 @@ id_nomics: FSP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FSP.jpg
 logoKey: currencies/fsp.jpg
 name: FlashSwap
+platform: ETH
+platform_contract: '0x0128e4fccf5ef86b030b28f0a8a029a3c5397a94'

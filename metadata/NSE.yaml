@@ -5,3 +5,5 @@ id_nomics: NSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NSE.jpg
 logoKey: currencies/nse.jpg
 name: Neo Smart Energy
+platform: ETH
+platform_contract: '0x81361ba977b6e214e905d4e03c65557b757240d9'

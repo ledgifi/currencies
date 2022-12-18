@@ -3,3 +3,5 @@ fiat: false
 id: UVC
 id_nomics: UVC
 name: UniversalCoin
+platform: ETC
+platform_contract: '0x76d0184cf511788032a74a1fb91146e63f43dd53'

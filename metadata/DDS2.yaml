@@ -5,3 +5,5 @@ id_nomics: DDS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DDS2.jpg
 logoKey: currencies/dds2.jpg
 name: DollyDoges
+platform: ETH
+platform_contract: '0x2952e91b134300a8e2886ab482cd080deb8013d2'

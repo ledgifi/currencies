@@ -6,3 +6,5 @@ id_nomics: SAITAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAITAX.jpg
 logoKey: currencies/saitax.jpg
 name: SaitamaX
+platform: ETH
+platform_contract: '0xc795fba221f7920f1c6ac0f1598886742d8ea661'

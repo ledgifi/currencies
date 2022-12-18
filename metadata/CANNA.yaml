@@ -6,3 +6,5 @@ id_nomics: CANNA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CANNA.jpg
 logoKey: currencies/canna.jpg
 name: The CanCoin
+platform: BNB
+platform_contract: '0xcbed7180e61f82aa9bbc1f59afaa7d57fab588ac'

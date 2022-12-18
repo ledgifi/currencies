@@ -5,3 +5,5 @@ id_nomics: AMDAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMDAI.jpg
 logoKey: currencies/amdai.jpg
 name: Aave Polygon DAI
+platform: MATIC
+platform_contract: '0x27f8d03b3a2196956ed754badc28d73be8830a6e'

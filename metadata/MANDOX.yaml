@@ -5,3 +5,5 @@ id_nomics: MANDOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MANDOX.jpg
 logoKey: currencies/mandox.jpg
 name: MandoX
+platform: ETH
+platform_contract: '0xafbf03181833ab4e8dec24d708a2a24c2baaa4a4'

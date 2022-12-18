@@ -3,3 +3,5 @@ fiat: false
 id: ETHJOKER
 id_nomics: ETHJOKER
 name: EthJoker
+platform: ETH
+platform_contract: '0xe22183314845ed65625deb37aa0d84c52aa2b610'

@@ -6,3 +6,5 @@ id_nomics: PENDLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PENDLE.jpg
 logoKey: currencies/pendle.jpg
 name: Pendle
+platform: ETH
+platform_contract: '0x808507121b80c02388fad14726482e061b8da827'

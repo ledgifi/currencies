@@ -5,3 +5,5 @@ id_nomics: SOULS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOULS.png
 logoKey: currencies/souls.png
 name: Land of Immortals
+platform: BNB
+platform_contract: '0x6545cac09cc84fa234c2e421d2eedeecac8eb2d9'

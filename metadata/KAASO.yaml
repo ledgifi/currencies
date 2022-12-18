@@ -6,3 +6,5 @@ id_nomics: KAASO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAASO.jpg
 logoKey: currencies/kaaso.jpg
 name: KAASO
+platform: ETH
+platform_contract: '0xf6bf74a97d78f2242376769ef1e79885cf1f0c1c'

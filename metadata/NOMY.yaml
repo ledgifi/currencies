@@ -6,3 +6,5 @@ id_nomics: NOMY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NOMY.jpg
 logoKey: currencies/nomy.jpg
 name: NOMY
+platform: BNB
+platform_contract: '0x719673bc6ad1c4fa216052fda2297774bf582b05'

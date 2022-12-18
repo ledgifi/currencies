@@ -6,3 +6,5 @@ id_nomics: LANC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LANC.jpg
 logoKey: currencies/lanc.jpg
 name: Lanceria
+platform: BNB
+platform_contract: '0xdd848e0cbfd3771dc7845b10072d973c375271e2'

@@ -3,3 +3,5 @@ fiat: false
 id: KSHARE
 id_nomics: KSHARE
 name: King Shares
+platform: AVAX
+platform_contract: '0x94d649e017625de1aa04733aa046de0161df18ef'

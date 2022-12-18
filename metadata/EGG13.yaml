@@ -5,3 +5,5 @@ id_nomics: EGG13
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EGG13.png
 logoKey: currencies/egg13.png
 name: EGG
+platform: BNB
+platform_contract: '0xe5e73cd5ffcf8f2f6674a76a37d9d4795e73e605'

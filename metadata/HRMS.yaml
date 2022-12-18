@@ -5,3 +5,5 @@ id_nomics: HRMS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HRMS.jpg
 logoKey: currencies/hrms.jpg
 name: Hermes
+platform: HARMONY
+platform_contract: '0xba4476a302f5bc1dc4053cf79106dc43455904a3'

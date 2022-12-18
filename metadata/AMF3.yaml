@@ -5,3 +5,5 @@ id_nomics: AMF3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMF3.jpeg
 logoKey: currencies/amf3.jpeg
 name: Atium Finance
+platform: BNB
+platform_contract: '0x1df5f7b6410a1383c2e535747e09701e0a8fa4ad'

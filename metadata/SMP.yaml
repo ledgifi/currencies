@@ -3,3 +3,5 @@ fiat: false
 id: SMP
 id_nomics: SMP
 name: THESMP
+platform: ETH
+platform_contract: '0x696a846252e7d19cae1ca30dd918768c0623ed6c'

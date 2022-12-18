@@ -3,3 +3,5 @@ fiat: false
 id: TESTCOW
 id_nomics: TESTCOW
 name: TESTCOW TOKEN
+platform: BNB
+platform_contract: '0xd88ef744c9ff09bc334a10cb90da118901a96035'

@@ -8,3 +8,5 @@ id_nomics: BUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUSD.png
 logoKey: currencies/busd.png
 name: Binance USD
+platform: ETH
+platform_contract: '0x4fabb145d64652a948d72533023f6e7a623c7c53'

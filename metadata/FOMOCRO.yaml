@@ -3,3 +3,5 @@ fiat: false
 id: FOMOCRO
 id_nomics: FOMOCRO
 name: Token FomoCRO
+platform: CRO
+platform_contract: '0x58d96be078e59629f7e39bdc4444ad920f05b9e9'

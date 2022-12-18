@@ -5,3 +5,5 @@ id_nomics: MPK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MPK.jpeg
 logoKey: currencies/mpk.jpeg
 name: MetaPokemon
+platform: BNB
+platform_contract: '0x5ab385203b5813a78e5af8c497d763e515b193c2'

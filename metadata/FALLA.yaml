@@ -5,3 +5,5 @@ id_nomics: FALLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FALLA.jpg
 logoKey: currencies/falla.jpg
 name: Fallacia
+platform: BNB
+platform_contract: '0x15a73393C4D6E25845b9626685b33D2F3c695f4E'

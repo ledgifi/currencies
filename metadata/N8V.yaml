@@ -6,3 +6,5 @@ id_nomics: N8V
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/N8V.png
 logoKey: currencies/n8v.png
 name: NativeCoin
+platform: ETH
+platform_contract: '0x8826039256ef043a4c08798171639ae12a874401'

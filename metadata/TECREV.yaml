@@ -5,3 +5,5 @@ id_nomics: TECREV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TECREV.jpeg
 logoKey: currencies/tecrev.jpeg
 name: Technology Revolution
+platform: BNB
+platform_contract: '0x2f634a6fbd3d1639730ad71df694757513b6c91a'

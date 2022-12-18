@@ -5,3 +5,5 @@ id_nomics: PAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/pal.jpg
 logoKey: currencies/pal.jpg
 name: PAL Network
+platform: ETH
+platform_contract: '0xfedae5642668f8636a11987ff386bfd215f942ee'

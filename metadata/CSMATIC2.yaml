@@ -3,3 +3,5 @@ fiat: false
 id: CSMATIC2
 id_nomics: CSMATIC2
 name: ClayStack Staked MATIC
+platform: ETH
+platform_contract: '0x38b7bf4eecf3eb530b1529c9401fc37d2a71a912'

@@ -4,3 +4,5 @@ id: SWIFY
 id_nomics: SWIFY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWIFY.jpg
 name: Swapify
+platform: ETH
+platform_contract: '0x9c7376b5060c47e555f5f53005aa3d5a7c66f2fb'

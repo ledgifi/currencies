@@ -3,3 +3,5 @@ fiat: false
 id: APEUSDSNXDEC21
 id_nomics: APEUSDSNXDEC21
 name: apeUSD-SNX Synthetic USD (Dec 2021)
+platform: ETH
+platform_contract: '0x5c6af72cbd740b90528c8fe226125413b6bd7e5a'

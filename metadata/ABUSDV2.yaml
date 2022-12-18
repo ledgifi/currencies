@@ -5,3 +5,5 @@ id_nomics: ABUSDV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ABUSDV2.jpg
 logoKey: currencies/abusdv2.jpg
 name: Aave BUSD
+platform: ETH
+platform_contract: '0xa361718326c15715591c299427c62086f69923d9'

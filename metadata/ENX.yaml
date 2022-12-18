@@ -6,3 +6,5 @@ id_nomics: ENX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ENX.jpg
 logoKey: currencies/enx.jpg
 name: ENEX
+platform: ETH
+platform_contract: '0xd0d7a9f2021958e51d60d6966b7bbed9d1cb22b5'

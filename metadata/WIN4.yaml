@@ -5,3 +5,5 @@ id_nomics: WIN4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WIN4.png
 logoKey: currencies/win4.png
 name: Winston
+platform: BNB
+platform_contract: '0x75578ebbefe274f240b8e1b5859ca34f342157d9'

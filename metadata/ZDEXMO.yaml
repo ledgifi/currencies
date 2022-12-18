@@ -3,3 +3,5 @@ fiat: false
 id: ZDEXMO
 id_nomics: ZDEXMO
 name: zDEXMO Token
+platform: BNB
+platform_contract: '0x54c416a2809a09670c5ba9416516a67964e8cf8f'

@@ -5,3 +5,5 @@ id_nomics: DAVIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAVIS.jpg
 logoKey: currencies/davis.jpg
 name: Davis Cup Fan Token
+platform: CHZ
+platform_contract: '0x4b436f10911cd3f90b06f52e2a788a0a0dff96de'

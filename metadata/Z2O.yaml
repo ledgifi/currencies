@@ -5,3 +5,5 @@ id_nomics: Z2O
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/Z2O.jpg
 logoKey: currencies/z2o.jpg
 name: ZeroTwOhm
+platform: ARBETH
+platform_contract: '0xdb96f8efd6865644993505318cc08ff9c42fb9ac'

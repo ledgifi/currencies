@@ -5,3 +5,5 @@ id_nomics: NRV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NRV2.jpg
 logoKey: currencies/nrv2.jpg
 name: NRV Coin
+platform: ETH
+platform_contract: '0x768386990688b293226b9f83465974003b5e40d7'

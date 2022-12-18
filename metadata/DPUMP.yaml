@@ -3,3 +3,5 @@ fiat: false
 id: DPUMP
 id_nomics: DPUMP
 name: Doont Pump
+platform: ETH
+platform_contract: '0x4b815591f596f2a07c0ffddce41f6f2da6304c53'

@@ -6,3 +6,5 @@ id_nomics: FLOK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOK.png
 logoKey: currencies/flok.png
 name: Flokelon Inu
+platform: BNB
+platform_contract: '0xacf68b09876e6a053e610bdf90ac0bf59ab751be'

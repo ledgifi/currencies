@@ -5,3 +5,5 @@ id_nomics: PLX6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLX6.png
 logoKey: currencies/plx6.png
 name: PLEXUS
+platform: ETH
+platform_contract: '0x60b9c9C167bA57cc376b0FaafC68Df5C9882328e'

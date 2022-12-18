@@ -3,3 +3,5 @@ fiat: false
 id: COXI
 id_nomics: COXI
 name: CoxinhaSwap Token
+platform: BNB
+platform_contract: '0x3fb44f38f7cdeabddd0220e636f75c56ac7ef485'

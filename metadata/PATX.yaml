@@ -3,3 +3,5 @@ fiat: false
 id: PATX
 id_nomics: PATX
 name: Patriot Exchange
+platform: ETH
+platform_contract: '0xcc52f2a2b86be8b45ddba59d627d19233e1f2c29'

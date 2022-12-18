@@ -6,3 +6,5 @@ id_nomics: OGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OGO.jpg
 logoKey: currencies/ogo.jpg
 name: Origo
+platform: ETH
+platform_contract: '0xff0e5e014cf97e0615cb50f6f39da6388e2fae6e'

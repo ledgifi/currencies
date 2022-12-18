@@ -3,3 +3,5 @@ fiat: false
 id: AURC
 id_nomics: AURC
 name: AURC TOKEN
+platform: BNB
+platform_contract: '0x4ce6583e4bc2a3503b3b46b9dd0dc4c045951c37'

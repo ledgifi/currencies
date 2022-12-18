@@ -6,3 +6,5 @@ id_nomics: TYPE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TYPE.png
 logoKey: currencies/type.png
 name: Typerium
+platform: ETH
+platform_contract: '0xeaf61fc150cd5c3bea75744e830d916e60ea5a9f'

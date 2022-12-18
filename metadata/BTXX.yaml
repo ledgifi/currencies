@@ -5,3 +5,5 @@ id_nomics: BTXX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTXX.jpeg
 logoKey: currencies/btxx.jpeg
 name: Btex Xtreme
+platform: BNB
+platform_contract: '0x1369bcde392ea5bad595bb1f1bd15ee1b4a1dbc6'

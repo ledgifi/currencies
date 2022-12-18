@@ -3,3 +3,5 @@ fiat: false
 id: OCA
 id_nomics: OCA
 name: On-chain assets
+platform: BNB
+platform_contract: '0xb828cdce06b1a5883f450b98456bd986ef7e6f9c'

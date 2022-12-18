@@ -5,3 +5,5 @@ id_nomics: CRNBRY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRNBRY.jpg
 logoKey: currencies/crnbry.jpg
 name: CranberrySwap
+platform: BNB
+platform_contract: '0x6a40a7a671d81728506370ce4f3b464303dd9125'

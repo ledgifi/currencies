@@ -5,3 +5,5 @@ id_nomics: SAM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAM.png
 logoKey: currencies/sam.png
 name: Six Farm
+platform: ETH
+platform_contract: '0xd9dbe80995dbe64e371464b94d78baf10a694ed0'

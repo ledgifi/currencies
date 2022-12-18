@@ -5,3 +5,5 @@ id_nomics: CBITBOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBITBOX.jpg
 logoKey: currencies/cbitbox.jpg
 name: Bitbox Classic
+platform: BNB
+platform_contract: '0xd6dbc196d3fac82f24d0b6e73eb13938faac068c'

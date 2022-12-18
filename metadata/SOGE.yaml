@@ -5,3 +5,5 @@ id_nomics: SOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOGE.jpg
 logoKey: currencies/soge.jpg
 name: SOGE
+platform: ETH
+platform_contract: '0x41933422dc4a1cb8c822e06f12f7b52fa5e7e094'

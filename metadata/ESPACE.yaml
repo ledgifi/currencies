@@ -3,3 +3,5 @@ fiat: false
 id: ESPACE
 id_nomics: ESPACE
 name: Ethereum Space
+platform: ETH
+platform_contract: '0x0cc18c8c6f9072a7419ef6b80c79ca97540c14d7'

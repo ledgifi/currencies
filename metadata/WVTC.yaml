@@ -3,3 +3,5 @@ fiat: false
 id: WVTC
 id_nomics: WVTC
 name: Wrapped Vertcoin
+platform: BNB
+platform_contract: '0x51aa4adb47ab756829a649541e9add8ad61c8ed8'

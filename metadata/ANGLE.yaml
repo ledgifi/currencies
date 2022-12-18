@@ -5,3 +5,5 @@ id_nomics: ANGLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANGLE.jpg
 logoKey: currencies/angle.jpg
 name: Angle Protocol
+platform: ETH
+platform_contract: '0x31429d1856ad1377a8a0079410b297e1a9e214c2'

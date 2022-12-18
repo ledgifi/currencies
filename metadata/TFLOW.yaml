@@ -5,3 +5,5 @@ id_nomics: TFLOW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TFLOW.png
 logoKey: currencies/tflow.png
 name: TradeFlow
+platform: BNB
+platform_contract: '0x00ee89f7f21b60b72dd5d4070a4310f796c38c32'

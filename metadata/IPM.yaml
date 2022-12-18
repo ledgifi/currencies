@@ -6,3 +6,5 @@ id_nomics: IPM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IPM.jpg
 logoKey: currencies/ipm.jpg
 name: Timers
+platform: ETH
+platform_contract: '0x8feef860e9fa9326ff9d7e0058f637be8579cc29'

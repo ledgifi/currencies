@@ -3,3 +3,5 @@ fiat: false
 id: GATE2
 id_nomics: GATE2
 name: GATENet
+platform: ETH
+platform_contract: '0x9d7630adf7ab0b0cb00af747db76864df0ec82e4'

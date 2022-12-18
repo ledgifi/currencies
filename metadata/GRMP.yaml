@@ -5,3 +5,5 @@ id_nomics: GRMP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GRMP.jpeg
 logoKey: currencies/grmp.jpeg
 name: Green Mining Protocol
+platform: BNB
+platform_contract: '0x351fe17557794ca457d3d868279584de816b1443'

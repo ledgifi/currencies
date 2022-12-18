@@ -5,3 +5,5 @@ id_nomics: PIGGY5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIGGY5.jpeg
 logoKey: currencies/piggy5.jpeg
 name: Piglet
+platform: BNB
+platform_contract: '0x8192c6e7c6a7cd2a8c696f02176781a281248547'

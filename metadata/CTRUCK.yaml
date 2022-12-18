@@ -3,3 +3,5 @@ fiat: false
 id: CTRUCK
 id_nomics: CTRUCK
 name: CANADIAN TRUCK
+platform: ETH
+platform_contract: '0x5c15d19267e4bde66cf734b002ff64e8ebdcb8c3'

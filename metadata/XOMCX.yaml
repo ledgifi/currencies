@@ -5,3 +5,5 @@ id_nomics: XOMCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XOMCX.jpg
 logoKey: currencies/xomcx.jpg
 name: Exxon Mobil
+platform: ETH
+platform_contract: '0xe7a51502c31cc28f5e757d5510ff75a36a16b909'

@@ -5,3 +5,5 @@ id_nomics: KING11
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KING11.png
 logoKey: currencies/king11.png
 name: KingBull
+platform: BNB
+platform_contract: '0xDffc4AFC80b96c46c00c1e21417a8944dA1A036c'

@@ -6,3 +6,5 @@ id_nomics: MINISHIBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINISHIBA.png
 logoKey: currencies/minishiba.png
 name: Mini Shiba
+platform: BNB
+platform_contract: '0xeb35acbd23cf9d1c13d276815b9969effc5c878f'

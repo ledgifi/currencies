@@ -5,3 +5,5 @@ id_nomics: SOVRBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOVRBTC.png
 logoKey: currencies/sovrbtc.png
 name: Sovryn
+platform: RBTC
+platform_contract: '0xefc78fc7d48b64958315949279ba181c2114abbd'

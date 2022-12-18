@@ -3,3 +3,5 @@ fiat: false
 id: PHPX
 id_nomics: PHPX
 name: Philippine Peso Exchange
+platform: BNB
+platform_contract: '0x4e9ae652b7e4ec2427f6c263684c8c1a7564e4fc'

@@ -5,3 +5,5 @@ id_nomics: BLO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLO.png
 logoKey: currencies/blo.png
 name: Blok
+platform: ETH
+platform_contract: '0x8426d0dc03335d4a391bf4cf7fe546ff89549de4'

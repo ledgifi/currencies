@@ -3,3 +3,5 @@ fiat: false
 id: BTCINVEST
 id_nomics: BTCINVEST
 name: ChangeInvest
+platform: ETH
+platform_contract: '0x6a3eec53900f5e6076745b5718cd0f5ffbe1684f'

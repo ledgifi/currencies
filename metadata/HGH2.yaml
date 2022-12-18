@@ -5,3 +5,5 @@ id_nomics: HGH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HGH2.jpg
 logoKey: currencies/hgh2.jpg
 name: HedGeHog
+platform: BNB
+platform_contract: '0x0a740003884c7576fe2adc4c4214cdf88c514697'

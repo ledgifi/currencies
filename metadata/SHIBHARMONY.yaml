@@ -5,3 +5,5 @@ id_nomics: SHIBHARMONY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBHARMONY.jpeg
 logoKey: currencies/shibharmony.jpeg
 name: SHIBA Harmony
+platform: HARMONY
+platform_contract: '0x3f1a9ff6ca891bc30e815390097a1d94f9812171'

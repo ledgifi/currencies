@@ -5,3 +5,5 @@ id_nomics: NET2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NET2.png
 logoKey: currencies/net2.png
 name: Next
+platform: ETH
+platform_contract: '0xf29226914595052a04f5afbe6410d0c3ed707548'

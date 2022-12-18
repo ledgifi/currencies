@@ -5,3 +5,5 @@ id_nomics: ADX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADX3.jpg
 logoKey: currencies/adx3.jpg
 name: Addax
+platform: BNB
+platform_contract: '0xce666d0e507c5f2afe0671ee29a99cfa97954c48'

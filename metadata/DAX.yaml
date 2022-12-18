@@ -6,3 +6,5 @@ id_nomics: DAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAX.png
 logoKey: currencies/dax.png
 name: DAEX
+platform: ETH
+platform_contract: '0x0b4bdc478791897274652dc15ef5c135cae61e60'

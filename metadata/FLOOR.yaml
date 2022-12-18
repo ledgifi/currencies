@@ -3,3 +3,5 @@ fiat: false
 id: FLOOR
 id_nomics: FLOOR
 name: PUNK Floor
+platform: ETH
+platform_contract: '0xb35ed5c39f371f2cd4bc2edab1f8da314168186a'

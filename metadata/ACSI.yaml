@@ -6,3 +6,5 @@ id_nomics: ACSI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACSI.jpg
 logoKey: currencies/acsi.jpg
 name: ACryptoSI
+platform: BNB
+platform_contract: '0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389'

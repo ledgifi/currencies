@@ -5,3 +5,5 @@ id_nomics: SCAMMEDIUM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCAMMEDIUM.jpg
 logoKey: currencies/scammedium.jpg
 name: Scammedium
+platform: ETH
+platform_contract: '0x98f9df7ad11ee79377e8b0be8680eda0dad35400'

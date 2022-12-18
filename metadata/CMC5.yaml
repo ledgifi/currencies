@@ -5,3 +5,5 @@ id_nomics: CMC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CMC5.jpg
 logoKey: currencies/cmc5.jpg
 name: CroMatic
+platform: CRO
+platform_contract: '0xa87d540D92567c5f4711319b7216AC726e34D912'

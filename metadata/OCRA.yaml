@@ -6,3 +6,5 @@ id_nomics: OCRA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCRA.jpg
 logoKey: currencies/ocra.jpg
 name: OCRA
+platform: BNB
+platform_contract: '0x87d91c5ded6ff042f8a723c9bf318a62ae804338'

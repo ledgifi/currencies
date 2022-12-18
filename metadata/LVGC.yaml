@@ -5,3 +5,5 @@ id_nomics: LVGC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LVGC.jpg
 logoKey: currencies/lvgc.jpg
 name: Livag Coin
+platform: BNB
+platform_contract: '0x0b41856b03b7f86ce1154d9a55c1dfcfaff4c972'

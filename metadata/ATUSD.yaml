@@ -5,3 +5,5 @@ id_nomics: ATUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATUSD.jpg
 logoKey: currencies/atusd.jpg
 name: Aave TUSD v1
+platform: ETH
+platform_contract: '0x4da9b813057d04baef4e5800e36083717b4a0341'

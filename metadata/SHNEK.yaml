@@ -6,3 +6,5 @@ id_nomics: SHNEK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHNEK.jpeg
 logoKey: currencies/shnek.jpeg
 name: Rainbow Shibaneko
+platform: BNB
+platform_contract: '0x54d54c98b00c575907d7e6bebe082cbed42ea775'

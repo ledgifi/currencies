@@ -5,3 +5,5 @@ id_nomics: SPW4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPW4.jpg
 logoKey: currencies/spw4.jpg
 name: Spaceship War
+platform: BNB
+platform_contract: '0x1b23340f5221fbd2e14f36e5b3e5d833d4d215b5'

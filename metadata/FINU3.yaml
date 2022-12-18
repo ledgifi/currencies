@@ -5,3 +5,5 @@ id_nomics: FINU3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FINU3.jpg
 logoKey: currencies/finu3.jpg
 name: FireInu
+platform: ETH
+platform_contract: '0x60582805620370818967b32dc8cd709195b72fab'

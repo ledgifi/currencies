@@ -5,3 +5,5 @@ id_nomics: JIGSAW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JIGSAW.jpg
 logoKey: currencies/jigsaw.jpg
 name: Jigsaw
+platform: BNB
+platform_contract: '0x35e446a313369f2cca5592e62db9edbb23233dd2'

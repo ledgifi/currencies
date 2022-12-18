@@ -6,3 +6,5 @@ id_nomics: SCUDO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCUDO.jpg
 logoKey: currencies/scudo.jpg
 name: ScudoCash
+platform: ETH
+platform_contract: '0xb0cc5610e590eb7215bf4d69eca2ca26b6a9bc87'

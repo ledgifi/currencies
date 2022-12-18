@@ -5,3 +5,5 @@ id_nomics: AWF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AWF.jpg
 logoKey: currencies/awf.jpg
 name: Alpha Wolf
+platform: ETH
+platform_contract: '0x0342ac5dfad866985dde477caa85027a3c01a334'

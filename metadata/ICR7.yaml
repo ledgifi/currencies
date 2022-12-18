@@ -5,3 +5,5 @@ id_nomics: ICR7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICR7.png
 logoKey: currencies/icr7.png
 name: Icon Cristiano Ronaldo
+platform: BNB
+platform_contract: '0x8B547c31dCb30E5978254d917252d77389F8445e'

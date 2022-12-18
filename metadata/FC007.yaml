@@ -5,3 +5,5 @@ id_nomics: FC007
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FC007.png
 logoKey: currencies/fc007.png
 name: Friendcoin007
+platform: ETH
+platform_contract: '0x35f82caa11c2459e179bc8102cce439d77c8ef25'

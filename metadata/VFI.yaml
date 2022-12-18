@@ -5,3 +5,5 @@ id_nomics: VFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VFI.jpg
 logoKey: currencies/vfi.jpg
 name: VN.Finance
+platform: ETH
+platform_contract: '0x44001a5656baafa5a3359ced8fa38e150a71eea2'

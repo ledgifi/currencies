@@ -3,3 +3,5 @@ fiat: false
 id: WKBD
 id_nomics: WKBD
 name: WKBD
+platform: HT
+platform_contract: '0x40101e25e3bd8d377e876924a0f7aa1aa67f1f68'

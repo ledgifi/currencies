@@ -3,3 +3,5 @@ fiat: false
 id: SRERC20
 id_nomics: SRERC20
 name: SimpleERC20
+platform: MATIC
+platform_contract: '0xcb6f356fb0b7bb57daa6ac96b40c667455bf35a2'

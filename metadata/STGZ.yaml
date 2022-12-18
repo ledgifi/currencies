@@ -6,3 +6,5 @@ id_nomics: STGZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STGZ.jpg
 logoKey: currencies/stgz.jpg
 name: Stargaze Protocol
+platform: ETH
+platform_contract: '0xa9a8377287ea9c6b8b4249dd502e75d34148fc5b'

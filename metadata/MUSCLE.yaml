@@ -5,3 +5,5 @@ id_nomics: MUSCLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MUSCLE.jpg
 logoKey: currencies/muscle.jpg
 name: Muscle Token
+platform: BNB
+platform_contract: '0xa64912625996d9084dc73052d0efce13f713599b'

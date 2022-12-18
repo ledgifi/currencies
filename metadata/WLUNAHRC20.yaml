@@ -5,3 +5,5 @@ id_nomics: WLUNAHRC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WLUNAHRC20.jpg
 logoKey: currencies/wlunahrc20.jpg
 name: Wrapped LUNA (Harmony)
+platform: HARMONY
+platform_contract: '0x95ce547d730519a90def30d647f37d9e5359b6ae'

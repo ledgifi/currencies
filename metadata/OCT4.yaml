@@ -5,3 +5,5 @@ id_nomics: OCT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCT4.jpg
 logoKey: currencies/oct4.jpg
 name: Octopus Network
+platform: ETH
+platform_contract: '0xf5cfbc74057c610c8ef151a439252680ac68c6dc'

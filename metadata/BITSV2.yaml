@@ -3,3 +3,5 @@ fiat: false
 id: BITSV2
 id_nomics: BITSV2
 name: Bits V2
+platform: MATIC
+platform_contract: '0x0939e9344d7f4d6143d4cf207423ddbc61254148'

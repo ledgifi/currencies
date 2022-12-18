@@ -6,3 +6,5 @@ id_nomics: ASY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASY.jpg
 logoKey: currencies/asy.jpg
 name: ASYAGRO
+platform: ETH
+platform_contract: '0x017b584acfd16d767541ae9e80cdc702f4527b0b'

@@ -3,3 +3,5 @@ fiat: false
 id: FLOKICB
 id_nomics: FLOKICB
 name: Floki Classic Burn
+platform: ETH
+platform_contract: '0x56f7c040cedefe5069dac09dd54c0f37b89dca7b'

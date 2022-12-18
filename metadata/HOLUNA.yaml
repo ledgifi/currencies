@@ -5,3 +5,5 @@ id_nomics: HOLUNA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOLUNA.jpg
 logoKey: currencies/holuna.jpg
 name: Homeless Luna
+platform: BNB
+platform_contract: '0xcb9f2c4294ccc2122cf0d78d8f7554a985d423a7'

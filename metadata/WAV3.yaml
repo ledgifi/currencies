@@ -6,3 +6,5 @@ id_nomics: WAV3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAV3.jpg
 logoKey: currencies/wav3.jpg
 name: WAV3
+platform: ETH
+platform_contract: '0x14c38e90a593b0bd5b7e9896a8ef4ae0a119d6ae'

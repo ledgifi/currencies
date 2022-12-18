@@ -5,3 +5,5 @@ id_nomics: IRISHRC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IRISHRC20.PNG
 logoKey: currencies/irishrc20.png
 name: Iris (Harmony)
+platform: HARMONY
+platform_contract: '0x85FD5f8dBD0c9Ef1806E6c7d4B787d438621C1dC'

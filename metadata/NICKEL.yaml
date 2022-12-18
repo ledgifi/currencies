@@ -5,3 +5,5 @@ id_nomics: NICKEL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NICKEL.jpg
 logoKey: currencies/nickel.jpg
 name: Nickel
+platform: ETH
+platform_contract: '0xc4895f94340f30fc126d1149d6cbd4a5fea50890'

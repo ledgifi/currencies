@@ -5,3 +5,5 @@ id_nomics: CAPRA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAPRA.png
 logoKey: currencies/capra.png
 name: Capra Falconeri
+platform: BNB
+platform_contract: '0x31Ec919e42cd61ca0869b3812F7D26af744fe4e6'

@@ -6,3 +6,5 @@ id_nomics: A5T
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/A5T.jpg
 logoKey: currencies/a5t.jpg
 name: Alpha5
+platform: ETH
+platform_contract: '0xe8272210954ea85de6d2ae739806ab593b5d9c51'

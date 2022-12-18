@@ -3,3 +3,5 @@ fiat: false
 id: DPTOKEN
 id_nomics: DPTOKEN
 name: DPToken
+platform: BNB
+platform_contract: '0x625fb8338eef2606c2c3ad1346c1610e0afed52d'

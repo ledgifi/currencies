@@ -5,3 +5,5 @@ id_nomics: XZAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XZAR.jpg
 logoKey: currencies/xzar.jpg
 name: 0xZAR
+platform: ETH
+platform_contract: '0x34b85a27ef6f06c536d8e549b9aac66bd8af3335'

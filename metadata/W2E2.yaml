@@ -5,3 +5,5 @@ id_nomics: W2E2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/W2E2.png
 logoKey: currencies/w2e2.png
 name: Watch 2 Earn
+platform: BNB
+platform_contract: '0x758a0B120ac6052ABd52143D4095B6815f22A3Ed'

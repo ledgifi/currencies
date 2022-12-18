@@ -3,3 +3,5 @@ fiat: false
 id: ETHEX
 id_nomics: ETHEX
 name: Ethereum Extra
+platform: ETH
+platform_contract: '0x4321d28b9fcfad1b5ec584973f01abdcc34ec1bf'

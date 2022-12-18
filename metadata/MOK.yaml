@@ -6,3 +6,5 @@ id_nomics: MOK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOK.jpg
 logoKey: currencies/mok.jpg
 name: MocktailSwap
+platform: BNB
+platform_contract: '0xca69c118fa550387794d48900a866891217e5c9f'

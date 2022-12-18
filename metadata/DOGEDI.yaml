@@ -6,3 +6,5 @@ id_nomics: DOGEDI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEDI.png
 logoKey: currencies/dogedi.png
 name: DOGEDI
+platform: BNB
+platform_contract: '0xdc49d53330317cbc6924fa53042e0c9bca0a8d63'

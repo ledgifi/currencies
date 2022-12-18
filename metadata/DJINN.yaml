@@ -3,3 +3,5 @@ fiat: false
 id: DJINN
 id_nomics: DJINN
 name: Djinn Gold
+platform: BNB
+platform_contract: '0x24eacca1086f2904962a32732590f27ca45d1d99'

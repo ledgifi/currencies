@@ -5,3 +5,5 @@ id_nomics: SHIBXPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBXPOS.jpeg
 logoKey: currencies/shibxpos.jpeg
 name: Shibex (Polygon)
+platform: MATIC
+platform_contract: '0xe04e81331bdcbfbf2d1342714812d546a55cb6dc'

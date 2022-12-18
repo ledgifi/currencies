@@ -5,3 +5,5 @@ id_nomics: SAFETOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFETOKEN.jpg
 logoKey: currencies/safetoken.jpg
 name: SafeToken
+platform: BNB
+platform_contract: '0x31045e7023e6c388f9447e632a3f9eaff90393fa'

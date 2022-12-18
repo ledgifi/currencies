@@ -5,3 +5,5 @@ id_nomics: LUXPAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUXPAD.jpg
 logoKey: currencies/luxpad.jpg
 name: Luxpad
+platform: BNB
+platform_contract: '0xfa119b4610b8930dfeeb86c1cdc06d816bc872c2'

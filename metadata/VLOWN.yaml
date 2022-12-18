@@ -5,3 +5,5 @@ id_nomics: VLOWN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VLOWN.jpg
 logoKey: currencies/vlown.jpg
 name: Vlow Network
+platform: BNB
+platform_contract: '0x3a908df64d6f6f8d055d33aa32265eb9ac2be7d5'

@@ -3,3 +3,5 @@ fiat: false
 id: KRAKEN
 id_nomics: KRAKEN
 name: Krakencoin
+platform: ETH
+platform_contract: '0xe0737b684f749345980b6807b60c6d55875535d9'

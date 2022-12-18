@@ -5,3 +5,5 @@ id_nomics: MCHPCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCHPCX.jpg
 logoKey: currencies/mchpcx.jpg
 name: Microchip Technology Incorporated Token
+platform: ETH
+platform_contract: '0x3a6dbec0218284037e8364121a5b79883d5d6f94'

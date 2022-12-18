@@ -5,3 +5,5 @@ id_nomics: WGL3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WGL3.jpg
 logoKey: currencies/wgl3.jpg
 name: Wiggly Finance (BEP-20)
+platform: BNB
+platform_contract: '0xe5625bafceaf7c5a2ea29c8d377f1808c6cc3ac0'

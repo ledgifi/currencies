@@ -5,3 +5,5 @@ id_nomics: HINU6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HINU6.png
 logoKey: currencies/hinu6.png
 name: Hachi Inu
+platform: BNB
+platform_contract: '0xc78319add6dc0037788008587194e7111be81e3f'

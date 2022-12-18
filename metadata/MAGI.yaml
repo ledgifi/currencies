@@ -6,3 +6,5 @@ id_nomics: MAGI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAGI.jpg
 logoKey: currencies/magi.jpg
 name: Magikarp Finance
+platform: BNB
+platform_contract: '0xc603b1fba6a5b502be4f1ab27591bf4e75a3460c'

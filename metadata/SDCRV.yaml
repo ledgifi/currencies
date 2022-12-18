@@ -3,3 +3,5 @@ fiat: false
 id: SDCRV
 id_nomics: SDCRV
 name: Stake DAO CRV
+platform: ETH
+platform_contract: '0xd1b5651e55d4ceed36251c61c50c889b36f6abb5'

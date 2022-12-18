@@ -6,3 +6,5 @@ id_nomics: BIKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIKI.png
 logoKey: currencies/biki.png
 name: BIKI
+platform: ETH
+platform_contract: '0x70debcdab2ef20be3d1dbff6a845e9ccb6e46930'

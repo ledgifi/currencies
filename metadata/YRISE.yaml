@@ -6,3 +6,5 @@ id_nomics: YRISE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YRISE.jpg
 logoKey: currencies/yrise.jpg
 name: yRise Finance
+platform: ETH
+platform_contract: '0x6051c1354ccc51b4d561e43b02735deae64768b8'

@@ -5,3 +5,5 @@ id_nomics: CPS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CPS3.jpg
 logoKey: currencies/cps3.jpg
 name: Clupos
+platform: BNB
+platform_contract: '0xE7994b54bb5F3fc185566fcc1386Be5Fae3294dB'

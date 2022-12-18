@@ -6,3 +6,5 @@ id_nomics: INDSHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INDSHIB.jpeg
 logoKey: currencies/indshib.jpeg
 name: Indian Shiba Inu
+platform: BNB
+platform_contract: '0x9babcd3a6f62d9adc709e919d5faa39aa85749fc'

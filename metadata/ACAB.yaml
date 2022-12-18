@@ -5,3 +5,5 @@ id_nomics: ACAB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACAB.jpg
 logoKey: currencies/acab.jpg
 name: ACAB Token
+platform: ETH
+platform_contract: '0xf754620784e797f3681f9f295b2528455d2fc0d0'

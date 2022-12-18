@@ -5,3 +5,5 @@ id_nomics: METAMYTHBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAMYTHBEP20.jpg
 logoKey: currencies/metamythbep20.jpg
 name: MetaMyth (BEP-20)
+platform: BNB
+platform_contract: '0xd86e2c7a51b9aaa01cf1b6888bdaafa491283ee7'

@@ -5,3 +5,5 @@ id_nomics: GAEA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAEA.png
 logoKey: currencies/gaea.png
 name: GAEA Space Polemos
+platform: BNB
+platform_contract: '0x6a5780c13c6359f920a6e2f4cb7f8e43a2b49a8e'

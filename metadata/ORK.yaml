@@ -6,3 +6,5 @@ id_nomics: ORK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORK.jpg
 logoKey: currencies/ork.jpg
 name: Orakuru
+platform: BNB
+platform_contract: '0xced0ce92f4bdc3c2201e255faf12f05cf8206da8'

@@ -3,3 +3,5 @@ fiat: false
 id: XB
 id_nomics: XB
 name: XBANKING
+platform: ETH
+platform_contract: '0x67b0928f8025d8548a4475a80c5444aa8087fdbe'

@@ -5,3 +5,5 @@ id_nomics: EGG6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EGG6.jpg
 logoKey: currencies/egg6.jpg
 name: LoserChick EGG
+platform: MATIC
+platform_contract: '0x245e5ddb65efea6522fa913229df1f4957fb2e21'

@@ -5,3 +5,5 @@ id_nomics: BABYDOGE4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYDOGE4.jpg
 logoKey: currencies/babydoge4.jpg
 name: Save Baby Doge
+platform: BNB
+platform_contract: '0x43f102bbd52259f2cfd0ef82e8807e3610ae3e40'

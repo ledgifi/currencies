@@ -5,3 +5,5 @@ id_nomics: BSCCLASSIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSCCLASSIC.jpg
 logoKey: currencies/bscclassic.jpg
 name: BSC Classic V2
+platform: BNB
+platform_contract: '0xfe1bc1394a7127f061e957e9c847fab0d8bb20e1'

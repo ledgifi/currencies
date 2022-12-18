@@ -3,3 +3,5 @@ fiat: false
 id: VAIPULS
 id_nomics: VAIPULS
 name: sharkVAipuls
+platform: MATIC
+platform_contract: '0xb1740352d6421f3dfc55fd3064795773c9791d4d'

@@ -6,3 +6,5 @@ id_nomics: SQM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SQM.jpg
 logoKey: currencies/sqm.jpg
 name: Squid Moon
+platform: BNB
+platform_contract: '0x2766cc2537538ac68816b6b5a393fa978a4a8931'

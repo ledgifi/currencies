@@ -5,3 +5,5 @@ id_nomics: OPA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OPA3.jpg
 logoKey: currencies/opa3.jpg
 name: Option Panda Platform
+platform: BNB
+platform_contract: '0xa2f89a3be1bada5eb9d58d23edc2e2fe0f82f4b0'

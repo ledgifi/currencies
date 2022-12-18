@@ -6,3 +6,5 @@ id_nomics: ARIA20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARIA20.jpg
 logoKey: currencies/aria20.jpg
 name: Arianee
+platform: ETH
+platform_contract: '0xedf6568618a00c6f0908bf7758a16f76b6e04af9'

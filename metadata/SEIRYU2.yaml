@@ -5,3 +5,5 @@ id_nomics: SEIRYU2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SEIRYU2.jpg
 logoKey: currencies/seiryu2.jpg
 name: AzureDragon
+platform: ETH
+platform_contract: '0xfcd207acfb9b4f1d5fe9a82964a2c534a3945aa8'

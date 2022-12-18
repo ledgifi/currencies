@@ -3,3 +3,5 @@ fiat: false
 id: POTA
 id_nomics: POTA
 name: PotaCoin
+platform: BNB
+platform_contract: '0xe15115c8b03e0f30b74272d53acb3b6cb8496a96'

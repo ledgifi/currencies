@@ -3,3 +3,5 @@ fiat: false
 id: LUNAM
 id_nomics: LUNAM
 name: LUNA MOON
+platform: ETH
+platform_contract: '0x1bf0c586176fd47b2e6285e4293f8b65bcc8ebff'

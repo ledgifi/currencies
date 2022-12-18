@@ -5,3 +5,5 @@ id_nomics: VIRUS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VIRUS2.png
 logoKey: currencies/virus2.png
 name: VIRUS
+platform: BNB
+platform_contract: '0x6edea79cb6eec521a1e95391c4335b6f2e76d41f'

@@ -5,3 +5,5 @@ id_nomics: BLC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLC2.jpeg
 logoKey: currencies/blc2.jpeg
 name: BullionsChain
+platform: ETH
+platform_contract: '0x326caf6980d4e9161Cfb3c55f195B3D825c266D4'

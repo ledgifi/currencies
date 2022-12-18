@@ -3,3 +3,5 @@ fiat: false
 id: VACUUM
 id_nomics: VACUUM
 name: Empty Space
+platform: ETH
+platform_contract: '0x412befe193e13e6248e56b1160199102d3385601'

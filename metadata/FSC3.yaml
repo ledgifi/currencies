@@ -5,3 +5,5 @@ id_nomics: FSC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FSC3.jpg
 logoKey: currencies/fsc3.jpg
 name: FiestaCoin
+platform: BNB
+platform_contract: '0x4763a42af12a24807b5eb24b48fb8d82ac76f656'

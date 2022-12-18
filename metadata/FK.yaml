@@ -6,3 +6,5 @@ id_nomics: FK
 logo: https://static.coinpaprika.com/coin/fk-fk-coin/logo.png
 logoKey: currencies/fk.png
 name: FK Coin
+platform: ETH
+platform_contract: '0x903d78ca7d892e4518586d0b64f418bd4ca9a82d'

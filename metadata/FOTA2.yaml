@@ -5,3 +5,5 @@ id_nomics: FOTA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOTA2.png
 logoKey: currencies/fota2.png
 name: Fight Of The Ages
+platform: BNB
+platform_contract: '0x0A4E1BdFA75292A98C15870AeF24bd94BFFe0Bd4'

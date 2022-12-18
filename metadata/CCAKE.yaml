@@ -6,3 +6,5 @@ id_nomics: CCAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CCAKE.png
 logoKey: currencies/ccake.png
 name: CheesecakeSwap
+platform: BNB
+platform_contract: '0xc7091aa18598b87588e37501b6ce865263cd67ce'

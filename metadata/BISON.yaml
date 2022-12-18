@@ -6,3 +6,5 @@ id_nomics: BISON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BISON.jpg
 logoKey: currencies/bison.jpg
 name: BiShares
+platform: BNB
+platform_contract: '0x19a6da6e382b85f827088092a3dbe864d9ccba73'

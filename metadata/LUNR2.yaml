@@ -5,3 +5,5 @@ id_nomics: LUNR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUNR2.jpg
 logoKey: currencies/lunr2.jpg
 name: Lunareum
+platform: BNB
+platform_contract: '0xACA52dC7a1dD1fb7AFB6e16bbFa819E8e0690C1e'

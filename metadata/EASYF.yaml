@@ -5,3 +5,5 @@ id_nomics: EASYF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EASYF.png
 logoKey: currencies/easyf.png
 name: EasyFeedback V2
+platform: ETH
+platform_contract: '0x9917A9DaD884Ab5823b00b1fA127DE1972fec9CD'

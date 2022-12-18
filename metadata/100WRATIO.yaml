@@ -5,3 +5,5 @@ id_nomics: 100WRATIO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/100WRATIO.png
 logoKey: currencies/100wratio.png
 name: 100 Waves ETH/BTC Set
+platform: ETH
+platform_contract: '0x07509c281b55a1675d3f71f1c4ab67829eb731d3'

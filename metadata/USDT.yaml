@@ -8,3 +8,5 @@ id_nomics: USDT
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/usdt.svg
 logoKey: currencies/usdt.svg
 name: Tether
+platform: ETH
+platform_contract: '0xdac17f958d2ee523a2206206994597c13d831ec7'

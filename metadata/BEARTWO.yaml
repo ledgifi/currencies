@@ -5,3 +5,5 @@ id_nomics: BEARTWO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEARTWO.jpg
 logoKey: currencies/beartwo.jpg
 name: Bear Two
+platform: BNB
+platform_contract: '0xda4c06ca48f20086159332edceb98e8cfaafe802'

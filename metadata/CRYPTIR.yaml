@@ -5,3 +5,5 @@ id_nomics: CRYPTIR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRYPTIR.png
 logoKey: currencies/cryptir.png
 name: Cryptir
+platform: BNB
+platform_contract: '0xb4b38675b4cf3027987262bc873481281ad10969'

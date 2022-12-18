@@ -5,3 +5,5 @@ id_nomics: CRCL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRCL2.jpg
 logoKey: currencies/crcl2.jpg
 name: CRCL Token
+platform: ETH
+platform_contract: '0x8e9c3b0e535d261f5e9a1eda43ee4836ca20795a'

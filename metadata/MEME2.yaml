@@ -5,3 +5,5 @@ id_nomics: MEME2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEME2.jpg
 logoKey: currencies/meme2.jpg
 name: Meme
+platform: ETH
+platform_contract: '0xd5525d397898e5502075ea5e830d8914f6f0affe'

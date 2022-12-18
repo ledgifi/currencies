@@ -3,3 +3,5 @@ fiat: false
 id: PROMETHEUS
 id_nomics: PROMETHEUS
 name: Prometheus
+platform: AVAX
+platform_contract: '0x7f39ed9bf29952b6ba1197bbf3ad136ee8791628'

@@ -5,3 +5,5 @@ id_nomics: PRL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRL2.jpg
 logoKey: currencies/prl2.jpg
 name: The Parallel
+platform: BNB
+platform_contract: '0xd07e82440a395f3f3551b42da9210cd1ef4f8b24'

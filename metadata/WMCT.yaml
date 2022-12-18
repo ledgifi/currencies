@@ -3,3 +3,5 @@ fiat: false
 id: WMCT
 id_nomics: WMCT
 name: Wrapped MCT
+platform: BNB
+platform_contract: '0x5b2c6e1b7174139f971aed4f5fabed05220f53bb'

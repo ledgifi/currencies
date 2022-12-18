@@ -3,3 +3,5 @@ fiat: false
 id: ETHMR
 id_nomics: ETHMR
 name: Ethereum Master Race
+platform: ETH
+platform_contract: '0x3fd1148ff44befa31cc81265f55acbaa55712fd8'

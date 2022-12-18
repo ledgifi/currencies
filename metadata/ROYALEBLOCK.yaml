@@ -5,3 +5,5 @@ id_nomics: ROYALEBLOCK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROYALEBLOCK.png
 logoKey: currencies/royaleblock.png
 name: Royale Block
+platform: BNB
+platform_contract: '0xb9b3962561cd9687efb8340436086c230a52b8a9'

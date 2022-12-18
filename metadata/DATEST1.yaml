@@ -3,3 +3,5 @@ fiat: false
 id: DATEST1
 id_nomics: DATEST1
 name: dontapeTest1
+platform: BNB
+platform_contract: '0x2b7b0119a315b3c584ec303b2a877764152ea64a'

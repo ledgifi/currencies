@@ -5,3 +5,5 @@ id_nomics: UP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UP3.jpg
 logoKey: currencies/up3.jpg
 name: UpToken
+platform: ETH
+platform_contract: '0x6ba460ab75cd2c56343b3517ffeba60748654d26'

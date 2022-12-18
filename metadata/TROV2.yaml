@@ -5,3 +5,5 @@ id_nomics: TROV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TROV2.jpg
 logoKey: currencies/trov2.jpg
 name: Tro.Network V2
+platform: ETH
+platform_contract: '0x9d255e9e8175960223667e76c4a35a6eff0c43cd'

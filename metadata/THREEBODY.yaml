@@ -3,3 +3,5 @@ fiat: false
 id: THREEBODY
 id_nomics: THREEBODY
 name: Three-Body
+platform: BNB
+platform_contract: '0x24c78e5ddf7576f6e0bc6be9c4db0fb043e34624'

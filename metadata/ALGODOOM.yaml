@@ -3,3 +3,5 @@ fiat: false
 id: ALGODOOM
 id_nomics: ALGODOOM
 name: 10X Short Algorand Token
+platform: ETH
+platform_contract: '0x9281c548c6d107aea807b87a776da045f71fa193'

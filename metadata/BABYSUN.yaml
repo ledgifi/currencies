@@ -6,3 +6,5 @@ id_nomics: BABYSUN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYSUN.jpg
 logoKey: currencies/babysun.jpg
 name: BabySun
+platform: BNB
+platform_contract: '0xca40882bec9b7e77401652e6d0bfec9c168bb56b'

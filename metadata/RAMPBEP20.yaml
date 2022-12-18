@@ -5,3 +5,5 @@ id_nomics: RAMPBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAMPBEP20.jpg
 logoKey: currencies/rampbep20.jpg
 name: Ramp DeFi (BEP-20)
+platform: BNB
+platform_contract: '0x8519ea49c997f50ceffa444d240fb655e89248aa'

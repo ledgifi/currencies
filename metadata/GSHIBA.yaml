@@ -6,3 +6,5 @@ id_nomics: GSHIBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GSHIBA.jpg
 logoKey: currencies/gshiba.jpg
 name: Gambler Shiba
+platform: ETH
+platform_contract: '0xb892249939adbf6d7851864ca9a5c7d2d537af97'

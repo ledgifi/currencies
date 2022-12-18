@@ -5,3 +5,5 @@ id_nomics: SITX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SITX.png
 logoKey: currencies/sitx.png
 name: Sport Investing
+platform: BNB
+platform_contract: '0x492a5dad5db7b8f3ccf9c77d01f33f142b229b2b'

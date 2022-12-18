@@ -5,3 +5,5 @@ id_nomics: CRACK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRACK2.png
 logoKey: currencies/crack2.png
 name: Crack Token
+platform: BNB
+platform_contract: '0x57f8e6e36e11ec1c4c78fb3623aee6dd1d333c2f'

@@ -5,3 +5,5 @@ id_nomics: SHR5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHR5.jpg
 logoKey: currencies/shr5.jpg
 name: SHREE
+platform: BNB
+platform_contract: '0xbaea100c5f47458e632462520e1e9cb5eec78f49'

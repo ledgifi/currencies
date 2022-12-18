@@ -5,3 +5,5 @@ id_nomics: CYFM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/cyfm.png
 logoKey: currencies/cyfm.png
 name: CyberFM Radio
+platform: ETH
+platform_contract: '0x4a621d9f1b19296d1c0f87637b3a8d4978e9bf82'

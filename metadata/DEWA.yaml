@@ -5,3 +5,5 @@ id_nomics: DEWA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEWA.png
 logoKey: currencies/dewa.png
 name: DewaCoin
+platform: BNB
+platform_contract: '0xd5725238793fa6a371325103a85341e403da2542'

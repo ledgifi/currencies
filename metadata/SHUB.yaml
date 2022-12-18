@@ -3,3 +3,5 @@ fiat: false
 id: SHUB
 id_nomics: SHUB
 name: 鼠币
+platform: HT
+platform_contract: '0x12846ef366b28f0a0059e868a20970ed9fcc5e6e'

@@ -5,3 +5,5 @@ id_nomics: FEEL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FEEL2.jpeg
 logoKey: currencies/feel2.jpeg
 name: FeelCoin
+platform: BNB
+platform_contract: '0x5a66ae4ad63008ea8874bb6f4de4de5bef8d9a21'

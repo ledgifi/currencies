@@ -5,3 +5,5 @@ id_nomics: HSWAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HSWAP.png
 logoKey: currencies/hswap.png
 name: HippowSwap
+platform: ETHW2
+platform_contract: '0x08AF02e0A2Ff52f26534c96bFba3aA1F38b26865'

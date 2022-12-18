@@ -5,3 +5,5 @@ id_nomics: WHENLAMBO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WHENLAMBO.jpg
 logoKey: currencies/whenlambo.jpg
 name: WhenLambo
+platform: BNB
+platform_contract: '0xe03495fca9e644d55b65c30ed9fdc3321c260126'

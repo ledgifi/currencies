@@ -5,3 +5,5 @@ id_nomics: MLNX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MLNX.png
 logoKey: currencies/mlnx.png
 name: MELONx
+platform: BNB
+platform_contract: '0xf28709f1daa6cee2847c5b9526ceba457331742b'

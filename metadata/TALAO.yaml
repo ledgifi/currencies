@@ -6,3 +6,5 @@ id_nomics: TALAO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TALAO.png
 logoKey: currencies/talao.png
 name: TALAO
+platform: ETH
+platform_contract: '0x1d4ccc31dab6ea20f461d329a0562c1c58412515'

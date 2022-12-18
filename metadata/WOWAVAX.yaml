@@ -5,3 +5,5 @@ id_nomics: WOWAVAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOWAVAX.jpg
 logoKey: currencies/wowavax.jpg
 name: WOWswap (Avalanche)
+platform: AVAX
+platform_contract: '0xa384bc7cdc0a93e686da9e7b8c0807cd040f4e0b'

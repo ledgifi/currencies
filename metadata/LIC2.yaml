@@ -5,3 +5,5 @@ id_nomics: LIC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIC2.png
 logoKey: currencies/lic2.png
 name: Lincoln Crypto Token
+platform: BNB
+platform_contract: '0x1459eede928ad91560d53163e0cc01e6776b96b0'

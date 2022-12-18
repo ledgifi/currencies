@@ -3,3 +3,5 @@ fiat: false
 id: STADA
 id_nomics: STADA
 name: Ada Asset
+platform: BNB
+platform_contract: '0x11cdf042e1234ee4eead4657215a17d41733f485'

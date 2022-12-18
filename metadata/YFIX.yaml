@@ -6,3 +6,5 @@ id_nomics: YFIX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFIX.jpg
 logoKey: currencies/yfix.jpg
 name: YFIX Finance
+platform: ETH
+platform_contract: '0xa4f779074850d320b5553c9db5fc6a8ab15bd34a'

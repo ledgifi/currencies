@@ -6,3 +6,5 @@ id_nomics: GMFLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMFLOKI.jpg
 logoKey: currencies/gmfloki.jpg
 name: GM Floki
+platform: BNB
+platform_contract: '0x7a9a219a23b3a9f748f087b033af397fbf16030c'

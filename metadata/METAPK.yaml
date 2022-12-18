@@ -5,3 +5,5 @@ id_nomics: METAPK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAPK.png
 logoKey: currencies/metapk.png
 name: Meta Pocket
+platform: BNB
+platform_contract: '0x44690f7c8e56430eb6bfc7c1071da67b27c76242'

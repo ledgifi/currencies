@@ -5,3 +5,5 @@ id_nomics: XKNCA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XKNCA.png
 logoKey: currencies/xknca.png
 name: xKNCa
+platform: ETH
+platform_contract: '0x0bfec35a1a3550deed3f6fc76dde7fc412729a91'

@@ -5,3 +5,5 @@ id_nomics: AOT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AOT2.jpg
 logoKey: currencies/aot2.jpg
 name: Age Of Tanks
+platform: BNB
+platform_contract: '0x9589014f7a8547b89a6331eeee32b7fbd5852af9'

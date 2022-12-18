@@ -5,3 +5,5 @@ id_nomics: DOSA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOSA.png
 logoKey: currencies/dosa.png
 name: Dosa
+platform: ETH
+platform_contract: '0xee2b297408063e0967096bafdcfd1278d5bf1b8a'

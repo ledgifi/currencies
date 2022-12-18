@@ -3,3 +3,5 @@ fiat: false
 id: IDASH
 id_nomics: IDASH
 name: iDASH
+platform: ETH
+platform_contract: '0xcb98f42221b2c251a4e74a1609722ee09f0cc08e'

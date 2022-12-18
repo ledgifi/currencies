@@ -3,3 +3,5 @@ fiat: false
 id: CWT
 id_nomics: CWT
 name: CoinWord Token
+platform: ETH
+platform_contract: '0x8ec7740a73b1bf8d72d471dfe63a34f81f50a118'

@@ -6,3 +6,5 @@ id_nomics: CRN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/crn.jpg
 logoKey: currencies/crn.jpg
 name: ChronoCoin
+platform: NEO
+platform_contract: c875e3e1a9f7ba1291aea40cead371754dfcb3de

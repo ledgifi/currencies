@@ -6,3 +6,5 @@ id_nomics: VOLT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VOLT2.jpg
 logoKey: currencies/volt.jpg
 name: Voltage
+platform: ETH
+platform_contract: '0xffbf315f70e458e49229654dea4ce192d26f9b25'

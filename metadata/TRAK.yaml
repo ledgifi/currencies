@@ -6,3 +6,5 @@ id_nomics: TRAK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/trak.jpg
 logoKey: currencies/trak.jpg
 name: TrakInvest
+platform: ETH
+platform_contract: '0x12759512d326303b45f1cec8f7b6fd96f387778e'

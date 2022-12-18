@@ -5,3 +5,5 @@ id_nomics: FGS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FGS.jpeg
 logoKey: currencies/fgs.jpeg
 name: Freshgainstein
+platform: BNB
+platform_contract: '0x2e89b603beb8abb475359547517dd5dcc4e88a8f'

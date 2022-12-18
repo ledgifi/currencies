@@ -6,3 +6,5 @@ id_nomics: NERDY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NERDY.jpg
 logoKey: currencies/nerdy.jpg
 name: Nerdy Inu
+platform: ETH
+platform_contract: '0x5b0f6ad5875da96ac224ba797c6f362f4c3a2b3b'

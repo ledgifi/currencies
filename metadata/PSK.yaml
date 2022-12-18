@@ -6,3 +6,5 @@ id_nomics: PSK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PSK.jpg
 logoKey: currencies/psk.jpg
 name: Pool of Stake
+platform: ETH
+platform_contract: '0x1c5f43710a1776b0ea7191b7ead75d4b98d69858'

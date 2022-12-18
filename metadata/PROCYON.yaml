@@ -5,3 +5,5 @@ id_nomics: PROCYON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PROCYON.png
 logoKey: currencies/procyon.png
 name: ProcyonSwap
+platform: FTM
+platform_contract: '0xc9cEE4fC03dA818b95D6abb9B0AA2bD0caFa6Fd0'

@@ -3,3 +3,5 @@ fiat: false
 id: NMBTC
 id_nomics: NMBTC
 name: NMBTC Token
+platform: BNB
+platform_contract: '0x5ddb331c3ba48a1d68cbf50dd3bc7aac407dc115'

@@ -6,3 +6,5 @@ id_nomics: DUNE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUNE.jpg
 logoKey: currencies/dune.jpg
 name: Dune Token
+platform: AVAX
+platform_contract: '0xdd57fa6a38326b5c040a6bfce7a0a7c65588175a'

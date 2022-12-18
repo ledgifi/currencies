@@ -3,3 +3,5 @@ fiat: false
 id: IBVOL
 id_nomics: IBVOL
 name: 1x Short BTC Implied Volatility Token
+platform: ETH
+platform_contract: '0x627e2ee3dbda546e168eaaff25a2c5212e4a95a0'

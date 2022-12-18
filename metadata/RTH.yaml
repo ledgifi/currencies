@@ -6,3 +6,5 @@ id_nomics: RTH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RTH.jpg
 logoKey: currencies/rth.jpg
 name: Rotharium
+platform: ETH
+platform_contract: '0x3fd8f39a962efda04956981c31ab89fab5fb8bc8'

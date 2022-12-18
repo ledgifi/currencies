@@ -5,3 +5,5 @@ id_nomics: DSNX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DSNX.jpg
 logoKey: currencies/dsnx.jpg
 name: SNX Debt Mirror
+platform: ETH
+platform_contract: '0x5f7f94a1dd7b15594d17543beb8b30b111dd464c'

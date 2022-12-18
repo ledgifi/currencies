@@ -6,3 +6,5 @@ id_nomics: DFSOCIAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DFSOCIAL.png
 logoKey: currencies/dfsocial.png
 name: DEFISocial
+platform: ETH
+platform_contract: '0x54ee01beb60e745329e6a8711ad2d6cb213e38d7'

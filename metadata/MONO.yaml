@@ -6,3 +6,5 @@ id_nomics: MONO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MONO.jpeg
 logoKey: currencies/mono.jpeg
 name: The Monopolist
+platform: BNB
+platform_contract: '0xd4099a517f2fbe8a730d2ecaad1d0824b75e084a'

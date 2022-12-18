@@ -3,3 +3,5 @@ fiat: false
 id: DISCOVER
 id_nomics: DISCOVER
 name: Discover
+platform: BNB
+platform_contract: '0x510c53c8862a3a9dc680aee17f8ee0586d8d9e91'

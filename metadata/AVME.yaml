@@ -6,3 +6,5 @@ id_nomics: AVME
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVME.jpg
 logoKey: currencies/avme.jpg
 name: AVME
+platform: AVAX
+platform_contract: '0x1ecd47ff4d9598f89721a2866bfeb99505a413ed'

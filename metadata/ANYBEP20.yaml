@@ -5,3 +5,5 @@ id_nomics: ANYBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANYBEP20.jpg
 logoKey: currencies/anybep20.jpg
 name: Anyswap (BEP-20)
+platform: BNB
+platform_contract: '0xf68c9df95a18b2a5a5fa1124d79eeeffbad0b6fa'

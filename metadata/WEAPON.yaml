@@ -5,3 +5,5 @@ id_nomics: WEAPON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WEAPON.jpg
 logoKey: currencies/weapon.jpg
 name: Megaweapon
+platform: ETH
+platform_contract: '0x3063c77c4ef5c1de185321ae2bc5675e17344f7f'

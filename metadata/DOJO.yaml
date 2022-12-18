@@ -3,3 +3,5 @@ fiat: false
 id: DOJO
 id_nomics: DOJO
 name: Dojo Token
+platform: ETH
+platform_contract: '0x26b75674b1961f7077a91306e89e492786d5fe27'

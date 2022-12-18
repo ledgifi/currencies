@@ -6,3 +6,5 @@ id_nomics: SEPA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SEPA.jpg
 logoKey: currencies/sepa.jpg
 name: Secure Pad
+platform: ETH
+platform_contract: '0x10994aa2fb8e6ba5d9fb2bc127ff228c4fe6167f'

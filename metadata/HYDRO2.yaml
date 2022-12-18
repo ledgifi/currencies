@@ -3,3 +3,5 @@ fiat: false
 id: HYDRO2
 id_nomics: HYDRO2
 name: Hydro Protocol Token
+platform: MOVR
+platform_contract: '0x56cfe76545939afabc8bdba94192a96801d24d28'

@@ -5,3 +5,5 @@ id_nomics: HONEY6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HONEY6.jpg
 logoKey: currencies/honey6.jpg
 name: Honey Defi
+platform: ETH
+platform_contract: '0x5cb9b847fba8aadb8a943fe19c1cc8439d7e00c5'

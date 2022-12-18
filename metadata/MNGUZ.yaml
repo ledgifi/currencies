@@ -5,3 +5,5 @@ id_nomics: MNGUZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MNGUZ.jpg
 logoKey: currencies/mnguz.jpg
 name: Mangu
+platform: ETH
+platform_contract: '0x66af49ebaeefed6f0f43df48142341391f3f25c1'

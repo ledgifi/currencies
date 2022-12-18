@@ -5,3 +5,5 @@ id_nomics: FBUNNY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FBUNNY.jpg
 logoKey: currencies/fbunny.jpg
 name: FlokiBunny
+platform: ETH
+platform_contract: '0x671cc980634ad411e830922706fc06f429f7c7c7'

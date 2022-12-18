@@ -3,3 +3,5 @@ fiat: false
 id: ASSEMBLE
 id_nomics: ASSEMBLE
 name: Assemble
+platform: BNB
+platform_contract: '0xee1bd92a2349d35cb38bf76378ab09ae315ea7b7'

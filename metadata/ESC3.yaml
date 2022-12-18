@@ -5,3 +5,5 @@ id_nomics: ESC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ESC3.jpg
 logoKey: currencies/esc3.jpg
 name: The Essential Coin
+platform: BNB
+platform_contract: '0x4c48cca6153db911002f965d22fdefcd95f33be9'

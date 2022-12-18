@@ -5,3 +5,5 @@ id_nomics: KPI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KPI2.png
 logoKey: currencies/kpi2.png
 name: Key Performance Indicator
+platform: BNB
+platform_contract: '0x7585f337e497fabe6910a77480c0c7980a815110'

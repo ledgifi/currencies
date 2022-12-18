@@ -5,3 +5,5 @@ id_nomics: VINU4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VINU4.jpeg
 logoKey: currencies/vinu4.jpeg
 name: VigilanteInu
+platform: BNB
+platform_contract: '0x4512884a05a3097bead3d25efec816c4e8dc4049'

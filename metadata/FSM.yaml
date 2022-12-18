@@ -3,3 +3,5 @@ fiat: false
 id: FSM
 id_nomics: FSM
 name: Fantasm FSM
+platform: FTM
+platform_contract: '0xaa621d2002b5a6275ef62d7a065a865167914801'

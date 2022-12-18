@@ -6,3 +6,5 @@ id_nomics: YFIEC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFIEC.jpg
 logoKey: currencies/yfiec.jpg
 name: Yearn Finance Ecosystem
+platform: ETH
+platform_contract: '0x2e6e152d29053b6337e434bc9be17504170f8a5b'

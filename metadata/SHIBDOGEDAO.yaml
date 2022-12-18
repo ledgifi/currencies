@@ -3,3 +3,5 @@ fiat: false
 id: SHIBDOGEDAO
 id_nomics: SHIBDOGEDAO
 name: ShibDoge DAO
+platform: ETH
+platform_contract: '0x100e67e44e7fe0c7f842b63989aada8649274909'

@@ -3,3 +3,5 @@ fiat: false
 id: FUIC
 id_nomics: FUIC
 name: Union coin
+platform: HT
+platform_contract: '0x21a5d4541ea023b6a8b3bb028d92af0ae86bf7d4'

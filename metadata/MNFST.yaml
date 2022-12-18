@@ -6,3 +6,5 @@ id_nomics: MNFST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MNFST.jpg
 logoKey: currencies/mnfst.jpg
 name: Manifest
+platform: ETH
+platform_contract: '0x21585bbcd5bdc3f5737620cf0db2e51978cf60ac'

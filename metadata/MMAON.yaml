@@ -5,3 +5,5 @@ id_nomics: MMAON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MMAON.jpg
 logoKey: currencies/mmaon.jpg
 name: MMAON
+platform: ETH
+platform_contract: '0x8315472bae77f9a2b856a67eb0796480aafcd51c'

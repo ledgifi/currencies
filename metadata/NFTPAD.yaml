@@ -6,3 +6,5 @@ id_nomics: NFTPAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTPAD.jpg
 logoKey: currencies/nftpad.jpg
 name: NFTPad
+platform: BNB
+platform_contract: '0x4a72af9609d22bf2ff227aec333c7d0860f3db36'

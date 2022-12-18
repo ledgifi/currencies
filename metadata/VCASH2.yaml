@@ -3,3 +3,5 @@ fiat: false
 id: VCASH2
 id_nomics: VCASH2
 name: void.cash
+platform: ETH
+platform_contract: '0xf774dbf3144fc8ade7043c7f6634c88cf83140f3'

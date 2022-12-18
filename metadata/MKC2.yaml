@@ -3,3 +3,5 @@ fiat: false
 id: MKC2
 id_nomics: MKC2
 name: MonkeyCoin
+platform: BNB
+platform_contract: '0x92cc2c999ade41c71d1c8136d5b57d12564e045f'

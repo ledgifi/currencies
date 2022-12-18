@@ -5,3 +5,5 @@ id_nomics: DSGN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DSGN.jpg
 logoKey: currencies/dsgn.jpg
 name: Design
+platform: ETH
+platform_contract: '0x537a9095b78517597b5f2058edcd6e1978095909'

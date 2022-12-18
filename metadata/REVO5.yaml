@@ -5,3 +5,5 @@ id_nomics: REVO5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REVO5.jpg
 logoKey: currencies/revo5.jpg
 name: Revorium Network
+platform: BNB
+platform_contract: '0x00c58d6d97b4d2447985f88240a8cef23e5583d9'

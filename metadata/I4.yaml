@@ -5,3 +5,5 @@ id_nomics: I4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/I4.jpg
 logoKey: currencies/i4.jpg
 name: Inspiration 4
+platform: ETH
+platform_contract: '0xb0508a42e9a6edb9d12380f01ad7da7dfcee4384'

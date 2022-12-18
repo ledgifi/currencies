@@ -3,3 +3,5 @@ fiat: false
 id: P125
 id_nomics: P125
 name: P125 Token (PoS)
+platform: MATIC
+platform_contract: '0x83000597e8420ad7e9edd410b2883df1b83823cf'

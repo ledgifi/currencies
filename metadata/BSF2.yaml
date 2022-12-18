@@ -5,3 +5,5 @@ id_nomics: BSF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSF2.png
 logoKey: currencies/bsf2.png
 name: Black Shark Finance
+platform: BNB
+platform_contract: '0x61f98ce2bcf05ef253bb0d9e9f41d16c362d8cc6'

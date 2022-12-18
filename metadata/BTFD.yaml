@@ -5,3 +5,5 @@ id_nomics: BTFD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTFD.jpeg
 logoKey: currencies/btfd.jpeg
 name: BTFD
+platform: ETH
+platform_contract: '0x61111e1211cf71480b295d0c2c90d837e69a5737'

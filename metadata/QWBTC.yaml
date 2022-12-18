@@ -3,3 +3,5 @@ fiat: false
 id: QWBTC
 id_nomics: QWBTC
 name: Quantum Wrapped Bitcoin
+platform: BNB
+platform_contract: '0xce544b7b2c64869fd57c275244c1b5ea95f2f84c'

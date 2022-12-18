@@ -5,3 +5,5 @@ id_nomics: CHIMPY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHIMPY.png
 logoKey: currencies/chimpy.png
 name: ChimpySwap V1 (OLD)
+platform: BNB
+platform_contract: '0x856c0f9bdd671c1fb07eef9b5f01544e35e14a16'

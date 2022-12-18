@@ -5,3 +5,5 @@ id_nomics: NLS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NLS.gif
 logoKey: currencies/nls.gif
 name: Neluns
+platform: ETH
+platform_contract: '0x58f8c2bf72d993093d2e5aa5a1a04e21a5c946e4'

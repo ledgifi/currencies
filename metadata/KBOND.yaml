@@ -5,3 +5,5 @@ id_nomics: KBOND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KBOND.jpg
 logoKey: currencies/kbond.jpg
 name: Klondike Bond
+platform: ETH
+platform_contract: '0xa8c2af8c403704a31f32f0aa70a43e63afcd54d0'

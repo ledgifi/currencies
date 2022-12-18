@@ -5,3 +5,5 @@ id_nomics: CLOUDZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLOUDZ.png
 logoKey: currencies/cloudz.png
 name: CloudZ
+platform: BNB
+platform_contract: '0xce4f90e12a755f51ed109bfe69034929ad90ecce'

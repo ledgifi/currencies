@@ -5,3 +5,5 @@ id_nomics: VETH3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VETH3.jpg
 logoKey: currencies/veth3.jpg
 name: Venus ETH
+platform: BNB
+platform_contract: '0xf508fcd89b8bd15579dc79a6827cb4686a3592c8'

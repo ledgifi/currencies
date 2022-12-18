@@ -5,3 +5,5 @@ id_nomics: CAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAX.png
 logoKey: currencies/cax.png
 name: CALAHEX
+platform: ETH
+platform_contract: '0x377C59Bd50AAB876E41231DEe4339BF8e14C48a9'

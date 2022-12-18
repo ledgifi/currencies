@@ -4,3 +4,5 @@ id: FIDU
 id_nomics: FIDU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIDU.png
 name: Fidu
+platform: ETH
+platform_contract: '0x6a445e9f40e0b97c92d0b8a3366cef1d67f700bf'

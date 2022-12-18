@@ -5,3 +5,5 @@ id_nomics: FANX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FANX.jpg
 logoKey: currencies/fanx.jpg
 name: FANX
+platform: ETH
+platform_contract: '0x7dcb3b2356c822d3577d4d060d0d5d78c860488c'

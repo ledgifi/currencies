@@ -5,3 +5,5 @@ id_nomics: SDVD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SDVD.jpg
 logoKey: currencies/sdvd.jpg
 name: Stock dvd.finance
+platform: ETH
+platform_contract: '0xfc387cdf684f9276370dfae1f7cc13323dc2b1ec'

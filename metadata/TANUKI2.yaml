@@ -5,3 +5,5 @@ id_nomics: TANUKI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TANUKI2.jpg
 logoKey: currencies/tanuki2.jpg
 name: Tanuki Token
+platform: BNB
+platform_contract: '0x9958e4c4def1c596e5d9ace46f1bb9828768c32c'

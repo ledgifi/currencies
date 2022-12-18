@@ -5,3 +5,5 @@ id_nomics: TMT5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TMT5.jpeg
 logoKey: currencies/tmt5.jpeg
 name: FarmersOnly's Tomato Coin
+platform: AVAX
+platform_contract: '0xf5760bbbC3565f6A513a9c20300a335A1250C57e'

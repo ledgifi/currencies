@@ -5,3 +5,5 @@ id_nomics: CRUDE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRUDE.jpg
 logoKey: currencies/crude.jpg
 name: Crude Token
+platform: BNB
+platform_contract: '0x8db702d9d561921c45be8df38830a653e4bc0299'

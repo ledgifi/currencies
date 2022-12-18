@@ -5,3 +5,5 @@ id_nomics: HGT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HGT2.jpg
 logoKey: currencies/hgt2.jpg
 name: HyperGraph Token
+platform: BNB
+platform_contract: '0x680052792714e10e1ef7cda551abca8667862053'

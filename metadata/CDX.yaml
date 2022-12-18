@@ -6,3 +6,5 @@ id_nomics: CDX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/cdx.png
 logoKey: currencies/cdx.png
 name: CDX Network
+platform: ETH
+platform_contract: '0x6fff3806bbac52a20e0d79bc538d527f6a22c96b'

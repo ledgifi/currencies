@@ -5,3 +5,5 @@ id_nomics: IPGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IPGO.png
 logoKey: currencies/ipgo.png
 name: IpgoCoin
+platform: ETH
+platform_contract: '0xccade040b89d7865977c0f9cf09bdb897b8f8d40'

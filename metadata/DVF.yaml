@@ -5,3 +5,5 @@ id_nomics: DVF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DVF.jpg
 logoKey: currencies/dvf.jpg
 name: DeversiFi
+platform: ETH
+platform_contract: '0xdddddd4301a082e62e84e43f474f044423921918'

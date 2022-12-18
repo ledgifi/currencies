@@ -5,3 +5,5 @@ id_nomics: THGL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THGL.jpg
 logoKey: currencies/thgl.jpg
 name: Thur Gold
+platform: ETH
+platform_contract: '0x0c64b2003a46922ed0ef47e55541e8f87c816e00'

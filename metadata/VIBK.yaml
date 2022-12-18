@@ -5,3 +5,5 @@ id_nomics: VIBK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VIBK.png
 logoKey: currencies/vibk.png
 name: Vibook
+platform: BNB
+platform_contract: '0x9bdafe98c4346eb1b30627531cf2eaaf2048e880'

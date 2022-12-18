@@ -6,3 +6,5 @@ id_nomics: PPOLL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PPOLL.jpg
 logoKey: currencies/ppoll.jpg
 name: PancakePoll
+platform: BNB
+platform_contract: '0xc29000a4b1ecd326b6dafae17bda636475fea1e7'

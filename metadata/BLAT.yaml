@@ -3,3 +3,5 @@ fiat: false
 id: BLAT
 id_nomics: BLAT
 name: BLiquidifyToken
+platform: BNB
+platform_contract: '0x8858bcc03e2ce0fe3583c293251f16651262d5ac'

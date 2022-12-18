@@ -5,3 +5,5 @@ id_nomics: SOFI3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOFI3.jpeg
 logoKey: currencies/sofi3.jpeg
 name: SOFI
+platform: ETH
+platform_contract: '0xb49fa25978abf9a248b8212ab4b87277682301c0'

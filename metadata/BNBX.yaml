@@ -5,3 +5,5 @@ id_nomics: BNBX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNBX.jpg
 logoKey: currencies/bnbx.jpg
 name: BNBX Finance
+platform: BNB
+platform_contract: '0x1592271a485e7f12de1eccf2555cea7763f29cac'

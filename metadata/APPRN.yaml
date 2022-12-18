@@ -3,3 +3,5 @@ fiat: false
 id: APPRN
 id_nomics: APPRN
 name: Appreciation
+platform: MATIC
+platform_contract: '0x053955f259f37e805f4eb31802deae29f4bc3f63'

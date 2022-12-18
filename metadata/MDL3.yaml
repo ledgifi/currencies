@@ -5,3 +5,5 @@ id_nomics: MDL3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MDL3.jpg
 logoKey: currencies/mdl3.jpg
 name: Mandrill Token
+platform: BNB
+platform_contract: '0xb56182abfc7972b8abd45baef1a12c6a6b42b3c3'

@@ -5,3 +5,5 @@ id_nomics: APECRON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APECRON.jpg
 logoKey: currencies/apecron.jpg
 name: Apecron
+platform: CRO
+platform_contract: '0x09aae6c66bc670016801e34d19b1775b038b6c43'

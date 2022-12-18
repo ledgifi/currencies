@@ -6,3 +6,5 @@ id_nomics: CREDS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CREDS.jpg
 logoKey: currencies/creds.jpg
 name: Creds
+platform: ETH
+platform_contract: '0xc13f4f0f865bac08f62654b57e38669ebc4747a3'

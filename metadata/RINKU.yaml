@@ -5,3 +5,5 @@ id_nomics: RINKU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RINKU.png
 logoKey: currencies/rinku.png
 name: RinkuChain
+platform: BNB
+platform_contract: '0x0fefcf61e98d3da25dba03b1320778e5b265a041'

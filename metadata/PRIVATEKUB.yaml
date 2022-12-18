@@ -3,3 +3,5 @@ fiat: false
 id: PRIVATEKUB
 id_nomics: PRIVATEKUB
 name: PRIVATEKUB
+platform: BNB
+platform_contract: '0x660d5df0f902c6528498468e40e5332c0fcd6285'

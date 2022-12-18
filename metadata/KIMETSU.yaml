@@ -6,3 +6,5 @@ id_nomics: KIMETSU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KIMETSU.jpg
 logoKey: currencies/kimetsu.jpg
 name: Kimetsu Inu
+platform: ETH
+platform_contract: '0x91e8d1b5f386204a82e6de32d4bae11d0b042f0f'

@@ -5,3 +5,5 @@ id_nomics: RMTX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RMTX.png
 logoKey: currencies/rmtx.png
 name: Rematic
+platform: BNB
+platform_contract: '0x7F372DF070880bC9b84D317921BBeC8C30124770'

@@ -5,3 +5,5 @@ id_nomics: DPT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DPT2.png
 logoKey: currencies/dpt2.png
 name: DogePepsi
+platform: BNB
+platform_contract: '0xD721c7f385d484Dbd0aAb1150297eC1C60878d36'

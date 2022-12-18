@@ -3,3 +3,5 @@ fiat: false
 id: WSEXOD
 id_nomics: WSEXOD
 name: Wrapped sEXOD
+platform: FTM
+platform_contract: '0xe992c5abddb05d86095b18a158251834d616f0d1'

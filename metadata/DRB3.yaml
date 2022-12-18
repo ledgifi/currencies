@@ -5,3 +5,5 @@ id_nomics: DRB3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRB3.jpeg
 logoKey: currencies/drb3.jpeg
 name: Dragon Battles
+platform: BNB
+platform_contract: '0xbd5e68e88c54c4a0c1fa3239f74a3cbab9a6707f'

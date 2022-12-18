@@ -5,3 +5,5 @@ id_nomics: DTOR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DTOR.jpeg
 logoKey: currencies/dtor.jpeg
 name: DogePredator
+platform: BNB
+platform_contract: '0x36b6ca568fff4d05fc9169fe33960ef2b9841674'

@@ -3,3 +3,5 @@ fiat: false
 id: TENETH
 id_nomics: TENETH
 name: Teneo ETH on BSC
+platform: BNB
+platform_contract: '0x5d19dd1482b7d2262327bd7a4dc88862a4d4a2cd'

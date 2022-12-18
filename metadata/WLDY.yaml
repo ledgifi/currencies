@@ -5,3 +5,5 @@ id_nomics: WLDY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WLDY.png
 logoKey: currencies/wldy.png
 name: WLDY Coin
+platform: MATIC
+platform_contract: '0x258d8423d9d6fae7bff3e5b7d1aa13348492aa0b'

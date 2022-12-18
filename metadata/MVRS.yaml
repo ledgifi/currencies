@@ -5,3 +5,5 @@ id_nomics: MVRS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MVRS.png
 logoKey: currencies/mvrs.png
 name: Meta Mvrs
+platform: BNB
+platform_contract: '0xfd9faca15558eb243ac0012cf7acfbf480574668'

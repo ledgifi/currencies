@@ -5,3 +5,5 @@ id_nomics: GOLD5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOLD5.png
 logoKey: currencies/gold5.png
 name: GoldFarm (ERC-20)
+platform: ETH
+platform_contract: '0xf1b8762a7fa8c244e36f7234edf40cfae24394e3'

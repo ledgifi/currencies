@@ -5,3 +5,5 @@ id_nomics: KRYPTOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KRYPTOS.jpg
 logoKey: currencies/kryptos.jpg
 name: Kryptos
+platform: ETH
+platform_contract: '0xd2b49ba5c0685fabbe4a1a5da0c869b737746595'

@@ -6,3 +6,5 @@ id_nomics: HPAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HPAD.jpg
 logoKey: currencies/hpad.jpg
 name: HarmonyPad
+platform: BNB
+platform_contract: '0x7009bd9a1369e74457cdac84191ca83f33e89217'

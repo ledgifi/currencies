@@ -5,3 +5,5 @@ id_nomics: SHELON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHELON.jpg
 logoKey: currencies/shelon.jpg
 name: Shelon V1 (OLD)
+platform: BNB
+platform_contract: '0x29cb0d816604c90e59102745951bd4c26b1666f9'

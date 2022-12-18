@@ -5,3 +5,5 @@ id_nomics: SHFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHFT.jpg
 logoKey: currencies/shft.jpg
 name: Shyft Network
+platform: ETH
+platform_contract: '0xcba3eae7f55d0f423af43cc85e67ab0fbf87b61c'

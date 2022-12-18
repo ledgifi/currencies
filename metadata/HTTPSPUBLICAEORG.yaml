@@ -5,3 +5,5 @@ id_nomics: HTTPSPUBLICAEORG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HTTPSPUBLICAEORG.jpg
 logoKey: currencies/httpspublicaeorg.jpg
 name: Politicoin
+platform: ETH
+platform_contract: '0x6ffbd6b41b802550c57d4661d81a1700a502f2ab'

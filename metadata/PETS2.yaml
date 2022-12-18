@@ -5,3 +5,5 @@ id_nomics: PETS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PETS2.jpg
 logoKey: currencies/pets2.jpg
 name: PolkaPet World
+platform: ETH
+platform_contract: '0x6afcff9189e8ed3fcc1cffa184feb1276f6a82a5'

@@ -5,3 +5,5 @@ id_nomics: BTG3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTG3.png
 logoKey: currencies/btg3.png
 name: BitGoo
+platform: BNB
+platform_contract: '0x19b15ecbf83cbf9050caea50080db0dc0027b8fe'

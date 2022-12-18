@@ -5,3 +5,5 @@ id_nomics: GOOREO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOOREO.jpg
 logoKey: currencies/gooreo.jpg
 name: Gooreo Coin
+platform: BNB
+platform_contract: '0x7156fc3db62cce82eaa7163279d9f99644257539'

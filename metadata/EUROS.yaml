@@ -3,3 +3,5 @@ fiat: false
 id: EUROS
 id_nomics: EUROS
 name: SpiceEURO
+platform: AVAX
+platform_contract: '0x1556e2d8ff76dfbc5946ae18260e78a6ed745fed'

@@ -6,3 +6,5 @@ id_nomics: KCCPAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KCCPAD.jpg
 logoKey: currencies/kccpad.jpg
 name: KCCPad
+platform: BNB
+platform_contract: '0x11582ef4642b1e7f0a023804b497656e2663bc9b'

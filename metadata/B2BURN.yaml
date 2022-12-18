@@ -5,3 +5,5 @@ id_nomics: B2BURN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/B2BURN.jpeg
 logoKey: currencies/b2burn.jpeg
 name: Born to Burn
+platform: BNB
+platform_contract: '0x4126c08f93c8b28f8c3311df05db10c0af2fb3ad'

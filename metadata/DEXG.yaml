@@ -6,3 +6,5 @@ id_nomics: DEXG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEXG.jpg
 logoKey: currencies/dexg.jpg
 name: Dextoken Governance
+platform: ETH
+platform_contract: '0xb81d70802a816b5dacba06d708b5acf19dcd436d'

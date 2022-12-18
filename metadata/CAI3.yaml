@@ -5,3 +5,5 @@ id_nomics: CAI3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAI3.png
 logoKey: currencies/cai3.png
 name: CAIETF.FINANCE
+platform: BNB
+platform_contract: '0x93d04d21fcb5545330817c9c0e54a61c9e14d662'

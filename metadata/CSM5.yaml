@@ -5,3 +5,5 @@ id_nomics: CSM5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CSM5.jpg
 logoKey: currencies/csm5.jpg
 name: Cashium
+platform: BNB
+platform_contract: '0xA59eBDd2cEccF419b2a5E157B4AdAdcf71D00FFE'

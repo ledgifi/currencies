@@ -6,3 +6,5 @@ id_nomics: SHIBSA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBSA.jpeg
 logoKey: currencies/shibsa.jpeg
 name: Shiba Satoshi
+platform: BNB
+platform_contract: '0x6d5b78746dc509454ac50d56fb5bdffddd2f80a0'

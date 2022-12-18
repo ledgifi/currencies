@@ -6,3 +6,5 @@ id_nomics: JOINT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/joint.jpg
 logoKey: currencies/joint.jpg
 name: Joint Ventures
+platform: ETH
+platform_contract: '0x347c099f110ca6761779329d2879957b606b6ace'

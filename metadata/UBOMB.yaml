@@ -6,3 +6,5 @@ id_nomics: UBOMB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UBOMB.jpg
 logoKey: currencies/ubomb.jpg
 name: Unibomb
+platform: ETH
+platform_contract: '0x265ba42daf2d20f3f358a7361d9f69cb4e28f0e6'

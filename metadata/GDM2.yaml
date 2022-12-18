@@ -5,3 +5,5 @@ id_nomics: GDM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GDM2.jpg
 logoKey: currencies/gdm2.jpg
 name: GoldMoney
+platform: BNB
+platform_contract: '0x9fdb6a13bdcf1188fbafe5cd435a8b92a327d92e'

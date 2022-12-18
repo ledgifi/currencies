@@ -3,3 +3,5 @@ fiat: false
 id: IFMC
 id_nomics: IFMC
 name: IFMChain
+platform: HT
+platform_contract: '0x5a04bd6b4cc6743af7b76401a3cb4286abc9ceac'

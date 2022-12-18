@@ -3,3 +3,5 @@ fiat: false
 id: GCC3
 id_nomics: GCC3
 name: Game Currency Coin
+platform: ETH
+platform_contract: '0xb627d12f7024c78b1139cbb31348393b3d37774d'

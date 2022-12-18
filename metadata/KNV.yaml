@@ -5,3 +5,5 @@ id_nomics: KNV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KNV.jpg
 logoKey: currencies/knv.jpg
 name: Kanva
+platform: ETH
+platform_contract: '0x5935ffc231e93ac04daa089c0f1b94d0fb2449de'

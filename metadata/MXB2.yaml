@@ -5,3 +5,5 @@ id_nomics: MXB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MXB2.jpg
 logoKey: currencies/mxb2.jpg
 name: MetaXBet
+platform: BNB
+platform_contract: '0x5352923b87a0af786f84e91bfaa4394c0283f306'

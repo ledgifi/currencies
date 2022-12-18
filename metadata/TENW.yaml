@@ -3,3 +3,5 @@ fiat: false
 id: TENW
 id_nomics: TENW
 name: TEN Wallet
+platform: BNB
+platform_contract: '0x5132e359c9e784e339f803b9b73895335f3387cf'

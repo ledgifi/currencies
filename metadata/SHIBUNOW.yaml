@@ -3,3 +3,5 @@ fiat: false
 id: SHIBUNOW
 id_nomics: SHIBUNOW
 name: Shibunow Token
+platform: ETH
+platform_contract: '0x5e6fcc6827c6023498c88041317e8c6560ff16ce'

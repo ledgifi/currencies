@@ -6,3 +6,5 @@ id_nomics: QIQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QIQ.jpg
 logoKey: currencies/qiq.jpg
 name: QoinIQ
+platform: ETH
+platform_contract: '0x98af2e926206f1eb5af46aeddd144727267d0487'

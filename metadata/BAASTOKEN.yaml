@@ -3,3 +3,5 @@ fiat: false
 id: BAASTOKEN
 id_nomics: BAASTOKEN
 name: Baas Token
+platform: ETH
+platform_contract: '0x09463194e7890d226a5fdb226d19ab600b92ee9f'

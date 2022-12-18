@@ -3,3 +3,5 @@ fiat: false
 id: RAY2
 id_nomics: RAY2
 name: Raydium (ERC-20)
+platform: ETH
+platform_contract: '0x5245c0249e5eeb2a0838266800471fd32adb1089'

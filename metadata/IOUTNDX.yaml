@@ -3,3 +3,5 @@ fiat: false
 id: IOUTNDX
 id_nomics: IOUTNDX
 name: IOU Twin NDX
+platform: BNB
+platform_contract: '0x6d6e76fe5560da2c2288ee2464fe89bbe774333e'

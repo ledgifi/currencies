@@ -3,3 +3,5 @@ fiat: false
 id: '10000'
 id_nomics: '10000'
 name: 10000 Cult
+platform: ETH
+platform_contract: '0x3afd513e2fb6f083bd68260939ba53b4fcc03c73'

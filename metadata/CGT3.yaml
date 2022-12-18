@@ -5,3 +5,5 @@ id_nomics: CGT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CGT3.jpg
 logoKey: currencies/cgt3.jpg
 name: Cage Governance
+platform: ETH
+platform_contract: '0x8987a07ba83607a66c7351266e771fb865c9ca6c'

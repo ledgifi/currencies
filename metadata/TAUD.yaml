@@ -6,3 +6,5 @@ id_nomics: TAUD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TAUD.jpg
 logoKey: currencies/taud.jpg
 name: TrueAUD
+platform: ETH
+platform_contract: '0x00006100f7090010005f1bd7ae6122c3c2cf0090'

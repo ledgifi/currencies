@@ -3,3 +3,5 @@ fiat: false
 id: SXPBEP20
 id_nomics: SXPBEP20
 name: Swipe (BEP-20)
+platform: BNB
+platform_contract: '0x47bead2563dcbf3bf2c9407fea4dc236faba485a'

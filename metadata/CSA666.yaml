@@ -3,3 +3,5 @@ fiat: false
 id: CSA666
 id_nomics: CSA666
 name: CSA BCD
+platform: BNB
+platform_contract: '0xd935b98d7ee5fd9e8a41b2d4325c7cab157c4a67'

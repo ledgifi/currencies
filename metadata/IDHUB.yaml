@@ -6,3 +6,5 @@ id_nomics: IDHUB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IDHUB.jpg
 logoKey: currencies/idhub.jpg
 name: IDHUB
+platform: ETH
+platform_contract: '0x29f20242051accda50d52a7e272a5f23237e4696'

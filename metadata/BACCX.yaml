@@ -5,3 +5,5 @@ id_nomics: BACCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BACCX.jpg
 logoKey: currencies/baccx.jpg
 name: Bank of America
+platform: ETH
+platform_contract: '0x78ce473e17b703b558014f7bf07c656e6d5836c9'

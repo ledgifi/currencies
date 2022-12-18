@@ -3,3 +3,5 @@ fiat: false
 id: MPLGR
 id_nomics: MPLGR
 name: Pledge Finance
+platform: ETH
+platform_contract: '0x7047dfa33a46eb597e662969d1fa1e5c717777f4'

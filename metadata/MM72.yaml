@@ -5,3 +5,5 @@ id_nomics: MM72
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MM72.jpg
 logoKey: currencies/mm72.jpg
 name: MM72
+platform: BNB
+platform_contract: '0xdf9e1a85db4f985d5bb5644ad07d9d7ee5673b5e'

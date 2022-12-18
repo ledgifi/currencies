@@ -5,3 +5,5 @@ id_nomics: LSD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LSD2.jpeg
 logoKey: currencies/lsd2.jpeg
 name: LuckySlotDog
+platform: BNB
+platform_contract: '0x528f7bd5e3f0be954475b9FEd69fFf5FAbd862D3'

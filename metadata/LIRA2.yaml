@@ -5,3 +5,5 @@ id_nomics: LIRA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIRA2.png
 logoKey: currencies/lira2.png
 name: Lira V2
+platform: BNB
+platform_contract: '0xa80a006a48dc7203eb3aa7e0b3816918d242cfc4'

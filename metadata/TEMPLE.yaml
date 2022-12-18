@@ -5,3 +5,5 @@ id_nomics: TEMPLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TEMPLE.jpg
 logoKey: currencies/temple.jpg
 name: Temple
+platform: ETH
+platform_contract: '0x470ebf5f030ed85fc1ed4c2d36b9dd02e77cf1b7'

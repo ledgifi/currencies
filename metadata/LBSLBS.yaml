@@ -3,3 +3,5 @@ fiat: false
 id: LBSLBS
 id_nomics: LBSLBS
 name: Libra swap
+platform: BNB
+platform_contract: '0x49ed7003d8b8c2b11db4b5f815d8914fb112403f'

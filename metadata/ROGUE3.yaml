@@ -3,3 +3,5 @@ fiat: false
 id: ROGUE3
 id_nomics: ROGUE3
 name: Rogue Coin
+platform: MATIC
+platform_contract: '0x835df131c80cf4b27cefde256498e363cf8a4c27'

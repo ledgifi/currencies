@@ -5,3 +5,5 @@ id_nomics: PRDS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRDS.jpg
 logoKey: currencies/prds.jpg
 name: Brise Paradise
+platform: BRISE2
+platform_contract: '0x31226B28add9062c5064a9Bd35eA155F323C6ca6'

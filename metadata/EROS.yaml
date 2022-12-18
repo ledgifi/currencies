@@ -3,3 +3,5 @@ fiat: false
 id: EROS
 id_nomics: EROS
 name: Erosion
+platform: ETH
+platform_contract: '0x0218c4e3aad7ecf71ccc5d5aaa43c02245f45ccd'

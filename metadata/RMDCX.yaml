@@ -5,3 +5,5 @@ id_nomics: RMDCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RMDCX.jpg
 logoKey: currencies/rmdcx.jpg
 name: ResMed Inc. Token
+platform: ETH
+platform_contract: '0x6489006b7d23b15c777c8690d01d46d98ae8dce3'

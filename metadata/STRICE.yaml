@@ -5,3 +5,5 @@ id_nomics: STRICE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STRICE.jpg
 logoKey: currencies/strice.jpg
 name: Strice
+platform: BNB
+platform_contract: '0x329c5bccce372146f5b8d52fecad7166f924d353'

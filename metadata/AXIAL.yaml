@@ -6,3 +6,5 @@ id_nomics: AXIAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AXIAL.jpg
 logoKey: currencies/axial.jpg
 name: Axial Token
+platform: AVAX
+platform_contract: '0xcf8419a615c57511807236751c0af38db4ba3351'

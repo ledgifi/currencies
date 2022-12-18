@@ -3,3 +3,5 @@ fiat: false
 id: DOGECHAT
 id_nomics: DOGECHAT
 name: DogeChat
+platform: ETH
+platform_contract: '0x27360bd78bb3d3a175e7845aa13eeaa15eb2c848'

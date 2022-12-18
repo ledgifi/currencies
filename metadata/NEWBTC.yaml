@@ -5,3 +5,5 @@ id_nomics: NEWBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEWBTC.jpg
 logoKey: currencies/newbtc.jpg
 name: New Bitcoin
+platform: BNB
+platform_contract: '0x27f159e00fe3c651bd7aed8aac9a08f3ccb8e7ef'

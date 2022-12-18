@@ -5,3 +5,5 @@ id_nomics: SRBP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SRBP.png
 logoKey: currencies/srbp.png
 name: Super Rare Ball Portion
+platform: KCS
+platform_contract: '0x44deccb4e1d356418581b58956f9efc806e15e84'

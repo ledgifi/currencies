@@ -6,3 +6,5 @@ id_nomics: LOUD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOUD.jpg
 logoKey: currencies/loud.jpg
 name: Loud Market
+platform: BNB
+platform_contract: '0x3d0e22387ddfe75d1aea9d7108a4392922740b96'

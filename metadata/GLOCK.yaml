@@ -3,3 +3,5 @@ fiat: false
 id: GLOCK
 id_nomics: GLOCK
 name: Glock Token
+platform: MATIC
+platform_contract: '0x9f7bb00de58f475d0be29e9e80d7410c8e4fd659'

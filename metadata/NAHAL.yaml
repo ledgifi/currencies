@@ -5,3 +5,5 @@ id_nomics: NAHAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NAHAL.jpeg
 logoKey: currencies/nahal.jpeg
 name: Nahal Token
+platform: BNB
+platform_contract: '0xCA96e6718132Fe774ca515f33F4d2871b4C7545A'

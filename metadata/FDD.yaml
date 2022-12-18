@@ -6,3 +6,5 @@ id_nomics: FDD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FDD.jpg
 logoKey: currencies/fdd.jpg
 name: FrogDAO Dime
+platform: ETH
+platform_contract: '0x14cfc7aeaa468e8c789785c39e0b753915aeb426'

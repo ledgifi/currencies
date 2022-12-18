@@ -3,3 +3,5 @@ fiat: false
 id: BNBBUSD
 id_nomics: BNBBUSD
 name: BNBBUSD
+platform: BNB
+platform_contract: '0x1aceb6cc1593e1dfd4c3241d1e25906d3c93e808'

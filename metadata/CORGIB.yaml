@@ -6,3 +6,5 @@ id_nomics: CORGIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CORGIB.jpg
 logoKey: currencies/corgib.jpg
 name: The Corgi of PolkaBridge
+platform: BNB
+platform_contract: '0x1cfd6813a59d7b90c41dd5990ed99c3bf2eb8f55'

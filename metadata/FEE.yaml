@@ -4,3 +4,5 @@ id: FEE
 id_coinpaprika: fee-feetoken
 id_nomics: FEE
 name: FeeToken
+platform: ETH
+platform_contract: '0x9ec0862ce715ea4fd830074be6bee4558db8a071'

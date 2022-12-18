@@ -5,3 +5,5 @@ id_nomics: FCT6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FCT6.png
 logoKey: currencies/fct6.png
 name: Flash Crypto Token
+platform: BNB
+platform_contract: '0x33e47b4f27d11bfd439ec2a47217874ae11eacbd'

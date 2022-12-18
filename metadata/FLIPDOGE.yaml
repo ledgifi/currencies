@@ -3,3 +3,5 @@ fiat: false
 id: FLIPDOGE
 id_nomics: FLIPDOGE
 name: Flip Doge
+platform: ETH
+platform_contract: '0x3ebae21a158651068feaa13b463dbc246f2a9012'

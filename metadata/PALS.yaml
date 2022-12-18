@@ -6,3 +6,5 @@ id_nomics: PALS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PALS.png
 logoKey: currencies/pals.png
 name: PALS
+platform: ETH
+platform_contract: '0x794d1d86685d45f9297c2fe80f295aa7f8285bb4'

@@ -5,3 +5,5 @@ id_nomics: STRD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STRD.png
 logoKey: currencies/strd.png
 name: Stride
+platform: ATOM
+platform_contract: stride

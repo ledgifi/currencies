@@ -5,3 +5,5 @@ id_nomics: TFT5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TFT5.jpg
 logoKey: currencies/tft5.jpg
 name: Toon Finance
+platform: ETH
+platform_contract: '0x3a4811c0619abe8a51737c71f34d148b8ceb3335'

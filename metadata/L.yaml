@@ -6,3 +6,5 @@ id_nomics: L
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/L.jpg
 logoKey: currencies/l.jpg
 name: L inu
+platform: ETH
+platform_contract: '0x4cdb72fa315a7224c8da92449a4951f3daa1d362'

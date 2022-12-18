@@ -6,3 +6,5 @@ id_nomics: APAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APAD.jpg
 logoKey: currencies/apad.jpg
 name: Anypad
+platform: BNB
+platform_contract: '0x366d71ab095735b7dae83ce2b82d5262ef655f10'

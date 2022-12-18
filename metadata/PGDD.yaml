@@ -3,3 +3,5 @@ fiat: false
 id: PGDD
 id_nomics: PGDD
 name: pgdd
+platform: BNB
+platform_contract: '0xcabd343f812d62e0f32f2d479e4276ce55dbafb4'

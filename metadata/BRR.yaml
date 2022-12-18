@@ -3,3 +3,5 @@ fiat: false
 id: BRR
 id_nomics: BRR
 name: Brr Token
+platform: ETH
+platform_contract: '0x49f941FA7f5731fe302068d79c8604C24C5E7196'

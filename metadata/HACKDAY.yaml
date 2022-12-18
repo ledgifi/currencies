@@ -3,3 +3,5 @@ fiat: false
 id: HACKDAY
 id_nomics: HACKDAY
 name: hackdayToken
+platform: XDAI
+platform_contract: '0x57ed9149b521ffbda7eeaff0b761826570c46ccd'

@@ -5,3 +5,5 @@ id_nomics: YANG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YANG.jpeg
 logoKey: currencies/yang.jpeg
 name: YANG
+platform: BNB
+platform_contract: '0x70A62CBe5044692fB1f41E617b18C2d259e19730'

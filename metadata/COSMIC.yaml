@@ -6,3 +6,5 @@ id_nomics: COSMIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COSMIC.jpg
 logoKey: currencies/cosmic.jpg
 name: CosmicSwap
+platform: BNB
+platform_contract: '0x960cc8f437165b7362a34d95d1ec62dd2a940f00'

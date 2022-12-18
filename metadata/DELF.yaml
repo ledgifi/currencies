@@ -3,3 +3,5 @@ fiat: false
 id: DELF
 id_nomics: DELF
 name: Delf
+platform: BNB
+platform_contract: '0x39374155ba4b1e7a5b150fe02ed93871ff390456'

@@ -6,3 +6,5 @@ id_nomics: FIFTY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIFTY.jpg
 logoKey: currencies/fifty.jpg
 name: FIFTYONEFIFTY
+platform: ETH
+platform_contract: '0xf7dd746a613fb6362d44ecedeb743f62ade6c3aa'

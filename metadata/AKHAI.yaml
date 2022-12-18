@@ -5,3 +5,5 @@ id_nomics: AKHAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AKHAI.png
 logoKey: currencies/akhai.png
 name: Akhai
+platform: BNB
+platform_contract: '0xdb6358b959ab9274ED93806B999Ae84F03AB7E0c'

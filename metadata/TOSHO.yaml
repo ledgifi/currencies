@@ -5,3 +5,5 @@ id_nomics: TOSHO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOSHO.jpg
 logoKey: currencies/tosho.jpg
 name: Tosho token
+platform: BNB
+platform_contract: '0x2414349097185575fe0644c661eacc1e188f9bf3'

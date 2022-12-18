@@ -3,3 +3,5 @@ fiat: false
 id: BITEREUM
 id_nomics: BITEREUM
 name: Bitereum
+platform: ARBETH
+platform_contract: '0x7653cdc4163dd675693b4777959d7f38eb68687f'

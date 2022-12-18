@@ -6,3 +6,5 @@ id_nomics: EHB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EHB.jpg
 logoKey: currencies/ehb.jpg
 name: EarnHub
+platform: BNB
+platform_contract: '0x80cba4031f7a75b650f4146e5ceba9d7562df939'

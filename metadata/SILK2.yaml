@@ -5,3 +5,5 @@ id_nomics: SILK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SILK2.jpg
 logoKey: currencies/silk2.jpg
 name: Spider Tanks
+platform: ETH
+platform_contract: '0xb045f7f363fe4949954811b113bd56d208c67b23'

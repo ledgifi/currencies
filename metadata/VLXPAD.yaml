@@ -6,3 +6,5 @@ id_nomics: VLXPAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VLXPAD.jpg
 logoKey: currencies/vlxpad.jpg
 name: VelasPad
+platform: BNB
+platform_contract: '0xb8e3bb633f7276cc17735d86154e0ad5ec9928c0'

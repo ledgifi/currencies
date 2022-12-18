@@ -5,3 +5,5 @@ id_nomics: PERSIA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PERSIA.jpg
 logoKey: currencies/persia.jpg
 name: Persian Neko
+platform: BNB
+platform_contract: '0x999fae6a332b87a9a979ba32994dea6c4670ad55'

@@ -5,3 +5,5 @@ id_nomics: APES4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APES4.jpg
 logoKey: currencies/apes4.jpg
 name: HypeApes
+platform: ETH
+platform_contract: '0xf36119c88fb85ffa09219dd8e8bdba5007ce2aa0'

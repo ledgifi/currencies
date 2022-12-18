@@ -6,3 +6,5 @@ id_nomics: CRE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRE.png
 logoKey: currencies/cre.png
 name: Carry
+platform: ETH
+platform_contract: '0x115ec79f1de567ec68b7ae7eda501b406626478e'

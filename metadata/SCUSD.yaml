@@ -6,3 +6,5 @@ id_nomics: SCUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCUSD.jpg
 logoKey: currencies/scusd.jpg
 name: Scientix USD
+platform: BNB
+platform_contract: '0x0e5c2b15666eee4b66788e45cf4da0392c070fa7'

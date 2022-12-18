@@ -5,3 +5,5 @@ id_nomics: YFRX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFRX.jpg
 logoKey: currencies/yfrx.jpg
 name: yfrx.finance
+platform: ETH
+platform_contract: '0x1280763b1beb3212f702887b2f3afc9a8e8894ff'

@@ -3,3 +3,5 @@ fiat: false
 id: MQT
 id_nomics: MQT
 name: MetaQuToken
+platform: BNB
+platform_contract: '0x17599d8296decf6778404e563c1924f9629f0d14'

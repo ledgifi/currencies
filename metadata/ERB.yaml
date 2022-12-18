@@ -3,3 +3,5 @@ fiat: false
 id: ERB
 id_nomics: ERB
 name: erbfinance
+platform: BNB
+platform_contract: '0x9bc235f9735516f331ab71f215bd75ea1c5068cd'

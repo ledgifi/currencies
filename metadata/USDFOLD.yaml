@@ -5,3 +5,5 @@ id_nomics: USDFOLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDFOLD.jpg
 logoKey: currencies/usdfold.jpg
 name: USDf (Old)
+platform: ETH
+platform_contract: '0x05462671c05adc39a6521fa60d5e9443e9e9d2b9'

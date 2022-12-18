@@ -5,3 +5,5 @@ id_nomics: DRX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRX2.jpeg
 logoKey: currencies/drx2.jpeg
 name: Drxygen
+platform: BNB
+platform_contract: '0xc5ae8c18d7fed3aaaff353380f987dc2ceae3db1'

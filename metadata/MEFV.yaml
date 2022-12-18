@@ -5,3 +5,5 @@ id_nomics: MEFV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEFV.jpg
 logoKey: currencies/mefv.jpg
 name: Meta Farm Verse
+platform: BNB
+platform_contract: '0xfb3386912a15c4e9230b520156ce2b029c92f91b'

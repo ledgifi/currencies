@@ -6,3 +6,5 @@ id_nomics: EAGLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EAGLE.png
 logoKey: currencies/eagle.png
 name: EagleCoin
+platform: ETH
+platform_contract: '0x994f0dffdbae0bbf09b652d6f11a493fd33f42b9'

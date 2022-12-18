@@ -5,3 +5,5 @@ id_nomics: VOLTS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VOLTS.jpg
 logoKey: currencies/volts.jpg
 name: Volts.Finance
+platform: ETH
+platform_contract: '0x14d1c83df4decee9deb14ee851f109f0101a6631'

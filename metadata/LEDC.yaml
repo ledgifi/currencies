@@ -3,3 +3,5 @@ fiat: false
 id: LEDC
 id_nomics: LEDC
 name: LEDC
+platform: BNB
+platform_contract: '0x0e9bd1ace6d0a7ef74e3dde100b82efb3d463bd5'

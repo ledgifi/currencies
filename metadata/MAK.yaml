@@ -5,3 +5,5 @@ id_nomics: MAK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAK.jpg
 logoKey: currencies/mak.jpg
 name: MAKCOIN
+platform: ETH
+platform_contract: '0x49a2e9be4e06c7106c5708bfcabb9322d0ba33db'

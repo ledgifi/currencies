@@ -3,3 +3,5 @@ fiat: false
 id: BWEB
 id_nomics: BWEB
 name: Binance Web
+platform: ETH
+platform_contract: '0xe457d093983baee5c970d4b82b7de0b0296855ff'

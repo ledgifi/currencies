@@ -3,3 +3,5 @@ fiat: false
 id: BDVR
 id_nomics: BDVR
 name: BUSDriver
+platform: BNB
+platform_contract: '0xa764d0530e0d73c4bcd47554069f7e6d0c229709'

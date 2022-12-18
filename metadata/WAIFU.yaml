@@ -5,3 +5,5 @@ id_nomics: WAIFU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAIFU.jpg
 logoKey: currencies/waifu.jpg
 name: WaifuToken
+platform: ETH
+platform_contract: '0x50d812bd2728e1bd7c7f57d97819e0bdc486d6ff'

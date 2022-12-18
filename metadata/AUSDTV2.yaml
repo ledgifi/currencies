@@ -5,3 +5,5 @@ id_nomics: AUSDTV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AUSDTV2.jpg
 logoKey: currencies/ausdtv2.jpg
 name: Aave USDT
+platform: ETH
+platform_contract: '0x3ed3b47dd13ec9a98b44e6204a523e766b225811'

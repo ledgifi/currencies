@@ -3,3 +3,5 @@ fiat: false
 id: SECDEF
 id_nomics: SECDEF
 name: Secure-DeFi Token
+platform: BNB
+platform_contract: '0xe93798a2a60d0ae27f949bf3e562f58a6ffe5caa'

@@ -3,3 +3,5 @@ fiat: false
 id: DIMASTEST
 id_nomics: DIMASTEST
 name: DimasBlogTest
+platform: BNB
+platform_contract: '0x7d825ae82caa34abd738c66cde3c6797ef4e945d'

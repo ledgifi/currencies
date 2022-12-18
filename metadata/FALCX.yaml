@@ -6,3 +6,5 @@ id_nomics: FALCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FALCX.jpg
 logoKey: currencies/falcx.jpg
 name: FalconX
+platform: BNB
+platform_contract: '0x2d862c9fc46608d7ff83293ceb83330d6135be5e'

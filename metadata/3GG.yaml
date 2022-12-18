@@ -5,3 +5,5 @@ id_nomics: 3GG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/3GG.png
 logoKey: currencies/3gg.png
 name: 3gg
+platform: ETH
+platform_contract: '0x5006192340d83bfa47ee2f28edd0fd16a56d5b5e'

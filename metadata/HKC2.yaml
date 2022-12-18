@@ -5,3 +5,5 @@ id_nomics: HKC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HKC2.jpg
 logoKey: currencies/hkc2.jpg
 name: HelpKidz Coin
+platform: BNB
+platform_contract: '0xd48d639f72ef29458b72cdc9a47a95fa46101529'

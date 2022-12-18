@@ -5,3 +5,5 @@ id_nomics: FARM4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FARM4.jpg
 logoKey: currencies/farm4.jpg
 name: Agrofarm
+platform: BNB
+platform_contract: '0xad759b4634bf48c982541c8db61b4581470b4974'

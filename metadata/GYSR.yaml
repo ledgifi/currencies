@@ -6,3 +6,5 @@ id_nomics: GYSR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GYSR.png
 logoKey: currencies/gysr.png
 name: Geyser
+platform: ETH
+platform_contract: '0xbea98c05eeae2f3bc8c3565db7551eb738c8ccab'

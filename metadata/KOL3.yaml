@@ -5,3 +5,5 @@ id_nomics: KOL3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KOL3.jpg
 logoKey: currencies/kol3.jpg
 name: Kollect
+platform: ETH
+platform_contract: '0x1cc30e2eac975416060ec6fe682041408420d414'

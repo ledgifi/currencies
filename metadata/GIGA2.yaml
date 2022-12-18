@@ -5,3 +5,5 @@ id_nomics: GIGA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GIGA2.jpg
 logoKey: currencies/giga2.jpg
 name: Giga Network
+platform: BNB
+platform_contract: '0x9e3e1307a8ec8dba7314e6dde91f218dea46e299'

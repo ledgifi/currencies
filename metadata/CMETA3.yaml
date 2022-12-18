@@ -5,3 +5,5 @@ id_nomics: CMETA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CMETA3.jpg
 logoKey: currencies/cmeta3.jpg
 name: Crafty Metaverse
+platform: BNB
+platform_contract: '0x7C23751C8CCc19D0A0a9a7f1fF52e213161118Cd'

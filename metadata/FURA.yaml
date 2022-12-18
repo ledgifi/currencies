@@ -5,3 +5,5 @@ id_nomics: FURA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FURA.jpg
 logoKey: currencies/fura.jpg
 name: FuraCoin
+platform: ETH
+platform_contract: '0xe1631864495a2251ae092d678111ace32ee28ad4'

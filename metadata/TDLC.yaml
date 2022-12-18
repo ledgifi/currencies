@@ -5,3 +5,5 @@ id_nomics: TDLC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TDLC.php
 logoKey: currencies/tdlc.php
 name: The Davis Legacy Coin
+platform: BNB
+platform_contract: '0xd5d5e9fe07fdbcd935807c472ded65c254e8eb98'

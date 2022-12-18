@@ -5,3 +5,5 @@ id_nomics: BULLET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BULLET.jpg
 logoKey: currencies/bullet.jpg
 name: Bullet
+platform: BNB
+platform_contract: '0x1f8fc5470846011646c4cb05cf235b47d5a7ade6'

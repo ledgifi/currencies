@@ -5,3 +5,5 @@ id_nomics: AQU2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AQU2.jpg
 logoKey: currencies/aqu2.jpg
 name: Aquarius.Fi
+platform: FTM
+platform_contract: '0x0f7adb77b6334b9b5a3c4f78aaa073ea1d915bf6'

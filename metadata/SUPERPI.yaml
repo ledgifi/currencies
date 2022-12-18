@@ -3,3 +3,5 @@ fiat: false
 id: SUPERPI
 id_nomics: SUPERPI
 name: SurperPi
+platform: BNB
+platform_contract: '0x7cb65e06a6345895d83db7940386ad69a5ae9a25'

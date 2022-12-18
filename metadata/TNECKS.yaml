@@ -3,3 +3,5 @@ fiat: false
 id: TNECKS
 id_nomics: TNECKS
 name: TallNecks Coin
+platform: MATIC
+platform_contract: '0x0f1354ddc30e7561bb235e1138376ad7517307dc'

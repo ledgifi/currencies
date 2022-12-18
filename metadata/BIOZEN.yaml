@@ -5,3 +5,5 @@ id_nomics: BIOZEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIOZEN.jpg
 logoKey: currencies/biozen.jpg
 name: BIOZEN
+platform: BNB
+platform_contract: '0x06e8efa77d49af507aff68bd93a73cb4d6702e11'

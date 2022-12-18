@@ -3,3 +3,5 @@ fiat: false
 id: FEHU
 id_nomics: FEHU
 name: FehuToken
+platform: ETH
+platform_contract: '0x552a033b6ed14b25c1b47b58a86c9a3f9fc9c87b'

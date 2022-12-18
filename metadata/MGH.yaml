@@ -6,3 +6,5 @@ id_nomics: MGH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MGH.jpg
 logoKey: currencies/mgh.jpg
 name: MetaGameHub DAO
+platform: ETH
+platform_contract: '0x8765b1a0eb57ca49be7eacd35b24a574d0203656'

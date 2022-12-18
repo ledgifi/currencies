@@ -5,3 +5,5 @@ id_nomics: RECYCLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RECYCLE.png
 logoKey: currencies/recycle.png
 name: Sapphire Recycle
+platform: FTM
+platform_contract: '0x5f1BbC8302Cd234D9E057f0c399e3F3513150F6d'

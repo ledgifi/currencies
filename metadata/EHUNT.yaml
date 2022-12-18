@@ -5,3 +5,5 @@ id_nomics: EHUNT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EHUNT.jpg
 logoKey: currencies/ehunt.jpg
 name: Evil Hunt
+platform: BNB
+platform_contract: '0x1e90f681b41146357f2fd5270a2686588fbed3ee'

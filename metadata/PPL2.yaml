@@ -5,3 +5,5 @@ id_nomics: PPL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PPL2.png
 logoKey: currencies/ppl2.png
 name: PeepalCoin
+platform: BNB
+platform_contract: '0xe47a48943d516981f91721bcdfcc8500587b406d'

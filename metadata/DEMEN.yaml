@@ -5,3 +5,5 @@ id_nomics: DEMEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEMEN.jpeg
 logoKey: currencies/demen.jpeg
 name: DEMEN
+platform: BNB
+platform_contract: '0x1fCd9e866324607512444103D2B8cd8D03c81998'

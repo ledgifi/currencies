@@ -5,3 +5,5 @@ id_nomics: VARIANTS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VARIANTS.jpg
 logoKey: currencies/variants.jpg
 name: Loki Variants Fan Token
+platform: BNB
+platform_contract: '0x9253d942a85771e6c638dcaca319a0af3e2ae44f'

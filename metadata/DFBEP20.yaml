@@ -5,3 +5,5 @@ id_nomics: DFBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DFBEP20.png
 logoKey: currencies/dfbep20.png
 name: dForce (BEP-20)
+platform: BNB
+platform_contract: '0x4a9a2b2b04549c3927dd2c9668a5ef3fca473623'

@@ -5,3 +5,5 @@ id_nomics: HD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HD.jpg
 logoKey: currencies/hd.jpg
 name: HARDCORE
+platform: ETH
+platform_contract: '0xd4cdd5e54ccedda7e9408b31759c9f9ceecbb3ec'

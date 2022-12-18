@@ -5,3 +5,5 @@ id_nomics: XIO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XIO.png
 logoKey: currencies/xio.png
 name: XIO
+platform: ETH
+platform_contract: '0x0f7f961648ae6db43c75663ac7e5414eb79b5704'

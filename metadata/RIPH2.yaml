@@ -5,3 +5,5 @@ id_nomics: RIPH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RIPH2.jpg
 logoKey: currencies/riph2.jpg
 name: Harambe Protocol
+platform: BNB
+platform_contract: '0x10964c2ffdea1e99b5e26d102516d9b03368915f'

@@ -5,3 +5,5 @@ id_nomics: GEM3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GEM3.png
 logoKey: currencies/gem3.png
 name: Cargo Gems
+platform: ETH
+platform_contract: '0x30b1efb052205e6ca3c4888c3c50c5b339cc0602'

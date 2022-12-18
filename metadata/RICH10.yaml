@@ -5,3 +5,5 @@ id_nomics: RICH10
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RICH10.png
 logoKey: currencies/rich10.png
 name: WeRich.Finance
+platform: BNB
+platform_contract: '0x0324d3822ba9423072b19a2105ef644c3f7924b6'

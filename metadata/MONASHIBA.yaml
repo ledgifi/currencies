@@ -3,3 +3,5 @@ fiat: false
 id: MONASHIBA
 id_nomics: MONASHIBA
 name: Mona Shiba
+platform: ETH
+platform_contract: '0x761be23412a43e262f1d28fb4a34f4436c805e19'

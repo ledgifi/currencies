@@ -5,3 +5,5 @@ id_nomics: SRT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SRT3.jpg
 logoKey: currencies/srt3.jpg
 name: Solidray Finance
+platform: BNB
+platform_contract: '0x5b6c496cc837ccf003feacc4835e39d5976105a8'

@@ -5,3 +5,5 @@ id_nomics: AMSTAFF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMSTAFF.png
 logoKey: currencies/amstaff.png
 name: American Staff Inu
+platform: BNB
+platform_contract: '0x9c4496565f6ef5dc53a39c8098d79d3b77b1a064'

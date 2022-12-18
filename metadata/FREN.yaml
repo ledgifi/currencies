@@ -6,3 +6,5 @@ id_nomics: FREN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FREN.jpg
 logoKey: currencies/fren.jpg
 name: Frenchie
+platform: BNB
+platform_contract: '0x13958e1eb63dfb8540eaf6ed7dcbbc1a60fd52af'

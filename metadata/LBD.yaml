@@ -6,3 +6,5 @@ id_nomics: LBD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LBD.jpg
 logoKey: currencies/lbd.jpg
 name: LinkBased
+platform: ETH
+platform_contract: '0xb15ae165000c8d7b69d2a82e425e110668c73ad5'

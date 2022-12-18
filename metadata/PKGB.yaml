@@ -5,3 +5,5 @@ id_nomics: PKGB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PKGB.png
 logoKey: currencies/pkgb.png
 name: PKG Binance Smart Chain
+platform: BNB
+platform_contract: '0x89a851764a427f48c21c1557d94458267fe3d372'

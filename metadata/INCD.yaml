@@ -6,3 +6,5 @@ id_nomics: INCD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INCD.jpeg
 logoKey: currencies/incd.jpeg
 name: Increase DeFi
+platform: ETH
+platform_contract: '0x2416b5251444e192a901542157d159792159d632'

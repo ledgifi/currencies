@@ -3,3 +3,5 @@ fiat: false
 id: EXCHHEDGE
 id_nomics: EXCHHEDGE
 name: 1X Short Exchange Token Index Token
+platform: ETH
+platform_contract: '0xf8cc67e304f8e1a351ed83b4dbbe6b4076d51376'

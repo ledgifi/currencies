@@ -3,3 +3,5 @@ fiat: false
 id: 996COIN
 id_nomics: 996COIN
 name: 996coin
+platform: BNB
+platform_contract: '0x209561eba445029716d64c5da9ef87b1642c5c62'

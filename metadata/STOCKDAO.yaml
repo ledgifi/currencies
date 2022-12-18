@@ -3,3 +3,5 @@ fiat: false
 id: STOCKDAO
 id_nomics: STOCKDAO
 name: Stock DAO
+platform: ETH
+platform_contract: '0x29a641de445795b6f89f0535d9c37e9c087468a1'

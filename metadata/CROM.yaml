@@ -3,3 +3,5 @@ fiat: false
 id: CROM
 id_nomics: CROM
 name: CROMDATA
+platform: BNB
+platform_contract: '0xad00ecec24edb9b84494efc98a2024673a0fe2ba'

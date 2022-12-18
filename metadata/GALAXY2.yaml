@@ -5,3 +5,5 @@ id_nomics: GALAXY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GALAXY2.png
 logoKey: currencies/galaxy2.png
 name: Polygalaxy
+platform: MATIC
+platform_contract: '0x336D8B78AdFA1c415CC3586585FC0F54B66AaD60'

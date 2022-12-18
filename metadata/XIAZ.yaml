@@ -6,3 +6,5 @@ id_nomics: XIAZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XIAZ.jpg
 logoKey: currencies/xiaz.jpg
 name: Xiazfinance
+platform: BNB
+platform_contract: '0x5b48ee4d84c530d19527dd733ceda740fdc61a68'

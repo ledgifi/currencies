@@ -5,3 +5,5 @@ id_nomics: ELP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELP2.jpg
 logoKey: currencies/elp2.jpg
 name: The Everlasting Parachain (ERC-20)
+platform: ETH
+platform_contract: '0x918f65def819b0720cf5c0a264603d451f522c2a'

@@ -5,3 +5,5 @@ id_nomics: SWAP6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWAP6.png
 logoKey: currencies/swap6.png
 name: SW Alpha Portfolio
+platform: MATIC
+platform_contract: '0x25ad32265c9354c29e145c902ae876f6b69806f2'

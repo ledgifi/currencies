@@ -6,3 +6,5 @@ id_nomics: WT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/wt.jpg
 logoKey: currencies/wt.jpg
 name: WeToken
+platform: ETH
+platform_contract: '0xaae81c0194d6459f320b70ca0cedf88e11a242ce'

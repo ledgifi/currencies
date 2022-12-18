@@ -5,3 +5,5 @@ id_nomics: PUMP6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PUMP6.jpg
 logoKey: currencies/pump6.jpg
 name: MetaPumpkins
+platform: BNB
+platform_contract: '0xeaebf3e53ee88f2e79819382de548cb6302c7135'

@@ -3,3 +3,5 @@ fiat: false
 id: ESCT
 id_nomics: ESCT
 name: ESCToken
+platform: BNB
+platform_contract: '0xd0bedf54bb3a002024a0f131363019adf8e19428'

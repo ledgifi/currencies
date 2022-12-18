@@ -4,3 +4,5 @@ id: RBUSD
 id_nomics: RBUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RBUSD.jpg
 name: Rise of BUSD
+platform: BNB
+platform_contract: '0x0182ca0c1b2fe03b1399e1869d1edaada013ebe0'

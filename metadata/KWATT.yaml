@@ -6,3 +6,5 @@ id_nomics: KWATT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/kwatt.jpg
 logoKey: currencies/kwatt.jpg
 name: 4New
+platform: ETH
+platform_contract: '0x241ba672574a78a3a604cdd0a94429a73a84a324'

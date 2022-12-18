@@ -3,3 +3,5 @@ fiat: false
 id: YNC
 id_nomics: YNC
 name: YNCoin
+platform: HT
+platform_contract: '0x09143f7448ca4f5b984e7f6f32e265d1dfe1d7f7'

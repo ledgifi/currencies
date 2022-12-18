@@ -5,3 +5,5 @@ id_nomics: SFI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFI2.jpg
 logoKey: currencies/sfi2.jpg
 name: Spice
+platform: ETH
+platform_contract: '0xb753428af26e81097e7fd17f40c88aaa3e04902c'

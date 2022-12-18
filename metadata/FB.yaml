@@ -5,3 +5,5 @@ id_nomics: FB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FB.jpg
 logoKey: currencies/fb.jpg
 name: Fenerbahçe
+platform: ETH
+platform_contract: '0xfb19075d77a0f111796fb259819830f4780f1429'

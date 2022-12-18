@@ -5,3 +5,5 @@ id_nomics: ELONTWEET2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELONTWEET2.jpeg
 logoKey: currencies/elontweet2.jpeg
 name: ElonTweet
+platform: BNB
+platform_contract: '0x6f69c8ce98063b4ff3f3bd61f48f0b85a98fe243'

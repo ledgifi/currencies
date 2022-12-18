@@ -5,3 +5,5 @@ id_nomics: AI3A
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AI3A.png
 logoKey: currencies/ai3a.png
 name: Algorithmic AI
+platform: BNB
+platform_contract: '0x6055f7b33f768ad9750cdd0a97769d36c12a6afd'

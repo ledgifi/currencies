@@ -3,3 +3,5 @@ fiat: false
 id: 1CENT
 id_nomics: 1CENT
 name: 1Cent
+platform: BNB
+platform_contract: '0xae4d7b8e83bacc7469615565aa0b5030f01334b5'

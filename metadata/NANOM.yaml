@@ -5,3 +5,5 @@ id_nomics: NANOM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NANOM.png
 logoKey: currencies/nanom.png
 name: NANOM
+platform: BNB
+platform_contract: '0xbdee9b919fa32ace876627314b6d35d1e4553301'

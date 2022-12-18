@@ -3,3 +3,5 @@ fiat: false
 id: IP3
 id_nomics: IP3
 name: CRIPCO
+platform: BNB
+platform_contract: '0x2725ca56df9c046a5590e919963136ad357e92a6'

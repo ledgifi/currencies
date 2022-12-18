@@ -5,3 +5,5 @@ id_nomics: DX8X
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DX8X.jpg
 logoKey: currencies/dx8x.jpg
 name: Delta 8X
+platform: ETH
+platform_contract: '0xf691c886e5a651852b8b0aa30153e01d0e4943be'

@@ -5,3 +5,5 @@ id_nomics: CBR3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBR3.jpeg
 logoKey: currencies/cbr3.jpeg
 name: Cryptoblaster
+platform: BNB
+platform_contract: '0xea647d3367159cffcfa9799a2e5496957db8fa61'

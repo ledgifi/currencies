@@ -5,3 +5,5 @@ id_nomics: FLOKIGOLD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKIGOLD2.jpg
 logoKey: currencies/flokigold2.jpg
 name: Floki Gold
+platform: ETH
+platform_contract: '0x9f9fd5872beb21392f286afc6eb3a0f8154384fc'

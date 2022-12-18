@@ -3,3 +3,5 @@ fiat: false
 id: RATS
 id_nomics: RATS
 name: Ratscoin
+platform: BNB
+platform_contract: '0x80f2ca86012bb533f108a07993e96879305b29bc'

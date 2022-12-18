@@ -5,3 +5,5 @@ id_nomics: SDLN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SDLN.png
 logoKey: currencies/sdln.png
 name: Seedling Token
+platform: BNB
+platform_contract: '0x8e2e96a890dfaca6957ea899e1c37411a111afd2'

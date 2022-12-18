@@ -5,3 +5,5 @@ id_nomics: SMN4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMN4.png
 logoKey: currencies/smn4.png
 name: SubmarineLand
+platform: BNB
+platform_contract: '0x4A9E289a8375e33388bbeC8FFaaD4d71EdE63d2D'

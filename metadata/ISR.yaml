@@ -6,3 +6,5 @@ id_nomics: ISR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ISR.png
 logoKey: currencies/isr.png
 name: Insureum
+platform: ETH
+platform_contract: '0xb16d3ed603d62b125c6bd45519eda40829549489'

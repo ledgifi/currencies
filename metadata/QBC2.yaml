@@ -5,3 +5,5 @@ id_nomics: QBC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QBC2.jpg
 logoKey: currencies/qbc2.jpg
 name: Qbean
+platform: ETH
+platform_contract: '0x6961a3e9d86ded4c0c64678d538dc2359659b29e'

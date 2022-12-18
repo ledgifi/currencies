@@ -5,3 +5,5 @@ id_nomics: BEER2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEER2.jpg
 logoKey: currencies/beer2.jpg
 name: FridayBeers
+platform: ETH
+platform_contract: '0x573be8873cc39149e71b92918e73634acb3c54d5'

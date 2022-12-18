@@ -5,3 +5,5 @@ id_nomics: I9X
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/I9X.jpg
 logoKey: currencies/i9x.jpg
 name: i9X Coin
+platform: ETH
+platform_contract: '0x60a16b9efd33bb45c18833aed45ca66045b3b714'

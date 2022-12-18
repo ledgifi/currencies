@@ -8,3 +8,5 @@ id_nomics: AUDIO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AUDIO.png
 logoKey: currencies/audio.png
 name: Audius
+platform: ETH
+platform_contract: '0x18aaa7115705e8be94bffebde57af9bfc265b998'

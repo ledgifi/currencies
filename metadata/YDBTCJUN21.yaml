@@ -5,3 +5,5 @@ id_nomics: YDBTCJUN21
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YDBTCJUN21.jpg
 logoKey: currencies/ydbtcjun21.jpg
 name: YD-BTC-JUN21
+platform: ETH
+platform_contract: '0x4b7fb448df91c8ed973494f8c8c4f12daf3a8521'

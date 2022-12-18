@@ -5,3 +5,5 @@ id_nomics: NYB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NYB.jpg
 logoKey: currencies/nyb.jpg
 name: New Year Bull
+platform: ETH
+platform_contract: '0x798a9055a98913835bbfb45a0bbc209438dcfd97'

@@ -5,3 +5,5 @@ id_nomics: JSIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JSIN.jpeg
 logoKey: currencies/jsin.jpeg
 name: JONNYSINScollection
+platform: BNB
+platform_contract: '0x951e9f1201ff9baee75ee21d1ef1d8409b3b070f'

@@ -5,3 +5,5 @@ id_nomics: WOD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOD2.jpg
 logoKey: currencies/wod2.jpg
 name: World of Defish
+platform: BNB
+platform_contract: '0x298632d8ea20d321fab1c9b473df5dbda249b2b6'

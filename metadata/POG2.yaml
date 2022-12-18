@@ -5,3 +5,5 @@ id_nomics: POG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POG2.jpg
 logoKey: currencies/pog2.jpg
 name: Pogged Finance
+platform: BNB
+platform_contract: '0x1bcccd1aac451df2ce62eae7ad9b235bbdecd2e5'

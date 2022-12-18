@@ -5,3 +5,5 @@ id_nomics: ESG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ESG2.jpg
 logoKey: currencies/esg2.jpg
 name: Empty Set Gold
+platform: ETH
+platform_contract: '0x5cf9242493be1411b93d064ca2e468961bbb5924'

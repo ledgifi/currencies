@@ -6,3 +6,5 @@ id_nomics: ZENO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZENO.jpg
 logoKey: currencies/zeno.jpg
 name: Zeno Inu
+platform: ETH
+platform_contract: '0x7d2ee0a3856cffd58fb0963c0e24bf1277a0be0e'

@@ -5,3 +5,5 @@ id_nomics: BRAVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRAVE.jpg
 logoKey: currencies/brave.jpg
 name: BraveToken
+platform: BNB
+platform_contract: '0xadb5ab463c060632df20fac209e703799b146f50'

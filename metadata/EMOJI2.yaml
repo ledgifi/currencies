@@ -5,3 +5,5 @@ id_nomics: EMOJI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EMOJI2.jpg
 logoKey: currencies/emoji2.jpg
 name: Emojis Farm
+platform: ETH
+platform_contract: '0xcbd380c2d84deafed09f79863705353505764f26'

@@ -5,3 +5,5 @@ id_nomics: BAMBOO5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAMBOO5.png
 logoKey: currencies/bamboo5.png
 name: BambooToken
+platform: BNB
+platform_contract: '0x6a1cd7377c7b2fd42151c93206af5089b4658372'

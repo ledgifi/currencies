@@ -5,3 +5,5 @@ id_nomics: MFIAVAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MFIAVAX.jpg
 logoKey: currencies/mfiavax.jpg
 name: Marginswap (Avalanche)
+platform: AVAX
+platform_contract: '0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0'

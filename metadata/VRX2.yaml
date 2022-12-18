@@ -5,3 +5,5 @@ id_nomics: VRX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VRX2.jpg
 logoKey: currencies/vrx2.jpg
 name: Verox
+platform: ETH
+platform_contract: '0x87de305311d5788e8da38d19bb427645b09cb4e5'

@@ -5,3 +5,5 @@ id_nomics: WDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WDT.png
 logoKey: currencies/wdt.png
 name: VODA TOKEN
+platform: ETH
+platform_contract: '0xd110bb8a24b100c37af7310416e685af807c1f10'

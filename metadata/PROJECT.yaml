@@ -5,3 +5,5 @@ id_nomics: PROJECT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PROJECT.png
 logoKey: currencies/project.png
 name: The Prosperity Project
+platform: BNB
+platform_contract: '0x499Ec235B50230F145EF875aA5999c2d19811fDB'

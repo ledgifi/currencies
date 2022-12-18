@@ -5,3 +5,5 @@ id_nomics: PTA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PTA3.jpg
 logoKey: currencies/pta3.jpg
 name: La Peseta
+platform: BNB
+platform_contract: '0x3843f234b35a311e195608d32283a68284b3c44d'

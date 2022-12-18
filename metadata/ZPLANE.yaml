@@ -3,3 +3,5 @@ fiat: false
 id: ZPLANE
 id_nomics: ZPLANE
 name: ZPL
+platform: BNB
+platform_contract: '0xec20772bc16bf99178b07b3c65712424a5af3ceb'

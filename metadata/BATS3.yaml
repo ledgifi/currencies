@@ -5,3 +5,5 @@ id_nomics: BATS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BATS3.jpg
 logoKey: currencies/bats3.jpg
 name: BusdBat
+platform: BNB
+platform_contract: '0x52e735fd242fd78a030ed1ba4c93e6cbe6031cb9'

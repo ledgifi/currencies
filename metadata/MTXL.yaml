@@ -5,3 +5,5 @@ id_nomics: MTXL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTXL.png
 logoKey: currencies/mtxl.png
 name: Matrix Land
+platform: BNB
+platform_contract: '0x1009977076c57b8e7340dfa2137cc63a8d4604aa'

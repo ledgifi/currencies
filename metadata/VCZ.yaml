@@ -3,3 +3,5 @@ fiat: false
 id: VCZ
 id_nomics: VCZ
 name: vcz
+platform: ETH
+platform_contract: '0x5d396607ea4ccd16e1401661ba7f16d4239e07af'

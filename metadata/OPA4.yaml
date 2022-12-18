@@ -5,3 +5,5 @@ id_nomics: OPA4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OPA4.jpg
 logoKey: currencies/opa4.jpg
 name: Cloud Oppa
+platform: BNB
+platform_contract: '0x41180608fd5c97bb57e98d9ce48be280e978979a'

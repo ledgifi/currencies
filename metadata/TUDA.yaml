@@ -6,3 +6,5 @@ id_nomics: TUDA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TUDA.jpg
 logoKey: currencies/tuda.jpg
 name: Tutor's Diary
+platform: ETH
+platform_contract: '0x5e3002dff591c5e75bb9dedae268049742e6b13a'

@@ -5,3 +5,5 @@ id_nomics: COA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COA2.png
 logoKey: currencies/coa2.png
 name: Clash of Apes
+platform: ETH
+platform_contract: '0x57B38386709Fe5119184f5452C2e2B6B98321554'

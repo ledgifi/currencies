@@ -6,3 +6,5 @@ id_nomics: CFLO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CFLO.jpg
 logoKey: currencies/cflo.jpg
 name: Chain Flowers
+platform: ETH
+platform_contract: '0x8994c21d588106ba289e014331a1d74491894cee'

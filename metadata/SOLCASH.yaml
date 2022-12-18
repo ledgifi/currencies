@@ -5,3 +5,5 @@ id_nomics: SOLCASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOLCASH.jpg
 logoKey: currencies/solcash.jpg
 name: SOLCash
+platform: BNB
+platform_contract: '0x7b86f5ca09dc00502e342b0fef5117e1c32222ce'

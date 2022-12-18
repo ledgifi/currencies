@@ -5,3 +5,5 @@ id_nomics: TANCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TANCX.jpg
 logoKey: currencies/tancx.jpg
 name: Invesco Solar ETF
+platform: ETH
+platform_contract: '0x5ebbe36c112da72d711716fa988602d5b218dce4'

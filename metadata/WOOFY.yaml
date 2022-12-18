@@ -6,3 +6,5 @@ id_nomics: WOOFY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOOFY.jpg
 logoKey: currencies/woofy.jpg
 name: Woofy
+platform: ETH
+platform_contract: '0xd0660cd418a64a1d44e9214ad8e459324d8157f1'

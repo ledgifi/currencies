@@ -5,3 +5,5 @@ id_nomics: ZD3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZD3.jpg
 logoKey: currencies/zd3.jpg
 name: Zilla DAO
+platform: BNB
+platform_contract: '0x106f38a5d041acf7e25dfa18236a3f1767d700ac'

@@ -5,3 +5,5 @@ id_nomics: LUCHA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUCHA.jpg
 logoKey: currencies/lucha.jpg
 name: Luchadores.io LUCHA Token
+platform: MATIC
+platform_contract: '0x6749441fdc8650b5b5a854ed255c82ef361f1596'

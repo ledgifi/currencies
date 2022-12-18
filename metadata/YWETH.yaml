@@ -3,3 +3,5 @@ fiat: false
 id: YWETH
 id_nomics: YWETH
 name: Yearn Wrapped Ether
+platform: ETH
+platform_contract: '0xe1237aa7f535b0cc33fd973d66cbf830354d16c7'

@@ -5,3 +5,5 @@ id_nomics: BXBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BXBTC.jpg
 logoKey: currencies/bxbtc.jpg
 name: bxBTC
+platform: BNB
+platform_contract: '0xab111d5948470ba73d98d66bbdf2798fbe093546'

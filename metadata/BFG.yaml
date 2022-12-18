@@ -5,3 +5,5 @@ id_nomics: BFG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BFG.jpg
 logoKey: currencies/bfg.jpg
 name: BFG Token
+platform: BNB
+platform_contract: '0xbb46693ebbea1ac2070e59b4d043b47e2e095f86'

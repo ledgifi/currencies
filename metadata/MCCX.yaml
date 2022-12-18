@@ -5,3 +5,5 @@ id_nomics: MCCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCCX.jpg
 logoKey: currencies/mccx.jpg
 name: Moelis & Company Token
+platform: ETH
+platform_contract: '0x408ceb38c21826d25e1ebc8a6588a38b836b19a9'

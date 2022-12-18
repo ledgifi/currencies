@@ -5,3 +5,5 @@ id_nomics: BTI4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTI4.webp
 logoKey: currencies/bti4.webp
 name: Baby Twoge Inu
+platform: BNB
+platform_contract: '0x20678e6D33662a2D35Fc17Cc509C9147A9465233'

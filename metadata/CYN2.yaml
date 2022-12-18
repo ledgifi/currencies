@@ -5,3 +5,5 @@ id_nomics: CYN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CYN2.jpg
 logoKey: currencies/cyn2.jpg
 name: Cycan Network
+platform: BNB
+platform_contract: '0x8bac919fbca13d67e9f901bf41537931efff0e7d'

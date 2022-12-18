@@ -5,3 +5,5 @@ id_nomics: BITDNS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITDNS.jpg
 logoKey: currencies/bitdns.jpg
 name: BitDNS
+platform: ETH
+platform_contract: '0x17c090f9a17e4e5a8ceb23bbe7e7e28e3c4ca196'

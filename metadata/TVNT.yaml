@@ -6,3 +6,5 @@ id_nomics: TVNT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TVNT.jpg
 logoKey: currencies/tvnt.jpg
 name: TravelNote
+platform: ETH
+platform_contract: '0x5635ddeabf9cdda686995fe90beb5411831563fc'

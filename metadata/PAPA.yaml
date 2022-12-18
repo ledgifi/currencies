@@ -6,3 +6,5 @@ id_nomics: PAPA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAPA.jpg
 logoKey: currencies/papa.jpg
 name: PAPA DAO
+platform: AVAX
+platform_contract: '0x70b33ebc5544c12691d055b49762d0f8365d99fe'

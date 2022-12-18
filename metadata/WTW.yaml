@@ -6,3 +6,5 @@ id_nomics: WTW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WTW.jpg
 logoKey: currencies/wtw.jpg
 name: Watchtower
+platform: BNB
+platform_contract: '0x1967abfdc4ae7961c5a8a5395469222260c27c02'

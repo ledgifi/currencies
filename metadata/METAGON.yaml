@@ -3,3 +3,5 @@ fiat: false
 id: METAGON
 id_nomics: METAGON
 name: Metagon
+platform: MATIC
+platform_contract: '0xa9cb489b3e59ca5f30b45c1ec2fc068ad6551686'

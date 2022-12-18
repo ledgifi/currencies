@@ -5,3 +5,5 @@ id_nomics: INSR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INSR.jpeg
 logoKey: currencies/insr.jpeg
 name: Insurobo
+platform: BNB
+platform_contract: '0x707db038c846d30401d25dbbdc4ace67c6585f57'

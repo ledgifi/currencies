@@ -6,3 +6,5 @@ id_nomics: GZLR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GZLR.jpg
 logoKey: currencies/gzlr.jpg
 name: Guzzler
+platform: ETH
+platform_contract: '0x9f4909cc95fb870bf48c128c1fdbb5f482797632'

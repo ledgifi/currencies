@@ -3,3 +3,5 @@ fiat: false
 id: CHEDDAC
 id_nomics: CHEDDAC
 name: Chedda Token Classic
+platform: ETH
+platform_contract: '0x1df7e425de5c33dae1b50b05831753506920a830'

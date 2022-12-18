@@ -5,3 +5,5 @@ id_nomics: THESANDBOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THESANDBOX.jpeg
 logoKey: currencies/thesandbox.jpeg
 name: The Sandbox NFT
+platform: BNB
+platform_contract: '0xea1621427578114fd72bb6ca0943e168b153f362'

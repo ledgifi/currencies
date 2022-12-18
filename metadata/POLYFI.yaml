@@ -5,3 +5,5 @@ id_nomics: POLYFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POLYFI.jpg
 logoKey: currencies/polyfi.jpg
 name: PolyFi
+platform: MATIC
+platform_contract: '0xfb005a1834eaaa6e55945b4b756e6873cecfe5ae'

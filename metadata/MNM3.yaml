@@ -5,3 +5,5 @@ id_nomics: MNM3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MNM3.jpg
 logoKey: currencies/mnm3.jpg
 name: Money Moon
+platform: BNB
+platform_contract: '0x3605ff1c8a3e23609066eefbc37a38615bedba91'

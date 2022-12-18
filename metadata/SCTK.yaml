@@ -6,3 +6,5 @@ id_nomics: SCTK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCTK.jpg
 logoKey: currencies/sctk.jpg
 name: SharesChain
+platform: ETH
+platform_contract: '0x1071ba8ada384c2b9b87f808e19dbb9aa4f0f88a'

@@ -5,3 +5,5 @@ id_nomics: MIBR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIBR.png
 logoKey: currencies/mibr.png
 name: MIBR Fan Token
+platform: CHZ
+platform_contract: '0x561e2e5acbd6cd9cbcc4a3aa0216c7508058df94'

@@ -5,3 +5,5 @@ id_nomics: STG3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STG3.jpg
 logoKey: currencies/stg3.jpg
 name: Stargate Finance
+platform: ETH
+platform_contract: '0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6'

@@ -5,3 +5,5 @@ id_nomics: ESHIB4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ESHIB4.jpg
 logoKey: currencies/eshib4.jpg
 name: Euro Shiba Inu
+platform: BNB
+platform_contract: '0xffaa85705ae216363e4e843b67ff3c238fcf0de2'

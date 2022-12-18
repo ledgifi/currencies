@@ -6,3 +6,5 @@ id_nomics: ACU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACU.png
 logoKey: currencies/acu.png
 name: Aitheon
+platform: ETH
+platform_contract: '0xd536bbd5414a8c2beed82a63737b9327d2fa35a6'

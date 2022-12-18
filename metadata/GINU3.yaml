@@ -5,3 +5,5 @@ id_nomics: GINU3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GINU3.jpg
 logoKey: currencies/ginu3.jpg
 name: Gol D Inu
+platform: ETH
+platform_contract: '0xb2ed199b46630e789e8740fb83b1611acf018516'

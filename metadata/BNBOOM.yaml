@@ -3,3 +3,5 @@ fiat: false
 id: BNBOOM
 id_nomics: BNBOOM
 name: BNBOOM
+platform: BNB
+platform_contract: '0x97e19171e13325c6aa5ef436216a0458f65848f1'

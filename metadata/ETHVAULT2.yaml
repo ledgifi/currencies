@@ -5,3 +5,5 @@ id_nomics: ETHVAULT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHVAULT2.png
 logoKey: currencies/ethvault2.png
 name: ETHVault
+platform: BNB
+platform_contract: '0x63d55ecdebf08f93d0f2d5533035ddccaa997d7a'

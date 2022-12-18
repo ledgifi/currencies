@@ -3,3 +3,5 @@ fiat: false
 id: OSF
 id_nomics: OSF
 name: OSF Editions
+platform: ETH
+platform_contract: '0x56fd574e050183ec7acb4fd21da4f8fad5670299'

@@ -6,3 +6,5 @@ id_nomics: POSS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/poss.jpg
 logoKey: currencies/poss.jpg
 name: Posscoin
+platform: ETH
+platform_contract: '0x6b193e107a773967bd821bcf8218f3548cfa2503'

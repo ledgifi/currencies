@@ -5,3 +5,5 @@ id_nomics: LLAMA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LLAMA2.png
 logoKey: currencies/llama2.png
 name: Llama Coin
+platform: FTM
+platform_contract: '0x912220494512ec19d4a044f398eec557ccf05803'

@@ -5,3 +5,5 @@ id_nomics: ERO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ERO2.jpg
 logoKey: currencies/ero2.jpg
 name: Eroverse
+platform: BNB
+platform_contract: '0x22cbd249e6c68712da6767f1077b28c87745fa6d'

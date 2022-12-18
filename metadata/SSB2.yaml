@@ -5,3 +5,5 @@ id_nomics: SSB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SSB2.jpg
 logoKey: currencies/ssb2.jpg
 name: Super Saiyan Blue
+platform: ETH
+platform_contract: '0x0c9ef4d58b12041779b8d2165f42a00cb362db81'

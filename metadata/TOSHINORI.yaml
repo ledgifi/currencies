@@ -6,3 +6,5 @@ id_nomics: TOSHINORI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOSHINORI.jpg
 logoKey: currencies/toshinori.jpg
 name: Toshinori Inu
+platform: BNB
+platform_contract: '0x2c3ffa02d582a08e27289a3fe67d79c1834a87ef'

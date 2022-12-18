@@ -5,3 +5,5 @@ id_nomics: IBAUD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IBAUD.png
 logoKey: currencies/ibaud.png
 name: Iron Bank AUD
+platform: ETH
+platform_contract: '0xfafdf0c4c1cb09d430bf88c75d88bb46dae09967'

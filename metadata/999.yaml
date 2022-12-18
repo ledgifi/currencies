@@ -6,3 +6,5 @@ id_nomics: '999'
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/999.jpg
 logoKey: currencies/999.jpg
 name: '999'
+platform: ETH
+platform_contract: '0xbf05571988daab22d33c28bbb13566eae9dee626'

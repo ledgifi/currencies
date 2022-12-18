@@ -3,3 +3,5 @@ fiat: false
 id: MAIR
 id_nomics: MAIR
 name: MetaAir
+platform: BNB
+platform_contract: '0x1828e38e7271c44e4bec6810dc5279223ccd14ff'

@@ -5,3 +5,5 @@ id_nomics: POWER4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POWER4.jpg
 logoKey: currencies/power4.jpg
 name: Civic Power
+platform: BNB
+platform_contract: '0x8ce7fc007fc5d1dea63fed829e11eeddd6406dff'

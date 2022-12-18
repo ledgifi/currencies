@@ -6,3 +6,5 @@ id_nomics: FREE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/free.png
 logoKey: currencies/free.png
 name: FREE Coin
+platform: ETH
+platform_contract: '0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd'

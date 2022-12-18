@@ -3,3 +3,5 @@ fiat: false
 id: JAIL
 id_nomics: JAIL
 name: Jail
+platform: ETH
+platform_contract: '0x63fef3d37b910f3a24749aae4668042bd4d4d8d9'

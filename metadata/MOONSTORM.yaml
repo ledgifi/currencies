@@ -5,3 +5,5 @@ id_nomics: MOONSTORM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOONSTORM.jpg
 logoKey: currencies/moonstorm.jpg
 name: MoonStorm
+platform: BNB
+platform_contract: '0xbbea1ac815e5402df5ee9c80a93fc3e72119469d'

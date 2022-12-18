@@ -3,3 +3,5 @@ fiat: false
 id: USDCOW
 id_nomics: USDCOW
 name: USDCow
+platform: ETH
+platform_contract: '0x2dcf322d66cb77a05f66fdff93e3678df7e44dea'

@@ -5,3 +5,5 @@ id_nomics: STEAK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STEAK.jpeg
 logoKey: currencies/steak.jpeg
 name: Steaks Finance
+platform: ETH
+platform_contract: '0xeed9e4f2450035d6426276a8aa2084966ee3b1bb'

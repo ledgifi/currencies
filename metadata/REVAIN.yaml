@@ -5,3 +5,5 @@ id_nomics: REVAIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/r.svg
 logoKey: currencies/revain.svg
 name: Revain
+platform: ETH
+platform_contract: '0x2ef52ed7de8c5ce03a4ef0efbe9b7450f2d7edc9'

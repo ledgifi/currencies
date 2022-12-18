@@ -5,3 +5,5 @@ id_nomics: NSURE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NSURE.jpg
 logoKey: currencies/nsure.jpg
 name: Nsure Network
+platform: ETH
+platform_contract: '0x20945ca1df56d237fd40036d47e866c7dccd2114'

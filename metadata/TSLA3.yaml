@@ -5,3 +5,5 @@ id_nomics: TSLA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TSLA3.png
 logoKey: currencies/tsla3.png
 name: TeslaChain
+platform: BNB
+platform_contract: '0x01260ff8291d14c8ec99acee75481b8e22a3ad67'

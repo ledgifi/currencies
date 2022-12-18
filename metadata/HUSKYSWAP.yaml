@@ -3,3 +3,5 @@ fiat: false
 id: HUSKYSWAP
 id_nomics: HUSKYSWAP
 name: 'HuskySwap '
+platform: ARBETH
+platform_contract: '0x60de60749eb9e9e1850e967c6cd10b3bda056356'

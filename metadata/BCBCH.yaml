@@ -3,3 +3,5 @@ fiat: false
 id: BCBCH
 id_nomics: BCBCH
 name: BlockNG-Peg BCH Token
+platform: SMARTBCH
+platform_contract: '0xbc9bd8dde6c5a8e1cbe293356e02f5984693b195'

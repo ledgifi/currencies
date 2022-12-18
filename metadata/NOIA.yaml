@@ -5,3 +5,5 @@ id_nomics: NOIA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NOIA.png
 logoKey: currencies/noia.png
 name: METANOIA
+platform: ETH
+platform_contract: '0x22e3c3a3bda39c897a48257bc822e7466f171729'

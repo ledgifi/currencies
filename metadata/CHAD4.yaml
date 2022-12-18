@@ -5,3 +5,5 @@ id_nomics: CHAD4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHAD4.jpg
 logoKey: currencies/chad4.jpg
 name: ChadFi
+platform: ETH
+platform_contract: '0xcd9082b72394e5f4579ff679f1544101436e19c1'

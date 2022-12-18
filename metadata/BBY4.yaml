@@ -5,3 +5,5 @@ id_nomics: BBY4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBY4.png
 logoKey: currencies/bby4.png
 name: BlazarByte
+platform: MATIC
+platform_contract: '0xb837f0e111596348a27e424e43938eb01753cf34'

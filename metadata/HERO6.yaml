@@ -5,3 +5,5 @@ id_nomics: HERO6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HERO6.jpg
 logoKey: currencies/hero6.jpg
 name: Hero Floki
+platform: BNB
+platform_contract: '0x5d96991648d22935bdf6c7064b65c3c93f82aa61'

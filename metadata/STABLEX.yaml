@@ -5,3 +5,5 @@ id_nomics: STABLEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STABLEX.jpg
 logoKey: currencies/stablex.jpg
 name: ARC STABLEx
+platform: ETH
+platform_contract: '0xcd91538b91b4ba7797d39a2f66e63810b50a33d0'

@@ -5,3 +5,5 @@ id_nomics: NCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NCX.png
 logoKey: currencies/ncx.png
 name: NUCLEUS
+platform: BNB
+platform_contract: '0x692f7779ec85f887e247a29d9b5ca7a99b152199'

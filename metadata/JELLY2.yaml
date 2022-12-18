@@ -5,3 +5,5 @@ id_nomics: JELLY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JELLY2.jpg
 logoKey: currencies/jelly2.jpg
 name: Jelly
+platform: ETH
+platform_contract: '0xf5f06ffa53ad7f5914f493f16e57b56c8dd2ea80'

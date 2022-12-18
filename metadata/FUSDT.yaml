@@ -8,3 +8,5 @@ id_nomics: FUSDT
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220610/ba04f3cf-6eb2-4bd5-af1e-067ba6fd605d.png
 logoKey: currencies/fusdt.png
 name: Frapped USDT
+platform: FTM
+platform_contract: '0x049d68029688eabf473097a2fc38ef61633a3c7a'

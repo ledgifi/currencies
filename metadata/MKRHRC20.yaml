@@ -3,3 +3,5 @@ fiat: false
 id: MKRHRC20
 id_nomics: MKRHRC20
 name: MKR
+platform: HT
+platform_contract: '0x34d75515090902a513f009f4505a750efaad63b0'

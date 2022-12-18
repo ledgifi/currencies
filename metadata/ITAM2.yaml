@@ -5,3 +5,5 @@ id_nomics: ITAM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ITAM2.jpg
 logoKey: currencies/itam2.jpg
 name: ITAM (BEP-20)
+platform: BNB
+platform_contract: '0x04c747b40be4d535fc83d09939fb0f626f32800b'

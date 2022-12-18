@@ -6,3 +6,5 @@ id_nomics: 1SG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/1SG.jpeg
 logoKey: currencies/1sg.jpeg
 name: 1SG
+platform: ETH
+platform_contract: '0x0f72714b35a366285df85886a2ee174601292a17'

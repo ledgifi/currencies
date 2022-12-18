@@ -5,3 +5,5 @@ id_nomics: TCAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCAP.jpg
 logoKey: currencies/tcap.jpg
 name: Total Crypto Market Cap Token
+platform: ETH
+platform_contract: '0x16c52ceece2ed57dad87319d91b5e3637d50afa4'

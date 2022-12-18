@@ -5,3 +5,5 @@ id_nomics: INUKO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INUKO2.png
 logoKey: currencies/inuko2.png
 name: Inuko Inu
+platform: BNB
+platform_contract: '0x5f8203dfbbe6f883c54f68eeaef4ef6f706ba083'

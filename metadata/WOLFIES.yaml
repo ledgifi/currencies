@@ -6,3 +6,5 @@ id_nomics: WOLFIES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOLFIES.jpg
 logoKey: currencies/wolfies.jpg
 name: Wolf Pups
+platform: BNB
+platform_contract: '0x46561c10bb934d7ed4f82936dc7ed5f39b02558e'

@@ -5,3 +5,5 @@ id_nomics: BASEPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BASEPOS.jpg
 logoKey: currencies/basepos.jpg
 name: Defido Coin (Polygon)
+platform: MATIC
+platform_contract: '0x0422b63182798ae9876cae3cabd225d96b284d14'

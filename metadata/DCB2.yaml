@@ -5,3 +5,5 @@ id_nomics: DCB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DCB2.jpg
 logoKey: currencies/dcb2.jpg
 name: Decubate
+platform: BNB
+platform_contract: '0xeac9873291ddaca754ea5642114151f3035c67a2'

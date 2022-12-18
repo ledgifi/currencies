@@ -3,3 +3,5 @@ fiat: false
 id: DONATE
 id_nomics: DONATE
 name: TRADE2DONATE
+platform: ETH
+platform_contract: '0xb3fdaa3ce210b6aa7891116fbdcdb58369d8c651'

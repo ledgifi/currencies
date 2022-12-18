@@ -3,3 +3,5 @@ fiat: false
 id: WWAN
 id_nomics: WWAN
 name: Wrapped Wan
+platform: WAN
+platform_contract: '0xdabd997ae5e4799be47d6e69d9431615cba28f48'

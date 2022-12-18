@@ -5,3 +5,5 @@ id_nomics: ICMC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICMC.png
 logoKey: currencies/icmc.png
 name: IcoCryptoMarketCap
+platform: BNB
+platform_contract: '0xde4723394d3552a78aa6d525ef15488b6ee8e845'

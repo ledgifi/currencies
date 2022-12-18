@@ -3,3 +3,5 @@ fiat: false
 id: CAU
 id_nomics: CAU
 name: Collective Vesting Token
+platform: BNB
+platform_contract: '0x66bb05958411f07e6736a1e24b5a560d6d4537e2'

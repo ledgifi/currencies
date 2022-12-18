@@ -5,3 +5,5 @@ id_nomics: CAPCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAPCOIN.jpg
 logoKey: currencies/capcoin.jpg
 name: CAPCOIN
+platform: ETH
+platform_contract: '0xaaff6de0ff6e063dffe772fe509400dc1da7aa61'

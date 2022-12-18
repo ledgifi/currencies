@@ -5,3 +5,5 @@ id_nomics: YHC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YHC.jpg
 logoKey: currencies/yhc.jpg
 name: YHC
+platform: BNB
+platform_contract: '0x9bcf82cc8b42b075d6c62436284aa59e77b67c26'

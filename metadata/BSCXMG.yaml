@@ -5,3 +5,5 @@ id_nomics: BSCXMG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSCXMG.png
 logoKey: currencies/bscxmg.png
 name: Magi BEP20
+platform: BNB
+platform_contract: '0x33c3c8d6d77e5585733b0d9504108f690bce3c44'

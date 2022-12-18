@@ -3,3 +3,5 @@ fiat: false
 id: FSR
 id_nomics: FSR
 name: FakeShare
+platform: MATIC
+platform_contract: '0x2c82964534a25dfc86a2018c1c61f39359972098'

@@ -6,3 +6,5 @@ id_nomics: AKITA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AKITA.jpg
 logoKey: currencies/akita.jpg
 name: Akita Inu
+platform: ETH
+platform_contract: '0x3301ee63fb29f863f2333bd4466acb46cd8323e6'

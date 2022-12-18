@@ -3,3 +3,5 @@ fiat: false
 id: POT3
 id_nomics: POT3
 name: PolkaOracle.com
+platform: ETH
+platform_contract: '0xc49ccf4dbfcb65292a64f98c9b5eda29617f99a3'

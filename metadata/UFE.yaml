@@ -3,3 +3,5 @@ fiat: false
 id: UFE
 id_nomics: UFE
 name: USD Flips EUR
+platform: ETH
+platform_contract: '0x8aeb26253aaeee9994953a3a0698d9405b533023'

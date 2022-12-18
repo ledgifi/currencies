@@ -3,3 +3,5 @@ fiat: false
 id: ETCCOIN
 id_nomics: ETCCOIN
 name: ETCcoin
+platform: BNB
+platform_contract: '0x9ab3c9aa5f0cbd62c9129eedee6a35d18f61ec3d'

@@ -5,3 +5,5 @@ id_nomics: KOALA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KOALA3.png
 logoKey: currencies/koala3.png
 name: KoalaBear
+platform: BNB
+platform_contract: '0xa1217c0cce65a37e77cf43af277c0b29d808652c'

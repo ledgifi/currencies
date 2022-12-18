@@ -6,3 +6,5 @@ id_nomics: DAB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAB.png
 logoKey: currencies/dab.png
 name: DABANKING
+platform: ETH
+platform_contract: '0x5e7ebea68ab05198f771d77a875480314f1d0aae'

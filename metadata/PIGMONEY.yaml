@@ -5,3 +5,5 @@ id_nomics: PIGMONEY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIGMONEY.jpg
 logoKey: currencies/pigmoney.jpg
 name: PigMoney
+platform: BNB
+platform_contract: '0xc17fe4986d34d58a3eeec81914b0fdf7db4e58ee'

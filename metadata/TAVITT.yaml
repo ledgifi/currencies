@@ -6,3 +6,5 @@ id_nomics: TAVITT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TAVITT.png
 logoKey: currencies/tavitt.png
 name: Tavittcoin
+platform: ETH
+platform_contract: '0xdd690d8824c00c84d64606ffb12640e932c1af56'

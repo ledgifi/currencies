@@ -5,3 +5,5 @@ id_nomics: PRIME2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRIME2.jpg
 logoKey: currencies/prime2.jpg
 name: PRIME[APE]
+platform: BNB
+platform_contract: '0x6136652c63d85945946576644340761bc324c4d7'

@@ -5,3 +5,5 @@ id_nomics: CHY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHY.jpg
 logoKey: currencies/chy.jpg
 name: Concern Poverty Chain
+platform: ETH
+platform_contract: '0x35a23bc27c345b36dee700a256f69c6334030971'

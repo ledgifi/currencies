@@ -6,3 +6,5 @@ id_nomics: RUMB1
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RUMB1.jpg
 logoKey: currencies/rumb1.jpg
 name: 'Umbrella Reward #1'
+platform: ETH
+platform_contract: '0x1b17dbb40fbed8735e7fe8c9eb02c20984fadfd6'

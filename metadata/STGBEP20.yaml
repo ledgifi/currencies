@@ -5,3 +5,5 @@ id_nomics: STGBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STGBEP20.jpg
 logoKey: currencies/stgbep20.jpg
 name: Stargate Finance (BEP-20)
+platform: BNB
+platform_contract: '0xb0d502e938ed5f4df2e681fe6e419ff29631d62b'

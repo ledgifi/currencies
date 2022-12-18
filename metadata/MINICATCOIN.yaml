@@ -3,3 +3,5 @@ fiat: false
 id: MINICATCOIN
 id_nomics: MINICATCOIN
 name: Mini CatCoin
+platform: BNB
+platform_contract: '0xbde4144778335bda795d39cb48110af830ca11bf'

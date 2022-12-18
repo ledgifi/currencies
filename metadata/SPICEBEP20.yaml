@@ -5,3 +5,5 @@ id_nomics: SPICEBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPICEBEP20.png
 logoKey: currencies/spicebep20.png
 name: Spice Trade (BEP-20)
+platform: BNB
+platform_contract: '0x42586ef4495bb512a86cf7496f6ef85ae7d69a64'

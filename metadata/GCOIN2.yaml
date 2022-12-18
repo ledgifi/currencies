@@ -5,3 +5,5 @@ id_nomics: GCOIN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GCOIN2.jpg
 logoKey: currencies/gcoin2.jpg
 name: Galaxy Fight Club
+platform: MATIC
+platform_contract: '0x071ac29d569a47ebffb9e57517f855cb577dcc4c'

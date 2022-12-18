@@ -6,3 +6,5 @@ id_nomics: BNTX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNTX.jpg
 logoKey: currencies/bntx.jpg
 name: Bintex Futures
+platform: ETH
+platform_contract: '0x499f434458f62a1e76974fce5efce9dd6b31d4f2'

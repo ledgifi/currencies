@@ -5,3 +5,5 @@ id_nomics: YVECRVDAO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YVECRVDAO.png
 logoKey: currencies/yvecrvdao.png
 name: veCRV-DAO yVault
+platform: ETH
+platform_contract: '0xc5bddf9843308380375a611c18b50fb9341f502a'

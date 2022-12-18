@@ -5,3 +5,5 @@ id_nomics: HEC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HEC2.jpg
 logoKey: currencies/hec2.jpg
 name: HeroesChained
+platform: AVAX
+platform_contract: '0xc7f4debc8072e23fe9259a5c0398326d8efb7f5c'

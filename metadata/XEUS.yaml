@@ -6,3 +6,5 @@ id_nomics: XEUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XEUS.jpg
 logoKey: currencies/xeus.jpg
 name: XEUS
+platform: BNB
+platform_contract: '0x4e141769366634d9c4e498257fa7ec204d22b634'

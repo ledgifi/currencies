@@ -5,3 +5,5 @@ id_nomics: RBC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RBC3.jpg
 logoKey: currencies/rbc3.jpg
 name: Roti Bank Coin
+platform: ETH
+platform_contract: '0xf5078213b8d39e0eec2011d9486c17ddf07ea003'

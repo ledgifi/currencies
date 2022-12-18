@@ -6,3 +6,5 @@ id_nomics: INCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/incx.jpg
 logoKey: currencies/incx.jpg
 name: International CryptoX
+platform: ETH
+platform_contract: '0xa984a92731c088f1ea4d53b71a2565a399f7d8d5'

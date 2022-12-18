@@ -5,3 +5,5 @@ id_nomics: LYS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LYS2.jpg
 logoKey: currencies/lys2.jpg
 name: Elysium
+platform: BNB
+platform_contract: '0x6f2fb47e01d8a7b7e3d8f46e00d074b7fd2884a6'

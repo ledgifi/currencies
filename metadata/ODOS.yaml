@@ -3,3 +3,5 @@ fiat: false
 id: ODOS
 id_nomics: ODOS
 name: Odos DEX
+platform: ARBETH
+platform_contract: '0xfa7f98079fa31bf6b55692d36ff9957e5813f7f0'

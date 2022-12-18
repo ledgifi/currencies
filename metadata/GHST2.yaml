@@ -3,3 +3,5 @@ fiat: false
 id: GHST2
 id_nomics: GHST2
 name: Aavegotchi GHST Token (Polygon)
+platform: MATIC
+platform_contract: '0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7'

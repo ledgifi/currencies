@@ -6,3 +6,5 @@ id_nomics: NYDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NYDOGE.jpeg
 logoKey: currencies/nydoge.jpeg
 name: New Year Doge
+platform: BNB
+platform_contract: '0x1ffdc3b34a86c15d62d3cb0ddf499ab1df8adf91'

@@ -5,3 +5,5 @@ id_nomics: SCAT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCAT4.jpeg
 logoKey: currencies/scat4.jpeg
 name: Space Cat
+platform: BNB
+platform_contract: '0xaa8383124d98f368614b29a1dc5c419b64ad0c57'

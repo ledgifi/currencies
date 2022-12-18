@@ -6,3 +6,5 @@ id_nomics: VINCI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VINCI.jpg
 logoKey: currencies/vinci.jpg
 name: Vinci
+platform: ETH
+platform_contract: '0x3db99ab08006aefcc9600972eca8c202396b4300'

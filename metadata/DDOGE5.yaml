@@ -5,3 +5,5 @@ id_nomics: DDOGE5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DDOGE5.jpg
 logoKey: currencies/ddoge5.jpg
 name: Diamond Doge
+platform: BNB
+platform_contract: '0xb8ed3d93b99c2774e3be8904af8a9c597c8b120b'

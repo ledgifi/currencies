@@ -5,3 +5,5 @@ id_nomics: BIN6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIN6.jpg
 logoKey: currencies/bin6.jpg
 name: Binary Network
+platform: BNB
+platform_contract: '0x7acd8f9fecA287365F6ba1dFE3C783bb15D7c92D'

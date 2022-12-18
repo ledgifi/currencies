@@ -5,3 +5,5 @@ id_nomics: KRP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KRP.jpg
 logoKey: currencies/krp.jpg
 name: KRISPER
+platform: BNB
+platform_contract: '0x47a2af97466f2371ccedf5b7351b9d3c2078d9ea'

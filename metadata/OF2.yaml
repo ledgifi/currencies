@@ -5,3 +5,5 @@ id_nomics: OF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OF2.jpg
 logoKey: currencies/of2.jpg
 name: OGFLOKI
+platform: BNB
+platform_contract: '0x7a0dc2a4c3982E1168C1641452F7100577c6db74'

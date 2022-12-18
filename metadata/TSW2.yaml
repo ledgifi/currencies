@@ -5,3 +5,5 @@ id_nomics: TSW2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TSW2.jpeg
 logoKey: currencies/tsw2.jpeg
 name: TrumpSwap
+platform: BNB
+platform_contract: '0xd9294bdb1a11d61de047de5b8034b20bc7eaab79'

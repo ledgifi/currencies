@@ -5,3 +5,5 @@ id_nomics: HONEY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HONEY.jpg
 logoKey: currencies/honey.jpg
 name: Honey Finance
+platform: ETH
+platform_contract: '0x33b4fe5e40e4903a0849ca97b3292eac3eb0aa36'

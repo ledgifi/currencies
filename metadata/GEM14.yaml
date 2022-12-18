@@ -5,3 +5,5 @@ id_nomics: GEM14
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GEM14.png
 logoKey: currencies/gem14.png
 name: Gemie
+platform: ETH
+platform_contract: '0x9008064e6cf73e27a3aba4b10e69f855a4f8efcc'

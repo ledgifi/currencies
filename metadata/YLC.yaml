@@ -6,3 +6,5 @@ id_nomics: YLC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ylc.jpg
 logoKey: currencies/ylc.jpg
 name: YoloCash
+platform: ETH
+platform_contract: '0x21d5678a62dfe63a47062469ebb2fac2817d8832'

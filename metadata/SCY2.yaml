@@ -5,3 +5,5 @@ id_nomics: SCY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCY2.jpg
 logoKey: currencies/scy2.jpg
 name: Scary Games
+platform: BNB
+platform_contract: '0x06d7645f4f483bb925db2094dd5fdb1f75b07d61'

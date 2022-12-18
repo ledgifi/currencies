@@ -3,3 +3,5 @@ fiat: false
 id: TESLATOKEN
 id_nomics: TESLATOKEN
 name: ElonTesla
+platform: BNB
+platform_contract: '0x1d44a4fa81307ed05a3ff207410a6225b4a4f51e'

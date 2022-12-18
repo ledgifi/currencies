@@ -5,3 +5,5 @@ id_nomics: MOONVEMBER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOONVEMBER.jpg
 logoKey: currencies/moonvember.jpg
 name: MOONVEMBER
+platform: ETH
+platform_contract: '0x897cca947d6f94cb4bd9be669217aa18a1e4ae2d'

@@ -6,3 +6,5 @@ id_nomics: DOOGEE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOOGEE.jpg
 logoKey: currencies/doogee.jpg
 name: Doogee
+platform: BNB
+platform_contract: '0xdda82f136576ae87d2702bb05370af274ce71dd5'

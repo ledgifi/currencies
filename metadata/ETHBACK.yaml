@@ -5,3 +5,5 @@ id_nomics: ETHBACK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHBACK.jpg
 logoKey: currencies/ethback.jpg
 name: EtherBack
+platform: BNB
+platform_contract: '0x50229c02f6e1890986e4ccc7b9b13b5652592054'

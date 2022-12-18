@@ -5,3 +5,5 @@ id_nomics: CPI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CPI.jpg
 logoKey: currencies/cpi.jpg
 name: Crypto Price Index
+platform: ETH
+platform_contract: '0x2b67d1a87a8d8b280a23e97bc55095215ee0ec53'

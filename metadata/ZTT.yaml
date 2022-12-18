@@ -3,3 +3,5 @@ fiat: false
 id: ZTT
 id_nomics: ZTT
 name: zTokens
+platform: ETH
+platform_contract: '0x6f0f17df020cb9f200c175883b24b4407d18c521'

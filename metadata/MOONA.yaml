@@ -6,3 +6,5 @@ id_nomics: MOONA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOONA.jpg
 logoKey: currencies/moona.jpg
 name: Ms. Moona Rewards
+platform: BNB
+platform_contract: '0x96bfd54ff440a7bf529af6c50cee3ba9abc0a372'

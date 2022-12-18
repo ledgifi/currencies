@@ -5,3 +5,5 @@ id_nomics: AREP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AREP.jpg
 logoKey: currencies/arep.jpg
 name: Aave REP
+platform: ETH
+platform_contract: '0x71010a9d003445ac60c4e6a7017c1e89a477b438'

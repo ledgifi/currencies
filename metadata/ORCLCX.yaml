@@ -5,3 +5,5 @@ id_nomics: ORCLCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORCLCX.jpg
 logoKey: currencies/orclcx.jpg
 name: Oracle Corporation Token
+platform: ETH
+platform_contract: '0xfb9ec3111b7d68a8d80491cbf356dc4881e7e4f0'

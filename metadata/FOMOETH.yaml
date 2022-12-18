@@ -6,3 +6,5 @@ id_nomics: FOMOETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOMOETH.jpg
 logoKey: currencies/fomoeth.jpg
 name: FomoETH
+platform: BNB
+platform_contract: '0x8a65b987d9813f0a97446eda0de918b2573ae406'

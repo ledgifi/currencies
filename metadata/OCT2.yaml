@@ -5,3 +5,5 @@ id_nomics: OCT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCT2.jpg
 logoKey: currencies/oct2.jpg
 name: Octree
+platform: BNB
+platform_contract: '0x49277cc5be56b519901e561096bfd416277b4f6d'

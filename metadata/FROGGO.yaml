@@ -5,3 +5,5 @@ id_nomics: FROGGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FROGGO.jpg
 logoKey: currencies/froggo.jpg
 name: Mutant Froggo
+platform: BNB
+platform_contract: '0x37ce6d9660aa14ef27afefe060f4044565397ea3'

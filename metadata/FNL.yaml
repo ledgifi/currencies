@@ -5,3 +5,5 @@ id_nomics: FNL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FNL.png
 logoKey: currencies/fnl.png
 name: Finlocale
+platform: ETH
+platform_contract: '0xe5869a1ade66f0174c0fae6cd6cc303c54d7c738'

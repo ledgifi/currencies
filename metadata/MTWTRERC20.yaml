@@ -5,3 +5,5 @@ id_nomics: MTWTRERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTWTRERC20.png
 logoKey: currencies/mtwtrerc20.png
 name: Wrapped Mirror TWTR Token (ERC-20)
+platform: ETH
+platform_contract: '0xedb0414627e6f1e3f082de65cd4f9c693d78cca9'

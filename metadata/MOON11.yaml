@@ -5,3 +5,5 @@ id_nomics: MOON11
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOON11.png
 logoKey: currencies/moon11.png
 name: Moon
+platform: BNB
+platform_contract: '0x102b901c69581bafe7d9a959bc5b9777c7a037c3'

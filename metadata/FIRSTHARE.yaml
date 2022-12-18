@@ -6,3 +6,5 @@ id_nomics: FIRSTHARE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIRSTHARE.jpg
 logoKey: currencies/firsthare.jpg
 name: FirstHare
+platform: BNB
+platform_contract: '0x432b4f994760ea0c5f48baab6217e82a2b7f2c55'

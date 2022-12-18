@@ -3,3 +3,5 @@ fiat: false
 id: HPTTEST
 id_nomics: HPTTEST
 name: HighPointTesting
+platform: AVAX
+platform_contract: '0x0f358f875d1d3d45ecc29696130d8c48bea9a5ac'

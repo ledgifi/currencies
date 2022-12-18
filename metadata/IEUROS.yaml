@@ -3,3 +3,5 @@ fiat: false
 id: IEUROS
 id_nomics: IEUROS
 name: Inflation Adjusted EURO
+platform: AVAX
+platform_contract: '0xd7a5197b78e6c139531c3d2ff064215902b72c2e'

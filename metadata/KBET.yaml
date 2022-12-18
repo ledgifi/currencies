@@ -3,3 +3,5 @@ fiat: false
 id: KBET
 id_nomics: KBET
 name: KBET Token
+platform: BNB
+platform_contract: '0x5ed5568feff65864c17a6b3da836b00888480647'

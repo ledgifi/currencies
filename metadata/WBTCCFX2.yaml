@@ -4,3 +4,5 @@ id: WBTCCFX2
 id_nomics: WBTCCFX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WBTCCFX2.png
 name: Wrapped BTC (Conflux)
+platform: CFX2
+platform_contract: '0x1f545487c62e5acfea45dcadd9c627361d1616d8'

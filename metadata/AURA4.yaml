@@ -5,3 +5,5 @@ id_nomics: AURA4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AURA4.jpg
 logoKey: currencies/aura4.jpg
 name: Aurora
+platform: AVAX
+platform_contract: '0xc8a251142722ceb4a524876b89cc4c0709585818'

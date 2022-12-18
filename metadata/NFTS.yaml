@@ -3,3 +3,5 @@ fiat: false
 id: NFTS
 id_nomics: NFTS
 name: Non-Fungible Token series
+platform: ETH
+platform_contract: '0x6599fc3e77cbfa6f6e9cac605a30b1e78827eba0'

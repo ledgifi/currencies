@@ -6,3 +6,5 @@ id_nomics: DMGK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DMGK.jpg
 logoKey: currencies/dmgk.jpg
 name: DarkMAGICK
+platform: BNB
+platform_contract: '0x6f89660fef8b6a03a41e5f3d0306645be2469efe'

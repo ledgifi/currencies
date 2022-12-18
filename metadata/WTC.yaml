@@ -8,3 +8,5 @@ id_nomics: WTC
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/wtc.svg
 logoKey: currencies/wtc.svg
 name: Walton
+platform: ETH
+platform_contract: '0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74'

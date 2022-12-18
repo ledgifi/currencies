@@ -5,3 +5,5 @@ id_nomics: UCRO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UCRO2.png
 logoKey: currencies/ucro2.png
 name: UniCro
+platform: CRO
+platform_contract: '0xa4ef2429c6a2bdca156ce08c1d2a51c601a5c2df'

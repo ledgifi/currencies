@@ -3,3 +3,5 @@ fiat: false
 id: PST3
 id_nomics: PST3
 name: Peseta Token
+platform: BNB
+platform_contract: '0x12f5b3aea951ebd313ea802a1dbce2be9369cb93'

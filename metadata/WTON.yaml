@@ -3,3 +3,5 @@ fiat: false
 id: WTON
 id_nomics: WTON
 name: Wrapped TON
+platform: ETH
+platform_contract: '0xc4a11aaf6ea915ed7ac194161d2fc9384f15bff2'

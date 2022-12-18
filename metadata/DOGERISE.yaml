@@ -5,3 +5,5 @@ id_nomics: DOGERISE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGERISE.jpg
 logoKey: currencies/dogerise.jpg
 name: Dogerise
+platform: BNB
+platform_contract: '0x5ddd1df8ae7bac8d5ea825ce00042cf64031dae4'

@@ -6,3 +6,5 @@ id_nomics: GARD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/gard.png
 logoKey: currencies/gard.png
 name: Hashgard
+platform: ETH
+platform_contract: '0x5c64031c62061865e5fd0f53d3cdaef80f72e99d'

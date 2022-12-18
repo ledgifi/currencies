@@ -5,3 +5,5 @@ id_nomics: XLFLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XLFLOKI.jpg
 logoKey: currencies/xlfloki.jpg
 name: XLFloki
+platform: BNB
+platform_contract: '0x301f482d332147d714c80262c98ab4950ab337a0'

@@ -3,3 +3,5 @@ fiat: false
 id: SSTOKEN
 id_nomics: SSTOKEN
 name: SSToken
+platform: BNB
+platform_contract: '0x319b333fa6476d8c18192b03b65d4c5cfa3f92f3'

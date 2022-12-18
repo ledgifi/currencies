@@ -5,3 +5,5 @@ id_nomics: BTCSHORT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCSHORT.jpg
 logoKey: currencies/btcshort.jpg
 name: BTCShort
+platform: ETH
+platform_contract: '0xcbe79ceca09092648995b2ccdf91ca5ecd1edec9'

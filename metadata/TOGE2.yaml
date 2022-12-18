@@ -5,3 +5,5 @@ id_nomics: TOGE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOGE2.jpg
 logoKey: currencies/toge2.jpg
 name: Tornadoge
+platform: BNB
+platform_contract: '0xa6f8f2b5c492dfa2eb527c50de2d4c3263d0ea3d'

@@ -5,3 +5,5 @@ id_nomics: CGC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CGC.png
 logoKey: currencies/cgc.png
 name: CGC Token
+platform: ETH
+platform_contract: '0x2d9765a94ff22e0ca3afc3e3f4b116de2b67582a'

@@ -5,3 +5,5 @@ id_nomics: AUDF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AUDF.png
 logoKey: currencies/audf.png
 name: AUDF
+platform: ETH
+platform_contract: '0xe470a51d750cff9e74252441b89b625121475049'

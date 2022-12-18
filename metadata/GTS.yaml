@@ -5,3 +5,5 @@ id_nomics: GTS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GTS.png
 logoKey: currencies/gts.png
 name: GTS Token
+platform: ETH
+platform_contract: '0x87cab68b76fc0cef303726404958ef56de4bb49a'

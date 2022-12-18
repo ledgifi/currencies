@@ -3,3 +3,5 @@ fiat: false
 id: NKLCS
 id_nomics: NKLCS
 name: nkl-dex
+platform: BNB
+platform_contract: '0x8daf388bf9c04783d51e07de5ad56e00abba9c50'

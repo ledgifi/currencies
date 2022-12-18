@@ -6,3 +6,5 @@ id_nomics: PIZA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIZA.jpg
 logoKey: currencies/piza.jpg
 name: Half Pizza
+platform: BNB
+platform_contract: '0xfc646d0b564bf191b3d3adf2b620a792e485e6da'

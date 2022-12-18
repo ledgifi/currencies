@@ -3,3 +3,5 @@ fiat: false
 id: GETH2
 id_nomics: GETH2
 name: Geist ETH
+platform: FTM
+platform_contract: '0x25c130b2624cf12a4ea30143ef50c5d68cefa22f'

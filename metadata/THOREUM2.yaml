@@ -5,3 +5,5 @@ id_nomics: THOREUM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THOREUM2.jpg
 logoKey: currencies/thoreum2.jpg
 name: Thoreum V2
+platform: BNB
+platform_contract: '0xf2a92bc1cf798ff4de14502a9c6fda58865e8d5d'

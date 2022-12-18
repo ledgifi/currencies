@@ -5,3 +5,5 @@ id_nomics: OXB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OXB.jpg
 logoKey: currencies/oxb.jpg
 name: Oxbull Tech
+platform: BNB
+platform_contract: '0x3fd5b5746315e3f8d43a46b09c826a001ebb977d'
