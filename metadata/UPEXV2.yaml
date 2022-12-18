@@ -5,3 +5,5 @@ id_nomics: UPEXV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UPEXV2.jpg
 logoKey: currencies/upexv2.jpg
 name: UPex Exchange V2
+platform: BNB
+platform_contract: '0xd016e6c20c81c4270db97c4c1d639f4a12548bd6'

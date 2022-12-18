@@ -5,3 +5,5 @@ id_nomics: LONG3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LONG3.png
 logoKey: currencies/long3.png
 name: Longdrink Finance
+platform: BNB
+platform_contract: '0x5317fa16f8603be9c461def5d5a1bf28dfe42d55'

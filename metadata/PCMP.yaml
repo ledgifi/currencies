@@ -5,3 +5,5 @@ id_nomics: PCMP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PCMP.jpeg
 logoKey: currencies/pcmp.jpeg
 name: Panda Chump
+platform: BNB
+platform_contract: '0xe540b9f0324a3dbffcf4d8381477806c8b89a637'

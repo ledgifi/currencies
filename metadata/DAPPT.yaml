@@ -5,3 +5,5 @@ id_nomics: DAPPT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAPPT.png
 logoKey: currencies/dappt.png
 name: Dapp.com
+platform: ETH
+platform_contract: '0x386cabc0b14a507a4e024dea15554342865b20de'

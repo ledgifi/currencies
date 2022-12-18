@@ -6,3 +6,5 @@ id_nomics: PYM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PYM.png
 logoKey: currencies/pym.png
 name: Playermon
+platform: MATIC
+platform_contract: '0x0bd49815ea8e2682220bcb41524c0dd10ba71d41'

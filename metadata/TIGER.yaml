@@ -5,3 +5,5 @@ id_nomics: TIGER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIGER.jpg
 logoKey: currencies/tiger.jpg
 name: Tiger
+platform: BNB
+platform_contract: '0x8c4b3dea4247f066f3aaff7273dc97e7d4187b04'

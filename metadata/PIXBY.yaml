@@ -5,3 +5,5 @@ id_nomics: PIXBY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIXBY.jpeg
 logoKey: currencies/pixby.jpeg
 name: PIXBY
+platform: ETH
+platform_contract: '0xb53e08b97724126bda6d237b94f766c0b81c90fe'

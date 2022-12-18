@@ -6,3 +6,5 @@ id_nomics: PUBE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PUBE.jpg
 logoKey: currencies/pube.jpg
 name: Pube Finance
+platform: BNB
+platform_contract: '0x3916984fa787d89b648ccd8d60b5ff07e0e8e4f4'

@@ -5,3 +5,5 @@ id_nomics: GODOGE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GODOGE2.jpeg
 logoKey: currencies/godoge2.jpeg
 name: GoDoge
+platform: BNB
+platform_contract: '0xddd37398a4f383d89d02ac7093951c554105e58c'

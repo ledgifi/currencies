@@ -6,3 +6,5 @@ id_nomics: KLTR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KLTR.jpg
 logoKey: currencies/kltr.jpg
 name: KOLLECTOR
+platform: ETH
+platform_contract: '0xa92c49c403386111c1629aee00936eed2a9e74a6'

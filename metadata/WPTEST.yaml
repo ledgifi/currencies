@@ -3,3 +3,5 @@ fiat: false
 id: WPTEST
 id_nomics: WPTEST
 name: WPTEST
+platform: BNB
+platform_contract: '0xff3f1c4311f1260b08cd42dfd50a28c079adb25e'

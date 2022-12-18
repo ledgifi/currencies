@@ -5,3 +5,5 @@ id_nomics: EGGT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EGGT.png
 logoKey: currencies/eggt.png
 name: EggtartSwap
+platform: HARMONY
+platform_contract: '0x1D245782b32BEDbc7D43D313a2a9e4d916b947d6'

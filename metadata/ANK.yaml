@@ -5,3 +5,5 @@ id_nomics: ANK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANK.jpg
 logoKey: currencies/ank.jpg
 name: Ankorus Token
+platform: ETH
+platform_contract: '0xaa4ab1c817e4df7d25ce4d42352649d592a3bba0'

@@ -5,3 +5,5 @@ id_nomics: OCB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCB.jpg
 logoKey: currencies/ocb.jpg
 name: BLOCKMAX
+platform: ETH
+platform_contract: '0x466912baa9430a4a460b141ee8c580d817441449'

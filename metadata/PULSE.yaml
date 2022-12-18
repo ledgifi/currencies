@@ -6,3 +6,5 @@ id_nomics: PULSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PULSE.png
 logoKey: currencies/pulse.png
 name: Pulse
+platform: BNB
+platform_contract: '0xbf651c2cb1932418c4d8d99ba249adb3f472049c'

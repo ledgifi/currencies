@@ -5,3 +5,5 @@ id_nomics: GENIE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GENIE2.jpg
 logoKey: currencies/genie2.jpg
 name: Auto Cash Genie
+platform: BNB
+platform_contract: '0xf40fD8f8558AE03e2830BBf5d3E12ab86EE2A8EB'

@@ -3,3 +3,5 @@ fiat: false
 id: WUSD4
 id_nomics: WUSD4
 name: WebUSD
+platform: BNB
+platform_contract: '0x4b12dde5db1330c0471879700ef016b275eeaf7f'

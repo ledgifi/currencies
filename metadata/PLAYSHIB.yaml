@@ -5,3 +5,5 @@ id_nomics: PLAYSHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLAYSHIB.jpeg
 logoKey: currencies/playshib.jpeg
 name: Play Shiba Inu
+platform: BNB
+platform_contract: '0x68b7567b9bc1478469ede4807e07fe29209a4202'

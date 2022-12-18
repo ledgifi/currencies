@@ -3,3 +3,5 @@ fiat: false
 id: XMIST
 id_nomics: XMIST
 name: MISTbar
+platform: SMARTBCH
+platform_contract: '0xc41c680c60309d4646379ed62020c534eb67b6f4'

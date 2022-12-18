@@ -5,3 +5,5 @@ id_nomics: TOPTEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOPTEN.png
 logoKey: currencies/topten.png
 name: Top Ten
+platform: ETH
+platform_contract: '0x39c3c66a8f9cc5136202cde8cab88cb104f48808'

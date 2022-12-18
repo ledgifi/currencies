@@ -6,3 +6,5 @@ id_nomics: MYID
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MYID.jpg
 logoKey: currencies/myid.jpg
 name: My Identity Coin
+platform: ETH
+platform_contract: '0x5273063725a43a323300c502478c22fbb4e92c2d'

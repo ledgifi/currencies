@@ -5,3 +5,5 @@ id_nomics: GWC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GWC.jpeg
 logoKey: currencies/gwc.jpeg
 name: GenWealth
+platform: BNB
+platform_contract: '0x280ce73a3a90b8aeb4ef7ed10c928c35ec5c0420'

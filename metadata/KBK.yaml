@@ -5,3 +5,5 @@ id_nomics: KBK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KBK.jpg
 logoKey: currencies/kbk.jpg
 name: Koubek
+platform: BNB
+platform_contract: '0x6e9a1428798ff011e2cf369b129630f686232784'

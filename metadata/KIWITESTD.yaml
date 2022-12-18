@@ -3,3 +3,5 @@ fiat: false
 id: KIWITESTD
 id_nomics: KIWITESTD
 name: KIWI-TESTNEWD
+platform: BNB
+platform_contract: '0x54678000ec958dacfbde5b31d95ad0c2119cedb0'

@@ -6,3 +6,5 @@ id_nomics: BTCL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCL.jpg
 logoKey: currencies/btcl.jpg
 name: BTC Lite
+platform: ETH
+platform_contract: '0x5acd19b9c91e596b1f062f18e3d02da7ed8d1e50'

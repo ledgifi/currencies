@@ -3,3 +3,5 @@ fiat: false
 id: QUADRIGA
 id_nomics: QUADRIGA
 name: QUADRIGA
+platform: ETH
+platform_contract: '0x21265d8ab9fb26d5f3e0f7bf44bfc856b3fb6576'

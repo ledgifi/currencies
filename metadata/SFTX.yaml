@@ -4,3 +4,5 @@ id: SFTX
 id_nomics: SFTX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFTX.png
 name: SafeFTX
+platform: BNB
+platform_contract: '0x75f858fe9474F6c9Afceb4C852f18Bef519F549B'

@@ -5,3 +5,5 @@ id_nomics: HDOGE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HDOGE2.png
 logoKey: currencies/hdoge2.png
 name: Hybrid Doge V2
+platform: BNB
+platform_contract: '0x9e8bd931610b71fc4e2190d6102fb510e4995546'

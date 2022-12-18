@@ -3,3 +3,5 @@ fiat: false
 id: MUDA
 id_nomics: MUDA
 name: Muda Coin
+platform: ETH
+platform_contract: '0x77764edfe60099e3ae31dc90ee6bc3d4ba9fdd48'

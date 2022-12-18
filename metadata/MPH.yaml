@@ -6,3 +6,5 @@ id_nomics: MPH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MPH.jpg
 logoKey: currencies/mph.jpg
 name: Morpher
+platform: ETH
+platform_contract: '0x6369c3dadfc00054a42ba8b2c09c48131dd4aa38'

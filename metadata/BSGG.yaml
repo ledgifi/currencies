@@ -6,3 +6,5 @@ id_nomics: BSGG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSGG.jpg
 logoKey: currencies/bsgg.jpg
 name: Betswap.gg
+platform: ETH
+platform_contract: '0x69570f3e84f51ea70b7b68055c8d667e77735a25'

@@ -3,3 +3,5 @@ fiat: false
 id: QUANTIC
 id_nomics: QUANTIC
 name: Quantic
+platform: BNB
+platform_contract: '0x7700edc3dbb30cbb7603212e061c804220c3ca54'

@@ -3,3 +3,5 @@ fiat: false
 id: UVSC
 id_nomics: UVSC
 name: UVSC Token
+platform: BNB
+platform_contract: '0x0ffaa9ce73ae0baa1d9dd839a648c0b939839539'

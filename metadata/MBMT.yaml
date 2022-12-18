@@ -5,3 +5,5 @@ id_nomics: MBMT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MBMT.jpg
 logoKey: currencies/mbmt.jpg
 name: MessengerBank Metals Token
+platform: ETH
+platform_contract: '0x6af406c781dba39f71184a53155e94393a0dafc8'

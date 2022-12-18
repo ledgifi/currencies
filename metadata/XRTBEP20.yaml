@@ -5,3 +5,5 @@ id_nomics: XRTBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XRTBEP20.jpg
 logoKey: currencies/xrtbep20.jpg
 name: Robonomics (BEP-20)
+platform: BNB
+platform_contract: '0xc0a51ac9d548bdcde53fa59448029e41a39feb20'

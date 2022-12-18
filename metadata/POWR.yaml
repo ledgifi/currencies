@@ -8,3 +8,5 @@ id_nomics: POWR
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/powr.svg
 logoKey: currencies/powr.svg
 name: Power Ledger
+platform: ETH
+platform_contract: '0x595832f8fc6bf59c85c527fec3740a1b7a361269'

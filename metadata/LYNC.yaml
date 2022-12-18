@@ -6,3 +6,5 @@ id_nomics: LYNC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LYNC.jpg
 logoKey: currencies/lync.jpg
 name: LYNC Network
+platform: ETH
+platform_contract: '0x8f87ec6aad3b2a8c44f1298a1af56169b8e574cf'

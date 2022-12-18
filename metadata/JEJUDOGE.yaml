@@ -6,3 +6,5 @@ id_nomics: JEJUDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JEJUDOGE.jpg
 logoKey: currencies/jejudoge.jpg
 name: Jejudoge
+platform: ETH
+platform_contract: '0x939a7a577d93ad29b64c1595b1284ce660a479b9'

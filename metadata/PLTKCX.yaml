@@ -5,3 +5,5 @@ id_nomics: PLTKCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLTKCX.jpg
 logoKey: currencies/pltkcx.jpg
 name: Playtika Holding Corp.
+platform: ETH
+platform_contract: '0xcd73a1e5a512668d297977997fbbff94d1df09ee'

@@ -5,3 +5,5 @@ id_nomics: BTF3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTF3.jpg
 logoKey: currencies/btf3.jpg
 name: BTFToken
+platform: ETH
+platform_contract: '0xa80c32c721d06c91dceffea78f184503c9046940'

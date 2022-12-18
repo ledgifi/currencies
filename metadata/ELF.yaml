@@ -8,3 +8,5 @@ id_nomics: ELF
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/elf.svg
 logoKey: currencies/elf.svg
 name: aelf
+platform: ETH
+platform_contract: '0xbf2179859fc6d5bee9bf9158632dc51678a4100e'

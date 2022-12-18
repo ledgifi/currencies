@@ -5,3 +5,5 @@ id_nomics: BZZZZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BZZZZ.png
 logoKey: currencies/bzzzz.png
 name: bees.finance
+platform: ETH
+platform_contract: '0xc483ad6f9b80b38691e95b708de1d46721366ce3'

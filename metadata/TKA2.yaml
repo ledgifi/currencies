@@ -5,3 +5,5 @@ id_nomics: TKA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TKA2.jpeg
 logoKey: currencies/tka2.jpeg
 name: Tekna V1 (OLD)
+platform: BNB
+platform_contract: '0x77bfe4f9f21050ac5bdae1dbec9a00e0ccd60594'

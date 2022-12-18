@@ -5,3 +5,5 @@ id_nomics: SHADOW2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHADOW2.png
 logoKey: currencies/shadow2.png
 name: ShadowLand
+platform: BNB
+platform_contract: '0xb8b730f44a1c880ae70dd73eb52d805d82eaf2a0'

@@ -5,3 +5,5 @@ id_nomics: ARABCLOUD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARABCLOUD.jpg
 logoKey: currencies/arabcloud.jpg
 name: ArabianCloud
+platform: BNB
+platform_contract: '0x7f6810844817528bf5ee48163e87051a944fefb7'

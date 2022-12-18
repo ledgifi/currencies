@@ -6,3 +6,5 @@ id_nomics: DBET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/dbet.svg
 logoKey: currencies/dbet.svg
 name: DecentBet
+platform: BNB
+platform_contract: '0x67654acd0fa49f98c2a9a6a6135d0ccb88836a85'

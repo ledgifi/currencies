@@ -5,3 +5,5 @@ id_nomics: LOOPY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOOPY.png
 logoKey: currencies/loopy.png
 name: loopycoin
+platform: ETH
+platform_contract: '0x2ca76b74c148ce6c4f51f47278ef089030e03178'

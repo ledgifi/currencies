@@ -5,3 +5,5 @@ id_nomics: ONOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ONOT.jpg
 logoKey: currencies/onot.jpg
 name: ONO
+platform: ETH
+platform_contract: '0xb31c219959e06f9afbeb36b388a4bad13e802725'

@@ -3,3 +3,5 @@ fiat: false
 id: BSM2
 id_nomics: BSM2
 name: Batasm Protocol BSM
+platform: FTM
+platform_contract: '0xb214d491a58a250a99f11ce01c361e7fad4d3e69'

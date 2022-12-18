@@ -6,3 +6,5 @@ id_nomics: LEAG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LEAG.jpg
 logoKey: currencies/leag.jpg
 name: LeagueDAO Governance Token
+platform: ETH
+platform_contract: '0x7b39917f9562c8bc83c7a6c2950ff571375d505d'

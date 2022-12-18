@@ -3,3 +3,5 @@ fiat: false
 id: SPINE
 id_nomics: SPINE
 name: spinecoin
+platform: BNB
+platform_contract: '0xfe696e3d6070f90bc53d97a9c785087837a0c2e1'

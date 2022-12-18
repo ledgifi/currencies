@@ -5,3 +5,5 @@ id_nomics: ICHIEMA
 logo: https://set-core.s3.amazonaws.com/img/social_trader_set_icons/12h_ichimoku_ha_ema_breakout.png
 logoKey: currencies/ichiema.png
 name: 12H Ichimoku HA EMA Breakout Set
+platform: ETH
+platform_contract: '0xe86811516f9e46f6f2a8a19754c893ded414d682'

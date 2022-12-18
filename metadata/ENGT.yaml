@@ -6,3 +6,5 @@ id_nomics: ENGT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/engt.png
 logoKey: currencies/engt.png
 name: Engagement Token
+platform: ETH
+platform_contract: '0x5dbac24e98e2a4f43adc0dc82af403fca063ce2c'

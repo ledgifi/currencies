@@ -8,3 +8,5 @@ id_nomics: BTCST
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210107/42cb93e4-4078-43f4-afa3-1f0c350e7483.png
 logoKey: currencies/btcst.png
 name: Bitcoin Standard Hashrate Token
+platform: BNB
+platform_contract: '0x78650b139471520656b9e7aa7a5e9276814a38e9'

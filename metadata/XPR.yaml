@@ -8,3 +8,5 @@ id_nomics: XPR
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/xpr.svg
 logoKey: currencies/xpr.svg
 name: Proton
+platform: ETH
+platform_contract: '0xd7efb00d12c2c13131fd319336fdf952525da2af'

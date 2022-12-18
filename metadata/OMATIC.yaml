@@ -3,3 +3,5 @@ fiat: false
 id: OMATIC
 id_nomics: OMATIC
 name: Orbit Bridge Klaytn MATIC
+platform: KLAY
+platform_contract: '0xa006ba407cfc6584c90bac24ed971261885a0fd6'

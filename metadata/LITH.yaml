@@ -6,3 +6,5 @@ id_nomics: LITH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LITH.png
 logoKey: currencies/lith.png
 name: Lith Token
+platform: ETH
+platform_contract: '0xf8a4a419c2d7140e49ef952a7e7ae1bd4a8b6b9c'

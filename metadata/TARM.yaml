@@ -6,3 +6,5 @@ id_nomics: TARM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TARM.jpg
 logoKey: currencies/tarm.jpg
 name: ARMTOKEN
+platform: ETH
+platform_contract: '0xcdd0a6b15b49a9eb3ce011cce22fac2ccf09ece6'

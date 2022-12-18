@@ -5,3 +5,5 @@ id_nomics: KING12
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KING12.jpg
 logoKey: currencies/king12.jpg
 name: King Charles III
+platform: BNB
+platform_contract: '0x9522e39b84cff0e17ba58a72b01c13326318b91a'

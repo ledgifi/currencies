@@ -5,3 +5,5 @@ id_nomics: EDD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EDD.jpg
 logoKey: currencies/edd.jpg
 name: Eddmate Token
+platform: BNB
+platform_contract: '0x60b5b41cdfb4f65748c2f911e71c39b9e1da6777'

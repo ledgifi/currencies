@@ -6,3 +6,5 @@ id_nomics: LQTY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LQTY.jpg
 logoKey: currencies/lqty.jpg
 name: Liquity
+platform: ETH
+platform_contract: '0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d'

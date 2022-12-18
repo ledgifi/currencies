@@ -6,3 +6,5 @@ id_nomics: PERI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PERI.jpg
 logoKey: currencies/peri.jpg
 name: PERI Finance
+platform: ETH
+platform_contract: '0x5d30ad9c6374bf925d0a75454fa327aacf778492'

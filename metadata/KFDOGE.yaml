@@ -5,3 +5,5 @@ id_nomics: KFDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KFDOGE.jpg
 logoKey: currencies/kfdoge.jpg
 name: Kung Fu Doge
+platform: BNB
+platform_contract: '0xd087fbd2ba8f8cb37f159e6106522fb2f1c45a2a'

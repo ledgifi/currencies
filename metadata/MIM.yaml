@@ -6,3 +6,5 @@ id_nomics: MIM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIM.jpg
 logoKey: currencies/mim.jpg
 name: Magic Internet Money
+platform: ETH
+platform_contract: '0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3'

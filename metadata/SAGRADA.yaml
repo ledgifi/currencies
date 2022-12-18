@@ -5,3 +5,5 @@ id_nomics: SAGRADA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAGRADA.png
 logoKey: currencies/sagrada.png
 name: Sagrada Coin
+platform: BNB
+platform_contract: '0x7fCCa263D4C2A13A491c68E1a88a1D43c24ee0Dc'

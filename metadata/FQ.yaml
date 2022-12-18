@@ -3,3 +3,5 @@ fiat: false
 id: FQ
 id_nomics: FQ
 name: Financial Quotient
+platform: BNB
+platform_contract: '0x2590d1e4108aabdceaa9fab8c7e5d642b3e38ee1'

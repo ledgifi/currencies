@@ -5,3 +5,5 @@ id_nomics: BLVRBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLVRBEP20.png
 logoKey: currencies/blvrbep20.png
 name: Believer (BEP-20)
+platform: BNB
+platform_contract: '0x43a0ee2e4c005277195f409e77919d1b1a5c9c1f'

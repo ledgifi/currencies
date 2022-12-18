@@ -6,3 +6,5 @@ id_nomics: XNN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XNN.png
 logoKey: currencies/xnn.png
 name: XENON
+platform: ETH
+platform_contract: '0xab95e915c123fded5bdfb6325e35ef5515f1ea69'

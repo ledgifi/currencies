@@ -5,3 +5,5 @@ id_nomics: CODECOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CODECOIN.jpg
 logoKey: currencies/codecoin.jpg
 name: CodeCoin
+platform: ETH
+platform_contract: '0x9adaba9ffda15e3a043c907d390f645147eb532a'

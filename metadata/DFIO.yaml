@@ -6,3 +6,5 @@ id_nomics: DFIO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DFIO.jpg
 logoKey: currencies/dfio.jpg
 name: Defi Omega
+platform: ETH
+platform_contract: '0xee3b9b531f4c564c70e14b7b3bb7d516f33513ff'

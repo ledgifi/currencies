@@ -5,3 +5,5 @@ id_nomics: OCTBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCTBEP20.jpg
 logoKey: currencies/octbep20.jpg
 name: Octopus Network (BEP-20)
+platform: BNB
+platform_contract: '0x92df60c51c710a1b1c20e42d85e221f3a1bfc7f2'

@@ -3,3 +3,5 @@ fiat: false
 id: ORPA
 id_nomics: ORPA
 name: Orpa Protocol
+platform: ETH
+platform_contract: '0x6f07644f50c5c847ebc768af2951dac45c0897e6'

@@ -6,3 +6,5 @@ id_nomics: BOOM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOOM.png
 logoKey: currencies/boom.png
 name: BOOM
+platform: ETH
+platform_contract: '0x973b569b1d025c41cd9c19cbf8f931175e874dd0'

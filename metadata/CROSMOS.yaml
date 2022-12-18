@@ -5,3 +5,5 @@ id_nomics: CROSMOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CROSMOS.jpeg
 logoKey: currencies/crosmos.jpeg
 name: Crosmos
+platform: CRO
+platform_contract: '0xc15cc04541aa514d1cc9ba82d1e2a8899b4ec831'

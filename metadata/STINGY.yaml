@@ -6,3 +6,5 @@ id_nomics: STINGY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STINGY.png
 logoKey: currencies/stingy.png
 name: Stingy Token
+platform: BNB
+platform_contract: '0xc562f5873d553e8196a002840f00e3209acc51ec'

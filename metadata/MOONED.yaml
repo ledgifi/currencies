@@ -6,3 +6,5 @@ id_nomics: MOONED
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOONED.jpg
 logoKey: currencies/mooned.jpg
 name: MoonEdge
+platform: MATIC
+platform_contract: '0x7e4c577ca35913af564ee2a24d882a4946ec492b'

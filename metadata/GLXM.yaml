@@ -5,3 +5,5 @@ id_nomics: GLXM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GLXM.jpg
 logoKey: currencies/glxm.jpg
 name: Galaxium
+platform: BNB
+platform_contract: '0x67e8954493dcf031243a3498da73c167eda512d4'

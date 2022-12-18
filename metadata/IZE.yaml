@@ -6,3 +6,5 @@ id_nomics: IZE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IZE.jpg
 logoKey: currencies/ize.jpg
 name: IZE
+platform: ETH
+platform_contract: '0x6944d3e38973c4831da24e954fbd790c7e688bdd'

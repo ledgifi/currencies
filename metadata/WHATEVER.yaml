@@ -3,3 +3,5 @@ fiat: false
 id: WHATEVER
 id_nomics: WHATEVER
 name: whatever
+platform: BNB
+platform_contract: '0x76a8d6b8d3e307fd8fd347dfa862a20d088e648c'

@@ -3,3 +3,5 @@ fiat: false
 id: CRVUSDBTCETHGAUGE
 id_nomics: CRVUSDBTCETHGAUGE
 name: Curve.fi crvUSDBTCETH Gauge Deposit
+platform: MATIC
+platform_contract: '0xbb1b19495b8fe7c402427479b9ac14886cbbaaee'

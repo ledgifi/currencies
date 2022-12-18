@@ -5,3 +5,5 @@ id_nomics: QFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QFI.jpg
 logoKey: currencies/qfi.jpg
 name: QFinance Token
+platform: ETH
+platform_contract: '0x6fe88a211863d0d818608036880c9a4b0ea86795'

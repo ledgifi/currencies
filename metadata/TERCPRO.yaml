@@ -5,3 +5,5 @@ id_nomics: TERCPRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TERCPRO.jpg
 logoKey: currencies/tercpro.jpg
 name: TronEuropeRewardCoinPro
+platform: TRX
+platform_contract: '1003075'

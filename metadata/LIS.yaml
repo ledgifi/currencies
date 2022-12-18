@@ -5,3 +5,5 @@ id_nomics: LIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIS.png
 logoKey: currencies/lis.png
 name: Leisure
+platform: BNB
+platform_contract: '0x76536c4d3bcf124bfc84fc0d2ab844ec8fb75bf3'

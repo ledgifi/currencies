@@ -5,3 +5,5 @@ id_nomics: ALLINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALLINU.jpeg
 logoKey: currencies/allinu.jpeg
 name: All Inu
+platform: BNB
+platform_contract: '0xd8ab899aecf50bc18a5699871ba9a178cef2b5fe'

@@ -5,3 +5,5 @@ id_nomics: HED
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HED.jpg
 logoKey: currencies/hed.jpg
 name: Harley Davidson Fan Token
+platform: BNB
+platform_contract: '0x04D87a4Cc22440a2421559B8300a33f931e8A7d4'

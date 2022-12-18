@@ -5,3 +5,5 @@ id_nomics: PRVERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRVERC20.png
 logoKey: currencies/prverc20.png
 name: Incognito (ERC-20)
+platform: ETH
+platform_contract: '0xb64fde8f199f073f41c132b9ec7ad5b61de0b1b7'

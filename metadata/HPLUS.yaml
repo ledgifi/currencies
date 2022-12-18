@@ -5,3 +5,5 @@ id_nomics: HPLUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HPLUS.png
 logoKey: currencies/hplus.png
 name: HPLUS
+platform: ETH
+platform_contract: '0xff744f2315c9d61d825b581c973576055c3da07e'

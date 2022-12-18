@@ -5,3 +5,5 @@ id_nomics: GIOTTO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GIOTTO.jpg
 logoKey: currencies/giotto.jpg
 name: GIOTTO
+platform: BNB
+platform_contract: '0xd04ee1b6a9c4e4942f4a3d88c47b256ba5323297'

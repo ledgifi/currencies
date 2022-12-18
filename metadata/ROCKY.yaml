@@ -6,3 +6,5 @@ id_nomics: ROCKY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROCKY.jpg
 logoKey: currencies/rocky.jpg
 name: Rocky Inu
+platform: BNB
+platform_contract: '0x75cc6feb91f9cf00b41f8d2f6f66b4aedaf9727b'

@@ -5,3 +5,5 @@ id_nomics: ANIMEDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANIMEDOGE.png
 logoKey: currencies/animedoge.png
 name: AnimeDoge
+platform: BNB
+platform_contract: '0x0909686208ea88f10155b8a4f2c462e9fe3110ed'

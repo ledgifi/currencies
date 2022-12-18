@@ -3,3 +3,5 @@ fiat: false
 id: DEPM
 id_nomics: DEPM
 name: DEPM
+platform: BNB
+platform_contract: '0x879d32756baf9f2a9cebf6b8bc89a676c1d0b40c'

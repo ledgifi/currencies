@@ -6,3 +6,5 @@ id_nomics: NRCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NRCH.jpg
 logoKey: currencies/nrch.jpg
 name: EnreachDAO
+platform: BNB
+platform_contract: '0x69fa8e7f6bf1ca1fb0de61e1366f7412b827cc51'

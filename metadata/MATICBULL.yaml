@@ -3,3 +3,5 @@ fiat: false
 id: MATICBULL
 id_nomics: MATICBULL
 name: 3X Long Matic Token
+platform: ETH
+platform_contract: '0x7e03521b9da891ca3f79a8728e2eaeb24886c5f9'

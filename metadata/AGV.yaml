@@ -6,3 +6,5 @@ id_nomics: AGV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AGV.jpg
 logoKey: currencies/agv.jpg
 name: Astra Guild Ventures
+platform: ETH
+platform_contract: '0xf4f618eff5ef36cde2fca4fbd86554c62fb1382b'

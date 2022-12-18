@@ -5,3 +5,5 @@ id_nomics: ARNCCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARNCCX.jpg
 logoKey: currencies/arnccx.jpg
 name: Arconic Inc. Token
+platform: ETH
+platform_contract: '0xba68d28dda9708bc6100ec403cbacbffa1f9b283'

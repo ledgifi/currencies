@@ -5,3 +5,5 @@ id_nomics: SCU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCU.jpg
 logoKey: currencies/scu.jpg
 name: Securypto
+platform: ETH
+platform_contract: '0x8b8d971c8bc37f65a93c4609644fef0590af2fc7'

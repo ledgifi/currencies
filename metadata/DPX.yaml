@@ -3,3 +3,5 @@ fiat: false
 id: DPX
 id_nomics: DPX
 name: DIPEX
+platform: ETH
+platform_contract: '0xbce67604c08c4839980c32485657f63211c73e14'

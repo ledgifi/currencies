@@ -5,3 +5,5 @@ id_nomics: GUHR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GUHR.png
 logoKey: currencies/guhr.png
 name: Goes Up Higher Reborn
+platform: BNB
+platform_contract: '0x96af135d3ccc996ae8935eab6acf1471ad7a06b2'

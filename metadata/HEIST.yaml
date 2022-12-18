@@ -5,3 +5,5 @@ id_nomics: HEIST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HEIST.jpeg
 logoKey: currencies/heist.jpeg
 name: ShibaHeist
+platform: BNB
+platform_contract: '0x962cf7f92cf0a2cf55364c6fb801987f07023d13'

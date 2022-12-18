@@ -3,3 +3,5 @@ fiat: false
 id: 100BOND
 id_nomics: 100BOND
 name: 100BOND
+platform: AVAX
+platform_contract: '0x9d148391b281da6fb1993ed8b941bbfd570cf559'

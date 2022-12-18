@@ -5,3 +5,5 @@ id_nomics: BLT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLT3.jpg
 logoKey: currencies/blt3.jpg
 name: Bitlorrent
+platform: BNB
+platform_contract: '0x3b1394c1542a797e98b4ff4e049e434d820d8299'

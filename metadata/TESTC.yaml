@@ -3,3 +3,5 @@ fiat: false
 id: TESTC
 id_nomics: TESTC
 name: testc
+platform: ARBETH
+platform_contract: '0xc66796491f5b7177b68eaae8c7c1effdbbc94c6c'

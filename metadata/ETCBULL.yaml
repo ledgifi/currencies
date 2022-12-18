@@ -3,3 +3,5 @@ fiat: false
 id: ETCBULL
 id_nomics: ETCBULL
 name: 3X Long Ethereum Classic Token
+platform: ETH
+platform_contract: '0x974c98bc2e82fa18de92b7e697a1d9bd25682e80'

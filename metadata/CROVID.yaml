@@ -3,3 +3,5 @@ fiat: false
 id: CROVID
 id_nomics: CROVID
 name: CROVID-19
+platform: CRO
+platform_contract: '0x7f7be9fd8a2d36ebf55fac9a062aaa738c114be6'

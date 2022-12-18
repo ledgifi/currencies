@@ -3,3 +3,5 @@ fiat: false
 id: JUDGE
 id_nomics: JUDGE
 name: Judge
+platform: ETH
+platform_contract: '0x5f3d68f0ac1ba4dd3923617e018fda23c8215226'

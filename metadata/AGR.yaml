@@ -5,3 +5,5 @@ id_nomics: AGR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AGR.jpg
 logoKey: currencies/agr.jpg
 name: AGR Tokens
+platform: ETH
+platform_contract: '0x95fb7b83860912a78cf865824ce017ba8fe92c4b'

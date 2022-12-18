@@ -6,3 +6,5 @@ id_nomics: CWS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CWS.jpg
 logoKey: currencies/cws.jpg
 name: Crowns
+platform: ETH
+platform_contract: '0xac0104cca91d167873b8601d2e71eb3d4d8c33e0'

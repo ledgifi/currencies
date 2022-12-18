@@ -6,3 +6,5 @@ id_nomics: POLYPUG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POLYPUG.jpg
 logoKey: currencies/polypug.jpg
 name: PolyPug
+platform: MATIC
+platform_contract: '0xf13bfc42bfcc421db1fd471ec49bb865cede7270'

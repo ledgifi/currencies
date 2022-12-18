@@ -5,3 +5,5 @@ id_nomics: BANANAERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BANANAERC20.png
 logoKey: currencies/bananaerc20.png
 name: ApeSwap (ERC-20)
+platform: ETH
+platform_contract: '0x92df60c51c710a1b1c20e42d85e221f3a1bfc7f2'

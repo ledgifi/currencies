@@ -5,3 +5,5 @@ id_nomics: LOT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOT2.png
 logoKey: currencies/lot2.png
 name: Lottery Token
+platform: BNB
+platform_contract: '0x4e7ae924fd9a5d60b56be486b2900efe0c6a9ca7'

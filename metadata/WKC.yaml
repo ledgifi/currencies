@@ -3,3 +3,5 @@ fiat: false
 id: WKC
 id_nomics: WKC
 name: WKCTOKEN
+platform: HT
+platform_contract: '0x8dd337dfeada05e20028657cf8c27e3b4d92f4fa'

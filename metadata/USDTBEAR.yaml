@@ -3,3 +3,5 @@ fiat: false
 id: USDTBEAR
 id_nomics: USDTBEAR
 name: 3X Short Tether Token
+platform: ETH
+platform_contract: '0x0cd6c8161f1638485a1a2f5bf1a0127e45913c2f'

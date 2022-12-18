@@ -3,3 +3,5 @@ fiat: false
 id: SD2
 id_nomics: SD2
 name: SharkDown
+platform: BNB
+platform_contract: '0x39df87691574b5cf8766aba5240ef13c46fa1e58'

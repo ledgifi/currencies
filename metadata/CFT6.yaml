@@ -3,3 +3,5 @@ fiat: false
 id: CFT6
 id_nomics: CFT6
 name: CryptoFT
+platform: ETH
+platform_contract: '0x07834B06b5756056e065c0bD1639761Ab8297513'

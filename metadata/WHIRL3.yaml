@@ -5,3 +5,5 @@ id_nomics: WHIRL3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WHIRL3.jpg
 logoKey: currencies/whirl3.jpg
 name: OmniWhirl
+platform: MATIC
+platform_contract: '0x4f6cbaca3151f7746273004fd7295933a9b70e69'

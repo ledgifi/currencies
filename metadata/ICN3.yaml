@@ -5,3 +5,5 @@ id_nomics: ICN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICN3.png
 logoKey: currencies/icn3.png
 name: ICN
+platform: BNB
+platform_contract: '0x4f7413b6ac872d971684a26825af43870864579c'

@@ -6,3 +6,5 @@ id_nomics: FAFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FAFI.jpg
 logoKey: currencies/fafi.jpg
 name: Famous Five
+platform: BNB
+platform_contract: '0x3f2a5d9a225655ddccadfda9c5f36f53a8a149a5'

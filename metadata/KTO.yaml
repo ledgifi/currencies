@@ -5,3 +5,5 @@ id_nomics: KTO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KTO.jpg
 logoKey: currencies/kto.jpg
 name: Kryptoro
+platform: ETH
+platform_contract: '0x6cd3409ec07e5aa64baaeb08c6a038f30e831090'

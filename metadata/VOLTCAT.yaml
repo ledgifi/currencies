@@ -3,3 +3,5 @@ fiat: false
 id: VOLTCAT
 id_nomics: VOLTCAT
 name: Voltcat
+platform: ETH
+platform_contract: '0x4c692ec46e0a3e41048ac35eca5eb1a14f491649'

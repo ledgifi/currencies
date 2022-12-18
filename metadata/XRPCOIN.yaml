@@ -3,3 +3,5 @@ fiat: false
 id: XRPCOIN
 id_nomics: XRPCOIN
 name: XRPCoin
+platform: BNB
+platform_contract: '0xe5e27a7273248dddf09f4806ea05ffcfc12debc4'

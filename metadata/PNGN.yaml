@@ -6,3 +6,5 @@ id_nomics: PNGN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PNGN.jpg
 logoKey: currencies/pngn.jpg
 name: SpacePenguin
+platform: ETH
+platform_contract: '0x469a8ea7683c27d31cd9b0de769151d8a8b66c5a'

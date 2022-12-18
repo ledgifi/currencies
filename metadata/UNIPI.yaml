@@ -3,3 +3,5 @@ fiat: false
 id: UNIPI
 id_nomics: UNIPI
 name: Universe Pi
+platform: BNB
+platform_contract: '0xff2d561bb23a11a2562d2b7014aea2093759e906'

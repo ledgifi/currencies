@@ -5,3 +5,5 @@ id_nomics: VEY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VEY.jpg
 logoKey: currencies/vey.jpg
 name: VEY
+platform: ETH
+platform_contract: '0x70a63225bcadacc4430919f0c1a4f0f5fcffbaac'

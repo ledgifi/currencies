@@ -3,3 +3,5 @@ fiat: false
 id: MPR
 id_nomics: MPR
 name: Mean Pickle Rick
+platform: ETH
+platform_contract: '0x5134023d2227b5de49ada03f8c57ffc6264e1d6e'

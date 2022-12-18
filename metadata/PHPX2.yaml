@@ -5,3 +5,5 @@ id_nomics: PHPX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PHPX2.png
 logoKey: currencies/phpx2.png
 name: Xiaz Peso Pegged
+platform: MATIC
+platform_contract: '0xd6f00c26f81f7b9c79206b60767177ff185d6e23'

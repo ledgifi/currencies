@@ -6,3 +6,5 @@ id_nomics: CMG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CMG.jpg
 logoKey: currencies/cmg.jpg
 name: CMGCoin
+platform: ETH
+platform_contract: '0x5fd1ffa1d817e2bc1e594081a9f883a8707e959c'

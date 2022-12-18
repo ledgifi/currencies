@@ -5,3 +5,5 @@ id_nomics: XEURO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XEURO.png
 logoKey: currencies/xeuro.png
 name: XEuro
+platform: ETH
+platform_contract: '0xe577e0b200d00ebdecbfc1cd3f7e8e04c70476be'

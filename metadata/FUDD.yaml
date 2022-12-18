@@ -3,3 +3,5 @@ fiat: false
 id: FUDD
 id_nomics: FUDD
 name: ElmerFudd
+platform: ETH
+platform_contract: '0x61b6ec4d233842bef2ce93b9d41c9b77298d8dc2'

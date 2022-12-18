@@ -6,3 +6,5 @@ id_nomics: WAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAD.jpg
 logoKey: currencies/wad.jpg
 name: Warden
+platform: BNB
+platform_contract: '0x0feadcc3824e7f3c12f40e324a60c23ca51627fc'

@@ -3,3 +3,5 @@ fiat: false
 id: HTDOG
 id_nomics: HTDOG
 name: htdog
+platform: HT
+platform_contract: '0x081c2ffe32109cc51c1ca88c3dc01f961d15243a'

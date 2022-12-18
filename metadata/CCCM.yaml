@@ -5,3 +5,5 @@ id_nomics: CCCM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CCCM.png
 logoKey: currencies/cccm.png
 name: Coindom
+platform: ETH
+platform_contract: '0x94cb815f4b601b00b363b3177b4d8ed8e0eb7cf2'

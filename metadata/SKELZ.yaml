@@ -5,3 +5,5 @@ id_nomics: SKELZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SKELZ.png
 logoKey: currencies/skelz.png
 name: Skeletama
+platform: ETH
+platform_contract: '0xc71d058add410f3e20ecfc3e38288d56f3ef04c8'

@@ -3,3 +3,5 @@ fiat: false
 id: STAS
 id_nomics: STAS
 name: StableShiba
+platform: CRO
+platform_contract: '0xdb45a802b09b4fe3889dafbb728239d55fb8294c'

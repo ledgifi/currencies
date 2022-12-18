@@ -3,3 +3,5 @@ fiat: false
 id: BOMBFARMBSHAREBNB
 id_nomics: BOMBFARMBSHAREBNB
 name: BOMBfarm BSHARE-BNB
+platform: BNB
+platform_contract: '0x60c08c4442e200d609d05df6be327e3ba836971c'

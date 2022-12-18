@@ -5,3 +5,5 @@ id_nomics: DGR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DGR2.png
 logoKey: currencies/dgr2.png
 name: Digard
+platform: BNB
+platform_contract: '0x4018fCB8B31266bE321ecF7BAC5A1f498C10b257'

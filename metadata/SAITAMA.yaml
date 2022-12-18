@@ -5,3 +5,5 @@ id_nomics: SAITAMA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAITAMA.jpg
 logoKey: currencies/saitama.jpg
 name: Saitama
+platform: ETH
+platform_contract: '0x8b3192f5eebd8579568a2ed41e6feb402f93f73f'

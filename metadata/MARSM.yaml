@@ -5,3 +5,5 @@ id_nomics: MARSM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MARSM.jpg
 logoKey: currencies/marsm.jpg
 name: MarsMission
+platform: BNB
+platform_contract: '0x82eb29d3eb0719af341f6b18c0d9d749c0cd16b6'

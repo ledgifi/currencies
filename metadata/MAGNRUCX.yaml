@@ -5,3 +5,5 @@ id_nomics: MAGNRUCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAGNRUCX.jpg
 logoKey: currencies/magnrucx.jpg
 name: Magnitogorsk Iron & Steel Works
+platform: ETH
+platform_contract: '0x801db6b290c3ae885b46b1d45734178cf64bedaf'

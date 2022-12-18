@@ -5,3 +5,5 @@ id_nomics: DOLAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOLAN.png
 logoKey: currencies/dolan.png
 name: Dolan Duk
+platform: BNB
+platform_contract: '0x066719da06d3927e9c7858f4002249a47a4c8b0c'

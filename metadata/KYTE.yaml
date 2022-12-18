@@ -5,3 +5,5 @@ id_nomics: KYTE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KYTE.jpg
 logoKey: currencies/kyte.jpg
 name: Kambria Yield Tuning Engine
+platform: ETH
+platform_contract: '0xa053c1b7013e77fe0a873ce0ca2bd5d0b7414c41'

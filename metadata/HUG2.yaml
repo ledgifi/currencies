@@ -3,3 +3,5 @@ fiat: false
 id: HUG2
 id_nomics: HUG2
 name: Hugcoin
+platform: ETH
+platform_contract: '0x1d35c42e9dcb5c5343fbd70fe73b2284d042d082'

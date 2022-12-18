@@ -3,3 +3,5 @@ fiat: false
 id: SHIPRO
 id_nomics: SHIPRO
 name: ShibaProtocol
+platform: ETH
+platform_contract: '0x73e21acf73a2e7cb7514e65811ba7ba79abc2deb'

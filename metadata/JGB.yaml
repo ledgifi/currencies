@@ -3,3 +3,5 @@ fiat: false
 id: JGB
 id_nomics: JGB
 name: Gold coin
+platform: BNB
+platform_contract: '0xc033ba5254659bbf95a83823baaf3fc04e58c65b'

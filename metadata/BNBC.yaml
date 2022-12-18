@@ -5,3 +5,5 @@ id_nomics: BNBC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNBC.jpg
 logoKey: currencies/bnbc.jpg
 name: BNBC
+platform: BNB
+platform_contract: '0x31b5d91806af3364678715f4c5bf50c1e3bae10a'

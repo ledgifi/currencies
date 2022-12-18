@@ -3,3 +3,5 @@ fiat: false
 id: SHIBLINK
 id_nomics: SHIBLINK
 name: ShibaStarlink
+platform: ETH
+platform_contract: '0x2d0d510907237fde8a041733e46803bdcd265c8f'

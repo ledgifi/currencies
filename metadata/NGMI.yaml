@@ -5,3 +5,5 @@ id_nomics: NGMI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NGMI.jpeg
 logoKey: currencies/ngmi.jpeg
 name: NGMI Coin
+platform: AVAX
+platform_contract: '0x5371179d5c463d08a437f9d0cc475ec4f59d2887'

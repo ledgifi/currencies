@@ -6,3 +6,5 @@ id_nomics: TIGERBABY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIGERBABY.jpg
 logoKey: currencies/tigerbaby.jpg
 name: Tiger Baby
+platform: BNB
+platform_contract: '0x021c352e88147cd750e1fe2acc89de55429d76a4'

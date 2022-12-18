@@ -5,3 +5,5 @@ id_nomics: BCS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCS2.jpg
 logoKey: currencies/bcs2.jpg
 name: Basiscoin Share
+platform: ETH
+platform_contract: '0x03066da434e5264ef0b32f787923f974a5726fdc'

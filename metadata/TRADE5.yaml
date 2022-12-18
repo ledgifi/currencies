@@ -5,3 +5,5 @@ id_nomics: TRADE5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRADE5.png
 logoKey: currencies/trade5.png
 name: Coinbot Copytrade
+platform: BNB
+platform_contract: '0x00299c226d4adCd3dE41aa4B4D52587F3B655Ad7'

@@ -5,3 +5,5 @@ id_nomics: SHT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHT.png
 logoKey: currencies/sht.png
 name: Shine Layer2
+platform: ETH
+platform_contract: '0xf73b1f84e0c16cd56b0fad03295213a3098de0de'

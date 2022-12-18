@@ -6,3 +6,5 @@ id_nomics: UPF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UPF.jpg
 logoKey: currencies/upf.jpg
 name: UpFinity
+platform: BNB
+platform_contract: '0x6cc5f09e46797189d18ea8cfb3b1aaa4661280ae'

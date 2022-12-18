@@ -5,3 +5,5 @@ id_nomics: DALCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DALCX.jpg
 logoKey: currencies/dalcx.jpg
 name: Delta Air Lines, Inc. Token
+platform: ETH
+platform_contract: '0x03b10be8aca24879c5d7196163cb0e4ce22c2503'

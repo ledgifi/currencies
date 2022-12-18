@@ -5,3 +5,5 @@ id_nomics: TETHYS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TETHYS.jpg
 logoKey: currencies/tethys.jpg
 name: Tethys Finance
+platform: METIS
+platform_contract: '0x69fdb77064ec5c84fa2f21072973eb28441f43f3'

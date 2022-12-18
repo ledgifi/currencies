@@ -5,3 +5,5 @@ id_nomics: ZBB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZBB2.jpg
 logoKey: currencies/zbb2.jpg
 name: Zombie Battlefield
+platform: BNB
+platform_contract: '0x7d0a4735b6191ed58a36cd151895a780b7703d0c'

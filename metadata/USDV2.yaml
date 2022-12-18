@@ -3,3 +3,5 @@ fiat: false
 id: USDV2
 id_nomics: USDV2
 name: USD Velero Stablecoin
+platform: VLX
+platform_contract: '0xcd7509b76281223f5b7d3ad5d47f8d7aa5c2b9bf'

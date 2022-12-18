@@ -5,3 +5,5 @@ id_nomics: JCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JCH.jpg
 logoKey: currencies/jch.jpg
 name: JobCash
+platform: BNB
+platform_contract: '0x90ff3a81dbacf65108e2b8585bbec6775aa8f063'

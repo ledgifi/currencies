@@ -3,3 +3,5 @@ fiat: false
 id: ARCHER
 id_nomics: ARCHER
 name: Archer
+platform: ETH
+platform_contract: '0x86aae4cc77728b5a85b599db5b839d9667d48d49'

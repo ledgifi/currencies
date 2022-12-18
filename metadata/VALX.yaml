@@ -5,3 +5,5 @@ id_nomics: VALX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VALX.png
 logoKey: currencies/valx.png
 name: Validator (Polygon)
+platform: MATIC
+platform_contract: '0x9d47b3faa5ff227d2bd404f572ef0ab0c8409161'

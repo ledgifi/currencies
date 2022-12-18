@@ -5,3 +5,5 @@ id_nomics: SUNI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUNI2.png
 logoKey: currencies/suni2.png
 name: sUniswap
+platform: ETH
+platform_contract: '0x30635297e450b930f8693297eba160d9e6c8ebcf'

@@ -5,3 +5,5 @@ id_nomics: ZOO11
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZOO11.jpg
 logoKey: currencies/zoo11.jpg
 name: Zoo Labs
+platform: BNB
+platform_contract: '0x09e2b83fe5485a7c8beaa5dffd1d324a2b2d5c13'

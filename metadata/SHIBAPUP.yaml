@@ -6,3 +6,5 @@ id_nomics: SHIBAPUP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBAPUP.jpg
 logoKey: currencies/shibapup.jpg
 name: ShibaPup
+platform: BNB
+platform_contract: '0x8203612382f61bafae549fbf31efbf70992fa289'

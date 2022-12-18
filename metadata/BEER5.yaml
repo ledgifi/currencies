@@ -5,3 +5,5 @@ id_nomics: BEER5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEER5.jpg
 logoKey: currencies/beer5.jpg
 name: Beer Token
+platform: ETH
+platform_contract: '0xb0dc4af6f1e722dd201ac15216b6afb51e78ff3b'

@@ -6,3 +6,5 @@ id_nomics: TNPC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TNPC.jpg
 logoKey: currencies/tnpc.jpg
 name: THE NEW PUBLIC COIN
+platform: ETH
+platform_contract: '0xe1229dc9824f9911ba4b0f427f1ac95fbdd10308'

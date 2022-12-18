@@ -3,3 +3,5 @@ fiat: false
 id: FNBL
 id_nomics: FNBL
 name: Fair Nebula
+platform: BNB
+platform_contract: '0x3d2d3c4dc1cc4231fc13eb75c918b7c032bc5c6c'

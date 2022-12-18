@@ -3,3 +3,5 @@ fiat: false
 id: MINTBLUE
 id_nomics: MINTBLUE
 name: MintBlue
+platform: ETH
+platform_contract: '0x127f35f7e7b655f885a92d68f907bdcca8eb5d0d'

@@ -3,3 +3,5 @@ fiat: false
 id: EMEM
 id_nomics: EMEM
 name: EmemToken
+platform: BNB
+platform_contract: '0xaee4f20c940f22c4582de77e6bf55d2cb0a1a4a1'

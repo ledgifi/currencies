@@ -6,3 +6,5 @@ id_nomics: SCAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCAN.jpg
 logoKey: currencies/scan.jpg
 name: Scan DeFi
+platform: BNB
+platform_contract: '0xccce542413528cb57b5761e061f4683a1247adcb'

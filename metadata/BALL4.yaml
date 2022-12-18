@@ -5,3 +5,5 @@ id_nomics: BALL4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BALL4.jpg
 logoKey: currencies/ball4.jpg
 name: PokeBall Token
+platform: BNB
+platform_contract: '0x1df7967c8ed887c51c0e6db400507a0abddd30cf'

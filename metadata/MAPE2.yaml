@@ -5,3 +5,5 @@ id_nomics: MAPE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAPE2.png
 logoKey: currencies/mape2.png
 name: MiniApe
+platform: BNB
+platform_contract: '0x1159de2a5adddb2d86287ac7931c11c96ac1187a'

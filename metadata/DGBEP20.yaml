@@ -5,3 +5,5 @@ id_nomics: DGBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DGBEP20.jpg
 logoKey: currencies/dgbep20.jpg
 name: Decentral Games on xDai
+platform: BNB
+platform_contract: '0x9fdc3ae5c814b79dca2556564047c5e7e5449c19'

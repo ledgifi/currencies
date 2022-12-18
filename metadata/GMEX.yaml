@@ -6,3 +6,5 @@ id_nomics: GMEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMEX.png
 logoKey: currencies/gmex.png
 name: Game Coin
+platform: BNB
+platform_contract: '0xe9d78bf51ae04c7e1263a76ed89a65537b9ca903'

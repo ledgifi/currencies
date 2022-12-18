@@ -5,3 +5,5 @@ id_nomics: SPARTAN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPARTAN2.jpeg
 logoKey: currencies/spartan2.jpeg
 name: SPARTANCOIN
+platform: MATIC
+platform_contract: '0x77cbe0689908c544a6856f344352e8b976cd184a'

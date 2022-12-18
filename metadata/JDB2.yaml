@@ -5,3 +5,5 @@ id_nomics: JDB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JDB2.png
 logoKey: currencies/jdb2.png
 name: JDBot
+platform: BNB
+platform_contract: '0x7874caff04afb8b6f5cbbe3ebec3f83fcd882272'

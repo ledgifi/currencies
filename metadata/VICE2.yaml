@@ -5,3 +5,5 @@ id_nomics: VICE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VICE2.jpg
 logoKey: currencies/vice2.jpg
 name: Vicewrld
+platform: BNB
+platform_contract: '0xeea06fc74182b195f679f31d735d95ee502f03f3'

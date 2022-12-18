@@ -5,3 +5,5 @@ id_nomics: M7FT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/M7FT.png
 logoKey: currencies/m7ft.png
 name: M7F Token
+platform: BNB
+platform_contract: '0x45e172d2914fCde4404b84eC8858d4E91BC768C4'

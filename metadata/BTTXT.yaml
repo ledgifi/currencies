@@ -5,3 +5,5 @@ id_nomics: BTTXT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTTXT.jpg
 logoKey: currencies/bttxt.jpg
 name: BitTaxiToken
+platform: BNB
+platform_contract: '0x01fedad5e7bfe9de4f5c4a1ac9dd8cec2c623d32'

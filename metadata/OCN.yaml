@@ -6,3 +6,5 @@ id_nomics: OCN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ocn.svg
 logoKey: currencies/ocn.svg
 name: Odyssey
+platform: ETH
+platform_contract: '0x4092678e4e78230f46a1534c0fbc8fa39780892b'

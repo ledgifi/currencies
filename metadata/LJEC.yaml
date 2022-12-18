@@ -3,3 +3,5 @@ fiat: false
 id: LJEC
 id_nomics: LJEC
 name: LJE Coin
+platform: BNB
+platform_contract: '0x8af8eeee081f989117b03756bbdfbc154284b6a0'

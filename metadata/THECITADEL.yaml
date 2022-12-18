@@ -5,3 +5,5 @@ id_nomics: THECITADEL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THECITADEL.jpg
 logoKey: currencies/thecitadel.jpg
 name: The Citadel
+platform: ETH
+platform_contract: '0x849ba2278cdae7fa7006c0661fea1c35d5af3336'

@@ -5,3 +5,5 @@ id_nomics: CRI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRI2.png
 logoKey: currencies/cri2.png
 name: Cris Rock Inu
+platform: BNB
+platform_contract: '0x0dAebD1AE1D32612c4D0Aa856edB1ed75E8bd259'

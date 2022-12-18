@@ -6,3 +6,5 @@ id_nomics: SHIBACK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBACK.jpg
 logoKey: currencies/shiback.jpg
 name: SHIBACK
+platform: BNB
+platform_contract: '0xdf45285ec20604499cff568513b8fae9a0af8372'

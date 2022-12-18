@@ -5,3 +5,5 @@ id_nomics: YGAME
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YGAME.jpg
 logoKey: currencies/ygame.jpg
 name: YGame
+platform: BNB
+platform_contract: '0x00e7c1bedff7cc0815fb51a129a5893fec604262'

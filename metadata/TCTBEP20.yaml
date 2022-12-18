@@ -5,3 +5,5 @@ id_nomics: TCTBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCTBEP20.jpg
 logoKey: currencies/tctbep20.jpg
 name: Binance-Peg Token Club
+platform: BNB
+platform_contract: '0xca0a9df6a8cad800046c1ddc5755810718b65c44'

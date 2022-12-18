@@ -5,3 +5,5 @@ id_nomics: UFIBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UFIBEP20.jpg
 logoKey: currencies/ufibep20.jpg
 name: PureFi (BEP-20)
+platform: BNB
+platform_contract: '0xe2a59D5E33c6540E18aAA46BF98917aC3158Db0D'

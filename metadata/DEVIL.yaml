@@ -5,3 +5,5 @@ id_nomics: DEVIL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEVIL.jpg
 logoKey: currencies/devil.jpg
 name: Devil
+platform: BNB
+platform_contract: '0x2b9e0a7373d8c3dfa5c707506f25bb5a5a842ec7'

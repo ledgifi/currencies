@@ -6,3 +6,5 @@ id_nomics: IUP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IUP.jpg
 logoKey: currencies/iup.jpg
 name: InfinitUp
+platform: BNB
+platform_contract: '0xc6f26e6df5f44c0ccd939581987c09b866cdbd1a'

@@ -5,3 +5,5 @@ id_nomics: DEMON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEMON.png
 logoKey: currencies/demon.png
 name: Shiba Demon
+platform: BNB
+platform_contract: '0xe03551f84aab929f956943eb6722ec0cbd035e91'

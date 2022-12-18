@@ -3,3 +3,5 @@ fiat: false
 id: SHIBDAO
 id_nomics: SHIBDAO
 name: shiba coin dao
+platform: BNB
+platform_contract: '0x893000ed60c774f26d73202f2721c6093422141b'

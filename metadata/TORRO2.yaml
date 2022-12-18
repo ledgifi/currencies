@@ -5,3 +5,5 @@ id_nomics: TORRO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TORRO2.jpg
 logoKey: currencies/torro2.jpg
 name: BitTorro
+platform: BNB
+platform_contract: '0x403b56babc26a7ec4356056da8dca506dd82feac'

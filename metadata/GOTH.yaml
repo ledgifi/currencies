@@ -5,3 +5,5 @@ id_nomics: GOTH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOTH.png
 logoKey: currencies/goth.png
 name: GOTH Token
+platform: AVAX
+platform_contract: '0x5ca3981525c860dd0454f7109b0e944368750c80'

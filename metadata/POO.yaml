@@ -6,3 +6,5 @@ id_nomics: POO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POO.jpg
 logoKey: currencies/poo.jpg
 name: POOMOON
+platform: BNB
+platform_contract: '0xfc20a257786f2d8a038caca312be0f10e206d15f'

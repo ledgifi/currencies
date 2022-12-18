@@ -5,3 +5,5 @@ id_nomics: TCC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TCC3.jpg
 logoKey: currencies/tcc3.jpg
 name: The Collective Coin
+platform: BNB
+platform_contract: '0xf8418d0a7f30bb899639b232f9748c0f1fa87870'

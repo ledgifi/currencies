@@ -5,3 +5,5 @@ id_nomics: RIGS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RIGS.png
 logoKey: currencies/rigs.png
 name: Rigs Oil Token
+platform: ETH
+platform_contract: '0x69b0adec3cb113132c970f3440302df81962d7f6'

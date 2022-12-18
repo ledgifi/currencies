@@ -5,3 +5,5 @@ id_nomics: MOONPIRATE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOONPIRATE.jpg
 logoKey: currencies/moonpirate.jpg
 name: MoonPirate
+platform: BNB
+platform_contract: '0xf09b7b6ba6dab7cccc3ae477a174b164c39f4c66'

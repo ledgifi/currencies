@@ -5,3 +5,5 @@ id_nomics: MXRP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MXRP2.jpeg
 logoKey: currencies/mxrp2.jpeg
 name: Mini XRP
+platform: BNB
+platform_contract: '0xc1476d7c85c9d9dbe1e8069ea91658fc0a512157'

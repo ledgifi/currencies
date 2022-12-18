@@ -3,3 +3,5 @@ fiat: false
 id: ETHRISE
 id_nomics: ETHRISE
 name: ETHRISE
+platform: ARBETH
+platform_contract: '0x46d06cf8052ea6fdbf71736af33ed23686ea1452'

@@ -5,3 +5,5 @@ id_nomics: SNIPX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNIPX.png
 logoKey: currencies/snipx.png
 name: SnipX
+platform: BNB
+platform_contract: '0xb81b42934aded534cfbc9a15e19032fc625b24c8'

@@ -6,3 +6,5 @@ id_nomics: QVT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/qvt.svg
 logoKey: currencies/qvt.svg
 name: Qvolta
+platform: ETH
+platform_contract: '0x1183f92a5624d68e85ffb9170f16bf0443b4c242'

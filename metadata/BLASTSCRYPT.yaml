@@ -5,3 +5,5 @@ id_nomics: BLASTSCRYPT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLASTSCRYPT.jpg
 logoKey: currencies/blastscrypt.jpg
 name: BlastScrypt
+platform: ETH
+platform_contract: '0xc85bd82baab231b31bdfe6cf3d92020d1408863a'

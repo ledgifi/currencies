@@ -5,3 +5,5 @@ id_nomics: BAKER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAKER.jpg
 logoKey: currencies/baker.jpg
 name: BakerKingSwap
+platform: ETH
+platform_contract: '0x9af7c46a4ebdfb1e11b5f94196c288c885f37bcd'

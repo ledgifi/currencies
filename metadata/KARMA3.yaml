@@ -5,3 +5,5 @@ id_nomics: KARMA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KARMA3.jpg
 logoKey: currencies/karma3.jpg
 name: KARMA KISMET
+platform: ETH
+platform_contract: '0xebe05c1fc5a8ceb0fc3c1d2c22097bde76cb1773'

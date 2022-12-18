@@ -5,3 +5,5 @@ id_nomics: W2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/W2.jpeg
 logoKey: currencies/w2.jpeg
 name: WAGMI Community
+platform: BNB
+platform_contract: '0x9dcfc24914f3085a9ef52f75bca45c0b32dd0a7e'

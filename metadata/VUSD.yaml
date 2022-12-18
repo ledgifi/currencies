@@ -5,3 +5,5 @@ id_nomics: VUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VUSD.jpg
 logoKey: currencies/vusd.jpg
 name: Value USD
+platform: ETH
+platform_contract: '0x3479b0acf875405d7853f44142fe06470a40f6cc'

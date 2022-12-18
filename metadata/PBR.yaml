@@ -6,3 +6,5 @@ id_nomics: PBR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PBR.png
 logoKey: currencies/pbr.png
 name: PolkaBridge
+platform: ETH
+platform_contract: '0x298d492e8c1d909d3f63bc4a36c66c64acb3d695'

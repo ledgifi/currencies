@@ -6,3 +6,5 @@ id_nomics: MEGALAND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEGALAND.jpg
 logoKey: currencies/megaland.jpg
 name: Metagalaxy Land
+platform: BNB
+platform_contract: '0x7cd8c22d3f4b66230f73d7ffcb48576233c3fe33'

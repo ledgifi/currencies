@@ -3,3 +3,5 @@ fiat: false
 id: BURNME
 id_nomics: BURNME
 name: BurnMe
+platform: ETH
+platform_contract: '0x37cc9dde75307e5a75ccbdcf31bcf0e9de6cbc1b'

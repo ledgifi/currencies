@@ -6,3 +6,5 @@ id_nomics: ETHPY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHPY.jpg
 logoKey: currencies/ethpy.jpg
 name: Etherpay
+platform: ETH
+platform_contract: '0x601938988f0fdd937373ea185c33751462b1d194'

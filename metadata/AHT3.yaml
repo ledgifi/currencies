@@ -5,3 +5,5 @@ id_nomics: AHT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AHT3.jpg
 logoKey: currencies/aht3.jpg
 name: AngelHeart Token
+platform: BNB
+platform_contract: '0x7a2c3c3eb14cf8d7e4481402e0d05c5d51a1cdff'

@@ -5,3 +5,5 @@ id_nomics: SEMI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SEMI.jpg
 logoKey: currencies/semi.jpg
 name: Semitoken
+platform: ETH
+platform_contract: '0x6d7917864003a9bb13cbbec8f1cdd4e36ddf6fc8'

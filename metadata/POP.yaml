@@ -5,3 +5,5 @@ id_nomics: POP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POP.png
 logoKey: currencies/pop.png
 name: POP Network
+platform: ETH
+platform_contract: '0x5d858bcd53e085920620549214a8b27ce2f04670'

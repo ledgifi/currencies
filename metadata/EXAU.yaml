@@ -5,3 +5,5 @@ id_nomics: EXAU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EXAU.jpeg
 logoKey: currencies/exau.jpeg
 name: EXAU Gold
+platform: BNB
+platform_contract: '0x164B74E1559d1aAC960c4D8b21A89867a1010ad0'

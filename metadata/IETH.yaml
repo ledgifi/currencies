@@ -5,3 +5,5 @@ id_nomics: IETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IETH2.png
 logoKey: currencies/ieth.png
 name: iETH
+platform: ETH
+platform_contract: '0xa9859874e1743a32409f75bb11549892138bba1e'

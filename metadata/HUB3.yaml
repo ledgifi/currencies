@@ -5,3 +5,5 @@ id_nomics: HUB3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HUB3.jpg
 logoKey: currencies/hub3.jpg
 name: Minter Hub
+platform: ETH
+platform_contract: '0x8e9a29e7ed21db7c5b2e1cd75e676da0236dfb45'

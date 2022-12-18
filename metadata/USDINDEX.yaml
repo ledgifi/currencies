@@ -3,3 +3,5 @@ fiat: false
 id: USDINDEX
 id_nomics: USDINDEX
 name: Synthetic USD (Wormhole)
+platform: MATIC
+platform_contract: '0x4fc5974c191cf998b8b60b78902780d77e323d3c'

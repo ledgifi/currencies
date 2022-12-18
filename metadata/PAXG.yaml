@@ -8,3 +8,5 @@ id_nomics: PAXG
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/paxg.svg
 logoKey: currencies/paxg.svg
 name: PAX Gold
+platform: ETH
+platform_contract: '0x45804880de22913dafe09f4980848ece6ecbaf78'

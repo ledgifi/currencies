@@ -5,3 +5,5 @@ id_nomics: CBT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBT2.jpg
 logoKey: currencies/cbt2.jpg
 name: Cryptocurrency Business Token
+platform: ETH
+platform_contract: '0x3ca6b185285684e14f925179992387fb4ef90ac7'

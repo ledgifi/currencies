@@ -6,3 +6,5 @@ id_nomics: FRIDGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FRIDGE.jpg
 logoKey: currencies/fridge.jpg
 name: Fridge Token
+platform: BNB
+platform_contract: '0x145fad68704371b4ca62a44845b46d12f46137e8'

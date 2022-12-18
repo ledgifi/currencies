@@ -5,3 +5,5 @@ id_nomics: ZECBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZECBEP20.jpg
 logoKey: currencies/zecbep20.jpg
 name: Binance-Peg Zcash Token
+platform: BNB
+platform_contract: '0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb'

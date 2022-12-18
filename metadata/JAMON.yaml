@@ -3,3 +3,5 @@ fiat: false
 id: JAMON
 id_nomics: JAMON
 name: JamonSwapV2
+platform: MATIC
+platform_contract: '0x2594c5b25edab3ebe937e27650c02922d9a62bf2'

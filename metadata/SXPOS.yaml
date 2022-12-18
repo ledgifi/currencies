@@ -5,3 +5,5 @@ id_nomics: SXPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SXPOS.jpg
 logoKey: currencies/sxpos.jpg
 name: SportX (Polygon)
+platform: BNB
+platform_contract: '0x6f26e8a40c8daae8c4358ce557c10226527cebce'

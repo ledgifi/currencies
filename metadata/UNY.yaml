@@ -6,3 +6,5 @@ id_nomics: UNY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNY.png
 logoKey: currencies/uny.png
 name: Unity Ingot
+platform: ETH
+platform_contract: '0x1a986f1659e11e2ae7cc6543f307bae5cde1c761'

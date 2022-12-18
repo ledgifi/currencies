@@ -5,3 +5,5 @@ id_nomics: GPAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GPAD.png
 logoKey: currencies/gpad.png
 name: Genesis Pad
+platform: BNB
+platform_contract: '0x4b472766F9368e2fcC80034718C6bEc725023f58'

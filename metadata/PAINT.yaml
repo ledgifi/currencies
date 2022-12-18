@@ -5,3 +5,5 @@ id_nomics: PAINT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAINT.jpg
 logoKey: currencies/paint.jpg
 name: Paint
+platform: ETH
+platform_contract: '0x4c6ec08cf3fc987c6c4beb03184d335a2dfc4042'

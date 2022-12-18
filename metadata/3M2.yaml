@@ -5,3 +5,5 @@ id_nomics: 3M2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/3M2.png
 logoKey: currencies/3m2.png
 name: 3M Coin
+platform: BNB
+platform_contract: '0x7ad90d9fe6b40aeeeea1512140609b6c191cb0f5'

@@ -5,3 +5,5 @@ id_nomics: TKR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TKR2.jpeg
 logoKey: currencies/tkr2.jpeg
 name: TOKEN RUGGED
+platform: BNB
+platform_contract: '0x3f2CB4165b1d4e6aC35b61001Bb5651a425765AF'

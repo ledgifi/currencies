@@ -5,3 +5,5 @@ id_nomics: EDGELON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EDGELON.jpg
 logoKey: currencies/edgelon.jpg
 name: Lorde Edge
+platform: ETH
+platform_contract: '0xcf58b4e4863c0d085bd1c65b3f2932e261547fab'

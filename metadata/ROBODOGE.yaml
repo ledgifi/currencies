@@ -6,3 +6,5 @@ id_nomics: ROBODOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROBODOGE.jpg
 logoKey: currencies/robodoge.jpg
 name: RoboDoge Coin
+platform: BNB
+platform_contract: '0x2f657932e65905ea09c7aacfe898bf79e207c1c0'

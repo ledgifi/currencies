@@ -5,3 +5,5 @@ id_nomics: ROOBEE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROOBEE.png
 logoKey: currencies/roobee.png
 name: Roobee Platform
+platform: ETH
+platform_contract: '0xa31b1767e09f842ecfd4bc471fe44f830e3891aa'

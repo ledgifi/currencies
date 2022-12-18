@@ -5,3 +5,5 @@ id_nomics: IVI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IVI.jpg
 logoKey: currencies/ivi.jpg
 name: Inoovi
+platform: ETH
+platform_contract: '0xa91464abd4625a23ab719e3f0fce84dadd54e546'

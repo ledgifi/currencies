@@ -5,3 +5,5 @@ id_nomics: WOW3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOW3.jpg
 logoKey: currencies/wow3.jpg
 name: WOWswap
+platform: BNB
+platform_contract: '0x4da996c5fe84755c80e108cf96fe705174c5e36a'

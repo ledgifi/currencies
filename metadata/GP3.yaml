@@ -5,3 +5,5 @@ id_nomics: GP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GP3.jpg
 logoKey: currencies/gp3.jpg
 name: Wizards And Dragons
+platform: ETH
+platform_contract: '0x38ec27c6f05a169e7ed03132bca7d0cfee93c2c5'

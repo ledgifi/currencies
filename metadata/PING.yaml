@@ -6,3 +6,5 @@ id_nomics: PING
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ping.svg
 logoKey: currencies/ping.svg
 name: CryptoPing
+platform: ETH
+platform_contract: '0x21cd6af01383651ed10554394c0497f9db5e5dbc'

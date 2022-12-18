@@ -6,3 +6,5 @@ id_nomics: BOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/box.png
 logoKey: currencies/box.png
 name: ContentBox
+platform: ETH
+platform_contract: '0x63f584fa56e60e4d0fe8802b27c7e6e3b33e007f'

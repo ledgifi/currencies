@@ -5,3 +5,5 @@ id_nomics: XATTER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XATTER.png
 logoKey: currencies/xatter.png
 name: XatteR
+platform: MINTME
+platform_contract: '0xb580f1dba1c17882fca8f6ddada8428c9cb177fc'

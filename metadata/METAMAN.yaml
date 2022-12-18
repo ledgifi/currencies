@@ -5,3 +5,5 @@ id_nomics: METAMAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAMAN.jpeg
 logoKey: currencies/metaman.jpeg
 name: METAMANCOIN
+platform: BNB
+platform_contract: '0x7e96790c9e36d4105e98ed4411e0a6c664ebd480'

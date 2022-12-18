@@ -6,3 +6,5 @@ id_nomics: KIOO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KIOO.jpeg
 logoKey: currencies/kioo.jpeg
 name: Kioo
+platform: AVAX
+platform_contract: '0x45CdaF3Fd17BD31d9830Fa977159162DD2431683'

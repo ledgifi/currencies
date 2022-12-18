@@ -5,3 +5,5 @@ id_nomics: 3FU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/3FU.jpg
 logoKey: currencies/3fu.jpg
 name: TrioSAFU
+platform: BNB
+platform_contract: '0xabdc15eadbd0c0bd7b10a52be400ea546114f5ec'

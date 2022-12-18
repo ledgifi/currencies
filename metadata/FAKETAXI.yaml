@@ -3,3 +3,5 @@ fiat: false
 id: FAKETAXI
 id_nomics: FAKETAXI
 name: FakeTaxi
+platform: ARBETH
+platform_contract: '0x4002a0fce861bb472bf2857a6830bcfddc57b91e'

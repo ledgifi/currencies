@@ -6,3 +6,5 @@ id_nomics: NFTSTYLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTSTYLE.jpeg
 logoKey: currencies/nftstyle.jpeg
 name: NFTStyle
+platform: BNB
+platform_contract: '0x5d33e26336c445c71f206dd18b64ce11c2eee3f0'

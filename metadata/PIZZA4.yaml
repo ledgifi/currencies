@@ -5,3 +5,5 @@ id_nomics: PIZZA4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIZZA4.png
 logoKey: currencies/pizza4.png
 name: PizzaNFT
+platform: BNB
+platform_contract: '0xb07905396a419b121213efe1d17cfd0ff20ae597'

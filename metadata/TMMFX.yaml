@@ -3,3 +3,5 @@ fiat: false
 id: TMMFX
 id_nomics: TMMFX
 name: SDP MMFX Token
+platform: CRO
+platform_contract: '0x26bbf11ac4820d45cb49c5d344bea506a2a5ef0e'

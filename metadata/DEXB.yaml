@@ -3,3 +3,5 @@ fiat: false
 id: DEXB
 id_nomics: DEXB
 name: DEXBIN
+platform: BNB
+platform_contract: '0xbe089e3342abe726cc6b853b93e028506cd92e17'

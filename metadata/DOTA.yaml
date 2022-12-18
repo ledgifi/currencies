@@ -5,3 +5,5 @@ id_nomics: DOTA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOTA.png
 logoKey: currencies/dota.png
 name: Dota Finance
+platform: BNB
+platform_contract: '0x9622ce95c731d1fc52768271c05a6d7c0f916d33'

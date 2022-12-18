@@ -5,3 +5,5 @@ id_nomics: VMT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VMT3.png
 logoKey: currencies/vmt3.png
 name: Vemate
+platform: BNB
+platform_contract: '0xe615c5e7219f9801c3b75bc76e45a4dab3c38e51'

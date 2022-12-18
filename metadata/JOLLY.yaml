@@ -6,3 +6,5 @@ id_nomics: JOLLY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JOLLY.jpg
 logoKey: currencies/jolly.jpg
 name: PirateDAO
+platform: AVAX
+platform_contract: '0x30ff717fc266f2dcb3adc1af4043f8c517491e66'

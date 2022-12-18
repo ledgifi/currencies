@@ -5,3 +5,5 @@ id_nomics: IFT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IFT3.jpg
 logoKey: currencies/ift3.jpg
 name: IFToken
+platform: BNB
+platform_contract: '0xcba5c46a24806239395e0b88b627209ef5637749'

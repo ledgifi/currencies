@@ -6,3 +6,5 @@ id_nomics: VIDYA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VIDYA.jpg
 logoKey: currencies/vidya.jpg
 name: Vidya
+platform: ETH
+platform_contract: '0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30'

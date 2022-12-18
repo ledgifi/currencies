@@ -3,3 +3,5 @@ fiat: false
 id: EXP2
 id_nomics: EXP2
 name: Exchange Payment Coin
+platform: ETH
+platform_contract: '0x5330a5805b9db68ebcf5247bbc9097163c1c2442'

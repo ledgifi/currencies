@@ -5,3 +5,5 @@ id_nomics: RYM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RYM.png
 logoKey: currencies/rym.png
 name: RYM
+platform: ETH
+platform_contract: '0x9f31200553d74a8632f2ca30aa95d8cd7730a878'

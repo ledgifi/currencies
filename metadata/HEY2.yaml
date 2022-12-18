@@ -5,3 +5,5 @@ id_nomics: HEY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HEY2.jpg
 logoKey: currencies/hey2.jpg
 name: Hey
+platform: ETH
+platform_contract: '0xe61f6e39711cec14f8d6c637c2f4568baa9ff7ee'

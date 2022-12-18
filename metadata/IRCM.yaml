@@ -5,3 +5,5 @@ id_nomics: IRCM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IRCM.jpg
 logoKey: currencies/ircm.jpg
 name: IRCM
+platform: ETH
+platform_contract: '0x9bd8ed9585ab6b51eac59e254317d6a7bede6feb'

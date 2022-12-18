@@ -3,3 +3,5 @@ fiat: false
 id: WBOX
 id_nomics: WBOX
 name: WhiteBox
+platform: BNB
+platform_contract: '0x276fc7bd27a8e0da59bf23437c011d05673d2c6f'

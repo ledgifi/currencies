@@ -5,3 +5,5 @@ id_nomics: UNIC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNIC3.jpg
 logoKey: currencies/unic3.jpg
 name: Unicorn Cake
+platform: BNB
+platform_contract: '0xd54add3414f57c47cd8103cc588b7c1e36e53eb2'

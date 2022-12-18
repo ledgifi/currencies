@@ -6,3 +6,5 @@ id_nomics: GDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GDT.png
 logoKey: currencies/gdt.png
 name: Gorilla Diamond
+platform: BNB
+platform_contract: '0xb7f2bca9b034f8cc143339dd12bb31d3d50cf27a'

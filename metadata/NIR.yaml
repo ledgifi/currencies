@@ -3,3 +3,5 @@ fiat: false
 id: NIR
 id_nomics: NIR
 name: NIRTOKEN
+platform: BNB
+platform_contract: '0x6952699182d6260cbecc07f8ef18d29fe01fcf72'

@@ -3,3 +3,5 @@ fiat: false
 id: YOUR
 id_nomics: YOUR
 name: Your Token
+platform: BNB
+platform_contract: '0x284099132099265ee5fcd87e9f0dbf6dba37e6a0'

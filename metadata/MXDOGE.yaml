@@ -3,3 +3,5 @@ fiat: false
 id: MXDOGE
 id_nomics: MXDOGE
 name: MxDoge
+platform: BNB
+platform_contract: '0x72a05191f56ad28c47daa175277309a946191c47'

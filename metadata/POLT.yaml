@@ -5,3 +5,5 @@ id_nomics: POLT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POLT.png
 logoKey: currencies/polt.png
 name: Polkatrain
+platform: BNB
+platform_contract: '0x955d1032343dfe56dc324b0a980c25cb23f0a595'

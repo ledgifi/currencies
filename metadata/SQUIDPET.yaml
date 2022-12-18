@@ -6,3 +6,5 @@ id_nomics: SQUIDPET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SQUIDPET.jpg
 logoKey: currencies/squidpet.jpg
 name: Squid Pet
+platform: BNB
+platform_contract: '0xcb15fc54d0655150fa3784ec4a355b76a951e4cf'

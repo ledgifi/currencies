@@ -6,3 +6,5 @@ id_nomics: WLFGRL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WLFGRL.jpg
 logoKey: currencies/wlfgrl.jpg
 name: Wolfgirl
+platform: BNB
+platform_contract: '0x3067177a2a3d68b02cf9bd585f28b755958ced3b'

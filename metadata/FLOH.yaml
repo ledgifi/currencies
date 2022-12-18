@@ -5,3 +5,5 @@ id_nomics: FLOH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOH.png
 logoKey: currencies/floh.png
 name: Halloween Floki
+platform: BNB
+platform_contract: '0x2c0e76dade015bc390a13c1b80cc1bafd9edd326'

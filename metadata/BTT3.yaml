@@ -5,3 +5,5 @@ id_nomics: BTT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTT3.png
 logoKey: currencies/btt3.png
 name: Bitteam
+platform: BNB
+platform_contract: '0xec6432b90e7fd4d9f872cc5c781f05b617db861e'

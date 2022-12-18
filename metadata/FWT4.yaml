@@ -5,3 +5,5 @@ id_nomics: FWT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FWT4.jpeg
 logoKey: currencies/fwt4.jpeg
 name: Fwar Finance
+platform: BNB
+platform_contract: '0xce3e05e2dfce8673e08514615dd976754bb88b25'

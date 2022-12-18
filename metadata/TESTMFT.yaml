@@ -3,3 +3,5 @@ fiat: false
 id: TESTMFT
 id_nomics: TESTMFT
 name: TESTMFT
+platform: BNB
+platform_contract: '0x7153585e53dd9f6f8f2e8d40e95f08abcdd217ed'

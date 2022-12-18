@@ -5,3 +5,5 @@ id_nomics: PUNKFEMALE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PUNKFEMALE.jpg
 logoKey: currencies/punkfemale.jpg
 name: Punk Female
+platform: ETH
+platform_contract: '0x27ffed7e5926fb2795fc85aaab558243f280a8a2'

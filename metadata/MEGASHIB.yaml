@@ -6,3 +6,5 @@ id_nomics: MEGASHIB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEGASHIB.jpg
 logoKey: currencies/megashib.jpg
 name: Mega Shiba Inu
+platform: ETH
+platform_contract: '0x1c23f0f3e06fa0e07c5e661353612a2d63323bc6'

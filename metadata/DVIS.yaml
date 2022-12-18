@@ -3,3 +3,5 @@ fiat: false
 id: DVIS
 id_nomics: DVIS
 name: Dummy VIS
+platform: MATIC
+platform_contract: '0xbb6e6cbe9b392ac1275f3764cfda687a7d0a2cf6'

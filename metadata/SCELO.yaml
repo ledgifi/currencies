@@ -3,3 +3,5 @@ fiat: false
 id: SCELO
 id_nomics: SCELO
 name: Savings Celo
+platform: CELO
+platform_contract: '0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA'

@@ -5,3 +5,5 @@ id_nomics: BTI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTI2.png
 logoKey: currencies/bti2.png
 name: Baby Tiger Inu
+platform: BNB
+platform_contract: '0x73CC32929721B6C5370736339CAf7F1d62653776'

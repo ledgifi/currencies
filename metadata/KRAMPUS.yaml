@@ -5,3 +5,5 @@ id_nomics: KRAMPUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KRAMPUS.png
 logoKey: currencies/krampus.png
 name: Krampus
+platform: FTM
+platform_contract: '0x38d3a41d3fa80fa71399e4377104c965cfac413a'

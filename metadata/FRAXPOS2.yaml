@@ -5,3 +5,5 @@ id_nomics: FRAXPOS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FRAXPOS2.png
 logoKey: currencies/fraxpos2.png
 name: Frax (Polygon)
+platform: MATIC
+platform_contract: '0x45c32fa6df82ead1e2ef74d17b76547eddfaff89'

@@ -5,3 +5,5 @@ id_nomics: TBACERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TBACERC20.png
 logoKey: currencies/tbacerc20.png
 name: BlockAura (ERC-20)
+platform: ETH
+platform_contract: '0x81748685beeefb94fa330dbe72f837b3142c8602'

@@ -3,3 +3,5 @@ fiat: false
 id: SXN
 id_nomics: SXN
 name: Synthetix
+platform: ETH
+platform_contract: '0xd8ba60aa23c3e88c61ce18e4d301227178c98641'

@@ -5,3 +5,5 @@ id_nomics: SON2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SON2.jpg
 logoKey: currencies/son2.jpg
 name: SONTOKEN
+platform: ETH
+platform_contract: '0x0c17398ebbcb15078f2ad2c67a26d10623957b21'

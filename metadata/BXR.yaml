@@ -6,3 +6,5 @@ id_nomics: BXR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BXR.jpg
 logoKey: currencies/bxr.jpg
 name: Blockster
+platform: ETH
+platform_contract: '0x97a3bd8a445cc187c6a751f392e15c3b2134d695'

@@ -5,3 +5,5 @@ id_nomics: CSF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CSF.jpg
 logoKey: currencies/csf.jpg
 name: Coinsale Finance
+platform: BNB
+platform_contract: '0x8697c37ecdbdb4eb5e24f19d7d294ea76291b91c'

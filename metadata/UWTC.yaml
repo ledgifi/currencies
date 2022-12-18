@@ -5,3 +5,5 @@ id_nomics: UWTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UWTC.jpg
 logoKey: currencies/uwtc.jpg
 name: UP Wallet
+platform: ETH
+platform_contract: '0x282cb0a611280ff5887ca122911a0ca6b841cb03'

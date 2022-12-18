@@ -5,3 +5,5 @@ id_nomics: WWC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WWC.png
 logoKey: currencies/wwc.png
 name: Werewolf Coin
+platform: ETH
+platform_contract: '0x38118bdb3b480f570837a4c2e88fac6e83be6689'

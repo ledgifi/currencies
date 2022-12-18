@@ -5,3 +5,5 @@ id_nomics: ALPHA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALPHA2.jpg
 logoKey: currencies/alpha2.jpg
 name: Alpha.Fork
+platform: BNB
+platform_contract: '0xa872e0a44bbd66c1486a756cb5bd3f0beec4e32e'

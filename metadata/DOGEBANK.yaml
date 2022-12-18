@@ -3,3 +3,5 @@ fiat: false
 id: DOGEBANK
 id_nomics: DOGEBANK
 name: DogeBank
+platform: BNB
+platform_contract: '0x762ca8fff22a472d3f357d0ffe79a1639880d244'

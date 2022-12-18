@@ -3,3 +3,5 @@ fiat: false
 id: WKCS
 id_nomics: WKCS
 name: Wrapped KCS
+platform: KCS
+platform_contract: '0x4446fc4eb47f2f6586f9faab68b3498f86c07521'

@@ -5,3 +5,5 @@ id_nomics: MATICHRC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MATICHRC20.jpg
 logoKey: currencies/matichrc20.jpg
 name: Polygon (Harmony)
+platform: HARMONY
+platform_contract: '0x301259f392B551CA8c592C9f676FCD2f9A0A84C5'

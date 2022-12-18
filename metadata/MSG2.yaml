@@ -5,3 +5,5 @@ id_nomics: MSG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSG2.png
 logoKey: currencies/msg2.png
 name: MetaSurvivor
+platform: BNB
+platform_contract: '0x6ebffd350a0e3d8c14d395547890d9da9311dfcd'

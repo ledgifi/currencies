@@ -5,3 +5,5 @@ id_nomics: PULSERISE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PULSERISE.jpeg
 logoKey: currencies/pulserise.jpeg
 name: PulseRise
+platform: BNB
+platform_contract: '0x2ac74163a1fe357e6f4a790399339b1340e3c8e9'

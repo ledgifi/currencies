@@ -5,3 +5,5 @@ id_nomics: DKEY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DKEY.jpg
 logoKey: currencies/dkey.jpg
 name: dkey
+platform: BNB
+platform_contract: '0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1'

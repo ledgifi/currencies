@@ -5,3 +5,5 @@ id_nomics: LIME
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIME.png
 logoKey: currencies/lime.png
 name: LimeSwap
+platform: BNB
+platform_contract: '0xbbabf1636b7ab0069a8f7ce76b4afbee2f1e2f2c'

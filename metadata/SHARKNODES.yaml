@@ -3,3 +3,5 @@ fiat: false
 id: SHARKNODES
 id_nomics: SHARKNODES
 name: SharkNodes
+platform: BNB
+platform_contract: '0x02add356e4e4034851eb7b7a1a2a7250e38d4abd'

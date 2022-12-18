@@ -3,3 +3,5 @@ fiat: false
 id: MGLC
 id_nomics: MGLC
 name: Mongoliacoin
+platform: BNB
+platform_contract: '0x95f8a00961be656405d22c9024453f6778ee915f'

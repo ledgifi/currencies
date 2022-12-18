@@ -5,3 +5,5 @@ id_nomics: NMX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NMX2.jpeg
 logoKey: currencies/nmx2.jpeg
 name: Nimox
+platform: BNB
+platform_contract: '0x62d310b6c8d73c4844fb9b0b37765a8ded702e35'

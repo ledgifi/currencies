@@ -5,3 +5,5 @@ id_nomics: CASPER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CASPER.jpg
 logoKey: currencies/casper.jpg
 name: Casper DeFi
+platform: FTM
+platform_contract: '0xc30d1b0ce932c3dd3373a2c23ada4e9608caf345'

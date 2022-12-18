@@ -3,3 +3,5 @@ fiat: false
 id: APEFI
 id_nomics: APEFI
 name: Ape Finance
+platform: ETH
+platform_contract: '0x4332f8a38f14bd3d8d1553af27d7c7ac6c27278d'

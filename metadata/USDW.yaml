@@ -3,3 +3,5 @@ fiat: false
 id: USDW
 id_nomics: USDW
 name: USDW-token
+platform: BNB
+platform_contract: '0xba6f8043e7b50cf09d8e629d61f187e47bd52516'

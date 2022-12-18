@@ -5,3 +5,5 @@ id_nomics: ACHESS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACHESS.jpg
 logoKey: currencies/achess.jpg
 name: ArbiChess
+platform: ARBETH
+platform_contract: '0xd713d9914f6730246c900c5ca0a8752959367a30'

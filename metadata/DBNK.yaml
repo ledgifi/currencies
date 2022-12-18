@@ -5,3 +5,5 @@ id_nomics: DBNK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DBNK.jpg
 logoKey: currencies/dbnk.jpg
 name: Debunk
+platform: ETH
+platform_contract: '0xacbed9726ffd232b59d3ca86a0f5c856e2abef29'

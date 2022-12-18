@@ -5,3 +5,5 @@ id_nomics: FBT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FBT2.jpg
 logoKey: currencies/fbt2.jpg
 name: Fireball
+platform: BNB
+platform_contract: '0x924cb78aaafc06587d5e56277e76addab0acb7fb'

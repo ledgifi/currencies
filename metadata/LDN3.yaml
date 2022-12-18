@@ -5,3 +5,5 @@ id_nomics: LDN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LDN3.png
 logoKey: currencies/ldn3.png
 name: Loaded Nodes
+platform: CRO
+platform_contract: '0x97cfBdf107468E88E80929AFE085541d4725d4ff'

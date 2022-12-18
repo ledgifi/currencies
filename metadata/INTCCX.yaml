@@ -5,3 +5,5 @@ id_nomics: INTCCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INTCCX.jpg
 logoKey: currencies/intccx.jpg
 name: Intel Corporation Token
+platform: ETH
+platform_contract: '0x1245712fb154f7233e496e21edb61f89c63e7878'

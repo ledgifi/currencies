@@ -5,3 +5,5 @@ id_nomics: BUSDGROW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUSDGROW.jpg
 logoKey: currencies/busdgrow.jpg
 name: Busd Grow
+platform: BNB
+platform_contract: '0x0df704270e39029a0e8a7fd7b82b6a4ea8981ffa'

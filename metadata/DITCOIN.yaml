@@ -5,3 +5,5 @@ id_nomics: DITCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DITCOIN.png
 logoKey: currencies/ditcoin.png
 name: Ditcoin
+platform: ETH
+platform_contract: '0xbf5ba36f13a63c6f22e7450f7e85d854ef60e46b'

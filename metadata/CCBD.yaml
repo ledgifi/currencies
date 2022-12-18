@@ -5,3 +5,5 @@ id_nomics: CCBD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CCBD.jpg
 logoKey: currencies/ccbd.jpg
 name: cCBD
+platform: BNB
+platform_contract: '0x131ded61462cb0f8034656d9294f79247f72ad0b'

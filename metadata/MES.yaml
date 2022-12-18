@@ -6,3 +6,5 @@ id_nomics: MES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MES.jpg
 logoKey: currencies/mes.jpg
 name: MesChain
+platform: ETH
+platform_contract: '0x322f4f6a48329690957a3bcbd1301516c2b83c1f'

@@ -6,3 +6,5 @@ id_nomics: GOGETA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOGETA.jpg
 logoKey: currencies/gogeta.jpg
 name: Gogeta Inu
+platform: ETH
+platform_contract: '0x636484a1c41e88e3fc7c99248ca0b3c3a844ab86'

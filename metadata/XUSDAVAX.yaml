@@ -5,3 +5,5 @@ id_nomics: XUSDAVAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XUSDAVAX.jpg
 logoKey: currencies/xusdavax.jpg
 name: xDollar Stablecoin (Avalanche)
+platform: AVAX
+platform_contract: '0x3509f19581afedeff07c53592bc0ca84e4855475'

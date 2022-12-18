@@ -6,3 +6,5 @@ id_nomics: SMBSWAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMBSWAP.jpg
 logoKey: currencies/smbswap.jpg
 name: SimbCoin Swap
+platform: ETH
+platform_contract: '0x53bd789f2cdb846b227d8ffc7b46ed4263231fdf'

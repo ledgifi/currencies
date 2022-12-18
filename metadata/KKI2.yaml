@@ -5,3 +5,5 @@ id_nomics: KKI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KKI2.jpg
 logoKey: currencies/kki2.jpg
 name: Kakashi Inu V2
+platform: ETH
+platform_contract: '0x15a6d1392188cc1fc1d99936e7d3c09e28c21465'

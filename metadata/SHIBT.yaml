@@ -3,3 +3,5 @@ fiat: false
 id: SHIBT
 id_nomics: SHIBT
 name: ShibaTrade Inu
+platform: ETH
+platform_contract: '0x249c79006655dc0a183d07e47d438c818a706509'

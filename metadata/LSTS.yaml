@@ -5,3 +5,5 @@ id_nomics: LSTS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LSTS.jpeg
 logoKey: currencies/lsts.jpeg
 name: Listing Alerts
+platform: BNB
+platform_contract: '0xA430930883666b8C7c308ce357049AFaDB0468E2'

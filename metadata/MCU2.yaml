@@ -5,3 +5,5 @@ id_nomics: MCU2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCU2.jpeg
 logoKey: currencies/mcu2.jpeg
 name: McDogenaldsINU
+platform: BNB
+platform_contract: '0x75b07352b88c4371343f41943942b9afb69e6d33'

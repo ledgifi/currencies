@@ -5,3 +5,5 @@ id_nomics: LIFT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIFT2.jpg
 logoKey: currencies/lift2.jpg
 name: Uplift
+platform: ETH
+platform_contract: '0x513c3200f227ebb62e3b3d00b7a83779643a71cf'

@@ -3,3 +3,5 @@ fiat: false
 id: ETHPP
 id_nomics: ETHPP
 name: ETHPrinterPrinter
+platform: AVAX
+platform_contract: '0x9fa77e04e588de71c9aba5a86e0697e970942512'

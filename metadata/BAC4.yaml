@@ -5,3 +5,5 @@ id_nomics: BAC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAC4.jpg
 logoKey: currencies/bac4.jpg
 name: BlackApeCoin
+platform: BNB
+platform_contract: '0x2f2ba48db1c7a31490240d03835bdabe6a34a197'

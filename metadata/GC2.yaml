@@ -5,3 +5,5 @@ id_nomics: GC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GC2.jpg
 logoKey: currencies/gc2.jpg
 name: Golden Hoyeah Coin
+platform: ETH
+platform_contract: '0x3d24b45b7195f16b8aff4461f8ab1a185c72ce0c'

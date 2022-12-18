@@ -3,3 +3,5 @@ fiat: false
 id: SAMPLE
 id_nomics: SAMPLE
 name: Sample Text
+platform: BNB
+platform_contract: '0x8822d9ce9a237ce809e1f0f05d3753a767581fe3'

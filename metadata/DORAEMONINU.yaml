@@ -5,3 +5,5 @@ id_nomics: DORAEMONINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DORAEMONINU.jpg
 logoKey: currencies/doraemoninu.jpg
 name: DoraemonInu
+platform: ETH
+platform_contract: '0xd2d9e0b2942943269d5224e0048bbc32380ac19b'

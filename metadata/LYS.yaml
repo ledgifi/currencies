@@ -5,3 +5,5 @@ id_nomics: LYS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LYS.png
 logoKey: currencies/lys.png
 name: Lightyears
+platform: ETH
+platform_contract: '0xdd41fbd1ae95c5d9b198174a28e04be6b3d1aa27'

@@ -6,3 +6,5 @@ id_nomics: PUFFSANTA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PUFFSANTA.jpg
 logoKey: currencies/puffsanta.jpg
 name: Puff Santa
+platform: BNB
+platform_contract: '0x35948f5ba87b0b6f320fa6af78e811be67cb1b2a'

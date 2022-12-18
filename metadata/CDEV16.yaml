@@ -3,3 +3,5 @@ fiat: false
 id: CDEV16
 id_nomics: CDEV16
 name: CDE V16 NODE
+platform: AVAX
+platform_contract: '0x41e9ad5098ce98e9aaba16312a97886ab281d869'

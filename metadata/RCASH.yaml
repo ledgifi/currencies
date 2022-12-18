@@ -5,3 +5,5 @@ id_nomics: RCASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RCASH.jpeg
 logoKey: currencies/rcash.jpeg
 name: rollscash
+platform: BNB
+platform_contract: '0xa4ff7847ffc3c04587c479ac9c2ea9d15e74ceb5'

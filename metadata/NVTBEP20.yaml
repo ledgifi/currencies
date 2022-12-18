@@ -5,3 +5,5 @@ id_nomics: NVTBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NVTBEP20.jpg
 logoKey: currencies/nvtbep20.jpg
 name: Nerve Network (BEP-20)
+platform: BNB
+platform_contract: '0xf0e406c49c63abf358030a299c0e00118c4c6ba5'

@@ -6,3 +6,5 @@ id_nomics: MFUND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MFUND.jpg
 logoKey: currencies/mfund.jpg
 name: Memefund
+platform: ETH
+platform_contract: '0xddaddd4f73abc3a6552de43aba325f506232fa8a'

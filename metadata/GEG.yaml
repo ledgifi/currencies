@@ -6,3 +6,5 @@ id_nomics: GEG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GEG.jpg
 logoKey: currencies/geg.jpg
 name: GeGem
+platform: BNB
+platform_contract: '0x99dab6065951becac1decbac0c1a16b9bbf12913'

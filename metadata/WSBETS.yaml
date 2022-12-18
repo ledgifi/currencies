@@ -3,3 +3,5 @@ fiat: false
 id: WSBETS
 id_nomics: WSBETS
 name: WallStreetBets
+platform: BNB
+platform_contract: '0xc7dd1a5ca2bee72935bc5e1143413641705f6258'

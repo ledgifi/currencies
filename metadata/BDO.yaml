@@ -6,3 +6,5 @@ id_nomics: BDO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BDO.jpg
 logoKey: currencies/bdo.jpg
 name: bDollar
+platform: BNB
+platform_contract: '0x190b589cf9fb8ddeabbfeae36a813ffb2a702454'

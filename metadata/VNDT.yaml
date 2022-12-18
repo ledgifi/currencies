@@ -6,3 +6,5 @@ id_nomics: VNDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VNDT.jpg
 logoKey: currencies/vndt.jpg
 name: Vendit
+platform: ETH
+platform_contract: '0x5e9997684d061269564f94e5d11ba6ce6fa9528c'

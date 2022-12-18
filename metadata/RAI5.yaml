@@ -5,3 +5,5 @@ id_nomics: RAI5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAI5.jpg
 logoKey: currencies/rai5.jpg
 name: RAI
+platform: ETH
+platform_contract: '0x4c9bbfc1fbd93dfb509e718400978fbeedf590e9'

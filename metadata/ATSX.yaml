@@ -5,3 +5,5 @@ id_nomics: ATSX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATSX.png
 logoKey: currencies/atsx.png
 name: AllTurn.Space
+platform: MATIC
+platform_contract: '0xa9b8e4be7e4fc1b1d28b396af7c4cba37979bc0f'

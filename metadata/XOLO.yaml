@@ -5,3 +5,5 @@ id_nomics: XOLO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XOLO.jpg
 logoKey: currencies/xolo.jpg
 name: Xolo
+platform: BNB
+platform_contract: '0x19314dfa75cfc1e5154f95dafab217646bdb79ac'

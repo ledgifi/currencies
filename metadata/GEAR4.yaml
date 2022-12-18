@@ -5,3 +5,5 @@ id_nomics: GEAR4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GEAR4.jpg
 logoKey: currencies/gear4.jpg
 name: Gearbox
+platform: ETH
+platform_contract: '0xba3335588d9403515223f109edc4eb7269a9ab5d'

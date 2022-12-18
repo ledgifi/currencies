@@ -5,3 +5,5 @@ id_nomics: T42
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/T42.jpeg
 logoKey: currencies/t42.jpeg
 name: Token42
+platform: BNB
+platform_contract: '0xad82d0857ff13bf8cde3413573d5c5f950c743fe'

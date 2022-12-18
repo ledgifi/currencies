@@ -5,3 +5,5 @@ id_nomics: ZETH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZETH2.jpg
 logoKey: currencies/zeth2.jpg
 name: Icarus ZETH
+platform: BNB
+platform_contract: '0xdbeb98858f5d4dca13ea0272b2b786e9415d3992'

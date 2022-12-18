@@ -5,3 +5,5 @@ id_nomics: HBET2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HBET2.jpg
 logoKey: currencies/hbet2.jpg
 name: Hero Bet
+platform: BNB
+platform_contract: '0x1700c5fb83aec318ccd2f855c2e44284758ce08d'

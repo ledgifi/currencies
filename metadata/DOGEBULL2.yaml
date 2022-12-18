@@ -5,3 +5,5 @@ id_nomics: DOGEBULL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEBULL2.jpg
 logoKey: currencies/dogebull2.jpg
 name: DogeBull
+platform: BNB
+platform_contract: '0xbd4a49e1a0bd8d17faa881d057b48bc18b983e51'

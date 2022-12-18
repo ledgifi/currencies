@@ -6,3 +6,5 @@ id_nomics: DVDX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DVDX.jpg
 logoKey: currencies/dvdx.jpg
 name: Derived
+platform: BNB
+platform_contract: '0x4b4135a99775368f349b6f904808b648a9948393'

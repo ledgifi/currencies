@@ -6,3 +6,5 @@ id_nomics: SG20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SG20.jpg
 logoKey: currencies/sg20.jpg
 name: SG20
+platform: ETH
+platform_contract: '0x91a7769afcf796a3c8fff879ed80b10dd76d3ccd'

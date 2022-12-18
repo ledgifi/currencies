@@ -5,3 +5,5 @@ id_nomics: NCE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NCE.png
 logoKey: currencies/nce.png
 name: NewChance
+platform: BNB
+platform_contract: '0x362eccb1f150f47643e6eec92a296f369d5edbef'

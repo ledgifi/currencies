@@ -5,3 +5,5 @@ id_nomics: REALIZE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REALIZE.png
 logoKey: currencies/realize.png
 name: Realize Verse Network
+platform: BNB
+platform_contract: '0xe2184bd67ba8b7c2ce74d4a2695fc7e05c0e5e45'

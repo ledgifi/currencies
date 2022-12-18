@@ -5,3 +5,5 @@ id_nomics: EXPRESS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EXPRESS2.png
 logoKey: currencies/express2.png
 name: Express Token
+platform: BNB
+platform_contract: '0xd702562caaae025f0e09ab4c5cc7d2304b7306e0'

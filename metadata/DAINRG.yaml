@@ -5,3 +5,5 @@ id_nomics: DAINRG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAINRG.svg
 logoKey: currencies/dainrg.svg
 name: DAI (Energi)
+platform: NRG
+platform_contract: '0x0ee5893f434017d8881750101Ea2F7c49c0eb503'

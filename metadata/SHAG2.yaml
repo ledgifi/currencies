@@ -5,3 +5,5 @@ id_nomics: SHAG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHAG2.png
 logoKey: currencies/shag2.png
 name: Shaggy Inu
+platform: BNB
+platform_contract: '0x287c2fb71f034f089f24bab8b58b6f7653febe09'

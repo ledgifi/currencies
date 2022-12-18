@@ -5,3 +5,5 @@ id_nomics: BOON3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOON3.jpg
 logoKey: currencies/boon3.jpg
 name: Baboon Financial
+platform: BNB
+platform_contract: '0xecad387080156f27399ca7df2bd70afb8a5ed67d'

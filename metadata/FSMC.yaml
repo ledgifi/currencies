@@ -3,3 +3,5 @@ fiat: false
 id: FSMC
 id_nomics: FSMC
 name: The Flying Spaghetti Monster Coin
+platform: BNB
+platform_contract: '0x9a0557b89f287496ad41f3d72e98507f55ef79c8'

@@ -5,3 +5,5 @@ id_nomics: SSG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SSG2.jpg
 logoKey: currencies/ssg2.jpg
 name: Surviving Soldiers
+platform: BNB
+platform_contract: '0xa0c8c80ed6b7f09f885e826386440b2349f0da7e'

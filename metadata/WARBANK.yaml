@@ -3,3 +3,5 @@ fiat: false
 id: WARBANK
 id_nomics: WARBANK
 name: Warbank Dao
+platform: ETH
+platform_contract: '0x76ec32623a0e6a404dd576760ff3856966bfc341'

@@ -6,3 +6,5 @@ id_nomics: POLYMOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POLYMOON.jpg
 logoKey: currencies/polymoon.jpg
 name: PolyMoon
+platform: MATIC
+platform_contract: '0xefb3009ddac87e8144803d78e235e7fb4cd36e61'

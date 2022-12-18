@@ -5,3 +5,5 @@ id_nomics: FRINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FRINU.jpg
 logoKey: currencies/frinu.jpg
 name: Frieza Inu
+platform: ETH
+platform_contract: '0x5aa5ba99105469b10bd82cd22b3166c88d187e3b'

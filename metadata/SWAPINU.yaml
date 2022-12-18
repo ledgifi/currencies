@@ -5,3 +5,5 @@ id_nomics: SWAPINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWAPINU.jpg
 logoKey: currencies/swapinu.jpg
 name: Swap Inu
+platform: BNB
+platform_contract: '0x0372211a2771365cbe0170e9a0ebf28dc9271bf6'

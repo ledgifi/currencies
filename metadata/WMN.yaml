@@ -5,3 +5,5 @@ id_nomics: WMN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WMN.png
 logoKey: currencies/wmn.png
 name: WATERMELON
+platform: BNB
+platform_contract: '0x1c103cb931e3789b393db452b8e7c5f89ee8ad8e'

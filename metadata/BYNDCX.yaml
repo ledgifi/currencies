@@ -5,3 +5,5 @@ id_nomics: BYNDCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BYNDCX.jpg
 logoKey: currencies/byndcx.jpg
 name: Beyond Meat, Inc. Token
+platform: ETH
+platform_contract: '0x0a0e3a2973e19d5305a43fafb50935f34f01a55c'

@@ -5,3 +5,5 @@ id_nomics: MGZR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MGZR.jpg
 logoKey: currencies/mgzr.jpg
 name: Moongazer
+platform: BNB
+platform_contract: '0xc752d77cf8c46a813ed10dd71f96a9ead4c7458b'

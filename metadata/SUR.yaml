@@ -6,3 +6,5 @@ id_nomics: SUR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/sur.png
 logoKey: currencies/sur.png
 name: Suretly
+platform: ETH
+platform_contract: '0xe120c1ecbfdfea7f0a8f0ee30063491e8c26fedf'

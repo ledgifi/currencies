@@ -5,3 +5,5 @@ id_nomics: KSN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KSN.png
 logoKey: currencies/ksn.png
 name: Kissan
+platform: BNB
+platform_contract: '0xc8a11f433512c16ed895245f34bcc2ca44eb06bd'

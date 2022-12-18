@@ -5,3 +5,5 @@ id_nomics: PROT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PROT3.jpg
 logoKey: currencies/prot3.jpg
 name: Proteo Token
+platform: BNB
+platform_contract: '0xc9b135e7ae2d61e374c0b3bfe654cb0ce6c28293'

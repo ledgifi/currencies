@@ -6,3 +6,5 @@ id_nomics: ACY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACY.jpg
 logoKey: currencies/acy.jpg
 name: ACY Finance
+platform: BNB
+platform_contract: '0xc94595b56e301f3ffedb8ccc2d672882d623e53a'

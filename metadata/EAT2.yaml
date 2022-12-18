@@ -5,3 +5,5 @@ id_nomics: EAT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EAT2.jpg
 logoKey: currencies/eat2.jpg
 name: eat
+platform: BNB
+platform_contract: '0xd31bf1b0a28393597aaadb60be5227375970731f'

@@ -5,3 +5,5 @@ id_nomics: VIPS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VIPS2.png
 logoKey: currencies/vips2.png
 name: VIPS Token
+platform: BNB
+platform_contract: '0xeda216d12e45ad0ff34ac9f184ab0c0d277c7f2c'

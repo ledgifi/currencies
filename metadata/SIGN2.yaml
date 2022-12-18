@@ -3,3 +3,5 @@ fiat: false
 id: SIGN2
 id_nomics: SIGN2
 name: Sign
+platform: ETH
+platform_contract: '0xb06b8186cc008a79fd6722b1eefad07c14e97da0'

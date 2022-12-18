@@ -5,3 +5,5 @@ id_nomics: TFC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TFC3.jpg
 logoKey: currencies/tfc3.jpg
 name: Triforce Protocol
+platform: BNB
+platform_contract: '0x339f6e1553e923fd27412dfaf18b5721ea580a15'

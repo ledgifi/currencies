@@ -5,3 +5,5 @@ id_nomics: NICKELBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NICKELBEP20.jpg
 logoKey: currencies/nickelbep20.jpg
 name: Nickel (BEP-20)
+platform: BNB
+platform_contract: '0x8a660e26de13178d7847cf6061a360fdf987e697'

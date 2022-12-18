@@ -5,3 +5,5 @@ id_nomics: TOKO4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOKO4.jpg
 logoKey: currencies/toko4.jpg
 name: TokosanINU
+platform: BNB
+platform_contract: '0x9b0c9b9521fb2e87e346eea767cb118e664342ab'

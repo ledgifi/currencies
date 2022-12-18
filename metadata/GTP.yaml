@@ -3,3 +3,5 @@ fiat: false
 id: GTP
 id_nomics: GTP
 name: Tron Game Global Pay
+platform: TRX
+platform_contract: '1001761'

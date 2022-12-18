@@ -5,3 +5,5 @@ id_nomics: WIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WIT.jpg
 logoKey: currencies/wit.jpg
 name: Wealth in Token
+platform: ETH
+platform_contract: '0x0be4a987fd8dcbd2fff64ba4131d3a208307f667'

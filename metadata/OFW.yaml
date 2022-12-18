@@ -5,3 +5,5 @@ id_nomics: OFW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OFW.jpg
 logoKey: currencies/ofw.jpg
 name: OFW FINANCE
+platform: BNB
+platform_contract: '0x14e3a4809c8f06627011225d2d45b365eedb7662'

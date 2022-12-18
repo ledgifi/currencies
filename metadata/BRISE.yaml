@@ -5,3 +5,5 @@ id_nomics: BRISE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRISE.jpg
 logoKey: currencies/brise.jpg
 name: BNBRise
+platform: BNB
+platform_contract: '0x801d4ff6ca34ee16c406c88764aa7fb8e8d290e2'

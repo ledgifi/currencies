@@ -5,3 +5,5 @@ id_nomics: CYF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CYF.jpg
 logoKey: currencies/cyf.jpg
 name: CY Finance
+platform: ETH
+platform_contract: '0xdb33d49b5a41a97d296b7242a96ebd8ac77b3bb8'

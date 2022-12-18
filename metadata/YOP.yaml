@@ -5,3 +5,5 @@ id_nomics: YOP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YOP.jpg
 logoKey: currencies/yop.jpg
 name: Yield Optimization Platform (ERC-20)
+platform: ETH
+platform_contract: '0xae1eaae3f627aaca434127644371b67b18444051'

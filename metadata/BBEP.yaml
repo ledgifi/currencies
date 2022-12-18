@@ -3,3 +3,5 @@ fiat: false
 id: BBEP
 id_nomics: BBEP
 name: BBEP
+platform: BNB
+platform_contract: '0x2505b59b0f2eebe74de3fa2edbe8ab53bc9e0cea'

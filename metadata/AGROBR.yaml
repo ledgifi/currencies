@@ -5,3 +5,5 @@ id_nomics: AGROBR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AGROBR.png
 logoKey: currencies/agrobr.png
 name: Agrocoin
+platform: BNB
+platform_contract: '0xeee5b428e8941dc77fa4444772e04a30a892d3af'

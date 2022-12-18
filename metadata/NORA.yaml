@@ -6,3 +6,5 @@ id_nomics: NORA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NORA.png
 logoKey: currencies/nora.png
 name: SnowCrash Token
+platform: BNB
+platform_contract: '0x1f39dd2bf5a27e2d4ed691dcf933077371777cb0'

@@ -5,3 +5,5 @@ id_nomics: WBACX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WBACX.jpg
 logoKey: currencies/wbacx.jpg
 name: Walgreens Boots Alliance, Inc. Token
+platform: ETH
+platform_contract: '0x30ecfa6f6d1cf830a76d8652dda9cc5a4b1a99e2'

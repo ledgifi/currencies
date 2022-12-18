@@ -5,3 +5,5 @@ id_nomics: OBX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OBX.png
 logoKey: currencies/obx.png
 name: OBXcoin
+platform: ETH
+platform_contract: '0xad29d26b081204ba2d1da9e86101dda69ec835d5'

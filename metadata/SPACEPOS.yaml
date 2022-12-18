@@ -5,3 +5,5 @@ id_nomics: SPACEPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPACEPOS.png
 logoKey: currencies/spacepos.png
 name: Space Token (Polygon)
+platform: MATIC
+platform_contract: '0xb53ec4ace420a62cfb75afdeba600d284777cd65'

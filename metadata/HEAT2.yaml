@@ -3,3 +3,5 @@ fiat: false
 id: HEAT2
 id_nomics: HEAT2
 name: HEAT
+platform: BNB
+platform_contract: '0x4c61e37d34c2fb77510da21bba886ba2e2a44de3'

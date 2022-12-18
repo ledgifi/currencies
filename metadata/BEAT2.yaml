@@ -5,3 +5,5 @@ id_nomics: BEAT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEAT2.png
 logoKey: currencies/beat2.png
 name: Beat Token
+platform: BNB
+platform_contract: '0xb73c2317f45ca821b2ea03d86c2b95207743e685'

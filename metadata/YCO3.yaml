@@ -5,3 +5,5 @@ id_nomics: YCO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YCO3.jpg
 logoKey: currencies/yco3.jpg
 name: Yiconomy
+platform: BNB
+platform_contract: '0xc46d24944d80de981fc151a6217a7e647a9976e1'

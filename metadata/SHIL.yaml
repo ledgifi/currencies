@@ -3,3 +3,5 @@ fiat: false
 id: SHIL
 id_nomics: SHIL
 name: SHIL
+platform: HT
+platform_contract: '0x4d88792910c93b799611e21999fa4914b66a710a'

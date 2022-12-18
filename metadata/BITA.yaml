@@ -5,3 +5,5 @@ id_nomics: BITA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITA.jpeg
 logoKey: currencies/bita.jpeg
 name: BitAstir
+platform: ETH
+platform_contract: '0x284b19a5fa65f706422c0c86566e407b0e70e537'

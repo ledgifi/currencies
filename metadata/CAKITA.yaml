@@ -6,3 +6,5 @@ id_nomics: CAKITA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAKITA.jpg
 logoKey: currencies/cakita.jpg
 name: ChubbyAkita
+platform: BNB
+platform_contract: '0xca3c1dc12b0dd0d65964abaa533106cf4f372c78'

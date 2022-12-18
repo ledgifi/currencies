@@ -3,3 +3,5 @@ fiat: false
 id: ACMC
 id_nomics: ACMC
 name: ACMC
+platform: BNB
+platform_contract: '0x57cecf2407b0446f0ec85b0f07cff6c3078a3863'

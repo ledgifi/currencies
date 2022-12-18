@@ -3,3 +3,5 @@ fiat: false
 id: MELP
 id_nomics: MELP
 name: Matic ELP Token
+platform: MATIC
+platform_contract: '0xa9ee51b3ecd466e5c340635216af7298b3533122'

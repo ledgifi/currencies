@@ -5,3 +5,5 @@ id_nomics: MCG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCG.jpeg
 logoKey: currencies/mcg.jpeg
 name: Mafia Culture Game
+platform: BNB
+platform_contract: '0x5a36da10b43d688c54f52449e124f8987789235a'

@@ -3,3 +3,5 @@ fiat: false
 id: ABCOIN
 id_nomics: ABCOIN
 name: AntiBullying
+platform: BNB
+platform_contract: '0x123b7d1f2619e67118c02cc99d35bc6df83b9a35'

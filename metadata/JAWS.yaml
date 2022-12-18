@@ -6,3 +6,5 @@ id_nomics: JAWS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JAWS.jpg
 logoKey: currencies/jaws.jpg
 name: AutoShark
+platform: BNB
+platform_contract: '0xdd97ab35e3c0820215bc85a395e13671d84ccba2'

@@ -5,3 +5,5 @@ id_nomics: PANA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PANA2.png
 logoKey: currencies/pana2.png
 name: Panamera
+platform: BNB
+platform_contract: '0x9644825f3dfcad7dab3a42f08531b42c88c3138a'

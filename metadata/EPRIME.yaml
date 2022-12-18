@@ -3,3 +3,5 @@ fiat: false
 id: EPRIME
 id_nomics: EPRIME
 name: Ethereum Prime
+platform: ETH
+platform_contract: '0x91b14ea0b583fab95006366d5291dc7abb29c645'

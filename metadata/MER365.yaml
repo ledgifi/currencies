@@ -5,3 +5,5 @@ id_nomics: MER365
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MER365.jpg
 logoKey: currencies/mer365.jpg
 name: Mermaid 365
+platform: BNB
+platform_contract: '0x87aa2736d70b457224dd227094e6776c38359b58'

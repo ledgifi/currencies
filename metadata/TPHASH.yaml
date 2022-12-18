@@ -5,3 +5,5 @@ id_nomics: TPHASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TPHASH.jpg
 logoKey: currencies/tphash.jpg
 name: Toupeira Hash Finance
+platform: BNB
+platform_contract: '0x5373fde83045baa55620478048389e504edad339'

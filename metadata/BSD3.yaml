@@ -5,3 +5,5 @@ id_nomics: BSD3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSD3.jpg
 logoKey: currencies/bsd3.jpg
 name: Basis Dollar
+platform: ETH
+platform_contract: '0x003e0af2916e598fa5ea5cb2da4edfda9aed9fde'

@@ -5,3 +5,5 @@ id_nomics: METAS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAS3.jpeg
 logoKey: currencies/metas3.jpeg
 name: MetaSimpsons
+platform: BNB
+platform_contract: '0xbf523988f194b3fbfca69ee1604903cb42c4b580'

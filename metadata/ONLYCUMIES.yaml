@@ -5,3 +5,5 @@ id_nomics: ONLYCUMIES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ONLYCUMIES.jpeg
 logoKey: currencies/onlycumies.jpeg
 name: OnlyCumies
+platform: BNB
+platform_contract: '0x60dAC5FA1570d37287F2e7eb9f7AdD0C268ee81A'

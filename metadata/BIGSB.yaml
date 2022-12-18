@@ -6,3 +6,5 @@ id_nomics: BIGSB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIGSB.jpg
 logoKey: currencies/bigsb.jpg
 name: BigShortBets
+platform: ETH
+platform_contract: '0x131157c6760f78f7ddf877c0019eba175ba4b6f6'

@@ -5,3 +5,5 @@ id_nomics: LPOOL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LPOOL.jpg
 logoKey: currencies/lpool.jpg
 name: Launchpool
+platform: ETH
+platform_contract: '0x6149c26cd2f7b5ccdb32029af817123f6e37df5b'

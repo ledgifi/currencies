@@ -5,3 +5,5 @@ id_nomics: SONIC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SONIC4.png
 logoKey: currencies/sonic4.png
 name: Sonic
+platform: HARMONY
+platform_contract: '0x1e05c8b69e4128949fcef16811a819ef2f55d33e'

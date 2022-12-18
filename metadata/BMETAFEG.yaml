@@ -5,3 +5,5 @@ id_nomics: BMETAFEG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BMETAFEG.png
 logoKey: currencies/bmetafeg.png
 name: BabyMetaFEG
+platform: BNB
+platform_contract: '0x65ee19570e8cff9a81d280524696f4b820968902'

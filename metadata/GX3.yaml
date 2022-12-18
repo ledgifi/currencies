@@ -5,3 +5,5 @@ id_nomics: GX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GX3.jpg
 logoKey: currencies/gx3.jpg
 name: GOX3 Wallet
+platform: BNB
+platform_contract: '0x7591b095390a788fd4b65caa5288e735cecc5257'

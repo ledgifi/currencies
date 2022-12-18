@@ -6,3 +6,5 @@ id_nomics: ILAYER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ILAYER.jpg
 logoKey: currencies/ilayer.jpg
 name: iLayer
+platform: BNB
+platform_contract: '0xe540980f909873370bbe9c19db7c3b5ba4def701'

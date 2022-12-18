@@ -5,3 +5,5 @@ id_nomics: MUSKVISION
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MUSKVISION.jpg
 logoKey: currencies/muskvision.jpg
 name: Musk Vision
+platform: BNB
+platform_contract: '0x3cbbe983b1a434c4b96f50ad22f131bebb02a2ce'

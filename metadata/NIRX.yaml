@@ -5,3 +5,5 @@ id_nomics: NIRX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NIRX.jpg
 logoKey: currencies/nirx.jpg
 name: NairaX
+platform: ETH
+platform_contract: '0xf0ccca32cd300356629216eb301ec6649c7c6adb'

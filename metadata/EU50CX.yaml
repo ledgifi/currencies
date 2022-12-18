@@ -5,3 +5,5 @@ id_nomics: EU50CX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EU50CX.jpg
 logoKey: currencies/eu50cx.jpg
 name: Europe 50 Token
+platform: ETH
+platform_contract: '0x2098253aa66ec0510816ca5e5de9e2657bf01224'

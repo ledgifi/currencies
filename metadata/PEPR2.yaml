@@ -5,3 +5,5 @@ id_nomics: PEPR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEPR2.jpg
 logoKey: currencies/pepr2.jpg
 name: Pepper Token
+platform: BNB
+platform_contract: '0x67ed0a0b32f239a3fcd1b8c21bef7d86578f106b'

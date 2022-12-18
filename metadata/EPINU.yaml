@@ -3,3 +3,5 @@ fiat: false
 id: EPINU
 id_nomics: EPINU
 name: ExponentialInu
+platform: ETH
+platform_contract: '0x679264b2c32a80e77d6f343a3f7bfa8fe358ff5e'

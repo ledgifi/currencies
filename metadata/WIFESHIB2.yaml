@@ -5,3 +5,5 @@ id_nomics: WIFESHIB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WIFESHIB2.jpeg
 logoKey: currencies/wifeshib2.jpeg
 name: WifeShibInu
+platform: BNB
+platform_contract: '0xf03bf06c8b3606cd3c0fe168a791002ebc727e7a'

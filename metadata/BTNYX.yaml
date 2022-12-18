@@ -6,3 +6,5 @@ id_nomics: BTNYX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTNYX.jpg
 logoKey: currencies/btnyx.jpg
 name: BitOnyx Token
+platform: ETH
+platform_contract: '0x8fb6c8a44a4e23fd1f5a936818b39083b4cdc865'

@@ -6,3 +6,5 @@ id_nomics: SHIBU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBU.jpg
 logoKey: currencies/shibu.jpg
 name: Shibu Life
+platform: BNB
+platform_contract: '0x2690a474c68f4313603816e3cc6576a74b56944f'

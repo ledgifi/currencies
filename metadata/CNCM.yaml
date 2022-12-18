@@ -3,3 +3,5 @@ fiat: false
 id: CNCM
 id_nomics: CNCM
 name: Circulation Matic
+platform: MATIC
+platform_contract: '0x9ea9a6115f1e3c3769ebf0567b106631fd4f656b'

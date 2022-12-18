@@ -5,3 +5,5 @@ id_nomics: PDRY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PDRY.png
 logoKey: currencies/pdry.png
 name: Pandroyty Token
+platform: ETH
+platform_contract: '0x4e8e8eb5a4ed17170b646d33b8ef3e7352585607'

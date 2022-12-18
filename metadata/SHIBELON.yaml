@@ -5,3 +5,5 @@ id_nomics: SHIBELON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBELON.jpg
 logoKey: currencies/shibelon.jpg
 name: Shibelon Mars
+platform: ETH
+platform_contract: '0xef66f8c4224b423888a64f0157e56756459c2cf8'

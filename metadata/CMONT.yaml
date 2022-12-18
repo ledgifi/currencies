@@ -3,3 +3,5 @@ fiat: false
 id: CMONT
 id_nomics: CMONT
 name: Coin Monkey Test
+platform: BNB
+platform_contract: '0x2207654f341275e375fb4e391050016176649dbb'

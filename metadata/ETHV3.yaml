@@ -5,3 +5,5 @@ id_nomics: ETHV3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHV3.jpg
 logoKey: currencies/ethv3.jpg
 name: Ethereum Volatility Index Token
+platform: ETH
+platform_contract: '0xc53342fd7575f572b0ff4569e31941a5b821ac76'

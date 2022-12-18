@@ -6,3 +6,5 @@ id_nomics: SHIBLI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBLI.jpg
 logoKey: currencies/shibli.jpg
 name: Studio Shibli
+platform: ETH
+platform_contract: '0xb1a88c33091490218965787919fcc9862c1798ee'

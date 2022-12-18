@@ -3,3 +3,5 @@ fiat: false
 id: ETHREFLECT
 id_nomics: ETHREFLECT
 name: ETHReflect
+platform: ARBETH
+platform_contract: '0x951e6d5c50dc14097f179af71c8a6fa96ba1a97f'

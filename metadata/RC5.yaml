@@ -5,3 +5,5 @@ id_nomics: RC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RC5.jpg
 logoKey: currencies/rc5.jpg
 name: RetroCade
+platform: BNB
+platform_contract: '0xbef5b3a4db9447e8fd1fe6e16d87b591ed220c67'

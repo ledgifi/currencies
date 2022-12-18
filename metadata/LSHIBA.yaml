@@ -5,3 +5,5 @@ id_nomics: LSHIBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LSHIBA.jpeg
 logoKey: currencies/lshiba.jpeg
 name: Lady Shiba Inu
+platform: BNB
+platform_contract: '0x4b49f6a098334c969e1adb25c068bac476797a4a'

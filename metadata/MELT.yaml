@@ -6,3 +6,5 @@ id_nomics: MELT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MELT.png
 logoKey: currencies/melt.png
 name: Melt
+platform: ETH
+platform_contract: '0x6f72b14383f5ecdacdd2f761a5c4b070f91c2806'

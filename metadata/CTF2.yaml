@@ -5,3 +5,5 @@ id_nomics: CTF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTF2.jpg
 logoKey: currencies/ctf2.jpg
 name: CyberTime Finance
+platform: BNB
+platform_contract: '0x410319197d3394652b7dddc669e58fbe30b56090'

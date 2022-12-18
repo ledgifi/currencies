@@ -5,3 +5,5 @@ id_nomics: NFS4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFS4.jpeg
 logoKey: currencies/nfs4.jpeg
 name: NFT Gems
+platform: BNB
+platform_contract: '0xbb98437af8a2f37cbcc325252d44bf7cdd444062'

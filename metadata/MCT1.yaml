@@ -5,3 +5,5 @@ id_nomics: MCT1
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCT1.png
 logoKey: currencies/mct1.png
 name: Metaverse Crypto Token One
+platform: BNB
+platform_contract: '0xdf547934c8cc2e992e4f0d927296841acdcf74a8'

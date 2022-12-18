@@ -5,3 +5,5 @@ id_nomics: YFDAIPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFDAIPOS.png
 logoKey: currencies/yfdaipos.png
 name: YfDAI.finance (Polygon)
+platform: MATIC
+platform_contract: '0x7e7ff932fab08a0af569f93ce65e7b8b23698ad8'

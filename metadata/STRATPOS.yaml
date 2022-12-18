@@ -4,3 +4,5 @@ id: STRATPOS
 id_nomics: STRATPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STRATPOS.jpg
 name: Stratosphere (Polygon)
+platform: MATIC
+platform_contract: '0x23fc254cd060be3c9ac5b9364b67b5f64fb3ab66'

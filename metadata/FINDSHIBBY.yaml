@@ -5,3 +5,5 @@ id_nomics: FINDSHIBBY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FINDSHIBBY.jpg
 logoKey: currencies/findshibby.jpg
 name: FindShibby
+platform: BNB
+platform_contract: '0x9a5bf65d7ef1a0b48f7ff4174cfe10fc0deaa849'

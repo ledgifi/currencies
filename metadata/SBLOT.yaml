@@ -3,3 +3,5 @@ fiat: false
 id: SBLOT
 id_nomics: SBLOT
 name: SblotCoin
+platform: BNB
+platform_contract: '0x9802afc439b51f70f2acefb925346adf9aa7ec32'

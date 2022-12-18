@@ -6,3 +6,5 @@ id_nomics: GOBLIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOBLIN.jpg
 logoKey: currencies/goblin.jpg
 name: Goblin
+platform: BNB
+platform_contract: '0xde2a66c92583332e8e1f0aeeb03deb749a3fd33a'

@@ -5,3 +5,5 @@ id_nomics: CHEESE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHEESE3.jpg
 logoKey: currencies/cheese3.jpg
 name: CheeseSwap
+platform: BNB
+platform_contract: '0xb4bf64b17e270b50d00658e3c0e2fbdefabdd87b'

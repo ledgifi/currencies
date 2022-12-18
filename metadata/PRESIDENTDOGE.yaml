@@ -5,3 +5,5 @@ id_nomics: PRESIDENTDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRESIDENTDOGE.jpg
 logoKey: currencies/presidentdoge.jpg
 name: President Doge
+platform: BNB
+platform_contract: '0x4ae80e0414a188f91debfb9e71c67153bfbe5f9e'

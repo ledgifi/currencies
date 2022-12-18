@@ -5,3 +5,5 @@ id_nomics: BDT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BDT4.jpg
 logoKey: currencies/bdt4.jpg
 name: Block Duelers
+platform: ETH
+platform_contract: '0x7bce667ef12023dc5f8577d015a2f09d99a5ef58'

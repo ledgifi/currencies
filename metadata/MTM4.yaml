@@ -5,3 +5,5 @@ id_nomics: MTM4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MTM4.jpg
 logoKey: currencies/mtm4.jpg
 name: MetaMelio
+platform: BNB
+platform_contract: '0x9F4607223E13EFB9F9C4bED2B04818de05db5377'

@@ -5,3 +5,5 @@ id_nomics: KELON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KELON.jpg
 logoKey: currencies/kelon.jpg
 name: Kishuelon
+platform: ETH
+platform_contract: '0x372a912b1bdf243aa4eb8a5697c7e97036f422be'

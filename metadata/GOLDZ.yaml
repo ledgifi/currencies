@@ -5,3 +5,5 @@ id_nomics: GOLDZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOLDZ.png
 logoKey: currencies/goldz.png
 name: Feudalz Goldz
+platform: ETH
+platform_contract: '0x7be647634a942e73f8492d15ae492d867ce5245c'

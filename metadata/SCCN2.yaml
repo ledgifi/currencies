@@ -5,3 +5,5 @@ id_nomics: SCCN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCCN2.jpg
 logoKey: currencies/sccn2.jpg
 name: 'Succession '
+platform: ETH
+platform_contract: '0xdfddf7a69716124bc346ba556d4b9f9e74c4a8bc'

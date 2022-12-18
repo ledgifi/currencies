@@ -3,3 +3,5 @@ fiat: false
 id: TESTCGS
 id_nomics: TESTCGS
 name: Test Cougar Token
+platform: CRO
+platform_contract: '0x51f023f6b847d8a4a2c0ea2d677e91f204d44641'

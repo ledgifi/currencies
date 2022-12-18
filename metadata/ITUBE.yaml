@@ -5,3 +5,5 @@ id_nomics: ITUBE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ITUBE.png
 logoKey: currencies/itube.png
 name: Itube Online Token
+platform: ETH
+platform_contract: '0x6cb262679c522c4f0834041a6248e8feb35f0337'

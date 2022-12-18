@@ -6,3 +6,5 @@ id_nomics: OLT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/olt.jpg
 logoKey: currencies/olt.jpg
 name: OneLedger
+platform: ETH
+platform_contract: '0x64a60493d888728cf42616e034a0dfeae38efcf0'

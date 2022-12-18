@@ -5,3 +5,5 @@ id_nomics: EVAPEBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVAPEBEP20.jpg
 logoKey: currencies/evapebep20.jpg
 name: EveryApe (BEP-20)
+platform: BNB
+platform_contract: '0x69d1ff85004a445a892dfbd88df00d48fb0af638'

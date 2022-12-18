@@ -6,3 +6,5 @@ id_nomics: ECCHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECCHI.jpg
 logoKey: currencies/ecchi.jpg
 name: Ecchi Coin
+platform: BNB
+platform_contract: '0x5609366c91d87e6aad1f880999825da4875c2054'

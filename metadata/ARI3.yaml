@@ -5,3 +5,5 @@ id_nomics: ARI3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARI3.jpg
 logoKey: currencies/ari3.jpg
 name: Arise Finance
+platform: BNB
+platform_contract: '0xbe9605a0bf1ef8a4235e2c1da83dd3aa7702c7ce'

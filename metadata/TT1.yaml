@@ -3,3 +3,5 @@ fiat: false
 id: TT1
 id_nomics: TT1
 name: TestToken1
+platform: HT
+platform_contract: '0x3b6460311b2057d0a34afabbf716f0b49fd0e281'

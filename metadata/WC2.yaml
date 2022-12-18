@@ -5,3 +5,5 @@ id_nomics: WC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WC2.png
 logoKey: currencies/wc2.png
 name: Wappie-Coin
+platform: BNB
+platform_contract: '0x7016f27aaff7635c9f55eeb4a010225a08b5ea53'

@@ -3,3 +3,5 @@ fiat: false
 id: BYTE5
 id_nomics: BYTE5
 name: BinaryDAO
+platform: METIS
+platform_contract: '0x721532bc0da5ffaeb0a6a45fb24271e8098629a7'

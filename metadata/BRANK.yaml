@@ -5,3 +5,5 @@ id_nomics: BRANK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRANK.png
 logoKey: currencies/brank.png
 name: Brank
+platform: BNB
+platform_contract: '0x39ae9a782b1f9c60d0f1839ef4c2d0174c5edae4'

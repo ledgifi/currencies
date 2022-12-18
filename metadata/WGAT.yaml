@@ -3,3 +3,5 @@ fiat: false
 id: WGAT
 id_nomics: WGAT
 name: Wrapped GAT
+platform: BNB
+platform_contract: '0x41d5c3ed01b72ecb5c99d3b838553098ecda9ef9'

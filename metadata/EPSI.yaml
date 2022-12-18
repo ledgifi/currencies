@@ -6,3 +6,5 @@ id_nomics: EPSI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EPSI.jpg
 logoKey: currencies/epsi.jpg
 name: Epsilon
+platform: BNB
+platform_contract: '0x613a31cf1421a656a73db074ea3f7b2bee2b9744'

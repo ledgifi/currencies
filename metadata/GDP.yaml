@@ -3,3 +3,5 @@ fiat: false
 id: GDP
 id_nomics: GDP
 name: Asset GDP Token
+platform: ETH
+platform_contract: '0xca224dfa3c3b2e44f31b5f4bb2b69be70a0e474e'

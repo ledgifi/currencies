@@ -5,3 +5,5 @@ id_nomics: ECOIN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECOIN3.png
 logoKey: currencies/ecoin3.png
 name: E-coin Finance
+platform: BNB
+platform_contract: '0x4cbdfad03b968bf43449d0908f319ae4a5a33371'

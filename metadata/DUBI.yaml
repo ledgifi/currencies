@@ -6,3 +6,5 @@ id_nomics: DUBI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUBI.jpg
 logoKey: currencies/dubi.jpg
 name: Decentralized Universal Basic Income
+platform: ETH
+platform_contract: '0xf3d6af45c6dfec43216cc3347ea91fefba0849d1'

@@ -6,3 +6,5 @@ id_nomics: SPRTZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPRTZ.png
 logoKey: currencies/sprtz.png
 name: SpritzCoin
+platform: ETH
+platform_contract: '0xc560984d8c4ced2a0eba5790b33b6f43afeef759'

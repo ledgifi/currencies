@@ -6,3 +6,5 @@ id_nomics: EARTH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/earth.jpg
 logoKey: currencies/earth.jpg
 name: EARTH Token
+platform: ETH
+platform_contract: '0x900b4449236a7bb26b286601dd14d2bde7a6ac6c'

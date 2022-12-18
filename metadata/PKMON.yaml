@@ -6,3 +6,5 @@ id_nomics: PKMON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PKMON.png
 logoKey: currencies/pkmon.png
 name: PolkaMonster
+platform: BNB
+platform_contract: '0x609d183fb91a0fce59550b62ab7d2c931b0bb1be'

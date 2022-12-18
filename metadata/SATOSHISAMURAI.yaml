@@ -3,3 +3,5 @@ fiat: false
 id: SATOSHISAMURAI
 id_nomics: SATOSHISAMURAI
 name: Satoshi Samurai
+platform: ETH
+platform_contract: '0x7a200ea10ba78b7e1422bcbbbe23b78f5627edf0'

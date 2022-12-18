@@ -5,3 +5,5 @@ id_nomics: DIASP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DIASP.jpg
 logoKey: currencies/diasp.jpg
 name: DIASPORA TOKEN
+platform: BNB
+platform_contract: '0xbfc50cff3b46b5cf9fabd70e4b5d1ae6b64ab680'

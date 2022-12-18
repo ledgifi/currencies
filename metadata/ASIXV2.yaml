@@ -5,3 +5,5 @@ id_nomics: ASIXV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASIXV2.jpeg
 logoKey: currencies/asixv2.jpeg
 name: ASIX V2
+platform: BNB
+platform_contract: '0x34bca9c45a41280174024799f477a3062fe279b9'

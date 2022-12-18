@@ -5,3 +5,5 @@ id_nomics: ZOO9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZOO9.jpg
 logoKey: currencies/zoo9.jpg
 name: ZOO
+platform: BNB
+platform_contract: '0x19263f2b4693da0991c4df046e4baa5386f5735e'

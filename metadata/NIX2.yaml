@@ -5,3 +5,5 @@ id_nomics: NIX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NIX2.jpg
 logoKey: currencies/nix2.jpg
 name: Nifexcoin
+platform: ETH
+platform_contract: '0xccf4fe6ac4b53193457e6ead1a2b92e78f4dd8a0'

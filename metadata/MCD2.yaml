@@ -5,3 +5,5 @@ id_nomics: MCD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCD2.jpeg
 logoKey: currencies/mcd2.jpeg
 name: McDoge
+platform: MATIC
+platform_contract: '0x697b80a4f0E3F60d3C04833ff4Fd0D8B37275E53'

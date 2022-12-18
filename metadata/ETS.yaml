@@ -3,3 +3,5 @@ fiat: false
 id: ETS
 id_nomics: ETS
 name: ETHEREUM SMALL
+platform: ETH
+platform_contract: '0x3ed0e801a283067175b35d9d51a6fa1fcbb91205'

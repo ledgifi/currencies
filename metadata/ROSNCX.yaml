@@ -5,3 +5,5 @@ id_nomics: ROSNCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROSNCX.jpg
 logoKey: currencies/rosncx.jpg
 name: Rosneft PJSC
+platform: ETH
+platform_contract: '0xac5955f0bef1434b3be88042224645cfb628ed65'

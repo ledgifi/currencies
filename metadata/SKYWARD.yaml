@@ -5,3 +5,5 @@ id_nomics: SKYWARD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SKYWARD.jpg
 logoKey: currencies/skyward.jpg
 name: Skyward Finance Token
+platform: NEAR
+platform_contract: token.skyward.near

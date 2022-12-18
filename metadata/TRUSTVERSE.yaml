@@ -5,3 +5,5 @@ id_nomics: TRUSTVERSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRUSTVERSE.jpg
 logoKey: currencies/trustverse.jpg
 name: TrustVerse
+platform: ETH
+platform_contract: '0x72955ecff76e48f2c8abcce11d54e5734d6f3657'

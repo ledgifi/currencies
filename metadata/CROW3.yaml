@@ -5,3 +5,5 @@ id_nomics: CROW3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CROW3.jpeg
 logoKey: currencies/crow3.jpeg
 name: CrowFi
+platform: CRO
+platform_contract: '0x285c3329930a3fd3C7c14bC041d3E50e165b1517'

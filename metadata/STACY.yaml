@@ -6,3 +6,5 @@ id_nomics: STACY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STACY.jpg
 logoKey: currencies/stacy.jpg
 name: Stacy
+platform: ETH
+platform_contract: '0xf12ec0d3dab64ddefbdc96474bde25af3fe1b327'

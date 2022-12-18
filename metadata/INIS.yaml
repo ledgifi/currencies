@@ -5,3 +5,5 @@ id_nomics: INIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INIS.png
 logoKey: currencies/inis.png
 name: Inddais
+platform: BNB
+platform_contract: '0x8a36f19cfb1b9b963a9bf664dd786cc740edc5d2'

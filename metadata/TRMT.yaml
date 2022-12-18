@@ -3,3 +3,5 @@ fiat: false
 id: TRMT
 id_nomics: TRMT
 name: Tierra Meta
+platform: ETH
+platform_contract: '0x5215fba5b630ced9d7a587205ddc8ef9a52aa8b2'

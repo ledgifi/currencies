@@ -5,3 +5,5 @@ id_nomics: HKG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HKG.png
 logoKey: currencies/hkg.png
 name: Hacker Gold
+platform: ETH
+platform_contract: '0x14f37b574242d366558db61f3335289a5035c506'

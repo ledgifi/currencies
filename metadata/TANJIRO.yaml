@@ -5,3 +5,5 @@ id_nomics: TANJIRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TANJIRO.jpg
 logoKey: currencies/tanjiro.jpg
 name: Tanjiro Inu
+platform: BNB
+platform_contract: '0x6af89cf3813b5d9ca356ee448a30f3f1d9789718'

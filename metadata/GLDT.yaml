@@ -3,3 +3,5 @@ fiat: false
 id: GLDT
 id_nomics: GLDT
 name: GoldTolik
+platform: BNB
+platform_contract: '0x00c0e4f93dad87a5966e86a94fab4624ad78feae'

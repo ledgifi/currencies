@@ -5,3 +5,5 @@ id_nomics: KRP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KRP3.png
 logoKey: currencies/krp3.png
 name: KRAKENPAD
+platform: BNB
+platform_contract: '0x65291ba9ea608f87edfa0adf83d7bc4a2364706c'

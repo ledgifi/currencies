@@ -6,3 +6,5 @@ id_nomics: TEP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TEP.jpg
 logoKey: currencies/tep.jpg
 name: Tepleton
+platform: ETH
+platform_contract: '0x2e65e12b5f0fd1d58738c6f38da7d57f5f183d1c'

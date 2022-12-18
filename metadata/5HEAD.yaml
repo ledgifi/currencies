@@ -5,3 +5,5 @@ id_nomics: 5HEAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/5HEAD.jpeg
 logoKey: currencies/5head.jpeg
 name: actual5Head
+platform: BNB
+platform_contract: '0xf49fa06007d30b233b829bc000bba99b687d594f'

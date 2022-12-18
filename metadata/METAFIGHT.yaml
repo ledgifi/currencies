@@ -5,3 +5,5 @@ id_nomics: METAFIGHT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAFIGHT.jpg
 logoKey: currencies/metafight.jpg
 name: MetaFight
+platform: BNB
+platform_contract: '0xfd363d062f7b8d5bb7e7df0e0554431a352ac939'

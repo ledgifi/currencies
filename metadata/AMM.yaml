@@ -6,3 +6,5 @@ id_nomics: AMM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/amm.svg
 logoKey: currencies/amm.svg
 name: MicroMoney
+platform: ETH
+platform_contract: '0x8b1f49491477e0fb46a29fef53f1ea320d13c349'

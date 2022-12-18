@@ -5,3 +5,5 @@ id_nomics: B95
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/B95.jpg
 logoKey: currencies/b95.jpg
 name: B95
+platform: ETH
+platform_contract: '0x5362c0d267d2d5946a9291d4739c05faec636c2c'

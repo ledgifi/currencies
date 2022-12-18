@@ -5,3 +5,5 @@ id_nomics: PAPADOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAPADOGE.jpg
 logoKey: currencies/papadoge.jpg
 name: Papa Doge
+platform: BNB
+platform_contract: '0xbceee918077f63fb1b9e10403f59ca40c7061341'

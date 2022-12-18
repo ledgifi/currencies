@@ -3,3 +3,5 @@ fiat: false
 id: VBSWAPWBNB
 id_nomics: VBSWAPWBNB
 name: vBSWAP/WBNB Value LP
+platform: BNB
+platform_contract: '0x8dd39f0a49160cda5ef1e2a2fa7396eec7da8267'

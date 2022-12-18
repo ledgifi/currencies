@@ -5,3 +5,5 @@ id_nomics: HELIX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HELIX.png
 logoKey: currencies/helix.png
 name: Helix
+platform: ETH
+platform_contract: '0x231CC03E6d8b7368eC2aBfAfb5f73D216c8af980'

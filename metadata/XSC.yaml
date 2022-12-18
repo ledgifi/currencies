@@ -5,3 +5,5 @@ id_nomics: XSC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XSC.png
 logoKey: currencies/xsc.png
 name: CrowdstartCoin
+platform: ETH
+platform_contract: '0x0f513ffb4926ff82d7f60a05069047aca295c413'

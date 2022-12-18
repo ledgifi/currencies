@@ -5,3 +5,5 @@ id_nomics: EDC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EDC4.jpg
 logoKey: currencies/edc4.jpg
 name: Edcoin
+platform: ETH
+platform_contract: '0x9d5963ba32e877871dff3e2e697283dc64066271'

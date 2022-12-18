@@ -5,3 +5,5 @@ id_nomics: BSHIBA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSHIBA2.jpg
 logoKey: currencies/bshiba2.jpg
 name: BankerShiba
+platform: BNB
+platform_contract: '0xac02762acd1e282e39c0e00236c78d834a216f56'

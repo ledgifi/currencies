@@ -5,3 +5,5 @@ id_nomics: DEATH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEATH.jpg
 logoKey: currencies/death.jpg
 name: Death Token
+platform: FTM
+platform_contract: '0xeaf45b62d9d0bdc1d763baf306af5edd7c0d7e55'

@@ -5,3 +5,5 @@ id_nomics: STAFFY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STAFFY.jpg
 logoKey: currencies/staffy.jpg
 name: Staffy Inu
+platform: ETH
+platform_contract: '0x54025988881a697a12da1499423c92b7b841d852'

@@ -5,3 +5,5 @@ id_nomics: CLOUT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLOUT3.jpg
 logoKey: currencies/clout3.jpg
 name: Clout
+platform: BNB
+platform_contract: '0x0ffb09e25d2cb7d56ef3ea7fac08756dfb579208'

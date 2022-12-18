@@ -4,3 +4,5 @@ id: ETHGON
 id_nomics: ETHGON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHGON.jpg
 name: ETHERAGON
+platform: ETH
+platform_contract: '0x8af681d69364499f1a226394d2aa4e59ace5c58e'

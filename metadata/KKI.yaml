@@ -5,3 +5,5 @@ id_nomics: KKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KKI.jpg
 logoKey: currencies/kki.jpg
 name: Kawakami Inu Token
+platform: BNB
+platform_contract: '0x270522add6b1db29e3d764f3adf9c07f56e46f8e'

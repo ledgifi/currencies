@@ -3,3 +3,5 @@ fiat: false
 id: BURNED
 id_nomics: BURNED
 name: BurnedToken
+platform: BNB
+platform_contract: '0x5bc9d161b6679690e03c54d59fcb152ec1711901'

@@ -3,3 +3,5 @@ fiat: false
 id: WIBBTC
 id_nomics: WIBBTC
 name: Wrapped Interest-Bearing Bitcoin
+platform: ETH
+platform_contract: '0x8751d4196027d4e6da63716fa7786b5174f04c15'

@@ -5,3 +5,5 @@ id_nomics: EFAME
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EFAME.png
 logoKey: currencies/efame.png
 name: NFTeGG Fame Token
+platform: ETH
+platform_contract: '0xd821e91db8aed33641ac5d122553cf10de49c8ef'

@@ -5,3 +5,5 @@ id_nomics: EDUC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EDUC.png
 logoKey: currencies/educ.png
 name: EDUC
+platform: ETH
+platform_contract: '0xa5b0f0d4d586f20f7d49005b5e9b856358332a2a'

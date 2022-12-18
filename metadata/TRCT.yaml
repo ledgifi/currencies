@@ -6,3 +6,5 @@ id_nomics: TRCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRCT.png
 logoKey: currencies/trct.png
 name: Tracto
+platform: ETH
+platform_contract: '0x30cecb5461a449a90081f5a5f55db4e048397bab'

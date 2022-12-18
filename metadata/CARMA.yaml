@@ -6,3 +6,5 @@ id_nomics: CARMA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CARMA.jpg
 logoKey: currencies/carma.jpg
 name: Carma Coin
+platform: BNB
+platform_contract: '0x27e89d357957ce332ff442db69f4b476401bbbc5'

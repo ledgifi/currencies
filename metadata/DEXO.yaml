@@ -3,3 +3,5 @@ fiat: false
 id: DEXO
 id_nomics: DEXO
 name: DexFee Platfom Optimization
+platform: BNB
+platform_contract: '0xff48e9423a2ee28991bae417f6591159d46267d8'

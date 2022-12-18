@@ -5,3 +5,5 @@ id_nomics: CCBCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CCBCH.jpg
 logoKey: currencies/ccbch.jpg
 name: Cross-Chain BCH
+platform: ETH
+platform_contract: '0xdb792b1d8869a7cfc34916d6c845ff05a7c9b789'

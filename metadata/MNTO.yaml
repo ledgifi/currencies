@@ -3,3 +3,5 @@ fiat: false
 id: MNTO
 id_nomics: MNTO
 name: Minato
+platform: ETH
+platform_contract: '0x97a9bac06f90940bce9caec2b880ff17707519e4'

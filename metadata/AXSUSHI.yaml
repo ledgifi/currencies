@@ -5,3 +5,5 @@ id_nomics: AXSUSHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AXSUSHI.jpg
 logoKey: currencies/axsushi.jpg
 name: Aave XSUSHI
+platform: ETH
+platform_contract: '0xf256cc7847e919fac9b808cc216cac87ccf2f47a'

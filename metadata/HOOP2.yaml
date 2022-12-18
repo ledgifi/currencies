@@ -5,3 +5,5 @@ id_nomics: HOOP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOOP2.png
 logoKey: currencies/hoop2.png
 name: Hoopoe
+platform: AVAX
+platform_contract: '0x0592af5414f2f8d90a5ae3c25e937804d3965c87'

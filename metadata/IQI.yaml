@@ -5,3 +5,5 @@ id_nomics: IQI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IQI.jpg
 logoKey: currencies/iqi.jpg
 name: Iq invest token
+platform: ETH
+platform_contract: '0xb9076bb251285aa70e05d38fb1c061474aefdb7a'

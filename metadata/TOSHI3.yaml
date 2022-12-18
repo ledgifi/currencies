@@ -5,3 +5,5 @@ id_nomics: TOSHI3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOSHI3.png
 logoKey: currencies/toshi3.png
 name: Tosa Inu
+platform: BNB
+platform_contract: '0x9b346b773739043a175e6e721281086a0787dc3d'

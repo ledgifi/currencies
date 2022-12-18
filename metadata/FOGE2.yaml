@@ -5,3 +5,5 @@ id_nomics: FOGE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOGE2.jpg
 logoKey: currencies/foge2.jpg
 name: FogeCoin
+platform: BNB
+platform_contract: '0x37f3e4c6f2da12d0a75a4f1c07203b4b0b8bc6d3'

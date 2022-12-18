@@ -3,3 +3,5 @@ fiat: false
 id: BNBYTES
 id_nomics: BNBYTES
 name: BitsNBytes
+platform: BNB
+platform_contract: '0xc446bbd9322e579dd496a8c0034ce7e000e8135e'

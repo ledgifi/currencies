@@ -5,3 +5,5 @@ id_nomics: LYS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LYS3.jpeg
 logoKey: currencies/lys3.jpeg
 name: LYS Capital
+platform: ARBETH
+platform_contract: '0xa4f595ba35161c9ffe3db8c03991b9c2cbb26c6b'

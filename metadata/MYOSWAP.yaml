@@ -3,3 +3,5 @@ fiat: false
 id: MYOSWAP
 id_nomics: MYOSWAP
 name: Myōbu Swap
+platform: ETH
+platform_contract: '0xa2e507f43ae5299a608a561664f307beef7bd5b8'

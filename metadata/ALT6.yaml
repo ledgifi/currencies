@@ -5,3 +5,5 @@ id_nomics: ALT6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALT6.png
 logoKey: currencies/alt6.png
 name: Alt Coin
+platform: BNB
+platform_contract: '0x7120f43220d1c77cb821dde0420293491d03f854'

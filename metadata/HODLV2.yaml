@@ -3,3 +3,5 @@ fiat: false
 id: HODLV2
 id_nomics: HODLV2
 name: HODL 2.0
+platform: BNB
+platform_contract: '0x5788105375ecf7f675c29e822fd85fcd84d4cd86'

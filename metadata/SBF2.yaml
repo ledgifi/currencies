@@ -5,3 +5,5 @@ id_nomics: SBF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBF2.jpg
 logoKey: currencies/sbf2.jpg
 name: SBF Tweets, Many Rebase
+platform: ETH
+platform_contract: '0x2c9d7512dd4d68578b7728777b95478a288e0d93'

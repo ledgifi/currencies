@@ -5,3 +5,5 @@ id_nomics: RCW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RCW.jpeg
 logoKey: currencies/rcw.jpeg
 name: Ran Online Crypto World
+platform: BNB
+platform_contract: '0xce07be1092974fd648687ce46afc6d977c621649'

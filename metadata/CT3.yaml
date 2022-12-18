@@ -5,3 +5,5 @@ id_nomics: CT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CT3.jpg
 logoKey: currencies/ct3.jpg
 name: CommunityToken
+platform: BNB
+platform_contract: '0x9130ae8e2826947cf8b6a06333890b4e8a1667c7'

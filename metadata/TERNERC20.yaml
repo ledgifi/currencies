@@ -5,3 +5,5 @@ id_nomics: TERNERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TERNERC20.jpg
 logoKey: currencies/ternerc20.jpg
 name: Ternio (ERC-20)
+platform: ETH
+platform_contract: '0x24283732c3df91ee1e4354a3934c14b88b2d9a51'

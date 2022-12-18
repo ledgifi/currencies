@@ -5,3 +5,5 @@ id_nomics: CHDFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHDFI.png
 logoKey: currencies/chdfi.png
 name: Chedda Finance
+platform: FTM
+platform_contract: '0x23496d011eeb1e054b596176adb2b69a1430bb6f'

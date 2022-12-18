@@ -6,3 +6,5 @@ id_nomics: DEPAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEPAY.jpg
 logoKey: currencies/depay.jpg
 name: DePay
+platform: ETH
+platform_contract: '0xa0bed124a09ac2bd941b10349d8d224fe3c955eb'

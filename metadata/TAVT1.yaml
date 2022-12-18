@@ -3,3 +3,5 @@ fiat: false
 id: TAVT1
 id_nomics: TAVT1
 name: Test AVAX Token
+platform: AVAX
+platform_contract: '0xc9ac17de0c47129efb09224af75fcaff07608b7a'

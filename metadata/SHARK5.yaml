@@ -5,3 +5,5 @@ id_nomics: SHARK5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHARK5.jpg
 logoKey: currencies/shark5.jpg
 name: Shark DAO
+platform: ETH
+platform_contract: '0x232afce9f1b3aae7cb408e482e847250843db931'

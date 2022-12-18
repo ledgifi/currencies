@@ -8,3 +8,5 @@ id_nomics: ANT
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/ant.svg
 logoKey: currencies/ant.svg
 name: Aragon
+platform: ETH
+platform_contract: '0xa117000000f279d81a1d3cc75430faa017fa5a2e'

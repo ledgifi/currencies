@@ -5,3 +5,5 @@ id_nomics: WCMHRC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WCMHRC20.jpeg
 logoKey: currencies/wcmhrc20.jpeg
 name: Weedcommerce (Harmony)
+platform: HARMONY
+platform_contract: '0xa4fe0e18506b3d171c7674698991dfaf238621a6'

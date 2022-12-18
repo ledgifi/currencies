@@ -3,3 +3,5 @@ fiat: false
 id: IMARS
 id_nomics: IMARS
 name: ImperatorOfMars
+platform: BNB
+platform_contract: '0x30687e411dd754565eefe496dde45b3dd6ec6c6b'

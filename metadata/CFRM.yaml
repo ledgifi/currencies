@@ -3,3 +3,5 @@ fiat: false
 id: CFRM
 id_nomics: CFRM
 name: CapitalFarm
+platform: ETH
+platform_contract: '0x734d1a0343ef076e643edbf89fe1583a37d981d4'

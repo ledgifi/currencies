@@ -6,3 +6,5 @@ id_nomics: DCTD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DCTD.jpg
 logoKey: currencies/dctd.jpg
 name: DCTDAO
+platform: ETH
+platform_contract: '0xb566e883555aebf5b1db211070b530ab00a4b18a'

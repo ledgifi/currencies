@@ -6,3 +6,5 @@ id_nomics: BSCAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSCAKE.jpg
 logoKey: currencies/bscake.jpg
 name: BunsCake
+platform: BNB
+platform_contract: '0x45d0f429790bec7ad4b68330b1051c7b8fe9d8af'

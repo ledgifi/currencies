@@ -3,3 +3,5 @@ fiat: false
 id: YORKIE
 id_nomics: YORKIE
 name: Yorkiecoin
+platform: BNB
+platform_contract: '0x18e4afc9c0ca0312dd3a931f29ca6b230ff13217'

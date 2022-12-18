@@ -6,3 +6,5 @@ id_nomics: ID
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ID.png
 logoKey: currencies/id.png
 name: Everest
+platform: ETH
+platform_contract: '0xebd9d99a3982d547c5bb4db7e3b1f9f14b67eb83'

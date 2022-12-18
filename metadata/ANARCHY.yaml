@@ -3,3 +3,5 @@ fiat: false
 id: ANARCHY
 id_nomics: ANARCHY
 name: Anarchy
+platform: ETH
+platform_contract: '0x53fd2342b43ecd24aef1535bc3797f509616ce8c'

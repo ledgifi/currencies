@@ -5,3 +5,5 @@ id_nomics: PMS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PMS.jpeg
 logoKey: currencies/pms.jpeg
 name: Pomeranian Star
+platform: BNB
+platform_contract: '0xab85684c150aa762c11434a95d72ed79aee53b8d'

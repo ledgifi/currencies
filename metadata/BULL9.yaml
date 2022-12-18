@@ -5,3 +5,5 @@ id_nomics: BULL9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BULL9.png
 logoKey: currencies/bull9.png
 name: Strong Bull
+platform: BNB
+platform_contract: '0xb33522c5747a151d47825e2307bf67890cd124c8'

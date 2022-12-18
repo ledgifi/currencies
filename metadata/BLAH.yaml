@@ -3,3 +3,5 @@ fiat: false
 id: BLAH
 id_nomics: BLAH
 name: BlahToken
+platform: ETH
+platform_contract: '0x090f572496ce30a4ffc62a0a9f2a7540f2a997b5'

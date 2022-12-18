@@ -5,3 +5,5 @@ id_nomics: OPUS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OPUS2.jpg
 logoKey: currencies/opus2.jpg
 name: OpusBeat
+platform: BNB
+platform_contract: '0xd81a0295a60f54c825f19999fb96576da85d160c'

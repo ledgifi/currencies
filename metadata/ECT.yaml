@@ -6,3 +6,5 @@ id_nomics: ECT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECT.png
 logoKey: currencies/ect.png
 name: SuperEdge
+platform: ETH
+platform_contract: '0x4ccc3759eb48faf1c6cfadad2619e7038db6b212'

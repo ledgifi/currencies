@@ -5,3 +5,5 @@ id_nomics: CHEEMSPETS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHEEMSPETS.jpeg
 logoKey: currencies/cheemspets.jpeg
 name: CheemsPETS
+platform: BNB
+platform_contract: '0x4ce41631013c1763d79b862a2889767a5fd54bc1'

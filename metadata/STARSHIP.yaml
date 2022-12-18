@@ -6,3 +6,5 @@ id_nomics: STARSHIP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STARSHIP.jpg
 logoKey: currencies/starship.jpg
 name: StarShip
+platform: BNB
+platform_contract: '0x52419258e3fa44deac7e670eadd4c892b480a805'

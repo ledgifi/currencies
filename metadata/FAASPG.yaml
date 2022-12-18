@@ -3,3 +3,5 @@ fiat: false
 id: FAASPG
 id_nomics: FAASPG
 name: FaaS PG Token
+platform: ETH
+platform_contract: '0x87eac6849597f0abacb8db909073b78ad18e3916'

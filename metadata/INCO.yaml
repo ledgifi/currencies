@@ -6,3 +6,5 @@ id_nomics: INCO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INCO.png
 logoKey: currencies/inco.png
 name: Incodium
+platform: ETH
+platform_contract: '0x4d8bfe7ea0f46486fd40fc4df60cf39f7568bee8'

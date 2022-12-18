@@ -5,3 +5,5 @@ id_nomics: METAFX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAFX.jpg
 logoKey: currencies/metafx.jpg
 name: MetaFlex
+platform: BNB
+platform_contract: '0x4015b5d3f1b6074c84c36a5f45a9f56864edaf6b'

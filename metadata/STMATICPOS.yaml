@@ -5,3 +5,5 @@ id_nomics: STMATICPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STMATICPOS.png
 logoKey: currencies/stmaticpos.png
 name: Lido Staked Matic (Polygon)
+platform: MATIC
+platform_contract: '0x3a58a54c066fdc0f2d55fc9c89f0415c92ebf3c4'

@@ -5,3 +5,5 @@ id_nomics: BELTBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BELTBTC.png
 logoKey: currencies/beltbtc.png
 name: beltBTC
+platform: BNB
+platform_contract: '0x51bd63f240fb13870550423d208452ca87c44444'

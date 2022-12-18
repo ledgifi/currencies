@@ -5,3 +5,5 @@ id_nomics: VNC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VNC2.png
 logoKey: currencies/vnc2.png
 name: VNC
+platform: ETH
+platform_contract: '0x5a246a981d61d8bc5c254c6eba1340796fb97e5f'

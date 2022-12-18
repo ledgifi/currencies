@@ -5,3 +5,5 @@ id_nomics: CADINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CADINU.png
 logoKey: currencies/cadinu.png
 name: Canadian Inuit Dog
+platform: BNB
+platform_contract: '0x748ed23b57726617069823dc1e6267c8302d4e76'

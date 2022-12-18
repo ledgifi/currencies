@@ -5,3 +5,5 @@ id_nomics: PEACHPYE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEACHPYE.png
 logoKey: currencies/peachpye.png
 name: PEACHPYE
+platform: BNB
+platform_contract: '0xdb3aba37f0f0c0e8233ffb862fbad2f725cde989'

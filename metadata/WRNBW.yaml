@@ -3,3 +3,5 @@ fiat: false
 id: WRNBW
 id_nomics: WRNBW
 name: Wrapped Rainbow Token
+platform: MATIC
+platform_contract: '0x18e7bdb379928a651f093ef1bc328889b33a560c'

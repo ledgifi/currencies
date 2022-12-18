@@ -5,3 +5,5 @@ id_nomics: BOB7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOB7.png
 logoKey: currencies/bob7.png
 name: BOB
+platform: MATIC
+platform_contract: '0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b'

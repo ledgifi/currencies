@@ -6,3 +6,5 @@ id_nomics: DBX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DBX.jpg
 logoKey: currencies/dbx.jpg
 name: DBX
+platform: ETH
+platform_contract: '0xef47dd38cc0c2856a27fb1964b066ec33426e979'

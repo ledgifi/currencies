@@ -5,3 +5,5 @@ id_nomics: MIMI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIMI2.png
 logoKey: currencies/mimi2.png
 name: Kemonomimi
+platform: BNB
+platform_contract: '0x61d89991916309403688dd4c9b5f2494341a6cc1'

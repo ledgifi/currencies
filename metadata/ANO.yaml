@@ -5,3 +5,5 @@ id_nomics: ANO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANO.jpg
 logoKey: currencies/ano.jpg
 name: ARRANO BLOCKCHAIN NETWORK
+platform: BNB
+platform_contract: '0x9dd8d52629bf35b290dff525c8ef8a81c543125a'

@@ -5,3 +5,5 @@ id_nomics: AENJV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AENJV2.jpg
 logoKey: currencies/aenjv2.jpg
 name: Aave ENJ
+platform: ETH
+platform_contract: '0xac6df26a590f08dcc95d5a4705ae8abbc88509ef'

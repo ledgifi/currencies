@@ -3,3 +3,5 @@ fiat: false
 id: NDOGE
 id_nomics: NDOGE
 name: NyanDoge
+platform: ETH
+platform_contract: '0x1f18940fe2a81ac462220e64ec11bb3430aac8b5'

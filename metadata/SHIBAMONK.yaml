@@ -6,3 +6,5 @@ id_nomics: SHIBAMONK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBAMONK.jpg
 logoKey: currencies/shibamonk.jpg
 name: Shiba Monk
+platform: BNB
+platform_contract: '0x9a95f03a305db3bd25d9c891793118d56c73d012'

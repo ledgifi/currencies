@@ -5,3 +5,5 @@ id_nomics: ESHIBA4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ESHIBA4.jpg
 logoKey: currencies/eshiba4.jpg
 name: Easter Shiba
+platform: BNB
+platform_contract: '0xf0e7c810f86df8781ecafeba45e2a0440e62764a'

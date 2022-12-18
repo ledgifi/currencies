@@ -5,3 +5,5 @@ id_nomics: WALE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WALE.jpeg
 logoKey: currencies/wale.jpeg
 name: BeWhale
+platform: BNB
+platform_contract: '0xd72d34903e15d339927c72ba04ae587eb861578d'

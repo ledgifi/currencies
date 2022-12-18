@@ -5,3 +5,5 @@ id_nomics: YOLOCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YOLOCX.jpg
 logoKey: currencies/yolocx.jpg
 name: AdvisorShares Pure Cannabis ETF Token
+platform: ETH
+platform_contract: '0xe7e6c560c7e07b9fdbe8f88ed8c0988b1fec055d'

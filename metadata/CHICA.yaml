@@ -3,3 +3,5 @@ fiat: false
 id: CHICA
 id_nomics: CHICA
 name: Chica Token
+platform: ETH
+platform_contract: '0x054d54a41485d6aa440ef9bee1380f679899a8d5'

@@ -3,3 +3,5 @@ fiat: false
 id: HOPLPUSDT
 id_nomics: HOPLPUSDT
 name: Hop USDT LP Token
+platform: ARBETH
+platform_contract: '0xce3b19d820cb8b9ae370e423b0a329c4314335fe'

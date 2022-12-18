@@ -3,3 +3,5 @@ fiat: false
 id: L2PAD
 id_nomics: L2PAD
 name: L2PAD
+platform: ETH
+platform_contract: '0x8df6606b8e624333ebecce706edbf7139bdd56b1'

@@ -5,3 +5,5 @@ id_nomics: BTCE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCE2.jpg
 logoKey: currencies/btce2.jpg
 name: Bitcoin Eco
+platform: BNB
+platform_contract: '0x1df15952d496e742c2aff05275268559505dedb1'

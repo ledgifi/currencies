@@ -5,3 +5,5 @@ id_nomics: MGOOGLERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MGOOGLERC20.png
 logoKey: currencies/mgooglerc20.png
 name: Wrapped Mirror GOOGL Token (ERC-20)
+platform: ETH
+platform_contract: '0x59a921db27dd6d4d974745b7ffc5c33932653442'

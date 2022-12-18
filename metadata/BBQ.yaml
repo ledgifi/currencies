@@ -5,3 +5,5 @@ id_nomics: BBQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBQ.jpg
 logoKey: currencies/bbq.jpg
 name: BarbecueSwap
+platform: BNB
+platform_contract: '0xd9a88f9b7101046786490baf433f0f6ab3d753e2'

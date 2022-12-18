@@ -5,3 +5,5 @@ id_nomics: PCAKE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PCAKE2.jpg
 logoKey: currencies/pcake2.jpg
 name: Pancake King
+platform: BNB
+platform_contract: '0x3abe3b014a1a8932760cb2855153479c32866c37'

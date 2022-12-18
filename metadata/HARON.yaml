@@ -5,3 +5,5 @@ id_nomics: HARON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HARON.png
 logoKey: currencies/haron.png
 name: HARON
+platform: ETH
+platform_contract: '0xf000ca9fbb684bfa2f5f8b36fdf222970fc93763'

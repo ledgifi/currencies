@@ -5,3 +5,5 @@ id_nomics: XTK3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XTK3.png
 logoKey: currencies/xtk3.png
 name: xToken
+platform: ETH
+platform_contract: '0x7f3edcdd180dbe4819bd98fee8929b5cedb3adeb'

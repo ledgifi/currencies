@@ -3,3 +3,5 @@ fiat: false
 id: GIGABERLINTOKEN
 id_nomics: GIGABERLINTOKEN
 name: GBT
+platform: ETH
+platform_contract: '0x44d0f4eb36c110b24eee9561cbf8329ed94288c1'

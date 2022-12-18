@@ -5,3 +5,5 @@ id_nomics: TDT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TDT2.jpeg
 logoKey: currencies/tdt2.jpeg
 name: Trader Dapp Token
+platform: BNB
+platform_contract: '0xe4a67b255bae269d110e23b7195167b645b49eef'

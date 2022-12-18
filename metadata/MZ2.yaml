@@ -5,3 +5,5 @@ id_nomics: MZ2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MZ2.jpg
 logoKey: currencies/mz2.jpg
 name: MetaZilla
+platform: BNB
+platform_contract: '0x0d4992e48278aa7f7c915f820743d9fab7fea713'

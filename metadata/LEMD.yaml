@@ -6,3 +6,5 @@ id_nomics: LEMD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LEMD.jpg
 logoKey: currencies/lemd.jpg
 name: Lemond
+platform: ETH
+platform_contract: '0xf45f6c8bb3d77ea762175b8f7ca4d251941649fa'

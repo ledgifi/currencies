@@ -5,3 +5,5 @@ id_nomics: RYIU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RYIU.jpg
 logoKey: currencies/ryiu.jpg
 name: RYI Unity
+platform: BNB
+platform_contract: '0xc6d736123fa8e8a5d85803b5c22799e394245fab'

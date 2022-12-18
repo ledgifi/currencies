@@ -5,3 +5,5 @@ id_nomics: FGT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FGT2.jpg
 logoKey: currencies/fgt2.jpg
 name: Fistiana Governance Token
+platform: BNB
+platform_contract: '0x6d4967c33b3752ca9dbe3217b832b85f69e4948a'

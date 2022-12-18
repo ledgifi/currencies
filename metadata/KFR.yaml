@@ -6,3 +6,5 @@ id_nomics: KFR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KFR.jpg
 logoKey: currencies/kfr.jpg
 name: KING FOREVER
+platform: BNB
+platform_contract: '0xacff4e9e9110971e1a4d8f013f5f97dd8fb4f430'

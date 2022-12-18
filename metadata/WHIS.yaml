@@ -6,3 +6,5 @@ id_nomics: WHIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WHIS.jpg
 logoKey: currencies/whis.jpg
 name: Whis Inu
+platform: ETH
+platform_contract: '0x95f95388d97002af8f5a5e4c2f308d91ee1914ec'

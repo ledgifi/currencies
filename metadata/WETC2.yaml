@@ -3,3 +3,5 @@ fiat: false
 id: WETC2
 id_nomics: WETC2
 name: Wrapped Ether
+platform: ETC
+platform_contract: '0x1953cab0e5bfa6d4a9bad6e05fd46c1cc6527a5a'

@@ -5,3 +5,5 @@ id_nomics: VERA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VERA.jpg
 logoKey: currencies/vera.jpg
 name: VERA
+platform: ETH
+platform_contract: '0x166f1a7ecae00bd43876a25b10a63c575e05c0e7'

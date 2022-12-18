@@ -6,3 +6,5 @@ id_nomics: SHIBAGUN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBAGUN.jpg
 logoKey: currencies/shibagun.jpg
 name: Shiba Shogun
+platform: ETH
+platform_contract: '0x4e15863d76838ed1677d3d4f9fcfa7a4049119af'

@@ -6,3 +6,5 @@ id_nomics: ECOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ECOT.jpg
 logoKey: currencies/ecot.jpg
 name: Echo Tech Coin
+platform: BNB
+platform_contract: '0x7cfffc84b2ae51bbcb6fdf90bed564a1543598c1'

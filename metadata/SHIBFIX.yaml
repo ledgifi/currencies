@@ -5,3 +5,5 @@ id_nomics: SHIBFIX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBFIX.png
 logoKey: currencies/shibfix.png
 name: ShibFix
+platform: BNB
+platform_contract: '0x2a5eae7822bf298957e746b7e9304db088b8a0f0'

@@ -6,3 +6,5 @@ id_nomics: IGN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IGN.jpg
 logoKey: currencies/ign.jpg
 name: Ignite
+platform: ETH
+platform_contract: '0xde9d41a01bb11a9f41e709242824e54c3917084e'

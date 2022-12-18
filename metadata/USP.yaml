@@ -5,3 +5,5 @@ id_nomics: USP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USP.png
 logoKey: currencies/usp.png
 name: USPCOIN
+platform: BNB
+platform_contract: '0xeB3C34113F1305DD2E5c89765D574AfFf6ed9e28'

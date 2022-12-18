@@ -3,3 +3,5 @@ fiat: false
 id: NEXT100X
 id_nomics: NEXT100X
 name: High Liq No Tax
+platform: ETH
+platform_contract: '0xc81fdb75fff99ecbfb30eea7cfb00972cc653adb'

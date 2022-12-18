@@ -6,3 +6,5 @@ id_nomics: PMC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PMC.png
 logoKey: currencies/pmc.png
 name: Primebank Coin
+platform: ETH
+platform_contract: '0x767588059265d2a243445dd3f23db37b96018dd5'

@@ -5,3 +5,5 @@ id_nomics: SUBX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUBX2.jpg
 logoKey: currencies/subx2.jpg
 name: Startup Boost Token
+platform: BNB
+platform_contract: '0x5232152c8207653aeda5baa0ff7fb1046c23c753'

@@ -5,3 +5,5 @@ id_nomics: XUSD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XUSD2.jpg
 logoKey: currencies/xusd2.jpg
 name: xDollar Stablecoin
+platform: MATIC
+platform_contract: '0x3a3e7650f8b9f667da98f236010fbf44ee4b2975'

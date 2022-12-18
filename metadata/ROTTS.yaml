@@ -5,3 +5,5 @@ id_nomics: ROTTS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROTTS.jpg
 logoKey: currencies/rotts.jpg
 name: ROTTSCHILD V2
+platform: ETH
+platform_contract: '0xfb40e79e56cc7d406707b66c4fd175e07eb2ae3c'

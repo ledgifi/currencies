@@ -5,3 +5,5 @@ id_nomics: TREATSPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TREATSPOS.jpeg
 logoKey: currencies/treatspos.jpeg
 name: Treats (Polygon)
+platform: MATIC
+platform_contract: '0x21364671fD823BBda8Ba1f40a24171DeCBdB3D54'

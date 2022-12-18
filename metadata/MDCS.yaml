@@ -3,3 +3,5 @@ fiat: false
 id: MDCS
 id_nomics: MDCS
 name: Meta DogeCat Swap
+platform: BNB
+platform_contract: '0x6395d96b09296a7ddccdccc01b46c61f772a3218'

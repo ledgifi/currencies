@@ -5,3 +5,5 @@ id_nomics: XOT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XOT2.png
 logoKey: currencies/xot2.png
 name: Okuru Token
+platform: ETH
+platform_contract: '0x22b48e1f20043d1db5f2a11cbf1d520a4f20b198'

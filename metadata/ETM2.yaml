@@ -3,3 +3,5 @@ fiat: false
 id: ETM2
 id_nomics: ETM2
 name: EtherMan Token
+platform: ETH
+platform_contract: '0x8c576b67e1caa070fc2cc00b615c1f530796da3e'

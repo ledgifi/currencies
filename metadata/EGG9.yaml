@@ -5,3 +5,5 @@ id_nomics: EGG9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EGG9.jpg
 logoKey: currencies/egg9.jpg
 name: Super Egg
+platform: BNB
+platform_contract: '0xc623d9e8bf6812852a7aeded140d479095cfd941'

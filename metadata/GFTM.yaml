@@ -3,3 +3,5 @@ fiat: false
 id: GFTM
 id_nomics: GFTM
 name: Geist FTM
+platform: FTM
+platform_contract: '0x39b3bd37208cbade74d0fcbdbb12d606295b430a'

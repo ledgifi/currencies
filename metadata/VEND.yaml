@@ -5,3 +5,5 @@ id_nomics: VEND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VEND.jpeg
 logoKey: currencies/vend.jpeg
 name: Vendor Coin
+platform: BNB
+platform_contract: '0x103516785385098c99e282a6a79414bdfef78cb8'

@@ -3,3 +3,5 @@ fiat: false
 id: TMON
 id_nomics: TMON
 name: Tmon Coin
+platform: BNB
+platform_contract: '0x2cd24aaf0aeabde7f830d6719eeb8eb3837712de'

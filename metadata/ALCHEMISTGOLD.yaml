@@ -3,3 +3,5 @@ fiat: false
 id: ALCHEMISTGOLD
 id_nomics: ALCHEMISTGOLD
 name: AlchemistGold
+platform: ETH
+platform_contract: '0x1a43b5b3a76f0d1437840f77bfc3cc94ce1f8bef'

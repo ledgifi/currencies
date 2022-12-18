@@ -5,3 +5,5 @@ id_nomics: HEX4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HEX4.jpeg
 logoKey: currencies/hex4.jpeg
 name: HEX ETHW
+platform: ETHW2
+platform_contract: '0x2b591e99afe9f32eaa6214f7b7629768c40eeb39'

@@ -3,3 +3,5 @@ fiat: false
 id: DIL
 id_nomics: DIL
 name: dil
+platform: BNB
+platform_contract: '0x76860636948673a6b96504aa4e8edc8c89608996'

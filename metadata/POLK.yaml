@@ -6,3 +6,5 @@ id_nomics: POLK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POLK.jpg
 logoKey: currencies/polk.jpg
 name: Polkamarkets
+platform: ETH
+platform_contract: '0xd478161c952357f05f0292b56012cd8457f1cfbf'

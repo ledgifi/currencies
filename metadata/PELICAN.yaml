@@ -3,3 +3,5 @@ fiat: false
 id: PELICAN
 id_nomics: PELICAN
 name: Pelican
+platform: ETH
+platform_contract: '0xeaecc518064df6355d9e0078e338cfced47f48e1'

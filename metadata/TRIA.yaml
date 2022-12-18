@@ -6,3 +6,5 @@ id_nomics: TRIA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRIA.png
 logoKey: currencies/tria.png
 name: Triaconta
+platform: ETH
+platform_contract: '0x3293cc907fde439b39aedaf1b982785adaff186b'

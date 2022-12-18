@@ -3,3 +3,5 @@ fiat: false
 id: SPACEXBEP20
 id_nomics: SPACEXBEP20
 name: SpaceX Token (BEP-20)
+platform: BNB
+platform_contract: '0x0a9e7daa92ebe3d5ce4e18b07cb3f4a16b67fa7f'

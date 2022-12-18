@@ -5,3 +5,5 @@ id_nomics: ELON100M
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELON100M.jpg
 logoKey: currencies/elon100m.jpg
 name: Elon 100 Million
+platform: BNB
+platform_contract: '0x92d642d4a1db96949661e2e36dffcc3323f728f3'

@@ -5,3 +5,5 @@ id_nomics: CR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CR2.png
 logoKey: currencies/cr2.png
 name: Crypto Return
+platform: BNB
+platform_contract: '0xde018990bfAC1A9bBCdc349bE6C14B4ED25fA8eA'

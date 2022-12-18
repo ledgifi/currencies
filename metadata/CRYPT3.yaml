@@ -5,3 +5,5 @@ id_nomics: CRYPT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRYPT3.jpg
 logoKey: currencies/crypt3.jpg
 name: Cryptia
+platform: BNB
+platform_contract: '0x142ba459218cafdcf8f98a5fa3e139f32fccec70'

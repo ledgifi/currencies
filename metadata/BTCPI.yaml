@@ -3,3 +3,5 @@ fiat: false
 id: BTCPI
 id_nomics: BTCPI
 name: BTCpi
+platform: BNB
+platform_contract: '0x505be2e6ae26bb7cbcc83d28990ac827aa74551c'

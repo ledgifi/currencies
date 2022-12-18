@@ -5,3 +5,5 @@ id_nomics: H2O4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/H2O4.jpg
 logoKey: currencies/h2o4.jpg
 name: Hydro H2O
+platform: MOVR
+platform_contract: '0xdc151bc48a5f77288cde9ddbff2e32e6bcf4791f'

@@ -5,3 +5,5 @@ id_nomics: WZC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WZC.jpg
 logoKey: currencies/wzc.jpg
 name: Woozooya
+platform: ETH
+platform_contract: '0xbf75CE90ab91B568D0dbb264eCf75aD7c347B6e8'

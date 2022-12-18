@@ -3,3 +3,5 @@ fiat: false
 id: DPRT
 id_nomics: DPRT
 name: DanPen Radio Token
+platform: MATIC
+platform_contract: '0x33ca988c3d67a3ff69407f979d3e6c3dd04794fa'

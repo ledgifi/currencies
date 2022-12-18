@@ -3,3 +3,5 @@ fiat: false
 id: PPNC
 id_nomics: PPNC
 name: PPNC Coin
+platform: AVAX
+platform_contract: '0x6e11735d00a149592fb50cf86c09ceced60cb823'

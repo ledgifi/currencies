@@ -5,3 +5,5 @@ id_nomics: SAFEETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFEETH.jpg
 logoKey: currencies/safeeth.jpg
 name: SafeETH
+platform: BNB
+platform_contract: '0x47fdfea2c5741acd7be0377029d6c507154d86b9'

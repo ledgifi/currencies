@@ -5,3 +5,5 @@ id_nomics: DFC6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DFC6.jpg
 logoKey: currencies/dfc6.jpg
 name: DefiConnect
+platform: BNB
+platform_contract: '0x996c1bf72ec220289ae0edd3a8d77080642121a2'

@@ -3,3 +3,5 @@ fiat: false
 id: BTC31
 id_nomics: BTC31
 name: btc31
+platform: BNB
+platform_contract: '0x903bfc7b47c675e093afe50ef6236d558d9ec57f'

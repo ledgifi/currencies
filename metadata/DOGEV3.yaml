@@ -5,3 +5,5 @@ id_nomics: DOGEV3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEV3.jpg
 logoKey: currencies/dogev3.jpg
 name: DogeV3
+platform: ETH
+platform_contract: '0x555c7fa88591181e75b6c246e0fe76974f6b859f'

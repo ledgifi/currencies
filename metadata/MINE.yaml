@@ -3,3 +3,5 @@ fiat: false
 id: MINE
 id_nomics: MINE
 name: SpaceMineToken
+platform: ETH
+platform_contract: '0x8356806910ee22cfc0c45d2f5fc32c18016d8423'

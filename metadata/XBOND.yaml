@@ -5,3 +5,5 @@ id_nomics: XBOND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XBOND.jpg
 logoKey: currencies/xbond.jpg
 name: Bitacium
+platform: ETH
+platform_contract: '0x19d6c93f2d298362045d63c6e32f741954379a6f'

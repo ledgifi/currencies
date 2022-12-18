@@ -5,3 +5,5 @@ id_nomics: BTRI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTRI.jpg
 logoKey: currencies/btri.jpg
 name: Trinity (BSC)
+platform: BNB
+platform_contract: '0x30c18c9cb3de61f2bd1974749a6f5725150208f3'

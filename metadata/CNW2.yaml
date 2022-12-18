@@ -3,3 +3,5 @@ fiat: false
 id: CNW2
 id_nomics: CNW2
 name: CoinWealth
+platform: ETH
+platform_contract: '0x433fce7dfbec729a79999eaf056cb073b2153eba'

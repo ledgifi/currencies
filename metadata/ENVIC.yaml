@@ -3,3 +3,5 @@ fiat: false
 id: ENVIC
 id_nomics: ENVIC
 name: Environment
+platform: HT
+platform_contract: '0xbeb50422731470864c3c7a6386e47a8caee979fa'

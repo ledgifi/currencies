@@ -6,3 +6,5 @@ id_nomics: WELL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/well.jpg
 logoKey: currencies/well.jpg
 name: WELL
+platform: ETH
+platform_contract: '0x684e2dcb12bb755237e07242529c82f78a84ea61'

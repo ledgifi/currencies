@@ -6,3 +6,5 @@ id_nomics: BWT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BWT.png
 logoKey: currencies/bwt.png
 name: Bittwatt
+platform: ETH
+platform_contract: '0xca3ea3061d638e02113aa960340c98343b5acd62'

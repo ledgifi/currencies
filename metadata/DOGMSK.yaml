@@ -5,3 +5,5 @@ id_nomics: DOGMSK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGMSK.png
 logoKey: currencies/dogmsk.png
 name: Dog Masked
+platform: BNB
+platform_contract: '0xeec776a44a4d482790d6f538fca7d45b09cd69ad'

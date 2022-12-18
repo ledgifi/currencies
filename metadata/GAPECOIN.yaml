@@ -5,3 +5,5 @@ id_nomics: GAPECOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAPECOIN.png
 logoKey: currencies/gapecoin.png
 name: Green ApeCoin
+platform: BNB
+platform_contract: '0xABaf0bcD3a4F6D3bD76eDC10EA922D50B751C357'

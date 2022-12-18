@@ -5,3 +5,5 @@ id_nomics: MDF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MDF.jpg
 logoKey: currencies/mdf.jpg
 name: 'MyDog '
+platform: BNB
+platform_contract: '0xf71f22e0e27418eeb78bfc910c0bac74f5d271f9'

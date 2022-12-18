@@ -3,3 +3,5 @@ fiat: false
 id: XCCT
 id_nomics: XCCT
 name: xcct
+platform: BNB
+platform_contract: '0xd57409558ae1e59d8e48fe6847863d47a0c63abf'

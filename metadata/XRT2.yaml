@@ -5,3 +5,5 @@ id_nomics: XRT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/xrt.jpg
 logoKey: currencies/xrt2.jpg
 name: XRT
+platform: ETH
+platform_contract: '0x37d404a072056eda0cd10cb714d35552329f8500'

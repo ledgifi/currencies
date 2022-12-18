@@ -5,3 +5,5 @@ id_nomics: ATLAS5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATLAS5.jpg
 logoKey: currencies/atlas5.jpg
 name: The Atlas Coin
+platform: BNB
+platform_contract: '0x804c1d39789403ac52c42b2acc999bacf929d778'

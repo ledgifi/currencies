@@ -6,3 +6,5 @@ id_nomics: META
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/meta.jpg
 logoKey: currencies/meta.jpg
 name: Metadium
+platform: ETH
+platform_contract: '0xde2f7766c8bf14ca67193128535e5c7454f8387c'

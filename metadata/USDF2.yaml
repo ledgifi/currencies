@@ -5,3 +5,5 @@ id_nomics: USDF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDF2.jpg
 logoKey: currencies/usdf2.jpg
 name: FolgoryUSD
+platform: ETH
+platform_contract: '0x34aa2f0ac4407a978704bff8bf1f5266b5915ad6'

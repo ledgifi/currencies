@@ -5,3 +5,5 @@ id_nomics: MILLIONAIRE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MILLIONAIRE.png
 logoKey: currencies/millionaire.png
 name: Dev Is Rich
+platform: BNB
+platform_contract: '0xd3671732f7c924ffde3be268d4ae911e62ce98ce'

@@ -3,3 +3,5 @@ fiat: false
 id: XST3
 id_nomics: XST3
 name: SORA Synthetics
+platform: XOR
+platform_contract: '0x0200090000000000000000000000000000000000000000000000000000000000'

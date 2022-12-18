@@ -6,3 +6,5 @@ id_nomics: LAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LAR.jpg
 logoKey: currencies/lar.jpg
 name: LinkArt
+platform: ETH
+platform_contract: '0x6226caa1857afbc6dfb6ca66071eb241228031a1'

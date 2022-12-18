@@ -4,3 +4,5 @@ id: PXCH
 id_coinpaprika: pxch-chia-via-plotbridge
 id_nomics: PXCH
 name: Chia via PlotBridge
+platform: BNB
+platform_contract: '0x8fcd852147d1bba1c4f4dff07880ccb25dd36dd7'

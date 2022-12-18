@@ -6,3 +6,5 @@ id_nomics: FNSP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FNSP.jpg
 logoKey: currencies/fnsp.jpg
 name: Finswap
+platform: ETH
+platform_contract: '0x3b78dc5736a49bd297dd2e4d62daa83d35a22749'

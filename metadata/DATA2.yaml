@@ -5,3 +5,5 @@ id_nomics: DATA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DATA2.jpg
 logoKey: currencies/data2.jpg
 name: Data Economy Index
+platform: ETH
+platform_contract: '0x33d63ba1e57e54779f7ddaeaa7109349344cf5f1'

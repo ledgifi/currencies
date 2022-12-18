@@ -5,3 +5,5 @@ id_nomics: TOTEM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOTEM2.jpg
 logoKey: currencies/totem2.jpg
 name: Cryptotem
+platform: BNB
+platform_contract: '0x777994409c6b7e2393f6098a33a9cd8b7e9d0d28'

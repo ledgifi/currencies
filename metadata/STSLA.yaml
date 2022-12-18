@@ -5,3 +5,5 @@ id_nomics: STSLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STSLA.png
 logoKey: currencies/stsla.png
 name: sTSLA
+platform: ETH
+platform_contract: '0x918da91ccbc32b7a6a0cc4ecd5987bbab6e31e6d'

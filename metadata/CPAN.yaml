@@ -6,3 +6,5 @@ id_nomics: CPAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CPAN.jpg
 logoKey: currencies/cpan.jpg
 name: CryptoPlanes
+platform: BNB
+platform_contract: '0x04260673729c5f2b9894a467736f3d85f8d34fc8'

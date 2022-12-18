@@ -8,3 +8,5 @@ id_nomics: SRM
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/ser.svg
 logoKey: currencies/srm.svg
 name: Serum
+platform: ETH
+platform_contract: '0x476c5e26a75bd202a9683ffd34359c0cc15be0ff'

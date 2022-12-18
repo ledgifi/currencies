@@ -5,3 +5,5 @@ id_nomics: WILLIE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WILLIE2.png
 logoKey: currencies/willie2.png
 name: World Cup Willie
+platform: ETH
+platform_contract: '0xe7094edf87a4e307590d011fb2db50219131d9ed'

@@ -6,3 +6,5 @@ id_nomics: LASSO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LASSO.png
 logoKey: currencies/lasso.png
 name: LassoCoin
+platform: BNB
+platform_contract: '0x71441372df45090bb1a34e3320eeaca93fb5ce4a'

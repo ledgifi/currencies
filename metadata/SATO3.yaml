@@ -5,3 +5,5 @@ id_nomics: SATO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SATO3.jpg
 logoKey: currencies/sato3.jpg
 name: Satoru Inu
+platform: ETH
+platform_contract: '0xaf6f6abf18d2cc611921e6a683164efaa9165b43'

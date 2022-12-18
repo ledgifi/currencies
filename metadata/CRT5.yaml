@@ -5,3 +5,5 @@ id_nomics: CRT5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRT5.jpg
 logoKey: currencies/crt5.jpg
 name: Creature
+platform: ETH
+platform_contract: '0x64acf2b39be2682792f1ef1e68b3128026dce72a'

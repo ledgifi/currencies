@@ -6,3 +6,5 @@ id_nomics: TBTC
 logo: https://static.coinpaprika.com/coin/tbtc-tbtc/logo.png
 logoKey: currencies/tbtc.png
 name: tBTC
+platform: ETH
+platform_contract: '0x8daebade922df735c38c80c7ebd708af50815faa'

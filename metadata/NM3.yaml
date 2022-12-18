@@ -5,3 +5,5 @@ id_nomics: NM3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NM3.png
 logoKey: currencies/nm3.png
 name: New Moon
+platform: BNB
+platform_contract: '0x689bb64d072eb8aaa11fba0629a542af7da27a52'

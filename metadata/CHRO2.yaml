@@ -5,3 +5,5 @@ id_nomics: CHRO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHRO2.jpg
 logoKey: currencies/chro2.jpg
 name: Chronicum
+platform: AVAX
+platform_contract: '0xbf1230bb63bfd7f5d628ab7b543bcefa8a24b81b'

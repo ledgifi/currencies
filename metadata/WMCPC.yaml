@@ -3,3 +3,5 @@ fiat: false
 id: WMCPC
 id_nomics: WMCPC
 name: Wrapped Mobile Crypto Pay Coin
+platform: BNB
+platform_contract: '0x6c1f4b8725c99793279b2104f66bb6f3dd333436'

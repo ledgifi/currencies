@@ -6,3 +6,5 @@ id_nomics: BSY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSY.png
 logoKey: currencies/bsy.png
 name: Bestay
+platform: ETH
+platform_contract: '0x7a647637e75d34a7798ba06bd1adf5c084bb5dd5'

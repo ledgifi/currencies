@@ -5,3 +5,5 @@ id_nomics: FI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FI2.jpeg
 logoKey: currencies/fi2.jpeg
 name: TemFi
+platform: BNB
+platform_contract: '0x4b26aa4200d799f93ac565a335412783ef6bfd5f'

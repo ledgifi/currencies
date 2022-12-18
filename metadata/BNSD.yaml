@@ -6,3 +6,5 @@ id_nomics: BNSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNSD.jpg
 logoKey: currencies/bnsd.jpg
 name: BNSD Finance
+platform: ETH
+platform_contract: '0x668dbf100635f593a3847c0bdaf21f0a09380188'

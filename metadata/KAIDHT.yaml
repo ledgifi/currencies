@@ -6,3 +6,5 @@ id_nomics: KAIDHT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAIDHT.jpg
 logoKey: currencies/kaidht.jpg
 name: Dog House Token
+platform: BNB
+platform_contract: '0x3a050a1ea4e062d0e4a0c3571d9f65919d9dc1c2'

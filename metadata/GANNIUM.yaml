@@ -5,3 +5,5 @@ id_nomics: GANNIUM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GANNIUM.png
 logoKey: currencies/gannium.png
 name: Gannium
+platform: MATIC
+platform_contract: '0x0d9d668c4ae1d64b859930ddcd8cd9539a80ac93'

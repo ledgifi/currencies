@@ -6,3 +6,5 @@ id_nomics: ZPAE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZPAE.jpg
 logoKey: currencies/zpae.jpg
 name: ZelaaPayAE
+platform: ETH
+platform_contract: '0x045eb7e34e94b28c7a3641bc5e1a1f61f225af9f'

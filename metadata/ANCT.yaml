@@ -6,3 +6,5 @@ id_nomics: ANCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANCT.jpg
 logoKey: currencies/anct.jpg
 name: Anchor
+platform: ETH
+platform_contract: '0x5456bc77dd275c45c3c15f0cf936b763cf57c3b5'

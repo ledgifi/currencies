@@ -6,3 +6,5 @@ id_nomics: TJX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TJX.jpg
 logoKey: currencies/tjx.jpg
 name: TIJARACOIN
+platform: ETH
+platform_contract: '0x1e19d4e538b1583613347671965a2fa848271f8a'

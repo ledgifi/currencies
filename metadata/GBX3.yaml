@@ -5,3 +5,5 @@ id_nomics: GBX3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GBX3.png
 logoKey: currencies/gbx3.png
 name: Gold Bittrex Coin
+platform: BNB
+platform_contract: '0x61Ffe8Ef42b1973c76c62011aC4f553613b4B18D'

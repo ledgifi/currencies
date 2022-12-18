@@ -3,3 +3,5 @@ fiat: false
 id: BCHDOOM
 id_nomics: BCHDOOM
 name: 10X Short Bitcoin Cash Token
+platform: ETH
+platform_contract: '0x2e185ef6684d2d0fe9d311782e0ef738d63861e0'

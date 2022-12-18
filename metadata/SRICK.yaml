@@ -5,3 +5,5 @@ id_nomics: SRICK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SRICK.png
 logoKey: currencies/srick.png
 name: SantaRick
+platform: BNB
+platform_contract: '0xbee012d89a3506ca3d96eaf99de59bcc71a57801'

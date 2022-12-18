@@ -5,3 +5,5 @@ id_nomics: SK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SK.jpg
 logoKey: currencies/sk.jpg
 name: SideKick Token
+platform: BNB
+platform_contract: '0x5755e18d86c8a6d7a6e25296782cb84661e6c106'

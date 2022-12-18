@@ -3,3 +3,5 @@ fiat: false
 id: ISC
 id_nomics: ISC
 name: Initial Star Coin
+platform: BNB
+platform_contract: '0x42fb2eac7e0709f2090977cdd7c0d1cee5ad776d'

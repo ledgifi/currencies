@@ -6,3 +6,5 @@ id_nomics: MSC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSC.png
 logoKey: currencies/msc.png
 name: Monster Slayer Cash
+platform: BNB
+platform_contract: '0x8c784c49097dcc637b93232e15810d53871992bf'

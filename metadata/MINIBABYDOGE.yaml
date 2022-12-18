@@ -5,3 +5,5 @@ id_nomics: MINIBABYDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINIBABYDOGE.jpg
 logoKey: currencies/minibabydoge.jpg
 name: miniBABYDOGE
+platform: BNB
+platform_contract: '0xa3b89c5f75c530f33e612177001f5602e9c2830f'

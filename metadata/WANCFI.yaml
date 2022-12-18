@@ -3,3 +3,5 @@ fiat: false
 id: WANCFI
 id_nomics: WANCFI
 name: wanCFi@wanchain
+platform: WAN
+platform_contract: '0x716f88d32b52342af040b2e775871dff56ebd035'

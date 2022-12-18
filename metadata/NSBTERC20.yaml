@@ -5,3 +5,5 @@ id_nomics: NSBTERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NSBTERC20.png
 logoKey: currencies/nsbterc20.png
 name: Neutrino System Base Token (ERC20)
+platform: ETH
+platform_contract: '0x9d79d5b61de59d882ce90125b18f74af650acb93'

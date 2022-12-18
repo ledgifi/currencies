@@ -5,3 +5,5 @@ id_nomics: JPOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JPOT.jpeg
 logoKey: currencies/jpot.jpeg
 name: SAFEJACKPOT
+platform: BNB
+platform_contract: '0xf0e149f9be4ff70b2c3f6648f0b6532dc4493a75'

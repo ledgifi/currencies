@@ -5,3 +5,5 @@ id_nomics: ETHMBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHMBEP20.jpg
 logoKey: currencies/ethmbep20.jpg
 name: Ethereum Meta (BEP-20)
+platform: BNB
+platform_contract: '0x0b33542240d6fa323c796749f6d6869fdb7f13ca'

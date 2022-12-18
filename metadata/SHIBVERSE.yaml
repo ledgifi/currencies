@@ -5,3 +5,5 @@ id_nomics: SHIBVERSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBVERSE.jpeg
 logoKey: currencies/shibverse.jpeg
 name: ShibaVerse
+platform: BNB
+platform_contract: '0x771b1b0ce5a38882604fd05ab621d5e853b1be30'

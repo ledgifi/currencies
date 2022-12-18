@@ -3,3 +3,5 @@ fiat: false
 id: SENSOR
 id_nomics: SENSOR
 name: Sensor Token
+platform: BNB
+platform_contract: '0x10e6961c9fe6eae6dfe15e322faeeebdca268ab8'

@@ -6,3 +6,5 @@ id_nomics: WAS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAS.jpg
 logoKey: currencies/was.jpg
 name: Wasder
+platform: ETH
+platform_contract: '0x0c572544a4ee47904d54aaa6a970af96b6f00e1b'

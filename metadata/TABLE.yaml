@@ -5,3 +5,5 @@ id_nomics: TABLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TABLE.jpg
 logoKey: currencies/table.jpg
 name: Knights of the Round Table Token
+platform: BNB
+platform_contract: '0xf5a2f7418035ce76967f515f39d65719bb0453b6'

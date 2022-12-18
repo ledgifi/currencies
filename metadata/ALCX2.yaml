@@ -5,3 +5,5 @@ id_nomics: ALCX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALCX2.jpeg
 logoKey: currencies/alcx2.jpeg
 name: Alchanex
+platform: BNB
+platform_contract: '0x40c8c04220feafd122601e4ffd2a91ba1e8c60bd'

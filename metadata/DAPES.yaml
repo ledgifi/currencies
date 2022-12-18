@@ -5,3 +5,5 @@ id_nomics: DAPES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAPES.jpeg
 logoKey: currencies/dapes.jpeg
 name: De-Fi Apes
+platform: BNB
+platform_contract: '0x1758ade7ef6ef753e6bff91baceb06af4404014e'

@@ -3,3 +3,5 @@ fiat: false
 id: ERBA
 id_nomics: ERBA
 name: ErBa token
+platform: BNB
+platform_contract: '0xda1a45de59e902a1e30a1f59363b10fba9dac6cf'

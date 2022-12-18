@@ -5,3 +5,5 @@ id_nomics: KCY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KCY.png
 logoKey: currencies/kcy.png
 name: KickCity Token
+platform: ETH
+platform_contract: '0x9d22c3bf2b51213a3572e865ecf78fab0294e75b'

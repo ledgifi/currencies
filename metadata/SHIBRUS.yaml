@@ -5,3 +5,5 @@ id_nomics: SHIBRUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBRUS.png
 logoKey: currencies/shibrus.png
 name: SHIBA RUS
+platform: BNB
+platform_contract: '0x2e8e8DF1BeDE2DFD3af70ecFE41d8A4ADaba4E9d'

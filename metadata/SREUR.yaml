@@ -5,3 +5,5 @@ id_nomics: SREUR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SREUR.png
 logoKey: currencies/sreur.png
 name: EURO TOKEN
+platform: ETH
+platform_contract: '0x7a0e91c4204355e0a6bbf746dc0b7e32dfefdecf'

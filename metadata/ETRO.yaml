@@ -3,3 +3,5 @@ fiat: false
 id: ETRO
 id_nomics: ETRO
 name: eTrops
+platform: BNB
+platform_contract: '0xff2e8f4cfa9d09db99758ce84d513ab5198d9ce9'

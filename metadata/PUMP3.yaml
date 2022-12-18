@@ -3,3 +3,5 @@ fiat: false
 id: PUMP3
 id_nomics: PUMP3
 name: pumpgastoken
+platform: ETH
+platform_contract: '0x61f532ef937e809567d69531ae533595402bb4a8'

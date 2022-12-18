@@ -5,3 +5,5 @@ id_nomics: KBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KBTC.jpg
 logoKey: currencies/kbtc.jpg
 name: Klondike BTC
+platform: ETH
+platform_contract: '0xe6c3502997f97f9bde34cb165fbce191065e068f'

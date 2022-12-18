@@ -6,3 +6,5 @@ id_nomics: CATJAM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CATJAM.jpg
 logoKey: currencies/catjam.jpg
 name: Catjam
+platform: BNB
+platform_contract: '0xa8c5cebb7a098f1ee30014984201036a92893ca7'

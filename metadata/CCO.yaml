@@ -5,3 +5,5 @@ id_nomics: CCO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/cco.jpg
 logoKey: currencies/cco.jpg
 name: Ccore Token
+platform: ETH
+platform_contract: '0x679badc551626e01b23ceecefbc9b877ea18fc46'

@@ -3,3 +3,5 @@ fiat: false
 id: IDLEWBTCYIELD
 id_nomics: IDLEWBTCYIELD
 name: IdleWBTC (Yield)
+platform: ETH
+platform_contract: '0xd6f279b7ccbcd70f8be439d25b9df93aeb60ec55'

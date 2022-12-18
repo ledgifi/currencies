@@ -5,3 +5,5 @@ id_nomics: SOHM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOHM.jpg
 logoKey: currencies/sohm.jpg
 name: Staked Olympus
+platform: ETH
+platform_contract: '0x04f2694c8fcee23e8fd0dfea1d4f5bb8c352111f'

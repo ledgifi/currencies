@@ -6,3 +6,5 @@ id_nomics: EHASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EHASH.jpg
 logoKey: currencies/ehash.jpg
 name: EHash
+platform: ETH
+platform_contract: '0x2942e3b38e33123965bfbc21e802be943a76bbc6'

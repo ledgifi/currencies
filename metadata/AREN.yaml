@@ -5,3 +5,5 @@ id_nomics: AREN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AREN.jpg
 logoKey: currencies/aren.jpg
 name: Aave REN v1
+platform: ETH
+platform_contract: '0x69948cc03f478b95283f7dbf1ce764d0fc7ec54c'

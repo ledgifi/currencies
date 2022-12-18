@@ -5,3 +5,5 @@ id_nomics: VTC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VTC2.jpg
 logoKey: currencies/vtc2.jpg
 name: Vault Coin
+platform: BRISE2
+platform_contract: '0xe6F2c07942DA91134138041e6391E8457274E456'

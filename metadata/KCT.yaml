@@ -3,3 +3,5 @@ fiat: false
 id: KCT
 id_nomics: KCT
 name: K-Chain
+platform: ETH
+platform_contract: '0x3d875a26d9afcbf4f58c920509c876b594499c87'

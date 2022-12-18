@@ -5,3 +5,5 @@ id_nomics: ZIP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZIP2.jpg
 logoKey: currencies/zip2.jpg
 name: ZipSwap
+platform: OPETH
+platform_contract: '0xfa436399d0458dbe8ab890c3441256e3e09022a8'

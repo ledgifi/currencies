@@ -3,3 +3,5 @@ fiat: false
 id: BTCBRA
 id_nomics: BTCBRA
 name: btcbra
+platform: BNB
+platform_contract: '0xe425958afee5512c8cad27af066420bd93fe6151'

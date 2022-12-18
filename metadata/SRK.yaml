@@ -6,3 +6,5 @@ id_nomics: SRK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SRK.jpg
 logoKey: currencies/srk.jpg
 name: SparkPoint
+platform: ETH
+platform_contract: '0x0488401c3f535193fa8df029d9ffe615a06e74e6'

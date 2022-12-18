@@ -5,3 +5,5 @@ id_nomics: WMFBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WMFBEP20.jpg
 logoKey: currencies/wmfbep20.jpg
 name: Whale Maker Fund (BEP-20)
+platform: BNB
+platform_contract: '0x28470adc7fef2e29e38632d8c17748f53c04e2e0'

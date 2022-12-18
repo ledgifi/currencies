@@ -3,3 +3,5 @@ fiat: false
 id: PGUSD
 id_nomics: PGUSD
 name: pgUSD
+platform: MATIC
+platform_contract: '0x01216acb28a78bd2d79b14648ae06c4c32a2b6b7'

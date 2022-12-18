@@ -3,3 +3,5 @@ fiat: false
 id: DEXT
 id_nomics: DEXT
 name: Dex Delta Token
+platform: ETH
+platform_contract: '0x72d530016e9e0fc23de6c1f7f487992c879518dc'

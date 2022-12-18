@@ -3,3 +3,5 @@ fiat: false
 id: SDN3
 id_nomics: SDN3
 name: Wrapped Shiden Network
+platform: SDN
+platform_contract: '0x0f933dc137d21ca519ae4c7e93f87a4c8ef365ef'

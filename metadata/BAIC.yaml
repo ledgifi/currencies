@@ -6,3 +6,5 @@ id_nomics: BAIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAIC.jpg
 logoKey: currencies/baic.jpg
 name: BAIC
+platform: ETH
+platform_contract: '0x3258ff5a650d2a4601c12bc3da495557ef354066'

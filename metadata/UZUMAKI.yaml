@@ -6,3 +6,5 @@ id_nomics: UZUMAKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UZUMAKI.jpeg
 logoKey: currencies/uzumaki.jpeg
 name: Uzumaki Inu
+platform: ETH
+platform_contract: '0xd4c64f0fe38ecdaf0baefd7859e18185a73b9aa3'

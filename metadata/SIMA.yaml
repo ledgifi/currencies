@@ -5,3 +5,5 @@ id_nomics: SIMA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIMA.jpg
 logoKey: currencies/sima.jpg
 name: Simargl Token
+platform: BNB
+platform_contract: '0xbdac5c8bc3ff38083437bb712d55b668f44f6df1'

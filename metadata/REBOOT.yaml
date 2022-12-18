@@ -3,3 +3,5 @@ fiat: false
 id: REBOOT
 id_nomics: REBOOT
 name: Reboot
+platform: ETH
+platform_contract: '0x938e87081ece1719761bb5783c412fd375a187d3'

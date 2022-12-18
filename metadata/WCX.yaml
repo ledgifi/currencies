@@ -5,3 +5,5 @@ id_nomics: WCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WCX.jpg
 logoKey: currencies/wcx.jpg
 name: Wayfair Inc. Token
+platform: ETH
+platform_contract: '0xe650cac294202d1b6221a84d5a26a8671071a076'

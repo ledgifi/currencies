@@ -6,3 +6,5 @@ id_nomics: VSO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VSO.png
 logoKey: currencies/vso.png
 name: Verso
+platform: AVAX
+platform_contract: '0x846d50248baf8b7ceaa9d9b53bfd12d7d7fbb25a'

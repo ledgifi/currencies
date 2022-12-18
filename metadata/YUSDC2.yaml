@@ -5,3 +5,5 @@ id_nomics: YUSDC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YUSDC2.jpg
 logoKey: currencies/yusdc2.jpg
 name: iearn USDC
+platform: ETH
+platform_contract: '0xd6ad7a6750a7593e092a9b218d66c0a814a3436e'

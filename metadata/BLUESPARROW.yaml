@@ -5,3 +5,5 @@ id_nomics: BLUESPARROW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLUESPARROW.jpg
 logoKey: currencies/bluesparrow.jpg
 name: BlueSparrow
+platform: ETH
+platform_contract: '0x4d67edef87a5ff910954899f4e5a0aaf107afd42'

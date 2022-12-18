@@ -8,3 +8,5 @@ id_nomics: DAI
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/dai.svg
 logoKey: currencies/dai.svg
 name: Dai
+platform: ETH
+platform_contract: '0x6b175474e89094c44da98b954eedeac495271d0f'

@@ -6,3 +6,5 @@ id_nomics: WANDER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WANDER.jpg
 logoKey: currencies/wander.jpg
 name: Wanderlust
+platform: BNB
+platform_contract: '0xeb82389c3ebe77298106af70a5031463c1822077'

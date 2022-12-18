@@ -6,3 +6,5 @@ id_nomics: MINIFLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINIFLOKI.jpg
 logoKey: currencies/minifloki.jpg
 name: MiniFloki
+platform: BNB
+platform_contract: '0x5ee57424151d7256739a6e3386561f62d9f6eb05'

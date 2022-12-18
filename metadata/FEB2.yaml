@@ -5,3 +5,5 @@ id_nomics: FEB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FEB2.png
 logoKey: currencies/feb2.png
 name: FEB
+platform: BNB
+platform_contract: '0xa72a0564d0e887123112e6a4dc1aba7611ad861d'

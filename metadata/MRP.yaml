@@ -6,3 +6,5 @@ id_nomics: MRP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MRP.png
 logoKey: currencies/mrp.png
 name: Money Rebel
+platform: ETH
+platform_contract: '0x21f0f0fd3141ee9e11b3d7f13a1028cd515f459c'

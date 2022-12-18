@@ -5,3 +5,5 @@ id_nomics: SHIBGOD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBGOD.png
 logoKey: currencies/shibgod.png
 name: ShibaGod
+platform: BNB
+platform_contract: '0xfa8c9dbe18530a2d7ad23db6d852f83f28820e56'

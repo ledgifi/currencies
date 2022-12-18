@@ -5,3 +5,5 @@ id_nomics: CH50CX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CH50CX.jpg
 logoKey: currencies/ch50cx.jpg
 name: FTSE China A50 Token
+platform: ETH
+platform_contract: '0xe1f28d7d34faecddf912b717434e3c3373f0d1d6'

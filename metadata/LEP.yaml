@@ -3,3 +3,5 @@ fiat: false
 id: LEP
 id_nomics: LEP
 name: Leprechaun
+platform: BNB
+platform_contract: '0x907eb72beb08c037ab032c64e2571488a210067e'

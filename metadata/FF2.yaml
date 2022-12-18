@@ -5,3 +5,5 @@ id_nomics: FF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FF2.jpg
 logoKey: currencies/ff2.jpg
 name: Fufen
+platform: ETH
+platform_contract: '0xab0bd01101877597c1360a82f515515feb178b9e'

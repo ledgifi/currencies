@@ -5,3 +5,5 @@ id_nomics: WANGDAO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WANGDAO.jpg
 logoKey: currencies/wangdao.jpg
 name: Wangpai Daoge
+platform: BNB
+platform_contract: '0x61c6fa9aa0d4782f48bdd4cadf04967908116737'

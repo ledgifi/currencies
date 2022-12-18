@@ -3,3 +3,5 @@ fiat: false
 id: OMGTOKEN
 id_nomics: OMGTOKEN
 name: OMG
+platform: BNB
+platform_contract: '0x3ecb40ab7472b921e3d95c5cf4f25bd0eb15addc'

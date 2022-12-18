@@ -6,3 +6,5 @@ id_nomics: HZN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HZN.jpg
 logoKey: currencies/hzn.jpg
 name: Horizon Protocol
+platform: BNB
+platform_contract: '0xc0eff7749b125444953ef89682201fb8c6a917cd'

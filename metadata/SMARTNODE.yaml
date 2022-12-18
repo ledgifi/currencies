@@ -3,3 +3,5 @@ fiat: false
 id: SMARTNODE
 id_nomics: SMARTNODE
 name: SmartNode
+platform: AVAX
+platform_contract: '0x47ebd4fc2e4fc1f5052fe7b57e683791ac41741a'

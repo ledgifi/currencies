@@ -5,3 +5,5 @@ id_nomics: MOONDASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOONDASH.jpg
 logoKey: currencies/moondash.jpg
 name: MoonDash
+platform: BNB
+platform_contract: '0x2e44fad7f8c5351c759c68d721a01377e7bf9479'

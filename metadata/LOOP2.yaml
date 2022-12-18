@@ -5,3 +5,5 @@ id_nomics: LOOP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOOP2.jpeg
 logoKey: currencies/loop2.jpeg
 name: LOOP
+platform: BNB
+platform_contract: '0xce186ad6430e2fe494a22c9edbd4c68794a28b35'

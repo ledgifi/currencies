@@ -6,3 +6,5 @@ id_nomics: METAMOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAMOON.jpg
 logoKey: currencies/metamoon.jpg
 name: MetaMoon
+platform: BNB
+platform_contract: '0xa1a0c7849e6916945a78f8af843738c051ab15f3'

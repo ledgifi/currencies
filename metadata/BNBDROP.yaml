@@ -3,3 +3,5 @@ fiat: false
 id: BNBDROP
 id_nomics: BNBDROP
 name: BNB DROP coin
+platform: BNB
+platform_contract: '0x4dffa6d6eac441547faf0df6259fbdbf736fb14b'

@@ -6,3 +6,5 @@ id_nomics: SPONGS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPONGS.jpeg
 logoKey: currencies/spongs.jpeg
 name: SpongeBob Square
+platform: BNB
+platform_contract: '0x471f883bbd2c705f418ba3d6667ef05342c4ee05'

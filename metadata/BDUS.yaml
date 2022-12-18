@@ -5,3 +5,5 @@ id_nomics: BDUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BDUS.png
 logoKey: currencies/bdus.png
 name: Blindex USD
+platform: RBTC
+platform_contract: '0xb450ff06d950efa9a9c0ad63790c51971c1be885'

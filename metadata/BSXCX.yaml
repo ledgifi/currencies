@@ -5,3 +5,5 @@ id_nomics: BSXCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSXCX.jpg
 logoKey: currencies/bsxcx.jpg
 name: Boston Scientific Corporation Token
+platform: ETH
+platform_contract: '0x8aefc499a2b69d1a4ff77a3e7903792f4c3e80d8'

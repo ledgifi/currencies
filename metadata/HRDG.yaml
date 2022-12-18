@@ -5,3 +5,5 @@ id_nomics: HRDG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HRDG.jpg
 logoKey: currencies/hrdg.jpg
 name: Happy River Donate Gold
+platform: ETH
+platform_contract: '0xe9d0331ad47148925c5009d33a428ee301c9d534'

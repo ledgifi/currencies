@@ -6,3 +6,5 @@ id_nomics: AGOV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AGOV.jpg
 logoKey: currencies/agov.jpg
 name: Answer Governance
+platform: ETH
+platform_contract: '0xc1ad269f10bf36d6972ee30827051b59d0d2456b'

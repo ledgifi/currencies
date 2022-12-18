@@ -3,3 +3,5 @@ fiat: false
 id: FRLP
 id_nomics: FRLP
 name: Fund Raise Launchpad
+platform: BNB
+platform_contract: '0x995f2f2b93f0d4d53b6a64d10a59a69591a43cf7'

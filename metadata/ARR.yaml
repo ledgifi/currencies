@@ -5,3 +5,5 @@ id_nomics: ARR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARR.png
 logoKey: currencies/arr.png
 name: Arround.io
+platform: ETH
+platform_contract: '0xcb089b8ae76b5df461d40e957603f7a59aea9e0d'

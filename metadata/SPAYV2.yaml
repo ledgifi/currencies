@@ -5,3 +5,5 @@ id_nomics: SPAYV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPAYV2.jpeg
 logoKey: currencies/spayv2.jpeg
 name: SPAY V2
+platform: BNB
+platform_contract: '0xc6fe6c9aa0c0fa525ecc3422ccc89a3bc539ff8c'

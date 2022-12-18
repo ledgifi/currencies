@@ -6,3 +6,5 @@ id_nomics: ESHK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ESHK.jpg
 logoKey: currencies/eshk.jpg
 name: eShark Token
+platform: BNB
+platform_contract: '0xbca671410bcffd9e63f73e1e8640f6c7c388a3c9'

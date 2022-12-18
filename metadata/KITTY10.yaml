@@ -5,3 +5,5 @@ id_nomics: KITTY10
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KITTY10.jpg
 logoKey: currencies/kitty10.jpg
 name: Binary Cat
+platform: AVAX
+platform_contract: '0xbca7f1998dc9ffb70b086543a808960a460abca7'

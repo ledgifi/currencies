@@ -5,3 +5,5 @@ id_nomics: APA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APA2.jpeg
 logoKey: currencies/apa2.jpeg
 name: ApachonToken
+platform: BNB
+platform_contract: '0xe44b358835221fcc776ca8e159dabc933cd8e7d6'

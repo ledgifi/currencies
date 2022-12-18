@@ -5,3 +5,5 @@ id_nomics: SWNCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWNCX.jpg
 logoKey: currencies/swncx.jpg
 name: Southwestern Energy Company Token
+platform: ETH
+platform_contract: '0xa58b5c6c60d2f05792e9261727143db1ee544c54'

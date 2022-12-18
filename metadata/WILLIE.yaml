@@ -6,3 +6,5 @@ id_nomics: WILLIE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WILLIE.jpg
 logoKey: currencies/willie.jpg
 name: Williecoin
+platform: BNB
+platform_contract: '0x27327672d1dc51f4dc58c9f413e1fa7e7ad8245e'

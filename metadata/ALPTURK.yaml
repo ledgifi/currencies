@@ -3,3 +3,5 @@ fiat: false
 id: ALPTURK
 id_nomics: ALPTURK
 name: AlpTurkCoin
+platform: MATIC
+platform_contract: '0x44ddfc84c455baee2ff966b80571eb1fa529c4ab'

@@ -3,3 +3,5 @@ fiat: false
 id: DMC6
 id_nomics: DMC6
 name: Domestic Collectors
+platform: BNB
+platform_contract: '0x9f109a85ec8f181f7a0471833050d63489c93a47'

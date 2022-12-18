@@ -6,3 +6,5 @@ id_nomics: KWS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KWS.jpg
 logoKey: currencies/kws.jpg
 name: Knight War Spirits
+platform: BNB
+platform_contract: '0x5d0e95c15ca50f13fb86938433269d03112409fe'

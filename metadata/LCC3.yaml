@@ -5,3 +5,5 @@ id_nomics: LCC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LCC3.jpeg
 logoKey: currencies/lcc3.jpeg
 name: Lotus Capital
+platform: BNB
+platform_contract: '0xAe59Cbc550890bC621ef0749D7d841994986Ec51'

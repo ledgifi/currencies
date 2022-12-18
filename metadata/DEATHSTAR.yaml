@@ -5,3 +5,5 @@ id_nomics: DEATHSTAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEATHSTAR.png
 logoKey: currencies/deathstar.png
 name: Darth mOOn
+platform: BNB
+platform_contract: '0xef6f9fc9a499005b8b834e2180513d6231c47658'

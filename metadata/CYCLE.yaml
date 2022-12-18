@@ -5,3 +5,5 @@ id_nomics: CYCLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CYCLE.jpg
 logoKey: currencies/cycle.jpg
 name: UniCycle
+platform: BNB
+platform_contract: '0x5fe2a9183804e8d3094d695cb0610d3e00e1f355'

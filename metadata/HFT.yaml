@@ -7,3 +7,5 @@ id_nomics: HFT6
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20221031/7bcb7043-d345-485c-9cc5-a3b3093459b8.png
 logoKey: currencies/hft.png
 name: Hashflow
+platform: ETH
+platform_contract: '0xb3999f658c0391d94a37f7ff328f3fec942bcadc'

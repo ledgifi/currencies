@@ -5,3 +5,5 @@ id_nomics: DOCTORSHIBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOCTORSHIBA.png
 logoKey: currencies/doctorshiba.png
 name: DoctorShiba
+platform: BNB
+platform_contract: '0xd4ad264b891f26c97cf419955beb0a891e395d80'

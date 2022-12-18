@@ -5,3 +5,5 @@ id_nomics: SCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/sct.jpg
 logoKey: currencies/sct.jpg
 name: Soma Community Token
+platform: ETH
+platform_contract: '0x63b992e6246d88f07fc35a056d2c365e6d441a3d'

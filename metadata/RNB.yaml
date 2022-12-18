@@ -6,3 +6,5 @@ id_nomics: RNB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RNB.jpg
 logoKey: currencies/rnb.jpg
 name: Rentible
+platform: ETH
+platform_contract: '0x2a039b1d9bbdccbb91be28691b730ca893e5e743'

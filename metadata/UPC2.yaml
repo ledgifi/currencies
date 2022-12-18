@@ -5,3 +5,5 @@ id_nomics: UPC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UPC2.jpg
 logoKey: currencies/upc2.jpg
 name: UpCake
+platform: BNB
+platform_contract: '0x945fd7037986bd62d37c6934fc4f397bb0bd3cc8'

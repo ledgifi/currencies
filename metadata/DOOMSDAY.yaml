@@ -5,3 +5,5 @@ id_nomics: DOOMSDAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOOMSDAY.jpg
 logoKey: currencies/doomsday.jpg
 name: Doomsday Tokens
+platform: BNB
+platform_contract: '0xc78aa029eef9a132afe914e80823d8e8d814f66b'

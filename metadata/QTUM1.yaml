@@ -3,3 +3,5 @@ fiat: false
 id: QTUM1
 id_nomics: QTUM1
 name: QTUM-1
+platform: HT
+platform_contract: '0x661fd59102af8d04b0bd604ee4ba217557e1b80b'

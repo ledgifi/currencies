@@ -6,3 +6,5 @@ id_nomics: AWC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AWC.png
 logoKey: currencies/awc.png
 name: Atomic Wallet Coin
+platform: ETH
+platform_contract: '0xad22f63404f7305e4713ccbd4f296f34770513f4'

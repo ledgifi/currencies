@@ -5,3 +5,5 @@ id_nomics: SPTWIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPTWIT.jpg
 logoKey: currencies/sptwit.jpg
 name: SpookyTwitter
+platform: BNB
+platform_contract: '0x280871A6FA50B9374690c35241586d4B8d840984'

@@ -5,3 +5,5 @@ id_nomics: UT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UT3.png
 logoKey: currencies/ut3.png
 name: Unidot
+platform: BNB
+platform_contract: '0xf34c187be220690fa194f99d09ca18712f4bce06'

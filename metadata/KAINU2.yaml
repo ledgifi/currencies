@@ -5,3 +5,5 @@ id_nomics: KAINU2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAINU2.jpg
 logoKey: currencies/kainu2.jpg
 name: Kainu Inu
+platform: BNB
+platform_contract: '0xe26dfa937315592011fa90baf99b164f9f61bd08'

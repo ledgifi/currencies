@@ -6,3 +6,5 @@ id_nomics: THPT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THPT.jpg
 logoKey: currencies/thpt.jpg
 name: HELIO POWER TOKEN
+platform: ETH
+platform_contract: '0x9f58702ef19ebeb76363884362439a8691e3f033'

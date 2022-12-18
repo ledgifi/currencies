@@ -5,3 +5,5 @@ id_nomics: REAL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REAL2.jpg
 logoKey: currencies/real2.jpg
 name: Real Coin
+platform: ETH
+platform_contract: '0x6b4389afb3e243a65668b7311fa9ef092a8a3b64'

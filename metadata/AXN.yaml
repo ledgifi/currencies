@@ -5,3 +5,5 @@ id_nomics: AXN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AXN.png
 logoKey: currencies/axn.png
 name: AXNET Token
+platform: ETH
+platform_contract: '0x304281f3d1023a2039ea930c65f8f721d7c746c8'

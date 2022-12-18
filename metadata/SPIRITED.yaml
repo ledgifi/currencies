@@ -5,3 +5,5 @@ id_nomics: SPIRITED
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPIRITED.png
 logoKey: currencies/spirited.png
 name: Spirited Away
+platform: ETH
+platform_contract: '0x4a7bfaed36d8595db30d63f2a4a8cdbf5aab4dbd'

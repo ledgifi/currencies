@@ -3,3 +3,5 @@ fiat: false
 id: WTRTL
 id_nomics: WTRTL
 name: Wrapped TurtleCoin
+platform: FTM
+platform_contract: '0x6a31aca4d2f7398f04d9b6ffae2d898d9a8e7938'

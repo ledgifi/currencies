@@ -3,3 +3,5 @@ fiat: false
 id: PPOOL
 id_nomics: PPOOL
 name: PartyPool
+platform: ARBETH
+platform_contract: '0x85d35ad7656b608edbe97510b9771afffe461ac8'

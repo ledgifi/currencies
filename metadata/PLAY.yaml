@@ -6,3 +6,5 @@ id_nomics: PLAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLAY.png
 logoKey: currencies/play.png
 name: HeroCoin
+platform: ETH
+platform_contract: '0xe477292f1b3268687a29376116b0ed27a9c76170'

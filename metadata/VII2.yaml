@@ -5,3 +5,5 @@ id_nomics: VII2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VII2.jpg
 logoKey: currencies/vii2.jpg
 name: 7Chain
+platform: ETH
+platform_contract: '0x0d5bb28972e0b2d63732f558b4af265aa5407467'

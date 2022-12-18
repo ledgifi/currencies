@@ -5,3 +5,5 @@ id_nomics: HXB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HXB.png
 logoKey: currencies/hxb.png
 name: hex.bet
+platform: ETH
+platform_contract: '0x9bb6fd000109e24eb38b0deb806382ff9247e478'

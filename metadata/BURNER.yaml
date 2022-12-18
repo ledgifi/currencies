@@ -3,3 +3,5 @@ fiat: false
 id: BURNER
 id_nomics: BURNER
 name: Burnereum
+platform: ETH
+platform_contract: '0xa11fc464ecbdde398a79f89b51def748d0a561bf'

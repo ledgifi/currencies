@@ -5,3 +5,5 @@ id_nomics: VLT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VLT.jpg
 logoKey: currencies/vlt.jpg
 name: Bankroll Vault
+platform: ETH
+platform_contract: '0x6b785a0322126826d8226d77e173d75dafb84d11'

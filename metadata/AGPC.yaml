@@ -6,3 +6,5 @@ id_nomics: AGPC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AGPC.jpg
 logoKey: currencies/agpc.jpg
 name: AGPC
+platform: ETH
+platform_contract: '0x19fdc290974b574065ff8db4303a0b76aecf223e'

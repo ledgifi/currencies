@@ -6,3 +6,5 @@ id_nomics: PIX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/pix.svg
 logoKey: currencies/pix.svg
 name: Lampix
+platform: ETH
+platform_contract: '0x8effd494eb698cc399af6231fccd39e08fd20b15'

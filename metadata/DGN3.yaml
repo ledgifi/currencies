@@ -5,3 +5,5 @@ id_nomics: DGN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DGN3.jpg
 logoKey: currencies/dgn3.jpg
 name: Degen Protocol
+platform: BNB
+platform_contract: '0x72f28c09be1342447fa01ebc76ef508473d08c5c'

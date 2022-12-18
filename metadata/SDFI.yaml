@@ -6,3 +6,5 @@ id_nomics: SDFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SDFI.png
 logoKey: currencies/sdfi.png
 name: StingDefi
+platform: BNB
+platform_contract: '0x250342dd21cae01583e8f3ede4eb64753f665084'

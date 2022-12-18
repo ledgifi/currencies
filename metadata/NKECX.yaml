@@ -5,3 +5,5 @@ id_nomics: NKECX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NKECX.jpg
 logoKey: currencies/nkecx.jpg
 name: NIKE, Inc. Token
+platform: ETH
+platform_contract: '0x0fdc3b843d26f4290597223bbaf24c460091b0c8'

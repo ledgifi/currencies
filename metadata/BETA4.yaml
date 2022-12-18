@@ -5,3 +5,5 @@ id_nomics: BETA4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BETA4.jpg
 logoKey: currencies/beta4.jpg
 name: PolyBeta Finance
+platform: MATIC
+platform_contract: '0xac3090b7042fca2cdbf233022e4a9823a032600c'

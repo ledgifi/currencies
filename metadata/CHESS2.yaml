@@ -5,3 +5,5 @@ id_nomics: CHESS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHESS2.jpg
 logoKey: currencies/chess2.jpg
 name: Chess Coin
+platform: ETH
+platform_contract: '0x5f75112bbb4e1af516fbe3e21528c63da2b6a1a5'

@@ -6,3 +6,5 @@ id_nomics: SWL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWL.png
 logoKey: currencies/swl.png
 name: Swiftlance Token
+platform: ETH
+platform_contract: '0x8cd480260a47f04589670a313d27a15b321ad266'

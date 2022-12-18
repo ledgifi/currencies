@@ -5,3 +5,5 @@ id_nomics: DRINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRINU.png
 logoKey: currencies/drinu.png
 name: Drage Inu
+platform: BNB
+platform_contract: '0x2cce4acc8c3ffd86150e6a3d289450eed5fa6829'

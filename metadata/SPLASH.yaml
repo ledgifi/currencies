@@ -3,3 +3,5 @@ fiat: false
 id: SPLASH
 id_nomics: SPLASH
 name: Splash Network
+platform: BNB
+platform_contract: '0x68991c5251662d04182fccc48501d7261c03d5f8'

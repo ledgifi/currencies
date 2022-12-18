@@ -5,3 +5,5 @@ id_nomics: SPRT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPRT.jpg
 logoKey: currencies/sprt.jpg
 name: Sportium
+platform: ETH
+platform_contract: '0x5ab6a4f46ce182356b6fa2661ed8ebcafce995ad'

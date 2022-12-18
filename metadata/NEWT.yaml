@@ -5,3 +5,5 @@ id_nomics: NEWT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEWT.jpg
 logoKey: currencies/newt.jpg
 name: Eye of Newt
+platform: MATIC
+platform_contract: '0x1346fdb62241e238be9f84a2fc364c0657757015'

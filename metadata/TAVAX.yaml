@@ -3,3 +3,5 @@ fiat: false
 id: TAVAX
 id_nomics: TAVAX
 name: Terrific Protocol Peg-0.01AVAX
+platform: AVAX
+platform_contract: '0x3f84eb8b3c295bc7cad20e8884907f735e9a543e'

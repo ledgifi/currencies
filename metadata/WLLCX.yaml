@@ -5,3 +5,5 @@ id_nomics: WLLCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WLLCX.jpg
 logoKey: currencies/wllcx.jpg
 name: Whiting Petroleum Corporation Token
+platform: ETH
+platform_contract: '0x5c6adf78ea74f057a2e0783ed9d52dba11b225a0'

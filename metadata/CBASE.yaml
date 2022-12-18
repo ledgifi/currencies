@@ -4,3 +4,5 @@ id: CBASE
 id_coinpaprika: cbase-ctena-stablecoin-base
 id_nomics: CBASE
 name: Ctena Stablecoin Base
+platform: BNB
+platform_contract: '0x00ca13fc2b97805849db46547fe991c760c6bd33'

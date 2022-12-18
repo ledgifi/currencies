@@ -5,3 +5,5 @@ id_nomics: TOTO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOTO2.png
 logoKey: currencies/toto2.png
 name: Toto Token
+platform: BNB
+platform_contract: '0x0354fb51714ab7aebe865ba1151ae69b43a67ca5'

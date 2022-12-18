@@ -3,3 +3,5 @@ fiat: false
 id: KYUUBI
 id_nomics: KYUUBI
 name: Kyuubi
+platform: ETH
+platform_contract: '0x75ecf06184c1aeb8e562b878517d5fd4ffa91396'

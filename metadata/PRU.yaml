@@ -3,3 +3,5 @@ fiat: false
 id: PRU
 id_nomics: PRU
 name: Prudential
+platform: ETH
+platform_contract: '0xe18db8a85a9f98bcd0f35133614505e60803f80b'

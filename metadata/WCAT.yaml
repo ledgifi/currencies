@@ -3,3 +3,5 @@ fiat: false
 id: WCAT
 id_nomics: WCAT
 name: Wrapped Cat
+platform: AVAX
+platform_contract: '0x23909d3acb52cdb3daabfc94727499a2b727063c'

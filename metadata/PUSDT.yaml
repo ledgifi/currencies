@@ -3,3 +3,5 @@ fiat: false
 id: PUSDT
 id_nomics: PUSDT
 name: WePiggy USDT
+platform: MATIC
+platform_contract: '0x0c8c1ab017c3c0c8a48dd9f1db2f59022d190f0b'

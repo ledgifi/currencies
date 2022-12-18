@@ -5,3 +5,5 @@ id_nomics: DFM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DFM2.jpg
 logoKey: currencies/dfm2.jpg
 name: DefiBank.Money
+platform: BNB
+platform_contract: '0xd203b8a4e8bb335a73275e3a7e20a61c5908d4d0'

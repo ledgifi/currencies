@@ -6,3 +6,5 @@ id_nomics: UXET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UXET.png
 logoKey: currencies/uxet.png
 name: Unity ETH token
+platform: ETH
+platform_contract: '0x30dfd1e3ba2919d1337512a9f3cf83050fa7b84b'

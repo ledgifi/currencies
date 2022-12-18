@@ -5,3 +5,5 @@ id_nomics: SXMR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SXMR.png
 logoKey: currencies/sxmr.png
 name: sXMR
+platform: ETH
+platform_contract: '0x5299d6f7472dcc137d7f3c4bcfbbb514babf341a'

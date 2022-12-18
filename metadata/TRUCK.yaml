@@ -5,3 +5,5 @@ id_nomics: TRUCK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRUCK.jpg
 logoKey: currencies/truck.jpg
 name: Truck Driver Token
+platform: BNB
+platform_contract: '0xc78475296554ee513b1abb8a7b3a4a14dae5d50a'

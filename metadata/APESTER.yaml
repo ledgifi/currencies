@@ -3,3 +3,5 @@ fiat: false
 id: APESTER
 id_nomics: APESTER
 name: Apester
+platform: ETH
+platform_contract: '0x10d1560578ee9da1036134fc801ba0254291548c'

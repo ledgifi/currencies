@@ -5,3 +5,5 @@ id_nomics: BURNR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BURNR.jpg
 logoKey: currencies/burnr.jpg
 name: Burn Rebalance
+platform: ETH
+platform_contract: '0xce1a728c0a2dfc8e3e01d769ed5efccdd5230f10'

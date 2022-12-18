@@ -6,3 +6,5 @@ id_nomics: PKD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PKD.jpg
 logoKey: currencies/pkd.jpg
 name: Pet Kingdom
+platform: BNB
+platform_contract: '0xa7c97d58cb980a701e3c6e4e6c45554eeb9aa878'

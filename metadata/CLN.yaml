@@ -6,3 +6,5 @@ id_nomics: CLN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/cln.svg
 logoKey: currencies/cln.svg
 name: Colu Local Network
+platform: ETH
+platform_contract: '0x4162178b78d6985480a308b2190ee5517460406d'

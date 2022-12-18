@@ -5,3 +5,5 @@ id_nomics: CLAY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLAY2.png
 logoKey: currencies/clay2.png
 name: ClaySwap
+platform: BNB
+platform_contract: '0xfd54ae2369a3be69d441cacc49f920ffec9068ac'

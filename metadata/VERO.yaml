@@ -6,3 +6,5 @@ id_nomics: VERO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VERO.jpg
 logoKey: currencies/vero.jpg
 name: Vero Farm
+platform: BNB
+platform_contract: '0x0ef008ff963572d3dabc12e222420f537ddabf94'

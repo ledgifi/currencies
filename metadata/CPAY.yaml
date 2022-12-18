@@ -6,3 +6,5 @@ id_nomics: CPAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/cpay.svg
 logoKey: currencies/cpay.svg
 name: Cryptopay
+platform: ETH
+platform_contract: '0x0ebb614204e47c09b6c3feb9aaecad8ee060e23e'

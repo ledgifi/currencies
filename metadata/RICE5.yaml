@@ -5,3 +5,5 @@ id_nomics: RICE5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RICE5.jpg
 logoKey: currencies/rice5.jpg
 name: Rooster Battle
+platform: BNB
+platform_contract: '0x338af54976b9d4f7f41c97dcb60dfec0694149f9'

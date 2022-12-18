@@ -3,3 +3,5 @@ fiat: false
 id: WANO
 id_nomics: WANO
 name: Wano
+platform: ETH
+platform_contract: '0x29324edb76b8e12121a374a65a9bc390f133f859'

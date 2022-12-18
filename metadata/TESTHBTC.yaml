@@ -3,3 +3,5 @@ fiat: false
 id: TESTHBTC
 id_nomics: TESTHBTC
 name: Heco-Peg HBTC Token
+platform: HT
+platform_contract: '0xb08797d4caa2ae8532e89832d870b7d5afc5a6f9'

@@ -5,3 +5,5 @@ id_nomics: INK5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INK5.png
 logoKey: currencies/ink5.png
 name: Ink Finance
+platform: BNB
+platform_contract: '0x3283f61EDb39382d8c24E90966a26F7daD781759'

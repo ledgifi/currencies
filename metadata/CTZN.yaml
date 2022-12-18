@@ -5,3 +5,5 @@ id_nomics: CTZN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTZN.jpg
 logoKey: currencies/ctzn.jpg
 name: Totem Earth Systems
+platform: ETH
+platform_contract: '0xa803778ab953d3ffe4fbd20cfa0042ecefe8319d'

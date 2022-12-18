@@ -5,3 +5,5 @@ id_nomics: YFINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFINU.jpg
 logoKey: currencies/yfinu.jpg
 name: Yearn INU
+platform: ARBETH
+platform_contract: '0x094733c21bcfa9c68b245f7e55ac669cc1498d95'

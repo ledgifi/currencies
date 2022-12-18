@@ -3,3 +3,5 @@ fiat: false
 id: COPY
 id_nomics: COPY
 name: Copier.Finance
+platform: ETH
+platform_contract: '0xc073129dafe8ee37440326bdf29027199b2a6794'

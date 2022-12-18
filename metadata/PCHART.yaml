@@ -5,3 +5,5 @@ id_nomics: PCHART
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PCHART.jpg
 logoKey: currencies/pchart.jpg
 name: Polychart
+platform: MATIC
+platform_contract: '0x771762d0ab8ea6906f3cbc700161ee8e9891bcb9'

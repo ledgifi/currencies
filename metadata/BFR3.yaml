@@ -3,3 +3,5 @@ fiat: false
 id: BFR3
 id_nomics: BFR3
 name: Buffer Token
+platform: ARBETH
+platform_contract: '0x1a5b0aaf478bf1fda7b934c76e7692d722982a6d'

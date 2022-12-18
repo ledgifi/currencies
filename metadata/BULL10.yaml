@@ -5,3 +5,5 @@ id_nomics: BULL10
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BULL10.jpg
 logoKey: currencies/bull10.jpg
 name: BULL Inu
+platform: ETH
+platform_contract: '0xc0e45ec362c8689c016c3327421637844ad7fb64'

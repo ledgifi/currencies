@@ -3,3 +3,5 @@ fiat: false
 id: FLEXUSD2
 id_nomics: FLEXUSD2
 name: flexUSD
+platform: BCH
+platform_contract: '0x7b2b3c5308ab5b2a1d9a94d20d35ccdf61e05b72'

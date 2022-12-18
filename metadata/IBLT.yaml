@@ -5,3 +5,5 @@ id_nomics: IBLT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IBLT.png
 logoKey: currencies/iblt.png
 name: Illuminata BSC Liquidity Token
+platform: BNB
+platform_contract: '0x3851f38ccbe27b865ce5dfc57efd9898e3654404'

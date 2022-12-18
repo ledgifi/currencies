@@ -6,3 +6,5 @@ id_nomics: CADAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CADAX.jpg
 logoKey: currencies/cadax.jpg
 name: Canada Coin
+platform: BNB
+platform_contract: '0x3fd6068e1e85017abedac22b8efefe8a1588678d'

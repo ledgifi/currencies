@@ -5,3 +5,5 @@ id_nomics: MNDAO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MNDAO.jpg
 logoKey: currencies/mndao.jpg
 name: MoonDAO
+platform: BNB
+platform_contract: '0x069b2619eb24367a46fda638bd1b88aa4dad7879'

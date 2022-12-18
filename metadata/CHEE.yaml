@@ -5,3 +5,5 @@ id_nomics: CHEE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHEE.jpg
 logoKey: currencies/chee.jpg
 name: Cheecoin
+platform: BNB
+platform_contract: '0x93e24685e41ca82fd7a66a69c64f3decac789281'

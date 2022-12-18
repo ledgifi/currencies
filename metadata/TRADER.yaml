@@ -3,3 +3,5 @@ fiat: false
 id: TRADER
 id_nomics: TRADER
 name: TraderWallet
+platform: ETH
+platform_contract: '0x063e3f155fecb20fe6a828a05b8ac73c08c40cde'

@@ -6,3 +6,5 @@ id_nomics: HANU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HANU.jpg
 logoKey: currencies/hanu.jpg
 name: Hanu Yokia
+platform: ETH
+platform_contract: '0x72e5390edb7727e3d4e3436451dadaff675dbcc0'

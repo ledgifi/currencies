@@ -6,3 +6,5 @@ id_nomics: FLETA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLETA.jpg
 logoKey: currencies/fleta.jpg
 name: FLETA
+platform: ETH
+platform_contract: '0x7788d759f21f53533051a9ae657fa05a1e068fc6'

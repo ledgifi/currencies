@@ -3,3 +3,5 @@ fiat: false
 id: ITOKEN
 id_nomics: ITOKEN
 name: Helmet.Insure TOKEN long call option strike 0.3 USDT maturity 2021/4/23 13:00 UTC expiry 2021/4/24 1
+platform: BNB
+platform_contract: '0x029a09abe791a3be60aa64d569f4c34890f24097'

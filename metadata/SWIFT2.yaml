@@ -5,3 +5,5 @@ id_nomics: SWIFT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWIFT2.jpeg
 logoKey: currencies/swift2.jpeg
 name: Swift Finance
+platform: AVAX
+platform_contract: '0x0aa4ef05b43700bf4b6e6dc83ea4e9c2cf6af0fa'

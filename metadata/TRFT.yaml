@@ -3,3 +3,5 @@ fiat: false
 id: TRFT
 id_nomics: TRFT
 name: Test Record Fee Token
+platform: BNB
+platform_contract: '0xf6382f59876122d8c8c9c15887b87421a244ca52'

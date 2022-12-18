@@ -6,3 +6,5 @@ id_nomics: TANKS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TANKS.jpg
 logoKey: currencies/tanks.jpg
 name: Tanks
+platform: ETH
+platform_contract: '0xf604d1e51122592e0babe63ac334c0e647222f2d'

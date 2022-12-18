@@ -3,3 +3,5 @@ fiat: false
 id: ECOG9
 id_nomics: ECOG9
 name: EcoG9coin
+platform: ETH
+platform_contract: '0xc0ec8caec55f37d47fbfa595727418868a21fd48'

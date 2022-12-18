@@ -6,3 +6,5 @@ id_nomics: MISHKA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MISHKA.jpg
 logoKey: currencies/mishka.jpg
 name: Mishka Token
+platform: ETH
+platform_contract: '0x976091738973b520a514ea206acdd008a09649de'

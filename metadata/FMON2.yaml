@@ -5,3 +5,5 @@ id_nomics: FMON2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FMON2.png
 logoKey: currencies/fmon2.png
 name: FMONEY FINANCE
+platform: ETH
+platform_contract: '0xd283ec9db7b3094ed5a2c87eb48d54f5fa96e96d'

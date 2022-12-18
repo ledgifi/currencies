@@ -5,3 +5,5 @@ id_nomics: SUPSNAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUPSNAKE.png
 logoKey: currencies/supsnake.png
 name: Super Snake
+platform: BNB
+platform_contract: '0x4606eD7F19695fF8DbBD2C01AEe71F9d5c128e99'

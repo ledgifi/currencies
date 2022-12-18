@@ -5,3 +5,5 @@ id_nomics: SEA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SEA3.jpg
 logoKey: currencies/sea3.jpg
 name: ClosedSea
+platform: BNB
+platform_contract: '0x5b31d474dcadc1c2a1dfc7d4562b2268b0feea43'

@@ -5,3 +5,5 @@ id_nomics: CFO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CFO.jpg
 logoKey: currencies/cfo.jpg
 name: CFO Token
+platform: ETH
+platform_contract: '0x079ca51f7f7bca4b971eb8b6f826d0933ac2bb79'

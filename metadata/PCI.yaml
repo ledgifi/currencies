@@ -5,3 +5,5 @@ id_nomics: PCI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PCI.jpg
 logoKey: currencies/pci.jpg
 name: Paycoin
+platform: ETH
+platform_contract: '0x3c2a309d9005433c1bc2c92ef1be06489e5bf258'

@@ -3,3 +3,5 @@ fiat: false
 id: FUSDPT
 id_nomics: FUSDPT
 name: Fake USD Ponny Token
+platform: MATIC
+platform_contract: '0xf475813c63c06c599c64a9366977149fb867dc59'

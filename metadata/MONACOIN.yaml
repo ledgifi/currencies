@@ -3,3 +3,5 @@ fiat: false
 id: MONACOIN
 id_nomics: MONACOIN
 name: MONA
+platform: BNB
+platform_contract: '0xf32c87268cefc7c713d9028a59c6b8c95ff23e66'

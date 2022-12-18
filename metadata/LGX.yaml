@@ -5,3 +5,5 @@ id_nomics: LGX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LGX.jpg
 logoKey: currencies/lgx.jpg
 name: Logix Coin
+platform: BNB
+platform_contract: '0x110873306cd09f5322c06def4e4a9a70bf4cf668'

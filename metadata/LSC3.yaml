@@ -5,3 +5,5 @@ id_nomics: LSC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LSC3.jpg
 logoKey: currencies/lsc3.jpg
 name: LetStudyCoin
+platform: BNB
+platform_contract: '0x4e854046de30fff5af42a1df55e937fba02a7094'

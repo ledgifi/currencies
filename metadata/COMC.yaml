@@ -6,3 +6,5 @@ id_nomics: COMC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COMC.jpeg
 logoKey: currencies/comc.jpeg
 name: Community Chain
+platform: ETH
+platform_contract: '0xa5e99ad202bdd71d3518306cf4dd163261981af1'

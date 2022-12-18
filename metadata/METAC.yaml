@@ -5,3 +5,5 @@ id_nomics: METAC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAC.jpeg
 logoKey: currencies/metac.jpeg
 name: Metacoms
+platform: BNB
+platform_contract: '0x438d47e1cd28dbb799d002f892bb5ae0be50a90f'

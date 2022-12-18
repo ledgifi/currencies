@@ -6,3 +6,5 @@ id_nomics: MBUD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MBUD.jpg
 logoKey: currencies/mbud.jpg
 name: Moon Bud
+platform: BNB
+platform_contract: '0xbe8183612f145986a41ad8e8fcfefed1c2f9deba'

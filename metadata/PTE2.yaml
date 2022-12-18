@@ -5,3 +5,5 @@ id_nomics: PTE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PTE2.png
 logoKey: currencies/pte2.png
 name: Plan Tech Ecosystem
+platform: BNB
+platform_contract: '0x39d1305F10bF16c472cd39D47003e9779Ae48078'

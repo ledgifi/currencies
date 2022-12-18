@@ -6,3 +6,5 @@ id_nomics: BUDG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUDG.jpg
 logoKey: currencies/budg.jpg
 name: BullDogSwap
+platform: BNB
+platform_contract: '0x446320c9ffa57030ca977a1f90f8049df4004647'

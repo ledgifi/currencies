@@ -3,3 +3,5 @@ fiat: false
 id: BABYATM
 id_nomics: BABYATM
 name: babyATM
+platform: BNB
+platform_contract: '0x7f13c3bb5d3cdd75c9253264d2dc6a779b1b428a'

@@ -5,3 +5,5 @@ id_nomics: GATOR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GATOR.png
 logoKey: currencies/gator.png
 name: Alligator + Fractal Set
+platform: ETH
+platform_contract: '0xf5c0e24aca5217bcbae662871cae1a86873f02db'

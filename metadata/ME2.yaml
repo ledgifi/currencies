@@ -5,3 +5,5 @@ id_nomics: ME2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ME2.jpg
 logoKey: currencies/me2.jpg
 name: MissedEverything
+platform: ETH
+platform_contract: '0xb51feac0cd237084760c24e78aaba5233ce09491'

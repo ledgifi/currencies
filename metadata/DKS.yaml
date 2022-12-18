@@ -6,3 +6,5 @@ id_nomics: DKS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DKS.jpg
 logoKey: currencies/dks.jpg
 name: DarkShield
+platform: BNB
+platform_contract: '0x121235cff4c59eec80b14c1d38b44e7de3a18287'

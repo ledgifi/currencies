@@ -3,3 +3,5 @@ fiat: false
 id: GBPT2
 id_nomics: GBPT2
 name: poundtoken
+platform: ETH
+platform_contract: '0x86b4dbe5d203e634a12364c0e428fa242a3fba98'

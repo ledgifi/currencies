@@ -5,3 +5,5 @@ id_nomics: CEEK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ceek.jpg
 logoKey: currencies/ceek.jpg
 name: CEEK
+platform: ETH
+platform_contract: '0xb056c38f6b7dc4064367403e26424cd2c60655e1'

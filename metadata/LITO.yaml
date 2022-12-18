@@ -5,3 +5,5 @@ id_nomics: LITO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LITO.jpg
 logoKey: currencies/lito.jpg
 name: LITO
+platform: BNB
+platform_contract: '0x8d9bb0226aeb57366b380aea27c362c3446063ce'

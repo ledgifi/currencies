@@ -5,3 +5,5 @@ id_nomics: CORN3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CORN3.jpg
 logoKey: currencies/corn3.jpg
 name: Popcorn Token
+platform: ETH
+platform_contract: '0x3080ec2a6960432f179c66d388099a48e82e2047'

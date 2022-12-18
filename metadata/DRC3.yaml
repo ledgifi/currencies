@@ -5,3 +5,5 @@ id_nomics: DRC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRC3.jpg
 logoKey: currencies/drc3.jpg
 name: DRC Mobility
+platform: ETH
+platform_contract: '0xd7f5cabdf696d7d1bf384d7688926a4bdb092c67'

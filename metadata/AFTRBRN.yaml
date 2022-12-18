@@ -5,3 +5,5 @@ id_nomics: AFTRBRN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AFTRBRN.jpg
 logoKey: currencies/aftrbrn.jpg
 name: AfterBurn
+platform: ETH
+platform_contract: '0xd63a82eefbdc21ed0da37922d61178a05e026109'

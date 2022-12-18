@@ -5,3 +5,5 @@ id_nomics: XNL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XNL2.jpg
 logoKey: currencies/xnl2.jpg
 name: Chronicle [via ChainPort.io]
+platform: BNB
+platform_contract: '0x5f26fa0c2ee5d3c0323d861d0c503f31ac212662'

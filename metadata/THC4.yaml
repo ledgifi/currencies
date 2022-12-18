@@ -5,3 +5,5 @@ id_nomics: THC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THC4.png
 logoKey: currencies/thc4.png
 name: Transhuman Coin
+platform: BNB
+platform_contract: '0x56083560594e314b5cdd1680ec6a493bb851bbd8'

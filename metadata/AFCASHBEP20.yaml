@@ -5,3 +5,5 @@ id_nomics: AFCASHBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AFCASHBEP20.png
 logoKey: currencies/afcashbep20.png
 name: AFRICUNIA BANK (BEP-20)
+platform: BNB
+platform_contract: '0x8ba1940d299d3fd2d64deb9ba8c552940a8c5d3b'

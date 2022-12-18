@@ -5,3 +5,5 @@ id_nomics: FLEPA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLEPA.png
 logoKey: currencies/flepa.png
 name: TriflePay
+platform: BNB
+platform_contract: '0xA2a0BFDDDb395D28e6Ecc398D15CBE4aE5797e45'

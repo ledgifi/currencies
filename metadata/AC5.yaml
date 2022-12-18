@@ -3,3 +3,5 @@ fiat: false
 id: AC5
 id_nomics: AC5
 name: AirCarCoin
+platform: BNB
+platform_contract: '0x2c0d29881cad385889787d8e8519912dded0cfcb'

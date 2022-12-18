@@ -3,3 +3,5 @@ fiat: false
 id: HYDROGENMOLECULE
 id_nomics: HYDROGENMOLECULE
 name: hydrogen molecule
+platform: BNB
+platform_contract: '0x1482ef960bfc30339c6ceac03e2d364645d39477'

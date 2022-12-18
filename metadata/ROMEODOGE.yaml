@@ -6,3 +6,5 @@ id_nomics: ROMEODOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROMEODOGE.jpg
 logoKey: currencies/romeodoge.jpg
 name: Romeo Doge
+platform: BNB
+platform_contract: '0x3ce9f4e83ec642e6ae25169061120d4d157256ef'

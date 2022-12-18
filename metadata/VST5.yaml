@@ -3,3 +3,5 @@ fiat: false
 id: VST5
 id_nomics: VST5
 name: Vesta Stable
+platform: ARBETH
+platform_contract: '0x64343594ab9b56e99087bfa6f2335db24c2d1f17'

@@ -3,3 +3,5 @@ fiat: false
 id: USDME
 id_nomics: USDME
 name: MetaDollar
+platform: BNB
+platform_contract: '0x6df88d840f7f871e493779e7cb3fd13805defed6'

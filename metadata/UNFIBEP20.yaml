@@ -5,3 +5,5 @@ id_nomics: UNFIBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNFIBEP20.jpg
 logoKey: currencies/unfibep20.jpg
 name: Unifi Protocol DAO (BEP-20)
+platform: BNB
+platform_contract: '0x728c5bac3c3e370e372fc4671f9ef6916b814d8b'

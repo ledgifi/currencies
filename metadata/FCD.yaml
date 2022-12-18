@@ -5,3 +5,5 @@ id_nomics: FCD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FCD.jpg
 logoKey: currencies/fcd.jpg
 name: Future Cash Digital
+platform: ETH
+platform_contract: '0x74db83feba1574fec860413eb509d1ddfb1b730b'

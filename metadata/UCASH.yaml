@@ -5,3 +5,5 @@ id_nomics: UCASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UCASH.png
 logoKey: currencies/ucash.png
 name: U.CASH
+platform: ETH
+platform_contract: '0x92e52a1a235d9a103d970901066ce910aacefd37'

@@ -5,3 +5,5 @@ id_nomics: XTRL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XTRL.jpg
 logoKey: currencies/xtrl.jpg
 name: TurkeyEnergyToken
+platform: ETH
+platform_contract: '0x347a39127ae0730817b0caf177c4684e16a038fc'

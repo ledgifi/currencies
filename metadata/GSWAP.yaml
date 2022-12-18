@@ -6,3 +6,5 @@ id_nomics: GSWAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GSWAP.jpg
 logoKey: currencies/gswap.jpg
 name: Gameswap
+platform: ETH
+platform_contract: '0xaac41ec512808d64625576eddd580e7ea40ef8b2'

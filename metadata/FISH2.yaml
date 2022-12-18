@@ -5,3 +5,5 @@ id_nomics: FISH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FISH2.jpg
 logoKey: currencies/fish2.jpg
 name: Polycat Finance
+platform: MATIC
+platform_contract: '0x3a3df212b7aa91aa0402b9035b098891d276572b'

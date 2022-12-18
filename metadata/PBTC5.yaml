@@ -3,3 +3,5 @@ fiat: false
 id: PBTC5
 id_nomics: PBTC5
 name: pTokens BTC V2
+platform: ETH
+platform_contract: '0x62199b909fb8b8cf870f97bef2ce6783493c4908'

@@ -6,3 +6,5 @@ id_nomics: KINTA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KINTA.jpg
 logoKey: currencies/kinta.jpg
 name: Kintaman
+platform: BNB
+platform_contract: '0x0c16eb01908aa99c78a62f9e1732c1927c2dfb25'

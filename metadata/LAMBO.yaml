@@ -3,3 +3,5 @@ fiat: false
 id: LAMBO
 id_nomics: LAMBO
 name: Lambo Coin
+platform: ETH
+platform_contract: '0x59b8d11d50ab6615f9cd430743baf646fb8966c6'

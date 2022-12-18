@@ -6,3 +6,5 @@ id_nomics: HOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOGE.jpg
 logoKey: currencies/hoge.jpg
 name: Hoge Finance
+platform: ETH
+platform_contract: '0xfad45e47083e4607302aa43c65fb3106f1cd7607'

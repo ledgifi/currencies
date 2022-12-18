@@ -3,3 +3,5 @@ fiat: false
 id: ETH2X
 id_nomics: ETH2X
 name: ETH 2X Leverage Index
+platform: MATIC
+platform_contract: '0x3b5ca99a818cf3bbfa9478e4aafbb0ff414674f8'

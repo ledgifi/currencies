@@ -5,3 +5,5 @@ id_nomics: JEFF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JEFF2.jpg
 logoKey: currencies/jeff2.jpg
 name: Jeff in Space
+platform: ETH
+platform_contract: '0xa10a210c27c86f8c63825096e34f671fd61041b1'

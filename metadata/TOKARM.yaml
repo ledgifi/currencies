@@ -5,3 +5,5 @@ id_nomics: TOKARM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOKARM.png
 logoKey: currencies/tokarm.png
 name: Token Armenia
+platform: BNB
+platform_contract: '0x1c25263f4af2d8ecafbec2507b3d8ef87e4e2de8'

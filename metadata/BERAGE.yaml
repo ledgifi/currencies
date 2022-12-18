@@ -6,3 +6,5 @@ id_nomics: BERAGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BERAGE.jpg
 logoKey: currencies/berage.jpg
 name: Metabullrage
+platform: BNB
+platform_contract: '0xcfd3eaa8ae0a44b48e4be808078db4895ac8a2de'

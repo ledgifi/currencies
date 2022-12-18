@@ -5,3 +5,5 @@ id_nomics: KBOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KBOT.jpg
 logoKey: currencies/kbot.jpg
 name: Korbot
+platform: ETH
+platform_contract: '0xcd64aa18ddbce84411adbfe6da49354ba5187a45'

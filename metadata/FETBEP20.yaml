@@ -5,3 +5,5 @@ id_nomics: FETBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FETBEP20.jpg
 logoKey: currencies/fetbep20.jpg
 name: Fetch (BEP-20)
+platform: BNB
+platform_contract: '0x031b41e504677879370e9dbcf937283a8691fa7f'

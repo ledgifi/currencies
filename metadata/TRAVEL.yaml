@@ -6,3 +6,5 @@ id_nomics: TRAVEL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRAVEL.png
 logoKey: currencies/travel.png
 name: Travel Care
+platform: BNB
+platform_contract: '0x5c501ceb257700fccd33c53feec9f96eda583dd7'

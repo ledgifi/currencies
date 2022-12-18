@@ -5,3 +5,5 @@ id_nomics: BFK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BFK.jpg
 logoKey: currencies/bfk.jpg
 name: BabyFortKnox
+platform: BNB
+platform_contract: '0xad982b80c16816252a1c0cb0f66f0fac91a0d7aa'

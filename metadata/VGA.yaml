@@ -6,3 +6,5 @@ id_nomics: VGA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VGA.jpg
 logoKey: currencies/vga.jpg
 name: Vegaswap
+platform: BNB
+platform_contract: '0x4efdfe8ffaff109451fc306e0b529b088597dd8d'

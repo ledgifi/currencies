@@ -5,3 +5,5 @@ id_nomics: KITKAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KITKAT.png
 logoKey: currencies/kitkat.png
 name: Kitto Katsu
+platform: BNB
+platform_contract: '0xa613e4494dbb08fd5012b97de1094088d6966416'

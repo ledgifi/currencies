@@ -5,3 +5,5 @@ id_nomics: MFC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MFC5.jpg
 logoKey: currencies/mfc5.jpg
 name: Meta Fight Club
+platform: BNB
+platform_contract: '0x9af535893fd681b675c39c1eb9d8be89d4fc8683'

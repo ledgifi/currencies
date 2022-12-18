@@ -5,3 +5,5 @@ id_nomics: FLOKIRICH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKIRICH.jpeg
 logoKey: currencies/flokirich.jpeg
 name: Floki Rich Moon
+platform: BNB
+platform_contract: '0x02e5dcff0b06f3aac19673486d136443d9841d31'

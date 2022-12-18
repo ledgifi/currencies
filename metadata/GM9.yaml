@@ -5,3 +5,5 @@ id_nomics: GM9
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GM9.jpg
 logoKey: currencies/gm9.jpg
 name: Google Metaverse
+platform: BNB
+platform_contract: '0xa3e78761975d1e225f15ba7d27b213d252298f2c'

@@ -6,3 +6,5 @@ id_nomics: MCAP
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/mcap.svg
 logoKey: currencies/mcap.svg
 name: MCAP
+platform: ETH
+platform_contract: '0x93e682107d1e9defb0b5ee701c71707a4b2e46bc'

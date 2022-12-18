@@ -6,3 +6,5 @@ id_nomics: OWN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OWN.png
 logoKey: currencies/own.png
 name: OwnData
+platform: ETH
+platform_contract: '0x170b275ced089fffaebfe927f445a350ed9160dc'

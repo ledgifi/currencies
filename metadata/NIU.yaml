@@ -5,3 +5,5 @@ id_nomics: NIU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NIU.jpg
 logoKey: currencies/niu.jpg
 name: Niubiswap
+platform: BNB
+platform_contract: '0xfa90d5d5ff08d9a06c9fdf89b4b22217b9dbc418'

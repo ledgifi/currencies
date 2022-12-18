@@ -3,3 +3,5 @@ fiat: false
 id: STABLESHIB
 id_nomics: STABLESHIB
 name: Stable Shiba
+platform: ETH
+platform_contract: '0xa61c7daa26b64b53de9c187b4c1a80899de7cb87'

@@ -5,3 +5,5 @@ id_nomics: CTNR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTNR.png
 logoKey: currencies/ctnr.png
 name: Containercoin
+platform: BNB
+platform_contract: '0x3bfA77ac62Fc2CA7a31655eF3c92A865e615ef68'

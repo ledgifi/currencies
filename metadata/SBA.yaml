@@ -5,3 +5,5 @@ id_nomics: SBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/sba.jpg
 logoKey: currencies/sba.jpg
 name: simplyBrand
+platform: ETH
+platform_contract: '0xecb8f588eaf5a8ce9d964b0acece5d954e130e2f'

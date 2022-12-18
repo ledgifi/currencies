@@ -5,3 +5,5 @@ id_nomics: NAFTY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NAFTY.jpg
 logoKey: currencies/nafty.jpg
 name: Nafty V1 (OLD)
+platform: BNB
+platform_contract: '0x18c5fac26c5d8b859b3a83f0f167d8924098d28a'

@@ -3,3 +3,5 @@ fiat: false
 id: FUNGUY
 id_nomics: FUNGUY
 name: FUNGUY
+platform: ETH
+platform_contract: '0x23bc6f08bd5f4850aa27b323f0b29640e0dd1d07'

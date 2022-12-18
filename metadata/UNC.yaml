@@ -5,3 +5,5 @@ id_nomics: UNC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNC.png
 logoKey: currencies/unc.png
 name: Unigame
+platform: ETH
+platform_contract: '0x4dcadd9adfd450c2ef997bb71888c2995e2d33a0'

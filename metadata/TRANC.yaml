@@ -3,3 +3,5 @@ fiat: false
 id: TRANC
 id_nomics: TRANC
 name: TranCoin
+platform: BNB
+platform_contract: '0x37cf6052878e06a1eb577fe7a946e6ad3d3bba27'

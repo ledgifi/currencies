@@ -5,3 +5,5 @@ id_nomics: CARCADE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CARCADE.jpg
 logoKey: currencies/carcade.jpg
 name: Crypto Arcade Punk
+platform: BNB
+platform_contract: '0x0b8138e73b55e8e4eb8be3ab9862ebfeae262ea5'

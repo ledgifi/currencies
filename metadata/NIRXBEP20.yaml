@@ -5,3 +5,5 @@ id_nomics: NIRXBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NIRXBEP20.jpg
 logoKey: currencies/nirxbep20.jpg
 name: Naira X Token (BEP-20)
+platform: BNB
+platform_contract: '0xfa577302616648c51bb1b4b1dcb870ba107e1c24'

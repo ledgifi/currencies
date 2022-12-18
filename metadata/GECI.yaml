@@ -3,3 +3,5 @@ fiat: false
 id: GECI
 id_nomics: GECI
 name: Geci Token
+platform: MATIC
+platform_contract: '0xc27a1b292926fe3d1711cdd9dad6bcab953a07b3'

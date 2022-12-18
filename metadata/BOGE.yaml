@@ -5,3 +5,5 @@ id_nomics: BOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOGE.jpg
 logoKey: currencies/boge.jpg
 name: BOGECOIN
+platform: BNB
+platform_contract: '0x248c45af3b2f73bc40fa159f2a90ce9cad7a77ba'

@@ -5,3 +5,5 @@ id_nomics: NYETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NYETH.jpg
 logoKey: currencies/nyeth.jpg
 name: NYETH
+platform: ETH
+platform_contract: '0x4bc932c0e444b3fdf6c6187ae78d33f20383626a'

@@ -5,3 +5,5 @@ id_nomics: DRC6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRC6.jpg
 logoKey: currencies/drc6.jpg
 name: DRCOIN
+platform: BNB
+platform_contract: '0xdcee57e69e1804dd4d64e4de8d0aadef019d87d5'

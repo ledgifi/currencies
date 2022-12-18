@@ -3,3 +3,5 @@ fiat: false
 id: PIPE
 id_nomics: PIPE
 name: pipe
+platform: HT
+platform_contract: '0x10fc9968d9c36a06eb08c5a81b7343431124e337'

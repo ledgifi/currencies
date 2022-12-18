@@ -6,3 +6,5 @@ id_nomics: HDOG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HDOG.jpeg
 logoKey: currencies/hdog.jpeg
 name: Husky Inu
+platform: BNB
+platform_contract: '0xefbe4aa6e7369556ed7741c57b7c92b7adb8a81a'

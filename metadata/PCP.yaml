@@ -3,3 +3,5 @@ fiat: false
 id: PCP
 id_nomics: PCP
 name: Perceptron
+platform: BNB
+platform_contract: '0x8db322707db153c1df2b51c08e3f868159a507c6'

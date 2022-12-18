@@ -5,3 +5,5 @@ id_nomics: MWAR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MWAR2.jpeg
 logoKey: currencies/mwar2.jpeg
 name: MemeWars
+platform: BNB
+platform_contract: '0x9f28455a82baa6b4923a5e2d7624aaf574182585'

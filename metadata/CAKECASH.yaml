@@ -3,3 +3,5 @@ fiat: false
 id: CAKECASH
 id_nomics: CAKECASH
 name: Cake Cash
+platform: BNB
+platform_contract: '0x0769feb4d68a2bef7bccfaeace5db80c67475d13'

@@ -6,3 +6,5 @@ id_nomics: CHAINCADE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHAINCADE.png
 logoKey: currencies/chaincade.png
 name: ChainCade
+platform: BNB
+platform_contract: '0x2ffee7b4df74f7c6508a4af4d6d91058da5420d0'

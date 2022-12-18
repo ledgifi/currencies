@@ -5,3 +5,5 @@ id_nomics: QUA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QUA.jpg
 logoKey: currencies/qua.jpg
 name: Quasacoin
+platform: ETH
+platform_contract: '0x4daeb4a06f70f4b1a5c329115731fe4b89c0b227'

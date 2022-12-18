@@ -5,3 +5,5 @@ id_nomics: CTB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTB2.jpg
 logoKey: currencies/ctb2.jpg
 name: Cointribute
+platform: BNB
+platform_contract: '0xa2bea3254001f3ab2bae11c314b7c1024ad86100'

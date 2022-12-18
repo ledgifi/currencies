@@ -5,3 +5,5 @@ id_nomics: DCU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DCU.jpg
 logoKey: currencies/dcu.jpg
 name: Decentralized United
+platform: BNB
+platform_contract: '0x720edfebcd719b21b8d7c8bf8f3dd8cea8c8a11c'

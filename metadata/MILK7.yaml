@@ -5,3 +5,5 @@ id_nomics: MILK7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MILK7.png
 logoKey: currencies/milk7.png
 name: Milk Protocol
+platform: BNB
+platform_contract: '0x8e9f5173e16ff93f81579d73a7f9723324d6b6af'

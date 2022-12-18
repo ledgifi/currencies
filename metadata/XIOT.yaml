@@ -6,3 +6,5 @@ id_nomics: XIOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XIOT.jpg
 logoKey: currencies/xiot.jpg
 name: Xiotri
+platform: ETH
+platform_contract: '0x31024a4c3e9aeeb256b825790f5cb7ac645e7cd5'

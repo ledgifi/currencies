@@ -5,3 +5,5 @@ id_nomics: BTCBRXDAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCBRXDAI.jpeg
 logoKey: currencies/btcbrxdai.jpeg
 name: Bitcoin BR (xDai)
+platform: XDAI
+platform_contract: '0xa899e4476FF5dA39Dcd9DDEC7a6e2C651d8614Bf'

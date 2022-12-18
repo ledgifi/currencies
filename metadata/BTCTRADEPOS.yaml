@@ -5,3 +5,5 @@ id_nomics: BTCTRADEPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCTRADEPOS.png
 logoKey: currencies/btctradepos.png
 name: Bitcoin Trade (Polygon)
+platform: MATIC
+platform_contract: '0x72d731804fb41d3e982d4b7e7e2c4642b3995651'

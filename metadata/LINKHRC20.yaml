@@ -3,3 +3,5 @@ fiat: false
 id: LINKHRC20
 id_nomics: LINKHRC20
 name: Heco-Peg LINK Token
+platform: HT
+platform_contract: '0x9e004545c59d359f6b7bfb06a26390b087717b42'

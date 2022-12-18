@@ -5,3 +5,5 @@ id_nomics: SQINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SQINU.jpeg
 logoKey: currencies/sqinu.jpeg
 name: Squirrel Inu
+platform: BNB
+platform_contract: '0x005537835409a0A99ecd4629809237EFa5c926d1'

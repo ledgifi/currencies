@@ -3,3 +3,5 @@ fiat: false
 id: WTFC
 id_nomics: WTFC
 name: Wrapped TFC
+platform: MATIC
+platform_contract: '0xaeb3e641ec85517a63604cb13fce73ba22fcc827'

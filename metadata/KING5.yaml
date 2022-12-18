@@ -3,3 +3,5 @@ fiat: false
 id: KING5
 id_nomics: KING5
 name: KingToken
+platform: BNB
+platform_contract: '0xde4e179cc1d3b298216b96893767b9b01a6bc413'

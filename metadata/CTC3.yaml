@@ -3,3 +3,5 @@ fiat: false
 id: CTC3
 id_nomics: CTC3
 name: CTC
+platform: ETH
+platform_contract: '0x6378930da9be7c90d824d7f113974741644d62da'

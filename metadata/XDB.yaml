@@ -6,3 +6,5 @@ id_nomics: XDB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XDB.jpg
 logoKey: currencies/xdb.jpg
 name: DigitalBits
+platform: ETH
+platform_contract: '0xb9eefc4b0d472a44be93970254df4f4016569d27'

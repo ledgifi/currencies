@@ -5,3 +5,5 @@ id_nomics: DOGGYM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGGYM.jpeg
 logoKey: currencies/doggym.jpeg
 name: Doggy Meme
+platform: BNB
+platform_contract: '0x5f26006cb6a30b9b01f5165dcdf6f1efb96a25b4'

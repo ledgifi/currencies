@@ -5,3 +5,5 @@ id_nomics: VELOBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VELOBEP20.jpg
 logoKey: currencies/velobep20.jpg
 name: Velo (BEP-20)
+platform: BNB
+platform_contract: '0xf486ad071f3bee968384d2e39e2d8af0fcf6fd46'

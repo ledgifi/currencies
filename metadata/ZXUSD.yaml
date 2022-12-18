@@ -3,3 +3,5 @@ fiat: false
 id: ZXUSD
 id_nomics: ZXUSD
 name: ZxUSD
+platform: MATIC
+platform_contract: '0xb2292580da060611621eae62d4d43d56b67adc2a'

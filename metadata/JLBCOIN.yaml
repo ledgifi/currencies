@@ -3,3 +3,5 @@ fiat: false
 id: JLBCOIN
 id_nomics: JLBCOIN
 name: JLB
+platform: HT
+platform_contract: '0x81a7e4501e10514d14ea885a8183fd58e9edbebd'

@@ -6,3 +6,5 @@ id_nomics: EGOH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EGOH.jpg
 logoKey: currencies/egoh.jpg
 name: EGOH Finance
+platform: BNB
+platform_contract: '0x147e81789bbdc9820da35cc613cf10c0b2d06399'

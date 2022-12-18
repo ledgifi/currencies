@@ -3,3 +3,5 @@ fiat: false
 id: WHT2
 id_nomics: WHT2
 name: Wrapped Huobi Token
+platform: HT
+platform_contract: '0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f'

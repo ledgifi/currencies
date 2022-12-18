@@ -5,3 +5,5 @@ id_nomics: SCAKE5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCAKE5.png
 logoKey: currencies/scake5.png
 name: Spooky Cake
+platform: BNB
+platform_contract: '0x7fd0f857d372bdc6b3a026552b067241d19d676a'

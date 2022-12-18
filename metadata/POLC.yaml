@@ -6,3 +6,5 @@ id_nomics: POLC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POLC.jpg
 logoKey: currencies/polc.jpg
 name: Polka City
+platform: ETH
+platform_contract: '0xaa8330fb2b4d5d07abfe7a72262752a8505c6b37'

@@ -5,3 +5,5 @@ id_nomics: FMC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FMC3.jpg
 logoKey: currencies/fmc3.jpg
 name: Fast Meta Coin
+platform: BNB
+platform_contract: '0x8191c2501ca51da7a2a5007Ba935AdDDdfdb822F'

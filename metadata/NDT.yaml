@@ -5,3 +5,5 @@ id_nomics: NDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NDT.png
 logoKey: currencies/ndt.png
 name: nDEX Network Coin
+platform: ETH
+platform_contract: '0x479eccecde65e3350d4b2305e42026f6dbae4a18'

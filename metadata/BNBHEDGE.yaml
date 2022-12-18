@@ -3,3 +3,5 @@ fiat: false
 id: BNBHEDGE
 id_nomics: BNBHEDGE
 name: 1X Short BNB Token
+platform: ETH
+platform_contract: '0x2840ad41cf25ad58303ba24c416e79dce4161b4f'

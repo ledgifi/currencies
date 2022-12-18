@@ -5,3 +5,5 @@ id_nomics: HOKU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOKU.jpg
 logoKey: currencies/hoku.jpg
 name: hokusai coin
+platform: BNB
+platform_contract: '0x5db740521b62c4112110288a527a3ac2c2bfe93e'

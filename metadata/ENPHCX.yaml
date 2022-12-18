@@ -5,3 +5,5 @@ id_nomics: ENPHCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ENPHCX.jpg
 logoKey: currencies/enphcx.jpg
 name: Enphase Energy, Inc.
+platform: ETH
+platform_contract: '0x951f098ddec80927a845ac3ec31cd79b31524ffe'

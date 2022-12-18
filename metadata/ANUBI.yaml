@@ -3,3 +3,5 @@ fiat: false
 id: ANUBI
 id_nomics: ANUBI
 name: AnubiCoin
+platform: BNB
+platform_contract: '0xab844d316b5a5093b7e7edde11cc08becca36d1c'

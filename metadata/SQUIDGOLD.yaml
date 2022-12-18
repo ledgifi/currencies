@@ -5,3 +5,5 @@ id_nomics: SQUIDGOLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SQUIDGOLD.jpg
 logoKey: currencies/squidgold.jpg
 name: Squid Gold
+platform: BNB
+platform_contract: '0x9f337f31d89b74335de195bc02517a3641834494'

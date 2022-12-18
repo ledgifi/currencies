@@ -5,3 +5,5 @@ id_nomics: QB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QB.jpg
 logoKey: currencies/qb.jpg
 name: Quick Bounty
+platform: BNB
+platform_contract: '0x4ccbe073a58a574cac3ee69649e44728d2e2554c'

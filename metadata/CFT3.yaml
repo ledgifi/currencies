@@ -5,3 +5,5 @@ id_nomics: CFT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CFT3.jpg
 logoKey: currencies/cft3.jpg
 name: Coffee Token
+platform: ETH
+platform_contract: '0x5BF2390A68ab7Db7d27Ae81894C4E22E669aF236'

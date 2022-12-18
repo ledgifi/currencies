@@ -5,3 +5,5 @@ id_nomics: PRTWF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRTWF.png
 logoKey: currencies/prtwf.png
 name: PirateWoof
+platform: BNB
+platform_contract: '0xe02aedee61951eae37553d0bf624667ef710aca3'

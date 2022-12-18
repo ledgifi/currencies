@@ -5,3 +5,5 @@ id_nomics: CSNP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CSNP.jpg
 logoKey: currencies/csnp.jpg
 name: CrowdSaleNetworkPlatform
+platform: ETH
+platform_contract: '0x96ee9b27f822d71ae9cbf06773a878b41308c396'

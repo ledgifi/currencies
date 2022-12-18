@@ -5,3 +5,5 @@ id_nomics: CYBERDOGE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CYBERDOGE2.jpg
 logoKey: currencies/cyberdoge2.jpg
 name: CyberDoge
+platform: MATIC
+platform_contract: '0x6445b5459c53c9c58b529f7bc4b70a28452c2a10'

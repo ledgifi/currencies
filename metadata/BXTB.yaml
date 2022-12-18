@@ -3,3 +3,5 @@ fiat: false
 id: BXTB
 id_nomics: BXTB
 name: BXTB PoC Utility Token
+platform: ETH
+platform_contract: '0x7ba9caa5d19002618f1d93e691490377361d5e60'

@@ -5,3 +5,5 @@ id_nomics: SXI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SXI.jpg
 logoKey: currencies/sxi.jpg
 name: SafeXI
+platform: BNB
+platform_contract: '0xa327179d47fad68d09e4501a838daaaf74fabb7c'

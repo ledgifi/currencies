@@ -5,3 +5,5 @@ id_nomics: PISSBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PISSBEP20.png
 logoKey: currencies/pissbep20.png
 name: PISSCOIN (BEP-20)
+platform: BNB
+platform_contract: '0x41aFc4220b08D1F336eACf231cd8Ce5C7e7fB9c9'

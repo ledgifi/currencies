@@ -5,3 +5,5 @@ id_nomics: ZOMBIE5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZOMBIE5.jpg
 logoKey: currencies/zombie5.jpg
 name: ZOMBIE RUNNER
+platform: BNB
+platform_contract: '0x5fe5d18c45b6351144a5dce1e31751ea20352f35'

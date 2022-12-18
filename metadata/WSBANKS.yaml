@@ -5,3 +5,5 @@ id_nomics: WSBANKS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WSBANKS.jpeg
 logoKey: currencies/wsbanks.jpeg
 name: Wall Street Banks
+platform: BNB
+platform_contract: '0x2ECE744f65d868a1Dc3205bF3e2bAe5c63B8417E'

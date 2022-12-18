@@ -5,3 +5,5 @@ id_nomics: DAISY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAISY.jpg
 logoKey: currencies/daisy.jpg
 name: DAISY
+platform: ETH
+platform_contract: '0x40955d77f87123b71b145098358a60573ac7be96'

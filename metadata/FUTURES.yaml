@@ -3,3 +3,5 @@ fiat: false
 id: FUTURES
 id_nomics: FUTURES
 name: Futures Protocol
+platform: ARBETH
+platform_contract: '0x6a1703060ba6c15bcc988f6ab6580697879e775f'

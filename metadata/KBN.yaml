@@ -5,3 +5,5 @@ id_nomics: KBN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KBN.jpg
 logoKey: currencies/kbn.jpg
 name: Koban
+platform: BNB
+platform_contract: '0x030708208dc29b1688b212081f31cdb59097a67d'

@@ -5,3 +5,5 @@ id_nomics: SCRV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCRV.png
 logoKey: currencies/scrv.png
 name: Synth sCRV
+platform: ETH
+platform_contract: '0xd38aeb759891882e78e957c80656572503d8c1b1'

@@ -5,3 +5,5 @@ id_nomics: EDGELON2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EDGELON2.png
 logoKey: currencies/edgelon2.png
 name: Edgelon V2
+platform: MATIC
+platform_contract: '0xe8b298d3a0523c46b58aaa04b9efb34ebe809390'

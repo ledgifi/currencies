@@ -5,3 +5,5 @@ id_nomics: BILLCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BILLCX.jpg
 logoKey: currencies/billcx.jpg
 name: Bill.com Token
+platform: ETH
+platform_contract: '0xe60573eee9daff7a1ab1540b81b08cf2a3d51611'

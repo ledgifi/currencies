@@ -7,3 +7,5 @@ id_nomics: ETHBNT
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201016/9798f4a0-4008-4fbb-8792-22b82fa34454.png
 logoKey: currencies/ethbnt.png
 name: BNT Smart Token Relay
+platform: ETH
+platform_contract: '0xb1cd6e4153b2a390cf00a6556b0fc1458c4a5533'

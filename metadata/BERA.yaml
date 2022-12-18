@@ -5,3 +5,5 @@ id_nomics: BERA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BERA.png
 logoKey: currencies/bera.png
 name: Bera
+platform: BNB
+platform_contract: '0xa76a484658192cac6a0b7d135699be2c480929ab'

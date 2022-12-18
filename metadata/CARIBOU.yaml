@@ -5,3 +5,5 @@ id_nomics: CARIBOU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CARIBOU.jpeg
 logoKey: currencies/caribou.jpeg
 name: Caribou
+platform: FTM
+platform_contract: '0x2dba3ea510cf7bfccc9c185b7c9094d687ade503'

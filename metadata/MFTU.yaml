@@ -6,3 +6,5 @@ id_nomics: MFTU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/mftu.jpg
 logoKey: currencies/mftu.jpg
 name: Mainstream For The Underground
+platform: ETH
+platform_contract: '0xba745513acebcbb977497c569d4f7d340f2a936b'

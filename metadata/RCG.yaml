@@ -6,3 +6,5 @@ id_nomics: RCG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RCG.png
 logoKey: currencies/rcg.png
 name: Recharge
+platform: ETH
+platform_contract: '0xe74be071f3b62f6a4ac23ca68e5e2a39797a3c30'

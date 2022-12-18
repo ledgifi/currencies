@@ -6,3 +6,5 @@ id_nomics: CATDAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CATDAD.jpeg
 logoKey: currencies/catdad.jpeg
 name: CatDad
+platform: BNB
+platform_contract: '0xb6059faf51d166f24e69ac7d70a311ad3d112c15'

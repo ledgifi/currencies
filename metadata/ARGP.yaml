@@ -5,3 +5,5 @@ id_nomics: ARGP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARGP.jpg
 logoKey: currencies/argp.jpg
 name: ArgenPeso
+platform: ETH
+platform_contract: '0x29917c3b1c2b4779a7b61f08d98b3da0fcf3b6a4'

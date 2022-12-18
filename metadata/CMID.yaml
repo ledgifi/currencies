@@ -5,3 +5,5 @@ id_nomics: CMID
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CMID.jpg
 logoKey: currencies/cmid.jpg
 name: CREATIVE MEDIA INITIATIVE
+platform: ETH
+platform_contract: '0xacb53386b1c8015ae9352c8482d10c0d4a03c38a'

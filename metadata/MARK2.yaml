@@ -5,3 +5,5 @@ id_nomics: MARK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MARK2.jpg
 logoKey: currencies/mark2.jpg
 name: Benchmark Protocol
+platform: ETH
+platform_contract: '0x67c597624b17b16fb77959217360b7cd18284253'

@@ -5,3 +5,5 @@ id_nomics: GLPGCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GLPGCX.jpg
 logoKey: currencies/glpgcx.jpg
 name: Galapagos NV Token
+platform: ETH
+platform_contract: '0x7c0382583bc52d677d17e205665979ca75aa724a'

@@ -6,3 +6,5 @@ id_nomics: KP3RB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KP3RB.jpg
 logoKey: currencies/kp3rb.jpg
 name: Keep3r BSC Network
+platform: BNB
+platform_contract: '0x5ea29eee799aa7cc379fde5cf370bc24f2ea7c81'

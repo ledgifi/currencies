@@ -6,3 +6,5 @@ id_nomics: MOOND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOOND.png
 logoKey: currencies/moond.png
 name: MoonsDust
+platform: BNB
+platform_contract: '0x6ca5fac496bf94345958635e6e6171dfe78f36bb'

@@ -6,3 +6,5 @@ id_nomics: XCV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XCV.jpg
 logoKey: currencies/xcv.jpg
 name: XCarnival
+platform: BNB
+platform_contract: '0x4be63a9b26ee89b9a3a13fd0aa1d0b2427c135f8'

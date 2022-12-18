@@ -3,3 +3,5 @@ fiat: false
 id: CATTLE
 id_nomics: CATTLE
 name: cattle Coin
+platform: HT
+platform_contract: '0x892e9d896c3061d997e5c4da5a497bf4a8d29d99'

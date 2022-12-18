@@ -6,3 +6,5 @@ id_nomics: WDGLD
 logo: https://static.coinpaprika.com/coin/wdgld-wrapped-dgld/logo.png
 logoKey: currencies/wdgld.png
 name: Wrapped-DGLD
+platform: ETH
+platform_contract: '0x123151402076fc819b7564510989e475c9cd93ca'

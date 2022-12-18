@@ -5,3 +5,5 @@ id_nomics: BKU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BKU.jpg
 logoKey: currencies/bku.jpg
 name: Blocktek University
+platform: ETH
+platform_contract: '0x60b5aa3334185d72eed79ac5ffc9870e98f502eb'

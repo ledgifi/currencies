@@ -5,3 +5,5 @@ id_nomics: TKG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TKG2.jpeg
 logoKey: currencies/tkg2.jpeg
 name: Takang
+platform: BNB
+platform_contract: '0xcb192b50c414fe690c5260c129c8fb9462315a87'

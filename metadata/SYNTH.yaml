@@ -3,3 +3,5 @@ fiat: false
 id: SYNTH
 id_nomics: SYNTH
 name: Synth
+platform: BNB
+platform_contract: '0x525b579cdc39a83d5f5cad71426ab440e7a00eee'

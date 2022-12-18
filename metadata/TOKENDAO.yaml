@@ -3,3 +3,5 @@ fiat: false
 id: TOKENDAO
 id_nomics: TOKENDAO
 name: TokenDao
+platform: BNB
+platform_contract: '0x7db236fb282857f51e4b673a6f92edadcc794b2e'

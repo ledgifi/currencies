@@ -5,3 +5,5 @@ id_nomics: ENXT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ENXT.png
 logoKey: currencies/enxt.png
 name: Energy Token (Avaxtars)
+platform: AVAX
+platform_contract: '0x164334ed9e63fbedc8b52e6dbd408af4f051419f'

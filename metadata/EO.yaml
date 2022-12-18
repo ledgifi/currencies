@@ -3,3 +3,5 @@ fiat: false
 id: EO
 id_nomics: EO
 name: Executive Order Token
+platform: ETH
+platform_contract: '0x2889fd660311f18bbefc039949ae12d76afed611'

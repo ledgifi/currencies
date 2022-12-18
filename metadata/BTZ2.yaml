@@ -3,3 +3,5 @@ fiat: false
 id: BTZ2
 id_nomics: BTZ2
 name: Bitazza
+platform: ETH
+platform_contract: '0x5fbc3cb8b428cc00a04808870295d39962cc7fee'

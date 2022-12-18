@@ -5,3 +5,5 @@ id_nomics: CORGI4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CORGI4.jpg
 logoKey: currencies/corgi4.jpg
 name: CorgiCoin
+platform: BNB
+platform_contract: '0x450dcf93160a30be156a4600802c91bf64dffd2e'

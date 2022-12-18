@@ -5,3 +5,5 @@ id_nomics: ALTRUCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALTRUCOIN.jpg
 logoKey: currencies/altrucoin.jpg
 name: Altrucoin
+platform: BNB
+platform_contract: '0xedaf1f5b8078d4feb4e13c8d5a2c8de1365be7b6'

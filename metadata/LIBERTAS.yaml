@@ -5,3 +5,5 @@ id_nomics: LIBERTAS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIBERTAS.jpg
 logoKey: currencies/libertas.jpg
 name: Libertas Token
+platform: ETH
+platform_contract: '0x49184e6dae8c8ecd89d8bdc1b950c597b8167c90'

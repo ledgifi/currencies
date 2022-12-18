@@ -5,3 +5,5 @@ id_nomics: 1COVCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/1COVCX.jpg
 logoKey: currencies/1covcx.jpg
 name: Covestro AG Token
+platform: ETH
+platform_contract: '0xe6ca8989544337da2283232feb36f442b1aa3cab'

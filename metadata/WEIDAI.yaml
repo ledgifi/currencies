@@ -5,3 +5,5 @@ id_nomics: WEIDAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WEIDAI.jpg
 logoKey: currencies/weidai.jpg
 name: WeiDai
+platform: ETH
+platform_contract: '0xafef0965576070d1608f374cb14049eefad218ec'

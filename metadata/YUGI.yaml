@@ -6,3 +6,5 @@ id_nomics: YUGI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YUGI.jpg
 logoKey: currencies/yugi.jpg
 name: Yugi
+platform: BNB
+platform_contract: '0x90a2902d9f02d68b56d4e5a4d280f97a555a6241'

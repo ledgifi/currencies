@@ -5,3 +5,5 @@ id_nomics: BZFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BZFI.jpg
 logoKey: currencies/bzfi.jpg
 name: BitZyon Finance
+platform: BNB
+platform_contract: '0x3e771544892863fb0b7c048a07537ad29e932c56'

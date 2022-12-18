@@ -5,3 +5,5 @@ id_nomics: GEMS6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GEMS6.png
 logoKey: currencies/gems6.png
 name: AlgoGems
+platform: ALGO
+platform_contract: '230946361'

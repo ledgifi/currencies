@@ -5,3 +5,5 @@ id_nomics: TOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOON.jpeg
 logoKey: currencies/toon.jpeg
 name: Pontoon (BEP-20)
+platform: BNB
+platform_contract: '0xaee433adebe0fbb88daa47ef0c1a513caa52ef02'

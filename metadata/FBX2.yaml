@@ -5,3 +5,5 @@ id_nomics: FBX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FBX2.jpg
 logoKey: currencies/fbx2.jpg
 name: FireBot
+platform: MATIC
+platform_contract: '0xd125443f38a69d776177c2b9c041f462936f8218'

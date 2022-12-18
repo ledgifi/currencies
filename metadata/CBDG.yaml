@@ -5,3 +5,5 @@ id_nomics: CBDG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBDG.jpeg
 logoKey: currencies/cbdg.jpeg
 name: GKash
+platform: BNB
+platform_contract: '0xb86f7c26a4770179e5fd437552c5c5fa9283903f'

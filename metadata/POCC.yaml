@@ -6,3 +6,5 @@ id_nomics: POCC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POCC.png
 logoKey: currencies/pocc.png
 name: POC Chain
+platform: ETH
+platform_contract: '0x926be13b4d93f29ea254e4e518f33099e45d7f06'

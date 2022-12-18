@@ -3,3 +3,5 @@ fiat: false
 id: DDOGE
 id_nomics: DDOGE
 name: Darth Doge
+platform: ETH
+platform_contract: '0x38c674160b3d3ec2861356437a1aa264190c1771'

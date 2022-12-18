@@ -5,3 +5,5 @@ id_nomics: WALL2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WALL2.jpg
 logoKey: currencies/wall2.jpg
 name: LaunchWall
+platform: BNB
+platform_contract: '0x07a9e0f02a129fd420fbeda766bd793860a9e812'

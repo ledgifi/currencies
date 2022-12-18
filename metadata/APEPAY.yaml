@@ -3,3 +3,5 @@ fiat: false
 id: APEPAY
 id_nomics: APEPAY
 name: ApePay
+platform: AVAX
+platform_contract: '0x96319ab73da12086e37d476d68ba90e001fddb9a'

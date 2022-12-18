@@ -6,3 +6,5 @@ id_nomics: EXRD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EXRD.png
 logoKey: currencies/exrd.png
 name: e-Radix
+platform: ETH
+platform_contract: '0x6468e79a80c0eab0f9a2b574c8d5bc374af59414'

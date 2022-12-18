@@ -6,3 +6,5 @@ id_nomics: LATX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LATX.jpg
 logoKey: currencies/latx.jpg
 name: LatiumX
+platform: ETH
+platform_contract: '0x2f85e502a988af76f7ee6d83b7db8d6c0a823bf9'

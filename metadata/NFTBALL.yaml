@@ -5,3 +5,5 @@ id_nomics: NFTBALL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTBALL.jpeg
 logoKey: currencies/nftball.jpeg
 name: NFT Football
+platform: BNB
+platform_contract: '0x693848c5e10518da3eb0c79519a96a21748d94ea'

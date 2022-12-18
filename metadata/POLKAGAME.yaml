@@ -5,3 +5,5 @@ id_nomics: POLKAGAME
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POLKAGAME.jpeg
 logoKey: currencies/polkagame.jpeg
 name: PolkaGame
+platform: BNB
+platform_contract: '0x6620dbd3d77803d1404650c37aead1eb4d1e12f8'

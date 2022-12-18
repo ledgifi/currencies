@@ -5,3 +5,5 @@ id_nomics: BB6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BB6.jpg
 logoKey: currencies/bb6.jpg
 name: Bean Booster
+platform: BNB
+platform_contract: '0xd7dae4f303d3deb90c4dccbb2a7053bc5bfdb253'

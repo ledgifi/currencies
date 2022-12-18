@@ -5,3 +5,5 @@ id_nomics: DRC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRC2.jpg
 logoKey: currencies/drc2.jpg
 name: Digital Reserve Currency
+platform: ETH
+platform_contract: '0xa150db9b1fa65b44799d4dd949d922c0a33ee606'

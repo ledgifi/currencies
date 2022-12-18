@@ -6,3 +6,5 @@ id_nomics: SPRKL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPRKL.jpg
 logoKey: currencies/sprkl.jpg
 name: Sparkle
+platform: ETH
+platform_contract: '0x4b7ad3a56810032782afce12d7d27122bdb96eff'

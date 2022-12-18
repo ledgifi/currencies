@@ -3,3 +3,5 @@ fiat: false
 id: HAPE
 id_nomics: HAPE
 name: HAPECoin
+platform: ETH
+platform_contract: '0x55709c8f9e7768915f3145ef29e8a7bd7e611878'

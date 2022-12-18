@@ -5,3 +5,5 @@ id_nomics: PCKT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PCKT.jpg
 logoKey: currencies/pckt.jpg
 name: Pocket
+platform: BNB
+platform_contract: '0xbc4c03104aee81a73afc5b09136810a19ff52de4'

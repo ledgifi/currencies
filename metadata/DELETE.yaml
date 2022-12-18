@@ -5,3 +5,5 @@ id_nomics: DELETE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DELETE.jpg
 logoKey: currencies/delete.jpg
 name: Delete Token
+platform: BNB
+platform_contract: '0x1d8d93260d69a0d4c2006e630e9027ec44c8b7bb'

@@ -5,3 +5,5 @@ id_nomics: KPB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KPB.jpeg
 logoKey: currencies/kpb.jpeg
 name: KingPitBull
+platform: BNB
+platform_contract: '0x2f8ddc20a773bbcf84a3825a93558317f0ef8e1a'

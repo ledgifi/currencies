@@ -5,3 +5,5 @@ id_nomics: QCORE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QCORE.jpg
 logoKey: currencies/qcore.jpg
 name: Qcore.Finance
+platform: ETH
+platform_contract: '0x82866b4a71ba9d930fe338c386b6a45a7133eb36'

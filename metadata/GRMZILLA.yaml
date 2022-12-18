@@ -5,3 +5,5 @@ id_nomics: GRMZILLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GRMZILLA.jpg
 logoKey: currencies/grmzilla.jpg
 name: GreenMoonZilla
+platform: BNB
+platform_contract: '0xa1fd7ec67a2997b6cd440f90085925459ed03f1a'

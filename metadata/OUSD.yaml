@@ -3,3 +3,5 @@ fiat: false
 id: OUSD
 id_nomics: OUSD
 name: Onyx USD
+platform: ETH
+platform_contract: '0x7c0afd49d40ec308d49e2926e5c99b037d54ee7e'

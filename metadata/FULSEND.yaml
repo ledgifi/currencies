@@ -5,3 +5,5 @@ id_nomics: FULSEND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FULSEND.jpg
 logoKey: currencies/fulsend.jpg
 name: Full Send
+platform: BNB
+platform_contract: '0xd8c202fc83792D98FB94c1FA2FdaC5702A75dF1C'

@@ -6,3 +6,5 @@ id_nomics: QCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QCX.png
 logoKey: currencies/qcx.png
 name: QuickX Protocol
+platform: ETH
+platform_contract: '0xf9e5af7b42d31d51677c75bbbd37c1986ec79aee'

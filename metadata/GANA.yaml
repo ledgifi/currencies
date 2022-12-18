@@ -5,3 +5,5 @@ id_nomics: GANA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GANA.png
 logoKey: currencies/gana.png
 name: GANA
+platform: ETH
+platform_contract: '0xc0ea6306f6360fe7dcab65d16bf1a3af92c79aa2'

@@ -6,3 +6,5 @@ id_nomics: BSCGOLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSCGOLD.jpg
 logoKey: currencies/bscgold.jpg
 name: BSCGold
+platform: BNB
+platform_contract: '0x34195fd824355aec1bdceea97697b35be691bcb3'

@@ -5,3 +5,5 @@ id_nomics: TESLASAFE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TESLASAFE.jpg
 logoKey: currencies/teslasafe.jpg
 name: Teslasafe
+platform: BNB
+platform_contract: '0x3504de9e61fdff2fc70f5cc8a6d1ee493434c1aa'

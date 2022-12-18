@@ -5,3 +5,5 @@ id_nomics: UND2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UND2.jpg
 logoKey: currencies/und2.jpg
 name: Unbound Dollar
+platform: ETH
+platform_contract: '0x0c0f2b41f758d66bb8e694693b0f9e6fae726499'

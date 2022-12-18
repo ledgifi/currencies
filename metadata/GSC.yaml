@@ -6,3 +6,5 @@ id_nomics: GSC
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/gsc.svg
 logoKey: currencies/gsc.svg
 name: Global Social Chain
+platform: ETH
+platform_contract: '0x228ba514309ffdf03a81a205a6d040e429d6e80c'

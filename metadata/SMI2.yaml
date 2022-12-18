@@ -5,3 +5,5 @@ id_nomics: SMI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMI2.jpg
 logoKey: currencies/smi2.jpg
 name: Safemars Inu
+platform: BNB
+platform_contract: '0x917d21ebd398a513c0f354869d4f40cd7881e17a'

@@ -5,3 +5,5 @@ id_nomics: WHITECAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WHITECAT.jpeg
 logoKey: currencies/whitecat.jpeg
 name: White Cat Coin
+platform: BNB
+platform_contract: '0x271e5fbf0aebdb2677a904d933d3dd9204654877'

@@ -3,3 +3,5 @@ fiat: false
 id: PYB
 id_nomics: PYB
 name: PYRO BANK
+platform: ETH
+platform_contract: '0x308f7dd4b711f37c30f6bdd120ac998c1c819829'

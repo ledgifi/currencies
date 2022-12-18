@@ -5,3 +5,5 @@ id_nomics: POLAR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POLAR2.jpg
 logoKey: currencies/polar2.jpg
 name: Polar Sync
+platform: BNB
+platform_contract: '0xc64c9b30c981fc2ee4e13d0ca3f08258e725fd24'

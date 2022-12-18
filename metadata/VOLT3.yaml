@@ -5,3 +5,5 @@ id_nomics: VOLT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VOLT3.jpeg
 logoKey: currencies/volt3.jpeg
 name: Volterra V1 (OLD)
+platform: BNB
+platform_contract: '0xc8d78a779339823605ace31a958047002631ecd2'

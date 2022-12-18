@@ -3,3 +3,5 @@ fiat: false
 id: XRPHRC20
 id_nomics: XRPHRC20
 name: Heco-Peg XRP Token
+platform: HT
+platform_contract: '0xa2f3c2446a3e20049708838a779ff8782ce6645a'

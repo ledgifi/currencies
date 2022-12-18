@@ -5,3 +5,5 @@ id_nomics: DECX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DECX.jpg
 logoKey: currencies/decx.jpg
 name: Deere & Company Token
+platform: ETH
+platform_contract: '0xc94537de4b1def7c6664c3d9aa7cb5549953dc4f'

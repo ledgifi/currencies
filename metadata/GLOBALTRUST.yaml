@@ -5,3 +5,5 @@ id_nomics: GLOBALTRUST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GLOBALTRUST.png
 logoKey: currencies/globaltrust.png
 name: Global Trust Coin
+platform: ETH
+platform_contract: '0xe138fda441fc31b36171122397a8a11d6cd2c479'

@@ -3,3 +3,5 @@ fiat: false
 id: TWISTER
 id_nomics: TWISTER
 name: TWISTER
+platform: ARBETH
+platform_contract: '0x82aa9aa869d2b13157485888e12fe7aa7dfe11b2'

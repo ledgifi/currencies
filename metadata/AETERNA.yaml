@@ -5,3 +5,5 @@ id_nomics: AETERNA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AETERNA.png
 logoKey: currencies/aeterna.png
 name: Aeterna
+platform: BNB
+platform_contract: '0xe75BF67Df2388183d9b7714231996C937d4a855A'

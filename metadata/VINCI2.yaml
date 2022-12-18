@@ -5,3 +5,5 @@ id_nomics: VINCI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VINCI2.jpg
 logoKey: currencies/vinci2.jpg
 name: DaVinci Token
+platform: HARMONY
+platform_contract: '0xb8e0497018c991e86311b64efd9d57b06aedbbae'

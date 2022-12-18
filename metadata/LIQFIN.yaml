@@ -3,3 +3,5 @@ fiat: false
 id: LIQFIN
 id_nomics: LIQFIN
 name: Liquid Finance
+platform: BNB
+platform_contract: '0x63da4a831387d8c445f6632deb4a78f8d5a611a4'

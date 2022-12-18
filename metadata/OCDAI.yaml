@@ -5,3 +5,5 @@ id_nomics: OCDAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCDAI.png
 logoKey: currencies/ocdai.png
 name: Opyn cDai Insurance
+platform: ETH
+platform_contract: '0x98cc3bd6af1880fcfda17ac477b2f612980e5e33'

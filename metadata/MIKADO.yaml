@@ -3,3 +3,5 @@ fiat: false
 id: MIKADO
 id_nomics: MIKADO
 name: MIKADO
+platform: ETH
+platform_contract: '0x7f660f58a1fdb3dba63ff9a85d9c711d6cdb1518'

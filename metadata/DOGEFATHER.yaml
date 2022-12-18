@@ -5,3 +5,5 @@ id_nomics: DOGEFATHER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEFATHER.jpg
 logoKey: currencies/dogefather.jpg
 name: Dogefather (BEP-20)
+platform: BNB
+platform_contract: '0x3d29aa78fb558f84112bbc48a84f371147a920c9'

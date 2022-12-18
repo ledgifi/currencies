@@ -3,3 +3,5 @@ fiat: false
 id: OLDERFUSD
 id_nomics: OLDERFUSD
 name: OLDER FUSD
+platform: FUSE
+platform_contract: '0x7c6612bb7418bab3c10ee2f4eebdda04f3158ce2'

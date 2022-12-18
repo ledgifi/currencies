@@ -6,3 +6,5 @@ id_nomics: LIF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/lif.jpg
 logoKey: currencies/lif.jpg
 name: Winding Tree
+platform: ETH
+platform_contract: '0xeb9951021698b42e4399f9cbb6267aa35f82d59d'

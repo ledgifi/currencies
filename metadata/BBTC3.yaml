@@ -5,3 +5,5 @@ id_nomics: BBTC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBTC3.jpg
 logoKey: currencies/bbtc3.jpg
 name: Baby Bitcoin
+platform: BNB
+platform_contract: '0x5b0dfe077b16479715c9838eb644892008abbfe6'

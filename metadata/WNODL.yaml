@@ -3,3 +3,5 @@ fiat: false
 id: WNODL
 id_nomics: WNODL
 name: Wrapped Nodl
+platform: ETH
+platform_contract: '0x5f6d994e6ba25a0a23efae15e46a6e79527bdf3f'

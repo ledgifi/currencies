@@ -6,3 +6,5 @@ id_nomics: WLT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WLT.png
 logoKey: currencies/wlt.png
 name: Warlord Token
+platform: ETH
+platform_contract: '0xb7bc7b0a32455f7e7a924f832ca4f0a0ac3b6b88'

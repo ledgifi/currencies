@@ -5,3 +5,5 @@ id_nomics: LNC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/lnc.svg
 logoKey: currencies/lnc.svg
 name: Blocklancer
+platform: ETH
+platform_contract: '0x63e634330a20150dbb61b15648bc73855d6ccf07'

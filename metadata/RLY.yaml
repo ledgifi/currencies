@@ -6,3 +6,5 @@ id_nomics: RLY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RLY.png
 logoKey: currencies/rly.png
 name: Rally
+platform: ETH
+platform_contract: '0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b'

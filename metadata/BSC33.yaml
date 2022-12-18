@@ -5,3 +5,5 @@ id_nomics: BSC33
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSC33.jpg
 logoKey: currencies/bsc33.jpg
 name: BSC33
+platform: BNB
+platform_contract: '0x25559a80e1f6e0d6db28848003716a555727ca55'

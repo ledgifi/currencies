@@ -3,3 +3,5 @@ fiat: false
 id: TF1
 id_nomics: TF1
 name: Test FISS
+platform: BNB
+platform_contract: '0xa8c47f1990e91ff073a59c8bdcd45a365aa36317'

@@ -3,3 +3,5 @@ fiat: false
 id: SPORK
 id_nomics: SPORK
 name: SporkDAO
+platform: ETH
+platform_contract: '0xb624fde1a972b1c89ec1dad691442d5e8e891469'

@@ -5,3 +5,5 @@ id_nomics: BZT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BZT2.jpeg
 logoKey: currencies/bzt2.jpeg
 name: Bullish Zuko Inu
+platform: BNB
+platform_contract: '0x104c7b4dfcfb17d60f2ddfd48b18a6d10a04f08e'

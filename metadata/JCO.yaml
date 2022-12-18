@@ -3,3 +3,5 @@ fiat: false
 id: JCO
 id_nomics: JCO
 name: J-Coin
+platform: ETH
+platform_contract: '0xf74c2bf5dc421dbb056f5faade157add44344df1'

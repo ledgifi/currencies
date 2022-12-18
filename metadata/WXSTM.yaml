@@ -3,3 +3,5 @@ fiat: false
 id: WXSTM
 id_nomics: WXSTM
 name: wrapped xsaitama
+platform: BNB
+platform_contract: '0x4a480ebc8cbd38dc2a36b551bedfe64e6cd0f191'

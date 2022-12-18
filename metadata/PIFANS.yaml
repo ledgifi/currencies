@@ -3,3 +3,5 @@ fiat: false
 id: PIFANS
 id_nomics: PIFANS
 name: Pi fans coin
+platform: BNB
+platform_contract: '0x0443a85ebdfc5ce9a592a5d5c538e0b0bc81d7f8'

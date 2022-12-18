@@ -5,3 +5,5 @@ id_nomics: BABYPIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYPIT.jpg
 logoKey: currencies/babypit.jpg
 name: BabyPitbull
+platform: BNB
+platform_contract: '0x0b41923798a91F87665F6C4F61c8747812E14C51'

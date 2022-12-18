@@ -3,3 +3,5 @@ fiat: false
 id: SAFEDOGE
 id_nomics: SAFEDOGE
 name: Safe Doge
+platform: BNB
+platform_contract: '0x00814e5f7df2a13626aef5a9e4b527913eb8044a'

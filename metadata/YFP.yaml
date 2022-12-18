@@ -5,3 +5,5 @@ id_nomics: YFP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFP.jpg
 logoKey: currencies/yfp.jpg
 name: Yearn Finance Protocol
+platform: ETH
+platform_contract: '0x96d62cdcd1cc49cb6ee99c867cb8812bea86b9fa'

@@ -5,3 +5,5 @@ id_nomics: AAMMUNIDAIUSDC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AAMMUNIDAIUSDC.jpg
 logoKey: currencies/aammunidaiusdc.jpg
 name: Aave AMM UniDAIUSDC
+platform: ETH
+platform_contract: '0xe340b25fe32b1011616bb8ec495a4d503e322177'

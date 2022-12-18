@@ -6,3 +6,5 @@ id_nomics: KRZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KRZ.jpg
 logoKey: currencies/krz.jpg
 name: Kranz Token
+platform: ETH
+platform_contract: '0xf54b304e2e4b28c7e46619d1a340f9b2b72383d7'

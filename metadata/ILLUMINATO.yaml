@@ -3,3 +3,5 @@ fiat: false
 id: ILLUMINATO
 id_nomics: ILLUMINATO
 name: illuminato
+platform: ETH
+platform_contract: '0x6c149e73c91f9c6f4bf9e2176ec4c1f144435c0d'

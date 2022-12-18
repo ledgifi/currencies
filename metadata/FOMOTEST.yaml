@@ -3,3 +3,5 @@ fiat: false
 id: FOMOTEST
 id_nomics: FOMOTEST
 name: Fomo Test Token,Not Use
+platform: BNB
+platform_contract: '0xcc15f1ed8bc32db5aba7ba1e586d566bfe3e6064'

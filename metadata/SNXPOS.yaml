@@ -5,3 +5,5 @@ id_nomics: SNXPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNXPOS.png
 logoKey: currencies/snxpos.png
 name: Synthetix (Polygon)
+platform: MATIC
+platform_contract: '0x50b728d8d964fd00c2d0aad81718b71311fef68a'

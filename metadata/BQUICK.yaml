@@ -5,3 +5,5 @@ id_nomics: BQUICK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BQUICK.jpeg
 logoKey: currencies/bquick.jpeg
 name: BurningQuick
+platform: BNB
+platform_contract: '0xb7a749CD894bf56f3b163E71D09F3A4f4CB662Ed'

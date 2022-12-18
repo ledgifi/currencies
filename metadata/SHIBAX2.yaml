@@ -5,3 +5,5 @@ id_nomics: SHIBAX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBAX2.jpg
 logoKey: currencies/shibax2.jpg
 name: Shiba X
+platform: BNB
+platform_contract: '0x25b0c0d8dcee3051337ba9382ead9040ab3d5531'

@@ -6,3 +6,5 @@ id_nomics: CXPAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CXPAD.jpg
 logoKey: currencies/cxpad.jpg
 name: CoinxPad
+platform: BNB
+platform_contract: '0xe90d1567ecef9282cc1ab348d9e9e2ac95659b99'

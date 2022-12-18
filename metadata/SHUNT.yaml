@@ -6,3 +6,5 @@ id_nomics: SHUNT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHUNT.jpg
 logoKey: currencies/shunt.jpg
 name: Shiba Hunter
+platform: BNB
+platform_contract: '0x1823c7c06cc181415d92c9ffe27fbb8dd4e295b2'

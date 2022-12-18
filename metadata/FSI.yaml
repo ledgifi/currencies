@@ -3,3 +3,5 @@ fiat: false
 id: FSI
 id_nomics: FSI
 name: 'Focused Sharpe Index '
+platform: MATIC
+platform_contract: '0x80ab6dc6e6ca99f2319213cd97fa02c14e4bd434'

@@ -6,3 +6,5 @@ id_nomics: ZATCOIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZATCOIN.png
 logoKey: currencies/zatcoin.png
 name: Zatcoin
+platform: BNB
+platform_contract: '0x958e030e5937414b8b54e4647fb513e348ed90e5'

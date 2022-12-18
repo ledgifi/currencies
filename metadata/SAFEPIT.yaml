@@ -5,3 +5,5 @@ id_nomics: SAFEPIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFEPIT.png
 logoKey: currencies/safepit.png
 name: SafePitbull
+platform: BNB
+platform_contract: '0xe2f4516aa9bd7b864ff0c6dd4ebb8878e1bbc97d'

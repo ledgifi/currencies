@@ -6,3 +6,5 @@ id_nomics: HBARP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HBARP.jpg
 logoKey: currencies/hbarp.jpg
 name: HbarPad
+platform: BNB
+platform_contract: '0x926cc5b32c1e88d7532deff023ececdd66f37bfe'

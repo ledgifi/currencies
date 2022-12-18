@@ -5,3 +5,5 @@ id_nomics: ALPHA6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALPHA6.jpeg
 logoKey: currencies/alpha6.jpeg
 name: Alpha DAO
+platform: KCS
+platform_contract: '0x0490c1076552ed3c91876ead9f6a547b389e69d4'

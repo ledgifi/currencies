@@ -6,3 +6,5 @@ id_nomics: HET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HET.jpg
 logoKey: currencies/het.jpg
 name: HavEtherToken
+platform: ETH
+platform_contract: '0xf0998faebc12188172310403814e0399f7af3f73'

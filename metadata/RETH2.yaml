@@ -5,3 +5,5 @@ id_nomics: RETH2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RETH2.png
 logoKey: currencies/reth2.png
 name: StakeWise Reward ETH2
+platform: ETH
+platform_contract: '0x20bc832ca081b91433ff6c17f85701b6e92486c5'

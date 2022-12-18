@@ -3,3 +3,5 @@ fiat: false
 id: JAVA
 id_nomics: JAVA
 name: JAVA
+platform: MATIC
+platform_contract: '0x4afae971ac146d4028c3ed581eb307a1615e59fe'

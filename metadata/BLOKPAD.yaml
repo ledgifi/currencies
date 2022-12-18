@@ -3,3 +3,5 @@ fiat: false
 id: BLOKPAD
 id_nomics: BLOKPAD
 name: BLOKPAD
+platform: MATIC
+platform_contract: '0xade5469ca47632177f446228706582ac96c0e2d9'

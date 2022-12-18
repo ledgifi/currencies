@@ -3,3 +3,5 @@ fiat: false
 id: IPUSD
 id_nomics: IPUSD
 name: Protocool IPUSD
+platform: MATIC
+platform_contract: '0x5f7ed039b8a50682b5375d7586630deecddd445c'

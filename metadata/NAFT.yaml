@@ -6,3 +6,5 @@ id_nomics: NAFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NAFT.jpg
 logoKey: currencies/naft.jpg
 name: Nafter
+platform: BNB
+platform_contract: '0xd7730681b1dc8f6f969166b29d8a5ea8568616a3'

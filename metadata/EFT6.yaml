@@ -5,3 +5,5 @@ id_nomics: EFT6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EFT6.png
 logoKey: currencies/eft6.png
 name: Energyfi
+platform: BNB
+platform_contract: '0xae98e63db1c4646bf5b40b29c664bc922f71bc65'

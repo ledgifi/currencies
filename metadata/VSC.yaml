@@ -6,3 +6,5 @@ id_nomics: VSC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VSC.png
 logoKey: currencies/vsc.png
 name: vSport Coin
+platform: ETH
+platform_contract: '0x36b4b58de030e93775e151a78d796039a11a2548'

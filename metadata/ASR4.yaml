@@ -5,3 +5,5 @@ id_nomics: ASR4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASR4.png
 logoKey: currencies/asr4.png
 name: Assured Coin
+platform: BNB
+platform_contract: '0x1eb6efb00636d914b65b3b7ebbd92356763d91a3'

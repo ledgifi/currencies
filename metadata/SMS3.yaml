@@ -5,3 +5,5 @@ id_nomics: SMS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMS3.jpeg
 logoKey: currencies/sms3.jpeg
 name: SquidWorld
+platform: BNB
+platform_contract: '0x32385b163c62c47b7f16c858d6180ee14c67d20a'

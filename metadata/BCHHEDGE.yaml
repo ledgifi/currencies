@@ -3,3 +3,5 @@ fiat: false
 id: BCHHEDGE
 id_nomics: BCHHEDGE
 name: 1X Short Bitcoin Cash Token
+platform: ETH
+platform_contract: '0x02e88a689fdfb920e7aa6174fb7ab72add3c5694'

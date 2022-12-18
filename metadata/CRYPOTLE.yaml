@@ -5,3 +5,5 @@ id_nomics: CRYPOTLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRYPOTLE.jpg
 logoKey: currencies/crypotle.jpg
 name: Crypotle
+platform: BNB
+platform_contract: '0x030596d224461f85f1cc253084bf325fb80d821f'

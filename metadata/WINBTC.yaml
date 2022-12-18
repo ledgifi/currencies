@@ -3,3 +3,5 @@ fiat: false
 id: WINBTC
 id_nomics: WINBTC
 name: winBTC
+platform: BNB
+platform_contract: '0x4b093ae38b4390689510a1007231303328a96326'

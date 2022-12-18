@@ -6,3 +6,5 @@ id_nomics: HTB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HTB.png
 logoKey: currencies/htb.png
 name: Hotbit Token
+platform: ETH
+platform_contract: '0x6be61833fc4381990e82d7d4a9f4c9b3f67ea941'

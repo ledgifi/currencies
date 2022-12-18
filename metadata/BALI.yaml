@@ -6,3 +6,5 @@ id_nomics: BALI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BALI.jpg
 logoKey: currencies/bali.jpg
 name: Bali Coin
+platform: ETH
+platform_contract: '0x013a06558f07d9e6f9a00c95a33f3a0e0255176b'

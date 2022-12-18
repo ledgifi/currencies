@@ -5,3 +5,5 @@ id_nomics: TEM2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TEM2.jpg
 logoKey: currencies/tem2.jpg
 name: Totem
+platform: ETH
+platform_contract: '0xae95dc56a480ba3b1830cb760b43633d3f87aa17'

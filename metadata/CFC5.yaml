@@ -5,3 +5,5 @@ id_nomics: CFC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CFC5.png
 logoKey: currencies/cfc5.png
 name: Corleone Coin
+platform: BNB
+platform_contract: '0xBeC2276AacE732791AFaAff8723523E9De8788a8'

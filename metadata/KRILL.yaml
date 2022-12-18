@@ -6,3 +6,5 @@ id_nomics: KRILL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KRILL.jpg
 logoKey: currencies/krill.jpg
 name: Polywhale
+platform: MATIC
+platform_contract: '0x05089c9ebffa4f0aca269e32056b1b36b37ed71b'

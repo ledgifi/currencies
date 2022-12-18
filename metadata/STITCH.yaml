@@ -5,3 +5,5 @@ id_nomics: STITCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STITCH.png
 logoKey: currencies/stitch.png
 name: Stitch
+platform: BNB
+platform_contract: '0x33fff14b929dd49362ea161357ae040a0391ae3d'

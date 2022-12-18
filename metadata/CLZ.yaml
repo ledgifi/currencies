@@ -3,3 +3,5 @@ fiat: false
 id: CLZ
 id_nomics: CLZ
 name: CLZ Token
+platform: BNB
+platform_contract: '0x6488cf8c0df8216279418096a5e5877f7dcbbb8d'

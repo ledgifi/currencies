@@ -6,3 +6,5 @@ id_nomics: EVED
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVED.png
 logoKey: currencies/eved.png
 name: Evedo
+platform: ETH
+platform_contract: '0x5aaefe84e0fb3dd1f0fcff6fa7468124986b91bd'

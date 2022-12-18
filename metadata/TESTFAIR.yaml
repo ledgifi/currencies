@@ -3,3 +3,5 @@ fiat: false
 id: TESTFAIR
 id_nomics: TESTFAIR
 name: testFAIR Token
+platform: BNB
+platform_contract: '0x7bd7ff0ff6434cc7b7ba2ae9682675cc36208b71'

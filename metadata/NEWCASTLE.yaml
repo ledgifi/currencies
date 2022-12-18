@@ -3,3 +3,5 @@ fiat: false
 id: NEWCASTLE
 id_nomics: NEWCASTLE
 name: NEWCASTLE
+platform: BNB
+platform_contract: '0xfc61d6845b2d5603b9de4dd0f38fb54c9546d164'

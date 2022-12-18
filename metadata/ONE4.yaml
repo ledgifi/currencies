@@ -5,3 +5,5 @@ id_nomics: ONE4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ONE4.jpg
 logoKey: currencies/one4.jpg
 name: One Token
+platform: BNB
+platform_contract: '0x01eaedd1bc5f8198d174532aa13ba150653e0e11'

@@ -5,3 +5,5 @@ id_nomics: MARVIN4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MARVIN4.jpeg
 logoKey: currencies/marvin4.jpeg
 name: Elon's Marvin (BEP-20) V2
+platform: BNB
+platform_contract: '0x54017fda0ff8f380ccef600147a66d2e262d6b17'

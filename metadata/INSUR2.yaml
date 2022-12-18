@@ -5,3 +5,5 @@ id_nomics: INSUR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INSUR2.jpg
 logoKey: currencies/insur2.jpg
 name: InsurAce
+platform: ETH
+platform_contract: '0x544c42fbb96b39b21df61cf322b5edc285ee7429'

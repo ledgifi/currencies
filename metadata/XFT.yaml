@@ -6,3 +6,5 @@ id_nomics: XFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XFT.jpg
 logoKey: currencies/xft.jpg
 name: Offshift
+platform: ETH
+platform_contract: '0xabe580e7ee158da464b51ee1a83ac0289622e6be'

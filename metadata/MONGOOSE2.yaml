@@ -5,3 +5,5 @@ id_nomics: MONGOOSE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MONGOOSE2.jpg
 logoKey: currencies/mongoose2.jpg
 name: Mongoose
+platform: ETH
+platform_contract: '0xa1817b6d8d890f3943b61648992730373b71f156'

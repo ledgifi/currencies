@@ -5,3 +5,5 @@ id_nomics: SVR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SVR2.jpeg
 logoKey: currencies/svr2.jpeg
 name: ShibaKing VR
+platform: BNB
+platform_contract: '0x915ce57c2df3f72e2cb0d041dcab7dfd3588ae9a'

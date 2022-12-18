@@ -5,3 +5,5 @@ id_nomics: BF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BF.jpg
 logoKey: currencies/bf.jpg
 name: Bitforex Token
+platform: ETH
+platform_contract: '0x5b71bee9d961b1b848f8485eec8d8787f80217f5'

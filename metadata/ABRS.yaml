@@ -3,3 +3,5 @@ fiat: false
 id: ABRS
 id_nomics: ABRS
 name: ABRS
+platform: BNB
+platform_contract: '0x98eb18510e9062288842a2ba49ebc0139d33ff17'

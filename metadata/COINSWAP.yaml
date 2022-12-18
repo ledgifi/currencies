@@ -3,3 +3,5 @@ fiat: false
 id: COINSWAP
 id_nomics: COINSWAP
 name: CoinSwap
+platform: ETH
+platform_contract: '0x8d44232331916d016387aacef51d0e305042be95'

@@ -5,3 +5,5 @@ id_nomics: CBK4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CBK4.png
 logoKey: currencies/cbk4.png
 name: Cashback Token (BEP-20)
+platform: BNB
+platform_contract: '0xd8ccc9e9c95a24310a88c19b26b40045878d5e71'

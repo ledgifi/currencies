@@ -3,3 +3,5 @@ fiat: false
 id: XPSRALPHA10SHARES
 id_nomics: XPSRALPHA10SHARES
 name: Exposure Alpha 10
+platform: AVAX
+platform_contract: '0x452cfc754a3889aabd43ec575be62467859434b7'

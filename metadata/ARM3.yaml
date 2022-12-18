@@ -5,3 +5,5 @@ id_nomics: ARM3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARM3.jpg
 logoKey: currencies/arm3.jpg
 name: Aramis
+platform: BNB
+platform_contract: '0x734f628178a40d2c7275f35678a8199fab5341f9'

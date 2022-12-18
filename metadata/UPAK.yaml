@@ -5,3 +5,5 @@ id_nomics: UPAK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UPAK.jpg
 logoKey: currencies/upak.jpg
 name: Unicly Pak Collection
+platform: ETH
+platform_contract: '0xa46f33694f5b31a6ed27eda16ccd466e94c80f1a'

@@ -5,3 +5,5 @@ id_nomics: ESHIBA3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ESHIBA3.jpeg
 logoKey: currencies/eshiba3.jpeg
 name: ElonShiba Inu
+platform: BNB
+platform_contract: '0x2794d747c3c2af32b887e4de54230dea06be8b07'

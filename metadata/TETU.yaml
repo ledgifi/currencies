@@ -6,3 +6,5 @@ id_nomics: TETU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TETU.jpg
 logoKey: currencies/tetu.jpg
 name: TETU Reward Token
+platform: MATIC
+platform_contract: '0x255707b70bf90aa112006e1b07b9aea6de021424'

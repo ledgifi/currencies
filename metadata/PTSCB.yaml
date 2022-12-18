@@ -3,3 +3,5 @@ fiat: false
 id: PTSCB
 id_nomics: PTSCB
 name: PTSCB Token
+platform: HT
+platform_contract: '0xaa32f3f4f0ce8668bb98ff4db7e1712917adaa4c'

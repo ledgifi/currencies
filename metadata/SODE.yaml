@@ -5,3 +5,5 @@ id_nomics: SODE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SODE.jpg
 logoKey: currencies/sode.jpg
 name: SpaceDoge
+platform: BNB
+platform_contract: '0x6e2307de122cd9465b7f47dd73a5f89bb29e4285'

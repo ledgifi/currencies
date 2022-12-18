@@ -5,3 +5,5 @@ id_nomics: SHU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHU.jpg
 logoKey: currencies/shu.jpg
 name: Scamhunters
+platform: BNB
+platform_contract: '0xcb8482ae609a750df17031152f62d50196c05055'

@@ -5,3 +5,5 @@ id_nomics: PAD3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAD3.jpg
 logoKey: currencies/pad3.jpg
 name: Padcoin
+platform: ETH
+platform_contract: '0x992a8a9f4bde0fb2ee1f5bbb3cb7b1e64748e13d'

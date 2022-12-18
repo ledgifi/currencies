@@ -5,3 +5,5 @@ id_nomics: RST3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RST3.png
 logoKey: currencies/rst3.png
 name: Red Shiba Token
+platform: BNB
+platform_contract: '0x714a128bda7cfba28f212a9dc052467b560ab14b'

@@ -5,3 +5,5 @@ id_nomics: INTD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INTD.png
 logoKey: currencies/intd.png
 name: INTDESTCOIN V1 (OLD)
+platform: BNB
+platform_contract: '0xb08ba4ad6bc291f4f1e79c4c7f9395141b8d5797'

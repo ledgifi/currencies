@@ -5,3 +5,5 @@ id_nomics: SCAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCAR.jpg
 logoKey: currencies/scar.jpg
 name: Velhalla
+platform: BNB
+platform_contract: '0x8d9fb713587174ee97e91866050c383b5cee6209'

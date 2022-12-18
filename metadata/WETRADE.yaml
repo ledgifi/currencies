@@ -6,3 +6,5 @@ id_nomics: WETRADE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WETRADE.jpg
 logoKey: currencies/wetrade.jpg
 name: Wetrade
+platform: BNB
+platform_contract: '0x027bab29c8ac39ccc6ce09ad6a62e9255e955f53'

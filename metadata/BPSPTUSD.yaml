@@ -3,3 +3,5 @@ fiat: false
 id: BPSPTUSD
 id_nomics: BPSPTUSD
 name: Balancer TUSD Stablepool
+platform: MATIC
+platform_contract: '0x0d34e5dd4d8f043557145598e4e2dc286b35fd4f'

@@ -5,3 +5,5 @@ id_nomics: SC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SC5.jpeg
 logoKey: currencies/sc5.jpeg
 name: Shiba Cartoon
+platform: BNB
+platform_contract: '0xbe07c32398d61458677bb35b64ff308258533042'

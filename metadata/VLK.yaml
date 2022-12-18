@@ -6,3 +6,5 @@ id_nomics: VLK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VLK.jpg
 logoKey: currencies/vlk.jpg
 name: Vulkania
+platform: BNB
+platform_contract: '0x0921d788e7f7498f80adb0a0a62b8a9476f2db92'

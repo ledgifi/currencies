@@ -3,3 +3,5 @@ fiat: false
 id: FINU
 id_nomics: FINU
 name: FusionInu
+platform: ETH
+platform_contract: '0x715c110321fe93a0ccd8d6f56767233bd2d97389'

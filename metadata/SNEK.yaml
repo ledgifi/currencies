@@ -5,3 +5,5 @@ id_nomics: SNEK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNEK.jpg
 logoKey: currencies/snek.jpg
 name: Snek.Farm
+platform: BNB
+platform_contract: '0x6e74c976e67feae8e83635936ef79f969e14e869'

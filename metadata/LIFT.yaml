@@ -6,3 +6,5 @@ id_nomics: LIFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIFT.jpg
 logoKey: currencies/lift.jpg
 name: Lift Kitchen
+platform: ETH
+platform_contract: '0xf9209d900f7ad1dc45376a2caa61c78f6dea53b6'

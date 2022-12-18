@@ -5,3 +5,5 @@ id_nomics: ANTS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANTS.jpg
 logoKey: currencies/ants.jpg
 name: FireAnts
+platform: ETH
+platform_contract: '0xa9fbb83a2689f4ff86339a4b96874d718673b627'

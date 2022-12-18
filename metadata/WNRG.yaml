@@ -3,3 +3,5 @@ fiat: false
 id: WNRG
 id_nomics: WNRG
 name: Wrapped NRG
+platform: NRG
+platform_contract: '0xa55f26319462355474a9f2c8790860776a329aa4'

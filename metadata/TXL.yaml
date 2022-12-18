@@ -5,3 +5,5 @@ id_nomics: TXL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TXL.png
 logoKey: currencies/txl.png
 name: Textile
+platform: ETH
+platform_contract: '0x8711cf7764d23d32092c0dcedfdac63ece1e6cf3'

@@ -5,3 +5,5 @@ id_nomics: EVN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/evn.svg
 logoKey: currencies/evn.svg
 name: Envion
+platform: ETH
+platform_contract: '0xd780ae2bf04cd96e577d3d014762f831d97129d0'

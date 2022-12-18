@@ -5,3 +5,5 @@ id_nomics: GUTS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GUTS2.png
 logoKey: currencies/guts2.png
 name: Berserk
+platform: BNB
+platform_contract: '0x454b24ec7990175faf3c7065cf49ed8b68bd17c0'

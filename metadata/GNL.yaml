@@ -6,3 +6,5 @@ id_nomics: GNL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GNL.jpg
 logoKey: currencies/gnl.jpg
 name: Green Life Energy
+platform: BNB
+platform_contract: '0x128699dbeafd83ad25d16d394b7849e27a7c4607'

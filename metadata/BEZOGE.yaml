@@ -6,3 +6,5 @@ id_nomics: BEZOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEZOGE.jpg
 logoKey: currencies/bezoge.jpg
 name: Bezoge Earth
+platform: ETH
+platform_contract: '0xdc349913d53b446485e98b76800b6254f43df695'

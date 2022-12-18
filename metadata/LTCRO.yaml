@@ -3,3 +3,5 @@ fiat: false
 id: LTCRO
 id_nomics: LTCRO
 name: Litecroin
+platform: CRO
+platform_contract: '0x5b501c3f8649f8aafe88f29211371823e850677a'

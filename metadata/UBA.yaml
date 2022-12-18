@@ -5,3 +5,5 @@ id_nomics: UBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UBA.png
 logoKey: currencies/uba.png
 name: Unbox Art
+platform: ETH
+platform_contract: '0x817e2addceaa4907623666a7800b1553ca21192d'

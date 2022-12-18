@@ -3,3 +3,5 @@ fiat: false
 id: IUSDT
 id_nomics: IUSDT
 name: Fulcrum USDT iToken (iUSDT)
+platform: MATIC
+platform_contract: '0x18d755c981a550b0b8919f1de2cdf882f489c155'

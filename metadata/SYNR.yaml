@@ -5,3 +5,5 @@ id_nomics: SYNR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SYNR.png
 logoKey: currencies/synr.png
 name: Syndicate
+platform: ETH
+platform_contract: '0xbc6e06778708177a18210181b073da747c88490a'

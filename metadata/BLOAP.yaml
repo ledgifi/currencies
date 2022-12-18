@@ -5,3 +5,5 @@ id_nomics: BLOAP
 logo: https://set-core.s3.amazonaws.com/img/social_trader_set_icons/sw_btc_set.svg
 logoKey: currencies/bloap.svg
 name: BTC Long-Only Alpha Portfolio
+platform: ETH
+platform_contract: '0xe6404a4472e5222b440f8fafb795553046000841'

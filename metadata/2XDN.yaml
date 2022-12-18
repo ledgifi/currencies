@@ -5,3 +5,5 @@ id_nomics: 2XDN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/2XDN.jpg
 logoKey: currencies/2xdn.jpg
 name: Defi DigitalNote
+platform: ETH
+platform_contract: '0x310052769de50103600981a02bba373f0e812a0d'

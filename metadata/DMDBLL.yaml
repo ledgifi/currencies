@@ -5,3 +5,5 @@ id_nomics: DMDBLL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DMDBLL.jpg
 logoKey: currencies/dmdbll.jpg
 name: Diamond Bull
+platform: BNB
+platform_contract: '0x504CD9F4157c84e8fa5682DB2cB2E2afFFC611c7'

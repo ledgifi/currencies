@@ -5,3 +5,5 @@ id_nomics: PAHOO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAHOO.jpg
 logoKey: currencies/pahoo.jpg
 name: Pahoo
+platform: ETH
+platform_contract: '0x35401c8ca3e994d627d1610777877e5abee932dc'

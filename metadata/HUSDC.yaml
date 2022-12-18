@@ -3,3 +3,5 @@ fiat: false
 id: HUSDC
 id_nomics: HUSDC
 name: USD Coin Hop Token
+platform: MATIC
+platform_contract: '0x9ec9551d4a1a1593b0ee8124d98590cc71b3b09d'

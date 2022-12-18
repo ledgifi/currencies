@@ -5,3 +5,5 @@ id_nomics: WASTR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WASTR.jpeg
 logoKey: currencies/wastr.jpeg
 name: Wrapped Astar
+platform: ASTR4
+platform_contract: '0xaeaaf0e2c81af264101b9129c00f4440ccf0f720'

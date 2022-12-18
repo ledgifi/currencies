@@ -5,3 +5,5 @@ id_nomics: OCT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCT3.jpg
 logoKey: currencies/oct3.jpg
 name: Wrapped OCT
+platform: ETH
+platform_contract: '0x9e70240d2a8a30a592d3f076441c4f303b26de12'

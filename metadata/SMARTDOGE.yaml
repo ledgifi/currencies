@@ -5,3 +5,5 @@ id_nomics: SMARTDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMARTDOGE.jpeg
 logoKey: currencies/smartdoge.jpeg
 name: Smart Doge
+platform: BNB
+platform_contract: '0xbe2cfbae8083113b9847a741b132580a8b8477cd'

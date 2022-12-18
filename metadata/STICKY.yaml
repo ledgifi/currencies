@@ -6,3 +6,5 @@ id_nomics: STICKY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STICKY.jpg
 logoKey: currencies/sticky.jpg
 name: FlyPaper
+platform: BNB
+platform_contract: '0x7ba953183fe5d8169924da516f1b3cac365add78'

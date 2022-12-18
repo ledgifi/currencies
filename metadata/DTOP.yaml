@@ -3,3 +3,5 @@ fiat: false
 id: DTOP
 id_nomics: DTOP
 name: Data Trade On-demand Platform
+platform: ETH
+platform_contract: '0x54ad74edeab48e09ccc43ee324f2603071dad72b'

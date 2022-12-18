@@ -3,3 +3,5 @@ fiat: false
 id: ZCASH
 id_nomics: ZCASH
 name: Ragnarok Zero Cash Token
+platform: BNB
+platform_contract: '0x62b838cf39c6a4f9a37863ab085b1f31c437b404'

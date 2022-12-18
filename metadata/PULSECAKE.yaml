@@ -5,3 +5,5 @@ id_nomics: PULSECAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PULSECAKE.png
 logoKey: currencies/pulsecake.png
 name: PulseCake
+platform: BNB
+platform_contract: '0x18ab6fc0af2f78f5f023d5591652c600cd7bfcd0'

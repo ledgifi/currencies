@@ -3,3 +3,5 @@ fiat: false
 id: DTTEST2
 id_nomics: DTTEST2
 name: DeFi Token test2
+platform: BNB
+platform_contract: '0x8e31db47bbccb299a1894d05790329a711ad6b9c'

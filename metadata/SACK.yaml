@@ -6,3 +6,5 @@ id_nomics: SACK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SACK.png
 logoKey: currencies/sack.png
 name: Moon Sack
+platform: BNB
+platform_contract: '0x7e24f12b56c870d0e1a6c2085a8f97597fceedea'

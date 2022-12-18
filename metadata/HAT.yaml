@@ -5,3 +5,5 @@ id_nomics: HAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HAT.png
 logoKey: currencies/hat.png
 name: HAT Token
+platform: ETH
+platform_contract: '0x9002d4485b7594e3e850f0a206713b305113f69e'

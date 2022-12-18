@@ -3,3 +3,5 @@ fiat: false
 id: ETHMINER
 id_nomics: ETHMINER
 name: ETHMiner
+platform: BNB
+platform_contract: '0xc9d7827a4cd700370dda8c7097134c4b6c0dc652'

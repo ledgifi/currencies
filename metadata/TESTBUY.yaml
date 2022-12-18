@@ -3,3 +3,5 @@ fiat: false
 id: TESTBUY
 id_nomics: TESTBUY
 name: TestBuy.Capital
+platform: BNB
+platform_contract: '0x8c8ab6d295d78678b939253c508f118039c06b15'

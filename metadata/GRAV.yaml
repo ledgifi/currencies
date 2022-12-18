@@ -6,3 +6,5 @@ id_nomics: GRAV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GRAV.jpg
 logoKey: currencies/grav.jpg
 name: Graviton Zero
+platform: BNB
+platform_contract: '0xa6168c7e5eb7c5c379f3a1d7cf1073e09b2f031e'

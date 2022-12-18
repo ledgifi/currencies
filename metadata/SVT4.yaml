@@ -5,3 +5,5 @@ id_nomics: SVT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SVT4.jpg
 logoKey: currencies/svt4.jpg
 name: SNVault
+platform: BNB
+platform_contract: '0x11d22a87cf41f28f52082e3babfc6222c17ee265'

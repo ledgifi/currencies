@@ -6,3 +6,5 @@ id_nomics: PCCM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PCCM.png
 logoKey: currencies/pccm.png
 name: Poseidon Chain
+platform: ETH
+platform_contract: '0x8dd57c98580e5070853272e765ea2c243f2d13e0'

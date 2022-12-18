@@ -5,3 +5,5 @@ id_nomics: MDB2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MDB2.png
 logoKey: currencies/mdb2.png
 name: Meadowbrown
+platform: BNB
+platform_contract: '0x594639070752f2a585b11bc5657c8d3008fb5efe'

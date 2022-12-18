@@ -5,3 +5,5 @@ id_nomics: MOONCAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOONCAKE.png
 logoKey: currencies/mooncake.png
 name: MooncakeToken
+platform: ETH
+platform_contract: '0x5962579521cf2a615c48e71a51851df384ba03a3'

@@ -5,3 +5,5 @@ id_nomics: PTRON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PTRON.jpg
 logoKey: currencies/ptron.jpg
 name: PolkaTron
+platform: BNB
+platform_contract: '0x0d9fa95a131ea4627bc94ce9ea87aeb667e0d573'

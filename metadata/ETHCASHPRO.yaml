@@ -5,3 +5,5 @@ id_nomics: ETHCASHPRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHCASHPRO.png
 logoKey: currencies/ethcashpro.png
 name: EthereumCashPro
+platform: ETH
+platform_contract: '0x84862974a52ef8550fed40d2cc9cf9ed062f73c9'

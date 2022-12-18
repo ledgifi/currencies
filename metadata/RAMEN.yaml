@@ -6,3 +6,5 @@ id_nomics: RAMEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAMEN.jpg
 logoKey: currencies/ramen.jpg
 name: RamenSwap
+platform: BNB
+platform_contract: '0x4f47a0d15c1e53f3d94c069c7d16977c29f9cb6b'

@@ -5,3 +5,5 @@ id_nomics: VPU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VPU.jpeg
 logoKey: currencies/vpu.jpeg
 name: VPunks
+platform: VET
+platform_contract: '0xb0821559723db89e0bd14fee81e13a3aae007e65'

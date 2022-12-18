@@ -6,3 +6,5 @@ id_nomics: OML
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OML.jpg
 logoKey: currencies/oml.jpg
 name: Omlira
+platform: ETH
+platform_contract: '0x224db5e6180761df4c3d8936585f6b8b83879770'

@@ -5,3 +5,5 @@ id_nomics: ALBC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALBC3.jpeg
 logoKey: currencies/albc3.jpeg
 name: Albicoin
+platform: TRX
+platform_contract: '1004149'

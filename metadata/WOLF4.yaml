@@ -5,3 +5,5 @@ id_nomics: WOLF4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOLF4.jpg
 logoKey: currencies/wolf4.jpg
 name: Werewolf Protocol
+platform: ETH
+platform_contract: '0x0d647b11304678a0a7d1cd77fcd3395263a120f9'

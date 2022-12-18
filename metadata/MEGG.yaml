@@ -5,3 +5,5 @@ id_nomics: MEGG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEGG.png
 logoKey: currencies/megg.png
 name: Metaegg
+platform: BNB
+platform_contract: '0x39af062b155978f1d41b299601defac54e94cbd8'

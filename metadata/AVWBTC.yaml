@@ -3,3 +3,5 @@ fiat: false
 id: AVWBTC
 id_nomics: AVWBTC
 name: avWBTC
+platform: AVAX
+platform_contract: '0x686bef2417b6dc32c50a3cbfbcc3bb60e1e9a15d'

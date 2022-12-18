@@ -3,3 +3,5 @@ fiat: false
 id: CROWNNODE
 id_nomics: CROWNNODE
 name: Crown Node
+platform: AVAX
+platform_contract: '0x2394682078783e5c130f98a90a2715b0c84a4d41'

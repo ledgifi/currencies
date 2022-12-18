@@ -3,3 +3,5 @@ fiat: false
 id: OREFI
 id_nomics: OREFI
 name: Oracle Defi Coin
+platform: ETH
+platform_contract: '0x7f4b66154bb77fafc3f00f2339c2768f705e90de'

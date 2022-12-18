@@ -3,3 +3,5 @@ fiat: false
 id: DENDYCONSOLE
 id_nomics: DENDYCONSOLE
 name: Dendy Console
+platform: AVAX
+platform_contract: '0x2e35d5eccf322e87de89938a7a2014625e1abd91'

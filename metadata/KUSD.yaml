@@ -5,3 +5,5 @@ id_nomics: KUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KUSD.jpg
 logoKey: currencies/kusd.jpg
 name: Kine USD
+platform: ETH
+platform_contract: '0xd4c220ccac0335334d425a90f58de7c667896a06'

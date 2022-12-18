@@ -3,3 +3,5 @@ fiat: false
 id: POLONIEX
 id_nomics: POLONIEX
 name: Poloniex Exchange
+platform: MATIC
+platform_contract: '0xcdbcb71a8da5786d6c11ad1aa08421b6c8380477'

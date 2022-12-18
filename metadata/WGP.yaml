@@ -6,3 +6,5 @@ id_nomics: WGP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WGP.png
 logoKey: currencies/wgp.png
 name: W Green Pay
+platform: ETH
+platform_contract: '0xdd94842c15abfe4c9bafe4222ade02896beb064c'

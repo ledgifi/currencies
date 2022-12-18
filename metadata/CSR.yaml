@@ -5,3 +5,5 @@ id_nomics: CSR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CSR.jpg
 logoKey: currencies/csr.jpg
 name: CaesarToken
+platform: BNB
+platform_contract: '0xfb86d89db1851eed30dd688bbed4aa19bc10c60d'

@@ -6,3 +6,5 @@ id_nomics: ZXT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZXT.png
 logoKey: currencies/zxt.png
 name: Zhixin Chain
+platform: ETH
+platform_contract: '0x8ed5afcb8877624802a0cbfb942c95c2b7c87146'

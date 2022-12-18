@@ -3,3 +3,5 @@ fiat: false
 id: CNIL
 id_nomics: CNIL
 name: The Council
+platform: ETH
+platform_contract: '0x452f7fd56de954539d23991953239fb808b822a3'

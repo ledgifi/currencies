@@ -5,3 +5,5 @@ id_nomics: UAACX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UAACX.jpg
 logoKey: currencies/uaacx.jpg
 name: Under Armour, Inc. Token
+platform: ETH
+platform_contract: '0x4ad72841eea8cd10db1d2aeb8e2c59064126c83d'

@@ -5,3 +5,5 @@ id_nomics: FIRU2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIRU2.png
 logoKey: currencies/firu2.png
 name: Firulaixcoin
+platform: MOVR
+platform_contract: '0x2fbe6b6f1e3e2efc69495f0c380a01c003e47225'

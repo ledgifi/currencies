@@ -6,3 +6,5 @@ id_nomics: PIG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIG.jpg
 logoKey: currencies/pig.jpg
 name: Pig Finance
+platform: BNB
+platform_contract: '0x8850d2c68c632e3b258e612abaa8fada7e6958e5'

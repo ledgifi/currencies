@@ -5,3 +5,5 @@ id_nomics: FUFU2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FUFU2.jpg
 logoKey: currencies/fufu2.jpg
 name: FUFU
+platform: BNB
+platform_contract: '0x509a51394cc4d6bb474fefb2994b8975a55a6e79'

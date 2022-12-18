@@ -5,3 +5,5 @@ id_nomics: MFR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MFR2.jpg
 logoKey: currencies/mfr2.jpg
 name: MaferToken.co
+platform: ETH
+platform_contract: '0xbd4e39acf23c96d68e2ab28337ae6b25441b32c2'

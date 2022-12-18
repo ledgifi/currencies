@@ -5,3 +5,5 @@ id_nomics: JAILDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JAILDOGE.jpg
 logoKey: currencies/jaildoge.jpg
 name: Jail Doge
+platform: BNB
+platform_contract: '0xbe4628d7e02e9257875149fa4981c400a01a49a3'

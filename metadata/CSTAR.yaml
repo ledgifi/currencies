@@ -5,3 +5,5 @@ id_nomics: CSTAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CSTAR.jpg
 logoKey: currencies/cstar.jpg
 name: CeloStarter
+platform: CELO
+platform_contract: '0x452ef5a4bd00796e62e5e5758548e0da6e8ccdf3'

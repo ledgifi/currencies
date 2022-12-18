@@ -6,3 +6,5 @@ id_nomics: DYT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DYT.jpeg
 logoKey: currencies/dyt.jpeg
 name: DoYourTip
+platform: BNB
+platform_contract: '0x740623d2c797b7d8d1ecb98e9b4afcf99ec31e14'

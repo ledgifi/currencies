@@ -6,3 +6,5 @@ id_nomics: BSOCIAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSOCIAL.jpg
 logoKey: currencies/bsocial.jpg
 name: BankSocial
+platform: ETH
+platform_contract: '0x26a79bd709a7ef5e5f747b8d8f83326ea044d8cc'

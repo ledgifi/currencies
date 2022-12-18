@@ -5,3 +5,5 @@ id_nomics: XERC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XERC.jpg
 logoKey: currencies/xerc.jpg
 name: Xeon Coin
+platform: BNB
+platform_contract: '0x78bdbc900e9bdf30ca3ca8e92ca042e1eb093594'

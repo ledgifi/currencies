@@ -6,3 +6,5 @@ id_nomics: HHMR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HHMR.jpeg
 logoKey: currencies/hhmr.jpeg
 name: Hancock's Hammer
+platform: BNB
+platform_contract: '0xdf6ae71d51f12466bbae4b0686eda3627ad13d94'

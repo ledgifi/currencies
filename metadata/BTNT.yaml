@@ -6,3 +6,5 @@ id_nomics: BTNT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/btnt.jpg
 logoKey: currencies/btnt.jpg
 name: BitNautic Token
+platform: ETH
+platform_contract: '0xc45dbdf28844fdb1482c502897d433ac08d6ccd0'

@@ -5,3 +5,5 @@ id_nomics: ROM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/rom.png
 logoKey: currencies/rom.png
 name: ROM
+platform: ETH
+platform_contract: '0xacaca5b8805636608e14c64b0bfffc2deb2c6cec'

@@ -6,3 +6,5 @@ id_nomics: MINIBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINIBTC.jpg
 logoKey: currencies/minibtc.jpg
 name: MiniBTC
+platform: BNB
+platform_contract: '0x3bc72eff96752c2f66c7de855f97c23ec4a1ac01'

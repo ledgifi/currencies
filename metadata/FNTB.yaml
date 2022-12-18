@@ -6,3 +6,5 @@ id_nomics: FNTB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FNTB.png
 logoKey: currencies/fntb.png
 name: FinTab
+platform: ETH
+platform_contract: '0xbd4b60a138b3fce3584ea01f50c0908c18f9677a'

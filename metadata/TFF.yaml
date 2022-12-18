@@ -6,3 +6,5 @@ id_nomics: TFF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TFF.jpg
 logoKey: currencies/tff.jpg
 name: Tutti Frutti
+platform: BNB
+platform_contract: '0x2d69c55baecefc6ec815239da0a985747b50db6e'

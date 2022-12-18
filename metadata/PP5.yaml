@@ -5,3 +5,5 @@ id_nomics: PP5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PP5.jpeg
 logoKey: currencies/pp5.jpeg
 name: Profit Pay
+platform: MATIC
+platform_contract: '0xfAbfb07b6a738D4B9FbDd28C6843017bDe24Ac82'

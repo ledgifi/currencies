@@ -6,3 +6,5 @@ id_nomics: FSBT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FSBT.PNG
 logoKey: currencies/fsbt.png
 name: FSBT API Token
+platform: ETH
+platform_contract: '0x1ed7ae1f0e2fa4276dd7ddc786334a3df81d50c0'

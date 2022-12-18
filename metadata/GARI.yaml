@@ -3,3 +3,5 @@ fiat: false
 id: GARI
 id_nomics: GARI
 name: GARI Token
+platform: BNB
+platform_contract: '0x9b9eaefc1031d24d688784b2b0c8b3568b4f289f'

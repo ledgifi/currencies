@@ -3,3 +3,5 @@ fiat: false
 id: TSUKIYOMI
 id_nomics: TSUKIYOMI
 name: Tsukiyomi ETH
+platform: ETH
+platform_contract: '0x853308353e1c7bb9f527dc3c1c550ad3062152a6'

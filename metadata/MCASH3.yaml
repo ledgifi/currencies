@@ -5,3 +5,5 @@ id_nomics: MCASH3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCASH3.jpg
 logoKey: currencies/mcash3.jpg
 name: Monsoon Finance
+platform: MATIC
+platform_contract: '0xa25610a77077390a75ad9072a084c5fbc7d43a0d'

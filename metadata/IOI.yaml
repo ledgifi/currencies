@@ -6,3 +6,5 @@ id_nomics: IOI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IOI.jpg
 logoKey: currencies/ioi.jpg
 name: IOI Token
+platform: ETH
+platform_contract: '0x8b3870df408ff4d7c3a26df852d41034eda11d81'

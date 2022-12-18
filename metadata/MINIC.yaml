@@ -3,3 +3,5 @@ fiat: false
 id: MINIC
 id_nomics: MINIC
 name: MiniCronos
+platform: CRO
+platform_contract: '0x8a04a27c1de1d57742184fc36454e4eb693f7528'

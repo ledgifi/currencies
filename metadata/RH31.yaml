@@ -5,3 +5,5 @@ id_nomics: RH31
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RH31.jpg
 logoKey: currencies/rh31.jpg
 name: Rabbit Halloween
+platform: BNB
+platform_contract: '0x6be940759586a4f479086d7c606cdb6ba60ce6b3'

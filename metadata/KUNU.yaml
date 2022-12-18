@@ -6,3 +6,5 @@ id_nomics: KUNU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KUNU.jpg
 logoKey: currencies/kunu.jpg
 name: KuramaInu
+platform: ETH
+platform_contract: '0xe49cb97091b5bde1e8b7043e3d5717e64fde825e'

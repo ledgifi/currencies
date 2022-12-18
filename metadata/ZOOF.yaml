@@ -5,3 +5,5 @@ id_nomics: ZOOF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZOOF.jpeg
 logoKey: currencies/zoof.jpeg
 name: ZooFinance
+platform: BNB
+platform_contract: '0x0bf23485e455567ae3e32469c1be043f46c016fc'

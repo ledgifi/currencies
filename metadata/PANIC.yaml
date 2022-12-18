@@ -3,3 +3,5 @@ fiat: false
 id: PANIC
 id_nomics: PANIC
 name: PanicSwap
+platform: FTM
+platform_contract: '0xa882ceac81b22fc2bef8e1a82e823e3e9603310b'

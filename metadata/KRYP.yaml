@@ -5,3 +5,5 @@ id_nomics: KRYP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KRYP.jpg
 logoKey: currencies/kryp.jpg
 name: Kryptonium
+platform: ETH
+platform_contract: '0x89332542b57621dbee1e305b30b0e02f86283100'

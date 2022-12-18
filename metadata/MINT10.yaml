@@ -3,3 +3,5 @@ fiat: false
 id: MINT10
 id_nomics: MINT10
 name: MintStarter
+platform: ETH
+platform_contract: '0x583673b49ee3ae9e59c0b2fa662115952e1d28fd'

@@ -5,3 +5,5 @@ id_nomics: ZCO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/zco.jpg
 logoKey: currencies/zco.jpg
 name: Zebi Coin
+platform: ETH
+platform_contract: '0x2008e3057bd734e10ad13c9eae45ff132abc1722'

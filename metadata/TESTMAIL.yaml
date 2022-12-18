@@ -3,3 +3,5 @@ fiat: false
 id: TESTMAIL
 id_nomics: TESTMAIL
 name: test myriad family
+platform: BNB
+platform_contract: '0xbc7a2094bb4bc766236a7e2ac7d10e8efd27edd2'

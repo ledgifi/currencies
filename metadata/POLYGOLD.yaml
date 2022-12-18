@@ -5,3 +5,5 @@ id_nomics: POLYGOLD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POLYGOLD.jpg
 logoKey: currencies/polygold.jpg
 name: PolyGold
+platform: MATIC
+platform_contract: '0x0184316f58b9a44acdd3e683257259dc0cf2202a'

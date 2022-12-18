@@ -6,3 +6,5 @@ id_nomics: IDEAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IDEAL.jpg
 logoKey: currencies/ideal.jpg
 name: IdealCoin
+platform: ETH
+platform_contract: '0x2d153f2adccbe9364f9e4ed5843308abd0bf93da'

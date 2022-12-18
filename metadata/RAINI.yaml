@@ -6,3 +6,5 @@ id_nomics: RAINI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAINI.jpg
 logoKey: currencies/raini.jpg
 name: Rainicorn
+platform: ETH
+platform_contract: '0xeb953eda0dc65e3246f43dc8fa13f35623bdd5ed'

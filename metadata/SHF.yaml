@@ -3,3 +3,5 @@ fiat: false
 id: SHF
 id_nomics: SHF
 name: Schiff
+platform: BNB
+platform_contract: '0x58ee1a4ec704b955d348a6fcdecac85937695b9f'

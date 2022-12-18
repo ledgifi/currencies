@@ -5,3 +5,5 @@ id_nomics: HAYYA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HAYYA.jpg
 logoKey: currencies/hayya.jpg
 name: Hayya
+platform: BNB
+platform_contract: '0x28b9736141832546b85e194a716ef94a94c5a418'

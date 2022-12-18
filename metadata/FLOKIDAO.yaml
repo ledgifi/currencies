@@ -5,3 +5,5 @@ id_nomics: FLOKIDAO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKIDAO.jpeg
 logoKey: currencies/flokidao.jpeg
 name: Floki DAO
+platform: BNB
+platform_contract: '0xa7e3f6574614c34f13de41f868d53c009718ab20'

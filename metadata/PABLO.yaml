@@ -6,3 +6,5 @@ id_nomics: PABLO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PABLO.jpg
 logoKey: currencies/pablo.jpg
 name: The Pablo Token
+platform: BNB
+platform_contract: '0xc196e98f3d0c2e973a33b0f7768ee501dec43350'

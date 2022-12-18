@@ -5,3 +5,5 @@ id_nomics: CNG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CNG2.jpeg
 logoKey: currencies/cng2.jpeg
 name: Changer
+platform: ETH
+platform_contract: '0x5c1d9aa868a30795f92fae903edc9eff269044bf'

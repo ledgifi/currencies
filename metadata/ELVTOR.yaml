@@ -3,3 +3,5 @@ fiat: false
 id: ELVTOR
 id_nomics: ELVTOR
 name: Elevator
+platform: ETH
+platform_contract: '0xa3fdd9a40ec296acc51507be7782061b3d7d3725'

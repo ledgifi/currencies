@@ -3,3 +3,5 @@ fiat: false
 id: CASHDOGE
 id_nomics: CASHDOGE
 name: Cash Doge
+platform: BNB
+platform_contract: '0x1f9befd3f903f05eb05eb84b8f039a32974b8208'

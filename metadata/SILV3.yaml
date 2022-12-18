@@ -4,3 +4,5 @@ id: SILV3
 id_nomics: SILV3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SILV3.jpg
 name: xbullion silver
+platform: ETH
+platform_contract: '0x628ab8b061fea2af1239b68efa5e46135d186666'

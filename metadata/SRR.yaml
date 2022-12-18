@@ -5,3 +5,5 @@ id_nomics: SRR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SRR.jpeg
 logoKey: currencies/srr.jpeg
 name: Shuey Rhon Rhon
+platform: BNB
+platform_contract: '0x0f7a77fbda2ef724fd3511a8cd0582b7510574af'

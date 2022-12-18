@@ -5,3 +5,5 @@ id_nomics: ULEET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ULEET.png
 logoKey: currencies/uleet.png
 name: UltraLeet
+platform: BNB
+platform_contract: '0x325F62b0E7fFf780dE24e6BbDbf052721207Ce75'

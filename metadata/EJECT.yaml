@@ -6,3 +6,5 @@ id_nomics: EJECT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EJECT.jpg
 logoKey: currencies/eject.jpg
 name: Eject
+platform: BNB
+platform_contract: '0x2d43dfe648bb8c9c22f9ffcd1937369a9fdd0ebc'

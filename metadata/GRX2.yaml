@@ -5,3 +5,5 @@ id_nomics: GRX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GRX2.jpg
 logoKey: currencies/grx2.jpg
 name: GravitX
+platform: BNB
+platform_contract: '0x8fba8c1f92210f24fb277b588541ac1952e1aac8'

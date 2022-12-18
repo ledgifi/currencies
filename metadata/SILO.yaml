@@ -5,3 +5,5 @@ id_nomics: SILO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SILO.png
 logoKey: currencies/silo.png
 name: Silo Governance Token
+platform: ETH
+platform_contract: '0x6f80310ca7f2c654691d1383149fa1a57d8ab1f8'

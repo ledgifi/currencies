@@ -6,3 +6,5 @@ id_nomics: STZEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STZEN.jpg
 logoKey: currencies/stzen.jpg
 name: StakedZEN
+platform: ETH
+platform_contract: '0x31b595e7cfdb624d10a3e7a562ed98c3567e3865'

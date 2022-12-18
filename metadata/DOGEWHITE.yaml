@@ -5,3 +5,5 @@ id_nomics: DOGEWHITE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEWHITE.jpeg
 logoKey: currencies/dogewhite.jpeg
 name: DogeWhiteCoin
+platform: BNB
+platform_contract: '0xd00a5ab84d293db00f56b5380de596a91b9391bc'

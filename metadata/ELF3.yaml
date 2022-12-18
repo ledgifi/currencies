@@ -5,3 +5,5 @@ id_nomics: ELF3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELF3.jpeg
 logoKey: currencies/elf3.jpeg
 name: Elf Token
+platform: BNB
+platform_contract: '0xca5d639197e102e1cead3b2910366ef9909efecc'

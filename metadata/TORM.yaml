@@ -3,3 +3,5 @@ fiat: false
 id: TORM
 id_nomics: TORM
 name: Thorium
+platform: ETH
+platform_contract: '0x8cea63f6383c1c13633f179f1af70ef75701a979'

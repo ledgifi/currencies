@@ -5,3 +5,5 @@ id_nomics: SINU13
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SINU13.jpg
 logoKey: currencies/sinu13.jpg
 name: Sage Inu
+platform: BNB
+platform_contract: '0x4ec32bf1e151aa82dbd4247cdaacb8b3c7b57686'

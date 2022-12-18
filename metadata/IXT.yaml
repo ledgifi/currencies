@@ -5,3 +5,5 @@ id_nomics: IXT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ixt.svg
 logoKey: currencies/ixt.svg
 name: iXledger
+platform: ETH
+platform_contract: '0xfca47962d45adfdfd1ab2d972315db4ce7ccf094'

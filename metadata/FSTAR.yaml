@@ -6,3 +6,5 @@ id_nomics: FSTAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FSTAR.jpg
 logoKey: currencies/fstar.jpg
 name: Future Star
+platform: BNB
+platform_contract: '0x6f8f7fd4c1c07da8fa5c4d4e59afbfd7b47d39c4'

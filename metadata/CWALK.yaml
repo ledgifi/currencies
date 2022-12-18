@@ -5,3 +5,5 @@ id_nomics: CWALK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CWALK.jpg
 logoKey: currencies/cwalk.jpg
 name: CryptoWalk
+platform: BNB
+platform_contract: '0x621406f35e2b8085a56e206d76b30617a080b427'

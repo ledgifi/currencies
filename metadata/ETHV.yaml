@@ -6,3 +6,5 @@ id_nomics: ETHV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHV.jpg
 logoKey: currencies/ethv.jpg
 name: Ethverse
+platform: ETH
+platform_contract: '0xeeeeeeeee2af8d0e1940679860398308e0ef24d6'

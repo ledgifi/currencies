@@ -5,3 +5,5 @@ id_nomics: KRPT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KRPT.jpg
 logoKey: currencies/krpt.jpg
 name: Kriptocoin
+platform: ETH
+platform_contract: '0x2c650e77f77440cad701d4063a99c71be0c53e0d'

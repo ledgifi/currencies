@@ -6,3 +6,5 @@ id_nomics: KLEE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KLEE.jpg
 logoKey: currencies/klee.jpg
 name: KleeKai
+platform: ETH
+platform_contract: '0x382f0160c24f5c515a19f155bac14d479433a407'

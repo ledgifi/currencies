@@ -5,3 +5,5 @@ id_nomics: BITDOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITDOT.png
 logoKey: currencies/bitdot.png
 name: bitBOMB DOT Peg
+platform: BNB
+platform_contract: '0x123c62f04c9d70bd6f04e6282434c728f04ebd50'

@@ -6,3 +6,5 @@ id_nomics: BCVT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCVT.png
 logoKey: currencies/bcvt.png
 name: BitcoinVend
+platform: ETH
+platform_contract: '0x8d717ab5eac1016b64c2a7fd04720fd2d27d1b86'

@@ -3,3 +3,5 @@ fiat: false
 id: USDF3
 id_nomics: USDF3
 name: USD Freedom
+platform: ETH
+platform_contract: '0x963035453633f6f7433032c958f82eb3043d8cd2'

@@ -5,3 +5,5 @@ id_nomics: SBP4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBP4.jpg
 logoKey: currencies/sbp4.jpg
 name: Shiba Burn Tribe
+platform: BNB
+platform_contract: '0x2e01bfdba0b2b38ad75a20930076d6efa0119ad1'

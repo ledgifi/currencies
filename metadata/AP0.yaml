@@ -3,3 +3,5 @@ fiat: false
 id: AP0
 id_nomics: AP0
 name: AutoPump0
+platform: AVAX
+platform_contract: '0x8c7ec7b4270dcb92baedcf88b9f9993cd0eb482f'

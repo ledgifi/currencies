@@ -6,3 +6,5 @@ id_nomics: GUSD
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/gusd.svg
 logoKey: currencies/gusd.svg
 name: Gemini dollar
+platform: ETH
+platform_contract: '0x056fd409e1d7a124bd7017459dfea2f387b6d5cd'

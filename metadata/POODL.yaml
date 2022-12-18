@@ -5,3 +5,5 @@ id_nomics: POODL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POODL.jpg
 logoKey: currencies/poodl.jpg
 name: Poodl (ERC-20)
+platform: ETH
+platform_contract: '0x56a980328aee33aabb540a02e002c8323326bf36'

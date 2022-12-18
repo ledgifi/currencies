@@ -5,3 +5,5 @@ id_nomics: SPACETOAST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPACETOAST.jpg
 logoKey: currencies/spacetoast.jpg
 name: SpaceToast
+platform: BNB
+platform_contract: '0x623b3a37e06268e99096a56a8a0c1207a024245d'

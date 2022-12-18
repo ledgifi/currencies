@@ -6,3 +6,5 @@ id_nomics: ATIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATIS.jpg
 logoKey: currencies/atis.jpg
 name: Atlantis Token
+platform: ETH
+platform_contract: '0x821144518dfe9e7b44fcf4d0824e15e8390d4637'

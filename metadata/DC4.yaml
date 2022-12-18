@@ -5,3 +5,5 @@ id_nomics: DC4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DC4.png
 logoKey: currencies/dc4.png
 name: DogeCrash
+platform: BNB
+platform_contract: '0x4e0c3e7d1236ef7d0e0cc64c498ce35c52f0222f'

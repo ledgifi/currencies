@@ -6,3 +6,5 @@ id_nomics: KAINET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAINET.jpg
 logoKey: currencies/kainet.jpg
 name: Kai Net
+platform: BNB
+platform_contract: '0x723b6795be37ad8a0376acfb50034fa21912b439'

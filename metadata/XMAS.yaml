@@ -5,3 +5,5 @@ id_nomics: XMAS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XMAS.jpeg
 logoKey: currencies/xmas.jpeg
 name: Xmas
+platform: BNB
+platform_contract: '0xf5aa0e578249548bf3888107cb5b052401b39205'

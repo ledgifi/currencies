@@ -3,3 +3,5 @@ fiat: false
 id: PLSPAD
 id_nomics: PLSPAD
 name: PulsePad
+platform: BNB
+platform_contract: '0x8a74bc8c372bc7f0e9ca3f6ac0df51be15aec47a'

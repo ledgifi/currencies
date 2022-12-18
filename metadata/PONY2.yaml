@@ -5,3 +5,5 @@ id_nomics: PONY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PONY2.jpg
 logoKey: currencies/pony2.jpg
 name: Little Pony
+platform: BNB
+platform_contract: '0x73dc40735bf9158592692c0eae63ce79e8273bd5'

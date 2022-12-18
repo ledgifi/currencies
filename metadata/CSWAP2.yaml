@@ -5,3 +5,5 @@ id_nomics: CSWAP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CSWAP2.jpg
 logoKey: currencies/cswap2.jpg
 name: CrossSwap
+platform: BNB
+platform_contract: '0xe0b0c16038845bed3fcf70304d3e167df81ce225'

@@ -6,3 +6,5 @@ id_nomics: PALLAS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PALLAS.jpg
 logoKey: currencies/pallas.jpg
 name: Pallas Finance
+platform: FTM
+platform_contract: '0x5717f11ac1c3ae83e0eb455222e488009951f0c3'

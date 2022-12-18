@@ -3,3 +3,5 @@ fiat: false
 id: GREEN10
 id_nomics: GREEN10
 name: Greenhouse
+platform: MATIC
+platform_contract: '0x40db6d7812b8288eca452f912ca9f262b186f278'

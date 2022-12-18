@@ -5,3 +5,5 @@ id_nomics: ICE7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICE7.jpeg
 logoKey: currencies/ice7.jpeg
 name: Ice Dao
+platform: AVAX
+platform_contract: '0x9235b893a3e61a14b2d02a91ec1394fbf411689e'

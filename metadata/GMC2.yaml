@@ -3,3 +3,5 @@ fiat: false
 id: GMC2
 id_nomics: GMC2
 name: Gamma Coin
+platform: ETH
+platform_contract: '0xa311856b777df090d2d3d8c306caaf6e4dfd9ae9'

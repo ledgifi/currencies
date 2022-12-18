@@ -5,3 +5,5 @@ id_nomics: CVDG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CVDG.jpeg
 logoKey: currencies/cvdg.jpeg
 name: CovidGrimace
+platform: BNB
+platform_contract: '0x62839f88c62064690f3d87fe59aa8c61b051e3e2'

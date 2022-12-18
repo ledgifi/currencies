@@ -3,3 +3,5 @@ fiat: false
 id: FEEX
 id_nomics: FEEX
 name: FEEX
+platform: ETH
+platform_contract: '0xbb21e4dfefcbd0cc5c39883ca69414510607ff9b'

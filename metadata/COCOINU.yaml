@@ -3,3 +3,5 @@ fiat: false
 id: COCOINU
 id_nomics: COCOINU
 name: Coco Inu
+platform: ETH
+platform_contract: '0x0caef13ef4f338664f301ce460989ecf5ab72240'

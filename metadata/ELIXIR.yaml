@@ -6,3 +6,5 @@ id_nomics: ELIXIR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELIXIR.jpg
 logoKey: currencies/elixir.jpg
 name: Starchi
+platform: MATIC
+platform_contract: '0xed0bb69f9f96e8c5fffdf16c468ecec385134ea5'

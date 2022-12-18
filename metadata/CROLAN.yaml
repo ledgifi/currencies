@@ -5,3 +5,5 @@ id_nomics: CROLAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CROLAN.png
 logoKey: currencies/crolan.png
 name: CrolanDuck
+platform: CRO
+platform_contract: '0x3aC9D21F8ABfb56399cbC0CEd844BcF848ED3654'

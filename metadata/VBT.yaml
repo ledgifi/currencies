@@ -5,3 +5,5 @@ id_nomics: VBT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VBT.jpg
 logoKey: currencies/vbt.jpg
 name: VBT
+platform: ETH
+platform_contract: '0x1ffe24629f1b3df74fc0f6e5d086f2fd09258ff2'

@@ -3,3 +3,5 @@ fiat: false
 id: ATOSHI
 id_nomics: ATOSHI
 name: Atoshi
+platform: BNB
+platform_contract: '0x2d04be18d1b154750fd18f021074b2cbaca8c7c4'

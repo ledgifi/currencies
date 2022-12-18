@@ -6,3 +6,5 @@ id_nomics: BETU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BETU.jpg
 logoKey: currencies/betu.jpg
 name: Betu
+platform: BNB
+platform_contract: '0x0df1b3f30865c5b324797f8db9d339514cac4e94'

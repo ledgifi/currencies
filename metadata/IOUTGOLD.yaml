@@ -3,3 +3,5 @@ fiat: false
 id: IOUTGOLD
 id_nomics: IOUTGOLD
 name: IOU Twin GOLD
+platform: BNB
+platform_contract: '0x7fed32fccc5ce48c9ff31617fdbb3627d4fef36f'

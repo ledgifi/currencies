@@ -3,3 +3,5 @@ fiat: false
 id: KONI
 id_nomics: KONI
 name: Koni Token
+platform: ETH
+platform_contract: '0xb7be3d875690ee38d7197afe0e8083e2ef33761d'

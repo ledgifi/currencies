@@ -5,3 +5,5 @@ id_nomics: SAFEBTCERC20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFEBTCERC20.jpg
 logoKey: currencies/safebtcerc20.jpg
 name: SafeBTC (ERC-20)
+platform: ETH
+platform_contract: '0x62d693fe5c13b5a5b24c9ec3f423e51c35f5624f'

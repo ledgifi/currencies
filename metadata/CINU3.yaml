@@ -5,3 +5,5 @@ id_nomics: CINU3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CINU3.jpeg
 logoKey: currencies/cinu3.jpeg
 name: Crested Inu
+platform: BNB
+platform_contract: '0xf18946522ebe85853977427bd06bd58b760ddd98'

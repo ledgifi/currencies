@@ -5,3 +5,5 @@ id_nomics: HAPE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HAPE2.jpeg
 logoKey: currencies/hape2.jpeg
 name: HapeCoin
+platform: BNB
+platform_contract: '0xdbd9710ea0b35509c00c56864f384045bf52544e'

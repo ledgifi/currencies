@@ -3,3 +3,5 @@ fiat: false
 id: WAT
 id_nomics: WAT
 name: WaterLoan
+platform: SMARTBCH
+platform_contract: '0x355bf937d42dd19ee60f730d505b0ac03b03e2ae'

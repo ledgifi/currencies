@@ -5,3 +5,5 @@ id_nomics: ZOOM3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZOOM3.jpg
 logoKey: currencies/zoom3.jpg
 name: ZoomSwap
+platform: IOTX
+platform_contract: '0x86702a7f8898b172de396eb304d7d81207127915'

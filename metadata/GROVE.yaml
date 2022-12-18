@@ -5,3 +5,5 @@ id_nomics: GROVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GROVE.jpg
 logoKey: currencies/grove.jpg
 name: Orange Grove Token
+platform: BNB
+platform_contract: '0xa05e98a122bB33cC2c8ECf3A098FD52053493f80'

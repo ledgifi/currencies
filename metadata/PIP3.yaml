@@ -5,3 +5,5 @@ id_nomics: PIP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIP3.jpg
 logoKey: currencies/pip3.jpg
 name: Pi-Protocol
+platform: ETH
+platform_contract: '0x37613D64258c0FE09d5E53EeCb091DA5b8fA8707'

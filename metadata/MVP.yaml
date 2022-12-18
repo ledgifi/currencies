@@ -6,3 +6,5 @@ id_nomics: MVP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/mvp.png
 logoKey: currencies/mvp.png
 name: Merculet
+platform: ETH
+platform_contract: '0x8a77e40936bbc27e80e9a3f526368c967869c86d'

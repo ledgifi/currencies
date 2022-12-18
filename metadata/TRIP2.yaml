@@ -5,3 +5,5 @@ id_nomics: TRIP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRIP2.png
 logoKey: currencies/trip2.png
 name: TRIP
+platform: FTM
+platform_contract: '0xD948EfcC99be419cA9bDACE89b2beC31EDF13adB'

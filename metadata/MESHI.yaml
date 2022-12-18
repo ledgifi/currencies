@@ -6,3 +6,5 @@ id_nomics: MESHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MESHI.jpeg
 logoKey: currencies/meshi.jpeg
 name: Meta Shiba
+platform: BNB
+platform_contract: '0xe1b0c129d63f6efdecaa2cb1968f5a1fb61f0f30'

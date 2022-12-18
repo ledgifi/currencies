@@ -5,3 +5,5 @@ id_nomics: BC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BC3.jpg
 logoKey: currencies/bc3.jpg
 name: BoggieCoin
+platform: BNB
+platform_contract: '0x1570dd4dd36ad9e66d53179ecad33bf66dfd722b'

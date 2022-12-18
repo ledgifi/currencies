@@ -5,3 +5,5 @@ id_nomics: OTEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OTEN.jpg
 logoKey: currencies/oten.jpg
 name: OnlyTen
+platform: ETH
+platform_contract: '0x061206cff531afe9b69f1c82cedd036a15a7c4a9'

@@ -6,3 +6,5 @@ id_nomics: B2B
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/B2B.png
 logoKey: currencies/b2b.png
 name: B2BX
+platform: ETH
+platform_contract: '0x5d51fcced3114a8bb5e90cdd0f9d682bcbcc5393'

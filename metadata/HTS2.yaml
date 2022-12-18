@@ -5,3 +5,5 @@ id_nomics: HTS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HTS2.jpg
 logoKey: currencies/hts2.jpg
 name: Hostingicos
+platform: BNB
+platform_contract: '0xd5833f30472e6eca336d337f6efbb1addfb3302c'

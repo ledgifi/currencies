@@ -6,3 +6,5 @@ id_nomics: INFLEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INFLEX.jpg
 logoKey: currencies/inflex.jpg
 name: Inflex Finance
+platform: BNB
+platform_contract: '0xc883a206bd7009f091aa17a421cabdcca5a21a42'

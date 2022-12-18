@@ -5,3 +5,5 @@ id_nomics: BAKC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAKC.jpg
 logoKey: currencies/bakc.jpg
 name: BAKC Vault (NFTX)
+platform: ETH
+platform_contract: '0xe632e1ea781df32c60ab11052958744cbfbc439a'

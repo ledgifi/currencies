@@ -6,3 +6,5 @@ id_nomics: RFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RFT.png
 logoKey: currencies/rft.png
 name: Rangers Fan Token
+platform: BITCI
+platform_contract: '0xf930a91a60deb0eb1fe9419a85f95d21badabd34'

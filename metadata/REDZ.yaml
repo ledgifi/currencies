@@ -5,3 +5,5 @@ id_nomics: REDZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/REDZ.jpg
 logoKey: currencies/redz.jpg
 name: RedZilla
+platform: BNB
+platform_contract: '0xf9e45bf69d369d3e1ad2e16bd3ec4006c330f33a'

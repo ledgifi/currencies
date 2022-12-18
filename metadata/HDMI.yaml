@@ -3,3 +3,5 @@ fiat: false
 id: HDMI
 id_nomics: HDMI
 name: HDMI
+platform: HT
+platform_contract: '0x893a976acd3b12fee7504fead651dbe8573abd2c'

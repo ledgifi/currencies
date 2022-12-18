@@ -5,3 +5,5 @@ id_nomics: DEFIANT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEFIANT.jpg
 logoKey: currencies/defiant.jpg
 name: DEFIANT
+platform: BNB
+platform_contract: '0x22a2fd6c971c824c3ae6921cfdb84cf2788fa4d9'

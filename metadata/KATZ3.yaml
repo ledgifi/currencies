@@ -5,3 +5,5 @@ id_nomics: KATZ3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KATZ3.png
 logoKey: currencies/katz3.png
 name: KATZ
+platform: DC7
+platform_contract: '0x446eb7770d4e34772b75b3c795d2c2cd00a19808'

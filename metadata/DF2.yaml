@@ -3,3 +3,5 @@ fiat: false
 id: DF2
 id_nomics: DF2
 name: Daily Funds
+platform: ETH
+platform_contract: '0xa73862c5a66cf3be4bf86f60acf085bd927f83f8'

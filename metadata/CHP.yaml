@@ -6,3 +6,5 @@ id_nomics: CHP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/chp.png
 logoKey: currencies/chp.png
 name: CoinPoker
+platform: ETH
+platform_contract: '0xf3db7560e820834658b590c96234c333cd3d5e5e'

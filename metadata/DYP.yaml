@@ -6,3 +6,5 @@ id_nomics: DYP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DYP.jpg
 logoKey: currencies/dyp.jpg
 name: DeFi Yield Protocol
+platform: ETH
+platform_contract: '0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17'

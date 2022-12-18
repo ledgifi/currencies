@@ -3,3 +3,5 @@ fiat: false
 id: AMPLBEP20
 id_nomics: AMPLBEP20
 name: AMPL (BEP-20)
+platform: BNB
+platform_contract: '0xdb021b1b247fe2f1fa57e0a87c748cc1e321f07f'

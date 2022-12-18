@@ -3,3 +3,5 @@ fiat: false
 id: SWETH1
 id_nomics: SWETH1
 name: Synth Wrapped ETH
+platform: XDAI
+platform_contract: '0x3b4c345a161b03e8498dc6770ce8cc5c1ae74571'

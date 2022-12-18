@@ -5,3 +5,5 @@ id_nomics: KTNBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KTNBEP20.png
 logoKey: currencies/ktnbep20.png
 name: Kattana (BEP-20)
+platform: BNB
+platform_contract: '0xdae6c2a48bfaa66b43815c5548b10800919c993e'

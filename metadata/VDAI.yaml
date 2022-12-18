@@ -5,3 +5,5 @@ id_nomics: VDAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VDAI.jpg
 logoKey: currencies/vdai.jpg
 name: Venus DAI
+platform: BNB
+platform_contract: '0x334b3ecb4dca3593bccc3c7ebd1a1c1d1780fbf1'

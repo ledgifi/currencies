@@ -5,3 +5,5 @@ id_nomics: BSC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSC3.jpg
 logoKey: currencies/bsc3.jpg
 name: BSC Farm
+platform: BNB
+platform_contract: '0x17bc015607fdf93e7c949e9ca22f96907cfbef88'

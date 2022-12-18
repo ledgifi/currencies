@@ -5,3 +5,5 @@ id_nomics: MUSKTWITTER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MUSKTWITTER.jpg
 logoKey: currencies/musktwitter.jpg
 name: Donald Musk Twitter
+platform: BNB
+platform_contract: '0xd82e2c7294921dc2f3dea70119720ecdd0194916'

@@ -6,3 +6,5 @@ id_nomics: CLION
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLION.jpg
 logoKey: currencies/clion.jpg
 name: CryptoLion
+platform: BNB
+platform_contract: '0x96b159184fd2a9323b9c29a99a07eb01c3a95050'

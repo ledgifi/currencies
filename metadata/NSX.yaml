@@ -5,3 +5,5 @@ id_nomics: NSX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NSX.jpg
 logoKey: currencies/nsx.jpg
 name: NeoSwap
+platform: BNB
+platform_contract: '0xefc0Df1Ad89E910AD58FdE60eF442170C519f542'

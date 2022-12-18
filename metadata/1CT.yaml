@@ -3,3 +3,5 @@ fiat: false
 id: 1CT
 id_nomics: 1CT
 name: 1ClickToken
+platform: ETH
+platform_contract: '0x8cb40391a52412127232747294f737b7882fc873'

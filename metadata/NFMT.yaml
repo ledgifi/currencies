@@ -3,3 +3,5 @@ fiat: false
 id: NFMT
 id_nomics: NFMT
 name: Non Fungible Media Token
+platform: ETH
+platform_contract: '0xc08515d77c8e20d5957df9ad492e426020be64fe'

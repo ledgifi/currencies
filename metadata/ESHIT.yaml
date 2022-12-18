@@ -3,3 +3,5 @@ fiat: false
 id: ESHIT
 id_nomics: ESHIT
 name: eShitCoin
+platform: ETH
+platform_contract: '0x6551c144f5382f6fcde4fa46c538841b3938fdd8'

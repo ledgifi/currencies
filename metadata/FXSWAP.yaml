@@ -3,3 +3,5 @@ fiat: false
 id: FXSWAP
 id_nomics: FXSWAP
 name: FxswapToken
+platform: ETH
+platform_contract: '0xe33586055d39b7d2d17be6f2ae0671447e98c72b'

@@ -3,3 +3,5 @@ fiat: false
 id: ENO
 id_nomics: ENO
 name: ENO
+platform: MATIC
+platform_contract: '0x7f36c54da31b2dd355caffec0249f26da41e3fcd'

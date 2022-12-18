@@ -5,3 +5,5 @@ id_nomics: IECT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IECT.jpg
 logoKey: currencies/iect.jpg
 name: IENETChain
+platform: ETH
+platform_contract: '0x607415cb26756d5d0e6ae56adc06fbe29edf79d9'

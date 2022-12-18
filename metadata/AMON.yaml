@@ -6,3 +6,5 @@ id_nomics: AMON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMON.png
 logoKey: currencies/amon.png
 name: AmonD
+platform: ETH
+platform_contract: '0x00059ae69c1622a7542edc15e8d17b060fe307b6'

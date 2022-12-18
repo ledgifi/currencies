@@ -5,3 +5,5 @@ id_nomics: WJK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WJK.jpg
 logoKey: currencies/wjk.jpg
 name: Wojak
+platform: BNB
+platform_contract: '0x94b769689078d653b921277c28c3dec60fb382e9'

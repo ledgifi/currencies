@@ -5,3 +5,5 @@ id_nomics: XKAWA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XKAWA.jpg
 logoKey: currencies/xkawa.jpg
 name: xKAWA
+platform: ETH
+platform_contract: '0xdc386452f9ffda7f0d2940e5c60dc0f9469b1097'

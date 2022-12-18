@@ -6,3 +6,5 @@ id_nomics: RCUBE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RCUBE.jpg
 logoKey: currencies/rcube.jpg
 name: Retro DEFI
+platform: BNB
+platform_contract: '0xa6e53f07bd410df069e20ced725bdc9135146fe9'

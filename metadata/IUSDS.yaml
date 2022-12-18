@@ -3,3 +3,5 @@ fiat: false
 id: IUSDS
 id_nomics: IUSDS
 name: Inflation Adjusted USDS
+platform: AVAX
+platform_contract: '0x8861f5c40a0961579689fdf6cdea2be494f9b25a'

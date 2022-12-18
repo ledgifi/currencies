@@ -6,3 +6,5 @@ id_nomics: DALC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/dalc.jpg
 logoKey: currencies/dalc.jpg
 name: Dale Coin
+platform: ETH
+platform_contract: '0x07d9e49ea402194bf48a8276dafb16e4ed633317'

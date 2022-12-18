@@ -6,3 +6,5 @@ id_nomics: UPLINK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UPLINK.jpg
 logoKey: currencies/uplink.jpg
 name: UpLink
+platform: BNB
+platform_contract: '0xd09942f1b144ba90d3917b3024ec34b5a08e2133'

@@ -3,3 +3,5 @@ fiat: false
 id: UNCA
 id_nomics: UNCA
 name: Unca
+platform: BNB
+platform_contract: '0x21be7f13210989e5ca5a9cd55eaf780e764c45dc'

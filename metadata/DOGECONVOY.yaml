@@ -3,3 +3,5 @@ fiat: false
 id: DOGECONVOY
 id_nomics: DOGECONVOY
 name: dogeconvoy
+platform: ETH
+platform_contract: '0x8f02c3008caad1c8c1eeee2a2eac0540ae3be5a9'

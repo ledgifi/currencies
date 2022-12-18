@@ -6,3 +6,5 @@ id_nomics: AD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AD.png
 logoKey: currencies/ad.png
 name: Asian Dragon
+platform: ETH
+platform_contract: '0xf6dbe88ba55f1793ff0773c9b1275300f830914f'

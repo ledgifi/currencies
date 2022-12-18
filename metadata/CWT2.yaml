@@ -5,3 +5,5 @@ id_nomics: CWT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CWT2.jpg
 logoKey: currencies/cwt2.jpg
 name: CrossWallet
+platform: BNB
+platform_contract: '0x5a726a26edb0df8fd55f03cc30af8a7cea81e78d'

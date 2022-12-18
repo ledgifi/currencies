@@ -5,3 +5,5 @@ id_nomics: FZY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FZY2.png
 logoKey: currencies/fzy2.png
 name: Foltzye
+platform: BNB
+platform_contract: '0xf0c6f5468A351bcC8ECf429e540F058E07a1A0a7'

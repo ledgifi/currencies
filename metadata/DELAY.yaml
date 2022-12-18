@@ -3,3 +3,5 @@ fiat: false
 id: DELAY
 id_nomics: DELAY
 name: Delay
+platform: BNB
+platform_contract: '0x01f697fd9137006334fcc998ff33575b1ff2fe70'

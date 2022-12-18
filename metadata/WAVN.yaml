@@ -5,3 +5,5 @@ id_nomics: WAVN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAVN.png
 logoKey: currencies/wavn.png
 name: Wrapped Avian
+platform: MATIC
+platform_contract: '0x752dc265eaf6da2db0f8e4a32d5596d3f18e8701'

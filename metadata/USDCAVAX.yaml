@@ -3,3 +3,5 @@ fiat: false
 id: USDCAVAX
 id_nomics: USDCAVAX
 name: USD Coin (Avalanche)
+platform: AVAX
+platform_contract: '0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664'

@@ -3,3 +3,5 @@ fiat: false
 id: PSUSTE
 id_nomics: PSUSTE
 name: Ps Token With Usdt Test
+platform: BNB
+platform_contract: '0xe8e54dcc1de0e290fc1dedebdfeb48b38bb2066e'

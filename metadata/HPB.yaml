@@ -6,3 +6,5 @@ id_nomics: HPB
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/hpb.svg
 logoKey: currencies/hpb.svg
 name: High Performance Blockchain
+platform: ETH
+platform_contract: '0x38c6a68304cdefb9bec48bbfaaba5c5b47818bb2'

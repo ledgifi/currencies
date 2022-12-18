@@ -6,3 +6,5 @@ id_nomics: POLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POLA.jpg
 logoKey: currencies/pola.jpg
 name: Polaris Share
+platform: ETH
+platform_contract: '0xc691bc298a304d591ad9b352c7a8d216de9f2ced'

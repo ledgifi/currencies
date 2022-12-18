@@ -6,3 +6,5 @@ id_nomics: KLEAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KLEAR.jpg
 logoKey: currencies/klear.jpg
 name: Klear Finance
+platform: BNB
+platform_contract: '0xd9d17608f1b6516ff2f5df9c5cac1c4af9bbd85e'

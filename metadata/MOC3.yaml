@@ -5,3 +5,5 @@ id_nomics: MOC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOC3.png
 logoKey: currencies/moc3.png
 name: MetaOceanCity
+platform: BNB
+platform_contract: '0xf54cda0b65235fa1d71ac62c383746d1dd408ea6'

@@ -3,3 +3,5 @@ fiat: false
 id: XENG
 id_nomics: XENG
 name: XEN Generator
+platform: AVAX
+platform_contract: '0x4fc8aab93a6e4e6928fd7e9ba979a715ccf55a6a'

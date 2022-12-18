@@ -5,3 +5,5 @@ id_nomics: FLIP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLIP2.jpg
 logoKey: currencies/flip2.jpg
 name: Flipper Token
+platform: BNB
+platform_contract: '0x0561c0e5354588312c93ca6e4fa5676219b22a97'

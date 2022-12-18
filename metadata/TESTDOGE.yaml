@@ -3,3 +3,5 @@ fiat: false
 id: TESTDOGE
 id_nomics: TESTDOGE
 name: TestDoge
+platform: HT
+platform_contract: '0xfbea273005092ec8a3d6ea1edd31464ea356fe9b'

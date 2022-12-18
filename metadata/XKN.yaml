@@ -5,3 +5,5 @@ id_nomics: XKN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XKN.png
 logoKey: currencies/xkn.png
 name: KOIN
+platform: ETH
+platform_contract: '0x8f9933218213c9bef8048cc4618ebb1df96bde8e'

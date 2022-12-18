@@ -5,3 +5,5 @@ id_nomics: BDT6
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BDT6.png
 logoKey: currencies/bdt6.png
 name: Baby Doge Token V1 (OLD)
+platform: BNB
+platform_contract: '0x6c14ff568e86f649d7bb761573e63fe8a5c3caa2'

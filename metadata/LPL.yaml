@@ -6,3 +6,5 @@ id_nomics: LPL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LPL.png
 logoKey: currencies/lpl.png
 name: LinkPool
+platform: ETH
+platform_contract: '0x99295f1141d58a99e939f7be6bbe734916a875b8'

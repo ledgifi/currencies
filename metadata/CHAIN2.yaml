@@ -5,3 +5,5 @@ id_nomics: CHAIN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHAIN2.jpeg
 logoKey: currencies/chain2.jpeg
 name: ChainLab
+platform: BNB
+platform_contract: '0xCB328425284feEF6c65aA850879bfD237a2420D7'

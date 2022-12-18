@@ -3,3 +3,5 @@ fiat: false
 id: MCHAIN
 id_nomics: MCHAIN
 name: MultiChain Bridge
+platform: AVAX
+platform_contract: '0xa1a64f57bc64bad64a9655d191ad8397df9b5dcc'

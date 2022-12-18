@@ -5,3 +5,5 @@ id_nomics: YUSDOCT20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YUSDOCT20.jpg
 logoKey: currencies/yusdoct20.jpg
 name: yUSD Synthetic Token Expiring 1 October 2020
+platform: ETH
+platform_contract: '0xb2fdd60ad80ca7ba89b9bab3b5336c2601c020b4'

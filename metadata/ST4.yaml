@@ -5,3 +5,5 @@ id_nomics: ST4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ST4.jpg
 logoKey: currencies/st4.jpg
 name: Sacred Tails
+platform: BNB
+platform_contract: '0x7e8a2a8258abd995b8ccae49483ab7eef7dfdc3b'

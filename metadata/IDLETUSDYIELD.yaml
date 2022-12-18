@@ -3,3 +3,5 @@ fiat: false
 id: IDLETUSDYIELD
 id_nomics: IDLETUSDYIELD
 name: IdleTUSD (Yield)
+platform: ETH
+platform_contract: '0x51c77689a9c2e8ccbecd4ec9770a1fa5fa83eef1'

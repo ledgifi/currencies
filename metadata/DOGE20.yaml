@@ -3,3 +3,5 @@ fiat: false
 id: DOGE20
 id_nomics: DOGE20
 name: DOGE2.0
+platform: ETH
+platform_contract: '0x67992e63434f23d4c5c32f926f6b96451b4c2509'

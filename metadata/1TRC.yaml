@@ -6,3 +6,5 @@ id_nomics: 1TRC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/1TRC.jpg
 logoKey: currencies/1trc.jpg
 name: 1Tronic Network
+platform: BNB
+platform_contract: '0x97300a4f628701672096460b5469c41a8d3ecb1a'

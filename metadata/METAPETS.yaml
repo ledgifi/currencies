@@ -6,3 +6,5 @@ id_nomics: METAPETS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAPETS.jpg
 logoKey: currencies/metapets.jpg
 name: MetaPets
+platform: BNB
+platform_contract: '0x24ce3d571fbcfd9d81dc0e1a560504636a4d046d'

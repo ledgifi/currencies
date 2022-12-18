@@ -3,3 +3,5 @@ fiat: false
 id: ETS2
 id_nomics: ETS2
 name: EtherSpace
+platform: ETH
+platform_contract: '0x79e3476b31ce53c8981fe22b9c204bee45ee3405'

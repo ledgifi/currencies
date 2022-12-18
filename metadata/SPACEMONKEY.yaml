@@ -3,3 +3,5 @@ fiat: false
 id: SPACEMONKEY
 id_nomics: SPACEMONKEY
 name: SpaceMonkey
+platform: BNB
+platform_contract: '0x143acadd3e844177ad12a7afd83092820fd88ec8'

@@ -3,3 +3,5 @@ fiat: false
 id: UNIH
 id_nomics: UNIH
 name: Uniswap Cash
+platform: ETH
+platform_contract: '0x1ed6fcbf6b66958775854129b4508ab57a0d27c4'

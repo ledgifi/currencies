@@ -5,3 +5,5 @@ id_nomics: XRPC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/xrpc.jpg
 logoKey: currencies/xrpc.jpg
 name: XRP Classic
+platform: ETH
+platform_contract: '0xd4ca5c2aff1eefb0bea9e9eab16f88db2990c183'

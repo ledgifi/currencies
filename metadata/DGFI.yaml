@@ -5,3 +5,5 @@ id_nomics: DGFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DGFI.jpg
 logoKey: currencies/dgfi.jpg
 name: DGold Finance
+platform: BNB
+platform_contract: '0xffa7c42b6beb93d77aeba36b0eb2b80d4b4086d5'

@@ -5,3 +5,5 @@ id_nomics: OKU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OKU.jpg
 logoKey: currencies/oku.jpg
 name: OKUBIT
+platform: ETH
+platform_contract: '0x6f9cfda542db28ecdf3c18b5c40ed394d7adba47'

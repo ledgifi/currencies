@@ -5,3 +5,5 @@ id_nomics: RBR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RBR2.png
 logoKey: currencies/rbr2.png
 name: RippleBurnReflect
+platform: BNB
+platform_contract: '0x77282DF2E846A641530f08cf3988602884218d39'

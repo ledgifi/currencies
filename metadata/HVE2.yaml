@@ -6,3 +6,5 @@ id_nomics: HVE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HVE2.jpg
 logoKey: currencies/hve2.jpg
 name: Uhive
+platform: ETH
+platform_contract: '0xd487892bb4c57edbe7ab401d9fe801c8fe6473f5'

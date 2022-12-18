@@ -5,3 +5,5 @@ id_nomics: LINKETHPA
 logo: https://set-core.s3.amazonaws.com/img/social_trader_set_icons/ethlink_price_action_candlestick_set.png
 logoKey: currencies/linkethpa.png
 name: ''
+platform: ETH
+platform_contract: '0x542156d51d10db5accb99f9db7e7c91b74e80a2c'

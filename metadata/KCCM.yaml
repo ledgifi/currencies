@@ -5,3 +5,5 @@ id_nomics: KCCM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KCCM.jpg
 logoKey: currencies/kccm.jpg
 name: KCCM
+platform: BNB
+platform_contract: '0x57f239e1e62abd0f68d7b7c0fe11df25b3217d99'

@@ -6,3 +6,5 @@ id_nomics: XBUL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XBUL.jpg
 logoKey: currencies/xbul.jpg
 name: TheBullockchain
+platform: BNB
+platform_contract: '0xe244c523fe331fe6e6f025d5d0df31c546a5820c'

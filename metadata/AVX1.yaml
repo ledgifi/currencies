@@ -3,3 +3,5 @@ fiat: false
 id: AVX1
 id_nomics: AVX1
 name: MZAVX1
+platform: ETH
+platform_contract: '0x43d976e2f5034dfc1d42bee3bb56b4ef62dbc15d'

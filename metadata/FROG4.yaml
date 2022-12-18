@@ -5,3 +5,5 @@ id_nomics: FROG4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FROG4.jpg
 logoKey: currencies/frog4.jpg
 name: Frog
+platform: FTM
+platform_contract: '0x11319cd0ba5e4ce6c302b275b613962b5cc00ade'

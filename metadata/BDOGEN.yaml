@@ -3,3 +3,5 @@ fiat: false
 id: BDOGEN
 id_nomics: BDOGEN
 name: DogenToken
+platform: BNB
+platform_contract: '0x07064dcb0cc4f28f139ff86df0ae5656a0dad45a'

@@ -5,3 +5,5 @@ id_nomics: CTSIBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTSIBEP20.jpg
 logoKey: currencies/ctsibep20.jpg
 name: Cartesi (BEP-20)
+platform: BNB
+platform_contract: '0x8da443f84fea710266c8eb6bc34b71702d033ef2'

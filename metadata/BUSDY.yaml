@@ -5,3 +5,5 @@ id_nomics: BUSDY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUSDY.jpg
 logoKey: currencies/busdy.jpg
 name: Busdy
+platform: BNB
+platform_contract: '0x5bebfab847dd89b1d03ca654685bac07aa01224e'

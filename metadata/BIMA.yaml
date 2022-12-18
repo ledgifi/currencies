@@ -5,3 +5,5 @@ id_nomics: BIMA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIMA.jpeg
 logoKey: currencies/bima.jpeg
 name: Bima
+platform: BNB
+platform_contract: '0x23b2b63a415194a246411e42dbe44de214220fc6'

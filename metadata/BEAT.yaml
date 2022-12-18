@@ -6,3 +6,5 @@ id_nomics: BEAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/beat.jpg
 logoKey: currencies/beat.jpg
 name: BEAT
+platform: ETH
+platform_contract: '0x2fb12bccf6f5dd338b76be784a93ade072425690'

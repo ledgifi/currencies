@@ -6,3 +6,5 @@ id_nomics: MNTG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MNTG.jpg
 logoKey: currencies/mntg.jpg
 name: Monetas
+platform: BNB
+platform_contract: '0x10adf50e15611d5a4de3bd21f0db7f3491a8ae0f'

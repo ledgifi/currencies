@@ -5,3 +5,5 @@ id_nomics: KL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KL.jpeg
 logoKey: currencies/kl.jpeg
 name: KLAN
+platform: BNB
+platform_contract: '0x862597a92b98cdb4fa2247e911ac205b5c35ccdd'

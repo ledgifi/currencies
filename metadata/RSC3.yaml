@@ -5,3 +5,5 @@ id_nomics: RSC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RSC3.png
 logoKey: currencies/rsc3.png
 name: ResearchCoin
+platform: ETH
+platform_contract: '0xd101dcc414f310268c37eeb4cd376ccfa507f571'

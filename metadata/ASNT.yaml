@@ -3,3 +3,5 @@ fiat: false
 id: ASNT
 id_nomics: ASNT
 name: Assent Protocol
+platform: FTM
+platform_contract: '0x5b3c1f260e09e653290f24f75abc5e466fd42310'

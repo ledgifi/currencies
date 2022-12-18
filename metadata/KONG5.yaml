@@ -5,3 +5,5 @@ id_nomics: KONG5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KONG5.png
 logoKey: currencies/kong5.png
 name: Ape Kong
+platform: BNB
+platform_contract: '0x9844ee080ca8f417ee1faaa1b67d144198537bd3'

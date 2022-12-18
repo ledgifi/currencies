@@ -5,3 +5,5 @@ id_nomics: EWC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EWC2.jpeg
 logoKey: currencies/ewc2.jpeg
 name: Ewallet Coin
+platform: BNB
+platform_contract: '0xaae850fc9f0b5e65598bf355128d81524c6f1012'

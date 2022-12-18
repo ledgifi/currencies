@@ -6,3 +6,5 @@ id_nomics: JRIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JRIT.jpg
 logoKey: currencies/jrit.jpg
 name: JeritEx
+platform: BNB
+platform_contract: '0xf2619476bd0ca0eda08744029c66b62a904c2bf8'

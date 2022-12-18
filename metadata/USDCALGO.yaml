@@ -5,3 +5,5 @@ id_nomics: USDCALGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDCALGO.svg
 logoKey: currencies/usdcalgo.svg
 name: USD Coin (Algorand)
+platform: ALGO
+platform_contract: '31566704'

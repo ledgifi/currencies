@@ -3,3 +3,5 @@ fiat: false
 id: TCPDOG
 id_nomics: TCPDOG
 name: tcpdogtoken
+platform: HT
+platform_contract: '0x817736f9c42ff7d5068743bee470a3fe43b7f935'

@@ -5,3 +5,5 @@ id_nomics: CKCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CKCT.png
 logoKey: currencies/ckct.png
 name: Clink
+platform: ETH
+platform_contract: '0xf6bc5ddb21b22b76a31c719a8ae904232055d876'

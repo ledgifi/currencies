@@ -3,3 +3,5 @@ fiat: false
 id: TOUCAN
 id_nomics: TOUCAN
 name: Toucan
+platform: ETH
+platform_contract: '0xd2fbe1bd451e369dd61475798801c759e61dbfa7'

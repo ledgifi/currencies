@@ -3,3 +3,5 @@ fiat: false
 id: ARBIGEN
 id_nomics: ARBIGEN
 name: Arbitrum Generation
+platform: ARBETH
+platform_contract: '0x758929cae994c6738745022b8761dc39a68c6f5e'

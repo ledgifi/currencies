@@ -5,3 +5,5 @@ id_nomics: PANCHO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PANCHO.jpg
 logoKey: currencies/pancho.jpg
 name: Pancho Villa Network
+platform: ETH
+platform_contract: '0x61fef6246a010e601843477a90eb54f8f97a91d9'

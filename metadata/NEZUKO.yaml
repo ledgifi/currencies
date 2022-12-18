@@ -6,3 +6,5 @@ id_nomics: NEZUKO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEZUKO.jpg
 logoKey: currencies/nezuko.jpg
 name: Nezuko Inu
+platform: ETH
+platform_contract: '0xbc298dfaa2edda095b924f1390cc38fb7c5f6250'

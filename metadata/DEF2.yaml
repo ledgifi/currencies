@@ -5,3 +5,5 @@ id_nomics: DEF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEF2.jpg
 logoKey: currencies/def2.jpg
 name: Defiance
+platform: ETH
+platform_contract: '0x90e6e082b0aa4bf6afba0d11163d920a534ebae4'

@@ -5,3 +5,5 @@ id_nomics: PINKWINK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PINKWINK.jpg
 logoKey: currencies/pinkwink.jpg
 name: PinkWink
+platform: BNB
+platform_contract: '0x2A9893088617CA3630FDC79d39C3928113e62B23'

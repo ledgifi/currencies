@@ -5,3 +5,5 @@ id_nomics: FCT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FCT2.jpg
 logoKey: currencies/fct2.jpg
 name: Firmachain
+platform: ETH
+platform_contract: '0xe1bad922f84b198a08292fb600319300ae32471b'

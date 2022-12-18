@@ -5,3 +5,5 @@ id_nomics: SKR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SKR.png
 logoKey: currencies/skr.png
 name: Skrilla
+platform: ETH
+platform_contract: '0x4c382f8e09615ac86e08ce58266cc227e7d4d913'

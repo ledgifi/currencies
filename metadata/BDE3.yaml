@@ -5,3 +5,5 @@ id_nomics: BDE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BDE3.jpg
 logoKey: currencies/bde3.jpg
 name: Big Dick Energy
+platform: BNB
+platform_contract: '0xe2648dbae6eadaa362d3d7b557ea55ccd717543f'

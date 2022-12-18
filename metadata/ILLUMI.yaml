@@ -3,3 +3,5 @@ fiat: false
 id: ILLUMI
 id_nomics: ILLUMI
 name: Illumination
+platform: ETH
+platform_contract: '0x44090e282a678c1539daee90e64ccebbd3bc39a9'

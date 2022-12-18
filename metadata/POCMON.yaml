@@ -5,3 +5,5 @@ id_nomics: POCMON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POCMON.jpg
 logoKey: currencies/pocmon.jpg
 name: PocMon
+platform: BNB
+platform_contract: '0x8888818f35bbed1c632364bf1b15446fad088888'

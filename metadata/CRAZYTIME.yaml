@@ -5,3 +5,5 @@ id_nomics: CRAZYTIME
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRAZYTIME.png
 logoKey: currencies/crazytime.png
 name: CrazyTime
+platform: BNB
+platform_contract: '0x94241428e0e36df628e0c2485bc0e158a5da3362'

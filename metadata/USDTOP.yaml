@@ -3,3 +3,5 @@ fiat: false
 id: USDTOP
 id_nomics: USDTOP
 name: Tether USD (Optimism)
+platform: OPETH
+platform_contract: '0x94b008aa00579c1307b0ef2c499ad98a8ce58e58'

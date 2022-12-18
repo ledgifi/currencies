@@ -6,3 +6,5 @@ id_nomics: DONK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DONK.jpg
 logoKey: currencies/donk.jpg
 name: Donkey
+platform: ETH
+platform_contract: '0xe4f6d46c244bb7cf3e218cdfb5c35cf9a4d9c920'

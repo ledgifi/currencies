@@ -3,3 +3,5 @@ fiat: false
 id: ETHMAXY
 id_nomics: ETHMAXY
 name: ETH Max Yield Index
+platform: ETH
+platform_contract: '0x0fe20e0fa9c78278702b05c333cc000034bb69e2'

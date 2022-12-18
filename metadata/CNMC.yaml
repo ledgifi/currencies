@@ -5,3 +5,5 @@ id_nomics: CNMC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CNMC.png
 logoKey: currencies/cnmc.png
 name: Agricultural ecological chain
+platform: ETH
+platform_contract: '0x8a3e08353e3c64d9fa5683bb5e2fbbf8aef7e7e9'

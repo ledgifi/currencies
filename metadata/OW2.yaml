@@ -5,3 +5,5 @@ id_nomics: OW2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OW2.jpg
 logoKey: currencies/ow2.jpg
 name: OWGaming
+platform: BNB
+platform_contract: '0x7d2b2b15f1023425647626c4e411bea51f1ac0cd'

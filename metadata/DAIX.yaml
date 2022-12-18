@@ -5,3 +5,5 @@ id_nomics: DAIX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAIX.png
 logoKey: currencies/daix.png
 name: DAIX
+platform: ETH
+platform_contract: '0x719ca90842a9f4d4fb52251db88703e4bc4a07ca'

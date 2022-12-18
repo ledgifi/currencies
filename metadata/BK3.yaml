@@ -5,3 +5,5 @@ id_nomics: BK3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BK3.jpg
 logoKey: currencies/bk3.jpg
 name: Book
+platform: BNB
+platform_contract: '0x75f24a4e61a646729be14c58e5c12385e31103dc'

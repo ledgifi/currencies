@@ -3,3 +3,5 @@ fiat: false
 id: NFCR
 id_nomics: NFCR
 name: NFCore
+platform: ETH
+platform_contract: '0x8f6e8cdfa6cee7080864dcbb6b973d17d8d80a8f'

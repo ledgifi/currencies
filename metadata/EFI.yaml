@@ -7,3 +7,5 @@ id_nomics: EFI2
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20211102/e3931c06-0949-4531-a517-2dcb4127e6a5.png
 logoKey: currencies/efi.png
 name: Efinity Token
+platform: ETH
+platform_contract: '0x656c00e1bcd96f256f224ad9112ff426ef053733'

@@ -3,3 +3,5 @@ fiat: false
 id: CNX2
 id_nomics: CNX2
 name: Cofinex
+platform: ETH
+platform_contract: '0xe0b7e882c194881c690924cb46154b8241f9145e'

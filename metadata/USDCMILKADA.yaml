@@ -5,3 +5,5 @@ id_nomics: USDCMILKADA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDCMILKADA.png
 logoKey: currencies/usdcmilkada.png
 name: USD Coin (C1 Milkomeda)
+platform: MILKADA
+platform_contract: '0xB44a9B6905aF7c801311e8F4E76932ee959c663C'

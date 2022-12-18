@@ -3,3 +3,5 @@ fiat: false
 id: WBRISE
 id_nomics: WBRISE
 name: Wrapped BRISE
+platform: BRISE2
+platform_contract: '0x0eb9036cbe0f052386f36170c6b07ef0a0e3f710'

@@ -5,3 +5,5 @@ id_nomics: USE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/use.png
 logoKey: currencies/use.png
 name: Usechain
+platform: ETH
+platform_contract: '0xd9485499499d66b175cf5ed54c0a19f1a6bcb61a'

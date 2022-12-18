@@ -5,3 +5,5 @@ id_nomics: SKCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/skch.jpg
 logoKey: currencies/skch.jpg
 name: Skychain Global Token
+platform: ETH
+platform_contract: '0x70c621f949b6556c4545707a2d5d73a776b98359'

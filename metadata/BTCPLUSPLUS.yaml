@@ -5,3 +5,5 @@ id_nomics: BTCPLUSPLUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCPLUSPLUS.jpg
 logoKey: currencies/btcplusplus.jpg
 name: PieDAO BTC++
+platform: ETH
+platform_contract: '0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd'

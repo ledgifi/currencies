@@ -3,3 +3,5 @@ fiat: false
 id: GEN2
 id_nomics: GEN2
 name: Genesis Coin
+platform: ETH
+platform_contract: '0x334425ef9a828e31ff27e0754a3198edb714c57b'

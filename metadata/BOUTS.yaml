@@ -6,3 +6,5 @@ id_nomics: BOUTS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOUTS.jpg
 logoKey: currencies/bouts.jpg
 name: BoutsPro
+platform: ETH
+platform_contract: '0x139d9397274bb9e2c29a9aa8aa0b5874d30d62e3'

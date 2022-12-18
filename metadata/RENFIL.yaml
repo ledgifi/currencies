@@ -5,3 +5,5 @@ id_nomics: RENFIL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RENFIL.jpg
 logoKey: currencies/renfil.jpg
 name: renFIL
+platform: ETH
+platform_contract: '0xd5147bc8e386d91cc5dbe72099dac6c9b99276f5'

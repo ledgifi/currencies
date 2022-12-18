@@ -5,3 +5,5 @@ id_nomics: VAPORWAVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VAPORWAVE.jpg
 logoKey: currencies/vaporwave.jpg
 name: Vaporwave
+platform: BNB
+platform_contract: '0x1e3214bf98f283fe76e831c84a59884f600fcfae'

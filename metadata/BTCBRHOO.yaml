@@ -5,3 +5,5 @@ id_nomics: BTCBRHOO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCBRHOO.jpeg
 logoKey: currencies/btcbrhoo.jpeg
 name: Bitcoin BR (Hoo)
+platform: HOO
+platform_contract: '0xe57425f1598f9b0d6219706b77f4b3da573a3695'

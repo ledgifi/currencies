@@ -5,3 +5,5 @@ id_nomics: MILK2BEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MILK2BEP20.jpg
 logoKey: currencies/milk2bep20.jpg
 name: Spaceswap MILK2 (BEP-20)
+platform: BNB
+platform_contract: '0x4a5a34212404f30c5ab7eb61b078fa4a55adc5a5'

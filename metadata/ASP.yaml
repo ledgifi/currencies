@@ -5,3 +5,5 @@ id_nomics: ASP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASP.jpg
 logoKey: currencies/asp.jpg
 name: ASSPACE Token
+platform: ETH
+platform_contract: '0xafa59ea4399b5f55135ea535962efb796b7981f9'

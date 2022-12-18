@@ -5,3 +5,5 @@ id_nomics: DOGER2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGER2.jpg
 logoKey: currencies/doger2.jpg
 name: Doge Rise
+platform: BNB
+platform_contract: '0x61c8cd4d63f100c3cdef5762ee3810c67585de9e'

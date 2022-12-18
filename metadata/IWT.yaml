@@ -5,3 +5,5 @@ id_nomics: IWT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IWT.png
 logoKey: currencies/iwt.png
 name: Integrative
+platform: ETH
+platform_contract: '0x77faed976e187f26b49e78be8418ab074a341f26'

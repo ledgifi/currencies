@@ -6,3 +6,5 @@ id_nomics: EOSDAC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/eosdac.png
 logoKey: currencies/eosdac.png
 name: eosDAC
+platform: ETH
+platform_contract: '0x7e9e431a0b8c4d532c745b1043c7fa29a48d4fba'

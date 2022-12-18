@@ -5,3 +5,5 @@ id_nomics: CORD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CORD.jpg
 logoKey: currencies/cord.jpg
 name: Cord DeFi
+platform: ETH
+platform_contract: '0x74fb9da15d4f9a34d8c825798da0fa5c400dade1'

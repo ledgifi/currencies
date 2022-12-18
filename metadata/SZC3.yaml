@@ -5,3 +5,5 @@ id_nomics: SZC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SZC3.jpg
 logoKey: currencies/szc3.jpg
 name: Zugacoin
+platform: ETH
+platform_contract: '0xf5832512cfda8083e5b2dd0aa7c1b9265c03ba1f'

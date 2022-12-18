@@ -5,3 +5,5 @@ id_nomics: POSH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POSH.jpg
 logoKey: currencies/posh.jpg
 name: Shill
+platform: ETH
+platform_contract: '0x685aea4f02e39e5a5bb7f7117e88db1151f38364'

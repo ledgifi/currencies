@@ -5,3 +5,5 @@ id_nomics: UNT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNT4.jpg
 logoKey: currencies/unt4.jpg
 name: Universe Finance Token
+platform: ETH
+platform_contract: '0xe4b5936dce1820f84509c89cce0f28c87988bad8'

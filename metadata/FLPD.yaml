@@ -6,3 +6,5 @@ id_nomics: FLPD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLPD.jpg
 logoKey: currencies/flpd.jpg
 name: FlappyDoge
+platform: BNB
+platform_contract: '0x80dc7bd1328f5e48e8e22884169ba46f9279201b'

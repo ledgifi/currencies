@@ -5,3 +5,5 @@ id_nomics: IMC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IMC3.jpg
 logoKey: currencies/imc3.jpg
 name: i Money Crypto
+platform: ETH
+platform_contract: '0xbf0741e995f469d39e4f96c0780f9a8e43f4b978'

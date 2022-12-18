@@ -3,3 +3,5 @@ fiat: false
 id: HOTDOG3
 id_nomics: HOTDOG3
 name: Hotdog.Swap
+platform: ETH
+platform_contract: '0x5c137d196b08bd164717b935a84e82e32c85c7fc'

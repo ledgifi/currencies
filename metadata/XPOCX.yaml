@@ -5,3 +5,5 @@ id_nomics: XPOCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XPOCX.jpg
 logoKey: currencies/xpocx.jpg
 name: XPO Logistics, Inc. Token
+platform: ETH
+platform_contract: '0x8f606c58aeff00169b06f88ca2f28862971668dd'

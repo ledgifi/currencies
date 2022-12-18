@@ -5,3 +5,5 @@ id_nomics: BENX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BENX2.jpeg
 logoKey: currencies/benx2.jpeg
 name: BlueBenx V2
+platform: BNB
+platform_contract: '0xf506345ccd3f53d1d0e724992416e4f36093f67e'

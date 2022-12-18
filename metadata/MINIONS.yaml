@@ -5,3 +5,5 @@ id_nomics: MINIONS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINIONS.png
 logoKey: currencies/minions.png
 name: MetaMinions
+platform: BNB
+platform_contract: '0x42cae8c7cd5388ba68ba96dd02a98a9ab10a4149'

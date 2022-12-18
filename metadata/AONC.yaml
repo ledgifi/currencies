@@ -3,3 +3,5 @@ fiat: false
 id: AONC
 id_nomics: AONC
 name: aonc
+platform: BNB
+platform_contract: '0x51d2d7c0fd00949c05f2c5921732152e015e06c8'

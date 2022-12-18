@@ -5,3 +5,5 @@ id_nomics: GAL3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAL3.png
 logoKey: currencies/gal3.png
 name: Gallant
+platform: BNB
+platform_contract: '0x580655e2c6d4fc125c0b2d37b2a3e56219bf9f78'

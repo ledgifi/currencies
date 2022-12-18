@@ -5,3 +5,5 @@ id_nomics: STARS5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STARS5.jpg
 logoKey: currencies/stars5.jpg
 name: Starstream
+platform: METIS
+platform_contract: '0xb26f58f0b301a077cfa779c0b0f8281c7f936ac0'

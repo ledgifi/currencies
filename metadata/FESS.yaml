@@ -6,3 +6,5 @@ id_nomics: FESS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FESS.jpg
 logoKey: currencies/fess.jpg
 name: Fesschain
+platform: ETH
+platform_contract: '0xe09394f8ba642430ed448ca20f342ec7aa1ba2e1'

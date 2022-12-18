@@ -6,3 +6,5 @@ id_nomics: DSS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DSS.jpg
 logoKey: currencies/dss.jpg
 name: Defi Shopping Stake
+platform: ETH
+platform_contract: '0x213c53c96a01a89e6dcc5683cf16473203e17513'

@@ -5,3 +5,5 @@ id_nomics: LINK2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LINK2.jpg
 logoKey: currencies/link2.jpg
 name: ChainLink (Polygon)
+platform: MATIC
+platform_contract: '0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39'

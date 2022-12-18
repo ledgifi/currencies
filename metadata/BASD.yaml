@@ -5,3 +5,5 @@ id_nomics: BASD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BASD.jpg
 logoKey: currencies/basd.jpg
 name: Binance Agile Set Dollar
+platform: BNB
+platform_contract: '0xb913aa79a0365bc4d30c217ae2916e6e2c44c882'

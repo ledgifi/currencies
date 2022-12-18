@@ -5,3 +5,5 @@ id_nomics: XUSD7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XUSD7.png
 logoKey: currencies/xusd7.png
 name: XUSD V2
+platform: BNB
+platform_contract: '0x324e8e649a6a3df817f97cddbed2b746b62553dd'

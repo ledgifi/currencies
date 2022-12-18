@@ -5,3 +5,5 @@ id_nomics: HCACX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HCACX.jpg
 logoKey: currencies/hcacx.jpg
 name: HCA Healthcare, Inc. Token
+platform: ETH
+platform_contract: '0x3ea8a7425eeb8c768489c91941b2ab1720a34515'

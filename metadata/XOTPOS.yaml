@@ -5,3 +5,5 @@ id_nomics: XOTPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XOTPOS.png
 logoKey: currencies/xotpos.png
 name: Okuru Token (Polygon)
+platform: MATIC
+platform_contract: '0x100432c8c862b42a2b93d784e7ebe5a61e4acfaa'

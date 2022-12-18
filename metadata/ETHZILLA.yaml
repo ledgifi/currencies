@@ -5,3 +5,5 @@ id_nomics: ETHZILLA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHZILLA.jpg
 logoKey: currencies/ethzilla.jpg
 name: EthZilla
+platform: BNB
+platform_contract: '0xd7dea3f982f5a3ce155202fe1bee9fe88170de2c'

@@ -3,3 +3,5 @@ fiat: false
 id: 1BCH
 id_nomics: 1BCH
 name: 1BCH
+platform: BCH
+platform_contract: '0x77d4b6e44a53bbda9a1d156b32bb53a2d099e53d'

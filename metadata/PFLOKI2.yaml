@@ -5,3 +5,5 @@ id_nomics: PFLOKI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PFLOKI2.jpeg
 logoKey: currencies/pfloki2.jpeg
 name: President Floki
+platform: BNB
+platform_contract: '0xae7cd6644de266264dd6f106edaa0c339374df92'

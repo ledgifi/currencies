@@ -3,3 +3,5 @@ fiat: false
 id: FRN
 id_nomics: FRN
 name: Friend
+platform: SMARTBCH
+platform_contract: '0x4592b88618119e55e37ffcb28ede02bef6f3c5ba'

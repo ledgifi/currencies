@@ -5,3 +5,5 @@ id_nomics: BBC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bbc.jpg
 logoKey: currencies/bbc.jpg
 name: TraDove
+platform: ETH
+platform_contract: '0xe7d3e4413e29ae35b0893140f4500965c74365e5'

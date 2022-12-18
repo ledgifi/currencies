@@ -5,3 +5,5 @@ id_nomics: KNT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KNT.png
 logoKey: currencies/knt.png
 name: Kora
+platform: ETH
+platform_contract: '0xff5c25d2f40b47c4a37f989de933e26562ef0ac0'

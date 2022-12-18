@@ -3,3 +3,5 @@ fiat: false
 id: RCAS
 id_nomics: RCAS
 name: RACA Schaka
+platform: BNB
+platform_contract: '0x03e9a5ec77539e114f58bb1ee3aef31de51bcd3a'

@@ -3,3 +3,5 @@ fiat: false
 id: EAS
 id_nomics: EAS
 name: EAS
+platform: ETH
+platform_contract: '0x556d9e146cc7fe7df93fbdd90347af8930acb104'

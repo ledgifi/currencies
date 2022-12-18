@@ -5,3 +5,5 @@ id_nomics: EVO5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVO5.png
 logoKey: currencies/evo5.png
 name: Evolution
+platform: BNB
+platform_contract: '0xf2761e6f56fc3fba0f519e441720f80c087dba13'

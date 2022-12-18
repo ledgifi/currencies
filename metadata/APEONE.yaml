@@ -3,3 +3,5 @@ fiat: false
 id: APEONE
 id_nomics: APEONE
 name: Ape One
+platform: ETH
+platform_contract: '0x5f15b92e7041acb5fb270523689c80dd165f35cf'

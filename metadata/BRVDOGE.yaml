@@ -5,3 +5,5 @@ id_nomics: BRVDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRVDOGE.jpeg
 logoKey: currencies/brvdoge.jpeg
 name: Brave Doge
+platform: BNB
+platform_contract: '0x7A2BD6F3004D15064CF66454cecf878e26412437'

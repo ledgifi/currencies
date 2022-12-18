@@ -6,3 +6,5 @@ id_nomics: SPELLINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPELLINU.jpg
 logoKey: currencies/spellinu.jpg
 name: Spell Inu DAO
+platform: ETH
+platform_contract: '0x9c226b37e1a41c45141d5a2745a99f0c6f13540b'

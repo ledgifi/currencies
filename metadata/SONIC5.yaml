@@ -5,3 +5,5 @@ id_nomics: SONIC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SONIC5.png
 logoKey: currencies/sonic5.png
 name: Sonic Finance
+platform: FTM
+platform_contract: '0x9947D834172A6A0771b40F215c16D58FEa589327'

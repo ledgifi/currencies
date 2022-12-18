@@ -5,3 +5,5 @@ id_nomics: IDO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IDO3.jpg
 logoKey: currencies/ido3.jpg
 name: Interstellar Domain Order
+platform: BNB
+platform_contract: '0x617ba3d39e96c084e60c6db3f7b365a96ee4e555'

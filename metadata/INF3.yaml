@@ -5,3 +5,5 @@ id_nomics: INF3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INF3.jpeg
 logoKey: currencies/inf3.jpeg
 name: Inverse Finance
+platform: ETH
+platform_contract: '0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68'

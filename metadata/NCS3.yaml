@@ -5,3 +5,5 @@ id_nomics: NCS3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NCS3.png
 logoKey: currencies/ncs3.png
 name: Narrowcastingscherm
+platform: BNB
+platform_contract: '0xdac2c976d34fd3e102a42114336a86c801fa9707'

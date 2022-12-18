@@ -3,3 +3,5 @@ fiat: false
 id: TAXDOGE
 id_nomics: TAXDOGE
 name: TaxDoge
+platform: ETH
+platform_contract: '0x06de740d2326d5b0f1cbc9c4ecfae087c9fcac0a'

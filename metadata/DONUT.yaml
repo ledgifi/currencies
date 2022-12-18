@@ -6,3 +6,5 @@ id_nomics: DONUT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DONUT.png
 logoKey: currencies/donut.png
 name: Donut
+platform: ETH
+platform_contract: '0xc0f9bd5fa5698b6505f643900ffa515ea5df54a9'

@@ -3,3 +3,5 @@ fiat: false
 id: LODE2
 id_nomics: LODE2
 name: Lodestar
+platform: ARBETH
+platform_contract: '0x5ecc0446e8aa72b9bd74b8935687e1e4ca3478d3'

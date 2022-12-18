@@ -6,3 +6,5 @@ id_nomics: WDNR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WDNR.jpg
 logoKey: currencies/wdnr.jpg
 name: Wrapped Denaro
+platform: BNB
+platform_contract: '0x7c2d95c6b4d51f824bd69239400f2156072a2c45'

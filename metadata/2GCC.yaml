@@ -5,3 +5,5 @@ id_nomics: 2GCC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/2GCC.jpg
 logoKey: currencies/2gcc.jpg
 name: 2G Carbon Coin
+platform: BNB
+platform_contract: '0x1a515bf4e35aa2df67109281de6b3b00ec37675e'

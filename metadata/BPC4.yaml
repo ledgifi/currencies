@@ -3,3 +3,5 @@ fiat: false
 id: BPC4
 id_nomics: BPC4
 name: BeautyPaycoin
+platform: ETH
+platform_contract: '0xd69b71ca59e8511814802da781e120f1f7d935ec'

@@ -5,3 +5,5 @@ id_nomics: FMI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FMI.jpg
 logoKey: currencies/fmi.jpg
 name: Freemason Inu
+platform: BNB
+platform_contract: '0xd3665ecf9cc658dc33c9d4e50c97e88b24ddc82d'

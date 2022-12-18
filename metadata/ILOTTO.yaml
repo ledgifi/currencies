@@ -5,3 +5,5 @@ id_nomics: ILOTTO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ILOTTO.jpeg
 logoKey: currencies/ilotto.jpeg
 name: INFINITY LOTTO
+platform: BNB
+platform_contract: '0xc11caa3ed4150aa38604b2fa51f5a13bf7bb19a6'

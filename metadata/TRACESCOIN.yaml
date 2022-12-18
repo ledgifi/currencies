@@ -3,3 +3,5 @@ fiat: false
 id: TRACESCOIN
 id_nomics: TRACESCOIN
 name: TracesCoin
+platform: BNB
+platform_contract: '0x7f93a90c27ff1f6dde5b516df505f38557289b4e'

@@ -6,3 +6,5 @@ id_nomics: BAXS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAXS.jpg
 logoKey: currencies/baxs.jpg
 name: BoxAxis
+platform: ETH
+platform_contract: '0xacf3d402e5e2c3edd5b8129e966017d293f12a4c'

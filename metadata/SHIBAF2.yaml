@@ -5,3 +5,5 @@ id_nomics: SHIBAF2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBAF2.jpeg
 logoKey: currencies/shibaf2.jpeg
 name: Shiba Funny
+platform: BNB
+platform_contract: '0xb88d4443956691af7d273027d762dcc08ff41c41'

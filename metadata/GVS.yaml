@@ -3,3 +3,5 @@ fiat: false
 id: GVS
 id_nomics: GVS
 name: Giving Shib
+platform: ETH
+platform_contract: '0x30cb0ed80f1dd785361804c9539b2ae0a75512ff'

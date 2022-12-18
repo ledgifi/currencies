@@ -6,3 +6,5 @@ id_nomics: KODA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KODA.jpg
 logoKey: currencies/koda.jpg
 name: Koda Finance
+platform: BNB
+platform_contract: '0x9e993671976a5ac51bbfb3db9e34eac8d518fe82'

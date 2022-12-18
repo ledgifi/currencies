@@ -5,3 +5,5 @@ id_nomics: BVA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BVA.png
 logoKey: currencies/bva.png
 name: Bavala
+platform: ETH
+platform_contract: '0x10d88d7495ca381df1391229bdb82d015b9ad17d'

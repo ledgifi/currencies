@@ -5,3 +5,5 @@ id_nomics: RBN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RBN2.jpg
 logoKey: currencies/rbn2.jpg
 name: Robinos
+platform: MATIC
+platform_contract: '0xb3bc8dae5a49ed956b5d2207d9040c816c56398f'

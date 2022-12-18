@@ -5,3 +5,5 @@ id_nomics: USDCETHW2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDCETHW2.svg
 logoKey: currencies/usdcethw2.svg
 name: USD Coin (Ethereum PoW)
+platform: ETHW2
+platform_contract: '0x11bbB41B3E8baf7f75773DB7428d5AcEe25FEC75'

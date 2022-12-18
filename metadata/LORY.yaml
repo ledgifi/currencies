@@ -5,3 +5,5 @@ id_nomics: LORY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LORY.jpg
 logoKey: currencies/lory.jpg
 name: LORY
+platform: BNB
+platform_contract: '0xcd5d75dbe75449a9021b6c570a41959eb571c751'

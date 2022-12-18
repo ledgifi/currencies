@@ -5,3 +5,5 @@ id_nomics: GRT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GRT2.jpg
 logoKey: currencies/grt2.jpg
 name: Golden Ratio Token
+platform: ETH
+platform_contract: '0xb83cd8d39462b761bb0092437d38b37812dd80a2'

@@ -5,3 +5,5 @@ id_nomics: UMW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UMW.jpg
 logoKey: currencies/umw.jpg
 name: UMetaWorld
+platform: BNB
+platform_contract: '0xed2f47a7748616f107dd3aace93da5e2d8b17e6f'

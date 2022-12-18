@@ -8,3 +8,5 @@ id_nomics: NEXO
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/nexo.svg
 logoKey: currencies/nexo.svg
 name: Nexo
+platform: ETH
+platform_contract: '0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206'

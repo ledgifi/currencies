@@ -5,3 +5,5 @@ id_nomics: CS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CS2.jpg
 logoKey: currencies/cs2.jpg
 name: CM$OCK
+platform: BNB
+platform_contract: '0xd54ad7eae0d4878b69dfa223e637023c6dc07ef7'

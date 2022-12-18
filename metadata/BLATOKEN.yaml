@@ -3,3 +3,5 @@ fiat: false
 id: BLATOKEN
 id_nomics: BLATOKEN
 name: BLATOKEN
+platform: BNB
+platform_contract: '0x2a3895b99a77af4907f1dd323aeaf666bf9e373f'

@@ -5,3 +5,5 @@ id_nomics: METAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METAD.jpeg
 logoKey: currencies/metad.jpeg
 name: Meta Advertising
+platform: BNB
+platform_contract: '0x79fee724e49180092c6fd9641d63743267fbe72b'

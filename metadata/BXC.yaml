@@ -6,3 +6,5 @@ id_nomics: BXC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bxc.png
 logoKey: currencies/bxc.png
 name: BonusCloud
+platform: ETH
+platform_contract: '0xdecf7be29f8832e9c2ddf0388c9778b8ba76af43'

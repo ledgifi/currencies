@@ -3,3 +3,5 @@ fiat: false
 id: SAD
 id_nomics: SAD
 name: Sardinecoin
+platform: HT
+platform_contract: '0x17d2d67f2c312070d0ae3d5b2a8f0a7019f418ed'

@@ -5,3 +5,5 @@ id_nomics: MBASE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MBASE.jpg
 logoKey: currencies/mbase.jpg
 name: Minebase
+platform: ETH
+platform_contract: '0xba3e5f8b4200a5eb856ff2c3e001ab29444491aa'

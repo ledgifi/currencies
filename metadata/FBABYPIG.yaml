@@ -5,3 +5,5 @@ id_nomics: FBABYPIG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FBABYPIG.jpeg
 logoKey: currencies/fbabypig.jpeg
 name: fBABYPIG
+platform: FTM
+platform_contract: '0x3a76b1b3e827cc7350e66a854eced871a81a3527'

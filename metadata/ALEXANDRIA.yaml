@@ -3,3 +3,5 @@ fiat: false
 id: ALEXANDRIA
 id_nomics: ALEXANDRIA
 name: The Great Library
+platform: ETH
+platform_contract: '0x04b88dd5853993ff33194bbc9c36cc1bcf899658'

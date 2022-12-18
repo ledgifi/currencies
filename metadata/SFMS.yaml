@@ -6,3 +6,5 @@ id_nomics: SFMS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFMS.jpg
 logoKey: currencies/sfms.jpg
 name: SafeMoon Swap
+platform: BNB
+platform_contract: '0x212fe6acbd2083ba0fd7c13bc57100ce8bf52e75'

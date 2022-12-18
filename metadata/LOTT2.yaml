@@ -5,3 +5,5 @@ id_nomics: LOTT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOTT2.png
 logoKey: currencies/lott2.png
 name: Beauty Bakery Linked Operation Transaction Technology
+platform: ETH
+platform_contract: '0xba93ef534094f8b7001ece2691168140965341ab'

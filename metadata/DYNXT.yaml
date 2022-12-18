@@ -5,3 +5,5 @@ id_nomics: DYNXT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DYNXT.jpg
 logoKey: currencies/dynxt.jpg
 name: Dynastyx
+platform: BNB
+platform_contract: '0x9128d0a29c89d4ed520a36f8a4154b0bc64b6396'

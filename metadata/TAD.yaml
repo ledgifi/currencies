@@ -6,3 +6,5 @@ id_nomics: TAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TAD.jpg
 logoKey: currencies/tad.jpg
 name: Tadpole
+platform: ETH
+platform_contract: '0x9f7229af0c4b9740e207ea283b9094983f78ba04'

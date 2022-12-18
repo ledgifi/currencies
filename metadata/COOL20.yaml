@@ -5,3 +5,5 @@ id_nomics: COOL20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COOL20.png
 logoKey: currencies/cool20.png
 name: Cool Cats
+platform: ETH
+platform_contract: '0x2dab4ce3490bb50b2ea4c07ab1b6a9cfe29d89b3'

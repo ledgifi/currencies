@@ -5,3 +5,5 @@ id_nomics: XSUSHI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XSUSHI.jpg
 logoKey: currencies/xsushi.jpg
 name: SushiBar
+platform: ETH
+platform_contract: '0x8798249c2e607446efb7ad49ec89dd1865ff4272'

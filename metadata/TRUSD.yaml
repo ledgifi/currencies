@@ -6,3 +6,5 @@ id_nomics: TRUSD
 logo: https://static.coinpaprika.com/coin/trusd-trustusd/logo.png
 logoKey: currencies/trusd.png
 name: TrustUSD
+platform: ETH
+platform_contract: '0xdd436a0dce9244b36599ae7b22f0373b4e33992d'

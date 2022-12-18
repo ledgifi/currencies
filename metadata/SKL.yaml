@@ -8,3 +8,5 @@ id_nomics: SKL
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/skl.svg
 logoKey: currencies/skl.svg
 name: SKALE Network
+platform: ETH
+platform_contract: '0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7'

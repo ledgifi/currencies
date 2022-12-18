@@ -3,3 +3,5 @@ fiat: false
 id: ZMATIC
 id_nomics: ZMATIC
 name: Zero Matic
+platform: MATIC
+platform_contract: '0xaf88cdd91861600c5ad14399e9d32c05c12a1539'

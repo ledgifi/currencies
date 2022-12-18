@@ -5,3 +5,5 @@ id_nomics: SUI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUI2.jpeg
 logoKey: currencies/sui2.jpeg
 name: Salmonation
+platform: BNB
+platform_contract: '0x4841181ae4079072ebe83a29b718388a387169e3'

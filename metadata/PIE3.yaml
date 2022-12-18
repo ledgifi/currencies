@@ -5,3 +5,5 @@ id_nomics: PIE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIE3.jpeg
 logoKey: currencies/pie3.jpeg
 name: Pie Share
+platform: BNB
+platform_contract: '0xd8c152d3b94084d7c8ec951e81fbbfc4b6de5b2b'

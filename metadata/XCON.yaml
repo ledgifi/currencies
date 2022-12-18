@@ -6,3 +6,5 @@ id_nomics: XCON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XCON.jpg
 logoKey: currencies/xcon.jpg
 name: Connect Coin
+platform: ETH
+platform_contract: '0x015df42d36bc851c7f15f80bd1d4e8dbf02aed0c'

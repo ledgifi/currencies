@@ -6,3 +6,5 @@ id_nomics: TUP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TUP.jpg
 logoKey: currencies/tup.jpg
 name: Tenup
+platform: ETH
+platform_contract: '0x7714f320adca62b149df2579361afec729c5fe6a'

@@ -3,3 +3,5 @@ fiat: false
 id: ZHSH
 id_nomics: ZHSH
 name: ZHSH Chain
+platform: ETH
+platform_contract: '0x743bba828949fce4557bad9a52db488ce6fdff8d'

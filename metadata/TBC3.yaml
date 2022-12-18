@@ -5,3 +5,5 @@ id_nomics: TBC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TBC3.jpg
 logoKey: currencies/tbc3.jpg
 name: TeraBlock (BEP-20) V1 (OLD)
+platform: BNB
+platform_contract: '0xeaf7d8395cce52daef138d39a1cefa51b97c15ae'

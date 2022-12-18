@@ -3,3 +3,5 @@ fiat: false
 id: CASH6
 id_nomics: CASH6
 name: Cash
+platform: AVAX
+platform_contract: '0x5e15c0a2dd5cf2e78d57bbf8c1a288495dceee77'

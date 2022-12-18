@@ -3,3 +3,5 @@ fiat: false
 id: DREPS
 id_nomics: DREPS
 name: dreps
+platform: BNB
+platform_contract: '0x11e5a84ac09179b03b494301874a7ac8d807f911'

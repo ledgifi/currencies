@@ -5,3 +5,5 @@ id_nomics: MDC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MDC3.jpg
 logoKey: currencies/mdc3.jpg
 name: MindCell
+platform: ETH
+platform_contract: '0x9e6c59321ceb205d5d3bc6c539c017af6159b16c'

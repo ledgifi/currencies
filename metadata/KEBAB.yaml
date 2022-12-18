@@ -6,3 +6,5 @@ id_nomics: KEBAB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KEBAB.jpg
 logoKey: currencies/kebab.jpg
 name: Kebab Token
+platform: BNB
+platform_contract: '0x7979f6c54eba05e18ded44c4f986f49a5de551c2'

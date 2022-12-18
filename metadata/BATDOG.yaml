@@ -3,3 +3,5 @@ fiat: false
 id: BATDOG
 id_nomics: BATDOG
 name: BatDog
+platform: ETH
+platform_contract: '0x64a5486a3a0f4148fd87909242ffe8e4633e81ef'

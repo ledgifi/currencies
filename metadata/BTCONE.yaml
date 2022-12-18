@@ -6,3 +6,5 @@ id_nomics: BTCONE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCONE.png
 logoKey: currencies/btcone.png
 name: BitCoin One
+platform: ETH
+platform_contract: '0x87f5e8c3425218837f3cb67db941af0c01323e56'

@@ -3,3 +3,5 @@ fiat: false
 id: PESA
 id_nomics: PESA
 name: Pesa Yetu
+platform: BNB
+platform_contract: '0x2092383d16f33972a2d2c747311d312cbd43765c'

@@ -5,3 +5,5 @@ id_nomics: GDT3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GDT3.jpg
 logoKey: currencies/gdt3.jpg
 name: GameDao
+platform: BNB
+platform_contract: '0x1a2b8e7b98d7e3e08d9a95719166e56d8507e5cd'

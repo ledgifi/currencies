@@ -3,3 +3,5 @@ fiat: false
 id: ARBIFORCE
 id_nomics: ARBIFORCE
 name: ArbiForce
+platform: ARBETH
+platform_contract: '0x9673bee97dbd93bc5ab3448ea8342dc8aefa7e2a'

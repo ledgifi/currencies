@@ -3,3 +3,5 @@ fiat: false
 id: LOTOS
 id_nomics: LOTOS
 name: LOTOS
+platform: ARBETH
+platform_contract: '0xcb53756e038a65cbd8b0cb795bcff7b2f641a523'

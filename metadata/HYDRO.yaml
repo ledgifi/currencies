@@ -6,3 +6,5 @@ id_nomics: HYDRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HYDRO.jpeg
 logoKey: currencies/hydro.jpeg
 name: Hydro
+platform: ETH
+platform_contract: '0x946112efab61c3636cbd52de2e1392d7a75a6f01'

@@ -5,3 +5,5 @@ id_nomics: NFTBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTBEP20.jpg
 logoKey: currencies/nftbep20.jpg
 name: APENFT (BEP-20)
+platform: BNB
+platform_contract: '0x1fc9004ec7e5722891f5f38bae7678efcb11d34d'

@@ -5,3 +5,5 @@ id_nomics: ZUSD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZUSD2.jpg
 logoKey: currencies/zusd2.jpg
 name: ZUSD
+platform: ETH
+platform_contract: '0xc56c2b7e71b54d38aab6d52e94a04cbfa8f604fa'

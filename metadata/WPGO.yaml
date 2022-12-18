@@ -6,3 +6,5 @@ id_nomics: WPGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WPGO.jpg
 logoKey: currencies/wpgo.jpg
 name: WrappedPGO
+platform: ETH
+platform_contract: '0x952e116156d4b0ae398c1f85dd7683957be08526'

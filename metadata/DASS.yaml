@@ -6,3 +6,5 @@ id_nomics: DASS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DASS.jpg
 logoKey: currencies/dass.jpg
 name: DashSports
+platform: BNB
+platform_contract: '0xca981cb99478d190cac2de266ed04e06e341e30e'

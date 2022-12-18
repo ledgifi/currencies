@@ -5,3 +5,5 @@ id_nomics: GSCARAB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GSCARAB.jpg
 logoKey: currencies/gscarab.jpg
 name: GScarab
+platform: FTM
+platform_contract: '0x6ab5660f0b1f174cfa84e9977c15645e4848f5d6'

@@ -5,3 +5,5 @@ id_nomics: DELON2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DELON2.jpg
 logoKey: currencies/delon2.jpg
 name: Duckelonmars
+platform: BNB
+platform_contract: '0x25461e0c547cc5a6f585b0d4ffbb71ae6d371d85'

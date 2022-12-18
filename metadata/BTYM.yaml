@@ -6,3 +6,5 @@ id_nomics: BTYM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTYM.jpg
 logoKey: currencies/btym.jpg
 name: BlockTyme
+platform: BNB
+platform_contract: '0x8c0938091ef72c5768ea9611a6e252b1a3578e0e'

@@ -5,3 +5,5 @@ id_nomics: YFIKING
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFIKING.jpg
 logoKey: currencies/yfiking.jpg
 name: YFIKING
+platform: ETH
+platform_contract: '0x5f7fa1a0ae94b5dd6bb6bd1708b5f3af01b57908'

@@ -5,3 +5,5 @@ id_nomics: SERGS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SERGS.jpg
 logoKey: currencies/sergs.jpg
 name: SERGS
+platform: ETH
+platform_contract: '0x79ba92dda26fce15e1e9af47d5cfdfd2a093e000'

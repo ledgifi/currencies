@@ -5,3 +5,5 @@ id_nomics: CARD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CARD2.jpg
 logoKey: currencies/card2.jpg
 name: Ether Cards
+platform: ETH
+platform_contract: '0xd6f7db7db116170ecb1c3b35f12c1e693ba70586'

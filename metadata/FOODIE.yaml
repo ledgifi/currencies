@@ -5,3 +5,5 @@ id_nomics: FOODIE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOODIE.png
 logoKey: currencies/foodie.png
 name: FoodieDefi.com
+platform: BNB
+platform_contract: '0x32d75a089c4d72b9c440860d492a466e4a5e8219'

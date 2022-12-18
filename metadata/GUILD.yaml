@@ -5,3 +5,5 @@ id_nomics: GUILD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GUILD.jpg
 logoKey: currencies/guild.jpg
 name: BlockchainSpace
+platform: ETH
+platform_contract: '0x83e9f223e1edb3486f876ee888d76bfba26c475a'

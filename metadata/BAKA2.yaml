@@ -5,3 +5,5 @@ id_nomics: BAKA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAKA2.png
 logoKey: currencies/baka2.png
 name: Baka Inu
+platform: BNB
+platform_contract: '0x583C0791698D5c865a6eB14b3c6aC62608fA3F61'

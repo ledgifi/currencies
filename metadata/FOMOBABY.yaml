@@ -6,3 +6,5 @@ id_nomics: FOMOBABY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOMOBABY.png
 logoKey: currencies/fomobaby.png
 name: FOMO Baby
+platform: BNB
+platform_contract: '0x82d6e409438e9c2eaed8ceec4bd95918cbd17c87'

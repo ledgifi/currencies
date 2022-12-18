@@ -6,3 +6,5 @@ id_nomics: APC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/apc.jpg
 logoKey: currencies/apc.jpg
 name: Alpha Coin
+platform: ETH
+platform_contract: '0x15bda08c3afbf5955d6e9b235fd55a1fd0dbc829'

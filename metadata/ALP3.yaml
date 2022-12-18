@@ -5,3 +5,5 @@ id_nomics: ALP3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALP3.jpg
 logoKey: currencies/alp3.jpg
 name: CoinAlpha
+platform: BNB
+platform_contract: '0x6775729fad1438116b2e3b4fb2878539795297a7'

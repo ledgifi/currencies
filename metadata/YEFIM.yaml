@@ -5,3 +5,5 @@ id_nomics: YEFIM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YEFIM.jpg
 logoKey: currencies/yefim.jpg
 name: Yearn Finance Management
+platform: ETH
+platform_contract: '0x4b34c0cbeef271f895d339c5f76322d71a60782b'

@@ -3,3 +3,5 @@ fiat: false
 id: CLEV
 id_nomics: CLEV
 name: CLever Token
+platform: ETH
+platform_contract: '0x72953a5c32413614d24c29c84a66ae4b59581bbf'

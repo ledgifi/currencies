@@ -6,3 +6,5 @@ id_nomics: EKO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/eko.png
 logoKey: currencies/eko.png
 name: EchoLink
+platform: ETH
+platform_contract: '0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee'

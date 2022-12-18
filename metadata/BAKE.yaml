@@ -8,3 +8,5 @@ id_nomics: BAKE
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20200924/30972bcc-98ad-4c6a-bf54-8a7371d8e377.png
 logoKey: currencies/bake.png
 name: BakeryToken
+platform: BNB
+platform_contract: '0xe02df9e3e622debdd69fb838bb799e3f168902c5'

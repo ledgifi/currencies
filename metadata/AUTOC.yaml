@@ -5,3 +5,5 @@ id_nomics: AUTOC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AUTOC.png
 logoKey: currencies/autoc.png
 name: Automated City
+platform: BNB
+platform_contract: '0x5B88a713E9172854f24F668f4c4a83b057BF111c'

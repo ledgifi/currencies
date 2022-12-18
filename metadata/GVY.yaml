@@ -5,3 +5,5 @@ id_nomics: GVY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GVY.jpg
 logoKey: currencies/gvy.jpg
 name: Groovy Finance
+platform: ETH
+platform_contract: '0x31be30217989766215672e88ed449913e05bf0f5'

@@ -5,3 +5,5 @@ id_nomics: FLOKIMARS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKIMARS.png
 logoKey: currencies/flokimars.png
 name: FlokiMars
+platform: BNB
+platform_contract: '0x399b091adfeee715460e31ef1ff76ffcfc1efda9'

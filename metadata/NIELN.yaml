@@ -5,3 +5,5 @@ id_nomics: NIELN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NIELN.jpg
 logoKey: currencies/nieln.jpg
 name: NitroElon
+platform: ARBETH
+platform_contract: '0x82D3b3f1fe36057EeeBE0d921e7833644e87EB53'

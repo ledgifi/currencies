@@ -3,3 +3,5 @@ fiat: false
 id: WBTCOP
 id_nomics: WBTCOP
 name: Wrapped BTC (Optimism)
+platform: OPETH
+platform_contract: '0x68f180fcce6836688e9084f035309e29bf0a2095'

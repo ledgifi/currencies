@@ -5,3 +5,5 @@ id_nomics: ISIKCI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ISIKCI.jpg
 logoKey: currencies/isikci.jpg
 name: Isiklar Coin
+platform: ETH
+platform_contract: '0x42726d074bba68ccc15200442b72afa2d495a783'

@@ -5,3 +5,5 @@ id_nomics: SOG3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOG3.png
 logoKey: currencies/sog3.png
 name: Soccer Galaxy
+platform: BNB
+platform_contract: '0xbf2a2828c7df44afe0ef2c14910e29b9878d9695'

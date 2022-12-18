@@ -5,3 +5,5 @@ id_nomics: OIL3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OIL3.jpg
 logoKey: currencies/oil3.jpg
 name: Crudeoil Finance
+platform: BNB
+platform_contract: '0xb1b17dff66d75b29d34f0bf8622c406d8219b507'

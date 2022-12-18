@@ -5,3 +5,5 @@ id_nomics: GSG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GSG.jpg
 logoKey: currencies/gsg.jpg
 name: Gamesta
+platform: MATIC
+platform_contract: '0x778949e707a0eb6c32ca20b1f9e0db9685d18024'

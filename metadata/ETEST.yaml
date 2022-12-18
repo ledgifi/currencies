@@ -3,3 +3,5 @@ fiat: false
 id: ETEST
 id_nomics: ETEST
 name: E-TEST
+platform: BNB
+platform_contract: '0x7eba6e151cb81a37aa0c1ac39fa4df20cbbe4f32'

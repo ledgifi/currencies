@@ -6,3 +6,5 @@ id_nomics: SHIBXXX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBXXX.jpeg
 logoKey: currencies/shibxxx.jpeg
 name: ShibaXXX
+platform: BNB
+platform_contract: '0x05419cb6d2891d2887940e58bc241f17bb43996e'

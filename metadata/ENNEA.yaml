@@ -6,3 +6,5 @@ id_nomics: ENNEA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ENNEA.jpeg
 logoKey: currencies/ennea.jpeg
 name: Ennea
+platform: BNB
+platform_contract: '0x7252dAb6CA42a25d69bCFDA96562E5A18D6A9991'

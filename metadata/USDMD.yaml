@@ -3,3 +3,5 @@ fiat: false
 id: USDMD
 id_nomics: USDMD
 name: MONDOCOIN
+platform: BNB
+platform_contract: '0x061104fdea5e0ad0a380a6f2285373ca7aec9a82'

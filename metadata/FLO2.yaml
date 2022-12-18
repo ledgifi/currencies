@@ -5,3 +5,5 @@ id_nomics: FLO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLO2.jpg
 logoKey: currencies/flo2.jpg
 name: FlourMix
+platform: BNB
+platform_contract: '0x2263bf3c00787a7cfa17aef830261d1fe342fd5b'

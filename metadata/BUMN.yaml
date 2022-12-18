@@ -6,3 +6,5 @@ id_nomics: BUMN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUMN.jpg
 logoKey: currencies/bumn.jpg
 name: BUMooN
+platform: BNB
+platform_contract: '0x3aeff4e27e1f9144ed75ba65a80bdfee345f413e'

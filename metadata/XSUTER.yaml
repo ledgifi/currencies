@@ -6,3 +6,5 @@ id_nomics: XSUTER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XSUTER.jpg
 logoKey: currencies/xsuter.jpg
 name: xSuter
+platform: BNB
+platform_contract: '0x822d04d22f962d6132f53b0fa6b9409097d12550'

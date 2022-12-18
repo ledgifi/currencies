@@ -6,3 +6,5 @@ id_nomics: MCR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCR.png
 logoKey: currencies/mcr.png
 name: Macro
+platform: ETH
+platform_contract: '0x7e9e99f059bb84298332b63be6f882a73120b9fb'

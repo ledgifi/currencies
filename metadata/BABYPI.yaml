@@ -3,3 +3,5 @@ fiat: false
 id: BABYPI
 id_nomics: BABYPI
 name: BabyPi
+platform: HT
+platform_contract: '0xb92d4a595c8e47ec26523f60d4c941e348949c1a'

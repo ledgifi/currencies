@@ -5,3 +5,5 @@ id_nomics: LUN2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUN2.jpg
 logoKey: currencies/lun2.jpg
 name: LunarBrain
+platform: METIS
+platform_contract: '0xc19e380a0086264904018f1fb8ff3b6e970c30ea'

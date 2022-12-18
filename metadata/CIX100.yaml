@@ -6,3 +6,5 @@ id_nomics: CIX100
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CIX100.png
 logoKey: currencies/cix100.png
 name: Cryptoindex.com 100
+platform: ETH
+platform_contract: '0x6393e822874728f8afa7e1c9944e417d37ca5878'

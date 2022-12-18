@@ -6,3 +6,5 @@ id_nomics: FLOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOT.png
 logoKey: currencies/flot.png
 name: Fire Lotto
+platform: ETH
+platform_contract: '0x049399a6b048d52971f7d122ae21a1532722285f'

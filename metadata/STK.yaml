@@ -6,3 +6,5 @@ id_nomics: STK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/stk.jpg
 logoKey: currencies/stk.jpg
 name: STK
+platform: ETH
+platform_contract: '0xae73b38d1c9a8b274127ec30160a4927c4d71824'

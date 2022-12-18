@@ -3,3 +3,5 @@ fiat: false
 id: AIGOPAY
 id_nomics: AIGOPAY
 name: AIGOPay
+platform: ETH
+platform_contract: '0xd8dc1070b5510583728ee2afd6934877ea2de474'

@@ -6,3 +6,5 @@ id_nomics: CCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CCH.jpg
 logoKey: currencies/cch.jpg
 name: Coinchase Token
+platform: ETH
+platform_contract: '0x40adfc7c23c22cc06f94f199a4750d7196f46fbe'

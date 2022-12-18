@@ -5,3 +5,5 @@ id_nomics: BIDRBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIDRBEP20.jpg
 logoKey: currencies/bidrbep20.jpg
 name: BIDR (BEP-20)
+platform: BNB
+platform_contract: '0x9a2f5556e9a637e8fbce886d8e3cf8b316a1d8a2'

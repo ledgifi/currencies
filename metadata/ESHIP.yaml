@@ -6,3 +6,5 @@ id_nomics: ESHIP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ESHIP.png
 logoKey: currencies/eship.png
 name: EliteShipperToken
+platform: ETH
+platform_contract: '0x06bead2ead661b51307b646f7419d5284330c135'

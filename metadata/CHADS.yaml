@@ -6,3 +6,5 @@ id_nomics: CHADS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHADS.jpeg
 logoKey: currencies/chads.jpeg
 name: CHADS VC
+platform: ETH
+platform_contract: '0x69692d3345010a207b759a7d1af6fc7f38b35c5e'

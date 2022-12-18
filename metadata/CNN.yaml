@@ -6,3 +6,5 @@ id_nomics: CNN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/cnn.svg
 logoKey: currencies/cnn.svg
 name: Content Neutrality Network
+platform: ETH
+platform_contract: '0x8713d26637cf49e1b6b4a7ce57106aabc9325343'

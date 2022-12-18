@@ -6,3 +6,5 @@ id_nomics: NDEFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NDEFI.jpg
 logoKey: currencies/ndefi.jpg
 name: Polly DeFi Nest
+platform: MATIC
+platform_contract: '0xd3f07ea86ddf7baebefd49731d7bbd207fedc53b'

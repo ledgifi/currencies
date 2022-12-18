@@ -6,3 +6,5 @@ id_nomics: SAUNA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAUNA.png
 logoKey: currencies/sauna.png
 name: SaunaFinance Token
+platform: BNB
+platform_contract: '0x06b889a7a7fa15d8cc7cff147962c4232cce7cf0'

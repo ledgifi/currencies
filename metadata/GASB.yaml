@@ -5,3 +5,5 @@ id_nomics: GASB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GASB.jpg
 logoKey: currencies/gasb.jpg
 name: GasBack.Tech
+platform: BNB
+platform_contract: '0x5316f8106d71362e40d0f01724ee6218007e620d'

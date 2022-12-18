@@ -6,3 +6,5 @@ id_nomics: TWO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TWO.png
 logoKey: currencies/two.png
 name: 2gather
+platform: BNB
+platform_contract: '0x4a9e1259b79708700fd4554ff8be20dfde5f159b'

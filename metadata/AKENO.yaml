@@ -3,3 +3,5 @@ fiat: false
 id: AKENO
 id_nomics: AKENO
 name: AkenoEaster
+platform: ETH
+platform_contract: '0xfd35cdc176169da91c18bcc94f34a32e2b3876e7'

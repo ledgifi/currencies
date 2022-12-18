@@ -3,3 +3,5 @@ fiat: false
 id: WMMP
 id_nomics: WMMP
 name: Wrapped MMP
+platform: BNB
+platform_contract: '0x422d0a431d8fb752e3697e90ba04b3324ea0cb4a'

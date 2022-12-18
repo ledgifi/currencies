@@ -5,3 +5,5 @@ id_nomics: OUSDC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OUSDC.png
 logoKey: currencies/ousdc.png
 name: Orbit Bridge Klaytn USDC
+platform: KLAY
+platform_contract: '0x754288077d0ff82af7a5317c7cb8c444d421d103'

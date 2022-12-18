@@ -5,3 +5,5 @@ id_nomics: DEXT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEXT2.jpg
 logoKey: currencies/dext2.jpg
 name: DEXTools
+platform: ETH
+platform_contract: '0xfb7b4564402e5500db5bb6d63ae671302777c75a'

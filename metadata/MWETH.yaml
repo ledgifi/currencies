@@ -3,3 +3,5 @@ fiat: false
 id: MWETH
 id_nomics: MWETH
 name: mushrooming Wrapped Ether (PoS)
+platform: MATIC
+platform_contract: '0xdc0f3c12df89593357985491bdacc5fd789ca4b2'

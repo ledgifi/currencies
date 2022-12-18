@@ -5,3 +5,5 @@ id_nomics: CUBE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CUBE2.jpeg
 logoKey: currencies/cube2.jpeg
 name: Metacube
+platform: HARMONY
+platform_contract: '0xb24b535658fd26aeafa998f96c39a2768fa04bc0'

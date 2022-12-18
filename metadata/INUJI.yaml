@@ -5,3 +5,5 @@ id_nomics: INUJI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INUJI.png
 logoKey: currencies/inuji.png
 name: Inujishi
+platform: BNB
+platform_contract: '0x0F703D3F85863bdd55A2A8f6f9100B2232F8c080'

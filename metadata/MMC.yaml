@@ -3,3 +3,5 @@ fiat: false
 id: MMC
 id_nomics: MMC
 name: Millionaire's Mining Club
+platform: MATIC
+platform_contract: '0x3543b01d528efe271eb658293c1879e14bad1594'

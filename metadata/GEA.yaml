@@ -5,3 +5,5 @@ id_nomics: GEA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GEA.jpg
 logoKey: currencies/gea.jpg
 name: Global Emergency Aid
+platform: BNB
+platform_contract: '0x2cb570c6135573bc5112b58d9f97993641531fa0'

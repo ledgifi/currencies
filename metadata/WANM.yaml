@@ -3,3 +3,5 @@ fiat: false
 id: WANM
 id_nomics: WANM
 name: WAN@moonriver
+platform: MOVR
+platform_contract: '0x41562ae242d194247389152acaa7a9397136b09f'

@@ -5,3 +5,5 @@ id_nomics: USDS4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDS4.png
 logoKey: currencies/usds4.png
 name: SpiceUSD
+platform: AVAX
+platform_contract: '0xab05b04743e0aeaf9d2ca81e5d3b8385e4bf961e'

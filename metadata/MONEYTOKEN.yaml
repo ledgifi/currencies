@@ -5,3 +5,5 @@ id_nomics: MONEYTOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MONEYTOKEN.jpg
 logoKey: currencies/moneytoken.jpg
 name: Money Token
+platform: ETH
+platform_contract: '0x310da5e1e61cd9d6eced092f085941089267e71e'

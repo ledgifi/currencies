@@ -5,3 +5,5 @@ id_nomics: UKAN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UKAN.png
 logoKey: currencies/ukan.png
 name: Ukan
+platform: ETH
+platform_contract: '0x49bc8340acd3521150d7ccd8a4a3510d2f5130ca'

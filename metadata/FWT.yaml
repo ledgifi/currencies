@@ -6,3 +6,5 @@ id_nomics: FWT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FWT.jpg
 logoKey: currencies/fwt.jpg
 name: Freeway Token
+platform: ETH
+platform_contract: '0xf151980e7a781481709e8195744bf2399fb3cba4'

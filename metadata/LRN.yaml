@@ -5,3 +5,5 @@ id_nomics: LRN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/lrn.png
 logoKey: currencies/lrn.png
 name: Loopring
+platform: NEO
+platform_contract: 06fa8be9b6609d963e8fc63977b9f8dc5f10895f

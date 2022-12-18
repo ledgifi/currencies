@@ -6,3 +6,5 @@ id_nomics: LASEREYES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LASEREYES.jpg
 logoKey: currencies/lasereyes.jpg
 name: LASEREYES
+platform: BNB
+platform_contract: '0x7a0fc0f70a3028e4f6d6f61d5f0dfbc2aa300e5e'

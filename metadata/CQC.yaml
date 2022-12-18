@@ -3,3 +3,5 @@ fiat: false
 id: CQC
 id_nomics: CQC
 name: CQC
+platform: ETH
+platform_contract: '0x510820b74d0d1e0310d670a94ee6f3204238da37'

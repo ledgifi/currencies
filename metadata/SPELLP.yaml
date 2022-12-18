@@ -6,3 +6,5 @@ id_nomics: SPELLP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPELLP.jpg
 logoKey: currencies/spellp.jpg
 name: SpellPrinter
+platform: AVAX
+platform_contract: '0xe7d06bb5079340bfd68bc3f5e52b5f65b01d75cd'

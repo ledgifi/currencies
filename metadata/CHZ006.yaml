@@ -5,3 +5,5 @@ id_nomics: CHZ006
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHZ006.jpg
 logoKey: currencies/chz006.jpg
 name: Charizard Token
+platform: BNB
+platform_contract: '0x706954491ebfd6b38e5b1e6f079dbefae0f5eba0'

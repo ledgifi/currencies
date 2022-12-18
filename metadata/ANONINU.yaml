@@ -5,3 +5,5 @@ id_nomics: ANONINU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANONINU.jpg
 logoKey: currencies/anoninu.jpg
 name: Anon Inu
+platform: BNB
+platform_contract: '0x9425315fea3412fd4a0afbfb69b99d8312dc749a'

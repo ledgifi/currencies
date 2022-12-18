@@ -6,3 +6,5 @@ id_nomics: HATAKE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HATAKE.jpg
 logoKey: currencies/hatake.jpg
 name: Kakashi-Inu
+platform: ETH
+platform_contract: '0x2afe947da357679ae3e7d3b54bab4fa904d21c65'

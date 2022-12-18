@@ -5,3 +5,5 @@ id_nomics: AVITA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVITA.jpg
 logoKey: currencies/avita.jpg
 name: Avita
+platform: BNB
+platform_contract: '0xe71ad6c73259e2d407b0747678ef18d70c324288'

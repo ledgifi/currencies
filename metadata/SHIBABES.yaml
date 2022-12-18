@@ -5,3 +5,5 @@ id_nomics: SHIBABES
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBABES.jpg
 logoKey: currencies/shibabes.jpg
 name: SHIBABES
+platform: ETH
+platform_contract: '0x192ff3721f1ba0d42c185c092beba429066bb588'

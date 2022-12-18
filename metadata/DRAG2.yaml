@@ -5,3 +5,5 @@ id_nomics: DRAG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRAG2.jpg
 logoKey: currencies/drag2.jpg
 name: Drachen Lord
+platform: BNB
+platform_contract: '0x239d4e702667f106950ab897ba17802b2d15cc3f'

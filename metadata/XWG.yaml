@@ -6,3 +6,5 @@ id_nomics: XWG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XWG.jpg
 logoKey: currencies/xwg.jpg
 name: X world Games
+platform: BNB
+platform_contract: '0x6b23c89196deb721e6fd9726e6c76e4810a464bc'

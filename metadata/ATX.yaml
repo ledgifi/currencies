@@ -6,3 +6,5 @@ id_nomics: ATX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ATX.png
 logoKey: currencies/atx.png
 name: Aston
+platform: ETH
+platform_contract: '0x1a0f2ab46ec630f9fd638029027b552afa64b94c'

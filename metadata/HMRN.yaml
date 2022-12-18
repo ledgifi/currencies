@@ -6,3 +6,5 @@ id_nomics: HMRN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HMRN.jpg
 logoKey: currencies/hmrn.jpg
 name: Homerun
+platform: BNB
+platform_contract: '0x707cbb83dfb8d885554cdadf3939fd4c810bda41'

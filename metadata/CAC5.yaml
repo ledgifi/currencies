@@ -5,3 +5,5 @@ id_nomics: CAC5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAC5.jpeg
 logoKey: currencies/cac5.jpeg
 name: ChadAndCheems
+platform: BNB
+platform_contract: '0x29b751211b5997d2586e924f4b9d386f5aec82be'

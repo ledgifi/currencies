@@ -5,3 +5,5 @@ id_nomics: YGOAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YGOAT.jpg
 logoKey: currencies/ygoat.jpg
 name: Yield Goat
+platform: BNB
+platform_contract: '0x47ff6511939ab379d7756b003f61010b9eab3077'

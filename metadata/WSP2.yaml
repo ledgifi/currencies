@@ -5,3 +5,5 @@ id_nomics: WSP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WSP2.jpeg
 logoKey: currencies/wsp2.jpeg
 name: WaffleSwap
+platform: BNB
+platform_contract: '0x9d315b68c268f8a76dd267f674c0960bb427e44f'

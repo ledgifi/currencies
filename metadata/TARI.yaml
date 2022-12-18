@@ -3,3 +3,5 @@ fiat: false
 id: TARI
 id_nomics: TARI
 name: Tari World
+platform: KLAY
+platform_contract: '0x0fa1995019322ef3178d037871c4d2eee0940c08'

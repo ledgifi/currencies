@@ -3,3 +3,5 @@ fiat: false
 id: SHBC
 id_nomics: SHBC
 name: Shiba Coin
+platform: AVAX
+platform_contract: '0x46cd130eada79874757295ed724781a6685197dc'

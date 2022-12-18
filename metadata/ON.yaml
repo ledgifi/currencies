@@ -3,3 +3,5 @@ fiat: false
 id: 'ON'
 id_nomics: 'ON'
 name: OFIN TOKEN
+platform: ETH
+platform_contract: '0x3b4caaaf6f3ce5bee2871c89987cbd825ac30822'

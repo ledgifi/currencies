@@ -3,3 +3,5 @@ fiat: false
 id: UNICORE
 id_nomics: UNICORE
 name: Unicore
+platform: ETH
+platform_contract: '0x5506861bbb104baa8d8575e88e22084627b192d8'

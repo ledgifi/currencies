@@ -3,3 +3,5 @@ fiat: false
 id: FBC4
 id_nomics: FBC4
 name: FishBaitCoin
+platform: ETH
+platform_contract: '0xa4052c8866b8ec8b810caf34c5e736f7c6206b7e'

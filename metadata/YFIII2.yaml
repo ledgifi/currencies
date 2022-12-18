@@ -5,3 +5,5 @@ id_nomics: YFIII2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YFIII2.jpg
 logoKey: currencies/yfiii2.jpg
 name: YFIII
+platform: ETH
+platform_contract: '0x649ebf73043ffcc70a59855ecd8a568fd996415a'

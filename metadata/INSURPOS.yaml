@@ -5,3 +5,5 @@ id_nomics: INSURPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INSURPOS.jpg
 logoKey: currencies/insurpos.jpg
 name: InsurAce (Polygon)
+platform: MATIC
+platform_contract: '0x8a0e8b4b0903929f47C3ea30973940D4a9702067'

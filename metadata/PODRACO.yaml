@@ -5,3 +5,5 @@ id_nomics: PODRACO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PODRACO.jpg
 logoKey: currencies/podraco.jpg
 name: Proof Of Draco
+platform: ETH
+platform_contract: '0x8585e21cb6d5bbb1a5d0df700748763fa3cf91cf'

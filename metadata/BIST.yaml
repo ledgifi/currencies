@@ -6,3 +6,5 @@ id_nomics: BIST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIST.jpg
 logoKey: currencies/bist.jpg
 name: Bistroo
+platform: ETH
+platform_contract: '0x6e8908cfa881c9f6f2c64d3436e7b80b1bf0093f'

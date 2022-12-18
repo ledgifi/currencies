@@ -5,3 +5,5 @@ id_nomics: DOGEPOT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOGEPOT.jpg
 logoKey: currencies/dogepot.jpg
 name: DogePot
+platform: BNB
+platform_contract: '0xbcd1f4dc8027d8b2c592de24c15a39901da096e5'

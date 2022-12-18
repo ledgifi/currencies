@@ -5,3 +5,5 @@ id_nomics: BREW2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BREW2.jpg
 logoKey: currencies/brew2.jpg
 name: Potion Brew Finance
+platform: FTM
+platform_contract: '0x46d3ece45f8e16bec4bd241c248ce0e7cfff310e'

@@ -3,3 +3,5 @@ fiat: false
 id: NRYU
 id_nomics: NRYU
 name: nRYU Token
+platform: AVAX
+platform_contract: '0x2265a8ff7b091a0e6707bbae19d428f1a0811f27'

@@ -3,3 +3,5 @@ fiat: false
 id: QIP
 id_nomics: QIP
 name: Algorithm
+platform: BNB
+platform_contract: '0x6936a594b47e261fe2e0b1ad419b5c98ab92ff72'

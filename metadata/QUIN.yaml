@@ -6,3 +6,5 @@ id_nomics: QUIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QUIN.png
 logoKey: currencies/quin.png
 name: QUINADS
+platform: ETH
+platform_contract: '0x86e44543164d9b97b14ef7f6f3ab7ba670cab346'

@@ -5,3 +5,5 @@ id_nomics: POLCBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POLCBEP20.jpg
 logoKey: currencies/polcbep20.jpg
 name: Polka City (BEP-20)
+platform: BNB
+platform_contract: '0x6ae9701b9c423f40d54556c9a443409d79ce170a'

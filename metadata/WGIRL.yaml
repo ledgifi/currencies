@@ -6,3 +6,5 @@ id_nomics: WGIRL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WGIRL.png
 logoKey: currencies/wgirl.png
 name: WhaleGirl
+platform: BNB
+platform_contract: '0x6bb069e6012e503e1e343cdbffe937cca5419e48'

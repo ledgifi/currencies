@@ -6,3 +6,5 @@ id_nomics: BMH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bmh.jpg
 logoKey: currencies/bmh.jpg
 name: BlockMesh
+platform: ETH
+platform_contract: '0xf03045a4c8077e38f3b8e2ed33b8aee69edf869f'

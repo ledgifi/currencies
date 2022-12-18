@@ -5,3 +5,5 @@ id_nomics: HTY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HTY.jpg
 logoKey: currencies/hty.jpg
 name: Honest
+platform: BNB
+platform_contract: '0x181d8a5da1602a90d0094fb45e252089cc48210f'

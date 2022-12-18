@@ -3,3 +3,5 @@ fiat: false
 id: MFA
 id_nomics: MFA
 name: MFA Financial Token
+platform: ETH
+platform_contract: '0x277fd9292b8d698f7474f03fe303fd6a797e62f5'

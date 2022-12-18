@@ -5,3 +5,5 @@ id_nomics: TSMCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TSMCX.jpg
 logoKey: currencies/tsmcx.jpg
 name: Taiwan Semiconductor Manufacturing
+platform: ETH
+platform_contract: '0x7db88a6784cedb3ee341b3d475c7d659228d2a07'

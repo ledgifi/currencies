@@ -5,3 +5,5 @@ id_nomics: RAID
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAID.jpg
 logoKey: currencies/raid.jpg
 name: Raid Token
+platform: XDAI
+platform_contract: '0x18e9262e68cc6c6004db93105cc7c001bb103e49'

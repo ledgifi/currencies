@@ -3,3 +3,5 @@ fiat: false
 id: FUSDC2
 id_nomics: FUSDC2
 name: Fluid USDC
+platform: ETH
+platform_contract: '0x9d1089802ee608ba84c5c98211afe5f37f96b36c'

@@ -5,3 +5,5 @@ id_nomics: NDX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NDX2.jpg
 logoKey: currencies/ndx2.jpg
 name: Indexed Finance
+platform: ETH
+platform_contract: '0x86772b1409b61c639eaac9ba0acfbb6e238e5f83'

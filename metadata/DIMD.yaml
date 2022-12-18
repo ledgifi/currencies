@@ -3,3 +3,5 @@ fiat: false
 id: DIMD
 id_nomics: DIMD
 name: DIMD
+platform: BNB
+platform_contract: '0x6d949d979ba22035dadde09dbe41f98fef9ef54c'

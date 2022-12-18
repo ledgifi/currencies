@@ -5,3 +5,5 @@ id_nomics: DUBTIK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUBTIK.jpeg
 logoKey: currencies/dubtik.jpeg
 name: Dubtik
+platform: BNB
+platform_contract: '0xd2d4801e66a99907287a59e5a68d268572da456f'

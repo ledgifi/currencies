@@ -3,3 +3,5 @@ fiat: false
 id: OBNB
 id_nomics: OBNB
 name: Orbit Bridge Klaytn Binance Coin (oBNB)
+platform: KLAY
+platform_contract: '0x574e9c26bda8b95d7329505b4657103710eb32ea'

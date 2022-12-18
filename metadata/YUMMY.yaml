@@ -6,3 +6,5 @@ id_nomics: YUMMY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YUMMY.jpg
 logoKey: currencies/yummy.jpg
 name: Yummy
+platform: BNB
+platform_contract: '0x05f2df7b3d612a23fe12162a6c996447dce728a5'

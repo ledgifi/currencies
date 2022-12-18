@@ -3,3 +3,5 @@ fiat: false
 id: MACAW
 id_nomics: MACAW
 name: macaw
+platform: ETH
+platform_contract: '0xf55568c3e0637c418304306818fc89ab9ff06e36'

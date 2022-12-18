@@ -3,3 +3,5 @@ fiat: false
 id: LHE
 id_nomics: LHE
 name: Luna Hedge
+platform: MATIC
+platform_contract: '0x741e435c10aece35c0adea4f8fd61618e2f76109'

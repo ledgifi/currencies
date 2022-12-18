@@ -5,3 +5,5 @@ id_nomics: DIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/dit.jpg
 logoKey: currencies/dit.jpg
 name: Direct Insurance Token
+platform: ETH
+platform_contract: '0xf14922001a2fb8541a433905437ae954419c2439'

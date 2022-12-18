@@ -3,3 +3,5 @@ fiat: false
 id: TMAKER
 id_nomics: TMAKER
 name: testMAKER
+platform: AVAX
+platform_contract: '0x72584d677ef6ae61ef2a2a41f25c27793051ddce'

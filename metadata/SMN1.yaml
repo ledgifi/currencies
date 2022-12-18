@@ -3,3 +3,5 @@ fiat: false
 id: SMN1
 id_nomics: SMN1
 name: Super Module Network One
+platform: ETH
+platform_contract: '0x07147220fa6c06295464d695e4ec012f6aebc275'

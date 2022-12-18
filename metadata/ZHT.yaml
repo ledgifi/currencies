@@ -5,3 +5,5 @@ id_nomics: ZHT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZHT.jpg
 logoKey: currencies/zht.jpg
 name: ZeroHybrid
+platform: ETH
+platform_contract: '0x4b13a8a95da56773312ca0d4e0670530aa700fcf'

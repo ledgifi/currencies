@@ -5,3 +5,5 @@ id_nomics: ALBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ALBA.png
 logoKey: currencies/alba.png
 name: Albatross
+platform: BNB
+platform_contract: '0x8E0EaEbDEa7775aAF178CA55311b9095912b0aD1'

@@ -3,3 +3,5 @@ fiat: false
 id: SPARTACUS
 id_nomics: SPARTACUS
 name: Spartacus Token
+platform: BNB
+platform_contract: '0xec744368cc8574bbbb35ee310a809cb55f00f82e'

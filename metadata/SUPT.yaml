@@ -6,3 +6,5 @@ id_nomics: SUPT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUPT.jpg
 logoKey: currencies/supt.jpg
 name: Super Trip Chain
+platform: ETH
+platform_contract: '0x868ab6c9e560ff70584b9770d1bd1b961ad09d82'

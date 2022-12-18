@@ -5,3 +5,5 @@ id_nomics: TBCT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TBCT2.jpg
 logoKey: currencies/tbct2.jpg
 name: TBCT Coin V2
+platform: BNB
+platform_contract: '0x9D3e1DDFB7f12A01B63F8097968E4eFcAAb9e9A5'

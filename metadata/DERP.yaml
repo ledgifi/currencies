@@ -3,3 +3,5 @@ fiat: false
 id: DERP
 id_nomics: DERP
 name: Derp Coin
+platform: ETH
+platform_contract: '0x2b78e1ce43b484f55b87f2b36f27a3bc4d504fbe'

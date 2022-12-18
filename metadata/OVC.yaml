@@ -6,3 +6,5 @@ id_nomics: OVC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OVC.png
 logoKey: currencies/ovc.png
 name: OVCODE
+platform: ETH
+platform_contract: '0x49d09cda1deb8a1680f1270c5ed15218fc4b18f0'

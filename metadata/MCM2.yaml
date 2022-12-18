@@ -3,3 +3,5 @@ fiat: false
 id: MCM2
 id_nomics: MCM2
 name: Memecoin Millionaires
+platform: ETH
+platform_contract: '0x30b3d9141e183fbb9edde2384b58d2ea54a6df4c'

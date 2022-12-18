@@ -6,3 +6,5 @@ id_nomics: CLB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLB.png
 logoKey: currencies/clb.png
 name: Cloudbric
+platform: ETH
+platform_contract: '0xb1c1cb8c7c1992dba24e628bf7d38e71dad46aeb'

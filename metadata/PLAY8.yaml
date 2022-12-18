@@ -5,3 +5,5 @@ id_nomics: PLAY8
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLAY8.jpg
 logoKey: currencies/play8.jpg
 name: PlayMusic
+platform: BNB
+platform_contract: '0x5ecbad49898f06fdbaa01282bc6edb83f217f365'

@@ -5,3 +5,5 @@ id_nomics: FINA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FINA.jpg
 logoKey: currencies/fina.jpg
 name: Defina
+platform: BNB
+platform_contract: '0x426c72701833fddbdfc06c944737c6031645c708'

@@ -5,3 +5,5 @@ id_nomics: BBUNNY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BBUNNY.png
 logoKey: currencies/bbunny.png
 name: BusdBunny
+platform: BNB
+platform_contract: '0xd745adf0c12c574677c453a58c93fa83f64d2519'

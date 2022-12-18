@@ -6,3 +6,5 @@ id_nomics: TKB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TKB.jpg
 logoKey: currencies/tkb.jpg
 name: TKBToken
+platform: BNB
+platform_contract: '0x3ef99822759a2192e7a82f64484e79e89cd90d52'

@@ -5,3 +5,5 @@ id_nomics: WETA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WETA.jpg
 logoKey: currencies/weta.jpg
 name: WETA VR
+platform: BNB
+platform_contract: '0x527d5cbb37c56304121f05d54e4fb75737517ae0'

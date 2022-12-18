@@ -5,3 +5,5 @@ id_nomics: GSN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GSN.jpg
 logoKey: currencies/gsn.jpg
 name: Gameswap Network
+platform: BNB
+platform_contract: '0x46fc426bec92e0c2ac98c130f73626f6ad6a4fa2'

@@ -5,3 +5,5 @@ id_nomics: ZUZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZUZ.jpg
 logoKey: currencies/zuz.jpg
 name: Zeus
+platform: ETH
+platform_contract: '0x202f1877e1db1120ca3e9a98c5d505e7f035c249'

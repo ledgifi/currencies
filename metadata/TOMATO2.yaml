@@ -5,3 +5,5 @@ id_nomics: TOMATO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOMATO2.png
 logoKey: currencies/tomato2.png
 name: TomatoToken
+platform: ETH
+platform_contract: '0x82bd290afa5cc1b75f46822fec415e2be51d7d46'

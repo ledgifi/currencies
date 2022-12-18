@@ -5,3 +5,5 @@ id_nomics: 2022COIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/2022COIN.jpeg
 logoKey: currencies/2022coin.jpeg
 name: 2022token
+platform: BNB
+platform_contract: '0xB63492397821F45b3067F08D30b94B8fE4E705E6'

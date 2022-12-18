@@ -5,3 +5,5 @@ id_nomics: GCASH4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GCASH4.png
 logoKey: currencies/gcash4.png
 name: Gcash Token
+platform: BNB
+platform_contract: '0x00badff359a639ac22373304c6dc4eb7403c729e'

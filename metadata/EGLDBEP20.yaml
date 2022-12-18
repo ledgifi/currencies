@@ -5,3 +5,5 @@ id_nomics: EGLDBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EGLDBEP20.jpg
 logoKey: currencies/egldbep20.jpg
 name: Binance-Peg Elrond Token
+platform: BNB
+platform_contract: '0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe'

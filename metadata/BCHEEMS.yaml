@@ -5,3 +5,5 @@ id_nomics: BCHEEMS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCHEEMS.jpeg
 logoKey: currencies/bcheems.jpeg
 name: BuffedCheems
+platform: BNB
+platform_contract: '0x3366f9e0bbfac5e592f7e8345d8f1bcb71db927c'

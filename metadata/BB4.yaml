@@ -5,3 +5,5 @@ id_nomics: BB4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BB4.jpeg
 logoKey: currencies/bb4.jpeg
 name: Bag Booster
+platform: BNB
+platform_contract: '0x0b4be03c9bf60bea8326d1ccbc3c6a5e8350e608'

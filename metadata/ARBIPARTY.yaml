@@ -3,3 +3,5 @@ fiat: false
 id: ARBIPARTY
 id_nomics: ARBIPARTY
 name: ArbiParty
+platform: ARBETH
+platform_contract: '0x4934914b8f2fec22f9d26aaa8872e861b4679101'

@@ -3,3 +3,5 @@ fiat: false
 id: BBLT
 id_nomics: BBLT
 name: BSC BBLT Token
+platform: BNB
+platform_contract: '0x042ef09636dd4ef5be65cf47b3d5c40763b27e0a'

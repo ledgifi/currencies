@@ -5,3 +5,5 @@ id_nomics: MCDOGE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCDOGE2.jpeg
 logoKey: currencies/mcdoge2.jpeg
 name: McDoge
+platform: BNB
+platform_contract: '0x32bef7e3c42aba78f12ee3e937c16f558ee06e84'

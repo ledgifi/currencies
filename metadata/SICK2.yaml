@@ -3,3 +3,5 @@ fiat: false
 id: SICK2
 id_nomics: SICK2
 name: sick2Token
+platform: XDAI
+platform_contract: '0x27ee88296ae3e90561c26c40d96f537ef33a34be'

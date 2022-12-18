@@ -5,3 +5,5 @@ id_nomics: TAXIGAME
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TAXIGAME.png
 logoKey: currencies/taxigame.png
 name: Taxi
+platform: BNB
+platform_contract: '0xee10a4cb1337856415d08e46fbabf88dee17233f'

@@ -5,3 +5,5 @@ id_nomics: VRAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VRAP.jpg
 logoKey: currencies/vrap.jpg
 name: VeraSwap
+platform: BNB
+platform_contract: '0x271c418b045d05a1d52c6bf849d47b5b5b4d769e'

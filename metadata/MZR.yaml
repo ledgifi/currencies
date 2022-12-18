@@ -5,3 +5,5 @@ id_nomics: MZR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MZR.jpg
 logoKey: currencies/mzr.jpg
 name: Maze Token
+platform: BNB
+platform_contract: '0x75c89548c91c9e38c0194110c7091dc2b6bfda61'

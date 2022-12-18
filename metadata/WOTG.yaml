@@ -6,3 +6,5 @@ id_nomics: WOTG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOTG.jpg
 logoKey: currencies/wotg.jpg
 name: War of Tribes
+platform: BNB
+platform_contract: '0xe586970cf8f4e8b8360bbc8222d6827a844441fa'

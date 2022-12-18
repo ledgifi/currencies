@@ -6,3 +6,5 @@ id_nomics: BTCBR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCBR.jpg
 logoKey: currencies/btcbr.jpg
 name: BitcoinBR
+platform: BNB
+platform_contract: '0x0cf8e180350253271f4b917ccfb0accc4862f262'

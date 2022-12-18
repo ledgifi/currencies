@@ -5,3 +5,5 @@ id_nomics: DOO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOO.jpg
 logoKey: currencies/doo.jpg
 name: DOOiT
+platform: BNB
+platform_contract: '0x8e87db40c5e9335a8fe19333ffc19ad95c665f60'

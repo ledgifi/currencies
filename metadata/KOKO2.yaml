@@ -5,3 +5,5 @@ id_nomics: KOKO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KOKO2.jpeg
 logoKey: currencies/koko2.jpeg
 name: KokoSwap V2
+platform: BNB
+platform_contract: '0x7320c128e89ba4584ab02ed1c9c96285b726443c'

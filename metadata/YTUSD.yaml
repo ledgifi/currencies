@@ -5,3 +5,5 @@ id_nomics: YTUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YTUSD.jpg
 logoKey: currencies/ytusd.jpg
 name: yTUSD
+platform: ETH
+platform_contract: '0x73a052500105205d34daf004eab301916da8190f'

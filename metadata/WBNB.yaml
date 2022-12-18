@@ -8,3 +8,5 @@ id_nomics: WBNB
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220218/9aae8ada-ae10-459a-b8fb-006ad41cd948.png
 logoKey: currencies/wbnb.png
 name: Wrapped BNB
+platform: BNB
+platform_contract: '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c'

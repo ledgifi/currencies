@@ -5,3 +5,5 @@ id_nomics: '3003'
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/3003.jpg
 logoKey: currencies/3003.jpg
 name: 300DOGE
+platform: BNB
+platform_contract: '0x999668eb74ba7f983d96fe78f2286503bc7cab7d'

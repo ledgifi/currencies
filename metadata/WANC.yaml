@@ -5,3 +5,5 @@ id_nomics: WANC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WANC.png
 logoKey: currencies/wanc.png
 name: Wanchor
+platform: BNB
+platform_contract: '0x3bc73447cb14be0a49297c1a2262ace03872455a'

@@ -6,3 +6,5 @@ id_nomics: TITA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TITA.jpg
 logoKey: currencies/tita.jpg
 name: Titan Hunters
+platform: BNB
+platform_contract: '0x0c1253a30da9580472064a91946c5ce0c58acf7f'

@@ -5,3 +5,5 @@ id_nomics: STABEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STABEP20.png
 logoKey: currencies/stabep20.png
 name: Statera (BEP-20)
+platform: BNB
+platform_contract: '0x1f63670f1fac519ec57fca17b986871d6cf7b52f'

@@ -5,3 +5,5 @@ id_nomics: VEGA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VEGA2.jpg
 logoKey: currencies/vega2.jpg
 name: Vega Protocol
+platform: ETH
+platform_contract: '0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e'

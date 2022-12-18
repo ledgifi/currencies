@@ -3,3 +3,5 @@ fiat: false
 id: WALLY
 id_nomics: WALLY
 name: Where's Wally
+platform: ETH
+platform_contract: '0x15268dc899480558eaebdeda75b4ae9e58c7a7dc'

@@ -5,3 +5,5 @@ id_nomics: MMX2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MMX2.jpeg
 logoKey: currencies/mmx2.jpeg
 name: MyMetaX
+platform: BNB
+platform_contract: '0x04e010cfef5ff8a3599c384da75c80bf48a41500'

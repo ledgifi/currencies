@@ -3,3 +3,5 @@ fiat: false
 id: ELEASH
 id_nomics: ELEASH
 name: Ether Leash
+platform: ETH
+platform_contract: '0x38f9cf06125654dc7ecd20b52aaafea435b065ad'

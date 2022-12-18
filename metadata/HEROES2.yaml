@@ -5,3 +5,5 @@ id_nomics: HEROES2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HEROES2.jpg
 logoKey: currencies/heroes2.jpg
 name: Dehero Community Token
+platform: BNB
+platform_contract: '0x261510dd6257494eea1dda7618dbe8a7b87870dd'

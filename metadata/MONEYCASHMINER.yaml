@@ -5,3 +5,5 @@ id_nomics: MONEYCASHMINER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MONEYCASHMINER.jpg
 logoKey: currencies/moneycashminer.jpg
 name: MONEY CASH MINER
+platform: ETH
+platform_contract: '0x3b3801f0fc76528e42390df701f513fc62cbf154'

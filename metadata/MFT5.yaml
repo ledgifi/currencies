@@ -5,3 +5,5 @@ id_nomics: MFT5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MFT5.png
 logoKey: currencies/mft5.png
 name: Metis Fan Token
+platform: METIS
+platform_contract: '0xA29FfE1276f362eee80502620E0Cd2b471e5151e'

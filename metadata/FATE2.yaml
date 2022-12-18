@@ -5,3 +5,5 @@ id_nomics: FATE2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FATE2.jpeg
 logoKey: currencies/fate2.jpeg
 name: Fate
+platform: BNB
+platform_contract: '0x7bf18db86ea31000a5290249362c6dbe9fb06608'

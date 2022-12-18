@@ -5,3 +5,5 @@ id_nomics: BTL3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTL3.jpg
 logoKey: currencies/btl3.jpg
 name: Bitles Token
+platform: ETH
+platform_contract: '0x0263e1dcfcaaad8fd4e840fe4b22854485a561f0'

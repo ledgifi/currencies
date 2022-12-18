@@ -3,3 +3,5 @@ fiat: false
 id: EDKM
 id_nomics: EDKM
 name: endokicoin
+platform: MATIC
+platform_contract: '0x50bc3651234e15d67bf76f3ffae38bb28c37c26e'

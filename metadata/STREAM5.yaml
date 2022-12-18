@@ -5,3 +5,5 @@ id_nomics: STREAM5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STREAM5.png
 logoKey: currencies/stream5.png
 name: Streamers Fund
+platform: ETH
+platform_contract: '0x769BCAE53982cC89C22CA9CC8cD6b58744a19191'

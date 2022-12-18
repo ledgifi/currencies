@@ -5,3 +5,5 @@ id_nomics: SWDPOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWDPOS.jpeg
 logoKey: currencies/swdpos.jpeg
 name: SW DAO (Polygon)
+platform: MATIC
+platform_contract: '0xaeE24d5296444c007a532696aaDa9dE5cE6caFD0'

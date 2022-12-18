@@ -5,3 +5,5 @@ id_nomics: FRMBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FRMBEP20.png
 logoKey: currencies/frmbep20.png
 name: Ferrum Network (BEP-20)
+platform: BNB
+platform_contract: '0xa719b8ab7ea7af0ddb4358719a34631bb79d15dc'

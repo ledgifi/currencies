@@ -3,3 +3,5 @@ fiat: false
 id: BTC020
 id_nomics: BTC020
 name: BTC020
+platform: BNB
+platform_contract: '0x9ab4c7a9333e00d2771dcdaf9c4a6009674f370f'

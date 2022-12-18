@@ -5,3 +5,5 @@ id_nomics: BENJA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BENJA.jpg
 logoKey: currencies/benja.jpg
 name: benjaCoin
+platform: ETH
+platform_contract: '0x38968746147bbaeb882f356ad9a57594bb158235'

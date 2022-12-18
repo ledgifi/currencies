@@ -6,3 +6,5 @@ id_nomics: CAVO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAVO.jpg
 logoKey: currencies/cavo.jpg
 name: Excavo Finance
+platform: ETH
+platform_contract: '0x24ea9c1cfd77a8db3fb707f967309cf013cc1078'

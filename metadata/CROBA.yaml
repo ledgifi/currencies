@@ -5,3 +5,5 @@ id_nomics: CROBA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CROBA.PNG
 logoKey: currencies/croba.png
 name: Croba
+platform: ETH
+platform_contract: '0x1b93adebff40cc36f0e2b97a427c7bc52edaa552'

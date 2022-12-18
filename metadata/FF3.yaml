@@ -5,3 +5,5 @@ id_nomics: FF3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FF3.jpg
 logoKey: currencies/ff3.jpg
 name: Fantasy Fox
+platform: BNB
+platform_contract: '0x147d7d47c9340253dc5adf0574e7bc4b05630aed'

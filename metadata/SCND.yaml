@@ -5,3 +5,5 @@ id_nomics: SCND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCND.png
 logoKey: currencies/scnd.png
 name: Seconds
+platform: BNB
+platform_contract: '0x89830a3883c1a3b1db4e19220de74c0e22d08b77'

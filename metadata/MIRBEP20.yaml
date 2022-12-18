@@ -5,3 +5,5 @@ id_nomics: MIRBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIRBEP20.png
 logoKey: currencies/mirbep20.png
 name: Wrapped MIR Token
+platform: BNB
+platform_contract: '0x5b6dcf557e2abe2323c48445e8cc948910d8c2c9'

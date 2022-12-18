@@ -6,3 +6,5 @@ id_nomics: TEQUILA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TEQUILA.jpg
 logoKey: currencies/tequila.jpg
 name: TequilaParty
+platform: BNB
+platform_contract: '0xf459693e9f45f432ecb48afe1bd0ccaa4ad82959'

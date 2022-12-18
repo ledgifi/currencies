@@ -5,3 +5,5 @@ id_nomics: MOMETA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOMETA.jpeg
 logoKey: currencies/mometa.jpeg
 name: Modern Metaverse
+platform: BNB
+platform_contract: '0x57fa50eae7e2dfad3e0e822dffce8ef0c4c028ed'

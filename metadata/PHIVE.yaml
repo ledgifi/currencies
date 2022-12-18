@@ -5,3 +5,5 @@ id_nomics: PHIVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PHIVE.png
 logoKey: currencies/phive.png
 name: Polygon Hive
+platform: MATIC
+platform_contract: '0x456320e9b87a7c84a53b8ab300067f3a29aab301'

@@ -3,3 +3,5 @@ fiat: false
 id: TPOKT
 id_nomics: TPOKT
 name: ThunderPOKT
+platform: MATIC
+platform_contract: '0x5430a0b6c11f870571ffa891d59dec8c4608ea9a'

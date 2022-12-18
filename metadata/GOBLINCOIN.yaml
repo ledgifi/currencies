@@ -3,3 +3,5 @@ fiat: false
 id: GOBLINCOIN
 id_nomics: GOBLINCOIN
 name: Goblin coin
+platform: ETH
+platform_contract: '0xa103954ff86ca32ac97962cd4541ea243555679b'

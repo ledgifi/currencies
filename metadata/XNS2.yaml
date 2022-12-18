@@ -5,3 +5,5 @@ id_nomics: XNS2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XNS2.jpg
 logoKey: currencies/xns2.jpg
 name: Xeonbit Token
+platform: ETH
+platform_contract: '0x79c71d3436f39ce382d0f58f1b011d88100b9d91'

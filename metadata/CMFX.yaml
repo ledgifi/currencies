@@ -3,3 +3,5 @@ fiat: false
 id: CMFX
 id_nomics: CMFX
 name: CMF Token
+platform: BNB
+platform_contract: '0x18558d7ffa0d3201a3a94dfe8188871c6a7bdc25'

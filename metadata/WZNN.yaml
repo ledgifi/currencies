@@ -6,3 +6,5 @@ id_nomics: WZNN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WZNN.jpg
 logoKey: currencies/wznn.jpg
 name: Wrapped ZNN
+platform: BNB
+platform_contract: '0x8a7ca49f42e5196c26bb00fa014352e5d065db4d'

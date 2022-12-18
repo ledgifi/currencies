@@ -5,3 +5,5 @@ id_nomics: CAPARB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAPARB.jpg
 logoKey: currencies/caparb.jpg
 name: Cap (Arbitrum)
+platform: ARBETH
+platform_contract: '0x031d35296154279dc1984dcd93e392b1f946737b'

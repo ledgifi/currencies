@@ -5,3 +5,5 @@ id_nomics: GOLDS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOLDS.jpg
 logoKey: currencies/golds.jpg
 name: GoldenShiba
+platform: BNB
+platform_contract: '0x2d6c99C5311fcebdD0aC35601c42d143Bf5ab611'

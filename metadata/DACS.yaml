@@ -6,3 +6,5 @@ id_nomics: DACS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DACS.png
 logoKey: currencies/dacs.png
 name: Dacsee
+platform: ETH
+platform_contract: '0xa31108e5bab5494560db34c95492658af239357c'

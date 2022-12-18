@@ -6,3 +6,5 @@ id_nomics: WNOW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WNOW.png
 logoKey: currencies/wnow.png
 name: WalletNow
+platform: BNB
+platform_contract: '0x56aa0237244c67b9a854b4efe8479cca0b105289'

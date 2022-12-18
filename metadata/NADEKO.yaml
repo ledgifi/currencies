@@ -5,3 +5,5 @@ id_nomics: NADEKO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NADEKO.jpg
 logoKey: currencies/nadeko.jpg
 name: Nadeko Inu
+platform: ETH
+platform_contract: '0xa5d7fdd37600b009746be994005e3f38e3b66740'

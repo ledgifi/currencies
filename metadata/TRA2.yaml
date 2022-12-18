@@ -5,3 +5,5 @@ id_nomics: TRA2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRA2.jpg
 logoKey: currencies/tra2.jpg
 name: Trabzonspor Fan Token
+platform: CHZ
+platform_contract: '0x2d00fdd58691a2dfcdbfad3450e700f0bd332bdd'

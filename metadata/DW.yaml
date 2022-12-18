@@ -6,3 +6,5 @@ id_nomics: DW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DW.png
 logoKey: currencies/dw.png
 name: Dawn Wars
+platform: BNB
+platform_contract: '0x951ad8020cee44f6cec9b8aff9fc8e42363f6f50'

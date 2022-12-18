@@ -6,3 +6,5 @@ id_nomics: CHEDDA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHEDDA.jpg
 logoKey: currencies/chedda.jpg
 name: Chedda Token
+platform: ETH
+platform_contract: '0x16756ec1deb89a2106c35e0b586a799d0a61837d'

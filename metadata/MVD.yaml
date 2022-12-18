@@ -3,3 +3,5 @@ fiat: false
 id: MVD
 id_nomics: MVD
 name: MvPad
+platform: BNB
+platform_contract: '0x1252e02728ec919ab841ae9af5777095b1cbaa16'
