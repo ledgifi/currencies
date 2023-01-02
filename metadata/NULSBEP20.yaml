@@ -4,6 +4,7 @@ fiat: false
 id: NULSBEP20
 id_nomics: NULSBEP20
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/nuls.svg
+logoKey: currencies/nulsbep20.svg
 name: Nuls (BEP-20)
 platform: BNB
 platform_contract: '0x8cd6e29d3686d24d3c2018cee54621ea0f89313b'

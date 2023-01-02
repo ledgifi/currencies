@@ -3,6 +3,7 @@ fiat: false
 id: HOOBEP20
 id_nomics: HOOBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOO.jpg
+logoKey: currencies/hoobep20.jpg
 name: Hoo Token (BEP-20)
 platform: BNB
 platform_contract: '0xe1d1f66215998786110ba0102ef558b22224c016'

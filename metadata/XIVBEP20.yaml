@@ -3,6 +3,7 @@ fiat: false
 id: XIVBEP20
 id_nomics: XIVBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XIV.jpg
+logoKey: currencies/xivbep20.jpg
 name: Project Inverse (BEP-20)
 platform: BNB
 platform_contract: '0x00518f36d2e0e514e8eb94d34124fc18ee756f10'

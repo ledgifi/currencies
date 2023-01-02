@@ -3,6 +3,7 @@ fiat: false
 id: OVRBEP20
 id_nomics: OVRBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OVR.jpg
+logoKey: currencies/ovrbep20.jpg
 name: OVR (BEP-20)
 platform: BNB
 platform_contract: '0x7e35d0e9180bf3a1fc47b0d110be7a21a10b41fe'

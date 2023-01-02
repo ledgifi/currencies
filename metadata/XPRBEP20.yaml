@@ -4,6 +4,7 @@ fiat: false
 id: XPRBEP20
 id_nomics: XPRBEP20
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/xpr.svg
+logoKey: currencies/xprbep20.svg
 name: Proton (BEP-20)
 platform: BNB
 platform_contract: '0x5de3939b2f811a61d830e6f52d13b066881412ab'

@@ -3,6 +3,7 @@ fiat: false
 id: YVSBEP20
 id_nomics: YVSBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YVS.jpg
+logoKey: currencies/yvsbep20.jpg
 name: YVS Finance (BEP-20)
 platform: BNB
 platform_contract: '0x47c1c7b9d7941a7265d123dcfb100d8fb5348213'

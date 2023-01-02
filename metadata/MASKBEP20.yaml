@@ -4,6 +4,7 @@ fiat: false
 id: MASKBEP20
 id_nomics: MASKBEP20
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/7b22b8ef-17e0-4bcf-9b96-4f98e9e68111.png
+logoKey: currencies/maskbep20.png
 name: Mask Network (BEP-20)
 platform: BNB
 platform_contract: '0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3'

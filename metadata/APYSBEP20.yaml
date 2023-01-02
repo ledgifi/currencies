@@ -3,6 +3,7 @@ fiat: false
 id: APYSBEP20
 id_nomics: APYSBEP20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APYS.png
+logoKey: currencies/apysbep20.png
 name: APYSwap (BEP-20)
 platform: BNB
 platform_contract: '0x37dfacfaeda801437ff648a1559d73f4c40aacb7'

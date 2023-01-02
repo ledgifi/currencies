@@ -4,6 +4,7 @@ fiat: false
 id: USDCBEP20
 id_nomics: USDCBEP20
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/usdc.svg
+logoKey: currencies/usdcbep20.svg
 name: USD Coin (BEP-20)
 platform: BNB
 platform_contract: '0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d'
