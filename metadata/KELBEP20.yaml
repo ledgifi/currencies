@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: KELBEP20
 id_nomics: KELBEP20
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KEL.jpg
 name: KelVPN (BEP-20)
 platform: BNB
 platform_contract: '0x4e1b16ef22935a575a6811d4616f98c4077e4408'

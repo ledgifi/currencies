@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: HOGEBEP20
 id_nomics: HOGEBEP20
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOGE.jpg
 name: hoge.finance (BEP-20)
 platform: BNB
 platform_contract: '0xa4fffc757e8c4f24e7b209c033c123d20983ad40'

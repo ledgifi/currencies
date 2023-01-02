@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: LIENBEP20
 id_nomics: LIENBEP20
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIEN.jpg
 name: Lien (BEP-20)
 platform: BNB
 platform_contract: '0x5d684adaf3fcfe9cfb5cede3abf02f0cdd1012e3'

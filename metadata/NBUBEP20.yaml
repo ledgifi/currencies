@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: NBUBEP20
 id_nomics: NBUBEP20
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NBU.png
 name: Nimbus (BEP-20)
 platform: BNB
 platform_contract: '0x5f20559235479f5b6abb40dfc6f55185b74e7b55'

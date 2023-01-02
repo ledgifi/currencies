@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: BUSDBEP20
 id_nomics: BUSDBEP20
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUSD.png
 name: Binance USD (BEP-20)
 platform: BNB
 platform_contract: '0xe9e7cea3dedca5984780bafc599bd69add087d56'

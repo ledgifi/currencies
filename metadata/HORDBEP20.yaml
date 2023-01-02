@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: HORDBEP20
 id_nomics: HORDBEP20
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HORD.jpg
 name: Chainport.io-Peg HORD Token
 platform: BNB
 platform_contract: '0x39d4549908e7adcee9b439429294eeb4c65c2c9e'

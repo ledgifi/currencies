@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: DISBEP20
 id_nomics: DISBEP20
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DIS.jpg
 name: TosDis (BEP-20)
 platform: BNB
 platform_contract: '0x57effde2759b68d86c544e88f7977e3314144859'

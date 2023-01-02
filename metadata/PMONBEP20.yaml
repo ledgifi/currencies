@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: PMONBEP20
 id_nomics: PMONBEP20
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PMON.jpg
 name: Polkamon (BEP-20)
 platform: BNB
 platform_contract: '0x1796ae0b0fa4862485106a0de9b654efe301d0b2'

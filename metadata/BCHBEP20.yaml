@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: BCHBEP20
 id_nomics: BCHBEP20
+logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/bch.svg
 name: Bitcoin Cash (BEP-20)
 platform: BNB
 platform_contract: '0x8ff795a6f4d97e7887c79bea79aba5cc76444adf'

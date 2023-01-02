@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: DERIBEP20
 id_nomics: DERIBEP20
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DERI.jpg
 name: Deri Finance (BEP-20)
 platform: BNB
 platform_contract: '0xe60eaf5a997dfae83739e035b005a33afdcc6df5'

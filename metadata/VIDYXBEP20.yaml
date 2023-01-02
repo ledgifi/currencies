@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: VIDYXBEP20
 id_nomics: VIDYXBEP20
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VIDYX.jpg
 name: VidyX (BEP-20)
 platform: BNB
 platform_contract: '0x7a16175098fbb7e5eb304dfd29fe232efe54f8fc'

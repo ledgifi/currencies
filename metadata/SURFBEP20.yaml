@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: SURFBEP20
 id_nomics: SURFBEP20
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SURF.jpg
 name: Surf Finance (BEP-20)
 platform: BNB
 platform_contract: '0x0d1a15b277d25598144593836e5c6c20d427b61d'
