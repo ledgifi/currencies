@@ -1,0 +1,8 @@
+crypto: true
+fiat: false
+id: ZKB
+id_nomics: ZKB
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZKB.jpg
+name: ZK Cross Chain Bridge
+platform: BNB
+platform_contract: '0x2770b104374f8130e5a25a203b63c79436b11a0d'

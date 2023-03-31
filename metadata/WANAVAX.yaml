@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: WANAVAX
 id_nomics: WANAVAX
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WANAVAX.png
 name: wanAVAX
 platform: WAN
 platform_contract: '0xb333721251961337f67bbbcaed514f9f284ce8e8'

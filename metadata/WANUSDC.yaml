@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: WANUSDC
 id_nomics: WANUSDC
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WANUSDC.png
 name: wanUSDC
 platform: WAN
 platform_contract: '0x52a9cea01c4cbdd669883e41758b8eb8e8e2b34b'

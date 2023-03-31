@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: HYBX
 id_nomics: HYBX
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HYBX.png
 name: HYBX
 platform: ETH
 platform_contract: '0x32b29705bb44c57f6a3dcca047fd55b460977c25'

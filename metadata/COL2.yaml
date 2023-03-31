@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: COL2
 id_nomics: COL2
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COL2.png
 name: Clash of Lilliput
 platform: BNB
 platform_contract: '0x9ce116224459296abc7858627abd5879514bc629'

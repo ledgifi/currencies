@@ -1,0 +1,8 @@
+crypto: true
+fiat: false
+id: 1USDC
+id_nomics: 1USDC
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/1USDC.png
+name: USD Coin (Harmony)
+platform: HARMONY
+platform_contract: '0x985458e523db3d53125813ed68c274899e9dfab4'

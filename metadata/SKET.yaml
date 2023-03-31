@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: SKET
 id_nomics: SKET
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SKET.png
 name: Sketchcoin
 platform: ETH
 platform_contract: '0x4ee54bea7966bf21bec4fd96816a95a3610f2e45'

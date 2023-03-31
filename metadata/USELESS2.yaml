@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: USELESS2
 id_nomics: USELESS2
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USELESS2.png
 name: Useless
 platform: BNB
 platform_contract: '0x60d66a5152612f7d550796910d022cb2c77b09de'

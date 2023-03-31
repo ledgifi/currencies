@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: WANUSDT
 id_nomics: WANUSDT
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WANUSDT.png
 name: wanUSDT
 platform: WAN
 platform_contract: '0x11e77e27af5539872efed10abaa0b408cfd9fbbd'

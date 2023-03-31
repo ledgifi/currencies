@@ -1,0 +1,8 @@
+crypto: true
+fiat: false
+id: EUROE
+id_nomics: EUROE
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EUROE.png
+name: EUROe Stablecoin
+platform: ETH
+platform_contract: '0x820802fa8a99901f52e39acd21177b0be6ee2974'

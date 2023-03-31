@@ -1,0 +1,8 @@
+crypto: true
+fiat: false
+id: MVAIERC20
+id_nomics: MVAIERC20
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MVAIERC20.jpg
+name: MovAI (ERC-20)
+platform: ETH
+platform_contract: '0x77ddb68d41b6eadbc9f3b172a9a6b75bdfdc8e00'

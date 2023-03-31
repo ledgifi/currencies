@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: WANXRP
 id_nomics: WANXRP
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WANXRP.png
 name: wanXRP
 platform: WAN
 platform_contract: '0xf665e0e3e75d16466345e1129530ec28839efaea'

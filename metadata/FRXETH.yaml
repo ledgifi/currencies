@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: FRXETH
 id_nomics: FRXETH
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FRXETH.png
 name: Frax Ether
 platform: ETH
 platform_contract: '0x5e8422345238f34275888049021821e8e08caa1f'

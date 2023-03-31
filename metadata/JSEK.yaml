@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: JSEK
 id_nomics: JSEK
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JSEK.svg
 name: Jarvis Synthetic Swedish Krona
 platform: MATIC
 platform_contract: '0x197e5d6ccff265ac3e303a34db360ee1429f5d1a'

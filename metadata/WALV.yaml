@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: WALV
 id_nomics: WALV
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WALV.svg
 name: Alvey Chain
 platform: BNB
 platform_contract: '0x256d1fce1b1221e8398f65f9b36033ce50b2d497'

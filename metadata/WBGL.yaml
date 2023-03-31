@@ -3,6 +3,7 @@ fiat: false
 id: WBGL
 id_coinpaprika: wbgl-wrapped-bgl
 id_nomics: WBGL
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WBGL.webp
 name: Wrapped BGL
 platform: BNB
 platform_contract: '0x2ba64efb7a4ec8983e22a49c81fa216ac33f383a'

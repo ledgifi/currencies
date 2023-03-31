@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: POPO
 id_nomics: POPO
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POPO.jpg
 name: Pop On
 platform: BNB
 platform_contract: '0x16443c388ee2a35bf82f28d36becace343ddde4d'

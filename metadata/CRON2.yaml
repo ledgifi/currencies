@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: CRON2
 id_nomics: CRON2
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRON2.png
 name: CronosNode
 platform: CRO
 platform_contract: '0xd8eb4845b094e05f4d01d7bb3468238076f744f1'

@@ -1,0 +1,8 @@
+crypto: true
+fiat: false
+id: GEMV
+id_nomics: GEMV
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GEMV.jpg
+name: GemVoucher
+platform: BNB
+platform_contract: '0xa25f1247b16a789d77eb3238f0278e0da74b13e4'

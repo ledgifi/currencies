@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: BRSC
 id_nomics: BRSC
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRSC.png
 name: Brazilian Smart Coin
 platform: MATIC
 platform_contract: '0x3376b8e5c5702b5f19bd6d809b9a6a8848109140'

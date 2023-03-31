@@ -1,0 +1,8 @@
+crypto: true
+fiat: false
+id: RVFPOS
+id_nomics: RVFPOS
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RVFPOS.png
+name: RocketX exchange (Polygon)
+platform: MATIC
+platform_contract: '0x2ce13e4199443fdfff531abb30c9b6594446bbc7'

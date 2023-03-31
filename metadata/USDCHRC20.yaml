@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: USDCHRC20
 id_nomics: USDCHRC20
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDCHRC20.png
 name: USD Coin (Harmony)
 platform: HARMONY
 platform_contract: '0x44cED87b9F1492Bf2DCf5c16004832569f7f6cBa'

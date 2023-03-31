@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: DLC6
 id_nomics: DLC6
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DLC6.png
 name: Doglaikacoin
 platform: APTOS
-platform_contract: '0x84edd115c901709ef28f3cb66a82264ba91bfd24789500b6fd34ab9e8888e272'
+platform_contract: 0x84edd115c901709ef28f3cb66a82264ba91bfd24789500b6fd34ab9e8888e272::coin::DLC/DogLaika%20Coin/DLC

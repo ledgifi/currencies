@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: TRF3
 id_nomics: TRF3
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRF3.png&lotus_request=true
 name: TR Finance
 platform: BNB
 platform_contract: '0x28ee988e91e06e8db47d0a39438e76c59571495c'

@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: VICA
 id_nomics: VICA
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VICA.jpg
 name: ViCA Token
 platform: ETH
 platform_contract: '0x19d4beb2bc410b80084fcbd0ac024326f4d3a370'

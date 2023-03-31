@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: ICETH
 id_nomics: ICETH
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICETH.png
 name: Interest Compounding ETH Index
 platform: ETH
 platform_contract: '0x7c07f7abe10ce8e33dc6c5ad68fe033085256a84'

@@ -1,0 +1,8 @@
+crypto: true
+fiat: false
+id: JUSDC
+id_nomics: JUSDC
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JUSDC.png
+name: Jones USDC
+platform: ARBETH
+platform_contract: '0xe66998533a1992ece9ea99cdf47686f4fc8458e0'

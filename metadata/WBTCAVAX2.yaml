@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: WBTCAVAX2
 id_nomics: WBTCAVAX2
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WBTCAVAX2.png
 name: Wrapped BTC (Avalanche)
 platform: AVAX
 platform_contract: '0x50b7545627a5162f82a992c33b87adc75187b218'

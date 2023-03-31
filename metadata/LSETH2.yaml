@@ -1,0 +1,8 @@
+crypto: true
+fiat: false
+id: LSETH2
+id_nomics: LSETH2
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LSETH2.png
+name: Liquid Staked ETH Index
+platform: ETH
+platform_contract: '0x628ebc64a38269e031afbdd3c5ba857483b5d048'

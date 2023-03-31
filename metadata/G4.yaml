@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: G4
 id_nomics: G4
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/G4.jpg
 name: GRN Grid
 platform: ETH
 platform_contract: '0xe1005bfbbc9a17d5d844c7a4371cbf6b2b387380'

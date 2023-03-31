@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: BUBBLE4
 id_nomics: BUBBLE4
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUBBLE4.png&w=128&q=75
 name: Bubble Protocol
 platform: BNB
 platform_contract: '0x1c5a4382b6f86c9689724f1fdfe6ee2dc1fb5583'

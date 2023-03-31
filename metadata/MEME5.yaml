@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: MEME5
 id_nomics: MEME5
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEME5.jpg
 name: Memeverse
 platform: BNB
 platform_contract: '0xe932902b2f8b7d4959a311b16b2672501c42b3f7'

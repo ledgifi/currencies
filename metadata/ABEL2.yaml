@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: ABEL2
 id_nomics: ABEL2
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ABEL2.png
 name: ABEL Finance
 platform: APTOS
 platform_contract: '0x7c0322595a73b3fc53bb166f5783470afeb1ed9f46d1176db62139991505dc61'
