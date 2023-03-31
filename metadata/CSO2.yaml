@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: CSO2
+id_coinmarketcap: '5852'
 id_nomics: CSO2
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5852.png
 name: Coinsto
 platform: ETH
 platform_contract: '0x2a469a22101f1f672b745d729d13ab8dbd203c9b'

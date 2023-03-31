@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: MONEY2
+id_coinmarketcap: '18758'
 id_nomics: MONEY2
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18758.png
 name: Moremoney USD
 platform: AVAX
 platform_contract: '0x0f577433bf59560ef2a79c124e9ff99fca258948'

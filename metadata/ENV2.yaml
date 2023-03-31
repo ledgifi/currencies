@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: ENV2
+id_coinmarketcap: '12834'
 id_nomics: ENV2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ENV2.jpg
 logoKey: currencies/env2.jpg

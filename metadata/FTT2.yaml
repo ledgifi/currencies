@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: FTT2
+id_coinmarketcap: '5984'
 id_nomics: FTT2
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5984.png
 name: FreeTip
 platform: ETH
 platform_contract: '0x174bea2cb8b20646681e855196cf34fcecec2489'
