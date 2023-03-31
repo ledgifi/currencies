@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: RPL
+id_binance: '1158'
 id_coinpaprika: rpl-rocket-pool
 id_nomics: RPL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RPL.png

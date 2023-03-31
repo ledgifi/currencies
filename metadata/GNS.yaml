@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: GNS
+id_binance: '1163'
 id_nomics: GNS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GNS.png
 logoKey: currencies/gns.png

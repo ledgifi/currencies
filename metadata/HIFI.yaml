@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: HIFI
+id_binance: '1153'
 id_coinpaprika: hifi-hifi-gaming-society
 id_nomics: HIFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HIFI.jpg

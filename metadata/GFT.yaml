@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: GFT
+id_binance: '1160'
 id_nomics: GFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GFT.png
 logoKey: currencies/gft.png

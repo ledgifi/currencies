@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: LQTY
+id_binance: '1169'
 id_coinpaprika: lqty-liquity
 id_nomics: LQTY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LQTY.jpg
