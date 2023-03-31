@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: CCURVE
+id_coinmarketcap: '5953'
 id_nomics: CCURVE
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5953.png
 name: LP-cCurve
 platform: ETH
 platform_contract: '0x845838df265dcd2c412a1dc9e959c7d08537f8a2'

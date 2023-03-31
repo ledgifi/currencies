@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: RTGN
+id_coinmarketcap: '19008'
 id_nomics: RTGN
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19008.png
 name: Retrogression
 platform: ETH
 platform_contract: '0x304243a820d4a3718becc89a3f33513586162cf0'

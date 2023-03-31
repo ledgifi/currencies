@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: CUR
+id_coinmarketcap: '5083'
 id_nomics: CUR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CUR.png
 logoKey: currencies/cur.png

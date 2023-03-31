@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: STOMB
+id_coinmarketcap: '17790'
 id_nomics: STOMB
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17790.png
 name: Snowtomb
 platform: AVAX
 platform_contract: '0x9e6832d13b29d0b1c1c3465242681039b31c7a05'

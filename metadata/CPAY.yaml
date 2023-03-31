@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: CPAY
+id_coinmarketcap: '2314'
 id_coinpaprika: cpay-cryptopay
 id_nomics: CPAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/cpay.svg

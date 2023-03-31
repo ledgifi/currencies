@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: SQUIDKING
+id_coinmarketcap: '18040'
 id_coinpaprika: squidking-squid-king
 id_nomics: SQUIDKING
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18040.png
 name: SquidKing
 platform: BNB
 platform_contract: '0x589fe113006e6504ed3c7a02531cbfd178977002'

@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: HKUN
+id_coinmarketcap: '12014'
 id_coinpaprika: hkun-hakuna-matata
 id_nomics: HKUN
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12014.png
 name: Hakuna Matata
 platform: BNB
 platform_contract: '0xbb2fa5b2d19209f4cf50cf745efc32641a7c9fb1'

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: YUS
+id_coinmarketcap: '20161'
 id_nomics: YUS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20161.png
 name: Yolee Universe Shards
 platform: BNB
 platform_contract: '0xff48b782f1a5daf32080a4caa84e9161f84659fa'

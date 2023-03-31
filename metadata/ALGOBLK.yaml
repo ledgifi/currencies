@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: ALGOBLK
+id_coinmarketcap: '19386'
 id_nomics: ALGOBLK
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19386.png
 name: AlgoBlocks
 platform: BNB
 platform_contract: '0xfecca80ff6deb2b492e93df3b67f0c523cfd3a48'

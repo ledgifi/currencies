@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: WIGO
+id_coinmarketcap: '18148'
 id_nomics: WIGO
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18148.png
 name: WigoSwap
 platform: FTM
 platform_contract: '0xe992beab6659bff447893641a378fbbf031c5bd6'

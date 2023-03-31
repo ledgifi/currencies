@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: BTCPAY
+id_coinmarketcap: '21576'
 id_nomics: BTCPAY
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21576.png
 name: Bitcoin Pay
 platform: BNB
 platform_contract: '0x9f5c37e0fd9bf729b1f0a6f39ce57be5e9bfd435'

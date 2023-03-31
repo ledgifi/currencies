@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: PUSH
+id_coinmarketcap: '9111'
 id_nomics: PUSH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PUSH.jpg
 logoKey: currencies/push.jpg

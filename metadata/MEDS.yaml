@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: MEDS
+id_coinmarketcap: '18553'
 id_nomics: MEDS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18553.png
 name: Medic Inu
 platform: ETH
 platform_contract: '0xcabc94c68cc395a8e7b4cdbf29d89c5df302f416'

@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: BSE
+id_coinmarketcap: '7996'
 id_coinpaprika: bse-buy-sell
 id_nomics: BSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSE.jpg

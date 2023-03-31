@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: MCD
+id_coinmarketcap: '21488'
 id_nomics: MCD
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21488.png
 name: Mongoose Coin Dao
 platform: ETH
 platform_contract: '0x9a26bfcc84b19db20be61e070bae747bfb2f2228'

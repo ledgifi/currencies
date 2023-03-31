@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: NODY
+id_coinmarketcap: '20841'
 id_nomics: NODY
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20841.png
 name: NodyToken
 platform: BNB
 platform_contract: '0xfe01c159ecdee4377abfc4cd1827089c47b806ea'

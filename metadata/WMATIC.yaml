@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: WMATIC
+id_coinmarketcap: '8925'
 id_nomics: WMATIC
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8925.png
 name: Wrapped Matic
 platform: MATIC
 platform_contract: '0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270'

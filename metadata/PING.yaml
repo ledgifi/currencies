@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: PING
+id_coinmarketcap: '1777'
 id_coinpaprika: ping-cryptoping
 id_nomics: PING
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ping.svg

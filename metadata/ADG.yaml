@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: ADG
+id_coinmarketcap: '23482'
 id_nomics: ADG
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23482.png
 name: Aidari v0.5rc
 platform: BNB
 platform_contract: '0x81e542ebdeaac3b6f2942f0b9d3bcc3036c987a4'

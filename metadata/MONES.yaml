@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: MONES
+id_coinmarketcap: '17074'
 id_nomics: MONES
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17074.png
 name: Mones
 platform: BNB
 platform_contract: '0xac3050c7cc3bd83fd5b53fb94c0be385b1ca6d15'

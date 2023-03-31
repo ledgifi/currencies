@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: DGOLD
+id_coinmarketcap: '12380'
 id_nomics: DGOLD
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12380.png
 name: Dragon Gold Token
 platform: MATIC
 platform_contract: '0x0b502860b730bfaf5fa5566ec9996c53810dfe08'

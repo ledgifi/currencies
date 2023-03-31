@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: HNTR
+id_coinmarketcap: '21350'
 id_nomics: HNTR
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21350.png
 name: Hunter
 platform: BNB
 platform_contract: '0x83451a4e3585fda74feb348ad929f2c4ca189660'

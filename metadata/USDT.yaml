@@ -4,6 +4,7 @@ decimals: 8
 fiat: false
 id: USDT
 id_binance: '20'
+id_coinmarketcap: '825'
 id_coinpaprika: usdt-tether
 id_nomics: USDT
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/usdt.svg

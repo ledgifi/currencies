@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: METR
+id_coinmarketcap: '19244'
 id_nomics: METR
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19244.png
 name: Metria
 platform: ETH
 platform_contract: '0x405ce8b2eaeea7d4ba5fc160848cb2a6569e03f0'

@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: RIM
+id_coinmarketcap: '18322'
 id_coinpaprika: rim-metarim
 id_nomics: RIM
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18322.png
 name: MetaRim
 platform: BNB
 platform_contract: '0xa25199a79a34cc04b15e5c0bba4e3a557364e532'

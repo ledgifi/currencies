@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: FRNK
+id_coinmarketcap: '5593'
 id_nomics: FRNK
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5593.png
 name: Frinkcoin
 platform: ETH
 platform_contract: '0xf938c9a22c6fc9e6b81b24b68db94b92dc4a7976'

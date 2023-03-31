@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: KIRA
+id_coinmarketcap: '22686'
 id_nomics: KIRA
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22686.png
 name: kira.network
 platform: ETH
 platform_contract: '0x3f8299ddd34ec15b21a233e1bf096d2ab4d9b2ab'

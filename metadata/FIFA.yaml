@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: FIFA
+id_coinmarketcap: '21340'
 id_nomics: FIFA
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21340.png
 name: CryptoFIFA
 platform: BNB
 platform_contract: '0x23e1bbc6d53f947fd9f955375cc23110ca611cda'

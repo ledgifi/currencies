@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: BNBP
+id_coinmarketcap: '22080'
 id_nomics: BNBP
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22080.png
 name: BNB Printer
 platform: BNB
 platform_contract: '0x5db8e98e62676ba142d877e51ee8fd595f556c2d'

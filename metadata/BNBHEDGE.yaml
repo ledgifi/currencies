@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: BNBHEDGE
+id_coinmarketcap: '6312'
 id_nomics: BNBHEDGE
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6312.png
 name: 1X Short BNB Token
 platform: ETH
 platform_contract: '0x2840ad41cf25ad58303ba24c416e79dce4161b4f'

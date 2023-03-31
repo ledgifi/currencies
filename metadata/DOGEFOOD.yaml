@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: DOGEFOOD
+id_coinmarketcap: '17082'
 id_nomics: DOGEFOOD
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17082.png
 name: Dogefood
 platform: BNB
 platform_contract: '0x9b482a1dc4f90498e1506e3355637e44921805da'

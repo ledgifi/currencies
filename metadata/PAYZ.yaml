@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: PAYZ
+id_coinmarketcap: '19509'
 id_nomics: PAYZ
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19509.png
 name: Payz Payments
 platform: BNB
 platform_contract: '0x88cf0a02371b9f00577552d673cf2ea0c18d0b14'

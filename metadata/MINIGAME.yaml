@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: MINIGAME
+id_coinmarketcap: '16335'
 id_coinpaprika: minigame-minigame
 id_nomics: MINIGAME
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16335.png
 name: MiniGame
 platform: BNB
 platform_contract: '0x8c836d94c4ccb747daec6811652d982f7d9c49b5'

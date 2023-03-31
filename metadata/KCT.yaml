@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: KCT
+id_coinmarketcap: '20305'
 id_nomics: KCT
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20305.png
 name: K-Chain
 platform: ETH
 platform_contract: '0x3d875a26d9afcbf4f58c920509c876b594499c87'

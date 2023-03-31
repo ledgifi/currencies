@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: CLASS
+id_coinmarketcap: '17832'
 id_coinpaprika: class-class-coin
 id_nomics: CLASS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17832.png
 name: Class Coin
 platform: BNB
 platform_contract: '0xe57edc546ee99f17a5d6e32c2457b4569ecd40f8'

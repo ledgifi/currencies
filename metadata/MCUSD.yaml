@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
-id: MCUSD
+id: mCUSD
+id_coinmarketcap: '16983'
 id_nomics: MCUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCUSD.jpg
 logoKey: currencies/mcusd.jpg

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: PEPES
+id_coinmarketcap: '23701'
 id_nomics: PEPES
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23701.png
 name: PepeNewStart
 platform: ETH
 platform_contract: '0x1e19d8e0d635d57523044d7cf07fcd9106a416e3'

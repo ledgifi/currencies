@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: WAIT
+id_coinmarketcap: '21997'
 id_nomics: WAIT
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21997.png
 name: Wait
 platform: ETH
 platform_contract: '0x7ba0d5369e20c18030050c6f2d8aa2969bcc701c'

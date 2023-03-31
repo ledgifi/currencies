@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: CREAL
+id_coinmarketcap: '16385'
 id_nomics: CREAL
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16385.png
 name: Celo Brazilian Real
 platform: CELO
 platform_contract: '0xe8537a3d056da446677b9e9d6c5db704eaab4787'

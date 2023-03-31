@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: FON
+id_coinmarketcap: '20278'
 id_nomics: FON
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20278.png
 name: Fonvity Token
 platform: BNB
 platform_contract: '0x12a055d95855b4ec2cd70c1a5eadb1ed43eaef65'

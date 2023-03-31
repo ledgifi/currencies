@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: SELECT
+id_coinmarketcap: '14604'
 id_nomics: SELECT
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14604.png
 name: Smart Electrum
 platform: ETH
 platform_contract: '0x01fb70ea8acfdd5435c8e8bd1531d96d57ced0ec'

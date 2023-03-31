@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: PIRA
+id_coinmarketcap: '15826'
 id_nomics: PIRA
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15826.png
 name: Piratera Token
 platform: BNB
 platform_contract: '0xb27b68431c9a1819c8633ff75a2dd14f54799a21'

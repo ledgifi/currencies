@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: SAVAX
+id_coinmarketcap: '18523'
 id_nomics: SAVAX
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18523.png
 name: Staked AVAX
 platform: AVAX
 platform_contract: '0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be'

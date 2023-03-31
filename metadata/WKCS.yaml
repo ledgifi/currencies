@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: WKCS
+id_coinmarketcap: '11023'
 id_nomics: WKCS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11023.png
 name: Wrapped KCS
 platform: KCS
 platform_contract: '0x4446fc4eb47f2f6586f9faab68b3498f86c07521'

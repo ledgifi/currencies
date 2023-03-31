@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: SNCT
+id_coinmarketcap: '16620'
 id_nomics: SNCT
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16620.png
 name: Snake City Token
 platform: AVAX
 platform_contract: '0x2905d6d6957983d9ed73bc019ff2782c39dd7a49'

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: IO
+id_coinmarketcap: '12007'
 id_nomics: IO
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12007.png
 name: IncelsOut
 platform: BNB
 platform_contract: '0x832c274f929eef88361318c76f294f9b61d1577e'

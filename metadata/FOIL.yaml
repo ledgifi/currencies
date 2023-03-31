@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: FOIL
+id_coinmarketcap: '19456'
 id_nomics: FOIL
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19456.png
 name: FOIL Bep-20
 platform: BNB
 platform_contract: '0x0a886c3674816291fd727229375d5b6bf99e1cab'

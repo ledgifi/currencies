@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: USDU
+id_coinmarketcap: '6907'
 id_coinpaprika: usdu-upper-dollar
 id_nomics: USDU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDU.png

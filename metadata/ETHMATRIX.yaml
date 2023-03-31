@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: ETHMATRIX
+id_coinmarketcap: '12128'
 id_nomics: ETHMATRIX
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12128.png
 name: Ether Matrix
 platform: BNB
 platform_contract: '0x1f5cd92a4a864fc67d8acbedd12ff2f844617526'

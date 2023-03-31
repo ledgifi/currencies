@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: CGRESS
+id_coinmarketcap: '16324'
 id_nomics: CGRESS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16324.png
 name: Coingress
 platform: ETH
 platform_contract: '0xe8a95475884e5f13adb1f9f10e84f7390bac1b5c'

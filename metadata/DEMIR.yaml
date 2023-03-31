@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: DEMIR
+id_coinmarketcap: '16300'
 id_nomics: DEMIR
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16300.png
 name: DEMIR Token
 platform: ETH
 platform_contract: '0xfec82a1b2638826bfe53ae2f87cfd94329cde60d'

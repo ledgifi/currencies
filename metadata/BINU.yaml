@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: BINU
+id_coinmarketcap: '16681'
 id_coinpaprika: binu-babyinu
 id_nomics: BINU
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16681.png
 name: BabyInu
 platform: ETH
 platform_contract: '0x384e12f6bc9e4f1f0c42f57a28652750a4d53c09'

@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: ETHBACK
+id_coinmarketcap: '11002'
 id_nomics: ETHBACK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHBACK.jpg
 logoKey: currencies/ethback.jpg

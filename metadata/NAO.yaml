@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: NAO
+id_coinmarketcap: '17288'
 id_coinpaprika: nao-nftdao
 id_nomics: NAO
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17288.png
 name: NFTDao
 platform: ETH
 platform_contract: '0x0b3ae696633f9a5b9c2c66826d20b608485219a3'

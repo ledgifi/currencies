@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: FETCH
+id_coinmarketcap: '10112'
 id_nomics: FETCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FETCH.jpg
 logoKey: currencies/fetch.jpg

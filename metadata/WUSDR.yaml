@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: WUSDR
+id_coinmarketcap: '24112'
 id_nomics: WUSDR
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24112.png
 name: Wrapped USDR
 platform: MATIC
 platform_contract: '0xaf0d9d65fc54de245cda37af3d18cbec860a4d4b'

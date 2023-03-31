@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: LINKBEAR
+id_coinmarketcap: '6094'
 id_nomics: LINKBEAR
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6094.png
 name: 3X Short Chainlink Token
 platform: ETH
 platform_contract: '0xa209ba34c01a2713a4453a656630cc9de8a362bc'

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: SENDC
+id_coinmarketcap: '22773'
 id_nomics: SENDC
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22773.png
 name: SendCrypto
 platform: MATIC
 platform_contract: '0x688b4231472fde70c1d30f48638aa1661725d3ce'

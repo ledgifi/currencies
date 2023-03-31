@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: HGET
+id_coinmarketcap: '6949'
 id_nomics: HGET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HGET.jpg
 logoKey: currencies/hget.jpg

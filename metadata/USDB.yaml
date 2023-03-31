@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: USDB
+id_coinmarketcap: '5219'
 id_nomics: USDB
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5219.png
 name: USD Bancor
 platform: ETH
 platform_contract: '0x309627af60f0926daa6041b8279484312f2bf060'

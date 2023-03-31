@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: SHIM
+id_coinmarketcap: '15635'
 id_nomics: SHIM
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15635.png
 name: Shib Meta
 platform: BNB
 platform_contract: '0x57eda630e5049ad6e2ea43e8f532683dc7b80570'

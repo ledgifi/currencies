@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: CSTC
+id_coinmarketcap: '21084'
 id_nomics: CSTC
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21084.png
 name: Constellation Coin
 platform: BNB
 platform_contract: '0xe6db61da308b649e3c20822f8da48c4a5ef02bb4'

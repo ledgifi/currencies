@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: CLSL
+id_coinmarketcap: '20327'
 id_nomics: CLSL
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20327.png
 name: Colossal
 platform: ETH
 platform_contract: '0x8a905d9064bdc37a2aa98b168c79472cd7b6ef2e'

@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: KATA
+id_coinmarketcap: '15142'
 id_coinpaprika: kata-katana-inu
 id_nomics: KATA
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15142.png
 name: KatanaInu
 platform: ETH
 platform_contract: '0x06353973758e6c5bcfbca6d6ce58c323c06f43e1'

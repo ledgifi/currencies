@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: WFTM
+id_coinmarketcap: '10240'
 id_nomics: WFTM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WFTM.png
 logoKey: currencies/wftm.png

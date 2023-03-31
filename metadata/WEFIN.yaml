@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: WEFIN
+id_coinmarketcap: '17653'
 id_nomics: WEFIN
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17653.png
 name: eFin Decentralized
 platform: BNB
 platform_contract: '0xae459484c895a335cec08058290d94551dbf5fbb'

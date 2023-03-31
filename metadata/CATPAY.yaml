@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: CATPAY
+id_coinmarketcap: '19259'
 id_nomics: CATPAY
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19259.png
 name: Catpay
 platform: BNB
 platform_contract: '0x0611686a2558de495617685b3da12448657170fe'

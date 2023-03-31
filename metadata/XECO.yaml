@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: XECO
+id_coinmarketcap: '20803'
 id_nomics: XECO
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20803.png
 name: X Ecosystem
 platform: BNB
 platform_contract: '0xec722154f3ddf7cc08c136adff57c5d4aa210984'

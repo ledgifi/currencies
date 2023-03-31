@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: MTRX
+id_coinmarketcap: '15430'
 id_nomics: MTRX
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15430.png
 name: Red Pill
 platform: BNB
 platform_contract: '0x8dad895d5c12586b3f769dfe1d5d3d28acdfd085'

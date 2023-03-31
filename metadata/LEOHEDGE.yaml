@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: LEOHEDGE
+id_coinmarketcap: '6329'
 id_nomics: LEOHEDGE
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6329.png
 name: 1X Short LEO Token
 platform: ETH
 platform_contract: '0xd83c5c357969628272def87dcdb5b66352dfd794'

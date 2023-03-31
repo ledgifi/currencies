@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: MMETH
+id_coinmarketcap: '15337'
 id_coinpaprika: mmeth-mommy-ethereum
 id_nomics: MMETH
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15337.png
 name: Mommy Ethereum
 platform: BNB
 platform_contract: '0x1f1ec37d18c2316e2dfb43610472ac5a6b977e2b'

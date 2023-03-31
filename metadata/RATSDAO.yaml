@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: RATSDAO
+id_coinmarketcap: '21081'
 id_nomics: RATSDAO
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21081.png
 name: Ratscoin Team Dao
 platform: BNB
 platform_contract: '0xed447dad7b3c384f0ca6f5fcc1b5a859617dc21c'

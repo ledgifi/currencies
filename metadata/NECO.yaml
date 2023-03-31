@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: NECO
+id_coinmarketcap: '19343'
 id_nomics: NECO
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19343.png
 name: Neco Fun
 platform: BNB
 platform_contract: '0xd23891fc1a515a88c571064637502e3766819e2d'

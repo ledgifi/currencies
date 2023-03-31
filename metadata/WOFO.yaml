@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: WOFO
+id_coinmarketcap: '21302'
 id_nomics: WOFO
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21302.png
 name: wofo
 platform: BNB
 platform_contract: '0xa2f3b4df7378e0260c380eb3b5c1eeb6ef4e8385'

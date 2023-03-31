@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: DEGEN
+id_coinmarketcap: '8699'
 id_nomics: DEGEN
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8699.png
 name: DegenScore
 platform: ETH
 platform_contract: '0x661bb561e7fc5a2b2b5fd883ee35c395c4ae9985'

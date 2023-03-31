@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: RCH
+id_coinmarketcap: '18175'
 id_nomics: RCH
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18175.png
 name: RichToken
 platform: BNB
 platform_contract: '0x041e714aa0dce7d4189441896486d361e98bad5f'

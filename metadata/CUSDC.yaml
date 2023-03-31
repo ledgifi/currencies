@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: CUSDC
+id_coinmarketcap: '5265'
 id_nomics: CUSDC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CUSDC.png
 logoKey: currencies/cusdc.png

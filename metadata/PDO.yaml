@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: PDO
+id_coinmarketcap: '9210'
 id_nomics: PDO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PDO.png
 logoKey: currencies/pdo.png

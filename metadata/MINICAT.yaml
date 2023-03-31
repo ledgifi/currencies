@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
-id: MINICAT
+id: MiniCat
+id_coinmarketcap: '19406'
 id_nomics: MINICAT
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19406.png
 name: MiniCat
 platform: BNB
 platform_contract: '0x2545d0fbe9e28b02dfb7fc21835c8610baa7f8aa'

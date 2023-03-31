@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: HUM
+id_coinmarketcap: '3600'
 id_coinpaprika: hum-humanscape
 id_nomics: HUM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HUM.png

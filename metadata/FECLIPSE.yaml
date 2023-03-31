@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: FECLIPSE
+id_coinmarketcap: '9185'
 id_nomics: FECLIPSE
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9185.png
 name: FairEclipse
 platform: BNB
 platform_contract: '0x4f45f6025be6c65573daa0b9965a75e837848da0'

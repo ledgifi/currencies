@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: HPO
+id_coinmarketcap: '22314'
 id_nomics: HPO
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22314.png
 name: Hippopotamus
 platform: BNB
 platform_contract: '0xa0ed3c520dc0632657ad2eaaf19e26c4fd431a84'

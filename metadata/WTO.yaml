@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: WTO
+id_coinmarketcap: '22557'
 id_coinpaprika: wto-war-of-tanks-online
 id_nomics: WTO
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22557.png
 name: War of tanks online
 platform: BNB
 platform_contract: '0x2c673a4c45d9deabef0303458f768d4f6237f448'

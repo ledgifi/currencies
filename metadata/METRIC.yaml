@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: METRIC
+id_coinmarketcap: '7254'
 id_coinpaprika: metric-metricexchange
 id_nomics: METRIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/METRIC.png

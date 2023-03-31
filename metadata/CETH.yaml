@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: CETH
+id_coinmarketcap: '4338'
 id_coinpaprika: ceth-compound-ether
 id_nomics: CETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CETH.png

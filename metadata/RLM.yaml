@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: RLM
+id_coinmarketcap: '19333'
 id_nomics: RLM
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19333.png
 name: Rollium
 platform: CRO
 platform_contract: '0x19258a1df9e929d02b34621cf52797998ae1aa27'

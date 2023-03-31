@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: GRND
+id_coinmarketcap: '21706'
 id_nomics: GRND
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21706.png
 name: SuperWalk
 platform: KLAY
 platform_contract: '0x84f8c3c8d6ee30a559d73ec570d574f671e82647'

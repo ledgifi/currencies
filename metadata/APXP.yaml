@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: APXP
+id_coinmarketcap: '16017'
 id_coinpaprika: apxp-apex-protocol
 id_nomics: APXP
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16017.png
 name: APEX Protocol
 platform: ETH
 platform_contract: '0x601a0ee18e9dcdc70658d8b87a748e11344d3a45'

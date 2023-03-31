@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: ACX
+id_coinmarketcap: '7967'
 id_nomics: ACX
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7967.png
 name: Andre Cronje Index
 platform: ETH
 platform_contract: '0x47318c3aaa5e8da19765eb07d79d937629017980'

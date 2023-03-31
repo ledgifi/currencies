@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: FGD
+id_coinmarketcap: '19413'
 id_coinpaprika: fgd-free-goddess
 id_nomics: FGD
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19413.png
 name: Free goddess
 platform: BNB
 platform_contract: '0x2206c35e770b66fb6fd0d6c633101819e4358fb8'

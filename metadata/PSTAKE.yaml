@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: PSTAKE
+id_coinmarketcap: '15996'
 id_nomics: PSTAKE
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15996.png
 name: pSTAKE Finance
 platform: ETH
 platform_contract: '0xfb5c6815ca3ac72ce9f5006869ae67f18bf77006'

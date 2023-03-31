@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
-id: ODOGE
+id: oDOGE
+id_coinmarketcap: '23748'
 id_nomics: ODOGE
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23748.png
 name: Opal Doge
 platform: ETH
 platform_contract: '0x103d7469a78e20f062459b71a9142574dc30efdb'

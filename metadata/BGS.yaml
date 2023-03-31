@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: BGS
+id_coinmarketcap: '16745'
 id_nomics: BGS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16745.png
 name: Bill gates
 platform: BNB
 platform_contract: '0x15ed7b543ccf1110210e49a8c354d73f7be572db'

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: FOCV
+id_coinmarketcap: '6002'
 id_nomics: FOCV
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6002.png
 name: FOCV
 platform: ETH
 platform_contract: '0xbba1da8aff34ebef5ce4d68312b33ef629548b06'

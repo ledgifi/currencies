@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: UPO
+id_coinmarketcap: '16302'
 id_nomics: UPO
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16302.png
 name: UpOnly Token
 platform: MATIC
 platform_contract: '0x9dbfc1cbf7a1e711503a29b4b5f9130ebeccac96'

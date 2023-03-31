@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: ARBYS
+id_coinmarketcap: '11855'
 id_nomics: ARBYS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11855.png
 name: Arbys Token
 platform: ARBETH
 platform_contract: '0x86a1012d437bbff84fbdf62569d12d4fd3396f8c'

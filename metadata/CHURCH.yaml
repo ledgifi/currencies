@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: CHURCH
+id_coinmarketcap: '19358'
 id_nomics: CHURCH
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19358.png
 name: Church DAO
 platform: ETH
 platform_contract: '0xcf6b796ef500d9da7f4ee4252e916a817cf77783'

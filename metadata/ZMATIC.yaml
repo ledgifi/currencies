@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: ZMATIC
+id_coinmarketcap: '15897'
 id_nomics: ZMATIC
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15897.png
 name: Zero Matic
 platform: MATIC
 platform_contract: '0xaf88cdd91861600c5ad14399e9d32c05c12a1539'

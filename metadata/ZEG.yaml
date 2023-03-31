@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: ZEG
+id_coinmarketcap: '18060'
 id_coinpaprika: zeg-zagent-gem
 id_nomics: ZEG
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18060.png
 name: Zagent Gem
 platform: BNB
 platform_contract: '0x44fc1739a34628c06aee84906359a35f648b5e7f'

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: UMINT
+id_coinmarketcap: '19060'
 id_nomics: UMINT
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19060.png
 name: YouMinter
 platform: ETH
 platform_contract: '0xe99de844ef3ef72806cf006224ef3b813e82662f'

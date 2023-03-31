@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: EUSD
+id_coinmarketcap: '2075'
 id_coinpaprika: eusd-eusd
 id_nomics: EUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EUSDTOKEN.png

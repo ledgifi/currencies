@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: ARGON
+id_coinmarketcap: '8421'
 id_coinpaprika: argon-argon
 id_nomics: ARGON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARGON.jpg

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: REG
+id_coinmarketcap: '17641'
 id_nomics: REG
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17641.png
 name: REGNUM
 platform: BNB
 platform_contract: '0x4f13d843c21939989f5b90c56b647dab98060636'

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: KCCGO
+id_coinmarketcap: '12086'
 id_nomics: KCCGO
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12086.png
 name: KCC GO
 platform: BNB
 platform_contract: '0x057cc280a996ccdfc9c1a63e198b2b6100d0c1ed'

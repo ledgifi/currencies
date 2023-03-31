@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: XFTM
+id_coinmarketcap: '18574'
 id_nomics: XFTM
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18574.png
 name: Fantasm XFTM
 platform: FTM
 platform_contract: '0xfbd2945d3601f21540ddd85c29c5c3caf108b96f'

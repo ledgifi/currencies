@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: ORACULA
+id_coinmarketcap: '18451'
 id_nomics: ORACULA
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18451.png
 name: Oracula
 platform: BNB
 platform_contract: '0x85f3ec4ec49ab6a5901278176235957ef521970d'

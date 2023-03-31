@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: DAM
+id_coinmarketcap: '2260'
 id_coinpaprika: dam-datamine
 id_nomics: DAM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAM.jpg

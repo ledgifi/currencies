@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: UNIM
+id_coinmarketcap: '19387'
 id_nomics: UNIM
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19387.png
 name: Unicorn Milk
 platform: MATIC
 platform_contract: '0x64060ab139feaae7f06ca4e63189d86adeb51691'

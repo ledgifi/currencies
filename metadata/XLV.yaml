@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: XLV
+id_coinmarketcap: '20377'
 id_nomics: XLV
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20377.png
 name: LaunchVerse
 platform: BNB
 platform_contract: '0x2304ae9af71a5ae1b92f0091ac3caff105c67766'

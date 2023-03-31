@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: EOSHEDGE
+id_coinmarketcap: '6371'
 id_nomics: EOSHEDGE
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6371.png
 name: 1X Short EOS Token
 platform: ETH
 platform_contract: '0xb38f206615325306dddeb0794a6482486b6b78b8'

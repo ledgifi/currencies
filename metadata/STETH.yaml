@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
-id: STETH
+id: stETH
+id_coinmarketcap: '8085'
 id_nomics: STETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STETH.png
 logoKey: currencies/steth.png

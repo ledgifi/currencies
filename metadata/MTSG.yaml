@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: MTSG
+id_coinmarketcap: '16568'
 id_coinpaprika: mtsg-meta-speed-game
 id_nomics: MTSG
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16568.png
 name: Meta Speed Game
 platform: BNB
 platform_contract: '0x6a0c486139213fdb9c1d4fc1c9f658d0a4e4317e'

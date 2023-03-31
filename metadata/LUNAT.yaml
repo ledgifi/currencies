@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: LUNAT
+id_coinmarketcap: '21116'
 id_nomics: LUNAT
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21116.png
 name: LUNAT
 platform: BNB
 platform_contract: '0x50f609917b118f7a53ce637655159bba1169fcbd'

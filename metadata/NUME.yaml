@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: NUME
+id_coinmarketcap: '20339'
 id_nomics: NUME
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20339.png
 name: NumisMe Token
 platform: ETH
 platform_contract: '0x34769d3e122c93547836addd3eb298035d68f1c3'

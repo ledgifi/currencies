@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: CAESAR
+id_coinmarketcap: '18335'
 id_nomics: CAESAR
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18335.png
 name: Caesar Finance
 platform: AVAX
 platform_contract: '0x42d047534eef46fd68fad3d74726fe51be4eeb8f'

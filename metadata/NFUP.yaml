@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: NFUP
+id_coinmarketcap: '8007'
 id_nomics: NFUP
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8007.png
 name: NFUP
 platform: ETH
 platform_contract: '0x26cbc7008cd879f4b63b69a915378f2d9b17bbf0'

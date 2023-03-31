@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: COVIDTOKEN
+id_coinmarketcap: '11378'
 id_coinpaprika: covidtoken-covid-token
 id_nomics: COVIDTOKEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COVIDTOKEN.jpg

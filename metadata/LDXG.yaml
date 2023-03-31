@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: LDXG
+id_coinmarketcap: '17068'
 id_nomics: LDXG
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17068.png
 name: London Coin Gold
 platform: ETH
 platform_contract: '0x7c0853ab074f2f17e37c5482dcf6c5f6c1246e8b'

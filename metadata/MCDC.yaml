@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: MCDC
+id_coinmarketcap: '8562'
 id_nomics: MCDC
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8562.png
 name: McDonaldsCoin
 platform: ETH
 platform_contract: '0x8937041c8c52a78c25aa54051f6a9dada23d42a2'

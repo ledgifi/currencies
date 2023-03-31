@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: FIEF
+id_coinmarketcap: '19000'
 id_nomics: FIEF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIEF.png
 logoKey: currencies/fief.png

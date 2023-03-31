@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: ETHAX
+id_coinmarketcap: '20090'
 id_nomics: ETHAX
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20090.png
 name: ETHAX
 platform: BNB
 platform_contract: '0x854f7cd3677737241e3eed0dc3d7f33dfaf72bc4'

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: CENS
+id_coinmarketcap: '19560'
 id_nomics: CENS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19560.png
 name: CENTURY
 platform: BNB
 platform_contract: '0x9e1fd9ba2590af57f926177850eae1611d447874'

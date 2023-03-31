@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: ETHSHIB
+id_coinmarketcap: '19213'
 id_nomics: ETHSHIB
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19213.png
 name: Eth Shiba
 platform: BNB
 platform_contract: '0x69d10c8bd0de1a9345afa36819490d8bbce0e5a3'

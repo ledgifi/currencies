@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: MEGADAO
+id_coinmarketcap: '20295'
 id_nomics: MEGADAO
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20295.png
 name: MegaDAO
 platform: BNB
 platform_contract: '0xf2e4f2c8109530a92a992c9e8d0e75ebf8071e48'

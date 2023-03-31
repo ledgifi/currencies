@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: IAI
+id_coinmarketcap: '18745'
 id_nomics: IAI
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18745.png
 name: IAI Token
 platform: ETH
 platform_contract: '0x1ee1c46251b811075fd480fb64197f4e49c37ee0'

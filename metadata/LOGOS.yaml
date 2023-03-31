@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: LOGOS
+id_coinmarketcap: '19103'
 id_nomics: LOGOS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19103.png
 name: Logosunaux
 platform: BNB
 platform_contract: '0x8e5f75296cd663b7ee3346a7b65d3e14a851c06a'

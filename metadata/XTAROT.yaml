@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: XTAROT
+id_coinmarketcap: '18800'
 id_nomics: XTAROT
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18800.png
 name: Staked TAROT
 platform: FTM
 platform_contract: '0x74d1d2a851e339b8cb953716445be7e8abdf92f4'

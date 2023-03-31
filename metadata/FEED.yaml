@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: FEED
+id_coinmarketcap: '9793'
 id_coinpaprika: feed-feeder-finance
 id_nomics: FEED
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FEED.jpg

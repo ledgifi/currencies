@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: TYRANT
+id_coinmarketcap: '22356'
 id_nomics: TYRANT
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22356.png
 name: Sic Semper Tyrannis
 platform: ETH
 platform_contract: '0x9ac6d09768da32a6029f09ce6dfb9e5242b4ed94'

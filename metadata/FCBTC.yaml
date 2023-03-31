@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: FCBTC
+id_coinmarketcap: '5281'
 id_coinpaprika: fcbtc-fc-bitcoin
 id_nomics: FCBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FCBTC.png

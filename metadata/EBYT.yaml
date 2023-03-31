@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: EBYT
+id_coinmarketcap: '17926'
 id_coinpaprika: ebyt-earthbyt
 id_nomics: EBYT
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17926.png
 name: EarthByt
 platform: BNB
 platform_contract: '0x0d1afece252ff513c5d210aeae88f6c7d37e6ab2'

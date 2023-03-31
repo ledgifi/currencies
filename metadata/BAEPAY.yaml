@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: BAEPAY
+id_coinmarketcap: '7657'
 id_nomics: BAEPAY
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7657.png
 name: BAEPAY
 platform: ETH
 platform_contract: '0x6bffa07a1b0cebc474ce6833eaf2be6326252449'

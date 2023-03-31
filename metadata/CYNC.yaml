@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: CYNC
+id_coinmarketcap: '18547'
 id_coinpaprika: cync-cyn-coin
 id_nomics: CYNC
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18547.png
 name: CYN-COIN
 platform: ETH
 platform_contract: '0xa5522d6137ece774e8084bbf9c34398192ccdca5'

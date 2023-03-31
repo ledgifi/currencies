@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: JAMON
+id_coinmarketcap: '18227'
 id_nomics: JAMON
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18227.png
 name: JamonSwapV2
 platform: MATIC
 platform_contract: '0x2594c5b25edab3ebe937e27650c02922d9a62bf2'

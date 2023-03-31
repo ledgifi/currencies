@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: SAFTI
+id_coinmarketcap: '19390'
 id_nomics: SAFTI
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19390.png
 name: SafuTitano
 platform: BNB
 platform_contract: '0x84952dd90cdc57170b13d2291a8afcedc8f97c71'

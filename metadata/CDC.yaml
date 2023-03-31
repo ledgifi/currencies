@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: CDC
+id_coinmarketcap: '3448'
 id_coinpaprika: cdc-commerce-data-connection
 id_nomics: CDC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CDC.jpg

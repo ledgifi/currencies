@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: LIBERA
+id_coinmarketcap: '20791'
 id_nomics: LIBERA
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20791.png
 name: Libera.Financial
 platform: BNB
 platform_contract: '0x3a806a3315e35b3f5f46111adb6e2baf4b14a70d'

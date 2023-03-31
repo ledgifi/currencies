@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
-id: SCOMP
+id: sCOMP
+id_coinmarketcap: '11101'
 id_nomics: SCOMP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCOMP.png
 logoKey: currencies/scomp.png

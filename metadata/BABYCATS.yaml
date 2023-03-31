@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: BABYCATS
+id_coinmarketcap: '18381'
 id_nomics: BABYCATS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18381.png
 name: Baby Catcoin
 platform: BNB
 platform_contract: '0x1bd5ddcd740f2d13b2255fc325c02509da35c4e4'

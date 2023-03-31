@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: IDLEUSDCSAFE
+id_coinmarketcap: '6164'
 id_nomics: IDLEUSDCSAFE
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6164.png
 name: IdleUSDC (Risk Adjusted)
 platform: ETH
 platform_contract: '0xcddb1bceb7a1979c6caa0229820707429dd3ec6c'

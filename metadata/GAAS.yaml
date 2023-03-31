@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: GAAS
+id_coinmarketcap: '18160'
 id_nomics: GAAS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18160.png
 name: Congruent DAO Token
 platform: ETH
 platform_contract: '0xb4dffa52fee44bd493f12d85829d775ec8017691'

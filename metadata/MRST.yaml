@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: MRST
+id_coinmarketcap: '12826'
 id_nomics: MRST
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12826.png
 name: Mars Token
 platform: MATIC
 platform_contract: '0x383b2a85cefe5c1b97c6de043abad5ed59ee4307'

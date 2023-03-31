@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: TRXHEDGE
+id_coinmarketcap: '6340'
 id_nomics: TRXHEDGE
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6340.png
 name: 1X Short TRX Token
 platform: ETH
 platform_contract: '0xe58c8df0088cf27b26c7d546a9835deacc29496c'

@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: FINT
+id_coinmarketcap: '12015'
 id_coinpaprika: fint-fintropy
 id_nomics: FINT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FINT.png

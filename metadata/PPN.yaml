@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: PPN
+id_coinmarketcap: '11229'
 id_nomics: PPN
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11229.png
 name: PiedPiperNetwork
 platform: ETH
 platform_contract: '0xb3aae68d195138cb1faed4d8c905b8113ea33049'

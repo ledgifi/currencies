@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: JONES
+id_coinmarketcap: '17743'
 id_nomics: JONES
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17743.png
 name: Jones DAO
 platform: ARBETH
 platform_contract: '0x10393c20975cf177a3513071bc110f7962cd67da'

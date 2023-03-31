@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: HDF
+id_coinmarketcap: '22425'
 id_coinpaprika: hdf-helpdogsfoundation
 id_nomics: HDF
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22425.png
 name: HelpDogsFoundation
 platform: BNB
 platform_contract: '0x7c398ba91883c9c5a0945e1ba3e5ba1191ae024f'

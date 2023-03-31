@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: FDAI
+id_coinmarketcap: '23489'
 id_nomics: FDAI
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23489.png
 name: Fluid DAI
 platform: ETH
 platform_contract: '0x244517dc59943e8cdfbd424bdb3262c5f04a1387'

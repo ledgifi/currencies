@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: L3USD
+id_coinmarketcap: '21496'
 id_nomics: L3USD
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21496.png
 name: L3USD
 platform: FTM
 platform_contract: '0x5f0456f728e2d59028b4f5b8ad8c604100724c6a'

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: TDN
+id_coinmarketcap: '6065'
 id_nomics: TDN
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6065.png
 name: TODA Note
 platform: ETH
 platform_contract: '0x6d68a12305051291d194162b8406aea080342645'

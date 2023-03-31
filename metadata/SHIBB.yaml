@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: SHIBB
+id_coinmarketcap: '14856'
 id_coinpaprika: shibb-shibb-inu
 id_nomics: SHIBB
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14856.png
 name: shibb Inu
 platform: BNB
 platform_contract: '0x9fa9df1c31c9677bb92ef56798e140a404efe74c'

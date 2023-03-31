@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: ACEC
+id_coinmarketcap: '20991'
 id_coinpaprika: acec-ace-cash
 id_nomics: ACEC
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20991.png
 name: Ace Cash
 platform: BNB
 platform_contract: '0x6af7bbf137b93ab5cc8f24f85b9c8cfab807bc7a'

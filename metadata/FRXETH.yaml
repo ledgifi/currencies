@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: FRXETH
+id_coinmarketcap: '23225'
 id_nomics: FRXETH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FRXETH.png
 name: Frax Ether

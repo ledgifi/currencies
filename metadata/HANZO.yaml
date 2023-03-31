@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: HANZO
+id_coinmarketcap: '9765'
 id_nomics: HANZO
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9765.png
 name: Hanzo
 platform: MATIC
 platform_contract: '0x37eb60f78e06c4bb2a5f836b0fc6bccbbaa995b3'

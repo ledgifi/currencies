@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: DUSDT
+id_coinmarketcap: '6137'
 id_nomics: DUSDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUSDT.jpg
 logoKey: currencies/dusdt.jpg

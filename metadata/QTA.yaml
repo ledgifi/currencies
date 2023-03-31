@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: QTA
+id_coinmarketcap: '19285'
 id_coinpaprika: qta-quota
 id_nomics: QTA
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19285.png
 name: Quota
 platform: BNB
 platform_contract: '0x55962562444026ccdde2ee0e639bec3fd5a28dbc'

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: SAFEARN
+id_coinmarketcap: '10988'
 id_nomics: SAFEARN
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10988.png
 name: SafeMoonEarn
 platform: BNB
 platform_contract: '0x8009a3002c15b124cabec88476490cea838597a8'

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: IBAT
+id_coinmarketcap: '21600'
 id_nomics: IBAT
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21600.png
 name: Battle Infinity
 platform: BNB
 platform_contract: '0x19cd9b8e42d4ef62c3ea124110d5cfd283ceac43'

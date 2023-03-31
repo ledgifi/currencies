@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: SPY
+id_coinmarketcap: '7289'
 id_nomics: SPY
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7289.png
 name: Super Pay
 platform: ETH
 platform_contract: '0xb73e314501ec4dc2c7c7351514458b1c139df98a'

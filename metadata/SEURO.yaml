@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
-id: SEURO
+id: sEURO
+id_coinmarketcap: '22588'
 id_nomics: SEURO
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22588.png
 name: Standard Euro
 platform: ETH
 platform_contract: '0xb399511642fe1666c6a07f83483e6e4feaed9a00'

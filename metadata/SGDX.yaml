@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: SGDX
+id_coinmarketcap: '5500'
 id_nomics: SGDX
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5500.png
 name: eToro Singapore Dollar
 platform: ETH
 platform_contract: '0x0e3e965acffb719e2f5dd4309969e2debe6215dd'

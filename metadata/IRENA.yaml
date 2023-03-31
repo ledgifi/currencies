@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: IRENA
+id_coinmarketcap: '19004'
 id_nomics: IRENA
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19004.png
 name: IRENA Green Energy
 platform: BNB
 platform_contract: '0x9eeb6c5ff183e6001c65a12d70026b900ae76781'

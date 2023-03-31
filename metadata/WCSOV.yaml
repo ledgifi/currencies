@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: WCSOV
+id_coinmarketcap: '19684'
 id_nomics: WCSOV
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19684.png
 name: CrownSterling
 platform: ETH
 platform_contract: '0x68e9c0d9aa450254aed2cd102503d4dff6b3c37c'

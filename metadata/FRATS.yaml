@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: FRATS
+id_coinmarketcap: '21364'
 id_nomics: FRATS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21364.png
 name: FlappyRats
 platform: BNB
 platform_contract: '0x72bd2a465a87dfa23eabbf5d8d56707ea57bd40e'

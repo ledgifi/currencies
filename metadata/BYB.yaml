@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: BYB
+id_coinmarketcap: '20028'
 id_coinpaprika: byb-byb
 id_nomics: BYB
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20028.png
 name: BYB
 platform: BNB
 platform_contract: '0x336d3954125f27ed8c0479636ce248389612a7e7'

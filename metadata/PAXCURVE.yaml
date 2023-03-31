@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: PAXCURVE
+id_coinmarketcap: '6172'
 id_nomics: PAXCURVE
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6172.png
 name: LP-paxCurve
 platform: ETH
 platform_contract: '0xd905e2eaebe188fc92179b6350807d8bd91db0d8'

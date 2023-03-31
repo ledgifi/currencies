@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: MANC
+id_coinmarketcap: '19624'
 id_nomics: MANC
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19624.png
 name: Mancium
 platform: ETH
 platform_contract: '0xe58a9243e5708ec0ee01deedc47fd76d1b608797'

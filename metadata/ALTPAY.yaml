@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: ALTPAY
+id_coinmarketcap: '21321'
 id_nomics: ALTPAY
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21321.png
 name: ALTPAY FINANCE
 platform: BNB
 platform_contract: '0x773ad0415790082ea99baa7309376a8979a0709a'

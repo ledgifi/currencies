@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: ENBE
+id_coinmarketcap: '5139'
 id_nomics: ENBE
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5139.png
 name: Encubate
 platform: ETH
 platform_contract: '0x70071514015d9a52d979789c629d77566b838d8a'

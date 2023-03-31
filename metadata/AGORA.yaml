@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: AGORA
+id_coinmarketcap: '19257'
 id_nomics: AGORA
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19257.png
 name: Agora Defi
 platform: METIS
 platform_contract: '0x0ed0ca6872073e02cd3ae005baf04ba43be947fa'

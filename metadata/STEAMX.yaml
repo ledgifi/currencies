@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: STEAMX
+id_coinmarketcap: '12345'
 id_coinpaprika: steamx-steam-exchange
 id_nomics: STEAMX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STEAMX.jpg

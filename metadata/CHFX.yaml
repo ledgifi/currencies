@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: CHFX
+id_coinmarketcap: '5495'
 id_nomics: CHFX
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5495.png
 name: eToro Swiss Franc
 platform: ETH
 platform_contract: '0xe435502c85a4e7e79cfab4167af566c27a7a0784'

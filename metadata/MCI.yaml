@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: MCI
+id_coinmarketcap: '2000'
 id_coinpaprika: mci-musiconomi
 id_nomics: MCI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCI.png

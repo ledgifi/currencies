@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: SHIBURAI
+id_coinmarketcap: '16471'
 id_coinpaprika: shiburai-shiba-samurai
 id_nomics: SHIBURAI
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16471.png
 name: Shiba Samurai
 platform: ETH
 platform_contract: '0x25b6e8b2666772bc4dc2c8d84d0a2201c386bb67'

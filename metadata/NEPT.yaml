@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: NEPT
+id_coinmarketcap: '21319'
 id_nomics: NEPT
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21319.png
 name: Metanept
 platform: ETH
 platform_contract: '0x355a824bea1adc22733978a3748271e1bbb34130'

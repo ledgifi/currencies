@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: TRFX
+id_coinmarketcap: '21602'
 id_nomics: TRFX
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21602.png
 name: TretaFox
 platform: BNB
 platform_contract: '0x2e3e406ac259bd628d0fb54a427b524831efe9fb'

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: FIGHT
+id_coinmarketcap: '16035'
 id_nomics: FIGHT
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16035.png
 name: CryptoFight
 platform: BNB
 platform_contract: '0xaa151f00ddcff60752bbb9e8aff17a98f3704d65'

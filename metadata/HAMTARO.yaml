@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: HAMTARO
+id_coinmarketcap: '9575'
 id_nomics: HAMTARO
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9575.png
 name: Hamtaro
 platform: BNB
 platform_contract: '0x4d4cc29b9c4e413cfe5f898e16280f11db57e186'

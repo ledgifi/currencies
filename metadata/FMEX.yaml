@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: FMEX
+id_coinmarketcap: '4904'
 id_nomics: FMEX
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4904.png
 name: FMex Token
 platform: ETH
 platform_contract: '0x20c3d4e5c17578250fc4f350f2afee6c6ebea06a'

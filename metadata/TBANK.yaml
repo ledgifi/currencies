@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: TBANK
+id_coinmarketcap: '18908'
 id_nomics: TBANK
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18908.png
 name: Tokenbank
 platform: BNB
 platform_contract: '0x833b5cb9a2cffb1587bbefe53a451d0989fba714'

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: MTB
+id_coinmarketcap: '17621'
 id_nomics: MTB
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17621.png
 name: MaticBot
 platform: BNB
 platform_contract: '0xf64ffc8c0c26d5ca82fc20439b3f640973c6d28b'

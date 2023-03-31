@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: DTN
+id_coinmarketcap: '18004'
 id_coinpaprika: dtn-dogetown
 id_nomics: DTN
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18004.png
 name: DogeTown
 platform: BNB
 platform_contract: '0xb066c3c39b894a405c6fa33335e2a0c709d6ef74'

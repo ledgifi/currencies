@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: GCD
+id_coinmarketcap: '22806'
 id_nomics: GCD
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22806.png
 name: GLOBAL CURRENCY DEVELOPMENT
 platform: ETH
 platform_contract: '0x54325e3946c3f558162f8a7e79a5dc89e3fbb2f4'

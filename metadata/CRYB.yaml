@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: CRYB
+id_coinmarketcap: '18206'
 id_nomics: CRYB
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18206.png
 name: Cryb Token
 platform: ETH
 platform_contract: '0x5362799f2228a180b03a68fd41cd39137dd99c42'

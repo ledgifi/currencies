@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: OUSDC
+id_coinmarketcap: '21495'
 id_nomics: OUSDC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OUSDC.png
 logoKey: currencies/ousdc.png

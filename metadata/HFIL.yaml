@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: HFIL
+id_coinmarketcap: '8688'
 id_nomics: HFIL
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8688.png
 name: Huobi Fil
 platform: ETH
 platform_contract: '0x9afb950948c2370975fb91a441f36fdc02737cd4'

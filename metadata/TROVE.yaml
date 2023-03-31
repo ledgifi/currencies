@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: TROVE
+id_coinmarketcap: '19234'
 id_nomics: TROVE
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19234.png
 name: Trove Dao
 platform: ETH
 platform_contract: '0x44a8211f5fc517d9e384d5732179ed6be9982afc'

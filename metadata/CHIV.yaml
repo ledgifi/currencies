@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: CHIV
+id_coinmarketcap: '13270'
 id_nomics: CHIV
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13270.png
 name: Chivas Farming
 platform: BNB
 platform_contract: '0x9500e05ea02cc9cf3f904e83248b16e54e3e6e2e'

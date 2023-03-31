@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: JPG
+id_coinmarketcap: '19627'
 id_coinpaprika: jpg-jpeg-morgan
 id_nomics: JPG
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19627.png
 name: JPEG MORGAN
 platform: ETH
 platform_contract: '0x19e5bb63c902c0690d1ba9b946ee8920e8dec3c6'

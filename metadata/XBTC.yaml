@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
-id: XBTC
+id: xBTC
+id_coinmarketcap: '7168'
 id_nomics: XBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XBTC.jpg
 logoKey: currencies/xbtc.jpg

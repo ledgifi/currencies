@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: HOGE
+id_coinmarketcap: '8438'
 id_coinpaprika: hoge-hoge-finance
 id_nomics: HOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOGE.jpg

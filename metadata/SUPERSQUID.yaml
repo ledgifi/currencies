@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: SUPERSQUID
+id_coinmarketcap: '21369'
 id_nomics: SUPERSQUID
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21369.png
 name: Squid Super Game
 platform: BNB
 platform_contract: '0x881ee3441c148a05ab954de8870e337bbd730f81'

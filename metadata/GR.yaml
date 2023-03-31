@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: GR
+id_coinmarketcap: '8035'
 id_nomics: GR
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8035.png
 name: GROM
 platform: ETH
 platform_contract: '0xce593a29905951e8fc579bc092eca72577da575c'

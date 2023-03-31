@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: SINGME
+id_coinmarketcap: '20678'
 id_nomics: SINGME
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20678.png
 name: SingMe
 platform: BNB
 platform_contract: '0x1a5978af0c006ba46f1eb92000bf1040a97f647e'

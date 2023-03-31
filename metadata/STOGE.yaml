@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: STOGE
+id_coinmarketcap: '9381'
 id_nomics: STOGE
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9381.png
 name: Stoge Finance
 platform: ETH
 platform_contract: '0x1296a923cd4f39116e0297d921fe25fe228552c6'

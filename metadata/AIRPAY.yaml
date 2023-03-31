@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: AIRPAY
+id_coinmarketcap: '18781'
 id_nomics: AIRPAY
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18781.png
 name: AirPay
 platform: BNB
 platform_contract: '0xe332912b9279a7d01f78fc6df87865c7a8fa1efb'

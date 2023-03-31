@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: BNPL
+id_coinmarketcap: '13005'
 id_coinpaprika: bnpl-bnpl-pay
 id_nomics: BNPL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNPL.jpg

@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: EBTC
+id_coinmarketcap: '2014'
 id_coinpaprika: ebtc-ebitcoin
 id_nomics: EBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ebtc.svg

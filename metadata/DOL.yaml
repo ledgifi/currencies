@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: DOL
+id_coinmarketcap: '12005'
 id_nomics: DOL
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12005.png
 name: Dolphinal
 platform: BNB
 platform_contract: '0x715b4573d7922aca78ce471dbea97d2eb4261f41'

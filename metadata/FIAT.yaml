@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: FIAT
+id_coinmarketcap: '13253'
 id_nomics: FIAT
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13253.png
 name: Floki Inu Adventure Token
 platform: ETH
 platform_contract: '0x8b23b79ea039cf7242a91f2e3ef88df6f565d1ff'

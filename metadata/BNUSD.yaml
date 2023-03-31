@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
-id: BNUSD
+id: bnUSD
+id_coinmarketcap: '11261'
 id_nomics: BNUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BNUSD.png
 logoKey: currencies/bnusd.png

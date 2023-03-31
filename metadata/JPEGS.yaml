@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: JPEGS
+id_coinmarketcap: '17170'
 id_coinpaprika: jpegs-illiquid-dao
 id_nomics: JPEGS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17170.png
 name: Illiquid DAO
 platform: ETH
 platform_contract: '0xb76e92a55ee6f0b642d3c6f97e46b5853b11ef72'

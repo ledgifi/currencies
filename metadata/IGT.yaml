@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: IGT
+id_coinmarketcap: '20342'
 id_nomics: IGT
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20342.png
 name: Ignite
 platform: BNB
 platform_contract: '0x6814dc8f102adc36c4000cd6aa54ef90994da20c'

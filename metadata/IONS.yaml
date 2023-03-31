@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: IONS
+id_coinmarketcap: '20583'
 id_nomics: IONS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20583.png
 name: Lithium IONs
 platform: MATIC
 platform_contract: '0xd6d3b4254b4526c3095d8ab00b75f186c56dd72c'

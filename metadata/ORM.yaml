@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: ORM
+id_coinmarketcap: '4082'
 id_coinpaprika: orm-orium
 id_nomics: ORM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORM.jpg

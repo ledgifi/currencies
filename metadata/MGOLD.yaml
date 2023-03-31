@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: MGOLD
+id_coinmarketcap: '17352'
 id_nomics: MGOLD
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17352.png
 name: MininGold
 platform: BNB
 platform_contract: '0x277406bfe502982c0afc47eb3de215b88fe47e7b'

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: MERCURY
+id_coinmarketcap: '18649'
 id_nomics: MERCURY
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18649.png
 name: PlanetSwap Token
 platform: BNB
 platform_contract: '0xd07ddb2112bb7df8d9e598ae0e2c315b464d105d'

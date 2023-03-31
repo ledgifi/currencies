@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: SFEX
+id_coinmarketcap: '10434'
 id_coinpaprika: sfex-safex
 id_nomics: SFEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFEX.jpg

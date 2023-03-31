@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: DEGOV
+id_coinmarketcap: '7839'
 id_nomics: DEGOV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DEGOV.png
 logoKey: currencies/degov.png

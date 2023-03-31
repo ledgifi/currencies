@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: IBCH
+id_coinmarketcap: '5773'
 id_nomics: IBCH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IBCH.png
 logoKey: currencies/ibch.png

@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: LPOOL
+id_coinmarketcap: '8545'
 id_nomics: LPOOL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LPOOL.jpg
 logoKey: currencies/lpool.jpg

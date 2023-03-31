@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: MAUSDC
+id_coinmarketcap: '8918'
 id_coinpaprika: mausdc-matic-aave-interest-bearing-usdc
 id_nomics: MAUSDC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAUSDC.jpg

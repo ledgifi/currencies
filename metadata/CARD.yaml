@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: CARD
+id_coinmarketcap: '2891'
 id_coinpaprika: card-cardstack
 id_nomics: CARD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/card.jpg

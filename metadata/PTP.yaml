@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: PTP
+id_coinmarketcap: '16231'
 id_coinpaprika: ptp-platypus-finance
 id_nomics: PTP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PTP.jpg

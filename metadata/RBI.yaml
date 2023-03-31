@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: RBI
+id_coinmarketcap: '18464'
 id_nomics: RBI
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18464.png
 name: Durham Inu
 platform: ETH
 platform_contract: '0x42f3a4901b2b2c5e2d6bc8dadb8c1d8d5afd2618'

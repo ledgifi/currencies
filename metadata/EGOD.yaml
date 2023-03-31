@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: EGOD
+id_coinmarketcap: '11199'
 id_nomics: EGOD
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11199.png
 name: DogeReversed
 platform: BNB
 platform_contract: '0x8578480d31fd4a3255bc611094699fb9fd99c6dc'

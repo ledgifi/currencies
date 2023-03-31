@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: PLGR
+id_coinmarketcap: '11526'
 id_nomics: PLGR
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11526.png
 name: Pledge
 platform: BNB
 platform_contract: '0x6aa91cbfe045f9d154050226fcc830ddba886ced'

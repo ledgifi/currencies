@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: NBLS
+id_coinmarketcap: '20179'
 id_nomics: NBLS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20179.png
 name: Noblesscoin
 platform: ETH
 platform_contract: '0x94eb98db969124178189bb765beaa2fd36f1c5a4'

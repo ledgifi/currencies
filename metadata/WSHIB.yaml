@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: WSHIB
+id_coinmarketcap: '10518'
 id_nomics: WSHIB
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10518.png
 name: Wrapped SHIB
 platform: BNB
 platform_contract: '0x30b40a642c12720bf6a8c498add2d44cc1a769b9'

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: PLAYER
+id_coinmarketcap: '18901'
 id_nomics: PLAYER
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18901.png
 name: CryptoSteam PLAYER token
 platform: AVAX
 platform_contract: '0xbb648df4e3d69cf5203e3d161f5cd2cc9cfd4350'

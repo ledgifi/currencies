@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: TITANS
+id_coinmarketcap: '17542'
 id_coinpaprika: titans-titans
 id_nomics: TITANS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17542.png
 name: Titans
 platform: BNB
 platform_contract: '0x98a883c24a54f30e6bc5471e2020a3c2ffb99d5d'

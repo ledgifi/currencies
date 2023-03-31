@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: CUST
+id_coinmarketcap: '4240'
 id_coinpaprika: cust-custody-token
 id_nomics: CUST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CUST.jpg

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: SOE
+id_coinmarketcap: '16428'
 id_nomics: SOE
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16428.png
 name: SOE
 platform: BNB
 platform_contract: '0x0053208edd7c10c98b6624393a323fff0a555b9a'

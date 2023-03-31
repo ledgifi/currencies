@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: SPOLAR
+id_coinmarketcap: '18773'
 id_nomics: SPOLAR
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18773.png
 name: Polar Shares
 platform: AURORA3
 platform_contract: '0x9d6fc90b25976e40adad5a3edd08af9ed7a21729'

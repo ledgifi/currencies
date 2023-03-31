@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: CROCASH
+id_coinmarketcap: '18231'
 id_nomics: CROCASH
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18231.png
 name: Crocash
 platform: CRO
 platform_contract: '0x6e8bc577fb047a9cb847817ee3135a7d5d4eeed3'

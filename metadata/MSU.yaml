@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: MSU
+id_coinmarketcap: '14990'
 id_nomics: MSU
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14990.png
 name: MetaSoccer Universe
 platform: MATIC
 platform_contract: '0xe8377a076adabb3f9838afb77bee96eac101ffb1'

@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: DUSDC
+id_coinmarketcap: '6136'
 id_nomics: DUSDC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUSDC.jpg
 logoKey: currencies/dusdc.jpg

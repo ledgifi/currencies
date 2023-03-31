@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: AGEN
+id_coinmarketcap: '21030'
 id_nomics: AGEN
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21030.png
 name: Alpha Genesis
 platform: BNB
 platform_contract: '0x67678538f1dc3ab1da94ca8d048b5670b3961cef'

@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: FLUSD
+id_coinmarketcap: '10390'
 id_nomics: FLUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLUSD.png
 logoKey: currencies/flusd.png

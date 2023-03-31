@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: CERE
+id_coinmarketcap: '4710'
 id_coinpaprika: cere-cere-network
 id_nomics: CERE
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4710.png
 name: Cere.Network
 platform: ETH
 platform_contract: '0xb3a6af40e62e16f763fa2f4b2cf40b27f3d594f6'

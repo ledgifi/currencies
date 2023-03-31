@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: MOSS
+id_coinmarketcap: '20004'
 id_nomics: MOSS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20004.png
 name: Moss Governance Token
 platform: MATIC
 platform_contract: '0x03e3369af9390493cb7cc599cd5233d50e674da4'

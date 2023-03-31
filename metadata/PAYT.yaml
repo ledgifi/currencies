@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: PAYT
+id_coinmarketcap: '7425'
 id_coinpaprika: payt-payaccept
 id_nomics: PAYT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAYT.jpg

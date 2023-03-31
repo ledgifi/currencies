@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: DEXO
+id_coinmarketcap: '23010'
 id_nomics: DEXO
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23010.png
 name: DexFee Platfom Optimization
 platform: BNB
 platform_contract: '0xff48e9423a2ee28991bae417f6591159d46267d8'

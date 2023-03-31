@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: SAITOKI
+id_coinmarketcap: '18119'
 id_coinpaprika: saitoki-saitoki-inu
 id_nomics: SAITOKI
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18119.png
 name: Saitoki Inu
 platform: ETH
 platform_contract: '0xa3c56427683a19f7574b9fc219cfd27d5d6e87fa'

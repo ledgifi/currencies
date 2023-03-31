@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: EV
+id_coinmarketcap: '9805'
 id_coinpaprika: ev-mini-ev
 id_nomics: EV
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9805.png
 name: MINI EV
 platform: BNB
 platform_contract: '0xcacdeb1ca263c47433b9018fef6a8b4c0482b878'

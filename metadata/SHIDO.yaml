@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: SHIDO
+id_coinmarketcap: '19520'
 id_nomics: SHIDO
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19520.png
 name: ShinjaDoge
 platform: ETH
 platform_contract: '0xf0a3b1dd6b9f96138908a944bbe3a3a0fa6c0701'

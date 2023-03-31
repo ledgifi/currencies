@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: VADER
+id_coinmarketcap: '15959'
 id_nomics: VADER
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15959.png
 name: DogeVader
 platform: ETH
 platform_contract: '0x71e9a22538d8583e3262c68dadd0ccab8e42a8ea'

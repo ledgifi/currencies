@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: STRZ
+id_coinmarketcap: '18121'
 id_nomics: STRZ
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18121.png
 name: Starnodes
 platform: AVAX
 platform_contract: '0x1d67454f6b393542290a7bbeea32c66148909b34'

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: PSTN
+id_coinmarketcap: '19375'
 id_nomics: PSTN
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19375.png
 name: PISTON
 platform: BNB
 platform_contract: '0xbfacd29427ff376ff3bc22dffb29866277ca5fb4'

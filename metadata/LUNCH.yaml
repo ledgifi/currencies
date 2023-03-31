@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: LUNCH
+id_coinmarketcap: '20388'
 id_nomics: LUNCH
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20388.png
 name: LunchDao
 platform: ETH
 platform_contract: '0x71a28feaee902966dc8d355e7b8aa427d421e7e0'

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: DEOD
+id_coinmarketcap: '23780'
 id_nomics: DEOD
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23780.png
 name: Decentrawood
 platform: MATIC
 platform_contract: '0x779d180faa9b1478411347dbf0fdae2910cc1eac'

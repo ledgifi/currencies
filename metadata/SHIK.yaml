@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: SHIK
+id_coinmarketcap: '23063'
 id_coinpaprika: shik-shikoku-inu
 id_nomics: SHIK
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23063.png
 name: Shikoku Inu
 platform: ETH
 platform_contract: '0x4f2e8ff72f76ee377b6ca9d24f93ed299c37e48c'

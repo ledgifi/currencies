@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
-id: SBANC
+id: sBanc
+id_coinmarketcap: '17716'
 id_nomics: SBANC
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17716.png
 name: Bancc
 platform: BNB
 platform_contract: '0x1bd8ca161f0b311162365248b39b38f85e238345'

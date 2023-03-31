@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: USDEX
+id_coinmarketcap: '5491'
 id_nomics: USDEX
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5491.png
 name: eToro United States Dollar
 platform: ETH
 platform_contract: '0x4e3856c37b2fe7ff2fe34510cda82a1dffd63cd0'

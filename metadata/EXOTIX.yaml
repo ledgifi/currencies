@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: EXOTIX
+id_coinmarketcap: '16705'
 id_coinpaprika: exotix-exotix
 id_nomics: EXOTIX
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16705.png
 name: Exotix
 platform: ETH
 platform_contract: '0x84c0a20840fbde2b66f2edefa3fdd0f55eac7397'

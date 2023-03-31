@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
-id: WCRES
+id: wCRES
+id_coinmarketcap: '7818'
 id_nomics: WCRES
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7818.png
 name: Wrapped Cresco Equity Token
 platform: ETH
 platform_contract: '0xa0afaa285ce85974c3c881256cb7f225e3a1178a'

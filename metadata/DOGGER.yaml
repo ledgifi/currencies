@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: DOGGER
+id_coinmarketcap: '19320'
 id_nomics: DOGGER
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19320.png
 name: Dogger Token
 platform: ETH
 platform_contract: '0x56143e2736c1b7f8a7d8c74707777850b46ac9af'

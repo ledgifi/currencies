@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: CR7
+id_coinmarketcap: '22775'
 id_coinpaprika: cr7-cr7-token
 id_nomics: CR7
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22775.png
 name: CR7 Token
 platform: BNB
 platform_contract: '0x6c43751fef27c956f7e75d5c345a65df1465f7e0'

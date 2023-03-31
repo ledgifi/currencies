@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: XFREE
+id_coinmarketcap: '20890'
 id_nomics: XFREE
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20890.png
 name: XFree coin
 platform: BNB
 platform_contract: '0x1efb1c30e453eb4c61e5e30ba80d4fb599378489'

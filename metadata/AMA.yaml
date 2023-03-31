@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: AMA
+id_coinmarketcap: '5469'
 id_nomics: AMA
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5469.png
 name: Amaten
 platform: ETH
 platform_contract: '0xd7e1e4530d95717506633e58437f056a49c1fabb'

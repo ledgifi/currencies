@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: DEFX
+id_coinmarketcap: '10145'
 id_nomics: DEFX
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10145.png
 name: Defi Index Funds
 platform: ETH
 platform_contract: '0x378e79e4e536c1012b1b0852f4d70b35e4023458'

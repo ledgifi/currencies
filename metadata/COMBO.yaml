@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: COMBO
+id_coinmarketcap: '8259'
 id_nomics: COMBO
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8259.png
 name: COMBO
 platform: ETH
 platform_contract: '0xf10d9664828e80eea2f8bf139c3cc6041ae0cba0'

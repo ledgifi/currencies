@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: GEOD
+id_coinmarketcap: '20969'
 id_nomics: GEOD
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20969.png
 name: Geodnet Token
 platform: MATIC
 platform_contract: '0xac0f66379a6d7801d7726d5a943356a172549adb'

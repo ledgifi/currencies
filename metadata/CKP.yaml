@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: CKP
+id_coinmarketcap: '19717'
 id_nomics: CKP
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19717.png
 name: CakePad
 platform: BNB
 platform_contract: '0x81f7bbfc362994badcdcae1b38d426be4d82894a'

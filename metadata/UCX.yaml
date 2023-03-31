@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: UCX
+id_coinmarketcap: '4915'
 id_nomics: UCX
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4915.png
 name: UCX
 platform: ETH
 platform_contract: '0x3d3af44cf092a49280e316f09c8f20ecf97bc933'

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: SENATE
+id_coinmarketcap: '15240'
 id_nomics: SENATE
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15240.png
 name: Sidus Heroes
 platform: ETH
 platform_contract: '0x34be5b8c30ee4fde069dc878989686abe9884470'

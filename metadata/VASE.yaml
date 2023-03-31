@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: VASE
+id_coinmarketcap: '18674'
 id_coinpaprika: vase-vase
 id_nomics: VASE
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18674.png
 name: vase
 platform: BNB
 platform_contract: '0xc6702e14bd378853f786f5554177c9140a7be489'

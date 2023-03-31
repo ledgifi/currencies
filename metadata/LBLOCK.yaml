@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: LBLOCK
+id_coinmarketcap: '17698'
 id_coinpaprika: lblock-lucky-block
 id_nomics: LBLOCK
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17698.png
 name: LuckyBlock
 platform: BNB
 platform_contract: '0x785b323b5fc4840adc4b82eda250235bccdc3230'

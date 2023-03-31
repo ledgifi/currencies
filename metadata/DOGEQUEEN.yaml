@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: DOGEQUEEN
+id_coinmarketcap: '18000'
 id_coinpaprika: dogequeen-doge-queen
 id_nomics: DOGEQUEEN
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18000.png
 name: DogeQueen
 platform: BNB
 platform_contract: '0x3dc82f43eaa582d834a96666bb0e94bdedcba5ab'

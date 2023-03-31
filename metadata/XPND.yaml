@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: XPND
+id_coinmarketcap: '18352'
 id_nomics: XPND
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18352.png
 name: Xpendium
 platform: MATIC
 platform_contract: '0x03f61137bfb86be07394f0fd07a33984020f96d8'

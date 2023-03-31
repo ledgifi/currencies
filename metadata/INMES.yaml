@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: INMES
+id_coinmarketcap: '20509'
 id_nomics: INMES
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20509.png
 name: INME SWAP
 platform: BNB
 platform_contract: '0x64ef3ae48977075d917e448b61c7b030b9c387fc'

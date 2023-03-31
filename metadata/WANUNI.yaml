@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: WANUNI
+id_coinmarketcap: '8654'
 id_nomics: WANUNI
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8654.png
 name: wanUNI
 platform: WAN
 platform_contract: '0x73eaa7431b11b1e7a7d5310de470de09883529df'

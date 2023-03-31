@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: MSTO
+id_coinmarketcap: '18433'
 id_coinpaprika: msto-misato
 id_nomics: MSTO
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18433.png
 name: Misato
 platform: ETH
 platform_contract: '0xa12a994b1573782f5b3aa20f84f61c571496ba0e'

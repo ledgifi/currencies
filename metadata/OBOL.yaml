@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: OBOL
+id_coinmarketcap: '21167'
 id_nomics: OBOL
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21167.png
 name: Obol
 platform: FTM
 platform_contract: '0x1539c63037d95f84a5981f96e43850d1451b6216'

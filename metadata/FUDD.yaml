@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: FUDD
+id_coinmarketcap: '2227'
 id_nomics: FUDD
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2227.png
 name: ElmerFudd
 platform: ETH
 platform_contract: '0x61b6ec4d233842bef2ce93b9d41c9b77298d8dc2'

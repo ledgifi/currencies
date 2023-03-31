@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: INU
+id_coinmarketcap: '10900'
 id_nomics: INU
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10900.png
 name: Elon Inu
 platform: ETH
 platform_contract: '0x1c6c60ff458fa07428f7766b92a4c0dbf7f41f19'

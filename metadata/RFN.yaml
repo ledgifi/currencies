@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: RFN
+id_coinmarketcap: '23100'
 id_nomics: RFN
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23100.png
 name: Red Falcon
 platform: BNB
 platform_contract: '0x3498cfa7d24f7a7d9702cfc33e5fe14226ffcc99'

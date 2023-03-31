@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: TRT
+id_coinmarketcap: '21216'
 id_nomics: TRT
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21216.png
 name: Taurus Chain
 platform: ETH
 platform_contract: '0x32054526df40fbb08b733abe256a8d21de58432d'

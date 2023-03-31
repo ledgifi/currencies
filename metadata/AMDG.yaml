@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: AMDG
+id_coinmarketcap: '20645'
 id_nomics: AMDG
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20645.png
 name: AMDG Token
 platform: ETH
 platform_contract: '0xff743a38efcf6f46fc0768b46a5bdc264f7e92b3'
