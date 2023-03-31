@@ -1,7 +1,10 @@
 crypto: true
 fiat: false
 id: MBX
+id_coinmarketcap: '7437'
 id_nomics: MBX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MBX.png
 logoKey: currencies/mbx.png
 name: MobieCoin
+platform: ETH
+platform_contract: '0x71ba91dc68c6a206db0a6a92b4b1de3f9271432d'

@@ -3,7 +3,10 @@ decimals: 8
 fiat: false
 id: HARD
 id_binance: '529'
+id_coinmarketcap: '7576'
 id_nomics: HARD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HARD.png
 logoKey: currencies/hard.png
 name: Kava Lend
+platform: ETH
+platform_contract: '0x1c700f95df53fc31e83d89ac89e5dd778d4cd310'

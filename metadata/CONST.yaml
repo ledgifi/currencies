@@ -1,9 +1,11 @@
 crypto: true
 fiat: false
 id: CONST
+id_coinmarketcap: '3739'
 id_coinpaprika: const-constant
 id_nomics: CONST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CONST.png
 logoKey: currencies/const.png
 name: Constant
 platform: ETH
+platform_contract: '0x4983f767b1bc44328e434729ddabea0a064ca1ac'

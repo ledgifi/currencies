@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: TADP
+id_coinmarketcap: '10726'
 id_nomics: TADP
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10726.png
 name: Tadpole
 platform: BNB
 platform_contract: '0xa7acafedcdf33ad7541698701e9a76b48ec62728'

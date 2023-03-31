@@ -1,9 +1,11 @@
 crypto: true
 fiat: false
 id: VOID
+id_coinmarketcap: '13809'
 id_coinpaprika: void-void
 id_nomics: VOID
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VOID.jpg
 logoKey: currencies/void.jpg
 name: VOID
 platform: EOS
+platform_contract: djpt6xxmozx1dyywuhgs4mwqwwx48fwf6zjgqv2f9qwc

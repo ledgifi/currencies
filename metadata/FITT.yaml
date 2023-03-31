@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: FITT
+id_coinmarketcap: '19922'
 id_nomics: FITT
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19922.png
 name: Fitmint
 platform: BNB
 platform_contract: '0x323f973e95805a5784a4d49c1878c0b0b4f1c677'

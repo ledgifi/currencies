@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: MNET
+id_coinmarketcap: '12462'
 id_coinpaprika: mnet-mine-network
 id_nomics: MNET
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MNET.jpg
 logoKey: currencies/mnet.jpg
 name: MINE Network
+platform: ETH
+platform_contract: '0x829c97092c0cc92efe7397dd3ddb831cc5835bae'

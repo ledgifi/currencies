@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: PAW
+id_coinmarketcap: '17192'
 id_nomics: PAW
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17192.png
 name: Paw
 platform: MATIC
 platform_contract: '0x6971aca589bbd367516d70c3d210e4906b090c96'

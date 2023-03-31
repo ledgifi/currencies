@@ -3,7 +3,10 @@ decimals: 8
 fiat: false
 id: BKRW
 id_binance: '320'
+id_coinmarketcap: '5483'
 id_nomics: BKRW
 logo: https://bin.bnbstatic.com/images/20200303/2847f5e7-bbc5-4902-9815-9ad44bd87c87.png
 logoKey: currencies/bkrw.png
 name: Binance KRW
+platform: BNB
+platform_contract: bkrw-ab7

@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: DMTR
+id_coinmarketcap: '12041'
 id_coinpaprika: dmtr-dimitra
 id_nomics: DMTR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DMTR.jpg
 logoKey: currencies/dmtr.jpg
 name: Dimitra
+platform: ETH
+platform_contract: '0x51cb253744189f11241becb29bedd3f1b5384fdb'

@@ -1,7 +1,10 @@
 crypto: true
 fiat: false
 id: NEWB
+id_coinmarketcap: '1275'
 id_nomics: NEWB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/newb.jpg
 logoKey: currencies/newb.jpg
 name: Newbium
+platform: ETH
+platform_contract: '0x814964b1bceaf24e26296d031eadf134a2ca4105'

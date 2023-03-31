@@ -1,9 +1,11 @@
 crypto: true
 fiat: false
 id: TPT
+id_coinmarketcap: '5947'
 id_coinpaprika: tpt-token-pocket
 id_nomics: TPT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TPT.jpg
 logoKey: currencies/tpt.jpg
 name: TokenPocket
 platform: EOS
+platform_contract: '0xeca41281c24451168a37211f0bc2b8645af45092'

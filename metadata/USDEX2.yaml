@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: USDEX2
+id_coinmarketcap: '20281'
 id_nomics: USDEX2
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20281.png
 name: USDEX
 platform: ETH
 platform_contract: '0x4726e9de74573255ea41e0d00b49b833c77a671e'

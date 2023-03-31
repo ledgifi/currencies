@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: KYCC
+id_coinmarketcap: '19104'
 id_nomics: KYCC
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19104.png
 name: KYC COIN
 platform: BNB
 platform_contract: '0xa334ac16e07b77e5daf3cad942d06121cb8e50d6'

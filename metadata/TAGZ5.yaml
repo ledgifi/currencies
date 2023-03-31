@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: TAGZ5
+id_coinmarketcap: '4981'
 id_coinpaprika: tagz5-tagz5
 id_nomics: TAGZ5
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TAGZ5.png
 logoKey: currencies/tagz5.png
 name: TAGZ5
+platform: ETH
+platform_contract: '0x4d0425e47ee2d16b94c036715dfcb52a0cebc4dc'

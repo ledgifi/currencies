@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: BITCI
+id_coinmarketcap: '8357'
 id_coinpaprika: bitci-bitcicoin
 id_nomics: BITCI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITCI.jpg

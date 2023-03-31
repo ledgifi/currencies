@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: SHARKY
+id_coinmarketcap: '23616'
 id_nomics: SHARKY
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23616.png
 name: Sharky Swap
 platform: ARBETH
 platform_contract: '0x1505809fac241e235f3c009c55b93aea3b3b398c'

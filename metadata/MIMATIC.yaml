@@ -3,6 +3,9 @@ decimals: 8
 fiat: false
 id: MIMATIC
 id_binance: '950'
+id_coinmarketcap: '10238'
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220518/39e8f7a6-dbef-4902-96fb-20156696c273.png
 logoKey: currencies/mimatic.png
 name: MAI
+platform: MATIC
+platform_contract: '0xa3fa99a148fa48d14ed51d610c367c61876997f1'

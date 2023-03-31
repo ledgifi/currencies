@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: FRC
+id_coinmarketcap: '10'
 id_coinpaprika: frc-freicoin
 id_nomics: FRC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FRC.png

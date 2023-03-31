@@ -1,9 +1,11 @@
 crypto: true
 fiat: false
 id: LSTR
+id_coinmarketcap: '3019'
 id_coinpaprika: lstr-luna-stars
 id_nomics: LSTR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LSTR.jpg
 logoKey: currencies/lstr.jpg
 name: Luna Stars
 platform: QTUM
+platform_contract: '0xc80dae9129389c4ef6e7dbfaee40f28de49de3a6'

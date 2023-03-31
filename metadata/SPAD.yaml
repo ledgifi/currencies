@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: SPAD
+id_coinmarketcap: '8158'
 id_nomics: SPAD
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8158.png
 name: Space Dollar
 platform: BNB
 platform_contract: '0x4c56d643bb74e349bed7873f4a4ed743b254d3f6'

@@ -1,7 +1,10 @@
 crypto: true
 fiat: false
 id: BRIK
+id_coinmarketcap: '8672'
 id_nomics: BRIK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRIK.jpg
 logoKey: currencies/brik.jpg
 name: BRIKCOIN
+platform: ETH
+platform_contract: '0xd10c82d129d7f7ec317648914590162be3287d3b'

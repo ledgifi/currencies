@@ -1,7 +1,10 @@
 crypto: true
 fiat: false
 id: PLANETVERSE
+id_coinmarketcap: '14617'
 id_nomics: PLANETVERSE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLANETVERSE.jpg
 logoKey: currencies/planetverse.jpg
 name: PlanetVerse
+platform: BNB
+platform_contract: '0x396cb285a01d46862822f861ced586034a128bb0'

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: EUROS
+id_coinmarketcap: '21034'
 id_nomics: EUROS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21034.png
 name: SpiceEURO
 platform: AVAX
 platform_contract: '0x1556e2d8ff76dfbc5946ae18260e78a6ed745fed'

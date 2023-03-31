@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: CBFINU
+id_coinmarketcap: '22723'
 id_nomics: CBFINU
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22723.png
 name: CBF INU
 platform: MATIC
 platform_contract: '0x7d57bccda7275c3a8dc1848d89252a4136a42a5e'

@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: RGS
+id_coinmarketcap: '3114'
 id_coinpaprika: rgs-rusgas
 id_nomics: RGS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RGS.jpg
 logoKey: currencies/rgs.jpg
 name: RusGas
+platform: ETH
+platform_contract: '0x4c383bdcae52a6e1cb810c76c70d6f31a249ec9b'

@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: GEO
+id_coinmarketcap: '823'
 id_coinpaprika: geo-geocoin
 id_nomics: GEO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/geo.png

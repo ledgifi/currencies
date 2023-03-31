@@ -1,7 +1,10 @@
 crypto: true
 fiat: false
 id: AKTIO
+id_coinmarketcap: '13141'
 id_nomics: AKTIO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AKTIO.jpg
 logoKey: currencies/aktio.jpg
 name: Aktio
+platform: ETH
+platform_contract: '0xe65d37f18a770643cb14c8611aca7a67244ba480'

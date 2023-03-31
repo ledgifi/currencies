@@ -1,9 +1,11 @@
 crypto: true
 fiat: false
 id: WWB
+id_coinmarketcap: '2892'
 id_coinpaprika: wwb-wowbit
 id_nomics: WWB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/wwb.jpg
 logoKey: currencies/wwb.jpg
 name: Wowbit
 platform: NEO
+platform_contract: 40bb36a54bf28872b6ffdfa7fbc6480900e58448

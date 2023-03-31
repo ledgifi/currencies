@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: SHIBC
+id_coinmarketcap: '21779'
 id_nomics: SHIBC
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21779.png
 name: Shiba Classic
 platform: BNB
 platform_contract: '0xef806bd087165f7c1c2443f03e39dbd8fa0f817b'

@@ -4,9 +4,11 @@ decimals: 8
 fiat: false
 id: MEETONE
 id_binance: '186'
+id_coinmarketcap: '3136'
 id_coinpaprika: meetone-meetone
 id_nomics: MEETONE
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/meetone.svg
 logoKey: currencies/meetone.svg
 name: MEET.ONE
 platform: EOS
+platform_contract: meetone-031

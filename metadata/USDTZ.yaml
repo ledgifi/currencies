@@ -1,7 +1,10 @@
 crypto: true
 fiat: false
 id: USDTZ
+id_coinmarketcap: '21572'
 id_nomics: USDTZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDTZ.jpg
 logoKey: currencies/usdtz.jpg
 name: USDtez
+platform: XTZ
+platform_contract: kt1ln4lpsqtms7sd2cjw4bbdgrkmv2t68fy9

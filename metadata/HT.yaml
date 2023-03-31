@@ -1,9 +1,11 @@
 crypto: true
 fiat: false
 id: HT
+id_coinmarketcap: '2502'
 id_coinpaprika: ht-huobi-token
 id_nomics: HT
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/ht.svg
 logoKey: currencies/ht.svg
 name: Huobi Token
 platform: HT
+platform_contract: '0x6f259637dcd74c767781e37bc6133cd6a68aa161'

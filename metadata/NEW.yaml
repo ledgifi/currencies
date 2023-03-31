@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: NEW
+id_coinmarketcap: '3871'
 id_coinpaprika: new-newton
 id_nomics: NEW
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/new.jpg
 logoKey: currencies/new.jpg
 name: Newton
+platform: BNB
+platform_contract: new-09e

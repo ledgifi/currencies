@@ -1,7 +1,10 @@
 crypto: true
 fiat: false
 id: DON2
+id_coinmarketcap: '8814'
 id_nomics: DON2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DON2.png
 logoKey: currencies/don2.png
 name: Donnie Finance
+platform: IOST
+platform_contract: contract5ndthiqrrpwnt5wbfhq9bthhuet9lvfnugggevfmvrb8

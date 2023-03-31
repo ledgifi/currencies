@@ -1,6 +1,9 @@
 crypto: true
 fiat: false
 id: CARMIN
+id_coinmarketcap: '23509'
 id_nomics: CARMIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CARMIN.jpg
 name: Carmin
+platform: BNB
+platform_contract: '0x45db120ec518c93de66d7a7a01b6281b13b2dc7d'

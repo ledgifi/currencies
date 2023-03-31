@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: CRON
+id_coinmarketcap: '4309'
 id_nomics: CRON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRON.png
 logoKey: currencies/cron.png

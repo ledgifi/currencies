@@ -1,7 +1,10 @@
 crypto: true
 fiat: false
 id: OCC1
+id_coinmarketcap: '2971'
 id_nomics: OCC1
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/occ1.jpg
 logoKey: currencies/occ1.jpg
 name: Original Crypto Coin
+platform: ETH
+platform_contract: '0x0235fe624e044a05eed7a43e16e3083bc8a4287a'

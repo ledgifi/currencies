@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: CMAI
+id_coinmarketcap: '23983'
 id_nomics: CMAI
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23983.png
 name: CoinMatch Ai
 platform: ARBETH
 platform_contract: '0xac837c4bd8e009ebf2951b928152d5e727c3c484'

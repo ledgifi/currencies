@@ -1,7 +1,10 @@
 crypto: true
 fiat: false
 id: IXO
+id_coinmarketcap: '14973'
 id_nomics: IXO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IXO.jpg
 logoKey: currencies/ixo.jpg
 name: IXO
+platform: ATOM
+platform_contract: ibc/f3ff7a84a73b62921538642f9797c423d2b4c4acb3c7fcffce7f12aa69909c4b

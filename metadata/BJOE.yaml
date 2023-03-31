@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: BJOE
+id_coinmarketcap: '14804'
 id_coinpaprika: bjoe-babytraderjoe
 id_nomics: BJOE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BJOE.jpg
 logoKey: currencies/bjoe.jpg
 name: BabyTraderJoe
+platform: AVAX
+platform_contract: '0xe703214808c3603a9da2609d52bdcf920e0a0edf'

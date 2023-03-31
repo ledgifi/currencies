@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: HGO
+id_coinmarketcap: '4080'
 id_coinpaprika: hgo-hirego
 id_nomics: HGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HGO.jpg
 logoKey: currencies/hgo.jpg
 name: HireGo
+platform: ETH
+platform_contract: '0xaaa89105dab822dbc9a6de64a23d045d99d5fd36'

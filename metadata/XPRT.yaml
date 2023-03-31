@@ -1,7 +1,10 @@
 crypto: true
 fiat: false
 id: XPRT
+id_coinmarketcap: '7281'
 id_nomics: XPRT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XPRT.jpg
 logoKey: currencies/xprt.jpg
 name: Persistence
+platform: ATOM
+platform_contract: ibc/a0cc0cf735bfb30e730c70019d4218a1244ff383503ff7579c9201ab93ca9293

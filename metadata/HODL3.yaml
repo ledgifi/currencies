@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: HODL3
+id_coinmarketcap: '11044'
 id_nomics: HODL3
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11044.png
 name: HODL Token
 platform: BNB
 platform_contract: '0x32988c70f421f0b88a887b0af2002051e242c18d'

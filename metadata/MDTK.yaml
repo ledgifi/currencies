@@ -1,9 +1,11 @@
 crypto: true
 fiat: false
 id: MDTK
+id_coinmarketcap: '4786'
 id_coinpaprika: mdtk-mdtoken
 id_nomics: MDTK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MDTK.png
 logoKey: currencies/mdtk.png
 name: MDtoken
 platform: WAVES
+platform_contract: bzv9wieerzbae53syusbfos9xptvmiotmr4v64jbqbvp

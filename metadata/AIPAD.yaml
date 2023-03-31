@@ -1,6 +1,9 @@
 crypto: true
 fiat: false
 id: AIPAD
+id_coinmarketcap: '23300'
 id_nomics: AIPAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AIPAD.jpeg
 name: AIPad
+platform: ETH
+platform_contract: '0xe55d97a97ae6a17706ee281486e98a84095d8aaf'

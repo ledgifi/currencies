@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
-id: ICADE
+id: iCADE
+id_coinmarketcap: '19022'
 id_nomics: ICADE
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19022.png
 name: CrypCade
 platform: BNB
 platform_contract: '0xe0d9420a3f1b118726a46e8283dd5f357a98ce01'

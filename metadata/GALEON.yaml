@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: GALEON
+id_coinmarketcap: '18662'
 id_nomics: GALEON
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18662.png
 name: Galeon
 platform: BNB
 platform_contract: '0x1d0ac23f03870f768ca005c84cbb6fb82aa884fd'

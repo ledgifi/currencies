@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: IVC
+id_coinmarketcap: '4343'
 id_coinpaprika: ivc-invoice-coin
 id_nomics: IVC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IVC.jpg

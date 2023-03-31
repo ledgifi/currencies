@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: SHIBURN
+id_coinmarketcap: '19014'
 id_coinpaprika: shiburn-shiba-burn
 id_nomics: SHIBURN
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19014.png
 name: SHIBA BURN
 platform: BNB
 platform_contract: '0x014eecb1ab76f8841095fcc27f7c4f507582176a'

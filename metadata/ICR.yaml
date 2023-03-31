@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: ICR
+id_coinmarketcap: '3113'
 id_coinpaprika: icr-intercrone
 id_nomics: ICR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICR.png
 logoKey: currencies/icr.png
 name: InterCrone
+platform: BNB
+platform_contract: '0x4f60ad2c684296458b12053c0ef402e162971e00'

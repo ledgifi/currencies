@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: MIDAS
+id_coinmarketcap: '4505'
 id_coinpaprika: midas-midas
 id_nomics: MIDAS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIDAS.png
 logoKey: currencies/midas.png
 name: Midas
+platform: ETH
+platform_contract: '0x97e6e31afb2d93d437301e006d9da714616766a5'

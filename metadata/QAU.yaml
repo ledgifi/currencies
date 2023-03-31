@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: QAU
+id_coinmarketcap: '1709'
 id_coinpaprika: qau-quantum
 id_nomics: QAU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/qau.png
 logoKey: currencies/qau.png
 name: Quantum
+platform: ETH
+platform_contract: '0x671abbe5ce652491985342e85428eb1b07bc6c64'

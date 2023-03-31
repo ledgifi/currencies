@@ -1,9 +1,11 @@
 crypto: true
 fiat: false
 id: OCE
+id_coinmarketcap: '3880'
 id_coinpaprika: oce-oceanex-token
 id_nomics: OCE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OCE.jpg
 logoKey: currencies/oce.jpg
 name: OceanEX Token
 platform: VET
+platform_contract: '0x0ce6661b4ba86a0ea7ca2bd86a0de87b0b860f14'

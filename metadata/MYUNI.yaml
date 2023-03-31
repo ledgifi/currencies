@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: MYUNI
+id_coinmarketcap: '15004'
 id_coinpaprika: myuni-my-universe
 id_nomics: MYUNI
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15004.png
 name: MY UNIVERSE
 platform: ETH
 platform_contract: '0x591be54440b235465f73b7648f106b3e1482c652'

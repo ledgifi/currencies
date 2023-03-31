@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: OLXA
+id_coinmarketcap: '3823'
 id_coinpaprika: olxa-olxa
 id_nomics: OLXA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OLXA.png
 logoKey: currencies/olxa.png
 name: OLXA
+platform: ETH
+platform_contract: '0x5925f67d2767d937f47141dac24166b469558222'

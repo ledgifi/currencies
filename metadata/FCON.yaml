@@ -1,7 +1,10 @@
 crypto: true
 fiat: false
 id: FCON
+id_coinmarketcap: '14904'
 id_nomics: FCON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FCON.jpg
 logoKey: currencies/fcon.jpg
 name: SpaceFalcon
+platform: SOL
+platform_contract: hovgjrbgtfna4dvg6exkmxxuexb3tufezkcut8awowxj

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: DCRN
+id_coinmarketcap: '21040'
 id_nomics: DCRN
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21040.png
 name: Decred-Next
 platform: BNB
 platform_contract: '0x904711d7c02920561f4092f05dbb8e9fb05e4a67'

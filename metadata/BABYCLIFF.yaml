@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: BABYCLIFF
+id_coinmarketcap: '16830'
 id_coinpaprika: babycliff-baby-cliffordinu
 id_nomics: BABYCLIFF
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16830.png
 name: Baby CliffordInu
 platform: ETH
 platform_contract: '0x4e212bcb2ddd0150a8516539baf3b8a1ac0098af'

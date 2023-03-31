@@ -1,9 +1,11 @@
 crypto: true
 fiat: false
 id: ASTA
+id_coinmarketcap: '6375'
 id_coinpaprika: asta-asta
 id_nomics: ASTA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASTA.jpg
 logoKey: currencies/asta.jpg
 name: ASTA
 platform: EOS
+platform_contract: '0xf2ddae89449b7d26309a5d54614b1fc99c608af5'

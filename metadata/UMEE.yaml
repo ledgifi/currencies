@@ -1,7 +1,10 @@
 crypto: true
 fiat: false
 id: UMEE
+id_coinmarketcap: '16389'
 id_nomics: UMEE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UMEE.jpg
 logoKey: currencies/umee.jpg
 name: Umee
+platform: ATOM
+platform_contract: ibc/67795e528df67c5606fc20f824ea39a6ef55ba133f4dc79c90a8c47a0901e17c

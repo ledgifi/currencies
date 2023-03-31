@@ -4,9 +4,11 @@ decimals: 8
 fiat: false
 id: VTHO
 id_binance: '197'
+id_coinmarketcap: '3012'
 id_coinpaprika: vtho-vethor-token
 id_nomics: VTHO
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/vtho.svg
 logoKey: currencies/vtho.svg
 name: VeThor Token
 platform: VET
+platform_contract: '0x0000000000000000000000000000456e65726779'

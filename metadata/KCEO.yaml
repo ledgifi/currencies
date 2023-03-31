@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: KCEO
+id_coinmarketcap: '24016'
 id_nomics: KCEO
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24016.png
 name: KabosuCEO
 platform: ARBETH
 platform_contract: '0xe348b2b284579caf48010060519d05b3493882d2'

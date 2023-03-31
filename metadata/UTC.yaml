@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: UTC
+id_coinmarketcap: '121'
 id_nomics: UTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UTC.png
 logoKey: currencies/utc.png

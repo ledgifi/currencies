@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: RPR
+id_coinmarketcap: '17699'
 id_coinpaprika: rpr-the-reaper
 id_nomics: RPR
 logo: https://static.coinpaprika.com/coin/rpr-the-reaper/logo.png
 logoKey: currencies/rpr.png
 name: The Reaper
+platform: XRP
+platform_contract: r3qwgpz2ry3bhcrj8je6rxm8esrfhukp4r

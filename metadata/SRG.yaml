@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: SRG
+id_coinmarketcap: '255'
 id_nomics: SRG
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/255.png
 name: Surge Coin
 platform: ETH
 platform_contract: '0xad45c6f8e7b8d0d9120900edfdc44cc9abe94ee7'

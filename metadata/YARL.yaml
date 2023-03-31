@@ -1,7 +1,10 @@
 crypto: true
 fiat: false
 id: YARL
+id_coinmarketcap: '12584'
 id_nomics: YARL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YARL.jpg
 logoKey: currencies/yarl.jpg
 name: Yarloo
+platform: BNB
+platform_contract: '0x843cbc1732ae7d7ba0533c6380989dacec315ffe'

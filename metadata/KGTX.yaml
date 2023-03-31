@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: KGTX
+id_coinmarketcap: '23999'
 id_nomics: KGTX
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23999.png
 name: KnowieGTX
 platform: ARBETH
 platform_contract: '0xc66debed73cb99c0e386f7512b07442469ccd5a7'

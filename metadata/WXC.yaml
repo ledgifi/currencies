@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: WXC
+id_coinmarketcap: '3363'
 id_coinpaprika: wxc-wxcoins
 id_nomics: WXC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WXC.png
 logoKey: currencies/wxc.png
 name: WXCOINS
+platform: ETH
+platform_contract: '0x0ee11500e7cfe6124e3716cd7755a0f0f2116244'

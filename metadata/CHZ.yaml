@@ -4,9 +4,11 @@ decimals: 8
 fiat: false
 id: CHZ
 id_binance: '229'
+id_coinmarketcap: '4066'
 id_coinpaprika: chz-chiliz
 id_nomics: CHZ
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/chz.svg
 logoKey: currencies/chz.svg
 name: Chiliz
 platform: CHZ
+platform_contract: '0x3506424f91fd33084466f402d5d97f05f8e3b4af'

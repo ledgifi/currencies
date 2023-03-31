@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: TIMESERIES
+id_coinmarketcap: '24029'
 id_nomics: TIMESERIES
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24029.png
 name: Timeseries AI
 platform: ARBETH
 platform_contract: '0x8970d14fd1d5e75fd209c34a485d7bf9951be875'

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: ARCS
+id_coinmarketcap: '24153'
 id_nomics: ARCS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24153.png
 name: Arbitrum Charts
 platform: ARBETH
 platform_contract: '0xcfb66a1962bc3219467029f739551edf40372e41'

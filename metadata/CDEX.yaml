@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: CDEX
+id_coinmarketcap: '4801'
 id_coinpaprika: cdex-codex
 id_nomics: CDEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CDEX.jpg
 logoKey: currencies/cdex.jpg
 name: Codex
+platform: HTML
+platform_contract: 911106d88ae972bd06d68dc627c2997a6fe8205f

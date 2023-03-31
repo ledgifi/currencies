@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: SAKAI
+id_coinmarketcap: '23577'
 id_nomics: SAKAI
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23577.png
 name: Sakai Vault
 platform: ARBETH
 platform_contract: '0x90fd658d92fee46c9c5adf5237dbacc8989a3498'

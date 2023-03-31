@@ -1,7 +1,10 @@
 crypto: true
 fiat: false
 id: DAL
+id_coinmarketcap: '14516'
 id_nomics: DAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAL.jpg
 logoKey: currencies/dal.jpg
 name: DAOLaunch
+platform: BNB
+platform_contract: '0x53e4b7aa6caccb9576548be3259e62de4ddd4417'

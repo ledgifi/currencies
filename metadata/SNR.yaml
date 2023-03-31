@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: SNR
+id_coinmarketcap: '3517'
 id_coinpaprika: snr-sonder
 id_nomics: SNR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/snr.jpg
 logoKey: currencies/snr.jpg
 name: Sonder
+platform: ETH
+platform_contract: '0x47d1a59cbdd19aee060c859c0009277e245328ae'

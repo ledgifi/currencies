@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: ASTROAI
+id_coinmarketcap: '23950'
 id_nomics: ASTROAI
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23950.png
 name: AstroAI
 platform: ARBETH
 platform_contract: '0x728725ebf491a3f4d70a5b0aafe1c27b0f53106c'

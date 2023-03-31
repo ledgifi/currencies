@@ -3,6 +3,9 @@ decimals: 8
 fiat: false
 id: LEVER
 id_binance: '1003'
+id_coinmarketcap: '20873'
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220713/692f05c2-eaf0-48d4-b187-58d65545e330.png
 logoKey: currencies/lever.png
 name: LeverFi
+platform: ETH
+platform_contract: '0x4b5f49487ea7b3609b1ad05459be420548789f1f'

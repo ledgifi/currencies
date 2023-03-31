@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: PHTG
+id_coinmarketcap: '14725'
 id_nomics: PHTG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PHTG.png
 logoKey: currencies/phtg.png
 name: Phoneum Green
 platform: TRX
+platform_contract: '1004130'

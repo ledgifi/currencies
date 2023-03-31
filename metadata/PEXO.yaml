@@ -1,7 +1,10 @@
 crypto: true
 fiat: false
 id: PEXO
+id_coinmarketcap: '16417'
 id_nomics: PEXO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEXO.jpg
 logoKey: currencies/pexo.jpg
 name: Plant Exodus
+platform: BNB
+platform_contract: '0x76b5ea2a75e96f629d739537e152062b4b89eee9'

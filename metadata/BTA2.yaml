@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: BTA2
+id_coinmarketcap: '19330'
 id_nomics: BTA2
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19330.png
 name: BitcoinAsset
 platform: BNB
 platform_contract: '0xad9787017e82f6368bbe4893b475caada2258564'

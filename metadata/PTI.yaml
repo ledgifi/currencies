@@ -1,9 +1,11 @@
 crypto: true
 fiat: false
 id: PTI
+id_coinmarketcap: '3859'
 id_coinpaprika: pti-paytomat
 id_nomics: PTI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PTI.png
 logoKey: currencies/pti.png
 name: Paytomat
 platform: EOS
+platform_contract: ptitokenhome

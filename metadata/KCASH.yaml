@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: KCASH
+id_coinmarketcap: '2379'
 id_coinpaprika: kcash-kcash
 id_nomics: KCASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/kcash.jpg
 logoKey: currencies/kcash.jpg
 name: Kcash
+platform: ETH
+platform_contract: '0x32d74896f05204d1b6ae7b0a3cebd7fc0cd8f9c7'

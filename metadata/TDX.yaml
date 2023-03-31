@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: TDX
+id_coinmarketcap: '2542'
 id_coinpaprika: tdx-tidex-token
 id_nomics: TDX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TDX.png
 logoKey: currencies/tdx.png
 name: Tidex Token
+platform: ETH
+platform_contract: '0x317eb4ad9cfac6232f0046831322e895507bcbeb'

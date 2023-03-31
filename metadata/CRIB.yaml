@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: CRIB
+id_coinmarketcap: '14842'
 id_nomics: CRIB
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14842.png
 name: BabyCrib
 platform: BNB
 platform_contract: '0xceff4b7001db64e12131ce70fa96f42c4ad52058'

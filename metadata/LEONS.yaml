@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: LEONS
+id_coinmarketcap: '24073'
 id_nomics: LEONS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24073.png
 name: LeonicornSwap
 platform: ARBETH
 platform_contract: '0xeb510433d3014152a1ca80f2053e0c5307de43bc'

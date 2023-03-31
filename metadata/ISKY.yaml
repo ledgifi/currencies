@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: ISKY
+id_coinmarketcap: '16751'
 id_coinpaprika: isky-infinity-skies
 id_nomics: ISKY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ISKY.png
 logoKey: currencies/isky.png
 name: Infinity Skies
+platform: MATIC
+platform_contract: '0x5dfd5edfde4d8ec9e632dca9d09fc7e833f74210'

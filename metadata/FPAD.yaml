@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: FPAD
+id_coinmarketcap: '18349'
 id_nomics: FPAD
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18349.png
 name: FantomPAD
 platform: ETH
 platform_contract: '0x62f72c7ed1e74a2ec901b1e9b4c6c1fe4a21ab00'

@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: BEE
+id_coinmarketcap: '2557'
 id_coinpaprika: bee-bee-token
 id_nomics: BEE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bee.png
 logoKey: currencies/bee.png
 name: Bee Token
+platform: ETH
+platform_contract: '0x4d8fc1453a0f359e99c9675954e656d80d996fbf'

@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: IUSDS
+id_coinmarketcap: '20307'
 id_nomics: IUSDS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20307.png
 name: Inflation Adjusted USDS
 platform: AVAX
 platform_contract: '0x8861f5c40a0961579689fdf6cdea2be494f9b25a'

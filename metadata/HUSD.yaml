@@ -2,8 +2,11 @@ color: '#005ffa'
 crypto: true
 fiat: false
 id: HUSD
+id_coinmarketcap: '4779'
 id_coinpaprika: husd-husd
 id_nomics: HUSD
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/husd.svg
 logoKey: currencies/husd.svg
 name: HUSD
+platform: ETH
+platform_contract: '0xdf574c24545e5ffecb9a659c229253d4111d87e1'

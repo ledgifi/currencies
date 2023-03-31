@@ -1,6 +1,9 @@
 crypto: true
 fiat: false
 id: EIDOS
+id_coinmarketcap: '6070'
 id_nomics: EIDOS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6070.png
 name: EIDOS
 platform: EOS
+platform_contract: eidos-eos-eidosonecoin

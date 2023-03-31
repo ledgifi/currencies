@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: CHIP
+id_coinmarketcap: '1021'
 id_nomics: CHIP
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1021.png
 name: ChipCoin
 platform: ETH
 platform_contract: '0x86aa993fdb0a60c2d548256a862258ab5d352fab'

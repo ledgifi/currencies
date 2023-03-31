@@ -1,8 +1,10 @@
 crypto: true
 fiat: false
 id: GRIMACE
+id_coinmarketcap: '17767'
 id_coinpaprika: grimace-grimacecoin
 id_nomics: GRIMACE
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17767.png
 name: grimacecoin
 platform: MATIC
 platform_contract: '0x640bafca4c1615d9ef9ea5a4612089db06e9d74c'

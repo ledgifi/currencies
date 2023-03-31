@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: XFE
+id_coinmarketcap: '7861'
 id_coinpaprika: xfe-feirm
 id_nomics: XFE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XFE.jpg
 logoKey: currencies/xfe.jpg
 name: Feirm
+platform: BNB
+platform_contract: '0x3de70dd9f65a860140f69f286a483f46e9be875a'

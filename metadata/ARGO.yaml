@@ -1,7 +1,10 @@
 crypto: true
 fiat: false
 id: ARGO
+id_coinmarketcap: '9663'
 id_nomics: ARGO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARGO.jpg
 logoKey: currencies/argo.jpg
 name: ARGO
+platform: ETH
+platform_contract: '0x28cca76f6e8ec81e4550ecd761f899110b060e97'

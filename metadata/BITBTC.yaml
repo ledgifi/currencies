@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: BITBTC
+id_coinmarketcap: '625'
 id_coinpaprika: bitbtc-bitbtc
 id_nomics: BITBTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITBTC.png

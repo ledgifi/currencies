@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: GPYX
+id_coinmarketcap: '3349'
 id_coinpaprika: pyx-pyrexcoin
 id_nomics: GPYX
 logo: https://static.coinpaprika.com/coin/pyx-pyrexcoin/logo.png
 logoKey: currencies/gpyx.png
 name: GoldenPyrex
+platform: ETH
+platform_contract: '0x3e3cda3218212503883c79f6d2feef29e6bbb87d'

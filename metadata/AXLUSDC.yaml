@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
-id: AXLUSDC
+id: axlUSDC
+id_coinmarketcap: '21420'
 id_nomics: AXLUSDC
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21420.png
 name: Axelar Wrapped USDC
 platform: GLMR
 platform_contract: '0xca01a1d0993565291051daff390892518acfad3a'

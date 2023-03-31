@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: ABTC
+id_coinmarketcap: '6185'
 id_nomics: ABTC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/abtc.png
 logoKey: currencies/abtc.png

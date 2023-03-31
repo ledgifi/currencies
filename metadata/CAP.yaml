@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: CAP
+id_coinmarketcap: '29'
 id_nomics: CAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAP.png
 logoKey: currencies/cap.png

@@ -1,7 +1,10 @@
 crypto: true
 fiat: false
 id: SCCP
+id_coinmarketcap: '11446'
 id_nomics: SCCP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SCCP.jpg
 logoKey: currencies/sccp.jpg
 name: S.C. Corinthians Fan Token
+platform: CHZ
+platform_contract: '0x31f0fcde2854cf19723d522b5ec0313795068e72'

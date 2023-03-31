@@ -1,7 +1,10 @@
 crypto: true
 fiat: false
 id: XTAG
+id_coinmarketcap: '12781'
 id_nomics: XTAG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XTAG.jpg
 logoKey: currencies/xtag.jpg
 name: xHashtag
+platform: SOL
+platform_contract: 5gs8nf4wojb5exgduwnlwxpknzgv2ywdhveaebzpvlbp

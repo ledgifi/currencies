@@ -1,7 +1,10 @@
 crypto: true
 fiat: false
 id: WACME
+id_coinmarketcap: '21762'
 id_nomics: WACME
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WACME.png
 logoKey: currencies/wacme.png
 name: Wrapped Accumulate
+platform: ETH
+platform_contract: '0xdf4ef6ee483953fe3b84abd08c6a060445c01170'

@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: BCI
+id_coinmarketcap: '2702'
 id_coinpaprika: bci-bitcoin-interest
 id_nomics: BCI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bci.png

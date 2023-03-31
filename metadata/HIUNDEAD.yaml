@@ -1,6 +1,9 @@
 crypto: true
 fiat: false
 id: HIUNDEAD
+id_coinmarketcap: '23466'
 id_nomics: HIUNDEAD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HIUNDEAD.png
 name: hiUNDEAD
+platform: ETH
+platform_contract: '0x70d0ff0d3b3f5e69220c09befc70606fa5f89293'

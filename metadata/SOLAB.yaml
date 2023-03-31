@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: SOLAB
+id_coinmarketcap: '15887'
 id_coinpaprika: solab-solabrador
 id_nomics: SOLAB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOLAB.jpg
 logoKey: currencies/solab.jpg
 name: Solabrador
+platform: SOL
+platform_contract: glmardrmyd4u3ylfnj9eq1mrwxa1yfswezyyzxzltrdk

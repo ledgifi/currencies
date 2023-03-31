@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: CWEB
+id_coinmarketcap: '12089'
 id_coinpaprika: cweb-coin-web
 id_nomics: CWEB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CWEB.jpg
 logoKey: currencies/cweb.jpg
 name: Coinweb
+platform: ETH
+platform_contract: '0x505b5eda5e25a67e1c24a2bf1a527ed9eb88bf04'

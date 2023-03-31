@@ -1,7 +1,10 @@
 crypto: true
 fiat: false
 id: BREAD
+id_coinmarketcap: '23180'
 id_nomics: BREAD
 logo: https://roll-token.s3.amazonaws.com/BREAD/BREAD-token-image.png
 logoKey: currencies/bread.png
 name: Bread
+platform: SOL
+platform_contract: 7a4dpnz5ruzhhraerq9c5ypivmvvnedjftayywrxci7i

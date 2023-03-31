@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: SAFECAT
+id_coinmarketcap: '10569'
 id_nomics: SAFECAT
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10569.png
 name: Safecat
 platform: BNB
 platform_contract: '0x696ebb7f70de8dc7e834ece97684789df9752671'

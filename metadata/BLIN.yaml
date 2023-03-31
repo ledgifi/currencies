@@ -1,7 +1,10 @@
 crypto: true
 fiat: false
 id: BLIN
+id_coinmarketcap: '16820'
 id_nomics: BLIN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLIN.jpg
 logoKey: currencies/blin.jpg
 name: Blin Metaverse
+platform: BNB
+platform_contract: '0x811b279463a89e4b6e35805174c9190763f72614'

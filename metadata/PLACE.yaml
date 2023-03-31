@@ -1,7 +1,10 @@
 crypto: true
 fiat: false
 id: PLACE
+id_coinmarketcap: '13420'
 id_nomics: PLACE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLACE.jpg
 logoKey: currencies/place.jpg
 name: Place War
+platform: BNB
+platform_contract: '0x07728696ee70a28c9c032926577af1d524df30f9'

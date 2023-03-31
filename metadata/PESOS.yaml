@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: PESOS
+id_coinmarketcap: '24020'
 id_nomics: PESOS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24020.png
 name: Shiba Cartel
 platform: ARBETH
 platform_contract: '0x15513a2b8d3c1269d7db291de89ab8ce509694f5'

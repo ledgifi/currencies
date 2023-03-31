@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: CRBRUS
+id_coinmarketcap: '18900'
 id_nomics: CRBRUS
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18900.png
 name: Cerberus
 platform: ATOM
 platform_contract: IBC/41999DF04D9441DAC0DF5D8291DF4333FBCBA810FFD63FDCE34FDF41EF37B6F7

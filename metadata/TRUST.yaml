@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: TRUST
+id_coinmarketcap: '450'
 id_coinpaprika: trust-trustplus
 id_nomics: TRUST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/trust.png
