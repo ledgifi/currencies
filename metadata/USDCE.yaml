@@ -3,6 +3,9 @@ decimals: 8
 fiat: false
 id: USDCE
 id_binance: '924'
+id_coinmarketcap: '18852'
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220422/4ed22a01-75b9-4ec7-ad64-7679aef27c2f.png
 logoKey: currencies/usdce.png
 name: USD Coin Bridged
+platform: AVAX
+platform_contract: '0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664'
