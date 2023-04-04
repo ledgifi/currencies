@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: IDCTOKEN
-id_nomics: IDCTOKEN
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IDCTOKEN.png
-logoKey: currencies/idctoken.png
-name: IDC Token
-platform: ETH
-platform_contract: '0x73d7e1dcfac94282dfda16c8f369b488580f7408'

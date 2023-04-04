@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: HIBEP20
-id_nomics: HIBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HIBEP20.png
-logoKey: currencies/hibep20.png
-name: hi Dollar (BEP-20)
-platform: BNB
-platform_contract: '0x77087ab5df23cfb52449a188e80e9096201c2097'

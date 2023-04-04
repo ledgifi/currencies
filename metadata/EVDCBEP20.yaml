@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: EVDCBEP20
-id_nomics: EVDCBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVDCBEP20.png
-logoKey: currencies/evdcbep20.png
-name: EVDC (BEP-20)
-platform: BNB
-platform_contract: '0xf09611a964535b32285bff5fcf9937c52bab8ea5'

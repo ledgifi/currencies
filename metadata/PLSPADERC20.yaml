@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: PLSPADERC20
-id_nomics: PLSPADERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLSPADERC20.jpg
-logoKey: currencies/plspaderc20.jpg
-name: PulsePad (ERC-20)
-platform: ETH
-platform_contract: '0x8a74bc8c372bc7f0e9ca3f6ac0df51be15aec47a'

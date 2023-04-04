@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: FLUXERC20
-id_nomics: FLUXERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLUXERC20.jpg
-logoKey: currencies/fluxerc20.jpg
-name: Flux (ERC-20)
-platform: ETH
-platform_contract: '0x720cd16b011b987da3518fbf38c3071d4f0d1495'

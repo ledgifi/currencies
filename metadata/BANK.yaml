@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: BANK
-id_nomics: BANK
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BANK.png
-logoKey: currencies/bank.png
-name: Bank Coin
-platform: BNB
-platform_contract: '0x966f75a3a48bd6133220bf83a62429bf04adf29f'

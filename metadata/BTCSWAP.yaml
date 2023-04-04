@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: BTCSWAP
-id_nomics: BTCSWAP
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCSWAP.png
-logoKey: currencies/btcswap.png
-name: Bitcoin Swap
-platform: BNB
-platform_contract: '0xaEf3566Cc33b791e1F0cAe6d31f8104b5F0aB10C'

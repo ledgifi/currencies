@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: AUSD5
-id_nomics: AUSD5
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AUSD5.png
-logoKey: currencies/ausd5.png
-name: Acala Dollar
-platform: KAR
-platform_contract: '0x0000000000000000000100000000000000000081'

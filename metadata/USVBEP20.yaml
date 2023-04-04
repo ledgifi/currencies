@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: USVBEP20
-id_nomics: USVBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USVBEP20.jpg
-logoKey: currencies/usvbep20.jpg
-name: Atlas USV (BEP-20)
-platform: BNB
-platform_contract: '0xaf6162dc717cfc8818efc8d6f46a41cf7042fcba'

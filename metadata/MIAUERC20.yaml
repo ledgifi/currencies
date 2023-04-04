@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: MIAUERC20
-id_nomics: MIAUERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIAUERC20.png
-logoKey: currencies/miauerc20.png
-name: Wrapped Mirror IAU Token (ERC-20)
-platform: ETH
-platform_contract: '0x1d350417d9787e000cc1b95d70e9536dcd91f373'

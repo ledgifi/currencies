@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: FTEX
-id_nomics: FTEX
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FTEX.jpg
-logoKey: currencies/ftex.jpg
-name: Fintex
-platform: ETH
-platform_contract: '0x9743cb5f346daa80a3a50b0859efb85a49e4b8cc'

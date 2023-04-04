@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: VPAY
-id_nomics: VPAY
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VPAY.jpeg
-logoKey: currencies/vpay.jpeg
-name: VersePay
-platform: BNB
-platform_contract: '0xe092dd238d7ff8fe585de410fcc23b47527d2cb8'

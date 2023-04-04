@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: USTHRC20
-id_nomics: USTHRC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USTHRC20.jpg
-logoKey: currencies/usthrc20.jpg
-name: Wrapped UST (Harmony)
-platform: HARMONY
-platform_contract: '0x224e64ec1bdce3870a6a6c777edd450454068fec'

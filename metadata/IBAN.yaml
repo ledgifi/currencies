@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: IBAN
-id_nomics: IBAN
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IBAN.jpg
-logoKey: currencies/iban.jpg
-name: iBAN COIN
-platform: BNB
-platform_contract: '0xc74c0560f46c28e722d82923bf0b79ccac4317e6'

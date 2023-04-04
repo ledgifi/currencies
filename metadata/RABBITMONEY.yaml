@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: RABBITMONEY
-id_nomics: RABBITMONEY
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RABBITMONEY.webp
-logoKey: currencies/rabbitmoney.webp
-name: RabbitMoney
-platform: BNB
-platform_contract: '0x98025aac1f8ae3c09facc8701e5c3642c7367d18'

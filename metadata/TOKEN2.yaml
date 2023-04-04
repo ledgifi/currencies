@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: TOKEN2
-id_nomics: TOKEN2
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOKEN2.jpg
-logoKey: currencies/token2.jpg
-name: ChainSwapMapping Token (ERC-20)
-platform: ETH
-platform_contract: '0x3b73c1b2ea59835cbfcadade5462b6ab630d9890'

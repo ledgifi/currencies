@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: CTUSD
-id_nomics: CTUSD
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CTUSD.png
-logoKey: currencies/ctusd.png
-name: Compound TrueUSD
-platform: ETH
-platform_contract: '0x12392f67bdf24fae0af363c24ac620a2f67dad86'

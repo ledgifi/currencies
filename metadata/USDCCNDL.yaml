@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: USDCCNDL
-id_nomics: USDCCNDL
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDCCNDL.svg
-logoKey: currencies/usdccndl.svg
-name: USD Coin (Candle)
-platform: CNDL
-platform_contract: '0x95A0A7953F9292838C0614D690005D5c716E718E'

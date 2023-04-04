@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: WETHCNDL
-id_nomics: WETHCNDL
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WETHCNDL.png
-logoKey: currencies/wethcndl.png
-name: Wrapped Ether (Candle)
-platform: CNDL
-platform_contract: '0xb750990F953B36F806d0327678eCFB4eEFd16979'

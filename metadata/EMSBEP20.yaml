@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: EMSBEP20
-id_nomics: EMSBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EMSBEP20.jpg
-logoKey: currencies/emsbep20.jpg
-name: Ethereum Message Search (BEP-20)
-platform: BNB
-platform_contract: '0x8444bd389e5db8ceaad7b95466a0b8a1939af1a9'

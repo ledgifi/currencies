@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: USDCSO
-id_nomics: USDCSO
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDCSO.jpg
-logoKey: currencies/usdcso.jpg
-name: USD Coin (Wormhole)
-platform: ETH
-platform_contract: '0x41f7b8b9b897276b7aae926a9016935280b44e97'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: ASTETH
-id_nomics: ASTETH
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASTETH.jpg
-logoKey: currencies/asteth.jpg
-name: Aave Interest Bearing STETH
-platform: ETH
-platform_contract: '0x1982b2f5814301d4e9a8b0201555376e62f82428'

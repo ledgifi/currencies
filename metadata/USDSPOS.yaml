@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: USDSPOS
-id_nomics: USDSPOS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDSPOS.png
-logoKey: currencies/usdspos.png
-name: Spice USD (Polygon)
-platform: MATIC
-platform_contract: '0x2f1b1662a895c6ba01a99dcaf56778e7d77e5609'

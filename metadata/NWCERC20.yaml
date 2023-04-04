@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: NWCERC20
-id_nomics: NWCERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NWCERC20.jpg
-logoKey: currencies/nwcerc20.jpg
-name: Newscrypto (ERC-20)
-platform: ETH
-platform_contract: '0x968f6f898a6df937fc1859b323ac2f14643e3fed'

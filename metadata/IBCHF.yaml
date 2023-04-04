@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: IBCHF
-id_nomics: IBCHF
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IBCHF.png
-logoKey: currencies/ibchf.png
-name: Iron Bank CHF
-platform: ETH
-platform_contract: '0x1cc481ce2bd2ec7bf67d1be64d4878b16078f309'

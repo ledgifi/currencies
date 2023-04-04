@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: DOWNERC20
-id_nomics: DOWNERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOWNERC20.png
-logoKey: currencies/downerc20.png
-name: DOWN Vault (ERC-20)
-platform: ETH
-platform_contract: '0xcfe4a93c6b0930bd46a8b375f113c9f398c27375'

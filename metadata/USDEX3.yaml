@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: USDEX3
-id_nomics: USDEX3
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDEX3.png
-logoKey: currencies/usdex3.png
-name: USDEX
-platform: BNB
-platform_contract: '0x829c09fcc46d9fd31967272aba245bef9f727f93'

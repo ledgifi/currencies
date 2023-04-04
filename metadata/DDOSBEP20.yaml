@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: DDOSBEP20
-id_nomics: DDOSBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DDOS.jpg
-logoKey: currencies/ddosbep20.jpg
-name: disBalancer (BEP-20)
-platform: BNB
-platform_contract: '0x7fbec0bb6a7152e77c30d005b5d49cbc08a602c3'

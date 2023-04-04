@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: BLND
-id_nomics: BLND
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLND.png
-logoKey: currencies/blnd.png
-name: Blend Token
-platform: ETH
-platform_contract: '0xdc190ea63142c7522dd56077f9b48b5073e3bd49'

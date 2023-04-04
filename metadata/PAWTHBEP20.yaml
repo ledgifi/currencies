@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: PAWTHBEP20
-id_nomics: PAWTHBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAWTHBEP20.jpg
-logoKey: currencies/pawthbep20.jpg
-name: Pawthereum (BEP-20)
-platform: BNB
-platform_contract: '0x409e215738e31d8ab252016369c2dd9c2008fee0'

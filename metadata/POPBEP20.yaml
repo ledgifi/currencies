@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: POPBEP20
-id_nomics: POPBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POPBEP20.png
-logoKey: currencies/popbep20.png
-name: POP Network (BEP-20)
-platform: BNB
-platform_contract: '0x1bb76a939d6b7f5be6b95c4f9f822b02b4d62ced'

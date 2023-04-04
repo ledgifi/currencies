@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: VALXARB
-id_nomics: VALXARB
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VALXARB.png
-logoKey: currencies/valxarb.png
-name: Validator (Arbitrum)
-platform: ARBETH
-platform_contract: '0x8d1c89dcf613e3e709afe9abecae591d0e2b64ca'

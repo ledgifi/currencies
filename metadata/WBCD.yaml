@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: WBCD
-id_nomics: WBCD
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WBCD.jpg
-logoKey: currencies/wbcd.jpg
-name: Wrapped Bitcoin Diamond
-platform: ETH
-platform_contract: '0x6a6d430573d3f070aeab97b3a189d698ea130454'

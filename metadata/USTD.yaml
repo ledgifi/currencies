@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: USTD
-id_nomics: USTD
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USTD.png
-logoKey: currencies/ustd.png
-name: TerraDiamondUSD
-platform: BNB
-platform_contract: '0x3f9ed0055C66E7B30521d3Fa506c531dC9E63372'

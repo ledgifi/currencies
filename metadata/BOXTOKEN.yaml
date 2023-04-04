@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: BOXTOKEN
-id_nomics: BOXTOKEN
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOXTOKEN.png
-logoKey: currencies/boxtoken.png
-name: BOX Token
-platform: ETH
-platform_contract: '0xe1a178b681bd05964d3e3ed33ae731577d9d96dd'

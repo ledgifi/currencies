@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: XCURBEP20
-id_nomics: XCURBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XCURBEP20.png
-logoKey: currencies/xcurbep20.png
-name: Curate (BEP-20)
-platform: BNB
-platform_contract: '0x708c671aa997da536869b50b6c67fa0c32ce80b2'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: WAUDAX
-id_nomics: WAUDAX
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAUDAX.png
-logoKey: currencies/waudax.png
-name: Wrapped Audax
-platform: BNB
-platform_contract: '0x6def012027b261c0bb320e74cece31bbabcb197c'

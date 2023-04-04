@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: BTZCERC20
-id_nomics: BTZCERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTZCERC20.jpg
-logoKey: currencies/btzcerc20.jpg
-name: BeatzCoin (ERC-20)
-platform: ETH
-platform_contract: '0x80640db285cc63496bdd8c1980a7f4526a4d477f'

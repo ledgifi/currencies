@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: ABSBEP20
-id_nomics: ABSBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ABSBEP20.png
-logoKey: currencies/absbep20.png
-name: Absorber (BEP-20)
-platform: BNB
-platform_contract: '0x6c5fe6e99d2484db7e4bf34f365aba42d0e4dc20'

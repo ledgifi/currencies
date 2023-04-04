@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: WETHNEAR
-id_nomics: WETHNEAR
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WETHNEAR.png
-logoKey: currencies/wethnear.png
-name: Wrapped Ether (Near)
-platform: NEAR
-platform_contract: c02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.factory.bridge.near

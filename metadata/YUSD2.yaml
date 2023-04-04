@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: YUSD2
-id_nomics: YUSD2
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YUSD2.png
-logoKey: currencies/yusd2.png
-name: YUSD Stablecoin
-platform: AVAX
-platform_contract: '0x111111111111ed1d73f860f57b2798b683f2d325'

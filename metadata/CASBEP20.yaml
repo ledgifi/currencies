@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: CASBEP20
-id_nomics: CASBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CASBEP20.jpg
-logoKey: currencies/casbep20.jpg
-name: Cashaa (BEP-20)
-platform: BNB
-platform_contract: '0x780207b8c0fdc32cf60e957415bfa1f2d4d9718c'

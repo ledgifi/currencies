@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: GNOPOS
-id_nomics: GNOPOS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GNOPOS.jpg
-logoKey: currencies/gnopos.jpg
-name: Gnosis Token (Polygon)
-platform: MATIC
-platform_contract: '0x5ffd62d3c3ee2e81c00a7b9079fb248e7df024a8'

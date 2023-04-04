@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: XUSD
-id_nomics: XUSD
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XUSD.jpg
-logoKey: currencies/xusd.jpg
-name: XUSD Stablecoin
-platform: ETH
-platform_contract: '0x1c9ba9144505aaba12f4b126fda9807150b88f80'

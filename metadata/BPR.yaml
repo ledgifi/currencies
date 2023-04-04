@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: BPR
-id_nomics: BPR
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BPR.jpg
-logoKey: currencies/bpr.jpg
-name: BusdPrinter
-platform: BNB
-platform_contract: '0x55e8d5ba6a859a4ff46f175bb3e7f003e16db821'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: TRON
-id_nomics: TRON
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRON.jpg
-logoKey: currencies/tron.jpg
-name: Bitcoin Tron
-platform: ETH
-platform_contract: '0x9693dded163393f18810c7a799c662998bf8bf3e'

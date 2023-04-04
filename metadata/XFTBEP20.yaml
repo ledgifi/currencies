@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: XFTBEP20
-id_nomics: XFTBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XFTBEP20.png
-logoKey: currencies/xftbep20.png
-name: Offshift (BEP-20)
-platform: BNB
-platform_contract: '0xe138c66982fd5c890c60b94fdba1747faf092c20'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: PROSERC20
-id_nomics: PROSERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PROSERC20.jpg
-logoKey: currencies/proserc20.jpg
-name: Prosper (ERC-20)
-platform: ETH
-platform_contract: '0x8642a849d0dcb7a15a974794668adcfbe4794b56'

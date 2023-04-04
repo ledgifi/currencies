@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: ANYERC20
-id_nomics: ANYERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANYERC20.jpg
-logoKey: currencies/anyerc20.jpg
-name: Anyswap (ERC-20)
-platform: ETH
-platform_contract: '0xf99d58e463a2e07e5692127302c20a191861b4d6'

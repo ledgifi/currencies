@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: WBISBEP20
-id_nomics: WBISBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WBISBEP20.jpg
-logoKey: currencies/wbisbep20.jpg
-name: Wrapped BIS (BEP-20)
-platform: BNB
-platform_contract: '0x56672ecb506301b1e32ed28552797037c54d36a9'

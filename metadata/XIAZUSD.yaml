@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: XIAZUSD
-id_nomics: XIAZUSD
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XIAZUSD.png
-logoKey: currencies/xiazusd.png
-name: Xiaz Dollar Pegged
-platform: MATIC
-platform_contract: '0x003eab9075c6fe49fc276b8cca9cfa3ae0f0593c'

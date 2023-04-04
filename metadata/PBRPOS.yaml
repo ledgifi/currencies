@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: PBRPOS
-id_nomics: PBRPOS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PBRPOS.jpg
-logoKey: currencies/pbrpos.jpg
-name: PolkaBridge (Polygon)
-platform: MATIC
-platform_contract: '0x0d6ae2a429df13e44a07cd2969e085e4833f64a0'

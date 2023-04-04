@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: XPPAY
-id_nomics: XPPAY
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XPPAY.jpg
-logoKey: currencies/xppay.jpg
-name: PlasmaStaking
-platform: ETH
-platform_contract: '0x9fd1d329bb687fef164f529f6f6dcd6f69e7b978'

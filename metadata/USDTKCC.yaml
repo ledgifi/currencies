@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: USDTKCC
-id_nomics: USDTKCC
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDTKCC.png
-logoKey: currencies/usdtkcc.png
-name: Tether (KCC)
-platform: KCS
-platform_contract: '0x0039f574ee5cc39bdd162e9a88e3eb1f111baf48'

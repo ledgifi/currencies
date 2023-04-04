@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: MBABAERC20
-id_nomics: MBABAERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MBABAERC20.png
-logoKey: currencies/mbabaerc20.png
-name: Wrapped Mirror BABA Token (ERC-20)
-platform: ETH
-platform_contract: '0x56aa298a19c93c6801fdde870fa63ef75cc0af72'

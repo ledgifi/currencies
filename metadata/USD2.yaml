@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: USD2
-id_nomics: USD2
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USD2.jpg
-logoKey: currencies/usd2.jpg
-name: Uniswap State Dollar
-platform: ETH
-platform_contract: '0x44086035439e676c02d411880fccb9837ce37c57'

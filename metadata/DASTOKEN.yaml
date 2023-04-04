@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: DASTOKEN
-id_nomics: DASTOKEN
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DASTOKEN.png
-logoKey: currencies/dastoken.png
-name: Digital Asset Swap Token
-platform: ETH
-platform_contract: '0x75a6abc989f5ac803d8a336d61a14fa463462f75'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: CERT
-id_nomics: CERT
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CERT.png
-logoKey: currencies/cert.png
-name: Certified Carbon Emission Transaction
-platform: ETH
-platform_contract: '0x85954c0adde80c73b019a92c08e0d22f16ac4067'

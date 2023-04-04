@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: LBNB
-id_nomics: LBNB
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LBNB.jpg
-logoKey: currencies/lbnb.jpg
-name: Liquidity Staked BNB
-platform: BNB
-platform_contract: '0x43c37e8240d0fccef747d12e201bf295e4226388'

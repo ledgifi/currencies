@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: ANYBTC
-id_nomics: ANYBTC
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANYBTC.jpg
-logoKey: currencies/anybtc.jpg
-name: ANY Bitcoin
-platform: HARMONY
-platform_contract: '0x03732a1b4297ec285999402a9129cfad62a65463'

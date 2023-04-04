@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: PIEBEP20
-id_nomics: PIEBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIEBEP20.jpg
-logoKey: currencies/piebep20.jpg
-name: DeFiPie (BEP-20)
-platform: BNB
-platform_contract: '0xc4b35d3a24e3e8941c5d87fd21d0725642f50308'

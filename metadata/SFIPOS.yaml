@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: SFIPOS
-id_nomics: SFIPOS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFIPOS.png
-logoKey: currencies/sfipos.png
-name: Spice (Polygon)
-platform: MATIC
-platform_contract: '0x35b937583f04a24963eb685f728a542240f28dd8'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: LIKEERC20
-id_nomics: LIKEERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIKEERC20.jpg
-logoKey: currencies/likeerc20.jpg
-name: LikeCoin (ERC-20)
-platform: ETH
-platform_contract: '0x02f61fd266da6e8b102d4121f5ce7b992640cf98'

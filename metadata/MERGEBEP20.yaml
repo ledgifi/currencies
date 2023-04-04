@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: MERGEBEP20
-id_nomics: MERGEBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MERGEBEP20.png
-logoKey: currencies/mergebep20.png
-name: Merge (BEP-20)
-platform: BNB
-platform_contract: '0x2d5c9167fdd5c068c8fcb8992e6af639b42fbf70'

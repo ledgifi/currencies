@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: POA20
-id_nomics: POA20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/poa20.png
-logoKey: currencies/poa20.png
-name: POA ERC20 on Foundation
-platform: ETH
-platform_contract: '0x6758b7d441a9739b98552b373703d8d3d14f9e62'

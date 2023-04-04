@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: STS
-id_nomics: STS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STS.png
-logoKey: currencies/sts.png
-name: Status Security Token
-platform: ETH
-platform_contract: '0x2193b9f2b5e5051e41c32c71b25587d6a6f045c8'

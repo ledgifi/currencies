@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: TADBEP20
-id_nomics: TADBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TADBEP20.jpg
-logoKey: currencies/tadbep20.jpg
-name: Tadpole (BEP-20)
-platform: BNB
-platform_contract: '0x9f7229af0c4b9740e207ea283b9094983f78ba04'

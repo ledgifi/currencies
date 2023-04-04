@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: SINGFTM
-id_nomics: SINGFTM
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SINGFTM.png
-logoKey: currencies/singftm.png
-name: Sing Token (Fantom)
-platform: FTM
-platform_contract: '0x53d831e1db0947c74e8a52618f662209ec5de0ce'

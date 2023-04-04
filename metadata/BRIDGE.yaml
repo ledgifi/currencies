@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: BRIDGE
-id_nomics: BRIDGE
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRIDGE.jpg
-logoKey: currencies/bridge.jpg
-name: MultiBridge Token
-platform: BNB
-platform_contract: '0x2763b15b36797f9152a6edf8bbe83ab889e2f69c'

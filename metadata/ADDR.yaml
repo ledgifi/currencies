@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: ADDR
-id_nomics: ADDR
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ADDR.jpg
-logoKey: currencies/addr.jpg
-name: Address
-platform: ETH
-platform_contract: '0x4363e1485764d206b01ddc9ca121030585259f6f'

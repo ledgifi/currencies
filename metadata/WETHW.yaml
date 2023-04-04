@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: WETHW
-id_nomics: WETHW
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WETHW.png
-logoKey: currencies/wethw.png
-name: Wrapped ETHPoW
-platform: ETHW2
-platform_contract: '0x7Bf88d2c0e32dE92CdaF2D43CcDc23e8Edfd5990'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: BSGS
-id_nomics: BSGS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BSGS.png
-logoKey: currencies/bsgs.png
-name: Basis Gold Share
-platform: ETH
-platform_contract: '0xa9d232cc381715ae791417b624d7c4509d2c28db'

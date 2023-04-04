@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: ELAERC20
-id_nomics: ELAERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELAERC20.jpg
-logoKey: currencies/elaerc20.jpg
-name: Elastos (ERC-20)
-platform: ETH
-platform_contract: '0xe6fd75ff38adca4b97fbcd938c86b98772431867'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: WCCXBEP20
-id_nomics: WCCXBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WCCXBEP20.jpg
-logoKey: currencies/wccxbep20.jpg
-name: Wrapped Conceal (BEP-20)
-platform: BNB
-platform_contract: '0x988c11625472340b7b36ff1534893780e0d8d841'

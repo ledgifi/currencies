@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: USAT
-id_nomics: USAT
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USAT.png
-logoKey: currencies/usat.png
-name: USAT
-platform: ETH
-platform_contract: '0x36b874d647f91c87a51cc4e2a026577998a79114'

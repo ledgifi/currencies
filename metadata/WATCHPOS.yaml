@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: WATCHPOS
-id_nomics: WATCHPOS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WATCHPOS.png
-logoKey: currencies/watchpos.png
-name: Yieldwatch (Polygon)
-platform: MATIC
-platform_contract: '0x09211dc67f9fe98fb7bbb91be0ef05f4a12fa2b2'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: SHARDBEP20
-id_nomics: SHARDBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHARDBEP20.jpg
-logoKey: currencies/shardbep20.jpg
-name: Shard (BEP-20)
-platform: BNB
-platform_contract: '0xd8a1734945b9ba38eb19a291b475e31f49e59877'

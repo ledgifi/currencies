@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: EFT
-id_nomics: EFT
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EFT.png
-logoKey: currencies/eft.png
-name: EasyFeedback Token
-platform: ETH
-platform_contract: '0x3ee2fd8e38a16f06ab85d684e062c0cf7d0e9a8b'

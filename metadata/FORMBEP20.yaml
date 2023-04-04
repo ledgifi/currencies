@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: FORMBEP20
-id_nomics: FORMBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FORM.png
-logoKey: currencies/formbep20.png
-name: Formation Finance (BEP-20)
-platform: BNB
-platform_contract: '0x25a528af62e56512a19ce8c3cab427807c28cc19'

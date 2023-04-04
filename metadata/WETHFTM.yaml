@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: WETHFTM
-id_nomics: WETHFTM
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WETHFTM.png
-logoKey: currencies/wethftm.png
-name: Wrapped Ether (Fantom)
-platform: FTM
-platform_contract: '0x74b23882a30290451A17c44f4F05243b6b58C76d'

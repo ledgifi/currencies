@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: PAYPOS
-id_nomics: PAYPOS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAYPOS.png
-logoKey: currencies/paypos.png
-name: PayBolt (Polygon)
-platform: MATIC
-platform_contract: '0xe580074A10360404AF3ABfe2d524D5806D993ea3'

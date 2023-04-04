@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: PLUTUS
-id_nomics: PLUTUS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLUTUS.png
-logoKey: currencies/plutus.png
-name: Plutus Mint
-platform: METIS
-platform_contract: '0xB1706e34d989Df2A9A30949d6B87B7E3cab7eC05'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: EVENCOIN
-id_nomics: EVENCOIN
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVENCOIN.png
-logoKey: currencies/evencoin.png
-name: EvenCoin
-platform: ETH
-platform_contract: '0x68909e586eeac8f47315e84b4c9788dd54ef65bb'

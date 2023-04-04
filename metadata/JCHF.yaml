@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: JCHF
-id_nomics: JCHF
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JCHF.jpg
-logoKey: currencies/jchf.jpg
-name: Jarvis Synthetic Swiss Franc
-platform: ETH
-platform_contract: '0x53dfea0a8cc2a2a2e425e1c174bc162999723ea0'

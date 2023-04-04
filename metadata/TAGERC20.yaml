@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: TAGERC20
-id_nomics: TAGERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TAGERC20.png
-logoKey: currencies/tagerc20.png
-name: Tagcoin (ERC-20)
-platform: ETH
-platform_contract: '0xcc4ae94372da236e9b113132e0c46c68704246b9'

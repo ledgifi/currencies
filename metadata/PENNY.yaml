@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: PENNY
-id_nomics: PENNY
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PENNY.jpg
-logoKey: currencies/penny.jpg
-name: Pennies Finance
-platform: ETH
-platform_contract: '0x8590e4bec1a766f4ad2c5833488bc440bed1b17a'

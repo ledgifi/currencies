@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: USDCXDAI
-id_nomics: USDCXDAI
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDCXDAI.jpg
-logoKey: currencies/usdcxdai.jpg
-name: USD Coin (xDai)
-platform: XDAI
-platform_contract: '0xddafbb505ad214d7b80b1f830fccc89b60fb7a83'

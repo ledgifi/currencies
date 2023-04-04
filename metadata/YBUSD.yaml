@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: YBUSD
-id_nomics: YBUSD
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YBUSD.jpg
-logoKey: currencies/ybusd.jpg
-name: yBUSD
-platform: ETH
-platform_contract: '0x04bc0ab673d88ae9dbc9da2380cb6b79c4bca9ae'

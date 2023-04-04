@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: TRIPSERC20
-id_nomics: TRIPSERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRIPSERC20.jpg
-logoKey: currencies/tripserc20.jpg
-name: Trips Community (ERC-20)
-platform: ETH
-platform_contract: '0x1350fbe8ce27762ec19134bf8fc405a427fe9bf1'

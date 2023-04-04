@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: FRAXPOS
-id_nomics: FRAXPOS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FRAXPOS.jpg
-logoKey: currencies/fraxpos.jpg
-name: Frax (Polygon)
-platform: MATIC
-platform_contract: '0x104592a158490a9228070e0a8e5343b499e125d0'

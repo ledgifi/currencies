@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: BITOX
-id_nomics: BITOX
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITOX.png
-logoKey: currencies/bitox.png
-name: Bitox Token
-platform: ETH
-platform_contract: '0xbdda280ee7bccc68f3be60a369b6b1eaee02493c'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: AAMMUSDC
-id_nomics: AAMMUSDC
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AAMMUSDC.jpg
-logoKey: currencies/aammusdc.jpg
-name: Aave AMM USDC
-platform: ETH
-platform_contract: '0xd24946147829deaa935be2ad85a3291dbf109c80'

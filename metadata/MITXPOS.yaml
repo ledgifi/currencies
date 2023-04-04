@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: MITXPOS
-id_nomics: MITXPOS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MITXPOS.jpg
-logoKey: currencies/mitxpos.jpg
-name: Morpheus Infrastructure Token (Polygon)
-platform: MATIC
-platform_contract: '0x31042a4e66eda0d12143ffc8cc1552d611da4cba'

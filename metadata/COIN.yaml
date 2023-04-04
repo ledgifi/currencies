@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: COIN
-id_nomics: COIN
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/coin.jpg
-logoKey: currencies/coin.jpg
-name: Coinvest
-platform: ETH
-platform_contract: '0xeb547ed1d8a3ff1461abaa7f0022fed4836e00a4'

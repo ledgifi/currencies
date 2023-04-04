@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: INSURBEP20
-id_nomics: INSURBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INSURBEP20.jpg
-logoKey: currencies/insurbep20.jpg
-name: InsurAce (BEP-20)
-platform: BNB
-platform_contract: '0x3192ccddf1cdce4ff055ebc80f3f0231b86a7e30'

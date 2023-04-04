@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: MOVIE
-id_nomics: MOVIE
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOVIE.png
-logoKey: currencies/movie.png
-name: MoviePass
-platform: ETH
-platform_contract: '0x7a54fae94b6960d9f7316612eec179078e911769'

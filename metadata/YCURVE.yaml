@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: YCURVE
-id_nomics: YCURVE
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YCURVE.jpg
-logoKey: currencies/ycurve.jpg
-name: Curve.fi yDAI/yUSDC/yUSDT/yTUSD
-platform: ETH
-platform_contract: '0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8'

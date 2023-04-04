@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: PAXGPOS
-id_nomics: PAXGPOS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAXGPOS.png
-logoKey: currencies/paxgpos.png
-name: PAX Gold (Polygon)
-platform: MATIC
-platform_contract: '0x553d3D295e0f695B9228246232eDF400ed3560B5'

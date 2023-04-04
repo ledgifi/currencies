@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: PACTBEP20
-id_nomics: PACTBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PACTBEP20.jpg
-logoKey: currencies/pactbep20.jpg
-name: PACT community token (BEP-20)
-platform: BNB
-platform_contract: '0x66e7ce35578a37209d01f99f3d2ff271f981f581'

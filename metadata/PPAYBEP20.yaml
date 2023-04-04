@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: PPAYBEP20
-id_nomics: PPAYBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PPAYBEP20.jpg
-logoKey: currencies/ppaybep20.jpg
-name: Plasma Finance (BEP-20)
-platform: BNB
-platform_contract: '0xfb288d60d3b66f9c3e231a9a39ed3f158a4269aa'

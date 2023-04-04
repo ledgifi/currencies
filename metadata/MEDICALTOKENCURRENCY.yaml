@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: MEDICALTOKENCURRENCY
-id_nomics: MEDICALTOKENCURRENCY
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEDICALTOKENCURRENCY.png
-logoKey: currencies/medicaltokencurrency.png
-name: Docademic
-platform: ETH
-platform_contract: '0x905e337c6c8645263d3521205aa37bf4d034e745'

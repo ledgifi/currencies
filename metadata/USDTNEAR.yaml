@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: USDTNEAR
-id_nomics: USDTNEAR
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDTNEAR.svg
-logoKey: currencies/usdtnear.svg
-name: Tether (Near)
-platform: NEAR
-platform_contract: dac17f958d2ee523a2206206994597c13d831ec7.factory.bridge.near

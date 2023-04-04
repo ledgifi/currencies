@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: QUSD2
-id_nomics: QUSD2
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QUSD2.jpg
-logoKey: currencies/qusd2.jpg
-name: QUSD Stablecoin
-platform: ETH
-platform_contract: '0x59d4ccc94a9c4c3d3b4ba2aa343a9bdf95145dd1'

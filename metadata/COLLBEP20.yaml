@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: COLLBEP20
-id_nomics: COLLBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COLL.jpg
-logoKey: currencies/collbep20.jpg
-name: Collateral (BEP-20)
-platform: BNB
-platform_contract: '0xa4cb040b85e94f5c0c32ea1151b20d3ab40b3493'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: IGGERC20
-id_nomics: IGGERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IGGERC20.jpg
-logoKey: currencies/iggerc20.jpg
-name: IG Gold (ERC-20)
-platform: ETH
-platform_contract: '0x8ffe40a3d0f80c0ce6b203d5cdc1a6a86d9acaea'

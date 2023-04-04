@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: SKUBEP20
-id_nomics: SKUBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SKUBEP20.jpg
-logoKey: currencies/skubep20.jpg
-name: Sakura (BEP-20)
-platform: BNB
-platform_contract: '0x664e9a36a18a2e1152aed79a2f1cc8833fd37115'

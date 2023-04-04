@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: MQQQERC20
-id_nomics: MQQQERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MQQQERC20.png
-logoKey: currencies/mqqqerc20.png
-name: Wrapped Mirror QQQ Token (ERC-20)
-platform: ETH
-platform_contract: '0x13b02c8de71680e71f0820c996e4be43c2f57d15'

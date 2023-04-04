@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: ACCELBEP20
-id_nomics: ACCELBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACCELBEP20.png
-logoKey: currencies/accelbep20.png
-name: ACCEL (BEP-20)
-platform: BNB
-platform_contract: '0x2cace984dab08bd192a7fd044276060cb955dd9c'

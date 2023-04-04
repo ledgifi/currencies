@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: OINBEP20
-id_nomics: OINBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OINBEP20.jpg
-logoKey: currencies/oinbep20.jpg
-name: OIN Finance (BEP-20)
-platform: BNB
-platform_contract: '0x658e64ffcf40d240a43d52ca9342140316ae44fa'

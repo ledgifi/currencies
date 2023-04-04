@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: BOOERC20
-id_nomics: BOOERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOOERC20.png
-logoKey: currencies/booerc20.png
-name: SpookyToken (ERC-20)
-platform: ETH
-platform_contract: '0x55af5865807b196bd0197e0902746f31fbccfa58'

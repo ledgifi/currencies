@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: XPAY2
-id_nomics: XPAY2
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XPAY2.jpg
-logoKey: currencies/xpay2.jpg
-name: Wallet Pay
-platform: BNB
-platform_contract: '0x43b72f3b99564257671d5c47df663585344c1459'

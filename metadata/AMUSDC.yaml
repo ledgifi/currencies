@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: AMUSDC
-id_nomics: AMUSDC
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMUSDC.jpg
-logoKey: currencies/amusdc.jpg
-name: Aave Polygon USDC
-platform: MATIC
-platform_contract: '0x1a13f4ca1d028320a707d99520abfefca3998b7f'

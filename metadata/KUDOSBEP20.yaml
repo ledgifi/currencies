@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: KUDOSBEP20
-id_nomics: KUDOSBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KUDOSBEP20.png
-logoKey: currencies/kudosbep20.png
-name: Kudos (BEP-20)
-platform: BNB
-platform_contract: '0x3a701df09fe2db96b40e5da0d8d490a654b73e4c'

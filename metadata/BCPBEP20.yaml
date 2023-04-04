@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: BCPBEP20
-id_nomics: BCPBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCPBEP20.jpg
-logoKey: currencies/bcpbep20.jpg
-name: BitcashPay (BEP-20) V1 (OLD)
-platform: BNB
-platform_contract: '0xb44a9b6905af7c801311e8f4e76932ee959c663c'

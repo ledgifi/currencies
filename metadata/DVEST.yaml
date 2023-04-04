@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: DVEST
-id_nomics: DVEST
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DVEST.jpg
-logoKey: currencies/dvest.jpg
-name: dVest
-platform: BNB
-platform_contract: '0x19d12479f0159d624249c26949509e010dbce8be'

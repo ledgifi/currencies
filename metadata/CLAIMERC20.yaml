@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: CLAIMERC20
-id_nomics: CLAIMERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLAIMERC20.jpg
-logoKey: currencies/claimerc20.jpg
-name: Claim (ERC-20)
-platform: ETH
-platform_contract: '0x13154efe79d4d7f86407d56f8f6a1b07fb0b80ff'

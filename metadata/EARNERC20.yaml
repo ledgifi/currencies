@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: EARNERC20
-id_nomics: EARNERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EARNERC20.png
-logoKey: currencies/earnerc20.png
-name: EverEarn (ERC-20)
-platform: ETH
-platform_contract: '0xa87ed75c257f1ec38393bea0a83d55ac2279d79c'

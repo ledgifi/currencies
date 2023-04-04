@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: FRAXFTM
-id_nomics: FRAXFTM
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FRAXFTM.png
-logoKey: currencies/fraxftm.png
-name: Frax (Fantom)
-platform: FTM
-platform_contract: '0xdc301622e621166bd8e82f2ca0a26c13ad0be355'

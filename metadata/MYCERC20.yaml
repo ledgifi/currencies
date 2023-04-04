@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: MYCERC20
-id_nomics: MYCERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MYCERC20.png
-logoKey: currencies/mycerc20.png
-name: Myteamcoin (ERC-20)
-platform: ETH
-platform_contract: '0xb8323cfafb0e6cc60ce332f1181d56e91ba0d8ba'

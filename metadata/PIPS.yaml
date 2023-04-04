@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: PIPS
-id_nomics: PIPS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PIPS.png
-logoKey: currencies/pips.png
-name: PIPSCHAIN
-platform: ETH
-platform_contract: '0x59db9fde270b39a07f38fa3106a760829074c7d9'

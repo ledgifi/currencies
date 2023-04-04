@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: NORDBEP20
-id_nomics: NORDBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NORDBEP20.jpg
-logoKey: currencies/nordbep20.jpg
-name: Nord Finance (BEP-20)
-platform: BNB
-platform_contract: '0x6e9730ecffbed43fd876a264c982e254ef05a0de'

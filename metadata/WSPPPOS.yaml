@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: WSPPPOS
-id_nomics: WSPPPOS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WSPPPOS.png
-logoKey: currencies/wspppos.png
-name: WolfSafePoorPeople (Polygon)
-platform: MATIC
-platform_contract: '0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f'

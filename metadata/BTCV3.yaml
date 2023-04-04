@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: BTCV3
-id_nomics: BTCV3
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCV3.jpg
-logoKey: currencies/btcv3.jpg
-name: Bitcoin Volatility Index Token
-platform: ETH
-platform_contract: '0x51b0bcbeff204b39ce792d1e16767fe6f7631970'

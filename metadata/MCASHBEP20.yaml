@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: MCASHBEP20
-id_nomics: MCASHBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MCASHBEP20.png
-logoKey: currencies/mcashbep20.png
-name: MMS Cash (BEP-20)
-platform: BNB
-platform_contract: '0xbdd59c287f8a18304227dcb2661cbaa5e6b5d8a4'

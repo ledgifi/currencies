@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: DOWNOP
-id_nomics: DOWNOP
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOWNOP.png
-logoKey: currencies/downop.png
-name: DOWN Vault (Optimism)
-platform: OPETH
-platform_contract: '0x99ac4484e8a1dbd6a185380b3a811913ac884d87'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: UMIBEP20
-id_nomics: UMIBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UMIBEP20.PNG
-logoKey: currencies/umibep20.png
-name: UMI (BEP-20)
-platform: BNB
-platform_contract: '0x46943113ae84e732bb510b5f7686d8b76ff56774'

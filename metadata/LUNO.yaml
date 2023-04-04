@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: LUNO
-id_nomics: LUNO
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUNO.png
-logoKey: currencies/luno.png
-name: Luno Token
-platform: BNB
-platform_contract: '0x3b27368c45f73910bca0162e25d86d77fa6d5ac5'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: SHBMA
-id_nomics: SHBMA
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHBMA.jpg
-logoKey: currencies/shbma.jpg
-name: ShibaMask (ERC-20)
-platform: ETH
-platform_contract: '0x1c384884637099fc002730389aa3760a3c886fee'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: USDTARB
-id_nomics: USDTARB
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDTARB.png
-logoKey: currencies/usdtarb.png
-name: Tether (Arbitrum)
-platform: ARBETH
-platform_contract: '0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: FXBK
-id_nomics: FXBK
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FXBK.jpg
-logoKey: currencies/fxbk.jpg
-name: FX Buy Back
-platform: ETH
-platform_contract: '0xcb554bfb068b54a474a184acd1f743ccd27afe5b'

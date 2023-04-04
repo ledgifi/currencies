@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: AGUSD
-id_nomics: AGUSD
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AGUSD.jpg
-logoKey: currencies/agusd.jpg
-name: Aave GUSD
-platform: ETH
-platform_contract: '0xd37ee7e4f452c6638c96536e68090de8cbcdb583'

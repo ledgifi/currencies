@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: USDNPOS
-id_nomics: USDNPOS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDNPOS.png
-logoKey: currencies/usdnpos.png
-name: Neutrino USD (Polygon)
-platform: MATIC
-platform_contract: '0x013f9c3fac3e2759d7e90aca4f9540f75194a0d7'

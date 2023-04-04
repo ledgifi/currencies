@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: THREEFOLDBEP20
-id_nomics: THREEFOLDBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THREEFOLDBEP20.jpeg
-logoKey: currencies/threefoldbep20.jpeg
-name: ThreeFold Token (BEP-20)
-platform: BNB
-platform_contract: '0x8f0fb159380176d324542b3a7933f0c2fd0c2bbf'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: EPAY2
-id_nomics: EPAY2
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EPAY2.jpg
-logoKey: currencies/epay2.jpg
-name: EthereumPay
-platform: ETH
-platform_contract: '0x2b5ca2f9510cf1e3595ff219f24d75d4244585ea'

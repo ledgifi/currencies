@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: PAYUSD
-id_nomics: PAYUSD
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAYUSD.png
-logoKey: currencies/payusd.png
-name: PayUSD
-platform: ETH
-platform_contract: '0x38d389c300357a26beec198f3893fba54fde69c5'

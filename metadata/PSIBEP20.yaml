@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: PSIBEP20
-id_nomics: PSIBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PSI.jpg
-logoKey: currencies/psibep20.jpg
-name: Passive Income (BEP-20)
-platform: BNB
-platform_contract: '0x9a5d9c681db43d9863e9279c800a39449b7e1d6f'

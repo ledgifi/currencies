@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: CRYPTOFORECAST
-id_nomics: CRYPTOFORECAST
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRYPTOFORECAST.png
-logoKey: currencies/cryptoforecast.png
-name: CryptoForecast
-platform: ETH
-platform_contract: '0xc5d350b854a6cff0fc5a38a115a90c774dcae1b9'

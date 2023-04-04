@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: NTP
-id_nomics: NTP
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NTP.png
-logoKey: currencies/ntp.png
-name: NETWORK TOKEN PAYMENT
-platform: ETH
-platform_contract: '0x58a2263f77e1b23a74a3d99b9d01506da308800b'

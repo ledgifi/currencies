@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: DXS
-id_nomics: DXS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DXS.jpg
-logoKey: currencies/dxs.jpg
-name: Dexstream
-platform: ETH
-platform_contract: '0x560dfad1e30042c833a2922f0b729138d703784b'

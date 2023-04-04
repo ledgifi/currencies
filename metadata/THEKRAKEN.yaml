@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: THEKRAKEN
-id_nomics: THEKRAKEN
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THEKRAKEN.png
-logoKey: currencies/thekraken.png
-name: The Kraken
-platform: BNB
-platform_contract: '0x3481ae06214239a896c618bb1c80e0e94ab9d306'

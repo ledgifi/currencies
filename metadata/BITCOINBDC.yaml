@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: BITCOINBDC
-id_nomics: BITCOINBDC
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BITCOINBDC.jpg
-logoKey: currencies/bitcoinbdc.jpg
-name: Bitcoin BDC
-platform: BNB
-platform_contract: '0x8d57b0d11b22c7d06f8f3959acbf4119a714238a'

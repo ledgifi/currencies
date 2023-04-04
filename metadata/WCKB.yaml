@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: WCKB
-id_nomics: WCKB
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WCKB.png
-logoKey: currencies/wckb.png
-name: Wrapped CKB
-platform: CKB
-platform_contract: '0xc296f806d15e97243a08334256c705ba5c5754cd'

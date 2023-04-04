@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: IOTXERC20
-id_nomics: IOTXERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IOTXERC20.jpeg
-logoKey: currencies/iotxerc20.jpeg
-name: IoTeX (ERC-20)
-platform: ETH
-platform_contract: '0x6fb3e0a217407efff7ca062d46c26e5d60a14d69'

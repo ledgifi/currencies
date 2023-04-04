@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: ILNPOS
-id_nomics: ILNPOS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ILNPOS.png
-logoKey: currencies/ilnpos.png
-name: Ilien (Polygon)
-platform: MATIC
-platform_contract: '0x2baa79e7c13c302210436455925e68ad8fa687f0'

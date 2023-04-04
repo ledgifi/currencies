@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: USDDERC20
-id_nomics: USDDERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDDERC20.png
-logoKey: currencies/usdderc20.png
-name: Decentralized USD (ERC-20)
-platform: ETH
-platform_contract: '0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6'

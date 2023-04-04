@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: ASUSD
-id_nomics: ASUSD
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASUSD.jpg
-logoKey: currencies/asusd.jpg
-name: Aave SUSD v1
-platform: ETH
-platform_contract: '0x625ae63000f46200499120b906716420bd059240'

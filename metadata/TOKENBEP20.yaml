@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: TOKENBEP20
-id_nomics: TOKENBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOKEN.png
-logoKey: currencies/tokenbep20.png
-name: ChainSwapMapping Token (BEP-20)
-platform: BNB
-platform_contract: '0x3b73c1b2ea59835cbfcadade5462b6ab630d9890'

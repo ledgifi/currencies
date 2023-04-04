@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: KUDOS
-id_nomics: KUDOS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KUDOS.png
-logoKey: currencies/kudos.png
-name: KudosToken
-platform: ETH
-platform_contract: '0x10e0dcb6338233c60d1d3a714e8b1c1bb74d5b79'

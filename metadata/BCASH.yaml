@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: BCASH
-id_nomics: BCASH
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BCASH.png
-logoKey: currencies/bcash.png
-name: BankCoin BCash
-platform: ETH
-platform_contract: '0xb5bb48567bfd0bfe9e4b08ef8b7f91556cc2a112'

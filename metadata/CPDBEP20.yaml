@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: CPDBEP20
-id_nomics: CPDBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CPDBEP20.jpg
-logoKey: currencies/cpdbep20.jpg
-name: Coinspaid (BEP-20)
-platform: BNB
-platform_contract: '0x2406dce4da5ab125a18295f4fb9fd36a0f7879a2'

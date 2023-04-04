@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: BLDR
-id_nomics: BLDR
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLDR.png
-logoKey: currencies/bldr.png
-name: BuilderCoin
-platform: MATIC
-platform_contract: '0x94fa3cb4dc288194b7006f3b405011dc60c57d01'

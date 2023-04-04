@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: RKETH
-id_nomics: RKETH
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RKETH.jpg
-logoKey: currencies/rketh.jpg
-name: RootKit [Wrapped ETH]
-platform: ETH
-platform_contract: '0x1df2099f6abbf0b05c12a61835137d84f10daa96'

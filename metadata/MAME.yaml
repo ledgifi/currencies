@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: MAME
-id_nomics: MAME
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAME.png
-logoKey: currencies/mame.png
-name: mameCoin
-platform: ETH
-platform_contract: '0xabccaadd77078a67622dfd5f74066ce4581c0a99'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: PEKCERC20
-id_nomics: PEKCERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEKCERC20.jpg
-logoKey: currencies/pekcerc20.jpg
-name: Peacockcoin (ERC-20)
-platform: ETH
-platform_contract: '0x398dc1c12a268b657abd0cd88999156228acb91a'

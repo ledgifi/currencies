@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: ETHOBEP20
-id_nomics: ETHOBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHOBEP20.jpg
-logoKey: currencies/ethobep20.jpg
-name: Wrapped ETHO (BEP-20)
-platform: BNB
-platform_contract: '0x0e900aa6ed4244c43d597e6d2f8fb3994303ed99'

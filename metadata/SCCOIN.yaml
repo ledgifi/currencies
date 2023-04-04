@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: SCCOIN
-id_nomics: SCCOIN
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/sccoin.jpg
-logoKey: currencies/sccoin.jpg
-name: SiaCashCoin
-platform: ETH
-platform_contract: '0x74fd51a98a4a1ecbef8cc43be801cce630e260bd'

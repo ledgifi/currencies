@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: LMTBEP20
-id_nomics: LMTBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LMT.jpg
-logoKey: currencies/lmtbep20.jpg
-name: Lympo Market Token (BEP-20)
-platform: BNB
-platform_contract: '0x9617857e191354dbea0b714d78bc59e57c411087'

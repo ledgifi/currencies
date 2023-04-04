@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: SHBMABEP20
-id_nomics: SHBMABEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHBMA.jpg
-logoKey: currencies/shbmabep20.jpg
-name: ShibaMask (BEP-20)
-platform: BNB
-platform_contract: '0x1c384884637099fc002730389aa3760a3c886fee'

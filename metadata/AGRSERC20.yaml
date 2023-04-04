@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: AGRSERC20
-id_nomics: AGRSERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AGRSERC20.jpg
-logoKey: currencies/agrserc20.jpg
-name: Agoras Token (ERC-20)
-platform: ETH
-platform_contract: '0x738865301a9b7dd80dc3666dd48cf034ec42bdda'

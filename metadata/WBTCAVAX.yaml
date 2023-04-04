@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: WBTCAVAX
-id_nomics: WBTCAVAX
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WBTCAVAX.png
-logoKey: currencies/wbtcavax.png
-name: Wrapped Bitcoin (Avalance)
-platform: AVAX
-platform_contract: '0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab'

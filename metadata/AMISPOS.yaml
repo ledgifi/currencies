@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: AMISPOS
-id_nomics: AMISPOS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AMISPOS.jpg
-logoKey: currencies/amispos.jpg
-name: AMIS (Polygon)
-platform: MATIC
-platform_contract: '0x6f57ec3c983a04c9bf9958c9e908c39a3cd0870d'

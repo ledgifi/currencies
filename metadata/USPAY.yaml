@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: USPAY
-id_nomics: USPAY
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USPAY.png
-logoKey: currencies/uspay.png
-name: UsPay
-platform: ETH
-platform_contract: '0x452f6de535f613b92443f5446ae4e7c1c4ad01f2'

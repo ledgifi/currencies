@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: ETHO3
-id_nomics: ETHO3
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHO3.jpg
-logoKey: currencies/etho3.jpg
-name: Wrapped ETHO (ERC-20)
-platform: ETH
-platform_contract: '0x0b5326da634f9270fb84481dd6f94d3dc2ca7096'

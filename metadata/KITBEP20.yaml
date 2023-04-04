@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: KITBEP20
-id_nomics: KITBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KITBEP20.png
-logoKey: currencies/kitbep20.png
-name: DexKit (BEP-20)
-platform: BNB
-platform_contract: '0x314593fa9a2fa16432913dbccc96104541d32d11'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: ACBEP20
-id_nomics: ACBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACBEP20.jpg
-logoKey: currencies/acbep20.jpg
-name: ACoconut (BEP-20)
-platform: BNB
-platform_contract: '0x5b45a9be49c94236e127efcc601b7e7a1a485d0a'

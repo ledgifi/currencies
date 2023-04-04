@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: TPSC
-id_nomics: TPSC
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TPSC.png
-logoKey: currencies/tpsc.png
-name: Terrapass Coin (PoS)
-platform: MATIC
-platform_contract: '0x0a2a95978ce57395dbf33696d34e222e1eacde4e'

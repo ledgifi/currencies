@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: USDCEWT
-id_nomics: USDCEWT
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDCEWT.png
-logoKey: currencies/usdcewt.png
-name: USD Coin on Energy Web Chain
-platform: EWT
-platform_contract: '0x9DaD43ee9E09837aeAca21799c88613e8E7c67dd'

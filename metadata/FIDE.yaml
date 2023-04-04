@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: FIDE
-id_nomics: FIDE
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FIDE.png
-logoKey: currencies/fide.png
-name: Fidelity Token
-platform: ETH
-platform_contract: '0x40b5ccf92f9c980fbc6f2f0c0af7a4afff0f7c48'

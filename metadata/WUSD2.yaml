@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: WUSD2
-id_nomics: WUSD2
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WUSD2.jpg
-logoKey: currencies/wusd2.jpg
-name: Wrapped USD
-platform: ETH
-platform_contract: '0x7c974104df9dd7fb91205ab3d66d15aff1049de8'

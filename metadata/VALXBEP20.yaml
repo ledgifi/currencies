@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: VALXBEP20
-id_nomics: VALXBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VALXBEP20.png
-logoKey: currencies/valxbep20.png
-name: Validator (BEP-20)
-platform: BNB
-platform_contract: '0x2210502051221a600d3653eccc899eceea11a0fd'

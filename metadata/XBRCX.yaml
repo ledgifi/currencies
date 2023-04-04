@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: XBRCX
-id_nomics: XBRCX
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XBRCX.jpg
-logoKey: currencies/xbrcx.jpg
-name: Brent Crude Oil Spot Token
-platform: ETH
-platform_contract: '0x35d9ff00fbd73f2e73ba3e1e99c0a0c5f967518d'

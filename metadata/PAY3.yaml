@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: PAY3
-id_nomics: PAY3
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAY3.png
-logoKey: currencies/pay3.png
-name: PayBolt
-platform: BNB
-platform_contract: '0xe580074a10360404af3abfe2d524d5806d993ea3'

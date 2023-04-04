@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: EVEERC20
-id_nomics: EVEERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVEERC20.png
-logoKey: currencies/eveerc20.png
-name: EVE Token
-platform: ETH
-platform_contract: '0x0f628641d0ea1ecab9341e58d4982c0018a51c6b'

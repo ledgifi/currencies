@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: FXSPOS
-id_nomics: FXSPOS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FXSPOS.jpg
-logoKey: currencies/fxspos.jpg
-name: Frax Share (Polygon)
-platform: MATIC
-platform_contract: '0x1a3acf6d19267e2d3e7f898f42803e90c9219062'

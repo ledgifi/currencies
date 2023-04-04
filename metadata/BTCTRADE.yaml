@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: BTCTRADE
-id_nomics: BTCTRADE
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCTRADE.png
-logoKey: currencies/btctrade.png
-name: Bitcoin Trade
-platform: BNB
-platform_contract: '0xdcc342647a84d25220e0c4b4cde3ed39ff68f099'

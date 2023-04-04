@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: FUND
-id_nomics: FUND
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FUND.png
-logoKey: currencies/fund.png
-name: FUNDChains
-platform: ETH
-platform_contract: '0xd20bcbd56d9d551cac10a6bc2a83635bfb72f3f4'

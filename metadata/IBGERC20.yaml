@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: IBGERC20
-id_nomics: IBGERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IBGERC20.jpg
-logoKey: currencies/ibgerc20.jpg
-name: iBG (ERC-20)
-platform: ETH
-platform_contract: '0xf16cd087e1c2c747b2bdf6f9a5498aa400d99c24'

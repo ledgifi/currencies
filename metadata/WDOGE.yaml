@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: WDOGE
-id_nomics: WDOGE
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WDOGE.jpg
-logoKey: currencies/wdoge.jpg
-name: Wrapped DogeCoin
-platform: ETH
-platform_contract: '0x35a532d376ffd9a705d0bb319532837337a398e7'

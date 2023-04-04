@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: UUSDC
-id_nomics: UUSDC
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UUSDC.jpg
-logoKey: currencies/uusdc.jpg
-name: Unagii USD Coin
-platform: ETH
-platform_contract: '0xbc5991ccd8caceba01edc44c2bb9832712c29cab'

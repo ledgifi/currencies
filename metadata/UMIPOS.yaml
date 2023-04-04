@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: UMIPOS
-id_nomics: UMIPOS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UMIPOS.PNG
-logoKey: currencies/umipos.png
-name: UMI (Polygon)
-platform: MATIC
-platform_contract: '0x10adf16a60f0020477c70473d6ea595d9bc29372'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: GOLDCX
-id_nomics: GOLDCX
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GOLDCX.jpg
-logoKey: currencies/goldcx.jpg
-name: Gold Spot Token
-platform: ETH
-platform_contract: '0xd6bfc2d9c5bf6eec918a7ebc4e80843876efd6ae'

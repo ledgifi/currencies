@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: CNDLPOS
-id_nomics: CNDLPOS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CNDLPOS.png
-logoKey: currencies/cndlpos.png
-name: Candle (Polygon)
-platform: MATIC
-platform_contract: '0x5423063af146f5abf88eb490486e6b53fa135ec9'

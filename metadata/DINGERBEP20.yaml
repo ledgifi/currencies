@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: DINGERBEP20
-id_nomics: DINGERBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DINGERBEP20.jpg
-logoKey: currencies/dingerbep20.jpg
-name: Dinger (BEP-20)
-platform: BNB
-platform_contract: '0x0d3843f92d622468ba67df5a6a4149b484a75af3'

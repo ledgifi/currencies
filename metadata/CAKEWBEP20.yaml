@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: CAKEWBEP20
-id_nomics: CAKEWBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAKEWBEP20.png
-logoKey: currencies/cakewbep20.png
-name: CakeWSwap (BEP-20)
-platform: BNB
-platform_contract: '0x2876992cdd3b48a08375768d7fc7f4ac7154d114'

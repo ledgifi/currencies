@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: GWUSDN
-id_nomics: GWUSDN
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GWUSDN.png
-logoKey: currencies/gwusdn.png
-name: Wrapped Neutrino USD
-platform: BNB
-platform_contract: '0xc4b6f32b84657e9f6a73fe119f0967be5ba8cf05'

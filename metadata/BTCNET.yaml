@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: BTCNET
-id_nomics: BTCNET
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCNET.png
-logoKey: currencies/btcnet.png
-name: Bitcoin Network
-platform: BNB
-platform_contract: '0x4ff1f474dc704a48bc5443002dd7e78fc38f94f7'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: TLOSERC20
-id_nomics: TLOSERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TLOSERC20.jpg
-logoKey: currencies/tloserc20.jpg
-name: pTokens TLOS (ERC-20)
-platform: ETH
-platform_contract: '0x7825e833d495f3d1c28872415a4aee339d26ac88'

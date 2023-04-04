@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: BTCFUND
-id_nomics: BTCFUND
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCFUND.png
-logoKey: currencies/btcfund.png
-name: BTC Fund Active Trading Set
-platform: ETH
-platform_contract: '0x2409d6059e2a8130c099e49f3cb418fd6c3d9aff'

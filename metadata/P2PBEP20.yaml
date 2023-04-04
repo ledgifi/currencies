@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: P2PBEP20
-id_nomics: P2PBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/P2PBEP20.jpeg
-logoKey: currencies/p2pbep20.jpeg
-name: P2PCOIN (BEP-20)
-platform: BNB
-platform_contract: '0x041837622b3f67fee9d91c61293397e659eed337'

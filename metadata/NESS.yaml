@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: NESS
-id_nomics: NESS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NESS.jpg
-logoKey: currencies/ness.jpg
-name: PrivateNess Network (Wrapped ERC20)
-platform: ETH
-platform_contract: '0x4099ead28e22b9cd6b1b6f5cb354a99631c64404'

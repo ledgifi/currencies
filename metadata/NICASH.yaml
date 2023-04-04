@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: NICASH
-id_nomics: NICASH
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NICASH.jpg
-logoKey: currencies/nicash.jpg
-name: Nicash
-platform: ETH
-platform_contract: '0x977e5f1bc595db78dcc0e78a6fdfa08e988ca264'

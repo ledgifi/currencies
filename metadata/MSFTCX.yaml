@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: MSFTCX
-id_nomics: MSFTCX
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MSFTCX.jpg
-logoKey: currencies/msftcx.jpg
-name: Microsoft Corporation Token
-platform: ETH
-platform_contract: '0x8a9e5032803ff0867f5c58e08d268c089f57cbb5'

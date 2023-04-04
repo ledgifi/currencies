@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: SWTHBEP20
-id_nomics: SWTHBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWTHBEP20.jpg
-logoKey: currencies/swthbep20.jpg
-name: Switcheo Token (BEP-20)
-platform: BNB
-platform_contract: '0x250b211ee44459dad5cd3bca803dd6a7ecb5d46c'

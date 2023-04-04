@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: USDNERC20
-id_nomics: USDNERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDNERC20.jpg
-logoKey: currencies/usdnerc20.jpg
-name: Neutrino USD (ERC-20)
-platform: ETH
-platform_contract: '0x674c6ad92fd080e4004b2312b45f796a192d27a0'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: FEI
-id_nomics: FEI
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FEI.png
-logoKey: currencies/fei.png
-name: Fei USD
-platform: ETH
-platform_contract: '0x956f47f50a910163d8bf957cf5846d573e7f87ca'

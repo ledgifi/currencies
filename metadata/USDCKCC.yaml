@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: USDCKCC
-id_nomics: USDCKCC
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDCKCC.jpg
-logoKey: currencies/usdckcc.jpg
-name: USD Coin (KCC)
-platform: KCS
-platform_contract: '0x980a5afef3d17ad98635f6c5aebcbaeded3c3430'

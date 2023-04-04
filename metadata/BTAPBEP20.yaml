@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: BTAPBEP20
-id_nomics: BTAPBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTAPBEP20.png
-logoKey: currencies/btapbep20.png
-name: BTA Protocol (BEP-20)
-platform: BNB
-platform_contract: '0xe251f9bc3e1ccb247847d3af28c4fa9b9c180a47'

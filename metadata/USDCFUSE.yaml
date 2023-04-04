@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: USDCFUSE
-id_nomics: USDCFUSE
-logo: https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png
-logoKey: currencies/usdcfuse.png
-name: USD Coin (Fuse)
-platform: FUSE
-platform_contract: '0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5'

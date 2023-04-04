@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: WXTERC20
-id_nomics: WXTERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WXTERC20.png
-logoKey: currencies/wxterc20.png
-name: Wirex (ERC-20)
-platform: ETH
-platform_contract: '0xa02120696c7b8fe16c09c749e4598819b2b0e915'

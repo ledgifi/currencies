@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: VSS
-id_nomics: VSS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VSS.png
-logoKey: currencies/vss.png
-name: Vault Smart Security
-platform: ETH
-platform_contract: '0x1dd34b35d96f5159567ef4cad2c69c0f87c3195c'

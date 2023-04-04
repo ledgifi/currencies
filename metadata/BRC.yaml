@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: BRC
-id_nomics: BRC
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRC.png
-logoKey: currencies/brc.png
-name: BaerChain
-platform: ETH
-platform_contract: '0x21ab6c9fac80c59d401b37cb43f81ea9dde7fe34'

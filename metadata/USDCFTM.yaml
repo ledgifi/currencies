@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: USDCFTM
-id_nomics: USDCFTM
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDCFTM.jpg
-logoKey: currencies/usdcftm.jpg
-name: USDC (Fantom)
-platform: FTM
-platform_contract: '0x04068da6c83afcfa0e13ba15a6696662335d5b75'

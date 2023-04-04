@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: IFVBEP20
-id_nomics: IFVBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IFVBEP20.jpeg
-logoKey: currencies/ifvbep20.jpeg
-name: Infliv (BEP-20)
-platform: BNB
-platform_contract: '0x77a9824837ce02118e0d1814115456088cc149d0'

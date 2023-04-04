@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: IUSDSPOS
-id_nomics: IUSDSPOS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IUSDSPOS.png
-logoKey: currencies/iusdspos.png
-name: Inflation Adjusted Spice USD (Polygon)
-platform: MATIC
-platform_contract: '0x66f31345cb9477b427a1036d43f923a557c432a4'

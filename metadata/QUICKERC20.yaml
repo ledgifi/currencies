@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: QUICKERC20
-id_nomics: QUICKERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QUICKERC20.jpg
-logoKey: currencies/quickerc20.jpg
-name: Quickswap (ERC-20)
-platform: ETH
-platform_contract: '0x6c28aef8977c9b773996d0e8376d2ee379446f2f'

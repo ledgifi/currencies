@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: ORBITEX
-id_nomics: ORBITEX
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORBITEX.png
-logoKey: currencies/orbitex.png
-name: Orbitex
-platform: BNB
-platform_contract: '0x7fc61a6c2382a825684de5856529e86b9c5b6690'

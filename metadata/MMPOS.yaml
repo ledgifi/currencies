@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: MMPOS
-id_nomics: MMPOS
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MMPOS.jpg
-logoKey: currencies/mmpos.jpg
-name: Million (Polygon)
-platform: MATIC
-platform_contract: '0x5647fe4281f8f6f01e84bce775ad4b828a7b8927'

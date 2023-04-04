@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: XCNBEP20
-id_nomics: XCNBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XCNBEP20.jpg
-logoKey: currencies/xcnbep20.jpg
-name: Chain (BEP-20)
-platform: BNB
-platform_contract: '0x7324c7C0d95CEBC73eEa7E85CbAac0dBdf88a05b'

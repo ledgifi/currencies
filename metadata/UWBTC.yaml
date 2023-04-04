@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: UWBTC
-id_nomics: UWBTC
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UWBTC.jpg
-logoKey: currencies/uwbtc.jpg
-name: Unagii Wrapped Bitcoin
-platform: ETH
-platform_contract: '0x3af5ba94c29a8407785f5f6d90ef5d69a8eb2436'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: FASTBEP20
-id_nomics: FASTBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FASTBEP20.jpg
-logoKey: currencies/fastbep20.jpg
-name: FastSwap (BEP-20)
-platform: BNB
-platform_contract: '0x2322afaac81697e770c19a58df587d8739777536'

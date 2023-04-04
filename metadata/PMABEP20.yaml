@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: PMABEP20
-id_nomics: PMABEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PMABEP20.jpg
-logoKey: currencies/pmabep20.jpg
-name: PumaPay (BEP-20)
-platform: BNB
-platform_contract: '0x43a167b15a6f24913a8b4d35488b36ac15d39200'

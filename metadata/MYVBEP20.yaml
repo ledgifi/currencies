@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: MYVBEP20
-id_nomics: MYVBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MYVBEP20.png
-logoKey: currencies/myvbep20.png
-name: Money Versum (BEP-20)
-platform: BNB
-platform_contract: '0xf7369cdf9e799e7f7f49725f450f7d0cc714a455'

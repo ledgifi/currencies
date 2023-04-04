@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: ACH3
-id_nomics: ACH3
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ACH3.jpg
-logoKey: currencies/ach3.jpg
-name: Alchemy Pay
-platform: ETH
-platform_contract: '0xed04915c23f00a313a544955524eb7dbd823143d'

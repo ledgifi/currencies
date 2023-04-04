@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: SPICEERC20
-id_nomics: SPICEERC20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPICEERC20.png
-logoKey: currencies/spiceerc20.png
-name: Spice Trade (ERC-20)
-platform: ETH
-platform_contract: '0x18a1ea69a50a85752b7bc204a2c45a95ce6e429d'

@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: CIBC
-id_nomics: CIBC
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CIBC.jpg
-logoKey: currencies/cibc.jpg
-name: CashinBid Main
-platform: BNB
-platform_contract: '0x493f2ea0361aa829d67250f401097aee38cac9af'

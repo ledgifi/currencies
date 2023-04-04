@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: BTCCLASSICTOKEN
-id_nomics: BTCCLASSICTOKEN
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTCCLASSICTOKEN.png
-logoKey: currencies/btcclassictoken.png
-name: Bitcoin Classic Token
-platform: ETH
-platform_contract: '0x1be6d61b1103d91f7f86d47e6ca0429259a15ff0'

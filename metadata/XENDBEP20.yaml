@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: XENDBEP20
-id_nomics: XENDBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XEND.jpg
-logoKey: currencies/xendbep20.jpg
-name: XEND (BEP-20)
-platform: BNB
-platform_contract: '0x4a080377f83d669d7bb83b3184a8a5e61b500608'

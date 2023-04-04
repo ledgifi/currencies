@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: MOOVBEP20
-id_nomics: MOOVBEP20
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOOVBEP20.jpg
-logoKey: currencies/moovbep20.jpg
-name: dotmoovs (BEP-20)
-platform: BNB
-platform_contract: '0x0ebd9537a25f56713e34c45b38f421a1e7191469'

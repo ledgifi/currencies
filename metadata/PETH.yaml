@@ -1,9 +1,0 @@
-crypto: true
-fiat: false
-id: PETH
-id_nomics: PETH
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PETH.jpg
-logoKey: currencies/peth.jpg
-name: Pooled Ether Token
-platform: ETH
-platform_contract: '0xf53ad2c6851052a81b42133467480961b2321c09'
