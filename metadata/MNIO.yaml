@@ -1,8 +1,9 @@
+contracts:
+  - address: terra1dj2cj02zak0nvwy3uj9r9dhhxhdwxnw6psse6p
+    platform: LUNC
 crypto: true
 fiat: false
 id: MNIO
 id_coinmarketcap: '17372'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17372.png
 name: Mirrored Nio
-platform: LUNC
-platform_contract: terra1dj2cj02zak0nvwy3uj9r9dhhxhdwxnw6psse6p

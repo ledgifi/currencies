@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x350758e4a1256561fd0ee142dc7e0545f561fadc'
+    platform: ETH
 crypto: true
 fiat: false
 id: B2U
 id_coinmarketcap: '7780'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7780.png
 name: B2U Coin
-platform: ETH
-platform_contract: '0x350758e4a1256561fd0ee142dc7e0545f561fadc'

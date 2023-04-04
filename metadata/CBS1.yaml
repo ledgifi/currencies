@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3b3df74ad4d0ff7fd225e773ade6fc1c4fcc043f'
+    platform: BNB
 crypto: true
 fiat: false
 id: CBS1
 id_coinmarketcap: '18625'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18625.png
 name: CyborgShiba
-platform: BNB
-platform_contract: '0x3b3df74ad4d0ff7fd225e773ade6fc1c4fcc043f'

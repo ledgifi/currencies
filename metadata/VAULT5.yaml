@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x92da405b6771c9Caa7988A41dd969a73d10A3cc6'
+    platform: BNB
 crypto: true
 fiat: false
 id: VAULT5
 id_coinmarketcap: '12877'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12877.png
 name: Vault-X
-platform: BNB
-platform_contract: '0x92da405b6771c9Caa7988A41dd969a73d10A3cc6'

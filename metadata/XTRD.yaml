@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9c794f933b4dd8b49031a79b0f924d68bef43992'
+    platform: ETH
 crypto: true
 fiat: false
 id: XTRD
 id_coinmarketcap: '3067'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3067.png
 name: XTRD
-platform: ETH
-platform_contract: '0x9c794f933b4dd8b49031a79b0f924d68bef43992'

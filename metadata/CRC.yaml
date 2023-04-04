@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf7bcac494fd9530c183dae30db48d45144ff2c77'
+    platform: BNB
 crypto: true
 fiat: false
 id: CRC
 id_coinmarketcap: '13831'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13831.png
 name: Crypto Classic
-platform: BNB
-platform_contract: '0xf7bcac494fd9530c183dae30db48d45144ff2c77'

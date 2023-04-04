@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xAE788F80F2756A86aa2F410C651F2aF83639B95b'
+    platform: ETH
 crypto: true
 fiat: false
 id: MV
 id_coinmarketcap: '17704'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17704.png
 name: GensoKishi Metaverse
-platform: ETH
-platform_contract: '0xAE788F80F2756A86aa2F410C651F2aF83639B95b'

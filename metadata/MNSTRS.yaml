@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x287Db351d5230716246CfB46AF8153025eDa6A0a'
+    platform: BNB
 crypto: true
 fiat: false
 id: MNSTRS
 id_coinmarketcap: '11777'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11777.png
 name: Block Monsters
-platform: BNB
-platform_contract: '0x287Db351d5230716246CfB46AF8153025eDa6A0a'

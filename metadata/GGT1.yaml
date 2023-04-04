@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd2359c576632234D1354B20Bf51B0277Be20C81e'
+    platform: BNB
 crypto: true
 fiat: false
 id: GGT1
 id_coinmarketcap: '22527'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22527.png
 name: GameGuru
-platform: BNB
-platform_contract: '0xd2359c576632234D1354B20Bf51B0277Be20C81e'

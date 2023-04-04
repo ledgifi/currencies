@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb428b0d491516aad256386180945c52423907a61'
+    platform: BITCI
 crypto: true
 fiat: false
 id: DNZ
 id_coinmarketcap: '22520'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22520.png
 name: Denizlispor Fan Token
-platform: BITCI
-platform_contract: '0xb428b0d491516aad256386180945c52423907a61'

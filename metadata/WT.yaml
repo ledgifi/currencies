@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaae81c0194d6459f320b70ca0cedf88e11a242ce'
+    platform: ETH
 crypto: true
 fiat: false
 id: WT
 id_coinmarketcap: '2959'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2959.png
 name: WeToken
-platform: ETH
-platform_contract: '0xaae81c0194d6459f320b70ca0cedf88e11a242ce'

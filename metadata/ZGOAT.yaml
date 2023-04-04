@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2cbd87ce69a40ac91378eb8844ef45115a6a5617'
+    platform: BNB
 crypto: true
 fiat: false
 id: ZGOAT
 id_coinmarketcap: '9705'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9705.png
 name: GOAT Zuckerberg
-platform: BNB
-platform_contract: '0x2cbd87ce69a40ac91378eb8844ef45115a6a5617'

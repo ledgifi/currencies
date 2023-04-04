@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc18652048c0bedaab6b1ae9c853e7589c59c1df4'
+    platform: BNB
 crypto: true
 fiat: false
 id: EXS
 id_coinmarketcap: '12923'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12923.png
 name: Ex Sports
-platform: BNB
-platform_contract: '0xc18652048c0bedaab6b1ae9c853e7589c59c1df4'

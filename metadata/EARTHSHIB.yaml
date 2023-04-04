@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf4871deC85CBF4B7afB5d8935B10bA5C3A14910c'
+    platform: BNB
 crypto: true
 fiat: false
 id: EARTHSHIB
 id_coinmarketcap: '15081'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15081.png
 name: The Earth Shiba
-platform: BNB
-platform_contract: '0xf4871deC85CBF4B7afB5d8935B10bA5C3A14910c'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x44960a05db54d2be7d0ee3039f9f9ee44c5017ea'
+    platform: BNB
 crypto: true
 fiat: false
 id: CONT1
 id_coinmarketcap: '18874'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18874.png
 name: Content Coin
-platform: BNB
-platform_contract: '0x44960a05db54d2be7d0ee3039f9f9ee44c5017ea'

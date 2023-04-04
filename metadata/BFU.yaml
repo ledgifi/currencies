@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8927282a3d05EF5F7dc24eD0eE009be264d2ebd7'
+    platform: BNB
 crypto: true
 fiat: false
 id: BFU
 id_coinmarketcap: '13752'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13752.png
 name: Baby Floki Up
-platform: BNB
-platform_contract: '0x8927282a3d05EF5F7dc24eD0eE009be264d2ebd7'

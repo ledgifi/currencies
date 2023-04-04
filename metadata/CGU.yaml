@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x849a226f327b89e3133d9930d927f9eb9346f8c9'
+    platform: ETH
 crypto: true
 fiat: false
 id: CGU
 id_coinmarketcap: '13659'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13659.png
 name: Crypto Global United
-platform: ETH
-platform_contract: '0x849a226f327b89e3133d9930d927f9eb9346f8c9'

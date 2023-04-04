@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6aac56305825f712fd44599e59f2ede51d42c3e7'
+    platform: BNB
 crypto: true
 fiat: false
 id: BREWLABS
 id_coinmarketcap: '16405'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16405.png
 name: Brewlabs
-platform: BNB
-platform_contract: '0x6aac56305825f712fd44599e59f2ede51d42c3e7'

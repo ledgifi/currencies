@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8918bb91882ce41d9d9892246e4b56e4571a9fd5'
+    platform: BNB
 crypto: true
 fiat: false
 id: FNG
 id_coinmarketcap: '11895'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11895.png
 name: Fungie DAO
-platform: BNB
-platform_contract: '0x8918bb91882ce41d9d9892246e4b56e4571a9fd5'

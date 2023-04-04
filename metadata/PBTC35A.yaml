@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA8b12Cc90AbF65191532a12bb5394A714A46d358'
+    platform: ETH
 crypto: true
 fiat: false
 id: pBTC35A
 id_coinmarketcap: '8252'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8252.png
 name: pBTC35A
-platform: ETH
-platform_contract: '0xA8b12Cc90AbF65191532a12bb5394A714A46d358'

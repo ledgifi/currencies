@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9BedCE29F79076b21DD04958a9Fd4B22F63fD86D'
+    platform: BNB
 crypto: true
 fiat: false
 id: FRB
 id_coinmarketcap: '20870'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20870.png
 name: Freebie Life Finance
-platform: BNB
-platform_contract: '0x9BedCE29F79076b21DD04958a9Fd4B22F63fD86D'

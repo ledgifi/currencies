@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7d1232b90d3f809a54eeaeebc639c62df8a8942f'
+    platform: AVAX
 crypto: true
 fiat: false
 id: SB1
 id_coinmarketcap: '14027'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14027.png
 name: Snowbank
-platform: AVAX
-platform_contract: '0x7d1232b90d3f809a54eeaeebc639c62df8a8942f'

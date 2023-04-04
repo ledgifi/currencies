@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x36d38e232659dea52f5fdb1a0f90709e6dc6994a'
+    platform: ETH
 crypto: true
 fiat: false
 id: BARG
 id_coinmarketcap: '4763'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4763.png
 name: Bitbarg
-platform: ETH
-platform_contract: '0x36d38e232659dea52f5fdb1a0f90709e6dc6994a'

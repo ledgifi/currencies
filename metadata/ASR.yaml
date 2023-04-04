@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x235639F72E127bBdd1509BFC9DC6e2caeb3FB741'
+    platform: CHZ
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: ASR2
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201223/32ff8f55-c0ff-4793-bf21-16a8c71f6c16.png
 logoKey: currencies/asr.png
 name: AS Roma Fan Token
-platform: CHZ
-platform_contract: '0x235639F72E127bBdd1509BFC9DC6e2caeb3FB741'

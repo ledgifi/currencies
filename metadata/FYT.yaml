@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x77f2be773ca0887ba2b3ef8344c8cf13c98d8ca7'
+    platform: BNB
 crypto: true
 fiat: false
 id: FYT
 id_coinmarketcap: '23531'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23531.png
 name: FloraChain
-platform: BNB
-platform_contract: '0x77f2be773ca0887ba2b3ef8344c8cf13c98d8ca7'

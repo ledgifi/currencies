@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd4bC850c0B3cDcb2417cfD77fAABEa1f47F09fd8'
+    platform: BNB
 crypto: true
 fiat: false
 id: MSGO
 id_coinmarketcap: '22539'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22539.png
 name: MetaSetGO
-platform: BNB
-platform_contract: '0xd4bC850c0B3cDcb2417cfD77fAABEa1f47F09fd8'

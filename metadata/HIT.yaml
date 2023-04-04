@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7995ab36bB307Afa6A683C24a25d90Dc1Ea83566'
+    platform: ETH
 crypto: true
 fiat: false
 id: HIT
 id_coinmarketcap: '3182'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3182.png
 name: HitChain
-platform: ETH
-platform_contract: '0x7995ab36bB307Afa6A683C24a25d90Dc1Ea83566'

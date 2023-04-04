@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4673f018cc6d401aad0402bdbf2abcbf43dd69f3'
+    platform: BNB
 crypto: true
 fiat: false
 id: FCF
 id_coinmarketcap: '12780'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12780.png
 name: French Connection Finance
-platform: BNB
-platform_contract: '0x4673f018cc6d401aad0402bdbf2abcbf43dd69f3'

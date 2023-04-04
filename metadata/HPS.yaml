@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc9D53A339F3c22E016C6fA1E3Eb85AC32c75fED2'
+    platform: BNB
 crypto: true
 fiat: false
 id: HPS
 id_coinmarketcap: '8198'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8198.png
 name: Happiness Token
-platform: BNB
-platform_contract: '0xc9D53A339F3c22E016C6fA1E3Eb85AC32c75fED2'

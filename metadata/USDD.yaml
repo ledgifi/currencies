@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6'
+    platform: ETH
 crypto: true
 fiat: false
 id: USDD
@@ -6,5 +9,3 @@ id_nomics: USDD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDD.jpg
 logoKey: currencies/usdd.jpg
 name: USDD
-platform: ETH
-platform_contract: '0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8103bb77ed2035b5da9a3a65d9c313cb6ee41dbd'
+    platform: TOMO
 crypto: true
 fiat: false
 id: TAB
 id_coinmarketcap: '11185'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11185.png
 name: TABANK
-platform: TOMO
-platform_contract: '0x8103bb77ed2035b5da9a3a65d9c313cb6ee41dbd'

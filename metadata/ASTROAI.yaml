@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x64ac7203e106448aC2EC5E05D5045F5B02104E4d'
+    platform: BNB
 crypto: true
 fiat: false
 id: ASTROAI
 id_coinmarketcap: '23950'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23950.png
 name: Astro Ai
-platform: BNB
-platform_contract: '0x64ac7203e106448aC2EC5E05D5045F5B02104E4d'

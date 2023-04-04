@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x152888854378201e173490956085c711f1DeD565'
+    platform: FTM
 crypto: true
 fiat: false
 id: MST1
 id_coinmarketcap: '15395'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15395.png
 name: Monster
-platform: FTM
-platform_contract: '0x152888854378201e173490956085c711f1DeD565'

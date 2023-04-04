@@ -1,8 +1,9 @@
+contracts:
+  - address: '1004031'
+    platform: TRX
 crypto: true
 fiat: false
 id: LOVE4
 id_coinmarketcap: '20253'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20253.png
 name: Diamond Love
-platform: TRX
-platform_contract: '1004031'

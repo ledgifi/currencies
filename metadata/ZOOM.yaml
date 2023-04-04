@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x69cf3091c91eb72db05e45c76e58225177dea742'
+    platform: ETH
 crypto: true
 fiat: false
 id: ZOOM
 id_coinmarketcap: '5926'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5926.png
 name: CoinZoom
-platform: ETH
-platform_contract: '0x69cf3091c91eb72db05e45c76e58225177dea742'

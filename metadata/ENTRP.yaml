@@ -1,4 +1,7 @@
 color: '#fa5836'
+contracts:
+  - address: '0x5bc7e5f0ab8b2e10d2d0a3f21739fce62459aef3'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: ENTRP
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/entrp.svg
 logoKey: currencies/entrp.svg
 name: Hut34 Entropy
-platform: ETH
-platform_contract: '0x5bc7e5f0ab8b2e10d2d0a3f21739fce62459aef3'

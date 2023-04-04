@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcacc19c5ca77e06d6578decac80408cc036e0499'
+    platform: ETH
 crypto: true
 fiat: false
 id: MON2
 id_coinmarketcap: '16818'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16818.png
 name: Monfter
-platform: ETH
-platform_contract: '0xcacc19c5ca77e06d6578decac80408cc036e0499'

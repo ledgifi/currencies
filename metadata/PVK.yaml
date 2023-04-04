@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3f058a384c44a02fbeba30fdea467dbc94416ac9'
+    platform: ETH
 crypto: true
 fiat: false
 id: PVK
 id_coinmarketcap: '21992'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21992.png
 name: Privok Green Enegry
-platform: ETH
-platform_contract: '0x3f058a384c44a02fbeba30fdea467dbc94416ac9'

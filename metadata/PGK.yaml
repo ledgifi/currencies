@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x188a168280589bc3e483d77aae6b4a1d26bd22dc'
+    platform: FTM
 crypto: true
 fiat: false
 id: PGK
 id_coinmarketcap: '18137'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18137.png
 name: Penguin Karts
-platform: FTM
-platform_contract: '0x188a168280589bc3e483d77aae6b4a1d26bd22dc'

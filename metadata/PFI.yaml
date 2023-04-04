@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc9dbcff0448d330aaf1dd78fc204370e5e54a797'
+    platform: BNB
 crypto: true
 fiat: false
 id: PFI
 id_coinmarketcap: '21525'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21525.png
 name: PoodleFi
-platform: BNB
-platform_contract: '0xc9dbcff0448d330aaf1dd78fc204370e5e54a797'

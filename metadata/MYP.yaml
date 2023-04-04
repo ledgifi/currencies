@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x11f59d29Ba0A7B765C4a454fd46Ff40525a85402'
+    platform: BNB
 crypto: true
 fiat: false
 id: MYP
 id_coinmarketcap: '18619'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18619.png
 name: Mystic Poker
-platform: BNB
-platform_contract: '0x11f59d29Ba0A7B765C4a454fd46Ff40525a85402'

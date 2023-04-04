@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9689eD8698eFbaF6f7B9b42218E47d2dEDC134Eb'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIKA
 id_coinmarketcap: '22198'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22198.png
 name: Shika Token
-platform: BNB
-platform_contract: '0x9689eD8698eFbaF6f7B9b42218E47d2dEDC134Eb'

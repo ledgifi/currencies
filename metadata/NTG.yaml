@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa896928209881bcf9fc363210473bb10eb0c0a10'
+    platform: BNB
 crypto: true
 fiat: false
 id: NTG
 id_coinmarketcap: '21889'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21889.png
 name: NEWTOWNGAMING
-platform: BNB
-platform_contract: '0xa896928209881bcf9fc363210473bb10eb0c0a10'

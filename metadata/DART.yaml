@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5a4623F305A8d7904ED68638AF3B4328678edDBF'
+    platform: BNB
 crypto: true
 fiat: false
 id: dART
 id_coinmarketcap: '9098'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9098.png
 name: dART Insurance
-platform: BNB
-platform_contract: '0x5a4623F305A8d7904ED68638AF3B4328678edDBF'

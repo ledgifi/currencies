@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x956eaaaacb521558cd4485115df412aa01f1057e'
+    platform: ETH
 crypto: true
 fiat: false
 id: HOX
 id_coinmarketcap: '5438'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5438.png
 name: Hug Oxytocin
-platform: ETH
-platform_contract: '0x956eaaaacb521558cd4485115df412aa01f1057e'

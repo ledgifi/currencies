@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3ac55ea8d2082fabda674270cd2367da96092889'
+    platform: AURORA
 crypto: true
 fiat: false
 id: ORBITAL
 id_coinmarketcap: '20466'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20466.png
 name: Polaris Finance Orbital
-platform: AURORA
-platform_contract: '0x3ac55ea8d2082fabda674270cd2367da96092889'

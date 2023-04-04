@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA0dF47432d9d88bcc040E9ee66dDC7E17A882715'
+    platform: ARB
 crypto: true
 fiat: false
 id: PETH3
 id_coinmarketcap: '23570'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23570.png
 name: Ripae Finance
-platform: ARB
-platform_contract: '0xA0dF47432d9d88bcc040E9ee66dDC7E17A882715'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaf83f292fced83032f52ced45ef7dbddb586441a'
+    platform: BNB
 crypto: true
 fiat: false
 id: TWIN
 id_coinmarketcap: '9253'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9253.png
 name: Twinci
-platform: BNB
-platform_contract: '0xaf83f292fced83032f52ced45ef7dbddb586441a'

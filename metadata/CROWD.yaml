@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x483dd3425278c1f79f377f1034d9d2cae55648b6'
+    platform: MATIC
 crypto: true
 fiat: false
 id: CROWD
 id_coinmarketcap: '22117'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22117.png
 name: CrowdSwap
-platform: MATIC
-platform_contract: '0x483dd3425278c1f79f377f1034d9d2cae55648b6'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0A6D60FA9eFbb151dc07996cf0cEA5F84F2E8404'
+    platform: ETH
 crypto: true
 fiat: false
 id: BCARTEL
 id_coinmarketcap: '24199'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24199.png
 name: Binance Cartel
-platform: ETH
-platform_contract: '0x0A6D60FA9eFbb151dc07996cf0cEA5F84F2E8404'

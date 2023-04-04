@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41'
+    platform: ETH
 crypto: true
 fiat: false
 id: PROPS
 id_coinmarketcap: '5880'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5880.png
 name: Props Token
-platform: ETH
-platform_contract: '0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x780116d91e5592e58a3b3c76a351571b39abcec6'
+    platform: ETH
 crypto: true
 fiat: false
 id: BOXX
 id_coinmarketcap: '3314'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3314.png
 name: Blockparty (BOXX Token)
-platform: ETH
-platform_contract: '0x780116d91e5592e58a3b3c76a351571b39abcec6'

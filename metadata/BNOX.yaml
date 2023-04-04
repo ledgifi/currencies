@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8b61F7aFe322372940dc4512BE579f0a55367650'
+    platform: ETH
 crypto: true
 fiat: false
 id: BNOX
 id_coinmarketcap: '5648'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5648.png
 name: BlockNoteX
-platform: ETH
-platform_contract: '0x8b61F7aFe322372940dc4512BE579f0a55367650'

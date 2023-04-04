@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x502580fc390606b47fc3b741d6d49909383c28a9'
+    platform: AVAX
 crypto: true
 fiat: false
 id: HATCHY
 id_coinmarketcap: '21991'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21991.png
 name: HatchyPocket
-platform: AVAX
-platform_contract: '0x502580fc390606b47fc3b741d6d49909383c28a9'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2327590Bb709F1505b64d1E4573D7c0DCEa4350c'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHIBGEKI
 id_coinmarketcap: '18459'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18459.png
 name: Shibgeki
-platform: ETH
-platform_contract: '0x2327590Bb709F1505b64d1E4573D7c0DCEa4350c'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x35dd2ebf20746C6e658fac75cd80D4722fae62f6'
+    platform: ETH
 crypto: true
 fiat: false
 id: CBET
 id_coinmarketcap: '5651'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5651.png
 name: CryptoBet
-platform: ETH
-platform_contract: '0x35dd2ebf20746C6e658fac75cd80D4722fae62f6'

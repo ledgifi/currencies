@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9AF81028b3AF6BFAab171479B91cAF010eAAA94F'
+    platform: BNB
 crypto: true
 fiat: false
 id: STP1
 id_coinmarketcap: '20653'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20653.png
 name: Stepup
-platform: BNB
-platform_contract: '0x9AF81028b3AF6BFAab171479B91cAF010eAAA94F'

@@ -1,8 +1,9 @@
+contracts:
+  - address: ASH-a642d1
+    platform: EGLD
 crypto: true
 fiat: false
 id: ASH1
 id_coinmarketcap: '22321'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22321.png
 name: AshSwap
-platform: EGLD
-platform_contract: ASH-a642d1

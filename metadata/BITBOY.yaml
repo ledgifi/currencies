@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x21413ce5fe3a791d46fea7485811852fbe86caf1'
+    platform: BNB
 crypto: true
 fiat: false
 id: BITBOY
 id_coinmarketcap: '22348'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22348.png
 name: BITCOIN BOY
-platform: BNB
-platform_contract: '0x21413ce5fe3a791d46fea7485811852fbe86caf1'

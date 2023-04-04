@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3e151ca82b3686f555c381530732df1cfc3c7890'
+    platform: BNB
 crypto: true
 fiat: false
 id: ZOD
 id_coinmarketcap: '12013'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12013.png
 name: ZOD RUNE - Rune.Game
-platform: BNB
-platform_contract: '0x3e151ca82b3686f555c381530732df1cfc3c7890'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9d5758d86998d74f002c218c9967980a238beb55'
+    platform: BNB
 crypto: true
 fiat: false
 id: ATG
 id_coinmarketcap: '20802'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20802.png
 name: AstroGrow
-platform: BNB
-platform_contract: '0x9d5758d86998d74f002c218c9967980a238beb55'

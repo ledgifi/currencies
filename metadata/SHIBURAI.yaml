@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x275eb4f541b372eff2244a444395685c32485368'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHIBURAI
 id_coinmarketcap: '16471'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16471.png
 name: Shiba Samurai
-platform: ETH
-platform_contract: '0x275eb4f541b372eff2244a444395685c32485368'

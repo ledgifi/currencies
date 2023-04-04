@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x8a2d988fe2e8c6716cbcef1b33df626c692f7b98'
+    platform: ETH
 crypto: true
 fiat: false
 id: RISE3
@@ -6,5 +9,3 @@ id_nomics: RISE3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RISE3.jpg
 logoKey: currencies/rise3.jpg
 name: EverRise old
-platform: ETH
-platform_contract: '0x8a2d988fe2e8c6716cbcef1b33df626c692f7b98'

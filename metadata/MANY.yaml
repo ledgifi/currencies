@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2dd6c9c5bcd16816226542688788932c6e79a600'
+    platform: BNB
 crypto: true
 fiat: false
 id: MANY
 id_coinmarketcap: '9124'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9124.png
 name: Manyswap
-platform: BNB
-platform_contract: '0x2dd6c9c5bcd16816226542688788932c6e79a600'

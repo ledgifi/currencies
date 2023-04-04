@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x57bb0f40479D7Dd0caa67f2A579273A8e9c038Ee'
+    platform: BNB
 crypto: true
 fiat: false
 id: RUGBUST
 id_coinmarketcap: '10247'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10247.png
 name: Rug Busters
-platform: BNB
-platform_contract: '0x57bb0f40479D7Dd0caa67f2A579273A8e9c038Ee'

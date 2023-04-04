@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x50ee674689d75c0f88e8f83cfe8c4b69e8fd590d'
+    platform: ETH
 crypto: true
 fiat: false
 id: EPY1
 id_coinmarketcap: '2172'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2172.png
 name: Emphy
-platform: ETH
-platform_contract: '0x50ee674689d75c0f88e8f83cfe8c4b69e8fd590d'

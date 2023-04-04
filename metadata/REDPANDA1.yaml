@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x514cdb9cd8a2fb2bdcf7a3b8ddd098caf466e548'
+    platform: ETH
 crypto: true
 fiat: false
 id: REDPANDA1
 id_coinmarketcap: '9980'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9980.png
 name: Redpanda Earth
-platform: ETH
-platform_contract: '0x514cdb9cd8a2fb2bdcf7a3b8ddd098caf466e548'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x16c52CeeCE2ed57dAd87319D91B5e3637d50aFa4'
+    platform: ETH
 crypto: true
 fiat: false
 id: TCAP
 id_coinmarketcap: '9678'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9678.png
 name: Total Crypto Market Cap Token
-platform: ETH
-platform_contract: '0x16c52CeeCE2ed57dAd87319D91B5e3637d50aFa4'

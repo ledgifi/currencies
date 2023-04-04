@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x58530a272bf650827ae05fadee76f36271089f7f'
+    platform: ETH
 crypto: true
 fiat: false
 id: ARCANE1
 id_coinmarketcap: '15466'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15466.png
 name: Arcane Universe
-platform: ETH
-platform_contract: '0x58530a272bf650827ae05fadee76f36271089f7f'

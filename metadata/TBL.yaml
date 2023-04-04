@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x59f6b2435cd1421f409907ad2d9f811849ca555f'
+    platform: BNB
 crypto: true
 fiat: false
 id: TBL
 id_coinmarketcap: '15695'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15695.png
 name: Tank Battle
-platform: BNB
-platform_contract: '0x59f6b2435cd1421f409907ad2d9f811849ca555f'

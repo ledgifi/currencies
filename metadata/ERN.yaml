@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xbbc2ae13b23d715c30720f079fcd9b4a74093505'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: ERN2
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210622/ec712249-c233-4ce0-a1ca-eba470cf412f.png
 logoKey: currencies/ern.png
 name: Ethernity Chain
-platform: ETH
-platform_contract: '0xbbc2ae13b23d715c30720f079fcd9b4a74093505'

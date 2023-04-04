@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x999967e2ec8a74b7c8e9db19e039d920b31d39d0'
+    platform: ETH
 crypto: true
 fiat: false
 id: TIE
 id_coinmarketcap: '2166'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2166.png
 name: Ties.DB
-platform: ETH
-platform_contract: '0x999967e2ec8a74b7c8e9db19e039d920b31d39d0'

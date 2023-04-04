@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x353a94e74750c5d2d5b3c52abad54d76cb08a151'
+    platform: BNB
 crypto: true
 fiat: false
 id: BABYWKD
 id_coinmarketcap: '15342'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15342.png
 name: Baby Wakanda inu
-platform: BNB
-platform_contract: '0x353a94e74750c5d2d5b3c52abad54d76cb08a151'

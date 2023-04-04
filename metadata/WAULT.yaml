@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6ff2d9e5891a7a7c554b80e0d1b791483c78bce9'
+    platform: BNB
 crypto: true
 fiat: false
 id: WAULT
 id_coinmarketcap: '8588'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8588.png
 name: Wault Finance (OLD)
-platform: BNB
-platform_contract: '0x6ff2d9e5891a7a7c554b80e0d1b791483c78bce9'

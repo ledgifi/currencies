@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xeef61fc851ccac31b71b075e5e963803654f047b'
+    platform: ETH
 crypto: true
 fiat: false
 id: KILLUA
 id_coinmarketcap: '13838'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13838.png
 name: Killua Inu
-platform: ETH
-platform_contract: '0xeef61fc851ccac31b71b075e5e963803654f047b'

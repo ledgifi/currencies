@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x87edffde3e14c7a66c9b9724747a1c5696b742e6'
+    platform: ETH
 crypto: true
 fiat: false
 id: SWAG1
 id_coinmarketcap: '7428'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7428.png
 name: SWAG Finance
-platform: ETH
-platform_contract: '0x87edffde3e14c7a66c9b9724747a1c5696b742e6'

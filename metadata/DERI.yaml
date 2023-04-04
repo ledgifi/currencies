@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9'
+    platform: ETH
 crypto: true
 fiat: false
 id: DERI
 id_coinmarketcap: '8424'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8424.png
 name: Deri Protocol
-platform: ETH
-platform_contract: '0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9'

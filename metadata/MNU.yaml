@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x256Be284FEa694f1bb11f76d556a28eCb496Eee9'
+    platform: BNB
 crypto: true
 fiat: false
 id: MNU
 id_coinmarketcap: '23159'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23159.png
 name: NirvanaMeta V2
-platform: BNB
-platform_contract: '0x256Be284FEa694f1bb11f76d556a28eCb496Eee9'

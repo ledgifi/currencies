@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc82C80E03E491B252Cae745575ea2d1c2fDDe25A'
+    platform: BNB
 crypto: true
 fiat: false
 id: GFI3
 id_coinmarketcap: '9049'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9049.png
 name: Gorilla-Fi
-platform: BNB
-platform_contract: '0xc82C80E03E491B252Cae745575ea2d1c2fDDe25A'

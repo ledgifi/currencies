@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7d608cfaa805a752788847e5c46ce9c03fb43c21'
+    platform: ETH
 crypto: true
 fiat: false
 id: BLOCKIFY
 id_coinmarketcap: '20264'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20264.png
 name: Blockify.Games
-platform: ETH
-platform_contract: '0x7d608cfaa805a752788847e5c46ce9c03fb43c21'

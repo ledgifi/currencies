@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xba5BDe662c17e2aDFF1075610382B9B691296350'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: RARE
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/fc0beb58-0966-4730-b971-1b8e77abd3cc.png
 logoKey: currencies/rare.png
 name: SuperRare
-platform: ETH
-platform_contract: '0xba5BDe662c17e2aDFF1075610382B9B691296350'

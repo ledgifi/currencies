@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x300211Def2a644b036A9bdd3e58159bb2074d388'
+    platform: MATIC
 crypto: true
 fiat: false
 id: CIOTX
 id_coinmarketcap: '11851'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11851.png
 name: Crosschain IOTX
-platform: MATIC
-platform_contract: '0x300211Def2a644b036A9bdd3e58159bb2074d388'

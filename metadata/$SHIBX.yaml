@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaa357b0f167923efc1d6978a868f81866ca6e98c'
+    platform: BNB
 crypto: true
 fiat: false
 id: $ShibX
 id_coinmarketcap: '12586'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12586.png
 name: ShibX
-platform: BNB
-platform_contract: '0xaa357b0f167923efc1d6978a868f81866ca6e98c'

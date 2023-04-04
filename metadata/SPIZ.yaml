@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa7A5c1058194Af8F00c187adB7FcC0c95f1C6c2d'
+    platform: ETH
 crypto: true
 fiat: false
 id: SPIZ
 id_coinmarketcap: '6626'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6626.png
 name: SPACE-iZ
-platform: ETH
-platform_contract: '0xa7A5c1058194Af8F00c187adB7FcC0c95f1C6c2d'

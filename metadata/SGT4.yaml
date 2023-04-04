@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x141381f07fa31432243113cda2f617d5d255d39a'
+    platform: BNB
 crypto: true
 fiat: false
 id: SGT4
 id_coinmarketcap: '13956'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13956.png
 name: Squid God Finance
-platform: BNB
-platform_contract: '0x141381f07fa31432243113cda2f617d5d255d39a'

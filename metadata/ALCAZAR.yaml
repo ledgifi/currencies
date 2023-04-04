@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x10f44a834097469AC340592d28c479c442E99bFe'
+    platform: ETH
 crypto: true
 fiat: false
 id: ALCAZAR
 id_coinmarketcap: '22431'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22431.png
 name: Alcazar
-platform: ETH
-platform_contract: '0x10f44a834097469AC340592d28c479c442E99bFe'

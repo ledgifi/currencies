@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5e031a5bc1c6b6e86a49e0b0f2e757800f1d0fff'
+    platform: ETH
 crypto: true
 fiat: false
 id: DAF
 id_coinmarketcap: '17529'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17529.png
 name: DaFIN
-platform: ETH
-platform_contract: '0x5e031a5bc1c6b6e86a49e0b0f2e757800f1d0fff'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x88665a7556e1b3c939d6661248116886845249a8'
+    platform: ETH
 crypto: true
 fiat: false
 id: LF
 id_coinmarketcap: '9160'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9160.png
 name: Linkflow Finance
-platform: ETH
-platform_contract: '0x88665a7556e1b3c939d6661248116886845249a8'

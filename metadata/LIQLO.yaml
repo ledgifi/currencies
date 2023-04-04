@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x59AD6061A0be82155E7aCcE9F0C37Bf59F9c1e3C'
+    platform: ETH
 crypto: true
 fiat: false
 id: LIQLO
 id_coinmarketcap: '7667'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7667.png
 name: Liquid Lottery RTC
-platform: ETH
-platform_contract: '0x59AD6061A0be82155E7aCcE9F0C37Bf59F9c1e3C'

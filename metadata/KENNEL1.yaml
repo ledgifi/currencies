@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2c319cde4e46f85f7a1004b9a81d4a52d896e208'
+    platform: BNB
 crypto: true
 fiat: false
 id: KENNEL1
 id_coinmarketcap: '11122'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11122.png
 name: The Token Kennel
-platform: BNB
-platform_contract: '0x2c319cde4e46f85f7a1004b9a81d4a52d896e208'

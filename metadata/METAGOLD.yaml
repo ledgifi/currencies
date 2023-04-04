@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7B228294D3D5a3f29dFc877e73310CeEC9a84f2c'
+    platform: BNB
 crypto: true
 fiat: false
 id: METAGOLD
 id_coinmarketcap: '17154'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17154.png
 name: MetaGold Rewards
-platform: BNB
-platform_contract: '0x7B228294D3D5a3f29dFc877e73310CeEC9a84f2c'

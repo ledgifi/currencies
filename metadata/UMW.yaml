@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xed2f47a7748616f107dd3aace93da5e2d8b17e6f'
+    platform: BNB
 crypto: true
 fiat: false
 id: UMW
 id_coinmarketcap: '17259'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17259.png
 name: UMetaWorld
-platform: BNB
-platform_contract: '0xed2f47a7748616f107dd3aace93da5e2d8b17e6f'

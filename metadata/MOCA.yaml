@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcE899f26928a2B21c6a2Fddd393EF37c61dbA918'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MOCA
 id_coinmarketcap: '10220'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10220.png
 name: Museum of Crypto Art
-platform: MATIC
-platform_contract: '0xcE899f26928a2B21c6a2Fddd393EF37c61dbA918'

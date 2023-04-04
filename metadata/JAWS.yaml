@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdD97AB35e3C0820215bc85a395e13671d84CCBa2'
+    platform: BNB
 crypto: true
 fiat: false
 id: JAWS
 id_coinmarketcap: '10303'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10303.png
 name: AutoShark
-platform: BNB
-platform_contract: '0xdD97AB35e3C0820215bc85a395e13671d84CCBa2'

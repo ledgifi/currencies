@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x021b4c03d51280e54678c88b1eacb612f299e6d9'
+    platform: BNB
 crypto: true
 fiat: false
 id: $YO
 id_coinmarketcap: '12846'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12846.png
 name: YoRocket
-platform: BNB
-platform_contract: '0x021b4c03d51280e54678c88b1eacb612f299e6d9'

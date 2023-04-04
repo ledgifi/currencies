@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x4B5f49487ea7B3609b1aD05459BE420548789f1f'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -7,5 +10,3 @@ id_coinmarketcap: '20873'
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220713/692f05c2-eaf0-48d4-b187-58d65545e330.png
 logoKey: currencies/lever.png
 name: LeverFi
-platform: ETH
-platform_contract: '0x4B5f49487ea7B3609b1aD05459BE420548789f1f'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1d79c69dd5471649a115258a7a5f1d352238fceb'
+    platform: BNB
 crypto: true
 fiat: false
 id: BOSS1
 id_coinmarketcap: '22238'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22238.png
 name: BossDao
-platform: BNB
-platform_contract: '0x1d79c69dd5471649a115258a7a5f1d352238fceb'

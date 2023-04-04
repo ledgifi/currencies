@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x67689Fdb3028FB616f4d71a5B9E2dd53c82cC57b'
+    platform: ETH
 crypto: true
 fiat: false
 id: FUBUKI
 id_coinmarketcap: '17812'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17812.png
 name: Fubuki Token
-platform: ETH
-platform_contract: '0x67689Fdb3028FB616f4d71a5B9E2dd53c82cC57b'

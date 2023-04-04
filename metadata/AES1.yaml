@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2A07461a493b994C2a32f549Fd185524f306aB38'
+    platform: MATIC
 crypto: true
 fiat: false
 id: AES1
 id_coinmarketcap: '19930'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19930.png
 name: Aree Shards
-platform: MATIC
-platform_contract: '0x2A07461a493b994C2a32f549Fd185524f306aB38'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd57f8b6f3e5d1e0ab85118f5e0dd893a08c43346'
+    platform: MATIC
 crypto: true
 fiat: false
 id: OSEA
 id_coinmarketcap: '24214'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24214.png
 name: Omnisea
-platform: MATIC
-platform_contract: '0xd57f8b6f3e5d1e0ab85118f5e0dd893a08c43346'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1E2F15302B90EddE696593607b6bD444B64e8F02'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHIRYO
 id_coinmarketcap: '13727'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13727.png
 name: Shiryo
-platform: ETH
-platform_contract: '0x1E2F15302B90EddE696593607b6bD444B64e8F02'

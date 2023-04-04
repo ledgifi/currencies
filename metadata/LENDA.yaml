@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2D7A47908d817dd359f9aBA7FEaA89c92a289c7E'
+    platform: BNB
 crypto: true
 fiat: false
 id: LENDA
 id_coinmarketcap: '17839'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17839.png
 name: Lenda
-platform: BNB
-platform_contract: '0x2D7A47908d817dd359f9aBA7FEaA89c92a289c7E'

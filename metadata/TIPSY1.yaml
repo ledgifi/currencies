@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf380334b9a181f54bf2f32fdd3e153d259472ebb'
+    platform: BNB
 crypto: true
 fiat: false
 id: TIPSY1
 id_coinmarketcap: '14863'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14863.png
 name: Tipsy
-platform: BNB
-platform_contract: '0xf380334b9a181f54bf2f32fdd3e153d259472ebb'

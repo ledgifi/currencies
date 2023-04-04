@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8eEcaad83a1Ea77bD88A818d4628fAfc4CaD7969'
+    platform: ETH
 crypto: true
 fiat: false
 id: NFAI
 id_coinmarketcap: '23267'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23267.png
 name: Not Financial Advice
-platform: ETH
-platform_contract: '0x8eEcaad83a1Ea77bD88A818d4628fAfc4CaD7969'

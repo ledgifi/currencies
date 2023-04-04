@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1c9BA9144505aaBa12f4b126Fda9807150b88f80'
+    platform: ETH
 crypto: true
 fiat: false
 id: XUSD
 id_coinmarketcap: '8316'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8316.png
 name: XUSD Stable
-platform: ETH
-platform_contract: '0x1c9BA9144505aaBa12f4b126Fda9807150b88f80'

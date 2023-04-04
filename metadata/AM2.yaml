@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4292275aff96566f4e10FC1EE814255087aEC8cF'
+    platform: BNB
 crypto: true
 fiat: false
 id: AM2
 id_coinmarketcap: '15009'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15009.png
 name: AlternateMoney
-platform: BNB
-platform_contract: '0x4292275aff96566f4e10FC1EE814255087aEC8cF'

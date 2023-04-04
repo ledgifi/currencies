@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x78c292d1445e6b9558bf42e8bc369271ded062ea'
+    platform: ETH
 crypto: true
 fiat: false
 id: CYMT
 id_coinmarketcap: '3255'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3255.png
 name: CyberMusic
-platform: ETH
-platform_contract: '0x78c292d1445e6b9558bf42e8bc369271ded062ea'

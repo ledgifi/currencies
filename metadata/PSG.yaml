@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x6fc212cdE3b420733A88496CbdbB15d85beAb1Ca'
+    platform: CHZ
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: PSG
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201214/08ef1fff-0899-4121-8f85-8606c7f1a55a.png
 logoKey: currencies/psg.png
 name: Paris Saint-Germain Fan Token
-platform: CHZ
-platform_contract: '0x6fc212cdE3b420733A88496CbdbB15d85beAb1Ca'

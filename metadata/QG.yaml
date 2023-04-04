@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xFB8Bf58B23e3CbCbaBB169cfC704Ebb2878Cb48A'
+    platform: BNB
 crypto: true
 fiat: false
 id: QG
 id_coinmarketcap: '23276'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23276.png
 name: Quieroganar Audits
-platform: BNB
-platform_contract: '0xFB8Bf58B23e3CbCbaBB169cfC704Ebb2878Cb48A'

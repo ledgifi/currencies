@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe75097D3Ec88701361E670e065b8d5bC4dAfBC9D'
+    platform: ETH
 crypto: true
 fiat: false
 id: VAN
 id_coinmarketcap: '19316'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19316.png
 name: Vanspor Token
-platform: ETH
-platform_contract: '0xe75097D3Ec88701361E670e065b8d5bC4dAfBC9D'

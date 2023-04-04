@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8a0271333150dEaa50371dDBfe5404A9ef7dACE5'
+    platform: AVAX
 crypto: true
 fiat: false
 id: HPT1
 id_coinmarketcap: '19543'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19543.png
 name: HighPoint Finance
-platform: AVAX
-platform_contract: '0x8a0271333150dEaa50371dDBfe5404A9ef7dACE5'

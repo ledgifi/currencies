@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x058391e75ee8f675c7eeca35fd6d12b11e73b4b6'
+    platform: ETH
 crypto: true
 fiat: false
 id: SUPER3
 id_coinmarketcap: '7147'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7147.png
 name: SuperSwap
-platform: ETH
-platform_contract: '0x058391e75ee8f675c7eeca35fd6d12b11e73b4b6'

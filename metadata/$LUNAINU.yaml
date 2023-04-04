@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xec9493312fb6bdfe2d27079732fe8cc8e9744b64'
+    platform: BNB
 crypto: true
 fiat: false
 id: $LUNAINU
 id_coinmarketcap: '17992'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17992.png
 name: Luna Inu
-platform: BNB
-platform_contract: '0xec9493312fb6bdfe2d27079732fe8cc8e9744b64'

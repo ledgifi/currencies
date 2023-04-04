@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5fda925294f9e5b31b7c0e81bad6bad5b5e792ee'
+    platform: BNB
 crypto: true
 fiat: false
 id: POWA
 id_coinmarketcap: '21550'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21550.png
 name: Powabit
-platform: BNB
-platform_contract: '0x5fda925294f9e5b31b7c0e81bad6bad5b5e792ee'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x230576a0455d7ae33c6defe64182c0bb68bafaf3'
+    platform: FTM
 crypto: true
 fiat: false
 id: BRO
 id_coinmarketcap: '15748'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15748.png
 name: DexBrowser
-platform: FTM
-platform_contract: '0x230576a0455d7ae33c6defe64182c0bb68bafaf3'

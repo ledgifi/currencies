@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6CD13E1856286dE773a435C8Ba93A7C73A04F82d'
+    platform: ETH
 crypto: true
 fiat: false
 id: MIDA
 id_coinmarketcap: '19633'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19633.png
 name: MIDA Token
-platform: ETH
-platform_contract: '0x6CD13E1856286dE773a435C8Ba93A7C73A04F82d'

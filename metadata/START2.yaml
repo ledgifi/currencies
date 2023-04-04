@@ -1,8 +1,9 @@
+contracts:
+  - address: 0:7d7af239168cfd06353c224aa8b5e805846ae5e556f66fa8e045b5e1ba29e82a
+    platform: EVER
 crypto: true
 fiat: false
 id: START2
 id_coinmarketcap: '20770'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20770.png
 name: EverStart
-platform: EVER
-platform_contract: 0:7d7af239168cfd06353c224aa8b5e805846ae5e556f66fa8e045b5e1ba29e82a

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x03e1c8d25b0dcd41e1073d65ccdd4e40e672a68d'
+    platform: BNB
 crypto: true
 fiat: false
 id: ESHIB
 id_coinmarketcap: '14700'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14700.png
 name: Shiba Elon
-platform: BNB
-platform_contract: '0x03e1c8d25b0dcd41e1073d65ccdd4e40e672a68d'

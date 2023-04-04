@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3D382228C54736d831FAC2748F4734D9177c7332'
+    platform: ETH
 crypto: true
 fiat: false
 id: ANV
 id_coinmarketcap: '7705'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7705.png
 name: ANIVERSE
-platform: ETH
-platform_contract: '0x3D382228C54736d831FAC2748F4734D9177c7332'

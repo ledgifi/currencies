@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0Fe3e956D2034BCEF01FbA8A2BfCA389cdb72699'
+    platform: BNB
 crypto: true
 fiat: false
 id: SBYTE
 id_coinmarketcap: '9600'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9600.png
 name: Securabyte Protocol
-platform: BNB
-platform_contract: '0x0Fe3e956D2034BCEF01FbA8A2BfCA389cdb72699'

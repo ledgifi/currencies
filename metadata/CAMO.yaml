@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0bb7db697567178c590efa64a7dcb2ce6213768c'
+    platform: ETH
 crypto: true
 fiat: false
 id: CAMO
 id_coinmarketcap: '6642'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6642.png
 name: Camouflage.eth
-platform: ETH
-platform_contract: '0x0bb7db697567178c590efa64a7dcb2ce6213768c'

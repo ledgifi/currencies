@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5B31d474Dcadc1c2A1DFc7D4562b2268B0feea43'
+    platform: BNB
 crypto: true
 fiat: false
 id: SEA3
 id_coinmarketcap: '13716'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13716.png
 name: Sea Token
-platform: BNB
-platform_contract: '0x5B31d474Dcadc1c2A1DFc7D4562b2268B0feea43'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x992D339532A9C42F1b0E59A57e95F38da38c66F6'
+    platform: ETH
 crypto: true
 fiat: false
 id: SOUL2
 id_coinmarketcap: '21958'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21958.png
 name: Soulsaver
-platform: ETH
-platform_contract: '0x992D339532A9C42F1b0E59A57e95F38da38c66F6'

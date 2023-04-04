@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8185bc4757572da2a610f887561c32298f1a5748'
+    platform: ETH
 crypto: true
 fiat: false
 id: ALN
 id_coinmarketcap: '5544'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5544.png
 name: Aluna.Social
-platform: ETH
-platform_contract: '0x8185bc4757572da2a610f887561c32298f1a5748'

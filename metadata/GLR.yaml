@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd54619E0b9899D74Cc9B981354Eb6b59732c43B1'
+    platform: ETH
 crypto: true
 fiat: false
 id: GLR
 id_coinmarketcap: '23940'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23940.png
 name: GalleryCoin
-platform: ETH
-platform_contract: '0xd54619E0b9899D74Cc9B981354Eb6b59732c43B1'

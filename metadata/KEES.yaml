@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfcc63e6459936216b7b887f6da5fcd90c0c62b7c'
+    platform: ETH
 crypto: true
 fiat: false
 id: KEES
 id_coinmarketcap: '22003'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22003.png
 name: Korea Entertainment Education & Shopping
-platform: ETH
-platform_contract: '0xfcc63e6459936216b7b887f6da5fcd90c0c62b7c'

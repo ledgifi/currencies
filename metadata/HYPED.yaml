@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0450052d1fc5791571a19d9e26261fb2337b379b'
+    platform: BNB
 crypto: true
 fiat: false
 id: HYPED
 id_coinmarketcap: '14564'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14564.png
 name: HYPED
-platform: BNB
-platform_contract: '0x0450052d1fc5791571a19d9e26261fb2337b379b'

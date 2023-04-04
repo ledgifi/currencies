@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7a59ce9c4248f8b078fd96d9965e6e5dc8e6f0a8'
+    platform: BNB
 crypto: true
 fiat: false
 id: GMT4
 id_coinmarketcap: '18487'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18487.png
 name: GreekMythology
-platform: BNB
-platform_contract: '0x7a59ce9c4248f8b078fd96d9965e6e5dc8e6f0a8'

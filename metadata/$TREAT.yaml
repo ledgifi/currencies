@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x31b9f093865e11ba9be5f6a5bbd1385ad8f42696'
+    platform: DOGE
 crypto: true
 fiat: false
 id: $TREAT
 id_coinmarketcap: '21875'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21875.png
 name: Good Doge
-platform: DOGE
-platform_contract: '0x31b9f093865e11ba9be5f6a5bbd1385ad8f42696'

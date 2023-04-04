@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaa12db4e58a7e57cb4a3b92e56620a2fd719339b'
+    platform: BNB
 crypto: true
 fiat: false
 id: STL2
 id_coinmarketcap: '22928'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22928.png
 name: Stylike
-platform: BNB
-platform_contract: '0xaa12db4e58a7e57cb4a3b92e56620a2fd719339b'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x184aF67D26d7DB08F5dAaB8A43315D25f76819C7'
+    platform: BNB
 crypto: true
 fiat: false
 id: KCC
 id_coinmarketcap: '21859'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21859.png
 name: KingCorgi Chain
-platform: BNB
-platform_contract: '0x184aF67D26d7DB08F5dAaB8A43315D25f76819C7'

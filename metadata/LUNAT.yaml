@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2A48eCe377b87ce941406657B9278b4459595E06'
+    platform: BNB
 crypto: true
 fiat: false
 id: LUNAT
 id_coinmarketcap: '21116'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21116.png
 name: Lunatics
-platform: BNB
-platform_contract: '0x2A48eCe377b87ce941406657B9278b4459595E06'

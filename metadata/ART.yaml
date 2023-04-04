@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfec0cf7fe078a500abf15f1284958f22049c2c7e'
+    platform: ETH
 crypto: true
 fiat: false
 id: ART
 id_coinmarketcap: '2064'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2064.png
 name: Maecenas
-platform: ETH
-platform_contract: '0xfec0cf7fe078a500abf15f1284958f22049c2c7e'

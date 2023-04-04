@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB6a41C1fAcC08aADe9257b068041c9B3420693f3'
+    platform: BNB
 crypto: true
 fiat: false
 id: GAINZ1
 id_coinmarketcap: '17983'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17983.png
 name: FlokiGainz
-platform: BNB
-platform_contract: '0xB6a41C1fAcC08aADe9257b068041c9B3420693f3'

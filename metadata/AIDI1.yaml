@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xDFc2C4ce66561c3ee53dbeA9ff78550F395a25e2'
+    platform: MATIC
 crypto: true
 fiat: false
 id: AIDI1
 id_coinmarketcap: '24055'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24055.png
 name: Aidi Finance (new)
-platform: MATIC
-platform_contract: '0xDFc2C4ce66561c3ee53dbeA9ff78550F395a25e2'

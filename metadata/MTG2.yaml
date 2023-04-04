@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe5bb16faceafea96c3e1c97b3c20f0edfe94a9c3'
+    platform: BNB
 crypto: true
 fiat: false
 id: MTG2
 id_coinmarketcap: '14135'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14135.png
 name: MoonTimer
-platform: BNB
-platform_contract: '0xe5bb16faceafea96c3e1c97b3c20f0edfe94a9c3'

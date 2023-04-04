@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5fd71280b6385157b291b9962f22153fc9e79000'
+    platform: ARB
 crypto: true
 fiat: false
 id: GRB
 id_coinmarketcap: '23601'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23601.png
 name: Garbi Protocol
-platform: ARB
-platform_contract: '0x5fd71280b6385157b291b9962f22153fc9e79000'

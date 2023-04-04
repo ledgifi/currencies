@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4131b87f74415190425ccd873048c708f8005823'
+    platform: BNB
 crypto: true
 fiat: false
 id: BMXX
 id_coinmarketcap: '8618'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8618.png
 name: Multiplier
-platform: BNB
-platform_contract: '0x4131b87f74415190425ccd873048c708f8005823'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfa5992A8A47aF7029e04eC6a95203AD3f301460b'
+    platform: FTM
 crypto: true
 fiat: false
 id: SKULL
 id_coinmarketcap: '23629'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23629.png
 name: Skull Order
-platform: FTM
-platform_contract: '0xfa5992A8A47aF7029e04eC6a95203AD3f301460b'

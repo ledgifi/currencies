@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x94a7f270cd12545a277e656266aef5e27df3eb28'
+    platform: ETH
 crypto: true
 fiat: false
 id: STRM
 id_coinmarketcap: '17464'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17464.png
 name: StreamCoin
-platform: ETH
-platform_contract: '0x94a7f270cd12545a277e656266aef5e27df3eb28'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE0E61a8677566b4e1347637C6dbf38139B8Ea967'
+    platform: BNB
 crypto: true
 fiat: false
 id: POOGROW
 id_coinmarketcap: '21341'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21341.png
 name: PooGrow
-platform: BNB
-platform_contract: '0xE0E61a8677566b4e1347637C6dbf38139B8Ea967'

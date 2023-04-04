@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd55E4fCEA77fd5902Ad10914F8B2a5ad1ee606B5'
+    platform: BNB
 crypto: true
 fiat: false
 id: HK
 id_coinmarketcap: '12960'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12960.png
 name: Helkin
-platform: BNB
-platform_contract: '0xd55E4fCEA77fd5902Ad10914F8B2a5ad1ee606B5'

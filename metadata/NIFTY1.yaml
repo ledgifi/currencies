@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd953a0308617c79ecad8d5eab88a6561fd8a084d'
+    platform: ETH
 crypto: true
 fiat: false
 id: NIFTY1
 id_coinmarketcap: '11358'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11358.png
 name: NiftyNFT
-platform: ETH
-platform_contract: '0xd953a0308617c79ecad8d5eab88a6561fd8a084d'

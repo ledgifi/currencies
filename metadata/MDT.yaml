@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x814e0908b12a99fecf5bc101bb5d0b8b5cdf7d26'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: MDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/mdt.png
 logoKey: currencies/mdt.png
 name: Measurable Data Token
-platform: ETH
-platform_contract: '0x814e0908b12a99fecf5bc101bb5d0b8b5cdf7d26'

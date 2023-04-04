@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x24fb4c36a83cbdbcd670856406f622e09a643d4d'
+    platform: ETH
 crypto: true
 fiat: false
 id: HNT1
 id_coinmarketcap: '5422'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5422.png
 name: Hinto
-platform: ETH
-platform_contract: '0x24fb4c36a83cbdbcd670856406f622e09a643d4d'

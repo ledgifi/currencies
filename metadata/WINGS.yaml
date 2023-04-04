@@ -1,4 +1,7 @@
 color: '#0dc9f7'
+contracts:
+  - address: '0x667088b212ce3d06a1b553a7221E1fD19000d9aF'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: WINGS
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/wings.svg
 logoKey: currencies/wings.svg
 name: Wings
-platform: ETH
-platform_contract: '0x667088b212ce3d06a1b553a7221E1fD19000d9aF'

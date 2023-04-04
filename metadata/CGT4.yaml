@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb1cf48a14ea54d63505a8c4063052886e98062e5'
+    platform: BNB
 crypto: true
 fiat: false
 id: CGT4
 id_coinmarketcap: '22394'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22394.png
 name: Coin Gabbar Token
-platform: BNB
-platform_contract: '0xb1cf48a14ea54d63505a8c4063052886e98062e5'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc92e75431614ecae3847842cc7f1b6bc58326427'
+    platform: ETH
 crypto: true
 fiat: false
 id: KNUCKLES
 id_coinmarketcap: '12908'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12908.png
 name: KNUCKLES
-platform: ETH
-platform_contract: '0xc92e75431614ecae3847842cc7f1b6bc58326427'

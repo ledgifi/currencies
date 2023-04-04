@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4c97c901B5147F8C1C7Ce3c5cF3eB83B44F244fE'
+    platform: BNB
 crypto: true
 fiat: false
 id: MND1
 id_coinmarketcap: '16441'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16441.png
 name: Mound Token
-platform: BNB
-platform_contract: '0x4c97c901B5147F8C1C7Ce3c5cF3eB83B44F244fE'

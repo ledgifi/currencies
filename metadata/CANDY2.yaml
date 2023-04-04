@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x03436Fe878e33Be3C8CAEbd205ebc04A66aA3248'
+    platform: BNB
 crypto: true
 fiat: false
 id: CANDY2
 id_coinmarketcap: '18590'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18590.png
 name: Sugar Kingdom
-platform: BNB
-platform_contract: '0x03436Fe878e33Be3C8CAEbd205ebc04A66aA3248'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xab592d197acc575d16c3346f4eb70c703f308d1e'
+    platform: AVAX
 crypto: true
 fiat: false
 id: FEED
 id_coinmarketcap: '17088'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17088.png
 name: chikn feed
-platform: AVAX
-platform_contract: '0xab592d197acc575d16c3346f4eb70c703f308d1e'

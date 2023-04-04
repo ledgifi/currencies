@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x08fb6740Cc5170e48B2Ad8Cc07422d3302EF5e78'
+    platform: BNB
 crypto: true
 fiat: false
 id: LO
 id_coinmarketcap: '12012'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12012.png
 name: LO RUNE - Rune.Game
-platform: BNB
-platform_contract: '0x08fb6740Cc5170e48B2Ad8Cc07422d3302EF5e78'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x88a9a52f944315d5b4e917b9689e65445c401e83'
+    platform: ETH
 crypto: true
 fiat: false
 id: FEAR
@@ -7,5 +10,3 @@ id_nomics: FEAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FEAR.jpg
 logoKey: currencies/fear.jpg
 name: Fear
-platform: ETH
-platform_contract: '0x88a9a52f944315d5b4e917b9689e65445c401e83'

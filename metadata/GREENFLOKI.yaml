@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xf6419987e98045c05e6665a6e5016de8b3d71fdd'
+    platform: BNB
 crypto: true
 fiat: false
 id: GREENFLOKI
@@ -7,5 +10,3 @@ id_nomics: GREENFLOKI
 logo: https://static.coinpaprika.com/coin/greenfloki-green-floki/logo.png
 logoKey: currencies/greenfloki.png
 name: GREEN floki
-platform: BNB
-platform_contract: '0xf6419987e98045c05e6665a6e5016de8b3d71fdd'

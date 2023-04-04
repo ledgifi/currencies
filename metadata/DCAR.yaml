@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x250bdca7D1845cd543BB55E7D82dcA24D48E9f0F'
+    platform: AVAX
 crypto: true
 fiat: false
 id: DCAR
 id_coinmarketcap: '21161'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21161.png
 name: Dragon Crypto Argenti
-platform: AVAX
-platform_contract: '0x250bdca7D1845cd543BB55E7D82dcA24D48E9f0F'

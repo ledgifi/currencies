@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF3b3Cad094B89392fcE5faFD40bC03b80F2Bc624'
+    platform: ETH
 crypto: true
 fiat: false
 id: PAT
 id_coinmarketcap: '2759'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2759.png
 name: Patron
-platform: ETH
-platform_contract: '0xF3b3Cad094B89392fcE5faFD40bC03b80F2Bc624'

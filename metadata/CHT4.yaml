@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x19fab8f7dffff38268644eaebd3d538f68036000'
+    platform: ETH
 crypto: true
 fiat: false
 id: CHT4
 id_coinmarketcap: '11217'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11217.png
 name: Chronic Token
-platform: ETH
-platform_contract: '0x19fab8f7dffff38268644eaebd3d538f68036000'

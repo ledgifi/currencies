@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa60943a1b19395c999ce6c21527b6b278f3f2046'
+    platform: CRO
 crypto: true
 fiat: false
 id: HKN
 id_coinmarketcap: '20045'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20045.png
 name: Hakuna Matata Finance
-platform: CRO
-platform_contract: '0xa60943a1b19395c999ce6c21527b6b278f3f2046'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3e29633846e8b857b7f6d7f293f895186804264b'
+    platform: BNB
 crypto: true
 fiat: false
 id: XPH2
 id_coinmarketcap: '16601'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16601.png
 name: XenophonDAO
-platform: BNB
-platform_contract: '0x3e29633846e8b857b7f6d7f293f895186804264b'

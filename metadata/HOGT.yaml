@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xFC33785f44c1069010b5De466eE7657C27aB8A0E'
+    platform: HT
 crypto: true
 fiat: false
 id: HOGT
 id_coinmarketcap: '10605'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10605.png
 name: HOGT
-platform: HT
-platform_contract: '0xFC33785f44c1069010b5De466eE7657C27aB8A0E'

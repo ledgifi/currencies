@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x52d04a0a7f3d79880a89cc3ca5de294862f6a0d9'
+    platform: ETH
 crypto: true
 fiat: false
 id: UEC
 id_coinmarketcap: '19365'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19365.png
 name: United Emirate Coin
-platform: ETH
-platform_contract: '0x52d04a0a7f3d79880a89cc3ca5de294862f6a0d9'

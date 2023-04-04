@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1453dbb8a29551ade11d89825ca812e05317eaeb'
+    platform: ETH
 crypto: true
 fiat: false
 id: TEND
 id_coinmarketcap: '5971'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5971.png
 name: Tendies
-platform: ETH
-platform_contract: '0x1453dbb8a29551ade11d89825ca812e05317eaeb'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4b20D07da954bA6735a57B253E0653b1b0e89cC5'
+    platform: ETH
 crypto: true
 fiat: false
 id: NVA1
 id_coinmarketcap: '19421'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19421.png
 name: NoVa
-platform: ETH
-platform_contract: '0x4b20D07da954bA6735a57B253E0653b1b0e89cC5'

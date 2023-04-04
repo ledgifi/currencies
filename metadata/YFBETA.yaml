@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x89ee58af4871b474c30001982c3d7439c933c838'
+    platform: ETH
 crypto: true
 fiat: false
 id: YFBETA
 id_coinmarketcap: '6886'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6886.png
 name: yfBeta
-platform: ETH
-platform_contract: '0x89ee58af4871b474c30001982c3d7439c933c838'

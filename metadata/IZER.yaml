@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xab5c04bbe42667610a2da07ac98ea9fa6e4a9514'
+    platform: ETH
 crypto: true
 fiat: false
 id: IZER
 id_coinmarketcap: '5373'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5373.png
 name: IZEROIUM
-platform: ETH
-platform_contract: '0xab5c04bbe42667610a2da07ac98ea9fa6e4a9514'

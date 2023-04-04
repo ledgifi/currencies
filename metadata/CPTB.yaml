@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe0bdfe2ce51f44556309665d59818ccb541ff067'
+    platform: BNB
 crypto: true
 fiat: false
 id: CPTB
 id_coinmarketcap: '9419'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9419.png
 name: Crypto Puzzles BSC
-platform: BNB
-platform_contract: '0xe0bdfe2ce51f44556309665d59818ccb541ff067'

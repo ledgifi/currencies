@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9066e87bac891409d690cfefa41379b34af06391'
+    platform: BNB
 crypto: true
 fiat: false
 id: TACO2
 id_coinmarketcap: '8632'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8632.png
 name: Taco Finance
-platform: BNB
-platform_contract: '0x9066e87bac891409d690cfefa41379b34af06391'

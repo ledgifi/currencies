@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x026f8d523d49f36db657e012c96488465d8d88f9'
+    platform: ETH
 crypto: true
 fiat: false
 id: ODY
 id_coinmarketcap: '5289'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5289.png
 name: Odyssey
-platform: ETH
-platform_contract: '0x026f8d523d49f36db657e012c96488465d8d88f9'

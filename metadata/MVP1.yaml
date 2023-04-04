@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3a2cdf6d19dc0e9a027b8bd2bb00b518a2ab39ce'
+    platform: BNB
 crypto: true
 fiat: false
 id: MVP1
 id_coinmarketcap: '14921'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14921.png
 name: Microverse
-platform: BNB
-platform_contract: '0x3a2cdf6d19dc0e9a027b8bd2bb00b518a2ab39ce'

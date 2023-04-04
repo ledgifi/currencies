@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x66fd97a78d8854fec445cd1c80a07896b0b4851f'
+    platform: ETH
 crypto: true
 fiat: false
 id: LMY
 id_coinmarketcap: '4577'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4577.png
 name: LunchMoney
-platform: ETH
-platform_contract: '0x66fd97a78d8854fec445cd1c80a07896b0b4851f'

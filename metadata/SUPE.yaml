@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb972c4027818223bb7b9399b3ca3ca58186e1590'
+    platform: BNB
 crypto: true
 fiat: false
 id: SUPE
 id_coinmarketcap: '16394'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16394.png
 name: SUPE
-platform: BNB
-platform_contract: '0xb972c4027818223bb7b9399b3ca3ca58186e1590'

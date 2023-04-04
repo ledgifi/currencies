@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF754620784E797f3681F9f295b2528455D2fC0d0'
+    platform: ETH
 crypto: true
 fiat: false
 id: ACAB
 id_coinmarketcap: '9499'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9499.png
 name: ACAB Token
-platform: ETH
-platform_contract: '0xF754620784E797f3681F9f295b2528455D2fC0d0'

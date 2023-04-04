@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0955A73D014F0693aC7B53CFe77706dAb02b3ef9'
+    platform: ETH
 crypto: true
 fiat: false
 id: LUCK2
 id_coinmarketcap: '9770'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9770.png
 name: Lady Luck
-platform: ETH
-platform_contract: '0x0955A73D014F0693aC7B53CFe77706dAb02b3ef9'

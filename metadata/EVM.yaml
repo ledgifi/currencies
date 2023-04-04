@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x57c56665b2bcdf3cb86e40a9d3dc21f5b0aed7ad'
+    platform: BNB
 crypto: true
 fiat: false
 id: EVM
 id_coinmarketcap: '10682'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10682.png
 name: EverMars
-platform: BNB
-platform_contract: '0x57c56665b2bcdf3cb86e40a9d3dc21f5b0aed7ad'

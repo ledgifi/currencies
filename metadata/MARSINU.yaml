@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9910f48EF7bd0291bC050CF900D732C24b39Ec31'
+    platform: BNB
 crypto: true
 fiat: false
 id: MARSINU
 id_coinmarketcap: '14379'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14379.png
 name: Mars Inu
-platform: BNB
-platform_contract: '0x9910f48EF7bd0291bC050CF900D732C24b39Ec31'

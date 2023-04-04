@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbe24e81490ea58df166e70bdd42bf3035732e100'
+    platform: BNB
 crypto: true
 fiat: false
 id: LOLZ
 id_coinmarketcap: '10743'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10743.png
 name: LoLzFinance
-platform: BNB
-platform_contract: '0xbe24e81490ea58df166e70bdd42bf3035732e100'

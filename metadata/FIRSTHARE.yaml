@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x432B4F994760Ea0C5f48BaAb6217e82A2B7F2c55'
+    platform: BNB
 crypto: true
 fiat: false
 id: FirstHare
 id_coinmarketcap: '17453'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17453.png
 name: FirstHare
-platform: BNB
-platform_contract: '0x432B4F994760Ea0C5f48BaAb6217e82A2B7F2c55'

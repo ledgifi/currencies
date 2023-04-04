@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x902c1101a66e697fa776b0b1c2d0d8ffdf866ed6'
+    platform: BNB
 crypto: true
 fiat: false
 id: PROFIT
 id_coinmarketcap: '14258'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14258.png
 name: Profit Bls
-platform: BNB
-platform_contract: '0x902c1101a66e697fa776b0b1c2d0d8ffdf866ed6'

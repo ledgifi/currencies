@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xff603f43946a3a28df5e6a73172555d8c8b02386'
+    platform: ETH
 crypto: true
 fiat: false
 id: RNT
 id_coinmarketcap: '2400'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2400.png
 name: OneRoot Network
-platform: ETH
-platform_contract: '0xff603f43946a3a28df5e6a73172555d8c8b02386'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf0d243ee0d7517b1fcf2445ab624ded2dbe3ba54'
+    platform: ETH
 crypto: true
 fiat: false
 id: ENGN
 id_coinmarketcap: '15485'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15485.png
 name: Engine
-platform: ETH
-platform_contract: '0xf0d243ee0d7517b1fcf2445ab624ded2dbe3ba54'

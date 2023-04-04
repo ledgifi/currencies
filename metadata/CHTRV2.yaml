@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA23a065b6525711811DA2ceE2EdAd9E2c9f87B0c'
+    platform: BNB
 crypto: true
 fiat: false
 id: CHTRv2
 id_coinmarketcap: '11704'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11704.png
 name: Coinhunters
-platform: BNB
-platform_contract: '0xA23a065b6525711811DA2ceE2EdAd9E2c9f87B0c'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1f7e8fe01aeba6fdaea85161746f4d53dc9bda4f'
+    platform: BNB
 crypto: true
 fiat: false
 id: GGTKN
 id_coinmarketcap: '20484'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20484.png
 name: GG Token
-platform: BNB
-platform_contract: '0x1f7e8fe01aeba6fdaea85161746f4d53dc9bda4f'

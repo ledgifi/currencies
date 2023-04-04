@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x13e7bcefdde72492e656f3fa58bae6029708e673'
+    platform: AVAX
 crypto: true
 fiat: false
 id: AGX
 id_coinmarketcap: '22803'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22803.png
 name: AGX Coin
-platform: AVAX
-platform_contract: '0x13e7bcefdde72492e656f3fa58bae6029708e673'

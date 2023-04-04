@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8d9bb0226aeb57366b380aea27c362c3446063ce'
+    platform: BNB
 crypto: true
 fiat: false
 id: LITO
 id_coinmarketcap: '12356'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12356.png
 name: LITUNI
-platform: BNB
-platform_contract: '0x8d9bb0226aeb57366b380aea27c362c3446063ce'

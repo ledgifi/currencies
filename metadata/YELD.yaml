@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x468ab3b1f63A1C14b361bC367c3cC92277588Da1'
+    platform: ETH
 crypto: true
 fiat: false
 id: YELD
 id_coinmarketcap: '6974'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6974.png
 name: Yeld Finance
-platform: ETH
-platform_contract: '0x468ab3b1f63A1C14b361bC367c3cC92277588Da1'

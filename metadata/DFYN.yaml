@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9695e0114e12c0d3a3636fab5a18e6b737529023'
+    platform: ETH
 crypto: true
 fiat: false
 id: DFYN
 id_coinmarketcap: '9511'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9511.png
 name: Dfyn Network
-platform: ETH
-platform_contract: '0x9695e0114e12c0d3a3636fab5a18e6b737529023'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8a2ead49d2123edee893181fb69527a022235c36'
+    platform: ETH
 crypto: true
 fiat: false
 id: MAXR
 id_coinmarketcap: '17030'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17030.png
 name: Max Revive
-platform: ETH
-platform_contract: '0x8a2ead49d2123edee893181fb69527a022235c36'

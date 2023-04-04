@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8cb4fdb148d87f7ec493e69391347bdd3ff1163f'
+    platform: BNB
 crypto: true
 fiat: false
 id: NMS3
 id_coinmarketcap: '17581'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17581.png
 name: Nemesis Wealth Projects BSC
-platform: BNB
-platform_contract: '0x8cb4fdb148d87f7ec493e69391347bdd3ff1163f'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3d61e677944204Cd1002202912a2B7a43A8E2823'
+    platform: ETH
 crypto: true
 fiat: false
 id: USDF2
 id_coinmarketcap: '7065'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7065.png
 name: Dollar Protocol
-platform: ETH
-platform_contract: '0x3d61e677944204Cd1002202912a2B7a43A8E2823'

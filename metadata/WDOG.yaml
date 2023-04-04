@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6ffcebb2f9360bc233cc0aa35d15b4999cd6af29'
+    platform: BNB
 crypto: true
 fiat: false
 id: WDOG
 id_coinmarketcap: '22342'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22342.png
 name: Winterdog
-platform: BNB
-platform_contract: '0x6ffcebb2f9360bc233cc0aa35d15b4999cd6af29'

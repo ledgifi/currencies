@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6b9f031d718dded0d681c20cb754f97b3bb81b78'
+    platform: ETH
 crypto: true
 fiat: false
 id: GEEQ
 id_coinmarketcap: '6194'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6194.png
 name: Geeq
-platform: ETH
-platform_contract: '0x6b9f031d718dded0d681c20cb754f97b3bb81b78'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6b5dde2c94ecc10c93e8a44288befad2a89bd657'
+    platform: ETH
 crypto: true
 fiat: false
 id: BFIGHT
 id_coinmarketcap: '21955'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21955.png
 name: BARFIGHT
-platform: ETH
-platform_contract: '0x6b5dde2c94ecc10c93e8a44288befad2a89bd657'

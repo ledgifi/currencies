@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0c30AAa3BA8D581A46Db87e3904f1c482d2f26e9'
+    platform: BNB
 crypto: true
 fiat: false
 id: FST4
 id_coinmarketcap: '15046'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15046.png
 name: Fans Squid
-platform: BNB
-platform_contract: '0x0c30AAa3BA8D581A46Db87e3904f1c482d2f26e9'

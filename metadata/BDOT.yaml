@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x7884f51dc1410387371ce61747cb6264e1daee0b'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: BDOT2
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220104/9cf24f2e-09ef-4d9a-b0d4-1029a7ef833b.png
 logoKey: currencies/bdot.png
 name: Binance Wrapped DOT
-platform: ETH
-platform_contract: '0x7884f51dc1410387371ce61747cb6264e1daee0b'

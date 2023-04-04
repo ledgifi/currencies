@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xFDfc1AB8BF1e2D6920cAf405AA488987a077FC4B'
+    platform: BNB
 crypto: true
 fiat: false
 id: CBYTE
 id_coinmarketcap: '23727'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23727.png
 name: CBYTE
-platform: BNB
-platform_contract: '0xFDfc1AB8BF1e2D6920cAf405AA488987a077FC4B'

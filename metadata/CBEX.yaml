@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x280daacbd812725baf46e273b84426b1e10ab410'
+    platform: ETH
 crypto: true
 fiat: false
 id: CBEX
 id_coinmarketcap: '4177'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4177.png
 name: CBEX Token
-platform: ETH
-platform_contract: '0x280daacbd812725baf46e273b84426b1e10ab410'

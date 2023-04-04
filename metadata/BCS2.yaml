@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x03066dA434e5264ef0B32f787923f974A5726fDc'
+    platform: ETH
 crypto: true
 fiat: false
 id: BCS2
 id_coinmarketcap: '8154'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8154.png
 name: Basiscoin Share
-platform: ETH
-platform_contract: '0x03066dA434e5264ef0B32f787923f974A5726fDc'

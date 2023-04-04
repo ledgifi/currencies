@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7ba3cd00229c1becc95a4b056ff15c123dcb456d'
+    platform: BNB
 crypto: true
 fiat: false
 id: SVT1
 id_coinmarketcap: '12361'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12361.png
 name: Space Vikings
-platform: BNB
-platform_contract: '0x7ba3cd00229c1becc95a4b056ff15c123dcb456d'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xebb3ca3babd51afcd7e0968571874567de02af5c'
+    platform: ETH
 crypto: true
 fiat: false
 id: MELIODAS
 id_coinmarketcap: '13275'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13275.png
 name: Meliodas
-platform: ETH
-platform_contract: '0xebb3ca3babd51afcd7e0968571874567de02af5c'

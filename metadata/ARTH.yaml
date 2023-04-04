@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8cc0f052fff7ead7f2edcccac895502e884a8a71'
+    platform: ETH
 crypto: true
 fiat: false
 id: ARTH
 id_coinmarketcap: '10865'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10865.png
 name: ARTH Valuecoin
-platform: ETH
-platform_contract: '0x8cc0f052fff7ead7f2edcccac895502e884a8a71'

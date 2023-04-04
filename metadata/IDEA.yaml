@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5d3a4F62124498092Ce665f865E0b38fF6F5FbEa'
+    platform: ETH
 crypto: true
 fiat: false
 id: IDEA
 id_coinmarketcap: '7681'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7681.png
 name: Ideaology
-platform: ETH
-platform_contract: '0x5d3a4F62124498092Ce665f865E0b38fF6F5FbEa'

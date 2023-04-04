@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x533a36e7dc77e6b936f2797f2c677679b9573fe7'
+    platform: BNB
 crypto: true
 fiat: false
 id: PHT2
 id_coinmarketcap: '17340'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17340.png
 name: ParadiseHotel NFT
-platform: BNB
-platform_contract: '0x533a36e7dc77e6b936f2797f2c677679b9573fe7'

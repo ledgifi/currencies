@@ -1,8 +1,9 @@
+contracts:
+  - address: TDXJ1dSPLsN52jhP32NvVyhQ5X265BNU5c
+    platform: TRX
 crypto: true
 fiat: false
 id: RLE
 id_coinmarketcap: '7990'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7990.png
 name: Richlab Token
-platform: TRX
-platform_contract: TDXJ1dSPLsN52jhP32NvVyhQ5X265BNU5c

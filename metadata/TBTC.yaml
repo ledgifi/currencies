@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8daebade922df735c38c80c7ebd708af50815faa'
+    platform: ETH
 crypto: true
 fiat: false
 id: TBTC
 id_coinmarketcap: '5776'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5776.png
 name: tBTC
-platform: ETH
-platform_contract: '0x8daebade922df735c38c80c7ebd708af50815faa'

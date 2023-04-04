@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbeab712832112bd7664226db7cd025b153d3af55'
+    platform: ETH
 crypto: true
 fiat: false
 id: BRIGHT1
 id_coinmarketcap: '11193'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11193.png
 name: Bright Union
-platform: ETH
-platform_contract: '0xbeab712832112bd7664226db7cd025b153d3af55'

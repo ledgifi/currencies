@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x77c07555af5ffdc946fb47ce15ea68620e4e7170'
+    platform: ETH
 crypto: true
 fiat: false
 id: BRZE
 id_coinmarketcap: '3519'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3519.png
 name: Breezecoin
-platform: ETH
-platform_contract: '0x77c07555af5ffdc946fb47ce15ea68620e4e7170'

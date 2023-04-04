@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA8B0811e338CC3688b9180F5cc8f97312A2B669f'
+    platform: BNB
 crypto: true
 fiat: false
 id: MVM1
 id_coinmarketcap: '20761'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20761.png
 name: MoveMoon
-platform: BNB
-platform_contract: '0xA8B0811e338CC3688b9180F5cc8f97312A2B669f'

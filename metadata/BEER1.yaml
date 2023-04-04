@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd5a0dad4e6f399cdc346ff04fd90ec0b511fcef9'
+    platform: BNB
 crypto: true
 fiat: false
 id: BEER1
 id_coinmarketcap: '9695'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9695.png
 name: Beer Token
-platform: BNB
-platform_contract: '0xd5a0dad4e6f399cdc346ff04fd90ec0b511fcef9'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd9979e2479aea29751d31ae512a61297b98fbbf4'
+    platform: BNB
 crypto: true
 fiat: false
 id: TORII
 id_coinmarketcap: '12234'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12234.png
 name: Torii Finance
-platform: BNB
-platform_contract: '0xd9979e2479aea29751d31ae512a61297b98fbbf4'

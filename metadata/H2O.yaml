@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaf3287cae99c982586c07401c0d911bf7de6cd82'
+    platform: BNB
 crypto: true
 fiat: false
 id: H2O
 id_coinmarketcap: '19091'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19091.png
 name: H2O DAO
-platform: BNB
-platform_contract: '0xaf3287cae99c982586c07401c0d911bf7de6cd82'

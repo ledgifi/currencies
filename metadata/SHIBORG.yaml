@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x389c13d5be24bed2af35c30f211e042225cb06ff'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIBORG
 id_coinmarketcap: '13634'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13634.png
 name: SHIBORG INU
-platform: BNB
-platform_contract: '0x389c13d5be24bed2af35c30f211e042225cb06ff'

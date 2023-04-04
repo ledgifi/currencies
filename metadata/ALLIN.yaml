@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9B2b931d6AB97B6A887b2C5d8529537E6FE73Ebe'
+    platform: ETH
 crypto: true
 fiat: false
 id: ALLIN
 id_coinmarketcap: '22919'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22919.png
 name: All in
-platform: ETH
-platform_contract: '0x9B2b931d6AB97B6A887b2C5d8529537E6FE73Ebe'

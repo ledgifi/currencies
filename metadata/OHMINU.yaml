@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x98F817765f69c802a7b188A3165a3267aD2d1123'
+    platform: ETH
 crypto: true
 fiat: false
 id: OHMINU
 id_coinmarketcap: '13734'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13734.png
 name: Olympus Inu Dao
-platform: ETH
-platform_contract: '0x98F817765f69c802a7b188A3165a3267aD2d1123'

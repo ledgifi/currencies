@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xEd0c1C9c64Ff7C7cC37c3AF0dfcf5B02eFE0Bb5f'
+    platform: BNB
 crypto: true
 fiat: false
 id: BITORB
 id_coinmarketcap: '12255'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12255.png
 name: BitOrbit
-platform: BNB
-platform_contract: '0xEd0c1C9c64Ff7C7cC37c3AF0dfcf5B02eFE0Bb5f'

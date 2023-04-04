@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5121e348e897daef1eef23959ab290e5557cf274'
+    platform: ETH
 crypto: true
 fiat: false
 id: AI5
 id_coinmarketcap: '2224'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2224.png
 name: POLY AI
-platform: ETH
-platform_contract: '0x5121e348e897daef1eef23959ab290e5557cf274'

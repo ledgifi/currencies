@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1519aff03b3e23722511d2576c769a77baf09580'
+    platform: ETH
 crypto: true
 fiat: false
 id: B91
 id_coinmarketcap: '4007'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4007.png
 name: B91
-platform: ETH
-platform_contract: '0x1519aff03b3e23722511d2576c769a77baf09580'

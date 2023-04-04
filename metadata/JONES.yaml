@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x10393c20975cf177a3513071bc110f7962cd67da'
+    platform: ARB
 crypto: true
 fiat: false
 id: JONES
 id_coinmarketcap: '17743'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17743.png
 name: Jones DAO
-platform: ARB
-platform_contract: '0x10393c20975cf177a3513071bc110f7962cd67da'

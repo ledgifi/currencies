@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc3efc6e1cfecb4903570ed86142c7f9a8a760bf6'
+    platform: BNB
 crypto: true
 fiat: false
 id: MEBU
 id_coinmarketcap: '21949'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21949.png
 name: Metaburst
-platform: BNB
-platform_contract: '0xc3efc6e1cfecb4903570ed86142c7f9a8a760bf6'

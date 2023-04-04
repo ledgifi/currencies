@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x11F814bf948c1e0726c738c6d42fA7234f32b6E8'
+    platform: BNB
 crypto: true
 fiat: false
 id: MILKY1
 id_coinmarketcap: '20874'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20874.png
 name: MilkyWay
-platform: BNB
-platform_contract: '0x11F814bf948c1e0726c738c6d42fA7234f32b6E8'

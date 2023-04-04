@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x09861d8c3c1350699f8522253e5485f751d6fa78'
+    platform: BNB
 crypto: true
 fiat: false
 id: MTB2
 id_coinmarketcap: '19051'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19051.png
 name: MetaBots
-platform: BNB
-platform_contract: '0x09861d8c3c1350699f8522253e5485f751d6fa78'

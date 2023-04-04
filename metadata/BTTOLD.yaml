@@ -1,3 +1,6 @@
+contracts:
+  - address: '1002000'
+    platform: TRX
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: BTTOLD
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/btt.svg
 logoKey: currencies/bttold.svg
 name: BitTorrent OLD
-platform: TRX
-platform_contract: '1002000'

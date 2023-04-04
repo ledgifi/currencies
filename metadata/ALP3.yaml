@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x37d6e7f287200c740012747d2a79295caed2db35'
+    platform: ETH
 crypto: true
 fiat: false
 id: ALP3
 id_coinmarketcap: '4820'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4820.png
 name: ALP Coin
-platform: ETH
-platform_contract: '0x37d6e7f287200c740012747d2a79295caed2db35'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3f8a14f5a3ee2f4a3ed61ccf5eea3c9535c090c8'
+    platform: BNB
 crypto: true
 fiat: false
 id: LSWAP
 id_coinmarketcap: '18818'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18818.png
 name: LoopSwap
-platform: BNB
-platform_contract: '0x3f8a14f5a3ee2f4a3ed61ccf5eea3c9535c090c8'

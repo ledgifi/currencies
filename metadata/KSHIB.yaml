@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x11C0c93035d1302083eB09841042cFa582839A8C'
+    platform: BNB
 crypto: true
 fiat: false
 id: KSHIB
 id_coinmarketcap: '11397'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11397.png
 name: Kaiken Shiba
-platform: BNB
-platform_contract: '0x11C0c93035d1302083eB09841042cFa582839A8C'

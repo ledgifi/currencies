@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9e26c50b8a3b7652c3fd2b378252a8647a0c9268'
+    platform: BNB
 crypto: true
 fiat: false
 id: WOOF3
 id_coinmarketcap: '10857'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10857.png
 name: Shibance
-platform: BNB
-platform_contract: '0x9e26c50b8a3b7652c3fd2b378252a8647a0c9268'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf6557bc62ac67744961479ea6c131b61444714d6'
+    platform: AVAX
 crypto: true
 fiat: false
 id: VCS
 id_coinmarketcap: '21337'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21337.png
 name: Vacus Finance
-platform: AVAX
-platform_contract: '0xf6557bc62ac67744961479ea6c131b61444714d6'

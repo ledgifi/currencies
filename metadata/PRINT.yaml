@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x54b8c98268da0055971652a95f2bfd3a9349a38c'
+    platform: ETH
 crypto: true
 fiat: false
 id: PRINT
 id_coinmarketcap: '7089'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7089.png
 name: Printer.Finance
-platform: ETH
-platform_contract: '0x54b8c98268da0055971652a95f2bfd3a9349a38c'

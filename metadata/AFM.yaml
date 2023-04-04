@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x431289cb3a2ec0875351e33767e175c816c73b3a'
+    platform: AVAX
 crypto: true
 fiat: false
 id: AFM
 id_coinmarketcap: '17736'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17736.png
 name: Alfheim Finance
-platform: AVAX
-platform_contract: '0x431289cb3a2ec0875351e33767e175c816c73b3a'

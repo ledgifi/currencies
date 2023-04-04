@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x4c3E460b8e8285DE57c8B1B2B688847B995B71D6'
+    platform: CHZ
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: ATM2
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220329/25c2df41-b796-4cf4-900d-c15f16480ce3.png
 logoKey: currencies/atm.png
 name: Atlético de Madrid Fan Token
-platform: CHZ
-platform_contract: '0x4c3E460b8e8285DE57c8B1B2B688847B995B71D6'

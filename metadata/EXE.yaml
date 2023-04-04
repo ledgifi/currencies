@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x412d397ddca07d753e3e0c61e367fb1b474b3e7d'
+    platform: ETH
 crypto: true
 fiat: false
 id: EXE
 id_coinmarketcap: '5620'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5620.png
 name: 8X8 PROTOCOL
-platform: ETH
-platform_contract: '0x412d397ddca07d753e3e0c61e367fb1b474b3e7d'

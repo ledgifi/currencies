@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1c796c140de269e255372ea687ef7644bab87935'
+    platform: BNB
 crypto: true
 fiat: false
 id: DMLG
 id_coinmarketcap: '12585'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12585.png
 name: Demole
-platform: BNB
-platform_contract: '0x1c796c140de269e255372ea687ef7644bab87935'

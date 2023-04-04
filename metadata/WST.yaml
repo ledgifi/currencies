@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xD68F9F6769F68cB30505aA3F175F9e81E58503c8'
+    platform: BNB
 crypto: true
 fiat: false
 id: WST
 id_coinmarketcap: '20430'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20430.png
 name: WingStep
-platform: BNB
-platform_contract: '0xD68F9F6769F68cB30505aA3F175F9e81E58503c8'

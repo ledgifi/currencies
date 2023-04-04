@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x784b87d2735349f56cc03cf67ba07c55de43719e'
+    platform: BNB
 crypto: true
 fiat: false
 id: ROCKET1
 id_coinmarketcap: '9331'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9331.png
 name: Rocket Yield
-platform: BNB
-platform_contract: '0x784b87d2735349f56cc03cf67ba07c55de43719e'

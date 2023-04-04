@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA12ca1B75AD1C73cA610D9788D4D7dcb5CAeE012'
+    platform: ETH
 crypto: true
 fiat: false
 id: HEART1
 id_coinmarketcap: '24179'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24179.png
 name: Heart Bridge
-platform: ETH
-platform_contract: '0xA12ca1B75AD1C73cA610D9788D4D7dcb5CAeE012'

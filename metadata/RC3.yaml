@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2d220f7f7ea450bae821424a4cdd5ff0b4513970'
+    platform: BNB
 crypto: true
 fiat: false
 id: RC3
 id_coinmarketcap: '12759'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12759.png
 name: RetroCade
-platform: BNB
-platform_contract: '0x2d220f7f7ea450bae821424a4cdd5ff0b4513970'

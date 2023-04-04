@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xea395DFaFEd39924988b475f2Ca7f4C72655203A'
+    platform: BNB
 crypto: true
 fiat: false
 id: CPO
 id_coinmarketcap: '12051'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12051.png
 name: Cryptopolis
-platform: BNB
-platform_contract: '0xea395DFaFEd39924988b475f2Ca7f4C72655203A'

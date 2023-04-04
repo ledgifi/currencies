@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x61107a409fffe1965126aa456af679719695c69c'
+    platform: ETH
 crypto: true
 fiat: false
 id: UMI
 id_coinmarketcap: '12737'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12737.png
 name: Umi Digital
-platform: ETH
-platform_contract: '0x61107a409fffe1965126aa456af679719695c69c'

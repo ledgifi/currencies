@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe0e05c43c097b0982db6c9d626c4eb9e95c3b9ce'
+    platform: ETH
 crypto: true
 fiat: false
 id: USF
 id_coinmarketcap: '8896'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8896.png
 name: Unslashed Finance
-platform: ETH
-platform_contract: '0xe0e05c43c097b0982db6c9d626c4eb9e95c3b9ce'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x927159670C50042109d7C0f4aEd0Cee89452433E'
+    platform: ETH
 crypto: true
 fiat: false
 id: DGP
 id_coinmarketcap: '7864'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7864.png
 name: DGPayment
-platform: ETH
-platform_contract: '0x927159670C50042109d7C0f4aEd0Cee89452433E'

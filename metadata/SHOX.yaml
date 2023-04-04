@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1726b8d5dc3A93CC08Fa079477d4EBe782b25Bf7'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHOX
 id_coinmarketcap: '19535'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19535.png
 name: SHINJIRO
-platform: ETH
-platform_contract: '0x1726b8d5dc3A93CC08Fa079477d4EBe782b25Bf7'

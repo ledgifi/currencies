@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc14df1e2fff3708816495e7364ff274aceecad91'
+    platform: BNB
 crypto: true
 fiat: false
 id: N1CE
 id_coinmarketcap: '10689'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10689.png
 name: N1CE
-platform: BNB
-platform_contract: '0xc14df1e2fff3708816495e7364ff274aceecad91'

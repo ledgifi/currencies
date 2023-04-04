@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x78a499a998bdd5a84cf8b5abe49100d82de12f1c'
+    platform: BNB
 crypto: true
 fiat: false
 id: JOJO
 id_coinmarketcap: '11076'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11076.png
 name: JOJO
-platform: BNB
-platform_contract: '0x78a499a998bdd5a84cf8b5abe49100d82de12f1c'

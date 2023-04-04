@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xb8647e90c0645152fccf4d9abb6b59eb4aa99052'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: KEYFI
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210629/71b83d76-4c8c-4aec-b8b6-7ea4d2f3f306.png
 logoKey: currencies/keyfi.png
 name: KeyFi
-platform: ETH
-platform_contract: '0xb8647e90c0645152fccf4d9abb6b59eb4aa99052'

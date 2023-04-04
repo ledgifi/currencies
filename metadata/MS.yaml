@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6d6554939d646f274d0fc3cecb7dab5d76bc908f'
+    platform: ETH
 crypto: true
 fiat: false
 id: MS
 id_coinmarketcap: '22659'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22659.png
 name: Morphswap
-platform: ETH
-platform_contract: '0x6d6554939d646f274d0fc3cecb7dab5d76bc908f'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe41A093549BeEe36b76728D456894093396D1120'
+    platform: BNB
 crypto: true
 fiat: false
 id: MARSSHIBA
 id_coinmarketcap: '14084'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14084.png
 name: The Mars Shiba
-platform: BNB
-platform_contract: '0xe41A093549BeEe36b76728D456894093396D1120'

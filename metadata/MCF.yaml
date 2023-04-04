@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE33AE4E795114279721047484E5ad5cc7DF24fcB'
+    platform: ETH
 crypto: true
 fiat: false
 id: MCF
 id_coinmarketcap: '11660'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11660.png
 name: MCFinance
-platform: ETH
-platform_contract: '0xE33AE4E795114279721047484E5ad5cc7DF24fcB'

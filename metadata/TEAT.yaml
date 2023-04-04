@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x38d58b82cb24a3e0410a7991f255174c9fd8093b'
+    platform: ETH
 crypto: true
 fiat: false
 id: TEAT
 id_coinmarketcap: '7614'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7614.png
 name: TEAL
-platform: ETH
-platform_contract: '0x38d58b82cb24a3e0410a7991f255174c9fd8093b'

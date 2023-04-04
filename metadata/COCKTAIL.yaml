@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x10f292a6e694c38c5d570127da445143a2d882f3'
+    platform: BNB
 crypto: true
 fiat: false
 id: COCKTAIL
 id_coinmarketcap: '11128'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11128.png
 name: Cocktail
-platform: BNB
-platform_contract: '0x10f292a6e694c38c5d570127da445143a2d882f3'

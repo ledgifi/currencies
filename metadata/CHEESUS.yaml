@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x736a9964c921b75d9fb94f30cdfed8bd5be43d0e'
+    platform: BNB
 crypto: true
 fiat: false
 id: CHEESUS
 id_coinmarketcap: '17294'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17294.png
 name: Cheesus
-platform: BNB
-platform_contract: '0x736a9964c921b75d9fb94f30cdfed8bd5be43d0e'

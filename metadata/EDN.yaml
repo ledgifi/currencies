@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x89020f0d5c5af4f3407eb5fe185416c457b0e93e'
+    platform: ETH
 crypto: true
 fiat: false
 id: EDN
 id_coinmarketcap: '3305'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3305.png
 name: Eden
-platform: ETH
-platform_contract: '0x89020f0d5c5af4f3407eb5fe185416c457b0e93e'

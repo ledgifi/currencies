@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1e2b832edd325e85eac987d3e6a95861f6280c46'
+    platform: BNB
 crypto: true
 fiat: false
 id: CPX1
 id_coinmarketcap: '21950'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21950.png
 name: Cat Sphynx
-platform: BNB
-platform_contract: '0x1e2b832edd325e85eac987d3e6a95861f6280c46'

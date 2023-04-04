@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5301eae39a4cba1cc2a74e861fded062ca3e3420'
+    platform: ETH
 crypto: true
 fiat: false
 id: CEN2
 id_coinmarketcap: '3229'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3229.png
 name: Centaure
-platform: ETH
-platform_contract: '0x5301eae39a4cba1cc2a74e861fded062ca3e3420'

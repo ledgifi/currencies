@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1e8e29ca51363d923725ab9dac73bd7e9c440f71'
+    platform: ETH
 crypto: true
 fiat: false
 id: MTAO
 id_coinmarketcap: '23303'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23303.png
 name: MEME TAO
-platform: ETH
-platform_contract: '0x1e8e29ca51363d923725ab9dac73bd7e9c440f71'

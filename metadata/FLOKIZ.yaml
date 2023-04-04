@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xee901a8a13e5b71dd35ad259d87e17a891d1f0f3'
+    platform: BNB
 crypto: true
 fiat: false
 id: FLOKIZ
 id_coinmarketcap: '13957'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13957.png
 name: FlokiZap
-platform: BNB
-platform_contract: '0xee901a8a13e5b71dd35ad259d87e17a891d1f0f3'

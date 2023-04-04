@@ -1,3 +1,6 @@
+contracts:
+  - address: e5a49d7fd57e7178e189d3965d1ee64368a1036d
+    platform: ONT
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: MBL
 logo: https://bin.bnbstatic.com/images/20200221/76ed03c0-191f-44b9-a447-bc3dc8c14dfa.png
 logoKey: currencies/mbl.png
 name: MovieBloc
-platform: ONT
-platform_contract: e5a49d7fd57e7178e189d3965d1ee64368a1036d

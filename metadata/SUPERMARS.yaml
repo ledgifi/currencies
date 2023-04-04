@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5B2398A75ecf16B832122B2b29C24E7B1367131a'
+    platform: BNB
 crypto: true
 fiat: false
 id: SUPERMARS
 id_coinmarketcap: '9305'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9305.png
 name: Super Mars
-platform: BNB
-platform_contract: '0x5B2398A75ecf16B832122B2b29C24E7B1367131a'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x36e714d63b676236b72a0a4405f726337b06b6e5'
+    platform: BNB
 crypto: true
 fiat: false
 id: GUT
 id_coinmarketcap: '21618'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21618.png
 name: Genesis Universe
-platform: BNB
-platform_contract: '0x36e714d63b676236b72a0a4405f726337b06b6e5'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfDD2374be7ae7a71138B9f6b93d9eF034a49edB6'
+    platform: BNB
 crypto: true
 fiat: false
 id: VRGW
 id_coinmarketcap: '21911'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21911.png
 name: Virtual Reality Game World
-platform: BNB
-platform_contract: '0xfDD2374be7ae7a71138B9f6b93d9eF034a49edB6'

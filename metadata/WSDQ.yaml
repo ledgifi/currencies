@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xafc4d521df3c0566d61931f81f02f1a525bad04d'
+    platform: BNB
 crypto: true
 fiat: false
 id: WSDQ
 id_coinmarketcap: '15689'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15689.png
 name: Wasdaq Finance
-platform: BNB
-platform_contract: '0xafc4d521df3c0566d61931f81f02f1a525bad04d'

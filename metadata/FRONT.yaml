@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xf8C3527CC04340b208C854E985240c02F7B7793f'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: FRONT
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201118/cc5855c9-4869-4f20-99d8-6c999f475dbe.png
 logoKey: currencies/front.png
 name: Frontier
-platform: ETH
-platform_contract: '0xf8C3527CC04340b208C854E985240c02F7B7793f'

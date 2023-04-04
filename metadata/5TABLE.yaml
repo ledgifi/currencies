@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x14d6111dbfD64CEb9676a494BF86AA9f7DD54acC'
+    platform: FTM
 crypto: true
 fiat: false
 id: 5TABLE
 id_coinmarketcap: '18601'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18601.png
 name: 5table Finance
-platform: FTM
-platform_contract: '0x14d6111dbfD64CEb9676a494BF86AA9f7DD54acC'

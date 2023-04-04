@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x06147110022b768ba8f99a8f385df11a151a9cc8'
+    platform: ETH
 crypto: true
 fiat: false
 id: ACE2
 id_coinmarketcap: '2311'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2311.png
 name: ACE (TokenStars)
-platform: ETH
-platform_contract: '0x06147110022b768ba8f99a8f385df11a151a9cc8'

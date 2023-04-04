@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x54523d5fb56803bac758e8b10b321748a77ae9e9'
+    platform: BNB
 crypto: true
 fiat: false
 id: DREAMS
@@ -6,5 +9,3 @@ id_nomics: DREAMS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DREAMS.png
 logoKey: currencies/dreams.png
 name: Dreams Quest
-platform: BNB
-platform_contract: '0x54523d5fb56803bac758e8b10b321748a77ae9e9'

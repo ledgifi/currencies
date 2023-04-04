@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6c862f803fF42A97D4A483AB761256ad8c90f4F8'
+    platform: ETH
 crypto: true
 fiat: false
 id: XLS
 id_coinmarketcap: '17483'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17483.png
 name: ELIS
-platform: ETH
-platform_contract: '0x6c862f803fF42A97D4A483AB761256ad8c90f4F8'

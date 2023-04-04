@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbe0c826f17680d8da620855be89dd6544c034ca1'
+    platform: ETH
 crypto: true
 fiat: false
 id: BANKETH
 id_coinmarketcap: '11333'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11333.png
 name: BankEth
-platform: ETH
-platform_contract: '0xbe0c826f17680d8da620855be89dd6544c034ca1'

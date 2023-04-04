@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd10332818d6a9b4b84bf5d87dbf9d80012fdf913'
+    platform: BNB
 crypto: true
 fiat: false
 id: MRHB
 id_coinmarketcap: '12414'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12414.png
 name: MRHB DeFi Network
-platform: BNB
-platform_contract: '0xd10332818d6a9b4b84bf5d87dbf9d80012fdf913'

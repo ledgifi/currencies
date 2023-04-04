@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x112Fbe7f60329E9E2D232008E56F94D1582aE3bc'
+    platform: BNB
 crypto: true
 fiat: false
 id: BabyFB
 id_coinmarketcap: '12355'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12355.png
 name: Baby Floki Billionaire
-platform: BNB
-platform_contract: '0x112Fbe7f60329E9E2D232008E56F94D1582aE3bc'

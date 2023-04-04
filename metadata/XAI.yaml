@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x35e78b3982e87ecfd5b3f3265b601c046cdbe232'
+    platform: ETH
 crypto: true
 fiat: false
 id: XAI
 id_coinmarketcap: '11726'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11726.png
 name: SideShift Token
-platform: ETH
-platform_contract: '0x35e78b3982e87ecfd5b3f3265b601c046cdbe232'

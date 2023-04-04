@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xeD3fB761414DA74b74F33e5c5a1f78104b188DfC'
+    platform: ARB
 crypto: true
 fiat: false
 id: NYAN
 id_coinmarketcap: '11854'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11854.png
 name: ArbiNYAN
-platform: ARB
-platform_contract: '0xeD3fB761414DA74b74F33e5c5a1f78104b188DfC'

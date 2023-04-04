@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0dea5ac2898e6aa637ece0db750fd6d35e460392'
+    platform: BNB
 crypto: true
 fiat: false
 id: NUBTC
 id_coinmarketcap: '15344'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15344.png
 name: Unvaxxed Sperm
-platform: BNB
-platform_contract: '0x0dea5ac2898e6aa637ece0db750fd6d35e460392'

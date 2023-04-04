@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x02725836ebf3ecdb1cdf1c7b02fcbbfaa2736af8'
+    platform: ETH
 crypto: true
 fiat: false
 id: BTCA
@@ -6,5 +9,3 @@ id_nomics: BTCA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/btca.svg
 logoKey: currencies/btca.svg
 name: Bitair
-platform: ETH
-platform_contract: '0x02725836ebf3ecdb1cdf1c7b02fcbbfaa2736af8'

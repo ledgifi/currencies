@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x24905b248dceeb17b221a48efa0d0388b3b38fe4'
+    platform: BNB
 crypto: true
 fiat: false
 id: LOUVRE
 id_coinmarketcap: '10782'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10782.png
 name: Louvre Finance
-platform: BNB
-platform_contract: '0x24905b248dceeb17b221a48efa0d0388b3b38fe4'

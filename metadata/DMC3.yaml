@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1ec184ec2db325140b041f9214f98a537f80e1a7'
+    platform: ETH
 crypto: true
 fiat: false
 id: DMC3
 id_coinmarketcap: '22016'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22016.png
 name: Deploying More Capital
-platform: ETH
-platform_contract: '0x1ec184ec2db325140b041f9214f98a537f80e1a7'

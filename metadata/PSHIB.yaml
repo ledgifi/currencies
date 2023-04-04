@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x371B1eB93a746c801AE345255f5F29B07B36326C'
+    platform: BNB
 crypto: true
 fiat: false
 id: PSHIB
 id_coinmarketcap: '13131'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13131.png
 name: Pixel Shiba Inu
-platform: BNB
-platform_contract: '0x371B1eB93a746c801AE345255f5F29B07B36326C'

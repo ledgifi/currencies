@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf15c8d610e02602caaa9959bf5ecfeb8b3d229be'
+    platform: BNB
 crypto: true
 fiat: false
 id: BTNTY
 id_coinmarketcap: '21459'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21459.png
 name: Bitnity (old)
-platform: BNB
-platform_contract: '0xf15c8d610e02602caaa9959bf5ecfeb8b3d229be'

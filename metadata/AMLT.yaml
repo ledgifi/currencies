@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xca0e7269600d353f70b14ad118a49575455c0f2f'
+    platform: ETH
 crypto: true
 fiat: false
 id: AMLT
 id_coinmarketcap: '2607'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2607.png
 name: AMLT
-platform: ETH
-platform_contract: '0xca0e7269600d353f70b14ad118a49575455c0f2f'

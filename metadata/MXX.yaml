@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8a6f3bf52a26a21531514e23016eeae8ba7e7018'
+    platform: ETH
 crypto: true
 fiat: false
 id: MXX
 id_coinmarketcap: '6583'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6583.png
 name: Multiplier
-platform: ETH
-platform_contract: '0x8a6f3bf52a26a21531514e23016eeae8ba7e7018'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdcc261c03cd2f33ebea404318cdc1d9f8b78e1ad'
+    platform: CRO
 crypto: true
 fiat: false
 id: VSHARE
 id_coinmarketcap: '18650'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18650.png
 name: V3S Share
-platform: CRO
-platform_contract: '0xdcc261c03cd2f33ebea404318cdc1d9f8b78e1ad'

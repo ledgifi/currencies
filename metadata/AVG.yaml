@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa41f142b6eb2b164f8164cae0716892ce02f311f'
+    platform: ETH
 crypto: true
 fiat: false
 id: AVG
 id_coinmarketcap: '16543'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16543.png
 name: Avocado DAO Token
-platform: ETH
-platform_contract: '0xa41f142b6eb2b164f8164cae0716892ce02f311f'

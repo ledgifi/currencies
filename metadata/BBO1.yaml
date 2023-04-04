@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x84f7c44b6fed1080f647e354d552595be2cc602f'
+    platform: ETH
 crypto: true
 fiat: false
 id: BBO1
 id_coinmarketcap: '2836'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2836.png
 name: Bigbom
-platform: ETH
-platform_contract: '0x84f7c44b6fed1080f647e354d552595be2cc602f'

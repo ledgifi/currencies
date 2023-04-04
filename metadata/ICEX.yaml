@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x336213e1DDFC69f4701Fc3F86F4ef4A160c1159d'
+    platform: ETH
 crypto: true
 fiat: false
 id: ICEX
 id_coinmarketcap: '5859'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5859.png
 name: iCEX
-platform: ETH
-platform_contract: '0x336213e1DDFC69f4701Fc3F86F4ef4A160c1159d'

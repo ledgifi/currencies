@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x18C43A0214dB7C7DCa1125256e2a848AaEA71040'
+    platform: BNB
 crypto: true
 fiat: false
 id: MPOOL
 id_coinmarketcap: '15561'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15561.png
 name: MetaPool
-platform: BNB
-platform_contract: '0x18C43A0214dB7C7DCa1125256e2a848AaEA71040'

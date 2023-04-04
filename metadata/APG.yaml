@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4ed25d8577feb83946b1548998fb7b157ead8bb9'
+    platform: ETH
 crypto: true
 fiat: false
 id: APG
 id_coinmarketcap: '4528'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4528.png
 name: ALPAGO
-platform: ETH
-platform_contract: '0x4ed25d8577feb83946b1548998fb7b157ead8bb9'

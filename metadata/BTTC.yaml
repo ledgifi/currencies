@@ -1,3 +1,6 @@
+contracts:
+  - address: TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4
+    platform: TRX
 crypto: true
 decimals: 1
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: BTT2
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/btt.svg
 logoKey: currencies/bttc.svg
 name: BitTorrent
-platform: TRX
-platform_contract: TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4

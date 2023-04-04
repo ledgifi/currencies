@@ -1,4 +1,7 @@
 color: '#006ae3'
+contracts:
+  - address: '0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: YFI
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/yfi.svg
 logoKey: currencies/yfi.svg
 name: yearn.finance
-platform: ETH
-platform_contract: '0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x61e90a50137e1f645c9ef4a0d3a4f01477738406'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: LOKA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LOKA.png
 logoKey: currencies/loka.png
 name: League of Kingdoms
-platform: ETH
-platform_contract: '0x61e90a50137e1f645c9ef4a0d3a4f01477738406'

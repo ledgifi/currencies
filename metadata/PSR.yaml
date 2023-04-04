@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xb72ba371c900aa68bb9fa473e93cfbe212030fcb'
+    platform: BNB
 crypto: true
 fiat: false
 id: PSR
@@ -6,5 +9,3 @@ id_nomics: PSR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PSR.png
 logoKey: currencies/psr.png
 name: Pandora Spirit
-platform: BNB
-platform_contract: '0xb72ba371c900aa68bb9fa473e93cfbe212030fcb'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: UFT
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220329/5d95591b-3452-4f75-be18-6629316f0f29.png
 logoKey: currencies/uft.png
 name: UniLend
-platform: ETH
-platform_contract: '0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1'

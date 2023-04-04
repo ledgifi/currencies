@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xae36155a55f04a696b8362777620027882b31db5'
+    platform: ETH
 crypto: true
 fiat: false
 id: KISHIMOTO
 id_coinmarketcap: '23797'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23797.png
 name: Kishimoto
-platform: ETH
-platform_contract: '0xae36155a55f04a696b8362777620027882b31db5'

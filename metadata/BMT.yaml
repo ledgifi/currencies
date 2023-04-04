@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc6363c1a05f840be2d185d7084b28af84c543d40'
+    platform: ETH
 crypto: true
 fiat: false
 id: BMT
 id_coinmarketcap: '5928'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5928.png
 name: BMToken
-platform: ETH
-platform_contract: '0xc6363c1a05f840be2d185d7084b28af84c543d40'

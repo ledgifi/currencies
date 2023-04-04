@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x681b76c338055d0590e48fbb972a345d32692331'
+    platform: BNB
 crypto: true
 fiat: false
 id: COLA2
 id_coinmarketcap: '20002'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20002.png
 name: ElonCola
-platform: BNB
-platform_contract: '0x681b76c338055d0590e48fbb972a345d32692331'

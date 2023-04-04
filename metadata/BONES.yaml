@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x08426874d46f90e5e527604fa5e3e30486770eb3'
+    platform: BNB
 crypto: true
 fiat: false
 id: BONES
 id_coinmarketcap: '17144'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17144.png
 name: Moonshots Farm
-platform: BNB
-platform_contract: '0x08426874d46f90e5e527604fa5e3e30486770eb3'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7cf74238d48ce383db00a1efff8da99303552cb0'
+    platform: ETH
 crypto: true
 fiat: false
 id: I9C
 id_coinmarketcap: '6966'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6966.png
 name: i9 Coin
-platform: ETH
-platform_contract: '0x7cf74238d48ce383db00a1efff8da99303552cb0'

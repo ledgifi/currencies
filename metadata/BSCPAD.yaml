@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700'
+    platform: BNB
 crypto: true
 fiat: false
 id: BSCPAD
 id_coinmarketcap: '8660'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8660.png
 name: BSCPAD
-platform: BNB
-platform_contract: '0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700'

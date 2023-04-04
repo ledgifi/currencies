@@ -1,8 +1,9 @@
+contracts:
+  - address: '1001757'
+    platform: TRX
 crypto: true
 fiat: false
 id: EVO1
 id_coinmarketcap: '6263'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6263.png
 name: DApp Evolution
-platform: TRX
-platform_contract: '1001757'

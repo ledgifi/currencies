@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcd7361ac3307d1c5a46b63086a90742ff44c63b3'
+    platform: MATIC
 crypto: true
 fiat: false
 id: RAIDER
 id_coinmarketcap: '16863'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16863.png
 name: Crypto Raiders
-platform: MATIC
-platform_contract: '0xcd7361ac3307d1c5a46b63086a90742ff44c63b3'

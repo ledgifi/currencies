@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x66bcd0c22bb15cd1ba7199c7a383dc89528f4427'
+    platform: ETH
 crypto: true
 fiat: false
 id: BUH
 id_coinmarketcap: '22250'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22250.png
 name: Buhund
-platform: ETH
-platform_contract: '0x66bcd0c22bb15cd1ba7199c7a383dc89528f4427'

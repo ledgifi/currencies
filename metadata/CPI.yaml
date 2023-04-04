@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2b67d1a87a8d8b280a23e97bc55095215ee0ec53'
+    platform: ETH
 crypto: true
 fiat: false
 id: CPI
 id_coinmarketcap: '6654'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6654.png
 name: Crypto Price Index
-platform: ETH
-platform_contract: '0x2b67d1a87a8d8b280a23e97bc55095215ee0ec53'

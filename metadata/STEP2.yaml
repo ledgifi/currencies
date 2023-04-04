@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0CCA95FD87441DCD90fDDB4e34526C1B3cc6F660'
+    platform: BNB
 crypto: true
 fiat: false
 id: STEP2
 id_coinmarketcap: '11965'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11965.png
 name: Step Hero Soul
-platform: BNB
-platform_contract: '0x0CCA95FD87441DCD90fDDB4e34526C1B3cc6F660'

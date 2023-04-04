@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: SUPER2
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210325/04be2a15-6b37-42c5-9a19-04b5d76ce410.png
 logoKey: currencies/super.png
 name: SuperVerse
-platform: ETH
-platform_contract: '0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55'

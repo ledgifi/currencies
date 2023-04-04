@@ -1,8 +1,9 @@
+contracts:
+  - address: '1000001'
+    platform: TRX
 crypto: true
 fiat: false
 id: SEED2
 id_coinmarketcap: '4980'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4980.png
 name: Sesameseed
-platform: TRX
-platform_contract: '1000001'

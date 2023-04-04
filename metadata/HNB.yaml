@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6E0615a03eD9527a6013FcD5B556E36EF4DaB1FF'
+    platform: ETH
 crypto: true
 fiat: false
 id: HNB
 id_coinmarketcap: '20757'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20757.png
 name: HNB Protocol
-platform: ETH
-platform_contract: '0x6E0615a03eD9527a6013FcD5B556E36EF4DaB1FF'

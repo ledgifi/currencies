@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3c7eeddcff188a8c36f1cac1b62958c6e0c27dea'
+    platform: BNB
 crypto: true
 fiat: false
 id: G2
 id_coinmarketcap: '14423'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14423.png
 name: G2 Crypto Gaming & Lottery
-platform: BNB
-platform_contract: '0x3c7eeddcff188a8c36f1cac1b62958c6e0c27dea'

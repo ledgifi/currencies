@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa806b3fed6891136940cf81c4085661500aa2709'
+    platform: ETH
 crypto: true
 fiat: false
 id: SNL
 id_coinmarketcap: '3977'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3977.png
 name: Sport and Leisure
-platform: ETH
-platform_contract: '0xa806b3fed6891136940cf81c4085661500aa2709'

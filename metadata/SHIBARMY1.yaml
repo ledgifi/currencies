@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1224cabc48e750a38a85f040b48c33925b61a765'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIBARMY1
 id_coinmarketcap: '13782'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13782.png
 name: ShibArmy
-platform: BNB
-platform_contract: '0x1224cabc48e750a38a85f040b48c33925b61a765'

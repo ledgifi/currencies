@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x06597FFaFD82E66ECeD9209d539032571ABD50d9'
+    platform: BNB
 crypto: true
 fiat: false
 id: MOL1
 id_coinmarketcap: '18807'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18807.png
 name: Mollector
-platform: BNB
-platform_contract: '0x06597FFaFD82E66ECeD9209d539032571ABD50d9'

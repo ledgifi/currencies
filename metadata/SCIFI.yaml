@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfdc4a3fc36df16a78edcaf1b837d3acaaedb2cb4'
+    platform: ETH
 crypto: true
 fiat: false
 id: SCIFI
 id_coinmarketcap: '10799'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10799.png
 name: SCIFI Index
-platform: ETH
-platform_contract: '0xfdc4a3fc36df16a78edcaf1b837d3acaaedb2cb4'

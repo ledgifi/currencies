@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1BD8cA161F0b311162365248b39B38F85e238345'
+    platform: BNB
 crypto: true
 fiat: false
 id: sBanc
 id_coinmarketcap: '17716'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17716.png
 name: BANCC
-platform: BNB
-platform_contract: '0x1BD8cA161F0b311162365248b39B38F85e238345'

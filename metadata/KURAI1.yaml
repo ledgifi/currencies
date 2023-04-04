@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x70C82588FCc570cd4885CA50b8d34c225f431EE8'
+    platform: BNB
 crypto: true
 fiat: false
 id: KURAI1
 id_coinmarketcap: '14194'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14194.png
 name: Kurai Inu
-platform: BNB
-platform_contract: '0x70C82588FCc570cd4885CA50b8d34c225f431EE8'

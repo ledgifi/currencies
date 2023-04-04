@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe0c3223ae0cb8b5a47ff7f4994f5fbcde58496f8'
+    platform: ETH
 crypto: true
 fiat: false
 id: BUC
 id_coinmarketcap: '4968'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4968.png
 name: BuschCoin
-platform: ETH
-platform_contract: '0xe0c3223ae0cb8b5a47ff7f4994f5fbcde58496f8'

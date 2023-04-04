@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe98BA76A65B09C98c735483E380BE4dBEA0d50f4'
+    platform: BNB
 crypto: true
 fiat: false
 id: MEGADOGE
 id_coinmarketcap: '18254'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18254.png
 name: MegaDoge
-platform: BNB
-platform_contract: '0xe98BA76A65B09C98c735483E380BE4dBEA0d50f4'

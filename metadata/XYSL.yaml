@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0047A0DEaDAfb7ee6B1A0d219E70Fb6767057D93'
+    platform: BNB
 crypto: true
 fiat: false
 id: XYSL
 id_coinmarketcap: '12656'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12656.png
 name: xYSL
-platform: BNB
-platform_contract: '0x0047A0DEaDAfb7ee6B1A0d219E70Fb6767057D93'

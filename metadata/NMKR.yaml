@@ -1,8 +1,9 @@
+contracts:
+  - address: 5dac8536653edc12f6f5e1045d8164b9f59998d3bdc300fc928434894e4d4b52
+    platform: ADA
 crypto: true
 fiat: false
 id: NMKR
 id_coinmarketcap: '20582'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20582.png
 name: NMKR
-platform: ADA
-platform_contract: 5dac8536653edc12f6f5e1045d8164b9f59998d3bdc300fc928434894e4d4b52

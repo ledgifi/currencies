@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2a6f8e3a8fe92849b08ca82f4f323dd43029b33d'
+    platform: BNB
 crypto: true
 fiat: false
 id: AAPT
 id_coinmarketcap: '18195'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18195.png
 name: AAptitude
-platform: BNB
-platform_contract: '0x2a6f8e3a8fe92849b08ca82f4f323dd43029b33d'

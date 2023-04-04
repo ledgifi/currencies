@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbB19Ac7AFCd532B13158810FF66c16f17635De87'
+    platform: BNB
 crypto: true
 fiat: false
 id: MM3
 id_coinmarketcap: '16371'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16371.png
 name: Markhor Meta
-platform: BNB
-platform_contract: '0xbB19Ac7AFCd532B13158810FF66c16f17635De87'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA57ac35CE91Ee92CaEfAA8dc04140C8e232c2E50'
+    platform: BNB
 crypto: true
 fiat: false
 id: PIT
 id_coinmarketcap: '9177'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9177.png
 name: Pitbull
-platform: BNB
-platform_contract: '0xA57ac35CE91Ee92CaEfAA8dc04140C8e232c2E50'

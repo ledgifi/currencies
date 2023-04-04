@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa6C59dE838F1eeb82d86F5AF0750f5F656439999'
+    platform: BNB
 crypto: true
 fiat: false
 id: NEXT
 id_coinmarketcap: '23148'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23148.png
 name: ShopNEXT
-platform: BNB
-platform_contract: '0xa6C59dE838F1eeb82d86F5AF0750f5F656439999'

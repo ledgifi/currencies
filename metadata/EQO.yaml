@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x46e9fe43470fafd690100c86037f9e566e24d480'
+    platform: ETH
 crypto: true
 fiat: false
 id: EQO
 id_coinmarketcap: '9593'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9593.png
 name: EQO
-platform: ETH
-platform_contract: '0x46e9fe43470fafd690100c86037f9e566e24d480'

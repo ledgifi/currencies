@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfee5f54e1070e7ed31be341e0a5b1e847f6a84ab'
+    platform: ETH
 crypto: true
 fiat: false
 id: ZUG
 id_coinmarketcap: '15443'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15443.png
 name: ZUG
-platform: ETH
-platform_contract: '0xfee5f54e1070e7ed31be341e0a5b1e847f6a84ab'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4a621d9f1b19296d1C0f87637b3A8D4978e9bf82'
+    platform: ETH
 crypto: true
 fiat: false
 id: CYFM
 id_coinmarketcap: '3146'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3146.png
 name: CyberFM (old)
-platform: ETH
-platform_contract: '0x4a621d9f1b19296d1C0f87637b3A8D4978e9bf82'

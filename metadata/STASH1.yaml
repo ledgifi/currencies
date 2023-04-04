@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x536e911b8BA66c9a8697bF7d7b9924456ABCC9e7'
+    platform: AVAX
 crypto: true
 fiat: false
 id: STASH1
 id_coinmarketcap: '20457'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20457.png
 name: Stash
-platform: AVAX
-platform_contract: '0x536e911b8BA66c9a8697bF7d7b9924456ABCC9e7'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x253444bd9ecf11e5516d6d00974e91c9f0857ccb'
+    platform: ETH
 crypto: true
 fiat: false
 id: EBLOAP
 id_coinmarketcap: '6135'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6135.png
 name: ETH/BTC Long-Only Alpha Portfolio
-platform: ETH
-platform_contract: '0x253444bd9ecf11e5516d6d00974e91c9f0857ccb'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1E7fDe66aCC959fE02FBE7F830d6dcf4567cfd40'
+    platform: ETH
 crypto: true
 fiat: false
 id: APECOIN
 id_coinmarketcap: '13248'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13248.png
 name: Asia Pacific Electronic Coin
-platform: ETH
-platform_contract: '0x1E7fDe66aCC959fE02FBE7F830d6dcf4567cfd40'

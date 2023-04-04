@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2789604fe261adc1aed3927f41277d8bffe33c36'
+    platform: BNB
 crypto: true
 fiat: false
 id: CATCHY
 id_coinmarketcap: '14577'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14577.png
 name: Catchy
-platform: BNB
-platform_contract: '0x2789604fe261adc1aed3927f41277d8bffe33c36'

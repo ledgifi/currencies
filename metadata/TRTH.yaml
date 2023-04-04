@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc57bed059772b91c2421baea4e7b179319b3cc9b'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRTH
 id_coinmarketcap: '11853'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11853.png
 name: Tereth
-platform: ETH
-platform_contract: '0xc57bed059772b91c2421baea4e7b179319b3cc9b'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF91ee8732FA50A71C63cC677aC72e3afB29C6b35'
+    platform: ETH
 crypto: true
 fiat: false
 id: PVC
 id_coinmarketcap: '8727'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8727.png
 name: PryvateCoin
-platform: ETH
-platform_contract: '0xF91ee8732FA50A71C63cC677aC72e3afB29C6b35'

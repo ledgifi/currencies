@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x568b0d8ac3967d363257c520c9be0f17984e470f'
+    platform: BNB
 crypto: true
 fiat: false
 id: NDSK
 id_coinmarketcap: '9677'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9677.png
 name: Nadeshiko
-platform: BNB
-platform_contract: '0x568b0d8ac3967d363257c520c9be0f17984e470f'

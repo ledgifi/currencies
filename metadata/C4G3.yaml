@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf2Ef3551C1945A7218fc4eC0a75c9eCFDF012A4F'
+    platform: ETH
 crypto: true
 fiat: false
 id: C4G3
 id_coinmarketcap: '11968'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11968.png
 name: CAGE
-platform: ETH
-platform_contract: '0xf2Ef3551C1945A7218fc4eC0a75c9eCFDF012A4F'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x147e81789bbdc9820da35cc613cf10c0b2d06399'
+    platform: BNB
 crypto: true
 fiat: false
 id: EGOH
 id_coinmarketcap: '15206'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15206.png
 name: EGOH Finance
-platform: BNB
-platform_contract: '0x147e81789bbdc9820da35cc613cf10c0b2d06399'

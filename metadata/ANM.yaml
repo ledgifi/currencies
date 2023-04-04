@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7470FF44A57FCe4b7413F31Fdc9b625ff58dBb9c'
+    platform: BNB
 crypto: true
 fiat: false
 id: ANM
 id_coinmarketcap: '16410'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16410.png
 name: Animverse
-platform: BNB
-platform_contract: '0x7470FF44A57FCe4b7413F31Fdc9b625ff58dBb9c'

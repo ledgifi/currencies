@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3b4443f97b37a6ef864c3f0f1632e366b4f1d20f'
+    platform: BNB
 crypto: true
 fiat: false
 id: $RICH
 id_coinmarketcap: '10068'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10068.png
 name: RichieRich Coin
-platform: BNB
-platform_contract: '0x3b4443f97b37a6ef864c3f0f1632e366b4f1d20f'

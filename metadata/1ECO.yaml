@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1af2eaeaf2b1d9dda800861268e6bbb3995a6c3b'
+    platform: ETH
 crypto: true
 fiat: false
 id: 1ECO
 id_coinmarketcap: '16604'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16604.png
 name: 1eco
-platform: ETH
-platform_contract: '0x1af2eaeaf2b1d9dda800861268e6bbb3995a6c3b'

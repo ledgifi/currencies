@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbdd2e3fdb879aa42748e9d47b7359323f226ba22'
+    platform: BNB
 crypto: true
 fiat: false
 id: PRED
 id_coinmarketcap: '16128'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16128.png
 name: Predictcoin
-platform: BNB
-platform_contract: '0xbdd2e3fdb879aa42748e9d47b7359323f226ba22'

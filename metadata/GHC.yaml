@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9cb9478c5db5dae52d5af91737ff706f60195e45'
+    platform: BNB
 crypto: true
 fiat: false
 id: GHC
 id_coinmarketcap: '19651'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19651.png
 name: Galaxy Heroes
-platform: BNB
-platform_contract: '0x9cb9478c5db5dae52d5af91737ff706f60195e45'

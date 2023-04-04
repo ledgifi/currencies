@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x63982bBD062cf9d8efcA59EC37609DCC0bc2F305'
+    platform: BNB
 crypto: true
 fiat: false
 id: WORTH
 id_coinmarketcap: '17823'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17823.png
 name: Worthpad
-platform: BNB
-platform_contract: '0x63982bBD062cf9d8efcA59EC37609DCC0bc2F305'

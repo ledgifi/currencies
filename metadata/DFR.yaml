@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x64db5e5280421789af5c253a5ab260278ffd40ed'
+    platform: ETH
 crypto: true
 fiat: false
 id: DFR
 id_coinmarketcap: '8116'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8116.png
 name: Diffract Finance
-platform: ETH
-platform_contract: '0x64db5e5280421789af5c253a5ab260278ffd40ed'

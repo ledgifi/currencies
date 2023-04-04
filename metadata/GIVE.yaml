@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x52e723807514ac885e5b6a0c17daaf4c54c88c01'
+    platform: BNB
 crypto: true
 fiat: false
 id: GIVE
 id_coinmarketcap: '24209'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24209.png
 name: Gem Coins Exchange
-platform: BNB
-platform_contract: '0x52e723807514ac885e5b6a0c17daaf4c54c88c01'

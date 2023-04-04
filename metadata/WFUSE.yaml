@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0BE9e53fd7EDaC9F859882AfdDa116645287C629'
+    platform: FUSE
 crypto: true
 fiat: false
 id: WFUSE
 id_coinmarketcap: '19184'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19184.png
 name: Wrapped Fuse
-platform: FUSE
-platform_contract: '0x0BE9e53fd7EDaC9F859882AfdDa116645287C629'

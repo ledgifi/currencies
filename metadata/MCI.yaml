@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x138a8752093f4f9a79aaedf48d4b9248fab93c9c'
+    platform: ETH
 crypto: true
 fiat: false
 id: MCI
 id_coinmarketcap: '2000'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2000.png
 name: Musiconomi
-platform: ETH
-platform_contract: '0x138a8752093f4f9a79aaedf48d4b9248fab93c9c'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdb787f0cc920446c93ee7a35a674185ac27606f2'
+    platform: BNB
 crypto: true
 fiat: false
 id: PEE
 id_coinmarketcap: '14779'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14779.png
 name: MicroPee
-platform: BNB
-platform_contract: '0xdb787f0cc920446c93ee7a35a674185ac27606f2'

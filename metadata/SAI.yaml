@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359'
+    platform: ETH
 crypto: true
 fiat: false
 id: SAI
 id_coinmarketcap: '2308'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2308.png
 name: 'Single Collateral DAI '
-platform: ETH
-platform_contract: '0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x998FFE1E43fAcffb941dc337dD0468d52bA5b48A'
+    platform: ETH
 crypto: true
 decimals: 2
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: IDRT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IDRT.png
 logoKey: currencies/idrt.png
 name: Rupiah Token
-platform: ETH
-platform_contract: '0x998FFE1E43fAcffb941dc337dD0468d52bA5b48A'

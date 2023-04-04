@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x24e96809b4e720ea911bc3de8341400e26d6e994'
+    platform: ETH
 crypto: true
 fiat: false
 id: VRTN
 id_coinmarketcap: '7937'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7937.png
 name: VINYL RECORDS TOKEN
-platform: ETH
-platform_contract: '0x24e96809b4e720ea911bc3de8341400e26d6e994'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf71982762D141f8679Eb944fAec8cEC415fB5E23'
+    platform: ETH
 crypto: true
 fiat: false
 id: NIAX
 id_coinmarketcap: '5878'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5878.png
 name: NIAX
-platform: ETH
-platform_contract: '0xf71982762D141f8679Eb944fAec8cEC415fB5E23'

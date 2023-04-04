@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0CddA5dE813Af159D1E831F785de0110A414A3Fb'
+    platform: BNB
 crypto: true
 fiat: false
 id: BackstabDoge
 id_coinmarketcap: '18968'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18968.png
 name: BackstabDoge
-platform: BNB
-platform_contract: '0x0CddA5dE813Af159D1E831F785de0110A414A3Fb'

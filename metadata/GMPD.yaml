@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x9720ca160bbd4e7f3dd4bb3f8bd4227ca0342e63'
+    platform: BNB
 crypto: true
 fiat: false
 id: GMPD
@@ -5,5 +8,3 @@ id_coinmarketcap: '15180'
 id_nomics: GMPD
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15180.png
 name: Gamespad Token
-platform: BNB
-platform_contract: '0x9720ca160bbd4e7f3dd4bb3f8bd4227ca0342e63'

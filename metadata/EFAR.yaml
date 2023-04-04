@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe1431643574ba7bac71a3b2ca52b00aca852e4a4'
+    platform: ETH
 crypto: true
 fiat: false
 id: EFAR
 id_coinmarketcap: '7361'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7361.png
 name: Fridn
-platform: ETH
-platform_contract: '0xe1431643574ba7bac71a3b2ca52b00aca852e4a4'

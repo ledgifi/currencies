@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x40E7705254494a7E61D5b7c86da50225DDc3DaAE'
+    platform: ETH
 crypto: true
 fiat: false
 id: YPLT
 id_coinmarketcap: '7971'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7971.png
 name: yplutus
-platform: ETH
-platform_contract: '0x40E7705254494a7E61D5b7c86da50225DDc3DaAE'

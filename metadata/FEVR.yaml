@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x82030cdbd9e4b7c5bb0b811a61da6360d69449cc'
+    platform: BNB
 crypto: true
 fiat: false
 id: FEVR
 id_coinmarketcap: '10803'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10803.png
 name: RealFevr
-platform: BNB
-platform_contract: '0x82030cdbd9e4b7c5bb0b811a61da6360d69449cc'

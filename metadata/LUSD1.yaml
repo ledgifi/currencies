@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc3C6cf6Bbca7B759d23a2586e80F795C57A32beF'
+    platform: ETH
 crypto: true
 fiat: false
 id: LUSD1
 id_coinmarketcap: '19714'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19714.png
 name: ℓUSD
-platform: ETH
-platform_contract: '0xc3C6cf6Bbca7B759d23a2586e80F795C57A32beF'

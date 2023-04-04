@@ -1,4 +1,7 @@
 color: '#8834ff'
+contracts:
+  - address: '0x6c6ee5e31d828de241282b9606c8e98ea48526e2'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: HOT
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/hot.svg
 logoKey: currencies/hot.svg
 name: Holo
-platform: ETH
-platform_contract: '0x6c6ee5e31d828de241282b9606c8e98ea48526e2'

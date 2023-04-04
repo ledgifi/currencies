@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x267022751e06d97b9ee4e5f26cc1023670bdb349'
+    platform: BNB
 crypto: true
 fiat: false
 id: RPS
 id_coinmarketcap: '15212'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15212.png
 name: RPS LEAGUE
-platform: BNB
-platform_contract: '0x267022751e06d97b9ee4e5f26cc1023670bdb349'

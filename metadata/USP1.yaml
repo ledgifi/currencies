@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdacde03d7ab4d81feddc3a20faa89abac9072ce2'
+    platform: AVAX
 crypto: true
 fiat: false
 id: USP1
 id_coinmarketcap: '23423'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23423.png
 name: Platypus USD
-platform: AVAX
-platform_contract: '0xdacde03d7ab4d81feddc3a20faa89abac9072ce2'

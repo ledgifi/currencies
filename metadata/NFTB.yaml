@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xde3dbbe30cfa9f437b293294d1fd64b26045c71a'
+    platform: BNB
 crypto: true
 fiat: false
 id: NFTB
@@ -7,5 +10,3 @@ id_nomics: NFTB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTB.jpg
 logoKey: currencies/nftb.jpg
 name: NFTb
-platform: BNB
-platform_contract: '0xde3dbbe30cfa9f437b293294d1fd64b26045c71a'

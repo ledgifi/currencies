@@ -1,8 +1,9 @@
+contracts:
+  - address: '444035862'
+    platform: ALGO
 crypto: true
 fiat: false
 id: ZONE1
 id_coinmarketcap: '18056'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18056.png
 name: ZONE
-platform: ALGO
-platform_contract: '444035862'

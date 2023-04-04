@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4c6e796Bbfe5EB37F9E3E0f66C009C8Bf2A5f428'
+    platform: ETH
 crypto: true
 fiat: false
 id: FCBTC
 id_coinmarketcap: '5281'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5281.png
 name: FC Bitcoin
-platform: ETH
-platform_contract: '0x4c6e796Bbfe5EB37F9E3E0f66C009C8Bf2A5f428'

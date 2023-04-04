@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2f8a4c0ca0b45a2fb240cba7010c34ba60ad9b6d'
+    platform: BNB
 crypto: true
 fiat: false
 id: TT1
 id_coinmarketcap: '17476'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17476.png
 name: Trillium
-platform: BNB
-platform_contract: '0x2f8a4c0ca0b45a2fb240cba7010c34ba60ad9b6d'

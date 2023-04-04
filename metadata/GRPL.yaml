@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x15e4132dcd932e8990e794d1300011a472819cbd'
+    platform: ETH
 crypto: true
 fiat: false
 id: GRPL
 id_coinmarketcap: '8059'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8059.png
 name: Golden Ratio Per Liquidity
-platform: ETH
-platform_contract: '0x15e4132dcd932e8990e794d1300011a472819cbd'

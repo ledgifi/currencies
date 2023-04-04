@@ -1,8 +1,9 @@
+contracts:
+  - address: ARN-71B
+    platform: BNB
 crypto: true
 fiat: false
 id: ARNX
 id_coinmarketcap: '2153'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2153.png
 name: Aeron
-platform: BNB
-platform_contract: ARN-71B

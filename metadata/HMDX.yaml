@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xAEE4164c1ee46ed0bbC34790f1a3d1Fc87796668'
+    platform: BNB
 crypto: true
 fiat: false
 id: HMDX
 id_coinmarketcap: '12037'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12037.png
 name: Poly-Peg Mdex
-platform: BNB
-platform_contract: '0xAEE4164c1ee46ed0bbC34790f1a3d1Fc87796668'

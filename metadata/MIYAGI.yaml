@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE1B4A56ea06fC52cf2E3271e70571Dbaa23744ca'
+    platform: BNB
 crypto: true
 fiat: false
 id: MIYAGI
 id_coinmarketcap: '18114'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18114.png
 name: KaiFloki
-platform: BNB
-platform_contract: '0xE1B4A56ea06fC52cf2E3271e70571Dbaa23744ca'

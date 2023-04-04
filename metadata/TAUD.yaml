@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x00006100f7090010005f1bd7ae6122c3c2cf0090'
+    platform: ETH
 crypto: true
 fiat: false
 id: TAUD
 id_coinmarketcap: '7354'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7354.png
 name: TrueAUD
-platform: ETH
-platform_contract: '0x00006100f7090010005f1bd7ae6122c3c2cf0090'

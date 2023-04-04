@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8d8Db824baFdb617646E80360509274909c48127'
+    platform: AVAX
 crypto: true
 fiat: false
 id: DINO6
 id_coinmarketcap: '18731'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18731.png
 name: Jurassic Nodes
-platform: AVAX
-platform_contract: '0x8d8Db824baFdb617646E80360509274909c48127'

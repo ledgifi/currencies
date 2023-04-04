@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfaab744db9def8e13194600ed02bc5d5bed3b85c'
+    platform: BNB
 crypto: true
 fiat: false
 id: NFT2
 id_coinmarketcap: '10829'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10829.png
 name: NEFTiPEDiA
-platform: BNB
-platform_contract: '0xfaab744db9def8e13194600ed02bc5d5bed3b85c'

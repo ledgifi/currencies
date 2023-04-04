@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f'
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: BURGER
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220531/e866c052-fb6f-465e-b50d-511ba8df54ab.png
 logoKey: currencies/burger.png
 name: BurgerCities
-platform: BNB
-platform_contract: '0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f'

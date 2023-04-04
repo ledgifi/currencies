@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x26646b7C71f19BC9440612CaAaB465c26f4E8F7c'
+    platform: BNB
 crypto: true
 fiat: false
 id: DSG1
 id_coinmarketcap: '14110'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14110.png
 name: D-Skyscraper
-platform: BNB
-platform_contract: '0x26646b7C71f19BC9440612CaAaB465c26f4E8F7c'

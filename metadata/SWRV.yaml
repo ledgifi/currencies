@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xb8baa0e4287890a5f79863ab62b7f175cecbd433'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: SWRV
 logo: https://bin.bnbstatic.com/images/20200915/c65ef9ef-bef0-4181-9b1c-3471d53a9e6a.png
 logoKey: currencies/swrv.png
 name: Swerve
-platform: ETH
-platform_contract: '0xb8baa0e4287890a5f79863ab62b7f175cecbd433'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3A4329758940Fd7ea94b3754158795Eb412b824a'
+    platform: BNB
 crypto: true
 fiat: false
 id: YLGY
 id_coinmarketcap: '21932'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21932.png
 name: SheepASheep
-platform: BNB
-platform_contract: '0x3A4329758940Fd7ea94b3754158795Eb412b824a'

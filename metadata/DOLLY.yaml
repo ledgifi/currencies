@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xff54da7caf3bc3d34664891fc8f3c9b6dea6c7a5'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOLLY
 id_coinmarketcap: '10119'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10119.png
 name: Dolly USD
-platform: BNB
-platform_contract: '0xff54da7caf3bc3d34664891fc8f3c9b6dea6c7a5'

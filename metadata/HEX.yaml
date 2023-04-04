@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2b591e99afe9f32eaa6214f7b7629768c40eeb39'
+    platform: ETH
 crypto: true
 fiat: false
 id: HEX
 id_coinmarketcap: '5015'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5015.png
 name: HEX
-platform: ETH
-platform_contract: '0x2b591e99afe9f32eaa6214f7b7629768c40eeb39'

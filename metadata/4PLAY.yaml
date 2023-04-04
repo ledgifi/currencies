@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf787e1b31e12c4be0cbfa46844c5ec851eba098d'
+    platform: BNB
 crypto: true
 fiat: false
 id: 4PLAY
 id_coinmarketcap: '16635'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16635.png
 name: NFT4Play
-platform: BNB
-platform_contract: '0xf787e1b31e12c4be0cbfa46844c5ec851eba098d'

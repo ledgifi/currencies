@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF4EebDD0704021eF2a6Bbe993fdf93030Cd784b4'
+    platform: ETH
 crypto: true
 fiat: false
 id: IEOS
 id_coinmarketcap: '5774'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5774.png
 name: iEOS
-platform: ETH
-platform_contract: '0xF4EebDD0704021eF2a6Bbe993fdf93030Cd784b4'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xD85baa6cFEA9D9f64d9E341f6f58f8Aca1284817'
+    platform: BNB
 crypto: true
 fiat: false
 id: $ROKK
 id_coinmarketcap: '14225'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14225.png
 name: ROKKIT FUEL
-platform: BNB
-platform_contract: '0xD85baa6cFEA9D9f64d9E341f6f58f8Aca1284817'

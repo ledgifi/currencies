@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x037a54aab062628c9bbae1fdb1583c195585fe41'
+    platform: ETH
 crypto: true
 fiat: false
 id: LCX
@@ -7,5 +10,3 @@ id_nomics: LCX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LCX.jpg
 logoKey: currencies/lcx.jpg
 name: LCX
-platform: ETH
-platform_contract: '0x037a54aab062628c9bbae1fdb1583c195585fe41'

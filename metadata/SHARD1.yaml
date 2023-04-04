@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xad14716899f6bd9ec8ad00e8275252a22dbe824a'
+    platform: ONE
 crypto: true
 fiat: false
 id: SHARD1
 id_coinmarketcap: '18482'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18482.png
 name: Hello Gophers
-platform: ONE
-platform_contract: '0xad14716899f6bd9ec8ad00e8275252a22dbe824a'

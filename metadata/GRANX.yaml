@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbd668ec47e10d3bf23b1d68139e545162a0dfcfa'
+    platform: ETH
 crypto: true
 fiat: false
 id: GRANX
 id_coinmarketcap: '12187'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12187.png
 name: GranX Chain
-platform: ETH
-platform_contract: '0xbd668ec47e10d3bf23b1d68139e545162a0dfcfa'

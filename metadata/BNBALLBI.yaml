@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcdda114ac453f994d8b091b9bbea80b0c4d85ac8'
+    platform: BNB
 crypto: true
 fiat: false
 id: BNBALLBI
 id_coinmarketcap: '19180'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19180.png
 name: BNB CHAIN ALL BEST ICO
-platform: BNB
-platform_contract: '0xcdda114ac453f994d8b091b9bbea80b0c4d85ac8'

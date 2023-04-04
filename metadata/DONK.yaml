@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe4f6d46c244bb7cf3e218cdfb5c35cf9a4d9c920'
+    platform: ETH
 crypto: true
 fiat: false
 id: DONK
 id_coinmarketcap: '9340'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9340.png
 name: Donkey
-platform: ETH
-platform_contract: '0xe4f6d46c244bb7cf3e218cdfb5c35cf9a4d9c920'

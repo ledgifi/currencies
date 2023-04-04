@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCC2f1d827b18321254223dF4e84dE399D9Ff116c'
+    platform: AVAX
 crypto: true
 fiat: false
 id: SMRT1
 id_coinmarketcap: '12917'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12917.png
 name: SmartCoin (SMRT)
-platform: AVAX
-platform_contract: '0xCC2f1d827b18321254223dF4e84dE399D9Ff116c'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb56c64282230fae000e887d2a1e50a7881ce0e66'
+    platform: BNB
 crypto: true
 fiat: false
 id: VIBLO
 id_coinmarketcap: '14825'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14825.png
 name: Viblos
-platform: BNB
-platform_contract: '0xb56c64282230fae000e887d2a1e50a7881ce0e66'

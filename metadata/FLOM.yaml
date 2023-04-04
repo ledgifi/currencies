@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCC2bF0F46c561afDCe6C23710d0d7F38b007443f'
+    platform: BNB
 crypto: true
 fiat: false
 id: FLOM
 id_coinmarketcap: '13638'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13638.png
 name: Flokimars
-platform: BNB
-platform_contract: '0xCC2bF0F46c561afDCe6C23710d0d7F38b007443f'

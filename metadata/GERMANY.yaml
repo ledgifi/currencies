@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd9d0e3dd09c78930de4ac83856bd0af6d3dd2022'
+    platform: BNB
 crypto: true
 fiat: false
 id: GERMANY
 id_coinmarketcap: '22963'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22963.png
 name: Germany Rabbit Token
-platform: BNB
-platform_contract: '0xd9d0e3dd09c78930de4ac83856bd0af6d3dd2022'

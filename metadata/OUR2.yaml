@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa68eeee3eb02b4195537dc3326436c83505fb5cf'
+    platform: FTM
 crypto: true
 fiat: false
 id: OUR2
 id_coinmarketcap: '17657'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17657.png
 name: Ouranos
-platform: FTM
-platform_contract: '0xa68eeee3eb02b4195537dc3326436c83505fb5cf'

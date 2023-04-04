@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0c2f536d69b0558ab136a071eed18f3aee6923f9'
+    platform: BNB
 crypto: true
 fiat: false
 id: WPL
 id_coinmarketcap: '17797'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17797.png
 name: WorldPlus
-platform: BNB
-platform_contract: '0x0c2f536d69b0558ab136a071eed18f3aee6923f9'

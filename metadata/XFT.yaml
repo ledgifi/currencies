@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xabe580e7ee158da464b51ee1a83ac0289622e6be'
+    platform: ETH
 crypto: true
 fiat: false
 id: XFT
 id_coinmarketcap: '6236'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6236.png
 name: Offshift (old)
-platform: ETH
-platform_contract: '0xabe580e7ee158da464b51ee1a83ac0289622e6be'

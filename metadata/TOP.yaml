@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdcD85914b8aE28c1E62f1C488E1D968D5aaFfE2b'
+    platform: ETH
 crypto: true
 fiat: false
 id: TOP
 id_coinmarketcap: '3826'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3826.png
 name: TOP
-platform: ETH
-platform_contract: '0xdcD85914b8aE28c1E62f1C488E1D968D5aaFfE2b'

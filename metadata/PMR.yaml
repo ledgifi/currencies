@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1dc5779ed65bcc1f0a42d654444fb0ce59d7783b'
+    platform: BNB
 crypto: true
 fiat: false
 id: PMR
 id_coinmarketcap: '22712'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22712.png
 name: Pomerium
-platform: BNB
-platform_contract: '0x1dc5779ed65bcc1f0a42d654444fb0ce59d7783b'

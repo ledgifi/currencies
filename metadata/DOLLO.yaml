@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB3559Ad8ef8911BcD3Fd7c9045c74723096e8B36'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOLLO
 id_coinmarketcap: '18338'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18338.png
 name: Dollo Coin
-platform: BNB
-platform_contract: '0xB3559Ad8ef8911BcD3Fd7c9045c74723096e8B36'

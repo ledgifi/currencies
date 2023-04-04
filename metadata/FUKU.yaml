@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x685b63CFE0179b3EFb70A01dCb1D648549AA192d'
+    platform: AVAX
 crypto: true
 fiat: false
 id: FUKU
 id_coinmarketcap: '12963'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12963.png
 name: FuruKuru
-platform: AVAX
-platform_contract: '0x685b63CFE0179b3EFb70A01dCb1D648549AA192d'

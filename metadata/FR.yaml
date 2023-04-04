@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc626e0619ac79afea9281c8eb9b1a9f9d3fab532'
+    platform: ETH
 crypto: true
 fiat: false
 id: FR
 id_coinmarketcap: '7712'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7712.png
 name: Freedom Reserve
-platform: ETH
-platform_contract: '0xc626e0619ac79afea9281c8eb9b1a9f9d3fab532'

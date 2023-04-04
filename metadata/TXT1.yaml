@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1cfa16ab69b187f9fe0227e069c9a25ef1b25243'
+    platform: ETH
 crypto: true
 fiat: false
 id: TXT1
 id_coinmarketcap: '4065'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4065.png
 name: TuneTradeX
-platform: ETH
-platform_contract: '0x1cfa16ab69b187f9fe0227e069c9a25ef1b25243'

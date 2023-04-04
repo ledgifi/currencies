@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x68E374F856bF25468D365E539b700b648Bf94B67'
+    platform: BNB
 crypto: true
 fiat: false
 id: MIST
 id_coinmarketcap: '9218'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9218.png
 name: Mist
-platform: BNB
-platform_contract: '0x68E374F856bF25468D365E539b700b648Bf94B67'

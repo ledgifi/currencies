@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1a5f9352af8af974bfc03399e3767df6370d82e4'
+    platform: ETH
 crypto: true
 fiat: false
 id: OWL2
 id_coinmarketcap: '6567'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6567.png
 name: OWL
-platform: ETH
-platform_contract: '0x1a5f9352af8af974bfc03399e3767df6370d82e4'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x720c2c93F5f9A6b82226e84095558B10F399b0FA'
+    platform: ETH
 crypto: true
 fiat: false
 id: GC1
 id_coinmarketcap: '5001'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5001.png
 name: Gric Coin
-platform: ETH
-platform_contract: '0x720c2c93F5f9A6b82226e84095558B10F399b0FA'

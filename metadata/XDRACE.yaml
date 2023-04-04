@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7CDFBb5d09b6EF6c06764872134a9b281f050F8F'
+    platform: BNB
 crypto: true
 fiat: false
 id: xDRACE
 id_coinmarketcap: '12788'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12788.png
 name: DeathRoad
-platform: BNB
-platform_contract: '0x7CDFBb5d09b6EF6c06764872134a9b281f050F8F'

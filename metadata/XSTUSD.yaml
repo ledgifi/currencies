@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc7d9c108d4e1dd1484d3e2568d7f74bfd763d356'
+    platform: ETH
 crypto: true
 fiat: false
 id: XSTUSD
 id_coinmarketcap: '15731'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15731.png
 name: SORA Synthetic USD
-platform: ETH
-platform_contract: '0xc7d9c108d4e1dd1484d3e2568d7f74bfd763d356'

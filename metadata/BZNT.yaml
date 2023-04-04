@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe1aee98495365fc179699c1bb3e761fa716bee62'
+    platform: ETH
 crypto: true
 fiat: false
 id: BZNT
 id_coinmarketcap: '2727'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2727.png
 name: Bezant
-platform: ETH
-platform_contract: '0xe1aee98495365fc179699c1bb3e761fa716bee62'

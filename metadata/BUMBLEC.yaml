@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xad83b92cdd542db07445597f7f06963b31cf9444'
+    platform: ETH
 crypto: true
 fiat: false
 id: BUMBLEC
 id_coinmarketcap: '24222'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24222.png
 name: BUMBLEC
-platform: ETH
-platform_contract: '0xad83b92cdd542db07445597f7f06963b31cf9444'

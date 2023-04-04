@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x93c15cd7de26f07265f0272e0b831c5d7fab174f'
+    platform: ARB
 crypto: true
 fiat: false
 id: LIQD
 id_coinmarketcap: '21601'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21601.png
 name: Liquid Finance
-platform: ARB
-platform_contract: '0x93c15cd7de26f07265f0272e0b831c5d7fab174f'

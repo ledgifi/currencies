@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4b31e9f15211768e4d16b31c11eb0d6c402b2230'
+    platform: BNB
 crypto: true
 fiat: false
 id: GAMEBOX
 id_coinmarketcap: '13274'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13274.png
 name: Gamebox
-platform: BNB
-platform_contract: '0x4b31e9f15211768e4d16b31c11eb0d6c402b2230'

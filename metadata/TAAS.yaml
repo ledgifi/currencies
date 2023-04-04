@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe7775a6e9bcf904eb39da2b68c5efb4f9360e08c'
+    platform: ETH
 crypto: true
 fiat: false
 id: TAAS
 id_coinmarketcap: '1592'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1592.png
 name: TaaS
-platform: ETH
-platform_contract: '0xe7775a6e9bcf904eb39da2b68c5efb4f9360e08c'

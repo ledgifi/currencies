@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x4A01D24Aa894530f83Fa3764c584Fc75885762B4'
+    platform: BNB
 crypto: true
 fiat: false
 id: FLOKINY
@@ -6,5 +9,3 @@ id_nomics: FLOKINY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKINY.jpeg
 logoKey: currencies/flokiny.jpeg
 name: Floki New Years
-platform: BNB
-platform_contract: '0x4A01D24Aa894530f83Fa3764c584Fc75885762B4'

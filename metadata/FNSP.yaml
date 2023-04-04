@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3B78dc5736a49BD297Dd2E4d62daA83D35A22749'
+    platform: ETH
 crypto: true
 fiat: false
 id: FNSP
 id_coinmarketcap: '7134'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7134.png
 name: Finswap
-platform: ETH
-platform_contract: '0x3B78dc5736a49BD297Dd2E4d62daA83D35A22749'

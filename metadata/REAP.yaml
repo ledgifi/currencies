@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1fc5ef0337aea85c5f9198853a6e3a579a7a6987'
+    platform: ETH
 crypto: true
 fiat: false
 id: REAP
 id_coinmarketcap: '7677'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7677.png
 name: ReapChain
-platform: ETH
-platform_contract: '0x1fc5ef0337aea85c5f9198853a6e3a579a7a6987'

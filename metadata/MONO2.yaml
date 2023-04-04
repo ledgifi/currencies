@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xD4099A517f2Fbe8a730d2ECaad1D0824B75e084a'
+    platform: BNB
 crypto: true
 fiat: false
 id: MONO2
 id_coinmarketcap: '12893'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12893.png
 name: The Monopolist
-platform: BNB
-platform_contract: '0xD4099A517f2Fbe8a730d2ECaad1D0824B75e084a'

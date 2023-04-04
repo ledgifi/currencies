@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x464acc420607d818f271875552868ddf8095cafe'
+    platform: BNB
 crypto: true
 fiat: false
 id: MEONG
 id_coinmarketcap: '14367'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14367.png
 name: MEONG TOKEN
-platform: BNB
-platform_contract: '0x464acc420607d818f271875552868ddf8095cafe'

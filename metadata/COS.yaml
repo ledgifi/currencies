@@ -1,3 +1,6 @@
+contracts:
+  - address: COS-2E4
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: COS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COS.png
 logoKey: currencies/cos.png
 name: Contentos
-platform: BNB
-platform_contract: COS-2E4

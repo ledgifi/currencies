@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf3a2ace8e48751c965ea0a1d064303aca53842b9'
+    platform: ETH
 crypto: true
 fiat: false
 id: HXY
 id_coinmarketcap: '5699'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5699.png
 name: HXY Money
-platform: ETH
-platform_contract: '0xf3a2ace8e48751c965ea0a1d064303aca53842b9'

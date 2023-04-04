@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xD83cec69ED9d8044597A793445C86a5e763b0E3D'
+    platform: BNB
 crypto: true
 fiat: false
 id: STOPELON
 id_coinmarketcap: '10426'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10426.png
 name: Stopelon
-platform: BNB
-platform_contract: '0xD83cec69ED9d8044597A793445C86a5e763b0E3D'

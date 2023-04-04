@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0f34919404a290e71fc6a510cb4a6acb8d764b24'
+    platform: AVAX
 crypto: true
 fiat: false
 id: BLZZ
 id_coinmarketcap: '14096'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14096.png
 name: Blizz Finance
-platform: AVAX
-platform_contract: '0x0f34919404a290e71fc6a510cb4a6acb8d764b24'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x38aa495ffa5ebe2f8f91004922650c29adf12083'
+    platform: BITCI
 crypto: true
 fiat: false
 id: ANKA
 id_coinmarketcap: '22516'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22516.png
 name: Ankaragücü Fan Token
-platform: BITCI
-platform_contract: '0x38aa495ffa5ebe2f8f91004922650c29adf12083'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x26d88B1E61E22Da3f1A1BA95A1bA278f6FCef00b'
+    platform: BNB
 crypto: true
 fiat: false
 id: CGS
 id_coinmarketcap: '13106'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13106.png
 name: Cougar
-platform: BNB
-platform_contract: '0x26d88B1E61E22Da3f1A1BA95A1bA278f6FCef00b'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8f1135eA4f8946949441716d66e5390C5A990DF0'
+    platform: ETH
 crypto: true
 fiat: false
 id: MES
 id_coinmarketcap: '4870'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4870.png
 name: MesChain
-platform: ETH
-platform_contract: '0x8f1135eA4f8946949441716d66e5390C5A990DF0'

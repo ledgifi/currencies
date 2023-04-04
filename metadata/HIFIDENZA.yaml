@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb3e6ee8d2c586fa03ab70aef96b8ae6d12d64ec7'
+    platform: ETH
 crypto: true
 fiat: false
 id: HIFIDENZA
 id_coinmarketcap: '22677'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22677.png
 name: hiFIDENZA
-platform: ETH
-platform_contract: '0xb3e6ee8d2c586fa03ab70aef96b8ae6d12d64ec7'

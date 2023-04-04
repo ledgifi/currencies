@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF3F3d7F713DF0447E9595d9B830a5f00297070e4'
+    platform: BNB
 crypto: true
 fiat: false
 id: MOT1
 id_coinmarketcap: '16592'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16592.png
 name: MOTHEREARTH
-platform: BNB
-platform_contract: '0xF3F3d7F713DF0447E9595d9B830a5f00297070e4'

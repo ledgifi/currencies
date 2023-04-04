@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x1fcdce58959f536621d76f5b7ffb955baa5a672f'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: FORCEPROTOCOL
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201218/1a9d9e86-72b9-4b71-8b19-69793c142f6c.png
 logoKey: currencies/for.png
 name: ForTube
-platform: ETH
-platform_contract: '0x1fcdce58959f536621d76f5b7ffb955baa5a672f'

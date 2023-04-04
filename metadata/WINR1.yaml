@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x27460aac4b005de72e2326bd8391c27fb41780f8'
+    platform: ETH
 crypto: true
 fiat: false
 id: WINR1
 id_coinmarketcap: '7494'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7494.png
 name: JustBet
-platform: ETH
-platform_contract: '0x27460aac4b005de72e2326bd8391c27fb41780f8'

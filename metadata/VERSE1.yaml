@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7ae0d42f23c33338de15bfa89c7405c068d9dc0a'
+    platform: ETH
 crypto: true
 fiat: false
 id: VERSE1
 id_coinmarketcap: '12214'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12214.png
 name: Shibaverse
-platform: ETH
-platform_contract: '0x7ae0d42f23c33338de15bfa89c7405c068d9dc0a'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdf574c24545e5ffecb9a659c229253d4111d87e1'
+    platform: ETH
 crypto: true
 fiat: false
 id: HUSD
 id_coinmarketcap: '4779'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4779.png
 name: HUSD
-platform: ETH
-platform_contract: '0xdf574c24545e5ffecb9a659c229253d4111d87e1'

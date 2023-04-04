@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdc847755343c3a2b94d6afc0aae57651e1b14064'
+    platform: BNB
 crypto: true
 fiat: false
 id: BODAV2
 id_coinmarketcap: '12851'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12851.png
 name: BODA Token
-platform: BNB
-platform_contract: '0xdc847755343c3a2b94d6afc0aae57651e1b14064'

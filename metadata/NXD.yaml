@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x228b5c21ac00155cf62c57bcc704c0da8187950b'
+    platform: MATIC
 crypto: true
 fiat: false
 id: NXD
 id_coinmarketcap: '17879'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17879.png
 name: Nexus Dubai
-platform: MATIC
-platform_contract: '0x228b5c21ac00155cf62c57bcc704c0da8187950b'

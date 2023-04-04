@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2ffee7b4df74f7c6508a4af4d6d91058da5420d0'
+    platform: BNB
 crypto: true
 fiat: false
 id: CHAINCADE
 id_coinmarketcap: '10875'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10875.png
 name: ChainCade
-platform: BNB
-platform_contract: '0x2ffee7b4df74f7c6508a4af4d6d91058da5420d0'

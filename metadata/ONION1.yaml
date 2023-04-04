@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf6931e67EF0cB20423351A53069719Df2ad76e78'
+    platform: AVAX
 crypto: true
 fiat: false
 id: ONION1
 id_coinmarketcap: '15559'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15559.png
 name: FarmersOnly Onion
-platform: AVAX
-platform_contract: '0xf6931e67EF0cB20423351A53069719Df2ad76e78'

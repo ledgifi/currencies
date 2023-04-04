@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x09Faf80c7Df27d0Fb8A717324963cB871f6814f7'
+    platform: BNB
 crypto: true
 fiat: false
 id: $CLEAR
 id_coinmarketcap: '19892'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19892.png
 name: Clear Water
-platform: BNB
-platform_contract: '0x09Faf80c7Df27d0Fb8A717324963cB871f6814f7'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc184be44278aadac98309cb60612ce20b7e02ab5'
+    platform: BNB
 crypto: true
 fiat: false
 id: DIFI
 id_coinmarketcap: '23740'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23740.png
 name: Digital Files
-platform: BNB
-platform_contract: '0xc184be44278aadac98309cb60612ce20b7e02ab5'

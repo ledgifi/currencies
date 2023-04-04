@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x641ec142e67ab213539815f67e4276975c2f8d50'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOGEKING
@@ -6,5 +9,3 @@ id_coinpaprika: dogeking-dogeking
 id_nomics: DOGEKING
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17861.png
 name: DogeKing
-platform: BNB
-platform_contract: '0x641ec142e67ab213539815f67e4276975c2f8d50'

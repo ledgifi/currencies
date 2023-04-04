@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xC0d4bB262d63A95f85Ae841b4e2B0dACc54Fdc0a'
+    platform: CRO
 crypto: true
 fiat: false
 id: KINU
 id_coinmarketcap: '19626'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19626.png
 name: Kragger Inu
-platform: CRO
-platform_contract: '0xC0d4bB262d63A95f85Ae841b4e2B0dACc54Fdc0a'

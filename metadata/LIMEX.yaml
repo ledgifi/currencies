@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x400b1d8a7dd8C471026B2c8CBe1062b27d120538'
+    platform: ETH
 crypto: true
 fiat: false
 id: LIMEX
 id_coinmarketcap: '5985'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5985.png
 name: Limestone Network
-platform: ETH
-platform_contract: '0x400b1d8a7dd8C471026B2c8CBe1062b27d120538'

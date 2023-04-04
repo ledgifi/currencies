@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf33121A2209609cAdc7349AcC9c40E41CE21c730'
+    platform: ETH
 crypto: true
 fiat: false
 id: BAG3
 id_coinmarketcap: '13853'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13853.png
 name: Blockchain Adventurers Guild
-platform: ETH
-platform_contract: '0xf33121A2209609cAdc7349AcC9c40E41CE21c730'

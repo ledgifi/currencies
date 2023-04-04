@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3155ba85d5f96b2d030a4966af206230e46849cb'
+    platform: ETH
 crypto: true
 fiat: false
 id: RUNE2
 id_coinmarketcap: '8272'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8272.png
 name: THORChain (ERC20)
-platform: ETH
-platform_contract: '0x3155ba85d5f96b2d030a4966af206230e46849cb'

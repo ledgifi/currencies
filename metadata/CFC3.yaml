@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9950fea09F74E81b8C2A97c7036406433BEAeaD1'
+    platform: MATIC
 crypto: true
 fiat: false
 id: CFC3
 id_coinmarketcap: '18445'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18445.png
 name: CHRONOFi
-platform: MATIC
-platform_contract: '0x9950fea09F74E81b8C2A97c7036406433BEAeaD1'

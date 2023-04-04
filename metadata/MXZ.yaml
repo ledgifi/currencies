@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x72875158c818d43ea07c514cb9c0e134bb8cb0e7'
+    platform: BNB
 crypto: true
 fiat: false
 id: MXZ
 id_coinmarketcap: '22217'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22217.png
 name: Maximus Coin
-platform: BNB
-platform_contract: '0x72875158c818d43ea07c514cb9c0e134bb8cb0e7'

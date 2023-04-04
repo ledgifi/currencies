@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9f31200553d74a8632f2ca30aa95d8cd7730a878'
+    platform: ETH
 crypto: true
 fiat: false
 id: RYM
 id_coinmarketcap: '5944'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5944.png
 name: RYM PROJECT
-platform: ETH
-platform_contract: '0x9f31200553d74a8632f2ca30aa95d8cd7730a878'

@@ -1,3 +1,6 @@
+contracts:
+  - address: 4TGxgCSJQx2GQk9oHZ8dC5m3JNXTYZHjXumKAW3vLnNx
+    platform: SOL
 crypto: true
 fiat: false
 id: OXS
@@ -6,5 +9,3 @@ id_nomics: OXS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OXS.jpg
 logoKey: currencies/oxs.jpg
 name: Oxbull Solana
-platform: SOL
-platform_contract: 4TGxgCSJQx2GQk9oHZ8dC5m3JNXTYZHjXumKAW3vLnNx

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x81f8f0bb1cB2A06649E51913A151F0E7Ef6FA321'
+    platform: ETH
 crypto: true
 fiat: false
 id: VITA
 id_coinmarketcap: '19214'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19214.png
 name: VitaDAO
-platform: ETH
-platform_contract: '0x81f8f0bb1cB2A06649E51913A151F0E7Ef6FA321'

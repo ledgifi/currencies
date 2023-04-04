@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xEED736b2b809550D89A941C2005dE93588c628e2'
+    platform: ETH
 crypto: true
 fiat: false
 id: ETHP
 id_coinmarketcap: '5778'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5778.png
 name: ETHPlus
-platform: ETH
-platform_contract: '0xEED736b2b809550D89A941C2005dE93588c628e2'

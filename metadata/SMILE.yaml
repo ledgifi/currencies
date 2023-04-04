@@ -1,8 +1,9 @@
+contracts:
+  - address: '300208676'
+    platform: ALGO
 crypto: true
 fiat: false
 id: SMILE
 id_coinmarketcap: '12381'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12381.png
 name: Smile Coin
-platform: ALGO
-platform_contract: '300208676'

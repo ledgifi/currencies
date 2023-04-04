@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1840efa31d2e26dc8af5502efa5124da450995f1'
+    platform: BNB
 crypto: true
 fiat: false
 id: SEKO
 id_coinmarketcap: '20442'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20442.png
 name: SEKOPAY
-platform: BNB
-platform_contract: '0x1840efa31d2e26dc8af5502efa5124da450995f1'

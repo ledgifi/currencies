@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x78a685e0762096ed0f98107212e98f8c35a9d1d8'
+    platform: ETH
 crypto: true
 fiat: false
 id: DAP
 id_coinmarketcap: '5517'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5517.png
 name: Ourbloc
-platform: ETH
-platform_contract: '0x78a685e0762096ed0f98107212e98f8c35a9d1d8'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7B9F36a2F331EcE03a7483D2713Cfd806f9bEef2'
+    platform: BNB
 crypto: true
 fiat: false
 id: IRISTOKEN
 id_coinmarketcap: '22010'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22010.png
 name: Iris Ecosystem
-platform: BNB
-platform_contract: '0x7B9F36a2F331EcE03a7483D2713Cfd806f9bEef2'

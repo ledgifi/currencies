@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf4b54874cd8a6c863e3a904c18fda964661ec363'
+    platform: ETH
 crypto: true
 fiat: false
 id: DWS
 id_coinmarketcap: '2919'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2919.png
 name: DWS
-platform: ETH
-platform_contract: '0xf4b54874cd8a6c863e3a904c18fda964661ec363'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc744df3419a8c9bd4d6b9852a503eb1c5308a326'
+    platform: ETH
 crypto: true
 fiat: false
 id: RED
 id_coinmarketcap: '21690'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21690.png
 name: RED TOKEN
-platform: ETH
-platform_contract: '0xc744df3419a8c9bd4d6b9852a503eb1c5308a326'

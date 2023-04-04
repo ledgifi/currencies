@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb1c9bc94aCd2fAE6aABf4ffae4429B93512a81D2'
+    platform: ETH
 crypto: true
 fiat: false
 id: ARDN
 id_coinmarketcap: '13135'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13135.png
 name: Ariadne
-platform: ETH
-platform_contract: '0xb1c9bc94aCd2fAE6aABf4ffae4429B93512a81D2'

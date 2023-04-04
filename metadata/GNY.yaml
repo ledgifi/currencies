@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb1f871Ae9462F1b2C6826E88A7827e76f86751d4'
+    platform: ETH
 crypto: true
 fiat: false
 id: GNY
 id_coinmarketcap: '3936'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3936.png
 name: GNY
-platform: ETH
-platform_contract: '0xb1f871Ae9462F1b2C6826E88A7827e76f86751d4'

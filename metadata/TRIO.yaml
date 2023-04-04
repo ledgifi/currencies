@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf55cd1e399e1cc3d95303048897a680be3313308'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRIO
 id_coinmarketcap: '22191'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22191.png
 name: Maximus TRIO
-platform: ETH
-platform_contract: '0xf55cd1e399e1cc3d95303048897a680be3313308'

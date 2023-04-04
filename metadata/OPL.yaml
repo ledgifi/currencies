@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x71ED797F5AC67E44a8f59f1ee8d494CBc3f99471'
+    platform: OP
 crypto: true
 fiat: false
 id: OPL
 id_coinmarketcap: '21565'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21565.png
 name: OP LAUNCHER
-platform: OP
-platform_contract: '0x71ED797F5AC67E44a8f59f1ee8d494CBc3f99471'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0cd3a8ce155a8d9daaf19e5caa642e72a2a24cd8'
+    platform: BNB
 crypto: true
 fiat: false
 id: KROOT
 id_coinmarketcap: '12204'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12204.png
 name: KRoot
-platform: BNB
-platform_contract: '0x0cd3a8ce155a8d9daaf19e5caa642e72a2a24cd8'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xca578afee65fd2268d383f8fc4a9fc6ae1d2def0'
+    platform: BNB
 crypto: true
 fiat: false
 id: FAIR2
 id_coinmarketcap: '9088'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9088.png
 name: Fairmoon
-platform: BNB
-platform_contract: '0xca578afee65fd2268d383f8fc4a9fc6ae1d2def0'

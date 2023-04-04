@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfc8e68e30350c6603d3d29fcc8e676380c28fcf4'
+    platform: BNB
 crypto: true
 fiat: false
 id: BBKFI
 id_coinmarketcap: '9581'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9581.png
 name: BitBlocks Finance
-platform: BNB
-platform_contract: '0xfc8e68e30350c6603d3d29fcc8e676380c28fcf4'

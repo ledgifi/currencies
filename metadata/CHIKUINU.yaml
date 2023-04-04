@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2c14cbffd9963c17ff65028c52f75ea6f14205ff'
+    platform: BNB
 crypto: true
 fiat: false
 id: CHIKUINU
 id_coinmarketcap: '16317'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16317.png
 name: Chiku Inu
-platform: BNB
-platform_contract: '0x2c14cbffd9963c17ff65028c52f75ea6f14205ff'

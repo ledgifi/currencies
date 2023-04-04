@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xBcCD27062ae1A2BeA5731c904b96EDfb163Aba21'
+    platform: ETH
 crypto: true
 fiat: false
 id: DOGS
 id_coinmarketcap: '21521'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21521.png
 name: DogCoin
-platform: ETH
-platform_contract: '0xBcCD27062ae1A2BeA5731c904b96EDfb163Aba21'

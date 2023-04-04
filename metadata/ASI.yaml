@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x705d6cbf5352b29b4f4ee0bbe0788721f961abcd'
+    platform: ETH
 crypto: true
 fiat: false
 id: ASI
 id_coinmarketcap: '8876'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8876.png
 name: ASI finance
-platform: ETH
-platform_contract: '0x705d6cbf5352b29b4f4ee0bbe0788721f961abcd'

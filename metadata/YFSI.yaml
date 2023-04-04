@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1df6f1bb7454e5e4ba3bca882d3148fbf9b5697a'
+    platform: ETH
 crypto: true
 fiat: false
 id: YFSI
 id_coinmarketcap: '7343'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7343.png
 name: Yfscience
-platform: ETH
-platform_contract: '0x1df6f1bb7454e5e4ba3bca882d3148fbf9b5697a'

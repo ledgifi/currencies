@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x014a543f767b3b06e31a811b0a75483ee8dfd72d'
+    platform: ETH
 crypto: true
 fiat: false
 id: BNZ
 id_coinmarketcap: '7415'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7415.png
 name: BonezYard
-platform: ETH
-platform_contract: '0x014a543f767b3b06e31a811b0a75483ee8dfd72d'

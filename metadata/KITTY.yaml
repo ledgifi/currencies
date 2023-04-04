@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x044727e50ff30db57fad06ff4f5846eab5ea52a2'
+    platform: ETH
 crypto: true
 fiat: false
 id: kitty
 id_coinmarketcap: '13136'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13136.png
 name: Kitty Inu
-platform: ETH
-platform_contract: '0x044727e50ff30db57fad06ff4f5846eab5ea52a2'

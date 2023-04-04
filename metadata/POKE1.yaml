@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcdad3683335a4a96d2c437dd4513b061e4aec4ff'
+    platform: BNB
 crypto: true
 fiat: false
 id: POKE1
 id_coinmarketcap: '8303'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8303.png
 name: Pokeball
-platform: BNB
-platform_contract: '0xcdad3683335a4a96d2c437dd4513b061e4aec4ff'

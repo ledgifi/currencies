@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x00D1793D7C3aAE506257Ba985b34C76AaF642557'
+    platform: ETH
 crypto: true
 fiat: false
 id: TACO
 id_coinmarketcap: '6575'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6575.png
 name: Tacos
-platform: ETH
-platform_contract: '0x00D1793D7C3aAE506257Ba985b34C76AaF642557'

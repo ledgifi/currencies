@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5925f67d2767d937f47141dac24166b469558222'
+    platform: ETH
 crypto: true
 fiat: false
 id: OLXA
 id_coinmarketcap: '3823'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3823.png
 name: OLXA
-platform: ETH
-platform_contract: '0x5925f67d2767d937f47141dac24166b469558222'

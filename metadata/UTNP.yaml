@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9e3319636e2126e3c0bc9e3134AEC5e1508A46c7'
+    platform: ETH
 crypto: true
 fiat: false
 id: UTNP
 id_coinmarketcap: '2524'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2524.png
 name: Universa
-platform: ETH
-platform_contract: '0x9e3319636e2126e3c0bc9e3134AEC5e1508A46c7'

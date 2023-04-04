@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x030ce78aa5be014976bca9b8448e78d1d87fce0b'
+    platform: BNB
 crypto: true
 fiat: false
 id: BDS1
 id_coinmarketcap: '11408'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11408.png
 name: Big Digital Shares
-platform: BNB
-platform_contract: '0x030ce78aa5be014976bca9b8448e78d1d87fce0b'

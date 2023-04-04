@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2E768E86F691AFe8a6F9277bBCD9c570Ab868FC0'
+    platform: AVAX
 crypto: true
 fiat: false
 id: APEX4
 id_coinmarketcap: '20436'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20436.png
 name: Apex Nodes
-platform: AVAX
-platform_contract: '0x2E768E86F691AFe8a6F9277bBCD9c570Ab868FC0'

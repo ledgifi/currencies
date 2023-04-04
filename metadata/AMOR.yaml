@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x07a2de47FbcBC4B7BeDe9ed8f870245aCffCbD91'
+    platform: BNB
 crypto: true
 fiat: false
 id: AMOR
 id_coinmarketcap: '12305'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12305.png
 name: Amorswap
-platform: BNB
-platform_contract: '0x07a2de47FbcBC4B7BeDe9ed8f870245aCffCbD91'

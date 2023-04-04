@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd35833f9255fb28cc6b91acb8a66ba6429d6ef5a'
+    platform: ETH
 crypto: true
 fiat: false
 id: HYPX
 id_coinmarketcap: '3833'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3833.png
 name: HYPNOXYS
-platform: ETH
-platform_contract: '0xd35833f9255fb28cc6b91acb8a66ba6429d6ef5a'

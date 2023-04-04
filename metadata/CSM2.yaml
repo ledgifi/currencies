@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x35754e4650c8ab582f4e2cb9225e77e6685be25a'
+    platform: BNB
 crypto: true
 fiat: false
 id: CSM2
 id_coinmarketcap: '11625'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11625.png
 name: 'CityStates: Medieval'
-platform: BNB
-platform_contract: '0x35754e4650c8ab582f4e2cb9225e77e6685be25a'

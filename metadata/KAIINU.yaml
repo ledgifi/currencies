@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe5a09784b16e1065c37df14c6e2f06fdce317a1b'
+    platform: BNB
 crypto: true
 fiat: false
 id: KAIINU
 id_coinmarketcap: '10330'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10330.png
 name: KAI INU
-platform: BNB
-platform_contract: '0xe5a09784b16e1065c37df14c6e2f06fdce317a1b'

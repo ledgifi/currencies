@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5F474906637bdCDA05f29C74653F6962bb0f8eDa'
+    platform: ETH
 crypto: true
 fiat: false
 id: DEFX
 id_coinmarketcap: '10145'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10145.png
 name: DeFinity
-platform: ETH
-platform_contract: '0x5F474906637bdCDA05f29C74653F6962bb0f8eDa'

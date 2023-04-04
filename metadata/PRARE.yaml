@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x2C2f7e7C5604D162d75641256b80F1Bf6f4dC796'
+    platform: ETH
 crypto: true
 fiat: false
 id: PRARE
@@ -7,5 +10,3 @@ id_nomics: PRARE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRARE.jpg
 logoKey: currencies/prare.jpg
 name: Polkarare
-platform: ETH
-platform_contract: '0x2C2f7e7C5604D162d75641256b80F1Bf6f4dC796'

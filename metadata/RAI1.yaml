@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5b86b0d1c304c246282dea0e0f21db2baa429b31'
+    platform: ETH
 crypto: true
 fiat: false
 id: RAI1
 id_coinmarketcap: '4665'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4665.png
 name: 'RealAssetChain '
-platform: ETH
-platform_contract: '0x5b86b0d1c304c246282dea0e0f21db2baa429b31'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe06fba763c2104db5027f57f6a5be0a0d86308af'
+    platform: AVAX
 crypto: true
 fiat: false
 id: AKITAX
 id_coinmarketcap: '16194'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16194.png
 name: Akitavax
-platform: AVAX
-platform_contract: '0xe06fba763c2104db5027f57f6a5be0a0d86308af'

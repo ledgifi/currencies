@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xAE4A8E2A265D799639DC2440437D401b07478E2d'
+    platform: BNB
 crypto: true
 fiat: false
 id: OURS
 id_coinmarketcap: '18605'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18605.png
 name: Flying Colours
-platform: BNB
-platform_contract: '0xAE4A8E2A265D799639DC2440437D401b07478E2d'

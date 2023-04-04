@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc133529e57681b2999708f9458be5634e293995e'
+    platform: ETH
 crypto: true
 fiat: false
 id: NAAL
 id_coinmarketcap: '13965'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13965.png
 name: Ethernaal
-platform: ETH
-platform_contract: '0xc133529e57681b2999708f9458be5634e293995e'

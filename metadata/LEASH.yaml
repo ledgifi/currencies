@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x27c70cd1946795b66be9d954418546998b546634'
+    platform: ETH
 crypto: true
 fiat: false
 id: LEASH
 id_coinmarketcap: '9286'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9286.png
 name: Doge Killer
-platform: ETH
-platform_contract: '0x27c70cd1946795b66be9d954418546998b546634'

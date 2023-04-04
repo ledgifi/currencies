@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7e5179422f1a5cec8473bc4e5d0305d0d1f9e7bd'
+    platform: BNB
 crypto: true
 fiat: false
 id: FDOGE1
 id_coinmarketcap: '13122'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13122.png
 name: First Doge Finance
-platform: BNB
-platform_contract: '0x7e5179422f1a5cec8473bc4e5d0305d0d1f9e7bd'

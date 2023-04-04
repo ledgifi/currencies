@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7ad8bc51c917076e5652954943cf0a9991e5a9f9'
+    platform: ETH
 crypto: true
 fiat: false
 id: CHOW1
 id_coinmarketcap: '15943'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15943.png
 name: Chow Inu
-platform: ETH
-platform_contract: '0x7ad8bc51c917076e5652954943cf0a9991e5a9f9'

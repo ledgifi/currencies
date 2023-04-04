@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xD5147bc8e386d91Cc5DBE72099DAC6C9b99276F5'
+    platform: ETH
 crypto: true
 fiat: false
 id: RENFIL
 id_coinmarketcap: '7997'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7997.png
 name: renFIL
-platform: ETH
-platform_contract: '0xD5147bc8e386d91Cc5DBE72099DAC6C9b99276F5'

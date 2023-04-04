@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xD41C4805A9A3128f9F7A7074Da25965371Ba50d5'
+    platform: BNB
 crypto: true
 fiat: false
 id: COINSCOPE
 id_coinmarketcap: '14885'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14885.png
 name: Coinscope
-platform: BNB
-platform_contract: '0xD41C4805A9A3128f9F7A7074Da25965371Ba50d5'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9a3077f34cc30f9bf8e93a0369119bae0113d9cc'
+    platform: BNB
 crypto: true
 fiat: false
 id: PLAY3
 id_coinmarketcap: '11179'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11179.png
 name: PolyPlay
-platform: BNB
-platform_contract: '0x9a3077f34cc30f9bf8e93a0369119bae0113d9cc'

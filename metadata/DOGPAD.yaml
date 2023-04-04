@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6f3277ad0782a7da3eb676b85a8346a100bf9c1c'
+    platform: ETH
 crypto: true
 fiat: false
 id: DOGPAD
 id_coinmarketcap: '23331'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23331.png
 name: DogPad Finance
-platform: ETH
-platform_contract: '0x6f3277ad0782a7da3eb676b85a8346a100bf9c1c'

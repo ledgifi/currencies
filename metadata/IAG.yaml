@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x40eb746dee876ac1e78697b7ca85142d178a1fc8'
+    platform: ETH
 crypto: true
 fiat: false
 id: IAG
 id_coinmarketcap: '11078'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11078.png
 name: IAGON
-platform: ETH
-platform_contract: '0x40eb746dee876ac1e78697b7ca85142d178a1fc8'

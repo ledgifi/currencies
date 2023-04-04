@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0736FBF90Ac5892135908B30161994646678ef7d'
+    platform: BNB
 crypto: true
 fiat: false
 id: OKA
 id_coinmarketcap: '21636'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21636.png
 name: Okaleido
-platform: BNB
-platform_contract: '0x0736FBF90Ac5892135908B30161994646678ef7d'

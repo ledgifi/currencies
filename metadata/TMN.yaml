@@ -1,8 +1,9 @@
+contracts:
+  - address: d613223fa138a1555ff711581982462acde209c5
+    platform: NEO
 crypto: true
 fiat: false
 id: TMN
 id_coinmarketcap: '4102'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4102.png
 name: TranslateMe Network Token
-platform: NEO
-platform_contract: d613223fa138a1555ff711581982462acde209c5

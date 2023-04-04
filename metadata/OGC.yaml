@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x33d53608167ac3679c0fe9f7a7a725891cf0f471'
+    platform: BNB
 crypto: true
 fiat: false
 id: OGC
 id_coinmarketcap: '9257'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9257.png
 name: One Get Coin
-platform: BNB
-platform_contract: '0x33d53608167ac3679c0fe9f7a7a725891cf0f471'

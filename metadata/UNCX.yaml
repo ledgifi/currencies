@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaDB2437e6F65682B85F814fBc12FeC0508A7B1D0'
+    platform: ETH
 crypto: true
 fiat: false
 id: UNCX
 id_coinmarketcap: '7664'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7664.png
 name: UniCrypt
-platform: ETH
-platform_contract: '0xaDB2437e6F65682B85F814fBc12FeC0508A7B1D0'

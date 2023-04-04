@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7f0c8b125040f707441cad9e5ed8a8408673b455'
+    platform: ETH
 crypto: true
 fiat: false
 id: NEBO
 id_coinmarketcap: '7597'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7597.png
 name: CSP DAO
-platform: ETH
-platform_contract: '0x7f0c8b125040f707441cad9e5ed8a8408673b455'

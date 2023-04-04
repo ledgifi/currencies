@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9b917d94fb0138edf520332f3d45494f1a74bec8'
+    platform: ETH
 crypto: true
 fiat: false
 id: EFX
 id_coinmarketcap: '2666'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2666.png
 name: Effect Network
-platform: ETH
-platform_contract: '0x9b917d94fb0138edf520332f3d45494f1a74bec8'

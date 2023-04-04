@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xDF72fFDf750d8dA2d5874C99eA00Ed0f77046B0D'
+    platform: BNB
 crypto: true
 fiat: false
 id: DEAR
 id_coinmarketcap: '21092'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21092.png
 name: Dragonairenfts
-platform: BNB
-platform_contract: '0xDF72fFDf750d8dA2d5874C99eA00Ed0f77046B0D'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7b1ebc0c4bc34964a0673cbeef4e1de868e8a8b6'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOGECO
 id_coinmarketcap: '17777'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17777.png
 name: Dogecolony
-platform: BNB
-platform_contract: '0x7b1ebc0c4bc34964a0673cbeef4e1de868e8a8b6'

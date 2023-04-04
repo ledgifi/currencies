@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0f6266a9e9214ea129d4a001e9541d643a34c772'
+    platform: BNB
 crypto: true
 fiat: false
 id: OLOID
 id_coinmarketcap: '20564'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20564.png
 name: OLOID
-platform: BNB
-platform_contract: '0x0f6266a9e9214ea129d4a001e9541d643a34c772'

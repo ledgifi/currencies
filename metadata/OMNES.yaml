@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc29004ab38334dc7a9eca1b89d6d4bf9f564d5cf'
+    platform: ETH
 crypto: true
 fiat: false
 id: OMNES
 id_coinmarketcap: '4638'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4638.png
 name: OmnesCoin
-platform: ETH
-platform_contract: '0xc29004ab38334dc7a9eca1b89d6d4bf9f564d5cf'

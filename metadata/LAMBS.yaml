@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x142ac3bd1c94898be6e311b020b547a11dc03990'
+    platform: ETH
 crypto: true
 fiat: false
 id: LAMBS
 id_coinmarketcap: '4854'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4854.png
 name: Lambda Space Token
-platform: ETH
-platform_contract: '0x142ac3bd1c94898be6e311b020b547a11dc03990'

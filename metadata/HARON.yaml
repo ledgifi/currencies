@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf000ca9fbb684bfa2f5f8b36fdf222970fc93763'
+    platform: ETH
 crypto: true
 fiat: false
 id: HARON
 id_coinmarketcap: '4574'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4574.png
 name: HARON
-platform: ETH
-platform_contract: '0xf000ca9fbb684bfa2f5f8b36fdf222970fc93763'

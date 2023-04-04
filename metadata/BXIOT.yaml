@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5c4ac68aAc56eBe098D621Cd8CE9F43270Aaa355'
+    platform: ETH
 crypto: true
 fiat: false
 id: BXIOT
 id_coinmarketcap: '7051'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7051.png
 name: bXIOT
-platform: ETH
-platform_contract: '0x5c4ac68aAc56eBe098D621Cd8CE9F43270Aaa355'

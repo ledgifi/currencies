@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xddd6a0ecc3c6f6c102e5ea3d8af7b801d1a77ac8'
+    platform: ETH
 crypto: true
 fiat: false
 id: UNIX
 id_coinmarketcap: '14915'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14915.png
 name: UniX Gaming
-platform: ETH
-platform_contract: '0xddd6a0ecc3c6f6c102e5ea3d8af7b801d1a77ac8'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x65a15014964f2102ff58647e16a16a6b9e14bcf6'
+    platform: ETH
 crypto: true
 fiat: false
 id: OX
 id_coinmarketcap: '1914'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1914.png
 name: OX Fina
-platform: ETH
-platform_contract: '0x65a15014964f2102ff58647e16a16a6b9e14bcf6'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb2ea51BAa12C461327d12A2069d47b30e680b69D'
+    platform: BNB
 crypto: true
 fiat: false
 id: SMCW
 id_coinmarketcap: '16741'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16741.png
 name: Space Misfits
-platform: BNB
-platform_contract: '0xb2ea51BAa12C461327d12A2069d47b30e680b69D'

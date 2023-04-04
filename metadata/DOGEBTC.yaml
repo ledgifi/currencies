@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb3fa62eD37e885e3F6b98F1Bf9EAa724BB9afF39'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOGEBTC
 id_coinmarketcap: '11001'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11001.png
 name: DogeBTC
-platform: BNB
-platform_contract: '0xb3fa62eD37e885e3F6b98F1Bf9EAa724BB9afF39'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x34D33dc8Ac6f1650D94A7E9A972B47044217600b'
+    platform: FTM
 crypto: true
 fiat: false
 id: SMART3
 id_coinmarketcap: '15540'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15540.png
 name: Smart Token
-platform: FTM
-platform_contract: '0x34D33dc8Ac6f1650D94A7E9A972B47044217600b'

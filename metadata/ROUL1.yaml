@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x712661a1976992a8f8c82fe74ba4e81a82de1f32'
+    platform: BNB
 crypto: true
 fiat: false
 id: ROUL1
 id_coinmarketcap: '9557'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9557.png
 name: Roul Token
-platform: BNB
-platform_contract: '0x712661a1976992a8f8c82fe74ba4e81a82de1f32'

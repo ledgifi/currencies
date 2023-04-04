@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6cf9464B2C628Db187f2Bc1DDc0C43fDA72EfDd5'
+    platform: ETH
 crypto: true
 fiat: false
 id: SIV
 id_coinmarketcap: '16528'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16528.png
 name: Sivasspor Token
-platform: ETH
-platform_contract: '0x6cf9464B2C628Db187f2Bc1DDc0C43fDA72EfDd5'

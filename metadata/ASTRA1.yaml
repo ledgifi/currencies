@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7E9c15C43f0D6C4a12E6bdfF7c7D55D0f80e3E23'
+    platform: ETH
 crypto: true
 fiat: false
 id: ASTRA1
 id_coinmarketcap: '23234'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23234.png
 name: Astra DAO
-platform: ETH
-platform_contract: '0x7E9c15C43f0D6C4a12E6bdfF7c7D55D0f80e3E23'

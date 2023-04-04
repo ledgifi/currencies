@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9dd8d52629bf35b290dff525c8ef8a81c543125a'
+    platform: BNB
 crypto: true
 fiat: false
 id: ANO
 id_coinmarketcap: '9401'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9401.png
 name: Arrano
-platform: BNB
-platform_contract: '0x9dd8d52629bf35b290dff525c8ef8a81c543125a'

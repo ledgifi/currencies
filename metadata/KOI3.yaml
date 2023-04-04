@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8AE340d333fFB274969f505A6520b91024BC856C'
+    platform: ETH
 crypto: true
 fiat: false
 id: KOI3
 id_coinmarketcap: '21111'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21111.png
 name: The Dragon Gate
-platform: ETH
-platform_contract: '0x8AE340d333fFB274969f505A6520b91024BC856C'

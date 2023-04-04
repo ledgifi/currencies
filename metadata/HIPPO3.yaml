@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x473F9e0d804338edBC2c5853A749D31121006592'
+    platform: BNB
 crypto: true
 fiat: false
 id: HIPPO3
 id_coinmarketcap: '20804'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20804.png
 name: Hippo Inu
-platform: BNB
-platform_contract: '0x473F9e0d804338edBC2c5853A749D31121006592'

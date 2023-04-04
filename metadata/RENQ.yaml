@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xff8C479134A18918059493243943150776cF8CF2'
+    platform: ETH
 crypto: true
 fiat: false
 id: RENQ
 id_coinmarketcap: '24116'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24116.png
 name: Renq Finance
-platform: ETH
-platform_contract: '0xff8C479134A18918059493243943150776cF8CF2'

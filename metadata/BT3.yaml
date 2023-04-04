@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6628606c321faf52b7230a57b26c01b19aa68e82'
+    platform: ETH
 crypto: true
 fiat: false
 id: BT3
 id_coinmarketcap: '17834'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17834.png
 name: BitHash Token
-platform: ETH
-platform_contract: '0x6628606c321faf52b7230a57b26c01b19aa68e82'

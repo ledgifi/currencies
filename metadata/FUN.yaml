@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x419d0d8bdd9af5e606ae2232ed285aff190e711b'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: FUN
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/fun.svg
 logoKey: currencies/fun.svg
 name: FunToken
-platform: ETH
-platform_contract: '0x419d0d8bdd9af5e606ae2232ed285aff190e711b'

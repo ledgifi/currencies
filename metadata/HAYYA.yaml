@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x28b9736141832546B85E194A716Ef94a94c5a418'
+    platform: BNB
 crypto: true
 fiat: false
 id: HAYYA
 id_coinmarketcap: '21507'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21507.png
 name: GO HAYYA
-platform: BNB
-platform_contract: '0x28b9736141832546B85E194A716Ef94a94c5a418'

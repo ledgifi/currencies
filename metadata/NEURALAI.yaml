@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB9C255C115636D8CBe107FC953364b243cACdbCE'
+    platform: BNB
 crypto: true
 fiat: false
 id: NEURALAI
 id_coinmarketcap: '23479'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23479.png
 name: Neural AI
-platform: BNB
-platform_contract: '0xB9C255C115636D8CBe107FC953364b243cACdbCE'

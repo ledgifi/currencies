@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x47aba69224cbd869e10cc6bda10ea62d363b18a6'
+    platform: BNB
 crypto: true
 fiat: false
 id: MHOKK
 id_coinmarketcap: '14638'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14638.png
 name: MiniHokk
-platform: BNB
-platform_contract: '0x47aba69224cbd869e10cc6bda10ea62d363b18a6'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x29a63F4B209C29B4DC47f06FFA896F32667DAD2C'
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: PURSE
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20211227/37271601-f950-4bc2-8c91-2bd5d6356ac1.png
 logoKey: currencies/purse.png
 name: Pundi X PURSE
-platform: BNB
-platform_contract: '0x29a63F4B209C29B4DC47f06FFA896F32667DAD2C'

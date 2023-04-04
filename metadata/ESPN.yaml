@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x43B4Ab6231b7E4d1fAacc8F22c66113dec7280A1'
+    platform: BNB
 crypto: true
 fiat: false
 id: ESPN
 id_coinmarketcap: '20458'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20458.png
 name: Cyberium
-platform: BNB
-platform_contract: '0x43B4Ab6231b7E4d1fAacc8F22c66113dec7280A1'

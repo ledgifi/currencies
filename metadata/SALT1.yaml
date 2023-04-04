@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2849b1aE7E04A3D9Bc288673A92477CF63F28aF4'
+    platform: BNB
 crypto: true
 fiat: false
 id: SALT1
 id_coinmarketcap: '8625'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8625.png
 name: SaltSwap Finance
-platform: BNB
-platform_contract: '0x2849b1aE7E04A3D9Bc288673A92477CF63F28aF4'

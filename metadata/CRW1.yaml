@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0EA95B72E70C7fcB5bAbB877876Ea5152B0e357a'
+    platform: BNB
 crypto: true
 fiat: false
 id: CRW1
 id_coinmarketcap: '21765'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21765.png
 name: Crowdy
-platform: BNB
-platform_contract: '0x0EA95B72E70C7fcB5bAbB877876Ea5152B0e357a'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x457027fb186cAbfC5c873d3bEcA90312D3A57f3B'
+    platform: BNB
 crypto: true
 fiat: false
 id: UPT1
 id_coinmarketcap: '15670'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15670.png
 name: UPFUND
-platform: BNB
-platform_contract: '0x457027fb186cAbfC5c873d3bEcA90312D3A57f3B'

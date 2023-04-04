@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd2057d71fE3F5b0dc1E3e7722940E1908Fc72078'
+    platform: ETH
 crypto: true
 fiat: false
 id: $KING
 id_coinmarketcap: '7569'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7569.png
 name: King Swap
-platform: ETH
-platform_contract: '0xd2057d71fE3F5b0dc1E3e7722940E1908Fc72078'

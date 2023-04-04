@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8A743Eb80BFc3bF2a5582213aeA8B27D2188074a'
+    platform: ETH
 crypto: true
 fiat: false
 id: SELENA
 id_coinmarketcap: '18013'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18013.png
 name: SELENA INU
-platform: ETH
-platform_contract: '0x8A743Eb80BFc3bF2a5582213aeA8B27D2188074a'

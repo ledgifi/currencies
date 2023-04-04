@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x99342b1a141aa3a02e04afb496562037fdf8e655'
+    platform: ETH
 crypto: true
 fiat: false
 id: Psyduck
 id_coinmarketcap: '14141'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14141.png
 name: Psyduck Inu
-platform: ETH
-platform_contract: '0x99342b1a141aa3a02e04afb496562037fdf8e655'

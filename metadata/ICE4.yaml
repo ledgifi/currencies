@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9235b893a3e61a14b2d02a91ec1394fbf411689e'
+    platform: AVAX
 crypto: true
 fiat: false
 id: ICE4
 id_coinmarketcap: '15828'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15828.png
 name: Ice DAO
-platform: AVAX
-platform_contract: '0x9235b893a3e61a14b2d02a91ec1394fbf411689e'

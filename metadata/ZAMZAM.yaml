@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa5e279e14efd60a8f29e5ac3b464e3de0c6bb6b8'
+    platform: BNB
 crypto: true
 fiat: false
 id: ZAMZAM
 id_coinmarketcap: '17374'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17374.png
 name: Zamzam
-platform: BNB
-platform_contract: '0xa5e279e14efd60a8f29e5ac3b464e3de0c6bb6b8'

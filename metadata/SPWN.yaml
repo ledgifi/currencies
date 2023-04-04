@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xe516D78d784C77D479977BE58905B3f2b1111126'
+    platform: ETH
 crypto: true
 fiat: false
 id: SPWN
@@ -7,5 +10,3 @@ id_nomics: SPWN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPWN.png
 logoKey: currencies/spwn.png
 name: BitSpawn Token
-platform: ETH
-platform_contract: '0xe516D78d784C77D479977BE58905B3f2b1111126'

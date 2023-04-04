@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xd38BB40815d2B0c2d2c866e0c72c5728ffC76dd9'
+    platform: ETH
 crypto: true
 fiat: false
 id: SIS
@@ -7,5 +10,3 @@ id_nomics: SIS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SIS.jpg
 logoKey: currencies/sis.jpg
 name: Symbiosis
-platform: ETH
-platform_contract: '0xd38BB40815d2B0c2d2c866e0c72c5728ffC76dd9'

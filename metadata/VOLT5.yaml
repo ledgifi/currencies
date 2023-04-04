@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x485436b298545ee1671b0af94eb75ce1ee09dd3a'
+    platform: BNB
 crypto: true
 fiat: false
 id: VOLT5
 id_coinmarketcap: '9356'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9356.png
 name: Volterra
-platform: BNB
-platform_contract: '0x485436b298545ee1671b0af94eb75ce1ee09dd3a'

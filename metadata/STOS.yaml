@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x08c32b0726C5684024ea6e141C50aDe9690bBdcc'
+    platform: ETH
 crypto: true
 fiat: false
 id: STOS
 id_coinmarketcap: '9760'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9760.png
 name: Stratos
-platform: ETH
-platform_contract: '0x08c32b0726C5684024ea6e141C50aDe9690bBdcc'

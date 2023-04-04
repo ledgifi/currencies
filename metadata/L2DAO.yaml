@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd52f94DF742a6F4B4C8b033369fE13A41782Bf44'
+    platform: OP
 crypto: true
 fiat: false
 id: L2DAO
 id_coinmarketcap: '21082'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21082.png
 name: Layer2DAO
-platform: OP
-platform_contract: '0xd52f94DF742a6F4B4C8b033369fE13A41782Bf44'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8fC01E6CbDfFaf09B54F423f9Bb1F856b22e47b2'
+    platform: ETH
 crypto: true
 fiat: false
 id: OBTC2
 id_coinmarketcap: '3152'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3152.png
 name: Obitan Chain
-platform: ETH
-platform_contract: '0x8fC01E6CbDfFaf09B54F423f9Bb1F856b22e47b2'

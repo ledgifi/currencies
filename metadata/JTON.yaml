@@ -1,8 +1,9 @@
+contracts:
+  - address: EQBPAVa6fjMigxsnHF33UQ3auufVrg2Z8lBZTY9R-isfjIFr
+    platform: TON
 crypto: true
 fiat: false
 id: JTON
 id_coinmarketcap: '23153'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23153.png
 name: Wrapped Toncoin
-platform: TON
-platform_contract: EQBPAVa6fjMigxsnHF33UQ3auufVrg2Z8lBZTY9R-isfjIFr

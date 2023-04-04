@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8ac9dc3358a2db19fdd57f433ff45d1fc357afb3'
+    platform: BNB
 crypto: true
 fiat: false
 id: NMS
 id_coinmarketcap: '14492'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14492.png
 name: Nemesis DAO
-platform: BNB
-platform_contract: '0x8ac9dc3358a2db19fdd57f433ff45d1fc357afb3'

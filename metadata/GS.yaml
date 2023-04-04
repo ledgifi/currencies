@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe0b9a2c3e9f40cf74b2c7f591b2b0cca055c3112'
+    platform: ETH
 crypto: true
 fiat: false
 id: GS
 id_coinmarketcap: '9196'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9196.png
 name: Genesis Shards
-platform: ETH
-platform_contract: '0xe0b9a2c3e9f40cf74b2c7f591b2b0cca055c3112'

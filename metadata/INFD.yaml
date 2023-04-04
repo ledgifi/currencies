@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x82dad985afd3708680bac660f4e527da4f0dcfa5'
+    platform: ETH
 crypto: true
 fiat: false
 id: INFD
 id_coinmarketcap: '6035'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6035.png
 name: InfinityDeFi
-platform: ETH
-platform_contract: '0x82dad985afd3708680bac660f4e527da4f0dcfa5'

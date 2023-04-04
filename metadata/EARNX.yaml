@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0f76142D83ddEF359753ccA33647Cc4dCEe1C6d1'
+    platform: BNB
 crypto: true
 fiat: false
 id: EARNX
 id_coinmarketcap: '18685'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18685.png
 name: EarnX V2
-platform: BNB
-platform_contract: '0x0f76142D83ddEF359753ccA33647Cc4dCEe1C6d1'

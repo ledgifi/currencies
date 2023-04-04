@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x32Cd1BCB75473845b5d1dB6ecE60AEC6E41d8518'
+    platform: MATIC
 crypto: true
 fiat: false
 id: PS1
 id_coinmarketcap: '19472'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19472.png
 name: POLYSPORTS
-platform: MATIC
-platform_contract: '0x32Cd1BCB75473845b5d1dB6ecE60AEC6E41d8518'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xede26a1ee14281b58a5238a3ff246b02358a13b6'
+    platform: BNB
 crypto: true
 fiat: false
 id: KITE
 id_coinmarketcap: '11984'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11984.png
 name: Kite Sync
-platform: BNB
-platform_contract: '0xede26a1ee14281b58a5238a3ff246b02358a13b6'

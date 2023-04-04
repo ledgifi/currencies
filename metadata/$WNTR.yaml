@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x93f63d9455685621aBd73E63cC04f7e454270A66'
+    platform: BNB
 crypto: true
 fiat: false
 id: $WNTR
 id_coinmarketcap: '9981'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9981.png
 name: Weentar
-platform: BNB
-platform_contract: '0x93f63d9455685621aBd73E63cC04f7e454270A66'

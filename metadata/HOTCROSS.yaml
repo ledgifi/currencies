@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x4297394c20800e8a38a619a243e9bbe7681ff24e'
+    platform: ETH
 crypto: true
 fiat: false
 id: HOTCROSS
@@ -6,5 +9,3 @@ id_nomics: HOTCROSS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOTCROSS.jpg
 logoKey: currencies/hotcross.jpg
 name: Hot Cross (ERC-20)
-platform: ETH
-platform_contract: '0x4297394c20800e8a38a619a243e9bbe7681ff24e'

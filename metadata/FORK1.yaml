@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5bb1632fa0023e1aa76a1ae92b4635c8dba49fa2'
+    platform: ETH
 crypto: true
 fiat: false
 id: FORK1
 id_coinmarketcap: '4882'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4882.png
 name: GastroAdvisor
-platform: ETH
-platform_contract: '0x5bb1632fa0023e1aa76a1ae92b4635c8dba49fa2'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x720def948b1891a0ba2ca21964e2e5d0a806bc19'
+    platform: ETH
 crypto: true
 fiat: false
 id: CXRBN
 id_coinmarketcap: '14731'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14731.png
 name: Carbon Coin
-platform: ETH
-platform_contract: '0x720def948b1891a0ba2ca21964e2e5d0a806bc19'

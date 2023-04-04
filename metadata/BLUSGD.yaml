@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x92830ef7c8d651ed3a708053c602e807bad7db22'
+    platform: ETH
 crypto: true
 fiat: false
 id: BLUSGD
 id_coinmarketcap: '22890'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22890.png
 name: bluSGD
-platform: ETH
-platform_contract: '0x92830ef7c8d651ed3a708053c602e807bad7db22'

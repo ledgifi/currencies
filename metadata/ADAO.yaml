@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3b76374Cc2DfE28Cc373DcA6d5024791B2586335'
+    platform: BNB
 crypto: true
 fiat: false
 id: ADAO
 id_coinmarketcap: '16045'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16045.png
 name: Adadao
-platform: BNB
-platform_contract: '0x3b76374Cc2DfE28Cc373DcA6d5024791B2586335'

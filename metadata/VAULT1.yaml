@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6cbc2e98e16c28775637d59342f0c8d04ba66e39'
+    platform: BNB
 crypto: true
 fiat: false
 id: VAULT1
 id_coinmarketcap: '23109'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23109.png
 name: Vaulteum
-platform: BNB
-platform_contract: '0x6cbc2e98e16c28775637d59342f0c8d04ba66e39'

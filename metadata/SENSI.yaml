@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x63e77cf206801782239d4f126cfa22b517fb4edb'
+    platform: BNB
 crypto: true
 fiat: false
 id: SENSI
 id_coinmarketcap: '20022'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20022.png
 name: Sensi
-platform: BNB
-platform_contract: '0x63e77cf206801782239d4f126cfa22b517fb4edb'

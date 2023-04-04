@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1df2bF8bFf0f2a8d67cf84ca55Fc9cCC9C3dA018'
+    platform: BNB
 crypto: true
 fiat: false
 id: XIRCUS
 id_coinmarketcap: '15258'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15258.png
 name: Xircus
-platform: BNB
-platform_contract: '0x1df2bF8bFf0f2a8d67cf84ca55Fc9cCC9C3dA018'

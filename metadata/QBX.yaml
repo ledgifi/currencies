@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2467aa6b5a2351416fd4c3def8462d841feeecec'
+    platform: ETH
 crypto: true
 fiat: false
 id: QBX
 id_coinmarketcap: '4100'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4100.png
 name: qiibee foundation
-platform: ETH
-platform_contract: '0x2467aa6b5a2351416fd4c3def8462d841feeecec'

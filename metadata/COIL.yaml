@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3936ad01cf109a36489d93cabda11cf062fd3d48'
+    platform: ETH
 crypto: true
 fiat: false
 id: COIL
 id_coinmarketcap: '6645'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6645.png
 name: COIL
-platform: ETH
-platform_contract: '0x3936ad01cf109a36489d93cabda11cf062fd3d48'

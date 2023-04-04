@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6ca5fac496bf94345958635e6e6171dfe78f36bb'
+    platform: BNB
 crypto: true
 fiat: false
 id: MOOND
 id_coinmarketcap: '16597'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16597.png
 name: MoonsDust
-platform: BNB
-platform_contract: '0x6ca5fac496bf94345958635e6e6171dfe78f36bb'

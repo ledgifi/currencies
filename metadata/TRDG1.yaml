@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x92a42db88ed0f02c71d439e55962ca7cab0168b5'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRDG1
 id_coinmarketcap: '10785'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10785.png
 name: TRDGtoken (ETH)
-platform: ETH
-platform_contract: '0x92a42db88ed0f02c71d439e55962ca7cab0168b5'

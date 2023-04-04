@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0ff0eeceb900c6008bdde65479b5624d4e3415dc'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIBAY
 id_coinmarketcap: '17142'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17142.png
 name: Shiba Inu Pay
-platform: BNB
-platform_contract: '0x0ff0eeceb900c6008bdde65479b5624d4e3415dc'

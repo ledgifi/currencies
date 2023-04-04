@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x732cC1642905af1B7c394c0812Dbc4779cBF2b2d'
+    platform: BNB
 crypto: true
 fiat: false
 id: BITSU
 id_coinmarketcap: '19852'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19852.png
 name: Bitsubishi
-platform: BNB
-platform_contract: '0x732cC1642905af1B7c394c0812Dbc4779cBF2b2d'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2596825a84888E8f24b747DF29e11b5dd03C81D7'
+    platform: ETH
 crypto: true
 fiat: false
 id: FTRB
 id_coinmarketcap: '18386'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18386.png
 name: Faith Tribe
-platform: ETH
-platform_contract: '0x2596825a84888E8f24b747DF29e11b5dd03C81D7'

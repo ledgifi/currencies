@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x271b446D0C2230F59A7C5cC4B61cb84D7e4BD0DD'
+    platform: BNB
 crypto: true
 fiat: false
 id: READ
 id_coinmarketcap: '22729'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22729.png
 name: Reach DAO
-platform: BNB
-platform_contract: '0x271b446D0C2230F59A7C5cC4B61cb84D7e4BD0DD'

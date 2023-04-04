@@ -1,8 +1,9 @@
+contracts:
+  - address: atocha-token.near
+    platform: NEAR
 crypto: true
 fiat: false
 id: ATO
 id_coinmarketcap: '20815'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20815.png
 name: Atocha Protocol
-platform: NEAR
-platform_contract: atocha-token.near

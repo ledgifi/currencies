@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x648fd38efefb4f97cf2df3ff93eff70e94da0691'
+    platform: KLAY
 crypto: true
 fiat: false
 id: MON3
 id_coinmarketcap: '20082'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20082.png
 name: Monstock
-platform: KLAY
-platform_contract: '0x648fd38efefb4f97cf2df3ff93eff70e94da0691'

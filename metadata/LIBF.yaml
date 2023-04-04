@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4969D987DEA527E23778c932AA76a337df3f9740'
+    platform: BNB
 crypto: true
 fiat: false
 id: LIBF
 id_coinmarketcap: '19178'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19178.png
 name: Liberta Financial
-platform: BNB
-platform_contract: '0x4969D987DEA527E23778c932AA76a337df3f9740'

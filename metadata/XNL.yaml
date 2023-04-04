@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x06a00715e6f92210af9d7680b584931faf71a833'
+    platform: ETH
 crypto: true
 fiat: false
 id: XNL
@@ -7,5 +10,3 @@ id_nomics: XNL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XNL.jpg
 logoKey: currencies/xnl.jpg
 name: Chronicle
-platform: ETH
-platform_contract: '0x06a00715e6f92210af9d7680b584931faf71a833'

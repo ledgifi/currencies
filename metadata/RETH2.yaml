@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x20bc832ca081b91433ff6c17f85701b6e92486c5'
+    platform: ETH
 crypto: true
 fiat: false
 id: RETH2
 id_coinmarketcap: '18672'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18672.png
 name: StakeWise
-platform: ETH
-platform_contract: '0x20bc832ca081b91433ff6c17f85701b6e92486c5'

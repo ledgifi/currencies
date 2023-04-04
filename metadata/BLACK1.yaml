@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd714d91A169127e11D8FAb3665d72E8b7ef9Dbe2'
+    platform: ETH
 crypto: true
 fiat: false
 id: BLACK1
 id_coinmarketcap: '9450'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9450.png
 name: BLACKHOLE PROTOCOL
-platform: ETH
-platform_contract: '0xd714d91A169127e11D8FAb3665d72E8b7ef9Dbe2'

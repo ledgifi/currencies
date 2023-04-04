@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0ab503536019cb4303bda69467c1ec5de1589918'
+    platform: KLAY
 crypto: true
 fiat: false
 id: 3KM
 id_coinmarketcap: '23317'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23317.png
 name: 3 Kingdoms Multiverse
-platform: KLAY
-platform_contract: '0x0ab503536019cb4303bda69467c1ec5de1589918'

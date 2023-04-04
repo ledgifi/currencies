@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4cbdfad03b968bf43449d0908f319ae4a5a33371'
+    platform: BNB
 crypto: true
 fiat: false
 id: ECOIN3
 id_coinmarketcap: '10159'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10159.png
 name: E-coin Finance (Old)
-platform: BNB
-platform_contract: '0x4cbdfad03b968bf43449d0908f319ae4a5a33371'

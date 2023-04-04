@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbbdce056cbe561ee004094c75099172e7e3b34df'
+    platform: ETH
 crypto: true
 fiat: false
 id: BNV
 id_coinmarketcap: '5576'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5576.png
 name: BeNative Digital Voucher
-platform: ETH
-platform_contract: '0xbbdce056cbe561ee004094c75099172e7e3b34df'

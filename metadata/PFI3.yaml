@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7b69d465c0f9fb22affae56aa86149973e9b0966'
+    platform: ETH
 crypto: true
 fiat: false
 id: PFI3
 id_coinmarketcap: '8374'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8374.png
 name: protocol finance
-platform: ETH
-platform_contract: '0x7b69d465c0f9fb22affae56aa86149973e9b0966'

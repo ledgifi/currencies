@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe66a2b4b2b592a986cf65d8377aa77b045f0be96'
+    platform: BNB
 crypto: true
 fiat: false
 id: METAINU
 id_coinmarketcap: '14106'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14106.png
 name: Meta Inu
-platform: BNB
-platform_contract: '0xe66a2b4b2b592a986cf65d8377aa77b045f0be96'

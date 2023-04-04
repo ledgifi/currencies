@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0D741f8199Bd5425c5fb41eb66FcDFdf969A6D80'
+    platform: BITCI
 crypto: true
 fiat: false
 id: DELI
 id_coinmarketcap: '24140'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24140.png
 name: NFTDeli
-platform: BITCI
-platform_contract: '0x0D741f8199Bd5425c5fb41eb66FcDFdf969A6D80'

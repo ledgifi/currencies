@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe40175e022a9f3ae5c37ea9993596a0465abed5b'
+    platform: BNB
 crypto: true
 fiat: false
 id: BABYCLIFF
 id_coinmarketcap: '16830'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16830.png
 name: Baby Clifford Inu
-platform: BNB
-platform_contract: '0xe40175e022a9f3ae5c37ea9993596a0465abed5b'

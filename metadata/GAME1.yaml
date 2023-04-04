@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0e52d24c87a5ca4f37e3ee5e16ef5913fb0cceeb'
+    platform: BNB
 crypto: true
 fiat: false
 id: GAME1
 id_coinmarketcap: '12384'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12384.png
 name: Game1Network
-platform: BNB
-platform_contract: '0x0e52d24c87a5ca4f37e3ee5e16ef5913fb0cceeb'

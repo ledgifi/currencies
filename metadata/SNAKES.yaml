@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd26f1d7cf221ed3914626d91c6f51565eee08dd0'
+    platform: BNB
 crypto: true
 fiat: false
 id: SNAKES
 id_coinmarketcap: '13966'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13966.png
 name: Snakes On A NFT Game
-platform: BNB
-platform_contract: '0xd26f1d7cf221ed3914626d91c6f51565eee08dd0'

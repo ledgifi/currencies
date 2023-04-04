@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe1b0c129d63f6efdecaa2cb1968f5a1fb61f0f30'
+    platform: BNB
 crypto: true
 fiat: false
 id: MESHI
 id_coinmarketcap: '14735'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14735.png
 name: Meta Shiba
-platform: BNB
-platform_contract: '0xe1b0c129d63f6efdecaa2cb1968f5a1fb61f0f30'

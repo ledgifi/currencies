@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3f5dd1A1538a4F9f82E543098f01F22480B0A3a8'
+    platform: ETH
 crypto: true
 fiat: false
 id: dKUMA
 id_coinmarketcap: '21176'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21176.png
 name: KumaDex Token
-platform: ETH
-platform_contract: '0x3f5dd1A1538a4F9f82E543098f01F22480B0A3a8'

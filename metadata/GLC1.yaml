@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcc780503E290274CFa8Da085528067E259DF58f0'
+    platform: BNB
 crypto: true
 fiat: false
 id: GLC1
 id_coinmarketcap: '23481'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23481.png
 name: GlieseCoin
-platform: BNB
-platform_contract: '0xcc780503E290274CFa8Da085528067E259DF58f0'

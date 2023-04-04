@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3b4cAAAF6F3ce5Bee2871C89987cbd825Ac30822'
+    platform: ETH
 crypto: true
 fiat: false
 id: 'ON'
 id_coinmarketcap: '7021'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7021.png
 name: OFIN Token
-platform: ETH
-platform_contract: '0x3b4cAAAF6F3ce5Bee2871C89987cbd825Ac30822'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb1abd7aba7d99bbefb33d1dfc66b0dd522335350'
+    platform: ETH
 crypto: true
 fiat: false
 id: EURST
 id_coinmarketcap: '17001'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17001.png
 name: EURST
-platform: ETH
-platform_contract: '0xb1abd7aba7d99bbefb33d1dfc66b0dd522335350'

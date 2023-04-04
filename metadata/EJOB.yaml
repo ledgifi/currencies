@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4ca811010053a3d1bc643eadbf5c91c4f896b06b'
+    platform: ETH
 crypto: true
 fiat: false
 id: EJOB
 id_coinmarketcap: '4420'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4420.png
 name: ejob
-platform: ETH
-platform_contract: '0x4ca811010053a3d1bc643eadbf5c91c4f896b06b'

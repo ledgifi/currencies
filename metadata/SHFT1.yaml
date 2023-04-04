@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf5a56bd9ee4a3e2d493ab8e072658794b38b6d19'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHFT1
 id_coinmarketcap: '22855'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22855.png
 name: Shibcraft
-platform: ETH
-platform_contract: '0xf5a56bd9ee4a3e2d493ab8e072658794b38b6d19'

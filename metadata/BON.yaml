@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcc34366e3842ca1bd36c1f324d15257960fcc801'
+    platform: ETH
 crypto: true
 fiat: false
 id: BON
 id_coinmarketcap: '2256'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2256.png
 name: Bonpay
-platform: ETH
-platform_contract: '0xcc34366e3842ca1bd36c1f324d15257960fcc801'

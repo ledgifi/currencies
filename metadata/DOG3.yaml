@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCC4861AdC85d86ae8c9cc9D19F4F109969eb4F7B'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOG3
 id_coinmarketcap: '16629'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16629.png
 name: DOG
-platform: BNB
-platform_contract: '0xCC4861AdC85d86ae8c9cc9D19F4F109969eb4F7B'

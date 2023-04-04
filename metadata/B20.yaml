@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc4de189abf94c57f396bd4c52ab13b954febefd8'
+    platform: ETH
 crypto: true
 fiat: false
 id: B20
 id_coinmarketcap: '8457'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8457.png
 name: B20
-platform: ETH
-platform_contract: '0xc4de189abf94c57f396bd4c52ab13b954febefd8'

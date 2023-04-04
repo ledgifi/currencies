@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787'
+    platform: CELO
 crypto: true
 fiat: false
 id: CREAL
 id_coinmarketcap: '16385'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16385.png
 name: Celo Brazilian Real
-platform: CELO
-platform_contract: '0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787'

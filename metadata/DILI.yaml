@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x37f74e99794853777a10ea1dc08a64c86958f06a'
+    platform: ETH
 crypto: true
 fiat: false
 id: DILI
 id_coinmarketcap: '4793'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4793.png
 name: D Community
-platform: ETH
-platform_contract: '0x37f74e99794853777a10ea1dc08a64c86958f06a'

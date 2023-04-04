@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x505a84a03e382331a1be487b632cf357748b65d6'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHIBGF
 id_coinmarketcap: '13618'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13618.png
 name: Shiba Girlfriend
-platform: ETH
-platform_contract: '0x505a84a03e382331a1be487b632cf357748b65d6'

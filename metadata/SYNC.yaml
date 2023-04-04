@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB6ff96B8A8d214544Ca0dBc9B33f7AD6503eFD32'
+    platform: ETH
 crypto: true
 fiat: false
 id: SYNC
 id_coinmarketcap: '7812'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7812.png
 name: SYNC Network
-platform: ETH
-platform_contract: '0xB6ff96B8A8d214544Ca0dBc9B33f7AD6503eFD32'

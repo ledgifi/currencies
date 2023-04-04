@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xeaa2c985abf14ac850f6614faebd6e4436bea65f'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHUMO
 id_coinmarketcap: '18012'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18012.png
 name: SHUMO
-platform: ETH
-platform_contract: '0xeaa2c985abf14ac850f6614faebd6e4436bea65f'

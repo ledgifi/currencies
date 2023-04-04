@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf9f7019eBef37aAFa3aF21F4506A2663b03689Ac'
+    platform: BNB
 crypto: true
 fiat: false
 id: ESK1
 id_coinmarketcap: '15846'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15846.png
 name: Eskimo Inu
-platform: BNB
-platform_contract: '0xf9f7019eBef37aAFa3aF21F4506A2663b03689Ac'

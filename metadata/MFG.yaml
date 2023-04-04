@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6710c63432a2de02954fc0f851db07146a6c0312'
+    platform: ETH
 crypto: true
 fiat: false
 id: MFG
 id_coinmarketcap: '2658'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2658.png
 name: Smart MFG
-platform: ETH
-platform_contract: '0x6710c63432a2de02954fc0f851db07146a6c0312'

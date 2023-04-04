@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9b5161a41b58498eb9c5febf89d60714089d2253'
+    platform: ETH
 crypto: true
 fiat: false
 id: MF1
 id_coinmarketcap: '16545'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16545.png
 name: MetaFinance
-platform: ETH
-platform_contract: '0x9b5161a41b58498eb9c5febf89d60714089d2253'

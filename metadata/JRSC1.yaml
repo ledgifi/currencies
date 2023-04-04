@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3310e43dC1104D3CF5ABf81c9c2D08415AD9b092'
+    platform: BNB
 crypto: true
 fiat: false
 id: JRSC1
 id_coinmarketcap: '18246'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18246.png
 name: Jurassic Crypto
-platform: BNB
-platform_contract: '0x3310e43dC1104D3CF5ABf81c9c2D08415AD9b092'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa07403c1bd0c5cf53df07f15faa589241352527b'
+    platform: OKT
 crypto: true
 fiat: false
 id: BLADE
 id_coinmarketcap: '11972'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11972.png
 name: BladeWarrior
-platform: OKT
-platform_contract: '0xa07403c1bd0c5cf53df07f15faa589241352527b'

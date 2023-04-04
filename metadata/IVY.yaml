@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa4ea687a2a7f29cf2dc66b39c68e4411c0d00c49'
+    platform: ETH
 crypto: true
 fiat: false
 id: IVY
 id_coinmarketcap: '2833'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2833.png
 name: Ivy
-platform: ETH
-platform_contract: '0xa4ea687a2a7f29cf2dc66b39c68e4411c0d00c49'

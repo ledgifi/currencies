@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x86b3353387F560295a8Fa7902679735E5f076Bd5'
+    platform: ARB
 crypto: true
 fiat: false
 id: OMIC
 id_coinmarketcap: '14095'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14095.png
 name: Omicron
-platform: ARB
-platform_contract: '0x86b3353387F560295a8Fa7902679735E5f076Bd5'

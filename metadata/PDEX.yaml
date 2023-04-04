@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xF59ae934f6fe444afC309586cC60a84a0F89Aaea'
+    platform: ETH
 crypto: true
 fiat: false
 id: PDEX
@@ -6,5 +9,3 @@ id_nomics: PDEX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PDEX.jpg
 logoKey: currencies/pdex.jpg
 name: Polkadex
-platform: ETH
-platform_contract: '0xF59ae934f6fe444afC309586cC60a84a0F89Aaea'

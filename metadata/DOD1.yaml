@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe7c8f3d8422c185fd49d9fcc0b72f1d5d8614a44'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOD1
 id_coinmarketcap: '15507'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15507.png
 name: Defender of Doge
-platform: BNB
-platform_contract: '0xe7c8f3d8422c185fd49d9fcc0b72f1d5d8614a44'

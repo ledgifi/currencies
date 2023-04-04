@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0484fbca58ad880f2232b9ef7bc1d23206236bbd'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIBAWITCH
 id_coinmarketcap: '13408'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13408.png
 name: SHIWBAWITCH TOKEN
-platform: BNB
-platform_contract: '0x0484fbca58ad880f2232b9ef7bc1d23206236bbd'

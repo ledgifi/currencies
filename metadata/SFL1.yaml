@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB24Ad186DC2064dab4E726679a969e71eACa74df'
+    platform: BNB
 crypto: true
 fiat: false
 id: SFL1
 id_coinmarketcap: '21821'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21821.png
 name: ScarFace Lion
-platform: BNB
-platform_contract: '0xB24Ad186DC2064dab4E726679a969e71eACa74df'

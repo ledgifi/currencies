@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1592271a485e7f12de1eccf2555cea7763f29cac'
+    platform: BNB
 crypto: true
 fiat: false
 id: BNBX1
 id_coinmarketcap: '10627'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10627.png
 name: BNBX Finance
-platform: BNB
-platform_contract: '0x1592271a485e7f12de1eccf2555cea7763f29cac'

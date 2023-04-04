@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x41adac6c1ff52c5e27568f27998d747f7b69795b'
+    platform: FTM
 crypto: true
 fiat: false
 id: SOLIDSEX
 id_coinmarketcap: '18403'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18403.png
 name: 'SOLIDsex: Tokenized veSOLID'
-platform: FTM
-platform_contract: '0x41adac6c1ff52c5e27568f27998d747f7b69795b'

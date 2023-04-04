@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcDcc04566236D0D8383B2A2B1Fc7C56d28D247eE'
+    platform: ETH
 crypto: true
 fiat: false
 id: CISLA
 id_coinmarketcap: '11953'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11953.png
 name: Crypto Island
-platform: ETH
-platform_contract: '0xcDcc04566236D0D8383B2A2B1Fc7C56d28D247eE'

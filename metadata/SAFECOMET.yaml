@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb667bbfe0dcedae1a53555a0e8b0a14eaf0d5231'
+    platform: BNB
 crypto: true
 fiat: false
 id: SAFECOMET
 id_coinmarketcap: '9568'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9568.png
 name: SafeComet
-platform: BNB
-platform_contract: '0xb667bbfe0dcedae1a53555a0e8b0a14eaf0d5231'

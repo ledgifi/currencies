@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x13c2b7f851e756415cf7d51d04dcf4f94a5b382e'
+    platform: ETH
 crypto: true
 fiat: false
 id: CTT4
 id_coinmarketcap: '4243'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4243.png
 name: CITEX Token
-platform: ETH
-platform_contract: '0x13c2b7f851e756415cf7d51d04dcf4f94a5b382e'

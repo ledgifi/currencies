@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x69bBC3F8787d573F1BBDd0a5f40C7bA0Aee9BCC9'
+    platform: ETH
 crypto: true
 fiat: false
 id: YUP1
 id_coinmarketcap: '7689'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7689.png
 name: Yup
-platform: ETH
-platform_contract: '0x69bBC3F8787d573F1BBDd0a5f40C7bA0Aee9BCC9'

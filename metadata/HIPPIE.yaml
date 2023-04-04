@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3b8c8472216240a5593fd2d6266f29e90e22f490'
+    platform: BNB
 crypto: true
 fiat: false
 id: HIPPIE
 id_coinmarketcap: '15011'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15011.png
 name: Hippie Inu
-platform: BNB
-platform_contract: '0x3b8c8472216240a5593fd2d6266f29e90e22f490'

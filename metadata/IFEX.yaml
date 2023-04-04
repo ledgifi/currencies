@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa891cf72aeda692570928efe1a832342e9783cdc'
+    platform: ETH
 crypto: true
 fiat: false
 id: IFEX
 id_coinmarketcap: '7949'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7949.png
 name: Interfinex
-platform: ETH
-platform_contract: '0xa891cf72aeda692570928efe1a832342e9783cdc'

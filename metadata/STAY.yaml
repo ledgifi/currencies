@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA5365f2E77bCe1cb2D42F5c808012C01b1548d3C'
+    platform: FTM
 crypto: true
 fiat: false
 id: STAY
 id_coinmarketcap: '20925'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20925.png
 name: StrategyX Finance
-platform: FTM
-platform_contract: '0xA5365f2E77bCe1cb2D42F5c808012C01b1548d3C'

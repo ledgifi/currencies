@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x4200000000000000000000000000000000000042'
+    platform: OP
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: OP4
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220601/369d7a6a-1afe-49e1-bc55-b903bdfc470e.png
 logoKey: currencies/op.png
 name: Optimism
-platform: OP
-platform_contract: '0x4200000000000000000000000000000000000042'

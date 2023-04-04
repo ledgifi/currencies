@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x738B9658f84b009F5Dd6ca2A5846422edFa7D562'
+    platform: BNB
 crypto: true
 fiat: false
 id: MARTIANDOGE
 id_coinmarketcap: '14180'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14180.png
 name: MartianDoge
-platform: BNB
-platform_contract: '0x738B9658f84b009F5Dd6ca2A5846422edFa7D562'

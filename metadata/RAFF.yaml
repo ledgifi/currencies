@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x683b98716c1bde0d7de9362ec304e7f81a6c68ab'
+    platform: BNB
 crypto: true
 fiat: false
 id: RAFF
 id_coinmarketcap: '9913'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9913.png
 name: Rafflection
-platform: BNB
-platform_contract: '0x683b98716c1bde0d7de9362ec304e7f81a6c68ab'

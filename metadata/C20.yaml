@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x26e75307fc0c021472feb8f727839531f112f317'
+    platform: ETH
 crypto: true
 fiat: false
 id: C20
@@ -7,5 +10,3 @@ id_nomics: C20
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/c20.png
 logoKey: currencies/c20.png
 name: CRYPTO20
-platform: ETH
-platform_contract: '0x26e75307fc0c021472feb8f727839531f112f317'

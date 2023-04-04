@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4aac94985cd83be30164dfe7e9af7c054d7d2121'
+    platform: METIS
 crypto: true
 fiat: false
 id: HUM1
 id_coinmarketcap: '19625'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19625.png
 name: Hummus
-platform: METIS
-platform_contract: '0x4aac94985cd83be30164dfe7e9af7c054d7d2121'

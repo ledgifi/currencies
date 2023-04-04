@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8263CD1601FE73C066bf49cc09841f35348e3be0'
+    platform: BNB
 crypto: true
 fiat: false
 id: ALU
 id_coinmarketcap: '9637'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9637.png
 name: Altura
-platform: BNB
-platform_contract: '0x8263CD1601FE73C066bf49cc09841f35348e3be0'

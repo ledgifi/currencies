@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb24cd494fae4c180a89975f1328eab2a7d5d8f11'
+    platform: ETH
 crypto: true
 fiat: false
 id: CODE
 id_coinmarketcap: '21522'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21522.png
 name: CODE
-platform: ETH
-platform_contract: '0xb24cd494fae4c180a89975f1328eab2a7d5d8f11'

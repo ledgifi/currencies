@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa46346bc9d110907b5ace36b53263320baf1cd21'
+    platform: BNB
 crypto: true
 fiat: false
 id: WOOL1
 id_coinmarketcap: '15244'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15244.png
 name: Wolf Game DAO(BSC)
-platform: BNB
-platform_contract: '0xa46346bc9d110907b5ace36b53263320baf1cd21'

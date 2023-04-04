@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xDe2A66C92583332E8e1F0AEEb03DEB749A3fD33a'
+    platform: BNB
 crypto: true
 fiat: false
 id: GOBLIN1
 id_coinmarketcap: '15957'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15957.png
 name: Goblin
-platform: BNB
-platform_contract: '0xDe2A66C92583332E8e1F0AEEb03DEB749A3fD33a'

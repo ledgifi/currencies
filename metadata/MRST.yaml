@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x411bc96881A62572FF33c9d8CE60dF99E3d96cd8'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MRST
 id_coinmarketcap: '12826'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12826.png
 name: Mars Token
-platform: MATIC
-platform_contract: '0x411bc96881A62572FF33c9d8CE60dF99E3d96cd8'

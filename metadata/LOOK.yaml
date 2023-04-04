@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x73cba57ad8bc775a5345d9a0de2e90c74621d802'
+    platform: BNB
 crypto: true
 fiat: false
 id: LOOK
 id_coinmarketcap: '20763'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20763.png
 name: LooksCoin
-platform: BNB
-platform_contract: '0x73cba57ad8bc775a5345d9a0de2e90c74621d802'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe921401d18ed1ea4d64169d1576c32f9a7439694'
+    platform: ETH
 crypto: true
 fiat: false
 id: BLUEMEL
 id_coinmarketcap: '15102'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15102.png
 name: Blumel
-platform: ETH
-platform_contract: '0xe921401d18ed1ea4d64169d1576c32f9a7439694'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x087b005B57C286886e4c6175822929ea42832719'
+    platform: BNB
 crypto: true
 fiat: false
 id: TGNB
 id_coinmarketcap: '16783'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16783.png
 name: Tiger Token
-platform: BNB
-platform_contract: '0x087b005B57C286886e4c6175822929ea42832719'

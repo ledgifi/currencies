@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0ecaf010fc192e2d5cbeb4dfb1fee20fbd733aa1'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPG
 id_coinmarketcap: '15529'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15529.png
 name: Space Crypto
-platform: BNB
-platform_contract: '0x0ecaf010fc192e2d5cbeb4dfb1fee20fbd733aa1'

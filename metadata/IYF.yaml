@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5d762f76b9e91f71cc4f94391bdfe6333db8519c'
+    platform: ETH
 crypto: true
 fiat: false
 id: IYF
 id_coinmarketcap: '7146'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7146.png
 name: IYF.finance
-platform: ETH
-platform_contract: '0x5d762f76b9e91f71cc4f94391bdfe6333db8519c'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x56d594d76b37be83c54abf8a4747d60ce58d32c2'
+    platform: BNB
 crypto: true
 fiat: false
 id: ELF1
 id_coinmarketcap: '22153'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22153.png
 name: ELF Wallet
-platform: BNB
-platform_contract: '0x56d594d76b37be83c54abf8a4747d60ce58d32c2'

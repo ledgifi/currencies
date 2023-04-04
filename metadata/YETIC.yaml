@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdf96bde075d59e9143b325c75af38e208c986e6f'
+    platform: ETH
 crypto: true
 fiat: false
 id: YETIC
 id_coinmarketcap: '14718'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14718.png
 name: YetiCoin
-platform: ETH
-platform_contract: '0xdf96bde075d59e9143b325c75af38e208c986e6f'

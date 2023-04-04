@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x304243A820D4A3718BECC89A3F33513586162CF0'
+    platform: ETH
 crypto: true
 fiat: false
 id: RTGN
 id_coinmarketcap: '19008'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19008.png
 name: Retrogression
-platform: ETH
-platform_contract: '0x304243A820D4A3718BECC89A3F33513586162CF0'

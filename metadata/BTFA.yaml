@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc631be100f6cf9a7012c23de5a6ccb990eafc133'
+    platform: ETH
 crypto: true
 fiat: false
 id: BTFA
 id_coinmarketcap: '19496'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19496.png
 name: Banana Task Force Ape
-platform: ETH
-platform_contract: '0xc631be100f6cf9a7012c23de5a6ccb990eafc133'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2e6a8306286600e564c16aa0b7a93fced09d586a'
+    platform: ETH
 crypto: true
 fiat: false
 id: WER1
 id_coinmarketcap: '22732'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22732.png
 name: Protectors of the Realm
-platform: ETH
-platform_contract: '0x2e6a8306286600e564c16aa0b7a93fced09d586a'

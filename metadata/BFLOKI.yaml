@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x308d6b4bded91f99b58bdaafcc1137fb4cfd4ab2'
+    platform: BNB
 crypto: true
 fiat: false
 id: BFLOKI
 id_coinmarketcap: '19745'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19745.png
 name: Burn Floki
-platform: BNB
-platform_contract: '0x308d6b4bded91f99b58bdaafcc1137fb4cfd4ab2'

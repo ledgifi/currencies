@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdbccd9131405dd1fe7320090af337952b9845dfa'
+    platform: BNB
 crypto: true
 fiat: false
 id: BOT1
 id_coinmarketcap: '16262'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16262.png
 name: Starbots
-platform: BNB
-platform_contract: '0xdbccd9131405dd1fe7320090af337952b9845dfa'

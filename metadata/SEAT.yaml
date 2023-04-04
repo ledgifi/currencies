@@ -1,8 +1,9 @@
+contracts:
+  - address: token.stlb.near
+    platform: NEAR
 crypto: true
 fiat: false
 id: SEAT
 id_coinmarketcap: '20157'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20157.png
 name: SeatlabNFT
-platform: NEAR
-platform_contract: token.stlb.near

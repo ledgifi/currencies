@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb5f1457d6fba1956fb8d31b0b7caca14bde0be4b'
+    platform: ETH
 crypto: true
 fiat: false
 id: STILT
 id_coinmarketcap: '18058'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18058.png
 name: Stilton
-platform: ETH
-platform_contract: '0xb5f1457d6fba1956fb8d31b0b7caca14bde0be4b'

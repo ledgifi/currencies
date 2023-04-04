@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x635d17047c08b2b6f68556be67952fa5afc0c1c2'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRUMP1
 id_coinmarketcap: '14813'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14813.png
 name: Trump Inu
-platform: ETH
-platform_contract: '0x635d17047c08b2b6f68556be67952fa5afc0c1c2'

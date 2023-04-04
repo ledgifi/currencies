@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1047104fdd07ed190d534082f3d1032365bd0251'
+    platform: BNB
 crypto: true
 fiat: false
 id: PIRATEBOY
 id_coinmarketcap: '14065'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14065.png
 name: Pirate Boy
-platform: BNB
-platform_contract: '0x1047104fdd07ed190d534082f3d1032365bd0251'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x00f2f4fda40a4bf1fc3769d156fa695532eec31e265d75068524462c0b80f674'
+    platform: XOR
 crypto: true
 fiat: false
 id: DEO
 id_coinmarketcap: '20324'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20324.png
 name: Demeter
-platform: XOR
-platform_contract: '0x00f2f4fda40a4bf1fc3769d156fa695532eec31e265d75068524462c0b80f674'

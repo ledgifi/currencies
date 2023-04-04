@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd36bb7849a8c50b509bae872f44d5c1c7dc0e96c'
+    platform: BNB
 crypto: true
 fiat: false
 id: CCASH1
 id_coinmarketcap: '18345'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18345.png
 name: Citizen Conflict
-platform: BNB
-platform_contract: '0xd36bb7849a8c50b509bae872f44d5c1c7dc0e96c'

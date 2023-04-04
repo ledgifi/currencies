@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x95e40e065afb3059dcabe4aaf404c1f92756603a'
+    platform: ETH
 crypto: true
 fiat: false
 id: KDAG
 id_coinmarketcap: '5626'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5626.png
 name: King DAG
-platform: ETH
-platform_contract: '0x95e40e065afb3059dcabe4aaf404c1f92756603a'

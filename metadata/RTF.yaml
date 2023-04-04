@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xeE3Fd930Ac87A2990D5B74E4b76fACf715f2a3A5'
+    platform: BNB
 crypto: true
 fiat: false
 id: RTF
 id_coinmarketcap: '10097'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10097.png
 name: Regiment Finance
-platform: BNB
-platform_contract: '0xeE3Fd930Ac87A2990D5B74E4b76fACf715f2a3A5'

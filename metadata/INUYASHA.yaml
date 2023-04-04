@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5bddbfdc228e1bbdb9ef5ca1dc56b54c4d6d6621'
+    platform: ETH
 crypto: true
 fiat: false
 id: INUYASHA
 id_coinmarketcap: '14177'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14177.png
 name: Inuyasha
-platform: ETH
-platform_contract: '0x5bddbfdc228e1bbdb9ef5ca1dc56b54c4d6d6621'

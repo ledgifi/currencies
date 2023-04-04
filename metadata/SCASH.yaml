@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb6ccFA7Ef3a295932536E0988CffD85228cB177c'
+    platform: HT
 crypto: true
 fiat: false
 id: sCASH
 id_coinmarketcap: '8933'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8933.png
 name: SuperNova cash
-platform: HT
-platform_contract: '0xb6ccFA7Ef3a295932536E0988CffD85228cB177c'

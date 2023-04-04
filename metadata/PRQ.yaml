@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x362bc847A3a9637d3af6624EeC853618a43ed7D2'
+    platform: ETH
 crypto: true
 fiat: false
 id: PRQ
@@ -7,5 +10,3 @@ id_nomics: PRQ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PRQ.jpg
 logoKey: currencies/prq.jpg
 name: PARSIQ
-platform: ETH
-platform_contract: '0x362bc847A3a9637d3af6624EeC853618a43ed7D2'

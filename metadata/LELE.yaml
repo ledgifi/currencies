@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1b6e4b5ad639efd5733f37f7af22fbe86718c5d8'
+    platform: ETH
 crypto: true
 fiat: false
 id: LELE
 id_coinmarketcap: '7781'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7781.png
 name: LeLeFoodChain
-platform: ETH
-platform_contract: '0x1b6e4b5ad639efd5733f37f7af22fbe86718c5d8'

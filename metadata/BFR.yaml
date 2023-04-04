@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1a5b0aaf478bf1fda7b934c76e7692d722982a6d'
+    platform: ARB
 crypto: true
 fiat: false
 id: BFR
 id_coinmarketcap: '12440'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12440.png
 name: Buffer Finance
-platform: ARB
-platform_contract: '0x1a5b0aaf478bf1fda7b934c76e7692d722982a6d'

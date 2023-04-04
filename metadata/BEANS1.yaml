@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x40be8529226de4507b19f5d88e52e511bef22e9a'
+    platform: BNB
 crypto: true
 fiat: false
 id: BEANS1
 id_coinmarketcap: '11648'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11648.png
 name: BNBeanstalk
-platform: BNB
-platform_contract: '0x40be8529226de4507b19f5d88e52e511bef22e9a'

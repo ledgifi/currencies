@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x728FC32c0d2F61FFe21B6a4A7dF987DeaE0e0888'
+    platform: BNB
 crypto: true
 fiat: false
 id: DK2
 id_coinmarketcap: '19332'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19332.png
 name: Dogs Kombat
-platform: BNB
-platform_contract: '0x728FC32c0d2F61FFe21B6a4A7dF987DeaE0e0888'

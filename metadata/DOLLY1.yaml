@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xDEABF75a905d14293aFE3E3D1322432b50A9C0F6'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOLLY1
 id_coinmarketcap: '18705'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18705.png
 name: Dollypad
-platform: BNB
-platform_contract: '0xDEABF75a905d14293aFE3E3D1322432b50A9C0F6'

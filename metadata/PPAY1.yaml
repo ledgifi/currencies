@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCD7287113496cFf7705792081D973B13a465E51e'
+    platform: BNB
 crypto: true
 fiat: false
 id: PPAY1
 id_coinmarketcap: '24017'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24017.png
 name: PioneerPay
-platform: BNB
-platform_contract: '0xCD7287113496cFf7705792081D973B13a465E51e'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7B5B3BC6890c1dE78FeDE739C1b02D2e51B1b58c'
+    platform: BNB
 crypto: true
 fiat: false
 id: REWARDS
 id_coinmarketcap: '11180'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11180.png
 name: Rewards Token
-platform: BNB
-platform_contract: '0x7B5B3BC6890c1dE78FeDE739C1b02D2e51B1b58c'

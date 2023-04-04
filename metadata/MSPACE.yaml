@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb8ced2c93584c4e228df25a88dcbe346df89525d'
+    platform: BNB
 crypto: true
 fiat: false
 id: MSPACE
 id_coinmarketcap: '16590'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16590.png
 name: MetaSpace
-platform: BNB
-platform_contract: '0xb8ced2c93584c4e228df25a88dcbe346df89525d'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd8c202fc83792D98FB94c1FA2FdaC5702A75dF1C'
+    platform: BNB
 crypto: true
 fiat: false
 id: FULLSEND
 id_coinmarketcap: '10022'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10022.png
 name: Full Send
-platform: BNB
-platform_contract: '0xd8c202fc83792D98FB94c1FA2FdaC5702A75dF1C'

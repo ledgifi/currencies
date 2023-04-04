@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x60d66a5152612f7d550796910d022cb2c77b09de'
+    platform: BNB
 crypto: true
 fiat: false
 id: USE
 id_coinmarketcap: '20821'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20821.png
 name: Useless (V3)
-platform: BNB
-platform_contract: '0x60d66a5152612f7d550796910d022cb2c77b09de'

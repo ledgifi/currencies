@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB10be3f4C7e1f870d86eD6Cfd412fED6615FeB6F'
+    platform: BNB
 crypto: true
 fiat: false
 id: PRI
 id_coinmarketcap: '9586'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9586.png
 name: PRIVATEUM GLOBAL
-platform: BNB
-platform_contract: '0xB10be3f4C7e1f870d86eD6Cfd412fED6615FeB6F'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3a5fccbdcc2684be588575f063acba78e09aad4a'
+    platform: BNB
 crypto: true
 fiat: false
 id: VDORA
 id_coinmarketcap: '17446'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17446.png
 name: VeldoraBSC
-platform: BNB
-platform_contract: '0x3a5fccbdcc2684be588575f063acba78e09aad4a'

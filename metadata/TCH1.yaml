@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9972a0f24194447e73a7e8b6cd26a52e02ddfad5'
+    platform: ETH
 crypto: true
 fiat: false
 id: TCH1
 id_coinmarketcap: '3056'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3056.png
 name: Thore Cash
-platform: ETH
-platform_contract: '0x9972a0f24194447e73a7e8b6cd26a52e02ddfad5'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9A8E0217cD870783c3f2317985C57Bf570969153'
+    platform: AVAX
 crypto: true
 fiat: false
 id: MAGIC3
 id_coinmarketcap: '13037'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13037.png
 name: Cosmic Universe Magic
-platform: AVAX
-platform_contract: '0x9A8E0217cD870783c3f2317985C57Bf570969153'

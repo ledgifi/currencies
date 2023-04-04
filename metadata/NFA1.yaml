@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6ae7e3bcb49a405061c6c5e18122aed853be26ba'
+    platform: BNB
 crypto: true
 fiat: false
 id: NFA1
 id_coinmarketcap: '14321'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14321.png
 name: NFTFundArt
-platform: BNB
-platform_contract: '0x6ae7e3bcb49a405061c6c5e18122aed853be26ba'

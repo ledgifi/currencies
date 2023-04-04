@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x66a0f676479cee1d7373f3dc2e2952778bff5bd6'
+    platform: ETH
 crypto: true
 fiat: false
 id: WISE1
 id_coinmarketcap: '8167'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8167.png
 name: Wise Token
-platform: ETH
-platform_contract: '0x66a0f676479cee1d7373f3dc2e2952778bff5bd6'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3a1bda28adb5b0a812a7cf10a1950c920f79bcd3'
+    platform: ETH
 crypto: true
 fiat: false
 id: FLP
 id_coinmarketcap: '2707'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2707.png
 name: FLIP
-platform: ETH
-platform_contract: '0x3a1bda28adb5b0a812a7cf10a1950c920f79bcd3'

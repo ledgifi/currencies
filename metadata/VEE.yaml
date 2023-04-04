@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x340d2bde5eb28c1eed91b2f790723e3b160613b7'
+    platform: ETH
 crypto: true
 fiat: false
 id: VEE
@@ -7,5 +10,3 @@ id_nomics: VEE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/vee.png
 logoKey: currencies/vee.png
 name: BLOCKv
-platform: ETH
-platform_contract: '0x340d2bde5eb28c1eed91b2f790723e3b160613b7'

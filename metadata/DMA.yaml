@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x16DFb898cf7029303c2376031392cb9baC450f94'
+    platform: MATIC
 crypto: true
 fiat: false
 id: DMA
 id_coinmarketcap: '20817'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20817.png
 name: Dragoma
-platform: MATIC
-platform_contract: '0x16DFb898cf7029303c2376031392cb9baC450f94'

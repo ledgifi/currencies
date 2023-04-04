@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcdfb8ddcf29a843590f5a8a212678ab38863167e'
+    platform: BNB
 crypto: true
 fiat: false
 id: FES
 id_coinmarketcap: '13599'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13599.png
 name: FeedEveryShiba
-platform: BNB
-platform_contract: '0xcdfb8ddcf29a843590f5a8a212678ab38863167e'

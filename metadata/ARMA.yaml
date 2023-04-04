@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe405b8148d731e4e1117e00542264dac5375bc97'
+    platform: BNB
 crypto: true
 fiat: false
 id: ARMA
 id_coinmarketcap: '20360'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20360.png
 name: Aarma
-platform: BNB
-platform_contract: '0xe405b8148d731e4e1117e00542264dac5375bc97'

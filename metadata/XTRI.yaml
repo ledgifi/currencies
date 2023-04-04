@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x802119e4e253d5c19aa06a5d567c5a41596d6803'
+    platform: AURORA
 crypto: true
 fiat: false
 id: XTRI
 id_coinmarketcap: '20084'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20084.png
 name: Tribar
-platform: AURORA
-platform_contract: '0x802119e4e253d5c19aa06a5d567c5a41596d6803'

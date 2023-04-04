@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5CA42204cDaa70d5c773946e69dE942b85CA6706'
+    platform: BNB
 crypto: true
 fiat: false
 id: POSI
 id_coinmarketcap: '11234'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11234.png
 name: Position Exchange
-platform: BNB
-platform_contract: '0x5CA42204cDaa70d5c773946e69dE942b85CA6706'

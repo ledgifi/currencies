@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdc4c9bfbb37c7cdeebc53c0ba5c7474fea5e106d'
+    platform: ETH
 crypto: true
 fiat: false
 id: FRANK
 id_coinmarketcap: '18953'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18953.png
 name: Frank Inu
-platform: ETH
-platform_contract: '0xdc4c9bfbb37c7cdeebc53c0ba5c7474fea5e106d'

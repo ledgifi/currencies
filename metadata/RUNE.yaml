@@ -1,3 +1,6 @@
+contracts:
+  - address: RUNE-B1A
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: RUNE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RUNE.png
 logoKey: currencies/rune.png
 name: THORChain
-platform: BNB
-platform_contract: RUNE-B1A

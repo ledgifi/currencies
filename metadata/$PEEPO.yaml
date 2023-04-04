@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xFD42e634c21f493534EEd85A5820d11B6b94cd94'
+    platform: BNB
 crypto: true
 fiat: false
 id: $PEEPO
 id_coinmarketcap: '10146'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10146.png
 name: PeepoCoin
-platform: BNB
-platform_contract: '0xFD42e634c21f493534EEd85A5820d11B6b94cd94'

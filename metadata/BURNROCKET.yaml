@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbe85da035c6256967b8ee9846cb35c73f7620b13'
+    platform: BNB
 crypto: true
 fiat: false
 id: BURNROCKET
 id_coinmarketcap: '15969'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15969.png
 name: BurnRocket
-platform: BNB
-platform_contract: '0xbe85da035c6256967b8ee9846cb35c73f7620b13'

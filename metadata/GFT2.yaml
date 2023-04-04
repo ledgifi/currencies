@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE77932B1216125848e82C3967e75698362168f99'
+    platform: BNB
 crypto: true
 fiat: false
 id: GFT2
 id_coinmarketcap: '20335'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20335.png
 name: Galaxy Finance
-platform: BNB
-platform_contract: '0xE77932B1216125848e82C3967e75698362168f99'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0834605689faae41708607a2761cd063775038e5'
+    platform: BNB
 crypto: true
 fiat: false
 id: RTT1
 id_coinmarketcap: '16188'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16188.png
 name: RebelTraderToken
-platform: BNB
-platform_contract: '0x0834605689faae41708607a2761cd063775038e5'

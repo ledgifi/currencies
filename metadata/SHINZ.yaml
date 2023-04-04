@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9b0f458121b79150cb26d22f638828228d0ffea0'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHINZ
 id_coinmarketcap: '18028'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18028.png
 name: ShinZen
-platform: ETH
-platform_contract: '0x9b0f458121b79150cb26d22f638828228d0ffea0'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x646b8470feA7c413DaC19F41b5c97328EBF70De4'
+    platform: BNB
 crypto: true
 fiat: false
 id: BTCN2
 id_coinmarketcap: '10471'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10471.png
 name: Bitcoin Networks
-platform: BNB
-platform_contract: '0x646b8470feA7c413DaC19F41b5c97328EBF70De4'

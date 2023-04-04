@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x14cfc7aeaa468e8c789785c39e0b753915aeb426'
+    platform: ETH
 crypto: true
 fiat: false
 id: $FDD
 id_coinmarketcap: '9113'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9113.png
 name: FrogDAO Dime
-platform: ETH
-platform_contract: '0x14cfc7aeaa468e8c789785c39e0b753915aeb426'

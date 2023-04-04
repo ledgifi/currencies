@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3B1308AD9d2590ca6A0bF3cA12a2D4Ee15DB07a4'
+    platform: BNB
 crypto: true
 fiat: false
 id: PRCH
 id_coinmarketcap: '16080'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16080.png
 name: Power Cash
-platform: BNB
-platform_contract: '0x3B1308AD9d2590ca6A0bF3cA12a2D4Ee15DB07a4'

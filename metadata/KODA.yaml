@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8094e772fa4a60bdeb1dfec56ab040e17dd608d5'
+    platform: BNB
 crypto: true
 fiat: false
 id: KODA
 id_coinmarketcap: '15138'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15138.png
 name: Koda Cryptocurrency
-platform: BNB
-platform_contract: '0x8094e772fa4a60bdeb1dfec56ab040e17dd608d5'

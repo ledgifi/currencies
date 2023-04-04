@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x05633822a3f6af31eada04e69124d1aef12012fb'
+    platform: BNB
 crypto: true
 fiat: false
 id: MDEX
 id_coinmarketcap: '15977'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15977.png
 name: MetaDex
-platform: BNB
-platform_contract: '0x05633822a3f6af31eada04e69124d1aef12012fb'

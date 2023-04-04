@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xea62791aa682d455614eaa2a12ba3d9a2fd197af'
+    platform: AURORA
 crypto: true
 fiat: false
 id: FLX1
 id_coinmarketcap: '15535'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15535.png
 name: Flux
-platform: AURORA
-platform_contract: '0xea62791aa682d455614eaa2a12ba3d9a2fd197af'

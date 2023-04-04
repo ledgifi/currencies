@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4c392822d4be8494b798cea17b43d48b2308109c'
+    platform: MATIC
 crypto: true
 fiat: false
 id: POLLY
 id_coinmarketcap: '12618'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12618.png
 name: Polly Finance
-platform: MATIC
-platform_contract: '0x4c392822d4be8494b798cea17b43d48b2308109c'

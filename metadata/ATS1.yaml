@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2dAEE1AA61D60A252DC80564499A69802853583A'
+    platform: ETH
 crypto: true
 fiat: false
 id: ATS1
 id_coinmarketcap: '2051'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2051.png
 name: Authorship
-platform: ETH
-platform_contract: '0x2dAEE1AA61D60A252DC80564499A69802853583A'

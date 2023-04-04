@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcbe5bca571628894a38836b0bae833ff012f71d8'
+    platform: BNB
 crypto: true
 fiat: false
 id: IRT
 id_coinmarketcap: '14820'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14820.png
 name: Infinity Rocket Token
-platform: BNB
-platform_contract: '0xcbe5bca571628894a38836b0bae833ff012f71d8'

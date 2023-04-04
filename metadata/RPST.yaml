@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4fb431848e8d36978c3ab89c5a2140f877fd155c'
+    platform: BNB
 crypto: true
 fiat: false
 id: RPST
 id_coinmarketcap: '13008'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13008.png
 name: ROCK PAPER SCISSORS TOKEN
-platform: BNB
-platform_contract: '0x4fb431848e8d36978c3ab89c5a2140f877fd155c'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5552E5a89A70cB2eF5AdBbC45a6BE442fE7160Ec'
+    platform: ETH
 crypto: true
 fiat: false
 id: KAWA
 id_coinmarketcap: '10640'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10640.png
 name: Kawakami
-platform: ETH
-platform_contract: '0x5552E5a89A70cB2eF5AdBbC45a6BE442fE7160Ec'

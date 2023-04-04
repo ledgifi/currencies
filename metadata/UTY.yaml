@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc6bf2a2a43ca360bb0ec6770f57f77cdde64bb3f'
+    platform: ETH
 crypto: true
 fiat: false
 id: UTY
 id_coinmarketcap: '7165'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7165.png
 name: UnityDAO
-platform: ETH
-platform_contract: '0xc6bf2a2a43ca360bb0ec6770f57f77cdde64bb3f'

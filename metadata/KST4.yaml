@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xC3589BA9272196190De7aE9175Cfe829945426D7'
+    platform: BNB
 crypto: true
 fiat: false
 id: KST4
 id_coinmarketcap: '22252'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22252.png
 name: Koinswap
-platform: BNB
-platform_contract: '0xC3589BA9272196190De7aE9175Cfe829945426D7'

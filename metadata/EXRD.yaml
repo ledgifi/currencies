@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6468e79A80C0eaB0F9A2B574c8d5bC374Af59414'
+    platform: ETH
 crypto: true
 fiat: false
 id: EXRD
 id_coinmarketcap: '7692'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7692.png
 name: e-Radix
-platform: ETH
-platform_contract: '0x6468e79A80C0eaB0F9A2B574c8d5bC374Af59414'

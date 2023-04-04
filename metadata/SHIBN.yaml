@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd346e8ada104093adcf5f4186087e1ad309bb3b3'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHIBN
 id_coinmarketcap: '23356'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23356.png
 name: Shibnaut
-platform: ETH
-platform_contract: '0xd346e8ada104093adcf5f4186087e1ad309bb3b3'

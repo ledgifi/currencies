@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x17ef75aa22dd5f6c2763b8304ab24f40ee54d48a'
+    platform: ETH
 crypto: true
 fiat: false
 id: RVP
 id_coinmarketcap: '9277'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9277.png
 name: Revolution Populi
-platform: ETH
-platform_contract: '0x17ef75aa22dd5f6c2763b8304ab24f40ee54d48a'

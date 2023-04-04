@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2F87Afe4bc8c989fa488cb3Fd6Fe6AC2976b0743'
+    platform: BNB
 crypto: true
 fiat: false
 id: BODO
 id_coinmarketcap: '12486'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12486.png
 name: BoozeDoge
-platform: BNB
-platform_contract: '0x2F87Afe4bc8c989fa488cb3Fd6Fe6AC2976b0743'

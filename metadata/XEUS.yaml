@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4e141769366634d9c4e498257fa7ec204d22b634'
+    platform: BNB
 crypto: true
 fiat: false
 id: XEUS
 id_coinmarketcap: '13976'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13976.png
 name: XEUS
-platform: BNB
-platform_contract: '0x4e141769366634d9c4e498257fa7ec204d22b634'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xFACE67C5CE2bb48c29779b0Dede5360cC9ef5fd5'
+    platform: BNB
 crypto: true
 fiat: false
 id: AFNTY
 id_coinmarketcap: '12344'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12344.png
 name: Affinity
-platform: BNB
-platform_contract: '0xFACE67C5CE2bb48c29779b0Dede5360cC9ef5fd5'

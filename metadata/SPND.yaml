@@ -1,8 +1,9 @@
+contracts:
+  - address: SPNDB-916
+    platform: BNB
 crypto: true
 fiat: false
 id: SPND
 id_coinmarketcap: '3307'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3307.png
 name: Spendcoin
-platform: BNB
-platform_contract: SPNDB-916

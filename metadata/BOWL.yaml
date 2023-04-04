@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x760Ea31711aC14cb9Ba81aC25453C6f378fA5794'
+    platform: ETH
 crypto: true
 fiat: false
 id: BOWL
 id_coinmarketcap: '23842'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23842.png
 name: BOWL SHIBARIUM
-platform: ETH
-platform_contract: '0x760Ea31711aC14cb9Ba81aC25453C6f378fA5794'

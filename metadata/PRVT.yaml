@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2578F9Dc1a9F3C4784BD6D9D69A1070607DC898c'
+    platform: BNB
 crypto: true
 fiat: false
 id: PRVT
 id_coinmarketcap: '23905'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23905.png
 name: PRVT data
-platform: BNB
-platform_contract: '0x2578F9Dc1a9F3C4784BD6D9D69A1070607DC898c'

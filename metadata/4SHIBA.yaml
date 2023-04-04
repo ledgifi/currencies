@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB04bf60E468743418E87291d7c9301a5299d984d'
+    platform: ETH
 crypto: true
 fiat: false
 id: 4SHIBA
 id_coinmarketcap: '23558'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23558.png
 name: FOREVER SHIBA
-platform: ETH
-platform_contract: '0xB04bf60E468743418E87291d7c9301a5299d984d'

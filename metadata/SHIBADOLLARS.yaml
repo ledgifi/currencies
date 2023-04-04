@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3780ab762d530614f72f94c7cf3396c488c0b57c'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIBADOLLARS
 id_coinmarketcap: '16838'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16838.png
 name: Shiba Dollars
-platform: BNB
-platform_contract: '0x3780ab762d530614f72f94c7cf3396c488c0b57c'

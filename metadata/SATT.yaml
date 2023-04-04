@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xDF49C9F599A0A9049D97CFF34D0C30E468987389'
+    platform: ETH
 crypto: true
 fiat: false
 id: SATT
 id_coinmarketcap: '7244'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7244.png
 name: SaTT
-platform: ETH
-platform_contract: '0xDF49C9F599A0A9049D97CFF34D0C30E468987389'

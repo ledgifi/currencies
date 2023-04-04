@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc339e0e0c6e94b45597c6ee7177ab09bcb39e286'
+    platform: BNB
 crypto: true
 fiat: false
 id: SQUIDBOUND
 id_coinmarketcap: '16046'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16046.png
 name: Hellbound Squid - The Game
-platform: BNB
-platform_contract: '0xc339e0e0c6e94b45597c6ee7177ab09bcb39e286'

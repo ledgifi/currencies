@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x950591B0f2E13453aBDF627b83D30A2Eb09C7Eaa'
+    platform: BNB
 crypto: true
 fiat: false
 id: JOCK
 id_coinmarketcap: '20831'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20831.png
 name: JOCK
-platform: BNB
-platform_contract: '0x950591B0f2E13453aBDF627b83D30A2Eb09C7Eaa'

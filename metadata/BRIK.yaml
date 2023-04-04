@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd10c82d129d7f7ec317648914590162be3287d3b'
+    platform: ETH
 crypto: true
 fiat: false
 id: BRIK
 id_coinmarketcap: '8672'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8672.png
 name: Brikcoin
-platform: ETH
-platform_contract: '0xd10c82d129d7f7ec317648914590162be3287d3b'

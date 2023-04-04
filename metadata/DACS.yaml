@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa31108e5bab5494560db34c95492658af239357c'
+    platform: ETH
 crypto: true
 fiat: false
 id: DACS
 id_coinmarketcap: '3054'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3054.png
 name: DACSEE
-platform: ETH
-platform_contract: '0xa31108e5bab5494560db34c95492658af239357c'

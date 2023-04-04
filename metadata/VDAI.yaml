@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x334b3ecb4dca3593bccc3c7ebd1a1c1d1780fbf1'
+    platform: BNB
 crypto: true
 fiat: false
 id: vDAI
 id_coinmarketcap: '8214'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8214.png
 name: Venus DAI
-platform: BNB
-platform_contract: '0x334b3ecb4dca3593bccc3c7ebd1a1c1d1780fbf1'

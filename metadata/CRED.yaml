@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd'
+    platform: ETH
 crypto: true
 fiat: false
 id: CRED
 id_coinmarketcap: '2271'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2271.png
 name: Verify
-platform: ETH
-platform_contract: '0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd'

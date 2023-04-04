@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3a880652f47bfaa771908c07dd8673a787daed3a'
+    platform: ETH
 crypto: true
 fiat: false
 id: DDX
 id_coinmarketcap: '7228'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7228.png
 name: DerivaDAO
-platform: ETH
-platform_contract: '0x3a880652f47bfaa771908c07dd8673a787daed3a'

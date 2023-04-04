@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2f418e6526452155581d329d43a2a196ecb6e40d'
+    platform: BNB
 crypto: true
 fiat: false
 id: BKN2
 id_coinmarketcap: '17915'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17915.png
 name: BattleKnight
-platform: BNB
-platform_contract: '0x2f418e6526452155581d329d43a2a196ecb6e40d'

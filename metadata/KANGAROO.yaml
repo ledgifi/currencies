@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x13C01a22cA44A5D54D6Da0Ff1656d96B4E98f655'
+    platform: BNB
 crypto: true
 fiat: false
 id: KANGAROO
 id_coinmarketcap: '19602'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19602.png
 name: BabyKangaroo
-platform: BNB
-platform_contract: '0x13C01a22cA44A5D54D6Da0Ff1656d96B4E98f655'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x51e91e3e1E87b923D087cc94ab6678854567c745'
+    platform: BNB
 crypto: true
 fiat: false
 id: CTRL2XY
 id_coinmarketcap: '23199'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23199.png
 name: Control2XY
-platform: BNB
-platform_contract: '0x51e91e3e1E87b923D087cc94ab6678854567c745'

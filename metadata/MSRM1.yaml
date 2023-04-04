@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1320c8c64b9f2eAa851F70702e6C9FC1EE4E8Ce4'
+    platform: ETH
 crypto: true
 fiat: false
 id: MSRM1
 id_coinmarketcap: '7088'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7088.png
 name: MegaSerum
-platform: ETH
-platform_contract: '0x1320c8c64b9f2eAa851F70702e6C9FC1EE4E8Ce4'

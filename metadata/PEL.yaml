@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa75e7928d3de682e3f44da60c26f33117c4e6c5c'
+    platform: BNB
 crypto: true
 fiat: false
 id: PEL
 id_coinmarketcap: '15790'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15790.png
 name: Propel
-platform: BNB
-platform_contract: '0xa75e7928d3de682e3f44da60c26f33117c4e6c5c'

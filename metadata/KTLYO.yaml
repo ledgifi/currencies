@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x24E3794605C84E580EEA4972738D633E8a7127c8'
+    platform: ETH
 crypto: true
 fiat: false
 id: KTLYO
 id_coinmarketcap: '7885'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7885.png
 name: Katalyo
-platform: ETH
-platform_contract: '0x24E3794605C84E580EEA4972738D633E8a7127c8'

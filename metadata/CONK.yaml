@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb715f8dce2f0e9b894c753711bd55ee3c04dca4e'
+    platform: FTM
 crypto: true
 fiat: false
 id: CONK
 id_coinmarketcap: '23542'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23542.png
 name: ShibaPoconk
-platform: FTM
-platform_contract: '0xb715f8dce2f0e9b894c753711bd55ee3c04dca4e'

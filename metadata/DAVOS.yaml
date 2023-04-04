@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xec38621e72d86775a89c7422746de1f52bba5320'
+    platform: MATIC
 crypto: true
 fiat: false
 id: DAVOS
 id_coinmarketcap: '23515'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23515.png
 name: DAVOS
-platform: MATIC
-platform_contract: '0xec38621e72d86775a89c7422746de1f52bba5320'

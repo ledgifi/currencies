@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd137561c20be8e870d62e2ae92269f0950702f77'
+    platform: ETH
 crypto: true
 fiat: false
 id: EXP3
 id_coinmarketcap: '18765'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18765.png
 name: Exp
-platform: ETH
-platform_contract: '0xd137561c20be8e870d62e2ae92269f0950702f77'

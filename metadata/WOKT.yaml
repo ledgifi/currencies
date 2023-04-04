@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15'
+    platform: OKT
 crypto: true
 fiat: false
 id: WOKT
 id_coinmarketcap: '11132'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11132.png
 name: Wrapped OKT
-platform: OKT
-platform_contract: '0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15'

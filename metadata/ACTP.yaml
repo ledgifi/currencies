@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7b2df125567815ac9b57da04b620f50bc93b320c'
+    platform: ETH
 crypto: true
 fiat: false
 id: ACTP
 id_coinmarketcap: '3342'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3342.png
 name: Archetypal Network
-platform: ETH
-platform_contract: '0x7b2df125567815ac9b57da04b620f50bc93b320c'

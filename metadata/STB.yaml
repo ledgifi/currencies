@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x25926e600725227b61e187ae4df6d3a0e06802a4'
+    platform: BNB
 crypto: true
 fiat: false
 id: STB
 id_coinmarketcap: '15075'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15075.png
 name: StormBringer
-platform: BNB
-platform_contract: '0x25926e600725227b61e187ae4df6d3a0e06802a4'

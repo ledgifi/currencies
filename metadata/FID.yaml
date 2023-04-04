@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9A4Eb698e5DE3D3Df0a68F681789072DE1E50222'
+    platform: MATIC
 crypto: true
 fiat: false
 id: FID
 id_coinmarketcap: '13265'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13265.png
 name: Fidira
-platform: MATIC
-platform_contract: '0x9A4Eb698e5DE3D3Df0a68F681789072DE1E50222'

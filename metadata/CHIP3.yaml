@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0E5c51cE714bd319A11BFb26BF0e13D8CEED1Ebe'
+    platform: BNB
 crypto: true
 fiat: false
 id: CHIP3
 id_coinmarketcap: '16877'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16877.png
 name: Chip
-platform: BNB
-platform_contract: '0x0E5c51cE714bd319A11BFb26BF0e13D8CEED1Ebe'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1f8a1efbf6247139fb9cbdb9d4dea34e3d18c20a'
+    platform: BNB
 crypto: true
 fiat: false
 id: FREN4
 id_coinmarketcap: '17495'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17495.png
 name: FrenCoin
-platform: BNB
-platform_contract: '0x1f8a1efbf6247139fb9cbdb9d4dea34e3d18c20a'

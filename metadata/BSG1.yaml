@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB34Ab2f65c6e4F764fFe740ab83F982021Faed6d'
+    platform: ETH
 crypto: true
 fiat: false
 id: BSG1
 id_coinmarketcap: '8261'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8261.png
 name: Basis Gold
-platform: ETH
-platform_contract: '0xB34Ab2f65c6e4F764fFe740ab83F982021Faed6d'

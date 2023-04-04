@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x192f72efd1009d90b0e6f82ff27a0a2389f803e5'
+    platform: KCS
 crypto: true
 fiat: false
 id: KWOOF
 id_coinmarketcap: '11286'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11286.png
 name: Shibance KCC
-platform: KCS
-platform_contract: '0x192f72efd1009d90b0e6f82ff27a0a2389f803e5'

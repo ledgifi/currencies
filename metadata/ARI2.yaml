@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbE9605A0bf1eF8A4235E2C1DA83Dd3AA7702C7CE'
+    platform: BNB
 crypto: true
 fiat: false
 id: ARI2
 id_coinmarketcap: '9565'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9565.png
 name: Arise Finance
-platform: BNB
-platform_contract: '0xbE9605A0bf1eF8A4235E2C1DA83Dd3AA7702C7CE'

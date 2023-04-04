@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xD13cfD3133239a3c73a9E535A5c4DadEE36b395c'
+    platform: ETH
 crypto: true
 fiat: false
 id: VAI1
 id_coinmarketcap: '8479'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8479.png
 name: VAIOT
-platform: ETH
-platform_contract: '0xD13cfD3133239a3c73a9E535A5c4DadEE36b395c'

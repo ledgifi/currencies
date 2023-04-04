@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x64609A845Ad463d07ee51e91a88D1461C3Dc3165'
+    platform: ETH
 crypto: true
 fiat: false
 id: RIDGE
 id_coinmarketcap: '14669'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14669.png
 name: Ridge
-platform: ETH
-platform_contract: '0x64609A845Ad463d07ee51e91a88D1461C3Dc3165'

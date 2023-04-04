@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0e58ed58e150dba5fd8e5d4a49f54c7e1e880124'
+    platform: ETH
 crypto: true
 fiat: false
 id: RELI
 id_coinmarketcap: '9095'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9095.png
 name: Relite Finance
-platform: ETH
-platform_contract: '0x0e58ed58e150dba5fd8e5d4a49f54c7e1e880124'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3f30cb320f5c04f8d04b97954aededa30c91df2d'
+    platform: BNB
 crypto: true
 fiat: false
 id: TPAD1
 id_coinmarketcap: '20104'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20104.png
 name: TANKPAD
-platform: BNB
-platform_contract: '0x3f30cb320f5c04f8d04b97954aededa30c91df2d'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2eed4682197834708c0ea8d11d683440bbe104d1'
+    platform: BNB
 crypto: true
 fiat: false
 id: NAFTY
 id_coinmarketcap: '10864'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10864.png
 name: NAFTY
-platform: BNB
-platform_contract: '0x2eed4682197834708c0ea8d11d683440bbe104d1'

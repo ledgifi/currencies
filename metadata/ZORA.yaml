@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xD8E3FB3b08eBA982F2754988d70D57eDc0055ae6'
+    platform: ETH
 crypto: true
 fiat: false
 id: ZORA
 id_coinmarketcap: '7826'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7826.png
 name: Zoracles
-platform: ETH
-platform_contract: '0xD8E3FB3b08eBA982F2754988d70D57eDc0055ae6'

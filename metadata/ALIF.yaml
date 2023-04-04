@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x967784950655b8e74a2d3d3503933f0015660074'
+    platform: BNB
 crypto: true
 fiat: false
 id: ALIF
 id_coinmarketcap: '23830'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23830.png
 name: ALIF COIN
-platform: BNB
-platform_contract: '0x967784950655b8e74a2d3d3503933f0015660074'

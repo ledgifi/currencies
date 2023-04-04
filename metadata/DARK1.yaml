@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5'
+    platform: CRO
 crypto: true
 fiat: false
 id: DARK1
 id_coinmarketcap: '17118'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17118.png
 name: DarkCrypto
-platform: CRO
-platform_contract: '0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x099626783842d35C221E5d01694C2B928eB3B0AD'
+    platform: HT
 crypto: true
 fiat: false
 id: DOG1
 id_coinmarketcap: '12078'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12078.png
 name: DogeSwap
-platform: HT
-platform_contract: '0x099626783842d35C221E5d01694C2B928eB3B0AD'

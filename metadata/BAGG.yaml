@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaAfdF54d530c6609BAbD3ecDf1D1b57702670caA'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BAGG
 id_coinmarketcap: '22043'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22043.png
 name: Battle Arena Games Guild
-platform: MATIC
-platform_contract: '0xaAfdF54d530c6609BAbD3ecDf1D1b57702670caA'

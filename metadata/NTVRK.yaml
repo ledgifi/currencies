@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xfc0d6cf33e38bce7ca7d89c0e292274031b7157a'
+    platform: ETH
 crypto: true
 fiat: false
 id: NTVRK
@@ -7,5 +10,3 @@ id_nomics: NTVRK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NTVRK.jpg
 logoKey: currencies/ntvrk.jpg
 name: Netvrk
-platform: ETH
-platform_contract: '0xfc0d6cf33e38bce7ca7d89c0e292274031b7157a'

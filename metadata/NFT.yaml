@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x198d14f2ad9ce69e76ea330b374de4957c3f850a'
+    platform: ETH
 crypto: true
 decimals: 6
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: NFT3
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210608/45857691-5ed8-4a98-9353-e795df38b9cd.png
 logoKey: currencies/nft.png
 name: APENFT
-platform: ETH
-platform_contract: '0x198d14f2ad9ce69e76ea330b374de4957c3f850a'

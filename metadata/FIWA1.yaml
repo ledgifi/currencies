@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6b562FE7b4998664e184810CF772Ea050180a5C4'
+    platform: BNB
 crypto: true
 fiat: false
 id: FIWA1
 id_coinmarketcap: '22231'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22231.png
 name: DeFiWall
-platform: BNB
-platform_contract: '0x6b562FE7b4998664e184810CF772Ea050180a5C4'

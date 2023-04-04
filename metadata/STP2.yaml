@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc5e86e01f8b63178ee2039bfe51a4f73dd10d402'
+    platform: ETH
 crypto: true
 fiat: false
 id: STP2
 id_coinmarketcap: '21978'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21978.png
 name: ShowTime Potocol
-platform: ETH
-platform_contract: '0xc5e86e01f8b63178ee2039bfe51a4f73dd10d402'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf78610D0a197842bF98ca45254897edd13c5D182'
+    platform: MATIC
 crypto: true
 fiat: false
 id: FCD
 id_coinmarketcap: '18994'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18994.png
 name: FreshCut Diamond
-platform: MATIC
-platform_contract: '0xf78610D0a197842bF98ca45254897edd13c5D182'

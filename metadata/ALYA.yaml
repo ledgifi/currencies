@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x49a9f9a2271d8c5da44c57e7102aca79c222f4a9'
+    platform: BNB
 crypto: true
 fiat: false
 id: ALYA
 id_coinmarketcap: '17315'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17315.png
 name: ALYATTES
-platform: BNB
-platform_contract: '0x49a9f9a2271d8c5da44c57e7102aca79c222f4a9'

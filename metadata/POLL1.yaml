@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x705EE96c1c160842C92c1aeCfCFfccc9C412e3D9'
+    platform: ETH
 crypto: true
 fiat: false
 id: POLL1
 id_coinmarketcap: '2089'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2089.png
 name: ClearPoll
-platform: ETH
-platform_contract: '0x705EE96c1c160842C92c1aeCfCFfccc9C412e3D9'

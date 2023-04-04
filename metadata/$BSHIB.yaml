@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1f625a09f8073bfb136a599d43b134960eb5251b'
+    platform: BNB
 crypto: true
 fiat: false
 id: $BSHIB
 id_coinmarketcap: '17838'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17838.png
 name: BLACK SHIBA
-platform: BNB
-platform_contract: '0x1f625a09f8073bfb136a599d43b134960eb5251b'

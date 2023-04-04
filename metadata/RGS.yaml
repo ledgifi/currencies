@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4c383bdcae52a6e1cb810c76c70d6f31a249ec9b'
+    platform: ETH
 crypto: true
 fiat: false
 id: RGS
 id_coinmarketcap: '3114'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3114.png
 name: RusGas
-platform: ETH
-platform_contract: '0x4c383bdcae52a6e1cb810c76c70d6f31a249ec9b'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbb556b0ee2cbd89ed95ddea881477723a3aa8f8b'
+    platform: ETH
 crypto: true
 fiat: false
 id: ALCA
 id_coinmarketcap: '23885'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23885.png
 name: AliceNet
-platform: ETH
-platform_contract: '0xbb556b0ee2cbd89ed95ddea881477723a3aa8f8b'

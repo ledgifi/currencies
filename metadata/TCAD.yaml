@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x00000100F2A2bd000715001920eB70D229700085'
+    platform: ETH
 crypto: true
 fiat: false
 id: TCAD
 id_coinmarketcap: '7339'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7339.png
 name: TrueCAD
-platform: ETH
-platform_contract: '0x00000100F2A2bd000715001920eB70D229700085'

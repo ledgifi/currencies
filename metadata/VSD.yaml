@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x35de3eccaccb02e627062b5d63aa941b137288fe'
+    platform: ETH
 crypto: true
 fiat: false
 id: VSD
 id_coinmarketcap: '8775'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8775.png
 name: Value Set Dollar
-platform: ETH
-platform_contract: '0x35de3eccaccb02e627062b5d63aa941b137288fe'

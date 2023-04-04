@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x695247C0Aebd3345EB2280ACc3C991eddf18d5Cc'
+    platform: BNB
 crypto: true
 fiat: false
 id: MWT
 id_coinmarketcap: '19031'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19031.png
 name: Mortal Wars
-platform: BNB
-platform_contract: '0x695247C0Aebd3345EB2280ACc3C991eddf18d5Cc'

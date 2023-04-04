@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x00A0De196A68Ec968792A831EC79E9736Ab24396'
+    platform: BNB
 crypto: true
 fiat: false
 id: EXC4
 id_coinmarketcap: '21368'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21368.png
 name: Excursion Token
-platform: BNB
-platform_contract: '0x00A0De196A68Ec968792A831EC79E9736Ab24396'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x9b765735C82BB00085e9DBF194F20E3Fa754258E'
+    platform: MATIC
 crypto: true
 fiat: false
 id: CARR
@@ -7,5 +10,3 @@ id_nomics: CARR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CARR.jpg
 logoKey: currencies/carr.jpg
 name: Carnomaly
-platform: MATIC
-platform_contract: '0x9b765735C82BB00085e9DBF194F20E3Fa754258E'

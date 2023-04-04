@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a'
+    platform: ETH
 crypto: true
 fiat: false
 id: BEPRO
@@ -7,5 +10,3 @@ id_nomics: BEPRO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BEPRO.png
 logoKey: currencies/bepro.png
 name: BetProtocol
-platform: ETH
-platform_contract: '0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a'

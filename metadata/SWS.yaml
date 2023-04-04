@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x716De634227c1831f78D1989C92C6495E279A084'
+    platform: BNB
 crypto: true
 fiat: false
 id: SWS
 id_coinmarketcap: '24051'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24051.png
 name: SwiftSwap
-platform: BNB
-platform_contract: '0x716De634227c1831f78D1989C92C6495E279A084'

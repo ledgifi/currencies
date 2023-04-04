@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x32C4ADB9cF57f972bc375129de91C897b4F364F1'
+    platform: ETH
 crypto: true
 fiat: false
 id: FLC
 id_coinmarketcap: '3727'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3727.png
 name: Flowchain
-platform: ETH
-platform_contract: '0x32C4ADB9cF57f972bc375129de91C897b4F364F1'

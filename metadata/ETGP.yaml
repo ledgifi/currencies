@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa96f31f1c187c28980176c3a27ba7069f48abde4'
+    platform: ETH
 crypto: true
 fiat: false
 id: ETGP
 id_coinmarketcap: '3810'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3810.png
 name: Ethereum Gold Project
-platform: ETH
-platform_contract: '0xa96f31f1c187c28980176c3a27ba7069f48abde4'

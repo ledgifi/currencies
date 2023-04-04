@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfcb0f2d2f83a32a847d8abb183b724c214cd7dd8'
+    platform: BNB
 crypto: true
 fiat: false
 id: POG
 id_coinmarketcap: '13745'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13745.png
 name: Polygonum Online
-platform: BNB
-platform_contract: '0xfcb0f2d2f83a32a847d8abb183b724c214cd7dd8'

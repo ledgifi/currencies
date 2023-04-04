@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xfca59cd816ab1ead66534d82bc21e7515ce441cf'
+    platform: ETH
 crypto: true
 fiat: false
 id: RARI
@@ -7,5 +10,3 @@ id_nomics: RARI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RARI.jpg
 logoKey: currencies/rari.jpg
 name: Rarible
-platform: ETH
-platform_contract: '0xfca59cd816ab1ead66534d82bc21e7515ce441cf'

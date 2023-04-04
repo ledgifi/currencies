@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x74159651a992952e2bf340d7628459aa4593fc05'
+    platform: ETH
 crypto: true
 fiat: false
 id: TEN2
 id_coinmarketcap: '8193'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8193.png
 name: Tenet
-platform: ETH
-platform_contract: '0x74159651a992952e2bf340d7628459aa4593fc05'

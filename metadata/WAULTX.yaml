@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb64e638e60d154b43f660a6bf8fd8a3b249a6a21'
+    platform: BNB
 crypto: true
 fiat: false
 id: WAULTX
 id_coinmarketcap: '9478'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9478.png
 name: Wault [New]
-platform: BNB
-platform_contract: '0xb64e638e60d154b43f660a6bf8fd8a3b249a6a21'

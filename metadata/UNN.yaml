@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x226f7b842e0f0120b7e194d05432b3fd14773a9d'
+    platform: ETH
 crypto: true
 fiat: false
 id: UNN
 id_coinmarketcap: '8056'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8056.png
 name: UNION Protocol Governance Token
-platform: ETH
-platform_contract: '0x226f7b842e0f0120b7e194d05432b3fd14773a9d'

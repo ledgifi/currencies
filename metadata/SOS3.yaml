@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb2d2af6da7a68d66c77a9460b208109cffdfa633'
+    platform: BNB
 crypto: true
 fiat: false
 id: SOS3
 id_coinmarketcap: '15958'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15958.png
 name: SonOfSaitama
-platform: BNB
-platform_contract: '0xb2d2af6da7a68d66c77a9460b208109cffdfa633'

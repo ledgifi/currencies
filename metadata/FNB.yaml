@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x47b28f365bf4cb38db4b6356864bde7bc4b35129'
+    platform: ETH
 crypto: true
 fiat: false
 id: FNB
 id_coinmarketcap: '3858'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3858.png
 name: FNB Protocol
-platform: ETH
-platform_contract: '0x47b28f365bf4cb38db4b6356864bde7bc4b35129'

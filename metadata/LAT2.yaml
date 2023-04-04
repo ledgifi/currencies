@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfdce4b11d6ddc902244726b93e71e2874c7b6af0'
+    platform: BNB
 crypto: true
 fiat: false
 id: LAT2
 id_coinmarketcap: '14845'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14845.png
 name: Liquidity Accelerator Token
-platform: BNB
-platform_contract: '0xfdce4b11d6ddc902244726b93e71e2874c7b6af0'

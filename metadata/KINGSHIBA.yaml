@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x22918b2b01b1809d95cac26b3861de9dd5ee7806'
+    platform: BNB
 crypto: true
 fiat: false
 id: KINGSHIBA
 id_coinmarketcap: '14175'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14175.png
 name: King of Shiba
-platform: BNB
-platform_contract: '0x22918b2b01b1809d95cac26b3861de9dd5ee7806'

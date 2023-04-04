@@ -1,4 +1,7 @@
 color: '#ffe600'
+contracts:
+  - address: '0x4CF488387F035FF08c371515562CBa712f9015d4'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: WPR
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/wpr.svg
 logoKey: currencies/wpr.svg
 name: WePower
-platform: ETH
-platform_contract: '0x4CF488387F035FF08c371515562CBa712f9015d4'

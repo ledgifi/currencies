@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x888888877A18532b78d259577d00057054C50Dd8'
+    platform: ETH
 crypto: true
 fiat: false
 id: U8D
 id_coinmarketcap: '8361'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8361.png
 name: Universal Dollar
-platform: ETH
-platform_contract: '0x888888877A18532b78d259577d00057054C50Dd8'

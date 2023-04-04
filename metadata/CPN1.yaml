@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7a0a919ce01ec575af912e5e5da93308a5ad3312'
+    platform: BNB
 crypto: true
 fiat: false
 id: CPN1
 id_coinmarketcap: '11825'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11825.png
 name: Crypto Cabinet
-platform: BNB
-platform_contract: '0x7a0a919ce01ec575af912e5e5da93308a5ad3312'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x721A1B990699eE9D90b6327FaaD0A3E840aE8335'
+    platform: ETH
 crypto: true
 fiat: false
 id: LOOT
 id_coinmarketcap: '17623'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17623.png
 name: Lootex
-platform: ETH
-platform_contract: '0x721A1B990699eE9D90b6327FaaD0A3E840aE8335'

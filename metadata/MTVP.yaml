@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x64d2906391a82721bb24925fc16a3eff20c8756e'
+    platform: BNB
 crypto: true
 fiat: false
 id: MTVP
 id_coinmarketcap: '16027'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16027.png
 name: MultiversePad
-platform: BNB
-platform_contract: '0x64d2906391a82721bb24925fc16a3eff20c8756e'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x239ec95667e37929d33066a8df8ddc9444dbcbca'
+    platform: BNB
 crypto: true
 fiat: false
 id: DFI1
 id_coinmarketcap: '12773'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12773.png
 name: DfiStarter
-platform: BNB
-platform_contract: '0x239ec95667e37929d33066a8df8ddc9444dbcbca'

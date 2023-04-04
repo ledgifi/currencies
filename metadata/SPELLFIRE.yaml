@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x3a0b022f32b3191d44e5847da12dc0b63fb07c91'
+    platform: ETH
 crypto: true
 fiat: false
 id: SPELLFIRE
@@ -5,5 +8,3 @@ id_coinmarketcap: '17316'
 id_nomics: SPELLFIRE
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17316.png
 name: Spellfire
-platform: ETH
-platform_contract: '0x3a0b022f32b3191d44e5847da12dc0b63fb07c91'

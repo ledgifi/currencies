@@ -1,8 +1,9 @@
+contracts:
+  - address: YAS-eos-yastokencode
+    platform: EOS
 crypto: true
 fiat: false
 id: YAS
 id_coinmarketcap: '6246'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6246.png
 name: YAS
-platform: EOS
-platform_contract: YAS-eos-yastokencode

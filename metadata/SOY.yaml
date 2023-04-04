@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcC67D978Ddf07971D9050d2b424f36f6C1a15893'
+    platform: ETC
 crypto: true
 fiat: false
 id: SOY
 id_coinmarketcap: '19879'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19879.png
 name: Soy Finance
-platform: ETC
-platform_contract: '0xcC67D978Ddf07971D9050d2b424f36f6C1a15893'

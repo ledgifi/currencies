@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2ab6ed0eef712006082c9cf583a6d12676d8f4cb'
+    platform: BNB
 crypto: true
 fiat: false
 id: BABYHARMONY
 id_coinmarketcap: '12817'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12817.png
 name: BabyHarmony
-platform: BNB
-platform_contract: '0x2ab6ed0eef712006082c9cf583a6d12676d8f4cb'

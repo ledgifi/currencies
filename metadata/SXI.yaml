@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa327179d47fad68d09e4501a838daaaf74fabb7c'
+    platform: BNB
 crypto: true
 fiat: false
 id: SXI
 id_coinmarketcap: '9624'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9624.png
 name: SafeXI
-platform: BNB
-platform_contract: '0xa327179d47fad68d09e4501a838daaaf74fabb7c'

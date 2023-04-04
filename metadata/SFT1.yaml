@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCb73918ac58D0c90d71c7992637c61094c15305b'
+    platform: BNB
 crypto: true
 fiat: false
 id: SFT1
 id_coinmarketcap: '19914'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19914.png
 name: Scorefam
-platform: BNB
-platform_contract: '0xCb73918ac58D0c90d71c7992637c61094c15305b'

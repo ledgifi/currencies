@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xda8b3F41D15cE21600616890F75A790DeaEAe6Cf'
+    platform: ETH
 crypto: true
 fiat: false
 id: TAO1
 id_coinmarketcap: '20203'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20203.png
 name: Fusotao Protocol
-platform: ETH
-platform_contract: '0xda8b3F41D15cE21600616890F75A790DeaEAe6Cf'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd9fC762E2D1899aAD7233De46FF9A36D034c4FFB'
+    platform: BNB
 crypto: true
 fiat: false
 id: MTWR
 id_coinmarketcap: '21954'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21954.png
 name: MetaWar Token
-platform: BNB
-platform_contract: '0xd9fC762E2D1899aAD7233De46FF9A36D034c4FFB'

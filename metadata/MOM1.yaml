@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc9865d1f303215a8d68c47c1effd3bf8e6d5abd8'
+    platform: ETH
 crypto: true
 fiat: false
 id: MOM1
 id_coinmarketcap: '16146'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16146.png
 name: Mongoose Moon
-platform: ETH
-platform_contract: '0xc9865d1f303215a8d68c47c1effd3bf8e6d5abd8'

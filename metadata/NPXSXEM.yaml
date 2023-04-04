@@ -1,8 +1,9 @@
+contracts:
+  - address: NPXSXEM-89C
+    platform: BNB
 crypto: true
 fiat: false
 id: NPXSXEM
 id_coinmarketcap: '3096'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3096.png
 name: Pundi X NEM
-platform: BNB
-platform_contract: NPXSXEM-89C

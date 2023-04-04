@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb7E11002228D599F2a64b0C44D2299C9c644ff26'
+    platform: ETH
 crypto: true
 fiat: false
 id: sCOMP
 id_coinmarketcap: '11101'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11101.png
 name: Strike Compound
-platform: ETH
-platform_contract: '0xb7E11002228D599F2a64b0C44D2299C9c644ff26'

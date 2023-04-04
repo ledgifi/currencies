@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x536627083e216c3cf4476ec504eb51bbd47ca4ac'
+    platform: BNB
 crypto: true
 fiat: false
 id: GAMINGDOGE
@@ -7,5 +10,3 @@ id_nomics: GAMINGDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GAMINGDOGE.jpg
 logoKey: currencies/gamingdoge.jpg
 name: Gaming Doge
-platform: BNB
-platform_contract: '0x536627083e216c3cf4476ec504eb51bbd47ca4ac'

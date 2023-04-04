@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x90a8bbf934fde975555632addcb258e895c69de1'
+    platform: BNB
 crypto: true
 fiat: false
 id: TYV
 id_coinmarketcap: '22152'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22152.png
 name: TYV Coin
-platform: BNB
-platform_contract: '0x90a8bbf934fde975555632addcb258e895c69de1'

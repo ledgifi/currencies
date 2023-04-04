@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x42c41dabf7962be4f510d54aa9eb0d2240634842'
+    platform: ETH
 crypto: true
 fiat: false
 id: LEEK
 id_coinmarketcap: '2328'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2328.png
 name: Leek Coin
-platform: ETH
-platform_contract: '0x42c41dabf7962be4f510d54aa9eb0d2240634842'

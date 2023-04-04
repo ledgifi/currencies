@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7dbdd9dafdc4c1c03d67925a4f85daa398af32b0'
+    platform: ETH
 crypto: true
 fiat: false
 id: ANW
 id_coinmarketcap: '6120'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6120.png
 name: Anchor Neural World
-platform: ETH
-platform_contract: '0x7dbdd9dafdc4c1c03d67925a4f85daa398af32b0'

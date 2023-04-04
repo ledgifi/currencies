@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9214ec02cb71cba0ada6896b8da260736a67ab10'
+    platform: ETH
 crypto: true
 fiat: false
 id: REAL3
 id_coinmarketcap: '2030'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2030.png
 name: REAL
-platform: ETH
-platform_contract: '0x9214ec02cb71cba0ada6896b8da260736a67ab10'

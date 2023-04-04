@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4599836c212CD988EAccc54C820Ee9261cdaAC71'
+    platform: ETH
 crypto: true
 fiat: false
 id: CID1
 id_coinmarketcap: '6402'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6402.png
 name: Cryptid
-platform: ETH
-platform_contract: '0x4599836c212CD988EAccc54C820Ee9261cdaAC71'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE9E73E1aE76D17A16cC53E3e87a9a7dA78834d37'
+    platform: ETH
 crypto: true
 fiat: false
 id: CAMP
 id_coinmarketcap: '7475'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7475.png
 name: Camp
-platform: ETH
-platform_contract: '0xE9E73E1aE76D17A16cC53E3e87a9a7dA78834d37'

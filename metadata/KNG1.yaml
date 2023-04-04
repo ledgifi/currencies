@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x471d113059324321749e097705197a2b44a070fc'
+    platform: ETH
 crypto: true
 fiat: false
 id: KNG1
 id_coinmarketcap: '15518'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15518.png
 name: Kanga Exchange Token
-platform: ETH
-platform_contract: '0x471d113059324321749e097705197a2b44a070fc'

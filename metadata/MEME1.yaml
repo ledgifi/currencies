@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd5525d397898e5502075ea5e830d8914f6f0affe'
+    platform: ETH
 crypto: true
 fiat: false
 id: MEME1
 id_coinmarketcap: '6597'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6597.png
 name: Degenerator Meme
-platform: ETH
-platform_contract: '0xd5525d397898e5502075ea5e830d8914f6f0affe'

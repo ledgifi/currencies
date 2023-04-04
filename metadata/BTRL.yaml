@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x388fd8a5145d6ef85aae14d494f93df9d1c7c00c'
+    platform: ETH
 crypto: true
 fiat: false
 id: BTRL
 id_coinmarketcap: '4174'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4174.png
 name: BitcoinRegular
-platform: ETH
-platform_contract: '0x388fd8a5145d6ef85aae14d494f93df9d1c7c00c'

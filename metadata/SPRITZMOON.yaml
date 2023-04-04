@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6fC39AC154cfd20F1951A2823Abab7ec471B783a'
+    platform: BNB
 crypto: true
 fiat: false
 id: spritzmoon
 id_coinmarketcap: '14421'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14421.png
 name: SpritzMoon Crypto Token
-platform: BNB
-platform_contract: '0x6fC39AC154cfd20F1951A2823Abab7ec471B783a'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0dc78c79b4eb080ead5c1d16559225a46b580694'
+    platform: ONE
 crypto: true
 fiat: false
 id: WAGMI
 id_coinmarketcap: '14153'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14153.png
 name: Euphoria
-platform: ONE
-platform_contract: '0x0dc78c79b4eb080ead5c1d16559225a46b580694'

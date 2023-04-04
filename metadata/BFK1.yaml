@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xad982b80c16816252a1c0cb0f66f0fac91a0d7aa'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BFK1
 id_coinmarketcap: '12222'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12222.png
 name: Baby Fort Knox
-platform: MATIC
-platform_contract: '0xad982b80c16816252a1c0cb0f66f0fac91a0d7aa'

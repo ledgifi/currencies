@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdc386452f9ffda7f0d2940e5c60dc0f9469b1097'
+    platform: ETH
 crypto: true
 fiat: false
 id: XKAWA
 id_coinmarketcap: '13015'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13015.png
 name: Kawakami
-platform: ETH
-platform_contract: '0xdc386452f9ffda7f0d2940e5c60dc0f9469b1097'

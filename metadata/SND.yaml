@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf333b2ace992ac2bbd8798bf57bc65a06184afba'
+    platform: ETH
 crypto: true
 fiat: false
 id: SND
 id_coinmarketcap: '2028'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2028.png
 name: Sand Coin
-platform: ETH
-platform_contract: '0xf333b2ace992ac2bbd8798bf57bc65a06184afba'

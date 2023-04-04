@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9a1997c130f4b2997166975d9aff92797d5134c2'
+    platform: ETH
 crypto: true
 fiat: false
 id: USDAP
 id_coinmarketcap: '11653'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11653.png
 name: Bond Appetite USD
-platform: ETH
-platform_contract: '0x9a1997c130f4b2997166975d9aff92797d5134c2'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x54e4622dc504176b3bb432dccaf504569699a7ff'
+    platform: OKT
 crypto: true
 fiat: false
 id: BTCK
 id_coinmarketcap: '11134'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11134.png
 name: OEC BTC
-platform: OKT
-platform_contract: '0x54e4622dc504176b3bb432dccaf504569699a7ff'

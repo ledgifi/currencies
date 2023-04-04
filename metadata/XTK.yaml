@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7f3edcdd180dbe4819bd98fee8929b5cedb3adeb'
+    platform: ETH
 crypto: true
 fiat: false
 id: XTK
 id_coinmarketcap: '8599'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8599.png
 name: xToken
-platform: ETH
-platform_contract: '0x7f3edcdd180dbe4819bd98fee8929b5cedb3adeb'

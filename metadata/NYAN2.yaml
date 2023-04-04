@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x45b07DF4FE00202dd31F2D95f6C06f3A029625D5'
+    platform: BNB
 crypto: true
 fiat: false
 id: NYAN2
 id_coinmarketcap: '8473'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8473.png
 name: YieldNyan
-platform: BNB
-platform_contract: '0x45b07DF4FE00202dd31F2D95f6C06f3A029625D5'

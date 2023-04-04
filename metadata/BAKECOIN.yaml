@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x32ed23b9d263138695168850ac04609f6e5e0ab4'
+    platform: BNB
 crypto: true
 fiat: false
 id: BAKECOIN
 id_coinmarketcap: '11837'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11837.png
 name: Bake Coin
-platform: BNB
-platform_contract: '0x32ed23b9d263138695168850ac04609f6e5e0ab4'

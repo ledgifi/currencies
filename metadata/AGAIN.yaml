@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc01a327e30b0fbf32861333f238b5c36a60abc09'
+    platform: ETH
 crypto: true
 fiat: false
 id: AGAIN
 id_coinmarketcap: '15838'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15838.png
 name: Again Project
-platform: ETH
-platform_contract: '0xc01a327e30b0fbf32861333f238b5c36a60abc09'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x93ad9b819C88D98B4c9641470A96E24769Ae7922'
+    platform: ETH
 crypto: true
 fiat: false
 id: KRX
 id_coinmarketcap: '15619'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15619.png
 name: KRYZA Exchange
-platform: ETH
-platform_contract: '0x93ad9b819C88D98B4c9641470A96E24769Ae7922'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xBF54EfdfF72Cdd3dE7b219bB8B41332A6cC96C9e'
+    platform: ETH
 crypto: true
 fiat: false
 id: MYNFT
 id_coinmarketcap: '17185'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17185.png
 name: LaunchMyNFT
-platform: ETH
-platform_contract: '0xBF54EfdfF72Cdd3dE7b219bB8B41332A6cC96C9e'

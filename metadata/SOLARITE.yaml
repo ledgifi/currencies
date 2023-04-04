@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x930ed81ad809603baf727117385d01f04354612e'
+    platform: ETH
 crypto: true
 fiat: false
 id: SOLARITE
 id_coinmarketcap: '6996'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6996.png
 name: Solarite
-platform: ETH
-platform_contract: '0x930ed81ad809603baf727117385d01f04354612e'

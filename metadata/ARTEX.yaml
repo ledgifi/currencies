@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8Af33e39214c3CE3c367ccc923Ee74b49CD4bC05'
+    platform: BNB
 crypto: true
 fiat: false
 id: ARTEX
 id_coinmarketcap: '11029'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11029.png
 name: Artex
-platform: BNB
-platform_contract: '0x8Af33e39214c3CE3c367ccc923Ee74b49CD4bC05'

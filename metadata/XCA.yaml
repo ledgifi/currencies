@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xBd20F9B0DbeED33FC4436F0aE7a34eedEFdA2878'
+    platform: BNB
 crypto: true
 fiat: false
 id: XCA
 id_coinmarketcap: '21170'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21170.png
 name: Xcavator
-platform: BNB
-platform_contract: '0xBd20F9B0DbeED33FC4436F0aE7a34eedEFdA2878'

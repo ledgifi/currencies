@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc861534efeb8a1c5daf31f1c13c440a7f86984f1'
+    platform: BNB
 crypto: true
 fiat: false
 id: FIDLE
 id_coinmarketcap: '20773'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20773.png
 name: Fidlecoin
-platform: BNB
-platform_contract: '0xc861534efeb8a1c5daf31f1c13c440a7f86984f1'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5d56962db8e35197f8e50d76f1f9285a6d7d7619'
+    platform: ETH
 crypto: true
 fiat: false
 id: DAVP
 id_coinmarketcap: '4999'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4999.png
 name: Davion
-platform: ETH
-platform_contract: '0x5d56962db8e35197f8e50d76f1f9285a6d7d7619'

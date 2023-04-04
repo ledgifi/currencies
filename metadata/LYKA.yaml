@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xce815a6E72d8FF40780f27c74ac40a6d96037a64'
+    platform: BNB
 crypto: true
 fiat: false
 id: LYKA
 id_coinmarketcap: '20088'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20088.png
 name: ClashingBlades
-platform: BNB
-platform_contract: '0xce815a6E72d8FF40780f27c74ac40a6d96037a64'

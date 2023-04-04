@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x70E67ec0939ec87c3a77b089CA08E0443ea4a177'
+    platform: ETH
 crypto: true
 fiat: false
 id: ICC1
 id_coinmarketcap: '20737'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20737.png
 name: ICC
-platform: ETH
-platform_contract: '0x70E67ec0939ec87c3a77b089CA08E0443ea4a177'

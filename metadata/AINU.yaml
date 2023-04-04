@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2db0d5cb907014c67dc201886624716fb5c71123'
+    platform: BNB
 crypto: true
 fiat: false
 id: AINU
 id_coinmarketcap: '10877'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10877.png
 name: Ainu Token
-platform: BNB
-platform_contract: '0x2db0d5cb907014c67dc201886624716fb5c71123'

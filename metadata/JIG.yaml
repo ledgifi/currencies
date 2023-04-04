@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1a122941ff2ef376f065e0404a0a9cecbfe94551'
+    platform: BNB
 crypto: true
 fiat: false
 id: JIG
 id_coinmarketcap: '16068'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16068.png
 name: Jigen
-platform: BNB
-platform_contract: '0x1a122941ff2ef376f065e0404a0a9cecbfe94551'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa24e87efb0a6599c18f3710db47f724acef5254b'
+    platform: BNB
 crypto: true
 fiat: false
 id: GAIN1
 id_coinmarketcap: '11833'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11833.png
 name: Gain Protocol
-platform: BNB
-platform_contract: '0xa24e87efb0a6599c18f3710db47f724acef5254b'

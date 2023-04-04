@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7c84e62859d0715eb77d1b1c4154ecd6abb21bec'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHPING
 id_coinmarketcap: '3422'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3422.png
 name: SHPING
-platform: ETH
-platform_contract: '0x7c84e62859d0715eb77d1b1c4154ecd6abb21bec'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x09843b9137fc5935b7f3832152f9074db5d2d1ee'
+    platform: ETH
 crypto: true
 fiat: false
 id: YFI3
 id_coinmarketcap: '7794'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7794.png
 name: YFI3.money
-platform: ETH
-platform_contract: '0x09843b9137fc5935b7f3832152f9074db5d2d1ee'

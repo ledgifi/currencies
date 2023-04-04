@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x832904863978b94802123106e6eb491bdf0df928'
+    platform: ETH
 crypto: true
 fiat: false
 id: OPTI1
 id_coinmarketcap: '3101'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3101.png
 name: OptiToken
-platform: ETH
-platform_contract: '0x832904863978b94802123106e6eb491bdf0df928'

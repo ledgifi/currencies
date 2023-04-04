@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3f6b3595ecf70735d3f48d69b09c4e4506db3f47'
+    platform: MATIC
 crypto: true
 fiat: false
 id: GAMER
 id_coinmarketcap: '13449'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13449.png
 name: GameStation
-platform: MATIC
-platform_contract: '0x3f6b3595ecf70735d3f48d69b09c4e4506db3f47'

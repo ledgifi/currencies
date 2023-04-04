@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd7394087e1dbbe477fe4f1cf373b9ac9459565ff'
+    platform: ETH
 crypto: true
 fiat: false
 id: RET
 id_coinmarketcap: '3280'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3280.png
 name: RealTract
-platform: ETH
-platform_contract: '0xd7394087e1dbbe477fe4f1cf373b9ac9459565ff'

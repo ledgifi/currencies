@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd54ADD3414f57c47Cd8103cC588B7c1e36e53eB2'
+    platform: BNB
 crypto: true
 fiat: false
 id: UNIC2
 id_coinmarketcap: '14034'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14034.png
 name: UNICORN CAKE
-platform: BNB
-platform_contract: '0xd54ADD3414f57c47Cd8103cC588B7c1e36e53eB2'

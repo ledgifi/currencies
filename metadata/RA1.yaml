@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcc238200cFfdA7A5E2810086c26d5334e64F1155'
+    platform: BNB
 crypto: true
 fiat: false
 id: RA1
 id_coinmarketcap: '15358'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15358.png
 name: RaDAO
-platform: BNB
-platform_contract: '0xcc238200cFfdA7A5E2810086c26d5334e64F1155'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xadb005659b1b99cbecc8b706750938cad941290d'
+    platform: BNB
 crypto: true
 fiat: false
 id: PSN
 id_coinmarketcap: '12579'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12579.png
 name: Polkasocial Network
-platform: BNB
-platform_contract: '0xadb005659b1b99cbecc8b706750938cad941290d'

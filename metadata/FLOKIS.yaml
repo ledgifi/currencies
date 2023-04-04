@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2fb09b8749a3a13eefa3fd4e643fc44dbdba5b39'
+    platform: BNB
 crypto: true
 fiat: false
 id: FLOKIS
 id_coinmarketcap: '15174'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15174.png
 name: FlokiSwap
-platform: BNB
-platform_contract: '0x2fb09b8749a3a13eefa3fd4e643fc44dbdba5b39'

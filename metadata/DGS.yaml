@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6aedbf8dff31437220df351950ba2a3362168d1b'
+    platform: ETH
 crypto: true
 fiat: false
 id: DGS
 id_coinmarketcap: '3124'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3124.png
 name: Dragonglass
-platform: ETH
-platform_contract: '0x6aedbf8dff31437220df351950ba2a3362168d1b'

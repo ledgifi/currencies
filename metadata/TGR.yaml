@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd9780513292477C4039dFdA1cfCD89Ff111e9DA5'
+    platform: BNB
 crypto: true
 fiat: false
 id: TGR
 id_coinmarketcap: '21133'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21133.png
 name: Tegro
-platform: BNB
-platform_contract: '0xd9780513292477C4039dFdA1cfCD89Ff111e9DA5'

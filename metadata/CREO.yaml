@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9521728bF66a867BC65A93Ece4a543D817871Eb7'
+    platform: BNB
 crypto: true
 fiat: false
 id: CREO
 id_coinmarketcap: '17000'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17000.png
 name: Creo Engine
-platform: BNB
-platform_contract: '0x9521728bF66a867BC65A93Ece4a543D817871Eb7'

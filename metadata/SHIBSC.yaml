@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdF0816CC717216c8B0863aF8d4f0fC20Bc65d643'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIBSC
 id_coinmarketcap: '10085'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10085.png
 name: Shiba BSC
-platform: BNB
-platform_contract: '0xdF0816CC717216c8B0863aF8d4f0fC20Bc65d643'

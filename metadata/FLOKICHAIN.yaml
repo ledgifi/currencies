@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0c23a0ce478ada00df4e3c951b8fa6ffe7f1c56b'
+    platform: ETH
 crypto: true
 fiat: false
 id: FLOKICHAIN
 id_coinmarketcap: '21716'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21716.png
 name: Floki Chain
-platform: ETH
-platform_contract: '0x0c23a0ce478ada00df4e3c951b8fa6ffe7f1c56b'

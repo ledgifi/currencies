@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb60501346240fcde1615de56ea9fff1ac1da5673'
+    platform: BNB
 crypto: true
 fiat: false
 id: BSL
 id_coinmarketcap: '10036'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10036.png
 name: BSClaunch
-platform: BNB
-platform_contract: '0xb60501346240fcde1615de56ea9fff1ac1da5673'

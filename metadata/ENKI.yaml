@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2A279aAefDFe73B73662C94AfF75d414549c3225'
+    platform: BNB
 crypto: true
 fiat: false
 id: ENKI
 id_coinmarketcap: '14206'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14206.png
 name: ENKI Coin
-platform: BNB
-platform_contract: '0x2A279aAefDFe73B73662C94AfF75d414549c3225'

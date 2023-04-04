@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaeaabb69dcb0fe926b1979f0b032fcd17fd7b2e0'
+    platform: ETH
 crypto: true
 fiat: false
 id: CYBR1
 id_coinmarketcap: '4620'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4620.png
 name: CYBR Token
-platform: ETH
-platform_contract: '0xaeaabb69dcb0fe926b1979f0b032fcd17fd7b2e0'

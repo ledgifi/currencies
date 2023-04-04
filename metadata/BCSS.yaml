@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x782F368d2244A58f3B49E57ee43797141dDC1220'
+    platform: BNB
 crypto: true
 fiat: false
 id: BCSS
 id_coinmarketcap: '19883'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19883.png
 name: BCSSTAR
-platform: BNB
-platform_contract: '0x782F368d2244A58f3B49E57ee43797141dDC1220'

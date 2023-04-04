@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x32353a6c91143bfd6c7d363b546e62a9a2489a20'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: AGLD
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/e074c75b-96a5-413f-8231-17e1d22754c8.png
 logoKey: currencies/agld.png
 name: Adventure Gold
-platform: ETH
-platform_contract: '0x32353a6c91143bfd6c7d363b546e62a9a2489a20'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5da21d9e63f1ea13d34e48b7223bcc97e3ecd687'
+    platform: ETH
 crypto: true
 fiat: false
 id: WSETH2
 id_coinmarketcap: '23202'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23202.png
 name: Wrapped StakeWise sETH2
-platform: ETH
-platform_contract: '0x5da21d9e63f1ea13d34e48b7223bcc97e3ecd687'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0bc61dded5f6710c637cf8288eb6058766ce1921'
+    platform: ETH
 crypto: true
 fiat: false
 id: CEN1
 id_coinmarketcap: '3010'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3010.png
 name: Coinsuper Ecosystem Network
-platform: ETH
-platform_contract: '0x0bc61dded5f6710c637cf8288eb6058766ce1921'

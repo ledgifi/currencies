@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x51777d44833b0a050ec85cc33065c7a9a12ba5df'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPARK1
 id_coinmarketcap: '17952'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17952.png
 name: Spark Finance
-platform: BNB
-platform_contract: '0x51777d44833b0a050ec85cc33065c7a9a12ba5df'

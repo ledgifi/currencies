@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3175465f7d5bdf0b170ec692051e1be1f8c05b8c'
+    platform: BNB
 crypto: true
 fiat: false
 id: CHEEMSBILLIONAIRE
 id_coinmarketcap: '16522'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16522.png
 name: CheemsBillionaire
-platform: BNB
-platform_contract: '0x3175465f7d5bdf0b170ec692051e1be1f8c05b8c'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfefbbeebbeef18e3e4a2909f2b2729ca2fc61347'
+    platform: BNB
 crypto: true
 fiat: false
 id: HZD
 id_coinmarketcap: '15723'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15723.png
 name: HorizonDollar
-platform: BNB
-platform_contract: '0xfefbbeebbeef18e3e4a2909f2b2729ca2fc61347'

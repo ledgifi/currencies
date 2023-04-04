@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd15c444f1199ae72795eba15e8c1db44e47abf62'
+    platform: BNB
 crypto: true
 fiat: false
 id: TENFI
 id_coinmarketcap: '10031'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10031.png
 name: TEN
-platform: BNB
-platform_contract: '0xd15c444f1199ae72795eba15e8c1db44e47abf62'

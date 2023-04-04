@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc26eEfA5f04eA11e5182B9f63EcF69ba9Ac5bE1A'
+    platform: BNB
 crypto: true
 fiat: false
 id: BXMI
 id_coinmarketcap: '15152'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15152.png
 name: Bxmi Token
-platform: BNB
-platform_contract: '0xc26eEfA5f04eA11e5182B9f63EcF69ba9Ac5bE1A'

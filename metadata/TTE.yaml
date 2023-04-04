@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf20702BD4D8D1DDbe3c9a64fdb9E8132a4B1839D'
+    platform: BNB
 crypto: true
 fiat: false
 id: TTE
 id_coinmarketcap: '20819'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20819.png
 name: Tweet To Earn
-platform: BNB
-platform_contract: '0xf20702BD4D8D1DDbe3c9a64fdb9E8132a4B1839D'

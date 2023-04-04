@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9105f25a9d6b3d289cc7315b0b4e0b91f3806fb1'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHBMA
 id_coinmarketcap: '11037'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11037.png
 name: ShibaMask
-platform: BNB
-platform_contract: '0x9105f25a9d6b3d289cc7315b0b4e0b91f3806fb1'

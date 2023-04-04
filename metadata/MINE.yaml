@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xb7DE92bE975ccb27e7352a1D47512aCBdb0BaC32'
+    platform: ETH
 crypto: true
 fiat: false
 id: MINE
@@ -5,5 +8,3 @@ id_coinmarketcap: '19533'
 id_nomics: MINE
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19533.png
 name: SpaceMine
-platform: ETH
-platform_contract: '0xb7DE92bE975ccb27e7352a1D47512aCBdb0BaC32'

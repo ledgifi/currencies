@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc54a4640907044283e8e4885090e205992b9813e'
+    platform: BNB
 crypto: true
 fiat: false
 id: FORS
 id_coinmarketcap: '18196'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18196.png
 name: Forus
-platform: BNB
-platform_contract: '0xc54a4640907044283e8e4885090e205992b9813e'

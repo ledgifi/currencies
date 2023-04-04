@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8776884a06cB51044ED921E7Fa964D5fA3a0a16b'
+    platform: BNB
 crypto: true
 fiat: false
 id: $RVLVR
 id_coinmarketcap: '11443'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11443.png
 name: Revolver Token
-platform: BNB
-platform_contract: '0x8776884a06cB51044ED921E7Fa964D5fA3a0a16b'

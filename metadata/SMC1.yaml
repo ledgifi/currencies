@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2edc01f6e8b2387e76872cbbe1b69407ec058f34'
+    platform: ETH
 crypto: true
 fiat: false
 id: SMC1
 id_coinmarketcap: '21977'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21977.png
 name: semicon1
-platform: ETH
-platform_contract: '0x2edc01f6e8b2387e76872cbbe1b69407ec058f34'

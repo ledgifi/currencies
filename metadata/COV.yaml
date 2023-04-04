@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xada86b1b313d1d5267e3fc0bb303f0a2b66d0ea7'
+    platform: ETH
 crypto: true
 fiat: false
 id: COV
@@ -7,5 +10,3 @@ id_nomics: COV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/cov.svg
 logoKey: currencies/cov.svg
 name: Covesting
-platform: ETH
-platform_contract: '0xada86b1b313d1d5267e3fc0bb303f0a2b66d0ea7'

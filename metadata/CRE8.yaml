@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc36b4311b21fc0c2ead46f1ea6ce97c9c4d98d3d'
+    platform: ETH
 crypto: true
 fiat: false
 id: CRE8
 id_coinmarketcap: '11258'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11258.png
 name: Creaticles
-platform: ETH
-platform_contract: '0xc36b4311b21fc0c2ead46f1ea6ce97c9c4d98d3d'

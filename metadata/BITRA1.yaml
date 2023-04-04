@@ -1,8 +1,9 @@
+contracts:
+  - address: https://bitrascan.com/
+    platform: CRU
 crypto: true
 fiat: false
 id: BITRA1
 id_coinmarketcap: '19999'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19999.png
 name: Bitracoin Hybrid Blockchain
-platform: CRU
-platform_contract: https://bitrascan.com/

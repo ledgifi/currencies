@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4ffe33e525042cc84c503db5842ecda280f4a805'
+    platform: ETH
 crypto: true
 fiat: false
 id: GWP1
 id_coinmarketcap: '5096'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5096.png
 name: Green World Project
-platform: ETH
-platform_contract: '0x4ffe33e525042cc84c503db5842ecda280f4a805'

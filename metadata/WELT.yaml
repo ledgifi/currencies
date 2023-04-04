@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1785113910847770290F5F840b4c74fc46451201'
+    platform: BNB
 crypto: true
 fiat: false
 id: WELT
 id_coinmarketcap: '14681'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14681.png
 name: Fabwelt
-platform: BNB
-platform_contract: '0x1785113910847770290F5F840b4c74fc46451201'

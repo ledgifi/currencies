@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf722b7b4876cbba560846556dd1f5932eb503de2'
+    platform: ETH
 crypto: true
 fiat: false
 id: APAD1
 id_coinmarketcap: '18844'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18844.png
 name: Alpha Pad
-platform: ETH
-platform_contract: '0xf722b7b4876cbba560846556dd1f5932eb503de2'

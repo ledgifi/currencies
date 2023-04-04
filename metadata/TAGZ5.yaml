@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4d0425e47ee2d16b94c036715dfcb52a0cebc4dc'
+    platform: ETH
 crypto: true
 fiat: false
 id: TAGZ5
 id_coinmarketcap: '4981'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4981.png
 name: TAGZ5
-platform: ETH
-platform_contract: '0x4d0425e47ee2d16b94c036715dfcb52a0cebc4dc'

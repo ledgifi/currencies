@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x77F76483399Dc6328456105B1db23e2Aca455bf9'
+    platform: ETH
 crypto: true
 fiat: false
 id: HYCO
 id_coinmarketcap: '22706'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22706.png
 name: HYPERCOMIC
-platform: ETH
-platform_contract: '0x77F76483399Dc6328456105B1db23e2Aca455bf9'

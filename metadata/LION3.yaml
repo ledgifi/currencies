@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf644d4477cd8db7791cea3013cb053b3fec4beb3'
+    platform: ETH
 crypto: true
 fiat: false
 id: LION3
 id_coinmarketcap: '8009'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8009.png
 name: Cryptoenter
-platform: ETH
-platform_contract: '0xf644d4477cd8db7791cea3013cb053b3fec4beb3'

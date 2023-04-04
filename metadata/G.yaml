@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE1005BfBBC9A17d5d844C7a4371CBF6B2B387380'
+    platform: ETH
 crypto: true
 fiat: false
 id: G
 id_coinmarketcap: '20195'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20195.png
 name: GRN
-platform: ETH
-platform_contract: '0xE1005BfBBC9A17d5d844C7a4371CBF6B2B387380'

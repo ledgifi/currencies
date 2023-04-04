@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfb585322fbd121ce20b857e2ccd85a43ad496573'
+    platform: BNB
 crypto: true
 fiat: false
 id: YLB
 id_coinmarketcap: '15831'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15831.png
 name: Yearnlab
-platform: BNB
-platform_contract: '0xfb585322fbd121ce20b857e2ccd85a43ad496573'

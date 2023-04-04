@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf4bbd1f932bda87c24fe13a50912a13b06ed2601'
+    platform: ETH
 crypto: true
 fiat: false
 id: XEV
 id_coinmarketcap: '4498'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4498.png
 name: Xevenue Shares
-platform: ETH
-platform_contract: '0xf4bbd1f932bda87c24fe13a50912a13b06ed2601'

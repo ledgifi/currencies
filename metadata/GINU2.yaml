@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb2ed199b46630e789e8740fb83b1611acf018516'
+    platform: ETH
 crypto: true
 fiat: false
 id: GINU2
 id_coinmarketcap: '14383'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14383.png
 name: GolDInu
-platform: ETH
-platform_contract: '0xb2ed199b46630e789e8740fb83b1611acf018516'

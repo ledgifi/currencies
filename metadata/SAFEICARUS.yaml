@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd2f9b51c6a1b5598f0ea51ef95d70cb045692d0f'
+    platform: BNB
 crypto: true
 fiat: false
 id: SAFEICARUS
 id_coinmarketcap: '9630'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9630.png
 name: Safeicarus
-platform: BNB
-platform_contract: '0xd2f9b51c6a1b5598f0ea51ef95d70cb045692d0f'

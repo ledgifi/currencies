@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA36FDBBAE3c9d55a1d67EE5821d53B50B63A1aB9'
+    platform: ETH
 crypto: true
 fiat: false
 id: TEMP
 id_coinmarketcap: '14089'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14089.png
 name: Tempus
-platform: ETH
-platform_contract: '0xA36FDBBAE3c9d55a1d67EE5821d53B50B63A1aB9'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf001937650bb4f62b57521824b2c20f5b91bea05'
+    platform: ETH
 crypto: true
 fiat: false
 id: TARA
 id_coinmarketcap: '8715'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8715.png
 name: Taraxa
-platform: ETH
-platform_contract: '0xf001937650bb4f62b57521824b2c20f5b91bea05'

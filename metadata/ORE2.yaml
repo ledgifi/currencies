@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x91f006ee672f8f39c6e63ca75b1ca14067b3c366'
+    platform: BNB
 crypto: true
 fiat: false
 id: ORE2
 id_coinmarketcap: '14997'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14997.png
 name: Outrace
-platform: BNB
-platform_contract: '0x91f006ee672f8f39c6e63ca75b1ca14067b3c366'

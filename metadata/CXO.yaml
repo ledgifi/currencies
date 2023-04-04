@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb6ee9668771a79be7967ee29a63d4184f8097143'
+    platform: ETH
 crypto: true
 fiat: false
 id: CXO
 id_coinmarketcap: '2490'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2490.png
 name: CargoX
-platform: ETH
-platform_contract: '0xb6ee9668771a79be7967ee29a63d4184f8097143'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6ef6610d24593805144d73b13d4405e00a4e4ac7'
+    platform: ETH
 crypto: true
 fiat: false
 id: DIE
 id_coinmarketcap: '22322'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22322.png
 name: Die Protocol
-platform: ETH
-platform_contract: '0x6ef6610d24593805144d73b13d4405e00a4e4ac7'

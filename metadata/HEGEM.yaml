@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4CD84bDaC299e3Ba991C3b5E302cB00A0cCbD38B'
+    platform: BNB
 crypto: true
 fiat: false
 id: HEGEM
 id_coinmarketcap: '15750'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15750.png
 name: HERO ARENA
-platform: BNB
-platform_contract: '0x4CD84bDaC299e3Ba991C3b5E302cB00A0cCbD38B'

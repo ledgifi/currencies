@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7faA64Faf54750a2E3eE621166635fEAF406Ab22'
+    platform: NEAR
 crypto: true
 fiat: false
 id: WANNA
 id_coinmarketcap: '15673'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15673.png
 name: WannaSwap
-platform: NEAR
-platform_contract: '0x7faA64Faf54750a2E3eE621166635fEAF406Ab22'

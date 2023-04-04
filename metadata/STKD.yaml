@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x578B2A12D2c661cD4Abfb8E98670acD7B2323bc7'
+    platform: BNB
 crypto: true
 fiat: false
 id: STKD
 id_coinmarketcap: '13378'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13378.png
 name: Stakd InuToken
-platform: BNB
-platform_contract: '0x578B2A12D2c661cD4Abfb8E98670acD7B2323bc7'

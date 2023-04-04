@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6cc0e0aedbbd3c35283e38668d959f6eb3034856'
+    platform: FTM
 crypto: true
 fiat: false
 id: DKNIGHT
 id_coinmarketcap: '18584'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18584.png
 name: Dark Knight
-platform: FTM
-platform_contract: '0x6cc0e0aedbbd3c35283e38668d959f6eb3034856'

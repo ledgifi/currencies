@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xeb90a6273f616a8ed1cf58a05d3ae1c1129b4de6'
+    platform: BNB
 crypto: true
 fiat: false
 id: RAID
 id_coinmarketcap: '21527'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21527.png
 name: Ancient Raid
-platform: BNB
-platform_contract: '0xeb90a6273f616a8ed1cf58a05d3ae1c1129b4de6'

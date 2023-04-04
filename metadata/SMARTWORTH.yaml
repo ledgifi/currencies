@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd50787a5f21bcc10c1a738e7de33001786c5fc24'
+    platform: BNB
 crypto: true
 fiat: false
 id: SMARTWORTH
 id_coinmarketcap: '9787'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9787.png
 name: SMARTWORTH
-platform: BNB
-platform_contract: '0xd50787a5f21bcc10c1a738e7de33001786c5fc24'

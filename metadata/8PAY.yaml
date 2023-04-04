@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xFeea0bDd3D07eb6FE305938878C0caDBFa169042'
+    platform: ETH
 crypto: true
 fiat: false
 id: 8PAY
 id_coinmarketcap: '9046'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9046.png
 name: 8PAY
-platform: ETH
-platform_contract: '0xFeea0bDd3D07eb6FE305938878C0caDBFa169042'

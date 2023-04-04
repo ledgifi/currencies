@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xae78736cd615f374d3085123a210448e74fc6393'
+    platform: ETH
 crypto: true
 fiat: false
 id: RETH
 id_coinmarketcap: '15060'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15060.png
 name: Rocket Pool ETH
-platform: ETH
-platform_contract: '0xae78736cd615f374d3085123a210448e74fc6393'

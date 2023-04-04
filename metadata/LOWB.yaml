@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x69e5C11a7C30f0bf84A9faECBd5161AA7a94decA'
+    platform: ETH
 crypto: true
 fiat: false
 id: LOWB
 id_coinmarketcap: '9673'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9673.png
 name: Loser Coin
-platform: ETH
-platform_contract: '0x69e5C11a7C30f0bf84A9faECBd5161AA7a94decA'

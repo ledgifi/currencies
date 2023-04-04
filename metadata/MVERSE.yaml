@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xAf7BfA6240745Fd41D1ED4b5fADE9DCAF369bA6c'
+    platform: BNB
 crypto: true
 fiat: false
 id: Mverse
 id_coinmarketcap: '11062'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11062.png
 name: MaticVerse
-platform: BNB
-platform_contract: '0xAf7BfA6240745Fd41D1ED4b5fADE9DCAF369bA6c'

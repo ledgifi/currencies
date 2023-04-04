@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1b19c19393e2d034d8ff31ff34c81252fcbbee92'
+    platform: ETH
 crypto: true
 fiat: false
 id: OUSG
 id_coinmarketcap: '23463'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23463.png
 name: OUSG
-platform: ETH
-platform_contract: '0x1b19c19393e2d034d8ff31ff34c81252fcbbee92'

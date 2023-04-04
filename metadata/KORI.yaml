@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x345dadb10a200f10814ad8523fca0f2d958c3370'
+    platform: ETH
 crypto: true
 fiat: false
 id: KORI
 id_coinmarketcap: '16039'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16039.png
 name: Kori Inu
-platform: ETH
-platform_contract: '0x345dadb10a200f10814ad8523fca0f2d958c3370'

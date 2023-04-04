@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1EFB1C30E453Eb4C61E5e30ba80d4FB599378489'
+    platform: BNB
 crypto: true
 fiat: false
 id: XFREE
 id_coinmarketcap: '20890'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20890.png
 name: XFREE Coin
-platform: BNB
-platform_contract: '0x1EFB1C30E453Eb4C61E5e30ba80d4FB599378489'

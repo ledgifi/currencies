@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9'
+    platform: ETH
 crypto: true
 fiat: false
 id: CUSDT
 id_coinmarketcap: '5745'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5745.png
 name: Compound USDT
-platform: ETH
-platform_contract: '0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9'

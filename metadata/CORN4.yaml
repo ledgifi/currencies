@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xFcA54c64BC44ce2E72d621B6Ed34981e53B66CaE'
+    platform: AVAX
 crypto: true
 fiat: false
 id: CORN4
 id_coinmarketcap: '12369'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12369.png
 name: FarmersOnly
-platform: AVAX
-platform_contract: '0xFcA54c64BC44ce2E72d621B6Ed34981e53B66CaE'

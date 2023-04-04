@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x69702cfd7DAd8bCcAA24D6B440159404AAA140F5'
+    platform: ETH
 crypto: true
 fiat: false
 id: sUSDT
 id_coinmarketcap: '11096'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11096.png
 name: Strike USDT
-platform: ETH
-platform_contract: '0x69702cfd7DAd8bCcAA24D6B440159404AAA140F5'

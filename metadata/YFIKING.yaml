@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5F7fA1a0Ae94b5DD6bb6bD1708b5f3AF01b57908'
+    platform: ETH
 crypto: true
 fiat: false
 id: YFIKING
 id_coinmarketcap: '6964'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6964.png
 name: YFIKING FINANCE
-platform: ETH
-platform_contract: '0x5F7fA1a0Ae94b5DD6bb6bD1708b5f3AF01b57908'

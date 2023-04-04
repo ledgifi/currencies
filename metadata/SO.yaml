@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4011EE1EfD5Cb4ef4A6910B884000b645E703d25'
+    platform: BNB
 crypto: true
 fiat: false
 id: SO
 id_coinmarketcap: '20545'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20545.png
 name: Shiny Ore
-platform: BNB
-platform_contract: '0x4011EE1EfD5Cb4ef4A6910B884000b645E703d25'

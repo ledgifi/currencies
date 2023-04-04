@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd3c563ec2cddee3d68b5d361b977558bf7c02a54'
+    platform: BNB
 crypto: true
 fiat: false
 id: CHIPS2
 id_coinmarketcap: '12226'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12226.png
 name: Chipstars
-platform: BNB
-platform_contract: '0xd3c563ec2cddee3d68b5d361b977558bf7c02a54'

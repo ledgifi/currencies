@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF9C2B386FF5Df088AC717ab0010587bad3bC1ab1'
+    platform: ETH
 crypto: true
 fiat: false
 id: IUSDS
 id_coinmarketcap: '20307'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20307.png
 name: Inflation Adjusted USDS
-platform: ETH
-platform_contract: '0xF9C2B386FF5Df088AC717ab0010587bad3bC1ab1'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x139b2c2c6dd8ee165d41788877df5b2ef74b1ff1'
+    platform: BNB
 crypto: true
 fiat: false
 id: MOONPAW
 id_coinmarketcap: '14701'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14701.png
 name: MoonPaw
-platform: BNB
-platform_contract: '0x139b2c2c6dd8ee165d41788877df5b2ef74b1ff1'

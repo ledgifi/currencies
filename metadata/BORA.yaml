@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x02cbe46fb8a1f579254a9b485788f2d86cad51aa'
+    platform: KLAY
 crypto: true
 fiat: false
 id: BORA
 id_coinmarketcap: '3801'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3801.png
 name: BORA
-platform: KLAY
-platform_contract: '0x02cbe46fb8a1f579254a9b485788f2d86cad51aa'

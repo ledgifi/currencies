@@ -1,4 +1,7 @@
 color: '#ffc04e'
+contracts:
+  - address: '0xf7920b0768ecb20a123fac32311d07d193381d6f'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: TNB
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/tnb.svg
 logoKey: currencies/tnb.svg
 name: Time New Bank
-platform: ETH
-platform_contract: '0xf7920b0768ecb20a123fac32311d07d193381d6f'

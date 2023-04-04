@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe198e8fe1aab441e54d9572e2402d7b132ccb15a'
+    platform: BNB
 crypto: true
 fiat: false
 id: NAC2
 id_coinmarketcap: '13761'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13761.png
 name: Nowlage Coin
-platform: BNB
-platform_contract: '0xe198e8fe1aab441e54d9572e2402d7b132ccb15a'

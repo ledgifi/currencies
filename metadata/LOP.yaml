@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1791c97603b4695f53A4f1c02ca0efB74C44b310'
+    platform: ONE
 crypto: true
 fiat: false
 id: LOP
 id_coinmarketcap: '24149'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24149.png
 name: Kilopi
-platform: ONE
-platform_contract: '0x1791c97603b4695f53A4f1c02ca0efB74C44b310'

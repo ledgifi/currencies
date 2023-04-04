@@ -1,3 +1,6 @@
+contracts:
+  - address: TROY-9B8
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: TROYTRADE
 logo: https://bin.bnbstatic.com/images/20191204/25ccb5d6-0583-4e23-8669-fcad9fbd806f.jpg
 logoKey: currencies/troy.jpg
 name: Troy
-platform: BNB
-platform_contract: TROY-9B8

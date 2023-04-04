@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6cfd7dd68b1e5d0b5cc4540a740a92a81aa0ffde'
+    platform: BNB
 crypto: true
 fiat: false
 id: BED1
 id_coinmarketcap: '17740'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17740.png
 name: Bedpage Coin
-platform: BNB
-platform_contract: '0x6cfd7dd68b1e5d0b5cc4540a740a92a81aa0ffde'

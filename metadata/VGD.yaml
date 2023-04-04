@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x487ecd4cFa635D1a9409E86Cd22d33d5abEb7b44'
+    platform: BNB
 crypto: true
 fiat: false
 id: VGD
 id_coinmarketcap: '9240'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9240.png
 name: Vangold
-platform: BNB
-platform_contract: '0x487ecd4cFa635D1a9409E86Cd22d33d5abEb7b44'

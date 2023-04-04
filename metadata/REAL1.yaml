@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE91cd52Bd65fe23A3EAE40E3eB87180E8306399F'
+    platform: BNB
 crypto: true
 fiat: false
 id: REAL1
 id_coinmarketcap: '13698'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13698.png
 name: Real Realm
-platform: BNB
-platform_contract: '0xE91cd52Bd65fe23A3EAE40E3eB87180E8306399F'

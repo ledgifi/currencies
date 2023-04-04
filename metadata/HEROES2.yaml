@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x96e0dcc73f74b6049813439f7a660d1d6ca20594'
+    platform: BNB
 crypto: true
 fiat: false
 id: HEROES2
 id_coinmarketcap: '16112'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16112.png
 name: HeroesOfCrypton
-platform: BNB
-platform_contract: '0x96e0dcc73f74b6049813439f7a660d1d6ca20594'

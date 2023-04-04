@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x013a06558f07d9e6f9a00c95a33f3a0e0255176b'
+    platform: ETH
 crypto: true
 fiat: false
 id: BALI
 id_coinmarketcap: '5480'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5480.png
 name: Bali Coin
-platform: ETH
-platform_contract: '0x013a06558f07d9e6f9a00c95a33f3a0e0255176b'

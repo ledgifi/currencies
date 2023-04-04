@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb7dba4c673bedb174dc3ff7ec65d17c863d39b16'
+    platform: BNB
 crypto: true
 fiat: false
 id: FATCAKE
 id_coinmarketcap: '13280'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13280.png
 name: FatCake
-platform: BNB
-platform_contract: '0xb7dba4c673bedb174dc3ff7ec65d17c863d39b16'

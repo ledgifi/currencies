@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc409ec8a33f31437ed753c82eed3c5f16d6d7e22'
+    platform: BNB
 crypto: true
 fiat: false
 id: TOKAU
 id_coinmarketcap: '10951'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10951.png
 name: Tokyo AU
-platform: BNB
-platform_contract: '0xc409ec8a33f31437ed753c82eed3c5f16d6d7e22'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcabec58a571979f9fe825885fcb8f7a93892eab0'
+    platform: ETH
 crypto: true
 fiat: false
 id: UNB2
 id_coinmarketcap: '5546'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5546.png
 name: United Bull Traders
-platform: ETH
-platform_contract: '0xcabec58a571979f9fe825885fcb8f7a93892eab0'

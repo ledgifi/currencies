@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x574f84108a98c575794f75483d801d1d5dc861a5'
+    platform: ETH
 crypto: true
 fiat: false
 id: ROX
 id_coinmarketcap: '3325'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3325.png
 name: Robotina
-platform: ETH
-platform_contract: '0x574f84108a98c575794f75483d801d1d5dc861a5'

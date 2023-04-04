@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE87e500AB4939E08ae9c9cd2F2815D7FE877df25'
+    platform: BNB
 crypto: true
 fiat: false
 id: MISO
 id_coinmarketcap: '10309'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10309.png
 name: MISO
-platform: BNB
-platform_contract: '0xE87e500AB4939E08ae9c9cd2F2815D7FE877df25'

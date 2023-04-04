@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf32aa187d5bc16a2c02a6afb7df1459d0d107574'
+    platform: ETH
 crypto: true
 fiat: false
 id: INU1
 id_coinmarketcap: '10900'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10900.png
 name: Hachiko Inu
-platform: ETH
-platform_contract: '0xf32aa187d5bc16a2c02a6afb7df1459d0d107574'

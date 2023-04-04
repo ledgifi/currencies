@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc603b1fba6a5b502be4f1ab27591bf4e75a3460c'
+    platform: BNB
 crypto: true
 fiat: false
 id: MAGI
 id_coinmarketcap: '8914'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8914.png
 name: Magikarp Finance
-platform: BNB
-platform_contract: '0xc603b1fba6a5b502be4f1ab27591bf4e75a3460c'

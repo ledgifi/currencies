@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x902250086678b9390fd07aed6fd35f00fdf32b86'
+    platform: BNB
 crypto: true
 fiat: false
 id: RPI1
 id_coinmarketcap: '15429'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15429.png
 name: RepliFi
-platform: BNB
-platform_contract: '0x902250086678b9390fd07aed6fd35f00fdf32b86'

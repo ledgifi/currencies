@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaf8a215e81faea7c180ce22b72483525121813bd'
+    platform: ETH
 crypto: true
 fiat: false
 id: EGCC
 id_coinmarketcap: '2852'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2852.png
 name: Engine
-platform: ETH
-platform_contract: '0xaf8a215e81faea7c180ce22b72483525121813bd'

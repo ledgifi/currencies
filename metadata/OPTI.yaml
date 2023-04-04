@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x562e362876c8aee4744fc2c6aac8394c312d215d'
+    platform: ETH
 crypto: true
 fiat: false
 id: OPTI
 id_coinmarketcap: '23794'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23794.png
 name: Optimus AI
-platform: ETH
-platform_contract: '0x562e362876c8aee4744fc2c6aac8394c312d215d'

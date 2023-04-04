@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCa044F16AfA434C0C17c0478D8A6cE4FEEf46504'
+    platform: BNB
 crypto: true
 fiat: false
 id: MAPE
 id_coinmarketcap: '17467'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17467.png
 name: Mecha Morphing
-platform: BNB
-platform_contract: '0xCa044F16AfA434C0C17c0478D8A6cE4FEEf46504'

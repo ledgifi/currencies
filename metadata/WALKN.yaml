@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x904160F6E18D90882e85c9AC0475ef3412241723'
+    platform: BNB
 crypto: true
 fiat: false
 id: WALKN
 id_coinmarketcap: '20499'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20499.png
 name: WalkN
-platform: BNB
-platform_contract: '0x904160F6E18D90882e85c9AC0475ef3412241723'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x37ded665a387a6f170fb60376b3057f09df6c0ea'
+    platform: AVAX
 crypto: true
 fiat: false
 id: KANDY
 id_coinmarketcap: '17256'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17256.png
 name: Kandyland DAO
-platform: AVAX
-platform_contract: '0x37ded665a387a6f170fb60376b3057f09df6c0ea'

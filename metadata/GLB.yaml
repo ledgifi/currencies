@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x52eb6c887a4691f10bee396778603927c23be1fc'
+    platform: BNB
 crypto: true
 fiat: false
 id: GLB
 id_coinmarketcap: '14392'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14392.png
 name: Golden Ball
-platform: BNB
-platform_contract: '0x52eb6c887a4691f10bee396778603927c23be1fc'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x903aed40b7fcbe8de84a699151c9055f4c0a6db3'
+    platform: ETH
 crypto: true
 fiat: false
 id: HINU
 id_coinmarketcap: '16401'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16401.png
 name: Hayate INU
-platform: ETH
-platform_contract: '0x903aed40b7fcbe8de84a699151c9055f4c0a6db3'

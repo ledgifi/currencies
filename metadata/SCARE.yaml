@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x46e1ee17f51c52661d04238f1700c547de3b84a1'
+    platform: FTM
 crypto: true
 fiat: false
 id: SCARE
 id_coinmarketcap: '12827'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12827.png
 name: ScareCrow
-platform: FTM
-platform_contract: '0x46e1ee17f51c52661d04238f1700c547de3b84a1'

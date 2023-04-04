@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xae762762d5e40669af789c8c996451449ef40c71'
+    platform: MOVR
 crypto: true
 fiat: false
 id: RIVRFLOKI
 id_coinmarketcap: '14560'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14560.png
 name: RivrFloki
-platform: MOVR
-platform_contract: '0xae762762d5e40669af789c8c996451449ef40c71'

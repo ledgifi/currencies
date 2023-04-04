@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x28d82c4d7315c02d19562db1080a713eb5cc2639'
+    platform: BNB
 crypto: true
 fiat: false
 id: STC3
 id_coinmarketcap: '17228'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17228.png
 name: Shitcoin
-platform: BNB
-platform_contract: '0x28d82c4d7315c02d19562db1080a713eb5cc2639'

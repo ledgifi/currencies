@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa2f46fe221f34dac4cf078e6946a7cb4e373ad28'
+    platform: BNB
 crypto: true
 fiat: false
 id: BAFI
 id_coinmarketcap: '9075'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9075.png
 name: Bafi Finance
-platform: BNB
-platform_contract: '0xa2f46fe221f34dac4cf078e6946a7cb4e373ad28'

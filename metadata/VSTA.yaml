@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa684cd057951541187f288294a1e1C2646aA2d24'
+    platform: ARB
 crypto: true
 fiat: false
 id: VSTA
 id_coinmarketcap: '19459'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19459.png
 name: Vesta Finance
-platform: ARB
-platform_contract: '0xa684cd057951541187f288294a1e1C2646aA2d24'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6570fFe19dA7e2b425329B157d9109b87f18304b'
+    platform: ETH
 crypto: true
 fiat: false
 id: UNM
 id_coinmarketcap: '19062'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19062.png
 name: UNIUM
-platform: ETH
-platform_contract: '0x6570fFe19dA7e2b425329B157d9109b87f18304b'

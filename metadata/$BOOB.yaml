@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xca5f1Bd4B47ECe13a7ca753202F284D9Edd85d8A'
+    platform: BNB
 crypto: true
 fiat: false
 id: $BOOB
 id_coinmarketcap: '10144'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10144.png
 name: $BOOB
-platform: BNB
-platform_contract: '0xca5f1Bd4B47ECe13a7ca753202F284D9Edd85d8A'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x958cc5ac2efa569cd9ad9b9b88245e1f038b02be'
+    platform: BNB
 crypto: true
 fiat: false
 id: SWU
 id_coinmarketcap: '21940'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21940.png
 name: Smart World Union
-platform: BNB
-platform_contract: '0x958cc5ac2efa569cd9ad9b9b88245e1f038b02be'

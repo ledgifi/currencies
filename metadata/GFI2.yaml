@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdd6c6c114db071efe0bab6051268227ce64c3ffe'
+    platform: BNB
 crypto: true
 fiat: false
 id: GFI2
 id_coinmarketcap: '11942'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11942.png
 name: GameFi Protocol
-platform: BNB
-platform_contract: '0xdd6c6c114db071efe0bab6051268227ce64c3ffe'

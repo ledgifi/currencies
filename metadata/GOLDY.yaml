@@ -1,8 +1,9 @@
+contracts:
+  - address: GoLDYyyiVeXnVf9qgoK712N5esm1cCbHEK9aNJFx47Sx
+    platform: SOL
 crypto: true
 fiat: false
 id: GOLDY
 id_coinmarketcap: '20319'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20319.png
 name: DeFi Land Gold
-platform: SOL
-platform_contract: GoLDYyyiVeXnVf9qgoK712N5esm1cCbHEK9aNJFx47Sx

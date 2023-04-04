@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x58b40ac5cbeeea651dc5512ea81a0bc8575f04a8'
+    platform: BNB
 crypto: true
 fiat: false
 id: TIPO
 id_coinmarketcap: '23217'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23217.png
 name: TIPO Token
-platform: BNB
-platform_contract: '0x58b40ac5cbeeea651dc5512ea81a0bc8575f04a8'

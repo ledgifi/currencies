@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1a591BC628458A76D0553A8B8C57bf32d3ac150F'
+    platform: BNB
 crypto: true
 fiat: false
 id: XF
 id_coinmarketcap: '22441'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22441.png
 name: XRPFarm
-platform: BNB
-platform_contract: '0x1a591BC628458A76D0553A8B8C57bf32d3ac150F'

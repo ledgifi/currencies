@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7a73839bd0e5cded853cb01aa9773f8989381065'
+    platform: ETH
 crypto: true
 fiat: false
 id: UBXN
 id_coinmarketcap: '22902'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22902.png
 name: UpBots Token
-platform: ETH
-platform_contract: '0x7a73839bd0e5cded853cb01aa9773f8989381065'

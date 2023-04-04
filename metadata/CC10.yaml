@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x17ac188e09a7890a1844e5e65471fe8b0ccfadf3'
+    platform: ETH
 crypto: true
 fiat: false
 id: CC10
 id_coinmarketcap: '8887'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8887.png
 name: Cryptocurrency Top 10 Tokens Index
-platform: ETH
-platform_contract: '0x17ac188e09a7890a1844e5e65471fe8b0ccfadf3'

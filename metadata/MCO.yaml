@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xb63b606ac810a52cca15e44bb630fd42d8d1d83d'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: MCO
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/mco.svg
 logoKey: currencies/mco.svg
 name: MCO
-platform: ETH
-platform_contract: '0xb63b606ac810a52cca15e44bb630fd42d8d1d83d'

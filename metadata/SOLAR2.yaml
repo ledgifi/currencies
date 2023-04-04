@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x818221B4BaA65F34eFaF7Aba58E5C2bb22B9EfB9'
+    platform: BNB
 crypto: true
 fiat: false
 id: SOLAR2
 id_coinmarketcap: '9013'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9013.png
 name: SOLAR Token
-platform: BNB
-platform_contract: '0x818221B4BaA65F34eFaF7Aba58E5C2bb22B9EfB9'

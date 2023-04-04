@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2f75113b13D136F861d212Fa9b572F2C79Ac81C4'
+    platform: ETH
 crypto: true
 fiat: false
 id: EKTA
 id_coinmarketcap: '11516'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11516.png
 name: Ekta
-platform: ETH
-platform_contract: '0x2f75113b13D136F861d212Fa9b572F2C79Ac81C4'

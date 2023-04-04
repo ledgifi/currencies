@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x47e67ba66b0699500f18a53f94e2b9db3d47437e'
+    platform: ETH
 crypto: true
 fiat: false
 id: PXG
 id_coinmarketcap: '3639'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3639.png
 name: PlayGame
-platform: ETH
-platform_contract: '0x47e67ba66b0699500f18a53f94e2b9db3d47437e'

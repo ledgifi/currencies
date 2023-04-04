@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4C267653e851876dEdE1c90d494c2fC3F7F01178'
+    platform: BNB
 crypto: true
 fiat: false
 id: JKWON
 id_coinmarketcap: '21826'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21826.png
 name: JAIL KWON TOKEN
-platform: BNB
-platform_contract: '0x4C267653e851876dEdE1c90d494c2fC3F7F01178'

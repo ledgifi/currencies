@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3ef3f6cf9f867a33c4109208a6bd043a9ef0e091'
+    platform: BNB
 crypto: true
 fiat: false
 id: LITE
 id_coinmarketcap: '20912'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20912.png
 name: Lite USD
-platform: BNB
-platform_contract: '0x3ef3f6cf9f867a33c4109208a6bd043a9ef0e091'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf3c3fd552a1ca9d922279dba4edcff7a52e42a77'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPLASH
 id_coinmarketcap: '14771'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14771.png
 name: Splash
-platform: BNB
-platform_contract: '0xf3c3fd552a1ca9d922279dba4edcff7a52e42a77'

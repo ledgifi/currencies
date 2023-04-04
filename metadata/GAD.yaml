@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x610740af3f25b72892ba21b98bfb8595f2cde386'
+    platform: ETH
 crypto: true
 fiat: false
 id: GAD
 id_coinmarketcap: '4037'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4037.png
 name: Garuda Token
-platform: ETH
-platform_contract: '0x610740af3f25b72892ba21b98bfb8595f2cde386'

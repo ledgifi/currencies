@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe77011ed703ed06927dbd78e60c549bababf913e'
+    platform: BNB
 crypto: true
 fiat: false
 id: MBTC1
 id_coinmarketcap: '10245'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10245.png
 name: Micro Bitcoin Finance
-platform: BNB
-platform_contract: '0xe77011ed703ed06927dbd78e60c549bababf913e'

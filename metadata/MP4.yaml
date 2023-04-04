@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe1a0da60f8802b49cc36313bafade3f9e12342fd'
+    platform: ETH
 crypto: true
 fiat: false
 id: MP4
 id_coinmarketcap: '8597'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8597.png
 name: MP4
-platform: ETH
-platform_contract: '0xe1a0da60f8802b49cc36313bafade3f9e12342fd'

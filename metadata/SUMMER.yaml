@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4d4f3715050571a447fffa2cd4cf091c7014ca5c'
+    platform: ETH
 crypto: true
 fiat: false
 id: SUMMER
 id_coinmarketcap: '19936'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19936.png
 name: Summer
-platform: ETH
-platform_contract: '0x4d4f3715050571a447fffa2cd4cf091c7014ca5c'

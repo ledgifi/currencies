@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9cf98eb8a8b28c83e8612046cf55701ce3eb0063'
+    platform: ETH
 crypto: true
 fiat: false
 id: UGT
 id_coinmarketcap: '11292'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11292.png
 name: Unreal Finance
-platform: ETH
-platform_contract: '0x9cf98eb8a8b28c83e8612046cf55701ce3eb0063'

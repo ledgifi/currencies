@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe456a162039270a2a789dA2E8BD2B005a9835232'
+    platform: BNB
 crypto: true
 fiat: false
 id: PADX
 id_coinmarketcap: '19531'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19531.png
 name: Puzzle And Dragons X
-platform: BNB
-platform_contract: '0xe456a162039270a2a789dA2E8BD2B005a9835232'

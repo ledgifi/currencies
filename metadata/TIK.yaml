@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0922f1d808adc3a4444bed2f73fac53a1a2a5859'
+    platform: ETH
 crypto: true
 fiat: false
 id: TIK
 id_coinmarketcap: '11695'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11695.png
 name: ChronoBase
-platform: ETH
-platform_contract: '0x0922f1d808adc3a4444bed2f73fac53a1a2a5859'

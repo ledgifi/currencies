@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x37E808F084101F75783612407e7C3f5F92d8ee3F'
+    platform: ETH
 crypto: true
 fiat: false
 id: RI
 id_coinmarketcap: '7120'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7120.png
 name: RI Token
-platform: ETH
-platform_contract: '0x37E808F084101F75783612407e7C3f5F92d8ee3F'

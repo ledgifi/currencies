@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2e071D2966Aa7D8dECB1005885bA1977D6038A65'
+    platform: ETH
 crypto: true
 fiat: false
 id: DICE3
 id_coinmarketcap: '1677'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1677.png
 name: Etheroll
-platform: ETH
-platform_contract: '0x2e071D2966Aa7D8dECB1005885bA1977D6038A65'

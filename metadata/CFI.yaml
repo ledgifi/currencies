@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xAB5a0F7799D057F49f1Eeb8143B0182222e274AA'
+    platform: BNB
 crypto: true
 fiat: false
 id: CFI
 id_coinmarketcap: '22581'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22581.png
 name: Cryptofi
-platform: BNB
-platform_contract: '0xAB5a0F7799D057F49f1Eeb8143B0182222e274AA'

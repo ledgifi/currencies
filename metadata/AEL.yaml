@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x54c2a9edd2dd99502c831b76feb2bd6eadd9343a'
+    platform: BNB
 crypto: true
 fiat: false
 id: AEL
 id_coinmarketcap: '16165'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16165.png
 name: Spantale
-platform: BNB
-platform_contract: '0x54c2a9edd2dd99502c831b76feb2bd6eadd9343a'

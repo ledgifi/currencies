@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5fe52cfc3390751f610075646bebfbca5e937ff7'
+    platform: BNB
 crypto: true
 fiat: false
 id: TAX
 id_coinmarketcap: '19291'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19291.png
 name: MetaToll
-platform: BNB
-platform_contract: '0x5fe52cfc3390751f610075646bebfbca5e937ff7'

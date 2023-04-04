@@ -1,3 +1,6 @@
+contracts:
+  - address: BIDR-0E9
+    platform: BNB
 crypto: true
 decimals: 2
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: BIDR
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20200528/2edc3bdd-67f2-4689-86c9-2a7ffaa8a3b2.png
 logoKey: currencies/bidr.png
 name: BIDR
-platform: BNB
-platform_contract: BIDR-0E9

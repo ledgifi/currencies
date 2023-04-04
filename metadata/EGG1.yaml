@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6'
+    platform: BNB
 crypto: true
 fiat: false
 id: EGG1
 id_coinmarketcap: '8449'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8449.png
 name: Goose Finance
-platform: BNB
-platform_contract: '0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6'

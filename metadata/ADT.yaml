@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc008debbb1f33d9453ffd2104feb1fe7e9663524'
+    platform: BNB
 crypto: true
 fiat: false
 id: ADT
 id_coinmarketcap: '17369'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17369.png
 name: Dot Arcade
-platform: BNB
-platform_contract: '0xc008debbb1f33d9453ffd2104feb1fe7e9663524'

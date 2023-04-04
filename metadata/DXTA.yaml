@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xccc7023ed2c8215dc7e297d1d458d3ac9300b6f9'
+    platform: BNB
 crypto: true
 fiat: false
 id: DXTA
 id_coinmarketcap: '17065'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17065.png
 name: Dextera
-platform: BNB
-platform_contract: '0xccc7023ed2c8215dc7e297d1d458d3ac9300b6f9'

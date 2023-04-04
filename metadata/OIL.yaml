@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x500756c7d239aee30f52c7e52af4f4f008d1a98f'
+    platform: ARB
 crypto: true
 fiat: false
 id: OIL
 id_coinmarketcap: '22875'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22875.png
 name: Petroleum OIL
-platform: ARB
-platform_contract: '0x500756c7d239aee30f52c7e52af4f4f008d1a98f'

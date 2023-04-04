@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4EaafA85bDBe9B02930926C594F83e62B036B1be'
+    platform: TOMO
 crypto: true
 fiat: false
 id: TDAO2
 id_coinmarketcap: '19304'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19304.png
 name: TomoMasterDAO
-platform: TOMO
-platform_contract: '0x4EaafA85bDBe9B02930926C594F83e62B036B1be'

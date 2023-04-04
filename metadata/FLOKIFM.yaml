@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4317708Ad04D36AFDB0E7A5d62154D896B01b392'
+    platform: BNB
 crypto: true
 fiat: false
 id: FLOKIFM
 id_coinmarketcap: '14644'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14644.png
 name: FLOKIFOMO
-platform: BNB
-platform_contract: '0x4317708Ad04D36AFDB0E7A5d62154D896B01b392'

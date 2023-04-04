@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x367f881e42b83030dd73f0e2e8d951013ca97d16'
+    platform: BNB
 crypto: true
 fiat: false
 id: FLOKIPAD
 id_coinmarketcap: '15105'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15105.png
 name: FlokiPad
-platform: BNB
-platform_contract: '0x367f881e42b83030dd73f0e2e8d951013ca97d16'

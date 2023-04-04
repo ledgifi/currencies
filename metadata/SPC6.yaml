@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x21ea8618b9168eb8936c3e02f0809bbe901282ac'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPC6
 id_coinmarketcap: '11269'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11269.png
 name: SpacePort Coin
-platform: BNB
-platform_contract: '0x21ea8618b9168eb8936c3e02f0809bbe901282ac'

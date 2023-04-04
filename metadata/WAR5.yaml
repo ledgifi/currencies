@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCE842Fd2ebE59AeD59C30c728fcC2c3e1a9e88c4'
+    platform: BNB
 crypto: true
 fiat: false
 id: WAR5
 id_coinmarketcap: '11729'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11729.png
 name: Robot Wars
-platform: BNB
-platform_contract: '0xCE842Fd2ebE59AeD59C30c728fcC2c3e1a9e88c4'

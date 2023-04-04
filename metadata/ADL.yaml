@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x660e71483785f66133548B10f6926dC332b06e61'
+    platform: ETH
 crypto: true
 fiat: false
 id: ADL
 id_coinmarketcap: '1725'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1725.png
 name: Adelphoi
-platform: ETH
-platform_contract: '0x660e71483785f66133548B10f6926dC332b06e61'

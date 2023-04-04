@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x998b3b82bc9dba173990be7afb772788b5acb8bd'
+    platform: ETH
 crypto: true
 fiat: false
 id: BANCA
@@ -7,5 +10,3 @@ id_nomics: BANCA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/banca.svg
 logoKey: currencies/banca.svg
 name: Banca
-platform: ETH
-platform_contract: '0x998b3b82bc9dba173990be7afb772788b5acb8bd'

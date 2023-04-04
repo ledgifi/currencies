@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6B925F0C776263bF8B3579825e94E40a5631e1cE'
+    platform: BNB
 crypto: true
 fiat: false
 id: BDC1
 id_coinmarketcap: '17668'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17668.png
 name: Based Token
-platform: BNB
-platform_contract: '0x6B925F0C776263bF8B3579825e94E40a5631e1cE'

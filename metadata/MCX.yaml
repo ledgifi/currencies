@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd15ecdcf5ea68e3995b2d0527a0ae0a3258302f8'
+    platform: ETH
 crypto: true
 fiat: false
 id: MCX
 id_coinmarketcap: '6521'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6521.png
 name: Machi X
-platform: ETH
-platform_contract: '0xd15ecdcf5ea68e3995b2d0527a0ae0a3258302f8'

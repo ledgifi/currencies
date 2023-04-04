@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x42b91f1d05afea671a2da3c780eda2abf0a2a366'
+    platform: ETH
 crypto: true
 fiat: false
 id: MNB
 id_coinmarketcap: '23725'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23725.png
 name: Mineable
-platform: ETH
-platform_contract: '0x42b91f1d05afea671a2da3c780eda2abf0a2a366'

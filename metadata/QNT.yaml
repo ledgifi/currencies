@@ -1,4 +1,7 @@
 color: '#000000'
+contracts:
+  - address: '0x4a220e6096b25eadb88358cb44068a3248254675'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: QNT
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/qnt.svg
 logoKey: currencies/qnt.svg
 name: Quant
-platform: ETH
-platform_contract: '0x4a220e6096b25eadb88358cb44068a3248254675'

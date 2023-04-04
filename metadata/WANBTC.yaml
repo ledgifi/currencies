@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd15e200060fc17ef90546ad93c1c61bfefdc89c7'
+    platform: WAN
 crypto: true
 fiat: false
 id: WANBTC
 id_coinmarketcap: '8650'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8650.png
 name: wanBTC
-platform: WAN
-platform_contract: '0xd15e200060fc17ef90546ad93c1c61bfefdc89c7'

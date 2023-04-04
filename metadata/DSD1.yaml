@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbd2f0cd039e0bfcf88901c98c0bfac5ab27566e3'
+    platform: ETH
 crypto: true
 fiat: false
 id: DSD1
 id_coinmarketcap: '8106'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8106.png
 name: Dynamic Set Dollar
-platform: ETH
-platform_contract: '0xbd2f0cd039e0bfcf88901c98c0bfac5ab27566e3'

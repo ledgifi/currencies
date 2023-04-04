@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB4a8Aed9b705D780B29D48cCa2A6Ca9d63feaf14'
+    platform: BNB
 crypto: true
 fiat: false
 id: TNN
 id_coinmarketcap: '15778'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15778.png
 name: T99 Token
-platform: BNB
-platform_contract: '0xB4a8Aed9b705D780B29D48cCa2A6Ca9d63feaf14'

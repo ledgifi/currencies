@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA50c5EE5638ccDCB3eAea3ceB726659A2a109239'
+    platform: BNB
 crypto: true
 fiat: false
 id: TOP1
 id_coinmarketcap: '21479'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21479.png
 name: TOP ONE
-platform: BNB
-platform_contract: '0xA50c5EE5638ccDCB3eAea3ceB726659A2a109239'

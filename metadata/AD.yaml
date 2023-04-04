@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x538b972E46B86373638B14fa6F6a9C51f796394b'
+    platform: BNB
 crypto: true
 fiat: false
 id: AD
 id_coinmarketcap: '14172'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14172.png
 name: ADToken
-platform: BNB
-platform_contract: '0x538b972E46B86373638B14fa6F6a9C51f796394b'

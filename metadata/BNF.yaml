@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1DE5e000C41C8d35b9f1f4985C23988f05831057'
+    platform: ETH
 crypto: true
 fiat: false
 id: BNF
 id_coinmarketcap: '7436'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7436.png
 name: BonFi
-platform: ETH
-platform_contract: '0x1DE5e000C41C8d35b9f1f4985C23988f05831057'

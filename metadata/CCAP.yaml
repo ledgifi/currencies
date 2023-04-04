@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xBA94C527E780AFfcDcE175eB03FBa9df0e392d2D'
+    platform: BNB
 crypto: true
 fiat: false
 id: CCAP
 id_coinmarketcap: '12720'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12720.png
 name: CUEX Capital
-platform: BNB
-platform_contract: '0xBA94C527E780AFfcDcE175eB03FBa9df0e392d2D'

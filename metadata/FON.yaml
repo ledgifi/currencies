@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa4be4cDC552891a6702E1aE9645EF445179a4463'
+    platform: ETH
 crypto: true
 fiat: false
 id: FON
 id_coinmarketcap: '21711'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21711.png
 name: INOFI
-platform: ETH
-platform_contract: '0xa4be4cDC552891a6702E1aE9645EF445179a4463'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe75d3b39d017985caf20fac7134ed55b8b47cc26'
+    platform: ETH
 crypto: true
 fiat: false
 id: HATE
 id_coinmarketcap: '7352'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7352.png
 name: Heavens Gate
-platform: ETH
-platform_contract: '0xe75d3b39d017985caf20fac7134ed55b8b47cc26'

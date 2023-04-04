@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9F48d04025d537498E34a41DB53B4e872F3DCa07'
+    platform: BNB
 crypto: true
 fiat: false
 id: RBABY
 id_coinmarketcap: '22429'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22429.png
 name: RadioShack Babylonia
-platform: BNB
-platform_contract: '0x9F48d04025d537498E34a41DB53B4e872F3DCa07'

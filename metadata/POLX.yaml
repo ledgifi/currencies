@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x187ae45f2d361cbce37c6a8622119c91148f261b'
+    platform: MATIC
 crypto: true
 fiat: false
 id: POLX
@@ -7,5 +10,3 @@ id_nomics: POLX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POLX.jpg
 logoKey: currencies/polx.jpg
 name: Polylastic
-platform: MATIC
-platform_contract: '0x187ae45f2d361cbce37c6a8622119c91148f261b'

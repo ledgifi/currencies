@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4ce2db133035519f538b7849201d6d541972164c'
+    platform: BNB
 crypto: true
 fiat: false
 id: MBT2
 id_coinmarketcap: '14317'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14317.png
 name: MagicBox
-platform: BNB
-platform_contract: '0x4ce2db133035519f538b7849201d6d541972164c'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x41875c2332b0877cdfaa699b641402b7d4642c32'
+    platform: ETH
 crypto: true
 fiat: false
 id: FTXT
 id_coinmarketcap: '3219'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3219.png
 name: FUTURAX
-platform: ETH
-platform_contract: '0x41875c2332b0877cdfaa699b641402b7d4642c32'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA953736904e23Fafb42e353D4122420899999999'
+    platform: ETH
 crypto: true
 fiat: false
 id: FBS
 id_coinmarketcap: '19039'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19039.png
 name: forbitspace
-platform: ETH
-platform_contract: '0xA953736904e23Fafb42e353D4122420899999999'

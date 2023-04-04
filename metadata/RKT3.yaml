@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3936e06a3024e052D7b97F3827EBcb120fcb1262'
+    platform: BNB
 crypto: true
 fiat: false
 id: RKT3
 id_coinmarketcap: '17717'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17717.png
 name: Crypto Rocket Launch Plus
-platform: BNB
-platform_contract: '0x3936e06a3024e052D7b97F3827EBcb120fcb1262'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2dECB6d8789777910cA5e425370Bc9b6e5Eb7B9c'
+    platform: BNB
 crypto: true
 fiat: false
 id: WHE
 id_coinmarketcap: '12757'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12757.png
 name: Worthwhile
-platform: BNB
-platform_contract: '0x2dECB6d8789777910cA5e425370Bc9b6e5Eb7B9c'

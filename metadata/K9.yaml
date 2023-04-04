@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2bd0fb740e403b505a3146f9ac02df883fd5c3fc'
+    platform: ETH
 crypto: true
 fiat: false
 id: K9
 id_coinmarketcap: '23942'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23942.png
 name: K9
-platform: ETH
-platform_contract: '0x2bd0fb740e403b505a3146f9ac02df883fd5c3fc'

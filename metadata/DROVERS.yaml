@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2d5b47a42984713f6Ef447e1A95EB9a21007a02d'
+    platform: BNB
 crypto: true
 fiat: false
 id: DROVERS
 id_coinmarketcap: '20358'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20358.png
 name: Drover Inu
-platform: BNB
-platform_contract: '0x2d5b47a42984713f6Ef447e1A95EB9a21007a02d'

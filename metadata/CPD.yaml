@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9b31bb425d8263fa1b8b9d090b83cf0c31665355'
+    platform: ETH
 crypto: true
 fiat: false
 id: CPD
 id_coinmarketcap: '10919'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10919.png
 name: CoinsPaid
-platform: ETH
-platform_contract: '0x9b31bb425d8263fa1b8b9d090b83cf0c31665355'

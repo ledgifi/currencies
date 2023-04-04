@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1bdc5e5aa2749b4934c33441e050b8854b77a331'
+    platform: ETH
 crypto: true
 fiat: false
 id: FINU2
 id_coinmarketcap: '13648'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13648.png
 name: First Inu
-platform: ETH
-platform_contract: '0x1bdc5e5aa2749b4934c33441e050b8854b77a331'

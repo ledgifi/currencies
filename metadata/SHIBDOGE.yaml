@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6adb2e268de2aa1abf6578e4a8119b960e02928f'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHIBDOGE
 id_coinmarketcap: '16500'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16500.png
 name: ShibaDoge
-platform: ETH
-platform_contract: '0x6adb2e268de2aa1abf6578e4a8119b960e02928f'

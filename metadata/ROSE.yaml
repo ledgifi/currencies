@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x26B80FBfC01b71495f477d5237071242e0d959d7'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: ROSE
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20211014/db08a7d7-75bf-40d2-a59c-ded7e6d9eeb1.png
 logoKey: currencies/rose.png
 name: Oasis Network
-platform: ETH
-platform_contract: '0x26B80FBfC01b71495f477d5237071242e0d959d7'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe5904e9816b309d3ed4d061c922f5aa8f3b24c92'
+    platform: BNB
 crypto: true
 fiat: false
 id: NFTL3
 id_coinmarketcap: '8784'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8784.png
 name: NFTL Token
-platform: BNB
-platform_contract: '0xe5904e9816b309d3ed4d061c922f5aa8f3b24c92'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf74941046389c78f12fe44784c0ec9ca7ceb7dc2'
+    platform: ETH
 crypto: true
 fiat: false
 id: DMR
 id_coinmarketcap: '11897'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11897.png
 name: Dreamr
-platform: ETH
-platform_contract: '0xf74941046389c78f12fe44784c0ec9ca7ceb7dc2'

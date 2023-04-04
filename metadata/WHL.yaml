@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2af72850c504ddd3c1876c66a914caee7ff8a46a'
+    platform: ETH
 crypto: true
 fiat: false
 id: WHL
 id_coinmarketcap: '8560'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8560.png
 name: WhaleRoom
-platform: ETH
-platform_contract: '0x2af72850c504ddd3c1876c66a914caee7ff8a46a'

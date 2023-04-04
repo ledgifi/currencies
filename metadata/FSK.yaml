@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x55E63EC9f5FB21372235fC88b9f6D6EC78aEEc21'
+    platform: BNB
 crypto: true
 fiat: false
 id: FSK
 id_coinmarketcap: '18442'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18442.png
 name: Farm Skylines Token
-platform: BNB
-platform_contract: '0x55E63EC9f5FB21372235fC88b9f6D6EC78aEEc21'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7754c0584372D29510C019136220f91e25a8f706'
+    platform: BNB
 crypto: true
 fiat: false
 id: FNDZ
 id_coinmarketcap: '11452'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11452.png
 name: FNDZ
-platform: BNB
-platform_contract: '0x7754c0584372D29510C019136220f91e25a8f706'

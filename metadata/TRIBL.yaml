@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6988A804C74Fd04F37DA1EA4781CEa68c9C00F86'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRIBL
 id_coinmarketcap: '19009'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19009.png
 name: Tribal Token
-platform: ETH
-platform_contract: '0x6988A804C74Fd04F37DA1EA4781CEa68c9C00F86'

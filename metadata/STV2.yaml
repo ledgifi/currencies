@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x226e390751a2e22449d611bac83bd267f2a2caff'
+    platform: ETH
 crypto: true
 fiat: false
 id: STV2
 id_coinmarketcap: '7810'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7810.png
 name: STVKE
-platform: ETH
-platform_contract: '0x226e390751a2e22449d611bac83bd267f2a2caff'

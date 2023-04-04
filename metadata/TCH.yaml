@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9b39a0b97319a9bd5fed217c1db7b030453bac91'
+    platform: ETH
 crypto: true
 fiat: false
 id: TCH
 id_coinmarketcap: '3806'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3806.png
 name: TigerCash
-platform: ETH
-platform_contract: '0x9b39a0b97319a9bd5fed217c1db7b030453bac91'

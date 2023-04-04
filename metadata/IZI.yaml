@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9ad37205d608b8b219e6a2573f922094cec5c200'
+    platform: ETH
 crypto: true
 fiat: false
 id: IZI
 id_coinmarketcap: '16305'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16305.png
 name: Izumi Finance
-platform: ETH
-platform_contract: '0x9ad37205d608b8b219e6a2573f922094cec5c200'

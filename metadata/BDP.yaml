@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf3dcbc6D72a4E1892f7917b7C43b74131Df8480e'
+    platform: ETH
 crypto: true
 fiat: false
 id: BDP
 id_coinmarketcap: '8708'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8708.png
 name: Big Data Protocol
-platform: ETH
-platform_contract: '0xf3dcbc6D72a4E1892f7917b7C43b74131Df8480e'

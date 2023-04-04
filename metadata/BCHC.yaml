@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2ab05b915c30093679165bcdba9c26d8cd8bee99'
+    platform: ETH
 crypto: true
 fiat: false
 id: BCHC
 id_coinmarketcap: '5803'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5803.png
 name: BitCherry
-platform: ETH
-platform_contract: '0x2ab05b915c30093679165bcdba9c26d8cd8bee99'

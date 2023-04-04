@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x210c14fbecc2bd9b6231199470da12ad45f64d45'
+    platform: BNB
 crypto: true
 fiat: false
 id: EL2
 id_coinmarketcap: '11992'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11992.png
 name: EL RUNE - Rune.Game
-platform: BNB
-platform_contract: '0x210c14fbecc2bd9b6231199470da12ad45f64d45'

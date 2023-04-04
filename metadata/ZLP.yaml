@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x94d8db14831c2c08943798542c450df2844913e5'
+    platform: ETH
 crypto: true
 fiat: false
 id: ZLP
 id_coinmarketcap: '7611'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7611.png
 name: Zuplo
-platform: ETH
-platform_contract: '0x94d8db14831c2c08943798542c450df2844913e5'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1a8006d0A5fa2D0Baae74f5571133787B9B150dc'
+    platform: BNB
 crypto: true
 fiat: false
 id: DRIFT
 id_coinmarketcap: '20284'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20284.png
 name: DriftDelivery.CC
-platform: BNB
-platform_contract: '0x1a8006d0A5fa2D0Baae74f5571133787B9B150dc'

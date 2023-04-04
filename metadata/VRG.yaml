@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCDF204cBBaA96eD34bE4497d6794Dfb54E4c66bC'
+    platform: BNB
 crypto: true
 fiat: false
 id: VRG
 id_coinmarketcap: '23140'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23140.png
 name: Virtual Reality Glasses
-platform: BNB
-platform_contract: '0xCDF204cBBaA96eD34bE4497d6794Dfb54E4c66bC'

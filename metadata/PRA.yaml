@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9041Fe5B3FDEA0f5e4afDC17e75180738D877A01'
+    platform: ETH
 crypto: true
 fiat: false
 id: PRA
 id_coinmarketcap: '2275'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2275.png
 name: ProChain
-platform: ETH
-platform_contract: '0x9041Fe5B3FDEA0f5e4afDC17e75180738D877A01'

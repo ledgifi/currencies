@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4f39c3319188A723003670c3F9B9e7EF991E52F3'
+    platform: BNB
 crypto: true
 fiat: false
 id: FIGHT
 id_coinmarketcap: '16035'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16035.png
 name: Crypto Fight Club
-platform: BNB
-platform_contract: '0x4f39c3319188A723003670c3F9B9e7EF991E52F3'

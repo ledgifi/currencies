@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE798e8f65E4252A55FFc552C17C576Ba9B05C15b'
+    platform: BNB
 crypto: true
 fiat: false
 id: BOB3
 id_coinmarketcap: '14643'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14643.png
 name: Baby o Baby
-platform: BNB
-platform_contract: '0xE798e8f65E4252A55FFc552C17C576Ba9B05C15b'

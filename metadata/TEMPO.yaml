@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x88a425b738682f58c0ff9fcf2cceb47a361ef4cf'
+    platform: AVAX
 crypto: true
 fiat: false
 id: TEMPO
 id_coinmarketcap: '15379'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15379.png
 name: Tempo DAO
-platform: AVAX
-platform_contract: '0x88a425b738682f58c0ff9fcf2cceb47a361ef4cf'

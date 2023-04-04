@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xea4931bfcf3260da6dbf0550e27f5c214e3c268b'
+    platform: ETH
 crypto: true
 fiat: false
 id: MOZOX
 id_coinmarketcap: '6232'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6232.png
 name: Mozox
-platform: ETH
-platform_contract: '0xea4931bfcf3260da6dbf0550e27f5c214e3c268b'

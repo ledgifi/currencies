@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x043ab85da1d804a03c411e9a1d61c12ff99f0b02'
+    platform: BNB
 crypto: true
 fiat: false
 id: PERSIA
 id_coinmarketcap: '17541'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17541.png
 name: Persia
-platform: BNB
-platform_contract: '0x043ab85da1d804a03c411e9a1d61c12ff99f0b02'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa573661b5fb2063d7ab12336ee24589f7a79fdab'
+    platform: ETH
 crypto: true
 fiat: false
 id: ICHX
 id_coinmarketcap: '3749'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3749.png
 name: IceChain
-platform: ETH
-platform_contract: '0xa573661b5fb2063d7ab12336ee24589f7a79fdab'

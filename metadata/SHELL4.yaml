@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x01c16da6E041Cf203959624Ade1F39652973D0EB'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHELL4
 id_coinmarketcap: '12848'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12848.png
 name: Clam Island
-platform: BNB
-platform_contract: '0x01c16da6E041Cf203959624Ade1F39652973D0EB'

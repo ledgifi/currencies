@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xDA71E3eC0d579FED5dbABa31eEaD3cEB9e77A928'
+    platform: BNB
 crypto: true
 fiat: false
 id: GOT
 id_coinmarketcap: '20035'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20035.png
 name: 'Era7: Game of Truth'
-platform: BNB
-platform_contract: '0xDA71E3eC0d579FED5dbABa31eEaD3cEB9e77A928'

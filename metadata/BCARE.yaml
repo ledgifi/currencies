@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x511798118e18f0c51acabf138427d6caadeccc76'
+    platform: ETH
 crypto: true
 fiat: false
 id: BCARE
 id_coinmarketcap: '16744'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16744.png
 name: Bitcarecoin
-platform: ETH
-platform_contract: '0x511798118e18f0c51acabf138427d6caadeccc76'

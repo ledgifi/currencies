@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x48fa42D579CE56Cc2797E4d678AD7345A27999B9'
+    platform: ETH
 crypto: true
 fiat: false
 id: BLX1
 id_coinmarketcap: '5881'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5881.png
 name: Balloon-X
-platform: ETH
-platform_contract: '0x48fa42D579CE56Cc2797E4d678AD7345A27999B9'

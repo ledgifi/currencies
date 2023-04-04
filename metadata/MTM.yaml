@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3244478Da3F518B33b99D5929Dd0bC3396C56981'
+    platform: BNB
 crypto: true
 fiat: false
 id: MTM
 id_coinmarketcap: '19101'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19101.png
 name: MetaMate
-platform: BNB
-platform_contract: '0x3244478Da3F518B33b99D5929Dd0bC3396C56981'

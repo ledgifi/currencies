@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c'
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: WBNB
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220218/9aae8ada-ae10-459a-b8fb-006ad41cd948.png
 logoKey: currencies/wbnb.png
 name: Wrapped BNB
-platform: BNB
-platform_contract: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c'

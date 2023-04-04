@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfa95e589ebebc6423b3945189d3fe6f1aeb3f058'
+    platform: BNB
 crypto: true
 fiat: false
 id: CHORSE
 id_coinmarketcap: '17833'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17833.png
 name: CryptoHorse
-platform: BNB
-platform_contract: '0xfa95e589ebebc6423b3945189d3fe6f1aeb3f058'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa693b19d2931d498c5b318df961919bb4aee87a5'
+    platform: ETH
 crypto: true
 fiat: false
 id: USTC1
 id_coinmarketcap: '15610'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15610.png
 name: Terra Classic USD (Wormhole)
-platform: ETH
-platform_contract: '0xa693b19d2931d498c5b318df961919bb4aee87a5'

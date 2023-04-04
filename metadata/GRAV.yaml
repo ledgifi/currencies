@@ -1,8 +1,9 @@
+contracts:
+  - address: ibc/E97634A40119F1898989C2A23224ED83FDD0A57EA46B3A094E287288D1672B44
+    platform: ATOM
 crypto: true
 fiat: false
 id: GRAV
 id_coinmarketcap: '20381'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20381.png
 name: Graviton
-platform: ATOM
-platform_contract: ibc/E97634A40119F1898989C2A23224ED83FDD0A57EA46B3A094E287288D1672B44

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc54083e77f913a4f99e1232ae80c318ff03c9d17'
+    platform: ETH
 crypto: true
 fiat: false
 id: CIT
 id_coinmarketcap: '3292'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3292.png
 name: CariNet
-platform: ETH
-platform_contract: '0xc54083e77f913a4f99e1232ae80c318ff03c9d17'

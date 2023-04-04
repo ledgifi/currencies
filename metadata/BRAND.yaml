@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4d993ec7b44276615bb2f6f20361ab34fbf0ec49'
+    platform: BNB
 crypto: true
 fiat: false
 id: BRAND
 id_coinmarketcap: '13399'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13399.png
 name: BrandPad Finance
-platform: BNB
-platform_contract: '0x4d993ec7b44276615bb2f6f20361ab34fbf0ec49'

@@ -1,3 +1,6 @@
+contracts:
+  - address: ibc/A8CA5EE328FA10C9519DF6057DA1F69682D28F7D0F5CCC7ECB72E3DCA2D157A4
+    platform: ATOM
 crypto: true
 fiat: false
 id: STRD
@@ -6,5 +9,3 @@ id_nomics: STRD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STRD.png
 logoKey: currencies/strd.png
 name: Stride
-platform: ATOM
-platform_contract: ibc/A8CA5EE328FA10C9519DF6057DA1F69682D28F7D0F5CCC7ECB72E3DCA2D157A4

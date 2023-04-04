@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xBBf8c8F9B79808bE0bC8d24f2c7A5111B47E230B'
+    platform: BNB
 crypto: true
 fiat: false
 id: BFS
 id_coinmarketcap: '20231'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20231.png
 name: BiFarms Network
-platform: BNB
-platform_contract: '0xBBf8c8F9B79808bE0bC8d24f2c7A5111B47E230B'

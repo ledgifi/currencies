@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7909111BfABA55EbCD88051ca9Dff0c4d93EACe5'
+    platform: BNB
 crypto: true
 fiat: false
 id: MAOE
 id_coinmarketcap: '19508'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19508.png
 name: Meta Age of Empires
-platform: BNB
-platform_contract: '0x7909111BfABA55EbCD88051ca9Dff0c4d93EACe5'

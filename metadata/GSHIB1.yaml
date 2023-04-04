@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc0e39cbac6a5c5cdcdf2c1a1c29cbf5917754943'
+    platform: BNB
 crypto: true
 fiat: false
 id: GSHIB1
 id_coinmarketcap: '14583'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14583.png
 name: GenshinShibInu
-platform: BNB
-platform_contract: '0xc0e39cbac6a5c5cdcdf2c1a1c29cbf5917754943'

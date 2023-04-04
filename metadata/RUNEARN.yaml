@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x82d2c560b9affff5049be54536c922a462d717e4'
+    platform: BNB
 crypto: true
 fiat: false
 id: RUNEARN
 id_coinmarketcap: '22051'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22051.png
 name: RunEarner
-platform: BNB
-platform_contract: '0x82d2c560b9affff5049be54536c922a462d717e4'

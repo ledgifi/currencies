@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xDFDb7f72c1F195C5951a234e8DB9806EB0635346'
+    platform: ETH
 crypto: true
 fiat: false
 id: NFD
@@ -7,5 +10,3 @@ id_nomics: NFD3
 logo: https://static.coinpaprika.com/coin/nfd-feisty-doge-nft/logo.png
 logoKey: currencies/nfd.png
 name: Feisty Doge NFT
-platform: ETH
-platform_contract: '0xDFDb7f72c1F195C5951a234e8DB9806EB0635346'

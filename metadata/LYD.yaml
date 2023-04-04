@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084'
+    platform: AVAX
 crypto: true
 fiat: false
 id: LYD
 id_coinmarketcap: '11191'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11191.png
 name: Lydia Finance
-platform: AVAX
-platform_contract: '0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xDd848E0CbFD3771dC7845B10072d973C375271e2'
+    platform: BNB
 crypto: true
 fiat: false
 id: LANC
 id_coinmarketcap: '10666'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10666.png
 name: Lanceria
-platform: BNB
-platform_contract: '0xDd848E0CbFD3771dC7845B10072d973C375271e2'

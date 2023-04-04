@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe7094edf87a4e307590d011fb2db50219131d9ed'
+    platform: ETH
 crypto: true
 fiat: false
 id: WILLIE1
 id_coinmarketcap: '22361'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22361.png
 name: World Cup Willie
-platform: ETH
-platform_contract: '0xe7094edf87a4e307590d011fb2db50219131d9ed'

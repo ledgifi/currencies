@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7F100f58E4Cec7B56c113ea0295239051d5E6402'
+    platform: ETH
 crypto: true
 fiat: false
 id: DNP1
 id_coinmarketcap: '20532'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20532.png
 name: DNP
-platform: ETH
-platform_contract: '0x7F100f58E4Cec7B56c113ea0295239051d5E6402'

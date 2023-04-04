@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8e7788ee2b1d3e5451e182035d6b2b566c2fe997'
+    platform: BNB
 crypto: true
 fiat: false
 id: ZOO4
 id_coinmarketcap: '11284'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11284.png
 name: CryptoZoo (old)
-platform: BNB
-platform_contract: '0x8e7788ee2b1d3e5451e182035d6b2b566c2fe997'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x85e5682cc4513358f765cb8df98f1dd140c6cf86'
+    platform: BNB
 crypto: true
 fiat: false
 id: MOR1
 id_coinmarketcap: '9571'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9571.png
 name: Mirror Farm
-platform: BNB
-platform_contract: '0x85e5682cc4513358f765cb8df98f1dd140c6cf86'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x0fcbc31c503b4a9ed90e87f8ff46c318a4a14260'
+    platform: ETH
 crypto: true
 fiat: false
 id: QTF
@@ -7,5 +10,3 @@ id_nomics: QTF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QTF.jpg
 logoKey: currencies/qtf.jpg
 name: Quantfury Token
-platform: ETH
-platform_contract: '0x0fcbc31c503b4a9ed90e87f8ff46c318a4a14260'

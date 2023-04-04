@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2cd24aaf0aeabde7f830d6719eeb8eb3837712de'
+    platform: BNB
 crypto: true
 fiat: false
 id: TMON
 id_coinmarketcap: '19093'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19093.png
 name: Two Monkey Juice Bar
-platform: BNB
-platform_contract: '0x2cd24aaf0aeabde7f830d6719eeb8eb3837712de'

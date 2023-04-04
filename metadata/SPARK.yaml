@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x683b383e9d6cc523f4c9764dacebb5752892fc53'
+    platform: BNB
 crypto: true
 fiat: false
 id: Spark
 id_coinmarketcap: '13884'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13884.png
 name: SparkLab
-platform: BNB
-platform_contract: '0x683b383e9d6cc523f4c9764dacebb5752892fc53'

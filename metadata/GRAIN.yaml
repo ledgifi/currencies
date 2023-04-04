@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6589fe1271a0f29346796c6baf0cdf619e25e58e'
+    platform: ETH
 crypto: true
 fiat: false
 id: GRAIN
 id_coinmarketcap: '7940'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7940.png
 name: Grain
-platform: ETH
-platform_contract: '0x6589fe1271a0f29346796c6baf0cdf619e25e58e'

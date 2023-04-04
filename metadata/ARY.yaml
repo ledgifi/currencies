@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa5f8fc0921880cb7342368bd128eb8050442b1a1'
+    platform: ETH
 crypto: true
 fiat: false
 id: ARY
 id_coinmarketcap: '2445'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2445.png
 name: Block Array
-platform: ETH
-platform_contract: '0xa5f8fc0921880cb7342368bd128eb8050442b1a1'

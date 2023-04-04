@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x37863ea4bf6ef836bC8bE909221BAF09A2aF43d7'
+    platform: FTM
 crypto: true
 fiat: false
 id: DRACO1
 id_coinmarketcap: '18180'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18180.png
 name: Draco.Finance
-platform: FTM
-platform_contract: '0x37863ea4bf6ef836bC8bE909221BAF09A2aF43d7'

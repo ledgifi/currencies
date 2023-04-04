@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4fe9f52ec23f6805f2fd0332a34da4f1c135b024'
+    platform: ETH
 crypto: true
 fiat: false
 id: CAI3
 id_coinmarketcap: '4745'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4745.png
 name: Cai Token
-platform: ETH
-platform_contract: '0x4fe9f52ec23f6805f2fd0332a34da4f1c135b024'

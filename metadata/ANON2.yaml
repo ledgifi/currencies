@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2dcb6f84cc76a888aed21efc86ac7492879866c3'
+    platform: ETH
 crypto: true
 fiat: false
 id: ANON2
 id_coinmarketcap: '7693'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7693.png
 name: Anonyme
-platform: ETH
-platform_contract: '0x2dcb6f84cc76a888aed21efc86ac7492879866c3'

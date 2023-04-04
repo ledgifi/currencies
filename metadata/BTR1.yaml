@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x499a6b77bc25c26bcf8265e2102b1b3dd1617024'
+    platform: ETH
 crypto: true
 fiat: false
 id: BTR1
 id_coinmarketcap: '3256'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3256.png
 name: Bitether
-platform: ETH
-platform_contract: '0x499a6b77bc25c26bcf8265e2102b1b3dd1617024'

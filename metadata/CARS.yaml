@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1228Fb5eF4C98CaBd696Ba1BD4819e050389D21A'
+    platform: BNB
 crypto: true
 fiat: false
 id: CARS
 id_coinmarketcap: '12241'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12241.png
 name: Crypto Cars World
-platform: BNB
-platform_contract: '0x1228Fb5eF4C98CaBd696Ba1BD4819e050389D21A'

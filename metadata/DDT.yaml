@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x28a899e29235e973a69e7c5df833d8cd63985fce'
+    platform: BNB
 crypto: true
 fiat: false
 id: DDT
 id_coinmarketcap: '15113'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15113.png
 name: DAR
-platform: BNB
-platform_contract: '0x28a899e29235e973a69e7c5df833d8cd63985fce'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x261638EC8ee8100484130EBD2fEBfDAdC0D8742a'
+    platform: ETH
 crypto: true
 fiat: false
 id: LVX
 id_coinmarketcap: '5094'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5094.png
 name: Level01
-platform: ETH
-platform_contract: '0x261638EC8ee8100484130EBD2fEBfDAdC0D8742a'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf8a3dc13b7a8da473f80660f513c4343e4edd7f7'
+    platform: ETH
 crypto: true
 fiat: false
 id: LOTEU
 id_coinmarketcap: '4624'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4624.png
 name: LOTEU
-platform: ETH
-platform_contract: '0xf8a3dc13b7a8da473f80660f513c4343e4edd7f7'

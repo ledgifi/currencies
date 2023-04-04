@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x83DD5794D844BB4bD630c2FAcC45A77729232991'
+    platform: BNB
 crypto: true
 fiat: false
 id: BALPAC
 id_coinmarketcap: '12104'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12104.png
 name: Baby Alpaca
-platform: BNB
-platform_contract: '0x83DD5794D844BB4bD630c2FAcC45A77729232991'

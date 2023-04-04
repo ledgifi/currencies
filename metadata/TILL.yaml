@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2e1cf529dbd26f5f62a89ba723f2918de72f2487'
+    platform: KLAY
 crypto: true
 fiat: false
 id: TILL
 id_coinmarketcap: '23088'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23088.png
 name: Tillage
-platform: KLAY
-platform_contract: '0x2e1cf529dbd26f5f62a89ba723f2918de72f2487'

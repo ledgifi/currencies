@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6Aa91CbfE045f9D154050226fCc830ddbA886CED'
+    platform: BNB
 crypto: true
 fiat: false
 id: PLGR
 id_coinmarketcap: '11526'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11526.png
 name: Pledge
-platform: BNB
-platform_contract: '0x6Aa91CbfE045f9D154050226fCc830ddbA886CED'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc3dca8f61b275d1e88f3ea31b3e311c49f56b24b'
+    platform: ETH
 crypto: true
 fiat: false
 id: NPICK
 id_coinmarketcap: '19805'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19805.png
 name: NPICK BLOCK
-platform: ETH
-platform_contract: '0xc3dca8f61b275d1e88f3ea31b3e311c49f56b24b'

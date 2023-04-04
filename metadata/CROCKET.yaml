@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfb7d68be68f7d01c98472fdfb62ca2e10c6f6ee1'
+    platform: BNB
 crypto: true
 fiat: false
 id: CROCKET
 id_coinmarketcap: '17103'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17103.png
 name: CryptoRockets
-platform: BNB
-platform_contract: '0xfb7d68be68f7d01c98472fdfb62ca2e10c6f6ee1'

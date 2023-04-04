@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xafada1f81109430729422a4548a65022e8e34898'
+    platform: BNB
 crypto: true
 fiat: false
 id: CRPRO
 id_coinmarketcap: '15017'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15017.png
 name: Crystal Pro
-platform: BNB
-platform_contract: '0xafada1f81109430729422a4548a65022e8e34898'

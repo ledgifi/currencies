@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc3344870d52688874b06d844E0C36cc39FC727F6'
+    platform: AVAX
 crypto: true
 fiat: false
 id: ankrAVAX
 id_coinmarketcap: '20666'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20666.png
 name: Ankr Staked AVAX
-platform: AVAX
-platform_contract: '0xc3344870d52688874b06d844E0C36cc39FC727F6'

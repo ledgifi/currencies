@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf93e77f8f6c7af96f96112826205ba1982faed85'
+    platform: BNB
 crypto: true
 fiat: false
 id: MICRO1
 id_coinmarketcap: '13664'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13664.png
 name: MicroDexWallet
-platform: BNB
-platform_contract: '0xf93e77f8f6c7af96f96112826205ba1982faed85'

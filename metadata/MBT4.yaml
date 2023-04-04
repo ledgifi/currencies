@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc42b81292cdf84a1b01c24bbac94043b12a3478f'
+    platform: ETH
 crypto: true
 fiat: false
 id: MBT4
 id_coinmarketcap: '16730'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16730.png
 name: MysticBets
-platform: ETH
-platform_contract: '0xc42b81292cdf84a1b01c24bbac94043b12a3478f'

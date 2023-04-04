@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa66daa57432024023db65477ba87d4e7f5f95213'
+    platform: ETH
 crypto: true
 fiat: false
 id: HPT
 id_coinmarketcap: '3721'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3721.png
 name: Huobi Pool Token
-platform: ETH
-platform_contract: '0xa66daa57432024023db65477ba87d4e7f5f95213'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x420Ab548B18911717Ed7C4CCBF46371EA758458C'
+    platform: ETH
 crypto: true
 fiat: false
 id: NOODLE
 id_coinmarketcap: '6858'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6858.png
 name: NOODLE Finance
-platform: ETH
-platform_contract: '0x420Ab548B18911717Ed7C4CCBF46371EA758458C'

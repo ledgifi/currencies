@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8d1427a32f0a4c4bf052252e68e7ff1b2ba80c01'
+    platform: BNB
 crypto: true
 fiat: false
 id: RXT
 id_coinmarketcap: '22076'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22076.png
 name: RIMAUNANGIS
-platform: BNB
-platform_contract: '0x8d1427a32f0a4c4bf052252e68e7ff1b2ba80c01'

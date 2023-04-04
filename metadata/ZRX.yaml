@@ -1,4 +1,7 @@
 color: '#302c2c'
+contracts:
+  - address: '0xe41d2489571d322189246dafa5ebde1f4699f498'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: ZRX
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/zrx.svg
 logoKey: currencies/zrx.svg
 name: 0x
-platform: ETH
-platform_contract: '0xe41d2489571d322189246dafa5ebde1f4699f498'

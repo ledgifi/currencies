@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3d06cb9e8fa1c7638a8b3d8d8b8755f1f6b7164b'
+    platform: BNB
 crypto: true
 fiat: false
 id: DELTAF
 id_coinmarketcap: '16977'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16977.png
 name: DeltaFlip
-platform: BNB
-platform_contract: '0x3d06cb9e8fa1c7638a8b3d8d8b8755f1f6b7164b'

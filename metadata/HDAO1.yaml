@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2be0A5e31903B3b58F467DB0e62Be8df6B070EDB'
+    platform: MATIC
 crypto: true
 fiat: false
 id: HDAO1
 id_coinmarketcap: '19029'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19029.png
 name: HDAO
-platform: MATIC
-platform_contract: '0x2be0A5e31903B3b58F467DB0e62Be8df6B070EDB'

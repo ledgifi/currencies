@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8e03e380E6ac69B76DE7590d67296a7Eb1fFcd59'
+    platform: BNB
 crypto: true
 fiat: false
 id: APPLE
 id_coinmarketcap: '18178'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18178.png
 name: AppleSwap
-platform: BNB
-platform_contract: '0x8e03e380E6ac69B76DE7590d67296a7Eb1fFcd59'

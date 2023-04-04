@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x0f2D719407FdBeFF09D87557AbB7232601FD9F29'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -6,5 +9,3 @@ id_binance: '1165'
 id_coinmarketcap: '12147'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12147.png
 name: Synapse
-platform: ETH
-platform_contract: '0x0f2D719407FdBeFF09D87557AbB7232601FD9F29'

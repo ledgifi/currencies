@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0962840397b0ebbfbb152930acb0583e94f49b5c'
+    platform: BNB
 crypto: true
 fiat: false
 id: MB
 id_coinmarketcap: '16867'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16867.png
 name: Milk and Butter
-platform: BNB
-platform_contract: '0x0962840397b0ebbfbb152930acb0583e94f49b5c'

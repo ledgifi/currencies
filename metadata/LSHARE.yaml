@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcbe0ca46399af916784cadf5bcc3aed2052d6c45'
+    platform: FTM
 crypto: true
 fiat: false
 id: LSHARE
 id_coinmarketcap: '20728'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20728.png
 name: LIF3 LSHARE
-platform: FTM
-platform_contract: '0xcbe0ca46399af916784cadf5bcc3aed2052d6c45'

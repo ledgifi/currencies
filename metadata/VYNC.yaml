@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xee1ae38be4ce0074c4a4a8dc821cc784778f378c'
+    platform: BNB
 crypto: true
 fiat: false
 id: VYNC
 id_coinmarketcap: '9057'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9057.png
 name: VYNK CHAIN
-platform: BNB
-platform_contract: '0xee1ae38be4ce0074c4a4a8dc821cc784778f378c'

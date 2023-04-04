@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc528c28fec0a90c083328bc45f587ee215760a0f'
+    platform: ETH
 crypto: true
 fiat: false
 id: EDR
 id_coinmarketcap: '2835'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2835.png
 name: Endor Protocol
-platform: ETH
-platform_contract: '0xc528c28fec0a90c083328bc45f587ee215760a0f'

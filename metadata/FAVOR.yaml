@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe79efff8a61567d932be2a8c33057f7b2a8bc43b'
+    platform: KLAY
 crypto: true
 fiat: false
 id: FAVOR
 id_coinmarketcap: '20301'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20301.png
 name: Favor
-platform: KLAY
-platform_contract: '0xe79efff8a61567d932be2a8c33057f7b2a8bc43b'

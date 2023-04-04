@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaa54e84A3e6e5A80288d2C2f8e36eA5cA3A3Ca30'
+    platform: ARB
 crypto: true
 fiat: false
 id: SHARBI
 id_coinmarketcap: '23523'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23523.png
 name: SHARBI
-platform: ARB
-platform_contract: '0xaa54e84A3e6e5A80288d2C2f8e36eA5cA3A3Ca30'

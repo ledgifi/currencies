@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x601938988f0fdd937373ea185c33751462b1d194'
+    platform: ETH
 crypto: true
 fiat: false
 id: ETHPY
 id_coinmarketcap: '7049'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7049.png
 name: Etherpay
-platform: ETH
-platform_contract: '0x601938988f0fdd937373ea185c33751462b1d194'

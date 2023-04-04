@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x290f330145719f9b47568b9C027440DF30dE7b10'
+    platform: BNB
 crypto: true
 fiat: false
 id: AOE
 id_coinmarketcap: '10415'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10415.png
 name: Asset of Empires
-platform: BNB
-platform_contract: '0x290f330145719f9b47568b9C027440DF30dE7b10'

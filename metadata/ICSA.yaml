@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfc4913214444af5c715cc9f7b52655e788a569ed'
+    platform: ETH
 crypto: true
 fiat: false
 id: ICSA
 id_coinmarketcap: '22129'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22129.png
 name: Icosa
-platform: ETH
-platform_contract: '0xfc4913214444af5c715cc9f7b52655e788a569ed'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x632806BF5c8f062932Dd121244c9fbe7becb8B48'
+    platform: ETH
 crypto: true
 fiat: false
 id: PDI1
 id_coinmarketcap: '20302'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20302.png
 name: Phuture DeFi Index
-platform: ETH
-platform_contract: '0x632806BF5c8f062932Dd121244c9fbe7becb8B48'

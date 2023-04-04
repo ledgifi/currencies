@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7ab6eedd9443e0e98e5ea93667ca5b250b8dda51'
+    platform: BNB
 crypto: true
 fiat: false
 id: WGOLD
 id_coinmarketcap: '9332'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9332.png
 name: APWars
-platform: BNB
-platform_contract: '0x7ab6eedd9443e0e98e5ea93667ca5b250b8dda51'

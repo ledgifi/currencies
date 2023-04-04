@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1E02cdbbA6729B6470de81Ad4D2cCA4c514521b9'
+    platform: ETH
 crypto: true
 fiat: false
 id: MOT
 id_coinmarketcap: '11322'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11322.png
 name: Mobius Finance
-platform: ETH
-platform_contract: '0x1E02cdbbA6729B6470de81Ad4D2cCA4c514521b9'

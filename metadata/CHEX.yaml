@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9Ce84F6A69986a83d92C324df10bC8E64771030f'
+    platform: ETH
 crypto: true
 fiat: false
 id: CHEX
 id_coinmarketcap: '8534'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8534.png
 name: Chintai
-platform: ETH
-platform_contract: '0x9Ce84F6A69986a83d92C324df10bC8E64771030f'

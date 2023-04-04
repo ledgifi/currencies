@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xa96f3414334F5A0A529ff5d9D8ea95f42147b8C9'
+    platform: BNB
 crypto: true
 fiat: false
 id: RISKMOON
@@ -7,5 +10,3 @@ id_nomics: RISKMOON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RISKMOON.jpg
 logoKey: currencies/riskmoon.jpg
 name: Riskmoon
-platform: BNB
-platform_contract: '0xa96f3414334F5A0A529ff5d9D8ea95f42147b8C9'

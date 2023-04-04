@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x96E3BD1915483eD6E6569e908a0F6F49434557eD'
+    platform: BNB
 crypto: true
 fiat: false
 id: DGAT
 id_coinmarketcap: '13418'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13418.png
 name: Doge Army Token
-platform: BNB
-platform_contract: '0x96E3BD1915483eD6E6569e908a0F6F49434557eD'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0a2046C7fAa5a5F2b38C0599dEB4310AB781CC83'
+    platform: BNB
 crypto: true
 fiat: false
 id: META12
 id_coinmarketcap: '14705'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14705.png
 name: MetaversePRO
-platform: BNB
-platform_contract: '0x0a2046C7fAa5a5F2b38C0599dEB4310AB781CC83'

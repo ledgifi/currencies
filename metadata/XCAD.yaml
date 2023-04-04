@@ -1,3 +1,6 @@
+contracts:
+  - address: zil1z5l74hwy3pc3pr3gdh3nqju4jlyp0dzkhq2f5y
+    platform: ZIL
 crypto: true
 fiat: false
 id: XCAD
@@ -6,5 +9,3 @@ id_nomics: XCAD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XCAD2.jpg
 logoKey: currencies/xcad.jpg
 name: XCAD Network
-platform: ZIL
-platform_contract: zil1z5l74hwy3pc3pr3gdh3nqju4jlyp0dzkhq2f5y

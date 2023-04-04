@@ -1,4 +1,7 @@
 color: '#2ebac6'
+contracts:
+  - address: '0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: AAVE
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/aave.svg
 logoKey: currencies/aave.svg
 name: Aave
-platform: ETH
-platform_contract: '0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9'

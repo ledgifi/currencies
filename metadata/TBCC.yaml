@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xf29480344d8e21efeab7fde39f8d8299056a7fea'
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_coinpaprika: tbcc-tbcc
 id_nomics: TBCC
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8487.png
 name: TBCC
-platform: BNB
-platform_contract: '0xf29480344d8e21efeab7fde39f8d8299056a7fea'

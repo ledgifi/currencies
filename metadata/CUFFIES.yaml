@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5A4b1e06a6FC1f0BA58097FB481Db295C4989B3a'
+    platform: BNB
 crypto: true
 fiat: false
 id: CUFFIES
 id_coinmarketcap: '17341'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17341.png
 name: Cuffies
-platform: BNB
-platform_contract: '0x5A4b1e06a6FC1f0BA58097FB481Db295C4989B3a'

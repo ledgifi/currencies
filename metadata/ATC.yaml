@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0fAD86Cc1b412b330494E350Bf1dC1994AC55c9e'
+    platform: ETH
 crypto: true
 fiat: false
 id: ATC
 id_coinmarketcap: '22039'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22039.png
 name: Atlantis Coin
-platform: ETH
-platform_contract: '0x0fAD86Cc1b412b330494E350Bf1dC1994AC55c9e'

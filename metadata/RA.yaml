@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x413fc0343c72d2d4bd676b91cb6e8929ac4e72c0'
+    platform: BNB
 crypto: true
 fiat: false
 id: RA
 id_coinmarketcap: '22351'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22351.png
 name: Rabona
-platform: BNB
-platform_contract: '0x413fc0343c72d2d4bd676b91cb6e8929ac4e72c0'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1b7cc2E9DfeAdc0AA3c283D727C50DF84558dA59'
+    platform: BNB
 crypto: true
 fiat: false
 id: BAO
 id_coinmarketcap: '22330'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22330.png
 name: BAO
-platform: BNB
-platform_contract: '0x1b7cc2E9DfeAdc0AA3c283D727C50DF84558dA59'

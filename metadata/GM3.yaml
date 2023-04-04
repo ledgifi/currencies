@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x35609dC59E15d03c5c865507e1348FA5abB319A8'
+    platform: ETH
 crypto: true
 fiat: false
 id: GM3
 id_coinmarketcap: '17454'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17454.png
 name: GhostMarket
-platform: ETH
-platform_contract: '0x35609dC59E15d03c5c865507e1348FA5abB319A8'

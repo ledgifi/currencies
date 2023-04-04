@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd606199557c8ab6f4cc70bd03facc96ca576f142'
+    platform: AVAX
 crypto: true
 fiat: false
 id: GDL
 id_coinmarketcap: '10449'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10449.png
 name: Gondola Finance
-platform: AVAX
-platform_contract: '0xd606199557c8ab6f4cc70bd03facc96ca576f142'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3a91A88Ef4bB813BB99EF5a745bcb56e3A3b403b'
+    platform: BNB
 crypto: true
 fiat: false
 id: INCOME
 id_coinmarketcap: '15422'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15422.png
 name: Income Island Token
-platform: BNB
-platform_contract: '0x3a91A88Ef4bB813BB99EF5a745bcb56e3A3b403b'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xAbC430136A4dE71c9998242de8c1b4B97D2b9045'
+    platform: ETH
 crypto: true
 fiat: false
 id: VRS1
 id_coinmarketcap: '1465'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1465.png
 name: Veros
-platform: ETH
-platform_contract: '0xAbC430136A4dE71c9998242de8c1b4B97D2b9045'

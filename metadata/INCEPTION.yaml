@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x16bfc05cceb5af6ad7b923b1e796906dc01e5c57'
+    platform: BNB
 crypto: true
 fiat: false
 id: INCEPTION
 id_coinmarketcap: '11411'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11411.png
 name: INUCEPTION
-platform: BNB
-platform_contract: '0x16bfc05cceb5af6ad7b923b1e796906dc01e5c57'

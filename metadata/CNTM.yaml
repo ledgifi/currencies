@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9a1bf361798ef6538ccb8137ea900c4d4b48ca3d'
+    platform: ETH
 crypto: true
 fiat: false
 id: CNTM
 id_coinmarketcap: '6039'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6039.png
 name: Connectome
-platform: ETH
-platform_contract: '0x9a1bf361798ef6538ccb8137ea900c4d4b48ca3d'

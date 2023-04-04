@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0927f81524dce83123760e2f3bf195afa9d07dcc'
+    platform: ETH
 crypto: true
 fiat: false
 id: EGWCAP
 id_coinmarketcap: '3969'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3969.png
 name: EGW Capital
-platform: ETH
-platform_contract: '0x0927f81524dce83123760e2f3bf195afa9d07dcc'

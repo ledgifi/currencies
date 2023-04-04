@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: FXS
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210218/bb15375b-eed0-41b9-9596-0cfdf9879173.png
 logoKey: currencies/fxs.png
 name: Frax Share
-platform: ETH
-platform_contract: '0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0'

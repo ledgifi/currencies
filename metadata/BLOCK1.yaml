@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbC7A566b85eF73F935e640A06b5a8b031Cd975Df'
+    platform: BNB
 crypto: true
 fiat: false
 id: BLOCK1
 id_coinmarketcap: '15752'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15752.png
 name: Blockasset
-platform: BNB
-platform_contract: '0xbC7A566b85eF73F935e640A06b5a8b031Cd975Df'

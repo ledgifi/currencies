@@ -1,4 +1,7 @@
 color: '#272731'
+contracts:
+  - address: '0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: CDT
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/cdt.svg
 logoKey: currencies/cdt.svg
 name: Blox
-platform: ETH
-platform_contract: '0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af'

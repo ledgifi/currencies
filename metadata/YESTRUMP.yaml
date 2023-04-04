@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5963fd7ca9b17b85768476019f81cb43d9d1818e'
+    platform: ETH
 crypto: true
 fiat: false
 id: YESTRUMP
 id_coinmarketcap: '7418'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7418.png
 name: Dai If Trump Wins The 2020 Election
-platform: ETH
-platform_contract: '0x5963fd7ca9b17b85768476019f81cb43d9d1818e'

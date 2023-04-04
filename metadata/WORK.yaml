@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6002410dda2fb88b4d0dc3c1d562f7761191ea80'
+    platform: MATIC
 crypto: true
 fiat: false
 id: WORK
 id_coinmarketcap: '12170'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12170.png
 name: The Employment Commons Work Token
-platform: MATIC
-platform_contract: '0x6002410dda2fb88b4d0dc3c1d562f7761191ea80'

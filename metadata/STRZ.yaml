@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1D67454f6b393542290a7bBEeA32c66148909b34'
+    platform: AVAX
 crypto: true
 fiat: false
 id: STRZ
 id_coinmarketcap: '18121'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18121.png
 name: Starnodes
-platform: AVAX
-platform_contract: '0x1D67454f6b393542290a7bBEeA32c66148909b34'

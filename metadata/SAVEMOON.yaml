@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x96df3508143b3c8918ac1b22ab111e44efeb27ec'
+    platform: BNB
 crypto: true
 fiat: false
 id: SAVEMOON
 id_coinmarketcap: '12615'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12615.png
 name: We Save Moon
-platform: BNB
-platform_contract: '0x96df3508143b3c8918ac1b22ab111e44efeb27ec'

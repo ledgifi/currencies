@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x9F7fC686CfD64aA5Ae15b351d03071e91533094b'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRACE
@@ -5,5 +8,3 @@ id_coinmarketcap: '17724'
 id_nomics: TRACE
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17724.png
 name: Trace Network Labs
-platform: ETH
-platform_contract: '0x9F7fC686CfD64aA5Ae15b351d03071e91533094b'

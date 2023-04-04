@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc67b12049c2d0cf6e476bc64c7f82fc6c63cffc5'
+    platform: ETH
 crypto: true
 fiat: false
 id: GDT
 id_coinmarketcap: '9188'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9188.png
 name: Globe Derivative Exchange
-platform: ETH
-platform_contract: '0xc67b12049c2d0cf6e476bc64c7f82fc6c63cffc5'

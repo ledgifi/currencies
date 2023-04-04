@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa95c5ebb86e0de73b4fb8c47a45b792cfea28c23'
+    platform: ETH
 crypto: true
 fiat: false
 id: SDL1
 id_coinmarketcap: '22906'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22906.png
 name: stake.link
-platform: ETH
-platform_contract: '0xa95c5ebb86e0de73b4fb8c47a45b792cfea28c23'

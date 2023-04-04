@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1c5db575e2ff833e46a2e9864c22f4b22e0b37c2'
+    platform: ETH
 crypto: true
 fiat: false
 id: RENZEC
 id_coinmarketcap: '8904'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8904.png
 name: renZEC
-platform: ETH
-platform_contract: '0x1c5db575e2ff833e46a2e9864c22f4b22e0b37c2'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x87869A9789291A6cEC99f3c3Ef2fF71fcEb12a8e'
+    platform: ETH
 crypto: true
 fiat: false
 id: CMOS
 id_coinmarketcap: '23609'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23609.png
 name: CoinMerge OS
-platform: ETH
-platform_contract: '0x87869A9789291A6cEC99f3c3Ef2fF71fcEb12a8e'

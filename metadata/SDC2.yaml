@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x672d15d2b8fb13f5295fab4b2e82b394ab967de6'
+    platform: BNB
 crypto: true
 fiat: false
 id: SDC2
 id_coinmarketcap: '19634'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19634.png
 name: SkyDOS
-platform: BNB
-platform_contract: '0x672d15d2b8fb13f5295fab4b2e82b394ab967de6'

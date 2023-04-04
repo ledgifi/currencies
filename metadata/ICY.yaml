@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8903e8f101d86ea097efe104a3d53f4c42cb44bc'
+    platform: ETH
 crypto: true
 fiat: false
 id: ICY
 id_coinmarketcap: '4922'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4922.png
 name: ICURY
-platform: ETH
-platform_contract: '0x8903e8f101d86ea097efe104a3d53f4c42cb44bc'

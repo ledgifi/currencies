@@ -1,4 +1,7 @@
 color: '#044aac'
+contracts:
+  - address: '0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: EVX
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/evx.svg
 logoKey: currencies/evx.svg
 name: Everex
-platform: ETH
-platform_contract: '0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8'

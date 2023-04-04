@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE57425F1598f9b0d6219706b77f4b3DA573a3695'
+    platform: ETH
 crypto: true
 fiat: false
 id: BTCBR
 id_coinmarketcap: '16251'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16251.png
 name: BitcoinBR
-platform: ETH
-platform_contract: '0xE57425F1598f9b0d6219706b77f4b3DA573a3695'

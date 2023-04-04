@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcae636167db2369bd746f2bcba79a6e8b0d4e000'
+    platform: ETH
 crypto: true
 fiat: false
 id: EAC
 id_coinmarketcap: '19812'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19812.png
 name: EAC
-platform: ETH
-platform_contract: '0xcae636167db2369bd746f2bcba79a6e8b0d4e000'

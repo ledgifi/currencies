@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x34e4a7454cae15990850166a8771cb8408b62a26'
+    platform: BNB
 crypto: true
 fiat: false
 id: FLX4
 id_coinmarketcap: '17769'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17769.png
 name: Felix
-platform: BNB
-platform_contract: '0x34e4a7454cae15990850166a8771cb8408b62a26'

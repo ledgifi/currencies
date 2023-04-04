@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x11A2Ab94adE17e96197C78f9D5f057332a19a0b9'
+    platform: ETH
 crypto: true
 fiat: false
 id: ORBI
 id_coinmarketcap: '6676'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6676.png
 name: Orbicular
-platform: ETH
-platform_contract: '0x11A2Ab94adE17e96197C78f9D5f057332a19a0b9'

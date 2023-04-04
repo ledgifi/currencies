@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x82A618305706B14e7bcf2592D4B9324A366b6dAd'
+    platform: ETC
 crypto: true
 fiat: false
 id: WETC
 id_coinmarketcap: '21307'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21307.png
 name: WETC
-platform: ETC
-platform_contract: '0x82A618305706B14e7bcf2592D4B9324A366b6dAd'

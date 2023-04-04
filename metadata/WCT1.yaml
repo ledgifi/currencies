@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6BEbA42177C92A098Fc44B00FC9812420957089b'
+    platform: BNB
 crypto: true
 fiat: false
 id: WCT1
 id_coinmarketcap: '21098'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21098.png
 name: World Cup Token
-platform: BNB
-platform_contract: '0x6BEbA42177C92A098Fc44B00FC9812420957089b'

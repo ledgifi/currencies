@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x87e28bd5499e6846141a85659bc7f0cf815db11d'
+    platform: MATIC
 crypto: true
 fiat: false
 id: QUA
 id_coinmarketcap: '17084'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17084.png
 name: Quantum
-platform: MATIC
-platform_contract: '0x87e28bd5499e6846141a85659bc7f0cf815db11d'

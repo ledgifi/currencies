@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6f39a029c81118a84d26d86ea8ec0eac2ff6c422'
+    platform: BNB
 crypto: true
 fiat: false
 id: BOGDANOFF
 id_coinmarketcap: '18057'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18057.png
 name: Bogdanoff Forever
-platform: BNB
-platform_contract: '0x6f39a029c81118a84d26d86ea8ec0eac2ff6c422'

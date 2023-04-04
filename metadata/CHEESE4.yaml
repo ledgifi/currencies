@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfB01CE6b28597daCc703A385865D4f637e104297'
+    platform: BNB
 crypto: true
 fiat: false
 id: CHEESE4
 id_coinmarketcap: '18264'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18264.png
 name: Cheese (V1)
-platform: BNB
-platform_contract: '0xfB01CE6b28597daCc703A385865D4f637e104297'

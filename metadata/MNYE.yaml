@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0be27c140f9bdad3474beaff0a413ec7e19e9b93'
+    platform: GLMR
 crypto: true
 fiat: false
 id: MNYE
 id_coinmarketcap: '19937'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19937.png
 name: ETH Market Neutral Yield
-platform: GLMR
-platform_contract: '0x0be27c140f9bdad3474beaff0a413ec7e19e9b93'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x20be82943e8d9c682580e11d424ec15db95b4a24'
+    platform: ETH
 crypto: true
 fiat: false
 id: NB
 id_coinmarketcap: '15832'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15832.png
 name: No Bull
-platform: ETH
-platform_contract: '0x20be82943e8d9c682580e11d424ec15db95b4a24'

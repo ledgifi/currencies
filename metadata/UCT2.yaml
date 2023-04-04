@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x802fc33f170aedeca12e4f04a959bec9c16bc836'
+    platform: BNB
 crypto: true
 fiat: false
 id: UCT2
 id_coinmarketcap: '15149'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15149.png
 name: UniCAKE
-platform: BNB
-platform_contract: '0x802fc33f170aedeca12e4f04a959bec9c16bc836'

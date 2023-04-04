@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6361f338ab8def2af3f2a1be7bd8a7db3156f7e7'
+    platform: ETH
 crypto: true
 fiat: false
 id: PRBLY
 id_coinmarketcap: '20067'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20067.png
 name: Probably Nothing
-platform: ETH
-platform_contract: '0x6361f338ab8def2af3f2a1be7bd8a7db3156f7e7'

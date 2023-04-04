@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2F1778B7b4a34AE5CFccC50CEEDdA6C27eB9b0F3'
+    platform: ETH
 crypto: true
 fiat: false
 id: FCX
 id_coinmarketcap: '5022'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5022.png
 name: Flynet Coin
-platform: ETH
-platform_contract: '0x2F1778B7b4a34AE5CFccC50CEEDdA6C27eB9b0F3'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbf52f2ab39e26e0951d2a02b49b7702abe30406a'
+    platform: ETH
 crypto: true
 fiat: false
 id: ODE
 id_coinmarketcap: '2631'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2631.png
 name: ODEM
-platform: ETH
-platform_contract: '0xbf52f2ab39e26e0951d2a02b49b7702abe30406a'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x688478f003b8d0f10b8af2122bf20378555ef958'
+    platform: ETH
 crypto: true
 fiat: false
 id: BOLTT
 id_coinmarketcap: '3789'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3789.png
 name: 'Boltt Coin '
-platform: ETH
-platform_contract: '0x688478f003b8d0f10b8af2122bf20378555ef958'

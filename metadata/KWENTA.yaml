@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x920Cf626a271321C151D027030D5d08aF699456b'
+    platform: OP
 crypto: true
 fiat: false
 id: KWENTA
 id_coinmarketcap: '21929'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21929.png
 name: Kwenta
-platform: OP
-platform_contract: '0x920Cf626a271321C151D027030D5d08aF699456b'

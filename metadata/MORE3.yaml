@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd6163cec51f2e7c5974f3f4ce8fdb9c80abf142e'
+    platform: BNB
 crypto: true
 fiat: false
 id: MORE3
 id_coinmarketcap: '23325'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23325.png
 name: Mythic Ore
-platform: BNB
-platform_contract: '0xd6163cec51f2e7c5974f3f4ce8fdb9c80abf142e'

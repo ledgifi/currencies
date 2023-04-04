@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5755e18d86c8a6d7a6e25296782cb84661e6c106'
+    platform: BNB
 crypto: true
 fiat: false
 id: SK
 id_coinmarketcap: '17782'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17782.png
 name: SideKick Token
-platform: BNB
-platform_contract: '0x5755e18d86c8a6d7a6e25296782cb84661e6c106'

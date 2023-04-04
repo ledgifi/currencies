@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0c7c5b92893A522952EB4c939aA24B65FF910C48'
+    platform: ETH
 crypto: true
 fiat: false
 id: PORT1
 id_coinmarketcap: '11022'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11022.png
 name: PackagePortal
-platform: ETH
-platform_contract: '0x0c7c5b92893A522952EB4c939aA24B65FF910C48'

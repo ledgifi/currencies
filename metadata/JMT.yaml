@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xda022ca91df99413e8cb0caab4d1cba4e9018bea'
+    platform: ETH
 crypto: true
 fiat: false
 id: JMT
 id_coinmarketcap: '4561'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4561.png
 name: JMTIME
-platform: ETH
-platform_contract: '0xda022ca91df99413e8cb0caab4d1cba4e9018bea'

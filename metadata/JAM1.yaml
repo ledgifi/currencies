@@ -1,8 +1,9 @@
+contracts:
+  - address: 0.0.127877
+    platform: HBAR
 crypto: true
 fiat: false
 id: JAM1
 id_coinmarketcap: '11420'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11420.png
 name: Tune.FM
-platform: HBAR
-platform_contract: 0.0.127877

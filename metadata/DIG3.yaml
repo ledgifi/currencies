@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc34830df33b2b95e00e647aaa57246b6981dcbe1'
+    platform: BNB
 crypto: true
 fiat: false
 id: DIG3
 id_coinmarketcap: '22155'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22155.png
 name: DIEGO
-platform: BNB
-platform_contract: '0xc34830df33b2b95e00e647aaa57246b6981dcbe1'

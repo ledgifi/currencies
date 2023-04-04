@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x839e71613f9aA06E5701CF6de63E303616B0DDE3'
+    platform: ETH
 crypto: true
 fiat: false
 id: VVS
@@ -6,5 +9,3 @@ id_nomics: VVS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VVS.jpg
 logoKey: currencies/vvs.jpg
 name: VVS Finance
-platform: ETH
-platform_contract: '0x839e71613f9aA06E5701CF6de63E303616B0DDE3'

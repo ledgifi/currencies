@@ -1,8 +1,9 @@
+contracts:
+  - address: wrBTCqVjkpqktbqN3CeGVSzQ9PFiPonHN98uwEpwMsy
+    platform: SOL
 crypto: true
 fiat: false
 id: WRBTC
 id_coinmarketcap: '18969'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18969.png
 name: Bitcoin Accumulator (Player 2)
-platform: SOL
-platform_contract: wrBTCqVjkpqktbqN3CeGVSzQ9PFiPonHN98uwEpwMsy

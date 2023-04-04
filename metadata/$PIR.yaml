@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0e3c91ed7d966ff1f7b58ab739a55e3c4473cd27'
+    platform: ETH
 crypto: true
 fiat: false
 id: $PIR
 id_coinmarketcap: '8013'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8013.png
 name: PIRANHAS
-platform: ETH
-platform_contract: '0x0e3c91ed7d966ff1f7b58ab739a55e3c4473cd27'

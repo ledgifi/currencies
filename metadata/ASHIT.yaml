@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x331226a9d62be729adead1419fb99736fd8ae233'
+    platform: BNB
 crypto: true
 fiat: false
 id: ASHIT
 id_coinmarketcap: '18145'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18145.png
 name: AstroShit
-platform: BNB
-platform_contract: '0x331226a9d62be729adead1419fb99736fd8ae233'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x22e5e3e5cd12042c532394437627bc5ea9708afe'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHIBTARO
 id_coinmarketcap: '17497'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17497.png
 name: Shib Taro
-platform: ETH
-platform_contract: '0x22e5e3e5cd12042c532394437627bc5ea9708afe'

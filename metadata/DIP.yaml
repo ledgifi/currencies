@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc719d010b63e5bbf2c0551872cd5316ed26acd83'
+    platform: ETH
 crypto: true
 fiat: false
 id: DIP
 id_coinmarketcap: '6588'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6588.png
 name: Etherisc DIP Token
-platform: ETH
-platform_contract: '0xc719d010b63e5bbf2c0551872cd5316ed26acd83'

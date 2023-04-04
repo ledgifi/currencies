@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB'
+    platform: BNB
 crypto: true
 fiat: false
 id: PEEL
 id_coinmarketcap: '21013'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21013.png
 name: Meta Apes
-platform: BNB
-platform_contract: '0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB'

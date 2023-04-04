@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2dda7c99973cba879ed67601f7bf65316874a7a7'
+    platform: BNB
 crypto: true
 fiat: false
 id: IBNB2
 id_coinmarketcap: '14192'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14192.png
 name: iBNB (new)
-platform: BNB
-platform_contract: '0x2dda7c99973cba879ed67601f7bf65316874a7a7'

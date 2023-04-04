@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xadebeafcdcf5de0a5a7f7dfdd467b0e9fb205be9'
+    platform: ETH
 crypto: true
 fiat: false
 id: OCP2
 id_coinmarketcap: '4318'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4318.png
 name: OCP
-platform: ETH
-platform_contract: '0xadebeafcdcf5de0a5a7f7dfdd467b0e9fb205be9'

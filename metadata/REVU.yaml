@@ -1,8 +1,9 @@
+contracts:
+  - address: 94cbb4fcbcaa2975779f273b263eb3b5f24a9951e446d6dc4c135864.REVU
+    platform: ADA
 crypto: true
 fiat: false
 id: REVU
 id_coinmarketcap: '12173'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12173.png
 name: Revuto
-platform: ADA
-platform_contract: 94cbb4fcbcaa2975779f273b263eb3b5f24a9951e446d6dc4c135864.REVU

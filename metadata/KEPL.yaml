@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x000aA5384e9d90a6CD1d2D4Ce3eC605570F7BBBF'
+    platform: BNB
 crypto: true
 fiat: false
 id: KEPL
 id_coinmarketcap: '21698'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21698.png
 name: KeplerHomes
-platform: BNB
-platform_contract: '0x000aA5384e9d90a6CD1d2D4Ce3eC605570F7BBBF'

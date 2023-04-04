@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xD90E69f67203EBE02c917B5128629E77B4cd92dc'
+    platform: ETH
 crypto: true
 fiat: false
 id: ONC
 id_coinmarketcap: '8159'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8159.png
 name: One Cash
-platform: ETH
-platform_contract: '0xD90E69f67203EBE02c917B5128629E77B4cd92dc'

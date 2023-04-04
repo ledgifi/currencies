@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xeD35af169aF46a02eE13b9d79Eb57d6D68C1749e'
+    platform: ETH
 crypto: true
 fiat: false
 id: OMI
@@ -7,5 +10,3 @@ id_nomics: OMI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OMI.png
 logoKey: currencies/omi.png
 name: ECOMI
-platform: ETH
-platform_contract: '0xeD35af169aF46a02eE13b9d79Eb57d6D68C1749e'

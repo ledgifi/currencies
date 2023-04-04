@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6d60a8dfb16d09f67d46fcd36a0cd310078257ca'
+    platform: ETH
 crypto: true
 fiat: false
 id: CIX
 id_coinmarketcap: '22992'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22992.png
 name: Centurion Invest
-platform: ETH
-platform_contract: '0x6d60a8dfb16d09f67d46fcd36a0cd310078257ca'

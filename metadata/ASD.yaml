@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xff742d05420b6aca4481f635ad8341f81a6300c2'
+    platform: ETH
 crypto: true
 fiat: false
 id: ASD
 id_coinmarketcap: '3673'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3673.png
 name: ASD
-platform: ETH
-platform_contract: '0xff742d05420b6aca4481f635ad8341f81a6300c2'

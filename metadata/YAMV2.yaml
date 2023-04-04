@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a'
+    platform: ETH
 crypto: true
 fiat: false
 id: YAMV2
 id_coinmarketcap: '6657'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6657.png
 name: YAM V2
-platform: ETH
-platform_contract: '0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a'

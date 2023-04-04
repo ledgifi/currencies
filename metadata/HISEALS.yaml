@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x286f851b049ccce1419e09b6468dc3297f86a703'
+    platform: ETH
 crypto: true
 fiat: false
 id: HISEALS
 id_coinmarketcap: '23670'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23670.png
 name: hiSEALS
-platform: ETH
-platform_contract: '0x286f851b049ccce1419e09b6468dc3297f86a703'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc7d5a5df6ae030520366ef8a300543941b99e843'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BMG
 id_coinmarketcap: '11581'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11581.png
 name: Black Market Gaming
-platform: MATIC
-platform_contract: '0xc7d5a5df6ae030520366ef8a300543941b99e843'

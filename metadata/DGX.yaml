@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf'
+    platform: ETH
 crypto: true
 fiat: false
 id: DGX
 id_coinmarketcap: '2739'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2739.png
 name: Digix Gold Token
-platform: ETH
-platform_contract: '0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf'

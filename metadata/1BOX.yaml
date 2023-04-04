@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x82160113b730fC0B36C18795CC976fda93ccc1e1'
+    platform: BNB
 crypto: true
 fiat: false
 id: 1BOX
 id_coinmarketcap: '14348'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14348.png
 name: 1BOX
-platform: BNB
-platform_contract: '0x82160113b730fC0B36C18795CC976fda93ccc1e1'

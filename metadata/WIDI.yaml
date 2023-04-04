@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa361c79783833524dc7838399a4862b5f47038b8'
+    platform: BNB
 crypto: true
 fiat: false
 id: WIDI
 id_coinmarketcap: '15221'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15221.png
 name: WidiLand
-platform: BNB
-platform_contract: '0xa361c79783833524dc7838399a4862b5f47038b8'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5e0812B1a3A8d5b7198A726D1D6F03EFA3aE2Bf4'
+    platform: ETH
 crypto: true
 fiat: false
 id: IYKYK
 id_coinmarketcap: '22438'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22438.png
 name: IYKYK
-platform: ETH
-platform_contract: '0x5e0812B1a3A8d5b7198A726D1D6F03EFA3aE2Bf4'

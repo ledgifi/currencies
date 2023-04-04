@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xac5470280C680956b1851F4ef9330F32E6fd243F'
+    platform: ETH
 crypto: true
 fiat: false
 id: KNG
 id_coinmarketcap: '5360'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5360.png
 name: KingCoin
-platform: ETH
-platform_contract: '0xac5470280C680956b1851F4ef9330F32E6fd243F'

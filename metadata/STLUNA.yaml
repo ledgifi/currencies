@@ -1,8 +1,9 @@
+contracts:
+  - address: terra1yg3j2s986nyp5z7r2lvt0hx3r0lnd7kwvwwtsc
+    platform: LUNC
 crypto: true
 fiat: false
 id: stLUNA
 id_coinmarketcap: '17484'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17484.png
 name: Lido Staked LUNA
-platform: LUNC
-platform_contract: terra1yg3j2s986nyp5z7r2lvt0hx3r0lnd7kwvwwtsc

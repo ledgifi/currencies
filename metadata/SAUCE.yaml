@@ -1,8 +1,9 @@
+contracts:
+  - address: https://hashscan.io/#/mainnet/token/0.0.731861
+    platform: HBAR
 crypto: true
 fiat: false
 id: SAUCE
 id_coinmarketcap: '21914'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21914.png
 name: SaucerSwap
-platform: HBAR
-platform_contract: https://hashscan.io/#/mainnet/token/0.0.731861

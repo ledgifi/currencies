@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4be10da47a07716af28ad199fbe020501bddd7af'
+    platform: ETH
 crypto: true
 fiat: false
 id: XT
 id_coinmarketcap: '5999'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5999.png
 name: XT.com Token
-platform: ETH
-platform_contract: '0x4be10da47a07716af28ad199fbe020501bddd7af'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4b7ad3a56810032782afce12d7d27122bdb96eff'
+    platform: ETH
 crypto: true
 fiat: false
 id: SPRKL
 id_coinmarketcap: '3780'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3780.png
 name: Sparkle Loyalty
-platform: ETH
-platform_contract: '0x4b7ad3a56810032782afce12d7d27122bdb96eff'

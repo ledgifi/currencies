@@ -1,8 +1,9 @@
+contracts:
+  - address: cx6139a27c15f1653471ffba0b4b88dc15de7e3267
+    platform: ICX
 crypto: true
 fiat: false
 id: GBET
 id_coinmarketcap: '17436'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17436.png
 name: GangstaBet
-platform: ICX
-platform_contract: cx6139a27c15f1653471ffba0b4b88dc15de7e3267

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc7fba797141f5392094e3dca8943ca7d8b6f92d8'
+    platform: BNB
 crypto: true
 fiat: false
 id: RSHIB
 id_coinmarketcap: '14976'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14976.png
 name: ROBOT SHIB
-platform: BNB
-platform_contract: '0xc7fba797141f5392094e3dca8943ca7d8b6f92d8'

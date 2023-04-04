@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x93CfE232311F49B53D4285cd54D31261980496BA'
+    platform: ETH
 crypto: true
 fiat: false
 id: DIYAR
 id_coinmarketcap: '17057'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17057.png
 name: Diyarbekirspor Token
-platform: ETH
-platform_contract: '0x93CfE232311F49B53D4285cd54D31261980496BA'

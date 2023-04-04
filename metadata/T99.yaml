@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe9A5C635c51002Fa5f377F956A8CE58573D63d91'
+    platform: BNB
 crypto: true
 fiat: false
 id: T99
 id_coinmarketcap: '23089'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23089.png
 name: TETHEREUM
-platform: BNB
-platform_contract: '0xe9A5C635c51002Fa5f377F956A8CE58573D63d91'

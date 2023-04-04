@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x923276653fc289DaF155E1ff5aA21EF3e4643D94'
+    platform: BNB
 crypto: true
 fiat: false
 id: TTS
 id_coinmarketcap: '16722'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16722.png
 name: Token TT-Swap
-platform: BNB
-platform_contract: '0x923276653fc289DaF155E1ff5aA21EF3e4643D94'

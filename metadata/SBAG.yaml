@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xeb6dbdb14b0045557a8587b32767ae0dace9ff73'
+    platform: BNB
 crypto: true
 fiat: false
 id: SBAG
 id_coinmarketcap: '10187'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10187.png
 name: SafeBag
-platform: BNB
-platform_contract: '0xeb6dbdb14b0045557a8587b32767ae0dace9ff73'

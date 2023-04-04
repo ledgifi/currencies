@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x66cf8375fd083e7d103d69378e9af20f1b46dc59'
+    platform: ONE
 crypto: true
 fiat: false
 id: HPLAY
 id_coinmarketcap: '17266'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17266.png
 name: Harmony Play
-platform: ONE
-platform_contract: '0x66cf8375fd083e7d103d69378e9af20f1b46dc59'

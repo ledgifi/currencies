@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x17FEa92CA2e7570d07b63ecD6B698e01386555A4'
+    platform: BNB
 crypto: true
 fiat: false
 id: COX1
 id_coinmarketcap: '15538'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15538.png
 name: COXSWAP
-platform: BNB
-platform_contract: '0x17FEa92CA2e7570d07b63ecD6B698e01386555A4'

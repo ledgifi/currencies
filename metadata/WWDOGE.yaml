@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb7ddc6414bf4f5515b52d8bdd69973ae205ff101'
+    platform: DOGE
 crypto: true
 fiat: false
 id: WWDOGE
 id_coinmarketcap: '21415'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21415.png
 name: Wrapped WDOGE
-platform: DOGE
-platform_contract: '0xb7ddc6414bf4f5515b52d8bdd69973ae205ff101'

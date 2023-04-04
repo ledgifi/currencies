@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x52F8d048Ba279556dd981036e7fa0345B5a90c7a'
+    platform: BNB
 crypto: true
 fiat: false
 id: CGC
 id_coinmarketcap: '17508'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17508.png
 name: HeroesTD CGC
-platform: BNB
-platform_contract: '0x52F8d048Ba279556dd981036e7fa0345B5a90c7a'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc949fc82a15964fb5b97e5cf8f9ffed139086821'
+    platform: ETH
 crypto: true
 fiat: false
 id: PGPAY
 id_coinmarketcap: '5451'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5451.png
 name: Puregold
-platform: ETH
-platform_contract: '0xc949fc82a15964fb5b97e5cf8f9ffed139086821'

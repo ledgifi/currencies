@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x00281dfce4cfd72c0b6fda2aaaf077258743f9e8'
+    platform: ETH
 crypto: true
 fiat: false
 id: NRFB
 id_coinmarketcap: '17827'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17827.png
 name: NuriFootBall
-platform: ETH
-platform_contract: '0x00281dfce4cfd72c0b6fda2aaaf077258743f9e8'

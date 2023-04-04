@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb1c8b1307BFf2D335C96f87B6104CDf12a915149'
+    platform: BNB
 crypto: true
 fiat: false
 id: 4MOVE
 id_coinmarketcap: '20469'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20469.png
 name: 4MOVE
-platform: BNB
-platform_contract: '0xb1c8b1307BFf2D335C96f87B6104CDf12a915149'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCb1DDC8F705e2737685A9C1e6B84A63d04D200e5'
+    platform: BNB
 crypto: true
 fiat: false
 id: DCU
 id_coinmarketcap: '21503'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21503.png
 name: DecentralizedUnited
-platform: BNB
-platform_contract: '0xCb1DDC8F705e2737685A9C1e6B84A63d04D200e5'

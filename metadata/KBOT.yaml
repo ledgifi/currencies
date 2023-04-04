@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcd64aa18ddbce84411adbfe6da49354ba5187a45'
+    platform: ETH
 crypto: true
 fiat: false
 id: KBOT
 id_coinmarketcap: '4404'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4404.png
 name: Korbot
-platform: ETH
-platform_contract: '0xcd64aa18ddbce84411adbfe6da49354ba5187a45'

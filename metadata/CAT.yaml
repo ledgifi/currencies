@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x56ba2Ee7890461f463F7be02aAC3099f6d5811A8'
+    platform: ETH
 crypto: true
 fiat: false
 id: CAT
@@ -6,5 +9,3 @@ id_nomics: CAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/cat.jpg
 logoKey: currencies/cat.jpg
 name: BlockCat
-platform: ETH
-platform_contract: '0x56ba2Ee7890461f463F7be02aAC3099f6d5811A8'

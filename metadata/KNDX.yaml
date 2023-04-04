@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7ff7a55a7c637e3953ab25569c335e04b96c475b'
+    platform: ETH
 crypto: true
 fiat: false
 id: KNDX
 id_coinmarketcap: '21736'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21736.png
 name: Kondux
-platform: ETH
-platform_contract: '0x7ff7a55a7c637e3953ab25569c335e04b96c475b'

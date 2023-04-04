@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcE13aBCE0DB5A8224616ef24D3979d466F19CF90'
+    platform: ETH
 crypto: true
 fiat: false
 id: KEYT
 id_coinmarketcap: '5530'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5530.png
 name: REBIT
-platform: ETH
-platform_contract: '0xcE13aBCE0DB5A8224616ef24D3979d466F19CF90'

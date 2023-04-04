@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x34364BEe11607b1963d66BCA665FDE93fCA666a8'
+    platform: ETH
 crypto: true
 fiat: false
 id: YOU
 id_coinmarketcap: '3053'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3053.png
 name: YOU COIN
-platform: ETH
-platform_contract: '0x34364BEe11607b1963d66BCA665FDE93fCA666a8'

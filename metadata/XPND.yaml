@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x03f61137BFb86be07394f0FD07a33984020F96D8'
+    platform: MATIC
 crypto: true
 fiat: false
 id: XPND
 id_coinmarketcap: '18352'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18352.png
 name: Time Raiders
-platform: MATIC
-platform_contract: '0x03f61137BFb86be07394f0FD07a33984020F96D8'

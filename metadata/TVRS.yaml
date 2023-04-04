@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE500aCdbd53a8fCbe2B01c0F9c2Ccc676D0Fc6F6'
+    platform: BNB
 crypto: true
 fiat: false
 id: TVRS
 id_coinmarketcap: '19196'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19196.png
 name: TiraVerse
-platform: BNB
-platform_contract: '0xE500aCdbd53a8fCbe2B01c0F9c2Ccc676D0Fc6F6'

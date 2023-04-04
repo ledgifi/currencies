@@ -1,3 +1,6 @@
+contracts:
+  - address: 1578103c13e39df15d0d29826d957e85d770d8c9
+    platform: NEO
 crypto: true
 fiat: false
 id: PHX
@@ -6,5 +9,3 @@ id_nomics: PHX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/phx.png
 logoKey: currencies/phx.png
 name: Red Pulse Phoenix
-platform: NEO
-platform_contract: 1578103c13e39df15d0d29826d957e85d770d8c9

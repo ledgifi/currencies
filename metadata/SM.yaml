@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x119f095a45df2a77337042bcc4f2e52fa6e7e881'
+    platform: BNB
 crypto: true
 fiat: false
 id: SM
 id_coinmarketcap: '14393'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14393.png
 name: Super Minesweeper
-platform: BNB
-platform_contract: '0x119f095a45df2a77337042bcc4f2e52fa6e7e881'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x450bbc727100D806797CD617c88d1319563F8416'
+    platform: ETH
 crypto: true
 fiat: false
 id: DOC1
 id_coinmarketcap: '1909'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1909.png
 name: Dochain
-platform: ETH
-platform_contract: '0x450bbc727100D806797CD617c88d1319563F8416'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x949674e4ff296cd5f25f7a93014396b1a52b22b4'
+    platform: BNB
 crypto: true
 fiat: false
 id: VERAT
 id_coinmarketcap: '23911'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23911.png
 name: Versera Metaverse
-platform: BNB
-platform_contract: '0x949674e4ff296cd5f25f7a93014396b1a52b22b4'

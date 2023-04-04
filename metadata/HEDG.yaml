@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF1290473E210b2108A85237fbCd7b6eb42Cc654F'
+    platform: ETH
 crypto: true
 fiat: false
 id: HEDG
 id_coinmarketcap: '3662'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3662.png
 name: HedgeTrade
-platform: ETH
-platform_contract: '0xF1290473E210b2108A85237fbCd7b6eb42Cc654F'

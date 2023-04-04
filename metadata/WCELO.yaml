@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a'
+    platform: ETH
 crypto: true
 fiat: false
 id: WCELO
 id_coinmarketcap: '8288'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8288.png
 name: Wrapped Celo
-platform: ETH
-platform_contract: '0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a'

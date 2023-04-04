@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb8b932d41d6be935ce1666aaf41f056093f9faee'
+    platform: BNB
 crypto: true
 fiat: false
 id: H2O1
 id_coinmarketcap: '12840'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12840.png
 name: Trickle
-platform: BNB
-platform_contract: '0xb8b932d41d6be935ce1666aaf41f056093f9faee'

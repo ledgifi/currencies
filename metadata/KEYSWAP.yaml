@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x07b1681C082039551952bDee4A505cecC2FF4998'
+    platform: BNB
 crypto: true
 fiat: false
 id: KEYSWAP
 id_coinmarketcap: '19735'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19735.png
 name: KeySwap
-platform: BNB
-platform_contract: '0x07b1681C082039551952bDee4A505cecC2FF4998'

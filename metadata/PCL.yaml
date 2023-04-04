@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0f02e27745e3b6e9e1310d19469e2b5d7b5ec99a'
+    platform: ETH
 crypto: true
 fiat: false
 id: PCL
 id_coinmarketcap: '2610'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2610.png
 name: PECULIUM (old)
-platform: ETH
-platform_contract: '0x0f02e27745e3b6e9e1310d19469e2b5d7b5ec99a'

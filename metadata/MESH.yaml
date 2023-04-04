@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x82362Ec182Db3Cf7829014Bc61E9BE8a2E82868a'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MESH
 id_coinmarketcap: '20169'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20169.png
 name: Meshswap Protocol
-platform: MATIC
-platform_contract: '0x82362Ec182Db3Cf7829014Bc61E9BE8a2E82868a'

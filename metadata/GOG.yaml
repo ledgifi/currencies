@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9AB7bb7FdC60f4357ECFef43986818A2A3569c62'
+    platform: ETH
 crypto: true
 fiat: false
 id: GOG
 id_coinmarketcap: '10630'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10630.png
 name: Guild of Guardians
-platform: ETH
-platform_contract: '0x9AB7bb7FdC60f4357ECFef43986818A2A3569c62'

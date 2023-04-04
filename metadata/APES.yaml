@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1C19da0CA0D3589D6774000Fa43D2460ba199819'
+    platform: MATIC
 crypto: true
 fiat: false
 id: APES
 id_coinmarketcap: '18987'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18987.png
 name: Alpha Petto Shells
-platform: MATIC
-platform_contract: '0x1C19da0CA0D3589D6774000Fa43D2460ba199819'

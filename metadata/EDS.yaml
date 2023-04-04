@@ -1,8 +1,9 @@
+contracts:
+  - address: 81c089ab996fc89c468a26c0a88d23ae2f34b5c0
+    platform: NEO
 crypto: true
 fiat: false
 id: EDS
 id_coinmarketcap: '3076'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3076.png
 name: Endorsit
-platform: NEO
-platform_contract: 81c089ab996fc89c468a26c0a88d23ae2f34b5c0

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xAFD870F32CE54EfdBF677466B612bf8ad164454B'
+    platform: ETH
 crypto: true
 fiat: false
 id: IBNB
 id_coinmarketcap: '6472'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6472.png
 name: iBNB
-platform: ETH
-platform_contract: '0xAFD870F32CE54EfdBF677466B612bf8ad164454B'

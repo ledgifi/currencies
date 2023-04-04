@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd523f5097fe10cb8760f7011796a6edf7a268061'
+    platform: BNB
 crypto: true
 fiat: false
 id: GM2
 id_coinmarketcap: '5698'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5698.png
 name: GM Holding
-platform: BNB
-platform_contract: '0xd523f5097fe10cb8760f7011796a6edf7a268061'

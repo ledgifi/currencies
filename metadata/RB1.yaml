@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfc0c4114ccba4a91d05bdab4a8480cbec46654dd'
+    platform: ARB
 crypto: true
 fiat: false
 id: RB1
 id_coinmarketcap: '24151'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24151.png
 name: RB Finance
-platform: ARB
-platform_contract: '0xfc0c4114ccba4a91d05bdab4a8480cbec46654dd'

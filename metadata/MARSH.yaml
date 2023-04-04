@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5a666c7d92E5fA7Edcb6390E4efD6d0CDd69cF37'
+    platform: ETH
 crypto: true
 fiat: false
 id: MARSH
 id_coinmarketcap: '8963'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8963.png
 name: UnMarshal
-platform: ETH
-platform_contract: '0x5a666c7d92E5fA7Edcb6390E4efD6d0CDd69cF37'

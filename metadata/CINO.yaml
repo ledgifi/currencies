@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7A2C7928c8CF294E25cA7db8a379278c5b0cFa0F'
+    platform: ETH
 crypto: true
 fiat: false
 id: CINO
 id_coinmarketcap: '16941'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16941.png
 name: Cino Games
-platform: ETH
-platform_contract: '0x7A2C7928c8CF294E25cA7db8a379278c5b0cFa0F'

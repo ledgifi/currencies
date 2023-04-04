@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa670d7237398238DE01267472C6f13e5B8010FD1'
+    platform: ETH
 crypto: true
 fiat: false
 id: SOMM
 id_coinmarketcap: '18248'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18248.png
 name: Sommelier
-platform: ETH
-platform_contract: '0xa670d7237398238DE01267472C6f13e5B8010FD1'

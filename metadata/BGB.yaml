@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x19de6b897ed14a376dda0fe53a5420d2ac828a28'
+    platform: ETH
 crypto: true
 fiat: false
 id: BGB
 id_coinmarketcap: '11092'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11092.png
 name: Bitget Token
-platform: ETH
-platform_contract: '0x19de6b897ed14a376dda0fe53a5420d2ac828a28'

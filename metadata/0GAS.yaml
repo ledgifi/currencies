@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb0D8E79F484EC6DF92bfc032735D7F9B19e361eF'
+    platform: ETH
 crypto: true
 fiat: false
 id: 0GAS
 id_coinmarketcap: '21393'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21393.png
 name: ZEROGAS
-platform: ETH
-platform_contract: '0xb0D8E79F484EC6DF92bfc032735D7F9B19e361eF'

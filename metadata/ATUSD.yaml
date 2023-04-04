@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4da9b813057d04baef4e5800e36083717b4a0341'
+    platform: ETH
 crypto: true
 fiat: false
 id: ATUSD
 id_coinmarketcap: '5749'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5749.png
 name: Aave TUSD
-platform: ETH
-platform_contract: '0x4da9b813057d04baef4e5800e36083717b4a0341'

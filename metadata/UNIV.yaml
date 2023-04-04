@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x959b88966fc5b261df8359961357d34f4ee27b4a'
+    platform: AVAX
 crypto: true
 fiat: false
 id: UNIV
@@ -5,5 +8,3 @@ id_coinmarketcap: '17744'
 id_nomics: UNIV
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17744.png
 name: Universe
-platform: AVAX
-platform_contract: '0x959b88966fc5b261df8359961357d34f4ee27b4a'

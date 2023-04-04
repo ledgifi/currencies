@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2ae965cd3d2b6d186e87d9586fc3bdbfc667cacc'
+    platform: ETH
 crypto: true
 fiat: false
 id: GJC
 id_coinmarketcap: '2401'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2401.png
 name: Global Jobcoin
-platform: ETH
-platform_contract: '0x2ae965cd3d2b6d186e87d9586fc3bdbfc667cacc'

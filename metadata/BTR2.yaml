@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5ea82c27efc7634f1c5ad20a3561c453433a2f3a'
+    platform: ETH
 crypto: true
 fiat: false
 id: BTR2
 id_coinmarketcap: '13142'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13142.png
 name: BTRIPS
-platform: ETH
-platform_contract: '0x5ea82c27efc7634f1c5ad20a3561c453433a2f3a'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0b76fb09a554b1a71ac00a695472b1af1a205034'
+    platform: BNB
 crypto: true
 fiat: false
 id: NRV2
 id_coinmarketcap: '19394'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19394.png
 name: Nerv Protocol
-platform: BNB
-platform_contract: '0x0b76fb09a554b1a71ac00a695472b1af1a205034'

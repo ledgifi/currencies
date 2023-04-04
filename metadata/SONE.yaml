@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf5c771e0b749444eaec5c1f7ef5c0b93200bb0e4'
+    platform: ETH
 crypto: true
 fiat: false
 id: SONE
 id_coinmarketcap: '12247'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12247.png
 name: S-ONE Finance
-platform: ETH
-platform_contract: '0xf5c771e0b749444eaec5c1f7ef5c0b93200bb0e4'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa39d4a24226102765f48678d87d80387dd0c5acb'
+    platform: BNB
 crypto: true
 fiat: false
 id: MINIUSDC
 id_coinmarketcap: '11493'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11493.png
 name: MiniUSDC
-platform: BNB
-platform_contract: '0xa39d4a24226102765f48678d87d80387dd0c5acb'

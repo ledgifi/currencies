@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x461daB902f38210b42b7D8B4bfc71296E0629006'
+    platform: BNB
 crypto: true
 fiat: false
 id: DRIV
 id_coinmarketcap: '20628'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20628.png
 name: DRIVEZ
-platform: BNB
-platform_contract: '0x461daB902f38210b42b7D8B4bfc71296E0629006'

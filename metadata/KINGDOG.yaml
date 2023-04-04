@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3BB55Ba11f1A220c7C1e15b56E6cF9c69519c50F'
+    platform: BNB
 crypto: true
 fiat: false
 id: KINGDOG
 id_coinmarketcap: '17672'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17672.png
 name: King Dog Inu
-platform: BNB
-platform_contract: '0x3BB55Ba11f1A220c7C1e15b56E6cF9c69519c50F'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xae98e63db1c4646bf5b40b29c664bc922f71bc65'
+    platform: BNB
 crypto: true
 fiat: false
 id: EFT
 id_coinmarketcap: '15602'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15602.png
 name: Energyfi
-platform: BNB
-platform_contract: '0xae98e63db1c4646bf5b40b29c664bc922f71bc65'

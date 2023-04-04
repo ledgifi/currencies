@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9388f54fa978aa9e24395a8b69033304eccea4df'
+    platform: ETH
 crypto: true
 fiat: false
 id: BTCX
 id_coinmarketcap: '4325'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4325.png
 name: Bitscoin
-platform: ETH
-platform_contract: '0x9388f54fa978aa9e24395a8b69033304eccea4df'

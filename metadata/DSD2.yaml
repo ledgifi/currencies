@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1e3a2446c729d34373b87fd2c9cbb39a93198658'
+    platform: ETH
 crypto: true
 fiat: false
 id: DSD2
 id_coinmarketcap: '5950'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5950.png
 name: DeFi Nation Signals DAO
-platform: ETH
-platform_contract: '0x1e3a2446c729d34373b87fd2c9cbb39a93198658'

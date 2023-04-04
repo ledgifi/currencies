@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5416ab2b4b5a40f740b67a83dc5939591b5c08be'
+    platform: BNB
 crypto: true
 fiat: false
 id: OCTANE
 id_coinmarketcap: '12390'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12390.png
 name: Octane Finance
-platform: BNB
-platform_contract: '0x5416ab2b4b5a40f740b67a83dc5939591b5c08be'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe3e8cc42da487d1116d26687856e9fb684817c52'
+    platform: BNB
 crypto: true
 fiat: false
 id: RASTA
 id_coinmarketcap: '9558'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9558.png
 name: ZionLabs Token
-platform: BNB
-platform_contract: '0xe3e8cc42da487d1116d26687856e9fb684817c52'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd5e950837Ad48D08baD2f87bFcF8eD7167bB44BC'
+    platform: BNB
 crypto: true
 fiat: false
 id: BLOS
 id_coinmarketcap: '12589'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12589.png
 name: Blockius
-platform: BNB
-platform_contract: '0xd5e950837Ad48D08baD2f87bFcF8eD7167bB44BC'

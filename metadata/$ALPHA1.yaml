@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x325a98F258a5732c7b06555603F6aF5BC1C17F0a'
+    platform: AVAX
 crypto: true
 fiat: false
 id: $ALPHA1
 id_coinmarketcap: '18300'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18300.png
 name: Alpha Shares(Old)
-platform: AVAX
-platform_contract: '0x325a98F258a5732c7b06555603F6aF5BC1C17F0a'

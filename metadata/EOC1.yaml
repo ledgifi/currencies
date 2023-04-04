@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4e9d760637da87fe3003adc8e1dad2fe0ae3c671'
+    platform: MATIC
 crypto: true
 fiat: false
 id: EOC1
 id_coinmarketcap: '15843'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15843.png
 name: Essence of Creation
-platform: MATIC
-platform_contract: '0x4e9d760637da87fe3003adc8e1dad2fe0ae3c671'

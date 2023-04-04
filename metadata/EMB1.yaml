@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdb0acc14396d108b3c5574483acb817855c9dc8d'
+    platform: ETH
 crypto: true
 fiat: false
 id: EMB1
 id_coinmarketcap: '9626'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9626.png
 name: Emblem
-platform: ETH
-platform_contract: '0xdb0acc14396d108b3c5574483acb817855c9dc8d'

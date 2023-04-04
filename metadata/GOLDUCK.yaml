@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1a1c6f9F6B4E535130E9b1de46bBc76130b61Feb'
+    platform: BNB
 crypto: true
 fiat: false
 id: GOLDUCK
 id_coinmarketcap: '9394'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9394.png
 name: Golden Duck
-platform: BNB
-platform_contract: '0x1a1c6f9F6B4E535130E9b1de46bBc76130b61Feb'

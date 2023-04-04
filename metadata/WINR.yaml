@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd77b108d4f6cefaa0cae9506a934e825becca46e'
+    platform: ARB
 crypto: true
 fiat: false
 id: WINR
 id_coinmarketcap: '23681'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23681.png
 name: WINR Protocol
-platform: ARB
-platform_contract: '0xd77b108d4f6cefaa0cae9506a934e825becca46e'

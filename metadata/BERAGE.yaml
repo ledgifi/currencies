@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcfd3eaa8ae0a44b48e4be808078db4895ac8a2de'
+    platform: BNB
 crypto: true
 fiat: false
 id: BERAGE
 id_coinmarketcap: '17422'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17422.png
 name: METABULLRAGE
-platform: BNB
-platform_contract: '0xcfd3eaa8ae0a44b48e4be808078db4895ac8a2de'

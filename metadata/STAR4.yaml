@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x248C1e2b50C72F04704c71BcC953799351aB30a8'
+    platform: BNB
 crypto: true
 fiat: false
 id: STAR4
 id_coinmarketcap: '10728'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10728.png
 name: Pornstar
-platform: BNB
-platform_contract: '0x248C1e2b50C72F04704c71BcC953799351aB30a8'

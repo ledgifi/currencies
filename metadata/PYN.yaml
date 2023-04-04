@@ -1,8 +1,9 @@
+contracts:
+  - address: PYN-C37
+    platform: BNB
 crypto: true
 fiat: false
 id: PYN
 id_coinmarketcap: '3323'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3323.png
 name: PAYCENT
-platform: BNB
-platform_contract: PYN-C37

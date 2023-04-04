@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfb782396c9b20e564a64896181c7ac8d8979d5f4'
+    platform: ETH
 crypto: true
 fiat: false
 id: DIVER
 id_coinmarketcap: '10532'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10532.png
 name: Divergence
-platform: ETH
-platform_contract: '0xfb782396c9b20e564a64896181c7ac8d8979d5f4'

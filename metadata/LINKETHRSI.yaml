@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8933ea1Ce67B946BdF2436cE860fFBb53Ce814d2'
+    platform: ETH
 crypto: true
 fiat: false
 id: LINKETHRSI
 id_coinmarketcap: '6158'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6158.png
 name: LINK/ETH RSI Ratio Trading Set
-platform: ETH
-platform_contract: '0x8933ea1Ce67B946BdF2436cE860fFBb53Ce814d2'

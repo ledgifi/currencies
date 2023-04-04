@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x75F01Ca420A1CB86dF6790d2839E8e34B59b7BB1'
+    platform: BNB
 crypto: true
 fiat: false
 id: CFARM
 id_coinmarketcap: '22637'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22637.png
 name: CoinFarm (new)
-platform: BNB
-platform_contract: '0x75F01Ca420A1CB86dF6790d2839E8e34B59b7BB1'

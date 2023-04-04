@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x347c099f110ca6761779329d2879957b606b6ace'
+    platform: ETH
 crypto: true
 fiat: false
 id: JOINT
 id_coinmarketcap: '2745'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2745.png
 name: Joint Ventures
-platform: ETH
-platform_contract: '0x347c099f110ca6761779329d2879957b606b6ace'

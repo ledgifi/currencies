@@ -1,8 +1,9 @@
+contracts:
+  - address: https://etherscan.io/address/0x76Db65085E1c3102eDA71546aCf22b6Abd68712c
+    platform: ETH
 crypto: true
 fiat: false
 id: KLEIN
 id_coinmarketcap: '21355'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21355.png
 name: KLEIN TOKEN
-platform: ETH
-platform_contract: https://etherscan.io/address/0x76Db65085E1c3102eDA71546aCf22b6Abd68712c

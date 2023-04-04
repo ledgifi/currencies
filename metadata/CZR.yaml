@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5cd0c2c744caf04cda258efc6558a3ed3defe97b'
+    platform: BNB
 crypto: true
 fiat: false
 id: CZR
 id_coinmarketcap: '23079'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23079.png
 name: CZRED
-platform: BNB
-platform_contract: '0x5cd0c2c744caf04cda258efc6558a3ed3defe97b'

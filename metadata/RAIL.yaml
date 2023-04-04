@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe76c6c83af64e4c60245d8c7de953df673a7a33d'
+    platform: ETH
 crypto: true
 fiat: false
 id: RAIL
 id_coinmarketcap: '10854'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10854.png
 name: Railgun
-platform: ETH
-platform_contract: '0xe76c6c83af64e4c60245d8c7de953df673a7a33d'

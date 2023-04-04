@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3fd8f39a962efda04956981c31ab89fab5fb8bc8'
+    platform: ETH
 crypto: true
 fiat: false
 id: RTH
 id_coinmarketcap: '3279'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3279.png
 name: Rotharium
-platform: ETH
-platform_contract: '0x3fd8f39a962efda04956981c31ab89fab5fb8bc8'

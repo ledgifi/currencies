@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa499648fd0e80fd911972bbeb069e4c20e68bf22'
+    platform: ETH
 crypto: true
 fiat: false
 id: UJENNY
 id_coinmarketcap: '11522'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11522.png
 name: Jenny Metaverse DAO Token
-platform: ETH
-platform_contract: '0xa499648fd0e80fd911972bbeb069e4c20e68bf22'

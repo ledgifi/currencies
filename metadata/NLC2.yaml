@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xDBf04058821BEE93a04ffa5b70D441A51a9afB22'
+    platform: BNB
 crypto: true
 fiat: false
 id: NLC2
 id_coinmarketcap: '21937'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21937.png
 name: Nippon Lagoon
-platform: BNB
-platform_contract: '0xDBf04058821BEE93a04ffa5b70D441A51a9afB22'

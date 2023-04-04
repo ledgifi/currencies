@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1cabcd4b66d86d703866050f6430ea86b66188bb'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHUMI
 id_coinmarketcap: '22553'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22553.png
 name: SHUMI
-platform: BNB
-platform_contract: '0x1cabcd4b66d86d703866050f6430ea86b66188bb'

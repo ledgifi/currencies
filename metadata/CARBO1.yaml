@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb05139b021aaea472b94528b030844d84a6724d5'
+    platform: BNB
 crypto: true
 fiat: false
 id: CARBO1
 id_coinmarketcap: '9668'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9668.png
 name: CarbonDEFI Finance
-platform: BNB
-platform_contract: '0xb05139b021aaea472b94528b030844d84a6724d5'

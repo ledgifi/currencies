@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf16585365bfe050eff7c926f22df87f46da2cafe'
+    platform: ARB
 crypto: true
 fiat: false
 id: GOLD6
 id_coinmarketcap: '23574'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23574.png
 name: Gold by Adv3nture.xyz
-platform: ARB
-platform_contract: '0xf16585365bfe050eff7c926f22df87f46da2cafe'

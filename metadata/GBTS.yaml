@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbe9512e2754cb938dd69bbb96c8a09cb28a02d6d'
+    platform: MATIC
 crypto: true
 fiat: false
 id: GBTS
 id_coinmarketcap: '10834'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10834.png
 name: GemBites
-platform: MATIC
-platform_contract: '0xbe9512e2754cb938dd69bbb96c8a09cb28a02d6d'

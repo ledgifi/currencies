@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9E0CE7DE58049Dd17fd22DF3706185062A64cD18'
+    platform: BNB
 crypto: true
 fiat: false
 id: BE
 id_coinmarketcap: '17905'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17905.png
 name: Belon DAO
-platform: BNB
-platform_contract: '0x9E0CE7DE58049Dd17fd22DF3706185062A64cD18'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1d64327C74d6519afeF54E58730aD6fc797f05Ba'
+    platform: BNB
 crypto: true
 fiat: false
 id: ORT2
 id_coinmarketcap: '10756'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10756.png
 name: Omni Real Estate Token
-platform: BNB
-platform_contract: '0x1d64327C74d6519afeF54E58730aD6fc797f05Ba'

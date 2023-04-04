@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3093003005fd7c9c077e85c15ff47bcfcf0397e0'
+    platform: ETH
 crypto: true
 fiat: false
 id: NOFACE
 id_coinmarketcap: '14772'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14772.png
 name: No Face Inu
-platform: ETH
-platform_contract: '0x3093003005fd7c9c077e85c15ff47bcfcf0397e0'

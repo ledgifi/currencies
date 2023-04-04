@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5d30aD9C6374Bf925D0A75454fa327AACf778492'
+    platform: ETH
 crypto: true
 fiat: false
 id: PERI
 id_coinmarketcap: '9550'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9550.png
 name: PERI Finance
-platform: ETH
-platform_contract: '0x5d30aD9C6374Bf925D0A75454fa327AACf778492'

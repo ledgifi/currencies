@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd15d3baf3f40988810c5f9da54394ffb5246ded6'
+    platform: BNB
 crypto: true
 fiat: false
 id: SEBA
 id_coinmarketcap: '19116'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19116.png
 name: Seba
-platform: BNB
-platform_contract: '0xd15d3baf3f40988810c5f9da54394ffb5246ded6'

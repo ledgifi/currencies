@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa656f993bd14b2b59a28d1e610476ad18849b107'
+    platform: BNB
 crypto: true
 fiat: false
 id: SAFERMOON
 id_coinmarketcap: '9761'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9761.png
 name: SaferMoon
-platform: BNB
-platform_contract: '0xa656f993bd14b2b59a28d1e610476ad18849b107'

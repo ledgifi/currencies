@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdf9b4b57865b403e08c85568442f95c26b7896b0'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SFF
 id_coinmarketcap: '16769'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16769.png
 name: Sunflower Farm
-platform: MATIC
-platform_contract: '0xdf9b4b57865b403e08c85568442f95c26b7896b0'

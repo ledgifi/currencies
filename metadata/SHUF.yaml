@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3a9fff453d50d4ac52a6890647b823379ba36b9e'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHUF
 id_coinmarketcap: '4362'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4362.png
 name: Shuffle Monster
-platform: ETH
-platform_contract: '0x3a9fff453d50d4ac52a6890647b823379ba36b9e'

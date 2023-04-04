@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: SLP
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201110/ea4ad5e9-b5d2-4228-8697-3bb6a807f95e.png
 logoKey: currencies/slp.png
 name: Smooth Love Potion
-platform: ETH
-platform_contract: '0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25'

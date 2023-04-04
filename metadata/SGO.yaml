@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe5d46cc0fd592804b36f9dc6d2ed7d4d149ebd6f'
+    platform: BNB
 crypto: true
 fiat: false
 id: SGO
 id_coinmarketcap: '10751'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10751.png
 name: Sportemon-Go
-platform: BNB
-platform_contract: '0xe5d46cc0fd592804b36f9dc6d2ed7d4d149ebd6f'

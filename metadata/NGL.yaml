@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2653891204f463fb2a2f4f412564b19e955166ae'
+    platform: ETH
 crypto: true
 fiat: false
 id: NGL
 id_coinmarketcap: '10265'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10265.png
 name: Gold Fever
-platform: ETH
-platform_contract: '0x2653891204f463fb2a2f4f412564b19e955166ae'

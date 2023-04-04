@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3963df5BA3CF7A579eD4a5ff81084E059a32BDa0'
+    platform: BNB
 crypto: true
 fiat: false
 id: VERSE3
 id_coinmarketcap: '11709'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11709.png
 name: VerseWar
-platform: BNB
-platform_contract: '0x3963df5BA3CF7A579eD4a5ff81084E059a32BDa0'

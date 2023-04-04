@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8f7b0b40e27e357540f90f187d90ce06366ac5a5'
+    platform: ETH
 crypto: true
 fiat: false
 id: VLC
 id_coinmarketcap: '2488'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2488.png
 name: ValueChain
-platform: ETH
-platform_contract: '0x8f7b0b40e27e357540f90f187d90ce06366ac5a5'

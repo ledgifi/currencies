@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x22625B9fce4D92e43b9cDe77e5F3c03a0f5c468B'
+    platform: BNB
 crypto: true
 fiat: false
 id: SUCCESS1
 id_coinmarketcap: '18571'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18571.png
 name: Pandemia
-platform: BNB
-platform_contract: '0x22625B9fce4D92e43b9cDe77e5F3c03a0f5c468B'

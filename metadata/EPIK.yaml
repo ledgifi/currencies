@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x4da0c48376c277cdbd7fc6fdc6936dee3e4adf75'
+    platform: ETH
 crypto: true
 fiat: false
 id: EPIK
@@ -7,5 +10,3 @@ id_nomics: EPIK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EPIK.jpg
 logoKey: currencies/epik.jpg
 name: Epik Prime
-platform: ETH
-platform_contract: '0x4da0c48376c277cdbd7fc6fdc6936dee3e4adf75'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7819806b6ea4b5582c5ae3825a521b4067b5c7fe'
+    platform: BNB
 crypto: true
 fiat: false
 id: MAMADOGE
 id_coinmarketcap: '10835'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10835.png
 name: MAMADOGE
-platform: BNB
-platform_contract: '0x7819806b6ea4b5582c5ae3825a521b4067b5c7fe'

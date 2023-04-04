@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1856bc58f5511269afe2ca1e89bf08cbdcd01100'
+    platform: ETH
 crypto: true
 fiat: false
 id: BDS
 id_coinmarketcap: '22911'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22911.png
 name: Black Dragon Society
-platform: ETH
-platform_contract: '0x1856bc58f5511269afe2ca1e89bf08cbdcd01100'

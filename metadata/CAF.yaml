@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5662ac531A2737C3dB8901E982B43327a2fDe2ae'
+    platform: BNB
 crypto: true
 fiat: false
 id: CAF
 id_coinmarketcap: '20702'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20702.png
 name: Cairo Finance
-platform: BNB
-platform_contract: '0x5662ac531A2737C3dB8901E982B43327a2fDe2ae'

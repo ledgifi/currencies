@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xD40bEDb44C081D2935eebA6eF5a3c8A31A1bBE13'
+    platform: BNB
 crypto: true
 fiat: false
 id: HERO
@@ -7,5 +10,3 @@ id_nomics: HERO3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HERO3.jpg
 logoKey: currencies/hero.jpg
 name: Metahero
-platform: BNB
-platform_contract: '0xD40bEDb44C081D2935eebA6eF5a3c8A31A1bBE13'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4442556a08a841227bef04c67a7ba7acf01b6fc8'
+    platform: ETH
 crypto: true
 fiat: false
 id: MT1
 id_coinmarketcap: '4266'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4266.png
 name: Monarch
-platform: ETH
-platform_contract: '0x4442556a08a841227bef04c67a7ba7acf01b6fc8'

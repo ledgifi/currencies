@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x77d547256a2cd95f32f67ae0313e450ac200648d'
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: LAZIO
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/2d9eea37-acbd-47f1-8a53-de1980cdd2ad.png
 logoKey: currencies/lazio.png
 name: Lazio Fan Token
-platform: BNB
-platform_contract: '0x77d547256a2cd95f32f67ae0313e450ac200648d'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x530fea77c0857ea3d1354d3569d819438272426b'
+    platform: BNB
 crypto: true
 fiat: false
 id: CMX
 id_coinmarketcap: '12260'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12260.png
 name: CaribMarsX
-platform: BNB
-platform_contract: '0x530fea77c0857ea3d1354d3569d819438272426b'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x33d63ba1e57e54779f7ddaeaa7109349344cf5f1'
+    platform: ETH
 crypto: true
 fiat: false
 id: DATA1
 id_coinmarketcap: '12035'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12035.png
 name: Data Economy Index
-platform: ETH
-platform_contract: '0x33d63ba1e57e54779f7ddaeaa7109349344cf5f1'

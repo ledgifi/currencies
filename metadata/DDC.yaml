@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x418236CA7c807Cfc1D04eB64475df7cE17C2F218'
+    platform: BNB
 crypto: true
 fiat: false
 id: DDC
 id_coinmarketcap: '11609'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11609.png
 name: DuxDoge
-platform: BNB
-platform_contract: '0x418236CA7c807Cfc1D04eB64475df7cE17C2F218'

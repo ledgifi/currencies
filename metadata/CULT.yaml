@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf0f9d895aca5c8678f706fb8216fa22957685a13'
+    platform: ETH
 crypto: true
 fiat: false
 id: CULT
 id_coinmarketcap: '17742'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17742.png
 name: Cult DAO
-platform: ETH
-platform_contract: '0xf0f9d895aca5c8678f706fb8216fa22957685a13'

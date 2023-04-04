@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x20d39a5130f799b95b55a930e5b7ebc589ea9ed8'
+    platform: BNB
 crypto: true
 fiat: false
 id: HE
 id_coinmarketcap: '11939'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11939.png
 name: Heroes & Empires
-platform: BNB
-platform_contract: '0x20d39a5130f799b95b55a930e5b7ebc589ea9ed8'

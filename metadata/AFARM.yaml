@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2ae1ef41cd23e3e77f75789e9393d8951705470f'
+    platform: ARB
 crypto: true
 fiat: false
 id: AFARM
 id_coinmarketcap: '11937'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11937.png
 name: ArbiFarm
-platform: ARB
-platform_contract: '0x2ae1ef41cd23e3e77f75789e9393d8951705470f'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB'
+    platform: ETH
 crypto: true
 fiat: false
 id: COW
 id_coinmarketcap: '19269'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19269.png
 name: CoW Protocol
-platform: ETH
-platform_contract: '0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB'

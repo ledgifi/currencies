@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x28bF9CB0a8c0a6Fb01680dAAae9D6aE76234491b'
+    platform: AVAX
 crypto: true
 fiat: false
 id: SLUSH
 id_coinmarketcap: '12529'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12529.png
 name: IceSlush Finance
-platform: AVAX
-platform_contract: '0x28bF9CB0a8c0a6Fb01680dAAae9D6aE76234491b'

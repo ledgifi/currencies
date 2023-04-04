@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x51869836681BcE74a514625c856aFb697a013797'
+    platform: MATIC
 crypto: true
 fiat: false
 id: GENESIS
 id_coinmarketcap: '13932'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13932.png
 name: Genesis Worlds
-platform: MATIC
-platform_contract: '0x51869836681BcE74a514625c856aFb697a013797'

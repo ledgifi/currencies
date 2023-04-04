@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xc8807f0f5ba3fa45ffbdc66928d71c5289249014'
+    platform: ETH
 crypto: true
 fiat: false
 id: ISP
@@ -7,5 +10,3 @@ id_nomics: ISP2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ISP2.png
 logoKey: currencies/isp.png
 name: Ispolink
-platform: ETH
-platform_contract: '0xc8807f0f5ba3fa45ffbdc66928d71c5289249014'

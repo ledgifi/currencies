@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5e6d3bb496301ecdfa34fa1ed2d3bada250f0409'
+    platform: BNB
 crypto: true
 fiat: false
 id: STEPG
 id_coinmarketcap: '20175'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20175.png
 name: StepG
-platform: BNB
-platform_contract: '0x5e6d3bb496301ecdfa34fa1ed2d3bada250f0409'

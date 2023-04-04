@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8EF47555856f6Ce2E0cd7C36AeF4FAb317d2e2E2'
+    platform: ETH
 crypto: true
 fiat: false
 id: PAYT
 id_coinmarketcap: '7425'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7425.png
 name: PayAccept
-platform: ETH
-platform_contract: '0x8EF47555856f6Ce2E0cd7C36AeF4FAb317d2e2E2'

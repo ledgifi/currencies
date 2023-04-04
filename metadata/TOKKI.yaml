@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6a6184283af9f62da739f8b309c5fca61e2f1400'
+    platform: KLAY
 crypto: true
 fiat: false
 id: TOKKI
 id_coinmarketcap: '21485'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21485.png
 name: CRYPTOKKI
-platform: KLAY
-platform_contract: '0x6a6184283af9f62da739f8b309c5fca61e2f1400'

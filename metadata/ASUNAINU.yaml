@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc656b2279b0fdf761e832133b06ce607fbbcbceb'
+    platform: ETH
 crypto: true
 fiat: false
 id: ASUNAINU
 id_coinmarketcap: '12933'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12933.png
 name: Asuna
-platform: ETH
-platform_contract: '0xc656b2279b0fdf761e832133b06ce607fbbcbceb'

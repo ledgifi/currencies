@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdddddd4301a082e62e84e43f474f044423921918'
+    platform: ETH
 crypto: true
 fiat: false
 id: DVF
 id_coinmarketcap: '10759'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10759.png
 name: rhino.fi
-platform: ETH
-platform_contract: '0xdddddd4301a082e62e84e43f474f044423921918'

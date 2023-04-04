@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfc05987bd2be489ACCF0f509E44B0145d68240f7'
+    platform: ETH
 crypto: true
 fiat: false
 id: ESS
 id_coinmarketcap: '2906'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2906.png
 name: Essentia
-platform: ETH
-platform_contract: '0xfc05987bd2be489ACCF0f509E44B0145d68240f7'

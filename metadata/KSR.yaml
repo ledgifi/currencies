@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9c373aef0b9831f7895e6d6565683d628cf1c151'
+    platform: BNB
 crypto: true
 fiat: false
 id: KSR
 id_coinmarketcap: '12027'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12027.png
 name: Kickstarter
-platform: BNB
-platform_contract: '0x9c373aef0b9831f7895e6d6565683d628cf1c151'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x57AC045f3553882E0E1e4cb44faffdc1bDFEE249'
+    platform: BNB
 crypto: true
 fiat: false
 id: COMA
 id_coinmarketcap: '23098'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23098.png
 name: Compound Meta
-platform: BNB
-platform_contract: '0x57AC045f3553882E0E1e4cb44faffdc1bDFEE249'

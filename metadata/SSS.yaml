@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xC3028FbC1742a16A5D69dE1B334cbce28f5d7EB3'
+    platform: BNB
 crypto: true
 fiat: false
 id: SSS
 id_coinmarketcap: '12431'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12431.png
 name: StarSharks (SSS)
-platform: BNB
-platform_contract: '0xC3028FbC1742a16A5D69dE1B334cbce28f5d7EB3'

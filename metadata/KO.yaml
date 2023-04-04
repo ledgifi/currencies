@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2a74b7d7d44025Bcc344E7dA80d542e7b0586330'
+    platform: BNB
 crypto: true
 fiat: false
 id: KO
 id_coinmarketcap: '12009'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12009.png
 name: KO RUNE - Rune.Game
-platform: BNB
-platform_contract: '0x2a74b7d7d44025Bcc344E7dA80d542e7b0586330'

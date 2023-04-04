@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdffdc00abf0ccd93723f56ba3179015ab4e5c1c8'
+    platform: ETH
 crypto: true
 fiat: false
 id: BALLBAG
 id_coinmarketcap: '10543'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10543.png
 name: Ballbag Token
-platform: ETH
-platform_contract: '0xdffdc00abf0ccd93723f56ba3179015ab4e5c1c8'

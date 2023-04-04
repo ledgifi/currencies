@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe0387845F8289fD5875e7193064392e061f46E58'
+    platform: BNB
 crypto: true
 fiat: false
 id: BSCD
 id_coinmarketcap: '23652'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23652.png
 name: BSCDium Token
-platform: BNB
-platform_contract: '0xe0387845F8289fD5875e7193064392e061f46E58'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x57e2a2ff2622cacec775cf8d4c2848aa9b31528c'
+    platform: BNB
 crypto: true
 fiat: false
 id: MVP2
 id_coinmarketcap: '17567'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17567.png
 name: Metaverse lab
-platform: BNB
-platform_contract: '0x57e2a2ff2622cacec775cf8d4c2848aa9b31528c'

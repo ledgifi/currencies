@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1fE4869f2C5181b9CD780a7E16194FA2c4C4293D'
+    platform: AVAX
 crypto: true
 fiat: false
 id: SNO2
 id_coinmarketcap: '18238'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18238.png
 name: Snowy Owl
-platform: AVAX
-platform_contract: '0x1fE4869f2C5181b9CD780a7E16194FA2c4C4293D'

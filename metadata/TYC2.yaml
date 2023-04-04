@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x39647d0d700ef077c6d90de963cf6989ef38e341'
+    platform: BNB
 crypto: true
 fiat: false
 id: TYC2
 id_coinmarketcap: '11159'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11159.png
 name: Tianyu Finance
-platform: BNB
-platform_contract: '0x39647d0d700ef077c6d90de963cf6989ef38e341'

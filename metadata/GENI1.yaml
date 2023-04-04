@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc04a23149efdF9A63697f3Eb60705147e9f07FfD'
+    platform: BNB
 crypto: true
 fiat: false
 id: GENI1
 id_coinmarketcap: '14649'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14649.png
 name: GemUni
-platform: BNB
-platform_contract: '0xc04a23149efdF9A63697f3Eb60705147e9f07FfD'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfC1Cb4920dC1110fD61AfaB75Cf085C1f871b8C6'
+    platform: ETH
 crypto: true
 fiat: false
 id: ELT1
 id_coinmarketcap: '19238'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19238.png
 name: EdenLoop
-platform: ETH
-platform_contract: '0xfC1Cb4920dC1110fD61AfaB75Cf085C1f871b8C6'

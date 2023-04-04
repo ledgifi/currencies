@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7121d00b4fa18f13da6c2e30d19c04844e6afdc8'
+    platform: ETH
 crypto: true
 fiat: false
 id: LUFFY1
 id_coinmarketcap: '11856'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11856.png
 name: Luffy [Old]
-platform: ETH
-platform_contract: '0x7121d00b4fa18f13da6c2e30d19c04844e6afdc8'

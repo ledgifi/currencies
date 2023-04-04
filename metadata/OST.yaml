@@ -1,4 +1,7 @@
 color: '#34445b'
+contracts:
+  - address: '0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: OST
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/ost.svg
 logoKey: currencies/ost.svg
 name: OST
-platform: ETH
-platform_contract: '0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca'

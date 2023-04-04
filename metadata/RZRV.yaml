@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe70b94c2320fb0289db0cac0ccbd60dd8f51ff89'
+    platform: ETH
 crypto: true
 fiat: false
 id: RZRV
 id_coinmarketcap: '11628'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11628.png
 name: Rezerve
-platform: ETH
-platform_contract: '0xe70b94c2320fb0289db0cac0ccbd60dd8f51ff89'

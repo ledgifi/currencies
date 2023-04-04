@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0fAf802036E30B4b58a20C359012821152872397'
+    platform: BNB
 crypto: true
 fiat: false
 id: CDTC
 id_coinmarketcap: '12606'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12606.png
 name: DeCredit
-platform: BNB
-platform_contract: '0x0fAf802036E30B4b58a20C359012821152872397'

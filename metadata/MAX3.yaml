@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2b3360320f0dffe3bf71b054fd0a7460d0129c51'
+    platform: ETH
 crypto: true
 fiat: false
 id: MAX3
 id_coinmarketcap: '16549'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16549.png
 name: Maxima Token
-platform: ETH
-platform_contract: '0x2b3360320f0dffe3bf71b054fd0a7460d0129c51'

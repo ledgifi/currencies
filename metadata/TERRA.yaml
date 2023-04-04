@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9F87C6c30F4b23C7B51Aa7465A9e0A836514700D'
+    platform: AVAX
 crypto: true
 fiat: false
 id: TERRA
 id_coinmarketcap: '13781'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13781.png
 name: Avaterra
-platform: AVAX
-platform_contract: '0x9F87C6c30F4b23C7B51Aa7465A9e0A836514700D'

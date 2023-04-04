@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x62613f4b4f7600c7c0f16c97aefc29c8a2ca524f'
+    platform: BNB
 crypto: true
 fiat: false
 id: GAP2
 id_coinmarketcap: '10617'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10617.png
 name: Global Adversity Project
-platform: BNB
-platform_contract: '0x62613f4b4f7600c7c0f16c97aefc29c8a2ca524f'

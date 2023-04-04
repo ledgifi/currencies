@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9eec1a4814323a7396c938bc86aec46b97f1bd82'
+    platform: ETH
 crypto: true
 fiat: false
 id: TOKU
 id_coinmarketcap: '24142'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24142.png
 name: Toku
-platform: ETH
-platform_contract: '0x9eec1a4814323a7396c938bc86aec46b97f1bd82'

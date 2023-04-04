@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf8002280d428c9cfeb2c61e4faa01480c138e91a'
+    platform: BNB
 crypto: true
 fiat: false
 id: DIAMONDHANDS
 id_coinmarketcap: '11389'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11389.png
 name: DIAMOND HANDS
-platform: BNB
-platform_contract: '0xf8002280d428c9cfeb2c61e4faa01480c138e91a'

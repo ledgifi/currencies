@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x55696efc7c9779d868ac34ac6b4a4c5fed61ac12'
+    platform: ETH
 crypto: true
 fiat: false
 id: DSTR
 id_coinmarketcap: '8238'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8238.png
 name: Dynamic Supply Tracker
-platform: ETH
-platform_contract: '0x55696efc7c9779d868ac34ac6b4a4c5fed61ac12'

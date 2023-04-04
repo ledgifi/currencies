@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x13d0bf45e5f319fa0b58900807049f23cae7c40d'
+    platform: ETH
 crypto: true
 fiat: false
 id: READ1
 id_coinmarketcap: '2440'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2440.png
 name: Read
-platform: ETH
-platform_contract: '0x13d0bf45e5f319fa0b58900807049f23cae7c40d'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF02b03202e9200245fA179C13aDC11423e76F240'
+    platform: CRO
 crypto: true
 fiat: false
 id: CM
 id_coinmarketcap: '19630'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19630.png
 name: Cromarket Token
-platform: CRO
-platform_contract: '0xF02b03202e9200245fA179C13aDC11423e76F240'

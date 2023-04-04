@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x55f983766c84E4CC0f117E5CB665d4CB914D1B47'
+    platform: BNB
 crypto: true
 fiat: false
 id: SGC1
 id_coinmarketcap: '15000'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15000.png
 name: SAFEGAME CASH
-platform: BNB
-platform_contract: '0x55f983766c84E4CC0f117E5CB665d4CB914D1B47'

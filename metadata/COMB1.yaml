@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xae45a827625116d6c0c40b5d7359ecf68f8e9afd'
+    platform: FTM
 crypto: true
 fiat: false
 id: COMB1
 id_coinmarketcap: '17054'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17054.png
 name: Comb Finance
-platform: FTM
-platform_contract: '0xae45a827625116d6c0c40b5d7359ecf68f8e9afd'

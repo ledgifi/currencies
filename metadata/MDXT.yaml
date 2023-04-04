@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x947AEb02304391f8fbE5B25D7D98D649b57b1788'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -7,5 +10,3 @@ id_coinmarketcap: '8266'
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210519/70c8ebba-e2c8-4f23-8e5d-de2504b49faf.jpeg
 logoKey: currencies/mdxt.jpeg
 name: MANDALA EXCHANGE TOKEN
-platform: ETH
-platform_contract: '0x947AEb02304391f8fbE5B25D7D98D649b57b1788'

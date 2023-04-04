@@ -1,8 +1,9 @@
+contracts:
+  - address: ' 0x5f841172399c5f94b1f8390bb361890fe0ca1857'
+    platform: BNB
 crypto: true
 fiat: false
 id: LNDA
 id_coinmarketcap: '21827'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21827.png
 name: Landian Metaverse
-platform: BNB
-platform_contract: ' 0x5f841172399c5f94b1f8390bb361890fe0ca1857'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x49fB98F9b4a3183Cd88e7a115144fdf00fa6fB95'
+    platform: CRO
 crypto: true
 fiat: false
 id: Lion
 id_coinmarketcap: '19410'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19410.png
 name: Lion Scrub Finance
-platform: CRO
-platform_contract: '0x49fB98F9b4a3183Cd88e7a115144fdf00fa6fB95'

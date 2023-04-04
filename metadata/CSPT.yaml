@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4819C2e71eBdd5E3c91D8B735CCea8FD37f89BE5'
+    platform: BNB
 crypto: true
 fiat: false
 id: CSPT
 id_coinmarketcap: '23013'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23013.png
 name: CEASports
-platform: BNB
-platform_contract: '0x4819C2e71eBdd5E3c91D8B735CCea8FD37f89BE5'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x5a386eb0fcbfee3f0d759e263053c09162ff102d'
+    platform: ETH
 crypto: true
 fiat: false
 id: WOONK
@@ -6,5 +9,3 @@ id_nomics: WOONK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOONK.jpg
 logoKey: currencies/woonk.jpg
 name: Woonkly
-platform: ETH
-platform_contract: '0x5a386eb0fcbfee3f0d759e263053c09162ff102d'

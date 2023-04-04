@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8966f05d78f5c6ede8e964df705847fe2b6045b1'
+    platform: ETH
 crypto: true
 fiat: false
 id: YEAGER
 id_coinmarketcap: '16677'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16677.png
 name: Yeager Inu
-platform: ETH
-platform_contract: '0x8966f05d78f5c6ede8e964df705847fe2b6045b1'

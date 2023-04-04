@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x84c722e6f1363e8d5c6db3ea600bef9a006da824'
+    platform: ETH
 crypto: true
 fiat: false
 id: MSB
 id_coinmarketcap: '7591'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7591.png
 name: Misbloc
-platform: ETH
-platform_contract: '0x84c722e6f1363e8d5c6db3ea600bef9a006da824'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x42f7332b14347c9F77A9bef1aC7bB60d2cd9Ec2e'
+    platform: BNB
 crypto: true
 fiat: false
 id: ODN1
 id_coinmarketcap: '16342'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16342.png
 name: Odin Platform
-platform: BNB
-platform_contract: '0x42f7332b14347c9F77A9bef1aC7bB60d2cd9Ec2e'

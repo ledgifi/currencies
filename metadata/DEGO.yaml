@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x3da932456d082cba208feb0b096d49b202bf89c8'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: DEGO2
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/f671fe84-43f3-4062-a123-7f67c80f5df0.png
 logoKey: currencies/dego.png
 name: Dego Finance
-platform: ETH
-platform_contract: '0x3da932456d082cba208feb0b096d49b202bf89c8'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd433138d12beB9929FF6fd583DC83663eea6Aaa5'
+    platform: ETH
 crypto: true
 fiat: false
 id: BTR
 id_coinmarketcap: '4167'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4167.png
 name: Bitrue Coin
-platform: ETH
-platform_contract: '0xd433138d12beB9929FF6fd583DC83663eea6Aaa5'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x80bD0cc689c206e3F642919244c4251c7Ef19852'
+    platform: ETH
 crypto: true
 fiat: false
 id: SGC
 id_coinmarketcap: '5489'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5489.png
 name: Sudan Gold Coin
-platform: ETH
-platform_contract: '0x80bD0cc689c206e3F642919244c4251c7Ef19852'

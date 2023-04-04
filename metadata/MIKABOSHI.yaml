@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xae86f48c0b00f2a3eaef4ba4c23d17368f0f63f4'
+    platform: ETH
 crypto: true
 fiat: false
 id: MIKABOSHI
 id_coinmarketcap: '21982'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21982.png
 name: Amatsu-Mikaboshi
-platform: ETH
-platform_contract: '0xae86f48c0b00f2a3eaef4ba4c23d17368f0f63f4'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3e6C9eE69B90B53628051F8D6CB5b6b2EaCCB438'
+    platform: BNB
 crypto: true
 fiat: false
 id: MULTI1
 id_coinmarketcap: '11268'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11268.png
 name: Multigame
-platform: BNB
-platform_contract: '0x3e6C9eE69B90B53628051F8D6CB5b6b2EaCCB438'

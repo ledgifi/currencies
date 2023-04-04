@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x654bAc3eC77d6dB497892478f854cF6e8245DcA9'
+    platform: CRO
 crypto: true
 fiat: false
 id: SVN
 id_coinmarketcap: '18183'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18183.png
 name: Savanna
-platform: CRO
-platform_contract: '0x654bAc3eC77d6dB497892478f854cF6e8245DcA9'

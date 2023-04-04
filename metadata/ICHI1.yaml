@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x903bef1736cddf2a537176cf3c64579c3867a881'
+    platform: ETH
 crypto: true
 fiat: false
 id: ICHI1
 id_coinmarketcap: '20631'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20631.png
 name: Legacy ICHI
-platform: ETH
-platform_contract: '0x903bef1736cddf2a537176cf3c64579c3867a881'

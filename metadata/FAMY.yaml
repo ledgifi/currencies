@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa6ea1ae470ed931a7359cecfe50840458e310dd4'
+    platform: BNB
 crypto: true
 fiat: false
 id: FAMY
 id_coinmarketcap: '14480'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14480.png
 name: FarmYield Token
-platform: BNB
-platform_contract: '0xa6ea1ae470ed931a7359cecfe50840458e310dd4'

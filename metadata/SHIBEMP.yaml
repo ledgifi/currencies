@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x14AAD57fB5f9A0C9ce136CF93521cBeBE14EC2e6'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIBEMP
 id_coinmarketcap: '14324'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14324.png
 name: Shiba Inu Empire
-platform: BNB
-platform_contract: '0x14AAD57fB5f9A0C9ce136CF93521cBeBE14EC2e6'

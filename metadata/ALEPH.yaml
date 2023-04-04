@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x27702a26126e0b3702af63ee09ac4d1a084ef628'
+    platform: ETH
 crypto: true
 fiat: false
 id: ALEPH
 id_coinmarketcap: '5821'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5821.png
 name: Aleph.im
-platform: ETH
-platform_contract: '0x27702a26126e0b3702af63ee09ac4d1a084ef628'

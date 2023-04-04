@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x82866b4a71ba9d930fe338c386b6a45a7133eb36'
+    platform: ETH
 crypto: true
 fiat: false
 id: QCORE
 id_coinmarketcap: '7426'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7426.png
 name: Qcore.Finance
-platform: ETH
-platform_contract: '0x82866b4a71ba9d930fe338c386b6a45a7133eb36'

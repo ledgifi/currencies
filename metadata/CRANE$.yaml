@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa1fb785eC5D0d8A06C32B8d60dF7E2F5e3C62650'
+    platform: BNB
 crypto: true
 fiat: false
 id: CRANE$
 id_coinmarketcap: '22062'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22062.png
 name: ProspectorCrane
-platform: BNB
-platform_contract: '0xa1fb785eC5D0d8A06C32B8d60dF7E2F5e3C62650'

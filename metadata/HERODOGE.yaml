@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5a8baec93d3d21e545d3e8a91d7dccdd0e8c4ddd'
+    platform: BNB
 crypto: true
 fiat: false
 id: HERODOGE
 id_coinmarketcap: '11671'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11671.png
 name: HeroDoge
-platform: BNB
-platform_contract: '0x5a8baec93d3d21e545d3e8a91d7dccdd0e8c4ddd'

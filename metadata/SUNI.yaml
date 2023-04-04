@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x280f76a218DDC8d56B490B5835e251E55a2e8F8d'
+    platform: ETH
 crypto: true
 fiat: false
 id: sUNI
 id_coinmarketcap: '11098'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11098.png
 name: Strike UNI
-platform: ETH
-platform_contract: '0x280f76a218DDC8d56B490B5835e251E55a2e8F8d'

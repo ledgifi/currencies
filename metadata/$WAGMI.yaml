@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9724f51e3afb6b2ae0a5d86fd3b88c73283bc38f'
+    platform: ETH
 crypto: true
 fiat: false
 id: $WAGMI
 id_coinmarketcap: '14823'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14823.png
 name: WAGMI
-platform: ETH
-platform_contract: '0x9724f51e3afb6b2ae0a5d86fd3b88c73283bc38f'

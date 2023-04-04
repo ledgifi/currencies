@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5fdAb5BDbad5277B383B3482D085f4bFef68828C'
+    platform: BNB
 crypto: true
 fiat: false
 id: DFH
 id_coinmarketcap: '15501'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15501.png
 name: DeFiHorse
-platform: BNB
-platform_contract: '0x5fdAb5BDbad5277B383B3482D085f4bFef68828C'

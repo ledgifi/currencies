@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb8e0497018c991e86311b64efd9d57b06aedbbae'
+    platform: ONE
 crypto: true
 fiat: false
 id: VINCI1
 id_coinmarketcap: '15526'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15526.png
 name: DaVinci Token
-platform: ONE
-platform_contract: '0xb8e0497018c991e86311b64efd9d57b06aedbbae'

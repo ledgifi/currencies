@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3810a4ddf41e586fa0dba1463a7951b748cecfca'
+    platform: ETH
 crypto: true
 fiat: false
 id: MPAY
 id_coinmarketcap: '4001'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4001.png
 name: MenaPay
-platform: ETH
-platform_contract: '0x3810a4ddf41e586fa0dba1463a7951b748cecfca'

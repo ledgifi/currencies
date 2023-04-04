@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7D00cd74FF385c955EA3d79e47BF06bD7386387D'
+    platform: CELO
 crypto: true
 fiat: false
 id: mCELO
 id_coinmarketcap: '16981'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16981.png
 name: Moola Celo
-platform: CELO
-platform_contract: '0x7D00cd74FF385c955EA3d79e47BF06bD7386387D'

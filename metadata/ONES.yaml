@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0b342c51d1592c41068d5d4b4da4a68c0a04d5a4'
+    platform: ETH
 crypto: true
 fiat: false
 id: ONES
 id_coinmarketcap: '7136'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7136.png
 name: OneSwap DAO Token
-platform: ETH
-platform_contract: '0x0b342c51d1592c41068d5d4b4da4a68c0a04d5a4'

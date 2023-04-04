@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbA5b0408B0645ec091B3bB76Ee793091A9399BF2'
+    platform: BNB
 crypto: true
 fiat: false
 id: GENIUS
 id_coinmarketcap: '10948'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10948.png
 name: Genius Coin
-platform: BNB
-platform_contract: '0xbA5b0408B0645ec091B3bB76Ee793091A9399BF2'

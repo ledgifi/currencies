@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x01832E3346fd3a0d38CA589D836bd78d1dE7030C'
+    platform: BNB
 crypto: true
 fiat: false
 id: SWPT
 id_coinmarketcap: '14561'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14561.png
 name: SwapTracker
-platform: BNB
-platform_contract: '0x01832E3346fd3a0d38CA589D836bd78d1dE7030C'

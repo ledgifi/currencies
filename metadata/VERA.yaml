@@ -1,3 +1,6 @@
+contracts:
+  - address: VRAB-B56
+    platform: BNB
 crypto: true
 fiat: false
 id: VERA
@@ -6,5 +9,3 @@ id_nomics: VERA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VERA.jpg
 logoKey: currencies/vera.jpg
 name: VERA
-platform: BNB
-platform_contract: VRAB-B56

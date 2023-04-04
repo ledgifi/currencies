@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7D2D3688Df45Ce7C552E19c27e007673da9204B8'
+    platform: ETH
 crypto: true
 fiat: false
 id: aLEND
 id_coinmarketcap: '8596'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8596.png
 name: Aave LEND
-platform: ETH
-platform_contract: '0x7D2D3688Df45Ce7C552E19c27e007673da9204B8'

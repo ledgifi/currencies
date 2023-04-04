@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdc49d53330317cbc6924fa53042e0c9bca0a8d63'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOGEDI
 id_coinmarketcap: '15763'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15763.png
 name: DOGEDI
-platform: BNB
-platform_contract: '0xdc49d53330317cbc6924fa53042e0c9bca0a8d63'

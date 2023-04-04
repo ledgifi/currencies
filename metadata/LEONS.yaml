@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8303a44c770c666b8a45eebab0879c1a880d39e7'
+    platform: BNB
 crypto: true
 fiat: false
 id: LEONS
 id_coinmarketcap: '24073'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24073.png
 name: Leonicorn Swap
-platform: BNB
-platform_contract: '0x8303a44c770c666b8a45eebab0879c1a880d39e7'

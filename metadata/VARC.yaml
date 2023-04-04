@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3f694635ab69b1b5e7f001de26892cc63ba94bad'
+    platform: ETH
 crypto: true
 fiat: false
 id: VARC
 id_coinmarketcap: '5628'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5628.png
 name: VARC
-platform: ETH
-platform_contract: '0x3f694635ab69b1b5e7f001de26892cc63ba94bad'

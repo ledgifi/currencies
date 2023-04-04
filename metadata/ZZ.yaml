@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc91a71a1ffa3d8b22ba615ba1b9c01b2bbbf55ad'
+    platform: ETH
 crypto: true
 fiat: false
 id: ZZ
 id_coinmarketcap: '20755'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20755.png
 name: ZigZag
-platform: ETH
-platform_contract: '0xc91a71a1ffa3d8b22ba615ba1b9c01b2bbbf55ad'

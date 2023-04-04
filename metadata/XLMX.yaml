@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1e66008a24a486456a796e0c771fdc0cdf43cad9'
+    platform: ETH
 crypto: true
 fiat: false
 id: XLMX
 id_coinmarketcap: '4252'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4252.png
 name: Stellar Classic
-platform: ETH
-platform_contract: '0x1e66008a24a486456a796e0c771fdc0cdf43cad9'

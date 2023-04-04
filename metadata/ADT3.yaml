@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x369c092ce00e52d4fd9eedca51b737cb1b1d96f7'
+    platform: BNB
 crypto: true
 fiat: false
 id: ADT3
 id_coinmarketcap: '20498'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20498.png
 name: Adsense Token
-platform: BNB
-platform_contract: '0x369c092ce00e52d4fd9eedca51b737cb1b1d96f7'

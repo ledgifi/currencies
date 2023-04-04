@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf5015995376a35b10dcbd96ba6b6e9de1c9f87c5'
+    platform: BNB
 crypto: true
 fiat: false
 id: MIL
 id_coinmarketcap: '11009'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11009.png
 name: Military Finance
-platform: BNB
-platform_contract: '0xf5015995376a35b10dcbd96ba6b6e9de1c9f87c5'

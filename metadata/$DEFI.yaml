@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x455dedAcbe41c178953119847F2b95E2d9AD0a1D'
+    platform: BNB
 crypto: true
 fiat: false
 id: $DEFI
 id_coinmarketcap: '19059'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19059.png
 name: BNBDeFi
-platform: BNB
-platform_contract: '0x455dedAcbe41c178953119847F2b95E2d9AD0a1D'

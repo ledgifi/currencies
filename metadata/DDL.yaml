@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x88803312628fd21542f706b0c7dc8495c1c10b2e'
+    platform: BNB
 crypto: true
 fiat: false
 id: DDL
@@ -7,5 +10,3 @@ id_nomics: DDL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DDL.jpeg
 logoKey: currencies/ddl.jpeg
 name: DeFi Degen Land
-platform: BNB
-platform_contract: '0x88803312628fd21542f706b0c7dc8495c1c10b2e'

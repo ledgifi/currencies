@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2cc26dd730f548dc4ac291ae7d84a0c96980d2cb'
+    platform: BNB
 crypto: true
 fiat: false
 id: PIZZA3
 id_coinmarketcap: '8459'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8459.png
 name: PizzaSwap
-platform: BNB
-platform_contract: '0x2cc26dd730f548dc4ac291ae7d84a0c96980d2cb'

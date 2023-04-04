@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x90b417ab462440cf59767bcf72d0d91ca42f21ed'
+    platform: ETH
 crypto: true
 fiat: false
 id: ALTBEAR
 id_coinmarketcap: '6092'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6092.png
 name: 3X Short Altcoin Index Token
-platform: ETH
-platform_contract: '0x90b417ab462440cf59767bcf72d0d91ca42f21ed'

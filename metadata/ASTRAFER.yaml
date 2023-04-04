@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x97Bbbc5d96875fB78D2F14b7FF8d7a3a74106F17'
+    platform: ETH
 crypto: true
 fiat: false
 id: ASTRAFER
 id_coinmarketcap: '20886'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20886.png
 name: Astrafer
-platform: ETH
-platform_contract: '0x97Bbbc5d96875fB78D2F14b7FF8d7a3a74106F17'

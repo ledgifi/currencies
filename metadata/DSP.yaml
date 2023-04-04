@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8c661806f716652b637728355cc4e2620d428f99'
+    platform: ETH
 crypto: true
 fiat: false
 id: DSP
 id_coinmarketcap: '20864'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20864.png
 name: Delio DSP
-platform: ETH
-platform_contract: '0x8c661806f716652b637728355cc4e2620d428f99'

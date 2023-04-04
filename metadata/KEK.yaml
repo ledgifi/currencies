@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x67954768e721fad0f0f21e33e874497c73ed6a82'
+    platform: ETH
 crypto: true
 fiat: false
 id: KEK
 id_coinmarketcap: '21606'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21606.png
 name: KeKChain
-platform: ETH
-platform_contract: '0x67954768e721fad0f0f21e33e874497c73ed6a82'

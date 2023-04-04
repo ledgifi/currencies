@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x68749665FF8D2d112Fa859AA293F07A622782F38'
+    platform: ETH
 crypto: true
 fiat: false
 id: XAUT
 id_coinmarketcap: '5176'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5176.png
 name: Tether Gold
-platform: ETH
-platform_contract: '0x68749665FF8D2d112Fa859AA293F07A622782F38'

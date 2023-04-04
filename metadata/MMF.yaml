@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x97749c9B61F878a880DfE312d2594AE07AEd7656'
+    platform: CRO
 crypto: true
 fiat: false
 id: MMF
@@ -6,5 +9,3 @@ id_nomics: MMF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MMF.jpg
 logoKey: currencies/mmf.jpg
 name: MMFinance
-platform: CRO
-platform_contract: '0x97749c9B61F878a880DfE312d2594AE07AEd7656'

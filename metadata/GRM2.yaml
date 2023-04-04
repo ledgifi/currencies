@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc8c6fc3c4f6342c5291e747268625f979a888ebf'
+    platform: ETH
 crypto: true
 fiat: false
 id: GRM2
 id_coinmarketcap: '17986'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17986.png
 name: Green Money
-platform: ETH
-platform_contract: '0xc8c6fc3c4f6342c5291e747268625f979a888ebf'

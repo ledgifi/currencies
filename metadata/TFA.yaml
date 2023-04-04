@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE065ffaf3f7dED69BB5cf5FDd1Fd1dDA2EEe8493'
+    platform: GLMR
 crypto: true
 fiat: false
 id: TFA
 id_coinmarketcap: '22982'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22982.png
 name: Take Flight Alpha DAO
-platform: GLMR
-platform_contract: '0xE065ffaf3f7dED69BB5cf5FDd1Fd1dDA2EEe8493'

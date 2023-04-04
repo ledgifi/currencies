@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x9e04f519b094f5f8210441e285f603f4d2b50084'
+    platform: ETH
 crypto: true
 fiat: false
 id: 1EARTH
@@ -7,5 +10,3 @@ id_nomics: 1EARTH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/1EARTH.jpg
 logoKey: currencies/1earth.jpg
 name: EarthFund
-platform: ETH
-platform_contract: '0x9e04f519b094f5f8210441e285f603f4d2b50084'

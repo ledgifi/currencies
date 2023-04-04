@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x61bc1f530ac6193d73af1e1a6a14cb44b9c3f915'
+    platform: ETH
 crypto: true
 fiat: false
 id: PJM
 id_coinmarketcap: '7269'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7269.png
 name: Pajama.Finance
-platform: ETH
-platform_contract: '0x61bc1f530ac6193d73af1e1a6a14cb44b9c3f915'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6b37374fe7980ae33fc87b0d66a490ec6903e87a'
+    platform: ETH
 crypto: true
 fiat: false
 id: TOR
 id_coinmarketcap: '18105'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18105.png
 name: TOR
-platform: ETH
-platform_contract: '0x6b37374fe7980ae33fc87b0d66a490ec6903e87a'

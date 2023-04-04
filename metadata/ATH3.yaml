@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6d3a0fb0070ea61f901ebc0b675c30450acac737'
+    platform: BNB
 crypto: true
 fiat: false
 id: ATH3
 id_coinmarketcap: '12362'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12362.png
 name: AetherV2
-platform: BNB
-platform_contract: '0x6d3a0fb0070ea61f901ebc0b675c30450acac737'

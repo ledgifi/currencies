@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x59c6606ed2af925f270733e378d6af7829b5b3cf'
+    platform: FTM
 crypto: true
 fiat: false
 id: WBOND
 id_coinmarketcap: '17528'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17528.png
 name: War Bond Token
-platform: FTM
-platform_contract: '0x59c6606ed2af925f270733e378d6af7829b5b3cf'

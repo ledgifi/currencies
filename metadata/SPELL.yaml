@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x090185f2135308bad17527004364ebcc2d37e5f6'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: SPELL
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/508e8baf-8d2b-41c3-8729-59fbe0335a5e.png
 logoKey: currencies/spell.png
 name: Spell Token
-platform: ETH
-platform_contract: '0x090185f2135308bad17527004364ebcc2d37e5f6'

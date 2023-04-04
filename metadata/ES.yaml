@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xef1344bdf80bef3ff4428d8becec3eea4a2cf574'
+    platform: ETH
 crypto: true
 fiat: false
 id: ES
 id_coinmarketcap: '4860'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4860.png
 name: Era Swap
-platform: ETH
-platform_contract: '0xef1344bdf80bef3ff4428d8becec3eea4a2cf574'

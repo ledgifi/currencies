@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf9c36c7ad7fa0f0862589c919830268d1a2581a1'
+    platform: ETH
 crypto: true
 fiat: false
 id: BOA1
 id_coinmarketcap: '6746'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6746.png
 name: BOA
-platform: ETH
-platform_contract: '0xf9c36c7ad7fa0f0862589c919830268d1a2581a1'

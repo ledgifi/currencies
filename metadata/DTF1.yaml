@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9680c8cea945816dc0c0d3ea047925181b6bc06b'
+    platform: BNB
 crypto: true
 fiat: false
 id: DTF1
 id_coinmarketcap: '14385'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14385.png
 name: DodgeTheFloki
-platform: BNB
-platform_contract: '0x9680c8cea945816dc0c0d3ea047925181b6bc06b'

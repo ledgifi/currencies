@@ -1,8 +1,9 @@
+contracts:
+  - address: horustokenio
+    platform: EOS
 crypto: true
 fiat: false
 id: HORUS
 id_coinmarketcap: '2993'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2993.png
 name: HorusPay
-platform: EOS
-platform_contract: horustokenio

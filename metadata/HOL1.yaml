@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7b8656c95944f1d6e2e6deadedd0392a4138d8dd'
+    platform: BNB
 crypto: true
 fiat: false
 id: HOL1
 id_coinmarketcap: '14988'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14988.png
 name: Holiday Token
-platform: BNB
-platform_contract: '0x7b8656c95944f1d6e2e6deadedd0392a4138d8dd'

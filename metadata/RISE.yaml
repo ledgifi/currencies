@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xC17c30e98541188614dF99239cABD40280810cA3'
+    platform: ETH
 crypto: true
 fiat: false
 id: RISE
@@ -5,5 +8,3 @@ id_coinmarketcap: '15257'
 id_nomics: RISE4
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15257.png
 name: EverRise
-platform: ETH
-platform_contract: '0xC17c30e98541188614dF99239cABD40280810cA3'

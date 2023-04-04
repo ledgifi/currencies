@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0b63128c40737b13647552e0c926bcfeccc35f93'
+    platform: ETH
 crypto: true
 fiat: false
 id: WLITI
 id_coinmarketcap: '10740'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10740.png
 name: Liti Capital
-platform: ETH
-platform_contract: '0x0b63128c40737b13647552e0c926bcfeccc35f93'

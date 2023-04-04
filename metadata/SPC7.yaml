@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc67a54d5e08e59fb70dd29d81350c6ff4562d544'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPC7
 id_coinmarketcap: '12905'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12905.png
 name: Sheep Swap Token
-platform: BNB
-platform_contract: '0xc67a54d5e08e59fb70dd29d81350c6ff4562d544'

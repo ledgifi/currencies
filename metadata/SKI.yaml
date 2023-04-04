@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x996dc5dfc819408dd98cd92c9a76f64b0738dc3d'
+    platform: ETH
 crypto: true
 fiat: false
 id: SKI
 id_coinmarketcap: '5623'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5623.png
 name: Skillchain
-platform: ETH
-platform_contract: '0x996dc5dfc819408dd98cd92c9a76f64b0738dc3d'

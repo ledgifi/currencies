@@ -1,8 +1,9 @@
+contracts:
+  - address: goldmandgame
+    platform: WAXP
 crypto: true
 fiat: false
 id: GMD2
 id_coinmarketcap: '19694'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19694.png
 name: Goldmand
-platform: WAXP
-platform_contract: goldmandgame

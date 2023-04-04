@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9e6b8d2e2a7a8fa294aa715d59b58638c858a2a6'
+    platform: BNB
 crypto: true
 fiat: false
 id: ETB
 id_coinmarketcap: '18508'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18508.png
 name: Ethera Black
-platform: BNB
-platform_contract: '0x9e6b8d2e2a7a8fa294aa715d59b58638c858a2a6'

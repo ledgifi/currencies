@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x039cd22cb49084142d55fcd4b6096a4f51ffb3b4'
+    platform: BNB
 crypto: true
 fiat: false
 id: MOVEZ
 id_coinmarketcap: '20535'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20535.png
 name: MOVEZ
-platform: BNB
-platform_contract: '0x039cd22cb49084142d55fcd4b6096a4f51ffb3b4'

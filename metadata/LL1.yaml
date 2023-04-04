@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xBb24C7a8e89eDa9f22842644df8D0524871257e5'
+    platform: ETH
 crypto: true
 fiat: false
 id: LL1
 id_coinmarketcap: '22943'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22943.png
 name: LightLink
-platform: ETH
-platform_contract: '0xBb24C7a8e89eDa9f22842644df8D0524871257e5'

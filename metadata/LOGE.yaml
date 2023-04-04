@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb99172949554e6c10c28c880ec0306d2a9d5c753'
+    platform: BNB
 crypto: true
 fiat: false
 id: LOGE
 id_coinmarketcap: '10156'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10156.png
 name: LunaDoge
-platform: BNB
-platform_contract: '0xb99172949554e6c10c28c880ec0306d2a9d5c753'

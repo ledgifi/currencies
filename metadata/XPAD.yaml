@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3BE5D86Be59a9ccd990F054F234C02f6d0D48512'
+    platform: ETH
 crypto: true
 fiat: false
 id: XPAD
 id_coinmarketcap: '18191'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18191.png
 name: xPAD
-platform: ETH
-platform_contract: '0x3BE5D86Be59a9ccd990F054F234C02f6d0D48512'

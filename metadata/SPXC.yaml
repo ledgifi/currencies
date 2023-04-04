@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3D4fE86C53F7E87B317A46942db2806613683e28'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPXC
 id_coinmarketcap: '22926'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22926.png
 name: SpaceXCoin
-platform: BNB
-platform_contract: '0x3D4fE86C53F7E87B317A46942db2806613683e28'

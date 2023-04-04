@@ -1,8 +1,9 @@
+contracts:
+  - address: betdicetoken
+    platform: EOS
 crypto: true
 fiat: false
 id: DICE4
 id_coinmarketcap: '6219'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6219.png
 name: Dice
-platform: EOS
-platform_contract: betdicetoken

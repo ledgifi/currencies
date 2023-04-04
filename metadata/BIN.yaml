@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe56842ed550ff2794f010738554db45e60730371'
+    platform: BNB
 crypto: true
 fiat: false
 id: BIN
 id_coinmarketcap: '11412'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11412.png
 name: Binemon
-platform: BNB
-platform_contract: '0xe56842ed550ff2794f010738554db45e60730371'

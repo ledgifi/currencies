@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3Ba2b1C2c46200e826C56550ff7a2b29bad10F3d'
+    platform: BNB
 crypto: true
 fiat: false
 id: KPOP
 id_coinmarketcap: '10310'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10310.png
 name: KPOP Fan Token
-platform: BNB
-platform_contract: '0x3Ba2b1C2c46200e826C56550ff7a2b29bad10F3d'

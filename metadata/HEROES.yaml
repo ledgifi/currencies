@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x261510Dd6257494eEA1DDA7618DBe8a7b87870dd'
+    platform: BNB
 crypto: true
 fiat: false
 id: HEROES
 id_coinmarketcap: '11474'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11474.png
 name: DeHero
-platform: BNB
-platform_contract: '0x261510Dd6257494eEA1DDA7618DBe8a7b87870dd'

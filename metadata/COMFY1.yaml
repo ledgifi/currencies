@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x702f78e81cf3dfae89648b5a9e2e1aa8db1de546'
+    platform: ONE
 crypto: true
 fiat: false
 id: COMFY1
 id_coinmarketcap: '17638'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17638.png
 name: Comfy
-platform: ONE
-platform_contract: '0x702f78e81cf3dfae89648b5a9e2e1aa8db1de546'

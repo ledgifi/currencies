@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe2f2a5c287993345a840db3b0845fbc70f5935a5'
+    platform: ETH
 crypto: true
 fiat: false
 id: MUSD1
 id_coinmarketcap: '5747'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5747.png
 name: mStable USD
-platform: ETH
-platform_contract: '0xe2f2a5c287993345a840db3b0845fbc70f5935a5'

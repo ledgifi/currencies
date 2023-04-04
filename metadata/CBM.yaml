@@ -1,3 +1,6 @@
+contracts:
+  - address: CBM-4B2
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: CBM
 logo: https://bin.bnbstatic.com/images/20191211/0fd52937-48bd-4a1f-8c08-69132c782dbe.png
 logoKey: currencies/cbm.png
 name: Crypto Bonus Miles Token
-platform: BNB
-platform_contract: CBM-4B2

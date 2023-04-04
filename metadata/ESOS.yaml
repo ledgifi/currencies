@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xefeb903d013bb8a6d833b36222d2c769be6d7a6c'
+    platform: ETH
 crypto: true
 fiat: false
 id: ESOS
 id_coinmarketcap: '6557'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6557.png
 name: Eso Token
-platform: ETH
-platform_contract: '0xefeb903d013bb8a6d833b36222d2c769be6d7a6c'

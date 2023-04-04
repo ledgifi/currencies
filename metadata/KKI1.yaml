@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x15a6D1392188cc1FC1d99936E7d3c09E28c21465'
+    platform: ETH
 crypto: true
 fiat: false
 id: KKI1
 id_coinmarketcap: '13510'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13510.png
 name: KakashiInuV2
-platform: ETH
-platform_contract: '0x15a6D1392188cc1FC1d99936E7d3c09E28c21465'

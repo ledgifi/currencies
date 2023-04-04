@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5a41290104b8f65ece9ed9d67a4d82f8080b7310'
+    platform: ETH
 crypto: true
 fiat: false
 id: GFT3
 id_coinmarketcap: '21335'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21335.png
 name: Game Federation
-platform: ETH
-platform_contract: '0x5a41290104b8f65ece9ed9d67a4d82f8080b7310'

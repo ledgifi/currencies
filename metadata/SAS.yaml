@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4c38d0e726b6c86f64c1b281348e725973542043'
+    platform: ETH
 crypto: true
 fiat: false
 id: SAS
 id_coinmarketcap: '8170'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8170.png
 name: Stand Share
-platform: ETH
-platform_contract: '0x4c38d0e726b6c86f64c1b281348e725973542043'

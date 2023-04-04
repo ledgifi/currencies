@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaecc217a749c2405b5ebc9857a16d58bdc1c367f'
+    platform: ETH
 crypto: true
 fiat: false
 id: PAWTH
 id_coinmarketcap: '12983'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12983.png
 name: Pawthereum
-platform: ETH
-platform_contract: '0xaecc217a749c2405b5ebc9857a16d58bdc1c367f'

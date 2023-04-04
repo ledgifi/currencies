@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe532a2A37b0707b4306B21B412D2E8C22f9824Ec'
+    platform: ETH
 crypto: true
 fiat: false
 id: EUP
 id_coinmarketcap: '6439'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6439.png
 name: EUP Chain
-platform: ETH
-platform_contract: '0xe532a2A37b0707b4306B21B412D2E8C22f9824Ec'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x89509aa1d14a8e1e5364ec4c3b041213bcdbe08d'
+    platform: ETH
 crypto: true
 fiat: false
 id: ZURR
 id_coinmarketcap: '16781'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16781.png
 name: ZURRENCY
-platform: ETH
-platform_contract: '0x89509aa1d14a8e1e5364ec4c3b041213bcdbe08d'

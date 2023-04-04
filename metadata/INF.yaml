@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x000000ef379eE7F4C051f4B9aF901A9219d9ec5C'
+    platform: BNB
 crypto: true
 fiat: false
 id: INF
 id_coinmarketcap: '15829'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15829.png
 name: INFAM
-platform: BNB
-platform_contract: '0x000000ef379eE7F4C051f4B9aF901A9219d9ec5C'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfb5a551374b656c6e39787b1d3a03feab7f3a98e'
+    platform: ETH
 crypto: true
 fiat: false
 id: TOS1
 id_coinmarketcap: '2987'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2987.png
 name: ThingsOperatingSystem
-platform: ETH
-platform_contract: '0xfb5a551374b656c6e39787b1d3a03feab7f3a98e'

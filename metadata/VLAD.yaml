@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x279d41f3f78fe5C1f0BA41aE963d6E545113C973'
+    platform: BNB
 crypto: true
 fiat: false
 id: VLAD
 id_coinmarketcap: '9096'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9096.png
 name: Vlad Finance
-platform: BNB
-platform_contract: '0x279d41f3f78fe5C1f0BA41aE963d6E545113C973'

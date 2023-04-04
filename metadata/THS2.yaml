@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6c5ff116bffc50ff59d0334d5643e15b71c6414a'
+    platform: BNB
 crypto: true
 fiat: false
 id: THS2
 id_coinmarketcap: '12034'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12034.png
 name: Theoscoin
-platform: BNB
-platform_contract: '0x6c5ff116bffc50ff59d0334d5643e15b71c6414a'

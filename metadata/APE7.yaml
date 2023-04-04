@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x4d224452801aced8b2f0aebe155379bb5d594381'
+    platform: ETH
 crypto: true
 fiat: false
 id: APE7
@@ -6,5 +9,3 @@ id_nomics: APE7
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APE7.jpeg
 logoKey: currencies/ape7.jpeg
 name: ApeCoin
-platform: ETH
-platform_contract: '0x4d224452801aced8b2f0aebe155379bb5d594381'

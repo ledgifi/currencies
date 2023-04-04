@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x295B42684F90c77DA7ea46336001010F2791Ec8c'
+    platform: ETH
 crypto: true
 fiat: false
 id: XI
 id_coinmarketcap: '23227'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23227.png
 name: Xi Token
-platform: ETH
-platform_contract: '0x295B42684F90c77DA7ea46336001010F2791Ec8c'

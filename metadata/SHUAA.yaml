@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xAc4294e71A2F6B5847BecEE48ff334aA719F8fb9'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHUAA
 id_coinmarketcap: '4861'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4861.png
 name: SHUAACHAIN
-platform: ETH
-platform_contract: '0xAc4294e71A2F6B5847BecEE48ff334aA719F8fb9'

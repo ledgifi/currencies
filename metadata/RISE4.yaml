@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa3d80275E300237a62D3431C26d52f185584cC1B'
+    platform: BNB
 crypto: true
 fiat: false
 id: RISE4
 id_coinmarketcap: '17627'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17627.png
 name: RiseHero
-platform: BNB
-platform_contract: '0xa3d80275E300237a62D3431C26d52f185584cC1B'

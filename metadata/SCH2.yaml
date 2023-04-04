@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd2fa32163459b63c800f32fc1f63ce6f566c3da4'
+    platform: BNB
 crypto: true
 fiat: false
 id: SCH2
 id_coinmarketcap: '17643'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17643.png
 name: Speed Cheems
-platform: BNB
-platform_contract: '0xd2fa32163459b63c800f32fc1f63ce6f566c3da4'

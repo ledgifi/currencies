@@ -1,3 +1,6 @@
+contracts:
+  - address: HNST-3C9
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: HNST
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HNST.png
 logoKey: currencies/hnst.png
 name: Honest
-platform: BNB
-platform_contract: HNST-3C9

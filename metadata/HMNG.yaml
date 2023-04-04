@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x14357d294fbabbe0fbf59503370c772d563b35b6'
+    platform: BNB
 crypto: true
 fiat: false
 id: HMNG
 id_coinmarketcap: '9737'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9737.png
 name: Hummingbird Finance
-platform: BNB
-platform_contract: '0x14357d294fbabbe0fbf59503370c772d563b35b6'

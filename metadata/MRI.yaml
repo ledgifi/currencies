@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0913ddae242839f8995c0375493f9a1a3bddc977'
+    platform: ETH
 crypto: true
 fiat: false
 id: MRI
 id_coinmarketcap: '18082'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18082.png
 name: Marshall Inu
-platform: ETH
-platform_contract: '0x0913ddae242839f8995c0375493f9a1a3bddc977'

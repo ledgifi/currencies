@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xee5dfb5ddd54ea2fb93b796a8a1b83c3fe38e0e6'
+    platform: ETH
 crypto: true
 fiat: false
 id: NER
 id_coinmarketcap: '3370'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3370.png
 name: Nerves
-platform: ETH
-platform_contract: '0xee5dfb5ddd54ea2fb93b796a8a1b83c3fe38e0e6'

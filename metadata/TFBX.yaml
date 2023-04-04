@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4057db5bd9f67a566aa10e5587b1a964affc6a16'
+    platform: ETH
 crypto: true
 fiat: false
 id: TFBX
 id_coinmarketcap: '4144'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4144.png
 name: TrueFeedBack
-platform: ETH
-platform_contract: '0x4057db5bd9f67a566aa10e5587b1a964affc6a16'

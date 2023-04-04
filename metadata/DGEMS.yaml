@@ -1,8 +1,9 @@
+contracts:
+  - address: 539aeefaf917fe42b65018bf76fa7933c1737f1af92d8ca192ed38c5
+    platform: ADA
 crypto: true
 fiat: false
 id: DGEMS
 id_coinmarketcap: '20441'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20441.png
 name: Dango Gems
-platform: ADA
-platform_contract: 539aeefaf917fe42b65018bf76fa7933c1737f1af92d8ca192ed38c5

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xca919a0981cd207d2b6121e832166cd6fc87b14f'
+    platform: MATIC
 crypto: true
 fiat: false
 id: AVX
 id_coinmarketcap: '15718'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15718.png
 name: AVX Launchpad
-platform: MATIC
-platform_contract: '0xca919a0981cd207d2b6121e832166cd6fc87b14f'

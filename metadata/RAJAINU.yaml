@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x77d64cb9b19228157a7628ca0d26f5d9656b3d03'
+    platform: ETH
 crypto: true
 fiat: false
 id: RAJAINU
 id_coinmarketcap: '14255'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14255.png
 name: Raja Inu
-platform: ETH
-platform_contract: '0x77d64cb9b19228157a7628ca0d26f5d9656b3d03'

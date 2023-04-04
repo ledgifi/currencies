@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xed74bc5dc139356e08de28143996f5ef6e4334a4'
+    platform: BNB
 crypto: true
 fiat: false
 id: SpookyShiba
 id_coinmarketcap: '13619'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13619.png
 name: SpookyShiba [OLD]
-platform: BNB
-platform_contract: '0xed74bc5dc139356e08de28143996f5ef6e4334a4'

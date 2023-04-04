@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x47d1a59cbdd19aee060c859c0009277e245328ae'
+    platform: ETH
 crypto: true
 fiat: false
 id: SNR
 id_coinmarketcap: '3517'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3517.png
 name: SONDER
-platform: ETH
-platform_contract: '0x47d1a59cbdd19aee060c859c0009277e245328ae'

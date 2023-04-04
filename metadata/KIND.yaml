@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4618519de4c304f3444ffa7f812dddc2971cc688'
+    platform: ETH
 crypto: true
 fiat: false
 id: KIND
 id_coinmarketcap: '3078'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3078.png
 name: Kind Ads Token
-platform: ETH
-platform_contract: '0x4618519de4c304f3444ffa7f812dddc2971cc688'

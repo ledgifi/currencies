@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x52468c88e8b4F5bCCA20a6A7813355637Dc5e3Ad'
+    platform: MATIC
 crypto: true
 fiat: false
 id: PODO
 id_coinmarketcap: '19931'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19931.png
 name: Power Of Deep Ocean
-platform: MATIC
-platform_contract: '0x52468c88e8b4F5bCCA20a6A7813355637Dc5e3Ad'

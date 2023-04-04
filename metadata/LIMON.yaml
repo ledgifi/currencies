@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x712C0a4659a7C31A81FD5A47a2D83c63A07d7D06'
+    platform: BNB
 crypto: true
 fiat: false
 id: LIMON
 id_coinmarketcap: '10141'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10141.png
 name: LIMON.GROUP
-platform: BNB
-platform_contract: '0x712C0a4659a7C31A81FD5A47a2D83c63A07d7D06'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF899E83E6c6dF1a0d4887CF0209193aA97236322'
+    platform: BNB
 crypto: true
 fiat: false
 id: MBD
 id_coinmarketcap: '20188'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20188.png
 name: MBD Financials
-platform: BNB
-platform_contract: '0xF899E83E6c6dF1a0d4887CF0209193aA97236322'

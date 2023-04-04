@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8d047f4f57a190c96c8b9704b39a1379e999d82b'
+    platform: BNB
 crypto: true
 fiat: false
 id: ECC1
 id_coinmarketcap: '14404'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14404.png
 name: Etherconnect
-platform: BNB
-platform_contract: '0x8d047f4f57a190c96c8b9704b39a1379e999d82b'

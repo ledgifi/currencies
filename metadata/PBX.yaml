@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd528cf2e081f72908e086f8800977df826b5a483'
+    platform: ETH
 crypto: true
 fiat: false
 id: PBX
 id_coinmarketcap: '11366'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11366.png
 name: Paribus
-platform: ETH
-platform_contract: '0xd528cf2e081f72908e086f8800977df826b5a483'

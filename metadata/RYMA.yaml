@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2b8a66201665cd8c36ab9f39127221847110aa8e'
+    platform: ETH
 crypto: true
 fiat: false
 id: RYMA
 id_coinmarketcap: '11543'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11543.png
 name: Bakumatsu Swap Finance
-platform: ETH
-platform_contract: '0x2b8a66201665cd8c36ab9f39127221847110aa8e'

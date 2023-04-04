@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf24d63e8b354736c97148b8fc2ffb4f7789fe453'
+    platform: BNB
 crypto: true
 fiat: false
 id: CAKESWAP
 id_coinmarketcap: '16406'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16406.png
 name: CakeSwap
-platform: BNB
-platform_contract: '0xf24d63e8b354736c97148b8fc2ffb4f7789fe453'

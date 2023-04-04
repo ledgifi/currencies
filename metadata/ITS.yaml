@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc32cc5b70bee4bd54aa62b9aefb91346d18821c4'
+    platform: ETH
 crypto: true
 fiat: false
 id: ITS
 id_coinmarketcap: '7852'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7852.png
 name: IterationSyndicate
-platform: ETH
-platform_contract: '0xc32cc5b70bee4bd54aa62b9aefb91346d18821c4'

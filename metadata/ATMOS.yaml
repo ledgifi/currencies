@@ -1,8 +1,9 @@
+contracts:
+  - address: ATMOS-eos-novusphereio
+    platform: EOS
 crypto: true
 fiat: false
 id: ATMOS
 id_coinmarketcap: '1624'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1624.png
 name: Atmos
-platform: EOS
-platform_contract: ATMOS-eos-novusphereio

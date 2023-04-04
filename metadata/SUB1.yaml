@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfd290c590866f8282d89671a85ac9964b165d682'
+    platform: BNB
 crypto: true
 fiat: false
 id: SUB1
 id_coinmarketcap: '11932'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11932.png
 name: Subme
-platform: BNB
-platform_contract: '0xfd290c590866f8282d89671a85ac9964b165d682'

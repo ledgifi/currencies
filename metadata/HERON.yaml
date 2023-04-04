@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x90451265fd0598e088e42c1768d6211f0978954a'
+    platform: BNB
 crypto: true
 fiat: false
 id: HERON
 id_coinmarketcap: '13045'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13045.png
 name: Heron Asia
-platform: BNB
-platform_contract: '0x90451265fd0598e088e42c1768d6211f0978954a'

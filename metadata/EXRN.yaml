@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe469c4473af82217b30cf17b10bcdb6c8c796e75'
+    platform: ETH
 crypto: true
 fiat: false
 id: EXRN
 id_coinmarketcap: '2088'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2088.png
 name: EXRNchain
-platform: ETH
-platform_contract: '0xe469c4473af82217b30cf17b10bcdb6c8c796e75'

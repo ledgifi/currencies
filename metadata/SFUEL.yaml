@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x37ac4d6140e54304d77437a5c11924f61a2d976f'
+    platform: BNB
 crypto: true
 fiat: false
 id: SFUEL
 id_coinmarketcap: '8145'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8145.png
 name: SparkPoint Fuel
-platform: BNB
-platform_contract: '0x37ac4d6140e54304d77437a5c11924f61a2d976f'

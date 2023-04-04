@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x22B48E1f20043D1Db5F2a11CbF1d520A4F20b198'
+    platform: ETH
 crypto: true
 fiat: false
 id: XOT
 id_coinmarketcap: '20409'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20409.png
 name: Okuru
-platform: ETH
-platform_contract: '0x22B48E1f20043D1Db5F2a11CbF1d520A4F20b198'

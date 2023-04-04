@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x73ed68b834e44096eb4bea6edead038c945722f1'
+    platform: ARB
 crypto: true
 fiat: false
 id: SHARKY
 id_coinmarketcap: '23616'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23616.png
 name: Sharky Swap
-platform: ARB
-platform_contract: '0x73ed68b834e44096eb4bea6edead038c945722f1'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3fab0bbaa03bceaf7c49e2b12877db0142be65fc'
+    platform: ETH
 crypto: true
 fiat: false
 id: CAST
 id_coinmarketcap: '19705'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19705.png
 name: Castello Coin
-platform: ETH
-platform_contract: '0x3fab0bbaa03bceaf7c49e2b12877db0142be65fc'

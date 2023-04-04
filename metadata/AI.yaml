@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x5121e348e897daef1eef23959ab290e5557cf274'
+    platform: ETH
 crypto: true
 fiat: false
 id: AI
@@ -6,5 +9,3 @@ id_nomics: AI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AI.png
 logoKey: currencies/ai.png
 name: Poly AI
-platform: ETH
-platform_contract: '0x5121e348e897daef1eef23959ab290e5557cf274'

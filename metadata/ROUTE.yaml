@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4'
+    platform: ETH
 crypto: true
 fiat: false
 id: ROUTE
 id_coinmarketcap: '8292'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8292.png
 name: Router Protocol
-platform: ETH
-platform_contract: '0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4'

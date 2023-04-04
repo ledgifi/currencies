@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5c59a5B139B0538CB106D775a022caD98Dd14b5a'
+    platform: ETH
 crypto: true
 fiat: false
 id: ORT1
 id_coinmarketcap: '20303'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20303.png
 name: XREATORS
-platform: ETH
-platform_contract: '0x5c59a5B139B0538CB106D775a022caD98Dd14b5a'

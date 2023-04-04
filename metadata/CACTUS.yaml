@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x08b80583ae903070Aa25bdB222B7c490433B4dAF'
+    platform: BNB
 crypto: true
 fiat: false
 id: CACTUS
 id_coinmarketcap: '23287'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23287.png
 name: CACTUS
-platform: BNB
-platform_contract: '0x08b80583ae903070Aa25bdB222B7c490433B4dAF'

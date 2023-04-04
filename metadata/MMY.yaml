@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x01e77288b38b416f972428d562454fb329350bac'
+    platform: FTM
 crypto: true
 fiat: false
 id: MMY
 id_coinmarketcap: '23038'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23038.png
 name: Mummy Finance
-platform: FTM
-platform_contract: '0x01e77288b38b416f972428d562454fb329350bac'

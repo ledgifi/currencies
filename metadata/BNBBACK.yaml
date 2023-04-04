@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x280EbB7c9F2C90Ac6dD136516598a2f9efe70507'
+    platform: BNB
 crypto: true
 fiat: false
 id: BNBBACK
 id_coinmarketcap: '18298'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18298.png
 name: BNBBack
-platform: BNB
-platform_contract: '0x280EbB7c9F2C90Ac6dD136516598a2f9efe70507'

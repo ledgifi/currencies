@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7404b8bda7a48319926eda374e0a6559bcfd2967'
+    platform: BNB
 crypto: true
 fiat: false
 id: LEAN1
 id_coinmarketcap: '10091'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10091.png
 name: Lean
-platform: BNB
-platform_contract: '0x7404b8bda7a48319926eda374e0a6559bcfd2967'

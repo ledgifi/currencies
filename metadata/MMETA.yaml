@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7a9c8d33963aecca9a821802adfaf5bd9392351f'
+    platform: BNB
 crypto: true
 fiat: false
 id: MMETA
 id_coinmarketcap: '16275'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16275.png
 name: Duckie Land
-platform: BNB
-platform_contract: '0x7a9c8d33963aecca9a821802adfaf5bd9392351f'

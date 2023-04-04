@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x10be9a8dae441d276a5027936c3aaded2d82bc15'
+    platform: ETH
 crypto: true
 fiat: false
 id: UMX
@@ -7,5 +10,3 @@ id_nomics: UMX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UMX.jpg
 logoKey: currencies/umx.jpg
 name: UniMex Network
-platform: ETH
-platform_contract: '0x10be9a8dae441d276a5027936c3aaded2d82bc15'

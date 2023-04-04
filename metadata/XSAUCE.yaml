@@ -1,8 +1,9 @@
+contracts:
+  - address: 0.0.1460200
+    platform: HBAR
 crypto: true
 fiat: false
 id: XSAUCE
 id_coinmarketcap: '23069'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23069.png
 name: xSAUCE
-platform: HBAR
-platform_contract: 0.0.1460200

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdC6104b7993e997Ca5f08aCAB7D3AE86E13D20a6'
+    platform: ETH
 crypto: true
 fiat: false
 id: STATE
 id_coinmarketcap: '8940'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8940.png
 name: ParaState
-platform: ETH
-platform_contract: '0xdC6104b7993e997Ca5f08aCAB7D3AE86E13D20a6'

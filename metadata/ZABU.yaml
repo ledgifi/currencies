@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xDd453dBD253fA4E5e745047d93667Ce9DA93bbCF'
+    platform: AVAX
 crypto: true
 fiat: false
 id: ZABU
 id_coinmarketcap: '11680'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11680.png
 name: Zabu Finance
-platform: AVAX
-platform_contract: '0xDd453dBD253fA4E5e745047d93667Ce9DA93bbCF'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x37c4bcf0b8fc6f074be933af7fb9d1dde55f979c'
+    platform: BNB
 crypto: true
 fiat: false
 id: DIAMONDS
 id_coinmarketcap: '10924'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10924.png
 name: Black Diamond
-platform: BNB
-platform_contract: '0x37c4bcf0b8fc6f074be933af7fb9d1dde55f979c'

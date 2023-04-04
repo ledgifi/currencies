@@ -1,4 +1,7 @@
 color: '#050708'
+contracts:
+  - address: '0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: NMR
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/nmr.svg
 logoKey: currencies/nmr.svg
 name: Numeraire
-platform: ETH
-platform_contract: '0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671'

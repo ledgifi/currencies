@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf5f3E96002593a529B1A7E9f5b4036647C3Ac8D2'
+    platform: BNB
 crypto: true
 fiat: false
 id: PYRO3
 id_coinmarketcap: '14412'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14412.png
 name: Pyroworld
-platform: BNB
-platform_contract: '0xf5f3E96002593a529B1A7E9f5b4036647C3Ac8D2'

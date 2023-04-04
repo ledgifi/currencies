@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc090352363D1C8DC9Ad3C12C6b795F65BbD28124'
+    platform: BNB
 crypto: true
 fiat: false
 id: IBT2
 id_coinmarketcap: '20432'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20432.png
 name: ICE BEAR TOKEN
-platform: BNB
-platform_contract: '0xc090352363D1C8DC9Ad3C12C6b795F65BbD28124'

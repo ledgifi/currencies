@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1735Db6AB5BAa19eA55d0AdcEeD7bcDc008B3136'
+    platform: ETH
 crypto: true
 fiat: false
 id: URQA
 id_coinmarketcap: '9053'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9053.png
 name: UREEQA
-platform: ETH
-platform_contract: '0x1735Db6AB5BAa19eA55d0AdcEeD7bcDc008B3136'

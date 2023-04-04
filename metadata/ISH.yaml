@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe377462302280136d7987720267fc4315b557b93'
+    platform: BNB
 crypto: true
 fiat: false
 id: ISH
 id_coinmarketcap: '11960'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11960.png
 name: Interlude
-platform: BNB
-platform_contract: '0xe377462302280136d7987720267fc4315b557b93'

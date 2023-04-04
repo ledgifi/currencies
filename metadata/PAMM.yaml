@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x30a9dab82f8fa64fdfea43665546e24aba7280db'
+    platform: ETH
 crypto: true
 fiat: false
 id: PAMM
 id_coinmarketcap: '5173'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5173.png
 name: PAMMCOIN
-platform: ETH
-platform_contract: '0x30a9dab82f8fa64fdfea43665546e24aba7280db'

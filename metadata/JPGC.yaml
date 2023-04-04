@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5891599664Ed15C6e88041B4F5bc08594f026f0e'
+    platform: ETH
 crypto: true
 fiat: false
 id: JPGC
 id_coinmarketcap: '21909'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21909.png
 name: JPGold Coin
-platform: ETH
-platform_contract: '0x5891599664Ed15C6e88041B4F5bc08594f026f0e'

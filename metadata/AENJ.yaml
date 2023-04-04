@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x712db54daa836b53ef1ecbb9c6ba3b9efb073f40'
+    platform: ETH
 crypto: true
 fiat: false
 id: AENJ
 id_coinmarketcap: '7068'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7068.png
 name: Aave ENJ
-platform: ETH
-platform_contract: '0x712db54daa836b53ef1ecbb9c6ba3b9efb073f40'

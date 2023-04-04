@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2d787D4f5005Bd66aC910c2E821241625c406ed5'
+    platform: ETH
 crypto: true
 fiat: false
 id: BERRY1
 id_coinmarketcap: '6257'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6257.png
 name: Berry
-platform: ETH
-platform_contract: '0x2d787D4f5005Bd66aC910c2E821241625c406ed5'

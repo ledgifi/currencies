@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x45f24baeef268bb6d63aee5129015d69702bcdfa'
+    platform: ETH
 crypto: true
 fiat: false
 id: YFV
 id_coinmarketcap: '6698'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6698.png
 name: YFValue
-platform: ETH
-platform_contract: '0x45f24baeef268bb6d63aee5129015d69702bcdfa'

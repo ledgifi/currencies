@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xC08364b9864b65CD0B6dcEb2487c87110d1AA126'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MLC1
 id_coinmarketcap: '15290'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15290.png
 name: MetaverseLinker
-platform: MATIC
-platform_contract: '0xC08364b9864b65CD0B6dcEb2487c87110d1AA126'

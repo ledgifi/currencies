@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xff4245b8fd43f75476608a94768ebb29bb678c2c'
+    platform: BNB
 crypto: true
 fiat: false
 id: YOKAI
 id_coinmarketcap: '14021'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14021.png
 name: Yokai Money
-platform: BNB
-platform_contract: '0xff4245b8fd43f75476608a94768ebb29bb678c2c'

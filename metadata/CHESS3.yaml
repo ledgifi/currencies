@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5f75112bBB4E1aF516fBE3e21528C63DA2B6a1A5'
+    platform: ETH
 crypto: true
 fiat: false
 id: CHESS3
 id_coinmarketcap: '6115'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6115.png
 name: Chess Coin
-platform: ETH
-platform_contract: '0x5f75112bBB4E1aF516fBE3e21528C63DA2B6a1A5'

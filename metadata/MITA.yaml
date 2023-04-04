@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xC8f456Ae5797BFb754080Ab7338fd2836169d239'
+    platform: BNB
 crypto: true
 fiat: false
 id: MITA
 id_coinmarketcap: '18251'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18251.png
 name: MITA
-platform: BNB
-platform_contract: '0xC8f456Ae5797BFb754080Ab7338fd2836169d239'

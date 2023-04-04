@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd294affd029d89054496675c52693b12decfd6dc'
+    platform: BNB
 crypto: true
 fiat: false
 id: LKT4
 id_coinmarketcap: '14530'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14530.png
 name: LuckyToken
-platform: BNB
-platform_contract: '0xd294affd029d89054496675c52693b12decfd6dc'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc7b7844494c516b840a7a4575ff3e60ff0f056a9'
+    platform: BNB
 crypto: true
 fiat: false
 id: MECH
 id_coinmarketcap: '12833'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12833.png
 name: Mech Master
-platform: BNB
-platform_contract: '0xc7b7844494c516b840a7a4575ff3e60ff0f056a9'

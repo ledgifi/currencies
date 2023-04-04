@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x80262F604acAC839724F66846F290A2cC8b48662'
+    platform: BNB
 crypto: true
 fiat: false
 id: Ari10
 id_coinmarketcap: '13936'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13936.png
 name: Ari10
-platform: BNB
-platform_contract: '0x80262F604acAC839724F66846F290A2cC8b48662'

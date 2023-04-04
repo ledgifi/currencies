@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcda8b42bc44aea65f8141d103633721df32c8a85'
+    platform: BNB
 crypto: true
 fiat: false
 id: $SHINJI
 id_coinmarketcap: '17673'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17673.png
 name: ShinjiRai
-platform: BNB
-platform_contract: '0xcda8b42bc44aea65f8141d103633721df32c8a85'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x51c5807dd8398aedfcc91e6483417838b41eaeb8'
+    platform: BNB
 crypto: true
 fiat: false
 id: KING4
 id_coinmarketcap: '14166'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14166.png
 name: Kingfund Finance
-platform: BNB
-platform_contract: '0x51c5807dd8398aedfcc91e6483417838b41eaeb8'

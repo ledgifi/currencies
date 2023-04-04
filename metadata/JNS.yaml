@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7A023A408F51c23760Eb31190fc731bc12B52954'
+    platform: AVAX
 crypto: true
 fiat: false
 id: JNS
 id_coinmarketcap: '21630'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21630.png
 name: Janus Network
-platform: AVAX
-platform_contract: '0x7A023A408F51c23760Eb31190fc731bc12B52954'

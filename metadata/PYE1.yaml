@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x853FCf1e9CAd2FAE2150621D583c98dc5f8748f3'
+    platform: BNB
 crypto: true
 fiat: false
 id: PYE1
 id_coinmarketcap: '16595'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16595.png
 name: PYE
-platform: BNB
-platform_contract: '0x853FCf1e9CAd2FAE2150621D583c98dc5f8748f3'

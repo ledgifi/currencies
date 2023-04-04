@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1e950AF2F6f8505c09F0Ca42c4b38F10979cb22E'
+    platform: ETH
 crypto: true
 fiat: false
 id: BURNX20
 id_coinmarketcap: '10072'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10072.png
 name: BurnX 2.0
-platform: ETH
-platform_contract: '0x1e950AF2F6f8505c09F0Ca42c4b38F10979cb22E'

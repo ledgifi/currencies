@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x02a655942Dbb886c77bb22B270060c561300B0E2'
+    platform: BNB
 crypto: true
 fiat: false
 id: KXP
 id_coinmarketcap: '22596'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22596.png
 name: KodexPay
-platform: BNB
-platform_contract: '0x02a655942Dbb886c77bb22B270060c561300B0E2'

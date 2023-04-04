@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x45402c2ce9f5d1d73f7674c8809d4bfde402b935'
+    platform: BNB
 crypto: true
 fiat: false
 id: POME
 id_coinmarketcap: '14010'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14010.png
 name: PomeRocket
-platform: BNB
-platform_contract: '0x45402c2ce9f5d1d73f7674c8809d4bfde402b935'

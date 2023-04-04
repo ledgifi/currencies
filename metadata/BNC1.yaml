@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xef51c9377feb29856e61625caf9390bd0b67ea18'
+    platform: ETH
 crypto: true
 fiat: false
 id: BNC1
 id_coinmarketcap: '3222'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3222.png
 name: Bionic
-platform: ETH
-platform_contract: '0xef51c9377feb29856e61625caf9390bd0b67ea18'

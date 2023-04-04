@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3e5a9f09923936427ad6e487b24e23a862fcf6b7'
+    platform: AVAX
 crypto: true
 fiat: false
 id: OTO2
 id_coinmarketcap: '19065'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19065.png
 name: OTO Protocol
-platform: AVAX
-platform_contract: '0x3e5a9f09923936427ad6e487b24e23a862fcf6b7'

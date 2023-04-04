@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xde1e704dae0b4051e80dabb26ab6ad6c12262da0'
+    platform: ETH
 crypto: true
 fiat: false
 id: DEI
 id_coinmarketcap: '12517'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12517.png
 name: DEI
-platform: ETH
-platform_contract: '0xde1e704dae0b4051e80dabb26ab6ad6c12262da0'

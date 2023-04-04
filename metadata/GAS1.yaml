@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6bba316c48b49bd1eac44573c5c871ff02958469'
+    platform: ETH
 crypto: true
 fiat: false
 id: GAS1
 id_coinmarketcap: '16606'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16606.png
 name: Gas DAO
-platform: ETH
-platform_contract: '0x6bba316c48b49bd1eac44573c5c871ff02958469'

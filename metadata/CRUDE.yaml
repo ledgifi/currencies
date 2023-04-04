@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8db702d9d561921c45be8df38830a653e4bc0299'
+    platform: BNB
 crypto: true
 fiat: false
 id: CRUDE
 id_coinmarketcap: '8527'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8527.png
 name: Crudeoil Finance
-platform: BNB
-platform_contract: '0x8db702d9d561921c45be8df38830a653e4bc0299'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x112df7e3b4b7ab424f07319d4e92f41e6608c48b'
+    platform: FTM
 crypto: true
 fiat: false
 id: PFTM
 id_coinmarketcap: '17994'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17994.png
 name: pFTM
-platform: FTM
-platform_contract: '0x112df7e3b4b7ab424f07319d4e92f41e6608c48b'

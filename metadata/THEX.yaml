@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3204dcde0c50b7b2e606587663a0fe2ee8dfb6bf'
+    platform: ETH
 crypto: true
 fiat: false
 id: THEX
 id_coinmarketcap: '4101'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4101.png
 name: Thore Exchange
-platform: ETH
-platform_contract: '0x3204dcde0c50b7b2e606587663a0fe2ee8dfb6bf'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x81cA302d88d089dD42E80e81623f84f9730e94FE'
+    platform: BNB
 crypto: true
 fiat: false
 id: BHAX
 id_coinmarketcap: '12981'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12981.png
 name: BHAX Token
-platform: BNB
-platform_contract: '0x81cA302d88d089dD42E80e81623f84f9730e94FE'

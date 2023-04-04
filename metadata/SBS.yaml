@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc1d99537392084cc02d3f52386729b79d01035ce'
+    platform: BNB
 crypto: true
 fiat: false
 id: SBS
 id_coinmarketcap: '8283'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8283.png
 name: StaysBASE
-platform: BNB
-platform_contract: '0xc1d99537392084cc02d3f52386729b79d01035ce'

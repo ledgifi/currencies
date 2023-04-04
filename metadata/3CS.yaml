@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4f56221252d117f35E2f6Ab937A3F77CAd38934D'
+    platform: ETH
 crypto: true
 fiat: false
 id: 3Cs
 id_coinmarketcap: '5907'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5907.png
 name: Crypto Cricket Club
-platform: ETH
-platform_contract: '0x4f56221252d117f35E2f6Ab937A3F77CAd38934D'

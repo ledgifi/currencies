@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbb8b7e9a870fbc22ce4b543fc3a43445fbf9097f'
+    platform: BNB
 crypto: true
 fiat: false
 id: REBL1
 id_coinmarketcap: '14600'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14600.png
 name: Rebellion Protocol
-platform: BNB
-platform_contract: '0xbb8b7e9a870fbc22ce4b543fc3a43445fbf9097f'

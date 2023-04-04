@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x0557Df767419296474C3f551Bb0A0ED4c2DD3380'
+    platform: ETH
 crypto: true
 fiat: false
 id: UPXAU
@@ -7,5 +10,3 @@ id_nomics: UPXAU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UPXAU.jpg
 logoKey: currencies/upxau.jpg
 name: Universal Gold
-platform: ETH
-platform_contract: '0x0557Df767419296474C3f551Bb0A0ED4c2DD3380'

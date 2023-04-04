@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2'
+    platform: ETH
 crypto: true
 fiat: false
 id: PPAY
@@ -7,5 +10,3 @@ id_nomics: PPAY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PPAY.png
 logoKey: currencies/ppay.png
 name: Plasma Finance
-platform: ETH
-platform_contract: '0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2'

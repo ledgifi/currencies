@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x0b38210ea11411557c13457D4dA7dC6ea731B88a'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: API3
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220121/b42cf014-adaf-482e-a80b-8aa2e658d1d5.png
 logoKey: currencies/api3.png
 name: API3
-platform: ETH
-platform_contract: '0x0b38210ea11411557c13457D4dA7dC6ea731B88a'

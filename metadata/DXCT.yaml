@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5b1baec64af6dc54e6e04349315919129a6d3c23'
+    platform: BNB
 crypto: true
 fiat: false
 id: DXCT
 id_coinmarketcap: '11211'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11211.png
 name: DNAxCAT Token
-platform: BNB
-platform_contract: '0x5b1baec64af6dc54e6e04349315919129a6d3c23'

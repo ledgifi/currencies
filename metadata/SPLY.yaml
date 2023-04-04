@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x40671E899e915d39036935F7cFFe35a5348E0a5c'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPLY
 id_coinmarketcap: '17577'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17577.png
 name: ShiPlay
-platform: BNB
-platform_contract: '0x40671E899e915d39036935F7cFFe35a5348E0a5c'

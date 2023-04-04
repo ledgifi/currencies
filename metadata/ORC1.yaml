@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x968f9C44879F67a29B1BfcCf93ea82d46A72881F'
+    platform: BNB
 crypto: true
 fiat: false
 id: ORC1
 id_coinmarketcap: '16880'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16880.png
 name: Orclands Metaverse
-platform: BNB
-platform_contract: '0x968f9C44879F67a29B1BfcCf93ea82d46A72881F'

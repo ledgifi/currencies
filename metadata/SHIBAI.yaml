@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4E5Be8a7Ae00cCD6Ec8FF59BAcF6c9F2002ddA7c'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIBAI
 id_coinmarketcap: '23841'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23841.png
 name: SHIBA AI
-platform: BNB
-platform_contract: '0x4E5Be8a7Ae00cCD6Ec8FF59BAcF6c9F2002ddA7c'

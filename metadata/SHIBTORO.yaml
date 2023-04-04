@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8aeb7c2d4758eb51080493e2cb290d62510659c7'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHIBTORO
 id_coinmarketcap: '18197'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18197.png
 name: Shibtoro
-platform: ETH
-platform_contract: '0x8aeb7c2d4758eb51080493e2cb290d62510659c7'

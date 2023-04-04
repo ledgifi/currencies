@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1136634119dc04f7cf1afd954c5d229cf91ccf41'
+    platform: BNB
 crypto: true
 fiat: false
 id: KLC
 id_coinmarketcap: '20529'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20529.png
 name: Kalycoin
-platform: BNB
-platform_contract: '0x1136634119dc04f7cf1afd954c5d229cf91ccf41'

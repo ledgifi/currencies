@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7aba852082b6f763e13010ca33b5d9ea4eee2983'
+    platform: CRO
 crypto: true
 fiat: false
 id: FIRA
 id_coinmarketcap: '22388'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22388.png
 name: Defira (Cronos)
-platform: CRO
-platform_contract: '0x7aba852082b6f763e13010ca33b5d9ea4eee2983'

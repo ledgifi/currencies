@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x592481A5F6b4F078cc303C2cDE4337dFA2d76fA0'
+    platform: ETH
 crypto: true
 fiat: false
 id: STN2
 id_coinmarketcap: '8321'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8321.png
 name: STING
-platform: ETH
-platform_contract: '0x592481A5F6b4F078cc303C2cDE4337dFA2d76fA0'

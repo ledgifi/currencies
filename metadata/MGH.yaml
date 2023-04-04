@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8765b1a0eb57ca49be7eacd35b24a574d0203656'
+    platform: ETH
 crypto: true
 fiat: false
 id: MGH
 id_coinmarketcap: '14844'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14844.png
 name: MetaGameHub DAO
-platform: ETH
-platform_contract: '0x8765b1a0eb57ca49be7eacd35b24a574d0203656'

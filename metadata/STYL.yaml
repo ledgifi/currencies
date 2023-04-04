@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd1e756a5868fcf56a01befc41a8163a6b4f67f43'
+    platform: BNB
 crypto: true
 fiat: false
 id: STYL
 id_coinmarketcap: '21900'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21900.png
 name: Stylike Governance
-platform: BNB
-platform_contract: '0xd1e756a5868fcf56a01befc41a8163a6b4f67f43'

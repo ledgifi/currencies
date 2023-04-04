@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x33af7644b1f60c8e8d62689b19d60a5d132164fc'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHG
 id_coinmarketcap: '16135'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16135.png
 name: Shib Generating
-platform: BNB
-platform_contract: '0x33af7644b1f60c8e8d62689b19d60a5d132164fc'

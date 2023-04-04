@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfAAec9f866Fa7f34a2c31c2B11D1723Ad4a46446'
+    platform: BNB
 crypto: true
 fiat: false
 id: HUMP
 id_coinmarketcap: '16812'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16812.png
 name: Whale Loans
-platform: BNB
-platform_contract: '0xfAAec9f866Fa7f34a2c31c2B11D1723Ad4a46446'

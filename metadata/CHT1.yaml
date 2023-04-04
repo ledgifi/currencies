@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x799d214d7143b766cdd4979cd0280939288ba931'
+    platform: ETH
 crypto: true
 fiat: false
 id: CHT1
 id_coinmarketcap: '3318'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3318.png
 name: Countinghouse
-platform: ETH
-platform_contract: '0x799d214d7143b766cdd4979cd0280939288ba931'

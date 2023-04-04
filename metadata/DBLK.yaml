@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x526ccc90191a9472299323816bd2c784c0a1bcde'
+    platform: ETH
 crypto: true
 fiat: false
 id: DBLK
 id_coinmarketcap: '3654'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3654.png
 name: DataOnBlock
-platform: ETH
-platform_contract: '0x526ccc90191a9472299323816bd2c784c0a1bcde'

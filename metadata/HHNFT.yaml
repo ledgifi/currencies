@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x882fd7db274b32dd0361931c406f7cf058bac822'
+    platform: BNB
 crypto: true
 fiat: false
 id: HHNFT
 id_coinmarketcap: '14070'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14070.png
 name: Hodler Heroes NFT
-platform: BNB
-platform_contract: '0x882fd7db274b32dd0361931c406f7cf058bac822'

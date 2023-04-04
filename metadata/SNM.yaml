@@ -1,4 +1,7 @@
 color: '#0b1c26'
+contracts:
+  - address: '0x983f6d60db79ea8ca4eb9968c6aff8cfa04b3c63'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: SNM
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/snm.svg
 logoKey: currencies/snm.svg
 name: SONM
-platform: ETH
-platform_contract: '0x983f6d60db79ea8ca4eb9968c6aff8cfa04b3c63'

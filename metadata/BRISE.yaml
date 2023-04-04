@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8fff93e810a2edaafc326edee51071da9d398e83'
+    platform: BNB
 crypto: true
 fiat: false
 id: BRISE
 id_coinmarketcap: '11079'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11079.png
 name: Bitgert
-platform: BNB
-platform_contract: '0x8fff93e810a2edaafc326edee51071da9d398e83'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x9d5e6b92ba3f75589943372df82dbd3a8a802e80'
+    platform: ETH
 crypto: true
 fiat: false
 id: FPT
@@ -5,5 +8,3 @@ id_coinmarketcap: '6445'
 id_nomics: FPT
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6445.png
 name: FINPLE
-platform: ETH
-platform_contract: '0x9d5e6b92ba3f75589943372df82dbd3a8a802e80'

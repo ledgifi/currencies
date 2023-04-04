@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf8759DE7F2C8d3F32Fd8f8e4c0C02D436a05DdEb'
+    platform: BNB
 crypto: true
 fiat: false
 id: URUB
 id_coinmarketcap: '13924'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13924.png
 name: Urubit
-platform: BNB
-platform_contract: '0xf8759DE7F2C8d3F32Fd8f8e4c0C02D436a05DdEb'

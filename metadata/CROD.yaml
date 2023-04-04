@@ -1,8 +1,9 @@
+contracts:
+  - address: NA
+    platform: CRO
 crypto: true
 fiat: false
 id: CROD
 id_coinmarketcap: '19251'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19251.png
 name: Crodo
-platform: CRO
-platform_contract: NA

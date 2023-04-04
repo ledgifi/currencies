@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1e9d0bb190ac34492aa11b80d28c1c86487a341f'
+    platform: ETH
 crypto: true
 fiat: false
 id: NEKO1
 id_coinmarketcap: '17383'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17383.png
 name: The Neko
-platform: ETH
-platform_contract: '0x1e9d0bb190ac34492aa11b80d28c1c86487a341f'

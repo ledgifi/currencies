@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9d38f670d15c14716be1f109a4f453e966a2b6d4'
+    platform: ETH
 crypto: true
 fiat: false
 id: QUID2
 id_coinmarketcap: '12699'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12699.png
 name: Quid Ika
-platform: ETH
-platform_contract: '0x9d38f670d15c14716be1f109a4f453e966a2b6d4'

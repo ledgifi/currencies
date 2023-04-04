@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa03110800894b3CcF8723D991d80875561F96777'
+    platform: BNB
 crypto: true
 fiat: false
 id: BGVT
 id_coinmarketcap: '22367'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22367.png
 name: BIT GAME VERSE TOKEN
-platform: BNB
-platform_contract: '0xa03110800894b3CcF8723D991d80875561F96777'

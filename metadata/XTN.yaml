@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x674C6Ad92Fd080e4004b2312b45f796a192D27a0'
+    platform: ETH
 crypto: true
 fiat: false
 id: XTN
 id_coinmarketcap: '5068'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5068.png
 name: Neutrino Index
-platform: ETH
-platform_contract: '0x674C6Ad92Fd080e4004b2312b45f796a192D27a0'

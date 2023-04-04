@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa2437A33049E878c35E16d10789a7D296baDE29e'
+    platform: ETH
 crypto: true
 fiat: false
 id: GALEON
 id_coinmarketcap: '18662'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18662.png
 name: Galeon
-platform: ETH
-platform_contract: '0xa2437A33049E878c35E16d10789a7D296baDE29e'

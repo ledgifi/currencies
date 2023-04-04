@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x724a4dbc096e8553120ec99d975ca62c1e4f9f51'
+    platform: ETH
 crypto: true
 fiat: false
 id: $YUKON
 id_coinmarketcap: '13245'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13245.png
 name: Yukon
-platform: ETH
-platform_contract: '0x724a4dbc096e8553120ec99d975ca62c1e4f9f51'

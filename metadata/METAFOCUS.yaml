@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA1C862a7c052cC025aAc1A315f2Ba286D53b4fB1'
+    platform: BNB
 crypto: true
 fiat: false
 id: METAFOCUS
 id_coinmarketcap: '17123'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17123.png
 name: MetaFocus
-platform: BNB
-platform_contract: '0xA1C862a7c052cC025aAc1A315f2Ba286D53b4fB1'

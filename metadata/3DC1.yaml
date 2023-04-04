@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0ffb9C929cC56b237eBFD4F4Da6A7FB1E69A18b6'
+    platform: ETH
 crypto: true
 fiat: false
 id: 3DC1
 id_coinmarketcap: '23152'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23152.png
 name: Three Dildos Capital
-platform: ETH
-platform_contract: '0x0ffb9C929cC56b237eBFD4F4Da6A7FB1E69A18b6'

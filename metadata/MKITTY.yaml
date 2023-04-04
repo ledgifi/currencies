@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x182db1252c39073eec9d743f13b5eeb80fde314e'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MKITTY
 id_coinmarketcap: '16761'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16761.png
 name: mKitty
-platform: MATIC
-platform_contract: '0x182db1252c39073eec9d743f13b5eeb80fde314e'

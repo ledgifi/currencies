@@ -1,4 +1,7 @@
 color: '#080d98'
+contracts:
+  - address: '0x6AFD5A1ea4b793CC1526d6Dc7e99A608b356eF7b'
+    platform: AVAX
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: STORM
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/storm.svg
 logoKey: currencies/storm.svg
 name: Storm
-platform: AVAX
-platform_contract: '0x6AFD5A1ea4b793CC1526d6Dc7e99A608b356eF7b'

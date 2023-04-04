@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xedb171c18ce90b633db442f2a6f72874093b49ef'
+    platform: ETH
 crypto: true
 fiat: false
 id: WAMPL
 id_coinmarketcap: '17610'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17610.png
 name: Wrapped Ampleforth
-platform: ETH
-platform_contract: '0xedb171c18ce90b633db442f2a6f72874093b49ef'

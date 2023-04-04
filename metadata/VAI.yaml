@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x4bd17003473389a42daf6a0a729f6fdb328bbbd7'
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: VAI2
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210204/46587db7-0a31-494c-873d-04e2aa780fc8.png
 logoKey: currencies/vai.png
 name: Vai
-platform: BNB
-platform_contract: '0x4bd17003473389a42daf6a0a729f6fdb328bbbd7'

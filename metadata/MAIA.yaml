@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x72c232d56542ba082592dee7c77b1c6cfa758bcd'
+    platform: METIS
 crypto: true
 fiat: false
 id: MAIA
 id_coinmarketcap: '17181'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17181.png
 name: Maia
-platform: METIS
-platform_contract: '0x72c232d56542ba082592dee7c77b1c6cfa758bcd'

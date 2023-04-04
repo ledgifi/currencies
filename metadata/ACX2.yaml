@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8B292BAaBf70b745C791C69E0D91D2265290e53f'
+    platform: BNB
 crypto: true
 fiat: false
 id: ACX2
 id_coinmarketcap: '12540'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12540.png
 name: ACCESSLAUNCHER
-platform: BNB
-platform_contract: '0x8B292BAaBf70b745C791C69E0D91D2265290e53f'

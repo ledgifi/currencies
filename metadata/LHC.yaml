@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x320d31183100280ccdf69366cd56180ea442a3e8'
+    platform: ETH
 crypto: true
 fiat: false
 id: LHC
 id_coinmarketcap: '12393'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12393.png
 name: Lightcoin
-platform: ETH
-platform_contract: '0x320d31183100280ccdf69366cd56180ea442a3e8'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6f59e0461ae5e2799f1fb3847f05a63b16d0dbf8'
+    platform: ETH
 crypto: true
 fiat: false
 id: ORCA1
 id_coinmarketcap: '5183'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5183.png
 name: ORCA Alliance
-platform: ETH
-platform_contract: '0x6f59e0461ae5e2799f1fb3847f05a63b16d0dbf8'

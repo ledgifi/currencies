@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1f8a626883d7724dbd59ef51cbd4bf1cf2016d13'
+    platform: ETH
 crypto: true
 fiat: false
 id: STAK
 id_coinmarketcap: '9441'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9441.png
 name: Jigstack
-platform: ETH
-platform_contract: '0x1f8a626883d7724dbd59ef51cbd4bf1cf2016d13'

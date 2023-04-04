@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x8290333cef9e6d528dd5618fb97a76f268f3edd4'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: ANKR
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/ankr.svg
 logoKey: currencies/ankr.svg
 name: Ankr
-platform: ETH
-platform_contract: '0x8290333cef9e6d528dd5618fb97a76f268f3edd4'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5f0bc16d50f72d10b719dbf6845de2e599eb5624'
+    platform: ETH
 crypto: true
 fiat: false
 id: VENT
 id_coinmarketcap: '11168'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11168.png
 name: Vent Finance
-platform: ETH
-platform_contract: '0x5f0bc16d50f72d10b719dbf6845de2e599eb5624'

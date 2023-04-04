@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x18D0717E9B3371a9EC4089CF0FE89e6591724556'
+    platform: BNB
 crypto: true
 fiat: false
 id: PALS1
 id_coinmarketcap: '21100'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21100.png
 name: Floki Marvin
-platform: BNB
-platform_contract: '0x18D0717E9B3371a9EC4089CF0FE89e6591724556'

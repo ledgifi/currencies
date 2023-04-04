@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9e725Cf7265D12fd5f59499AFf1258CA92CAc74d'
+    platform: MATIC
 crypto: true
 fiat: false
 id: CHICK
 id_coinmarketcap: '11116'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11116.png
 name: LoserChick
-platform: MATIC
-platform_contract: '0x9e725Cf7265D12fd5f59499AFf1258CA92CAc74d'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd07e82440A395f3F3551b42dA9210CD1Ef4f8B24'
+    platform: BNB
 crypto: true
 fiat: false
 id: PRL
 id_coinmarketcap: '15669'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15669.png
 name: The Parallel
-platform: BNB
-platform_contract: '0xd07e82440A395f3F3551b42dA9210CD1Ef4f8B24'

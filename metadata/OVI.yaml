@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6b3760facdeb7f798cd13c0af2e4cd9ddc085122'
+    platform: ETH
 crypto: true
 fiat: false
 id: OVI
 id_coinmarketcap: '9888'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9888.png
 name: Oviex
-platform: ETH
-platform_contract: '0x6b3760facdeb7f798cd13c0af2e4cd9ddc085122'

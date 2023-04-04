@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF823f18d13DF1ffdCed206708D389Dd455Bb802b'
+    platform: BNB
 crypto: true
 fiat: false
 id: CCF1
 id_coinmarketcap: '10755'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10755.png
 name: Cashcow Finance
-platform: BNB
-platform_contract: '0xF823f18d13DF1ffdCed206708D389Dd455Bb802b'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7'
+    platform: FTM
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: TOMB
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220404/eead64b5-fcaf-4968-84d8-690acd6a45a9.png
 logoKey: currencies/tomb.png
 name: Tomb
-platform: FTM
-platform_contract: '0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7'

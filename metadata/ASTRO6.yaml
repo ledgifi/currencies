@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x544de71b4a2c2484b058228827a4e8001c99c1af'
+    platform: BNB
 crypto: true
 fiat: false
 id: ASTRO6
 id_coinmarketcap: '14890'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14890.png
 name: Astronos
-platform: BNB
-platform_contract: '0x544de71b4a2c2484b058228827a4e8001c99c1af'

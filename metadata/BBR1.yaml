@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7671904eed7f10808B664fc30BB8693FD7237abF'
+    platform: ETH
 crypto: true
 fiat: false
 id: BBR1
 id_coinmarketcap: '8401'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8401.png
 name: Bitberry Token
-platform: ETH
-platform_contract: '0x7671904eed7f10808B664fc30BB8693FD7237abF'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xaA20c2e278D99f978989dAa4460F933745F862d5 '
+    platform: BNB
 crypto: true
 fiat: false
 id: ARKN
@@ -5,5 +8,3 @@ id_coinmarketcap: '18142'
 id_nomics: ARKN
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18142.png
 name: Ark Rivals
-platform: BNB
-platform_contract: '0xaA20c2e278D99f978989dAa4460F933745F862d5 '

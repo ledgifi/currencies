@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xebca5a64432660dc7aac05d52315b0583734151b'
+    platform: BNB
 crypto: true
 fiat: false
 id: FEB1
 id_coinmarketcap: '14288'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14288.png
 name: ForeverBlast
-platform: BNB
-platform_contract: '0xebca5a64432660dc7aac05d52315b0583734151b'

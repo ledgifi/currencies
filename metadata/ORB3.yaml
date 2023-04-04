@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x135d1e5FBeB5a8506aD0cC156878950c69749947'
+    platform: BNB
 crypto: true
 fiat: false
 id: ORB3
 id_coinmarketcap: '15902'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15902.png
 name: Pondering Orb
-platform: BNB
-platform_contract: '0x135d1e5FBeB5a8506aD0cC156878950c69749947'

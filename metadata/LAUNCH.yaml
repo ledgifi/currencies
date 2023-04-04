@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb5389a679151c4b8621b1098c6e0961a3cfee8d4'
+    platform: BNB
 crypto: true
 fiat: false
 id: LAUNCH
 id_coinmarketcap: '9279'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9279.png
 name: SuperLauncher
-platform: BNB
-platform_contract: '0xb5389a679151c4b8621b1098c6e0961a3cfee8d4'

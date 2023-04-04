@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5db3c8a942333f6468176a870db36eef120a34dc'
+    platform: VET
 crypto: true
 fiat: false
 id: SHA
 id_coinmarketcap: '3831'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3831.png
 name: Safe Haven
-platform: VET
-platform_contract: '0x5db3c8a942333f6468176a870db36eef120a34dc'

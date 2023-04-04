@@ -1,8 +1,9 @@
+contracts:
+  - address: TH1mbwCRzZwyGBUEPLBYFyfxAT3LFUbSDA
+    platform: TRX
 crypto: true
 fiat: false
 id: USHA
 id_coinmarketcap: '23761'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23761.png
 name: uShark
-platform: TRX
-platform_contract: TH1mbwCRzZwyGBUEPLBYFyfxAT3LFUbSDA

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x415acc3c6636211e67e248dc28400b452acefa68'
+    platform: ETH
 crypto: true
 fiat: false
 id: WFCT
 id_coinmarketcap: '11506'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11506.png
 name: Wrapped FCT
-platform: ETH
-platform_contract: '0x415acc3c6636211e67e248dc28400b452acefa68'

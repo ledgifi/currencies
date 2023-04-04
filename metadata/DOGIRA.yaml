@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd8c1232fcd219286e341271385bd70601503b3d7'
+    platform: ETH
 crypto: true
 fiat: false
 id: DOGIRA
 id_coinmarketcap: '12488'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12488.png
 name: Dogira
-platform: ETH
-platform_contract: '0xd8c1232fcd219286e341271385bd70601503b3d7'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x68569056c9D8E93201270a22588632a138Fca324'
+    platform: BNB
 crypto: true
 fiat: false
 id: YOLLLO
 id_coinmarketcap: '21854'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21854.png
 name: Yolllo
-platform: BNB
-platform_contract: '0x68569056c9D8E93201270a22588632a138Fca324'

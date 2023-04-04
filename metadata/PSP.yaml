@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcafe001067cdef266afb7eb5a286dcfd277f3de5'
+    platform: ETH
 crypto: true
 fiat: false
 id: PSP
 id_coinmarketcap: '14534'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14534.png
 name: ParaSwap
-platform: ETH
-platform_contract: '0xcafe001067cdef266afb7eb5a286dcfd277f3de5'

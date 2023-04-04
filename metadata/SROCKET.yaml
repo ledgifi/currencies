@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x94788309d420ad9f9f16d79fc13ab74de83f85f7'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SROCKET
 id_coinmarketcap: '20951'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20951.png
 name: Stable One Rocket
-platform: MATIC
-platform_contract: '0x94788309d420ad9f9f16d79fc13ab74de83f85f7'

@@ -1,8 +1,9 @@
+contracts:
+  - address: SP1H1733V5MZ3SZ9XRW9FKYGEZT0JDGEB8Y634C7R.miamicoin-token-v2
+    platform: STX
 crypto: true
 fiat: false
 id: MIA
 id_coinmarketcap: '10300'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10300.png
 name: MiamiCoin
-platform: STX
-platform_contract: SP1H1733V5MZ3SZ9XRW9FKYGEZT0JDGEB8Y634C7R.miamicoin-token-v2

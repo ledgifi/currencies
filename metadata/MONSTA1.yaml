@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x82598bb4C9B40217C0bB28b63eAae3a7aAbD9b7e'
+    platform: BNB
 crypto: true
 fiat: false
 id: MONSTA1
 id_coinmarketcap: '15775'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15775.png
 name: MetaMonstas
-platform: BNB
-platform_contract: '0x82598bb4C9B40217C0bB28b63eAae3a7aAbD9b7e'

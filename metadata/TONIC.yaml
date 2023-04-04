@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xDD73dEa10ABC2Bff99c60882EC5b2B81Bb1Dc5B2'
+    platform: CRO
 crypto: true
 fiat: false
 id: TONIC
@@ -6,5 +9,3 @@ id_nomics: TONIC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TONIC.png
 logoKey: currencies/tonic.png
 name: Tectonic
-platform: CRO
-platform_contract: '0xDD73dEa10ABC2Bff99c60882EC5b2B81Bb1Dc5B2'

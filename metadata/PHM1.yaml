@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF01Ed6A2b51F97BDeD9bd0Fc841c2D4B5e28BDb2'
+    platform: ETH
 crypto: true
 fiat: false
 id: PHM1
 id_coinmarketcap: '18071'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18071.png
 name: Phantom DAO
-platform: ETH
-platform_contract: '0xF01Ed6A2b51F97BDeD9bd0Fc841c2D4B5e28BDb2'

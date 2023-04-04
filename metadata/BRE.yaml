@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3A93bD0fA10050d206370eeA53276542A105C885'
+    platform: BOBA
 crypto: true
 fiat: false
 id: BRE
 id_coinmarketcap: '19256'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19256.png
 name: Boba Brewery
-platform: BOBA
-platform_contract: '0x3A93bD0fA10050d206370eeA53276542A105C885'

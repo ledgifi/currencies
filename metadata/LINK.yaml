@@ -1,4 +1,7 @@
 color: '#2a5ada'
+contracts:
+  - address: '0x514910771af9ca656af840dff83e8264ecf986ca'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: LINK
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/link.svg
 logoKey: currencies/link.svg
 name: ChainLink
-platform: ETH
-platform_contract: '0x514910771af9ca656af840dff83e8264ecf986ca'

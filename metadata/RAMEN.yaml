@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4f47a0d15c1e53f3d94c069c7d16977c29f9cb6b'
+    platform: BNB
 crypto: true
 fiat: false
 id: RAMEN
 id_coinmarketcap: '8547'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8547.png
 name: RamenSwap
-platform: BNB
-platform_contract: '0x4f47a0d15c1e53f3d94c069c7d16977c29f9cb6b'

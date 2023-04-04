@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xeBDA6aaE3f8c96eAEbe33cEEbbAE24Fc39F315d6'
+    platform: BNB
 crypto: true
 fiat: false
 id: MLX
 id_coinmarketcap: '21474'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21474.png
 name: Metaple Finance
-platform: BNB
-platform_contract: '0xeBDA6aaE3f8c96eAEbe33cEEbbAE24Fc39F315d6'

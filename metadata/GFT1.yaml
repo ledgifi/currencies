@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x17df9fbfc1cdab0f90eddc318c4f6fcada730cf2'
+    platform: IOTX
 crypto: true
 fiat: false
 id: GFT1
 id_coinmarketcap: '14275'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14275.png
 name: Game Fantasy Token
-platform: IOTX
-platform_contract: '0x17df9fbfc1cdab0f90eddc318c4f6fcada730cf2'

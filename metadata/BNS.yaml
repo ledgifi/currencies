@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd996035Db82cae33Ba1f16fDF23B816E5E9fAaBb'
+    platform: ETH
 crypto: true
 fiat: false
 id: BNS
 id_coinmarketcap: '5989'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5989.png
 name: BNS Token
-platform: ETH
-platform_contract: '0xd996035Db82cae33Ba1f16fDF23B816E5E9fAaBb'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x15c841043e13ffaa9a99fabea236d40f45615623'
+    platform: AVAX
 crypto: true
 fiat: false
 id: BUSINESSES
 id_coinmarketcap: '18858'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18858.png
 name: Vending Machines Tycoons
-platform: AVAX
-platform_contract: '0x15c841043e13ffaa9a99fabea236d40f45615623'

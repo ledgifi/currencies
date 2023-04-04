@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8e83eb3cc2585b9648687c3d1d9c7a2d17448772'
+    platform: BNB
 crypto: true
 fiat: false
 id: DAFT1
 id_coinmarketcap: '8913'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8913.png
 name: DaftCoin
-platform: BNB
-platform_contract: '0x8e83eb3cc2585b9648687c3d1d9c7a2d17448772'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8b3b45E48bE6C31366ffd9dD4F29C1edFFcbA97D'
+    platform: BNB
 crypto: true
 fiat: false
 id: WRAITH
 id_coinmarketcap: '11538'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11538.png
 name: Wraith
-platform: BNB
-platform_contract: '0x8b3b45E48bE6C31366ffd9dD4F29C1edFFcbA97D'

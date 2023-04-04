@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x657B83A0336561C8f64389a6f5aDE675C04b0C3b'
+    platform: ETH
 crypto: true
 fiat: false
 id: PCNT
 id_coinmarketcap: '8704'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8704.png
 name: Playcent
-platform: ETH
-platform_contract: '0x657B83A0336561C8f64389a6f5aDE675C04b0C3b'

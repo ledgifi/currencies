@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf2f087955684Eabdf252A16C7B6620a1e3774515'
+    platform: BNB
 crypto: true
 fiat: false
 id: PBK
 id_coinmarketcap: '13917'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13917.png
 name: Profit Bank
-platform: BNB
-platform_contract: '0xf2f087955684Eabdf252A16C7B6620a1e3774515'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfc4542634ebf9b7ff344e45e9640decfc1b676f4'
+    platform: BNB
 crypto: true
 fiat: false
 id: CPC3
 id_coinmarketcap: '16400'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16400.png
 name: CryptoPlants Club
-platform: BNB
-platform_contract: '0xfc4542634ebf9b7ff344e45e9640decfc1b676f4'

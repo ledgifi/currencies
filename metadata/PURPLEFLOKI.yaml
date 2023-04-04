@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x83713f2219894deb559ec5530e80e3bc116334dd'
+    platform: BNB
 crypto: true
 fiat: false
 id: PURPLEFLOKI
 id_coinmarketcap: '16171'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16171.png
 name: Purple Floki Inu
-platform: BNB
-platform_contract: '0x83713f2219894deb559ec5530e80e3bc116334dd'

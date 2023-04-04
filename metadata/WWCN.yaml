@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x54a3017754BFba73F71F37d893A368814CbFf457'
+    platform: ETH
 crypto: true
 fiat: false
 id: WWCN
 id_coinmarketcap: '18429'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18429.png
 name: Wrapped Widecoin
-platform: ETH
-platform_contract: '0x54a3017754BFba73F71F37d893A368814CbFf457'

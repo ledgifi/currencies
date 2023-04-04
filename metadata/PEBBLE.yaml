@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdc98c5543f3004debfaad8966ec403093d0aa4a8'
+    platform: ETH
 crypto: true
 fiat: false
 id: PEBBLE
 id_coinmarketcap: '13036'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13036.png
 name: Etherrock#72
-platform: ETH
-platform_contract: '0xdc98c5543f3004debfaad8966ec403093d0aa4a8'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xA693032e8cfDB8115c6E72B60Ae77a1A592fe4bD'
+    platform: ETH
 crypto: true
 fiat: false
 id: HIBIKI
@@ -7,5 +10,3 @@ id_nomics: HIBIKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HIBIKI.jpg
 logoKey: currencies/hibiki.jpg
 name: Hibiki Finance
-platform: ETH
-platform_contract: '0xA693032e8cfDB8115c6E72B60Ae77a1A592fe4bD'

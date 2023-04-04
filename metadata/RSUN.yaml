@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x917841c010b3d86ED886F36F2C9807E07a2e3093'
+    platform: BNB
 crypto: true
 fiat: false
 id: RSUN
 id_coinmarketcap: '11004'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11004.png
 name: RisingSun
-platform: BNB
-platform_contract: '0x917841c010b3d86ED886F36F2C9807E07a2e3093'

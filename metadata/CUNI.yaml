@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x35a18000230da775cac24873d00ff85bccded550'
+    platform: ETH
 crypto: true
 fiat: false
 id: CUNI
 id_coinmarketcap: '7308'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7308.png
 name: Compound Uni
-platform: ETH
-platform_contract: '0x35a18000230da775cac24873d00ff85bccded550'

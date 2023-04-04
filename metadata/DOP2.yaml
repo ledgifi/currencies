@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x844fa82f1e54824655470970f7004dd90546bb28'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOP2
 id_coinmarketcap: '9489'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9489.png
 name: Dopple Finance
-platform: BNB
-platform_contract: '0x844fa82f1e54824655470970f7004dd90546bb28'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xAAf8c293Ed36989D1871d2310B2845450d885673'
+    platform: BNB
 crypto: true
 fiat: false
 id: FIFA
 id_coinmarketcap: '21340'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21340.png
 name: FIFA World Cup Fans
-platform: BNB
-platform_contract: '0xAAf8c293Ed36989D1871d2310B2845450d885673'

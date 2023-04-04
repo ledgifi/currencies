@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb2a85C5ECea99187A977aC34303b80AcbDdFa208'
+    platform: AVAX
 crypto: true
 fiat: false
 id: ROCO
 id_coinmarketcap: '12653'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12653.png
 name: ROCO FINANCE
-platform: AVAX
-platform_contract: '0xb2a85C5ECea99187A977aC34303b80AcbDdFa208'

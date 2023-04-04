@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x23e2efA091112B85aF95Cf9195E505FD58a3DC8F'
+    platform: BNB
 crypto: true
 fiat: false
 id: MASTER
 id_coinmarketcap: '15820'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15820.png
 name: Beast Masters
-platform: BNB
-platform_contract: '0x23e2efA091112B85aF95Cf9195E505FD58a3DC8F'

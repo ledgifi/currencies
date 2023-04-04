@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x018fb5af9d015af25592a014c4266a84143de7a0'
+    platform: ETH
 crypto: true
 fiat: false
 id: MP3
 id_coinmarketcap: '8412'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8412.png
 name: MP3
-platform: ETH
-platform_contract: '0x018fb5af9d015af25592a014c4266a84143de7a0'

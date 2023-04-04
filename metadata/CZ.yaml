@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd1ceac1d42ce8ce956cc68e4fde3b58a6c41c55b'
+    platform: ETH
 crypto: true
 fiat: false
 id: CZ
 id_coinmarketcap: '6643'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6643.png
 name: CryptowarriorZ
-platform: ETH
-platform_contract: '0xd1ceac1d42ce8ce956cc68e4fde3b58a6c41c55b'

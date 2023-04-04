@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc0a696bbb66352e5b88624f1d1b8909c34dc4e4a'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIP1
 id_coinmarketcap: '13849'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13849.png
 name: Secured Ship
-platform: BNB
-platform_contract: '0xc0a696bbb66352e5b88624f1d1b8909c34dc4e4a'

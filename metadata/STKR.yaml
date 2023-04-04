@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x89dcff5fd892f2bfc8b75dba12804b651f769579'
+    platform: ETH
 crypto: true
 fiat: false
 id: STKR
 id_coinmarketcap: '8934'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8934.png
 name: StakerDAO
-platform: ETH
-platform_contract: '0x89dcff5fd892f2bfc8b75dba12804b651f769579'

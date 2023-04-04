@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB40B244A6f766eeDc2b34bb610d2cF40B257D6DC'
+    platform: AVAX
 crypto: true
 fiat: false
 id: PEDESTAL
 id_coinmarketcap: '20050'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20050.png
 name: Pedestal Node Finance
-platform: AVAX
-platform_contract: '0xB40B244A6f766eeDc2b34bb610d2cF40B257D6DC'

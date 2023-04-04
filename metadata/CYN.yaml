@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8BAc919fBca13d67e9f901BF41537931effF0E7D'
+    platform: BNB
 crypto: true
 fiat: false
 id: CYN
 id_coinmarketcap: '11203'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11203.png
 name: CYCAN NETWORK
-platform: BNB
-platform_contract: '0x8BAc919fBca13d67e9f901BF41537931effF0E7D'

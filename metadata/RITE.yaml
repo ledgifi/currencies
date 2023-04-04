@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0F5D54b27bDb556823F96f2536496550f8816dC5'
+    platform: BNB
 crypto: true
 fiat: false
 id: RITE
 id_coinmarketcap: '18353'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18353.png
 name: ritestream
-platform: BNB
-platform_contract: '0x0F5D54b27bDb556823F96f2536496550f8816dC5'

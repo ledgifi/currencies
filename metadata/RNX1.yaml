@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x36B314b562806cb3C35Bd12187386Da055808A43'
+    platform: BNB
 crypto: true
 fiat: false
 id: RNX1
 id_coinmarketcap: '20420'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20420.png
 name: Run X
-platform: BNB
-platform_contract: '0x36B314b562806cb3C35Bd12187386Da055808A43'

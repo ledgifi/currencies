@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf14922001a2fb8541a433905437ae954419c2439'
+    platform: ETH
 crypto: true
 fiat: false
 id: DIT
 id_coinmarketcap: '3264'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3264.png
 name: Digital Insurance Token
-platform: ETH
-platform_contract: '0xf14922001a2fb8541a433905437ae954419c2439'

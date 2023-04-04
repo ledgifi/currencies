@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x94939D55000B31B7808904a80aA7Bab05eF59Ed6'
+    platform: ETH
 crypto: true
 fiat: false
 id: JIAOZI
 id_coinmarketcap: '7035'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7035.png
 name: Jiaozi
-platform: ETH
-platform_contract: '0x94939D55000B31B7808904a80aA7Bab05eF59Ed6'

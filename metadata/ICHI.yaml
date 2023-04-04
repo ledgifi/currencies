@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6'
+    platform: ETH
 crypto: true
 fiat: false
 id: ICHI
 id_coinmarketcap: '7726'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7726.png
 name: ICHI
-platform: ETH
-platform_contract: '0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6'

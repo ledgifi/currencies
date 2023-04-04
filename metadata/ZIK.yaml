@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x88303fed02b31db9c7a9eafb711da9ef4a03e5d3'
+    platform: ETH
 crypto: true
 fiat: false
 id: ZIK
 id_coinmarketcap: '6249'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6249.png
 name: Ziktalk
-platform: ETH
-platform_contract: '0x88303fed02b31db9c7a9eafb711da9ef4a03e5d3'

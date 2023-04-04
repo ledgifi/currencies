@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9d39eF3bbCA5927909dde44476656B81BBe4eE75'
+    platform: BNB
 crypto: true
 fiat: false
 id: WEAR
 id_coinmarketcap: '18813'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18813.png
 name: MetaWear
-platform: BNB
-platform_contract: '0x9d39eF3bbCA5927909dde44476656B81BBe4eE75'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x557dd6700e66818af340cce17fd4508ced81fbc1'
+    platform: BNB
 crypto: true
 fiat: false
 id: PAPEL
 id_coinmarketcap: '9359'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9359.png
 name: Papel Token
-platform: BNB
-platform_contract: '0x557dd6700e66818af340cce17fd4508ced81fbc1'

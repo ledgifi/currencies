@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x37F70aa9fEfc8971117BD53A1Ddc2372aa7Eec41'
+    platform: FTM
 crypto: true
 fiat: false
 id: BOUJE
 id_coinmarketcap: '13522'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13522.png
 name: Bouje Token
-platform: FTM
-platform_contract: '0x37F70aa9fEfc8971117BD53A1Ddc2372aa7Eec41'

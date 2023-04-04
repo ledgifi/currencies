@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5541D83EFaD1f281571B343977648B75d95cdAC2'
+    platform: AVAX
 crypto: true
 fiat: false
 id: GRAPE
 id_coinmarketcap: '17420'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17420.png
 name: Grape Finance
-platform: AVAX
-platform_contract: '0x5541D83EFaD1f281571B343977648B75d95cdAC2'

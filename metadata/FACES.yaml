@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3C3a2080eC9fEcEE7588838899F98dCCf9D91868'
+    platform: ETH
 crypto: true
 fiat: false
 id: FACES
 id_coinmarketcap: '23709'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23709.png
 name: FACES by Anthony Sims
-platform: ETH
-platform_contract: '0x3C3a2080eC9fEcEE7588838899F98dCCf9D91868'

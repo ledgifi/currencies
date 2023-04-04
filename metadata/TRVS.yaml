@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x424909aea732e0b747e60c6ea9c35bb3e1311011'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRVS
 id_coinmarketcap: '16879'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16879.png
 name: Tracee Vision
-platform: ETH
-platform_contract: '0x424909aea732e0b747e60c6ea9c35bb3e1311011'

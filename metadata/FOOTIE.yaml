@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1062b27581401aac6b32a41d9507d1986f8b23e7'
+    platform: BNB
 crypto: true
 fiat: false
 id: FOOTIE
 id_coinmarketcap: '11669'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11669.png
 name: Footie Plus
-platform: BNB
-platform_contract: '0x1062b27581401aac6b32a41d9507d1986f8b23e7'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2ba63e81CF28DC82e81A6b31516323FFED2f3A25'
+    platform: BNB
 crypto: true
 fiat: false
 id: DECA
 id_coinmarketcap: '21367'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21367.png
 name: DecaSwap
-platform: BNB
-platform_contract: '0x2ba63e81CF28DC82e81A6b31516323FFED2f3A25'

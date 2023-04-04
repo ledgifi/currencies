@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf05a9382A4C3F29E2784502754293D88b835109C'
+    platform: ETH
 crypto: true
 fiat: false
 id: REX
 id_coinmarketcap: '1961'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1961.png
 name: imbrex
-platform: ETH
-platform_contract: '0xf05a9382A4C3F29E2784502754293D88b835109C'

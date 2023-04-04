@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x17fabaf66256fb40f350576bafa1807429708e34'
+    platform: BNB
 crypto: true
 fiat: false
 id: RocketBUSD
 id_coinmarketcap: '14001'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14001.png
 name: RocketBUSD
-platform: BNB
-platform_contract: '0x17fabaf66256fb40f350576bafa1807429708e34'

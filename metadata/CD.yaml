@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4e5ef3493bcfb5e7548913c3f2a40623be7d7f98'
+    platform: BNB
 crypto: true
 fiat: false
 id: CD
 id_coinmarketcap: '22774'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22774.png
 name: Cash Driver
-platform: BNB
-platform_contract: '0x4e5ef3493bcfb5e7548913c3f2a40623be7d7f98'

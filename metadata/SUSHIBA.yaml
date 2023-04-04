@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa96658cd0d04a8fdcdc30d1156cc65bbfc7591ed'
+    platform: BNB
 crypto: true
 fiat: false
 id: SUSHIBA
 id_coinmarketcap: '10308'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10308.png
 name: Sushiba
-platform: BNB
-platform_contract: '0xa96658cd0d04a8fdcdc30d1156cc65bbfc7591ed'

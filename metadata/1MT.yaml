@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7c56D81EcB5E1d287a1E22B89b01348f07bE3541'
+    platform: BNB
 crypto: true
 fiat: false
 id: 1MT
 id_coinmarketcap: '21531'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21531.png
 name: 1Move
-platform: BNB
-platform_contract: '0x7c56D81EcB5E1d287a1E22B89b01348f07bE3541'

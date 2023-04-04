@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaE73B38d1c9A8b274127ec30160a4927C4d71824'
+    platform: ETH
 crypto: true
 fiat: false
 id: STK1
 id_coinmarketcap: '2493'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2493.png
 name: STK
-platform: ETH
-platform_contract: '0xaE73B38d1c9A8b274127ec30160a4927C4d71824'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6a26ee7755d939b96cdcd8a0370630d48902fd7c'
+    platform: ETH
 crypto: true
 fiat: false
 id: MGKL
 id_coinmarketcap: '24094'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24094.png
 name: MAGIKAL.ai
-platform: ETH
-platform_contract: '0x6a26ee7755d939b96cdcd8a0370630d48902fd7c'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5'
+    platform: ETH
 crypto: true
 fiat: false
 id: OHM
@@ -7,5 +10,3 @@ id_nomics: OHM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OHM.jpg
 logoKey: currencies/ohm.jpg
 name: Olympus v2
-platform: ETH
-platform_contract: '0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5'

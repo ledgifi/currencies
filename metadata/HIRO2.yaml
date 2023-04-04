@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5dC1962beCe0F0753268604A8D7f3E89A16AE851'
+    platform: BNB
 crypto: true
 fiat: false
 id: HIRO2
 id_coinmarketcap: '20936'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20936.png
 name: Hiroki
-platform: BNB
-platform_contract: '0x5dC1962beCe0F0753268604A8D7f3E89A16AE851'

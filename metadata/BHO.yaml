@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8717e80EfF08F53A45b4A925009957E14860A8a8'
+    platform: BNB
 crypto: true
 fiat: false
 id: BHO
 id_coinmarketcap: '12280'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12280.png
 name: BHO Network
-platform: BNB
-platform_contract: '0x8717e80EfF08F53A45b4A925009957E14860A8a8'

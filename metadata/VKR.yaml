@@ -1,3 +1,6 @@
+contracts:
+  - address: terra1dy9kmlm4anr92e42mrkjwzyvfqwz66un00rwr5
+    platform: LUNC
 crypto: true
 fiat: false
 id: VKR
@@ -6,5 +9,3 @@ id_nomics: VKR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VKR.jpg
 logoKey: currencies/vkr.jpg
 name: Valkyrie Protocol
-platform: LUNC
-platform_contract: terra1dy9kmlm4anr92e42mrkjwzyvfqwz66un00rwr5

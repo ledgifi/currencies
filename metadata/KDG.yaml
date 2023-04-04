@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x87a2d9a9a6b2d61b2a57798f1b4b2ddd19458fb6'
+    platform: BNB
 crypto: true
 fiat: false
 id: KDG
 id_coinmarketcap: '5407'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5407.png
 name: KingdomStarter
-platform: BNB
-platform_contract: '0x87a2d9a9a6b2d61b2a57798f1b4b2ddd19458fb6'

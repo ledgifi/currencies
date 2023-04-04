@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x072987d5b36ad8d45552aed98879a7101ccdd749'
+    platform: ETH
 crypto: true
 fiat: false
 id: BNV1
 id_coinmarketcap: '16353'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16353.png
 name: BunnyVerse
-platform: ETH
-platform_contract: '0x072987d5b36ad8d45552aed98879a7101ccdd749'

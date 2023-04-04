@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x15146B447F72F3733E81fa3e6602b34471C96F64'
+    platform: BNB
 crypto: true
 fiat: false
 id: CHI3
 id_coinmarketcap: '13869'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13869.png
 name: The Three Kingdoms
-platform: BNB
-platform_contract: '0x15146B447F72F3733E81fa3e6602b34471C96F64'

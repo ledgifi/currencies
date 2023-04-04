@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf0fac7104aac544e4a7ce1a55adf2b5a25c65bd1'
+    platform: ETH
 crypto: true
 fiat: false
 id: PAMP
 id_coinmarketcap: '5780'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5780.png
 name: Pamp Network
-platform: ETH
-platform_contract: '0xf0fac7104aac544e4a7ce1a55adf2b5a25c65bd1'

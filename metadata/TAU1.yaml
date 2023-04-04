@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8632055b9CAeebEf7C7DccD95461608ca5378839'
+    platform: BNB
 crypto: true
 fiat: false
 id: TAU1
 id_coinmarketcap: '14048'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14048.png
 name: Atlantis Metaverse
-platform: BNB
-platform_contract: '0x8632055b9CAeebEf7C7DccD95461608ca5378839'

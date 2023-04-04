@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe9f84de264e91529af07fa2c746e934397810334'
+    platform: ETH
 crypto: true
 fiat: false
 id: SAK3
 id_coinmarketcap: '10608'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10608.png
 name: Sake
-platform: ETH
-platform_contract: '0xe9f84de264e91529af07fa2c746e934397810334'

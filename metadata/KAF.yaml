@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x14F1Ec1bA0f8a8E9A3B8178c9dCc32155E82c70b'
+    platform: BNB
 crypto: true
 fiat: false
 id: KAF
 id_coinmarketcap: '23936'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23936.png
 name: KAIF DAO Platform
-platform: BNB
-platform_contract: '0x14F1Ec1bA0f8a8E9A3B8178c9dCc32155E82c70b'

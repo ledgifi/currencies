@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xad326Fd5BC8B962063BA51FF142086b4aa1987ec'
+    platform: BNB
 crypto: true
 fiat: false
 id: CPET
 id_coinmarketcap: '17044'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17044.png
 name: Chain Pet
-platform: BNB
-platform_contract: '0xad326Fd5BC8B962063BA51FF142086b4aa1987ec'

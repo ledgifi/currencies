@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x07d9e49ea402194bf48a8276dafb16e4ed633317'
+    platform: ETH
 crypto: true
 fiat: false
 id: DALC
 id_coinmarketcap: '1912'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1912.png
 name: Dalecoin
-platform: ETH
-platform_contract: '0x07d9e49ea402194bf48a8276dafb16e4ed633317'

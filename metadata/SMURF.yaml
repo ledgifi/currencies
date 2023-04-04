@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x75afa9915b2210cd6329e820af0365e932bc1dd5'
+    platform: BNB
 crypto: true
 fiat: false
 id: SMURF
 id_coinmarketcap: '21363'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21363.png
 name: SmurfsINU
-platform: BNB
-platform_contract: '0x75afa9915b2210cd6329e820af0365e932bc1dd5'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2f53c0e79646c414fcf5aacaf7c8310b074c40a3'
+    platform: BNB
 crypto: true
 fiat: false
 id: EXMOC
 id_coinmarketcap: '21403'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21403.png
 name: EXMOC
-platform: BNB
-platform_contract: '0x2f53c0e79646c414fcf5aacaf7c8310b074c40a3'

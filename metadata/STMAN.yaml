@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb75088a5d75e9ff7264abc7d25721e4436ec309d'
+    platform: BNB
 crypto: true
 fiat: false
 id: STMAN
 id_coinmarketcap: '15515'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15515.png
 name: STMAN | Stickman's Battleground NFT Game
-platform: BNB
-platform_contract: '0xb75088a5d75e9ff7264abc7d25721e4436ec309d'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x96dd2c778fb281294fa9c1d2b8af3b47369306f2'
+    platform: ETH
 crypto: true
 fiat: false
 id: OVOA
 id_coinmarketcap: '7768'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7768.png
 name: TheOvOrideA
-platform: ETH
-platform_contract: '0x96dd2c778fb281294fa9c1d2b8af3b47369306f2'

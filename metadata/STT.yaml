@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9Ee75952E3408ed7005225855aA1835D6d0023CA'
+    platform: BNB
 crypto: true
 fiat: false
 id: STT
 id_coinmarketcap: '15840'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15840.png
 name: Stamen Tellus Token
-platform: BNB
-platform_contract: '0x9Ee75952E3408ed7005225855aA1835D6d0023CA'

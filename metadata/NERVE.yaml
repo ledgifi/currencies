@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8c21cef3c0f25e7fa267e33602702e3f91775360'
+    platform: BNB
 crypto: true
 fiat: false
 id: NERVE
 id_coinmarketcap: '13573'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13573.png
 name: NerveFlux
-platform: BNB
-platform_contract: '0x8c21cef3c0f25e7fa267e33602702e3f91775360'

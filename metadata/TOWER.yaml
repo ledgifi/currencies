@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x1c9922314ed1415c95b9fd453c3818fd41867d0b'
+    platform: ETH
 crypto: true
 fiat: false
 id: TOWER
@@ -7,5 +10,3 @@ id_nomics: TOWER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOWER.png
 logoKey: currencies/tower.png
 name: Tower
-platform: ETH
-platform_contract: '0x1c9922314ed1415c95b9fd453c3818fd41867d0b'

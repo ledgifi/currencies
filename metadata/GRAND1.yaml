@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xC41214fC9f2bD9705e7A271409471161aa0e8808'
+    platform: MATIC
 crypto: true
 fiat: false
 id: GRAND1
 id_coinmarketcap: '20368'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20368.png
 name: Grand Time
-platform: MATIC
-platform_contract: '0xC41214fC9f2bD9705e7A271409471161aa0e8808'

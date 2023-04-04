@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x48c3399719b582dd63eb5aadf12a40b4c3f52fa2'
+    platform: ETH
 crypto: true
 fiat: false
 id: SWISE
 id_coinmarketcap: '10439'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10439.png
 name: StakeWise
-platform: ETH
-platform_contract: '0x48c3399719b582dd63eb5aadf12a40b4c3f52fa2'

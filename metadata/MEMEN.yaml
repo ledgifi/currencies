@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xeF9a61e7A7c4D2249c740c4c0458c992598c4714'
+    platform: BNB
 crypto: true
 fiat: false
 id: MEMEN
 id_coinmarketcap: '21000'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21000.png
 name: MemeNation
-platform: BNB
-platform_contract: '0xeF9a61e7A7c4D2249c740c4c0458c992598c4714'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfe1d71498da3261844ec14325bdbc93c0f7579f0'
+    platform: ETH
 crypto: true
 fiat: false
 id: GMBC
 id_coinmarketcap: '3697'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3697.png
 name: Gamblica
-platform: ETH
-platform_contract: '0xfe1d71498da3261844ec14325bdbc93c0f7579f0'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xee814f5b2bf700d2e843dc56835d28d095161dd9'
+    platform: BNB
 crypto: true
 fiat: false
 id: GRAND
 id_coinmarketcap: '11276'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11276.png
 name: The Grand Banks
-platform: BNB
-platform_contract: '0xee814f5b2bf700d2e843dc56835d28d095161dd9'

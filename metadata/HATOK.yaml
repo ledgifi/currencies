@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xeb9a5cee5ece46338c82bde90af677585ee6f806'
+    platform: BNB
 crypto: true
 fiat: false
 id: HATOK
 id_coinmarketcap: '16733'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16733.png
 name: Human Asset Token
-platform: BNB
-platform_contract: '0xeb9a5cee5ece46338c82bde90af677585ee6f806'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x46ca8ed5465cb859bb3c3364078912c25f4d74de'
+    platform: ARB
 crypto: true
 fiat: false
 id: KTN1
 id_coinmarketcap: '22676'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22676.png
 name: Kostren Finance
-platform: ARB
-platform_contract: '0x46ca8ed5465cb859bb3c3364078912c25f4d74de'

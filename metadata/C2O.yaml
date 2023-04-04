@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x13ca8eb6405cfbe2eae5d00207651002083fbc9d'
+    platform: ETH
 crypto: true
 fiat: false
 id: C2O
 id_coinmarketcap: '7214'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7214.png
 name: CryptoWater
-platform: ETH
-platform_contract: '0x13ca8eb6405cfbe2eae5d00207651002083fbc9d'

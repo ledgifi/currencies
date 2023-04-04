@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCB5A05beF3257613E984C17DbcF039952B6d883F'
+    platform: ETH
 crypto: true
 fiat: false
 id: SGR
 id_coinmarketcap: '2196'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2196.png
 name: Sugar Exchange
-platform: ETH
-platform_contract: '0xCB5A05beF3257613E984C17DbcF039952B6d883F'

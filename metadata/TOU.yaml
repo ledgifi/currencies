@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1e29ca8c874b4dff828297cc2e9856819eea0933'
+    platform: BNB
 crypto: true
 fiat: false
 id: TOU
 id_coinmarketcap: '5162'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5162.png
 name: TOURISTOKEN
-platform: BNB
-platform_contract: '0x1e29ca8c874b4dff828297cc2e9856819eea0933'

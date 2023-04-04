@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0622769D566B3c4C1C58cA4FAbee8E60bb3163e5'
+    platform: ETH
 crypto: true
 fiat: false
 id: YUSDT
 id_coinmarketcap: '4962'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4962.png
 name: Yellow Tether
-platform: ETH
-platform_contract: '0x0622769D566B3c4C1C58cA4FAbee8E60bb3163e5'

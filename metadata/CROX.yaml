@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2c094f5a7d1146bb93850f629501eb749f6ed491'
+    platform: BNB
 crypto: true
 fiat: false
 id: CROX
 id_coinmarketcap: '9548'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9548.png
 name: CroxSwap
-platform: BNB
-platform_contract: '0x2c094f5a7d1146bb93850f629501eb749f6ed491'

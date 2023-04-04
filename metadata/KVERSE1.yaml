@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb83d6cc314542dc3d628b4941de90338e564b831'
+    platform: BNB
 crypto: true
 fiat: false
 id: KVERSE1
 id_coinmarketcap: '18170'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18170.png
 name: KVerse Society
-platform: BNB
-platform_contract: '0xb83d6cc314542dc3d628b4941de90338e564b831'

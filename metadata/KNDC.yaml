@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8E5610ab5E39d26828167640EA29823fe1dD5843'
+    platform: ETH
 crypto: true
 fiat: false
 id: KNDC
 id_coinmarketcap: '2890'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2890.png
 name: KanadeCoin
-platform: ETH
-platform_contract: '0x8E5610ab5E39d26828167640EA29823fe1dD5843'

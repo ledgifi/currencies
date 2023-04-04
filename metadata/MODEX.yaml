@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4bcea5e4d0f6ed53cf45e7a28febb2d3621d7438'
+    platform: ETH
 crypto: true
 fiat: false
 id: MODEX
 id_coinmarketcap: '4916'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4916.png
 name: Modex
-platform: ETH
-platform_contract: '0x4bcea5e4d0f6ed53cf45e7a28febb2d3621d7438'

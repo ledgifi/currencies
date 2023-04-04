@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf65B5C5104c4faFD4b709d9D60a185eAE063276c'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRU1
 id_coinmarketcap: '7296'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7296.png
 name: Truebit
-platform: ETH
-platform_contract: '0xf65B5C5104c4faFD4b709d9D60a185eAE063276c'

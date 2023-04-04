@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6'
+    platform: ETH
 crypto: true
 fiat: false
 id: DCN
 id_coinmarketcap: '1876'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1876.png
 name: Dentacoin
-platform: ETH
-platform_contract: '0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6'

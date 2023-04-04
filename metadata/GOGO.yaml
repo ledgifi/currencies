@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdD2AF2E723547088D3846841fbDcC6A8093313d6'
+    platform: MATIC
 crypto: true
 fiat: false
 id: GOGO
 id_coinmarketcap: '15652'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15652.png
 name: GOGOcoin
-platform: MATIC
-platform_contract: '0xdD2AF2E723547088D3846841fbDcC6A8093313d6'

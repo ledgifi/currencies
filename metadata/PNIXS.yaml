@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x509949c4ee0c1c2c765cf9b23c75d823981e22ae'
+    platform: BNB
 crypto: true
 fiat: false
 id: PNIXS
 id_coinmarketcap: '9641'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9641.png
 name: PhoenxiDefi Finance
-platform: BNB
-platform_contract: '0x509949c4ee0c1c2c765cf9b23c75d823981e22ae'

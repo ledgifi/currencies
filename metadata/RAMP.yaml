@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: RAMP
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/4d73f69e-3a16-4c6e-a1b3-92856f673ac7.png
 logoKey: currencies/ramp.png
 name: RAMP
-platform: ETH
-platform_contract: '0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f'

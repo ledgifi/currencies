@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x86432b9bea373172c852d5bbab1c275fec3f15ae'
+    platform: BNB
 crypto: true
 fiat: false
 id: SLEEPY
 id_coinmarketcap: '9774'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9774.png
 name: Sleepy Sloth Finance
-platform: BNB
-platform_contract: '0x86432b9bea373172c852d5bbab1c275fec3f15ae'

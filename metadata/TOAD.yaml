@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x463e737d8f740395abf44f7aac2d9531d8d539e9'
+    platform: BNB
 crypto: true
 fiat: false
 id: TOAD
 id_coinmarketcap: '9983'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9983.png
 name: TOAD.Network
-platform: BNB
-platform_contract: '0x463e737d8f740395abf44f7aac2d9531d8d539e9'

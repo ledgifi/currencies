@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x91d5546564A31CE5f0f4F3302C55f6921E1916Af'
+    platform: BNB
 crypto: true
 fiat: false
 id: SDF
 id_coinmarketcap: '21723'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21723.png
 name: ShadowFi
-platform: BNB
-platform_contract: '0x91d5546564A31CE5f0f4F3302C55f6921E1916Af'

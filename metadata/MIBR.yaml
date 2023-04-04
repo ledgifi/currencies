@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x561e2e5acbd6cd9cbcc4a3aa0216c7508058df94'
+    platform: CHZ
 crypto: true
 fiat: false
 id: MIBR
 id_coinmarketcap: '21959'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21959.png
 name: MIBR Fan Token
-platform: CHZ
-platform_contract: '0x561e2e5acbd6cd9cbcc4a3aa0216c7508058df94'

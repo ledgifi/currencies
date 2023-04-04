@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x8D7d3409881b51466B483B11Ea1B8A03cdEd89ae'
+    platform: FTM
 crypto: true
 decimals: 8
 fiat: false
@@ -7,5 +10,3 @@ id_coinmarketcap: '17954'
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220506/9b14939d-84e1-4673-8912-56f88603ff87.png
 logoKey: currencies/based.png
 name: Based
-platform: FTM
-platform_contract: '0x8D7d3409881b51466B483B11Ea1B8A03cdEd89ae'

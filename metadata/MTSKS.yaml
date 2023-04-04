@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x26817C1B50F4fe54dcc2f7AdC8345D52400B89aD'
+    platform: BNB
 crypto: true
 fiat: false
 id: MTSKS
 id_coinmarketcap: '21448'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21448.png
 name: Metastocks
-platform: BNB
-platform_contract: '0x26817C1B50F4fe54dcc2f7AdC8345D52400B89aD'

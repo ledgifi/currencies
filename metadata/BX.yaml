@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2a6788bf2354ebc4940656d4721afa0ad0f25f6b'
+    platform: BNB
 crypto: true
 fiat: false
 id: BX
 id_coinmarketcap: '21331'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21331.png
 name: BlockXpress
-platform: BNB
-platform_contract: '0x2a6788bf2354ebc4940656d4721afa0ad0f25f6b'

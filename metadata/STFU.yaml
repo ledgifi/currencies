@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4d0cc4786b383e2c7846ba994546b85954924802'
+    platform: BNB
 crypto: true
 fiat: false
 id: STFU
 id_coinmarketcap: '21878'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21878.png
 name: STFU Labs
-platform: BNB
-platform_contract: '0x4d0cc4786b383e2c7846ba994546b85954924802'

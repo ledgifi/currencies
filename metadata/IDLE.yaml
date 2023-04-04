@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x875773784Af8135eA0ef43b5a374AaD105c5D39e'
+    platform: ETH
 crypto: true
 fiat: false
 id: IDLE
@@ -7,5 +10,3 @@ id_nomics: IDLE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IDLE.png
 logoKey: currencies/idle.png
 name: IDLE
-platform: ETH
-platform_contract: '0x875773784Af8135eA0ef43b5a374AaD105c5D39e'

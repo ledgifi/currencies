@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc902ec192c07fe65123c5c9c5e00b363e2eb9332'
+    platform: BNB
 crypto: true
 fiat: false
 id: SNACK1
 id_coinmarketcap: '9102'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9102.png
 name: CriptoSnack
-platform: BNB
-platform_contract: '0xc902ec192c07fe65123c5c9c5e00b363e2eb9332'

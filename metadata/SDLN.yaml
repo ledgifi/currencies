@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8e2e96a890dfaca6957ea899e1c37411a111afd2'
+    platform: BNB
 crypto: true
 fiat: false
 id: SDLN
 id_coinmarketcap: '17041'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17041.png
 name: Seedling Token
-platform: BNB
-platform_contract: '0x8e2e96a890dfaca6957ea899e1c37411a111afd2'

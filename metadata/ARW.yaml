@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x351caa9045d65107b9d311d922d15887cfd634e4'
+    platform: ETH
 crypto: true
 fiat: false
 id: ARW
 id_coinmarketcap: '12485'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12485.png
 name: Arowana Token
-platform: ETH
-platform_contract: '0x351caa9045d65107b9d311d922d15887cfd634e4'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xAeBdbcc7d6821E3924EE5167b4138a43c19Cf681'
+    platform: BNB
 crypto: true
 fiat: false
 id: HODLX
 id_coinmarketcap: '19636'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19636.png
 name: HODLX
-platform: BNB
-platform_contract: '0xAeBdbcc7d6821E3924EE5167b4138a43c19Cf681'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x559eBC30b0E58a45Cc9fF573f77EF1e5eb1b3E18'
+    platform: ETH
 crypto: true
 fiat: false
 id: VOLT10
 id_coinmarketcap: '19769'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19769.png
 name: Volt Protocol
-platform: ETH
-platform_contract: '0x559eBC30b0E58a45Cc9fF573f77EF1e5eb1b3E18'

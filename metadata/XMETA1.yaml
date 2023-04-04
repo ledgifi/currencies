@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB080171C8999C336cC115d4d8224C2dE51657A1c'
+    platform: BNB
 crypto: true
 fiat: false
 id: XMETA1
 id_coinmarketcap: '20241'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20241.png
 name: X-Metaverse
-platform: BNB
-platform_contract: '0xB080171C8999C336cC115d4d8224C2dE51657A1c'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x39eafea0e07cb14ca17b088f301c1f29b409176b'
+    platform: ETH
 crypto: true
 fiat: false
 id: DRYDOGE
 id_coinmarketcap: '14816'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14816.png
 name: Dry Doge Metaverse
-platform: ETH
-platform_contract: '0x39eafea0e07cb14ca17b088f301c1f29b409176b'

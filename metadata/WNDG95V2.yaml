@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x42E70587ee2A272d215F67e3B0eDCbf35E232c94'
+    platform: BNB
 crypto: true
 fiat: false
 id: WNDG95v2
 id_coinmarketcap: '14365'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14365.png
 name: WINDOGE95
-platform: BNB
-platform_contract: '0x42E70587ee2A272d215F67e3B0eDCbf35E232c94'

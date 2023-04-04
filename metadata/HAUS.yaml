@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xf2051511b9b121394fa75b8f7d4e7424337af687'
+    platform: ETH
 crypto: true
 fiat: false
 id: HAUS
@@ -7,5 +10,3 @@ id_nomics: HAUS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HAUS.png
 logoKey: currencies/haus.png
 name: DAOhaus
-platform: ETH
-platform_contract: '0xf2051511b9b121394fa75b8f7d4e7424337af687'

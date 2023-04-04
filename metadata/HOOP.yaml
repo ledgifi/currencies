@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF19cfb40B3774dF6Eed83169Ad5aB0Aaf6865F25'
+    platform: BNB
 crypto: true
 fiat: false
 id: HOOP
 id_coinmarketcap: '20191'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20191.png
 name: Chibi Dinos
-platform: BNB
-platform_contract: '0xF19cfb40B3774dF6Eed83169Ad5aB0Aaf6865F25'

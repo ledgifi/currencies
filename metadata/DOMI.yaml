@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x45C2F8c9B4c0bDC76200448cc26C48ab6ffef83F'
+    platform: ETH
 crypto: true
 fiat: false
 id: DOMI
 id_coinmarketcap: '15688'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15688.png
 name: Domi Online
-platform: ETH
-platform_contract: '0x45C2F8c9B4c0bDC76200448cc26C48ab6ffef83F'

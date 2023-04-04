@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x41ad4093349c8a60de591a3c37dcd184558eaae3'
+    platform: ETH
 crypto: true
 fiat: false
 id: BITN
 id_coinmarketcap: '4914'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4914.png
 name: Bitcoin & Company Network
-platform: ETH
-platform_contract: '0x41ad4093349c8a60de591a3c37dcd184558eaae3'

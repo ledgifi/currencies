@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4Be8c674C51674bEb729832682bBA5E5b105b6e2'
+    platform: BNB
 crypto: true
 fiat: false
 id: RUSD
 id_coinmarketcap: '20752'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20752.png
 name: Reflecto USD
-platform: BNB
-platform_contract: '0x4Be8c674C51674bEb729832682bBA5E5b105b6e2'

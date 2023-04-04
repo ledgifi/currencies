@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe9Ec556703005f798d4F965c254FC427A64e831e'
+    platform: ETH
 crypto: true
 fiat: false
 id: EXG
 id_coinmarketcap: '23459'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23459.png
 name: EXGOLAND
-platform: ETH
-platform_contract: '0xe9Ec556703005f798d4F965c254FC427A64e831e'

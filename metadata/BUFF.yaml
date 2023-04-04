@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x10a49f1fC8C604eA7f1c49bcc6ab2A8E58e77EA5'
+    platform: BNB
 crypto: true
 fiat: false
 id: BUFF
 id_coinmarketcap: '12122'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12122.png
 name: BuffaloSwap
-platform: BNB
-platform_contract: '0x10a49f1fC8C604eA7f1c49bcc6ab2A8E58e77EA5'

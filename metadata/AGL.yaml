@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA4434AFEae0dECb9820D906BF01b13291D00651a'
+    platform: CRO
 crypto: true
 fiat: false
 id: AGL
 id_coinmarketcap: '16409'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16409.png
 name: Agile Finance
-platform: CRO
-platform_contract: '0xA4434AFEae0dECb9820D906BF01b13291D00651a'

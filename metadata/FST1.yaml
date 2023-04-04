@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0e192d382a36de7011f795acc4391cd302003606'
+    platform: ETH
 crypto: true
 fiat: false
 id: FST1
 id_coinmarketcap: '8961'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8961.png
 name: Futureswap
-platform: ETH
-platform_contract: '0x0e192d382a36de7011f795acc4391cd302003606'

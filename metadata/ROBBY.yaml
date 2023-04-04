@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1B37392207512F5FA8812a3991CC0308107E6995'
+    platform: ETH
 crypto: true
 fiat: false
 id: ROBBY
 id_coinmarketcap: '20052'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20052.png
 name: ROBBY
-platform: ETH
-platform_contract: '0x1B37392207512F5FA8812a3991CC0308107E6995'

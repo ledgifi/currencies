@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe8a1df958be379045e2b46a31a98b93a2ecdfded'
+    platform: ETH
 crypto: true
 fiat: false
 id: ESZ
 id_coinmarketcap: '2509'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2509.png
 name: EtherSportz
-platform: ETH
-platform_contract: '0xe8a1df958be379045e2b46a31a98b93a2ecdfded'

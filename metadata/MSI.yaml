@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc4c75f2a0cb1a9acc33929512dc9733ea1fd6fde'
+    platform: ETH
 crypto: true
 fiat: false
 id: MSI
 id_coinmarketcap: '20990'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20990.png
 name: Martin Shkreli Inu
-platform: ETH
-platform_contract: '0xc4c75f2a0cb1a9acc33929512dc9733ea1fd6fde'

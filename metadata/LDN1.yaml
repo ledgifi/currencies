@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8260aa7b903fa1746820ebf674f2f837b22f016b'
+    platform: ETH
 crypto: true
 fiat: false
 id: LDN1
 id_coinmarketcap: '4083'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4083.png
 name: LydianCoin
-platform: ETH
-platform_contract: '0x8260aa7b903fa1746820ebf674f2f837b22f016b'

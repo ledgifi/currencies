@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4556A6f454f15C4cD57167a62bdA65A6be325D1F'
+    platform: BNB
 crypto: true
 fiat: false
 id: FAM
 id_coinmarketcap: '11565'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11565.png
 name: Famcentral
-platform: BNB
-platform_contract: '0x4556A6f454f15C4cD57167a62bdA65A6be325D1F'

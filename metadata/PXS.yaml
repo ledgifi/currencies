@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x358d12436080a01a16f711014610f8a4c2c2d233'
+    platform: ETH
 crypto: true
 fiat: false
 id: PXS
 id_coinmarketcap: '2451'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2451.png
 name: Pundi X
-platform: ETH
-platform_contract: '0x358d12436080a01a16f711014610f8a4c2c2d233'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf48E678E82FC1140d095b71daa6138256179177e'
+    platform: BNB
 crypto: true
 fiat: false
 id: P3NGUIN
 id_coinmarketcap: '9404'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9404.png
 name: SpacePenguin
-platform: BNB
-platform_contract: '0xf48E678E82FC1140d095b71daa6138256179177e'

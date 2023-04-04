@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1e4E46b7BF03ECE908c88FF7cC4975560010893A'
+    platform: ETH
 crypto: true
 fiat: false
 id: IOEN
 id_coinmarketcap: '12799'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12799.png
 name: Internet of Energy Network
-platform: ETH
-platform_contract: '0x1e4E46b7BF03ECE908c88FF7cC4975560010893A'

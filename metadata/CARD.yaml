@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x954b890704693af242613edef1b603825afcd708'
+    platform: ETH
 crypto: true
 fiat: false
 id: CARD
@@ -7,5 +10,3 @@ id_nomics: CARD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/card.jpg
 logoKey: currencies/card.jpg
 name: Cardstack
-platform: ETH
-platform_contract: '0x954b890704693af242613edef1b603825afcd708'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3b1a3c5d9d5c60651d4841c7814aa0fbb45a863d'
+    platform: ETH
 crypto: true
 fiat: false
 id: LAEEB4
 id_coinmarketcap: '22329'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22329.png
 name: Laeeb Inu
-platform: ETH
-platform_contract: '0x3b1a3c5d9d5c60651d4841c7814aa0fbb45a863d'

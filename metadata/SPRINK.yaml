@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbef7cb91fe9cd57f0c60811b83ab5f8e0dab8795'
+    platform: ETH
 crypto: true
 fiat: false
 id: SPRINK
 id_coinmarketcap: '8844'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8844.png
 name: SPRINK
-platform: ETH
-platform_contract: '0xbef7cb91fe9cd57f0c60811b83ab5f8e0dab8795'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x371b97c779e8c5197426215225de0eeac7dd13af'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SEED5
 id_coinmarketcap: '12263'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12263.png
 name: SEED
-platform: MATIC
-platform_contract: '0x371b97c779e8c5197426215225de0eeac7dd13af'

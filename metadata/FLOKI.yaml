@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xcf0c122c6b73ff809c693db761e7baebe62b6a2e'
+    platform: ETH
 crypto: true
 fiat: false
 id: FLOKI
@@ -6,5 +9,3 @@ id_nomics: FLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKI.png
 logoKey: currencies/floki.png
 name: Floki Inu (ERC-20)
-platform: ETH
-platform_contract: '0xcf0c122c6b73ff809c693db761e7baebe62b6a2e'

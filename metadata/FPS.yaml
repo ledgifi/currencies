@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x213503534d927424a5cdf6d580e9fd408be9337a'
+    platform: BNB
 crypto: true
 fiat: false
 id: FPS
 id_coinmarketcap: '16228'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16228.png
 name: MetaPlayers.gg
-platform: BNB
-platform_contract: '0x213503534d927424a5cdf6d580e9fd408be9337a'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xba630d3ba20502ba07975b15c719beecc8e4ebb0'
+    platform: ETH
 crypto: true
 fiat: false
 id: ExPRO
 id_coinmarketcap: '10607'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10607.png
 name: ExPRO OLD
-platform: ETH
-platform_contract: '0xba630d3ba20502ba07975b15c719beecc8e4ebb0'

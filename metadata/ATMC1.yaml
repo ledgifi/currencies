@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x261C02C850288F56497c06F9C0a8bde718d33D2a'
+    platform: BNB
 crypto: true
 fiat: false
 id: ATMC1
 id_coinmarketcap: '11940'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11940.png
 name: Atomic Token
-platform: BNB
-platform_contract: '0x261C02C850288F56497c06F9C0a8bde718d33D2a'

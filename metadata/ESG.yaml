@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x20cd2e7ec8f5d8b337fe46a4f565ccef1561b9a9'
+    platform: ETH
 crypto: true
 fiat: false
 id: ESG
 id_coinmarketcap: '19483'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19483.png
 name: ESG
-platform: ETH
-platform_contract: '0x20cd2e7ec8f5d8b337fe46a4f565ccef1561b9a9'

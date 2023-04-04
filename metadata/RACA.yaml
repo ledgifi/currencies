@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x12BB890508c125661E03b09EC06E404bc9289040'
+    platform: ETH
 crypto: true
 fiat: false
 id: RACA
 id_coinmarketcap: '11346'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11346.png
 name: RACA
-platform: ETH
-platform_contract: '0x12BB890508c125661E03b09EC06E404bc9289040'

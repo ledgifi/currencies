@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaffcdd96531bcd66faed95fc61e443d08f79efef'
+    platform: ETH
 crypto: true
 fiat: false
 id: PMGT
 id_coinmarketcap: '5203'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5203.png
 name: Perth Mint Gold Token
-platform: ETH
-platform_contract: '0xaffcdd96531bcd66faed95fc61e443d08f79efef'

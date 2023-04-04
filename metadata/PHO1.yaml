@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb9784c1633ef3b839563b988c323798634714368'
+    platform: BNB
 crypto: true
 fiat: false
 id: PHO1
 id_coinmarketcap: '8379'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8379.png
 name: Phoswap
-platform: BNB
-platform_contract: '0xb9784c1633ef3b839563b988c323798634714368'

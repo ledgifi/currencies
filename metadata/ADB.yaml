@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2baac9330cf9ac479d819195794d79ad0c7616e3'
+    platform: ETH
 crypto: true
 fiat: false
 id: ADB
 id_coinmarketcap: '2501'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2501.png
 name: adbank
-platform: ETH
-platform_contract: '0x2baac9330cf9ac479d819195794d79ad0c7616e3'

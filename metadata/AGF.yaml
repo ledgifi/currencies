@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb67a9374da03d4114a6fb8f0e7f2b82b5cb34ee3'
+    platform: AVAX
 crypto: true
 fiat: false
 id: AGF
 id_coinmarketcap: '13504'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13504.png
 name: Augmented Finance
-platform: AVAX
-platform_contract: '0xb67a9374da03d4114a6fb8f0e7f2b82b5cb34ee3'

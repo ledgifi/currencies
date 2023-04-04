@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc82e3db60a52cf7529253b4ec688f631aad9e7c2'
+    platform: ETH
 crypto: true
 fiat: false
 id: ARC2
 id_coinmarketcap: '13051'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13051.png
 name: ARC
-platform: ETH
-platform_contract: '0xc82e3db60a52cf7529253b4ec688f631aad9e7c2'

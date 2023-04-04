@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2494a68C1484376fEf880b4c24D91f049d29B02A'
+    platform: ETH
 crypto: true
 fiat: false
 id: TTT
 id_coinmarketcap: '5514'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5514.png
 name: The Transfer Token
-platform: ETH
-platform_contract: '0x2494a68C1484376fEf880b4c24D91f049d29B02A'

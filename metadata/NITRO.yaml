@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0335A7610D817aeCA1bEBbEfbd392ecC2eD587B8'
+    platform: ETH
 crypto: true
 fiat: false
 id: NITRO
 id_coinmarketcap: '16168'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16168.png
 name: Nitro League
-platform: ETH
-platform_contract: '0x0335A7610D817aeCA1bEBbEfbd392ecC2eD587B8'

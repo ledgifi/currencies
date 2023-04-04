@@ -1,3 +1,6 @@
+contracts:
+  - address: FTT-F11
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: FTXTOKEN
 logo: https://bin.bnbstatic.com/images/20191220/93f2bf75-970e-44b8-9773-20e141a6c8f9.png
 logoKey: currencies/ftt.png
 name: FTX Token
-platform: BNB
-platform_contract: FTT-F11

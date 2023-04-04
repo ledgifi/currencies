@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x05901cB9cbD15ECBe48cC98F946045661a7E12bA'
+    platform: BNB
 crypto: true
 fiat: false
 id: VOYCE
 id_coinmarketcap: '16510'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16510.png
 name: VOYCE TOKEN
-platform: BNB
-platform_contract: '0x05901cB9cbD15ECBe48cC98F946045661a7E12bA'

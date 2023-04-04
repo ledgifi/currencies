@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc2a45fe7d40bcac8369371b08419ddafd3131b4a'
+    platform: MATIC
 crypto: true
 fiat: false
 id: LCD
 id_coinmarketcap: '20667'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20667.png
 name: Lucidao
-platform: MATIC
-platform_contract: '0xc2a45fe7d40bcac8369371b08419ddafd3131b4a'

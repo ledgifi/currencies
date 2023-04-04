@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF3adD9C58518CaC319DF8B227AeFb2403e92c6Bd'
+    platform: BNB
 crypto: true
 fiat: false
 id: MBS2
 id_coinmarketcap: '15732'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15732.png
 name: Monster Battle
-platform: BNB
-platform_contract: '0xF3adD9C58518CaC319DF8B227AeFb2403e92c6Bd'

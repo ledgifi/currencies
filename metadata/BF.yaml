@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5b71bee9d961b1b848f8485eec8d8787f80217f5'
+    platform: ETH
 crypto: true
 fiat: false
 id: BF
 id_coinmarketcap: '4283'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4283.png
 name: BitForex Token
-platform: ETH
-platform_contract: '0x5b71bee9d961b1b848f8485eec8d8787f80217f5'

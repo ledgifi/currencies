@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3A8cCCB969a61532d1E6005e2CE12C200caeCe87'
+    platform: ETH
 crypto: true
 fiat: false
 id: TITAN
 id_coinmarketcap: '7206'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7206.png
 name: TitanSwap
-platform: ETH
-platform_contract: '0x3A8cCCB969a61532d1E6005e2CE12C200caeCe87'

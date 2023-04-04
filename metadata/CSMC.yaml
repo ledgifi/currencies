@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x937a580dca21e3519ac5a66b7be55090d87b7c18'
+    platform: BNB
 crypto: true
 fiat: false
 id: CSMC
 id_coinmarketcap: '12990'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12990.png
 name: Cosmic Music
-platform: BNB
-platform_contract: '0x937a580dca21e3519ac5a66b7be55090d87b7c18'

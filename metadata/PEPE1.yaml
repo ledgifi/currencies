@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa5ac8f8e90762380cce6c16aba17ed6d2cf75888'
+    platform: BNB
 crypto: true
 fiat: false
 id: PEPE1
 id_coinmarketcap: '10268'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10268.png
 name: PepeMoon
-platform: BNB
-platform_contract: '0xa5ac8f8e90762380cce6c16aba17ed6d2cf75888'

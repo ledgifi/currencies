@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3aeff4e27e1f9144ed75ba65a80bdfee345f413e'
+    platform: BNB
 crypto: true
 fiat: false
 id: BUMN
 id_coinmarketcap: '11235'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11235.png
 name: BUMooN
-platform: BNB
-platform_contract: '0x3aeff4e27e1f9144ed75ba65a80bdfee345f413e'

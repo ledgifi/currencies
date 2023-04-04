@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x19613fec180746831bdf819e0790f35741040dfd'
+    platform: AVAX
 crypto: true
 fiat: false
 id: SBR1
 id_coinmarketcap: '16269'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16269.png
 name: Snowbear
-platform: AVAX
-platform_contract: '0x19613fec180746831bdf819e0790f35741040dfd'

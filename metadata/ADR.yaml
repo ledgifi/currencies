@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x36F1f32c728C3F330409eC1F0928Fa3aB3C8A76F'
+    platform: BNB
 crypto: true
 fiat: false
 id: ADR
 id_coinmarketcap: '18261'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18261.png
 name: Adroverse
-platform: BNB
-platform_contract: '0x36F1f32c728C3F330409eC1F0928Fa3aB3C8A76F'

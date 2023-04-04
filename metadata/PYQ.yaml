@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5a3064cbdccf428ae907796cf6ad5a664cd7f3d8'
+    platform: MATIC
 crypto: true
 fiat: false
 id: PYQ
 id_coinmarketcap: '11742'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11742.png
 name: PolyQuity
-platform: MATIC
-platform_contract: '0x5a3064cbdccf428ae907796cf6ad5a664cd7f3d8'

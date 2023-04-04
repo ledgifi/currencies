@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x67cc621ab2d086a101cff3340df0a065ac75827c'
+    platform: ETH
 crypto: true
 fiat: false
 id: FLOKI3
 id_coinmarketcap: '16703'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16703.png
 name: Floki Musk
-platform: ETH
-platform_contract: '0x67cc621ab2d086a101cff3340df0a065ac75827c'

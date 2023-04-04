@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4954e0062e0a7668a2fe3df924cd20e6440a7b77'
+    platform: BNB
 crypto: true
 fiat: false
 id: BNU
 id_coinmarketcap: '10121'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10121.png
 name: ByteNext
-platform: BNB
-platform_contract: '0x4954e0062e0a7668a2fe3df924cd20e6440a7b77'

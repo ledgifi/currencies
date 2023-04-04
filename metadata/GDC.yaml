@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x301C755bA0fcA00B1923768Fffb3Df7f4E63aF31'
+    platform: ETH
 crypto: true
 fiat: false
 id: GDC
 id_coinmarketcap: '4678'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4678.png
 name: Global Digital Content
-platform: ETH
-platform_contract: '0x301C755bA0fcA00B1923768Fffb3Df7f4E63aF31'

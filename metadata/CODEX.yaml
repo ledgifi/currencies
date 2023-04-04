@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9e95cb3d0560f9cba88991f828322526851bfb56'
+    platform: BNB
 crypto: true
 fiat: false
 id: CODEX
 id_coinmarketcap: '9254'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9254.png
 name: CodexToken
-platform: BNB
-platform_contract: '0x9e95cb3d0560f9cba88991f828322526851bfb56'

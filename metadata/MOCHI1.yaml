@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x055dab90880613a556a5ae2903b2682f8a5b8d27'
+    platform: BNB
 crypto: true
 fiat: false
 id: MOCHI1
 id_coinmarketcap: '8881'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8881.png
 name: MOCHISWAP
-platform: BNB
-platform_contract: '0x055dab90880613a556a5ae2903b2682f8a5b8d27'

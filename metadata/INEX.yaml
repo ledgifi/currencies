@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa2d77f8353cb2afd709aba4a967257511ecff716'
+    platform: ETH
 crypto: true
 fiat: false
 id: INEX
 id_coinmarketcap: '5300'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5300.png
 name: Inex Project
-platform: ETH
-platform_contract: '0xa2d77f8353cb2afd709aba4a967257511ecff716'

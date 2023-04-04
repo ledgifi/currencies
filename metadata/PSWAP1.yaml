@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x42539f50c5f8a0c929e7895eb265391f58b22a19'
+    platform: BNB
 crypto: true
 fiat: false
 id: PSWAP1
 id_coinmarketcap: '10699'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10699.png
 name: PorkSwap
-platform: BNB
-platform_contract: '0x42539f50c5f8a0c929e7895eb265391f58b22a19'

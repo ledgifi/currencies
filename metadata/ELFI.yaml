@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4da34f8264cb33a5c9f17081b9ef5ff6091116f4'
+    platform: ETH
 crypto: true
 fiat: false
 id: ELFI
 id_coinmarketcap: '18186'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18186.png
 name: ELYFI
-platform: ETH
-platform_contract: '0x4da34f8264cb33a5c9f17081b9ef5ff6091116f4'

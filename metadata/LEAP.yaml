@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x53263d9ef74db583b15fbc6d5d4e8b83833fa134'
+    platform: ETH
 crypto: true
 fiat: false
 id: LEAP
 id_coinmarketcap: '21806'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21806.png
 name: LEAP Token
-platform: ETH
-platform_contract: '0x53263d9ef74db583b15fbc6d5d4e8b83833fa134'

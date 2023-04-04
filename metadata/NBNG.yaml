@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9275e8386a5bdda160c0e621e9a6067b8fd88ea2'
+    platform: ETH
 crypto: true
 fiat: false
 id: NBNG
 id_coinmarketcap: '10716'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10716.png
 name: Nobunaga Token
-platform: ETH
-platform_contract: '0x9275e8386a5bdda160c0e621e9a6067b8fd88ea2'

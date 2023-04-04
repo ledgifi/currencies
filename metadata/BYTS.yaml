@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x87f14e9460cecb789f1b125b2e3e353ff8ed6fcd'
+    platform: ETH
 crypto: true
 fiat: false
 id: BYTS
@@ -7,5 +10,3 @@ id_nomics: BYTS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BYTS.png
 logoKey: currencies/byts.png
 name: Bytus
-platform: ETH
-platform_contract: '0x87f14e9460cecb789f1b125b2e3e353ff8ed6fcd'

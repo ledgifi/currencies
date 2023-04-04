@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9d7630adf7ab0b0cb00af747db76864df0ec82e4'
+    platform: ETH
 crypto: true
 fiat: false
 id: GATE
 id_coinmarketcap: '3618'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3618.png
 name: GATE
-platform: ETH
-platform_contract: '0x9d7630adf7ab0b0cb00af747db76864df0ec82e4'

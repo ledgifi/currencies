@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa0c3c184493f2fae7d2f2bd83f195a1c300fa353'
+    platform: CRO
 crypto: true
 fiat: false
 id: CROISSANT
 id_coinmarketcap: '17465'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17465.png
 name: Croissant Games
-platform: CRO
-platform_contract: '0xa0c3c184493f2fae7d2f2bd83f195a1c300fa353'

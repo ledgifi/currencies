@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf460d98a3517b45Edd8063dd3847de92a8038aa2'
+    platform: ETH
 crypto: true
 fiat: false
 id: MHUNT
 id_coinmarketcap: '19464'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19464.png
 name: MetaShooter
-platform: ETH
-platform_contract: '0xf460d98a3517b45Edd8063dd3847de92a8038aa2'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA39C843CcFDB3Ede58a09efB5564e34C43099480'
+    platform: BNB
 crypto: true
 fiat: false
 id: AIR4
 id_coinmarketcap: '15955'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15955.png
 name: AirDropper
-platform: BNB
-platform_contract: '0xA39C843CcFDB3Ede58a09efB5564e34C43099480'

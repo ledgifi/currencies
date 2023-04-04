@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x77f9CF0bd8C500CfFdF420e72343893aeCC2EC0b'
+    platform: ETH
 crypto: true
 fiat: false
 id: LAIKA
 id_coinmarketcap: '21267'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21267.png
 name: Laika
-platform: ETH
-platform_contract: '0x77f9CF0bd8C500CfFdF420e72343893aeCC2EC0b'

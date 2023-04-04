@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x28c5805b64d163588a909012a628b5a03c1041f9'
+    platform: ETH
 crypto: true
 fiat: false
 id: CHOPPER
 id_coinmarketcap: '12408'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12408.png
 name: Chopper Inu
-platform: ETH
-platform_contract: '0x28c5805b64d163588a909012a628b5a03c1041f9'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x07cC353876aE94A361BbeFBFDe6a6AE4821A8cd3'
+    platform: ETH
 crypto: true
 fiat: false
 id: RUPT
 id_coinmarketcap: '8209'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8209.png
 name: Rupt
-platform: ETH
-platform_contract: '0x07cC353876aE94A361BbeFBFDe6a6AE4821A8cd3'

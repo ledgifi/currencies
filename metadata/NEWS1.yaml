@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc39a048353842caf1b94ce5967a04149bb435b98'
+    platform: ETH
 crypto: true
 fiat: false
 id: NEWS1
 id_coinmarketcap: '23500'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23500.png
 name: Reset News
-platform: ETH
-platform_contract: '0xc39a048353842caf1b94ce5967a04149bb435b98'

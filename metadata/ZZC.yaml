@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x51A673e060E1ea091B23B53d192058fFE0F2D6b6'
+    platform: ETH
 crypto: true
 fiat: false
 id: ZZC
 id_coinmarketcap: '22312'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22312.png
 name: ZudgeZury
-platform: ETH
-platform_contract: '0x51A673e060E1ea091B23B53d192058fFE0F2D6b6'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0fa1995019322ef3178d037871c4d2eee0940c08'
+    platform: KLAY
 crypto: true
 fiat: false
 id: TARI
 id_coinmarketcap: '20142'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20142.png
 name: Tari World
-platform: KLAY
-platform_contract: '0x0fa1995019322ef3178d037871c4d2eee0940c08'

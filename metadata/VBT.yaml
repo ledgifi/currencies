@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1ffe24629f1b3df74fc0f6e5d086f2fd09258ff2'
+    platform: ETH
 crypto: true
 fiat: false
 id: VBT
 id_coinmarketcap: '6089'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6089.png
 name: VBT
-platform: ETH
-platform_contract: '0x1ffe24629f1b3df74fc0f6e5d086f2fd09258ff2'

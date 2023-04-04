@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x72eB7CA07399Ec402c5b7aa6A65752B6A1Dc0C27'
+    platform: BNB
 crypto: true
 fiat: false
 id: ASTRO
@@ -5,5 +8,3 @@ id_coinmarketcap: '12120'
 id_nomics: ASTRO5
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12120.png
 name: AstroSwap
-platform: BNB
-platform_contract: '0x72eB7CA07399Ec402c5b7aa6A65752B6A1Dc0C27'

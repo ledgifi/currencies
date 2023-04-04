@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa0a9a71c267aea60aa9d21d4911791cdb0a900b2'
+    platform: BNB
 crypto: true
 fiat: false
 id: ZONX
 id_coinmarketcap: '20061'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20061.png
 name: METAZONX
-platform: BNB
-platform_contract: '0xa0a9a71c267aea60aa9d21d4911791cdb0a900b2'

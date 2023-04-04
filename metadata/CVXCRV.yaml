@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7'
+    platform: ETH
 crypto: true
 fiat: false
 id: CVXCRV
 id_coinmarketcap: '10291'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10291.png
 name: Convex CRV
-platform: ETH
-platform_contract: '0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7'

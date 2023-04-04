@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8de5aA37a7C40A53062EAD382b8EEAD3B08a7A46'
+    platform: BNB
 crypto: true
 fiat: false
 id: VTG
 id_coinmarketcap: '18976'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18976.png
 name: Victory Gem
-platform: BNB
-platform_contract: '0x8de5aA37a7C40A53062EAD382b8EEAD3B08a7A46'

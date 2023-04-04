@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe202873079913858f9Ba8795BA957A4Ad561ca24'
+    platform: ETH
 crypto: true
 fiat: false
 id: WIFI
 id_coinmarketcap: '8140'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8140.png
 name: Wifi Coin
-platform: ETH
-platform_contract: '0xe202873079913858f9Ba8795BA957A4Ad561ca24'

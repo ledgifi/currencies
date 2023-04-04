@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x918f2fe1b50ECaeaeb95482669881eD42A978083'
+    platform: BNB
 crypto: true
 fiat: false
 id: WOFM
 id_coinmarketcap: '19617'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19617.png
 name: World of Masters
-platform: BNB
-platform_contract: '0x918f2fe1b50ECaeaeb95482669881eD42A978083'

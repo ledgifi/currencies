@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x85973c97919c999e5d3d8832290152a3acdf8a6e'
+    platform: BNB
 crypto: true
 fiat: false
 id: PEACE1
 id_coinmarketcap: '19085'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19085.png
 name: Peace DAO
-platform: BNB
-platform_contract: '0x85973c97919c999e5d3d8832290152a3acdf8a6e'

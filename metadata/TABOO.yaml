@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9abdba20edfba06b782126b4d8d72a5853918fd0'
+    platform: BNB
 crypto: true
 fiat: false
 id: TABOO
 id_coinmarketcap: '10586'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10586.png
 name: TABOO TOKEN
-platform: BNB
-platform_contract: '0x9abdba20edfba06b782126b4d8d72a5853918fd0'

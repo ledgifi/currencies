@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3dea912d5c04a1988ad6b003d224b9b616f723a1'
+    platform: BNB
 crypto: true
 fiat: false
 id: MAGF
 id_coinmarketcap: '15598'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15598.png
 name: Magic Forest
-platform: BNB
-platform_contract: '0x3dea912d5c04a1988ad6b003d224b9b616f723a1'

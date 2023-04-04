@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x80bb277f4355A43CDbB86a82F9876C946476d9Eb'
+    platform: ETH
 crypto: true
 fiat: false
 id: DOGDEFI
 id_coinmarketcap: '7511'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7511.png
 name: DogDeFiCoin
-platform: ETH
-platform_contract: '0x80bb277f4355A43CDbB86a82F9876C946476d9Eb'

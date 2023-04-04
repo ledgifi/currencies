@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x856333816b8e934bcf4c08faf00dd46e5ac0aaec'
+    platform: BNB
 crypto: true
 fiat: false
 id: RARI1
 id_coinmarketcap: '17729'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17729.png
 name: Rari Games
-platform: BNB
-platform_contract: '0x856333816b8e934bcf4c08faf00dd46e5ac0aaec'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x28ea81fac7b1719138cbf61267198155b433e00e'
+    platform: ETH
 crypto: true
 fiat: false
 id: CPC2
 id_coinmarketcap: '4168'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4168.png
 name: Cashpayz Token
-platform: ETH
-platform_contract: '0x28ea81fac7b1719138cbf61267198155b433e00e'

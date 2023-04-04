@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbcd9e216200369803ed059b7744f6fb4cf3887c7'
+    platform: ETH
 crypto: true
 fiat: false
 id: EPIC2
 id_coinmarketcap: '7261'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7261.png
 name: Epic
-platform: ETH
-platform_contract: '0xbcd9e216200369803ed059b7744f6fb4cf3887c7'

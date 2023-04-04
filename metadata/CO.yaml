@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x936B6659Ad0C1b244Ba8Efe639092acae30dc8d6'
+    platform: ETH
 crypto: true
 fiat: false
 id: CO
 id_coinmarketcap: '11021'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11021.png
 name: Corite
-platform: ETH
-platform_contract: '0x936B6659Ad0C1b244Ba8Efe639092acae30dc8d6'

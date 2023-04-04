@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x924ebf416e8d207539ee36b1223b990db2ae379e'
+    platform: BNB
 crypto: true
 fiat: false
 id: DICE6
 id_coinmarketcap: '15450'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15450.png
 name: DICE INU
-platform: BNB
-platform_contract: '0x924ebf416e8d207539ee36b1223b990db2ae379e'

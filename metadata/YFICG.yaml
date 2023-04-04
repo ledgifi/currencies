@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9080e92296a176883aAB1d7d1B7e50BC055B0cAa'
+    platform: ETH
 crypto: true
 fiat: false
 id: YFICG
 id_coinmarketcap: '7517'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7517.png
 name: YFI CREDITS GROUP
-platform: ETH
-platform_contract: '0x9080e92296a176883aAB1d7d1B7e50BC055B0cAa'

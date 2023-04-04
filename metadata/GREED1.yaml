@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5905df3D03E29a22e22462D3257E6AC731E22C15'
+    platform: BNB
 crypto: true
 fiat: false
 id: GREED1
 id_coinmarketcap: '13235'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13235.png
 name: Greed
-platform: BNB
-platform_contract: '0x5905df3D03E29a22e22462D3257E6AC731E22C15'

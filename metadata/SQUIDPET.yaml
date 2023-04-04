@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcB15FC54d0655150fa3784EC4a355b76A951e4Cf'
+    platform: BNB
 crypto: true
 fiat: false
 id: SQUIDPET
 id_coinmarketcap: '14456'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14456.png
 name: Squid Pet
-platform: BNB
-platform_contract: '0xcB15FC54d0655150fa3784EC4a355b76A951e4Cf'

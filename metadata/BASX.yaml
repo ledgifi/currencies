@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x23157662a9cb9be32d4d9bd019d9bcbaa040a62b'
+    platform: ETH
 crypto: true
 fiat: false
 id: BASX
 id_coinmarketcap: '8513'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8513.png
 name: Basix
-platform: ETH
-platform_contract: '0x23157662a9cb9be32d4d9bd019d9bcbaa040a62b'

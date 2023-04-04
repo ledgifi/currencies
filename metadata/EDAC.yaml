@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xDCDE89001BE4E77eD88Ff0C39bfFb23055659d21'
+    platform: BNB
 crypto: true
 fiat: false
 id: EDAC
 id_coinmarketcap: '18212'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18212.png
 name: EDAC
-platform: BNB
-platform_contract: '0xDCDE89001BE4E77eD88Ff0C39bfFb23055659d21'

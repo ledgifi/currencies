@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaaaaaa20d9e0e2461697782ef11675f668207961'
+    platform: ETH
 crypto: true
 fiat: false
 id: AURORA
 id_coinmarketcap: '14803'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14803.png
 name: Aurora
-platform: ETH
-platform_contract: '0xaaaaaa20d9e0e2461697782ef11675f668207961'

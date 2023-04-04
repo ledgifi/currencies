@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2dBd86A424a815AD2A08a2D8dAE07007fed6Dc91'
+    platform: BNB
 crypto: true
 fiat: false
 id: TRUST2
 id_coinmarketcap: '9206'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9206.png
 name: Trustworks
-platform: BNB
-platform_contract: '0x2dBd86A424a815AD2A08a2D8dAE07007fed6Dc91'

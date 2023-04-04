@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc864019047b864b6ab609a968ae2725dfaee808a'
+    platform: BNB
 crypto: true
 fiat: false
 id: BIT1
 id_coinmarketcap: '11500'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11500.png
 name: Biconomy Exchange Token
-platform: BNB
-platform_contract: '0xc864019047b864b6ab609a968ae2725dfaee808a'

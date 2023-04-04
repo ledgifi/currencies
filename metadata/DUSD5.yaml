@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x556eA1fE7Cb0964e7De8Dfe6CdE63F1E40908541'
+    platform: ETH
 crypto: true
 fiat: false
 id: DUSD5
 id_coinmarketcap: '5308'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5308.png
 name: digitalUSD
-platform: ETH
-platform_contract: '0x556eA1fE7Cb0964e7De8Dfe6CdE63F1E40908541'

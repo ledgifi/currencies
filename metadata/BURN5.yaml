@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5A5844CAb96A7b8B257Fc606Aa6119c5cBc6D4c4'
+    platform: BNB
 crypto: true
 fiat: false
 id: BURN5
 id_coinmarketcap: '21068'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21068.png
 name: Bitburn
-platform: BNB
-platform_contract: '0x5A5844CAb96A7b8B257Fc606Aa6119c5cBc6D4c4'

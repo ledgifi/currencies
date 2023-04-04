@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc1329950f3c1899D5EB2af37a9101d32B6e8fd7A'
+    platform: BNB
 crypto: true
 fiat: false
 id: LOM
 id_coinmarketcap: '12911'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12911.png
 name: LimeOdysseyM with ITAM
-platform: BNB
-platform_contract: '0xc1329950f3c1899D5EB2af37a9101d32B6e8fd7A'

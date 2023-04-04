@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x255707B70BF90aa112006E1b07B9AeA6De021424'
+    platform: MATIC
 crypto: true
 fiat: false
 id: TETU
 id_coinmarketcap: '12452'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12452.png
 name: TETU
-platform: MATIC
-platform_contract: '0x255707B70BF90aa112006E1b07B9AeA6De021424'

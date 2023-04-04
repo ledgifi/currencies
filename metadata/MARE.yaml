@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd86c8d4279ccafbec840c782bcc50d201f277419'
+    platform: KAVA
 crypto: true
 fiat: false
 id: MARE
 id_coinmarketcap: '23835'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23835.png
 name: Mare Finance
-platform: KAVA
-platform_contract: '0xd86c8d4279ccafbec840c782bcc50d201f277419'

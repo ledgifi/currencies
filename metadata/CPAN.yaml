@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x04260673729c5f2b9894a467736f3d85f8d34fc8'
+    platform: BNB
 crypto: true
 fiat: false
 id: CPAN
 id_coinmarketcap: '12815'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12815.png
 name: CryptoPlanes
-platform: BNB
-platform_contract: '0x04260673729c5f2b9894a467736f3d85f8d34fc8'

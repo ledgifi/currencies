@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x747339CaB98CC50c8698970DB1f89BB3A0bb7A03'
+    platform: BNB
 crypto: true
 fiat: false
 id: CRX4
 id_coinmarketcap: '21120'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21120.png
 name: CrossX
-platform: BNB
-platform_contract: '0x747339CaB98CC50c8698970DB1f89BB3A0bb7A03'

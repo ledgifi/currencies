@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x82a77710495a35549d2add797412b4a4497d33ef'
+    platform: ETH
 crypto: true
 fiat: false
 id: DOGZ
 id_coinmarketcap: '6422'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6422.png
 name: Dogz
-platform: ETH
-platform_contract: '0x82a77710495a35549d2add797412b4a4497d33ef'

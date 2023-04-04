@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf8834E39FDf20ACcC5BDBB017B92e20eBeCc9fB2'
+    platform: ETH
 crypto: true
 fiat: false
 id: HRD1
 id_coinmarketcap: '7801'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7801.png
 name: HRDCOIN
-platform: ETH
-platform_contract: '0xf8834E39FDf20ACcC5BDBB017B92e20eBeCc9fB2'

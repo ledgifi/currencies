@@ -1,8 +1,9 @@
+contracts:
+  - address: token.pembrock.near
+    platform: NEAR
 crypto: true
 fiat: false
 id: PEM
 id_coinmarketcap: '20405'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20405.png
 name: Pembrock
-platform: NEAR
-platform_contract: token.pembrock.near

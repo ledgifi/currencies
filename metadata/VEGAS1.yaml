@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x234A97aA8c9b64b69C8344BF2c59Dc3A5b1Ff2cE'
+    platform: BNB
 crypto: true
 fiat: false
 id: VEGAS1
 id_coinmarketcap: '11445'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11445.png
 name: VegasDoge
-platform: BNB
-platform_contract: '0x234A97aA8c9b64b69C8344BF2c59Dc3A5b1Ff2cE'

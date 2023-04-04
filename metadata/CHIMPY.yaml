@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x026a3918A6D6F7B7b1b6887B8B650143b5d04732'
+    platform: BNB
 crypto: true
 fiat: false
 id: CHIMPY
 id_coinmarketcap: '12371'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12371.png
 name: ChimpySwap Token
-platform: BNB
-platform_contract: '0x026a3918A6D6F7B7b1b6887B8B650143b5d04732'

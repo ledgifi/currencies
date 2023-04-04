@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaeb9864bfb718818904e9c70e4ab4e52b50b6481'
+    platform: BNB
 crypto: true
 fiat: false
 id: PEA1
 id_coinmarketcap: '14155'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14155.png
 name: PeaFarm
-platform: BNB
-platform_contract: '0xaeb9864bfb718818904e9c70e4ab4e52b50b6481'

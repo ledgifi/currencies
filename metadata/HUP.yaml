@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x375a7b6a6f74a5acb86c420c53c4ce8cf1d51b4d'
+    platform: BNB
 crypto: true
 fiat: false
 id: HUP
 id_coinmarketcap: '10678'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10678.png
 name: HUP.LIFE
-platform: BNB
-platform_contract: '0x375a7b6a6f74a5acb86c420c53c4ce8cf1d51b4d'

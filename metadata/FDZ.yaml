@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x23352036e911a22cfc692b5e2e196692658aded9'
+    platform: ETH
 crypto: true
 fiat: false
 id: FDZ
 id_coinmarketcap: '2626'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2626.png
 name: Friendz
-platform: ETH
-platform_contract: '0x23352036e911a22cfc692b5e2e196692658aded9'

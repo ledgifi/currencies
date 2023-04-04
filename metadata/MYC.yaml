@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4b13006980acb09645131b91d259eaa111eaf5ba'
+    platform: ETH
 crypto: true
 fiat: false
 id: MYC
 id_coinmarketcap: '21437'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21437.png
 name: Mycelium
-platform: ETH
-platform_contract: '0x4b13006980acb09645131b91d259eaa111eaf5ba'

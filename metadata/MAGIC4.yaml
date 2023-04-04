@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xabf4b85b7110687ccda8c1299a7ddd2b5fc06ad4'
+    platform: ETH
 crypto: true
 fiat: false
 id: MAGIC4
 id_coinmarketcap: '17936'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17936.png
 name: Magic Inu
-platform: ETH
-platform_contract: '0xabf4b85b7110687ccda8c1299a7ddd2b5fc06ad4'

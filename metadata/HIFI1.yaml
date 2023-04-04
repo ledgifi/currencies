@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0A38bc18022b0cCB043F7b730B354d554C6230F1'
+    platform: BNB
 crypto: true
 fiat: false
 id: HIFI1
 id_coinmarketcap: '11908'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11908.png
 name: HiFi Gaming Society
-platform: BNB
-platform_contract: '0x0A38bc18022b0cCB043F7b730B354d554C6230F1'

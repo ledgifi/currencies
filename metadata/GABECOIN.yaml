@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6e0bef56b648b3eebae3808b8cbe7efe8755ad9c'
+    platform: BNB
 crypto: true
 fiat: false
 id: GABECOIN
 id_coinmarketcap: '10926'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10926.png
 name: Gabecoin
-platform: BNB
-platform_contract: '0x6e0bef56b648b3eebae3808b8cbe7efe8755ad9c'

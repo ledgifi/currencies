@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x66f0095a54b16980617af51cfef87d3f95cf0257'
+    platform: BNB
 crypto: true
 fiat: false
 id: $OIL
 id_coinmarketcap: '14314'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14314.png
 name: Warship Battles
-platform: BNB
-platform_contract: '0x66f0095a54b16980617af51cfef87d3f95cf0257'

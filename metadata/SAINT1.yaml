@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6fc5af63990aa9e5c5543f5cd8ed148bfa6d9d19'
+    platform: ETH
 crypto: true
 fiat: false
 id: SAINT1
 id_coinmarketcap: '13687'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13687.png
 name: Saint Inu
-platform: ETH
-platform_contract: '0x6fc5af63990aa9e5c5543f5cd8ed148bfa6d9d19'

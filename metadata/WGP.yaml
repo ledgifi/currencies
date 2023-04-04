@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdd94842c15abfe4c9bafe4222ade02896beb064c'
+    platform: ETH
 crypto: true
 fiat: false
 id: WGP
 id_coinmarketcap: '3912'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3912.png
 name: W Green Pay
-platform: ETH
-platform_contract: '0xdd94842c15abfe4c9bafe4222ade02896beb064c'

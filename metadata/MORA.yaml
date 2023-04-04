@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xeb633EC737889EBa802478AEA7Eb0f5203eB8deB'
+    platform: BNB
 crypto: true
 fiat: false
 id: MORA
 id_coinmarketcap: '9031'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9031.png
 name: Meliora
-platform: BNB
-platform_contract: '0xeb633EC737889EBa802478AEA7Eb0f5203eB8deB'

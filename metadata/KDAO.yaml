@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x29debf83eb8bc91ce9a13ac7e42d37e6e2abb480'
+    platform: AVAX
 crypto: true
 fiat: false
 id: KDAO
 id_coinmarketcap: '19145'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19145.png
 name: KarmaDao
-platform: AVAX
-platform_contract: '0x29debf83eb8bc91ce9a13ac7e42d37e6e2abb480'

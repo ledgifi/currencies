@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xed3d88d3321f82e5c25ca9ac6d5b427ec93f567e'
+    platform: BNB
 crypto: true
 fiat: false
 id: APE1
 id_coinmarketcap: '21172'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21172.png
 name: APEmove
-platform: BNB
-platform_contract: '0xed3d88d3321f82e5c25ca9ac6d5b427ec93f567e'

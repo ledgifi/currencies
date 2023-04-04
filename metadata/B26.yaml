@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x481de76d5ab31e28a33b0ea1c1063adcb5b1769a'
+    platform: ETH
 crypto: true
 fiat: false
 id: B26
 id_coinmarketcap: '8803'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8803.png
 name: B26 Finance
-platform: ETH
-platform_contract: '0x481de76d5ab31e28a33b0ea1c1063adcb5b1769a'

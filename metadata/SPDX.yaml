@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xEffE44D3f6692Ec8D0bDCE980293087BfaFe905e'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPDX
 id_coinmarketcap: '19339'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19339.png
 name: Speedex
-platform: BNB
-platform_contract: '0xEffE44D3f6692Ec8D0bDCE980293087BfaFe905e'

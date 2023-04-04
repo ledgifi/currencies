@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x8e870d67f660d95d5be530380d0ec0bd388289e1'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: PAX
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/c39c01c2-f6cc-4f18-8415-182e586fb791.png
 logoKey: currencies/usdp.png
 name: Pax Dollar
-platform: ETH
-platform_contract: '0x8e870d67f660d95d5be530380d0ec0bd388289e1'

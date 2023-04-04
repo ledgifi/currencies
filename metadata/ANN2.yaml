@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x98936Bde1CF1BFf1e7a8012Cee5e2583851f2067'
+    platform: BNB
 crypto: true
 fiat: false
 id: ANN2
 id_coinmarketcap: '11583'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11583.png
 name: Annex Finance
-platform: BNB
-platform_contract: '0x98936Bde1CF1BFf1e7a8012Cee5e2583851f2067'

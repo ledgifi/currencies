@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x86bf411df08e82e7cbdf4308e89dfb862ecd71e9'
+    platform: ETH
 crypto: true
 fiat: false
 id: CHOW2
 id_coinmarketcap: '17173'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17173.png
 name: ChowDAO
-platform: ETH
-platform_contract: '0x86bf411df08e82e7cbdf4308e89dfb862ecd71e9'

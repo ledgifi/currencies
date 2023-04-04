@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x967da4048cd07ab37855c090aaf366e4ce1b9f48'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: OCEAN
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220329/d6789da4-9f9e-4056-a3ce-c94d1a6e7ea0.png
 logoKey: currencies/ocean.png
 name: Ocean Protocol
-platform: ETH
-platform_contract: '0x967da4048cd07ab37855c090aaf366e4ce1b9f48'

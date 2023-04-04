@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3ad9594151886ce8538c1ff615efa2385a8c3a88'
+    platform: BNB
 crypto: true
 fiat: false
 id: SAFEMARS
 id_coinmarketcap: '8966'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8966.png
 name: Safemars
-platform: BNB
-platform_contract: '0x3ad9594151886ce8538c1ff615efa2385a8c3a88'

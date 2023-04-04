@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf9b4defdde04fe18f5ee6456607f8a2ec9ff6a75'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SANDMAN
 id_coinmarketcap: '11361'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11361.png
 name: SandMan
-platform: MATIC
-platform_contract: '0xf9b4defdde04fe18f5ee6456607f8a2ec9ff6a75'

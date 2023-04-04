@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE6884e29ffE5C6F68F4958cf201B0e308f982AC9'
+    platform: BNB
 crypto: true
 fiat: false
 id: VEGAS
 id_coinmarketcap: '20445'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20445.png
 name: Vegasino
-platform: BNB
-platform_contract: '0xE6884e29ffE5C6F68F4958cf201B0e308f982AC9'

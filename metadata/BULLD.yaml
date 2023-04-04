@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x599209ab40daeb44108d9E9426ED1DC207b85460'
+    platform: BNB
 crypto: true
 fiat: false
 id: BULLD
 id_coinmarketcap: '14716'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14716.png
 name: Bulldog Inu
-platform: BNB
-platform_contract: '0x599209ab40daeb44108d9E9426ED1DC207b85460'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x16b3e050e9e2f0ac4f1bea1b3e4fdc43d7f062dd'
+    platform: ETH
 crypto: true
 fiat: false
 id: SMBR
 id_coinmarketcap: '12178'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12178.png
 name: Sombra Network
-platform: ETH
-platform_contract: '0x16b3e050e9e2f0ac4f1bea1b3e4fdc43d7f062dd'

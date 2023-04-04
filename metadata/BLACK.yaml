@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa2F1a99a74d4cc072B810b1696239e4Dd76221C4'
+    platform: BNB
 crypto: true
 fiat: false
 id: BLACK
 id_coinmarketcap: '22882'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22882.png
 name: Black Token
-platform: BNB
-platform_contract: '0xa2F1a99a74d4cc072B810b1696239e4Dd76221C4'

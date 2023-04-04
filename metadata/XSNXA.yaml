@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2934443c1749dcc0cdcabbd77098eea31d2ea6c3'
+    platform: ETH
 crypto: true
 fiat: false
 id: XSNXA
 id_coinmarketcap: '6639'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6639.png
 name: xSNXa
-platform: ETH
-platform_contract: '0x2934443c1749dcc0cdcabbd77098eea31d2ea6c3'

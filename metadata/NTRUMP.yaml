@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x44ea84a85616f8e9cd719fc843de31d852ad7240'
+    platform: ETH
 crypto: true
 fiat: false
 id: ntrump
 id_coinmarketcap: '7188'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7188.png
 name: NO Trump Augur Prediction Token
-platform: ETH
-platform_contract: '0x44ea84a85616f8e9cd719fc843de31d852ad7240'

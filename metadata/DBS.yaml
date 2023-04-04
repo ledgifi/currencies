@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xFE006Dc583ab09b0b67a69cBC398b45F04815566'
+    platform: BNB
 crypto: true
 fiat: false
 id: DBS
 id_coinmarketcap: '11477'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11477.png
 name: Drakeball Super
-platform: BNB
-platform_contract: '0xFE006Dc583ab09b0b67a69cBC398b45F04815566'

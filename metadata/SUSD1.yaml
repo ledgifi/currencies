@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D'
+    platform: AVAX
 crypto: true
 fiat: false
 id: SUSD1
 id_coinmarketcap: '13744'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13744.png
 name: Stabilize USD
-platform: AVAX
-platform_contract: '0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D'

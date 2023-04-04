@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7665cb7b0d01df1c9f9b9cc66019f00abd6959ba'
+    platform: BNB
 crypto: true
 fiat: false
 id: OWN1
 id_coinmarketcap: '11627'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11627.png
 name: Ownly
-platform: BNB
-platform_contract: '0x7665cb7b0d01df1c9f9b9cc66019f00abd6959ba'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xdd974d5c2e2928dea5f71b9825b8b646686bd200'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: KNC
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210517/aa20c460-cbdc-480e-a11f-a5a951ece7e8.png
 logoKey: currencies/kncl.png
 name: Kyber Network Crystal Legacy
-platform: ETH
-platform_contract: '0xdd974d5c2e2928dea5f71b9825b8b646686bd200'

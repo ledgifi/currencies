@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x9D65fF81a3c488d585bBfb0Bfe3c7707c7917f54'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: SSV
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SSV.png
 logoKey: currencies/ssv.png
 name: SSV Network
-platform: ETH
-platform_contract: '0x9D65fF81a3c488d585bBfb0Bfe3c7707c7917f54'

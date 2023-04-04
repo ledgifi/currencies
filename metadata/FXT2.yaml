@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf8332edf5d8b1d0c94411def2ad6c21c5184cc1a'
+    platform: BNB
 crypto: true
 fiat: false
 id: FXT2
 id_coinmarketcap: '21784'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21784.png
 name: FitR Exercise Token[Old]
-platform: BNB
-platform_contract: '0xf8332edf5d8b1d0c94411def2ad6c21c5184cc1a'

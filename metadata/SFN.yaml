@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdca8a5bb74ec9536d13511c51f6a68821bf6a1a6'
+    platform: BNB
 crypto: true
 fiat: false
 id: SFN
 id_coinmarketcap: '9845'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9845.png
 name: Strains Finance
-platform: BNB
-platform_contract: '0xdca8a5bb74ec9536d13511c51f6a68821bf6a1a6'

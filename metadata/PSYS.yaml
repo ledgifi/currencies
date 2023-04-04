@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xE18c200A70908c89fFA18C628fE1B83aC0065EA4'
+    platform: SYS
 crypto: true
 fiat: false
 id: PSYS
@@ -6,5 +9,3 @@ id_nomics: PSYS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PSYS.png
 logoKey: currencies/psys.png
 name: Pegasys
-platform: SYS
-platform_contract: '0xE18c200A70908c89fFA18C628fE1B83aC0065EA4'

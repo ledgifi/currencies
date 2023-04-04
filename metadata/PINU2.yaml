@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1FDB2c3851D067502Ce2122bE80a41ea212949E2'
+    platform: BNB
 crypto: true
 fiat: false
 id: PINU2
 id_coinmarketcap: '20138'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20138.png
 name: Pige Inu
-platform: BNB
-platform_contract: '0x1FDB2c3851D067502Ce2122bE80a41ea212949E2'

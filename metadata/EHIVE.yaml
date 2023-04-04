@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4ae2cd1f5b8806a973953b76f9ce6d5fab9cdcfd'
+    platform: ETH
 crypto: true
 fiat: false
 id: EHIVE
 id_coinmarketcap: '21770'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21770.png
 name: eHive
-platform: ETH
-platform_contract: '0x4ae2cd1f5b8806a973953b76f9ce6d5fab9cdcfd'

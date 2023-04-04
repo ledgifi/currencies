@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x849cf7b79401a0eb22386fc9613c7addf15522e3'
+    platform: BNB
 crypto: true
 fiat: false
 id: RARX
 id_coinmarketcap: '13144'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13144.png
 name: Rare Earth Token
-platform: BNB
-platform_contract: '0x849cf7b79401a0eb22386fc9613c7addf15522e3'

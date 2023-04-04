@@ -1,8 +1,9 @@
+contracts:
+  - address: 0x14b0ef0ec69f346bea3dfa0c5a8c3942fb05c08760059948f9f24c02cd0d4fd8::mover_token::Mover
+    platform: APT
 crypto: true
 fiat: false
 id: MOVER
 id_coinmarketcap: '23767'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23767.png
 name: Mover
-platform: APT
-platform_contract: 0x14b0ef0ec69f346bea3dfa0c5a8c3942fb05c08760059948f9f24c02cd0d4fd8::mover_token::Mover

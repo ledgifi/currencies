@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD'
+    platform: ETH
 crypto: true
 fiat: false
 id: DFGL
 id_coinmarketcap: '7483'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7483.png
 name: DeFi Gold
-platform: ETH
-platform_contract: '0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD'

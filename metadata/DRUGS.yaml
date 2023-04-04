@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x339550404ca4d831d12b1b2e4768869997390010'
+    platform: BNB
 crypto: true
 fiat: false
 id: DRUGS
@@ -6,5 +9,3 @@ id_nomics: DRUGS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DRUGS.jpg
 logoKey: currencies/drugs.jpg
 name: Drugs
-platform: BNB
-platform_contract: '0x339550404ca4d831d12b1b2e4768869997390010'

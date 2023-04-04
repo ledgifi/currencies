@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf62D479c63Ba5196FCE6F22210080F9a2D6a4D47'
+    platform: BNB
 crypto: true
 fiat: false
 id: PYRA2
 id_coinmarketcap: '19846'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19846.png
 name: PyramiDAO
-platform: BNB
-platform_contract: '0xf62D479c63Ba5196FCE6F22210080F9a2D6a4D47'

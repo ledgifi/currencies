@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdbeb98858f5d4dca13ea0272b2b786e9415d3992'
+    platform: BNB
 crypto: true
 fiat: false
 id: ZETH
 id_coinmarketcap: '10284'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10284.png
 name: Zetta Ethereum Hashrate Token
-platform: BNB
-platform_contract: '0xdbeb98858f5d4dca13ea0272b2b786e9415d3992'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc713d1053a6e8efa08ae2903181d8ce5182aa66c'
+    platform: BNB
 crypto: true
 fiat: false
 id: NFTBOX
 id_coinmarketcap: '10063'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10063.png
 name: NFTBOX.fun
-platform: BNB
-platform_contract: '0xc713d1053a6e8efa08ae2903181d8ce5182aa66c'

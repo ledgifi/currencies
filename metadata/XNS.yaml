@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x79c71d3436f39ce382d0f58f1b011d88100b9d91'
+    platform: ETH
 crypto: true
 fiat: false
 id: XNS
 id_coinmarketcap: '4802'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4802.png
 name: Xeonbit Token
-platform: ETH
-platform_contract: '0x79c71d3436f39ce382d0f58f1b011d88100b9d91'

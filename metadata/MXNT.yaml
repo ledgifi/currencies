@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xed03Ed872159e199065401b6d0D487d78d9464AA'
+    platform: ETH
 crypto: true
 fiat: false
 id: MXNT
 id_coinmarketcap: '20322'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20322.png
 name: Mexican Peso Tether
-platform: ETH
-platform_contract: '0xed03Ed872159e199065401b6d0D487d78d9464AA'

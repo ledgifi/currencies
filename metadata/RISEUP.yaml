@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x61c911b6d1b46dcadbb61bfa7100290a6faad53d'
+    platform: BNB
 crypto: true
 fiat: false
 id: RISEUP
 id_coinmarketcap: '10679'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10679.png
 name: RiseUp
-platform: BNB
-platform_contract: '0x61c911b6d1b46dcadbb61bfa7100290a6faad53d'

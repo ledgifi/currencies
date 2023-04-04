@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPACEPI
@@ -7,5 +10,3 @@ id_nomics: SPACEPI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPACEPI.png
 logoKey: currencies/spacepi.png
 name: SpacePi
-platform: BNB
-platform_contract: '0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E'

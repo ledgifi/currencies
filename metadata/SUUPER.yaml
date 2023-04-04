@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb00b5a85181305c6f5e072e56c2bf8240e0747bd'
+    platform: BNB
 crypto: true
 fiat: false
 id: SUUPER
 id_coinmarketcap: '19313'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19313.png
 name: Suuper
-platform: BNB
-platform_contract: '0xb00b5a85181305c6f5e072e56c2bf8240e0747bd'

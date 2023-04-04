@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7ed621d37e30214d5e197454f08b1c5c9558517a'
+    platform: ETH
 crypto: true
 fiat: false
 id: DEVA
 id_coinmarketcap: '8515'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8515.png
 name: DEVA TOKEN
-platform: ETH
-platform_contract: '0x7ed621d37e30214d5e197454f08b1c5c9558517a'

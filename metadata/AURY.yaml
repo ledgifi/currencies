@@ -1,4 +1,7 @@
 color: '#e756cc'
+contracts:
+  - address: '0xF5a367b7809e5683538C93Ce638B9258A0B88271'
+    platform: BNB
 crypto: true
 fiat: false
 id: AURY
@@ -8,5 +11,3 @@ id_nomics: AURY
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/aury.svg
 logoKey: currencies/aury.svg
 name: Aurory
-platform: BNB
-platform_contract: '0xF5a367b7809e5683538C93Ce638B9258A0B88271'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfB66e49e303A186a4c57414Ceeed651a7a78161a'
+    platform: FTM
 crypto: true
 fiat: false
 id: ORKAN
 id_coinmarketcap: '18402'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18402.png
 name: Orkan
-platform: FTM
-platform_contract: '0xfB66e49e303A186a4c57414Ceeed651a7a78161a'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4b747b2ed0c445bd52a3a559ff12700689870ca9'
+    platform: BNB
 crypto: true
 fiat: false
 id: DHC1
 id_coinmarketcap: '11659'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11659.png
 name: Diamond Hands Token
-platform: BNB
-platform_contract: '0x4b747b2ed0c445bd52a3a559ff12700689870ca9'

@@ -1,4 +1,7 @@
 color: '#00a79d'
+contracts:
+  - address: '0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3'
+    platform: BNB
 crypto: true
 fiat: false
 id: SAFEMOON
@@ -8,5 +11,3 @@ id_nomics: SAFEMOON
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/safemoon.svg
 logoKey: currencies/safemoon.svg
 name: SafeMoon
-platform: BNB
-platform_contract: '0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3'

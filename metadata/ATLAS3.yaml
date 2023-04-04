@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x804c1d39789403aC52C42B2aCc999BacF929d778'
+    platform: BNB
 crypto: true
 fiat: false
 id: ATLAS3
 id_coinmarketcap: '21593'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21593.png
 name: THE ATLAS COIN
-platform: BNB
-platform_contract: '0x804c1d39789403aC52C42B2aCc999BacF929d778'

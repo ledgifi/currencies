@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCfC785741Dc0e98ad4c9F6394Bb9d43Cd1eF5179'
+    platform: FTM
 crypto: true
 fiat: false
 id: ankrFTM
 id_coinmarketcap: '20665'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20665.png
 name: Ankr Staked FTM
-platform: FTM
-platform_contract: '0xCfC785741Dc0e98ad4c9F6394Bb9d43Cd1eF5179'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe96e619c60b5f0a4061c61f048c80cfdc0255b53'
+    platform: BNB
 crypto: true
 fiat: false
 id: METAD
 id_coinmarketcap: '20587'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20587.png
 name: META WORLD
-platform: BNB
-platform_contract: '0xe96e619c60b5f0a4061c61f048c80cfdc0255b53'

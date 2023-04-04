@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcd32a0e26b3a87a064476b2c9e5e691df9ca063a'
+    platform: BNB
 crypto: true
 fiat: false
 id: CKG
 id_coinmarketcap: '14646'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14646.png
 name: Crystal Kingdoms
-platform: BNB
-platform_contract: '0xcd32a0e26b3a87a064476b2c9e5e691df9ca063a'

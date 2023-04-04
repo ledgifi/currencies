@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4ad7a056191F4c9519fAcd6D75FA94CA26003aCE'
+    platform: ETH
 crypto: true
 fiat: false
 id: GPO1
 id_coinmarketcap: '15462'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15462.png
 name: GoldPesa Option
-platform: ETH
-platform_contract: '0x4ad7a056191F4c9519fAcd6D75FA94CA26003aCE'

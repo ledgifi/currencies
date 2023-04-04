@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x32aF3e999D657917aA646FCad40520686CD41667'
+    platform: BNB
 crypto: true
 fiat: false
 id: WFAC
 id_coinmarketcap: '22364'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22364.png
 name: FAHRENHEIT CHAIN
-platform: BNB
-platform_contract: '0x32aF3e999D657917aA646FCad40520686CD41667'

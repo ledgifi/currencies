@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcd3b51d98478d53f4515a306be565c6eebef1d58'
+    platform: GLMR
 crypto: true
 fiat: false
 id: GLINT
 id_coinmarketcap: '17035'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17035.png
 name: BeamSwap
-platform: GLMR
-platform_contract: '0xcd3b51d98478d53f4515a306be565c6eebef1d58'

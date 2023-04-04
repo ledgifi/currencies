@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x735c09d9E6c68fAaA8562E7316B34A8d89f4a3B8'
+    platform: BNB
 crypto: true
 fiat: false
 id: 0XT
 id_coinmarketcap: '22013'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22013.png
 name: 0xTrade
-platform: BNB
-platform_contract: '0x735c09d9E6c68fAaA8562E7316B34A8d89f4a3B8'

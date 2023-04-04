@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2180f5cc1ddf117640963ae91868948bd3ef6838'
+    platform: BNB
 crypto: true
 fiat: false
 id: AAT
 id_coinmarketcap: '15324'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15324.png
 name: AscensionArcade
-platform: BNB
-platform_contract: '0x2180f5cc1ddf117640963ae91868948bd3ef6838'

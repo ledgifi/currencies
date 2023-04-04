@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa042fb0e60125a4022670014ac121931e7501af4'
+    platform: HT
 crypto: true
 fiat: false
 id: BAG1
 id_coinmarketcap: '8273'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8273.png
 name: Basis Gold
-platform: HT
-platform_contract: '0xa042fb0e60125a4022670014ac121931e7501af4'

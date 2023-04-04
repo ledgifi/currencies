@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf55a93b613d172b86c2ba3981a849dae2aecde2f'
+    platform: ETH
 crypto: true
 fiat: false
 id: YFX
 id_coinmarketcap: '9946'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9946.png
 name: Your Future Exchange
-platform: ETH
-platform_contract: '0xf55a93b613d172b86c2ba3981a849dae2aecde2f'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8f136cc8bef1fea4a7b71aa2301ff1a52f084384'
+    platform: ETH
 crypto: true
 fiat: false
 id: STC6
 id_coinmarketcap: '2432'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2432.png
 name: StarChain
-platform: ETH
-platform_contract: '0x8f136cc8bef1fea4a7b71aa2301ff1a52f084384'

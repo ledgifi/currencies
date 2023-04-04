@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x80Df74Dc3dE4477eaEE5c3E14348c6bF7ffFAd87'
+    platform: BNB
 crypto: true
 fiat: false
 id: XENOX
 id_coinmarketcap: '16872'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16872.png
 name: Xenoverse Crypto
-platform: BNB
-platform_contract: '0x80Df74Dc3dE4477eaEE5c3E14348c6bF7ffFAd87'

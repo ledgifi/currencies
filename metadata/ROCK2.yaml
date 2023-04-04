@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xC16b542ff490e01fcc0DC58a60e1EFdc3e357cA6'
+    platform: ETH
 crypto: true
 fiat: false
 id: ROCK2
 id_coinmarketcap: '3065'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3065.png
 name: ICE ROCK MINING
-platform: ETH
-platform_contract: '0xC16b542ff490e01fcc0DC58a60e1EFdc3e357cA6'

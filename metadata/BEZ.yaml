@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8a1e3930fde1f151471c368fdbb39f3f63a65b55'
+    platform: ETH
 crypto: true
 fiat: false
 id: BEZ
 id_coinmarketcap: '2551'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2551.png
 name: Bezop
-platform: ETH
-platform_contract: '0x8a1e3930fde1f151471c368fdbb39f3f63a65b55'

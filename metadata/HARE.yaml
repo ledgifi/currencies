@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4AFc8c2Be6a0783ea16E16066fde140d15979296'
+    platform: BNB
 crypto: true
 fiat: false
 id: HARE
 id_coinmarketcap: '10675'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10675.png
 name: Hare Token
-platform: BNB
-platform_contract: '0x4AFc8c2Be6a0783ea16E16066fde140d15979296'

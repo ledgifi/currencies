@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x81B1bFD6CB9Ad42DB395c2a27F73D4DCf5777e2D'
+    platform: ETH
 crypto: true
 fiat: false
 id: RARE2
 id_coinmarketcap: '7456'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7456.png
 name: Rare
-platform: ETH
-platform_contract: '0x81B1bFD6CB9Ad42DB395c2a27F73D4DCf5777e2D'

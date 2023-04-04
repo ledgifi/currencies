@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x446F2A8A39Cc730ef378Be759A3c57f1a3fE824c'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: NBT3
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220218/319d6cb6-bf38-45ab-a24d-445a0b26de8b.png
 logoKey: currencies/nbt.png
 name: NanoByte Token
-platform: ETH
-platform_contract: '0x446F2A8A39Cc730ef378Be759A3c57f1a3fE824c'

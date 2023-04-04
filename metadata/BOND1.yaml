@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB19a3f8761E4EcFd26AaA2e3a302b45692daCeD3'
+    platform: BNB
 crypto: true
 fiat: false
 id: BOND1
 id_coinmarketcap: '22597'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22597.png
 name: Bondly
-platform: BNB
-platform_contract: '0xB19a3f8761E4EcFd26AaA2e3a302b45692daCeD3'

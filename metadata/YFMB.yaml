@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7aFaC1D878C66A47263DCe57976C371Ae2e74882'
+    platform: ETH
 crypto: true
 fiat: false
 id: YFMB
 id_coinmarketcap: '7292'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7292.png
 name: YFMoonBeam
-platform: ETH
-platform_contract: '0x7aFaC1D878C66A47263DCe57976C371Ae2e74882'

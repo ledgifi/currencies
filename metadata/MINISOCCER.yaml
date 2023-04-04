@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1bb2ddf857afc8cca364ff091462d607f1f37e9f'
+    platform: BNB
 crypto: true
 fiat: false
 id: MINISOCCER
 id_coinmarketcap: '12021'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12021.png
 name: Minisoccer
-platform: BNB
-platform_contract: '0x1bb2ddf857afc8cca364ff091462d607f1f37e9f'

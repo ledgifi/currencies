@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x69CBC7449ee102eB792f1656744bF1A7c1bACB7e'
+    platform: MATIC
 crypto: true
 fiat: false
 id: HAWK1
 id_coinmarketcap: '9528'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9528.png
 name: HawkDex
-platform: MATIC
-platform_contract: '0x69CBC7449ee102eB792f1656744bF1A7c1bACB7e'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xFf3Aa0D4874C3BD5AdcBB94254005ff19f798AcB'
+    platform: BNB
 crypto: true
 fiat: false
 id: ZINAX
 id_coinmarketcap: '16127'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16127.png
 name: ZinaX DAO
-platform: BNB
-platform_contract: '0xFf3Aa0D4874C3BD5AdcBB94254005ff19f798AcB'

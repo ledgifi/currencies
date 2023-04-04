@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf376807dcdbaa0d7fa86e7c9eacc58d11ad710e4'
+    platform: BNB
 crypto: true
 fiat: false
 id: BLITZ
 id_coinmarketcap: '20110'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20110.png
 name: Blitz Labs
-platform: BNB
-platform_contract: '0xf376807dcdbaa0d7fa86e7c9eacc58d11ad710e4'

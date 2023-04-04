@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x395768aeb16484e5785612a98e9408e4cc1269ec'
+    platform: ETH
 crypto: true
 fiat: false
 id: RUC
 id_coinmarketcap: '7423'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7423.png
 name: RUSH
-platform: ETH
-platform_contract: '0x395768aeb16484e5785612a98e9408e4cc1269ec'

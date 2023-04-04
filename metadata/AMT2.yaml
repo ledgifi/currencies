@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4ce5f6Bf8e996Ae54709C75865709ACA5127Dd54'
+    platform: BNB
 crypto: true
 fiat: false
 id: AMT2
 id_coinmarketcap: '11499'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11499.png
 name: AMATERAS
-platform: BNB
-platform_contract: '0x4ce5f6Bf8e996Ae54709C75865709ACA5127Dd54'

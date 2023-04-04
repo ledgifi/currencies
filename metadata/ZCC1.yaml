@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x26548041e3a78fdc60f3cce21977e1f5e46561b7'
+    platform: ETH
 crypto: true
 fiat: false
 id: ZCC1
 id_coinmarketcap: '8208'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8208.png
 name: ZuCoinChain
-platform: ETH
-platform_contract: '0x26548041e3a78fdc60f3cce21977e1f5e46561b7'

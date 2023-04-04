@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x6286a9e6f7e745a6d884561d88f94542d6715698'
+    platform: ETH
 crypto: true
 fiat: false
 id: TECH
@@ -7,5 +10,3 @@ id_nomics: TECH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TECH.jpg
 logoKey: currencies/tech.jpg
 name: Cryptomeda
-platform: ETH
-platform_contract: '0x6286a9e6f7e745a6d884561d88f94542d6715698'

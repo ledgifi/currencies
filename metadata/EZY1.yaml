@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA6D5C720a9af5A405dFB6b9F44Fc44FaB5D4A58D'
+    platform: ETH
 crypto: true
 fiat: false
 id: EZY1
 id_coinmarketcap: '5521'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5521.png
 name: EzyStayz
-platform: ETH
-platform_contract: '0xA6D5C720a9af5A405dFB6b9F44Fc44FaB5D4A58D'

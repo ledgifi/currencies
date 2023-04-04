@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2b81f9668f4a5fdeba51b53a759de46fb59a5c91'
+    platform: ETH
 crypto: true
 fiat: false
 id: WT1
 id_coinmarketcap: '4921'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4921.png
 name: WBF Token
-platform: ETH
-platform_contract: '0x2b81f9668f4a5fdeba51b53a759de46fb59a5c91'

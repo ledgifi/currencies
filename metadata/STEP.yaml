@@ -1,3 +1,6 @@
+contracts:
+  - address: StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT
+    platform: SOL
 crypto: true
 fiat: false
 id: STEP
@@ -7,5 +10,3 @@ id_nomics: STEP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STEP.jpg
 logoKey: currencies/step.jpg
 name: Step Finance
-platform: SOL
-platform_contract: StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT

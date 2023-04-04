@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc4544edef986eac0592516b6de4968da2405452b'
+    platform: BNB
 crypto: true
 fiat: false
 id: 452B
 id_coinmarketcap: '14739'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14739.png
 name: Kepler452b
-platform: BNB
-platform_contract: '0xc4544edef986eac0592516b6de4968da2405452b'

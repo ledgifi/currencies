@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa0cf46eb152656c7090e769916eb44a138aaa406'
+    platform: ETH
 crypto: true
 fiat: false
 id: SPH
 id_coinmarketcap: '6209'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6209.png
 name: Spheroid Universe
-platform: ETH
-platform_contract: '0xa0cf46eb152656c7090e769916eb44a138aaa406'

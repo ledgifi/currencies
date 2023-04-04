@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x63e62989D9EB2d37dfDB1F93A22f063635b07d51'
+    platform: GNO
 crypto: true
 fiat: false
 id: MIVA
 id_coinmarketcap: '11916'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11916.png
 name: Minerva Wallet
-platform: GNO
-platform_contract: '0x63e62989D9EB2d37dfDB1F93A22f063635b07d51'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x25be9e26db60b1a3d1f7fa21679385df076af7fb'
+    platform: BNB
 crypto: true
 fiat: false
 id: GAIA2
 id_coinmarketcap: '9800'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9800.png
 name: GaiaDAO
-platform: BNB
-platform_contract: '0x25be9e26db60b1a3d1f7fa21679385df076af7fb'

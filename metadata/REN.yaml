@@ -1,4 +1,7 @@
 color: '#080817'
+contracts:
+  - address: '0x408e41876cccdc0f92210600ef50372656052a38'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: REN
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/ren.svg
 logoKey: currencies/ren.svg
 name: Ren
-platform: ETH
-platform_contract: '0x408e41876cccdc0f92210600ef50372656052a38'

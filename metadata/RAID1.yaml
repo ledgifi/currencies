@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x154e35c2b0024b3e079c5c5e4fc31c979c189ccb'
+    platform: ETH
 crypto: true
 fiat: false
 id: RAID1
 id_coinmarketcap: '11591'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11591.png
 name: Raid Token
-platform: ETH
-platform_contract: '0x154e35c2b0024b3e079c5c5e4fc31c979c189ccb'

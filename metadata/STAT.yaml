@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4fc15c91a9c4a9efb404174464687e8e128730c2'
+    platform: ETH
 crypto: true
 fiat: false
 id: STAT
 id_coinmarketcap: '21156'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21156.png
 name: STAT
-platform: ETH
-platform_contract: '0x4fc15c91a9c4a9efb404174464687e8e128730c2'

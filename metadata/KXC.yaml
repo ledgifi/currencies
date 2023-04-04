@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x016396044709eb3edc69c44f4d5fa6996917e4e8'
+    platform: ETH
 crypto: true
 fiat: false
 id: KXC
 id_coinmarketcap: '3198'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3198.png
 name: KingXChain
-platform: ETH
-platform_contract: '0x016396044709eb3edc69c44f4d5fa6996917e4e8'

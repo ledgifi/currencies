@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9556f8ee795d991ff371f547162d5efb2769425f'
+    platform: ETH
 crypto: true
 fiat: false
 id: DMME
 id_coinmarketcap: '4819'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4819.png
 name: DMme
-platform: ETH
-platform_contract: '0x9556f8ee795d991ff371f547162d5efb2769425f'

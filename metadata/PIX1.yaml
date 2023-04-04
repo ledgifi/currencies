@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8eFFd494eB698cc399AF6231fCcd39E08fd20B15'
+    platform: ETH
 crypto: true
 fiat: false
 id: PIX1
 id_coinmarketcap: '1988'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1988.png
 name: Lampix
-platform: ETH
-platform_contract: '0x8eFFd494eB698cc399AF6231fCcd39E08fd20B15'

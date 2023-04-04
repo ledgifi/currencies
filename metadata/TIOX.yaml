@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd947b0ceab2a8885866b9a04a06ae99de852a3d4'
+    platform: ETH
 crypto: true
 fiat: false
 id: TIOX
 id_coinmarketcap: '3642'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3642.png
 name: Trade Token X
-platform: ETH
-platform_contract: '0xd947b0ceab2a8885866b9a04a06ae99de852a3d4'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2e7f28f0d27ffa238fdf7517a3bbe239b8189741'
+    platform: BNB
 crypto: true
 fiat: false
 id: HOPPYINU
 id_coinmarketcap: '23672'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23672.png
 name: HoppyInu
-platform: BNB
-platform_contract: '0x2e7f28f0d27ffa238fdf7517a3bbe239b8189741'

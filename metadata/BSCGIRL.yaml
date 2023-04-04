@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5c6fb802f173dba15e2caada433032b1368af59f'
+    platform: BNB
 crypto: true
 fiat: false
 id: BSCGIRL
 id_coinmarketcap: '10570'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10570.png
 name: Binance Smart Chain Girl
-platform: BNB
-platform_contract: '0x5c6fb802f173dba15e2caada433032b1368af59f'

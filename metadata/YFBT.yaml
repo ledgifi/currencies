@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf0a0f3a6fa6bed75345171a5ea18abcadf6453ba'
+    platform: ETH
 crypto: true
 fiat: false
 id: YFBT
 id_coinmarketcap: '7237'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7237.png
 name: Yearn Finance Bit
-platform: ETH
-platform_contract: '0xf0a0f3a6fa6bed75345171a5ea18abcadf6453ba'

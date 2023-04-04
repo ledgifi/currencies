@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x198065e69a86cb8a9154b333aad8efe7a3c256f8'
+    platform: ETH
 crypto: true
 fiat: false
 id: KOY
 id_coinmarketcap: '23912'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23912.png
 name: Koyo
-platform: ETH
-platform_contract: '0x198065e69a86cb8a9154b333aad8efe7a3c256f8'

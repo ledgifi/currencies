@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1b442512ed276e3e874149e4f4e51f06aee8b58c'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOGEKONGZILLA
 id_coinmarketcap: '13610'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13610.png
 name: DogeKongZilla
-platform: BNB
-platform_contract: '0x1b442512ed276e3e874149e4f4e51f06aee8b58c'

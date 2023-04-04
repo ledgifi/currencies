@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2c2b19d773ffa5125a455656ea916399d87bdb15'
+    platform: BNB
 crypto: true
 fiat: false
 id: WINALAMBO
 id_coinmarketcap: '10745'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10745.png
 name: WIN A LAMBO FINANCE
-platform: BNB
-platform_contract: '0x2c2b19d773ffa5125a455656ea916399d87bdb15'

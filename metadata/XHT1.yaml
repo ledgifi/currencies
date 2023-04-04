@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x487e464ed2f07306d5d0add219c7e13d3be9d867'
+    platform: BNB
 crypto: true
 fiat: false
 id: XHT1
 id_coinmarketcap: '11954'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11954.png
 name: xHunter
-platform: BNB
-platform_contract: '0x487e464ed2f07306d5d0add219c7e13d3be9d867'

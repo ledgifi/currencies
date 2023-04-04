@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb32aC3C79A94aC1eb258f3C830bBDbc676483c93'
+    platform: BNB
 crypto: true
 fiat: false
 id: OSWAP
 id_coinmarketcap: '9987'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9987.png
 name: OpenSwap
-platform: BNB
-platform_contract: '0xb32aC3C79A94aC1eb258f3C830bBDbc676483c93'

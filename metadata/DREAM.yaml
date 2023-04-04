@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb44377B74Ef1773639B663d0754cB8410A847d02'
+    platform: ETH
 crypto: true
 fiat: false
 id: DREAM
 id_coinmarketcap: '17157'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17157.png
 name: Dream
-platform: ETH
-platform_contract: '0xb44377B74Ef1773639B663d0754cB8410A847d02'

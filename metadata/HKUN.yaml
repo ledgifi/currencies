@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xBb2FA5B2D19209f4Cf50cF745Efc32641A7c9fb1'
+    platform: BNB
 crypto: true
 fiat: false
 id: HKUN
 id_coinmarketcap: '12014'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12014.png
 name: HakunaMatata (new)
-platform: BNB
-platform_contract: '0xBb2FA5B2D19209f4Cf50cF745Efc32641A7c9fb1'

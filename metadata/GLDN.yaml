@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xFeeB4D0f5463B1b04351823C246bdB84c4320CC2'
+    platform: ETH
 crypto: true
 fiat: false
 id: GLDN
 id_coinmarketcap: '22036'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22036.png
 name: Gold Retriever
-platform: ETH
-platform_contract: '0xFeeB4D0f5463B1b04351823C246bdB84c4320CC2'

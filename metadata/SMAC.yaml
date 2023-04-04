@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb9964c8b9c48800678e72b2fe7b9b365d3d0019d'
+    platform: ETH
 crypto: true
 fiat: false
 id: SMAC
 id_coinmarketcap: '17101'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17101.png
 name: Smartchem
-platform: ETH
-platform_contract: '0xb9964c8b9c48800678e72b2fe7b9b365d3d0019d'

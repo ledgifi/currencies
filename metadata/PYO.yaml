@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe6DF015f66653EcE085A5FBBa8d42C356114ce4F'
+    platform: BNB
 crypto: true
 fiat: false
 id: PYO
 id_coinmarketcap: '17045'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17045.png
 name: Pyrrho
-platform: BNB
-platform_contract: '0xe6DF015f66653EcE085A5FBBa8d42C356114ce4F'

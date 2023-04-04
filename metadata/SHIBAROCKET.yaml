@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x782d8c5c0150bedc70d94fe6737763ede839f205'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIBAROCKET
 id_coinmarketcap: '11647'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11647.png
 name: ShibaRocket
-platform: BNB
-platform_contract: '0x782d8c5c0150bedc70d94fe6737763ede839f205'

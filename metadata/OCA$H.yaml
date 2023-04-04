@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb340f67e9cc3927ebeeb04c2e03f74bd0543f4fc'
+    platform: BNB
 crypto: true
 fiat: false
 id: OCA$H
 id_coinmarketcap: '15157'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15157.png
 name: Omni Cash
-platform: BNB
-platform_contract: '0xb340f67e9cc3927ebeeb04c2e03f74bd0543f4fc'

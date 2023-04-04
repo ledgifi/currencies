@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf95d215b8140E445783CD45ffc5Bf9C07e5B3E05'
+    platform: BNB
 crypto: true
 fiat: false
 id: DNP
 id_coinmarketcap: '19959'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19959.png
 name: The Donation Post
-platform: BNB
-platform_contract: '0xf95d215b8140E445783CD45ffc5Bf9C07e5B3E05'

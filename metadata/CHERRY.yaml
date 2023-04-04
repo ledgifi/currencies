@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4eCB692B0fEDeCD7B486b4c99044392784877E8C'
+    platform: ETH
 crypto: true
 fiat: false
 id: CHERRY
 id_coinmarketcap: '6596'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6596.png
 name: cherry
-platform: ETH
-platform_contract: '0x4eCB692B0fEDeCD7B486b4c99044392784877E8C'

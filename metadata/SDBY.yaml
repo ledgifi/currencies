@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3ce0f6944279a58a366cc2e89585b376306b9b4f'
+    platform: BNB
 crypto: true
 fiat: false
 id: SDBY
 id_coinmarketcap: '13729'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13729.png
 name: Sadbaby
-platform: BNB
-platform_contract: '0x3ce0f6944279a58a366cc2e89585b376306b9b4f'

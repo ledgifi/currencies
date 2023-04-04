@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF4bEEB8e6217E0Be32F648B16bfa647Ad2c57fE1'
+    platform: BNB
 crypto: true
 fiat: false
 id: EMP5
 id_coinmarketcap: '15503'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15503.png
 name: Empire Warriors
-platform: BNB
-platform_contract: '0xF4bEEB8e6217E0Be32F648B16bfa647Ad2c57fE1'

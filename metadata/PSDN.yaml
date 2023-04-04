@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa5b947687163fe88c3e6af5b17ae69896f4abccf'
+    platform: ETH
 crypto: true
 fiat: false
 id: PSDN
 id_coinmarketcap: '19908'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19908.png
 name: H2O
-platform: ETH
-platform_contract: '0xa5b947687163fe88c3e6af5b17ae69896f4abccf'

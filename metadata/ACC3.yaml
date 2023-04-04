@@ -1,8 +1,9 @@
+contracts:
+  - address: accissuer123
+    platform: EOS
 crypto: true
 fiat: false
 id: ACC3
 id_coinmarketcap: '4696'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4696.png
 name: Asian-African Capital Chain
-platform: EOS
-platform_contract: accissuer123

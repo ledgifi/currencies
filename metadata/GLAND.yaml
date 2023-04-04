@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x59234F46AcdB449d5A43eeFd841Bc07a21613Fc1'
+    platform: BNB
 crypto: true
 fiat: false
 id: GLAND
 id_coinmarketcap: '21174'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21174.png
 name: Griffin Land
-platform: BNB
-platform_contract: '0x59234F46AcdB449d5A43eeFd841Bc07a21613Fc1'

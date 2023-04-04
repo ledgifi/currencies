@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7082ff3a22E707136c80A9eFcB215Ec4c1fDa810'
+    platform: BNB
 crypto: true
 fiat: false
 id: METT
 id_coinmarketcap: '23766'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23766.png
 name: MetaThings
-platform: BNB
-platform_contract: '0x7082ff3a22E707136c80A9eFcB215Ec4c1fDa810'

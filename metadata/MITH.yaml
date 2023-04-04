@@ -1,4 +1,7 @@
 color: '#00316d'
+contracts:
+  - address: MITH-C76
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: MITH
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/mith.svg
 logoKey: currencies/mith.svg
 name: Mithril
-platform: BNB
-platform_contract: MITH-C76

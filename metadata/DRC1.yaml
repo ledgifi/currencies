@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb78b3320493a4efaa1028130c5ba26f0b6085ef8'
+    platform: ETH
 crypto: true
 fiat: false
 id: DRC1
 id_coinmarketcap: '7380'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7380.png
 name: Dracula Token
-platform: ETH
-platform_contract: '0xb78b3320493a4efaa1028130c5ba26f0b6085ef8'

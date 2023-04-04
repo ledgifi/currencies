@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6820f244b81d0906D70266Cc9bCcC2A8EAa5464c'
+    platform: BNB
 crypto: true
 fiat: false
 id: GBAG
 id_coinmarketcap: '14777'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14777.png
 name: GiftBag
-platform: BNB
-platform_contract: '0x6820f244b81d0906D70266Cc9bCcC2A8EAa5464c'

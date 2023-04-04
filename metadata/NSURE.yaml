@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x20945ca1df56d237fd40036d47e866c7dccd2114'
+    platform: ETH
 crypto: true
 fiat: false
 id: NSURE
 id_coinmarketcap: '7231'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7231.png
 name: Nsure.Network
-platform: ETH
-platform_contract: '0x20945ca1df56d237fd40036d47e866c7dccd2114'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe2604C9561D490624AA35e156e65e590eB749519'
+    platform: BNB
 crypto: true
 fiat: false
 id: GM1
 id_coinmarketcap: '12967'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12967.png
 name: GoldMiner
-platform: BNB
-platform_contract: '0xe2604C9561D490624AA35e156e65e590eB749519'

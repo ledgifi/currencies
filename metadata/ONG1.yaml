@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd341d1680eeee3255b8c4c75bcce7eb57f144dae'
+    platform: ETH
 crypto: true
 fiat: false
 id: ONG1
 id_coinmarketcap: '2240'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2240.png
 name: SoMee.Social [OLD]
-platform: ETH
-platform_contract: '0xd341d1680eeee3255b8c4c75bcce7eb57f144dae'

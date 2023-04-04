@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9bd0611610a0f5133e4dd1bfdd71c5479ee77f37'
+    platform: FTM
 crypto: true
 fiat: false
 id: FTMO
 id_coinmarketcap: '11907'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11907.png
 name: Fantom Oasis
-platform: FTM
-platform_contract: '0x9bd0611610a0f5133e4dd1bfdd71c5479ee77f37'

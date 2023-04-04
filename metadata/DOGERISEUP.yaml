@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x12d31d5ddf12784ab9fa123ce7f735c76ffcd9bb'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOGERISEUP
 id_coinmarketcap: '15542'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15542.png
 name: Doge Rise Up
-platform: BNB
-platform_contract: '0x12d31d5ddf12784ab9fa123ce7f735c76ffcd9bb'

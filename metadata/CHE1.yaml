@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x632f62fcf63cb56380ffd27d63afcf5f1349f73f'
+    platform: ETH
 crypto: true
 fiat: false
 id: CHE1
 id_coinmarketcap: '3326'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3326.png
 name: Crypto Harbor Exchange
-platform: ETH
-platform_contract: '0x632f62fcf63cb56380ffd27d63afcf5f1349f73f'

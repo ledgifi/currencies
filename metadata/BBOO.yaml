@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd909840613fcb0fadc6ee7e5ecf30cdef4281a68'
+    platform: BNB
 crypto: true
 fiat: false
 id: BBOO
 id_coinmarketcap: '8350'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8350.png
 name: Panda Yield
-platform: BNB
-platform_contract: '0xd909840613fcb0fadc6ee7e5ecf30cdef4281a68'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x090fc4d5436d98e13473c4d6109de6a18bcfb0d4'
+    platform: ETH
 crypto: true
 fiat: false
 id: SKY1
 id_coinmarketcap: '24054'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24054.png
 name: The SkyToken
-platform: ETH
-platform_contract: '0x090fc4d5436d98e13473c4d6109de6a18bcfb0d4'

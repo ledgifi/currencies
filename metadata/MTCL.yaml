@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3642c3c8eBe0b36a29e37809e1c9A7DE06BC0B26'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MTCL
 id_coinmarketcap: '11491'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11491.png
 name: MaticLaunch
-platform: MATIC
-platform_contract: '0x3642c3c8eBe0b36a29e37809e1c9A7DE06BC0B26'

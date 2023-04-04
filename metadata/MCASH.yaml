@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa25610a77077390a75ad9072a084c5fbc7d43a0d'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MCASH
 id_coinmarketcap: '11233'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11233.png
 name: Monsoon Finance
-platform: MATIC
-platform_contract: '0xa25610a77077390a75ad9072a084c5fbc7d43a0d'

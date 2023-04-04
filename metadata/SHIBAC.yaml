@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2675BF8F10BB3486464B303e42caA0AeaC404181'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIBAC
 id_coinmarketcap: '14237'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14237.png
 name: SHIBA CLASSIC
-platform: BNB
-platform_contract: '0x2675BF8F10BB3486464B303e42caA0AeaC404181'

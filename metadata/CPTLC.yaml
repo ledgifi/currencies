@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x348e9EcB19a3f141A60845a29A32c701dC0EcB3B'
+    platform: BNB
 crypto: true
 fiat: false
 id: CPTLC
 id_coinmarketcap: '22415'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22415.png
 name: Cryptolic
-platform: BNB
-platform_contract: '0x348e9EcB19a3f141A60845a29A32c701dC0EcB3B'

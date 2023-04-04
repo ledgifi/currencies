@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x16b0a1a87ae8af5c792fabc429c4fe248834842b'
+    platform: ETH
 crypto: true
 fiat: false
 id: ALG
 id_coinmarketcap: '5508'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5508.png
 name: Algory Project
-platform: ETH
-platform_contract: '0x16b0a1a87ae8af5c792fabc429c4fe248834842b'

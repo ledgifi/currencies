@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x01c5e2a4af2bd9f62c7d55c6105b8a64e6905be5'
+    platform: AVAX
 crypto: true
 fiat: false
 id: HATTER
 id_coinmarketcap: '15032'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15032.png
 name: Hatter
-platform: AVAX
-platform_contract: '0x01c5e2a4af2bd9f62c7d55c6105b8a64e6905be5'

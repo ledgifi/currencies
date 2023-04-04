@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4A824eE819955A7D769e03fe36f9E0C3Bd3Aa60b'
+    platform: BNB
 crypto: true
 fiat: false
 id: KABOSU
 id_coinmarketcap: '9710'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9710.png
 name: Kabosu
-platform: BNB
-platform_contract: '0x4A824eE819955A7D769e03fe36f9E0C3Bd3Aa60b'

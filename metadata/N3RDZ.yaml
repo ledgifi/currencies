@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x32c868f6318d6334b2250f323d914bc2239e4eee'
+    platform: ETH
 crypto: true
 fiat: false
 id: N3RDz
 id_coinmarketcap: '8019'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8019.png
 name: N3RD Finance
-platform: ETH
-platform_contract: '0x32c868f6318d6334b2250f323d914bc2239e4eee'

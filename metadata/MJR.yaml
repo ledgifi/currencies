@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0f4415a8f9c1ea5dfa5f0fef414853e32cd69d22'
+    platform: ETH
 crypto: true
 fiat: false
 id: MJR
 id_coinmarketcap: '19139'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19139.png
 name: Major Protocol
-platform: ETH
-platform_contract: '0x0f4415a8f9c1ea5dfa5f0fef414853e32cd69d22'

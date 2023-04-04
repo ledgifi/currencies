@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfc225919d42999d23de3b80ced99f427f97e779a'
+    platform: BNB
 crypto: true
 fiat: false
 id: FZS
 id_coinmarketcap: '13661'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13661.png
 name: Fozeus Coin
-platform: BNB
-platform_contract: '0xfc225919d42999d23de3b80ced99f427f97e779a'

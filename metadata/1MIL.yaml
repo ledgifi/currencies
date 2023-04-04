@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa4ef4b0b23c1fc81d3f9ecf93510e64f58a4a016'
+    platform: ETH
 crypto: true
 fiat: false
 id: 1MIL
 id_coinmarketcap: '9344'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9344.png
 name: 1MillionNFTs
-platform: ETH
-platform_contract: '0xa4ef4b0b23c1fc81d3f9ecf93510e64f58a4a016'

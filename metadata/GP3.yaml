@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x38ec27c6f05a169e7ed03132bca7d0cfee93c2c5'
+    platform: ETH
 crypto: true
 fiat: false
 id: GP3
 id_coinmarketcap: '15490'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15490.png
 name: Wizards And Dragons
-platform: ETH
-platform_contract: '0x38ec27c6f05a169e7ed03132bca7d0cfee93c2c5'

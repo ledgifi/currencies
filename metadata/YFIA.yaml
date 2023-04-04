@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x94373d40135604ce50083Ff282250A9033761E53'
+    platform: ETH
 crypto: true
 fiat: false
 id: YFIA
 id_coinmarketcap: '7442'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7442.png
 name: YFIA
-platform: ETH
-platform_contract: '0x94373d40135604ce50083Ff282250A9033761E53'

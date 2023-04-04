@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xce4A4A15FcCD532eAd67BE3ECf7e6122c61D06bb'
+    platform: BNB
 crypto: true
 fiat: false
 id: THUNDERCAKE
 id_coinmarketcap: '11244'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11244.png
 name: THUNDERCAKE.APP
-platform: BNB
-platform_contract: '0xce4A4A15FcCD532eAd67BE3ECf7e6122c61D06bb'

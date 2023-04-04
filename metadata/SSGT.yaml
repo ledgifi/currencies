@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2ecc48ba346a73d7d55aa5a46b5e314d9daa6161'
+    platform: ETH
 crypto: true
 fiat: false
 id: SSGT
 id_coinmarketcap: '10331'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10331.png
 name: SafeSwap Governance Token
-platform: ETH
-platform_contract: '0x2ecc48ba346a73d7d55aa5a46b5e314d9daa6161'

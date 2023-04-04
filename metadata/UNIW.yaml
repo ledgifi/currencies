@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2a0cf46ECaaEAD92487577e9b737Ec63B0208a33'
+    platform: ETHW
 crypto: true
 fiat: false
 id: UNIW
 id_coinmarketcap: '22263'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22263.png
 name: UniWswap
-platform: ETHW
-platform_contract: '0x2a0cf46ECaaEAD92487577e9b737Ec63B0208a33'

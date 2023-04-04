@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc56f38a1e1a14727d89eccdc97d23a59159b31bd'
+    platform: ETH
 crypto: true
 fiat: false
 id: BBH
 id_coinmarketcap: '12914'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12914.png
 name: BEAVISANDBUTTHEAD
-platform: ETH
-platform_contract: '0xc56f38a1e1a14727d89eccdc97d23a59159b31bd'

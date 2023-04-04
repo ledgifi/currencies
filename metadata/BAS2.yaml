@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8ddeec6b677c7c552c9f3563b99e4ff90b862ebc'
+    platform: BNB
 crypto: true
 fiat: false
 id: BAS2
 id_coinmarketcap: '11279'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11279.png
 name: Block Ape Scissors
-platform: BNB
-platform_contract: '0x8ddeec6b677c7c552c9f3563b99e4ff90b862ebc'

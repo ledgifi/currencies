@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9ce084c378b3e65a164aeba12015ef3881e0f853'
+    platform: BNB
 crypto: true
 fiat: false
 id: $ZOOM
 id_coinmarketcap: '21981'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21981.png
 name: ZOOM Protocol
-platform: BNB
-platform_contract: '0x9ce084c378b3e65a164aeba12015ef3881e0f853'

@@ -1,8 +1,9 @@
+contracts:
+  - address: 0.0.1937609-eyncv
+    platform: HBAR
 crypto: true
 fiat: false
 id: HELI
 id_coinmarketcap: '23643'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23643.png
 name: HeliSwap
-platform: HBAR
-platform_contract: 0.0.1937609-eyncv

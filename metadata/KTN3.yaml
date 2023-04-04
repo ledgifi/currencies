@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x35f081cbf54028e20840a4af00c5c2f27c39890f'
+    platform: BNB
 crypto: true
 fiat: false
 id: KTN3
 id_coinmarketcap: '10216'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10216.png
 name: Kitten Token
-platform: BNB
-platform_contract: '0x35f081cbf54028e20840a4af00c5c2f27c39890f'

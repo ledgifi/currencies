@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcda2f16c6aa895d533506b426aff827b709c87f5'
+    platform: ETH
 crypto: true
 fiat: false
 id: FAI1
 id_coinmarketcap: '8414'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8414.png
 name: Fairum
-platform: ETH
-platform_contract: '0xcda2f16c6aa895d533506b426aff827b709c87f5'

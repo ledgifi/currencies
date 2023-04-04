@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa90c43e0d6c92b8e6171a829beb38be28a0ad073'
+    platform: ETH
 crypto: true
 fiat: false
 id: EUSD1
 id_coinmarketcap: '5124'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5124.png
 name: Egoras Dollar
-platform: ETH
-platform_contract: '0xa90c43e0d6c92b8e6171a829beb38be28a0ad073'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f'
+    platform: BNB
 crypto: true
 fiat: false
 id: WSPP
 id_coinmarketcap: '10841'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10841.png
 name: Wolf Safe Poor People
-platform: BNB
-platform_contract: '0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f'

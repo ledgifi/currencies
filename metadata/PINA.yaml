@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x02814f435dd04e254be7ae69f61fca19881a780d'
+    platform: ETH
 crypto: true
 fiat: false
 id: PINA
 id_coinmarketcap: '23269'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23269.png
 name: Meme Dollar
-platform: ETH
-platform_contract: '0x02814f435dd04e254be7ae69f61fca19881a780d'

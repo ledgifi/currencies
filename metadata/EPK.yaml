@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdaf88906ac1de12ba2b1d2f7bfc94e9638ac40c4'
+    platform: ETH
 crypto: true
 fiat: false
 id: EPK
 id_coinmarketcap: '9537'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9537.png
 name: EpiK Protocol
-platform: ETH
-platform_contract: '0xdaf88906ac1de12ba2b1d2f7bfc94e9638ac40c4'

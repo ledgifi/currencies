@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2e2e0a28f6585e895dd646a363bae29b77b88a31'
+    platform: ETH
 crypto: true
 fiat: false
 id: VOL1
 id_coinmarketcap: '4187'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4187.png
 name: Volume Network
-platform: ETH
-platform_contract: '0x2e2e0a28f6585e895dd646a363bae29b77b88a31'

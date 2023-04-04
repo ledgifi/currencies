@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9df465460938f9EBDF51C38CC87D72184471F8F0'
+    platform: BNB
 crypto: true
 fiat: false
 id: GENE
 id_coinmarketcap: '13632'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13632.png
 name: Genopets
-platform: BNB
-platform_contract: '0x9df465460938f9EBDF51C38CC87D72184471F8F0'

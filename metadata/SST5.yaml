@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3c08e6A883EB3d0c279FE7DEC4ebb245277AE53C'
+    platform: BNB
 crypto: true
 fiat: false
 id: SST5
 id_coinmarketcap: '20185'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20185.png
 name: STEPM
-platform: BNB
-platform_contract: '0x3c08e6A883EB3d0c279FE7DEC4ebb245277AE53C'

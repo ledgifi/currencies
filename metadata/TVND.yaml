@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3dc0501c32bee0cc1e629d590302a4b909797474'
+    platform: ETH
 crypto: true
 fiat: false
 id: TVND
 id_coinmarketcap: '4573'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4573.png
 name: TrueVND
-platform: ETH
-platform_contract: '0x3dc0501c32bee0cc1e629d590302a4b909797474'

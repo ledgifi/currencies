@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x780207b8c0fdc32cf60e957415bfa1f2d4d9718c'
+    platform: BNB
 crypto: true
 fiat: false
 id: CAS
@@ -7,5 +10,3 @@ id_nomics: CAS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/cas.png
 logoKey: currencies/cas.png
 name: Cashaa
-platform: BNB
-platform_contract: '0x780207b8c0fdc32cf60e957415bfa1f2d4d9718c'

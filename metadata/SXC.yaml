@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x46d3EC8CE3eC767414F16FE12176De23E3E5B46A'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SXC
 id_coinmarketcap: '10388'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10388.png
 name: SupremeX
-platform: MATIC
-platform_contract: '0x46d3EC8CE3eC767414F16FE12176De23E3E5B46A'

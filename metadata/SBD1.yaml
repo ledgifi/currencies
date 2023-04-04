@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3bf7e66b905bf2aaa08c45f0bdab0c4b26c36d4a'
+    platform: BNB
 crypto: true
 fiat: false
 id: SBD1
 id_coinmarketcap: '11636'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11636.png
 name: Starbound
-platform: BNB
-platform_contract: '0x3bf7e66b905bf2aaa08c45f0bdab0c4b26c36d4a'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x557722700d3919d774981fce950af909481ac3ac'
+    platform: ETH
 crypto: true
 fiat: false
 id: TITAM
 id_coinmarketcap: '4583'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4583.png
 name: TITAM
-platform: ETH
-platform_contract: '0x557722700d3919d774981fce950af909481ac3ac'

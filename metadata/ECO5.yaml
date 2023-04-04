@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x21fdb8e43d84420afbd6351d645f50c9138daae0'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ECO5
 id_coinmarketcap: '17732'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17732.png
 name: EcoCREDIT
-platform: MATIC
-platform_contract: '0x21fdb8e43d84420afbd6351d645f50c9138daae0'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1cd2528522A17B6Be63012fB63AE81f3e3e29D97'
+    platform: ETH
 crypto: true
 fiat: false
 id: MND
 id_coinmarketcap: '12812'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12812.png
 name: Mind Music
-platform: ETH
-platform_contract: '0x1cd2528522A17B6Be63012fB63AE81f3e3e29D97'

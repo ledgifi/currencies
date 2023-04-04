@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xAC51066d7bEC65Dc4589368da368b212745d63E8'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: ALICE2
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210315/2d82cb18-d836-4a1f-bee4-399f20ee0b22.png
 logoKey: currencies/alice.png
 name: My Neighbor Alice
-platform: ETH
-platform_contract: '0xAC51066d7bEC65Dc4589368da368b212745d63E8'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc94f3e2ade5e92389af7e543657211ecccaff11e'
+    platform: ETH
 crypto: true
 fiat: false
 id: SPIRAL
 id_coinmarketcap: '21179'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21179.png
 name: Up Spiral
-platform: ETH
-platform_contract: '0xc94f3e2ade5e92389af7e543657211ecccaff11e'

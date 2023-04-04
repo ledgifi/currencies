@@ -1,4 +1,7 @@
 color: '#2683ff'
+contracts:
+  - address: '0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: STORJ
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/storj.svg
 logoKey: currencies/storj.svg
 name: Storj
-platform: ETH
-platform_contract: '0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac'

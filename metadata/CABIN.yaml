@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1934e252f840aa98dfce2b6205b3e45c41aef830'
+    platform: ETH
 crypto: true
 fiat: false
 id: CABIN
 id_coinmarketcap: '18317'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18317.png
 name: Creator Cabins
-platform: ETH
-platform_contract: '0x1934e252f840aa98dfce2b6205b3e45c41aef830'

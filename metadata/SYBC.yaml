@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x69428bb4272e3181de9e3cab461e19b0131855c8'
+    platform: ETH
 crypto: true
 fiat: false
 id: SYBC
 id_coinmarketcap: '6733'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6733.png
 name: SYB Coin
-platform: ETH
-platform_contract: '0x69428bb4272e3181de9e3cab461e19b0131855c8'

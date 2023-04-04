@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xab14952d2902343fde7c65d7dc095e5c8be86920'
+    platform: BNB
 crypto: true
 fiat: false
 id: GOMA
 id_coinmarketcap: '10858'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10858.png
 name: GOMA Finance [OLD]
-platform: BNB
-platform_contract: '0xab14952d2902343fde7c65d7dc095e5c8be86920'

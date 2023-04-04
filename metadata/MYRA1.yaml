@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5cd7d317d9cb4d46ff0b4f6a20d9547069fe0f27'
+    platform: BNB
 crypto: true
 fiat: false
 id: MYRA1
 id_coinmarketcap: '14793'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14793.png
 name: MYRA AI
-platform: BNB
-platform_contract: '0x5cd7d317d9cb4d46ff0b4f6a20d9547069fe0f27'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x42712dF5009c20fee340B245b510c0395896cF6e'
+    platform: HT
 crypto: true
 fiat: false
 id: DFT3
 id_coinmarketcap: '8758'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8758.png
 name: dFuture
-platform: HT
-platform_contract: '0x42712dF5009c20fee340B245b510c0395896cF6e'

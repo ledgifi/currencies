@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xda4714fee90ad7de50bc185ccd06b175d23906c1'
+    platform: BNB
 crypto: true
 fiat: false
 id: GODZ1
 id_coinmarketcap: '13559'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13559.png
 name: Godzilla LaunchPad
-platform: BNB
-platform_contract: '0xda4714fee90ad7de50bc185ccd06b175d23906c1'

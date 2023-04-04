@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7abf7f54f30a45c7c43d728a75d6741440d7c591'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPERM1
 id_coinmarketcap: '9902'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9902.png
 name: Elon Sperm
-platform: BNB
-platform_contract: '0x7abf7f54f30a45c7c43d728a75d6741440d7c591'

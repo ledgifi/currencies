@@ -1,8 +1,9 @@
+contracts:
+  - address: '5844554445000000000000000000000000000000'
+    platform: XRP
 crypto: true
 fiat: false
 id: XDUDE
 id_coinmarketcap: '15227'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15227.png
 name: XDUDE
-platform: XRP
-platform_contract: '5844554445000000000000000000000000000000'

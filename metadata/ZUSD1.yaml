@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbf0f3ccb8fa385a287106fba22e6bb722f94d686'
+    platform: ETH
 crypto: true
 fiat: false
 id: ZUSD1
 id_coinmarketcap: '8393'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8393.png
 name: Zytara dollar
-platform: ETH
-platform_contract: '0xbf0f3ccb8fa385a287106fba22e6bb722f94d686'

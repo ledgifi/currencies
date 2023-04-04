@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x70d2b7c19352bb76e4409858ff5746e500f2b67c'
+    platform: ETH
 crypto: true
 fiat: false
 id: UPI
 id_coinmarketcap: '5086'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5086.png
 name: Pawtocol
-platform: ETH
-platform_contract: '0x70d2b7c19352bb76e4409858ff5746e500f2b67c'

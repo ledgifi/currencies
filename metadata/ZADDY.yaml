@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4fff29d95a8953ad28847278dd6aa11f4c695a24'
+    platform: ETH
 crypto: true
 fiat: false
 id: ZADDY
 id_coinmarketcap: '15026'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15026.png
 name: Zaddy Inu Token
-platform: ETH
-platform_contract: '0x4fff29d95a8953ad28847278dd6aa11f4c695a24'

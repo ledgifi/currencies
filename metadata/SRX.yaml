@@ -1,8 +1,9 @@
+contracts:
+  - address: xdc5d5f074837f5d4618b3916ba74de1bf9662a3fed
+    platform: XDC
 crypto: true
 fiat: false
 id: SRX
 id_coinmarketcap: '10894'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10894.png
 name: StorX Network
-platform: XDC
-platform_contract: xdc5d5f074837f5d4618b3916ba74de1bf9662a3fed

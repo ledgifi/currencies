@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe7d76aa271041b2a1ff5fdef42730d9ab08f6163'
+    platform: BNB
 crypto: true
 fiat: false
 id: ZIOX
 id_coinmarketcap: '16540'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16540.png
 name: Zionomics
-platform: BNB
-platform_contract: '0xe7d76aa271041b2a1ff5fdef42730d9ab08f6163'

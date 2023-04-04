@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa80e96cceb1419f9bd9f1c67f7978f51b534a11b'
+    platform: KLAY
 crypto: true
 fiat: false
 id: GXA
 id_coinmarketcap: '21060'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21060.png
 name: GALAXIA
-platform: KLAY
-platform_contract: '0xa80e96cceb1419f9bd9f1c67f7978f51b534a11b'

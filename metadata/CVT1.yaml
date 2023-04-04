@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x24b47299e756af0571f512232a3629e0dabb52ed'
+    platform: ETH
 crypto: true
 fiat: false
 id: CVT1
 id_coinmarketcap: '4370'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4370.png
 name: concertVR-Token
-platform: ETH
-platform_contract: '0x24b47299e756af0571f512232a3629e0dabb52ed'

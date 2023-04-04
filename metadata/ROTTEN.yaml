@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7f976fce4ff9f5fa3ed76609c5cb4d406399e32d'
+    platform: BNB
 crypto: true
 fiat: false
 id: ROTTEN
 id_coinmarketcap: '13774'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13774.png
 name: Rotten Floki
-platform: BNB
-platform_contract: '0x7f976fce4ff9f5fa3ed76609c5cb4d406399e32d'

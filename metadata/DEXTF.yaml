@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0'
+    platform: ETH
 crypto: true
 fiat: false
 id: DEXTF
 id_coinmarketcap: '8691'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8691.png
 name: Domani Protocol
-platform: ETH
-platform_contract: '0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0'

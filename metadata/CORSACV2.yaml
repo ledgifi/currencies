@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x25c39b6c5ec8a9d81826f9f0e6448ceaea1570b4'
+    platform: BNB
 crypto: true
 fiat: false
 id: CORSACV2
 id_coinmarketcap: '13739'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13739.png
 name: Corsac
-platform: BNB
-platform_contract: '0x25c39b6c5ec8a9d81826f9f0e6448ceaea1570b4'

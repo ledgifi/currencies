@@ -1,8 +1,9 @@
+contracts:
+  - address: TC5KNBDax7xiCmgED1vmdcn1pQbjTRdVSA
+    platform: TRX
 crypto: true
 fiat: false
 id: WFT
 id_coinmarketcap: '14871'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14871.png
 name: Windfall Token
-platform: TRX
-platform_contract: TC5KNBDax7xiCmgED1vmdcn1pQbjTRdVSA

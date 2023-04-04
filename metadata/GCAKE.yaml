@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5f944b0c4315cb7c3a846b025ab4045da44abf6c'
+    platform: ETH
 crypto: true
 fiat: false
 id: GCAKE
 id_coinmarketcap: '14363'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14363.png
 name: Pancake Games
-platform: ETH
-platform_contract: '0x5f944b0c4315cb7c3a846b025ab4045da44abf6c'

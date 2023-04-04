@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x54eFeC15D08428C7Ba31f8F085D4860EE6e38313'
+    platform: ETH
 crypto: true
 fiat: false
 id: ETLT
 id_coinmarketcap: '7630'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7630.png
 name: Ethereum Lightning
-platform: ETH
-platform_contract: '0x54eFeC15D08428C7Ba31f8F085D4860EE6e38313'

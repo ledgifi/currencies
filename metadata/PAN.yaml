@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x536381a8628dbcc8c70ac9a30a7258442eab4c92'
+    platform: ETH
 crypto: true
 fiat: false
 id: PAN
 id_coinmarketcap: '5924'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5924.png
 name: Pantos
-platform: ETH
-platform_contract: '0x536381a8628dbcc8c70ac9a30a7258442eab4c92'

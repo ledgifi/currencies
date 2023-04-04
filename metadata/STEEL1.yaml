@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9001ee054f1692fef3a48330cb543b6fec6287eb'
+    platform: BNB
 crypto: true
 fiat: false
 id: STEEL1
 id_coinmarketcap: '10639'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10639.png
 name: Steel
-platform: BNB
-platform_contract: '0x9001ee054f1692fef3a48330cb543b6fec6287eb'

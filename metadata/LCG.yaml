@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6e1a58e7e9e801f32bb82462636a8a2e7b65e036'
+    platform: ETH
 crypto: true
 fiat: false
 id: LCG
 id_coinmarketcap: '7448'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7448.png
 name: LCG
-platform: ETH
-platform_contract: '0x6e1a58e7e9e801f32bb82462636a8a2e7b65e036'

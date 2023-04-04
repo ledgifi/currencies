@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xe28b3b32b6c345a34ff64674606124dd5aceca30'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: INJ
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220823/75d37589-408b-440e-bef9-a75a8736df4a.png
 logoKey: currencies/inj.png
 name: Injective
-platform: ETH
-platform_contract: '0xe28b3b32b6c345a34ff64674606124dd5aceca30'

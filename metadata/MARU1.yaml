@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xC2456D2118299a2efDFE6522Ff79aA48fC5d2b00'
+    platform: ETH
 crypto: true
 fiat: false
 id: MARU1
 id_coinmarketcap: '23754'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23754.png
 name: MaruTaro
-platform: ETH
-platform_contract: '0xC2456D2118299a2efDFE6522Ff79aA48fC5d2b00'

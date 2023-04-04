@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x425c5b7b55f9c981c71935418ed044e79d8080e2'
+    platform: ETH
 crypto: true
 fiat: false
 id: MADHAT
 id_coinmarketcap: '21924'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21924.png
 name: Mad Hatter Society
-platform: ETH
-platform_contract: '0x425c5b7b55f9c981c71935418ed044e79d8080e2'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6051C1354Ccc51b4d561e43b02735DEaE64768B8'
+    platform: ETH
 crypto: true
 fiat: false
 id: YRISE
 id_coinmarketcap: '7441'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7441.png
 name: yRise Finance
-platform: ETH
-platform_contract: '0x6051C1354Ccc51b4d561e43b02735DEaE64768B8'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6641fa061a7d0b8955d945b9c981e7ff296812fa'
+    platform: BNB
 crypto: true
 fiat: false
 id: LCS
 id_coinmarketcap: '20020'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20020.png
 name: LetCoinShop
-platform: BNB
-platform_contract: '0x6641fa061a7d0b8955d945b9c981e7ff296812fa'

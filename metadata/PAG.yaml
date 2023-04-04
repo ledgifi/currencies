@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x101ae894e76c669C6747f767b33E0E480943Fa0E'
+    platform: ETH
 crypto: true
 fiat: false
 id: PAG
 id_coinmarketcap: '7793'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7793.png
 name: PREOS
-platform: ETH
-platform_contract: '0x101ae894e76c669C6747f767b33E0E480943Fa0E'

@@ -1,8 +1,9 @@
+contracts:
+  - address: 0x0397b918945ec8A0CCBcFF3cEF95e551ef6B2818/token-transfers
+    platform: BITCI
 crypto: true
 fiat: false
 id: GBSK
 id_coinmarketcap: '21874'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21874.png
 name: Gençlerbirliği Fan Token
-platform: BITCI
-platform_contract: 0x0397b918945ec8A0CCBcFF3cEF95e551ef6B2818/token-transfers

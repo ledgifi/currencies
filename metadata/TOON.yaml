@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02'
+    platform: ETH
 crypto: true
 fiat: false
 id: TOON
 id_coinmarketcap: '12959'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12959.png
 name: Pontoon
-platform: ETH
-platform_contract: '0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x08d967bb0134f2d07f7cfb6e246680c53927dd30'
+    platform: ETH
 crypto: true
 fiat: false
 id: MATH
 id_coinmarketcap: '5616'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5616.png
 name: MATH
-platform: ETH
-platform_contract: '0x08d967bb0134f2d07f7cfb6e246680c53927dd30'

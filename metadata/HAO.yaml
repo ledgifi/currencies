@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3c4008eca800ec1283e4cf500e68d06bfabc00a8'
+    platform: ETH
 crypto: true
 fiat: false
 id: HAO
 id_coinmarketcap: '21467'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21467.png
 name: HistoryDAO
-platform: ETH
-platform_contract: '0x3c4008eca800ec1283e4cf500e68d06bfabc00a8'

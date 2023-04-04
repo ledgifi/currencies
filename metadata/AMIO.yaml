@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2e68dfb3f50ea302c88f8db74096d57565d9970a'
+    platform: ETH
 crypto: true
 fiat: false
 id: AMIO
 id_coinmarketcap: '4493'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4493.png
 name: Amino Network
-platform: ETH
-platform_contract: '0x2e68dfb3f50ea302c88f8db74096d57565d9970a'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766'
+    platform: ETH
 crypto: true
 fiat: false
 id: STRK1
 id_coinmarketcap: '22691'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22691.png
 name: StarkNet Token
-platform: ETH
-platform_contract: '0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766'

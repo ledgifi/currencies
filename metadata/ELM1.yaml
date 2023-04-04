@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xee351682cda9551f8eed6349f6237cab75f8c495'
+    platform: BNB
 crypto: true
 fiat: false
 id: ELM1
 id_coinmarketcap: '11399'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11399.png
 name: Elements Game
-platform: BNB
-platform_contract: '0xee351682cda9551f8eed6349f6237cab75f8c495'

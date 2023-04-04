@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf1ca73caa1c7ad66af11147ba7d5636243af0493'
+    platform: BNB
 crypto: true
 fiat: false
 id: REGU
 id_coinmarketcap: '15107'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15107.png
 name: Regular Presale
-platform: BNB
-platform_contract: '0xf1ca73caa1c7ad66af11147ba7d5636243af0493'

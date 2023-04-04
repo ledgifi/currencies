@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7320c128e89ba4584ab02ed1c9c96285b726443c'
+    platform: BNB
 crypto: true
 fiat: false
 id: KOKO
 id_coinmarketcap: '11375'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11375.png
 name: Kokoswap
-platform: BNB
-platform_contract: '0x7320c128e89ba4584ab02ed1c9c96285b726443c'

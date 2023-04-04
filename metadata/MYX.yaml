@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2129fF6000b95A973236020BCd2b2006B0D8E019'
+    platform: ETH
 crypto: true
 fiat: false
 id: MYX
 id_coinmarketcap: '6594'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6594.png
 name: MYX Network
-platform: ETH
-platform_contract: '0x2129fF6000b95A973236020BCd2b2006B0D8E019'

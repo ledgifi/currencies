@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF53c24f7729C88C110265929c7124E6259eFccAB'
+    platform: ETH
 crypto: true
 fiat: false
 id: BOBO
 id_coinmarketcap: '11666'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11666.png
 name: Bobo Cash
-platform: ETH
-platform_contract: '0xF53c24f7729C88C110265929c7124E6259eFccAB'

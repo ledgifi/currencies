@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcb3df3108635932d912632ef7132d03ecfc39080'
+    platform: ETH
 crypto: true
 fiat: false
 id: WING1
 id_coinmarketcap: '6584'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6584.png
 name: WingShop
-platform: ETH
-platform_contract: '0xcb3df3108635932d912632ef7132d03ecfc39080'

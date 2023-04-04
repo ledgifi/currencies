@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1618B4a4a1Be9f415FB83120Ddb4BC4E5c27501a'
+    platform: BNB
 crypto: true
 fiat: false
 id: FP
 id_coinmarketcap: '20555'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20555.png
 name: FINANCE PROTOCOL
-platform: BNB
-platform_contract: '0x1618B4a4a1Be9f415FB83120Ddb4BC4E5c27501a'

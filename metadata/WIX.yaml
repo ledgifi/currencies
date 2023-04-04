@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4a16965e5d7b6e6af0c4a6b4734c840270cb2311'
+    platform: BNB
 crypto: true
 fiat: false
 id: WIX
 id_coinmarketcap: '23242'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23242.png
 name: TradeWix
-platform: BNB
-platform_contract: '0x4a16965e5d7b6e6af0c4a6b4734c840270cb2311'

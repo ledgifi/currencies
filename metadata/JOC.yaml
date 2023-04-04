@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x22fb638a010e922d53fd2671a598a3334c228b62'
+    platform: ONE
 crypto: true
 fiat: false
 id: JOC
 id_coinmarketcap: '19372'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19372.png
 name: Speed Star JOC
-platform: ONE
-platform_contract: '0x22fb638a010e922d53fd2671a598a3334c228b62'

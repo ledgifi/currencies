@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x72e203a17add19a3099137c9d7015fd3e2b7dba9'
+    platform: ETH
 crypto: true
 fiat: false
 id: BCP3
 id_coinmarketcap: '4378'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4378.png
 name: Blockchain Poland
-platform: ETH
-platform_contract: '0x72e203a17add19a3099137c9d7015fd3e2b7dba9'

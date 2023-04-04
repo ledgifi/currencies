@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1a87077c4f834884691b8ba4fc808d2ec93a9f30'
+    platform: ETH
 crypto: true
 fiat: false
 id: WINRY
 id_coinmarketcap: '13366'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13366.png
 name: Winry Inu
-platform: ETH
-platform_contract: '0x1a87077c4f834884691b8ba4fc808d2ec93a9f30'

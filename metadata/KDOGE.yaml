@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcfe087ed979244db595e62a7bc1e01e6de6870e9'
+    platform: BNB
 crypto: true
 fiat: false
 id: KDOGE
 id_coinmarketcap: '14097'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14097.png
 name: Koreadoge
-platform: BNB
-platform_contract: '0xcfe087ed979244db595e62a7bc1e01e6de6870e9'

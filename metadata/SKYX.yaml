@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3c4822cf5f5897d052335d3ec5b8d2f56430249a'
+    platform: BNB
 crypto: true
 fiat: false
 id: SKYX
 id_coinmarketcap: '11650'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11650.png
 name: SkyX Token
-platform: BNB
-platform_contract: '0x3c4822cf5f5897d052335d3ec5b8d2f56430249a'

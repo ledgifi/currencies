@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x534479d1f4e31bc8f3265009b2b05f89dc3b9af1'
+    platform: ETH
 crypto: true
 fiat: false
 id: OA
 id_coinmarketcap: '4875'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4875.png
 name: Openaurum
-platform: ETH
-platform_contract: '0x534479d1f4e31bc8f3265009b2b05f89dc3b9af1'

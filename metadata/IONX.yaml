@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x02d3a27ac3f55d5d91fb0f52759842696a864217'
+    platform: ETH
 crypto: true
 fiat: false
 id: IONX
 id_coinmarketcap: '10264'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10264.png
 name: Charged Particles
-platform: ETH
-platform_contract: '0x02d3a27ac3f55d5d91fb0f52759842696a864217'

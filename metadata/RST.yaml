@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x714a128bda7cfba28f212a9dc052467b560ab14b'
+    platform: BNB
 crypto: true
 fiat: false
 id: RST
 id_coinmarketcap: '14875'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14875.png
 name: Red Shiba Token
-platform: BNB
-platform_contract: '0x714a128bda7cfba28f212a9dc052467b560ab14b'

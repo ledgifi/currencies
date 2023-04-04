@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc4daa5a9f2b832ed0f9bc579662883cd53ea9d61'
+    platform: BNB
 crypto: true
 fiat: false
 id: BRICK
 id_coinmarketcap: '8853'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8853.png
 name: Brickchain Finance
-platform: BNB
-platform_contract: '0xc4daa5a9f2b832ed0f9bc579662883cd53ea9d61'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5F9eE0642d58795a94eE1c2DB055254D55a2974e'
+    platform: ETHW
 crypto: true
 fiat: false
 id: YZZ
 id_coinmarketcap: '21980'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21980.png
 name: YZZ
-platform: ETHW
-platform_contract: '0x5F9eE0642d58795a94eE1c2DB055254D55a2974e'

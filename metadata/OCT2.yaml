@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x49277cc5be56b519901e561096bfd416277b4f6d'
+    platform: BNB
 crypto: true
 fiat: false
 id: OCT2
 id_coinmarketcap: '8773'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8773.png
 name: Octree
-platform: BNB
-platform_contract: '0x49277cc5be56b519901e561096bfd416277b4f6d'

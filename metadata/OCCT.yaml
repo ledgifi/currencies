@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x95a1796437bad6502d1c1cce165cd76e522409a9'
+    platform: ETH
 crypto: true
 fiat: false
 id: OCCT
 id_coinmarketcap: '14565'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14565.png
 name: Official Crypto Cowboy Token
-platform: ETH
-platform_contract: '0x95a1796437bad6502d1c1cce165cd76e522409a9'

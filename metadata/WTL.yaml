@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9a0587eae7ef64b2b38a10442a44cfa43edd7d2a'
+    platform: ETH
 crypto: true
 fiat: false
 id: WTL
 id_coinmarketcap: '3411'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3411.png
 name: Welltrado
-platform: ETH
-platform_contract: '0x9a0587eae7ef64b2b38a10442a44cfa43edd7d2a'

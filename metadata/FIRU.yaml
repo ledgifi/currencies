@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe276056f924e15beac26f7b10b6d2805f9c64bb5'
+    platform: ETH
 crypto: true
 fiat: false
 id: FIRU
 id_coinmarketcap: '15397'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15397.png
 name: Firulais
-platform: ETH
-platform_contract: '0xe276056f924e15beac26f7b10b6d2805f9c64bb5'

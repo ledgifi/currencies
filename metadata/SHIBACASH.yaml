@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7e4e3ba4675c39ff2863073e171b0a2e93a592e0'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIBACASH
 id_coinmarketcap: '9736'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9736.png
 name: ShibaCash
-platform: BNB
-platform_contract: '0x7e4e3ba4675c39ff2863073e171b0a2e93a592e0'

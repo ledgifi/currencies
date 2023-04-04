@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x50bAFBA28852d2816EB62DA5c3137dC9b05858e8'
+    platform: BNB
 crypto: true
 fiat: false
 id: DECODE
 id_coinmarketcap: '21743'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21743.png
 name: Decode Coin
-platform: BNB
-platform_contract: '0x50bAFBA28852d2816EB62DA5c3137dC9b05858e8'

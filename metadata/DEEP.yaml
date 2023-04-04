@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6cbedec4f1ac9d874987d2769596544e0d9161ab'
+    platform: ETH
 crypto: true
 fiat: false
 id: DEEP
 id_coinmarketcap: '4251'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4251.png
 name: DeepCloud AI
-platform: ETH
-platform_contract: '0x6cbedec4f1ac9d874987d2769596544e0d9161ab'

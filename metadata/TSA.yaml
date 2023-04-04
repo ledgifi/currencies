@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5f99acf13caff815dd9cb4a415c0fb34e9f4545b'
+    platform: BNB
 crypto: true
 fiat: false
 id: TSA
 id_coinmarketcap: '11792'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11792.png
 name: TSA NFT
-platform: BNB
-platform_contract: '0x5f99acf13caff815dd9cb4a415c0fb34e9f4545b'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xddf825aa40aba689e040fd9be863573999314773'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHITZUINU
 id_coinmarketcap: '14115'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14115.png
 name: Shitzu Inu
-platform: ETH
-platform_contract: '0xddf825aa40aba689e040fd9be863573999314773'

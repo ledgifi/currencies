@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7a0fc0f70a3028e4f6d6f61d5f0dfbc2aa300e5e'
+    platform: BNB
 crypto: true
 fiat: false
 id: LASEREYES
 id_coinmarketcap: '11400'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11400.png
 name: Laser Eyes
-platform: BNB
-platform_contract: '0x7a0fc0f70a3028e4f6d6f61d5f0dfbc2aa300e5e'

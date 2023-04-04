@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xf6a22b0593df74f218027a2d8b7953c9b4542aa1'
+    platform: BNB
 crypto: true
 fiat: false
 id: SYNC3
@@ -6,5 +9,3 @@ id_nomics: SYNC3
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SYNC3.png
 logoKey: currencies/sync3.png
 name: LinkSync
-platform: BNB
-platform_contract: '0xf6a22b0593df74f218027a2d8b7953c9b4542aa1'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x48b5d197b63a35943b832bdc7652616e55492d44'
+    platform: ETH
 crypto: true
 fiat: false
 id: MRT2
 id_coinmarketcap: '17725'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17725.png
 name: MyReality
-platform: ETH
-platform_contract: '0x48b5d197b63a35943b832bdc7652616e55492d44'

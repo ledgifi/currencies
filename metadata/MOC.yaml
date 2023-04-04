@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x865ec58b06bf6305b886793aa20a2da31d034e68'
+    platform: ETH
 crypto: true
 fiat: false
 id: MOC
 id_coinmarketcap: '2915'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2915.png
 name: Moss Coin
-platform: ETH
-platform_contract: '0x865ec58b06bf6305b886793aa20a2da31d034e68'

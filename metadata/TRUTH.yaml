@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x55a633b3fce52144222e468a326105aa617cc1cc'
+    platform: BNB
 crypto: true
 fiat: false
 id: TRUTH
 id_coinmarketcap: '24041'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24041.png
 name: TRUTH SEEKERS
-platform: BNB
-platform_contract: '0x55a633b3fce52144222e468a326105aa617cc1cc'

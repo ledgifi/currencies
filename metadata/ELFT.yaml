@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x26b9a652e7d45fff08f2229a835862cdc811e54a'
+    platform: BNB
 crypto: true
 fiat: false
 id: ELFT
 id_coinmarketcap: '19604'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19604.png
 name: Elfworld
-platform: BNB
-platform_contract: '0x26b9a652e7d45fff08f2229a835862cdc811e54a'

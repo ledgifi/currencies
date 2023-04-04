@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8764bd4fcc027faf72ba83c0b2028a3bae0d2d57'
+    platform: HT
 crypto: true
 fiat: false
 id: HBO
 id_coinmarketcap: '8528'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8528.png
 name: HashBridge Oracle
-platform: HT
-platform_contract: '0x8764bd4fcc027faf72ba83c0b2028a3bae0d2d57'

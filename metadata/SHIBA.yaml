@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB84cBbF09b3Ed388a45cD875ebba41a20365e6e7'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIBA
 id_coinmarketcap: '14341'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14341.png
 name: BitShiba
-platform: BNB
-platform_contract: '0xB84cBbF09b3Ed388a45cD875ebba41a20365e6e7'

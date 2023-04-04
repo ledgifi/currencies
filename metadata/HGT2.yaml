@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x567540c37bb25dfd0f487525c0eb11f7fa0b63a2'
+    platform: BNB
 crypto: true
 fiat: false
 id: HGT2
 id_coinmarketcap: '14694'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14694.png
 name: Hydrogentoken
-platform: BNB
-platform_contract: '0x567540c37bb25dfd0f487525c0eb11f7fa0b63a2'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x17bc015607fdf93e7c949e9ca22f96907cfbef88'
+    platform: BNB
 crypto: true
 fiat: false
 id: BSC1
 id_coinmarketcap: '7748'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7748.png
 name: BSC FARM
-platform: BNB
-platform_contract: '0x17bc015607fdf93e7c949e9ca22f96907cfbef88'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x14e2C19Dd223603dEF5ef4A2a6AF9D1eB03186E2'
+    platform: BNB
 crypto: true
 fiat: false
 id: SIMBAINU
 id_coinmarketcap: '15967'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15967.png
 name: SIMBA INU
-platform: BNB
-platform_contract: '0x14e2C19Dd223603dEF5ef4A2a6AF9D1eB03186E2'

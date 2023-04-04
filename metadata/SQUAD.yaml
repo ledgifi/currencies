@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x724A32dFFF9769A0a0e1F0515c0012d1fB14c3bd'
+    platform: BNB
 crypto: true
 fiat: false
 id: SQUAD
 id_coinmarketcap: '20444'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20444.png
 name: Superpower Squad
-platform: BNB
-platform_contract: '0x724A32dFFF9769A0a0e1F0515c0012d1fB14c3bd'

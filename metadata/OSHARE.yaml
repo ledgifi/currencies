@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x28100159D8b2ACc4e45Ec7ebdb875265BB752385'
+    platform: METIS
 crypto: true
 fiat: false
 id: OSHARE
 id_coinmarketcap: '17385'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17385.png
 name: OShare
-platform: METIS
-platform_contract: '0x28100159D8b2ACc4e45Ec7ebdb875265BB752385'

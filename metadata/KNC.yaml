@@ -1,4 +1,7 @@
 color: '#31cb9e'
+contracts:
+  - address: '0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: KNC3
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/knc.svg
 logoKey: currencies/knc.svg
 name: Kyber Network
-platform: ETH
-platform_contract: '0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202'

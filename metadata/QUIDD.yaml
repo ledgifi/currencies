@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xDA9FDAb21bC4A5811134A6E0Ba6CA06624e67c07'
+    platform: ETH
 crypto: true
 fiat: false
 id: QUIDD
 id_coinmarketcap: '12070'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12070.png
 name: Quidd
-platform: ETH
-platform_contract: '0xDA9FDAb21bC4A5811134A6E0Ba6CA06624e67c07'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF892561596B7b8085fAd1b03b902D00096AE31aD'
+    platform: BNB
 crypto: true
 fiat: false
 id: FIBO1
 id_coinmarketcap: '19221'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19221.png
 name: FiboDex
-platform: BNB
-platform_contract: '0xF892561596B7b8085fAd1b03b902D00096AE31aD'

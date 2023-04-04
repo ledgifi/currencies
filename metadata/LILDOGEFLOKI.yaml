@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2af4730a150581216e38a582f9ea3dfa5c7cfb98'
+    platform: BNB
 crypto: true
 fiat: false
 id: LILDOGEFLOKI
 id_coinmarketcap: '13897'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13897.png
 name: Lil Doge Floki
-platform: BNB
-platform_contract: '0x2af4730a150581216e38a582f9ea3dfa5c7cfb98'

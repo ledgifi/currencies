@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc'
+    platform: ETH
 crypto: true
 fiat: false
 id: MYB
 id_coinmarketcap: '1902'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1902.png
 name: MyBit
-platform: ETH
-platform_contract: '0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc'

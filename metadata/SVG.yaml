@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xef6f6135f4ff3d3c1bc559229214c8bcf1cc7a15'
+    platform: BNB
 crypto: true
 fiat: false
 id: SVG
 id_coinmarketcap: '17807'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17807.png
 name: Squidverse 3D
-platform: BNB
-platform_contract: '0xef6f6135f4ff3d3c1bc559229214c8bcf1cc7a15'

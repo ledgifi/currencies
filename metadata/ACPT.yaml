@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcAd2d4C4469fF09aB24d02A63BCeDfCD44bE0645'
+    platform: ETH
 crypto: true
 fiat: false
 id: ACPT
 id_coinmarketcap: '7116'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7116.png
 name: Crypto Accept
-platform: ETH
-platform_contract: '0xcAd2d4C4469fF09aB24d02A63BCeDfCD44bE0645'

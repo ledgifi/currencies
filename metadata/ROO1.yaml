@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x30b29c6c03546f6395ddb454538d0eb7e4a6e32f'
+    platform: BNB
 crypto: true
 fiat: false
 id: ROO1
 id_coinmarketcap: '10574'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10574.png
 name: RooCoin
-platform: BNB
-platform_contract: '0x30b29c6c03546f6395ddb454538d0eb7e4a6e32f'

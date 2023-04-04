@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x08ba0619b1e7a582e0bce5bbe9843322c954c340'
+    platform: BNB
 crypto: true
 fiat: false
 id: BMON
@@ -7,5 +10,3 @@ id_nomics: BMON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BMON.jpg
 logoKey: currencies/bmon.jpg
 name: Binamon
-platform: BNB
-platform_contract: '0x08ba0619b1e7a582e0bce5bbe9843322c954c340'

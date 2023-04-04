@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb621d6014e2d62b505bfaaaebef20d44e48fc27a'
+    platform: BNB
 crypto: true
 fiat: false
 id: EDG2
 id_coinmarketcap: '14912'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14912.png
 name: Edgwin Finance
-platform: BNB
-platform_contract: '0xb621d6014e2d62b505bfaaaebef20d44e48fc27a'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc4901c34cd8fb49107c1cb874eff5caa2eaed7d1'
+    platform: BNB
 crypto: true
 fiat: false
 id: MOVON
 id_coinmarketcap: '20101'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20101.png
 name: MovingOn Finance
-platform: BNB
-platform_contract: '0xc4901c34cd8fb49107c1cb874eff5caa2eaed7d1'

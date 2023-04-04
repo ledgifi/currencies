@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xba07eed3d09055d60caef2bdfca1c05792f2dfad'
+    platform: BNB
 crypto: true
 fiat: false
 id: MINIDOGE
@@ -7,5 +10,3 @@ id_nomics: MINIDOGE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINIDOGE.jpg
 logoKey: currencies/minidoge.jpg
 name: MiniDOGE
-platform: BNB
-platform_contract: '0xba07eed3d09055d60caef2bdfca1c05792f2dfad'

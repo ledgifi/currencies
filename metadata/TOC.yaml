@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x549905519f9e06d55d7dfcd4d54817780f6b93e8'
+    platform: ETH
 crypto: true
 fiat: false
 id: TOC
 id_coinmarketcap: '3965'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3965.png
 name: TouchCon
-platform: ETH
-platform_contract: '0x549905519f9e06d55d7dfcd4d54817780f6b93e8'

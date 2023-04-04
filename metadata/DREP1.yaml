@@ -1,8 +1,9 @@
+contracts:
+  - address: DREP-7D2
+    platform: BNB
 crypto: true
 fiat: false
 id: DREP1
 id_coinmarketcap: '3924'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3924.png
 name: DREP [old]
-platform: BNB
-platform_contract: DREP-7D2

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x93Bb13E90678cCd8BBab07D1dAEF15086746dc9B'
+    platform: BNB
 crypto: true
 fiat: false
 id: PPAD
 id_coinmarketcap: '14338'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14338.png
 name: PlayPad
-platform: BNB
-platform_contract: '0x93Bb13E90678cCd8BBab07D1dAEF15086746dc9B'

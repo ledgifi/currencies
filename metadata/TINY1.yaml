@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB5B9601b62988C8348B10D81e02FA8400Ed55983'
+    platform: MATIC
 crypto: true
 fiat: false
 id: TINY1
 id_coinmarketcap: '12031'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12031.png
 name: Tiny Hero
-platform: MATIC
-platform_contract: '0xB5B9601b62988C8348B10D81e02FA8400Ed55983'

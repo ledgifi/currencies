@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3d1f5e133c2988d14a0c13bdd2b58d260e74ef9a'
+    platform: ETH
 crypto: true
 fiat: false
 id: OMG1
 id_coinmarketcap: '21079'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21079.png
 name: OMEGA FINANCE
-platform: ETH
-platform_contract: '0x3d1f5e133c2988d14a0c13bdd2b58d260e74ef9a'

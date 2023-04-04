@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3606F220daeaEb3d47aC1923A8Ce2A61205C88cD'
+    platform: BNB
 crypto: true
 fiat: false
 id: ATOZ
 id_coinmarketcap: '20941'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20941.png
 name: Race Kingdom
-platform: BNB
-platform_contract: '0x3606F220daeaEb3d47aC1923A8Ce2A61205C88cD'

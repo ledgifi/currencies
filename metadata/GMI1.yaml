@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8750f5651af49950b5419928fecefca7c82141e3'
+    platform: ONE
 crypto: true
 fiat: false
 id: GMI1
 id_coinmarketcap: '16154'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16154.png
 name: WagmiDAO
-platform: ONE
-platform_contract: '0x8750f5651af49950b5419928fecefca7c82141e3'

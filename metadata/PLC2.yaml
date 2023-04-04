@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0835ecd15ddf08d4786304d71b4672dc5c40f011'
+    platform: ETH
 crypto: true
 fiat: false
 id: PLC2
 id_coinmarketcap: '2186'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2186.png
 name: PlusCoin
-platform: ETH
-platform_contract: '0x0835ecd15ddf08d4786304d71b4672dc5c40f011'

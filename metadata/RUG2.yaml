@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd0df3b1cf729a29b7404c40d61c750008e631ba7'
+    platform: ETH
 crypto: true
 fiat: false
 id: RUG2
 id_coinmarketcap: '6816'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6816.png
 name: Rug
-platform: ETH
-platform_contract: '0xd0df3b1cf729a29b7404c40d61c750008e631ba7'

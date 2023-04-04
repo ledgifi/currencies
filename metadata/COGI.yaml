@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6cb755c4b82e11e727c05f697c790fdbc4253957'
+    platform: BNB
 crypto: true
 fiat: false
 id: COGI
 id_coinmarketcap: '13068'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13068.png
 name: COGI
-platform: BNB
-platform_contract: '0x6cb755c4b82e11e727c05f697c790fdbc4253957'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9138a0e04e01f1dcbc64ada490a3bf3503c2a524'
+    platform: BNB
 crypto: true
 fiat: false
 id: MUSKARDASHIAN
 id_coinmarketcap: '14864'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14864.png
 name: MUSKARDASHIAN
-platform: BNB
-platform_contract: '0x9138a0e04e01f1dcbc64ada490a3bf3503c2a524'

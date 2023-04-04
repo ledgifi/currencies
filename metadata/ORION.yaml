@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x727f064a78dc734d33eec18d5370aef32ffd46e4'
+    platform: ETH
 crypto: true
 fiat: false
 id: ORION
 id_coinmarketcap: '12115'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12115.png
 name: Orion Money
-platform: ETH
-platform_contract: '0x727f064a78dc734d33eec18d5370aef32ffd46e4'

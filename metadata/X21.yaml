@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x02d7f3313e8fe95d2150e0c63461fbc6944cfcaf'
+    platform: BNB
 crypto: true
 fiat: false
 id: X21
 id_coinmarketcap: '11051'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11051.png
 name: X2
-platform: BNB
-platform_contract: '0x02d7f3313e8fe95d2150e0c63461fbc6944cfcaf'

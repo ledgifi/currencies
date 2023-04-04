@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7e794ed35788b698ae60cefc98ee48015c4876da'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHINTAMA
 id_coinmarketcap: '17800'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17800.png
 name: Shintama
-platform: ETH
-platform_contract: '0x7e794ed35788b698ae60cefc98ee48015c4876da'

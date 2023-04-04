@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0d6f4A17A7864Cb7222eBF41373305fB629C199a'
+    platform: ETH
 crypto: true
 fiat: false
 id: IGCH
 id_coinmarketcap: '5342'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5342.png
 name: IG Crypto Holding
-platform: ETH
-platform_contract: '0x0d6f4A17A7864Cb7222eBF41373305fB629C199a'

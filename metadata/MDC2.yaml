@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9e6c59321ceb205d5d3bc6c539c017af6159b16c'
+    platform: ETH
 crypto: true
 fiat: false
 id: MDC2
 id_coinmarketcap: '17530'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17530.png
 name: Mindcell
-platform: ETH
-platform_contract: '0x9e6c59321ceb205d5d3bc6c539c017af6159b16c'

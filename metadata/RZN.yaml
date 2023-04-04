@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd8c82fbc4d8ed0644a7ec04cf973e84c6153c1d7'
+    platform: ETH
 crypto: true
 fiat: false
 id: RZN
 id_coinmarketcap: '7999'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7999.png
 name: Rizen Coin
-platform: ETH
-platform_contract: '0xd8c82fbc4d8ed0644a7ec04cf973e84c6153c1d7'

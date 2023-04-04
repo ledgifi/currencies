@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x383b0b2ce2e1757b5e1d087d8f36013ea595541a'
+    platform: ETH
 crypto: true
 fiat: false
 id: HEAL
 id_coinmarketcap: '18576'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18576.png
 name: Heal The World
-platform: ETH
-platform_contract: '0x383b0b2ce2e1757b5e1d087d8f36013ea595541a'

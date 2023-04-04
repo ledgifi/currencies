@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1C64Fd4f55E1A3C1f737Dfa47ee5F97eaF413cf0'
+    platform: BNB
 crypto: true
 fiat: false
 id: FOOT
 id_coinmarketcap: '11379'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11379.png
 name: BIGFOOT
-platform: BNB
-platform_contract: '0x1C64Fd4f55E1A3C1f737Dfa47ee5F97eaF413cf0'

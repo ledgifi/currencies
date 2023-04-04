@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xFa363022816aBf82f18a9C2809dCd2BB393F6AC5'
+    platform: BNB
 crypto: true
 fiat: false
 id: HONEY3
 id_coinmarketcap: '11287'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11287.png
 name: HoneyFarm Finance
-platform: BNB
-platform_contract: '0xFa363022816aBf82f18a9C2809dCd2BB393F6AC5'

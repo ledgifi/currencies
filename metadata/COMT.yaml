@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x45b239cc0a760d1afd276b749141c7e404844ee6'
+    platform: BNB
 crypto: true
 fiat: false
 id: COMT
 id_coinmarketcap: '16990'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16990.png
 name: Community Token
-platform: BNB
-platform_contract: '0x45b239cc0a760d1afd276b749141c7e404844ee6'

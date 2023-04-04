@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6307b25a665efc992ec1c1bc403c38f3ddd7c661'
+    platform: ETH
 crypto: true
 fiat: false
 id: GCR2
 id_coinmarketcap: '11496'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11496.png
 name: Global Coin Research
-platform: ETH
-platform_contract: '0x6307b25a665efc992ec1c1bc403c38f3ddd7c661'

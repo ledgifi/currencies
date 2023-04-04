@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf911a7ec46a2c6fa49193212fe4a2a9b95851c27'
+    platform: ETH
 crypto: true
 fiat: false
 id: XAMP
 id_coinmarketcap: '5998'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5998.png
 name: Antiample
-platform: ETH
-platform_contract: '0xf911a7ec46a2c6fa49193212fe4a2a9b95851c27'

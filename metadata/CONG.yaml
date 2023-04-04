@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3374C2fd3423F8bb4aA7A2E73B35Fd57De008048'
+    platform: BNB
 crypto: true
 fiat: false
 id: CONG
 id_coinmarketcap: '23005'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23005.png
 name: The Conglomerate Capital
-platform: BNB
-platform_contract: '0x3374C2fd3423F8bb4aA7A2E73B35Fd57De008048'

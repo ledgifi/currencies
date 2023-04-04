@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x32d7da6a7cf25ed1b86e1b0ee9a62b0252d46b16'
+    platform: BNB
 crypto: true
 fiat: false
 id: GINZA
 id_coinmarketcap: '13943'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13943.png
 name: GINZA NETWORK
-platform: BNB
-platform_contract: '0x32d7da6a7cf25ed1b86e1b0ee9a62b0252d46b16'

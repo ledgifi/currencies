@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9d93692e826a4bd9e903e2a27d7fbd1e116efdad'
+    platform: ETH
 crypto: true
 fiat: false
 id: POLY1
 id_coinmarketcap: '22737'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22737.png
 name: POLY Maximus
-platform: ETH
-platform_contract: '0x9d93692e826a4bd9e903e2a27d7fbd1e116efdad'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x91E84EC6101547C1FA39Dd565dd8b020E3c20CF2'
+    platform: ETH
 crypto: true
 fiat: false
 id: CND3
 id_coinmarketcap: '5569'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5569.png
 name: Cannadrix
-platform: ETH
-platform_contract: '0x91E84EC6101547C1FA39Dd565dd8b020E3c20CF2'

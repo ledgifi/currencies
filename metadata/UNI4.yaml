@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe6877ea9c28fbdec631ffbc087956d0023a76bf2'
+    platform: ETH
 crypto: true
 fiat: false
 id: UNI4
 id_coinmarketcap: '4113'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4113.png
 name: UNI COIN
-platform: ETH
-platform_contract: '0xe6877ea9c28fbdec631ffbc087956d0023a76bf2'

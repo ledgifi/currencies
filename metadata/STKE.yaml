@@ -1,8 +1,9 @@
+contracts:
+  - address: '511484048'
+    platform: ALGO
 crypto: true
 fiat: false
 id: STKE
 id_coinmarketcap: '20710'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20710.png
 name: AlgoStake
-platform: ALGO
-platform_contract: '511484048'

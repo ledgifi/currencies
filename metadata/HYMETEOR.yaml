@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1fe38769ED41Fe7f47270C78d2F0507b508d06F0'
+    platform: BNB
 crypto: true
 fiat: false
 id: HYMETEOR
 id_coinmarketcap: '9699'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9699.png
 name: HyperMeteor
-platform: BNB
-platform_contract: '0x1fe38769ED41Fe7f47270C78d2F0507b508d06F0'

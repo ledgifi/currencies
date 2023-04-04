@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcced5b8288086be8c38e23567e684c3740be4d48'
+    platform: ETH
 crypto: true
 fiat: false
 id: RLT
 id_coinmarketcap: '1683'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1683.png
 name: RouletteToken
-platform: ETH
-platform_contract: '0xcced5b8288086be8c38e23567e684c3740be4d48'

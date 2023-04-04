@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x111111111117dc0aa78b770fa6a738034120c302'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: 1INCH
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/1inch.svg
 logoKey: currencies/1inch.svg
 name: 1inch
-platform: ETH
-platform_contract: '0x111111111117dc0aa78b770fa6a738034120c302'

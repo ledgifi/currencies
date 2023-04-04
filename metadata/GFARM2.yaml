@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x831091dA075665168E01898c6DAC004A867f1e1B'
+    platform: ETH
 crypto: true
 fiat: false
 id: GFARM2
 id_coinmarketcap: '8444'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8444.png
 name: Gains Farm
-platform: ETH
-platform_contract: '0x831091dA075665168E01898c6DAC004A867f1e1B'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3633f95e4d5900cb7525f5801639aeabc998c750'
+    platform: ETH
 crypto: true
 fiat: false
 id: FEENIXV2
 id_coinmarketcap: '17572'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17572.png
 name: ProjectFeenix
-platform: ETH
-platform_contract: '0x3633f95e4d5900cb7525f5801639aeabc998c750'

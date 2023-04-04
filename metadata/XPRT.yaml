@@ -1,3 +1,6 @@
+contracts:
+  - address: IBC/A0CC0CF735BFB30E730C70019D4218A1244FF383503FF7579C9201AB93CA9293
+    platform: ATOM
 crypto: true
 fiat: false
 id: XPRT
@@ -6,5 +9,3 @@ id_nomics: XPRT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XPRT.jpg
 logoKey: currencies/xprt.jpg
 name: Persistence
-platform: ATOM
-platform_contract: IBC/A0CC0CF735BFB30E730C70019D4218A1244FF383503FF7579C9201AB93CA9293

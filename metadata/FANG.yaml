@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x49894fcc07233957c35462cfc3418ef0cc26129f'
+    platform: FTM
 crypto: true
 fiat: false
 id: FANG
 id_coinmarketcap: '12671'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12671.png
 name: FANG Token
-platform: FTM
-platform_contract: '0x49894fcc07233957c35462cfc3418ef0cc26129f'

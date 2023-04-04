@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5022Cb6D39001CDD6F996e8a66500c86128f1cc4'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHIWA
 id_coinmarketcap: '22476'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22476.png
 name: Shiwa
-platform: ETH
-platform_contract: '0x5022Cb6D39001CDD6F996e8a66500c86128f1cc4'

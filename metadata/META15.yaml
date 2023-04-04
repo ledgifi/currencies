@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8807e69dc04155af64172cd6f0b4738f8068d0d4'
+    platform: ETH
 crypto: true
 fiat: false
 id: META15
 id_coinmarketcap: '15168'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15168.png
 name: Meta Coin
-platform: ETH
-platform_contract: '0x8807e69dc04155af64172cd6f0b4738f8068d0d4'

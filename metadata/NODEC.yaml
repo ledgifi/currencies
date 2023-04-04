@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x224db37f1745a2f5d49e06a204ad6a38ba827fa8'
+    platform: AVAX
 crypto: true
 fiat: false
 id: NODEC
 id_coinmarketcap: '17762'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17762.png
 name: Node Compiler AVAX
-platform: AVAX
-platform_contract: '0x224db37f1745a2f5d49e06a204ad6a38ba827fa8'

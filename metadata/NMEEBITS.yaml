@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7bd29408f11d2bfc23c34f18275bbf23bb716bc7'
+    platform: ETH
 crypto: true
 fiat: false
 id: NMEEBITS
 id_coinmarketcap: '19720'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19720.png
 name: The Meebits
-platform: ETH
-platform_contract: '0x7bd29408f11d2bfc23c34f18275bbf23bb716bc7'

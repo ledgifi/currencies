@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9299c132c34e691edea58102d276a61a0a622dbd'
+    platform: BNB
 crypto: true
 fiat: false
 id: MRC4
 id_coinmarketcap: '14344'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14344.png
 name: Moon Rocket Coin
-platform: BNB
-platform_contract: '0x9299c132c34e691edea58102d276a61a0a622dbd'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x550d9923693998a6fe20801abe3f1a78e0d75089'
+    platform: ONE
 crypto: true
 fiat: false
 id: IMRTL
 id_coinmarketcap: '17734'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17734.png
 name: Immortl
-platform: ONE
-platform_contract: '0x550d9923693998a6fe20801abe3f1a78e0d75089'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6668e032698cc5810b9cca1090a5a079772b417f'
+    platform: ETH
 crypto: true
 fiat: false
 id: BUC1
 id_coinmarketcap: '20173'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20173.png
 name: Beau Cat
-platform: ETH
-platform_contract: '0x6668e032698cc5810b9cca1090a5a079772b417f'

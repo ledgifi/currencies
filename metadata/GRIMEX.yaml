@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x89671544190ee39e469c8393009875df6565457a'
+    platform: BNB
 crypto: true
 fiat: false
 id: GRIMEX
 id_coinmarketcap: '10158'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10158.png
 name: SpaceGrime
-platform: BNB
-platform_contract: '0x89671544190ee39e469c8393009875df6565457a'

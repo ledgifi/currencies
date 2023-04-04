@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0627e7ee0d14fcdd2ff30d1563aebdbccec678be'
+    platform: BNB
 crypto: true
 fiat: false
 id: JPD
 id_coinmarketcap: '22455'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22455.png
 name: JackpotDoge
-platform: BNB
-platform_contract: '0x0627e7ee0d14fcdd2ff30d1563aebdbccec678be'

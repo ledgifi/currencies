@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd0464A1985edB76Ba82602534a2d89d8cCf3B7Ec'
+    platform: ETH
 crypto: true
 fiat: false
 id: GEFT
 id_coinmarketcap: '5525'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5525.png
 name: GlobalEdu
-platform: ETH
-platform_contract: '0xd0464A1985edB76Ba82602534a2d89d8cCf3B7Ec'

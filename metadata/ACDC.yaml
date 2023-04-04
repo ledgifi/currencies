@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfc44ec51c80e35a87bc2140299b1636ec83dfb04'
+    platform: ETH
 crypto: true
 fiat: false
 id: ACDC
 id_coinmarketcap: '3004'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3004.png
 name: Volt
-platform: ETH
-platform_contract: '0xfc44ec51c80e35a87bc2140299b1636ec83dfb04'

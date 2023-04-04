@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe1af6f4e0d2753749120a825632b6ecc11012280'
+    platform: BNB
 crypto: true
 fiat: false
 id: CLOUD9
 id_coinmarketcap: '13601'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13601.png
 name: Cloud9BSC.finance
-platform: BNB
-platform_contract: '0xe1af6f4e0d2753749120a825632b6ecc11012280'

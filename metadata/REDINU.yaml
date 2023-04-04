@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x12a68C0deC98916eADC394d71FE749b982e66d08'
+    platform: BNB
 crypto: true
 fiat: false
 id: REDINU
 id_coinmarketcap: '16713'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16713.png
 name: Red Inu
-platform: BNB
-platform_contract: '0x12a68C0deC98916eADC394d71FE749b982e66d08'

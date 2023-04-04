@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfe69bc0920fb63c5924cfc322dc4a5cc23d9afed'
+    platform: ETH
 crypto: true
 fiat: false
 id: LZE
 id_coinmarketcap: '7153'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7153.png
 name: LYZE
-platform: ETH
-platform_contract: '0xfe69bc0920fb63c5924cfc322dc4a5cc23d9afed'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xEC213F83defB583af3A000B1c0ada660b1902A0F'
+    platform: ETH
 crypto: true
 fiat: false
 id: PRE
 id_coinmarketcap: '2245'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2245.png
 name: Presearch
-platform: ETH
-platform_contract: '0xEC213F83defB583af3A000B1c0ada660b1902A0F'

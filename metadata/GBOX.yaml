@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x419317e3e1ee4703d20f9a5344e81d35ea1a09be'
+    platform: BNB
 crypto: true
 fiat: false
 id: GBOX
 id_coinmarketcap: '17359'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17359.png
 name: Gbox
-platform: BNB
-platform_contract: '0x419317e3e1ee4703d20f9a5344e81d35ea1a09be'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8167D3B1024cB51A2DD1B4d889ddf7023420796a'
+    platform: ETH
 crypto: true
 fiat: false
 id: NOKU
 id_coinmarketcap: '3138'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3138.png
 name: Noku
-platform: ETH
-platform_contract: '0x8167D3B1024cB51A2DD1B4d889ddf7023420796a'

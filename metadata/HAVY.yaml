@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7c2e5b7ec572199d3841f6a38f7d4868bd0798f1'
+    platform: ETH
 crypto: true
 fiat: false
 id: HAVY
 id_coinmarketcap: '3265'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3265.png
 name: Havy
-platform: ETH
-platform_contract: '0x7c2e5b7ec572199d3841f6a38f7d4868bd0798f1'

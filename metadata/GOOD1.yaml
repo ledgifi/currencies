@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaE616e72D3d89e847f74E8ace41Ca68bbF56af79'
+    platform: ETH
 crypto: true
 fiat: false
 id: GOOD1
 id_coinmarketcap: '1752'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1752.png
 name: Goodomy
-platform: ETH
-platform_contract: '0xaE616e72D3d89e847f74E8ace41Ca68bbF56af79'

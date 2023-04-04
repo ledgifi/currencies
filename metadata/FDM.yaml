@@ -1,8 +1,9 @@
+contracts:
+  - address: 0xb1834e4e773a180168f2292e036ca8e17f86196f (Klaytn)
+    platform: KLAY
 crypto: true
 fiat: false
 id: FDM
 id_coinmarketcap: '21091'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21091.png
 name: Fautor
-platform: KLAY
-platform_contract: 0xb1834e4e773a180168f2292e036ca8e17f86196f (Klaytn)

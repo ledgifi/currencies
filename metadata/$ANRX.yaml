@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0'
+    platform: ETH
 crypto: true
 fiat: false
 id: $ANRX
 id_coinmarketcap: '8057'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8057.png
 name: AnRKey X
-platform: ETH
-platform_contract: '0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0'

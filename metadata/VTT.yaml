@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE34e3eDBc2964ac2B93034db83A9dc47A4E6E8Af'
+    platform: BNB
 crypto: true
 fiat: false
 id: VTT
 id_coinmarketcap: '17925'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17925.png
 name: VesTallyToken
-platform: BNB
-platform_contract: '0xE34e3eDBc2964ac2B93034db83A9dc47A4E6E8Af'

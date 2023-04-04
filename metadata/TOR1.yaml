@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x35073ca7bac0c2edf58fb34a2cbc39ea2fbb7056'
+    platform: ETH
 crypto: true
 fiat: false
 id: TOR1
 id_coinmarketcap: '23872'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23872.png
 name: Tor Wallet
-platform: ETH
-platform_contract: '0x35073ca7bac0c2edf58fb34a2cbc39ea2fbb7056'

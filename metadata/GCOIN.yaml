@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x071AC29d569a47EbfFB9e57517F855Cb577DCc4C'
+    platform: MATIC
 crypto: true
 fiat: false
 id: GCOIN
 id_coinmarketcap: '15858'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15858.png
 name: Galaxy Fight Club
-platform: MATIC
-platform_contract: '0x071AC29d569a47EbfFB9e57517F855Cb577DCc4C'

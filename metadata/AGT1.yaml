@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0BF43350076F95e0d16120b4D6bdfA1C9D50BDBD'
+    platform: ETH
 crypto: true
 fiat: false
 id: AGT1
 id_coinmarketcap: '23758'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23758.png
 name: Antfarm Governance Token
-platform: ETH
-platform_contract: '0x0BF43350076F95e0d16120b4D6bdfA1C9D50BDBD'

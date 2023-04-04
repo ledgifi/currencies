@@ -1,8 +1,9 @@
+contracts:
+  - address: https://stellar.expert/explorer/public/asset/FIMI-GAX3LO7FXA6UYUI5XIHNO5YPN24MPI5QX3ZM475NFXZQKGPZXZBMR53K
+    platform: XLM
 crypto: true
 fiat: false
 id: FIMI
 id_coinmarketcap: '17319'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17319.png
 name: Fimi Market Inc.
-platform: XLM
-platform_contract: https://stellar.expert/explorer/public/asset/FIMI-GAX3LO7FXA6UYUI5XIHNO5YPN24MPI5QX3ZM475NFXZQKGPZXZBMR53K

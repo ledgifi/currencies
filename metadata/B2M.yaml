@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xd7c302fc3ac829c7e896a32c4bd126f3e8bd0a1f'
+    platform: ETH
 crypto: true
 fiat: false
 id: B2M
@@ -7,5 +10,3 @@ id_nomics: B2M
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/B2M.jpg
 logoKey: currencies/b2m.jpg
 name: Bit2Me
-platform: ETH
-platform_contract: '0xd7c302fc3ac829c7e896a32c4bd126f3e8bd0a1f'

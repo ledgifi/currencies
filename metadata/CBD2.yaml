@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x19ACe850213c518E3b29b57F4aAB4A0fB60AcdB9'
+    platform: BNB
 crypto: true
 fiat: false
 id: CBD2
 id_coinmarketcap: '10659'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10659.png
 name: CBD Coin
-platform: BNB
-platform_contract: '0x19ACe850213c518E3b29b57F4aAB4A0fB60AcdB9'

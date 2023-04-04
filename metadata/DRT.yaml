@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9af4f26941677c706cfecf6d3379ff01bb85d5ab'
+    platform: ETH
 crypto: true
 fiat: false
 id: DRT
 id_coinmarketcap: '2070'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2070.png
 name: DomRaider
-platform: ETH
-platform_contract: '0x9af4f26941677c706cfecf6d3379ff01bb85d5ab'

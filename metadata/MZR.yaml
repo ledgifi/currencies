@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa98A8a74AA8d6F41f9E498a084548C4db63c8F01'
+    platform: ETH
 crypto: true
 fiat: false
 id: MZR
 id_coinmarketcap: '24045'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24045.png
 name: Mazuri GameFi
-platform: ETH
-platform_contract: '0xa98A8a74AA8d6F41f9E498a084548C4db63c8F01'

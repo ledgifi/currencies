@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc65bc1e906771e105fbacbd8dfe3862ee7be378e'
+    platform: AVAX
 crypto: true
 fiat: false
 id: CHAM
 id_coinmarketcap: '21385'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21385.png
 name: Champion
-platform: AVAX
-platform_contract: '0xc65bc1e906771e105fbacbd8dfe3862ee7be378e'

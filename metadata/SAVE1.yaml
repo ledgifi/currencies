@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x159802fbe16aa6a0863a56a18dd41afce546c93e'
+    platform: BNB
 crypto: true
 fiat: false
 id: SAVE1
 id_coinmarketcap: '9857'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9857.png
 name: SaveTheWorld
-platform: BNB
-platform_contract: '0x159802fbe16aa6a0863a56a18dd41afce546c93e'

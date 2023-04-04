@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8a646ec31ee33b12ff47e6c7daaf4bc4df9ae54a'
+    platform: BNB
 crypto: true
 fiat: false
 id: FAIRLIFE
 id_coinmarketcap: '10546'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10546.png
 name: FAIRLIFE
-platform: BNB
-platform_contract: '0x8a646ec31ee33b12ff47e6c7daaf4bc4df9ae54a'

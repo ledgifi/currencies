@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4d864e4f542b4b40acb3151c9dad2e2c9236a88f'
+    platform: BNB
 crypto: true
 fiat: false
 id: TKX1
 id_coinmarketcap: '12596'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12596.png
 name: Token X
-platform: BNB
-platform_contract: '0x4d864e4f542b4b40acb3151c9dad2e2c9236a88f'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x88424c56dfaecb972c3163248928d00942191a92'
+    platform: BNB
 crypto: true
 fiat: false
 id: CASHIO
 id_coinmarketcap: '14238'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14238.png
 name: Cashio Token
-platform: BNB
-platform_contract: '0x88424c56dfaecb972c3163248928d00942191a92'

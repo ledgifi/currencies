@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9a21477b4e9ea5f7946d75876a186a1194559828'
+    platform: BNB
 crypto: true
 fiat: false
 id: FSHIBBY
 id_coinmarketcap: '14360'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14360.png
 name: FindShibby
-platform: BNB
-platform_contract: '0x9a21477b4e9ea5f7946d75876a186a1194559828'

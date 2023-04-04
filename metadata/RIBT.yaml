@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x302abf007c2045f1bc0867a4b7abaae2152e0eb3'
+    platform: AVAX
 crypto: true
 fiat: false
 id: RIBT
 id_coinmarketcap: '19974'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19974.png
 name: Ribbit
-platform: AVAX
-platform_contract: '0x302abf007c2045f1bc0867a4b7abaae2152e0eb3'

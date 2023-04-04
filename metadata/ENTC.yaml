@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3ecab35b64345bfc472477a653e4a3abe70532d9'
+    platform: ETH
 crypto: true
 fiat: false
 id: ENTC
 id_coinmarketcap: '13813'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13813.png
 name: ENTERBUTTON
-platform: ETH
-platform_contract: '0x3ecab35b64345bfc472477a653e4a3abe70532d9'

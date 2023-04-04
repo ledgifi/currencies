@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xFac8F483877f42702aAD3C4FCB508cfba09153B5'
+    platform: ETH
 crypto: true
 fiat: false
 id: EPTT
 id_coinmarketcap: '17055'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17055.png
 name: Evident Proof Transaction Token
-platform: ETH
-platform_contract: '0xFac8F483877f42702aAD3C4FCB508cfba09153B5'

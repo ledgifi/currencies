@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x61266424B904d65cEb2945a1413Ac322185187D5'
+    platform: ETH
 crypto: true
 fiat: false
 id: YFID
 id_coinmarketcap: '7880'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7880.png
 name: YFIDapp
-platform: ETH
-platform_contract: '0x61266424B904d65cEb2945a1413Ac322185187D5'

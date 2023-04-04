@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x757703bD5B2c4BBCfde0BE2C0b0E7C2f31FCf4E9'
+    platform: ETH
 crypto: true
 fiat: false
 id: THAR
 id_coinmarketcap: '4084'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4084.png
 name: Thar Token
-platform: ETH
-platform_contract: '0x757703bD5B2c4BBCfde0BE2C0b0E7C2f31FCf4E9'

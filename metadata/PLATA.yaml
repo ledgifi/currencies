@@ -1,8 +1,9 @@
+contracts:
+  - address: PLATA-9ba6c3
+    platform: EGLD
 crypto: true
 fiat: false
 id: PLATA
 id_coinmarketcap: '18064'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18064.png
 name: Plata Network
-platform: EGLD
-platform_contract: PLATA-9ba6c3

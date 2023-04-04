@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x670dde11a0ad3d10acf3e6b5ebc742a55718f315'
+    platform: BNB
 crypto: true
 fiat: false
 id: ECTO1
 id_coinmarketcap: '17023'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17023.png
 name: Ghost Block
-platform: BNB
-platform_contract: '0x670dde11a0ad3d10acf3e6b5ebc742a55718f315'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0789fF5bA37f72ABC4D561D00648acaDC897b32d'
+    platform: FTM
 crypto: true
 fiat: false
 id: MORPH
 id_coinmarketcap: '11896'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11896.png
 name: Morpheus Token
-platform: FTM
-platform_contract: '0x0789fF5bA37f72ABC4D561D00648acaDC897b32d'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x86965a86539e2446f9e72634cefca7983cc21a81'
+    platform: ETH
 crypto: true
 fiat: false
 id: YFIS
 id_coinmarketcap: '6807'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6807.png
 name: YFISCURITY
-platform: ETH
-platform_contract: '0x86965a86539e2446f9e72634cefca7983cc21a81'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc30590a879c7dd78bcd9a18e48de446a3c7c98b8'
+    platform: ETH
 crypto: true
 fiat: false
 id: EARENA
 id_coinmarketcap: '12478'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12478.png
 name: Electric Arena
-platform: ETH
-platform_contract: '0xc30590a879c7dd78bcd9a18e48de446a3c7c98b8'

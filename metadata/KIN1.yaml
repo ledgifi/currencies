@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x79e9D7b34E66EfaDdEcff17e66ed5d3f927Dd7cE'
+    platform: ARB
 crypto: true
 fiat: false
 id: KIN1
 id_coinmarketcap: '24101'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24101.png
 name: Kinance
-platform: ARB
-platform_contract: '0x79e9D7b34E66EfaDdEcff17e66ed5d3f927Dd7cE'

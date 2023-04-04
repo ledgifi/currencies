@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa6a1cc527d48585538b137e6abc14b2a55489d11'
+    platform: ETH
 crypto: true
 fiat: false
 id: LWC
 id_coinmarketcap: '22166'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22166.png
 name: Linework Coin
-platform: ETH
-platform_contract: '0xa6a1cc527d48585538b137e6abc14b2a55489d11'

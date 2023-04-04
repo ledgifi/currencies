@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcC0a71BA8ba5A638Fe30da6b7bf079aCd09D6dC8'
+    platform: ETH
 crypto: true
 fiat: false
 id: EURB
 id_coinmarketcap: '20914'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20914.png
 name: EURB
-platform: ETH
-platform_contract: '0xcC0a71BA8ba5A638Fe30da6b7bf079aCd09D6dC8'

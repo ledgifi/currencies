@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x106552c11272420aad5d7e94f8acab9095a6c952'
+    platform: ETH
 crypto: true
 fiat: false
 id: KEANU
 id_coinmarketcap: '10196'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10196.png
 name: Keanu Inu
-platform: ETH
-platform_contract: '0x106552c11272420aad5d7e94f8acab9095a6c952'

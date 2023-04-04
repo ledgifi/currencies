@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1a3057027032a1af433f6f596cab15271e4d8196'
+    platform: BNB
 crypto: true
 fiat: false
 id: ROAD
 id_coinmarketcap: '9145'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9145.png
 name: Yellow Road
-platform: BNB
-platform_contract: '0x1a3057027032a1af433f6f596cab15271e4d8196'

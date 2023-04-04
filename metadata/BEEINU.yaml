@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xba049d49e6d73b463b6ae482ecf2334aff84b83b'
+    platform: BNB
 crypto: true
 fiat: false
 id: BEEINU
 id_coinmarketcap: '19122'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19122.png
 name: Bee Inu
-platform: BNB
-platform_contract: '0xba049d49e6d73b463b6ae482ecf2334aff84b83b'

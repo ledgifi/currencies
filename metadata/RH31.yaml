@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6BE940759586A4f479086d7C606cdb6ba60Ce6B3'
+    platform: BNB
 crypto: true
 fiat: false
 id: RH31
 id_coinmarketcap: '22511'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22511.png
 name: RABBIT HALLOWEEN
-platform: BNB
-platform_contract: '0x6BE940759586A4f479086d7C606cdb6ba60Ce6B3'

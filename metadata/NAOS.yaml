@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4a615bb7166210cce20e6642a6f8fb5d4d044496'
+    platform: ETH
 crypto: true
 fiat: false
 id: NAOS
 id_coinmarketcap: '9504'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9504.png
 name: NAOS Finance
-platform: ETH
-platform_contract: '0x4a615bb7166210cce20e6642a6f8fb5d4d044496'

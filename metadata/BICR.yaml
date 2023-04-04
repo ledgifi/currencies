@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xEDBac1830C1b3280882C73449198eBF6a35EDe43'
+    platform: BNB
 crypto: true
 fiat: false
 id: BICR
 id_coinmarketcap: '23617'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23617.png
 name: Billiard Crypto Reward
-platform: BNB
-platform_contract: '0xEDBac1830C1b3280882C73449198eBF6a35EDe43'

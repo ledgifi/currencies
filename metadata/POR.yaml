@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xB0bB080667E52Bd84884d2c90322706C4AA9067b'
+    platform: CHZ
 crypto: true
 fiat: false
 id: POR
@@ -6,5 +9,3 @@ id_nomics: POR2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/POR2.png
 logoKey: currencies/por.png
 name: Portugal National Team Fan Token
-platform: CHZ
-platform_contract: '0xB0bB080667E52Bd84884d2c90322706C4AA9067b'

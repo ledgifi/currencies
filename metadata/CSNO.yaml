@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x29d75277ac7f0335b2165d0895e8725cbf658d73'
+    platform: ETH
 crypto: true
 fiat: false
 id: CSNO
 id_coinmarketcap: '1990'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1990.png
 name: BitDice
-platform: ETH
-platform_contract: '0x29d75277ac7f0335b2165d0895e8725cbf658d73'

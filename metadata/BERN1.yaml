@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x27d0408a868cf4e89b37d20b5e32888dced95bcb'
+    platform: BNB
 crypto: true
 fiat: false
 id: BERN1
 id_coinmarketcap: '10737'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10737.png
 name: BERNARD
-platform: BNB
-platform_contract: '0x27d0408a868cf4e89b37d20b5e32888dced95bcb'

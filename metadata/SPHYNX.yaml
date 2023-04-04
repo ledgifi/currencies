@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6e281f90c6D1b5E5A01FB6f14C428afF69c04C3F'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPHYNX
 id_coinmarketcap: '14461'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14461.png
 name: Sphynx BSC
-platform: BNB
-platform_contract: '0x6e281f90c6D1b5E5A01FB6f14C428afF69c04C3F'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xFa30e62EEDcf80D47d42947fBCc034beeD5C09FE'
+    platform: ETH
 crypto: true
 fiat: false
 id: LEC1
 id_coinmarketcap: '10779'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10779.png
 name: LOVE EARTH COIN
-platform: ETH
-platform_contract: '0xFa30e62EEDcf80D47d42947fBCc034beeD5C09FE'

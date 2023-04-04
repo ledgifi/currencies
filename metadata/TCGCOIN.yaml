@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc070c8ae94977f78d04553d33449def944f24254'
+    platform: BNB
 crypto: true
 fiat: false
 id: TCGCOIN
 id_coinmarketcap: '9971'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9971.png
 name: TCGcoin
-platform: BNB
-platform_contract: '0xc070c8ae94977f78d04553d33449def944f24254'

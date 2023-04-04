@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7be00ed6796b21656732e8f739fc1b8f1c53da0d'
+    platform: ETH
 crypto: true
 fiat: false
 id: ACXT
 id_coinmarketcap: '7854'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7854.png
 name: ACDX Exchange Governance Token
-platform: ETH
-platform_contract: '0x7be00ed6796b21656732e8f739fc1b8f1c53da0d'

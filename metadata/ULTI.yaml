@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x42bfe4a3e023f2c90aebffbd9b667599fa38514f'
+    platform: BNB
 crypto: true
 fiat: false
 id: ULTI
 id_coinmarketcap: '11868'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11868.png
 name: Ulti Arena
-platform: BNB
-platform_contract: '0x42bfe4a3e023f2c90aebffbd9b667599fa38514f'

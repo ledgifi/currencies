@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x02e973155b1f5f60a1ff1c4e8e7f371c89526cbc'
+    platform: KLAY
 crypto: true
 fiat: false
 id: IPV
 id_coinmarketcap: '20814'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20814.png
 name: IPVERSE
-platform: KLAY
-platform_contract: '0x02e973155b1f5f60a1ff1c4e8e7f371c89526cbc'

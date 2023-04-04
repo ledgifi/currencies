@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x896eDE222D3f7f3414e136a2791BDB08AAa25Ce0'
+    platform: BNB
 crypto: true
 fiat: false
 id: VIKING
 id_coinmarketcap: '8555'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8555.png
 name: Viking Swap
-platform: BNB
-platform_contract: '0x896eDE222D3f7f3414e136a2791BDB08AAa25Ce0'

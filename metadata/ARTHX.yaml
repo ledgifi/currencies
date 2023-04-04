@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd354d56dae3588f1145dd664bc5094437b889d6f'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ARTHX
 id_coinmarketcap: '10796'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10796.png
 name: ARTH Shares
-platform: MATIC
-platform_contract: '0xd354d56dae3588f1145dd664bc5094437b889d6f'

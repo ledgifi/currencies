@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe1db3d1ee5cfe5c6333be96e6421f9bd5b85c987'
+    platform: BNB
 crypto: true
 fiat: false
 id: SAFESPACE
 id_coinmarketcap: '10075'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10075.png
 name: SAFESPACE
-platform: BNB
-platform_contract: '0xe1db3d1ee5cfe5c6333be96e6421f9bd5b85c987'

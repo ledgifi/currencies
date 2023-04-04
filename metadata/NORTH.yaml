@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xD0755413bfE2e08dB6bE72761cdD56d77d4B60f1'
+    platform: AVAX
 crypto: true
 fiat: false
 id: NORTH
 id_coinmarketcap: '17907'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17907.png
 name: North Pole
-platform: AVAX
-platform_contract: '0xD0755413bfE2e08dB6bE72761cdD56d77d4B60f1'

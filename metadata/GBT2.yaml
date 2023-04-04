@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd8bd3958725f216eb236e9dc65b169de48101c6a'
+    platform: ETH
 crypto: true
 fiat: false
 id: GBT2
 id_coinmarketcap: '3674'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3674.png
 name: Globatalent
-platform: ETH
-platform_contract: '0xd8bd3958725f216eb236e9dc65b169de48101c6a'

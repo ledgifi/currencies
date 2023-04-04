@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf919EA3EE19a22e067DF0217d21C76077f245A4b'
+    platform: BNB
 crypto: true
 fiat: false
 id: MOON2
 id_coinmarketcap: '21397'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21397.png
 name: Sturgeon Moon
-platform: BNB
-platform_contract: '0xf919EA3EE19a22e067DF0217d21C76077f245A4b'

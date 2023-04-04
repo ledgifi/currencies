@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb6D8CDF765032d352d66fe1a41E7Ed2a2C8231b2'
+    platform: BNB
 crypto: true
 fiat: false
 id: PTRST
 id_coinmarketcap: '16031'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16031.png
 name: PayTrust
-platform: BNB
-platform_contract: '0xb6D8CDF765032d352d66fe1a41E7Ed2a2C8231b2'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8a9c67fee641579deba04928c4bc45f66e26343a'
+    platform: ETH
 crypto: true
 fiat: false
 id: JRT
 id_coinmarketcap: '5187'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5187.png
 name: Jarvis Network
-platform: ETH
-platform_contract: '0x8a9c67fee641579deba04928c4bc45f66e26343a'

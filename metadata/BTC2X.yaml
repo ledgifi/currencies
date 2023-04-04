@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x15ef5b9447710eab904e63e6233ff540400d603f'
+    platform: ETH
 crypto: true
 fiat: false
 id: BTC2X
 id_coinmarketcap: '2210'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2210.png
 name: Bitcoin2x
-platform: ETH
-platform_contract: '0x15ef5b9447710eab904e63e6233ff540400d603f'

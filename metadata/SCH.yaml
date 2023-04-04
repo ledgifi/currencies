@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe485b2780c3822a62da88857fd6481018ea8cb95'
+    platform: BNB
 crypto: true
 fiat: false
 id: SCH
 id_coinmarketcap: '11326'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11326.png
 name: SoccerHub
-platform: BNB
-platform_contract: '0xe485b2780c3822a62da88857fd6481018ea8cb95'

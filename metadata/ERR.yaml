@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xFB32513135e3267995268E3099d2B6114d20B6eD'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ERR
 id_coinmarketcap: '17297'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17297.png
 name: Coinerr
-platform: MATIC
-platform_contract: '0xFB32513135e3267995268E3099d2B6114d20B6eD'

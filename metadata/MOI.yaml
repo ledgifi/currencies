@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8C76155F890E268882C8fD91D3350332b18d3A0B'
+    platform: ETH
 crypto: true
 fiat: false
 id: MOI
 id_coinmarketcap: '20633'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20633.png
 name: MyOwnItem
-platform: ETH
-platform_contract: '0x8C76155F890E268882C8fD91D3350332b18d3A0B'

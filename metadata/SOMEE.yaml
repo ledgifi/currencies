@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x65f9a292f1aeed5d755aa2fd2fb17ab2e9431447'
+    platform: ETH
 crypto: true
 fiat: false
 id: SOMEE
 id_coinmarketcap: '11384'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11384.png
 name: SoMee.Social
-platform: ETH
-platform_contract: '0x65f9a292f1aeed5d755aa2fd2fb17ab2e9431447'

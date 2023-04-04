@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x36232b1328e49a043434e71c02c0dc2be278e975'
+    platform: ETH
 crypto: true
 fiat: false
 id: XTS
 id_coinmarketcap: '5385'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5385.png
 name: Xaviera Tech
-platform: ETH
-platform_contract: '0x36232b1328e49a043434e71c02c0dc2be278e975'

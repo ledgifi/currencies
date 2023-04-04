@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6696623f0122Ff144e4E9f2F2315ACA142Cf4e08'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIBADUFF
 id_coinmarketcap: '14408'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14408.png
 name: ShibaDuff
-platform: BNB
-platform_contract: '0x6696623f0122Ff144e4E9f2F2315ACA142Cf4e08'

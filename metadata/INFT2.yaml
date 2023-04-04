@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbAdA557cdFA4f5a45bf7fed3cBb40Db567f9E9Ad'
+    platform: ETH
 crypto: true
 fiat: false
 id: INFT2
 id_coinmarketcap: '22146'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22146.png
 name: Infinity NFT Marketplace
-platform: ETH
-platform_contract: '0xbAdA557cdFA4f5a45bf7fed3cBb40Db567f9E9Ad'

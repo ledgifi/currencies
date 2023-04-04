@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4672bad527107471cb5067a887f4656d585a8a31'
+    platform: ETH
 crypto: true
 fiat: false
 id: DROP1
 id_coinmarketcap: '2591'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2591.png
 name: Dropil
-platform: ETH
-platform_contract: '0x4672bad527107471cb5067a887f4656d585a8a31'

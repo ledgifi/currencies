@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1e446cbea52badeb614fbe4ab7610f737995fb44'
+    platform: BNB
 crypto: true
 fiat: false
 id: SAT4
 id_coinmarketcap: '10176'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10176.png
 name: Saturna
-platform: BNB
-platform_contract: '0x1e446cbea52badeb614fbe4ab7610f737995fb44'

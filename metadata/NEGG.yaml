@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb96bc98ea6a98db32fa9af72cd96058318e02e60'
+    platform: BNB
 crypto: true
 fiat: false
 id: NEGG
 id_coinmarketcap: '13586'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13586.png
 name: Nest Egg
-platform: BNB
-platform_contract: '0xb96bc98ea6a98db32fa9af72cd96058318e02e60'

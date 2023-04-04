@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x088cd8f5ef3652623c22d48b1605dcfe860cd704'
+    platform: ARB
 crypto: true
 fiat: false
 id: VELA
 id_coinmarketcap: '23248'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23248.png
 name: Vela Exchange
-platform: ARB
-platform_contract: '0x088cd8f5ef3652623c22d48b1605dcfe860cd704'

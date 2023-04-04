@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6e39a587691b8c9d4341ce0a960998ed6f537af6'
+    platform: ETH
 crypto: true
 fiat: false
 id: MEMAG
 id_coinmarketcap: '23838'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23838.png
 name: Meta Masters Guild
-platform: ETH
-platform_contract: '0x6e39a587691b8c9d4341ce0a960998ed6f537af6'

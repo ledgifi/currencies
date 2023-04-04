@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x467f4773879a3917ddc2a6befa430c5d8ac22bee'
+    platform: BNB
 crypto: true
 fiat: false
 id: DGE1
 id_coinmarketcap: '14425'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14425.png
 name: DragonSea
-platform: BNB
-platform_contract: '0x467f4773879a3917ddc2a6befa430c5d8ac22bee'

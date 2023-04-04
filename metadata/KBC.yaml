@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf3586684107ce0859c44aa2b2e0fb8cd8731a15a'
+    platform: ETH
 crypto: true
 fiat: false
 id: KBC
 id_coinmarketcap: '2907'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2907.png
 name: Karatgold Coin
-platform: ETH
-platform_contract: '0xf3586684107ce0859c44aa2b2e0fb8cd8731a15a'

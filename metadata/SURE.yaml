@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcb86c6a22cb56b6cf40cafedb06ba0df188a416e'
+    platform: ETH
 crypto: true
 fiat: false
 id: SURE
 id_coinmarketcap: '5113'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5113.png
 name: inSure DeFi
-platform: ETH
-platform_contract: '0xcb86c6a22cb56b6cf40cafedb06ba0df188a416e'

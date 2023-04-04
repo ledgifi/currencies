@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x24519018513a71f83951336b990098de978f5bad'
+    platform: BNB
 crypto: true
 fiat: false
 id: SLD3
 id_coinmarketcap: '13340'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13340.png
 name: SoldiersLand
-platform: BNB
-platform_contract: '0x24519018513a71f83951336b990098de978f5bad'

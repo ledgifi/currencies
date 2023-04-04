@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7e80e4d7d5725499791CF8b17A4586F1f0672A0C'
+    platform: ETH
 crypto: true
 fiat: false
 id: ZOGI
 id_coinmarketcap: '22937'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22937.png
 name: ZOGI
-platform: ETH
-platform_contract: '0x7e80e4d7d5725499791CF8b17A4586F1f0672A0C'

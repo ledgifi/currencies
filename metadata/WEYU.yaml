@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xFAfD4CB703B25CB22f43D017e7e0d75FEBc26743'
+    platform: BNB
 crypto: true
 fiat: false
 id: WEYU
@@ -7,5 +10,3 @@ id_nomics: WEYU
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WEYU.jpg
 logoKey: currencies/weyu.jpg
 name: Weyu
-platform: BNB
-platform_contract: '0xFAfD4CB703B25CB22f43D017e7e0d75FEBc26743'

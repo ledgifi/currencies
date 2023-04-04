@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb96fd64298bb8a9a8aa0866f81093a8b7f68a79c'
+    platform: BNB
 crypto: true
 fiat: false
 id: JAY1
 id_coinmarketcap: '8203'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8203.png
 name: JAY TOKEN
-platform: BNB
-platform_contract: '0xb96fd64298bb8a9a8aa0866f81093a8b7f68a79c'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x80dd860289d6dafa733c85a58d9f11707838687d'
+    platform: BNB
 crypto: true
 fiat: false
 id: QDROP
 id_coinmarketcap: '14256'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14256.png
 name: QuizDrop
-platform: BNB
-platform_contract: '0x80dd860289d6dafa733c85a58d9f11707838687d'

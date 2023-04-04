@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x09d2355140725c9eA740A9e6e7C0e5F4050C6Fb3'
+    platform: BNB
 crypto: true
 fiat: false
 id: DODB
 id_coinmarketcap: '20808'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20808.png
 name: DODbase
-platform: BNB
-platform_contract: '0x09d2355140725c9eA740A9e6e7C0e5F4050C6Fb3'

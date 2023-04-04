@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x69e8b9528CABDA89fe846C67675B5D73d463a916'
+    platform: ETH
 crypto: true
 fiat: false
 id: OPEN2
 id_coinmarketcap: '7783'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7783.png
 name: Open Governance Token
-platform: ETH
-platform_contract: '0x69e8b9528CABDA89fe846C67675B5D73d463a916'

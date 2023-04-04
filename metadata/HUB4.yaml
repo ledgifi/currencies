@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xba5160ba66b286f1b9b6f3a57a6abcfa440e7aa2'
+    platform: ETH
 crypto: true
 fiat: false
 id: HUB4
 id_coinmarketcap: '5262'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5262.png
 name: Hubi Token
-platform: ETH
-platform_contract: '0xba5160ba66b286f1b9b6f3a57a6abcfa440e7aa2'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5d858bcd53e085920620549214a8b27ce2f04670'
+    platform: ETH
 crypto: true
 fiat: false
 id: POP2
 id_coinmarketcap: '7363'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7363.png
 name: POP Network Token
-platform: ETH
-platform_contract: '0x5d858bcd53e085920620549214a8b27ce2f04670'

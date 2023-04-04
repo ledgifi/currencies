@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x69b0af16fdd2e80968eb505cd41dc26efb2b80bf'
+    platform: BNB
 crypto: true
 fiat: false
 id: BBL
 id_coinmarketcap: '19379'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19379.png
 name: BlockBlend
-platform: BNB
-platform_contract: '0x69b0af16fdd2e80968eb505cd41dc26efb2b80bf'

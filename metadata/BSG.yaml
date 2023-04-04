@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe8993ea85b9aa3e864fef4f7685966c485546161'
+    platform: BNB
 crypto: true
 fiat: false
 id: BSG
 id_coinmarketcap: '13868'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13868.png
 name: Baby Squid Game
-platform: BNB
-platform_contract: '0xe8993ea85b9aa3e864fef4f7685966c485546161'

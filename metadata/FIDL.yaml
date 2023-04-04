@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x414a36a4b79Ee1D4b454AB798E4179ffC00b1641'
+    platform: BNB
 crypto: true
 fiat: false
 id: FIDL
 id_coinmarketcap: '17625'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17625.png
 name: Trapeza Protocol
-platform: BNB
-platform_contract: '0x414a36a4b79Ee1D4b454AB798E4179ffC00b1641'

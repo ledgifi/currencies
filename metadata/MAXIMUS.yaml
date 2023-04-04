@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2180165B01eEaF93D27A3aa917BBa26aE98f5a65'
+    platform: BNB
 crypto: true
 fiat: false
 id: MAXIMUS
 id_coinmarketcap: '22336'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22336.png
 name: Maximus Sniper
-platform: BNB
-platform_contract: '0x2180165B01eEaF93D27A3aa917BBa26aE98f5a65'

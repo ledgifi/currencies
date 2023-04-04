@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x28971a0b5d89d3badf5495705fd63b413b0bbf39'
+    platform: BNB
 crypto: true
 fiat: false
 id: RAI3
 id_coinmarketcap: '16732'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16732.png
 name: HAKURAI
-platform: BNB
-platform_contract: '0x28971a0b5d89d3badf5495705fd63b413b0bbf39'

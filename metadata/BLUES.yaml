@@ -1,8 +1,9 @@
+contracts:
+  - address: e043fd7b2076ea9e1b279d200b59e153bf6b299a72ce6e2c14aeb790424c554553
+    platform: ADA
 crypto: true
 fiat: false
 id: BLUES
 id_coinmarketcap: '19595'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19595.png
 name: Blueshift
-platform: ADA
-platform_contract: e043fd7b2076ea9e1b279d200b59e153bf6b299a72ce6e2c14aeb790424c554553

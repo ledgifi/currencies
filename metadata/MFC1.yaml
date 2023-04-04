@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x337dd23d05c27bff099d3604938bfc23a9b25820'
+    platform: ETH
 crypto: true
 fiat: false
 id: MFC1
 id_coinmarketcap: '23533'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23533.png
 name: Marshall Fighting Championship
-platform: ETH
-platform_contract: '0x337dd23d05c27bff099d3604938bfc23a9b25820'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xac0c7d9b063ed2c0946982ddb378e03886c064e6'
+    platform: BNB
 crypto: true
 fiat: false
 id: TREAT1
 id_coinmarketcap: '8808'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8808.png
 name: Treat DAO [old]
-platform: BNB
-platform_contract: '0xac0c7d9b063ed2c0946982ddb378e03886c064e6'

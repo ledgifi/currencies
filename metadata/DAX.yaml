@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0b4bdc478791897274652dc15ef5c135cae61e60'
+    platform: ETH
 crypto: true
 fiat: false
 id: DAX
 id_coinmarketcap: '2696'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2696.png
 name: DAEX
-platform: ETH
-platform_contract: '0x0b4bdc478791897274652dc15ef5c135cae61e60'

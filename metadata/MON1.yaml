@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1ea48b9965bb5086f3b468e50ed93888a661fc17'
+    platform: ETH
 crypto: true
 fiat: false
 id: MON1
 id_coinmarketcap: '21957'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21957.png
 name: Moneta DAO
-platform: ETH
-platform_contract: '0x1ea48b9965bb5086f3b468e50ed93888a661fc17'

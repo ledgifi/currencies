@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf080a28BCd70CEcb4B422D8f6a23a5faa8b2eccb'
+    platform: BNB
 crypto: true
 fiat: false
 id: UFO3
 id_coinmarketcap: '17380'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17380.png
 name: UFO
-platform: BNB
-platform_contract: '0xf080a28BCd70CEcb4B422D8f6a23a5faa8b2eccb'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x02Df2D8120966A143CAaf760CC3AE1D12f9862a7'
+    platform: BNB
 crypto: true
 fiat: false
 id: FOX1
 id_coinmarketcap: '16749'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16749.png
 name: FOX TOKEN
-platform: BNB
-platform_contract: '0x02Df2D8120966A143CAaf760CC3AE1D12f9862a7'

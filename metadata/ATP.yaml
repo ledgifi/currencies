@@ -1,8 +1,9 @@
+contracts:
+  - address: ATP-38C
+    platform: BNB
 crypto: true
 fiat: false
 id: ATP
 id_coinmarketcap: '3620'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3620.png
 name: Atlas Protocol
-platform: BNB
-platform_contract: ATP-38C

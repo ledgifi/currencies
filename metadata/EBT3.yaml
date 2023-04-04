@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x23aab5e8cdafca91849f0c8fab42500fbdfed9bd'
+    platform: ETH
 crypto: true
 fiat: false
 id: EBT3
 id_coinmarketcap: '4216'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4216.png
 name: E-BANK Token
-platform: ETH
-platform_contract: '0x23aab5e8cdafca91849f0c8fab42500fbdfed9bd'

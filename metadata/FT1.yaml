@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xae98dfab7a1dcc624f1431276a8b94b75dad70bc'
+    platform: ETH
 crypto: true
 fiat: false
 id: FT1
 id_coinmarketcap: '5340'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5340.png
 name: Fleshy Tender ONE
-platform: ETH
-platform_contract: '0xae98dfab7a1dcc624f1431276a8b94b75dad70bc'

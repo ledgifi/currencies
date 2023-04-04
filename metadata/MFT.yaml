@@ -1,4 +1,7 @@
 color: '#da1157'
+contracts:
+  - address: '0xdf2c7238198ad8b389666574f2d8bc411a4b7428'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: MFT
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/mft.svg
 logoKey: currencies/mft.svg
 name: Mainframe
-platform: ETH
-platform_contract: '0xdf2c7238198ad8b389666574f2d8bc411a4b7428'

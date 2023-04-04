@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x16756ec1deb89a2106c35e0b586a799d0a61837d'
+    platform: ETH
 crypto: true
 fiat: false
 id: CHEDDA
 id_coinmarketcap: '17645'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17645.png
 name: Chedda Token
-platform: ETH
-platform_contract: '0x16756ec1deb89a2106c35e0b586a799d0a61837d'

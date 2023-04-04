@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x2dfF88A56767223A5529eA5960Da7A3F5f766406'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -5,5 +8,3 @@ id: ID
 id_binance: '1172'
 id_coinmarketcap: '21846'
 name: Space ID
-platform: ETH
-platform_contract: '0x2dfF88A56767223A5529eA5960Da7A3F5f766406'

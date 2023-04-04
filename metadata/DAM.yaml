@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf80d589b3dbe130c270a69f1a69d050f268786df'
+    platform: ETH
 crypto: true
 fiat: false
 id: DAM
 id_coinmarketcap: '2260'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2260.png
 name: Datamine
-platform: ETH
-platform_contract: '0xf80d589b3dbe130c270a69f1a69d050f268786df'

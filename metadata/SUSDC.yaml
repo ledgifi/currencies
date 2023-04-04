@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3774E825d567125988Fb293e926064B6FAa71DAB'
+    platform: ETH
 crypto: true
 fiat: false
 id: sUSDC
 id_coinmarketcap: '11097'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11097.png
 name: Strike USDC
-platform: ETH
-platform_contract: '0x3774E825d567125988Fb293e926064B6FAa71DAB'

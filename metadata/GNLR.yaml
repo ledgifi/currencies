@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2e2b887c76cc1b5c5ef27c6361101bfd57e0bb98'
+    platform: BNB
 crypto: true
 fiat: false
 id: GNLR
 id_coinmarketcap: '11898'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11898.png
 name: Gods and Legends
-platform: BNB
-platform_contract: '0x2e2b887c76cc1b5c5ef27c6361101bfd57e0bb98'

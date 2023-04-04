@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb1e93236ab6073fdac58ada5564897177d4bcc43'
+    platform: ETH
 crypto: true
 fiat: false
 id: SEELE
 id_coinmarketcap: '2830'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2830.png
 name: Seele-N
-platform: ETH
-platform_contract: '0xb1e93236ab6073fdac58ada5564897177d4bcc43'

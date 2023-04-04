@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D'
+    platform: ETH
 crypto: true
 fiat: false
 id: IUSD1
 id_coinmarketcap: '19799'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19799.png
 name: iZUMi Bond USD
-platform: ETH
-platform_contract: '0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D'

@@ -1,8 +1,9 @@
+contracts:
+  - address: DFS-eos-minedfstoken
+    platform: EOS
 crypto: true
 fiat: false
 id: DFS3
 id_coinmarketcap: '6610'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6610.png
 name: Defis Network
-platform: EOS
-platform_contract: DFS-eos-minedfstoken

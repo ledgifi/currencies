@@ -1,8 +1,9 @@
+contracts:
+  - address: NEW-09E
+    platform: BNB
 crypto: true
 fiat: false
 id: NEW
 id_coinmarketcap: '3871'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3871.png
 name: Newton
-platform: BNB
-platform_contract: NEW-09E

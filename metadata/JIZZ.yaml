@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8b937af714ac7e2129bd33d93641f52b665ca352'
+    platform: ETH
 crypto: true
 fiat: false
 id: JIZZ
 id_coinmarketcap: '23386'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23386.png
 name: JizzRocket
-platform: ETH
-platform_contract: '0x8b937af714ac7e2129bd33d93641f52b665ca352'

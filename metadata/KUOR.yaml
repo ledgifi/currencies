@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe53b185Ed220aB14460A9a2ac46e096Ff3a90171'
+    platform: BNB
 crypto: true
 fiat: false
 id: KUOR
 id_coinmarketcap: '22510'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22510.png
 name: Kuwa Oracle
-platform: BNB
-platform_contract: '0xe53b185Ed220aB14460A9a2ac46e096Ff3a90171'

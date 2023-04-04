@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x308bfaeAaC8BDab6e9Fc5Ead8EdCb5f95b0599d9'
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: ONTGAS
 logo: https://bin.bnbstatic.com/images/20200708/d70872ca-6262-4c29-9fe8-c9526fa2b447.png
 logoKey: currencies/ong.png
 name: Ontology Gas
-platform: BNB
-platform_contract: '0x308bfaeAaC8BDab6e9Fc5Ead8EdCb5f95b0599d9'

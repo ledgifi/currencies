@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538'
+    platform: BNB
 crypto: true
 fiat: false
 id: KUKU
 id_coinmarketcap: '19847'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19847.png
 name: panKUKU
-platform: BNB
-platform_contract: '0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x29132062319aa375e764ef8ef756f2b28c77a9c9'
+    platform: BNB
 crypto: true
 fiat: false
 id: BPAD
 id_coinmarketcap: '17571'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17571.png
 name: BLOKPAD
-platform: BNB
-platform_contract: '0x29132062319aa375e764ef8ef756f2b28c77a9c9'

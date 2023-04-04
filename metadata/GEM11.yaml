@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4D3dDeec55f148B3f8765A2aBc00252834ed7E62'
+    platform: AVAX
 crypto: true
 fiat: false
 id: GEM11
 id_coinmarketcap: '17560'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17560.png
 name: Yield Hunt
-platform: AVAX
-platform_contract: '0x4D3dDeec55f148B3f8765A2aBc00252834ed7E62'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcb5327ed4649548e0d73e70b633cdfd99af6da87'
+    platform: BNB
 crypto: true
 fiat: false
 id: PRIMAL
 id_coinmarketcap: '22423'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22423.png
 name: PRIMAL
-platform: BNB
-platform_contract: '0xcb5327ed4649548e0d73e70b633cdfd99af6da87'

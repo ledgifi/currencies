@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x099d6cc403c0a5b46a6dd384c622da39f1e1001c'
+    platform: BNB
 crypto: true
 fiat: false
 id: KAWAII1
 id_coinmarketcap: '10193'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10193.png
 name: Kawai INU
-platform: BNB
-platform_contract: '0x099d6cc403c0a5b46a6dd384c622da39f1e1001c'

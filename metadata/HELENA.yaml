@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE350b08079f9523B24029B838184f177baF961Ff'
+    platform: BNB
 crypto: true
 fiat: false
 id: HELENA
 id_coinmarketcap: '19488'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19488.png
 name: Helena Financial
-platform: BNB
-platform_contract: '0xE350b08079f9523B24029B838184f177baF961Ff'

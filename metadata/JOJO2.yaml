@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x49b4f92431c5b8cf260f983c4d3ed28e1fd0b991'
+    platform: ETH
 crypto: true
 fiat: false
 id: JOJO2
 id_coinmarketcap: '21886'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21886.png
 name: JoJos Adventure
-platform: ETH
-platform_contract: '0x49b4f92431c5b8cf260f983c4d3ed28e1fd0b991'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6bD193Ee6D2104F14F94E2cA6efefae561A4334B'
+    platform: MOVR
 crypto: true
 fiat: false
 id: SOLAR1
 id_coinmarketcap: '13041'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13041.png
 name: Solarbeam
-platform: MOVR
-platform_contract: '0x6bD193Ee6D2104F14F94E2cA6efefae561A4334B'

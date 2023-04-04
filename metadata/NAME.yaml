@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe1A4c5BBb704a92599FEdB191f451E0d3a1ed842'
+    platform: ETH
 crypto: true
 fiat: false
 id: NAME
 id_coinmarketcap: '9264'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9264.png
 name: PolkaDomain
-platform: ETH
-platform_contract: '0xe1A4c5BBb704a92599FEdB191f451E0d3a1ed842'

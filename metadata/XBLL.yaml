@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8110706a399d457d67b7a2b7636482b4bfcebb21'
+    platform: MATIC
 crypto: true
 fiat: false
 id: XBLL
 id_coinmarketcap: '23066'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23066.png
 name: ExtractoDAO Bull
-platform: MATIC
-platform_contract: '0x8110706a399d457d67b7a2b7636482b4bfcebb21'

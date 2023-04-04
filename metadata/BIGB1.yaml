@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x91bd140bf6656228583ce1bb7c04f32609625644'
+    platform: ETH
 crypto: true
 fiat: false
 id: BIGB1
 id_coinmarketcap: '6384'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6384.png
 name: BIGBANG Coin
-platform: ETH
-platform_contract: '0x91bd140bf6656228583ce1bb7c04f32609625644'

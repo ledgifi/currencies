@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3837e18b901629fcb200e0ad9c2f2441804bd6c8'
+    platform: BNB
 crypto: true
 fiat: false
 id: CKT
 id_coinmarketcap: '14835'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14835.png
 name: Caketools
-platform: BNB
-platform_contract: '0x3837e18b901629fcb200e0ad9c2f2441804bd6c8'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4a45A331930EE997F7382e9F001359E1F2981A71'
+    platform: BNB
 crypto: true
 fiat: false
 id: BIGFI
 id_coinmarketcap: '24154'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24154.png
 name: Big Finance
-platform: BNB
-platform_contract: '0x4a45A331930EE997F7382e9F001359E1F2981A71'

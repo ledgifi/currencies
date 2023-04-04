@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf87aed04889a1dd0159d9c22b0d57b345ab16ddd'
+    platform: IOTX
 crypto: true
 fiat: false
 id: ZM
 id_coinmarketcap: '14276'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14276.png
 name: ZoomSwap
-platform: IOTX
-platform_contract: '0xf87aed04889a1dd0159d9c22b0d57b345ab16ddd'

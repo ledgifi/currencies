@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8182ac1c5512eb67756a89c40fadb2311757bd32'
+    platform: BNB
 crypto: true
 fiat: false
 id: NTR1
 id_coinmarketcap: '11921'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11921.png
 name: Nether NFT
-platform: BNB
-platform_contract: '0x8182ac1c5512eb67756a89c40fadb2311757bd32'

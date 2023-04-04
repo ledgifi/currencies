@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x073D31b72E5444E6F00e24D31F66f100dEE40E74'
+    platform: BNB
 crypto: true
 fiat: false
 id: FLOKICEO1
 id_coinmarketcap: '23697'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23697.png
 name: TWITTER CEO FLOKI
-platform: BNB
-platform_contract: '0x073D31b72E5444E6F00e24D31F66f100dEE40E74'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe70ea90718fd21471db240f3bae343daece65f53'
+    platform: ETH
 crypto: true
 fiat: false
 id: USACOIN
 id_coinmarketcap: '21130'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21130.png
 name: USACOIN
-platform: ETH
-platform_contract: '0xe70ea90718fd21471db240f3bae343daece65f53'

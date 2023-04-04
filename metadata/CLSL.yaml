@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2cf47457a1e9c7bff57fc24fbd3046a72d64f328'
+    platform: ETH
 crypto: true
 fiat: false
 id: CLSL
 id_coinmarketcap: '20327'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20327.png
 name: Colossal Token
-platform: ETH
-platform_contract: '0x2cf47457a1e9c7bff57fc24fbd3046a72d64f328'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe5bd6c5b1c2df8f499847a545838c09e45f4a262'
+    platform: BNB
 crypto: true
 fiat: false
 id: MILK3
 id_coinmarketcap: '15050'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15050.png
 name: Milk
-platform: BNB
-platform_contract: '0xe5bd6c5b1c2df8f499847a545838c09e45f4a262'

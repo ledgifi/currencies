@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb8c460aD6aC97797A57BDb08D7187b4710B4Fdf8'
+    platform: KLAY
 crypto: true
 fiat: false
 id: KLD
 id_coinmarketcap: '21678'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21678.png
 name: KlayLend
-platform: KLAY
-platform_contract: '0xb8c460aD6aC97797A57BDb08D7187b4710B4Fdf8'

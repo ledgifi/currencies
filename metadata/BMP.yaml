@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x01b23286ff60a543ec29366ae8d6b6274ca20541'
+    platform: ETH
 crypto: true
 fiat: false
 id: BMP
 id_coinmarketcap: '7732'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7732.png
 name: Brother Music Platform
-platform: ETH
-platform_contract: '0x01b23286ff60a543ec29366ae8d6b6274ca20541'

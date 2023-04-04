@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x9040e237C3bF18347bb00957Dc22167D0f2b999d'
+    platform: ETH
 crypto: true
 fiat: false
 id: STND
@@ -7,5 +10,3 @@ id_nomics: STND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STND.jpg
 logoKey: currencies/stnd.jpg
 name: Standard Protocol
-platform: ETH
-platform_contract: '0x9040e237C3bF18347bb00957Dc22167D0f2b999d'

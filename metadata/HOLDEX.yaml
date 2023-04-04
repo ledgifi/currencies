@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd85b5e9a7c33832dcdb554ec07cdcc56810b2e5a'
+    platform: BNB
 crypto: true
 fiat: false
 id: HOLDEX
 id_coinmarketcap: '12459'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12459.png
 name: Holdex Finance
-platform: BNB
-platform_contract: '0xd85b5e9a7c33832dcdb554ec07cdcc56810b2e5a'

@@ -1,8 +1,9 @@
+contracts:
+  - address: ibc/67795E528DF67C5606FC20F824EA39A6EF55BA133F4DC79C90A8C47A0901E17C
+    platform: ATOM
 crypto: true
 fiat: false
 id: UMEE
 id_coinmarketcap: '16389'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16389.png
 name: Umee
-platform: ATOM
-platform_contract: ibc/67795E528DF67C5606FC20F824EA39A6EF55BA133F4DC79C90A8C47A0901E17C

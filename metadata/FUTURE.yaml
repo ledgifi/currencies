@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9FBff386a9405b4C98329824418ec02b5C20976b'
+    platform: BNB
 crypto: true
 fiat: false
 id: FUTURE
 id_coinmarketcap: '18006'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18006.png
 name: FUTURECOIN
-platform: BNB
-platform_contract: '0x9FBff386a9405b4C98329824418ec02b5C20976b'

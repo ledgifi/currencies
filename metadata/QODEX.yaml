@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7c733acdc87874c9b0d02e46f54cd89173b4a460'
+    platform: MOVR
 crypto: true
 fiat: false
 id: QODEX
 id_coinmarketcap: '23291'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23291.png
 name: Qoda Finance
-platform: MOVR
-platform_contract: '0x7c733acdc87874c9b0d02e46f54cd89173b4a460'

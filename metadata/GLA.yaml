@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C'
+    platform: ETH
 crypto: true
 fiat: false
 id: GLA
 id_coinmarketcap: '2534'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2534.png
 name: Gladius Token
-platform: ETH
-platform_contract: '0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f'
+    platform: ETH
 crypto: true
 fiat: false
 id: DUCK
 id_coinmarketcap: '8063'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8063.png
 name: Duck DAO (DLP Duck Token)
-platform: ETH
-platform_contract: '0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f'

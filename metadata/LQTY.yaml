@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: LQTY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LQTY.jpg
 logoKey: currencies/lqty.jpg
 name: Liquity
-platform: ETH
-platform_contract: '0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D'

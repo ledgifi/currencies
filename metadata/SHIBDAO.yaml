@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x15316d2438a8d7d534e4233b8e0edacd64c9fcde'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHIBDAO
 id_coinmarketcap: '23353'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23353.png
 name: Shibarium DAO
-platform: ETH
-platform_contract: '0x15316d2438a8d7d534e4233b8e0edacd64c9fcde'

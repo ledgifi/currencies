@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x73f309e94d836bab473b1ebc0103a3dcd7daeaa9'
+    platform: CHZ
 crypto: true
 fiat: false
 id: GAL1
 id_coinmarketcap: '5228'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5228.png
 name: Galatasaray Fan Token
-platform: CHZ
-platform_contract: '0x73f309e94d836bab473b1ebc0103a3dcd7daeaa9'

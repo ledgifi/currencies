@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9a0aba393aac4dfbff4333b06c407458002c6183'
+    platform: ETH
 crypto: true
 fiat: false
 id: AC
 id_coinmarketcap: '7382'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7382.png
 name: ACoconut
-platform: ETH
-platform_contract: '0x9a0aba393aac4dfbff4333b06c407458002c6183'

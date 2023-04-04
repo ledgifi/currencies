@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xD283cE7Acd177f7cf6caBB7ce5B11fDA3605659e'
+    platform: BNB
 crypto: true
 fiat: false
 id: ANT1
 id_coinmarketcap: '16473'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16473.png
 name: AnonToken
-platform: BNB
-platform_contract: '0xD283cE7Acd177f7cf6caBB7ce5B11fDA3605659e'

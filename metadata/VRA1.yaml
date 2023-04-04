@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfd70d3cef578ced8350516aa60661d510890bd99'
+    platform: BNB
 crypto: true
 fiat: false
 id: VRA1
 id_coinmarketcap: '18585'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18585.png
 name: Virtual Reality Asset
-platform: BNB
-platform_contract: '0xfd70d3cef578ced8350516aa60661d510890bd99'

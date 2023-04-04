@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x40c9349c4d39d2235ee3f4586e52a55c279058d2'
+    platform: ETH
 crypto: true
 fiat: false
 id: NFC1
 id_coinmarketcap: '5645'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5645.png
 name: Ninfinance
-platform: ETH
-platform_contract: '0x40c9349c4d39d2235ee3f4586e52a55c279058d2'

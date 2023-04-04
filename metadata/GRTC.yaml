@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf0c2d206A56F83879Dd7c64f933C72C86F3A1436'
+    platform: BNB
 crypto: true
 fiat: false
 id: GRTC
 id_coinmarketcap: '20289'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20289.png
 name: Gradecoin
-platform: BNB
-platform_contract: '0xf0c2d206A56F83879Dd7c64f933C72C86F3A1436'

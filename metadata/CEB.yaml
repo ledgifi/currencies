@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x418A931a0Bc28D0d23CE39eB279E82b21a5fA78E'
+    platform: ETH
 crypto: true
 fiat: false
 id: CEB
 id_coinmarketcap: '22237'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22237.png
 name: Cold Chain
-platform: ETH
-platform_contract: '0x418A931a0Bc28D0d23CE39eB279E82b21a5fA78E'

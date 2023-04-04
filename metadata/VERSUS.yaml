@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc3E49c20C841d6e0B2a1CCBBc5F29A64e068B25f'
+    platform: BNB
 crypto: true
 fiat: false
 id: VERSUS
 id_coinmarketcap: '14799'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14799.png
 name: Versus Farm
-platform: BNB
-platform_contract: '0xc3E49c20C841d6e0B2a1CCBBc5F29A64e068B25f'

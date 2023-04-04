@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x822b906e74d493d07223cf6858620ccda66b2154'
+    platform: AVAX
 crypto: true
 fiat: false
 id: RLOOP
 id_coinmarketcap: '19972'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19972.png
 name: rLoop
-platform: AVAX
-platform_contract: '0x822b906e74d493d07223cf6858620ccda66b2154'

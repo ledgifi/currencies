@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3907e6ff436e2b2B05D6B929fb05F14c0ee18d90'
+    platform: ETH
 crypto: true
 fiat: false
 id: KAMPAY
 id_coinmarketcap: '11329'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11329.png
 name: KamPay
-platform: ETH
-platform_contract: '0x3907e6ff436e2b2B05D6B929fb05F14c0ee18d90'

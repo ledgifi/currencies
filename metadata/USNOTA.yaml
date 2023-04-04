@@ -1,8 +1,9 @@
+contracts:
+  - address: xdcd04275e2fd2875beaade6a80b39a75d4fe267df6
+    platform: XDC
 crypto: true
 fiat: false
 id: USNOTA
 id_coinmarketcap: '16081'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16081.png
 name: USNOTA
-platform: XDC
-platform_contract: xdcd04275e2fd2875beaade6a80b39a75d4fe267df6

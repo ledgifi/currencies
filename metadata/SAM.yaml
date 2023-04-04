@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x31E6F0276982f6Fb4049D873049bc855f2eE65E7'
+    platform: CHZ
 crypto: true
 fiat: false
 id: SAM
 id_coinmarketcap: '14020'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14020.png
 name: Samsunspor Fan Token
-platform: CHZ
-platform_contract: '0x31E6F0276982f6Fb4049D873049bc855f2eE65E7'

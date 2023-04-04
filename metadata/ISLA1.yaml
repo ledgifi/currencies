@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x20a68f9e34076b2dc15ce726d7eebb83b694702d'
+    platform: ETH
 crypto: true
 fiat: false
 id: ISLA1
 id_coinmarketcap: '14039'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14039.png
 name: Defiville
-platform: ETH
-platform_contract: '0x20a68f9e34076b2dc15ce726d7eebb83b694702d'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x195e3087ea4d7eec6e9c37e9640162Fe32433D5e'
+    platform: BNB
 crypto: true
 fiat: false
 id: $ALTI
 id_coinmarketcap: '21303'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21303.png
 name: Altimatum
-platform: BNB
-platform_contract: '0x195e3087ea4d7eec6e9c37e9640162Fe32433D5e'

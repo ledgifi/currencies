@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x65e6b60ea01668634d68d0513fe814679f925bad'
+    platform: ETH
 crypto: true
 fiat: false
 id: PIXEL
 id_coinmarketcap: '12279'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12279.png
 name: PixelVerse
-platform: ETH
-platform_contract: '0x65e6b60ea01668634d68d0513fe814679f925bad'

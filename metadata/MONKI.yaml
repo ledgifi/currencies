@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb813939458aa42ca57b870bef4bec24945adda6d'
+    platform: BNB
 crypto: true
 fiat: false
 id: MONKI
 id_coinmarketcap: '9881'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9881.png
 name: MONKI NETWORK
-platform: BNB
-platform_contract: '0xb813939458aa42ca57b870bef4bec24945adda6d'

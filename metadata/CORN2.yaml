@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3080ec2a6960432f179c66d388099a48e82e2047'
+    platform: ETH
 crypto: true
 fiat: false
 id: CORN2
 id_coinmarketcap: '6818'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6818.png
 name: Popcorn
-platform: ETH
-platform_contract: '0x3080ec2a6960432f179c66d388099a48e82e2047'

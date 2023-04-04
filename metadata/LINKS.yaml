@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaffeabc20b2cafa80d2d7ff220ad37e4ec7541d7'
+    platform: BNB
 crypto: true
 fiat: false
 id: LINKS
 id_coinmarketcap: '15661'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15661.png
 name: LINKS Token
-platform: BNB
-platform_contract: '0xaffeabc20b2cafa80d2d7ff220ad37e4ec7541d7'

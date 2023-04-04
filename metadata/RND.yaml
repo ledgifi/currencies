@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1c7e83f8c581a967940dbfa7984744646ae46b29'
+    platform: ETH
 crypto: true
 fiat: false
 id: RND
 id_coinmarketcap: '18760'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18760.png
 name: random
-platform: ETH
-platform_contract: '0x1c7e83f8c581a967940dbfa7984744646ae46b29'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4DF812F6064def1e5e029f1ca858777CC98D2D81'
+    platform: ETH
 crypto: true
 fiat: false
 id: XAUR
 id_coinmarketcap: '895'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/895.png
 name: Xaurum
-platform: ETH
-platform_contract: '0x4DF812F6064def1e5e029f1ca858777CC98D2D81'

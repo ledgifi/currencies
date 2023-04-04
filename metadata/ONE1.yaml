@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x946551dd05c5abd7cc808927480225ce36d8c475'
+    platform: ETH
 crypto: true
 fiat: false
 id: ONE1
 id_coinmarketcap: '2324'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2324.png
 name: BigONE Token
-platform: ETH
-platform_contract: '0x946551dd05c5abd7cc808927480225ce36d8c475'

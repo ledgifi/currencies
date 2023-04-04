@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x950481789959cd6D77F1b88C2e1F61e30608c4E2'
+    platform: BNB
 crypto: true
 fiat: false
 id: KALI
 id_coinmarketcap: '19622'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19622.png
 name: Kalissa
-platform: BNB
-platform_contract: '0x950481789959cd6D77F1b88C2e1F61e30608c4E2'

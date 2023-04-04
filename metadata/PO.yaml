@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb9218e62ec3216461d3d5147e7b37973d0ebd20a'
+    platform: BNB
 crypto: true
 fiat: false
 id: PO
 id_coinmarketcap: '14464'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14464.png
 name: PlayersOnly
-platform: BNB
-platform_contract: '0xb9218e62ec3216461d3d5147e7b37973d0ebd20a'

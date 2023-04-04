@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB1731E5e035CB039298159EcB191cB3fe666Dd0e'
+    platform: BNB
 crypto: true
 fiat: false
 id: FEED2
 id_coinmarketcap: '9793'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9793.png
 name: FEED Token
-platform: BNB
-platform_contract: '0xB1731E5e035CB039298159EcB191cB3fe666Dd0e'

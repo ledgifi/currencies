@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xca469963a030a3670ed76832a6a181d280af108d'
+    platform: MATIC
 crypto: true
 fiat: false
 id: pNAUT
 id_coinmarketcap: '12723'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12723.png
 name: Astronaut (Polygon)
-platform: MATIC
-platform_contract: '0xca469963a030a3670ed76832a6a181d280af108d'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfc4f5a4d1452b8dc6c3cb745db15b29c00812b19'
+    platform: BNB
 crypto: true
 fiat: false
 id: ORO
 id_coinmarketcap: '14950'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14950.png
 name: Operon Origins
-platform: BNB
-platform_contract: '0xfc4f5a4d1452b8dc6c3cb745db15b29c00812b19'

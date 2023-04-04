@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x251457b7c5d85251ca1ab384361c821330be2520'
+    platform: ETH
 crypto: true
 fiat: false
 id: HATI
@@ -5,5 +8,3 @@ id_coinmarketcap: '22755'
 id_nomics: HATI
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22755.png
 name: HATI
-platform: ETH
-platform_contract: '0x251457b7c5d85251ca1ab384361c821330be2520'

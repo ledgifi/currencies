@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30'
+    platform: AVAX
 crypto: true
 fiat: false
 id: DCAU
 id_coinmarketcap: '14397'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14397.png
 name: Dragon Crypto Aurum
-platform: AVAX
-platform_contract: '0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30'

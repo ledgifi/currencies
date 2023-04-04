@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x57534804B9485209A2FC55698a0F2112AE389342'
+    platform: BNB
 crypto: true
 fiat: false
 id: HK1
 id_coinmarketcap: '23554'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23554.png
 name: Hongkong
-platform: BNB
-platform_contract: '0x57534804B9485209A2FC55698a0F2112AE389342'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x607C794cDa77efB21F8848B7910ecf27451Ae842'
+    platform: ETH
 crypto: true
 fiat: false
 id: PIE1
 id_coinmarketcap: '6243'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6243.png
 name: DeFiPie
-platform: ETH
-platform_contract: '0x607C794cDa77efB21F8848B7910ecf27451Ae842'

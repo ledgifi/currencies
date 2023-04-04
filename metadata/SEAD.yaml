@@ -1,8 +1,9 @@
+contracts:
+  - address: TXRGogRxEXVnVrQNtcayTL6zXw8fC37hbQ
+    platform: TRX
 crypto: true
 fiat: false
 id: SEAD
 id_coinmarketcap: '11830'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11830.png
 name: SeaDog Finance
-platform: TRX
-platform_contract: TXRGogRxEXVnVrQNtcayTL6zXw8fC37hbQ

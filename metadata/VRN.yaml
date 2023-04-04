@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x72377f31e30a405282b522d588aebbea202b4f23'
+    platform: ETH
 crypto: true
 fiat: false
 id: VRN
 id_coinmarketcap: '11676'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11676.png
 name: Varen
-platform: ETH
-platform_contract: '0x72377f31e30a405282b522d588aebbea202b4f23'

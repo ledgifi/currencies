@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcc503242b574bc01145da7e2a743b43fb395ec91'
+    platform: ETH
 crypto: true
 fiat: false
 id: ROVI
 id_coinmarketcap: '21006'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21006.png
 name: ROVI
-platform: ETH
-platform_contract: '0xcc503242b574bc01145da7e2a743b43fb395ec91'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x662b67d00a13faf93254714dd601f5ed49ef2f51'
+    platform: ETH
 crypto: true
 fiat: false
 id: ORC
 id_coinmarketcap: '5326'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5326.png
 name: Orbit Chain
-platform: ETH
-platform_contract: '0x662b67d00a13faf93254714dd601f5ed49ef2f51'

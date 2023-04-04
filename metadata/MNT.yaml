@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc7c36ee729968944a86e0cd504deccd3b0edbae1'
+    platform: ETH
 crypto: true
 fiat: false
 id: MNT
 id_coinmarketcap: '21995'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21995.png
 name: microNFT
-platform: ETH
-platform_contract: '0xc7c36ee729968944a86e0cd504deccd3b0edbae1'

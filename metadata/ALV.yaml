@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x744c9c36d1cc3268a4b9b2e28c60b1752c85e97d'
+    platform: ETH
 crypto: true
 fiat: false
 id: ALV
 id_coinmarketcap: '3959'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3959.png
 name: ALLUVA
-platform: ETH
-platform_contract: '0x744c9c36d1cc3268a4b9b2e28c60b1752c85e97d'

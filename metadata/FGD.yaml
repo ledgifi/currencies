@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0566B9a8fFb8908682796751EEd00722da967Be0'
+    platform: BNB
 crypto: true
 fiat: false
 id: FGD
 id_coinmarketcap: '19413'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19413.png
 name: Freedom God Dao
-platform: BNB
-platform_contract: '0x0566B9a8fFb8908682796751EEd00722da967Be0'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x01cc4151fe5f00efb8df2f90ff833725d3a482a3'
+    platform: ETH
 crypto: true
 fiat: false
 id: SPT1
 id_coinmarketcap: '3777'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3777.png
 name: Spectrum
-platform: ETH
-platform_contract: '0x01cc4151fe5f00efb8df2f90ff833725d3a482a3'

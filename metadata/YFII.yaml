@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: YFII
 logo: https://bin.bnbstatic.com/images/20200901/345109e0-723a-4c25-9016-fc69ea4b141e.png
 logoKey: currencies/yfii.png
 name: DFI.Money
-platform: ETH
-platform_contract: '0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfc64c0adf4a08008e3fa2bf9c03540032b1c8288'
+    platform: ETH
 crypto: true
 fiat: false
 id: G9TRO
 id_coinmarketcap: '9594'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9594.png
 name: g9tro Crowdfunding Platform
-platform: ETH
-platform_contract: '0xfc64c0adf4a08008e3fa2bf9c03540032b1c8288'

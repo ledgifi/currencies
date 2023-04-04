@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x594B8D6B0fA22683b991AECfa7b489731b6ae916'
+    platform: BNB
 crypto: true
 fiat: false
 id: MFY
 id_coinmarketcap: '21574'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21574.png
 name: MetaFooty
-platform: BNB
-platform_contract: '0x594B8D6B0fA22683b991AECfa7b489731b6ae916'

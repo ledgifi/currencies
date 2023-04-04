@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x34F0915a5f15a66Eba86F6a58bE1A471FB7836A7'
+    platform: ETH
 crypto: true
 fiat: false
 id: PLSD
 id_coinmarketcap: '21285'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21285.png
 name: PulseDogecoin
-platform: ETH
-platform_contract: '0x34F0915a5f15a66Eba86F6a58bE1A471FB7836A7'

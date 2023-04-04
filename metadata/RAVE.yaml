@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x88888a335b1f65a79ec56a610d865b8b25b6060b'
+    platform: FTM
 crypto: true
 fiat: false
 id: RAVE
 id_coinmarketcap: '23324'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23324.png
 name: Rave Names
-platform: FTM
-platform_contract: '0x88888a335b1f65a79ec56a610d865b8b25b6060b'

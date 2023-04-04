@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x7251c7a2155d8fedb42a1dc4333ade589e4d6919'
+    platform: BNB
 crypto: true
 fiat: false
 id: LMN
@@ -6,5 +9,3 @@ id_nomics: LMN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LMN.png
 logoKey: currencies/lmn.png
 name: Lemonn
-platform: BNB
-platform_contract: '0x7251c7a2155d8fedb42a1dc4333ade589e4d6919'

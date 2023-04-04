@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x58fcAa970339a9b1f8c0a5b4F3Fcd7af2bA3075E'
+    platform: ETH
 crypto: true
 fiat: false
 id: POLAR
 id_coinmarketcap: '11540'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11540.png
 name: Polar Sync
-platform: ETH
-platform_contract: '0x58fcAa970339a9b1f8c0a5b4F3Fcd7af2bA3075E'

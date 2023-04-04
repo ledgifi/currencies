@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2f625713D80bd14d2ABa2E902d5739270Fd8C81b'
+    platform: BNB
 crypto: true
 fiat: false
 id: PXDOGE
 id_coinmarketcap: '22345'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22345.png
 name: Pixel Doge
-platform: BNB
-platform_contract: '0x2f625713D80bd14d2ABa2E902d5739270Fd8C81b'

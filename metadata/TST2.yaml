@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x12aa33065edf46d41e42945046aae8a6f5c1622f'
+    platform: BNB
 crypto: true
 fiat: false
 id: TST2
 id_coinmarketcap: '21573'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21573.png
 name: The Sprint Token
-platform: BNB
-platform_contract: '0x12aa33065edf46d41e42945046aae8a6f5c1622f'

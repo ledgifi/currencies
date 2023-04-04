@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x396cb285a01d46862822f861ced586034a128bb0'
+    platform: BNB
 crypto: true
 fiat: false
 id: PLANETVERSE
 id_coinmarketcap: '14617'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14617.png
 name: PlanetVerse
-platform: BNB
-platform_contract: '0x396cb285a01d46862822f861ced586034a128bb0'

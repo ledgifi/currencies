@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x799e1cf88a236e42b4a87c544a22a94ae95a6910'
+    platform: BNB
 crypto: true
 fiat: false
 id: MCONTENT
 id_coinmarketcap: '10954'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10954.png
 name: MContent
-platform: BNB
-platform_contract: '0x799e1cf88a236e42b4a87c544a22a94ae95a6910'

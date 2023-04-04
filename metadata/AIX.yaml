@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1063ce524265d5a3a624f4914acd573dd89ce988'
+    platform: ETH
 crypto: true
 fiat: false
 id: AIX
 id_coinmarketcap: '2367'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2367.png
 name: Aigang
-platform: ETH
-platform_contract: '0x1063ce524265d5a3a624f4914acd573dd89ce988'

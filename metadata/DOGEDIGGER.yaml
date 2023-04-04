@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcE18eAe0303a0F285f99A345f39819b15833266b'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOGEDIGGER
 id_coinmarketcap: '21016'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21016.png
 name: Doge Digger
-platform: BNB
-platform_contract: '0xcE18eAe0303a0F285f99A345f39819b15833266b'

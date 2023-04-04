@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4612021c75809160be60db21fbc9d6add0b32def'
+    platform: ETH
 crypto: true
 fiat: false
 id: BCP
 id_coinmarketcap: '11338'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11338.png
 name: Block Commerce Protocol
-platform: ETH
-platform_contract: '0x4612021c75809160be60db21fbc9d6add0b32def'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe15b6cc249af44f2057f85a609285519a318f2ff'
+    platform: KLAY
 crypto: true
 fiat: false
 id: LEMC
 id_coinmarketcap: '19632'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19632.png
 name: LEMONCHAIN
-platform: KLAY
-platform_contract: '0xe15b6cc249af44f2057f85a609285519a318f2ff'

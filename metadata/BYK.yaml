@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc57612d32c970c2279539ab4c017bc9e66f17e82'
+    platform: BNB
 crypto: true
 fiat: false
 id: BYK
 id_coinmarketcap: '17165'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17165.png
 name: Byakko
-platform: BNB
-platform_contract: '0xc57612d32c970c2279539ab4c017bc9e66f17e82'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd45247c07379d94904e0a87b4481f0a1ddfa0c64'
+    platform: ETH
 crypto: true
 fiat: false
 id: BCZERO
 id_coinmarketcap: '3415'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3415.png
 name: Buggyra Coin Zero
-platform: ETH
-platform_contract: '0xd45247c07379d94904e0a87b4481f0a1ddfa0c64'

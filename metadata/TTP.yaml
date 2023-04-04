@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x38f22479795a1A51Ccd1E5A41F09C7525fb27318'
+    platform: ETH
 crypto: true
 fiat: false
 id: TTP
 id_coinmarketcap: '4625'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4625.png
 name: Trent
-platform: ETH
-platform_contract: '0x38f22479795a1A51Ccd1E5A41F09C7525fb27318'

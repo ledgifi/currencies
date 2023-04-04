@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5066c68cae3b9bdacd6a1a37c90f2d1723559d18'
+    platform: BNB
 crypto: true
 fiat: false
 id: WIZARD
 id_coinmarketcap: '10960'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10960.png
 name: WIZARD
-platform: BNB
-platform_contract: '0x5066c68cae3b9bdacd6a1a37c90f2d1723559d18'

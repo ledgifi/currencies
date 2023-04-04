@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf7e40af830a2ecbfe72c5210c1ca272e3aa7ca1b'
+    platform: ETH
 crypto: true
 fiat: false
 id: CTPL
 id_coinmarketcap: '14796'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14796.png
 name: Cultiplan(CTPL)
-platform: ETH
-platform_contract: '0xf7e40af830a2ecbfe72c5210c1ca272e3aa7ca1b'

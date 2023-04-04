@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4b94c8567763654101f690cf4d54957206383b75'
+    platform: ETH
 crypto: true
 fiat: false
 id: NASH
 id_coinmarketcap: '3867'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3867.png
 name: NeoWorld Cash
-platform: ETH
-platform_contract: '0x4b94c8567763654101f690cf4d54957206383b75'

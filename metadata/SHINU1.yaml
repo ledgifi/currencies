@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe6fe0258d182a88931b7fe32d6f80042f122d066'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHINU1
 id_coinmarketcap: '21164'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21164.png
 name: SHINU
-platform: ETH
-platform_contract: '0xe6fe0258d182a88931b7fe32d6f80042f122d066'

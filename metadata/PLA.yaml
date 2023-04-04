@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x3a4f40631a4f906c2BaD353Ed06De7A5D3fCb430'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: PLA3
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20211123/57140f25-ef37-4e1f-bf26-a7688a0c057a.png
 logoKey: currencies/pla.png
 name: PlayDapp
-platform: ETH
-platform_contract: '0x3a4f40631a4f906c2BaD353Ed06De7A5D3fCb430'

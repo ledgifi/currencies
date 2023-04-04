@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcc1f757e3fa67b70e761c71f4b75b1e9f72263af'
+    platform: ETH
 crypto: true
 fiat: false
 id: GET1
 id_coinmarketcap: '21746'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21746.png
 name: GET
-platform: ETH
-platform_contract: '0xcc1f757e3fa67b70e761c71f4b75b1e9f72263af'

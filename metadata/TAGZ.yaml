@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5d8cE06A40fB101895bE5b6560931b92a1b3444F'
+    platform: ETH
 crypto: true
 fiat: false
 id: TAGZ
 id_coinmarketcap: '3999'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3999.png
 name: TAGZ
-platform: ETH
-platform_contract: '0x5d8cE06A40fB101895bE5b6560931b92a1b3444F'

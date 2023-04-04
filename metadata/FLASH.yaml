@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB1f1F47061A7Be15C69f378CB3f69423bD58F2F8'
+    platform: ETH
 crypto: true
 fiat: false
 id: FLASH
 id_coinmarketcap: '8627'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8627.png
 name: Flashstake
-platform: ETH
-platform_contract: '0xB1f1F47061A7Be15C69f378CB3f69423bD58F2F8'

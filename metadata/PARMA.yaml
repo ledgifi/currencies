@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf7f0dc9fd88e436847580d883319137ec2aa6b94'
+    platform: BNB
 crypto: true
 fiat: false
 id: PARMA
 id_coinmarketcap: '23536'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23536.png
 name: PARMA Fan Token
-platform: BNB
-platform_contract: '0xf7f0dc9fd88e436847580d883319137ec2aa6b94'

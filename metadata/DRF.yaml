@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9400aa8eb5126d20cde45c7822836bfb70f19878'
+    platform: BNB
 crypto: true
 fiat: false
 id: DRF
 id_coinmarketcap: '10889'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10889.png
 name: DRIFE
-platform: BNB
-platform_contract: '0x9400aa8eb5126d20cde45c7822836bfb70f19878'

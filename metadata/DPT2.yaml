@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9f2edddd4a562446b1d2c144d8dd1da494e34707'
+    platform: BNB
 crypto: true
 fiat: false
 id: DPT2
 id_coinmarketcap: '17113'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17113.png
 name: DP Token
-platform: BNB
-platform_contract: '0x9f2edddd4a562446b1d2c144d8dd1da494e34707'

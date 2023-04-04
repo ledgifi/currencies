@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xde87b96fb2b0b6b492dc1c9b228a7c71ffba40fb'
+    platform: BNB
 crypto: true
 fiat: false
 id: BABYSHIB
 id_coinmarketcap: '10886'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10886.png
 name: BabyShibby Inu
-platform: BNB
-platform_contract: '0xde87b96fb2b0b6b492dc1c9b228a7c71ffba40fb'

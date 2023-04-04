@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xee7527841a932d2912224e20a405e1a1ff747084'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHX
 id_coinmarketcap: '3661'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3661.png
 name: Stronghold Token
-platform: ETH
-platform_contract: '0xee7527841a932d2912224e20a405e1a1ff747084'

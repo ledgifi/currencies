@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x011c5c4e4a86fc95a7a6d5c49a69cdf0cb1d0467'
+    platform: ETH
 crypto: true
 fiat: false
 id: HKC1
 id_coinmarketcap: '15016'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15016.png
 name: HK Coin
-platform: ETH
-platform_contract: '0x011c5c4e4a86fc95a7a6d5c49a69cdf0cb1d0467'

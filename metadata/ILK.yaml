@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf784682c82526e245f50975190ef0fff4e4fc077'
+    platform: ETH
 crypto: true
 fiat: false
 id: ILK
 id_coinmarketcap: '4754'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4754.png
 name: INLOCK
-platform: ETH
-platform_contract: '0xf784682c82526e245f50975190ef0fff4e4fc077'

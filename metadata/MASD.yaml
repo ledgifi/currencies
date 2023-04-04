@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfcc92ae68facbDb6372fce8fBCaCC08b67f8A744'
+    platform: BNB
 crypto: true
 fiat: false
 id: MASD
 id_coinmarketcap: '17404'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17404.png
 name: MASD.GAMES
-platform: BNB
-platform_contract: '0xfcc92ae68facbDb6372fce8fBCaCC08b67f8A744'

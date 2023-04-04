@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9C50C41a0Ec012173B49b587C5f52C0e247dE250'
+    platform: BNB
 crypto: true
 fiat: false
 id: SET2
 id_coinmarketcap: '22823'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22823.png
 name: Setter Protocol
-platform: BNB
-platform_contract: '0x9C50C41a0Ec012173B49b587C5f52C0e247dE250'

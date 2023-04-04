@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xedadeb5faa413e6c8623461849dfd0b7c3790c32'
+    platform: ETH
 crypto: true
 fiat: false
 id: OBOT
 id_coinmarketcap: '9590'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9590.png
 name: Obortech
-platform: ETH
-platform_contract: '0xedadeb5faa413e6c8623461849dfd0b7c3790c32'

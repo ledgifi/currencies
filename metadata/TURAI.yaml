@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc4663f169aafb1d4506ce189d63810e24a8b63ea'
+    platform: ARB
 crypto: true
 fiat: false
 id: TURAI
 id_coinmarketcap: '23943'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23943.png
 name: Turismo AI
-platform: ARB
-platform_contract: '0xc4663f169aafb1d4506ce189d63810e24a8b63ea'

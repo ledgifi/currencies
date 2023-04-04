@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x171401a3d18b21bfa3f9bf4f9637f3691158365a'
+    platform: BNB
 crypto: true
 fiat: false
 id: LABO
 id_coinmarketcap: '9312'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9312.png
 name: The Lab Finance
-platform: BNB
-platform_contract: '0x171401a3d18b21bfa3f9bf4f9637f3691158365a'

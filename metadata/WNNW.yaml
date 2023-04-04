@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa1578daf3eeb1accc3767c687cd5a0d9df8b20cb'
+    platform: BNB
 crypto: true
 fiat: false
 id: WNNW
 id_coinmarketcap: '15531'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15531.png
 name: WinNow
-platform: BNB
-platform_contract: '0xa1578daf3eeb1accc3767c687cd5a0d9df8b20cb'

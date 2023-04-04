@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbe1c4aca222d23bb877566de091d77e870abc3bd'
+    platform: BNB
 crypto: true
 fiat: false
 id: BBZ
 id_coinmarketcap: '22454'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22454.png
 name: BomberZilla
-platform: BNB
-platform_contract: '0xbe1c4aca222d23bb877566de091d77e870abc3bd'

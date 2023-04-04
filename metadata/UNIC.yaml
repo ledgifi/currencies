@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x94E0BAb2F6Ab1F19F4750E42d7349f2740513aD5'
+    platform: ETH
 crypto: true
 fiat: false
 id: UNIC
 id_coinmarketcap: '9998'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9998.png
 name: Unicly
-platform: ETH
-platform_contract: '0x94E0BAb2F6Ab1F19F4750E42d7349f2740513aD5'

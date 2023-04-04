@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x53035E4e14fb3f82C02357B35d5cC0C5b53928B4'
+    platform: BNB
 crypto: true
 fiat: false
 id: TERK
 id_coinmarketcap: '16723'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16723.png
 name: Terkehh
-platform: BNB
-platform_contract: '0x53035E4e14fb3f82C02357B35d5cC0C5b53928B4'

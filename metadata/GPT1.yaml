@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa00425d3e2d3e9ff74f3e112b4d3a7978d7d88c2'
+    platform: ETH
 crypto: true
 fiat: false
 id: GPT1
 id_coinmarketcap: '3818'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3818.png
 name: GoPower
-platform: ETH
-platform_contract: '0xa00425d3e2d3e9ff74f3e112b4d3a7978d7d88c2'

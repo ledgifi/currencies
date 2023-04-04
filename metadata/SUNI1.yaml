@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd5e3e1e39a5c57f27f8890d8b91e05039f6bace7'
+    platform: BNB
 crypto: true
 fiat: false
 id: SUNI1
 id_coinmarketcap: '11274'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11274.png
 name: StarbaseUniverse
-platform: BNB
-platform_contract: '0xd5e3e1e39a5c57f27f8890d8b91e05039f6bace7'

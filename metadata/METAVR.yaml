@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x04795df826626b7762a91c055a08f101b647cede'
+    platform: BNB
 crypto: true
 fiat: false
 id: METAVR
 id_coinmarketcap: '20313'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20313.png
 name: Metarea VR
-platform: BNB
-platform_contract: '0x04795df826626b7762a91c055a08f101b647cede'

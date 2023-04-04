@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd5f788ca0de8f17cbde1d1e35aa8f005a87fa00b'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHVR
 id_coinmarketcap: '3645'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3645.png
 name: Shivers
-platform: ETH
-platform_contract: '0xd5f788ca0de8f17cbde1d1e35aa8f005a87fa00b'

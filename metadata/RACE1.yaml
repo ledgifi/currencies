@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x43bdA2973141F4B0A17e9C389E2b75DBc8C9fDed'
+    platform: BNB
 crypto: true
 fiat: false
 id: RACE1
 id_coinmarketcap: '20074'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20074.png
 name: Race.Top
-platform: BNB
-platform_contract: '0x43bdA2973141F4B0A17e9C389E2b75DBc8C9fDed'

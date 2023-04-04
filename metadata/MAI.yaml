@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE045fc25581cfdC3CFb5c282501f3CD1A133A7ec'
+    platform: BNB
 crypto: true
 fiat: false
 id: MAI
 id_coinmarketcap: '23622'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23622.png
 name: Matrix Gpt Ai
-platform: BNB
-platform_contract: '0xE045fc25581cfdC3CFb5c282501f3CD1A133A7ec'

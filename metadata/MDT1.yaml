@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1b26a7e4d27ace6ba3bc82d5d1b26fb2d8616de0'
+    platform: KLAY
 crypto: true
 fiat: false
 id: MDT1
 id_coinmarketcap: '22876'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22876.png
 name: Meta Dance
-platform: KLAY
-platform_contract: '0x1b26a7e4d27ace6ba3bc82d5d1b26fb2d8616de0'

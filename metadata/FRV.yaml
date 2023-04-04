@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x48df4e0296f908ceab0428a5182d19b31fc037d6'
+    platform: ETH
 crypto: true
 fiat: false
 id: FRV
 id_coinmarketcap: '2730'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2730.png
 name: Fitrova
-platform: ETH
-platform_contract: '0x48df4e0296f908ceab0428a5182d19b31fc037d6'

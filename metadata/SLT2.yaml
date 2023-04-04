@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x851017523ae205adc9195e7f97d029f4cfe7794c'
+    platform: ETH
 crypto: true
 fiat: false
 id: SLT2
 id_coinmarketcap: '3117'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3117.png
 name: Social Lending Token
-platform: ETH
-platform_contract: '0x851017523ae205adc9195e7f97d029f4cfe7794c'

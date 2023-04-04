@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbc0b35bfefcc3d91ea782d93eb5b82cb11cad7a0'
+    platform: BNB
 crypto: true
 fiat: false
 id: THUNDRR
 id_coinmarketcap: '13335'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13335.png
 name: Thunder Run
-platform: BNB
-platform_contract: '0xbc0b35bfefcc3d91ea782d93eb5b82cb11cad7a0'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x336173dbc692d735acc2fb7920c9af3ecf812c5b'
+    platform: BNB
 crypto: true
 fiat: false
 id: PESSY
 id_coinmarketcap: '15600'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15600.png
 name: P.Ness Monster
-platform: BNB
-platform_contract: '0x336173dbc692d735acc2fb7920c9af3ecf812c5b'

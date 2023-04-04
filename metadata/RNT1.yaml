@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x943c82df8e7d1ccf2bbb21d7cbd6edf68a88ea76'
+    platform: BNB
 crypto: true
 fiat: false
 id: RNT1
 id_coinmarketcap: '20525'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20525.png
 name: Runnect Finance
-platform: BNB
-platform_contract: '0x943c82df8e7d1ccf2bbb21d7cbd6edf68a88ea76'

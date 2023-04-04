@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x55E73e5580df9035F8E490AF086d58c5CEec423e'
+    platform: BNB
 crypto: true
 fiat: false
 id: ECG1
 id_coinmarketcap: '21175'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21175.png
 name: EcoSmart
-platform: BNB
-platform_contract: '0x55E73e5580df9035F8E490AF086d58c5CEec423e'

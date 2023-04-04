@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0d36cc179019db9a65aa3b85db59e4bb52df0b12'
+    platform: BNB
 crypto: true
 fiat: false
 id: SCB
 id_coinmarketcap: '8713'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8713.png
 name: Space Cow Boy
-platform: BNB
-platform_contract: '0x0d36cc179019db9a65aa3b85db59e4bb52df0b12'

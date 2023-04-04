@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb0e1fc65c1a741b4662b813eb787d369b8614af1'
+    platform: ETH
 crypto: true
 fiat: false
 id: IF
 id_coinmarketcap: '10932'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10932.png
 name: Impossible Finance
-platform: ETH
-platform_contract: '0xb0e1fc65c1a741b4662b813eb787d369b8614af1'

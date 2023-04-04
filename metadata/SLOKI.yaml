@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf7bf4507336aea836ab5575ec1801d96c3059483'
+    platform: BNB
 crypto: true
 fiat: false
 id: SLOKI
 id_coinmarketcap: '10868'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10868.png
 name: Super Floki
-platform: BNB
-platform_contract: '0xf7bf4507336aea836ab5575ec1801d96c3059483'

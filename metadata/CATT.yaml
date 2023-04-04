@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6e605c269e0c92e70beeb85486f1fc550f9380bd'
+    platform: ETH
 crypto: true
 fiat: false
 id: CATT
 id_coinmarketcap: '4045'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4045.png
 name: Catex Token
-platform: ETH
-platform_contract: '0x6e605c269e0c92e70beeb85486f1fc550f9380bd'

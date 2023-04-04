@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc544d8ab2b5ed395b96e3ec87462801eca579ae1'
+    platform: BNB
 crypto: true
 fiat: false
 id: SFO
 id_coinmarketcap: '20610'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20610.png
 name: StarFish OS
-platform: BNB
-platform_contract: '0xc544d8ab2b5ed395b96e3ec87462801eca579ae1'

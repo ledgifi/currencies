@@ -1,8 +1,9 @@
+contracts:
+  - address: TG3XANY34mpabHM2DNc5ajhjMJVUQU741Y
+    platform: TRX
 crypto: true
 fiat: false
 id: EFT3
 id_coinmarketcap: '8851'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8851.png
 name: EFT.finance
-platform: TRX
-platform_contract: TG3XANY34mpabHM2DNc5ajhjMJVUQU741Y

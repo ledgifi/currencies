@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x201Ec81532FcA95fbb45204d6764d1a9Eed08856'
+    platform: BNB
 crypto: true
 fiat: false
 id: $NEXUS
 id_coinmarketcap: '12792'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12792.png
 name: Nexus Crypto Services
-platform: BNB
-platform_contract: '0x201Ec81532FcA95fbb45204d6764d1a9Eed08856'

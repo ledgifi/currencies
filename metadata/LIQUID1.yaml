@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x72ca0501427bb8f089c1c4f767cb17d017e803a9'
+    platform: ETH
 crypto: true
 fiat: false
 id: LIQUID1
 id_coinmarketcap: '7650'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7650.png
 name: LIQUID
-platform: ETH
-platform_contract: '0x72ca0501427bb8f089c1c4f767cb17d017e803a9'

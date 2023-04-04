@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa750771CbDc5e52D0B3233ECf007C690889c0127'
+    platform: BNB
 crypto: true
 fiat: false
 id: HORN
 id_coinmarketcap: '15637'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15637.png
 name: BuffaloSwap HORN
-platform: BNB
-platform_contract: '0xa750771CbDc5e52D0B3233ECf007C690889c0127'

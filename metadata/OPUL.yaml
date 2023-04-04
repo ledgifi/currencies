@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x80d55c03180349fff4a229102f62328220a96444'
+    platform: ETH
 crypto: true
 fiat: false
 id: OPUL
@@ -6,5 +9,3 @@ id_nomics: OPUL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OPUL.jpg
 logoKey: currencies/opul.jpg
 name: Opulous
-platform: ETH
-platform_contract: '0x80d55c03180349fff4a229102f62328220a96444'

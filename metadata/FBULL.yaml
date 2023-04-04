@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE0d9A952346f6Cbe11a0A2b058d7165Cbf3b5dF3'
+    platform: BNB
 crypto: true
 fiat: false
 id: FBULL
 id_coinmarketcap: '9003'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9003.png
 name: FireBull Finance
-platform: BNB
-platform_contract: '0xE0d9A952346f6Cbe11a0A2b058d7165Cbf3b5dF3'

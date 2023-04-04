@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x225927f8fa71d16ee07968b8746364d1d9f839bd'
+    platform: ETH
 crypto: true
 fiat: false
 id: BTCF
 id_coinmarketcap: '4141'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4141.png
 name: Bitcoin Fast
-platform: ETH
-platform_contract: '0x225927f8fa71d16ee07968b8746364d1d9f839bd'

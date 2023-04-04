@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB92c5e0135A510A4a3A8803F143d2Cb085BBAf73'
+    platform: BNB
 crypto: true
 fiat: false
 id: MTVT
 id_coinmarketcap: '15974'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15974.png
 name: Metaverser
-platform: BNB
-platform_contract: '0xB92c5e0135A510A4a3A8803F143d2Cb085BBAf73'

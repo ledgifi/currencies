@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5a705745373a780814c379ef17810630d529efe0'
+    platform: ETH
 crypto: true
 fiat: false
 id: SENPAI
 id_coinmarketcap: '9242'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9242.png
 name: SENPAI
-platform: ETH
-platform_contract: '0x5a705745373a780814c379ef17810630d529efe0'

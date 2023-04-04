@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x09D9963def672B1D4bE8f1BC0Ec1D3F30b380F5e'
+    platform: BNB
 crypto: true
 fiat: false
 id: SC3
 id_coinmarketcap: '16657'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16657.png
 name: Silver Coin
-platform: BNB
-platform_contract: '0x09D9963def672B1D4bE8f1BC0Ec1D3F30b380F5e'

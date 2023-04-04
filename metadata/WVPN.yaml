@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9d58be3a935a269d7423d8c027532b7f44dcee2a'
+    platform: BNB
 crypto: true
 fiat: false
 id: WVPN
 id_coinmarketcap: '23136'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23136.png
 name: Wallet VPN
-platform: BNB
-platform_contract: '0x9d58be3a935a269d7423d8c027532b7f44dcee2a'

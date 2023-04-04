@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7d38315b92d0e7a85b35b2b7fe969b25935619d7'
+    platform: BNB
 crypto: true
 fiat: false
 id: ECOIN
 id_coinmarketcap: '19148'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19148.png
 name: Ecoin Finance
-platform: BNB
-platform_contract: '0x7d38315b92d0e7a85b35b2b7fe969b25935619d7'

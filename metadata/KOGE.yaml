@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe6df05ce8c8301223373cf5b969afcb1498c5528'
+    platform: BNB
 crypto: true
 fiat: false
 id: KOGE
 id_coinmarketcap: '7184'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7184.png
 name: BNB48 Club Token
-platform: BNB
-platform_contract: '0xe6df05ce8c8301223373cf5b969afcb1498c5528'

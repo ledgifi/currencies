@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf53c580bc4065405bc649cc077ff4f2f28528f4b'
+    platform: ETH
 crypto: true
 fiat: false
 id: BWT
 id_coinmarketcap: '2867'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2867.png
 name: Bittwatt
-platform: ETH
-platform_contract: '0xf53c580bc4065405bc649cc077ff4f2f28528f4b'

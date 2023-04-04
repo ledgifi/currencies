@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x9d79d5b61de59d882ce90125b18f74af650acb93'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: NSBT
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210305/dc45afd5-04d8-478e-a334-33016848c294.png
 logoKey: currencies/nsbt.png
 name: Neutrino Token
-platform: ETH
-platform_contract: '0x9d79d5b61de59d882ce90125b18f74af650acb93'

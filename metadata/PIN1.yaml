@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5e8f6244a57f4f6c47daafc14aa0723d2a9f594c'
+    platform: BNB
 crypto: true
 fiat: false
 id: PIN1
 id_coinmarketcap: '17109'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17109.png
 name: Pay It Now
-platform: BNB
-platform_contract: '0x5e8f6244a57f4f6c47daafc14aa0723d2a9f594c'

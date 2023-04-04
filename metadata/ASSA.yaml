@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa25d074d5300f9F997a76994840A3266a72f77E4'
+    platform: BNB
 crypto: true
 fiat: false
 id: ASSA
 id_coinmarketcap: '20112'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20112.png
 name: ASSAPLAY
-platform: BNB
-platform_contract: '0xa25d074d5300f9F997a76994840A3266a72f77E4'

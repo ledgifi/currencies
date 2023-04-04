@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x16CDA4028e9E872a38AcB903176719299beAed87'
+    platform: ETH
 crypto: true
 fiat: false
 id: MARS4
@@ -7,5 +10,3 @@ id_nomics: MARS42
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MARS42.jpg
 logoKey: currencies/mars4.jpg
 name: MARS4
-platform: ETH
-platform_contract: '0x16CDA4028e9E872a38AcB903176719299beAed87'

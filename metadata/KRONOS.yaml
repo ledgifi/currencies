@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbeC68a941feCC79E57762e258fd1490F29235D75'
+    platform: BNB
 crypto: true
 fiat: false
 id: KRONOS
 id_coinmarketcap: '19947'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19947.png
 name: Kronos Dao
-platform: BNB
-platform_contract: '0xbeC68a941feCC79E57762e258fd1490F29235D75'

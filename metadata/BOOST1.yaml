@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4e0fca55a6c3a94720ded91153a27f60e26b9aa8'
+    platform: ETH
 crypto: true
 fiat: false
 id: BOOST1
 id_coinmarketcap: '11216'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11216.png
 name: Boost Coin
-platform: ETH
-platform_contract: '0x4e0fca55a6c3a94720ded91153a27f60e26b9aa8'

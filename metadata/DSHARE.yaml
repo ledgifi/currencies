@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x26d3163b165BE95137CEe97241E716b2791a7572'
+    platform: BNB
 crypto: true
 fiat: false
 id: DSHARE
 id_coinmarketcap: '16768'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16768.png
 name: Dibs Share
-platform: BNB
-platform_contract: '0x26d3163b165BE95137CEe97241E716b2791a7572'

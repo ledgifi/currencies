@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x31ce6ac6007eb0f5abbc1ca824a9e62db81e8933'
+    platform: BNB
 crypto: true
 fiat: false
 id: CP4
 id_coinmarketcap: '16375'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16375.png
 name: Coinpad
-platform: BNB
-platform_contract: '0x31ce6ac6007eb0f5abbc1ca824a9e62db81e8933'

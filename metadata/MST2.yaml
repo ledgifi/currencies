@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe7af3fcc9cb79243f76947402117d98918bd88ea'
+    platform: BNB
 crypto: true
 fiat: false
 id: MST2
 id_coinmarketcap: '19267'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19267.png
 name: MStation
-platform: BNB
-platform_contract: '0xe7af3fcc9cb79243f76947402117d98918bd88ea'

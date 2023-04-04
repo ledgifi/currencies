@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x001a8ffcb0f03e99141652ebcdecdb0384e3bd6c'
+    platform: ETH
 crypto: true
 fiat: false
 id: PKR
 id_coinmarketcap: '10427'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10427.png
 name: Polker
-platform: ETH
-platform_contract: '0x001a8ffcb0f03e99141652ebcdecdb0384e3bd6c'

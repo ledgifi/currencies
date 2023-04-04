@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x949d48eca67b17269629c7194f4b727d4ef9e5d6'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: MC5
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/7cd97fb7-06cb-4a37-b08d-7aaf57c8bcfc.png
 logoKey: currencies/mc.png
 name: Merit Circle
-platform: ETH
-platform_contract: '0x949d48eca67b17269629c7194f4b727d4ef9e5d6'

@@ -1,4 +1,7 @@
 color: '#ff4a4a'
+contracts:
+  - address: '0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: UMA
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/uma.svg
 logoKey: currencies/uma.svg
 name: UMA
-platform: ETH
-platform_contract: '0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828'

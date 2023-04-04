@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd7DbA30d643eF7B271EF06c3D8c0d5aDd46440aB'
+    platform: CHZ
 crypto: true
 fiat: false
 id: STV
 id_coinmarketcap: '8883'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8883.png
 name: Sint-Truidense Voetbalvereniging Fan Token
-platform: CHZ
-platform_contract: '0xd7DbA30d643eF7B271EF06c3D8c0d5aDd46440aB'

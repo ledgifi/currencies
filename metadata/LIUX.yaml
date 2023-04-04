@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x94ade5a1dd2349e604aeb2c0b2cfac486c7e19ae'
+    platform: BNB
 crypto: true
 fiat: false
 id: LIUX
 id_coinmarketcap: '23228'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23228.png
 name: LIUX
-platform: BNB
-platform_contract: '0x94ade5a1dd2349e604aeb2c0b2cfac486c7e19ae'

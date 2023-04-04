@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0Def8d8addE14c9eF7c2a986dF3eA4Bd65826767'
+    platform: ETH
 crypto: true
 fiat: false
 id: CLIQ
 id_coinmarketcap: '7815'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7815.png
 name: DefiCliq
-platform: ETH
-platform_contract: '0x0Def8d8addE14c9eF7c2a986dF3eA4Bd65826767'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb534b21082e44a9c5865876f41f8dd348278fdf2'
+    platform: BNB
 crypto: true
 fiat: false
 id: HOMIECOIN
 id_coinmarketcap: '22986'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22986.png
 name: Homie Wars
-platform: BNB
-platform_contract: '0xb534b21082e44a9c5865876f41f8dd348278fdf2'

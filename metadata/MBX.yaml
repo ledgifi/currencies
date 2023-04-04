@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd068c52d81f4409b9502da926ace3301cc41f623'
+    platform: KLAY
 crypto: true
 fiat: false
 id: MBX
 id_coinmarketcap: '18895'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18895.png
 name: MARBLEX
-platform: KLAY
-platform_contract: '0xd068c52d81f4409b9502da926ace3301cc41f623'

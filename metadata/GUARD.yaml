@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf606bd19b1e61574ed625d9ea96c841d4e247a32'
+    platform: BNB
 crypto: true
 fiat: false
 id: GUARD
 id_coinmarketcap: '12489'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12489.png
 name: Guardian
-platform: BNB
-platform_contract: '0xf606bd19b1e61574ed625d9ea96c841d4e247a32'

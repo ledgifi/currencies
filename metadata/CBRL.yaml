@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA6FA6531acDf1f9F96EDdD66a0F9481E35c2e42A'
+    platform: ETH
 crypto: true
 fiat: false
 id: CBRL
 id_coinmarketcap: '6880'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6880.png
 name: CryptoBRL
-platform: ETH
-platform_contract: '0xA6FA6531acDf1f9F96EDdD66a0F9481E35c2e42A'

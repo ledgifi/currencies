@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa17a000e0c251b429ca0485e1d0d4503881e7bb6'
+    platform: KLAY
 crypto: true
 fiat: false
 id: GTCOIN
 id_coinmarketcap: '19182'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19182.png
 name: GAMETREE
-platform: KLAY
-platform_contract: '0xa17a000e0c251b429ca0485e1d0d4503881e7bb6'

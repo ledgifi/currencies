@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x98a8403d2eeb34a9b9c17fb7339d34680e7c1575'
+    platform: BNB
 crypto: true
 fiat: false
 id: FENIX
 id_coinmarketcap: '10124'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10124.png
 name: Fenix Finance
-platform: BNB
-platform_contract: '0x98a8403d2eeb34a9b9c17fb7339d34680e7c1575'

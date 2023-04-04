@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc8a5c66d63408406c12f1a94608d28a5319f2399'
+    platform: KLAY
 crypto: true
 fiat: false
 id: LEMN
 id_coinmarketcap: '19132'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19132.png
 name: LEMON
-platform: KLAY
-platform_contract: '0xc8a5c66d63408406c12f1a94608d28a5319f2399'

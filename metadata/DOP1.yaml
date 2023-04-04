@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1316f8e84c03e236355639f4d18018c55d3e23f9'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOP1
 id_coinmarketcap: '21157'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21157.png
 name: D-Drops
-platform: BNB
-platform_contract: '0x1316f8e84c03e236355639f4d18018c55d3e23f9'

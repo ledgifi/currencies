@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xFfc7780C34B450d917d557E728f033033CB4fA8C'
+    platform: MOVR
 crypto: true
 fiat: false
 id: stKSM
 id_coinmarketcap: '19809'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19809.png
 name: Lido On Kusama
-platform: MOVR
-platform_contract: '0xFfc7780C34B450d917d557E728f033033CB4fA8C'

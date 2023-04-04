@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB0461d7E8212D311b842A58e9989edE849ac6816'
+    platform: BNB
 crypto: true
 fiat: false
 id: OLAND
 id_coinmarketcap: '20392'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20392.png
 name: Oceanland
-platform: BNB
-platform_contract: '0xB0461d7E8212D311b842A58e9989edE849ac6816'

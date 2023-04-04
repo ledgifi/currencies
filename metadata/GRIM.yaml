@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7ec94c4327dc757601b4273cd67014d7760be97e'
+    platform: FTM
 crypto: true
 fiat: false
 id: GRIM
 id_coinmarketcap: '11363'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11363.png
 name: GrimToken
-platform: FTM
-platform_contract: '0x7ec94c4327dc757601b4273cd67014d7760be97e'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd2d6158683aee4cc838067727209a0aaf4359de3'
+    platform: ETH
 crypto: true
 fiat: false
 id: BNTY
 id_coinmarketcap: '2310'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2310.png
 name: Bounty0x
-platform: ETH
-platform_contract: '0xd2d6158683aee4cc838067727209a0aaf4359de3'

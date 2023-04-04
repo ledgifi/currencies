@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x17e7668dbcaae71b8965cd44785d070bd4e129cf'
+    platform: BNB
 crypto: true
 fiat: false
 id: UCHAD
 id_coinmarketcap: '13714'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13714.png
 name: UltraChad
-platform: BNB
-platform_contract: '0x17e7668dbcaae71b8965cd44785d070bd4e129cf'

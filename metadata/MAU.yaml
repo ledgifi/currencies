@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfab98b45593e94c2513ba028c43187fd6e3453ed'
+    platform: BNB
 crypto: true
 fiat: false
 id: MAU
 id_coinmarketcap: '13679'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13679.png
 name: Egyptian Mau
-platform: BNB
-platform_contract: '0xfab98b45593e94c2513ba028c43187fd6e3453ed'

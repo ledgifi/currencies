@@ -1,8 +1,9 @@
+contracts:
+  - address: '2032'
+    platform: DOT
 crypto: true
 fiat: false
 id: INTR
 id_coinmarketcap: '20366'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20366.png
 name: Interlay
-platform: DOT
-platform_contract: '2032'

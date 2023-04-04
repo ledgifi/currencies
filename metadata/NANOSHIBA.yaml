@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8da80544045480bc9e2109c91e9515c4823c5561'
+    platform: BNB
 crypto: true
 fiat: false
 id: NANOSHIBA
 id_coinmarketcap: '12647'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12647.png
 name: Nano Shiba Inu
-platform: BNB
-platform_contract: '0x8da80544045480bc9e2109c91e9515c4823c5561'

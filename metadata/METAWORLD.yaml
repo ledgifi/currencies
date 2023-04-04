@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0C6D23aBf24f8C97Ca1397547D50EE22BDCEE7d6'
+    platform: BNB
 crypto: true
 fiat: false
 id: METAWORLD
 id_coinmarketcap: '16514'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16514.png
 name: METAWORLD
-platform: BNB
-platform_contract: '0x0C6D23aBf24f8C97Ca1397547D50EE22BDCEE7d6'

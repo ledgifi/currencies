@@ -1,8 +1,9 @@
+contracts:
+  - address: eosdtnutoken
+    platform: EOS
 crypto: true
 fiat: false
 id: NUT1
 id_coinmarketcap: '4033'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4033.png
 name: Native Utility Token
-platform: EOS
-platform_contract: eosdtnutoken

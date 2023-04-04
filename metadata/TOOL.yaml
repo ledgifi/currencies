@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x84CD9d75Af2786d20504FB50bDE9F2c2339390B3'
+    platform: ETH
 crypto: true
 fiat: false
 id: TOOL
 id_coinmarketcap: '4655'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4655.png
 name: Cryptool
-platform: ETH
-platform_contract: '0x84CD9d75Af2786d20504FB50bDE9F2c2339390B3'

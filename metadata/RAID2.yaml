@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x68F483B06F1E96B10239e333b598f145Da8571c2'
+    platform: BNB
 crypto: true
 fiat: false
 id: RAID2
 id_coinmarketcap: '18977'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18977.png
 name: Raider Token
-platform: BNB
-platform_contract: '0x68F483B06F1E96B10239e333b598f145Da8571c2'

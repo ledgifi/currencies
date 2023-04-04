@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa23c4e69e5Eaf4500F2f9301717f12B578b948FB'
+    platform: FTM
 crypto: true
 fiat: false
 id: PROTO
 id_coinmarketcap: '17594'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17594.png
 name: Protofi
-platform: FTM
-platform_contract: '0xa23c4e69e5Eaf4500F2f9301717f12B578b948FB'

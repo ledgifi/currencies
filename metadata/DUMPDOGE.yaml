@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8C041732d9518B40d43e213bF20d08C6643ea09b'
+    platform: BNB
 crypto: true
 fiat: false
 id: DUMPDOGE
 id_coinmarketcap: '10892'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10892.png
 name: DUMP DOGE
-platform: BNB
-platform_contract: '0x8C041732d9518B40d43e213bF20d08C6643ea09b'

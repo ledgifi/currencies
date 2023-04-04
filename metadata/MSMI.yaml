@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x22eaAABcec2f8F6CF5451138c09dF10BdeF57A54'
+    platform: BNB
 crypto: true
 fiat: false
 id: MSMI
 id_coinmarketcap: '13597'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13597.png
 name: MINI SAFEMOON INU
-platform: BNB
-platform_contract: '0x22eaAABcec2f8F6CF5451138c09dF10BdeF57A54'

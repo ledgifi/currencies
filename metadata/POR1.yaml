@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9000Cac49C3841926Baac5b2E13c87D43e51B6a4'
+    platform: BNB
 crypto: true
 fiat: false
 id: POR1
 id_coinmarketcap: '16016'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16016.png
 name: Portuma
-platform: BNB
-platform_contract: '0x9000Cac49C3841926Baac5b2E13c87D43e51B6a4'

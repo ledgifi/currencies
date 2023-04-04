@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9f41da75ab2b8c6f0dcef7173c4bf66bd4f6b36a'
+    platform: ETH
 crypto: true
 fiat: false
 id: PEANUTS
 id_coinmarketcap: '13239'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13239.png
 name: PEANUTS
-platform: ETH
-platform_contract: '0x9f41da75ab2b8c6f0dcef7173c4bf66bd4f6b36a'

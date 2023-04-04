@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2a2cD8b1F69EB9dda5d703b3498d97080C2F194F'
+    platform: BNB
 crypto: true
 fiat: false
 id: CORIS
 id_coinmarketcap: '11832'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11832.png
 name: Corgiswap
-platform: BNB
-platform_contract: '0x2a2cD8b1F69EB9dda5d703b3498d97080C2F194F'

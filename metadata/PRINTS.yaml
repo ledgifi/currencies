@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4dd28568d05f09b02220b09c2cb307bfd837cb95'
+    platform: ETH
 crypto: true
 fiat: false
 id: PRINTS
 id_coinmarketcap: '11592'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11592.png
 name: FingerprintsDAO
-platform: ETH
-platform_contract: '0x4dd28568d05f09b02220b09c2cb307bfd837cb95'

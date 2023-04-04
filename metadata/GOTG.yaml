@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xceeb07dd26b36287b6d109f0b06d7e8202ce8c1d'
+    platform: ETH
 crypto: true
 fiat: false
 id: GOTG
 id_coinmarketcap: '20712'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20712.png
 name: Got Guaranteed
-platform: ETH
-platform_contract: '0xceeb07dd26b36287b6d109f0b06d7e8202ce8c1d'

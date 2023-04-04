@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c'
+    platform: ETH
 crypto: true
 fiat: false
 id: APM
 id_coinmarketcap: '5079'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5079.png
 name: apM Coin
-platform: ETH
-platform_contract: '0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c'

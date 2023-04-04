@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x45128cb743951121fb70cb570c0784492732778a'
+    platform: ETH
 crypto: true
 fiat: false
 id: MWG1
 id_coinmarketcap: '8505'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8505.png
 name: Metawhale Gold
-platform: ETH
-platform_contract: '0x45128cb743951121fb70cb570c0784492732778a'

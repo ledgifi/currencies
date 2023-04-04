@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc8cac7672f4669685817cf332a33eb249f085475'
+    platform: ETH
 crypto: true
 fiat: false
 id: LVN
 id_coinmarketcap: '5853'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5853.png
 name: LivenPay
-platform: ETH
-platform_contract: '0xc8cac7672f4669685817cf332a33eb249f085475'

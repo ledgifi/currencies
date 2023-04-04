@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x71fac45700585555c936c2061fc1fd42b86f4d91'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIBABNB
 id_coinmarketcap: '14702'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14702.png
 name: ShibaBNB.org
-platform: BNB
-platform_contract: '0x71fac45700585555c936c2061fc1fd42b86f4d91'

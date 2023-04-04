@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc48b4814faed1ccc885dd6fde62a6474aecbb19a'
+    platform: ETH
 crypto: true
 fiat: false
 id: CMERGE
 id_coinmarketcap: '11016'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11016.png
 name: CoinMerge (old)
-platform: ETH
-platform_contract: '0xc48b4814faed1ccc885dd6fde62a6474aecbb19a'

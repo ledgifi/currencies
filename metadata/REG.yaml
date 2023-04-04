@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbaC75dcd76A64bA7De878Ecd3aA8aAd235322085'
+    platform: BNB
 crypto: true
 fiat: false
 id: REG
 id_coinmarketcap: '17641'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17641.png
 name: REGNUM
-platform: BNB
-platform_contract: '0xbaC75dcd76A64bA7De878Ecd3aA8aAd235322085'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x29A5c1Db7321C5c9EaE57F9366eE8eef00cA11fb'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHKOOBY
@@ -7,5 +10,3 @@ id_nomics: SHKOOBY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHKOOBY.jpg
 logoKey: currencies/shkooby.jpg
 name: SHKOOBY INU
-platform: ETH
-platform_contract: '0x29A5c1Db7321C5c9EaE57F9366eE8eef00cA11fb'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x79395a77c8ddbefb74f242242960cac7368fd64e'
+    platform: BNB
 crypto: true
 fiat: false
 id: OLP
 id_coinmarketcap: '14121'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14121.png
 name: Olympia
-platform: BNB
-platform_contract: '0x79395a77c8ddbefb74f242242960cac7368fd64e'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x34103e1190b824a44c6a638438d425cba21143ba'
+    platform: ETH
 crypto: true
 fiat: false
 id: BITE
 id_coinmarketcap: '23871'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23871.png
 name: BITE
-platform: ETH
-platform_contract: '0x34103e1190b824a44c6a638438d425cba21143ba'

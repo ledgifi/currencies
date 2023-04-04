@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x19575B407e2dd49cb2BA46375A7fba37c8EC553a'
+    platform: BNB
 crypto: true
 fiat: false
 id: WBM
 id_coinmarketcap: '22690'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22690.png
 name: WB-Mining
-platform: BNB
-platform_contract: '0x19575B407e2dd49cb2BA46375A7fba37c8EC553a'

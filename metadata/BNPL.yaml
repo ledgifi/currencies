@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x84d821f7fbdd595c4c4a50842913e6b1e07d7a53'
+    platform: ETH
 crypto: true
 fiat: false
 id: BNPL
 id_coinmarketcap: '13005'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13005.png
 name: BNPL Pay
-platform: ETH
-platform_contract: '0x84d821f7fbdd595c4c4a50842913e6b1e07d7a53'

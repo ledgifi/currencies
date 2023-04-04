@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1824a51c106efc27d35a74efb56d9bf54ddb22d4'
+    platform: ARB
 crypto: true
 fiat: false
 id: PRY
 id_coinmarketcap: '23933'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23933.png
 name: Perpy
-platform: ARB
-platform_contract: '0x1824a51c106efc27d35a74efb56d9bf54ddb22d4'

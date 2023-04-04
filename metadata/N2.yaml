@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6110c64219621ce5b02fb8e8e57b54c01b83bf85'
+    platform: ETH
 crypto: true
 fiat: false
 id: N2
 id_coinmarketcap: '16224'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16224.png
 name: Node Squared
-platform: ETH
-platform_contract: '0x6110c64219621ce5b02fb8e8e57b54c01b83bf85'

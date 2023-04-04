@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb82A20B4522680951F11c94c54B8800c1C237693'
+    platform: MATIC
 crypto: true
 fiat: false
 id: HONOR
 id_coinmarketcap: '10620'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10620.png
 name: FarmHero
-platform: MATIC
-platform_contract: '0xb82A20B4522680951F11c94c54B8800c1C237693'

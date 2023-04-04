@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9135D92e3A34e2A94e4474B74b9DC2d51118eeD5'
+    platform: ETH
 crypto: true
 fiat: false
 id: UHP
 id_coinmarketcap: '5949'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5949.png
 name: Ulgen Hash Power
-platform: ETH
-platform_contract: '0x9135D92e3A34e2A94e4474B74b9DC2d51118eeD5'

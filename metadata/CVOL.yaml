@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9cd552551ec130b50c1421649c8d11e76ac821e1'
+    platform: MATIC
 crypto: true
 fiat: false
 id: CVOL
 id_coinmarketcap: '18420'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18420.png
 name: Crypto Volatility Token
-platform: MATIC
-platform_contract: '0x9cd552551ec130b50c1421649c8d11e76ac821e1'

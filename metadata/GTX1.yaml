@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x916885426255235DA7a0BD90447986c00675f9EC'
+    platform: ETH
 crypto: true
 fiat: false
 id: GTX1
 id_coinmarketcap: '5366'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5366.png
 name: GoalTime N
-platform: ETH
-platform_contract: '0x916885426255235DA7a0BD90447986c00675f9EC'

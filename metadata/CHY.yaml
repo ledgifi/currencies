@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x35a23bc27c345b36dee700a256f69c6334030971'
+    platform: ETH
 crypto: true
 fiat: false
 id: CHY
 id_coinmarketcap: '10885'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10885.png
 name: Concern Poverty Chain
-platform: ETH
-platform_contract: '0x35a23bc27c345b36dee700a256f69c6334030971'

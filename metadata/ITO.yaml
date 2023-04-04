@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x293B0Cd0991DB07c8529fEBb01bc7D052315C5Ab'
+    platform: ETH
 crypto: true
 fiat: false
 id: ITO
 id_coinmarketcap: '5452'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5452.png
 name: InTime
-platform: ETH
-platform_contract: '0x293B0Cd0991DB07c8529fEBb01bc7D052315C5Ab'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377'
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: MBOX
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210819/31d87ff0-bae4-4e93-adac-99cfd75afdef.png
 logoKey: currencies/mbox.png
 name: MOBOX
-platform: BNB
-platform_contract: '0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377'

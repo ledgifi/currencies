@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x87c22615435998d69aca34889d03155b694a94fc'
+    platform: ETH
 crypto: true
 fiat: false
 id: DLB
 id_coinmarketcap: '17505'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17505.png
 name: DiemLibre
-platform: ETH
-platform_contract: '0x87c22615435998d69aca34889d03155b694a94fc'

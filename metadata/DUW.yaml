@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x70ddef2114b6369656e5b52456bea372901c23b1'
+    platform: BNB
 crypto: true
 fiat: false
 id: DUW
 id_coinmarketcap: '19172'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19172.png
 name: Dreamy Undersea World
-platform: BNB
-platform_contract: '0x70ddef2114b6369656e5b52456bea372901c23b1'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x4aad6a01068c2621545d087a3c5281837112585b'
+    platform: BNB
 crypto: true
 fiat: false
 id: $TIME
@@ -7,5 +10,3 @@ id_nomics: TIME
 logo: https://static.coinpaprika.com/coin/time-madagascar-token/logo.png
 logoKey: currencies/$time.png
 name: Madagascar Token
-platform: BNB
-platform_contract: '0x4aad6a01068c2621545d087a3c5281837112585b'

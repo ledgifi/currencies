@@ -1,4 +1,7 @@
 color: '#2a5284'
+contracts:
+  - address: '0x0000000000000000000000000000456E65726779'
+    platform: VET
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: VTHO
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/vtho.svg
 logoKey: currencies/vtho.svg
 name: VeThor Token
-platform: VET
-platform_contract: '0x0000000000000000000000000000456E65726779'

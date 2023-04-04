@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xD8eB4845B094e05f4d01d7BB3468238076F744f1'
+    platform: CRO
 crypto: true
 fiat: false
 id: CRON1
 id_coinmarketcap: '20280'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20280.png
 name: CronosNode
-platform: CRO
-platform_contract: '0xD8eB4845B094e05f4d01d7BB3468238076F744f1'

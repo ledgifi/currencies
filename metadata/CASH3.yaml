@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x18950820A9108A47295b40B278F243DfC5D327B5'
+    platform: BNB
 crypto: true
 fiat: false
 id: CASH3
 id_coinmarketcap: '12729'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12729.png
 name: Caash
-platform: BNB
-platform_contract: '0x18950820A9108A47295b40B278F243DfC5D327B5'

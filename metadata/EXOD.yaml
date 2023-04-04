@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3b57f3feaaf1e8254ec680275ee6e7727c7413c7'
+    platform: FTM
 crypto: true
 fiat: false
 id: EXOD
 id_coinmarketcap: '13642'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13642.png
 name: Exodia
-platform: FTM
-platform_contract: '0x3b57f3feaaf1e8254ec680275ee6e7727c7413c7'

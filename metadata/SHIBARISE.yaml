@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x0766d199d90b3c1ae34cb12281ec83142abcca0a'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIBARISE
@@ -6,5 +9,3 @@ id_coinpaprika: shibarise-shibarise
 id_nomics: SHIBARISE
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10855.png
 name: SHIBA RISE
-platform: BNB
-platform_contract: '0x0766d199d90b3c1ae34cb12281ec83142abcca0a'

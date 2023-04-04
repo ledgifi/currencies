@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF0ACF8949e705E0ebb6CB42c2164B0B986454223'
+    platform: ETH
 crypto: true
 fiat: false
 id: BRTR
 id_coinmarketcap: '6543'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6543.png
 name: Barter
-platform: ETH
-platform_contract: '0xF0ACF8949e705E0ebb6CB42c2164B0B986454223'

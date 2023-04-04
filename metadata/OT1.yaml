@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF65fA3333be4A9758B693A136e29414be73DDE06'
+    platform: OKT
 crypto: true
 fiat: false
 id: OT1
 id_coinmarketcap: '12399'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12399.png
 name: OTFINANCIAL
-platform: OKT
-platform_contract: '0xF65fA3333be4A9758B693A136e29414be73DDE06'

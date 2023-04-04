@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x398aea1c9ceb7de800284bb399a15e0efe5a9ec2'
+    platform: ETH
 crypto: true
 fiat: false
 id: SILV
 id_coinmarketcap: '16267'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16267.png
 name: Escrowed Illuvium
-platform: ETH
-platform_contract: '0x398aea1c9ceb7de800284bb399a15e0efe5a9ec2'

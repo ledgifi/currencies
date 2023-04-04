@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8D875ABca035858C901Fb3B61a98179aA2cA7ed9'
+    platform: BNB
 crypto: true
 fiat: false
 id: BCEO
 id_coinmarketcap: '23819'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23819.png
 name: BabyDoge CEO
-platform: BNB
-platform_contract: '0x8D875ABca035858C901Fb3B61a98179aA2cA7ed9'

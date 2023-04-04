@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe4f356ecce6fbda81ecdea2e38527e59422861c2'
+    platform: ETH
 crypto: true
 fiat: false
 id: STASH
 id_coinmarketcap: '3881'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3881.png
 name: BitStash
-platform: ETH
-platform_contract: '0xe4f356ecce6fbda81ecdea2e38527e59422861c2'

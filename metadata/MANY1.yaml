@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xab7aaf9e485a3bc885985184abe9fc6aba727bd6'
+    platform: ETH
 crypto: true
 fiat: false
 id: MANY1
 id_coinmarketcap: '7172'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7172.png
 name: MANY
-platform: ETH
-platform_contract: '0xab7aaf9e485a3bc885985184abe9fc6aba727bd6'

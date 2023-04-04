@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4aac461c86abfa71e9d00d9a2cde8d74e4e1aeea'
+    platform: ETH
 crypto: true
 fiat: false
 id: ZINC
 id_coinmarketcap: '2883'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2883.png
 name: ZINC
-platform: ETH
-platform_contract: '0x4aac461c86abfa71e9d00d9a2cde8d74e4e1aeea'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe1da44c0da55b075ae8e2e4b6986adc76ac77d73'
+    platform: KAVA
 crypto: true
 fiat: false
 id: VARA
 id_coinmarketcap: '23836'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23836.png
 name: Équilibre
-platform: KAVA
-platform_contract: '0xe1da44c0da55b075ae8e2e4b6986adc76ac77d73'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x761684e229f04ce8985b49e3BEB1CD994C776A21'
+    platform: BNB
 crypto: true
 fiat: false
 id: BOOMC
 id_coinmarketcap: '10575'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10575.png
 name: BoomCoin
-platform: BNB
-platform_contract: '0x761684e229f04ce8985b49e3BEB1CD994C776A21'

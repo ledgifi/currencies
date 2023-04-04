@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdec8fb35b96a9ee0b78e662f73287f71b94f15f5'
+    platform: BNB
 crypto: true
 fiat: false
 id: GEC1
 id_coinmarketcap: '15541'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15541.png
 name: Geckolands
-platform: BNB
-platform_contract: '0xdec8fb35b96a9ee0b78e662f73287f71b94f15f5'

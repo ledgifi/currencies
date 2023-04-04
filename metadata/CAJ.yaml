@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3c6a7ab47b5f058be0e7c7fe1a4b7925b8aca40e'
+    platform: ETH
 crypto: true
 fiat: false
 id: CAJ
 id_coinmarketcap: '3715'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3715.png
 name: Cajutel
-platform: ETH
-platform_contract: '0x3c6a7ab47b5f058be0e7c7fe1a4b7925b8aca40e'

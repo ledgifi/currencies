@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278'
+    platform: METIS
 crypto: true
 fiat: false
 id: NETT
 id_coinmarketcap: '16615'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16615.png
 name: Netswap
-platform: METIS
-platform_contract: '0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278'

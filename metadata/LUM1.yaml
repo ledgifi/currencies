@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xD481F4eA902e207AAda9Fa093f80d50B19444253'
+    platform: BNB
 crypto: true
 fiat: false
 id: LUM1
 id_coinmarketcap: '12008'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12008.png
 name: Lum Rune
-platform: BNB
-platform_contract: '0xD481F4eA902e207AAda9Fa093f80d50B19444253'

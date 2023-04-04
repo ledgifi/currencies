@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x9adf6e139025b29386115dcb7970020d69011937'
+    platform: BNB
 crypto: true
 fiat: false
 id: GIFT
@@ -6,5 +9,3 @@ id_nomics: GIFT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GIFT.jpg
 logoKey: currencies/gift.jpg
 name: Gift Coin
-platform: BNB
-platform_contract: '0x9adf6e139025b29386115dcb7970020d69011937'

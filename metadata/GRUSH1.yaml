@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2Cd6f07Bf8A32B43Fc1d8C06fd910fd59eC7b9B7'
+    platform: BNB
 crypto: true
 fiat: false
 id: GRUSH1
 id_coinmarketcap: '20935'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20935.png
 name: GoldRushToken
-platform: BNB
-platform_contract: '0x2Cd6f07Bf8A32B43Fc1d8C06fd910fd59eC7b9B7'

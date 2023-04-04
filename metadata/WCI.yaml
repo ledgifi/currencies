@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc5a9bc46a7dbe1c6de493e84a18f02e70e2c5a32'
+    platform: ETH
 crypto: true
 fiat: false
 id: WCI
 id_coinmarketcap: '21962'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21962.png
 name: WORLD CUP INU
-platform: ETH
-platform_contract: '0xc5a9bc46a7dbe1c6de493e84a18f02e70e2c5a32'

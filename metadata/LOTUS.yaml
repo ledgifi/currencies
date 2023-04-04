@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCE7fB401a5AD9E75Fa80C9d18a9Bc2cD9Ef6cD17'
+    platform: BNB
 crypto: true
 fiat: false
 id: Lotus
 id_coinmarketcap: '12793'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12793.png
 name: Lotus
-platform: BNB
-platform_contract: '0xCE7fB401a5AD9E75Fa80C9d18a9Bc2cD9Ef6cD17'

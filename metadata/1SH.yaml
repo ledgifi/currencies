@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2AF1096b974204e3d6e52318Ab807cB40d1846bE'
+    platform: BNB
 crypto: true
 fiat: false
 id: 1SH
 id_coinmarketcap: '22410'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22410.png
 name: 1Shoot Game
-platform: BNB
-platform_contract: '0x2AF1096b974204e3d6e52318Ab807cB40d1846bE'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x75858677e27C930FB622759FeafFeE2b754Af07F'
+    platform: ETH
 crypto: true
 fiat: false
 id: SOUL
@@ -7,5 +10,3 @@ id_nomics: SOUL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/soul.png
 logoKey: currencies/soul.png
 name: Phantasma
-platform: ETH
-platform_contract: '0x75858677e27C930FB622759FeafFeE2b754Af07F'

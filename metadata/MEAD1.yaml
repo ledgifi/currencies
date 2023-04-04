@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xD21CdCA47Fa45A0A51eec030E27AF390ab3aa489'
+    platform: AVAX
 crypto: true
 fiat: false
 id: MEAD1
 id_coinmarketcap: '18833'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18833.png
 name: Mead
-platform: AVAX
-platform_contract: '0xD21CdCA47Fa45A0A51eec030E27AF390ab3aa489'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb0eb3e295b44d7d405ba8026a9734a9ab354a8b2'
+    platform: BNB
 crypto: true
 fiat: false
 id: EARN1
 id_coinmarketcap: '18359'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18359.png
 name: EarnGuild
-platform: BNB
-platform_contract: '0xb0eb3e295b44d7d405ba8026a9734a9ab354a8b2'

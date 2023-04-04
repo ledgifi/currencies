@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xae5fb0c28fb5f8fc3902708879476a2ce3432015'
+    platform: BNB
 crypto: true
 fiat: false
 id: JUICE
 id_coinmarketcap: '14122'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14122.png
 name: CryptoDrop
-platform: BNB
-platform_contract: '0xae5fb0c28fb5f8fc3902708879476a2ce3432015'

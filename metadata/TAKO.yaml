@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2f3391aebe27393aba0a790aa5e1577fea0361c2'
+    platform: BNB
 crypto: true
 fiat: false
 id: TAKO
 id_coinmarketcap: '9369'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9369.png
 name: TakoDefi
-platform: BNB
-platform_contract: '0x2f3391aebe27393aba0a790aa5e1577fea0361c2'

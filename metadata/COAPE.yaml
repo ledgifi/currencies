@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x55006895f398d7713d69081144b19d8c9022b582'
+    platform: BNB
 crypto: true
 fiat: false
 id: COAPE
 id_coinmarketcap: '14443'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14443.png
 name: Council of Apes
-platform: BNB
-platform_contract: '0x55006895f398d7713d69081144b19d8c9022b582'

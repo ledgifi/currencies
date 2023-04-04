@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6a43f8f4b12fcd3b3eb86b319f92eb17c955dda3'
+    platform: BNB
 crypto: true
 fiat: false
 id: DSBOWL
 id_coinmarketcap: '12597'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12597.png
 name: Doge Superbowl
-platform: BNB
-platform_contract: '0x6a43f8f4b12fcd3b3eb86b319f92eb17c955dda3'

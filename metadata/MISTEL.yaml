@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf3f8772f92028bfb6d641c28bbcf1dbded424767'
+    platform: AVAX
 crypto: true
 fiat: false
 id: MISTEL
 id_coinmarketcap: '17396'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17396.png
 name: Mistel Finance
-platform: AVAX
-platform_contract: '0xf3f8772f92028bfb6d641c28bbcf1dbded424767'

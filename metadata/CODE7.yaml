@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF77864FCFfeC4598813E3378681c9330B771cA88'
+    platform: FTM
 crypto: true
 fiat: false
 id: CODE7
 id_coinmarketcap: '18608'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18608.png
 name: Code 7
-platform: FTM
-platform_contract: '0xF77864FCFfeC4598813E3378681c9330B771cA88'

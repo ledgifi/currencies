@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe1dfd41fba67ab6e26a7072fa97508506093ac01'
+    platform: BNB
 crypto: true
 fiat: false
 id: CAKEPUNKS
 id_coinmarketcap: '11773'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11773.png
 name: CAKEPUNKS
-platform: BNB
-platform_contract: '0xe1dfd41fba67ab6e26a7072fa97508506093ac01'

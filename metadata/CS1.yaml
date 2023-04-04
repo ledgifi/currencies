@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x502B8136c48977b975a6C62B08Ac4E15Dabc8172'
+    platform: BNB
 crypto: true
 fiat: false
 id: CS1
 id_coinmarketcap: '23455'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23455.png
 name: Child Support
-platform: BNB
-platform_contract: '0x502B8136c48977b975a6C62B08Ac4E15Dabc8172'

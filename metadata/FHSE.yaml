@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5f8a35021f1c9be802000ca141d7eeee577df7fd'
+    platform: ETH
 crypto: true
 fiat: false
 id: FHSE
 id_coinmarketcap: '6979'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6979.png
 name: Farm House Finance
-platform: ETH
-platform_contract: '0x5f8a35021f1c9be802000ca141d7eeee577df7fd'

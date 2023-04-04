@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7865af71cf0b288b4e7f654f4f7851eb46a2b7f8'
+    platform: ETH
 crypto: true
 fiat: false
 id: SNTVT
 id_coinmarketcap: '3917'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3917.png
 name: Sentivate
-platform: ETH
-platform_contract: '0x7865af71cf0b288b4e7f654f4f7851eb46a2b7f8'

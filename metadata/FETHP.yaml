@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xda25293b6186d597ddf4986c82245f2a48cd6b4d'
+    platform: FTM
 crypto: true
 fiat: false
 id: FETHP
 id_coinmarketcap: '16870'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16870.png
 name: FANTOM ETHPrinter
-platform: FTM
-platform_contract: '0xda25293b6186d597ddf4986c82245f2a48cd6b4d'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8c282ea9eacd1b95d44a3a18dcdd1d0472868998'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOM
 id_coinmarketcap: '16516'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16516.png
 name: Ancient Kingdom
-platform: BNB
-platform_contract: '0x8c282ea9eacd1b95d44a3a18dcdd1d0472868998'

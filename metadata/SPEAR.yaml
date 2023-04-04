@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4860A28Be33aD04dAdFc91722728EFfa8430F836'
+    platform: AVAX
 crypto: true
 fiat: false
 id: SPEAR
 id_coinmarketcap: '19929'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19929.png
 name: Spear Finance
-platform: AVAX
-platform_contract: '0x4860A28Be33aD04dAdFc91722728EFfa8430F836'

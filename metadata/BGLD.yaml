@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4b4fa17f83c09873cb5b4e0023f25d4f533fc9ba'
+    platform: ETH
 crypto: true
 fiat: false
 id: BGLD
 id_coinmarketcap: '11623'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11623.png
 name: Based Gold
-platform: ETH
-platform_contract: '0x4b4fa17f83c09873cb5b4e0023f25d4f533fc9ba'

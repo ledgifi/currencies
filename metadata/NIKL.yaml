@@ -1,8 +1,9 @@
+contracts:
+  - address: af722ac2e4a4d3f780c3db9eedb809a798eb76fb
+    platform: ADA
 crypto: true
 fiat: false
 id: NIKL
 id_coinmarketcap: '23734'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23734.png
 name: Nikel Tech
-platform: ADA
-platform_contract: af722ac2e4a4d3f780c3db9eedb809a798eb76fb

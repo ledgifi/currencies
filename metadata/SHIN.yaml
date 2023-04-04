@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa27A6FA698a63f82e559914c11C6Cd888060660b'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHIN
 id_coinmarketcap: '24003'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24003.png
 name: Shinsekai
-platform: ETH
-platform_contract: '0xa27A6FA698a63f82e559914c11C6Cd888060660b'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5322a3556f979ce2180b30e689a9436fddcb1021'
+    platform: ETH
 crypto: true
 fiat: false
 id: yTSLA
 id_coinmarketcap: '7140'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7140.png
 name: yTSLA Finance
-platform: ETH
-platform_contract: '0x5322a3556f979ce2180b30e689a9436fddcb1021'

@@ -1,8 +1,9 @@
+contracts:
+  - address: eosblackteam
+    platform: EOS
 crypto: true
 fiat: false
 id: BLACK2
 id_coinmarketcap: '3253'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3253.png
 name: eosBLACK
-platform: EOS
-platform_contract: eosblackteam

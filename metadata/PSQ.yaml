@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2bf9671f00643afc813a6623074e0ddf6db4fc2b'
+    platform: ETH
 crypto: true
 fiat: false
 id: PSQ
 id_coinmarketcap: '4164'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4164.png
 name: PLUSQO Token
-platform: ETH
-platform_contract: '0x2bf9671f00643afc813a6623074e0ddf6db4fc2b'

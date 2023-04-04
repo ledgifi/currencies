@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6b7Ccd19B78F57EFaa89e6291b8834831C2F539f'
+    platform: BNB
 crypto: true
 fiat: false
 id: DAOS
 id_coinmarketcap: '12163'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12163.png
 name: Daopolis Token (DAOS)
-platform: BNB
-platform_contract: '0x6b7Ccd19B78F57EFaa89e6291b8834831C2F539f'

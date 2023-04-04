@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1C09EF4493465569f6d704A5CC4f9864BCD2E56a'
+    platform: ETH
 crypto: true
 fiat: false
 id: ORC2
 id_coinmarketcap: '5870'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5870.png
 name: Originate Coin
-platform: ETH
-platform_contract: '0x1C09EF4493465569f6d704A5CC4f9864BCD2E56a'

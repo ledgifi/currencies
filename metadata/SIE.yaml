@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2D0Deab7eB3235BEBd7E17d1C97a0512a2C6D41d'
+    platform: ETH
 crypto: true
 fiat: false
 id: SIE
 id_coinmarketcap: '20512'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20512.png
 name: Secret
-platform: ETH
-platform_contract: '0x2D0Deab7eB3235BEBd7E17d1C97a0512a2C6D41d'

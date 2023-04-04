@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x9c67638c4fa06fd47fb8900fc7f932f7eab589de'
+    platform: BNB
 crypto: true
 fiat: false
 id: ARKER
@@ -6,5 +9,3 @@ id_nomics: ARKER
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARKER.jpg
 logoKey: currencies/arker.jpg
 name: Arker
-platform: BNB
-platform_contract: '0x9c67638c4fa06fd47fb8900fc7f932f7eab589de'

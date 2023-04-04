@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcd77880edea8e7d1f2be011be560b45b96ba68ad'
+    platform: BNB
 crypto: true
 fiat: false
 id: PAPP
 id_coinmarketcap: '10163'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10163.png
 name: Papp Mobile
-platform: BNB
-platform_contract: '0xcd77880edea8e7d1f2be011be560b45b96ba68ad'

@@ -1,4 +1,7 @@
 color: '#3e73c4'
+contracts:
+  - address: '0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: USDC
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/usdc.svg
 logoKey: currencies/usdc.svg
 name: USD Coin
-platform: ETH
-platform_contract: '0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48'

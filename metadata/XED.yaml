@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xee573a945b01b788b9287ce062a0cfc15be9fd86'
+    platform: ETH
 crypto: true
 fiat: false
 id: XED
@@ -5,5 +8,3 @@ id_coinmarketcap: '8163'
 id_nomics: XED
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8163.png
 name: Exeedme (ERC-20)
-platform: ETH
-platform_contract: '0xee573a945b01b788b9287ce062a0cfc15be9fd86'

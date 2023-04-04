@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x277aE79C42c859cA858d5A92C22222C8b65c6D94'
+    platform: BNB
 crypto: true
 fiat: false
 id: ABB
 id_coinmarketcap: '22452'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22452.png
 name: Astro Token
-platform: BNB
-platform_contract: '0x277aE79C42c859cA858d5A92C22222C8b65c6D94'

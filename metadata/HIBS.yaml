@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE06b40df899b9717b4E6B50711E1dc72d08184cF'
+    platform: KLAY
 crypto: true
 fiat: false
 id: HIBS
 id_coinmarketcap: '6470'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6470.png
 name: Hiblocks
-platform: KLAY
-platform_contract: '0xE06b40df899b9717b4E6B50711E1dc72d08184cF'

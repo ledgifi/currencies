@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd3e7c41b39bb252d909fb64d2433abf225eaf49e'
+    platform: BNB
 crypto: true
 fiat: false
 id: GMC
 id_coinmarketcap: '7161'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7161.png
 name: GokuMarket Credit
-platform: BNB
-platform_contract: '0xd3e7c41b39bb252d909fb64d2433abf225eaf49e'

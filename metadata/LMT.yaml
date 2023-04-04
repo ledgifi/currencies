@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9617857e191354dbea0b714d78bc59e57c411087'
+    platform: BNB
 crypto: true
 fiat: false
 id: LMT
 id_coinmarketcap: '9482'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9482.png
 name: Lympo Market Token
-platform: BNB
-platform_contract: '0x9617857e191354dbea0b714d78bc59e57c411087'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5c250ff9b993c6991cc4a3cc543716e53b478018'
+    platform: ETH
 crypto: true
 fiat: false
 id: STP
 id_coinmarketcap: '5785'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5785.png
 name: STPAY
-platform: ETH
-platform_contract: '0x5c250ff9b993c6991cc4a3cc543716e53b478018'

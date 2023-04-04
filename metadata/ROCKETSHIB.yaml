@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfa3f495366c6f986cf178e198e71794c79822243'
+    platform: ETH
 crypto: true
 fiat: false
 id: ROCKETSHIB
 id_coinmarketcap: '13704'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13704.png
 name: Rocket Shib
-platform: ETH
-platform_contract: '0xfa3f495366c6f986cf178e198e71794c79822243'

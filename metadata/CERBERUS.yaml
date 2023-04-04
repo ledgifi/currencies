@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8B3268a23131DAFBd77165690767F285C1AAC6C5'
+    platform: BNB
 crypto: true
 fiat: false
 id: CERBERUS
 id_coinmarketcap: '10438'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10438.png
 name: GoCerberus
-platform: BNB
-platform_contract: '0x8B3268a23131DAFBd77165690767F285C1AAC6C5'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x960cC8F437165b7362a34D95D1ec62Dd2A940f00'
+    platform: BNB
 crypto: true
 fiat: false
 id: COSMIC
 id_coinmarketcap: '10521'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10521.png
 name: CosmicSwap
-platform: BNB
-platform_contract: '0x960cC8F437165b7362a34D95D1ec62Dd2A940f00'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x07756A602d94D710ee53058244333EFB74024883'
+    platform: BNB
 crypto: true
 fiat: false
 id: TRIN
 id_coinmarketcap: '17677'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17677.png
 name: TRINITY
-platform: BNB
-platform_contract: '0x07756A602d94D710ee53058244333EFB74024883'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE5944B50DF84001a36c7DE0d5Cb4da7ab21407D2'
+    platform: HT
 crypto: true
 fiat: false
 id: XNFT
 id_coinmarketcap: '11114'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11114.png
 name: xNFT Protocol
-platform: HT
-platform_contract: '0xE5944B50DF84001a36c7DE0d5Cb4da7ab21407D2'

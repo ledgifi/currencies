@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x081271acda8ef14047a35cd5f2a66544e51d431b'
+    platform: ETH
 crypto: true
 fiat: false
 id: ECO2
 id_coinmarketcap: '1685'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1685.png
 name: EcoCoin
-platform: ETH
-platform_contract: '0x081271acda8ef14047a35cd5f2a66544e51d431b'

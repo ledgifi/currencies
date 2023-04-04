@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x96a16178edaff58736567cfcaff570c06617f0fd'
+    platform: BNB
 crypto: true
 fiat: false
 id: ECOP
 id_coinmarketcap: '13416'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13416.png
 name: Eco DeFi
-platform: BNB
-platform_contract: '0x96a16178edaff58736567cfcaff570c06617f0fd'

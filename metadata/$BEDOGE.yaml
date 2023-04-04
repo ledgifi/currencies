@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdD56F0BBCadaD91d413d66cCD6901e61AAdfA77A'
+    platform: BNB
 crypto: true
 fiat: false
 id: $BEDOGE
 id_coinmarketcap: '17940'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17940.png
 name: BezosDoge
-platform: BNB
-platform_contract: '0xdD56F0BBCadaD91d413d66cCD6901e61AAdfA77A'

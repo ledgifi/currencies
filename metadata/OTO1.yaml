@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x028CE5EA3298a50c0D8a27b937b1F48Cf0d68b56'
+    platform: ETH
 crypto: true
 fiat: false
 id: OTO1
 id_coinmarketcap: '5454'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5454.png
 name: OnTime
-platform: ETH
-platform_contract: '0x028CE5EA3298a50c0D8a27b937b1F48Cf0d68b56'

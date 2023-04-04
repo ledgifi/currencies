@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4f45F6025be6C65573dAa0b9965a75e837848Da0'
+    platform: BNB
 crypto: true
 fiat: false
 id: FECLIPSE
 id_coinmarketcap: '9185'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9185.png
 name: FairEclipse
-platform: BNB
-platform_contract: '0x4f45F6025be6C65573dAa0b9965a75e837848Da0'

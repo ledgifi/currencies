@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x888cea2bbdd5d47a4032cf63668d7525c74af57a'
+    platform: ETH
 crypto: true
 fiat: false
 id: POOF
 id_coinmarketcap: '23396'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23396.png
 name: Poof Token
-platform: ETH
-platform_contract: '0x888cea2bbdd5d47a4032cf63668d7525c74af57a'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc20464e0c373486d2b3335576e83a218b1618a5e'
+    platform: ETH
 crypto: true
 fiat: false
 id: DTRC
 id_coinmarketcap: '2752'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2752.png
 name: Datarius Credit
-platform: ETH
-platform_contract: '0xc20464e0c373486d2b3335576e83a218b1618a5e'

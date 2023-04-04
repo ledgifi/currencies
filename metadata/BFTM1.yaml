@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdc79afce5ae2300834b2bb575bc40cf78ef7b5e3'
+    platform: FTM
 crypto: true
 fiat: false
 id: BFTM1
 id_coinmarketcap: '20270'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20270.png
 name: Batasm Protocol BFTM
-platform: FTM
-platform_contract: '0xdc79afce5ae2300834b2bb575bc40cf78ef7b5e3'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0ef008ff963572d3dabc12e222420f537ddabf94'
+    platform: BNB
 crypto: true
 fiat: false
 id: VERO
 id_coinmarketcap: '12508'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12508.png
 name: Vero Farm
-platform: BNB
-platform_contract: '0x0ef008ff963572d3dabc12e222420f537ddabf94'

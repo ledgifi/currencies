@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4b3b291bd5ece65a9c48b42dff3917bc8cb81570'
+    platform: BNB
 crypto: true
 fiat: false
 id: KING6
 id_coinmarketcap: '15459'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15459.png
 name: King Floki
-platform: BNB
-platform_contract: '0x4b3b291bd5ece65a9c48b42dff3917bc8cb81570'

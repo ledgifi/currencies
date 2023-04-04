@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x270a85faaa7a70f90e88657470e5c6c55e4f71ee'
+    platform: BNB
 crypto: true
 fiat: false
 id: MGT3
 id_coinmarketcap: '19352'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19352.png
 name: Meta Game Token
-platform: BNB
-platform_contract: '0x270a85faaa7a70f90e88657470e5c6c55e4f71ee'

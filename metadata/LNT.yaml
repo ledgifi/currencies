@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3a73F6156C4fBC71B8fDF38090A9D99401163644'
+    platform: ETH
 crypto: true
 fiat: false
 id: LNT
 id_coinmarketcap: '7036'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7036.png
 name: Lottonation
-platform: ETH
-platform_contract: '0x3a73F6156C4fBC71B8fDF38090A9D99401163644'

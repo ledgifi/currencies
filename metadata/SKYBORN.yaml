@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf78bbc835b52d7f0e9538c3566997ba2bf050b85'
+    platform: BNB
 crypto: true
 fiat: false
 id: SKYBORN
 id_coinmarketcap: '10184'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10184.png
 name: SkyBorn
-platform: BNB
-platform_contract: '0xf78bbc835b52d7f0e9538c3566997ba2bf050b85'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0be7AC16436eF2a02FF8581B7B01Ff1CDA58E61B'
+    platform: BNB
 crypto: true
 fiat: false
 id: RichDoge
 id_coinmarketcap: '10989'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10989.png
 name: Rich Doge Coin
-platform: BNB
-platform_contract: '0x0be7AC16436eF2a02FF8581B7B01Ff1CDA58E61B'

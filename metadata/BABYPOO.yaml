@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x38895e0b3e7cd13c45bd4e93af5a402604b762e3'
+    platform: BNB
 crypto: true
 fiat: false
 id: BABYPOO
 id_coinmarketcap: '11184'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11184.png
 name: Baby Poocoin
-platform: BNB
-platform_contract: '0x38895e0b3e7cd13c45bd4e93af5a402604b762e3'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0ce6661b4ba86a0ea7ca2bd86a0de87b0b860f14'
+    platform: VET
 crypto: true
 fiat: false
 id: OCE
 id_coinmarketcap: '3880'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3880.png
 name: OceanEx Token
-platform: VET
-platform_contract: '0x0ce6661b4ba86a0ea7ca2bd86a0de87b0b860f14'

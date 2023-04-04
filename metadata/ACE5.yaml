@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcbd0595113c173ab7746347d0600d390a85a7eea'
+    platform: ETH
 crypto: true
 fiat: false
 id: ACE5
 id_coinmarketcap: '17177'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17177.png
 name: Ascend
-platform: ETH
-platform_contract: '0xcbd0595113c173ab7746347d0600d390a85a7eea'

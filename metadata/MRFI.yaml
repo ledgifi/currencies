@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaf1167b1f90e4f27d9f520a4cd3a1e452e011cea'
+    platform: BNB
 crypto: true
 fiat: false
 id: MRFI
 id_coinmarketcap: '12518'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12518.png
 name: Morphie Network
-platform: BNB
-platform_contract: '0xaf1167b1f90e4f27d9f520a4cd3a1e452e011cea'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x31db9fae1747a84afed39ef28d76cd1ccde96e38'
+    platform: BNB
 crypto: true
 fiat: false
 id: AVAXUP
 id_coinmarketcap: '16078'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16078.png
 name: AvaxUp
-platform: BNB
-platform_contract: '0x31db9fae1747a84afed39ef28d76cd1ccde96e38'

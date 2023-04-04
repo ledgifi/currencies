@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2FeF2D8aCe3836D88b2A32656922EEe842603d81'
+    platform: BNB
 crypto: true
 fiat: false
 id: MSP3
 id_coinmarketcap: '23019'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23019.png
 name: Meta Sports
-platform: BNB
-platform_contract: '0x2FeF2D8aCe3836D88b2A32656922EEe842603d81'

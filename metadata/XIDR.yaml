@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xebF2096E01455108bAdCbAF86cE30b6e5A72aa52'
+    platform: ETH
 crypto: true
 fiat: false
 id: XIDR
 id_coinmarketcap: '15326'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15326.png
 name: XIDR
-platform: ETH
-platform_contract: '0xebF2096E01455108bAdCbAF86cE30b6e5A72aa52'

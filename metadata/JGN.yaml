@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x73374ea518de7addd4c2b624c0e8b113955ee041'
+    platform: ETH
 crypto: true
 fiat: false
 id: JGN
 id_coinmarketcap: '6942'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6942.png
 name: Juggernaut
-platform: ETH
-platform_contract: '0x73374ea518de7addd4c2b624c0e8b113955ee041'

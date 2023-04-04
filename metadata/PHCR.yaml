@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x37e83a94c6b1bdb816b59ac71dd02cf154d8111f'
+    platform: ETH
 crypto: true
 fiat: false
 id: PHCR
@@ -5,5 +8,3 @@ id_coinmarketcap: '15783'
 id_nomics: PHCR
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15783.png
 name: PhotoChromic
-platform: ETH
-platform_contract: '0x37e83a94c6b1bdb816b59ac71dd02cf154d8111f'

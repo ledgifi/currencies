@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x38330281b627240b1F5470014091F69ad5a84146'
+    platform: BNB
 crypto: true
 fiat: false
 id: RC2
 id_coinmarketcap: '16852'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16852.png
 name: Reward Cycle 2
-platform: BNB
-platform_contract: '0x38330281b627240b1F5470014091F69ad5a84146'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdebe620609674F21B1089042527F420372eA98A5'
+    platform: ETH
 crypto: true
 fiat: false
 id: TAVA
 id_coinmarketcap: '19786'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19786.png
 name: ALTAVA
-platform: ETH
-platform_contract: '0xdebe620609674F21B1089042527F420372eA98A5'

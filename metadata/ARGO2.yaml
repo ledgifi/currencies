@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1969ff7740e903cef7a9ad5213afee07f9e478af'
+    platform: METIS
 crypto: true
 fiat: false
 id: ARGO2
 id_coinmarketcap: '18926'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18926.png
 name: Argo
-platform: METIS
-platform_contract: '0x1969ff7740e903cef7a9ad5213afee07f9e478af'

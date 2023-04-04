@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7086e045b78e1e72f741f25231c08d238812cf8a'
+    platform: AVAX
 crypto: true
 fiat: false
 id: RACEX
 id_coinmarketcap: '14699'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14699.png
 name: RaceX
-platform: AVAX
-platform_contract: '0x7086e045b78e1e72f741f25231c08d238812cf8a'

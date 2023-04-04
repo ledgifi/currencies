@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x16c1e5baf21b9fa4bc9f2c374e4dc19fab5ac5dc'
+    platform: ETH
 crypto: true
 fiat: false
 id: APOT
 id_coinmarketcap: '3579'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3579.png
 name: APOT
-platform: ETH
-platform_contract: '0x16c1e5baf21b9fa4bc9f2c374e4dc19fab5ac5dc'

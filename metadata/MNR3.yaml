@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe4e2daf5f7f0c1c35df922c5d9340913edecc8e8'
+    platform: ETH
 crypto: true
 fiat: false
 id: MNR3
 id_coinmarketcap: '5059'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5059.png
 name: Mnoer
-platform: ETH
-platform_contract: '0xe4e2daf5f7f0c1c35df922c5d9340913edecc8e8'

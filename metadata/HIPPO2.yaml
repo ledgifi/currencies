@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x24430a20390288e02e1336a898c4b09888b92916'
+    platform: BNB
 crypto: true
 fiat: false
 id: HIPPO2
 id_coinmarketcap: '19265'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19265.png
 name: Hippo Protocol
-platform: BNB
-platform_contract: '0x24430a20390288e02e1336a898c4b09888b92916'

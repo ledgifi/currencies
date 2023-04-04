@@ -1,8 +1,9 @@
+contracts:
+  - address: DMCUFm2ZAnSU7UgsdVq23gRogMU3MEBjPgQF1gK53rEn
+    platform: SOL
 crypto: true
 fiat: false
 id: UM
 id_coinmarketcap: '16090'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16090.png
 name: UncleMine
-platform: SOL
-platform_contract: DMCUFm2ZAnSU7UgsdVq23gRogMU3MEBjPgQF1gK53rEn

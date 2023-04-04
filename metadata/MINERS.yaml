@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xeb6b00f8c7e1da78fb919c810c30dde95475bdde'
+    platform: BNB
 crypto: true
 fiat: false
 id: MINERS
 id_coinmarketcap: '12476'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12476.png
 name: Miners Defi
-platform: BNB
-platform_contract: '0xeb6b00f8c7e1da78fb919c810c30dde95475bdde'

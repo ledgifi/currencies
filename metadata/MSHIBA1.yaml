@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x817aea85fa208f499f08276a4340e4e35d50b643'
+    platform: BNB
 crypto: true
 fiat: false
 id: MSHIBA1
 id_coinmarketcap: '15460'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15460.png
 name: MetaShiba
-platform: BNB
-platform_contract: '0x817aea85fa208f499f08276a4340e4e35d50b643'

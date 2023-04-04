@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdc3541806d651ec79ba8639a1b495acf503eb2dd'
+    platform: BNB
 crypto: true
 fiat: false
 id: METO1
 id_coinmarketcap: '16638'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16638.png
 name: Metoshi
-platform: BNB
-platform_contract: '0xdc3541806d651ec79ba8639a1b495acf503eb2dd'

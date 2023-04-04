@@ -1,8 +1,9 @@
+contracts:
+  - address: '1004117'
+    platform: TRX
 crypto: true
 fiat: false
 id: TFC
 id_coinmarketcap: '12844'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12844.png
 name: The Flash Currency
-platform: TRX
-platform_contract: '1004117'

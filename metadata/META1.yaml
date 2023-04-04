@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x04073D16C6a08C27e8BbEbe262Ea4D1C6fa4C772'
+    platform: BNB
 crypto: true
 fiat: false
 id: META1
 id_coinmarketcap: '11373'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11373.png
 name: Metaverse Miner
-platform: BNB
-platform_contract: '0x04073D16C6a08C27e8BbEbe262Ea4D1C6fa4C772'

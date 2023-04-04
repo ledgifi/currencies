@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x98ea609569bD25119707451eF982b90E3eb719cD'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MALINK
 id_coinmarketcap: '8923'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8923.png
 name: Matic Aave Interest Bearing LINK
-platform: MATIC
-platform_contract: '0x98ea609569bD25119707451eF982b90E3eb719cD'

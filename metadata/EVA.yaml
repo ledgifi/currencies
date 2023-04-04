@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd6caf5bd23cf057f5fccce295dcc50c01c198707'
+    platform: ETH
 crypto: true
 fiat: false
 id: EVA
 id_coinmarketcap: '10686'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10686.png
 name: Evanesco Network
-platform: ETH
-platform_contract: '0xd6caf5bd23cf057f5fccce295dcc50c01c198707'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc491435b2Cf6E86D0278bE5A5c3dF6439aacf57a'
+    platform: BNB
 crypto: true
 fiat: false
 id: BIRD4
 id_coinmarketcap: '17840'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17840.png
 name: Bird Token
-platform: BNB
-platform_contract: '0xc491435b2Cf6E86D0278bE5A5c3dF6439aacf57a'

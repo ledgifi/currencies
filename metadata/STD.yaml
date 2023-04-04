@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xBd4B2DD8FBceCb2af5904Ff5f218037B0f693275'
+    platform: ETH
 crypto: true
 fiat: false
 id: STD
 id_coinmarketcap: '21431'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21431.png
 name: STEED
-platform: ETH
-platform_contract: '0xBd4B2DD8FBceCb2af5904Ff5f218037B0f693275'

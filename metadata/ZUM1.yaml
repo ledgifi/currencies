@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe0b9bcd54bf8a730ea5d3f1ffce0885e911a502c'
+    platform: ETH
 crypto: true
 fiat: false
 id: ZUM1
 id_coinmarketcap: '4826'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4826.png
 name: ZUM TOKEN
-platform: ETH
-platform_contract: '0xe0b9bcd54bf8a730ea5d3f1ffce0885e911a502c'

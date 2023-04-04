@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x41882dac959c83e9f66b778e747dc164603eaa05'
+    platform: BNB
 crypto: true
 fiat: false
 id: DGA
 id_coinmarketcap: '14536'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14536.png
 name: DogeGamer
-platform: BNB
-platform_contract: '0x41882dac959c83e9f66b778e747dc164603eaa05'

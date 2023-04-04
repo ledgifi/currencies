@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x32f3145a98a61813af1ab0631a6a81850ceb8cad'
+    platform: BNB
 crypto: true
 fiat: false
 id: DNKY
 id_coinmarketcap: '15645'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15645.png
 name: AstroDonkey
-platform: BNB
-platform_contract: '0x32f3145a98a61813af1ab0631a6a81850ceb8cad'

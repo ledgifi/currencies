@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc24eda6c22b3b4232607f931d3dfc19bd24f3e8e'
+    platform: BNB
 crypto: true
 fiat: false
 id: EQUITY
 id_coinmarketcap: '18068'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18068.png
 name: Equity
-platform: BNB
-platform_contract: '0xc24eda6c22b3b4232607f931d3dfc19bd24f3e8e'

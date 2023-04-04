@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x4c19596f5aaff459fa38b0f7ed92f11ae6543784'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: TRU
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210119/f5395ef0-4177-4608-8a70-9dac73fbbc50.png
 logoKey: currencies/tru.png
 name: TrueFi
-platform: ETH
-platform_contract: '0x4c19596f5aaff459fa38b0f7ed92f11ae6543784'

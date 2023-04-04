@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2'
+    platform: ETH
 crypto: true
 fiat: false
 id: UQC
 id_coinmarketcap: '2273'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2273.png
 name: Uquid Coin
-platform: ETH
-platform_contract: '0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2'

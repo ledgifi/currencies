@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8dB1D28Ee0d822367aF8d220C0dc7cB6fe9DC442'
+    platform: ETH
 crypto: true
 fiat: false
 id: ETHPAD
 id_coinmarketcap: '10747'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10747.png
 name: ETHPad
-platform: ETH
-platform_contract: '0x8dB1D28Ee0d822367aF8d220C0dc7cB6fe9DC442'

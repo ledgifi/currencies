@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe5b0792400a47af372486704eda0f1799ee83f54'
+    platform: ETH
 crypto: true
 fiat: false
 id: xDOT
 id_coinmarketcap: '7563'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7563.png
 name: DotBased
-platform: ETH
-platform_contract: '0xe5b0792400a47af372486704eda0f1799ee83f54'

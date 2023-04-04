@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xEA5E9F39F4B4Bc2684e49A0E43127F7f6F6be3b8'
+    platform: BNB
 crypto: true
 fiat: false
 id: MINU1
 id_coinmarketcap: '20172'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20172.png
 name: Muu Inu
-platform: BNB
-platform_contract: '0xEA5E9F39F4B4Bc2684e49A0E43127F7f6F6be3b8'

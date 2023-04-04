@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5E15C0A2dd5CF2E78d57BBF8c1A288495DcEeE77'
+    platform: AVAX
 crypto: true
 fiat: false
 id: CASH5
 id_coinmarketcap: '17710'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17710.png
 name: Far West Games
-platform: AVAX
-platform_contract: '0x5E15C0A2dd5CF2E78d57BBF8c1A288495DcEeE77'

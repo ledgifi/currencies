@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF4C8E32EaDEC4BFe97E0F595AdD0f4450a863a11'
+    platform: BNB
 crypto: true
 fiat: false
 id: THE
 id_coinmarketcap: '23335'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23335.png
 name: THENA
-platform: BNB
-platform_contract: '0xF4C8E32EaDEC4BFe97E0F595AdD0f4450a863a11'

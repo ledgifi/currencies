@@ -1,8 +1,9 @@
+contracts:
+  - address: svtMpL5eQzdmB3uqK9NXaQkq8prGZoKQFNVJghdWCkV
+    platform: SOL
 crypto: true
 fiat: false
 id: SVT
 id_coinmarketcap: '17290'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17290.png
 name: Solvent
-platform: SOL
-platform_contract: svtMpL5eQzdmB3uqK9NXaQkq8prGZoKQFNVJghdWCkV

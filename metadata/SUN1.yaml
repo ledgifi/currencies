@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6526f6fb59189a2d16d570c201b8e0155f102e18'
+    platform: BNB
 crypto: true
 fiat: false
 id: SUN1
 id_coinmarketcap: '20426'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20426.png
 name: Rising Sun
-platform: BNB
-platform_contract: '0x6526f6fb59189a2d16d570c201b8e0155f102e18'

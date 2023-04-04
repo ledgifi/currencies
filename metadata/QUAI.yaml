@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x40821cd074dfecb1524286923bc69315075b5c89'
+    platform: ETH
 crypto: true
 fiat: false
 id: QUAI
 id_coinmarketcap: '8373'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8373.png
 name: QUAI DAO
-platform: ETH
-platform_contract: '0x40821cd074dfecb1524286923bc69315075b5c89'

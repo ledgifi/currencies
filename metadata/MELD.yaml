@@ -1,8 +1,9 @@
+contracts:
+  - address: 6ac8ef33b510ec004fe11585f7c5a9f0c07f0c23428ab4f29c1d7d104d454c44
+    platform: ADA
 crypto: true
 fiat: false
 id: MELD
 id_coinmarketcap: '13397'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13397.png
 name: MELD
-platform: ADA
-platform_contract: 6ac8ef33b510ec004fe11585f7c5a9f0c07f0c23428ab4f29c1d7d104d454c44

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x73b96Ac0814EAfF828779De589840d1172aaAa70'
+    platform: BNB
 crypto: true
 fiat: false
 id: IDOT
 id_coinmarketcap: '14641'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14641.png
 name: InfinityDOT
-platform: BNB
-platform_contract: '0x73b96Ac0814EAfF828779De589840d1172aaAa70'

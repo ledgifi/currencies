@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc1ec13469d3f9bda35c5e7cdcbfbb390756767b6'
+    platform: BNB
 crypto: true
 fiat: false
 id: SIW
 id_coinmarketcap: '15570'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15570.png
 name: Stay In Destiny World
-platform: BNB
-platform_contract: '0xc1ec13469d3f9bda35c5e7cdcbfbb390756767b6'

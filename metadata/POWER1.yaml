@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8ce7fc007fc5d1dea63fed829e11eeddd6406dff'
+    platform: BNB
 crypto: true
 fiat: false
 id: POWER1
 id_coinmarketcap: '17437'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17437.png
 name: Civic Power
-platform: BNB
-platform_contract: '0x8ce7fc007fc5d1dea63fed829e11eeddd6406dff'

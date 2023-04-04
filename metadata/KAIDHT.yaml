@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe9470091b055ac9c87396f19fe929661d6311c44'
+    platform: BNB
 crypto: true
 fiat: false
 id: KAIDHT
 id_coinmarketcap: '15386'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15386.png
 name: Kaiken
-platform: BNB
-platform_contract: '0xe9470091b055ac9c87396f19fe929661d6311c44'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x834ce7ad163ab3be0c5fd4e0a81e67ac8f51e00c'
+    platform: ETH
 crypto: true
 fiat: false
 id: PIS1
 id_coinmarketcap: '8169'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8169.png
 name: Polkainsure Finance
-platform: ETH
-platform_contract: '0x834ce7ad163ab3be0c5fd4e0a81e67ac8f51e00c'

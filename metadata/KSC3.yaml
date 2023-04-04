@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9Ee985007E03E279A736F8E86E412377dB93d014'
+    platform: ETH
 crypto: true
 fiat: false
 id: KSC3
 id_coinmarketcap: '15350'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15350.png
 name: KibaStableCapital
-platform: ETH
-platform_contract: '0x9Ee985007E03E279A736F8E86E412377dB93d014'

@@ -1,8 +1,9 @@
+contracts:
+  - address: 0xbAa88EC0D95c12651B728c76742e70d670E3E556#code
+    platform: BNB
 crypto: true
 fiat: false
 id: FAN3
 id_coinmarketcap: '22235'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22235.png
 name: Fandora Network
-platform: BNB
-platform_contract: 0xbAa88EC0D95c12651B728c76742e70d670E3E556#code

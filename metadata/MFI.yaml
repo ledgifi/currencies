@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xeb5bb9d14D27F75C787cf7475e7ED00D21dc7279'
+    platform: BNB
 crypto: true
 fiat: false
 id: MFI
 id_coinmarketcap: '20838'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20838.png
 name: MetFi
-platform: BNB
-platform_contract: '0xeb5bb9d14D27F75C787cf7475e7ED00D21dc7279'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2f4eb47a1b1f4488c71fc10e39a4aa56af33dd49'
+    platform: ETH
 crypto: true
 fiat: false
 id: UNCL
 id_coinmarketcap: '7669'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7669.png
 name: UNCL
-platform: ETH
-platform_contract: '0x2f4eb47a1b1f4488c71fc10e39a4aa56af33dd49'

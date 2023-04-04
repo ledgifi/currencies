@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb53ecf1345cabee6ea1a65100ebb153cebcac40f'
+    platform: ETH
 crypto: true
 fiat: false
 id: O
 id_coinmarketcap: '21831'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21831.png
 name: Childhoods End
-platform: ETH
-platform_contract: '0xb53ecf1345cabee6ea1a65100ebb153cebcac40f'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x72e3d54293e2912fC66Cf4a93625Ac8305E3120D'
+    platform: BNB
 crypto: true
 fiat: false
 id: PAN1
 id_coinmarketcap: '20600'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20600.png
 name: Pandorium
-platform: BNB
-platform_contract: '0x72e3d54293e2912fC66Cf4a93625Ac8305E3120D'

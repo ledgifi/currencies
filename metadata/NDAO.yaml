@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcc97ebb7c5a7d97db32fb23a23fe516575c5e10a'
+    platform: ETH
 crypto: true
 fiat: false
 id: NDAO
 id_coinmarketcap: '1960'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1960.png
 name: NeuroDAO
-platform: ETH
-platform_contract: '0xcc97ebb7c5a7d97db32fb23a23fe516575c5e10a'

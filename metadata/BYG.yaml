@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4f7b627b88651e3dddca0240bca68a3062632c8c'
+    platform: BNB
 crypto: true
 fiat: false
 id: BYG
 id_coinmarketcap: '10350'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10350.png
 name: Black Eye Galaxy
-platform: BNB
-platform_contract: '0x4f7b627b88651e3dddca0240bca68a3062632c8c'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x55ae8e43172e91fab2a9e97636023f4c87b4c470'
+    platform: ETH
 crypto: true
 fiat: false
 id: BERSERK
 id_coinmarketcap: '13984'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13984.png
 name: Berserk Inu
-platform: ETH
-platform_contract: '0x55ae8e43172e91fab2a9e97636023f4c87b4c470'

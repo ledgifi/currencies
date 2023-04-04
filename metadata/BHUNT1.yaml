@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x422603D04D5960D66c6f59dD95e26f9DcF3607A1'
+    platform: BNB
 crypto: true
 fiat: false
 id: BHUNT1
 id_coinmarketcap: '12352'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12352.png
 name: BinaHunter
-platform: BNB
-platform_contract: '0x422603D04D5960D66c6f59dD95e26f9DcF3607A1'

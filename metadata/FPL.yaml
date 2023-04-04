@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe5e29fc606a3002dec5663568bd6739ac0a6d41c'
+    platform: BNB
 crypto: true
 fiat: false
 id: FPL
 id_coinmarketcap: '15372'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15372.png
 name: Farm Planet
-platform: BNB
-platform_contract: '0xe5e29fc606a3002dec5663568bd6739ac0a6d41c'

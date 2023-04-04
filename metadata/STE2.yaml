@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x738Fb8c90372aBaAc2371930A774C3BD8Ac9A63F'
+    platform: BNB
 crypto: true
 fiat: false
 id: STE2
 id_coinmarketcap: '20697'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20697.png
 name: Minionsinu
-platform: BNB
-platform_contract: '0x738Fb8c90372aBaAc2371930A774C3BD8Ac9A63F'

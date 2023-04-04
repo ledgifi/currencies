@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x58a5d3e4873a75b07fb3c7cf477eebc44ea73b3b'
+    platform: ETH
 crypto: true
 fiat: false
 id: KAIJU
 id_coinmarketcap: '7485'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7485.png
 name: Kaiju
-platform: ETH
-platform_contract: '0x58a5d3e4873a75b07fb3c7cf477eebc44ea73b3b'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x313a7ec4668cb98b65b6ba0284e75561ccef145b'
+    platform: BNB
 crypto: true
 fiat: false
 id: AVI
 id_coinmarketcap: '10651'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10651.png
 name: Avidax Finance
-platform: BNB
-platform_contract: '0x313a7ec4668cb98b65b6ba0284e75561ccef145b'

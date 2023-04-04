@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x87c0192b1b81b9550d495558aac9753972f6db0d'
+    platform: ETH
 crypto: true
 fiat: false
 id: UNICAT
 id_coinmarketcap: '14273'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14273.png
 name: UniCat Token
-platform: ETH
-platform_contract: '0x87c0192b1b81b9550d495558aac9753972f6db0d'

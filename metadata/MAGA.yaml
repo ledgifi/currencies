@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc9b6A17EbB43491635F603A01f8Bb3e4B5D22228'
+    platform: ETH
 crypto: true
 fiat: false
 id: MAGA
 id_coinmarketcap: '13859'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13859.png
 name: MAGA Coin
-platform: ETH
-platform_contract: '0xc9b6A17EbB43491635F603A01f8Bb3e4B5D22228'

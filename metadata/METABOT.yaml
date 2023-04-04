@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb312b190Ef6f7d3608146c02B3617f5Ed9876300'
+    platform: BNB
 crypto: true
 fiat: false
 id: METABOT
 id_coinmarketcap: '18123'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18123.png
 name: Robot Warriors
-platform: BNB
-platform_contract: '0xb312b190Ef6f7d3608146c02B3617f5Ed9876300'

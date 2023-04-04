@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd7651f83533E3EfF4b0A5BC6A41c1edB81749766'
+    platform: BNB
 crypto: true
 fiat: false
 id: SGDOGE
 id_coinmarketcap: '19027'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19027.png
 name: Struggle Doge
-platform: BNB
-platform_contract: '0xd7651f83533E3EfF4b0A5BC6A41c1edB81749766'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xae90ca218f9c3b1aa84af33a7907e4890ec6a167'
+    platform: BNB
 crypto: true
 fiat: false
 id: ELT2
 id_coinmarketcap: '22212'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22212.png
 name: ECLAT
-platform: BNB
-platform_contract: '0xae90ca218f9c3b1aa84af33a7907e4890ec6a167'

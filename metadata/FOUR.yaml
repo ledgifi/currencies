@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0'
+    platform: ETH
 crypto: true
 fiat: false
 id: FOUR
 id_coinmarketcap: '5409'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5409.png
 name: 4THPILLAR TECHNOLOGIES
-platform: ETH
-platform_contract: '0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0'

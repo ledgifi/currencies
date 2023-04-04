@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5beabaebb3146685dd74176f68a0721f91297d37'
+    platform: ETH
 crypto: true
 fiat: false
 id: BOT4
 id_coinmarketcap: '6365'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6365.png
 name: Bounce Token (OLD)
-platform: ETH
-platform_contract: '0x5beabaebb3146685dd74176f68a0721f91297d37'

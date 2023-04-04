@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x54e1A013Ec960e53B4dD886D2e2E71fC6fa8B9CC'
+    platform: ETH
 crypto: true
 fiat: false
 id: TOL1
 id_coinmarketcap: '21151'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21151.png
 name: TokLok Token
-platform: ETH
-platform_contract: '0x54e1A013Ec960e53B4dD886D2e2E71fC6fa8B9CC'

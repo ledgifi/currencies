@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x237ace23ab2c36a004aa5e4fb134fe5c1cedf06c'
+    platform: BNB
 crypto: true
 fiat: false
 id: CEO
 id_coinmarketcap: '23677'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23677.png
 name: CEO
-platform: BNB
-platform_contract: '0x237ace23ab2c36a004aa5e4fb134fe5c1cedf06c'

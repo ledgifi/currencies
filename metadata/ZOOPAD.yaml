@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfaa0e6a0730f14bc8d99a480587d0df8d66d9109'
+    platform: BNB
 crypto: true
 fiat: false
 id: ZOOPAD
 id_coinmarketcap: '21426'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21426.png
 name: ZOOPAD
-platform: BNB
-platform_contract: '0xfaa0e6a0730f14bc8d99a480587d0df8d66d9109'

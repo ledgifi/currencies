@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe4e43305734e081db80e40602a8a3ad5c23af97d'
+    platform: BNB
 crypto: true
 fiat: false
 id: XXP
 id_coinmarketcap: '16407'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16407.png
 name: XX Platform
-platform: BNB
-platform_contract: '0xe4e43305734e081db80e40602a8a3ad5c23af97d'

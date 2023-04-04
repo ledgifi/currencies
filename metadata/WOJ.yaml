@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x55f96c7005d7c684a65ee653b07b5fe1507c56ab'
+    platform: BNB
 crypto: true
 fiat: false
 id: WOJ
 id_coinmarketcap: '12359'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12359.png
 name: Wojak Finance
-platform: BNB
-platform_contract: '0x55f96c7005d7c684a65ee653b07b5fe1507c56ab'

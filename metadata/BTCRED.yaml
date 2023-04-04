@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6aac8cb9861e42bf8259f5abdc6ae3ae89909e11'
+    platform: ETH
 crypto: true
 fiat: false
 id: BTCRED
 id_coinmarketcap: '2093'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2093.png
 name: Bitcoin Red
-platform: ETH
-platform_contract: '0x6aac8cb9861e42bf8259f5abdc6ae3ae89909e11'

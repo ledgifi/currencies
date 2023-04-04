@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x255861b569d44df3e113b6ca090a1122046e6f89'
+    platform: FTM
 crypto: true
 fiat: false
 id: GRAIL1
 id_coinmarketcap: '19763'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19763.png
 name: Grail
-platform: FTM
-platform_contract: '0x255861b569d44df3e113b6ca090a1122046e6f89'

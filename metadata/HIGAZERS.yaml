@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc1ad0aa69454603a5dee55cf9bd9341e01328544'
+    platform: ETH
 crypto: true
 fiat: false
 id: HIGAZERS
 id_coinmarketcap: '22790'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22790.png
 name: hiGAZERS
-platform: ETH
-platform_contract: '0xc1ad0aa69454603a5dee55cf9bd9341e01328544'

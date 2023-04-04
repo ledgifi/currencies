@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x85dec8c4B2680793661bCA91a8F129607571863d'
+    platform: FTM
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: BRUSH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRUSH.png
 logoKey: currencies/brush.png
 name: PaintSwap
-platform: FTM
-platform_contract: '0x85dec8c4B2680793661bCA91a8F129607571863d'

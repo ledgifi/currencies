@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE9Cd2668FB580c96b035B6d081E5753f23FE7f46'
+    platform: BNB
 crypto: true
 fiat: false
 id: AMA2
 id_coinmarketcap: '22587'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22587.png
 name: AMAUROT
-platform: BNB
-platform_contract: '0xE9Cd2668FB580c96b035B6d081E5753f23FE7f46'

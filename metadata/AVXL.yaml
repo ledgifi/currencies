@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbd29490383edfd560426c3b63d01534408bc2da6'
+    platform: BNB
 crypto: true
 fiat: false
 id: AVXL
 id_coinmarketcap: '11785'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11785.png
 name: AvaXlauncher
-platform: BNB
-platform_contract: '0xbd29490383edfd560426c3b63d01534408bc2da6'

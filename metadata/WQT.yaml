@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x06677dc4fe12d3ba3c7ccfd0df8cd45e4d4095bf'
+    platform: ETH
 crypto: true
 fiat: false
 id: WQT
 id_coinmarketcap: '9115'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9115.png
 name: WorkQuest Token
-platform: ETH
-platform_contract: '0x06677dc4fe12d3ba3c7ccfd0df8cd45e4d4095bf'

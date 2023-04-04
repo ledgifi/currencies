@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7683a961f87ef190cf7ba76b86cb2ee2de04e54f'
+    platform: BNB
 crypto: true
 fiat: false
 id: CAKECRYPT
 id_coinmarketcap: '10066'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10066.png
 name: CAKECRYPT
-platform: BNB
-platform_contract: '0x7683a961f87ef190cf7ba76b86cb2ee2de04e54f'

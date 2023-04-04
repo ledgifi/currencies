@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x296a0b8847bd4ed9af71a9ef238fa5be0778b611'
+    platform: ARB
 crypto: true
 fiat: false
 id: ATA1
 id_coinmarketcap: '24131'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24131.png
 name: Atlas Aggregator
-platform: ARB
-platform_contract: '0x296a0b8847bd4ed9af71a9ef238fa5be0778b611'

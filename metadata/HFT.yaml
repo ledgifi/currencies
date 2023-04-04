@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xb3999F658C0391d94A37f7FF328F3feC942BcADC'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: HFT6
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20221031/7bcb7043-d345-485c-9cc5-a3b3093459b8.png
 logoKey: currencies/hft.png
 name: Hashflow
-platform: ETH
-platform_contract: '0xb3999F658C0391d94A37f7FF328F3feC942BcADC'

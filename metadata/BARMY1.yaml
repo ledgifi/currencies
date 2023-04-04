@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xea04cB26b1Ed692C5D903f16D0C6d2D027f99A0A'
+    platform: BNB
 crypto: true
 fiat: false
 id: BARMY1
 id_coinmarketcap: '12512'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12512.png
 name: BabyArmy
-platform: BNB
-platform_contract: '0xea04cB26b1Ed692C5D903f16D0C6d2D027f99A0A'

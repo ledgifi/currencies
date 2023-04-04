@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5e9b7100ef06d4d1f1f187c7c6b169e376044307'
+    platform: BNB
 crypto: true
 fiat: false
 id: MST5
 id_coinmarketcap: '14824'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14824.png
 name: Millionstarter
-platform: BNB
-platform_contract: '0x5e9b7100ef06d4d1f1f187c7c6b169e376044307'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x428dc22668e6f3468273634067e5545ed5417a3e'
+    platform: ETH
 crypto: true
 fiat: false
 id: MQL
 id_coinmarketcap: '6804'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6804.png
 name: MiraQle
-platform: ETH
-platform_contract: '0x428dc22668e6f3468273634067e5545ed5417a3e'

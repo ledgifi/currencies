@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3d79abb948bc76794ff4a0bcd60170a741f26360'
+    platform: ETH
 crypto: true
 fiat: false
 id: TAILS
 id_coinmarketcap: '12789'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12789.png
 name: Tails
-platform: ETH
-platform_contract: '0x3d79abb948bc76794ff4a0bcd60170a741f26360'

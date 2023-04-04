@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x27d72484f1910f5d0226afa4e03742c9cd2b297a'
+    platform: BNB
 crypto: true
 fiat: false
 id: MSCP
 id_coinmarketcap: '14522'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14522.png
 name: Moonscape
-platform: BNB
-platform_contract: '0x27d72484f1910f5d0226afa4e03742c9cd2b297a'

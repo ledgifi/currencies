@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9BDe1b41187F62fFA812e7c3d00F5A22Df9a3a19'
+    platform: ETH
 crypto: true
 fiat: false
 id: AFR
 id_coinmarketcap: '11813'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11813.png
 name: Afreum
-platform: ETH
-platform_contract: '0x9BDe1b41187F62fFA812e7c3d00F5A22Df9a3a19'

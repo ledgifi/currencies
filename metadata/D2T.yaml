@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4Dd942bAa75810a3C1E876e79d5cD35E09C97A76'
+    platform: ETH
 crypto: true
 fiat: false
 id: D2T
 id_coinmarketcap: '23210'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23210.png
 name: Dash 2 Trade
-platform: ETH
-platform_contract: '0x4Dd942bAa75810a3C1E876e79d5cD35E09C97A76'

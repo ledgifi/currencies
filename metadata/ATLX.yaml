@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0b68782eff3177f1f9240b64a7e2f8e0497e2454'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ATLX
 id_coinmarketcap: '16853'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16853.png
 name: Atlantis Loans Polygon
-platform: MATIC
-platform_contract: '0x0b68782eff3177f1f9240b64a7e2f8e0497e2454'

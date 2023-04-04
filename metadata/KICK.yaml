@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x824a50df33ac1b41afc52f4194e2e8356c17c3ac'
+    platform: BNB
 crypto: true
 fiat: false
 id: KICK
 id_coinmarketcap: '10700'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10700.png
 name: KickToken
-platform: BNB
-platform_contract: '0x824a50df33ac1b41afc52f4194e2e8356c17c3ac'

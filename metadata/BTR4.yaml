@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x945192524c6605d20be6c529dd318666b74078bc'
+    platform: ETH
 crypto: true
 fiat: false
 id: BTR4
 id_coinmarketcap: '4521'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4521.png
 name: Bitsrent
-platform: ETH
-platform_contract: '0x945192524c6605d20be6c529dd318666b74078bc'

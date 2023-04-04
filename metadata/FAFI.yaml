@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3F2A5d9A225655dDCcaDFDA9c5f36F53A8A149a5'
+    platform: BNB
 crypto: true
 fiat: false
 id: FAFI
 id_coinmarketcap: '14436'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14436.png
 name: Famous Five
-platform: BNB
-platform_contract: '0x3F2A5d9A225655dDCcaDFDA9c5f36F53A8A149a5'

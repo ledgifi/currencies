@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbe5b336ef62d1626940363cf34be079e0ab89f20'
+    platform: ETH
 crypto: true
 fiat: false
 id: BNC3
 id_coinmarketcap: '5675'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5675.png
 name: BNC TOKEN
-platform: ETH
-platform_contract: '0xbe5b336ef62d1626940363cf34be079e0ab89f20'

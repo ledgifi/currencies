@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF94b5C5651c888d928439aB6514B93944eEE6F48'
+    platform: ETH
 crypto: true
 fiat: false
 id: YLD
 id_coinmarketcap: '8066'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8066.png
 name: Yield App
-platform: ETH
-platform_contract: '0xF94b5C5651c888d928439aB6514B93944eEE6F48'

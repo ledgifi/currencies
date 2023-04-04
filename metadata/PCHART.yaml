@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x771762d0AB8EA6906F3CBC700161eE8e9891bcb9'
+    platform: MATIC
 crypto: true
 fiat: false
 id: PCHART
 id_coinmarketcap: '10375'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10375.png
 name: Polychart
-platform: MATIC
-platform_contract: '0x771762d0AB8EA6906F3CBC700161eE8e9891bcb9'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1622bf67e6e5747b81866fe0b85178a93c7f86e3'
+    platform: ARB
 crypto: true
 fiat: false
 id: UMAMI
 id_coinmarketcap: '15480'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15480.png
 name: Umami Finance
-platform: ARB
-platform_contract: '0x1622bf67e6e5747b81866fe0b85178a93c7f86e3'

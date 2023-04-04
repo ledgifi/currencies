@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa'
+    platform: ETH
 crypto: true
 fiat: false
 id: ORBS
 id_coinmarketcap: '3835'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3835.png
 name: Orbs
-platform: ETH
-platform_contract: '0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa'

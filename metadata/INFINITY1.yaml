@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF27A589281e1B933E122dFe306EbfD02B061850F'
+    platform: BNB
 crypto: true
 fiat: false
 id: INFINITY1
 id_coinmarketcap: '9603'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9603.png
 name: Infinity Protocol
-platform: BNB
-platform_contract: '0xF27A589281e1B933E122dFe306EbfD02B061850F'

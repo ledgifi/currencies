@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfd045d691d6db0ed5667d02b03bf55eaf5a7d751'
+    platform: ETH
 crypto: true
 fiat: false
 id: SAITAMAMOON
 id_coinmarketcap: '14521'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14521.png
 name: Saitamamoon
-platform: ETH
-platform_contract: '0xfd045d691d6db0ed5667d02b03bf55eaf5a7d751'

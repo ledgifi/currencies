@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8c088775e4139af116Ac1FA6f281Bbf71E8c1c73'
+    platform: ETH
 crypto: true
 fiat: false
 id: PUMLX
 id_coinmarketcap: '21685'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21685.png
 name: PUMLx
-platform: ETH
-platform_contract: '0x8c088775e4139af116Ac1FA6f281Bbf71E8c1c73'

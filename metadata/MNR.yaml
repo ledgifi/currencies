@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x27dcd181459bcddc63c37bab1e404a313c0dfd79'
+    platform: KLAY
 crypto: true
 fiat: false
 id: MNR
 id_coinmarketcap: '6053'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6053.png
 name: Mineral
-platform: KLAY
-platform_contract: '0x27dcd181459bcddc63c37bab1e404a313c0dfd79'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2033f3599e070c3becd09b0b28988a9c45a059d5'
+    platform: BNB
 crypto: true
 fiat: false
 id: TSY
 id_coinmarketcap: '15917'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15917.png
 name: TOKEN SHELBY
-platform: BNB
-platform_contract: '0x2033f3599e070c3becd09b0b28988a9c45a059d5'

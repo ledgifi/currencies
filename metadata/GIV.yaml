@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x900db999074d9277c5da2a43f252d74366230da0'
+    platform: ETH
 crypto: true
 fiat: false
 id: GIV
 id_coinmarketcap: '17207'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17207.png
 name: Giveth
-platform: ETH
-platform_contract: '0x900db999074d9277c5da2a43f252d74366230da0'

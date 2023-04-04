@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2370f9d504c7a6e775bf6e14b3f12846b594cd53'
+    platform: ETH
 crypto: true
 fiat: false
 id: JPYC1
 id_coinmarketcap: '9045'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9045.png
 name: JPY Coin v1
-platform: ETH
-platform_contract: '0x2370f9d504c7a6e775bf6e14b3f12846b594cd53'

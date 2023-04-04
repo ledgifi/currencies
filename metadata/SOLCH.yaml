@@ -1,8 +1,9 @@
+contracts:
+  - address: EKSM2sjtptnvkqq79kwfAaSfVudNAtFYZSBdPe5jeRSt
+    platform: SOL
 crypto: true
 fiat: false
 id: SOLCH
 id_coinmarketcap: '16282'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16282.png
 name: SolanaCash
-platform: SOL
-platform_contract: EKSM2sjtptnvkqq79kwfAaSfVudNAtFYZSBdPe5jeRSt

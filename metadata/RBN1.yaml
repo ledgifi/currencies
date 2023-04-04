@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb3bc8dae5a49ed956b5d2207d9040c816c56398f'
+    platform: MATIC
 crypto: true
 fiat: false
 id: RBN1
 id_coinmarketcap: '12456'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12456.png
 name: ROBINOS
-platform: MATIC
-platform_contract: '0xb3bc8dae5a49ed956b5d2207d9040c816c56398f'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8b298c5fbf0a8d4cd65ae524c8792b8cdfd9fbe9'
+    platform: BNB
 crypto: true
 fiat: false
 id: TXS1
 id_coinmarketcap: '14623'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14623.png
 name: TIMEXSPACE
-platform: BNB
-platform_contract: '0x8b298c5fbf0a8d4cd65ae524c8792b8cdfd9fbe9'

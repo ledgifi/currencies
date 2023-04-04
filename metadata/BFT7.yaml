@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x36ed39c8E1211f8bBb3CF33919db178aAcfE37C8'
+    platform: BNB
 crypto: true
 fiat: false
 id: BFT7
 id_coinmarketcap: '20868'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20868.png
 name: Bull Force Token
-platform: BNB
-platform_contract: '0x36ed39c8E1211f8bBb3CF33919db178aAcfE37C8'

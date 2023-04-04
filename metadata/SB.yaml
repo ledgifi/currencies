@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe74e14cb6b4f4f5d97bb0665b9a06df49f8142d0'
+    platform: BNB
 crypto: true
 fiat: false
 id: SB
 id_coinmarketcap: '22645'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22645.png
 name: Scary Bunny
-platform: BNB
-platform_contract: '0xe74e14cb6b4f4f5d97bb0665b9a06df49f8142d0'

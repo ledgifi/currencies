@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x2de5a0f18b9808a4c80a9ddd2789266f0b744fee'
+    platform: BNB
 crypto: true
 fiat: false
 id: TGRI
@@ -6,5 +9,3 @@ id_coinpaprika: tgri-tiger-inu-token
 id_nomics: TGRI
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17115.png
 name: Tiger Inu Token
-platform: BNB
-platform_contract: '0x2de5a0f18b9808a4c80a9ddd2789266f0b744fee'

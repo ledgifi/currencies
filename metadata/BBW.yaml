@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd2287a52287dd64AE2c690D74322E2e345dC8F69'
+    platform: ETH
 crypto: true
 fiat: false
 id: BBW
 id_coinmarketcap: '18690'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18690.png
 name: BabyWhale
-platform: ETH
-platform_contract: '0xd2287a52287dd64AE2c690D74322E2e345dC8F69'

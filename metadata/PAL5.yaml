@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd85974cb7f70c890b926cea6adaa31bde0829cb6'
+    platform: BNB
 crypto: true
 fiat: false
 id: PAL5
 id_coinmarketcap: '20274'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20274.png
 name: Pet Alliance
-platform: BNB
-platform_contract: '0xd85974cb7f70c890b926cea6adaa31bde0829cb6'

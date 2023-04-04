@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE0b73F3bA0D46122B86c51AE7b502e9DE8db14eD'
+    platform: BNB
 crypto: true
 fiat: false
 id: HUSKYX
 id_coinmarketcap: '14190'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14190.png
 name: HUSKYX
-platform: BNB
-platform_contract: '0xE0b73F3bA0D46122B86c51AE7b502e9DE8db14eD'

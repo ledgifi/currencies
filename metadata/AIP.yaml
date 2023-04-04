@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x768810937a2d1611f023a1bbfb0bef3025893802'
+    platform: ETH
 crypto: true
 fiat: false
 id: AIP
 id_coinmarketcap: '6878'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6878.png
 name: ASIAN MODEL FESTIVAL
-platform: ETH
-platform_contract: '0x768810937a2d1611f023a1bbfb0bef3025893802'

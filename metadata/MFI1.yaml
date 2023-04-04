@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaa4e3edb11afa93c41db59842b29de64b72e355b'
+    platform: ETH
 crypto: true
 fiat: false
 id: MFI1
 id_coinmarketcap: '8411'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8411.png
 name: Marginswap
-platform: ETH
-platform_contract: '0xaa4e3edb11afa93c41db59842b29de64b72e355b'

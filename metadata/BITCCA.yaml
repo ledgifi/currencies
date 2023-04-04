@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe4d75e9b493458d032a5c3cc1ee9b0712c1ece06'
+    platform: ETH
 crypto: true
 fiat: false
 id: BITCCA
 id_coinmarketcap: '20574'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20574.png
 name: bitcci Cash
-platform: ETH
-platform_contract: '0xe4d75e9b493458d032a5c3cc1ee9b0712c1ece06'

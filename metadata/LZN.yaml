@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x291C4e4277F8717e0552D108dBd7f795a9fEF016'
+    platform: BNB
 crypto: true
 fiat: false
 id: LZN
 id_coinmarketcap: '19646'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19646.png
 name: Luzion Protocol
-platform: BNB
-platform_contract: '0x291C4e4277F8717e0552D108dBd7f795a9fEF016'

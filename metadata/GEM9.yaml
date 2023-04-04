@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa22d31228699efffe79b5403da9e7b4009732d6a'
+    platform: ETH
 crypto: true
 fiat: false
 id: GEM9
 id_coinmarketcap: '16309'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16309.png
 name: Green Eyed Monster
-platform: ETH
-platform_contract: '0xa22d31228699efffe79b5403da9e7b4009732d6a'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb4ea189499c7722b39cba00443cd9d0e600a8670'
+    platform: ETH
 crypto: true
 fiat: false
 id: LNOT
 id_coinmarketcap: '7118'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7118.png
 name: Livenodes Token
-platform: ETH
-platform_contract: '0xb4ea189499c7722b39cba00443cd9d0e600a8670'

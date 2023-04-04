@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4cff49d0a19ed6ff845a9122fa912abcfb1f68a6'
+    platform: ETH
 crypto: true
 fiat: false
 id: WTK
 id_coinmarketcap: '7645'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7645.png
 name: WadzPay Token
-platform: ETH
-platform_contract: '0x4cff49d0a19ed6ff845a9122fa912abcfb1f68a6'

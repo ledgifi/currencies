@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374'
+    platform: ETH
 crypto: true
 fiat: false
 id: VERI
 id_coinmarketcap: '1710'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1710.png
 name: Veritaseum
-platform: ETH
-platform_contract: '0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374'

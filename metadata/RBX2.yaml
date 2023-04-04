@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE833dC9b5A21daBC3ed8559858Caa92279aC54Dc'
+    platform: BNB
 crypto: true
 fiat: false
 id: RBX2
 id_coinmarketcap: '18634'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18634.png
 name: METAROBOX
-platform: BNB
-platform_contract: '0xE833dC9b5A21daBC3ed8559858Caa92279aC54Dc'

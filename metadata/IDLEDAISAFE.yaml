@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1846bdfdb6a0f5c473dec610144513bd071999fb'
+    platform: ETH
 crypto: true
 fiat: false
 id: IDLEDAISAFE
 id_coinmarketcap: '6150'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6150.png
 name: IdleDAI (Risk Adjusted)
-platform: ETH
-platform_contract: '0x1846bdfdb6a0f5c473dec610144513bd071999fb'

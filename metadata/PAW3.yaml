@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbc5b59ea1b6f8da8258615ee38d40e999ec5d74f'
+    platform: MATIC
 crypto: true
 fiat: false
 id: PAW3
 id_coinmarketcap: '17526'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17526.png
 name: Paw V2
-platform: MATIC
-platform_contract: '0xbc5b59ea1b6f8da8258615ee38d40e999ec5d74f'

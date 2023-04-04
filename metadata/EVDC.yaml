@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xC3B4C4eF3fE02aD91cB57efda593ed07A9278cc0'
+    platform: BNB
 crypto: true
 fiat: false
 id: EVDC
 id_coinmarketcap: '12121'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12121.png
 name: Electric Vehicle Direct Currency
-platform: BNB
-platform_contract: '0xC3B4C4eF3fE02aD91cB57efda593ed07A9278cc0'

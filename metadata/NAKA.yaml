@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x311434160d7537be358930def317afb606c0d737'
+    platform: MATIC
 crypto: true
 fiat: false
 id: NAKA
@@ -7,5 +10,3 @@ id_nomics: NAKA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NAKA.jpg
 logoKey: currencies/naka.jpg
 name: Nakamoto Games
-platform: MATIC
-platform_contract: '0x311434160d7537be358930def317afb606c0d737'

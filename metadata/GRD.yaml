@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x002f6ccea40d491b9731fe5189896d8a950c5f89'
+    platform: ETH
 crypto: true
 fiat: false
 id: GRD
 id_coinmarketcap: '12499'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12499.png
 name: Guarda token
-platform: ETH
-platform_contract: '0x002f6ccea40d491b9731fe5189896d8a950c5f89'

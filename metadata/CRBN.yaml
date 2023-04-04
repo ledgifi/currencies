@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCdeee767beD58c5325f68500115d4B722b3724EE'
+    platform: ETH
 crypto: true
 fiat: false
 id: CRBN
 id_coinmarketcap: '7809'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7809.png
 name: Carbon
-platform: ETH
-platform_contract: '0xCdeee767beD58c5325f68500115d4B722b3724EE'

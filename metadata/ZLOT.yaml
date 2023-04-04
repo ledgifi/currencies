@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA8e7AD77C60eE6f30BaC54E2E7c0617Bd7B5A03E'
+    platform: ETH
 crypto: true
 fiat: false
 id: ZLOT
 id_coinmarketcap: '7602'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7602.png
 name: zLOT Finance
-platform: ETH
-platform_contract: '0xA8e7AD77C60eE6f30BaC54E2E7c0617Bd7B5A03E'

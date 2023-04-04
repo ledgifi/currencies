@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x39ab6574c289c3ae4d88500eec792ab5b947a5eb'
+    platform: MATIC
 crypto: true
 fiat: false
 id: DYST
 id_coinmarketcap: '20538'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20538.png
 name: Dystopia
-platform: MATIC
-platform_contract: '0x39ab6574c289c3ae4d88500eec792ab5b947a5eb'

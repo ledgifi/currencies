@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa7C71d444bf9aF4bfEd2adE75595d7512Eb4DD39'
+    platform: ETH
 crypto: true
 fiat: false
 id: T1C
 id_coinmarketcap: '5819'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5819.png
 name: Travel1Click
-platform: ETH
-platform_contract: '0xa7C71d444bf9aF4bfEd2adE75595d7512Eb4DD39'

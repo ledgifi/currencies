@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x55f93985431fc9304077687a35a1ba103dc1e081'
+    platform: ETH
 crypto: true
 fiat: false
 id: SMT1
 id_coinmarketcap: '2277'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2277.png
 name: SmartMesh
-platform: ETH
-platform_contract: '0x55f93985431fc9304077687a35a1ba103dc1e081'

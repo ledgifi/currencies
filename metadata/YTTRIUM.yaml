@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb4c61a351f1455fccfe9d6d35baf0bd7080f4199'
+    platform: BNB
 crypto: true
 fiat: false
 id: YTTRIUM
 id_coinmarketcap: '17018'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17018.png
 name: Ladyminers
-platform: BNB
-platform_contract: '0xb4c61a351f1455fccfe9d6d35baf0bd7080f4199'

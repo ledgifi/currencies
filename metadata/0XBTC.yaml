@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb6ed7644c69416d67b522e20bc294a9a9b405b31'
+    platform: ETH
 crypto: true
 fiat: false
 id: 0xBTC
 id_coinmarketcap: '2837'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2837.png
 name: 0xBitcoin
-platform: ETH
-platform_contract: '0xb6ed7644c69416d67b522e20bc294a9a9b405b31'

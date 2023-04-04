@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x307d45afbb7e84f82ef3d251a6bb0f00edf632e4'
+    platform: ETH
 crypto: true
 fiat: false
 id: PLA1
 id_coinmarketcap: '4242'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4242.png
 name: PLANET
-platform: ETH
-platform_contract: '0x307d45afbb7e84f82ef3d251a6bb0f00edf632e4'

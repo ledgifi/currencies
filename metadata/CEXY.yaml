@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbf5b870537dc1e686f7be9791a9fab86ee29a7a0'
+    platform: BNB
 crypto: true
 fiat: false
 id: CEXY
 id_coinmarketcap: '4274'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4274.png
 name: Cexland
-platform: BNB
-platform_contract: '0xbf5b870537dc1e686f7be9791a9fab86ee29a7a0'

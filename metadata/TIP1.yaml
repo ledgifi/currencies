@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x07dE533cBC72395C32eB8981DDccD2CC6a6E1c4E'
+    platform: ETH
 crypto: true
 fiat: false
 id: TIP1
 id_coinmarketcap: '8332'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8332.png
 name: TECHNOLOGY INNOVATION PROJECT
-platform: ETH
-platform_contract: '0x07dE533cBC72395C32eB8981DDccD2CC6a6E1c4E'

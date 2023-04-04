@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x33FA340E3Ca95c84EF4529F864F3733B7f0Ff396'
+    platform: BNB
 crypto: true
 fiat: false
 id: TIGER3
 id_coinmarketcap: '19527'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19527.png
 name: TIGER COIN
-platform: BNB
-platform_contract: '0x33FA340E3Ca95c84EF4529F864F3733B7f0Ff396'

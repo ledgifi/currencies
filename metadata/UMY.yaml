@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0522ecfe37ab2bdb5d60a99e08d1e8379bd35c00'
+    platform: BNB
 crypto: true
 fiat: false
 id: UMY
 id_coinmarketcap: '15574'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15574.png
 name: KaraStar UMY
-platform: BNB
-platform_contract: '0x0522ecfe37ab2bdb5d60a99e08d1e8379bd35c00'

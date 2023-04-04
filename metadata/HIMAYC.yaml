@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x635f15eb7aa2e62d122f6b1f9f519fdccf4abdda'
+    platform: ETH
 crypto: true
 fiat: false
 id: HIMAYC
 id_coinmarketcap: '22033'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22033.png
 name: hiMAYC
-platform: ETH
-platform_contract: '0x635f15eb7aa2e62d122f6b1f9f519fdccf4abdda'

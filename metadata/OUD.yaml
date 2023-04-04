@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x128Ba6Da77f67155A7ef6856C33cc714dF94f2DC'
+    platform: BNB
 crypto: true
 fiat: false
 id: OUD
 id_coinmarketcap: '17598'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17598.png
 name: OUD
-platform: BNB
-platform_contract: '0x128Ba6Da77f67155A7ef6856C33cc714dF94f2DC'

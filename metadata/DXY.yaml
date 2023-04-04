@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x39fa206c1648944f92e8f7b626e1cbdf78d7e9db'
+    platform: ETH
 crypto: true
 fiat: false
 id: DXY
 id_coinmarketcap: '7491'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7491.png
 name: DXY FINANCE
-platform: ETH
-platform_contract: '0x39fa206c1648944f92e8f7b626e1cbdf78d7e9db'

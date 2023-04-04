@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe26df510e872174c00967e7936bbf93e33963f20'
+    platform: BNB
 crypto: true
 fiat: false
 id: $BSHIBR
 id_coinmarketcap: '11195'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11195.png
 name: Baby shiba rocket
-platform: BNB
-platform_contract: '0xe26df510e872174c00967e7936bbf93e33963f20'

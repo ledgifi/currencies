@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb699390735ed74e2d89075b300761dae34b4b36b'
+    platform: BNB
 crypto: true
 fiat: false
 id: GRAPE1
 id_coinmarketcap: '8570'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8570.png
 name: Grapeswap
-platform: BNB
-platform_contract: '0xb699390735ed74e2d89075b300761dae34b4b36b'

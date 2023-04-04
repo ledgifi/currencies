@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x48666Fe01d123D14B53EAcf21f36786F2a786c86'
+    platform: ETH
 crypto: true
 fiat: false
 id: EFI1
 id_coinmarketcap: '17685'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17685.png
 name: EarnableFi
-platform: ETH
-platform_contract: '0x48666Fe01d123D14B53EAcf21f36786F2a786c86'

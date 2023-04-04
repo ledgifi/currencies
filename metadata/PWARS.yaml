@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x101Fd1FB9bc912aCF6D0120824F71bB6017724c5'
+    platform: BNB
 crypto: true
 fiat: false
 id: PWARS
 id_coinmarketcap: '19564'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19564.png
 name: PETWARS
-platform: BNB
-platform_contract: '0x101Fd1FB9bc912aCF6D0120824F71bB6017724c5'

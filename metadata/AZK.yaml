@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5408245a4d7c685f59ce6d3b8b35916dd6c11a99'
+    platform: ETH
 crypto: true
 fiat: false
 id: AZK
 id_coinmarketcap: '23993'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23993.png
 name: AnonZK
-platform: ETH
-platform_contract: '0x5408245a4d7c685f59ce6d3b8b35916dd6c11a99'

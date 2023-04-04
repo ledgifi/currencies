@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704'
+    platform: ETH
 crypto: true
 fiat: false
 id: XIO
 id_coinmarketcap: '4997'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4997.png
 name: Blockzero Labs
-platform: ETH
-platform_contract: '0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704'

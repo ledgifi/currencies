@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x725440512cb7b78bf56b334e50e31707418231cb'
+    platform: ETH
 crypto: true
 fiat: false
 id: DEXA
 id_coinmarketcap: '4917'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4917.png
 name: DEXA COIN
-platform: ETH
-platform_contract: '0x725440512cb7b78bf56b334e50e31707418231cb'

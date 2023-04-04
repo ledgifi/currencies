@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA9859874e1743A32409f75bB11549892138BBA1E'
+    platform: ETH
 crypto: true
 fiat: false
 id: IETH1
 id_coinmarketcap: '6188'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6188.png
 name: iETH
-platform: ETH
-platform_contract: '0xA9859874e1743A32409f75bB11549892138BBA1E'

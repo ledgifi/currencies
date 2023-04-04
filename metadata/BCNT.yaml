@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9669890e48f330acd88b78d63e1a6b3482652cd9'
+    platform: ETH
 crypto: true
 fiat: false
 id: BCNT
 id_coinmarketcap: '4808'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4808.png
 name: Bincentive
-platform: ETH
-platform_contract: '0x9669890e48f330acd88b78d63e1a6b3482652cd9'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5'
+    platform: AVAX
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: QI3
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/ba13379c-0cf9-484c-9b89-c3a356d74d39.png
 logoKey: currencies/qi.png
 name: BENQI
-platform: AVAX
-platform_contract: '0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5'

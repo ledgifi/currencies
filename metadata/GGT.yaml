@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0195af07ff81e2dcdd40bb8f7719fb4426a978c9'
+    platform: BNB
 crypto: true
 fiat: false
 id: GGT
 id_coinmarketcap: '20463'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20463.png
 name: Goat Gang
-platform: BNB
-platform_contract: '0x0195af07ff81e2dcdd40bb8f7719fb4426a978c9'

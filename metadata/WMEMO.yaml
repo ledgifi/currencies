@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0da67235dd5787d67955420c84ca1cecd4e5bb3b'
+    platform: AVAX
 crypto: true
 fiat: false
 id: WMEMO
 id_coinmarketcap: '17076'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17076.png
 name: Wonderful Memories
-platform: AVAX
-platform_contract: '0x0da67235dd5787d67955420c84ca1cecd4e5bb3b'

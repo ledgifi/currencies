@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe8b9b396c59a6bc136cf1f05c4d1a68a0f7c2dd7'
+    platform: BNB
 crypto: true
 fiat: false
 id: ADGNZ
 id_coinmarketcap: '10259'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10259.png
 name: Degen Token Finance
-platform: BNB
-platform_contract: '0xe8b9b396c59a6bc136cf1f05c4d1a68a0f7c2dd7'

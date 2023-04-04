@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xa249de6948022783765fee4850d7b85e43118fcc'
+    platform: ETH
 crypto: true
 fiat: false
 id: JAR
@@ -7,5 +10,3 @@ id_nomics: JAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JAR.jpg
 logoKey: currencies/jar.jpg
 name: Jarvis+
-platform: ETH
-platform_contract: '0xa249de6948022783765fee4850d7b85e43118fcc'

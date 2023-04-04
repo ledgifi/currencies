@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe477292f1b3268687a29376116b0ed27a9c76170'
+    platform: ETH
 crypto: true
 fiat: false
 id: PLAY
 id_coinmarketcap: '2323'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2323.png
 name: HEROcoin
-platform: ETH
-platform_contract: '0xe477292f1b3268687a29376116b0ed27a9c76170'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4c8a3a1025ab87ef184cb7f0691a5a371fe783a6'
+    platform: BNB
 crypto: true
 fiat: false
 id: RAKE
 id_coinmarketcap: '23965'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23965.png
 name: RakeIn
-platform: BNB
-platform_contract: '0x4c8a3a1025ab87ef184cb7f0691a5a371fe783a6'

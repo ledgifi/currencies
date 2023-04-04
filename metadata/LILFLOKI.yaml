@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3271d12d5ba36b6582fafa029598fee0f5f6db35'
+    platform: BNB
 crypto: true
 fiat: false
 id: LILFLOKI
 id_coinmarketcap: '12895'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12895.png
 name: Lil Floki
-platform: BNB
-platform_contract: '0x3271d12d5ba36b6582fafa029598fee0f5f6db35'

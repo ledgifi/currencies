@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x87e837803513e8c735a4eC1bcbf97Bc3050F41a5'
+    platform: BNB
 crypto: true
 fiat: false
 id: ECM
 id_coinmarketcap: '21204'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21204.png
 name: EzcoinMarket
-platform: BNB
-platform_contract: '0x87e837803513e8c735a4eC1bcbf97Bc3050F41a5'

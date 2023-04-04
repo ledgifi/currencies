@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xadf6d29572Af16dE3C44e6B89D2D8E0380044FA6'
+    platform: BNB
 crypto: true
 fiat: false
 id: NXDT
 id_coinmarketcap: '22023'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22023.png
 name: NXD Next
-platform: BNB
-platform_contract: '0xadf6d29572Af16dE3C44e6B89D2D8E0380044FA6'

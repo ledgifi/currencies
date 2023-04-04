@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x30b1efb052205e6ca3c4888c3c50c5b339cc0602'
+    platform: ETH
 crypto: true
 fiat: false
 id: GEM5
 id_coinmarketcap: '7433'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7433.png
 name: Cargo Gems
-platform: ETH
-platform_contract: '0x30b1efb052205e6ca3c4888c3c50c5b339cc0602'

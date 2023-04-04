@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2f6f397332b0f8b4536430bcc97980aa838f62f9'
+    platform: ETH
 crypto: true
 fiat: false
 id: YUNA
 id_coinmarketcap: '23866'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23866.png
 name: YUNA
-platform: ETH
-platform_contract: '0x2f6f397332b0f8b4536430bcc97980aa838f62f9'

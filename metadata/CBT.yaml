@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfA93660C3f6a848556Bb8E265f994160A1F2B289'
+    platform: ETH
 crypto: true
 fiat: false
 id: CBT
 id_coinmarketcap: '9342'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9342.png
 name: Community Business Token
-platform: ETH
-platform_contract: '0xfA93660C3f6a848556Bb8E265f994160A1F2B289'

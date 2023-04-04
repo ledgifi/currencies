@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6ff40f79b5c4b1ea01f4765a7dfed477cc6bbe64'
+    platform: BNB
 crypto: true
 fiat: false
 id: TTB
 id_coinmarketcap: '12564'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12564.png
 name: TetherBlack
-platform: BNB
-platform_contract: '0x6ff40f79b5c4b1ea01f4765a7dfed477cc6bbe64'

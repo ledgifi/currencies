@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd212046f89680ac9f106b9c63f314cc9808e18d5'
+    platform: ETH
 crypto: true
 fiat: false
 id: SUKI
 id_coinmarketcap: '23467'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23467.png
 name: Sukiyaki
-platform: ETH
-platform_contract: '0xd212046f89680ac9f106b9c63f314cc9808e18d5'

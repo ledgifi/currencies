@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xBD573dDc3aB93D7984012B897821F6C09F4D24E3'
+    platform: BNB
 crypto: true
 fiat: false
 id: DIQ
 id_coinmarketcap: '16018'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16018.png
 name: DiamondQ
-platform: BNB
-platform_contract: '0xBD573dDc3aB93D7984012B897821F6C09F4D24E3'

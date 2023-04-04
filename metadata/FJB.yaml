@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa179248e50ce5afb507fd8c54e08a66fbac7b6ff'
+    platform: BNB
 crypto: true
 fiat: false
 id: FJB
 id_coinmarketcap: '14251'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14251.png
 name: Freedom. Jobs. Business.
-platform: BNB
-platform_contract: '0xa179248e50ce5afb507fd8c54e08a66fbac7b6ff'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6a969D379700B2E5EA4E684d273d63C1c050Ba49'
+    platform: ETH
 crypto: true
 fiat: false
 id: PAF
 id_coinmarketcap: '14798'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14798.png
 name: Pacific
-platform: ETH
-platform_contract: '0x6a969D379700B2E5EA4E684d273d63C1c050Ba49'

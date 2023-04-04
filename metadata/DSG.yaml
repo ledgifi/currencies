@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9a78649501bbaac285ea4187299471b7ad4abd35'
+    platform: BNB
 crypto: true
 fiat: false
 id: DSG
 id_coinmarketcap: '12549'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12549.png
 name: Dinosaureggs
-platform: BNB
-platform_contract: '0x9a78649501bbaac285ea4187299471b7ad4abd35'

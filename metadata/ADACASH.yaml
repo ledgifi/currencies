@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x651a89fed302227d41425235f8e934502fb94c48'
+    platform: BNB
 crypto: true
 fiat: false
 id: ADACASH
 id_coinmarketcap: '13351'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13351.png
 name: ADACash
-platform: BNB
-platform_contract: '0x651a89fed302227d41425235f8e934502fb94c48'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x14dd7ebe6cb084cb73ef377e115554d47dc9d61e'
+    platform: ETH
 crypto: true
 fiat: false
 id: APES1
 id_coinmarketcap: '10003'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10003.png
 name: ApeHaven
-platform: ETH
-platform_contract: '0x14dd7ebe6cb084cb73ef377e115554d47dc9d61e'

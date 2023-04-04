@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfa9802a073497533b9bad00c85d091030d68c7a0'
+    platform: AVAX
 crypto: true
 fiat: false
 id: SALE1
 id_coinmarketcap: '14269'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14269.png
 name: Saleslist
-platform: AVAX
-platform_contract: '0xfa9802a073497533b9bad00c85d091030d68c7a0'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x10ff10d221dd4a64d6346c866e0cc5699bc2f5d1'
+    platform: BNB
 crypto: true
 fiat: false
 id: RFC
 id_coinmarketcap: '14444'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14444.png
 name: Royal Flush Coin
-platform: BNB
-platform_contract: '0x10ff10d221dd4a64d6346c866e0cc5699bc2f5d1'

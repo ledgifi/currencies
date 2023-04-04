@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7a35f9ca26ab657e1be07df73a6c8f5bffec3b4b'
+    platform: BNB
 crypto: true
 fiat: false
 id: babyDogeKing
 id_coinmarketcap: '17880'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17880.png
 name: babyDogeKing
-platform: BNB
-platform_contract: '0x7a35f9ca26ab657e1be07df73a6c8f5bffec3b4b'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2d77f5b3efa51821ad6483adaf38ea4cb1824cc5'
+    platform: ETH
 crypto: true
 fiat: false
 id: MANA1
 id_coinmarketcap: '12712'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12712.png
 name: Genesis Mana
-platform: ETH
-platform_contract: '0x2d77f5b3efa51821ad6483adaf38ea4cb1824cc5'

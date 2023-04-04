@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xab15b79880f11cffb58db25ec2bc39d28c4d80d2'
+    platform: BNB
 crypto: true
 fiat: false
 id: SMON
 id_coinmarketcap: '11523'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11523.png
 name: Starmon Metaverse
-platform: BNB
-platform_contract: '0xab15b79880f11cffb58db25ec2bc39d28c4d80d2'

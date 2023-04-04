@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x192E9321b6244D204D4301AfA507EB29CA84D9ef'
+    platform: BNB
 crypto: true
 fiat: false
 id: BOXER
 id_coinmarketcap: '10972'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10972.png
 name: Boxer Inu
-platform: BNB
-platform_contract: '0x192E9321b6244D204D4301AfA507EB29CA84D9ef'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbeef3bb9da340ebdf0f5bae2e85368140d7d85d0'
+    platform: ETH
 crypto: true
 fiat: false
 id: MORE2
 id_coinmarketcap: '21339'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21339.png
 name: BuyMORE
-platform: ETH
-platform_contract: '0xbeef3bb9da340ebdf0f5bae2e85368140d7d85d0'

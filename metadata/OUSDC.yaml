@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x754288077d0ff82af7a5317c7cb8c444d421d103'
+    platform: KLAY
 crypto: true
 fiat: false
 id: OUSDC
 id_coinmarketcap: '21495'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21495.png
 name: Orbit Bridge Klaytn USDC
-platform: KLAY
-platform_contract: '0x754288077d0ff82af7a5317c7cb8c444d421d103'

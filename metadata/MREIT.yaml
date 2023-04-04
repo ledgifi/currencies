@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbcb0eb8ba251a9434ba9d9274f6a269f9c1ce046'
+    platform: BNB
 crypto: true
 fiat: false
 id: MREIT
 id_coinmarketcap: '17270'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17270.png
 name: MetaSpace REIT
-platform: BNB
-platform_contract: '0xbcb0eb8ba251a9434ba9d9274f6a269f9c1ce046'

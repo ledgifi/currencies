@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5c5413bad5f6fdb0f4fcd1457e46ead8e01d73d3'
+    platform: ETH
 crypto: true
 fiat: false
 id: UAHPAY
 id_coinmarketcap: '2238'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2238.png
 name: UAHPay
-platform: ETH
-platform_contract: '0x5c5413bad5f6fdb0f4fcd1457e46ead8e01d73d3'

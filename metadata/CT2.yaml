@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9130ae8e2826947cf8b6a06333890b4e8a1667c7'
+    platform: BNB
 crypto: true
 fiat: false
 id: CT2
 id_coinmarketcap: '8779'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8779.png
 name: CommunityToken
-platform: BNB
-platform_contract: '0x9130ae8e2826947cf8b6a06333890b4e8a1667c7'

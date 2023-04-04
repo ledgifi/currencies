@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x66da5cc445fec38a9475ae7941f89110b9d256b9'
+    platform: BNB
 crypto: true
 fiat: false
 id: VODKA
 id_coinmarketcap: '15147'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15147.png
 name: Vodka Token
-platform: BNB
-platform_contract: '0x66da5cc445fec38a9475ae7941f89110b9d256b9'

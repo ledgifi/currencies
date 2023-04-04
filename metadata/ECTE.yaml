@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe9fa21e671bcfb04e6868784b89c19d5aa2424ea'
+    platform: ETH
 crypto: true
 fiat: false
 id: ECTE
 id_coinmarketcap: '3741'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3741.png
 name: EurocoinToken
-platform: ETH
-platform_contract: '0xe9fa21e671bcfb04e6868784b89c19d5aa2424ea'

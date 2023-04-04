@@ -1,8 +1,9 @@
+contracts:
+  - address: '792313023'
+    platform: ALGO
 crypto: true
 fiat: false
 id: XSOL
 id_coinmarketcap: '20916'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20916.png
 name: Wrapped SOL
-platform: ALGO
-platform_contract: '792313023'

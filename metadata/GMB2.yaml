@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1b148b90442826375e864b71165a18b4d9256097'
+    platform: ETH
 crypto: true
 fiat: false
 id: GMB2
 id_coinmarketcap: '3757'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3757.png
 name: GMB
-platform: ETH
-platform_contract: '0x1b148b90442826375e864b71165a18b4d9256097'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdA30f261a962d5AAe94C9ecd170544600d193766'
+    platform: ETH
 crypto: true
 fiat: false
 id: ORBR
 id_coinmarketcap: '17520'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17520.png
 name: Orbler
-platform: ETH
-platform_contract: '0xdA30f261a962d5AAe94C9ecd170544600d193766'

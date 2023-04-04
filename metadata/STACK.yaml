@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4'
+    platform: ETH
 crypto: true
 fiat: false
 id: STACK
 id_coinmarketcap: '9201'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9201.png
 name: StackOs
-platform: ETH
-platform_contract: '0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4'

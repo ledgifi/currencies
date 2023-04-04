@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xa184088a740c695e156f91f5cc086a06bb78b827'
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: AUTO3
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/4d4c1835-8f0e-41b7-9def-e4d2de2ac76a.png
 logoKey: currencies/auto.png
 name: Auto
-platform: BNB
-platform_contract: '0xa184088a740c695e156f91f5cc086a06bb78b827'

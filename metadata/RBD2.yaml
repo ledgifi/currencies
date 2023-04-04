@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb1fF3A6dAc85B476AeAB91CBB77936C84002d3ca'
+    platform: BNB
 crypto: true
 fiat: false
 id: RBD2
 id_coinmarketcap: '23294'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23294.png
 name: Rabbids
-platform: BNB
-platform_contract: '0xb1fF3A6dAc85B476AeAB91CBB77936C84002d3ca'

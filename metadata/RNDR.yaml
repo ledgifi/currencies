@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: RNDR
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220726/41abde48-496d-46dd-9478-e972bf10a08c.png
 logoKey: currencies/rndr.png
 name: Render Token
-platform: ETH
-platform_contract: '0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24'

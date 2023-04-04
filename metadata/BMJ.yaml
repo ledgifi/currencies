@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x25ce333B325F02C9720Da526A01b5F5be889b4e3'
+    platform: ETH
 crypto: true
 fiat: false
 id: BMJ
 id_coinmarketcap: '6228'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6228.png
 name: BMJ Coin
-platform: ETH
-platform_contract: '0x25ce333B325F02C9720Da526A01b5F5be889b4e3'

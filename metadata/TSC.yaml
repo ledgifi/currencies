@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa2a26349448ddafae34949a6cc2cecf78c0497ac'
+    platform: BNB
 crypto: true
 fiat: false
 id: TSC
 id_coinmarketcap: '11205'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11205.png
 name: TrusterCoin
-platform: BNB
-platform_contract: '0xa2a26349448ddafae34949a6cc2cecf78c0497ac'

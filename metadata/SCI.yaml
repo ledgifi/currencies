@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x04524f05cce069af9bce7879616773a94bb46c84'
+    platform: BNB
 crypto: true
 fiat: false
 id: SCI
 id_coinmarketcap: '22873'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22873.png
 name: SCI Coin
-platform: BNB
-platform_contract: '0x04524f05cce069af9bce7879616773a94bb46c84'

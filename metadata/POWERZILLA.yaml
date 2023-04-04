@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf082907bebdd0978e075621cf040ec716de966b9'
+    platform: BNB
 crypto: true
 fiat: false
 id: POWERZILLA
 id_coinmarketcap: '15307'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15307.png
 name: PowerZilla
-platform: BNB
-platform_contract: '0xf082907bebdd0978e075621cf040ec716de966b9'

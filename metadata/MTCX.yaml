@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x74658fB5f7fF3Bc7d70f7F792d53fd74f89dC055'
+    platform: ETH
 crypto: true
 fiat: false
 id: MTCX
 id_coinmarketcap: '5080'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5080.png
 name: MYTHIC
-platform: ETH
-platform_contract: '0x74658fB5f7fF3Bc7d70f7F792d53fd74f89dC055'

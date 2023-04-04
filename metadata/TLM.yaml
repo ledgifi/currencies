@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x888888848B652B3E3a0f34c96E00EEC0F3a23F72'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: TLM2
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/2edb3088-8008-482a-9e9b-d82b41afb31a.png
 logoKey: currencies/tlm.png
 name: Alien Worlds
-platform: ETH
-platform_contract: '0x888888848B652B3E3a0f34c96E00EEC0F3a23F72'

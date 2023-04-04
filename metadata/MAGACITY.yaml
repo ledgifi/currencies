@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x791b12dc4e480ef50bfd189400b189af234d577d'
+    platform: BNB
 crypto: true
 fiat: false
 id: MAGACITY
 id_coinmarketcap: '17509'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17509.png
 name: Make Cities Great Again
-platform: BNB
-platform_contract: '0x791b12dc4e480ef50bfd189400b189af234d577d'

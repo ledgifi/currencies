@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x77C6E4a580c0dCE4E5c7a17d0bc077188a83A059'
+    platform: ETH
 crypto: true
 fiat: false
 id: SWUSD
 id_coinmarketcap: '7508'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7508.png
 name: Swerve.fi USD
-platform: ETH
-platform_contract: '0x77C6E4a580c0dCE4E5c7a17d0bc077188a83A059'

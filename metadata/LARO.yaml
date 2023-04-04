@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA534687815AAc89A61a6350901157a9d3Bab2585'
+    platform: BNB
 crypto: true
 fiat: false
 id: LARO
 id_coinmarketcap: '20006'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20006.png
 name: Anito Legends
-platform: BNB
-platform_contract: '0xA534687815AAc89A61a6350901157a9d3Bab2585'

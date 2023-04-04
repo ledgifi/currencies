@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbf05571988daab22d33c28bbb13566eae9dee626'
+    platform: ETH
 crypto: true
 fiat: false
 id: '999'
 id_coinmarketcap: '4949'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4949.png
 name: '999'
-platform: ETH
-platform_contract: '0xbf05571988daab22d33c28bbb13566eae9dee626'

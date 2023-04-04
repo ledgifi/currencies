@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948'
+    platform: AVAX
 crypto: true
 fiat: false
 id: MONEY
 id_coinmarketcap: '18758'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18758.png
 name: Moremoney USD
-platform: AVAX
-platform_contract: '0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948'

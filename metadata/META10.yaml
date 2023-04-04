@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd0c4bc1b89bbd105eecb7eba3f13e7648c0de38f'
+    platform: ETH
 crypto: true
 fiat: false
 id: META10
 id_coinmarketcap: '14098'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14098.png
 name: METAVERSE
-platform: ETH
-platform_contract: '0xd0c4bc1b89bbd105eecb7eba3f13e7648c0de38f'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5b685863494c33f344081f75e5430c260c224a32'
+    platform: ETH
 crypto: true
 fiat: false
 id: CMCX
 id_coinmarketcap: '12938'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12938.png
 name: CORE MultiChain
-platform: ETH
-platform_contract: '0x5b685863494c33f344081f75e5430c260c224a32'

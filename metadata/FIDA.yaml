@@ -1,4 +1,7 @@
 color: '#7c7cff'
+contracts:
+  - address: EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: FIDA
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/fida.svg
 logoKey: currencies/fida.svg
 name: Bonfida
-platform: SOL
-platform_contract: EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp

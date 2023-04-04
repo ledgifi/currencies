@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc08e10b7eb0736368a0b92ee7a140ec8c63a2dd1'
+    platform: BNB
 crypto: true
 fiat: false
 id: MUSO
 id_coinmarketcap: '11644'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11644.png
 name: MUSO Finance
-platform: BNB
-platform_contract: '0xc08e10b7eb0736368a0b92ee7a140ec8c63a2dd1'

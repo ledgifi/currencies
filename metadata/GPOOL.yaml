@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x797de1dc0b9faf5e25c1f7efe8df9599138fa09d'
+    platform: ETH
 crypto: true
 fiat: false
 id: GPOOL
 id_coinmarketcap: '11576'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11576.png
 name: Genesis Pool
-platform: ETH
-platform_contract: '0x797de1dc0b9faf5e25c1f7efe8df9599138fa09d'

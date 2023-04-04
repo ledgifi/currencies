@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3b831d36ed418e893f42d46ff308c326c239429f'
+    platform: BNB
 crypto: true
 fiat: false
 id: TCAKE
 id_coinmarketcap: '9063'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9063.png
 name: Tcake
-platform: BNB
-platform_contract: '0x3b831d36ed418e893f42d46ff308c326c239429f'

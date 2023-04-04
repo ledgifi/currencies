@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x876ec6be52486eeec06bc06434f3e629d695c6ba'
+    platform: ARB
 crypto: true
 fiat: false
 id: FLUID
 id_coinmarketcap: '14581'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14581.png
 name: FluidFi
-platform: ARB
-platform_contract: '0x876ec6be52486eeec06bc06434f3e629d695c6ba'

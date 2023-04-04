@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf071AF4Da0D1c4f9BfD624C2C5eced7C5fe52573'
+    platform: BNB
 crypto: true
 fiat: false
 id: IGN
 id_coinmarketcap: '13500'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13500.png
 name: Infinity Game NFT
-platform: BNB
-platform_contract: '0xf071AF4Da0D1c4f9BfD624C2C5eced7C5fe52573'

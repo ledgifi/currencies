@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x748ed23b57726617069823dc1e6267c8302d4e76'
+    platform: BNB
 crypto: true
 fiat: false
 id: CADINU1
 id_coinmarketcap: '17975'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17975.png
 name: Canadian Inuit Dog(OLD)
-platform: BNB
-platform_contract: '0x748ed23b57726617069823dc1e6267c8302d4e76'

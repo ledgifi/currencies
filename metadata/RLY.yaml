@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b'
+    platform: ETH
 crypto: true
 fiat: false
 id: RLY
 id_coinmarketcap: '8075'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8075.png
 name: Rally
-platform: ETH
-platform_contract: '0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b'

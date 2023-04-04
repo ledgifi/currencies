@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x383627CaeC2CE3b36793c34B576B2e97BEDA0466'
+    platform: CRO
 crypto: true
 fiat: false
 id: AGO
 id_coinmarketcap: '18265'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18265.png
 name: Agora Token
-platform: CRO
-platform_contract: '0x383627CaeC2CE3b36793c34B576B2e97BEDA0466'

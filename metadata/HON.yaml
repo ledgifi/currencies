@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB'
+    platform: AVAX
 crypto: true
 fiat: false
 id: HON
 id_coinmarketcap: '17969'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17969.png
 name: Heroes of NFT
-platform: AVAX
-platform_contract: '0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x45cde5c8ae6e4a5568e488ef43a173eeeabfcc21'
+    platform: ETH
 crypto: true
 fiat: false
 id: DOOS
 id_coinmarketcap: '6983'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6983.png
 name: DOOS TOKEN
-platform: ETH
-platform_contract: '0x45cde5c8ae6e4a5568e488ef43a173eeeabfcc21'

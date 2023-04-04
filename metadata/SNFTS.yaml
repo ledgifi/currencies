@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6f51a1674befdd77f7ab1246b83adb9f13613762'
+    platform: BNB
 crypto: true
 fiat: false
 id: SNFTS
 id_coinmarketcap: '21563'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21563.png
 name: Seedify NFT Space
-platform: BNB
-platform_contract: '0x6f51a1674befdd77f7ab1246b83adb9f13613762'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xca0c1c12466a57b26850b05a0ba2fb39f9763a0c'
+    platform: BNB
 crypto: true
 fiat: false
 id: EZI
 id_coinmarketcap: '20228'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20228.png
 name: Ezillion
-platform: BNB
-platform_contract: '0xca0c1c12466a57b26850b05a0ba2fb39f9763a0c'

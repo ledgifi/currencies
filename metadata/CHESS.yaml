@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x20de22029ab63cf9A7Cf5fEB2b737Ca1eE4c82A6'
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: CHESS4
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/e3c31d90-01ed-43e2-b97b-ef9ef1aeb6cd.png
 logoKey: currencies/chess.png
 name: Tranchess
-platform: BNB
-platform_contract: '0x20de22029ab63cf9A7Cf5fEB2b737Ca1eE4c82A6'

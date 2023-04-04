@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x08C811aE0B0d20a396fb07cdAeb7301F2967CE5C'
+    platform: BNB
 crypto: true
 fiat: false
 id: GNOME1
 id_coinmarketcap: '14517'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14517.png
 name: GnomeToken
-platform: BNB
-platform_contract: '0x08C811aE0B0d20a396fb07cdAeb7301F2967CE5C'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xef4f66506aaaeeff6d10775ad6f994105d8f11b4'
+    platform: BNB
 crypto: true
 fiat: false
 id: NEF
 id_coinmarketcap: '11996'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11996.png
 name: NEF RUNE - Rune.Game
-platform: BNB
-platform_contract: '0xef4f66506aaaeeff6d10775ad6f994105d8f11b4'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xD8C152d3B94084D7C8Ec951E81FbBFc4B6dE5B2B'
+    platform: BNB
 crypto: true
 fiat: false
 id: PIE3
 id_coinmarketcap: '17485'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17485.png
 name: Pie Share
-platform: BNB
-platform_contract: '0xD8C152d3B94084D7C8Ec951E81FbBFc4B6dE5B2B'

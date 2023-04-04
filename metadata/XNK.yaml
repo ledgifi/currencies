@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbc86727e770de68b1060c91f6bb6945c73e10388'
+    platform: ETH
 crypto: true
 fiat: false
 id: XNK
 id_coinmarketcap: '2549'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2549.png
 name: Ink Protocol
-platform: ETH
-platform_contract: '0xbc86727e770de68b1060c91f6bb6945c73e10388'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcdb7ecfd3403eef3882c65b761ef9b5054890a47'
+    platform: ETH
 crypto: true
 fiat: false
 id: HUR
 id_coinmarketcap: '2849'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2849.png
 name: Hurify
-platform: ETH
-platform_contract: '0xcdb7ecfd3403eef3882c65b761ef9b5054890a47'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7645DdfEecedA57e41f92679c4aCd83c56A81D14'
+    platform: ETH
 crypto: true
 fiat: false
 id: FLUX1
 id_coinmarketcap: '9837'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9837.png
 name: Flux Protocol
-platform: ETH
-platform_contract: '0x7645DdfEecedA57e41f92679c4aCd83c56A81D14'

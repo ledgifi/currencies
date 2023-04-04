@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb04ef3b613f2f4634d970807d16665cff7a4472b'
+    platform: BNB
 crypto: true
 fiat: false
 id: KINO
 id_coinmarketcap: '16485'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16485.png
 name: Kino Token
-platform: BNB
-platform_contract: '0xb04ef3b613f2f4634d970807d16665cff7a4472b'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf6B52a29671E74e6b3a7592EF79039AbB64E2885'
+    platform: BNB
 crypto: true
 fiat: false
 id: HUMAI
 id_coinmarketcap: '23848'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23848.png
 name: Humanoid AI
-platform: BNB
-platform_contract: '0xf6B52a29671E74e6b3a7592EF79039AbB64E2885'

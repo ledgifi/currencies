@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xc8ef1460277ea47d179dec66d1c5f8b7f7ae5a28'
+    platform: ETH
 crypto: true
 fiat: false
 id: RIFI
@@ -7,5 +10,3 @@ id_nomics: RIFI
 logo: https://static.coinpaprika.com/coin/rifi-rikkei-finance/logo.png
 logoKey: currencies/rifi.png
 name: Rikkei Finance
-platform: ETH
-platform_contract: '0xc8ef1460277ea47d179dec66d1c5f8b7f7ae5a28'

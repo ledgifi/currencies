@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xAE01Ac36DEb43eC2593855e35f5E62Dc992d7c95'
+    platform: BNB
 crypto: true
 fiat: false
 id: CLUB2
 id_coinmarketcap: '18297'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18297.png
 name: Meta Club
-platform: BNB
-platform_contract: '0xAE01Ac36DEb43eC2593855e35f5E62Dc992d7c95'

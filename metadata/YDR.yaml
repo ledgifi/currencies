@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3757232b55e60da4a8793183ac030cfce4c3865d'
+    platform: ETH
 crypto: true
 fiat: false
 id: YDR
 id_coinmarketcap: '11321'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11321.png
 name: YDragon
-platform: ETH
-platform_contract: '0x3757232b55e60da4a8793183ac030cfce4c3865d'

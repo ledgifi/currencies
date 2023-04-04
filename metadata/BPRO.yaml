@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbbbbbbb5aa847a2003fbc6b5c16df0bd1e725f61'
+    platform: ETH
 crypto: true
 fiat: false
 id: BPRO
 id_coinmarketcap: '10556'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10556.png
 name: B.Protocol
-platform: ETH
-platform_contract: '0xbbbbbbb5aa847a2003fbc6b5c16df0bd1e725f61'

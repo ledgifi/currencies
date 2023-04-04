@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4cA49047dd9144cdC3cF9403e6f0E466761Ce3F4'
+    platform: BNB
 crypto: true
 fiat: false
 id: CORAL1
 id_coinmarketcap: '19404'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19404.png
 name: OceanPark
-platform: BNB
-platform_contract: '0x4cA49047dd9144cdC3cF9403e6f0E466761Ce3F4'

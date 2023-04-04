@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe8ce27f7f710982ce427d57b571cdb041d052d9b'
+    platform: BNB
 crypto: true
 fiat: false
 id: MILLIONS
 id_coinmarketcap: '16392'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16392.png
 name: Floki Millions
-platform: BNB
-platform_contract: '0xe8ce27f7f710982ce427d57b571cdb041d052d9b'

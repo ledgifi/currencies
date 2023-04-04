@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x24abfb6ebc7a6c63731c4aa540d4ec1fd6ce1215'
+    platform: BNB
 crypto: true
 fiat: false
 id: LIST
 id_coinmarketcap: '19153'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19153.png
 name: KList Protocol
-platform: BNB
-platform_contract: '0x24abfb6ebc7a6c63731c4aa540d4ec1fd6ce1215'

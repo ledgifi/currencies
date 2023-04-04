@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9ab70e92319f0b9127df78868fd3655fb9f1e322'
+    platform: BNB
 crypto: true
 fiat: false
 id: WWY
 id_coinmarketcap: '17047'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17047.png
 name: WeWay
-platform: BNB
-platform_contract: '0x9ab70e92319f0b9127df78868fd3655fb9f1e322'

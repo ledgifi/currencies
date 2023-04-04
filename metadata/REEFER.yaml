@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xD3C931F70ff2E98d0639cf4ab29C7FB16b9c5E04'
+    platform: BNB
 crypto: true
 fiat: false
 id: REEFER
 id_coinmarketcap: '18494'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18494.png
 name: REEFER TOKEN V2
-platform: BNB
-platform_contract: '0xD3C931F70ff2E98d0639cf4ab29C7FB16b9c5E04'

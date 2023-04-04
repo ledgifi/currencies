@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd909c5862cdb164adb949d92622082f0092efc3d'
+    platform: ETH
 crypto: true
 fiat: false
 id: IPT
 id_coinmarketcap: '20599'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20599.png
 name: Interest Protocol
-platform: ETH
-platform_contract: '0xd909c5862cdb164adb949d92622082f0092efc3d'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4b87F578d6FaBf381f43bd2197fBB2A877da6ef8'
+    platform: BNB
 crypto: true
 fiat: false
 id: BFT2
 id_coinmarketcap: '21952'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21952.png
 name: The Big Five Token
-platform: BNB
-platform_contract: '0x4b87F578d6FaBf381f43bd2197fBB2A877da6ef8'

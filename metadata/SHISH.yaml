@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA3Ba9f53E1d9662573a822a1680B8F359D4A5519'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHISH
 id_coinmarketcap: '19337'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19337.png
 name: Shisha
-platform: BNB
-platform_contract: '0xA3Ba9f53E1d9662573a822a1680B8F359D4A5519'

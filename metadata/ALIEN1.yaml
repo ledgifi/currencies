@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf42965f82f9e3171d1205c5e3058caf324a09432'
+    platform: ETH
 crypto: true
 fiat: false
 id: ALIEN1
 id_coinmarketcap: '14985'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14985.png
 name: Alien Inu
-platform: ETH
-platform_contract: '0xf42965f82f9e3171d1205c5e3058caf324a09432'

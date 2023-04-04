@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe6e6a022b4d4e538ca0a1f47941cbbf3f9cc1467'
+    platform: BNB
 crypto: true
 fiat: false
 id: NUTSG
 id_coinmarketcap: '11170'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11170.png
 name: Nuts Gaming
-platform: BNB
-platform_contract: '0xe6e6a022b4d4e538ca0a1f47941cbbf3f9cc1467'

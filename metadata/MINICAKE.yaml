@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xC184E85e9FA942b8Ae553F5ef4d5b40FD0213Bf9'
+    platform: BNB
 crypto: true
 fiat: false
 id: MINICAKE
 id_coinmarketcap: '11059'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11059.png
 name: MiniCake
-platform: BNB
-platform_contract: '0xC184E85e9FA942b8Ae553F5ef4d5b40FD0213Bf9'

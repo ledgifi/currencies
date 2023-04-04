@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf02c5e1959c75d8105c19ee7b45a8dbad0c02d6a'
+    platform: BNB
 crypto: true
 fiat: false
 id: METAVEGAS
 id_coinmarketcap: '16415'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16415.png
 name: MetaVegas
-platform: BNB
-platform_contract: '0xf02c5e1959c75d8105c19ee7b45a8dbad0c02d6a'

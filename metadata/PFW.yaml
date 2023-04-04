@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbdfab42a028770f42a37458dc1bfe9531158826d'
+    platform: BNB
 crypto: true
 fiat: false
 id: PFW
 id_coinmarketcap: '14435'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14435.png
 name: Perfect World
-platform: BNB
-platform_contract: '0xbdfab42a028770f42a37458dc1bfe9531158826d'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcf64701d4567172a1de9177c319945589ed81b13'
+    platform: BNB
 crypto: true
 fiat: false
 id: ANTIS
 id_coinmarketcap: '16784'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16784.png
 name: ANTIS INU
-platform: BNB
-platform_contract: '0xcf64701d4567172a1de9177c319945589ed81b13'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x982de39fb553c7b4399940a811c6078a87d4efba'
+    platform: BNB
 crypto: true
 fiat: false
 id: CC1
 id_coinmarketcap: '18701'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18701.png
 name: CowCoin
-platform: BNB
-platform_contract: '0x982de39fb553c7b4399940a811c6078a87d4efba'

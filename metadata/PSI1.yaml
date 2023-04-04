@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6e70194F3A2D1D0a917C2575B7e33cF710718a17'
+    platform: BNB
 crypto: true
 fiat: false
 id: PSI1
 id_coinmarketcap: '8243'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8243.png
 name: Passive Income
-platform: BNB
-platform_contract: '0x6e70194F3A2D1D0a917C2575B7e33cF710718a17'

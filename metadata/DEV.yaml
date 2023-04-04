@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5caf454ba92e6f2c929df14667ee360ed9fd5b26'
+    platform: ETH
 crypto: true
 fiat: false
 id: DEV
 id_coinmarketcap: '5990'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5990.png
 name: Dev Protocol
-platform: ETH
-platform_contract: '0x5caf454ba92e6f2c929df14667ee360ed9fd5b26'

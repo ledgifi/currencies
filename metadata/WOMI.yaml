@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x04969cd041c0cafb6ac462bd65b536a5bdb3a670'
+    platform: ETH
 crypto: true
 fiat: false
 id: WOMI
 id_coinmarketcap: '9126'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9126.png
 name: Wrapped ECOMI
-platform: ETH
-platform_contract: '0x04969cd041c0cafb6ac462bd65b536a5bdb3a670'

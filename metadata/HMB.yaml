@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xC3b2140aC3E95EdFea220681EeCA127fC81E4929'
+    platform: ETH
 crypto: true
 fiat: false
 id: HMB
 id_coinmarketcap: '6461'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6461.png
 name: Hamebi Token
-platform: ETH
-platform_contract: '0xC3b2140aC3E95EdFea220681EeCA127fC81E4929'

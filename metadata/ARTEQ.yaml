@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x805C2077f3ab224D889f9c3992B41B2F4722c787'
+    platform: ETH
 crypto: true
 fiat: false
 id: ARTEQ
 id_coinmarketcap: '17715'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17715.png
 name: artèQ
-platform: ETH
-platform_contract: '0x805C2077f3ab224D889f9c3992B41B2F4722c787'

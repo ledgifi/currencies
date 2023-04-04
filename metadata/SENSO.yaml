@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xc19b6a4ac7c7cc24459f08984bbd09664af17bd1'
+    platform: ETH
 crypto: true
 fiat: false
 id: SENSO
@@ -7,5 +10,3 @@ id_nomics: SENSO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SENSO.png
 logoKey: currencies/senso.png
 name: SENSO
-platform: ETH
-platform_contract: '0xc19b6a4ac7c7cc24459f08984bbd09664af17bd1'

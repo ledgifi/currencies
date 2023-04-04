@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0E5C8C387C5EBa2eCbc137aD012aeD5Fe729e251'
+    platform: ETH
 crypto: true
 fiat: false
 id: RPG1
 id_coinmarketcap: '12221'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12221.png
 name: Rangers Protocol
-platform: ETH
-platform_contract: '0x0E5C8C387C5EBa2eCbc137aD012aeD5Fe729e251'

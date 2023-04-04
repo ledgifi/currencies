@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe081b71ed098fbe1108ea48e235b74f122272e68'
+    platform: ETH
 crypto: true
 fiat: false
 id: GOLD7
 id_coinmarketcap: '4322'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4322.png
 name: Gold
-platform: ETH
-platform_contract: '0xe081b71ed098fbe1108ea48e235b74f122272e68'

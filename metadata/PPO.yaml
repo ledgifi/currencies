@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb40dbbb7931cfef8be73aeec6c67d3809bd4600b'
+    platform: ARB
 crypto: true
 fiat: false
 id: PPO
 id_coinmarketcap: '21853'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21853.png
 name: prePO
-platform: ARB
-platform_contract: '0xb40dbbb7931cfef8be73aeec6c67d3809bd4600b'

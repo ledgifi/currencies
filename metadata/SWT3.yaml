@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe8ebcf4fd1faa9b77c0ec0b26e7cc32a251cd799'
+    platform: BNB
 crypto: true
 fiat: false
 id: SWT3
 id_coinmarketcap: '18490'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18490.png
 name: SweetToken
-platform: BNB
-platform_contract: '0xe8ebcf4fd1faa9b77c0ec0b26e7cc32a251cd799'

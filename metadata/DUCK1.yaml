@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x92e187a03b6cd19cb6af293ba17f2745fd2357d5'
+    platform: ETH
 crypto: true
 fiat: false
 id: DUCK1
 id_coinmarketcap: '7977'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7977.png
 name: Unit Protocol Duck
-platform: ETH
-platform_contract: '0x92e187a03b6cd19cb6af293ba17f2745fd2357d5'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF080021c07FB6F55a5f2954Ce8f11cEdB25821EE'
+    platform: BNB
 crypto: true
 fiat: false
 id: FPC
 id_coinmarketcap: '19176'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19176.png
 name: FamilyParty
-platform: BNB
-platform_contract: '0xF080021c07FB6F55a5f2954Ce8f11cEdB25821EE'

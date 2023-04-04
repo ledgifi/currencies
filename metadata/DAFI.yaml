@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfc979087305a826c2b2a0056cfaba50aad3e6439'
+    platform: ETH
 crypto: true
 fiat: false
 id: DAFI
 id_coinmarketcap: '8874'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8874.png
 name: DAFI Protocol
-platform: ETH
-platform_contract: '0xfc979087305a826c2b2a0056cfaba50aad3e6439'

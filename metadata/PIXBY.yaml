@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB53e08B97724126Bda6d237B94F766c0b81C90fE'
+    platform: ETH
 crypto: true
 fiat: false
 id: PIXBY
 id_coinmarketcap: '6568'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6568.png
 name: PIXBY
-platform: ETH
-platform_contract: '0xB53e08B97724126Bda6d237B94F766c0b81C90fE'

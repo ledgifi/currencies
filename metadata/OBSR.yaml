@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3cb6be2fc6677a63cb52b07aed523f93f5a06cb4'
+    platform: KLAY
 crypto: true
 fiat: false
 id: OBSR
 id_coinmarketcap: '3698'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3698.png
 name: Observer
-platform: KLAY
-platform_contract: '0x3cb6be2fc6677a63cb52b07aed523f93f5a06cb4'

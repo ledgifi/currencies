@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3498CFA7D24F7a7D9702CFc33e5fe14226ffcc99'
+    platform: BNB
 crypto: true
 fiat: false
 id: RFN
 id_coinmarketcap: '23100'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23100.png
 name: Red Falcon
-platform: BNB
-platform_contract: '0x3498CFA7D24F7a7D9702CFc33e5fe14226ffcc99'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5f026f015773c3250edd3cf9ecbcc0e2ff5e712e'
+    platform: BNB
 crypto: true
 fiat: false
 id: ADAM1
 id_coinmarketcap: '21381'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21381.png
 name: ADAM
-platform: BNB
-platform_contract: '0x5f026f015773c3250edd3cf9ecbcc0e2ff5e712e'

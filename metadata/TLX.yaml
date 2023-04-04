@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xea255909e46a54d54255219468991c69ca0e659d'
+    platform: BNB
 crypto: true
 fiat: false
 id: TLX
 id_coinmarketcap: '11763'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11763.png
 name: The Luxury
-platform: BNB
-platform_contract: '0xea255909e46a54d54255219468991c69ca0e659d'

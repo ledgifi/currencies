@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x1712aad2c773ee04bdc9114b32163c058321cd85'
+    platform: ETH
 crypto: true
 fiat: false
 id: LIMIT
@@ -7,5 +10,3 @@ id_nomics: LIMIT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LIMIT.png
 logoKey: currencies/limit.png
 name: LimitSwap
-platform: ETH
-platform_contract: '0x1712aad2c773ee04bdc9114b32163c058321cd85'

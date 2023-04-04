@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xFAd8E46123D7b4e77496491769C167FF894d2ACB'
+    platform: BNB
 crypto: true
 fiat: false
 id: FOX5
 id_coinmarketcap: '9239'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9239.png
 name: Fox Finance (old)
-platform: BNB
-platform_contract: '0xFAd8E46123D7b4e77496491769C167FF894d2ACB'

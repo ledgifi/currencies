@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x454CB9D0845bB4a28462F98C21a4fAFD16ceb25f'
+    platform: ETH
 crypto: true
 fiat: false
 id: YLAB
 id_coinmarketcap: '7357'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7357.png
 name: Yearn-finance Infrastructure Labs
-platform: ETH
-platform_contract: '0x454CB9D0845bB4a28462F98C21a4fAFD16ceb25f'

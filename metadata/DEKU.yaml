@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa1a88cea335edaf30ce90f103f1434a773ea46bd'
+    platform: ETH
 crypto: true
 fiat: false
 id: DEKU
 id_coinmarketcap: '11985'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11985.png
 name: Deku Inu
-platform: ETH
-platform_contract: '0xa1a88cea335edaf30ce90f103f1434a773ea46bd'

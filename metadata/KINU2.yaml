@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF505aFeF1B5fC820E6192fefF5B02cD7Ba7b65Ff'
+    platform: BNB
 crypto: true
 fiat: false
 id: KINU2
 id_coinmarketcap: '17329'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17329.png
 name: Kiku Inu
-platform: BNB
-platform_contract: '0xF505aFeF1B5fC820E6192fefF5B02cD7Ba7b65Ff'

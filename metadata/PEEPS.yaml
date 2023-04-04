@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5919DeA604631016c15c805e3D948A0384879892'
+    platform: ETH
 crypto: true
 fiat: false
 id: PEEPS
 id_coinmarketcap: '24098'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24098.png
 name: The People's Coin
-platform: ETH
-platform_contract: '0x5919DeA604631016c15c805e3D948A0384879892'

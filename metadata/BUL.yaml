@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0775c81a273b355e6a5b76e240bf708701f00279'
+    platform: ETH
 crypto: true
 fiat: false
 id: BUL
 id_coinmarketcap: '3690'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3690.png
 name: Bulleon
-platform: ETH
-platform_contract: '0x0775c81a273b355e6a5b76e240bf708701f00279'

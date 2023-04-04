@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbdeb4b83251fb146687fa19d1c660f99411eefe3'
+    platform: ETH
 crypto: true
 fiat: false
 id: SVD
 id_coinmarketcap: '3161'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3161.png
 name: savedroid
-platform: ETH
-platform_contract: '0xbdeb4b83251fb146687fa19d1c660f99411eefe3'

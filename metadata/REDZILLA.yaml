@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf9e45bf69d369d3e1ad2e16bd3ec4006c330f33a'
+    platform: BNB
 crypto: true
 fiat: false
 id: REDZILLA
 id_coinmarketcap: '14157'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14157.png
 name: RedZilla
-platform: BNB
-platform_contract: '0xf9e45bf69d369d3e1ad2e16bd3ec4006c330f33a'

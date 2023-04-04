@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xeecf92bf5e8f96e174510e9cd2b2a857aa039460'
+    platform: BNB
 crypto: true
 fiat: false
 id: DCS
 id_coinmarketcap: '12130'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12130.png
 name: Decentralized data crypto system
-platform: BNB
-platform_contract: '0xeecf92bf5e8f96e174510e9cd2b2a857aa039460'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2730d6fdc86c95a74253beffaa8306b40fedecbb'
+    platform: ETH
 crypto: true
 fiat: false
 id: UNI1
 id_coinmarketcap: '4307'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4307.png
 name: UNICORN Token
-platform: ETH
-platform_contract: '0x2730d6fdc86c95a74253beffaa8306b40fedecbb'

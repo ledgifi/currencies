@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xDE23183475f26a40802CcbE48394934261EA3736'
+    platform: BNB
 crypto: true
 fiat: false
 id: BNBDRAGON
 id_coinmarketcap: '20166'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20166.png
 name: DragonBnB.co
-platform: BNB
-platform_contract: '0xDE23183475f26a40802CcbE48394934261EA3736'

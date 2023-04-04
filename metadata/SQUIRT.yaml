@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd2d7289db68395593d65101753fec9450ddfb699'
+    platform: BNB
 crypto: true
 fiat: false
 id: SQUIRT
 id_coinmarketcap: '14784'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14784.png
 name: Squirt Game
-platform: BNB
-platform_contract: '0xd2d7289db68395593d65101753fec9450ddfb699'

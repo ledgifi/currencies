@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9E7e87608A34Bc66396D53e69B9495Bd8f5414DF'
+    platform: ETH
 crypto: true
 fiat: false
 id: BARD
 id_coinmarketcap: '24061'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24061.png
 name: Bard Protocol
-platform: ETH
-platform_contract: '0x9E7e87608A34Bc66396D53e69B9495Bd8f5414DF'

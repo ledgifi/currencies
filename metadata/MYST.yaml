@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361'
+    platform: ETH
 crypto: true
 fiat: false
 id: MYST
 id_coinmarketcap: '1721'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1721.png
 name: Mysterium
-platform: ETH
-platform_contract: '0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361'

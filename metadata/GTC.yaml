@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xde30da39c46104798bb5aa3fe8b9e0e1f348163f'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: GITCOIN
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/7d049c5f-3d90-4e56-b449-2475c34651bd.png
 logoKey: currencies/gtc.png
 name: Gitcoin
-platform: ETH
-platform_contract: '0xde30da39c46104798bb5aa3fe8b9e0e1f348163f'

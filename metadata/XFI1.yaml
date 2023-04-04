@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE4E822C0d5b329E8BB637972467d2E313824eFA0'
+    platform: ETH
 crypto: true
 fiat: false
 id: XFI1
 id_coinmarketcap: '7223'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7223.png
 name: Dfinance
-platform: ETH
-platform_contract: '0xE4E822C0d5b329E8BB637972467d2E313824eFA0'

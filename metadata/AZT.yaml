@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xef7f1aae6f60de9f353dc170a35b8f7c7814e32b'
+    platform: ETH
 crypto: true
 fiat: false
 id: AZT
 id_coinmarketcap: '4706'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4706.png
 name: AZ Fundchain
-platform: ETH
-platform_contract: '0xef7f1aae6f60de9f353dc170a35b8f7c7814e32b'

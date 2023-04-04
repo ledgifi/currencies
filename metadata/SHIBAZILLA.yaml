@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6b6689f49336bf8d2ce938c231ad022385c8aa54'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIBAZILLA
 id_coinmarketcap: '13560'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13560.png
 name: ShibaZilla
-platform: BNB
-platform_contract: '0x6b6689f49336bf8d2ce938c231ad022385c8aa54'

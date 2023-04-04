@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2722c9db0Fc6818DC9DD3A01254Afc3804438b64'
+    platform: BNB
 crypto: true
 fiat: false
 id: YAG
 id_coinmarketcap: '11473'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11473.png
 name: Yaki Gold
-platform: BNB
-platform_contract: '0x2722c9db0Fc6818DC9DD3A01254Afc3804438b64'

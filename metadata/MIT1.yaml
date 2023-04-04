@@ -1,8 +1,9 @@
+contracts:
+  - address: TRRuMBmEPa4wSRTZeZRcWcpbAehdYgdkoE
+    platform: TRX
 crypto: true
 fiat: false
 id: MIT1
 id_coinmarketcap: '21999'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21999.png
 name: MiningNFT
-platform: TRX
-platform_contract: TRRuMBmEPa4wSRTZeZRcWcpbAehdYgdkoE

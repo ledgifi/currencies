@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x27778E14Ce36d3B85e1efFeB43816a17bBB7088A'
+    platform: ETH
 crypto: true
 fiat: false
 id: LGOLD
 id_coinmarketcap: '19147'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19147.png
 name: LYFE GOLD
-platform: ETH
-platform_contract: '0x27778E14Ce36d3B85e1efFeB43816a17bBB7088A'

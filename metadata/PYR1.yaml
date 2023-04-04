@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x458a72418c1e98a84afe5a5889b25aeaa68e1822'
+    platform: BNB
 crypto: true
 fiat: false
 id: PYR1
 id_coinmarketcap: '15114'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15114.png
 name: Pyroblock
-platform: BNB
-platform_contract: '0x458a72418c1e98a84afe5a5889b25aeaa68e1822'

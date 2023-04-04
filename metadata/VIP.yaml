@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6759565574de509b7725abb4680020704b3f404e'
+    platform: BNB
 crypto: true
 fiat: false
 id: VIP
 id_coinmarketcap: '14562'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14562.png
 name: VIP Token
-platform: BNB
-platform_contract: '0x6759565574de509b7725abb4680020704b3f404e'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcd3673af09e76c74d889aabab68ca0645566a3a1'
+    platform: ETH
 crypto: true
 fiat: false
 id: CANDY4
 id_coinmarketcap: '3102'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3102.png
 name: Unicorn Candy Coin
-platform: ETH
-platform_contract: '0xcd3673af09e76c74d889aabab68ca0645566a3a1'

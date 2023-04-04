@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x397E6d4fd68A9E25e93fC712B8F72F826f48a8ff'
+    platform: BNB
 crypto: true
 fiat: false
 id: DINGO1
 id_coinmarketcap: '9982'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9982.png
 name: DINGO TOKEN (old)
-platform: BNB
-platform_contract: '0x397E6d4fd68A9E25e93fC712B8F72F826f48a8ff'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x90A2902D9f02D68b56D4e5a4D280f97A555A6241'
+    platform: BNB
 crypto: true
 fiat: false
 id: YUGI
 id_coinmarketcap: '16118'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16118.png
 name: YU-GI-KING
-platform: BNB
-platform_contract: '0x90A2902D9f02D68b56D4e5a4D280f97A555A6241'

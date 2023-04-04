@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe50006781f435ae43096288334afd9ae5ba50065'
+    platform: ETH
 crypto: true
 fiat: false
 id: CORGI2
 id_coinmarketcap: '9939'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9939.png
 name: Corgi inu
-platform: ETH
-platform_contract: '0xe50006781f435ae43096288334afd9ae5ba50065'

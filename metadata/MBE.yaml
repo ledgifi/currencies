@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x086ddd008e20dd74c4fb216170349853f8ca8289'
+    platform: BNB
 crypto: true
 fiat: false
 id: MBE
 id_coinmarketcap: '22896'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22896.png
 name: MxmBoxcEus Token
-platform: BNB
-platform_contract: '0x086ddd008e20dd74c4fb216170349853f8ca8289'

@@ -1,8 +1,9 @@
+contracts:
+  - address: terra100yeqvww74h4yaejj6h733thgcafdaukjtw397
+    platform: LUNC
 crypto: true
 fiat: false
 id: APOLLO1
 id_coinmarketcap: '16883'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16883.png
 name: Apollo DAO
-platform: LUNC
-platform_contract: terra100yeqvww74h4yaejj6h733thgcafdaukjtw397

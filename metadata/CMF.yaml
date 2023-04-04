@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xf309993f0e27a34580b2fc12fdc37095fbdc104f'
+    platform: BNB
 crypto: true
 fiat: false
 id: CMF
@@ -6,5 +9,3 @@ id_nomics: CMF
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CMF.jpeg
 logoKey: currencies/cmf.jpeg
 name: Crypto Mafia
-platform: BNB
-platform_contract: '0xf309993f0e27a34580b2fc12fdc37095fbdc104f'

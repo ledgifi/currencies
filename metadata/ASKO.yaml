@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xeEEE2a622330E6d2036691e983DEe87330588603'
+    platform: ETH
 crypto: true
 fiat: false
 id: ASKO
@@ -7,5 +10,3 @@ id_nomics: ASKO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASKO.jpg
 logoKey: currencies/asko.jpg
 name: Askobar Network
-platform: ETH
-platform_contract: '0xeEEE2a622330E6d2036691e983DEe87330588603'

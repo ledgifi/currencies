@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc153e92E11ee84BE0707c6d4C40F68f27d8444D7'
+    platform: BNB
 crypto: true
 fiat: false
 id: YNY
 id_coinmarketcap: '18312'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18312.png
 name: Crypto Realms War
-platform: BNB
-platform_contract: '0xc153e92E11ee84BE0707c6d4C40F68f27d8444D7'

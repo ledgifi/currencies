@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x65d9033cff96782394dAB5dbEf17Fa771bbe1732'
+    platform: BNB
 crypto: true
 fiat: false
 id: STORE
@@ -6,5 +9,3 @@ id_nomics: STORE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STORE.jpg
 logoKey: currencies/store.jpg
 name: Bit Store
-platform: BNB
-platform_contract: '0x65d9033cff96782394dAB5dbEf17Fa771bbe1732'

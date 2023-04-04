@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4cE3dBF21F46FEbE307BE777d9BB5638D6B0A8d4'
+    platform: BNB
 crypto: true
 fiat: false
 id: MAKK
 id_coinmarketcap: '14486'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14486.png
 name: Makk
-platform: BNB
-platform_contract: '0x4cE3dBF21F46FEbE307BE777d9BB5638D6B0A8d4'

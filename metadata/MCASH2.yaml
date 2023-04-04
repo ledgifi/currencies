@@ -1,8 +1,9 @@
+contracts:
+  - address: TPJHNTxXcPVcgj2k2CHhQqCapEbMkzWFb7
+    platform: TRX
 crypto: true
 fiat: false
 id: MCASH2
 id_coinmarketcap: '13337'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13337.png
 name: MMScash
-platform: TRX
-platform_contract: TPJHNTxXcPVcgj2k2CHhQqCapEbMkzWFb7

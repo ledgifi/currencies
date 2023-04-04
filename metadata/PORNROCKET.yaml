@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcf9f991b14620f5ad144eec11f9bc7bf08987622'
+    platform: BNB
 crypto: true
 fiat: false
 id: PORNROCKET
 id_coinmarketcap: '10165'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10165.png
 name: PornRocket
-platform: BNB
-platform_contract: '0xcf9f991b14620f5ad144eec11f9bc7bf08987622'

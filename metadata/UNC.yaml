@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x81d5791E65e0dB42687e2cAF205F14A5E550C2aF'
+    platform: BNB
 crypto: true
 fiat: false
 id: UNC
 id_coinmarketcap: '19895'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19895.png
 name: Utility NFT Coin
-platform: BNB
-platform_contract: '0x81d5791E65e0dB42687e2cAF205F14A5E550C2aF'

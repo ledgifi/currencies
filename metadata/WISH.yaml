@@ -1,8 +1,9 @@
+contracts:
+  - address: WISH-2D5
+    platform: BNB
 crypto: true
 fiat: false
 id: WISH
 id_coinmarketcap: '2236'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2236.png
 name: MyWish
-platform: BNB
-platform_contract: WISH-2D5

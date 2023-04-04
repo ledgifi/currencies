@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x78832bd03078fb75a72d72fbf567ba90b6dab317'
+    platform: BNB
 crypto: true
 fiat: false
 id: HAZE
 id_coinmarketcap: '8810'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8810.png
 name: Haze Finance
-platform: BNB
-platform_contract: '0x78832bd03078fb75a72d72fbf567ba90b6dab317'

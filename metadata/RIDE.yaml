@@ -1,8 +1,9 @@
+contracts:
+  - address: RIDE-7d18e9
+    platform: EGLD
 crypto: true
 fiat: false
 id: RIDE
 id_coinmarketcap: '14145'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14145.png
 name: holoride
-platform: EGLD
-platform_contract: RIDE-7d18e9

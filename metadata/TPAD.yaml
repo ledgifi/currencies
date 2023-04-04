@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xADCFC6bf853a0a8ad7f9Ff4244140D10cf01363C'
+    platform: BNB
 crypto: true
 fiat: false
 id: TPAD
 id_coinmarketcap: '9613'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9613.png
 name: Trustpad
-platform: BNB
-platform_contract: '0xADCFC6bf853a0a8ad7f9Ff4244140D10cf01363C'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA1efCe38CB265Af369e891bC3026d0285545D4E5'
+    platform: BNB
 crypto: true
 fiat: false
 id: SAFETESLA
 id_coinmarketcap: '9393'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9393.png
 name: Safetesla
-platform: BNB
-platform_contract: '0xA1efCe38CB265Af369e891bC3026d0285545D4E5'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xd33526068d116ce69f19a9ee46f0bd304f21a51f'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: RPL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RPL.png
 logoKey: currencies/rpl.png
 name: Rocket Pool
-platform: ETH
-platform_contract: '0xd33526068d116ce69f19a9ee46f0bd304f21a51f'

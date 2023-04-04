@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcb35e4945c7f463c5ccbe3bf9f0389ab9321248f'
+    platform: ONE
 crypto: true
 fiat: false
 id: ONEMOON
 id_coinmarketcap: '13899'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13899.png
 name: ONEMOON
-platform: ONE
-platform_contract: '0xcb35e4945c7f463c5ccbe3bf9f0389ab9321248f'

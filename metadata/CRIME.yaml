@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF378f05a51868C29D94f57E4240d7423cB526083'
+    platform: FTM
 crypto: true
 fiat: false
 id: CRIME
 id_coinmarketcap: '19752'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19752.png
 name: Crime Cash Game
-platform: FTM
-platform_contract: '0xF378f05a51868C29D94f57E4240d7423cB526083'

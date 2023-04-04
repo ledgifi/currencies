@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6be61833fc4381990e82d7d4a9f4c9b3f67ea941'
+    platform: ETH
 crypto: true
 fiat: false
 id: HTB
 id_coinmarketcap: '4506'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4506.png
 name: Hotbit Token
-platform: ETH
-platform_contract: '0x6be61833fc4381990e82d7d4a9f4c9b3f67ea941'

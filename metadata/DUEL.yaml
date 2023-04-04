@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x297817CE1a8De777e7ddbed86C3B7f9Dc9349f2c'
+    platform: BNB
 crypto: true
 fiat: false
 id: DUEL
 id_coinmarketcap: '11370'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11370.png
 name: Duel Network
-platform: BNB
-platform_contract: '0x297817CE1a8De777e7ddbed86C3B7f9Dc9349f2c'

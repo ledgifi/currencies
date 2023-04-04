@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1e05c8b69e4128949fcef16811a819ef2f55d33e'
+    platform: ONE
 crypto: true
 fiat: false
 id: SONIC1
 id_coinmarketcap: '13120'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13120.png
 name: SonicSwap
-platform: ONE
-platform_contract: '0x1e05c8b69e4128949fcef16811a819ef2f55d33e'

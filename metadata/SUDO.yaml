@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3446Dd70B2D52A6Bf4a5a192D9b0A161295aB7F9'
+    platform: ETH
 crypto: true
 fiat: false
 id: SUDO
 id_coinmarketcap: '21733'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21733.png
 name: sudoswap
-platform: ETH
-platform_contract: '0x3446Dd70B2D52A6Bf4a5a192D9b0A161295aB7F9'

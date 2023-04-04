@@ -1,4 +1,7 @@
 color: '#1aab9b'
+contracts:
+  - address: '0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: MKR
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/mkr.svg
 logoKey: currencies/mkr.svg
 name: Maker
-platform: ETH
-platform_contract: '0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2'

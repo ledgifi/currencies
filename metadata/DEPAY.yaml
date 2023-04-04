@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa0bed124a09ac2bd941b10349d8d224fe3c955eb'
+    platform: ETH
 crypto: true
 fiat: false
 id: DEPAY
 id_coinmarketcap: '8181'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8181.png
 name: DePay
-platform: ETH
-platform_contract: '0xa0bed124a09ac2bd941b10349d8d224fe3c955eb'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd1aa23b0303fa7c0c60c8f1e3823240d6f530c81'
+    platform: BNB
 crypto: true
 fiat: false
 id: MICS
 id_coinmarketcap: '16696'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16696.png
 name: Vconomics - Decentralized Digital Economy
-platform: BNB
-platform_contract: '0xd1aa23b0303fa7c0c60c8f1e3823240d6f530c81'

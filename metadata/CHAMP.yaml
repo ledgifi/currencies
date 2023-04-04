@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xed755dba6ec1eb520076cec051a582a6d81a8253'
+    platform: MATIC
 crypto: true
 fiat: false
 id: CHAMP
 id_coinmarketcap: '22543'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22543.png
 name: Ultimate Champions
-platform: MATIC
-platform_contract: '0xed755dba6ec1eb520076cec051a582a6d81a8253'

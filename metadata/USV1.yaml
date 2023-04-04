@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6bAD6A9BcFdA3fd60Da6834aCe5F93B8cFed9598'
+    platform: ETH
 crypto: true
 fiat: false
 id: USV1
 id_coinmarketcap: '22092'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22092.png
 name: USDC Savings Vault
-platform: ETH
-platform_contract: '0x6bAD6A9BcFdA3fd60Da6834aCe5F93B8cFed9598'

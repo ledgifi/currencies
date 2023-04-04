@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfa71f9956996d3d54502a5c83290b6bb15cef0a4'
+    platform: BNB
 crypto: true
 fiat: false
 id: CA
 id_coinmarketcap: '16079'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16079.png
 name: CROSSY ANIMALS
-platform: BNB
-platform_contract: '0xfa71f9956996d3d54502a5c83290b6bb15cef0a4'

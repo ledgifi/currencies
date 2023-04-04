@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x313cbfd67f4e98fd94f3e5387bbec48d078aa3a4'
+    platform: BNB
 crypto: true
 fiat: false
 id: APEF
 id_coinmarketcap: '13777'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13777.png
 name: ApeFarmer
-platform: BNB
-platform_contract: '0x313cbfd67f4e98fd94f3e5387bbec48d078aa3a4'

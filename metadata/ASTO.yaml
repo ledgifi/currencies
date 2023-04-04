@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x823556202e86763853b40e9cDE725f412e294689'
+    platform: ETH
 crypto: true
 fiat: false
 id: ASTO
 id_coinmarketcap: '19164'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19164.png
 name: Altered State Token
-platform: ETH
-platform_contract: '0x823556202e86763853b40e9cDE725f412e294689'

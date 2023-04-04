@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa700f2b3d8ebe35cef86fcc3c2105daff41617be'
+    platform: ETH
 crypto: true
 fiat: false
 id: BUU
 id_coinmarketcap: '14593'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14593.png
 name: Buu Inu
-platform: ETH
-platform_contract: '0xa700f2b3d8ebe35cef86fcc3c2105daff41617be'

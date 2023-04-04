@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x73A1163EA930A0a67dFEFB9C3713Ef0923755B78'
+    platform: BNB
 crypto: true
 fiat: false
 id: $AUR
 id_coinmarketcap: '10991'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10991.png
 name: Aurum
-platform: BNB
-platform_contract: '0x73A1163EA930A0a67dFEFB9C3713Ef0923755B78'

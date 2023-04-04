@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9d7f4f7d036bdf08740d18557c63e50284e73231'
+    platform: BNB
 crypto: true
 fiat: false
 id: RKV
 id_coinmarketcap: '22840'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22840.png
 name: RocketVerse
-platform: BNB
-platform_contract: '0x9d7f4f7d036bdf08740d18557c63e50284e73231'

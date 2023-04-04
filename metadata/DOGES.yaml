@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb4fbed161bebcb37afb1cb4a6f7ca18b977ccb25'
+    platform: ETH
 crypto: true
 fiat: false
 id: DOGES
 id_coinmarketcap: '7377'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7377.png
 name: Dogeswap
-platform: ETH
-platform_contract: '0xb4fbed161bebcb37afb1cb4a6f7ca18b977ccb25'

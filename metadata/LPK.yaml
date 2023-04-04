@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2cc71c048a804da930e28e93f3211dc03c702995'
+    platform: ETH
 crypto: true
 fiat: false
 id: LPK
 id_coinmarketcap: '4439'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4439.png
 name: Kripton
-platform: ETH
-platform_contract: '0x2cc71c048a804da930e28e93f3211dc03c702995'

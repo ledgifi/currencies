@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5de8ab7e27f6e7a1fff3e5b337584aa43961beef'
+    platform: ETH
 crypto: true
 fiat: false
 id: SDEX
 id_coinmarketcap: '24203'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24203.png
 name: SmarDex
-platform: ETH
-platform_contract: '0x5de8ab7e27f6e7a1fff3e5b337584aa43961beef'

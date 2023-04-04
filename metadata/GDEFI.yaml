@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb5e88b229b18e748e3aa16a1c2bfefdfc8a5560d'
+    platform: ETH
 crypto: true
 fiat: false
 id: GDEFI
 id_coinmarketcap: '10370'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10370.png
 name: Global DeFi
-platform: ETH
-platform_contract: '0xb5e88b229b18e748e3aa16a1c2bfefdfc8a5560d'

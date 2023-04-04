@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: ORN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORN.png
 logoKey: currencies/orn.png
 name: Orion Protocol
-platform: ETH
-platform_contract: '0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a'

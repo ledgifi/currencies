@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8e34433249c137ea9587a7d94c8dbf0c184a2d38'
+    platform: BNB
 crypto: true
 fiat: false
 id: 1INCHPUNCH
 id_coinmarketcap: '11215'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11215.png
 name: Bruce Lee token
-platform: BNB
-platform_contract: '0x8e34433249c137ea9587a7d94c8dbf0c184a2d38'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8DF26a1BD9bD98e2eC506fc9d8009954716A05DC'
+    platform: MATIC
 crypto: true
 fiat: false
 id: COLLAR3
 id_coinmarketcap: '12695'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12695.png
 name: PolyPup Finance
-platform: MATIC
-platform_contract: '0x8DF26a1BD9bD98e2eC506fc9d8009954716A05DC'

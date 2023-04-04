@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA7b47575A9b4c2EbF3e6f9ad1d84932bD7AF380F'
+    platform: AVAX
 crypto: true
 fiat: false
 id: DEGEN3
 id_coinmarketcap: '18704'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18704.png
 name: DegenFi
-platform: AVAX
-platform_contract: '0xA7b47575A9b4c2EbF3e6f9ad1d84932bD7AF380F'

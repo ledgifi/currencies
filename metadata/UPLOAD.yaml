@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x09Aa9feAeAC79Da39Aa3A5A69Cc713aC8c9DF24e'
+    platform: BNB
 crypto: true
 fiat: false
 id: UPLOAD
 id_coinmarketcap: '22547'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22547.png
 name: Upload Token
-platform: BNB
-platform_contract: '0x09Aa9feAeAC79Da39Aa3A5A69Cc713aC8c9DF24e'

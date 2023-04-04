@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x86c31e6da2190a1ffd39a36990a44174d0a8be15'
+    platform: ETH
 crypto: true
 fiat: false
 id: VIX1
 id_coinmarketcap: '5029'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5029.png
 name: VianeX
-platform: ETH
-platform_contract: '0x86c31e6da2190a1ffd39a36990a44174d0a8be15'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xda5b5cf4fd684c7140387a5b523fa873b3b89f66'
+    platform: BNB
 crypto: true
 fiat: false
 id: AXZ
 id_coinmarketcap: '13825'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13825.png
 name: AxieZilla
-platform: BNB
-platform_contract: '0xda5b5cf4fd684c7140387a5b523fa873b3b89f66'

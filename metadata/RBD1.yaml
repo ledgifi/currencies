@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7105eC15995A97496eC25de36CF7eEc47b703375'
+    platform: ETH
 crypto: true
 fiat: false
 id: RBD1
 id_coinmarketcap: '5875'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5875.png
 name: Red Box Dapp Token
-platform: ETH
-platform_contract: '0x7105eC15995A97496eC25de36CF7eEc47b703375'

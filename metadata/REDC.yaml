@@ -1,8 +1,9 @@
+contracts:
+  - address: zil14jmjrkvfcz2uvj3y69kl6gas34ecuf2j5ggmye
+    platform: ZIL
 crypto: true
 fiat: false
 id: REDC
 id_coinmarketcap: '7869'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7869.png
 name: RedChillies
-platform: ZIL
-platform_contract: zil14jmjrkvfcz2uvj3y69kl6gas34ecuf2j5ggmye

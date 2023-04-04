@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8983a6f5b70315f9373d39e14de5afeabf835588'
+    platform: BNB
 crypto: true
 fiat: false
 id: JUNKOINU
 id_coinmarketcap: '16167'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16167.png
 name: Junko Inu
-platform: BNB
-platform_contract: '0x8983a6f5b70315f9373d39e14de5afeabf835588'

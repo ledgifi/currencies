@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1967abfdc4ae7961c5a8a5395469222260c27c02'
+    platform: BNB
 crypto: true
 fiat: false
 id: WTW
 id_coinmarketcap: '15078'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15078.png
 name: Watchtower
-platform: BNB
-platform_contract: '0x1967abfdc4ae7961c5a8a5395469222260c27c02'

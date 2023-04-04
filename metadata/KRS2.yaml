@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdfb410994b66778bd6cc2c82e8ffe4f7b2870006'
+    platform: ETH
 crypto: true
 fiat: false
 id: KRS2
 id_coinmarketcap: '6569'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6569.png
 name: Kinguin Krowns
-platform: ETH
-platform_contract: '0xdfb410994b66778bd6cc2c82e8ffe4f7b2870006'

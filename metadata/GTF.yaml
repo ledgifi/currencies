@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x49d20165fbdad66b7e87937acaa74af47beb32c3'
+    platform: BNB
 crypto: true
 fiat: false
 id: GTF
 id_coinmarketcap: '6457'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6457.png
 name: GLOBALTRUSTFUND TOKEN
-platform: BNB
-platform_contract: '0x49d20165fbdad66b7e87937acaa74af47beb32c3'

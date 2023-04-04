@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x32462bA310E447eF34FF0D15BCE8613aa8C4A244'
+    platform: ETH
 crypto: true
 fiat: false
 id: DHN
 id_coinmarketcap: '20279'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20279.png
 name: Dohrnii
-platform: ETH
-platform_contract: '0x32462bA310E447eF34FF0D15BCE8613aa8C4A244'

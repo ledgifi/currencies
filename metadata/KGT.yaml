@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa4e208c627f3adc60165c2a9fe79d73f4e8dd760'
+    platform: BNB
 crypto: true
 fiat: false
 id: KGT
 id_coinmarketcap: '14458'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14458.png
 name: Kaby Gaming Token
-platform: BNB
-platform_contract: '0xa4e208c627f3adc60165c2a9fe79d73f4e8dd760'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe69caef10a488d7af31da46c89154d025546e990'
+    platform: BNB
 crypto: true
 fiat: false
 id: DPT
 id_coinmarketcap: '13841'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13841.png
 name: Diviner Protocol
-platform: BNB
-platform_contract: '0xe69caef10a488d7af31da46c89154d025546e990'

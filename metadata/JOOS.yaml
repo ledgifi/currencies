@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x05F9Abf4B0C5661E83B92c056A8791d5CCd7Ca52'
+    platform: ETH
 crypto: true
 fiat: false
 id: JOOS
 id_coinmarketcap: '4208'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4208.png
 name: JOOS
-platform: ETH
-platform_contract: '0x05F9Abf4B0C5661E83B92c056A8791d5CCd7Ca52'

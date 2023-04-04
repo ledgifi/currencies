@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1476e96fadb37668d7680921297e2ab98ec36c2f'
+    platform: BNB
 crypto: true
 fiat: false
 id: RLOKI
 id_coinmarketcap: '14380'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14380.png
 name: Floki Rocket
-platform: BNB
-platform_contract: '0x1476e96fadb37668d7680921297e2ab98ec36c2f'

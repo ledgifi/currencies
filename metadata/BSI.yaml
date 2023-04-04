@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xeb50455805ebf8396d9177bbc4a371a376d00ecc'
+    platform: ETH
 crypto: true
 fiat: false
 id: BSI
 id_coinmarketcap: '14058'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14058.png
 name: Bali Social Integrated
-platform: ETH
-platform_contract: '0xeb50455805ebf8396d9177bbc4a371a376d00ecc'

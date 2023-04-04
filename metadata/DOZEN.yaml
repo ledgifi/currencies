@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc236A71F9633a0Be7D97ad68F8c16DE6ec46A252'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOZEN
 id_coinmarketcap: '20412'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20412.png
 name: NFT Marble Game
-platform: BNB
-platform_contract: '0xc236A71F9633a0Be7D97ad68F8c16DE6ec46A252'

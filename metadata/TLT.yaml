@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x01F959f4B637ECa434682b620542454572d07042'
+    platform: BNB
 crypto: true
 fiat: false
 id: TLT
 id_coinmarketcap: '11658'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11658.png
 name: Trip Leverage Token
-platform: BNB
-platform_contract: '0x01F959f4B637ECa434682b620542454572d07042'

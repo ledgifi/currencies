@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE82546b56B1b8A5f031Bcd23Ff6332282cB0124B'
+    platform: BNB
 crypto: true
 fiat: false
 id: SYNCBRAIN
 id_coinmarketcap: '23985'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23985.png
 name: Brain Sync
-platform: BNB
-platform_contract: '0xE82546b56B1b8A5f031Bcd23Ff6332282cB0124B'

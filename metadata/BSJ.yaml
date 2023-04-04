@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x43901e05f08f48546fff8d6f8df108f60570498b'
+    platform: ETH
 crypto: true
 fiat: false
 id: BSJ
 id_coinmarketcap: '9219'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9219.png
 name: BasenjiDAO
-platform: ETH
-platform_contract: '0x43901e05f08f48546fff8d6f8df108f60570498b'

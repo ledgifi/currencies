@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfca89d55a768375ab7ca04485a35a964bea828dd'
+    platform: ETH
 crypto: true
 fiat: false
 id: DELREY
 id_coinmarketcap: '24188'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24188.png
 name: Delrey Inu
-platform: ETH
-platform_contract: '0xfca89d55a768375ab7ca04485a35a964bea828dd'

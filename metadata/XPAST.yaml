@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xD3111Fb8BDf936B11fFC9eba3b597BeA21e72724'
+    platform: FTM
 crypto: true
 fiat: false
 id: XPAST
 id_coinmarketcap: '16140'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16140.png
 name: Xmas Past
-platform: FTM
-platform_contract: '0xD3111Fb8BDf936B11fFC9eba3b597BeA21e72724'

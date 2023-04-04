@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0d88ed6e74bbfd96b831231638b66c05571e824f'
+    platform: ETH
 crypto: true
 fiat: false
 id: AVT
 id_coinmarketcap: '1948'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1948.png
 name: Aventus
-platform: ETH
-platform_contract: '0x0d88ed6e74bbfd96b831231638b66c05571e824f'

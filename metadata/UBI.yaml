@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xdd1ad9a21ce722c151a836373babe42c868ce9a4'
+    platform: ETH
 crypto: true
 fiat: false
 id: UBI
@@ -7,5 +10,3 @@ id_nomics: UBI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UBI.jpg
 logoKey: currencies/ubi.jpg
 name: Universal Basic Income
-platform: ETH
-platform_contract: '0xdd1ad9a21ce722c151a836373babe42c868ce9a4'

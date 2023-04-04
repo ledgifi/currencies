@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd5e2a54fef5f9e4a6b21ec646bbed7a160a00f18'
+    platform: ETH
 crypto: true
 fiat: false
 id: BCMC1
 id_coinmarketcap: '9318'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9318.png
 name: BeforeCoinMarketCap
-platform: ETH
-platform_contract: '0xd5e2a54fef5f9e4a6b21ec646bbed7a160a00f18'

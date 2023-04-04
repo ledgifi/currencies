@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x26a4CaE24B24ECCaCB8e41Bd6002A7FE62DfBe2D'
+    platform: BNB
 crypto: true
 fiat: false
 id: GGPT
 id_coinmarketcap: '24010'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24010.png
 name: Generative GPT
-platform: BNB
-platform_contract: '0x26a4CaE24B24ECCaCB8e41Bd6002A7FE62DfBe2D'

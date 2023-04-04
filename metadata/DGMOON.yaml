@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x18359CF655A444204e46F286eDC445C9D30fFc54'
+    platform: BNB
 crypto: true
 fiat: false
 id: DGMOON
 id_coinmarketcap: '9618'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9618.png
 name: DogeMoon
-platform: BNB
-platform_contract: '0x18359CF655A444204e46F286eDC445C9D30fFc54'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x730cb2ba0f654ddec32470d265555f26fe545eb8'
+    platform: BNB
 crypto: true
 fiat: false
 id: EDAO
 id_coinmarketcap: '10258'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10258.png
 name: ElonDoge DAO
-platform: BNB
-platform_contract: '0x730cb2ba0f654ddec32470d265555f26fe545eb8'

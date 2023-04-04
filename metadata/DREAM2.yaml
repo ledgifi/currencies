@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x930f3768f29030f9bd7ad5d3e77b731c3411e95c'
+    platform: BNB
 crypto: true
 fiat: false
 id: DREAM2
 id_coinmarketcap: '18222'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18222.png
 name: DreamDAO
-platform: BNB
-platform_contract: '0x930f3768f29030f9bd7ad5d3e77b731c3411e95c'

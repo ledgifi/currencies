@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x2da719db753dfa10a62e140f436e1d67f2ddb0d6'
+    platform: ETH
 crypto: true
 fiat: false
 id: CERE
@@ -6,5 +9,3 @@ id_coinpaprika: cere-cere-network
 id_nomics: CERE
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4710.png
 name: Cere.Network
-platform: ETH
-platform_contract: '0x2da719db753dfa10a62e140f436e1d67f2ddb0d6'

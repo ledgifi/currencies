@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x939BA6c7e122e2fB1a50E7F533BF043120228188'
+    platform: BNB
 crypto: true
 fiat: false
 id: GAINZ
 id_coinmarketcap: '10587'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10587.png
 name: GAINZ TOKEN
-platform: BNB
-platform_contract: '0x939BA6c7e122e2fB1a50E7F533BF043120228188'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x322a9b99c772c7d31a0a4925edc120110b47512d'
+    platform: BNB
 crypto: true
 fiat: false
 id: SUNGLASSESDOGE
 id_coinmarketcap: '11071'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11071.png
 name: SunglassesDoge
-platform: BNB
-platform_contract: '0x322a9b99c772c7d31a0a4925edc120110b47512d'

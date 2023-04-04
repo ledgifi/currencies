@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x05d8c63437907daa0982aa2171096306ccfcf132'
+    platform: ETH
 crypto: true
 fiat: false
 id: BDAO
 id_coinmarketcap: '18845'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18845.png
 name: BetDao
-platform: ETH
-platform_contract: '0x05d8c63437907daa0982aa2171096306ccfcf132'

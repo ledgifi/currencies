@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbed4ab0019ff361d83ddeb74883dac8a70f5ea1e'
+    platform: ETH
 crypto: true
 fiat: false
 id: MRCH
 id_coinmarketcap: '8971'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8971.png
 name: MerchDAO
-platform: ETH
-platform_contract: '0xbed4ab0019ff361d83ddeb74883dac8a70f5ea1e'

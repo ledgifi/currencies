@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB003C68917BaB76812797d1b8056822f48E2e4fe'
+    platform: BNB
 crypto: true
 fiat: false
 id: YUMMY
 id_coinmarketcap: '9859'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9859.png
 name: YUMMY
-platform: BNB
-platform_contract: '0xB003C68917BaB76812797d1b8056822f48E2e4fe'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9b110Fda4E20DB18Ad7052f8468a455de7449eb6'
+    platform: ETH
 crypto: true
 fiat: false
 id: RIA
 id_coinmarketcap: '23018'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23018.png
 name: 'Calvaria: Duels of Eternity'
-platform: ETH
-platform_contract: '0x9b110Fda4E20DB18Ad7052f8468a455de7449eb6'

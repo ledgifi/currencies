@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3df064069ba2c8b395592e7834934dbc48bbb955'
+    platform: CRO
 crypto: true
 fiat: false
 id: CRONO
 id_coinmarketcap: '17392'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17392.png
 name: Cronofi Finance
-platform: CRO
-platform_contract: '0x3df064069ba2c8b395592e7834934dbc48bbb955'

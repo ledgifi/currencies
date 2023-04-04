@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x36f3fd68e7325a35eb768f1aedaae9ea0689d723'
+    platform: ETH
 crypto: true
 fiat: false
 id: ESD
 id_coinmarketcap: '7033'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7033.png
 name: Empty Set Dollar
-platform: ETH
-platform_contract: '0x36f3fd68e7325a35eb768f1aedaae9ea0689d723'

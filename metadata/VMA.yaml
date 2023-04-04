@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcC6C9773A8a70C4642dFfCEb017742830AAAC1a6'
+    platform: BNB
 crypto: true
 fiat: false
 id: VMA
 id_coinmarketcap: '21185'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21185.png
 name: VirtualMeta
-platform: BNB
-platform_contract: '0xcC6C9773A8a70C4642dFfCEb017742830AAAC1a6'

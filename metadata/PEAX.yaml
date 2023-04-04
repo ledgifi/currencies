@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x32D7b49e5E69c6C2f6d05CF4d86D9857D83aDD48'
+    platform: BNB
 crypto: true
 fiat: false
 id: PEAX
 id_coinmarketcap: '14369'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14369.png
 name: PRELAX SWAP
-platform: BNB
-platform_contract: '0x32D7b49e5E69c6C2f6d05CF4d86D9857D83aDD48'

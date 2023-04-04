@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x208cfEc94d2BA8B8537da7A9BB361c6baAD77272'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHELL
 id_coinmarketcap: '21078'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21078.png
 name: Meta Apes
-platform: BNB
-platform_contract: '0x208cfEc94d2BA8B8537da7A9BB361c6baAD77272'

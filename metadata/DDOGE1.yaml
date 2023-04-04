@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x37f963a1a358308a0daac0f8ebeb23ca18cf00b9'
+    platform: BNB
 crypto: true
 fiat: false
 id: DDOGE1
 id_coinmarketcap: '11174'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11174.png
 name: Dirty Doge
-platform: BNB
-platform_contract: '0x37f963a1a358308a0daac0f8ebeb23ca18cf00b9'

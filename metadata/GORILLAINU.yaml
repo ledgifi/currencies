@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x68257309fcdfe1e6edb592da97ac8215fe583908'
+    platform: ETH
 crypto: true
 fiat: false
 id: GORILLAINU
 id_coinmarketcap: '13861'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13861.png
 name: Gorilla Inu | Apes Together Strong
-platform: ETH
-platform_contract: '0x68257309fcdfe1e6edb592da97ac8215fe583908'

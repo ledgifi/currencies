@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2BCDCf1ef1320Fc5F9a71CA0BD1504D6125F7569'
+    platform: BNB
 crypto: true
 fiat: false
 id: DISC
 id_coinmarketcap: '9582'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9582.png
 name: DisCas Vision
-platform: BNB
-platform_contract: '0x2BCDCf1ef1320Fc5F9a71CA0BD1504D6125F7569'

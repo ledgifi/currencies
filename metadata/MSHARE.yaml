@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf8b9facB7B4410F5703Eb29093302f2933D6E1Aa'
+    platform: CRO
 crypto: true
 fiat: false
 id: MSHARE
 id_coinmarketcap: '18472'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18472.png
 name: Meerkat Shares
-platform: CRO
-platform_contract: '0xf8b9facB7B4410F5703Eb29093302f2933D6E1Aa'

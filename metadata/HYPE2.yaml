@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe73200FfB8ba740A40E208Ea842512E17427bFcc'
+    platform: AVAX
 crypto: true
 fiat: false
 id: HYPE2
 id_coinmarketcap: '20363'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20363.png
 name: Hype Club
-platform: AVAX
-platform_contract: '0xe73200FfB8ba740A40E208Ea842512E17427bFcc'

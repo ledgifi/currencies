@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x237939F39061031150330bc7BAcC05ca5879ddE1'
+    platform: BNB
 crypto: true
 fiat: false
 id: FSHR
 id_coinmarketcap: '20851'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20851.png
 name: Fishera
-platform: BNB
-platform_contract: '0x237939F39061031150330bc7BAcC05ca5879ddE1'

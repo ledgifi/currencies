@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb05097849bca421a3f51b249ba6cca4af4b97cb9'
+    platform: ETH
 crypto: true
 fiat: false
 id: FLOAT
 id_coinmarketcap: '9861'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9861.png
 name: 'Float Protocol: Float'
-platform: ETH
-platform_contract: '0xb05097849bca421a3f51b249ba6cca4af4b97cb9'

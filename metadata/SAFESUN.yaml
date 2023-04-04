@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA03C3a233940485D46eE77407343DA3221198427'
+    platform: BNB
 crypto: true
 fiat: false
 id: SAFESUN
 id_coinmarketcap: '9294'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9294.png
 name: SAFESUN
-platform: BNB
-platform_contract: '0xA03C3a233940485D46eE77407343DA3221198427'

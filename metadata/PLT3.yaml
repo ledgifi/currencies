@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd61b85636b4a5834c1e8a196da7218cebbf76c36'
+    platform: BNB
 crypto: true
 fiat: false
 id: PLT3
 id_coinmarketcap: '17090'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17090.png
 name: PLATFORM
-platform: BNB
-platform_contract: '0xd61b85636b4a5834c1e8a196da7218cebbf76c36'

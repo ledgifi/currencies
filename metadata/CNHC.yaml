@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9293C7B4B4FB90FB3EE76f7C6189aA841E57E5c0'
+    platform: ETH
 crypto: true
 fiat: false
 id: CNHC
 id_coinmarketcap: '23206'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23206.png
 name: CNHC
-platform: ETH
-platform_contract: '0x9293C7B4B4FB90FB3EE76f7C6189aA841E57E5c0'

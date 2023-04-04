@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcd657182a749554fc8487757612f02226355269d'
+    platform: BNB
 crypto: true
 fiat: false
 id: MUSK3
 id_coinmarketcap: '11285'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11285.png
 name: MuskSwap
-platform: BNB
-platform_contract: '0xcd657182a749554fc8487757612f02226355269d'

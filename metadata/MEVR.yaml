@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdde3ed0bb77c1cafabf8b38f9a1e81edddc7ddc9'
+    platform: BNB
 crypto: true
 fiat: false
 id: MEVR
 id_coinmarketcap: '17874'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17874.png
 name: Metaverse VR
-platform: BNB
-platform_contract: '0xdde3ed0bb77c1cafabf8b38f9a1e81edddc7ddc9'

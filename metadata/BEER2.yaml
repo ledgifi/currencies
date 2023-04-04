@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2e92864240819e2286d440b0c477077dd660b340'
+    platform: ETH
 crypto: true
 fiat: false
 id: BEER2
 id_coinmarketcap: '11256'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11256.png
 name: Beer Inu
-platform: ETH
-platform_contract: '0x2e92864240819e2286d440b0c477077dd660b340'

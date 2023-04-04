@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4375e7ad8a01b8ec3ed041399f62d9cd120e0063'
+    platform: ETH
 crypto: true
 fiat: false
 id: BZ
 id_coinmarketcap: '2918'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2918.png
 name: BitZ Token
-platform: ETH
-platform_contract: '0x4375e7ad8a01b8ec3ed041399f62d9cd120e0063'

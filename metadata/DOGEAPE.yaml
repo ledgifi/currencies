@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF931ec496a062Ab17077deF06074B7488CcCE08e'
+    platform: DOGE
 crypto: true
 fiat: false
 id: DOGEAPE
 id_coinmarketcap: '21633'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21633.png
 name: DogeApe
-platform: DOGE
-platform_contract: '0xF931ec496a062Ab17077deF06074B7488CcCE08e'

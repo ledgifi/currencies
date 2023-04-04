@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x580a84c73811e1839f75d86d75d88cca0c241ff4'
+    platform: MATIC
 crypto: true
 fiat: false
 id: QI2
@@ -6,5 +9,3 @@ id_nomics: QI2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QI2.jpg
 logoKey: currencies/qi2.jpg
 name: Qi Dao
-platform: MATIC
-platform_contract: '0x580a84c73811e1839f75d86d75d88cca0c241ff4'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x508626d9a29D13EbA26F843A2BD7bF7b00a45be5'
+    platform: ETH
 crypto: true
 fiat: false
 id: KALE
 id_coinmarketcap: '22385'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22385.png
 name: Bluelight
-platform: ETH
-platform_contract: '0x508626d9a29D13EbA26F843A2BD7bF7b00a45be5'

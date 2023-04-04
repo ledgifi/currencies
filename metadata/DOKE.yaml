@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x517abf1fcdbd76bc75b532683ada9113e313a128'
+    platform: ETH
 crypto: true
 fiat: false
 id: DOKE
 id_coinmarketcap: '23695'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23695.png
 name: Doke Inu
-platform: ETH
-platform_contract: '0x517abf1fcdbd76bc75b532683ada9113e313a128'

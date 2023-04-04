@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x49e16563a2ba84e560780946f0fb73a8b32c841e'
+    platform: HT
 crypto: true
 fiat: false
 id: SOVI
 id_coinmarketcap: '8741'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8741.png
 name: Sovi Finance
-platform: HT
-platform_contract: '0x49e16563a2ba84e560780946f0fb73a8b32c841e'

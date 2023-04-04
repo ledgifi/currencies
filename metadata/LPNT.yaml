@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6a4c76874e686a7d080d173987a35a9c48905583'
+    platform: ETH
 crypto: true
 fiat: false
 id: LPNT
 id_coinmarketcap: '8501'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8501.png
 name: Luxurious Pro Network Token
-platform: ETH
-platform_contract: '0x6a4c76874e686a7d080d173987a35a9c48905583'

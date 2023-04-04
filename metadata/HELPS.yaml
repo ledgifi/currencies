@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0A6e6D2F58d22E267Fdc9bfB295F0d43985FEBB4'
+    platform: BNB
 crypto: true
 fiat: false
 id: HELPS
 id_coinmarketcap: '18316'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18316.png
 name: HelpSeed
-platform: BNB
-platform_contract: '0x0A6e6D2F58d22E267Fdc9bfB295F0d43985FEBB4'

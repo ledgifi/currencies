@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x49c7295ff86eabf5bf58c6ebc858db4805738c01'
+    platform: BNB
 crypto: true
 fiat: false
 id: HERA1
 id_coinmarketcap: '11967'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11967.png
 name: Hero Arena
-platform: BNB
-platform_contract: '0x49c7295ff86eabf5bf58c6ebc858db4805738c01'

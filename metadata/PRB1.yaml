@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x59ff585aa42939853e2587b07ee8f94017584a88'
+    platform: BNB
 crypto: true
 fiat: false
 id: PRB1
 id_coinmarketcap: '12343'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12343.png
 name: PremiumBlock
-platform: BNB
-platform_contract: '0x59ff585aa42939853e2587b07ee8f94017584a88'

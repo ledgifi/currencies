@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2adba23cf1252de095aced801e758b369ec10426'
+    platform: ETH
 crypto: true
 fiat: false
 id: UCBI
 id_coinmarketcap: '4780'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4780.png
 name: UCBI Banking
-platform: ETH
-platform_contract: '0x2adba23cf1252de095aced801e758b369ec10426'

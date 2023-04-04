@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9e711221b34a2d4b8f552bd5f4a6c4e7934920f7'
+    platform: BNB
 crypto: true
 fiat: false
 id: ORT
 id_coinmarketcap: '16252'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16252.png
 name: Okratech Token
-platform: BNB
-platform_contract: '0x9e711221b34a2d4b8f552bd5f4a6c4e7934920f7'

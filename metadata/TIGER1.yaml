@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8c4b3dea4247f066f3aaff7273dc97e7d4187b04'
+    platform: BNB
 crypto: true
 fiat: false
 id: TIGER1
 id_coinmarketcap: '8453'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8453.png
 name: Tigerfinance
-platform: BNB
-platform_contract: '0x8c4b3dea4247f066f3aaff7273dc97e7d4187b04'

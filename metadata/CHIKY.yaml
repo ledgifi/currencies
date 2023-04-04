@@ -1,8 +1,9 @@
+contracts:
+  - address: 0xD63bd7CdA5337C291688eD29D80BDe69b8E93503 (BSC)
+    platform: BNB
 crypto: true
 fiat: false
 id: CHIKY
 id_coinmarketcap: '20855'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20855.png
 name: Chickey Chik
-platform: BNB
-platform_contract: 0xD63bd7CdA5337C291688eD29D80BDe69b8E93503 (BSC)

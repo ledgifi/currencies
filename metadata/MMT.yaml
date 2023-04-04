@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x27D8De4c30ffDE34e982482AE504fC7F23061f61'
+    platform: ARB
 crypto: true
 fiat: false
 id: MMT
 id_coinmarketcap: '23627'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23627.png
 name: MyMetaTrader
-platform: ARB
-platform_contract: '0x27D8De4c30ffDE34e982482AE504fC7F23061f61'

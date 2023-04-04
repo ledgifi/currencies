@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x39d0291f0aaad6cf0b5213f7cc6df72493692cae'
+    platform: BNB
 crypto: true
 fiat: false
 id: FROSTYFLOKI1
 id_coinmarketcap: '16546'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16546.png
 name: Frosty Floki V2
-platform: BNB
-platform_contract: '0x39d0291f0aaad6cf0b5213f7cc6df72493692cae'

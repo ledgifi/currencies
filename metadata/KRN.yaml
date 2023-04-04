@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4e6d79cddec12c229d53b38c11b204bcec118885'
+    platform: BNB
 crypto: true
 fiat: false
 id: KRN
 id_coinmarketcap: '11922'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11922.png
 name: KRYZA Network
-platform: BNB
-platform_contract: '0x4e6d79cddec12c229d53b38c11b204bcec118885'

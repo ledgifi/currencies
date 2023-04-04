@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D'
+    platform: ETH
 crypto: true
 fiat: false
 id: KISHU
 id_coinmarketcap: '9386'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9386.png
 name: Kishu Inu
-platform: ETH
-platform_contract: '0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D'

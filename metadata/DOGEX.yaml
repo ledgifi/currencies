@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1F6819D87bD6e10cae34883175232EE9774e00b2'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOGEX
 id_coinmarketcap: '11733'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11733.png
 name: Project DogeX(OLD)
-platform: BNB
-platform_contract: '0x1F6819D87bD6e10cae34883175232EE9774e00b2'

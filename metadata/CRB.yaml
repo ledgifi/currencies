@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x518afa06aeca8dd0946b89a565e51f5a91d81176'
+    platform: BNB
 crypto: true
 fiat: false
 id: CRB
 id_coinmarketcap: '12736'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12736.png
 name: CRB Coin
-platform: BNB
-platform_contract: '0x518afa06aeca8dd0946b89a565e51f5a91d81176'

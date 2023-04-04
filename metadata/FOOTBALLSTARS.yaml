@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6507458bb53aec6be863161641ec28739c41cc97'
+    platform: BNB
 crypto: true
 fiat: false
 id: FootballStars
 id_coinmarketcap: '9910'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9910.png
 name: Football Stars
-platform: BNB
-platform_contract: '0x6507458bb53aec6be863161641ec28739c41cc97'

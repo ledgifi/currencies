@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xD85a6Ae55a7f33B0ee113C234d2EE308EdeAF7fD'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: CBK
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201226/1337729f-b863-4853-9a0e-87c2a8d0ad50.png
 logoKey: currencies/cbk.png
 name: Cobak
-platform: ETH
-platform_contract: '0xD85a6Ae55a7f33B0ee113C234d2EE308EdeAF7fD'

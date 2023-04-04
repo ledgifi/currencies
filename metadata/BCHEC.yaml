@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x97Ae1A743aed9cAE6a39E132c3bcE5874E0fE545'
+    platform: BNB
 crypto: true
 fiat: false
 id: BCHEC
 id_coinmarketcap: '20259'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20259.png
 name: Bitchemical
-platform: BNB
-platform_contract: '0x97Ae1A743aed9cAE6a39E132c3bcE5874E0fE545'

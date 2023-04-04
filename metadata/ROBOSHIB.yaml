@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0b48a744669767a3478293fd4eecb8fdc5d33cda'
+    platform: ETH
 crypto: true
 fiat: false
 id: ROBOSHIB
 id_coinmarketcap: '16071'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16071.png
 name: RoboShib
-platform: ETH
-platform_contract: '0x0b48a744669767a3478293fd4eecb8fdc5d33cda'

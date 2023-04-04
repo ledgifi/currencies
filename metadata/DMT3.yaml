@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x79126d32a86e6663f3aaac4527732d0701c1ae6c'
+    platform: ETH
 crypto: true
 fiat: false
 id: DMT3
 id_coinmarketcap: '9186'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9186.png
 name: Dark Matter
-platform: ETH
-platform_contract: '0x79126d32a86e6663f3aaac4527732d0701c1ae6c'

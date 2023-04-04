@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8c64d18e9d4a7b8e8c10c5c5a4b8d6d83cb15002'
+    platform: FTM
 crypto: true
 fiat: false
 id: PSHARE
 id_coinmarketcap: '18185'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18185.png
 name: Partial Share
-platform: FTM
-platform_contract: '0x8c64d18e9d4a7b8e8c10c5c5a4b8d6d83cb15002'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF20F2aD6A36e9A4f585755aCEB0DA750De80ED4E'
+    platform: BNB
 crypto: true
 fiat: false
 id: BABYRABBIT
 id_coinmarketcap: '23129'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23129.png
 name: Babyrabbit
-platform: BNB
-platform_contract: '0xF20F2aD6A36e9A4f585755aCEB0DA750De80ED4E'

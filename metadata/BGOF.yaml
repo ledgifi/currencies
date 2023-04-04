@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5f949De3131f00B296Fc4c99058D40960B90FAbC'
+    platform: BNB
 crypto: true
 fiat: false
 id: BGOF
 id_coinmarketcap: '20410'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20410.png
 name: Bingo Family
-platform: BNB
-platform_contract: '0x5f949De3131f00B296Fc4c99058D40960B90FAbC'

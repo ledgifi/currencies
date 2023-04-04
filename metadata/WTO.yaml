@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCED59c3249F20Ca36FBA764bFDD9D94f471b3154'
+    platform: BNB
 crypto: true
 fiat: false
 id: WTO
 id_coinmarketcap: '22557'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22557.png
 name: Wettok Market
-platform: BNB
-platform_contract: '0xCED59c3249F20Ca36FBA764bFDD9D94f471b3154'

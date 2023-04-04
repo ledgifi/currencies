@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe2997ae926C7a76aF782923a7fEf89f36d86C98F'
+    platform: BNB
 crypto: true
 fiat: false
 id: MBF
 id_coinmarketcap: '11224'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11224.png
 name: MoonBear.finance
-platform: BNB
-platform_contract: '0xe2997ae926C7a76aF782923a7fEf89f36d86C98F'

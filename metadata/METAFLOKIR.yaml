@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2f800cBdDA851b5df3A1C9E629538E49BB9547FF'
+    platform: BNB
 crypto: true
 fiat: false
 id: METAFLOKIR
 id_coinmarketcap: '18026'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18026.png
 name: MetaFlokiRush
-platform: BNB
-platform_contract: '0x2f800cBdDA851b5df3A1C9E629538E49BB9547FF'

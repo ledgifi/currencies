@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8f5604f7bda1ca043baa01147bcaf81e03f23042'
+    platform: ETH
 crypto: true
 fiat: false
 id: TAO4
 id_coinmarketcap: '17964'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17964.png
 name: Together As One
-platform: ETH
-platform_contract: '0x8f5604f7bda1ca043baa01147bcaf81e03f23042'

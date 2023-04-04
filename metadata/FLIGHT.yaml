@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf397680d99a92e4b60637e9f5c71a4def1f6c7b5'
+    platform: BNB
 crypto: true
 fiat: false
 id: FLIGHT
 id_coinmarketcap: '22550'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22550.png
 name: FLIGHTCLUPCOIN
-platform: BNB
-platform_contract: '0xf397680d99a92e4b60637e9f5c71a4def1f6c7b5'

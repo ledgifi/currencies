@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2a354f59ed1dd485129891e718865eb55ebdb8b3'
+    platform: BNB
 crypto: true
 fiat: false
 id: LLN
 id_coinmarketcap: '12794'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12794.png
 name: LunaLand
-platform: BNB
-platform_contract: '0x2a354f59ed1dd485129891e718865eb55ebdb8b3'

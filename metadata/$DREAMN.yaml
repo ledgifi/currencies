@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7fca026d67feec1c7cf88ab866d2678dfb2b5243'
+    platform: BNB
 crypto: true
 fiat: false
 id: $DREAMN
 id_coinmarketcap: '20152'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20152.png
 name: DreamN
-platform: BNB
-platform_contract: '0x7fca026d67feec1c7cf88ab866d2678dfb2b5243'

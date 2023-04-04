@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x796a4503b444a71b331c9556bef0815237ddeabc'
+    platform: ETH
 crypto: true
 fiat: false
 id: oDOGE
 id_coinmarketcap: '23748'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23748.png
 name: Ordinal Doge
-platform: ETH
-platform_contract: '0x796a4503b444a71b331c9556bef0815237ddeabc'

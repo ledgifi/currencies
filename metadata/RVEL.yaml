@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x33c2030362bd574cfbced5857d0e4e4aea3e98c6'
+    platform: BNB
 crypto: true
 fiat: false
 id: RVEL
 id_coinmarketcap: '8754'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8754.png
 name: Reveal Finance
-platform: BNB
-platform_contract: '0x33c2030362bd574cfbced5857d0e4e4aea3e98c6'

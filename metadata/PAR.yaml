@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1beef31946fbbb40b877a72e4ae04a8d1a5cee06'
+    platform: ETH
 crypto: true
 fiat: false
 id: PAR
 id_coinmarketcap: '4051'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4051.png
 name: Parachute
-platform: ETH
-platform_contract: '0x1beef31946fbbb40b877a72e4ae04a8d1a5cee06'

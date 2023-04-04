@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5456bc77dd275c45c3c15f0cf936b763cf57c3b5'
+    platform: ETH
 crypto: true
 fiat: false
 id: ANCT
 id_coinmarketcap: '4901'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4901.png
 name: Anchor
-platform: ETH
-platform_contract: '0x5456bc77dd275c45c3c15f0cf936b763cf57c3b5'

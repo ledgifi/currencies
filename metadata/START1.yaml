@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1d7Ca62F6Af49ec66f6680b8606E634E55Ef22C1'
+    platform: ETH
 crypto: true
 fiat: false
 id: START1
 id_coinmarketcap: '8662'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8662.png
 name: Starter
-platform: ETH
-platform_contract: '0x1d7Ca62F6Af49ec66f6680b8606E634E55Ef22C1'

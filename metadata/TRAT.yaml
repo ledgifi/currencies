@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xe225aca29524bb65fd82c79a9602f3b4f9c6fe3f'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRAT
@@ -7,5 +10,3 @@ id_nomics: TRAT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRAT.png
 logoKey: currencies/trat.png
 name: Tratok
-platform: ETH
-platform_contract: '0xe225aca29524bb65fd82c79a9602f3b4f9c6fe3f'

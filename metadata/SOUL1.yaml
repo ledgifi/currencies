@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbb1f24c0c1554b9990222f036b0aad6ee4caec29'
+    platform: ETH
 crypto: true
 fiat: false
 id: SOUL1
 id_coinmarketcap: '3501'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3501.png
 name: CryptoSoul
-platform: ETH
-platform_contract: '0xbb1f24c0c1554b9990222f036b0aad6ee4caec29'

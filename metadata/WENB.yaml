@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x46f4e420c75401494a39b70653f4bbb88ad2d728'
+    platform: ETH
 crypto: true
 fiat: false
 id: WENB
 id_coinmarketcap: '6728'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6728.png
 name: Wenburn
-platform: ETH
-platform_contract: '0x46f4e420c75401494a39b70653f4bbb88ad2d728'

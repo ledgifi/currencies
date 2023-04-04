@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf43fffb83d7c73275c2feaac15d5670f7d739b50'
+    platform: BNB
 crypto: true
 fiat: false
 id: CZBNB
 id_coinmarketcap: '20798'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20798.png
 name: CZbnb
-platform: BNB
-platform_contract: '0xf43fffb83d7c73275c2feaac15d5670f7d739b50'

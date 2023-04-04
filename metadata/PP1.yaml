@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xece8531550fc599ccb2c7734494fbc358d0a9483'
+    platform: ETH
 crypto: true
 fiat: false
 id: PP1
 id_coinmarketcap: '21438'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21438.png
 name: Phoenix Protocol Dao
-platform: ETH
-platform_contract: '0xece8531550fc599ccb2c7734494fbc358d0a9483'

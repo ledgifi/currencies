@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1e226f8527d9f73048f4b660af44d902d4508bc2'
+    platform: BNB
 crypto: true
 fiat: false
 id: FENOMY
 id_coinmarketcap: '18117'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18117.png
 name: Fenomy
-platform: BNB
-platform_contract: '0x1e226f8527d9f73048f4b660af44d902d4508bc2'

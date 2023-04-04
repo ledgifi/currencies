@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x235C8EE913d93c68D2902a8e0b5a643755705726'
+    platform: ETH
 crypto: true
 fiat: false
 id: BAG
 id_coinmarketcap: '23415'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23415.png
 name: tehBag
-platform: ETH
-platform_contract: '0x235C8EE913d93c68D2902a8e0b5a643755705726'

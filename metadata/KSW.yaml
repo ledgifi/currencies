@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7162469321ae5880F077D250B626F3271b21b903'
+    platform: ETH
 crypto: true
 fiat: false
 id: KSW
 id_coinmarketcap: '14361'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14361.png
 name: KillSwitch
-platform: ETH
-platform_contract: '0x7162469321ae5880F077D250B626F3271b21b903'

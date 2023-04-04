@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xe0191fEfdd0D2B39b1a2E4E029cCDA8A481b7995'
+    platform: BNB
 crypto: true
 fiat: false
 id: CRUX
@@ -6,5 +9,3 @@ id_coinpaprika: crux-cryptomines-reborn
 id_nomics: CRUX
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19003.png
 name: CryptoMines Reborn
-platform: BNB
-platform_contract: '0xe0191fEfdd0D2B39b1a2E4E029cCDA8A481b7995'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaf706d0d35c18fc5653acc161df14783a986a8fc'
+    platform: BNB
 crypto: true
 fiat: false
 id: DLC3
 id_coinmarketcap: '14673'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14673.png
 name: Dulcet Garden
-platform: BNB
-platform_contract: '0xaf706d0d35c18fc5653acc161df14783a986a8fc'

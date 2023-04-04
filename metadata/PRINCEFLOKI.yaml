@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x39a7dac3546d37c1f4a05e711bbb5c0ccac2d3bb'
+    platform: BNB
 crypto: true
 fiat: false
 id: PrinceFloki
 id_coinmarketcap: '12617'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12617.png
 name: PrinceFloki
-platform: BNB
-platform_contract: '0x39a7dac3546d37c1f4a05e711bbb5c0ccac2d3bb'

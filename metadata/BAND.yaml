@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xba11d00c5f74255f56a5e366f4f77f5a186d7f55'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: BAND
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/band.svg
 logoKey: currencies/band.svg
 name: BAND
-platform: ETH
-platform_contract: '0xba11d00c5f74255f56a5e366f4f77f5a186d7f55'

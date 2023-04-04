@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x475bfaa1848591ae0e6ab69600f48d828f61a80e'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOME
@@ -7,5 +10,3 @@ id_nomics: DOME
 logo: https://static.coinpaprika.com/coin/dome-everdome/logo.png
 logoKey: currencies/dome.png
 name: Everdome
-platform: BNB
-platform_contract: '0x475bfaa1848591ae0e6ab69600f48d828f61a80e'

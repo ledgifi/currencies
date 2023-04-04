@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x95EfDC8EBe732FEe41803478dd8Ab170d99675b9'
+    platform: BNB
 crypto: true
 fiat: false
 id: HIV
 id_coinmarketcap: '22141'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22141.png
 name: Hive Vault
-platform: BNB
-platform_contract: '0x95EfDC8EBe732FEe41803478dd8Ab170d99675b9'

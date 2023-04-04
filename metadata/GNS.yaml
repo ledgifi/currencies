@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xE5417Af564e4bFDA1c483642db72007871397896'
+    platform: MATIC
 crypto: true
 decimals: 8
 fiat: false
@@ -7,5 +10,3 @@ id_coinmarketcap: '13663'
 id_nomics: GNS
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13663.png
 name: Gains Network
-platform: MATIC
-platform_contract: '0xE5417Af564e4bFDA1c483642db72007871397896'

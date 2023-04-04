@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x627E86E9eC832b59018Bf91456599e752288Aa97'
+    platform: BNB
 crypto: true
 fiat: false
 id: GALE
 id_coinmarketcap: '19371'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19371.png
 name: Gale Network
-platform: BNB
-platform_contract: '0x627E86E9eC832b59018Bf91456599e752288Aa97'

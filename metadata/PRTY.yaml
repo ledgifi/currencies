@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9AF9290a0eDEf22AC36ff6C7Cb42A940eE8fBf14'
+    platform: BNB
 crypto: true
 fiat: false
 id: PRTY
 id_coinmarketcap: '15938'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15938.png
 name: Proprty
-platform: BNB
-platform_contract: '0x9AF9290a0eDEf22AC36ff6C7Cb42A940eE8fBf14'

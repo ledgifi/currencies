@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xed1480d12be41d92f36f5f7bdd88212e381a3677'
+    platform: ETH
 crypto: true
 fiat: false
 id: FDT2
 id_coinmarketcap: '14570'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14570.png
 name: FIAT DAO
-platform: ETH
-platform_contract: '0xed1480d12be41d92f36f5f7bdd88212e381a3677'

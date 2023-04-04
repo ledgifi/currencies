@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x851b7cb21d7428fa1ed87a7c45da8048079b0a90'
+    platform: BNB
 crypto: true
 fiat: false
 id: RLT1
 id_coinmarketcap: '20602'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20602.png
 name: Runner Land
-platform: BNB
-platform_contract: '0x851b7cb21d7428fa1ed87a7c45da8048079b0a90'

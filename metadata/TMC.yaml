@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8f1fE4e6707CD4236b704759d2ee15166C68183a'
+    platform: BNB
 crypto: true
 fiat: false
 id: TMC
 id_coinmarketcap: '19615'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19615.png
 name: Tom Coin
-platform: BNB
-platform_contract: '0x8f1fE4e6707CD4236b704759d2ee15166C68183a'

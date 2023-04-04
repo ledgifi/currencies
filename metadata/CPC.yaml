@@ -1,8 +1,9 @@
+contracts:
+  - address: CPC-FED
+    platform: BNB
 crypto: true
 fiat: false
 id: CPC
 id_coinmarketcap: '2482'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2482.png
 name: CPChain
-platform: BNB
-platform_contract: CPC-FED

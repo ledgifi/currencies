@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfFffFffF2ba8F66D4e51811C5190992176930278'
+    platform: ETH
 crypto: true
 fiat: false
 id: COMBO
 id_coinmarketcap: '8259'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8259.png
 name: Furucombo
-platform: ETH
-platform_contract: '0xfFffFffF2ba8F66D4e51811C5190992176930278'

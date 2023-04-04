@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa0ED3C520dC0632657AD2EaaF19E26C4fD431a84'
+    platform: ETH
 crypto: true
 fiat: false
 id: HPO
 id_coinmarketcap: '22314'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22314.png
 name: Hippo Wallet Token (HPO)
-platform: ETH
-platform_contract: '0xa0ED3C520dC0632657AD2EaaF19E26C4fD431a84'

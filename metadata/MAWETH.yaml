@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x20D3922b4a1A8560E1aC99FBA4faDe0c849e2142'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MAWETH
 id_coinmarketcap: '8924'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8924.png
 name: Matic Aave Interest Bearing WETH
-platform: MATIC
-platform_contract: '0x20D3922b4a1A8560E1aC99FBA4faDe0c849e2142'

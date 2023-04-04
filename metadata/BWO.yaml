@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc1543024dc71247888a7e139c644f44e75e96d38'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BWO
 id_coinmarketcap: '20382'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20382.png
 name: Battle World
-platform: MATIC
-platform_contract: '0xc1543024dc71247888a7e139c644f44e75e96d38'

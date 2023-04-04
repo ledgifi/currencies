@@ -1,4 +1,7 @@
 color: '#2a2a2a'
+contracts:
+  - address: '0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: RDN
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/rdn.svg
 logoKey: currencies/rdn.svg
 name: Raiden Network Token
-platform: ETH
-platform_contract: '0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6'

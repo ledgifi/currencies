@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x03a3cDa7F684Db91536e5b36DC8e9077dC451081'
+    platform: BNB
 crypto: true
 fiat: false
 id: ELONMOON
 id_coinmarketcap: '18664'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18664.png
 name: Elonmoon
-platform: BNB
-platform_contract: '0x03a3cDa7F684Db91536e5b36DC8e9077dC451081'

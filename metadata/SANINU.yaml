@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4d496efc21754481fe7a9f3f0f758785ade8e1d3'
+    platform: BNB
 crypto: true
 fiat: false
 id: SANINU
 id_coinmarketcap: '14895'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14895.png
 name: Santa Inu
-platform: BNB
-platform_contract: '0x4d496efc21754481fe7a9f3f0f758785ade8e1d3'

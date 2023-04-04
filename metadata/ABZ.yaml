@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7f3e9bdb55a0fa72bd6025c0ee1dfc3276ce3cf9'
+    platform: BNB
 crypto: true
 fiat: false
 id: ABZ
 id_coinmarketcap: '16714'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16714.png
 name: AstroBirdz
-platform: BNB
-platform_contract: '0x7f3e9bdb55a0fa72bd6025c0ee1dfc3276ce3cf9'

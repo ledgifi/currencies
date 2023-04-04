@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd8950fdeaa10304b7a7fd03a2fc66bc39f3c711a'
+    platform: ETH
 crypto: true
 fiat: false
 id: WYS
 id_coinmarketcap: '2954'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2954.png
 name: wys Token
-platform: ETH
-platform_contract: '0xd8950fdeaa10304b7a7fd03a2fc66bc39f3c711a'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe530441f4f73bDB6DC2fA5aF7c3fC5fD551Ec838'
+    platform: ETH
 crypto: true
 fiat: false
 id: GSE
 id_coinmarketcap: '3123'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3123.png
 name: GSENetwork
-platform: ETH
-platform_contract: '0xe530441f4f73bDB6DC2fA5aF7c3fC5fD551Ec838'

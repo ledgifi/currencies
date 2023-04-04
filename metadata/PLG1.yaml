@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xDAd3ABce6Fb87FA0355203b692723A7EE8aa9D63'
+    platform: BNB
 crypto: true
 fiat: false
 id: PLG1
 id_coinmarketcap: '16037'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16037.png
 name: Plunge
-platform: BNB
-platform_contract: '0xDAd3ABce6Fb87FA0355203b692723A7EE8aa9D63'

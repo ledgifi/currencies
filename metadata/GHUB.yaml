@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4836cc1f355bb2a61c210eaa0cd3f729160cd95e'
+    platform: KLAY
 crypto: true
 fiat: false
 id: GHUB
 id_coinmarketcap: '19709'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19709.png
 name: GemHUB
-platform: KLAY
-platform_contract: '0x4836cc1f355bb2a61c210eaa0cd3f729160cd95e'

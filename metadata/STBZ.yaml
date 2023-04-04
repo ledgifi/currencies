@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb987d48ed8f2c468d52d6405624eadba5e76d723'
+    platform: ETH
 crypto: true
 fiat: false
 id: STBZ
 id_coinmarketcap: '7366'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7366.png
 name: Stabilize
-platform: ETH
-platform_contract: '0xb987d48ed8f2c468d52d6405624eadba5e76d723'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0000000000000000000100000000000000000081'
+    platform: KAR
 crypto: true
 fiat: false
 id: AUSD
 id_coinmarketcap: '21406'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21406.png
 name: Acala Dollar(Karura)
-platform: KAR
-platform_contract: '0x0000000000000000000100000000000000000081'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5649e392a1bac3e21672203589adf8f6c99f8db3'
+    platform: BNB
 crypto: true
 fiat: false
 id: ZDC1
 id_coinmarketcap: '13202'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13202.png
 name: Zodiacs
-platform: BNB
-platform_contract: '0x5649e392a1bac3e21672203589adf8f6c99f8db3'

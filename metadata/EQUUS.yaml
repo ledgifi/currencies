@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd57a41edb1956d4710286f9086352178d49a9b4a'
+    platform: ETH
 crypto: true
 fiat: false
 id: EQUUS
 id_coinmarketcap: '5951'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5951.png
 name: Equus
-platform: ETH
-platform_contract: '0xd57a41edb1956d4710286f9086352178d49a9b4a'

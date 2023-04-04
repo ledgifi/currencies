@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x55af2344088e2fbca58cacc36b4b2815675a3f98'
+    platform: ETH
 crypto: true
 fiat: false
 id: VMS
 id_coinmarketcap: '19729'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19729.png
 name: Vehicle Mining System
-platform: ETH
-platform_contract: '0x55af2344088e2fbca58cacc36b4b2815675a3f98'

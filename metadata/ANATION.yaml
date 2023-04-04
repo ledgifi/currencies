@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5ae89b52f6b5d25eba50f0441f91a81968689d95'
+    platform: BNB
 crypto: true
 fiat: false
 id: ANATION
 id_coinmarketcap: '20954'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20954.png
 name: A-NATION
-platform: BNB
-platform_contract: '0x5ae89b52f6b5d25eba50f0441f91a81968689d95'

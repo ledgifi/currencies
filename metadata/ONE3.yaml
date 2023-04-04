@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4d807509aece24c0fa5a102b6a3b059ec6e14392'
+    platform: ETH
 crypto: true
 fiat: false
 id: ONE3
 id_coinmarketcap: '3603'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3603.png
 name: Menlo One
-platform: ETH
-platform_contract: '0x4d807509aece24c0fa5a102b6a3b059ec6e14392'

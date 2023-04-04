@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc875d22eaA3Bc358887bD1483E98c8796b215942'
+    platform: BNB
 crypto: true
 fiat: false
 id: PIX2
 id_coinmarketcap: '11703'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11703.png
 name: Privi PIX
-platform: BNB
-platform_contract: '0xc875d22eaA3Bc358887bD1483E98c8796b215942'

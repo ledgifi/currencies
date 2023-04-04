@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1Bf7AedeC439D6BFE38f8f9b20CF3dc99e3571C4'
+    platform: BNB
 crypto: true
 fiat: false
 id: TRONPAD
 id_coinmarketcap: '10277'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10277.png
 name: TRONPAD
-platform: BNB
-platform_contract: '0x1Bf7AedeC439D6BFE38f8f9b20CF3dc99e3571C4'

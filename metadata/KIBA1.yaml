@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6da9e6ecfc74460d5c2c7abe1e4b3ce94d92fd08'
+    platform: BNB
 crypto: true
 fiat: false
 id: KIBA1
 id_coinmarketcap: '13593'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13593.png
 name: Kiba
-platform: BNB
-platform_contract: '0x6da9e6ecfc74460d5c2c7abe1e4b3ce94d92fd08'

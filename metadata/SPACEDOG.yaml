@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xD034c1F3cD74094fe966A0f25c9E5a21A21eb487'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPACEDOG
 id_coinmarketcap: '15382'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15382.png
 name: Space Dog
-platform: BNB
-platform_contract: '0xD034c1F3cD74094fe966A0f25c9E5a21A21eb487'

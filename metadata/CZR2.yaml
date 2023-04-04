@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0223fc70574214f65813fe336d870ac47e147fae'
+    platform: ETH
 crypto: true
 fiat: false
 id: CZR2
 id_coinmarketcap: '3040'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3040.png
 name: CanonChain
-platform: ETH
-platform_contract: '0x0223fc70574214f65813fe336d870ac47e147fae'

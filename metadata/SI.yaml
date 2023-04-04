@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de'
+    platform: ETH
 crypto: true
 fiat: false
 id: SI
@@ -6,5 +9,3 @@ id_nomics: SI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SI.jpg
 logoKey: currencies/si.jpg
 name: Siren
-platform: ETH
-platform_contract: '0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de'

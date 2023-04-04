@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4c5813b8c6fbbac76caa148aaf8910f236b56fdf'
+    platform: ETH
 crypto: true
 fiat: false
 id: SNAP1
 id_coinmarketcap: '11615'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11615.png
 name: SNAP!
-platform: ETH
-platform_contract: '0x4c5813b8c6fbbac76caa148aaf8910f236b56fdf'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb2ebbff04bdcb3ded0cb99c544521a17e940ff96'
+    platform: BNB
 crypto: true
 fiat: false
 id: XIX
 id_coinmarketcap: '21447'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21447.png
 name: Million Pixel
-platform: BNB
-platform_contract: '0xb2ebbff04bdcb3ded0cb99c544521a17e940ff96'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x43b72f3b99564257671d5c47df663585344c1459'
+    platform: BNB
 crypto: true
 fiat: false
 id: XPAY1
 id_coinmarketcap: '14526'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14526.png
 name: Wallet Pay
-platform: BNB
-platform_contract: '0x43b72f3b99564257671d5c47df663585344c1459'

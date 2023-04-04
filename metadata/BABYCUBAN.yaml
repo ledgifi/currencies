@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd21730353086b0d6c34656ca74f4e4295dc9b8e0'
+    platform: ETH
 crypto: true
 fiat: false
 id: BABYCUBAN
 id_coinmarketcap: '10995'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10995.png
 name: Baby Cuban
-platform: ETH
-platform_contract: '0xd21730353086b0d6c34656ca74f4e4295dc9b8e0'

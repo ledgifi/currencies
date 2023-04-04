@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf576ff0d7e4c1e8f27dbd50321e95e36a965985f'
+    platform: ETH
 crypto: true
 fiat: false
 id: AFC1
 id_coinmarketcap: '7469'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7469.png
 name: Apiary Fund Coin
-platform: ETH
-platform_contract: '0xf576ff0d7e4c1e8f27dbd50321e95e36a965985f'

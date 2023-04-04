@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x3C00F8FCc8791fa78DAA4A480095Ec7D475781e2'
+    platform: BNB
 crypto: true
 fiat: false
 id: SAFESTAR
@@ -7,5 +10,3 @@ id_nomics: SAFESTAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFESTAR.jpg
 logoKey: currencies/safestar.jpg
 name: SafeStar
-platform: BNB
-platform_contract: '0x3C00F8FCc8791fa78DAA4A480095Ec7D475781e2'

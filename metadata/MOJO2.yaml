@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8087e4c1735c1373f0d04b88d4dbe1fae1149123'
+    platform: BNB
 crypto: true
 fiat: false
 id: MOJO2
 id_coinmarketcap: '9832'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9832.png
 name: MoonJuice
-platform: BNB
-platform_contract: '0x8087e4c1735c1373f0d04b88d4dbe1fae1149123'

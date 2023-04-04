@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9a1c7577a69ea9e296ef99bfb0eb6bedbe352a36'
+    platform: ETH
 crypto: true
 fiat: false
 id: AIMS
 id_coinmarketcap: '4602'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4602.png
 name: AIMS
-platform: ETH
-platform_contract: '0x9a1c7577a69ea9e296ef99bfb0eb6bedbe352a36'

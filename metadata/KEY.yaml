@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x4cc19356f2d37338b9802aa8e8fc58b0373296e7'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: KEY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/key.png
 logoKey: currencies/key.png
 name: SelfKey
-platform: ETH
-platform_contract: '0x4cc19356f2d37338b9802aa8e8fc58b0373296e7'

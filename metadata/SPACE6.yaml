@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x26f399fd3bd1c52cde04c24bdc60d5b193e73b79'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPACE6
 id_coinmarketcap: '8626'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8626.png
 name: Space Finance
-platform: BNB
-platform_contract: '0x26f399fd3bd1c52cde04c24bdc60d5b193e73b79'

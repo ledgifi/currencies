@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xD536851e2BD9b3B8EA6a46b32016D7f52B1e4327'
+    platform: BNB
 crypto: true
 fiat: false
 id: EXT
 id_coinmarketcap: '22854'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22854.png
 name: ExodusExt
-platform: BNB
-platform_contract: '0xD536851e2BD9b3B8EA6a46b32016D7f52B1e4327'

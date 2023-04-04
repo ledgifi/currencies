@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x93d5a19a993d195cfc75acdd736a994428290a59'
+    platform: BNB
 crypto: true
 fiat: false
 id: ORE4
 id_coinmarketcap: '8929'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8929.png
 name: OREO
-platform: BNB
-platform_contract: '0x93d5a19a993d195cfc75acdd736a994428290a59'

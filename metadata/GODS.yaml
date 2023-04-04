@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xccc8cb5229b0ac8069c51fd58367fd1e622afd97'
+    platform: ETH
 crypto: true
 fiat: false
 id: GODS
@@ -7,5 +10,3 @@ id_nomics: GODS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GODS.jpg
 logoKey: currencies/gods.jpg
 name: Gods Unchained
-platform: ETH
-platform_contract: '0xccc8cb5229b0ac8069c51fd58367fd1e622afd97'

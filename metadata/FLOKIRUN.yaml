@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x28790423ae6ebc58bd1c7105a3d4fd6fb101af7b'
+    platform: BNB
 crypto: true
 fiat: false
 id: FLOKIRUN
 id_coinmarketcap: '17691'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17691.png
 name: Floki Run
-platform: BNB
-platform_contract: '0x28790423ae6ebc58bd1c7105a3d4fd6fb101af7b'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5f4a9583825f3bA91533F624F29b97Ac29C74c24'
+    platform: BNB
 crypto: true
 fiat: false
 id: LNFS
 id_coinmarketcap: '17401'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17401.png
 name: Limbo Token
-platform: BNB
-platform_contract: '0x5f4a9583825f3bA91533F624F29b97Ac29C74c24'

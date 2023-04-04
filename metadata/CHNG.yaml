@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x05573124c64c69d85687152b2942bcb0a3b26d99'
+    platform: FSN
 crypto: true
 fiat: false
 id: CHNG
 id_coinmarketcap: '9071'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9071.png
 name: Chainge
-platform: FSN
-platform_contract: '0x05573124c64c69d85687152b2942bcb0a3b26d99'

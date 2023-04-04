@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbA552586eA573Eaa3436f04027ff4effd0c0abbb'
+    platform: BNB
 crypto: true
 fiat: false
 id: MEER
 id_coinmarketcap: '15658'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15658.png
 name: Qitmeer Network
-platform: BNB
-platform_contract: '0xbA552586eA573Eaa3436f04027ff4effd0c0abbb'

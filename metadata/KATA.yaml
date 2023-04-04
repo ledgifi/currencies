@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2e85ae1C47602f7927bCabc2Ff99C40aA222aE15'
+    platform: ETH
 crypto: true
 fiat: false
 id: KATA
 id_coinmarketcap: '15142'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15142.png
 name: Katana Inu
-platform: ETH
-platform_contract: '0x2e85ae1C47602f7927bCabc2Ff99C40aA222aE15'

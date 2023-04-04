@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6B66fCB66Dba37F99876a15303b759c73fc54ed0'
+    platform: CRO
 crypto: true
 fiat: false
 id: CHIBIKI
 id_coinmarketcap: '16069'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16069.png
 name: Hibiki Finance Cronos
-platform: CRO
-platform_contract: '0x6B66fCB66Dba37F99876a15303b759c73fc54ed0'

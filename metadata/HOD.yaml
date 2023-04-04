@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x19A4866a85c652EB4a2ED44c42e4CB2863a62D51'
+    platform: BNB
 crypto: true
 fiat: false
 id: HOD
 id_coinmarketcap: '10412'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10412.png
 name: HoDooi.com
-platform: BNB
-platform_contract: '0x19A4866a85c652EB4a2ED44c42e4CB2863a62D51'

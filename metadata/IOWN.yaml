@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5d681b9839e237C4f1dC7D7486e6cb0A12b9654f'
+    platform: BNB
 crypto: true
 fiat: false
 id: iOWN
 id_coinmarketcap: '5337'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5337.png
 name: iOWN Token
-platform: BNB
-platform_contract: '0x5d681b9839e237C4f1dC7D7486e6cb0A12b9654f'

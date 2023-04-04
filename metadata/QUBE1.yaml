@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x57838ff342f36a1ec18224981ea8715a4667fb3a'
+    platform: ETH
 crypto: true
 fiat: false
 id: QUBE1
 id_coinmarketcap: '2408'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2408.png
 name: Qube
-platform: ETH
-platform_contract: '0x57838ff342f36a1ec18224981ea8715a4667fb3a'

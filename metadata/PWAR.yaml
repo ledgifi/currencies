@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x16153214e683018d5aa318864c8e692b66e16778'
+    platform: BNB
 crypto: true
 fiat: false
 id: PWAR
 id_coinmarketcap: '10748'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10748.png
 name: PolkaWar
-platform: BNB
-platform_contract: '0x16153214e683018d5aa318864c8e692b66e16778'

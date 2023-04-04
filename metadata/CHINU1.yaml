@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf36750f9eb97e2b5a8dfd883176075d915a5d3dc'
+    platform: ETH
 crypto: true
 fiat: false
 id: CHINU1
 id_coinmarketcap: '18334'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18334.png
 name: Chinu
-platform: ETH
-platform_contract: '0xf36750f9eb97e2b5a8dfd883176075d915a5d3dc'

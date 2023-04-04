@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xf411903cbc70a74d22900a5de66a2dda66507255'
+    platform: ETH
 crypto: true
 fiat: false
 id: VRA
@@ -7,5 +10,3 @@ id_nomics: VRA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/vra.jpg
 logoKey: currencies/vra.jpg
 name: VERAsity
-platform: ETH
-platform_contract: '0xf411903cbc70a74d22900a5de66a2dda66507255'

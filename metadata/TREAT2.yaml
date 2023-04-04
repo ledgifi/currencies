@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x484f2ff94a7790759D56Fb1eFbAce8075aBA5e06'
+    platform: FTM
 crypto: true
 fiat: false
 id: TREAT2
 id_coinmarketcap: '13882'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13882.png
 name: Treat
-platform: FTM
-platform_contract: '0x484f2ff94a7790759D56Fb1eFbAce8075aBA5e06'

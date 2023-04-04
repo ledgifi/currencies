@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x19048172b5A0893ad008e7c52C11a6DD3C8784a1'
+    platform: BNB
 crypto: true
 fiat: false
 id: WILD1
 id_coinmarketcap: '16753'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16753.png
 name: Wild Island Game
-platform: BNB
-platform_contract: '0x19048172b5A0893ad008e7c52C11a6DD3C8784a1'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: TCT
 logo: https://bin.bnbstatic.com/images/20200120/2500c416-b5c7-45a3-93a0-ea3d74d06352.png
 logoKey: currencies/tct.png
 name: TokenClub Token
-platform: ETH
-platform_contract: '0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7'

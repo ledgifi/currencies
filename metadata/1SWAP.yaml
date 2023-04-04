@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3516a7588C2E6FFA66C9507eF51853eb85d76e5B'
+    platform: MOVR
 crypto: true
 fiat: false
 id: 1SWAP
 id_coinmarketcap: '13915'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13915.png
 name: 1Swap
-platform: MOVR
-platform_contract: '0x3516a7588C2E6FFA66C9507eF51853eb85d76e5B'

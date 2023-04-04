@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2ba01269eafce04c8dccc4a9887884ab66e4bcb1'
+    platform: CRO
 crypto: true
 fiat: false
 id: VRSE
 id_coinmarketcap: '20800'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20800.png
 name: CronosVerse
-platform: CRO
-platform_contract: '0x2ba01269eafce04c8dccc4a9887884ab66e4bcb1'

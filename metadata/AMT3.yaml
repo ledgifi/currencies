@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe86752f7655b61161d6b71987ebc9e4f4f5eead7'
+    platform: BNB
 crypto: true
 fiat: false
 id: AMT3
 id_coinmarketcap: '16581'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16581.png
 name: Animaltycoon
-platform: BNB
-platform_contract: '0xe86752f7655b61161d6b71987ebc9e4f4f5eead7'

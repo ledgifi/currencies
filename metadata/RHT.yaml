@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf1018c71eebe32dd85012ad413bab6b940d0d51e'
+    platform: BNB
 crypto: true
 fiat: false
 id: RHT
 id_coinmarketcap: '11517'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11517.png
 name: Reward Hunters Token
-platform: BNB
-platform_contract: '0xf1018c71eebe32dd85012ad413bab6b940d0d51e'

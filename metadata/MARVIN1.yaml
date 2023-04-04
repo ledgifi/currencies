@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x81c159f7abaa9139227aff62959b86b4141f6eb2'
+    platform: ETH
 crypto: true
 fiat: false
 id: MARVIN1
 id_coinmarketcap: '12697'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12697.png
 name: Elon's Marvin
-platform: ETH
-platform_contract: '0x81c159f7abaa9139227aff62959b86b4141f6eb2'

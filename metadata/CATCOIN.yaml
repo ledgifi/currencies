@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x06DF77854793849F770b6AF0AF4b22511df53A11'
+    platform: BNB
 crypto: true
 fiat: false
 id: CATCOIN
 id_coinmarketcap: '19856'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19856.png
 name: CatCoin
-platform: BNB
-platform_contract: '0x06DF77854793849F770b6AF0AF4b22511df53A11'

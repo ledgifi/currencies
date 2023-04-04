@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x66dd578022ad20dea8d532d066bb5458f835d8c8'
+    platform: BNB
 crypto: true
 fiat: false
 id: SBSC
 id_coinmarketcap: '14819'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14819.png
 name: MiniSatoshiBsc
-platform: BNB
-platform_contract: '0x66dd578022ad20dea8d532d066bb5458f835d8c8'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xeb3c4d71c31d291e47641cd09ea8e8f5696b6b4c'
+    platform: ARB
 crypto: true
 fiat: false
 id: DWZ1
 id_coinmarketcap: '15593'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15593.png
 name: DopeWarz
-platform: ARB
-platform_contract: '0xeb3c4d71c31d291e47641cd09ea8e8f5696b6b4c'

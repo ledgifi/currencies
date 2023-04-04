@@ -1,8 +1,9 @@
+contracts:
+  - address: terra1m6j6j9gw728n82k78s0j9kq8l5p6ne0xcc820p
+    platform: LUNC
 crypto: true
 fiat: false
 id: mGME
 id_coinmarketcap: '8586'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8586.png
 name: Mirrored GameStop Corp
-platform: LUNC
-platform_contract: terra1m6j6j9gw728n82k78s0j9kq8l5p6ne0xcc820p

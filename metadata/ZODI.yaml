@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0cca2f5561bb0fca88e5b9b48b7fbf000349c357'
+    platform: BNB
 crypto: true
 fiat: false
 id: ZODI
 id_coinmarketcap: '15528'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15528.png
 name: Zodium
-platform: BNB
-platform_contract: '0x0cca2f5561bb0fca88e5b9b48b7fbf000349c357'

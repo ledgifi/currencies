@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd07d9fe2d2cc067015e2b4917d24933804f42cfa'
+    platform: ETH
 crypto: true
 fiat: false
 id: TOL
 id_coinmarketcap: '3389'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3389.png
 name: Tolar
-platform: ETH
-platform_contract: '0xd07d9fe2d2cc067015e2b4917d24933804f42cfa'

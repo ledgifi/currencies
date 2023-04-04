@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3e828ac5c480069d4765654fb4b8733b910b13b2'
+    platform: ETH
 crypto: true
 fiat: false
 id: CLNY
 id_coinmarketcap: '17817'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17817.png
 name: Colony Network Token
-platform: ETH
-platform_contract: '0x3e828ac5c480069d4765654fb4b8733b910b13b2'

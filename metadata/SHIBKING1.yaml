@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x040a856f2c59bb49166210a54a55d0b2599b46d8'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHIBKING1
 id_coinmarketcap: '16778'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16778.png
 name: Shiba Viking
-platform: ETH
-platform_contract: '0x040a856f2c59bb49166210a54a55d0b2599b46d8'

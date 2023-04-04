@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf3bef262e70d200080ae795f41261756058d289a'
+    platform: BNB
 crypto: true
 fiat: false
 id: OLINK
 id_coinmarketcap: '21195'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21195.png
 name: OpenLink
-platform: BNB
-platform_contract: '0xf3bef262e70d200080ae795f41261756058d289a'

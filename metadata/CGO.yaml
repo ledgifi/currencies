@@ -1,8 +1,9 @@
+contracts:
+  - address: xdc8f9920283470F52128bF11B0c14E798bE704fD15
+    platform: XDC
 crypto: true
 fiat: false
 id: CGO
 id_coinmarketcap: '20245'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20245.png
 name: Comtech Gold
-platform: XDC
-platform_contract: xdc8f9920283470F52128bF11B0c14E798bE704fD15

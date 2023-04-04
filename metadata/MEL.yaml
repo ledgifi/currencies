@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xed0889f7e1c7c7267407222be277e1f1ef4d4892'
+    platform: ETH
 crypto: true
 fiat: false
 id: MEL
 id_coinmarketcap: '9583'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9583.png
 name: MELX
-platform: ETH
-platform_contract: '0xed0889f7e1c7c7267407222be277e1f1ef4d4892'

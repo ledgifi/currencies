@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x354e514c135c8603f840ffadb4c33cde6d2a37e0'
+    platform: ETH
 crypto: true
 fiat: false
 id: UNL
 id_coinmarketcap: '8103'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8103.png
 name: unilock.network
-platform: ETH
-platform_contract: '0x354e514c135c8603f840ffadb4c33cde6d2a37e0'

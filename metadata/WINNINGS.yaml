@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x609ba367df2daf325f1266fe4da58f1cfaf40d51'
+    platform: BNB
 crypto: true
 fiat: false
 id: WINNINGS
 id_coinmarketcap: '11372'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11372.png
 name: Show Me the Money
-platform: BNB
-platform_contract: '0x609ba367df2daf325f1266fe4da58f1cfaf40d51'

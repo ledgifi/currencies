@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8254e26e453eb5abd29b3c37ac9e8da32e5d3299'
+    platform: ETH
 crypto: true
 fiat: false
 id: RBX1
 id_coinmarketcap: '13326'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13326.png
 name: RBX
-platform: ETH
-platform_contract: '0x8254e26e453eb5abd29b3c37ac9e8da32e5d3299'

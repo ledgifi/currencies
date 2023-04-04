@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE03495fCa9e644d55B65c30ed9fdC3321C260126'
+    platform: BNB
 crypto: true
 fiat: false
 id: WHENLAMBO
 id_coinmarketcap: '11200'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11200.png
 name: WhenLambo
-platform: BNB
-platform_contract: '0xE03495fCa9e644d55B65c30ed9fdC3321C260126'

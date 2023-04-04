@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4148d2ce7816f0ae378d98b40eb3a7211e1fcf0d'
+    platform: AURORA
 crypto: true
 fiat: false
 id: BBT4
 id_coinmarketcap: '19088'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19088.png
 name: BlueBit
-platform: AURORA
-platform_contract: '0x4148d2ce7816f0ae378d98b40eb3a7211e1fcf0d'

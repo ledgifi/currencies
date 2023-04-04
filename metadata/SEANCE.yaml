@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x124b06c5ce47de7a6e9efda71a946717130079e6'
+    platform: FTM
 crypto: true
 fiat: false
 id: SEANCE
 id_coinmarketcap: '16806'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16806.png
 name: SeanceCircle
-platform: FTM
-platform_contract: '0x124b06c5ce47de7a6e9efda71a946717130079e6'

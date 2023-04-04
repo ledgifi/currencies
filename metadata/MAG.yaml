@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd4c73fd18f732bc6ee9fb193d109b2eed815df80'
+    platform: BNB
 crypto: true
 fiat: false
 id: MAG
 id_coinmarketcap: '21625'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21625.png
 name: Monsterra (MAG)
-platform: BNB
-platform_contract: '0xd4c73fd18f732bc6ee9fb193d109b2eed815df80'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5f33d158ca7275848f70a3f149b421190df85b32'
+    platform: ETH
 crypto: true
 fiat: false
 id: PDX2
 id_coinmarketcap: '3034'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3034.png
 name: PDX
-platform: ETH
-platform_contract: '0x5f33d158ca7275848f70a3f149b421190df85b32'

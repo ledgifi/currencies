@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x422b727F3d39F655Fa71cF9510c4Ae5f7c13F5c9'
+    platform: ETH
 crypto: true
 fiat: false
 id: HOTP
 id_coinmarketcap: '7058'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7058.png
 name: Hot Potato
-platform: ETH
-platform_contract: '0x422b727F3d39F655Fa71cF9510c4Ae5f7c13F5c9'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30'
+    platform: ETH
 crypto: true
 fiat: false
 id: VIDYA
 id_coinmarketcap: '6709'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6709.png
 name: Vidya
-platform: ETH
-platform_contract: '0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30'

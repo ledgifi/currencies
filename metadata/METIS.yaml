@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9E32b13ce7f2E80A01932B42553652E053D6ed8e'
+    platform: ETH
 crypto: true
 fiat: false
 id: METIS
 id_coinmarketcap: '9640'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9640.png
 name: MetisDAO
-platform: ETH
-platform_contract: '0x9E32b13ce7f2E80A01932B42553652E053D6ed8e'

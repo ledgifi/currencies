@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xECF4e40E564A1DE686d89142A0963d908579daaA'
+    platform: AVAX
 crypto: true
 fiat: false
 id: AVAO
 id_coinmarketcap: '16686'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16686.png
 name: AvaOne Finance
-platform: AVAX
-platform_contract: '0xECF4e40E564A1DE686d89142A0963d908579daaA'

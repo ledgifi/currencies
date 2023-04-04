@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x75739a693459f33B1FBcC02099eea3eBCF150cBe'
+    platform: AVAX
 crypto: true
 fiat: false
 id: TIC3
 id_coinmarketcap: '18922'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18922.png
 name: ElasticSwap
-platform: AVAX
-platform_contract: '0x75739a693459f33B1FBcC02099eea3eBCF150cBe'

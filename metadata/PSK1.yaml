@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3f84c4184b35c488f7fe4a12469610c9b1cb03c9'
+    platform: ETH
 crypto: true
 fiat: false
 id: PSK1
 id_coinmarketcap: '7850'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7850.png
 name: PoolStake
-platform: ETH
-platform_contract: '0x3f84c4184b35c488f7fe4a12469610c9b1cb03c9'

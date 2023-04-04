@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbf70A33A13fBe8D0106Df321Da0Cf654d2E9Ab50'
+    platform: ETH
 crypto: true
 fiat: false
 id: ETHBTCRSI
 id_coinmarketcap: '6139'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6139.png
 name: ETH/BTC RSI Ratio Trading Set
-platform: ETH
-platform_contract: '0xbf70A33A13fBe8D0106Df321Da0Cf654d2E9Ab50'

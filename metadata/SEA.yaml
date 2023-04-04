@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x26193C7fa4354AE49eC53eA2cEBC513dc39A10aa'
+    platform: BNB
 crypto: true
 fiat: false
 id: SEA
 id_coinmarketcap: '12432'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12432.png
 name: StarSharks SEA
-platform: BNB
-platform_contract: '0x26193C7fa4354AE49eC53eA2cEBC513dc39A10aa'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x22d4002028f537599be9f666d1c4fa138522f9c8'
+    platform: AVAX
 crypto: true
 fiat: false
 id: PTP
 id_coinmarketcap: '16231'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16231.png
 name: Platypus Finance
-platform: AVAX
-platform_contract: '0x22d4002028f537599be9f666d1c4fa138522f9c8'

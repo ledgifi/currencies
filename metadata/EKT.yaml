@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4ecdb6385f3db3847f9c4a9bf3f9917bb27a5452'
+    platform: ETH
 crypto: true
 fiat: false
 id: EKT
 id_coinmarketcap: '2453'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2453.png
 name: EDUCare
-platform: ETH
-platform_contract: '0x4ecdb6385f3db3847f9c4a9bf3f9917bb27a5452'

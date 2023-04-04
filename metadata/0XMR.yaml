@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x035df12e0f3ac6671126525f1015e47d79dfeddf'
+    platform: ETH
 crypto: true
 fiat: false
 id: 0xMR
 id_coinmarketcap: '5668'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5668.png
 name: 0xMonero
-platform: ETH
-platform_contract: '0x035df12e0f3ac6671126525f1015e47d79dfeddf'

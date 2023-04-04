@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x449674b82f05d498e126dd6615a1057a9c088f2c'
+    platform: AVAX
 crypto: true
 fiat: false
 id: LOST
 id_coinmarketcap: '19024'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19024.png
 name: Lost Worlds
-platform: AVAX
-platform_contract: '0x449674b82f05d498e126dd6615a1057a9c088f2c'

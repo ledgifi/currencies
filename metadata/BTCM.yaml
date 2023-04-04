@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa9aad2dc3a8315caeee5f458b1d8edc31d8467bd'
+    platform: ETH
 crypto: true
 fiat: false
 id: BTCM
 id_coinmarketcap: '2119'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2119.png
 name: BTCMoon
-platform: ETH
-platform_contract: '0xa9aad2dc3a8315caeee5f458b1d8edc31d8467bd'

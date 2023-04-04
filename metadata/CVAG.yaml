@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x72a66e54b66892ae3bbe54df7bb7dd5ae927a6f9'
+    platform: ETH
 crypto: true
 fiat: false
 id: CVAG
 id_coinmarketcap: '10918'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10918.png
 name: Crypto Village Accelerator
-platform: ETH
-platform_contract: '0x72a66e54b66892ae3bbe54df7bb7dd5ae927a6f9'

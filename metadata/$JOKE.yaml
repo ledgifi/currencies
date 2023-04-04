@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2df0c13487efdf4eb7f6c042273b7aca781b29a0'
+    platform: BNB
 crypto: true
 fiat: false
 id: $JOKE
 id_coinmarketcap: '16311'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16311.png
 name: Joke Community
-platform: BNB
-platform_contract: '0x2df0c13487efdf4eb7f6c042273b7aca781b29a0'

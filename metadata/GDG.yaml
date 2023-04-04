@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xFD020998A1bB316dfE7B136Fe59Ae4B365D79978'
+    platform: ETH
 crypto: true
 fiat: false
 id: GDG
 id_coinmarketcap: '20937'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20937.png
 name: Golden Goal
-platform: ETH
-platform_contract: '0xFD020998A1bB316dfE7B136Fe59Ae4B365D79978'

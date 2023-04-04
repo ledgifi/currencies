@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xa0f0546eb5e3ee7e8cfc5da12e5949f3ae622675'
+    platform: ETH
 crypto: true
 fiat: false
 id: TOKO
@@ -7,5 +10,3 @@ id_nomics: TOKO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOKO.jpg
 logoKey: currencies/toko.jpg
 name: Tokoin
-platform: ETH
-platform_contract: '0xa0f0546eb5e3ee7e8cfc5da12e5949f3ae622675'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x093a60e9240269733e3c9bef81e3066273c40fb3'
+    platform: BNB
 crypto: true
 fiat: false
 id: AFRICA
 id_coinmarketcap: '11567'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11567.png
 name: AFRICA RISE TOKEN
-platform: BNB
-platform_contract: '0x093a60e9240269733e3c9bef81e3066273c40fb3'

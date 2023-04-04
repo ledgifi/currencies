@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe3c40ca5a0d8b48c45a2609e558cea98c5805351'
+    platform: BNB
 crypto: true
 fiat: false
 id: NARUTO2
 id_coinmarketcap: '8580'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8580.png
 name: Naruto BSC
-platform: BNB
-platform_contract: '0xe3c40ca5a0d8b48c45a2609e558cea98c5805351'

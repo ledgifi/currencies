@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x77140a6f53c09c36Abf10eF947655317A7670A3B'
+    platform: BNB
 crypto: true
 fiat: false
 id: CMAI
 id_coinmarketcap: '23983'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23983.png
 name: CoinMatch Ai
-platform: BNB
-platform_contract: '0x77140a6f53c09c36Abf10eF947655317A7670A3B'

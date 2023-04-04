@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbddab785b306bcd9fb056da189615cc8ece1d823'
+    platform: ETH
 crypto: true
 fiat: false
 id: EBK
 id_coinmarketcap: '4778'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4778.png
 name: ebakus
-platform: ETH
-platform_contract: '0xbddab785b306bcd9fb056da189615cc8ece1d823'

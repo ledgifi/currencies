@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcC1B9517460D8aE86fe576f614d091fCa65a28Fc'
+    platform: MATIC
 crypto: true
 fiat: false
 id: VIS
 id_coinmarketcap: '13103'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13103.png
 name: Vigorus
-platform: MATIC
-platform_contract: '0xcC1B9517460D8aE86fe576f614d091fCa65a28Fc'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x47fd85128312ee72aA0E0382a531a8f848B8B2CB'
+    platform: ETH
 crypto: true
 fiat: false
 id: GLF2
 id_coinmarketcap: '7439'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7439.png
 name: Gallery Finance
-platform: ETH
-platform_contract: '0x47fd85128312ee72aA0E0382a531a8f848B8B2CB'

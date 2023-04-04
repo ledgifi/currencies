@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcaaa93712bdac37f736c323c93d4d5fdefcc31cc'
+    platform: ETH
 crypto: true
 fiat: false
 id: CRD
 id_coinmarketcap: '3367'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3367.png
 name: CRD Network
-platform: ETH
-platform_contract: '0xcaaa93712bdac37f736c323c93d4d5fdefcc31cc'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdb1d5fD0A86E44Bf8a7C1A4AD2B76b14c7636AD7'
+    platform: BNB
 crypto: true
 fiat: false
 id: CHG1
 id_coinmarketcap: '20878'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20878.png
 name: CryptoHub
-platform: BNB
-platform_contract: '0xdb1d5fD0A86E44Bf8a7C1A4AD2B76b14c7636AD7'

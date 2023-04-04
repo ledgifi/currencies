@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0329d23fC7B1b1e6Cca57aFA3F0090F1189069e8'
+    platform: ETH
 crypto: true
 fiat: false
 id: LINKRSICO
 id_coinmarketcap: '6161'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6161.png
 name: LINK RSI Crossover Set
-platform: ETH
-platform_contract: '0x0329d23fC7B1b1e6Cca57aFA3F0090F1189069e8'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6cb79297d338e10930d1953f65153bf0b4e14894'
+    platform: BNB
 crypto: true
 fiat: false
 id: DCLUB
 id_coinmarketcap: '14792'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14792.png
 name: Dog Club Token
-platform: BNB
-platform_contract: '0x6cb79297d338e10930d1953f65153bf0b4e14894'

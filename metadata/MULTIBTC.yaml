@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x66eFF5221ca926636224650Fd3B9c497FF828F7D'
+    platform: ETH
 crypto: true
 fiat: false
 id: MULTIBTC
 id_coinmarketcap: '23869'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23869.png
 name: MultiBTC
-platform: ETH
-platform_contract: '0x66eFF5221ca926636224650Fd3B9c497FF828F7D'

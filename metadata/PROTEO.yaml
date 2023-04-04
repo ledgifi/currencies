@@ -1,8 +1,9 @@
+contracts:
+  - address: PROTEO-0c7311
+    platform: EGLD
 crypto: true
 fiat: false
 id: PROTEO
 id_coinmarketcap: '22439'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22439.png
 name: Proteo DeFi
-platform: EGLD
-platform_contract: PROTEO-0c7311

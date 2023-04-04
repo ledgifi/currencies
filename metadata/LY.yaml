@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8686525d6627a25c68de82c228448f43c97999f2'
+    platform: ETH
 crypto: true
 fiat: false
 id: Ly
 id_coinmarketcap: '18074'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18074.png
 name: Lilly Finance
-platform: ETH
-platform_contract: '0x8686525d6627a25c68de82c228448f43c97999f2'

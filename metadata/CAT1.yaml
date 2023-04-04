@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0173295183685f27c84db046b5f0bea3e683c24b'
+    platform: BNB
 crypto: true
 fiat: false
 id: CAT1
 id_coinmarketcap: '22950'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22950.png
 name: Cat
-platform: BNB
-platform_contract: '0x0173295183685f27c84db046b5f0bea3e683c24b'

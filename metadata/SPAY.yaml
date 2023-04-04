@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x13A637026dF26F846D55ACC52775377717345c06'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPAY
 id_coinmarketcap: '10167'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10167.png
 name: SpaceY
-platform: BNB
-platform_contract: '0x13A637026dF26F846D55ACC52775377717345c06'

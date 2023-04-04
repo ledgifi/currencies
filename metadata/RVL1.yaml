@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7EaeE60040135F20f508A393ca400dEd339d654e'
+    platform: BNB
 crypto: true
 fiat: false
 id: RVL1
 id_coinmarketcap: '12161'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12161.png
 name: REVIVAL
-platform: BNB
-platform_contract: '0x7EaeE60040135F20f508A393ca400dEd339d654e'

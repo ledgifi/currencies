@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4fb721ef3bf99e0f2c193847afa296b9257d3c30'
+    platform: ETH
 crypto: true
 fiat: false
 id: TOK
 id_coinmarketcap: '12302'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12302.png
 name: Tokenplace
-platform: ETH
-platform_contract: '0x4fb721ef3bf99e0f2c193847afa296b9257d3c30'

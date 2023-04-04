@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x88d8C3Dc6B5324f34E8Cf229a93E197048671abD'
+    platform: ETC
 crypto: true
 fiat: false
 id: HEBE
 id_coinmarketcap: '5250'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5250.png
 name: HebeBlock
-platform: ETC
-platform_contract: '0x88d8C3Dc6B5324f34E8Cf229a93E197048671abD'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x084da5a9c0e3f086532b98d8568432349b89d9df'
+    platform: ETH
 crypto: true
 fiat: false
 id: FPT1
 id_coinmarketcap: '6505'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6505.png
 name: FUUPAY
-platform: ETH
-platform_contract: '0x084da5a9c0e3f086532b98d8568432349b89d9df'

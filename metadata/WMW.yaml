@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3cd0e0154acb80bfbdd8dbffe3cb61ccf23c981e'
+    platform: BNB
 crypto: true
 fiat: false
 id: WMW
 id_coinmarketcap: '15517'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15517.png
 name: WoopMoney
-platform: BNB
-platform_contract: '0x3cd0e0154acb80bfbdd8dbffe3cb61ccf23c981e'

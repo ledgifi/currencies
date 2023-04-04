@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x17cbd9c274e90c537790c51b4015a65cd015497e'
+    platform: AURORA
 crypto: true
 fiat: false
 id: ETHERNAL
 id_coinmarketcap: '20225'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20225.png
 name: Ethernal
-platform: AURORA
-platform_contract: '0x17cbd9c274e90c537790c51b4015a65cd015497e'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x10010078a54396f62c96df8532dc2b4847d47ed3'
+    platform: ETH
 crypto: true
 fiat: false
 id: HND
 id_coinmarketcap: '12889'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12889.png
 name: Hundred Finance
-platform: ETH
-platform_contract: '0x10010078a54396f62c96df8532dc2b4847d47ed3'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x391748379827340db2daffc845ac6cffad431b50'
+    platform: BNB
 crypto: true
 fiat: false
 id: TOPIA
 id_coinmarketcap: '12643'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12643.png
 name: Utopia
-platform: BNB
-platform_contract: '0x391748379827340db2daffc845ac6cffad431b50'

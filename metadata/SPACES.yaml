@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x29ced58cd96f523f86f2771d79d64a8f58f55f5e'
+    platform: ETH
 crypto: true
 fiat: false
 id: SPACES
 id_coinmarketcap: '17014'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17014.png
 name: AstroSpaces.io
-platform: ETH
-platform_contract: '0x29ced58cd96f523f86f2771d79d64a8f58f55f5e'

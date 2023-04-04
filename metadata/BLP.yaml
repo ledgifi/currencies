@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfe1d7f7a8f0bda6e415593a2e4f82c64b446d404'
+    platform: BNB
 crypto: true
 fiat: false
 id: BLP
 id_coinmarketcap: '10326'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10326.png
 name: BullPerks
-platform: BNB
-platform_contract: '0xfe1d7f7a8f0bda6e415593a2e4f82c64b446d404'

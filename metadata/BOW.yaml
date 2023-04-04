@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1a639e150d2210a4be4a5f0857a9151b241e7ae4'
+    platform: CORE
 crypto: true
 fiat: false
 id: BOW
 id_coinmarketcap: '24176'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24176.png
 name: Archer Swap
-platform: CORE
-platform_contract: '0x1a639e150d2210a4be4a5f0857a9151b241e7ae4'

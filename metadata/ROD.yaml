@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5872a0846ecb9ed23f796ad71a86fa456577f4e2'
+    platform: BNB
 crypto: true
 fiat: false
 id: ROD
 id_coinmarketcap: '11257'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11257.png
 name: Republic of Dogs
-platform: BNB
-platform_contract: '0x5872a0846ecb9ed23f796ad71a86fa456577f4e2'

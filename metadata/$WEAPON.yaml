@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0b8057c3cc676c329c25c1d0cd27776efa73762d'
+    platform: ETH
 crypto: true
 fiat: false
 id: $WEAPON
 id_coinmarketcap: '15110'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15110.png
 name: MEGAWEAPON
-platform: ETH
-platform_contract: '0x0b8057c3cc676c329c25c1d0cd27776efa73762d'

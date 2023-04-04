@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x895D473aBFFaa469279f6b7055375349f9A53Bc6'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHREW1
 id_coinmarketcap: '19661'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19661.png
 name: Shiba Rewards
-platform: BNB
-platform_contract: '0x895D473aBFFaa469279f6b7055375349f9A53Bc6'

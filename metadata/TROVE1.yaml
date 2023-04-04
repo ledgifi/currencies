@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x59c6900949ad1835f07a04321f4d9934a054e114'
+    platform: ETH
 crypto: true
 fiat: false
 id: TROVE1
 id_coinmarketcap: '19234'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19234.png
 name: TroveDAO
-platform: ETH
-platform_contract: '0x59c6900949ad1835f07a04321f4d9934a054e114'

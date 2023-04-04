@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9903a4cd589da8e434f264deafc406836418578e'
+    platform: ETH
 crypto: true
 fiat: false
 id: FIRST
 id_coinmarketcap: '6690'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6690.png
 name: Harrison First
-platform: ETH
-platform_contract: '0x9903a4cd589da8e434f264deafc406836418578e'

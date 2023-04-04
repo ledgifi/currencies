@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x23ba4272A5c5b5641c751521d57E3413C6703131'
+    platform: AVAX
 crypto: true
 fiat: false
 id: SIN2
 id_coinmarketcap: '18271'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18271.png
 name: Sins Finance
-platform: AVAX
-platform_contract: '0x23ba4272A5c5b5641c751521d57E3413C6703131'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5fc251c13c4ef172d87a32ab082897132b49435c'
+    platform: ETH
 crypto: true
 fiat: false
 id: KYSR
 id_coinmarketcap: '16395'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16395.png
 name: Kayserispor Token
-platform: ETH
-platform_contract: '0x5fc251c13c4ef172d87a32ab082897132b49435c'

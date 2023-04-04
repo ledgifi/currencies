@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x48c276e8d03813224bb1e55f953adb6d02fd3e02'
+    platform: ETH
 crypto: true
 fiat: false
 id: KUMA
 id_coinmarketcap: '10394'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10394.png
 name: Kuma Inu
-platform: ETH
-platform_contract: '0x48c276e8d03813224bb1e55f953adb6d02fd3e02'

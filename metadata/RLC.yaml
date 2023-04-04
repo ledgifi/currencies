@@ -1,4 +1,7 @@
 color: '#ffd800'
+contracts:
+  - address: '0x607f4c5bb672230e8672085532f7e901544a7375'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: RLC
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/rlc.svg
 logoKey: currencies/rlc.svg
 name: iExec RLC
-platform: ETH
-platform_contract: '0x607f4c5bb672230e8672085532f7e901544a7375'

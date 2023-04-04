@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x87047986E8e4961c11d2EdcD94285E3A1331d97B'
+    platform: ETH
 crypto: true
 fiat: false
 id: YKZ
 id_coinmarketcap: '6987'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6987.png
 name: Yakuza DFO
-platform: ETH
-platform_contract: '0x87047986E8e4961c11d2EdcD94285E3A1331d97B'

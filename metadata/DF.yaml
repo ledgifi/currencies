@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: DF
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220329/72ac5fc9-76b2-41e7-a81e-e3b260eafe4e.png
 logoKey: currencies/df.png
 name: dForce
-platform: ETH
-platform_contract: '0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0'

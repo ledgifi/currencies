@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x29C1EA5ED7af53094b1a79eF60d20641987c867e'
+    platform: ARB
 crypto: true
 fiat: false
 id: ACID
 id_coinmarketcap: '23890'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23890.png
 name: 0xACID
-platform: ARB
-platform_contract: '0x29C1EA5ED7af53094b1a79eF60d20641987c867e'

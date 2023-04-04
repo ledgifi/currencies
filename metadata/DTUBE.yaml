@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd3cceb42b544e91eee02eb585cc9a7b47247bfde'
+    platform: BNB
 crypto: true
 fiat: false
 id: DTUBE
 id_coinmarketcap: '7679'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7679.png
 name: Dtube Coin
-platform: BNB
-platform_contract: '0xd3cceb42b544e91eee02eb585cc9a7b47247bfde'

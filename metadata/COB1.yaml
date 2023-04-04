@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4312b655c6de6ea86b8159d16fcadf5b937a6721'
+    platform: BNB
 crypto: true
 fiat: false
 id: COB1
 id_coinmarketcap: '20861'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20861.png
 name: Cards of BSC
-platform: BNB
-platform_contract: '0x4312b655c6de6ea86b8159d16fcadf5b937a6721'

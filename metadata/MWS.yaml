@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8b5c90Bc42A83321DE46823F4B3F44c724261Ce6'
+    platform: BNB
 crypto: true
 fiat: false
 id: MWS
 id_coinmarketcap: '21598'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21598.png
 name: Meta Warriors
-platform: BNB
-platform_contract: '0x8b5c90Bc42A83321DE46823F4B3F44c724261Ce6'

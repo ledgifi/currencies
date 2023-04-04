@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb020805e0Bc7F0e353D1343d67A239F417D57Bbf'
+    platform: BNB
 crypto: true
 fiat: false
 id: KRD
 id_coinmarketcap: '20014'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20014.png
 name: Krypton DAO
-platform: BNB
-platform_contract: '0xb020805e0Bc7F0e353D1343d67A239F417D57Bbf'

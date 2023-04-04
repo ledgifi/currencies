@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xff44b5719f0b77a9951636fc5e69d3a1fc9e7d73'
+    platform: ETH
 crypto: true
 fiat: false
 id: 4ART
 id_coinmarketcap: '5912'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5912.png
 name: 4ART Coin
-platform: ETH
-platform_contract: '0xff44b5719f0b77a9951636fc5e69d3a1fc9e7d73'

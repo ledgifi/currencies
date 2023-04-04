@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfbaad4efdb7797f45dac9cd369b03a90bd731298'
+    platform: BNB
 crypto: true
 fiat: false
 id: QUB
 id_coinmarketcap: '14750'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14750.png
 name: Qubism
-platform: BNB
-platform_contract: '0xfbaad4efdb7797f45dac9cd369b03a90bd731298'

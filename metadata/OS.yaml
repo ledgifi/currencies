@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6100dd79fcaa88420750dcee3f735d168abcb771'
+    platform: ETH
 crypto: true
 fiat: false
 id: OS
 id_coinmarketcap: '13518'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13518.png
 name: Ethereans
-platform: ETH
-platform_contract: '0x6100dd79fcaa88420750dcee3f735d168abcb771'

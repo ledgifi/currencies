@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xf3ae5d769e153ef72b4e3591ac004e89f48107a1'
+    platform: ETH
 crypto: true
 fiat: false
 id: DPR
@@ -6,5 +9,3 @@ id_nomics: DPR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DPR.jpg
 logoKey: currencies/dpr.jpg
 name: Deeper Network
-platform: ETH
-platform_contract: '0xf3ae5d769e153ef72b4e3591ac004e89f48107a1'

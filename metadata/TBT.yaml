@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc581399be631f060b64df49742626670906fdea9'
+    platform: ETH
 crypto: true
 fiat: false
 id: TBT
 id_coinmarketcap: '6565'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6565.png
 name: TideBit Token
-platform: ETH
-platform_contract: '0xc581399be631f060b64df49742626670906fdea9'

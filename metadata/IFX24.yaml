@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc962ad021a69D457564e985738C719aE3f79B707'
+    platform: ETH
 crypto: true
 fiat: false
 id: IFX24
 id_coinmarketcap: '5170'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5170.png
 name: IFX24
-platform: ETH
-platform_contract: '0xc962ad021a69D457564e985738C719aE3f79B707'

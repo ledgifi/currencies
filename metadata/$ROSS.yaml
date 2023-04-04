@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4645c1991ca64d3f5c45050eaaf9894aeef24e21'
+    platform: BNB
 crypto: true
 fiat: false
 id: $ROSS
 id_coinmarketcap: '17518'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17518.png
 name: Ross Inu
-platform: BNB
-platform_contract: '0x4645c1991ca64d3f5c45050eaaf9894aeef24e21'

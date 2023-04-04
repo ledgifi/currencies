@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb755d5bc7de83232b9df1886bd5cdb38895933b0'
+    platform: ETH
 crypto: true
 fiat: false
 id: HIMFERS
 id_coinmarketcap: '23238'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23238.png
 name: hiMFERS
-platform: ETH
-platform_contract: '0xb755d5bc7de83232b9df1886bd5cdb38895933b0'

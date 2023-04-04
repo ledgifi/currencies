@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6f64cc61d0d5542e40e6f2828cbdda84507d214d'
+    platform: BNB
 crypto: true
 fiat: false
 id: METANIA
 id_coinmarketcap: '17582'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17582.png
 name: MetaniaGames
-platform: BNB
-platform_contract: '0x6f64cc61d0d5542e40e6f2828cbdda84507d214d'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7cc46141ab1057b1928de5ad5ee78bb37efc4868'
+    platform: BNB
 crypto: true
 fiat: false
 id: TNDR1
 id_coinmarketcap: '8951'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8951.png
 name: ThunderSwap
-platform: BNB
-platform_contract: '0x7cc46141ab1057b1928de5ad5ee78bb37efc4868'

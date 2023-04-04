@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x21686F8ce003a95c99aCd297E302FAACf742F7d4'
+    platform: ETH
 crypto: true
 fiat: false
 id: WCCX
 id_coinmarketcap: '7600'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7600.png
 name: Wrapped Conceal
-platform: ETH
-platform_contract: '0x21686F8ce003a95c99aCd297E302FAACf742F7d4'

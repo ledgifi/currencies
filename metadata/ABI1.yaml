@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6d5f5317308C6fE7D6CE16930353a8Dfd92Ba4D7'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ABI1
 id_coinmarketcap: '16956'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16956.png
 name: Abachi
-platform: MATIC
-platform_contract: '0x6d5f5317308C6fE7D6CE16930353a8Dfd92Ba4D7'

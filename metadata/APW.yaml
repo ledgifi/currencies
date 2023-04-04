@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4104b135dbc9609fc1a9490e61369036497660c8'
+    platform: ETH
 crypto: true
 fiat: false
 id: APW
 id_coinmarketcap: '10364'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10364.png
 name: APWine Finance
-platform: ETH
-platform_contract: '0x4104b135dbc9609fc1a9490e61369036497660c8'

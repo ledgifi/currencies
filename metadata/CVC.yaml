@@ -1,4 +1,7 @@
 color: '#3ab03e'
+contracts:
+  - address: '0x41e5560054824ea6b0732e656e3ad64e20e94e45'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: CVC
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/cvc.svg
 logoKey: currencies/cvc.svg
 name: Civic
-platform: ETH
-platform_contract: '0x41e5560054824ea6b0732e656e3ad64e20e94e45'

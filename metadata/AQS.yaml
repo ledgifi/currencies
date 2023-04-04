@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd12e7b0d28ffe52e19f11297b92baccd4f90b3db'
+    platform: ETH
 crypto: true
 fiat: false
 id: AQS
 id_coinmarketcap: '20119'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20119.png
 name: Aquaris
-platform: ETH
-platform_contract: '0xd12e7b0d28ffe52e19f11297b92baccd4f90b3db'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3780E00D4c60887AF38345cCd44f7617dBFB10A0'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOGE2
 id_coinmarketcap: '11380'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11380.png
 name: Dogecoin 2.0
-platform: BNB
-platform_contract: '0x3780E00D4c60887AF38345cCd44f7617dBFB10A0'

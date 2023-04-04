@@ -1,8 +1,9 @@
+contracts:
+  - address: '386192725'
+    platform: ALGO
 crypto: true
 fiat: false
 id: GOBTC
 id_coinmarketcap: '21305'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21305.png
 name: Algomint
-platform: ALGO
-platform_contract: '386192725'

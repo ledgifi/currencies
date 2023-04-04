@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x00F692B0C9b9182fb7B7a4a2E765fEbC12322Dd3'
+    platform: BNB
 crypto: true
 fiat: false
 id: FTF1
 id_coinmarketcap: '22437'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22437.png
 name: Fan Tokens Football
-platform: BNB
-platform_contract: '0x00F692B0C9b9182fb7B7a4a2E765fEbC12322Dd3'

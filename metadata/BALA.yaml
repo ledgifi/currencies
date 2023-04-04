@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x34ba3af693d6c776d73c7fa67e2b2e79be8ef4ed'
+    platform: BNB
 crypto: true
 fiat: false
 id: BALA
 id_coinmarketcap: '11713'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11713.png
 name: Shambala
-platform: BNB
-platform_contract: '0x34ba3af693d6c776d73c7fa67e2b2e79be8ef4ed'

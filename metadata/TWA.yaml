@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa2ef2757d2ed560c9e3758d1946d7bcccbd5a7fe'
+    platform: ETH
 crypto: true
 fiat: false
 id: TWA
 id_coinmarketcap: '7851'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7851.png
 name: Adventure Token
-platform: ETH
-platform_contract: '0xa2ef2757d2ed560c9e3758d1946d7bcccbd5a7fe'

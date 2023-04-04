@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc643E83587818202E0fFf5eD96D10Abbc8Bb48e7'
+    platform: BNB
 crypto: true
 fiat: false
 id: RUN1
 id_coinmarketcap: '19638'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19638.png
 name: RUN TOGETHER
-platform: BNB
-platform_contract: '0xc643E83587818202E0fFf5eD96D10Abbc8Bb48e7'

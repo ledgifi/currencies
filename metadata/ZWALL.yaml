@@ -1,8 +1,9 @@
+contracts:
+  - address: zil1xswavlggsqmkd9kddcp0ulceqm9ht36gqkt8ua
+    platform: ZIL
 crypto: true
 fiat: false
 id: ZWALL
 id_coinmarketcap: '13325'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13325.png
 name: ZilWall
-platform: ZIL
-platform_contract: zil1xswavlggsqmkd9kddcp0ulceqm9ht36gqkt8ua

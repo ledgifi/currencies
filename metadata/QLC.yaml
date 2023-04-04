@@ -1,4 +1,7 @@
 color: '#610089'
+contracts:
+  - address: 0d821bd7b6d53f5c2b40e217c6defc8bbe896cf5
+    platform: NEO
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: QLC
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/qlc.svg
 logoKey: currencies/qlc.svg
 name: Kepple
-platform: NEO
-platform_contract: 0d821bd7b6d53f5c2b40e217c6defc8bbe896cf5

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x90bb4c7824182e6f37c97cad683f46bc68894907'
+    platform: BNB
 crypto: true
 fiat: false
 id: MLT2
 id_coinmarketcap: '16557'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16557.png
 name: Metaloop Tech
-platform: BNB
-platform_contract: '0x90bb4c7824182e6f37c97cad683f46bc68894907'

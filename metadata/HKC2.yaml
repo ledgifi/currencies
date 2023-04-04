@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbC91e5db518BACAF2629Cdc6f0eE7D42fAD1355c'
+    platform: BNB
 crypto: true
 fiat: false
 id: HKC2
 id_coinmarketcap: '17756'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17756.png
 name: Hachiko Charity
-platform: BNB
-platform_contract: '0xbC91e5db518BACAF2629Cdc6f0eE7D42fAD1355c'

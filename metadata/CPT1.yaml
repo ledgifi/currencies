@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x88d50B466BE55222019D71F9E8fAe17f5f45FCA1'
+    platform: ETH
 crypto: true
 fiat: false
 id: CPT1
 id_coinmarketcap: '2766'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2766.png
 name: Cryptaur
-platform: ETH
-platform_contract: '0x88d50B466BE55222019D71F9E8fAe17f5f45FCA1'

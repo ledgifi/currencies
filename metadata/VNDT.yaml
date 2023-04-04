@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5e9997684d061269564F94E5d11Ba6Ce6Fa9528C'
+    platform: ETH
 crypto: true
 fiat: false
 id: VNDT
 id_coinmarketcap: '11539'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11539.png
 name: Vendit
-platform: ETH
-platform_contract: '0x5e9997684d061269564F94E5d11Ba6Ce6Fa9528C'

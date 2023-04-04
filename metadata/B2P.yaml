@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe3a9d3c1174f315ed5c3a8e6c643f2e0aea58dff'
+    platform: BNB
 crypto: true
 fiat: false
 id: B2P
 id_coinmarketcap: '15781'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15781.png
 name: Block2Play
-platform: BNB
-platform_contract: '0xe3a9d3c1174f315ed5c3a8e6c643f2e0aea58dff'

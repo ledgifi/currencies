@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x94d79c325268c898d2902050730f27a478c56cc1'
+    platform: BNB
 crypto: true
 fiat: false
 id: IMO
 id_coinmarketcap: '9281'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9281.png
 name: IMO
-platform: BNB
-platform_contract: '0x94d79c325268c898d2902050730f27a478c56cc1'

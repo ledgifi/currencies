@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x81440C939f2C1E34fc7048E518a637205A632a74'
+    platform: AVAX
 crypto: true
 fiat: false
 id: CYCLE
 id_coinmarketcap: '11753'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11753.png
 name: Cycle Finance
-platform: AVAX
-platform_contract: '0x81440C939f2C1E34fc7048E518a637205A632a74'

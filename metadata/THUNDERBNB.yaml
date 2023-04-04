@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb9654A42f0F5dCDEf5617DebF8bd048E33F180E7'
+    platform: BNB
 crypto: true
 fiat: false
 id: THUNDERBNB
 id_coinmarketcap: '11640'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11640.png
 name: ThunderBNB.app
-platform: BNB
-platform_contract: '0xb9654A42f0F5dCDEf5617DebF8bd048E33F180E7'

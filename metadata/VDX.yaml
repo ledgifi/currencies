@@ -1,8 +1,9 @@
+contracts:
+  - address: VDX-A17
+    platform: BNB
 crypto: true
 fiat: false
 id: VDX
 id_coinmarketcap: '3962'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3962.png
 name: Vodi X
-platform: BNB
-platform_contract: VDX-A17

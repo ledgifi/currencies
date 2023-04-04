@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x72d3882a31c7d9c5d5989ade65e3c129e5a1717a'
+    platform: BNB
 crypto: true
 fiat: false
 id: SURF2
 id_coinmarketcap: '16605'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16605.png
 name: Shiba Surfer
-platform: BNB
-platform_contract: '0x72d3882a31c7d9c5d5989ade65e3c129e5a1717a'

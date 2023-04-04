@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6469b35d2d5fab6c53f73c7d9abf537892ddb34a'
+    platform: BNB
 crypto: true
 fiat: false
 id: RBTR
 id_coinmarketcap: '21462'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21462.png
 name: Arbitrage Token
-platform: BNB
-platform_contract: '0x6469b35d2d5fab6c53f73c7d9abf537892ddb34a'

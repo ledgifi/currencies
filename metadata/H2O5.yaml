@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0642026E7f0B6cCaC5925b4E7Fa61384250e1701'
+    platform: ETH
 crypto: true
 fiat: false
 id: H2O5
 id_coinmarketcap: '19909'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19909.png
 name: H2O
-platform: ETH
-platform_contract: '0x0642026E7f0B6cCaC5925b4E7Fa61384250e1701'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x336eD56D8615271b38EcEE6F4786B55d0EE91b96'
+    platform: BNB
 crypto: true
 fiat: false
 id: GRO1
 id_coinmarketcap: '6718'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6718.png
 name: Growth DeFi
-platform: BNB
-platform_contract: '0x336eD56D8615271b38EcEE6F4786B55d0EE91b96'

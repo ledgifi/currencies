@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x64D3638a7d8747EEE7bD5D402CC5f5bD00dc27dc'
+    platform: BNB
 crypto: true
 fiat: false
 id: SYSL
 id_coinmarketcap: '11334'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11334.png
 name: YSL.IO
-platform: BNB
-platform_contract: '0x64D3638a7d8747EEE7bD5D402CC5f5bD00dc27dc'

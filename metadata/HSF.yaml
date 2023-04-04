@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xba6b0dbb2ba8daa8f5d6817946393aef8d3a4487'
+    platform: ETH
 crypto: true
 fiat: false
 id: HSF
 id_coinmarketcap: '16979'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16979.png
 name: Hillstone Finance
-platform: ETH
-platform_contract: '0xba6b0dbb2ba8daa8f5d6817946393aef8d3a4487'

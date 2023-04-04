@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x64c1c9a38038ae73c3699b8dc347fefda2221e93'
+    platform: ETH
 crypto: true
 fiat: false
 id: SWISSNFTFUND
 id_coinmarketcap: '22608'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22608.png
 name: Swiss NFT Fund
-platform: ETH
-platform_contract: '0x64c1c9a38038ae73c3699b8dc347fefda2221e93'

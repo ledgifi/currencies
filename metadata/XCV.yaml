@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x493CbBd4A5da462E3dbc3E5c8e2A1E37D1D03CAc'
+    platform: ETH
 crypto: true
 fiat: false
 id: XCV
 id_coinmarketcap: '10622'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10622.png
 name: XCarnival
-platform: ETH
-platform_contract: '0x493CbBd4A5da462E3dbc3E5c8e2A1E37D1D03CAc'

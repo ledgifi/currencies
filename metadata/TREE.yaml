@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa9B0deA2416D2c3199dCC7566a0d2128e3360E84'
+    platform: BNB
 crypto: true
 fiat: false
 id: TREE
 id_coinmarketcap: '20919'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20919.png
 name: ONE TREE ONE LIFE
-platform: BNB
-platform_contract: '0xa9B0deA2416D2c3199dCC7566a0d2128e3360E84'

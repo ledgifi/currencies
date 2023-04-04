@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4a73e60adbb8575500ffc6aaea6128954011c8af'
+    platform: ETH
 crypto: true
 fiat: false
 id: DCH
 id_coinmarketcap: '5653'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5653.png
 name: DOCH COIN
-platform: ETH
-platform_contract: '0x4a73e60adbb8575500ffc6aaea6128954011c8af'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x001f0aa5da15585e5b2305dbab2bac425ea71007'
+    platform: ETH
 crypto: true
 fiat: false
 id: IPSX
 id_coinmarketcap: '2617'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2617.png
 name: IP Exchange
-platform: ETH
-platform_contract: '0x001f0aa5da15585e5b2305dbab2bac425ea71007'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbb3837fa11d4b789717c8f622ec4f6eee5375c49'
+    platform: BNB
 crypto: true
 fiat: false
 id: BSCV
 id_coinmarketcap: '8843'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8843.png
 name: BSCView
-platform: BNB
-platform_contract: '0xbb3837fa11d4b789717c8f622ec4f6eee5375c49'

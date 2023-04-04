@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2'
+    platform: ETH
 crypto: true
 fiat: false
 id: CAPS
 id_coinmarketcap: '9291'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9291.png
 name: Ternoa
-platform: ETH
-platform_contract: '0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2'

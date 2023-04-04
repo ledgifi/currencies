@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9D3F61338d6Eb394e378D28C1Fd17d5909aC6591'
+    platform: CUBE
 crypto: true
 fiat: false
 id: WCUBE
 id_coinmarketcap: '22779'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22779.png
 name: Wrapped Cube Network
-platform: CUBE
-platform_contract: '0x9D3F61338d6Eb394e378D28C1Fd17d5909aC6591'

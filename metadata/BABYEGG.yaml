@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5ca0690a587202ff7dcb0934e070061687eab941'
+    platform: BNB
 crypto: true
 fiat: false
 id: BABYEGG
 id_coinmarketcap: '11936'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11936.png
 name: BabyEgg
-platform: BNB
-platform_contract: '0x5ca0690a587202ff7dcb0934e070061687eab941'

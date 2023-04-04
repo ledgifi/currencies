@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb560fA0B04341491b4c0496B110dBeE22a3065b8'
+    platform: BNB
 crypto: true
 fiat: false
 id: SMB
 id_coinmarketcap: '18460'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18460.png
 name: SamuraiBattle
-platform: BNB
-platform_contract: '0xb560fA0B04341491b4c0496B110dBeE22a3065b8'

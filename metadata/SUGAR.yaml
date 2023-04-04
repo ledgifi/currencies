@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x57528b45134f09f2e0069334a36a7e14af74745f'
+    platform: BNB
 crypto: true
 fiat: false
 id: SUGAR
 id_coinmarketcap: '23469'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23469.png
 name: SugarYield
-platform: BNB
-platform_contract: '0x57528b45134f09f2e0069334a36a7e14af74745f'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc2058F5D9736E8df8Ba03ca3582B7CD6aC613658'
+    platform: ETH
 crypto: true
 fiat: false
 id: ESAX
 id_coinmarketcap: '4771'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4771.png
 name: ESAX Token
-platform: ETH
-platform_contract: '0xc2058F5D9736E8df8Ba03ca3582B7CD6aC613658'

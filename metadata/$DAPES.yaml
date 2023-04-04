@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1758ade7ef6ef753e6bff91baceb06af4404014e'
+    platform: BNB
 crypto: true
 fiat: false
 id: $DAPES
 id_coinmarketcap: '15255'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15255.png
 name: De-Fi Apes
-platform: BNB
-platform_contract: '0x1758ade7ef6ef753e6bff91baceb06af4404014e'

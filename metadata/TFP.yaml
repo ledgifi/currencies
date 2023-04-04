@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb6b0f5dd8b12cf7f4a3ebe7e3e6e97b56b02d0ad'
+    platform: BNB
 crypto: true
 fiat: false
 id: TFP
 id_coinmarketcap: '15981'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15981.png
 name: TerraFloki-pad
-platform: BNB
-platform_contract: '0xb6b0f5dd8b12cf7f4a3ebe7e3e6e97b56b02d0ad'

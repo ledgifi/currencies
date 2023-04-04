@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x78F1a611cceba2fF17EA53570DBee7D43629E8bc'
+    platform: BNB
 crypto: true
 fiat: false
 id: CSTC
 id_coinmarketcap: '21084'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21084.png
 name: CryptosTribe
-platform: BNB
-platform_contract: '0x78F1a611cceba2fF17EA53570DBee7D43629E8bc'

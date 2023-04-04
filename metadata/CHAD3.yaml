@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcd9082b72394e5f4579ff679f1544101436e19c1'
+    platform: ETH
 crypto: true
 fiat: false
 id: CHAD3
 id_coinmarketcap: '17075'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17075.png
 name: ChadFi
-platform: ETH
-platform_contract: '0xcd9082b72394e5f4579ff679f1544101436e19c1'

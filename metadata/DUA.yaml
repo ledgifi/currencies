@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb418417374fca27bb54169d3c777492e6fe17ee7'
+    platform: AVAX
 crypto: true
 fiat: false
 id: DUA
 id_coinmarketcap: '22481'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22481.png
 name: DUA Token
-platform: AVAX
-platform_contract: '0xb418417374fca27bb54169d3c777492e6fe17ee7'

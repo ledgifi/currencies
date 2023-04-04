@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa28FD4D9fca2D406d655adf304Fd6bb2A7fFF121'
+    platform: BNB
 crypto: true
 fiat: false
 id: SAFESTONKS
 id_coinmarketcap: '9321'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9321.png
 name: Safestonks
-platform: BNB
-platform_contract: '0xa28FD4D9fca2D406d655adf304Fd6bb2A7fFF121'

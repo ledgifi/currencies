@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51'
+    platform: BNB
 crypto: true
 fiat: false
 id: BUNNY
@@ -6,5 +9,3 @@ id_nomics: BUNNY2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUNNY2.jpg
 logoKey: currencies/bunny2.jpg
 name: Pancake Bunny
-platform: BNB
-platform_contract: '0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbb3c2a170fbb8988cdb41c04344f9863b0f71c20'
+    platform: ETH
 crypto: true
 fiat: false
 id: c0
 id_coinmarketcap: '12026'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12026.png
 name: CarbonEco
-platform: ETH
-platform_contract: '0xbb3c2a170fbb8988cdb41c04344f9863b0f71c20'

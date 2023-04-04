@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8ee325ae3e54e83956ef2d5952d3c8bc1fa6ec27'
+    platform: ETH
 crypto: true
 fiat: false
 id: TYRANT
 id_coinmarketcap: '22356'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22356.png
 name: Fable Of The Dragon
-platform: ETH
-platform_contract: '0x8ee325ae3e54e83956ef2d5952d3c8bc1fa6ec27'

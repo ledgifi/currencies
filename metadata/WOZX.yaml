@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x34950ff2b487d9e5282c5ab342d08a2f712eb79f'
+    platform: ETH
 crypto: true
 fiat: false
 id: WOZX
 id_coinmarketcap: '7882'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7882.png
 name: Efforce
-platform: ETH
-platform_contract: '0x34950ff2b487d9e5282c5ab342d08a2f712eb79f'

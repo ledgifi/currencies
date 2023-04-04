@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2b5ca2f9510cf1e3595ff219f24d75d4244585ea'
+    platform: ETH
 crypto: true
 fiat: false
 id: EPAY
 id_coinmarketcap: '10374'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10374.png
 name: EthereumPay
-platform: ETH
-platform_contract: '0x2b5ca2f9510cf1e3595ff219f24d75d4244585ea'

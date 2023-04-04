@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbdbf245c690d54b67c6e610a28486a2c6de08be6'
+    platform: ETH
 crypto: true
 fiat: false
 id: Sunder
 id_coinmarketcap: '10298'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10298.png
 name: Sunder Goverance Token
-platform: ETH
-platform_contract: '0xbdbf245c690d54b67c6e610a28486a2c6de08be6'

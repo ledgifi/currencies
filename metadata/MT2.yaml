@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0Da6A7a0A2E7525950204Bb2C511E47a52235B17'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MT2
 id_coinmarketcap: '21941'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21941.png
 name: MT Token
-platform: MATIC
-platform_contract: '0x0Da6A7a0A2E7525950204Bb2C511E47a52235B17'

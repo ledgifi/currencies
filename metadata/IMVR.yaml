@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7878424e994d8a2b8e329d31096922b7ceabe660'
+    platform: ETH
 crypto: true
 fiat: false
 id: IMVR
 id_coinmarketcap: '3375'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3375.png
 name: ImmVRse Token
-platform: ETH
-platform_contract: '0x7878424e994d8a2b8e329d31096922b7ceabe660'

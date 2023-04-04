@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1045f5ccb01daea4f8eab055f5fcbb7c0e7c89f0'
+    platform: ETH
 crypto: true
 fiat: false
 id: DFIAT
 id_coinmarketcap: '8020'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8020.png
 name: DeFiato
-platform: ETH
-platform_contract: '0x1045f5ccb01daea4f8eab055f5fcbb7c0e7c89f0'

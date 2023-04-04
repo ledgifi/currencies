@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2690a474c68f4313603816e3cc6576a74b56944f'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIBU
 id_coinmarketcap: '13833'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13833.png
 name: Shibu Life
-platform: BNB
-platform_contract: '0x2690a474c68f4313603816e3cc6576a74b56944f'

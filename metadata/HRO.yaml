@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfb1a34eb2585b0ad7976420d7a21ef2f4aebeeb6'
+    platform: BNB
 crypto: true
 fiat: false
 id: HRO
 id_coinmarketcap: '14424'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14424.png
 name: CryptoDiceHero
-platform: BNB
-platform_contract: '0xfb1a34eb2585b0ad7976420d7a21ef2f4aebeeb6'

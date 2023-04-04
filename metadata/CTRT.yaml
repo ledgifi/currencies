@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8606a8f28e1e2fd50b9074d65c01548b1f040b32'
+    platform: ETH
 crypto: true
 fiat: false
 id: CTRT
 id_coinmarketcap: '3317'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3317.png
 name: Cryptrust
-platform: ETH
-platform_contract: '0x8606a8f28e1e2fd50b9074d65c01548b1f040b32'

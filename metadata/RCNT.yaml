@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd676c90a3979e73dffb61f7a8608234781fc9cf8'
+    platform: BNB
 crypto: true
 fiat: false
 id: RCNT
 id_coinmarketcap: '16921'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16921.png
 name: Ricnatum
-platform: BNB
-platform_contract: '0xd676c90a3979e73dffb61f7a8608234781fc9cf8'

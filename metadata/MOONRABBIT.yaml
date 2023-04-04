@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5ac69c40bc7363ea7d98574c78f4f54dbecbd54b'
+    platform: BNB
 crypto: true
 fiat: false
 id: MOONRABBIT
 id_coinmarketcap: '10249'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10249.png
 name: MoonRabbit
-platform: BNB
-platform_contract: '0x5ac69c40bc7363ea7d98574c78f4f54dbecbd54b'

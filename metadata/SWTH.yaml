@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb4371da53140417cbb3362055374b10d97e420bb'
+    platform: ETH
 crypto: true
 fiat: false
 id: SWTH
 id_coinmarketcap: '2620'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2620.png
 name: Carbon Protocol
-platform: ETH
-platform_contract: '0xb4371da53140417cbb3362055374b10d97e420bb'

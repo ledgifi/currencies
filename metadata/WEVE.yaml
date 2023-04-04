@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x911da02c1232a3c3e1418b834a311921143b04d7'
+    platform: FTM
 crypto: true
 fiat: false
 id: WEVE
 id_coinmarketcap: '17459'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17459.png
 name: veDAO
-platform: FTM
-platform_contract: '0x911da02c1232a3c3e1418b834a311921143b04d7'

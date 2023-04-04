@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA87135285Ae208e22068AcDBFf64B11Ec73EAa5A'
+    platform: ETH
 crypto: true
 fiat: false
 id: LUNR
 id_coinmarketcap: '12971'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12971.png
 name: Lunr Token
-platform: ETH
-platform_contract: '0xA87135285Ae208e22068AcDBFf64B11Ec73EAa5A'

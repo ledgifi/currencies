@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2a17dc11a1828725cdb318e0036acf12727d27a2'
+    platform: BNB
 crypto: true
 fiat: false
 id: ARENA1
 id_coinmarketcap: '11082'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11082.png
 name: Arena Token
-platform: BNB
-platform_contract: '0x2a17dc11a1828725cdb318e0036acf12727d27a2'

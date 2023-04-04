@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x76af7f5ad0c02587b302e5933ecc9ba5f40604ce'
+    platform: CHZ
 crypto: true
 fiat: false
 id: TH
 id_coinmarketcap: '7636'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7636.png
 name: Team Heretics Fan Token
-platform: CHZ
-platform_contract: '0x76af7f5ad0c02587b302e5933ecc9ba5f40604ce'

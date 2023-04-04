@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb27607d439751555003506455dd9e763a53e5b1d'
+    platform: BNB
 crypto: true
 fiat: false
 id: TIMESERIES
 id_coinmarketcap: '24029'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24029.png
 name: Timeseries AI
-platform: BNB
-platform_contract: '0xb27607d439751555003506455dd9e763a53e5b1d'

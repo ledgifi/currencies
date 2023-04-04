@@ -1,4 +1,7 @@
 color: '#5f45ba'
+contracts:
+  - address: '0x4575f41308EC1483f3d399aa9a2826d74Da13Deb'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: OXT
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/oxt.svg
 logoKey: currencies/oxt.svg
 name: Orchid
-platform: ETH
-platform_contract: '0x4575f41308EC1483f3d399aa9a2826d74Da13Deb'

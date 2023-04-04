@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x840BCd536d647C3433bF830DBCb8debFa5B71c79'
+    platform: BNB
 crypto: true
 fiat: false
 id: BNBCH
 id_coinmarketcap: '12550'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12550.png
 name: BNB Cash
-platform: BNB
-platform_contract: '0x840BCd536d647C3433bF830DBCb8debFa5B71c79'

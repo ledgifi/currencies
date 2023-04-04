@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xC25a3A3b969415c80451098fa907EC722572917F'
+    platform: ETH
 crypto: true
 fiat: false
 id: SCURVE
 id_coinmarketcap: '5954'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5954.png
 name: LP-sCurve
-platform: ETH
-platform_contract: '0xC25a3A3b969415c80451098fa907EC722572917F'

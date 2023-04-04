@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x04aCb60f7444C0FB161FC3fE791E74f91946D824'
+    platform: BNB
 crypto: true
 fiat: false
 id: LUDO
 id_coinmarketcap: '15237'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15237.png
 name: Ludopay
-platform: BNB
-platform_contract: '0x04aCb60f7444C0FB161FC3fE791E74f91946D824'

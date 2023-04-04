@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd8321aa83fb0a4ecd6348d4577431310a6e0814d'
+    platform: FTM
 crypto: true
 fiat: false
 id: GEIST
 id_coinmarketcap: '12576'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12576.png
 name: Geist Finance
-platform: FTM
-platform_contract: '0xd8321aa83fb0a4ecd6348d4577431310a6e0814d'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x25a3dcabbf0070cb8e5baaa62d576cf6643afb5b'
+    platform: ETH
 crypto: true
 fiat: false
 id: ALMX
 id_coinmarketcap: '7344'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7344.png
 name: Almace Shards
-platform: ETH
-platform_contract: '0x25a3dcabbf0070cb8e5baaa62d576cf6643afb5b'

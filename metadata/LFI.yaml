@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x77d97db5615dfe8a2d16b38eaa3f8f34524a0a74'
+    platform: MATIC
 crypto: true
 fiat: false
 id: LFI
 id_coinmarketcap: '19011'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19011.png
 name: LunaFi
-platform: MATIC
-platform_contract: '0x77d97db5615dfe8a2d16b38eaa3f8f34524a0a74'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdd2a36ae937bc134ea694d77fc7e2e36f5d86de0'
+    platform: ETH
 crypto: true
 fiat: false
 id: WELD
 id_coinmarketcap: '12269'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12269.png
 name: WELD
-platform: ETH
-platform_contract: '0xdd2a36ae937bc134ea694d77fc7e2e36f5d86de0'

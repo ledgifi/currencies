@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0965d7717068ff4f8f302556316f7b8e8661e485'
+    platform: BNB
 crypto: true
 fiat: false
 id: GEC
 id_coinmarketcap: '11979'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11979.png
 name: Green Energy Coin
-platform: BNB
-platform_contract: '0x0965d7717068ff4f8f302556316f7b8e8661e485'

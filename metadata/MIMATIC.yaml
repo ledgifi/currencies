@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xa3Fa99A148fA48D14Ed51d610c367C61876997F1'
+    platform: MATIC
 crypto: true
 decimals: 8
 fiat: false
@@ -7,5 +10,3 @@ id_coinmarketcap: '10238'
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220518/39e8f7a6-dbef-4902-96fb-20156696c273.png
 logoKey: currencies/mimatic.png
 name: MAI
-platform: MATIC
-platform_contract: '0xa3Fa99A148fA48D14Ed51d610c367C61876997F1'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1603441703472AFf8CdF1871961176cC494588DC'
+    platform: BNB
 crypto: true
 fiat: false
 id: FINANCEAI
 id_coinmarketcap: '23552'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23552.png
 name: Finance AI
-platform: BNB
-platform_contract: '0x1603441703472AFf8CdF1871961176cC494588DC'

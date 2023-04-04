@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xD44FD09d74cd13838F137B590497595d6b3FEeA4'
+    platform: BNB
 crypto: true
 fiat: false
 id: ETERNAL
@@ -7,5 +10,3 @@ id_nomics: ETERNAL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETERNAL.jpg
 logoKey: currencies/eternal.jpg
 name: CryptoMines Eternal
-platform: BNB
-platform_contract: '0xD44FD09d74cd13838F137B590497595d6b3FEeA4'

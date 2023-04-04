@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc9882def23bc42d53895b8361d0b1edc7570bc6a'
+    platform: BNB
 crypto: true
 fiat: false
 id: FIST
 id_coinmarketcap: '19534'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19534.png
 name: Fistbump
-platform: BNB
-platform_contract: '0xc9882def23bc42d53895b8361d0b1edc7570bc6a'

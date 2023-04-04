@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6d374cacccd6c0a458b22e0a84162c136a2884c1'
+    platform: BNB
 crypto: true
 fiat: false
 id: $DPIX
 id_coinmarketcap: '21603'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21603.png
 name: DPiXchange
-platform: BNB
-platform_contract: '0x6d374cacccd6c0a458b22e0a84162c136a2884c1'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x47935Edfb3CDd358C50F6c0Add1Cc24662e30F5f'
+    platform: ETH
 crypto: true
 fiat: false
 id: SUP8EME
 id_coinmarketcap: '7701'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7701.png
 name: SUP8EME
-platform: ETH
-platform_contract: '0x47935Edfb3CDd358C50F6c0Add1Cc24662e30F5f'

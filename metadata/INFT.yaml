@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x83d60e7aed59c6829fb251229061a55f35432c4d'
+    platform: ETH
 crypto: true
 fiat: false
 id: INFT
 id_coinmarketcap: '4853'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4853.png
 name: Infinito
-platform: ETH
-platform_contract: '0x83d60e7aed59c6829fb251229061a55f35432c4d'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3a35e98cc7390a15d458bb85f9a12823e2ef25ed'
+    platform: MATIC
 crypto: true
 fiat: false
 id: PENKY
 id_coinmarketcap: '9406'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9406.png
 name: Penky
-platform: MATIC
-platform_contract: '0x3a35e98cc7390a15d458bb85f9a12823e2ef25ed'

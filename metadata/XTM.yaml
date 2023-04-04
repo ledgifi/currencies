@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xcd1faff6e578fa5cac469d2418c95671ba1a62fe'
+    platform: ETH
 crypto: true
 fiat: false
 id: XTM
@@ -6,5 +9,3 @@ id_nomics: XTM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XTM.jpg
 logoKey: currencies/xtm.jpg
 name: Torum
-platform: ETH
-platform_contract: '0xcd1faff6e578fa5cac469d2418c95671ba1a62fe'

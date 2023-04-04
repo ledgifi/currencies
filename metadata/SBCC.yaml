@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6e02Be885FcA1138038420fDdD4B41C59a8Cea6D'
+    platform: BNB
 crypto: true
 fiat: false
 id: SBCC
 id_coinmarketcap: '20141'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20141.png
 name: Smart Block Chain City
-platform: BNB
-platform_contract: '0x6e02Be885FcA1138038420fDdD4B41C59a8Cea6D'

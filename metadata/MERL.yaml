@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xda360309c59cb8c434b28a91b823344a96444278'
+    platform: BNB
 crypto: true
 fiat: false
 id: MERL
 id_coinmarketcap: '9853'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9853.png
 name: Merlin
-platform: BNB
-platform_contract: '0xda360309c59cb8c434b28a91b823344a96444278'

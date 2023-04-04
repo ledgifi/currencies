@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x353af195c0d82820c59427BFbD318A49971AAe1a'
+    platform: AVAX
 crypto: true
 fiat: false
 id: SPACE9
 id_coinmarketcap: '16142'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16142.png
 name: Vortex DAO
-platform: AVAX
-platform_contract: '0x353af195c0d82820c59427BFbD318A49971AAe1a'

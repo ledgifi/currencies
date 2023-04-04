@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5935ffc231e93ac04daa089c0f1b94d0fb2449de'
+    platform: ETH
 crypto: true
 fiat: false
 id: KNV
 id_coinmarketcap: '7695'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7695.png
 name: Kanva
-platform: ETH
-platform_contract: '0x5935ffc231e93ac04daa089c0f1b94d0fb2449de'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0dd83b5013b2ad7094b1a7783d96ae0168f82621'
+    platform: ETH
 crypto: true
 fiat: false
 id: FIC2
 id_coinmarketcap: '4475'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4475.png
 name: FIC
-platform: ETH
-platform_contract: '0x0dd83b5013b2ad7094b1a7783d96ae0168f82621'

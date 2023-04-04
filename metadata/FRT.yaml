@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd51237a6f3219d186f0c8d8dd957b1bcb3ce5d48'
+    platform: BNB
 crypto: true
 fiat: false
 id: FRT
 id_coinmarketcap: '14333'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14333.png
 name: Fertilizer
-platform: BNB
-platform_contract: '0xd51237a6f3219d186f0c8d8dd957b1bcb3ce5d48'

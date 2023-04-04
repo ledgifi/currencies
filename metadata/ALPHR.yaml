@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaa99199d1e9644b588796F3215089878440D58e0'
+    platform: ETH
 crypto: true
 fiat: false
 id: ALPHR
 id_coinmarketcap: '9430'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9430.png
 name: Alphr finance
-platform: ETH
-platform_contract: '0xaa99199d1e9644b588796F3215089878440D58e0'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0d31DF7dedd78649A14aAe62D99CcB23aBCC3A5A'
+    platform: ETH
 crypto: true
 fiat: false
 id: TCG2
 id_coinmarketcap: '11492'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11492.png
 name: TCGCoin 2.0
-platform: ETH
-platform_contract: '0x0d31DF7dedd78649A14aAe62D99CcB23aBCC3A5A'

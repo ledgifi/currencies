@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCC8b870ddB18C211e376b306302C29B46AFc3Ab3'
+    platform: BNB
 crypto: true
 fiat: false
 id: MMT2
 id_coinmarketcap: '18116'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18116.png
 name: MarkMeta
-platform: BNB
-platform_contract: '0xCC8b870ddB18C211e376b306302C29B46AFc3Ab3'

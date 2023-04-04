@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbd4a49e1a0bd8d17faa881d057b48bc18b983e51'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOGEBULL
 id_coinmarketcap: '12625'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12625.png
 name: DogeBull
-platform: BNB
-platform_contract: '0xbd4a49e1a0bd8d17faa881d057b48bc18b983e51'

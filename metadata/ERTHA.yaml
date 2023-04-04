@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x62823659d09F9F9D2222058878f89437425eB261'
+    platform: BNB
 crypto: true
 fiat: false
 id: ERTHA
@@ -6,5 +9,3 @@ id_coinpaprika: ertha-ertha-token
 id_nomics: ERTHA
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12294.png
 name: ERTHA Token
-platform: BNB
-platform_contract: '0x62823659d09F9F9D2222058878f89437425eB261'

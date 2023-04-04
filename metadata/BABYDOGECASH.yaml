@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4cDa4daAd72340B28925cCd6fA78db631267D3C4'
+    platform: BNB
 crypto: true
 fiat: false
 id: BABYDOGECASH
 id_coinmarketcap: '10882'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10882.png
 name: Baby Doge Cash
-platform: BNB
-platform_contract: '0x4cDa4daAd72340B28925cCd6fA78db631267D3C4'

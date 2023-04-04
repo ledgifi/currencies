@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6ab4ce36260f201e4e2391eca2fd7538f71e4131'
+    platform: ETH
 crypto: true
 fiat: false
 id: AI2
 id_coinmarketcap: '10712'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10712.png
 name: Flourishing AI
-platform: ETH
-platform_contract: '0x6ab4ce36260f201e4e2391eca2fd7538f71e4131'

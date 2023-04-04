@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x37092DBF8C26DA9Cc805683B4Cc0B942E92DE2fd'
+    platform: ETH
 crypto: true
 fiat: false
 id: BDOGE
 id_coinmarketcap: '9731'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9731.png
 name: Blue Eyes White Doge
-platform: ETH
-platform_contract: '0x37092DBF8C26DA9Cc805683B4Cc0B942E92DE2fd'

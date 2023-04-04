@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: TRB
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20200827/2c845701-526b-45ba-89af-8cbf9ad1c8e5.png
 logoKey: currencies/trb.png
 name: Tellor Tributes
-platform: ETH
-platform_contract: '0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0'

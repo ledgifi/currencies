@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xba485b556399123261a5f9c95d413b4f93107407'
+    platform: ETH
 crypto: true
 fiat: false
 id: GRAVIAURA
 id_coinmarketcap: '20993'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20993.png
 name: Gravitationally Bound AURA
-platform: ETH
-platform_contract: '0xba485b556399123261a5f9c95d413b4f93107407'

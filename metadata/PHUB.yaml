@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x95A6772a2272b9822D4b3DfeEaedF732F1D28DB8'
+    platform: BNB
 crypto: true
 fiat: false
 id: PHUB
 id_coinmarketcap: '21213'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21213.png
 name: PegHub
-platform: BNB
-platform_contract: '0x95A6772a2272b9822D4b3DfeEaedF732F1D28DB8'

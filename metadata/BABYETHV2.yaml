@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1718c8727fa248f8b2521e05e1d1065e3be56d55'
+    platform: BNB
 crypto: true
 fiat: false
 id: BabyETHV2
 id_coinmarketcap: '12565'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12565.png
 name: BabyETH V2
-platform: BNB
-platform_contract: '0x1718c8727fa248f8b2521e05e1d1065e3be56d55'

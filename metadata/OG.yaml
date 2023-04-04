@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x7bcb8bB59298ba3Aed51a6a0348187Ba4ffD1c69'
+    platform: CHZ
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: OG2
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201223/f33acac6-22ce-4370-ac3e-251a13ce3b6d.png
 logoKey: currencies/og.png
 name: OG Fan Token
-platform: CHZ
-platform_contract: '0x7bcb8bB59298ba3Aed51a6a0348187Ba4ffD1c69'

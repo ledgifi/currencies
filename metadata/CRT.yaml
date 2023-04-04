@@ -1,8 +1,9 @@
+contracts:
+  - address: CRT-52decf
+    platform: EGLD
 crypto: true
 fiat: false
 id: CRT
 id_coinmarketcap: '21286'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21286.png
 name: Cantina Royale
-platform: EGLD
-platform_contract: CRT-52decf

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf0b6e29c429bbb8e1448340f0776be933805344e'
+    platform: BNB
 crypto: true
 fiat: false
 id: UEDC
 id_coinmarketcap: '12460'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12460.png
 name: UNITED EMIRATE DECENTRALIZED COIN.
-platform: BNB
-platform_contract: '0xf0b6e29c429bbb8e1448340f0776be933805344e'

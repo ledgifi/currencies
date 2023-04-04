@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5838B43EDE809Dd39e547ba09eE5d0d5a644846b'
+    platform: BNB
 crypto: true
 fiat: false
 id: CRLN
 id_coinmarketcap: '24168'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24168.png
 name: Chain Relay Network
-platform: BNB
-platform_contract: '0x5838B43EDE809Dd39e547ba09eE5d0d5a644846b'

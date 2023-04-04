@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc9b23289c60783649aa327732fccec2f5d0ac466'
+    platform: CRO
 crypto: true
 fiat: false
 id: MNG1
 id_coinmarketcap: '20706'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20706.png
 name: SaharaDAO
-platform: CRO
-platform_contract: '0xc9b23289c60783649aa327732fccec2f5d0ac466'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2eb198ab1a678f3a67f55219e8b408c9b713e825'
+    platform: BNB
 crypto: true
 fiat: false
 id: EFT4
 id_coinmarketcap: '14130'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14130.png
 name: Easy Finance Token
-platform: BNB
-platform_contract: '0x2eb198ab1a678f3a67f55219e8b408c9b713e825'

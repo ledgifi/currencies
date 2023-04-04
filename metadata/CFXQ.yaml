@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0557E0d15aeC0b9026dD17aA874fDf7d182A2cEB'
+    platform: ETH
 crypto: true
 fiat: false
 id: CFXQ
 id_coinmarketcap: '9070'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9070.png
 name: CFX Quantum
-platform: ETH
-platform_contract: '0x0557E0d15aeC0b9026dD17aA874fDf7d182A2cEB'

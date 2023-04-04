@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x45734927fa2f616fbe19e65f42a0ef3d37d1c80a'
+    platform: ETH
 crypto: true
 fiat: false
 id: ROGE
 id_coinmarketcap: '13544'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13544.png
 name: Rogue Doge
-platform: ETH
-platform_contract: '0x45734927fa2f616fbe19e65f42a0ef3d37d1c80a'

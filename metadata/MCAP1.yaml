@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x93e682107d1e9defb0b5ee701c71707a4b2e46bc'
+    platform: ETH
 crypto: true
 fiat: false
 id: MCAP1
 id_coinmarketcap: '1690'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1690.png
 name: MCAP
-platform: ETH
-platform_contract: '0x93e682107d1e9defb0b5ee701c71707a4b2e46bc'

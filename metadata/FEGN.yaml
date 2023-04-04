@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7f3058b872555ecb3a2723d4fcf2a56a0b8488ca'
+    platform: BNB
 crypto: true
 fiat: false
 id: FEGN
 id_coinmarketcap: '12777'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12777.png
 name: Fegnomics
-platform: BNB
-platform_contract: '0x7f3058b872555ecb3a2723d4fcf2a56a0b8488ca'

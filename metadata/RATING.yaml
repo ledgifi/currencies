@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe8663a64a96169ff4d95b4299e7ae9a76b905b31'
+    platform: ETH
 crypto: true
 fiat: false
 id: RATING
 id_coinmarketcap: '3194'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3194.png
 name: DPRating
-platform: ETH
-platform_contract: '0xe8663a64a96169ff4d95b4299e7ae9a76b905b31'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa105C740BC012A43a342Ab4A0Ef40143452C8E89'
+    platform: ETH
 crypto: true
 fiat: false
 id: LTB1
 id_coinmarketcap: '5047'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5047.png
 name: Litbinex Coin
-platform: ETH
-platform_contract: '0xa105C740BC012A43a342Ab4A0Ef40143452C8E89'

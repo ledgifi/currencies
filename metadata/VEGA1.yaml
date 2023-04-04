@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x68D23428406C393Fc8Bc2cCCeC2BE4CBc957DbEA'
+    platform: MATIC
 crypto: true
 fiat: false
 id: VEGA1
 id_coinmarketcap: '22918'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22918.png
 name: Vega sport
-platform: MATIC
-platform_contract: '0x68D23428406C393Fc8Bc2cCCeC2BE4CBc957DbEA'

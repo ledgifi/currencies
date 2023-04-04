@@ -1,3 +1,6 @@
+contracts:
+  - address: 3EkHyexJLGCvSxzn5umbtd9N69GoT4p5pfdLTFqCNP9Y
+    platform: SOL
 crypto: true
 fiat: false
 id: HIPPO
@@ -6,5 +9,3 @@ id_nomics: HIPPO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HIPPO.jpg
 logoKey: currencies/hippo.jpg
 name: Hippo Coin
-platform: SOL
-platform_contract: 3EkHyexJLGCvSxzn5umbtd9N69GoT4p5pfdLTFqCNP9Y

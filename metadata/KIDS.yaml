@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7acf49997e9598843cb9051389fa755969e551bb'
+    platform: BNB
 crypto: true
 fiat: false
 id: KIDS
 id_coinmarketcap: '10318'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10318.png
 name: Save The Kids
-platform: BNB
-platform_contract: '0x7acf49997e9598843cb9051389fa755969e551bb'

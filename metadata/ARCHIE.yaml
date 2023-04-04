@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xFE5F69dfa2d4501E78078266F6d430c079098f90'
+    platform: ETH
 crypto: true
 fiat: false
 id: ARCHIE
 id_coinmarketcap: '22883'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22883.png
 name: Archie Neko
-platform: ETH
-platform_contract: '0xFE5F69dfa2d4501E78078266F6d430c079098f90'

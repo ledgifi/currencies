@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaa3387B36a4aCd9D2c1326a7f10658d7051b73a6'
+    platform: BNB
 crypto: true
 fiat: false
 id: BSCB
 id_coinmarketcap: '18413'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18413.png
 name: BSCBAY
-platform: BNB
-platform_contract: '0xaa3387B36a4aCd9D2c1326a7f10658d7051b73a6'

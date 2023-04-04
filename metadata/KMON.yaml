@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc732b6586a93b6b7cf5fed3470808bc74998224d'
+    platform: BNB
 crypto: true
 fiat: false
 id: KMON
 id_coinmarketcap: '11291'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11291.png
 name: Kryptomon
-platform: BNB
-platform_contract: '0xc732b6586a93b6b7cf5fed3470808bc74998224d'

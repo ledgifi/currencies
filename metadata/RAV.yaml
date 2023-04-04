@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9B7c74Aa737FE278795fAB2Ad62dEFDbBAedFBCA'
+    platform: ADA
 crypto: true
 fiat: false
 id: RAV
 id_coinmarketcap: '20125'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20125.png
 name: Ravelin Finance
-platform: ADA
-platform_contract: '0x9B7c74Aa737FE278795fAB2Ad62dEFDbBAedFBCA'

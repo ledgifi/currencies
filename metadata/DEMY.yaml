@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6a146b19b4fd0ab90b474e44320edacf63418ae0'
+    platform: BNB
 crypto: true
 fiat: false
 id: DEMY
 id_coinmarketcap: '19984'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19984.png
 name: Demy Games
-platform: BNB
-platform_contract: '0x6a146b19b4fd0ab90b474e44320edacf63418ae0'

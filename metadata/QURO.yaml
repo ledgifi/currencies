@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x076a93a40bf9e0d21d3f75dd1e0584ddbe0f9d1a'
+    platform: ETH
 crypto: true
 fiat: false
 id: QURO
 id_coinmarketcap: '2905'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2905.png
 name: Qurito
-platform: ETH
-platform_contract: '0x076a93a40bf9e0d21d3f75dd1e0584ddbe0f9d1a'

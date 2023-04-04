@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbd8005612124DC30601E22D8B5d188A89767c640'
+    platform: ETH
 crypto: true
 fiat: false
 id: EXO1
 id_coinmarketcap: '9879'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9879.png
 name: Exohood
-platform: ETH
-platform_contract: '0xbd8005612124DC30601E22D8B5d188A89767c640'

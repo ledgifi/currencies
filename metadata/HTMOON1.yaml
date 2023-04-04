@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2A4bF846844A65CA585aB5FBBA92f4853F71F02a'
+    platform: BNB
 crypto: true
 fiat: false
 id: HTMOON1
 id_coinmarketcap: '15003'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15003.png
 name: HtmoonFOMO
-platform: BNB
-platform_contract: '0x2A4bF846844A65CA585aB5FBBA92f4853F71F02a'

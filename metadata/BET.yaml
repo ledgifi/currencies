@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9eb6299e4bb6669e42cb295a254c8492f67ae2c6'
+    platform: ARB
 crypto: true
 fiat: false
 id: BET
 id_coinmarketcap: '23689'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23689.png
 name: The BET
-platform: ARB
-platform_contract: '0x9eb6299e4bb6669e42cb295a254c8492f67ae2c6'

@@ -1,4 +1,7 @@
 color: '#e9570f'
+contracts:
+  - address: '0x8f693ca8d21b157107184d29d398a8d082b38b76'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: DATA
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/data.svg
 logoKey: currencies/data.svg
 name: Streamr
-platform: ETH
-platform_contract: '0x8f693ca8d21b157107184d29d398a8d082b38b76'

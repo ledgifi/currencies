@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa9a8377287ea9c6b8b4249dd502e75d34148fc5b'
+    platform: ETH
 crypto: true
 fiat: false
 id: STGZ
 id_coinmarketcap: '7956'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7956.png
 name: Stargaze Protocol
-platform: ETH
-platform_contract: '0xa9a8377287ea9c6b8b4249dd502e75d34148fc5b'

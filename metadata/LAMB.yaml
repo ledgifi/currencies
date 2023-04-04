@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x8971f9fd7196e5cee2c1032b50f656855af7dd26'
+    platform: ETH
 crypto: true
 fiat: false
 id: LAMB
@@ -7,5 +10,3 @@ id_nomics: LAMB
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/lamb.jpg
 logoKey: currencies/lamb.jpg
 name: Lambda
-platform: ETH
-platform_contract: '0x8971f9fd7196e5cee2c1032b50f656855af7dd26'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdb9f3239D5be3129f3A4567FCa7D6aC30e9A296F'
+    platform: ETH
 crypto: true
 fiat: false
 id: MVR
 id_coinmarketcap: '18799'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18799.png
 name: Metaversero
-platform: ETH
-platform_contract: '0xdb9f3239D5be3129f3A4567FCa7D6aC30e9A296F'

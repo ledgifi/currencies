@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9F5c80dc840f9cc60670a20c1e5d0fbD3E13B015'
+    platform: HT
 crypto: true
 fiat: false
 id: DUSD3
 id_coinmarketcap: '12366'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12366.png
 name: Demeter
-platform: HT
-platform_contract: '0x9F5c80dc840f9cc60670a20c1e5d0fbD3E13B015'

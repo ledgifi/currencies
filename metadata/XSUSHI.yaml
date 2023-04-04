@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272'
+    platform: ETH
 crypto: true
 fiat: false
 id: XSUSHI
 id_coinmarketcap: '8899'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8899.png
 name: xSUSHI
-platform: ETH
-platform_contract: '0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272'

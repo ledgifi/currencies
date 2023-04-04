@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xADcCD9B784B1398D95c2e952df4C78DC62C7dAD9'
+    platform: BNB
 crypto: true
 fiat: false
 id: AUR2
 id_coinmarketcap: '12286'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12286.png
 name: AUREO
-platform: BNB
-platform_contract: '0xADcCD9B784B1398D95c2e952df4C78DC62C7dAD9'

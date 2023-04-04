@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3a766862fac4fc0d971de3836dfcc99b03f6cedd'
+    platform: BNB
 crypto: true
 fiat: false
 id: TOTOCAT
 id_coinmarketcap: '23653'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23653.png
 name: Totocat
-platform: BNB
-platform_contract: '0x3a766862fac4fc0d971de3836dfcc99b03f6cedd'

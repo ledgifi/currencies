@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x03d1e72765545729a035e909edd9371a405f77fb'
+    platform: ETH
 crypto: true
 fiat: false
 id: NABOX
 id_coinmarketcap: '9653'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9653.png
 name: Nabox
-platform: ETH
-platform_contract: '0x03d1e72765545729a035e909edd9371a405f77fb'

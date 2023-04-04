@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x23ec2149c6a9bea7d50c48bfe2e4542ff8a94c4c'
+    platform: BNB
 crypto: true
 fiat: false
 id: RUYI
 id_coinmarketcap: '17536'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17536.png
 name: Ruyi
-platform: BNB
-platform_contract: '0x23ec2149c6a9bea7d50c48bfe2e4542ff8a94c4c'

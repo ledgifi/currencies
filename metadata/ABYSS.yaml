@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6'
+    platform: ETH
 crypto: true
 fiat: false
 id: ABYSS
 id_coinmarketcap: '2847'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2847.png
 name: Abyss
-platform: ETH
-platform_contract: '0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6'

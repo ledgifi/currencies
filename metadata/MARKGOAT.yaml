@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf707155aaf4cd8e97d7b298964e84f3221241142'
+    platform: BNB
 crypto: true
 fiat: false
 id: MARKGOAT
 id_coinmarketcap: '10437'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10437.png
 name: Mark Goat
-platform: BNB
-platform_contract: '0xf707155aaf4cd8e97d7b298964e84f3221241142'

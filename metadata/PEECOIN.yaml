@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x67fe403a75d871b992143fa15474f542a7892a6e'
+    platform: BNB
 crypto: true
 fiat: false
 id: PEECOIN
 id_coinmarketcap: '19414'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19414.png
 name: PeeCoin Charts
-platform: BNB
-platform_contract: '0x67fe403a75d871b992143fa15474f542a7892a6e'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd'
+    platform: AVAX
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: JOE
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/729e5137-3f04-4441-821a-8d2e2c24160a.png
 logoKey: currencies/joe.png
 name: JOE
-platform: AVAX
-platform_contract: '0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd'

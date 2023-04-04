@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6944d3e38973C4831dA24E954fbD790c7E688bDd'
+    platform: ETH
 crypto: true
 fiat: false
 id: IZE
 id_coinmarketcap: '5677'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5677.png
 name: IZE
-platform: ETH
-platform_contract: '0x6944d3e38973C4831dA24E954fbD790c7E688bDd'

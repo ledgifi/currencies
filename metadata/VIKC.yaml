@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0055448eeefd5c4bac80d260fa63ff0d8402685f'
+    platform: BNB
 crypto: true
 fiat: false
 id: VIKC
 id_coinmarketcap: '11778'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11778.png
 name: VikingsChain
-platform: BNB
-platform_contract: '0x0055448eeefd5c4bac80d260fa63ff0d8402685f'

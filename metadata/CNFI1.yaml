@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4293c4c9a75D5554Da71a5746Dd8560453FD3ca7'
+    platform: BNB
 crypto: true
 fiat: false
 id: CNFI1
 id_coinmarketcap: '12326'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12326.png
 name: CHAINFI
-platform: BNB
-platform_contract: '0x4293c4c9a75D5554Da71a5746Dd8560453FD3ca7'

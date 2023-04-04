@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xeff3f1b9400d6d0f1e8805bdde592f61535f5ecd'
+    platform: ETH
 crypto: true
 fiat: false
 id: SQUAWK
 id_coinmarketcap: '19594'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19594.png
 name: Squawk
-platform: ETH
-platform_contract: '0xeff3f1b9400d6d0f1e8805bdde592f61535f5ecd'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2e0c40beb655a988e087ad71ca191a2806ac55ef'
+    platform: ETH
 crypto: true
 fiat: false
 id: CARM
 id_coinmarketcap: '4645'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4645.png
 name: Carnomic
-platform: ETH
-platform_contract: '0x2e0c40beb655a988e087ad71ca191a2806ac55ef'

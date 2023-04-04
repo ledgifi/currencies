@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3b23a0ffbc53198d86fa5927e8ee32f7ef699a14'
+    platform: BNB
 crypto: true
 fiat: false
 id: MBIRD
 id_coinmarketcap: '12676'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12676.png
 name: Moonbird
-platform: BNB
-platform_contract: '0x3b23a0ffbc53198d86fa5927e8ee32f7ef699a14'

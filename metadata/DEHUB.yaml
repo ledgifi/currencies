@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x680d3113caf77b61b510f332d5ef4cf5b41a761d'
+    platform: BNB
 crypto: true
 fiat: false
 id: DEHUB
 id_coinmarketcap: '11560'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11560.png
 name: DeHub
-platform: BNB
-platform_contract: '0x680d3113caf77b61b510f332d5ef4cf5b41a761d'

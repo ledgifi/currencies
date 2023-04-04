@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2B53D7014865c705DF383AB58B3C1DE5388ad567'
+    platform: BNB
 crypto: true
 fiat: false
 id: ZVRS
 id_coinmarketcap: '19918'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19918.png
 name: ZeldaVerse
-platform: BNB
-platform_contract: '0x2B53D7014865c705DF383AB58B3C1DE5388ad567'

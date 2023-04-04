@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x70debcdab2ef20be3d1dbff6a845e9ccb6e46930'
+    platform: ETH
 crypto: true
 fiat: false
 id: BIKI
 id_coinmarketcap: '5325'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5325.png
 name: BIKI
-platform: ETH
-platform_contract: '0x70debcdab2ef20be3d1dbff6a845e9ccb6e46930'

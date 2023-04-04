@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x00e150d741eda1d49d341189cae4c08a73a49c95'
+    platform: ETH
 crypto: true
 fiat: false
 id: INF2
 id_coinmarketcap: '3861'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3861.png
 name: Infinitus Token
-platform: ETH
-platform_contract: '0x00e150d741eda1d49d341189cae4c08a73a49c95'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8e2C7e3bE79de0FD43E1693180D0aAa913676E6c'
+    platform: BNB
 crypto: true
 fiat: false
 id: ANCE
 id_coinmarketcap: '17130'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17130.png
 name: AnnihilationCE
-platform: BNB
-platform_contract: '0x8e2C7e3bE79de0FD43E1693180D0aAa913676E6c'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8C1297f572B737357EF8a0951523dB1da139E4F5'
+    platform: BNB
 crypto: true
 fiat: false
 id: INCAKE
 id_coinmarketcap: '11679'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11679.png
 name: InfinityCake
-platform: BNB
-platform_contract: '0x8C1297f572B737357EF8a0951523dB1da139E4F5'

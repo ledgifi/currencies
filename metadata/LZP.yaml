@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4211959585c8f18b06dab8b5bb0bc825cad4c1de'
+    platform: BNB
 crypto: true
 fiat: false
 id: LZP
 id_coinmarketcap: '16344'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16344.png
 name: LaunchZone (LZP)
-platform: BNB
-platform_contract: '0x4211959585c8f18b06dab8b5bb0bc825cad4c1de'

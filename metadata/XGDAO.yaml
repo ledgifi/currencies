@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x306978da6ebee060375f35418744f85c1cb6b353'
+    platform: ETH
 crypto: true
 fiat: false
 id: XGDAO
 id_coinmarketcap: '16022'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16022.png
 name: Governor DAO Vault
-platform: ETH
-platform_contract: '0x306978da6ebee060375f35418744f85c1cb6b353'

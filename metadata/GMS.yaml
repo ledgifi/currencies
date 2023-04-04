@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xDae3C2Cb0AC034a4A491B112D2922f12427201A6'
+    platform: BNB
 crypto: true
 fiat: false
 id: GMS
 id_coinmarketcap: '12808'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12808.png
 name: GameStar
-platform: BNB
-platform_contract: '0xDae3C2Cb0AC034a4A491B112D2922f12427201A6'

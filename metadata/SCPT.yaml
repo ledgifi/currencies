@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x790304309388C417ff8AaB454B8d27e79CAd1Df5'
+    platform: ETH
 crypto: true
 fiat: false
 id: SCPT
 id_coinmarketcap: '5141'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5141.png
 name: Sceptercash
-platform: ETH
-platform_contract: '0x790304309388C417ff8AaB454B8d27e79CAd1Df5'

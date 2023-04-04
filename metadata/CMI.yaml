@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbba8120b355bc70e771f28e151a141a126843cdf'
+    platform: ETH
 crypto: true
 fiat: false
 id: CMI
 id_coinmarketcap: '14929'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14929.png
 name: Cage Meme Index
-platform: ETH
-platform_contract: '0xbba8120b355bc70e771f28e151a141a126843cdf'

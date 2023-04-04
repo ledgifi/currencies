@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1dbdf52915875f749cbaeaaf515252455b623f6e'
+    platform: BNB
 crypto: true
 fiat: false
 id: PCL1
 id_coinmarketcap: '17146'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17146.png
 name: PECULIUM
-platform: BNB
-platform_contract: '0x1dbdf52915875f749cbaeaaf515252455b623f6e'

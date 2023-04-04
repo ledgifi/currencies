@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x014d9a527fe5d11c178d70248921db2b735d6e41'
+    platform: ETH
 crypto: true
 fiat: false
 id: BABEL
 id_coinmarketcap: '14236'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14236.png
 name: BabelFish
-platform: ETH
-platform_contract: '0x014d9a527fe5d11c178d70248921db2b735d6e41'

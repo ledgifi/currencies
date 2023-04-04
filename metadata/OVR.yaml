@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697'
+    platform: ETH
 crypto: true
 fiat: false
 id: OVR
@@ -7,5 +10,3 @@ id_nomics: OVR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OVR.jpg
 logoKey: currencies/ovr.jpg
 name: OVR
-platform: ETH
-platform_contract: '0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697'

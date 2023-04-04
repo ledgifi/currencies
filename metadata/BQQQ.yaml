@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1b80eeeadcc590f305945bcc258cfa770bbe1890'
+    platform: ETH
 crypto: true
 fiat: false
 id: BQQQ
 id_coinmarketcap: '4011'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4011.png
 name: Bitsdaq
-platform: ETH
-platform_contract: '0x1b80eeeadcc590f305945bcc258cfa770bbe1890'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x43044f861ec040DB59A7e324c40507adDb673142'
+    platform: ETH
 crypto: true
 fiat: false
 id: CAP
 id_coinmarketcap: '5809'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5809.png
 name: Cap
-platform: ETH
-platform_contract: '0x43044f861ec040DB59A7e324c40507adDb673142'

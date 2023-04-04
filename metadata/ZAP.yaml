@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6781a0f84c7e9e846dcb84a9a5bd49333067b104'
+    platform: ETH
 crypto: true
 fiat: false
 id: ZAP
 id_coinmarketcap: '2363'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2363.png
 name: Zap
-platform: ETH
-platform_contract: '0x6781a0f84c7e9e846dcb84a9a5bd49333067b104'

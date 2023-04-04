@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb63029e37fc5186cb58c3b8c193fd37b1e1e1d43'
+    platform: FTM
 crypto: true
 fiat: false
 id: SCC5
 id_coinmarketcap: '15156'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15156.png
 name: Scary Chain Capital v1
-platform: FTM
-platform_contract: '0xb63029e37fc5186cb58c3b8c193fd37b1e1e1d43'

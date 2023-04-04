@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1e4ffa373d94c95717fb83ec026b2e0e2f443bb0'
+    platform: BNB
 crypto: true
 fiat: false
 id: WGC
 id_coinmarketcap: '11394'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11394.png
 name: Green Climate World
-platform: BNB
-platform_contract: '0x1e4ffa373d94c95717fb83ec026b2e0e2f443bb0'

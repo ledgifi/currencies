@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE99De844EF3Ef72806cf006224EF3b813e82662f'
+    platform: ETH
 crypto: true
 fiat: false
 id: UMINT
 id_coinmarketcap: '19060'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19060.png
 name: YouMinter
-platform: ETH
-platform_contract: '0xE99De844EF3Ef72806cf006224EF3b813e82662f'

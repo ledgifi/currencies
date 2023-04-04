@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5362799F2228A180b03A68FD41CD39137dD99C42'
+    platform: ETH
 crypto: true
 fiat: false
 id: CRYB
 id_coinmarketcap: '18206'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18206.png
 name: Cryb token
-platform: ETH
-platform_contract: '0x5362799F2228A180b03A68FD41CD39137dD99C42'

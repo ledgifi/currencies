@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x15b09ca8a1ef990c726d1fd82939a7cf9a48d5c8'
+    platform: BNB
 crypto: true
 fiat: false
 id: BUUN
 id_coinmarketcap: '23741'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23741.png
 name: Business Universe
-platform: BNB
-platform_contract: '0x15b09ca8a1ef990c726d1fd82939a7cf9a48d5c8'

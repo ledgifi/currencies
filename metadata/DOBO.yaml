@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xae2df9f730c54400934c06a17462c41c08a06ed8'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOBO
 id_coinmarketcap: '12859'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12859.png
 name: DogeBonk
-platform: BNB
-platform_contract: '0xae2df9f730c54400934c06a17462c41c08a06ed8'

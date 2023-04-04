@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0129088976D41EB1c202b5512d7B437197cCb168'
+    platform: CHZ
 crypto: true
 fiat: false
 id: DZG
 id_coinmarketcap: '12295'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12295.png
 name: Dinamo Zagreb Fan Token
-platform: CHZ
-platform_contract: '0x0129088976D41EB1c202b5512d7B437197cCb168'

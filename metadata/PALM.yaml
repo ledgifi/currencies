@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF85BE0902a16fb87D447021d6e4517b38a15087d'
+    platform: BNB
 crypto: true
 fiat: false
 id: PALM
 id_coinmarketcap: '22442'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22442.png
 name: PalmPay
-platform: BNB
-platform_contract: '0xF85BE0902a16fb87D447021d6e4517b38a15087d'

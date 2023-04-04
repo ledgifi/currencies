@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9840652DC04fb9db2C43853633f0F62BE6f00f98'
+    platform: BNB
 crypto: true
 fiat: false
 id: CGPT
 id_coinmarketcap: '23756'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23756.png
 name: ChainGPT
-platform: BNB
-platform_contract: '0x9840652DC04fb9db2C43853633f0F62BE6f00f98'

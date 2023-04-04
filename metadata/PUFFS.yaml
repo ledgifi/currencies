@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xeE11dB54b66E4dbB99D497573106615bB6ac03Ab'
+    platform: BNB
 crypto: true
 fiat: false
 id: PUFFS
 id_coinmarketcap: '11236'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11236.png
 name: Crypto Puffs
-platform: BNB
-platform_contract: '0xeE11dB54b66E4dbB99D497573106615bB6ac03Ab'

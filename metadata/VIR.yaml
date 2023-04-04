@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6963e578f263dffcef64f1d34d3bea176ac14f85'
+    platform: BNB
 crypto: true
 fiat: false
 id: VIR
 id_coinmarketcap: '17970'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17970.png
 name: Virsacoin
-platform: BNB
-platform_contract: '0x6963e578f263dffcef64f1d34d3bea176ac14f85'

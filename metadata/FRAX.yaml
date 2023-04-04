@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x853d955acef822db058eb8505911ed77f175b99e'
+    platform: ETH
 crypto: true
 fiat: false
 id: FRAX
@@ -7,5 +10,3 @@ id_nomics: FRAX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FRAX.jpg
 logoKey: currencies/frax.jpg
 name: Frax
-platform: ETH
-platform_contract: '0x853d955acef822db058eb8505911ed77f175b99e'

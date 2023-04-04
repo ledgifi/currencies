@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc'
+    platform: ETH
 crypto: true
 fiat: false
 id: HOP
 id_coinmarketcap: '20547'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20547.png
 name: Hop Protocol
-platform: ETH
-platform_contract: '0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc'

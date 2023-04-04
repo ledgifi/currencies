@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1fE34D34EC67Ef7020874A69A9dD1fB778CF9522'
+    platform: BNB
 crypto: true
 fiat: false
 id: MONSTER
 id_coinmarketcap: '11510'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11510.png
 name: Monster Valley
-platform: BNB
-platform_contract: '0x1fE34D34EC67Ef7020874A69A9dD1fB778CF9522'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe47d957f83f8887063150aaf7187411351643392'
+    platform: FTM
 crypto: true
 fiat: false
 id: $CHILL
 id_coinmarketcap: '23945'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23945.png
 name: ChillPill
-platform: FTM
-platform_contract: '0xe47d957f83f8887063150aaf7187411351643392'

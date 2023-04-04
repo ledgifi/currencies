@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF28709f1daa6CEE2847C5B9526ceba457331742b'
+    platform: BNB
 crypto: true
 fiat: false
 id: MLNX
 id_coinmarketcap: '14191'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14191.png
 name: MELONx
-platform: BNB
-platform_contract: '0xF28709f1daa6CEE2847C5B9526ceba457331742b'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb34FEEeC5be985BA9727B73cD24C82273a37CdD4'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOA
 id_coinmarketcap: '18950'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18950.png
 name: Doaibu
-platform: BNB
-platform_contract: '0xb34FEEeC5be985BA9727B73cD24C82273a37CdD4'

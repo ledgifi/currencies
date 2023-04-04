@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x53607C4a966f79d3ab1750180E770B0bFD493f46'
+    platform: BNB
 crypto: true
 fiat: false
 id: SWP1
 id_coinmarketcap: '20973'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20973.png
 name: StepWatch
-platform: BNB
-platform_contract: '0x53607C4a966f79d3ab1750180E770B0bFD493f46'

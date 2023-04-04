@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdc524e3c6910257744c1f93cf15e9f472b5bd236'
+    platform: ETH
 crypto: true
 fiat: false
 id: WITCH
 id_coinmarketcap: '10984'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10984.png
 name: Witch Token
-platform: ETH
-platform_contract: '0xdc524e3c6910257744c1f93cf15e9f472b5bd236'

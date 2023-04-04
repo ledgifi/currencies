@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF8d778219D253df289dA5F43E2711124FF3953C2'
+    platform: ETH
 crypto: true
 fiat: false
 id: RIZE1
 id_coinmarketcap: '6706'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6706.png
 name: RIZE Token
-platform: ETH
-platform_contract: '0xF8d778219D253df289dA5F43E2711124FF3953C2'

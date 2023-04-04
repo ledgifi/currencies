@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x44Ece1031e5b5e2D9169546cC10EA5C95BA96237'
+    platform: BNB
 crypto: true
 fiat: false
 id: AMAZINGTEAM
 id_coinmarketcap: '19599'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19599.png
 name: AmazingTeamDAO
-platform: BNB
-platform_contract: '0x44Ece1031e5b5e2D9169546cC10EA5C95BA96237'

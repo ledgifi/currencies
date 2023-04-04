@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x456ae45c0ce901e2e7c99c0718031cec0a7a59ff'
+    platform: ETH
 crypto: true
 fiat: false
 id: VSN
 id_coinmarketcap: '5973'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5973.png
 name: Vision Network
-platform: ETH
-platform_contract: '0x456ae45c0ce901e2e7c99c0718031cec0a7a59ff'

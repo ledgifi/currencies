@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3e990DE85Dbd92c9F616A1a4AbeAAE6243Be374b'
+    platform: BNB
 crypto: true
 fiat: false
 id: GEMDAO
 id_coinmarketcap: '21346'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21346.png
 name: GemDao
-platform: BNB
-platform_contract: '0x3e990DE85Dbd92c9F616A1a4AbeAAE6243Be374b'

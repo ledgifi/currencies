@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x72a8eaead0b6f735361a0a6b9402b13dd7081048'
+    platform: ETH
 crypto: true
 fiat: false
 id: INZ
 id_coinmarketcap: '5731'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5731.png
 name: Intuz
-platform: ETH
-platform_contract: '0x72a8eaead0b6f735361a0a6b9402b13dd7081048'

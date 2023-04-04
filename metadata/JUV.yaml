@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x14a5750b0e54b57d12767b84a326c9fe59472da5'
+    platform: CHZ
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: JUV
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201214/4593569d-c4cb-460e-8ba4-923d5154cf5d.png
 logoKey: currencies/juv.png
 name: Juventus Fan Token
-platform: CHZ
-platform_contract: '0x14a5750b0e54b57d12767b84a326c9fe59472da5'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x2a3bff78b79a009976eea096a51a948a3dc00e34'
+    platform: ETH
 crypto: true
 fiat: false
 id: WILD
@@ -6,5 +9,3 @@ id_nomics: WILD2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WILD2.jpg
 logoKey: currencies/wild.jpg
 name: Wilder World
-platform: ETH
-platform_contract: '0x2a3bff78b79a009976eea096a51a948a3dc00e34'

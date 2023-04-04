@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1b15b9446b9f632a78396a1680daae17f74ce8d9'
+    platform: DOGE
 crypto: true
 fiat: false
 id: DOGEPUP
 id_coinmarketcap: '21463'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21463.png
 name: Doge Pup Token
-platform: DOGE
-platform_contract: '0x1b15b9446b9f632a78396a1680daae17f74ce8d9'

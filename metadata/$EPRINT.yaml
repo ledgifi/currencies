@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1209c8fbdB85EB887f81b47B74068F679c25d3A5'
+    platform: BNB
 crypto: true
 fiat: false
 id: $EPRINT
 id_coinmarketcap: '17844'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17844.png
 name: EverPrinter
-platform: BNB
-platform_contract: '0x1209c8fbdB85EB887f81b47B74068F679c25d3A5'

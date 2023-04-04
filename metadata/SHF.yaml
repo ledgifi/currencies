@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x96baD480691FeE450598F3A6c144F09FA5DF950D'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHF
 id_coinmarketcap: '17937'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17937.png
 name: SHIBAFRIEND
-platform: BNB
-platform_contract: '0x96baD480691FeE450598F3A6c144F09FA5DF950D'

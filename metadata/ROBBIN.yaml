@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3532ed5ab6A2c1E31fbd376eE58C99cd440422e8'
+    platform: BNB
 crypto: true
 fiat: false
 id: ROBBIN
 id_coinmarketcap: '10883'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10883.png
 name: ROBBIN HOOD
-platform: BNB
-platform_contract: '0x3532ed5ab6A2c1E31fbd376eE58C99cd440422e8'

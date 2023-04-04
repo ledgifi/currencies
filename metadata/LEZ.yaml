@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc23be03f64a834b3fa6ae62c97ac8b40f3eec6a9'
+    platform: BNB
 crypto: true
 fiat: false
 id: LEZ
 id_coinmarketcap: '15502'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15502.png
 name: Peoplez
-platform: BNB
-platform_contract: '0xc23be03f64a834b3fa6ae62c97ac8b40f3eec6a9'

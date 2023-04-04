@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x31429d1856ad1377a8a0079410b297e1a9e214c2'
+    platform: ETH
 crypto: true
 fiat: false
 id: ANGLE
 id_coinmarketcap: '12761'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12761.png
 name: Angle
-platform: ETH
-platform_contract: '0x31429d1856ad1377a8a0079410b297e1a9e214c2'

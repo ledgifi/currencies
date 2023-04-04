@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x41b25ff6431074959532db7435dadaca65a21d1c'
+    platform: ETH
 crypto: true
 fiat: false
 id: CLAW
 id_coinmarketcap: '24052'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24052.png
 name: Claw
-platform: ETH
-platform_contract: '0x41b25ff6431074959532db7435dadaca65a21d1c'

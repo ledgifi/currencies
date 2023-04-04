@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2567c677473d110d75a8360c35309e63b1d52429'
+    platform: ETH
 crypto: true
 fiat: false
 id: SEXC
 id_coinmarketcap: '2426'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2426.png
 name: ShareX
-platform: ETH
-platform_contract: '0x2567c677473d110d75a8360c35309e63b1d52429'

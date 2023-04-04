@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2b5016CeA1C425f915E13727f7657025de3208Fe'
+    platform: ETH
 crypto: true
 fiat: false
 id: TKMN
 id_coinmarketcap: '8338'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8338.png
 name: Tokemon
-platform: ETH
-platform_contract: '0x2b5016CeA1C425f915E13727f7657025de3208Fe'

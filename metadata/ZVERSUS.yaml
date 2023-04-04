@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa6966B70F6d6Cc70a518550f156e81Fc11bd88f2'
+    platform: BNB
 crypto: true
 fiat: false
 id: ZVERSUS
 id_coinmarketcap: '22115'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22115.png
 name: Z Versus Project
-platform: BNB
-platform_contract: '0xa6966B70F6d6Cc70a518550f156e81Fc11bd88f2'

@@ -1,3 +1,6 @@
+contracts:
+  - address: zil1p5suryq6q647usxczale29cu3336hhp376c627
+    platform: ZIL
 crypto: true
 fiat: false
 id: ZWAP
@@ -7,5 +10,3 @@ id_nomics: ZWAP
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZWAP.png
 logoKey: currencies/zwap.png
 name: ZilSwap
-platform: ZIL
-platform_contract: zil1p5suryq6q647usxczale29cu3336hhp376c627

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8e062e7f7e95b9b51519a6f47c28f260ab1064e4'
+    platform: BNB
 crypto: true
 fiat: false
 id: BDY
 id_coinmarketcap: '19628'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19628.png
 name: Buddy DAO
-platform: BNB
-platform_contract: '0x8e062e7f7e95b9b51519a6f47c28f260ab1064e4'

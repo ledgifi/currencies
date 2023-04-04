@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x72BD2a465a87DFa23eABBF5d8d56707ea57bD40E'
+    platform: BNB
 crypto: true
 fiat: false
 id: FRATS
 id_coinmarketcap: '21364'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21364.png
 name: FlappyRats
-platform: BNB
-platform_contract: '0x72BD2a465a87DFa23eABBF5d8d56707ea57bD40E'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xC57d533c50bC22247d49a368880fb49a1caA39F7'
+    platform: ETH
 crypto: true
 fiat: false
 id: PTF
 id_coinmarketcap: '7190'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7190.png
 name: PowerTrade Fuel
-platform: ETH
-platform_contract: '0xC57d533c50bC22247d49a368880fb49a1caA39F7'

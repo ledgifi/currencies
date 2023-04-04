@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7D93662E163Fe1f5A76fc7FBeb91E8E888f16C2f'
+    platform: BNB
 crypto: true
 fiat: false
 id: MTE
 id_coinmarketcap: '20558'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20558.png
 name: MINT 2 EARN
-platform: BNB
-platform_contract: '0x7D93662E163Fe1f5A76fc7FBeb91E8E888f16C2f'

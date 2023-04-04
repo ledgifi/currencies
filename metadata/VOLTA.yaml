@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x417a1afd44250314bffb11ff68e989775e990ab6'
+    platform: ARB
 crypto: true
 fiat: false
 id: VOLTA
 id_coinmarketcap: '23591'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23591.png
 name: Volta Protocol
-platform: ARB
-platform_contract: '0x417a1afd44250314bffb11ff68e989775e990ab6'

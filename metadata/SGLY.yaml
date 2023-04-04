@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5f50411cde3eec27b0eac21691b4e500c69a5a2e'
+    platform: BNB
 crypto: true
 fiat: false
 id: SGLY
 id_coinmarketcap: '16599'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16599.png
 name: Singularity
-platform: BNB
-platform_contract: '0x5f50411cde3eec27b0eac21691b4e500c69a5a2e'

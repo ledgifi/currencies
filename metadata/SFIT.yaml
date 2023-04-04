@@ -1,8 +1,9 @@
+contracts:
+  - address: SFIT-aebc90
+    platform: EGLD
 crypto: true
 fiat: false
 id: SFIT
 id_coinmarketcap: '22981'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22981.png
 name: Sense4FIT
-platform: EGLD
-platform_contract: SFIT-aebc90

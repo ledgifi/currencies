@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfad45e47083e4607302aa43c65fb3106f1cd7607'
+    platform: ETH
 crypto: true
 fiat: false
 id: HOGE
 id_coinmarketcap: '8438'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8438.png
 name: Hoge Finance
-platform: ETH
-platform_contract: '0xfad45e47083e4607302aa43c65fb3106f1cd7607'

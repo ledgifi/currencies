@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3'
+    platform: BNB
 crypto: true
 fiat: false
 id: axlUSDC
 id_coinmarketcap: '21420'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21420.png
 name: Axelar Wrapped USDC
-platform: BNB
-platform_contract: '0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x68e0a48d3bff6633a31d1d100b70f93c3859218b'
+    platform: ETH
 crypto: true
 fiat: false
 id: BNFI
 id_coinmarketcap: '7987'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7987.png
 name: Blaze DeFi
-platform: ETH
-platform_contract: '0x68e0a48d3bff6633a31d1d100b70f93c3859218b'

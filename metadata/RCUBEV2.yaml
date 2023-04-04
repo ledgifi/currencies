@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x049cfce9d3a8d3406fa45645578b2de664fac688'
+    platform: BNB
 crypto: true
 fiat: false
 id: RCUBEV2
 id_coinmarketcap: '10590'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10590.png
 name: RCUBEV2
-platform: BNB
-platform_contract: '0x049cfce9d3a8d3406fa45645578b2de664fac688'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x33e02851d5a084137dc69b1a02ab2eeb7b7fe2a5'
+    platform: MATIC
 crypto: true
 fiat: false
 id: DAW
 id_coinmarketcap: '11619'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11619.png
 name: Deswap
-platform: MATIC
-platform_contract: '0x33e02851d5a084137dc69b1a02ab2eeb7b7fe2a5'

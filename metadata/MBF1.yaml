@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x57DE0bE45Bd591E84a7835DCF619BF07479b3894'
+    platform: BNB
 crypto: true
 fiat: false
 id: MBF1
 id_coinmarketcap: '19767'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19767.png
 name: MOONBIRDS FINANCE
-platform: BNB
-platform_contract: '0x57DE0bE45Bd591E84a7835DCF619BF07479b3894'

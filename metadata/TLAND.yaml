@@ -1,8 +1,9 @@
+contracts:
+  - address: terra1r5506ckw5tfr3z52jwlek8vg9sn3yflrqrzfsc
+    platform: LUNC
 crypto: true
 fiat: false
 id: TLAND
 id_coinmarketcap: '13282'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13282.png
 name: TLAND
-platform: LUNC
-platform_contract: terra1r5506ckw5tfr3z52jwlek8vg9sn3yflrqrzfsc

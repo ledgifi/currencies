@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x3C4B6E6e1eA3D4863700D7F76b36B7f3D3f13E3d'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: ETHOS
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/9cbae786-7c05-4fc0-9ea2-fc894cc66cfb.png
 logoKey: currencies/vgx.png
 name: Voyager Token
-platform: ETH
-platform_contract: '0x3C4B6E6e1eA3D4863700D7F76b36B7f3D3f13E3d'

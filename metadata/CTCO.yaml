@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3746519cfb4a0ca13745a38326282585de95e0a5'
+    platform: BNB
 crypto: true
 fiat: false
 id: CTCO
 id_coinmarketcap: '18416'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18416.png
 name: Connector Coin
-platform: BNB
-platform_contract: '0x3746519cfb4a0ca13745a38326282585de95e0a5'

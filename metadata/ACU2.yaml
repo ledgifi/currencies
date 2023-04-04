@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2a4f6675469ee5a31664925b486ebaddfb838dd0'
+    platform: ETH
 crypto: true
 fiat: false
 id: ACU2
 id_coinmarketcap: '15121'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15121.png
 name: ACU Platform
-platform: ETH
-platform_contract: '0x2a4f6675469ee5a31664925b486ebaddfb838dd0'

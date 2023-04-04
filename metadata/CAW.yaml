@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xf3b9569F82B18aEf890De263B84189bd33EBe452'
+    platform: ETH
 crypto: true
 fiat: false
 id: CAW
@@ -5,5 +8,3 @@ id_coinmarketcap: '19618'
 id_nomics: CAW
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19618.png
 name: CAW
-platform: ETH
-platform_contract: '0xf3b9569F82B18aEf890De263B84189bd33EBe452'

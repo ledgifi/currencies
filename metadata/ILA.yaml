@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x4fbedc7b946e489208ded562e8e5f2bc83b7de42'
+    platform: BNB
 crypto: true
 fiat: false
 id: ILA
@@ -7,5 +10,3 @@ id_nomics: ILA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ILA.jpg
 logoKey: currencies/ila.jpg
 name: Infinite Launch
-platform: BNB
-platform_contract: '0x4fbedc7b946e489208ded562e8e5f2bc83b7de42'

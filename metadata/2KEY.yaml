@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe48972fcd82a274411c01834e2f031d4377fa2c0'
+    platform: ETH
 crypto: true
 fiat: false
 id: 2KEY
 id_coinmarketcap: '5587'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5587.png
 name: 2key.network
-platform: ETH
-platform_contract: '0xe48972fcd82a274411c01834e2f031d4377fa2c0'

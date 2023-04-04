@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x51d9aB40FF21f5172B33e3909d94abdC6D542679'
+    platform: BNB
 crypto: true
 fiat: false
 id: CHI1
 id_coinmarketcap: '20730'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20730.png
 name: CHI Coin
-platform: BNB
-platform_contract: '0x51d9aB40FF21f5172B33e3909d94abdC6D542679'

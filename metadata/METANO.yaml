@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9D9e399e5385e2b9A58d4F775A1E16441b571afb'
+    platform: ETH
 crypto: true
 fiat: false
 id: METANO
 id_coinmarketcap: '22860'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22860.png
 name: Metano
-platform: ETH
-platform_contract: '0x9D9e399e5385e2b9A58d4F775A1E16441b571afb'

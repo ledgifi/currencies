@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x155DD107ae0fB0D5872A4613F9F08914bC03a632'
+    platform: BNB
 crypto: true
 fiat: false
 id: DXB1
 id_coinmarketcap: '13590'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13590.png
 name: DXBPay
-platform: BNB
-platform_contract: '0x155DD107ae0fB0D5872A4613F9F08914bC03a632'

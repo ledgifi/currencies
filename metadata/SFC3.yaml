@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0556551f81623ae32c5c7cf853c67fafbe61648a'
+    platform: BNB
 crypto: true
 fiat: false
 id: SFC3
 id_coinmarketcap: '15614'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15614.png
 name: Solar Full Cycle
-platform: BNB
-platform_contract: '0x0556551f81623ae32c5c7cf853c67fafbe61648a'

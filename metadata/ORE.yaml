@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4f640F2529ee0cF119A2881485845FA8e61A782A'
+    platform: ETH
 crypto: true
 fiat: false
 id: ORE
 id_coinmarketcap: '12743'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12743.png
 name: Open Rights Exchange
-platform: ETH
-platform_contract: '0x4f640F2529ee0cF119A2881485845FA8e61A782A'

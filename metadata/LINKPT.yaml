@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x78e29d35573bea6265aedfcb9f45481b717ebfde'
+    platform: ETH
 crypto: true
 fiat: false
 id: LINKPT
 id_coinmarketcap: '6159'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6159.png
 name: LINK Profit Taker Set
-platform: ETH
-platform_contract: '0x78e29d35573bea6265aedfcb9f45481b717ebfde'

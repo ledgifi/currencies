@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4e52d1dce54ab9d3c1798673b9cf1947e6660a3e'
+    platform: BNB
 crypto: true
 fiat: false
 id: DFW
 id_coinmarketcap: '19165'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19165.png
 name: DAO Farmer DFW
-platform: BNB
-platform_contract: '0x4e52d1dce54ab9d3c1798673b9cf1947e6660a3e'

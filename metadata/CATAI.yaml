@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbc1a4555745e9c5334ebf9dcfec0b51285af8d17'
+    platform: ETH
 crypto: true
 fiat: false
 id: CATAI
 id_coinmarketcap: '23401'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23401.png
 name: Catgirl AI
-platform: ETH
-platform_contract: '0xbc1a4555745e9c5334ebf9dcfec0b51285af8d17'

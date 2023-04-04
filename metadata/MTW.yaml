@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3afe2901489f0cd7503a2815a655829f00305270'
+    platform: BNB
 crypto: true
 fiat: false
 id: MTW
 id_coinmarketcap: '22910'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22910.png
 name: Meta Space 2045
-platform: BNB
-platform_contract: '0x3afe2901489f0cd7503a2815a655829f00305270'

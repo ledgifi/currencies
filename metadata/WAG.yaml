@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x7FA7dF4996AC59F398476892cfB195eD38543520'
+    platform: ETH
 crypto: true
 fiat: false
 id: WAG
@@ -6,5 +9,3 @@ id_nomics: WAG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAG.jpg
 logoKey: currencies/wag.jpg
 name: WagyuSwap
-platform: ETH
-platform_contract: '0x7FA7dF4996AC59F398476892cfB195eD38543520'

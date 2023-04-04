@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x237c9e8a085663ebaa22a600c1b9846fb529e900'
+    platform: ETH
 crypto: true
 fiat: false
 id: GenIm
 id_coinmarketcap: '13137'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13137.png
 name: Genshin Impact Token
-platform: ETH
-platform_contract: '0x237c9e8a085663ebaa22a600c1b9846fb529e900'

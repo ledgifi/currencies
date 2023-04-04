@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6db3972c6a5535708e7a4f7ad52f24d178d9a93e'
+    platform: BNB
 crypto: true
 fiat: false
 id: DVX
 id_coinmarketcap: '13432'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13432.png
 name: DRIVENx
-platform: BNB
-platform_contract: '0x6db3972c6a5535708e7a4f7ad52f24d178d9a93e'

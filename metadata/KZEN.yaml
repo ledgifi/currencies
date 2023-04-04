@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4550003152F12014558e5CE025707E4DD841100F'
+    platform: ETH
 crypto: true
 fiat: false
 id: KZEN
 id_coinmarketcap: '19670'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19670.png
 name: Kaizen Finance
-platform: ETH
-platform_contract: '0x4550003152F12014558e5CE025707E4DD841100F'

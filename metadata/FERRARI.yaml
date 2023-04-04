@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xebf698ede71af52ab1acb12975472ba2e302e810'
+    platform: ETH
 crypto: true
 fiat: false
 id: FERRARI
 id_coinmarketcap: '8096'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8096.png
 name: FerrariSwap
-platform: ETH
-platform_contract: '0xebf698ede71af52ab1acb12975472ba2e302e810'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3998f8ee2d7a6cb6b7de6d2e8a874fecefc83488'
+    platform: KLAY
 crypto: true
 fiat: false
 id: FTSY
 id_coinmarketcap: '18039'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18039.png
 name: Fantasy Token
-platform: KLAY
-platform_contract: '0x3998f8ee2d7a6cb6b7de6d2e8a874fecefc83488'

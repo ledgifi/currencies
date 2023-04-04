@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xD81D45E7635400dDD9c028839e9a9eF479006B28'
+    platform: AVAX
 crypto: true
 fiat: false
 id: EMBR1
 id_coinmarketcap: '17069'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17069.png
 name: Embr
-platform: AVAX
-platform_contract: '0xD81D45E7635400dDD9c028839e9a9eF479006B28'

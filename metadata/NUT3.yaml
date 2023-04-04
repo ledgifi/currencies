@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4f0A338DFa1C9369F62109C9022042e1F0aE479b'
+    platform: HT
 crypto: true
 fiat: false
 id: NUT3
 id_coinmarketcap: '10836'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10836.png
 name: NUT MONEY
-platform: HT
-platform_contract: '0x4f0A338DFa1C9369F62109C9022042e1F0aE479b'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x998c2e8ae492f0082b796d4e444a9185aae9af74'
+    platform: BNB
 crypto: true
 fiat: false
 id: BLACKFRIDAY
 id_coinmarketcap: '15224'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15224.png
 name: BLACK FRIDAY DOGE
-platform: BNB
-platform_contract: '0x998c2e8ae492f0082b796d4e444a9185aae9af74'

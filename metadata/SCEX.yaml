@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xeABACD844A196D7Faf3CE596edeBF9900341B420'
+    platform: ETH
 crypto: true
 fiat: false
 id: SCEX
 id_coinmarketcap: '5861'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5861.png
 name: sCEX
-platform: ETH
-platform_contract: '0xeABACD844A196D7Faf3CE596edeBF9900341B420'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x02678125fb30d0fe77fc9d10ea531f8b4348c603'
+    platform: BNB
 crypto: true
 fiat: false
 id: LVM
 id_coinmarketcap: '21653'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21653.png
 name: LakeViewMeta
-platform: BNB
-platform_contract: '0x02678125fb30d0fe77fc9d10ea531f8b4348c603'

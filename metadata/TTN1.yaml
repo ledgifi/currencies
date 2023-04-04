@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3294b364a44f2f75c375fc8d8e2ccc59dd497fe4'
+    platform: ETH
 crypto: true
 fiat: false
 id: TTN1
 id_coinmarketcap: '8396'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8396.png
 name: TheToken.Network
-platform: ETH
-platform_contract: '0x3294b364a44f2f75c375fc8d8e2ccc59dd497fe4'

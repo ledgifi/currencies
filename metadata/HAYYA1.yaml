@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x141127b397594C542EE64a75135D652094e83f20'
+    platform: BNB
 crypto: true
 fiat: false
 id: HAYYA1
 id_coinmarketcap: '20907'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20907.png
 name: Hayya
-platform: BNB
-platform_contract: '0x141127b397594C542EE64a75135D652094e83f20'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xDfDec49462f7D3C3b0A48E729F77A0645CDFA7c0'
+    platform: BNB
 crypto: true
 fiat: false
 id: GEMS2
 id_coinmarketcap: '9849'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9849.png
 name: Safegem
-platform: BNB
-platform_contract: '0xDfDec49462f7D3C3b0A48E729F77A0645CDFA7c0'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB565CaD9DfDd50D48396672DF7aE4979f7832437'
+    platform: ETH
 crypto: true
 fiat: false
 id: DEBA
 id_coinmarketcap: '7982'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7982.png
 name: Decentralized Bank
-platform: ETH
-platform_contract: '0xB565CaD9DfDd50D48396672DF7aE4979f7832437'

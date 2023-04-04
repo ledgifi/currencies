@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb6ba8c98021c31a02dd65e9be97729eba859d4e2'
+    platform: BNB
 crypto: true
 fiat: false
 id: GUT1
 id_coinmarketcap: '14066'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14066.png
 name: GuitarSwap
-platform: BNB
-platform_contract: '0xb6ba8c98021c31a02dd65e9be97729eba859d4e2'

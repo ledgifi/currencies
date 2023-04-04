@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8c35f06997a37d576cbe93448a15c5cfe32f677b'
+    platform: BNB
 crypto: true
 fiat: false
 id: NUL
 id_coinmarketcap: '17155'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17155.png
 name: Mirror
-platform: BNB
-platform_contract: '0x8c35f06997a37d576cbe93448a15c5cfe32f677b'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x813658e307fA4DAF9B25e7CE1dE3b40012CA2B74'
+    platform: CRO
 crypto: true
 fiat: false
 id: ZEU$
 id_coinmarketcap: '14829'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14829.png
 name: Zeu$ Finance
-platform: CRO
-platform_contract: '0x813658e307fA4DAF9B25e7CE1dE3b40012CA2B74'

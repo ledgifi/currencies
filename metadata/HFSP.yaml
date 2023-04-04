@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7343581f55146951b0f678dc6cfa8fd360e2f353'
+    platform: ETH
 crypto: true
 fiat: false
 id: HFSP
 id_coinmarketcap: '14454'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14454.png
 name: Have Fun Staying Poor
-platform: ETH
-platform_contract: '0x7343581f55146951b0f678dc6cfa8fd360e2f353'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x96035fbdd4cb888862ee28c9d8fdadef78311cc9'
+    platform: KLAY
 crypto: true
 fiat: false
 id: MM1
 id_coinmarketcap: '6944'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6944.png
 name: Millimeter
-platform: KLAY
-platform_contract: '0x96035fbdd4cb888862ee28c9d8fdadef78311cc9'

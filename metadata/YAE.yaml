@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4ee438be38f8682abb089f2bfea48851c5e71eaf'
+    platform: ETH
 crypto: true
 fiat: false
 id: YAE
 id_coinmarketcap: '9149'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9149.png
 name: Cryptonovae
-platform: ETH
-platform_contract: '0x4ee438be38f8682abb089f2bfea48851c5e71eaf'

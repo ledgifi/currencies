@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdf4cf10f245b3442098e6ce7a5b800f030897ffa'
+    platform: BNB
 crypto: true
 fiat: false
 id: CERT
 id_coinmarketcap: '14683'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14683.png
 name: CertRise
-platform: BNB
-platform_contract: '0xdf4cf10f245b3442098e6ce7a5b800f030897ffa'

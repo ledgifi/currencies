@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x411c9f87824b98c043db255a171a360313ebb881'
+    platform: BNB
 crypto: true
 fiat: false
 id: TRUTH1
 id_coinmarketcap: '16131'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16131.png
 name: Truth Technology
-platform: BNB
-platform_contract: '0x411c9f87824b98c043db255a171a360313ebb881'

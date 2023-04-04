@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0e9b56d2233ea2b5883861754435f9c51dbca141'
+    platform: ETH
 crypto: true
 fiat: false
 id: RPEPE
 id_coinmarketcap: '8901'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8901.png
 name: Rare Pepe
-platform: ETH
-platform_contract: '0x0e9b56d2233ea2b5883861754435f9c51dbca141'

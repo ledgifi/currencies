@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7ff4588aa09924d374c118499c3b343b566b2901'
+    platform: CHZ
 crypto: true
 fiat: false
 id: SHARKS
 id_coinmarketcap: '23299'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23299.png
 name: The Sharks Fan Token
-platform: CHZ
-platform_contract: '0x7ff4588aa09924d374c118499c3b343b566b2901'

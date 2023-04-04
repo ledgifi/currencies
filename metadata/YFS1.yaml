@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x92d984ff5593fcc209adb525adef90d119eb0d9d'
+    platform: ETH
 crypto: true
 fiat: false
 id: YFS1
 id_coinmarketcap: '9181'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9181.png
 name: YFS.FINANCE
-platform: ETH
-platform_contract: '0x92d984ff5593fcc209adb525adef90d119eb0d9d'

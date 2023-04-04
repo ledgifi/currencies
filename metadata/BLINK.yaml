@@ -1,3 +1,6 @@
+contracts:
+  - address: BLINK-9C6
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: BLINK
 logo: https://bin.bnbstatic.com/images/20190801/d416484f-a87e-4fe4-8559-ac659045fa35.png
 logoKey: currencies/blink.png
 name: Blockmason Link
-platform: BNB
-platform_contract: BLINK-9C6

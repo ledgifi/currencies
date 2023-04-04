@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1f88B2eF9ea3B29C90F559e645fC8CC2dc6F5b27'
+    platform: ETH
 crypto: true
 fiat: false
 id: GOM
 id_coinmarketcap: '4227'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4227.png
 name: GoMoney
-platform: ETH
-platform_contract: '0x1f88B2eF9ea3B29C90F559e645fC8CC2dc6F5b27'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373'
+    platform: ETH
 crypto: true
 fiat: false
 id: GMEE
@@ -7,5 +10,3 @@ id_nomics: GMEE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMEE.jpg
 logoKey: currencies/gmee.jpg
 name: GAMEE
-platform: ETH
-platform_contract: '0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373'

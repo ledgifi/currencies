@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xab2392379c1c8876690aebbae735ecc2b465825c'
+    platform: BNB
 crypto: true
 fiat: false
 id: NFTASCII
 id_coinmarketcap: '14002'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14002.png
 name: NFTASCII
-platform: BNB
-platform_contract: '0xab2392379c1c8876690aebbae735ecc2b465825c'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x91bc956F064d755dB2e4EfE839eF0131e0b07E28'
+    platform: BNB
 crypto: true
 fiat: false
 id: NUARS
 id_coinmarketcap: '21072'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21072.png
 name: Num ARS
-platform: BNB
-platform_contract: '0x91bc956F064d755dB2e4EfE839eF0131e0b07E28'

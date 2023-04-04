@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x564393b8d6deaea8f3d739a3f6d9b441d8ee6198'
+    platform: ETH
 crypto: true
 fiat: false
 id: AMIX
 id_coinmarketcap: '6644'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6644.png
 name: AMIX
-platform: ETH
-platform_contract: '0x564393b8d6deaea8f3d739a3f6d9b441d8ee6198'

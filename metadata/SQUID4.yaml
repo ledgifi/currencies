@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1c3C3941aCB8A9Be35e50F086fAE6a481f7d9DF7'
+    platform: BNB
 crypto: true
 fiat: false
 id: SQUID4
 id_coinmarketcap: '15621'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15621.png
 name: SQUID Finance
-platform: BNB
-platform_contract: '0x1c3C3941aCB8A9Be35e50F086fAE6a481f7d9DF7'

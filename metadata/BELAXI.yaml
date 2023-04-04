@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1cb3fefd70d5a047a956ad9521928fbb12eb853d'
+    platform: BNB
 crypto: true
 fiat: false
 id: BELAXI
 id_coinmarketcap: '9883'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9883.png
 name: Bela Token
-platform: BNB
-platform_contract: '0x1cb3fefd70d5a047a956ad9521928fbb12eb853d'

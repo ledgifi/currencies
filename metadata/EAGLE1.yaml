@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x994f0dffdbae0bbf09b652d6f11a493fd33f42b9'
+    platform: ETH
 crypto: true
 fiat: false
 id: EAGLE1
 id_coinmarketcap: '2182'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2182.png
 name: EagleCoin
-platform: ETH
-platform_contract: '0x994f0dffdbae0bbf09b652d6f11a493fd33f42b9'

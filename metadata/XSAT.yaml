@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8fda94079913CB921D065Ed9c004Afb43e1f900e'
+    platform: BNB
 crypto: true
 fiat: false
 id: xSAT
 id_coinmarketcap: '9411'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9411.png
 name: SatisFinance Token
-platform: BNB
-platform_contract: '0x8fda94079913CB921D065Ed9c004Afb43e1f900e'

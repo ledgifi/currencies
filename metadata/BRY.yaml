@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830'
+    platform: BNB
 crypto: true
 fiat: false
 id: BRY
 id_coinmarketcap: '8483'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8483.png
 name: Berry Data
-platform: BNB
-platform_contract: '0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830'

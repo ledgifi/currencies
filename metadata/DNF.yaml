@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7c8911c69257c074593fd9efdc431f200be27107'
+    platform: ETH
 crypto: true
 fiat: false
 id: DNF
 id_coinmarketcap: '12094'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12094.png
 name: DNFT Protocol
-platform: ETH
-platform_contract: '0x7c8911c69257c074593fd9efdc431f200be27107'

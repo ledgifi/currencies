@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x205F93cD558aAc99c4609d0511829194B5405533'
+    platform: BNB
 crypto: true
 fiat: false
 id: ANGEL1
 id_coinmarketcap: '15586'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15586.png
 name: AngelsCreed
-platform: BNB
-platform_contract: '0x205F93cD558aAc99c4609d0511829194B5405533'

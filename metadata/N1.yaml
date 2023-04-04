@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xacbd826394189cf2623c6df98a18b41fc8ffc16d'
+    platform: ETH
 crypto: true
 fiat: false
 id: N1
 id_coinmarketcap: '9346'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9346.png
 name: NFTify
-platform: ETH
-platform_contract: '0xacbd826394189cf2623c6df98a18b41fc8ffc16d'

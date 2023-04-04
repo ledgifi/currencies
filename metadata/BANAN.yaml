@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xBf8199416DC07134a38f5eF305E567A9aA173d2d'
+    platform: ETH
 crypto: true
 fiat: false
 id: BANAN
 id_coinmarketcap: '18720'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18720.png
 name: MonkeVerse
-platform: ETH
-platform_contract: '0xBf8199416DC07134a38f5eF305E567A9aA173d2d'

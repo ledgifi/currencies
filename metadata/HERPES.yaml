@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1f14e0f13471fea5990cf697945ed676885f42c3'
+    platform: BNB
 crypto: true
 fiat: false
 id: HERPES
 id_coinmarketcap: '10879'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10879.png
 name: Herpes
-platform: BNB
-platform_contract: '0x1f14e0f13471fea5990cf697945ed676885f42c3'

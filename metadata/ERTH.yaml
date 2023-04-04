@@ -1,8 +1,9 @@
+contracts:
+  - address: rewards4earth:erth
+    platform: XEM
 crypto: true
 fiat: false
 id: ERTH
 id_coinmarketcap: '21018'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21018.png
 name: Erth Point
-platform: XEM
-platform_contract: rewards4earth:erth

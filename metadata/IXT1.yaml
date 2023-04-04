@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe06bd4f5aac8d0aa337d13ec88db6defc6eaeefe'
+    platform: MATIC
 crypto: true
 fiat: false
 id: IXT1
 id_coinmarketcap: '17131'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17131.png
 name: IX Token
-platform: MATIC
-platform_contract: '0xe06bd4f5aac8d0aa337d13ec88db6defc6eaeefe'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x914737dfbfdb0DBADe3C9Ff10566Fa920d04ac19'
+    platform: BNB
 crypto: true
 fiat: false
 id: XLMN
 id_coinmarketcap: '16924'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16924.png
 name: XL-Moon
-platform: BNB
-platform_contract: '0x914737dfbfdb0DBADe3C9Ff10566Fa920d04ac19'

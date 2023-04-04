@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe0df31d06d72b2f5231489af0edc422b372f49f1'
+    platform: ETH
 crypto: true
 fiat: false
 id: MX1
 id_coinmarketcap: '13696'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13696.png
 name: MarsX
-platform: ETH
-platform_contract: '0xe0df31d06d72b2f5231489af0edc422b372f49f1'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5167f7cdeb771417d8722e654ccc3e1734a01878'
+    platform: ETH
 crypto: true
 fiat: false
 id: BLAST2
 id_coinmarketcap: '13031'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13031.png
 name: Blastoise Inu
-platform: ETH
-platform_contract: '0x5167f7cdeb771417d8722e654ccc3e1734a01878'

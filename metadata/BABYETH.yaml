@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaFfbF5D4693C93F23c35a08E31439Ea53d952351'
+    platform: BNB
 crypto: true
 fiat: false
 id: BABYETH
 id_coinmarketcap: '11386'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11386.png
 name: BabyEth
-platform: BNB
-platform_contract: '0xaFfbF5D4693C93F23c35a08E31439Ea53d952351'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7d99d2c760DE063080b1300b5b09FA4e7bd60638'
+    platform: BNB
 crypto: true
 fiat: false
 id: LOCKPAY
 id_coinmarketcap: '20353'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20353.png
 name: LockPay
-platform: BNB
-platform_contract: '0x7d99d2c760DE063080b1300b5b09FA4e7bd60638'

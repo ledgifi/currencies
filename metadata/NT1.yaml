@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8e3fe7cdf4ebb605bbbac3a43d76ea757f7f06e2'
+    platform: ETH
 crypto: true
 fiat: false
 id: NT1
 id_coinmarketcap: '15809'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15809.png
 name: NarakaToken
-platform: ETH
-platform_contract: '0x8e3fe7cdf4ebb605bbbac3a43d76ea757f7f06e2'

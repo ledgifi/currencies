@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfc77b86f3ade71793e1eec1e7944db074922856e'
+    platform: ARB
 crypto: true
 fiat: false
 id: MGN
 id_coinmarketcap: '21862'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21862.png
 name: Mugen Finance
-platform: ARB
-platform_contract: '0xfc77b86f3ade71793e1eec1e7944db074922856e'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3AeF8e803BD9be47e69b9f36487748d30D940b96'
+    platform: ETH
 crypto: true
 fiat: false
 id: VESTA1
 id_coinmarketcap: '6806'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6806.png
 name: Vesta Protocol
-platform: ETH
-platform_contract: '0x3AeF8e803BD9be47e69b9f36487748d30D940b96'

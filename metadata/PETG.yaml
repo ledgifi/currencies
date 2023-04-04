@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x09607078980cbb0665aba9c6d1b84b8ead246aa0'
+    platform: BNB
 crypto: true
 fiat: false
 id: PETG
 id_coinmarketcap: '11505'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11505.png
 name: Pet Games
-platform: BNB
-platform_contract: '0x09607078980cbb0665aba9c6d1b84b8ead246aa0'

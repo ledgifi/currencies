@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136'
+    platform: AVAX
 crypto: true
 fiat: false
 id: BRIBE1
 id_coinmarketcap: '18034'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18034.png
 name: Police & Thief Game
-platform: AVAX
-platform_contract: '0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136'

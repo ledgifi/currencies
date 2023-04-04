@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbee554dbbc677eb9fb711f5e939a2f2302598c75'
+    platform: BNB
 crypto: true
 fiat: false
 id: ALGOP
 id_coinmarketcap: '9614'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9614.png
 name: AlgoPainter
-platform: BNB
-platform_contract: '0xbee554dbbc677eb9fb711f5e939a2f2302598c75'

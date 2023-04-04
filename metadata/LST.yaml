@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x019992270e95b800671d3bc1d763E07e489687B2'
+    platform: BNB
 crypto: true
 fiat: false
 id: LST
 id_coinmarketcap: '23059'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23059.png
 name: Lovely Swap
-platform: BNB
-platform_contract: '0x019992270e95b800671d3bc1d763E07e489687B2'

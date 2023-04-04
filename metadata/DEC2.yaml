@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x89c6c856a6db3e46107163d0cda7a7ff211bd655'
+    platform: ETH
 crypto: true
 fiat: false
 id: DEC2
 id_coinmarketcap: '3376'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3376.png
 name: Darico Ecosystem Coin
-platform: ETH
-platform_contract: '0x89c6c856a6db3e46107163d0cda7a7ff211bd655'

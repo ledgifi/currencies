@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe39e2861AE9a45FA321c1B0155D2f99196b2A992'
+    platform: BNB
 crypto: true
 fiat: false
 id: ELOIN
 id_coinmarketcap: '11331'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11331.png
 name: Eloin
-platform: BNB
-platform_contract: '0xe39e2861AE9a45FA321c1B0155D2f99196b2A992'

@@ -1,3 +1,6 @@
+contracts:
+  - address: CAN-677
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: CAN
 logo: https://bin.bnbstatic.com/images/20191211/a2297c15-43fe-411b-8d29-3c8ef60f8708.png
 logoKey: currencies/can.png
 name: CanYaCoin
-platform: BNB
-platform_contract: CAN-677

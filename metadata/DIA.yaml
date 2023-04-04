@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: DIA
 logo: https://bin.bnbstatic.com/images/20200902/cb2cc5d2-312f-483a-8a7d-3de60e4e7840.png
 logoKey: currencies/dia.png
 name: DIA
-platform: ETH
-platform_contract: '0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419'

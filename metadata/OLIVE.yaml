@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x617724974218A18769020A70162165A539c07E8a'
+    platform: BNB
 crypto: true
 fiat: false
 id: OLIVE
 id_coinmarketcap: '10685'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10685.png
 name: Olive Cash
-platform: BNB
-platform_contract: '0x617724974218A18769020A70162165A539c07E8a'

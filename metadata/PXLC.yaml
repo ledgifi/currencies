@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x72d2946094e6e57c2fade4964777a9af2b7a51f9'
+    platform: BNB
 crypto: true
 fiat: false
 id: PXLC
 id_coinmarketcap: '13426'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13426.png
 name: Pixl Coin
-platform: BNB
-platform_contract: '0x72d2946094e6e57c2fade4964777a9af2b7a51f9'

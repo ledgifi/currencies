@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb7148ae5745f4753673511b1315d6089e64d83d1'
+    platform: BNB
 crypto: true
 fiat: false
 id: CTH1
 id_coinmarketcap: '11513'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11513.png
 name: Crypto Hounds
-platform: BNB
-platform_contract: '0xb7148ae5745f4753673511b1315d6089e64d83d1'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x42d6622dece394b54999fbd73d108123806f6a18'
+    platform: ETH
 crypto: true
 fiat: false
 id: SPANK
 id_coinmarketcap: '2219'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2219.png
 name: SpankChain
-platform: ETH
-platform_contract: '0x42d6622dece394b54999fbd73d108123806f6a18'

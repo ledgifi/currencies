@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xfa1fbb8ef55a4855e5688c0ee13ac3f202486286'
+    platform: FTM
 crypto: true
 fiat: false
 id: FHM
@@ -6,5 +9,3 @@ id_nomics: FHM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FHM.jpeg
 logoKey: currencies/fhm.jpeg
 name: FantOHM DAO
-platform: FTM
-platform_contract: '0xfa1fbb8ef55a4855e5688c0ee13ac3f202486286'

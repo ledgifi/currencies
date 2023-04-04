@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2f4FC16308Be09e7611a047B9576881Eb5298dD6'
+    platform: AVAX
 crypto: true
 fiat: false
 id: BURN4
 id_coinmarketcap: '18441'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18441.png
 name: Snow Burn
-platform: AVAX
-platform_contract: '0x2f4FC16308Be09e7611a047B9576881Eb5298dD6'

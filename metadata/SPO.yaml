@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8357c604c5533fa0053beaaa1494da552cea38f7'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPO
 id_coinmarketcap: '11110'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11110.png
 name: Spores Network
-platform: BNB
-platform_contract: '0x8357c604c5533fa0053beaaa1494da552cea38f7'

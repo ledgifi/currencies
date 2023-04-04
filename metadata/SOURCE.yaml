@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7118057ff0F4Fd0994fb9d2D94de8231d5cca79E'
+    platform: ETH
 crypto: true
 fiat: false
 id: SOURCE
 id_coinmarketcap: '15013'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15013.png
 name: ReSource Protocol
-platform: ETH
-platform_contract: '0x7118057ff0F4Fd0994fb9d2D94de8231d5cca79E'

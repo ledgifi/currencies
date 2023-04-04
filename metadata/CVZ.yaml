@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6fBB278C4eaa5218495a1858447B26D905ac0010'
+    platform: BNB
 crypto: true
 fiat: false
 id: CVZ
 id_coinmarketcap: '14901'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14901.png
 name: CryptoVsZombie
-platform: BNB
-platform_contract: '0x6fBB278C4eaa5218495a1858447B26D905ac0010'

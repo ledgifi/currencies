@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x90df11a8cce420675e73922419e3f4f3fe13cccb'
+    platform: BNB
 crypto: true
 fiat: false
 id: STM
 id_coinmarketcap: '5046'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5046.png
 name: Streamity
-platform: BNB
-platform_contract: '0x90df11a8cce420675e73922419e3f4f3fe13cccb'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3aaDA3e213aBf8529606924d8D1c55CbDc70Bf74'
+    platform: ETH
 crypto: true
 fiat: false
 id: XMON
 id_coinmarketcap: '8509'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8509.png
 name: XMON
-platform: ETH
-platform_contract: '0x3aaDA3e213aBf8529606924d8D1c55CbDc70Bf74'

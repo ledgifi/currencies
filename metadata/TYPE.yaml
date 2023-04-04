@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xeaf61fc150cd5c3bea75744e830d916e60ea5a9f'
+    platform: ETH
 crypto: true
 fiat: false
 id: TYPE
 id_coinmarketcap: '3505'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3505.png
 name: Typerium
-platform: ETH
-platform_contract: '0xeaf61fc150cd5c3bea75744e830d916e60ea5a9f'

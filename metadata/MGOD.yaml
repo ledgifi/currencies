@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x10A12969cB08a8d88D4BFB5d1FA317d41e0fdab3'
+    platform: BNB
 crypto: true
 fiat: false
 id: MGOD
 id_coinmarketcap: '16091'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16091.png
 name: MetaGods
-platform: BNB
-platform_contract: '0x10A12969cB08a8d88D4BFB5d1FA317d41e0fdab3'

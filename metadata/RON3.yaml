@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfc111b40ad299572f74f1c119c036508c621bb19'
+    platform: BNB
 crypto: true
 fiat: false
 id: RON3
 id_coinmarketcap: '13516'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13516.png
 name: Rocket Raccoon
-platform: BNB
-platform_contract: '0xfc111b40ad299572f74f1c119c036508c621bb19'

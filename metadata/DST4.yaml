@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa128a6216a8e8def817a31a06290f8055d6add2f'
+    platform: BNB
 crypto: true
 fiat: false
 id: DST4
 id_coinmarketcap: '19928'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19928.png
 name: DoctorS Token
-platform: BNB
-platform_contract: '0xa128a6216a8e8def817a31a06290f8055d6add2f'

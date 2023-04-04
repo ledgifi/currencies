@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7f4f3bc4a5634454398580b9112b7e493e2129fa'
+    platform: BNB
 crypto: true
 fiat: false
 id: KODI1
 id_coinmarketcap: '12270'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12270.png
 name: Kodi
-platform: BNB
-platform_contract: '0x7f4f3bc4a5634454398580b9112b7e493e2129fa'

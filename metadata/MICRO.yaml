@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbe6c8f2810ef39420d2dc2901b8414c8c45fee6d'
+    platform: ETH
 crypto: true
 fiat: false
 id: MICRO
 id_coinmarketcap: '3610'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3610.png
 name: Micromines
-platform: ETH
-platform_contract: '0xbe6c8f2810ef39420d2dc2901b8414c8c45fee6d'

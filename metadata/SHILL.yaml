@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHILL
@@ -7,5 +10,3 @@ id_nomics: SHILL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHILL.jpg
 logoKey: currencies/shill.jpg
 name: Shill Token
-platform: BNB
-platform_contract: '0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE'

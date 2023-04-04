@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x215592aBD8AA3900925Eb40bA4492A5eFd761951'
+    platform: BNB
 crypto: true
 fiat: false
 id: RUFFY
 id_coinmarketcap: '15636'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15636.png
 name: Ruffy Coin
-platform: BNB
-platform_contract: '0x215592aBD8AA3900925Eb40bA4492A5eFd761951'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7b8274ccecd5bbcfe18958c3db6471c5e3e1fbbf'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHWA
 id_coinmarketcap: '12944'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12944.png
 name: ShibaWallet
-platform: BNB
-platform_contract: '0x7b8274ccecd5bbcfe18958c3db6471c5e3e1fbbf'

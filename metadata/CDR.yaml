@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf5930e4a767657e547c621f6c05b108b1e721614'
+    platform: BNB
 crypto: true
 fiat: false
 id: CDR
 id_coinmarketcap: '22232'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22232.png
 name: CondorChain
-platform: BNB
-platform_contract: '0xf5930e4a767657e547c621f6c05b108b1e721614'

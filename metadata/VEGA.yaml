@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e'
+    platform: ETH
 crypto: true
 fiat: false
 id: VEGA
 id_coinmarketcap: '10223'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10223.png
 name: Vega Protocol
-platform: ETH
-platform_contract: '0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e'

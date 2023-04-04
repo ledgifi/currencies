@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf344490abd414dafa97f34c8ca501b0aa5bf8873'
+    platform: ETH
 crypto: true
 fiat: false
 id: WEB
 id_coinmarketcap: '3027'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3027.png
 name: Webcoin
-platform: ETH
-platform_contract: '0xf344490abd414dafa97f34c8ca501b0aa5bf8873'

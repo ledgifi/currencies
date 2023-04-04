@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xebc148d40313be9c9f214d3beb9f2ddebec0ec52'
+    platform: BNB
 crypto: true
 fiat: false
 id: STAI
 id_coinmarketcap: '23647'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23647.png
 name: StereoAI
-platform: BNB
-platform_contract: '0xebc148d40313be9c9f214d3beb9f2ddebec0ec52'

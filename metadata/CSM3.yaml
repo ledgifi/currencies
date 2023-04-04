@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd8698a985b89650d0a70f99ad2909bd0c0b4b51c'
+    platform: ETH
 crypto: true
 fiat: false
 id: CSM3
 id_coinmarketcap: '2981'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2981.png
 name: Consentium
-platform: ETH
-platform_contract: '0xd8698a985b89650d0a70f99ad2909bd0c0b4b51c'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7D5bc7796fD62a9A27421198fc3c349B96cDD9Dc'
+    platform: BNB
 crypto: true
 fiat: false
 id: MEL1
 id_coinmarketcap: '9795'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9795.png
 name: Caramel Swap
-platform: BNB
-platform_contract: '0x7D5bc7796fD62a9A27421198fc3c349B96cDD9Dc'

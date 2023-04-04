@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x39d30828a163713d91c4eadbba2c497a9139ec5c'
+    platform: ETH
 crypto: true
 fiat: false
 id: HBDC
 id_coinmarketcap: '6542'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6542.png
 name: happy birthday coin
-platform: ETH
-platform_contract: '0x39d30828a163713d91c4eadbba2c497a9139ec5c'

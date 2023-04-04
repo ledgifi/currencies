@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1bD8F7db38E3657b072c8F214CB83fbD7b99D46c'
+    platform: BNB
 crypto: true
 fiat: false
 id: MOVX
 id_coinmarketcap: '20459'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20459.png
 name: MoveX
-platform: BNB
-platform_contract: '0x1bD8F7db38E3657b072c8F214CB83fbD7b99D46c'

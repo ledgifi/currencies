@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf94ca0b303e52d68b63626bed7f680fa4dc3f779'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOG2
 id_coinmarketcap: '8818'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8818.png
 name: UnderDog
-platform: BNB
-platform_contract: '0xf94ca0b303e52d68b63626bed7f680fa4dc3f779'

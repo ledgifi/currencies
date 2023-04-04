@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x50f72b83a5ad59ad71c28e2e4b58c73740e2168c'
+    platform: BNB
 crypto: true
 fiat: false
 id: AKL
 id_coinmarketcap: '15964'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15964.png
 name: Akil Coin
-platform: BNB
-platform_contract: '0x50f72b83a5ad59ad71c28e2e4b58c73740e2168c'

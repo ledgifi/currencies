@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xDBc68862a8880C0c4693A920BD1e461f07F6262e'
+    platform: BNB
 crypto: true
 fiat: false
 id: MAGGOT
 id_coinmarketcap: '13828'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13828.png
 name: Maggot
-platform: BNB
-platform_contract: '0xDBc68862a8880C0c4693A920BD1e461f07F6262e'

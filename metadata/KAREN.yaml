@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfd42728b76772a82ccad527e298dd15a55f4ddd6'
+    platform: BNB
 crypto: true
 fiat: false
 id: KAREN
 id_coinmarketcap: '10378'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10378.png
 name: KarenCoin
-platform: BNB
-platform_contract: '0xfd42728b76772a82ccad527e298dd15a55f4ddd6'

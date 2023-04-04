@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0944d5848bd9f60a34ba92aea300d4286696eb76'
+    platform: ETH
 crypto: true
 fiat: false
 id: PLT1
 id_coinmarketcap: '16272'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16272.png
 name: PLT
-platform: ETH
-platform_contract: '0x0944d5848bd9f60a34ba92aea300d4286696eb76'

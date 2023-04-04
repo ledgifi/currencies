@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x3496b523e5c00a4b4150d6721320cddb234c3079'
+    platform: ETH
 crypto: true
 fiat: false
 id: NUM
@@ -6,5 +9,3 @@ id_nomics: NUM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NUM.jpg
 logoKey: currencies/num.jpg
 name: Numbers Protocol
-platform: ETH
-platform_contract: '0x3496b523e5c00a4b4150d6721320cddb234c3079'

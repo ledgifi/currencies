@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x45d0749A4E355495c675673D4f3B36A67aA08046'
+    platform: ETH
 crypto: true
 fiat: false
 id: AKC
 id_coinmarketcap: '19730'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19730.png
 name: Alpha Kongs Club
-platform: ETH
-platform_contract: '0x45d0749A4E355495c675673D4f3B36A67aA08046'

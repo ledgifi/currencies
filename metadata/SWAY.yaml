@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x262b8aa7542004f023b0eb02bc6b96350a02b728'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SWAY
 id_coinmarketcap: '12609'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12609.png
 name: Sway Social
-platform: MATIC
-platform_contract: '0x262b8aa7542004f023b0eb02bc6b96350a02b728'

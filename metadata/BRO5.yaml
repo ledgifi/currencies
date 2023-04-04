@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x77B31b2920ac297A5aFb3cc25D1Ab096847b1a80'
+    platform: BNB
 crypto: true
 fiat: false
 id: BRO5
 id_coinmarketcap: '21879'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21879.png
 name: Bird Bro
-platform: BNB
-platform_contract: '0x77B31b2920ac297A5aFb3cc25D1Ab096847b1a80'

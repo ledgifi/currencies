@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x69c5175caf290Fa5746a8c980FaeAf88a028b37E'
+    platform: BNB
 crypto: true
 fiat: false
 id: HDF
 id_coinmarketcap: '22425'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22425.png
 name: Happy Duck Farm
-platform: BNB
-platform_contract: '0x69c5175caf290Fa5746a8c980FaeAf88a028b37E'

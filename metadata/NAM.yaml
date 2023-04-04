@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x05984006707585f66465e8a6505341f46b64fa7a'
+    platform: ETH
 crypto: true
 fiat: false
 id: NAM
 id_coinmarketcap: '3069'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3069.png
 name: NAM COIN
-platform: ETH
-platform_contract: '0x05984006707585f66465e8a6505341f46b64fa7a'

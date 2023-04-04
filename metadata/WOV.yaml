@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x170F4BA8e7ACF6510f55dB26047C83D13498AF8A'
+    platform: VET
 crypto: true
 fiat: false
 id: WOV
 id_coinmarketcap: '24202'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24202.png
 name: World of V
-platform: VET
-platform_contract: '0x170F4BA8e7ACF6510f55dB26047C83D13498AF8A'

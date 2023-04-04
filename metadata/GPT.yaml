@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd04e772bc0d591fbd288f2e2a86afa3d3cb647f8'
+    platform: ETH
 crypto: true
 fiat: false
 id: GPT
 id_coinmarketcap: '23846'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23846.png
 name: CryptoGPT
-platform: ETH
-platform_contract: '0xd04e772bc0d591fbd288f2e2a86afa3d3cb647f8'

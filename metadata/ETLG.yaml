@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1F7d905c0c495DcA4C9E859c313b29179D272cA1'
+    platform: BNB
 crypto: true
 fiat: false
 id: ETLG
 id_coinmarketcap: '20677'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20677.png
 name: Earthling
-platform: BNB
-platform_contract: '0x1F7d905c0c495DcA4C9E859c313b29179D272cA1'

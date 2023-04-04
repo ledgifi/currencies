@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2F25d402829cA4085B8Ea4D3BC68Bf203F5a9faB'
+    platform: BNB
 crypto: true
 fiat: false
 id: EAGON
 id_coinmarketcap: '14585'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14585.png
 name: EagonSwap Token
-platform: BNB
-platform_contract: '0x2F25d402829cA4085B8Ea4D3BC68Bf203F5a9faB'

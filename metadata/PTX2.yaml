@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x988ce53ca8d210430d4a9af0DF4b7dD107A50Db6'
+    platform: BNB
 crypto: true
 fiat: false
 id: PTX2
 id_coinmarketcap: '22280'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22280.png
 name: ProtocolX
-platform: BNB
-platform_contract: '0x988ce53ca8d210430d4a9af0DF4b7dD107A50Db6'

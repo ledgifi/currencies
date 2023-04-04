@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdfd5bb6ce8716822b2c9b255560194ca3509bebc'
+    platform: ETH
 crypto: true
 fiat: false
 id: VICEX
 id_coinmarketcap: '11187'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11187.png
 name: ViceToken
-platform: ETH
-platform_contract: '0xdfd5bb6ce8716822b2c9b255560194ca3509bebc'

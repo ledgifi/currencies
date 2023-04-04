@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xC08512927D12348F6620a698105e1BAac6EcD911'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: GYEN
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210512/7232a3a3-2683-465d-a7eb-baa9a99cdd0e.png
 logoKey: currencies/gyen.png
 name: GYEN
-platform: ETH
-platform_contract: '0xC08512927D12348F6620a698105e1BAac6EcD911'

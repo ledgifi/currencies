@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x325956bd5491fa4aefec665c028d4bca5acfdd1d'
+    platform: BNB
 crypto: true
 fiat: false
 id: STARLINKDOGE
 id_coinmarketcap: '10871'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10871.png
 name: Baby Starlink Doge
-platform: BNB
-platform_contract: '0x325956bd5491fa4aefec665c028d4bca5acfdd1d'

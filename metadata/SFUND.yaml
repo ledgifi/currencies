@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x477bc8d23c634c154061869478bce96be6045d12'
+    platform: BNB
 crypto: true
 fiat: false
 id: SFUND
@@ -7,5 +10,3 @@ id_nomics: SFUND
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFUND.jpg
 logoKey: currencies/sfund.jpg
 name: Seedify.fund
-platform: BNB
-platform_contract: '0x477bc8d23c634c154061869478bce96be6045d12'

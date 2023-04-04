@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9f59E79127fAD40bBC26c1eC6578d345AF40bD1f'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHF2
 id_coinmarketcap: '22203'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22203.png
 name: SpookyHalloweenFloki
-platform: BNB
-platform_contract: '0x9f59E79127fAD40bBC26c1eC6578d345AF40bD1f'

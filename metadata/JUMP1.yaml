@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x130025ee738a66e691e6a7a62381cb33c6d9ae83'
+    platform: BNB
 crypto: true
 fiat: false
 id: JUMP1
 id_coinmarketcap: '14658'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14658.png
 name: HyperJump
-platform: BNB
-platform_contract: '0x130025ee738a66e691e6a7a62381cb33c6d9ae83'

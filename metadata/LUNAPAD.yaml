@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xD1FdF57241df3C36dad469060caC9f1ea2eE7585'
+    platform: BNB
 crypto: true
 fiat: false
 id: LUNAPAD
 id_coinmarketcap: '13633'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13633.png
 name: Luna-Pad
-platform: BNB
-platform_contract: '0xD1FdF57241df3C36dad469060caC9f1ea2eE7585'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfbe777A4376d0A7E1892162a7daAd190D7f091bA'
+    platform: BNB
 crypto: true
 fiat: false
 id: WEMP
 id_coinmarketcap: '12624'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12624.png
 name: Women Empowerment Token
-platform: BNB
-platform_contract: '0xfbe777A4376d0A7E1892162a7daAd190D7f091bA'

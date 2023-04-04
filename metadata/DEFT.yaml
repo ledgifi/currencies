@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe1e0db951844e7fb727574d7daca68d1c5d1525b'
+    platform: ETH
 crypto: true
 fiat: false
 id: DEFT
 id_coinmarketcap: '4536'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4536.png
 name: DEFLAT COIN
-platform: ETH
-platform_contract: '0xe1e0db951844e7fb727574d7daca68d1c5d1525b'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4aCE2020Ba93E393CdB128779Af1CDfD935E8918'
+    platform: BNB
 crypto: true
 fiat: false
 id: BLG
 id_coinmarketcap: '15654'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15654.png
 name: Blue Gold
-platform: BNB
-platform_contract: '0x4aCE2020Ba93E393CdB128779Af1CDfD935E8918'

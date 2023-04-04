@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfc5b4e43ef685b03856233194da49dd24438b3d9'
+    platform: BNB
 crypto: true
 fiat: false
 id: META9
 id_coinmarketcap: '13863'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13863.png
 name: META TOKEN
-platform: BNB
-platform_contract: '0xfc5b4e43ef685b03856233194da49dd24438b3d9'

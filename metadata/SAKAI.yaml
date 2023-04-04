@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x43B35e89d15B91162Dea1C51133C4c93bdd1C4aF'
+    platform: BNB
 crypto: true
 fiat: false
 id: SAKAI
 id_coinmarketcap: '23577'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23577.png
 name: Sakai Vault
-platform: BNB
-platform_contract: '0x43B35e89d15B91162Dea1C51133C4c93bdd1C4aF'

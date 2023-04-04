@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9996a0b4d0d7ed1b7e41ad08bdc4acb198e232a9'
+    platform: ETH
 crypto: true
 fiat: false
 id: REGI
 id_coinmarketcap: '4669'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4669.png
 name: Regium
-platform: ETH
-platform_contract: '0x9996a0b4d0d7ed1b7e41ad08bdc4acb198e232a9'

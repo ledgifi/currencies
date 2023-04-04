@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe558a2d2014f16e96a23b2c4ee49c2e7a0faa9af'
+    platform: BNB
 crypto: true
 fiat: false
 id: MTS7
 id_coinmarketcap: '19125'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19125.png
 name: Meta Shark
-platform: BNB
-platform_contract: '0xe558a2d2014f16e96a23b2c4ee49c2e7a0faa9af'

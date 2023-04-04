@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa5331BB3a3f1e1cB98ba8160176569AC0a80e61D'
+    platform: BNB
 crypto: true
 fiat: false
 id: CTS
 id_coinmarketcap: '23560'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23560.png
 name: Cats Coin
-platform: BNB
-platform_contract: '0xa5331BB3a3f1e1cB98ba8160176569AC0a80e61D'

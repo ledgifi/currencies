@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x30ea7c369b87fe261de28a1eefafe806696a738b'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOX1
 id_coinmarketcap: '12348'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12348.png
 name: Doxxed
-platform: BNB
-platform_contract: '0x30ea7c369b87fe261de28a1eefafe806696a738b'

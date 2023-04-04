@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7ed31E24C67971647168502cC7bBb3D4983EE7eA'
+    platform: BNB
 crypto: true
 fiat: false
 id: YRT
 id_coinmarketcap: '14598'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14598.png
 name: YearRise
-platform: BNB
-platform_contract: '0x7ed31E24C67971647168502cC7bBb3D4983EE7eA'

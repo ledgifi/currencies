@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4352e74a8c3be2a0648e090437027af253425036'
+    platform: BNB
 crypto: true
 fiat: false
 id: PLAYR
 id_coinmarketcap: '16189'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16189.png
 name: Players.Art
-platform: BNB
-platform_contract: '0x4352e74a8c3be2a0648e090437027af253425036'

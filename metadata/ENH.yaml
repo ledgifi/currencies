@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCb6a0c342e0968b3D4AC0C90b8da4edBA74f0385'
+    platform: BNB
 crypto: true
 fiat: false
 id: ENH
 id_coinmarketcap: '17779'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17779.png
 name: Enhance
-platform: BNB
-platform_contract: '0xCb6a0c342e0968b3D4AC0C90b8da4edBA74f0385'

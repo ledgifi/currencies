@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xAf98e6c2D3b520F4e9b3D7ea22ad7AeFFFDbc2fd'
+    platform: BNB
 crypto: true
 fiat: false
 id: WENTXN
 id_coinmarketcap: '21667'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21667.png
 name: RatBoy BSC
-platform: BNB
-platform_contract: '0xAf98e6c2D3b520F4e9b3D7ea22ad7AeFFFDbc2fd'

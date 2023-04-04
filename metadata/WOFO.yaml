@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcfae931A56aBa505893f2A7681CBB07799078054'
+    platform: BNB
 crypto: true
 fiat: false
 id: WOFO
 id_coinmarketcap: '21302'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21302.png
 name: World Football
-platform: BNB
-platform_contract: '0xcfae931A56aBa505893f2A7681CBB07799078054'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7472E4F397E46eB371Fe4C8E078CFDa46D72415F'
+    platform: BNB
 crypto: true
 fiat: false
 id: GRM1
 id_coinmarketcap: '12406'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12406.png
 name: GreenMoon
-platform: BNB
-platform_contract: '0x7472E4F397E46eB371Fe4C8E078CFDa46D72415F'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195'
+    platform: ETH
 crypto: true
 fiat: false
 id: EQMT
 id_coinmarketcap: '6572'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6572.png
 name: Equus Mining Token
-platform: ETH
-platform_contract: '0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195'

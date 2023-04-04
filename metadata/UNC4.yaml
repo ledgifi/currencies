@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x77C54B5f495016CCDbC20A52a9D3F421aF21B04D'
+    platform: BNB
 crypto: true
 fiat: false
 id: UNC4
 id_coinmarketcap: '19807'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19807.png
 name: Uncharted
-platform: BNB
-platform_contract: '0x77C54B5f495016CCDbC20A52a9D3F421aF21B04D'

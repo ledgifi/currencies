@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf0f3b9Eee32b1F490A4b8720cf6F005d4aE9eA86'
+    platform: AURORA
 crypto: true
 fiat: false
 id: POLAR3
 id_coinmarketcap: '18772'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18772.png
 name: Polaris Finance
-platform: AURORA
-platform_contract: '0xf0f3b9Eee32b1F490A4b8720cf6F005d4aE9eA86'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3f9bec82c776c47405bcb38070d2395fd18f89d3'
+    platform: ETH
 crypto: true
 fiat: false
 id: PHM
 id_coinmarketcap: '11697'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11697.png
 name: Phantom Protocol
-platform: ETH
-platform_contract: '0x3f9bec82c776c47405bcb38070d2395fd18f89d3'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x488E0369f9BC5C40C002eA7c1fe4fd01A198801c'
+    platform: ETH
 crypto: true
 fiat: false
 id: GOF
 id_coinmarketcap: '7034'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7034.png
 name: Golff
-platform: ETH
-platform_contract: '0x488E0369f9BC5C40C002eA7c1fe4fd01A198801c'

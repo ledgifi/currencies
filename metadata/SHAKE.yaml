@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6006fc2a849fedaba8330ce36f5133de01f96189'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHAKE
 id_coinmarketcap: '7390'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7390.png
 name: Spaceswap SHAKE
-platform: ETH
-platform_contract: '0x6006fc2a849fedaba8330ce36f5133de01f96189'

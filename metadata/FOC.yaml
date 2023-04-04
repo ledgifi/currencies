@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3051CFb958dcD408FBa70256073Adba943Fdf552'
+    platform: BNB
 crypto: true
 fiat: false
 id: FOC
 id_coinmarketcap: '9259'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9259.png
 name: TheForce Trade
-platform: BNB
-platform_contract: '0x3051CFb958dcD408FBa70256073Adba943Fdf552'

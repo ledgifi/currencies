@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xea1f61c0b57f36da3f6e7365898b1a63227455d5'
+    platform: BNB
 crypto: true
 fiat: false
 id: BGO
 id_coinmarketcap: '17470'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17470.png
 name: Bipgo
-platform: BNB
-platform_contract: '0xea1f61c0b57f36da3f6e7365898b1a63227455d5'

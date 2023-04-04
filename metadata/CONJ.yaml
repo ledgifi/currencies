@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x471ae8201d8ebcd4411dd02a7091b00829995a44'
+    platform: BNB
 crypto: true
 fiat: false
 id: CONJ
 id_coinmarketcap: '16412'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16412.png
 name: Conjee
-platform: BNB
-platform_contract: '0x471ae8201d8ebcd4411dd02a7091b00829995a44'

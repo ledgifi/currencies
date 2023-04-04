@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf47f9448d4765bBeDCFAF57A6403EE0e48E0E158'
+    platform: BNB
 crypto: true
 fiat: false
 id: PUB
 id_coinmarketcap: '23127'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23127.png
 name: PinHub
-platform: BNB
-platform_contract: '0xf47f9448d4765bBeDCFAF57A6403EE0e48E0E158'

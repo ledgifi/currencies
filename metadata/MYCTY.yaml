@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4b20bd1B722de78330037F6d7BFd13C1ed3e30ad'
+    platform: BNB
 crypto: true
 fiat: false
 id: MYCTY
 id_coinmarketcap: '16281'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16281.png
 name: My Crypto City
-platform: BNB
-platform_contract: '0x4b20bd1B722de78330037F6d7BFd13C1ed3e30ad'

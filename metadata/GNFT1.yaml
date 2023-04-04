@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd32af8bee4095a84e258a82b512356dfc0a7d2c0'
+    platform: BNB
 crypto: true
 fiat: false
 id: GNFT1
 id_coinmarketcap: '11489'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11489.png
 name: GameNFT
-platform: BNB
-platform_contract: '0xd32af8bee4095a84e258a82b512356dfc0a7d2c0'

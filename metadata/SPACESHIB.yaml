@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd95Ef50d1EddD977765D8A370A7e464Fc46Cb4a9'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPACESHIB
 id_coinmarketcap: '19971'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19971.png
 name: SpaceSHIB
-platform: BNB
-platform_contract: '0xd95Ef50d1EddD977765D8A370A7e464Fc46Cb4a9'

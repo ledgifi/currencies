@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9A271E3748F59222f5581BaE2540dAa5806b3F77'
+    platform: TLOS
 crypto: true
 fiat: false
 id: ZAP1
 id_coinmarketcap: '18284'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18284.png
 name: Zappy
-platform: TLOS
-platform_contract: '0x9A271E3748F59222f5581BaE2540dAa5806b3F77'

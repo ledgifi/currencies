@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1de852cd18323bc5ebda842b8eef46c6e551aa47'
+    platform: ETH
 crypto: true
 fiat: false
 id: HIRENGA
 id_coinmarketcap: '23449'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23449.png
 name: hiRENGA
-platform: ETH
-platform_contract: '0x1de852cd18323bc5ebda842b8eef46c6e551aa47'

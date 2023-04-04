@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd5281bb2d1ee94866b03a0fccdd4e900c8cb5091'
+    platform: ETH
 crypto: true
 fiat: false
 id: HUSKY1
 id_coinmarketcap: '9387'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9387.png
 name: Husky
-platform: ETH
-platform_contract: '0xd5281bb2d1ee94866b03a0fccdd4e900c8cb5091'

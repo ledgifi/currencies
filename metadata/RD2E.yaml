@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x66E1e0EA96aBB155932aF031d41Bf1F21b235958'
+    platform: BNB
 crypto: true
 fiat: false
 id: RD2E
 id_coinmarketcap: '20260'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20260.png
 name: Ride To Earn
-platform: BNB
-platform_contract: '0x66E1e0EA96aBB155932aF031d41Bf1F21b235958'

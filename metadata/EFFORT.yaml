@@ -1,8 +1,9 @@
+contracts:
+  - address: EFFORT-a13513
+    platform: EGLD
 crypto: true
 fiat: false
 id: EFFORT
 id_coinmarketcap: '20097'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20097.png
 name: Effort Economy
-platform: EGLD
-platform_contract: EFFORT-a13513

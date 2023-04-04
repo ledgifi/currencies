@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3a529a8d4f2ea64d206339fa12a3af4d431f53c3'
+    platform: ETH
 crypto: true
 fiat: false
 id: VEN2
 id_coinmarketcap: '21171'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21171.png
 name: Vendetta Finance
-platform: ETH
-platform_contract: '0x3a529a8d4f2ea64d206339fa12a3af4d431f53c3'

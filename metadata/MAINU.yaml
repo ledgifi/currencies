@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4acbcf7178fc030adf9888997ed4d89b9030def6'
+    platform: ARB
 crypto: true
 fiat: false
 id: MAINU
 id_coinmarketcap: '23645'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23645.png
 name: Magic Inu
-platform: ARB
-platform_contract: '0x4acbcf7178fc030adf9888997ed4d89b9030def6'

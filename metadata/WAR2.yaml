@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf4a81c18816c9b0ab98fac51b36dcb63b0e58fde'
+    platform: ETH
 crypto: true
 fiat: false
 id: WAR2
 id_coinmarketcap: '7251'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7251.png
 name: YieldWars
-platform: ETH
-platform_contract: '0xf4a81c18816c9b0ab98fac51b36dcb63b0e58fde'

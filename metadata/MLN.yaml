@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xec67005c4e498ec7f55e092bd1d35cbc47c91892'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: MLN
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/c8ac8a3f-925c-4a03-8d7e-034e8c4a86f4.png
 logoKey: currencies/mln.png
 name: Enzyme
-platform: ETH
-platform_contract: '0xec67005c4e498ec7f55e092bd1d35cbc47c91892'

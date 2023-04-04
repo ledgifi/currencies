@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6f222E04F6c53Cc688FfB0Abe7206aAc66A8FF98'
+    platform: ETH
 crypto: true
 fiat: false
 id: ROKO
 id_coinmarketcap: '23922'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23922.png
 name: Roko
-platform: ETH
-platform_contract: '0x6f222E04F6c53Cc688FfB0Abe7206aAc66A8FF98'

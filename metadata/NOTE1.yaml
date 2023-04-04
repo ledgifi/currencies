@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4e71a2e537b7f9d9413d3991d37958c0b5e1e503'
+    platform: CANTO
 crypto: true
 fiat: false
 id: NOTE1
 id_coinmarketcap: '21540'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21540.png
 name: Note
-platform: CANTO
-platform_contract: '0x4e71a2e537b7f9d9413d3991d37958c0b5e1e503'

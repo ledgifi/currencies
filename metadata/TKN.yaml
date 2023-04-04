@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaaaf91d9b90df800df4f55c205fd6989c977e73a'
+    platform: ETH
 crypto: true
 fiat: false
 id: TKN
 id_coinmarketcap: '1660'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1660.png
 name: Monolith
-platform: ETH
-platform_contract: '0xaaaf91d9b90df800df4f55c205fd6989c977e73a'

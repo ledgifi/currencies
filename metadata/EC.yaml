@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x12fd19dac0fab61bed5e0f09091b470c452d4d61'
+    platform: ETH
 crypto: true
 fiat: false
 id: EC
 id_coinmarketcap: '4695'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4695.png
 name: Echoin
-platform: ETH
-platform_contract: '0x12fd19dac0fab61bed5e0f09091b470c452d4d61'

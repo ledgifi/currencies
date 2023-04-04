@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x05385abD2a95a8cd9B696F738aed73f1AFbc12E0'
+    platform: ETH
 crypto: true
 fiat: false
 id: FOMP
 id_coinmarketcap: '7936'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7936.png
 name: FOMPOUND
-platform: ETH
-platform_contract: '0x05385abD2a95a8cd9B696F738aed73f1AFbc12E0'

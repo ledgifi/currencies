@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x7BD82B320EbC28D8EB3C4F5Fa2af7B14dA5b90C3'
+    platform: ETH
 crypto: true
 fiat: false
 id: MOZ
@@ -7,5 +10,3 @@ id_nomics: MOZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOZ.jpg
 logoKey: currencies/moz.jpg
 name: Mozik Token
-platform: ETH
-platform_contract: '0x7BD82B320EbC28D8EB3C4F5Fa2af7B14dA5b90C3'

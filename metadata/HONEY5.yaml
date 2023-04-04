@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0f131f75e945cda74a75aa2b260ed5eb8fd20480'
+    platform: BNB
 crypto: true
 fiat: false
 id: HONEY5
 id_coinmarketcap: '17036'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17036.png
 name: 6DayHoneypot
-platform: BNB
-platform_contract: '0x0f131f75e945cda74a75aa2b260ed5eb8fd20480'

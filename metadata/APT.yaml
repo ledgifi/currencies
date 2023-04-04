@@ -1,3 +1,6 @@
+contracts:
+  - address: 0x1::aptos_coin::AptosCoin
+    platform: APT
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: APTOS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APT.png
 logoKey: currencies/apt.png
 name: Aptos
-platform: APT
-platform_contract: 0x1::aptos_coin::AptosCoin

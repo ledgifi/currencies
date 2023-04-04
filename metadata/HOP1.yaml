@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x984811e6f2695192add6f88615dF637bf52a5Cae'
+    platform: BNB
 crypto: true
 fiat: false
 id: HOP1
 id_coinmarketcap: '10050'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10050.png
 name: HOPPY
-platform: BNB
-platform_contract: '0x984811e6f2695192add6f88615dF637bf52a5Cae'

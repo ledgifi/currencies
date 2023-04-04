@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdab8c8776a4041415a60ed6b339d8e667cf2a934'
+    platform: ARB
 crypto: true
 fiat: false
 id: PERPI
 id_coinmarketcap: '22734'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22734.png
 name: Perp Inu
-platform: ARB
-platform_contract: '0xdab8c8776a4041415a60ed6b339d8e667cf2a934'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0371a82e4a9d0a4312f3ee2ac9c6958512891372'
+    platform: ETH
 crypto: true
 fiat: false
 id: STU
 id_coinmarketcap: '2180'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2180.png
 name: bitJob
-platform: ETH
-platform_contract: '0x0371a82e4a9d0a4312f3ee2ac9c6958512891372'

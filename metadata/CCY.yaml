@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb723783e0f9015c8E20b87F6CF7ae24dF6479e62'
+    platform: AVAX
 crypto: true
 fiat: false
 id: CCY
 id_coinmarketcap: '19906'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19906.png
 name: ChoccySwap
-platform: AVAX
-platform_contract: '0xb723783e0f9015c8E20b87F6CF7ae24dF6479e62'

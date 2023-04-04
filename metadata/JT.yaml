@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xEb7355C2f217b3485a591332Fe13C8c5A76A581D'
+    platform: ETH
 crypto: true
 fiat: false
 id: JT
 id_coinmarketcap: '6262'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6262.png
 name: Jubi Token
-platform: ETH
-platform_contract: '0xEb7355C2f217b3485a591332Fe13C8c5A76A581D'

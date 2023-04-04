@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0b1724cc9fda0186911ef6a75949e9c0d3f0f2f3'
+    platform: ETH
 crypto: true
 fiat: false
 id: RIYA
 id_coinmarketcap: '1890'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1890.png
 name: Etheriya
-platform: ETH
-platform_contract: '0x0b1724cc9fda0186911ef6a75949e9c0d3f0f2f3'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0B048D6e01a6b9002C291060bF2179938fd8264c'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ALPHA2
 id_coinmarketcap: '12179'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12179.png
 name: PolyAlpha Finance
-platform: MATIC
-platform_contract: '0x0B048D6e01a6b9002C291060bF2179938fd8264c'

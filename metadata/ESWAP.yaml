@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1b79708eea29900dbbbca8a5ae620ac741618ae4'
+    platform: BNB
 crypto: true
 fiat: false
 id: ESWAP
 id_coinmarketcap: '9567'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9567.png
 name: eSwapping
-platform: BNB
-platform_contract: '0x1b79708eea29900dbbbca8a5ae620ac741618ae4'

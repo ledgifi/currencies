@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8a0ba7B72Ea404C995818Ba5D6F0229E359e873C'
+    platform: BNB
 crypto: true
 fiat: false
 id: BonusFloki
 id_coinmarketcap: '13706'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13706.png
 name: Bonus Floki
-platform: BNB
-platform_contract: '0x8a0ba7B72Ea404C995818Ba5D6F0229E359e873C'

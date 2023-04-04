@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x638c8cf656fc166f1d09a232c89b5888dab57f23'
+    platform: BNB
 crypto: true
 fiat: false
 id: DEALDOUGH
 id_coinmarketcap: '10672'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10672.png
 name: DealDough Token
-platform: BNB
-platform_contract: '0x638c8cf656fc166f1d09a232c89b5888dab57f23'

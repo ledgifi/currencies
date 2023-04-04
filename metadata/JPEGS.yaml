@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5ddafa0856f883a634051dcb4dd710863d85a0c1'
+    platform: ETH
 crypto: true
 fiat: false
 id: JPEGS
 id_coinmarketcap: '17170'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17170.png
 name: IlliquidDAO
-platform: ETH
-platform_contract: '0x5ddafa0856f883a634051dcb4dd710863d85a0c1'

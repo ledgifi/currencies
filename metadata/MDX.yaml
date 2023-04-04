@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c'
+    platform: HT
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: MDX2
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210524/ecaec4e2-0760-436e-9df8-bf07e413a909.png
 logoKey: currencies/mdx.png
 name: Mdex
-platform: HT
-platform_contract: '0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c'

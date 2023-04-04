@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x69275aC5477F3A9DC051180BC559140Bc647F8E9'
+    platform: ETH
 crypto: true
 fiat: false
 id: APLP
 id_coinmarketcap: '7837'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7837.png
 name: Apple Finance
-platform: ETH
-platform_contract: '0x69275aC5477F3A9DC051180BC559140Bc647F8E9'

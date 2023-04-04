@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc0e6ad13bd58413ed308729b688d601243e1cf77'
+    platform: BNB
 crypto: true
 fiat: false
 id: BLK1
 id_coinmarketcap: '17049'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17049.png
 name: Black Whale
-platform: BNB
-platform_contract: '0xc0e6ad13bd58413ed308729b688d601243e1cf77'

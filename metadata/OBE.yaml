@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa497a35c26d019b61ff05ad090323bc8690a1ecd'
+    platform: ETH
 crypto: true
 fiat: false
 id: OBE
 id_coinmarketcap: '14411'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14411.png
 name: OneBitEarn
-platform: ETH
-platform_contract: '0xa497a35c26d019b61ff05ad090323bc8690a1ecd'

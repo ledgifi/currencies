@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8a9c4dfe8b9d8962b31e4e16f8321c44d48e246e'
+    platform: ETH
 crypto: true
 fiat: false
 id: NCT1
 id_coinmarketcap: '8367'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8367.png
 name: Name Change Token
-platform: ETH
-platform_contract: '0x8a9c4dfe8b9d8962b31e4e16f8321c44d48e246e'

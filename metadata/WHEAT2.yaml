@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1a51686fb42861aa7e38c1cf8868877f43f82aa4'
+    platform: AVAX
 crypto: true
 fiat: false
 id: WHEAT2
 id_coinmarketcap: '15123'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15123.png
 name: Wheat Token (AVAX)
-platform: AVAX
-platform_contract: '0x1a51686fb42861aa7e38c1cf8868877f43f82aa4'

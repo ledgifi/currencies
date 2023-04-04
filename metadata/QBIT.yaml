@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa38898a4ae982cb0131104a6746f77fa0da57aaa'
+    platform: BNB
 crypto: true
 fiat: false
 id: QBIT
 id_coinmarketcap: '10307'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10307.png
 name: Project Quantum
-platform: BNB
-platform_contract: '0xa38898a4ae982cb0131104a6746f77fa0da57aaa'

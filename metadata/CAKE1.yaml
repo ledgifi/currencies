@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4Eb49A2F9A79053866faE806fAc95A3eF5B92C05'
+    platform: AVAX
 crypto: true
 fiat: false
 id: CAKE1
 id_coinmarketcap: '16149'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16149.png
 name: CakeDAO
-platform: AVAX
-platform_contract: '0x4Eb49A2F9A79053866faE806fAc95A3eF5B92C05'

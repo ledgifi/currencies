@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7815bDa662050D84718B988735218CFfd32f75ea'
+    platform: ETH
 crypto: true
 fiat: false
 id: YEL
 id_coinmarketcap: '11301'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11301.png
 name: YEL.Finance
-platform: ETH
-platform_contract: '0x7815bDa662050D84718B988735218CFfd32f75ea'

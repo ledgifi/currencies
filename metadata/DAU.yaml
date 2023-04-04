@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe77a9dc3f2bd3a2950abf5f8cfdd3f3cb4f268cf'
+    platform: BNB
 crypto: true
 fiat: false
 id: DAU
 id_coinmarketcap: '15651'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15651.png
 name: Doges Among Us
-platform: BNB
-platform_contract: '0xe77a9dc3f2bd3a2950abf5f8cfdd3f3cb4f268cf'

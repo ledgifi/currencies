@@ -1,8 +1,9 @@
+contracts:
+  - address: 0:f2679d80b682974e065e03bf42bbee285ce7c587eb153b41d761ebfd954c45e1
+    platform: EVER
 crypto: true
 fiat: false
 id: BRIDGE
 id_coinmarketcap: '19663'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19663.png
 name: Octus Bridge
-platform: EVER
-platform_contract: 0:f2679d80b682974e065e03bf42bbee285ce7c587eb153b41d761ebfd954c45e1

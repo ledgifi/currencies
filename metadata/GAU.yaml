@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xca8ebfb8e1460aaac7c272cb9053b3d42412aac2'
+    platform: AVAX
 crypto: true
 fiat: false
 id: GAU
 id_coinmarketcap: '22656'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22656.png
 name: Gamer Arena
-platform: AVAX
-platform_contract: '0xca8ebfb8e1460aaac7c272cb9053b3d42412aac2'

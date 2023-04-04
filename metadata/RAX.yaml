@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa44E1ADDEfe762Abb126904122728BF98337136c'
+    platform: BNB
 crypto: true
 fiat: false
 id: RAX
 id_coinmarketcap: '21099'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21099.png
 name: RaysX
-platform: BNB
-platform_contract: '0xa44E1ADDEfe762Abb126904122728BF98337136c'

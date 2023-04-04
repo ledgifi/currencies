@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xda4dd9586d27202a338843dd6b9824d267006783'
+    platform: ETH
 crypto: true
 fiat: false
 id: ECT
 id_coinmarketcap: '22572'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22572.png
 name: Echain Network
-platform: ETH
-platform_contract: '0xda4dd9586d27202a338843dd6b9824d267006783'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x17a79792Fe6fE5C95dFE95Fe3fCEE3CAf4fE4Cb7'
+    platform: ETH
 crypto: true
 fiat: false
 id: AAMMUSDT
 id_coinmarketcap: '10996'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10996.png
 name: Aave AMM USDT
-platform: ETH
-platform_contract: '0x17a79792Fe6fE5C95dFE95Fe3fCEE3CAf4fE4Cb7'

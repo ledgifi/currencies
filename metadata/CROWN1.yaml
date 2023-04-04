@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7a3bA320d44192ae9f6C061F15bCEbd7a6217242'
+    platform: BNB
 crypto: true
 fiat: false
 id: CROWN1
 id_coinmarketcap: '15534'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15534.png
 name: KingPad
-platform: BNB
-platform_contract: '0x7a3bA320d44192ae9f6C061F15bCEbd7a6217242'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x829c09fCc46D9fd31967272ABA245BEF9f727F93'
+    platform: BNB
 crypto: true
 fiat: false
 id: USDEX
 id_coinmarketcap: '20281'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20281.png
 name: USDEX
-platform: BNB
-platform_contract: '0x829c09fCc46D9fd31967272ABA245BEF9f727F93'

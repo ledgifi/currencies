@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x152687bc4a7fcc89049cf119f9ac3e5acf2ee7ef'
+    platform: ETH
 crypto: true
 fiat: false
 id: DHC
 id_coinmarketcap: '7260'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7260.png
 name: DeltaHub Community
-platform: ETH
-platform_contract: '0x152687bc4a7fcc89049cf119f9ac3e5acf2ee7ef'

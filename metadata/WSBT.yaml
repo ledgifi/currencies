@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7f4e04aA61B9a46403c1634E91Bf31Df3Bc554CF'
+    platform: BNB
 crypto: true
 fiat: false
 id: WSBT
 id_coinmarketcap: '21001'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21001.png
 name: WSB.sh
-platform: BNB
-platform_contract: '0x7f4e04aA61B9a46403c1634E91Bf31Df3Bc554CF'

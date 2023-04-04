@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1ad8d89074afa789a027b9a31d0bd14e254711d0'
+    platform: BNB
 crypto: true
 fiat: false
 id: CRP3
 id_coinmarketcap: '7416'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7416.png
 name: Cross Finance
-platform: BNB
-platform_contract: '0x1ad8d89074afa789a027b9a31d0bd14e254711d0'

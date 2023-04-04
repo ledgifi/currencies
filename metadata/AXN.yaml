@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x839f1a22a59eaaf26c85958712ab32f80fea23d9'
+    platform: MATIC
 crypto: true
 fiat: false
 id: AXN
 id_coinmarketcap: '7676'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7676.png
 name: Axion
-platform: MATIC
-platform_contract: '0x839f1a22a59eaaf26c85958712ab32f80fea23d9'

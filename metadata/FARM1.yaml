@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xad759b4634bf48c982541c8db61b4581470b4974'
+    platform: BNB
 crypto: true
 fiat: false
 id: FARM1
 id_coinmarketcap: '16274'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16274.png
 name: Agrofarm
-platform: BNB
-platform_contract: '0xad759b4634bf48c982541c8db61b4581470b4974'

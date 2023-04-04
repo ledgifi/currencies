@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x3ab6ed69ef663bd986ee59205ccad8a20f98b4c2'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: DREP
 logo: https://bin.bnbstatic.com/images/20200116/66337847-2bb4-42bd-9d32-5950a76a6b08.png
 logoKey: currencies/drep.png
 name: Drep
-platform: ETH
-platform_contract: '0x3ab6ed69ef663bd986ee59205ccad8a20f98b4c2'

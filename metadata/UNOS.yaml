@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd18A8abED9274eDBEace4B12D86A8633283435Da'
+    platform: ETH
 crypto: true
 fiat: false
 id: UNOS
 id_coinmarketcap: '7741'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7741.png
 name: UnoSwap
-platform: ETH
-platform_contract: '0xd18A8abED9274eDBEace4B12D86A8633283435Da'

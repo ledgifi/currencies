@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x690c3D6B89A102A31916ff87Ac42262bc564379F'
+    platform: BNB
 crypto: true
 fiat: false
 id: MCINU
 id_coinmarketcap: '17885'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17885.png
 name: Mrs Cheems
-platform: BNB
-platform_contract: '0x690c3D6B89A102A31916ff87Ac42262bc564379F'

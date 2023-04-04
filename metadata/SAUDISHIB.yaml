@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x34d31446a522252270b89b09016296ec4c98e23d'
+    platform: ETH
 crypto: true
 fiat: false
 id: SAUDISHIB
 id_coinmarketcap: '21061'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21061.png
 name: Saudi Shiba Inu
-platform: ETH
-platform_contract: '0x34d31446a522252270b89b09016296ec4c98e23d'

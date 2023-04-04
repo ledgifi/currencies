@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x71f69afed8825d6d9300ba4d74103e1dcc263b93'
+    platform: BNB
 crypto: true
 fiat: false
 id: SIMPLI
 id_coinmarketcap: '15677'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15677.png
 name: Simpli Finance
-platform: BNB
-platform_contract: '0x71f69afed8825d6d9300ba4d74103e1dcc263b93'

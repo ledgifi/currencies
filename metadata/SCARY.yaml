@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5e2dd42b97fb9c01a1aee381568797d973ce72d2'
+    platform: BNB
 crypto: true
 fiat: false
 id: SCARY
 id_coinmarketcap: '22508'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22508.png
 name: Halloween Crows
-platform: BNB
-platform_contract: '0x5e2dd42b97fb9c01a1aee381568797d973ce72d2'

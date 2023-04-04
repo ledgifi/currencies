@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1e970d604cb276c7f7b97cc6446f6d4f086971bb'
+    platform: BNB
 crypto: true
 fiat: false
 id: BULLY
 id_coinmarketcap: '10243'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10243.png
 name: PitBULLY
-platform: BNB
-platform_contract: '0x1e970d604cb276c7f7b97cc6446f6d4f086971bb'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x71fbc1d795fcfbca43a3ebf6de0101952f31a410'
+    platform: ETH
 crypto: true
 fiat: false
 id: ADAO2
 id_coinmarketcap: '8762'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8762.png
 name: Revelation Finance
-platform: ETH
-platform_contract: '0x71fbc1d795fcfbca43a3ebf6de0101952f31a410'

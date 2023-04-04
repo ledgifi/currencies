@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5717f11ac1c3ae83e0eb455222e488009951f0c3'
+    platform: FTM
 crypto: true
 fiat: false
 id: PALLAS
 id_coinmarketcap: '17263'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17263.png
 name: Pallas Finance
-platform: FTM
-platform_contract: '0x5717f11ac1c3ae83e0eb455222e488009951f0c3'

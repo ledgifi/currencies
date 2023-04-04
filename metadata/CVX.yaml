@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: CVX
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20211223/d9f56cce-aa12-4351-bc9a-710f1a53545e.png
 logoKey: currencies/cvx.png
 name: Convex Finance
-platform: ETH
-platform_contract: '0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b'

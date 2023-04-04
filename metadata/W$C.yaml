@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x77a6f2e9a9e44fd5d5c3f9be9e52831fc1c3c0a0'
+    platform: MATIC
 crypto: true
 fiat: false
 id: W$C
 id_coinmarketcap: '24159'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24159.png
 name: The World State
-platform: MATIC
-platform_contract: '0x77a6f2e9a9e44fd5d5c3f9be9e52831fc1c3c0a0'

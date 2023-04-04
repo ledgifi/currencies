@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6f80310ca7f2c654691d1383149fa1a57d8ab1f8'
+    platform: ETH
 crypto: true
 fiat: false
 id: SILO
 id_coinmarketcap: '16010'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16010.png
 name: Silo Finance
-platform: ETH
-platform_contract: '0x6f80310ca7f2c654691d1383149fa1a57d8ab1f8'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa6281838f4a9c5736b2aa1cba9260d3f879623ca'
+    platform: ETH
 crypto: true
 fiat: false
 id: DCA
 id_coinmarketcap: '5140'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5140.png
 name: Decentralize Currency Assets
-platform: ETH
-platform_contract: '0xa6281838f4a9c5736b2aa1cba9260d3f879623ca'

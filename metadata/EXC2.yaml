@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x00c4b398500645eb5da00a1a379a88b11683ba01'
+    platform: ETH
 crypto: true
 fiat: false
 id: EXC2
 id_coinmarketcap: '2778'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2778.png
 name: Eximchain
-platform: ETH
-platform_contract: '0x00c4b398500645eb5da00a1a379a88b11683ba01'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9631be8566fC71d91970b10AcfdEe29F21Da6C27'
+    platform: MATIC
 crypto: true
 fiat: false
 id: IMON
 id_coinmarketcap: '20983'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20983.png
 name: Intelligent Monsters
-platform: MATIC
-platform_contract: '0x9631be8566fC71d91970b10AcfdEe29F21Da6C27'

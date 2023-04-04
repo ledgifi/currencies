@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x76851a93977bea9264c32255b6457882035c7501'
+    platform: ETH
 crypto: true
 fiat: false
 id: FOGE
 id_coinmarketcap: '10416'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10416.png
 name: Fat Doge
-platform: ETH
-platform_contract: '0x76851a93977bea9264c32255b6457882035c7501'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xec681f28f4561c2a9534799aa38e0d36a83cf478'
+    platform: ETH
 crypto: true
 fiat: false
 id: YVS
 id_coinmarketcap: '8036'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8036.png
 name: YVS.Finance
-platform: ETH
-platform_contract: '0xec681f28f4561c2a9534799aa38e0d36a83cf478'

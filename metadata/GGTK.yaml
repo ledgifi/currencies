@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfa99a87b14b02e2240c79240c5a20f945ca5ef76'
+    platform: ETH
 crypto: true
 fiat: false
 id: GGTK
 id_coinmarketcap: '8156'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8156.png
 name: GGDApp
-platform: ETH
-platform_contract: '0xfa99a87b14b02e2240c79240c5a20f945ca5ef76'

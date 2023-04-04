@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf2eb788cfc3386a6511b7d1973e3fe6f87f89117'
+    platform: KLAY
 crypto: true
 fiat: false
 id: CBANK
 id_coinmarketcap: '8113'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8113.png
 name: CryptoBank
-platform: KLAY
-platform_contract: '0xf2eb788cfc3386a6511b7d1973e3fe6f87f89117'

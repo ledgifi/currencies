@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x59Cde41a855682349edaEA221169d9b686687748'
+    platform: BNB
 crypto: true
 fiat: false
 id: NOMAD
 id_coinmarketcap: '19750'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19750.png
 name: Nomadland
-platform: BNB
-platform_contract: '0x59Cde41a855682349edaEA221169d9b686687748'

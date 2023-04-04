@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCee118d0fD2A765a91f6bbD251C41Ac93a4298F7'
+    platform: BNB
 crypto: true
 fiat: false
 id: WATER
 id_coinmarketcap: '20634'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20634.png
 name: Emit Water Element
-platform: BNB
-platform_contract: '0xCee118d0fD2A765a91f6bbD251C41Ac93a4298F7'

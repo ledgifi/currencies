@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8a660e26de13178d7847cf6061a360fdf987e697'
+    platform: BNB
 crypto: true
 fiat: false
 id: NICKEL
 id_coinmarketcap: '14208'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14208.png
 name: Nickel Token
-platform: BNB
-platform_contract: '0x8a660e26de13178d7847cf6061a360fdf987e697'

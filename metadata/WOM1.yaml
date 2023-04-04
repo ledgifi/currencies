@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xBd356a39BFf2cAda8E9248532DD879147221Cf76'
+    platform: ETH
 crypto: true
 fiat: false
 id: WOM1
 id_coinmarketcap: '5328'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5328.png
 name: WOM Protocol
-platform: ETH
-platform_contract: '0xBd356a39BFf2cAda8E9248532DD879147221Cf76'

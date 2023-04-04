@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x47da42696a866cdc61a4c809a515500a242909c1'
+    platform: ETH
 crypto: true
 fiat: false
 id: BIT4
 id_coinmarketcap: '2977'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2977.png
 name: BitRewards
-platform: ETH
-platform_contract: '0x47da42696a866cdc61a4c809a515500a242909c1'

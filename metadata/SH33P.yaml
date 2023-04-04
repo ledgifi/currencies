@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0694c9bf930b7456712cEde98bE770e110212B38'
+    platform: CRO
 crypto: true
 fiat: false
 id: SH33P
 id_coinmarketcap: '17127'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17127.png
 name: Degen Protocol Token
-platform: CRO
-platform_contract: '0x0694c9bf930b7456712cEde98bE770e110212B38'

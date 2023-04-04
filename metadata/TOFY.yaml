@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x191BEC3c53b60131284D789f416E32E246E56Fc9'
+    platform: BNB
 crypto: true
 fiat: false
 id: TOFY
@@ -6,5 +9,3 @@ id_nomics: TOFY
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TOFY.jpg
 logoKey: currencies/tofy.jpg
 name: TOFFEE
-platform: BNB
-platform_contract: '0x191BEC3c53b60131284D789f416E32E246E56Fc9'

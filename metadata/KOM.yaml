@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xC004e2318722EA2b15499D6375905d75Ee5390B8'
+    platform: MATIC
 crypto: true
 fiat: false
 id: KOM
 id_coinmarketcap: '10403'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10403.png
 name: Kommunitas
-platform: MATIC
-platform_contract: '0xC004e2318722EA2b15499D6375905d75Ee5390B8'

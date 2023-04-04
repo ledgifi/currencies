@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x375483cfa7fc18f6b455e005d835a8335fbdbb1f'
+    platform: BNB
 crypto: true
 fiat: false
 id: ECP1
 id_coinmarketcap: '9378'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9378.png
 name: Eclipse
-platform: BNB
-platform_contract: '0x375483cfa7fc18f6b455e005d835a8335fbdbb1f'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4BDCb66B968060D9390C1D12bd29734496205581'
+    platform: ETH
 crypto: true
 fiat: false
 id: ACQ
 id_coinmarketcap: '20154'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20154.png
 name: Acquire.Fi
-platform: ETH
-platform_contract: '0x4BDCb66B968060D9390C1D12bd29734496205581'

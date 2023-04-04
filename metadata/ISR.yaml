@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9657fb399847d85a9c1a234ece9ca09d5c00f466'
+    platform: KLAY
 crypto: true
 fiat: false
 id: ISR
 id_coinmarketcap: '3466'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3466.png
 name: Insureum
-platform: KLAY
-platform_contract: '0x9657fb399847d85a9c1a234ece9ca09d5c00f466'

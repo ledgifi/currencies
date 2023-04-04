@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc38f1fb49acdf2f1213caf3319f6eb3ea2cb7527'
+    platform: ETH
 crypto: true
 fiat: false
 id: BITS3
 id_coinmarketcap: '3460'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3460.png
 name: Bitcoinus
-platform: ETH
-platform_contract: '0xc38f1fb49acdf2f1213caf3319f6eb3ea2cb7527'

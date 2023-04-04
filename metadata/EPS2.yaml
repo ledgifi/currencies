@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9380b1e77bdbf004b57c9808acf9c257688d3b74'
+    platform: BNB
 crypto: true
 fiat: false
 id: EPS2
 id_coinmarketcap: '16005'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16005.png
 name: Epsilon
-platform: BNB
-platform_contract: '0x9380b1e77bdbf004b57c9808acf9c257688d3b74'

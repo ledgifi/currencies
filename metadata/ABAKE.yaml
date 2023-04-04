@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf5217081f9c50017bfe64d188166b77754612227'
+    platform: BNB
 crypto: true
 fiat: false
 id: ABAKE
 id_coinmarketcap: '14462'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14462.png
 name: AngryBakery
-platform: BNB
-platform_contract: '0xf5217081f9c50017bfe64d188166b77754612227'

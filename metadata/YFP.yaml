@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x96d62cdcd1cc49cb6ee99c867cb8812bea86b9fa'
+    platform: ETH
 crypto: true
 fiat: false
 id: YFP
 id_coinmarketcap: '6915'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6915.png
 name: Yearn Finance Protocol
-platform: ETH
-platform_contract: '0x96d62cdcd1cc49cb6ee99c867cb8812bea86b9fa'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb148DF3C114B1233b206160A0f2A74999Bb2FBf3'
+    platform: BNB
 crypto: true
 fiat: false
 id: DHLT
 id_coinmarketcap: '14524'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14524.png
 name: DeHealth
-platform: BNB
-platform_contract: '0xb148DF3C114B1233b206160A0f2A74999Bb2FBf3'

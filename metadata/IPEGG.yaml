@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x176CB5113b4885B3a194Bd69056AC3fE37A4b95c'
+    platform: IOTX
 crypto: true
 fiat: false
 id: IPEGG
 id_coinmarketcap: '12575'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12575.png
 name: Parrot Egg
-platform: IOTX
-platform_contract: '0x176CB5113b4885B3a194Bd69056AC3fE37A4b95c'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd8F78f74EbEEf253c05ed2910B4863722849E95A'
+    platform: ETH
 crypto: true
 fiat: false
 id: BLX2
 id_coinmarketcap: '10939'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10939.png
 name: BulleX
-platform: ETH
-platform_contract: '0xd8F78f74EbEEf253c05ed2910B4863722849E95A'

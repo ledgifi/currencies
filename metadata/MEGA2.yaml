@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x079f0f5f3ad15e01a5cd919564a8f52dde03431b'
+    platform: BNB
 crypto: true
 fiat: false
 id: MEGA2
 id_coinmarketcap: '14930'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14930.png
 name: MegaToken
-platform: BNB
-platform_contract: '0x079f0f5f3ad15e01a5cd919564a8f52dde03431b'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6c22910c6f75f828b305e57c6a54855d8adeabf8'
+    platform: ETH
 crypto: true
 fiat: false
 id: SATS
 id_coinmarketcap: '23839'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23839.png
 name: Satoshis Vision
-platform: ETH
-platform_contract: '0x6c22910c6f75f828b305e57c6a54855d8adeabf8'

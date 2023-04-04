@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfd71fc52d34ed1cfc8363e5528285b12b6b942c2'
+    platform: CRO
 crypto: true
 fiat: false
 id: DEGG
 id_coinmarketcap: '20501'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20501.png
 name: Ducky Egg
-platform: CRO
-platform_contract: '0xfd71fc52d34ed1cfc8363e5528285b12b6b942c2'

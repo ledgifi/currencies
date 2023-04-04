@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x71Ab77b7dbB4fa7e017BC15090b2163221420282'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: HIGH2
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/338cdc02-98fb-466e-aa75-4aa05f06e543.png
 logoKey: currencies/high.png
 name: Highstreet
-platform: ETH
-platform_contract: '0x71Ab77b7dbB4fa7e017BC15090b2163221420282'

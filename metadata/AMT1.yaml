@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf625069dce62dF95b4910f83446954B871F0Fc4f'
+    platform: BNB
 crypto: true
 fiat: false
 id: AMT1
 id_coinmarketcap: '21155'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21155.png
 name: Amazy Move Token
-platform: BNB
-platform_contract: '0xf625069dce62dF95b4910f83446954B871F0Fc4f'

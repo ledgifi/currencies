@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x75e3CF3DC6748ff6c92FE77646bE7d2fdFdFA623'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPND1
 id_coinmarketcap: '10369'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10369.png
 name: SafePanda
-platform: BNB
-platform_contract: '0x75e3CF3DC6748ff6c92FE77646bE7d2fdFdFA623'

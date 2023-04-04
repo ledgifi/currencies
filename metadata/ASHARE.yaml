@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1c9324d4c71602af7874a48d76d48f8a9e1b87bb'
+    platform: FTM
 crypto: true
 fiat: false
 id: ASHARE
 id_coinmarketcap: '18310'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18310.png
 name: ASHARE
-platform: FTM
-platform_contract: '0x1c9324d4c71602af7874a48d76d48f8a9e1b87bb'

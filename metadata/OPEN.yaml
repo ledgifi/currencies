@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x9d86b1b2554ec410eccffbf111a6994910111340'
+    platform: ETH
 crypto: true
 fiat: false
 id: OPEN
@@ -6,5 +9,3 @@ id_nomics: OPEN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/open.png
 logoKey: currencies/open.png
 name: Open Platform
-platform: ETH
-platform_contract: '0x9d86b1b2554ec410eccffbf111a6994910111340'

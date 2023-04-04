@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x50de6856358cc35f3a9a57eaaa34bd4cb707d2cd'
+    platform: ETH
 crypto: true
 fiat: false
 id: RAZOR
@@ -6,5 +9,3 @@ id_nomics: RAZOR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAZOR.png
 logoKey: currencies/razor.png
 name: Razor Network
-platform: ETH
-platform_contract: '0x50de6856358cc35f3a9a57eaaa34bd4cb707d2cd'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x29239242A83479a4074Cb1c9e2A3e6705A4A4455'
+    platform: ETH
 crypto: true
 fiat: false
 id: TOZ
 id_coinmarketcap: '8522'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8522.png
 name: TOZEX
-platform: ETH
-platform_contract: '0x29239242A83479a4074Cb1c9e2A3e6705A4A4455'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbf5ed0843b304f93332af890e4ce09ec96145976'
+    platform: ETH
 crypto: true
 fiat: false
 id: PITTYS
 id_coinmarketcap: '14998'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14998.png
 name: Pittys
-platform: ETH
-platform_contract: '0xbf5ed0843b304f93332af890e4ce09ec96145976'

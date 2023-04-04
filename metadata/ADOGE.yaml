@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x155f0dd04424939368972f4e1838687d6a831151'
+    platform: ARB
 crypto: true
 fiat: false
 id: ADOGE
 id_coinmarketcap: '11878'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11878.png
 name: Arbidoge
-platform: ARB
-platform_contract: '0x155f0dd04424939368972f4e1838687d6a831151'

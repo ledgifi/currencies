@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x00000000441378008ea67f4284a57932b1c000a5'
+    platform: ETH
 crypto: true
 fiat: false
 id: TGBP
 id_coinmarketcap: '7340'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7340.png
 name: TrueGBP
-platform: ETH
-platform_contract: '0x00000000441378008ea67f4284a57932b1c000a5'

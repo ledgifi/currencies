@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3d0e22387ddfe75d1aea9d7108a4392922740b96'
+    platform: BNB
 crypto: true
 fiat: false
 id: LOUD
 id_coinmarketcap: '12048'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12048.png
 name: Loud Market
-platform: BNB
-platform_contract: '0x3d0e22387ddfe75d1aea9d7108a4392922740b96'

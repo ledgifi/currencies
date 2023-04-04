@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1f5550a0f5f659e07506088a7919a88dff37218f'
+    platform: METIS
 crypto: true
 fiat: false
 id: PEAK2
 id_coinmarketcap: '19507'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19507.png
 name: Peak Finance
-platform: METIS
-platform_contract: '0x1f5550a0f5f659e07506088a7919a88dff37218f'

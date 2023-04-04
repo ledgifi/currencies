@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF71F77E3581F0f2F2f2997BC345Ac18eCD582bba'
+    platform: BNB
 crypto: true
 fiat: false
 id: PHIT
 id_coinmarketcap: '17514'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17514.png
 name: PHIT
-platform: BNB
-platform_contract: '0xF71F77E3581F0f2F2f2997BC345Ac18eCD582bba'

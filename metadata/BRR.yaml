@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd6e7c8af05d2d06a76811d44917613bdd258b995'
+    platform: ARB
 crypto: true
 fiat: false
 id: BRR
 id_coinmarketcap: '24089'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24089.png
 name: Brr Protocol
-platform: ARB
-platform_contract: '0xd6e7c8af05d2d06a76811d44917613bdd258b995'

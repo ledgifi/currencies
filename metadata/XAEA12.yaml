@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1902882a8f6c7fb1402f83c434ea8e064b35bab3'
+    platform: ETH
 crypto: true
 fiat: false
 id: XAEA12
 id_coinmarketcap: '13991'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13991.png
 name: X AE A-12
-platform: ETH
-platform_contract: '0x1902882a8f6c7fb1402f83c434ea8e064b35bab3'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3f8b23753807b83312545b1f6ff265f13d7be970'
+    platform: BNB
 crypto: true
 fiat: false
 id: NOWAR
 id_coinmarketcap: '20827'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20827.png
 name: Nowar
-platform: BNB
-platform_contract: '0x3f8b23753807b83312545b1f6ff265f13d7be970'

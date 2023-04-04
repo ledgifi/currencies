@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe9f84d418b008888a992ff8c6d22389c2c3504e0'
+    platform: ETH
 crypto: true
 fiat: false
 id: BASE1
 id_coinmarketcap: '22190'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22190.png
 name: Maximus BASE
-platform: ETH
-platform_contract: '0xe9f84d418b008888a992ff8c6d22389c2c3504e0'

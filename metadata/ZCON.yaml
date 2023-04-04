@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4992d8ac40e55350330102abf2debed8864e7ba0'
+    platform: ETH
 crypto: true
 fiat: false
 id: ZCON
 id_coinmarketcap: '11668'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11668.png
 name: Zcon Protocol
-platform: ETH
-platform_contract: '0x4992d8ac40e55350330102abf2debed8864e7ba0'

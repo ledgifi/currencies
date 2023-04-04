@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcE355300B9d7909f577640A3FB179Cf911a23fBb'
+    platform: BNB
 crypto: true
 fiat: false
 id: PPP
 id_coinmarketcap: '19345'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19345.png
 name: PlayPoseidon NFT
-platform: BNB
-platform_contract: '0xcE355300B9d7909f577640A3FB179Cf911a23fBb'

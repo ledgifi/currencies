@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x32879b5c0fdbc2a81597f019717b412b9d755a09'
+    platform: ETH
 crypto: true
 fiat: false
 id: PARA4
 id_coinmarketcap: '16548'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16548.png
 name: ParaToken
-platform: ETH
-platform_contract: '0x32879b5c0fdbc2a81597f019717b412b9d755a09'

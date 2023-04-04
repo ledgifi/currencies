@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x67B6D479c7bB412C54e03dCA8E1Bc6740ce6b99C'
+    platform: ETH
 crypto: true
 fiat: false
 id: KYL
 id_coinmarketcap: '8644'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8644.png
 name: Kylin
-platform: ETH
-platform_contract: '0x67B6D479c7bB412C54e03dCA8E1Bc6740ce6b99C'

@@ -1,8 +1,9 @@
+contracts:
+  - address: PLG-D8D
+    platform: BNB
 crypto: true
 fiat: false
 id: PLG
 id_coinmarketcap: '4196'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4196.png
 name: Pledge Coin
-platform: BNB
-platform_contract: PLG-D8D

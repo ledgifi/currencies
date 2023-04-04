@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaF88cDd91861600c5AD14399e9d32C05C12a1539'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ZMATIC
 id_coinmarketcap: '15897'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15897.png
 name: Zero Matic
-platform: MATIC
-platform_contract: '0xaF88cDd91861600c5AD14399e9d32C05C12a1539'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x79a06acb8bdd138beeecce0f1605971f3ac7c09b'
+    platform: ETH
 crypto: true
 fiat: false
 id: LSVR
 id_coinmarketcap: '21214'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21214.png
 name: lasrever
-platform: ETH
-platform_contract: '0x79a06acb8bdd138beeecce0f1605971f3ac7c09b'

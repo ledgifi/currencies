@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x485Be08f2563862deE92E2E3C252f08f8a75A776'
+    platform: AVAX
 crypto: true
 fiat: false
 id: CCN1
 id_coinmarketcap: '279'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/279.png
 name: Cannacoin (ERC20)
-platform: AVAX
-platform_contract: '0x485Be08f2563862deE92E2E3C252f08f8a75A776'

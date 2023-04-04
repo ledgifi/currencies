@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x945a6869819cdad404dc80647a2085957cb1f28b'
+    platform: AVAX
 crypto: true
 fiat: false
 id: LEO3
 id_coinmarketcap: '19469'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19469.png
 name: Leonidas
-platform: AVAX
-platform_contract: '0x945a6869819cdad404dc80647a2085957cb1f28b'

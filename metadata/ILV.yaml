@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x767fe9edc9e0df98e07454847909b5e959d7ca0e'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: ILV
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/ab37df62-f419-4d89-a732-1d87d9c219d9.png
 logoKey: currencies/ilv.png
 name: Illuvium
-platform: ETH
-platform_contract: '0x767fe9edc9e0df98e07454847909b5e959d7ca0e'

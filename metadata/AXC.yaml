@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x37c430c2b5f9ff85e534873c715871818ab1623e'
+    platform: ETH
 crypto: true
 fiat: false
 id: AXC
 id_coinmarketcap: '14542'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14542.png
 name: AXIA Coin
-platform: ETH
-platform_contract: '0x37c430c2b5f9ff85e534873c715871818ab1623e'

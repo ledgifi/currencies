@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb8170d3ffaf4d284bc2c3c2fecf9ac9038b85d98'
+    platform: BNB
 crypto: true
 fiat: false
 id: SUNRISE
 id_coinmarketcap: '12891'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12891.png
 name: The Sun Rises
-platform: BNB
-platform_contract: '0xb8170d3ffaf4d284bc2c3c2fecf9ac9038b85d98'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc4f7891486D21d711E07DFcE9BDA89f5Ae8b2D98'
+    platform: BNB
 crypto: true
 fiat: false
 id: CRD2
 id_coinmarketcap: '10993'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10993.png
 name: CryptoDogs
-platform: BNB
-platform_contract: '0xc4f7891486D21d711E07DFcE9BDA89f5Ae8b2D98'

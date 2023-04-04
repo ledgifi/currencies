@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x01E45B8D0c51f05F17385DD3416fE3aA5BFd89aC'
+    platform: ETH
 crypto: true
 fiat: false
 id: CB1
 id_coinmarketcap: '4042'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4042.png
 name: COINBIG
-platform: ETH
-platform_contract: '0x01E45B8D0c51f05F17385DD3416fE3aA5BFd89aC'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe15a888A7268315Bc5855daC4593DC4444bb293d'
+    platform: BNB
 crypto: true
 fiat: false
 id: METALUNA
 id_coinmarketcap: '18347'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18347.png
 name: METALUNA
-platform: BNB
-platform_contract: '0xe15a888A7268315Bc5855daC4593DC4444bb293d'

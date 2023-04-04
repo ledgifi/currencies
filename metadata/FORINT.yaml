@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xAe8D1d335364aE1d16677390750aEB4C1b2332cb'
+    platform: BNB
 crypto: true
 fiat: false
 id: FORINT
 id_coinmarketcap: '10981'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10981.png
 name: Forint Token
-platform: BNB
-platform_contract: '0xAe8D1d335364aE1d16677390750aEB4C1b2332cb'

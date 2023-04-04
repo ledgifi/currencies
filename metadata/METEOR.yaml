@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x765baefcb5418fa9f7dddacb1ccc07bd0e890e4e'
+    platform: ETH
 crypto: true
 fiat: false
 id: METEOR
 id_coinmarketcap: '7979'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7979.png
 name: Meteorite.network
-platform: ETH
-platform_contract: '0x765baefcb5418fa9f7dddacb1ccc07bd0e890e4e'

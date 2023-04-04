@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x62b6437349c0238d05acefeb0c4a14e9c8ea0f8d'
+    platform: BNB
 crypto: true
 fiat: false
 id: SEXPLS
 id_coinmarketcap: '14690'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14690.png
 name: Shiba Hex Pulse
-platform: BNB
-platform_contract: '0x62b6437349c0238d05acefeb0c4a14e9c8ea0f8d'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x71648f61d21d3c75b08414ffa817c4ac2157f89e'
+    platform: BNB
 crypto: true
 fiat: false
 id: RADR
 id_coinmarketcap: '17818'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17818.png
 name: CoinRadr
-platform: BNB
-platform_contract: '0x71648f61d21d3c75b08414ffa817c4ac2157f89e'

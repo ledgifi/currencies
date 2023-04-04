@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7be647634a942e73f8492d15ae492d867ce5245c'
+    platform: ETH
 crypto: true
 fiat: false
 id: GOLDZ
 id_coinmarketcap: '16897'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16897.png
 name: Feudalz Goldz
-platform: ETH
-platform_contract: '0x7be647634a942e73f8492d15ae492d867ce5245c'

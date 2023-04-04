@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x76f6cd75ce81e88916f8d933ab76efe18ced6ad3'
+    platform: BNB
 crypto: true
 fiat: false
 id: NFTG
 id_coinmarketcap: '13333'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13333.png
 name: NFT Global
-platform: BNB
-platform_contract: '0x76f6cd75ce81e88916f8d933ab76efe18ced6ad3'

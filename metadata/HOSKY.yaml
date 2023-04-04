@@ -1,8 +1,9 @@
+contracts:
+  - address: a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59
+    platform: ADA
 crypto: true
 fiat: false
 id: HOSKY
 id_coinmarketcap: '16755'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16755.png
 name: Hosky Token
-platform: ADA
-platform_contract: a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59

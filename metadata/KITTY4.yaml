@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbca7f1998Dc9FFB70b086543a808960a460aBcA7'
+    platform: AVAX
 crypto: true
 fiat: false
 id: KITTY4
 id_coinmarketcap: '16539'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16539.png
 name: Binary Cat
-platform: AVAX
-platform_contract: '0xbca7f1998Dc9FFB70b086543a808960a460aBcA7'

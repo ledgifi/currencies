@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf7844cb890f4c339c497aeab599abdc3c874b67a'
+    platform: BNB
 crypto: true
 fiat: false
 id: NFTART
 id_coinmarketcap: '9299'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9299.png
 name: NFT Art Finance
-platform: BNB
-platform_contract: '0xf7844cb890f4c339c497aeab599abdc3c874b67a'

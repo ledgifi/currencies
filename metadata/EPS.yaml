@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xa7f552078dcc247c2684336020c03648500c6d9f'
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: EPS3
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210402/04fa6e7c-9958-4c4d-a65a-53bab409eb8e.png
 logoKey: currencies/eps.png
 name: Ellipsis
-platform: BNB
-platform_contract: '0xa7f552078dcc247c2684336020c03648500c6d9f'

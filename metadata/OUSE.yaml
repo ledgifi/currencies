@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x48cb1c21af7b5d04a8c48479d1bdfa783ce94d99'
+    platform: BNB
 crypto: true
 fiat: false
 id: OUSE
 id_coinmarketcap: '16849'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16849.png
 name: OUSE Token
-platform: BNB
-platform_contract: '0x48cb1c21af7b5d04a8c48479d1bdfa783ce94d99'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x065A74C744eB69B4975629c1A89823c694D2EFDb'
+    platform: BNB
 crypto: true
 fiat: false
 id: WEB3T
 id_coinmarketcap: '23488'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23488.png
 name: Web3Tools
-platform: BNB
-platform_contract: '0x065A74C744eB69B4975629c1A89823c694D2EFDb'

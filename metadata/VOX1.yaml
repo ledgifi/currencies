@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x12D102F06da35cC0111EB58017fd2Cd28537d0e1'
+    platform: ETH
 crypto: true
 fiat: false
 id: VOX1
 id_coinmarketcap: '7465'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7465.png
 name: Vox.Finance
-platform: ETH
-platform_contract: '0x12D102F06da35cC0111EB58017fd2Cd28537d0e1'

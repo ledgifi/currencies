@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x910b0Cb55121190d9E4176D449E26EE3BBbBff1F'
+    platform: BNB
 crypto: true
 fiat: false
 id: CTOGER
 id_coinmarketcap: '18613'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18613.png
 name: CryptogerClub
-platform: BNB
-platform_contract: '0x910b0Cb55121190d9E4176D449E26EE3BBbBff1F'

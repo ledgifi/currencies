@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9a96E767bFCcE8E80370BE00821ED5BA283D4A17'
+    platform: ETH
 crypto: true
 fiat: false
 id: GOGO1
 id_coinmarketcap: '8375'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8375.png
 name: GOGO.finance
-platform: ETH
-platform_contract: '0x9a96E767bFCcE8E80370BE00821ED5BA283D4A17'

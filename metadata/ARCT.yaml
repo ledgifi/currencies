@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1245ef80f4d9e02ed9425375e8f649b9221b31d8'
+    platform: ETH
 crypto: true
 fiat: false
 id: ARCT
 id_coinmarketcap: '2415'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2415.png
 name: ArbitrageCT
-platform: ETH
-platform_contract: '0x1245ef80f4d9e02ed9425375e8f649b9221b31d8'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe11edc9c7897c8dc6bb4a02704d4edb879b0d735'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIAT
 id_coinmarketcap: '10454'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10454.png
 name: Tegrity Token
-platform: BNB
-platform_contract: '0xe11edc9c7897c8dc6bb4a02704d4edb879b0d735'

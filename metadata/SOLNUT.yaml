@@ -1,8 +1,9 @@
+contracts:
+  - address: Fv3ZG56M2cWvF8sy9VWzWyvtHPhugNc1BAzpyoAPvL7r
+    platform: SOL
 crypto: true
 fiat: false
 id: SOLNUT
 id_coinmarketcap: '16204'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16204.png
 name: Solana Nut
-platform: SOL
-platform_contract: Fv3ZG56M2cWvF8sy9VWzWyvtHPhugNc1BAzpyoAPvL7r

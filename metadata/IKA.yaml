@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd2878944bf19531249cf4f97ff8d6654203b8c13'
+    platform: BNB
 crypto: true
 fiat: false
 id: IKA
 id_coinmarketcap: '17501'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17501.png
 name: Linkka
-platform: BNB
-platform_contract: '0xd2878944bf19531249cf4f97ff8d6654203b8c13'

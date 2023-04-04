@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaE459484c895a335ceC08058290D94551DBf5fbB'
+    platform: BNB
 crypto: true
 fiat: false
 id: WEFIN
 id_coinmarketcap: '17653'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17653.png
 name: eFin Decentralized
-platform: BNB
-platform_contract: '0xaE459484c895a335ceC08058290D94551DBf5fbB'

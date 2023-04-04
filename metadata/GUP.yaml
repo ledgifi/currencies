@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf7b098298f7c69fc14610bf71d5e02c60792894c'
+    platform: ETH
 crypto: true
 fiat: false
 id: GUP
 id_coinmarketcap: '1616'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1616.png
 name: Matchpool
-platform: ETH
-platform_contract: '0xf7b098298f7c69fc14610bf71d5e02c60792894c'

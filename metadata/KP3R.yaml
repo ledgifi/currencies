@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: KP3R
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201103/eb0df429-a845-4bf0-bf6c-f99e9410cbfb.png
 logoKey: currencies/kp3r.png
 name: Keep3rV1
-platform: ETH
-platform_contract: '0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44'

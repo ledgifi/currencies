@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0c251e67d41efc33a9d3264a5492f63f743ca87c'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIO
 id_coinmarketcap: '13677'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13677.png
 name: Shibanomi
-platform: BNB
-platform_contract: '0x0c251e67d41efc33a9d3264a5492f63f743ca87c'

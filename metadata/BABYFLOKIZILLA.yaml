@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9dc8ae7f7f88e1344c289d75cd0d4ce07dc4aae6'
+    platform: BNB
 crypto: true
 fiat: false
 id: BABYFLOKIZILLA
 id_coinmarketcap: '13989'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13989.png
 name: BabyFlokiZilla
-platform: BNB
-platform_contract: '0x9dc8ae7f7f88e1344c289d75cd0d4ce07dc4aae6'

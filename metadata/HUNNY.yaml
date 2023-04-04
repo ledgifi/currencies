@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x565b72163f17849832a692a3c5928cc502f46d69'
+    platform: BNB
 crypto: true
 fiat: false
 id: HUNNY
 id_coinmarketcap: '10514'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10514.png
 name: HUNNY FINANCE
-platform: BNB
-platform_contract: '0x565b72163f17849832a692a3c5928cc502f46d69'

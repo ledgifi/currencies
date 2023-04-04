@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x888e88e71378133b7ada5a90c08bc97d772a0a28'
+    platform: ETH
 crypto: true
 fiat: false
 id: SBECOM
 id_coinmarketcap: '11689'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11689.png
 name: SheBollETH Commerce
-platform: ETH
-platform_contract: '0x888e88e71378133b7ada5a90c08bc97d772a0a28'

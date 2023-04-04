@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb34f1dca7943ad97cdfb481a4088c656584059f2'
+    platform: BNB
 crypto: true
 fiat: false
 id: SFOX
 id_coinmarketcap: '9874'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9874.png
 name: Starfox Token
-platform: BNB
-platform_contract: '0xb34f1dca7943ad97cdfb481a4088c656584059f2'

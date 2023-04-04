@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd05b010eddb2dc65d5bd5a1389330d475049a4d5'
+    platform: AVAX
 crypto: true
 fiat: false
 id: WTR
 id_coinmarketcap: '23344'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23344.png
 name: Deepwaters
-platform: AVAX
-platform_contract: '0xd05b010eddb2dc65d5bd5a1389330d475049a4d5'

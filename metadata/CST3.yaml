@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2ce1a13985cc374d3358e9800520289a234c4e9d'
+    platform: BNB
 crypto: true
 fiat: false
 id: CST3
 id_coinmarketcap: '18042'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18042.png
 name: CoinStorey
-platform: BNB
-platform_contract: '0x2ce1a13985cc374d3358e9800520289a234c4e9d'

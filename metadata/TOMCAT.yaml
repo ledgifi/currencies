@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2a1865e6852120425376fc25532e77c081badb11'
+    platform: BNB
 crypto: true
 fiat: false
 id: TOMCAT
 id_coinmarketcap: '21347'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21347.png
 name: TOMCAT INU
-platform: BNB
-platform_contract: '0x2a1865e6852120425376fc25532e77c081badb11'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x240eb70aafe740f753066a413ddad73b7c72b4e2'
+    platform: BNB
 crypto: true
 fiat: false
 id: BANKR
 id_coinmarketcap: '11435'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11435.png
 name: BankRoll
-platform: BNB
-platform_contract: '0x240eb70aafe740f753066a413ddad73b7c72b4e2'

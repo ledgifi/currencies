@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x78e5c7380cd1ecf27bb1234df7633d998eb71cfc'
+    platform: KLAY
 crypto: true
 fiat: false
 id: KOP
 id_coinmarketcap: '19838'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19838.png
 name: King of Planets
-platform: KLAY
-platform_contract: '0x78e5c7380cd1ecf27bb1234df7633d998eb71cfc'

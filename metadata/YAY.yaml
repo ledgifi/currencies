@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x524df384bffb18c0c8f3f43d012011f8f9795579'
+    platform: BNB
 crypto: true
 fiat: false
 id: YAY
 id_coinmarketcap: '11664'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11664.png
 name: YAY Games
-platform: BNB
-platform_contract: '0x524df384bffb18c0c8f3f43d012011f8f9795579'

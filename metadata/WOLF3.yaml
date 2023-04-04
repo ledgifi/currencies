@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe2faF52FfaAf1EC39287DdDae5E6Fc50c3f06Be3'
+    platform: BNB
 crypto: true
 fiat: false
 id: WOLF3
 id_coinmarketcap: '19995'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19995.png
 name: WOLF INU
-platform: BNB
-platform_contract: '0xe2faF52FfaAf1EC39287DdDae5E6Fc50c3f06Be3'

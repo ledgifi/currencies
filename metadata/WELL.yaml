@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x511ab53f793683763e5a8829738301368a2411e3'
+    platform: GLMR
 crypto: true
 fiat: false
 id: WELL
 id_coinmarketcap: '20734'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20734.png
 name: Moonwell
-platform: GLMR
-platform_contract: '0x511ab53f793683763e5a8829738301368a2411e3'

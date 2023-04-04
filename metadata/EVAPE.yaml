@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x69d1ff85004a445a892dfbd88df00d48fb0af638'
+    platform: ETH
 crypto: true
 fiat: false
 id: EVAPE
 id_coinmarketcap: '11241'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11241.png
 name: EveryApe
-platform: ETH
-platform_contract: '0x69d1ff85004a445a892dfbd88df00d48fb0af638'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf8d5153839d8ace20ee6d262c24c8c168e057b88'
+    platform: BNB
 crypto: true
 fiat: false
 id: BOMB4
 id_coinmarketcap: '15415'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15415.png
 name: Bomberman
-platform: BNB
-platform_contract: '0xf8d5153839d8ace20ee6d262c24c8c168e057b88'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x47252a63c723889814aebcac0683e615624cec64'
+    platform: ETH
 crypto: true
 fiat: false
 id: NIL1
 id_coinmarketcap: '17367'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17367.png
 name: Nil DAO
-platform: ETH
-platform_contract: '0x47252a63c723889814aebcac0683e615624cec64'

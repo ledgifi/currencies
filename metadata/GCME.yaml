@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9528cCEb678B90dAf02cA5cA45622D5cBaF58A30'
+    platform: ETH
 crypto: true
 fiat: false
 id: GCME
 id_coinmarketcap: '18363'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18363.png
 name: GoCryptoMe
-platform: ETH
-platform_contract: '0x9528cCEb678B90dAf02cA5cA45622D5cBaF58A30'

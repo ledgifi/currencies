@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xc28d4341ad8224e1a424558074ef0b4515f424d5'
+    platform: ETH
 crypto: true
 fiat: false
 id: DBT
@@ -7,5 +10,3 @@ id_nomics: DBT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DBT.jpg
 logoKey: currencies/dbt.jpg
 name: Datbit
-platform: ETH
-platform_contract: '0xc28d4341ad8224e1a424558074ef0b4515f424d5'

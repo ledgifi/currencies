@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb139ed26b743c7254a246cf91eb594d097238524'
+    platform: BNB
 crypto: true
 fiat: false
 id: FALCONS
 id_coinmarketcap: '12835'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12835.png
 name: Falcon Swaps
-platform: BNB
-platform_contract: '0xb139ed26b743c7254a246cf91eb594d097238524'

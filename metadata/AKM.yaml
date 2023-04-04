@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5f02cf3c7ada49DFC4A3645Fc85C8aE86808Dd9b'
+    platform: ETH
 crypto: true
 fiat: false
 id: AKM
 id_coinmarketcap: '6251'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6251.png
 name: COST COIN+
-platform: ETH
-platform_contract: '0x5f02cf3c7ada49DFC4A3645Fc85C8aE86808Dd9b'

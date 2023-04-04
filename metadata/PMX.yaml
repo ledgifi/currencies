@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xC05D48E8Cd43429915A031C79891d88924cc47Bf'
+    platform: BNB
 crypto: true
 fiat: false
 id: PMX
 id_coinmarketcap: '19457'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19457.png
 name: Play To Maximize
-platform: BNB
-platform_contract: '0xC05D48E8Cd43429915A031C79891d88924cc47Bf'

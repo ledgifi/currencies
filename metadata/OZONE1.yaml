@@ -1,8 +1,9 @@
+contracts:
+  - address: https://flow-view-source.com/mainnet/account/0x256599e1b091be12/contract/OzoneToken
+    platform: FLOW
 crypto: true
 fiat: false
 id: OZONE1
 id_coinmarketcap: '20646'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20646.png
 name: Ozone metaverse
-platform: FLOW
-platform_contract: https://flow-view-source.com/mainnet/account/0x256599e1b091be12/contract/OzoneToken

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1f4105a5231e95BD087Cc28cfF30595346e1e07C'
+    platform: BNB
 crypto: true
 fiat: false
 id: HIDEOUS
 id_coinmarketcap: '14071'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14071.png
 name: HIDEOUS
-platform: BNB
-platform_contract: '0x1f4105a5231e95BD087Cc28cfF30595346e1e07C'

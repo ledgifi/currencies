@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x212fa406fd28663ee6110d863a18e80960300e5c'
+    platform: ETH
 crypto: true
 fiat: false
 id: ANX
 id_coinmarketcap: '5571'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5571.png
 name: Astra Network
-platform: ETH
-platform_contract: '0x212fa406fd28663ee6110d863a18e80960300e5c'

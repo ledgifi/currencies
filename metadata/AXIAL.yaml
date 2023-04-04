@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcF8419A615c57511807236751c0AF38Db4ba3351'
+    platform: AVAX
 crypto: true
 fiat: false
 id: AXIAL
 id_coinmarketcap: '14396'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14396.png
 name: Axial
-platform: AVAX
-platform_contract: '0xcF8419A615c57511807236751c0AF38Db4ba3351'

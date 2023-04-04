@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaFd9a60f8A91572E99CDEABfa062146aFA599FFa'
+    platform: BNB
 crypto: true
 fiat: false
 id: BRANA
 id_coinmarketcap: '21508'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21508.png
 name: Branaverse
-platform: BNB
-platform_contract: '0xaFd9a60f8A91572E99CDEABfa062146aFA599FFa'

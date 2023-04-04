@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x28fDA76721a8077A5dE802Ab0212849B8c38429E'
+    platform: ETH
 crypto: true
 fiat: false
 id: ARV1
 id_coinmarketcap: '15283'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15283.png
 name: Artemis Vision
-platform: ETH
-platform_contract: '0x28fDA76721a8077A5dE802Ab0212849B8c38429E'

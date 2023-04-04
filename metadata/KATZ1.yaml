@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x446eb7770d4e34772b75b3c795d2c2cd00a19808'
+    platform: DOGE
 crypto: true
 fiat: false
 id: KATZ1
 id_coinmarketcap: '21654'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21654.png
 name: KATZ Token
-platform: DOGE
-platform_contract: '0x446eb7770d4e34772b75b3c795d2c2cd00a19808'

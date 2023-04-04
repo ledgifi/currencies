@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF0fB4a5ACf1B1126A991ee189408b112028D7A63'
+    platform: BNB
 crypto: true
 fiat: false
 id: CSC2
 id_coinmarketcap: '12762'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12762.png
 name: Crypto Soccer
-platform: BNB
-platform_contract: '0xF0fB4a5ACf1B1126A991ee189408b112028D7A63'

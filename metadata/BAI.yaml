@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2D77863f3586E1e4e6D91706b6C8a1e1f628b4aD'
+    platform: BNB
 crypto: true
 fiat: false
 id: BAI
 id_coinmarketcap: '23753'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23753.png
 name: Based AI
-platform: BNB
-platform_contract: '0x2D77863f3586E1e4e6D91706b6C8a1e1f628b4aD'

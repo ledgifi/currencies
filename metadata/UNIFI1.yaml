@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0ef3b2024ae079e6dbc2b37435ce30d2731f0101'
+    platform: ETH
 crypto: true
 fiat: false
 id: UNIFI1
 id_coinmarketcap: '7122'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7122.png
 name: UNIFI DeFi
-platform: ETH
-platform_contract: '0x0ef3b2024ae079e6dbc2b37435ce30d2731f0101'

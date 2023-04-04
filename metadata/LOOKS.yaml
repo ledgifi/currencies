@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xf4d2888d29d722226fafa5d9b24f9164c092421e'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: LOOKS
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220414/62df39de-0321-477b-a91c-465bd79d180c.png
 logoKey: currencies/looks.png
 name: LooksRare
-platform: ETH
-platform_contract: '0xf4d2888d29d722226fafa5d9b24f9164c092421e'

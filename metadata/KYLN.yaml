@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb2d7dcd9834c37e2be9e41855dafd86898e06d17'
+    platform: BNB
 crypto: true
 fiat: false
 id: KYLN
 id_coinmarketcap: '23107'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23107.png
 name: Kylon Project
-platform: BNB
-platform_contract: '0xb2d7dcd9834c37e2be9e41855dafd86898e06d17'

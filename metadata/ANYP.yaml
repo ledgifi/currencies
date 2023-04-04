@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0356ed6caec19d3f353821480ca44bf7db6d713d'
+    platform: BNB
 crypto: true
 fiat: false
 id: ANYP
 id_coinmarketcap: '16123'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16123.png
 name: AnyPrinter
-platform: BNB
-platform_contract: '0x0356ed6caec19d3f353821480ca44bf7db6d713d'

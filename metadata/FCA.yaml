@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcacf66a82095832aa96076630b0e5364774856a1'
+    platform: ETH
 crypto: true
 fiat: false
 id: FCA
 id_coinmarketcap: '5036'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5036.png
 name: Fanaticos Active
-platform: ETH
-platform_contract: '0xcacf66a82095832aa96076630b0e5364774856a1'

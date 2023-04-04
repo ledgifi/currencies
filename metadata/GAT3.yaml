@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x41d5c3ed01b72ecb5c99d3b838553098ecda9ef9'
+    platform: BNB
 crypto: true
 fiat: false
 id: GAT3
 id_coinmarketcap: '10950'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10950.png
 name: GAT Network
-platform: BNB
-platform_contract: '0x41d5c3ed01b72ecb5c99d3b838553098ecda9ef9'

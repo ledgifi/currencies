@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2167afa1c658dc5c4ec975f4af608ff075a8b8ae'
+    platform: BNB
 crypto: true
 fiat: false
 id: EV
 id_coinmarketcap: '9805'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9805.png
 name: EVAI
-platform: BNB
-platform_contract: '0x2167afa1c658dc5c4ec975f4af608ff075a8b8ae'

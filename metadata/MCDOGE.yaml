@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5fdfe5ee55ae0fb7e0dba3481ea46f22fc92cbbb'
+    platform: ETH
 crypto: true
 fiat: false
 id: MCDOGE
 id_coinmarketcap: '17646'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17646.png
 name: McDoge
-platform: ETH
-platform_contract: '0x5fdfe5ee55ae0fb7e0dba3481ea46f22fc92cbbb'

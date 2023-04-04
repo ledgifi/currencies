@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x13599cf04afd22f2fe7d7cf77cc41410dfcf532a'
+    platform: ETH
 crypto: true
 fiat: false
 id: SPX1
 id_coinmarketcap: '4976'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4976.png
 name: SPORTSPLEX
-platform: ETH
-platform_contract: '0x13599cf04afd22f2fe7d7cf77cc41410dfcf532a'

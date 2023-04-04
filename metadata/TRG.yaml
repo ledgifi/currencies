@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x93eeb426782bd88fcd4b48d7b0368cf061044928'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRG
 id_coinmarketcap: '23253'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23253.png
 name: The Rug Game
-platform: ETH
-platform_contract: '0x93eeb426782bd88fcd4b48d7b0368cf061044928'

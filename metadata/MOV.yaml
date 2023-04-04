@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6D802Ac662b898622F7A13e1F4cB1A50C7085b6E'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MOV
 id_coinmarketcap: '20895'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20895.png
 name: Movn
-platform: MATIC
-platform_contract: '0x6D802Ac662b898622F7A13e1F4cB1A50C7085b6E'

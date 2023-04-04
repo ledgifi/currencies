@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x73052f51b68D974D2ed6CeC7B9E817ADac168168'
+    platform: BNB
 crypto: true
 fiat: false
 id: IFIT
 id_coinmarketcap: '22058'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22058.png
 name: CALO INDOOR
-platform: BNB
-platform_contract: '0x73052f51b68D974D2ed6CeC7B9E817ADac168168'

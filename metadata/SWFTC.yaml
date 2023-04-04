@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e'
+    platform: ETH
 crypto: true
 fiat: false
 id: SWFTC
 id_coinmarketcap: '2341'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2341.png
 name: SwftCoin
-platform: ETH
-platform_contract: '0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e'

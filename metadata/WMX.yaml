@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa75d9ca2a0a1D547409D82e1B06618EC284A2CeD'
+    platform: BNB
 crypto: true
 fiat: false
 id: WMX
 id_coinmarketcap: '22239'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22239.png
 name: Wombex Finance
-platform: BNB
-platform_contract: '0xa75d9ca2a0a1D547409D82e1B06618EC284A2CeD'

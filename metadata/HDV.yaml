@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8Cd0d76C0ad377378aB6Ce878a7BE686223497eE'
+    platform: BNB
 crypto: true
 fiat: false
 id: HDV
 id_coinmarketcap: '14541'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14541.png
 name: Hydraverse
-platform: BNB
-platform_contract: '0x8Cd0d76C0ad377378aB6Ce878a7BE686223497eE'

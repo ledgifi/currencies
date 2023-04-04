@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8A7aDc1B690E81c758F1BD0F72DFe27Ae6eC56A5'
+    platform: ETH
 crypto: true
 fiat: false
 id: BLID
 id_coinmarketcap: '20765'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20765.png
 name: Bolide
-platform: ETH
-platform_contract: '0x8A7aDc1B690E81c758F1BD0F72DFe27Ae6eC56A5'

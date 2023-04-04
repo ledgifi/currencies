@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x245ef47d4d0505ecf3ac463f4d81f41ade8f1fd1'
+    platform: ETH
 crypto: true
 fiat: false
 id: NUG
 id_coinmarketcap: '3092'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3092.png
 name: Nuggets
-platform: ETH
-platform_contract: '0x245ef47d4d0505ecf3ac463f4d81f41ade8f1fd1'

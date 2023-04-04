@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x374fe834fa8c72875bf49ab015026a31e20e1763'
+    platform: BNB
 crypto: true
 fiat: false
 id: NFTALLBI
 id_coinmarketcap: '18948'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18948.png
 name: NFT All Best ICO
-platform: BNB
-platform_contract: '0x374fe834fa8c72875bf49ab015026a31e20e1763'

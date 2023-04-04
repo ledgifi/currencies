@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfecba472b2540c5a2d3700b2c9e06f0aa7dc6462'
+    platform: ETH
 crypto: true
 fiat: false
 id: PINT
 id_coinmarketcap: '8571'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8571.png
 name: Pub Finance
-platform: ETH
-platform_contract: '0xfecba472b2540c5a2d3700b2c9e06f0aa7dc6462'

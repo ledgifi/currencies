@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9adBdcB5ed360114240495F6C8ccC14E5BE87f13'
+    platform: BNB
 crypto: true
 fiat: false
 id: YLZ
 id_coinmarketcap: '19690'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19690.png
 name: YieldZard
-platform: BNB
-platform_contract: '0x9adBdcB5ed360114240495F6C8ccC14E5BE87f13'

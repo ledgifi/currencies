@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x473426A0C55f0A7Aee06b553EDC33bfD7B252C91'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPERM
 id_coinmarketcap: '9743'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9743.png
 name: SPERM Finance
-platform: BNB
-platform_contract: '0x473426A0C55f0A7Aee06b553EDC33bfD7B252C91'

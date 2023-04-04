@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbdcd5b38ea855ce6f2d199f1d2cce164eed41d85'
+    platform: MATIC
 crypto: true
 fiat: false
 id: POKER
 id_coinmarketcap: '19680'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19680.png
 name: Poker Dogs Token
-platform: MATIC
-platform_contract: '0xbdcd5b38ea855ce6f2d199f1d2cce164eed41d85'

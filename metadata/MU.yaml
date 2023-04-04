@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4c2D292d4c72Ea7003793d86014941522B821fDa'
+    platform: BNB
 crypto: true
 fiat: false
 id: MU
 id_coinmarketcap: '19637'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19637.png
 name: Miracle Universe
-platform: BNB
-platform_contract: '0x4c2D292d4c72Ea7003793d86014941522B821fDa'

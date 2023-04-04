@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3B3Ac5386837Dc563660FB6a0937DFAa5924333B'
+    platform: ETH
 crypto: true
 fiat: false
 id: BCURVE
 id_coinmarketcap: '6171'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6171.png
 name: LP-bCurve
-platform: ETH
-platform_contract: '0x3B3Ac5386837Dc563660FB6a0937DFAa5924333B'

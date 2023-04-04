@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x65ef703f5594d2573eb71aaf55bc0cb548492df4'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: MULTI5
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220330/422b608f-57b1-4850-b866-323777858370.png
 logoKey: currencies/multi.png
 name: Multichain
-platform: ETH
-platform_contract: '0x65ef703f5594d2573eb71aaf55bc0cb548492df4'

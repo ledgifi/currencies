@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5149481a60b57f48a7a97dedc5a28615add8b81f'
+    platform: ETH
 crypto: true
 fiat: false
 id: EVOL
 id_coinmarketcap: '14812'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14812.png
 name: Evol Network
-platform: ETH
-platform_contract: '0x5149481a60b57f48a7a97dedc5a28615add8b81f'

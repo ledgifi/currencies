@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1c3Ec9455d4599584Bba435a60536BD9bBd03FB0'
+    platform: BNB
 crypto: true
 fiat: false
 id: DEFI1
 id_coinmarketcap: '16482'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16482.png
 name: DeFiant
-platform: BNB
-platform_contract: '0x1c3Ec9455d4599584Bba435a60536BD9bBd03FB0'

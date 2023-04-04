@@ -1,8 +1,9 @@
+contracts:
+  - address: 49fe136eb6a7f438fec3a2b1fedbc29ce2723c5248530b3b1f5fbde74b49434b
+    platform: ADA
 crypto: true
 fiat: false
 id: KICK1
 id_coinmarketcap: '12640'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12640.png
 name: KICK.IO
-platform: ADA
-platform_contract: 49fe136eb6a7f438fec3a2b1fedbc29ce2723c5248530b3b1f5fbde74b49434b

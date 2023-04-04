@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x20c3fa331a385b63ee39137e99d0cf2db142fce1'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHIL
 id_coinmarketcap: '23357'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23357.png
 name: Shila Inu
-platform: ETH
-platform_contract: '0x20c3fa331a385b63ee39137e99d0cf2db142fce1'

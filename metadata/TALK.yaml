@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcaabcaa4ca42e1d86de1a201c818639def0ba7a7'
+    platform: ETH
 crypto: true
 fiat: false
 id: TALK
 id_coinmarketcap: '11552'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11552.png
 name: Talken
-platform: ETH
-platform_contract: '0xcaabcaa4ca42e1d86de1a201c818639def0ba7a7'

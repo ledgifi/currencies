@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7a2bc711e19ba6aff6ce8246c546e8c4b4944dfd'
+    platform: ETH
 crypto: true
 fiat: false
 id: WAXE
 id_coinmarketcap: '8136'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8136.png
 name: WAXE
-platform: ETH
-platform_contract: '0x7a2bc711e19ba6aff6ce8246c546e8c4b4944dfd'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfbfae0dd49882e503982f8eb4b8b1e464eca0b91'
+    platform: FTM
 crypto: true
 fiat: false
 id: TCS
 id_coinmarketcap: '12463'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12463.png
 name: Timechain Swap Token
-platform: FTM
-platform_contract: '0xfbfae0dd49882e503982f8eb4b8b1e464eca0b91'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0e53c8779197ac62b93251ebcb1d562325a0f5f3'
+    platform: BNB
 crypto: true
 fiat: false
 id: XRHP
 id_coinmarketcap: '15301'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15301.png
 name: RHP
-platform: BNB
-platform_contract: '0x0e53c8779197ac62b93251ebcb1d562325a0f5f3'

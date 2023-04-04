@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x09cff8917a7a161e07b1b7ae9f1e9518e5284eb5'
+    platform: KLAY
 crypto: true
 fiat: false
 id: CELEB
 id_coinmarketcap: '8788'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8788.png
 name: CELEBPLUS
-platform: KLAY
-platform_contract: '0x09cff8917a7a161e07b1b7ae9f1e9518e5284eb5'

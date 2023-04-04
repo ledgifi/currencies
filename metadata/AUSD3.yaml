@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdcecf0664c33321ceca2effce701e710a2d28a3f'
+    platform: BNB
 crypto: true
 fiat: false
 id: AUSD3
 id_coinmarketcap: '17066'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17066.png
 name: Alpaca USD
-platform: BNB
-platform_contract: '0xdcecf0664c33321ceca2effce701e710a2d28a3f'

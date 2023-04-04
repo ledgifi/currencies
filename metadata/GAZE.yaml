@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd1e06952708771f71e6dd18f06ee418f6e8fc564'
+    platform: ETH
 crypto: true
 fiat: false
 id: GAZE
 id_coinmarketcap: '9433'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9433.png
 name: GazeTV
-platform: ETH
-platform_contract: '0xd1e06952708771f71e6dd18f06ee418f6e8fc564'

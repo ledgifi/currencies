@@ -1,8 +1,9 @@
+contracts:
+  - address: '724480511'
+    platform: ALGO
 crypto: true
 fiat: false
 id: ALGX
 id_coinmarketcap: '20132'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20132.png
 name: Algodex Token
-platform: ALGO
-platform_contract: '724480511'

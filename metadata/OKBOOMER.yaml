@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE9db02A654b74ca04734B26ef3B2a79808d43404'
+    platform: BNB
 crypto: true
 fiat: false
 id: OKBOOMER
 id_coinmarketcap: '11769'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11769.png
 name: OKBoomer Token
-platform: BNB
-platform_contract: '0xE9db02A654b74ca04734B26ef3B2a79808d43404'

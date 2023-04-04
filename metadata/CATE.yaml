@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe4fae3faa8300810c835970b9187c268f55d998f'
+    platform: BNB
 crypto: true
 fiat: false
 id: CATE
 id_coinmarketcap: '9656'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9656.png
 name: CateCoin
-platform: BNB
-platform_contract: '0xe4fae3faa8300810c835970b9187c268f55d998f'

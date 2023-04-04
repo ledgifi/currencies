@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8D841867C96253F3d3A93f33DdeBa341906A529C'
+    platform: BNB
 crypto: true
 fiat: false
 id: KAMI
 id_coinmarketcap: '12022'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12022.png
 name: Kamiland
-platform: BNB
-platform_contract: '0x8D841867C96253F3d3A93f33DdeBa341906A529C'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3242Bc862D11155F17Ea4b8D0250185FC2c5cf21'
+    platform: BNB
 crypto: true
 fiat: false
 id: ORA
 id_coinmarketcap: '10656'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10656.png
 name: COIN ORACLE
-platform: BNB
-platform_contract: '0x3242Bc862D11155F17Ea4b8D0250185FC2c5cf21'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xa130e3a33a4d84b04c3918c4e5762223ae252f80'
+    platform: ETH
 crypto: true
 fiat: false
 id: SWASH
@@ -6,5 +9,3 @@ id_nomics: SWASH
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWASH.png
 logoKey: currencies/swash.png
 name: Swash
-platform: ETH
-platform_contract: '0xa130e3a33a4d84b04c3918c4e5762223ae252f80'

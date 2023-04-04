@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x171928f3add0317dd3ed38649ce7cf37433078df'
+    platform: BNB
 crypto: true
 fiat: false
 id: ITFX
 id_coinmarketcap: '15859'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15859.png
 name: INS3.Finance
-platform: BNB
-platform_contract: '0x171928f3add0317dd3ed38649ce7cf37433078df'

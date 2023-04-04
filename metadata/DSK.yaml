@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x362bc4b0b2a8134d87ace9143d284a2eced3fd2a'
+    platform: ETH
 crypto: true
 fiat: false
 id: DSK
 id_coinmarketcap: '20572'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20572.png
 name: Darüşşafaka Spor Kulübü Token
-platform: ETH
-platform_contract: '0x362bc4b0b2a8134d87ace9143d284a2eced3fd2a'

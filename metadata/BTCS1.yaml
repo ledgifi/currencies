@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd96b9fd7586d9ea24c950d24399be4fb65372fdd'
+    platform: ETH
 crypto: true
 fiat: false
 id: BTCS1
 id_coinmarketcap: '2102'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2102.png
 name: Bitcoin Silver
-platform: ETH
-platform_contract: '0xd96b9fd7586d9ea24c950d24399be4fb65372fdd'

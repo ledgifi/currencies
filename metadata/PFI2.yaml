@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe46b4a950c389e80621d10dfc398e91613c7e25e'
+    platform: MATIC
 crypto: true
 fiat: false
 id: PFI2
 id_coinmarketcap: '22035'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22035.png
 name: PartyFi
-platform: MATIC
-platform_contract: '0xe46b4a950c389e80621d10dfc398e91613c7e25e'

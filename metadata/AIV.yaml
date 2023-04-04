@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc35aAea6dD561A9976E1745A22F8CC5A762354BB'
+    platform: ETH
 crypto: true
 fiat: false
 id: AIV
 id_coinmarketcap: '5307'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5307.png
 name: AIVIA
-platform: ETH
-platform_contract: '0xc35aAea6dD561A9976E1745A22F8CC5A762354BB'

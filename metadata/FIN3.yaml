@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x934a9f51873783f066e018c05b4f2e3ae1ce95dc'
+    platform: ETH
 crypto: true
 fiat: false
 id: FIN3
 id_coinmarketcap: '22648'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22648.png
 name: FINL
-platform: ETH
-platform_contract: '0x934a9f51873783f066e018c05b4f2e3ae1ce95dc'

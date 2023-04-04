@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x14E0980675ADa43085c6C69c3cd207a03E43549b'
+    platform: BNB
 crypto: true
 fiat: false
 id: FDAO
 id_coinmarketcap: '23817'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23817.png
 name: Figure DAO
-platform: BNB
-platform_contract: '0x14E0980675ADa43085c6C69c3cd207a03E43549b'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8FAc8031e079F409135766C7d5De29cf22EF897C'
+    platform: ETH
 crypto: true
 fiat: false
 id: HEART
 id_coinmarketcap: '15584'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15584.png
 name: Humans.ai
-platform: ETH
-platform_contract: '0x8FAc8031e079F409135766C7d5De29cf22EF897C'

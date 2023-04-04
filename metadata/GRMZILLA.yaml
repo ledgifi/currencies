@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA1Fd7Ec67A2997b6Cd440f90085925459eD03f1a'
+    platform: BNB
 crypto: true
 fiat: false
 id: GRMZilla
 id_coinmarketcap: '13412'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13412.png
 name: GreenMoonZilla
-platform: BNB
-platform_contract: '0xA1Fd7Ec67A2997b6Cd440f90085925459eD03f1a'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x94e25fc8960dce26823afeebf8a82ebc13c8e439'
+    platform: ETH
 crypto: true
 fiat: false
 id: $PUPPY
 id_coinmarketcap: '14111'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14111.png
 name: Puppy Token
-platform: ETH
-platform_contract: '0x94e25fc8960dce26823afeebf8a82ebc13c8e439'

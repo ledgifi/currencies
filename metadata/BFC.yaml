@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c'
+    platform: ETH
 crypto: true
 fiat: false
 id: BFC
 id_coinmarketcap: '7817'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7817.png
 name: Bifrost
-platform: ETH
-platform_contract: '0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c'

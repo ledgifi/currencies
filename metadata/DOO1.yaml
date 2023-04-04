@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe7097fe636f89cd0068f9e8252af871fe7cf59a5'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOO1
 id_coinmarketcap: '15119'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15119.png
 name: DOFI
-platform: BNB
-platform_contract: '0xe7097fe636f89cd0068f9e8252af871fe7cf59a5'

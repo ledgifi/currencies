@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x24692791bc444c5cd0b81e3cbcaba4b04acd1f3b'
+    platform: ETH
 crypto: true
 fiat: false
 id: UKG
 id_coinmarketcap: '2149'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2149.png
 name: Unikoin Gold
-platform: ETH
-platform_contract: '0x24692791bc444c5cd0b81e3cbcaba4b04acd1f3b'

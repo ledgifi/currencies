@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1E5Dd94A6d7190ab77f834E2cCDF9072597ae4E3'
+    platform: BNB
 crypto: true
 fiat: false
 id: PULSEFEG
 id_coinmarketcap: '13876'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13876.png
 name: PulseFeg
-platform: BNB
-platform_contract: '0x1E5Dd94A6d7190ab77f834E2cCDF9072597ae4E3'

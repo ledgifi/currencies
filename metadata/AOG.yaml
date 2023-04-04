@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8578530205cecbe5db83f7f29ecfeec860c297c2'
+    platform: ETH
 crypto: true
 fiat: false
 id: AOG
 id_coinmarketcap: '3316'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3316.png
 name: smARTOFGIVING
-platform: ETH
-platform_contract: '0x8578530205cecbe5db83f7f29ecfeec860c297c2'

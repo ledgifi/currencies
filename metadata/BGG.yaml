@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xea54c81fe0f72de8e86b6dc78a9271aa3925e3b5'
+    platform: ETH
 crypto: true
 fiat: false
 id: BGG
@@ -7,5 +10,3 @@ id_nomics: BGG
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bgg.jpg
 logoKey: currencies/bgg.jpg
 name: Bgogo Token
-platform: ETH
-platform_contract: '0xea54c81fe0f72de8e86b6dc78a9271aa3925e3b5'

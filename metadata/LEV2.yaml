@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0f4ca92660efad97a9a70cb0fe969c755439772c'
+    platform: ETH
 crypto: true
 fiat: false
 id: LEV2
 id_coinmarketcap: '2377'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2377.png
 name: Leverj
-platform: ETH
-platform_contract: '0x0f4ca92660efad97a9a70cb0fe969c755439772c'

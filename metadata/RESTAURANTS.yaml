@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdffc63f92c939deb112d88735ade3b4d21b6d491'
+    platform: ETH
 crypto: true
 fiat: false
 id: RESTAURANTS
 id_coinmarketcap: '17423'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17423.png
 name: V1 Devour Token
-platform: ETH
-platform_contract: '0xdffc63f92c939deb112d88735ade3b4d21b6d491'

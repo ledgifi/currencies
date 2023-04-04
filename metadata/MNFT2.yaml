@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x36953B5Ec00A13eDcEceB3aF258D034913D2A79D'
+    platform: BNB
 crypto: true
 fiat: false
 id: MNFT2
 id_coinmarketcap: '16182'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16182.png
 name: ManuFactory
-platform: BNB
-platform_contract: '0x36953B5Ec00A13eDcEceB3aF258D034913D2A79D'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB9D7DdDca9a4AC480991865EfEf82E01273F79C3'
+    platform: ETH
 crypto: true
 fiat: false
 id: BLUSD
 id_coinmarketcap: '22090'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22090.png
 name: LUSD Chicken Bonds
-platform: ETH
-platform_contract: '0xB9D7DdDca9a4AC480991865EfEf82E01273F79C3'

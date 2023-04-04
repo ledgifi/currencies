@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xC79d1fD14F514cD713b5cA43D288a782Ae53eAb2'
+    platform: BNB
 crypto: true
 fiat: false
 id: XLD
 id_coinmarketcap: '12071'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12071.png
 name: XcelDefi
-platform: BNB
-platform_contract: '0xC79d1fD14F514cD713b5cA43D288a782Ae53eAb2'

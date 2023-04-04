@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xeed4d7316a04ee59de3d301a384262ffbdbd589a'
+    platform: ETH
 crypto: true
 fiat: false
 id: PGX1
 id_coinmarketcap: '20952'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20952.png
 name: Page Network
-platform: ETH
-platform_contract: '0xeed4d7316a04ee59de3d301a384262ffbdbd589a'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe8c09672cfb9cfce6e2edbb01057d9fa569f97c1'
+    platform: ETH
 crypto: true
 fiat: false
 id: INDI1
 id_coinmarketcap: '2519'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2519.png
 name: Indicoin
-platform: ETH
-platform_contract: '0xe8c09672cfb9cfce6e2edbb01057d9fa569f97c1'

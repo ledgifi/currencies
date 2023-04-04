@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf3aEF59EA17d3082F368387ffF073D5E05874ad9'
+    platform: BNB
 crypto: true
 fiat: false
 id: $SPLUSV2
 id_coinmarketcap: '16958'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16958.png
 name: SafeplusV2
-platform: BNB
-platform_contract: '0xf3aEF59EA17d3082F368387ffF073D5E05874ad9'

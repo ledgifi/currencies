@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf84C55e79858B448c3015c3a1A55efED9EdF69c7'
+    platform: BNB
 crypto: true
 fiat: false
 id: AVAN
 id_coinmarketcap: '23565'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23565.png
 name: AVANA
-platform: BNB
-platform_contract: '0xf84C55e79858B448c3015c3a1A55efED9EdF69c7'

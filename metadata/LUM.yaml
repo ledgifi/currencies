@@ -1,8 +1,9 @@
+contracts:
+  - address: IBC/8A34AF0C1943FD0DFCDE9ADBF0B2C9959C45E87E6088EA2FC6ADACD59261B8A2
+    platform: ATOM
 crypto: true
 fiat: false
 id: LUM
 id_coinmarketcap: '17183'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17183.png
 name: Lum Network
-platform: ATOM
-platform_contract: IBC/8A34AF0C1943FD0DFCDE9ADBF0B2C9959C45E87E6088EA2FC6ADACD59261B8A2

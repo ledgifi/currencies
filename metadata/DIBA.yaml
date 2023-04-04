@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xE5094E58042e5332CfD25Ed18e4d805e86Fb8f05'
+    platform: BNB
 crypto: true
 fiat: false
 id: DIBA
 id_coinmarketcap: '18875'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18875.png
 name: Madiba
-platform: BNB
-platform_contract: '0xE5094E58042e5332CfD25Ed18e4d805e86Fb8f05'

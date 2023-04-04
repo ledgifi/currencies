@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: CHR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHR.png
 logoKey: currencies/chr.png
 name: Chromia
-platform: ETH
-platform_contract: '0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2'

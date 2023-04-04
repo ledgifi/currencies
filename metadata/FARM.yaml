@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xa0246c9032bC3A600820415aE600c6388619A14D'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: FARM3
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/576c71dc-4a9f-4e9b-b34c-8b80e1e836e0.png
 logoKey: currencies/farm.png
 name: Harvest Finance
-platform: ETH
-platform_contract: '0xa0246c9032bC3A600820415aE600c6388619A14D'

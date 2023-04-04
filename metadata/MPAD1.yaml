@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x11d1ac5ec23e3a193e8a491a198f5fc9ee715839'
+    platform: BNB
 crypto: true
 fiat: false
 id: MPAD1
 id_coinmarketcap: '10968'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10968.png
 name: MultiPad
-platform: BNB
-platform_contract: '0x11d1ac5ec23e3a193e8a491a198f5fc9ee715839'

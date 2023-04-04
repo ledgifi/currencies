@@ -1,8 +1,9 @@
+contracts:
+  - address: https://bloks.io/account/hubtokenmint
+    platform: EOS
 crypto: true
 fiat: false
 id: UTU1
 id_coinmarketcap: '17019'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17019.png
 name: UTU.ONE
-platform: EOS
-platform_contract: https://bloks.io/account/hubtokenmint

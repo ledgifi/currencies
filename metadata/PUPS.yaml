@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x737DE48d5b5f775B4014FEbEc009Ef0cB1182f59'
+    platform: BNB
 crypto: true
 fiat: false
 id: PUPS
 id_coinmarketcap: '18722'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18722.png
 name: Pudgy Pups Club[new]
-platform: BNB
-platform_contract: '0x737DE48d5b5f775B4014FEbEc009Ef0cB1182f59'

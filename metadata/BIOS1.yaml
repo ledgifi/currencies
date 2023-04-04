@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaaca86b876ca011844b5798eca7a67591a9743c8'
+    platform: ETH
 crypto: true
 fiat: false
 id: BIOS1
 id_coinmarketcap: '10139'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10139.png
 name: 0x_nodes
-platform: ETH
-platform_contract: '0xaaca86b876ca011844b5798eca7a67591a9743c8'

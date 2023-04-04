@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9064c91e51d7021A85AD96817e1432aBf6624470'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHE
 id_coinmarketcap: '3252'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3252.png
 name: ShineChain
-platform: ETH
-platform_contract: '0x9064c91e51d7021A85AD96817e1432aBf6624470'

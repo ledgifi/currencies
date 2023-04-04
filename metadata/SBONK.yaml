@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf355dA49fA91fB4F7E32a91962a45FB66760F2bb'
+    platform: ETH
 crypto: true
 fiat: false
 id: SBONK
 id_coinmarketcap: '23183'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23183.png
 name: SHIBONK
-platform: ETH
-platform_contract: '0xf355dA49fA91fB4F7E32a91962a45FB66760F2bb'

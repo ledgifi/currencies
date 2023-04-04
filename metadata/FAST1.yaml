@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2322AfAaC81697E770c19a58df587d8739777536'
+    platform: BNB
 crypto: true
 fiat: false
 id: FAST1
 id_coinmarketcap: '12996'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12996.png
 name: FastSwap (BSC)
-platform: BNB
-platform_contract: '0x2322AfAaC81697E770c19a58df587d8739777536'

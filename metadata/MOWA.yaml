@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x411Ec510c85C9e56271bF4E10364Ffa909E685D9'
+    platform: BNB
 crypto: true
 fiat: false
 id: MOWA
 id_coinmarketcap: '12172'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12172.png
 name: Moniwar
-platform: BNB
-platform_contract: '0x411Ec510c85C9e56271bF4E10364Ffa909E685D9'

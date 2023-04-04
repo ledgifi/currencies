@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x80487b4f8f70e793A81a42367c225ee0B94315DF'
+    platform: MATIC
 crypto: true
 fiat: false
 id: CASH7
 id_coinmarketcap: '21703'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21703.png
 name: Stabl.fi
-platform: MATIC
-platform_contract: '0x80487b4f8f70e793A81a42367c225ee0B94315DF'

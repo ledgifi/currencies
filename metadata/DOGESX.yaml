@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb8bec9f1b1e27EE3435Cd77e44B51A06DD7Af5eb'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOGESX
 id_coinmarketcap: '16930'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16930.png
 name: Doge SpaceX
-platform: BNB
-platform_contract: '0xb8bec9f1b1e27EE3435Cd77e44B51A06DD7Af5eb'

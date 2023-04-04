@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe09216f1d343dd39d6aa732a08036fee48555af0'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRIB
 id_coinmarketcap: '7170'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7170.png
 name: Contribute
-platform: ETH
-platform_contract: '0xe09216f1d343dd39d6aa732a08036fee48555af0'

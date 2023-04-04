@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x61A47034276eb993e1C5E67BF1375aD0A48F10F6'
+    platform: AVAX
 crypto: true
 fiat: false
 id: NRK
 id_coinmarketcap: '17649'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17649.png
 name: NoahArk
-platform: AVAX
-platform_contract: '0x61A47034276eb993e1C5E67BF1375aD0A48F10F6'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5f4c449F342441a85E649C662934Ab8357B983C1'
+    platform: BNB
 crypto: true
 fiat: false
 id: AMH
 id_coinmarketcap: '16244'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16244.png
 name: Amphorium
-platform: BNB
-platform_contract: '0x5f4c449F342441a85E649C662934Ab8357B983C1'

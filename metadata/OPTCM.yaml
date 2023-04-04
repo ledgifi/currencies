@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7a2277f34f275ded630deff758fbc818409ca36d'
+    platform: BNB
 crypto: true
 fiat: false
 id: OPTCM
 id_coinmarketcap: '16900'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16900.png
 name: Optimus
-platform: BNB
-platform_contract: '0x7a2277f34f275ded630deff758fbc818409ca36d'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x200C234721b5e549c3693CCc93cF191f90dC2aF9'
+    platform: BNB
 crypto: true
 fiat: false
 id: METAL1
 id_coinmarketcap: '17588'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17588.png
 name: Drunk Robots
-platform: BNB
-platform_contract: '0x200C234721b5e549c3693CCc93cF191f90dC2aF9'

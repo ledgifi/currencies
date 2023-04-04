@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xefb94d158206dfa5cb8c30950001713106440928'
+    platform: BNB
 crypto: true
 fiat: false
 id: SEEDS1
 id_coinmarketcap: '8785'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8785.png
 name: Moeda.Finance
-platform: BNB
-platform_contract: '0xefb94d158206dfa5cb8c30950001713106440928'

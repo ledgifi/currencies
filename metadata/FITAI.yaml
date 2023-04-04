@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x73E8Dd9d52BD26a2134698E2Aff964e121f4759b'
+    platform: BNB
 crypto: true
 fiat: false
 id: FITAI
 id_coinmarketcap: '23512'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23512.png
 name: GoFitterAI
-platform: BNB
-platform_contract: '0x73E8Dd9d52BD26a2134698E2Aff964e121f4759b'

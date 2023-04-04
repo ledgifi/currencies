@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x678e840c640f619e17848045d23072844224dd37'
+    platform: ETH
 crypto: true
 fiat: false
 id: CRTS
 id_coinmarketcap: '12064'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12064.png
 name: Cratos
-platform: ETH
-platform_contract: '0x678e840c640f619e17848045d23072844224dd37'

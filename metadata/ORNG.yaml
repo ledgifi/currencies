@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x744893f09C5d198789bF98f414f59030A4FD52F8'
+    platform: FTM
 crypto: true
 fiat: false
 id: ORNG
 id_coinmarketcap: '13417'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13417.png
 name: OrangeSwap
-platform: FTM
-platform_contract: '0x744893f09C5d198789bF98f414f59030A4FD52F8'

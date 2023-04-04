@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xba93ef534094f8b7001ece2691168140965341ab'
+    platform: ETH
 crypto: true
 fiat: false
 id: LOTT
 id_coinmarketcap: '22121'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22121.png
 name: Beauty Bakery Linked Operation Transaction Technology
-platform: ETH
-platform_contract: '0xba93ef534094f8b7001ece2691168140965341ab'

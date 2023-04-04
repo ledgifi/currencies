@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7B86b0836f3454e50C6F6a190cd692bB17da1928'
+    platform: BNB
 crypto: true
 fiat: false
 id: BEM
 id_coinmarketcap: '12878'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12878.png
 name: BEMIL Coin
-platform: BNB
-platform_contract: '0x7B86b0836f3454e50C6F6a190cd692bB17da1928'

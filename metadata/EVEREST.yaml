@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x298eae6183ad70c433b7c7aae1543aed73f1207e'
+    platform: BNB
 crypto: true
 fiat: false
 id: EVEREST
 id_coinmarketcap: '13017'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13017.png
 name: EVEREST RISING
-platform: BNB
-platform_contract: '0x298eae6183ad70c433b7c7aae1543aed73f1207e'

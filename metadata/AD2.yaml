@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc4ACD115F1CeeBD4A88273423D6CF77C4A1c7559'
+    platform: BNB
 crypto: true
 fiat: false
 id: AD2
 id_coinmarketcap: '4154'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4154.png
 name: Asian Dragon
-platform: BNB
-platform_contract: '0xc4ACD115F1CeeBD4A88273423D6CF77C4A1c7559'

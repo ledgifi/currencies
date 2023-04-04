@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4b4571925e94ccd8c546b39462a270cc9b3ed1e4'
+    platform: ETH
 crypto: true
 fiat: false
 id: WSHIFT
 id_coinmarketcap: '8380'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8380.png
 name: Wrapped Shift
-platform: ETH
-platform_contract: '0x4b4571925e94ccd8c546b39462a270cc9b3ed1e4'

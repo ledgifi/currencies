@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x912CE59144191C1204E64559FE8253a0e49E6548'
+    platform: ARB
 crypto: true
 decimals: 8
 fiat: false
@@ -6,5 +9,3 @@ id_binance: '1175'
 id_coinmarketcap: '11841'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11841.png
 name: Arbitrum
-platform: ARB
-platform_contract: '0x912CE59144191C1204E64559FE8253a0e49E6548'

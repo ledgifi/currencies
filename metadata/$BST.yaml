@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfccf3229063b1aa16af6b9b5de1b7e0c1bfe4046'
+    platform: BNB
 crypto: true
 fiat: false
 id: $BST
 id_coinmarketcap: '14164'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14164.png
 name: Baby Santa Token
-platform: BNB
-platform_contract: '0xfccf3229063b1aa16af6b9b5de1b7e0c1bfe4046'

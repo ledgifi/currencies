@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x77e9618179820961ee99a988983bc9ab41ff3112'
+    platform: ETH
 crypto: true
 fiat: false
 id: DAX1
 id_coinmarketcap: '11846'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11846.png
 name: Dragon X
-platform: ETH
-platform_contract: '0x77e9618179820961ee99a988983bc9ab41ff3112'

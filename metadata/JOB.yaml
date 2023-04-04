@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdfbc9050f5b01df53512dcc39b4f2b2bbacd517a'
+    platform: ETH
 crypto: true
 fiat: false
 id: JOB
 id_coinmarketcap: '4287'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4287.png
 name: Jobchain
-platform: ETH
-platform_contract: '0xdfbc9050f5b01df53512dcc39b4f2b2bbacd517a'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x71e72DdE4152D274afD1F2DB43531Ed9E44A78Fa'
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: LTT5
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220218/4392b605-458f-4ee0-9d63-ce734601166f.png
 logoKey: currencies/ltt.png
 name: Lord Token
-platform: BNB
-platform_contract: '0x71e72DdE4152D274afD1F2DB43531Ed9E44A78Fa'

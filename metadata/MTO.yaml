@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe66b3aa360bb78468c00bebe163630269db3324f'
+    platform: ETH
 crypto: true
 fiat: false
 id: MTO
 id_coinmarketcap: '12395'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12395.png
 name: Merchant Token
-platform: ETH
-platform_contract: '0xe66b3aa360bb78468c00bebe163630269db3324f'

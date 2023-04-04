@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf41e5fbc2f6aac200dd8619e121ce1f05d150077'
+    platform: ETH
 crypto: true
 fiat: false
 id: CRC3
 id_coinmarketcap: '2664'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2664.png
 name: CryCash
-platform: ETH
-platform_contract: '0xf41e5fbc2f6aac200dd8619e121ce1f05d150077'

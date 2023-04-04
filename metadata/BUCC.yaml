@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd5a7d515fb8b3337acb9b053743e0bc18f50c855'
+    platform: ETH
 crypto: true
 fiat: false
 id: BUCC
 id_coinmarketcap: '7210'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7210.png
 name: Buccaneer V2
-platform: ETH
-platform_contract: '0xd5a7d515fb8b3337acb9b053743e0bc18f50c855'

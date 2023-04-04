@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2A9718defF471f3Bb91FA0ECEAB14154F150a385'
+    platform: BNB
 crypto: true
 fiat: false
 id: EG1
 id_coinmarketcap: '9178'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9178.png
 name: EG (old)
-platform: BNB
-platform_contract: '0x2A9718defF471f3Bb91FA0ECEAB14154F150a385'

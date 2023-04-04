@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbc7250c8c3eca1dfc1728620af835fca489bfdf3'
+    platform: ETH
 crypto: true
 fiat: false
 id: GM
 id_coinmarketcap: '14271'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14271.png
 name: GM Wagmi
-platform: ETH
-platform_contract: '0xbc7250c8c3eca1dfc1728620af835fca489bfdf3'

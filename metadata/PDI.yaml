@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc50948bac01116f246259070ea6084c04649efdf'
+    platform: ETH
 crypto: true
 fiat: false
 id: PDI
 id_coinmarketcap: '4519'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4519.png
 name: Pindex
-platform: ETH
-platform_contract: '0xc50948bac01116f246259070ea6084c04649efdf'

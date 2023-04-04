@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa5d73e6d9227131f821b9cbeed70b10a9a0f270a'
+    platform: BNB
 crypto: true
 fiat: false
 id: OGMN
 id_coinmarketcap: '12106'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12106.png
 name: OrigamiMoon
-platform: BNB
-platform_contract: '0xa5d73e6d9227131f821b9cbeed70b10a9a0f270a'

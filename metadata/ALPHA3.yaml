@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6a3e7c3c6ef65ee26975b12293ca1aad7e1daed2'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ALPHA3
 id_coinmarketcap: '19262'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19262.png
 name: Aavegotchi ALPHA
-platform: MATIC
-platform_contract: '0x6a3e7c3c6ef65ee26975b12293ca1aad7e1daed2'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x66eb97542e35FB514ab378253386792eA6536FB6'
+    platform: BNB
 crypto: true
 fiat: false
 id: ASHIB
 id_coinmarketcap: '14109'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14109.png
 name: Alien Shiba Inu
-platform: BNB
-platform_contract: '0x66eb97542e35FB514ab378253386792eA6536FB6'

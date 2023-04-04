@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x68E157E9adf0Ab6D37639c3Ae3650824B492ADd2'
+    platform: BNB
 crypto: true
 fiat: false
 id: FIG
 id_coinmarketcap: '12521'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12521.png
 name: Financial Intelligence Games
-platform: BNB
-platform_contract: '0x68E157E9adf0Ab6D37639c3Ae3650824B492ADd2'

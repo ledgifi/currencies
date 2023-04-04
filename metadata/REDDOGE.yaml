@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x45b41bf48Eb20466737B4605393734E9165D4B98'
+    platform: BNB
 crypto: true
 fiat: false
 id: REDDOGE
 id_coinmarketcap: '11401'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11401.png
 name: RedDoge
-platform: BNB
-platform_contract: '0x45b41bf48Eb20466737B4605393734E9165D4B98'

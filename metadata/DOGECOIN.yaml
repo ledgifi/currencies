@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x23125108bc4c63E4677b2E253Fa498cCb4B3298b'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOGECOIN
 id_coinmarketcap: '12040'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12040.png
 name: Buff Doge Coin
-platform: BNB
-platform_contract: '0x23125108bc4c63E4677b2E253Fa498cCb4B3298b'

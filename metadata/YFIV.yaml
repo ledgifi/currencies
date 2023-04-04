@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x519083fc539f23131c3b7046992584592772d12a'
+    platform: ETH
 crypto: true
 fiat: false
 id: YFIV
 id_coinmarketcap: '7729'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7729.png
 name: Yearn Finance Value
-platform: ETH
-platform_contract: '0x519083fc539f23131c3b7046992584592772d12a'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7a6e4e3cc2ac9924605dca4ba31d1831c84b44ae'
+    platform: FTM
 crypto: true
 fiat: false
 id: 2OMB
 id_coinmarketcap: '16936'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16936.png
 name: 2omb Finance
-platform: FTM
-platform_contract: '0x7a6e4e3cc2ac9924605dca4ba31d1831c84b44ae'

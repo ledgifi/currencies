@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3b11d489411bf11e843cb28f8824dedbfcb75df3'
+    platform: BNB
 crypto: true
 fiat: false
 id: DINO3
 id_coinmarketcap: '8809'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8809.png
 name: Dino Token
-platform: BNB
-platform_contract: '0x3b11d489411bf11e843cb28f8824dedbfcb75df3'

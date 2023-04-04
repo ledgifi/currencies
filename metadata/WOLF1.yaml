@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcbcd9c0f344960f40c5ce7eb17a17e837fe8bb92'
+    platform: BNB
 crypto: true
 fiat: false
 id: WOLF1
 id_coinmarketcap: '18691'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18691.png
 name: WOLFCOIN
-platform: BNB
-platform_contract: '0xcbcd9c0f344960f40c5ce7eb17a17e837fe8bb92'

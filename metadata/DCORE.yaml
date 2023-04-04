@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb944b46bbd4ccca90c962ef225e2804e46691ccf'
+    platform: ETH
 crypto: true
 fiat: false
 id: DCORE
 id_coinmarketcap: '7372'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7372.png
 name: Decore
-platform: ETH
-platform_contract: '0xb944b46bbd4ccca90c962ef225e2804e46691ccf'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xda86006036540822e0cd2861dbd2fd7ff9caa0e8'
+    platform: ETH
 crypto: true
 fiat: false
 id: TUBE2
 id_coinmarketcap: '12533'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12533.png
 name: ESWAP.TUBE
-platform: ETH
-platform_contract: '0xda86006036540822e0cd2861dbd2fd7ff9caa0e8'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x76f4ed71029767de21785a2d478b3f4f3291db3a'
+    platform: BNB
 crypto: true
 fiat: false
 id: SKYROCKETING
 id_coinmarketcap: '17475'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17475.png
 name: Skyrocketing
-platform: BNB
-platform_contract: '0x76f4ed71029767de21785a2d478b3f4f3291db3a'

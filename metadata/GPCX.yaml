@@ -1,8 +1,9 @@
+contracts:
+  - address: '1003026'
+    platform: TRX
 crypto: true
 fiat: false
 id: GPCX
 id_coinmarketcap: '20367'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20367.png
 name: Good Person Coin
-platform: TRX
-platform_contract: '1003026'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdfd85305A752d70A07A995Fa724Ac4Ff787EBef2'
+    platform: BNB
 crypto: true
 fiat: false
 id: X2P
 id_coinmarketcap: '9735'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9735.png
 name: Xenon Pay
-platform: BNB
-platform_contract: '0xdfd85305A752d70A07A995Fa724Ac4Ff787EBef2'

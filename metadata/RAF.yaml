@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdd84D5Cd7a1f6903A96CD4011f03bcad3335fBfa'
+    platform: BNB
 crypto: true
 fiat: false
 id: RAF
 id_coinmarketcap: '22204'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22204.png
 name: Rafflet
-platform: BNB
-platform_contract: '0xdd84D5Cd7a1f6903A96CD4011f03bcad3335fBfa'

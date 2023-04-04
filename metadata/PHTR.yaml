@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe1fc4455f62a6e89476f1072530c20cf1a0622da'
+    platform: ETH
 crypto: true
 fiat: false
 id: PHTR
 id_coinmarketcap: '9423'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9423.png
 name: Phuture
-platform: ETH
-platform_contract: '0xe1fc4455f62a6e89476f1072530c20cf1a0622da'

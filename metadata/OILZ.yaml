@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1695f45e7A66f9404718543143813E09EFB316D1'
+    platform: BNB
 crypto: true
 fiat: false
 id: OILZ
 id_coinmarketcap: '18911'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18911.png
 name: Oilz Finance
-platform: BNB
-platform_contract: '0x1695f45e7A66f9404718543143813E09EFB316D1'

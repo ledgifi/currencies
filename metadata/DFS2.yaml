@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcec38306558a31cdbb2a9d6285947c5b44a24f3e'
+    platform: ETH
 crypto: true
 fiat: false
 id: DFS2
 id_coinmarketcap: '3329'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3329.png
 name: Fantasy Sports
-platform: ETH
-platform_contract: '0xcec38306558a31cdbb2a9d6285947c5b44a24f3e'

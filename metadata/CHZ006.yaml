@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x706954491ebfd6b38e5b1e6f079dbefae0f5eba0'
+    platform: BNB
 crypto: true
 fiat: false
 id: CHZ006
 id_coinmarketcap: '8990'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8990.png
 name: Charizard Token
-platform: BNB
-platform_contract: '0x706954491ebfd6b38e5b1e6f079dbefae0f5eba0'

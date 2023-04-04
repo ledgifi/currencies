@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcFAF8EDCEA94eBAA080DC4983C3f9BE5701D6613'
+    platform: ARB
 crypto: true
 fiat: false
 id: EXPO1
 id_coinmarketcap: '24183'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24183.png
 name: Exponential Capital
-platform: ARB
-platform_contract: '0xcFAF8EDCEA94eBAA080DC4983C3f9BE5701D6613'

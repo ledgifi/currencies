@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xAE4AA155D2987B454C29450ef4f862CF00907B61'
+    platform: AVAX
 crypto: true
 fiat: false
 id: THO
 id_coinmarketcap: '16901'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16901.png
 name: Thorus
-platform: AVAX
-platform_contract: '0xAE4AA155D2987B454C29450ef4f862CF00907B61'

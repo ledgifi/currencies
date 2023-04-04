@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xe8c09672cfb9cfce6e2edbb01057d9fa569f97c1'
+    platform: ETH
 crypto: true
 fiat: false
 id: INDI
@@ -6,5 +9,3 @@ id_nomics: INDI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/INDI.png
 logoKey: currencies/indi.png
 name: India Coin
-platform: ETH
-platform_contract: '0xe8c09672cfb9cfce6e2edbb01057d9fa569f97c1'

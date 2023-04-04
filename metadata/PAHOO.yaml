@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9954ff0295443c01f562dccb1f893be464e01986'
+    platform: ETH
 crypto: true
 fiat: false
 id: PAHOO
 id_coinmarketcap: '4614'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4614.png
 name: Pahoo
-platform: ETH
-platform_contract: '0x9954ff0295443c01f562dccb1f893be464e01986'

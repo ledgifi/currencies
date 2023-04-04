@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5C0590cDE44569bf39ef79e859B367e39cB000F1'
+    platform: ETH
 crypto: true
 fiat: false
 id: HIVALHALLA
 id_coinmarketcap: '23362'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23362.png
 name: hiVALHALLA
-platform: ETH
-platform_contract: '0x5C0590cDE44569bf39ef79e859B367e39cB000F1'

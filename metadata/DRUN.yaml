@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x29b86ecb7d434a5571f959f1c9a812b7aab34894'
+    platform: BNB
 crypto: true
 fiat: false
 id: DRUN
 id_coinmarketcap: '16426'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16426.png
 name: Doge Run
-platform: BNB
-platform_contract: '0x29b86ecb7d434a5571f959f1c9a812b7aab34894'

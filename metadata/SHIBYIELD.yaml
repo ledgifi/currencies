@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf114d9fe85F457E5923AE96Bd0741a2FcF967907'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIBYIELD
 id_coinmarketcap: '14691'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14691.png
 name: ShibYield Inu
-platform: BNB
-platform_contract: '0xf114d9fe85F457E5923AE96Bd0741a2FcF967907'

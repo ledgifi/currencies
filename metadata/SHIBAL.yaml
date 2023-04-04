@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc900b606674f7800d26030296cd7592a3013649e'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIBAL
 id_coinmarketcap: '11237'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11237.png
 name: Shibal Inu Moon
-platform: BNB
-platform_contract: '0xc900b606674f7800d26030296cd7592a3013649e'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2aa504586d6cab3c59fa629f74c586d78b93a025'
+    platform: BNB
 crypto: true
 fiat: false
 id: APC1
 id_coinmarketcap: '21014'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21014.png
 name: ArenaPlay
-platform: BNB
-platform_contract: '0x2aa504586d6cab3c59fa629f74c586d78b93a025'

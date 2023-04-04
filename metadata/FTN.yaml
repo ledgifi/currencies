@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaeDf386B755465871fF874E3E37Af5976E247064'
+    platform: ETH
 crypto: true
 fiat: false
 id: FTN
 id_coinmarketcap: '22615'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22615.png
 name: Fasttoken
-platform: ETH
-platform_contract: '0xaeDf386B755465871fF874E3E37Af5976E247064'

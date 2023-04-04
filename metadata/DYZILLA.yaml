@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdaca7c8e16ddfa5d5b266380228ca9e2288f3931'
+    platform: BNB
 crypto: true
 fiat: false
 id: DYZILLA
 id_coinmarketcap: '23033'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23033.png
 name: DYZilla
-platform: BNB
-platform_contract: '0xdaca7c8e16ddfa5d5b266380228ca9e2288f3931'

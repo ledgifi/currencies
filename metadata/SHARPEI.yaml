@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfe3af7376e412a377358d5894c790bb3e00d0dc1'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHARPEI
 id_coinmarketcap: '13975'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13975.png
 name: Shar Pei
-platform: BNB
-platform_contract: '0xfe3af7376e412a377358d5894c790bb3e00d0dc1'

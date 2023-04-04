@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x00ee89f7f21b60b72dd5d4070a4310f796c38c32'
+    platform: BNB
 crypto: true
 fiat: false
 id: TFLOW
 id_coinmarketcap: '23774'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23774.png
 name: TradeFlow
-platform: BNB
-platform_contract: '0x00ee89f7f21b60b72dd5d4070a4310f796c38c32'

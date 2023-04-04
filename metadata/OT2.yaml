@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB4B07b60455a2F38cBA98A8f3Dd161f7cA396a9c'
+    platform: ARB
 crypto: true
 fiat: false
 id: OT2
 id_coinmarketcap: '23563'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23563.png
 name: Onchain Trade
-platform: ARB
-platform_contract: '0xB4B07b60455a2F38cBA98A8f3Dd161f7cA396a9c'

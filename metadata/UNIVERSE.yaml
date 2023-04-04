@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCe098464852cFfB680fDb54a7588a7518828faD6'
+    platform: BNB
 crypto: true
 fiat: false
 id: UNIVERSE
 id_coinmarketcap: '17599'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17599.png
 name: Universe
-platform: BNB
-platform_contract: '0xCe098464852cFfB680fDb54a7588a7518828faD6'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdfdc0d82d96f8fd40ca0cfb4a288955becec2088'
+    platform: ETH
 crypto: true
 fiat: false
 id: MTC3
 id_coinmarketcap: '2936'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2936.png
 name: MTC Mesh Network
-platform: ETH
-platform_contract: '0xdfdc0d82d96f8fd40ca0cfb4a288955becec2088'

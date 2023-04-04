@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x56E344bE9A7a7A1d27C854628483Efd67c11214F'
+    platform: BNB
 crypto: true
 fiat: false
 id: NOVA2
 id_coinmarketcap: '12059'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12059.png
 name: ShibaNova
-platform: BNB
-platform_contract: '0x56E344bE9A7a7A1d27C854628483Efd67c11214F'

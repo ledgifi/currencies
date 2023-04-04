@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4B34c0CBeEF271F895d339c5F76322d71A60782B'
+    platform: ETH
 crypto: true
 fiat: false
 id: YEFIM
 id_coinmarketcap: '7400'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7400.png
 name: YFi Management
-platform: ETH
-platform_contract: '0x4B34c0CBeEF271F895d339c5F76322d71A60782B'

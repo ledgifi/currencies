@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbe7a10a65626d82da0bda141500b7fd7ceb3a033'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPET
 id_coinmarketcap: '19074'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19074.png
 name: CorgiNFTGame
-platform: BNB
-platform_contract: '0xbe7a10a65626d82da0bda141500b7fd7ceb3a033'

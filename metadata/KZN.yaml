@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5e2774fb07559cd2acdeb2a0791853c82afb8a17'
+    platform: BNB
 crypto: true
 fiat: false
 id: KZN
 id_coinmarketcap: '18324'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18324.png
 name: Kaizen Inu
-platform: BNB
-platform_contract: '0x5e2774fb07559cd2acdeb2a0791853c82afb8a17'

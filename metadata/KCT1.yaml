@@ -1,8 +1,9 @@
+contracts:
+  - address: kingdomclash
+    platform: WAXP
 crypto: true
 fiat: false
 id: KCT1
 id_coinmarketcap: '21549'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21549.png
 name: Kingdom Clash
-platform: WAXP
-platform_contract: kingdomclash

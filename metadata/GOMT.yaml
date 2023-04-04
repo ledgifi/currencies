@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xFB1172b050BcC798e37AE8abF620Cc528e771162'
+    platform: ETH
 crypto: true
 fiat: false
 id: GOMT
 id_coinmarketcap: '20201'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20201.png
 name: GoMeat
-platform: ETH
-platform_contract: '0xFB1172b050BcC798e37AE8abF620Cc528e771162'

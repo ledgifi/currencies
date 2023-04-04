@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF24be6c063Bee7c7844dD90a21fdf7d783d41a94'
+    platform: FTM
 crypto: true
 fiat: false
 id: WIS
 id_coinmarketcap: '15245'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15245.png
 name: WingSwap
-platform: FTM
-platform_contract: '0xF24be6c063Bee7c7844dD90a21fdf7d783d41a94'

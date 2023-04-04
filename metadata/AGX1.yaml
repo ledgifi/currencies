@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa2d78cb5cc4e8931dc695a24df73cb751c0aeb07'
+    platform: BNB
 crypto: true
 fiat: false
 id: AGX1
 id_coinmarketcap: '13431'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13431.png
 name: Agricoin
-platform: BNB
-platform_contract: '0xa2d78cb5cc4e8931dc695a24df73cb751c0aeb07'

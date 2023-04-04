@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x341998db59c7e2c8bde5bbf650563516422d525e'
+    platform: ETH
 crypto: true
 fiat: false
 id: DINJA
 id_coinmarketcap: '17918'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17918.png
 name: DOGE NINJA SAMURAI
-platform: ETH
-platform_contract: '0x341998db59c7e2c8bde5bbf650563516422d525e'

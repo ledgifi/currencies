@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x04fA9Eb295266d9d4650EDCB879da204887Dc3Da'
+    platform: BNB
 crypto: true
 fiat: false
 id: OSK
 id_coinmarketcap: '20828'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20828.png
 name: OSK
-platform: BNB
-platform_contract: '0x04fA9Eb295266d9d4650EDCB879da204887Dc3Da'

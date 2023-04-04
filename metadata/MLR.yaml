@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5080781e91237b6d7f026d5306b7233e26cd6c16'
+    platform: TOMO
 crypto: true
 fiat: false
 id: MLR
 id_coinmarketcap: '5433'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5433.png
 name: Mega Lottery Services Global
-platform: TOMO
-platform_contract: '0x5080781e91237b6d7f026d5306b7233e26cd6c16'

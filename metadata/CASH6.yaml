@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbb4f92034927d4cE195b7D8f0acD4b3f661c5c45'
+    platform: FTM
 crypto: true
 fiat: false
 id: CASH6
 id_coinmarketcap: '20181'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20181.png
 name: Gangster Legend
-platform: FTM
-platform_contract: '0xbb4f92034927d4cE195b7D8f0acD4b3f661c5c45'

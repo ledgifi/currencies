@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF2CfC11093edB5A2DC7F49e70A3a3a9cd4F4FeE4'
+    platform: AVAX
 crypto: true
 fiat: false
 id: BRIG
 id_coinmarketcap: '15880'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15880.png
 name: Brig Finance
-platform: AVAX
-platform_contract: '0xF2CfC11093edB5A2DC7F49e70A3a3a9cd4F4FeE4'

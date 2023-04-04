@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x5cc61a78f164885776aa610fb0fe1257df78e59b'
+    platform: FTM
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: SPIRIT2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPIRIT2.png
 logoKey: currencies/spirit.png
 name: SpiritSwap
-platform: FTM
-platform_contract: '0x5cc61a78f164885776aa610fb0fe1257df78e59b'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb55106308974cebe299a0f0505435c47b404b9a6'
+    platform: ONE
 crypto: true
 fiat: false
 id: EDEN1
 id_coinmarketcap: '13512'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13512.png
 name: ParadiseFi
-platform: ONE
-platform_contract: '0xb55106308974cebe299a0f0505435c47b404b9a6'

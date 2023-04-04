@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdf065aa3a18ae67055ff44bd26506fde6ce13312'
+    platform: BNB
 crypto: true
 fiat: false
 id: MXF
 id_coinmarketcap: '9093'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9093.png
 name: Mixty Finance
-platform: BNB
-platform_contract: '0xdf065aa3a18ae67055ff44bd26506fde6ce13312'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x91656750bc364ff38adb51157acbb76f9f5ec2fe'
+    platform: BNB
 crypto: true
 fiat: false
 id: SFZ
 id_coinmarketcap: '17120'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17120.png
 name: Safemoon Zilla
-platform: BNB
-platform_contract: '0x91656750bc364ff38adb51157acbb76f9f5ec2fe'

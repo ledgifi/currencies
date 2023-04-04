@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3ff997eaea488a082fb7efc8e6b9951990d0c3ab'
+    platform: BNB
 crypto: true
 fiat: false
 id: WUSD
 id_coinmarketcap: '11559'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11559.png
 name: Wault USD
-platform: BNB
-platform_contract: '0x3ff997eaea488a082fb7efc8e6b9951990d0c3ab'

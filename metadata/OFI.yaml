@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x419e35e3515c2fdb652c898bf7a0b21fb20497dc'
+    platform: ETH
 crypto: true
 fiat: false
 id: OFI
 id_coinmarketcap: '23660'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23660.png
 name: Ordinals Finance
-platform: ETH
-platform_contract: '0x419e35e3515c2fdb652c898bf7a0b21fb20497dc'

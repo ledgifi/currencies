@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0A8c13ACa56E4086120b48cBEd3d671f0b237f61'
+    platform: ETH
 crypto: true
 fiat: false
 id: INFINITE
 id_coinmarketcap: '24077'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24077.png
 name: Infinite
-platform: ETH
-platform_contract: '0x0A8c13ACa56E4086120b48cBEd3d671f0b237f61'

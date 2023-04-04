@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5507f52c96e64e5e5c3df0ea90d3515fc0c7d9df'
+    platform: BNB
 crypto: true
 fiat: false
 id: GAX
 id_coinmarketcap: '10004'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10004.png
 name: GETART
-platform: BNB
-platform_contract: '0x5507f52c96e64e5e5c3df0ea90d3515fc0c7d9df'

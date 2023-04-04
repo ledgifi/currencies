@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x69Af49E82eA59A97F3879547f67B913c216C3714'
+    platform: BNB
 crypto: true
 fiat: false
 id: UNIT1
 id_coinmarketcap: '9137'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9137.png
 name: UNITi Protocol
-platform: BNB
-platform_contract: '0x69Af49E82eA59A97F3879547f67B913c216C3714'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbfBEe3dAc982148aC793161f7362344925506903'
+    platform: BNB
 crypto: true
 fiat: false
 id: CATZ
 id_coinmarketcap: '9692'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9692.png
 name: CatzCoin
-platform: BNB
-platform_contract: '0xbfBEe3dAc982148aC793161f7362344925506903'

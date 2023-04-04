@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xba3335588d9403515223f109edc4eb7269a9ab5d'
+    platform: ETH
 crypto: true
 fiat: false
 id: GEAR
 id_coinmarketcap: '16360'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16360.png
 name: Gearbox Protocol
-platform: ETH
-platform_contract: '0xba3335588d9403515223f109edc4eb7269a9ab5d'

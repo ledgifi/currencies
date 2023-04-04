@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCEBdc775E9f18156EC2e04Fb4150f1bc54DE690f'
+    platform: MATIC
 crypto: true
 fiat: false
 id: LOPES
 id_coinmarketcap: '23126'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23126.png
 name: Leandro Lopes
-platform: MATIC
-platform_contract: '0xCEBdc775E9f18156EC2e04Fb4150f1bc54DE690f'

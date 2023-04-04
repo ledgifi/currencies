@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x698111b771363b81d1179ad102e3d8b9cd093a11'
+    platform: BNB
 crypto: true
 fiat: false
 id: UDOGE
 id_coinmarketcap: '20043'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20043.png
 name: UKA DOGE COIN
-platform: BNB
-platform_contract: '0x698111b771363b81d1179ad102e3d8b9cd093a11'

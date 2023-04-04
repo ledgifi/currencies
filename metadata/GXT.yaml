@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4674672bcddda2ea5300f5207e1158185c944bc0'
+    platform: ETH
 crypto: true
 fiat: false
 id: GXT
 id_coinmarketcap: '7310'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7310.png
 name: Gem Exchange and Trading
-platform: ETH
-platform_contract: '0x4674672bcddda2ea5300f5207e1158185c944bc0'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x87c00817abe35ed4c093e59043fae488238d2f74'
+    platform: ETH
 crypto: true
 fiat: false
 id: YNK
 id_coinmarketcap: '7252'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7252.png
 name: Yoink
-platform: ETH
-platform_contract: '0x87c00817abe35ed4c093e59043fae488238d2f74'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8697c37ecdbdb4eb5e24f19d7d294ea76291b91c'
+    platform: BNB
 crypto: true
 fiat: false
 id: CSF
 id_coinmarketcap: '16656'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16656.png
 name: Coinsale
-platform: BNB
-platform_contract: '0x8697c37ecdbdb4eb5e24f19d7d294ea76291b91c'

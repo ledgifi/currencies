@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: DEXE
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210121/dbddb6a1-3895-4fa3-99d0-2f9f1481011b.png
 logoKey: currencies/dexe.png
 name: DeXe
-platform: ETH
-platform_contract: '0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6'

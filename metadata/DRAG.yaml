@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x239d4e702667F106950ab897Ba17802b2D15cC3f'
+    platform: BNB
 crypto: true
 fiat: false
 id: DRAG
 id_coinmarketcap: '15491'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15491.png
 name: Drachen Lord
-platform: BNB
-platform_contract: '0x239d4e702667F106950ab897Ba17802b2D15cC3f'

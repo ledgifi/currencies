@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x12adadddc8d86081561a3ff107a2cb347779e717'
+    platform: BNB
 crypto: true
 fiat: false
 id: BINGUS1
 id_coinmarketcap: '12235'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12235.png
 name: Bingus Network
-platform: BNB
-platform_contract: '0x12adadddc8d86081561a3ff107a2cb347779e717'

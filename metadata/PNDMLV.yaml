@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9917d59e5ecd4bdeeda59f4ae16f9c43f4ede4bf'
+    platform: BNB
 crypto: true
 fiat: false
 id: PNDMLV
 id_coinmarketcap: '14592'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14592.png
 name: Panda Multiverse
-platform: BNB
-platform_contract: '0x9917d59e5ecd4bdeeda59f4ae16f9c43f4ede4bf'

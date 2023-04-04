@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb1035523a844371c2877f8a3b2f2f8d337403b6f'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIBBY
 id_coinmarketcap: '10616'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10616.png
 name: Shibby
-platform: BNB
-platform_contract: '0xb1035523a844371c2877f8a3b2f2f8d337403b6f'

@@ -1,8 +1,9 @@
+contracts:
+  - address: terra13xujxcrc9dqft4p9a8ls0w3j0xnzm6y2uvve8n
+    platform: LUNC
 crypto: true
 fiat: false
 id: STT1
 id_coinmarketcap: '11290'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11290.png
 name: StarTerra
-platform: LUNC
-platform_contract: terra13xujxcrc9dqft4p9a8ls0w3j0xnzm6y2uvve8n

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9b3d7Fe1f729560f2958d781943EcCb33b123Fb3'
+    platform: BNB
 crypto: true
 fiat: false
 id: NOBF
 id_coinmarketcap: '17201'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17201.png
 name: Nobo Finance
-platform: BNB
-platform_contract: '0x9b3d7Fe1f729560f2958d781943EcCb33b123Fb3'

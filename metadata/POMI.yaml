@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x96ef7f9cf1b6ecc66e482a6598fc9f009e9277da'
+    platform: ETH
 crypto: true
 fiat: false
 id: POMI
 id_coinmarketcap: '16947'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16947.png
 name: Pomicoin
-platform: ETH
-platform_contract: '0x96ef7f9cf1b6ecc66e482a6598fc9f009e9277da'

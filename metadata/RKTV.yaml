@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1ccb263dc35437b1ffc9f470024ca86a341d7fa3'
+    platform: BNB
 crypto: true
 fiat: false
 id: RKTV
 id_coinmarketcap: '12339'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12339.png
 name: Rocket Venture
-platform: BNB
-platform_contract: '0x1ccb263dc35437b1ffc9f470024ca86a341d7fa3'

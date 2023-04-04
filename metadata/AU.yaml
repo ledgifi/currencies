@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8Ea2f890CB86DFb0E376137451c6fD982AFefc15'
+    platform: BNB
 crypto: true
 fiat: false
 id: AU
 id_coinmarketcap: '12836'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12836.png
 name: AutoCrypto
-platform: BNB
-platform_contract: '0x8Ea2f890CB86DFb0E376137451c6fD982AFefc15'

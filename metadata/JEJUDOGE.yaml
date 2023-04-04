@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x939a7a577d93ad29b64c1595b1284ce660a479b9'
+    platform: ETH
 crypto: true
 fiat: false
 id: JEJUDOGE
 id_coinmarketcap: '10584'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10584.png
 name: Jejudoge
-platform: ETH
-platform_contract: '0x939a7a577d93ad29b64c1595b1284ce660a479b9'

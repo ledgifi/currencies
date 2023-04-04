@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x232FB065D9d24c34708eeDbF03724f2e95ABE768'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHEESHA1
 id_coinmarketcap: '10337'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10337.png
 name: Sheesha Finance [BEP20]
-platform: BNB
-platform_contract: '0x232FB065D9d24c34708eeDbF03724f2e95ABE768'

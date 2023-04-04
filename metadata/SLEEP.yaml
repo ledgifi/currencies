@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf024F349f08BD6A45ABb201F9e7eB8EeADDd20bc'
+    platform: BNB
 crypto: true
 fiat: false
 id: SLEEP
 id_coinmarketcap: '20103'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20103.png
 name: Sleep Ecosystem
-platform: BNB
-platform_contract: '0xf024F349f08BD6A45ABb201F9e7eB8EeADDd20bc'

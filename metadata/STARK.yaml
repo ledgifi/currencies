@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe23d36f4805a405d6ea5021b623d0a5fd2075307'
+    platform: BNB
 crypto: true
 fiat: false
 id: STARK
 id_coinmarketcap: '7610'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7610.png
 name: STARK CHAIN
-platform: BNB
-platform_contract: '0xe23d36f4805a405d6ea5021b623d0a5fd2075307'

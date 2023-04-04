@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x02c4c78c462e32cca4a90bc499bf411fb7bc6afb'
+    platform: ETH
 crypto: true
 fiat: false
 id: IDT
@@ -7,5 +10,3 @@ id_nomics: IDT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IDT.png
 logoKey: currencies/idt.png
 name: InvestDigital
-platform: ETH
-platform_contract: '0x02c4c78c462e32cca4a90bc499bf411fb7bc6afb'

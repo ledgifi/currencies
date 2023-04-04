@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe1240e13FDA129845d17b73eaE548Cd690e8DEC8'
+    platform: MATIC
 crypto: true
 fiat: false
 id: KOLO
 id_coinmarketcap: '20351'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20351.png
 name: KOLO Market
-platform: MATIC
-platform_contract: '0xe1240e13FDA129845d17b73eaE548Cd690e8DEC8'

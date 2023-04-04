@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd7dcd9b99787c619b4d57979521258d1a7267ad7'
+    platform: ETH
 crypto: true
 fiat: false
 id: EVRY
 id_coinmarketcap: '11458'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11458.png
 name: EVRYNET
-platform: ETH
-platform_contract: '0xd7dcd9b99787c619b4d57979521258d1a7267ad7'

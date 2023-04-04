@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x5732046a883704404f284ce41ffadd5b007fd668'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: BLZ
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/blz.svg
 logoKey: currencies/blz.svg
 name: Bluzelle
-platform: ETH
-platform_contract: '0x5732046a883704404f284ce41ffadd5b007fd668'

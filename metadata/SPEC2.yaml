@@ -1,3 +1,6 @@
+contracts:
+  - address: terra1s5eczhe0h0jutf46re52x5z4r03c8hupacxmdr
+    platform: LUNC
 crypto: true
 fiat: false
 id: SPEC2
@@ -6,5 +9,3 @@ id_nomics: SPEC2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPEC2.jpg
 logoKey: currencies/spec2.jpg
 name: Spectrum Token
-platform: LUNC
-platform_contract: terra1s5eczhe0h0jutf46re52x5z4r03c8hupacxmdr

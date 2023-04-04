@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9b4a1b2b87f86111fb0371244d605fe7a70890cc'
+    platform: BNB
 crypto: true
 fiat: false
 id: DDETH
 id_coinmarketcap: '15086'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15086.png
 name: DADDY ETHEREUM
-platform: BNB
-platform_contract: '0x9b4a1b2b87f86111fb0371244d605fe7a70890cc'

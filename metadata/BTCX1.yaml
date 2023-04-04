@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcac9881a8eecc6e98ff3e681ab497f263fa88437'
+    platform: BNB
 crypto: true
 fiat: false
 id: BTCX1
 id_coinmarketcap: '10476'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10476.png
 name: BitcoinX
-platform: BNB
-platform_contract: '0xcac9881a8eecc6e98ff3e681ab497f263fa88437'

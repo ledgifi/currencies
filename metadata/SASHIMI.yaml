@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xC28E27870558cF22ADD83540d2126da2e4b464c2'
+    platform: ETH
 crypto: true
 fiat: false
 id: SASHIMI
 id_coinmarketcap: '6991'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6991.png
 name: Sashimi
-platform: ETH
-platform_contract: '0xC28E27870558cF22ADD83540d2126da2e4b464c2'

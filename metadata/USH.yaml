@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe60779cc1b2c1d0580611c526a8df0e3f870ec48'
+    platform: ETH
 crypto: true
 fiat: false
 id: USH
 id_coinmarketcap: '23837'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23837.png
 name: unshETH
-platform: ETH
-platform_contract: '0xe60779cc1b2c1d0580611c526a8df0e3f870ec48'

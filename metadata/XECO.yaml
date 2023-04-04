@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xeC722154F3dDf7CC08C136ADFf57c5D4aa210984'
+    platform: BNB
 crypto: true
 fiat: false
 id: XECO
 id_coinmarketcap: '20803'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20803.png
 name: X ECOSYSTEM
-platform: BNB
-platform_contract: '0xeC722154F3dDf7CC08C136ADFf57c5D4aa210984'

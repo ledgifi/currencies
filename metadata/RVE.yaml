@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdb3bc1e509ac55cbefafd82e9724c41bda81122c'
+    platform: BNB
 crypto: true
 fiat: false
 id: RVE
 id_coinmarketcap: '17982'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17982.png
 name: Revive
-platform: BNB
-platform_contract: '0xdb3bc1e509ac55cbefafd82e9724c41bda81122c'

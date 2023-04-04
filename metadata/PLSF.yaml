@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x90f36d7bfba633f17eccc62ec31c58a9a3c04c2a'
+    platform: ETH
 crypto: true
 fiat: false
 id: PLSF
 id_coinmarketcap: '21377'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21377.png
 name: PulseFloki
-platform: ETH
-platform_contract: '0x90f36d7bfba633f17eccc62ec31c58a9a3c04c2a'

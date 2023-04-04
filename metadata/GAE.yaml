@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xEFaeF02FE78Cdf95675A3E1f9596413dbE9Abe44'
+    platform: BNB
 crypto: true
 fiat: false
 id: GAE
 id_coinmarketcap: '19584'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19584.png
 name: Legend Of Galaxy
-platform: BNB
-platform_contract: '0xEFaeF02FE78Cdf95675A3E1f9596413dbE9Abe44'

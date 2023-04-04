@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7b760d06e401f85545f3b50c44bf5b05308b7b62'
+    platform: ETH
 crypto: true
 fiat: false
 id: YFLUSD
 id_coinmarketcap: '8402'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8402.png
 name: YF Link USD
-platform: ETH
-platform_contract: '0x7b760d06e401f85545f3b50c44bf5b05308b7b62'

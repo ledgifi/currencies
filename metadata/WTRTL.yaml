@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6a31Aca4d2f7398F04d9B6ffae2D898d9A8e7938'
+    platform: FTM
 crypto: true
 fiat: false
 id: WTRTL
 id_coinmarketcap: '18050'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18050.png
 name: Wrapped TurtleCoin
-platform: FTM
-platform_contract: '0x6a31Aca4d2f7398F04d9B6ffae2D898d9A8e7938'

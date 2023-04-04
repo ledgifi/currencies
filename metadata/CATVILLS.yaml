@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xa531a733070a5fF4866D1327d82e403Fa35290A6'
+    platform: BNB
 crypto: true
 fiat: false
 id: CATVILLS
@@ -6,5 +9,3 @@ id_nomics: CATVILLS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CATVILLS.png
 logoKey: currencies/catvills.png
 name: Catvills Coin
-platform: BNB
-platform_contract: '0xa531a733070a5fF4866D1327d82e403Fa35290A6'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8dfc8cc3201425669fae803e1eb125cddd4189ec'
+    platform: ETH
 crypto: true
 fiat: false
 id: OKAGE
 id_coinmarketcap: '23333'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23333.png
 name: Okage Inu
-platform: ETH
-platform_contract: '0x8dfc8cc3201425669fae803e1eb125cddd4189ec'

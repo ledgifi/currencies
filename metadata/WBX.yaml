@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbb97e381f1d1e94ffa2a5844f6875e6146981009'
+    platform: ETH
 crypto: true
 fiat: false
 id: WBX
 id_coinmarketcap: '5450'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5450.png
 name: WiBX
-platform: ETH
-platform_contract: '0xbb97e381f1d1e94ffa2a5844f6875e6146981009'

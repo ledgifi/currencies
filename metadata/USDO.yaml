@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5801d0e1c7d977d78e4890880b8e579eb4943276'
+    platform: BNB
 crypto: true
 fiat: false
 id: USDO
 id_coinmarketcap: '12526'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12526.png
 name: USD Open Dollar
-platform: BNB
-platform_contract: '0x5801d0e1c7d977d78e4890880b8e579eb4943276'

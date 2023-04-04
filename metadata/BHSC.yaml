@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x35101c731b1548B5e48bb23F99eDBc2f5c341935'
+    platform: ETH
 crypto: true
 fiat: false
 id: BHSC
 id_coinmarketcap: '6895'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6895.png
 name: BlackHoleSwap-Compound DAI/USDC
-platform: ETH
-platform_contract: '0x35101c731b1548B5e48bb23F99eDBc2f5c341935'

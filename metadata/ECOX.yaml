@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcccD1Ba9f7acD6117834E0D28F25645dECb1736a'
+    platform: ETH
 crypto: true
 fiat: false
 id: ECOX
 id_coinmarketcap: '22574'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22574.png
 name: ECOx
-platform: ETH
-platform_contract: '0xcccD1Ba9f7acD6117834E0D28F25645dECb1736a'

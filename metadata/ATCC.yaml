@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xddaaf4a0702a03a4505f2352a1aba001ffc344be'
+    platform: ETH
 crypto: true
 fiat: false
 id: ATCC
 id_coinmarketcap: '1751'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1751.png
 name: ATC Coin
-platform: ETH
-platform_contract: '0xddaaf4a0702a03a4505f2352a1aba001ffc344be'

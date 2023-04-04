@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x30DCf96a8a0c742AA1F534FAC79e99D320c97901'
+    platform: BNB
 crypto: true
 fiat: false
 id: STR1
 id_coinmarketcap: '20536'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20536.png
 name: Sourceless
-platform: BNB
-platform_contract: '0x30DCf96a8a0c742AA1F534FAC79e99D320c97901'

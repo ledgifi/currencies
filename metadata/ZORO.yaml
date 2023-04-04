@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x05ad901cf196cbDCEaB3F8e602a47AAdB1a2e69d'
+    platform: BNB
 crypto: true
 fiat: false
 id: ZORO
 id_coinmarketcap: '18581'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18581.png
 name: Zoro Inu
-platform: BNB
-platform_contract: '0x05ad901cf196cbDCEaB3F8e602a47AAdB1a2e69d'

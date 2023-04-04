@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb12494c8824fc069757f47d177e666c571cd49ae'
+    platform: ETH
 crypto: true
 fiat: false
 id: IMPACTXP
 id_coinmarketcap: '15455'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15455.png
 name: ImpactXP
-platform: ETH
-platform_contract: '0xb12494c8824fc069757f47d177e666c571cd49ae'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x3082CC23568eA640225c2467653dB90e9250AaA0'
+    platform: ARB
 crypto: true
 decimals: 8
 fiat: false
@@ -7,5 +10,3 @@ id_coinmarketcap: '21106'
 id_nomics: RDNT
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20230330/56cf1650-2746-404d-93c1-e8bef8820147.png
 name: Radiant Capital
-platform: ARB
-platform_contract: '0x3082CC23568eA640225c2467653dB90e9250AaA0'

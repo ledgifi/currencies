@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x412e5a36bde71aa2c38e1c0e26baaf7f2f0bc24a'
+    platform: ETH
 crypto: true
 fiat: false
 id: PUSD2
 id_coinmarketcap: '8262'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8262.png
 name: PegsUSD
-platform: ETH
-platform_contract: '0x412e5a36bde71aa2c38e1c0e26baaf7f2f0bc24a'

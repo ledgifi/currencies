@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8f006d1e1d9dc6c98996f50a4c810f17a47fbf19'
+    platform: ETH
 crypto: true
 fiat: false
 id: NSFW
 id_coinmarketcap: '9840'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9840.png
 name: Pleasure Coin
-platform: ETH
-platform_contract: '0x8f006d1e1d9dc6c98996f50a4c810f17a47fbf19'

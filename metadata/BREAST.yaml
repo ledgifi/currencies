@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x77a2bf0bda9775fb3524a6720dd3b16bd455e2c2'
+    platform: ETH
 crypto: true
 fiat: false
 id: BREAST
 id_coinmarketcap: '10770'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10770.png
 name: SafeBreast Inu
-platform: ETH
-platform_contract: '0x77a2bf0bda9775fb3524a6720dd3b16bd455e2c2'

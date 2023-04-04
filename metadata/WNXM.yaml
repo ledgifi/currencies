@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x0d438f3b5175bebc262bf23753c1e53d03432bde'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: WNXM
 logo: https://bin.bnbstatic.com/images/20200826/94f806e9-8460-45bd-929c-faa6c07fa2e0.png
 logoKey: currencies/wnxm.png
 name: Wrapped NXM
-platform: ETH
-platform_contract: '0x0d438f3b5175bebc262bf23753c1e53d03432bde'

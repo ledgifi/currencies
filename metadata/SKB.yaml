@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4af328c52921706dcb739f25786210499169afe6'
+    platform: ETH
 crypto: true
 fiat: false
 id: SKB
 id_coinmarketcap: '2742'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2742.png
 name: Sakura Bloom
-platform: ETH
-platform_contract: '0x4af328c52921706dcb739f25786210499169afe6'

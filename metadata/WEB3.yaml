@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf45de5A6d02c4a6E050B90Add33ebf0A34D017e0'
+    platform: BNB
 crypto: true
 fiat: false
 id: WEB3
 id_coinmarketcap: '18293'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18293.png
 name: Web3 Doge
-platform: BNB
-platform_contract: '0xf45de5A6d02c4a6E050B90Add33ebf0A34D017e0'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcCe7F9eB881248E04f2975a3Fb3B62631ad9eE37'
+    platform: BNB
 crypto: true
 fiat: false
 id: SLAM1
 id_coinmarketcap: '9584'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9584.png
 name: Slam Token (old)
-platform: BNB
-platform_contract: '0xcCe7F9eB881248E04f2975a3Fb3B62631ad9eE37'

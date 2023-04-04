@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2f1ad6ec7d2da4cd4cf679a781ca376d7f091e30'
+    platform: BNB
 crypto: true
 fiat: false
 id: HEJJ
 id_coinmarketcap: '9992'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9992.png
 name: HEDGE4.Ai
-platform: BNB
-platform_contract: '0x2f1ad6ec7d2da4cd4cf679a781ca376d7f091e30'

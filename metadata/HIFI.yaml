@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x4b9278b94a1112cAD404048903b8d343a810B07e'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: HIFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HIFI.jpg
 logoKey: currencies/hifi.jpg
 name: Hifi Finance
-platform: ETH
-platform_contract: '0x4b9278b94a1112cAD404048903b8d343a810B07e'

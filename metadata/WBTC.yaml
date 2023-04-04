@@ -1,4 +1,7 @@
 color: '#201a2d'
+contracts:
+  - address: '0x2260fac5e5542a773aa44fbcfedf7c193bc2c599'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: WBTC
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/wbtc.svg
 logoKey: currencies/wbtc.svg
 name: Wrapped Bitcoin
-platform: ETH
-platform_contract: '0x2260fac5e5542a773aa44fbcfedf7c193bc2c599'

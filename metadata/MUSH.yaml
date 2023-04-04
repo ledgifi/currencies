@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xea6412fb370e8d1605e6aeeaa21ad07c3c7e9f24'
+    platform: ETH
 crypto: true
 fiat: false
 id: MUSH
 id_coinmarketcap: '8502'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8502.png
 name: Mushroom
-platform: ETH
-platform_contract: '0xea6412fb370e8d1605e6aeeaa21ad07c3c7e9f24'

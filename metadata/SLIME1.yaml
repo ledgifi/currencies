@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x638F24096fF33e047E05E59fabc76325207090dc'
+    platform: ETH
 crypto: true
 fiat: false
 id: SLIME1
 id_coinmarketcap: '19481'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19481.png
 name: Squishiverse
-platform: ETH
-platform_contract: '0x638F24096fF33e047E05E59fabc76325207090dc'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x420167d87d35c3a249b32ef6225872fbd9ab85d2'
+    platform: ETH
 crypto: true
 fiat: false
 id: MESG
 id_coinmarketcap: '3796'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3796.png
 name: MESG
-platform: ETH
-platform_contract: '0x420167d87d35c3a249b32ef6225872fbd9ab85d2'

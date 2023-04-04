@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3dc9a42fa7afe57be03c58fd7f4411b1e466c508'
+    platform: ETH
 crypto: true
 fiat: false
 id: CLL
 id_coinmarketcap: '4812'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4812.png
 name: Attention Mining
-platform: ETH
-platform_contract: '0x3dc9a42fa7afe57be03c58fd7f4411b1e466c508'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf85ef57fcdb36d628d063fa663e61e44d35ae661'
+    platform: ETH
 crypto: true
 fiat: false
 id: GBPX
 id_coinmarketcap: '5493'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5493.png
 name: eToro Pound Sterling
-platform: ETH
-platform_contract: '0xf85ef57fcdb36d628d063fa663e61e44d35ae661'

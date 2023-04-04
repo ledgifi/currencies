@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCD966B72CFF52Dc349089b6b6f5865B5743b4E08'
+    platform: MATIC
 crypto: true
 fiat: false
 id: TOMI1
 id_coinmarketcap: '12103'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12103.png
 name: TOMI
-platform: MATIC
-platform_contract: '0xCD966B72CFF52Dc349089b6b6f5865B5743b4E08'

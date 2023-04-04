@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x80d04E44955AA9c3F24041B2A824A20A88E735a8'
+    platform: BNB
 crypto: true
 fiat: false
 id: MVC1
 id_coinmarketcap: '15493'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15493.png
 name: Multiverse Capital
-platform: BNB
-platform_contract: '0x80d04E44955AA9c3F24041B2A824A20A88E735a8'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4c2a5a1a4b01d293affaa4739f884d7a905a5a8f'
+    platform: BNB
 crypto: true
 fiat: false
 id: APES2
 id_coinmarketcap: '16536'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16536.png
 name: AI Apes Token
-platform: BNB
-platform_contract: '0x4c2a5a1a4b01d293affaa4739f884d7a905a5a8f'

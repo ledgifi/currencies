@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2d7aC061fc3db53c39fe1607fB8cec1B2C162B01'
+    platform: ETH
 crypto: true
 fiat: false
 id: ILINK
 id_coinmarketcap: '6199'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6199.png
 name: iLINK
-platform: ETH
-platform_contract: '0x2d7aC061fc3db53c39fe1607fB8cec1B2C162B01'

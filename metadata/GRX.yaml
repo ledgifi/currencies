@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x219218f117dc9348b358b8471c55a073e5e0da0b'
+    platform: ETH
 crypto: true
 fiat: false
 id: GRX
 id_coinmarketcap: '2192'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2192.png
 name: GOLD Reward Token
-platform: ETH
-platform_contract: '0x219218f117dc9348b358b8471c55a073e5e0da0b'

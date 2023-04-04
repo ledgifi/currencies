@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x56b4f8c39e07d4d5d91692acf9d0f6d4d3493763'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRISM
 id_coinmarketcap: '8185'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8185.png
 name: Trism
-platform: ETH
-platform_contract: '0x56b4f8c39e07d4d5d91692acf9d0f6d4d3493763'

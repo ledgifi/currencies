@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7c6663367f1a5fafFF37Ec36290Ccd5FE67f2BDf'
+    platform: BNB
 crypto: true
 fiat: false
 id: RBT4
 id_coinmarketcap: '22526'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22526.png
 name: Run&Burn
-platform: BNB
-platform_contract: '0x7c6663367f1a5fafFF37Ec36290Ccd5FE67f2BDf'

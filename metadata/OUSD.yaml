@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86'
+    platform: ETH
 crypto: true
 fiat: false
 id: OUSD
 id_coinmarketcap: '7189'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7189.png
 name: Origin Dollar
-platform: ETH
-platform_contract: '0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86'

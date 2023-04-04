@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8790f2fc7ca2e7db841307fb3f4e72a03baf7b47'
+    platform: ETH
 crypto: true
 fiat: false
 id: SPILLWAYS
 id_coinmarketcap: '22843'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22843.png
 name: SpillWays
-platform: ETH
-platform_contract: '0x8790f2fc7ca2e7db841307fb3f4e72a03baf7b47'

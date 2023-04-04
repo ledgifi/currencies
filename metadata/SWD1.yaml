@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb9b280f4277b49d59ac15283b6ae00a90aac5415'
+    platform: BNB
 crypto: true
 fiat: false
 id: SWD1
 id_coinmarketcap: '17079'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17079.png
 name: CryptoSword
-platform: BNB
-platform_contract: '0xb9b280f4277b49d59ac15283b6ae00a90aac5415'

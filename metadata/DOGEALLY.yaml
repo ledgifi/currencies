@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x05822195b28613b0f8a484313d3be7b357c53a4a'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOGEALLY
 id_coinmarketcap: '16053'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16053.png
 name: Doge Alliance
-platform: BNB
-platform_contract: '0x05822195b28613b0f8a484313d3be7b357c53a4a'

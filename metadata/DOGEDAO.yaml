@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd54c26d2778d381a5e504931f782b6bcf16e68b1'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOGEDAO
 id_coinmarketcap: '9804'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9804.png
 name: DogeDao Finance
-platform: BNB
-platform_contract: '0xd54c26d2778d381a5e504931f782b6bcf16e68b1'

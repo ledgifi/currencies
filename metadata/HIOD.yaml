@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7a83ff237e7870d8d6c3485920ebe654d2841315'
+    platform: ETH
 crypto: true
 fiat: false
 id: HIOD
 id_coinmarketcap: '22679'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22679.png
 name: hiOD
-platform: ETH
-platform_contract: '0x7a83ff237e7870d8d6c3485920ebe654d2841315'

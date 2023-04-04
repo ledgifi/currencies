@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xad3e3fc59dff318beceaab7d00eb4f68b1ecf195'
+    platform: ETH
 crypto: true
 fiat: false
 id: WCUSD
 id_coinmarketcap: '8289'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8289.png
 name: Wrapped Celo Dollar
-platform: ETH
-platform_contract: '0xad3e3fc59dff318beceaab7d00eb4f68b1ecf195'

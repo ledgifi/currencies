@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2e25ea4a99cfed65d1a6804fa7394f5b44c69524'
+    platform: BNB
 crypto: true
 fiat: false
 id: PUNCH1
 id_coinmarketcap: '13995'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13995.png
 name: Punch Gaming token
-platform: BNB
-platform_contract: '0x2e25ea4a99cfed65d1a6804fa7394f5b44c69524'

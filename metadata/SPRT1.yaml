@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF15609C283403123271Cb266FC2adA15A1603879'
+    platform: AVAX
 crypto: true
 fiat: false
 id: SPRT1
 id_coinmarketcap: '16634'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16634.png
 name: Spirit
-platform: AVAX
-platform_contract: '0xF15609C283403123271Cb266FC2adA15A1603879'

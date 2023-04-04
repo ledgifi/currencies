@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe459c0b11c62e3fD83da52537BD6191B56aB1b5A'
+    platform: BNB
 crypto: true
 fiat: false
 id: AP3
 id_coinmarketcap: '9382'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9382.png
 name: AP3.town
-platform: BNB
-platform_contract: '0xe459c0b11c62e3fD83da52537BD6191B56aB1b5A'

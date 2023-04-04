@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x48592de8cded16f6bb56c896fe1affc37630889c'
+    platform: ETH
 crypto: true
 fiat: false
 id: POLP
 id_coinmarketcap: '11362'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11362.png
 name: PolkaParty
-platform: ETH
-platform_contract: '0x48592de8cded16f6bb56c896fe1affc37630889c'

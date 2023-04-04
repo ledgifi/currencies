@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5538ac3ce36e73bb851921f2a804b4657b5307bf'
+    platform: ETH
 crypto: true
 fiat: false
 id: SZO
 id_coinmarketcap: '8552'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8552.png
 name: ShuttleOne
-platform: ETH
-platform_contract: '0x5538ac3ce36e73bb851921f2a804b4657b5307bf'

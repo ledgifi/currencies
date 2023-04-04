@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbb77d0a1181e38a0374dc6891e2847c2b61b3545'
+    platform: BNB
 crypto: true
 fiat: false
 id: METAGS
 id_coinmarketcap: '18816'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18816.png
 name: MetaGameSpace
-platform: BNB
-platform_contract: '0xbb77d0a1181e38a0374dc6891e2847c2b61b3545'

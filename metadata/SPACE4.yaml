@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcc7ab8d78dba187dc95bf3bb86e65e0c26d0041f'
+    platform: ETH
 crypto: true
 fiat: false
 id: SPACE4
 id_coinmarketcap: '11026'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11026.png
 name: Spacelens
-platform: ETH
-platform_contract: '0xcc7ab8d78dba187dc95bf3bb86e65e0c26d0041f'

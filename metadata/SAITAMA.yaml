@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xce3f08e664693ca792cace4af1364d5e220827b2'
+    platform: ETH
 crypto: true
 fiat: false
 id: SAITAMA
@@ -6,5 +9,3 @@ id_nomics: SAITAMA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAITAMA.jpg
 logoKey: currencies/saitama.jpg
 name: Saitama
-platform: ETH
-platform_contract: '0xce3f08e664693ca792cace4af1364d5e220827b2'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0fabcb70eeda798f9241f4bb11cceea7d93b157a'
+    platform: BNB
 crypto: true
 fiat: false
 id: CHPZ
 id_coinmarketcap: '15567'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15567.png
 name: Chipz
-platform: BNB
-platform_contract: '0x0fabcb70eeda798f9241f4bb11cceea7d93b157a'

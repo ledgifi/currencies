@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xce195c777e1ce96c30ebec54c91d20417a068706'
+    platform: BNB
 crypto: true
 fiat: false
 id: HUGO
 id_coinmarketcap: '9282'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9282.png
 name: Hugo Game
-platform: BNB
-platform_contract: '0xce195c777e1ce96c30ebec54c91d20417a068706'

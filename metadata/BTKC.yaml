@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6682195e2a0048ce38b727a3711802d58244606e'
+    platform: ETH
 crypto: true
 fiat: false
 id: BTKC
 id_coinmarketcap: '6687'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6687.png
 name: BeautyK
-platform: ETH
-platform_contract: '0x6682195e2a0048ce38b727a3711802d58244606e'

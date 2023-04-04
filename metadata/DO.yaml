@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd7b7f050cAe23eCfD1d3Ab8b8107bAF167D65BBB'
+    platform: BNB
 crypto: true
 fiat: false
 id: DO
 id_coinmarketcap: '16551'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16551.png
 name: DoneSwap
-platform: BNB
-platform_contract: '0xd7b7f050cAe23eCfD1d3Ab8b8107bAF167D65BBB'

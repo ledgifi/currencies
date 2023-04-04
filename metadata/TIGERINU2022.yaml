@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x47a2eba06d06ae21202dc280b48f4b8f1446df44'
+    platform: BNB
 crypto: true
 fiat: false
 id: TIGERINU2022
@@ -6,5 +9,3 @@ id_nomics: TIGERINU2022
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIGERINU2022.jpg
 logoKey: currencies/tigerinu2022.jpg
 name: TigerInu2022
-platform: BNB
-platform_contract: '0x47a2eba06d06ae21202dc280b48f4b8f1446df44'

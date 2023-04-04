@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x21585bbcd5bdc3f5737620cf0db2e51978cf60ac'
+    platform: ETH
 crypto: true
 fiat: false
 id: MNFST
 id_coinmarketcap: '15795'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15795.png
 name: Manifest
-platform: ETH
-platform_contract: '0x21585bbcd5bdc3f5737620cf0db2e51978cf60ac'

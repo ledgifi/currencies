@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb375CADa58a9D428a046eDAAD03319e91E9C0032'
+    platform: BNB
 crypto: true
 fiat: false
 id: MTCS
 id_coinmarketcap: '20812'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20812.png
 name: MetaCos
-platform: BNB
-platform_contract: '0xb375CADa58a9D428a046eDAAD03319e91E9C0032'

@@ -1,4 +1,7 @@
 color: '#01a64f'
+contracts:
+  - address: '0x51db5ad35c671a87207d88fc11d593ac0c8415bd'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: MDA
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/mda.svg
 logoKey: currencies/mda.svg
 name: Moeda Loyalty Points
-platform: ETH
-platform_contract: '0x51db5ad35c671a87207d88fc11d593ac0c8415bd'

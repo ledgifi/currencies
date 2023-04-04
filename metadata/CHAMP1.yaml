@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8f9E8e833A69Aa467E42c46cCA640da84DD4585f'
+    platform: MATIC
 crypto: true
 fiat: false
 id: CHAMP1
 id_coinmarketcap: '13425'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13425.png
 name: NFT Champions
-platform: MATIC
-platform_contract: '0x8f9E8e833A69Aa467E42c46cCA640da84DD4585f'

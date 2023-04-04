@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x39bca4d597062378b5669CD31a3bBFECCDd36B3c'
+    platform: BNB
 crypto: true
 fiat: false
 id: LLVERSE
 id_coinmarketcap: '20194'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20194.png
 name: LESLARVERSE
-platform: BNB
-platform_contract: '0x39bca4d597062378b5669CD31a3bBFECCDd36B3c'

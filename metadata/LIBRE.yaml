@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x63db060697b01c6f4a26561b1494685DcbBd998c'
+    platform: BNB
 crypto: true
 fiat: false
 id: LIBRE
 id_coinmarketcap: '12663'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12663.png
 name: Libre DeFi
-platform: BNB
-platform_contract: '0x63db060697b01c6f4a26561b1494685DcbBd998c'

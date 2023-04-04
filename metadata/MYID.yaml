@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5273063725a43a323300c502478c22fbb4e92c2d'
+    platform: ETH
 crypto: true
 fiat: false
 id: MYID
 id_coinmarketcap: '9187'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9187.png
 name: MY IDENTITY COIN
-platform: ETH
-platform_contract: '0x5273063725a43a323300c502478c22fbb4e92c2d'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4238E5Ccc619dCC8c00ADE4cfc5d3D9020b24898'
+    platform: BNB
 crypto: true
 fiat: false
 id: AIT1
 id_coinmarketcap: '24135'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24135.png
 name: AI Trader
-platform: BNB
-platform_contract: '0x4238E5Ccc619dCC8c00ADE4cfc5d3D9020b24898'

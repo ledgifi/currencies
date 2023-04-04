@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe0e73e8fc3a0fa161695be1d75e1bc3e558957c4'
+    platform: ETH
 crypto: true
 fiat: false
 id: ANN
 id_coinmarketcap: '4433'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4433.png
 name: AgentNotNeeded
-platform: ETH
-platform_contract: '0xe0e73e8fc3a0fa161695be1d75e1bc3e558957c4'

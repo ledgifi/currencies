@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1f40c4121ea7946f85a890699421a41ded7a091f'
+    platform: BNB
 crypto: true
 fiat: false
 id: FMEV2
 id_coinmarketcap: '18537'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18537.png
 name: Fantasy Girl
-platform: BNB
-platform_contract: '0x1f40c4121ea7946f85a890699421a41ded7a091f'

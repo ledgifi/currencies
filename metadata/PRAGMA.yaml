@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x449f45deb9c57350130732733bd96aad7203342a'
+    platform: FTM
 crypto: true
 fiat: false
 id: PRAGMA
 id_coinmarketcap: '19597'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19597.png
 name: Pragma
-platform: FTM
-platform_contract: '0x449f45deb9c57350130732733bd96aad7203342a'

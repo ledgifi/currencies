@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd8D4000dd9ad501FD0Ea918e2f0a22C62668Af88'
+    platform: BNB
 crypto: true
 fiat: false
 id: PCASH
 id_coinmarketcap: '23599'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23599.png
 name: Panda Cash
-platform: BNB
-platform_contract: '0xd8D4000dd9ad501FD0Ea918e2f0a22C62668Af88'

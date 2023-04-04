@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe672237cC26FcfDFb593e30E7fEff450646c8A3f'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPORTY
 id_coinmarketcap: '21628'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21628.png
 name: Sporty
-platform: BNB
-platform_contract: '0xe672237cC26FcfDFb593e30E7fEff450646c8A3f'

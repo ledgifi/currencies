@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6c526368e1185e4cd8a50468eb3429c5aeb674f3'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SBAR
 id_coinmarketcap: '17494'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17494.png
 name: SelfBar
-platform: MATIC
-platform_contract: '0x6c526368e1185e4cd8a50468eb3429c5aeb674f3'

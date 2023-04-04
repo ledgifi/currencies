@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xBb53FcAB7A3616C5be33B9C0AF612f0462b01734'
+    platform: BNB
 crypto: true
 fiat: false
 id: SBF
 id_coinmarketcap: '9953'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9953.png
 name: SteakBankFinance
-platform: BNB
-platform_contract: '0xBb53FcAB7A3616C5be33B9C0AF612f0462b01734'

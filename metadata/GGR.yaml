@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA90Da9e3c71DDFcC2D793F80029aCBd21A4A0Db6'
+    platform: BNB
 crypto: true
 fiat: false
 id: GGR
 id_coinmarketcap: '19568'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19568.png
 name: Gagarin
-platform: BNB
-platform_contract: '0xA90Da9e3c71DDFcC2D793F80029aCBd21A4A0Db6'

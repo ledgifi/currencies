@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xaaa5b9e6c589642f98a1cda99b9d024b8407285a'
+    platform: MATIC
 crypto: true
 fiat: false
 id: TITAN1
 id_coinmarketcap: '10467'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10467.png
 name: IRON Titanium Token
-platform: MATIC
-platform_contract: '0xaaa5b9e6c589642f98a1cda99b9d024b8407285a'

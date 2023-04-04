@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0d229c3ff2d76e4b88ca4f9d3d3353f4545ec53f'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHINU
 id_coinmarketcap: '23398'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23398.png
 name: Sheikh Inu
-platform: ETH
-platform_contract: '0x0d229c3ff2d76e4b88ca4f9d3d3353f4545ec53f'

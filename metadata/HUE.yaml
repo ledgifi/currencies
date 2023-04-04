@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdcfe18bc46f5a0cd0d3af0c2155d2bcb5ade2fc5'
+    platform: ETH
 crypto: true
 fiat: false
 id: HUE
 id_coinmarketcap: '8967'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8967.png
 name: Hue
-platform: ETH
-platform_contract: '0xdcfe18bc46f5a0cd0d3af0c2155d2bcb5ade2fc5'

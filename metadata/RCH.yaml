@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x041E714Aa0DcE7d4189441896486d361e98BAD5f'
+    platform: BNB
 crypto: true
 fiat: false
 id: RCH
 id_coinmarketcap: '18175'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18175.png
 name: MyRichFarm
-platform: BNB
-platform_contract: '0x041E714Aa0DcE7d4189441896486d361e98BAD5f'

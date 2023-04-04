@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2a11bd0d1e928c98570d85c72398dd96802705aa'
+    platform: BNB
 crypto: true
 fiat: false
 id: LUCKYDOGE
 id_coinmarketcap: '19821'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19821.png
 name: LuckyDoge
-platform: BNB
-platform_contract: '0x2a11bd0d1e928c98570d85c72398dd96802705aa'

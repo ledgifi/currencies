@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x765f0c16d1ddc279295c1a7c24b0883f62d33f75'
+    platform: ETH
 crypto: true
 fiat: false
 id: DTX
 id_coinmarketcap: '2913'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2913.png
 name: Databroker
-platform: ETH
-platform_contract: '0x765f0c16d1ddc279295c1a7c24b0883f62d33f75'

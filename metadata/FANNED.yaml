@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xB8f979b9Ca2dE4CCb8Ac1f1876564B82B2E0f263'
+    platform: BNB
 crypto: true
 fiat: false
 id: FANNED
 id_coinmarketcap: '15821'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15821.png
 name: OnlyFans
-platform: BNB
-platform_contract: '0xB8f979b9Ca2dE4CCb8Ac1f1876564B82B2E0f263'

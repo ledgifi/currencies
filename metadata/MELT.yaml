@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D'
+    platform: AVAX
 crypto: true
 fiat: false
 id: MELT
 id_coinmarketcap: '15191'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15191.png
 name: Defrost Finance
-platform: AVAX
-platform_contract: '0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D'

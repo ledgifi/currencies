@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x76ce1E3548ca3AF6cBD3886056806F3eF3A6e301'
+    platform: BNB
 crypto: true
 fiat: false
 id: HDLN
 id_coinmarketcap: '10487'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10487.png
 name: Hodlers Network
-platform: BNB
-platform_contract: '0x76ce1E3548ca3AF6cBD3886056806F3eF3A6e301'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x338DbFfc5A1D19473d4762a84b79fCdf2C6A4736'
+    platform: BNB
 crypto: true
 fiat: false
 id: RENS
 id_coinmarketcap: '20242'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20242.png
 name: Rens Token
-platform: BNB
-platform_contract: '0x338DbFfc5A1D19473d4762a84b79fCdf2C6A4736'

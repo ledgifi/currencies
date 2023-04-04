@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x01ad5c8ca6b2470cbc81c398336f83aae22e4471'
+    platform: BNB
 crypto: true
 fiat: false
 id: GES2
 id_coinmarketcap: '14289'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14289.png
 name: Stone Age NFT Marketplace
-platform: BNB
-platform_contract: '0x01ad5c8ca6b2470cbc81c398336f83aae22e4471'

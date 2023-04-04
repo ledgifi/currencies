@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd3c4163e18aaebe43b4fc8b1a53dc3241fb3d017'
+    platform: ETH
 crypto: true
 fiat: false
 id: CHIRP
 id_coinmarketcap: '19649'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19649.png
 name: Chirp
-platform: ETH
-platform_contract: '0xd3c4163e18aaebe43b4fc8b1a53dc3241fb3d017'

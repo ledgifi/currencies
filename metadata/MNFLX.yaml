@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xC8d674114bac90148d11D3C1d33C61835a0F9DCD'
+    platform: ETH
 crypto: true
 fiat: false
 id: mNFLX
 id_coinmarketcap: '8005'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8005.png
 name: Mirrored Netflix
-platform: ETH
-platform_contract: '0xC8d674114bac90148d11D3C1d33C61835a0F9DCD'

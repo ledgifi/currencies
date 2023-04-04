@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x89F2a5463eF4e4176E57EEf2b2fDD256Bf4bC2bD'
+    platform: BNB
 crypto: true
 fiat: false
 id: CIFI1
 id_coinmarketcap: '10129'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10129.png
 name: Citizen Finance
-platform: BNB
-platform_contract: '0x89F2a5463eF4e4176E57EEf2b2fDD256Bf4bC2bD'

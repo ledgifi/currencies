@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc580342c7127c679db6643c3d2e81586480accfb'
+    platform: BNB
 crypto: true
 fiat: false
 id: XPIE
 id_coinmarketcap: '7911'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7911.png
 name: LibertyPie
-platform: BNB
-platform_contract: '0xc580342c7127c679db6643c3d2e81586480accfb'

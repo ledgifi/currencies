@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3543638ed4a9006e4840b105944271bcea15605d'
+    platform: ETH
 crypto: true
 fiat: false
 id: UUU
 id_coinmarketcap: '2645'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2645.png
 name: U Network
-platform: ETH
-platform_contract: '0x3543638ed4a9006e4840b105944271bcea15605d'

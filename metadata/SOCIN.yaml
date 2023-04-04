@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x788db23BAA806C0a1b2AF312dD9A6087dd02EF89'
+    platform: BNB
 crypto: true
 fiat: false
 id: SOCIN
 id_coinmarketcap: '14687'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14687.png
 name: Soccer Infinity
-platform: BNB
-platform_contract: '0x788db23BAA806C0a1b2AF312dD9A6087dd02EF89'

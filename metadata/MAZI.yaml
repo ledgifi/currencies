@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5b8650cd999b23cf39ab12e3213fbc8709c7f5cb'
+    platform: ETH
 crypto: true
 fiat: false
 id: MAZI
 id_coinmarketcap: '23571'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23571.png
 name: MaziMatic
-platform: ETH
-platform_contract: '0x5b8650cd999b23cf39ab12e3213fbc8709c7f5cb'

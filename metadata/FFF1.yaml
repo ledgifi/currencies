@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xabafa52d3d5a2c18a4c1ae24480d22b831fc0413'
+    platform: ETH
 crypto: true
 fiat: false
 id: FFF1
 id_coinmarketcap: '10431'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10431.png
 name: Future Of Finance Fund
-platform: ETH
-platform_contract: '0xabafa52d3d5a2c18a4c1ae24480d22b831fc0413'

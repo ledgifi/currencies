@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x714599f7604144a3fE1737c440a70fc0fD6503ea'
+    platform: ETH
 crypto: true
 fiat: false
 id: RAKUC
 id_coinmarketcap: '10638'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10638.png
 name: Raku Coin
-platform: ETH
-platform_contract: '0x714599f7604144a3fE1737c440a70fc0fD6503ea'

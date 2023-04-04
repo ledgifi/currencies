@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x56d811088235F11C8920698a204A5010a788f4b3'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: BZRX
 logo: https://bin.bnbstatic.com/images/20200829/fc2b12b9-3774-45c0-9d74-a4e8fd519134.png
 logoKey: currencies/bzrx.png
 name: bZx Protocol
-platform: ETH
-platform_contract: '0x56d811088235F11C8920698a204A5010a788f4b3'

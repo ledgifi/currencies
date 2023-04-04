@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4e15863d76838ed1677d3d4f9fcfa7a4049119af'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHIBAGUN
 id_coinmarketcap: '16553'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16553.png
 name: Shiba Shogun
-platform: ETH
-platform_contract: '0x4e15863d76838ed1677d3d4f9fcfa7a4049119af'

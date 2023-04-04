@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b'
+    platform: ETH
 crypto: true
 fiat: false
 id: DPI
@@ -7,5 +10,3 @@ id_nomics: DPI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DPI.png
 logoKey: currencies/dpi.png
 name: DefiPulse Index
-platform: ETH
-platform_contract: '0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b'

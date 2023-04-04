@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc0834ee3f6589934dc92c63a893b4c4c0081de06'
+    platform: BNB
 crypto: true
 fiat: false
 id: EF
 id_coinmarketcap: '13614'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13614.png
 name: EverFight
-platform: BNB
-platform_contract: '0xc0834ee3f6589934dc92c63a893b4c4c0081de06'

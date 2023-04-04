@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x70BadE713739EE7EaE31f1B9A8Df809093517bF0'
+    platform: BNB
 crypto: true
 fiat: false
 id: HY1
 id_coinmarketcap: '18342'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18342.png
 name: MetaKrypton
-platform: BNB
-platform_contract: '0x70BadE713739EE7EaE31f1B9A8Df809093517bF0'

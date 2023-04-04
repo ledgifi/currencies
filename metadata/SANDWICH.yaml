@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd3253fc0a42e6dcf4f66ab147f628e3f29e9b214'
+    platform: BNB
 crypto: true
 fiat: false
 id: SANDWICH
 id_coinmarketcap: '16101'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16101.png
 name: Sandwich Network
-platform: BNB
-platform_contract: '0xd3253fc0a42e6dcf4f66ab147f628e3f29e9b214'

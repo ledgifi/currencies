@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5daa0cbe290e082dbfd6f595e2e53b678895f322'
+    platform: ETH
 crypto: true
 fiat: false
 id: TOGASHI
 id_coinmarketcap: '13999'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13999.png
 name: Togashi Inu
-platform: ETH
-platform_contract: '0x5daa0cbe290e082dbfd6f595e2e53b678895f322'

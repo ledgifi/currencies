@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3b6cfd5a1b35db9882c2434d931226d6dd484ee1'
+    platform: ETH
 crypto: true
 fiat: false
 id: TWINU
 id_coinmarketcap: '23752'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23752.png
 name: Inu Inu
-platform: ETH
-platform_contract: '0x3b6cfd5a1b35db9882c2434d931226d6dd484ee1'

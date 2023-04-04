@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3920123482070c1a2dff73aad695c60e7c6f6862'
+    platform: BNB
 crypto: true
 fiat: false
 id: EULER
 id_coinmarketcap: '9368'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9368.png
 name: Euler Tools
-platform: BNB
-platform_contract: '0x3920123482070c1a2dff73aad695c60e7c6f6862'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2fD24E68DC5F6384255497d3CED04f715B87b4cf'
+    platform: BNB
 crypto: true
 fiat: false
 id: HYPERSONIC
 id_coinmarketcap: '16117'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16117.png
 name: Hypersonic Finance
-platform: BNB
-platform_contract: '0x2fD24E68DC5F6384255497d3CED04f715B87b4cf'

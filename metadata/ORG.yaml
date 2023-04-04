@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x79b627bc95fa5b36eca53eb39c3cdf43aafdd10f'
+    platform: OKT
 crypto: true
 fiat: false
 id: ORG
 id_coinmarketcap: '11133'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11133.png
 name: Orange
-platform: OKT
-platform_contract: '0x79b627bc95fa5b36eca53eb39c3cdf43aafdd10f'

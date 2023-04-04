@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7154de3689b9138ff8aeab7a4fb2bce229f803e9'
+    platform: ETH
 crypto: true
 fiat: false
 id: BULLETH
 id_coinmarketcap: '17499'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17499.png
 name: BULLETH
-platform: ETH
-platform_contract: '0x7154de3689b9138ff8aeab7a4fb2bce229f803e9'

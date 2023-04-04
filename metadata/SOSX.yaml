@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc27f6473a04b2bdee0bf650f153f1d8720aa3062'
+    platform: BNB
 crypto: true
 fiat: false
 id: SOSX
 id_coinmarketcap: '15020'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15020.png
 name: SocialX
-platform: BNB
-platform_contract: '0xc27f6473a04b2bdee0bf650f153f1d8720aa3062'

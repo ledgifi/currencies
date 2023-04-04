@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb7f80a74aaa4fd30a3ee7c03fde3dc88e6002c12'
+    platform: BNB
 crypto: true
 fiat: false
 id: CTC5
 id_coinmarketcap: '10458'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10458.png
 name: Cryptocoin
-platform: BNB
-platform_contract: '0xb7f80a74aaa4fd30a3ee7c03fde3dc88e6002c12'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4E17357053dA4b473e2daa2c65C2c949545724b8'
+    platform: VET
 crypto: true
 fiat: false
 id: VEUSD
 id_coinmarketcap: '16847'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16847.png
 name: VeUSD
-platform: VET
-platform_contract: '0x4E17357053dA4b473e2daa2c65C2c949545724b8'

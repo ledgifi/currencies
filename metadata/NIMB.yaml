@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xCb492C701F7fe71bC9C4B703b84B0Da933fF26bB'
+    platform: BNB
 crypto: true
 fiat: false
 id: NIMB
 id_coinmarketcap: '23031'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23031.png
 name: Nimbus Platform
-platform: BNB
-platform_contract: '0xCb492C701F7fe71bC9C4B703b84B0Da933fF26bB'

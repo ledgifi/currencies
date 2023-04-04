@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf83bf320a4a3f4bf365c3114b6f19fc3f6b1228c'
+    platform: ETH
 crypto: true
 fiat: false
 id: FXT1
 id_coinmarketcap: '8854'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8854.png
 name: FXT Token
-platform: ETH
-platform_contract: '0xf83bf320a4a3f4bf365c3114b6f19fc3f6b1228c'

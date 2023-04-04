@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa2f017966d967ec697c7a20cf9d0b43cb8d4ff1d'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPC8
 id_coinmarketcap: '17440'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17440.png
 name: Spectra
-platform: BNB
-platform_contract: '0xa2f017966d967ec697c7a20cf9d0b43cb8d4ff1d'

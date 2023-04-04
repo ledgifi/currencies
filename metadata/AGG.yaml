@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x492798fb464e77cb3cda62b9a2c3c65162db198e'
+    platform: ETH
 crypto: true
 fiat: false
 id: AGG
 id_coinmarketcap: '23600'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23600.png
 name: AmpliFi DAO
-platform: ETH
-platform_contract: '0x492798fb464e77cb3cda62b9a2c3c65162db198e'

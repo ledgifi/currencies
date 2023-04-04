@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfb526228ff1c019e4604c7e7988c097d96bd5b70'
+    platform: BNB
 crypto: true
 fiat: false
 id: VGO
 id_coinmarketcap: '12910'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12910.png
 name: Virgo
-platform: BNB
-platform_contract: '0xfb526228ff1c019e4604c7e7988c097d96bd5b70'

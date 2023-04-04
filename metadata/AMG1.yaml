@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xC05f9174Eb7f8B5102D8c83F441A5F65a684AeFc'
+    platform: BNB
 crypto: true
 fiat: false
 id: AMG1
 id_coinmarketcap: '19571'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19571.png
 name: Amgen
-platform: BNB
-platform_contract: '0xC05f9174Eb7f8B5102D8c83F441A5F65a684AeFc'

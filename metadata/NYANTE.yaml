@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0c27b49db71a9fb6e9cf97f7cbb0cf3f0e97f920'
+    platform: BNB
 crypto: true
 fiat: false
 id: NYANTE
 id_coinmarketcap: '8067'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8067.png
 name: Nyantereum International
-platform: BNB
-platform_contract: '0x0c27b49db71a9fb6e9cf97f7cbb0cf3f0e97f920'

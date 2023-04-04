@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9ed8e7c9604790f7ec589f99b94361d8aab64e5e'
+    platform: ETH
 crypto: true
 fiat: false
 id: UNISTAKE
 id_coinmarketcap: '7512'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7512.png
 name: Unistake
-platform: ETH
-platform_contract: '0x9ed8e7c9604790f7ec589f99b94361d8aab64e5e'

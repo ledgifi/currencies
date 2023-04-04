@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xba50933c268f567bdc86e1ac131be072c6b0b71a'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: ARPA
 logo: https://bin.bnbstatic.com/images/20191211/d2f05b7e-25c3-4403-9249-0861c221a6c9.png
 logoKey: currencies/arpa.png
 name: ARPA Chain
-platform: ETH
-platform_contract: '0xba50933c268f567bdc86e1ac131be072c6b0b71a'

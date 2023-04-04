@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2a22e5cca00a3d63308fa39f29202eb1b39eef52'
+    platform: ETH
 crypto: true
 fiat: false
 id: EDU2
 id_coinmarketcap: '2951'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2951.png
 name: EDU Token
-platform: ETH
-platform_contract: '0x2a22e5cca00a3d63308fa39f29202eb1b39eef52'

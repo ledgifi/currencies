@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x03352d267951e96c6f7235037c5dfd2ab1466232'
+    platform: ETH
 crypto: true
 fiat: false
 id: ONEFOX
 id_coinmarketcap: '17421'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17421.png
 name: Stable FOX
-platform: ETH
-platform_contract: '0x03352d267951e96c6f7235037c5dfd2ab1466232'

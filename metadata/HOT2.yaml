@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb15e296636cd8c447f0d2564ce4d7dfe4a72a910'
+    platform: BNB
 crypto: true
 fiat: false
 id: HOT2
 id_coinmarketcap: '20493'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20493.png
 name: HyperOne
-platform: BNB
-platform_contract: '0xb15e296636cd8c447f0d2564ce4d7dfe4a72a910'

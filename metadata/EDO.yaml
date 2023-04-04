@@ -1,4 +1,7 @@
 color: '#242424'
+contracts:
+  - address: '0xced4e93198734ddaff8492d525bd258d49eb388e'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: EDO
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/edo.svg
 logoKey: currencies/edo.svg
 name: Eidoo
-platform: ETH
-platform_contract: '0xced4e93198734ddaff8492d525bd258d49eb388e'

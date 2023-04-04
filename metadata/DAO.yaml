@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x0f51bb10119727a7e5ea3538074fb341f56b09ad'
+    platform: ETH
 crypto: true
 fiat: false
 id: DAO
@@ -6,5 +9,3 @@ id_nomics: DAO
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAO.jpg
 logoKey: currencies/dao.jpg
 name: DAO Maker
-platform: ETH
-platform_contract: '0x0f51bb10119727a7e5ea3538074fb341f56b09ad'

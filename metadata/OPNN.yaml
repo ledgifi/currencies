@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa829f97373069ee5d23175e4105df8fd49238be7'
+    platform: ETH
 crypto: true
 fiat: false
 id: OPNN
 id_coinmarketcap: '4202'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4202.png
 name: Opennity
-platform: ETH
-platform_contract: '0xa829f97373069ee5d23175e4105df8fd49238be7'

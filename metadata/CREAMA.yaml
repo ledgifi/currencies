@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3947146f331b9ef6448064c6311cdd24d9467a1a'
+    platform: AVAX
 crypto: true
 fiat: false
 id: CREAMA
 id_coinmarketcap: '22532'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22532.png
 name: Creama
-platform: AVAX
-platform_contract: '0x3947146f331b9ef6448064c6311cdd24d9467a1a'

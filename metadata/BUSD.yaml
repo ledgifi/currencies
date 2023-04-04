@@ -1,3 +1,6 @@
+contracts:
+  - address: BUSD-BD1
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: BUSD
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUSD.png
 logoKey: currencies/busd.png
 name: Binance USD
-platform: BNB
-platform_contract: BUSD-BD1

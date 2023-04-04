@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x09756234F29BddC18Ecb83dB8398D0DDa90071A1'
+    platform: BNB
 crypto: true
 fiat: false
 id: XFLOKI
@@ -7,5 +10,3 @@ id_nomics: XFLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XFLOKI.jpg
 logoKey: currencies/xfloki.jpg
 name: SpaceX Floki
-platform: BNB
-platform_contract: '0x09756234F29BddC18Ecb83dB8398D0DDa90071A1'

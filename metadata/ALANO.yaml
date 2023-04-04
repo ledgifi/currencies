@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x087ea9e07e976de49aaa2c0c786269454d125dfe'
+    platform: BNB
 crypto: true
 fiat: false
 id: ALANO
 id_coinmarketcap: '14827'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14827.png
 name: ALANO
-platform: BNB
-platform_contract: '0x087ea9e07e976de49aaa2c0c786269454d125dfe'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x41C21693e60FC1a5dBb7c50e54E7A6016aA44C99'
+    platform: ETH
 crypto: true
 fiat: false
 id: SIMP
 id_coinmarketcap: '23271'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23271.png
 name: SO-COL
-platform: ETH
-platform_contract: '0x41C21693e60FC1a5dBb7c50e54E7A6016aA44C99'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5fad6fbba4bba686ba9b8052cf0bd51699f38b93'
+    platform: HT
 crypto: true
 fiat: false
 id: MAKI
 id_coinmarketcap: '10232'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10232.png
 name: MakiSwap
-platform: HT
-platform_contract: '0x5fad6fbba4bba686ba9b8052cf0bd51699f38b93'

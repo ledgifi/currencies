@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9f285507ea5b4f33822ca7abb5ec8953ce37a645'
+    platform: AVAX
 crypto: true
 fiat: false
 id: DEG
 id_coinmarketcap: '18840'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18840.png
 name: Degis
-platform: AVAX
-platform_contract: '0x9f285507ea5b4f33822ca7abb5ec8953ce37a645'

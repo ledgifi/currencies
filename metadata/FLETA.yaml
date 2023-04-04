@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x40897C872214303b6F479a37E549eE1516B264A2'
+    platform: ETH
 crypto: true
 fiat: false
 id: FLETA
 id_coinmarketcap: '4103'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4103.png
 name: FLETA
-platform: ETH
-platform_contract: '0x40897C872214303b6F479a37E549eE1516B264A2'

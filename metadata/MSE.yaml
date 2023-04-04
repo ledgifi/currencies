@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcecac06eede5e652d8215ea369444919f43f5ed6'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MSE
 id_coinmarketcap: '16026'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16026.png
 name: Museo
-platform: MATIC
-platform_contract: '0xcecac06eede5e652d8215ea369444919f43f5ed6'

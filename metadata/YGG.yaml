@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x25f8087ead173b73d6e8b84329989a8eea16cf73'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: YGG2
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/f702d60d-84c4-4b44-8d26-ac29603ed8ae.png
 logoKey: currencies/ygg.png
 name: Yield Guild Games
-platform: ETH
-platform_contract: '0x25f8087ead173b73d6e8b84329989a8eea16cf73'

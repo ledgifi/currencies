@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x56831a7b5e61d6453c203cb22b7a89e016b05ecb'
+    platform: ETH
 crypto: true
 fiat: false
 id: BALLS1
 id_coinmarketcap: '7666'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7666.png
 name: Pokeswap
-platform: ETH
-platform_contract: '0x56831a7b5e61d6453c203cb22b7a89e016b05ecb'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x12fc07081fab7de60987cad8e8dc407b606fb2f8'
+    platform: BNB
 crypto: true
 fiat: false
 id: DARK
 id_coinmarketcap: '12487'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12487.png
 name: Dark Frontiers
-platform: BNB
-platform_contract: '0x12fc07081fab7de60987cad8e8dc407b606fb2f8'

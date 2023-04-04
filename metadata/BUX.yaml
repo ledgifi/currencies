@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x211ffbe424b90e25a15531ca322adf1559779e45'
+    platform: BNB
 crypto: true
 fiat: false
 id: BUX
 id_coinmarketcap: '2465'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2465.png
 name: BUX Token
-platform: BNB
-platform_contract: '0x211ffbe424b90e25a15531ca322adf1559779e45'

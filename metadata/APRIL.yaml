@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbfeA674ce7d16E26E39e3c088810367a708eF94C'
+    platform: BNB
 crypto: true
 fiat: false
 id: APRIL
 id_coinmarketcap: '10367'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10367.png
 name: April
-platform: BNB
-platform_contract: '0xbfeA674ce7d16E26E39e3c088810367a708eF94C'

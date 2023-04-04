@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x148958884544a8ad7c4895e6ffe2723932e0523a'
+    platform: ETH
 crypto: true
 fiat: false
 id: LORC
 id_coinmarketcap: '13343'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13343.png
 name: LandOrc
-platform: ETH
-platform_contract: '0x148958884544a8ad7c4895e6ffe2723932e0523a'

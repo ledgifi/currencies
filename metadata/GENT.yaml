@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0f767338244418310342d49b02183715691d988f'
+    platform: ETH
 crypto: true
 fiat: false
 id: GENT
 id_coinmarketcap: '4412'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4412.png
 name: Genesis Token
-platform: ETH
-platform_contract: '0x0f767338244418310342d49b02183715691d988f'

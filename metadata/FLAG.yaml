@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa5496935a247fa81b1462e553ad139d2fd0af795'
+    platform: BNB
 crypto: true
 fiat: false
 id: FLAG
 id_coinmarketcap: '17215'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17215.png
 name: Flag Network
-platform: BNB
-platform_contract: '0xa5496935a247fa81b1462e553ad139d2fd0af795'

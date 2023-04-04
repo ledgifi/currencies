@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8c473a401e7EBde6DAB178eA0bB5b35Cde542c0e'
+    platform: BNB
 crypto: true
 fiat: false
 id: FOOFIGHT
 id_coinmarketcap: '12842'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12842.png
 name: Fruit Fighters
-platform: BNB
-platform_contract: '0x8c473a401e7EBde6DAB178eA0bB5b35Cde542c0e'

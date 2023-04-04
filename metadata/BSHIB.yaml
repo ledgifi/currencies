@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xD8F61cdECA41dEF1a7923F308a042F678109f54B'
+    platform: BNB
 crypto: true
 fiat: false
 id: BSHIB
 id_coinmarketcap: '13788'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13788.png
 name: BuffedShiba
-platform: BNB
-platform_contract: '0xD8F61cdECA41dEF1a7923F308a042F678109f54B'

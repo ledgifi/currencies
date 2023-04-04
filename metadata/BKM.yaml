@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb7E02a2384b6d3D111Aa950283d3563a66f7a006'
+    platform: BNB
 crypto: true
 fiat: false
 id: BKM
 id_coinmarketcap: '22282'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22282.png
 name: Bunny King Metaverse
-platform: BNB
-platform_contract: '0xb7E02a2384b6d3D111Aa950283d3563a66f7a006'

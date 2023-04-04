@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x96e7593e376a8f75fd52ae71b7b45358ef373ae8'
+    platform: MATIC
 crypto: true
 fiat: false
 id: GURU
 id_coinmarketcap: '10670'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10670.png
 name: BitGuru Finance
-platform: MATIC
-platform_contract: '0x96e7593e376a8f75fd52ae71b7b45358ef373ae8'

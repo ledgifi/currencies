@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc275865a6cce78398e94cb2af29fa0d787b7f7eb'
+    platform: ETH
 crypto: true
 fiat: false
 id: RSCT
 id_coinmarketcap: '4478'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4478.png
 name: RiseCoin Token
-platform: ETH
-platform_contract: '0xc275865a6cce78398e94cb2af29fa0d787b7f7eb'

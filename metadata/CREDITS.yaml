@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbDca906C6FacFecfff4a20819c381c3BAdaE6D05'
+    platform: AVAX
 crypto: true
 fiat: false
 id: CREDITS
 id_coinmarketcap: '17935'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17935.png
 name: MinerJoe
-platform: AVAX
-platform_contract: '0xbDca906C6FacFecfff4a20819c381c3BAdaE6D05'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x61cdb66e56fad942a7b5ce3f419ffe9375e31075'
+    platform: ETH
 crypto: true
 fiat: false
 id: RAIN2
 id_coinmarketcap: '5822'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5822.png
 name: RAIN Network
-platform: ETH
-platform_contract: '0x61cdb66e56fad942a7b5ce3f419ffe9375e31075'

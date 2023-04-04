@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2f800db0fdb5223b3c3f354886d907a671414a7f'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BCT
 id_coinmarketcap: '12949'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12949.png
 name: 'Toucan Protocol: Base Carbon Tonne'
-platform: MATIC
-platform_contract: '0x2f800db0fdb5223b3c3f354886d907a671414a7f'

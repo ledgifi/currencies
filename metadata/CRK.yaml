@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7c8b5501a40d382e8a11889834c80b2d7fa1fc4f'
+    platform: CRO
 crypto: true
 fiat: false
 id: CRK
 id_coinmarketcap: '17220'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17220.png
 name: Croking
-platform: CRO
-platform_contract: '0x7c8b5501a40d382e8a11889834c80b2d7fa1fc4f'

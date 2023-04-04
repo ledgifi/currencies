@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x57b946008913b82e4df85f501cbaed910e58d26c'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: POND
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220329/a5ea240d-a7fe-4ee2-849d-b3965afcb9c5.png
 logoKey: currencies/pond.png
 name: Marlin
-platform: ETH
-platform_contract: '0x57b946008913b82e4df85f501cbaed910e58d26c'

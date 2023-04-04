@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x75cc6feb91f9cf00b41f8d2f6f66b4aedaf9727b'
+    platform: BNB
 crypto: true
 fiat: false
 id: ROCKY
 id_coinmarketcap: '15376'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15376.png
 name: Rocky Inu
-platform: BNB
-platform_contract: '0x75cc6feb91f9cf00b41f8d2f6f66b4aedaf9727b'

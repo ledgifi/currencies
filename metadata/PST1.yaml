@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc9210963b831095c35740A9Ec943CdC35995c467'
+    platform: BNB
 crypto: true
 fiat: false
 id: PST1
 id_coinmarketcap: '20406'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20406.png
 name: Crypto Pirates
-platform: BNB
-platform_contract: '0xc9210963b831095c35740A9Ec943CdC35995c467'

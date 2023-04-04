@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x27Ae27110350B98d564b9A3eeD31bAeBc82d878d'
+    platform: BNB
 crypto: true
 fiat: false
 id: CUMMIES
 id_coinmarketcap: '9212'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9212.png
 name: CumRocket
-platform: BNB
-platform_contract: '0x27Ae27110350B98d564b9A3eeD31bAeBc82d878d'

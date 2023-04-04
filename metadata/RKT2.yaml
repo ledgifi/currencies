@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4cab0abc80fe1c0521cbb5e9810a1c88c3942f91'
+    platform: ETH
 crypto: true
 fiat: false
 id: RKT2
 id_coinmarketcap: '13385'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13385.png
 name: Rekt
-platform: ETH
-platform_contract: '0x4cab0abc80fe1c0521cbb5e9810a1c88c3942f91'

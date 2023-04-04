@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa045c8906d5da036ffd252532e747090c8dee3e5'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHOES
 id_coinmarketcap: '21405'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21405.png
 name: Allrunning DAO
-platform: BNB
-platform_contract: '0xa045c8906d5da036ffd252532e747090c8dee3e5'

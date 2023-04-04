@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2BA8349123de45E931a8C8264c332E6e9CF593F9'
+    platform: ETH
 crypto: true
 fiat: false
 id: BCMC
 id_coinmarketcap: '12751'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12751.png
 name: Blockchain Monster Hunt
-platform: ETH
-platform_contract: '0x2BA8349123de45E931a8C8264c332E6e9CF593F9'

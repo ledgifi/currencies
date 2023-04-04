@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x3472a5a71965499acd81997a54bba8d852c6e53d'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: BADGER
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210302/83ed5cb5-24d1-4ef2-8c56-80275f0afdad.png
 logoKey: currencies/badger.png
 name: Badger DAO
-platform: ETH
-platform_contract: '0x3472a5a71965499acd81997a54bba8d852c6e53d'

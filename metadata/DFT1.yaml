@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa2a54f1ec1f09316ef12c1770d32ed8f21b1fb6a'
+    platform: ETH
 crypto: true
 fiat: false
 id: DFT1
 id_coinmarketcap: '2878'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2878.png
 name: DigiFinexToken
-platform: ETH
-platform_contract: '0xa2a54f1ec1f09316ef12c1770d32ed8f21b1fb6a'

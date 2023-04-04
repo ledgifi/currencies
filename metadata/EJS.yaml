@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x96610186F3ab8d73EBEe1CF950C750f3B1Fb79C2'
+    platform: ETH
 crypto: true
 fiat: false
 id: EJS
@@ -7,5 +10,3 @@ id_nomics: EJS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EJS.jpg
 logoKey: currencies/ejs.jpg
 name: Enjinstarter
-platform: ETH
-platform_contract: '0x96610186F3ab8d73EBEe1CF950C750f3B1Fb79C2'

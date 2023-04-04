@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x43afc9058a3DeBF37eaDf99138e449cE8a480A8a'
+    platform: ETH
 crypto: true
 fiat: false
 id: STAMP
 id_coinmarketcap: '5869'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5869.png
 name: SafePost
-platform: ETH
-platform_contract: '0x43afc9058a3DeBF37eaDf99138e449cE8a480A8a'

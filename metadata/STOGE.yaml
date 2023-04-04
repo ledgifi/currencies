@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1296a923cd4f39116e0297d921fe25fe228552c6'
+    platform: ETH
 crypto: true
 fiat: false
 id: STOGE
 id_coinmarketcap: '9381'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9381.png
 name: Stoner Doge Finance
-platform: ETH
-platform_contract: '0x1296a923cd4f39116e0297d921fe25fe228552c6'

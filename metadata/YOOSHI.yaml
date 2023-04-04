@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x02ff5065692783374947393723dba9599e59f591'
+    platform: BNB
 crypto: true
 fiat: false
 id: YOOSHI
 id_coinmarketcap: '9892'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9892.png
 name: YooShi
-platform: BNB
-platform_contract: '0x02ff5065692783374947393723dba9599e59f591'

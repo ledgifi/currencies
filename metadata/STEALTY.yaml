@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x60AF9254e370a86428Ba2045af6cd91984b8545c'
+    platform: BNB
 crypto: true
 fiat: false
 id: STEALTY
 id_coinmarketcap: '9965'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9965.png
 name: STEALTH Protocol
-platform: BNB
-platform_contract: '0x60AF9254e370a86428Ba2045af6cd91984b8545c'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0bf6261297198d91d4fa460242c69232146a5703'
+    platform: ETH
 crypto: true
 fiat: false
 id: LIB2
 id_coinmarketcap: '6700'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6700.png
 name: Libera
-platform: ETH
-platform_contract: '0x0bf6261297198d91d4fa460242c69232146a5703'

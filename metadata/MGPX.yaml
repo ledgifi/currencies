@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1eb98a53afe4467836805005682677a0de57c22f'
+    platform: BNB
 crypto: true
 fiat: false
 id: MGPX
 id_coinmarketcap: '13359'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13359.png
 name: Monster Grand Prix Token
-platform: BNB
-platform_contract: '0x1eb98a53afe4467836805005682677a0de57c22f'

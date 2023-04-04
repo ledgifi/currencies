@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xC5842a4aC9885E7a6BBefAddCd0d1A56d12fF8FC'
+    platform: ETH
 crypto: true
 fiat: false
 id: SSC1
 id_coinmarketcap: '6720'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6720.png
 name: sensorschain
-platform: ETH
-platform_contract: '0xC5842a4aC9885E7a6BBefAddCd0d1A56d12fF8FC'

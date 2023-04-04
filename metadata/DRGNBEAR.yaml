@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x223FB5c14C00Cfb70cF56BB63c2EeF2d74fE1A78'
+    platform: ETH
 crypto: true
 fiat: false
 id: DRGNBEAR
 id_coinmarketcap: '6098'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6098.png
 name: 3X Short Dragon Index Token
-platform: ETH
-platform_contract: '0x223FB5c14C00Cfb70cF56BB63c2EeF2d74fE1A78'

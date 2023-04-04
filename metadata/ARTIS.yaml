@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x082e13494f12ebb7206fbf67e22a6e1975a1a669'
+    platform: ETH
 crypto: true
 fiat: false
 id: ARTIS
 id_coinmarketcap: '5008'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5008.png
 name: Artis Turba
-platform: ETH
-platform_contract: '0x082e13494f12ebb7206fbf67e22a6e1975a1a669'

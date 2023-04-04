@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2aECCB42482cc64E087b6D2e5Da39f5A7A7001f8'
+    platform: ETH
 crypto: true
 fiat: false
 id: RULER
 id_coinmarketcap: '8698'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8698.png
 name: Ruler Protocol
-platform: ETH
-platform_contract: '0x2aECCB42482cc64E087b6D2e5Da39f5A7A7001f8'

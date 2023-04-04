@@ -1,4 +1,7 @@
 color: '#ff5000'
+contracts:
+  - address: '0x0d8775f648430679a709e98d2b0cb6250d2887ef'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: BAT
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/bat.svg
 logoKey: currencies/bat.svg
 name: Basic Attention Token
-platform: ETH
-platform_contract: '0x0d8775f648430679a709e98d2b0cb6250d2887ef'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3212b29E33587A00FB1C83346f5dBFA69A458923'
+    platform: ETH
 crypto: true
 fiat: false
 id: imBTC
 id_coinmarketcap: '5292'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5292.png
 name: The Tokenized Bitcoin
-platform: ETH
-platform_contract: '0x3212b29E33587A00FB1C83346f5dBFA69A458923'

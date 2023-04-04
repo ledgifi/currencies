@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfd141194D9d0fD62B5fC7E17DDD7d21aEB0CC7FC'
+    platform: BNB
 crypto: true
 fiat: false
 id: IF1
 id_coinmarketcap: '21679'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21679.png
 name: InsuranceFi
-platform: BNB
-platform_contract: '0xfd141194D9d0fD62B5fC7E17DDD7d21aEB0CC7FC'

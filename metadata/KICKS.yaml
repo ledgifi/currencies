@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfEB4e9B932eF708c498Cc997ABe51D0EE39300cf'
+    platform: BNB
 crypto: true
 fiat: false
 id: KICKS
 id_coinmarketcap: '22205'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22205.png
 name: GetKicks
-platform: BNB
-platform_contract: '0xfEB4e9B932eF708c498Cc997ABe51D0EE39300cf'

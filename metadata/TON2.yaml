@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a'
+    platform: ETH
 crypto: true
 fiat: false
 id: TON2
 id_coinmarketcap: '6890'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6890.png
 name: TON Token
-platform: ETH
-platform_contract: '0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a'

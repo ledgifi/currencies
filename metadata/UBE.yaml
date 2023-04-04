@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC'
+    platform: CELO
 crypto: true
 fiat: false
 id: UBE
 id_coinmarketcap: '10808'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10808.png
 name: Ubeswap
-platform: CELO
-platform_contract: '0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC'

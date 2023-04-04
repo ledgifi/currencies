@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x309d43cb7Bb1E07371eeE4947103AA019121a973'
+    platform: BNB
 crypto: true
 fiat: false
 id: AIWALLET
 id_coinmarketcap: '23549'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23549.png
 name: AiWallet Token
-platform: BNB
-platform_contract: '0x309d43cb7Bb1E07371eeE4947103AA019121a973'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcDf937995A55a9AB551D81b463AC0f7F02795368'
+    platform: BNB
 crypto: true
 fiat: false
 id: VSC2
 id_coinmarketcap: '23917'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23917.png
 name: Vyvo Smart Chain
-platform: BNB
-platform_contract: '0xcDf937995A55a9AB551D81b463AC0f7F02795368'

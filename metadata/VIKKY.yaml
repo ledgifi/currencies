@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd2946be786f35c3cc402c29b323647abda799071'
+    platform: ETH
 crypto: true
 fiat: false
 id: VIKKY
 id_coinmarketcap: '2965'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2965.png
 name: VikkyToken
-platform: ETH
-platform_contract: '0xd2946be786f35c3cc402c29b323647abda799071'

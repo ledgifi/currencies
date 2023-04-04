@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x52171ffa4ceda60ff9795e1f111adb14c3d7025e'
+    platform: BNB
 crypto: true
 fiat: false
 id: UTC
 id_coinmarketcap: '18993'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18993.png
 name: Unitech
-platform: BNB
-platform_contract: '0x52171ffa4ceda60ff9795e1f111adb14c3d7025e'

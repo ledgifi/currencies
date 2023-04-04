@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x400613f184D1207f5C07a67D67040A4e23E92feB'
+    platform: BNB
 crypto: true
 fiat: false
 id: UPDOG
 id_coinmarketcap: '9877'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9877.png
 name: UPDOG
-platform: BNB
-platform_contract: '0x400613f184D1207f5C07a67D67040A4e23E92feB'

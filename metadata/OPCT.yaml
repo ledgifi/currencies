@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xDb05EA0877A2622883941b939f0bb11d1ac7c400'
+    platform: ETH
 crypto: true
 fiat: false
 id: OPCT
@@ -7,5 +10,3 @@ id_nomics: OPCT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OPCT.png
 logoKey: currencies/opct.png
 name: Opacity
-platform: ETH
-platform_contract: '0xDb05EA0877A2622883941b939f0bb11d1ac7c400'

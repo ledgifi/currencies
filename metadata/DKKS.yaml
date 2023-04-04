@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x834613c64522725b23b458af04ed1590d189962f'
+    platform: BNB
 crypto: true
 fiat: false
 id: DKKS
 id_coinmarketcap: '12571'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12571.png
 name: Daikokuten Sama
-platform: BNB
-platform_contract: '0x834613c64522725b23b458af04ed1590d189962f'

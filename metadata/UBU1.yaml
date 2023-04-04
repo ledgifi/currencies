@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd2ddfba7bb12f6e70c2aab6b6bf9edaef42ed22f'
+    platform: BNB
 crypto: true
 fiat: false
 id: UBU1
 id_coinmarketcap: '8787'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8787.png
 name: UBU Finance
-platform: BNB
-platform_contract: '0xd2ddfba7bb12f6e70c2aab6b6bf9edaef42ed22f'

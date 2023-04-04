@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5Cb2C3Ed882E37DA610f9eF5b0FA25514d7bc85B'
+    platform: BNB
 crypto: true
 fiat: false
 id: MHT
 id_coinmarketcap: '15043'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15043.png
 name: Mouse Haunt Token
-platform: BNB
-platform_contract: '0x5Cb2C3Ed882E37DA610f9eF5b0FA25514d7bc85B'

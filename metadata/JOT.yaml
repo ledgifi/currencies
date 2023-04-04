@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdb455c71c1bc2de4e80ca451184041ef32054001'
+    platform: ETH
 crypto: true
 fiat: false
 id: JOT
 id_coinmarketcap: '2948'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2948.png
 name: Jury.Online Token
-platform: ETH
-platform_contract: '0xdb455c71c1bc2de4e80ca451184041ef32054001'

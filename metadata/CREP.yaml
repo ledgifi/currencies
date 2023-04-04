@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x158079ee67fce2f58472a96584a73c7ab9ac95c1'
+    platform: ETH
 crypto: true
 fiat: false
 id: CREP
 id_coinmarketcap: '5746'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5746.png
 name: Compound Augur
-platform: ETH
-platform_contract: '0x158079ee67fce2f58472a96584a73c7ab9ac95c1'

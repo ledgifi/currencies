@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0c63cae5fcc2ca3dde60a35e50362220651ebec8'
+    platform: ETH
 crypto: true
 fiat: false
 id: STXEM
 id_coinmarketcap: '8277'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8277.png
 name: stakedXEM
-platform: ETH
-platform_contract: '0x0c63cae5fcc2ca3dde60a35e50362220651ebec8'

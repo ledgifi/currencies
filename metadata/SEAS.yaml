@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6ee90765bd474c7e2d8642069f1f2ed63ded6db3'
+    platform: BNB
 crypto: true
 fiat: false
 id: SEAS
 id_coinmarketcap: '10105'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10105.png
 name: Save Animals
-platform: BNB
-platform_contract: '0x6ee90765bd474c7e2d8642069f1f2ed63ded6db3'

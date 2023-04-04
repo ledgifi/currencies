@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x1796ae0b0fa4862485106a0de9b654eFE301D0b2'
+    platform: ETH
 crypto: true
 fiat: false
 id: PMON
@@ -6,5 +9,3 @@ id_nomics: PMON
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PMON.jpg
 logoKey: currencies/pmon.jpg
 name: Polkamon (ERC-20)
-platform: ETH
-platform_contract: '0x1796ae0b0fa4862485106a0de9b654eFE301D0b2'

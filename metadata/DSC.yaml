@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5EfF42fFb14DC5f840A6BD13266eC815a75B4449'
+    platform: BNB
 crypto: true
 fiat: false
 id: DSC
 id_coinmarketcap: '23387'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23387.png
 name: Digi Sign Chain
-platform: BNB
-platform_contract: '0x5EfF42fFb14DC5f840A6BD13266eC815a75B4449'

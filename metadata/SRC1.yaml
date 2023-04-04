@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x221F7d0F2Fa0bFbd5F8B0d0340425906F2F9968c'
+    platform: ETH
 crypto: true
 fiat: false
 id: SRC1
 id_coinmarketcap: '6465'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6465.png
 name: Super Running Coin
-platform: ETH
-platform_contract: '0x221F7d0F2Fa0bFbd5F8B0d0340425906F2F9968c'

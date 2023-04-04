@@ -1,8 +1,9 @@
+contracts:
+  - address: TWcDDx1Q6QEoBrJi9qehtZnD4vcXXuVLer
+    platform: TRX
 crypto: true
 fiat: false
 id: POL
 id_coinmarketcap: '6297'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6297.png
 name: Proof Of Liquidity
-platform: TRX
-platform_contract: TWcDDx1Q6QEoBrJi9qehtZnD4vcXXuVLer

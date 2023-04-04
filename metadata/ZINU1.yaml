@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc50ef449171a51fbeafd7c562b064b6471c36caa'
+    platform: ETH
 crypto: true
 fiat: false
 id: ZINU1
 id_coinmarketcap: '13382'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13382.png
 name: Zombie Inu(Old)
-platform: ETH
-platform_contract: '0xc50ef449171a51fbeafd7c562b064b6471c36caa'

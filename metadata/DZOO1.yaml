@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5419291d81c68c103363e06046f40a9056ab2b7f'
+    platform: BNB
 crypto: true
 fiat: false
 id: DZOO1
 id_coinmarketcap: '11710'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11710.png
 name: DogeZoo
-platform: BNB
-platform_contract: '0x5419291d81c68c103363e06046f40a9056ab2b7f'

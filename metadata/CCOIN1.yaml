@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5e51f6841d2f188c42c7c33a6a5e77fb05cfbabe'
+    platform: ETH
 crypto: true
 fiat: false
 id: CCOIN1
 id_coinmarketcap: '4310'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4310.png
 name: CREDITCOIN
-platform: ETH
-platform_contract: '0x5e51f6841d2f188c42c7c33a6a5e77fb05cfbabe'

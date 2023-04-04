@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9e6b19874e97fe8E8CAD77f2c0AB5E7a693E5dbf'
+    platform: ETH
 crypto: true
 fiat: false
 id: ISHND
 id_coinmarketcap: '14222'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14222.png
 name: StrongHands Finance
-platform: ETH
-platform_contract: '0x9e6b19874e97fe8E8CAD77f2c0AB5E7a693E5dbf'

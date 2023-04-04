@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x99f6decbe2346d2ac4f84dd0fd0e883732b46047'
+    platform: BNB
 crypto: true
 fiat: false
 id: LUCK4
 id_coinmarketcap: '21559'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21559.png
 name: LuckDao
-platform: BNB
-platform_contract: '0x99f6decbe2346d2ac4f84dd0fd0e883732b46047'

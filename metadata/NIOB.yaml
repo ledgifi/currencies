@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5ac5e6Af46Ef285B3536833E65D245c49b608d9b'
+    platform: BNB
 crypto: true
 fiat: false
 id: NIOB
 id_coinmarketcap: '16754'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16754.png
 name: Niob Finance
-platform: BNB
-platform_contract: '0x5ac5e6Af46Ef285B3536833E65D245c49b608d9b'

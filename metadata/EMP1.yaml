@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x947FE50c2aE24d5FF56f0e4E7C9043eb6ee1ABe7'
+    platform: BNB
 crypto: true
 fiat: false
 id: EMP1
 id_coinmarketcap: '23658'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23658.png
 name: ElvishMagic
-platform: BNB
-platform_contract: '0x947FE50c2aE24d5FF56f0e4E7C9043eb6ee1ABe7'

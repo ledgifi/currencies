@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x51D098baDAfc2487167D65F2cD3918f98909905B'
+    platform: BNB
 crypto: true
 fiat: false
 id: KMO
 id_coinmarketcap: '12732'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12732.png
 name: Koinomo
-platform: BNB
-platform_contract: '0x51D098baDAfc2487167D65F2cD3918f98909905B'

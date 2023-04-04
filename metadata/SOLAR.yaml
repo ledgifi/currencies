@@ -1,3 +1,6 @@
+contracts:
+  - address: 2wmKXX1xsxLfrvjEPrt2UHiqj8Gbzwxvffr9qmNjsw8g
+    platform: SOL
 crypto: true
 fiat: false
 id: SOLAR
@@ -7,5 +10,3 @@ id_nomics: SOLAR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SOLAR.jpg
 logoKey: currencies/solar.jpg
 name: Solar
-platform: SOL
-platform_contract: 2wmKXX1xsxLfrvjEPrt2UHiqj8Gbzwxvffr9qmNjsw8g

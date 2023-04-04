@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0f02b1f5af54e04fb6dd6550f009ac2429c4e30d'
+    platform: BNB
 crypto: true
 fiat: false
 id: FINIX
 id_coinmarketcap: '10661'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10661.png
 name: Definix
-platform: BNB
-platform_contract: '0x0f02b1f5af54e04fb6dd6550f009ac2429c4e30d'

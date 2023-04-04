@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1b40183efb4dd766f11bda7a7c3ad8982e998421'
+    platform: ETH
 crypto: true
 fiat: false
 id: VSP
 id_coinmarketcap: '8492'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8492.png
 name: Vesper
-platform: ETH
-platform_contract: '0x1b40183efb4dd766f11bda7a7c3ad8982e998421'

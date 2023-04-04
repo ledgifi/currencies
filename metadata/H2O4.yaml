@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x026187BdbC6b751003517bcb30Ac7817D5B766f8'
+    platform: AVAX
 crypto: true
 fiat: false
 id: H2O4
 id_coinmarketcap: '15690'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15690.png
 name: Defrost Finance
-platform: AVAX
-platform_contract: '0x026187BdbC6b751003517bcb30Ac7817D5B766f8'

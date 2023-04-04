@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6fdda284250795dfbab53955da78de4b6f72c4f9'
+    platform: BNB
 crypto: true
 fiat: false
 id: BIG
 id_coinmarketcap: '18107'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18107.png
 name: Dark Land Survival
-platform: BNB
-platform_contract: '0x6fdda284250795dfbab53955da78de4b6f72c4f9'

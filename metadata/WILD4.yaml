@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x403d512AB96103562DCaFe4635545E8Ee2753f6e'
+    platform: ETH
 crypto: true
 fiat: false
 id: WILD4
 id_coinmarketcap: '10998'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10998.png
 name: Wild Credit
-platform: ETH
-platform_contract: '0x403d512AB96103562DCaFe4635545E8Ee2753f6e'

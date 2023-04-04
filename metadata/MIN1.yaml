@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5d64d850c8368008afb39224e92ad0dceff3cf38'
+    platform: ETH
 crypto: true
 fiat: false
 id: MIN1
 id_coinmarketcap: '3296'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3296.png
 name: MINDOL
-platform: ETH
-platform_contract: '0x5d64d850c8368008afb39224e92ad0dceff3cf38'

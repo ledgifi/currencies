@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2efcdd1383eae3af14d785dcc65d6b865b562312'
+    platform: BNB
 crypto: true
 fiat: false
 id: NFTC
 id_coinmarketcap: '9681'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9681.png
 name: NFTCircle
-platform: BNB
-platform_contract: '0x2efcdd1383eae3af14d785dcc65d6b865b562312'

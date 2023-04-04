@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x491e136ff7ff03e6ab097e54734697bb5802fc1c'
+    platform: ETH
 crypto: true
 fiat: false
 id: KTN
 id_coinmarketcap: '9110'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9110.png
 name: Kattana
-platform: ETH
-platform_contract: '0x491e136ff7ff03e6ab097e54734697bb5802fc1c'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x580631f5cf1052c14452990ef1b117375a1c123b'
+    platform: BNB
 crypto: true
 fiat: false
 id: HFI2
 id_coinmarketcap: '10355'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10355.png
 name: Holder Finance
-platform: BNB
-platform_contract: '0x580631f5cf1052c14452990ef1b117375a1c123b'

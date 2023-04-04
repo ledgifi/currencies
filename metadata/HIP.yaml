@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe6ffa2e574a8bbeb5243d2109b6b11d4a459f88b'
+    platform: BNB
 crypto: true
 fiat: false
 id: HIP
 id_coinmarketcap: '10297'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10297.png
 name: HIPPO TOKEN
-platform: BNB
-platform_contract: '0xe6ffa2e574a8bbeb5243d2109b6b11d4a459f88b'

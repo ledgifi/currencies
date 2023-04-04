@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x471ea49dd8e60e697f4cac262b5fafcc307506e4'
+    platform: ETH
 crypto: true
 fiat: false
 id: RMRK
@@ -7,5 +10,3 @@ id_nomics: RMRK
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RMRK.jpg
 logoKey: currencies/rmrk.jpg
 name: RMRK
-platform: ETH
-platform_contract: '0x471ea49dd8e60e697f4cac262b5fafcc307506e4'

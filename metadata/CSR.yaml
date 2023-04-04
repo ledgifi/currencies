@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x75ecb52e403c617679fbd3e77a50f9d10a842387'
+    platform: ETH
 crypto: true
 fiat: false
 id: CSR
 id_coinmarketcap: '20642'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20642.png
 name: CSR
-platform: ETH
-platform_contract: '0x75ecb52e403c617679fbd3e77a50f9d10a842387'

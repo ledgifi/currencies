@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x64a77277e37d44957fe5815d6ff442ab8b16cc29'
+    platform: ETH
 crypto: true
 fiat: false
 id: DAWGS
 id_coinmarketcap: '13872'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13872.png
 name: SpaceDawgs
-platform: ETH
-platform_contract: '0x64a77277e37d44957fe5815d6ff442ab8b16cc29'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x554c20b7c486beee439277b4540a434566dc4c02'
+    platform: ETH
 crypto: true
 fiat: false
 id: HST
 id_coinmarketcap: '2176'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2176.png
 name: Decision Token
-platform: ETH
-platform_contract: '0x554c20b7c486beee439277b4540a434566dc4c02'

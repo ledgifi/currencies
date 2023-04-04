@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xca5e32d44f1744001b5600dc2f5f5e0bbb6e9d3e'
+    platform: ETH
 crypto: true
 fiat: false
 id: RIV
 id_coinmarketcap: '20331'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20331.png
 name: Richverse
-platform: ETH
-platform_contract: '0xca5e32d44f1744001b5600dc2f5f5e0bbb6e9d3e'

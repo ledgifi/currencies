@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xd794DD1CAda4cf79C9EebaAb8327a1B0507ef7d4'
+    platform: ETH
 crypto: true
 fiat: false
 id: HYVE
@@ -7,5 +10,3 @@ id_nomics: HYVE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HYVE.jpg
 logoKey: currencies/hyve.jpg
 name: Hyve
-platform: ETH
-platform_contract: '0xd794DD1CAda4cf79C9EebaAb8327a1B0507ef7d4'

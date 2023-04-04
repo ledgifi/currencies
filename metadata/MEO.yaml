@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7dff85eeb321957a429fa220ec2664774240b766'
+    platform: BNB
 crypto: true
 fiat: false
 id: MEO
 id_coinmarketcap: '14148'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14148.png
 name: Meo.tools
-platform: BNB
-platform_contract: '0x7dff85eeb321957a429fa220ec2664774240b766'

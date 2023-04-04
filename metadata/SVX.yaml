@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc434b27736a6882d33094d34792999702860a13c'
+    platform: ETH
 crypto: true
 fiat: false
 id: SVX
 id_coinmarketcap: '9109'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9109.png
 name: Savix
-platform: ETH
-platform_contract: '0xc434b27736a6882d33094d34792999702860a13c'

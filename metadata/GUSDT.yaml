@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3242aebcdcf8de491004b1c98e6595e9827f6c17'
+    platform: ETH
 crypto: true
 fiat: false
 id: GUSDT
 id_coinmarketcap: '8118'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8118.png
 name: Global Utility Smart Digital Token
-platform: ETH
-platform_contract: '0x3242aebcdcf8de491004b1c98e6595e9827f6c17'

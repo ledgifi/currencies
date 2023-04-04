@@ -1,4 +1,7 @@
 color: '#31fafb'
+contracts:
+  - address: '0xb9F747162AB1E95d07361f9048BcDF6eDdA9eEA7'
+    platform: ETH
 crypto: true
 fiat: false
 id: ATLAS
@@ -7,5 +10,3 @@ id_nomics: ATLAS
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/atlas.svg
 logoKey: currencies/atlas.svg
 name: Star Atlas
-platform: ETH
-platform_contract: '0xb9F747162AB1E95d07361f9048BcDF6eDdA9eEA7'

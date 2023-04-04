@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8Ec6Df71D4d98c5aFf5214E4f680920FeDF32A43'
+    platform: BNB
 crypto: true
 fiat: false
 id: BNGT
 id_coinmarketcap: '18346'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18346.png
 name: Bunny Girl Universe
-platform: BNB
-platform_contract: '0x8Ec6Df71D4d98c5aFf5214E4f680920FeDF32A43'

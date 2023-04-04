@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9e1170c12fddd3b00fec42ddf4c942565d9be577'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPACE2
 id_coinmarketcap: '9928'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9928.png
 name: Space Token
-platform: BNB
-platform_contract: '0x9e1170c12fddd3b00fec42ddf4c942565d9be577'

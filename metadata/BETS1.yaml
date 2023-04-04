@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x749f031FDa3a4904b026f2275A697096492a129d'
+    platform: BNB
 crypto: true
 fiat: false
 id: BETS1
 id_coinmarketcap: '14232'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14232.png
 name: Betswamp
-platform: BNB
-platform_contract: '0x749f031FDa3a4904b026f2275A697096492a129d'

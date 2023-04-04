@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7ba953183fe5d8169924da516f1b3cac365add78'
+    platform: BNB
 crypto: true
 fiat: false
 id: STICKY
 id_coinmarketcap: '12134'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12134.png
 name: FlyPaper
-platform: BNB
-platform_contract: '0x7ba953183fe5d8169924da516f1b3cac365add78'

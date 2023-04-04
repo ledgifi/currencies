@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb0ed33f79d89541dfdcb04a8f04bc2c6be025ecc'
+    platform: ETH
 crypto: true
 fiat: false
 id: ZERO
 id_coinmarketcap: '24008'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24008.png
 name: Zero Liquid
-platform: ETH
-platform_contract: '0xb0ed33f79d89541dfdcb04a8f04bc2c6be025ecc'

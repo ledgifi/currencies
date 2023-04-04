@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x493d8CBd9533E57D4BEfb17cc2eC1dB76828261d'
+    platform: OKT
 crypto: true
 fiat: false
 id: AST3
 id_coinmarketcap: '11155'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11155.png
 name: AST.finance
-platform: OKT
-platform_contract: '0x493d8CBd9533E57D4BEfb17cc2eC1dB76828261d'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xf2da079867785018e6d823dd0ff332f05aafe485'
+    platform: BNB
 crypto: true
 fiat: false
 id: VEKTOR
 id_coinmarketcap: '18951'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18951.png
 name: VEKTOR
-platform: BNB
-platform_contract: '0xf2da079867785018e6d823dd0ff332f05aafe485'

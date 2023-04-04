@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x37c997b35c619c21323f3518b9357914e8b99525'
+    platform: ETH
 crypto: true
 fiat: false
 id: PILOT
 id_coinmarketcap: '11113'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11113.png
 name: Unipilot
-platform: ETH
-platform_contract: '0x37c997b35c619c21323f3518b9357914e8b99525'

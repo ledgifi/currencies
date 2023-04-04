@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5166d4ce79b9bf7df477da110c560ce3045aa889'
+    platform: ETH
 crypto: true
 fiat: false
 id: XDEF2
 id_coinmarketcap: '8226'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8226.png
 name: Xdef Finance
-platform: ETH
-platform_contract: '0x5166d4ce79b9bf7df477da110c560ce3045aa889'

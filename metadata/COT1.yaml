@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5cac718a3ae330d361e39244bf9e67ab17514ce8'
+    platform: ETH
 crypto: true
 fiat: false
 id: COT1
 id_coinmarketcap: '19621'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19621.png
 name: Cosplay Token
-platform: ETH
-platform_contract: '0x5cac718a3ae330d361e39244bf9e67ab17514ce8'

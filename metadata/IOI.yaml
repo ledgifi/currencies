@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8b3870df408ff4d7c3a26df852d41034eda11d81'
+    platform: ETH
 crypto: true
 fiat: false
 id: IOI
 id_coinmarketcap: '10295'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10295.png
 name: IOI Token
-platform: ETH
-platform_contract: '0x8b3870df408ff4d7c3a26df852d41034eda11d81'

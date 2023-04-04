@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe481f2311c774564d517d015e678c2736a25ddd3'
+    platform: ETH
 crypto: true
 fiat: false
 id: DEFO
 id_coinmarketcap: '7720'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7720.png
 name: DefHold
-platform: ETH
-platform_contract: '0xe481f2311c774564d517d015e678c2736a25ddd3'

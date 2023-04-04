@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x916c3169C0d31bEe7Cb15F14e9A94eB10603bc13'
+    platform: BNB
 crypto: true
 fiat: false
 id: LTE
 id_coinmarketcap: '20722'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20722.png
 name: Listen To Earn
-platform: BNB
-platform_contract: '0x916c3169C0d31bEe7Cb15F14e9A94eB10603bc13'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5f2172b64a33f423bc7f0c48c23f7d3008f7e4fe'
+    platform: BNB
 crypto: true
 fiat: false
 id: LIB
 id_coinmarketcap: '17504'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17504.png
 name: Librium Tech
-platform: BNB
-platform_contract: '0x5f2172b64a33f423bc7f0c48c23f7d3008f7e4fe'

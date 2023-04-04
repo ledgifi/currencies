@@ -1,4 +1,7 @@
 color: '#2c398f'
+contracts:
+  - address: '0x0abdace70d3790235af448c88547603b945604ea'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: DNT
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/dnt.svg
 logoKey: currencies/dnt.svg
 name: district0x
-platform: ETH
-platform_contract: '0x0abdace70d3790235af448c88547603b945604ea'

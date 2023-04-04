@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x28ce223853d123b52c74439b10b43366d73fd3b5'
+    platform: BNB
 crypto: true
 fiat: false
 id: FAME
 id_coinmarketcap: '19886'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19886.png
 name: Fame MMA
-platform: BNB
-platform_contract: '0x28ce223853d123b52c74439b10b43366d73fd3b5'

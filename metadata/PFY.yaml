@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x69083b64988933e8b4783e8302b9bbf90163280e'
+    platform: BNB
 crypto: true
 fiat: false
 id: PFY
 id_coinmarketcap: '12201'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12201.png
 name: Portify
-platform: BNB
-platform_contract: '0x69083b64988933e8b4783e8302b9bbf90163280e'

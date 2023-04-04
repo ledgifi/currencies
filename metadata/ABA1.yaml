@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7c2af3a86b4bf47e6ee63ad9bde7b3b0ba7f95da'
+    platform: ETH
 crypto: true
 fiat: false
 id: ABA1
 id_coinmarketcap: '6431'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6431.png
 name: EcoBall
-platform: ETH
-platform_contract: '0x7c2af3a86b4bf47e6ee63ad9bde7b3b0ba7f95da'

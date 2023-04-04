@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb348B87b23D5977E2948E6f36ca07E1EC94d7328'
+    platform: ARB
 crypto: true
 fiat: false
 id: FISH2
 id_coinmarketcap: '22852'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22852.png
 name: SwapFish
-platform: ARB
-platform_contract: '0xb348B87b23D5977E2948E6f36ca07E1EC94d7328'

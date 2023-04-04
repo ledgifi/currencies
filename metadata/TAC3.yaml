@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcFC9321e3aA3a15bbBC4C4390dA7407F3eC84145'
+    platform: BNB
 crypto: true
 fiat: false
 id: TAC3
 id_coinmarketcap: '15091'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15091.png
 name: Thaicoin
-platform: BNB
-platform_contract: '0xcFC9321e3aA3a15bbBC4C4390dA7407F3eC84145'

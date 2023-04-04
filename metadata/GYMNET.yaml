@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0012365F0a1E5F30a5046c680DCB21D07b15FcF7'
+    platform: BNB
 crypto: true
 fiat: false
 id: GYMNET
 id_coinmarketcap: '19154'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19154.png
 name: Gym Network
-platform: BNB
-platform_contract: '0x0012365F0a1E5F30a5046c680DCB21D07b15FcF7'

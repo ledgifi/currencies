@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6a3f4aC2E3f8b5A6C54c4F2fEd630b65adaD90af'
+    platform: BNB
 crypto: true
 fiat: false
 id: BSHARK
 id_coinmarketcap: '22433'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22433.png
 name: Baby Shark
-platform: BNB
-platform_contract: '0x6a3f4aC2E3f8b5A6C54c4F2fEd630b65adaD90af'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4a9d8b8fce0b6ec033932b13c4e24d24dc4113cd'
+    platform: ETH
 crypto: true
 fiat: false
 id: UDOG
 id_coinmarketcap: '14159'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14159.png
 name: United Doge Finance
-platform: ETH
-platform_contract: '0x4a9d8b8fce0b6ec033932b13c4e24d24dc4113cd'

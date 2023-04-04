@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x4b7d697635e6b9965d13e0655F538149dE425F4E'
+    platform: BNB
 crypto: true
 fiat: false
 id: DWT
 id_coinmarketcap: '18742'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18742.png
 name: DiveWallet Token
-platform: BNB
-platform_contract: '0x4b7d697635e6b9965d13e0655F538149dE425F4E'

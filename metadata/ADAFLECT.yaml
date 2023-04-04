@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd6ca9451bba47e26706a701ae05be45a712d4b1b'
+    platform: BNB
 crypto: true
 fiat: false
 id: ADAFLECT
 id_coinmarketcap: '11788'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11788.png
 name: ADAFlect
-platform: BNB
-platform_contract: '0xd6ca9451bba47e26706a701ae05be45a712d4b1b'

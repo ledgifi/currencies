@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x63D0eEa1D7C0d1e89d7e665708d7e8997C0a9eD6'
+    platform: ETH
 crypto: true
 fiat: false
 id: ENOL
 id_coinmarketcap: '7782'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7782.png
 name: Ethanol
-platform: ETH
-platform_contract: '0x63D0eEa1D7C0d1e89d7e665708d7e8997C0a9eD6'

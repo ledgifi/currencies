@@ -1,4 +1,7 @@
 color: '#04adef'
+contracts:
+  - address: '0x3845badAde8e6dFF049820680d1F14bD3903a5d0'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: SAND2
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/sand.svg
 logoKey: currencies/sand.svg
 name: The Sandbox
-platform: ETH
-platform_contract: '0x3845badAde8e6dFF049820680d1F14bD3903a5d0'

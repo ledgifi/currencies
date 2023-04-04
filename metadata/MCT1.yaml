@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x6876eba317272fe221c67405c5e8eb3b24535547'
+    platform: ETH
 crypto: true
 fiat: false
 id: MCT1
 id_coinmarketcap: '9700'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9700.png
 name: Microtuber
-platform: ETH
-platform_contract: '0x6876eba317272fe221c67405c5e8eb3b24535547'

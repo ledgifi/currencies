@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd8d40dcee0c2b486eebd1fedb3f507b011de7ff0'
+    platform: CRO
 crypto: true
 fiat: false
 id: 10SHARE
 id_coinmarketcap: '20857'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20857.png
 name: 10SHARE
-platform: CRO
-platform_contract: '0xd8d40dcee0c2b486eebd1fedb3f507b011de7ff0'

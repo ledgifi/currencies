@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe5097d9baeafb89f9bcb78c9290d545db5f9e9cb'
+    platform: ETH
 crypto: true
 fiat: false
 id: HBOT
 id_coinmarketcap: '16298'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16298.png
 name: Hummingbot
-platform: ETH
-platform_contract: '0xe5097d9baeafb89f9bcb78c9290d545db5f9e9cb'

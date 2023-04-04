@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc8d3dcb63c38607cb0c9d3f55e8ecce628a01c36'
+    platform: ETH
 crypto: true
 fiat: false
 id: MATRIX1
 id_coinmarketcap: '11888'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11888.png
 name: Matrix Labs
-platform: ETH
-platform_contract: '0xc8d3dcb63c38607cb0c9d3f55e8ecce628a01c36'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x7369d1865d92f027b8926dd1d897c20c3e2c8cc7'
+    platform: BNB
 crypto: true
 fiat: false
 id: AGD
 id_coinmarketcap: '9290'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9290.png
 name: AGRODIGITAL
-platform: BNB
-platform_contract: '0x7369d1865d92f027b8926dd1d897c20c3e2c8cc7'

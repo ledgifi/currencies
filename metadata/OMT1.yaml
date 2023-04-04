@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9036b7Ff80D87E4D4894d7765ef065Fb98282a4C'
+    platform: BNB
 crypto: true
 fiat: false
 id: OMT1
 id_coinmarketcap: '24146'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24146.png
 name: OXY META TOKEN
-platform: BNB
-platform_contract: '0x9036b7Ff80D87E4D4894d7765ef065Fb98282a4C'

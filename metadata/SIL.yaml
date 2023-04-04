@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x133Bb423d9248a336D2b3086b8F44A7DbFF3a13C'
+    platform: BNB
 crypto: true
 fiat: false
 id: SIL
 id_coinmarketcap: '10136'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10136.png
 name: SIL Finance
-platform: BNB
-platform_contract: '0x133Bb423d9248a336D2b3086b8F44A7DbFF3a13C'

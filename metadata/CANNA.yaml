@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xcbed7180e61f82aa9bbc1f59afaa7d57fab588ac'
+    platform: BNB
 crypto: true
 fiat: false
 id: CANNA
 id_coinmarketcap: '14183'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14183.png
 name: The CanCoin
-platform: BNB
-platform_contract: '0xcbed7180e61f82aa9bbc1f59afaa7d57fab588ac'

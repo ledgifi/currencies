@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd4cc9538bbd3eda848da2292c0e383835703f138'
+    platform: BNB
 crypto: true
 fiat: false
 id: MAT2
 id_coinmarketcap: '15603'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15603.png
 name: Monster Adventure Token
-platform: BNB
-platform_contract: '0xd4cc9538bbd3eda848da2292c0e383835703f138'

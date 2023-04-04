@@ -1,3 +1,6 @@
+contracts:
+  - address: '0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRAC
@@ -7,5 +10,3 @@ id_nomics: TRAC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/trac.svg
 logoKey: currencies/trac.svg
 name: OriginTrail
-platform: ETH
-platform_contract: '0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f'

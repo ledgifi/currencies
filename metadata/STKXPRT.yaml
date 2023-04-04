@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x45e007750Cc74B1D2b4DD7072230278d9602C499'
+    platform: ETH
 crypto: true
 fiat: false
 id: STKXPRT
 id_coinmarketcap: '12902'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12902.png
 name: Persistence Staked XPRT
-platform: ETH
-platform_contract: '0x45e007750Cc74B1D2b4DD7072230278d9602C499'

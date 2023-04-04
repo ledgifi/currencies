@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x80f3c51a3fbdc38194852ee239e729ccd2c0c40c'
+    platform: BNB
 crypto: true
 fiat: false
 id: OP2
 id_coinmarketcap: '18804'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18804.png
 name: onPlanet
-platform: BNB
-platform_contract: '0x80f3c51a3fbdc38194852ee239e729ccd2c0c40c'

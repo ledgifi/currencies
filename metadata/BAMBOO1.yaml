@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbFd4c66d5e790611b94dFF5832F8B5D6B4d4009C'
+    platform: BNB
 crypto: true
 fiat: false
 id: BAMBOO1
 id_coinmarketcap: '21676'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21676.png
 name: CrazyPanda
-platform: BNB
-platform_contract: '0xbFd4c66d5e790611b94dFF5832F8B5D6B4d4009C'

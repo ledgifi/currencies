@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0D1AfEcE252fF513C5D210AEAE88f6C7D37e6ab2'
+    platform: BNB
 crypto: true
 fiat: false
 id: EBYT
 id_coinmarketcap: '17926'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17926.png
 name: EarthByt
-platform: BNB
-platform_contract: '0x0D1AfEcE252fF513C5D210AEAE88f6C7D37e6ab2'

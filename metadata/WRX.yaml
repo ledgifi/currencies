@@ -1,3 +1,6 @@
+contracts:
+  - address: WRX-ED1
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false
@@ -9,5 +12,3 @@ id_nomics: WRX
 logo: https://bin.bnbstatic.com/images/20200203/2b2bec60-c9af-46a0-92b2-64c64ed936f2.png
 logoKey: currencies/wrx.png
 name: WazirX
-platform: BNB
-platform_contract: WRX-ED1

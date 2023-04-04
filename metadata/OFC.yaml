@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb3b975fc904e67858ecfee48a49d7269b3e0b949'
+    platform: ETH
 crypto: true
 fiat: false
 id: OFC
 id_coinmarketcap: '10794'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10794.png
 name: $OFC Coin
-platform: ETH
-platform_contract: '0xb3b975fc904e67858ecfee48a49d7269b3e0b949'

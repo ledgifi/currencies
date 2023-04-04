@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2e2DDe47952b9c7deFDE7424d00dD2341AD927Ca'
+    platform: MATIC
 crypto: true
 fiat: false
 id: CHUM
 id_coinmarketcap: '10360'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10360.png
 name: Chumhum
-platform: MATIC
-platform_contract: '0x2e2DDe47952b9c7deFDE7424d00dD2341AD927Ca'

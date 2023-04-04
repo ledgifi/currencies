@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe5f70fde8f1aead197d57eedb6f9b231240d38ca'
+    platform: BNB
 crypto: true
 fiat: false
 id: G9
 id_coinmarketcap: '15932'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15932.png
 name: GoldenDiamond9
-platform: BNB
-platform_contract: '0xe5f70fde8f1aead197d57eedb6f9b231240d38ca'

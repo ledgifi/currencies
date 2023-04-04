@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x361f3d81e9b249cfafa7a047d9225c10323f10bd'
+    platform: BNB
 crypto: true
 fiat: false
 id: MFM
 id_coinmarketcap: '11442'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11442.png
 name: MoonFarmer
-platform: BNB
-platform_contract: '0x361f3d81e9b249cfafa7a047d9225c10323f10bd'

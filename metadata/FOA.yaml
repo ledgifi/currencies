@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xAe7300B51A8cd43D5B74be0DD5047715B7017E3e'
+    platform: BNB
 crypto: true
 fiat: false
 id: FOA
 id_coinmarketcap: '16642'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16642.png
 name: Fragments of arker
-platform: BNB
-platform_contract: '0xAe7300B51A8cd43D5B74be0DD5047715B7017E3e'

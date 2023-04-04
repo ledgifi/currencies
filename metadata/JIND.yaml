@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5fEAD99998788AC1BCA768796483d899F1Aef4c4'
+    platform: BNB
 crypto: true
 fiat: false
 id: JIND
 id_coinmarketcap: '10127'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10127.png
 name: JINDO INU
-platform: BNB
-platform_contract: '0x5fEAD99998788AC1BCA768796483d899F1Aef4c4'

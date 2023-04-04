@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0f8794f66C7170c4f9163a8498371A747114f6C4'
+    platform: ETH
 crypto: true
 fiat: false
 id: FMA
 id_coinmarketcap: '5857'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5857.png
 name: FLAMA
-platform: ETH
-platform_contract: '0x0f8794f66C7170c4f9163a8498371A747114f6C4'

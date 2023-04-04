@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x9e10469Cd2cd93836e19484A9Ca1EF5aDDC43e0f'
+    platform: CHZ
 crypto: true
 fiat: false
 id: ARG
@@ -6,5 +9,3 @@ id_nomics: ARG2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARG2.jpg
 logoKey: currencies/arg.jpg
 name: Argentine Football Association Fan Token
-platform: CHZ
-platform_contract: '0x9e10469Cd2cd93836e19484A9Ca1EF5aDDC43e0f'

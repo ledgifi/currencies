@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xEFEa4829b1bc90658784f15116C2dFD0E0929B0d'
+    platform: BNB
 crypto: true
 fiat: false
 id: BabyDeFido
 id_coinmarketcap: '12857'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12857.png
 name: Baby DeFido
-platform: BNB
-platform_contract: '0xEFEa4829b1bc90658784f15116C2dFD0E0929B0d'

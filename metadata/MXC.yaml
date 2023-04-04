@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5ca381bbfb58f0092df149bd3d243b08b9a8386e'
+    platform: ETH
 crypto: true
 fiat: false
 id: MXC
 id_coinmarketcap: '3628'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3628.png
 name: MXC
-platform: ETH
-platform_contract: '0x5ca381bbfb58f0092df149bd3d243b08b9a8386e'

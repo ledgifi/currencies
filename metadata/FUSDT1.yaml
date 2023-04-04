@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xef11ab854b475bd0c5db37f6bffab443219d656d'
+    platform: BNB
 crypto: true
 fiat: false
 id: fUSDT1
 id_coinmarketcap: '18030'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18030.png
 name: FEG Wrapped USDT
-platform: BNB
-platform_contract: '0xef11ab854b475bd0c5db37f6bffab443219d656d'

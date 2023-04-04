@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x501262281b2ba043e2fbf14904980689cddb0c78'
+    platform: ETH
 crypto: true
 fiat: false
 id: MORE4
 id_coinmarketcap: '3206'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3206.png
 name: Mithril Ore
-platform: ETH
-platform_contract: '0x501262281b2ba043e2fbf14904980689cddb0c78'

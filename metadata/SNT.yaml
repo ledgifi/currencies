@@ -1,4 +1,7 @@
 color: '#5b6dee'
+contracts:
+  - address: '0x744d70fdbe2ba4cf95131626614a1763df805b9e'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -10,5 +13,3 @@ id_nomics: SNT
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/snt.svg
 logoKey: currencies/snt.svg
 name: Status
-platform: ETH
-platform_contract: '0x744d70fdbe2ba4cf95131626614a1763df805b9e'

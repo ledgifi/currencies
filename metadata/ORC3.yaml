@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x324af2d5353f2dd138e234b359d30d67c64b1b20'
+    platform: ETH
 crypto: true
 fiat: false
 id: ORC3
 id_coinmarketcap: '7103'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7103.png
 name: Oracle System
-platform: ETH
-platform_contract: '0x324af2d5353f2dd138e234b359d30d67c64b1b20'

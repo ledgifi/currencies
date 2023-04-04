@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3FC85101F58D1291b8d376d744b120bEc23cbddb'
+    platform: BNB
 crypto: true
 fiat: false
 id: VTOPIA
 id_coinmarketcap: '17828'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17828.png
 name: Vtopia
-platform: BNB
-platform_contract: '0x3FC85101F58D1291b8d376d744b120bEc23cbddb'

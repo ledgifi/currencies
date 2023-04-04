@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa701d17B70FefC79F9Fe40B4b37085d2D7f418E1'
+    platform: BNB
 crypto: true
 fiat: false
 id: LOCK3
 id_coinmarketcap: '15805'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15805.png
 name: Sherlock365
-platform: BNB
-platform_contract: '0xa701d17B70FefC79F9Fe40B4b37085d2D7f418E1'

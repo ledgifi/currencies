@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc851a9b5808c46ee93a360f1b33f7409eee5df9f'
+    platform: ETH
 crypto: true
 fiat: false
 id: NAUSICAA
 id_coinmarketcap: '13233'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13233.png
 name: Nausicaa-Inu
-platform: ETH
-platform_contract: '0xc851a9b5808c46ee93a360f1b33f7409eee5df9f'

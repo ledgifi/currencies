@@ -1,4 +1,7 @@
 color: '#00bdcd'
+contracts:
+  - address: '0x08389495D7456E1951ddF7c3a1314A4bfb646d8B'
+    platform: ETH
 crypto: true
 fiat: false
 id: CRPT
@@ -8,5 +11,3 @@ id_nomics: CRPT
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/crpt.svg
 logoKey: currencies/crpt.svg
 name: Crypterium
-platform: ETH
-platform_contract: '0x08389495D7456E1951ddF7c3a1314A4bfb646d8B'

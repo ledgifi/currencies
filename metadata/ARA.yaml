@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9ac5c63ddcb93612e316ab31dfc8192bc8961988'
+    platform: ETH
 crypto: true
 fiat: false
 id: ARA
 id_coinmarketcap: '11738'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11738.png
 name: Adora Token
-platform: ETH
-platform_contract: '0x9ac5c63ddcb93612e316ab31dfc8192bc8961988'

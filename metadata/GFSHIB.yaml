@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xca96dcc988ec155a30eb78f45fccb968e2ebf5fd'
+    platform: ETH
 crypto: true
 fiat: false
 id: GFSHIB
 id_coinmarketcap: '13470'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13470.png
 name: Ghostface Shiba
-platform: ETH
-platform_contract: '0xca96dcc988ec155a30eb78f45fccb968e2ebf5fd'

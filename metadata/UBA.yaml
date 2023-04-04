@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x817e2addceaa4907623666a7800b1553ca21192d'
+    platform: ETH
 crypto: true
 fiat: false
 id: UBA
 id_coinmarketcap: '9211'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9211.png
 name: Unbox.Art
-platform: ETH
-platform_contract: '0x817e2addceaa4907623666a7800b1553ca21192d'

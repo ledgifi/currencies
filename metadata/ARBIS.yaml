@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9f20de1fc9b161b34089cbeae888168b44b03461'
+    platform: ARB
 crypto: true
 fiat: false
 id: ARBIS
 id_coinmarketcap: '12964'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12964.png
 name: Arbis Finance
-platform: ARB
-platform_contract: '0x9f20de1fc9b161b34089cbeae888168b44b03461'

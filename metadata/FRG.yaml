@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x525e6f5ea64b6750c18b97ce535177f680f15211'
+    platform: BNB
 crypto: true
 fiat: false
 id: FRG
 id_coinmarketcap: '17166'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17166.png
 name: Freedom Gold
-platform: BNB
-platform_contract: '0x525e6f5ea64b6750c18b97ce535177f680f15211'

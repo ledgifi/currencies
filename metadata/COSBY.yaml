@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3877de5f6f091c3500553b9b61d654ec4190fba9'
+    platform: ETH
 crypto: true
 fiat: false
 id: COSBY
 id_coinmarketcap: '10760'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10760.png
 name: The Cosby Token
-platform: ETH
-platform_contract: '0x3877de5f6f091c3500553b9b61d654ec4190fba9'

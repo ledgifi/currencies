@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x33efbC79BbF863dB11b4A1BF6570FFB6Bf41d0d2'
+    platform: BNB
 crypto: true
 fiat: false
 id: ETHE
 id_coinmarketcap: '17331'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17331.png
 name: ETHEKing
-platform: BNB
-platform_contract: '0x33efbC79BbF863dB11b4A1BF6570FFB6Bf41d0d2'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5375fd52707ab7c8d1b088e07169fa74b0999732'
+    platform: ETH
 crypto: true
 fiat: false
 id: METAVICE
 id_coinmarketcap: '16814'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16814.png
 name: MetaVice
-platform: ETH
-platform_contract: '0x5375fd52707ab7c8d1b088e07169fa74b0999732'

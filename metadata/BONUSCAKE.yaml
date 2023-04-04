@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xb84ddc645c27d4dc4bfa325c946f9d89d3afcc7a'
+    platform: BNB
 crypto: true
 fiat: false
 id: BonusCake
 id_coinmarketcap: '11547'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11547.png
 name: Bonus Cake
-platform: BNB
-platform_contract: '0xb84ddc645c27d4dc4bfa325c946f9d89d3afcc7a'

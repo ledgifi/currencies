@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe78bff28d3c5195c752e734e95421bb4bd742f1d'
+    platform: ETH
 crypto: true
 fiat: false
 id: NINEFI
 id_coinmarketcap: '23706'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23706.png
 name: 9 Lives Network
-platform: ETH
-platform_contract: '0xe78bff28d3c5195c752e734e95421bb4bd742f1d'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x3d46454212c61ecb7b31248047fa033120b88668'
+    platform: ETH
 crypto: true
 fiat: false
 id: MVT
 id_coinmarketcap: '8861'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8861.png
 name: Movement DAO
-platform: ETH
-platform_contract: '0x3d46454212c61ecb7b31248047fa033120b88668'

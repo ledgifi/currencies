@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xfd914bbb4302d69b9a8c3c96023db6a02be62778'
+    platform: BNB
 crypto: true
 fiat: false
 id: KENU
 id_coinmarketcap: '10635'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10635.png
 name: Ken Inu
-platform: BNB
-platform_contract: '0xfd914bbb4302d69b9a8c3c96023db6a02be62778'

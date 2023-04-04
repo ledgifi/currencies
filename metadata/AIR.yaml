@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x27dce1ec4d3f72c3e457cc50354f1f975ddef488'
+    platform: ETH
 crypto: true
 fiat: false
 id: AIR
@@ -6,5 +9,3 @@ id_nomics: AIR
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/air.svg
 logoKey: currencies/air.svg
 name: AirToken
-platform: ETH
-platform_contract: '0x27dce1ec4d3f72c3e457cc50354f1f975ddef488'

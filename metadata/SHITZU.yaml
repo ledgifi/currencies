@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x68e401b61ea53889505cc1366710f733a60c2d41'
+    platform: AURORA
 crypto: true
 fiat: false
 id: SHITZU
 id_coinmarketcap: '19354'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19354.png
 name: Shitzu
-platform: AURORA
-platform_contract: '0x68e401b61ea53889505cc1366710f733a60c2d41'

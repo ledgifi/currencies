@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xe2e6d4be086c6938b53b22144855eef674281639'
+    platform: ETH
 crypto: true
 fiat: false
 id: LNK
 id_coinmarketcap: '1820'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1820.png
 name: Link Platform
-platform: ETH
-platform_contract: '0xe2e6d4be086c6938b53b22144855eef674281639'

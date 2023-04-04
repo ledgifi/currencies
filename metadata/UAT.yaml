@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x01c0987e88f778df6640787226bc96354e1a9766'
+    platform: ETH
 crypto: true
 fiat: false
 id: UAT
 id_coinmarketcap: '4262'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4262.png
 name: UltrAlpha
-platform: ETH
-platform_contract: '0x01c0987e88f778df6640787226bc96354e1a9766'

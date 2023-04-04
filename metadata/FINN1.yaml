@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd41ACc7aE33B5105e6c88CeAa4D0C317a60e5ac0'
+    platform: HT
 crypto: true
 fiat: false
 id: FINN1
 id_coinmarketcap: '15647'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15647.png
 name: Finn Exchange
-platform: HT
-platform_contract: '0xd41ACc7aE33B5105e6c88CeAa4D0C317a60e5ac0'

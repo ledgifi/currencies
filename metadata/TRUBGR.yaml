@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xc003F5193CABE3a6cbB56948dFeaAE2276a6AA5E'
+    platform: BNB
 crypto: true
 fiat: false
 id: TRUBGR
 id_coinmarketcap: '10902'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10902.png
 name: TruBadger
-platform: BNB
-platform_contract: '0xc003F5193CABE3a6cbB56948dFeaAE2276a6AA5E'

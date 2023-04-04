@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbb2889B9B27B91358dD7c12325263c83D4a6e0A6'
+    platform: BNB
 crypto: true
 fiat: false
 id: MDC3
 id_coinmarketcap: '22561'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22561.png
 name: MetaDancingCrew
-platform: BNB
-platform_contract: '0xbb2889B9B27B91358dD7c12325263c83D4a6e0A6'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x6d5cac36c1ae39f41d52393b7a425d0a610ad9f2'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
@@ -8,5 +11,3 @@ id_nomics: LLT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/llt.png
 logoKey: currencies/llt.png
 name: LLToken
-platform: ETH
-platform_contract: '0x6d5cac36c1ae39f41d52393b7a425d0a610ad9f2'

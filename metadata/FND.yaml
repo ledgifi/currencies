@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x264387ad73d19408e34b5d5e13a93174a35cea33'
+    platform: BNB
 crypto: true
 fiat: false
 id: FND
 id_coinmarketcap: '21261'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21261.png
 name: Rare FND
-platform: BNB
-platform_contract: '0x264387ad73d19408e34b5d5e13a93174a35cea33'

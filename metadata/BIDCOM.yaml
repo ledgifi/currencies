@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9986aa69545dC44B66fc85Ba505Fd66FEAE0d6A5'
+    platform: BNB
 crypto: true
 fiat: false
 id: BIDCOM
 id_coinmarketcap: '10321'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10321.png
 name: Bidcommerce
-platform: BNB
-platform_contract: '0x9986aa69545dC44B66fc85Ba505Fd66FEAE0d6A5'

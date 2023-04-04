@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xdebaa696f6ed65c9d26d51f2afb2f323f3c058e1'
+    platform: BNB
 crypto: true
 fiat: false
 id: CRYPTOGRAM
 id_coinmarketcap: '15473'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15473.png
 name: Cryptogram
-platform: BNB
-platform_contract: '0xdebaa696f6ed65c9d26d51f2afb2f323f3c058e1'

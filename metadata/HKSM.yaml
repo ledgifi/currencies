@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x958c129c3543c964c3d9fcb9dc7cf82b727aa68a'
+    platform: BNB
 crypto: true
 fiat: false
 id: HKSM
 id_coinmarketcap: '16190'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16190.png
 name: H-Space Metaverse
-platform: BNB
-platform_contract: '0x958c129c3543c964c3d9fcb9dc7cf82b727aa68a'

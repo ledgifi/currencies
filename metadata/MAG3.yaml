@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x1d60109178c48e4a937d8ab71699d8ebb6f7c5de'
+    platform: AVAX
 crypto: true
 fiat: false
 id: MAG3
 id_coinmarketcap: '16809'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16809.png
 name: Magnet
-platform: AVAX
-platform_contract: '0x1d60109178c48e4a937d8ab71699d8ebb6f7c5de'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xA492312FC998203AED367F54Db6f5d6f619010Ce'
+    platform: BNB
 crypto: true
 fiat: false
 id: BBC6
 id_coinmarketcap: '17409'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17409.png
 name: Bitback
-platform: BNB
-platform_contract: '0xA492312FC998203AED367F54Db6f5d6f619010Ce'

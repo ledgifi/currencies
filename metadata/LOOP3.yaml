@@ -1,8 +1,9 @@
+contracts:
+  - address: terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4
+    platform: LUNC
 crypto: true
 fiat: false
 id: LOOP3
 id_coinmarketcap: '12927'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12927.png
 name: Loop Finance
-platform: LUNC
-platform_contract: terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4

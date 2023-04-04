@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x314bd765cab4774b2e547eb0aa15013e03ff74d2'
+    platform: ETH
 crypto: true
 fiat: false
 id: PARTY
 id_coinmarketcap: '6556'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6556.png
 name: MONEY PARTY
-platform: ETH
-platform_contract: '0x314bd765cab4774b2e547eb0aa15013e03ff74d2'

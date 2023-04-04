@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x0020d80229877b495d2bf3269a4c13f6f1e1b9d3'
+    platform: ETH
 crypto: true
 fiat: false
 id: DEXM
 id_coinmarketcap: '8557'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8557.png
 name: DexMex
-platform: ETH
-platform_contract: '0x0020d80229877b495d2bf3269a4c13f6f1e1b9d3'

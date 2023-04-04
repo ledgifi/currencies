@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x69d2779533a4d2c780639713558b2cc98c46a9b7'
+    platform: ETH
 crypto: true
 fiat: false
 id: VNT
 id_coinmarketcap: '3988'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3988.png
 name: VNT Chain
-platform: ETH
-platform_contract: '0x69d2779533a4d2c780639713558b2cc98c46a9b7'

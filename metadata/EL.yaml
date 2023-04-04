@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2781246fe707bb15cee3e5ea354e2154a2877b16'
+    platform: ETH
 crypto: true
 fiat: false
 id: EL
 id_coinmarketcap: '5382'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5382.png
 name: ELYSIA
-platform: ETH
-platform_contract: '0x2781246fe707bb15cee3e5ea354e2154a2877b16'

@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x07bbbd89a1175aeb78050c1db1a9bebc336e7a83'
+    platform: BNB
 crypto: true
 fiat: false
 id: IMM
@@ -6,5 +9,3 @@ id_nomics: IMM
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/IMM.jpg
 logoKey: currencies/imm.jpg
 name: IMM GLOBAL
-platform: BNB
-platform_contract: '0x07bbbd89a1175aeb78050c1db1a9bebc336e7a83'

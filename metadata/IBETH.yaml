@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x67B66C99D3Eb37Fa76Aa3Ed1ff33E8e39F0b9c7A'
+    platform: ETH
 crypto: true
 fiat: false
 id: ibETH
 id_coinmarketcap: '7675'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7675.png
 name: Interest Bearing ETH
-platform: ETH
-platform_contract: '0x67B66C99D3Eb37Fa76Aa3Ed1ff33E8e39F0b9c7A'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8b6cda5cc518c904e8844f445e1a7c7d2db0ff16'
+    platform: ETH
 crypto: true
 fiat: false
 id: SFCP
 id_coinmarketcap: '3856'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3856.png
 name: SF Capital
-platform: ETH
-platform_contract: '0x8b6cda5cc518c904e8844f445e1a7c7d2db0ff16'

@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x31D457E7bcFf5Bc9A5Ef86E6a5eA1DB5b5C3BFB0'
+    platform: ETH
 crypto: true
 fiat: false
 id: FOXX
 id_coinmarketcap: '10387'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10387.png
 name: Star Foxx
-platform: ETH
-platform_contract: '0x31D457E7bcFf5Bc9A5Ef86E6a5eA1DB5b5C3BFB0'

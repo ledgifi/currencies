@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xca69c118fa550387794d48900a866891217e5c9f'
+    platform: BNB
 crypto: true
 fiat: false
 id: MOK
 id_coinmarketcap: '10819'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10819.png
 name: MocktailSwap
-platform: BNB
-platform_contract: '0xca69c118fa550387794d48900a866891217e5c9f'

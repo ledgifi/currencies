@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x147E3d644d53ADadD18a28201b91e2B98aEB7f94'
+    platform: ETH
 crypto: true
 fiat: false
 id: USE3
 id_coinmarketcap: '9611'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9611.png
 name: ElenaUSD
-platform: ETH
-platform_contract: '0x147E3d644d53ADadD18a28201b91e2B98aEB7f94'

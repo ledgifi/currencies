@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2a49de60cc6204c3afc3e770fdb30a0554147519'
+    platform: BNB
 crypto: true
 fiat: false
 id: LAIKA2
 id_coinmarketcap: '9776'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9776.png
 name: LaikaProtocol
-platform: BNB
-platform_contract: '0x2a49de60cc6204c3afc3e770fdb30a0554147519'

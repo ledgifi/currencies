@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x93065b5c7eb63333b8e57a73012d25f687895785'
+    platform: ETH
 crypto: true
 fiat: false
 id: CIPX
 id_coinmarketcap: '4708'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4708.png
 name: Colletrix
-platform: ETH
-platform_contract: '0x93065b5c7eb63333b8e57a73012d25f687895785'

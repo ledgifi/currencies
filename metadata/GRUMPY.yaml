@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x93b2fff814fcaeffb01406e80b4ecd89ca6a021b'
+    platform: ETH
 crypto: true
 fiat: false
 id: GRUMPY
 id_coinmarketcap: '8816'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8816.png
 name: Grumpy.finance
-platform: ETH
-platform_contract: '0x93b2fff814fcaeffb01406e80b4ecd89ca6a021b'

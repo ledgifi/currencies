@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x364fcd7325c035cc4f2cde8b6c8d7df5e7db6589'
+    platform: ETH
 crypto: true
 fiat: false
 id: META18
 id_coinmarketcap: '19292'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19292.png
 name: Metalk
-platform: ETH
-platform_contract: '0x364fcd7325c035cc4f2cde8b6c8d7df5e7db6589'

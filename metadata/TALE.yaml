@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9755ac467BEE2E7558B89988Df3dE4cA4f16b123'
+    platform: BNB
 crypto: true
 fiat: false
 id: TALE
 id_coinmarketcap: '16163'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16163.png
 name: Tales Of Chain
-platform: BNB
-platform_contract: '0x9755ac467BEE2E7558B89988Df3dE4cA4f16b123'

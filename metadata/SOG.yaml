@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xbf2a2828c7df44afe0ef2c14910e29b9878d9695'
+    platform: BNB
 crypto: true
 fiat: false
 id: SOG
 id_coinmarketcap: '21782'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21782.png
 name: Soccer Galaxy
-platform: BNB
-platform_contract: '0xbf2a2828c7df44afe0ef2c14910e29b9878d9695'

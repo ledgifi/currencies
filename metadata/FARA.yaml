@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xF4Ed363144981D3A65f42e7D0DC54FF9EEf559A1'
+    platform: BNB
 crypto: true
 fiat: false
 id: FARA
 id_coinmarketcap: '9530'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9530.png
 name: FaraLand
-platform: BNB
-platform_contract: '0xF4Ed363144981D3A65f42e7D0DC54FF9EEf559A1'

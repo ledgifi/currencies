@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x38a232cabb8a7f745c7d6e0a5bf300e3499aa8a6'
+    platform: MATIC
 crypto: true
 fiat: false
 id: PIVN
 id_coinmarketcap: '24134'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24134.png
 name: PIVN
-platform: MATIC
-platform_contract: '0x38a232cabb8a7f745c7d6e0a5bf300e3499aa8a6'

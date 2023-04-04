@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x2f657932e65905ea09c7aacfe898bf79e207c1c0'
+    platform: BNB
 crypto: true
 fiat: false
 id: ROBODOGE
 id_coinmarketcap: '11364'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11364.png
 name: RoboDoge Coin
-platform: BNB
-platform_contract: '0x2f657932e65905ea09c7aacfe898bf79e207c1c0'

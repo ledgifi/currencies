@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x071Df83177519fAEFB2A8b30e6a10383F83E9cbe'
+    platform: BNB
 crypto: true
 fiat: false
 id: HYPERRISE
 id_coinmarketcap: '13979'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13979.png
 name: BNB Hyper Rise
-platform: BNB
-platform_contract: '0x071Df83177519fAEFB2A8b30e6a10383F83E9cbe'

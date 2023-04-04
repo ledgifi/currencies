@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x9f3bcbe48e8b754f331dfc694a894e8e686ac31d'
+    platform: BNB
 crypto: true
 fiat: false
 id: ACT1
 id_coinmarketcap: '11706'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11706.png
 name: Acet
-platform: BNB
-platform_contract: '0x9f3bcbe48e8b754f331dfc694a894e8e686ac31d'

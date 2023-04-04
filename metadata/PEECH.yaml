@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x31d939dc09a6bb55642fcbf9d56166ebc0bdec9a'
+    platform: ETH
 crypto: true
 fiat: false
 id: PEECH
 id_coinmarketcap: '10356'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10356.png
 name: Peach.Finance
-platform: ETH
-platform_contract: '0x31d939dc09a6bb55642fcbf9d56166ebc0bdec9a'

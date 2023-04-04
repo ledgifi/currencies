@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xa54d2EBfD977ad836203c85F18db2F0a0cF88854'
+    platform: ETH
 crypto: true
 fiat: false
 id: BACON2
 id_coinmarketcap: '15410'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15410.png
 name: BaconCoin
-platform: ETH
-platform_contract: '0xa54d2EBfD977ad836203c85F18db2F0a0cF88854'

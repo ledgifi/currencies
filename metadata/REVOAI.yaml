@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x8793fb615eb92822f482f88b3137b00aad4c00d2'
+    platform: ETH
 crypto: true
 fiat: false
 id: REVOAI
 id_coinmarketcap: '23399'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23399.png
 name: revoAI
-platform: ETH
-platform_contract: '0x8793fb615eb92822f482f88b3137b00aad4c00d2'

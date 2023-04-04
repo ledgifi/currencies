@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x5517F1515DC48Fe10C0aF3730C6A64DfCF4dF6c6'
+    platform: BNB
 crypto: true
 fiat: false
 id: BSD2
 id_coinmarketcap: '14579'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14579.png
 name: Baby Shiba Dot
-platform: BNB
-platform_contract: '0x5517F1515DC48Fe10C0aF3730C6A64DfCF4dF6c6'

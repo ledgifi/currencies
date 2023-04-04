@@ -1,8 +1,9 @@
+contracts:
+  - address: '0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf'
+    platform: ETH
 crypto: true
 fiat: false
 id: SXDT
 id_coinmarketcap: '2381'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2381.png
 name: Spectre.ai Dividend Token
-platform: ETH
-platform_contract: '0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf'

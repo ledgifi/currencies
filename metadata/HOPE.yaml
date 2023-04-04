@@ -1,8 +1,9 @@
+contracts:
+  - address: '0xd78c475133731cd54dadcb430f7aae4f03c1e660'
+    platform: MATIC
 crypto: true
 fiat: false
 id: HOPE
 id_coinmarketcap: '12224'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12224.png
 name: Firebird Finance
-platform: MATIC
-platform_contract: '0xd78c475133731cd54dadcb430f7aae4f03c1e660'
