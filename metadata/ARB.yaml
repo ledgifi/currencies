@@ -3,4 +3,8 @@ decimals: 8
 fiat: false
 id: ARB
 id_binance: '1175'
+id_coinmarketcap: '11841'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11841.png
 name: Arbitrum
+platform: ARB
+platform_contract: '0x912ce59144191c1204e64559fe8253a0e49e6548'

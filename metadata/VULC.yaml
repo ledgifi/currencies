@@ -1,8 +1,11 @@
 crypto: true
 fiat: false
 id: VULC
+id_coinmarketcap: '19228'
 id_coinpaprika: vulc-vulcano
 id_nomics: VULC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VULC.png
 logoKey: currencies/vulc.png
 name: Vulcano
+platform: BNB
+platform_contract: '0x3810a078aa274ea6d06a480588eff8fe517220a4'

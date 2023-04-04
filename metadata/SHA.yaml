@@ -1,9 +1,11 @@
 crypto: true
 fiat: false
 id: SHA
+id_coinmarketcap: '3831'
 id_coinpaprika: sha-safe-haven
 id_nomics: SHA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHA.png
 logoKey: currencies/sha.png
 name: Safe Haven
 platform: VET
+platform_contract: '0x5db3c8a942333f6468176a870db36eef120a34dc'
