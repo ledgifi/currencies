@@ -7,5 +7,5 @@ id_nomics: PKN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PKN.jpg
 logoKey: currencies/pkn.jpg
 name: Poken
-platform: BNB
-platform_contract: '0x4b5decb9327b4d511a58137a1ade61434aacdd43'
+platform: ETH
+platform_contract: '0xdf09a216fac5adc3e640db418c0b956076509503'

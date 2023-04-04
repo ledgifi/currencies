@@ -6,5 +6,5 @@ id_nomics: STORE
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STORE.jpg
 logoKey: currencies/store.jpg
 name: Bit Store
-platform: ETH
-platform_contract: '0x9378db8054788bce01ae902a19a4f64a1bd4767f'
+platform: BNB
+platform_contract: '0x65d9033cff96782394dAB5dbEf17Fa771bbe1732'

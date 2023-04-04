@@ -9,5 +9,5 @@ id_nomics: KAVA
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KAVA.png
 logoKey: currencies/kava.png
 name: Kava
-platform: BNB
-platform_contract: KAVA-10C
+platform: ETH
+platform_contract: '0x0C356B7fD36a5357E5A017EF11887ba100C9AB76'

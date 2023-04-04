@@ -7,5 +7,5 @@ id_nomics: SOUL
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/soul.png
 logoKey: currencies/soul.png
 name: Phantasma
-platform: NEO
-platform_contract: ed07cffad18f1308db51920d99a2af60ac66a7b3
+platform: ETH
+platform_contract: '0x75858677e27C930FB622759FeafFeE2b754Af07F'

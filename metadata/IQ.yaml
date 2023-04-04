@@ -10,4 +10,5 @@ id_nomics: IQ
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/iq.svg
 logoKey: currencies/iq.svg
 name: Everipedia
-platform: EOS
+platform: ETH
+platform_contract: '0x579cea1889991f68acc35ff5c3dd0621ff29b0c9'

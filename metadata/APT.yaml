@@ -9,4 +9,4 @@ logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APT
 logoKey: currencies/apt.png
 name: Aptos
 platform: APT
-platform_contract: 0x1::aptos_coin::aptoscoin
+platform_contract: 0x1::aptos_coin::AptosCoin

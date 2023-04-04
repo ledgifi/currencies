@@ -7,5 +7,5 @@ id_nomics: STFI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STFI.jpg
 logoKey: currencies/stfi.jpg
 name: StartFi
-platform: ETH
-platform_contract: '0xfd9cd8c0d18cd7e06958f3055e0ec3adbdba0b17'
+platform: BNB
+platform_contract: '0x04ae5cb48b8f968ed821972c5480b5b850f55554'

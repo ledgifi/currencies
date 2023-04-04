@@ -6,5 +6,5 @@ id_nomics: NWC
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NWC.jpeg
 logoKey: currencies/nwc.jpeg
 name: Newscrypto
-platform: XLM
-platform_contract: NWC-GDZJD363YP7P3TNYDK3ZD6GLXFMAI3GLVIH7CGFLNZWIZBQUCVE6PTU7
+platform: ETH
+platform_contract: '0x968f6f898a6df937fc1859b323ac2f14643e3fed'
