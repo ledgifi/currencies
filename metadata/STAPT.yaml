@@ -1,0 +1,8 @@
+crypto: true
+fiat: false
+id: stAPT
+id_coinmarketcap: '22290'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22290.png
+name: Ditto Staked Aptos
+platform: APT
+platform_contract: 0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::staked_coin::StakedAptos
