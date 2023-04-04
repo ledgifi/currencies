@@ -3,9 +3,4 @@ decimals: 8
 fiat: false
 id: SYN
 id_binance: '1165'
-id_nomics: SYN
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SYN.jpg
-logoKey: currencies/syn.jpg
-name: SynLev
-platform: ETH
-platform_contract: '0x1695936d6a953df699c38ca21c2140d497c08bd9'
+name: Synapse

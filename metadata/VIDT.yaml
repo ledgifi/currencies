@@ -4,10 +4,6 @@ fiat: false
 id: VIDT
 id_binance: '502'
 id_coinmarketcap: '3845'
-id_coinpaprika: vidt-v-id
-id_nomics: VIDT
-logo: https://bin.bnbstatic.com/images/20201009/93977fa8-14a0-4105-9966-29616cb7f7aa.png
-logoKey: currencies/vidt.png
-name: VIDT Datalink
+name: VIDT DAO
 platform: ETH
-platform_contract: '0xfef4185594457050cc9c23980d301908fe057bb1'
+platform_contract: '0x3be7bf1a5f23bd8336787d0289b70602f1940875'
