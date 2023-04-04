@@ -1,10 +1,9 @@
-color: '#f49352'
 crypto: true
 fiat: false
 id: RISE
-id_coinmarketcap: '1294'
-id_coinpaprika: rise-rise
-id_nomics: RISE
-logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/rise.svg
-logoKey: currencies/rise.svg
-name: Rise
+id_coinmarketcap: '15257'
+id_nomics: RISE4
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15257.png
+name: EverRise
+platform: BNB
+platform_contract: '0x0cd022dde27169b20895e0e2b2b8a33b25e63579'

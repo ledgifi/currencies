@@ -1,10 +1,11 @@
 crypto: true
 fiat: false
 id: FOX
+id_coinmarketcap: '8200'
 id_coinpaprika: fox-fox-token
 id_nomics: FOX
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FOX.jpg
 logoKey: currencies/fox.jpg
-name: FOX Token
+name: Shapeshift FOX Token
 platform: ETH
 platform_contract: '0xc770eefad204b5180df6a14ee197d99d808ee52d'

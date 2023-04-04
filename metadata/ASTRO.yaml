@@ -1,9 +1,9 @@
 crypto: true
 fiat: false
-id: ASTRO5
+id: ASTRO
+id_coinmarketcap: '12120'
 id_nomics: ASTRO5
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ASTRO5.jpg
-logoKey: currencies/astro5.jpg
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12120.png
 name: AstroSwap
 platform: BNB
 platform_contract: '0x72eb7ca07399ec402c5b7aa6a65752b6a1dc0c27'

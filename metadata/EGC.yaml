@@ -1,10 +1,8 @@
 crypto: true
 fiat: false
-id: EGC2
+id: EGC
 id_coinmarketcap: '12448'
 id_nomics: EGC2
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EGC2.png
-logoKey: currencies/egc2.png
-name: EverGrowCoin
+name: EverGrow
 platform: BNB
 platform_contract: '0xc001bbe2b87079294c63ece98bdd0a88d761434e'

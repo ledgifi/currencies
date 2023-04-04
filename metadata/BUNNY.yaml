@@ -1,10 +1,10 @@
 crypto: true
 fiat: false
 id: BUNNY
-id_coinmarketcap: '3321'
-id_nomics: BUNNY
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUNNY.png
-logoKey: currencies/bunny.png
-name: BunnyToken
-platform: ETH
-platform_contract: '0x755eb14d2feff2939eb3026f5cad9d03775b9ff4'
+id_coinmarketcap: '7791'
+id_nomics: BUNNY2
+logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUNNY2.jpg
+logoKey: currencies/bunny2.jpg
+name: Pancake Bunny
+platform: BNB
+platform_contract: '0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51'

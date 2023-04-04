@@ -1,7 +1,9 @@
 crypto: true
 fiat: false
 id: TRACE
+id_coinmarketcap: '17724'
 id_nomics: TRACE
-name: Trace Network Token
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17724.png
+name: Trace Network Labs
 platform: BNB
 platform_contract: '0x58db461325f3981d543301c9097dba5fb9be7854'

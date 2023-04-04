@@ -6,3 +6,5 @@ id_nomics: MARS
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MARS.png
 logoKey: currencies/mars.png
 name: Marscoin
+platform: ETH
+platform_contract: '0x66c0dded8433c9ea86c8cf91237b14e10b4d70b7'

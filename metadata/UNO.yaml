@@ -1,9 +1,10 @@
 crypto: true
 fiat: false
 id: UNO
+id_coinmarketcap: '8875'
 id_nomics: UNO2
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/UNO2.jpg
 logoKey: currencies/uno.jpg
-name: Uno Reinsure
+name: Uno Re
 platform: ETH
 platform_contract: '0x474021845c4643113458ea4414bdb7fb74a01a77'

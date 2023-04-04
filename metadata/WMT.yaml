@@ -1,9 +1,10 @@
 crypto: true
 fiat: false
 id: WMT
+id_coinmarketcap: '13769'
 id_nomics: WMT
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WMT.jpg
 logoKey: currencies/wmt.jpg
-name: World Money Token
+name: World Mobile Token
 platform: BNB
 platform_contract: '0xcbfb6cc72779116fc7486a9d835047f75a15f0d4'

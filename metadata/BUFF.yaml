@@ -1,9 +1,8 @@
 crypto: true
 fiat: false
 id: BUFF
-id_nomics: BUFF
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BUFF.jpg
-logoKey: currencies/buff.jpg
-name: Buffalo Finance
-platform: ETH
-platform_contract: '0xad4727d70ed46710baa0b200412228ac5f81f30a'
+id_coinmarketcap: '12122'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12122.png
+name: BuffaloSwap
+platform: BNB
+platform_contract: '0x10a49f1fc8c604ea7f1c49bcc6ab2a8e58e77ea5'

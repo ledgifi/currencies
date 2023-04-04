@@ -1,10 +1,11 @@
 crypto: true
 fiat: false
 id: ORAI
+id_coinmarketcap: '7533'
 id_coinpaprika: orai-oraichain-token
 id_nomics: ORAI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORAI.jpg
 logoKey: currencies/orai.jpg
-name: Oraichain Token
+name: Oraichain
 platform: ETH
 platform_contract: '0x4c11249814f11b9346808179cf06e71ac328c1b5'
