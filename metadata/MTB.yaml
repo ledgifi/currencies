@@ -1,6 +1,8 @@
 contracts:
   - address: '0x36C618F869050106e1F64d777395baF7d56A9Ead'
     platform: BNB
+  - address: '0x5ee0fe440a4ca7f41bcf06b20c2a30a404e21069'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MTB

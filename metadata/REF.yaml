@@ -1,3 +1,6 @@
+contracts:
+  - address: token.v2.ref-finance.near
+    platform: NEAR
 crypto: true
 fiat: false
 id: REF

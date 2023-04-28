@@ -1,6 +1,14 @@
 contracts:
   - address: '0xC17c30e98541188614dF99239cABD40280810cA3'
+    platform: AVAX
+  - address: '0xC17c30e98541188614dF99239cABD40280810cA3'
+    platform: BNB
+  - address: '0xC17c30e98541188614dF99239cABD40280810cA3'
     platform: ETH
+  - address: '0xC17c30e98541188614dF99239cABD40280810cA3'
+    platform: FTM
+  - address: '0xC17c30e98541188614dF99239cABD40280810cA3'
+    platform: MATIC
 crypto: true
 fiat: false
 id: RISE

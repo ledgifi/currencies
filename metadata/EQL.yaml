@@ -1,6 +1,8 @@
 contracts:
   - address: EQL-586
     platform: BNB
+  - address: '0x5c7e71f46e49cf816f9863461eeb36e3bc8e3b51'
+    platform: BNB
 crypto: true
 fiat: false
 id: EQL

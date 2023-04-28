@@ -1,6 +1,8 @@
 contracts:
   - address: '0xAE788F80F2756A86aa2F410C651F2aF83639B95b'
     platform: ETH
+  - address: '0xA3c322Ad15218fBFAEd26bA7f616249f7705D945'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MV

@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x41065E3428188bA6Eb27FBDDE8526aE3Af8E3830'
+    platform: BNB
   - address: '0xa130e3a33a4d84b04c3918c4e5762223ae252f80'
     platform: ETH
+  - address: '0x84E2C67CBEfae6B5148fcA7d02B341B12ff4b5Bb'
+    platform: GNO
+  - address: '0xbA3CB8329D442E6F9Eb70fafe1E214251df3D275'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SWASH

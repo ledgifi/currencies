@@ -1,3 +1,20 @@
+contracts:
+  - address: '0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a'
+    platform: ARB
+  - address: '0x130966628846BFd36ff31a822705796e8cb8C18D'
+    platform: AVAX
+  - address: '0xfe19f0b51438fd612f6fd59c1dbb3ea319f433ba'
+    platform: BNB
+  - address: '0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3'
+    platform: ETH
+  - address: '0x82f0b8b456c1a451378467398982d4834b6829c1'
+    platform: FTM
+  - address: terra15a9dr3a2a2lj5fclrw35xxg9yuxg0d908wpf2y
+    platform: LUNC
+  - address: '0x0cae51e1032e8461f4806e26332c030e34de3adb'
+    platform: MOVR
+  - address: HRQke5DKdDo3jV7wnomyiM8AA3EzkVnxMDdo2FQ5XUe1
+    platform: SOL
 crypto: true
 fiat: false
 id: MIM1

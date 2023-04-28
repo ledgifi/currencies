@@ -1,6 +1,14 @@
 contracts:
+  - address: '0xe0Ce60AF0850bF54072635e66E79Df17082A1109'
+    platform: AVAX
+  - address: '0xf16e81dce15b08f326220742020379b855b87df9'
+    platform: BNB
   - address: '0xf16e81dce15b08f326220742020379b855b87df9'
     platform: ETH
+  - address: '0xf16e81dce15b08f326220742020379b855b87df9'
+    platform: FTM
+  - address: DiJut4U3CU8b3bRgwfyqtJMJ4wjzJHaX6hudamjH46Km
+    platform: SOL
 crypto: true
 fiat: false
 id: ICE1

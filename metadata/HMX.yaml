@@ -1,6 +1,8 @@
 contracts:
   - address: '0xb012be90957d70d9a070918027655f998c123a88'
     platform: ETH
+  - address: '0x002d4e9e03f192cc33b128319a049f353db98fbf4d98f717fd0b7f66a0462142'
+    platform: XOR
 crypto: true
 fiat: false
 id: HMX

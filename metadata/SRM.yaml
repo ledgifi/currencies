@@ -1,3 +1,12 @@
+contracts:
+  - address: '0xd63CDf02853D759831550fAe7dF8FFfE0B317b39'
+    platform: BNB
+  - address: '0x476c5e26a75bd202a9683ffd34359c0cc15be0ff'
+    platform: ETH
+  - address: terra1dkam9wd5yvaswv4yq3n2aqd4wm5j8n82qc0c7c
+    platform: LUNC
+  - address: SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

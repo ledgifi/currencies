@@ -1,6 +1,8 @@
 contracts:
   - address: '0xc3d088842dcf02c13699f936bb83dfbbc6f721ab'
     platform: ETH
+  - address: '0x3b25bc1dc591d24d60560d0135d6750a561d4764'
+    platform: MOVR
 crypto: true
 fiat: false
 id: vETH1

@@ -1,4 +1,9 @@
 color: '#a6e000'
+contracts:
+  - address: '0x16939ef78684453bfdfb47825f8a5f714f12623a'
+    platform: BNB
+  - address: Tez
+    platform: XTZ
 crypto: true
 decimals: 8
 fiat: false

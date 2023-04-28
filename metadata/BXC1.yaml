@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x1997c782a5F3d0398Ca3c0c75D55f092da51C388'
+    platform: BNB
+  - address: '0x16467F88F41Fe323324084BEd682E10f937eF10C'
+    platform: ETH
 crypto: true
 fiat: false
 id: BXC1

@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xe26ae3d881f3d5def58d795f611753804e7a6b26'
+    platform: ARB
+  - address: '0xc763f8570A48c4c00C80B76107cbE744dDa67b79'
+    platform: AVAX
   - address: '0x3e0a7c7db7bb21bda290a80c9811de6d47781671'
     platform: BNB
+  - address: '0x9246a5f10a79a5a939b0c2a75a3ad196aafdb43b'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BETS

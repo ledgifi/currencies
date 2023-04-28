@@ -1,3 +1,10 @@
+contracts:
+  - address: uosmo
+    platform: ATOM
+  - address: '0x93A62Ccfcf1EfCB5f60317981F71ed6Fb39F4BA2'
+    platform: ETH
+  - address: '0x8C7a56F2F2fD97DA0f5b4FAde180Fa8DC3fbEa8D'
+    platform: MATIC
 crypto: true
 decimals: 8
 fiat: false

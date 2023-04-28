@@ -1,6 +1,10 @@
 contracts:
   - address: '0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d'
     platform: ETH
+  - address: '0x0aCD91f92Fe07606ab51EA97d8521E29D110fD09'
+    platform: GNO
+  - address: nRtfwU9G82CSHhHGJNxFhtn7FLvWP2rqvQvje1WtL69
+    platform: SOL
 crypto: true
 fiat: false
 id: CEL

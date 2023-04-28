@@ -2,6 +2,8 @@ color: '#8834ff'
 contracts:
   - address: '0x6c6ee5e31d828de241282b9606c8e98ea48526e2'
     platform: ETH
+  - address: '0x346b2968508d32f0192cd7a60ef3d9c39a3cf549'
+    platform: GNO
 crypto: true
 decimals: 8
 fiat: false

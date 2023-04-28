@@ -1,6 +1,12 @@
 contracts:
   - address: '0xde5ed76e7c05ec5e4572cfc88d1acea165109e44'
+    platform: BNB
+  - address: '0xde5ed76e7c05ec5e4572cfc88d1acea165109e44'
     platform: ETH
+  - address: '0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44'
+    platform: FTM
+  - address: '0xde5ed76e7c05ec5e4572cfc88d1acea165109e44'
+    platform: MATIC
 crypto: true
 fiat: false
 id: DEUS

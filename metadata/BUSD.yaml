@@ -1,6 +1,28 @@
 contracts:
+  - address: '0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39'
+    platform: AVAX
   - address: BUSD-BD1
     platform: BNB
+  - address: '0xe9e7cea3dedca5984780bafc599bd69add087d56'
+    platform: BNB
+  - address: '0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b'
+    platform: BRISE
+  - address: '0x4Fabb145d64652a948d72533023f6E7A623C7C53'
+    platform: ETH
+  - address: '0x6a5F6A8121592BeCd6747a38d67451B310F7f156'
+    platform: FUSE
+  - address: '0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39'
+    platform: MATIC
+  - address: '0xe176ebe47d621b984a73036b9da5d834411ef734'
+    platform: ONE
+  - address: 33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX
+    platform: SOL
+  - address: '0x2039bb4116B4EFc145Ec4f0e2eA75012D6C0f181'
+    platform: TBD
+  - address: TMz2SWatiAtZVVcH2ebpsbVtYwUPT9EdjH
+    platform: TRX
+  - address: '0xc111c29a988ae0c0087d97b33c6e6766808a3bd3'
+    platform: VLX
 crypto: true
 decimals: 8
 fiat: false

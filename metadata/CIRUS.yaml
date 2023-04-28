@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x4c888e116d57a32f84865f3789dcb131fdc9fab6'
+    platform: BNB
   - address: '0xa01199c61841fce3b3dafb83fefc1899715c8756'
     platform: ETH
+  - address: '0x2a82437475a60bebd53e33997636fade77604fc2'
+    platform: MATIC
 crypto: true
 fiat: false
 id: CIRUS

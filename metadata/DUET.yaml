@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x95ee03e1e2c5c4877f9a298f1c0d6c98698fab7b'
+    platform: BNB
   - address: '0xE8521b61f64Fc45A0bC3db36D2A524fe61a69b52'
     platform: ETH
+  - address: '0xE8521b61f64Fc45A0bC3db36D2A524fe61a69b52'
+    platform: MATIC
 crypto: true
 fiat: false
 id: DUET

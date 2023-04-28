@@ -1,6 +1,8 @@
 contracts:
   - address: '0xe1747a23c44f445062078e3c528c9f4c28c50a51'
     platform: BNB
+  - address: '0xe1747a23C44f445062078e3C528c9F4c28C50a51'
+    platform: ETH
 crypto: true
 fiat: false
 id: EHX

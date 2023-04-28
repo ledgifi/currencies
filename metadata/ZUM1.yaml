@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x54c2c07b3af037567269ad6a168d5bd527867b58'
+    platform: BNB
   - address: '0xe0b9bcd54bf8a730ea5d3f1ffce0885e911a502c'
     platform: ETH
+  - address: '0x0191297c4Bf40B31031152c06FE804ba5af5fEc1'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ZUM1

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xfa1fbb8ef55a4855e5688c0ee13ac3f202486286'
     platform: FTM
+  - address: '0xfa1fbb8ef55a4855e5688c0ee13ac3f202486286'
+    platform: MOVR
 crypto: true
 fiat: false
 id: FHM

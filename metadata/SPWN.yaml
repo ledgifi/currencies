@@ -1,6 +1,8 @@
 contracts:
   - address: '0xe516D78d784C77D479977BE58905B3f2b1111126'
     platform: ETH
+  - address: 5U9QqCPhqXAJcEv9uyzFJd5zhN93vuPk1aNNkXnUfPnt
+    platform: SOL
 crypto: true
 fiat: false
 id: SPWN

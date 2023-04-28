@@ -1,6 +1,8 @@
 contracts:
   - address: '0xdde5b33a56f3f1c22e5a6bd8429e6ad508bff24e'
     platform: BNB
+  - address: '0x1f3f677ecc58f6a1f9e2cf410df4776a8546b5de'
+    platform: ETH
 crypto: true
 fiat: false
 id: VNDC

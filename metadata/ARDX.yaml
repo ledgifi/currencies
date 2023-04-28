@@ -1,6 +1,8 @@
 contracts:
   - address: '0xb8e2e2101ed11e9138803cd3e06e16dd19910647'
     platform: ETH
+  - address: 7zsKqN7Fg2s9VsqAq6XBoiShCVohpGshSUvoWBc6jKYh
+    platform: SOL
 crypto: true
 fiat: false
 id: ARDX

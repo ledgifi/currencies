@@ -1,4 +1,7 @@
 color: '#ff6600'
+contracts:
+  - address: secret19ungtd2c7srftqdwgq0dspwvrw63dhu79qxv88
+    platform: SCRT
 crypto: true
 decimals: 8
 fiat: false

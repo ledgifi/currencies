@@ -1,6 +1,8 @@
 contracts:
   - address: '0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e'
     platform: ETH
+  - address: '0x7FBc10850caE055B27039aF31bD258430e714c62'
+    platform: MATIC
 crypto: true
 fiat: false
 id: UBT

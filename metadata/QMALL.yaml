@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x07e551e31a793e20dc18494ff6b03095a8f8ee36'
+    platform: BNB
   - address: '0x2217e5921B7edfB4BB193a6228459974010D2198'
     platform: ETH
+  - address: '0x2217e5921B7edfB4BB193a6228459974010D2198'
+    platform: VLX
 crypto: true
 fiat: false
 id: QMALL

@@ -1,6 +1,12 @@
 contracts:
   - address: '0x41d5c3ed01b72ecb5c99d3b838553098ecda9ef9'
     platform: BNB
+  - address: '0x0A199B98fF450bBc883671382B21BDA3FA44b4Ae'
+    platform: ETH
+  - address: '0xEC0a873cdBE667E5bD68AF47932c948f872032d6'
+    platform: MATIC
+  - address: '0xEC0a873cdBE667E5bD68AF47932c948f872032d6'
+    platform: TLOS
 crypto: true
 fiat: false
 id: GAT3

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xdbdb4d16eda451d0503b854cf79d55697f90c8df'
     platform: ETH
+  - address: dbdb4d16eda451d0503b854cf79d55697f90c8df.factory.bridge.near
+    platform: NEAR
 crypto: true
 decimals: 8
 fiat: false

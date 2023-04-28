@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xD9907fcDa91aC644F70477B8fC1607ad15b2D7A8'
+    platform: BNB
+  - address: '0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844'
+    platform: CANTO
   - address: '0x66eFF5221ca926636224650Fd3B9c497FF828F7D'
     platform: ETH
+  - address: '0xf5b9b4A0534cf508ab9953c64c5310DFa0B303A1'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MULTIBTC

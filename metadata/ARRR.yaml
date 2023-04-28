@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xcdaf240c90f989847c56ac9dee754f76f41c5833'
+    platform: BNB
+  - address: '0x057acee6df29ecc20e87a77783838d90858c5e83'
+    platform: ETH
 crypto: true
 fiat: false
 id: ARRR

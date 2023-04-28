@@ -1,6 +1,8 @@
 contracts:
   - address: 1d7f33bd23d85e1a25d87d86fac4f199c3197a2f7afeb662a0f34e1e776f726c646d6f62696c65746f6b656e
     platform: ADA
+  - address: '0x4D5C63c07463EFa5bb26EE0A6D8C39dd0e3DaBD9'
+    platform: ADA
 crypto: true
 fiat: false
 id: WMT

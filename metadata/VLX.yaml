@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xe9c803f48dffe50180bd5b01dc04da939e3445fc'
+    platform: BNB
+  - address: '0x8c543aed163909142695f2d2acd0d55791a9edb9'
+    platform: ETH
 crypto: true
 fiat: false
 id: VLX

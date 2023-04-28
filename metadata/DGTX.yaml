@@ -1,4 +1,8 @@
 contracts:
+  - address: 0xaf7debf5db2b049194642f80905237d8044f23259c34a5b68cb3c03da742ea7b::DGTX::Dgtx
+    platform: APT
+  - address: '0x2EeaA9cbEc6DFc1Fa4fAF97991ACd8e74C5D55D7'
+    platform: BNB
   - address: '0xc666081073e8dff8d3d1c2292a29ae1a2153ec09'
     platform: ETH
 crypto: true

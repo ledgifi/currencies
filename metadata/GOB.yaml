@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xD5A56b510247DB33695b0bEa29992AC6670081ea'
+    platform: ARB
   - address: '0xd6929179D752d5D25c5efe2d9729eb77D7138A80'
     platform: ETH
+  - address: '0x16d63619cd67b15ff822bfeb60388a226d2e452b'
+    platform: MATIC
 crypto: true
 fiat: false
 id: GOB

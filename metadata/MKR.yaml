@@ -1,5 +1,9 @@
 color: '#1aab9b'
 contracts:
+  - address: '0x88128fd4b259552A9A1D457f435a6527AAb72d42'
+    platform: AVAX
+  - address: '0x5f0da599bb2cccfcf6fdfd7d81743b6020864350'
+    platform: BNB
   - address: '0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2'
     platform: ETH
 crypto: true

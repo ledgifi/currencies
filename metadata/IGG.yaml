@@ -1,6 +1,8 @@
 contracts:
   - address: '0x8ffe40a3d0f80c0ce6b203d5cdc1a6a86d9acaea'
     platform: ETH
+  - address: '0xe6FC6C7CB6d2c31b359A49A33eF08aB87F4dE7CE'
+    platform: MATIC
 crypto: true
 fiat: false
 id: IGG

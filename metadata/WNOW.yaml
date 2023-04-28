@@ -1,6 +1,12 @@
 contracts:
   - address: '0x56aa0237244c67b9a854b4efe8479cca0b105289'
     platform: BNB
+  - address: '0xa9cad0165c155f3998b0001b3ef30bca0aa6b591'
+    platform: FTM
+  - address: '0x81c9309d8598fb863bbd337d35dcb6036bcd51ae'
+    platform: HT
+  - address: '0x5d5530eb3147152fe78d5c4bfeede054c8d1442a'
+    platform: MATIC
 crypto: true
 fiat: false
 id: WNOW

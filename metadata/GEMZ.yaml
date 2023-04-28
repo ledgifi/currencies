@@ -1,6 +1,8 @@
 contracts:
   - address: '0xa1f0ac225de962e58a0ba3cc01c87a46cadf505f'
     platform: BNB
+  - address: zil1eg7dcyn8dxcgfshxmf9za2ljxju6kyq0vunszu
+    platform: ZIL
 crypto: true
 fiat: false
 id: GEMZ

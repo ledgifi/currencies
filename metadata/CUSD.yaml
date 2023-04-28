@@ -1,6 +1,8 @@
 contracts:
   - address: '0x765de816845861e75a25fca122bb6898b8b1282a'
     platform: CELO
+  - address: cusd.token.a11bd.near
+    platform: NEAR
 crypto: true
 fiat: false
 id: CUSD

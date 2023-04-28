@@ -1,6 +1,8 @@
 contracts:
   - address: '0x42414624c55a9cba80789f47c8f9828a7974e40f'
     platform: BNB
+  - address: '0x42414624c55a9cba80789f47c8f9828a7974e40f'
+    platform: ETH
 crypto: true
 fiat: false
 id: KAKI

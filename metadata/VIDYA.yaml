@@ -1,6 +1,8 @@
 contracts:
   - address: '0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30'
     platform: ETH
+  - address: '0xFe9CA7Cf13E33b23aF63Fea696f4AAe1b7A65585'
+    platform: MATIC
 crypto: true
 fiat: false
 id: VIDYA

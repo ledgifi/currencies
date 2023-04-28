@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x8d9ba570d6cb60c7e3e0f31343efe75ab8e65fb1'
+    platform: ARB
   - address: '0x0ab87046fBb341D058F17CBC4c1133F25a20a52f'
     platform: ETH
+  - address: terra1fpfn2kkr8mv390wx4dtpfk3vkjx9ch3thvykl3
+    platform: LUNC
+  - address: FUGsN8H74WjRBBMfQWcf9Kk32gebA9VnNaGxqwcVvUW7
+    platform: SOL
 crypto: true
 fiat: false
 id: GOHM

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x9617857e191354dbea0b714d78bc59e57c411087'
     platform: BNB
+  - address: '0x327673ae6b33bd3d90f0096870059994f30dc8af'
+    platform: ETH
 crypto: true
 fiat: false
 id: LMT

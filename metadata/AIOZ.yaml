@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x33d08D8C7a168333a85285a68C0042b39fC3741D'
+    platform: BNB
+  - address: '0x626E8036dEB333b408Be468F951bdB42433cBF18'
+    platform: ETH
 crypto: true
 fiat: false
 id: AIOZ

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x347e430b7cd1235e216be58ffa13394e5009e6e2'
     platform: BNB
+  - address: '0x723b17718289a91af252d616de2c77944962d122'
+    platform: MATIC
 crypto: true
 fiat: false
 id: GAIA

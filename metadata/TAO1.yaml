@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x3Cb1a1FaC70F13a6a63914F2e9Ad923Cdb5ECe3D'
+    platform: BNB
   - address: '0xda8b3F41D15cE21600616890F75A790DeaEAe6Cf'
     platform: ETH
+  - address: fusotao-token.near
+    platform: NEAR
 crypto: true
 fiat: false
 id: TAO1

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x910524678C0B1B23FFB9285a81f99C29C11CBaEd'
     platform: ETH
+  - address: '0x7cdc0421469398e0f3aa8890693d86c840ac8931'
+    platform: MATIC
 crypto: true
 fiat: false
 id: AZUKI

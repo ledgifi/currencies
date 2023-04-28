@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xd3b71117e6c1558c1553305b44988cd944e97300'
+    platform: BNB
   - address: '0x7815bDa662050D84718B988735218CFfd32f75ea'
     platform: ETH
+  - address: '0xd3b71117e6c1558c1553305b44988cd944e97300'
+    platform: FTM
+  - address: '0xd3b71117e6c1558c1553305b44988cd944e97300'
+    platform: MATIC
 crypto: true
 fiat: false
 id: YEL

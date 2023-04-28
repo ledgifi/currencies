@@ -1,6 +1,8 @@
 contracts:
   - address: '0x02cbe46fb8a1f579254a9b485788f2d86cad51aa'
     platform: KLAY
+  - address: '0x0ef39e52704ad52e2882bbfa6781167e1b6c4510'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BORA

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x799e1cf88a236e42b4a87c544a22a94ae95a6910'
     platform: BNB
+  - address: '0xD3c51de3E6DD9b53D7f37699AFB3EE3Bf9B9b3F4'
+    platform: ETH
 crypto: true
 fiat: false
 id: MCONTENT

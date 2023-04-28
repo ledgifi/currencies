@@ -1,6 +1,14 @@
 contracts:
+  - address: '0x715d400f88c167884bbcc41c5fea407ed4d2f8a0'
+    platform: BNB
   - address: '0xbb0e17ef65f82ab018d8edd776e8dd940327b28b'
     platform: ETH
+  - address: '0x14a7b318fed66ffdcc80c1517c172c13852865de'
+    platform: ONE
+  - address: '0x97a9107c1793bc407d6f527b77e7fff4d812bece'
+    platform: RON
+  - address: HysWcbHiYY9888pHbaqhwLYZQeZrcQMXKQWRqS7zcPK5
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

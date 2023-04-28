@@ -1,6 +1,16 @@
 contracts:
+  - address: '0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3'
+    platform: ARB
+  - address: '0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3'
+    platform: BNB
   - address: '0x65ef703f5594d2573eb71aaf55bc0cb548492df4'
     platform: ETH
+  - address: '0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3'
+    platform: FTM
+  - address: '0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3'
+    platform: MATIC
+  - address: '0x9fb9a33956351cf4fa040f65a13b835a3c8764e3'
+    platform: MOVR
 crypto: true
 decimals: 8
 fiat: false

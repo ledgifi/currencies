@@ -1,6 +1,30 @@
 contracts:
+  - address: '0xb355f4f4cc84a9429a59d5c2b98d77016f7ec482'
+    platform: AVAX
+  - address: '0x0cf8e180350253271f4b917ccfb0accc4862f262'
+    platform: BNB
+  - address: '0xE57425F1598f9b0d6219706b77f4b3DA573a3695'
+    platform: CRO
   - address: '0xE57425F1598f9b0d6219706b77f4b3DA573a3695'
     platform: ETH
+  - address: '0xb355f4f4cc84a9429a59d5c2b98d77016f7ec482'
+    platform: FTM
+  - address: '0xa899e4476FF5dA39Dcd9DDEC7a6e2C651d8614Bf'
+    platform: GNO
+  - address: '0xe57425f1598f9b0d6219706b77f4b3da573a3695'
+    platform: HSC
+  - address: '0xE57425F1598f9b0d6219706b77f4b3DA573a3695'
+    platform: HT
+  - address: '0xe57425f1598f9b0d6219706b77f4b3da573a3695'
+    platform: KCS
+  - address: '0xb355f4f4cc84a9429a59d5c2b98d77016f7ec482'
+    platform: MATIC
+  - address: '0xe57425f1598f9b0d6219706b77f4b3da573a3695'
+    platform: MOVR
+  - address: '0xB355f4F4CC84a9429a59d5c2B98d77016f7EC482'
+    platform: OKT
+  - address: '0xe57425f1598f9b0d6219706b77f4b3da573a3695'
+    platform: ONE
 crypto: true
 fiat: false
 id: BTCBR

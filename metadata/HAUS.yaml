@@ -1,6 +1,8 @@
 contracts:
   - address: '0xf2051511b9b121394fa75b8f7d4e7424337af687'
     platform: ETH
+  - address: '0xb0c5f3100a4d9d9532a4cfd68c55f1ae8da987eb'
+    platform: GNO
 crypto: true
 fiat: false
 id: HAUS

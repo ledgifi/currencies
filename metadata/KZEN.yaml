@@ -1,6 +1,12 @@
 contracts:
   - address: '0x4550003152F12014558e5CE025707E4DD841100F'
+    platform: BNB
+  - address: '0x4550003152F12014558e5CE025707E4DD841100F'
     platform: ETH
+  - address: '0x4550003152F12014558e5CE025707E4DD841100F'
+    platform: MATIC
+  - address: kZEn3aDxEzcFADPe2VQ6WcJRbS1hVGjUcgCw4HiuYSU
+    platform: SOL
 crypto: true
 fiat: false
 id: KZEN

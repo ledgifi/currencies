@@ -1,6 +1,8 @@
 contracts:
   - address: SPIN-9DD
     platform: BNB
+  - address: '0x4f22310c27ef39feaa4a756027896dc382f0b5e2'
+    platform: ETH
 crypto: true
 fiat: false
 id: SPIN2

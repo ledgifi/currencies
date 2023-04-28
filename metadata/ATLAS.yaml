@@ -1,7 +1,13 @@
 color: '#31fafb'
 contracts:
+  - address: '0x83850D97018f665EB746FBb8f18351e977d1b0D6'
+    platform: BNB
   - address: '0xb9F747162AB1E95d07361f9048BcDF6eDdA9eEA7'
     platform: ETH
+  - address: terra1rg8f993m9834afwazersesgx7jjxv4p87q9wvc
+    platform: LUNC
+  - address: ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx
+    platform: SOL
 crypto: true
 fiat: false
 id: ATLAS

@@ -1,6 +1,16 @@
 contracts:
+  - address: '0xd501281565bf7789224523144Fe5D98e8B28f267'
+    platform: AVAX
+  - address: '0x111111111117dc0aa78b770fa6a738034120c302'
+    platform: BNB
   - address: '0x111111111117dc0aa78b770fa6a738034120c302'
     platform: ETH
+  - address: '0x7f7440C5098462f833E123B44B8A03E1d9785BAb'
+    platform: GNO
+  - address: 111111111117dc0aa78b770fa6a738034120c302.factory.bridge.near
+    platform: NEAR
+  - address: AjkPkq3nsyDe1yKcbyZT7N4aK4Evv9om9tzhQD3wsRC
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

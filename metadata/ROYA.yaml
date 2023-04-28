@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x99415856b37be9e75c0153615c7954f9ddb97a6e'
+    platform: BNB
   - address: '0x7eaf9c89037e4814dc0d9952ac7f888c784548db'
     platform: ETH
+  - address: '0x0bD820aD2d7Ab7305b5C9538ba824C9b9bEb0561'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ROYA

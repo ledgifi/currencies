@@ -1,4 +1,13 @@
 color: '#32a4be'
+contracts:
+  - address: '0xfd7b3a77848f1c2d67e05e54d78d174a0c850335'
+    platform: BNB
+  - address: '0xcb46C550539ac3DB72dc7aF7c89B11c306C727c2'
+    platform: ETH
+  - address: '0xD4814770065F634003A8d8D70B4743E0C3f334ad'
+    platform: MATIC
+  - address: '0100000000000000000000000000000000000000'
+    platform: ONT
 crypto: true
 decimals: 8
 fiat: false

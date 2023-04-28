@@ -1,3 +1,10 @@
+contracts:
+  - address: IBC/52B1AA623B34EB78FD767CEA69E8D7FA6C9CFE1FBF49C5406268FD325E2CC2AC
+    platform: ATOM
+  - address: '0x175D9Dfd6850AA96460E29bC0cEad05756965E91'
+    platform: ETH
+  - address: '0x6ec60377b874782408EA493BeCCCce39347A911A'
+    platform: MATIC
 crypto: true
 fiat: false
 id: IOV

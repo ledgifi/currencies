@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xd7380b10bf3886b34ab3422dea42e408850375ca'
+    platform: BNB
+  - address: '0x5431390f6a98ae2baa92c3da0690272e1554a50e'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ACTN

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x65def5029a0e7591e46b38742bfedd1fb7b24436'
     platform: ETH
+  - address: '0x65def5029a0e7591e46b38742bfedd1fb7b24436'
+    platform: FTM
 crypto: true
 fiat: false
 id: KAE

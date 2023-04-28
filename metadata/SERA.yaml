@@ -1,6 +1,10 @@
 contracts:
   - address: '0x31640330cd2337e57c9591a2a183ac4e8a754e87'
+    platform: BNB
+  - address: '0x31640330cd2337e57c9591a2a183ac4e8a754e87'
     platform: ETH
+  - address: '0x31640330cd2337e57c9591a2a183ac4e8a754e87'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SERA

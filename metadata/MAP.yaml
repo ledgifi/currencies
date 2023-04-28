@@ -1,6 +1,12 @@
 contracts:
-  - address: '0x9e976f211daea0d652912ab99b0dc21a7fd728e4'
+  - address: '0x8105ece4ce08b6b6449539a5db23e23b973dfa8f'
+    platform: BNB
+  - address: '0x9E976F211daea0D652912AB99b0Dc21a7fD728e4'
     platform: ETH
+  - address: https://maposcan.io
+    platform: MAP
+  - address: https://polygonscan.com/address/0xBAbceE78586d3e9E80E0d69601A17f983663Ba6a
+    platform: MATIC
 crypto: true
 fiat: false
 id: MAP

@@ -1,3 +1,14 @@
+contracts:
+  - address: '0xf0e406c49c63abf358030a299c0e00118c4c6ba5'
+    platform: BNB
+  - address: '0x7b6f71c8b123b38aa8099e0098bec7fbc35b8a13'
+    platform: ETH
+  - address: '0xf0e406c49c63abf358030a299c0e00118c4c6ba5'
+    platform: HT
+  - address: '0x0fdb676775cc91042501c0c14ae5b2b5166b24d9'
+    platform: MATIC
+  - address: '0xd1351ec15e8511658c2ba1e1e81e1e60aa39c9cd'
+    platform: OKT
 crypto: true
 decimals: 8
 fiat: false

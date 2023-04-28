@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xc10358f062663448a3489fC258139944534592ac'
+    platform: BNB
   - address: '0x2BA8349123de45E931a8C8264c332E6e9CF593F9'
     platform: ETH
+  - address: '0xc10358f062663448a3489fC258139944534592ac'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BCMC

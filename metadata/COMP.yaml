@@ -1,7 +1,19 @@
 color: '#00d395'
 contracts:
+  - address: '0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437'
+    platform: AVAX
+  - address: '0x52ce071bd9b1c4b00a0b92d298c512478cad67e8'
+    platform: BNB
   - address: '0xc00e94cb662c3520282e6f5717214004a7f26888'
     platform: ETH
+  - address: '0xDf6FF92bfDC1e8bE45177DC1f4845d391D3ad8fD'
+    platform: GNO
+  - address: c00e94cb662c3520282e6f5717214004a7f26888.factory.bridge.near
+    platform: NEAR
+  - address: AwEauVaTMQRB71WeDnwf1DWSBxaMKjEPuxyLr1uixFom
+    platform: SOL
+  - address: '0x00dbd45af9f2ea406746f9025110297469e9d29efc60df8d88efb9b0179d6c2c'
+    platform: XOR
 crypto: true
 decimals: 8
 fiat: false

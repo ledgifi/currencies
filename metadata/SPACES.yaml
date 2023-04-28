@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x1D05Ec50dfE0A44a396B5c68B7c482E90563252D'
+    platform: ARB
+  - address: '0x156df0dd6300C73ac692D805720967cf4464776e'
+    platform: BNB
   - address: '0x29ced58cd96f523f86f2771d79d64a8f58f55f5e'
     platform: ETH
+  - address: '0x90242D0A1BC0aaCE16585848e3a032949539bbcc'
+    platform: POM
 crypto: true
 fiat: false
 id: SPACES

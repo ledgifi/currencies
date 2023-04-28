@@ -1,3 +1,12 @@
+contracts:
+  - address: '0x7D05D38e6109A3AeEEBf0a570eb8F6856cb4b55E'
+    platform: ARB
+  - address: '0x138218c8e064ED2A011c9ff203759A8A1E23e6C8'
+    platform: BNB
+  - address: '0xd652776dE7Ad802be5EC7beBfafdA37600222B48'
+    platform: CRO
+  - address: '0x772722B55cdC2A086aBd064267a17855Eb15e8b3'
+    platform: ETH
 crypto: true
 fiat: false
 id: MINTME

@@ -1,5 +1,7 @@
 color: '#ff4a4a'
 contracts:
+  - address: '0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339'
+    platform: AVAX
   - address: '0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828'
     platform: ETH
 crypto: true

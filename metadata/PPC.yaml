@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x044d078F1c86508e13328842Cc75AC021B272958'
+    platform: ETH
+  - address: '0x91E7E32C710661C44ae44D10Aa86135d91C3Ed65'
+    platform: MATIC
 crypto: true
 fiat: false
 id: PPC

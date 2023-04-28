@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xbb10c3ba37b4da01a70d6f3f456c5323a11a76fb'
+    platform: BNB
   - address: '0x1FbD3dF007eB8A7477A1Eab2c63483dCc24EfFD6'
     platform: ETH
+  - address: '0x11a819Beb0AA3327E39f52F90d65Cc9bCA499F33'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SCA

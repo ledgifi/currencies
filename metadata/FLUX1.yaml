@@ -1,6 +1,16 @@
 contracts:
+  - address: '0x2338a5d62E9A766289934e8d2e83a443e8065b83'
+    platform: ARB
+  - address: '0x0747CDA49C82d3fc6B06dF1822E1DE0c16673e9F'
+    platform: BNB
   - address: '0x7645DdfEecedA57e41f92679c4aCd83c56A81D14'
     platform: ETH
+  - address: '0xd10852DF03Ea8b8Af0CC0B09cAc3f7dbB15e0433'
+    platform: HT
+  - address: '0xd10852DF03Ea8b8Af0CC0B09cAc3f7dbB15e0433'
+    platform: MATIC
+  - address: '0xd0c6821aba4fcc65e8f1542589e64bae9de11228'
+    platform: OKT
 crypto: true
 fiat: false
 id: FLUX1

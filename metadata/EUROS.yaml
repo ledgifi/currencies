@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x1556e2d8ff76DFbC5946aE18260e78A6ed745FED'
+    platform: AVAX
+  - address: '0xE5bbB701302322acb3504d4A260eec8Dc4a36263'
+    platform: BNB
   - address: '0x37129b96896891e56bc099540fe7D1841005A367'
     platform: ETH
+  - address: '0x37129b96896891e56bc099540fe7D1841005A367'
+    platform: MATIC
 crypto: true
 fiat: false
 id: EUROS

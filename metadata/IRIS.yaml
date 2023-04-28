@@ -1,3 +1,10 @@
+contracts:
+  - address: IBC/7C4D60AA95E5A7558B0A364860979CA34B7FF8AAF255B87AF9E879374470CEC0
+    platform: ATOM
+  - address: '0x76C4A2B59523eaE19594c630aAb43288dBB1463f'
+    platform: ETH
+  - address: '0x3dc6052a693E4a2fc28Eb2Ea12fe0CfD3BD221D1'
+    platform: MATIC
 crypto: true
 decimals: 8
 fiat: false

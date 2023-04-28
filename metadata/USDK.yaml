@@ -1,6 +1,10 @@
 contracts:
   - address: '0x1c48f86ae57291f7686349f12601910bd8d470bb'
     platform: ETH
+  - address: '0xdcac52e001f5bd413aa6ea83956438f29098166b'
+    platform: OKT
+  - address: 43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F
+    platform: SOL
 crypto: true
 fiat: false
 id: USDK

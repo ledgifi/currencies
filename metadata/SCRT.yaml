@@ -1,3 +1,8 @@
+contracts:
+  - address: IBC/0954E1C28EB7AF5B72D24F3BC2B47BBB2FDF91BDDFD57B74B99E133AED40972A
+    platform: ATOM
+  - address: secret1k0jntykt7e4g3y88ltc60czgjuqdy4c9e8fzek
+    platform: SCRT
 crypto: true
 decimals: 8
 fiat: false

@@ -1,6 +1,12 @@
 contracts:
   - address: '0x1Da87b114f35E1DC91F72bF57fc07A768Ad40Bb0'
+    platform: BNB
+  - address: '0x1Da87b114f35E1DC91F72bF57fc07A768Ad40Bb0'
     platform: ETH
+  - address: '0xEAf631ac57F3CDDDd261770dD47F85066131a156'
+    platform: MATIC
+  - address: '0x81aB7E0D570b01411fcC4afd3D50eC8C241cb74b'
+    platform: OP
 crypto: true
 fiat: false
 id: EQZ

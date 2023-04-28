@@ -1,6 +1,8 @@
 contracts:
   - address: AERGO-46B
     platform: BNB
+  - address: '0x91af0fbb28aba7e31403cb457106ce79397fd4e6'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false

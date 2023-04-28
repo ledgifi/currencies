@@ -1,7 +1,15 @@
 color: '#31cb9e'
 contracts:
+  - address: '0xe4dddfe67e7164b0fe14e218d80dc4c08edc01cb'
+    platform: ARB
+  - address: '0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b'
+    platform: BNB
   - address: '0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202'
     platform: ETH
+  - address: '0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c'
+    platform: MATIC
+  - address: '0xa00E3A3511aAC35cA78530c85007AFCd31753819'
+    platform: OP
 crypto: true
 decimals: 8
 fiat: false

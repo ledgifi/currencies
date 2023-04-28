@@ -1,6 +1,12 @@
 contracts:
   - address: '0x644192291cc835a93d6330b24ea5f5fedd0eef9e'
+    platform: AVAX
+  - address: '0x644192291cc835a93d6330b24ea5f5fedd0eef9e'
+    platform: BNB
+  - address: '0x644192291cc835a93d6330b24ea5f5fedd0eef9e'
     platform: ETH
+  - address: '0x644192291cc835a93d6330b24ea5f5fedd0eef9e'
+    platform: MATIC
 crypto: true
 fiat: false
 id: NXRA

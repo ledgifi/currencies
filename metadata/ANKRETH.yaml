@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xe05a08226c49b636acf99c40da8dc6af83ce5bb3'
+    platform: BNB
   - address: '0xe95a203b1a91a908f9b9ce46459d101078c2c3cb'
     platform: ETH
+  - address: '0xc4e82ba0fe6763cbe5e9cbca0ba7cbd6f91c6018'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ankrETH

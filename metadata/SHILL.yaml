@@ -1,6 +1,8 @@
 contracts:
   - address: '0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE'
     platform: BNB
+  - address: 6cVgJUqo4nmvQpbgrDZwyfd6RwWw5bfnCamS3M9N1fd
+    platform: SOL
 crypto: true
 fiat: false
 id: SHILL

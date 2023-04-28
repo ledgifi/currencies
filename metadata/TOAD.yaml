@@ -1,6 +1,10 @@
 contracts:
   - address: '0x463e737d8f740395abf44f7aac2d9531d8d539e9'
     platform: BNB
+  - address: '0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA'
+    platform: GLMR
+  - address: '0x165dbb08de0476271714952c3c1f068693bd60d7'
+    platform: MOVR
 crypto: true
 fiat: false
 id: TOAD

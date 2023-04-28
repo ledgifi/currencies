@@ -2,6 +2,8 @@ color: '#00a79d'
 contracts:
   - address: '0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3'
     platform: BNB
+  - address: '0x16631e53c20fd2670027c6d53efe2642929b285c'
+    platform: ETH
 crypto: true
 fiat: false
 id: SAFEMOON

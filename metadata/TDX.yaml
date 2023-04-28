@@ -1,6 +1,10 @@
 contracts:
   - address: '0x317eb4ad9cfac6232f0046831322e895507bcbeb'
+    platform: BNB
+  - address: '0x317eb4ad9cfac6232f0046831322e895507bcbeb'
     platform: ETH
+  - address: '0x317eb4ad9cfac6232f0046831322e895507bcbeb'
+    platform: VLX
 crypto: true
 fiat: false
 id: TDX

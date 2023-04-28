@@ -1,6 +1,8 @@
 contracts:
   - address: '0xeEA509C221c5C6979e974f4501b4829be0Ab2f8c'
     platform: ETH
+  - address: '0x7f36c54da31b2dd355caffec0249f26da41e3fcd'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ENO

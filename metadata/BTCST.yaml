@@ -1,6 +1,8 @@
 contracts:
   - address: '0x78650b139471520656b9e7aa7a5e9276814a38e9'
     platform: BNB
+  - address: TFVge5Nb6or8cpdtdwPuXSGqLHpj3PM9Rp
+    platform: TRX
 crypto: true
 decimals: 8
 fiat: false

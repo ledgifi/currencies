@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xe25d77fedeeda321006bea62727cc3b67882b14e'
+    platform: BNB
+  - address: '0xd7d8f3b8bc8bc48d3acc37879eaba7b85889fa52'
+    platform: ETH
 crypto: true
 fiat: false
 id: CLH

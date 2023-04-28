@@ -1,6 +1,8 @@
 contracts:
   - address: '0xcf85cbf6e55022e59ebf543501cf76aee42d030c'
     platform: BNB
+  - address: '0x02f093513b7872cdfc518e51ed67f88f0e469592'
+    platform: OKT
 crypto: true
 fiat: false
 id: OKFLY

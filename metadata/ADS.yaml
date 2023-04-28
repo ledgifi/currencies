@@ -1,3 +1,10 @@
+contracts:
+  - address: '0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a'
+    platform: BNB
+  - address: '0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a'
+    platform: ETH
+  - address: '0x598e49f01befeb1753737934a5b11fea9119c796'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ADS

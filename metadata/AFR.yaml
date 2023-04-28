@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x0a5bc35f81c4e12a5aa6c09144d33f5da7b9ceec'
+    platform: BNB
   - address: '0x9BDe1b41187F62fFA812e7c3d00F5A22Df9a3a19'
     platform: ETH
+  - address: GBX6YI45VU7WNAAKA3RBFDR3I3UKNFHTJPQ5F6KOOKSGYIAM4TRQN54W
+    platform: XLM
 crypto: true
 fiat: false
 id: AFR

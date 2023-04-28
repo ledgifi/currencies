@@ -1,6 +1,10 @@
 contracts:
   - address: IBC/655BCEF3CDEBE32863FF281DBBE3B06160339E9897DC9C9C9821932A5F8BA6F8
     platform: ATOM
+  - address: '0xcf9902B43D01D7C6cd5c12e0c1112cc2C4FC4Ec5'
+    platform: ETH
+  - address: '0x4305fF9f3714C8bEFE7854D401c4C2e395662Db4'
+    platform: MATIC
 crypto: true
 fiat: false
 id: TICK1

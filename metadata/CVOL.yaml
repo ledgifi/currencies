@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x8096aD3107715747361acefE685943bFB427C722'
+    platform: ARB
   - address: '0x9cd552551ec130b50c1421649c8d11e76ac821e1'
     platform: MATIC
 crypto: true

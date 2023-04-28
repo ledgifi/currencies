@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xf78d2e7936f5fe18308a3b2951a93b6c4a41f5e2'
+    platform: BNB
   - address: '0x3593d125a4f7849a1b059e64f4517a86dd60c95d'
     platform: ETH
+  - address: '0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea'
+    platform: MATIC
 crypto: true
 decimals: 8
 fiat: false

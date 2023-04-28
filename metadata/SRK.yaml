@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xc3440c10c4f36f354eb591b19fafb4906d449b75'
+    platform: BNB
   - address: '0x0488401c3f535193fa8df029d9ffe615a06e74e6'
     platform: ETH
 crypto: true

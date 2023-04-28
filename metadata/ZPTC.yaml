@@ -1,6 +1,12 @@
 contracts:
   - address: '0x39ae6d231d831756079ec23589d2d37a739f2e89'
+    platform: BNB
+  - address: '0x39ae6d231d831756079ec23589d2d37a739f2e89'
     platform: ETH
+  - address: zptc.dapp
+    platform: TLOS
+  - address: GDD6UHM422V2BVHA2GBLLY72JNIYQ5CBCW3EXAFXYYX5VFKGCKHQTJ5U
+    platform: XLM
 crypto: true
 fiat: false
 id: ZPTC

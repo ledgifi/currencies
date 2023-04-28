@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x63eaEB6E33E11252B10553900a9F38A9ed172871'
+    platform: BNB
+  - address: '0x7714f320Adca62B149df2579361AfEC729c5FE6A'
+    platform: ETH
 crypto: true
 fiat: false
 id: TUP

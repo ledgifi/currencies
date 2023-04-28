@@ -1,6 +1,8 @@
 contracts:
   - address: '0x0fabcb70eeda798f9241f4bb11cceea7d93b157a'
     platform: BNB
+  - address: '0xD7d6ab522fA41caae78F6edeb46A14954aE0c772'
+    platform: ETH
 crypto: true
 fiat: false
 id: CHPZ

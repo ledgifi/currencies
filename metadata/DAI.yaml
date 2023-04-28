@@ -1,7 +1,53 @@
 color: '#f4b731'
 contracts:
+  - address: '0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1'
+    platform: ARB
+  - address: ibc/0CD3A0285E1341859B5E86B6AB7682F023D03E97607CCC1DC95706411D866DF7
+    platform: ATOM
+  - address: '0xe3520349f477a5f6eb06107066048508498a291b'
+    platform: AURORA
+  - address: '0xd586E7F844cEa2F87f50152665BCbc2C279D8d70'
+    platform: AVAX
+  - address: '0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3'
+    platform: BNB
+  - address: '0xf74195Bb8a5cf652411867c5C2C5b8C2a402be35'
+    platform: BOBA
+  - address: '0xfA9343C3897324496A05fC75abeD6bAC29f8A40f'
+    platform: BRISE
+  - address: '0xf2001b145b43032aaf5ee2884e456ccd805f677d'
+    platform: CRO
   - address: '0x6b175474e89094c44da98b954eedeac495271d0f'
     platform: ETH
+  - address: 0:eb2ccad2020d9af9cec137d3146dde067039965c13a27d97293c931dae22b2b9
+    platform: EVER
+  - address: '0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E'
+    platform: FTM
+  - address: '0x765277eebeca2e31912c9946eae1021199b39c61'
+    platform: GLMR
+  - address: '0x44fA8E6f47987339850636F88629646662444217'
+    platform: GNO
+  - address: '0x5c74070fdea071359b86082bd9f9b3deaafbe32b'
+    platform: KLAY
+  - address: terra1zmclyfepfmqvfqflu8r3lv6f75trmg05z7xq95
+    platform: LUNC
+  - address: '0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063'
+    platform: MATIC
+  - address: '0x4651b38e7ec14bb3db731369bfe5b08f2466bd0a'
+    platform: METIS
+  - address: '0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844'
+    platform: MOVR
+  - address: 6b175474e89094c44da98b954eedeac495271d0f.factory.bridge.near
+    platform: NEAR
+  - address: '0x0ee5893f434017d8881750101ea2f7c49c0eb503'
+    platform: NRG
+  - address: '0xef977d2f931c1978db5f6747666fa1eacb0d0339'
+    platform: ONE
+  - address: '0xda10009cbd5d07dd0cecc66161fc93d7c9000da1'
+    platform: OP
+  - address: EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o
+    platform: SOL
+  - address: '0x0200060000000000000000000000000000000000000000000000000000000000'
+    platform: XOR
 crypto: true
 decimals: 8
 fiat: false

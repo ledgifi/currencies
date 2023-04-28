@@ -1,3 +1,10 @@
+contracts:
+  - address: '0x1f926b439fae4595e5951029d47616feca401b77'
+    platform: AVAX
+  - address: '0x1f926b439fae4595e5951029d47616feca401b77'
+    platform: BNB
+  - address: '0x1f926b439fae4595e5951029d47616feca401b77'
+    platform: ETH
 crypto: true
 fiat: false
 id: OMC

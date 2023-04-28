@@ -1,6 +1,10 @@
 contracts:
   - address: '0x9f1F933C660a1DC856F0E0Fe058435879c5CCEf0'
     platform: AURORA
+  - address: '0x059a1F1deA1020297588C316fFc30A58a1a0D4A2'
+    platform: ETH
+  - address: 059a1f1dea1020297588c316ffc30a58a1a0d4a2.factory.bridge.near
+    platform: NEAR
 crypto: true
 fiat: false
 id: BSTN

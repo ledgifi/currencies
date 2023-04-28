@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x217e18cdfd331c6a8ee017141b5e206b937c2aeb'
+    platform: BNB
   - address: '0xc4407f7dc4b37275c9ce0f839652b393e13ff3d1'
     platform: KLAY
 crypto: true

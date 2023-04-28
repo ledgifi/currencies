@@ -1,4 +1,15 @@
 color: '#e84142'
+contracts:
+  - address: FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z
+    platform: AVAX
+  - address: '0x1ce0c2827e2ef14d5c4f29a091d735a204794041'
+    platform: BNB
+  - address: '0x4792c1ecb969b036eb51330c63bd27899a13d84e'
+    platform: GLMR
+  - address: '0xcd8fe44a29db9159db36f96570d7a4d91986f528'
+    platform: KLAY
+  - address: '0x6a5279e99ca7786fb13f827fc1fb4f61684933d6'
+    platform: TBD
 crypto: true
 decimals: 8
 fiat: false

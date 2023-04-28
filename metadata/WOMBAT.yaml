@@ -1,6 +1,12 @@
 contracts:
+  - address: wmbt.ptokens
+    platform: EOS
   - address: '0x0C9c7712C83B3C70e7c5E11100D33D9401BdF9dd'
     platform: ETH
+  - address: '0x0C9c7712C83B3C70e7c5E11100D33D9401BdF9dd'
+    platform: MATIC
+  - address: wombattokens
+    platform: WAXP
 crypto: true
 fiat: false
 id: WOMBAT

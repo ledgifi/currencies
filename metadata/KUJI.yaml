@@ -1,3 +1,8 @@
+contracts:
+  - address: ibc/BB6BCDB515050BAE97516111873CCD7BCF1FD0CCB723CC12F3C4F704D6C646CE
+    platform: ATOM
+  - address: '0x96543ef8d2C75C26387c1a319ae69c0BEE6f3fe7'
+    platform: ETH
 crypto: true
 fiat: false
 id: KUJI

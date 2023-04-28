@@ -1,6 +1,10 @@
 contracts:
   - address: '0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c'
     platform: ETH
+  - address: '0x9a495a281D959192343B0e007284bf130bd05F86'
+    platform: GNO
+  - address: EDVVEYW4fPJ6vKw5LZXRGUSPzxoHrv6eWvTqhCr8oShs
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

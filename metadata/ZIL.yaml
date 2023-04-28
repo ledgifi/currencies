@@ -1,4 +1,9 @@
 color: '#49c1bf'
+contracts:
+  - address: '0xb86abcb37c3a4b64f74f59301aff131a1becc787'
+    platform: BNB
+  - address: zil1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq9yf6pz
+    platform: ZIL
 crypto: true
 decimals: 8
 fiat: false

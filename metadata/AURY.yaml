@@ -2,6 +2,8 @@ color: '#e756cc'
 contracts:
   - address: '0xF5a367b7809e5683538C93Ce638B9258A0B88271'
     platform: BNB
+  - address: AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP
+    platform: SOL
 crypto: true
 fiat: false
 id: AURY

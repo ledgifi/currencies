@@ -1,6 +1,8 @@
 contracts:
   - address: '0x65b09ef8c5A096C5Fd3A80f1F7369E56eB932412'
     platform: GLMR
+  - address: '0xc2392dd3e3fed2c8ed9f7f0bdf6026fcd1348453'
+    platform: MOVR
 crypto: true
 fiat: false
 id: BEANS

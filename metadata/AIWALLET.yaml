@@ -1,6 +1,8 @@
 contracts:
   - address: '0x309d43cb7Bb1E07371eeE4947103AA019121a973'
     platform: BNB
+  - address: '0xc5a927ad2d1a92dc5f9662ce03f7140a8b738b19'
+    platform: ETH
 crypto: true
 fiat: false
 id: AIWALLET

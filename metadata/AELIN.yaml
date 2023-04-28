@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xa9C125BF4C8bB26f299c00969532B66732b1F758'
+    platform: ETH
   - address: '0x61baadcf22d2565b0f471b291c475db5555e0b76'
     platform: OP
 crypto: true

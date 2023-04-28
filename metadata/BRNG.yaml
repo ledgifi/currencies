@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x939D5A13cf0074586a2Dcf17bC692B2D3CCdD517'
+    platform: BNB
   - address: '0x3ecb96039340630c8b82e5a7732bc88b2aeade82'
     platform: ETH
+  - address: '0x3ecb96039340630c8b82e5a7732bc88b2aeade82'
+    platform: ONE
 crypto: true
 fiat: false
 id: BRNG

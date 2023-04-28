@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7de91b204c1c737bcee6f000aaa6569cf7061cb7'
     platform: ETH
+  - address: '0x0083d5cbb4b90163b6a003e8f771eb7c0e2b706892cd0cbadb03f55cb9e06919'
+    platform: XOR
 crypto: true
 fiat: false
 id: XRT

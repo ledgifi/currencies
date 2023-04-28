@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x270388e0ca29cfd7c7e73903d9d933a23d1bab39'
+    platform: BNB
   - address: '0x734c90044a0ba31b3f2e640c10dc5d3540499bfd'
     platform: ETH
+  - address: '0xF11de26883EB2EBF9877a01703DDC1eB619094E6'
+    platform: MATIC
 crypto: true
 fiat: false
 id: TSX

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x56aA298a19C93c6801FDde870fA63EF75Cc0aF72'
     platform: ETH
+  - address: terra1w7zgkcyt7y4zpct9dw8mw362ywvdlydnum2awa
+    platform: LUNC
 crypto: true
 fiat: false
 id: mBABA

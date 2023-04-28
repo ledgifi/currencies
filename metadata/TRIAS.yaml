@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xa4838122c683f732289805fc3c207febd55babdd'
+    platform: BNB
+  - address: '0x3A856d4effa670C54585a5D523e96513e148e95d'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRIAS

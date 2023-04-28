@@ -1,6 +1,10 @@
 contracts:
   - address: '0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a'
     platform: ETH
+  - address: '0x4EdF8E0778967012D46968ceadb75436d0426f88'
+    platform: GLMR
+  - address: '0xCb4a593ce512D78162C58384f0b2Fd6e802c2c47'
+    platform: MOVR
 crypto: true
 fiat: false
 id: BEPRO

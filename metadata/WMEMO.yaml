@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xecf2adaff1de8a512f6e8bfe67a2c836edb25da3'
+    platform: ARB
   - address: '0x0da67235dd5787d67955420c84ca1cecd4e5bb3b'
     platform: AVAX
+  - address: '0x3b79a28264fC52c7b4CEA90558AA0B162f7Faf57'
+    platform: ETH
+  - address: '0xddc0385169797937066bbd8ef409b5b3c0dfeb52'
+    platform: FTM
 crypto: true
 fiat: false
 id: WMEMO

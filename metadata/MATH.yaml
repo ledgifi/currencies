@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xf218184af829cf2b0019f8e6f0b2423498a36983'
+    platform: BNB
   - address: '0x08d967bb0134f2d07f7cfb6e246680c53927dd30'
     platform: ETH
+  - address: CaGa7pddFXS65Gznqwp42kBhkJQdceoFVT7AQYo8Jr8Q
+    platform: SOL
 crypto: true
 fiat: false
 id: MATH

@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xb5Be8D87FcE6Ce87a24b90AbDB019458A8eC31F9'
+    platform: BNB
   - address: '0xedadeb5faa413e6c8623461849dfd0b7c3790c32'
     platform: ETH
+  - address: '0x221743dc9E954bE4f86844649Bf19B43D6F8366d'
+    platform: MATIC
 crypto: true
 fiat: false
 id: OBOT

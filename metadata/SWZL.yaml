@@ -1,6 +1,8 @@
 contracts:
   - address: SWZL-E0C
     platform: BNB
+  - address: '0x946ea588417ffa565976efda354d82c01719a2ea'
+    platform: ETH
 crypto: true
 fiat: false
 id: SWZL

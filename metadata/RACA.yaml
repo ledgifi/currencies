@@ -1,6 +1,10 @@
 contracts:
   - address: '0x12BB890508c125661E03b09EC06E404bc9289040'
+    platform: BNB
+  - address: '0x12BB890508c125661E03b09EC06E404bc9289040'
     platform: ETH
+  - address: '0x12BB890508c125661E03b09EC06E404bc9289040'
+    platform: OKT
 crypto: true
 fiat: false
 id: RACA

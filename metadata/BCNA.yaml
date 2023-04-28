@@ -1,3 +1,10 @@
+contracts:
+  - address: IBC/D805F1DA50D31B96E4282C1D4181EDDFB1A44A598BFF5666F4B43E4B8BEA95A5
+    platform: ATOM
+  - address: '0xeB5Bea778339e5F0C8D9419cf9891445af823A29'
+    platform: ETH
+  - address: '0xbcAe3a93bFa5258fEDB78758d45E03e3C2bda3E8'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BCNA

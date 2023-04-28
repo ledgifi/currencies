@@ -1,6 +1,8 @@
 contracts:
   - address: '0x6f259637dcd74c767781e37bc6133cd6a68aa161'
     platform: ETH
+  - address: 6f259637dcd74c767781e37bc6133cd6a68aa161.factory.bridge.near
+    platform: NEAR
 crypto: true
 fiat: false
 id: HT

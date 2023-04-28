@@ -1,6 +1,8 @@
 contracts:
   - address: '0xBBa39Fd2935d5769116ce38d46a71bde9cf03099'
     platform: ETH
+  - address: 59McpTVgyGsSu5eQutvcKLFu7wrFe3ZkE2qdAi3HnvBn
+    platform: SOL
 crypto: true
 fiat: false
 id: CHO

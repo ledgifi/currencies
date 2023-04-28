@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E'
+    platform: AVAX
+  - address: '0xcd40f2670cf58720b694968698a5514e924f742d'
+    platform: BNB
   - address: '0xCd2828fc4D8E8a0eDe91bB38CF64B1a81De65Bf6'
     platform: ETH
+  - address: '0x4e830F67Ec499E69930867f9017AEb5B3f629c73'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ODDZ

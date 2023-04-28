@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xF6565A97Dc832d93DC83B75EE9aa5c7e8ecB0F9d'
+    platform: BNB
   - address: '0xd794DD1CAda4cf79C9EebaAb8327a1B0507ef7d4'
     platform: ETH
+  - address: '0x90b89e881961E1053AeaDdbA13217d56F747349a'
+    platform: FTM
+  - address: '0x61aee582896064ecd5d85d66a32ddeb5574a699d'
+    platform: MATIC
 crypto: true
 fiat: false
 id: HYVE

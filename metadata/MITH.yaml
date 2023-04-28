@@ -2,6 +2,8 @@ color: '#00316d'
 contracts:
   - address: MITH-C76
     platform: BNB
+  - address: '0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false

@@ -1,4 +1,6 @@
 contracts:
+  - address: IBC/4E5444C35610CC76FC94E7F7886B93121175C28262DDFDDE6F84E82BF2425452
+    platform: ATOM
   - address: '0x05079687d35b93538cbd59fe5596380cae9054a9'
     platform: ETH
 crypto: true

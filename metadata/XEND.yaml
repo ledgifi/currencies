@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x4a080377f83d669d7bb83b3184a8a5e61b500608'
+    platform: BNB
   - address: '0xE4CFE9eAa8Cdb0942A80B7bC68fD8Ab0F6D44903'
     platform: ETH
+  - address: '0xa649325aa7c5093d12d6f98eb4378deae68ce23f'
+    platform: HT
+  - address: '0x86775d0B80B3df266AF5377dB34Ba8f318d715ec'
+    platform: MATIC
 crypto: true
 fiat: false
 id: XEND

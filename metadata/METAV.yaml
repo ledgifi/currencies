@@ -1,6 +1,10 @@
 contracts:
   - address: '0x62858686119135cc00C4A3102b436a0eB314D402'
+    platform: BNB
+  - address: '0x62858686119135cc00C4A3102b436a0eB314D402'
     platform: ETH
+  - address: '0x62858686119135cc00C4A3102b436a0eB314D402'
+    platform: VLX
 crypto: true
 fiat: false
 id: METAV

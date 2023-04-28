@@ -1,6 +1,10 @@
 contracts:
   - address: '0xa14c04DEa16798Aa8F25b1Da583cd5fBBFd6579E'
+    platform: BNB
+  - address: '0xa14c04DEa16798Aa8F25b1Da583cd5fBBFd6579E'
     platform: ETH
+  - address: '0xa14c04dea16798aa8f25b1da583cd5fbbfd6579e'
+    platform: MATIC
 crypto: true
 fiat: false
 id: PMLG

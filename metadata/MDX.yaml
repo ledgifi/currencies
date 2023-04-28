@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x9c65ab58d8d978db963e63f2bfb7121627e3a739'
+    platform: BNB
   - address: '0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c'
     platform: HT
 crypto: true

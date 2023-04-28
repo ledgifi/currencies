@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xF8aCF86194443DCde55fc5B9e448e183c290D8Cb'
+    platform: BNB
+  - address: '0x95bf7e307bc1ab0ba38ae10fc27084bc36fcd605'
+    platform: ETH
 crypto: true
 fiat: false
 id: COLX

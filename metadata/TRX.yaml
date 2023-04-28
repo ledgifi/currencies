@@ -1,4 +1,9 @@
 color: '#ef0027'
+contracts:
+  - address: '0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3'
+    platform: BNB
+  - address: https://tronscan.org/#/token/0/transfers
+    platform: TRX
 crypto: true
 decimals: 8
 fiat: false

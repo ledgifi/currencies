@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x747d74db20cc422f39ab54edb2a3ce21f3c98af1'
+    platform: BNB
   - address: '0x849a226f327b89e3133d9930d927f9eb9346f8c9'
     platform: ETH
+  - address: '0x709d140925272ee606825781b1bef7be6b1412cd'
+    platform: MATIC
 crypto: true
 fiat: false
 id: CGU

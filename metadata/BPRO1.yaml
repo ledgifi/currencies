@@ -1,6 +1,8 @@
 contracts:
   - address: BPRO-5A6
     platform: BNB
+  - address: '0x197e6bca6bc2f488ec760a6ce46b1399cd2954b0'
+    platform: ETH
 crypto: true
 fiat: false
 id: BPRO1

@@ -1,6 +1,20 @@
 contracts:
+  - address: '0xad5f5edaa218b45866285252cb5662cd19cab99b'
+    platform: ARB
+  - address: '0xad5f5edaa218b45866285252cb5662cd19cab99b'
+    platform: AVAX
   - address: '0x6d3a160b86edcd46d8f9bba25c2f88cccade19fc'
     platform: BNB
+  - address: '0xad5f5edaa218b45866285252cb5662cd19cab99b'
+    platform: CRO
+  - address: '0xad5f5edaa218b45866285252cb5662cd19cab99b'
+    platform: ETH
+  - address: '0xad5f5edaa218b45866285252cb5662cd19cab99b'
+    platform: FTM
+  - address: '0xad5f5edaa218b45866285252cb5662cd19cab99b'
+    platform: MATIC
+  - address: '0xad5f5edaa218b45866285252cb5662cd19cab99b'
+    platform: ONE
 crypto: true
 fiat: false
 id: FWC

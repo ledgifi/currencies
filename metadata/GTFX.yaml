@@ -1,6 +1,16 @@
 contracts:
   - address: '0x306e974624511e3937f37e551c5736f1b2ad21eb'
+    platform: AURORA
+  - address: '0x306e974624511e3937f37e551c5736f1b2ad21eb'
+    platform: AVAX
+  - address: '0x306e974624511e3937f37e551c5736f1b2ad21eb'
     platform: BNB
+  - address: '0x306e974624511e3937f37e551c5736f1b2ad21eb'
+    platform: FTM
+  - address: '0x306e974624511e3937f37e551c5736f1b2ad21eb'
+    platform: MATIC
+  - address: '0x306e974624511e3937f37e551c5736f1b2ad21eb'
+    platform: METIS
 crypto: true
 fiat: false
 id: GTFX

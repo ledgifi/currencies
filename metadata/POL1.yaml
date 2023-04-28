@@ -1,6 +1,10 @@
 contracts:
   - address: '0x273a4fFcEb31B8473D51051Ad2a2EdbB7Ac8Ce02'
     platform: BNB
+  - address: '0xc17fbe1d709dDf6C0B6665Dd0591046815AC7554'
+    platform: ETH
+  - address: '0x97513e975a7fa9072c72c92d8000b0db90b163c5'
+    platform: HT
 crypto: true
 fiat: false
 id: POL1

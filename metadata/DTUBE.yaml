@@ -1,6 +1,8 @@
 contracts:
   - address: '0xd3cceb42b544e91eee02eb585cc9a7b47247bfde'
     platform: BNB
+  - address: '0xd2be3722B17b616c51ed9B8944A227D1ce579C24'
+    platform: ETH
 crypto: true
 fiat: false
 id: DTUBE

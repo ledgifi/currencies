@@ -1,6 +1,8 @@
 contracts:
   - address: '0x455f7ef6d8bcfc35f9337e85aee1b0600a59fabe'
     platform: ETH
+  - address: '0x60ac2e84078ce30cbc68e3d7b18bcf613271ce6b'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ALOHA

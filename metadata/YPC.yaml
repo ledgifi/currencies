@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x11203a00a9134Db8586381C4B2fca0816476b3FD'
+    platform: BRISE
   - address: '0xDC2393dc10734BF153153038943a5deB42b209cd'
     platform: CORE
 crypto: true

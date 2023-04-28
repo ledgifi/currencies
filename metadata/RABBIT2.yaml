@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7791d80425cb542937fa499afe835d26ee7284fb'
     platform: BNB
+  - address: '0x706f280cdb92260fe2d50eda545f834ff1fbfd35'
+    platform: ETH
 crypto: true
 fiat: false
 id: RABBIT2

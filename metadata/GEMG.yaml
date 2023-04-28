@@ -1,6 +1,8 @@
 contracts:
   - address: '0x885c5fb8f0e67b2b0cf3a437e6cc6ebc0f9f9014'
     platform: BNB
+  - address: '0x040F6B41d36F8c8e81f05ae156CD6605aBF60662'
+    platform: MATIC
 crypto: true
 fiat: false
 id: GEMG

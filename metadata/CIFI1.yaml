@@ -1,6 +1,8 @@
 contracts:
   - address: '0x89F2a5463eF4e4176E57EEf2b2fDD256Bf4bC2bD'
     platform: BNB
+  - address: '0x316772cfec9a3e976fde42c3ba21f5a13aaaff12'
+    platform: MATIC
 crypto: true
 fiat: false
 id: CIFI1

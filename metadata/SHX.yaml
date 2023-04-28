@@ -1,6 +1,8 @@
 contracts:
   - address: '0xee7527841a932d2912224e20a405e1a1ff747084'
     platform: ETH
+  - address: GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH
+    platform: XLM
 crypto: true
 fiat: false
 id: SHX

@@ -1,7 +1,11 @@
 color: '#6c45dc'
 contracts:
+  - address: '0x13b6A55662f6591f8B8408Af1C73B017E32eEdB8'
+    platform: BNB
   - address: '0x5245c0249e5eeb2a0838266800471fd32adb1089'
     platform: ETH
+  - address: 4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

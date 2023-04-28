@@ -1,6 +1,14 @@
 contracts:
+  - address: '0x6688b00f0c23a4a546beaae51a7c90c439895d48'
+    platform: ARB
+  - address: '0xa8cd6e4bf45724d3ac27f9e31e47ba4e399a7b52'
+    platform: BNB
   - address: '0x837d904a3799c0769079be9ecbaddf1abd4ccd6e'
     platform: ETH
+  - address: '0xc5e2b037d30a390e62180970b3aa4e91868764cd'
+    platform: FTM
+  - address: '0x375488f097176507e39b9653b88fdc52cde736bf'
+    platform: OP
 crypto: true
 decimals: 8
 fiat: false

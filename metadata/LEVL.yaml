@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x1cDEE2f21c066848A8A135E19F5f302CA29F1F69'
+    platform: BNB
   - address: '0x09970aec766b6f3223aca9111555e99dc50ff13a'
     platform: ETH
+  - address: '0xf8a363Cf116b6B633faEDF66848ED52895CE703b'
+    platform: FTM
 crypto: true
 fiat: false
 id: LEVL

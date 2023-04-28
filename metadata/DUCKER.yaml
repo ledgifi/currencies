@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x264c1383ea520f73dd837f915ef3a732e204a493'
+    platform: DOGE
   - address: '0xa52bffad02b1fe3f86a543a4e81962d3b3bb01a7'
     platform: ETH
 crypto: true

@@ -1,6 +1,42 @@
 contracts:
+  - address: '0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52'
+    platform: ADA
+  - address: '0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c'
+    platform: AURORA
+  - address: '0x442F7f22b1EE2c842bEAFf52880d4573E9201158'
+    platform: AVAX
   - address: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c'
     platform: BNB
+  - address: '0x94bd7a37d2ce24cc597e158facaa8d601083ffec'
+    platform: CFX
+  - address: '0xfa9343c3897324496a05fc75abed6bac29f8a40f'
+    platform: CRO
+  - address: '0x51B85F3889c7EA8f6d5EdEBFBadaDA0fDcE236c9'
+    platform: ELA
+  - address: '0x418D75f65a02b3D53B2418FB8E1fe493759c7605'
+    platform: ETH
+  - address: '0xc9baa8cfdde8e328787e29b4b078abf2dadc2055'
+    platform: GLMR
+  - address: '0xa787254704339474A827bd1ee4772c455e3aE7F2'
+    platform: HSC
+  - address: '0x97e6c48867fdc391a8dfe9d169ecd005d1d90283'
+    platform: IOTX
+  - address: '0xd7d045bfba6ea93b480f409db3dd1729337c1d13'
+    platform: KAI
+  - address: terra1cetg5wruw2wsdjp7j46rj44xdel00z006e9yg8
+    platform: LUNC
+  - address: '0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d'
+    platform: MATIC
+  - address: '0x6D9659bdF5b1A1dA217f7BbAf7dBAF8190E2e71B'
+    platform: RBTC
+  - address: 9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa
+    platform: SOL
+  - address: '0x7400793aad94c8ca801aa036357d10f5fd0ce08f'
+    platform: TBD
+  - address: '0x2c78f1b70ccf63cdee49f9233e9faa99d43aa07e'
+    platform: TLOS
+  - address: '0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4'
+    platform: WEMIX
 crypto: true
 decimals: 8
 fiat: false

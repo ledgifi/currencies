@@ -1,6 +1,18 @@
 contracts:
+  - address: '0x7BEB05cf5681f402E762F8569c2Fc138a2172978'
+    platform: AVAX
+  - address: '0xe4e8e6878718bfe533702d4a6571eb74d79b0915'
+    platform: BNB
   - address: '0xa5ef74068d04ba0809b7379dd76af5ce34ab7c57'
     platform: ETH
+  - address: '0x4B6f0494b08D6F387B392cb9f56539b238de3367'
+    platform: FTM
+  - address: '0xc4bb7277a74678f053259cb1f96140347efbfd46'
+    platform: MATIC
+  - address: '0x65e66a61d0a8f1e686c2d6083ad611a10d84d97a'
+    platform: ONE
+  - address: 3mZMtzsr11srDX7jdpkacsxAo1Na5H4kqepxehjhTkLE
+    platform: SOL
 crypto: true
 fiat: false
 id: LUCHOW

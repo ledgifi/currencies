@@ -1,4 +1,8 @@
 contracts:
+  - address: '0xfcDe4A87b8b6FA58326BB462882f1778158B02F1'
+    platform: AVAX
+  - address: '0xa02120696c7B8fE16C09C749E4598819b2B0E915'
+    platform: ETH
   - address: GASBLVHS5FOABSDNW5SPPH3QRJYXY5JHA2AOA2QHH2FJLZBRXSG4SWXT
     platform: XLM
 crypto: true

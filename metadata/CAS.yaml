@@ -1,6 +1,10 @@
 contracts:
   - address: '0x780207b8c0fdc32cf60e957415bfa1f2d4d9718c'
     platform: BNB
+  - address: CAS-167
+    platform: BNB
+  - address: '0xEC4fe610B4107C95b56dECC885089c06f85a63cb'
+    platform: MATIC
 crypto: true
 fiat: false
 id: CAS

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xc0f9bd5fa5698b6505f643900ffa515ea5df54a9'
     platform: ETH
+  - address: '0x524B969793a64a602342d89BC2789D43a016B13A'
+    platform: GNO
 crypto: true
 fiat: false
 id: DONUT

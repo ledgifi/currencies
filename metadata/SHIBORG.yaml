@@ -1,6 +1,8 @@
 contracts:
   - address: '0x389c13d5be24bed2af35c30f211e042225cb06ff'
     platform: BNB
+  - address: '0x619Ad981c63638CcDBad2E48e0Fb97c4Eba36D3c'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHIBORG

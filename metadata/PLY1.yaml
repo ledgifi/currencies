@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x5f39dd1bb6db20f3e792c4489f514794cac6392c'
+    platform: BNB
   - address: terra13awdgcx40tz5uygkgm79dytez3x87rpg4uhnvu
     platform: LUNC
 crypto: true

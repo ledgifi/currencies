@@ -1,3 +1,10 @@
+contracts:
+  - address: 0x67b9ca6566a1665568ec65057faec6d4fcb9e8e48e11ee62205f25c7d5f3d1f4::CNNC::Cnnc
+    platform: APT
+  - address: '0xed376501f61046a3f43dac6d5ab51a700dda46fc'
+    platform: BNB
+  - address: '0xEd376501F61046A3f43Dac6d5Ab51A700dda46fc'
+    platform: ETH
 crypto: true
 fiat: false
 id: CNNC

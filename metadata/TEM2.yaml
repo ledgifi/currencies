@@ -1,6 +1,10 @@
 contracts:
   - address: '0x19e6BfC1A6e4B042Fb20531244D47E252445df01'
     platform: BNB
+  - address: '0xd86e3f7b2ff4e803f90c799d702955003bca9875'
+    platform: MOVR
+  - address: '0xd754ae7bb55feb0c4ba6bc037b4a140f14ebe018'
+    platform: ONE
 crypto: true
 fiat: false
 id: TEM2

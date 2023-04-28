@@ -1,4 +1,11 @@
 color: '#bfbbbb'
+contracts:
+  - address: '0x4338665cbb7b2485a8855a139b75d5e34ab0db94'
+    platform: BNB
+  - address: '0x13e93721dc992b3e14333dbdb48c0e7ec55431c3'
+    platform: HSC
+  - address: '0xecb56cf772b5c9a6907fb7d32387da2fcbfb63b4'
+    platform: HT
 crypto: true
 decimals: 8
 fiat: false

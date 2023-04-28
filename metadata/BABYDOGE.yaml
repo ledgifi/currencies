@@ -1,8 +1,8 @@
 contracts:
-  - address: '0xAC57De9C1A09FeC648E93EB98875B212DB0d460B'
-    platform: ETH
   - address: '0xc748673057861a797275cd8a068abb95a902e8de'
     platform: BNB
+  - address: '0xAC57De9C1A09FeC648E93EB98875B212DB0d460B'
+    platform: ETH
 crypto: true
 fiat: false
 id: BABYDOGE

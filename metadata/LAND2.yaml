@@ -1,6 +1,8 @@
 contracts:
   - address: '0x9131066022B909C65eDD1aaf7fF213dACF4E86d0'
     platform: BNB
+  - address: '0xfd6bac78fD768Ca9494F08233cCBdFE8996819E6'
+    platform: MATIC
 crypto: true
 fiat: false
 id: LAND2

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x308bfaeAaC8BDab6e9Fc5Ead8EdCb5f95b0599d9'
     platform: BNB
+  - address: '0200000000000000000000000000000000000000'
+    platform: ONT
 crypto: true
 decimals: 8
 fiat: false

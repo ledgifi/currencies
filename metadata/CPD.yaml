@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x2406dce4da5ab125a18295f4fb9fd36a0f7879a2'
+    platform: BNB
   - address: '0x9b31bb425d8263fa1b8b9d090b83cf0c31665355'
     platform: ETH
+  - address: '0x1ce4a2c355f0dcc24e32a9af19f1836d6f4f98ae'
+    platform: MATIC
 crypto: true
 fiat: false
 id: CPD

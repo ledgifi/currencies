@@ -1,6 +1,20 @@
 contracts:
+  - address: '744665252'
+    platform: ALGO
+  - address: '0x115d8bf0a53e751f8a472f88d587944ec1c8ca6d'
+    platform: ARB
+  - address: '0xeD28A457A5A76596ac48d87C0f577020F6Ea1c4C'
+    platform: BNB
+  - address: btc.ptokens
+    platform: EOS
   - address: '0x62199B909FB8B8cf870f97BEf2cE6783493c4908'
     platform: ETH
+  - address: '0x3effbc016fc50beacd4fa1c7be20cddca38e7f66'
+    platform: GNO
+  - address: '0xd7ecf95cf7ef5256990beaf4ac895cd9e64cb947'
+    platform: MATIC
+  - address: btc.ptokens
+    platform: TLOS
 crypto: true
 fiat: false
 id: pBTC

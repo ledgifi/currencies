@@ -1,6 +1,12 @@
 contracts:
+  - address: 8cfd6893f5f6c1cc954cec1a0a1460841b74da6e7803820dde62bb78
+    platform: ADA
+  - address: '0x1135883a1bc6776bf90c97845adc491922106dfb'
+    platform: BNB
   - address: '0x02c3296C6eb50249f290AE596F2bE9454bFfadaB'
     platform: ETH
+  - address: '0x264c1383EA520f73dd837F915ef3a732e204a493'
+    platform: FITFI
 crypto: true
 fiat: false
 id: RJV

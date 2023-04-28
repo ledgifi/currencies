@@ -1,6 +1,10 @@
 contracts:
   - address: '0xa44E1ADDEfe762Abb126904122728BF98337136c'
+    platform: AVAX
+  - address: '0xa44E1ADDEfe762Abb126904122728BF98337136c'
     platform: BNB
+  - address: '0xa44E1ADDEfe762Abb126904122728BF98337136c'
+    platform: MATIC
 crypto: true
 fiat: false
 id: RAX

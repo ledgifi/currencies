@@ -1,6 +1,8 @@
 contracts:
   - address: '0x1864ce27e9f7517047933caae530674e8c70b8a7'
     platform: ETH
+  - address: '0xafde910130c335fa5bd5fe991053e3e0a49dce7b'
+    platform: KLAY
 crypto: true
 fiat: false
 id: PIB

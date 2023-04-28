@@ -1,6 +1,8 @@
 contracts:
   - address: '0xe66747a101bff2dba3697199dcce5b743b454759'
     platform: ETH
+  - address: ABAq2R9gSpDDGguQxBk4u13s4ZYW6zbwKVBx15mCMG8
+    platform: SOL
 crypto: true
 fiat: false
 id: GT

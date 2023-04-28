@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xe2f3D42443605Fc4ad5bcE82F0e9BFffBCffA6Ca'
+    platform: ETH
+  - address: '0x02000a0000000000000000000000000000000000000000000000000000000000'
+    platform: XOR
 crypto: true
 fiat: false
 id: TBCD

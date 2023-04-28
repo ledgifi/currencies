@@ -1,6 +1,8 @@
 contracts:
   - address: '0x5fAc926Bf1e638944BB16fb5B787B5bA4BC85b0A'
     platform: BNB
+  - address: '0x5fAc926Bf1e638944BB16fb5B787B5bA4BC85b0A'
+    platform: OKT
 crypto: true
 fiat: false
 id: JF

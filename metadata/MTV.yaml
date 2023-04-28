@@ -1,3 +1,10 @@
+contracts:
+  - address: '0x8aa688ab789d1848d131c65d98ceaa8875d97ef1'
+    platform: BNB
+  - address: MTV-4C6
+    platform: BNB
+  - address: '0x6226e00bcac68b0fe55583b90a1d727c14fab77f'
+    platform: ETH
 crypto: true
 fiat: false
 id: MTV

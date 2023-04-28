@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7242Dbed15630a29eA5347898fa15FF8d5EB3593'
     platform: BNB
+  - address: '0xfd83168291312a0800f44610974350c569d12e42'
+    platform: OKT
 crypto: true
 fiat: false
 id: HEP

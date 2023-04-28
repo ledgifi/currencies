@@ -1,7 +1,11 @@
 color: '#cd0124'
 contracts:
+  - address: CHZ-ECD
+    platform: BNB
   - address: '0x3506424f91fd33084466f402d5d97f05f8e3b4af'
     platform: ETH
+  - address: 5TtSKAamFq88grN1QGrEaZ1AjjyciqnCya1aiMhAgFvG
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

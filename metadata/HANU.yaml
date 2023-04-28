@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xdae4f1dca49408288b55250022f67195eff2445a'
+    platform: BNB
   - address: '0x72e5390edb7727e3d4e3436451dadaff675dbcc0'
     platform: ETH
+  - address: '0x709a4b6217584188ddb93c82f5d716d969acce1c'
+    platform: MATIC
 crypto: true
 fiat: false
 id: HANU

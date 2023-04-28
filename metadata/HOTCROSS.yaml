@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x4fa7163e153419e0e1064e418dd7a99314ed27b6'
+    platform: BNB
   - address: '0x4297394c20800e8a38a619a243e9bbe7681ff24e'
     platform: ETH
+  - address: '0x3b737a181f7d2532cF49864f8050b3465a310593'
+    platform: MATIC
+  - address: one1u0tuw46yh9m09kkxs7znwjtwwhm754h3lp0jzn
+    platform: ONE
 crypto: true
 fiat: false
 id: HOTCROSS

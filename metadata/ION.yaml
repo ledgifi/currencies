@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xee59B43149CEAD680aedF8778163ce8CB8c8A6fB'
+    platform: ETH
+  - address: '0x68b741416153bBf5CB4FaEe0aA447f918fE5C322'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ION

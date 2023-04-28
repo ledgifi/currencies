@@ -1,5 +1,7 @@
 color: '#2b5ebb'
 contracts:
+  - address: '0xa3f020a5c92e15be13caf0ee5c95cf79585eecc9'
+    platform: BNB
   - address: '0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e'
     platform: ETH
 crypto: true

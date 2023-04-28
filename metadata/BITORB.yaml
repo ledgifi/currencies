@@ -1,6 +1,8 @@
 contracts:
   - address: '0xEd0c1C9c64Ff7C7cC37c3AF0dfcf5B02eFE0Bb5f'
     platform: BNB
+  - address: '0x09bce7716d46459df7473982fd27a96eabd6ee4d'
+    platform: VLX
 crypto: true
 fiat: false
 id: BITORB

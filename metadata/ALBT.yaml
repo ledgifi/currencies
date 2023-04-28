@@ -1,6 +1,18 @@
 contracts:
+  - address: '0xeb1fbE8b6B2af542d0A167355604c7E1E40CA293'
+    platform: ARB
+  - address: '0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd'
+    platform: AVAX
+  - address: '0x42f3008f6945f052c31e7680f7f78c512099b904'
+    platform: BNB
   - address: '0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0'
     platform: ETH
+  - address: '0xB2991Ae5FE9593aB2978A2388acd4ce19B053a12'
+    platform: GLMR
+  - address: '0x35b2ECE5B1eD6a7a99b83508F8ceEAB8661E0632'
+    platform: MATIC
+  - address: '0x276cf9e7a43d1B9422dEcd1f1d2608f3D588CAad'
+    platform: OP
 crypto: true
 fiat: false
 id: ALBT

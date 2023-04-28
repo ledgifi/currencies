@@ -1,6 +1,8 @@
 contracts:
   - address: '0x445cC9518cF7bc7386A2e3aaF510650b0FB05f5F'
     platform: BNB
+  - address: '0x86040C76AAE5CBB322364CAF8820b0E8902e97E5'
+    platform: HT
 crypto: true
 fiat: false
 id: TT2

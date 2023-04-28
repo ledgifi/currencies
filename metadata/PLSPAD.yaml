@@ -1,6 +1,14 @@
 contracts:
+  - address: '0x8a74BC8c372bC7f0E9cA3f6Ac0df51BE15aEC47A'
+    platform: BNB
   - address: '0x8a74bc8c372bc7f0e9ca3f6ac0df51be15aec47a'
     platform: ETH
+  - address: '0x8a74BC8c372bC7f0E9cA3f6Ac0df51BE15aEC47A'
+    platform: KCS
+  - address: TRrgCFW4VuZ7BYjKs7WByJwPosT5QCeWTE
+    platform: TRX
+  - address: '0x8a74bc8c372bc7f0e9ca3f6ac0df51be15aec47a'
+    platform: VLX
 crypto: true
 fiat: false
 id: PLSPAD

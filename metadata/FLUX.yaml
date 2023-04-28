@@ -1,4 +1,17 @@
 color: '#2b61d1'
+contracts:
+  - address: '0xc4B06F17ECcB2215a5DBf042C672101Fc20daF55'
+    platform: AVAX
+  - address: '0xaff9084f2374585879e8b434c399e29e80cce635'
+    platform: BNB
+  - address: '0x720cd16b011b987da3518fbf38c3071d4f0d1495'
+    platform: ETH
+  - address: runonflux.flux
+    platform: KDA
+  - address: FLUX1wa2GmbtSB6ZGi2pTNbVCw3zEeKnaPCkPtFXxqXe
+    platform: SOL
+  - address: TWr6yzukRwZ53HDe3bzcC8RCTbiKa4Zzb6
+    platform: TRX
 crypto: true
 decimals: 8
 fiat: false

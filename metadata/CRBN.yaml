@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x5a4fb10e7c4cbb9a2b9d9a942f9a875ebd3489ea'
+    platform: BNB
   - address: '0xCdeee767beD58c5325f68500115d4B722b3724EE'
     platform: ETH
+  - address: '0x89ef0900b0a6b5548ab2ff58ef588f9433b5fcf5'
+    platform: MATIC
 crypto: true
 fiat: false
 id: CRBN

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x1f6bd8766f8a8AA58F7441C8dd3709aFA3a56202'
     platform: ETH
+  - address: zil1ucvrn22x8366vzpw5t7su6eyml2auczu6wnqqg
+    platform: ZIL
 crypto: true
 fiat: false
 id: ZYRO

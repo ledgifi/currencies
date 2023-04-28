@@ -1,6 +1,10 @@
 contracts:
+  - address: KAVA-10C
+    platform: BNB
   - address: '0x0C356B7fD36a5357E5A017EF11887ba100C9AB76'
     platform: ETH
+  - address: '0x87D32F2C0A3D6D091772890C81E321026454a125'
+    platform: MATIC
 crypto: true
 decimals: 8
 fiat: false

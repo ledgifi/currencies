@@ -1,6 +1,8 @@
 contracts:
   - address: '0x410a56541bd912f9b60943fcb344f1e3d6f09567'
     platform: BNB
+  - address: '0x410a56541bD912F9B60943fcB344f1E3D6F09567'
+    platform: HT
 crypto: true
 fiat: false
 id: BTCMT

@@ -1,4 +1,8 @@
 contracts:
+  - address: cc8d1b026353022abbfcc2e1e71159f9e308d9c6e905ac1db24c7fb650617269627573
+    platform: ADA
+  - address: '0xbad58ed9b5f26a002ea250d7a60dc6729a4a2403'
+    platform: ARB
   - address: '0xd528cf2e081f72908e086f8800977df826b5a483'
     platform: ETH
 crypto: true

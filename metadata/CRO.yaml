@@ -1,6 +1,10 @@
 contracts:
+  - address: IBC/E6931F78057F7CC5DA0FD6CEF82FF39373A6E0452BF1FD76910B93292CF356C1
+    platform: ATOM
   - address: '0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b'
     platform: ETH
+  - address: DvjMYMVeXgKxaixGKpzQThLoG98nc7HSU7eanzsdCboA
+    platform: SOL
 crypto: true
 fiat: false
 id: CRO

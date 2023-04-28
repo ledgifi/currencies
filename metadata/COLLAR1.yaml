@@ -1,6 +1,8 @@
 contracts:
   - address: '0x9783b81438c24848f85848f8df31845097341771'
     platform: ETH
+  - address: '0xd5fa77A860FeA9cFf31DA91BbF9e0FaEa9538290'
+    platform: MATIC
 crypto: true
 fiat: false
 id: COLLAR1

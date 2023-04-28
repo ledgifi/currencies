@@ -1,4 +1,8 @@
 contracts:
+  - address: inj
+    platform: ATOM
+  - address: '0xa2b726b1145a4773f68593cf171187d8ebe4d495'
+    platform: BNB
   - address: '0xe28b3b32b6c345a34ff64674606124dd5aceca30'
     platform: ETH
 crypto: true

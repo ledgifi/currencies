@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xD38c1B7b95D359978996e01B8a85286F65B3C011'
+    platform: BNB
   - address: '0x94804dc4948184ffd7355f62ccbb221c9765886f'
     platform: ETH
+  - address: '0x40ccd55b789fdee8d434915dc2aa6bd938506a92'
+    platform: MATIC
 crypto: true
 fiat: false
 id: RAGE

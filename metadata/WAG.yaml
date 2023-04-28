@@ -1,6 +1,10 @@
 contracts:
   - address: '0x7FA7dF4996AC59F398476892cfB195eD38543520'
+    platform: BNB
+  - address: '0x7FA7dF4996AC59F398476892cfB195eD38543520'
     platform: ETH
+  - address: '0xabf26902fd7b624e0db40d31171ea9dddf078351'
+    platform: VLX
 crypto: true
 fiat: false
 id: WAG

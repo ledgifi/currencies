@@ -1,6 +1,8 @@
 contracts:
   - address: VRAB-B56
     platform: BNB
+  - address: '0x166f1a7ecae00bd43876a25b10a63c575e05c0e7'
+    platform: ETH
 crypto: true
 fiat: false
 id: VERA1

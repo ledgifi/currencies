@@ -1,6 +1,8 @@
 contracts:
   - address: '0x07150e919b4de5fd6a63de1f9384828396f25fdc'
     platform: ETH
+  - address: '0x699D001ef13B15335193bC5FAd6CFC6747eeE8BE'
+    platform: GNO
 crypto: true
 fiat: false
 id: BASE

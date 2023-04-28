@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x9fdc3ae5c814b79dca2556564047c5e7e5449c19'
+    platform: BNB
   - address: '0xee06a81a695750e71a662b51066f2c74cf4478a0'
     platform: ETH
+  - address: '0x2a93172c8dccbfbc60a39d56183b7279a2f647b4'
+    platform: MATIC
 crypto: true
 fiat: false
 id: DG2

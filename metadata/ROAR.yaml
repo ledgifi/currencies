@@ -1,6 +1,10 @@
 contracts:
   - address: '0xe561Ebd0D7f9b2BD81DA6e7DA655030DCb0a926b'
     platform: BNB
+  - address: '0xE68bA9C8411B27BD71811b1B1e5574CBAdD09655'
+    platform: GLMR
+  - address: '0x8E7Cd893D8f371051a39aA65976Bca22d7b02A60'
+    platform: MOVR
 crypto: true
 fiat: false
 id: ROAR

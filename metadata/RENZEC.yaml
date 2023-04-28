@@ -1,6 +1,10 @@
 contracts:
   - address: '0x1c5db575e2ff833e46a2e9864c22f4b22e0b37c2'
     platform: ETH
+  - address: '0x31a0d1a199631d244761eeba67e8501296d2e383'
+    platform: FTM
+  - address: '0x31a0D1A199631D244761EEba67e8501296d2E383'
+    platform: MATIC
 crypto: true
 fiat: false
 id: RENZEC

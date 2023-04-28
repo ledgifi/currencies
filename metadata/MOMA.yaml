@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xB72842D6F5feDf91D22d56202802Bb9A79C6322E'
+    platform: BNB
   - address: '0xbd1848e1491d4308ad18287a745dd4db2a4bd55b'
     platform: ETH
+  - address: '0xe3ab61371ecc88534c522922a026f2296116c109'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MOMA

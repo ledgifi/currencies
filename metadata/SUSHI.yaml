@@ -1,6 +1,28 @@
 contracts:
+  - address: '0xd4d42f0b6def4ce0383636770ef773390d85c61a'
+    platform: ARB
+  - address: '0x39cf1bd5f15fb22ec3d9ff86b0727afc203427cc'
+    platform: AVAX
+  - address: '0x947950BcC74888a40Ffa2593C5798F11Fc9124C4'
+    platform: BNB
+  - address: '0xd15ec721c2a896512ad29c671997dd68f9593226'
+    platform: CELO
   - address: '0x6b3595068778dd592e39a122f4f5a5cf09c90fe2'
     platform: ETH
+  - address: '0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC'
+    platform: FTM
+  - address: '0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE'
+    platform: GNO
+  - address: terra1csvuzlf92nyemu6tv25h0l79etpe8hz3h5vn4a
+    platform: LUNC
+  - address: '0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a'
+    platform: MATIC
+  - address: 6b3595068778dd592e39a122f4f5a5cf09c90fe2.factory.bridge.near
+    platform: NEAR
+  - address: '0xbec775cb42abfa4288de81f387a9b1a3c4bc552a'
+    platform: ONE
+  - address: AR1Mtgh7zAtxuxGd2XPovXPVjcSdY3i4rQYisNadjfKy
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xB44a9B6905aF7c801311e8F4E76932ee959c663C'
+    platform: AVAX
+  - address: '0xf68c9df95a18b2a5a5fa1124d79eeeffbad0b6fa'
+    platform: BNB
   - address: '0xf99d58e463a2e07e5692127302c20a191861b4d6'
     platform: ETH
+  - address: '0xddcb3ffd12750b45d32e084887fdf1aabab34239'
+    platform: FTM
 crypto: true
 decimals: 8
 fiat: false

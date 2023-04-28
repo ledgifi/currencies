@@ -1,6 +1,16 @@
 contracts:
+  - address: '0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888'
+    platform: BNB
   - address: '0x2ba592f78db6436527729929aaf6c908497cb200'
     platform: ETH
+  - address: '0x657A1861c15A3deD9AF0B6799a195a249ebdCbc6'
+    platform: FTM
+  - address: '0x1939D3431CF0E44B1d63b86e2cE489E5a341B1Bf'
+    platform: GNO
+  - address: 2ba592f78db6436527729929aaf6c908497cb200.factory.bridge.near
+    platform: NEAR
+  - address: HihxL2iM6L6P1oqoSeiixdJ3PhPYNxvSKH9A2dDqLVDH
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

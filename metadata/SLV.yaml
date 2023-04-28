@@ -1,6 +1,8 @@
 contracts:
   - address: SLV-986
     platform: BNB
+  - address: '0x4c1c4957d22d8f373aed54d0853b090666f6f9de'
+    platform: ETH
 crypto: true
 fiat: false
 id: SLV

@@ -1,7 +1,59 @@
 color: '#201a2d'
 contracts:
+  - address: '0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8'
+    platform: ADA
+  - address: '0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f'
+    platform: ARB
+  - address: '0xf4eb217ba2454613b15dbdea6e5f22276410e89e'
+    platform: AURORA
+  - address: '0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab'
+    platform: AVAX
+  - address: '0x1f545487c62e5acfea45dcadd9c627361d1616d8'
+    platform: CFX
+  - address: '0x062E66477Faf219F25D27dCED647BF57C3107d52'
+    platform: CRO
   - address: '0x2260fac5e5542a773aa44fbcfedf7c193bc2c599'
     platform: ETH
+  - address: '0x4bbd68d8b1f25ae7b460e3347c637fe9e7338e0c'
+    platform: ETHW
+  - address: 0:2ba32b75870d572e255809b7b423f30f36dd5dea075bd5f026863fceb81f2bcf
+    platform: EVER
+  - address: '0x321162Cd933E2Be498Cd2267a90534A804051b11'
+    platform: FTM
+  - address: '0x922d641a426dcffaef11680e5358f34d97d112e1'
+    platform: GLMR
+  - address: '0xC7b93720F73b037394cE00f954f849Ed484a3dEA'
+    platform: IOTX
+  - address: '0xfA93C12Cd345c658bc4644D1D4E1B9615952258C'
+    platform: KCS
+  - address: terra1aa7upykmmqqc63l924l5qfap8mrmx5rfdm0v55
+    platform: LUNC
+  - address: '0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6'
+    platform: MATIC
+  - address: '0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4'
+    platform: METIS
+  - address: '0x78f811a431d248c1edcf6d95ec8551879b2897c3'
+    platform: MOVR
+  - address: 2260fac5e5542a773aa44fbcfedf7c193bc2c599.factory.bridge.near
+    platform: NEAR
+  - address: '0x3095c7557bcb296ccc6e363de01b760ba031f2d9'
+    platform: ONE
+  - address: '0x68f180fcce6836688e9084f035309e29bf0a2095'
+    platform: OP
+  - address: 3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh
+    platform: SOL
+  - address: SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.token-wbtc
+    platform: STX
+  - address: '0xf390830df829cf22c53c8840554b98eafc5dcbc2'
+    platform: TLOS
+  - address: '0x503b2ddc059b81788fd1239561596614b27faade'
+    platform: TOMO
+  - address: '0x313dbD8e65C6499dE939e5317cA97Ccc6eD4c621'
+    platform: VLX
+  - address: 8LQW8f7P5d5PZM7GtZEBgaqRPGSzS3DfPuiXrURJ4AJS
+    platform: WAVES
+  - address: zil1wha8mzaxhm22dpm5cav2tepuldnr8kwkvmqtjq
+    platform: ZIL
 crypto: true
 decimals: 8
 fiat: false

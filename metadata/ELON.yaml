@@ -1,6 +1,14 @@
 contracts:
+  - address: '0x7bd6FaBD64813c48545C9c0e312A0099d9be2540'
+    platform: BNB
+  - address: '0x02DCcaf514C98451320a9365C5b46C61d3246ff3'
+    platform: CRO
   - address: '0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3'
     platform: ETH
+  - address: '0xe0339c80ffde91f3e20494df88d4206d86024cdf'
+    platform: MATIC
+  - address: 6nKUU36URHkewHg5GGGAgxs6szkE4VTioGUT5txQqJFU
+    platform: SOL
 crypto: true
 decimals: 1
 fiat: false

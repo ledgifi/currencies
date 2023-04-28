@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x43f5b29D63ceDC5a7c1724dbB1D698FDe05Ada21'
+    platform: BNB
   - address: '0x4c2e59d098df7b6cbae0848d66de2f8a4889b9c3'
     platform: ETH
+  - address: '0x5314ba045a459f63906aa7c76d9f337dcb7d6995'
+    platform: MATIC
 crypto: true
 fiat: false
 id: FODL

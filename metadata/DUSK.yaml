@@ -1,4 +1,8 @@
 contracts:
+  - address: DUSK-45E
+    platform: BNB
+  - address: '0xb2bd0749dbe21f623d9baba856d3b0f0e1bfec9c'
+    platform: BNB
   - address: '0x940a2db1b7008b6c776d4faaca729d6d4a4aa551'
     platform: ETH
 crypto: true

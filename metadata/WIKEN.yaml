@@ -1,6 +1,8 @@
 contracts:
   - address: '0xb7e77aebbe0687d2eff24cc90c41a3b6ea74bdab'
     platform: ETH
+  - address: '0x275f942985503d8ce9558f8377cc526a3aba3566'
+    platform: KLAY
 crypto: true
 fiat: false
 id: WIKEN

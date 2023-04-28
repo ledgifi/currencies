@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x1B01514A2B3CdEf16fD3c680a818A0Ab97Da8a09'
+    platform: ARB
+  - address: '0x2Dd1B4D4548aCCeA497050619965f91f78b3b532'
+    platform: BNB
   - address: '0x5ca135cb8527d76e932f34b5145575f9d8cbe08e'
     platform: ETH
+  - address: '0xC5d43A94e26fCa47A9b21CF547ae4AA0268670E1'
+    platform: OP
 crypto: true
 fiat: false
 id: FPI

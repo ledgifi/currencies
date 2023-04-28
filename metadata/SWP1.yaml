@@ -1,6 +1,8 @@
 contracts:
   - address: '0x53607C4a966f79d3ab1750180E770B0bFD493f46'
     platform: BNB
+  - address: '0xabEDe05598760E399ed7EB24900b30C51788f00F'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SWP1

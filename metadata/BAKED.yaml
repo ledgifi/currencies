@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x8973c9ec7b79fe880697cdbca744892682764c37'
+    platform: AURORA
   - address: '0xa4cb0dce4849bdcad2d553e9e68644cf40e26cce'
     platform: ETH
+  - address: '0x32515ffdc3a84cfbf9ad4db14ef8f0a535c7afd6'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BAKED

@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x0ad248f7941fd41f28a4cb2b8b34b3baf0246d96'
+    platform: BNB
+  - address: '0xf2260Ed15c59C9437848AfeD04645044A8d5e270'
+    platform: ETH
 crypto: true
 fiat: false
 id: FAB

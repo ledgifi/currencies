@@ -1,6 +1,8 @@
 contracts:
   - address: '0x93dfaf57d986b9ca77df9376c50878e013d9c7c8'
     platform: ETH
+  - address: '0x0047e323378d23116261954e67836f350c45625124bbadb35404d9109026feb5'
+    platform: XOR
 crypto: true
 fiat: false
 id: RARE1

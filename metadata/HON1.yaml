@@ -1,6 +1,8 @@
 contracts:
   - address: '0x20a30a68bea440c34f7ca4aa31527c9180836f86'
     platform: BNB
+  - address: '0xC9d19B7542754Da7C28d03d1E44B412f4fDfdb96'
+    platform: HT
 crypto: true
 fiat: false
 id: HON1

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x827d24bb2aad813fe6f49b798f44cce4c48bd478'
     platform: BNB
+  - address: '0x827d24bB2aad813fE6F49b798F44cCe4c48Bd478'
+    platform: KAI
 crypto: true
 fiat: false
 id: FADO

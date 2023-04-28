@@ -1,6 +1,8 @@
 contracts:
   - address: BTCB-1DE
     platform: BNB
+  - address: '0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c'
+    platform: BNB
 crypto: true
 fiat: false
 id: BTCB

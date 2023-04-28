@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xaa9e582e5751d703f85912903bacaddfed26484c'
+    platform: BNB
   - address: '0x05Fb86775Fd5c16290f1E838F5caaa7342bD9a63'
     platform: ETH
+  - address: '0xacc280010b2ee0efc770bce34774376656d8ce14'
+    platform: VET
 crypto: true
 fiat: false
 id: HAI

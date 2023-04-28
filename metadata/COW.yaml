@@ -1,6 +1,8 @@
 contracts:
   - address: '0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB'
     platform: ETH
+  - address: '0x177127622c4A00F3d409B75571e12cB3c8973d3c'
+    platform: GNO
 crypto: true
 fiat: false
 id: COW

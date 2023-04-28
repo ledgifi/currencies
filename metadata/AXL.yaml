@@ -1,4 +1,8 @@
 contracts:
+  - address: ibc/903A61A498756EA560B85A85132D3AEE21B5DEDD41213725D22ABF276EA6945E
+    platform: ATOM
+  - address: '0x8b1f4432F943c465A973FeDC6d7aa50Fc96f1f65'
+    platform: BNB
   - address: '0x467719aD09025FcC6cF6F8311755809d45a5E5f3'
     platform: ETH
 crypto: true

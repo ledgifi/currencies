@@ -1,4 +1,10 @@
 contracts:
+  - address: 0x8eaeb88e7a0b1fe86119b7fda7424fa6cc4f49adc99b249135b2a507192a7332::ARAW::Araw
+    platform: APT
+  - address: '0xCA7661Ba64A7667E3006c421C181502d545D1911'
+    platform: AVAX
+  - address: '0xCA7661Ba64A7667E3006c421C181502d545D1911'
+    platform: BNB
   - address: '0x30680ac0a8a993088223925265fd7a76beb87e7f'
     platform: ETH
 crypto: true

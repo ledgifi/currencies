@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x04F73A09e2eb410205BE256054794fB452f0D245'
+    platform: BNB
   - address: '0xF063fE1aB7a291c5d06a86e14730b00BF24cB589'
     platform: ETH
+  - address: '0x2665375a48A76BB49F6b375844eB88390840C0B8'
+    platform: HT
+  - address: '0x8f6196901a4a153d8ee8f3fa779a042f6092d908'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SALE

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x02Bdf640fba368E7Ba5c6429cCaF251512273865'
     platform: BNB
+  - address: BLT1noyNr3GttckEVrtcfC6oyK6yV1DpPgSyXbncMwef
+    platform: SOL
 crypto: true
 fiat: false
 id: BLT

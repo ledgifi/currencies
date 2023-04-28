@@ -1,7 +1,11 @@
 color: '#00a6c4'
 contracts:
+  - address: '0xa0b862f60edef4452f25b4160f177db44deb6cf1'
+    platform: ARB
   - address: '0x6810e776880c02933d47db1b9fc05908e5386b96'
     platform: ETH
+  - address: '0x9c58bacc331c9aa871afd802db6379a98e80cedb'
+    platform: GNO
 crypto: true
 decimals: 8
 fiat: false

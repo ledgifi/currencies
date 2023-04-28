@@ -1,3 +1,10 @@
+contracts:
+  - address: '0x857b222fc79e1cbbf8ca5f78cb133d1b7cf34bbd'
+    platform: BNB
+  - address: LTO-BDF
+    platform: BNB
+  - address: '0xd01409314acb3b245cea9500ece3f6fd4d70ea30'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false

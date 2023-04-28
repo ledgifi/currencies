@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x582c12b30f85162fa393e5dbe2573f9f601f9d91'
+    platform: BNB
   - address: '0x3E5D9D8a63CC8a88748f229999CF59487e90721e'
     platform: ETH
+  - address: '0xadBe0eac80F955363f4Ff47B0f70189093908c04'
+    platform: MATIC
 crypto: true
 fiat: false
 id: XMT

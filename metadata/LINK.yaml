@@ -1,7 +1,37 @@
 color: '#2a5ada'
 contracts:
+  - address: '0xf390830df829cf22c53c8840554b98eafc5dcbc2'
+    platform: ADA
+  - address: '0xf97f4df75117a78c1A5a0DBb814Af92458539FB4'
+    platform: ARB
+  - address: '0x5947bb275c521040051d82396192181b413227a3'
+    platform: AVAX
+  - address: '0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd'
+    platform: BNB
   - address: '0x514910771af9ca656af840dff83e8264ecf986ca'
     platform: ETH
+  - address: '0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8'
+    platform: FTM
+  - address: '0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2'
+    platform: GNO
+  - address: '0x294cde734a863dcf65417992424405bccf3973e7'
+    platform: HSC
+  - address: '0x9e004545c59d359f6b7bfb06a26390b087717b42'
+    platform: HT
+  - address: terra12dfv3f0e6m22z6cnhfn3nxk2en3z3zeqy6ctym
+    platform: LUNC
+  - address: '0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39'
+    platform: MATIC
+  - address: 514910771af9ca656af840dff83e8264ecf986ca.factory.bridge.near
+    platform: NEAR
+  - address: '0x68Ca48cA2626c415A89756471D4ADe2CC9034008'
+    platform: NRG
+  - address: '0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6'
+    platform: OP
+  - address: CWE8jPTUYhdCTZYWPTe1o5DFqfdjzWKc9WKz6rSjQUdG
+    platform: SOL
+  - address: '0x008484148dcf23d1b48908393e7a00d5fdc3bf81029a73eeca62a15ebfb1205a'
+    platform: XOR
 crypto: true
 decimals: 8
 fiat: false

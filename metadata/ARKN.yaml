@@ -1,6 +1,8 @@
 contracts:
   - address: '0xaA20c2e278D99f978989dAa4460F933745F862d5 '
     platform: BNB
+  - address: '0xc8E2747916BeDcf91C17AB13F2E14E67f6aBe0Db'
+    platform: KAI
 crypto: true
 fiat: false
 id: ARKN

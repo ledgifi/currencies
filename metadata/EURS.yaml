@@ -1,6 +1,8 @@
 contracts:
   - address: '0xdb25f211ab05b1c97d595516f45794528a807ad8'
     platform: ETH
+  - address: xdc1ebb2c8a71a9ec59bf558886a8adf8f4a565814f
+    platform: XDC
 crypto: true
 fiat: false
 id: EURS

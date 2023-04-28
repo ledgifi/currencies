@@ -1,6 +1,10 @@
 contracts:
   - address: '0x6911f552842236bd9e8ea8ddbb3fb414e2c5fa9d'
+    platform: BNB
+  - address: '0x6911f552842236bd9e8ea8ddbb3fb414e2c5fa9d'
     platform: ETH
+  - address: '0x6911f552842236bd9e8ea8ddbb3fb414e2c5fa9d'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SNP

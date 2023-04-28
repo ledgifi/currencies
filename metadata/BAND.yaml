@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18'
+    platform: BNB
   - address: '0xba11d00c5f74255f56a5e366f4f77f5a186d7f55'
     platform: ETH
+  - address: '0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5'
+    platform: FTM
+  - address: '0xe154A435408211AC89757B76C4FbE4Dc9ED2Ef27'
+    platform: GNO
 crypto: true
 decimals: 8
 fiat: false

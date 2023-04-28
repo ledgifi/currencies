@@ -1,6 +1,8 @@
 contracts:
   - address: '0xaaaaaa20d9e0e2461697782ef11675f668207961'
     platform: ETH
+  - address: aaaaaa20d9e0e2461697782ef11675f668207961.factory.bridge.near
+    platform: NEAR
 crypto: true
 fiat: false
 id: AURORA

@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x20ee7b720f4e4c4ffcb00c4065cdae55271aecca'
+    platform: BNB
   - address: '0x198d14f2ad9ce69e76ea330b374de4957c3f850a'
     platform: ETH
+  - address: '0x1A5364F782DbED4f69043B02b5c3870a10C23Ed5'
+    platform: HT
+  - address: TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq
+    platform: TRX
 crypto: true
 decimals: 6
 fiat: false

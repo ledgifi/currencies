@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x65c9d9d080714cDa7b5d58989Dc27f897F165179'
+    platform: AVAX
   - address: '0x9b44df3318972be845d83f961735609137c4c23c'
     platform: BNB
+  - address: '0x5444c30210d8a0a156178cfb8048b4137c0d40d1'
+    platform: FTM
+  - address: '0xe0ce60af0850bf54072635e66e79df17082a1109'
+    platform: MATIC
 crypto: true
 fiat: false
 id: PROPEL

@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x84e9a6f9d240fdd33801f7135908bfa16866939a'
+    platform: BNB
   - address: '0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373'
     platform: ETH
+  - address: '0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7'
+    platform: MATIC
 crypto: true
 fiat: false
 id: GMEE

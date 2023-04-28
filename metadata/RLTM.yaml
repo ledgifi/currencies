@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x1b396CF90504686b7edE2760eebb053d30d1f389'
+    platform: ETH
+  - address: '0x1b396CF90504686b7edE2760eebb053d30d1f389'
+    platform: MATIC
 crypto: true
 fiat: false
 id: RLTM

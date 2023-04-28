@@ -1,6 +1,12 @@
 contracts:
   - address: '0xB09FE1613fE03E7361319d2a43eDc17422f36B09'
+    platform: AVAX
+  - address: '0xB09FE1613fE03E7361319d2a43eDc17422f36B09'
     platform: BNB
+  - address: '0xB09FE1613fE03E7361319d2a43eDc17422f36B09'
+    platform: CRO
+  - address: '0xB09FE1613fE03E7361319d2a43eDc17422f36B09'
+    platform: FTM
 crypto: true
 fiat: false
 id: BOG

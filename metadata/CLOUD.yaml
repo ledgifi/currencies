@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xffad7f9f704a5fdc6265e24b436b4b35ed52def2'
+    platform: BNB
+  - address: '0x14a40443189338c713d9eFB289B3427443114ca9'
+    platform: ETH
 crypto: true
 fiat: false
 id: CLOUD

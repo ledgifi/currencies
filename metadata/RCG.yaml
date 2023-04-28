@@ -1,6 +1,12 @@
 contracts:
   - address: '0x2D94172436D869c1e3c094BeaD272508faB0d9E3'
     platform: BNB
+  - address: '0xe74be071f3b62f6a4ac23ca68e5e2a39797a3c30'
+    platform: ETH
+  - address: '0xbddc276cacc18e9177b2f5cfb3bfb6eef491799b'
+    platform: HT
+  - address: '0xe74be071f3b62f6a4ac23ca68e5e2a39797a3c30'
+    platform: KCS
 crypto: true
 fiat: false
 id: RCG

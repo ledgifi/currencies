@@ -1,6 +1,8 @@
 contracts:
   - address: '0xa58950f05fea2277d2608748412bf9f802ea4901'
     platform: BNB
+  - address: '0x4F497F9D85A6fE135fFca99f0f253919fE827211'
+    platform: METIS
 crypto: true
 fiat: false
 id: WSG

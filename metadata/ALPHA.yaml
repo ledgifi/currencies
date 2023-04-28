@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f'
+    platform: AVAX
   - address: '0xa1faa113cbe53436df28ff0aee54275c13b40975'
     platform: BNB
+  - address: '0xa1faa113cbe53436df28ff0aee54275c13b40975'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false

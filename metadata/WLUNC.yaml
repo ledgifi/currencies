@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xc4bdd27c33ec7daa6fcfd8532ddb524bf4038096'
+    platform: AURORA
+  - address: '0x9278c8693e7328bef49804bacbfb63253565dffd'
+    platform: CRO
   - address: '0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9'
     platform: ETH
+  - address: '0x31dab3430f3081dff3ccd80f17ad98583437b213'
+    platform: GLMR
 crypto: true
 fiat: false
 id: WLUNC

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xd9780513292477C4039dFdA1cfCD89Ff111e9DA5'
     platform: BNB
+  - address: EQAvDfWFG0oYX19jwNDNBBL1rKNT9XfaGP9HyTb5nb2Eml6y
+    platform: TON
 crypto: true
 fiat: false
 id: TGR

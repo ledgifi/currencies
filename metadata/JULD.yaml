@@ -1,6 +1,8 @@
 contracts:
   - address: '0x5a41f637c3f7553dba6ddc2d3ca92641096577ea'
     platform: BNB
+  - address: '0xeff6fcfbc2383857dd66ddf57efffc00d58b7d9d'
+    platform: FTM
 crypto: true
 fiat: false
 id: JULD

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x199f788ddb566b7ebb59bf35b36914f2acdb33de'
     platform: BNB
+  - address: '0xf32122561d51e891b823dec2b42f644884c1cd91'
+    platform: ETH
 crypto: true
 fiat: false
 id: DEFIDO

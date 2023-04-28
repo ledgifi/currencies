@@ -1,6 +1,8 @@
 contracts:
   - address: '0x13A637026dF26F846D55ACC52775377717345c06'
     platform: BNB
+  - address: '0x58FaD9E3C3AE54c9BA98c3f0E4bF88aB3E8Cf3c5'
+    platform: ETH
 crypto: true
 fiat: false
 id: SPAY

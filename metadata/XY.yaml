@@ -1,6 +1,14 @@
 contracts:
+  - address: '0x666666661f9B6D8c581602AAa2f76cbead06C401'
+    platform: BNB
   - address: '0x77777777772cf0455fB38eE0e75f38034dFa50DE'
     platform: ETH
+  - address: '0x444444443B0fcB2733b93F23C910580FBa52FFFA'
+    platform: FTM
+  - address: '0x55555555a687343c6ce28c8e1f6641dc71659fad'
+    platform: MATIC
+  - address: '0x333333331193762b9dd5828fa91afa40d8432b7a'
+    platform: TT
 crypto: true
 fiat: false
 id: XY

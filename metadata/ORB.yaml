@@ -1,6 +1,10 @@
 contracts:
   - address: '0x3c917054e03485808137eb306eafa8da0ab695cd'
     platform: ETH
+  - address: '0x01ad62e0ff6dcaa72889fca155c7036c78ca1783'
+    platform: KLAY
+  - address: '0x20c750c57c3bc5145af4b7a33d4fb66a8e79fe05'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ORB

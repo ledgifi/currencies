@@ -2,6 +2,8 @@ color: '#404040'
 contracts:
   - address: BCPT-95A
     platform: BNB
+  - address: '0x1c4481750daa5ff521a2a7490d9981ed46465dbd'
+    platform: ETH
 crypto: true
 fiat: false
 id: BCPT

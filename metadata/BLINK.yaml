@@ -1,6 +1,8 @@
 contracts:
   - address: BLINK-9C6
     platform: BNB
+  - address: '0x42bedd647e387dabec65a7dc3a3babcc68bb664d'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false

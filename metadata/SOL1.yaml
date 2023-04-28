@@ -1,4 +1,16 @@
 contracts:
+  - address: '0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F'
+    platform: AVAX
+  - address: '0x570a5d26f7765ecb712c0924e4de545b89fd43df'
+    platform: BNB
+  - address: '0xD31a59c85aE9D8edEFeC411D448f90841571b89c'
+    platform: ETH
+  - address: terra190tqwgqx7s8qrknz6kckct7v607cu068gfujpk
+    platform: LUNC
+  - address: '0xd93f7e271cb87c23aaa73edc008a79646d1f9912'
+    platform: MATIC
+  - address: sol.token.a11bd.near
+    platform: NEAR
   - address: So11111111111111111111111111111111111111112
     platform: SOL
 crypto: true

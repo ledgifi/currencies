@@ -1,6 +1,8 @@
 contracts:
   - address: '0x793786e2dd4Cc492ed366a94B88a3Ff9ba5E7546'
     platform: ETH
+  - address: '0x49690541e3f6e933a9aa3cffee6010a7bb5b72d7'
+    platform: MATIC
 crypto: true
 fiat: false
 id: AXIA

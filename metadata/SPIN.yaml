@@ -1,6 +1,8 @@
 contracts:
   - address: '0x6AA217312960A21aDbde1478DC8cBCf828110A67'
     platform: BNB
+  - address: '0x35f80a39eeFe33D0dfD2aD2daa6aD6A9D472CEbd'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SPIN

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xAf7BfA6240745Fd41D1ED4b5fADE9DCAF369bA6c'
     platform: BNB
+  - address: '0xFEb090FcD433dE479396E82DB8B83a470dbAD3c9'
+    platform: MATIC
 crypto: true
 fiat: false
 id: Mverse

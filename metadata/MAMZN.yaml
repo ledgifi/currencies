@@ -1,6 +1,8 @@
 contracts:
   - address: '0x0cae9e4d663793c2a2A0b211c1Cf4bBca2B9cAa7'
     platform: ETH
+  - address: terra165nd2qmrtszehcfrntlplzern7zl4ahtlhd5t2
+    platform: LUNC
 crypto: true
 fiat: false
 id: mAMZN

@@ -1,3 +1,10 @@
+contracts:
+  - address: '0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034'
+    platform: BNB
+  - address: '0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034'
+    platform: FTM
+  - address: '0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BAN

@@ -1,6 +1,10 @@
 contracts:
   - address: '0x552594612f935441c01c6854edf111f343c1ca07'
     platform: BNB
+  - address: '0x65511ce6980418db9db829b669e7dfd653dae420'
+    platform: OKT
+  - address: GWTipxSJVPmmW2wCjBdkbnEJbCRCyrhL2x9zuHRPPTj1
+    platform: SOL
 crypto: true
 fiat: false
 id: GWT

@@ -1,6 +1,12 @@
 contracts:
   - address: '0x4bf5cd1ac6fff12e88aedd3c70eb4148f90f8894'
+    platform: AVAX
+  - address: '0x4bf5cd1ac6fff12e88aedd3c70eb4148f90f8894'
+    platform: BNB
+  - address: '0x4bf5cd1ac6fff12e88aedd3c70eb4148f90f8894'
     platform: ETH
+  - address: '0x372d044DD3391ab6B1eFFDE76D2579Cf77A56F26'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ORBIT2

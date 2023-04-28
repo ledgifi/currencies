@@ -1,7 +1,19 @@
 color: '#1e1e1e'
 contracts:
+  - address: '0x040d1edc9569d4bab2d15287dc5a4f10f56a56b8'
+    platform: ARB
   - address: '0xba100000625a3754423978a60c9317c58a424e3D'
     platform: ETH
+  - address: '0x7eF541E2a22058048904fE5744f9c7E4C57AF717'
+    platform: GNO
+  - address: '0x045de15ca76e76426e8fc7cba8392a3138078d0f'
+    platform: HT
+  - address: '0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3'
+    platform: MATIC
+  - address: ba100000625a3754423978a60c9317c58a424e3d.factory.bridge.near
+    platform: NEAR
+  - address: '0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921'
+    platform: OP
 crypto: true
 decimals: 8
 fiat: false

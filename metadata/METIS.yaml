@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xe552fb52a4f19e44ef5a967632dbc320b0820639'
+    platform: BNB
   - address: '0x9E32b13ce7f2E80A01932B42553652E053D6ed8e'
     platform: ETH
+  - address: '0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000'
+    platform: METIS
 crypto: true
 fiat: false
 id: METIS

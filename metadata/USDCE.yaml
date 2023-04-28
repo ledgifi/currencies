@@ -1,6 +1,8 @@
 contracts:
   - address: '0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664'
     platform: AVAX
+  - address: '0x748134b5f553f2bcbd78c6826de99a70274bdeb3'
+    platform: MOVR
 crypto: true
 decimals: 8
 fiat: false

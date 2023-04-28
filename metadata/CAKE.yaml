@@ -1,6 +1,10 @@
 contracts:
+  - address: 0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6::oft::CakeOFT
+    platform: APT
   - address: '0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82'
     platform: BNB
+  - address: '0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false

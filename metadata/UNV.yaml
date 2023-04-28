@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xf915fdda4c882731c0456a4214548cd13a822886'
+    platform: BNB
   - address: '0xf009f5531de69067435e32c4b9d36077f4c4a673'
     platform: ETH
+  - address: '0x64Ee4f41A15D6c431AB6607d4e95462169d50f6C'
+    platform: MATIC
 crypto: true
 fiat: false
 id: UNV

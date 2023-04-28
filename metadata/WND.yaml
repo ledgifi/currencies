@@ -1,6 +1,8 @@
 contracts:
   - address: '0xD9931818D75A6ceF4Fb0092A73c6e87867A0751a'
     platform: BNB
+  - address: '0xd3b8999eA66d5dDAC8Af7be52165b913Dd46C3B7'
+    platform: HT
 crypto: true
 fiat: false
 id: WND

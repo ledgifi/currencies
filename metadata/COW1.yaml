@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x422E3aF98bC1dE5a1838BE31A56f75DB4Ad43730'
+    platform: BNB
   - address: '0x34965f73Cfa05Bf8d8aF37cB4af64Fa950605Ea8'
     platform: ETH
+  - address: '0x80861A817106665bcA173DB6AC2ab628a738c737'
+    platform: HT
 crypto: true
 fiat: false
 id: COW1

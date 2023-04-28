@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xfb288d60D3b66F9c3e231a9a39Ed3f158a4269aA'
+    platform: BNB
   - address: '0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2'
     platform: ETH
+  - address: '0x3b42fd538597fd049648c9f017208bf712195b73'
+    platform: FTM
+  - address: '0x08158A6b5d4018340387d1A302f882E98a8bC5b4'
+    platform: MATIC
 crypto: true
 fiat: false
 id: PPAY

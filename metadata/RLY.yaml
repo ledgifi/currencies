@@ -1,6 +1,8 @@
 contracts:
   - address: '0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b'
     platform: ETH
+  - address: A.231cc0dbbcffc4b7.RLY
+    platform: FLOW
 crypto: true
 fiat: false
 id: RLY

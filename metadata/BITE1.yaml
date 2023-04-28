@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xde69c05e8121ef0db29c3d9ceceda6ef6b606d0c'
+    platform: BNB
   - address: '0x4eed0fa8de12d5a86517f214c2f11586ba2ed88d'
     platform: ETH
+  - address: '0x280724409b288de06c6d66c05965d3d456e2283a'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BITE1

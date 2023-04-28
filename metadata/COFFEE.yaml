@@ -1,6 +1,8 @@
 contracts:
   - address: '0xff484b38365896a10e68594a8754a3878af75e5b'
     platform: BNB
+  - address: https://explorer.solana.com/address/62FWgS4XaMJrUrAYw7mHMRye4iY9hqgqnJLBiT8QyPJv
+    platform: SOL
 crypto: true
 fiat: false
 id: COFFEE

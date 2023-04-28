@@ -1,6 +1,10 @@
 contracts:
   - address: '0x968f6f898a6df937fc1859b323ac2f14643e3fed'
+    platform: BNB
+  - address: '0x968f6f898a6df937fc1859b323ac2f14643e3fed'
     platform: ETH
+  - address: GAAPUOQWOZAG3PENRN7FEPYWXVGJBJVBL6EUE2ZHN5TSY7WBXQDO7AY2
+    platform: XLM
 crypto: true
 fiat: false
 id: NWC

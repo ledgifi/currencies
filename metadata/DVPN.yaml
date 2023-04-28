@@ -1,6 +1,10 @@
 contracts:
   - address: IBC/9712DBB13B9631EDFA9BF61B55F1B2D290B2ADB67E3A4EB3A875F3B6081B3B84
     platform: ATOM
+  - address: '0xc81978862b6cE566400579a5F8975732D42BD410'
+    platform: ETH
+  - address: '0x973B5bd321aD6044ebc4e40e1C9AF163d17170Ca'
+    platform: MATIC
 crypto: true
 fiat: false
 id: DVPN

@@ -1,6 +1,14 @@
 contracts:
+  - address: '0x63682bdc5f875e9bf69e201550658492c9763f89'
+    platform: AVAX
+  - address: '0x496E80Cad8712025dAfc5b2C96FC36c395af684a'
+    platform: BNB
   - address: '0x69570f3e84f51ea70b7b68055c8d667e77735a25'
     platform: ETH
+  - address: '0x5a33869045db8a6a16c9f351293501cfd92cf7ed'
+    platform: FTM
+  - address: '0x5EEE4d55961705Eb55D12Cb6FA70EB93c4063216'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BSGG

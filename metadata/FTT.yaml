@@ -1,6 +1,10 @@
 contracts:
   - address: FTT-F11
     platform: BNB
+  - address: '0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9'
+    platform: ETH
+  - address: AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

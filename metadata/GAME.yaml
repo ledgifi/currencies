@@ -2,6 +2,8 @@ color: '#2d475b'
 contracts:
   - address: '0x63f88a2298a5c4aee3c216aa6d926b184a4b2437'
     platform: ETH
+  - address: '0x8d1566569d5b695d44a9a234540f68D393cDC40D'
+    platform: MATIC
 crypto: true
 fiat: false
 id: GAME

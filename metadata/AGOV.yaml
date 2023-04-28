@@ -1,6 +1,8 @@
 contracts:
   - address: '0xd1420AF453Fd7bf940573431D416cAcE7fF8280c'
     platform: ETH
+  - address: '0x588c62ed9aa7367d7cd9c2a9aaac77e44fe8221b'
+    platform: KLAY
 crypto: true
 fiat: false
 id: AGOV

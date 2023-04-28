@@ -1,6 +1,8 @@
 contracts:
   - address: '0x4688a8b1f292fdab17e9a90c8bc379dc1dbd8713'
     platform: ETH
+  - address: '0xb01e8419d842beebf1b70a7b5f7142abbaf7159d'
+    platform: FTM
 crypto: true
 decimals: 8
 fiat: false

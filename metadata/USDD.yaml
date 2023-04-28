@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xd17479997f34dd9156deef8f95a52d81d265be9c'
+    platform: BNB
   - address: '0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6'
     platform: ETH
+  - address: 0c10bf8fcb7bf5412187a595ab97a3609160b5c6.factory.bridge.near
+    platform: NEAR
+  - address: TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn
+    platform: TRX
 crypto: true
 fiat: false
 id: USDD

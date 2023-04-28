@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xD2e7B964770FCf51DF088a5F0Bb2D33a3c60CcCf'
+    platform: BNB
   - address: '0xc8807f0f5ba3fa45ffbdc66928d71c5289249014'
     platform: ETH
+  - address: '0x1e289178612f5b6d32f692e312dcf783c74b2162'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ISP

@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x7ca1c28663b76cfde424a9494555b94846205585'
+    platform: AURORA
+  - address: '0x5f26fa0c2ee5d3c0323d861d0c503f31ac212662'
+    platform: BNB
   - address: '0x06a00715e6f92210af9d7680b584931faf71a833'
     platform: ETH
+  - address: 06a00715e6f92210af9d7680b584931faf71a833.factory.bridge.near
+    platform: NEAR
 crypto: true
 fiat: false
 id: XNL

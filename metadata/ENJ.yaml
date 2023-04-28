@@ -2,6 +2,8 @@ color: '#624dbf'
 contracts:
   - address: '0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c'
     platform: ETH
+  - address: EXExWvT6VyYxEjFzF5BrUxt5GZMPVZnd48y3iWrRefMq
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

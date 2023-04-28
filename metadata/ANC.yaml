@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x0F3ADC247E91c3c50bC08721355A41037E89Bc20'
+    platform: ETH
   - address: terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76
     platform: LUNC
 crypto: true

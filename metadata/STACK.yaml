@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x6855f7bb6287F94ddcC8915E37e73a3c9fEe5CF3'
+    platform: BNB
   - address: '0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4'
     platform: ETH
+  - address: '0x980111ae1b84e50222c8843e3a7a038f36fecd2b'
+    platform: MATIC
 crypto: true
 fiat: false
 id: STACK

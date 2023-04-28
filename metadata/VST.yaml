@@ -1,6 +1,8 @@
 contracts:
   - address: '0xacf34edcc424128cccc730bf85cdaceebcb3eece'
     platform: BNB
+  - address: '0x77a1f4e744d810239f465043e35d067ca33de259'
+    platform: ETH
 crypto: true
 fiat: false
 id: VST

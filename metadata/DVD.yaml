@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x51e00a95748dbd2a3f47bc5c3b3e7b3f0fea666c'
+    platform: BNB
   - address: '0x77dcE26c03a9B833fc2D7C31C22Da4f42e9d9582'
     platform: ETH
+  - address: '0xaa5eD3C460C38eB71fba089B853d0a91C0e71DD5'
+    platform: MATIC
 crypto: true
 fiat: false
 id: DVD

@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x4b4eb5c44d50bfd44124688c6754633f7e258b01'
+    platform: ETH
   - address: '0x7f8AB1593f84B0C450385a3f70e921cB796401Ba'
     platform: HT
 crypto: true

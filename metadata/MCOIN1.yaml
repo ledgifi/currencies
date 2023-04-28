@@ -1,6 +1,8 @@
 contracts:
   - address: '499213551'
     platform: ALGO
+  - address: '0x34ad6a664b4112a9c6bac7b54b4094a05e3ff775'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MCOIN1

@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x6e3bf2fff13e18413d3780f93753d6cff5aee3e1'
+    platform: BNB
   - address: '0x48592de8cded16f6bb56c896fe1affc37630889c'
     platform: ETH
+  - address: '0x2d72A97a31Dc920dB03330780d30074626e39C8A'
+    platform: MATIC
 crypto: true
 fiat: false
 id: POLP

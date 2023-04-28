@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xe4f05a66ec68b54a58b17c22107b02e0232cc817'
+    platform: KLAY
+  - address: '0x461d52769884ca6235B685EF2040F47d30C94EB5'
+    platform: WEMIX
 crypto: true
 fiat: false
 id: WKLAY

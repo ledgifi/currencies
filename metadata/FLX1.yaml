@@ -1,6 +1,10 @@
 contracts:
   - address: '0xea62791aa682d455614eaa2a12ba3d9a2fd197af'
     platform: AURORA
+  - address: '0x3ea8ea4237344c9931214796d9417af1a1180770'
+    platform: ETH
+  - address: 3ea8ea4237344c9931214796d9417af1a1180770.factory.bridge.near
+    platform: NEAR
 crypto: true
 fiat: false
 id: FLX1

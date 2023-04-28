@@ -1,7 +1,17 @@
 color: '#2b2e7f'
 contracts:
+  - address: '0x4D15a3A2286D883AF0AA1B3f21367843FAc63E07'
+    platform: ARB
+  - address: '0x1c20e891bab6b1727d14da358fae2984ed9b59eb'
+    platform: AVAX
+  - address: '0x14016e85a25aeb13065688cafb43044c2ef86784'
+    platform: BNB
+  - address: TUSDB-888
+    platform: BNB
   - address: '0x0000000000085d4780B73119b644AE5ecd22b376'
     platform: ETH
+  - address: TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4
+    platform: TRX
 crypto: true
 decimals: 8
 fiat: false

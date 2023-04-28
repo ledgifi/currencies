@@ -1,3 +1,10 @@
+contracts:
+  - address: '0x8626264B6a1B4e920905Efd381002abA52EA0Eea'
+    platform: BNB
+  - address: '0x8bcd06492416a749c9369009b3429861b7f27f6e'
+    platform: ETH
+  - address: '0x8626264B6a1B4e920905Efd381002abA52EA0Eea'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BLKC

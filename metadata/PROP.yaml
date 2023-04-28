@@ -1,6 +1,8 @@
 contracts:
   - address: '0x58784ca627e15e4a1a2b80444ccaa6320526e21b'
     platform: BNB
+  - address: '0xE9eb76879d332E5c574AA4E8202Ef84956806949'
+    platform: ETH
 crypto: true
 fiat: false
 id: PROP

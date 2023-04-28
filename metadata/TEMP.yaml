@@ -1,6 +1,8 @@
 contracts:
   - address: '0xA36FDBBAE3c9d55a1d67EE5821d53B50B63A1aB9'
     platform: ETH
+  - address: '0x1c174f6ab0753162befbb916c69def2cc1bfdec1'
+    platform: FTM
 crypto: true
 fiat: false
 id: TEMP

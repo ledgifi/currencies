@@ -1,6 +1,8 @@
 contracts:
   - address: '0x18D0717E9B3371a9EC4089CF0FE89e6591724556'
     platform: BNB
+  - address: '0x5b6a35c90d7f7d25899ee52f1aa63344a5be786f'
+    platform: ETH
 crypto: true
 fiat: false
 id: PALS1

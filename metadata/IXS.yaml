@@ -1,6 +1,8 @@
 contracts:
   - address: '0x73d7c860998ca3c01ce8c808f5577d94d545d1b4'
     platform: ETH
+  - address: '0x1ba17c639bdaecd8dc4aac37df062d17ee43a1b8'
+    platform: MATIC
 crypto: true
 fiat: false
 id: IXS

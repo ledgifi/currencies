@@ -1,4 +1,6 @@
 contracts:
+  - address: https://bscscan.com/token/0xf9c27de474cce832fad75107853b78838888ac11
+    platform: BNB
   - address: '0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c'
     platform: ETH
 crypto: true

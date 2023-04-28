@@ -1,6 +1,10 @@
 contracts:
   - address: '0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44'
     platform: ETH
+  - address: '0x2A5062D22adCFaAfbd5C541d4dA82E4B450d4212'
+    platform: FTM
+  - address: 3a2VW9t5N6p4baMW3M6yLH1UJ9imMt7VsyUk6ouXPVLq
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

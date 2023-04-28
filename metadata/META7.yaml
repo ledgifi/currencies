@@ -1,6 +1,8 @@
 contracts:
   - address: '0xc21ff01229e982d7c8b8691163b0a3cb8f357453'
     platform: AURORA
+  - address: meta-token.near
+    platform: NEAR
 crypto: true
 fiat: false
 id: META7

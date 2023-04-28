@@ -1,6 +1,8 @@
 contracts:
   - address: '0x02a40c048ee2607b5f5606e445cfc3633fb20b58'
     platform: BNB
+  - address: '0x5198E7cC1640049dE37D1Bd10b03Fa5A3AFDA120'
+    platform: MATIC
 crypto: true
 fiat: false
 id: KABY

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x19a6da6e382b85f827088092a3dbe864d9ccba73'
     platform: BNB
+  - address: '0xd2f38621c3C65300ECabA7020c05d1350f9C265c'
+    platform: FTM
 crypto: true
 fiat: false
 id: BISON

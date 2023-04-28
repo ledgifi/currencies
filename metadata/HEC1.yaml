@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x0149E2FA4104666f6af136f731757A04df5C8A68'
+    platform: AVAX
+  - address: '0x638EEBe886B0e9e7C6929E69490064a6C94d204d'
+    platform: BNB
   - address: '0x29b3d220f0f1E37b342Cf7c48c1164BF5bf79eFa'
     platform: ETH
+  - address: '0x5c4fdfc5233f935f20d2adba572f770c2e377ab0'
+    platform: FTM
 crypto: true
 fiat: false
 id: HEC1

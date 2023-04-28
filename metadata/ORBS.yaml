@@ -1,6 +1,16 @@
 contracts:
+  - address: '0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A'
+    platform: AVAX
+  - address: '0xebd49b26169e1b52c04cfd19fcf289405df55f80'
+    platform: BNB
   - address: '0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa'
     platform: ETH
+  - address: '0x614389eaae0a6821dc49062d56bda3d9d45fa2ff'
+    platform: MATIC
+  - address: '0xAaD96d04f00b718b9Ed43E39DB8E73DE61cEf8b7'
+    platform: ONE
+  - address: 7JnHPPJBBKSTJ7iEmsiGSBcPJgbcKw28uCRXtQgimncp
+    platform: SOL
 crypto: true
 fiat: false
 id: ORBS

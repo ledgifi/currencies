@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x4EF285c8cbe52267c022c39da98b97ca4b7e2fF9'
+    platform: BNB
   - address: '0x4f640F2529ee0cF119A2881485845FA8e61A782A'
     platform: ETH
+  - address: '0xd52f6ca48882be8fbaa98ce390db18e1dbe1062d'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ORE

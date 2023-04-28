@@ -1,3 +1,10 @@
+contracts:
+  - address: fetch1qxxlalvsdjd07p07y3rc5fu6ll8k4tmetpha8n
+    platform: ATOM
+  - address: '0x031b41e504677879370e9dbcf937283a8691fa7f'
+    platform: BNB
+  - address: '0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false

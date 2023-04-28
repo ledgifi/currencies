@@ -1,4 +1,7 @@
 color: '#0155ff'
+contracts:
+  - address: WAVES
+    platform: WAVES
 crypto: true
 decimals: 8
 fiat: false

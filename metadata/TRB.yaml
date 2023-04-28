@@ -1,6 +1,14 @@
 contracts:
+  - address: '0xd58D345Fd9c82262E087d2D0607624B410D88242'
+    platform: ARB
   - address: '0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0'
     platform: ETH
+  - address: '0xaad66432d27737ecf6ed183160adc5ef36ab99f2'
+    platform: GNO
+  - address: '0xE3322702BEdaaEd36CdDAb233360B939775ae5f1'
+    platform: MATIC
+  - address: '0xaf8cA653Fa2772d58f4368B0a71980e9E3cEB888'
+    platform: OP
 crypto: true
 decimals: 8
 fiat: false

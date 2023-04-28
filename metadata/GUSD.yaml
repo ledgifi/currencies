@@ -1,6 +1,8 @@
 contracts:
   - address: '0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd'
     platform: ETH
+  - address: 056fd409e1d7a124bd7017459dfea2f387b6d5cd.factory.bridge.near
+    platform: NEAR
 crypto: true
 fiat: false
 id: GUSD

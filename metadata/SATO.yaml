@@ -1,6 +1,10 @@
 contracts:
   - address: '0xF6E6892325a74383A70570F1EBea9A476483a611'
     platform: BNB
+  - address: '0xF6E6892325a74383A70570F1EBea9A476483a611'
+    platform: ETH
+  - address: '0xF6E6892325a74383A70570F1EBea9A476483a611'
+    platform: HT
 crypto: true
 fiat: false
 id: SATO

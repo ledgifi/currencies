@@ -1,6 +1,8 @@
 contracts:
   - address: '0x374cb8c27130e2c9e04f44303f3c8351b9de61c1'
     platform: ETH
+  - address: '0x82dFe19164729949fD66Da1a37BC70dD6c4746ce'
+    platform: GNO
 crypto: true
 fiat: false
 id: BAO1

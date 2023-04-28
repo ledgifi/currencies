@@ -1,4 +1,7 @@
 color: '#4f7aa2'
+contracts:
+  - address: '0xbea2576f400b070c7cdf11d1cbb49de0c84e3bcf'
+    platform: BNB
 crypto: true
 fiat: false
 id: XDN

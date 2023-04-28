@@ -1,3 +1,10 @@
+contracts:
+  - address: '0x2794dad4077602ed25a88d03781528d1637898b4'
+    platform: BNB
+  - address: '0xadd5e881984783dd432f80381fb52f45b53f3e70'
+    platform: ETH
+  - address: tti_5649544520544f4b454e6e40
+    platform: VITE
 crypto: true
 decimals: 8
 fiat: false

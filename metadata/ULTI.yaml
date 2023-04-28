@@ -1,6 +1,8 @@
 contracts:
   - address: '0x42bfe4a3e023f2c90aebffbd9b667599fa38514f'
     platform: BNB
+  - address: '0xa6516f07c5fc7169fca3149b188c37ca617f1d41'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ULTI

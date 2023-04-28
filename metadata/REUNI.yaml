@@ -1,5 +1,9 @@
 contracts:
   - address: '0x9ed7E4B1BFF939ad473dA5E7a218C771D1569456'
+    platform: ARB
+  - address: '0x9ed7E4B1BFF939ad473dA5E7a218C771D1569456'
+    platform: BNB
+  - address: '0x9ed7E4B1BFF939ad473dA5E7a218C771D1569456'
     platform: ETH
 crypto: true
 fiat: false

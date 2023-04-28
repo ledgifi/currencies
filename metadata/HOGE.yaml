@@ -1,6 +1,16 @@
 contracts:
+  - address: '0xa4fffc757e8c4f24e7b209c033c123d20983ad40'
+    platform: BNB
   - address: '0xfad45e47083e4607302aa43c65fb3106f1cd7607'
     platform: ETH
+  - address: '0xF31778D591c558140398F46feCA42A6a2dbFFe90'
+    platform: FTM
+  - address: '0xDfF7fcF6a86F7Dc86E7facECA502851f82a349A6'
+    platform: GNO
+  - address: '0x58c1BBb508e96CfEC1787Acf6Afe1C7008A5B064'
+    platform: MATIC
+  - address: '0x9873795F5DAb11e1c0342C4a58904c59827ede0c'
+    platform: OKT
 crypto: true
 fiat: false
 id: HOGE

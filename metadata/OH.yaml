@@ -1,6 +1,8 @@
 contracts:
   - address: '0x937e077abaea52d3abf879c9b9d3f2ebd15baa21'
     platform: AVAX
+  - address: '0x16ba8Efe847EBDFef99d399902ec29397D403C30'
+    platform: ETH
 crypto: true
 fiat: false
 id: OH

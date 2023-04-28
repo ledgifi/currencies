@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x489580eB70a50515296eF31E8179fF3e77E24965'
+    platform: BNB
+  - address: '0x44709a920fccf795fbc57baa433cc3dd53c44dbe'
+    platform: ETH
 crypto: true
 fiat: false
 id: RADAR

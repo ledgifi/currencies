@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xf9ca2ea3b1024c0db31adb224b407441becc18bb'
+    platform: ELA
   - address: '0xdf574c24545e5ffecb9a659c229253d4111d87e1'
     platform: ETH
+  - address: '0x0298c2b32eae4da002a15f36fdf7615bea3da047'
+    platform: HT
+  - address: 7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw
+    platform: SOL
 crypto: true
 fiat: false
 id: HUSD

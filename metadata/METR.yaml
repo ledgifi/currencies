@@ -1,6 +1,10 @@
 contracts:
   - address: '0x405CE8B2eAeeA7D4Ba5Fc160848cB2A6569e03f0'
+    platform: BNB
+  - address: '0x405CE8B2eAeeA7D4Ba5Fc160848cB2A6569e03f0'
     platform: ETH
+  - address: '0x405CE8B2eAeeA7D4Ba5Fc160848cB2A6569e03f0'
+    platform: MATIC
 crypto: true
 fiat: false
 id: METR

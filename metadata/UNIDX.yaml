@@ -1,6 +1,8 @@
 contracts:
   - address: '0x95b3497bBcCcc46a8F45F5Cf54b0878b39f8D96C'
     platform: ETH
+  - address: '0x2130d2a1e51112d349ccf78d2a1ee65843ba36e0'
+    platform: FTM
 crypto: true
 fiat: false
 id: UNIDX

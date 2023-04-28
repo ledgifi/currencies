@@ -1,6 +1,14 @@
 contracts:
+  - address: '0x78c42324016cd91d1827924711563fb66e33a83a'
+    platform: AVAX
+  - address: '0xe338d4250a4d959f88ff8789eaae8c32700bd175'
+    platform: BNB
   - address: '0x5d843fa9495d23de997c394296ac7b4d721e841c'
     platform: ETH
+  - address: '0x904371845bc56dcbbcf0225ef84a669b2fd6bd0d'
+    platform: MATIC
+  - address: '0xfe282af5f9eb59c30a3f78789eeffa704188bdd4'
+    platform: METIS
 crypto: true
 fiat: false
 id: RELAY

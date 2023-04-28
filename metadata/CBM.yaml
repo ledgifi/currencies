@@ -1,6 +1,8 @@
 contracts:
   - address: CBM-4B2
     platform: BNB
+  - address: '0x95efd1fe6099f65a7ed524def487483221094947'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false

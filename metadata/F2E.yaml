@@ -1,6 +1,8 @@
 contracts:
   - address: '0x529f5cfEFBA34093fB6c0e294002b9CEA0A0CAAE'
     platform: BNB
+  - address: '0xaA094f71E44F3b576D7532029eaC9497FF5Ef9C0'
+    platform: ETHW
 crypto: true
 fiat: false
 id: F2E

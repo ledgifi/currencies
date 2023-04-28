@@ -1,4 +1,7 @@
 color: '#2b6680'
+contracts:
+  - address: '0x2003f7ba57Ea956B05B85C60B4B2Ceea9b111256'
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false

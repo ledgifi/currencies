@@ -1,6 +1,10 @@
 contracts:
   - address: '0x33333ee26a7d02e41c33828b42fb1e0889143477'
+    platform: AVAX
+  - address: '0x33333ee26a7d02e41c33828b42fb1e0889143477'
     platform: BNB
+  - address: '0x33333ee26a7d02e41c33828b42fb1e0889143477'
+    platform: FTM
 crypto: true
 fiat: false
 id: LIQR

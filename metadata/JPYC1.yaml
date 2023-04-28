@@ -1,6 +1,12 @@
 contracts:
   - address: '0x2370f9d504c7a6e775bf6e14b3f12846b594cd53'
     platform: ETH
+  - address: '0x417602f4fbdd471A431Ae29fB5fe0A681964C11b'
+    platform: GNO
+  - address: '0x6AE7Dfc73E0dDE2aa99ac063DcF7e8A63265108c'
+    platform: MATIC
+  - address: '0x735aBE48e8782948a37C7765ECb76b98CdE97B0F'
+    platform: SDN
 crypto: true
 fiat: false
 id: JPYC1

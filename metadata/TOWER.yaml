@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xe7c9c6bc87b86f9e5b57072f907ee6460b593924'
+    platform: BNB
   - address: '0x1c9922314ed1415c95b9fd453c3818fd41867d0b'
     platform: ETH
+  - address: '0x2bc07124d8dac638e290f401046ad584546bc47b'
+    platform: MATIC
 crypto: true
 fiat: false
 id: TOWER

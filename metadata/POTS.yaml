@@ -1,6 +1,8 @@
 contracts:
   - address: '0x3fcca8648651e5b974dd6d3e50f61567779772a8'
     platform: BNB
+  - address: '0xF7554D17d1c3F09899dCc8B404beCAE6dFA584Fa'
+    platform: FTM
 crypto: true
 fiat: false
 id: POTS

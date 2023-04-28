@@ -1,6 +1,14 @@
 contracts:
+  - address: '0x969A3f4481583843dB706332E344412235c0892a'
+    platform: AVAX
+  - address: '0x82d2f8e02afb160dd5a480a617692e62de9038c4'
+    platform: BNB
   - address: '0x27702a26126e0b3702af63ee09ac4d1a084ef628'
     platform: ETH
+  - address: '0x4bc97997883c0397f556bd0f9da6fb71da22f9a2'
+    platform: GNO
+  - address: CsZ5LZkDS7h9TDKjrbL7VAwQZ9nsRu8vJLhRYfmGaN8K
+    platform: SOL
 crypto: true
 fiat: false
 id: ALEPH

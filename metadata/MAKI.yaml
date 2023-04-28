@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xEDf5e2Ac09002094Cc51B597CebE58C70182ADC5'
+    platform: FTM
   - address: '0x5fad6fbba4bba686ba9b8052cf0bd51699f38b93'
     platform: HT
 crypto: true

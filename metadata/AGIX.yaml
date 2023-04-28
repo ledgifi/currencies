@@ -1,4 +1,6 @@
 contracts:
+  - address: f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc53541474958
+    platform: ADA
   - address: '0x5B7533812759B45C2B44C19e320ba2cD2681b542'
     platform: ETH
 crypto: true

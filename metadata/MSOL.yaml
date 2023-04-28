@@ -1,6 +1,8 @@
 contracts:
   - address: '0x756bFb452cFE36A5Bc82e4F5f4261A89a18c242b'
     platform: ETH
+  - address: mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So
+    platform: SOL
 crypto: true
 fiat: false
 id: MSOL

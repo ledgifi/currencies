@@ -1,6 +1,8 @@
 contracts:
   - address: '0xBc106F4c144398c2D3b3c7fcC521658Dc42F61eC'
     platform: BNB
+  - address: '0xc971A4efBe0A1Cf0D4ec2E1d0399e4C3bf305e90'
+    platform: MATIC
 crypto: true
 fiat: false
 id: VORZ

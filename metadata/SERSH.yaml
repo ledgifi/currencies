@@ -1,6 +1,8 @@
 contracts:
   - address: '0xFBd68BA45Eb0ec386046243F50a22B2535019c79'
     platform: BNB
+  - address: 9pkudFiG5qhiSQQ8XatPbxZj8zBQ5m4XzHsKHMAGkkCR
+    platform: SOL
 crypto: true
 fiat: false
 id: SERSH

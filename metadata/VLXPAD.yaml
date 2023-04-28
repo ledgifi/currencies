@@ -1,6 +1,10 @@
 contracts:
   - address: '0xb8e3bB633F7276cc17735D86154E0ad5ec9928C0'
+    platform: BNB
+  - address: '0xb8e3bB633F7276cc17735D86154E0ad5ec9928C0'
     platform: ETH
+  - address: '0xa065e0858417dfc7abc6f2bd4d0185332475c180'
+    platform: VLX
 crypto: true
 fiat: false
 id: VLXPAD

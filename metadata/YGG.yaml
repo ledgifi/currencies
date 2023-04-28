@@ -1,6 +1,10 @@
 contracts:
   - address: '0x25f8087ead173b73d6e8b84329989a8eea16cf73'
     platform: ETH
+  - address: '0x63cf309500d8be0b9fdb8f1fb66c821236c0438c'
+    platform: ONE
+  - address: EzZp7LRN1xwu3QsB2RJRrWwEGjJGsuWzuMCeQDB3NSPK
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

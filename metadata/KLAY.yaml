@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x0000000000000000000000000000000000000000'
+    platform: KLAY
 crypto: true
 decimals: 8
 fiat: false

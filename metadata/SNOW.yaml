@@ -1,6 +1,8 @@
 contracts:
   - address: '0xfe9a29ab92522d14fc65880d817214261d8479ae'
     platform: ETH
+  - address: '0x33c9f7c0afe2722cb9e426360c261fb755b4483d'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SNOW

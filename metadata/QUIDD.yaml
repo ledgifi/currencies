@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x7961ade0a767c0e5b67dd1a1f78ba44f727642ed'
+    platform: BNB
   - address: '0xDA9FDAb21bC4A5811134A6E0Ba6CA06624e67c07'
     platform: ETH
+  - address: '0x123706cDD8e60324e610E9A2CC7012D0F45A5b8E'
+    platform: MATIC
 crypto: true
 fiat: false
 id: QUIDD

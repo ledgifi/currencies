@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xCd1fAFf6e578Fa5cAC469d2418C95671bA1a62Fe'
+    platform: BNB
   - address: '0xcd1faff6e578fa5cac469d2418c95671ba1a62fe'
     platform: ETH
+  - address: '0xcd1faff6e578fa5cac469d2418c95671ba1a62fe'
+    platform: HT
+  - address: '0xe1c42be9699ff4e11674819c1885d43bd92e9d15'
+    platform: MATIC
 crypto: true
 fiat: false
 id: XTM

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x659049786cB66E4486b8C0E0cCC90a5929a21162'
     platform: BNB
+  - address: TCMwzYUUCxLkTNpXjkYSBgXgqXwt7KJ82y
+    platform: TRX
 crypto: true
 fiat: false
 id: TC

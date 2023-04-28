@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x892a6f9df0147e5f079b0993f486f9aca3c87881'
+    platform: ETH
+  - address: '0x007e908e399cc73f3dad9f02f9c5c83a7adcd07e78dd91676ff3c002e245d8e9'
+    platform: XOR
 crypto: true
 fiat: false
 id: XFUND

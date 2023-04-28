@@ -1,4 +1,8 @@
 contracts:
+  - address: '0xB5b1b659dA79A2507C27AaD509f15B4874EDc0Cc'
+    platform: ETH
+  - address: '0x4987A49C253c38B3259092E9AAC10ec0C7EF7542'
+    platform: MATIC
   - address: DUSTawucrTsGU8hcqRdHDCbuYhCPADMLM2VcCb8VnFnQ
     platform: SOL
 crypto: true

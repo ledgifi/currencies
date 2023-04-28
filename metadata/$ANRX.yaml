@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xE2e7329499E8DDb1f2b04EE4B35a8d7f6881e4ea'
+    platform: BNB
   - address: '0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0'
     platform: ETH
+  - address: '0x554f074d9cCda8F483d1812d4874cBebD682644E'
+    platform: MATIC
 crypto: true
 fiat: false
 id: $ANRX

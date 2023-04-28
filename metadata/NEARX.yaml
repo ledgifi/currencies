@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xb39eeb9e168ef6c639f5e282fef1f6bc4dcae375'
+    platform: AURORA
   - address: v2-nearx.stader-labs.near
     platform: NEAR
 crypto: true

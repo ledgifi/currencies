@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x8623e66bea0dce41b6d47f9c44e806a115babae0'
+    platform: BNB
   - address: '0x3085154623f51b00dedfc6ceeb5197277a66b17b'
     platform: ETH
+  - address: '0x8623e66bea0dce41b6d47f9c44e806a115babae0'
+    platform: MATIC
 crypto: true
 fiat: false
 id: NFTY1

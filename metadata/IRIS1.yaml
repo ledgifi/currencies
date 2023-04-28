@@ -1,6 +1,8 @@
 contracts:
   - address: '0xdaB35042e63E93Cc8556c9bAE482E5415B5Ac4B1'
     platform: MATIC
+  - address: '0x85fd5f8dbd0c9ef1806e6c7d4b787d438621c1dc'
+    platform: ONE
 crypto: true
 fiat: false
 id: IRIS1

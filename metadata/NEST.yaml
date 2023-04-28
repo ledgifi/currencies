@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x98f8669F6481EbB341B522fCD3663f79A3d1A6A7'
+    platform: BNB
   - address: '0x04abeda201850ac0124161f037efd70c74ddc74c'
     platform: ETH
+  - address: '0x98f8669F6481EbB341B522fCD3663f79A3d1A6A7'
+    platform: MATIC
 crypto: true
 fiat: false
 id: NEST

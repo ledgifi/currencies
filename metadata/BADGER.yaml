@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xbfa641051ba0a0ad1b0acf549a89536a0d76472e'
+    platform: ARB
   - address: '0x3472a5a71965499acd81997a54bba8d852c6e53d'
     platform: ETH
+  - address: '0xdfc20AE04ED70bd9c7D720F449eEDAe19F659D65'
+    platform: GNO
 crypto: true
 decimals: 8
 fiat: false

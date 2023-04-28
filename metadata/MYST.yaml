@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x2ff0b946a6782190c4fe5d4971cfe79f0b6e4df2'
+    platform: BNB
   - address: '0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361'
     platform: ETH
+  - address: '0x1379E8886A944d2D9d440b3d88DF536Aea08d9F3'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MYST

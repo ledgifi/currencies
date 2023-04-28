@@ -1,7 +1,13 @@
 color: '#55ddff'
 contracts:
+  - address: '0xce4DB2ce8cCa463f8Aa1e2174C244Ba4a8d672cB'
+    platform: ARB
+  - address: everipediaiq
+    platform: EOS
   - address: '0x579cea1889991f68acc35ff5c3dd0621ff29b0c9'
     platform: ETH
+  - address: '0xB9638272aD6998708de56BBC0A290a1dE534a578'
+    platform: MATIC
 crypto: true
 decimals: 8
 fiat: false

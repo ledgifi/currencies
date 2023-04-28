@@ -1,6 +1,8 @@
 contracts:
   - address: '0xb753428af26e81097e7fd17f40c88aaa3e04902c'
     platform: ETH
+  - address: '0x924828a9Fb17d47D0eb64b57271D10706699Ff11'
+    platform: FTM
 crypto: true
 fiat: false
 id: SFI

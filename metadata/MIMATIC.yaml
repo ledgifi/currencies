@@ -1,6 +1,46 @@
 contracts:
+  - address: '0xb9c8f0d3254007ee4b98970b94544e473cd610ec'
+    platform: ADA
+  - address: '0x3F56e0c36d275367b8C502090EDF38289b3dEa0d'
+    platform: ARB
+  - address: '0xdFA46478F9e5EA86d57387849598dbFB2e964b02'
+    platform: AURORA
+  - address: '0x3b55e45fd6bd7d4724f5c47e0d1bcaedd059263e'
+    platform: AVAX
+  - address: '0x3F56e0c36d275367b8C502090EDF38289b3dEa0d'
+    platform: BNB
+  - address: '0x3F56e0c36d275367b8C502090EDF38289b3dEa0d'
+    platform: BOBA
+  - address: '0xB9C8F0d3254007eE4b98970b94544e473Cd610EC'
+    platform: CELO
+  - address: '0x1c965D8E53fb1a448789e2B0FA5abc3EB2c36993'
+    platform: CRO
+  - address: '0x8d6cebd76f18e1558d4db88138e2defb3909fad6'
+    platform: ETH
+  - address: '0xfb98b335551a418cd0737375a2ea0ded62ea213b'
+    platform: FTM
+  - address: '0xdFA46478F9e5EA86d57387849598dbFB2e964b02'
+    platform: GLMR
+  - address: '0x3F56e0c36d275367b8C502090EDF38289b3dEa0d'
+    platform: IOTX
+  - address: '0xb84Df10966a5D7e1ab46D9276F55d57bD336AFC7'
+    platform: KAVA
+  - address: '0x3F56e0c36d275367b8C502090EDF38289b3dEa0d'
+    platform: KLAY
   - address: '0xa3Fa99A148fA48D14Ed51d610c367C61876997F1'
     platform: MATIC
+  - address: '0xdFA46478F9e5EA86d57387849598dbFB2e964b02'
+    platform: METIS
+  - address: '0x7f5a79576620c046a293f54ffcdbd8f2468174f1'
+    platform: MOVR
+  - address: '0x3F56e0c36d275367b8C502090EDF38289b3dEa0d'
+    platform: ONE
+  - address: '0xdFA46478F9e5EA86d57387849598dbFB2e964b02'
+    platform: OP
+  - address: 9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7
+    platform: SOL
+  - address: '0x2611fa1cae2a3e20ed47fb1b293437c14f41b00f'
+    platform: SYS
 crypto: true
 decimals: 8
 fiat: false

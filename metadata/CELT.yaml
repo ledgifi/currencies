@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x4f34292f109870d5fdda602bc7e3ae56d520d6e1'
+    platform: BNB
   - address: '0xf6e06b54855eff198a2d9a8686113665499a6134'
     platform: ETH
+  - address: '0x5Ab622494AB7C5e81911558c9552DBd517F403fb'
+    platform: OKT
 crypto: true
 fiat: false
 id: CELT

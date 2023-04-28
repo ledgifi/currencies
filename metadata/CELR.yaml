@@ -1,6 +1,14 @@
 contracts:
+  - address: '0x1f9f6a696c6fd109cd3956f45dc709d2b3902163'
+    platform: BNB
   - address: '0x4f9254c83eb525f9fcf346490bbb3ed28a81c667'
     platform: ETH
+  - address: '0x3795C36e7D12A8c252A20C5a7B455f7c57b60283'
+    platform: GLMR
+  - address: '0x516e6D96896Aea92cE5e78B0348FD997F13802ad'
+    platform: METIS
+  - address: ' 0xf6a939e773fa4a63fd53f86bbbb279caad955035'
+    platform: ROSE
 crypto: true
 decimals: 8
 fiat: false

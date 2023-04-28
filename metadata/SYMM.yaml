@@ -1,4 +1,8 @@
 contracts:
+  - address: '0x7c64ad5f9804458b8c9f93f7300c15d55956ac2a'
+    platform: CELO
+  - address: '0x57db3ffca78dbbe0efa0ec745d55f62aa0cbd345'
+    platform: ETH
   - address: '0xc45b3c1c24d5f54e7a2cf288ac668c74dd507a84'
     platform: GNO
 crypto: true

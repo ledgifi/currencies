@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x58759dd469ae5631c42cf8a473992335575b58d7'
+    platform: BNB
   - address: '0x62Dc4817588d53a056cBbD18231d91ffCcd34b2A'
     platform: ETH
+  - address: '0xFbdd194376de19a88118e84E279b977f165d01b8'
+    platform: GNO
+  - address: '0x5fcb9de282af6122ce3518cde28b7089c9f97b26'
+    platform: MATIC
 crypto: true
 fiat: false
 id: DHV

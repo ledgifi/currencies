@@ -1,6 +1,8 @@
 contracts:
   - address: '0xa5342D72D04c133180f376753f90a4B2eEe29bB3'
     platform: BNB
+  - address: '0x854bb58fdda85f20b5ab20b20d888f0554c02560'
+    platform: HT
 crypto: true
 fiat: false
 id: DMC

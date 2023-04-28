@@ -1,6 +1,14 @@
 contracts:
+  - address: '0xDebB1d6a2196F2335aD51FBdE7Ca587205889360'
+    platform: AVAX
+  - address: '0xBaC1df744df160877cDc45E13d0394c06bC388Ff'
+    platform: BNB
   - address: '0x9b17bAADf0f21F03e35249e0e59723F34994F806'
     platform: ETH
+  - address: '0x4A7b9A4589A88A06ca29F99556dB08234078D727'
+    platform: MATIC
+  - address: '0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0'
+    platform: TT
 crypto: true
 fiat: false
 id: GEM2

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x967da4048cd07ab37855c090aaf366e4ce1b9f48'
     platform: ETH
+  - address: '0x002ca40397c794e25dba18cf807910eeb69eb8e81b3f07bb54f7c5d1d8ab76b9'
+    platform: XOR
 crypto: true
 decimals: 8
 fiat: false

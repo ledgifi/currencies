@@ -1,3 +1,8 @@
+contracts:
+  - address: ' 0xa4FB4F0Ff2431262D236778495145EcBC975c38B'
+    platform: AVAX
+  - address: '0x013062189dc3dcc99e9Cee714c513033b8d99e3c'
+    platform: ETH
 crypto: true
 fiat: false
 id: BWR

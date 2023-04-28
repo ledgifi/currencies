@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xa4eF4b0B23C1fc81d3f9ecF93510e64f58A4A016'
+    platform: BNB
   - address: '0xa4ef4b0b23c1fc81d3f9ecf93510e64f58a4a016'
     platform: ETH
+  - address: a4ef4b0b23c1fc81d3f9ecf93510e64f58a4a016.factory.bridge.near
+    platform: NEAR
 crypto: true
 fiat: false
 id: 1MIL

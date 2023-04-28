@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x21e60ee73f17ac0a411ae5d690f908c3ed66fe12'
+    platform: ARB
+  - address: '0xe60eaf5A997DFAe83739e035b005A33AfdCc6df5'
+    platform: BNB
   - address: '0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9'
     platform: ETH
+  - address: '0x2bdA3e331Cf735D9420e41567ab843441980C4B8'
+    platform: HT
 crypto: true
 fiat: false
 id: DERI

@@ -1,3 +1,10 @@
+contracts:
+  - address: '0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153'
+    platform: BNB
+  - address: '0x0bf85d3b0c9ebcc282fde0591882d12e57e700b3'
+    platform: HSC
+  - address: '0xae3a768f9ab104c69a7cd6041fe16ffa235d1810'
+    platform: HT
 crypto: true
 decimals: 8
 fiat: false

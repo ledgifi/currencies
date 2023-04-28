@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x5e57f24415f37c7d304e85df9b4c36bc08789794'
+    platform: BNB
   - address: '0xF0ACF8949e705E0ebb6CB42c2164B0B986454223'
     platform: ETH
+  - address: '0x7b24C63aa79ad66F34C1a8f50a1369ecD9EE43d8'
+    platform: VLX
 crypto: true
 fiat: false
 id: BRTR

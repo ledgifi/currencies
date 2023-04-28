@@ -1,6 +1,8 @@
 contracts:
   - address: '0x211ffbe424b90e25a15531ca322adf1559779e45'
     platform: BNB
+  - address: '0x9A584ca70FF5fa46c511B7Bd1A953d5a4BFFC3B8'
+    platform: ETH
 crypto: true
 fiat: false
 id: BUX

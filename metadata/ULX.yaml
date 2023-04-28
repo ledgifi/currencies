@@ -1,6 +1,14 @@
 contracts:
+  - address: '0xc685e8eddc9f078666794cbfcd8d8351bac404ef'
+    platform: AVAX
   - address: '0xd983AB71a284d6371908420d8Ac6407ca943F810'
     platform: BNB
+  - address: '0x5Aa158404fEd6b4730C13F49d3a7F820e14A636F'
+    platform: ETH
+  - address: '0x8867F422Cd9Cf0C66ba71D22bC8edc641e91949d'
+    platform: FTM
+  - address: '0xfA5d5DD2517EE9C1419534a16B132adDe2e3d948'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ULX

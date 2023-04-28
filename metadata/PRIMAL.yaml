@@ -1,6 +1,8 @@
 contracts:
   - address: '0xcb5327ed4649548e0d73e70b633cdfd99af6da87'
     platform: BNB
+  - address: '0x0bbe45a033Aab7A90006C05aa648efD3d2993F9E'
+    platform: FITFI
 crypto: true
 fiat: false
 id: PRIMAL

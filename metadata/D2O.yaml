@@ -1,6 +1,8 @@
 contracts:
   - address: '0x2FdA8c6783Aa36BeD645baD28a4cDC8769dCD252'
     platform: ETH
+  - address: '0xc806B0600cbAfA0B197562a9F7e3B9856866E9bF'
+    platform: GLMR
 crypto: true
 fiat: false
 id: D2O

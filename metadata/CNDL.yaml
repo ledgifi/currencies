@@ -1,3 +1,14 @@
+contracts:
+  - address: '585221469'
+    platform: ALGO
+  - address: '0x85FA00f55492B0437b3925381fAaf0E024747627'
+    platform: EOS
+  - address: '0xA7f75B22384Ff06b1228eF82e075e30F047455c7'
+    platform: ETH
+  - address: '0x5423063af146F5abF88Eb490486E6B53FA135eC9'
+    platform: MATIC
+  - address: '0xb750990F953B36F806d0327678eCFB4eEFd16979'
+    platform: NEO
 crypto: true
 fiat: false
 id: CNDL

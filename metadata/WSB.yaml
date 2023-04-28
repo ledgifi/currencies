@@ -1,6 +1,8 @@
 contracts:
   - address: '0x22168882276e5d5e1da694343b41dd7726eeb288'
     platform: BNB
+  - address: '0xe1590A6FA0CFf9C960181cb77d8a873601772f64'
+    platform: ETH
 crypto: true
 fiat: false
 id: WSB

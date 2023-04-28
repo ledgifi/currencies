@@ -1,4 +1,13 @@
 color: '#82bd39'
+contracts:
+  - address: '0x8cd6e29d3686d24d3c2018cee54621ea0f89313b'
+    platform: BNB
+  - address: '0xa2791bdf2d5055cda4d46ec17f9f429568275047'
+    platform: ETH
+  - address: '0xd938e45680da19ad36646ae8d4c671b2b1270f39'
+    platform: HT
+  - address: '0x8cd6e29d3686d24d3c2018cee54621ea0f89313b'
+    platform: OKT
 crypto: true
 decimals: 8
 fiat: false

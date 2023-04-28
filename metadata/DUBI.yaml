@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x9e40868e8024aa52433ad3af311dba88ff8c86bd'
+    platform: BNB
   - address: '0x950e1561B7A7dEB1A32A6419FD435410daf851B0'
     platform: MATIC
 crypto: true

@@ -2,6 +2,10 @@ color: '#04adef'
 contracts:
   - address: '0x3845badAde8e6dFF049820680d1F14bD3903a5d0'
     platform: ETH
+  - address: '0xbbba073c31bf03b8acf7c28ef0738decf3695683'
+    platform: MATIC
+  - address: 49c7WuCZkQgc3M4qH8WuEUNXfgwupZf1xqWkDQ7gjRGt
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

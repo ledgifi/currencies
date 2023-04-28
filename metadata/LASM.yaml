@@ -1,6 +1,18 @@
 contracts:
+  - address: '0xbC2E674dFe0d885081f429b296D7aE2B784D1198'
+    platform: ARB
+  - address: '0x9c0C0E21A8A4787e3304F93767695101217DE113'
+    platform: AVAX
+  - address: '0xbC2E674dFe0d885081f429b296D7aE2B784D1198'
+    platform: BNB
   - address: '0x6F66f3012E0210baBD2384e31863C30f70356237'
     platform: ETH
+  - address: '0xbC2E674dFe0d885081f429b296D7aE2B784D1198'
+    platform: GLMR
+  - address: '0x517e3496e0cb9df5a1a411864a2c3919cf8456a4'
+    platform: GT
+  - address: '0xbC2E674dFe0d885081f429b296D7aE2B784D1198'
+    platform: MATIC
 crypto: true
 fiat: false
 id: LASM

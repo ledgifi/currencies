@@ -1,6 +1,8 @@
 contracts:
   - address: '0xea89199344a492853502a7a699cc4230854451b8'
     platform: BNB
+  - address: '0x667c856f1A624BAeFE89fC4909C8701296C86c98'
+    platform: FTM
 crypto: true
 fiat: false
 id: ONI

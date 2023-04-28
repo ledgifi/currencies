@@ -1,6 +1,8 @@
 contracts:
   - address: '0xa0b93b9e90ab887e53f9fb8728c009746e989b53'
     platform: ETH
+  - address: '0xe342ebb6a56cd3dbf0fe01a447fe367b9290ecf8'
+    platform: MATIC
 crypto: true
 fiat: false
 id: TST

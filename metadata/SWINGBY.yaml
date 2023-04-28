@@ -1,4 +1,8 @@
 contracts:
+  - address: '0x71de20e0c4616e7fcbfdd3f875d568492cbe4739'
+    platform: BNB
+  - address: SWINGBY-888
+    platform: BNB
   - address: '0x8287c7b963b405b7b8d467db9d79eec40625b13a'
     platform: ETH
 crypto: true

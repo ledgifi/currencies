@@ -1,6 +1,10 @@
 contracts:
   - address: IBC/F3FF7A84A73B62921538642F9797C423D2B4C4ACB3C7FCFFCE7F12AA69909C4B
     platform: ATOM
+  - address: '0x8Ea2645CD39D5e0C901bCA25dF8d0998a6926cf2'
+    platform: ETH
+  - address: '0x4a8D681bF9FC7A32d8284B6f2d869eb1CB14A7f0'
+    platform: MATIC
 crypto: true
 fiat: false
 id: IXO

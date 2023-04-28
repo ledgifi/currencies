@@ -1,3 +1,10 @@
+contracts:
+  - address: '0xbd2949f67dcdc549c6ebe98696449fa79d988a9f'
+    platform: BNB
+  - address: '0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F'
+    platform: ETH
+  - address: '0x228ebbee999c6a7ad74a6130e81b12f9fe237ba3'
+    platform: MTRG
 crypto: true
 fiat: false
 id: MTRG

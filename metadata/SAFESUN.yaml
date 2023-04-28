@@ -1,6 +1,8 @@
 contracts:
   - address: '0xA03C3a233940485D46eE77407343DA3221198427'
     platform: BNB
+  - address: '0xc61708603C7b317Eb4e84c923370f50eD9aD8077'
+    platform: ETH
 crypto: true
 fiat: false
 id: SAFESUN

@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654'
+    platform: AVAX
   - address: '0x52d88a9a2a20a840d7a336d21e427e9ad093deea'
     platform: BNB
 crypto: true

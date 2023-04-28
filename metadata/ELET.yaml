@@ -1,6 +1,8 @@
 contracts:
   - address: '0x6c37bf4f042712c978a73e3fd56d1f5738dd7c43'
     platform: ETH
+  - address: '0x07738Eb4ce8932CA961c815Cb12C9d4ab5Bd0Da4'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ELET

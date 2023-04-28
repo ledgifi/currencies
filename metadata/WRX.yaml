@@ -1,6 +1,10 @@
 contracts:
   - address: WRX-ED1
     platform: BNB
+  - address: '0x8e17ed70334c87ece574c9d537bc153d8609e2a3'
+    platform: BNB
+  - address: '0x72d6066F486bd0052eefB9114B66ae40e0A6031a'
+    platform: MATIC
 crypto: true
 decimals: 8
 fiat: false

@@ -1,4 +1,9 @@
 color: '#0d1e30'
+contracts:
+  - address: lovelace
+    platform: ADA
+  - address: '0x3ee2200efb3400fabb9aacf31297cbdd1d435d47'
+    platform: BNB
 crypto: true
 decimals: 8
 fiat: false

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xf5cfbc74057c610c8ef151a439252680ac68c6dc'
     platform: ETH
+  - address: f5cfbc74057c610c8ef151a439252680ac68c6dc.factory.bridge.near
+    platform: NEAR
 crypto: true
 fiat: false
 id: OCT1

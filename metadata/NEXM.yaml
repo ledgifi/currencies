@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xfa37E513E6cd506c4694b992825a8B614C035581'
+    platform: BNB
   - address: '0xe831F96A7a1DcE1aa2EB760b1e296c6A74CaA9d5'
     platform: ETH
+  - address: '0xC88640B734fEA3b35c132Fe757AeB5ca6C8cDC66'
+    platform: MATIC
 crypto: true
 fiat: false
 id: NEXM

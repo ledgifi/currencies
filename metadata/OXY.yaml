@@ -1,6 +1,8 @@
 contracts:
   - address: '0x965697b4ef02f0de01384d0d4f9f782b1670c163'
     platform: ETH
+  - address: z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M
+    platform: SOL
 crypto: true
 fiat: false
 id: OXY

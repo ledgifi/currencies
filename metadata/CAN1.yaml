@@ -1,6 +1,10 @@
 contracts:
   - address: CAN-677
     platform: BNB
+  - address: '0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56'
+    platform: BNB
+  - address: '0x1d462414fe14cf489c7a21cac78509f4bf8cd7c0'
+    platform: ETH
 crypto: true
 fiat: false
 id: CAN1

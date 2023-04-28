@@ -1,3 +1,10 @@
+contracts:
+  - address: '0xb6c53431608e626ac81a9776ac3e999c5556717c'
+    platform: BNB
+  - address: '0x7825e833d495f3d1c28872415a4aee339d26ac88'
+    platform: ETH
+  - address: eosio.token
+    platform: TLOS
 crypto: true
 fiat: false
 id: TLOS

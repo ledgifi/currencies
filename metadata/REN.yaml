@@ -2,6 +2,14 @@ color: '#080817'
 contracts:
   - address: '0x408e41876cccdc0f92210600ef50372656052a38'
     platform: ETH
+  - address: '0x408e41876cccdc0f92210600ef50372656052a38'
+    platform: FTM
+  - address: '0x0da1a02cdf84c44021671d183d616925164e08aa'
+    platform: GNO
+  - address: 408e41876cccdc0f92210600ef50372656052a38.factory.bridge.near
+    platform: NEAR
+  - address: '0x00e8a7823b8207e4cab2e46cd10b54d1be6b82c284037b6ee76afd52c0dceba6'
+    platform: XOR
 crypto: true
 decimals: 8
 fiat: false

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x96a16178edaff58736567cfcaff570c06617f0fd'
     platform: BNB
+  - address: '0x0106a1122fe94a9cf151097c1fe17229ec78ffad'
+    platform: ETH
 crypto: true
 fiat: false
 id: ECOP

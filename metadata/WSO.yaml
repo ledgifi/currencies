@@ -1,6 +1,8 @@
 contracts:
   - address: '0xC19FE21B4ef356f2f65894392dDe4252AA083605'
     platform: BNB
+  - address: 4TyXexYsJqy9n1vVFVkHn1CUxabP2cht3BSE74PSG1pq
+    platform: SOL
 crypto: true
 fiat: false
 id: WSO

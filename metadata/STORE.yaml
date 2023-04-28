@@ -1,6 +1,8 @@
 contracts:
   - address: '0x65d9033cff96782394dAB5dbEf17Fa771bbe1732'
     platform: BNB
+  - address: '0x31ea0de8119307aa264bb4b38727aab4e36b074f'
+    platform: ETH
 crypto: true
 fiat: false
 id: STORE

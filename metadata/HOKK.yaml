@@ -1,6 +1,10 @@
 contracts:
   - address: '0xe87e15b9c7d989474cb6d8c56b3db4efad5b21e8'
+    platform: BNB
+  - address: '0xe87e15b9c7d989474cb6d8c56b3db4efad5b21e8'
     platform: ETH
+  - address: '0x4ebf49cc2d2dd029e5cfdf868316385dffd94c6a'
+    platform: HT
 crypto: true
 fiat: false
 id: HOKK

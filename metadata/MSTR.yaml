@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xE397784960F814BA35C9Ee0BC4c9DFFdf86925f9'
+    platform: AVAX
   - address: '0x2290C6bD9560E6498dFDf10F9eCB17997CA131f2'
     platform: BNB
+  - address: '0xE397784960F814BA35C9Ee0BC4c9DFFdf86925f9'
+    platform: OKT
 crypto: true
 fiat: false
 id: MSTR

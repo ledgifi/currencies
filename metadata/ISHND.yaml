@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE'
+    platform: BNB
   - address: '0x9e6b19874e97fe8E8CAD77f2c0AB5E7a693E5dbf'
     platform: ETH
+  - address: '0x9e6b19874e97fe8E8CAD77f2c0AB5E7a693E5dbf'
+    platform: MATIC
+  - address: TV5MV8wjCY8xbJ6NfQSArP7xZRHHTw48No
+    platform: TRX
 crypto: true
 fiat: false
 id: ISHND

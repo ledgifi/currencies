@@ -2,6 +2,8 @@ color: '#ffd800'
 contracts:
   - address: '0x607f4c5bb672230e8672085532f7e901544a7375'
     platform: ETH
+  - address: '0x008294f7b08f568a661de2b248c34fc574e7e0012a12ef7959eb1a5c6b349e09'
+    platform: XOR
 crypto: true
 decimals: 8
 fiat: false

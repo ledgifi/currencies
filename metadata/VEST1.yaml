@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x873801ae2ff12d816db9a7b082f5796bec64c82c'
+    platform: BNB
   - address: '0x1f19f83fC9a25F3C861260143E36c17706257986'
     platform: ETH
+  - address: '0x381caf412B45dAc0f62FBEeC89DE306D3eABE384'
+    platform: MATIC
 crypto: true
 fiat: false
 id: VEST1

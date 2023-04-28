@@ -1,6 +1,12 @@
 contracts:
   - address: '0xf55a93b613d172b86c2ba3981a849dae2aecde2f'
+    platform: BNB
+  - address: '0xf55a93b613d172b86c2ba3981a849dae2aecde2f'
     platform: ETH
+  - address: '0xf55a93b613d172b86c2ba3981a849dae2aecde2f'
+    platform: HT
+  - address: TAP7qf8Ao26ZAKYS5E6SGozUNoSLvBHsGa
+    platform: TRX
 crypto: true
 fiat: false
 id: YFX

@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xcF985abA4647a432E60efcEeB8054BBd64244305'
+    platform: ARB
   - address: '0x820802fa8a99901f52e39acd21177b0be6ee2974'
     platform: ETH
+  - address: '0x820802Fa8a99901F52e39acD21177b0BE6EE2974'
+    platform: MATIC
 crypto: true
 fiat: false
 id: EUROE

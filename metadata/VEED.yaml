@@ -1,6 +1,8 @@
 contracts:
   - address: '0x16fdd1edb14ac4012395A0617a682D81595dB486'
     platform: BNB
+  - address: '0x67fD63f6068962937EC81AB3Ae3bF9871E524FC9 '
+    platform: VET
 crypto: true
 fiat: false
 id: VEED

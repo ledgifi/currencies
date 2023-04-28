@@ -1,6 +1,12 @@
 contracts:
   - address: '0xd46ba6d942050d489dbd938a2c909a5d5039a161'
     platform: ETH
+  - address: '0xC84DD5B971521B6C9fA5E10d25E6428b19710e05'
+    platform: GNO
+  - address: '0x1cf09d1b5da9d9d24365d87b932a7c4bd018a419'
+    platform: MTRG
+  - address: EHKQvJGu48ydKA4d3RivrkNyTJTkSdoS32UafxSX1yak
+    platform: SOL
 crypto: true
 fiat: false
 id: AMPL
