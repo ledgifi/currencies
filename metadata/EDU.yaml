@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: EDU
+id_binance: '1181'
 id_coinmarketcap: '244'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/244.png
 logoKey: currencies/edu.png
