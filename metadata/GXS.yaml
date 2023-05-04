@@ -4,7 +4,8 @@ decimals: 8
 fiat: false
 id: GXS
 id_binance: '99'
+id_coinmarketcap: '1750'
 id_nomics: GXS
-logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/gxs.svg
-logoKey: currencies/gxs.svg
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1750.png
+logoKey: currencies/gxs.png
 name: GXChain

@@ -1,3 +1,4 @@
+color: '#7f27ff'
 contracts:
   - address: '0x72fF5742319eF07061836F5C924aC6D72c919080'
     platform: BNB
@@ -8,6 +9,6 @@ id: GFT
 id_binance: '1160'
 id_coinmarketcap: '2289'
 id_nomics: GFT
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2289.png
-logoKey: currencies/gft.png
+logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/gto.svg
+logoKey: currencies/gft.svg
 name: Gifto

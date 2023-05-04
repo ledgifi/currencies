@@ -1,8 +1,12 @@
+contracts:
+  - address: Contract5ndTHiqRRPWnT5wBFhQ9bthhueT9LVFnuGgGEVfmVRb8
+    platform: IOST
 crypto: true
 decimals: 8
 fiat: false
 id: DON
 id_binance: '606'
+id_coinmarketcap: '8814'
 id_coinpaprika: don-donnie-finance
 id_nomics: DON2
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210308/aca589dc-60f9-4c77-8071-48eaf06d5ed9.png

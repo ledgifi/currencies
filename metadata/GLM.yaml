@@ -1,3 +1,4 @@
+color: '#001d57'
 contracts:
   - address: '0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429'
     platform: ETH
@@ -11,6 +12,6 @@ id_binance: '553'
 id_coinmarketcap: '1455'
 id_coinpaprika: glm-golem
 id_nomics: GLM
-logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201203/fb4c6f30-58f3-4e9d-978e-d324500345d8.png
-logoKey: currencies/glm.png
+logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/gnt.svg
+logoKey: currencies/glm.svg
 name: Golem

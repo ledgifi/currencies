@@ -1,10 +1,12 @@
+color: '#21a5de'
 crypto: true
 decimals: 8
 fiat: false
 id: YOYO
 id_binance: '35'
+id_coinmarketcap: '1899'
 id_coinpaprika: yoyow-yoyow
 id_nomics: YOYOW
-logo: https://bin.bnbstatic.com/images/20191212/e7d0e15c-8d56-4ce5-889b-20ce7856750d.png
-logoKey: currencies/yoyo.png
+logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/yoyow.svg
+logoKey: currencies/yoyo.svg
 name: YOYOW

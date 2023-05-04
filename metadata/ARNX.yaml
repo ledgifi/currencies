@@ -1,12 +1,14 @@
+color: '#0092b5'
 contracts:
   - address: ARN-71B
     platform: BNB
   - address: '0x0C37Bcf456bC661C14D596683325623076D7e283'
     platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: ARNX
 id_coinmarketcap: '2153'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2153.png
-logoKey: currencies/arnx.png
+logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/arn.svg
+logoKey: currencies/arnx.svg
 name: Aeron
