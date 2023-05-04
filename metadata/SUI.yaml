@@ -1,10 +1,8 @@
-contracts:
-  - address: '0x4841181ae4079072ebe83a29b718388a387169e3'
-    platform: BNB
 crypto: true
+decimals: 8
 fiat: false
 id: SUI
-id_coinmarketcap: '18932'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18932.png
-logoKey: currencies/sui.png
-name: Salmonation
+id_binance: '1184'
+id_coinmarketcap: '20947'
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20230427/01d74774-8cd6-4423-9d29-701ca3f04602.jpeg
+name: Sui
