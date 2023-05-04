@@ -1,3 +1,8 @@
+contracts:
+  - address: 0xa4c5c1f5d28f13b6da2de8cb76708a5fbeca5d6c5fe592ee1b062a91f14d94b7::FGC::Fgc
+    platform: APT
+  - address: '0x41E025EA850bB4d0DCbb5b1F4353aF099CbD026a'
+    platform: AVAX
 crypto: true
 fiat: false
 id: FGC

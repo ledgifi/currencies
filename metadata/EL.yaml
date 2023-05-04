@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x5357e9c3488c7680e710b46b744e706e484b4ad7'
+    platform: BNB
   - address: '0x2781246fe707bb15cee3e5ea354e2154a2877b16'
     platform: ETH
+  - address: EQDtSJyon_pvLOyVFhMkXZi3_VUvl-jCzlA_ye_ZTsVde9fa
+    platform: TON
 crypto: true
 fiat: false
 id: EL

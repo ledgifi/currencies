@@ -1,3 +1,84 @@
+contracts:
+  - address: '0x81ecac0d6be0550a00ff064a4f9dd2400585fe9c'
+    platform: ADA
+  - address: 0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WETH
+    platform: APT
+  - address: '0x82af49447d8a07e3bd95bd0d56f35241523fbab1'
+    platform: ARB
+  - address: '0xc9bdeed33cd01541e1eed10f90519d2c06fe3feb'
+    platform: AURORA
+  - address: '0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB'
+    platform: AVAX
+  - address: '0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA'
+    platform: BNB
+  - address: '0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000'
+    platform: BOBA
+  - address: '0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687'
+    platform: CANTO
+  - address: '0x122013fd7dF1C6F636a5bb8f03108E876548b455'
+    platform: CELO
+  - address: '0xa47f43de2f9623acb395ca4905746496d2014d57'
+    platform: CFX
+  - address: '0xe44Fd7fCb2b1581822D0c862B68222998a0c299a'
+    platform: CRO
+  - address: '0x802c3e839E4fDb10aF583E3E759239ec7703501e'
+    platform: ELA
+  - address: '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2'
+    platform: ETH
+  - address: '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2'
+    platform: ETHW
+  - address: 0:59b6b64ac6798aacf385ae9910008a525a84fc6dcf9f942ae81f8e8485fe160d
+    platform: EVER
+  - address: '0x74b23882a30290451A17c44f4F05243b6b58C76d'
+    platform: FTM
+  - address: '0xa722c13135930332eb3d749b2f0906559d2c5b99'
+    platform: FUSE
+  - address: '0xfa9343c3897324496a05fc75abed6bac29f8a40f'
+    platform: GLMR
+  - address: '0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1'
+    platform: GNO
+  - address: '0xA1588dC914e236bB5AE4208Ce3081246f7A00193'
+    platform: HSC
+  - address: '0x0258866edaf84d6081df17660357ab20a07d0c80'
+    platform: IOTX
+  - address: '0x1540020a94aa8bc189aa97639da213a4ca49d9a7'
+    platform: KAI
+  - address: '0xf55aF137A98607F7ED2eFEfA4cd2DfE70E4253b1'
+    platform: KCS
+  - address: terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r
+    platform: LUNC
+  - address: '0x7ceb23fd6bc0add59e62ac25578270cff1b9f619'
+    platform: MATIC
+  - address: '0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9'
+    platform: MATIC
+  - address: '0x420000000000000000000000000000000000000a'
+    platform: METIS
+  - address: '0x576fDe3f61B7c97e381c94e7A03DBc2e08Af1111'
+    platform: MOVR
+  - address: '0x79a61d3a28f8c8537a3df63092927cfa1150fb3c'
+    platform: MTRG
+  - address: c02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.factory.bridge.near
+    platform: NEAR
+  - address: '0x6983d1e6def3690c4d616b13597a09e6193ea013'
+    platform: ONE
+  - address: '0x4200000000000000000000000000000000000006'
+    platform: OP
+  - address: '0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5'
+    platform: RON
+  - address: '0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F'
+    platform: ROSE
+  - address: 7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs
+    platform: SOL
+  - address: '0x5aea5775959fbc2557cc8789bc1bf90a239d9a91'
+    platform: TBD
+  - address: '0xfa9343c3897324496a05fc75abed6bac29f8a40f'
+    platform: TLOS
+  - address: 474jTeYx2r2Va35794tCScAXWJG9hU2HcgxzMowaZUnu
+    platform: WAVES
+  - address: '0x765277EebeCA2e31912C9946eAe1021199B39C61'
+    platform: WEMIX
+  - address: zil19j33tapjje2xzng7svslnsjjjgge930jx0w09v
+    platform: ZIL
 crypto: true
 decimals: 8
 fiat: false

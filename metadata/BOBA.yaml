@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7'
+    platform: BOBA
+  - address: '0x42bbfa2e77757c645eeaad1655e0911a7553efbc'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false

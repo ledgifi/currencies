@@ -1,3 +1,10 @@
+contracts:
+  - address: '0xff20817765cb7f73d4bde2e66e067e58d11095c2'
+    platform: ETH
+  - address: ff20817765cb7f73d4bde2e66e067e58d11095c2.factory.bridge.near
+    platform: NEAR
+  - address: D559HwgjYGDYsXpmFUKxhFTEwutvS9sya1kXiyCVogCV
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

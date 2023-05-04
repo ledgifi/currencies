@@ -1,6 +1,8 @@
 contracts:
   - address: '0xda3bd278a39ae57439ee26b361118173bc70f21f'
     platform: MATIC
+  - address: '0x9FE869D94664C1C5ea90536c4a66F90B0A86A651'
+    platform: MATIC
 crypto: true
 fiat: false
 id: EGPT

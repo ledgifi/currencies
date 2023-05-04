@@ -1,6 +1,8 @@
 contracts:
   - address: '0xADCa52302e0a6c2d5D68EDCdB4Ac75DeB5466884'
     platform: BNB
+  - address: '0x168e3b1746aa249a9b3603b70605924fe255ee1a'
+    platform: BNB
 crypto: true
 fiat: false
 id: GMR

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xfd25676fc2c4421778b18ec7ab86e7c5701df187'
     platform: ETH
+  - address: '0xB62D46A21fef0fADb5b92fC5eF7077E71e65631c'
+    platform: ETH
 crypto: true
 fiat: false
 id: ACOIN1

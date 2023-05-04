@@ -1,6 +1,8 @@
 contracts:
   - address: '0xf32398dae246C5f672B52A54e9B413dFFcAe1A44'
     platform: AVAX
+  - address: '0x366e293a5cf90a0458d9ff9f3f92234da598f62e'
+    platform: MATIC
 crypto: true
 fiat: false
 id: KACY

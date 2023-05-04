@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7874CAFf04AFB8B6f5cbBE3ebec3f83Fcd882272'
     platform: BNB
+  - address: '0xbad96ea5d43156a99a94cd1fd36a330aa7e2273e'
+    platform: ETH
 crypto: true
 fiat: false
 id: JDB

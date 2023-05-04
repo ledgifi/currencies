@@ -1,8 +1,12 @@
 contracts:
   - address: '0x88d7e9b65dc24cf54f5edef929225fc3e1580c25'
     platform: BNB
+  - address: '0x1d18d0386f51ab03e7e84e71bda1681eba865f1f'
+    platform: CELO
   - address: '0x420a24c9c65bd44c48bfB1cC8D6cD1ea8B1Ac840'
     platform: ETH
+  - address: '0x03cf5d93ca7c70ce0a21a09f4d70779d2c66b25a'
+    platform: MATIC
 crypto: true
 fiat: false
 id: JMPT

@@ -1,4 +1,7 @@
 color: '#36a9cf'
+contracts:
+  - address: '0xc69Eba65e87889f0805dB717Af06797055A0BA07'
+    platform: AVAX
 crypto: true
 decimals: 8
 fiat: false

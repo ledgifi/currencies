@@ -1,3 +1,12 @@
+contracts:
+  - address: '0x3cb7378565718c64ab86970802140cc48ef1f969'
+    platform: BNB
+  - address: '0xDb0f18081b505A7DE20B18ac41856BCB4Ba86A1a'
+    platform: ETH
+  - address: '0x66e212d287e547c2c93cfe50795543c025ca9ee3'
+    platform: OKT
+  - address: 00c59fcd27a562d6397883eab1f2fff56e58ef80
+    platform: ONT
 crypto: true
 decimals: 8
 fiat: false
