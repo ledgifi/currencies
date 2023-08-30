@@ -1,10 +1,12 @@
 contracts:
-  - address: '0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539'
+  - address: '0xE15A66b7B8e385CAa6F69FD0d55984B96D7263CF'
+    platform: ETH
+  - address: '0xAb1B1680f6037006e337764547fb82d17606c187'
     platform: MATIC
 crypto: true
 fiat: false
 id: ADDY
-id_coinmarketcap: '21357'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21357.png
+id_coingecko: arch-usd-div-yield
+logo: https://arch-finance-basket-logos.s3.amazonaws.com/ADDY.png
 logoKey: currencies/addy.png
-name: Adamant
+name: Arch USD Diversified Yield

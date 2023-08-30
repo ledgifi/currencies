@@ -1,14 +1,12 @@
 contracts:
-  - address: '0x35de111558f691f77f791fb0c08b2d6b931a9d47'
-    platform: BNB
-  - address: '0xC4C2614E694cF534D407Ee49F8E44D125E4681c4'
+  - address: '0x0d20e86AbAb680C038Ac8bBDc1446585e67f8951'
     platform: ETH
-  - address: '0xd55fCe7CDaB84d84f2EF3F99816D765a2a94a509'
+  - address: '0x9a41E03fEF7f16f552C6FbA37fFA7590fb1Ec0c4'
     platform: MATIC
 crypto: true
 fiat: false
 id: CHAIN
-id_coinmarketcap: '6744'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6744.png
+id_coingecko: arch-blockchains
+logo: https://arch-finance-basket-logos.s3.amazonaws.com/CHAINS.png
 logoKey: currencies/chain.png
-name: Chain Games
+name: Arch Blockchains
