@@ -4,8 +4,10 @@ contracts:
   - address: '0xcf0c122c6b73ff809c693db761e7baebe62b6a2e'
     platform: ETH
 crypto: true
+decimals: 2
 fiat: false
 id: FLOKI
+id_binance: '1187'
 id_coinmarketcap: '10804'
 id_nomics: FLOKI
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLOKI.png
