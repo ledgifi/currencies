@@ -5,6 +5,8 @@ contracts:
     platform: ETH
   - address: '0xBcD2C5C78000504EFBC1cE6489dfcaC71835406A'
     platform: MATIC
+  - address: '0xC4ea087fc2cB3a1D9ff86c676F03abE4F3EE906F'
+    platform: MATIC
 crypto: true
 fiat: false
 id: WEB3
@@ -13,4 +15,4 @@ id_coingecko: arch-ethereum-web3
 id_coinmarketcap: '21146'
 logo: https://arch-finance-basket-logos.s3.amazonaws.com/ETHWEB3.png
 logoKey: currencies/web3.png
-name: Arch Ethereum Web3
+name: Arch Web3

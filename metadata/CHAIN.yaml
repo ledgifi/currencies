@@ -5,6 +5,8 @@ contracts:
     platform: ETH
   - address: '0x9a41E03fEF7f16f552C6FbA37fFA7590fb1Ec0c4'
     platform: MATIC
+  - address: '0x70A13201Df2364B634cb5Aac8d735Db3A654b30c'
+    platform: MATIC
 crypto: true
 fiat: false
 id: CHAIN
