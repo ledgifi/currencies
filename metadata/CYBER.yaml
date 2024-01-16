@@ -1,10 +1,11 @@
 contracts:
-  - address: CYBER-489c1c
-    platform: EGLD
+  - address: 0x14778860e937f509e651192a90589de711fb88a9
+    platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: CYBER
-id_coinmarketcap: '23879'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23879.png
-logoKey: currencies/cyber.png
-name: Cyberpunk City
+id_binance: '1207'
+id_coinmarketcap: '24781'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24781.png
+name: CyberConnect
