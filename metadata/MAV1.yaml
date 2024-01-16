@@ -1,9 +1,10 @@
+contracts:
+  - address: '0xbe1dbe6741fb988fb571ab1e28cffb36e3c62629'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
 id: MAV1
-id_binance: '1195'
-id_coinmarketcap: '18037'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18037.png
-logoKey: currencies/mav1.png
-name: Maverick Protocol
+id_coinmarketcap: '19642'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19642.png
+name: Massive Protocol
