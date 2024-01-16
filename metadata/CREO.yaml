@@ -2,8 +2,10 @@ contracts:
   - address: '0x9521728bF66a867BC65A93Ece4a543D817871Eb7'
     platform: BNB
 crypto: true
+decimals: 8
 fiat: false
 id: CREO
+id_binance: '1262'
 id_coinmarketcap: '17000'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17000.png
 logoKey: currencies/creo.png

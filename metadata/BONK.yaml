@@ -2,8 +2,10 @@ contracts:
   - address: DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263
     platform: SOL
 crypto: true
+decimals: 2
 fiat: false
 id: BONK
+id_binance: '1250'
 id_coinmarketcap: '23095'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23095.png
 logoKey: currencies/bonk.png

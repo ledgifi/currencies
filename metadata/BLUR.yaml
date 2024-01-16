@@ -2,8 +2,10 @@ contracts:
   - address: '0x5283d291dbcf85356a21ba090e6db59121208b44'
     platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: BLUR
+id_binance: '1237'
 id_coinmarketcap: '23121'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23121.png
 logoKey: currencies/blur.png

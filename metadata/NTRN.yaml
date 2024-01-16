@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: NTRN
+id_binance: '1192'
 id_coinmarketcap: '894'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/894.png
 logoKey: currencies/ntrn.png

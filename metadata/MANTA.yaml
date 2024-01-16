@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: MANTA
+id_binance: '1263'
 id_coinmarketcap: '13631'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13631.png
 logoKey: currencies/manta.png
