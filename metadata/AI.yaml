@@ -1,11 +1,11 @@
 contracts:
-  - address: '0x5121e348e897daef1eef23959ab290e5557cf274'
-    platform: ETH
+  - address: '0xBDA011D7F8EC00F66C1923B049B94c67d148d8b2'
+    platform: BNB
 crypto: true
+decimals: 8
 fiat: false
 id: AI
-id_coinmarketcap: '2224'
-id_nomics: AI
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AI.png
-logoKey: currencies/ai.png
-name: Poly AI
+id_binance: '1258'
+id_coinmarketcap: '28846'
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20231226/9b31c2c5-08df-4352-bd0f-34c2fcbad763.png
+name: Sleepless AI
