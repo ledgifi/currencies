@@ -1,10 +1,11 @@
 contracts:
-  - address: '0x35e78b3982e87ecfd5b3f3265b601c046cdbe232'
-    platform: ETH
+  - address: '0x4Cb9a7AE498CEDcBb5EAe9f25736aE7d428C9D66'
+    platform: ARB
 crypto: true
+decimals: 8
 fiat: false
 id: XAI
-id_coinmarketcap: '11726'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11726.png
-logoKey: currencies/xai.png
-name: SideShift Token
+id_binance: '1260'
+id_coinmarketcap: '28933'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28933.png
+name: Xai
