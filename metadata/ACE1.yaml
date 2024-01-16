@@ -2,10 +2,8 @@ contracts:
   - address: '0x06147110022b768ba8f99a8f385df11a151a9cc8'
     platform: ETH
 crypto: true
-decimals: 8
 fiat: false
 id: ACE1
-id_binance: '1246'
 id_coinmarketcap: '2311'
 id_nomics: ACE
 name: TokenStars Ace
