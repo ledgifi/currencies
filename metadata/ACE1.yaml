@@ -1,10 +1,11 @@
 contracts:
-  - address: '0xfaaa87943bfca6d97434be3d26c589647fea4375'
-    platform: BNB
+  - address: '0x06147110022b768ba8f99a8f385df11a151a9cc8'
+    platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: ACE1
-id_coinmarketcap: '22307'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22307.png
-logoKey: currencies/ace1.png
-name: ACEToken
+id_binance: '1246'
+id_coinmarketcap: '2311'
+id_nomics: ACE
+name: TokenStars Ace
