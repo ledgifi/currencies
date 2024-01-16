@@ -1,10 +1,11 @@
 contracts:
-  - address: '0x824E35f7A75324f99300aFAC75ECF7354E17Ea26'
-    platform: ETH
+  - address: 'ibc/D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877'
+    platform: OSMO
 crypto: true
+decimals: 8
 fiat: false
 id: TIA
-id_coinmarketcap: '18411'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18411.png
-logoKey: currencies/tia.png
-name: TIA
+id_binance: '1227'
+id_coinmarketcap: '22861'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22861.png
+name: Celestia
