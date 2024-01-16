@@ -1,11 +1,9 @@
-color: '#35a5f3'
+contracts:
+  - address: '0x953e22945b416730bad05009af05b420e598e412'
+    platform: ETH
 crypto: true
-decimals: 8
 fiat: false
-id: GXS
-id_binance: '99'
-id_coinmarketcap: '1750'
-id_nomics: GXS
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1750.png
-logoKey: currencies/gxc.png
-name: GXChain
+id: GXC
+id_coinmarketcap: '4148'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4148.png
+name: GameXCoin
