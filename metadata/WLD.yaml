@@ -1,10 +1,11 @@
 contracts:
-  - address: '0xa936e1f747d14fc30d08272d065c8aef4ab7f810'
-    platform: MATIC
+  - address: '0x163f8c2467924be0ae7b5347228cabf260318753'
+    platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: WLD
-id_coinmarketcap: '18525'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18525.png
-logoKey: currencies/wld.png
-name: Wolf Works DAO
+id_binance: '1203'
+id_coinmarketcap: '13502'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13502.png
+name: Worldcoin
