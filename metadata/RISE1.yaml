@@ -2,6 +2,7 @@ crypto: true
 fiat: false
 id: RISE1
 id_coinmarketcap: '1294'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1294.png
-logoKey: currencies/rise1.png
+id_coinpaprika: rise-rise
+id_nomics: RISE
+logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/rise.svg
 name: Rise
