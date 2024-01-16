@@ -1,7 +1,11 @@
+contracts:
+  - address: '0x05d3606d5c81eb9b7b18530995ec9b29da05faba'
+    platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: VIC
-id_coinmarketcap: '4572'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4572.png
-logoKey: currencies/vic.png
-name: Viridi
+id_binance: '1235'
+id_coinmarketcap: '2570'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2570.png
+name: Viction
