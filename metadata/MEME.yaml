@@ -1,7 +1,11 @@
+contracts:
+  - address: '0xb131f4a55907b10d1f0a50d8ab8fa09ec342cd74'
+    platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: MEME
-id_coinmarketcap: '1191'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1191.png
-logoKey: currencies/meme.png
-name: Memetic / PepeCoin
+id_binance: '1226'
+id_coinmarketcap: '28301'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28301.png
+name: Memecoin

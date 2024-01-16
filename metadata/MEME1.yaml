@@ -1,12 +1,6 @@
-contracts:
-  - address: '0xd5525d397898e5502075ea5e830d8914f6f0affe'
-    platform: ETH
-  - address: '0x512a2Eb0277573ae9Be0d48c782590b624048fdF'
-    platform: GNO
 crypto: true
 fiat: false
 id: MEME1
-id_coinmarketcap: '6597'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6597.png
-logoKey: currencies/meme1.png
-name: Degenerator Meme
+id_coinmarketcap: '1191'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1191.png
+name: Memetic / PepeCoin
