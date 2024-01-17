@@ -5,4 +5,6 @@ crypto: true
 fiat: false
 id: $WINU
 id_coinmarketcap: '16575'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16575.png
+logoKey: currencies/$winu.png
 name: Walter Inu

@@ -5,4 +5,6 @@ crypto: true
 fiat: false
 id: $AOW
 id_coinmarketcap: '12028'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12028.png
+logoKey: currencies/$aow.png
 name: Art of War

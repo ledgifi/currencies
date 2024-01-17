@@ -5,4 +5,6 @@ crypto: true
 fiat: false
 id: $SBD
 id_coinmarketcap: '10447'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10447.png
+logoKey: currencies/$sbd.png
 name: Scooby

@@ -5,4 +5,6 @@ crypto: true
 fiat: false
 id: $STRAW
 id_coinmarketcap: '21494'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21494.png
+logoKey: currencies/$straw.png
 name: Strawberry Share

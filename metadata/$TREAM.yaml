@@ -5,4 +5,6 @@ crypto: true
 fiat: false
 id: $TREAM
 id_coinmarketcap: '11006'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11006.png
+logoKey: currencies/$tream.png
 name: World Stream Finance

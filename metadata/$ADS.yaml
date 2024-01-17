@@ -5,4 +5,6 @@ crypto: true
 fiat: false
 id: $ADS
 id_coinmarketcap: '11036'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11036.png
+logoKey: currencies/$ads.png
 name: Alkimi

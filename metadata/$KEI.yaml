@@ -5,4 +5,6 @@ crypto: true
 fiat: false
 id: $KEI
 id_coinmarketcap: '10048'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10048.png
+logoKey: currencies/$kei.png
 name: Keisuke Inu

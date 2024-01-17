@@ -5,4 +5,6 @@ crypto: true
 fiat: false
 id: $PGS
 id_coinmarketcap: '22613'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22613.png
+logoKey: currencies/$pgs.png
 name: Pegasus PoW

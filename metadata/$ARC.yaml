@@ -5,4 +5,6 @@ crypto: true
 fiat: false
 id: $ARC
 id_coinmarketcap: '21327'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21327.png
+logoKey: currencies/$arc.png
 name: Arcadia Token

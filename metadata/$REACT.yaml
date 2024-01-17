@@ -5,4 +5,6 @@ crypto: true
 fiat: false
 id: $REACT
 id_coinmarketcap: '19516'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19516.png
+logoKey: currencies/$react.png
 name: Rebase Aggregator Capital

@@ -5,4 +5,6 @@ crypto: true
 fiat: false
 id: $HYBRID
 id_coinmarketcap: '19613'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19613.png
+logoKey: currencies/$hybrid.png
 name: Hybrid

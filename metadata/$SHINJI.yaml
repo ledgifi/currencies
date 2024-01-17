@@ -7,4 +7,6 @@ crypto: true
 fiat: false
 id: $SHINJI
 id_coinmarketcap: '17673'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17673.png
+logoKey: currencies/$shinji.png
 name: ShinjiRai

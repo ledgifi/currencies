@@ -5,4 +5,6 @@ crypto: true
 fiat: false
 id: $MUNDO
 id_coinmarketcap: '18528'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18528.png
+logoKey: currencies/$mundo.png
 name: Mundo

@@ -5,4 +5,6 @@ crypto: true
 fiat: false
 id: $CITIZEN
 id_coinmarketcap: '11641'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11641.png
+logoKey: currencies/$citizen.png
 name: KONG Land

@@ -7,4 +7,6 @@ crypto: true
 fiat: false
 id: $GENE
 id_coinmarketcap: '15169'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15169.png
+logoKey: currencies/$gene.png
 name: GenomesDao

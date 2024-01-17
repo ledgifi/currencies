@@ -5,4 +5,6 @@ crypto: true
 fiat: false
 id: $ALPHA1
 id_coinmarketcap: '18300'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18300.png
+logoKey: currencies/$alpha1.png
 name: Alpha Shares(Old)

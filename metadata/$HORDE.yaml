@@ -5,4 +5,6 @@ crypto: true
 fiat: false
 id: $HORDE
 id_coinmarketcap: '19094'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19094.png
+logoKey: currencies/$horde.png
 name: Horde Token

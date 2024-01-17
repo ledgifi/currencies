@@ -5,4 +5,6 @@ crypto: true
 fiat: false
 id: $ZBUX
 id_coinmarketcap: '19064'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19064.png
+logoKey: currencies/$zbux.png
 name: Meta4Dead

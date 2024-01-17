@@ -2,4 +2,6 @@ crypto: true
 fiat: false
 id: $$$
 id_coinmarketcap: '1110'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1110.png
+logoKey: currencies/$$$.png
 name: Money

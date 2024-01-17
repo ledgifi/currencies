@@ -5,4 +5,6 @@ crypto: true
 fiat: false
 id: $JOKE
 id_coinmarketcap: '16311'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16311.png
+logoKey: currencies/$joke.png
 name: Joke Community
