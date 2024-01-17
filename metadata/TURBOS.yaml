@@ -1,0 +1,9 @@
+contracts:
+  - address: 0x5d1f47ea69bb0de31c313d7acf89b890dbb8991ea8e03c6c355171f84bb1ba4a::turbos::TURBOS
+    platform: SUI
+crypto: true
+fiat: false
+id: TURBOS
+id_coinmarketcap: '25179'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25179.png
+name: Turbos Finance

@@ -1,0 +1,9 @@
+contracts:
+  - address: '0xae7ab96520de3a18e5e111b5eaab095312d7fe84'
+    platform: ETH
+crypto: true
+fiat: false
+id: stETH1
+id_coinmarketcap: '8085'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8085.png
+name: Lido Staked ETH

@@ -1,0 +1,9 @@
+contracts:
+  - address: 0xf0fe2210b4f0c4e3aff7ed147f14980cf14f1114c6ad8fd531ab748ccf33373b::bswt::BSWT
+    platform: SUI
+crypto: true
+fiat: false
+id: BSWT
+id_coinmarketcap: '26433'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26433.png
+name: BaySwap

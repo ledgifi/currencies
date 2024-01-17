@@ -1,0 +1,9 @@
+contracts:
+  - address: 0xb779486cfd6c19e9218cc7dc17c453014d2d9ba12d2ee4dbb0ec4e1e02ae1cca::spt::SPT
+    platform: SUI
+crypto: true
+fiat: false
+id: SPT5
+id_coinmarketcap: '26655'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26655.png
+name: SeaPad

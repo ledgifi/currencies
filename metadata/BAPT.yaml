@@ -1,0 +1,9 @@
+contracts:
+  - address: 0xb73a7b82af68fc1ba6e123688b95adec1fec0bcfc256b5d3a43de227331a7abd::baptlabs::BaptLabs
+    platform: APT
+crypto: true
+fiat: false
+id: BAPT
+id_coinmarketcap: '24260'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24260.png
+name: BaptLabs

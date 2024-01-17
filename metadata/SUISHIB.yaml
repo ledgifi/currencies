@@ -1,0 +1,9 @@
+contracts:
+  - address: 0x1e520f3bb4b93938cf2bc90fb8d709ed3042dbf3c0290824c0ace15e583e8162::suishiba::SUISHIBA
+    platform: SUI
+crypto: true
+fiat: false
+id: SUISHIB
+id_coinmarketcap: '25398'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25398.png
+name: SuiShiba
