@@ -14,6 +14,8 @@ contracts:
     platform: NEAR
   - address: '0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921'
     platform: OP
+  - address: '0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

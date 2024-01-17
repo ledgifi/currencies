@@ -1,6 +1,8 @@
 contracts:
   - address: 602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7
     platform: NEO
+  - address: '0xd2a4cff31913016155e38e474a2c06d08be276cf'
+    platform: NEO
 crypto: true
 decimals: 8
 fiat: false

@@ -1,10 +1,18 @@
 contracts:
   - address: '0x6e7118b82fB9608342c288a90eEb5E614AaeE2E9'
     platform: ARB
+  - address: '0x4e0da40b9063dc48364c1c0ffb4ae9d091fc2270'
+    platform: ARB
   - address: '0xaD1898d4d222ccB2Ae8e36585c7BF2A59984a736'
+    platform: BNB
+  - address: '0x4e0da40b9063dc48364c1c0ffb4ae9d091fc2270'
     platform: BNB
   - address: '0x6e7118b82fB9608342c288a90eEb5E614AaeE2E9'
     platform: MATIC
+  - address: '0x4e0da40b9063dc48364c1c0ffb4ae9d091fc2270'
+    platform: MATIC
+  - address: '0x4e0da40b9063dc48364c1c0ffb4ae9d091fc2270'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

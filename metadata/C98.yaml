@@ -7,6 +7,8 @@ contracts:
     platform: MATIC
   - address: C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9
     platform: SOL
+  - address: '0x0Fd0288AAAE91eaF935e2eC14b23486f86516c8C'
+    platform: VIC
 crypto: true
 decimals: 8
 fiat: false

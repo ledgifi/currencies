@@ -1,6 +1,10 @@
 contracts:
   - address: TROY-9B8
     platform: BNB
+  - address: '0x6d41F64C567acbF36f88763306fF6fB50fF61458'
+    platform: BNB
+  - address: '0x4574562e9310a94f9ca962bd23168d8a06875b1a'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false

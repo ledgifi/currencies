@@ -14,12 +14,18 @@ contracts:
     platform: KLAY
   - address: aurora
     platform: NEAR
+  - address: ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5
+    platform: OSMO
   - address: '0x1D931Bf8656d795E50eF6D639562C5bD8Ac2B78f'
     platform: RBTC
   - address: 2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk
     platform: SOL
+  - address: '0x49d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7'
+    platform: STRK
   - address: '0x2eaa73bd0db20c64f53febea7b5f5e5bccc7fb8b'
     platform: TOMO
+  - address: '0x2eaa73bd0db20c64f53febea7b5f5e5bccc7fb8b'
+    platform: VIC
   - address: '0x85219708c49aa701871ad330a94ea0f41dff24ca'
     platform: VLX
   - address: '0x0200070000000000000000000000000000000000000000000000000000000000'

@@ -2,6 +2,8 @@ color: '#5942cc'
 contracts:
   - address: '0x23a941036ae778ac51ab04cea08ed6e2fe103614'
     platform: ARB
+  - address: '0x9623063377AD1B27544C965cCd7342f7EA7e88C7'
+    platform: ARB
   - address: '0x8a0cAc13c7da965a312f08ea4229c37869e85cB9'
     platform: AVAX
   - address: '0xc944e90c64b2c07662a292be6244bdf05cda44a7'

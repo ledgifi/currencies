@@ -5,6 +5,8 @@ contracts:
     platform: BNB
   - address: '0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85'
     platform: ETH
+  - address: ibc/5D1F516200EE8C6B2354102143B78A2DEDA25EDE771AC0F8DC3C1837C8FD4447
+    platform: OSMO
 crypto: true
 decimals: 8
 fiat: false

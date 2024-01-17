@@ -1,3 +1,6 @@
+contracts:
+  - address: ibc/785AFEC6B3741100D15E7AF01374E3C4C36F24888E96479B1C33F5C71F364EF9
+    platform: OSMO
 crypto: true
 decimals: 8
 fiat: false

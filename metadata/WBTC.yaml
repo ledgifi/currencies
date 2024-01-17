@@ -40,14 +40,22 @@ contracts:
     platform: ONE
   - address: '0x68f180fcce6836688e9084f035309e29bf0a2095'
     platform: OP
+  - address: ibc/D1542AA8762DB13087D8364F3EA6509FD6F009A34F00426AF9E4F9FA85CBBF1F
+    platform: OSMO
   - address: 3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh
     platform: SOL
+  - address: '0x3fe2b97c1fd336e750087d68b9b867997fd64a2661ff3ca5a7c771641e8e7ac'
+    platform: STRK
   - address: SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.token-wbtc
     platform: STX
   - address: '0xf390830df829cf22c53c8840554b98eafc5dcbc2'
     platform: TLOS
   - address: '0x503b2ddc059b81788fd1239561596614b27faade'
     platform: TOMO
+  - address: EQDcBkGHmC4pTf34x3Gm05XvepO5w60DNxZ-XT4I6-UGG5L5
+    platform: TON
+  - address: '0x503b2ddc059b81788fd1239561596614b27faade'
+    platform: VIC
   - address: '0x313dbD8e65C6499dE939e5317cA97Ccc6eD4c621'
     platform: VLX
   - address: 8LQW8f7P5d5PZM7GtZEBgaqRPGSzS3DfPuiXrURJ4AJS

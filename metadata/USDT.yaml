@@ -28,6 +28,8 @@ contracts:
     platform: CFX
   - address: '0x9Ebab27608bD64AFf36f027049aECC69102a0D1e'
     platform: CORE
+  - address: '0x900101d06A7426441Ae63e9AB3B9b0F63Be145F1'
+    platform: CORE
   - address: '0x66e428c3f67a68878562e79A0234c1F83c208770'
     platform: CRO
   - address: '0x79F1520268A20c879EF44d169A4E3812D223C6de'
@@ -66,24 +68,34 @@ contracts:
     platform: KLAY
   - address: terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva
     platform: LUNC
+  - address: '0xf417f5a458ec102b90352f697d6e2ac3a3d2851f'
+    platform: MANTA
   - address: '0xc2132d05d31c914a87c6611c10748aeb04b58e8f'
     platform: MATIC
   - address: '0x1e4a5963abfd975d8c9021ce480b42188849d41d'
     platform: MATIC
   - address: '0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc'
     platform: METIS
+  - address: '0x201eba5cc46d216ce6dc03f6a759e8e766e956ae'
+    platform: MNT
   - address: '0xe936caa7f6d9f5c9e907111fcaf7c351c184cda7'
     platform: MOVR
   - address: '0x5fa41671c48e3c951afc30816947126ccc8c162e'
     platform: MTRG
   - address: dac17f958d2ee523a2206206994597c13d831ec7.factory.bridge.near
     platform: NEAR
+  - address: '0x5f0155d08ef4aae2b500aefb64a3419da8bb611a'
+    platform: NEON
   - address: '0x382bb369d343125bfb2117af9c149795c6c65c50'
     platform: OKT
   - address: '0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f'
     platform: ONE
   - address: '0x94b008aa00579c1307b0ef2c499ad98a8ce58e58'
     platform: OP
+  - address: ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB
+    platform: OSMO
+  - address: '0x0cb6f5a34ad42ec934882a05265a7d5f59b51a2f'
+    platform: PLS
   - address: '0xEf213441a85DF4d7acBdAe0Cf78004E1e486BB96'
     platform: RBTC
   - address: '0x73e84bfd35c3f1537a72180d1481e1eabf64b70b'
@@ -94,6 +106,10 @@ contracts:
     platform: SCRT
   - address: Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB
     platform: SOL
+  - address: '0x68f5c6a61780768455de69077e07e89787839bf8166decfbf92b645209c0fb8'
+    platform: STRK
+  - address: 0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN
+    platform: SUI
   - address: '0x922D641a426DcFFaeF11680e5358F34d97d112E1'
     platform: SYS
   - address: '0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73'
@@ -106,6 +122,8 @@ contracts:
     platform: TRX
   - address: '0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82'
     platform: TT
+  - address: '0x381b31409e4d220919b2cff012ed94d70135a59e'
+    platform: VIC
   - address: '0x01445c31581c354b7338ac35693ab2001b50b9ae'
     platform: VLX
   - address: 34N9YcEETLWn93qYQ64EsP1x89tSruJU44RrEMSXXEPJ

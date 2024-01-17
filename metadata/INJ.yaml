@@ -5,6 +5,10 @@ contracts:
     platform: BNB
   - address: '0xe28b3b32b6c345a34ff64674606124dd5aceca30'
     platform: ETH
+  - address: inj
+    platform: INJ
+  - address: ibc/64BA6E31FE887D66C6F8F31C7B1A80C7CA179239677B4088BB55F5EA07DBE273
+    platform: OSMO
 crypto: true
 decimals: 8
 fiat: false

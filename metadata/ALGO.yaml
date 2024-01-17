@@ -1,4 +1,7 @@
 color: '#000000'
+contracts:
+  - address: '0'
+    platform: ALGO
 crypto: true
 decimals: 8
 fiat: false

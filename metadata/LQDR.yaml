@@ -1,6 +1,22 @@
 contracts:
+  - address: '0x816E21c33fa5F8440EBcDF6e01D39314541BEA72'
+    platform: ARB
+  - address: '0x873ebFf537F58e96899f6EbA33dC07151Bc5818b'
+    platform: AVAX
+  - address: '0x4b6B3d425F82248996D77EcC3F3df1E500aaC1db'
+    platform: BNB
+  - address: '0x98504C8afa7c74c87a0641a7bb0F7968d4e8F471'
+    platform: ETH
   - address: '0x10b620b2dbac4faa7d7ffd71da486f5d44cd86f9'
     platform: FTM
+  - address: '0x4b6B3d425F82248996D77EcC3F3df1E500aaC1db'
+    platform: FTM
+  - address: '0x332c72dd7E77070740F01d2d35851c461585D5d0'
+    platform: KAVA
+  - address: '0x0294D8eB7857D43FEb1210Db72456d41481f9Ede'
+    platform: MATIC
+  - address: '0x332c72dd7E77070740F01d2d35851c461585D5d0'
+    platform: OP
 crypto: true
 decimals: 8
 fiat: false

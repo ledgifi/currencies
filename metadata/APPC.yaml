@@ -1,4 +1,7 @@
 color: '#fd875e'
+contracts:
+  - address: '0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false

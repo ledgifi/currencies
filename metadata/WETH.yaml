@@ -53,6 +53,8 @@ contracts:
     platform: MATIC
   - address: '0x420000000000000000000000000000000000000a'
     platform: METIS
+  - address: '0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111'
+    platform: MNT
   - address: '0x576fDe3f61B7c97e381c94e7A03DBc2e08Af1111'
     platform: MOVR
   - address: '0x79a61d3a28f8c8537a3df63092927cfa1150fb3c'
@@ -69,6 +71,10 @@ contracts:
     platform: ROSE
   - address: 7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs
     platform: SOL
+  - address: '0x4200000000000000000000000000000000000006'
+    platform: TBA
+  - address: '0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f'
+    platform: TBA
   - address: '0x5aea5775959fbc2557cc8789bc1bf90a239d9a91'
     platform: TBD
   - address: '0xfa9343c3897324496a05fc75abed6bac29f8a40f'

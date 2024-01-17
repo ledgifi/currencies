@@ -8,6 +8,8 @@ contracts:
     platform: APT
   - address: '0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8'
     platform: ARB
+  - address: '0xaf88d065e77c8cC2239327C5EDb3A432268e5831'
+    platform: ARB
   - address: '0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98'
     platform: ASTR
   - address: ibc/D189335C6E4A68B513C10AB227BF1C1D38C746766278BA3EEB4FB14124F1D858
@@ -26,8 +28,14 @@ contracts:
     platform: BRISE
   - address: '0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd'
     platform: CANTO
+  - address: '0x37f750b7cc259a2f741af45294f6a16572cf5cad'
+    platform: CELO
   - address: '0x6963efed0ab40f6c3d7bda44a05dcf1437c44372'
     platform: CFX
+  - address: '0x186181e225dc1ad85a4a94164232bd261e351c33'
+    platform: CKB
+  - address: '0xa4151B2B3e269645181dCcF2D426cE75fcbDeca9'
+    platform: CORE
   - address: '0xc21223249CA28397B4B6541dfFaEcC539BfF0c59'
     platform: CRO
   - address: '0x765277eebeca2e31912c9946eae1021199b39c61'
@@ -70,14 +78,20 @@ contracts:
     platform: MATIC
   - address: '0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035'
     platform: MATIC
+  - address: '0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359'
+    platform: MATIC
   - address: '0xea32a96608495e54156ae48931a7c20f0dcc1a21'
     platform: METIS
+  - address: '0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9'
+    platform: MNT
   - address: '0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d'
     platform: MOVR
   - address: '0xd86e243fc0007e6226b07c9a50c9d70d78299eb5'
     platform: MTRG
   - address: a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.factory.bridge.near
     platform: NEAR
+  - address: '0xea6b04272f9f62f997f666f07d3a974134f7ffb9'
+    platform: NEON
   - address: '0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf'
     platform: NRG
   - address: '0xc946daf81b08146b1c7a8da2a851ddf2b3eaaf85'
@@ -86,6 +100,12 @@ contracts:
     platform: ONE
   - address: '0x7f5c764cbc14f9669b88837ca1490cca17c31607'
     platform: OP
+  - address: '0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85'
+    platform: OP
+  - address: ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4
+    platform: OSMO
+  - address: '0x15d38573d2feeb82e7ad5187ab8c1d52810b1f07'
+    platform: PLS
   - address: '0x0b7007c13325c48911f73a2dad5fa5dcbf808adc'
     platform: RON
   - address: '0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c'
@@ -94,10 +114,16 @@ contracts:
     platform: SCRT
   - address: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
     platform: SOL
+  - address: '0x53c91253bc9682c04929ca02ed00b3e423f6710d2ee7e0d5ebb06f3ecf368a8'
+    platform: STRK
+  - address: 0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN
+    platform: SUI
   - address: '0xe2aa35c2039bd0ff196a6ef99523cc0d3972ae3e'
     platform: SX
   - address: '0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c'
     platform: SYS
+  - address: '0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913'
+    platform: TBA
   - address: '0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4'
     platform: TBD
   - address: '0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b'
@@ -112,6 +138,8 @@ contracts:
     platform: TRX
   - address: '0x22e89898A04eaf43379BeB70bf4E38b1faf8A31e'
     platform: TT
+  - address: '0xcca4e6302510d555b654b3eab9c0fcb223bcfdf0'
+    platform: VIC
   - address: '0xe2c120f188ebd5389f71cf4d9c16d05b62a58993'
     platform: VLX
   - address: '0x52a9cea01c4cbdd669883e41758b8eb8e8e2b34b'

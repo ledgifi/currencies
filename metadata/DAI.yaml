@@ -44,8 +44,16 @@ contracts:
     platform: ONE
   - address: '0xda10009cbd5d07dd0cecc66161fc93d7c9000da1'
     platform: OP
+  - address: ibc/0CD3A0285E1341859B5E86B6AB7682F023D03E97607CCC1DC95706411D866DF7
+    platform: OSMO
+  - address: '0xefd766ccb38eaf1dfd701853bfce31359239f305'
+    platform: PLS
   - address: EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o
     platform: SOL
+  - address: '0xda114221cb83fa859dbdb4c44beeaa0bb37c7537ad5ae66fe5e0efd20e6eb3'
+    platform: STRK
+  - address: EQDo_ZJyQ_YqBzBwbVpMmhbhIddKtRP99HugZJ14aFscxi7B
+    platform: TON
   - address: '0x0200060000000000000000000000000000000000000000000000000000000000'
     platform: XOR
 crypto: true

@@ -7,6 +7,8 @@ contracts:
     platform: AVAX
   - address: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c'
     platform: BNB
+  - address: '0x4200000000000000000000000000000000000006'
+    platform: BNB
   - address: '0x94bd7a37d2ce24cc597e158facaa8d601083ffec'
     platform: CFX
   - address: '0xfa9343c3897324496a05fc75abed6bac29f8a40f'
@@ -27,10 +29,14 @@ contracts:
     platform: LUNC
   - address: '0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d'
     platform: MATIC
+  - address: ibc/F4A070A6D78496D53127EA85C094A9EC87DFC1F36071B8CCDDBD020F933D213D
+    platform: OSMO
   - address: '0x6D9659bdF5b1A1dA217f7BbAf7dBAF8190E2e71B'
     platform: RBTC
   - address: 9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa
     platform: SOL
+  - address: '0xf5C6825015280CdfD0b56903F9F8B5A2233476F5'
+    platform: TBA
   - address: '0x7400793aad94c8ca801aa036357d10f5fd0ce08f'
     platform: TBD
   - address: '0x2c78f1b70ccf63cdee49f9233e9faa99d43aa07e'

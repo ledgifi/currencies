@@ -1,6 +1,10 @@
 contracts:
   - address: '0x14778860e937f509e651192a90589de711fb88a9'
+    platform: BNB
+  - address: '0x14778860e937f509e651192a90589de711fb88a9'
     platform: ETH
+  - address: '0x14778860e937f509e651192a90589de711fb88a9'
+    platform: OP
 crypto: true
 decimals: 8
 fiat: false

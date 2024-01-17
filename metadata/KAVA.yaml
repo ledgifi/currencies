@@ -5,6 +5,8 @@ contracts:
     platform: ETH
   - address: '0x87D32F2C0A3D6D091772890C81E321026454a125'
     platform: MATIC
+  - address: ibc/57AA1A70A4BC9769C525EBF6386F7A21536E04A79D62E1981EFCEF9428EBB205
+    platform: OSMO
 crypto: true
 decimals: 8
 fiat: false

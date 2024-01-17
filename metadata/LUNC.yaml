@@ -11,6 +11,8 @@ contracts:
     platform: LUNC
   - address: '0x9cd6746665D9557e1B9a775819625711d0693439'
     platform: MATIC
+  - address: ibc/0EF15DF2F02480ADE0BB6E85D9EBB5DAEA2836D3860E9F97F9AADE4F57A31AA0
+    platform: OSMO
   - address: secret1ra7avvjh9fhr7dtr3djutugwj59ptctsrakyyw
     platform: SCRT
   - address: F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W
