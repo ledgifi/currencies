@@ -1,10 +1,12 @@
 contracts:
   - address: '0x4d67edef87a5ff910954899f4e5a0aaf107afd42'
     platform: ETH
+  - address: '0x24ccedebf841544c9e6a62af4e8c2fa6e5a46fde'
+    platform: ETH
 crypto: true
 fiat: false
 id: BLUESPARROW
-id_coinmarketcap: '14046'
+id_coinmarketcap: '20686'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14046.png
 logoKey: currencies/bluesparrow.png
 name: BlueSparrow Token (Old)
