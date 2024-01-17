@@ -3,6 +3,10 @@ contracts:
     platform: BNB
   - address: '0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea'
     platform: ETH
+  - address: '0xCDD981ef3330E159029e6E226dbD73d99F868f4d'
+    platform: ETH
+  - address: E5zwQBbYmkTW5UiF7vAFQaKpv9Ud6PavGgKp2vgAYb4Q
+    platform: SOL
 crypto: true
 fiat: false
 id: ERC20

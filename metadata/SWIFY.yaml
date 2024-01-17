@@ -1,6 +1,8 @@
 contracts:
   - address: '0x9c7376b5060c47e555f5f53005aa3d5a7c66f2fb'
     platform: ETH
+  - address: '0x48786d8be3f5239A67a7D04CbA3E9c5C4cef5159'
+    platform: ETH
 crypto: true
 fiat: false
 id: SWIFY

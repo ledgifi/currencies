@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7ff7a55a7c637e3953ab25569c335e04b96c475b'
     platform: ETH
+  - address: '0x7ca5af5ba3472af6049f63c1abc324475d44efc1'
+    platform: ETH
 crypto: true
 fiat: false
 id: KNDX

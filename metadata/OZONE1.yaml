@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xbf8bab33600d5bca18e4464e34c2a8d532031f5c'
+    platform: BNB
   - address: https://flow-view-source.com/mainnet/account/0x256599e1b091be12/contract/OzoneToken
     platform: FLOW
 crypto: true

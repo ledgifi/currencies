@@ -3,6 +3,8 @@ contracts:
     platform: ADA
   - address: '0xfea292e5ea4510881bdb840e3cec63abd43f936f'
     platform: BNB
+  - address: '0x42Baf1f659D765C65ADE5BB7E08eb2C680360d9d'
+    platform: ETH
 crypto: true
 fiat: false
 id: COPI

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xe53b185Ed220aB14460A9a2ac46e096Ff3a90171'
     platform: BNB
+  - address: '0x265969c618e3ea53b97261c8106df08bce8bec8f'
+    platform: BNB
 crypto: true
 fiat: false
 id: KUOR

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x69b0af16fdd2e80968eb505cd41dc26efb2b80bf'
     platform: BNB
+  - address: '0x0a44a7ccea34a7563ba1d45a5f757d0b02281124'
+    platform: ETH
 crypto: true
 fiat: false
 id: BBL

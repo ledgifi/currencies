@@ -1,6 +1,8 @@
 contracts:
   - address: '0xbfeA674ce7d16E26E39e3c088810367a708eF94C'
     platform: BNB
+  - address: '0x7ee8af92c7cc4aeea1fefe6b7b78d9b13eff0671'
+    platform: BNB
 crypto: true
 fiat: false
 id: APRIL

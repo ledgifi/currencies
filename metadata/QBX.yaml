@@ -1,6 +1,8 @@
 contracts:
   - address: '0x2467aa6b5a2351416fd4c3def8462d841feeecec'
     platform: ETH
+  - address: '0x26E1f9F817b3b5FC2146c01ae34826593E593962'
+    platform: ETH
 crypto: true
 fiat: false
 id: QBX

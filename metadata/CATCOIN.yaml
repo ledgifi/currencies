@@ -1,6 +1,12 @@
 contracts:
   - address: '0x06DF77854793849F770b6AF0AF4b22511df53A11'
     platform: BNB
+  - address: '0x59f4f336bf3d0c49dbfba4a74ebd2a6ace40539a'
+    platform: BNB
+  - address: '0x59f4f336bf3d0c49dbfba4a74ebd2a6ace40539a'
+    platform: ETH
+  - address: 7hWcHohzwtLddDUG81H2PkWq6KEkMtSDNkYXsso18Fy3
+    platform: SOL
 crypto: true
 fiat: false
 id: CATCOIN

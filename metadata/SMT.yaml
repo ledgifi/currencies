@@ -1,6 +1,8 @@
 contracts:
   - address: '0xb17548c7b510427baac4e267bea62e800b247173'
     platform: ETH
+  - address: '0xE631DABeF60c37a37d70d3B4f812871df663226f'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SMT

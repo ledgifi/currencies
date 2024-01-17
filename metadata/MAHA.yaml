@@ -5,6 +5,8 @@ contracts:
     platform: BNB
   - address: '0x745407c86df8db893011912d3ab28e68b62e49b0'
     platform: ETH
+  - address: '0x437ebdffd397860d0f7f1660d817c059f3b8238a'
+    platform: TBA
 crypto: true
 fiat: false
 id: MAHA

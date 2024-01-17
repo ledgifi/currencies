@@ -1,6 +1,8 @@
 contracts:
   - address: '0xaa54e84A3e6e5A80288d2C2f8e36eA5cA3A3Ca30'
     platform: ARB
+  - address: '0x3a71e24Aec6F1004780450dB9Bfaf6DCB72965fB'
+    platform: BONE
   - address: '0xf3a3023e6dede84ad88a656a3269f2a36e83c9a9'
     platform: ETH
 crypto: true

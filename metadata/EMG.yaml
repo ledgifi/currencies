@@ -1,6 +1,8 @@
 contracts:
   - address: '0x08Ce2D030CDD9B4661933504Cf4DadE5679a76Ec'
     platform: MATIC
+  - address: '0xA0aF9f13e067562AaE8E52a5Fb6A74FebfCF7D41'
+    platform: MATIC
 crypto: true
 fiat: false
 id: EMG

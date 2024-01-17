@@ -5,6 +5,8 @@ contracts:
     platform: ETH
   - address: '0x2bc07124d8dac638e290f401046ad584546bc47b'
     platform: MATIC
+  - address: '0xf7C1CEfCf7E1dd8161e00099facD3E1Db9e528ee'
+    platform: TBA
 crypto: true
 fiat: false
 id: TOWER

@@ -1,6 +1,10 @@
 contracts:
   - address: IBC/7A08C6F11EF0F59EB841B9F788A87EC9F2361C7D9703157EC13D940DC53031FA
     platform: ATOM
+  - address: '0x70edf1c215d0ce69e7f16fd4e6276ba0d99d4de7'
+    platform: ETH
+  - address: ibc/7A08C6F11EF0F59EB841B9F788A87EC9F2361C7D9703157EC13D940DC53031FA
+    platform: OSMO
 crypto: true
 fiat: false
 id: CHEQ

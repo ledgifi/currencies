@@ -3,6 +3,12 @@ contracts:
     platform: ARB
   - address: '0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0'
     platform: ETH
+  - address: '0x6c76971f98945ae98dd7d4dfca8711ebea946ea6'
+    platform: GNO
+  - address: '0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd'
+    platform: MATIC
+  - address: '0x1f32b1c2345538c0c6f582fcb022739c4a194ebb'
+    platform: OP
 crypto: true
 fiat: false
 id: WSTETH

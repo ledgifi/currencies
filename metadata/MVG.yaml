@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xc45de8ab31140e9ced1575ec53ffffa1e3062576'
+    platform: BNB
   - address: '0x99763494a7b545f983ee9fe02a3b5441c7ef1396'
     platform: VET
 crypto: true

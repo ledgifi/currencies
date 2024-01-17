@@ -1,8 +1,12 @@
 contracts:
+  - address: '0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca'
+    platform: ARB
   - address: ibc/BB6BCDB515050BAE97516111873CCD7BCF1FD0CCB723CC12F3C4F704D6C646CE
     platform: ATOM
   - address: '0x96543ef8d2C75C26387c1a319ae69c0BEE6f3fe7'
     platform: ETH
+  - address: ibc/BB6BCDB515050BAE97516111873CCD7BCF1FD0CCB723CC12F3C4F704D6C646CE
+    platform: OSMO
 crypto: true
 fiat: false
 id: KUJI

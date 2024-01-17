@@ -1,6 +1,8 @@
 contracts:
   - address: 0x27fafcc4e39daac97556af8a803dbb52bcb03f0821898dc845ac54225b9793eb::move_coin::MoveCoin
     platform: APT
+  - address: 0xd9f9b0b4f35276eecd1eea6985bfabe2a2bbd5575f9adb9162ccbdb4ddebde7f::smove::SMOVE
+    platform: SUI
 crypto: true
 fiat: false
 id: MOVE5

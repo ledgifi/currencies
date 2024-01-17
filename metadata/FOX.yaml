@@ -5,6 +5,8 @@ contracts:
     platform: GNO
   - address: '0x65A05DB8322701724c197AF82C9CaE41195B0aA8'
     platform: MATIC
+  - address: '0xF1a0DA3367BC7aa04F8D94BA57B862ff37CeD174'
+    platform: OP
 crypto: true
 fiat: false
 id: FOX

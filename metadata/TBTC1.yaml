@@ -1,6 +1,16 @@
 contracts:
+  - address: '0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40'
+    platform: ARB
   - address: '0x18084fba666a33d37592fa2633fd49a74dd93a88'
     platform: ETH
+  - address: '0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b'
+    platform: MATIC
+  - address: '0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40'
+    platform: OP
+  - address: 6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU
+    platform: SOL
+  - address: '0x236aa50979d5f3de3bd1eeb40e81137f22ab794b'
+    platform: TBA
 crypto: true
 fiat: false
 id: TBTC1

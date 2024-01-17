@@ -1,6 +1,8 @@
 contracts:
   - address: '0xbfff3571f9fd637ae7cfb63ac2112fd18264ce62'
     platform: BNB
+  - address: '0x2fc00683e0B83a5472CeFAF083baBE3bE9E7DFA6'
+    platform: BNB
 crypto: true
 fiat: false
 id: TARM1

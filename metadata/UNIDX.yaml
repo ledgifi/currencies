@@ -5,12 +5,20 @@ contracts:
     platform: BOBA
   - address: '0x95b3497bBcCcc46a8F45F5Cf54b0878b39f8D96C'
     platform: ETH
+  - address: '0xf0655dcee37e5c0b70fffd70d85f88f8edf0aff6'
+    platform: ETH
   - address: '0x2130d2a1e51112d349ccf78d2a1ee65843ba36e0'
+    platform: FTM
+  - address: '0x0483a76D80D0aFEC6bd2afd12C1AD865b9DF1471'
     platform: FTM
   - address: '0x9610b01AAa57Ec026001F7Ec5CFace51BfEA0bA6'
     platform: METIS
   - address: '0x5d47baba0d66083c52009271faf3f50dcc01023c'
     platform: OP
+  - address: '0x28b42698caf46b4b012cf38b6c75867e0762186d'
+    platform: OP
+  - address: '0x6B4712AE9797C199edd44F897cA09BC57628a1CF'
+    platform: TBA
 crypto: true
 fiat: false
 id: UNIDX

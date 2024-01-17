@@ -1,6 +1,8 @@
 contracts:
   - address: '0xee1ae38be4ce0074c4a4a8dc821cc784778f378c'
     platform: BNB
+  - address: '0x0617842A515ce9294af059bE917CA426Cc410fb1'
+    platform: MATIC
 crypto: true
 fiat: false
 id: VYNC

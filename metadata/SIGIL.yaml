@@ -1,6 +1,8 @@
 contracts:
   - address: '0xF029Fd6b5ED35C825Dd02B7A02952C30002840E4'
     platform: ETH
+  - address: '0x6fDb90535C09B82825e38D41edF5e66211D4B442'
+    platform: ETH
 crypto: true
 fiat: false
 id: SIGIL

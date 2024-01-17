@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x47166926900FA1E5c64E8a20b891A26cf58e5b6c'
+    platform: ETH
   - address: '0xfeD493F4c687140139CEE85a4728f5341137B646'
     platform: PLS
 crypto: true

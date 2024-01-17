@@ -4,6 +4,8 @@ contracts:
     platform: ETH
   - address: '0x68b741416153bBf5CB4FaEe0aA447f918fE5C322'
     platform: MATIC
+  - address: uion
+    platform: OSMO
 crypto: true
 fiat: false
 id: ION

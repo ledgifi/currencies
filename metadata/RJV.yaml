@@ -1,9 +1,15 @@
 contracts:
   - address: 8cfd6893f5f6c1cc954cec1a0a1460841b74da6e7803820dde62bb78
     platform: ADA
+  - address: 8cfd6893f5f6c1cc954cec1a0a1460841b74da6e7803820dde62bb78524a56
+    platform: ADA
   - address: '0x1135883a1bc6776bf90c97845adc491922106dfb'
     platform: BNB
+  - address: '0x602b6c6cce5f95c00603bd07d8fa7ebaf3747d44'
+    platform: BNB
   - address: '0x02c3296C6eb50249f290AE596F2bE9454bFfadaB'
+    platform: ETH
+  - address: '0xa1f410f13B6007fCa76833ee7eb58478D47Bc5Ef'
     platform: ETH
   - address: '0x264c1383EA520f73dd837F915ef3a732e204a493'
     platform: FITFI

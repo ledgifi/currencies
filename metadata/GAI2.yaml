@@ -1,6 +1,8 @@
 contracts:
   - address: '0xdEd483881DFA0E866B9FB0a48575A84eb2ACEf2f'
     platform: BNB
+  - address: '0xdEd483881DFA0E866B9FB0a48575A84eb2ACEf2f'
+    platform: ETH
 crypto: true
 fiat: false
 id: GAI2

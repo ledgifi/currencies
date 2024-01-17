@@ -1,6 +1,8 @@
 contracts:
   - address: '0xbc81ea817b579ec0334bca8e65e436b7cb540147'
     platform: BNB
+  - address: '0xc4a1e7106d08b7ff947254b6d75cf2b877d55daf'
+    platform: BNB
 crypto: true
 fiat: false
 id: LQR

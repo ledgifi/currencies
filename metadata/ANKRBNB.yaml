@@ -1,6 +1,8 @@
 contracts:
   - address: '0x52F24a5e03aee338Da5fd9Df68D2b6FAe1178827'
     platform: BNB
+  - address: '0x0c0efea731e3e9810c2b4822d5497eac107808ab'
+    platform: BNB
 crypto: true
 fiat: false
 id: ankrBNB

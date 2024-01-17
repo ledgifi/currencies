@@ -1,6 +1,10 @@
 contracts:
   - address: '0x968f9C44879F67a29B1BfcCf93ea82d46A72881F'
     platform: BNB
+  - address: '0xF1d08B2733ea83Eab3cb8c008Ccb4211351217DF'
+    platform: BNB
+  - address: '0xDF63f1b971d42d8A27D5d5E7b5937b853DDf6fa0'
+    platform: ETH
 crypto: true
 fiat: false
 id: ORC1

@@ -1,4 +1,6 @@
 contracts:
+  - address: b76a411794e016a96108e5149b269c3d81e35a2495d6bb68c5f6bf336ebe28c9i0
+    platform: BTC
   - address: '0xbff24592345094dfa4d6f75aff5be79abcbc9bd9'
     platform: CORE
 crypto: true

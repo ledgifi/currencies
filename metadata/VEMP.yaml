@@ -7,6 +7,8 @@ contracts:
     platform: FTM
   - address: '0x2c9a1d0e1226939edb7bbb68c43a080c28743c5c'
     platform: OKT
+  - address: '0xa712329708af665991c3fcff43bc5734924f7b9a'
+    platform: PLS
 crypto: true
 fiat: false
 id: VEMP

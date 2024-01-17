@@ -1,6 +1,8 @@
 contracts:
   - address: '0x9B38C08dFf43780358Cbc2792F4488490409299A'
     platform: BNB
+  - address: '0x57984789f0d1a7f9966c55b8425f20224036ba39'
+    platform: MATIC
 crypto: true
 fiat: false
 id: $STKC

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xdA179357B3E05CD91e0fde992c7eF4158b37EaFb'
     platform: BNB
+  - address: '0xAf7c3e578621aABAB184c706BAD94fFb1a2e0179'
+    platform: BNB
 crypto: true
 fiat: false
 id: DAOP

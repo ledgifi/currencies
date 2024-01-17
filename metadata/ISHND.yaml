@@ -5,6 +5,8 @@ contracts:
     platform: ETH
   - address: '0x9e6b19874e97fe8E8CAD77f2c0AB5E7a693E5dbf'
     platform: MATIC
+  - address: ' 0x9e6b19874e97fe8e8cad77f2c0ab5e7a693e5dbf'
+    platform: PLS
   - address: TV5MV8wjCY8xbJ6NfQSArP7xZRHHTw48No
     platform: TRX
 crypto: true

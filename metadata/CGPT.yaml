@@ -1,6 +1,8 @@
 contracts:
   - address: '0x9840652DC04fb9db2C43853633f0F62BE6f00f98'
     platform: BNB
+  - address: '0x25931894a86d47441213199621f1f2994e1c39aa'
+    platform: ETH
 crypto: true
 fiat: false
 id: CGPT

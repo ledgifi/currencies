@@ -1,6 +1,8 @@
 contracts:
   - address: '0x4EaafA85bDBe9B02930926C594F83e62B036B1be'
     platform: TOMO
+  - address: '0x4EaafA85bDBe9B02930926C594F83e62B036B1be'
+    platform: VIC
 crypto: true
 fiat: false
 id: TDAO2

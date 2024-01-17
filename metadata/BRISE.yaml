@@ -1,6 +1,8 @@
 contracts:
   - address: '0x8fff93e810a2edaafc326edee51071da9d398e83'
     platform: BNB
+  - address: '0xF2B2f7b47715256Ce4eA43363a867fdce9353e3A'
+    platform: ETH
 crypto: true
 fiat: false
 id: BRISE

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x20531fa8eaefaeb4e7d60523679f85d58f53ced9'
     platform: ETH
+  - address: '0x727CD3b1FCAEe2EE44218119Ef3B1F5fC370E67e'
+    platform: MATIC
 crypto: true
 fiat: false
 id: YODA

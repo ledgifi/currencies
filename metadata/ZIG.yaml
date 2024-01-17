@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xb2617246d0c6c0087f18703d576831899ca94f01'
     platform: ETH
+  - address: peggy0xb2617246d0c6c0087f18703d576831899ca94f01
+    platform: INJ
   - address: '0x7bebd226154e865954a87650faefa8f485d36081'
     platform: MATIC
   - address: ANqY8h3sRSwkC29FvGJenAh7VGRABVVx7Ls6Mq4BuGT

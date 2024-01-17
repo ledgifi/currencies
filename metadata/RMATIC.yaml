@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x117EefDdE5e5Aed6626fFEdBb5D2Ac955f64dBf3'
+    platform: BNB
   - address: '0x3dbb00c9be5a327e25caf4f650844c5dba81e34b'
     platform: ETH
+  - address: '0x9f28e2455f9ffcfac9ebd6084853417362bc5dbb'
+    platform: MATIC
 crypto: true
 fiat: false
 id: RMATIC

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7cF551258d6871b72EE1bD1624588a6245bF48c4'
     platform: BNB
+  - address: '0x7cf551258d6871b72ee1bd1624588a6245bf48c4'
+    platform: ETH
 crypto: true
 fiat: false
 id: CHITCAT

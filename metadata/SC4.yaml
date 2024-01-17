@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xAf84c508fEF42Dc8424bc123447F5968d2a86770'
+    platform: BNB
+  - address: '0x18104f8E31786F0f519fF59D1B24C31A2F8feF40'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SC4

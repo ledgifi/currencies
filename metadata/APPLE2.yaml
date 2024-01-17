@@ -1,6 +1,8 @@
 contracts:
   - address: '0x1779A7787f9200C75B0aC95e19E88C36307A5F03'
     platform: BNB
+  - address: '0xF3B55000f11C5114d206F7F7215A3d08c1287823'
+    platform: BNB
 crypto: true
 fiat: false
 id: APPLE2

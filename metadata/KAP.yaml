@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x965d00aA7ABC62CA10132e641D08593435aC811d'
+    platform: ARB
   - address: '0x9625ce7753ace1fa1865a47aae2c5c2ce4418569'
     platform: ETH
+  - address: '0xc27158bb8e08899d38765752f91d7d778e16ab8e'
+    platform: MATIC
 crypto: true
 fiat: false
 id: KAP

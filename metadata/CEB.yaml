@@ -1,6 +1,8 @@
 contracts:
   - address: '0x418A931a0Bc28D0d23CE39eB279E82b21a5fA78E'
     platform: ETH
+  - address: '0x7D7513BBa1Af295574C24bBE425873D0c431Ff9F'
+    platform: ETH
 crypto: true
 fiat: false
 id: CEB

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x2e6bfCD0d66B83E3d615cDf4751b64b2DF72f094'
     platform: BNB
+  - address: '0x0e9729a1db9e45ff08f64e6c4342be3921e993e0'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOD

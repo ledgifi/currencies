@@ -1,6 +1,8 @@
 contracts:
   - address: '0xb23d80f5fefcddaa212212f028021b41ded428cf'
     platform: ETH
+  - address: '0xfA980cEd6895AC314E7dE34Ef1bFAE90a5AdD21b'
+    platform: TBA
 crypto: true
 fiat: false
 id: PRIME

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa'
     platform: ETH
+  - address: '0xcDA86A272531e8640cD7F1a92c01839911B90bb0'
+    platform: MNT
 crypto: true
 fiat: false
 id: METH3

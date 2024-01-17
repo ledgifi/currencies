@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x25ec98773d7b4ced4cafab96a2a1c0945f145e10'
+    platform: ETH
   - address: TThzxNRLrW2Brp9DcTQU8i4Wd9udCWEdZ3
     platform: TRX
 crypto: true

@@ -1,4 +1,8 @@
 contracts:
+  - address: '137020565'
+    platform: ALGO
+  - address: '0x40225c6277b29bf9056b4acb7ee1512cbff11671'
+    platform: BNB
   - address: '0x396ec402b42066864c406d1ac3bc86b575003ed8'
     platform: ETH
 crypto: true

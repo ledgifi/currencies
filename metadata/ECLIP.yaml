@@ -1,6 +1,8 @@
 contracts:
   - address: '0x93ca0d85837ff83158cd14d65b169cdb223b1921'
     platform: ARB
+  - address: factory/neutron10sr06r3qkhn7xzpw3339wuj77hu06mzna6uht0/eclip
+    platform: ATOM
 crypto: true
 fiat: false
 id: ECLIP

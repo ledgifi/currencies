@@ -1,6 +1,8 @@
 contracts:
   - address: '0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb'
     platform: ETH
+  - address: '0xe405de8f52ba7559f9df3c368500b6e6ae6cee49'
+    platform: OP
 crypto: true
 fiat: false
 id: SETH3

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xf418588522d5dd018b425E472991E52EBBeEEEEE'
     platform: ETH
+  - address: '0x58001cC1A9E17A20935079aB40B1B8f4Fc19EFd1'
+    platform: MATIC
 crypto: true
 fiat: false
 id: PUSH

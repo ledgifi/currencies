@@ -1,6 +1,8 @@
 contracts:
   - address: '0xd36bb7849a8c50b509bae872f44d5c1c7dc0e96c'
     platform: BNB
+  - address: '0x0577FE6A60E41D5A2f85bAAc5caa4CDcf939efED'
+    platform: BNB
 crypto: true
 fiat: false
 id: CCASH1

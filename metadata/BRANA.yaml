@@ -1,6 +1,8 @@
 contracts:
   - address: '0xaFd9a60f8A91572E99CDEABfa062146aFA599FFa'
     platform: BNB
+  - address: '0x8c6220E2d66f0ecEAdAff785946D3d50A539f40E'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BRANA

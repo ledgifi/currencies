@@ -1,6 +1,8 @@
 contracts:
   - address: '0xced479a3cbe87bd85241ad109cb080e137815f9e'
     platform: ETH
+  - address: '0x2b44e0f9d5ae4a1aab84d0deecb97e6e0bfaf315'
+    platform: PLS
 crypto: true
 fiat: false
 id: KIKO1

@@ -1,6 +1,10 @@
 contracts:
   - address: '0xc0e6ad13bd58413ed308729b688d601243e1cf77'
     platform: BNB
+  - address: '0xa288e965E86Ac4E5c03352F199Cc7a66022E15A8'
+    platform: BNB
+  - address: '0xa288e965E86Ac4E5c03352F199Cc7a66022E15A8'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BLK1

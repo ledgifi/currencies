@@ -1,6 +1,8 @@
 contracts:
   - address: '0x9e15f045e44ea5a80e7Fbc193A35287712Cc5569'
     platform: AVAX
+  - address: '0xa77e70d0af1ac7ff86726740db1bd065c3566937'
+    platform: AVAX
 crypto: true
 fiat: false
 id: 3ULL

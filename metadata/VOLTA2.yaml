@@ -1,6 +1,12 @@
 contracts:
   - address: '0x9b06F3C5de42D4623D7A2Bd940EC735103c68A76'
+    platform: ARB
+  - address: '0x9b06F3C5de42D4623D7A2Bd940EC735103c68A76'
     platform: AVAX
+  - address: '0x9b06F3C5de42D4623D7A2Bd940EC735103c68A76'
+    platform: ETH
+  - address: '0x9b06F3C5de42D4623D7A2Bd940EC735103c68A76'
+    platform: FTM
 crypto: true
 fiat: false
 id: VOLTA2

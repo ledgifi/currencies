@@ -1,6 +1,8 @@
 contracts:
   - address: 0xb32b9e8bc382e7bb64d8def2982cd19785ef64cf (Polygon)
     platform: MATIC
+  - address: '0x2521e096e3de4b0614ba9553b65167594e5df1ba'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SBX1

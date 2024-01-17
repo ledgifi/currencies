@@ -1,6 +1,8 @@
 contracts:
   - address: '0x123458C167a371250d325Bd8B1ffF12C8AF692A7'
     platform: BNB
+  - address: '0xc8a34e86c187830922f841985e376f412ee0088a'
+    platform: ETH
 crypto: true
 fiat: false
 id: DRAC

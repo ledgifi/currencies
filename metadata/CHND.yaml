@@ -1,6 +1,8 @@
 contracts:
   - address: '0x3B3ABDdc67c5DBEA742c4d39B77faF0794eD7949'
     platform: BNB
+  - address: '0x630D1C78BC61274294bDB008f63a41B06Ff799DD'
+    platform: BNB
 crypto: true
 fiat: false
 id: CHND

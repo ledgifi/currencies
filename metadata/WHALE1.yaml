@@ -3,6 +3,8 @@ contracts:
     platform: ATOM
   - address: terra1php5m8a6qd68z02t3zpw4jv2pj4vgw4wz0t8mz
     platform: LUNC
+  - address: ibc/EDD6F0D66BCD49C1084FB2C35353B4ACD7B9191117CE63671B61320548F7C89D
+    platform: OSMO
 crypto: true
 fiat: false
 id: WHALE1

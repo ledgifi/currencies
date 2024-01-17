@@ -1,6 +1,8 @@
 contracts:
   - address: '0x8af5fedc0f263841c18f31d9dbcc97a47e1ab462'
     platform: ETH
+  - address: '0x80122c6a83c8202ea365233363d3f4837d13e888'
+    platform: ETH
 crypto: true
 fiat: false
 id: M87

@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xa4C08c4cE3a05F78f5E931673C6A45caCD4DF94C'
+    platform: BNB
   - address: martia
     platform: WAXP
 crypto: true

@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xD6C7bB8531295e88D364EA67D5D1acC7D3F87454'
+    platform: ETH
   - address: 0xb1834e4e773a180168f2292e036ca8e17f86196f (Klaytn)
     platform: KLAY
 crypto: true

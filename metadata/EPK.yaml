@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xdaf88906ac1de12ba2b1d2f7bfc94e9638ac40c4'
     platform: ETH
+  - address: '0xac5b038058bcd0424c9c252c6487c25f032e5ddc'
+    platform: ETH
 crypto: true
 fiat: false
 id: EPK

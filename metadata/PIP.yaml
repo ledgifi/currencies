@@ -1,5 +1,9 @@
 contracts:
+  - address: '0x76ff2AB6b34142421F44A68cC8Dd08f45F9Ee2F2'
+    platform: ETH
   - address: 'HHjoYwUp5aU6pnrvN4s2pwEErwXNZKhxKGYjRJMoBjLw '
+    platform: SOL
+  - address: HHjoYwUp5aU6pnrvN4s2pwEErwXNZKhxKGYjRJMoBjLw
     platform: SOL
 crypto: true
 fiat: false

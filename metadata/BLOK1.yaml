@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x9DCE8e754913d928eB39Bc4fC3CF047e364f7f2C'
+    platform: ARB
   - address: '0xA0d96fD642156FC7E964949642257b3572f10cD6'
     platform: BNB
+  - address: '0x229b1b6c23ff8953d663c4cbb519717e323a0a84'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BLOK1

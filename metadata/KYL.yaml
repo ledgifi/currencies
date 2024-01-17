@@ -1,6 +1,8 @@
 contracts:
   - address: '0x67B6D479c7bB412C54e03dCA8E1Bc6740ce6b99C'
     platform: ETH
+  - address: '0x5d07F52aE5f779422447C2A32F58c93A15E7d6F2'
+    platform: ETH
 crypto: true
 fiat: false
 id: KYL

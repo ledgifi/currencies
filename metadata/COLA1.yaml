@@ -1,6 +1,8 @@
 contracts:
   - address: '0x19e98c4921aab7e3f5fd2adca36cfb669c63e926'
     platform: ETH
+  - address: '0x7c95e7ad2b349dc2f82d0f1117a44b561fa2699a'
+    platform: ETH
 crypto: true
 fiat: false
 id: COLA1

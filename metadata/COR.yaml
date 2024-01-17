@@ -5,6 +5,8 @@ contracts:
     platform: ETH
   - address: '0x4fdCE518fE527439Fe76883e6b51A1c522B61b7C'
     platform: MATIC
+  - address: 9c2dc0c3cc2badde84b0025cf4df1c5af288d835.factory.bridge.near
+    platform: NEAR
 crypto: true
 fiat: false
 id: COR

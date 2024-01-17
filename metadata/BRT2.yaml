@@ -1,6 +1,8 @@
 contracts:
   - address: '0xd11a545Ef89F47734BD909Ce5e063d68ddc11968'
     platform: BNB
+  - address: '0x7BB224B336ECa8f5FfBf45bD460eFc61f018F962'
+    platform: BNB
 crypto: true
 fiat: false
 id: BRT2

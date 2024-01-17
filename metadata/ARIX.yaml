@@ -1,6 +1,8 @@
 contracts:
   - address: '0x4db2495afad4c0e481ffc40fdaf66e13a786b619'
     platform: BNB
+  - address: '0xBb6cF73a00f480d0951bA979a7606857cDDe626B'
+    platform: ETH
 crypto: true
 fiat: false
 id: ARIX

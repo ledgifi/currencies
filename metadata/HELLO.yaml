@@ -1,6 +1,8 @@
 contracts:
   - address: '0x0f1cbed8efa0e012adbccb1638d0ab0147d5ac00'
     platform: BNB
+  - address: '0x411099C0b413f4fedDb10Edf6a8be63BD321311C'
+    platform: ETH
 crypto: true
 fiat: false
 id: HELLO

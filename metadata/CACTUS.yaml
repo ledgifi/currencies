@@ -1,6 +1,8 @@
 contracts:
   - address: '0x08b80583ae903070Aa25bdB222B7c490433B4dAF'
     platform: BNB
+  - address: '0x9D707D95F68CC329bB4b37fFDD94001E59C1f088'
+    platform: BNB
 crypto: true
 fiat: false
 id: CACTUS

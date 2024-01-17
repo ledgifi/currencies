@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7dc3577681038522D796335e73f2efeCccA1878d'
     platform: BNB
+  - address: '0xaf8b51a22f26c1b86fced37c8797b1b10ca2faa6'
+    platform: ETH
 crypto: true
 fiat: false
 id: SWIRLX

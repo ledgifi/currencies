@@ -1,6 +1,8 @@
 contracts:
   - address: '0x4ad7a056191F4c9519fAcd6D75FA94CA26003aCE'
     platform: ETH
+  - address: '0x0308a3a9c433256aD7eF24dBEF9c49C8cb01300A'
+    platform: MATIC
 crypto: true
 fiat: false
 id: GPO1

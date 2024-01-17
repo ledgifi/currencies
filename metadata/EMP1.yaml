@@ -1,6 +1,8 @@
 contracts:
   - address: '0x947FE50c2aE24d5FF56f0e4E7C9043eb6ee1ABe7'
     platform: BNB
+  - address: '0xaf55E53CFA099A59aa30554fe106F33C47564A25'
+    platform: BNB
 crypto: true
 fiat: false
 id: EMP1

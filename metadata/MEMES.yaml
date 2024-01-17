@@ -1,6 +1,8 @@
 contracts:
   - address: '0xf7B2656F10D0C8cf819867E61724E244c76f8f92'
     platform: BNB
+  - address: '0x112eba094E03dfAC405F3AfD2d3ec8Db883762A6'
+    platform: ETH
 crypto: true
 fiat: false
 id: MEMES

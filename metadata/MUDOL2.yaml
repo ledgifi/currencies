@@ -1,6 +1,8 @@
 contracts:
   - address: '0x5e7f472b9481c80101b22d0ba4ef4253aa61dabc'
     platform: BNB
+  - address: '0x549455b9fe3bd53a64e49726b27eb08a92835177'
+    platform: KLAY
 crypto: true
 fiat: false
 id: MUDOL2

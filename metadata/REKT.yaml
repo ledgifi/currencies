@@ -1,6 +1,8 @@
 contracts:
   - address: '0x4f8b986ecffe7bed5dbeb2b49310fb00ca85a539'
     platform: BNB
+  - address: '0x4f8b986ecffe7bed5dbeb2b49310fb00ca85a539'
+    platform: ETH
 crypto: true
 fiat: false
 id: REKT

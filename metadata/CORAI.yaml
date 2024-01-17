@@ -1,6 +1,8 @@
 contracts:
   - address: '0x17C8C198c06f16a8dB68148d9ac460F5aED029d8'
     platform: BNB
+  - address: '0x1ebC21f65fFED4836e51b9c5d680b28c01ed0e8d'
+    platform: BNB
 crypto: true
 fiat: false
 id: CORAI

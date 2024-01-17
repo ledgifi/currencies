@@ -1,6 +1,8 @@
 contracts:
   - address: '0x57D2A45653B329FAc354B04cEAd92C4db71cF09f'
     platform: BNB
+  - address: '0x82Cb0Ec6A31bC92e9483c08FdcBe2e6f3CC28100'
+    platform: MATIC
 crypto: true
 fiat: false
 id: IBS

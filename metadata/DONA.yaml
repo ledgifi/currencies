@@ -1,6 +1,8 @@
 contracts:
   - address: '0xa6bf49ab16c2b42a6bc9c6eb531873a53f5e43d7'
     platform: BNB
+  - address: '0x229c32460c6beac113e720ac4a7495b57f53f7cf'
+    platform: BNB
 crypto: true
 fiat: false
 id: DONA

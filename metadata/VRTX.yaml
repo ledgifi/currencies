@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x95146881b86B3ee99e63705eC87AfE29Fcc044D9'
+    platform: ARB
+  - address: '0xbbEE07B3e8121227AfCFe1E2B82772246226128e'
+    platform: ETH
 crypto: true
 fiat: false
 id: VRTX

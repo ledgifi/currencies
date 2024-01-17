@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xf33893de6eb6ae9a67442e066ae9abd228f5290c'
     platform: ETH
+  - address: '0xE85f139488c689038028a3EB8fC38dcC29D4C340'
+    platform: GRV
 crypto: true
 fiat: false
 id: GRV

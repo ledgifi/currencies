@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x046eee2cc3188071c02bfc1745a6b17c656e3f3d'
+    platform: ETH
   - address: RLBxxFkseAZ4RgJH3Sqn8jXxhmGoz9jWxDNJMh8pL7a
     platform: SOL
 crypto: true

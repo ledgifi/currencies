@@ -1,3 +1,12 @@
+contracts:
+  - address: '0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4'
+    platform: ARB
+  - address: '0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4'
+    platform: BNB
+  - address: '0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4'
+    platform: ETH
+  - address: '0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4'
+    platform: MATIC
 crypto: true
 fiat: false
 id: NPM

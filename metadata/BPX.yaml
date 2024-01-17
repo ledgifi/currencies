@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x4e22ab2bbcb3e7f74249c87f62bb35ef92c3d964'
+    platform: BNB
   - address: TXBcx59eDVndV5upFQnTR2xdvqFd5reXET
     platform: TRX
 crypto: true

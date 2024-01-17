@@ -5,7 +5,11 @@ contracts:
     platform: BNB
   - address: '0x420412e765bfa6d85aaac94b4f7b708c89be2e2b'
     platform: ETH
+  - address: '0x01d33FD36ec67c6Ada32cf36b31e88EE190B1839'
+    platform: ETH
   - address: '0x491a4eb4f1fc3bff8e1d2fc856a6a46663ad556f'
+    platform: MATIC
+  - address: '0x4eD141110F6EeeAbA9A1df36d8c26f684d2475Dc'
     platform: MATIC
   - address: FtgGSFADXBtroxq8VCausXRr2of47QBf5AS1NtZCu4GD
     platform: SOL

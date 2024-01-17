@@ -1,6 +1,8 @@
 contracts:
   - address: '0xf0f9D895aCa5c8678f706FB8216fa22957685A13'
     platform: MATIC
+  - address: '0x5d301750cc9719f00872E33Ee81f9C37aBa242F4'
+    platform: MATIC
 crypto: true
 fiat: false
 id: RVLT

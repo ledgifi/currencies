@@ -1,6 +1,8 @@
 contracts:
   - address: '0x6Fe2506D1dDD77C43A3eaf4c4E0F7aeb14f26765'
     platform: ETH
+  - address: 9HnKM5xiDHYGEjBbSjz6hrjyWW7KDRbGu6GKpsFeoCWP
+    platform: SOL
 crypto: true
 fiat: false
 id: ORBT1

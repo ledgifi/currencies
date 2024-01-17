@@ -1,6 +1,8 @@
 contracts:
   - address: '0x0C0F2b41F758d66bB8e694693B0f9e6FaE726499'
     platform: ETH
+  - address: '0x1eBA4B44C4F8cc2695347C6a78F0B7a002d26413'
+    platform: MATIC
 crypto: true
 fiat: false
 id: UND1

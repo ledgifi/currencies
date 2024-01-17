@@ -1,6 +1,8 @@
 contracts:
   - address: '0xb3Cb8d5AEFF0F4d1f432f353309f47b885E404E3'
     platform: ETH
+  - address: '0xef3432f1d54ec559613f44879fef8a7866da3e07'
+    platform: MEV
 crypto: true
 fiat: false
 id: MEV

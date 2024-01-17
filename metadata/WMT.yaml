@@ -3,6 +3,10 @@ contracts:
     platform: ADA
   - address: '0x4D5C63c07463EFa5bb26EE0A6D8C39dd0e3DaBD9'
     platform: ADA
+  - address: '0x637c2173f6e678ac3c9b43b6665c760dc6021c13'
+    platform: BNB
+  - address: '0x263b6b028f3e4ed8c4329eb2b5f409ee38d97296'
+    platform: ETH
 crypto: true
 fiat: false
 id: WMT

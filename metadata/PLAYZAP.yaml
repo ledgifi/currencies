@@ -1,6 +1,8 @@
 contracts:
   - address: '0x6ad9E9c098a45B2B41b519119C31c3DcB02ACcB2'
     platform: BNB
+  - address: '0xBB8e513b2897AC9C1C47eeCFCB42dbd4b77F9275'
+    platform: EOS
   - address: '0x22648c12acd87912ea1710357b1302c6a4154ebc'
     platform: KCS
 crypto: true

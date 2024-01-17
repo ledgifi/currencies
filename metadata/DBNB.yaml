@@ -1,6 +1,8 @@
 contracts:
   - address: '0x833850be8858722cfc5e5e75f2fe6275e055d888'
     platform: ETH
+  - address: '0x99F618EDcfEDCa1fCC8302e14Daa84802114a8c5'
+    platform: ETH
 crypto: true
 fiat: false
 id: DBNB

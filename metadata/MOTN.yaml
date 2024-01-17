@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xFC3de4579BfD7513E5dC699b676A2081395330ad'
+    platform: BNB
+  - address: '0xFC3de4579BfD7513E5dC699b676A2081395330ad'
+    platform: ETH
 crypto: true
 fiat: false
 id: MOTN

@@ -1,6 +1,16 @@
 contracts:
+  - address: '0x7f4638a58c0615037decc86f1dae60e55fe92874'
+    platform: ARB
+  - address: '0x3d473C3eF4Cd4C909b020f48477a2EE2617A8e3C'
+    platform: BNB
   - address: '0x4fbb350052bca5417566f188eb2ebce5b19bc964'
     platform: ETH
+  - address: '0xbc0bea8e634ec838a2a45f8a43e7e16cd2a8ba99'
+    platform: MATIC
+  - address: '0xecf46257ed31c329f204eb43e254c609dee143b3'
+    platform: OP
+  - address: '0x09188484e1ab980daef53a9755241d759c5b7d60'
+    platform: TBA
 crypto: true
 fiat: false
 id: GRG

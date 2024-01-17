@@ -1,12 +1,18 @@
 contracts:
   - address: '0x21e60ee73f17ac0a411ae5d690f908c3ed66fe12'
     platform: ARB
+  - address: '0x7c4a640461427c310a710d367c2ba8c535a7ef81'
+    platform: ARB
   - address: '0xe60eaf5A997DFAe83739e035b005A33AfdCc6df5'
     platform: BNB
   - address: '0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9'
     platform: ETH
   - address: '0x2bdA3e331Cf735D9420e41567ab843441980C4B8'
     platform: HT
+  - address: '0xe840bb03fe58540841e6ebee94264d5317b88866'
+    platform: TBA
+  - address: '0x34fd72d2053339ea4eb1a8836cf50ebce91962d0'
+    platform: TBD
 crypto: true
 fiat: false
 id: DERI

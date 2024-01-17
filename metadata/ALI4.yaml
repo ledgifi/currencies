@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x45c135c1cdce8d25a3b729a28659561385c52671'
+    platform: CRO
   - address: '0x6b0b3a982b4634ac68dd83a4dbf02311ce324181'
     platform: ETH
+  - address: '0xbfc70507384047aa74c29cdc8c5cb88d0f7213ac'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ALI4

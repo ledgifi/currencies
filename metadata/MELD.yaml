@@ -1,6 +1,10 @@
 contracts:
   - address: 6ac8ef33b510ec004fe11585f7c5a9f0c07f0c23428ab4f29c1d7d104d454c44
     platform: ADA
+  - address: '0x333000333b26ee30214b4af6419d9ab07a450400'
+    platform: AVAX
+  - address: '0x333000333b26ee30214b4af6419d9ab07a450400'
+    platform: ETH
 crypto: true
 fiat: false
 id: MELD

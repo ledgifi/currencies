@@ -1,6 +1,8 @@
 contracts:
   - address: oci_rr1qws04shqrz3cdjljdp5kczgv7wd3jxytagk95qlk7ecquzq8e7
     platform: XRD
+  - address: resource_rdx1t52pvtk5wfhltchwh3rkzls2x0r98fw9cjhpyrf3vsykhkuwrf7jg8
+    platform: XRD
 crypto: true
 fiat: false
 id: OCI

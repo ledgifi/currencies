@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x51e72dd1f2628295cc2ef931cb64fdbdc3a0c599'
+    platform: BNB
   - address: '0x112b08621E27e10773ec95d250604a041f36C582'
     platform: ETH
+  - address: '0x3562ddf1f5ce2c02ef109e9d5a72e2fdb702711d'
+    platform: MATIC
 crypto: true
 fiat: false
 id: WKAS

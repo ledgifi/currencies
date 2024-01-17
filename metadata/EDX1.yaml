@@ -1,4 +1,10 @@
 contracts:
+  - address: '0xC114678C6e4654d041B2006C90f08478b444c4E2'
+    platform: BNB
+  - address: '0xC114678C6e4654d041B2006C90f08478b444c4E2'
+    platform: ETH
+  - address: '0xC114678C6e4654d041B2006C90f08478b444c4E2'
+    platform: MATIC
   - address: 3Ysmnbdddpxv9xK8FUKXexdhRzEA4yrCz8WaE6Za5sjV
     platform: SOL
 crypto: true

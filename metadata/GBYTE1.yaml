@@ -1,3 +1,12 @@
+contracts:
+  - address: '0xeb34De0C4B2955CE0ff1526CDf735c9E6d249D09'
+    platform: BNB
+  - address: '0x31F69dE127C8A0fF10819C0955490a4Ae46fcc2a'
+    platform: ETH
+  - address: '0x0b93109d05ef330acd2c75148891cc61d20c3ef1'
+    platform: KAVA
+  - address: '0xAB5F7a0e20b0d056Aed4Aa4528C78da45BE7308b'
+    platform: MATIC
 crypto: true
 fiat: false
 id: GBYTE1

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xddD9d7D280c78b564C55BEb26562E367d4b9Bd8a'
     platform: BNB
+  - address: '0xb81408a1cC2f4be70a6a3178D351ca95A77C5A06'
+    platform: BNB
 crypto: true
 fiat: false
 id: XODEX

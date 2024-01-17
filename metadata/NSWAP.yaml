@@ -1,4 +1,8 @@
 contracts:
+  - address: '0xFdad8EDC724277e975F4955d288C6EB5b20A3146'
+    platform: ARB
+  - address: '0xFdad8EDC724277e975F4955d288C6EB5b20A3146'
+    platform: BNB
   - address: NULSd6HgrzcXdTuGvRF9DmkxoXM8XNmXZs95d
     platform: NULS
 crypto: true

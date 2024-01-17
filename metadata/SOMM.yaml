@@ -1,6 +1,8 @@
 contracts:
   - address: '0xa670d7237398238DE01267472C6f13e5B8010FD1'
     platform: ETH
+  - address: ibc/9BBA9A1C257E971E38C1422780CE6F0B0686F0A3085E2D61118D904BFE0F5F5E
+    platform: OSMO
 crypto: true
 fiat: false
 id: SOMM

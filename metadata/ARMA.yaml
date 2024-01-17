@@ -1,6 +1,8 @@
 contracts:
   - address: '0xe405b8148d731e4e1117e00542264dac5375bc97'
     platform: BNB
+  - address: '0xf1f0fa0287c47804636ffef14e2c241f2587903e'
+    platform: BNB
 crypto: true
 fiat: false
 id: ARMA

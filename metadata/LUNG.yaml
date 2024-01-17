@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xe8b0df74192cca9c4de66f23653476f6e6cd1d98'
     platform: CORE
+  - address: '0xcc4140d69f2df353f44f3d5305dd351abd8b36be'
+    platform: ETH
 crypto: true
 fiat: false
 id: LUNG

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x30df7D7EE52c1b03cd009e656F00AB875AdCEeD2'
     platform: ETH
+  - address: '0xb70eaf5d316192881aac8786c90b7907b83f02e8'
+    platform: ETH
 crypto: true
 fiat: false
 id: RESET

@@ -1,6 +1,14 @@
 contracts:
+  - address: '0x8EC1877698ACF262Fe8Ad8a295ad94D6ea258988'
+    platform: ARB
+  - address: '0x8EC1877698ACF262Fe8Ad8a295ad94D6ea258988'
+    platform: BNB
+  - address: '0xa48F322F8b3edff967629Af79E027628b9Dd1298'
+    platform: ETH
   - address: '0xec38621e72d86775a89c7422746de1f52bba5320'
     platform: MATIC
+  - address: '0xb396b31599333739A97951b74652c117BE86eE1D'
+    platform: OP
 crypto: true
 fiat: false
 id: DAVOS

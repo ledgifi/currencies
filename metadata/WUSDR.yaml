@@ -1,14 +1,24 @@
 contracts:
   - address: '0xDDc0385169797937066bBd8EF409b5B3c0dFEB52'
     platform: ARB
+  - address: '0x9483ab65847A447e36d21af1CaB8C87e9712ff93'
+    platform: ARB
   - address: '0x2952beb1326acCbB5243725bd4Da2fC937BCa087'
+    platform: BNB
+  - address: '0x9467f15f44A8641389556387b43d9ED3f6981818'
     platform: BNB
   - address: '0xd5a14081a34d256711b02bbef17e567da48e80b5'
     platform: ETH
   - address: '0xAF0D9D65fC54de245cdA37af3d18cbEc860A4D4b'
     platform: MATIC
+  - address: '0x00e8c0E92eB3Ad88189E7125Ec8825eDc03Ab265'
+    platform: MATIC
   - address: '0x340fe1d898eccaad394e2ba0fc1f93d27c7b717a'
     platform: OP
+  - address: '0xC03b43d492d904406db2d7D57e67C7e8234bA752'
+    platform: OP
+  - address: '0x9483ab65847A447e36d21af1CaB8C87e9712ff93'
+    platform: TBA
 crypto: true
 fiat: false
 id: WUSDR

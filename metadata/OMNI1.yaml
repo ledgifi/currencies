@@ -1,6 +1,18 @@
 contracts:
+  - address: '0x9e20461bc2c4c980f62f1b279d71734207a6a356'
+    platform: ARB
+  - address: '0x9e20461bc2c4c980f62f1b279d71734207a6a356'
+    platform: BNB
+  - address: '0x9e20461bc2c4c980f62f1B279D71734207a6A356'
+    platform: CANTO
   - address: '0x9e20461bc2c4c980f62f1B279D71734207a6A356'
     platform: ETH
+  - address: '0x9e20461bc2c4c980f62f1b279d71734207a6a356'
+    platform: MATIC
+  - address: 7mmXL6Et4SbpDs2iXoZQ3oPEeXeAiyETxh1QjDNi5qnV
+    platform: SOL
+  - address: '0xc48e605c7b722a57277e087a6170b9e227e5ac0a'
+    platform: TBA
 crypto: true
 fiat: false
 id: OMNI1

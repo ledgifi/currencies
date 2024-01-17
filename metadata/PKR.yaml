@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x001a8ffcb0f03e99141652ebcdecdb0384e3bd6c'
     platform: ETH
+  - address: '0x140a4e80dD8184536acc45F1C452D7540472e6E1'
+    platform: MATIC
 crypto: true
 fiat: false
 id: PKR

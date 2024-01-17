@@ -1,6 +1,10 @@
 contracts:
   - address: '0x31c994AC062C1970C086260Bc61babB708643fAc'
     platform: AVAX
+  - address: '0xBC7370641ddCF16A27eeA11230Af4a9F247B61F9'
+    platform: BNB
+  - address: '0x967fb0d760ed3ce53afe2f0a071674cccae73550'
+    platform: ETH
 crypto: true
 fiat: false
 id: XETA1

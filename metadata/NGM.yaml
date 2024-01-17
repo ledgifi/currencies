@@ -5,6 +5,8 @@ contracts:
     platform: ETH
   - address: '0xc54FF1b09Ab25B01275cD1093c2Ba311A18c00Eb'
     platform: MATIC
+  - address: ibc/1DC495FCEFDA068A3820F903EDBD78B942FBD204D7E93D3BA2B432E9669D1A59
+    platform: OSMO
 crypto: true
 fiat: false
 id: NGM

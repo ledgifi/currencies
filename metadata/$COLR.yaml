@@ -1,6 +1,8 @@
 contracts:
   - address: '0x14b40ad2eba6c1b31db2ba817b07578afb414415'
     platform: ETH
+  - address: '0xb2d2e1309db33b38a19ee2a7cd9cb5de39d76663'
+    platform: ETH
 crypto: true
 fiat: false
 id: $colR

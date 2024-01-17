@@ -1,6 +1,8 @@
 contracts:
   - address: '0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169'
     platform: ETH
+  - address: '0x6e6c55ac20c41669261969089fad7f7fcd9ba690'
+    platform: KLAY
 crypto: true
 fiat: false
 id: AMO

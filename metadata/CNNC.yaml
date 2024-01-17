@@ -3,6 +3,8 @@ contracts:
     platform: APT
   - address: '0xed376501f61046a3f43dac6d5ab51a700dda46fc'
     platform: BNB
+  - address: '0x335b6828E2860aBCdd0ef50bA86334aB25Fd03aD'
+    platform: BNB
   - address: '0xEd376501F61046A3f43Dac6d5Ab51A700dda46fc'
     platform: ETH
 crypto: true

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x4e0fca55a6c3a94720ded91153a27f60e26b9aa8'
     platform: ETH
+  - address: '0x302cae5dcf8f051d0177043c3438020b89b33218'
+    platform: ETH
 crypto: true
 fiat: false
 id: BOOST1

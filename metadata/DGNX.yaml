@@ -1,6 +1,8 @@
 contracts:
   - address: '0x51e48670098173025c477d9aa3f0eff7bf9f7812'
     platform: AVAX
+  - address: '0x0000000000300dd8B0230efcfEf136eCdF6ABCDE'
+    platform: ETH
 crypto: true
 fiat: false
 id: DGNX

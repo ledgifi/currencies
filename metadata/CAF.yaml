@@ -1,6 +1,8 @@
 contracts:
   - address: '0x5662ac531A2737C3dB8901E982B43327a2fDe2ae'
     platform: BNB
+  - address: '0x6e8ce91124d57c37556672f8889cb89af52a6746'
+    platform: BNB
 crypto: true
 fiat: false
 id: CAF

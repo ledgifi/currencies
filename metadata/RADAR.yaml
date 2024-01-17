@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x44709a920fccf795fbc57baa433cc3dd53c44dbe'
     platform: ETH
+  - address: '0xdCb72AE4d5dc6Ae274461d57E65dB8D50d0a33AD'
+    platform: MATIC
 crypto: true
 fiat: false
 id: RADAR

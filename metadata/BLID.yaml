@@ -1,8 +1,14 @@
 contracts:
+  - address: '0x81de4945807bb31425362f8f7109c18e3dc4f8f0'
+    platform: ARB
   - address: '0x766AFcf83Fd5eaf884B3d529b432CA27A6d84617'
     platform: BNB
   - address: '0x8A7aDc1B690E81c758F1BD0F72DFe27Ae6eC56A5'
     platform: ETH
+  - address: ' 0x4b27Cd6E6a5E83d236eAD376D256Fe2F9e9f0d2E'
+    platform: MATIC
+  - address: '0x048c6bad48c51436764ed1fdb3c9d1c25d2c0ada'
+    platform: OP
 crypto: true
 fiat: false
 id: BLID

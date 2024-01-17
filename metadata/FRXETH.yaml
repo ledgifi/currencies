@@ -11,6 +11,8 @@ contracts:
     platform: GLMR
   - address: '0xEe327F889d5947c1dc1934Bb208a1E792F953E96'
     platform: MATIC
+  - address: '0xcf7ecee185f19e2e970a301ee37f93536ed66179'
+    platform: MATIC
   - address: '0x6806411765Af15Bddd26f8f544A34cC40cb9838B'
     platform: OP
 crypto: true

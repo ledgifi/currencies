@@ -3,6 +3,8 @@ contracts:
     platform: ARB
   - address: '0x9B99CcA871Be05119B2012fd4474731dd653FEBe'
     platform: ETH
+  - address: '0x1fac00ccee478eced6a120a50ed2ab28ee7fe32b'
+    platform: ETH
 crypto: true
 fiat: false
 id: MATTER

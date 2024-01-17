@@ -1,6 +1,8 @@
 contracts:
   - address: '0x85ba4988443bc8B39307Eec67B8c488666cD5819'
     platform: BNB
+  - address: '0x5275e602238c85b204413116c1057aff5c60b282'
+    platform: BNB
 crypto: true
 fiat: false
 id: VINCI2

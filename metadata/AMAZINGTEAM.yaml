@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x38e2f9058651EA1B9a09495Ea7Fd23FD2dD12a3F'
+    platform: AVAX
   - address: '0x44Ece1031e5b5e2D9169546cC10EA5C95BA96237'
     platform: BNB
+  - address: '0x38e2f9058651EA1B9a09495Ea7Fd23FD2dD12a3F'
+    platform: ETH
 crypto: true
 fiat: false
 id: AMAZINGTEAM

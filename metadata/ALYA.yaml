@@ -1,6 +1,8 @@
 contracts:
   - address: '0x49a9f9a2271d8c5da44c57e7102aca79c222f4a9'
     platform: BNB
+  - address: '0x678cA8BF3D4b2dFb382c156E496492622D301749'
+    platform: BNB
 crypto: true
 fiat: false
 id: ALYA

@@ -1,7 +1,11 @@
 contracts:
   - address: '0x2c8988881fA08DbD283348993bed57Ea0c971c94'
     platform: ETH
+  - address: '0x44Ad63B4f8A7985508652CEE038946d38b9fd28F'
+    platform: ETH
   - address: SAX2cChnuhnKfUDERWVHyd8CoeDNR4NjoxwjuW8uiqa
+    platform: SOL
+  - address: STBuyENwJ1GP4yNZCjwavn92wYLEY3t5S1kVS5kwyS1
     platform: SOL
 crypto: true
 fiat: false

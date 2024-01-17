@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x2a039b1d9bbdccbb91be28691b730ca893e5e743'
     platform: ETH
+  - address: '0x20a62aca58526836165ca53fe67dd884288c8abf'
+    platform: ETH
 crypto: true
 fiat: false
 id: RNB

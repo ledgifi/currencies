@@ -1,6 +1,10 @@
 contracts:
   - address: '0xacb2d47827c9813ae26de80965845d80935afd0b'
     platform: BNB
+  - address: '0xBA25B552C8A098AFdf276324C32C71fE28e0Ad40'
+    platform: MATIC
+  - address: '0xAFe4cA0Bbe6215cBdA12857e723134Bc3809F766'
+    platform: TBD
 crypto: true
 fiat: false
 id: MCRN

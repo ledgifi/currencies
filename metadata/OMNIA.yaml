@@ -1,6 +1,8 @@
 contracts:
   - address: '0x71dc640b99faaf03544bdbce87018c2ae8ebe849'
     platform: ETH
+  - address: '0xeFCd10A0aAf6825edD8418d298Ac607b6b39EeF8'
+    platform: ETH
 crypto: true
 fiat: false
 id: OMNIA

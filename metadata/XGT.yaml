@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xC25AF3123d2420054c8fcd144c21113aa2853F39'
     platform: GNO
+  - address: '0x9eb8a789ed1bd38d281962b523349d5d17a37d47'
+    platform: MATIC
 crypto: true
 fiat: false
 id: XGT

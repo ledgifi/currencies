@@ -1,6 +1,16 @@
 contracts:
+  - address: '0xaf20f5f19698f1D19351028cd7103B63D30DE7d7'
+    platform: ARB
+  - address: '0xaf20f5f19698f1d19351028cd7103b63d30de7d7'
+    platform: AVAX
+  - address: '0xaf20f5f19698f1d19351028cd7103b63d30de7d7'
+    platform: BNB
   - address: '0x92CC36D66e9d739D50673d1f27929a371FB83a67'
     platform: ETH
+  - address: '0xb1F795776cB9DdAC6E7e162f31C7419Dd3d48297'
+    platform: FTM
+  - address: '0xaf20f5f19698f1D19351028cd7103B63D30DE7d7'
+    platform: KAVA
 crypto: true
 fiat: false
 id: WAGMI7

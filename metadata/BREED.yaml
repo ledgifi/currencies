@@ -1,6 +1,8 @@
 contracts:
   - address: '0x94E9EB8b5Ab9fd6B9ea3169D55FFAde62a01702e'
     platform: ETH
+  - address: '0x6949804b60dd9dcea43fd8d10ccdc640b55f9f7f'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BREED

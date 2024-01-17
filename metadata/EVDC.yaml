@@ -1,6 +1,8 @@
 contracts:
   - address: '0xC3B4C4eF3fE02aD91cB57efda593ed07A9278cc0'
     platform: BNB
+  - address: '0x93749e69560EFe1ad6661903e47DF538492C50a4'
+    platform: BNB
 crypto: true
 fiat: false
 id: EVDC

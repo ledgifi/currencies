@@ -1,6 +1,8 @@
 contracts:
   - address: '0xccdb064a41afcd432bcea6f6d0d1e7c371d0b002'
     platform: ETH
+  - address: '0x35128c6d835a00f2fdee970119bce22597eba999'
+    platform: MATIC
 crypto: true
 fiat: false
 id: QR

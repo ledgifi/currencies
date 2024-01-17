@@ -1,7 +1,11 @@
 contracts:
   - address: '0xc2098a8938119A52B1F7661893c0153A6CB116d5'
     platform: BNB
+  - address: '0x61dc650C10Ec3c758d251Cd2D1Ab45AF1A43e941'
+    platform: BNB
   - address: '0x0E5C8C387C5EBa2eCbc137aD012aeD5Fe729e251'
+    platform: ETH
+  - address: '0x1f16D41f9B3dB03b462BDD6c92245ee708D1C103'
     platform: ETH
 crypto: true
 fiat: false

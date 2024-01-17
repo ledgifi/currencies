@@ -1,6 +1,8 @@
 contracts:
   - address: '0xe4fae3faa8300810c835970b9187c268f55d998f'
     platform: BNB
+  - address: '0xf05897CfE3CE9BBBfE0751CBE6B1B2c686848DCb'
+    platform: ETH
 crypto: true
 fiat: false
 id: CATE

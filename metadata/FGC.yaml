@@ -3,6 +3,10 @@ contracts:
     platform: APT
   - address: '0x41E025EA850bB4d0DCbb5b1F4353aF099CbD026a'
     platform: AVAX
+  - address: '0x41e025ea850bb4d0dcbb5b1f4353af099cbd026a'
+    platform: BNB
+  - address: '0x41E025EA850bB4d0DCbb5b1F4353aF099CbD026a'
+    platform: ETH
 crypto: true
 fiat: false
 id: FGC

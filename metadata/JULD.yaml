@@ -1,6 +1,8 @@
 contracts:
   - address: '0x5a41f637c3f7553dba6ddc2d3ca92641096577ea'
     platform: BNB
+  - address: '0xf5D8015D625be6F59b8073C8189BD51bA28792e1'
+    platform: BNB
   - address: '0xeff6fcfbc2383857dd66ddf57efffc00d58b7d9d'
     platform: FTM
 crypto: true

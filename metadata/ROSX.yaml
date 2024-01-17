@@ -1,6 +1,8 @@
 contracts:
   - address: '0xd6c0156E85deCdF2983c7A2c4A3015eD268d6f8A'
     platform: ARB
+  - address: '0xdc8184ba488e949815d4aafb35b3c56ad03b4179'
+    platform: ARB
 crypto: true
 fiat: false
 id: ROSX

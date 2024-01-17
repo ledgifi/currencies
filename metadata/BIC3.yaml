@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x8d659d0fc18e7a26f10a3a57983448a2e16d441a'
+    platform: BNB
   - address: DEYSSxQ3uBmDXsmrsmsmSh3qvCtwwm1Bk9ghSrGxLeep
     platform: WAVES
 crypto: true

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x14c8dec1868ecdc051b36ed41276563a9e99f4ef'
     platform: BNB
+  - address: '0x48760738Cb294a2BBB32FB1Cd16DA2e5e3b421dA'
+    platform: BNB
 crypto: true
 fiat: false
 id: NAI

@@ -1,6 +1,16 @@
 contracts:
+  - address: '0x8888888888f004100c0353d657be6300587a6ccd'
+    platform: ARB
+  - address: '0x8888888888f004100c0353d657be6300587a6ccd'
+    platform: AVAX
   - address: '0x4197c6ef3879a08cd51e5560da5064b773aa1d29'
     platform: BNB
+  - address: '0x8888888888f004100c0353d657be6300587a6ccd'
+    platform: BNB
+  - address: '0x8888888888f004100c0353d657be6300587a6ccd'
+    platform: KAVA
+  - address: '0x8888888888f004100c0353d657be6300587a6ccd'
+    platform: TBA
 crypto: true
 fiat: false
 id: ACS1

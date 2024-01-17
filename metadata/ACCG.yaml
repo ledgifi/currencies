@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7d2a776a051D49FF77EC73323495f68F1231B792'
     platform: BNB
+  - address: '0xD436F4f4F309f3eeC38b33071CcC7115630a1F1C'
+    platform: BNB
 crypto: true
 fiat: false
 id: ACCG

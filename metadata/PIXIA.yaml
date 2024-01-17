@@ -1,6 +1,8 @@
 contracts:
   - address: '0x67675239fa58c84e75f947c14f566842dccb69ae'
     platform: ETH
+  - address: '0x833d94797cbea8279a689572b01f310ff5ffa31b'
+    platform: ETH
 crypto: true
 fiat: false
 id: PIXIA

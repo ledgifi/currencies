@@ -1,6 +1,8 @@
 contracts:
   - address: Fm9rHUTF5v3hwMLbStjZXqNBBoZyGriQaFM6sTFz3K8A
     platform: SOL
+  - address: '0x8Fbd0648971d56f1f2c35Fa075Ff5Bc75fb0e39D'
+    platform: TBA
 crypto: true
 fiat: false
 id: MBS

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xec9493312fb6bdfe2d27079732fe8cc8e9744b64'
     platform: BNB
+  - address: '0x41C2080E2A84FEBc5a92E8e1feb60a0342B684BD'
+    platform: BNB
 crypto: true
 fiat: false
 id: $LUNAINU

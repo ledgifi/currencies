@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xadf5DD3E51bF28aB4F07e684eCF5d00691818790'
+    platform: ARB
   - address: '0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6'
     platform: ETH
+  - address: '0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ICHI

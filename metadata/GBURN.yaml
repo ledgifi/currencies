@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7e5cF1F395846AB2c13eba2e6953b54B92a80BbD'
     platform: BNB
+  - address: '0x4eea762311be76f9071aa01058c047ad12a017a1'
+    platform: ETH
 crypto: true
 fiat: false
 id: GBURN

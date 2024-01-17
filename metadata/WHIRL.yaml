@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7f479d78380ad00341fdd7322fe8aef766e29e5a'
     platform: BNB
+  - address: '0xa993e7cf7c48e6bf3a735b9d10e91baaf812eab9'
+    platform: BNB
 crypto: true
 fiat: false
 id: WHIRL

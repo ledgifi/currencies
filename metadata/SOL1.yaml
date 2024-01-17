@@ -11,6 +11,10 @@ contracts:
     platform: MATIC
   - address: sol.token.a11bd.near
     platform: NEAR
+  - address: '0x5f38248f339bf4e84a2caf4e4c0552862dc9f82a'
+    platform: NEON
+  - address: ibc/1E43D59E565D41FB4E54CA639B838FFD5BCFC20003D330A56CB1396231AA1CBA
+    platform: OSMO
   - address: So11111111111111111111111111111111111111112
     platform: SOL
 crypto: true

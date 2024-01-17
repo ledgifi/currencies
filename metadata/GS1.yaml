@@ -1,6 +1,8 @@
 contracts:
   - address: '0x99F1699b33F80ea30b7d0138C749363Cce3D8e39'
     platform: BNB
+  - address: '0xe38E3a21A4c0887E1aB0c2fbc3CAA4c71d8aE170'
+    platform: BNB
 crypto: true
 fiat: false
 id: GS1

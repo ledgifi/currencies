@@ -1,6 +1,8 @@
 contracts:
   - address: '0x8888888837F84a7A82668E0320AC454f5945d0b9'
     platform: BNB
+  - address: '0x8888888837f84a7a82668e0320ac454f5945d0b9'
+    platform: ETH
 crypto: true
 fiat: false
 id: WORK1

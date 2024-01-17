@@ -1,6 +1,10 @@
 contracts:
   - address: '0x6d57B2E05F26C26b549231c866bdd39779e4a488'
     platform: ETH
+  - address: '0xc8bb8eda94931ca2f20ef43ea7dbd58e68400400'
+    platform: MATIC
+  - address: 9TPL8droGJ7jThsq4momaoz6uhTcvX2SeMqipoPmNa8R
+    platform: SOL
 crypto: true
 fiat: false
 id: VNXAU

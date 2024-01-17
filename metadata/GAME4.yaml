@@ -1,6 +1,8 @@
 contracts:
   - address: '0x66109633715d2110dda791e64a7b2afadb517abb'
     platform: BNB
+  - address: '0xD567B5F02b9073aD3a982a099a23Bf019FF11d1c'
+    platform: ETH
 crypto: true
 fiat: false
 id: GAME4

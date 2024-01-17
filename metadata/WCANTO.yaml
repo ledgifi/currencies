@@ -1,6 +1,8 @@
 contracts:
   - address: '0x826551890dc65655a0aceca109ab11abdbd7a07b'
     platform: CANTO
+  - address: '0x56c03b8c4fa80ba37f5a7b60caaaef749bb5b220'
+    platform: ETH
 crypto: true
 fiat: false
 id: WCANTO

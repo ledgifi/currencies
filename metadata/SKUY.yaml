@@ -1,6 +1,8 @@
 contracts:
   - address: '0xE327Ce757CD206721e100812E744fc56e4E0A969'
     platform: BNB
+  - address: '0x71d03A620646f8b572282Ef39228D36Add67ee20'
+    platform: BNB
 crypto: true
 fiat: false
 id: SKUY

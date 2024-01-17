@@ -1,6 +1,8 @@
 contracts:
   - address: '0x817bbDbC3e8A1204f3691d14bB44992841e3dB35'
     platform: ETH
+  - address: ibc/E09ED39F390EC51FA9F3F69BEA08B5BBE6A48B3057B2B1C3467FAAE9E58B021B
+    platform: OSMO
 crypto: true
 fiat: false
 id: CUDOS

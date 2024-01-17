@@ -1,6 +1,8 @@
 contracts:
   - address: '0x106818f05f208219f45401c57509f14f39a57715'
     platform: BNB
+  - address: '0xA99600043E84181A9d4137aD1cefB8cfE9138674'
+    platform: BNB
 crypto: true
 fiat: false
 id: FXG

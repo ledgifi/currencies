@@ -1,6 +1,10 @@
 contracts:
   - address: '0xd402298a793948698b9a63311404FBBEe944eAfD'
     platform: AVAX
+  - address: '0x31e4efe290973ebe91b3a875a7994f650942d28f'
+    platform: BNB
+  - address: '0x31e4efe290973ebe91b3a875a7994f650942d28f'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHRAP1

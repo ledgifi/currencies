@@ -1,6 +1,8 @@
 contracts:
   - address: '0x37c4822DFcEa7211d1D9876dABd48c62D46dbAAb'
     platform: ETH
+  - address: '0x78d448a1d1fedaa3e916f467568e86081e0f4df5'
+    platform: ETH
 crypto: true
 fiat: false
 id: MBET

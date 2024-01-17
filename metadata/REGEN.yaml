@@ -5,6 +5,8 @@ contracts:
     platform: ETH
   - address: '0xEc482De9569a5EA3Dd9779039b79e53F15791fDE'
     platform: MATIC
+  - address: ibc/1DCC8A6CB5689018431323953344A9F6CC4D0BFB261E88C9F7777372C10CD076
+    platform: OSMO
 crypto: true
 fiat: false
 id: REGEN

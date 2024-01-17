@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xa80221d067603e30060f75e2458aa361f8ee5402'
+    platform: BNB
+  - address: '0xa80221d067603e30060f75e2458aa361f8ee5402'
+    platform: ETH
 crypto: true
 fiat: false
 id: IRL1

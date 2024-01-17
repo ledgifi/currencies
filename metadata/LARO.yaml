@@ -1,6 +1,8 @@
 contracts:
   - address: '0xA534687815AAc89A61a6350901157a9d3Bab2585'
     platform: BNB
+  - address: '0x03b9AC4602b587f824E72d6F41c3eb8271037a91'
+    platform: MATIC
 crypto: true
 fiat: false
 id: LARO

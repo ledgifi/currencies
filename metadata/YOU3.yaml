@@ -1,6 +1,8 @@
 contracts:
   - address: '0xB583961E033Dfe0FfF161952f7BA21c411b6103d'
     platform: BNB
+  - address: '0xb92ba0a6a843379499770de82aa936d6ba0fd8ca'
+    platform: ETH
 crypto: true
 fiat: false
 id: YOU3

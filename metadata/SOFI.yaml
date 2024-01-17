@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xB49fa25978abf9a248b8212Ab4b87277682301c0'
     platform: ETH
+  - address: '0x703d57164ca270b0b330a87fd159cfef1490c0a5'
+    platform: TBA
 crypto: true
 fiat: false
 id: SOFI

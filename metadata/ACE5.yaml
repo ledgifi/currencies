@@ -1,6 +1,8 @@
 contracts:
   - address: '0xcbd0595113c173ab7746347d0600d390a85a7eea'
     platform: ETH
+  - address: '0x9fcf4497ed9fbb8d8b46259e4f2bb4749953ab8b'
+    platform: ETH
 crypto: true
 fiat: false
 id: ACE5

@@ -1,5 +1,15 @@
 contracts:
+  - address: '0xDEa12C8C23994EA2D88eD99eE1bdc0FF56f7F9d1'
+    platform: BNB
+  - address: '0x2c2d8a078b33bf7782a16acce2c5ba6653a90d5f'
+    platform: ETH
   - address: '0x5f0456f728e2d59028b4f5b8ad8c604100724c6a'
+    platform: FTM
+  - address: '0x2C2D8a078B33bf7782a16AcCE2C5BA6653a90D5f'
+    platform: MATIC
+  - address: '0x5f0456f728e2d59028b4f5b8ad8c604100724c6a'
+    platform: TOMB
+  - address: '0x94bb580D7f99c30F125669bFAF8164d5Ff6436e7'
     platform: TOMB
 crypto: true
 fiat: false

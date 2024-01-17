@@ -1,8 +1,14 @@
 contracts:
+  - address: '0xa6099b214e8d069911702bc92ef274f63c476c5a'
+    platform: ARB
   - address: '0x382EC3F9F2E79b03abF0127f3Aa985B148cEf6d7'
     platform: BNB
   - address: '0xe9b7b5d5e8d2bcc78884f9f9099bfa42a9e5c1a5'
     platform: ETH
+  - address: '0x07279343ce61c11cb091142c8a20a1f8194d0ca8'
+    platform: GNO
+  - address: '0x3a79241a92a4f06952107308057da1991792d372'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ZENF

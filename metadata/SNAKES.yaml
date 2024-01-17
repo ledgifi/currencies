@@ -1,6 +1,8 @@
 contracts:
   - address: '0xd26f1d7cf221ed3914626d91c6f51565eee08dd0'
     platform: BNB
+  - address: FuvFLtx68uGjhr4GWET8JTskC7s3R7MM4Feg8toyzFvf
+    platform: SOL
 crypto: true
 fiat: false
 id: SNAKES

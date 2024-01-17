@@ -1,6 +1,8 @@
 contracts:
   - address: '0x865ec58b06bf6305b886793aa20a2da31d034e68'
     platform: ETH
+  - address: '0xBeE20B9Df360B8442534Ed8059f3e5bAEeB74EaF'
+    platform: ETH
 crypto: true
 fiat: false
 id: MOC

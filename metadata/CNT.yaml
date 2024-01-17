@@ -1,3 +1,10 @@
+contracts:
+  - address: 0xc051aad4e29ffb57bde2a55dd795ac2ad7cd8142fd59602219558f41e7847275::CNT::Cnt
+    platform: APT
+  - address: '0x23c90dbf4fC282e352B75CC13d095Cc2496D3271'
+    platform: BNB
+  - address: '0x23c90dbf4fC282e352B75CC13d095Cc2496D3271'
+    platform: ETH
 crypto: true
 fiat: false
 id: CNT

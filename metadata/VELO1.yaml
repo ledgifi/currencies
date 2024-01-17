@@ -1,6 +1,8 @@
 contracts:
   - address: '0x3c8B650257cFb5f272f799F5e2b4e65093a11a05'
     platform: OP
+  - address: '0x9560e827af36c94d2ac33a39bce1fe78631088db'
+    platform: OP
 crypto: true
 fiat: false
 id: VELO1

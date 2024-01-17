@@ -1,6 +1,8 @@
 contracts:
   - address: https://etherscan.io/token/0x440f52c497a0f5163259e16d3d95a533b99be961
     platform: ETH
+  - address: '0x440f52c497a0f5163259e16d3d95a533b99be961'
+    platform: ETH
 crypto: true
 fiat: false
 id: TBC2

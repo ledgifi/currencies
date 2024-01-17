@@ -1,6 +1,8 @@
 contracts:
   - address: '0x8d8f4d3a7d5a69d7163d8a325b01deab180177c3'
     platform: BNB
+  - address: 7FxHGcAsguJYSRTanWMbTr3JCXTdCyDSktPd4C4jWEUy
+    platform: SOL
 crypto: true
 fiat: false
 id: GNX1

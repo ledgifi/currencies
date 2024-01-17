@@ -3,6 +3,8 @@ contracts:
     platform: AVAX
   - address: '0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0'
     platform: ETH
+  - address: '0x9929bCAC4417A21d7e6FC86F6Dae1Cc7f27A2e41'
+    platform: TBD
 crypto: true
 fiat: false
 id: DEXTF

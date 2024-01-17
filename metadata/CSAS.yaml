@@ -1,6 +1,8 @@
 contracts:
   - address: 08fc8bc813521635dd1471917a8d4a91749573df5454bac3b6f868e506347156i0
     platform: BTC
+  - address: '0x11bac0c3c81838022327198aa46124cdb8ce6ab9'
+    platform: ETH
 crypto: true
 fiat: false
 id: CSAS

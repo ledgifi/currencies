@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x16faf9daa401aa42506af503aa3d80b871c467a3'
+    platform: BNB
+  - address: '0x672f4fa517894496b8a958b4b3fca068ce513a39'
+    platform: ETH
 crypto: true
 fiat: false
 id: DCK

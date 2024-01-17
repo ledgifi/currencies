@@ -1,6 +1,8 @@
 contracts:
   - address: '0xeF9a61e7A7c4D2249c740c4c0458c992598c4714'
     platform: BNB
+  - address: '0x1a7c0505994d54d7f87b7a6754c60dc6abad03f2'
+    platform: BNB
 crypto: true
 fiat: false
 id: MEMEN
