@@ -1,9 +1,14 @@
+contracts:
+  - address: '0xBdEAe1cA48894A1759A8374D63925f21f2Ee2639'
+    platform: BNB
+  - address: '0x26aad156ba8efa501b32b42ffcdc8413f90e9c99'
+    platform: ETH
+  - address: '0xb03e3b00baf9954bf1604d09a4dbd5cf88e1f695'
+    platform: MATIC
 crypto: true
-decimals: 8
 fiat: false
 id: EDU
 id_binance: '1181'
-id_coinmarketcap: '244'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/244.png
-logoKey: currencies/edu.png
-name: EduCoin
+id_coinmarketcap: '24613'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24613.png
+name: Open Campus
