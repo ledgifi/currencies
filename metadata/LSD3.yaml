@@ -1,10 +1,9 @@
 contracts:
-  - address: '0xcD1B51b87a8a7137D6421bA5A976225187a26777'
-    platform: BNB
+  - address: '0xfac77a24e52b463ba9857d6b758ba41ae20e31ff'
+    platform: ETH
 crypto: true
 fiat: false
 id: LSD3
-id_coinmarketcap: '28047'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28047.png
-logoKey: currencies/lsd3.png
-name: L7
+id_coinmarketcap: '24063'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24063.png
+name: LSDx Finance
