@@ -1,10 +1,9 @@
 contracts:
-  - address: '0xe514d9deb7966c8be0ca922de8a064264ea6bcd4'
-    platform: RON
+  - address: '0x40300e0045239fe76cd07251313f923b29df1e55'
+    platform: BNB
 crypto: true
 fiat: false
-id: RON5
-id_coinmarketcap: '14101'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14101.png
-logoKey: currencies/ron5.png
-name: Ronin
+id: RON1
+id_coinmarketcap: '10921'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10921.png
+name: Rise Of Nebula
