@@ -1,14 +1,11 @@
 contracts:
-  - address: '0xa0ED3C520dC0632657AD2EaaF19E26C4fD431a84'
-    platform: BNB
-  - address: '0xa0ED3C520dC0632657AD2EaaF19E26C4fD431a84'
+  - address: '0x07327a00ba28D413f745C931bbe6bE053B0AD2a6'
     platform: ETH
-  - address: '0x823d826d3aB6956ba934893f325e7c323fAAF6Ca'
-    platform: GLMR
+  - address: '0xfE39C384D702914127a005523f9915ADDB9bd59b'
+    platform: ETH
 crypto: true
 fiat: false
 id: HPO
-id_coinmarketcap: '22314'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22314.png
-logoKey: currencies/hpo.png
-name: Hippo Wallet Token (HPO)
+id_coinmarketcap: '3600'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3600.png
+name: Hippocrat
