@@ -1,10 +1,9 @@
 contracts:
-  - address: 279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f534e454b
-    platform: ADA
+  - address: '0xeeee99b35eb6af5e7d76dd846dbe4bcc0c60ca1d'
+    platform: AVAX
 crypto: true
 fiat: false
 id: SNEK1
-id_coinmarketcap: '25264'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25264.png
-logoKey: currencies/snek1.png
-name: Snek
+id_coinmarketcap: '24598'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24598.png
+name: SoliSnek
