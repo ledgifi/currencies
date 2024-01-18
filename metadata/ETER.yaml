@@ -1,6 +1,8 @@
 contracts:
   - address: '0xA7d2E49C1777d294FC6346EdC25CA0EcB3577F39'
     platform: BNB
+  - address: '0x621879C6239d8ab9B82712fb56e7be880cE0c6eE'
+    platform: ETH
 crypto: true
 fiat: false
 id: ETER
