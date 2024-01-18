@@ -1,10 +1,13 @@
 contracts:
-  - address: '0xdfe66b14d37c77f4e9b180ceb433d1b164f0281d'
+  - address: '0xae7ab96520de3a18e5e111b5eaab095312d7fe84'
     platform: ETH
+  - address: terra1w7ywr6waxtjuvn5svk5wqydqpjj0q9ps7qct4d
+    platform: LUNC
+  - address: H2mf9QNdU2Niq6QR7367Ua2trBsvscLyX5bz7R3Pw5sE
+    platform: SOL
 crypto: true
 fiat: false
-id: STETH
-id_coinmarketcap: '8311'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8311.png
-logoKey: currencies/steth.png
-name: StakeHound Staked Ether
+id: stETH1
+id_coinmarketcap: '8085'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8085.png
+name: Lido Staked ETH
