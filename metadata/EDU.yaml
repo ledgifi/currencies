@@ -6,6 +6,7 @@ contracts:
   - address: '0xb03e3b00baf9954bf1604d09a4dbd5cf88e1f695'
     platform: MATIC
 crypto: true
+decimals: 8
 fiat: false
 id: EDU
 id_binance: '1181'
