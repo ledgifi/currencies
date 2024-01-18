@@ -1,0 +1,10 @@
+contracts:
+  - address: 0xd0ea9bc91c3855e9b58a51cd55e8455b37bd5c75f70b4d6e97e54b55c4ba4ae8::issp::ISSP
+    platform: SUI
+crypto: true
+fiat: false
+id: ISSP
+id_coinmarketcap: '29083'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29083.png
+logoKey: currencies/issp.png
+name: ISSP
