@@ -2,8 +2,10 @@ contracts:
   - address: '0x6e2a43be0b1d33b726f0ca3b8de60b3482b8b050'
     platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: ARKM
+id_binance: '1200'
 id_coinmarketcap: '27565'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27565.png
 logoKey: currencies/arkm.png
