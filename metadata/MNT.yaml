@@ -1,10 +1,9 @@
 contracts:
-  - address: '0xc7c36ee729968944a86e0cd504deccd3b0edbae1'
+  - address: '0x3c3a81e81dc49a522a592e7622a7e711c06bf354'
     platform: ETH
 crypto: true
 fiat: false
-id: MNT
-id_coinmarketcap: '21995'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21995.png
-logoKey: currencies/mnt.png
-name: microNFT
+id: MNT3
+id_coinmarketcap: '27075'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27075.png
+name: Mantle
