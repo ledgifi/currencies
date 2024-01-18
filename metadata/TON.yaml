@@ -1,11 +1,13 @@
 contracts:
-  - address: '0x2be5e8c109e2197D077D13A82dAead6a9b3433C5'
+  - address: '0x76a797a59ba2c17726896976b7b3747bfd1d220f'
+    platform: BNB
+  - address: '0x582d872a1b094fc48f5de31d3b73f2d9be47def1'
     platform: ETH
+  - address: EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c
+    platform: TON
 crypto: true
 fiat: false
-id: TON
-id_coinmarketcap: '6731'
-id_nomics: TON
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TON.png
-logoKey: currencies/ton.png
-name: Tokamak Network
+id: TON1
+id_coinmarketcap: '11419'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png
+name: Toncoin
