@@ -1,9 +1,11 @@
+contracts:
+  - address: ibc/126DA09104B71B164883842B769C0E9EC1486C0887D27A9999E395C2C8FB5682
+    platform: OSMO
 crypto: true
 decimals: 8
 fiat: false
 id: NTRN
 id_binance: '1192'
-id_coinmarketcap: '894'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/894.png
-logoKey: currencies/ntrn.png
+id_coinmarketcap: '26680'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26680.png
 name: Neutron
