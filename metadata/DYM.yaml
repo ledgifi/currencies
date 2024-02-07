@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: DYM
+id_binance: '1274'
 id_coinmarketcap: '28932'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28932.png
 logoKey: currencies/dym.png
