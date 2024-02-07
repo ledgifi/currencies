@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xC9dF967627121D67BC120fAdb291C3BA5800aB2d'
+    platform: MATIC
+crypto: true
+fiat: false
+id: FWD
+id_coinmarketcap: '28671'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28671.png
+logoKey: currencies/fwd.png
+name: Rewind Protocol

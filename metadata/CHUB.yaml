@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x0d5639a1442730372e2a650a2900ba07937854f4'
+    platform: ETH
+crypto: true
+fiat: false
+id: CHUB
+id_coinmarketcap: '29135'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29135.png
+logoKey: currencies/chub.png
+name: CallHub

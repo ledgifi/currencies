@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x15e6E0D4ebeAC120F9a97e71FaA6a0235b85ED12'
+    platform: ETH
+crypto: true
+fiat: false
+id: SAVM
+id_coinmarketcap: '29095'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29095.png
+logoKey: currencies/savm.png
+name: SatoshiVM

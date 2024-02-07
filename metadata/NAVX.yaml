@@ -1,0 +1,10 @@
+contracts:
+  - address: 0xa99b8952d4f7d947ea77fe0ecdcc9e5fc0bcab2841d6e2a5aa00c3044e5544b5::navx::NAVX
+    platform: SUI
+crypto: true
+fiat: false
+id: NAVX
+id_coinmarketcap: '29296'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29296.png
+logoKey: currencies/navx.png
+name: NAVX Token

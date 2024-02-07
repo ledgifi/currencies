@@ -1,0 +1,10 @@
+contracts:
+  - address: ibc/AC87717EA002B0123B10A05063E69BCA274BA2C44D842AEEB41558D2856DCE93
+    platform: INJ
+crypto: true
+fiat: false
+id: STINJ
+id_coinmarketcap: '29238'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29238.png
+logoKey: currencies/stinj.png
+name: Stride Staked Injective

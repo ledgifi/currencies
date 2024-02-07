@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x96f6ef951840721adbf46ac996b59e0235cb985c'
+    platform: ETH
+crypto: true
+fiat: false
+id: USDY1
+id_coinmarketcap: '29256'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29256.png
+logoKey: currencies/usdy1.png
+name: Ondo US Dollar Yield

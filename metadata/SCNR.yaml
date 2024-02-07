@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x8888888888885B073f3C81258C27E83DB228d5f3'
+    platform: KLAY
+crypto: true
+fiat: false
+id: SCNR
+id_coinmarketcap: '29205'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29205.png
+logoKey: currencies/scnr.png
+name: Swapscanner

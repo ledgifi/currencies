@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7'
+    platform: ETH
+crypto: true
+fiat: false
+id: RSETH
+id_coinmarketcap: '29242'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29242.png
+logoKey: currencies/rseth.png
+name: Kelp DAO Restaked ETH
