@@ -62,6 +62,8 @@ contracts:
     platform: GNO
   - address: 0.0.456858
     platform: HBAR
+  - address: peggy0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
+    platform: INJ
   - address: '0x3b2bf2b523f54c4e454f08aa286d03115aff326c'
     platform: IOTX
   - address: '0x3ad9dfe640e1a9cc1d9b0948620820d975c3803a'

@@ -1,6 +1,8 @@
 contracts:
   - address: xdc17476dc3eda45ad916ceaddea325b240a7fb259d
     platform: XDC
+  - address: '0x17476dc3eda45ad916ceaddea325b240a7fb259d'
+    platform: XDC
 crypto: true
 fiat: false
 id: XTT

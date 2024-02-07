@@ -1,5 +1,7 @@
 contracts:
   - address: '0xffa188493c15dfaf2c206c97d8633377847b6a52'
+    platform: ETH
+  - address: '0xffa188493c15dfaf2c206c97d8633377847b6a52'
     platform: MATIC
   - address: '0x60892e742d91d16Be2cB0ffE847e85445989e30B'
     platform: TBA

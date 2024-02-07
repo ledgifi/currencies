@@ -8,6 +8,8 @@ contracts:
     platform: CRO
   - address: '0x8D983cb9388EaC77af0474fA441C4815500Cb7BB'
     platform: ETH
+  - address: ibc/c4cff46fd6de35ca4cf4ce031e643c8fdc9ba4b99ae598e9b0ed98fe3a2319f9
+    platform: INJ
   - address: '0xac51C4c48Dc3116487eD4BC16542e27B5694Da1b'
     platform: MATIC
   - address: IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2

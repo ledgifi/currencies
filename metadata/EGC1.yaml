@@ -1,6 +1,8 @@
 contracts:
   - address: '0xd68e5c52f7563486cc1a15d00efa12c8644a907e'
     platform: BNB
+  - address: '0x4ac4fc5317f95849a1f17e2f4daf03c32196f0cb'
+    platform: BNB
 crypto: true
 fiat: false
 id: EGC1

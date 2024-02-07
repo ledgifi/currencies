@@ -1,18 +1,30 @@
 contracts:
   - address: '0x350Fa8f62E50f8ac20a840C3dC570ebC5bdffC4C'
     platform: ARB
+  - address: '0x524d524B4c9366be706D3A90dcf70076ca037aE3'
+    platform: ASTR
+  - address: '0x524d524B4c9366be706D3A90dcf70076ca037aE3'
+    platform: BNB
   - address: '0x471ea49dd8e60e697f4cac262b5fafcc307506e4'
     platform: ETH
+  - address: '0x524d524B4c9366be706D3A90dcf70076ca037aE3'
+    platform: ETH
   - address: '0xECf2ADafF1De8A512f6e8bfe67a2C836EDb25Da3'
+    platform: GLMR
+  - address: '0x524d524B4c9366be706D3A90dcf70076ca037aE3'
     platform: GLMR
   - address: https://statemine.statescan.io/asset/8
     platform: KSM
   - address: '0xd225eAD1Ce2554F6CB519894Fc98cFB882566339'
     platform: MATIC
+  - address: '0x524d524B4c9366be706D3A90dcf70076ca037aE3'
+    platform: MATIC
   - address: '0xffffffFF893264794d9d57E1E0E21E0042aF5A0A'
     platform: MOVR
   - address: '0xE6cDD3a275c976BcA5d3De4F96c7514B899f0434'
     platform: OP
+  - address: '0x524d524B4c9366be706D3A90dcf70076ca037aE3'
+    platform: TBA
 crypto: true
 fiat: false
 id: RMRK

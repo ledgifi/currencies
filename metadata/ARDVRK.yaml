@@ -1,6 +1,8 @@
 contracts:
   - address: '0xD0E94BF2466979B81d738c34058d4a6559c4D8BE'
     platform: ETH
+  - address: '0x66D4e39C355a911F6D19B3612785B63184A57C72'
+    platform: ETH
 crypto: true
 fiat: false
 id: ARDVRK

@@ -1,4 +1,7 @@
 color: '#292a2e'
+contracts:
+  - address: ryjl3-tyaaa-aaaaa-aaaba-cai
+    platform: ICP
 crypto: true
 decimals: 8
 fiat: false

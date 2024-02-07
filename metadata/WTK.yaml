@@ -5,6 +5,8 @@ contracts:
     platform: ETH
   - address: xdcb3f18b584263191a33169f6393487e43e9586329
     platform: XDC
+  - address: '0xb3f18b584263191a33169f6393487e43e9586329'
+    platform: XDC
 crypto: true
 fiat: false
 id: WTK

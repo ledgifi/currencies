@@ -1,6 +1,8 @@
 contracts:
   - address: '0xFbDB1Fa163a0e8d90DD88104F44C093882A71914'
     platform: BNB
+  - address: '0xE01569e7056D43b67E9a13aA168F36ba9d93f46C'
+    platform: ETH
 crypto: true
 fiat: false
 id: FRZSSCOIN

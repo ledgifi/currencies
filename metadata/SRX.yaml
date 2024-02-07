@@ -1,6 +1,8 @@
 contracts:
   - address: xdc5d5f074837f5d4618b3916ba74de1bf9662a3fed
     platform: XDC
+  - address: '0x5d5f074837f5d4618b3916ba74de1bf9662a3fed'
+    platform: XDC
 crypto: true
 fiat: false
 id: SRX

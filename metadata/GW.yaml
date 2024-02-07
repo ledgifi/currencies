@@ -1,6 +1,8 @@
 contracts:
   - address: '0x77774A06271d6A305CAccDBc06f847DEF05c7777'
     platform: BNB
+  - address: '0x77774a06271d6a305caccdbc06f847def05c7777'
+    platform: ETH
 crypto: true
 fiat: false
 id: GW

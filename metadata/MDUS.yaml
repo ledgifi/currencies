@@ -1,6 +1,8 @@
 contracts:
   - address: 0xab9cb20a28f97e189ca0b666b8087803ad636b3c(Klaytn)
     platform: KLAY
+  - address: '0xab9cb20a28f97e189ca0b666b8087803ad636b3c'
+    platform: KLAY
 crypto: true
 fiat: false
 id: MDUS

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xe9Ec556703005f798d4F965c254FC427A64e831e'
     platform: ETH
+  - address: D5ymUBHsvoVYKAGUCGknk2Cm8UYGKTntxJ62T3C46NXS
+    platform: SOL
 crypto: true
 fiat: false
 id: EXG

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x737ed8c950b7F8e35ef23c85Caf449569663d9e6'
     platform: BNB
+  - address: '0x27c77063a7131969863c4902e6C6b12ec2Ab7a93'
+    platform: BNB
 crypto: true
 fiat: false
 id: VASE

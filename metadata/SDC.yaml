@@ -1,6 +1,8 @@
 contracts:
   - address: '0xAE4cA3272792d8499575AEFacdc299F0cBdc9270'
     platform: BNB
+  - address: '0x5a741d624214046F2820c2b6e67082c8849EBc9f'
+    platform: ETH
 crypto: true
 fiat: false
 id: SDC

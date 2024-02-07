@@ -1,6 +1,8 @@
 contracts:
   - address: '0xC53ca0d56C420E8f913316e84d2c492eDe99c61e'
     platform: BNB
+  - address: '0xb09a74d60D4DbD6042B0679fF446d2Ce2A888888'
+    platform: BNB
 crypto: true
 fiat: false
 id: GROK4

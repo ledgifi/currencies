@@ -5,6 +5,8 @@ contracts:
     platform: BNB
   - address: '0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006'
     platform: ETH
+  - address: ibc/8061A06D3BD4D52C4A28FFECF7150D370393AF0BA661C3776C54FF32836C3961
+    platform: OSMO
 crypto: true
 fiat: false
 id: PSTAKE

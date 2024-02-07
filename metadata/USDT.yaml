@@ -58,6 +58,8 @@ contracts:
     platform: HSC
   - address: '0xa71edc38d189767582c38a3145b5873052c3e47a'
     platform: HT
+  - address: peggy0xdac17f958d2ee523a2206206994597c13d831ec7
+    platform: INJ
   - address: '0x6fbcdc1169b5130c59e72e51ed68a84841c98cd1'
     platform: IOTX
   - address: '0x551a5dcac57c66aa010940c2dcff5da9c53aa53b'

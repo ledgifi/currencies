@@ -1,6 +1,8 @@
 contracts:
   - address: https://explorer.injective.network/asset/?denom=factory/inj1maeyvxfamtn8lfyxpjca8kuvauuf2qeu6gtxm3/Talis&tokenType=tokenFactory
     platform: INJ
+  - address: factory/inj1maeyvxfamtn8lfyxpjca8kuvauuf2qeu6gtxm3/Talis
+    platform: INJ
 crypto: true
 fiat: false
 id: TALIS

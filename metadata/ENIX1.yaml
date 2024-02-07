@@ -1,6 +1,8 @@
 contracts:
   - address: '0x408cefb5f92f0e47fc12e9840cc50529fc986226'
     platform: BNB
+  - address: '0x7787E53d8091e153eb0D0339d4e912fEe4402D9a'
+    platform: BNB
 crypto: true
 fiat: false
 id: ENIX1

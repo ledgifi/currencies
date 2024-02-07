@@ -1,6 +1,10 @@
 contracts:
   - address: '0x96f6ef951840721adbf46ac996b59e0235cb985c'
     platform: ETH
+  - address: '0x5bE26527e817998A7206475496fDE1E68957c5A6'
+    platform: MNT
+  - address: A1KLoBrKBde8Ty9qtNQUtq3C2ortoC3u7twggz7sEto6
+    platform: SOL
 crypto: true
 fiat: false
 id: USDY1

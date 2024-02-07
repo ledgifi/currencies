@@ -1,6 +1,8 @@
 contracts:
   - address: '0x8eEcaad83a1Ea77bD88A818d4628fAfc4CaD7969'
     platform: ETH
+  - address: '0x17c50d62e6e8d20d2dc18e9ad79c43263d0720d9'
+    platform: ETH
 crypto: true
 fiat: false
 id: NFAI

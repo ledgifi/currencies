@@ -1,3 +1,10 @@
+contracts:
+  - address: '0x1ffefd8036409cb6d652bd610de465933b226917'
+    platform: BNB
+  - address: '0x1ffefd8036409cb6d652bd610de465933b226917'
+    platform: ETH
+  - address: EVER
+    platform: EVER
 crypto: true
 fiat: false
 id: EVER

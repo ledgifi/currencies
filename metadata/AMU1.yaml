@@ -1,4 +1,10 @@
 contracts:
+  - address: '0x174c47D6A4E548ED2B7d369dC0fFb2E60A6ac0F8'
+    platform: ETH
+  - address: '0xD507361174a0fdE521bf8c097ef19dd31FFca710'
+    platform: MATIC
+  - address: '0x5C0Ea461FE5E6f3b4f90a071E72243C14C6abfd7'
+    platform: OP
   - address: AMUwxPsqWSd1fbCGzWsrRKDcNoduuWMkdR38qPdit8G8
     platform: SOL
 crypto: true

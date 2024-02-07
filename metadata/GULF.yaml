@@ -1,6 +1,8 @@
 contracts:
   - address: '0x014a087b646Bd90E7DCEad3993F49EB1F4B5f30a'
     platform: BNB
+  - address: '0x7597Bdccf10e41bCCC374A6a0104cF430C420884'
+    platform: BNB
 crypto: true
 fiat: false
 id: GULF

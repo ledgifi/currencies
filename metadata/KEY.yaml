@@ -1,6 +1,8 @@
 contracts:
   - address: '0x4cc19356f2d37338b9802aa8e8fc58b0373296e7'
     platform: ETH
+  - address: '0x32dC2dD3C2bE453a369625e6Fe0E438aeD814919'
+    platform: MATIC
 crypto: true
 decimals: 8
 fiat: false

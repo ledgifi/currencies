@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: '0x0262E9374E95B9667B78136C3897Cb4e4Ef7f0c2'
     platform: ETH
+  - address: '0xCb64CdeB45deF1C513fd890E7E76a865baE46060'
+    platform: MATIC
 crypto: true
 fiat: false
 id: FAKT

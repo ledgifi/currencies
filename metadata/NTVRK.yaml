@@ -1,7 +1,11 @@
 contracts:
   - address: '0xfc0d6cf33e38bce7ca7d89c0e292274031b7157a'
     platform: ETH
+  - address: '0x52498F8d9791736f1D6398fE95ba3BD868114d10'
+    platform: ETH
   - address: '0x73a4dc4215dc3eb6aae3c7aafd2514cb34e5d983'
+    platform: MATIC
+  - address: '0x3558887f15b5b0074dC4167761DE14A6DFcb676e'
     platform: MATIC
 crypto: true
 fiat: false

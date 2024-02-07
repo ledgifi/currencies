@@ -1,6 +1,8 @@
 contracts:
   - address: '0x278BFe592dE82E584dC4ED0D7a0110e88fbD6c1A'
     platform: BNB
+  - address: '0xe34B5DF7EabacAdf00cFB005dd707CC64cD01856'
+    platform: BNB
 crypto: true
 fiat: false
 id: MN
