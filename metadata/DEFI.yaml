@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x98b2de885e916b598f65ded2fdbb63187eaef184'
+  - address: '0x6d106c0b8d2f47c5465bdbd58d1be253762cbbc1'
+    platform: BNB
+  - address: '0x6B0FaCA7bA905a86F221CEb5CA404f605e5b3131'
     platform: ETH
 crypto: true
 fiat: false
 id: DEFI
-id_coinmarketcap: '4276'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4276.png
+id_coinmarketcap: '29200'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29200.png
 logoKey: currencies/defi.png
-name: Defi
+name: DeFi
