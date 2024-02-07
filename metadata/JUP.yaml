@@ -1,5 +1,5 @@
 contracts:
-  - address: 'JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN'
+  - address: JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN
     platform: SOL
 crypto: true
 decimals: 8
@@ -8,4 +8,5 @@ id: JUP
 id_binance: '1269'
 id_coinmarketcap: '29210'
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20240131/8bdd107d-419a-4da7-a017-b2b6cfbdc017.jpeg
+logoKey: currencies/jup.jpeg
 name: Jupiter
