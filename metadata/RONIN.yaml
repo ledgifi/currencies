@@ -2,9 +2,10 @@ contracts:
   - address: '0xe514d9deb7966c8be0ca922de8a064264ea6bcd4'
     platform: RON
 crypto: true
+decimals: 8
 fiat: false
-id: RON1
+id: RONIN
+id_binance: '1268'
 id_coinmarketcap: '14101'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14101.png
-logoKey: currencies/ron1.png
 name: Ronin
