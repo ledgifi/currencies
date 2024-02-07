@@ -2,8 +2,10 @@ contracts:
   - address: HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3
     platform: SOL
 crypto: true
+decimals: 8
 fiat: false
 id: PYTH
+id_binance: '1271'
 id_coinmarketcap: '28177'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28177.png
 logoKey: currencies/pyth.png
