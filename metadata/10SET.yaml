@@ -1,8 +1,12 @@
+contracts:
+  - address: '0x1AE369A6AB222aFF166325B7b87Eb9aF06C86E57'
+    platform: BNB
 crypto: true
 fiat: false
 id: 10SET
+id_coinmarketcap: '9089'
 id_coinpaprika: 10set-tenset
 id_nomics: 10SET
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/10SET.jpg
-logoKey: currencies/10set.jpg
-name: 10Set Token (ERC-20)
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9089.png
+logoKey: currencies/10set.png
+name: Tenset
