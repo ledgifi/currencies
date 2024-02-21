@@ -1,12 +1,13 @@
 contracts:
-  - address: '0x47db24e17c0c4622523449a239b3de746e2b0b23'
-    platform: BNB
-  - address: '0x65e6b60ea01668634d68d0513fe814679f925bad'
+  - address: '0x3429d03c6F7521AeC737a0BBF2E5ddcef2C3Ae31'
     platform: ETH
+  - address: '0x7eae20d11ef8c779433eb24503def900b9d28ad7'
+    platform: RON
 crypto: true
+decimals: 8
 fiat: false
 id: PIXEL
-id_coinmarketcap: '12279'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12279.png
+id_binance: '1276'
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20240221/a400e124-6c71-4eb9-9aa0-a37b1fb7cbf3.png
 logoKey: currencies/pixel.png
-name: PixelVerse
+name: Pixels
