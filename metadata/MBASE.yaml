@@ -3,6 +3,10 @@ contracts:
     platform: BNB
   - address: '0xbA3E5F8b4200a5eb856FF2C3E001aB29444491AA'
     platform: ETH
+  - address: '0x291aa47C58558aDfc2bCD6f060578FDAE1F6570C'
+    platform: ETH
+  - address: '0x291aa47C58558aDfc2bCD6f060578FDAE1F6570C'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MBASE

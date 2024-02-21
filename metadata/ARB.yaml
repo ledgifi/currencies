@@ -3,6 +3,8 @@ contracts:
     platform: ARB
   - address: '0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1'
     platform: ETH
+  - address: ibc/10E5E5B06D78FFBB61FD9F89209DEE5FD4446ED0550CBB8E3747DA79E10D9DC6
+    platform: OSMO
 crypto: true
 decimals: 8
 fiat: false

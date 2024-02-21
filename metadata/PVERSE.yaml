@@ -1,6 +1,8 @@
 contracts:
   - address: '0x9733E1038897EFb36bB2E526C328c9b6A4b78dB2'
     platform: BNB
+  - address: '0x86c88e9523280d23f96c93962df824a43DD00806'
+    platform: ETH
 crypto: true
 fiat: false
 id: PVERSE

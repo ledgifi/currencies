@@ -1,6 +1,8 @@
 contracts:
   - address: '0x9C3701F6f4740D6f2CCda36A8eA50D8E775AB91a'
     platform: BNB
+  - address: '0x1993aec9d537f795ea34bd3baaaef47d25a605a4'
+    platform: BNB
 crypto: true
 fiat: false
 id: KBN

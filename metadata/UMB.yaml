@@ -1,6 +1,8 @@
 contracts:
   - address: '0x846f52020749715f02aef25b5d1d65e48945649d'
     platform: BNB
+  - address: UMB-e2b3d8
+    platform: EGLD
   - address: '0x6fc13eace26590b80cccab1ba5d51890577d83b2'
     platform: ETH
 crypto: true

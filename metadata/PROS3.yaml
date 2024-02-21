@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xbe1936a67f503e0eaf2434b0cf9f4e3d7100008a'
     platform: ETH
+  - address: '0xea0941c6e067a4fb4399436ad3e2510eb36b419d'
+    platform: MATIC
   - address: TFf1aBoNFqxN32V2NQdvNrXVyYCy9qY8p1
     platform: TRX
 crypto: true

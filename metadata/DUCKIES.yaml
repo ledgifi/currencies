@@ -5,6 +5,8 @@ contracts:
     platform: MATIC
   - address: '0x90b7E285ab6cf4e3A2487669dba3E339dB8a3320'
     platform: TBA
+  - address: '0x796000FAd0d00B003B9dd8e531BA90cff39E01E0'
+    platform: TBA
 crypto: true
 fiat: false
 id: DUCKIES

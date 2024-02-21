@@ -1,6 +1,8 @@
 contracts:
   - address: '0x57185189118c7e786cafd5c71f35b16012fa95ad'
     platform: BNB
+  - address: '0x0cc488a3f6c9a569614912e421115995493fdfec'
+    platform: ETH
 crypto: true
 fiat: false
 id: BEFE

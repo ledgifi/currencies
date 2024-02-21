@@ -1,6 +1,8 @@
 contracts:
   - address: '0x5BffE8DdFF21cA52D8371B14a6c39D6ae3C5D2C7'
     platform: ETH
+  - address: '0xb81914f05daf95802eb30726a399733e0696cd79'
+    platform: ETH
 crypto: true
 fiat: false
 id: $HOLA

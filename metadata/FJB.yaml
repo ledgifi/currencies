@@ -1,6 +1,8 @@
 contracts:
   - address: '0xa179248e50ce5afb507fd8c54e08a66fbac7b6ff'
     platform: BNB
+  - address: '0xfd55e4a6767ff7ffc0b8105262a8cdaabe7fbf3f'
+    platform: MATIC
 crypto: true
 fiat: false
 id: FJB

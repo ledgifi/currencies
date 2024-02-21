@@ -2,6 +2,8 @@ contracts:
   - address: '0x3d04edc843e74935c09f54cc4b2fe1870e347ac9'
     platform: BNB
   - address: '0xF56b164efd3CFc02BA739b719B6526A6FA1cA32a'
+    platform: BOBA
+  - address: '0xF56b164efd3CFc02BA739b719B6526A6FA1cA32a'
     platform: ETH
 crypto: true
 fiat: false

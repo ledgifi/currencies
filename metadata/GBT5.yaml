@@ -1,6 +1,8 @@
 contracts:
   - address: '0xd7D5d7BCD0680CD8AA5aFC34bC7037c3040f8210'
     platform: BNB
+  - address: '0xb8d5cc1462bf5a28366d58ffd4d40d5d26030f3f'
+    platform: BNB
 crypto: true
 fiat: false
 id: GBT5

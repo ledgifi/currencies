@@ -1,6 +1,8 @@
 contracts:
   - address: '0x59276455177429ae2af1cc62B77AE31B34EC3890'
     platform: ETH
+  - address: '0xaeB3607eC434454ceB308f5Cd540875efb54309A'
+    platform: ETH
 crypto: true
 fiat: false
 id: STRDY

@@ -3,6 +3,8 @@ contracts:
     platform: ARB
   - address: '0xC08512927D12348F6620a698105e1BAac6EcD911'
     platform: ETH
+  - address: Crn4x1Y2HUKko7ox2EZMT6N2t2ZyH7eKtwkBGVnhEq1g
+    platform: SOL
   - address: GDF6VOEGRWLOZ64PQQGKD2IYWA22RLT37GJKS2EJXZHT2VLAGWLC5TOB
     platform: XLM
 crypto: true

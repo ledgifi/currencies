@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xC31DDaAfCBe9F2e589B65199A9756630b99eb815'
+    platform: ARB
   - address: '0xd0D56273290D339aaF1417D9bfa1bb8cFe8A0933'
     platform: ETH
+  - address: '0x2e250061938231e8d85C9D2D3313DEe6674f6609'
+    platform: MATIC
 crypto: true
 fiat: false
 id: FOOM

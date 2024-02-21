@@ -1,6 +1,8 @@
 contracts:
   - address: '0x37da9de38c4094e090c014325f6ef4baeb302626'
     platform: ETH
+  - address: '0x5dA151B95657e788076D04d56234Bd93e409CB09'
+    platform: ETH
 crypto: true
 fiat: false
 id: OTSEA

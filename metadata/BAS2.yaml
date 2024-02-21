@@ -1,6 +1,8 @@
 contracts:
   - address: '0x8ddeec6b677c7c552c9f3563b99e4ff90b862ebc'
     platform: BNB
+  - address: '0xAd0926eCf31719263DC86426024794332d9dD9A3'
+    platform: BNB
 crypto: true
 fiat: false
 id: BAS2

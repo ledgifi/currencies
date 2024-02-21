@@ -1,8 +1,14 @@
 contracts:
   - address: '0xC14A7747cFec02CfeA62E72BB93538DE6B2078E6'
+    platform: ARB
+  - address: '0xC14A7747cFec02CfeA62E72BB93538DE6B2078E6'
     platform: BNB
+  - address: '0x38E3EA1f41AcceF53274f9544eD678a64C6eBd49'
+    platform: ETH
   - address: '0xC14A7747cFec02CfeA62E72BB93538DE6B2078E6'
     platform: MATIC
+  - address: '0x181D739A0C016Bd0B32bd6e47cbcA70D3A0e69d7'
+    platform: OP
 crypto: true
 fiat: false
 id: GBL

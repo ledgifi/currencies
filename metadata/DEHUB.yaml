@@ -1,6 +1,8 @@
 contracts:
   - address: '0x680d3113caf77b61b510f332d5ef4cf5b41a761d'
     platform: BNB
+  - address: '0x99bb69ee1bbfc7706c3ebb79b21c5b698fe58ec0'
+    platform: ETH
 crypto: true
 fiat: false
 id: DEHUB

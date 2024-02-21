@@ -1,6 +1,8 @@
 contracts:
   - address: '0x886640149E31E1430FA74Cc39725431eb82ddFB2'
     platform: BNB
+  - address: '0x01824357d7d7eaf4677bc17786abd26cbdec9ad7'
+    platform: ETH
 crypto: true
 fiat: false
 id: FORWARD
