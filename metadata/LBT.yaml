@@ -1,6 +1,8 @@
 contracts:
   - address: xdc05940b2df33d6371201e7ae099ced4c363855dfe
     platform: XDC
+  - address: '0x05940b2df33d6371201e7ae099ced4c363855dfe'
+    platform: XDC
 crypto: true
 fiat: false
 id: LBT

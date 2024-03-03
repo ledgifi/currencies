@@ -1,6 +1,8 @@
 contracts:
   - address: '0xca0d640a401406f3405b4c252a5d0c4d17f38ebb'
     platform: BNB
+  - address: '0xaC6ec101DDcB953774d103bA4A82fA257138459f'
+    platform: BNB
 crypto: true
 fiat: false
 id: MRUN

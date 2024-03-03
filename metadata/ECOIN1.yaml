@@ -1,6 +1,8 @@
 contracts:
   - address: xdc536dd70445cea1e97f9bf1bada04cbda5199a2a1
     platform: XDC
+  - address: '0x536dd70445cea1e97f9bf1bada04cbda5199a2a1'
+    platform: XDC
 crypto: true
 fiat: false
 id: ECOIN1

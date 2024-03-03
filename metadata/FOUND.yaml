@@ -1,6 +1,8 @@
 contracts:
   - address: '0x359318A353b53A0ca8847815A769d398e2777DD2'
     platform: BNB
+  - address: '0x1ACbC7d9C40Aa8955281ae29B581bCF002EeB4F4'
+    platform: BNB
 crypto: true
 fiat: false
 id: FOUND

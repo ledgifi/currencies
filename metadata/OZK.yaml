@@ -1,6 +1,8 @@
 contracts:
   - address: '0xB4Fc1Fc74EFFa5DC15A031eB8159302cFa4f1288'
     platform: ETH
+  - address: '0x13b6aFDE17DE396F11C3b0f73C21A8f1694763DE'
+    platform: ETH
 crypto: true
 fiat: false
 id: OZK

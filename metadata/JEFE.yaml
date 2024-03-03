@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: '0x5b2AF7fd27E2Ea14945c82Dd254c79d3eD34685e'
     platform: FTM
+  - address: '0x5079CCe47d275E85C9f13afB656d51e3F9D41181'
+    platform: FTM
   - address: '0x9FD22a17b4A96Da3F83797d122172C450381fb88'
     platform: OP
 crypto: true

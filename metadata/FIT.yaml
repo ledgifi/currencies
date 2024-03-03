@@ -1,6 +1,8 @@
 contracts:
   - address: '0x3c72fca8523686fd9e5740b0826fa4bb376e0241'
     platform: ETH
+  - address: '0xaD2eFE464c4F3b99255c594d0091e938D3bcDF97'
+    platform: MATIC
 crypto: true
 fiat: false
 id: FIT

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x3aC81633A291f342b62e7de5d00eb02924032e06'
     platform: ETH
+  - address: '0xb58458c52b6511dc723d7d6f3be8c36d7383b4a8'
+    platform: MATIC
 crypto: true
 fiat: false
 id: FANX

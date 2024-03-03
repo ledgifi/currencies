@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: xdc20b59e6c5deb7d7ced2ca823c6ca81dd3f7e9a3a
     platform: XDC
+  - address: '0x20b59e6c5deb7d7ced2ca823c6ca81dd3f7e9a3a'
+    platform: XDC
 crypto: true
 fiat: false
 id: DC1

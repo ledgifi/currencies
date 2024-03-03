@@ -1,6 +1,8 @@
 contracts:
   - address: '0x4673f018cc6d401aad0402bdbf2abcbf43dd69f3'
     platform: BNB
+  - address: '0x7a65cb87f596caf31a4932f074c59c0592be77d7'
+    platform: ETH
 crypto: true
 fiat: false
 id: FCF

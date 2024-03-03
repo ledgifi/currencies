@@ -1,6 +1,8 @@
 contracts:
   - address: xdcc280ebcd651d2a0c8d4bb49151062c9eef55d370
     platform: XDC
+  - address: '0xc280ebcd651d2a0c8d4bb49151062c9eef55d370'
+    platform: XDC
 crypto: true
 fiat: false
 id: USPLUS

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x79D10f4772709E89D24a62b81909943922Fcd77d'
     platform: MATIC
+  - address: '0xE3f2b1B2229C0333Ad17D03F179b87500E7C5e01'
+    platform: MATIC
 crypto: true
 fiat: false
 id: AEG2

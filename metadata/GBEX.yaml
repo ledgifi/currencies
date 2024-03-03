@@ -1,6 +1,8 @@
 contracts:
   - address: xdc34514748f86a8da01ef082306b6d6e738f777f5a
     platform: XDC
+  - address: '0x34514748f86a8da01ef082306b6d6e738f777f5a'
+    platform: XDC
 crypto: true
 fiat: false
 id: GBEX

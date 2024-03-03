@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x422812fC000E831b5ff13C181d85F34dd71380b3'
+    platform: AVAX
   - address: '0x87d6F8eDECcbCcA766D2880D19b2C3777D322C22'
     platform: MATIC
 crypto: true

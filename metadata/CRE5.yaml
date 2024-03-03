@@ -1,6 +1,8 @@
 contracts:
   - address: xdcb5fa33923ec3ff7f4b9ab7b4c20b236d31243f77
     platform: XDC
+  - address: '0xb5fa33923ec3ff7f4b9ab7b4c20b236d31243f77'
+    platform: XDC
 crypto: true
 fiat: false
 id: CRE5
