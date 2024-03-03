@@ -1,0 +1,17 @@
+contracts:
+  - address: '0x0D3CbED3f69EE050668ADF3D9Ea57241cBa33A2B'
+    platform: ETH
+  - address: '0x3a4f40631a4f906c2BaD353Ed06De7A5D3fCb430'
+    platform: ETH
+  - address: '0x8765f05ADce126d70bcdF1b0a48Db573316662eB'
+    platform: MATIC
+crypto: true
+decimals: 8
+fiat: false
+id: PDA
+id_binance: '1282'
+id_coinmarketcap: '7461'
+id_nomics: PLA3
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20240222/cb8d0d2e-6ca1-4f27-b9a2-034a9d2c94bd.jpg
+logoKey: currencies/pda.jpg
+name: PlayDapp
