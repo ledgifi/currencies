@@ -22,8 +22,10 @@ contracts:
   - address: '0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f'
     platform: TBA
 crypto: true
+decimals: 8
 fiat: false
 id: AXL
+id_binance: '1253'
 id_coinmarketcap: '17799'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17799.png
 logoKey: currencies/axl.png

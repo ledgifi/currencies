@@ -2,8 +2,10 @@ contracts:
   - address: '0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766'
     platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: STRK
+id_binance: '1278'
 id_coinmarketcap: '22691'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22691.png
 logoKey: currencies/strk.png
