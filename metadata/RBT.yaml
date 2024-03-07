@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x891e4554227385c5c740f9b483e935e3cbc29f01'
-    platform: BNB
+  - address: 65nTNuJGHme4PQvKQyJykKp1bJAkK4A8Q66sd2yBWugf
+    platform: SOL
 crypto: true
 fiat: false
 id: RBT
-id_coinmarketcap: '10822'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10822.png
+id_coinmarketcap: '9808'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9808.png
 logoKey: currencies/rbt.png
-name: Robust Token
+name: RIBBIT
