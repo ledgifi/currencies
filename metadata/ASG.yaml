@@ -1,10 +1,9 @@
 contracts:
-  - address: '0xebe7c1395e43465ae7a041a686e957d9aa184b0d'
-    platform: BNB
+  - address: '0xb533687Ef77459093368c43E95f8Df1C2B5a1F7a'
+    platform: ETH
 crypto: true
 fiat: false
 id: ASG
-id_coinmarketcap: '22211'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22211.png
-logoKey: currencies/asg.png
-name: Asgard Games
+id_coinmarketcap: '29442'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29442.png
+name: 'Nekoverse: City of Greed Anima Spirit Gem'
