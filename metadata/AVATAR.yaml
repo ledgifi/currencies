@@ -1,10 +1,9 @@
 contracts:
-  - address: '0x1a74da1d7e717ba96cdc288bb9a4715d2aaaa1cd'
-    platform: BNB
+  - address: '0x559cc0850361afe1973c0ba5d0a3446c8a5ad678'
+    platform: ETH
 crypto: true
 fiat: false
 id: AVATAR
-id_coinmarketcap: '25456'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25456.png
-logoKey: currencies/avatar.png
+id_coinmarketcap: '29347'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29347.png
 name: Avatar
