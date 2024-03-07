@@ -1,14 +1,9 @@
 contracts:
-  - address: '0x4ea98c1999575aaadfb38237dd015c5e773f75a2'
-    platform: BNB
-  - address: '0x576e2BeD8F7b46D34016198911Cdf9886f78bea7'
+  - address: '0x012ba3ae1074ae43a34a14bca5c4ed0af01b6e53'
     platform: ETH
-  - address: HaP8r3ksG76PhQLTqR8FYBeNiQpejcFbQmiHbg787Ut1
-    platform: SOL
 crypto: true
 fiat: false
 id: TRUMP2
-id_coinmarketcap: '27872'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27872.png
-logoKey: currencies/trump2.png
-name: MAGA
+id_coinmarketcap: '6910'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6910.png
+name: YUGE
