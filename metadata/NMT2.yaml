@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x03AA6298F1370642642415EDC0db8b957783e8D6'
+    platform: BNB
+  - address: '0x03AA6298F1370642642415EDC0db8b957783e8D6'
+    platform: ETH
+crypto: true
+fiat: false
+id: NMT2
+id_coinmarketcap: '29447'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29447.png
+logoKey: currencies/nmt2.png
+name: NetMind Token

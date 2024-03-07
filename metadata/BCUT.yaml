@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xBEF26Bd568e421D6708CCA55Ad6e35f8bfA0C406'
+    platform: ETH
+  - address: '0x3fb83A9A2c4408909c058b0BfE5B4823f54fAfE2'
+    platform: MATIC
+crypto: true
+fiat: false
+id: BCUT
+id_coinmarketcap: '28559'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28559.png
+logoKey: currencies/bcut.png
+name: bitsCrunch

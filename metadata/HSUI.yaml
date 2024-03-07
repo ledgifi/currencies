@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x8c47c0bde84b7056520a44f46c56383e714cc9b6a55e919d8736a34ec7ccb533::suicune::SUICUNE
+    platform: SUI
+crypto: true
+fiat: false
+id: HSUI
+id_coinmarketcap: '29413'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29413.png
+logoKey: currencies/hsui.png
+name: HSUI on SUI

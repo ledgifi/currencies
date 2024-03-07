@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x328a268b191ef593b72498a9e8a481c086eb21be'
+    platform: ETH
+crypto: true
+fiat: false
+id: MZERO
+id_coinmarketcap: '29492'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29492.png
+logoKey: currencies/mzero.png
+name: MetaZero

@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x2a5fa016ffb20c70e2ef36058c08547f344677aa'
+    platform: ETH
+crypto: true
+fiat: false
+id: VSG
+id_coinmarketcap: '29350'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29350.png
+logoKey: currencies/vsg.png
+name: Vitalik Smart Gas

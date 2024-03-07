@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xec33d722d014c02cf4efb46d68098e98e027c364'
+    platform: BNB
+  - address: '0xec33d722d014c02cf4efb46d68098e98e027c364'
+    platform: ETH
+crypto: true
+fiat: false
+id: $REKT
+id_coinmarketcap: '29675'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29675.png
+logoKey: currencies/$rekt.png
+name: REKT 2.0

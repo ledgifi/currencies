@@ -1,0 +1,10 @@
+contracts:
+  - address: ibc/698350B8A61D575025F3ED13E9AC9C0F45C89DEFE92F76D5838F1D3C1A7FF7C9
+    platform: OSMO
+crypto: true
+fiat: false
+id: STTIA
+id_coinmarketcap: '29427'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29427.png
+logoKey: currencies/sttia.png
+name: Stride Staked TIA

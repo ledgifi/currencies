@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x1258d60b224c0c5cd888d37bbf31aa5fcfb7e870'
+    platform: ETH
+crypto: true
+fiat: false
+id: GPU
+id_coinmarketcap: '29513'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29513.png
+logoKey: currencies/gpu.png
+name: Node AI

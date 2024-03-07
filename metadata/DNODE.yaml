@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x014337b35167b3711195361bb85259009e50a8a4'
+    platform: ETH
+crypto: true
+fiat: false
+id: DNODE
+id_coinmarketcap: '29612'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29612.png
+logoKey: currencies/dnode.png
+name: DecentraNode

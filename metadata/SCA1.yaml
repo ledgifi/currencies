@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x7016aae72cfc67f2fadf55769c0a7dd54291a583b63051a5ed71081cce836ac6::sca::SCA
+    platform: SUI
+crypto: true
+fiat: false
+id: SCA1
+id_coinmarketcap: '29679'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29679.png
+logoKey: currencies/sca1.png
+name: Scallop

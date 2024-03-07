@@ -1,0 +1,18 @@
+contracts:
+  - address: '0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea'
+    platform: ARB
+  - address: '0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea'
+    platform: AVAX
+  - address: '0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea'
+    platform: BNB
+  - address: '0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea'
+    platform: ETH
+  - address: '0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea'
+    platform: MATIC
+crypto: true
+fiat: false
+id: OX3
+id_coinmarketcap: '29530'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29530.png
+logoKey: currencies/ox3.png
+name: OX Coin

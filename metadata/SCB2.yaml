@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x9a5502414b5d51d01c8b5641db7436d789fa15a245694b24aa37c25c2a6ce001::scb::SCB
+    platform: SUI
+crypto: true
+fiat: false
+id: SCB2
+id_coinmarketcap: '29400'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29400.png
+logoKey: currencies/scb2.png
+name: Sacabam

@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x9d39a5de30e57443bff2a8307a4256c8797a3497'
+    platform: ETH
+crypto: true
+fiat: false
+id: SUSDE
+id_coinmarketcap: '29471'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29471.png
+logoKey: currencies/susde.png
+name: Ethena Staked USDe

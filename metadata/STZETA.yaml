@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x45334a5B0a01cE6C260f2B570EC941C680EA62c0'
+    platform: ZETA
+crypto: true
+fiat: false
+id: STZETA
+id_coinmarketcap: '29501'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29501.png
+logoKey: currencies/stzeta.png
+name: ZetaEarn
