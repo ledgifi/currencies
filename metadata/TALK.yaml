@@ -1,6 +1,14 @@
 contracts:
+  - address: '0x7D61D3752F759c71f5291358408947aFf7b0Ff2c'
+    platform: BNB
   - address: '0xcaabcaa4ca42e1d86de1a201c818639def0ba7a7'
     platform: ETH
+  - address: '0x55863cb9a7f92c134e9f8edb6c655b92d60493b5'
+    platform: KLAY
+  - address: '0xE7e72bE51C3b4E1F3cEB34e177e1bA1c1744fD7d'
+    platform: MATIC
+  - address: 3xUK7cHo3Vfh7uQCTkS2GUhJJuXhg2RXgApNYKHZ1B5R
+    platform: SOL
 crypto: true
 fiat: false
 id: TALK

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x026db614f070cb4c7e421da22df84ea1021236eb'
     platform: BNB
+  - address: 9mu9cHqH2grMCDu2wXTKnDgKUDcPB8BZNPjogEiVetd2
+    platform: SOL
 crypto: true
 fiat: false
 id: ROW

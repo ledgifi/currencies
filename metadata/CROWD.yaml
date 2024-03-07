@@ -9,6 +9,8 @@ contracts:
     platform: ETH
   - address: '0x483dd3425278c1f79f377f1034d9d2cae55648b6'
     platform: MATIC
+  - address: '0xBeDf619c69f5C1655E58463B85A4EE67629dE409'
+    platform: OP
   - address: '0x405a7426277C288E963a9B6Ab2c9E5E6C4b5f05C'
     platform: TBD
 crypto: true

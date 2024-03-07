@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x97C3780bdDe6916f601a4562c5f24A8b68D4A7aE'
+    platform: AVAX
+  - address: '0x5Ac6efe0D74c7938027C7c52130F2209A0C4F9a7'
+    platform: ETH
 crypto: true
 fiat: false
 id: AVAV

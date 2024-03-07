@@ -1,6 +1,8 @@
 contracts:
   - address: '0x72c60bFffEF18dCa51db32b52b819A951b6Ddbed'
     platform: ETH
+  - address: '0xe2512A2f19F0388aD3D7A5263eaA82AcD564827b'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHIDO

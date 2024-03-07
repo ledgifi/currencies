@@ -1,6 +1,8 @@
 contracts:
   - address: '0xf69aed1ed51224d798547ca4735d981bd8515a28'
     platform: BNB
+  - address: '0x315322e175fcf3a34cd0c652aa3ddfd73efa2b5d'
+    platform: BNB
 crypto: true
 fiat: false
 id: ROACHCOIN

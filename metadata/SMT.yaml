@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: '0xE631DABeF60c37a37d70d3B4f812871df663226f'
     platform: MATIC
+  - address: '0x2974dC646e375e83bd1c0342625b49f288987fA4'
+    platform: TBA
 crypto: true
 fiat: false
 id: SMT
