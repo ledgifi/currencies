@@ -1,10 +1,9 @@
 contracts:
-  - address: '0x9a980a084D8D72B219e1C79d91faf06Bec874D51'
-    platform: BNB
+  - address: '0x1f0efa15e9cb7ea9596257da63fecc36ba469b30'
+    platform: ETH
 crypto: true
 fiat: false
 id: ANON
-id_coinmarketcap: '17100'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17100.png
-logoKey: currencies/anon.png
-name: Anonverse
+id_coinmarketcap: '29336'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29336.png
+name: Anon
