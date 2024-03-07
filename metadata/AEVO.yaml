@@ -1,7 +1,9 @@
 crypto: true
+decimals: 8
 fiat: false
 id: AEVO
-id_coinmarketcap: '4409'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4409.png
+id_binance: '1287'
+id_coinmarketcap: '29676'
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20240306/e5afe846-2c64-4890-8065-ae84db51930e.png
 logoKey: currencies/aevo.png
-name: Aevo Coin
+name: AEVO
