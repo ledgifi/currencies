@@ -1,10 +1,7 @@
-contracts:
-  - address: '0x3137619705b5fc22a3048989f983905e456b59ab'
-    platform: ETH
 crypto: true
 fiat: false
 id: EVR
-id_coinmarketcap: '2066'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2066.png
+id_coinmarketcap: '29551'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29551.png
 logoKey: currencies/evr.png
-name: Everus
+name: Evernode
