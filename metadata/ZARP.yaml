@@ -1,6 +1,8 @@
 contracts:
   - address: '0xb755506531786C8aC63B756BaB1ac387bACB0C04'
     platform: ETH
+  - address: 8v8aBHR7EXFZDwaqaRjAStEcmCj6VZi5iGq1YDtyTok6
+    platform: SOL
 crypto: true
 fiat: false
 id: ZARP

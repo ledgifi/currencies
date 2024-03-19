@@ -1,6 +1,8 @@
 contracts:
   - address: '0x03436Fe878e33Be3C8CAEbd205ebc04A66aA3248'
     platform: BNB
+  - address: '0x9Bf543D8460583Ff8a669Aae01d9cDbeE4dEfE3c'
+    platform: BNB
 crypto: true
 fiat: false
 id: CANDY2

@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xf32122561d51e891b823dec2b42f644884c1cd91'
     platform: ETH
+  - address: '0xd064c53f043d5aee2ac9503b13ee012bf2def1d0'
+    platform: TBA
 crypto: true
 fiat: false
 id: DEFIDO

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xa41d2f8Ee4F47D3B860A149765A7dF8c3287b7F0'
     platform: ETH
+  - address: '0x2D20B8891F2f9Ed0ebF1B179B2279f936dEC9282'
+    platform: TBD
 crypto: true
 fiat: false
 id: SYNC4

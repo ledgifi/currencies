@@ -1,6 +1,8 @@
 contracts:
   - address: '0xb2E3eA11c307C625816A238592b6cF85BC6d80C0'
     platform: BNB
+  - address: '0xE13288c36f5a792d95e1091bA603959d82085B2b'
+    platform: BNB
 crypto: true
 fiat: false
 id: CAPA

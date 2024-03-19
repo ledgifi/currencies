@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x29DF52dBd2a73aE6f4Ee3a397fd7706216aF12DA'
+    platform: BNB
   - address: zil1tyc45he8tp96tkyv2372le02tc0hch9p8cxws8
     platform: ZIL
 crypto: true

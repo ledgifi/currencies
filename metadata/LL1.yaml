@@ -1,6 +1,8 @@
 contracts:
   - address: '0xBb24C7a8e89eDa9f22842644df8D0524871257e5'
     platform: ETH
+  - address: '0x0921799CB1d702148131024d18fCdE022129Dc73'
+    platform: ETH
 crypto: true
 fiat: false
 id: LL1

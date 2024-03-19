@@ -1,6 +1,8 @@
 contracts:
   - address: '0x87230146E138d3F296a9a77e497A2A83012e9Bc5'
     platform: BNB
+  - address: '0xFAfb7581a65A1f554616Bf780fC8a8aCd2Ab8c9b'
+    platform: BNB
 crypto: true
 fiat: false
 id: SQUID

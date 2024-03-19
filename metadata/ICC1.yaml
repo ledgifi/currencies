@@ -1,6 +1,8 @@
 contracts:
   - address: '0x70E67ec0939ec87c3a77b089CA08E0443ea4a177'
     platform: ETH
+  - address: DtEDeShrXDLjbazZsHaVSXUpXu1qFvUr7wkf83ib68hX
+    platform: SOL
 crypto: true
 fiat: false
 id: ICC1

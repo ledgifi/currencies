@@ -1,6 +1,10 @@
 contracts:
+  - address: 3d547a7bb805648f86c4c14e5c4df14044ad59753f0a2946d70f8d3c
+    platform: ADA
   - address: '0x1bDaF9ddD7658d8049391971d1fd48c0484F66EC'
     platform: BNB
+  - address: '0xaeF420fd77477d9Dc8B46D704D44dD09d6c27866'
+    platform: ETH
 crypto: true
 fiat: false
 id: CGV

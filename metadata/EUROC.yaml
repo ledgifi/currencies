@@ -3,6 +3,10 @@ contracts:
     platform: AVAX
   - address: '0x1abaea1f7c830bd89acc67ec4af516284b1bc33c'
     platform: ETH
+  - address: HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr
+    platform: SOL
+  - address: EURC-GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2
+    platform: XLM
 crypto: true
 fiat: false
 id: EUROC
