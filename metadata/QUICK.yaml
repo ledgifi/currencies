@@ -1,18 +1,17 @@
 contracts:
-  - address: '0x6c28aef8977c9b773996d0e8376d2ee379446f2f'
+  - address: '0xd2ba23de8a19316a638dc1e7a9adda1d74233368'
     platform: ETH
-  - address: '0x831753DD7087CaC61aB5644b308642cc1c33Dc13'
+  - address: '0xb5c064f955d8e7f38fe0460c556a72987494ee17'
     platform: MATIC
-  - address: 5njTmK53Ss5jkiHHZvzabVzZj6ztu6WYWpAPYgbVnbjs
-    platform: SOL
+  - address: '0x68286607a1d43602d880d349187c3c48c0fd05e6'
+    platform: MATIC
 crypto: true
 decimals: 8
 fiat: false
 id: QUICK
 id_binance: '742'
-id_coinmarketcap: '8206'
-id_coinpaprika: quick-quickswap
-id_nomics: QUICK
-logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220126/253090a9-62e0-4928-b7f8-ce9e83b76db7.png
+id_coinmarketcap: '19966'
+id_coinpaprika: quick-quickswap-v2
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19966.png
 logoKey: currencies/quick.png
-name: QuickSwap
+name: QuickSwap [New]
