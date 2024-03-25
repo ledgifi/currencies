@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xb549116ac57b47c1b365a890e1d04fd547dfff97'
+    platform: ETH
+crypto: true
+fiat: false
+id: MDAI
+id_coinmarketcap: '30053'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30053.png
+logoKey: currencies/mdai.png
+name: MindAI

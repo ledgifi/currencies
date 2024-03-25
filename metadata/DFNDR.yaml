@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x3f57c35633cb29834bb7577ba8052eab90f52a02'
+    platform: ETH
+crypto: true
+fiat: false
+id: DFNDR
+id_coinmarketcap: '29721'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29721.png
+logoKey: currencies/dfndr.png
+name: Defender Bot

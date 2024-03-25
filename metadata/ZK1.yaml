@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xC71B5F631354BE6853eFe9C3Ab6b9590F8302e81'
+    platform: BNB
+  - address: '0xC71B5F631354BE6853eFe9C3Ab6b9590F8302e81'
+    platform: ETH
+crypto: true
+fiat: false
+id: ZK1
+id_coinmarketcap: '29779'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29779.png
+logoKey: currencies/zk1.png
+name: Polyhedra Network

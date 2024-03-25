@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xae41b275aaaf484b541a5881a2dded9515184cca'
+    platform: ETH
+crypto: true
+fiat: false
+id: CSWAP2
+id_coinmarketcap: '29780'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29780.png
+logoKey: currencies/cswap2.png
+name: ChainSwap

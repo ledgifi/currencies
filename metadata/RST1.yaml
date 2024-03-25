@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x23675Ba5d0A8075DA5Ba18756554e7633cEA2C85'
+    platform: AVAX
+  - address: '0xe338aA35D844D5C1a4E052380DBFA939e0cce13F'
+    platform: BEAM
+  - address: '0xBE03E60757f21f4b6fC8f16676AD9D5B1002E512'
+    platform: ETH
+crypto: true
+fiat: false
+id: RST1
+id_coinmarketcap: '29728'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29728.png
+logoKey: currencies/rst1.png
+name: Raini Studios Token

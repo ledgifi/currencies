@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xe8a387c026973c98c78135cdb4373ebff482d921'
+    platform: ETH
+crypto: true
+fiat: false
+id: MISTRAL
+id_coinmarketcap: '29817'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29817.png
+logoKey: currencies/mistral.png
+name: Mistral AI

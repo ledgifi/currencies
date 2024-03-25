@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x2ac895feba458b42884dcbcb47d57e44c3a303c8'
+    platform: BNB
+  - address: '0x0b61C4f33BCdEF83359ab97673Cb5961c6435F4E'
+    platform: ETH
+  - address: 8CuPzHKuZQUyYbear8fi3u6iuTY652WVZT2cHZ2yeNbE
+    platform: SOL
+crypto: true
+fiat: false
+id: EARN6
+id_coinmarketcap: '29772'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29772.png
+logoKey: currencies/earn6.png
+name: HOLD
