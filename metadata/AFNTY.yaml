@@ -1,6 +1,8 @@
 contracts:
   - address: '0xFACE67C5CE2bb48c29779b0Dede5360cC9ef5fd5'
     platform: BNB
+  - address: '0xF59918B07278ff20109f8c37d7255e0677B45c43'
+    platform: BNB
 crypto: true
 fiat: false
 id: AFNTY

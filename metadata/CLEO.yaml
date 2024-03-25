@@ -1,6 +1,8 @@
 contracts:
   - address: '0xfc2d761544C335df930ef9863C671CFE953e4EA4'
     platform: MATIC
+  - address: '0xF9B2Ebdfa24688f0Dfb12cc55782e635f91E64a2'
+    platform: MATIC
 crypto: true
 fiat: false
 id: CLEO

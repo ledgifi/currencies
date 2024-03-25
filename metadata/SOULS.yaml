@@ -1,6 +1,8 @@
 contracts:
   - address: '0xefCFEce12A99d1DbBf6F3264ee97F8C045e97F1f'
     platform: MATIC
+  - address: '0xaa4fBC6809a8E1924520FC85282aC4C76A7671d7'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SOULS

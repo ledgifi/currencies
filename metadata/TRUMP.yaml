@@ -5,6 +5,8 @@ contracts:
     platform: ETH
   - address: HaP8r3ksG76PhQLTqR8FYBeNiQpejcFbQmiHbg787Ut1
     platform: SOL
+  - address: '0x57f5fbd3de65dfc0bd3630f732969e5fb97e6d37'
+    platform: TBA
 crypto: true
 fiat: false
 id: TRUMP

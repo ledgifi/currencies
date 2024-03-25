@@ -9,6 +9,8 @@ contracts:
     platform: MATIC
   - address: '0xb396b31599333739A97951b74652c117BE86eE1D'
     platform: OP
+  - address: '0xa88b54e6b76fb97cdb8ecae868f1458e18a953f4'
+    platform: TBA
 crypto: true
 fiat: false
 id: DAVOS

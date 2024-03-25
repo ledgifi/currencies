@@ -1,6 +1,8 @@
 contracts:
   - address: '0xd2e8d8604F710Edd2e1ECb394A55758e3e789A88'
     platform: ETH
+  - address: '0x8b9b95292f890DF47fFf5aC9Cbe93d5fC242bd51'
+    platform: ETH
 crypto: true
 fiat: false
 id: BEFI

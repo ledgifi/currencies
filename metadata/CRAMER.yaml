@@ -1,6 +1,8 @@
 contracts:
   - address: '0x64df3aab3b21cc275bb76c4a581cf8b726478ee0'
     platform: ETH
+  - address: E3tHHRa9Y1TWAA1nPZo8FAyVFgBDnXrS8u8nmMShL3M3
+    platform: SOL
 crypto: true
 fiat: false
 id: CRAMER

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xc732b6586a93b6b7cf5fed3470808bc74998224d'
     platform: BNB
+  - address: '0xc4170fd71eced3c80badca77f4e12e8aac1e3436'
+    platform: ETH
 crypto: true
 fiat: false
 id: KMON

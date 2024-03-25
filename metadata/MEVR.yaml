@@ -1,6 +1,8 @@
 contracts:
   - address: '0xdde3ed0bb77c1cafabf8b38f9a1e81edddc7ddc9'
     platform: BNB
+  - address: '0x23CcF3C12A7EfF7fe09Fa52c716ea9f200B87363'
+    platform: BNB
 crypto: true
 fiat: false
 id: MEVR

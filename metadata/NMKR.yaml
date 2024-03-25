@@ -1,6 +1,10 @@
 contracts:
   - address: 5dac8536653edc12f6f5e1045d8164b9f59998d3bdc300fc928434894e4d4b52
     platform: ADA
+  - address: '0x68c54b0572c002ab7d80533ca254edf4046333e1'
+    platform: ETH
+  - address: '0xbd79f560b4289cc8785f897c7e4709a04c4e985b'
+    platform: MATIC
 crypto: true
 fiat: false
 id: NMKR
