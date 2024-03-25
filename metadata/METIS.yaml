@@ -6,8 +6,10 @@ contracts:
   - address: '0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000'
     platform: METIS
 crypto: true
+decimals: 8
 fiat: false
 id: METIS
+id_binance: '1265'
 id_coinmarketcap: '9640'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9640.png
 logoKey: currencies/metis.png
