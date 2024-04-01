@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x57e114B691Db790C35207b2e685D4A43181e6061'
+    platform: ETH
+crypto: true
+decimals: 8
+fiat: false
+id: ENA
+id_binance: '1295'
+id_coinmarketcap: '30171'
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20240329/2ec2f51d-813a-43da-8b1a-0d27b8ad744b.png
+logoKey: currencies/ena.png
+name: Ethena
