@@ -1,7 +1,12 @@
+contracts:
+  - address: 85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ
+    platform: SOL
 crypto: true
+decimals: 8
 fiat: false
 id: W
-id_coinmarketcap: '29643'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29643.png
+id_binance: '1297'
+id_coinmarketcap: '29587'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29587.png
 logoKey: currencies/w.png
-name: Wormhole (IOU)
+name: Wormhole
