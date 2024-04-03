@@ -1,6 +1,8 @@
 contracts:
   - address: '0x4ea507bf90b2d206bff56999dc76e39e447d2587'
     platform: ETH
+  - address: GcDzJd4BMZfCqFbUqW2f6emJZHBciYCVruMeqik8gj3z
+    platform: SOL
 crypto: true
 fiat: false
 id: RAT

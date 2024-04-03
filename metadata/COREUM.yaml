@@ -1,6 +1,8 @@
 contracts:
   - address: ibc/F3166F4D31D6BA1EC6C9F5536F5DDDD4CC93DBA430F7419E7CDC41C497944A65
     platform: OSMO
+  - address: https://xrpscan.com/account/rcoreNywaoz2ZCQ8Lg2EbSLnGuRBmun6D
+    platform: XRP
 crypto: true
 fiat: false
 id: COREUM

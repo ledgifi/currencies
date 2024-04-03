@@ -1,4 +1,6 @@
 contracts:
+  - address: 0.0.4783524
+    platform: HBAR
   - address: '0xde75b08765d6b9A5D02f7ec709955644a52ABb5D'
     platform: MATIC
 crypto: true

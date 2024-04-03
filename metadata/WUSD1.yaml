@@ -1,6 +1,8 @@
 contracts:
   - address: '0xb6667b04Cb61Aa16B59617f90FFA068722Cf21dA'
     platform: ETH
+  - address: '0xA04C86c411320444d4A99d44082e057772E8cF96'
+    platform: MATIC
 crypto: true
 fiat: false
 id: WUSD1

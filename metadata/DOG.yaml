@@ -7,6 +7,12 @@ contracts:
     platform: ETH
   - address: '0xeEe3371B89FC43Ea970E908536Fcddd975135D8a'
     platform: MATIC
+  - address: '0x8F69Ee043d52161Fd29137AeDf63f5e70cd504D5'
+    platform: OP
+  - address: B9u8h65uM1oifqmP82VyUDb68iG2fKfZiyubmNMtu3h7
+    platform: SOL
+  - address: '0xafb89a09d82fbde58f18ac6437b3fc81724e4df6'
+    platform: TBA
 crypto: true
 fiat: false
 id: DOG

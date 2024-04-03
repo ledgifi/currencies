@@ -1,15 +1,21 @@
 contracts:
   - address: '0x5429706887FCb58a595677B73E9B0441C25d993D'
     platform: ARB
+  - address: '0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1'
+    platform: ARB
   - address: '0x375488F097176507e39B9653b88FDc52cDE736Bf'
     platform: BOBA
   - address: '0x95b3497bBcCcc46a8F45F5Cf54b0878b39f8D96C'
     platform: ETH
   - address: '0xf0655dcee37e5c0b70fffd70d85f88f8edf0aff6'
     platform: ETH
+  - address: '0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1'
+    platform: ETH
   - address: '0x2130d2a1e51112d349ccf78d2a1ee65843ba36e0'
     platform: FTM
   - address: '0x0483a76D80D0aFEC6bd2afd12C1AD865b9DF1471'
+    platform: FTM
+  - address: '0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1'
     platform: FTM
   - address: '0x9610b01AAa57Ec026001F7Ec5CFace51BfEA0bA6'
     platform: METIS
@@ -17,8 +23,14 @@ contracts:
     platform: OP
   - address: '0x28b42698caf46b4b012cf38b6c75867e0762186d'
     platform: OP
+  - address: '0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1'
+    platform: OP
   - address: '0x6B4712AE9797C199edd44F897cA09BC57628a1CF'
     platform: TBA
+  - address: '0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1'
+    platform: TBA
+  - address: '0xcd29882ab7ba6b8717ad858d10930d68eafd78c3'
+    platform: TBD
 crypto: true
 fiat: false
 id: UNIDX

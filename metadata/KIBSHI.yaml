@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xf525E73bdeB4ac1b0e741aF3Ed8a8CBB43ab0756'
+    platform: ARB
   - address: '0x02e7f808990638e9e67e1f00313037ede2362361'
     platform: ETH
+  - address: '0xC7DcCA0a3e69bD762C8DB257f868f76Be36c8514'
+    platform: TBA
 crypto: true
 fiat: false
 id: KIBSHI

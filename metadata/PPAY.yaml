@@ -9,6 +9,8 @@ contracts:
     platform: FTM
   - address: '0x08158A6b5d4018340387d1A302f882E98a8bC5b4'
     platform: MATIC
+  - address: 6GCXcxUsDbx7dF7k2rBP3LcWBu33Y6KPrkeFpei6cNQi
+    platform: SOL
 crypto: true
 fiat: false
 id: PPAY

@@ -7,6 +7,8 @@ contracts:
     platform: MAP
   - address: https://www.maposcan.io/
     platform: MAP
+  - address: https://www.maposcan.io/
+    platform: MAPO
   - address: https://polygonscan.com/address/0xBAbceE78586d3e9E80E0d69601A17f983663Ba6a
     platform: MATIC
 crypto: true

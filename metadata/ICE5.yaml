@@ -1,8 +1,12 @@
 contracts:
+  - address: '0xAB8EBCC9eecc20Bd30c7b75c7b4e8fcCcFBf01aB'
+    platform: ARB
   - address: '0xc335df7c25b72eec661d5aa32a7c2b7b2a1d1874'
     platform: BNB
   - address: '0x79F05c263055BA20EE0e814ACD117C20CAA10e0c'
     platform: ETH
+  - address: E9aPbhb5xRVGP2L6qJixfJC5qWAzECpUFUxnGx3wUiND
+    platform: SOL
 crypto: true
 fiat: false
 id: ICE5

@@ -3,6 +3,8 @@ contracts:
     platform: AVAX
   - address: '0x87d6F8eDECcbCcA766D2880D19b2C3777D322C22'
     platform: MATIC
+  - address: '0xF2d3d488626a117984fda70F8106abC0049018D3'
+    platform: TBA
 crypto: true
 fiat: false
 id: MPT3

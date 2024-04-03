@@ -1,6 +1,8 @@
 contracts:
   - address: '0x998305efDC264b9674178899FFfBb44a47134a76'
     platform: BNB
+  - address: 76VxJbMFoCXBcn2rqPQX2UsUfpupq2gVwGSq5LyYMhr2
+    platform: SOL
 crypto: true
 fiat: false
 id: GMRX

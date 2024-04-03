@@ -1,6 +1,8 @@
 contracts:
   - address: '0x22625B9fce4D92e43b9cDe77e5F3c03a0f5c468B'
     platform: BNB
+  - address: '0x9056261fda728bc57467eadb294c3e47f7e3d773'
+    platform: BNB
 crypto: true
 fiat: false
 id: SUCCESS1

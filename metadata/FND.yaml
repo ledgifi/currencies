@@ -1,6 +1,8 @@
 contracts:
   - address: '0x264387ad73d19408e34b5d5e13a93174a35cea33'
     platform: BNB
+  - address: '0x7711adfe41bb6a321d1ee362ec66de89343701fa'
+    platform: ETH
 crypto: true
 fiat: false
 id: FND

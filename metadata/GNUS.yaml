@@ -1,6 +1,8 @@
 contracts:
   - address: '0x614577036F0a024DBC1C88BA616b394DD65d105a'
     platform: ETH
+  - address: '0x127E47abA094a9a87D084a3a93732909Ff031419'
+    platform: MATIC
 crypto: true
 fiat: false
 id: GNUS

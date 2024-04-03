@@ -5,6 +5,8 @@ contracts:
     platform: ETH
   - address: '0x6911f552842236bd9e8ea8ddbb3fb414e2c5fa9d'
     platform: MATIC
+  - address: '0x971b79EF5E76088Af5E52c6D6aA3276c2190e45c'
+    platform: TBD
 crypto: true
 fiat: false
 id: SNP

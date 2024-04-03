@@ -1,6 +1,8 @@
 contracts:
   - address: '0x0D4f3516A63408FCF56b860799fb467B1a7e6701'
     platform: BNB
+  - address: '0xf4A509313437dfC64E2EFeD14e2b607B1AED30c5'
+    platform: ETH
 crypto: true
 fiat: false
 id: FETS

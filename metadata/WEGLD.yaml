@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe'
+    platform: BNB
   - address: WEGLD-bd4d79
     platform: EGLD
 crypto: true

@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x033BbDe722EA3Cdcec73cFFEA6581DF9F9C257de'
+    platform: ETH
+  - address: SP1Y5YSTAHZ88XYK1VPDH24GY0HPX5J4JECTMY4A1.velar
+    platform: STX
 crypto: true
 fiat: false
 id: VELAR

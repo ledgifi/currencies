@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x0f51bb10119727a7e5ea3538074fb341f56b09ad'
     platform: ETH
+  - address: 85aM5XJhdDeUw4MbGKM56zmWnsRyh76zUVut97uPjiCg
+    platform: SOL
 crypto: true
 fiat: false
 id: DAO

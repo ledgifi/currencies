@@ -1,6 +1,8 @@
 contracts:
   - address: '0x00147F54f9a32608D0E0548A99FC8c7E594BCbFC'
     platform: MATIC
+  - address: '0xee5bb31fdf28b5d64f5a5605085cc4e3649aa624'
+    platform: MATIC
 crypto: true
 fiat: false
 id: WBS

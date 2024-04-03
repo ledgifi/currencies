@@ -1,6 +1,8 @@
 contracts:
   - address: '0xe3944AB788A60ca266f1eEc3C26925b95f6370aD'
     platform: ETH
+  - address: '0x1f1aa4d239002bb818536c95e9b762a1fc8484c1'
+    platform: TBA
 crypto: true
 fiat: false
 id: RAIN3
