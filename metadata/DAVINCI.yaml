@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x0000000000000000000000000000000000388f0f'
+    platform: HBAR
+crypto: true
+fiat: false
+id: DAVINCI
+id_coinmarketcap: '30222'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30222.png
+logoKey: currencies/davinci.png
+name: Davincigraph

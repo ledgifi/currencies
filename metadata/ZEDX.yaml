@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xca30e772e4Bd5F38ed775e6f8c57c6fFcb3c931f'
+    platform: BNB
+  - address: '0x469b7AEbA4fbFca20eFC563C49d0c74445179D59'
+    platform: ETH
+crypto: true
+fiat: false
+id: ZEDX
+id_coinmarketcap: '30314'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30314.png
+logoKey: currencies/zedx.png
+name: ZEDXION

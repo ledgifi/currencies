@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x062ca2d2F1aF8C203FA3Ad5298FD6fAa4E44E897'
+    platform: BNB
+  - address: f0c06a11047aea39d1a67198b759d4714f05ed8e80d162a6e4cda5eec812b029i0
+    platform: BTC
+crypto: true
+fiat: false
+id: O4DX
+id_coinmarketcap: '30282'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30282.png
+logoKey: currencies/o4dx.png
+name: OrangeDX

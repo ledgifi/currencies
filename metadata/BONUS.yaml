@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x7f7d7806F4EB90D63B0b278DAf32a2dB2C2001bD'
+    platform: ARB
+crypto: true
+fiat: false
+id: BONUS
+id_coinmarketcap: '30153'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30153.png
+logoKey: currencies/bonus.png
+name: BonusBlock
