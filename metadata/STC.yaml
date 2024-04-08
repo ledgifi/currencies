@@ -1,10 +1,15 @@
 contracts:
-  - address: '0x15b543e986b8c34074dfc9901136d9355a537e7e'
+  - address: '0x19Ae49B9F38dD836317363839A5f6bfBFA7e319A'
+    platform: BNB
+  - address: '0xce3f08e664693ca792cace4af1364d5e220827b2'
+    platform: ETH
+  - address: '0x19Ae49B9F38dD836317363839A5f6bfBFA7e319A'
     platform: ETH
 crypto: true
 fiat: false
 id: STC
-id_coinmarketcap: '5966'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5966.png
+id_coinmarketcap: '20513'
+id_nomics: SAITAMA
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20513.png
 logoKey: currencies/stc.png
-name: Student Coin
+name: SaitaChain Coin
