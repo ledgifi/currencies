@@ -1,6 +1,8 @@
 contracts:
   - address: '0x826e5Ec70DbC5607fF9218011FBb97F9a8D97953'
     platform: BNB
+  - address: '0x826e5Ec70DbC5607fF9218011FBb97F9a8D97953'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRAVEL

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xd101dcc414f310268c37eeb4cd376ccfa507f571'
     platform: ETH
+  - address: '0xFbB75A59193A3525a8825BeBe7D4b56899E2f7e1'
+    platform: TBA
 crypto: true
 fiat: false
 id: RSC2

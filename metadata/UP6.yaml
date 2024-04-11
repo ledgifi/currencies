@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x40A32606A4CE9b4F350421642Ebf65C052d5389b'
+    platform: ETH
   - address: EQCvaf0JMrv6BOvPpAgee08uQM_uRpUd__fhA7Nm8twzvbE_
     platform: TON
 crypto: true

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xc52FaFDc900cB92Ae01E6E4F8979aF7f436e2EB2'
     platform: ETH
+  - address: '0xd1917629b3e6a72e6772aab5dbe58eb7fa3c2f33'
+    platform: TBA
 crypto: true
 fiat: false
 id: SEXY

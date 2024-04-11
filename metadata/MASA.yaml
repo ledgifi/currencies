@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x944824290CC12F31ae18Ef51216A223Ba4063092'
+    platform: BNB
+  - address: '0x944824290CC12F31ae18Ef51216A223Ba4063092'
+    platform: ETH
 crypto: true
 fiat: false
 id: MASA

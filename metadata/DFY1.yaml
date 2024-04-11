@@ -1,6 +1,8 @@
 contracts:
   - address: 0x84b0b7718f8480A9eDa3133Fd385D7EDf2b1d1c4 (Fantom Opera Chain)
     platform: FTM
+  - address: '0x84b0b7718f8480A9eDa3133Fd385D7EDf2b1d1c4'
+    platform: FTM
 crypto: true
 fiat: false
 id: DFY1

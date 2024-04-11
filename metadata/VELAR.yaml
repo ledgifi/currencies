@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: SP1Y5YSTAHZ88XYK1VPDH24GY0HPX5J4JECTMY4A1.velar
     platform: STX
+  - address: SP1Y5YSTAHZ88XYK1VPDH24GY0HPX5J4JECTMY4A1.velar-token.velar
+    platform: STX
 crypto: true
 fiat: false
 id: VELAR

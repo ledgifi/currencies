@@ -1,10 +1,14 @@
 contracts:
+  - address: '0x75C5f6D32d8Ef3a4f0F43F7792Aa08e8678972F9'
+    platform: ARB
   - address: '0xb355f4f4cc84a9429a59d5c2b98d77016f7ec482'
     platform: AVAX
   - address: '0x0cf8e180350253271f4b917ccfb0accc4862f262'
     platform: BNB
   - address: '0xE57425F1598f9b0d6219706b77f4b3DA573a3695'
     platform: CRO
+  - address: '0x75C5f6D32d8Ef3a4f0F43F7792Aa08e8678972F9'
+    platform: ELA
   - address: '0xE57425F1598f9b0d6219706b77f4b3DA573a3695'
     platform: ETH
   - address: '0xb355f4f4cc84a9429a59d5c2b98d77016f7ec482'
@@ -25,6 +29,10 @@ contracts:
     platform: OKT
   - address: '0xe57425f1598f9b0d6219706b77f4b3da573a3695'
     platform: ONE
+  - address: '0x75C5f6D32d8Ef3a4f0F43F7792Aa08e8678972F9'
+    platform: OP
+  - address: '0x6324065012b16dA37aa4086EDb49Aa9d3754e691'
+    platform: TBA
 crypto: true
 fiat: false
 id: BTCBR

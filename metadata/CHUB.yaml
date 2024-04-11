@@ -1,6 +1,8 @@
 contracts:
   - address: '0x0d5639a1442730372e2a650a2900ba07937854f4'
     platform: ETH
+  - address: '0x5ca83216Fae72717332469E6A2eb28c4BF9AF9ec'
+    platform: ETH
 crypto: true
 fiat: false
 id: CHUB

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7e85B369d170Ebf127367400B1F399cb18027309'
     platform: ETH
+  - address: 84U2xqJM3rQytoCCbfKaXGi5L3dAXVLwLJFg519LKDPJ
+    platform: SOL
 crypto: true
 fiat: false
 id: EGG10

@@ -3,6 +3,8 @@ contracts:
     platform: OSMO
   - address: https://xrpscan.com/account/rcoreNywaoz2ZCQ8Lg2EbSLnGuRBmun6D
     platform: XRP
+  - address: rcoreNywaoz2ZCQ8Lg2EbSLnGuRBmun6D
+    platform: XRP
 crypto: true
 fiat: false
 id: COREUM

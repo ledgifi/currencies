@@ -1,6 +1,8 @@
 contracts:
   - address: '0xdcd62c57182e780e23d2313c4782709da85b9d6c'
     platform: KLAY
+  - address: '0x63dec0c0cf911d8967446ce422dd31f13e1e0556'
+    platform: KLAY
 crypto: true
 fiat: false
 id: SSX

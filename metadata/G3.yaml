@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xc24A365A870821EB83Fd216c9596eDD89479d8d7'
+    platform: ARB
+  - address: '0xCF67815ccE72E682Eb4429eCa46843bed81Ca739'
+    platform: ETH
 crypto: true
 fiat: false
 id: G3

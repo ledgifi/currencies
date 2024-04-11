@@ -11,6 +11,8 @@ contracts:
     platform: MATIC
   - address: '0xEc6adef5E1006bb305bB1975333e8fc4071295bf'
     platform: OP
+  - address: '0x259fac10c5cbfefe3e710e1d9467f70a76138d45'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

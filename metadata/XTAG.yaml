@@ -1,6 +1,8 @@
 contracts:
   - address: '0x06ba3e871ae3c14026d3e8a819fb3b5f31fef1d3'
     platform: AVAX
+  - address: 57f1e2ba8ed8405670bc928e7a35f0810c472be2fdd6fc91748fb3d14b12d21bi0
+    platform: BTC
   - address: 5gs8nf4wojB5EXgDUWNLwXpknzgV2YWDhveAeBZpVLbp
     platform: SOL
 crypto: true

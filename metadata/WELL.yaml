@@ -1,6 +1,8 @@
 contracts:
   - address: '0x511ab53f793683763e5a8829738301368a2411e3'
     platform: GLMR
+  - address: '0xa88594d404727625a9437c3f886c7643872296ae'
+    platform: TBA
 crypto: true
 fiat: false
 id: WELL
