@@ -1,6 +1,8 @@
 contracts:
   - address: '0xffffffff30478fafbe935e466da114e14fb3563d'
     platform: GLMR
+  - address: '0x66fc31b3233c7c001bdd21ff6e5e66fa08ef85d0'
+    platform: TBA
 crypto: true
 fiat: false
 id: PINK4

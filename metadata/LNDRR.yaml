@@ -1,6 +1,8 @@
 contracts:
   - address: '0xD773affB89F9dbEf8b1bcd2003a9De421F979416'
     platform: BNB
+  - address: '0x886f29b6E0a0461cb5aC6BAF55aE0033CffC48eb'
+    platform: ETH
 crypto: true
 fiat: false
 id: LNDRR

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xeD2d13A70acbD61074fC56bd0d0845e35f793e5E'
     platform: ETH
+  - address: '0xed2d13a70acbd61074fc56bd0d0845e35f793e5e'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MOJO4
