@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xdc9cb148ecb70876db0abeb92f515a5e1dc9f580'
+    platform: ETH
+crypto: true
+fiat: false
+id: GBTC2
+id_coinmarketcap: '30500'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30500.png
+logoKey: currencies/gbtc2.png
+name: Green Bitcoin

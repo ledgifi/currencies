@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xf614e54d972bab297172765ca83683288f3eae36'
+    platform: ETH
+crypto: true
+fiat: false
+id: RWB
+id_coinmarketcap: '30488'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30488.png
+logoKey: currencies/rwb.png
+name: RawBlock
