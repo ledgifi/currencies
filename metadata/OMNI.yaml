@@ -1,8 +1,9 @@
-color: '#1c347a'
 crypto: true
+decimals: 8
 fiat: false
 id: OMNI
-id_coinmarketcap: '83'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/83.png
+id_binance: '1305'
+id_coinmarketcap: '30315'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30315.png
 logoKey: currencies/omni.png
-name: Omni
+name: Omni Network
