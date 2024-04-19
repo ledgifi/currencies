@@ -1,6 +1,8 @@
 contracts:
   - address: 0xe50684a338db732d8fb8a3ac71c4b8633878bd0193bca5de2ebc852a83b35099::propbase_coin::PROPS
     platform: APT
+  - address: '0xe50684a338db732d8fb8a3ac71c4b8633878bd0193bca5de2ebc852a83b35099'
+    platform: APT
 crypto: true
 fiat: false
 id: PROPS1

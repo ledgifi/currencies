@@ -3,6 +3,10 @@ contracts:
     platform: BNB
   - address: '0xcfd6ae8bf13f42de14867351eaff7a8a3b9fbbe7'
     platform: ETH
+  - address: '0xF4D984e112835F73f1D4655D1D97aB75993B3C55'
+    platform: MATIC
+  - address: '0xe512e3F04546beB4B6AAa64Bd4a0d6C0f3590190'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SNG

@@ -1,6 +1,12 @@
 contracts:
   - address: '0x096985703F584B9444CE9730B600fC39De29ccc8'
     platform: BNB
+  - address: '0x096985703F584B9444CE9730B600fC39De29ccc8'
+    platform: ETH
+  - address: CM1jk8NzsxJ9Fkk3LfgFuVnChdvMqLJpur1fkAaaMQoQ
+    platform: SOL
+  - address: '0x096985703F584B9444CE9730B600fC39De29ccc8'
+    platform: TBA
 crypto: true
 fiat: false
 id: CAF2

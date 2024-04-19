@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xFAfb7581a65A1f554616Bf780fC8a8aCd2Ab8c9b'
     platform: BNB
+  - address: '0xFAfb7581a65A1f554616Bf780fC8a8aCd2Ab8c9b'
+    platform: TBA
 crypto: true
 fiat: false
 id: SQUID

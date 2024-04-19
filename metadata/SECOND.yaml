@@ -1,6 +1,14 @@
 contracts:
   - address: '0x7979871595b80433183950ab6c6457752b585805'
+    platform: ARB
+  - address: '0x7979871595b80433183950Ab6c6457752B585805'
+    platform: AVAX
+  - address: '0x7979871595b80433183950ab6c6457752b585805'
+    platform: BNB
+  - address: '0x7979871595b80433183950ab6c6457752b585805'
     platform: ETH
+  - address: '0x7979871595b80433183950ab6c6457752b585805'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SECOND

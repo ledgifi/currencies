@@ -7,8 +7,12 @@ contracts:
     platform: MATIC
   - address: '0xAFCdd4f666c84Fed1d8BD825aA762e3714F652c9'
     platform: OKT
+  - address: '0x72cCF64EE5E2C7629eE4eEe3e6AD6990289178ae'
+    platform: TBA
   - address: tti_541b25bd5e5db35166864096
     platform: VITE
+  - address: '0x785Ff608235500aEEAB02b60D2e5d8E97788927d'
+    platform: WAN
 crypto: true
 fiat: false
 id: VINU

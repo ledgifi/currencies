@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91'
+    platform: ARB
+  - address: '0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91'
+    platform: ETH
   - address: 85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ
     platform: SOL
+  - address: '0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

@@ -2,6 +2,8 @@ color: '#328332'
 contracts:
   - address: '0x3d6545b08693dae087e957cb1180ee38b9e3c25e'
     platform: BNB
+  - address: '0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a'
+    platform: ETC
 crypto: true
 decimals: 8
 fiat: false

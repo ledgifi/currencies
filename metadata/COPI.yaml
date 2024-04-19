@@ -5,6 +5,8 @@ contracts:
     platform: BNB
   - address: '0x42Baf1f659D765C65ADE5BB7E08eb2C680360d9d'
     platform: ETH
+  - address: '0x0A953Dd9Fc813feFaf6015b804c9dFA0624690C0'
+    platform: TBA
 crypto: true
 fiat: false
 id: COPI

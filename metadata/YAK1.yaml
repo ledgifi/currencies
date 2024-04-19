@@ -1,6 +1,8 @@
 contracts:
   - address: '0xe842e272a18625319cc36f64eb9f97e5ad0c32af'
     platform: ETH
+  - address: '0xe842e272a18625319cc36f64eb9f97e5ad0c32af'
+    platform: TBA
 crypto: true
 fiat: false
 id: YAK1

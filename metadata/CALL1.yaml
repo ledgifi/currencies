@@ -1,6 +1,8 @@
 contracts:
   - address: '0x73f63EB1f6f9DB4f145ad08FbAa7aF0e5A9322EC'
     platform: ETH
+  - address: DcbWS9PZ83ZoAMQokqsXEPMmfm8DyyhfaLtZoBsN1c96
+    platform: SOL
 crypto: true
 fiat: false
 id: CALL1

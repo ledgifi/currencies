@@ -1,6 +1,8 @@
 contracts:
   - address: '0x567351E802F52cA60b2aC9D61d5B538e9582e78d'
     platform: BNB
+  - address: '0x4986Dc6bEDeCD029069787D9B3BBc14F99dc0973'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHIT3

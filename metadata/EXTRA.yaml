@@ -1,6 +1,8 @@
 contracts:
   - address: '0x2dad3a13ef0c6366220f989157009e501e7938f8'
     platform: OP
+  - address: '0x2dad3a13ef0c6366220f989157009e501e7938f8'
+    platform: TBA
 crypto: true
 fiat: false
 id: EXTRA
