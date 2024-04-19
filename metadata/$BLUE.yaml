@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xfd9fa4f785331ce88b5af8994a047ba087c705d8'
+    platform: TBA
+crypto: true
+fiat: false
+id: $BLUE
+id_coinmarketcap: '30688'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30688.png
+logoKey: currencies/$blue.png
+name: blue on base

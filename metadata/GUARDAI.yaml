@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xd1679946ba555ebf5cb38e8b089ef1e1e5d2abb1'
+    platform: ETH
+crypto: true
+fiat: false
+id: GUARDAI
+id_coinmarketcap: '30621'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30621.png
+logoKey: currencies/guardai.png
+name: GuardAI
