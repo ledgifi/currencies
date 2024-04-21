@@ -6,8 +6,6 @@ contracts:
     platform: ALGO
   - address: 0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC
     platform: APT
-  - address: '0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8'
-    platform: ARB
   - address: '0xaf88d065e77c8cC2239327C5EDb3A432268e5831'
     platform: ARB
   - address: '0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98'
@@ -78,8 +76,6 @@ contracts:
     platform: KCS
   - address: terra1pvel56a2hs93yd429pzv9zp5aptcjg5ulhkz7w
     platform: LUNC
-  - address: '0x2791bca1f2de4661ed88a30c99a7a9449aa84174'
-    platform: MATIC
   - address: '0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035'
     platform: MATIC
   - address: '0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359'
@@ -102,8 +98,6 @@ contracts:
     platform: OKT
   - address: '0x985458e523db3d53125813ed68c274899e9dfab4'
     platform: ONE
-  - address: '0x7f5c764cbc14f9669b88837ca1490cca17c31607'
-    platform: OP
   - address: '0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85'
     platform: OP
   - address: ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4
