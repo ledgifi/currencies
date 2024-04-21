@@ -1,10 +1,9 @@
-contracts:
-  - address: '0x16f9cc3c6f8d8006cfc0ee693cef9d76b0d44c36'
-    platform: BNB
 crypto: true
+decimals: 8
 fiat: false
 id: BB
-id_coinmarketcap: '15231'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15231.png
+id_binance: '1309'
+id_coinmarketcap: '30746'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30746.png
 logoKey: currencies/bb.png
-name: Baby Bali
+name: BounceBit
