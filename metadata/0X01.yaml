@@ -3,7 +3,7 @@ contracts:
     platform: ETH
 crypto: true
 fiat: false
-id: '0x01'
+id: 0X01
 id_coinmarketcap: '23909'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23909.png
 logoKey: currencies/0x01.png
