@@ -1,6 +1,8 @@
 contracts:
   - address: '0x440758df68a045db3f2517257f27330a12438656'
     platform: BNB
+  - address: '0xcf6a03e353f0adb2c05992264835b4f03a371117'
+    platform: ETH
 crypto: true
 fiat: false
 id: FRGST1

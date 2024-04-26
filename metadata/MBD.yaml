@@ -1,6 +1,8 @@
 contracts:
   - address: '0xF899E83E6c6dF1a0d4887CF0209193aA97236322'
     platform: BNB
+  - address: '0xaAf449Bf8A33a32575C31BA8CBb90612Dd95aCFa'
+    platform: ETH
 crypto: true
 fiat: false
 id: MBD

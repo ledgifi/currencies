@@ -1,6 +1,8 @@
 contracts:
   - address: https://explorer.multiversx.com/tokens/CGO-5e9528
     platform: EGLD
+  - address: CGO-5e9528
+    platform: EGLD
 crypto: true
 fiat: false
 id: CGO1

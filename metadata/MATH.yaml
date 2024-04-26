@@ -5,6 +5,8 @@ contracts:
     platform: ETH
   - address: CaGa7pddFXS65Gznqwp42kBhkJQdceoFVT7AQYo8Jr8Q
     platform: SOL
+  - address: '0x9e81f6495ba29a6b4d48bddd042c0598fa8abc9f'
+    platform: TBA
 crypto: true
 fiat: false
 id: MATH

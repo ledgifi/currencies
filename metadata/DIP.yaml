@@ -1,6 +1,8 @@
 contracts:
   - address: '0xc719d010b63e5bbf2c0551872cd5316ed26acd83'
     platform: ETH
+  - address: '0xac86f3556cbd2b4d800d17adc3a266b500fcb9f5'
+    platform: TBA
 crypto: true
 fiat: false
 id: DIP

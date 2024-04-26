@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xec33d722d014c02cf4efb46d68098e98e027c364'
     platform: ETH
+  - address: '0x8972AB69D499B5537a31576725f0af8F67203D38'
+    platform: TBA
 crypto: true
 fiat: false
 id: $REKT

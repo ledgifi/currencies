@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr
     platform: SOL
+  - address: '0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C'
+    platform: TBA
 crypto: true
 fiat: false
 id: SPX4

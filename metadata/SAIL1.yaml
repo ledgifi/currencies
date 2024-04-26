@@ -1,6 +1,8 @@
 contracts:
   - address: '0xd8f1460044925d2d5c723c7054cd9247027415b7'
     platform: ETH
+  - address: '0xd1a718f77ab5d22e3955050658d7f65ae857a85e'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SAIL1

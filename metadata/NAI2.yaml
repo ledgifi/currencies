@@ -1,6 +1,8 @@
 contracts:
   - address: '0x5Ac34C53A04B9aaA0BF047e7291fb4e8A48f2A18'
     platform: AVAX
+  - address: '0x5Ac34C53A04B9aaA0BF047e7291fb4e8A48f2A18'
+    platform: ETH
 crypto: true
 fiat: false
 id: NAI2

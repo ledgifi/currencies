@@ -1,6 +1,8 @@
 contracts:
   - address: '0x2466858ab5edAd0BB597FE9f008F568B00d25Fe3'
     platform: BNB
+  - address: '0x2466858ab5edAd0BB597FE9f008F568B00d25Fe3'
+    platform: ETH
 crypto: true
 fiat: false
 id: PETS3
