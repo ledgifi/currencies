@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x7db54758503c25200b331131c219acd64cfa74c8'
+    platform: BNB
+crypto: true
+fiat: false
+id: USDC2
+id_coinmarketcap: '30819'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30819.png
+logoKey: currencies/usdc2.png
+name: Classic USDC

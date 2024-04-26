@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xfe18ae03741a5b84e39c295ac9c856ed7991c38e'
+    platform: ETH
+crypto: true
+fiat: false
+id: CDCETH
+id_coinmarketcap: '30923'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30923.png
+logoKey: currencies/cdceth.png
+name: Crypto.com Staked ETH
