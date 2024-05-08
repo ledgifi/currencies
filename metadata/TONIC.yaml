@@ -2,6 +2,7 @@ contracts:
   - address: '0xDD73dEa10ABC2Bff99c60882EC5b2B81Bb1Dc5B2'
     platform: CRO
 crypto: true
+decimals: 6
 fiat: false
 id: TONIC
 id_coinmarketcap: '16430'
