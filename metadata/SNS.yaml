@@ -1,5 +1,10 @@
+contracts:
+  - address: SNSNkV9zfG5ZKWQs6x4hxvBRV6s8SqMfSGCtECDvdMd
+    platform: SOL
 crypto: true
 fiat: false
 id: SNS
-id_nomics: SNS
-name: Social Networking Services
+id_coinmarketcap: '17231'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17231.png
+logoKey: currencies/sns.png
+name: Synesis One
