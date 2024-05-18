@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x0a9158dc9ab3e84101e3dd3b666b78fc0a6f5590'
+    platform: ETH
+crypto: true
+fiat: false
+id: XEDO
+id_coinmarketcap: '31120'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31120.png
+logoKey: currencies/xedo.png
+name: XedoAI

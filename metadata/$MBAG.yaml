@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xa7F4195F10F1a62B102bD683eAB131d657A6c6e4'
+    platform: ETH
+crypto: true
+fiat: false
+id: $MBAG
+id_coinmarketcap: '31224'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31224.png
+logoKey: currencies/$mbag.png
+name: MoonBag
