@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x246fcdc18bf3781b4c5100b3a6decef8dbcc8a31'
     platform: ETH
+  - address: '0x4B1e8AB167F965880AaFdfb5cE46bC7A1557c1Af'
+    platform: TBA
 crypto: true
 fiat: false
 id: AIDOGEX

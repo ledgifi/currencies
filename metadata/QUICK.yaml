@@ -1,6 +1,8 @@
 contracts:
   - address: '0xd2ba23de8a19316a638dc1e7a9adda1d74233368'
     platform: ETH
+  - address: '0xE22E3D44Ea9Fb0A87Ea3F7a8f41D869C677f0020'
+    platform: MANTA
   - address: '0xb5c064f955d8e7f38fe0460c556a72987494ee17'
     platform: MATIC
   - address: '0x68286607a1d43602d880d349187c3c48c0fd05e6'

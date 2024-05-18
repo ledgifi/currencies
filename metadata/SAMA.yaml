@@ -1,6 +1,8 @@
 contracts:
   - address: '0xE04F47FF45576249bc5083DFDf987e03d0550113'
     platform: ETH
+  - address: '0x63228048121877A9e0f52020834A135074e8207C'
+    platform: TBA
 crypto: true
 fiat: false
 id: SAMA

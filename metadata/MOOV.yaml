@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x24ec2ca132abf8f6f8a6e24a1b97943e31f256a7'
     platform: ETH
+  - address: '0x4116f14b6d462b32a1c10f98049e4b1765e34fa9'
+    platform: ETH
 crypto: true
 fiat: false
 id: MOOV

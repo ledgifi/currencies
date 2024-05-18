@@ -1,6 +1,8 @@
 contracts:
   - address: '0xb139ed26b743c7254a246cf91eb594d097238524'
     platform: BNB
+  - address: '0x87e2414093632a3b9a1afea7083e5dab59b5dc4f'
+    platform: BNB
 crypto: true
 fiat: false
 id: FALCONS

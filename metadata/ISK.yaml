@@ -3,7 +3,11 @@ contracts:
     platform: ETH
   - address: '0x17d2628D30F8e9E966c9Ba831c9B9b01ea8Ea75C'
     platform: KLAY
+  - address: '0xd85EFF20288ca72eA9eEcFFb428F89EE5066CA5C'
+    platform: KLAY
   - address: '0x17d2628d30f8e9e966c9ba831c9b9b01ea8ea75c'
+    platform: TBA
+  - address: '0xd85EFF20288ca72eA9eEcFFb428F89EE5066CA5C'
     platform: TBA
 crypto: true
 fiat: false

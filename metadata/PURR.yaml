@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: 0:9d49206b0eaadc5125c6b5e30410505db7740f827857915922cdb7efe199b622
     platform: EVER
+  - address: 0:3a26c7d83b44dcb80818898a0846411db1446071725de8d77c706f8a56ee45a8
+    platform: VENOM
 crypto: true
 fiat: false
 id: PURR

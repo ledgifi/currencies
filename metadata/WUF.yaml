@@ -1,6 +1,8 @@
 contracts:
   - address: 73xsLcBnLnc9bh81cqVKqj8uEyiarXng5ZwJuTbnVebG
     platform: SOL
+  - address: '0x4da78059d97f155e18b37765e2e042270f4e0fc4'
+    platform: TBA
   - address: https://waxblock.io/account/wuffi
     platform: WAXP
 crypto: true

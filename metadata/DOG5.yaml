@@ -1,6 +1,8 @@
 contracts:
   - address: '840000:3'
     platform: BTC
+  - address: DOGGOTOTHEMOON
+    platform: BTC
 crypto: true
 fiat: false
 id: DOG5

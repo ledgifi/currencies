@@ -1,6 +1,8 @@
 contracts:
   - address: '0x090152A527a9f762d820A27Fe9F353718D4132C8'
     platform: BNB
+  - address: 2qwiYEb3Q686Bpd9XS5XkLZ43JKpkuu5EeWnCgzfPVxA
+    platform: SOL
 crypto: true
 fiat: false
 id: BODOG

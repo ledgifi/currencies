@@ -1,6 +1,8 @@
 contracts:
   - address: https://dashboard.internetcomputer.org/sns/qtooy-2yaaa-aaaaq-aabvq-cai
     platform: ICP
+  - address: qtooy-2yaaa-aaaaq-aabvq-cai
+    platform: ICP
 crypto: true
 fiat: false
 id: SONIC6

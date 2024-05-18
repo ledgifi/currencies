@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xF0ACF8949e705E0ebb6CB42c2164B0B986454223'
     platform: ETH
+  - address: '0x6e7f6a2404ff6b4363b0a5085dbf7b78d46e04d7'
+    platform: MATIC
   - address: '0x7b24C63aa79ad66F34C1a8f50a1369ecD9EE43d8'
     platform: VLX
 crypto: true

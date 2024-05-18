@@ -1,6 +1,8 @@
 contracts:
   - address: '0x3ecab35b64345bfc472477a653e4a3abe70532d9'
     platform: ETH
+  - address: '0x17CaA121F5F95Ee9B85F756E41ad9e09Fe449964'
+    platform: ETH
 crypto: true
 fiat: false
 id: ENTC

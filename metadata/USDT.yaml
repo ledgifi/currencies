@@ -24,6 +24,8 @@ contracts:
     platform: BRISE
   - address: '0xd567b3d7b8fe3c79a1ad8da978812cfc4fa05e75'
     platform: CANTO
+  - address: '0x48065fbBE25f71C9282ddf5e1cD6D6A887483D5e'
+    platform: CELO
   - address: '0xfe97e85d13abd9c1c33384e796f10b73905637ce'
     platform: CFX
   - address: '0x9Ebab27608bD64AFf36f027049aECC69102a0D1e'
@@ -88,6 +90,8 @@ contracts:
     platform: NEAR
   - address: '0x5f0155d08ef4aae2b500aefb64a3419da8bb611a'
     platform: NEON
+  - address: '0x1e4a5963abfd975d8c9021ce480b42188849d41d'
+    platform: OKB
   - address: '0x382bb369d343125bfb2117af9c149795c6c65c50'
     platform: OKT
   - address: '0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f'

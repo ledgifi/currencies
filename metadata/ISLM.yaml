@@ -1,4 +1,6 @@
 contracts:
+  - address: https://etherscan.io/token/0xf10c41ca085fc8d9326a65408d14dae28a3e69a5
+    platform: ETH
   - address: ibc/69110FF673D70B39904FF056CFDFD58A90BEC3194303F45C32CB91B8B0A738EA
     platform: OSMO
 crypto: true

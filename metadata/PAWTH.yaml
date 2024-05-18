@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xaecc217a749c2405b5ebc9857a16d58bdc1c367f'
     platform: ETH
+  - address: '0x875ee70143fca7d78e03ee6b13a2b0d68be4af0c'
+    platform: TBA
 crypto: true
 fiat: false
 id: PAWTH

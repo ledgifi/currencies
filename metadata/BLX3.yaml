@@ -1,6 +1,8 @@
 contracts:
   - address: '0xe9da86435265477bcde46c7e9aa7ace5aa7e2d18'
     platform: BNB
+  - address: '0x35c219d8a074472b87691321944d3915f9bb5fe1'
+    platform: ETH
 crypto: true
 fiat: false
 id: BLX3

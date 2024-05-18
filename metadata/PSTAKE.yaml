@@ -7,6 +7,8 @@ contracts:
     platform: ETH
   - address: ibc/8061A06D3BD4D52C4A28FFECF7150D370393AF0BA661C3776C54FF32836C3961
     platform: OSMO
+  - address: '0x38815A4455921667d673B4cb3d48F0383eE93400'
+    platform: TBA
 crypto: true
 fiat: false
 id: PSTAKE

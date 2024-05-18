@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: '0x086373fad3447f7f86252fb59d56107e9e0faafa'
     platform: MATIC
+  - address: '0x01CCF4941298a0b5AC4714c0E1799a2dF8387048'
+    platform: TBA
 crypto: true
 fiat: false
 id: YUP1

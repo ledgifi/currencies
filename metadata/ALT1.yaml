@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x1BD55090B8878630E57FAE6eBd11FD61d16DFC9f'
     platform: ETH
+  - address: '0x046BAd07658f3B6cAd9A396CFcbC1243AF452ec1'
+    platform: ETH
 crypto: true
 fiat: false
 id: ALT1

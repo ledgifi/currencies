@@ -1,6 +1,8 @@
 contracts:
   - address: '0x761A3557184cbC07b7493da0661c41177b2f97fA'
     platform: ETH
+  - address: '0x321725ee44CB4bfA544CF45a5A585b925d30A58C'
+    platform: TBA
 crypto: true
 fiat: false
 id: GROW3

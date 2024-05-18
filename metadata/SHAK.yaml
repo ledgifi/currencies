@@ -1,6 +1,8 @@
 contracts:
   - address: '0x76e08e1c693d42551dd6ba7c2a659f74ff5ba261'
     platform: BNB
+  - address: '0x53c2a6cc05f9647d59201b19cb5f5e42cc6dc524'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHAK

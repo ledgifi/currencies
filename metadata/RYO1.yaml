@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x79a5b7f9825274f495278eea9f2694ed6d53a03e'
     platform: ETH
+  - address: '0x15373f219dd066d58e99925d014895ca7b011928'
+    platform: ETH
 crypto: true
 fiat: false
 id: RYO1

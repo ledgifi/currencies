@@ -55,12 +55,16 @@ contracts:
     platform: METIS
   - address: '0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111'
     platform: MNT
+  - address: '0x4200000000000000000000000000000000000006'
+    platform: MODE
   - address: '0x576fDe3f61B7c97e381c94e7A03DBc2e08Af1111'
     platform: MOVR
   - address: '0x79a61d3a28f8c8537a3df63092927cfa1150fb3c'
     platform: MTRG
   - address: c02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.factory.bridge.near
     platform: NEAR
+  - address: '0x5a77f1443d16ee5761d310e38b62f77f726bc71c'
+    platform: OKB
   - address: '0x6983d1e6def3690c4d616b13597a09e6193ea013'
     platform: ONE
   - address: '0x4200000000000000000000000000000000000006'

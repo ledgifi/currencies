@@ -1,6 +1,8 @@
 contracts:
   - address: '0xeD35af169aF46a02eE13b9d79Eb57d6D68C1749e'
     platform: ETH
+  - address: '0x3792DBDD07e87413247DF995e692806aa13D3299'
+    platform: TBA
 crypto: true
 fiat: false
 id: OMI
