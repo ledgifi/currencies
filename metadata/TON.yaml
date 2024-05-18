@@ -6,8 +6,10 @@ contracts:
   - address: EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c
     platform: TON
 crypto: true
+decimals: 8
 fiat: false
 id: TON
+id_binance: '1249'
 id_coinmarketcap: '11419'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png
 logoKey: currencies/ton.png
