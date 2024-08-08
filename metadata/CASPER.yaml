@@ -1,6 +1,8 @@
 contracts:
   - address: https://bscscan.com/token/0x535d51c09e8245e7dbb956140d8132a5f26c6ca1
     platform: BNB
+  - address: '0x535d51c09e8245e7dbb956140d8132a5f26c6ca1'
+    platform: BNB
 crypto: true
 fiat: false
 id: CASPER

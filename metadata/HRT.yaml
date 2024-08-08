@@ -1,6 +1,8 @@
 contracts:
   - address: '0x206493b423F54DCDfD9abE6AA86F6CC1Da0029De'
     platform: ETH
+  - address: '0x40787b15b30835c8da910b3da62c7d5691cc5c65'
+    platform: ETH
 crypto: true
 fiat: false
 id: HRT

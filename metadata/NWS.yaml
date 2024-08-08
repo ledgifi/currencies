@@ -1,6 +1,8 @@
 contracts:
   - address: '0x57c453e7A4D73Ac1Db8aE07da5dda3B398D17577'
     platform: MATIC
+  - address: '0x13646e0e2d768d31b75d1a1e375e3e17f18567f2'
+    platform: MATIC
 crypto: true
 fiat: false
 id: NWS

@@ -1,8 +1,26 @@
 contracts:
+  - address: '0xDa315aAD0c080B40A3859b0b039FEC4f28b56797'
+    platform: ARB
+  - address: '0xE61A449300a40794E92E6d6291e0a7F6658A7a88'
+    platform: AVAX
   - address: '0xb427e47e8fDD678278d2A91EEaC014ffcDDaF029'
     platform: BNB
   - address: 0xb427e47e8fDD678278d2A91EEaC014ffcDDaF0290xb427e47e8fDD678278d2A91EEaC014ffcDDaF029
     platform: BNB
+  - address: '0x3b29F94A99F198c5dE418C11a6DED4B355B9530C'
+    platform: CELO
+  - address: '0x5824d908411fB531FfB47E05950Eb194f41E7Da1'
+    platform: ETH
+  - address: '0xADc989d0C03f385754991E06d90aCab936A2E0a6'
+    platform: FTM
+  - address: '0x86564008BE7C84E4aeedc55598d7A0a5bDAEfe83'
+    platform: MATIC
+  - address: one1setyqz970jzwfthdc42e34aq5k76al5rg65a82
+    platform: ONE
+  - address: '0x3b29F94A99F198c5dE418C11a6DED4B355B9530C'
+    platform: OP
+  - address: '0x45aAB2f68c70A75f21BCB77b5893F913bBEd696F'
+    platform: TBA
 crypto: true
 fiat: false
 id: AGATA

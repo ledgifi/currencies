@@ -7,6 +7,8 @@ contracts:
     platform: MATIC
   - address: '0x971b79EF5E76088Af5E52c6D6aA3276c2190e45c'
     platform: TBD
+  - address: '0x971b79EF5E76088Af5E52c6D6aA3276c2190e45c'
+    platform: ZK
 crypto: true
 fiat: false
 id: SNP

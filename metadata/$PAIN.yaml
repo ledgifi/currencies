@@ -1,6 +1,8 @@
 contracts:
   - address: https://bscscan.com/token/0x5e68a5c481dda1c57fc8412b2d758def3562b720
     platform: BNB
+  - address: '0x5e68a5c481dda1c57fc8412b2d758def3562b720'
+    platform: BNB
 crypto: true
 fiat: false
 id: $PAIN

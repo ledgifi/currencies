@@ -1,6 +1,8 @@
 contracts:
   - address: '0xf0a479C9c3378638EC603b8B6B0d75903902550B'
     platform: ARB
+  - address: '0xbc4c97fb9befaa8b41448e1dfcc5236da543217f'
+    platform: ARB
 crypto: true
 fiat: false
 id: CATCH

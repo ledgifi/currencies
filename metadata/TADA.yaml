@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x9b26e318bc6a2c8b45f5daea2cc14697e0e0f8b5'
+    platform: BNB
   - address: TADA-5c032c
     platform: EGLD
 crypto: true

@@ -1,6 +1,10 @@
 contracts:
   - address: '0xac6DB8954b73EbF10e84278AC8b9B22a781615D9'
     platform: ETH
+  - address: 6FVyLVhQsShWVUsCq2FJRr1MrECGShc3QxBwWtgiVFwK
+    platform: SOL
+  - address: '0x619c4bbbd65f836b78b36cbe781513861d57f39d'
+    platform: TBA
 crypto: true
 fiat: false
 id: BWB1

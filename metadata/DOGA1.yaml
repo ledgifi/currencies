@@ -1,6 +1,12 @@
 contracts:
   - address: '0x05311d9aA0E17D1071986146CeD510C85c71B52f'
     platform: BNB
+  - address: '0x488542C2320F20D65405a1C03DA769Bc124F9A28'
+    platform: ETH
+  - address: AYgw6k8ZzjkmTMAqrV8hbBe53uM8CrWwcbHuk5RMh6Qt
+    platform: SOL
+  - address: '0x488542C2320F20D65405a1C03DA769Bc124F9A28'
+    platform: TBA
 crypto: true
 fiat: false
 id: DOGA1

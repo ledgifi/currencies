@@ -1,6 +1,8 @@
 contracts:
   - address: '0xe12575BAdf4F3cf659F4D2e6A68D6A671523EAf2'
     platform: TBD
+  - address: '0xe12575BAdf4F3cf659F4D2e6A68D6A671523EAf2'
+    platform: ZK
 crypto: true
 fiat: false
 id: SND2

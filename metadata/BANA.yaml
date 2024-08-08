@@ -1,6 +1,8 @@
 contracts:
   - address: https://solscan.io/token/BhPXDQio8xtNC6k5Bg5fnUVL9kGN8uvRDNwW8MZBu8DL
     platform: SOL
+  - address: BhPXDQio8xtNC6k5Bg5fnUVL9kGN8uvRDNwW8MZBu8DL
+    platform: SOL
 crypto: true
 fiat: false
 id: BANA

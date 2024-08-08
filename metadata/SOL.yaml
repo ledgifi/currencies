@@ -1,4 +1,7 @@
 color: '#66f9a1'
+contracts:
+  - address: So11111111111111111111111111111111111111111
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

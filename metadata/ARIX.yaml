@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xBb6cF73a00f480d0951bA979a7606857cDDe626B'
     platform: ETH
+  - address: EQCLU6KIPjZJbhyYlRfENc3nQck2DWulsUq2gJPyWEK9wfDd
+    platform: TON
 crypto: true
 fiat: false
 id: ARIX

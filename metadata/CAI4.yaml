@@ -1,6 +1,8 @@
 contracts:
   - address: 0x93d04D21fcb5545330817c9c0e54A61C9e14D662 (Binance Smart Chain)
     platform: BNB
+  - address: '0x93d04D21fcb5545330817c9c0e54A61C9e14D662'
+    platform: BNB
 crypto: true
 fiat: false
 id: CAI4

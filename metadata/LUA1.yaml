@@ -1,6 +1,8 @@
 contracts:
   - address: '0xc3aBC47863524ced8DAf3ef98d74dd881E131C38'
     platform: ARB
+  - address: 5Mp8mZuRpWn1t6MkZJJcpj2AyMS7kv9mvBecg6t33oH3
+    platform: SOL
 crypto: true
 fiat: false
 id: LUA1

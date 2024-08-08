@@ -1,6 +1,8 @@
 contracts:
   - address: '0xc4736f2611a62d545dc2d0d8f0766283617e6fcb'
     platform: BNB
+  - address: '0x5D95349b0e9FFB9c6f7B0EC75EAC2Bf8Fbac8C5C'
+    platform: CHZ
 crypto: true
 fiat: false
 id: GOAL

@@ -1,6 +1,8 @@
 contracts:
   - address: 0xB4C5c81785D317Fb10F95B543CE462a6d5f23270(Binance Smart Chain)
     platform: BNB
+  - address: '0xB4C5c81785D317Fb10F95B543CE462a6d5f23270'
+    platform: BNB
 crypto: true
 fiat: false
 id: FLD1

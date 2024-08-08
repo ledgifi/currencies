@@ -5,6 +5,8 @@ contracts:
     platform: MATIC
   - address: '0xAFe4cA0Bbe6215cBdA12857e723134Bc3809F766'
     platform: TBD
+  - address: '0xAFe4cA0Bbe6215cBdA12857e723134Bc3809F766'
+    platform: ZK
 crypto: true
 fiat: false
 id: MCRN

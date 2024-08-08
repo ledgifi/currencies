@@ -1,6 +1,8 @@
 contracts:
   - address: '0x48A8Ba1754FE84E2f9dfA97982e524F18E5b4Bd3'
     platform: BNB
+  - address: D7z8T6FadmqDYGHy3LsMN3bzfrABmvVUnAFUrKfuWZ8F
+    platform: SOL
 crypto: true
 fiat: false
 id: CAIR

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7A2C7928c8CF294E25cA7db8a379278c5b0cFa0F'
     platform: ETH
+  - address: '0x9b0B23b35AD8136E6181F22b346134cE5f426090'
+    platform: ETH
 crypto: true
 fiat: false
 id: CINO

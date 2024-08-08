@@ -1,6 +1,8 @@
 contracts:
   - address: '0x0231b3de40b6b3bdd28dcef037f1b7a3fcf5a95a'
     platform: TBD
+  - address: '0x0231b3de40b6b3bdd28dcef037f1b7a3fcf5a95a'
+    platform: ZK
 crypto: true
 fiat: false
 id: ZYN1

@@ -3,7 +3,11 @@ contracts:
     platform: ARB
   - address: '0x3a71e24Aec6F1004780450dB9Bfaf6DCB72965fB'
     platform: BONE
+  - address: '0x0da5Aae7F402f4aFbBdd045FaDCd447835983A91'
+    platform: BONE
   - address: '0xf3a3023e6dede84ad88a656a3269f2a36e83c9a9'
+    platform: ETH
+  - address: '0x9bD20ed5be5e1B50cDBb28270a2f0815D9d23AF3'
     platform: ETH
   - address: 8D1nUMJQam54o34Kj2knFhSTaWoehEr4mBc7LfiDdCqq
     platform: SOL

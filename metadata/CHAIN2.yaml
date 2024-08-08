@@ -1,6 +1,8 @@
 contracts:
   - address: 0x6DdA867f8f0019Fe108e3b4c7187C1D0a2d57897 (Binance Smart Chain)
     platform: BNB
+  - address: '0x6DdA867f8f0019Fe108e3b4c7187C1D0a2d57897'
+    platform: BNB
 crypto: true
 fiat: false
 id: CHAIN2

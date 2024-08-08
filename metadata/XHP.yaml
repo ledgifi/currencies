@@ -1,6 +1,8 @@
 contracts:
   - address: '0x8b3f1f44bf4d1bbad3965d2745917afe3fac7343'
     platform: BNB
+  - address: '0x747747e47a48c669be384e0dfb248eee6ba04039'
+    platform: BNB
 crypto: true
 fiat: false
 id: XHP

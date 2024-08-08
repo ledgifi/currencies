@@ -1,6 +1,8 @@
 contracts:
   - address: https://stellar.expert/explorer/public/asset/FLAU-GDW6LDITFEVZDYKDKXKONJZAZJ4CMOORXT67NHOC5QUTOS6FV6Z2VP5R
     platform: XLM
+  - address: FLAU-GDW6LDITFEVZDYKDKXKONJZAZJ4CMOORXT67NHOC5QUTOS6FV6Z2VP5R
+    platform: XLM
 crypto: true
 fiat: false
 id: FLAU

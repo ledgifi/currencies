@@ -1,6 +1,10 @@
 contracts:
   - address: '0x9e3a9F1612028eeE48F85cA85f8Bed2f37d76848'
     platform: BNB
+  - address: '0x08bc237aa00f275b758542c9f5c125b568bc390a'
+    platform: BNB
+  - address: '0x1780933e83b09371cf716f3630fe5a422a66a39e'
+    platform: ETH
 crypto: true
 fiat: false
 id: QDX

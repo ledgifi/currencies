@@ -1,6 +1,8 @@
 contracts:
   - address: 0xeacD4F4d93527CB5d0cDFE5930D612CCfD5Af436 (Avalanche)
     platform: AVAX
+  - address: '0xeacD4F4d93527CB5d0cDFE5930D612CCfD5Af436'
+    platform: AVAX
 crypto: true
 fiat: false
 id: BANANA3

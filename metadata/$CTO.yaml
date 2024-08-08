@@ -1,6 +1,8 @@
 contracts:
   - address: 0xe2c6236D8A6235E51bbD096Cd370d90C52ba707a (Binance Smart Chain)
     platform: BNB
+  - address: '0xe2c6236D8A6235E51bbD096Cd370d90C52ba707a'
+    platform: BNB
 crypto: true
 fiat: false
 id: $CTO

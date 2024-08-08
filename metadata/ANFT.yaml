@@ -1,6 +1,8 @@
 contracts:
   - address: '0x4ad871d02415717f55adb23def23faec98e7bba8'
     platform: BNB
+  - address: '0xCa628C2069220660f9E1DF91b964A55c576f70Bb'
+    platform: TBA
 crypto: true
 fiat: false
 id: ANFT

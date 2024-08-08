@@ -1,6 +1,8 @@
 contracts:
   - address: '0x08a84af1368cd333073ac5dfb2254208e06b3a70'
     platform: BNB
+  - address: '0xAe3BcDAdf58eC10B0Ca0566F35877dE4467Ad222'
+    platform: BNB
 crypto: true
 fiat: false
 id: MARU

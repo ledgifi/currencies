@@ -15,6 +15,8 @@ contracts:
     platform: MNT
   - address: '0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2'
     platform: OP
+  - address: '0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2'
+    platform: SCROLL
 crypto: true
 fiat: false
 id: SUSDE

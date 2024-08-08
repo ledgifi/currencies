@@ -1,6 +1,8 @@
 contracts:
   - address: 0xbe8bad7fedb9a012295cbc2f018994dc43b32a24 ( Arbitrum)
     platform: ARB
+  - address: '0xbe8bad7fedb9a012295cbc2f018994dc43b32a24'
+    platform: ARB
 crypto: true
 fiat: false
 id: AIFIN

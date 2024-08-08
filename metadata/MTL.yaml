@@ -2,6 +2,8 @@ color: '#1e1f25'
 contracts:
   - address: '0xF433089366899D83a9f26A773D59ec7eCF30355e'
     platform: ETH
+  - address: '0xBCFc435d8F276585f6431Fc1b9EE9A850B5C00A9'
+    platform: MTL
 crypto: true
 decimals: 8
 fiat: false

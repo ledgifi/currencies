@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: '0xea73dcf6f49f8d6ad5a129aaede776d78d418cfd'
     platform: MATIC
+  - address: '0x2C9ab600D71967fF259c491aD51F517886740cbc'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

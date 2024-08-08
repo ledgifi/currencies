@@ -1,6 +1,8 @@
 contracts:
   - address: '0x93E1FF99ff368a1611d6554686F94dcc66154aCc'
     platform: BNB
+  - address: '0xD05e61c351f4a63816802efB81D2e5d0a39236DE'
+    platform: BNB
 crypto: true
 fiat: false
 id: DAW1

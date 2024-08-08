@@ -1,6 +1,8 @@
 contracts:
   - address: '0x959ab3394246669914bddeaeb50f8ac85648615e'
     platform: TBD
+  - address: '0x959ab3394246669914bddeaeb50f8ac85648615e'
+    platform: ZK
 crypto: true
 fiat: false
 id: ZKPAD

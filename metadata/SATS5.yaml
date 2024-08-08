@@ -1,6 +1,14 @@
 contracts:
   - address: '0x9d36f8f62347538440a212e9162f534f797542df'
+    platform: ARB
+  - address: '0x9d36f8f62347538440a212e9162f534f797542df'
     platform: ETH
+  - address: '0x9d36f8f62347538440a212e9162f534f797542df'
+    platform: OP
+  - address: '0xf3ad01CF8E4D3ef95f5D480Ec534dD98CAa0555f'
+    platform: SKR
+  - address: '0x9d36f8f62347538440a212e9162f534f797542df'
+    platform: TBA
 crypto: true
 fiat: false
 id: SATS5

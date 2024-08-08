@@ -1,8 +1,16 @@
 contracts:
   - address: IBC/A0CC0CF735BFB30E730C70019D4218A1244FF383503FF7579C9201AB93CA9293
     platform: ATOM
+  - address: '0xc7Edf7B7b3667a06992508e7B156eff794a9e1c8'
+    platform: BLAST
+  - address: '0xD454b59f16D42667Be2fA55292d16647E27f40C4'
+    platform: ETH
+  - address: '0xc7Edf7B7b3667a06992508e7B156eff794a9e1c8'
+    platform: OP
   - address: ibc/A0CC0CF735BFB30E730C70019D4218A1244FF383503FF7579C9201AB93CA9293
     platform: OSMO
+  - address: '0xc7Edf7B7b3667a06992508e7B156eff794a9e1c8'
+    platform: TBA
 crypto: true
 fiat: false
 id: XPRT

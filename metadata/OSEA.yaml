@@ -5,6 +5,8 @@ contracts:
     platform: MATIC
   - address: '0xD6c008fB375648972206518Fb0B1A1b65f371d05'
     platform: TBD
+  - address: '0xD6c008fB375648972206518Fb0B1A1b65f371d05'
+    platform: ZK
 crypto: true
 fiat: false
 id: OSEA

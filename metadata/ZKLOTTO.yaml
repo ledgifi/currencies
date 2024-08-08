@@ -1,6 +1,8 @@
 contracts:
   - address: '0x94466dCFe241db963AF1bc9741a94DAA87AB2169'
     platform: TBD
+  - address: '0x94466dCFe241db963AF1bc9741a94DAA87AB2169'
+    platform: ZK
 crypto: true
 fiat: false
 id: ZKLOTTO

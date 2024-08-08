@@ -11,6 +11,16 @@ contracts:
     platform: FTM
   - address: '0xaf20f5f19698f1D19351028cd7103B63D30DE7d7'
     platform: KAVA
+  - address: '0x07Ed33a242BD9C08CA3C198e01189e35265024Da'
+    platform: MATIC
+  - address: '0xaf20f5f19698f1d19351028cd7103b63d30de7d7'
+    platform: METIS
+  - address: '0xaf20f5f19698f1D19351028cd7103B63D30DE7d7'
+    platform: OP
+  - address: '0xaf20f5f19698f1D19351028cd7103B63D30DE7d7'
+    platform: TBA
+  - address: '0x3613AD277DF1d5935D41400A181Aa9ec1DC2Dc9e'
+    platform: ZK
 crypto: true
 fiat: false
 id: WAGMI7

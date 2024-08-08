@@ -1,6 +1,8 @@
 contracts:
   - address: https://etherscan.io/token/0xf0f5551ce238195f2179ad0c641b45eb799b0c7b
     platform: ETH
+  - address: '0xf0f5551ce238195f2179ad0c641b45eb799b0c7b'
+    platform: ETH
 crypto: true
 fiat: false
 id: UPBO

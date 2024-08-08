@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x0b5326Da634f9270FB84481DD6F94d3dC2cA7096'
     platform: ETH
+  - address: '0x8b52F46A52D86C131222EE14167Da6a847bdB84a'
+    platform: TBA
 crypto: true
 fiat: false
 id: ETHO1

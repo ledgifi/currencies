@@ -3,6 +3,8 @@ contracts:
     platform: CRO
   - address: '0xE75A17b4F5c4F844688d5670B684515d7c785E63'
     platform: TBD
+  - address: '0xE75A17b4F5c4F844688d5670B684515d7c785E63'
+    platform: ZK
 crypto: true
 fiat: false
 id: VNO

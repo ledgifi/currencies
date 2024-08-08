@@ -1,6 +1,8 @@
 contracts:
   - address: 0x285c3329930a3fd3C7c14bC041d3E50e165b1517 (Cronos)
     platform: CRO
+  - address: '0x285c3329930a3fd3C7c14bC041d3E50e165b1517'
+    platform: CRO
 crypto: true
 fiat: false
 id: CROW1

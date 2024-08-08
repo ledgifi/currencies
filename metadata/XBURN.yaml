@@ -1,6 +1,8 @@
 contracts:
   - address: https://explorer.multiversx.com/tokens/XBURN-33f7f6
     platform: EGLD
+  - address: XBURN-33f7f6
+    platform: EGLD
 crypto: true
 fiat: false
 id: XBURN

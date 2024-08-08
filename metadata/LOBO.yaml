@@ -1,6 +1,8 @@
 contracts:
   - address: https://ordinals.com/rune/LOBOTHEWOLFPUP
     platform: BTC
+  - address: LOBOTHEWOLFPUP
+    platform: BTC
 crypto: true
 fiat: false
 id: LOBO

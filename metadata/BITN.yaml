@@ -1,6 +1,8 @@
 contracts:
   - address: '0x41ad4093349c8a60de591a3c37dcd184558eaae3'
     platform: ETH
+  - address: 8Cj9yMA6nnCzoerfN1imQNGfwBEP1C5idGCrBZYt9KgN
+    platform: SOL
 crypto: true
 fiat: false
 id: BITN

@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x5dc5B0624305DD1a5520c774A19932eb3166Ad7C'
+    platform: BNB
   - address: '0x400bc4f1ee114537b4fec3b08810acfe117e7746'
     platform: ETH
+  - address: 6F7dkmbPegtpUwV2T7QQWdduzSKHFDeKctA4td3inSKo
+    platform: SOL
 crypto: true
 fiat: false
 id: BIDEN4

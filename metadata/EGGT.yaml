@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x096Cc1544FE972039353F3401Bce92F8e3978693'
+    platform: ETH
+  - address: '0x74c96c05d87C86cd640dE3EEB7B073811006b991'
+    platform: MATIC
 crypto: true
 fiat: false
 id: EGGT

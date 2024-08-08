@@ -1,6 +1,16 @@
 contracts:
+  - address: '0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb'
+    platform: ARB
+  - address: '0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb'
+    platform: BNB
   - address: '0xdc63269ea166b70d4780b3a11f5c825c2b761b01'
     platform: ETH
+  - address: '0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb'
+    platform: ETH
+  - address: '0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb'
+    platform: MATIC
+  - address: '0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb'
+    platform: TBA
 crypto: true
 fiat: false
 id: PAW

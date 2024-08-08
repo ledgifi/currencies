@@ -1,6 +1,8 @@
 contracts:
   - address: https://bscscan.com/token/0x0a886C3674816291FD727229375d5B6Bf99E1CAb
     platform: BNB
+  - address: '0x0a886C3674816291FD727229375d5B6Bf99E1CAb'
+    platform: BNB
 crypto: true
 fiat: false
 id: FOIL

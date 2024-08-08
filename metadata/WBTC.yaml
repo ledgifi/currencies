@@ -66,6 +66,8 @@ contracts:
     platform: WAVES
   - address: zil1wha8mzaxhm22dpm5cav2tepuldnr8kwkvmqtjq
     platform: ZIL
+  - address: '0xBBeB516fb02a01611cBBE0453Fe3c580D7281011'
+    platform: ZK
 crypto: true
 decimals: 8
 fiat: false

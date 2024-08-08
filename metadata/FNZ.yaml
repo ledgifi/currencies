@@ -1,6 +1,8 @@
 contracts:
   - address: https://ton.cx/address/EQDCJL0iQHofcBBvFBHdVG233Ri2V4kCNFgfRT-gqAd3Oc86
     platform: TON
+  - address: EQDCJL0iQHofcBBvFBHdVG233Ri2V4kCNFgfRT-gqAd3Oc86
+    platform: TON
 crypto: true
 fiat: false
 id: FNZ

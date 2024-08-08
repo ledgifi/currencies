@@ -1,6 +1,8 @@
 contracts:
   - address: '0x90eea899185105d583d04B7BDBfb672FcE902a53'
     platform: TBD
+  - address: '0x90eea899185105d583d04B7BDBfb672FcE902a53'
+    platform: ZK
 crypto: true
 fiat: false
 id: ZKPEPE1

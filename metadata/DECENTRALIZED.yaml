@@ -1,6 +1,8 @@
 contracts:
   - address: '840000:2'
     platform: BTC
+  - address: DECENTRALIZED
+    platform: BTC
 crypto: true
 fiat: false
 id: DECENTRALIZED

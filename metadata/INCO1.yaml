@@ -1,6 +1,8 @@
 contracts:
   - address: https://bscscan.com/address/0x406D80D4E1fE1B3e68bbBd3E02c7b2de658eb451
     platform: BNB
+  - address: '0x406D80D4E1fE1B3e68bbBd3E02c7b2de658eb451'
+    platform: BNB
 crypto: true
 fiat: false
 id: INCO1

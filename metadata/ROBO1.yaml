@@ -1,6 +1,8 @@
 contracts:
   - address: terra1f62tqesptvmhtzr8sudru00gsdtdz24srgm7wp
     platform: LUNC
+  - address: '0xb3886b3aaa6087b3d185daeb89ac113d195b5eb9'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ROBO1

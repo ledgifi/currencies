@@ -1,6 +1,8 @@
 contracts:
   - address: https://explorer.bitxor.org/tokens/3D1FE6EDC7F9611E
     platform: CORE
+  - address: 3D1FE6EDC7F9611E
+    platform: CORE
 crypto: true
 fiat: false
 id: BXR1

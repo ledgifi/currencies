@@ -3,6 +3,8 @@ contracts:
     platform: ARB
   - address: '0x8b69A4e5AEB67858E3d03d0124176E85C3DFa51d'
     platform: TBD
+  - address: '0x8b69A4e5AEB67858E3d03d0124176E85C3DFa51d'
+    platform: ZK
 crypto: true
 fiat: false
 id: DCA1

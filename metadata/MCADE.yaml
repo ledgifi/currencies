@@ -1,6 +1,8 @@
 contracts:
   - address: '0xed328e9c1179a30ddc1e7595e036aed8760c22af'
     platform: ETH
+  - address: '0xc48823ec67720a04a9dfd8c7d109b2c3d6622094'
+    platform: TBA
 crypto: true
 fiat: false
 id: MCADE

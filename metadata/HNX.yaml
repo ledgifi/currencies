@@ -1,6 +1,8 @@
 contracts:
   - address: '0xc76997c863bac0f6e4b6d3c2404b06013a0b29e2'
     platform: TBD
+  - address: '0xc76997c863bac0f6e4b6d3c2404b06013a0b29e2'
+    platform: ZK
 crypto: true
 fiat: false
 id: HNX

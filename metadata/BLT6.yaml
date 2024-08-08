@@ -1,6 +1,8 @@
 contracts:
   - address: '0x71fD7DfA7db7094E0f857ad3040f1aFEf76fEf85'
     platform: TBD
+  - address: '0x71fD7DfA7db7094E0f857ad3040f1aFEf76fEf85'
+    platform: ZK
 crypto: true
 fiat: false
 id: BLT6

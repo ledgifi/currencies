@@ -1,6 +1,8 @@
 contracts:
   - address: '0x97Ae1A743aed9cAE6a39E132c3bcE5874E0fE545'
     platform: BNB
+  - address: '0xD08527dF0c264C214769D17A1BB5b27DB5df2b3e'
+    platform: BNB
 crypto: true
 fiat: false
 id: BCHEC

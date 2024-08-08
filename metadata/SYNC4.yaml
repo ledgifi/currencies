@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: '0x2D20B8891F2f9Ed0ebF1B179B2279f936dEC9282'
     platform: TBD
+  - address: '0x2D20B8891F2f9Ed0ebF1B179B2279f936dEC9282'
+    platform: ZK
 crypto: true
 fiat: false
 id: SYNC4

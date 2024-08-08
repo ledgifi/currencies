@@ -108,8 +108,12 @@ contracts:
     platform: RON
   - address: '0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c'
     platform: ROSE
+  - address: '0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4'
+    platform: SCROLL
   - address: secret1h6z05y90gwm4sqxzhz4pkyp36cna9xtp7q0urv
     platform: SCRT
+  - address: '0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1'
+    platform: SEI
   - address: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
     platform: SOL
   - address: '0x53c91253bc9682c04929ca02ed00b3e423f6710d2ee7e0d5ebb06f3ecf368a8'
@@ -148,6 +152,8 @@ contracts:
     platform: WAVES
   - address: '0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d'
     platform: WEMIX
+  - address: '0x1d17CBcF0D6D143135aE902365D2E5e2A16538D4'
+    platform: ZK
 crypto: true
 decimals: 8
 fiat: false

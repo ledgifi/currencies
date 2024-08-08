@@ -5,6 +5,8 @@ contracts:
     platform: ETH
   - address: '0x80ae3b3847e4e8bd27a389f7686486cac9c3f3e8'
     platform: MATIC
+  - address: '0xF3907Bc0FFF5Ff5aCf1E3dD7987005779C7bf57d'
+    platform: TBA
 crypto: true
 fiat: false
 id: SARCO

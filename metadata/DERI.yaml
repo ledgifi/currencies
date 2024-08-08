@@ -9,10 +9,14 @@ contracts:
     platform: ETH
   - address: '0x2bdA3e331Cf735D9420e41567ab843441980C4B8'
     platform: HT
+  - address: '0x7b56af65da221a40b48bedccb67410d6c0be771d'
+    platform: SCROLL
   - address: '0xe840bb03fe58540841e6ebee94264d5317b88866'
     platform: TBA
   - address: '0x34fd72d2053339ea4eb1a8836cf50ebce91962d0'
     platform: TBD
+  - address: '0x34fd72d2053339ea4eb1a8836cf50ebce91962d0'
+    platform: ZK
 crypto: true
 fiat: false
 id: DERI

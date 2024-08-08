@@ -5,6 +5,8 @@ contracts:
     platform: ETH
   - address: HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr
     platform: SOL
+  - address: '0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42'
+    platform: TBA
   - address: EURC-GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2
     platform: XLM
 crypto: true

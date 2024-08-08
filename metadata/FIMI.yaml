@@ -1,6 +1,8 @@
 contracts:
   - address: https://stellar.expert/explorer/public/asset/FIMI-GAX3LO7FXA6UYUI5XIHNO5YPN24MPI5QX3ZM475NFXZQKGPZXZBMR53K
     platform: XLM
+  - address: FIMI-GAX3LO7FXA6UYUI5XIHNO5YPN24MPI5QX3ZM475NFXZQKGPZXZBMR53K
+    platform: XLM
 crypto: true
 fiat: false
 id: FIMI

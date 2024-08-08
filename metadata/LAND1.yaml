@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x27Bc2757fAb0b8aB406016D1f71d8123452095d3'
+    platform: ARB
   - address: '0xA73164DB271931CF952cBaEfF9E8F5817b42fA5C'
     platform: BNB
+  - address: '0xC03E6ad83dE7C58c9166fF08D66B960d78e64105'
+    platform: MATIC
 crypto: true
 fiat: false
 id: LAND1

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x79db8c67d0c33203da4Efb58F7D325E1e0d4d692'
     platform: TBD
+  - address: '0x79db8c67d0c33203da4Efb58F7D325E1e0d4d692'
+    platform: ZK
 crypto: true
 fiat: false
 id: MEOW9

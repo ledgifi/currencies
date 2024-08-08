@@ -1,6 +1,8 @@
 contracts:
   - address: '0xeCD9f240ED3895c77dB676004328Dd1d246f33C9'
     platform: TBD
+  - address: '0xeCD9f240ED3895c77dB676004328Dd1d246f33C9'
+    platform: ZK
 crypto: true
 fiat: false
 id: ERA7

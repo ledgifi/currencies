@@ -1,6 +1,8 @@
 contracts:
   - address: '0xe935A5ED165B8CFfA1475e872867e8C5910AdAa9'
     platform: BNB
+  - address: '0x53c17Ecaa2C662cff7C380729c7E9f7989280b2A'
+    platform: BNB
 crypto: true
 fiat: false
 id: VRT1

@@ -1,6 +1,8 @@
 contracts:
   - address: https://etherscan.io/address/0x76Db65085E1c3102eDA71546aCf22b6Abd68712c
     platform: ETH
+  - address: '0x76Db65085E1c3102eDA71546aCf22b6Abd68712c'
+    platform: ETH
 crypto: true
 fiat: false
 id: KLEIN

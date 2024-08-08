@@ -3,12 +3,16 @@ contracts:
     platform: ARB
   - address: '0xa026ad2ceda16ca5fc28fd3c72f99e2c332c8a26'
     platform: BNB
+  - address: '0xaf9fe3b5ccdae78188b1f8b9a49da7ae9510f151'
+    platform: BNB
   - address: '0x7659ce147d0e714454073a5dd7003544234b6aa0'
     platform: ETH
   - address: '0xa55870278d6389ec5b524553d03c04f5677c061e'
     platform: MATIC
   - address: '0x66673f0a3b5d99524bA76A558B93A9ca1386f4Cd'
     platform: METIS
+  - address: '0x750cF88d9E0c2BCedEEC31d5FaAd6eD6E3F1abC6'
+    platform: TBA
   - address: zil1z5l74hwy3pc3pr3gdh3nqju4jlyp0dzkhq2f5y
     platform: ZIL
 crypto: true

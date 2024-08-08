@@ -1,6 +1,8 @@
 contracts:
   - address: '0xCb0ED159d8227874b09464f182C12929dF5EDB70'
     platform: BNB
+  - address: 5vJhTHZrQqThCDi8nYm767sfN4NyYsNPFNBebUuUPr8y
+    platform: SOL
 crypto: true
 fiat: false
 id: ALDIN

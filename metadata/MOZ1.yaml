@@ -1,6 +1,8 @@
 contracts:
   - address: '0x20547341e58fb558637fa15379c92e11f7b7f710'
     platform: ARB
+  - address: '0xc227717ef4ae4d982e14789eb33ba942243c3fee'
+    platform: TBA
 crypto: true
 fiat: false
 id: MOZ1

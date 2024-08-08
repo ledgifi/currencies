@@ -1,6 +1,8 @@
 contracts:
   - address: '0x244748587f145c0571e92e85429d711d1b4cc43a'
     platform: ETH
+  - address: '0xf4509f6c51c780BEAe92e2740D33607CDc0C42F3'
+    platform: TBA
 crypto: true
 fiat: false
 id: $CHOO1

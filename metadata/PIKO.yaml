@@ -1,6 +1,8 @@
 contracts:
   - address: '0xf8C6dA1bbdc31Ea5F968AcE76E931685cA7F9962'
     platform: TBD
+  - address: '0xf8C6dA1bbdc31Ea5F968AcE76E931685cA7F9962'
+    platform: ZK
 crypto: true
 fiat: false
 id: PIKO

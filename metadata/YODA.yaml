@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: '0x727CD3b1FCAEe2EE44218119Ef3B1F5fC370E67e'
     platform: MATIC
+  - address: LUX88ZHPnte7tThA4F2nnXDCZWE3G61TqLBvFw7i8SM
+    platform: SOL
 crypto: true
 fiat: false
 id: YODA

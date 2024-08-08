@@ -3,6 +3,8 @@ contracts:
     platform: ARB
   - address: '0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1'
     platform: ARB
+  - address: '0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1'
+    platform: BLAST
   - address: '0x375488F097176507e39B9653b88FDc52cDE736Bf'
     platform: BOBA
   - address: '0x95b3497bBcCcc46a8F45F5Cf54b0878b39f8D96C'
@@ -31,6 +33,8 @@ contracts:
     platform: TBA
   - address: '0xcd29882ab7ba6b8717ad858d10930d68eafd78c3'
     platform: TBD
+  - address: '0xcd29882ab7ba6b8717ad858d10930d68eafd78c3'
+    platform: ZK
 crypto: true
 fiat: false
 id: UNIDX

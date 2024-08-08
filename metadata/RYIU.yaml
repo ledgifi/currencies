@@ -1,6 +1,8 @@
 contracts:
   - address: '0x5dc2085fe510bbaaba2119d71b09c25098caca3f'
     platform: BNB
+  - address: '0x5dc2085fe510bbaaba2119d71b09c25098caca3f'
+    platform: TBA
 crypto: true
 fiat: false
 id: RYIU

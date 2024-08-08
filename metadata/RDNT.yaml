@@ -5,6 +5,8 @@ contracts:
     platform: BNB
   - address: '0x137dDB47Ee24EaA998a535Ab00378d6BFa84F893'
     platform: ETH
+  - address: '0xd722e55c1d9d9fa0021a5215cbb904b92b3dc5d4'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

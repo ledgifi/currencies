@@ -1,6 +1,8 @@
 contracts:
   - address: '0x2940566Eb50F15129238f4Dc599ADC4F742D7d8E'
     platform: BNB
+  - address: '0x450593Bf7f2d7E559E38496CfB06bDCE5E963795'
+    platform: BNB
 crypto: true
 fiat: false
 id: BCCOIN

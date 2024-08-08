@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x84f5c2cfba754e76dd5ae4fb369cfc920425e12b'
+    platform: ARB
   - address: '0x321c2fe4446c7c963dc41dd58879af648838f98d'
     platform: ETH
+  - address: '0xbb22ff867f8ca3d5f2251b4084f6ec86d4666e14'
+    platform: TBA
 crypto: true
 fiat: false
 id: CTX

@@ -1,6 +1,8 @@
 contracts:
   - address: https://polygonscan.com/address/0x25d078698fED88aD2db07c923106b7D9625FafB8
     platform: MATIC
+  - address: '0x25d078698fED88aD2db07c923106b7D9625FafB8'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ABO

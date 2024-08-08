@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: '0xf19693068120185664e211f619c4f0530ce07088'
     platform: ETH
+  - address: '0xe18ab3568fa19e0ed38bc1d974eddd501e61e12d'
+    platform: ETH
 crypto: true
 fiat: false
 id: $BANK

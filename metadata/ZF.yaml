@@ -1,6 +1,8 @@
 contracts:
   - address: '0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a'
     platform: TBD
+  - address: '0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a'
+    platform: ZK
 crypto: true
 fiat: false
 id: ZF

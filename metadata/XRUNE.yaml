@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: https://ftmscan.com/token/0xe1e6b01ae86ad82b1f1b4eb413b219ac32e17bf6
     platform: FTM
+  - address: '0xe1e6b01ae86ad82b1f1b4eb413b219ac32e17bf6'
+    platform: FTM
   - address: terra1td743l5k5cmfy7tqq202g7vkmdvq35q48u2jfm
     platform: LUNC
 crypto: true

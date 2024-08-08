@@ -9,6 +9,10 @@ contracts:
     platform: MOVR
   - address: '0x7f5c764cbc14f9669b88837ca1490cca17c31607'
     platform: OP
+  - address: '0x739222d8a9179fe05129c77a8fa354049c088caa'
+    platform: SKR
+  - address: '0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4'
+    platform: ZK
 crypto: true
 decimals: 8
 fiat: false

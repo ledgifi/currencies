@@ -1,6 +1,8 @@
 contracts:
   - address: 0x9E841f05Dc2b92199F3FCE96bDEfc36A08Dcb9F6 ( Optimism )
     platform: OP
+  - address: '0x9E841f05Dc2b92199F3FCE96bDEfc36A08Dcb9F6'
+    platform: OP
 crypto: true
 fiat: false
 id: OPP1

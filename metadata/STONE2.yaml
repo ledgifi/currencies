@@ -1,6 +1,8 @@
 contracts:
   - address: 0xB49E754228bc716129E63b1a7b0b6cf27299979e (Klaytn)
     platform: KLAY
+  - address: '0xB49E754228bc716129E63b1a7b0b6cf27299979e'
+    platform: KLAY
 crypto: true
 fiat: false
 id: STONE2

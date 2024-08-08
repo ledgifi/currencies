@@ -1,6 +1,8 @@
 contracts:
   - address: '0x2b64237277c605d07f17b96f9627712340c32981'
     platform: TBD
+  - address: '0x2b64237277c605d07f17b96f9627712340c32981'
+    platform: ZK
 crypto: true
 fiat: false
 id: ZGEM

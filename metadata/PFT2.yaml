@@ -1,6 +1,8 @@
 contracts:
   - address: '0x2510a3C9409d850F8B1aEff16f006571AA1F852E'
     platform: BNB
+  - address: '0xE6f0523B9DD59ca6166ECecC3Ae7e7cedF77A731'
+    platform: MATIC
 crypto: true
 fiat: false
 id: PFT2

@@ -9,6 +9,8 @@ contracts:
     platform: FTM
   - address: '0xde5ed76e7c05ec5e4572cfc88d1acea165109e44'
     platform: MATIC
+  - address: '0xde5ed76e7c05ec5e4572cfc88d1acea165109e44'
+    platform: TBA
 crypto: true
 fiat: false
 id: DEUS

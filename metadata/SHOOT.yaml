@@ -1,6 +1,8 @@
 contracts:
   - address: '0xbc61e13ca6830fc7f035fd0e90a01cd08be6dcaa'
     platform: ETH
+  - address: '0xa9f5031b54c44c3603b4300fde9b8f5cd18ad06f'
+    platform: TBA
 crypto: true
 fiat: false
 id: SHOOT

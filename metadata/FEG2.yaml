@@ -1,6 +1,10 @@
 contracts:
   - address: '0xf3c7cecf8cbc3066f9a87b310cebe198d00479ac'
     platform: BNB
+  - address: '0xf3c7cecf8cbc3066f9a87b310cebe198d00479ac'
+    platform: ETH
+  - address: '0xf3c7cecf8cbc3066f9a87b310cebe198d00479ac'
+    platform: TBA
 crypto: true
 fiat: false
 id: FEG2

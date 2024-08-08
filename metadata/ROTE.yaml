@@ -1,6 +1,8 @@
 contracts:
   - address: https://bscscan.com/token/0x916460a3b7ac2de4d4fcd9d91495ea45510dc7ff
     platform: BNB
+  - address: '0x916460a3b7ac2de4d4fcd9d91495ea45510dc7ff'
+    platform: BNB
 crypto: true
 fiat: false
 id: ROTE

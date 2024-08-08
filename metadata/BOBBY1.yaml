@@ -1,6 +1,8 @@
 contracts:
   - address: '0xa462bde22d98335e18a21555b6752db93a937cff'
     platform: ETH
+  - address: 4geJykZY92d2mZk8zgWDrKoz4BDcSjp7DJdNvH8GoH5f
+    platform: SOL
 crypto: true
 fiat: false
 id: BOBBY1

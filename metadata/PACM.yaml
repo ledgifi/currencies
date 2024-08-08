@@ -1,6 +1,8 @@
 contracts:
   - address: '0x0B4d0ee29857c3961b380d4ec138EA5814E346b9'
     platform: '---'
+  - address: '0x0B4d0ee29857c3961b380d4ec138EA5814E346b9'
+    platform: BLAST
 crypto: true
 fiat: false
 id: PACM

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xA34BE455a7eF8Cbc3Da642fEE3A15Ee3cb95cB67'
     platform: BNB
+  - address: '0x1879FAb8bc5Ea891e9fC1FfD1dCBf3bDf8AeD70a'
+    platform: BNB
 crypto: true
 fiat: false
 id: WEBSS

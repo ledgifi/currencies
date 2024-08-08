@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x411099C0b413f4fedDb10Edf6a8be63BD321311C'
     platform: ETH
+  - address: 4h49hPGphLNJNDRyiBwzvKoasR3rw1WJCEv19PhUbSS4
+    platform: SOL
 crypto: true
 fiat: false
 id: HELLO

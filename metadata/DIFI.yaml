@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xed6bB4700Abd545575f0642Bb5EA8E0d3B24E9f3'
     platform: ETH
+  - address: FZFrzDAaDSyXuWK5ibV9cAMnLmmx9DRutfMeJBqM751U
+    platform: SOL
 crypto: true
 fiat: false
 id: DIFI

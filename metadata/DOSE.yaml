@@ -5,6 +5,8 @@ contracts:
     platform: ETH
   - address: '0x81382e9693de2afc33f69b70a6c12ca9b3a73f47'
     platform: MATIC
+  - address: '0x455234ab787665a219125235fb01b22b512dfcaa'
+    platform: TBA
 crypto: true
 fiat: false
 id: DOSE

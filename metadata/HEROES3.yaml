@@ -1,6 +1,8 @@
 contracts:
   - address: 0x97E5E6191277EacF59EC46574E1C5b4c7016e601 (Erc20)
     platform: ETH
+  - address: '0x97E5E6191277EacF59EC46574E1C5b4c7016e601'
+    platform: ETH
 crypto: true
 fiat: false
 id: HEROES3

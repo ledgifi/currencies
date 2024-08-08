@@ -29,6 +29,8 @@ contracts:
     platform: TBA
   - address: '0x7F2FD959013eEC5144269ac6edD0015Cb10968Fc'
     platform: TBD
+  - address: '0x7F2FD959013eEC5144269ac6edD0015Cb10968Fc'
+    platform: ZK
 crypto: true
 decimals: 8
 fiat: false

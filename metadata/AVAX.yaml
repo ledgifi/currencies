@@ -10,6 +10,8 @@ contracts:
     platform: KLAY
   - address: '0x6a5279e99ca7786fb13f827fc1fb4f61684933d6'
     platform: TBD
+  - address: '0x6a5279e99ca7786fb13f827fc1fb4f61684933d6'
+    platform: ZK
 crypto: true
 decimals: 8
 fiat: false

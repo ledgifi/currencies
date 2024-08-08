@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x628a3b2e302c7e896acc432d2d0dd22b6cb9bc88'
     platform: ETH
+  - address: '0xE997017e0Cb0CEB503565F181e9ea922CD979c35'
+    platform: TBA
 crypto: true
 fiat: false
 id: LMWR

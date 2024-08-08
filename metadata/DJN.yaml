@@ -1,6 +1,8 @@
 contracts:
   - address: https://solscan.io/token/GnzxEyULVPQYb5F5hxGc8dEGivctVrfr5mtsdp4z5xU2
     platform: SOL
+  - address: GnzxEyULVPQYb5F5hxGc8dEGivctVrfr5mtsdp4z5xU2
+    platform: SOL
 crypto: true
 fiat: false
 id: DJN

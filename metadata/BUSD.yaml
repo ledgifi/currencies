@@ -25,6 +25,8 @@ contracts:
     platform: TRX
   - address: '0xc111c29a988ae0c0087d97b33c6e6766808a3bd3'
     platform: VLX
+  - address: '0x2039bb4116B4EFc145Ec4f0e2eA75012D6C0f181'
+    platform: ZK
 crypto: true
 decimals: 8
 fiat: false

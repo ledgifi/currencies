@@ -1,8 +1,18 @@
 contracts:
+  - address: '0x193f4A4a6ea24102F49b931DEeeb931f6E32405d'
+    platform: ARB
+  - address: '0xed667dC80a45b77305Cc395DB56D997597Dc6DdD'
+    platform: AVAX
   - address: '0xb6c53431608e626ac81a9776ac3e999c5556717c'
+    platform: BNB
+  - address: '0x193f4A4a6ea24102F49b931DEeeb931f6E32405d'
     platform: BNB
   - address: '0x7825e833d495f3d1c28872415a4aee339d26ac88'
     platform: ETH
+  - address: '0x193f4A4a6ea24102F49b931DEeeb931f6E32405d'
+    platform: ETH
+  - address: '0x193f4A4a6ea24102F49b931DEeeb931f6E32405d'
+    platform: MATIC
   - address: eosio.token
     platform: TLOS
 crypto: true

@@ -1,6 +1,8 @@
 contracts:
   - address: https://dashboard.internetcomputer.org/sns/xjngq-yaaaa-aaaaq-aabha-cai
     platform: ICP
+  - address: xjngq-yaaaa-aaaaq-aabha-cai
+    platform: ICP
 crypto: true
 fiat: false
 id: BOOM2

@@ -5,10 +5,14 @@ contracts:
     platform: BNB
   - address: '0xd38BB40815d2B0c2d2c866e0c72c5728ffC76dd9'
     platform: ETH
+  - address: '0x1467b62A6AE5CdcB10A6a8173cfe187DD2C5a136'
+    platform: SCROLL
   - address: '0x6EF95B6f3b0F39508e3E04054Be96D5eE39eDE0d'
     platform: TBA
   - address: '0xdd9f72afed3631a6c85b5369d84875e6c42f1827'
     platform: TBD
+  - address: '0xdd9f72afed3631a6c85b5369d84875e6c42f1827'
+    platform: ZK
 crypto: true
 fiat: false
 id: SIS

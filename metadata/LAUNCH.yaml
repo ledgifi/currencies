@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xF6D9a093A1C69a152d87e269A7d909E9D76B1815'
     platform: TBD
+  - address: '0xF6D9a093A1C69a152d87e269A7d909E9D76B1815'
+    platform: ZK
 crypto: true
 fiat: false
 id: LAUNCH

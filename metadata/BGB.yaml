@@ -1,6 +1,8 @@
 contracts:
   - address: '0x19de6b897ed14a376dda0fe53a5420d2ac828a28'
     platform: ETH
+  - address: '0x54D2252757e1672EEaD234D27B1270728fF90581'
+    platform: ETH
 crypto: true
 fiat: false
 id: BGB

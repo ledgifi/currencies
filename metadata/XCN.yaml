@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xA2cd3D43c775978A96BdBf12d733D5A1ED94fb18'
     platform: ETH
+  - address: '0x9c632e6aaa3ea73f91554f8a3cb2ed2f29605e0c'
+    platform: TBA
 crypto: true
 fiat: false
 id: XCN

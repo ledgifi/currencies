@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: 0xb18d690de95b6d4a788f6c9cc49b3a9a874d5d63 (KCC)
     platform: KCS
+  - address: '0xb18d690de95b6d4a788f6c9cc49b3a9a874d5d63'
+    platform: KCS
   - address: '0xb18d690De95b6D4a788F6C9Cc49B3a9a874D5d63'
     platform: MATIC
 crypto: true

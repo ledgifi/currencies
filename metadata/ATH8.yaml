@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xc87b37a581ec3257b734886d9d3a581f5a9d056c'
+    platform: ARB
+  - address: '0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b'
+    platform: ETH
 crypto: true
 fiat: false
 id: ATH8

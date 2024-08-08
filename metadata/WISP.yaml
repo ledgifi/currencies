@@ -1,6 +1,8 @@
 contracts:
   - address: '0xc8ec5b0627c794de0e4ea5d97ad9a556b361d243'
     platform: TBD
+  - address: '0xc8ec5b0627c794de0e4ea5d97ad9a556b361d243'
+    platform: ZK
 crypto: true
 fiat: false
 id: WISP

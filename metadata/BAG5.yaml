@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xb9dfcd4cf589bb8090569cb52fac1b88dbe4981f'
+    platform: BLAST
   - address: '0x808688c820AB080A6Ff1019F03E5EC227D9b522B'
     platform: ETH
   - address: '0x73b29199a8e4c146e893eb95f18dac41738a88c6'

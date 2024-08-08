@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: '0x45656c02aae856443717c34159870b90d1288203'
     platform: TBD
+  - address: '0x45656c02aae856443717c34159870b90d1288203'
+    platform: ZK
 crypto: true
 fiat: false
 id: HYCO

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x8d266fa745b7cf3856af0c778828473b8d33a149'
     platform: TBD
+  - address: '0x8d266fa745b7cf3856af0c778828473b8d33a149'
+    platform: ZK
 crypto: true
 fiat: false
 id: ZFLOKI

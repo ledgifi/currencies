@@ -1,6 +1,8 @@
 contracts:
   - address: 0x75Ab56F4eFE81598a78EF3079a331F1D0336765D (Fantom)
     platform: FTM
+  - address: '0x75Ab56F4eFE81598a78EF3079a331F1D0336765D'
+    platform: FTM
 crypto: true
 fiat: false
 id: FTMX

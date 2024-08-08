@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xd47bdf574b4f76210ed503e0efe81b58aa061f3d'
     platform: ETH
+  - address: '0x74aa9bB52B36a378a6E641B86d7acb76Dc9b3940'
+    platform: TBA
 crypto: true
 fiat: false
 id: TRVL

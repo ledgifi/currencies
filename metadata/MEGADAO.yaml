@@ -1,6 +1,8 @@
 contracts:
   - address: https://bscscan.com/token/0xf2e4f2c8109530a92a992c9e8d0e75ebf8071e48
     platform: BNB
+  - address: '0xf2e4f2c8109530a92a992c9e8d0e75ebf8071e48'
+    platform: BNB
 crypto: true
 fiat: false
 id: MEGADAO

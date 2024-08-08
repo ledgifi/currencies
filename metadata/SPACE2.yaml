@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x1D1498166DDCEeE616a6d99868e1E0677300056f'
+    platform: ARB
   - address: '0x09211dc67f9fe98fb7bbb91be0ef05f4a12fa2b2'
     platform: AVAX
   - address: '0x9e1170c12fddd3b00fec42ddf4c942565d9be577'
@@ -7,6 +9,8 @@ contracts:
     platform: FTM
   - address: '0xb53ec4ace420a62cfb75afdeba600d284777cd65'
     platform: MATIC
+  - address: '0x1D1498166DDCEeE616a6d99868e1E0677300056f'
+    platform: OP
 crypto: true
 fiat: false
 id: SPACE2

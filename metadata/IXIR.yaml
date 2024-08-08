@@ -1,6 +1,8 @@
 contracts:
   - address: '0x17179f506b89d80291b581f200f34b17ff172cd3'
     platform: BNB
+  - address: '0x9ba43191A84A726cbC48716C1cEb3d13A28a4535'
+    platform: BNB
 crypto: true
 fiat: false
 id: IXIR

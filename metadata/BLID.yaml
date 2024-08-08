@@ -7,6 +7,8 @@ contracts:
     platform: ETH
   - address: ' 0x4b27Cd6E6a5E83d236eAD376D256Fe2F9e9f0d2E'
     platform: MATIC
+  - address: '0x4b27Cd6E6a5E83d236eAD376D256Fe2F9e9f0d2E'
+    platform: MATIC
   - address: '0x048c6bad48c51436764ed1fdb3c9d1c25d2c0ada'
     platform: OP
 crypto: true

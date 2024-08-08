@@ -1,6 +1,8 @@
 contracts:
   - address: rhJYDuVMQxabTyiWuHQkQyDxr6uZEdpv5u (XRPL)
     platform: XRP
+  - address: rhJYDuVMQxabTyiWuHQkQyDxr6uZEdpv5u
+    platform: XRP
 crypto: true
 fiat: false
 id: MLD

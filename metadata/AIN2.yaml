@@ -1,6 +1,8 @@
 contracts:
   - address: 0x8BDfaE0F83a03F5fa98B0bDf339F56df3C9F8BD5 (Ethereum)
     platform: ETH
+  - address: '0x8BDfaE0F83a03F5fa98B0bDf339F56df3C9F8BD5'
+    platform: ETH
 crypto: true
 fiat: false
 id: AIN2

@@ -45,6 +45,8 @@ contracts:
     platform: TLOS
   - address: '0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4'
     platform: WEMIX
+  - address: '0x7400793aad94c8ca801aa036357d10f5fd0ce08f'
+    platform: ZK
 crypto: true
 decimals: 8
 fiat: false

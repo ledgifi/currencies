@@ -1,6 +1,8 @@
 contracts:
   - address: '0x09Aa9feAeAC79Da39Aa3A5A69Cc713aC8c9DF24e'
     platform: BNB
+  - address: '0xD3cC3b3e226cF187181C57F8bcC2fA84250DF651'
+    platform: ETH
 crypto: true
 fiat: false
 id: UPLOAD

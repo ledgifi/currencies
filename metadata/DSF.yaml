@@ -1,6 +1,8 @@
 contracts:
   - address: 0x095BC617b36AB227A379550633DFDCBf43f236F6 (Polygon)
     platform: MATIC
+  - address: '0x095BC617b36AB227A379550633DFDCBf43f236F6'
+    platform: MATIC
 crypto: true
 fiat: false
 id: DSF

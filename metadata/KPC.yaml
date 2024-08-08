@@ -1,6 +1,8 @@
 contracts:
   - address: '0xa511768003d01eaa0f464feeea4b1cddc4254b4f'
     platform: BNB
+  - address: '0x493361d6164093936c86dcb35ad03b4c0d032076'
+    platform: BNB
 crypto: true
 fiat: false
 id: KPC
