@@ -1,10 +1,7 @@
-contracts:
-  - address: '0x38e68a37e401f7271568cecaac63c6b1e19130b4'
-    platform: ETH
 crypto: true
 fiat: false
-id: BANANA4
-id_coinmarketcap: '28066'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28066.png
-logoKey: currencies/banana4.png
-name: Banana Gun
+id: BANANA
+id_coinmarketcap: '8186'
+id_nomics: BANANA4
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8186.png
+name: Banana.finance
