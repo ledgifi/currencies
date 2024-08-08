@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xC96dE26018A54D51c097160568752c4E3BD6C364'
+    platform: ETH
+crypto: true
+fiat: false
+id: FBTC
+id_coinmarketcap: '32306'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32306.png
+logoKey: currencies/fbtc.png
+name: Ignition

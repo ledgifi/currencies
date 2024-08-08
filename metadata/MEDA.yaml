@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x9130990dd16ed8be8be63e46cad305c2c339dac9'
+    platform: BNB
+crypto: true
+fiat: false
+id: MEDA
+id_coinmarketcap: '11990'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11990.png
+logoKey: currencies/meda.png
+name: Medacoin

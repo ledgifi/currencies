@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x9d36f8f62347538440a212e9162f534f797542df'
+    platform: ETH
+crypto: true
+fiat: false
+id: SATS5
+id_coinmarketcap: '31316'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31316.png
+logoKey: currencies/sats5.png
+name: Satoshi Stablecoin

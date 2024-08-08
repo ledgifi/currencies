@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x5e21d1ee5cf0077b314c381720273ae82378d613'
+    platform: ETH
+crypto: true
+fiat: false
+id: ETH1
+id_coinmarketcap: '29991'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29991.png
+logoKey: currencies/eth1.png
+name: The Infinite Garden

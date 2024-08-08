@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x8a603A980709e91d5b0707bf65BC1dEC52f0c7B3'
+    platform: FTM
+crypto: true
+fiat: false
+id: WFBTC
+id_coinmarketcap: '31262'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31262.png
+logoKey: currencies/wfbtc.png
+name: Wrapped Fantom Bitcoin

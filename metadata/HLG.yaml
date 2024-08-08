@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x740df024CE73f589ACD5E8756b377ef8C6558BaB'
+    platform: ETH
+crypto: true
+fiat: false
+id: HLG
+id_coinmarketcap: '31500'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31500.png
+logoKey: currencies/hlg.png
+name: Holograph

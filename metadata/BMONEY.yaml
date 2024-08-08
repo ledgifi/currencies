@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xf10da48d4aaa8d784c5e369cb998e263cfe32aa8'
+    platform: ETH
+crypto: true
+fiat: false
+id: BMONEY
+id_coinmarketcap: '31826'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31826.png
+logoKey: currencies/bmoney.png
+name: B-money

@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xbeef698bd78139829e540622d5863e723e8715f1'
+    platform: ETH
+crypto: true
+fiat: false
+id: BEEF
+id_coinmarketcap: '32281'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32281.png
+logoKey: currencies/beef.png
+name: PepeBull

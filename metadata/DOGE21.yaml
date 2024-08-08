@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xd09e2a8382a4a406d3ee83edff38900298eb416e'
+    platform: ETH
+crypto: true
+fiat: false
+id: DOGE21
+id_coinmarketcap: '32475'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32475.png
+logoKey: currencies/doge21.png
+name: Dogecoin 2.0

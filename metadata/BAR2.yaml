@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x777BE1c6075c20184C4fd76344b7b0B7c858fe6B'
+    platform: ETH
+crypto: true
+fiat: false
+id: BAR2
+id_coinmarketcap: '32477'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32477.png
+logoKey: currencies/bar2.png
+name: Gold Standard

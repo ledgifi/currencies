@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5'
+    platform: ETH
+crypto: true
+fiat: false
+id: USD0
+id_coinmarketcap: '32307'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32307.png
+logoKey: currencies/usd0.png
+name: Usual

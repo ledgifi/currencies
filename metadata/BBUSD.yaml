@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x77776b40c3d75cb07ce54dea4b2fd1d07f865222'
+    platform: ETH
+crypto: true
+fiat: false
+id: BBUSD
+id_coinmarketcap: '31370'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31370.png
+logoKey: currencies/bbusd.png
+name: BounceBit USD

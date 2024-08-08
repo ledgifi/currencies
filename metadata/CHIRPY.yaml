@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x09F971dd434A8C052Ba58E5c037e1057EFF6fA22'
+    platform: ETH
+crypto: true
+fiat: false
+id: CHIRPY
+id_coinmarketcap: '32144'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32144.png
+logoKey: currencies/chirpy.png
+name: Chirpy Boy

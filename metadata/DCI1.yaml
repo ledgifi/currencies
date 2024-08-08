@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xc91953e110ebb0039859304a0d1b64f8450763fc'
+    platform: MATIC
+crypto: true
+fiat: false
+id: DCI1
+id_coinmarketcap: '32098'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32098.png
+logoKey: currencies/dci1.png
+name: Dynamic Crypto Index
