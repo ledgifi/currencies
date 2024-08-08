@@ -1,10 +1,10 @@
 contracts:
-  - address: BZLbGTNCSFfoth2GYDtwr7e4imWzpR5jqcUuGEwr646K
-    platform: SOL
+  - address: '0xa00672c2a70E4CD3919afc2043b4b46e95041425'
+    platform: BNB
 crypto: true
 fiat: false
 id: IO1
-id_coinmarketcap: '29835'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29835.png
+id_coinmarketcap: '12007'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12007.png
 logoKey: currencies/io1.png
-name: io.net
+name: IO RUNE - Rune.Game
