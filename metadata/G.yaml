@@ -1,10 +1,12 @@
 contracts:
-  - address: '0xE1005BfBBC9A17d5d844C7a4371CBF6B2B387380'
+  - address: '0x9C7BEBa8F6eF6643aBd725e45a4E8387eF260649'
     platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: G
-id_coinmarketcap: '20195'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20195.png
+id_binance: '1334'
+id_coinmarketcap: '32120'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32120.png
 logoKey: currencies/g.png
-name: GRN
+name: Gravity
