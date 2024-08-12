@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x01E0d17a533E5930A349C2BB71304F04F20AB12B'
+  - address: '0x61dc650C10Ec3c758d251Cd2D1Ab45AF1A43e941'
     platform: BNB
+  - address: '0x1f16D41f9B3dB03b462BDD6c92245ee708D1C103'
+    platform: ETH
 crypto: true
 fiat: false
 id: RPG
-id_coinmarketcap: '11978'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11978.png
+id_coinmarketcap: '12221'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12221.png
 logoKey: currencies/rpg.png
-name: Revolve Games
+name: Rangers Protocol Gas

@@ -1,0 +1,11 @@
+contracts:
+  - address: '0xc2098a8938119A52B1F7661893c0153A6CB116d5'
+    platform: BNB
+  - address: '0x0E5C8C387C5EBa2eCbc137aD012aeD5Fe729e251'
+    platform: ETH
+crypto: true
+fiat: false
+id: RPGOLD
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12221.png
+logoKey: currencies/rpgold.png
+name: Rangers Protocol Gas (Old)
