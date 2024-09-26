@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xcc54ac31164b5b3c39DB4Eef26D89275c468EC9d'
+    platform: ETH
+  - address: 9nD29a6TMDFHqAXS3iJ6nwLByLBS1gx2664ieQf7Zo7H
+    platform: SOL
+  - address: '0x0C76e9c9E391055e75eB2413d718A4bC7a037972'
+    platform: TBA
+crypto: true
+fiat: false
+id: FUELX
+id_coinmarketcap: '32799'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32799.png
+logoKey: currencies/fuelx.png
+name: Fuel

@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x4c98c4626aabe18fb875b73e33e504497081bce7'
+    platform: ETH
+crypto: true
+fiat: false
+id: CASPER1
+id_coinmarketcap: '32820'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32820.png
+logoKey: currencies/casper1.png
+name: Vitalik's Casper

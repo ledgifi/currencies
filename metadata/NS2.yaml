@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x5145494a5f5100e645e4b0aa950fa6b68f614e8c59e17bc5ded3495123a79178::ns::NS
+    platform: SUI
+crypto: true
+fiat: false
+id: NS2
+id_coinmarketcap: '32942'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32942.png
+logoKey: currencies/ns2.png
+name: Sui Name Service

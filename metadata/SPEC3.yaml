@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xadf7c35560035944e805d98ff17d58cde2449389'
+    platform: ETH
+  - address: '0x96419929d7949d6a801a6909c145c8eef6a40431'
+    platform: TBA
+crypto: true
+fiat: false
+id: SPEC3
+id_coinmarketcap: '32925'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32925.png
+logoKey: currencies/spec3.png
+name: Spectral

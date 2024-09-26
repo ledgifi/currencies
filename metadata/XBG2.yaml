@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x93fa0b88c0c78e45980fa74cdd87469311b7b3e4'
+    platform: ARB
+  - address: '0xEaE00D6F9B16Deb1BD584c7965e4c7d762f178a1'
+    platform: ETH
+  - address: XBGdqJ9P175hCC1LangCEyXWNeCPHaKWA17tymz2PrY
+    platform: SOL
+crypto: true
+fiat: false
+id: XBG2
+id_coinmarketcap: '33081'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33081.png
+logoKey: currencies/xbg2.png
+name: XBorg

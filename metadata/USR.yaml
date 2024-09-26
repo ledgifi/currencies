@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110'
+    platform: ETH
+crypto: true
+fiat: false
+id: USR
+id_coinmarketcap: '32873'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32873.png
+logoKey: currencies/usr.png
+name: Resolv USR

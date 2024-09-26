@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xf7d6243b937136d432adbc643f311b5a9436b0b0'
+    platform: BNB
+crypto: true
+fiat: false
+id: SNAKE1
+id_coinmarketcap: '32755'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32755.png
+logoKey: currencies/snake1.png
+name: snake

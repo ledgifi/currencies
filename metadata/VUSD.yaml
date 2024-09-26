@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x0BFFDD787C83235f6F0afa0Faed42061a4619B7a'
+    platform: ETH
+crypto: true
+fiat: false
+id: VUSD
+id_coinmarketcap: '32938'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32938.png
+logoKey: currencies/vusd.png
+name: VUSD

@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x050c24dbf1eec17babe5fc585f06116a259cc77a'
+    platform: ARB
+crypto: true
+fiat: false
+id: DLCBTC
+id_coinmarketcap: '32716'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32716.png
+logoKey: currencies/dlcbtc.png
+name: dlcBTC

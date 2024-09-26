@@ -1,0 +1,20 @@
+contracts:
+  - address: '0xe7903B1F75C534Dd8159b313d92cDCfbC62cB3Cd'
+    platform: BLAST
+  - address: '0xe7903B1F75C534Dd8159b313d92cDCfbC62cB3Cd'
+    platform: MODE
+  - address: '0x87eEE96D50Fb761AD85B1c982d28A042169d61b1'
+    platform: OP
+  - address: '0xa25b25548b4c98b0c7d3d27dca5d5ca743d68b7f'
+    platform: SCROLL
+  - address: '0xD2671165570f41BBB3B0097893300b6EB6101E6C'
+    platform: TBA
+  - address: '0xd4169E045bcF9a86cC00101225d9ED61D2F51af2'
+    platform: ZK
+crypto: true
+fiat: false
+id: WRSETH
+id_coinmarketcap: '32690'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32690.png
+logoKey: currencies/wrseth.png
+name: Kelp DAO Wrapped rsETH

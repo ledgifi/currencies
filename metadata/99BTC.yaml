@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xc2eb40516ecaac04ae9964934983d1e9ebdf51fd'
+    platform: ETH
+crypto: true
+fiat: false
+id: 99BTC
+id_coinmarketcap: '32621'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32621.png
+logoKey: currencies/99btc.png
+name: 99 Bitcoins

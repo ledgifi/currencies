@@ -1,0 +1,18 @@
+contracts:
+  - address: '0x5018609ab477cc502e170a5accf5312b86a4b94f'
+    platform: ARB
+  - address: '0x52056ed29fe015f4ba2e3b079d10c0b87f46e8c6'
+    platform: BLAST
+  - address: '0xA469B7Ee9ee773642b3e93E842e5D9b5BaA10067'
+    platform: ETH
+  - address: '0x73d23F3778a90Be8846E172354A115543dF2a7E4'
+    platform: MANTA
+  - address: '0x04d5ddf5f3a8939889f11e97f8c4bb48317f1938'
+    platform: TBA
+crypto: true
+fiat: false
+id: USDZ2
+id_coinmarketcap: '32774'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32774.png
+logoKey: currencies/usdz2.png
+name: Anzen Finance
