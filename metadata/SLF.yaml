@@ -1,10 +1,9 @@
-contracts:
-  - address: '0x32089eaffaf278c82cda2c8d37e7b6b6fabbaaf2'
-    platform: BNB
 crypto: true
+decimals: 8
 fiat: false
 id: SLF
-id_coinmarketcap: '9684'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9684.png
+id_binance: '1340'
+id_coinmarketcap: '32854'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32854.png
 logoKey: currencies/slf.png
-name: Solarfare
+name: Self Chain
