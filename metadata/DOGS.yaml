@@ -1,14 +1,12 @@
 contracts:
-  - address: '0xBcCD27062ae1A2BeA5731c904b96EDfb163Aba21'
-    platform: BNB
-  - address: '0xBcCD27062ae1A2BeA5731c904b96EDfb163Aba21'
-    platform: ETH
-  - address: '0x435f49a87df832a582A1657421F083a0529edf7c'
-    platform: TBA
+  - address: EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE_jpptRAYBmcG_DOGS
+    platform: TON
 crypto: true
+decimals: 2
 fiat: false
 id: DOGS
-id_coinmarketcap: '21521'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21521.png
+id_binance: '1343'
+id_coinmarketcap: '32698'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32698.png
 logoKey: currencies/dogs.png
-name: DogCoin
+name: Dogs
