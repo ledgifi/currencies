@@ -5,6 +5,8 @@ contracts:
     platform: BNB
   - address: '0xd8Fa690304D2B2824D918C0c7376e2823704557A'
     platform: ETH
+  - address: '0xb72E76cCf005313868DB7b48070901a44629da98'
+    platform: ETH
 crypto: true
 fiat: false
 id: SQUIDGROW

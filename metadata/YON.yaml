@@ -1,6 +1,8 @@
 contracts:
   - address: '0xb8c3e8ff71513afc8cfb2dddc5a994a501db1916'
     platform: BNB
+  - address: '0x68355E342ff81633CCd0395Cc77c83e266ca548e'
+    platform: BNB
 crypto: true
 fiat: false
 id: YON

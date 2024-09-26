@@ -1,6 +1,8 @@
 contracts:
   - address: '0xA735A3AF76CC30791C61c10d585833829d36CBe0'
     platform: ETH
+  - address: '0x18E692c03De43972Fe81058f322fa542Ae1A5E2c'
+    platform: TBA
 crypto: true
 fiat: false
 id: IMGNAI

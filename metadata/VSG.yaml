@@ -1,6 +1,8 @@
 contracts:
   - address: '0x2a5fa016ffb20c70e2ef36058c08547f344677aa'
     platform: ETH
+  - address: '0x58aea10748a00d1781d6651f9d78a414ea32ca46'
+    platform: ETH
 crypto: true
 fiat: false
 id: VSG

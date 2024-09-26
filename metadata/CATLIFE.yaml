@@ -1,6 +1,8 @@
 contracts:
   - address: '0x555a29d0e0e00d573a63fb11dc37b61a9da52f86'
     platform: BNB
+  - address: '0x555a29d0e0e00d573a63fb11dc37b61a9da52f86'
+    platform: ETH
 crypto: true
 fiat: false
 id: CATLIFE

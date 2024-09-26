@@ -1,6 +1,24 @@
 contracts:
+  - address: '0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe'
+    platform: ARB
+  - address: '0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A'
+    platform: BLAST
+  - address: '0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A'
+    platform: BNB
   - address: '0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee'
     platform: ETH
+  - address: '0x04c0599ae5a44757c0af6f9ec3b93da8976c150a'
+    platform: MODE
+  - address: '0x5A7fACB970D094B6C7FF1df0eA68D99E6e73CBFF'
+    platform: OP
+  - address: '0x01f0a31698c4d065659b9bdc21b3610292a1c506'
+    platform: SCROLL
+  - address: '0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A'
+    platform: TBA
+  - address: '0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6'
+    platform: TBA
+  - address: '0xc1fa6e2e8667d9be0ca938a54c7e0285e9df924a'
+    platform: ZK
 crypto: true
 fiat: false
 id: WEETH

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x9366d30FeBA284E62900f6295BC28c9906f33172'
     platform: AVAX
+  - address: '0x11A31b833d43853f8869C9EEc17F60e3B4d2a753'
+    platform: BNB
 crypto: true
 fiat: false
 id: BIOFI

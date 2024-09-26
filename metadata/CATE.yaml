@@ -3,6 +3,10 @@ contracts:
     platform: BNB
   - address: '0xf05897CfE3CE9BBBfE0751CBE6B1B2c686848DCb'
     platform: ETH
+  - address: '0x051fb509e4a775fabd257611eea1efaed8f91359'
+    platform: ETH
+  - address: '0x051fb509e4a775fabd257611eea1efaed8f91359'
+    platform: TBA
 crypto: true
 fiat: false
 id: CATE

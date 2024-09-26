@@ -1,6 +1,8 @@
 contracts:
   - address: https://bscscan.com/token/0x5aC0d5414E72A699624E430Eb6F7870b1F04Ad88
     platform: BNB
+  - address: '0x5aC0d5414E72A699624E430Eb6F7870b1F04Ad88'
+    platform: BNB
 crypto: true
 fiat: false
 id: MDCX1

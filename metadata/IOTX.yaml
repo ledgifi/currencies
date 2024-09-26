@@ -8,6 +8,8 @@ contracts:
     platform: IOTX
   - address: '0xf6372cdb9c1d3674e83842e3800f2a62ac9f3c66'
     platform: MATIC
+  - address: '0xbcbaf311cec8a4eac0430193a528d9ff27ae38c1'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

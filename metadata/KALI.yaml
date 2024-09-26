@@ -1,6 +1,8 @@
 contracts:
   - address: '0x950481789959cd6D77F1b88C2e1F61e30608c4E2'
     platform: BNB
+  - address: '0x9802296cc5b76ff2fc6dd6de372f47f96bc0347a'
+    platform: ETH
 crypto: true
 fiat: false
 id: KALI

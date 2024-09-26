@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x00000000000451f49c692Bfc24971cAcEA2dB678'
+    platform: ARB
   - address: '0xb27bbeaaca2c00d6258c3118bab6b5b6975161c8'
     platform: METIS
 crypto: true

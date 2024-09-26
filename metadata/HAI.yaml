@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x05Fb86775Fd5c16290f1E838F5caaa7342bD9a63'
     platform: ETH
+  - address: '0x73E2A6320314883ff8Cc08b53F1460a5f4c47f2c'
+    platform: TBA
   - address: '0xacc280010b2ee0efc770bce34774376656d8ce14'
     platform: VET
 crypto: true

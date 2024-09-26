@@ -1,6 +1,8 @@
 contracts:
   - address: '0xad4e5e6cad6ef6c497d25e8e8056cc8f78d2f2ef'
     platform: BNB
+  - address: '0x5b901182b9B2820A713fF5D88519999C550d40e8'
+    platform: MATIC
 crypto: true
 fiat: false
 id: LFIT

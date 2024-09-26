@@ -1,6 +1,8 @@
 contracts:
   - address: '0x410e731c2970Dce3AdD351064AcF5cE9E33FDBf0'
     platform: ETH
+  - address: 0x3332b178c1513f32bca9cf711b0318c2bca4cb06f1a74211bac97a1eeb7f7259::LWA::LWA
+    platform: SUI
 crypto: true
 fiat: false
 id: ONIT

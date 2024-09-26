@@ -1,6 +1,8 @@
 contracts:
   - address: '0x2e8799f0A26d8A9f37a0b4747Fa534f039C2d234'
     platform: BNB
+  - address: '0xcA5c7a459bECAAC1f2b5eE28bB8A29875B1a37A6'
+    platform: TBA
 crypto: true
 fiat: false
 id: BIRB

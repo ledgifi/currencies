@@ -1,11 +1,27 @@
 contracts:
   - address: '0xeb99748e91afca94a6289db3b02e7ef4a8f0a22d'
     platform: ARB
+  - address: '0xdd2F41340A1fFcf1c22C7a8Be4E525D7A2De642b'
+    platform: ARB
+  - address: '0x6A661312938D22A2A0e27F585073E4406903990a'
+    platform: BLAST
   - address: '0xce86f7fcd3b40791f63b86c3ea3b8b355ce2685b'
+    platform: BNB
+  - address: '0x6A661312938D22A2A0e27F585073E4406903990a'
     platform: BNB
   - address: '0x745407c86df8db893011912d3ab28e68b62e49b0'
     platform: ETH
+  - address: '0xbc3186b68d1a7b771288122386288aca9c1561a9'
+    platform: OKB
+  - address: '0x6A661312938D22A2A0e27F585073E4406903990a'
+    platform: OP
+  - address: '0x6A661312938D22A2A0e27F585073E4406903990a'
+    platform: SCROLL
   - address: '0x437ebdffd397860d0f7f1660d817c059f3b8238a'
+    platform: TBA
+  - address: '0x6A661312938D22A2A0e27F585073E4406903990a'
+    platform: TBA
+  - address: '0x554bba833518793056CF105E66aBEA330672c0dE'
     platform: TBA
 crypto: true
 fiat: false

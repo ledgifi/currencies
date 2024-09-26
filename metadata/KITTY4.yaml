@@ -1,6 +1,8 @@
 contracts:
   - address: '0xbca7f1998Dc9FFB70b086543a808960a460aBcA7'
     platform: AVAX
+  - address: '0xcdaba68a050fc4ba5c7e18d37e8be955b1bfbb00'
+    platform: BNB
 crypto: true
 fiat: false
 id: KITTY4

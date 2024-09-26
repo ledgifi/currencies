@@ -1,6 +1,8 @@
 contracts:
   - address: '0xebdf9a7ae0009b958c6d09501eb9ac1dafeb31ab'
     platform: ETH
+  - address: '0x1cd3828a2b62648dbe98d6f5748a6b1df08ac7bb'
+    platform: KLAY
 crypto: true
 fiat: false
 id: REDI

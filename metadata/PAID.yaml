@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x1614F18Fc94f47967A3Fbe5FfcD46d4e7Da3D787'
     platform: ETH
+  - address: '0x655a51e6803faf50d4ace80fa501af2f29c856cf'
+    platform: TBA
 crypto: true
 fiat: false
 id: PAID

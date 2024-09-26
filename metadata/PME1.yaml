@@ -1,6 +1,8 @@
 contracts:
   - address: '0x3b7a389df11a0f71739b1632dcaaf89d2e6c3116'
     platform: MATIC
+  - address: '0xFD1eEb2f3399872735f3Df735816c4FC607E12C4'
+    platform: MATIC
 crypto: true
 fiat: false
 id: PME1

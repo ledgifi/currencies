@@ -1,6 +1,8 @@
 contracts:
   - address: '0x799c98fefb094f5ef3e7850cae4a9401f9382f45'
     platform: MATIC
+  - address: '0xc1ab7e48fafee6b2596c65261392e59690CE7742'
+    platform: MATIC
 crypto: true
 fiat: false
 id: $ECET

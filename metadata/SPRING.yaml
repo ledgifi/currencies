@@ -1,6 +1,8 @@
 contracts:
   - address: '0xf04af3f4e4929f7cd25a751e6149a3318373d4fe'
     platform: ETH
+  - address: '0x70d59baA5ab360b2723dD561415bdBcD4435E1C4'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SPRING

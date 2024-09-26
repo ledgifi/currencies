@@ -1,6 +1,8 @@
 contracts:
   - address: '0x5B0Dfe077B16479715C9838eb644892008abbFe6'
     platform: BNB
+  - address: '0xcb8382B4F7Bc012F0eff12e62Ca2801F54aca975'
+    platform: BNB
 crypto: true
 fiat: false
 id: BBTC2

@@ -11,6 +11,8 @@ contracts:
     platform: MATIC
   - address: '0xe453d6649643F1F460C371dC3D1da98F7922fe51'
     platform: OP
+  - address: '0x01facc69ec7360640aa5898e852326752801674a'
+    platform: TBA
 crypto: true
 fiat: false
 id: FUSE

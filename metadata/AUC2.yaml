@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x1584B02D095a4B1b9a11a4049193d155B4F75454'
+    platform: AVAX
   - address: '0x87a92428bbc876d463c21c8e51b903f127d9a9f4'
     platform: ETH
+  - address: '0x1584B02D095a4B1b9a11a4049193d155B4F75454'
+    platform: TBA
 crypto: true
 fiat: false
 id: AUC2

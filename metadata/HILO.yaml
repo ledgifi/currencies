@@ -1,6 +1,8 @@
 contracts:
   - address: '0xbb9fd9fa4863c03c574007ff3370787b9ce65ff6'
     platform: ETH
+  - address: '0x6c3fe25a4de7fa243c653cfe1f165bf11d99704e'
+    platform: ETH
 crypto: true
 fiat: false
 id: HILO

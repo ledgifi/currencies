@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x8f9b4525681F3Ea6E43b8E0a57BFfF86c0A1dd2e'
     platform: ETH
+  - address: '0x2C8C89C442436CC6C0a77943E09c8Daf49Da3161'
+    platform: TBA
 crypto: true
 fiat: false
 id: ZBU

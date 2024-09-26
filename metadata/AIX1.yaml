@@ -1,6 +1,8 @@
 contracts:
   - address: '0x40e9187078032afe1a30cfcf76e4fe3d7ab5c6c5'
     platform: ETH
+  - address: '0xE2432110C32D0717E33c245fe0CFA2B26c07f47a'
+    platform: ETH
 crypto: true
 fiat: false
 id: AIX1

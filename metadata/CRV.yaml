@@ -8,8 +8,14 @@ contracts:
     platform: FTM
   - address: '0x712b3d230f3c1c19db860d80619288b1f0bdd0bd'
     platform: GNO
+  - address: '0x172370d5Cd63279eFa6d502DAB29171933a610AF'
+    platform: MATIC
+  - address: '0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53'
+    platform: OP
   - address: 7gjNiPun3AzEazTZoFEjZgcBMeuaXdpjHq2raZTmTrfs
     platform: SOL
+  - address: '0x8Ee73c484A26e0A5df2Ee2a4960B789967dd0415'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

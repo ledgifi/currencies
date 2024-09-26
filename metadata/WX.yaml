@@ -1,4 +1,10 @@
 contracts:
+  - address: '0x8445B8c4982C4BFF1BF1e4783c33E5aFe1A153D7'
+    platform: BNB
+  - address: '0x934ac3fFDC82A3ABcc71C1831BdF5c766f6EE8a9'
+    platform: ETH
+  - address: GwUayReXTeCxyiCwqfLMSfEbeu5z4QAXfLDBjagN3hf1
+    platform: SOL
   - address: Atqv59EYzjFGuitKVnMRk6H8FukjoV3ktPorbEys25on
     platform: WAVES
 crypto: true

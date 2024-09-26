@@ -1,5 +1,9 @@
 contracts:
+  - address: '0xcf10117b30c7a5fc7c77b611bfc2555610dd4b3a'
+    platform: BNB
   - address: NA
+    platform: TON
+  - address: EQCV5dXNrWVU1z7VidEKvXL5iB_PXs2zm9LLe9bPgSklde0z
     platform: TON
 crypto: true
 fiat: false

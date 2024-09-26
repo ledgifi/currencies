@@ -1,6 +1,8 @@
 contracts:
   - address: '0x00000000000000000000000000000000002d3bd3'
     platform: HBAR
+  - address: 0.0.2964435
+    platform: HBAR
 crypto: true
 fiat: false
 id: SAUCEINU

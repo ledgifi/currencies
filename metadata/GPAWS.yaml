@@ -1,6 +1,8 @@
 contracts:
   - address: '0xe21f860d4691af2d101de814fff2b1c640ec5d2c'
     platform: BNB
+  - address: 0xf025d53bbf98b6b681f7bae9a9083194163e1214#code
+    platform: BNB
 crypto: true
 fiat: false
 id: GPAWS

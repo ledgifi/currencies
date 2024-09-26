@@ -1,6 +1,8 @@
 contracts:
   - address: '0x04d9abba71ee36c857d8d8062382df80537d539c'
     platform: BNB
+  - address: bp5V5jjB5EyoCjWoBmKgEZn6sPn35foXkB1zxvcdc3X
+    platform: SOL
 crypto: true
 fiat: false
 id: BITMETA

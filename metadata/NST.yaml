@@ -3,6 +3,8 @@ contracts:
     platform: ARB
   - address: '0x70bef3bb2f001da2fddb207dae696cd9faff3f5d'
     platform: ETH
+  - address: G7iK3prSzAA4vzcJWvsLUEsdCqzR7PnMzJV61vSdFSNW
+    platform: SOL
 crypto: true
 fiat: false
 id: NST

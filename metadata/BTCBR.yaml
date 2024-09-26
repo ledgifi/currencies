@@ -1,6 +1,8 @@
 contracts:
   - address: '0x75C5f6D32d8Ef3a4f0F43F7792Aa08e8678972F9'
     platform: ARB
+  - address: '0xE9dC987b939A7B33270e56532297Cf82716c79A3'
+    platform: AURORA
   - address: '0xb355f4f4cc84a9429a59d5c2b98d77016f7ec482'
     platform: AVAX
   - address: '0x0cf8e180350253271f4b917ccfb0accc4862f262'
@@ -27,6 +29,8 @@ contracts:
     platform: KCS
   - address: '0xb355f4f4cc84a9429a59d5c2b98d77016f7ec482'
     platform: MATIC
+  - address: '0x44846b18896740925ae9E7E34D169A32983Dc6B1'
+    platform: METIS
   - address: '0xe57425f1598f9b0d6219706b77f4b3da573a3695'
     platform: MOVR
   - address: '0xB355f4F4CC84a9429a59d5c2B98d77016f7EC482'

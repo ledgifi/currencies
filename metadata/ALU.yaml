@@ -1,6 +1,8 @@
 contracts:
   - address: '0x8263CD1601FE73C066bf49cc09841f35348e3be0'
     platform: BNB
+  - address: '0x91Ad1b44913cD1B8241A4Ff1e2EAa198DA6Bf4c9'
+    platform: TBA
 crypto: true
 fiat: false
 id: ALU
