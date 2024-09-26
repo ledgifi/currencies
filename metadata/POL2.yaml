@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x455e53cbb86018ac2b8092fdcd39d8444affc3f6'
-    platform: ETH
+  - address: TWcDDx1Q6QEoBrJi9qehtZnD4vcXXuVLer
+    platform: TRX
 crypto: true
 fiat: false
 id: POL2
-id_coinmarketcap: '28321'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28321.png
+id_coinmarketcap: '6297'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6297.png
 logoKey: currencies/pol2.png
-name: Polygon Ecosystem Token
+name: Proof Of Liquidity
