@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x9d1a7a3191102e9f900faa10540837ba84dcbae7'
+    platform: BNB
+  - address: '0x9d1a7a3191102e9f900faa10540837ba84dcbae7'
+    platform: ETH
+crypto: true
+decimals: 8
+fiat: false
+id: EURI
+id_binance: '1345'
+id_coinmarketcap: '32644'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32644.png
+logoKey: currencies/euri.png
+name: Eurite

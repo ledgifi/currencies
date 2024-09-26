@@ -1,0 +1,12 @@
+contracts:
+  - address: BNso1VUJnh4zcfpZa6986Ea66P6TCp59hvtNJ8b1X85
+    platform: SOL
+crypto: true
+decimals: 8
+fiat: false
+id: BNSOL
+id_binance: '1349'
+id_coinmarketcap: '32882'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32882.png
+logoKey: currencies/bnsol.png
+name: Binance Staked SOL
