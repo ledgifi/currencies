@@ -1,10 +1,10 @@
 contracts:
-  - address: CTJf74cTo3cw8acFP1YXF3QpsQUUBGBjh2k2e8xsZ6UL
-    platform: SOL
+  - address: '0xee2a03aa6dacf51c18679c516ad5283d8e7c2637'
+    platform: ETH
 crypto: true
 fiat: false
 id: NEIRO1
-id_coinmarketcap: '32464'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32464.png
+id_coinmarketcap: '32461'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32461.png
 logoKey: currencies/neiro1.png
-name: Neiro (neiro.lol)
+name: Neiro Ethereum

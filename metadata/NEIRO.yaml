@@ -1,10 +1,12 @@
 contracts:
-  - address: '0xee2a03aa6dacf51c18679c516ad5283d8e7c2637'
+  - address: '0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee'
     platform: ETH
 crypto: true
+decimals: 2
 fiat: false
 id: NEIRO
-id_coinmarketcap: '32461'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32461.png
+id_binance: '1356'
+id_coinmarketcap: '32521'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32521.png
 logoKey: currencies/neiro.png
-name: Neiro Ethereum
+name: First Neiro On Ethereum
