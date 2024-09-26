@@ -1,12 +1,7 @@
-contracts:
-  - address: '0xa35923162c49cf95e6bf26623385eb431ad920d3'
-    platform: ETH
-  - address: 2Dyzu65QA9zdX1UeE7Gx71k7fiwyUK6sZdrvJ7auq5wm
-    platform: SOL
 crypto: true
 fiat: false
 id: TURBO1
-id_coinmarketcap: '24911'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24911.png
+id_coinmarketcap: '1767'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1767.png
 logoKey: currencies/turbo1.png
-name: Turbo
+name: TurboCoin
