@@ -2,8 +2,10 @@ contracts:
   - address: '0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3'
     platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: ONDO
+id_binance: '1347'
 id_coinmarketcap: '21159'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21159.png
 logoKey: currencies/ondo.png
