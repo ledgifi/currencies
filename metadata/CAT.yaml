@@ -1,11 +1,12 @@
 contracts:
-  - address: '0x56ba2Ee7890461f463F7be02aAC3099f6d5811A8'
-    platform: ETH
+  - address: '0x6894CDe390a3f51155ea41Ed24a33A4827d3063D'
+    platform: BNB
 crypto: true
+decimals: 8
 fiat: false
 id: CAT
-id_coinmarketcap: '1882'
-id_nomics: CAT
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/cat.jpg
-logoKey: currencies/cat.jpg
-name: BlockCAT
+id_binance: '58'
+id_coinmarketcap: '32724'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32724.png
+logoKey: currencies/cat.png
+name: Simon's Cat
