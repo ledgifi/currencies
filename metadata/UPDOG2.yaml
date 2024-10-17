@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x55c833f3c668dd863d3848d306e426a33eac615bb93be03fe3a2f721701fec1::UPDOG::UPDOG
+    platform: APT
+crypto: true
+fiat: false
+id: UPDOG2
+id_coinmarketcap: '33477'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33477.png
+logoKey: currencies/updog2.png
+name: Updog

@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x677f7e16c7dd57be1d4c8ad1244883214953dc47'
+    platform: CHZ
+crypto: true
+fiat: false
+id: WCHZ
+id_coinmarketcap: '33469'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33469.png
+logoKey: currencies/wchz.png
+name: Wrapped Chiliz

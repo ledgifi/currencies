@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x2cd6f14a4b64c3a0fa9c644e8ed88d9c91d789a071886d67d24e6b435147063d::pugwif::PUGWIF
+    platform: SUI
+crypto: true
+fiat: false
+id: PUGWIF
+id_coinmarketcap: '33176'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33176.png
+logoKey: currencies/pugwif.png
+name: PUGWIFHAT

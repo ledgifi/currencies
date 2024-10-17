@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x6de73Ced5dd4c33235F9f4bF5dE47B5d33C6392a'
+    platform: ETH
+crypto: true
+fiat: false
+id: PUPPETH
+id_coinmarketcap: '33274'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33274.png
+logoKey: currencies/puppeth.png
+name: Puppeth

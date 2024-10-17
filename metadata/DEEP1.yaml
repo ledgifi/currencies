@@ -1,0 +1,10 @@
+contracts:
+  - address: 0xdeeb7a4662eec9f2f3def03fb937a663dddaa2e215b8078a284d026b7946c270::deep::DEEP
+    platform: SUI
+crypto: true
+fiat: false
+id: DEEP1
+id_coinmarketcap: '33391'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33391.png
+logoKey: currencies/deep1.png
+name: DeepBook Protocol

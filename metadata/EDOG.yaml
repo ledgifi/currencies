@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x5e975e7f36f2658d4cf146142899c659464a3e0d90f0f4d5f8b2447173c06ef6::EDOG::EDOG
+    platform: APT
+crypto: true
+fiat: false
+id: EDOG
+id_coinmarketcap: '33437'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33437.png
+logoKey: currencies/edog.png
+name: EDOG
