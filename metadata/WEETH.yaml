@@ -12,6 +12,8 @@ contracts:
   - address: '0x5A7fACB970D094B6C7FF1df0eA68D99E6e73CBFF'
     platform: OP
   - address: '0x01f0a31698c4d065659b9bdc21b3610292a1c506'
+    platform: SCR
+  - address: '0x01f0a31698c4d065659b9bdc21b3610292a1c506'
     platform: SCROLL
   - address: '0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A'
     platform: TBA

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x4e1C1BD35397042319Fe252d2e324ad439B19f1e'
     platform: BNB
+  - address: '0xecca434e838eebe30e561d0ec3e3016efd1d340a'
+    platform: BNB
 crypto: true
 fiat: false
 id: BFM

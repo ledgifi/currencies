@@ -6,6 +6,8 @@ contracts:
   - address: '0xd38BB40815d2B0c2d2c866e0c72c5728ffC76dd9'
     platform: ETH
   - address: '0x1467b62A6AE5CdcB10A6a8173cfe187DD2C5a136'
+    platform: SCR
+  - address: '0x1467b62A6AE5CdcB10A6a8173cfe187DD2C5a136'
     platform: SCROLL
   - address: '0x6EF95B6f3b0F39508e3E04054Be96D5eE39eDE0d'
     platform: TBA

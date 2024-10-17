@@ -5,6 +5,8 @@ contracts:
     platform: MATIC
   - address: idrxTdNftk6tYedPv2M7tCFHBVCpk5rkiNRd8yUArhr
     platform: SOL
+  - address: '0x649a2da7b28e0d54c13d5eff95d3a660652742cc'
+    platform: TBA
 crypto: true
 fiat: false
 id: IDRX

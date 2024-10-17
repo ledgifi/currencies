@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x02cea97794d2cfb5f560e1ff4e9c59d1bec75969'
+    platform: ARB
   - address: '0x228a48df6819ccc2eca01e2192ebafffdad56c19'
     platform: AVAX
   - address: '0x79d4f0232A66c4c91b89c76362016A1707CFBF4f'
@@ -9,6 +11,8 @@ contracts:
     platform: SOL
   - address: GDXLSLCOPPHTWOQXLLKSVN4VN3G67WD2ENU7UMVAROEYVJLSPSEWXIZN
     platform: XLM
+  - address: VCHF-rLPtwF4FZi8bNVmbQ8JgoDUooozhwMNXr3
+    platform: XRP
   - address: KT1LssxZqfQtRFv1CRkzX9E9gzap9iFrtWmq
     platform: XTZ
 crypto: true

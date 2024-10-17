@@ -109,6 +109,8 @@ contracts:
   - address: '0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c'
     platform: ROSE
   - address: '0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4'
+    platform: SCR
+  - address: '0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4'
     platform: SCROLL
   - address: secret1h6z05y90gwm4sqxzhz4pkyp36cna9xtp7q0urv
     platform: SCRT
@@ -119,6 +121,8 @@ contracts:
   - address: '0x53c91253bc9682c04929ca02ed00b3e423f6710d2ee7e0d5ebb06f3ecf368a8'
     platform: STRK
   - address: 0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN
+    platform: SUI
+  - address: 0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC
     platform: SUI
   - address: '0xe2aa35c2039bd0ff196a6ef99523cc0d3972ae3e'
     platform: SX

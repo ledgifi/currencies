@@ -1,5 +1,7 @@
 contracts:
   - address: '0xdd6a49995ad38Fe7409B5d5Cb5539261Bd1bC901'
+    platform: SCR
+  - address: '0xdd6a49995ad38Fe7409B5d5Cb5539261Bd1bC901'
     platform: SCROLL
 crypto: true
 fiat: false

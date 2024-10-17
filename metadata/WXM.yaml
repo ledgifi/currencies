@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xb6093b61544572ab42a0e43af08abafd41bf25a6'
+    platform: ARB
   - address: '0xde654f497A563dd7A121c176a125dD2F11F13a83'
     platform: ETH
+  - address: wxmJYe17a2oGJZJ1wDe6ZyRKUKmrLj2pJsavEdTVhPP
+    platform: SOL
 crypto: true
 fiat: false
 id: WXM

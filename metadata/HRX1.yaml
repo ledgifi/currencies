@@ -1,6 +1,8 @@
 contracts:
   - address: '0x8a3c92a7a7aa9eed4d390aad1708dd5995720dae'
     platform: BNB
+  - address: '0xd157eDB555F362c45B89E01f7FfdB19EDFaeC13E'
+    platform: BNB
 crypto: true
 fiat: false
 id: HRX1

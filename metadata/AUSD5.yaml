@@ -7,6 +7,8 @@ contracts:
     platform: MNT
   - address: https://suiscan.xyz/mainnet/coin/0x2053d08c1e2bd02791056171aab0fd12bd7cd7efad2ab8f6b9c8902f14df2ff2
     platform: SUI
+  - address: https://suivision.xyz/coin/0x2053d08c1e2bd02791056171aab0fd12bd7cd7efad2ab8f6b9c8902f14df2ff2::ausd::AUSD
+    platform: SUI
 crypto: true
 fiat: false
 id: AUSD5

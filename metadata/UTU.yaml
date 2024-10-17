@@ -1,8 +1,12 @@
 contracts:
+  - address: '0x7aa1a72f744Cdcd4c89918AEBFbe4F1d1D1156E6'
+    platform: AURORA
   - address: '0xed4Bb33F20F32E989AF975196E86019773A7CFf0'
     platform: BNB
   - address: '0xa58a4f5c4bb043d2cc1e170613b74e767c94189b'
     platform: ETH
+  - address: '0xf7dC37493e2e375dFDEbec75E71D555af68648Bf'
+    platform: OP
 crypto: true
 fiat: false
 id: UTU

@@ -3,8 +3,14 @@ contracts:
     platform: ARB
   - address: '0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63'
     platform: BNB
+  - address: '0x3E2e61F1c075881F3fB8dd568043d8c221fd5c61'
+    platform: BNB
   - address: '0xd3CC9d8f3689B83c91b7B59cAB4946B063EB894A'
     platform: ETH
+  - address: '0x4a971e87ad1F61f7f3081645f52a99277AE917cF'
+    platform: OP
+  - address: '0xD78ABD81a3D57712a3af080dc4185b698Fe9ac5A'
+    platform: ZK
 crypto: true
 decimals: 8
 fiat: false

@@ -1,4 +1,8 @@
 contracts:
+  - address: '0x2270f71bFd8F3396d9B28ecF2eAE7F0E6D48cAFF'
+    platform: BNB
+  - address: '0x2270f71bFd8F3396d9B28ecF2eAE7F0E6D48cAFF'
+    platform: ETH
   - address: Ed6wQTbHwnoaSGx1y9YeqNkXJqNYYLCcAQoBhA3nuYYH
     platform: SOL
 crypto: true

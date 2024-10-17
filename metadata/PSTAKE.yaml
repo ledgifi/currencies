@@ -11,6 +11,8 @@ contracts:
     platform: OP
   - address: ibc/8061A06D3BD4D52C4A28FFECF7150D370393AF0BA661C3776C54FF32836C3961
     platform: OSMO
+  - address: 0xb66e9e1cd25e8be90091c4f20b42f0472ea22d4244f3bc2241891ed7ad2d80de::celer_pstake_coin::CELER_PSTAKE_COIN
+    platform: SUI
   - address: '0x38815A4455921667d673B4cb3d48F0383eE93400'
     platform: TBA
 crypto: true

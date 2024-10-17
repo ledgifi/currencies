@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x0A0F70B227f782f2CeAD75554781AF45a620A296'
+    platform: PLS
   - address: F42ZqgYHRJ7XgQL3kj61FNgUbSWFYVqRMGTHhXqnuzmX
     platform: SOL
 crypto: true

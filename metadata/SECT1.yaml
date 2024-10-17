@@ -1,6 +1,8 @@
 contracts:
   - address: '0x24EdDeD3f03abb2e9D047464294133378bddB596'
     platform: ETH
+  - address: '0x59a73BEF0f729761bc3B9aA7F41872077E4Bf300'
+    platform: ETH
 crypto: true
 fiat: false
 id: SECT1

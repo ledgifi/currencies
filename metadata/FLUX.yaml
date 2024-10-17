@@ -1,5 +1,7 @@
 color: '#2b61d1'
 contracts:
+  - address: '1029804829'
+    platform: ALGO
   - address: '0xc4B06F17ECcB2215a5DBf042C672101Fc20daF55'
     platform: AVAX
   - address: '0xaff9084f2374585879e8b434c399e29e80cce635'
@@ -8,8 +10,12 @@ contracts:
     platform: ETH
   - address: runonflux.flux
     platform: KDA
+  - address: '0xA2bb7A68c46b53f6BbF6cC91C865Ae247A82E99B'
+    platform: MATIC
   - address: FLUX1wa2GmbtSB6ZGi2pTNbVCw3zEeKnaPCkPtFXxqXe
     platform: SOL
+  - address: '0xb008BDCF9CdFf9da684a190941dC3dCa8C2Cdd44'
+    platform: TBA
   - address: TWr6yzukRwZ53HDe3bzcC8RCTbiKa4Zzb6
     platform: TRX
 crypto: true

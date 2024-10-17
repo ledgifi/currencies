@@ -2,6 +2,8 @@ contracts:
   - address: '0x2760e46d9bb43dafcbecaad1f64b93207f9f0ed7'
     platform: MATIC
   - address: '0x0018D96C579121a94307249d47F053E2D687b5e7'
+    platform: SCR
+  - address: '0x0018D96C579121a94307249d47F053E2D687b5e7'
     platform: SCROLL
   - address: '0x0018D96C579121a94307249d47F053E2D687b5e7'
     platform: TBA

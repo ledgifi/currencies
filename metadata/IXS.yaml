@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: '0x1ba17c639bdaecd8dc4aac37df062d17ee43a1b8'
     platform: MATIC
+  - address: '0xFE550BfFb51EB645EA3b324D772A19AC449E92c5'
+    platform: TBA
 crypto: true
 fiat: false
 id: IXS

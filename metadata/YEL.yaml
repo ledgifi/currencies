@@ -1,12 +1,30 @@
 contracts:
+  - address: '0x949185D3BE66775Ea648F4a306740EA9eFF9C567'
+    platform: ARB
+  - address: '0x949185D3BE66775Ea648F4a306740EA9eFF9C567'
+    platform: AVAX
+  - address: '0x949185D3BE66775Ea648F4a306740EA9eFF9C567'
+    platform: BLAST
   - address: '0xd3b71117e6c1558c1553305b44988cd944e97300'
+    platform: BNB
+  - address: '0x949185D3BE66775Ea648F4a306740EA9eFF9C567'
     platform: BNB
   - address: '0x7815bDa662050D84718B988735218CFfd32f75ea'
     platform: ETH
+  - address: '0x949185D3BE66775Ea648F4a306740EA9eFF9C567'
+    platform: ETH
   - address: '0xd3b71117e6c1558c1553305b44988cd944e97300'
+    platform: FTM
+  - address: '0x949185D3BE66775Ea648F4a306740EA9eFF9C567'
     platform: FTM
   - address: '0xd3b71117e6c1558c1553305b44988cd944e97300'
     platform: MATIC
+  - address: '0x949185D3BE66775Ea648F4a306740EA9eFF9C567'
+    platform: MATIC
+  - address: '0x949185D3BE66775Ea648F4a306740EA9eFF9C567'
+    platform: OP
+  - address: '0x949185D3BE66775Ea648F4a306740EA9eFF9C567'
+    platform: TBA
 crypto: true
 fiat: false
 id: YEL

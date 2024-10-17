@@ -3,10 +3,20 @@ contracts:
     platform: ADA
   - address: '0x4D5C63c07463EFa5bb26EE0A6D8C39dd0e3DaBD9'
     platform: ADA
+  - address: e5a42a1a1d3d1da71b0449663c32798725888d2eb0843c4dabeca05a576f726c644d6f62696c65546f6b656e58
+    platform: ADA
+  - address: '0xDBB5Cf12408a3Ac17d668037Ce289f9eA75439D7'
+    platform: ARB
   - address: '0x637c2173f6e678ac3c9b43b6665c760dc6021c13'
+    platform: BNB
+  - address: '0xDBB5Cf12408a3Ac17d668037Ce289f9eA75439D7'
     platform: BNB
   - address: '0x263b6b028f3e4ed8c4329eb2b5f409ee38d97296'
     platform: ETH
+  - address: '0xDBB5Cf12408a3Ac17d668037Ce289f9eA75439D7'
+    platform: ETH
+  - address: '0x3e31966d4f81C72D2a55310A6365A56A4393E98D'
+    platform: TBA
 crypto: true
 fiat: false
 id: WMT

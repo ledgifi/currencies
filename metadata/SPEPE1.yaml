@@ -1,6 +1,8 @@
 contracts:
   - address: '0x78e24521d5782c1158bcf187987fb39576d8b4c7'
     platform: BNB
+  - address: '0xE12359D6858402d10bCBF1Bb1c75Cf8e7E25270b'
+    platform: BNB
   - address: 96fxUxwiZm9rkCdDaP2qmB73eA8FcD3wTeuczTtmkdk3
     platform: SOL
 crypto: true

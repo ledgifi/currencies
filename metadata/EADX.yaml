@@ -1,6 +1,8 @@
 contracts:
   - address: '0x29fe456e99e00d310a4dd9dbd0a26419c16bfcd5'
     platform: BNB
+  - address: '0x45a1e48daf3f6a55efbbd067380f4601300baa7a'
+    platform: MATIC
 crypto: true
 fiat: false
 id: EADX

@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x9802296cc5b76ff2fc6dd6de372f47f96bc0347a'
     platform: ETH
+  - address: 6esFN1wc1apB3QRqPeivYsFZJ96QsRSjUcy3zXqt5chN
+    platform: SOL
 crypto: true
 fiat: false
 id: KALI
