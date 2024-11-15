@@ -1,10 +1,10 @@
 contracts:
-  - address: 3B5wuUrMEi5yATD7on46hKfej3pfmd7t1RKgrsN3pump
-    platform: SOL
+  - address: '0x9cbf044bc535db4c93a9f11205a69631d9dcef26'
+    platform: ETH
 crypto: true
 fiat: false
 id: BILLY1
-id_coinmarketcap: '31914'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31914.png
+id_coinmarketcap: '25020'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25020.png
 logoKey: currencies/billy1.png
-name: Billy
+name: Billy Token
