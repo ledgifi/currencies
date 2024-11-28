@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xC4441c2BE5d8fA8126822B9929CA0b81Ea0DE38E'
+    platform: ETH
+crypto: true
+decimals: 8
+fiat: false
+id: USUAL
+id_binance: '1387'
+id_coinmarketcap: '33979'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33979.png
+logoKey: currencies/usual.png
+name: Usual

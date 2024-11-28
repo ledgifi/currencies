@@ -1,0 +1,12 @@
+contracts:
+  - address: 2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump
+    platform: SOL
+crypto: true
+decimals: 8
+fiat: false
+id: PNUT
+id_binance: '1382'
+id_coinmarketcap: '33788'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33788.png
+logoKey: currencies/pnut.png
+name: Peanut the Squirrel

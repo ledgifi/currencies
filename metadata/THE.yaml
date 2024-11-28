@@ -4,8 +4,10 @@ contracts:
   - address: '0x9d94a7ff461e83f161c8c040e78557e31d8cba72'
     platform: BNB
 crypto: true
+decimals: 8
 fiat: false
 id: THE
+id_binance: '1388'
 id_coinmarketcap: '23335'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23335.png
 logoKey: currencies/the.png

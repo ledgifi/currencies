@@ -3,8 +3,10 @@ contracts:
   - address: '0x4b74e109e8b0d03226224ef2746f8c13e4c59cd4'
     platform: BNB
 crypto: true
+decimals: 8
 fiat: false
 id: ETHOS
+id_binance: '1148'
 id_coinmarketcap: '12790'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12790.png
 logoKey: currencies/ethos.png

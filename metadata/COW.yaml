@@ -4,8 +4,10 @@ contracts:
   - address: '0x177127622c4A00F3d409B75571e12cB3c8973d3c'
     platform: GNO
 crypto: true
+decimals: 8
 fiat: false
 id: COW
+id_binance: '857'
 id_coinmarketcap: '19269'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19269.png
 logoKey: currencies/cow.png
