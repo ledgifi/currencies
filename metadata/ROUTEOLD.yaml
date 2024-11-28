@@ -1,0 +1,23 @@
+contracts:
+  - address: '0x11BbF12363dC8375b78D2719395d505f52a02F68'
+    platform: ARB
+  - address: '0xf44Ff799eA2bBFeC96f9A50498209AAc3C2b3b8b'
+    platform: AVAX
+  - address: '0xfD2700c51812753215754De9EC51Cdd42Bf725B9'
+    platform: BNB
+  - address: '0x13538f1450Ca2E1882Df650F87Eb996fF4Ffec34'
+    platform: CRO
+  - address: '0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4'
+    platform: ETH
+  - address: '0x11BbF12363dC8375b78D2719395d505f52a02F68'
+    platform: FTM
+  - address: '0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4'
+    platform: MATIC
+  - address: '0x8413041a7702603d9d991F2C4ADd29e4e8A241F8'
+    platform: OP
+crypto: true
+fiat: false
+id: ROUTEOLD
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32544.png
+logoKey: currencies/routeold.png
+name: Router Protocol (old)
