@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x83B79F74F225E8F9a29fC67CB1678e7909d7D73d'
-    platform: BNB
+  - address: DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump
+    platform: SOL
 crypto: true
 fiat: false
 id: AVA1
-id_coinmarketcap: '22733'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22733.png
+id_coinmarketcap: '34116'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34116.png
 logoKey: currencies/ava1.png
-name: Avatly
+name: AVA
