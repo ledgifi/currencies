@@ -1,10 +1,14 @@
 contracts:
-  - address: '0xcbabee0658725b5b21e1512244734a5d5c6b51d6'
-    platform: GLMR
+  - address: '0xc87b37a581ec3257b734886d9d3a581f5a9d056c'
+    platform: ARB
+  - address: '0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b'
+    platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: ATH
-id_coinmarketcap: '20483'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20483.png
+id_binance: '1386'
+id_coinmarketcap: '30083'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30083.png
 logoKey: currencies/ath.png
-name: Athos Finance
+name: Aethir
