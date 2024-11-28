@@ -1,7 +1,5 @@
 contracts:
   - address: '0xd43d8adac6a4c7d9aeece7c3151fca8f23752cf8'
-    platform: '---'
-  - address: '0xd43d8adac6a4c7d9aeece7c3151fca8f23752cf8'
     platform: BLAST
 crypto: true
 fiat: false
