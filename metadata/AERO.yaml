@@ -1,10 +1,10 @@
 contracts:
-  - address: AERO-458bbf
-    platform: EGLD
+  - address: '0x940181a94a35a4569e4529a3cdfb74e38fd98631'
+    platform: TBA
 crypto: true
 fiat: false
 id: AERO
-id_coinmarketcap: '17706'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17706.png
+id_coinmarketcap: '29270'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29270.png
 logoKey: currencies/aero.png
-name: Aerovek Aviation
+name: Aerodrome Finance
