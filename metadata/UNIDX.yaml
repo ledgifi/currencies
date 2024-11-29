@@ -32,8 +32,6 @@ contracts:
   - address: '0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1'
     platform: TBA
   - address: '0xcd29882ab7ba6b8717ad858d10930d68eafd78c3'
-    platform: TBD
-  - address: '0xcd29882ab7ba6b8717ad858d10930d68eafd78c3'
     platform: ZK
 crypto: true
 fiat: false

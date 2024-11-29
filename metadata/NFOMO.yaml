@@ -1,7 +1,5 @@
 contracts:
   - address: '0x2844ec8a0c85f8f9b4ed4f04ef71ec8594907a0a'
-    platform: TBD
-  - address: '0x2844ec8a0c85f8f9b4ed4f04ef71ec8594907a0a'
     platform: ZK
 crypto: true
 fiat: false

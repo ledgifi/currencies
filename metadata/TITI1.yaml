@@ -2,8 +2,6 @@ contracts:
   - address: '0x3bdffA70f4b4E6985eED50453c7C0D4A15dcEc52'
     platform: ETH
   - address: '0x4EBfb78C4780C304dff7de518db630b67e3F044b'
-    platform: TBD
-  - address: '0x4EBfb78C4780C304dff7de518db630b67e3F044b'
     platform: ZK
 crypto: true
 fiat: false

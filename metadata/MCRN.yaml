@@ -4,8 +4,6 @@ contracts:
   - address: '0xBA25B552C8A098AFdf276324C32C71fE28e0Ad40'
     platform: MATIC
   - address: '0xAFe4cA0Bbe6215cBdA12857e723134Bc3809F766'
-    platform: TBD
-  - address: '0xAFe4cA0Bbe6215cBdA12857e723134Bc3809F766'
     platform: ZK
 crypto: true
 fiat: false

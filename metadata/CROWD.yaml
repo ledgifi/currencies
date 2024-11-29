@@ -12,8 +12,6 @@ contracts:
   - address: '0xBeDf619c69f5C1655E58463B85A4EE67629dE409'
     platform: OP
   - address: '0x405a7426277C288E963a9B6Ab2c9E5E6C4b5f05C'
-    platform: TBD
-  - address: '0x405a7426277C288E963a9B6Ab2c9E5E6C4b5f05C'
     platform: ZK
 crypto: true
 fiat: false

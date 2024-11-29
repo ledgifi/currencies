@@ -16,8 +16,6 @@ contracts:
   - address: '0x3055913c90Fcc1A6CE9a358911721eEb942013A1'
     platform: TBA
   - address: '0x3A287a06c66f9E95a56327185cA2BDF5f031cEcD'
-    platform: TBD
-  - address: '0x3A287a06c66f9E95a56327185cA2BDF5f031cEcD'
     platform: ZK
 crypto: true
 decimals: 8
