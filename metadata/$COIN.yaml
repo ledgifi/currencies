@@ -6,4 +6,5 @@ fiat: false
 id: $COIN
 id_coinmarketcap: '7796'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7796.png
+logoKey: currencies/$coin.png
 name: COIN

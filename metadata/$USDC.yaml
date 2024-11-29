@@ -6,4 +6,5 @@ fiat: false
 id: $USDC
 id_coinmarketcap: '30819'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30819.png
+logoKey: currencies/$usdc.png
 name: Classic USDC

@@ -6,4 +6,5 @@ fiat: false
 id: $CITY
 id_coinmarketcap: '18670'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18670.png
+logoKey: currencies/$city.png
 name: SatoshiCity

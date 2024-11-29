@@ -6,4 +6,5 @@ fiat: false
 id: $BANK
 id_coinmarketcap: '25427'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25427.png
+logoKey: currencies/$bank.png
 name: Bank AI

@@ -3,4 +3,5 @@ fiat: false
 id: $STREET
 id_coinmarketcap: '16925'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16925.png
+logoKey: currencies/$street.png
 name: GameStreet
