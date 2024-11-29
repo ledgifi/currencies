@@ -1,6 +1,20 @@
 contracts:
+  - address: '0x5f018e73C185aB23647c82bD039e762813877f0e'
+    platform: AVAX
+  - address: '0x83b27De2Fca046FA63a11C7Ce7743DE33Ec58822'
+    platform: BNB
+  - address: '0x6467df17771AB26D1825bF0891b3c421D92EBC1d'
+    platform: CRO
+  - address: '0x2f1b1662A895C6Ba01a99DcAf56778E7d77e5609'
+    platform: DOGE
   - address: '0x57b59f981730c6257dF57cF6F0D98283749A9Eeb'
     platform: ETH
+  - address: '0xa6097a4DbEF3EB44c50bad6286a5ED2bc4418AA2'
+    platform: FTM
+  - address: '0xe94845Ac6782A2E71C407ABe4D5201445C26a62B'
+    platform: MATIC
+  - address: '0xe4dE4B87345815C71aa843ea4841bCdc682637bb'
+    platform: OP
 crypto: true
 fiat: false
 id: BUILD

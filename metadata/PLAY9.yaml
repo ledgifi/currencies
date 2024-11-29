@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x7404ac09adf614603d9c16a7ce85a1101f3514ba'
+    platform: ETH
   - address: '0x7404AC09aDf614603D9c16a7CE85A1101F3514ba'
     platform: TBA
 crypto: true

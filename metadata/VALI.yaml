@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xd89fb10d0ca008711B8Fb63C33F3EA055288bf95'
+    platform: AVAX
   - address: '0xb2f307fc5d7b34f22267aef01e84915a4509cf86'
     platform: BNB
+  - address: '0xd89fb10d0ca008711B8Fb63C33F3EA055288bf95'
+    platform: MATIC
 crypto: true
 fiat: false
 id: VALI

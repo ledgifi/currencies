@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x180cFBE9843d79BcAFcbcDF23590247793DFc95B'
+    platform: BNB
   - address: '0x948c70Dc6169Bfb10028FdBE96cbC72E9562b2Ac'
     platform: ETH
+  - address: '0x180cFBE9843d79BcAFcbcDF23590247793DFc95B'
+    platform: MATIC
 crypto: true
 fiat: false
 id: XP2

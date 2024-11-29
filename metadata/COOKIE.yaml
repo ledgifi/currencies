@@ -1,6 +1,10 @@
 contracts:
   - address: '0xc0041ef357b183448b235a8ea73ce4e4ec8c265f'
     platform: BNB
+  - address: '0xc0041ef357b183448b235a8ea73ce4e4ec8c265f'
+    platform: ETH
+  - address: '0xc0041ef357b183448b235a8ea73ce4e4ec8c265f'
+    platform: TBA
 crypto: true
 fiat: false
 id: COOKIE

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xe5a733681bbe6cd8c764bb8078ef8e13a576dd78'
     platform: ETH
+  - address: Gnca3UkjR4a1FFNZuGfEELmbaHkL6GteSC2swpdWRmf7
+    platform: SOL
 crypto: true
 fiat: false
 id: DPAY

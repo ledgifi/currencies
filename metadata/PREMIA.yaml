@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x51fc0f6660482ea73330e414efd7808811a57fa2'
+    platform: ARB
   - address: '0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70'
     platform: ETH
 crypto: true

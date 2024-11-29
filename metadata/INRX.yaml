@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x4B3F37ED3FB1e60492C909F2746488778fA3A90b'
+    platform: BNB
   - address: '0xc71daC923823D748a86D0A3618ABdA2d6dCd6bf4'
     platform: ETH
+  - address: '0x4B3F37ED3FB1e60492C909F2746488778fA3A90b'
+    platform: MATIC
 crypto: true
 fiat: false
 id: INRX

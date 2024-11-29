@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x590eb2920486486c2D9Bb3EB651f73b81df87bcf'
+    platform: AVAX
+  - address: '0xCE6bD1833BD077f62B2c1F9a777bB829801d6811'
+    platform: BNB
   - address: '0xe803178b48A0e560C2b19F3b3d4e504f79D229ce'
     platform: ETH
+  - address: '0x590eb2920486486c2D9Bb3EB651f73b81df87bcf'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BOBC

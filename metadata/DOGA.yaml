@@ -1,6 +1,12 @@
 contracts:
   - address: '0x4dbe83285fc959011f65dc613aeea638f18d3b92'
     platform: ETH
+  - address: '0x2f3e306d9f02ee8e8850f9040404918d0b345207'
+    platform: MATIC
+  - address: 9o8MnTiZs8i7ahF4MVVW6yEgDso6ksCVXZg4BdcWo8hg
+    platform: SOL
+  - address: KT1Ha4yFVeyzw6KRAdkzq6TxDHB97KG4pZe8
+    platform: XTZ
 crypto: true
 fiat: false
 id: DOGA

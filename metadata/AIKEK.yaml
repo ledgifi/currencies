@@ -1,6 +1,10 @@
 contracts:
   - address: '0x8dce83eca4af45dbe618da1779f9aaca43201084'
     platform: ETH
+  - address: CotWkXoBD3edLb6opEGHV9tb3pyKmeoWBLwdMJ8ZDimW
+    platform: SOL
+  - address: '0x681a09a902d9c7445b3b1ab282c38d60c72f1f09'
+    platform: TBA
 crypto: true
 fiat: false
 id: AIKEK

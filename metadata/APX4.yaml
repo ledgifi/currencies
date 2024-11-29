@@ -1,6 +1,10 @@
 contracts:
   - address: '0xed4e879087ebD0e8A77d66870012B5e0dffd0Fa4'
     platform: ETH
+  - address: 8GQa5N9HJT5tW6vg3umYG5us1xHmiU948LfDihg2f8Vf
+    platform: SOL
+  - address: '0xcacf1ca03983CE6c7E235fb20C70aCC70ed13509'
+    platform: TBA
 crypto: true
 fiat: false
 id: APX4

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x32561fa6d2d3e2191bf50f813df2c34fb3c89b62'
     platform: BNB
+  - address: '0x32561fa6d2d3e2191bf50f813df2c34fb3c89b62'
+    platform: VLX
 crypto: true
 fiat: false
 id: VERVE

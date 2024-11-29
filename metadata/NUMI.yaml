@@ -1,6 +1,8 @@
 contracts:
   - address: '0xf0a87B50b721473C6390df396fAF3afbcD6ce02F'
     platform: BNB
+  - address: '0x6718e47e74497d1564EE76d832309144b83Ef8E8'
+    platform: BRISE
 crypto: true
 fiat: false
 id: NUMI

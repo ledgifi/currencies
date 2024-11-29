@@ -1,3 +1,10 @@
+contracts:
+  - address: '0xccbf1c9e8b4f2cdf3bfba1098b8f56f97d219d53'
+    platform: BNB
+  - address: '0xccbf1c9e8b4f2cdf3bfba1098b8f56f97d219d53'
+    platform: ETC
+  - address: '0xccbf1c9e8b4f2cdf3bfba1098b8f56f97d219d53'
+    platform: ETH
 crypto: true
 fiat: false
 id: CLO

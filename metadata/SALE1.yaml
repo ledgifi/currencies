@@ -1,6 +1,12 @@
 contracts:
   - address: '0xfa9802a073497533b9bad00c85d091030d68c7a0'
     platform: AVAX
+  - address: '0xfa9802a073497533b9bad00c85d091030d68c7a0'
+    platform: BNB
+  - address: '0xfa9802a073497533b9bad00c85d091030d68c7a0'
+    platform: FTM
+  - address: '0xfa9802a073497533b9bad00c85d091030d68c7a0'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SALE1

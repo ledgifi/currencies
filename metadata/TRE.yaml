@@ -1,6 +1,8 @@
 contracts:
   - address: '0x060399058ecd346d721AFc9FA93875E2c79cE97d'
     platform: BNB
+  - address: '0x060399058ecd346d721AFc9FA93875E2c79cE97d'
+    platform: HT
 crypto: true
 fiat: false
 id: TRE

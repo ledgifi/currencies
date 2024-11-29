@@ -1,6 +1,8 @@
 contracts:
   - address: '0x9aFa9999e45484Adf5d8EED8D9Dfe0693BACd838'
     platform: ETH
+  - address: '0x717d31A60a9e811469673429c9F8Ea24358990f1'
+    platform: TBA
 crypto: true
 fiat: false
 id: EVERY

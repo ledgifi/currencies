@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x73afc23510b40dcbeabc25ffbc8c2976ed9f950c'
+    platform: BNB
   - address: '0x3f95e5099cf3a125145212afd53039b8d8c5656e'
     platform: ETH
+  - address: '0x04b33078Ea1aEf29bf3fB29c6aB7B200C58ea126'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SAFLE

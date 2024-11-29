@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xab05b04743e0aeaf9d2ca81e5d3b8385e4bf961e'
+    platform: AVAX
+  - address: '0xDE7d1CE109236b12809C45b23D22f30DbA0eF424'
+    platform: BNB
   - address: '0x45fDb1b92a649fb6A64Ef1511D3Ba5Bf60044838'
     platform: ETH
+  - address: '0x2f1b1662a895c6ba01a99dcaf56778e7d77e5609'
+    platform: MATIC
 crypto: true
 fiat: false
 id: USDS4

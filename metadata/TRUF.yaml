@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xB59c8912c83157a955f9D715E556257F432C35D7'
+    platform: ARB
   - address: '0x243c9be13fAbA09F945ccc565547293337Da0Ad7'
     platform: ETH
+  - address: '0xB59c8912c83157a955f9D715E556257F432C35D7'
+    platform: TBA
 crypto: true
 fiat: false
 id: TRUF

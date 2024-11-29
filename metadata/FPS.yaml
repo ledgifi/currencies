@@ -1,6 +1,8 @@
 contracts:
   - address: '0x351dA1E7500aBA1d168b9435DCE73415718d212F'
     platform: BNB
+  - address: zil1j2wrzjljwyjelspmtr63vfl34c467ype2w3mjl
+    platform: ZIL
 crypto: true
 fiat: false
 id: FPS

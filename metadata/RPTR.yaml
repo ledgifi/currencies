@@ -1,3 +1,16 @@
+contracts:
+  - address: 0xa99ff1f7e6ef80511b1c54c389e191917869a21c4845e5c3f4d22ee4a2523d6a::coin::T
+    platform: APT
+  - address: '0x44c99ca267c2b2646ceec72e898273085ab87ca5'
+    platform: BNB
+  - address: '0x50956f965F321c1DE62d2E103620881597d76809'
+    platform: FTM
+  - address: '0x94f405fb408ad743418d10f4926cb9cdb53b2ef7'
+    platform: MATIC
+  - address: HrnLUSkLkKN2KHBMQ8soLgXnhjifaRFDYzaQvTPg6zem
+    platform: SOL
+  - address: 0xb467ac1b3eb2f3f85b81c2008bf9ba5628d6b3a1c438755a83276406fad15975::coin::COIN
+    platform: SUI
 crypto: true
 fiat: false
 id: RPTR

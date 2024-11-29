@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x94a8b4EE5CD64C79D0Ee816f467EA73009f51aA0'
+    platform: BNB
   - address: '0xf21661d0d1d76d3ecb8e1b9f1c923dbfffae4097'
     platform: ETH
+  - address: '0x94a8b4EE5CD64C79D0Ee816f467EA73009f51aA0'
+    platform: ETH
+  - address: ibc/1CDF9C7D073DD59ED06F15DB08CC0901F2A24759BE70463570E8896F9A444ADF
+    platform: OSMO
 crypto: true
 fiat: false
 id: RIO

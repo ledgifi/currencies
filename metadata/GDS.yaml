@@ -1,6 +1,8 @@
 contracts:
   - address: '0x216A2C74fF51538D9Ae1beE4958b29C2D778cD21'
     platform: BNB
+  - address: '0x59a63E3bc9bC1CE9Abfd7b928D13d02d98b818d6'
+    platform: ETH
 crypto: true
 fiat: false
 id: GDS

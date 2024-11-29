@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xAC57De9C1A09FeC648E93EB98875B212DB0d460B'
     platform: ETH
+  - address: 7dUKUopcNWW6CcU4eRxCHh1uiMh32zDrmGf6ufqhxann
+    platform: SOL
 crypto: true
 fiat: false
 id: BABYDOGE

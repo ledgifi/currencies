@@ -1,6 +1,10 @@
 contracts:
   - address: '0x33840024177a7daca3468912363bed8b425015c5'
+    platform: BNB
+  - address: '0x33840024177a7daca3468912363bed8b425015c5'
     platform: ETH
+  - address: '0xb41c43fabd22a6c6ea135e975769e9051f9ee8ad'
+    platform: MATIC
 crypto: true
 fiat: false
 id: EBOX

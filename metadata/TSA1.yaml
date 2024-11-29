@@ -1,6 +1,10 @@
 contracts:
   - address: '0x5f99acf13caff815dd9cb4a415c0fb34e9f4545b'
     platform: BNB
+  - address: '0x703d8574e19428d662a73c301d106dc236aa9bfc'
+    platform: ETH
+  - address: '0x5f99acf13caff815dd9cb4a415c0fb34e9f4545b'
+    platform: MATIC
 crypto: true
 fiat: false
 id: TSA1

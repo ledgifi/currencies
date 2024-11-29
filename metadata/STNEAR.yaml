@@ -1,6 +1,8 @@
 contracts:
   - address: '0x07f9f7f963c5cd2bbffd30ccfb964be114332e30'
     platform: AURORA
+  - address: meta-pool.near
+    platform: NEAR
 crypto: true
 fiat: false
 id: STNEAR

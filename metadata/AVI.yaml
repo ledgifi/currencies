@@ -1,6 +1,8 @@
 contracts:
   - address: '0xd2bdaaf2b9cc6981fd273dcb7c04023bfbe0a7fe'
     platform: ETH
+  - address: '0x3203856eaC03d343f9d5245BA2F39861838A7B36'
+    platform: TBA
 crypto: true
 fiat: false
 id: AVI

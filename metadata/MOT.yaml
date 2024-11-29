@@ -1,6 +1,8 @@
 contracts:
   - address: '0x1E02cdbbA6729B6470de81Ad4D2cCA4c514521b9'
     platform: ETH
+  - address: '0x2db0Db271a10661e7090b6758350E18F6798a49D'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MOT

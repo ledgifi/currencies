@@ -1,6 +1,14 @@
 contracts:
   - address: '0xcca3E26Be51b8905f1A01872524f17eb55Bd02fb'
+    platform: AVAX
+  - address: '0xcca3E26Be51b8905f1A01872524f17eb55Bd02fb'
+    platform: BNB
+  - address: '0xcca3E26Be51b8905f1A01872524f17eb55Bd02fb'
     platform: ETH
+  - address: '0xcca3E26Be51b8905f1A01872524f17eb55Bd02fb'
+    platform: FTM
+  - address: '0xcca3E26Be51b8905f1A01872524f17eb55Bd02fb'
+    platform: MATIC
 crypto: true
 fiat: false
 id: PARA3

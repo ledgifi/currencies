@@ -1,6 +1,8 @@
 contracts:
   - address: '0x623cD3a3EdF080057892aaF8D773Bbb7A5C9b6e9'
     platform: ETH
+  - address: '0x623cD3a3EdF080057892aaF8D773Bbb7A5C9b6e9'
+    platform: TBA
 crypto: true
 fiat: false
 id: SKYA

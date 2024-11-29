@@ -1,6 +1,24 @@
 contracts:
+  - address: '0x75C5f6D32d8Ef3a4f0F43F7792Aa08e8678972F9'
+    platform: ARB
+  - address: '0xd37e9a2b997f4d6b4fd72c75e5f4573898a18df7'
+    platform: ASTR
+  - address: '0xb355f4f4cc84a9429a59d5c2b98d77016f7ec482'
+    platform: AVAX
+  - address: '0x55d6043859dbe45e0a2571ea64b3855062fd86d8'
+    platform: BNB
+  - address: '0xE9dC987b939A7B33270e56532297Cf82716c79A3'
+    platform: CELO
   - address: '0xe57425f1598f9b0d6219706b77f4b3da573a3695'
     platform: ETH
+  - address: '0x75C5f6D32d8Ef3a4f0F43F7792Aa08e8678972F9'
+    platform: KAVA
+  - address: '0xb355f4f4cc84a9429a59d5c2b98d77016f7ec482'
+    platform: MATIC
+  - address: '0x75C5f6D32d8Ef3a4f0F43F7792Aa08e8678972F9'
+    platform: OP
+  - address: '0x6d88557269a7f72863f6b436ef8be215f73dc6c1'
+    platform: TBA
 crypto: true
 fiat: false
 id: BTCBR

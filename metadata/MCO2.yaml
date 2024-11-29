@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x32A9FE697a32135BFd313a6Ac28792DaE4D9979d'
+    platform: CELO
   - address: '0xfc98e825a2264d890f9a1e68ed50e1526abccacd'
     platform: ETH
+  - address: '0xaa7dbd1598251f856c12f63557a4c4397c253cea'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MCO2

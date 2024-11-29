@@ -1,6 +1,8 @@
 contracts:
   - address: '0xa0cf46eb152656c7090e769916eb44a138aaa406'
     platform: ETH
+  - address: '0x2c9d233914f46b88e9ae08326fa60e40ea3faa12'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SPH

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xf74941046389c78f12fe44784c0ec9ca7ceb7dc2'
     platform: ETH
+  - address: '0x955ce23f20217a6aa205620b40ede4c9e83d325f'
+    platform: MATIC
 crypto: true
 fiat: false
 id: DMR

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x1DD6b5F9281c6B4f043c02A83a46c2772024636c'
     platform: ARB
+  - address: '0x18d2bdef572c67127e218c425f546fe64430a92c'
+    platform: RON
 crypto: true
 fiat: false
 id: LUAUSD

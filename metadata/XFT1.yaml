@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xe138c66982fd5c890c60b94fdba1747faf092c20'
+    platform: BNB
   - address: '0xabe580e7ee158da464b51ee1a83ac0289622e6be'
     platform: ETH
+  - address: '0x6b35140fcc6e502a7e1edac6e740513f41c4b5ec'
+    platform: MOVR
 crypto: true
 fiat: false
 id: XFT1

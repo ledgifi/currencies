@@ -1,6 +1,8 @@
 contracts:
   - address: '0xF2F7CE610a091B94d41D69f4fF1129434a82E2f0'
     platform: AVAX
+  - address: '0xcaf23964ca8db16d816eb314a56789f58fe0e10e'
+    platform: BNB
 crypto: true
 fiat: false
 id: GG2

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xcda8b42bc44aea65f8141d103633721df32c8a85'
     platform: BNB
+  - address: '0x8DCB5a827E3774A1a64B15d5509F628dC6cA9FDD'
+    platform: ETH
 crypto: true
 fiat: false
 id: $SHINJI

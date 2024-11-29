@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x3b58a4C865B568a2F6a957C264F6b50CbA35D8CE'
+    platform: ARB
   - address: '0x84F8C3C8d6eE30a559D73Ec570d574f671E82647'
     platform: KAIA
 crypto: true

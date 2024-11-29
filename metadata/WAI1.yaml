@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x129ed667bf8C065fE5f66c9b44B7cB0126D85cC3'
+    platform: BLAST
   - address: '0x23471e7250bcd7ee21df3f39ed6151931d1e076b'
     platform: TBA
 crypto: true

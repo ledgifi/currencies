@@ -1,5 +1,7 @@
 contracts:
   - address: '0x4455eF8B4B4A007a93DaA12DE63a47EEAC700D9D'
+    platform: ETH
+  - address: '0x4455eF8B4B4A007a93DaA12DE63a47EEAC700D9D'
     platform: MATIC
 crypto: true
 fiat: false

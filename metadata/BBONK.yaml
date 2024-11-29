@@ -1,6 +1,8 @@
 contracts:
   - address: '0xbbBBBBe1da5EAB142B32f8887EE8d3872D847c20'
     platform: BNB
+  - address: '0xbbBBBBe1da5EAB142B32f8887EE8d3872D847c20'
+    platform: ETH
 crypto: true
 fiat: false
 id: BBONK

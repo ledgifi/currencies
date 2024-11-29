@@ -1,6 +1,24 @@
 contracts:
+  - address: '0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34'
+    platform: ARB
+  - address: '0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34'
+    platform: BNB
   - address: '0x4c9edd5852cd905f086c759e8383e09bff1e68b3'
     platform: ETH
+  - address: '0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34'
+    platform: KAVA
+  - address: '0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34'
+    platform: MANTA
+  - address: '0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34'
+    platform: METIS
+  - address: '0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34'
+    platform: MNT
+  - address: '0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34'
+    platform: OP
+  - address: '0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34'
+    platform: SCR
+  - address: '0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34'
+    platform: TBA
 crypto: true
 fiat: false
 id: USDE

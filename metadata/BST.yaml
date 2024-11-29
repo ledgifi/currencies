@@ -1,6 +1,8 @@
 contracts:
   - address: '0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a'
     platform: ETH
+  - address: 509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a.factory.bridge.near
+    platform: NEAR
 crypto: true
 fiat: false
 id: BST

@@ -1,6 +1,10 @@
 contracts:
   - address: '0xD3C68968137317a57a9bAbeacC7707Ec433548B4'
+    platform: CYBER
+  - address: '0xD3C68968137317a57a9bAbeacC7707Ec433548B4'
     platform: ETH
+  - address: '0xD3C68968137317a57a9bAbeacC7707Ec433548B4'
+    platform: TBA
 crypto: true
 fiat: false
 id: SOCIAL

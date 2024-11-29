@@ -1,6 +1,8 @@
 contracts:
   - address: '0x8530b66ca3ddf50e0447eae8ad7ea7d5e62762ed'
     platform: BNB
+  - address: '0x8530b66ca3ddf50e0447eae8ad7ea7d5e62762ed'
+    platform: ETH
 crypto: true
 fiat: false
 id: METADOGE

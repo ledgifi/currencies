@@ -1,6 +1,10 @@
 contracts:
   - address: fef62c356a35a92ac893529d9d1a0cc53740b5c0d2987fb9671482ad4144414c
     platform: ADA
+  - address: '0xAE1107fC7CeF1294F09185aC475c9886527DcD8a'
+    platform: BNB
+  - address: '0xAE1107fC7CeF1294F09185aC475c9886527DcD8a'
+    platform: ETH
 crypto: true
 fiat: false
 id: ADAL

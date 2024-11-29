@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xAC0F66379A6d7801D7726d5a943356A172549Adb'
+    platform: MATIC
   - address: 7JA5eZdCzztSfQbJvS8aVVxMFfd81Rs9VvwnocV1mKHu
     platform: SOL
 crypto: true

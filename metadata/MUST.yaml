@@ -1,6 +1,8 @@
 contracts:
   - address: '0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f'
     platform: ETH
+  - address: '0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MUST

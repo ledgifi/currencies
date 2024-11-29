@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xa4b6573c9ae09d81e4d1360e6402b81f52557098'
+    platform: BNB
   - address: '0x9C2dc0c3CC2BADdE84B0025Cf4df1c5aF288D835'
     platform: ETH
+  - address: '0x4fdCE518fE527439Fe76883e6b51A1c522B61b7C'
+    platform: MATIC
+  - address: 9c2dc0c3cc2badde84b0025cf4df1c5af288d835.factory.bridge.near
+    platform: NEAR
 crypto: true
 fiat: false
 id: COR

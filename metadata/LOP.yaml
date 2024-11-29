@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x20B4620a767D6dCcBB9314104D5Cf0d08d1F7045'
+    platform: BNB
   - address: '0x09e6e20ff399c2134c14232e172ce8ba2b03017e'
     platform: ONE
 crypto: true

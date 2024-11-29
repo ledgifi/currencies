@@ -1,6 +1,8 @@
 contracts:
   - address: '0x6556153450c85ce348b2c26022566cbeb1a95f8f'
     platform: BNB
+  - address: '0x16623a42B2018dAb973B275F084D7ccE8C9efB22'
+    platform: DOGE
 crypto: true
 fiat: false
 id: DSOLAR

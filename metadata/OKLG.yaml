@@ -1,6 +1,8 @@
 contracts:
   - address: '0x55e8b37a3c43b049dedf56c77f462db095108651'
     platform: BNB
+  - address: '0x5dbb9f64cd96e2dbbca58d14863d615b67b42f2e'
+    platform: ETH
 crypto: true
 fiat: false
 id: OKLG

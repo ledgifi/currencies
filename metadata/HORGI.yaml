@@ -1,6 +1,8 @@
 contracts:
   - address: '0x4f5c381861333097afa97e98a8d6dc0eb0d69ec4'
     platform: BNB
+  - address: '0xa3089f1462426398eb586E07700ae08Aba7324C4'
+    platform: CRO
 crypto: true
 fiat: false
 id: HORGI

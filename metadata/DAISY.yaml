@@ -1,6 +1,8 @@
 contracts:
   - address: '0x40955d77f87123b71b145098358a60573ac7be96'
     platform: ETH
+  - address: TPrDk8WfuMheRFiC3Q5FsmCq74GuQXGcdL
+    platform: TRX
 crypto: true
 fiat: false
 id: DAISY

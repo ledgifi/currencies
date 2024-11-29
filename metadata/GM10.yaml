@@ -1,6 +1,16 @@
 contracts:
+  - address: '0x99aeecf3717ec6b369d847e3d62d14e14251e4d4'
+    platform: AVAX
+  - address: '0xbba0f2f541809a85c18dd0106080076a0ba21b2b'
+    platform: BNB
   - address: '0x203Aad20F51bBE43E650d3ceea88d43Dd6C817c1'
     platform: ETH
+  - address: '0xffcd553464a00d7b30a48960611e5032f544700a'
+    platform: MATIC
+  - address: '0x9b049f1283515eef1d3f6ac610e1595ed25ca3e9'
+    platform: NEO
+  - address: '0x55F02AcD0ba21AFaC507c8C79cF5Bc25A92A6754'
+    platform: TBA
 crypto: true
 fiat: false
 id: GM10

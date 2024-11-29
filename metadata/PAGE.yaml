@@ -1,6 +1,8 @@
 contracts:
   - address: '0x60e683c6514edd5f758a55b6f393bebbafaa8d5e'
     platform: ETH
+  - address: ibc/23A62409E4AD8133116C249B1FA38EED30E500A115D7B153109462CD82C1CD99
+    platform: OSMO
 crypto: true
 fiat: false
 id: PAGE

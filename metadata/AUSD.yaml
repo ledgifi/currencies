@@ -1,6 +1,12 @@
 contracts:
   - address: '0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a'
+    platform: AVAX
+  - address: '0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a'
     platform: ETH
+  - address: '0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a'
+    platform: MNT
+  - address: 0x2053d08c1e2bd02791056171aab0fd12bd7cd7efad2ab8f6b9c8902f14df2ff2::ausd::AUSD
+    platform: SUI
 crypto: true
 fiat: false
 id: AUSD

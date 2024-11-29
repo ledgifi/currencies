@@ -1,3 +1,8 @@
+contracts:
+  - address: LOKI-6A9
+    platform: BNB
+  - address: '0xd1e2d5085b39b80c9948aeb1b9aa83af6756bcc5'
+    platform: ETH
 crypto: true
 fiat: false
 id: OXEN

@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xbc6378faae98fb2207bb6c35c0f8ce5846fd4c6c'
+    platform: BNB
   - address: '0xbc6378FAae98Fb2207Bb6c35c0f8Ce5846FD4C6c'
     platform: ETH
+  - address: GPs2XbyDcqobdupeXpKaB2ECwgkF5ev4x8GsSr9EMRRp
+    platform: SOL
 crypto: true
 fiat: false
 id: W8BIT

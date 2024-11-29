@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x48b847cf774a5710f36f594b11fc10e2e59bba72'
+    platform: ETH
   - address: GjwAHMjqWzYR4LgoNy91CxUKAGJN79h2hseZoae4nU8t
     platform: WAVES
 crypto: true

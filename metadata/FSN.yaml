@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x9AfC975EdB8a0B57f066e8e0A72A5e2ADbdCb605'
+    platform: ETH
+  - address: '0x2b8bb627ce7c0c9cbe579e83099de665032d08be'
+    platform: FSN
 crypto: true
 fiat: false
 id: FSN

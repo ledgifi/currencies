@@ -1,6 +1,8 @@
 contracts:
   - address: '0x770f030fdbf63ebf1c939de8bcff8943c2c2d454'
     platform: BNB
+  - address: '0x770f030fdbf63ebf1c939de8bcff8943c2c2d454'
+    platform: OKT
 crypto: true
 fiat: false
 id: FB5

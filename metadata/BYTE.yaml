@@ -1,6 +1,14 @@
 contracts:
+  - address: '0x847503FbF003cE8B005546Aa3c03B80b7C2F9771'
+    platform: ARB
+  - address: '0x840eF7e5f896Be71D46Df234C60898216feFCBe3'
+    platform: BNB
   - address: '0xdE342A3E269056fc3305f9e315F4C40D917BA521'
     platform: ETH
+  - address: ArGfk9JJ72QETcmckxVjCZ9ApuATgP1mf9ysVHnPU4ut
+    platform: SOL
+  - address: '0xe095780ba2a64a4efa7a74830f0b71656f0b0ad4'
+    platform: TBA
 crypto: true
 fiat: false
 id: BYTE

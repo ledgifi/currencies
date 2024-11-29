@@ -1,6 +1,18 @@
 contracts:
+  - address: '0xB962150760F9A3bB00e3E9Cf48297EE20AdA4A33'
+    platform: ARB
+  - address: '0xB962150760F9A3bB00e3E9Cf48297EE20AdA4A33'
+    platform: BNB
   - address: '0x0D505C03d30e65f6e9b4Ef88855a47a89e4b7676'
     platform: ETH
+  - address: '0xb2588731d8f6f854037936d6ffac4c13d0b6bd62'
+    platform: MATIC
+  - address: '0xB962150760F9A3bB00e3E9Cf48297EE20AdA4A33'
+    platform: OP
+  - address: nBZEcHSG771mRbi4y2sSgKjfDUH8jsM2Eo5fNcASLeU
+    platform: SOL
+  - address: '0xD1dB4851bcF5B41442cAA32025Ce0Afe6B8EabC2'
+    platform: TBA
 crypto: true
 fiat: false
 id: ZOOMER

@@ -1,6 +1,10 @@
 contracts:
   - address: '0x0356ed6caec19d3f353821480ca44bf7db6d713d'
+    platform: AVAX
+  - address: '0x0356ed6caec19d3f353821480ca44bf7db6d713d'
     platform: BNB
+  - address: '0x0356ed6caec19d3f353821480ca44bf7db6d713d'
+    platform: FTM
 crypto: true
 fiat: false
 id: ANYP

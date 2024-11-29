@@ -1,6 +1,8 @@
 contracts:
   - address: '0x9725D36Fd0f9e8C1cD437aD28Eb22E7a1a6D3952'
     platform: BNB
+  - address: '0xa1ea6056bebea1959ca739b98c39d5fef7126f59'
+    platform: ETH
 crypto: true
 fiat: false
 id: NOMNOM1

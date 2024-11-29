@@ -1,6 +1,8 @@
 contracts:
   - address: '0x80008BCD713c38AF90a9930288D446bc3bD2E684'
     platform: ETH
+  - address: 0.0.2283230
+    platform: HBAR
 crypto: true
 fiat: false
 id: KARATE

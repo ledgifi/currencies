@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7b665B2F633d9363b89A98b094B1F9E732Bd8F86'
     platform: BNB
+  - address: 0:b257ccdf3d13f586003d639b8dd7739e2e093985ac056346e1e72478984d7368
+    platform: EVER
 crypto: true
 fiat: false
 id: AZY

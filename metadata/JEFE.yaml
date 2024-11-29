@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xA807Cb4bdF8509D4565169880b79cdcEFe662Ac4'
+    platform: BNB
   - address: '0x9fd22a17b4a96da3f83797d122172c450381fb88'
     platform: ETH
+  - address: '0x5079CCe47d275E85C9f13afB656d51e3F9D41181'
+    platform: FTM
+  - address: '0x9fd22a17b4a96da3f83797d122172c450381fb88'
+    platform: OP
 crypto: true
 fiat: false
 id: JEFE

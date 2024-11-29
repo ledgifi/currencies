@@ -1,6 +1,14 @@
 contracts:
   - address: '0x94a7f270cd12545a277e656266aef5e27df3eb28'
+    platform: AVAX
+  - address: '0xc598275452fa319d75ee5f176fd3b8384925b425'
+    platform: BNB
+  - address: '0x94a7f270cd12545a277e656266aef5e27df3eb28'
     platform: ETH
+  - address: '0x94a7f270cd12545a277e656266aef5e27df3eb28'
+    platform: FTM
+  - address: '0xe7879bafa6a41f919f145a97207e54839d34c9ba'
+    platform: MATIC
 crypto: true
 fiat: false
 id: STRM

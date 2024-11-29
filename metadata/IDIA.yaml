@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xfCAF13227dcBFa2dc2b1928acFcA03b85e2D25dd'
+    platform: AVAX
+  - address: '0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89'
+    platform: BNB
   - address: '0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89'
     platform: ETH
+  - address: '0x2d28AA28fA1E5e6bF121CF688309Bf3faAAe3C70'
+    platform: MOVR
 crypto: true
 fiat: false
 id: IDIA

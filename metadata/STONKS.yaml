@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7d4a23832fad83258b32ce4fd3109ceef4332af4'
     platform: ETH
+  - address: 8P6WDZ59qwMrTgXWaxFN5J19dGwvY2XEavCyRdA25PNm
+    platform: SOL
 crypto: true
 fiat: false
 id: STONKS

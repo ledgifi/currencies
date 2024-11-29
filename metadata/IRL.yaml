@@ -1,6 +1,10 @@
 contracts:
   - address: '0xa80221d067603e30060f75e2458aa361f8ee5402'
+    platform: BNB
+  - address: '0xa80221d067603e30060f75e2458aa361f8ee5402'
     platform: ETH
+  - address: HEmgGwgn6naqNatkU9ST2wHa4X9HRMmxE7qE8vWuV7L2
+    platform: SOL
 crypto: true
 fiat: false
 id: IRL

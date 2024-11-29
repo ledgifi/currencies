@@ -1,6 +1,8 @@
 contracts:
   - address: '0xEdb0414627E6f1e3F082DE65cD4F9C693D78CCA9'
     platform: ETH
+  - address: terra1cc3enj9qgchlrj34cnzhwuclc4vl2z3jl7tkqg
+    platform: LUNC
 crypto: true
 fiat: false
 id: MTWTR

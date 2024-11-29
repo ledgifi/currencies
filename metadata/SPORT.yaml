@@ -1,4 +1,8 @@
 contracts:
+  - address: '0x5E54301415546401626036a10f85F9f06DE8dFfd'
+    platform: BNB
+  - address: '0x96b14E64b53B9950d2a4D2292f8dc7d51a4f467A'
+    platform: ETH
   - address: '0x503836c8c3A453c57f58CC99B070F2E78Ec14fC0'
     platform: MATIC
 crypto: true

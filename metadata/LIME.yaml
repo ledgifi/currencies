@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7bc75e291e656e8658d66be1cc8154a3769a35dd'
     platform: BNB
+  - address: '0x7f67639ffc8c93dd558d452b8920b28815638c44'
+    platform: MATIC
 crypto: true
 fiat: false
 id: LIME

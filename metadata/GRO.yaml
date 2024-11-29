@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x72699ba15CC734F8db874fa9652c8DE12093F187'
+    platform: AVAX
   - address: '0x336eD56D8615271b38EcEE6F4786B55d0EE91b96'
     platform: BNB
+  - address: '0x91f1430833879272643658f8ed07d60257ddf321'
+    platform: FTM
 crypto: true
 fiat: false
 id: GRO

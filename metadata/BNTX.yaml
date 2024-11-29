@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x0eC04ECe89609E545b8768E303986421FFc32eaF'
+    platform: BNB
   - address: '0x86d1d12523B65203851c571FcC029bF90903fB6d'
     platform: ETH
+  - address: TShRHNNhJCfi8th3uyUMzeASPXAuFaiLVE
+    platform: TRX
 crypto: true
 fiat: false
 id: BNTX

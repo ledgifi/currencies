@@ -1,6 +1,8 @@
 contracts:
   - address: '0x130025ee738a66e691e6a7a62381cb33c6d9ae83'
     platform: BNB
+  - address: '0x78de9326792ce1d6eca0c978753c6953cdeedd73'
+    platform: FTM
 crypto: true
 fiat: false
 id: JUMP1

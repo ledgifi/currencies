@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x4f161eB257Cd81A73E4EF2F9BC8140853Ef8ce9E'
+    platform: BNB
   - address: '0x34ac7e32ff0e580893aeb0743a1e798baa52d469'
     platform: ETH
+  - address: HYrfJk22CuVFJKF6pFw6knS6jcNdYGYbCjrgEDued97P
+    platform: SOL
+  - address: GAzAEjApmjMYZKPzri2g2VUXNvTiQGF7KDYZFFsP3AEq
+    platform: WAVES
 crypto: true
 fiat: false
 id: PETE

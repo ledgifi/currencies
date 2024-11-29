@@ -1,6 +1,8 @@
 contracts:
   - address: '0x63f7b1b538a78cb699e5399621b3d2e047c40de4'
     platform: ETH
+  - address: '0x495d21186D4Ef81a9D3288cb551d55685e3bC290'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MAX2

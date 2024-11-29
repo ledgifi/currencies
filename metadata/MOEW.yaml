@@ -1,6 +1,10 @@
 contracts:
+  - address: C6Q5fMpuPjBPox84wbcE3Rn8HYJg11o4YHEmbQSuYs5L
+    platform: SOL
   - address: '0x15aC90165f8B45A80534228BdCB124A011F62Fee'
     platform: TBA
+  - address: EQAWsIGMoGlbjJJIsik-9_6A4Iiodb1M7LW3kmu05v8ujo9h
+    platform: TON
 crypto: true
 fiat: false
 id: MOEW

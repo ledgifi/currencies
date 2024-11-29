@@ -1,6 +1,8 @@
 contracts:
   - address: '0x837656c3f5858692cCdce13BA66e09d2685073df'
     platform: BNB
+  - address: '0x03a50F17016d6f66D15F3ff91E76dc14E2b5bEAb'
+    platform: BNB
 crypto: true
 fiat: false
 id: TOX

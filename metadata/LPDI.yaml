@@ -1,6 +1,8 @@
 contracts:
   - address: '0x20b1290DEdb94328705b21986485A447C63B8506'
     platform: BNB
+  - address: '0x32a6bD9800276be19050bd97459A7a36B26bD899'
+    platform: KAI
 crypto: true
 fiat: false
 id: LPDI

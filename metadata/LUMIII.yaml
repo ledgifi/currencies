@@ -1,6 +1,8 @@
 contracts:
   - address: '0xED88227296943857409A8e0f15Ad7134e70D0F73'
     platform: MATIC
+  - address: '0xc9B6E036e94A316e4A9ea96F7D7FD8D632F66e7A'
+    platform: OKT
 crypto: true
 fiat: false
 id: LUMIII

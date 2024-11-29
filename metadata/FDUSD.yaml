@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409'
     platform: ETH
+  - address: 9zNQRsGLjNKwCUU5Gq5LR8beUCPzQMVMqKAi3SSZh54u
+    platform: SOL
   - address: '0xf16e6b723f242ec745dfd7634ad072c42d5c1d9ac9d62a39c381303eaa57693a'
     platform: SUI
   - address: 0xf16e6b723f242ec745dfd7634ad072c42d5c1d9ac9d62a39c381303eaa57693a::fdusd::FDUSD

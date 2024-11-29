@@ -1,6 +1,8 @@
 contracts:
   - address: '0xcd95b05ebe61244de4df9c2c4123920f016a06df'
     platform: BNB
+  - address: '0x10a716e0d771356a25dca180f27d2a48dafb80fd'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ROF

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x95b4B8CaD3567B5d7EF7399C2aE1d7070692aB0D'
     platform: ETH
+  - address: '0x7894b3088d069E70895EFfA4e8f7D2c243Fd04C1'
+    platform: RON
 crypto: true
 fiat: false
 id: APRS

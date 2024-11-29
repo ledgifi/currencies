@@ -1,6 +1,8 @@
 contracts:
   - address: '0xd43be54c1aedf7ee4099104f2dae4ea88b18a249'
     platform: ETH
+  - address: '0xd43be54c1aedf7ee4099104f2dae4ea88b18a249'
+    platform: MATIC
 crypto: true
 fiat: false
 id: TRAXX

@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xaeb63742F2C7dD1538bBE2285B6789017a06B58B'
+    platform: BNB
   - address: '0xC36983d3D9d379dDFB306DFB919099cB6730e355'
     platform: ETH
+  - address: AFDzaLz3cQZNWjnWbyq2q81TLVTPbHTbfkj8qKqTk74e
+    platform: SOL
 crypto: true
 fiat: false
 id: COLLE

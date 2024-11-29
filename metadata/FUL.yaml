@@ -1,6 +1,10 @@
 contracts:
   - address: '0x83aFB1C32E5637ACd0a452D87c3249f4a9F0013A'
     platform: CRO
+  - address: '0xFB3338E2cA713B344D6A45B36525c3db156e492F'
+    platform: CRO
+  - address: '0xe593853b4d603d5b8f21036Bb4AD0D1880097a6e'
+    platform: ZK
 crypto: true
 fiat: false
 id: FUL

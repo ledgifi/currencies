@@ -1,6 +1,8 @@
 contracts:
   - address: '0xB1f66997A5760428D3a87D68b90BfE0aE64121cC'
     platform: ETH
+  - address: 5Wc4U1ZoQRzF4tPdqKQzBwRSjYe8vEf3EvZMuXgtKUW6
+    platform: SOL
 crypto: true
 fiat: false
 id: LUA1

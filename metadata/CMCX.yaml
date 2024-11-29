@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xb2343143f814639c9b1f42961c698247171df34a'
+    platform: BNB
   - address: '0x5b685863494c33f344081f75e5430c260c224a32'
     platform: ETH
+  - address: TKg1nGjtWYDcf1HNTSNQtwGwNAuTxd1X2A
+    platform: TRX
 crypto: true
 fiat: false
 id: CMCX

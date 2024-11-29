@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xe6fd75ff38adca4b97fbcd938c86b98772431867'
+    platform: ETH
+  - address: '0xa1ecfc2bec06e4b43ddd423b94fef84d0dbc8f5c'
+    platform: HT
 crypto: true
 fiat: false
 id: ELA

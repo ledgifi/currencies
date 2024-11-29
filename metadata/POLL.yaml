@@ -1,6 +1,8 @@
 contracts:
   - address: '0x4b0f027d0b694aae2761ed2d426295d4f949f5d0'
     platform: ETH
+  - address: TFZkrMkKawhgH2gLUhL8Q7N5sFY7bxJJyn
+    platform: TRX
 crypto: true
 fiat: false
 id: POLL

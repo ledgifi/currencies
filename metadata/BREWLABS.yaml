@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x6aac56305825f712fd44599e59f2ede51d42c3e7'
+    platform: BNB
   - address: '0xdAd33e12e61dC2f2692F2c12e6303B5Ade7277Ba'
     platform: ETH
+  - address: '0x2F86747a9c5Db9b80840a3A588E2B87f367188d6'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BREWLABS

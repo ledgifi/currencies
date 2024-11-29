@@ -1,6 +1,10 @@
 contracts:
   - address: '0x5cc5e64ab764a0f1e97f23984e20fd4528356a6a'
+    platform: BNB
+  - address: '0x5cc5e64ab764a0f1e97f23984e20fd4528356a6a'
     platform: ETH
+  - address: '0x5cc5e64ab764a0f1e97f23984e20fd4528356a6a'
+    platform: TBA
 crypto: true
 fiat: false
 id: XRGB

@@ -1,6 +1,20 @@
 contracts:
+  - address: '0x178412e79c25968a32e89b11f63B33F733770c2A'
+    platform: ARB
+  - address: '0x64048A7eEcF3a2F1BA9e144aAc3D7dB6e58F555e'
+    platform: BNB
   - address: '0x5E8422345238F34275888049021821E8E08CAa1f'
     platform: ETH
+  - address: '0x9E73F99EE061C8807F69f9c6CCc44ea3d8c373ee'
+    platform: FTM
+  - address: '0x82bbd1b6f6De2B7bb63D3e1546e6b1553508BE99'
+    platform: GLMR
+  - address: '0xEe327F889d5947c1dc1934Bb208a1E792F953E96'
+    platform: MATIC
+  - address: '0xcf7ecee185f19e2e970a301ee37f93536ed66179'
+    platform: MATIC
+  - address: '0x6806411765Af15Bddd26f8f544A34cC40cb9838B'
+    platform: OP
 crypto: true
 fiat: false
 id: FRXETH

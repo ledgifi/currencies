@@ -1,6 +1,8 @@
 contracts:
   - address: '0xe477292f1b3268687a29376116b0ed27a9c76170'
     platform: ETH
+  - address: '0x672255E73E9FcB8d8971b6e2622057bAa84B5Afe'
+    platform: MATIC
 crypto: true
 fiat: false
 id: PLAY1

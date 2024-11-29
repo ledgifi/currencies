@@ -1,6 +1,22 @@
 contracts:
+  - address: '0x9968dA22E458471525C29eB1da3dc18e8Cd54150'
+    platform: ARB
+  - address: '0x849E1ce12a5Bd9a4C36Ca2B75bEC373E34918FE1'
+    platform: AVAX
+  - address: '0xd73887bbb51De4ef1e08dF4E61E5b54e29b4F2C0'
+    platform: BNB
   - address: '0xE95076d9fe7155c17b455ac49497E78912c4AB65'
     platform: ETH
+  - address: '0x7f7DB10e385B3AAD82a9755F7dBE5082166141Bf'
+    platform: MATIC
+  - address: '0xc65AD8c78081ee35909c42E9689e3dCB94D096a4'
+    platform: OP
+  - address: 5AnPDx9GposBi9jSW2dFfE5QQD3FmXbudoquMNDxpump
+    platform: SOL
+  - address: 0x52b898325b823e3e44e12d4f74f08a90ed526018712567cec58d04fd9b3b8082::coin::COIN
+    platform: SUI
+  - address: '0x72E72193ea14Ac3b469f881989d18A2BA021B4C6'
+    platform: TBA
 crypto: true
 fiat: false
 id: DOLLAR1

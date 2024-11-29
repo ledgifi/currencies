@@ -1,6 +1,14 @@
 contracts:
+  - address: '0x0c08638473CAfbCa3beb113616A1871F4bfaD4f9'
+    platform: BNB
   - address: '0x8E01397163b21F64ceC1f06cA6cC7d9aA8F718e9'
     platform: ETH
+  - address: '0x8fF27b58E1d969bEFC9c8aEAE93A6EB7E2250c8f'
+    platform: FTM
+  - address: '0x5eAB32Fe1D104cE0C5436feDC3433B646096e47C'
+    platform: MATIC
+  - address: '0xFCd7771aE18FA416ca087FAc682D5c3117BFf219'
+    platform: TOMB
 crypto: true
 fiat: false
 id: LSHARE

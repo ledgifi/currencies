@@ -1,4 +1,6 @@
 contracts:
+  - address: RIDE-7d18e9
+    platform: EGLD
   - address: '0xf97e2a78f1f3d1fd438ff7cc3bb7de01e5945b83'
     platform: ETH
 crypto: true

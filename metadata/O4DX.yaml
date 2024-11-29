@@ -1,6 +1,8 @@
 contracts:
   - address: '0x062ca2d2F1aF8C203FA3Ad5298FD6fAa4E44E897'
     platform: BNB
+  - address: f0c06a11047aea39d1a67198b759d4714f05ed8e80d162a6e4cda5eec812b029i0
+    platform: BTC
 crypto: true
 fiat: false
 id: O4DX

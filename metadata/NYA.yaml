@@ -1,6 +1,18 @@
 contracts:
   - address: '0x38F9bf9dCe51833Ec7f03C9dC218197999999999'
+    platform: ARB
+  - address: '0x38F9bf9dCe51833Ec7f03C9dC218197999999999'
+    platform: AVAX
+  - address: '0x38F9bf9dCe51833Ec7f03C9dC218197999999999'
+    platform: BNB
+  - address: '0x38F9bf9dCe51833Ec7f03C9dC218197999999999'
     platform: ETH
+  - address: '0x38F9bf9dCe51833Ec7f03C9dC218197999999999'
+    platform: MATIC
+  - address: '0x38F9bf9dCe51833Ec7f03C9dC218197999999999'
+    platform: OP
+  - address: '0x38F9bf9dCe51833Ec7f03C9dC218197999999999'
+    platform: TBA
 crypto: true
 fiat: false
 id: NYA

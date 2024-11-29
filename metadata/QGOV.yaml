@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xAed882F117b78034829E2cfFA11206706837B1b1'
+    platform: ARB
   - address: '0xb933e6003Fc9b9152Ac64C26F09779825cE4cb66'
     platform: ETH
+  - address: '0xAed882F117b78034829E2cfFA11206706837B1b1'
+    platform: OP
 crypto: true
 fiat: false
 id: QGOV

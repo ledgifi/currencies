@@ -1,6 +1,8 @@
 contracts:
   - address: '0x90F3edc7D5298918F7BB51694134b07356F7d0C7'
     platform: MATIC
+  - address: EQCW5g1evnQN2OZZEVe-23aSvEsgPauWZlF27ZIz5REhnWRy
+    platform: TON
 crypto: true
 fiat: false
 id: DDAO

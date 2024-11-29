@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x6a545f9c64d8f7b957d8d2e6410b52095a9e6c29'
+    platform: BNB
   - address: '0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4'
     platform: ETH
+  - address: '0xecf8f2fa183b1c4d2a269bf98a54fce86c812d3e'
+    platform: MATIC
 crypto: true
 fiat: false
 id: CFI

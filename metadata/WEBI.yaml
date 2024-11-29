@@ -1,6 +1,8 @@
 contracts:
   - address: '0x37E43b704181C7324333991bcB42CD3f29A540e8'
     platform: ETH
+  - address: '0x2Aa69C03d7843ecFeD0A13e66D79f6f97Ca8D9f8'
+    platform: MATIC
 crypto: true
 fiat: false
 id: WEBI

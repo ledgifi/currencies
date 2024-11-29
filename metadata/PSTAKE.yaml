@@ -1,6 +1,18 @@
 contracts:
+  - address: '0xcBf7B47E9da345812e3Bd732E3EE369a7203B5ae'
+    platform: BLAST
+  - address: '0x4c882ec256823ee773b25b414d36f92ef58a7c0c'
+    platform: BNB
   - address: '0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006'
     platform: ETH
+  - address: '0x023550ADDe4FA2F90D63a41D9282BEE0294c04cD'
+    platform: OP
+  - address: ibc/8061A06D3BD4D52C4A28FFECF7150D370393AF0BA661C3776C54FF32836C3961
+    platform: OSMO
+  - address: 0xb66e9e1cd25e8be90091c4f20b42f0472ea22d4244f3bc2241891ed7ad2d80de::celer_pstake_coin::CELER_PSTAKE_COIN
+    platform: SUI
+  - address: '0x38815A4455921667d673B4cb3d48F0383eE93400'
+    platform: TBA
 crypto: true
 fiat: false
 id: PSTAKE

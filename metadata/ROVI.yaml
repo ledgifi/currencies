@@ -1,4 +1,8 @@
 contracts:
+  - address: '0x3cbb92719FefC8B3cd6E15f7e4cA521E61Ca137C'
+    platform: ARB
+  - address: '0xCc503242b574BC01145Da7E2A743b43fB395eC91'
+    platform: BOBA
   - address: '0xcc503242b574bc01145da7e2a743b43fb395ec91'
     platform: ETH
 crypto: true

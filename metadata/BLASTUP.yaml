@@ -1,6 +1,8 @@
 contracts:
   - address: '0x59c159e5a4f4d1c86f7abdc94b7907b7473477f6'
     platform: BLAST
+  - address: '0x901a020915bc3577d85d29f68024b4c5e240b8cd'
+    platform: ETH
 crypto: true
 fiat: false
 id: BLASTUP

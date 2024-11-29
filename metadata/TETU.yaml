@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x65c9d9d080714cDa7b5d58989Dc27f897F165179'
+    platform: FTM
   - address: '0x255707B70BF90aa112006E1b07B9AeA6De021424'
     platform: MATIC
 crypto: true

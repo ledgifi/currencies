@@ -1,6 +1,10 @@
 contracts:
   - address: '0xfad45e47083e4607302aa43c65fb3106f1cd7607'
     platform: ETH
+  - address: 74gUPK636nrieDT9kLSgF1peWg5BB7itNkjF2BkMDwZj
+    platform: SOL
+  - address: '0xDf690C65d067035364a58369C26820D3696D7799'
+    platform: TBA
 crypto: true
 fiat: false
 id: HOGE

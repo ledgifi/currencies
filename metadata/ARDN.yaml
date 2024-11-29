@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xa0a9961b7477d1a530f06a1ee805d5e532e73d97'
+    platform: BNB
   - address: '0xb1c9bc94aCd2fAE6aABf4ffae4429B93512a81D2'
     platform: ETH
+  - address: '0xB6EBc3ca1741a8f37551E44A51eC00aD417B38CA'
+    platform: MATIC
+  - address: 4wfCtMp8KQ7r61V4qH2VtHxFjVjUdsWhgAmZgQi33UkT
+    platform: SOL
 crypto: true
 fiat: false
 id: ARDN

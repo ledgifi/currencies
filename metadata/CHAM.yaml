@@ -1,6 +1,8 @@
 contracts:
   - address: '0xc65bc1e906771e105fbacbd8dfe3862ee7be378e'
     platform: AVAX
+  - address: '0xC95cD75dCea473a30C8470B232b36ee72aE5DcC2'
+    platform: BNB
 crypto: true
 fiat: false
 id: CHAM

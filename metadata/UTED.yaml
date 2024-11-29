@@ -1,6 +1,10 @@
 contracts:
   - address: '0x68Bc800Dd616911e1C6E7852e607c6e46ba81636'
     platform: BNB
+  - address: TEnbqY7jSJZRtPjCW4HsdpxBt9yRKmFKPf
+    platform: TRX
+  - address: GBFB43FPLZOY6SFBUZYHMXVTX2Y7KKWRTETGGWZV3XX56HJETHGU4R76
+    platform: XLM
 crypto: true
 fiat: false
 id: UTED

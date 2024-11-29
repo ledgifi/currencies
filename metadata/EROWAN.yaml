@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe'
+    platform: ETH
+  - address: '0xa7051C5a22d963b81D71C2BA64D46a877fBc1821'
+    platform: MATIC
 crypto: true
 fiat: false
 id: EROWAN

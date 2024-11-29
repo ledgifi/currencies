@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x9fD470124903957f299a1C90fEdA9043A4619cc6'
+    platform: BNB
   - address: ibc/B9E0A1A524E98BB407D3CED8720EFEFD186002F90C1B1B7964811DD0CCC12228
     platform: OSMO
 crypto: true

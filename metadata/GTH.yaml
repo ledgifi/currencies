@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xeb986DA994E4a118d5956b02d8b7c3C7CE373674'
+    platform: BNB
+  - address: '0xeb986DA994E4a118d5956b02d8b7c3C7CE373674'
+    platform: ETH
 crypto: true
 fiat: false
 id: GTH

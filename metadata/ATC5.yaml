@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xe363329Cd82d3883e7EEa6445A8A4FC7130fa6A2'
+    platform: BNB
+  - address: '0x7F5A937c397713fD4124BdA0bCFf79F85C0C886E'
+    platform: ETH
 crypto: true
 fiat: false
 id: ATC5

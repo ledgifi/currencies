@@ -1,6 +1,8 @@
 contracts:
   - address: '0xbf3950DB0522A7F5CAa107D4Cbbbd84dE9E047e2'
     platform: BNB
+  - address: '0x0ba8a6ce46d369d779299dedade864318097b703'
+    platform: MATIC
 crypto: true
 fiat: false
 id: JUSD

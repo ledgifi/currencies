@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x39ae8eefb05138f418bb27659c21632dc1ddab10'
+    platform: BNB
+  - address: '0xD9Ec3ff1f8be459Bb9369b4E79e9Ebcf7141C093'
+    platform: ETH
 crypto: true
 fiat: false
 id: KAI

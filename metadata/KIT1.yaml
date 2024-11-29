@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x314593fa9a2fa16432913dBcCC96104541d32D11'
+    platform: BNB
   - address: '0x7866e48c74cbfb8183cd1a929cd9b95a7a5cb4f4'
     platform: ETH
+  - address: '0x4d0def42cf57d6f27cd4983042a55dce1c9f853c'
+    platform: MATIC
 crypto: true
 fiat: false
 id: KIT1

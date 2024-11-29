@@ -1,6 +1,8 @@
 contracts:
   - address: '0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf'
     platform: ETH
+  - address: '0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf'
+    platform: TBA
 crypto: true
 fiat: false
 id: CBBTC1

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x9d7107c8e30617cadc11f9692a19c82ae8bba938'
     platform: BNB
+  - address: '0x9d7107c8e30617cadc11f9692a19c82ae8bba938'
+    platform: ETH
 crypto: true
 fiat: false
 id: ROO1

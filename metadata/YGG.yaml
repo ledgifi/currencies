@@ -9,6 +9,8 @@ contracts:
     platform: RON
   - address: EzZp7LRN1xwu3QsB2RJRrWwEGjJGsuWzuMCeQDB3NSPK
     platform: SOL
+  - address: '0xaAC78d1219c08AecC8e37e03858FE885f5EF1799'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

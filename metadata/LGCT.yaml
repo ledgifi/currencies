@@ -1,6 +1,12 @@
 contracts:
   - address: '0xD38B305CaC06990c0887032A02C03D6839f770A8'
+    platform: BNB
+  - address: '0xD38B305CaC06990c0887032A02C03D6839f770A8'
     platform: ETH
+  - address: '0xD38B305CaC06990c0887032A02C03D6839f770A8'
+    platform: MATIC
+  - address: '0xB28a08D4E0fd0A7bDBE7461188F0bA5183F95298'
+    platform: VET
 crypto: true
 fiat: false
 id: LGCT

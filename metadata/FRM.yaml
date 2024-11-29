@@ -1,6 +1,14 @@
 contracts:
+  - address: '0x9f6AbbF0Ba6B5bfa27f4deb6597CC6Ec20573FDA'
+    platform: ARB
+  - address: '0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C'
+    platform: AVAX
+  - address: '0xa719b8ab7ea7af0ddb4358719a34631bb79d15dc'
+    platform: BNB
   - address: '0xe5caef4af8780e59df925470b050fb23c43ca68c'
     platform: ETH
+  - address: '0xd99baFe5031cC8B345cb2e8c80135991F12D7130'
+    platform: MATIC
 crypto: true
 fiat: false
 id: FRM

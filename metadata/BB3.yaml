@@ -1,6 +1,8 @@
 contracts:
   - address: '0x688eC465111ed639267cB17C47E790c9cc7279c1'
     platform: BNB
+  - address: '0x688eC465111ed639267cB17C47E790c9cc7279c1'
+    platform: ETH
 crypto: true
 fiat: false
 id: BB3

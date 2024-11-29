@@ -1,6 +1,10 @@
 contracts:
   - address: '0x4374F26F0148a6331905eDf4cD33B89d8Eed78d1'
+    platform: BNB
+  - address: '0x4374F26F0148a6331905eDf4cD33B89d8Eed78d1'
     platform: ETH
+  - address: '0x3dc57B391262e3aAe37a08D91241f9bA9d58b570'
+    platform: FTM
 crypto: true
 fiat: false
 id: YOSHI

@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x3a67ca29ddf5ecf1844e811c43f27bd79f9ec310'
+    platform: ARB
   - address: '0x4104b135dbc9609fc1a9490e61369036497660c8'
     platform: ETH
+  - address: '0x92a2a0d39da80e1fa21afdebdd87c4f975adf9f0'
+    platform: OP
+  - address: '0x5dbe772a051fa853433cdae923c3b3ae955df7bd'
+    platform: TBA
 crypto: true
 fiat: false
 id: APW

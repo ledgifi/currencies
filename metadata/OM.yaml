@@ -5,6 +5,8 @@ contracts:
     platform: ETH
   - address: '0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea'
     platform: MATIC
+  - address: ibc/164807F6226F91990F358C6467EEE8B162E437BDCD3DADEC3F0CE20693720795
+    platform: OSMO
   - address: '0x3992b27da26848c2b19cea6fd25ad5568b68ab98'
     platform: TBA
 crypto: true

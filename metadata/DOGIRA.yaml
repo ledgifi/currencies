@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA'
+    platform: DOGE
   - address: '0xd8c1232fcd219286e341271385bd70601503b3d7'
     platform: ETH
+  - address: '0xdda40cdfe4a0090f42ff49f264a831402adb801a'
+    platform: MATIC
 crypto: true
 fiat: false
 id: DOGIRA

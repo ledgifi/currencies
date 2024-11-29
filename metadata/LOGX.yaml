@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x59062301Fb510F4ea2417B67404CB16D31E604BA'
+    platform: ARB
   - address: '0xa3F4341C3fEf5963AB04135D2014AC7d68222E19'
     platform: ETH
+  - address: '0x04055057677807d2a53d2b25a80ff3b4d932ae1a'
+    platform: TBA
 crypto: true
 fiat: false
 id: LOGX

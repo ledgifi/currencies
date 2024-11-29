@@ -1,6 +1,8 @@
 contracts:
   - address: '0xb8d6196d71cdd7d90a053a7769a077772aaac464'
     platform: ETH
+  - address: 3CnqgfQmiCyjMgaDfJpBDi9mjsE11vFnTfniM8BTMBzK
+    platform: SOL
 crypto: true
 fiat: false
 id: MARS8

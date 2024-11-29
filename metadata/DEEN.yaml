@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x4FEBDDe47Ab9a76200e57eFcC80b212a07b3e6cE'
+    platform: ISLM
   - address: ibc/108604FDBE97DAEF128FD4ECFEB2A8AFC2D04A7162C97EAA2FD5BCB0869D0BBC
     platform: OSMO
 crypto: true

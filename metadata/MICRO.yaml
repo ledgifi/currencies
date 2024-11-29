@@ -1,4 +1,10 @@
 contracts:
+  - address: 0x3b6b4346280841a98236054920a5cf09afd5b2bbdfddc0b7de2673dca41072b::MICRO::Micro
+    platform: APT
+  - address: '0x39944eCf1613e712785aD050BA052BCf5cC08BcE'
+    platform: AVAX
+  - address: '0xd05B1cFf02b5955c8D1CECeD2fE12eD12804974D'
+    platform: BNB
   - address: '0xbe6c8f2810ef39420d2dc2901b8414c8c45fee6d'
     platform: ETH
 crypto: true

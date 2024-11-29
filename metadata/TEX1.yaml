@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x049Dd7532148826CdE956c7B45fec8c30b514052'
+    platform: BNB
   - address: '0x0499A3EC965136Bea01E4350113A2105724785dC'
     platform: IOTX
 crypto: true

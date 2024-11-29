@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x9c1A3e3A69F83bDF98A51E4a552BbC2e479d45e7'
+    platform: BNB
   - address: '0x8D3E855f3f55109D473735aB76F753218400fe96'
     platform: ETH
+  - address: '0x4991516DF6053121121274397A8C1DAD608bc95B'
+    platform: RBTC
 crypto: true
 fiat: false
 id: BUND1

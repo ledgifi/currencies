@@ -1,6 +1,10 @@
 contracts:
   - address: '0x15F9EB4b9BEaFa9Db35341c5694c0b6573809808'
+    platform: BNB
+  - address: '0x15F9EB4b9BEaFa9Db35341c5694c0b6573809808'
     platform: ETH
+  - address: TZ6gek9k3F4jke9j3DVeiycEXy8NJKTxQc
+    platform: TRX
 crypto: true
 fiat: false
 id: DEDA

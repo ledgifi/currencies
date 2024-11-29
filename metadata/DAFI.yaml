@@ -1,6 +1,8 @@
 contracts:
   - address: '0xfc979087305a826c2b2a0056cfaba50aad3e6439'
     platform: ETH
+  - address: '0x638df98ad8069a15569da5a6b01181804c47e34c'
+    platform: MATIC
 crypto: true
 fiat: false
 id: DAFI

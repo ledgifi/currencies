@@ -1,6 +1,8 @@
 contracts:
   - address: '0xb62e24b747eaa41454857cf6011832117df59cb8'
     platform: ETH
+  - address: 6ep1sNB9UWni3nBZUX84USsRBhKRzMAxEmcia479cWTh
+    platform: SOL
 crypto: true
 fiat: false
 id: EPIKO

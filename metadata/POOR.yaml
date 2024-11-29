@@ -1,6 +1,8 @@
 contracts:
   - address: '0x682ca13182eca9e5230d8654215037815288b556'
     platform: BNB
+  - address: '0x1703Dd2d4a1b14D0Bcb87C445f3263179d523b16'
+    platform: CRO
 crypto: true
 fiat: false
 id: POOR

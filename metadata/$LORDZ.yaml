@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7bB5c17a9889FdE42c4C95A937F7D387B8Bcd409'
     platform: BNB
+  - address: '0x32B133AdD6d99d085Ff23F522662b546B70D54A1'
+    platform: TBA
 crypto: true
 fiat: false
 id: $LORDZ

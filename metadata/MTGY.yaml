@@ -1,6 +1,8 @@
 contracts:
   - address: '0x025c9f1146d4d94f8f369b9d98104300a3c8ca23'
     platform: BNB
+  - address: '0x025c9f1146d4d94f8f369b9d98104300a3c8ca23'
+    platform: ETH
 crypto: true
 fiat: false
 id: MTGY

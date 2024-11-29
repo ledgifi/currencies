@@ -1,6 +1,16 @@
 contracts:
+  - address: '0xdc7179416c08c15f689d9214a3bec2dd003deabc'
+    platform: ARB
+  - address: '0xE4eB03598f4DCAB740331fa432f4b85FF58AA97E'
+    platform: AURORA
+  - address: '0x270178366a592bA598C2e9d2971DA65f7bAa7C86'
+    platform: BNB
   - address: '0x7162469321ae5880F077D250B626F3271b21b903'
     platform: ETH
+  - address: '0x45f4d056412b6db625e8c003f4c8cafd5a174390'
+    platform: KCS
+  - address: 8ymjMjitLchSFU9zkcbjsJENhSXou4YKh7RD2U3yvqdJ
+    platform: SOL
 crypto: true
 fiat: false
 id: KSW

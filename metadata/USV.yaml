@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xb0a8E082E5f8d2a04e74372c1bE47737d85A0E73'
+    platform: AVAX
+  - address: '0xaf6162DC717CFC8818eFC8d6f46a41Cf7042fCBA'
+    platform: BNB
   - address: '0x88536C9B2C4701b8dB824e6A16829D5B5Eb84440'
     platform: ETH
+  - address: '0xAC63686230f64BDEAF086Fe6764085453ab3023F'
+    platform: MATIC
 crypto: true
 fiat: false
 id: USV

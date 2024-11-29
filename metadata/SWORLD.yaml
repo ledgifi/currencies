@@ -1,6 +1,14 @@
 contracts:
   - address: '0x968bE3F7bfeF0F8eDc3c1aD90232EbB0DA0867aA'
+    platform: ARB
+  - address: '0x968bE3F7bfeF0F8eDc3c1aD90232EbB0DA0867aA'
+    platform: AVAX
+  - address: '0x968bE3F7bfeF0F8eDc3c1aD90232EbB0DA0867aA'
+    platform: BNB
+  - address: '0x968bE3F7bfeF0F8eDc3c1aD90232EbB0DA0867aA'
     platform: ETH
+  - address: '0x968bE3F7bfeF0F8eDc3c1aD90232EbB0DA0867aA'
+    platform: TBA
 crypto: true
 fiat: false
 id: SWORLD

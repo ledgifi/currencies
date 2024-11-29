@@ -1,6 +1,8 @@
 contracts:
   - address: '0x0aa7efe4945db24d95ca6e117bba65ed326e291a'
     platform: ETH
+  - address: '0x26373ec913876c9e6d38494dde458cb8649cb30c'
+    platform: MATIC
 crypto: true
 fiat: false
 id: OJA

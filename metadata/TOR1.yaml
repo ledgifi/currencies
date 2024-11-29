@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x790772d8f4115b608340a7aB25258fCa8da1ca2e'
+    platform: AVAX
+  - address: '0x1d6cbdc6b29c6afbae65444a1f65ba9252b8ca83'
+    platform: BNB
   - address: '0x6b37374fe7980ae33fc87b0d66a490ec6903e87a'
     platform: ETH
+  - address: '0x74e23df9110aa9ea0b6ff2faee01e740ca1c642e'
+    platform: FTM
 crypto: true
 fiat: false
 id: TOR1

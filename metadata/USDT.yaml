@@ -66,6 +66,8 @@ contracts:
     platform: IOTX
   - address: '0x551a5dcac57c66aa010940c2dcff5da9c53aa53b'
     platform: KAI
+  - address: '0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167'
+    platform: KAIA
   - address: '0x0039f574ee5cc39bdd162e9a88e3eb1f111baf48'
     platform: KCS
   - address: '0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167'
@@ -96,6 +98,8 @@ contracts:
     platform: OKT
   - address: '0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f'
     platform: ONE
+  - address: '0xff276c6bca1F66Fd54a8915e830735D6ab0C7B09'
+    platform: ONUS
   - address: '0x94b008aa00579c1307b0ef2c499ad98a8ce58e58'
     platform: OP
   - address: ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xCb76314C2540199f4B844D4ebbC7998C604880cA'
     platform: ETH
+  - address: D2tztvQKcmo7PUof8quQWAu3qXKwtiW1pLjvHLsUakv5
+    platform: SOL
 crypto: true
 fiat: false
 id: BERRY

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xC8d674114bac90148d11D3C1d33C61835a0F9DCD'
     platform: ETH
+  - address: terra1jsxngqasf2zynj5kyh0tgq9mj3zksa5gk35j4k
+    platform: LUNC
 crypto: true
 fiat: false
 id: MNFLX

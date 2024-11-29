@@ -1,6 +1,14 @@
 contracts:
   - address: '0x6c511dc18572d31C2c3f7b1505cB2BBC08282FcC'
+    platform: ARB
+  - address: '0x6c511dc18572d31C2c3f7b1505cB2BBC08282FcC'
+    platform: BLAST
+  - address: '0x6c511dc18572d31C2c3f7b1505cB2BBC08282FcC'
     platform: BNB
+  - address: '0x6c511dc18572d31C2c3f7b1505cB2BBC08282FcC'
+    platform: MATIC
+  - address: '0x6c511dc18572d31C2c3f7b1505cB2BBC08282FcC'
+    platform: OP
 crypto: true
 fiat: false
 id: AIPO

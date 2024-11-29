@@ -1,6 +1,20 @@
 contracts:
+  - address: '0xe0eb31082bbf8252f7425c6dd72a8c6b3bfbe99f'
+    platform: ARB
+  - address: '0x3bd9856BF578910b55261d45d9148d61C177B092'
+    platform: AVAX
+  - address: '0xddc0dbd7dc799ae53a98a60b54999cb6ebb3abf0'
+    platform: BNB
+  - address: '0x9D3E3624b3de482331F4f091Fd8b76D3F344bd8C'
+    platform: CRO
   - address: '0x614D7f40701132E25fe6fc17801Fbd34212d2Eda'
     platform: ETH
+  - address: '0x7d226bff737c5855254c307523afb3c464c5680b'
+    platform: FTM
+  - address: '0xd145261dd80bc5388ea8f437d503897060410f1c'
+    platform: MATIC
+  - address: '0xd1a891E6eCcB7471Ebd6Bc352F57150d4365dB21'
+    platform: OP
 crypto: true
 fiat: false
 id: BLAST1

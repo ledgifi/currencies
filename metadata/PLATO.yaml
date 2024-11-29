@@ -1,6 +1,12 @@
 contracts:
   - address: '0xf2572fDACf09bfAE08FF7D35423870B5a8aC26b7'
     platform: BNB
+  - address: '0x14885De0E4e333440eC4C07C2FBdC0bcb40BAA73'
+    platform: HT
+  - address: '0x79637D860380bd28dF5a07329749654790FAc1Df'
+    platform: MATIC
+  - address: '0xF7428FFCb2581A2804998eFbB036A43255c8A8D3'
+    platform: OKT
 crypto: true
 fiat: false
 id: PLATO

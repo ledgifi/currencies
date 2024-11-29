@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x22e736d05b2519e34dff54bfdb99ec37a66c518d'
+    platform: ARB
+  - address: '0x77fc65dedA64f0CCA9e3aEa7b9D8521f4151882e'
+    platform: BNB
 crypto: true
 fiat: false
 id: BNI

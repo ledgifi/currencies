@@ -1,6 +1,8 @@
 contracts:
   - address: '0x6c3ea9036406852006290770bedfcaba0e23a0e8'
     platform: ETH
+  - address: 2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo
+    platform: SOL
 crypto: true
 fiat: false
 id: PYUSD

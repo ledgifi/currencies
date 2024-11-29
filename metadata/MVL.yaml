@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x5f588efaf8eb57e3837486e834fc5a4e07768d98'
+    platform: BNB
   - address: '0xa849eaae994fb86afa73382e9bd88c2b6b18dc71'
     platform: ETH
+  - address: EQD2yazA2wf5AY2joEzGUDGk0cQWxEa2NdiP4Zgf9-eF04tp
+    platform: TON
 crypto: true
 fiat: false
 id: MVL

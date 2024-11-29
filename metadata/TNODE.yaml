@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7f12a37b6921ffac11fab16338b3ae67ee0c462b'
     platform: BNB
+  - address: '0x7fc5670b2041d34414b0b2178fc660b1e1faf801'
+    platform: FTM
 crypto: true
 fiat: false
 id: TNODE

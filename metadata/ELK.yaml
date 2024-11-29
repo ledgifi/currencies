@@ -1,6 +1,22 @@
 contracts:
   - address: '0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE'
+    platform: ARB
+  - address: '0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE'
+    platform: AVAX
+  - address: '0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE'
+    platform: BNB
+  - address: '0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE'
     platform: ETH
+  - address: '0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE'
+    platform: FTM
+  - address: '0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE'
+    platform: GNO
+  - address: '0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE'
+    platform: MATIC
+  - address: '0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE'
+    platform: OP
+  - address: '0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE'
+    platform: TBA
 crypto: true
 fiat: false
 id: ELK

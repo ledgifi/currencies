@@ -1,6 +1,8 @@
 contracts:
   - address: '0x9d1555d8cB3C846Bb4f7D5B1B1080872c3166676'
     platform: ETH
+  - address: terra1kscs6uhrqwy6rx5kuw5lwpuqvm3t6j2d6uf2lp
+    platform: LUNC
 crypto: true
 fiat: false
 id: MSLV

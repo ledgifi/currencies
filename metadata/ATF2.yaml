@@ -1,6 +1,8 @@
 contracts:
   - address: '0x00000000bA2ca30042001aBC545871380F570B1F'
     platform: BNB
+  - address: '0x00000000bA2ca30042001aBC545871380F570B1F'
+    platform: ETH
 crypto: true
 fiat: false
 id: ATF2

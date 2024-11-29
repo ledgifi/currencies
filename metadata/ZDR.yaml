@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x3fF1Af9E583d3790ec51E1407c9E94D8D1133dC3'
+    platform: AVAX
+  - address: '0xcd0dcfa92b0be5041a58c2bae41a2b51fe9a8a02'
+    platform: BNB
   - address: '0xbdfa65533074b0b23ebc18c7190be79fa74b30c2'
     platform: ETH
+  - address: '0xd31De8eD2D7457124f69BF71E44B31e704Dc416E'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ZDR

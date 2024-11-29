@@ -1,3 +1,12 @@
+contracts:
+  - address: '0x37807d4fbeb84124347b8899dd99616090d3e304'
+    platform: BNB
+  - address: '0xA87135285Ae208e22068AcDBFf64B11Ec73EAa5A'
+    platform: ETH
+  - address: '0xbbfe0b60de96a189bf09079de86a2db7bf0c7883'
+    platform: MATIC
+  - address: zil1xxl6yp2twxvljdnn87g9fk7wykdrcv66xdy4rc
+    platform: ZIL
 crypto: true
 fiat: false
 id: LUNR

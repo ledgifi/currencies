@@ -1,6 +1,14 @@
 contracts:
+  - address: '0x564A341Df6C126f90cf3ECB92120FD7190ACb401'
+    platform: AVAX
+  - address: '0xC1fdbed7Dac39caE2CcC0748f7a80dC446F6a594'
+    platform: BNB
   - address: '0x2c537e5624e4af88a7ae4060c022609376c8d0eb'
     platform: ETH
+  - address: '0x4Fb71290Ac171E1d144F7221D882BECAc7196EB5'
+    platform: MATIC
+  - address: A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf
+    platform: SOL
 crypto: true
 fiat: false
 id: TRYB

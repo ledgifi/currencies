@@ -1,6 +1,16 @@
 contracts:
+  - address: '0x078e103d5f9629ac48b8563fa2bfcd2f6d5fde84'
+    platform: AURORA
+  - address: '0x3bc5ac0dfdc871b365d159f728dd1b9a0b5481e8'
+    platform: BNB
   - address: '0x30D20208d987713f46DFD34EF128Bb16C404D10f'
     platform: ETH
+  - address: '0x412a13c109ac30f0db80ad3bd1defd5d0a6c0ac6'
+    platform: FTM
+  - address: '0x1d734A02eF1e1f5886e66b0673b71Af5B53ffA94'
+    platform: MATIC
+  - address: 30d20208d987713f46dfd34ef128bb16c404d10f.factory.bridge.near
+    platform: NEAR
 crypto: true
 fiat: false
 id: SD

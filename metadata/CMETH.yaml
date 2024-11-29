@@ -1,6 +1,8 @@
 contracts:
   - address: '0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA'
     platform: ETH
+  - address: '0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA'
+    platform: MNT
 crypto: true
 fiat: false
 id: CMETH

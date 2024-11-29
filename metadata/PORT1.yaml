@@ -1,6 +1,8 @@
 contracts:
   - address: '0x0c7c5b92893A522952EB4c939aA24B65FF910C48'
     platform: ETH
+  - address: zil18f5rlhqz9vndw4w8p60d0n7vg3n9sqvta7n6t2
+    platform: ZIL
 crypto: true
 fiat: false
 id: PORT1

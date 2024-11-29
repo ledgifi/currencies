@@ -1,6 +1,8 @@
 contracts:
   - address: '0x62760e76DCe6b500349EC5F6119228d047913350'
     platform: BNB
+  - address: '0x62760e76dce6b500349ec5f6119228d047913350'
+    platform: ETH
 crypto: true
 fiat: false
 id: TWIF

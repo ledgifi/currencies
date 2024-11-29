@@ -1,6 +1,8 @@
 contracts:
   - address: '0x35bEdBF9291b22218a0dA863170dcC9329Ef2563'
     platform: BNB
+  - address: BDq41H2KMf39i6N3vZeEFQ1QdLyPqVGDomLcf4ReWyQ2
+    platform: SOL
 crypto: true
 fiat: false
 id: TAP1

@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: 0x08655e4b3e15eb503e05ae66d646a032caf5835d3ed773d0af78ada0cf7acbea::drf::DRF
     platform: SUI
+  - address: 0x294de7579d55c110a00a7c4946e09a1b5cbeca2592fbb83fd7bfacba3cfeaf0e::drf::DRF
+    platform: SUI
 crypto: true
 fiat: false
 id: DRF

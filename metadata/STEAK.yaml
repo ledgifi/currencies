@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xddbfbd5dc3ba0feb96cb513b689966b2176d4c09'
+    platform: ARB
   - address: '0xb279f8dd152b99ec1d84a489d32c35bc0c7f5674'
     platform: AVAX
 crypto: true

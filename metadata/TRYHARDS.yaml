@@ -1,6 +1,8 @@
 contracts:
   - address: '0x75d107de2217ffe2cd574a1b3297c70c8fafd159'
     platform: BNB
+  - address: '0xEFeE2de82343BE622Dcb4E545f75a3b9f50c272D'
+    platform: MATIC
 crypto: true
 fiat: false
 id: TRYHARDS

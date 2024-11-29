@@ -1,6 +1,8 @@
 contracts:
   - address: '0x78b5DF8973762B5cCA08c8820E1a4Ca3F7Af0b6c'
     platform: BNB
+  - address: '0xE87269Fa38180A13e9bB3C487537F5282EF3e5d7'
+    platform: ZK
 crypto: true
 fiat: false
 id: APPA

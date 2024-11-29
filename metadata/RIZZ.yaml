@@ -1,6 +1,10 @@
 contracts:
   - address: '0x582dD5e7C8AF79d45a96dE4af5D1152a061aBb50'
     platform: ETH
+  - address: F2WVwKFRPqE3gMKw22swL5DHgkbdwgEfvhKCoicygcWB
+    platform: SOL
+  - address: '0x6ce7c23b917284e21d55cea20acaeb2bc58594be'
+    platform: TBA
 crypto: true
 fiat: false
 id: RIZZ

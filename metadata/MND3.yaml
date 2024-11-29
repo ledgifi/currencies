@@ -1,6 +1,16 @@
 contracts:
   - address: '0x1cd2528522A17B6Be63012fB63AE81f3e3e29D97'
+    platform: AVAX
+  - address: '0x1cd2528522A17B6Be63012fB63AE81f3e3e29D97'
+    platform: BNB
+  - address: '0x1cd2528522A17B6Be63012fB63AE81f3e3e29D97'
+    platform: CRO
+  - address: '0x1cd2528522A17B6Be63012fB63AE81f3e3e29D97'
     platform: ETH
+  - address: '0x1cd2528522A17B6Be63012fB63AE81f3e3e29D97'
+    platform: FTM
+  - address: '0x1cd2528522A17B6Be63012fB63AE81f3e3e29D97'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MND3

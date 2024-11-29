@@ -1,6 +1,10 @@
 contracts:
   - address: '0xd1e0e39bd1758abe0865d5289895a9197c6cd549'
+    platform: BNB
+  - address: '0xd1e0e39bd1758abe0865d5289895a9197c6cd549'
     platform: ETH
+  - address: TK4zHRAU1WrRPivksia3BMs2JvSLT63opb
+    platform: TRX
 crypto: true
 fiat: false
 id: UAHG

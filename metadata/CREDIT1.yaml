@@ -1,3 +1,16 @@
+contracts:
+  - address: '0x0667D72e77D899A81965FFD415A5ea45D4A1275A'
+    platform: AVAX
+  - address: '0x0667D72e77D899A81965FFD415A5ea45D4A1275A'
+    platform: BNB
+  - address: '0x0667D72e77D899A81965FFD415A5ea45D4A1275A'
+    platform: ETH
+  - address: '0x0667D72e77D899A81965FFD415A5ea45D4A1275A'
+    platform: FTM
+  - address: '0x0667D72e77D899A81965FFD415A5ea45D4A1275A'
+    platform: GNO
+  - address: '0x0667D72e77D899A81965FFD415A5ea45D4A1275A'
+    platform: MATIC
 crypto: true
 fiat: false
 id: CREDIT1

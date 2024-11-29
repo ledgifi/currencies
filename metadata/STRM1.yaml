@@ -1,6 +1,8 @@
 contracts:
   - address: '0x8162b5bc8f651007cc38a09f557bab2bf4cefb5b'
     platform: ETH
+  - address: '0xfe4717f60ac5603dc6863700cd8ecf805908688d'
+    platform: TBA
 crypto: true
 fiat: false
 id: STRM1

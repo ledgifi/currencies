@@ -1,6 +1,8 @@
 contracts:
   - address: '0xDA987c655ebC38C801DB64A8608bc1AA56Cd9a31'
     platform: ETH
+  - address: ibc/1B454982D3746951510D3845145B83628D4ED380D95722C8077776C4689F973A
+    platform: OSMO
 crypto: true
 fiat: false
 id: SYNT

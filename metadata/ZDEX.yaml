@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x6e6beD1409E7c1EebEC4b0dF0419B32e0c6314bA'
+    platform: BNB
   - address: '0x5150956E082C748Ca837a5dFa0a7C10CA4697f9c'
     platform: ETH
+  - address: '0x461d52769884ca6235b685ef2040f47d30c94eb5'
+    platform: KCS
 crypto: true
 fiat: false
 id: ZDEX

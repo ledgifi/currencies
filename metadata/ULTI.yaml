@@ -1,6 +1,8 @@
 contracts:
   - address: '0x0e7779e698052f8fe56c415c3818fcf89de9ac6d'
     platform: BNB
+  - address: '0x0E7779e698052f8fe56C415C3818FCf89de9aC6D'
+    platform: ETH
 crypto: true
 fiat: false
 id: ULTI

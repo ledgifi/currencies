@@ -1,5 +1,7 @@
 contracts:
   - address: '0x644192291cc835a93d6330b24ea5f5fedd0eef9e'
+    platform: ARB
+  - address: '0x644192291cc835a93d6330b24ea5f5fedd0eef9e'
     platform: AVAX
   - address: '0x644192291cc835a93d6330b24ea5f5fedd0eef9e'
     platform: BNB

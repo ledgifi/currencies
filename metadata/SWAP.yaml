@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xc7B5D72C836e718cDA8888eaf03707fAef675079'
+    platform: AVAX
+  - address: '0x94eafeeef7ffa66203fdc9349c54d601472a79dc'
+    platform: BNB
   - address: '0xcc4304a31d09258b0029ea7fe63d032f52e44efe'
     platform: ETH
+  - address: '0x3809dcdd5dde24b37abe64a5a339784c3323c44f'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SWAP

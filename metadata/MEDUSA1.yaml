@@ -1,6 +1,8 @@
 contracts:
   - address: '0xE34ba9cbdF45c9d5Dcc80E96424337365b6Fe889'
     platform: ETH
+  - address: 8xbMY4atJXBNKR8Kk3u9y5XztXMd56uS8TXY9Gx5RwMJ
+    platform: SOL
 crypto: true
 fiat: false
 id: MEDUSA1

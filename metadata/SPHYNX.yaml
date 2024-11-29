@@ -1,4 +1,10 @@
 contracts:
+  - address: '0xa776f5b86cC520861F55a261515264E3bd86E72e'
+    platform: BNB
+  - address: '0x3f3d3A2A698AF53676CeF6ACA6Bfe6a0cE913C0C'
+    platform: BRISE
+  - address: '0xa776f5b86cC520861F55a261515264E3bd86E72e'
+    platform: CRO
   - address: '0x1901f826dfcbfd9d3138936932366b3493a50893'
     platform: ETH
 crypto: true

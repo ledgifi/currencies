@@ -1,6 +1,14 @@
 contracts:
+  - address: '0x37dfACfaeDA801437Ff648A1559d73f4C40aAcb7'
+    platform: BNB
   - address: '0xf7413489c474ca4399eee604716c72879eea3615'
     platform: ETH
+  - address: '0x90e8896b12a92D51CD213b681C2CaD83A9a6bD49'
+    platform: HT
+  - address: '0x14743E1c6f812154F7ecc980D890F0F5234103e7'
+    platform: MATIC
+  - address: 5JnZ667P3VcjDinkJFysWh2K2KtViy63FZ3oL5YghEhW
+    platform: SOL
 crypto: true
 fiat: false
 id: APYS

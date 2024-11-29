@@ -1,6 +1,8 @@
 contracts:
   - address: '0xc064F4F215B6A1E4e7F39bD8530C4dE0fC43ee9D'
     platform: ETH
+  - address: '0xb2d3Edf61B27ab28288D8c760fa686Be084ff526'
+    platform: MATIC
 crypto: true
 fiat: false
 id: LM

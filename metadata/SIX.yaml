@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x070a9867Ea49CE7AFc4505817204860e823489fE'
+    platform: BNB
   - address: '0x61c6ebf443ad613c9648762585b3cfd3ba1f3fa8'
     platform: ETH
+  - address: '0xef82b1c6a550e730d8283e1edd4977cd01faf435'
+    platform: KAIA
+  - address: GDMS6EECOH6MBMCP3FYRYEVRBIV3TQGLOFQIPVAITBRJUMTI6V7A2X6Z
+    platform: XLM
 crypto: true
 fiat: false
 id: SIX

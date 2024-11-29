@@ -1,6 +1,8 @@
 contracts:
   - address: '0x80cd73badb406ea36b9a7cdeb8df06aefa7e12d9'
     platform: BNB
+  - address: '0x80cd73badb406ea36b9a7cdeb8df06aefa7e12d9'
+    platform: ETH
 crypto: true
 fiat: false
 id: SLEEPEE

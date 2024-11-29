@@ -1,6 +1,8 @@
 contracts:
   - address: '0x1d350417d9787E000cc1b95d70E9536DcD91F373'
     platform: ETH
+  - address: terra10h7ry7apm55h4ez502dqdv9gr53juu85nkd4aq
+    platform: LUNC
 crypto: true
 fiat: false
 id: MIAU

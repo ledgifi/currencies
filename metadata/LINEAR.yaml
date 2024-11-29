@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x918dbe087040a41b786f0da83190c293dae24749'
+    platform: AURORA
   - address: linear-protocol.near
     platform: NEAR
 crypto: true

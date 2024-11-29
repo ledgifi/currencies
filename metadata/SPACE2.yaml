@@ -10,6 +10,8 @@ contracts:
   - address: '0xb53ec4ace420a62cfb75afdeba600d284777cd65'
     platform: MATIC
   - address: '0x1D1498166DDCEeE616a6d99868e1E0677300056f'
+    platform: MATIC
+  - address: '0x1D1498166DDCEeE616a6d99868e1E0677300056f'
     platform: OP
 crypto: true
 fiat: false

@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396'
+    platform: ARB
+  - address: '0x259b30c916e440fb79747cd559207ffdabbae057'
+    platform: BNB
   - address: '0x3b08fcd15280e7B5A6e404c4abb87F7C774D1B2e'
     platform: OP
+  - address: '0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396'
+    platform: TBA
 crypto: true
 fiat: false
 id: OVN

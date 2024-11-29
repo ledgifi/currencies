@@ -1,6 +1,8 @@
 contracts:
   - address: '0x6A7eFF1e2c355AD6eb91BEbB5ded49257F3FED98'
     platform: ETH
+  - address: '0x8be8c50e7d7acff6084899e71a6db085ff7134c8'
+    platform: ETH
 crypto: true
 fiat: false
 id: OPSEC

@@ -1,6 +1,14 @@
 contracts:
   - address: '0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C'
+    platform: ARB
+  - address: '0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C'
     platform: ETH
+  - address: '0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C'
+    platform: MATIC
+  - address: '0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C'
+    platform: OP
+  - address: '0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C'
+    platform: TBA
 crypto: true
 fiat: false
 id: USDM1

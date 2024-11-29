@@ -1,6 +1,8 @@
 contracts:
   - address: '0xf72FCd9DCF0190923Fadd44811E240Ef4533fc86'
     platform: ETH
+  - address: terra19cmt6vzvhnnnfsmccaaxzy2uaj06zjktu6yzjx
+    platform: LUNC
 crypto: true
 fiat: false
 id: MVIXY

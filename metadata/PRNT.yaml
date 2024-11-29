@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7cfea0dd176651e7b5a1ced9c4faf8ee295315fd'
     platform: ETH
+  - address: '0x0e11710aad67e7427cfbc12c353284c2e335f62c'
+    platform: XDC
 crypto: true
 fiat: false
 id: PRNT

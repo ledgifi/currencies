@@ -1,4 +1,8 @@
 contracts:
+  - address: '0x906c012fa4C30d580537c2b72d1789F56F488a80'
+    platform: ETH
+  - address: '0x728f0a7FEC1859Cb0d71A432271D4E80310d235f'
+    platform: TBA
   - address: '0x71dc74256d1acb42a216cc5c3c097b8da71026b0'
     platform: THETA
 crypto: true

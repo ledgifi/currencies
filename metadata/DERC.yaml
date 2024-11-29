@@ -11,6 +11,8 @@ contracts:
     platform: MATIC
   - address: '0xE1b3eb06806601828976e491914e3De18B5d6b28'
     platform: MATIC
+  - address: '0xa3a2cdd230f9b3ff6e01a01534a3ed3cbf049815'
+    platform: TBA
 crypto: true
 fiat: false
 id: DERC

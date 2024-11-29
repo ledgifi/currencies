@@ -1,6 +1,14 @@
 contracts:
   - address: '0xe2dCA969624795985F2f083BcD0b674337ba130a'
     platform: BNB
+  - address: '0xe2dCA969624795985F2f083BcD0b674337ba130a'
+    platform: ETH
+  - address: '0xe2dCA969624795985F2f083BcD0b674337ba130a'
+    platform: OP
+  - address: '0xe2dCA969624795985F2f083BcD0b674337ba130a'
+    platform: SKR
+  - address: '0xe2dCA969624795985F2f083BcD0b674337ba130a'
+    platform: TBA
 crypto: true
 fiat: false
 id: SKR

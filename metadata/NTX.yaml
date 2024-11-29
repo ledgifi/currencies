@@ -1,4 +1,8 @@
 contracts:
+  - address: edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e993444794e5458
+    platform: ADA
+  - address: '0x5C4Bcc4DbaEAbc7659f6435bCE4E659314ebad87'
+    platform: BNB
   - address: '0xf0d33beda4d734c72684b5f9abbebf715d0a7935'
     platform: ETH
 crypto: true

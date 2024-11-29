@@ -1,6 +1,8 @@
 contracts:
   - address: '0x8c7ac134ed985367eadc6f727d79e8295e11435c'
     platform: ETH
+  - address: DexxZWtZd8hdmeth9gKYXgTWa1VYdMVrWFBZ9RXXXhBn
+    platform: SOL
 crypto: true
 fiat: false
 id: KEKEC

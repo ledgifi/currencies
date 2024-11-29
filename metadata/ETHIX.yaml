@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x9995cc8F20Db5896943Afc8eE0ba463259c931ed'
+    platform: CELO
   - address: '0xfd09911130e6930bf87f2b0554c44f400bd80d3e'
     platform: ETH
+  - address: '0xec3f3e6d7907acDa3A7431abD230196CDA3FbB19'
+    platform: GNO
 crypto: true
 fiat: false
 id: ETHIX

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xcbed7180e61f82aa9bbc1f59afaa7d57fab588ac'
     platform: BNB
+  - address: '0x47037b32884a532c0d5df3f07ce5ec644ffd5b4b'
+    platform: ETH
 crypto: true
 fiat: false
 id: CANNA

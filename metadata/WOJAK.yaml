@@ -1,6 +1,8 @@
 contracts:
   - address: '0x5026F006B85729a8b14553FAE6af249aD16c9aaB'
     platform: ETH
+  - address: 6bn6rKWbTRAQwizwqEfcmpAtoAMnqzfG7F8DYMK5reYn
+    platform: SOL
 crypto: true
 fiat: false
 id: WOJAK

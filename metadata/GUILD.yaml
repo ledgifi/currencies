@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x0565805ca3a4105faee51983b0bd8ffb5ce1455c'
+    platform: BNB
   - address: '0x83e9f223e1edb3486f876ee888d76bfba26c475a'
     platform: ETH
+  - address: '0xAfF41DA975501E5b71848C975834341777D1a473'
+    platform: MATIC
 crypto: true
 fiat: false
 id: GUILD

@@ -1,6 +1,10 @@
 contracts:
   - address: '0xF94b5C5651c888d928439aB6514B93944eEE6F48'
     platform: ETH
+  - address: '0xa2fec95b3d3fecb39098e81f108533e1abf22ccf'
+    platform: GNO
+  - address: '0x4CEBdBCB286101A17D3eA1f7fe7bbDeD2B2053dd'
+    platform: MATIC
 crypto: true
 fiat: false
 id: YLD

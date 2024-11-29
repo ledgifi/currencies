@@ -1,6 +1,8 @@
 contracts:
   - address: '0x8319d05e9dceecec5a575684b8f30b0c12c904dc'
     platform: BNB
+  - address: NULSd6HgyvAVKLFRNWcWrrgHFGUtYRe3Ev49Z
+    platform: NULS
 crypto: true
 fiat: false
 id: FUSE1

@@ -1,3 +1,10 @@
+contracts:
+  - address: '0xae0951b7e8159853366f510042ee67e5d4d3570a'
+    platform: BNB
+  - address: '0x6f5e77cea0abdda40013a8ef53639c96972fb745'
+    platform: ETH
+  - address: TN5mkbUkVYxDpSDBpt8iA8UwtB5Gta4m4X
+    platform: TRX
 crypto: true
 fiat: false
 id: NYE

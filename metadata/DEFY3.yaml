@@ -1,6 +1,8 @@
 contracts:
   - address: '0x205eD31C867bF715E4182137Af95AFE9177Cd8E7'
     platform: ETH
+  - address: '0xBF9f916bBda29A7F990F5F55c7607D94D7C3A60b'
+    platform: MATIC
 crypto: true
 fiat: false
 id: DEFY3

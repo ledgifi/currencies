@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x17fdf2789d65347e81e2e93739f77441db488a96'
+    platform: BNB
+  - address: '0xB4Ba6C2d54c6aB55233c60dcd018d307112Ab84A'
+    platform: ETH
 crypto: true
 fiat: false
 id: FSHN

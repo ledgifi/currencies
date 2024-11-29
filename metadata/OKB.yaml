@@ -1,6 +1,8 @@
 contracts:
   - address: '0x75231f58b43240c9718dd58b4967c5114342a86c'
     platform: ETH
+  - address: '0xdf54b6c6195ea4d948d03bfd818d365cf175cfc2'
+    platform: OKT
 crypto: true
 fiat: false
 id: OKB

@@ -1,6 +1,10 @@
 contracts:
   - address: '0x2c95d751da37a5c1d9c5a7fd465c1d50f3d96160'
     platform: ETH
+  - address: 2erZCPbQBobsFV23Z18J8aSfrV3QJ1RB8Ge9jhKjTL9m
+    platform: SOL
+  - address: '0xa067436db77ab18b1a315095e4b816791609897c'
+    platform: TBA
 crypto: true
 fiat: false
 id: WASSIE

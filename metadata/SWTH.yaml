@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x250b211ee44459dad5cd3bca803dd6a7ecb5d46c'
+    platform: BNB
   - address: '0xb4371da53140417cbb3362055374b10d97e420bb'
     platform: ETH
+  - address: ab38352559b8b203bde5fddfa0b07d8b2525e132
+    platform: NEO
+  - address: zil1yk93f957fanapf0yszgm84p62xrxxfytj4d2tl
+    platform: ZIL
 crypto: true
 fiat: false
 id: SWTH

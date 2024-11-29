@@ -97,6 +97,8 @@ contracts:
     platform: WAVES
   - address: '0x765277EebeCA2e31912C9946eAe1021199B39C61'
     platform: WEMIX
+  - address: '0x4200000000000000000000000000000000000006'
+    platform: WLD
   - address: zil19j33tapjje2xzng7svslnsjjjgge930jx0w09v
     platform: ZIL
   - address: '0x5aea5775959fbc2557cc8789bc1bf90a239d9a91'

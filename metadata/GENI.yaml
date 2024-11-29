@@ -1,6 +1,14 @@
 contracts:
   - address: '0x444444444444c1a66f394025ac839a535246fcc8'
+    platform: AVAX
+  - address: '0x444444444444c1a66f394025ac839a535246fcc8'
+    platform: BNB
+  - address: '0x444444444444c1a66f394025ac839a535246fcc8'
     platform: ETH
+  - address: '0x444444444444c1a66f394025ac839a535246fcc8'
+    platform: MATIC
+  - address: '0x444444444444c1a66f394025ac839a535246fcc8'
+    platform: PLS
 crypto: true
 fiat: false
 id: GENI

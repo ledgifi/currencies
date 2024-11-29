@@ -1,6 +1,8 @@
 contracts:
   - address: '0x1e05f5a582e45b58cba5fa318d10344a77fb1d94'
     platform: BNB
+  - address: '0xc0FEc40c3E16CCB3b525963D3349BF841368C120'
+    platform: BNB
 crypto: true
 fiat: false
 id: AIAI

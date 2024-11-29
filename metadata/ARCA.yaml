@@ -1,6 +1,8 @@
 contracts:
   - address: '0x1c00c3E03C3a10a0C1d9B6d1A42e797d7CB4147a'
     platform: ETH
+  - address: '0xDD177b9086c0F781380c4E5D7a3109cc85977AcF'
+    platform: TBA
 crypto: true
 fiat: false
 id: ARCA

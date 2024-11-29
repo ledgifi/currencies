@@ -1,6 +1,8 @@
 contracts:
   - address: '0x67d66e8Ec1Fd25d98B3Ccd3B19B7dc4b4b7fC493'
     platform: BNB
+  - address: '0x5d5530eb3147152fe78d5c4bfeede054c8d1442a'
+    platform: FTM
 crypto: true
 fiat: false
 id: FEED1

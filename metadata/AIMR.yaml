@@ -1,6 +1,8 @@
 contracts:
   - address: '0xcfd16933Cb1579eee9fe6031686534e87353B148'
     platform: ETH
+  - address: '0x741777F6b6d8145041F73A0bDdD35AE81F55A40F'
+    platform: TBA
 crypto: true
 fiat: false
 id: AIMR

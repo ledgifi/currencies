@@ -1,6 +1,8 @@
 contracts:
   - address: '0xb7b1bd104645d5a06120d369c63822b2aead1598'
     platform: BNB
+  - address: '0x50eb3b7f3efd3fc8ece83e2012dc9367422b3f91'
+    platform: ETH
 crypto: true
 fiat: false
 id: CPX3

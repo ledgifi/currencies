@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x9Ea69FD44a7BD7265d5B19AE8cb2E19F80DA059c'
+    platform: CRO
   - address: '0x12Ed0641242e4C6c220e3ca8F616E9d5470AC99a'
     platform: ETH
 crypto: true

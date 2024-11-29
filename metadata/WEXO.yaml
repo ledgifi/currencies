@@ -1,6 +1,8 @@
 contracts:
   - address: '0xf31698DDAd0d11160Fe85c500397A470CD3d492E'
     platform: ETH
+  - address: '0xac12f930318be4f9d37f602cbf89cd33e99aa9d4'
+    platform: TBA
 crypto: true
 fiat: false
 id: WEXO

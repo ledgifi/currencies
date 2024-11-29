@@ -1,6 +1,8 @@
 contracts:
   - address: '0xcb2B11e8B780971907A9A171754C7D767ee8Bc70'
     platform: BNB
+  - address: KT19Fmya7B49wKYdoqXYphyQWGRUn9g5wG8R
+    platform: XTZ
 crypto: true
 fiat: false
 id: WRC

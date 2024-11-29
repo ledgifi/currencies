@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x09c9d464b58d96837f8d8b6f4d9fe4ad408d3a4f'
+    platform: AURORA
   - address: '0x1ab43204a195a0fd37edec621482afd3792ef90b'
     platform: ETH
+  - address: 1ab43204a195a0fd37edec621482afd3792ef90b.factory.bridge.near
+    platform: NEAR
 crypto: true
 fiat: false
 id: PLY

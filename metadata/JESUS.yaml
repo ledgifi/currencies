@@ -1,6 +1,8 @@
 contracts:
   - address: '0xba386A4Ca26B85FD057ab1Ef86e3DC7BdeB5ce70'
     platform: ETH
+  - address: FQddEUoqKPnAsc4UTkAdAUV3LnCXoZEJMazguC1N11kC
+    platform: SOL
 crypto: true
 fiat: false
 id: JESUS

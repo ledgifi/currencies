@@ -1,6 +1,18 @@
 contracts:
+  - address: '0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e'
+    platform: ARB
+  - address: '0x96E1056a8814De39c8c3Cd0176042d6ceCD807d7'
+    platform: AVAX
+  - address: '0x11cd72f7A4B699c67f225ca8aBb20bC9F8DB90c7'
+    platform: BNB
   - address: '0xa21af1050f7b26e0cff45ee51548254c41ed6b5c'
     platform: ETH
+  - address: '0x11cd72f7A4B699c67f225ca8aBb20bC9F8DB90c7'
+    platform: MATIC
+  - address: '0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e'
+    platform: OP
+  - address: '0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e'
+    platform: TBA
 crypto: true
 fiat: false
 id: OSAK

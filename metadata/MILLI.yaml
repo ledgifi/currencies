@@ -1,6 +1,8 @@
 contracts:
   - address: sei170949pwl4h36neazkwmdgtrh6nuenh66462n34839e23e8he3pqsnm5r2v
     platform: SEI
+  - address: '0x95597eb8d227a7c4b4f5e807a815c5178ee6dbe1'
+    platform: SEI
 crypto: true
 fiat: false
 id: MILLI

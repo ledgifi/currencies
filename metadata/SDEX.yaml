@@ -1,6 +1,16 @@
 contracts:
+  - address: '0xabd587f2607542723b17f14d00d99b987c29b074'
+    platform: ARB
+  - address: '0xfdc66a08b0d0dc44c17bbd471b88f49f50cdd20f'
+    platform: BNB
   - address: '0x5de8ab7e27f6e7a1fff3e5b337584aa43961beef'
     platform: ETH
+  - address: '0x6899face15c14348e1759371049ab64a3a06bfa6'
+    platform: MATIC
+  - address: 9dzSzFvPsKDoY2gdWErsuz2H1o4tbzvgBhrNZ9cvkD2j
+    platform: SOL
+  - address: '0xfd4330b0312fdeec6d4225075b82e00493ff2e3f'
+    platform: TBA
 crypto: true
 fiat: false
 id: SDEX

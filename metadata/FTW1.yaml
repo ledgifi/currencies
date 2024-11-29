@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x306fD3e7b169Aa4ee19412323e1a5995B8c1a1f4'
     platform: ETH
+  - address: '0x306fd3e7b169aa4ee19412323e1a5995b8c1a1f4'
+    platform: TBA
 crypto: true
 fiat: false
 id: FTW1

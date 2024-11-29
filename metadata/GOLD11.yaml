@@ -1,6 +1,8 @@
 contracts:
   - address: '0xd0f653ad03ca32a792abfa6d6711cdf1311e5d9d'
     platform: BNB
+  - address: '0xf1b8762a7fa8C244e36F7234EDF40cFaE24394e3'
+    platform: ETH
 crypto: true
 fiat: false
 id: GOLD11

@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xF73d8276C15Ce56b2f4AeE5920e62F767A7f3aEA'
+    platform: BNB
   - address: '0x0d31DF7dedd78649A14aAe62D99CcB23aBCC3A5A'
     platform: ETH
+  - address: '0x064424bE39D59EfBE2601027a6338D03DDE3d476'
+    platform: MATIC
 crypto: true
 fiat: false
 id: TCG2

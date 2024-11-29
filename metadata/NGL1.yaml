@@ -1,6 +1,8 @@
 contracts:
   - address: '0x12652c6d93fdb6f4f37d48a8687783c782bb0d10'
     platform: ETH
+  - address: '0x8A3ed1F2D15b5015396F494cc1Da977da38A6773'
+    platform: MNT
 crypto: true
 fiat: false
 id: NGL1

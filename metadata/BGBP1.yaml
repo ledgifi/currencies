@@ -1,6 +1,8 @@
 contracts:
   - address: BGBP-CF3
     platform: BNB
+  - address: '0xc9a2c4868f0f96faaa739b59934dc9cb304112ec'
+    platform: ETH
 crypto: true
 fiat: false
 id: BGBP1

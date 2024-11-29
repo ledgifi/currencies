@@ -1,6 +1,14 @@
 contracts:
+  - address: '0xa8752333f6a6fe47323a4eDAC3D09Bb1048A0E23'
+    platform: AVAX
   - address: '0x6fd7c98458a943f469e1cf4ea85b173f5cd342f4'
     platform: BNB
+  - address: '0x0c9f28FBdFd79f7C00B805d8c63D053c146d282c'
+    platform: ETHW
+  - address: '0x7BEB05cf5681f402E762F8569c2Fc138a2172978'
+    platform: FTM
+  - address: '0x92DF60c51C710a1b1C20E42D85e221f3A1bFc7f2'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BHC

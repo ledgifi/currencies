@@ -1,6 +1,8 @@
 contracts:
   - address: '0x8f1fE4e6707CD4236b704759d2ee15166C68183a'
     platform: BNB
+  - address: '0xd3977576465f05dbaee49cc25c65cb54c740976a'
+    platform: ETH
 crypto: true
 fiat: false
 id: TMC

@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x3192ccddf1cdce4ff055ebc80f3f0231b86a7e30'
+    platform: BNB
   - address: '0x544c42fbb96b39b21df61cf322b5edc285ee7429'
     platform: ETH
+  - address: '0x8a0e8b4b0903929f47c3ea30973940d4a9702067'
+    platform: MATIC
 crypto: true
 fiat: false
 id: INSUR

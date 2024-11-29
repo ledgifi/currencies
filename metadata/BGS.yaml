@@ -1,6 +1,8 @@
 contracts:
   - address: '0xf339e8c294046e6e7ef6ad4f6fa9e202b59b556b'
     platform: BNB
+  - address: At7RLMbA6ZUjj7riyvFq2j5NHQ19aJabCju2VxLDAqso
+    platform: SOL
 crypto: true
 fiat: false
 id: BGS

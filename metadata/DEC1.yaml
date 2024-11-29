@@ -1,4 +1,8 @@
 contracts:
+  - address: '0xe9d7023f2132d55cbd4ee1f78273cb7a3e74f10a'
+    platform: BNB
+  - address: '0x9393fdc77090f31c7db989390d43f454b1a6e7f3'
+    platform: ETH
   - address: '1002361'
     platform: TRX
 crypto: true

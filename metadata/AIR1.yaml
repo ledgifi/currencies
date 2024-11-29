@@ -1,6 +1,8 @@
 contracts:
   - address: '0x294B9dA569c0d694870239813Bbe7B5824FD2339'
     platform: ETH
+  - address: '0xE5E3485b307D9d08CF704Dcd1D5C1ceB48d67107'
+    platform: MNT
 crypto: true
 fiat: false
 id: AIR1

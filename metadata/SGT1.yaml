@@ -1,6 +1,8 @@
 contracts:
   - address: '0x5b649C07E7Ba0a1C529DEAabEd0b47699919B4a2'
     platform: ETH
+  - address: '0x1ef5bb23e0b91c2e8480a4a2b71feb4607cb32f1'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SGT1

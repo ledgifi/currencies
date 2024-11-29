@@ -1,6 +1,16 @@
 contracts:
+  - address: '0xd5d3aA404D7562d09a848F96a8a8d5D65977bF90'
+    platform: ARB
   - address: '0x90de74265a416e1393a450752175aed98fe11517'
     platform: ETH
+  - address: '0x8C84142c4a716a16a89d0e61707164d6107A9811'
+    platform: GNO
+  - address: '0xf7E78d9C4c74df889A83C8C8d6D05BF70fF75876'
+    platform: MATIC
+  - address: '0xc709c9116dBf29Da9c25041b13a07A0e68aC5d2D'
+    platform: OP
+  - address: '0xD7eA82D19f1f59FF1aE95F1945Ee6E6d86A25B96'
+    platform: TBA
 crypto: true
 fiat: false
 id: UDT

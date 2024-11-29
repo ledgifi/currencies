@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x9FaE2529863bD691B4A7171bDfCf33C7ebB10a65'
+    platform: CLO
   - address: '0xcC67D978Ddf07971D9050d2b424f36f6C1a15893'
     platform: ETC
 crypto: true

@@ -1,6 +1,14 @@
 contracts:
+  - address: '0xa4f63404b58C3efD9Db6D53352BD386fFa174e5A'
+    platform: ARB
+  - address: '0x422812fC000E831b5ff13C181d85F34dd71380b3'
+    platform: AVAX
+  - address: '0xf0E2f2a84C898989C66FCa1d5BCe869E9BC85ddf'
+    platform: BNB
   - address: '0x87d6F8eDECcbCcA766D2880D19b2C3777D322C22'
     platform: MATIC
+  - address: '0xF2d3d488626a117984fda70F8106abC0049018D3'
+    platform: TBA
 crypto: true
 fiat: false
 id: MPT

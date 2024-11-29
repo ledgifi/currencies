@@ -1,6 +1,8 @@
 contracts:
   - address: '0x31ea904A7eca45122890dEb8dA3473A2081bc9d1'
     platform: ETH
+  - address: '0x31ea904A7eca45122890dEb8dA3473A2081bc9d1'
+    platform: TBA
 crypto: true
 fiat: false
 id: BAI2

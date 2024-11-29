@@ -1,6 +1,8 @@
 contracts:
   - address: '0x5c147e74D63B1D31AA3Fd78Eb229B65161983B2b'
     platform: ETH
+  - address: A.1654653399040a61.FlowToken.Vault
+    platform: FLOW
 crypto: true
 decimals: 8
 fiat: false

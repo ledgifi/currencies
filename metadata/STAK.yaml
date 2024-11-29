@@ -1,6 +1,8 @@
 contracts:
   - address: '0x1f8a626883d7724dbd59ef51cbd4bf1cf2016d13'
     platform: ETH
+  - address: '0x46a5d492788f8afdfc743ab7d7bd13f996249ed5'
+    platform: MATIC
 crypto: true
 fiat: false
 id: STAK

@@ -1,6 +1,8 @@
 contracts:
   - address: ADI-6BB
     platform: BNB
+  - address: '0x8810c63470d38639954c6b41aac545848c46484a'
+    platform: ETH
 crypto: true
 fiat: false
 id: ADI

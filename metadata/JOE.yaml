@@ -5,6 +5,8 @@ contracts:
     platform: AVAX
   - address: '0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07'
     platform: BNB
+  - address: '0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07'
+    platform: MNT
 crypto: true
 decimals: 8
 fiat: false

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xcbe94d75ec713b7ead84f55620dc3174beeb1cfe'
     platform: ARB
+  - address: '0xb2ee0adbe0ef1281025d0676511bb1df14600f4d'
+    platform: ETH
 crypto: true
 fiat: false
 id: FORE

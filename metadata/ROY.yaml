@@ -1,4 +1,8 @@
 contracts:
+  - address: '0x68ee0d0aad9e1984af85ca224117e4d20eaf68be'
+    platform: AVAX
+  - address: '0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE'
+    platform: MATIC
   - address: '0xfe1b516a7297eb03229a8b5afad80703911e81cb'
     platform: ONE
 crypto: true

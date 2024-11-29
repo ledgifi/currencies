@@ -1,6 +1,10 @@
 contracts:
   - address: '0x246fcdc18bf3781b4c5100b3a6decef8dbcc8a31'
+    platform: BNB
+  - address: '0x246fcdc18bf3781b4c5100b3a6decef8dbcc8a31'
     platform: ETH
+  - address: CKXCuB9STpjKnEsqw13Rhr3sPXmvPkzwgCgcQKjZd5dX
+    platform: SOL
 crypto: true
 fiat: false
 id: AIDOGEX

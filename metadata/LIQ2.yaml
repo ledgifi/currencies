@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xc7981767f644c7f8e483dabdc413e8a371b83079'
+    platform: BNB
+  - address: '0xABd380327Fe66724FFDa91A87c772FB8D00bE488'
+    platform: CRO
   - address: '0x5f69b7ab8f7cab199a310fd5a27b43fef44ddcc0'
     platform: ETH
+  - address: '0x4036f3d9c45a20f44f0b8b85dd6ca33005ff9654'
+    platform: MATIC
 crypto: true
 fiat: false
 id: LIQ2

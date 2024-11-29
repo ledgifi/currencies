@@ -1,6 +1,8 @@
 contracts:
   - address: '0xB0923281c4895C51f8654A6f8739994F3DC67cC2'
     platform: BNB
+  - address: '0x4658aC2B5De582DE93C08f08e9236FF014dd8570'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BTRC

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xbB95cc1c662D89822bda29D2e147B124406e6e42'
     platform: BNB
+  - address: '0x490e3f4af13e1616ec97a8c6600c1061a8d0253e'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRR

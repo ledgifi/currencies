@@ -1,6 +1,12 @@
 contracts:
+  - address: '0xd4fbc57b6233f268e7fba3b66e62719d74deecbc'
+    platform: BNB
   - address: '0xea1ea0972fa092dd463f2968f9bb51cc4c981d71'
     platform: ETH
+  - address: '0xe64b9fd040d1f9d4715c645e0d567ef69958d3d9'
+    platform: FTM
+  - address: '0x8346ab8d5ea7a9db0209aed2d1806afa0e2c4c21'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MOD1

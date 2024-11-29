@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x61632b49Df5CA20846b3220bFc42BDa5E32C81ad'
+    platform: BNB
   - address: '0x0E186357c323c806C1efdad36D217F7a54b63D18'
     platform: ETH
+  - address: '0xC1eD606683a3f89317d64BDA602628d68a0B4b24'
+    platform: NEON
 crypto: true
 fiat: false
 id: CGT

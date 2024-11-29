@@ -1,6 +1,8 @@
 contracts:
   - address: '0x2876992cdd3b48a08375768d7fc7f4ac7154d114'
     platform: BNB
+  - address: '0x8a521189BfEDf99b1Dc84BC21571cF8B799DbD4D'
+    platform: ETHW
 crypto: true
 fiat: false
 id: CAKEW

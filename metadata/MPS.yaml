@@ -1,6 +1,8 @@
 contracts:
   - address: '0x96c645d3d3706f793ef52c19bbace441900ed47d'
     platform: ETH
+  - address: '0xfa57AA7beED63D03Aaf85fFd1753f5f6242588fb'
+    platform: GNO
 crypto: true
 fiat: false
 id: MPS

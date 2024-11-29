@@ -1,4 +1,8 @@
 contracts:
+  - address: '0x77776b40C3d75cb07ce54dEA4b2Fd1D07F865222'
+    platform: BB
+  - address: '0x77776b40c3d75cb07ce54dea4b2fd1d07f865222'
+    platform: BNB
   - address: '0x77776b40c3d75cb07ce54dea4b2fd1d07f865222'
     platform: ETH
 crypto: true

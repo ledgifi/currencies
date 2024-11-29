@@ -1,6 +1,8 @@
 contracts:
   - address: '0x21cA39943E91d704678F5D00b6616650F066fD63'
     platform: ETH
+  - address: terra14y5affaarufk3uscy2vr6pe6w6zqf2wpjzn5sh
+    platform: LUNC
 crypto: true
 fiat: false
 id: MTSLA

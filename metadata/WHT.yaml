@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xeceefC50f9aAcF0795586Ed90a8b9E24f55Ce3F3'
+    platform: ELA
   - address: '0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f'
     platform: HT
 crypto: true

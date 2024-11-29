@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8'
+    platform: ARB
+  - address: '0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8'
+    platform: BNB
   - address: '0xfe67a4450907459c3e1fff623aa927dd4e28c67a'
     platform: ETH
+  - address: '0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8'
+    platform: OP
 crypto: true
 fiat: false
 id: NEXT1

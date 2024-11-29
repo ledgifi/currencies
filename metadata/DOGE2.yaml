@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x1D0A4985f3EaA44055116d1fFF6B96E653209C12'
+    platform: BNB
   - address: '0x81FcC294d91bd8FFC8a822d7df0e2fD2f8526c39'
     platform: ETH
+  - address: B54Fyr1XrWNA5RsRRkovoVFwQwzwBfqaJPLoFR4pMoAX
+    platform: SOL
 crypto: true
 fiat: false
 id: DOGE2

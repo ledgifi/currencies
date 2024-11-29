@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x5501F4713020cf299C3C5929da549Aab3592E451'
+    platform: BNB
   - address: '0x0e99cC0535BB6251F6679Fa6E65d6d3b430e840B'
     platform: ETH
+  - address: terra1mqsjugsugfprn3cvgxsrr8akkvdxv2pzc74us7
+    platform: LUNC
 crypto: true
 fiat: false
 id: MFB

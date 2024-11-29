@@ -1,6 +1,10 @@
 contracts:
   - address: '0x9a8284C2CEC196478f01eF4446A0222dD4deF00E'
+    platform: BNB
+  - address: '0x9a8284C2CEC196478f01eF4446A0222dD4deF00E'
     platform: ETH
+  - address: '0x9a8284C2CEC196478f01eF4446A0222dD4deF00E'
+    platform: MATIC
 crypto: true
 fiat: false
 id: IDDR

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x60582805620370818967b32dc8cd709195b72fab'
     platform: BNB
+  - address: '0x60582805620370818967b32dc8cd709195b72fab'
+    platform: ETH
 crypto: true
 fiat: false
 id: FINU

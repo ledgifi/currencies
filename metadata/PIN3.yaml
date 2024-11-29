@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x3b79a28264fc52c7b4cea90558aa0b162f7faf57'
+    platform: BNB
+  - address: '0xc1f976B91217E240885536aF8b63bc8b5269a9BE'
+    platform: ETH
 crypto: true
 fiat: false
 id: PIN3

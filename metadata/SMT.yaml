@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x2680e82fb8beb5a153a67fe687ffa67abb6b9013'
+    platform: ARB
   - address: '0xb17548c7b510427baac4e267bea62e800b247173'
     platform: ETH
+  - address: '0xE631DABeF60c37a37d70d3B4f812871df663226f'
+    platform: MATIC
+  - address: '0x2974dC646e375e83bd1c0342625b49f288987fA4'
+    platform: TBA
 crypto: true
 fiat: false
 id: SMT

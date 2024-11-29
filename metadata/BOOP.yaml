@@ -1,6 +1,8 @@
 contracts:
   - address: '0x13A7DeDb7169a17bE92B0E3C7C2315B46f4772B3'
     platform: ARB
+  - address: 2HrZ5R18H48b8ptL3n8N5zX65zDB4o2cMCHcP3QfSfye
+    platform: SOL
 crypto: true
 fiat: false
 id: BOOP

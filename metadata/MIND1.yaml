@@ -1,6 +1,8 @@
 contracts:
   - address: '0xc9eb61ffb66d5815d643bbb8195e17c49687ae1e'
     platform: ETH
+  - address: '0x280053c54006a624c26989cb8354fa4cb86f14d1'
+    platform: MATIC
 crypto: true
 fiat: false
 id: MIND1

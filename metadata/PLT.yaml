@@ -1,6 +1,8 @@
 contracts:
   - address: '0x631C2f0EdABaC799f07550aEE4fF0Bf7fd35212B'
     platform: BNB
+  - address: '0xa19c868Fd41270Ba364B168455D2E3FBb4b8904A'
+    platform: BNB
 crypto: true
 fiat: false
 id: PLT

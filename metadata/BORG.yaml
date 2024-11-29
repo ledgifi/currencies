@@ -1,6 +1,10 @@
 contracts:
   - address: '0x64d0f55cd8c7133a9d7102b13987235f486f2224'
     platform: ETH
+  - address: '0x76eaFffA1873a8aCd43864B66A728bd873c5E08a'
+    platform: GNO
+  - address: 3dQTr7ror2QPKQ3GbBCokJUmjErGg8kTJzdnYjNfvi3Z
+    platform: SOL
 crypto: true
 fiat: false
 id: BORG

@@ -1,6 +1,10 @@
 contracts:
   - address: '0x092bAaDB7DEf4C3981454dD9c0A0D7FF07bCFc86'
     platform: ARB
+  - address: '0xcBB8f1BDA10b9696c57E13BC128Fe674769DCEc0'
+    platform: ETH
+  - address: '0x7431ada8a591c955a994a21710752ef9b882b8e3'
+    platform: TBA
 crypto: true
 fiat: false
 id: MOR

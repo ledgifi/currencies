@@ -1,6 +1,8 @@
 contracts:
   - address: '0x328fD053C4BB968875aFD9aD0aF36Fcf4A0BddA9'
     platform: BNB
+  - address: '0x75d86078625d1e2f612de2627d34c7bc411c18b8'
+    platform: ETH
 crypto: true
 fiat: false
 id: AGII

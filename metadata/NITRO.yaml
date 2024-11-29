@@ -1,6 +1,8 @@
 contracts:
   - address: '0x0335A7610D817aeCA1bEBbEfbd392ecC2eD587B8'
     platform: ETH
+  - address: '0x695FC8B80F344411F34bDbCb4E621aA69AdA384b'
+    platform: MATIC
 crypto: true
 fiat: false
 id: NITRO

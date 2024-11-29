@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x1a3264f2e7b1cfc6220ec9348d33ccf02af7aaa4'
+    platform: AVAX
+  - address: '0x1a3264f2e7b1cfc6220ec9348d33ccf02af7aaa4'
+    platform: BNB
   - address: '0x39b46b212bdf15b42b166779b9d1787a68b9d0c3'
     platform: ETH
+  - address: '0x5b2124D427fAc9C80c902cbDD74b03Dd85d7d3FE'
+    platform: TBA
 crypto: true
 fiat: false
 id: DYP

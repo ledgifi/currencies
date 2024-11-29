@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xbbeb90cfb6fafa1f69aa130b7341089abeef5811'
+    platform: BNB
   - address: '0x8564653879a18C560E7C0Ea0E084c516C62F5653'
     platform: ETH
+  - address: FTtXEUosNn6EKG2SQtfbGuYB4rBttreQQcoWn1YDsuTq
+    platform: SOL
 crypto: true
 fiat: false
 id: UBXT

@@ -1,6 +1,14 @@
 contracts:
   - address: '0xb34FEEeC5be985BA9727B73cD24C82273a37CdD4'
     platform: BNB
+  - address: '0x6Adb697eb4139B298067736B5C33CB2135F8c22A'
+    platform: DOGE
+  - address: '0x2F789AAf4C79c4E22CB2905cE0bB1B630C861bEa'
+    platform: ETHW
+  - address: '0x744c01bb3a9cb59392e7f0d515f6b3e92b11c2ef'
+    platform: FTM
+  - address: '0xd2ee3816c553e06dde44a7eed920e7f7b5a49230'
+    platform: MATIC
 crypto: true
 fiat: false
 id: DOA

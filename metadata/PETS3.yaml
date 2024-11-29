@@ -1,6 +1,8 @@
 contracts:
   - address: '0x6afcff9189e8ed3fcc1cffa184feb1276f6a82a5'
     platform: ETH
+  - address: '0x1e0F2A75Be02c025Bd84177765F89200c04337Da'
+    platform: MOVR
 crypto: true
 fiat: false
 id: PETS3

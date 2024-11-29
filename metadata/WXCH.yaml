@@ -1,6 +1,8 @@
 contracts:
   - address: '0xa5a245Bebcd01D324E4C3639CE5bf88D851d3965'
     platform: ETH
+  - address: '0x36be1d329444aeF5D28df3662Ec5B4F965Cd93E9'
+    platform: TBA
 crypto: true
 fiat: false
 id: WXCH

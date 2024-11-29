@@ -1,6 +1,8 @@
 contracts:
   - address: '0x6894CDe390a3f51155ea41Ed24a33A4827d3063D'
     platform: BNB
+  - address: 3joMReCCSESngJEpFLoKR2dNcChjSRCDtybQet5uSpse
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

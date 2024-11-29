@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xde903e2712288a1da82942dddf2c20529565ac30'
+    platform: ARB
   - address: '0x6cacdb97e3fc8136805a9e7c342d866ab77d0957'
     platform: ETH
+  - address: '0x532801ED6f82FFfD2DAB70A19fC2d7B2772C4f4b'
+    platform: GNO
 crypto: true
 fiat: false
 id: SWPR

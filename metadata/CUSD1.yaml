@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xfa4ba88cf97e282c505bea095297786c16070129'
+    platform: BNB
   - address: '0xC285B7E09A4584D027E5BC36571785B515898246'
     platform: ETH
+  - address: CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL
+    platform: SOL
 crypto: true
 fiat: false
 id: CUSD1

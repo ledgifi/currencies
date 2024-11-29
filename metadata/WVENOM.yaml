@@ -1,6 +1,8 @@
 contracts:
   - address: '0x46f84dc6564cdd93922f7bfb88b03d35308d87c9'
     platform: ETH
+  - address: 0:77d36848bb159fa485628bc38dc37eadb74befa514395e09910f601b841f749e
+    platform: VENOM
 crypto: true
 fiat: false
 id: WVENOM

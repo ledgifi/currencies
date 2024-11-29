@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x8074210e3fb7e35a2d3837203729997f2e0ecda0'
+    platform: BNB
   - address: '0x4cff49d0a19ed6ff845a9122fa912abcfb1f68a6'
     platform: ETH
+  - address: '0xb3f18b584263191a33169f6393487e43e9586329'
+    platform: XDC
 crypto: true
 fiat: false
 id: WTK

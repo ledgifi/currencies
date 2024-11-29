@@ -1,6 +1,8 @@
 contracts:
   - address: '0xc8388e437031b09b2c61fc4277469091382a1b13'
     platform: ETH
+  - address: '0x6a4f69da1e2fb2a9b11d1aad60d03163fe567732'
+    platform: TBA
 crypto: true
 fiat: false
 id: SHOG

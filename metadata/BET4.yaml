@@ -1,6 +1,8 @@
 contracts:
   - address: '0x028a52032a7075a42585c037f069c62b49ebaa3d'
     platform: BNB
+  - address: '0x028a52032a7075a42585c037f069c62b49ebaa3d'
+    platform: HT
 crypto: true
 fiat: false
 id: BET4

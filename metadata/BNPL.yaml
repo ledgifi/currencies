@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x1263fEA931b86f3e8cE8AFBf29f66631b7be9347'
+    platform: AVAX
   - address: '0x84d821f7fbdd595c4c4a50842913e6b1e07d7a53'
     platform: ETH
 crypto: true

@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x0231f91e02debd20345ae8ab7d71a41f8e140ce7'
+    platform: BNB
+  - address: '0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8'
+    platform: ETH
 crypto: true
 fiat: false
 id: JUP1

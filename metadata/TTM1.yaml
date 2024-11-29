@@ -1,4 +1,8 @@
 contracts:
+  - address: '0xe9c5cC1bC013493b7800096024f6b65E13616345'
+    platform: AVAX
+  - address: '0xCc83F8809530BC3951c62B979eC8e5cEA38e182F'
+    platform: BNB
   - address: '0x238bf6cFB8Fa1b54429f9BF8ab651D8b99f12aD9'
     platform: ETH
 crypto: true

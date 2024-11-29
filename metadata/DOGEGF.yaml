@@ -1,6 +1,8 @@
 contracts:
   - address: '0xfb130d93e49dca13264344966a611dc79a456bc5'
     platform: ETH
+  - address: '0x881Ed0FCeF78120A135eC6cC66cEf2779FE95BBA'
+    platform: TBA
 crypto: true
 fiat: false
 id: DOGEGF

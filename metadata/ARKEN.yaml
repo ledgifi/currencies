@@ -1,4 +1,8 @@
 contracts:
+  - address: '0xAf5db6E1CC585ca312E8c8F7c499033590cf5C98'
+    platform: ARB
+  - address: '0x1d4268a58ee7ec2cc2af5d70a2fd2b3a896527a2'
+    platform: BNB
   - address: '0xb55Dd628039552a7d93A70fC8932f677499Ed479'
     platform: VIC
 crypto: true

@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x990e7154bb999faa9b2fa5ed29e822703311ea85'
+    platform: BNB
+  - address: '0x1E053D89E08c24aA2CE5C5B4206744Dc2D7BD8F5'
+    platform: ETH
 crypto: true
 fiat: false
 id: TT

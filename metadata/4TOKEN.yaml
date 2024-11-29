@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x61B83eDF87Ea662C695439A807c386455c9E797C'
+    platform: BNB
   - address: '0x98564e70c7fcc6d947ffe6d9efed5ba68b306f2e'
     platform: CORE
+  - address: '0x8dB4beACcd1698892821a9a0Dc367792c0cB9940'
+    platform: ETH
 crypto: true
 fiat: false
 id: 4TOKEN

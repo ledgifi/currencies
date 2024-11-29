@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xe795347731bc547f4e4643f7945738ce2bc18529'
+    platform: BNB
   - address: '0x0Def8d8addE14c9eF7c2a986dF3eA4Bd65826767'
     platform: ETH
+  - address: '0x2A0509760bF672E74899917D0D84cC10D7E34Ef6'
+    platform: MOVR
 crypto: true
 fiat: false
 id: CLIQ

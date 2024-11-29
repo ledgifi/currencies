@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xba817fdf1a800f4151d559b7072731af113df520'
+    platform: FTM
   - address: '0xd41ACc7aE33B5105e6c88CeAa4D0C317a60e5ac0'
     platform: HT
+  - address: '0xd41ACc7aE33B5105e6c88CeAa4D0C317a60e5ac0'
+    platform: OKT
 crypto: true
 fiat: false
 id: FINN1

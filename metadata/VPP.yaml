@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xe069af87450fb51fc0d0e044617f1c134163e591'
+    platform: BNB
   - address: '0x5eeaa2dcb23056f4e8654a349e57ebe5e76b5e6e'
     platform: ETH
+  - address: '0xf578ad8809f13dabf921bdd3fcfbe194d0ab5628'
+    platform: TBA
 crypto: true
 fiat: false
 id: VPP

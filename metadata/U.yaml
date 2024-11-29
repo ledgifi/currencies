@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x0534D7272a8E4F24D269b56605F2BF6cf3271891'
+    platform: ARB
+  - address: '0xe07710cdcD1c9F0FB04bfd013F9854E4552671cE'
+    platform: BNB
   - address: '0xe07710cdcD1c9F0FB04bfd013F9854E4552671cE'
     platform: ETH
+  - address: '0xe07710cdcD1c9F0FB04bfd013F9854E4552671cE'
+    platform: MATIC
 crypto: true
 fiat: false
 id: U

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x82967568A57625675b260Ebab1294038C9ACcC6e'
     platform: ETH
+  - address: '0x7Cea109FC3516eD1248ae9AA67B5a352cF74075e'
+    platform: TBA
 crypto: true
 fiat: false
 id: NOVA1

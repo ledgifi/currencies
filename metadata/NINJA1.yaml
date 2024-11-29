@@ -1,6 +1,10 @@
 contracts:
   - address: factory/inj1xtel2knkt8hmc9dnzpjz6kdmacgcfmlv5f308w/ninja
     platform: INJ
+  - address: ibc/183C0BB962D2F57C957E0B134CFA0AC9D6F755C02DE9DC2A59089BA23009DEC3
+    platform: OSMO
+  - address: G2FVt4LrYgZ9Grmy4Pb7FA7SKdLRZ38mAxTiLjex5Wsa
+    platform: SOL
 crypto: true
 fiat: false
 id: NINJA1

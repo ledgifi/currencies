@@ -1,4 +1,6 @@
 contracts:
+  - address: 0x4def3d3dee27308886f0a3611dd161ce34f977a9a5de4e80b237225923492a2a::coin::T
+    platform: APT
   - address: CKaKtYvz6dKPyMvYq9Rh3UBrnNqYZAyd7iF4hJtjUvks
     platform: SOL
 crypto: true

@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x9DA978718b6Bd84Bf485b475EAb253CF76d77b59'
+    platform: BEAM
   - address: '0xb533687Ef77459093368c43E95f8Df1C2B5a1F7a'
     platform: ETH
+  - address: JfFeJjXo65oar4jUDiweLxirKVAfJUbqtN7ePSWoBKh
+    platform: SOL
 crypto: true
 fiat: false
 id: ASG

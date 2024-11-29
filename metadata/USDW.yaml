@@ -1,6 +1,8 @@
 contracts:
   - address: '0x0227589aC63bf1E40187e22Ad09d87938031e941'
     platform: BNB
+  - address: '0x5186c4Fb5752Eb4A952C7EF03fAE3e543f48383e'
+    platform: ETHW
 crypto: true
 fiat: false
 id: USDW

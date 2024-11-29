@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x8ad8e9b85787ddd0d31b32ecf655e93bfc0747ef'
+    platform: BNB
   - address: '0x16b3e050e9e2f0ac4f1bea1b3e4fdc43d7f062dd'
     platform: ETH
+  - address: '0x16b3e050e9e2f0ac4f1bea1b3e4fdc43d7f062dd'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SMBR1

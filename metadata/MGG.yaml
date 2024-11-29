@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x6125adcab2f171bc70cfe2caecfec5509273a86a'
+    platform: BNB
   - address: '0x7237c0b30b1355f1b76355582f182f6f04b08740'
     platform: ETH
+  - address: '0xfda8355e8ce22ac44f2d175f4acfec8fac7472d7'
+    platform: FTM
 crypto: true
 fiat: false
 id: MGG

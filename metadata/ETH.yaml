@@ -11,6 +11,8 @@ contracts:
   - address: '0x64ff637fb478863b7468bc97d30a5bf3a428a1fd'
     platform: HT
   - address: '0x34d21b1e550d73cee41151c77f3c73359527a396'
+    platform: KAIA
+  - address: '0x34d21b1e550d73cee41151c77f3c73359527a396'
     platform: KLAY
   - address: aurora
     platform: NEAR

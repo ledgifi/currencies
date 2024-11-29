@@ -1,6 +1,22 @@
 contracts:
+  - address: '0x5C09A9cE08C4B332Ef1CC5f7caDB1158C32767Ce'
+    platform: AVAX
+  - address: '0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979'
+    platform: BNB
+  - address: '0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979'
+    platform: CANTO
+  - address: '0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979'
+    platform: ETH
   - address: '0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979'
     platform: FTM
+  - address: '0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979'
+    platform: MATIC
+  - address: '0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979'
+    platform: MNT
+  - address: '0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979'
+    platform: OP
+  - address: '0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979'
+    platform: TBA
 crypto: true
 fiat: false
 id: BOMB1

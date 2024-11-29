@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xb38b3c34e4bb6144c1e5283af720e046ee833a2a'
+    platform: BNB
   - address: '0x634239cfa331df0291653139d1a6083b9cf705e3'
     platform: ETH
+  - address: '0xa062fc09cA6bdeb2f6E3b77E1d4e09C42C964742'
+    platform: MATIC
 crypto: true
 fiat: false
 id: DES1

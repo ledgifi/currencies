@@ -3,6 +3,8 @@ contracts:
     platform: ARB
   - address: '0xE5417Af564e4bFDA1c483642db72007871397896'
     platform: MATIC
+  - address: '0xFB1Aaba03c31EA98A3eEC7591808AcB1947ee7Ac'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

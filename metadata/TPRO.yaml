@@ -1,6 +1,8 @@
 contracts:
   - address: '0x3540abe4f288b280a0740ad5121aec337c404d15'
     platform: ETH
+  - address: '0xd24157aa1097486dc9d7cf094a7e15026e566b5d'
+    platform: MATIC
 crypto: true
 fiat: false
 id: TPRO

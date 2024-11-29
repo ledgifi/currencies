@@ -1,6 +1,8 @@
 contracts:
   - address: '0x2FFdE077455f81E28bAa675a46B9c085740216d4'
     platform: ETH
+  - address: '0x44acd96620b708162af4a90524f29a6839675533'
+    platform: MATIC
 crypto: true
 fiat: false
 id: TCGC

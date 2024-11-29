@@ -1,6 +1,10 @@
 contracts:
   - address: '0x9BedCE29F79076b21DD04958a9Fd4B22F63fD86D'
+    platform: AVAX
+  - address: '0x9BedCE29F79076b21DD04958a9Fd4B22F63fD86D'
     platform: BNB
+  - address: '0x9BedCE29F79076b21DD04958a9Fd4B22F63fD86D'
+    platform: MATIC
 crypto: true
 fiat: false
 id: FRB

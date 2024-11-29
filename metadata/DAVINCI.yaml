@@ -1,6 +1,8 @@
 contracts:
   - address: '0x0000000000000000000000000000000000388f0f'
     platform: HBAR
+  - address: 0.0.3706639
+    platform: HBAR
 crypto: true
 fiat: false
 id: DAVINCI

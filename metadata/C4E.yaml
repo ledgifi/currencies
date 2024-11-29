@@ -1,6 +1,8 @@
 contracts:
   - address: '0x27443b27dfdf632390521c0b8a6fdafe07d8f79f'
     platform: BNB
+  - address: ibc/62118FB4D5FEDD5D2B18DC93648A745CD5E5B01D420E9B7A5FED5381CB13A7E8
+    platform: OSMO
 crypto: true
 fiat: false
 id: C4E

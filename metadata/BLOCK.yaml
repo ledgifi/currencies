@@ -1,6 +1,10 @@
 contracts:
   - address: '0xbC7A566b85eF73F935e640A06b5a8b031Cd975Df'
     platform: BNB
+  - address: '0x33e5b3e24501774598367bc0832b52787ac39ca5'
+    platform: CHZ
+  - address: NFTUkR4u7wKxy9QLaX2TGvd9oZSWoMo4jqSJqdMb7Nk
+    platform: SOL
 crypto: true
 fiat: false
 id: BLOCK

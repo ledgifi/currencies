@@ -1,6 +1,8 @@
 contracts:
   - address: '0x525A8F6F3Ba4752868cde25164382BfbaE3990e1'
     platform: ETH
+  - address: ibc/37CB3078432510EE57B9AFA8DBE028B33AE3280A144826FEAC5F2334CF2C5539
+    platform: OSMO
 crypto: true
 fiat: false
 id: NYM

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x8DF586aa346c3d9d1c99A21316A2735d71355eC8'
     platform: ETH
+  - address: '0x4CB9050EA02395a8941715ceeffe0cDf60c59f07'
+    platform: MATIC
 crypto: true
 fiat: false
 id: WSB4

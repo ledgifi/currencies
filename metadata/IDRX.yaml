@@ -1,6 +1,12 @@
 contracts:
   - address: '0x649a2DA7B28E0D54c13D5eFf95d3A660652742cC'
+    platform: BNB
+  - address: '0x649a2DA7B28E0D54c13D5eFf95d3A660652742cC'
     platform: MATIC
+  - address: idrxTdNftk6tYedPv2M7tCFHBVCpk5rkiNRd8yUArhr
+    platform: SOL
+  - address: '0x18Bc5bcC660cf2B9cE3cd51a404aFe1a0cBD3C22'
+    platform: TBA
 crypto: true
 fiat: false
 id: IDRX

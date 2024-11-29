@@ -1,6 +1,8 @@
 contracts:
   - address: '0x518afa06aeca8dd0946b89a565e51f5a91d81176'
     platform: BNB
+  - address: '0x2fd8bc03d9e827f77fac20b5130ee98b7f80149d'
+    platform: ETH
 crypto: true
 fiat: false
 id: CRB2

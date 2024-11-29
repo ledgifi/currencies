@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x82155Ab6b6c1113CFb352c7573B010a88f5974bD'
+    platform: ARB
   - address: '0x7697b462a7c4ff5f8b55bdbc2f4076c2af9cf51a'
     platform: ETH
+  - address: '0x80ae3b3847e4e8bd27a389f7686486cac9c3f3e8'
+    platform: MATIC
+  - address: '0xF3907Bc0FFF5Ff5aCf1E3dD7987005779C7bf57d'
+    platform: TBA
 crypto: true
 fiat: false
 id: SARCO

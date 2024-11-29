@@ -1,6 +1,8 @@
 contracts:
   - address: '0xc8cc4bBD33264dB465E4c9ea011F895D02505959'
     platform: BNB
+  - address: '0x5197Ab79b03F1479cBf391A2030b8883546Ff251'
+    platform: ETH
 crypto: true
 fiat: false
 id: SOR1

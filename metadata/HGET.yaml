@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7968bc6a03017ea2de509aaa816f163db0f35148'
     platform: ETH
+  - address: 2ueY1bLcPHfuFzEJq7yN1V2Wrpu8nkun9xG2TVCE1mhD
+    platform: SOL
 crypto: true
 fiat: false
 id: HGET

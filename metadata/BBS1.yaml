@@ -1,3 +1,10 @@
+contracts:
+  - address: BBST-33Q7
+    platform: KLV
+  - address: '1003413'
+    platform: TRX
+  - address: TB3CjdHfkraU7MJLSQESYPY4U2CMKXi3LB
+    platform: TRX
 crypto: true
 fiat: false
 id: BBS1

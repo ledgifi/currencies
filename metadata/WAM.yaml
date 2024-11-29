@@ -1,6 +1,12 @@
 contracts:
   - address: '0xebbaeff6217d22e7744394061d874015709b8141'
     platform: BNB
+  - address: WAMRUNESONBTC
+    platform: BTC
+  - address: WAM-510e42
+    platform: EGLD
+  - address: 7hdeo5QciUF8S2vfsx6uRJkdNVADBU3DDcXW4zjDcMin
+    platform: SOL
 crypto: true
 fiat: false
 id: WAM

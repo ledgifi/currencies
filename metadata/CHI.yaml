@@ -1,3 +1,14 @@
+contracts:
+  - address: '0xA64eCCe74F8CdB7a940766B71f1b108BAC69851a'
+    platform: ARB
+  - address: '0x22648c12acd87912ea1710357b1302c6a4154ebc'
+    platform: BNB
+  - address: '0x6DC02164d75651758aC74435806093E421b64605'
+    platform: ETH
+  - address: '0x7211ab649A4139561a152B787de52D257cbAAee9'
+    platform: GNO
+  - address: '0xE79feAAA457ad7899357E8E2065a3267aC9eE601'
+    platform: MATIC
 crypto: true
 fiat: false
 id: CHI

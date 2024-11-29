@@ -1,6 +1,8 @@
 contracts:
   - address: '0xCBF4D5efa82e32a9187385480A7c74cB062b956C'
     platform: ETH
+  - address: '0x45e7EAEdb8E3360f850c963c5419a5236e451217'
+    platform: TBA
 crypto: true
 fiat: false
 id: SATOSHI
