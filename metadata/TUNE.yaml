@@ -7,9 +7,9 @@ contracts:
     platform: ETH
 crypto: true
 fiat: false
-id: MATTER
+id: TUNE
 id_coinmarketcap: '8603'
 id_nomics: MATTER
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MATTER.jpg
-logoKey: currencies/matter.jpg
-name: AntiMatter (ERC-20)
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8603.png
+logoKey: currencies/tune.png
+name: Bitune
