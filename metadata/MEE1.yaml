@@ -1,0 +1,9 @@
+contracts:
+  - address: 0xe9c192ff55cffab3963c695cff6dbf9dad6aff2bb5ac19a6415cad26a81860d9::mee_coin::MeeCoin
+    platform: APT
+crypto: true
+fiat: false
+id: MEE1
+id_coinmarketcap: '22705'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22705.png
+name: Meeiro

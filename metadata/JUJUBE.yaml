@@ -1,0 +1,9 @@
+contracts:
+  - address: 0x88888888f2f4b1daeec09653917d5c5364b60d6d2a14eb649f5cf54b1277f9d9::jujube_coin::JUJUBE
+    platform: APT
+crypto: true
+fiat: false
+id: JUJUBE
+id_coinmarketcap: '23680'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23680.png
+name: JujubeFinance

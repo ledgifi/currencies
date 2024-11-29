@@ -1,0 +1,9 @@
+contracts:
+  - address: 0xebbf537bc3686be32fe22b498b42715641bbb209267be72236a352e0444cc5df::sui_pepe::SUI_PEPE
+    platform: SUI
+crypto: true
+fiat: false
+id: SPEPE1
+id_coinmarketcap: '25051'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25051.png
+name: SuiPepe

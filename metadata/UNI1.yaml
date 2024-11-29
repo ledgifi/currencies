@@ -1,0 +1,9 @@
+contracts:
+  - address: 0xaf9e228fd0292e2a27b4859bc57a2f3a9faedb9341b6307c84fef163e44790cc::uni::UNI
+    platform: SUI
+crypto: true
+fiat: false
+id: UNI1
+id_coinmarketcap: '33433'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33433.png
+name: UNI

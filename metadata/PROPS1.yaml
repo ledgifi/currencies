@@ -1,0 +1,9 @@
+contracts:
+  - address: 0xe50684a338db732d8fb8a3ac71c4b8633878bd0193bca5de2ebc852a83b35099::propbase_coin::PROPS
+    platform: APT
+crypto: true
+fiat: false
+id: PROPS1
+id_coinmarketcap: '28385'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28385.png
+name: Propbase

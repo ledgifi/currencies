@@ -1,0 +1,9 @@
+contracts:
+  - address: 0x474ceb8a677319c8a9d5c099bde4a197daabe98cf9b36599d2ac0fe0ccb21fcd::night_coin::NightCoin
+    platform: APT
+crypto: true
+fiat: false
+id: NIGHT1
+id_coinmarketcap: '34135'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34135.png
+name: Midnight Evergreen

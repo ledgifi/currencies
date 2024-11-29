@@ -1,0 +1,9 @@
+contracts:
+  - address: 0x76cb819b01abed502bee8a702b4c2d547532c12f25001c9dea795a5e631c26f1::fud::FUD
+    platform: SUI
+crypto: true
+fiat: false
+id: FUD
+id_coinmarketcap: '29051'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29051.png
+name: FUD

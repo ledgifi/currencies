@@ -1,0 +1,9 @@
+contracts:
+  - address: 0xed4504e791e1dad7bf93b41e089b4733c27f35fde505693e18186c2ba8e2e14b::suib::SUIB
+    platform: SUI
+crypto: true
+fiat: false
+id: SUIB
+id_coinmarketcap: '33281'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33281.png
+name: Suiba Inu

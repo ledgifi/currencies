@@ -1,0 +1,9 @@
+contracts:
+  - address: '0xdb298285fe4c5410b05390ca80e8fbe9de1f259b'
+    platform: ETH
+crypto: true
+fiat: false
+id: FOREX
+id_coinmarketcap: '11794'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11794.png
+name: handleFOREX

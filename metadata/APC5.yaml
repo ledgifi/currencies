@@ -1,0 +1,9 @@
+contracts:
+  - address: 0x777821c78442e17d82c3d7a371f42de7189e4248e529fe6eee6bca40ddbb::apcoin::ApCoin
+    platform: APT
+crypto: true
+fiat: false
+id: APC5
+id_coinmarketcap: '23226'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23226.png
+name: APass

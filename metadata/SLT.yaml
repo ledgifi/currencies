@@ -1,0 +1,9 @@
+contracts:
+  - address: 0x8b2df69c9766e18486c37e3cfc53c6ce6e9aa58bbc606a8a0a219f24cf9eafc1::sui_launch_token::SuiLaunchToken
+    platform: APT
+crypto: true
+fiat: false
+id: SLT
+id_coinmarketcap: '25247'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25247.png
+name: Sui Launch Token

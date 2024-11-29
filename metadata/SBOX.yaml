@@ -1,0 +1,9 @@
+contracts:
+  - address: 0xbff8dc60d3f714f678cd4490ff08cabbea95d308c6de47a150c79cc875e0c7c6::sbox::SBOX
+    platform: SUI
+crypto: true
+fiat: false
+id: SBOX
+id_coinmarketcap: '25457'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25457.png
+name: SUIBOXER
