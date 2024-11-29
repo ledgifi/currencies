@@ -1,10 +1,14 @@
 contracts:
-  - address: '0x05aaaa829afa407d83315cded1d45eb16025910c'
+  - address: '0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c'
     platform: ETH
+  - address: J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr
+    platform: SOL
+  - address: '0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C'
+    platform: TBA
 crypto: true
 fiat: false
 id: SPX
-id_coinmarketcap: '2940'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2940.png
+id_coinmarketcap: '28081'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28081.png
 logoKey: currencies/spx.png
-name: Sp8de
+name: SPX6900
