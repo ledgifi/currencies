@@ -1,17 +1,9 @@
 color: '#1a1f36'
-contracts:
-  - address: TOMOB-4BC
-    platform: BNB
-  - address: '0x05d3606d5c81eb9b7b18530995ec9b29da05faba'
-    platform: ETH
 crypto: true
 decimals: 8
 fiat: false
 id: TOMO
 id_binance: '244'
-id_coinmarketcap: '2570'
-id_coinpaprika: tomo-tomochain
-id_nomics: TOMO
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/tomo.svg
 logoKey: currencies/tomo.svg
 name: TomoChain (Viction)
