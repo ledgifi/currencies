@@ -7,10 +7,10 @@ contracts:
     platform: ETH
 crypto: true
 fiat: false
-id: DYP
+id: DYPOLD
 id_coinmarketcap: '8080'
 id_coinpaprika: dyp-defi-yield-protocol
 id_nomics: DYP
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DYP.jpg
-logoKey: currencies/dyp.jpg
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8080.png
+logoKey: currencies/dypold.png
 name: Dypius [Old]
