@@ -1,11 +1,11 @@
 contracts:
-  - address: '0x9d86b1b2554ec410eccffbf111a6994910111340'
+  - address: '0x4123a133ae3c521fd134d7b13a2dec35b56c2463'
     platform: ETH
 crypto: true
 fiat: false
 id: OPEN
-id_coinmarketcap: '2762'
-id_nomics: OPEN
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/open.png
+id_coinmarketcap: '10750'
+id_nomics: QRDO
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10750.png
 logoKey: currencies/open.png
-name: Open Platform
+name: Open Custody Protocol
