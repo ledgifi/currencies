@@ -1,10 +1,10 @@
-contracts:
-  - address: '0xdf347911910b6c9a4286ba8e2ee5ea4a39eb2134'
-    platform: ETH
-crypto: true
-fiat: false
+countryCode: bo
+crypto: false
+decimals: 2
+fiat: true
 id: BOB
-id_coinmarketcap: '2889'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2889.png
-logoKey: currencies/bob.png
-name: Bob's Repair
+localeNames:
+  en: Bolivian Boliviano
+  es: boliviano
+logo: https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/flags/4x3/bo.svg
+name: Bolivian Boliviano
