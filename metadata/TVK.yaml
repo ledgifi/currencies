@@ -1,17 +1,11 @@
 contracts:
   - address: '0xd084b83c305dafd76ae3e1b4e1f1fe2ecccb3988'
     platform: ETH
-  - address: '0x8DE5B80a0C1B02Fe4976851D030B36122dbb8624'
-    platform: ETH
-  - address: '0x8DE5B80a0C1B02Fe4976851D030B36122dbb8624'
-    platform: MATIC
 crypto: true
 decimals: 8
 fiat: false
 id: TVK
 id_binance: '602'
-id_coinmarketcap: '8037'
-id_nomics: TVK
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210226/21a272a5-175d-4c0d-b83d-028688532db3.png
 logoKey: currencies/tvk.png
 name: Virtua

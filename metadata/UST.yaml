@@ -1,40 +1,8 @@
-contracts:
-  - address: IBC/BE1BB42D4BE3C30D50B68D7C41DB4DFCE9678E8EF8C539F6E6A9345048894FCC
-    platform: ATOM
-  - address: '0x5ce9f0b6afb36135b5ddbf11705ceb65e634a9dc'
-    platform: AURORA
-  - address: '0xb599c3590F42f8F995ECfa0f85D2980B76862fc1'
-    platform: AVAX
-  - address: '0x23396cf899ca06c4472205fc903bdb4de249d6fc'
-    platform: BNB
-  - address: '0xa47c8bf37f92aBed4A126BDA807A7b7498661acD'
-    platform: ETH
-  - address: '0x846e4d51d7e2043c1a87e0ab7490b93fb940357b'
-    platform: FTM
-  - address: '0x085416975fe14c2a731a97ec38b9bf8135231f62'
-    platform: GLMR
-  - address: uusd
-    platform: LUNC
-  - address: '0x692597b009d13C4049a947CAB2239b7d6517875F'
-    platform: MATIC
-  - address: '0x224e64ec1bdce3870a6a6c777edd450454068fec'
-    platform: ONE
-  - address: IBC/BE1BB42D4BE3C30D50B68D7C41DB4DFCE9678E8EF8C539F6E6A9345048894FCC
-    platform: OSMO
-  - address: '0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2'
-    platform: ROSE
-  - address: secret129h4vu66y3gry6wzwa24rw0vtqjyn8tujuwtn9
-    platform: SCRT
-  - address: 9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i
-    platform: SOL
 crypto: true
 decimals: 8
 fiat: false
 id: UST
 id_binance: '832'
-id_coinmarketcap: '7129'
-id_coinpaprika: ust-terrausd
-id_nomics: UST
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20220329/b6cb4d0f-ab06-46a5-b860-e80140b8a222.png
 logoKey: currencies/ust.png
 name: TerraUSD

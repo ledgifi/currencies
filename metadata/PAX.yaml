@@ -1,16 +1,8 @@
-contracts:
-  - address: '0xb7f8cd00c5a06c0537e2abff0b58033d02e5e094'
-    platform: BNB
-  - address: '0x8e870d67f660d95d5be530380d0ec0bd388289e1'
-    platform: ETH
-  - address: HVbpJAQGNpkgBaYBZQBR1t7yFdvaYVp2vCQQfKKEN4tM
-    platform: SOL
 crypto: true
 decimals: 8
 fiat: false
 id: PAX
 id_binance: '202'
-id_coinmarketcap: '3330'
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/pax.svg
 logoKey: currencies/pax.svg
 name: Paxos Standard
