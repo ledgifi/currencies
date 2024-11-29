@@ -1,7 +1,12 @@
+contracts:
+  - address: '0x4507cEf57C46789eF8d1a19EA45f4216bae2B528'
+    platform: BNB
+  - address: '0x4507cEf57C46789eF8d1a19EA45f4216bae2B528'
+    platform: ETH
 crypto: true
 fiat: false
 id: TOKEN
-id_coinmarketcap: '612'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/612.png
+id_coinmarketcap: '28299'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28299.png
 logoKey: currencies/token.png
-name: SuperNET (TOKEN)
+name: TokenFi
