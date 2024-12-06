@@ -1,7 +1,12 @@
+contracts:
+  - address: '0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35'
+    platform: ETH
+  - address: token.sweat
+    platform: NEAR
 crypto: true
 fiat: false
 id: SWEAT
-id_nomics: SWEAT
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWEAT.png
+id_coinmarketcap: '21351'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21351.png
 logoKey: currencies/sweat.png
-name: SweatCoin
+name: Sweat Economy
