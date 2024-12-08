@@ -1,11 +1,10 @@
-color: '#b68900'
 contracts:
-  - address: '0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359'
+  - address: '0x3567aa22cd3ab9aef23d7e18ee0d7cf16974d7e6'
     platform: ETH
 crypto: true
 fiat: false
 id: SAI
-id_coinmarketcap: '2308'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2308.png
+id_coinmarketcap: '32836'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32836.png
 logoKey: currencies/sai.png
-name: 'Single Collateral DAI '
+name: Sharpe AI
