@@ -1,10 +1,11 @@
 contracts:
-  - address: 0x8993129d72e733985f7f1a00396cbd055bad6f817fee36576ce483c8bbb8b87b::sudeng::SUDENG
-    platform: SUI
+  - address: 3EkHyexJLGCvSxzn5umbtd9N69GoT4p5pfdLTFqCNP9Y
+    platform: SOL
 crypto: true
 fiat: false
 id: HIPPO1
-id_coinmarketcap: '33258'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33258.png
+id_coinmarketcap: '16144'
+id_nomics: HIPPO
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16144.png
 logoKey: currencies/hippo1.png
-name: sudeng
+name: Hippo Coin
