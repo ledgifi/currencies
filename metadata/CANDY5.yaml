@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xcd3673af09e76c74d889aabab68ca0645566a3a1'
-    platform: ETH
+  - address: '0x1963e04a845213d005cdf0e22a39f85bd5941390'
+    platform: BNB
 crypto: true
 fiat: false
 id: CANDY5
-id_coinmarketcap: '3102'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3102.png
+id_coinmarketcap: '9696'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9696.png
 logoKey: currencies/candy5.png
-name: Unicorn Candy Coin
+name: Rare Candy

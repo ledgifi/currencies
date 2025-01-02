@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xc0ec8caec55f37d47fbfa595727418868a21fd48'
+    platform: ETH
 crypto: true
 fiat: false
 id: EGC2
-id_coinmarketcap: '1148'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1148.png
+id_coinmarketcap: '6252'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6252.png
 logoKey: currencies/egc2.png
-name: EverGreenCoin
+name: EcoG9coin

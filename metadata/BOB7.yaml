@@ -1,10 +1,16 @@
 contracts:
-  - address: '0xdf347911910b6c9a4286ba8e2ee5ea4a39eb2134'
+  - address: '0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B'
+    platform: BNB
+  - address: '0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B'
     platform: ETH
+  - address: '0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b'
+    platform: MATIC
+  - address: '0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B'
+    platform: OP
 crypto: true
 fiat: false
 id: BOB7
-id_coinmarketcap: '2889'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2889.png
+id_coinmarketcap: '21882'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21882.png
 logoKey: currencies/bob7.png
-name: Bob's Repair
+name: BOB

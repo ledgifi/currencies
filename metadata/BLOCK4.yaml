@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x226d6d842d49b4d757bef1632053a198d5d9c8aa'
+    platform: ETH
 crypto: true
 fiat: false
 id: BLOCK4
-id_coinmarketcap: '707'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/707.png
+id_coinmarketcap: '28029'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28029.png
 logoKey: currencies/block4.png
-name: Blocknet
+name: Block Browser

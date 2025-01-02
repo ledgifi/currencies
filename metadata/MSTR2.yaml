@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x306227D964511A260D14563FbfA82AA75Db404b2'
+    platform: ETH
 crypto: true
 fiat: false
 id: MSTR2
-id_coinmarketcap: '7898'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7898.png
+id_coinmarketcap: '34245'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34245.png
 logoKey: currencies/mstr2.png
-name: MicroStrategy tokenized stock FTX
+name: MSTR

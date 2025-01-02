@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x76574c7b61b07ba14eace42e60cc73a08038da85'
+    platform: ETH
 crypto: true
 fiat: false
 id: ME4
-id_coinmarketcap: '33672'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33672.png
+id_coinmarketcap: '6026'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6026.png
 logoKey: currencies/me4.png
-name: Meme Me
+name: All.me

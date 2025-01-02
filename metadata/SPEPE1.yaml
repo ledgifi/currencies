@@ -1,10 +1,10 @@
 contracts:
-  - address: 0xebbf537bc3686be32fe22b498b42715641bbb209267be72236a352e0444cc5df::sui_pepe::SUI_PEPE
-    platform: SUI
+  - address: '0xfca466f2fa8e667a517c9c6cfa99cf985be5d9b1'
+    platform: MATIC
 crypto: true
 fiat: false
 id: SPEPE1
-id_coinmarketcap: '25051'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25051.png
+id_coinmarketcap: '24763'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24763.png
 logoKey: currencies/spepe1.png
-name: SuiPepe
+name: Saiyan PEPE

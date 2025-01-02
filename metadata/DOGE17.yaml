@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x5c57de207E5075FE3b6cbba74c4B0B4B520B31Ae'
-    platform: TBA
+  - address: '0xF016F07c9B0787a18C81dC562F32FFE70003cA3B'
+    platform: ETH
 crypto: true
 fiat: false
 id: DOGE17
-id_coinmarketcap: '34127'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34127.png
+id_coinmarketcap: '27301'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27301.png
 logoKey: currencies/doge17.png
-name: DogeElonTrumpPepeMaga
+name: DOGE 2.0

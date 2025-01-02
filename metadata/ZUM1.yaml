@@ -1,7 +1,14 @@
+contracts:
+  - address: '0x63dc3cA01ff09E714C8108Ffd6F8A3E0b8CD13e4'
+    platform: AVAX
+  - address: '0xe0b9bcd54bf8a730ea5d3f1ffce0885e911a502c'
+    platform: ETH
+  - address: '0x0191297c4Bf40B31031152c06FE804ba5af5fEc1'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ZUM1
-id_coinmarketcap: '3652'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3652.png
+id_coinmarketcap: '4826'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4826.png
 logoKey: currencies/zum1.png
-name: ZumCoin
+name: ZUM TOKEN

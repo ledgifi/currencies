@@ -1,6 +1,8 @@
 contracts:
   - address: '0x252b88d52c4701a4466671dca7b0f893d721b2ba'
     platform: CHZ
+  - address: '0xf17b1e028537aba705433f7cebdca881b5c5b79e'
+    platform: CHZ
 crypto: true
 fiat: false
 id: TIGRES

@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x1d987200df3b744cfa9c14f713f5334cb4bc4d5d'
-    platform: ARB
+  - address: '0xdd3B11eF34cd511a2DA159034a05fcb94D806686'
+    platform: ETH
+  - address: '0xb3e3c89b8d9c88b1fe96856e382959ee6291ebba'
+    platform: TBA
 crypto: true
 fiat: false
 id: REKT
-id_coinmarketcap: '24633'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24633.png
+id_coinmarketcap: '34434'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34434.png
 logoKey: currencies/rekt.png
-name: Rekt (rektarb.xyz)
+name: Rekt (rektcoin.com)

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x7f3e4dbd84f5c8a5f15ef927557748cf2fbb77af'
-    platform: ETH
+  - address: '0x2b45e21C35A33C58E4C5ce82A82466b0754Fd154'
+    platform: ARB
 crypto: true
 fiat: false
 id: BRO7
-id_coinmarketcap: '26871'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26871.png
+id_coinmarketcap: '22209'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22209.png
 logoKey: currencies/bro7.png
-name: Broccoli
+name: Brokkr

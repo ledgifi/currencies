@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x8fC01E6CbDfFaf09B54F423f9Bb1F856b22e47b2'
+    platform: ETH
 crypto: true
 fiat: false
 id: OBTC1
-id_coinmarketcap: '21805'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21805.png
+id_coinmarketcap: '3152'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3152.png
 logoKey: currencies/obtc1.png
-name: Optical Bitcoin
+name: Obitan Chain

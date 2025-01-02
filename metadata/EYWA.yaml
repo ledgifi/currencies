@@ -1,6 +1,12 @@
 contracts:
-  - address: '0xB0aFa681EaD9219D25c57bD17bb207a3afcc4AA1'
+  - address: '0x7a10f506e4c7658e6ad15fdf0443d450b7fa80d7'
+    platform: ARB
+  - address: '0x7A10F506E4c7658e6AD15Fdf0443d450B7FA80D7'
+    platform: BNB
+  - address: '0x8cb8C4263EB26b2349d74ea2cB1B27bc40709e12'
     platform: ETH
+  - address: '0x7A10F506E4c7658e6AD15Fdf0443d450B7FA80D7'
+    platform: FTM
 crypto: true
 fiat: false
 id: EYWA

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x6a3ae4ee0a8aa0cacca0b4aa0cc861f64addf5bf'
-    platform: BNB
+  - address: '0x3ec15c4745e21ab3831d1f51c492e3b5582d6239'
+    platform: ETH
 crypto: true
 fiat: false
 id: PICKLE3
-id_coinmarketcap: '12783'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12783.png
+id_coinmarketcap: '28027'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28027.png
 logoKey: currencies/pickle3.png
-name: MR PICKLE NFT
+name: PICKLE

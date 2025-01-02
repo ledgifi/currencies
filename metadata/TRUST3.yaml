@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xD4074c1E48E11615fD1cfE8cbE691F5ab944aAa6'
-    platform: ETH
+  - address: '0x2dBd86A424a815AD2A08a2D8dAE07007fed6Dc91'
+    platform: BNB
 crypto: true
 fiat: false
 id: TRUST3
-id_coinmarketcap: '25313'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25313.png
+id_coinmarketcap: '9206'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9206.png
 logoKey: currencies/trust3.png
-name: TRUST
+name: Trustworks

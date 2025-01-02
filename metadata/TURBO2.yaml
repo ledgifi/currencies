@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x78e927fcfb062599d8295163f0808a6fcda7db24'
-    platform: ETH
+  - address: '0xa65B05db629860ab3b3697824f541664f13ADE91'
+    platform: TBA
 crypto: true
 fiat: false
 id: TURBO2
-id_coinmarketcap: '33367'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33367.png
+id_coinmarketcap: '34887'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34887.png
 logoKey: currencies/turbo2.png
-name: Turbo Browser
+name: Turbo On Base

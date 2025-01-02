@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x311E015E2e255Dd14edDc4a2107e39649dc81c5D'
+  - address: '0x5f0366c9962193fa774cdce9602195593b49f23c'
     platform: BNB
+  - address: '0x5f0366c9962193fa774cdce9602195593b49f23c'
+    platform: ETH
 crypto: true
 fiat: false
 id: FLASH4
-id_coinmarketcap: '16978'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16978.png
+id_coinmarketcap: '13862'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13862.png
 logoKey: currencies/flash4.png
-name: Flash Technologies
+name: Flashloans.com

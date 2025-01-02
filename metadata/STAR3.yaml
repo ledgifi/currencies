@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xB914e7A183AbCD46300584DA828f62A39516F33b'
+    platform: ONE
 crypto: true
 fiat: false
 id: STAR3
-id_coinmarketcap: '8593'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8593.png
+id_coinmarketcap: '19477'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19477.png
 logoKey: currencies/star3.png
-name: FileStar
+name: Speed Star STAR

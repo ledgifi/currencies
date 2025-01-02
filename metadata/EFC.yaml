@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xabee61f8ff0eadd8d4ee87092792aaf2d9b2ca8e'
+    platform: CHZ
   - address: '0x2cd13ACf6F71435896Ba906Ba8521Dd8AAE63e00'
     platform: CHZ
 crypto: true

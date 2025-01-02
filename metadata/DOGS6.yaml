@@ -1,10 +1,10 @@
 contracts:
-  - address: DPekQ4tTrEU9mKhFbQJAjGdZbxK5mNHPa37QvuewG9v4
-    platform: SOL
+  - address: '0x093A4b0953aCeBd68129231E40f6a05542b50828'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOGS6
-id_coinmarketcap: '32592'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32592.png
+id_coinmarketcap: '33660'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33660.png
 logoKey: currencies/dogs6.png
-name: BinanceDog On Sol
+name: Golden Dog

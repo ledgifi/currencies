@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xbb1f24c0c1554b9990222f036b0aad6ee4caec29'
+    platform: ETH
 crypto: true
 fiat: false
 id: SOUL4
-id_coinmarketcap: '1258'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1258.png
+id_coinmarketcap: '3501'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3501.png
 logoKey: currencies/soul4.png
-name: SoulCoin
+name: CryptoSoul

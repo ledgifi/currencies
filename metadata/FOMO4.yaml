@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x5eef8c4320e2bf8d1e6231a31500fd7a87d02985'
-    platform: BNB
+  - address: '0x44a6e0be76e1d9620a7f76588e4509fe4fa8e8c8'
+    platform: MATIC
 crypto: true
 fiat: false
 id: FOMO4
-id_coinmarketcap: '9646'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9646.png
+id_coinmarketcap: '19261'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19261.png
 logoKey: currencies/fomo4.png
-name: FOMO LAB
+name: Aavegotchi FOMO

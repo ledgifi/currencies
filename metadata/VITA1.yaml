@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xb2d8e647ee55cc58a2b408e38f433238498853da'
-    platform: ETH
+  - address: AqsDKZdUTBxWPZZDsZ44aUw1RVGpk9mXdrZ13v7KKhvY
+    platform: SOL
 crypto: true
 fiat: false
 id: VITA1
-id_coinmarketcap: '4622'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4622.png
+id_coinmarketcap: '34528'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34528.png
 logoKey: currencies/vita1.png
-name: VITA
+name: VitaDAO

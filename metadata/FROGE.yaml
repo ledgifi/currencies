@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x12306cAA3FbA0F979f8e6d26D031389fC121cF81'
-    platform: BNB
+  - address: '0xcAb254f1a32343f11aB41fbdE90eCB410cDe348a'
+    platform: ETH
 crypto: true
 fiat: false
 id: FROGE
-id_coinmarketcap: '28553'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28553.png
+id_coinmarketcap: '28589'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28589.png
 logoKey: currencies/froge.png
-name: Froge (BSC)
+name: Froge (ETH)

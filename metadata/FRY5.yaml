@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x8cA91f11D444C790abc928ACfDA64c2baee0E5f5'
-    platform: BNB
+  - address: '0x1C5926792D7BC71cD7f3A08Ee9Cb93D949f0391d'
+    platform: CORE
 crypto: true
 fiat: false
 id: FRY5
-id_coinmarketcap: '25978'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25978.png
+id_coinmarketcap: '23739'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23739.png
 logoKey: currencies/fry5.png
-name: Frytoken
+name: Forestry

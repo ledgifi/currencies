@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x5d48f293baed247a2d0189058ba37aa238bd4725'
-    platform: ETH
+  - address: '0x93dfc1e09b7164bafd4860963b6d94cbc4284774'
+    platform: BNB
 crypto: true
 fiat: false
 id: NCC1
-id_coinmarketcap: '3016'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3016.png
+id_coinmarketcap: '9728'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9728.png
 logoKey: currencies/ncc1.png
-name: NeuroChain
+name: NoCapCoin

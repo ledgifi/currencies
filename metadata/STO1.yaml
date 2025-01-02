@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xcb39c3502415152b2ec90ff07ee18cc94f681a72'
-    platform: ETH
+  - address: '0x15512e654ddc92273dceac1399e09c7fb9def476'
+    platform: KAIA
 crypto: true
 fiat: false
 id: STO1
-id_coinmarketcap: '4162'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4162.png
+id_coinmarketcap: '34229'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34229.png
 logoKey: currencies/sto1.png
-name: Storeum
+name: STO Operating System

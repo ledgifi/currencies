@@ -1,10 +1,10 @@
 contracts:
-  - address: '230946361'
-    platform: ALGO
+  - address: '0xDfDec49462f7D3C3b0A48E729F77A0645CDFA7c0'
+    platform: BNB
 crypto: true
 fiat: false
 id: GEMS3
-id_coinmarketcap: '14094'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14094.png
+id_coinmarketcap: '9849'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9849.png
 logoKey: currencies/gems3.png
-name: AlgoGems
+name: Safegem

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x020c710646e23ab868dbe5b88004892797fe4efb'
-    platform: ETH
+  - address: '0x83c3b5a9a9d1f1438f2505ba972366eecfc4488e'
+    platform: KAIA
 crypto: true
 fiat: false
 id: GOLF1
-id_coinmarketcap: '1375'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1375.png
+id_coinmarketcap: '10053'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10053.png
 logoKey: currencies/golf1.png
-name: Golfcoin
+name: Golfrochain

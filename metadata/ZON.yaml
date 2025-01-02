@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x25D29fA7Cf5cD5a11102b793F1a0149546e026e4'
+    platform: ETH
   - address: '0x79d745178BC271A1f29F8fbE9251dfC512db842C'
     platform: XDC
 crypto: true

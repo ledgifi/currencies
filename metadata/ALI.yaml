@@ -5,6 +5,8 @@ contracts:
     platform: ETH
   - address: '0xbfc70507384047aa74c29cdc8c5cb88d0f7213ac'
     platform: MATIC
+  - address: 9wvorGtBJ8gyLorFTmwXWcymPoGVUBn6MRzHwFpCdCeC
+    platform: SOL
   - address: '0x97c806e7665d3afd84a8fe1837921403d59f3dcc'
     platform: TBA
 crypto: true

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x55296f69f40ea6d20e478533c15a6b08b654e758'
     platform: ETH
+  - address: FCZKwHd9Qn1EQj8fFuNLB8dupAWCoJJNePbMqyHhS77b
+    platform: SOL
 crypto: true
 fiat: false
 id: XYO

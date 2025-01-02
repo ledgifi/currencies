@@ -1,10 +1,10 @@
 contracts:
-  - address: 2pWmCG9RDWAzsHYJKGhwnN83KsWR8BbHtMvERKzPtLTb
-    platform: SOL
+  - address: 0x01d022d585ea528404d2ea250b01098ed62348c0a52bf934d797cec374261d7d::desci::DESCI
+    platform: SUI
 crypto: true
 fiat: false
 id: DESCI
-id_coinmarketcap: '34188'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34188.png
+id_coinmarketcap: '34882'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34882.png
 logoKey: currencies/desci.png
-name: DeSci Meme
+name: SUI Desci Agents

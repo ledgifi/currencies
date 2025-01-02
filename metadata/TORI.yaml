@@ -1,6 +1,8 @@
 contracts:
   - address: ibc/EB7FB9C8B425F289B63703413327C2051030E848CE4EAAEA2E51199D6D39D3EC
     platform: OSMO
+  - address: '0x809c55916bb542c1419724022B3F0162087E3C88'
+    platform: TBA
 crypto: true
 fiat: false
 id: TORI

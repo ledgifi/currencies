@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x9D0211C1B1A217A574cB55b0E9c367e56DEBEAe0'
-    platform: BNB
+  - address: '0xBA5E66FB16944Da22A62Ea4FD70ad02008744460'
+    platform: TBA
 crypto: true
 fiat: false
 id: TURBO3
-id_coinmarketcap: '27706'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27706.png
+id_coinmarketcap: '34733'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34733.png
 logoKey: currencies/turbo3.png
-name: TurboDEX
+name: Based Turbo

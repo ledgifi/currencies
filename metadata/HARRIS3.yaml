@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x91221a69a30c84a4f89c66a3475e36368de6131f'
-    platform: ETH
-  - address: 6g2kwCBgnDhWCxk3V81q2FKUpk8uJ2cYBL2SuN5NSgSg
+  - address: Bk6xRfMDXmcBXFFLQxQEqn2CNsthKcG7gQQyn4SyZxDj
     platform: SOL
 crypto: true
 fiat: false
 id: HARRIS3
-id_coinmarketcap: '32577'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32577.png
+id_coinmarketcap: '32444'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32444.png
 logoKey: currencies/harris3.png
-name: Kamala (harris.cool)
+name: Kamala Harris (kamalaharristoken.net)

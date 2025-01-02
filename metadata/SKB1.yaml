@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x4af328c52921706dcb739f25786210499169afe6'
+    platform: ETH
 crypto: true
 fiat: false
 id: SKB1
-id_coinmarketcap: '1095'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1095.png
+id_coinmarketcap: '2742'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2742.png
 logoKey: currencies/skb1.png
-name: SkullBuzz
+name: Sakura Bloom

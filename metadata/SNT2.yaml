@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x5D33f65Cc32CAB4065074E8fb1c08Df727e7F7cB'
-    platform: ETC
-  - address: '0x69d17c151ef62421ec338a0c92ca1c1202a427ec'
-    platform: FTM
+  - address: '0x97329Bce201D86bbCBeebBB3B03256ABDF7b7De6'
+    platform: BNB
 crypto: true
 fiat: false
 id: SNT2
-id_coinmarketcap: '15399'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15399.png
+id_coinmarketcap: '16374'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16374.png
 logoKey: currencies/snt2.png
-name: Supernova Token
+name: Shib Ninja Token

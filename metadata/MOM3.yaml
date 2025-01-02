@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xc9865d1f303215a8d68c47c1effd3bf8e6d5abd8'
-    platform: ETH
+  - address: '0x211fa9e7e390c29b0ab1a9248949a0ab716c4154'
+    platform: BNB
 crypto: true
 fiat: false
 id: MOM3
-id_coinmarketcap: '16146'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16146.png
+id_coinmarketcap: '15557'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15557.png
 logoKey: currencies/mom3.png
-name: Mongoose Moon
+name: Mother of Memes

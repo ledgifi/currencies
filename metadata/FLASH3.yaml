@@ -1,12 +1,7 @@
-contracts:
-  - address: '0x5f0366c9962193fa774cdce9602195593b49f23c'
-    platform: BNB
-  - address: '0x5f0366c9962193fa774cdce9602195593b49f23c'
-    platform: ETH
 crypto: true
 fiat: false
 id: FLASH3
-id_coinmarketcap: '13862'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13862.png
+id_coinmarketcap: '1755'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1755.png
 logoKey: currencies/flash3.png
-name: Flashloans.com
+name: Flash

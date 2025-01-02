@@ -1,6 +1,10 @@
 contracts:
   - address: 160a880d9fc45380737cb7e57ff859763230aab28b3ef6a84007bfcc4d495241
     platform: ADA
+  - address: '0x7ce4bfc3a66d0fcf5d91dd846911c15c3ff82ecc'
+    platform: BNB
+  - address: '0xf5207ac91c9e7ec7ebb03e93cbcbcad10878ac79'
+    platform: ETH
 crypto: true
 fiat: false
 id: MIRA

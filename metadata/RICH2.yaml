@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x3df3B11d3fE27242d4A74F7340Baa17f73912c52'
+  - address: '0x0d94335595ae842890bec091ef8c47d62f545d99'
     platform: BNB
 crypto: true
 fiat: false
 id: RICH2
-id_coinmarketcap: '9648'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9648.png
+id_coinmarketcap: '8546'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8546.png
 logoKey: currencies/rich2.png
-name: Richie
+name: Rich Maker

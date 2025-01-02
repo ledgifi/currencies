@@ -1,12 +1,7 @@
-contracts:
-  - address: '0x68a3637bA6E75c0f66B61A42639c4e9fCD3D4824'
-    platform: ETH
-  - address: '0x5b917D4fb9B27591353211c32F1552A527987AFC'
-    platform: GNO
 crypto: true
 fiat: false
 id: MOON4
-id_coinmarketcap: '7017'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7017.png
+id_coinmarketcap: '89'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/89.png
 logoKey: currencies/moon4.png
-name: MoonSwap
+name: Mooncoin

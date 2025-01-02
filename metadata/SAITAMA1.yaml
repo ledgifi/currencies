@@ -1,10 +1,10 @@
 contracts:
-  - address: 6ifoT71voZGG1ZFTG8VdKhqxckhVx8tetJwxtWyZYo98
-    platform: SOL
+  - address: '0x8b3192f5eebd8579568a2ed41e6feb402f93f73f'
+    platform: ETH
 crypto: true
 fiat: false
 id: SAITAMA1
-id_coinmarketcap: '33114'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33114.png
+id_coinmarketcap: '10498'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10498.png
 logoKey: currencies/saitama1.png
-name: Saitama Wolf Pack
+name: Saitama V1

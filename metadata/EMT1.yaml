@@ -1,14 +1,10 @@
 contracts:
-  - address: emanateoneos
-    platform: EOS
-  - address: '0x893700a1a86ee68b92536bf6fd4d3200d7369f7d'
-    platform: ETH
-  - address: '0x3fB256CFefedb6A54De7465c0EE86dC574AE464D'
+  - address: '0x708383ae0e80E75377d664E4D6344404dede119A'
     platform: MATIC
 crypto: true
 fiat: false
 id: EMT1
-id_coinmarketcap: '3993'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3993.png
+id_coinmarketcap: '34348'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34348.png
 logoKey: currencies/emt1.png
-name: Emanate
+name: EarthMeta

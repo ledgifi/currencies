@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xe177295fa0142331abdc8b106832789e0c0fe77b'
-    platform: BNB
+  - address: '0x22987407fd1fc5a971e3fda3b3e74c88666cda91'
+    platform: ETH
 crypto: true
 fiat: false
 id: SRT1
-id_coinmarketcap: '24185'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24185.png
+id_coinmarketcap: '19517'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19517.png
 logoKey: currencies/srt1.png
-name: Solidray (new)
+name: Smart Reward Token

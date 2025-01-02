@@ -1,10 +1,12 @@
 contracts:
-  - address: '0xb26F58f0b301a077cFA779c0B0f8281C7f936Ac0'
-    platform: METIS
+  - address: '0xbd83010eb60f12112908774998f65761cf9f6f9a'
+    platform: BNB
+  - address: '0xc55c2175e90a46602fd42e931f62b3acc1a013ca'
+    platform: ETH
 crypto: true
 fiat: false
 id: STARS5
-id_coinmarketcap: '17376'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17376.png
+id_coinmarketcap: '8996'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8996.png
 logoKey: currencies/stars5.png
-name: Starstream
+name: Mogul Productions

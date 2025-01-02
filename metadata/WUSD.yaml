@@ -1,16 +1,8 @@
 contracts:
-  - address: '0x386601d1e55c48e759bbf57c56015aad0d7f1b56'
-    platform: ARB
-  - address: '0x5c873454ba84ada3d8a5f7b535a3a21a2eb8d7cb'
-    platform: BNB
-  - address: '0xb6667b04Cb61Aa16B59617f90FFA068722Cf21dA'
+  - address: '0x7Cd017ca5ddb86861FA983a34b5F495C6F898c41'
     platform: ETH
-  - address: '0xA04C86c411320444d4A99d44082e057772E8cF96'
+  - address: '0x7Cd017ca5ddb86861FA983a34b5F495C6F898c41'
     platform: MATIC
-  - address: EczfGov7Mia54FLP6Stz3kttWsUA2fv4vtDTKLuyAPDN
-    platform: SOL
-  - address: '0x890a40bfae3bf25a5e7c50a31505774ee7a5d33b'
-    platform: TBA
 crypto: true
 fiat: false
 id: WUSD

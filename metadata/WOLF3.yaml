@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x8365332d4baf69bc24ca2401b90c3853ab9f818e'
-    platform: ETH
+  - address: '0x4f94b8aef08c92fefe416af073f1df1e284438ec'
+    platform: AVAX
 crypto: true
 fiat: false
 id: WOLF3
-id_coinmarketcap: '28722'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28722.png
+id_coinmarketcap: '28746'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28746.png
 logoKey: currencies/wolf3.png
-name: Wolf of Wall Street
+name: LANDWOLF (AVAX)

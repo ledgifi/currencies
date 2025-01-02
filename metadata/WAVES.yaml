@@ -1,5 +1,11 @@
 color: '#0155ff'
 contracts:
+  - address: '0xcbc86b26e0BD751683ecF2581B21f7cE4a224042'
+    platform: BNB
+  - address: '0x7296eaA225804451a91616b29D040cAB05435f0d'
+    platform: ETH
+  - address: 4XEjo9GZkKom3E26NQiidJLawwM9kbt76gUMDdGe1meQ
+    platform: SOL
   - address: WAVES
     platform: WAVES
 crypto: true

@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xf5ce0c13f9287d37adea719628821e4c20edaa2a'
+    platform: BNB
 crypto: true
 fiat: false
 id: LOG
-id_coinmarketcap: '859'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/859.png
+id_coinmarketcap: '21744'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21744.png
 logoKey: currencies/log.png
-name: Woodcoin
+name: LOGOS

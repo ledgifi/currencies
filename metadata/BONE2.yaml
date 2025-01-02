@@ -1,10 +1,10 @@
 contracts:
-  - address: D3eyBjfgJMPHZyYDRtbf1cSxeLiNwKumwHzQK3h3TRRq
-    platform: SOL
+  - address: '0x5C84bc60a796534bfeC3439Af0E6dB616A966335'
+    platform: ETH
 crypto: true
 fiat: false
 id: BONE2
-id_coinmarketcap: '19086'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19086.png
+id_coinmarketcap: '5915'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5915.png
 logoKey: currencies/bone2.png
-name: Bulldog Billionaires
+name: Bone

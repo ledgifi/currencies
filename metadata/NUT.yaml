@@ -5,6 +5,8 @@ contracts:
     platform: ETH
   - address: 3KkQ3AaMs2nZoKvYzGnh5bwRocAGFFFzDWUR4hLT7JpF
     platform: SOL
+  - address: '0x6A9431b9ecce9dDe3f7a32391d5b61C5AD11e4A0'
+    platform: TBA
 crypto: true
 fiat: false
 id: NUT

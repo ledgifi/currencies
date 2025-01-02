@@ -1,10 +1,12 @@
 contracts:
-  - address: '0xf7a0b80681ec935d6dd9f3af9826e68b99897d6d'
-    platform: CORE
+  - address: f070e83b52f97d2f9dc0d70968fe023f5abded21bb0959e16f030c6743b9b60ai0
+    platform: BTC
+  - address: '0x40a9a694197a0b4b92f2aad48da6bc1b6ff194e9'
+    platform: ETH
 crypto: true
 fiat: false
 id: LFG1
-id_coinmarketcap: '23712'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23712.png
+id_coinmarketcap: '26915'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26915.png
 logoKey: currencies/lfg1.png
-name: LFGSwap Finance (Core)
+name: LFG

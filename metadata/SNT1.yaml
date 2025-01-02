@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x78ba134c3ace18e69837b01703d07f0db6fb0a60'
-    platform: ETH
+  - address: '0x5D33f65Cc32CAB4065074E8fb1c08Df727e7F7cB'
+    platform: ETC
+  - address: '0x69d17c151ef62421ec338a0c92ca1c1202a427ec'
+    platform: FTM
 crypto: true
 fiat: false
 id: SNT1
-id_coinmarketcap: '30033'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30033.png
+id_coinmarketcap: '15399'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15399.png
 logoKey: currencies/snt1.png
-name: Sentinel Bot Ai
+name: Supernova Token

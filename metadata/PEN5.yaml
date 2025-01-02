@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x3a6b593fb353fd5a3bb68ea120f3ba4f78637c30'
-    platform: BNB
+  - address: '0x9008D70A5282a936552593f410AbcBcE2F891A97'
+    platform: MATIC
 crypto: true
 fiat: false
 id: PEN5
-id_coinmarketcap: '21056'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21056.png
+id_coinmarketcap: '20707'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20707.png
 logoKey: currencies/pen5.png
-name: Pecora Network
+name: Penrose Finance

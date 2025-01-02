@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x5A272C478609F448C566c7155577f6432fdd8B79'
-    platform: FTM
+  - address: '0xc0994af94fee0361a1e1e1ccf72bce19d5fd86fb'
+    platform: BNB
 crypto: true
 fiat: false
 id: RICH4
-id_coinmarketcap: '18062'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18062.png
+id_coinmarketcap: '10863'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10863.png
 logoKey: currencies/rich4.png
-name: Rich DAO
+name: RichCity

@@ -1,16 +1,10 @@
 contracts:
-  - address: '0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B'
-    platform: BNB
-  - address: '0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B'
-    platform: ETH
-  - address: '0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b'
-    platform: MATIC
-  - address: '0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B'
-    platform: OP
+  - address: 7pail-xaaaa-aaaas-aabmq-cai
+    platform: ICP
 crypto: true
 fiat: false
 id: BOB4
-id_coinmarketcap: '21882'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21882.png
+id_coinmarketcap: '33308'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33308.png
 logoKey: currencies/bob4.png
 name: BOB

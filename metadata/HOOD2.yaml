@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x1eb747cace61eab366c98a18617b7e210d03818e'
-    platform: ARB
+  - address: '0x7321a13bbf58220bca94a605eff3e24daee86376'
+    platform: ETH
 crypto: true
 fiat: false
 id: HOOD2
-id_coinmarketcap: '27601'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27601.png
+id_coinmarketcap: '28255'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28255.png
 logoKey: currencies/hood2.png
-name: Hood AI
+name: ROBIN HOOD

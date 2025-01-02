@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x4cfd8BEfDcD6bFc146FE214FA4b5Bbe731a9c269'
+    platform: TBA
 crypto: true
 fiat: false
 id: BITZ
-id_coinmarketcap: '842'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/842.png
+id_coinmarketcap: '34454'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34454.png
 logoKey: currencies/bitz.png
-name: Bitz
+name: MARBITZ

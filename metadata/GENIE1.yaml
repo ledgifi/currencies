@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x56978e609f2cab06f77c5c8fd75166fcd8f09bd8'
-    platform: ETH
+  - address: '0xFB8563531c7e86d2745342062C69CDeb8b0737DB'
+    platform: BNB
 crypto: true
 fiat: false
 id: GENIE1
-id_coinmarketcap: '27275'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27275.png
+id_coinmarketcap: '25828'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25828.png
 logoKey: currencies/genie1.png
-name: GenieBot
+name: The Genie

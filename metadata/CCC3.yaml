@@ -1,7 +1,12 @@
+contracts:
+  - address: CCCX-10D
+    platform: BNB
+  - address: '0xbf59e6fe2bc4ee8d303e493390b4aacab16fcc91'
+    platform: ETH
 crypto: true
 fiat: false
 id: CCC3
-id_coinmarketcap: '840'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/840.png
+id_coinmarketcap: '2897'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2897.png
 logoKey: currencies/ccc3.png
-name: Chococoin
+name: Clipper Coin

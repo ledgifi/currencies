@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x58d471468FBC1193E499a3dCFCA1d25116198C63'
-    platform: ETH
+  - address: 6JdcMdhqgCtcP4U9tieRqmKLhPLxRMLC67QfmdXAJBvZ
+    platform: SOL
 crypto: true
 fiat: false
 id: KITTY3
-id_coinmarketcap: '30489'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30489.png
+id_coinmarketcap: '14382'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14382.png
 logoKey: currencies/kitty3.png
-name: Kitty Token
+name: Kitty Solana

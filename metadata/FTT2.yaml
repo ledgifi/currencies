@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x2aec18c5500f21359ce1bea5dc1777344df4c0dc'
+  - address: '0x174bea2cb8b20646681e855196cf34fcecec2489'
     platform: ETH
 crypto: true
 fiat: false
 id: FTT2
-id_coinmarketcap: '3168'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3168.png
+id_coinmarketcap: '5984'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5984.png
 logoKey: currencies/ftt2.png
-name: FarmaTrust
+name: FreeTip

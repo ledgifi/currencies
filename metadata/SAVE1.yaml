@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x159802fbe16aa6a0863a56a18dd41afce546c93e'
-    platform: BNB
+  - address: '0xc1eecf1f4af8eb9a2a19f6c26b434aa96ce859e1'
+    platform: ETH
 crypto: true
 fiat: false
 id: SAVE1
-id_coinmarketcap: '9857'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9857.png
+id_coinmarketcap: '5789'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5789.png
 logoKey: currencies/save1.png
-name: SaveTheWorld
+name: SaveToken

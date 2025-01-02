@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x8b227d72570d3ead66014bca8305cbef7f90d1ee'
-    platform: ETH
+  - address: '0x84a238aa527181f2354a40e9a1c4c3eb4a01bb8a'
+    platform: BNB
 crypto: true
 fiat: false
 id: LIZA1
-id_coinmarketcap: '27591'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27591.png
+id_coinmarketcap: '12597'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12597.png
 logoKey: currencies/liza1.png
-name: Liza
+name: Liza Coin

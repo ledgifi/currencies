@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x893535ED1b5C6969E62a10bABfED4F5fF8373278'
-    platform: BNB
+  - address: 2kMpEJCZL8vEDZe7YPLMCS9Y3WKSAMedXBn7xHPvsWvi
+    platform: SOL
 crypto: true
 fiat: false
 id: MOON14
-id_coinmarketcap: '26189'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26189.png
+id_coinmarketcap: '25469'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25469.png
 logoKey: currencies/moon14.png
-name: Cakemoon
+name: SolarMoon

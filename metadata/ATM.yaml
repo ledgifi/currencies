@@ -1,5 +1,8 @@
+color: '#346fce'
 contracts:
   - address: '0x4c3E460b8e8285DE57c8B1B2B688847B995B71D6'
+    platform: CHZ
+  - address: '0xe9506F70be469d2369803Ccf41823713BAFe8154'
     platform: CHZ
 crypto: true
 decimals: 8

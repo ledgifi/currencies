@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xd966cc309898847ded8741deb877d16a7fae4d2c'
-    platform: BNB
+  - address: '0x243c56E8e740025aC6b112D7B9Af59be8eEF6E33'
+    platform: ETH
 crypto: true
 fiat: false
 id: LKT
-id_coinmarketcap: '23076'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23076.png
+id_coinmarketcap: '9030'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9030.png
 logoKey: currencies/lkt.png
-name: Lux King Tech
+name: Lukutex

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x24DCD565BA10C64daf1e9fAEdb0F09a9053C6d07'
-    platform: BNB
+  - address: '0xe5D2e173B120341face9e9970889C9FE64081FfD'
+    platform: ETH
 crypto: true
 fiat: false
 id: BLU4
-id_coinmarketcap: '26700'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26700.png
+id_coinmarketcap: '22515'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22515.png
 logoKey: currencies/blu4.png
-name: BLU
+name: Bluejay Finance

@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x30672AE2680c319ec1028B69670A4a786baA0f35'
+    platform: ETH
 crypto: true
 fiat: false
 id: NS2
-id_coinmarketcap: '8633'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8633.png
+id_coinmarketcap: '29656'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29656.png
 logoKey: currencies/ns2.png
-name: Nodestats
+name: NodeSynapse

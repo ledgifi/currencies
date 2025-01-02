@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x5A3153ae94E9FE2ECfdBD7BA7284C51560cb7aEe'
+    platform: ETH
 crypto: true
 fiat: false
 id: SIDE1
-id_coinmarketcap: '22940'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22940.png
+id_coinmarketcap: '23454'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23454.png
 logoKey: currencies/side1.png
-name: Side Protocol
+name: Side.xyz

@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xd8dD38cA016F3E0b3Bc545d33CcE72AF274Ce075'
+    platform: ETH
 crypto: true
 fiat: false
 id: SWING
-id_coinmarketcap: '1085'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1085.png
+id_coinmarketcap: '14281'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14281.png
 logoKey: currencies/swing.png
-name: Swing
+name: Swing.xyz

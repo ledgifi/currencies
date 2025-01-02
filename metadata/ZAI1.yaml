@@ -1,10 +1,18 @@
 contracts:
-  - address: '0x9d1233cc46795E94029fDA81aAaDc1455D510f15'
+  - address: '0x69000dFD5025E82f48Eb28325A2B88a241182CEd'
+    platform: ARB
+  - address: '0x69000dFD5025E82f48Eb28325A2B88a241182CEd'
+    platform: BNB
+  - address: '0x69000dFD5025E82f48Eb28325A2B88a241182CEd'
     platform: ETH
+  - address: '0x69000dFD5025E82f48Eb28325A2B88a241182CEd'
+    platform: OKB
+  - address: '0x69000dFD5025E82f48Eb28325A2B88a241182CEd'
+    platform: TBA
 crypto: true
 fiat: false
 id: ZAI1
-id_coinmarketcap: '8192'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8192.png
+id_coinmarketcap: '32824'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32824.png
 logoKey: currencies/zai1.png
-name: Zero Collateral Dai
+name: ZAI Stablecoin

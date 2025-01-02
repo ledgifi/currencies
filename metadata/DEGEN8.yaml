@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xCa7013bA4Bf76bCdc3ffC71735896682644f47C2'
-    platform: ETH
+  - address: '0xA7b47575A9b4c2EbF3e6f9ad1d84932bD7AF380F'
+    platform: AVAX
 crypto: true
 fiat: false
 id: DEGEN8
-id_coinmarketcap: '27968'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27968.png
+id_coinmarketcap: '18704'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18704.png
 logoKey: currencies/degen8.png
-name: Degen Token
+name: DegenFi

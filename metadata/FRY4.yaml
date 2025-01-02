@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x1C5926792D7BC71cD7f3A08Ee9Cb93D949f0391d'
-    platform: CORE
+  - address: '0x6c972b70c533e2e045f333ee28b9ffb8d717be69'
+    platform: ETH
 crypto: true
 fiat: false
 id: FRY4
-id_coinmarketcap: '23739'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23739.png
+id_coinmarketcap: '6119'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6119.png
 logoKey: currencies/fry4.png
-name: Forestry
+name: Foundry

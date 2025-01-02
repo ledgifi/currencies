@@ -1,12 +1,10 @@
 contracts:
   - address: '0x309013d55fb0e8c17363bcc79f25d92f711a5802'
     platform: ETH
-  - address: '0xb8e103b60a33597136ea9511f46b6dbeb643a3a5'
-    platform: ETH
 crypto: true
 fiat: false
 id: SBTC1
-id_coinmarketcap: '6618'
+id_coinmarketcap: '6406'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6406.png
 logoKey: currencies/sbtc1.png
-name: SiamBitcoin
+name: sBTC

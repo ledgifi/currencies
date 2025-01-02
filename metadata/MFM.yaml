@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x361f3d81e9b249cfafa7a047d9225c10323f10bd'
-    platform: BNB
+  - address: '0x358C0fCdDDE4722342D0226E0c67d34a1FAFBB83'
+    platform: ETH
 crypto: true
 fiat: false
 id: MFM
-id_coinmarketcap: '11442'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11442.png
+id_coinmarketcap: '34944'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34944.png
 logoKey: currencies/mfm.png
-name: MoonFarmer
+name: Matt Furie's Metaverse

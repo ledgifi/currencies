@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xced4ad3e56fdbdd31cca3f76f4ffb1eadd920dcf'
+    platform: BNB
   - address: SSLX-GBHFGY3ZNEJWLNO4LBUKLYOCEK4V7ENEBJGPRHHX7JU47GWHBREH37UR
     platform: XLM
 crypto: true

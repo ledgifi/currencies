@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xe68c1464eA214Cb70f58c15d003899c383B1d1e4'
-    platform: TBA
+  - address: '0x1ec1b3fffd5072d97b27110a667c35025c96d5c5'
+    platform: ETH
 crypto: true
 fiat: false
 id: GOBBLE
-id_coinmarketcap: '34287'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34287.png
+id_coinmarketcap: '15496'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15496.png
 logoKey: currencies/gobble.png
-name: Gobble Coin
+name: Gobble Gobble

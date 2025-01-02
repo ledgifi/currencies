@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x705d6cbf5352b29b4f4ee0bbe0788721f961abcd'
-    platform: ETH
+  - address: token.sendertge.near
+    platform: NEAR
 crypto: true
 fiat: false
 id: ASI
-id_coinmarketcap: '8876'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8876.png
+id_coinmarketcap: '34564'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34564.png
 logoKey: currencies/asi.png
-name: ASI finance
+name: Sender

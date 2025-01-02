@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x992D339532A9C42F1b0E59A57e95F38da38c66F6'
-    platform: ETH
+  - address: '0xe2fb177009ff39f52c0134e8007fa0e4baacbd07'
+    platform: FTM
 crypto: true
 fiat: false
 id: SOUL2
-id_coinmarketcap: '21958'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21958.png
+id_coinmarketcap: '13342'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13342.png
 logoKey: currencies/soul2.png
-name: Soulsaver
+name: SoulSwap Finance

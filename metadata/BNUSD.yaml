@@ -7,8 +7,18 @@ contracts:
     platform: BNB
   - address: cx88fd7df7ddff82f7cc735c871dc519838cb235bb
     platform: ICX
+  - address: inj1qspaxnztkkzahvp6scq6xfpgafejmj2td83r9j
+    platform: INJ
+  - address: '0xdccd213951d8214fbaca720728474e2cef9d247b'
+    platform: OP
+  - address: 2yN29zk8jgRTW7GUF9WwYAEz8vvABVnvbfQc5DpGi9CJ
+    platform: SOL
+  - address: 0x03917a812fe4a6d6bc779c5ab53f8a80ba741f8af04121193fc44e0f662e2ceb::balanced_dollar::BALANCED_DOLLAR
+    platform: SUI
   - address: '0x78b7CD9308287DEb724527d8703c889e2d6C3708'
     platform: TBA
+  - address: CCT4ZYIYZ3TUO2AWQFEOFGBZ6HQP3GW5TA37CK7CRZVFRDXYTHTYX7KP
+    platform: XLM
 crypto: true
 fiat: false
 id: BNUSD

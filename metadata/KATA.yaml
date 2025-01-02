@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x2e85ae1C47602f7927bCabc2Ff99C40aA222aE15'
     platform: ETH
+  - address: '0x02454a97A8372f3A760A033DBb39E67D73BD6d87'
+    platform: TBA
 crypto: true
 fiat: false
 id: KATA

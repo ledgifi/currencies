@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xa09e6f797223af66f3088ab8df35b2419165ea07'
-    platform: ETH
+  - address: '0x6cf727d9089a07e44607bea30f5e687983ca6aa1'
+    platform: TBA
 crypto: true
 fiat: false
 id: ETF2
-id_coinmarketcap: '28258'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28258.png
+id_coinmarketcap: '29956'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29956.png
 logoKey: currencies/etf2.png
-name: Bitcoin ETF
+name: ETH Trust Fund

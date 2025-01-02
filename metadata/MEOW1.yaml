@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x79db8c67d0c33203da4Efb58F7D325E1e0d4d692'
-    platform: ZK
+  - address: BUhS5coXEt9hcxN3JSpGYUWSKbNo96RsKu52LcMo12rf
+    platform: SOL
 crypto: true
 fiat: false
 id: MEOW1
-id_coinmarketcap: '28968'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28968.png
+id_coinmarketcap: '34369'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34369.png
 logoKey: currencies/meow1.png
-name: Zeek Coin
+name: Meow

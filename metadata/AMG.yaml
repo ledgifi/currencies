@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x70a30bb133f7b5038d3c28D8B77D8DA258FC784a'
+  - address: '0xC05f9174Eb7f8B5102D8c83F441A5F65a684AeFc'
     platform: BNB
+  - address: '0x9D934DE468689e07D3D6e1C6Ee2093d5acBfD90C'
+    platform: MATIC
 crypto: true
 fiat: false
 id: AMG
-id_coinmarketcap: '23548'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23548.png
+id_coinmarketcap: '19571'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19571.png
 logoKey: currencies/amg.png
-name: DeHeroGame Amazing Token
+name: Amgen

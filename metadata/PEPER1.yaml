@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x9b9aa0fc2a29980ca1313c00788602485601bfc7'
-    platform: BNB
+  - address: '0x7DdF25cB4861590578f1fb85Fcf1C5aFD00A01dE'
+    platform: ARB
 crypto: true
 fiat: false
 id: PEPER1
-id_coinmarketcap: '25776'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25776.png
+id_coinmarketcap: '26269'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26269.png
 logoKey: currencies/peper1.png
-name: Peperium DAO
+name: Peper Token

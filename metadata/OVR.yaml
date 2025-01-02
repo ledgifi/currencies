@@ -5,6 +5,8 @@ contracts:
     platform: ETH
   - address: '0x1631244689ec1fecbdd22fb5916e920dfc9b8d30'
     platform: MATIC
+  - address: '0x27E3Bc3a66E24CaD043aC3d93A12A8070E3897ba'
+    platform: TBA
 crypto: true
 fiat: false
 id: OVR

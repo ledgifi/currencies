@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xd9eadE302456AfF8BF8d87fF0EF77dAb1fB9230f'
-    platform: BNB
+  - address: '0xd888A5460fFFA4B14340DD9Fe2710cbABd520659'
+    platform: ETH
 crypto: true
 fiat: false
 id: KOL1
-id_coinmarketcap: '22300'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22300.png
+id_coinmarketcap: '34373'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34373.png
 logoKey: currencies/kol1.png
-name: King of Legends
+name: ProtoKOLs

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x75c5ee419331b6150879530d06f9ba054755f1da'
-    platform: ETH
+  - address: TXyrq6xE49dJhBGBYRH4pZzq9QdXNKWUQa
+    platform: TRX
 crypto: true
 fiat: false
 id: SAL1
-id_coinmarketcap: '2857'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2857.png
+id_coinmarketcap: '6874'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6874.png
 logoKey: currencies/sal1.png
-name: SalPay
+name: SalmonSwap

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xbfFAA2bF647e5Ae6280a8138D884C3a9A95eCE7e'
-    platform: ETH
+  - address: '0x54F6929ad3c2628FA216fAD4417a9E054d8aDf66'
+    platform: BNB
 crypto: true
 fiat: false
 id: DYOR2
-id_coinmarketcap: '27088'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27088.png
+id_coinmarketcap: '26010'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26010.png
 logoKey: currencies/dyor2.png
-name: DYOR
+name: Doge Your Own Research

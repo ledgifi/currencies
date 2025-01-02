@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x42e5e06ef5b90fe15f853f59299fc96259209c5c'
+    platform: MATIC
 crypto: true
 fiat: false
 id: KEK4
-id_coinmarketcap: '1852'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1852.png
+id_coinmarketcap: '19263'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19263.png
 logoKey: currencies/kek4.png
-name: KekCoin
+name: Aavegotchi KEK

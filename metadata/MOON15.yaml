@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x942272a2004e81cbdf0e11781addf6a19427244b'
-    platform: ETH
+  - address: '0x893535ED1b5C6969E62a10bABfED4F5fF8373278'
+    platform: BNB
 crypto: true
 fiat: false
 id: MOON15
-id_coinmarketcap: '26848'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26848.png
+id_coinmarketcap: '26189'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26189.png
 logoKey: currencies/moon15.png
-name: MoonCoin
+name: Cakemoon

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xF54b110B84aB2033330eD64C645A136Ef0dDe683'
     platform: BNB
+  - address: 1dHeFbmsVktbHXGcW2GZkfkfYxV4yTKbcusNV3fyTX8
+    platform: SOL
 crypto: true
 fiat: false
 id: PLENA

@@ -1,5 +1,8 @@
+color: '#a71435'
 contracts:
   - address: '0x9e10469Cd2cd93836e19484A9Ca1EF5aDDC43e0f'
+    platform: CHZ
+  - address: '0xd34625c1c812439229EF53e06f22053249D011f5'
     platform: CHZ
 crypto: true
 fiat: false

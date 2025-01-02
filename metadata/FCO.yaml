@@ -1,0 +1,16 @@
+contracts:
+  - address: '0x41a1ef3d81D091465F22E8ED2a7e06d59A8532B7'
+    platform: BNB
+  - address: '0x41a1ef3d81D091465F22E8ED2a7e06d59A8532B7'
+    platform: ETH
+  - address: '0x41a1ef3d81D091465F22E8ED2a7e06d59A8532B7'
+    platform: MATIC
+  - address: TVE6ZBZeJeXGFLfwSuLwY7JRhBXmiLaZbg
+    platform: TRX
+crypto: true
+fiat: false
+id: FCO
+id_coinmarketcap: '34383'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34383.png
+logoKey: currencies/fco.png
+name: Fanatico

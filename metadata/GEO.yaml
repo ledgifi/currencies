@@ -1,16 +1,7 @@
-contracts:
-  - address: ibc/9B6FBABA36BB4A3BF127AE5E96B572A5197FD9F3111D895D8919B07BC290764A
-    platform: ATOM
-  - address: '0x147faf8de9d8d8daae129b187f0d02d819126750'
-    platform: ETH
-  - address: '0xAe07B360cF41C8971F6c544620A6ed428Ff3a661'
-    platform: MATIC
-  - address: '0x85FD5f8dBD0c9Ef1806E6c7d4B787d438621C1dC'
-    platform: MOVR
 crypto: true
 fiat: false
 id: GEO
-id_coinmarketcap: '5590'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5590.png
+id_coinmarketcap: '823'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/823.png
 logoKey: currencies/geo.png
-name: GeoDB
+name: GeoCoin

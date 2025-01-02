@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xb69100340a5947e856d873463694ae2186146c43'
-    platform: ETH
+  - address: '0x9b9aa0fc2a29980ca1313c00788602485601bfc7'
+    platform: BNB
 crypto: true
 fiat: false
 id: PEPER
-id_coinmarketcap: '31980'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31980.png
+id_coinmarketcap: '25776'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25776.png
 logoKey: currencies/peper.png
-name: Baby Pepe
+name: Peperium DAO

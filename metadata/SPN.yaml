@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xa3C53b53Fe43083aa31c6F32ffe90C4d91b44391'
-    platform: MATIC
+  - address: EQB7hH6wJbzrZYEbggsOcBeWUEmgO7llkwTKdgDU4Q___SPN
+    platform: TON
 crypto: true
 fiat: false
 id: SPN
-id_coinmarketcap: '14007'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14007.png
+id_coinmarketcap: '33844'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33844.png
 logoKey: currencies/spn.png
-name: SPORTZCHAIN
+name: SpinnerCoin

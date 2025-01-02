@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x17b26400621695c2d8c2d8869f6259e82d7544c4'
+    platform: ETH
 crypto: true
 fiat: false
 id: CCN1
-id_coinmarketcap: '279'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/279.png
+id_coinmarketcap: '3770'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3770.png
 logoKey: currencies/ccn1.png
-name: Cannacoin™
+name: CustomContractNetwork

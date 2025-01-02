@@ -1,7 +1,10 @@
+contracts:
+  - address: aim
+    platform: EOS
 crypto: true
 fiat: false
 id: AIM1
-id_coinmarketcap: '340'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/340.png
+id_coinmarketcap: '5918'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5918.png
 logoKey: currencies/aim1.png
-name: AimCoin
+name: ModiHost

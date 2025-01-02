@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x154388a4650D63acC823e06Ef9e47C1eDdD3cBb2'
-    platform: ARB
-  - address: '0xcB19B6b4971BD4206bAB176c75b1efe3e28EE5a8'
-    platform: ETH
+  - address: '0x23383e18deedf460ebb918545c8b0588038b7998'
+    platform: BNB
 crypto: true
 fiat: false
 id: SEN3
-id_coinmarketcap: '28915'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28915.png
+id_coinmarketcap: '19515'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19515.png
 logoKey: currencies/sen3.png
-name: Seneca
+name: Senspark

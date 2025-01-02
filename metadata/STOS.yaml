@@ -1,6 +1,8 @@
 contracts:
   - address: '0x08c32b0726C5684024ea6e141C50aDe9690bBdcc'
     platform: ETH
+  - address: ibc/ABD49F44559CB3E557CC458459CB6A67CEBD66E23C7674A0B2B445230BDA1F6C
+    platform: OSMO
 crypto: true
 fiat: false
 id: STOS

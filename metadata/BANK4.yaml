@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x26837b64f1302afb1e364082a9e6a0076bb88888'
+    platform: BNB
 crypto: true
 fiat: false
 id: BANK4
-id_coinmarketcap: '8112'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8112.png
+id_coinmarketcap: '30672'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30672.png
 logoKey: currencies/bank4.png
-name: Bankcoin
+name: Bank

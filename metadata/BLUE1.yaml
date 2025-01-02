@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x539efe69bcdd21a83efd9122571a64cc25e0282b'
-    platform: ETH
+  - address: CWQVqTKuH1iU8zSfFfvaUXaVzLzqU1E8GYU5d6EcGBNe
+    platform: SOL
 crypto: true
 fiat: false
 id: BLUE1
-id_coinmarketcap: '2076'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2076.png
+id_coinmarketcap: '32349'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32349.png
 logoKey: currencies/blue1.png
-name: Blue Protocol
+name: BLUE

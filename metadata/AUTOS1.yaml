@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xae620dc4b9b6e44fbeb4a949f63ac957cc43b5dd'
+    platform: CRO
+  - address: '0x925FAdb35B73720238cc78777d02ED4dD3100816'
+    platform: MATIC
+crypto: true
+fiat: false
+id: AUTOS1
+id_coinmarketcap: '21616'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21616.png
+logoKey: currencies/autos1.png
+name: AutoSingle

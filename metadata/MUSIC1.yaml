@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xD8c0b13B551718b808fc97eAd59499d5Ef862775'
+    platform: ETH
 crypto: true
 fiat: false
 id: MUSIC1
-id_coinmarketcap: '1577'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1577.png
+id_coinmarketcap: '28673'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28673.png
 logoKey: currencies/music1.png
-name: Musicoin
+name: Gala Music

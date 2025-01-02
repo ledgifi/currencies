@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x3f14920c99beb920afa163031c4e47a3e03b3e4a'
-    platform: TBA
+  - address: 0xb45fcfcc2cc07ce0702cc2d229621e046c906ef14d9b25e8e4d25f6e8763fef7::send::SEND
+    platform: SUI
 crypto: true
 fiat: false
 id: SEND1
-id_coinmarketcap: '27376'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27376.png
+id_coinmarketcap: '34611'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34611.png
 logoKey: currencies/send1.png
-name: Send
+name: Suilend

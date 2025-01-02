@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x5651fa7a726b9ec0cad00ee140179912b6e73599'
+    platform: BNB
+  - address: '0x5651fa7a726b9ec0cad00ee140179912b6e73599'
+    platform: ETH
 crypto: true
 fiat: false
 id: OORT

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x04524f05cce069af9bce7879616773a94bb46c84'
-    platform: BNB
+  - address: '0x25E0A7767d03461EaF88b47cd9853722Fe05DFD3'
+    platform: TBA
 crypto: true
 fiat: false
 id: SCI
-id_coinmarketcap: '22873'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22873.png
+id_coinmarketcap: '34636'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34636.png
 logoKey: currencies/sci.png
-name: SCI Coin
+name: PoSciDonDAO

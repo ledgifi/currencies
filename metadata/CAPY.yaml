@@ -1,10 +1,10 @@
 contracts:
-  - address: CAPYD6Lrm7bTZ6C7t7JvSxvpEcfKQ9YNB7kUjh6p6XBN
-    platform: SOL
+  - address: '0xf03d5fc6e08de6ad886fca34abf9a59ef633b78a'
+    platform: ETH
 crypto: true
 fiat: false
 id: CAPY
-id_coinmarketcap: '16636'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16636.png
+id_coinmarketcap: '25076'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25076.png
 logoKey: currencies/capy.png
 name: Capybara

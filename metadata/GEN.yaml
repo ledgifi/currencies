@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x99999999999997fceB5549c58aB66dF52385ca4d'
+  - address: '0x179b734D0291Fa9E3a4728C7c27866EE25CCC3e0'
     platform: ETH
 crypto: true
 fiat: false
 id: GEN
-id_coinmarketcap: '32631'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32631.png
+id_coinmarketcap: '20096'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20096.png
 logoKey: currencies/gen.png
-name: Genesis
+name: Generation

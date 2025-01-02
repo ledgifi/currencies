@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xB36B62929762ACF8A9Cc27ECebF6D353eBB48244'
-    platform: MATIC
+  - address: '0xAddB6dC7E2F7caEA67621DD3Ca2e8321ade33286'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHARP1
-id_coinmarketcap: '32916'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32916.png
+id_coinmarketcap: '33457'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33457.png
 logoKey: currencies/sharp1.png
-name: Sharp
+name: Sharp AI

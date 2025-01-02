@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x4f2c671bbca289e678070075777d9237ed06708e'
-    platform: BNB
+  - address: '0xc8bcb58caef1be972c0b638b1dd8b0748fdc8a44'
+    platform: MATIC
 crypto: true
 fiat: false
 id: PEAR2
-id_coinmarketcap: '21037'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21037.png
+id_coinmarketcap: '11105'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11105.png
 logoKey: currencies/pear2.png
-name: Pear Token
+name: PearZap

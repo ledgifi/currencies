@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x1CC30e2EAc975416060Ec6FE682041408420d414'
-    platform: ETH
+  - address: '0x5569eDD2e1535Be2003470b2663F2Ff77e83d27e'
+    platform: BNB
+  - address: BuH8Xo92NTjBUu41rsqBia9fBZavjtCNqqWMufZbUKSp
+    platform: SOL
 crypto: true
 fiat: false
 id: KOL3
-id_coinmarketcap: '12196'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12196.png
+id_coinmarketcap: '29994'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29994.png
 logoKey: currencies/kol3.png
-name: Kollect
+name: KeyOfLife Multichain Store Of Value

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x698dc45e4f10966f6d1d98e3bfd7071d8144c233'
-    platform: TBA
+  - address: '0xb46584e0efdE3092e04010A13f2eAe62aDb3b9F0'
+    platform: BNB
 crypto: true
 fiat: false
 id: PEPE10
-id_coinmarketcap: '30890'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30890.png
+id_coinmarketcap: '25359'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25359.png
 logoKey: currencies/pepe10.png
-name: PEPE 0x69 ON BASE
+name: Pepe Coin

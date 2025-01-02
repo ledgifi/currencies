@@ -1,10 +1,10 @@
 contracts:
-  - address: 92EcDYWSA9YRhtmPWzUFqPyzDfkjF7AkF8AxVJt5LXYM
-    platform: SOL
+  - address: '0x4811d9a0b2655a5f317e466f2be0139ff949297b'
+    platform: BNB
 crypto: true
 fiat: false
 id: KABOSU5
-id_coinmarketcap: '33524'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33524.png
+id_coinmarketcap: '31539'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31539.png
 logoKey: currencies/kabosu5.png
-name: Kabosu
+name: KABOSU

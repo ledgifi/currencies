@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xFB8563531c7e86d2745342062C69CDeb8b0737DB'
-    platform: BNB
+  - address: '0x60d95823F795F1972dBDbcd886955095E36E04Cd'
+    platform: ETH
 crypto: true
 fiat: false
 id: GENIE
-id_coinmarketcap: '25828'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25828.png
+id_coinmarketcap: '34992'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34992.png
 logoKey: currencies/genie.png
-name: The Genie
+name: Genie Ai

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xF3b3Cad094B89392fcE5faFD40bC03b80F2Bc624'
-    platform: ETH
+  - address: FchXquY7jRGm85eaSoMtsJuUFZJPQEvcW2sC3AH6pump
+    platform: SOL
 crypto: true
 fiat: false
 id: PAT
-id_coinmarketcap: '2759'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2759.png
+id_coinmarketcap: '34933'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34933.png
 logoKey: currencies/pat.png
-name: Patron
+name: Pepe's Cat

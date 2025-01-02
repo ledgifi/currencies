@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x0f3a12b78fee11ee088e454a0547bdbc5a253a6d'
+    platform: ETH
   - address: '0x5c46bFF4B38dc1EAE09C5BAc65872a1D8bc87378'
     platform: MERL
 crypto: true

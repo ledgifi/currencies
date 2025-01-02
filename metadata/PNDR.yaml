@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x6c1eFbEd2F57dd486Ec091dFfd08eE5235A570b1'
-    platform: BNB
+  - address: '0x73624d2dEF952C77a1f3B5AD995eef53E49639EC'
+    platform: ETH
 crypto: true
 fiat: false
 id: PNDR
-id_coinmarketcap: '10059'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10059.png
+id_coinmarketcap: '34818'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34818.png
 logoKey: currencies/pndr.png
-name: Pandora Finance
+name: Ponder

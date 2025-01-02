@@ -1,14 +1,7 @@
-contracts:
-  - address: '0xea62791aa682d455614eaa2a12ba3d9a2fd197af'
-    platform: AURORA
-  - address: '0x3ea8ea4237344c9931214796d9417af1a1180770'
-    platform: ETH
-  - address: 3ea8ea4237344c9931214796d9417af1a1180770.factory.bridge.near
-    platform: NEAR
 crypto: true
 fiat: false
 id: FLX3
-id_coinmarketcap: '15535'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15535.png
+id_coinmarketcap: '5927'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5927.png
 logoKey: currencies/flx3.png
-name: Flux
+name: FELIX

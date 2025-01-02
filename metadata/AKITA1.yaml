@@ -1,10 +1,10 @@
 contracts:
-  - address: EQD6ikvSPUcpE6HB_OjxCMVkFwrtK73CVV1VLR6NWEykojuQ
-    platform: TON
+  - address: '0x1a4c5c74fb1ec39e839799baa0a91caeaeadedf7'
+    platform: BNB
 crypto: true
 fiat: false
 id: AKITA1
-id_coinmarketcap: '30120'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30120.png
+id_coinmarketcap: '34852'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34852.png
 logoKey: currencies/akita1.png
-name: Akita Inu
+name: AKITA-BSC

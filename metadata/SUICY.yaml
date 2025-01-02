@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x8989c726bf1ea8736919e41938f3801e286bc71d9612bfe250703232a375eaab::suicy::SUICY
+    platform: SUI
+crypto: true
+fiat: false
+id: SUICY
+id_coinmarketcap: '34802'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34802.png
+logoKey: currencies/suicy.png
+name: SUICY the Seal

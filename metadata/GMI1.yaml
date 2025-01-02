@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x8750f5651af49950b5419928fecefca7c82141e3'
-    platform: ONE
+  - address: '0x47110d43175f7f2c2425e7d15792acc5817eb44f'
+    platform: ETH
 crypto: true
 fiat: false
 id: GMI1
-id_coinmarketcap: '16154'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16154.png
+id_coinmarketcap: '16865'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16865.png
 logoKey: currencies/gmi1.png
-name: WagmiDAO
+name: Bankless DeFi Innovation Index

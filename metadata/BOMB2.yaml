@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x522348779dcb2911539e76a1042aa922f9c47ee3'
-    platform: BNB
+  - address: '0xb2c63830d4478cb331142fac075a39671a5541dc'
+    platform: MATIC
 crypto: true
 fiat: false
 id: BOMB2
-id_coinmarketcap: '15876'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15876.png
+id_coinmarketcap: '20921'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20921.png
 logoKey: currencies/bomb2.png
-name: Bomb Money
+name: Bombcrypto (MATIC)

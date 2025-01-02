@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x66142b81db17d7c0bd91f502d00382e326a24c2a'
+    platform: ETH
 crypto: true
 fiat: false
 id: GEX1
-id_coinmarketcap: '4070'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4070.png
+id_coinmarketcap: '4150'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4150.png
 logoKey: currencies/gex1.png
-name: Gexan
+name: GLOBEX

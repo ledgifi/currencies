@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x56B331c7E3D68306f26e07492125F0FAa9d95343'
-    platform: BNB
+  - address: '0x945a6869819cdad404dc80647a2085957cb1f28b'
+    platform: AVAX
 crypto: true
 fiat: false
 id: LEO5
-id_coinmarketcap: '22431'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22431.png
+id_coinmarketcap: '19469'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19469.png
 logoKey: currencies/leo5.png
-name: Alcazar
+name: Leonidas

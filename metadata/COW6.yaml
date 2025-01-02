@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x0cc4f8735dae4b1ab7682cb05aeb19115e693e98'
+    platform: ETH
 crypto: true
 fiat: false
 id: COW6
-id_coinmarketcap: '10338'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10338.png
+id_coinmarketcap: '6946'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6946.png
 logoKey: currencies/cow6.png
-name: COW Token
+name: Cowfarm.finance

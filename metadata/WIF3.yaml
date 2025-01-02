@@ -1,10 +1,10 @@
 contracts:
-  - address: GLXkHLX4jiVRAYBVwx2UAvKRBu2YDCQudNiR3k9q9THH
-    platform: SOL
+  - address: '0x886c869cDc619214138C87f1DB0ADa522b16Dfa3'
+    platform: ETH
 crypto: true
 fiat: false
 id: WIF3
-id_coinmarketcap: '31733'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31733.png
+id_coinmarketcap: '31221'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31221.png
 logoKey: currencies/wif3.png
-name: HAMSTER WIF HAT
+name: WIF on ETH

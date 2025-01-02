@@ -1,7 +1,14 @@
+contracts:
+  - address: emanateoneos
+    platform: EOS
+  - address: '0x893700a1a86ee68b92536bf6fd4d3200d7369f7d'
+    platform: ETH
+  - address: '0x3fB256CFefedb6A54De7465c0EE86dC574AE464D'
+    platform: MATIC
 crypto: true
 fiat: false
 id: EMT2
-id_coinmarketcap: '20447'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20447.png
+id_coinmarketcap: '3993'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3993.png
 logoKey: currencies/emt2.png
-name: Elf Matrix
+name: Emanate

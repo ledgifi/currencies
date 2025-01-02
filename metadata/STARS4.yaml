@@ -1,12 +1,7 @@
-contracts:
-  - address: '0xbd83010eb60f12112908774998f65761cf9f6f9a'
-    platform: BNB
-  - address: '0xc55c2175e90a46602fd42e931f62b3acc1a013ca'
-    platform: ETH
 crypto: true
 fiat: false
 id: STARS4
-id_coinmarketcap: '8996'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8996.png
+id_coinmarketcap: '2157'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2157.png
 logoKey: currencies/stars4.png
-name: Mogul Productions
+name: StarCash Network

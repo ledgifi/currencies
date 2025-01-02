@@ -3,6 +3,8 @@ contracts:
     platform: ARB
   - address: '0xCF67815ccE72E682Eb4429eCa46843bed81Ca739'
     platform: ETH
+  - address: '0xCF67815ccE72E682Eb4429eCa46843bed81Ca739'
+    platform: TBA
 crypto: true
 fiat: false
 id: G3

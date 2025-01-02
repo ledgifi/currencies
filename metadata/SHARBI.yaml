@@ -1,8 +1,6 @@
 contracts:
   - address: '0x0da5Aae7F402f4aFbBdd045FaDCd447835983A91'
     platform: BONE
-  - address: '0x9bD20ed5be5e1B50cDBb28270a2f0815D9d23AF3'
-    platform: ETH
   - address: 8D1nUMJQam54o34Kj2knFhSTaWoehEr4mBc7LfiDdCqq
     platform: SOL
 crypto: true

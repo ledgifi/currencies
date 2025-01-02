@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x42e12d42b3d6c4a74a88a61063856756ea2db357'
-    platform: BLAST
+  - address: '0x6499999951f0B5ba8B9187958884F9F5b50e45Fd'
+    platform: ETH
 crypto: true
 fiat: false
 id: ORBIT1
-id_coinmarketcap: '29710'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29710.png
+id_coinmarketcap: '34931'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34931.png
 logoKey: currencies/orbit1.png
-name: Orbit Protocol
+name: OrbitAI

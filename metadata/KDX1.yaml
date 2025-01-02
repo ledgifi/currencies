@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xE9caC5d99375d02Fb506bE890011B2F57fC614E1'
+    platform: KAI
 crypto: true
 fiat: false
 id: KDX1
-id_coinmarketcap: '21839'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21839.png
+id_coinmarketcap: '21222'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21222.png
 logoKey: currencies/kdx1.png
-name: eckoDAO
+name: KAIDEX

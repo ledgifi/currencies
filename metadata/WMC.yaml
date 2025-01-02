@@ -1,7 +1,12 @@
+contracts:
+  - address: '0x7fd4d7737597e7b4ee22acbf8d94362343ae0a79'
+    platform: ETH
+  - address: '0x3d2eba645c44bbd32a34b7c017667711eb5b173c'
+    platform: TBA
 crypto: true
 fiat: false
 id: WMC
-id_coinmarketcap: '1261'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1261.png
+id_coinmarketcap: '34963'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34963.png
 logoKey: currencies/wmc.png
-name: WMCoin
+name: Wrapped MistCoin

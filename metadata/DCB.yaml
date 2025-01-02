@@ -1,6 +1,8 @@
 contracts:
   - address: '0xeac9873291ddaca754ea5642114151f3035c67a2'
     platform: BNB
+  - address: '0x06D998a2C64CAf9feB2cAf3Ca8872740EF013122'
+    platform: TBA
 crypto: true
 fiat: false
 id: DCB

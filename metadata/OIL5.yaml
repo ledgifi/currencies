@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x500756c7d239aee30f52c7e52af4f4f008d1a98f'
-    platform: ARB
+  - address: '0x74c7b589209ce095a219f8bdf941de117656cbd6'
+    platform: CORE
 crypto: true
 fiat: false
 id: OIL5
-id_coinmarketcap: '22875'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22875.png
+id_coinmarketcap: '25347'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25347.png
 logoKey: currencies/oil5.png
-name: Petroleum OIL
+name: OIL Token

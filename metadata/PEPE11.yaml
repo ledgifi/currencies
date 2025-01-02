@@ -1,10 +1,10 @@
 contracts:
-  - address: F9CpWoyeBJfoRB8f2pBe2ZNPbPsEE76mWZWme3StsvHK
-    platform: SOL
+  - address: 0x288710173f12f677ac38b0c2b764a0fea8108cb5e32059c3dd8f650d65e2cb25::pepe::PEPE
+    platform: SUI
 crypto: true
 fiat: false
 id: PEPE11
-id_coinmarketcap: '23450'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23450.png
+id_coinmarketcap: '34519'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34519.png
 logoKey: currencies/pepe11.png
-name: PepeSol
+name: Pepe on Sui

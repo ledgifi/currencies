@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xcc57f84637b441127f2f74905b9d99821b47b20c'
-    platform: CRO
+  - address: '0xef6344de1fcfC5F48c30234C16c1389e8CdC572C'
+    platform: ETH
 crypto: true
 fiat: false
 id: DNA3
-id_coinmarketcap: '17251'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17251.png
+id_coinmarketcap: '2208'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2208.png
 logoKey: currencies/dna3.png
-name: DNA Dollar
+name: EncrypGen

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xA4bB712B4ea05E74a9590EC550BD922cd857AfcB'
-    platform: ETH
+  - address: '0x641a6dc991a49f7be9fe3c72c5d0fbb223edb12f'
+    platform: BNB
 crypto: true
 fiat: false
 id: REFI
-id_coinmarketcap: '32779'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32779.png
+id_coinmarketcap: '9065'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9065.png
 logoKey: currencies/refi.png
-name: ReFi Protocol
+name: Realfinance Network

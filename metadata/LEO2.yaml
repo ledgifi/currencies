@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xbe8dab8ce8521ecfde43a8ff8d5c6644f4dcecb7'
-    platform: MATIC
+  - address: 8Cd7wXoPb5Yt9cUGtmHNqAEmpMDrhfcVqnGbLC48b8Qm
+    platform: SOL
 crypto: true
 fiat: false
 id: LEO2
-id_coinmarketcap: '12113'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12113.png
+id_coinmarketcap: '34660'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34660.png
 logoKey: currencies/leo2.png
-name: AstroFarms Finance
+name: Leo

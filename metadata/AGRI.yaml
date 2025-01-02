@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xa704fce7b309ec09df16e2f5ab8caf6fe8a4baa9'
-    platform: ETH
+  - address: AGRidUXLeDij9CJprkZx7WBXtTQC67jtfiwz293mVrJ
+    platform: SOL
 crypto: true
 fiat: false
 id: AGRI
-id_coinmarketcap: '9202'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9202.png
+id_coinmarketcap: '34386'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34386.png
 logoKey: currencies/agri.png
-name: AgriChain
+name: AgriDex

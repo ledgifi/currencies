@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x7aaaa5b10f97321345acd76945083141be1c5631'
+    platform: BNB
 crypto: true
 fiat: false
 id: COW3
-id_coinmarketcap: '5895'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5895.png
+id_coinmarketcap: '34949'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34949.png
 logoKey: currencies/cow3.png
-name: COWRY
+name: COW

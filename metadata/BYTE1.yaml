@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x9c2b4b0da5ebd20c29ef20758064554a55a88b68'
-    platform: ETH
+  - address: '0x721532bC0dA5ffaeB0a6A45fB24271E8098629A7'
+    platform: METIS
 crypto: true
 fiat: false
 id: BYTE1
-id_coinmarketcap: '30318'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30318.png
+id_coinmarketcap: '19077'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19077.png
 logoKey: currencies/byte1.png
-name: ByteAI
+name: BinaryDAO

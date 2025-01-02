@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x675bbc7514013e2073db7a919f6e4cbef576de37'
     platform: ETH
+  - address: JCRiQKaujJjAjfVH8CNo4htGFMuTTnZtwvasVwneT7MA
+    platform: SOL
 crypto: true
 fiat: false
 id: CLS

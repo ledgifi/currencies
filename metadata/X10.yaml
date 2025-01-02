@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x659b1a043e0bbb18d9d134635c03247f5c503ce6'
-    platform: ETH
+  - address: '0xae28714390e95b8df1ef847c58aeac23ed457702'
+    platform: BNB
 crypto: true
 fiat: false
 id: X10
-id_coinmarketcap: '26820'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26820.png
+id_coinmarketcap: '11918'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11918.png
 logoKey: currencies/x10.png
-name: X
+name: GIBX Swap

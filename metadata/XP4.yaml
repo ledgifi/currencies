@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xde9620e10b96b6c713df1df00361e8aafd486897'
-    platform: BNB
+  - address: '0x306a4b5b553c7d5Cd4440e1cF4F897521c38cdaA'
+    platform: ETH
 crypto: true
 fiat: false
 id: XP4
-id_coinmarketcap: '18380'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18380.png
+id_coinmarketcap: '33624'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33624.png
 logoKey: currencies/xp4.png
-name: xApe
+name: XP.FUN

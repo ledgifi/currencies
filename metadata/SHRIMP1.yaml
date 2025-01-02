@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x38c4102d11893351ced7ef187fcf43d33eb1abe6'
-    platform: ETH
+  - address: 0x55987edfab9a57f69bac759674f139ae473b5e09a9283848c1f87faf6fc1e789::shrimp::ShrimpCoin
+    platform: APT
 crypto: true
 fiat: false
 id: SHRIMP1
-id_coinmarketcap: '6630'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6630.png
+id_coinmarketcap: '29921'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29921.png
 logoKey: currencies/shrimp1.png
-name: Shrimp Finance
+name: SHRIMP

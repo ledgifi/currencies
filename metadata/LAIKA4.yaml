@@ -1,16 +1,10 @@
 contracts:
-  - address: '0x1CcCA1cE62c62F7Be95d4A67722a8fDbed6EEcb4'
-    platform: AVAX
-  - address: '0x2a49de60cc6204c3afc3e770fdb30a0554147519'
+  - address: '0x270877fbdadd2e28c7eaf08e528691b95684207e'
     platform: BNB
-  - address: '0x0bfFc5692960Bb043D3216839bDD6e5E64ff1b4e'
-    platform: ETH
-  - address: '0x0bfFc5692960Bb043D3216839bDD6e5E64ff1b4e'
-    platform: MATIC
 crypto: true
 fiat: false
 id: LAIKA4
-id_coinmarketcap: '9776'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9776.png
+id_coinmarketcap: '9515'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9515.png
 logoKey: currencies/laika4.png
-name: LaikaProtocol
+name: LaikaCoin

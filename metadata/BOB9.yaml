@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x547a9dca1f033bb6c78ef1bd5cd3574e546cf2d9'
-    platform: BNB
+  - address: '0xdf347911910b6c9a4286ba8e2ee5ea4a39eb2134'
+    platform: ETH
 crypto: true
 fiat: false
 id: BOB9
-id_coinmarketcap: '25888'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25888.png
+id_coinmarketcap: '2889'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2889.png
 logoKey: currencies/bob9.png
-name: BOB Coin
+name: Bob's Repair

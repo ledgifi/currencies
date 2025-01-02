@@ -1,10 +1,7 @@
-contracts:
-  - address: '0x140D8d3649Ec605CF69018C627fB44cCC76eC89f'
-    platform: FLR
 crypto: true
 fiat: false
 id: HLN1
-id_coinmarketcap: '30769'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30769.png
+id_coinmarketcap: '20897'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20897.png
 logoKey: currencies/hln1.png
-name: Helion
+name: Holonus

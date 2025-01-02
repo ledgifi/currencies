@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x1131D427ECd794714ed00733aC0f851E904c8398'
-    platform: ETH
+  - address: 5XzX3PGu2mmWSeSJ8yXdXgX9xjAA1Prdr8dPz3FNzQT9
+    platform: SOL
 crypto: true
 fiat: false
 id: GENAI
-id_coinmarketcap: '30908'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30908.png
+id_coinmarketcap: '31054'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31054.png
 logoKey: currencies/genai.png
-name: GenBox
+name: Gen AI BOT

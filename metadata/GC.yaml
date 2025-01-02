@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xBD9C89536e406478d8A42C51b35bCfb6bF8A1384'
-    platform: MATIC
+  - address: '0xc2308b29f95a819aeb51c4bc8f42a7fe3596b524'
+    platform: BNB
 crypto: true
 fiat: false
 id: GC
-id_coinmarketcap: '26960'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26960.png
+id_coinmarketcap: '32845'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32845.png
 logoKey: currencies/gc.png
-name: GrabCoinClub
+name: gold coin

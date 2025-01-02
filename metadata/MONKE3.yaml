@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x18cc2ba8995c6307e355726244adb023cf00522f'
-    platform: ETH
+  - address: '0xb422de11a237d0cbce17d7d70f53f67ef84394d3'
+    platform: BNB
 crypto: true
 fiat: false
 id: MONKE3
-id_coinmarketcap: '24943'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24943.png
+id_coinmarketcap: '15161'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15161.png
 logoKey: currencies/monke3.png
-name: Monke
+name: Space Monkey Token

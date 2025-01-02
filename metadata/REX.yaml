@@ -1,10 +1,10 @@
 contracts:
-  - address: CcTxKZHqU4E2Tek5gh1GZoPZPHncGFkZ36EVMsgDn6sK
-    platform: SOL
+  - address: '0x90869b3a42E399951bd5F5fF278B8CC5ee1Dc0fE'
+    platform: BNB
 crypto: true
 fiat: false
 id: REX
-id_coinmarketcap: '30187'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30187.png
+id_coinmarketcap: '34600'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34600.png
 logoKey: currencies/rex.png
-name: Rex
+name: REVOX

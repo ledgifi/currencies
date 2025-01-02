@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xbBC2839651192586a5b651F7268FCf3dF37D4f52'
+    platform: BNB
+  - address: '0x19Bd90FB07065442bD61b104C7248E11E317dc15'
+    platform: MATIC
+crypto: true
+fiat: false
+id: WCHK
+id_coinmarketcap: '34471'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34471.png
+logoKey: currencies/wchk.png
+name: Chikochain

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xa84f95eb3DaBdc1bbD613709ef5F2fD42CE5bE8d'
     platform: ETH
+  - address: '0x4B6bF1d365ea1A8d916Da37FaFd4ae8C86d061D7'
+    platform: TBA
 crypto: true
 fiat: false
 id: EAI

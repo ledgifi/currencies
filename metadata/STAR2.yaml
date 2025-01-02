@@ -1,10 +1,7 @@
-contracts:
-  - address: '0x6953f27dB0701E22616e701DbA91acC2E4B6DecA'
-    platform: ETH
 crypto: true
 fiat: false
 id: STAR2
-id_coinmarketcap: '31671'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31671.png
+id_coinmarketcap: '8593'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8593.png
 logoKey: currencies/star2.png
-name: Starbot
+name: FileStar

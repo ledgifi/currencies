@@ -1,16 +1,10 @@
 contracts:
-  - address: '0x4bf5cd1ac6fff12e88aedd3c70eb4148f90f8894'
-    platform: AVAX
-  - address: '0x4bf5cd1ac6fff12e88aedd3c70eb4148f90f8894'
+  - address: '0x9ccd7671fde42d814430ccabcb5dda127526ec91'
     platform: BNB
-  - address: '0x4bf5cd1ac6fff12e88aedd3c70eb4148f90f8894'
-    platform: ETH
-  - address: '0x372d044DD3391ab6B1eFFDE76D2579Cf77A56F26'
-    platform: MATIC
 crypto: true
 fiat: false
 id: ORBIT3
-id_coinmarketcap: '20037'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20037.png
+id_coinmarketcap: '14409'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14409.png
 logoKey: currencies/orbit3.png
-name: Orbit
+name: Orbit Token

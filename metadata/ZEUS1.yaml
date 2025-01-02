@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xe7e4279b80d319ede2889855135a22021baf0907'
+  - address: '0x7137e8a3b069C3F787c4fFbb901b91E4bA47d082'
     platform: ETH
 crypto: true
 fiat: false
 id: ZEUS1
-id_coinmarketcap: '3414'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3414.png
+id_coinmarketcap: '32006'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32006.png
 logoKey: currencies/zeus1.png
-name: ZeusNetwork
+name: Zeus

@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38'
+    platform: S
 crypto: true
 fiat: false
 id: WS
-id_coinmarketcap: '982'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/982.png
+id_coinmarketcap: '34753'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34753.png
 logoKey: currencies/ws.png
-name: Woodshares
+name: Wrapped Sonic

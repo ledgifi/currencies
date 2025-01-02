@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x93581991f68DBaE1eA105233b67f7FA0D6BDeE7b'
+    platform: ETH
   - address: '0xD4949664cD82660AaE99bEdc034a0deA8A0bd517'
     platform: EVMOS
 crypto: true

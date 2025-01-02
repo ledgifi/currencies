@@ -1,14 +1,10 @@
 contracts:
-  - address: '0x5dc5B0624305DD1a5520c774A19932eb3166Ad7C'
-    platform: BNB
-  - address: '0x400bc4f1ee114537b4fec3b08810acfe117e7746'
+  - address: '0xcE260aB6A0dD5013523efF949d17f12d156fd2fB'
     platform: ETH
-  - address: 6F7dkmbPegtpUwV2T7QQWdduzSKHFDeKctA4td3inSKo
-    platform: SOL
 crypto: true
 fiat: false
 id: BIDEN5
-id_coinmarketcap: '29957'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29957.png
+id_coinmarketcap: '31373'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31373.png
 logoKey: currencies/biden5.png
-name: JOE
+name: Simpson Biden

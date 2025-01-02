@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: '0xe2512A2f19F0388aD3D7A5263eaA82AcD564827b'
     platform: ETH
+  - address: ibc/62B50BB1DAEAD2A92D6C6ACAC118F4ED8CBE54265DCF5688E8D0A0A978AA46E7
+    platform: OSMO
 crypto: true
 fiat: false
 id: SHIDO

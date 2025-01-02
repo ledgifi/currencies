@@ -1,6 +1,18 @@
 contracts:
+  - address: '0xD336c74B840f9962cF2c666f8666d6d61Ec24440'
+    platform: ARB
+  - address: '0xC7FE3f5B4970Ddc36d850A98e87bb28FaBb866D2'
+    platform: AVAX
+  - address: '0xd94F0Aea6d6f14C012d992e8886C8C1736921e10'
+    platform: BNB
   - address: cx2609b924e33ef00b648a409245c7ea394c467824
     platform: ICX
+  - address: '0x91b36B5b078A3150EA05d5451b3feB608CFcEEE1'
+    platform: OP
+  - address: '0xd94F0Aea6d6f14C012d992e8886C8C1736921e10'
+    platform: TBA
+  - address: CDGAJ3DD5X6RQS5CNHUX4EZ6GPLCGLQ2D674QORAN23A26BKDIVADOUU
+    platform: XLM
 crypto: true
 fiat: false
 id: SICX

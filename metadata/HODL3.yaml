@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x0E9766dF73973abCfEDDE700497c57110ee5c301'
+  - address: '0xd7bf683cad197f4f869678cddc345b38b483d8e4'
     platform: BNB
 crypto: true
 fiat: false
 id: HODL3
-id_coinmarketcap: '9900'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9900.png
+id_coinmarketcap: '8572'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8572.png
 logoKey: currencies/hodl3.png
-name: HODL
+name: hodlearn

@@ -1,12 +1,7 @@
-contracts:
-  - address: '0xe5a733681bbe6cd8c764bb8078ef8e13a576dd78'
-    platform: ETH
-  - address: Gnca3UkjR4a1FFNZuGfEELmbaHkL6GteSC2swpdWRmf7
-    platform: SOL
 crypto: true
 fiat: false
 id: DPAY
-id_coinmarketcap: '21976'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21976.png
+id_coinmarketcap: '1427'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1427.png
 logoKey: currencies/dpay.png
-name: Devour
+name: DPAY

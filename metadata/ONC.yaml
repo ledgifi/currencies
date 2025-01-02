@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xD90E69f67203EBE02c917B5128629E77B4cd92dc'
-    platform: ETH
+  - address: '0xd82109718fff521387bfed5424ead7e8a1cb9780'
+    platform: BNB
 crypto: true
 fiat: false
 id: ONC
-id_coinmarketcap: '8159'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8159.png
+id_coinmarketcap: '34957'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34957.png
 logoKey: currencies/onc.png
-name: One Cash
+name: Oncology Network

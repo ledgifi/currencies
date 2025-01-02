@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xB914e7A183AbCD46300584DA828f62A39516F33b'
-    platform: ONE
+  - address: '0x6953f27dB0701E22616e701DbA91acC2E4B6DecA'
+    platform: ETH
 crypto: true
 fiat: false
 id: STAR4
-id_coinmarketcap: '19477'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19477.png
+id_coinmarketcap: '31671'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31671.png
 logoKey: currencies/star4.png
-name: Speed Star STAR
+name: Starbot

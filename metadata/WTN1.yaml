@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x06082951EFDb5095E45e3C08cB103782645a2e69'
-    platform: BNB
+  - address: '0x0ea984e789302b7b612147e4e4144e64f21425eb'
+    platform: ETH
 crypto: true
 fiat: false
 id: WTN1
-id_coinmarketcap: '20930'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20930.png
+id_coinmarketcap: '3484'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3484.png
 logoKey: currencies/wtn1.png
-name: Wateenswap
+name: Waletoken

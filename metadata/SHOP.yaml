@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x64b78325d7495d6d4be92f234fa3f3b8d8964b8b'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHOP
-id_coinmarketcap: '359'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/359.png
+id_coinmarketcap: '21772'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21772.png
 logoKey: currencies/shop.png
-name: ShopCoin
+name: Shopping.io

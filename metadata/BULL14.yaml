@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x18c1074845c389907762a71242bfe271c9da2d9c'
-    platform: ETH
+  - address: '0xfc93c1bdd261a377c850a13e797a296380b495b0'
+    platform: BNB
 crypto: true
 fiat: false
 id: BULL14
-id_coinmarketcap: '27042'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27042.png
+id_coinmarketcap: '22087'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22087.png
 logoKey: currencies/bull14.png
-name: BULL Token
+name: BullDog Inu

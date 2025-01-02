@@ -1,10 +1,12 @@
 contracts:
-  - address: 9TY6DUg1VSssYH5tFE95qoq5hnAGFak4w3cn72sJNCoV
+  - address: '0xf74f23b65e15910676877d45ced8ee0556a9c508'
+    platform: ETH
+  - address: GaRc1SjRDHEPdu8CTB4yYmevLtYMRM3nkWsqftJUE4e7
     platform: SOL
 crypto: true
 fiat: false
 id: DOGE3
-id_coinmarketcap: '33736'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33736.png
+id_coinmarketcap: '34349'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34349.png
 logoKey: currencies/doge3.png
-name: Department of Gov Efficiency (deptofgovtefficiency.com)
+name: Dogecast (dogecast.build)

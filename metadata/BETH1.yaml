@@ -1,10 +1,10 @@
 contracts:
-  - address: terra1dzhzukyezv0etz22ud940z7adyv7xgcjkahuun
-    platform: LUNC
+  - address: 7uJrMsDN2Wxdc3VAq1iK9N5AHaTA7wUpbm1wqRonpump
+    platform: SOL
 crypto: true
 fiat: false
 id: BETH1
-id_coinmarketcap: '15308'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15308.png
+id_coinmarketcap: '34939'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34939.png
 logoKey: currencies/beth1.png
-name: Anchor bETH Token
+name: Beth

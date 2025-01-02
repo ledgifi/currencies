@@ -1,6 +1,8 @@
 contracts:
   - address: '0x63696fc66795b51d02c1590b536484a41fbddf9a'
     platform: ETH
+  - address: EQBEQh9j81QTasIu5533EQ2KRSB2v1kjXfn5GPvl8D_8li2v
+    platform: TON
 crypto: true
 fiat: false
 id: $WELL

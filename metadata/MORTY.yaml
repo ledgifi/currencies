@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xe9f4d524834Be9B48BE182F2274B109955e9bda2'
-    platform: ETH
+  - address: 9rbVug7zTt4UPb1YuasTVUJVcaeb9JgJdJ2ejf7pump
+    platform: SOL
 crypto: true
 fiat: false
 id: MORTY
-id_coinmarketcap: '25202'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25202.png
+id_coinmarketcap: '34338'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34338.png
 logoKey: currencies/morty.png
 name: Morty

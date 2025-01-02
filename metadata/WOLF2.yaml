@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x4f94b8aef08c92fefe416af073f1df1e284438ec'
-    platform: AVAX
+  - address: '0x9c7d4fb43919def524c1a9d92fe836169eaf0615'
+    platform: ETH
 crypto: true
 fiat: false
 id: WOLF2
-id_coinmarketcap: '28746'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28746.png
+id_coinmarketcap: '30360'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30360.png
 logoKey: currencies/wolf2.png
-name: LANDWOLF (AVAX)
+name: Landwolf (landwolfcoin)

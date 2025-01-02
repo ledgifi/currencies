@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x9F87C6c30F4b23C7B51Aa7465A9e0A836514700D'
-    platform: AVAX
+  - address: '0x09f9e239801d2086b5e4a0232540faa1b3b9e1e7'
+    platform: ETH
 crypto: true
 fiat: false
 id: TERRA
-id_coinmarketcap: '13781'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13781.png
+id_coinmarketcap: '34409'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34409.png
 logoKey: currencies/terra.png
-name: Avaterra
+name: Terra Ecosystem

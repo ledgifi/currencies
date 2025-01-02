@@ -1,7 +1,10 @@
+contracts:
+  - address: GyUYoBT1gcZBEVffWeGKQ3E2gzfNP5b8GEvnqAGjL6Hs
+    platform: SOL
 crypto: true
 fiat: false
 id: DPAY1
-id_coinmarketcap: '1427'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1427.png
+id_coinmarketcap: '21093'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21093.png
 logoKey: currencies/dpay1.png
-name: DPAY
+name: PayDex

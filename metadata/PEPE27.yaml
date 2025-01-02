@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xb0847fe2a383c20e77d3cb4ca7b788baf5c61ce3'
+    platform: BNB
 crypto: true
 fiat: false
 id: PEPE27
-id_coinmarketcap: '33728'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33728.png
+id_coinmarketcap: '29973'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29973.png
 logoKey: currencies/pepe27.png
-name: Pepe Miner
+name: PEPE World

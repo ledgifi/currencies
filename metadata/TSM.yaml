@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x2bD236Ad144753bD5839D82c46eE2C2225B9E0C0'
+    platform: BNB
 crypto: true
 fiat: false
 id: TSM
-id_coinmarketcap: '7893'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7893.png
+id_coinmarketcap: '23128'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23128.png
 logoKey: currencies/tsm.png
-name: Taiwan Semiconductor Mfg tokenized stock FTX
+name: Tusima Network

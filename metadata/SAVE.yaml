@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xc1eecf1f4af8eb9a2a19f6c26b434aa96ce859e1'
-    platform: ETH
+  - address: SAVEaeeqeXNKYb4Lyx28DkUms5gyZ76vGa6fCfdzWfK
+    platform: SOL
 crypto: true
 fiat: false
 id: SAVE
-id_coinmarketcap: '5789'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5789.png
+id_coinmarketcap: '34828'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34828.png
 logoKey: currencies/save.png
-name: SaveToken
+name: Save

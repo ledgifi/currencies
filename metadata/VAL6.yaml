@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xd67907ceef57bbc536094b59e1a67edee60697e0'
-    platform: BNB
+  - address: '0xe0474c15bc7f8213ee5bfb42f9e68b2d6be2e136'
+    platform: AVAX
 crypto: true
 fiat: false
 id: VAL6
-id_coinmarketcap: '21419'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21419.png
+id_coinmarketcap: '15611'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15611.png
 logoKey: currencies/val6.png
-name: Valhalla Protocol
+name: Vikings Finance

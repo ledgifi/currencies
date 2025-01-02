@@ -1,10 +1,10 @@
 contracts:
-  - address: 7qpKH1bkvoZPDGbtmjHa9opCGnzfeycD34iuDrJBpump
-    platform: SOL
+  - address: '0xb4B7b339949cC24b3508C4e37E252C2f982f3A41'
+    platform: BNB
 crypto: true
 fiat: false
 id: BOB5
-id_coinmarketcap: '32251'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32251.png
+id_coinmarketcap: '27378'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27378.png
 logoKey: currencies/bob5.png
-name: BOB (SOL)
+name: Hello Puppy

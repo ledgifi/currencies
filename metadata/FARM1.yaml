@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x5c15cdB9d43824DCA67Fceb1201e5aBeBE0b2CBc'
-    platform: MATIC
+  - address: '0x11c83b5cfeb6419a74a85a5aaba0511d'
+    platform: HYPE
 crypto: true
 fiat: false
 id: FARM1
-id_coinmarketcap: '33955'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33955.png
+id_coinmarketcap: '34751'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34751.png
 logoKey: currencies/farm1.png
-name: CryptoFarmers
+name: FARM

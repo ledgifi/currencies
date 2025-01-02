@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x4b91dfa774acde7ed70e93a6438363feaaa40f54'
-    platform: ETH
+  - address: '0xdbaaa36b347d56b77ce0e36f050fceebbf9fbc38'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPE1
-id_coinmarketcap: '13827'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13827.png
+id_coinmarketcap: '9303'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9303.png
 logoKey: currencies/spe1.png
-name: SavePlanetEarth
+name: Save Planet Earth (OLD)

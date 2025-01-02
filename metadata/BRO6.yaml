@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x2b45e21C35A33C58E4C5ce82A82466b0754Fd154'
-    platform: ARB
+  - address: '0x4e2e3611a93140d95417cefa2fae7ca5bcf1401e'
+    platform: BNB
+  - address: '0x8C073a039e3E5AEa0121f7eCc8Be3bA2ab64909E'
+    platform: ETH
 crypto: true
 fiat: false
 id: BRO6
-id_coinmarketcap: '22209'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22209.png
+id_coinmarketcap: '21879'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21879.png
 logoKey: currencies/bro6.png
-name: Brokkr
+name: Bird Bro

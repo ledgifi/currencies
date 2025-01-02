@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x326Fda97066970fbfbeE8308731ca40fAC682615'
-    platform: BNB
+  - address: '0xb5F6F05BC86a9D62F7165F606dc149c4c5F04ED1'
+    platform: ETH
 crypto: true
 fiat: false
 id: XDOGE4
-id_coinmarketcap: '22980'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22980.png
+id_coinmarketcap: '25544'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25544.png
 logoKey: currencies/xdoge4.png
-name: CHRISTMAS DOGE
+name: XENDoge

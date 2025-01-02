@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xeeee99b35eb6af5e7d76dd846dbe4bcc0c60ca1d'
-    platform: AVAX
+  - address: '0x2025b2f4c7abe6dcb3843c62c32dfa14990a6269'
+    platform: ETH
 crypto: true
 fiat: false
 id: SNEK1
-id_coinmarketcap: '24598'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24598.png
+id_coinmarketcap: '34968'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34968.png
 logoKey: currencies/snek1.png
-name: SoliSnek
+name: ETH Snek

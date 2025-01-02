@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x20547341e58fb558637fa15379c92e11f7b7f710'
+  - address: '0xE16e2548A576ad448FB014bBE85284D7f3542dF5'
     platform: ARB
-  - address: '0xc227717ef4ae4d982e14789eb33ba942243c3fee'
-    platform: TBA
 crypto: true
 fiat: false
 id: MOZ1
-id_coinmarketcap: '24839'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24839.png
+id_coinmarketcap: '34499'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34499.png
 logoKey: currencies/moz1.png
-name: Mozaic
+name: Lumoz

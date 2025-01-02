@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x4Aca0ad6357b918e3d06BB1a0BCC403619177523'
-    platform: AVAX
+  - address: '0x1e05c8b69e4128949fcef16811a819ef2f55d33e'
+    platform: ONE
 crypto: true
 fiat: false
 id: SONIC4
-id_coinmarketcap: '15014'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15014.png
+id_coinmarketcap: '13120'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13120.png
 logoKey: currencies/sonic4.png
-name: Sonic Token
+name: SonicSwap

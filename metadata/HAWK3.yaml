@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x69CBC7449ee102eB792f1656744bF1A7c1bACB7e'
-    platform: MATIC
+  - address: '0xe846d164b88ed2e1209609fea3cf7a3d89d70d2d'
+    platform: BNB
 crypto: true
 fiat: false
 id: HAWK3
-id_coinmarketcap: '9528'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9528.png
+id_coinmarketcap: '33383'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33383.png
 logoKey: currencies/hawk3.png
-name: HawkDex
+name: Hawk

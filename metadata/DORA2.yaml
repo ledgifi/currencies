@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xadaf3be815cd4345229324e02e839de85ce95dc2'
-    platform: BNB
+  - address: '0xbc4171f45EF0EF66E76F979dF021a34B46DCc81d'
+    platform: ETH
 crypto: true
 fiat: false
 id: DORA2
-id_coinmarketcap: '10192'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10192.png
+id_coinmarketcap: '8800'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8800.png
 logoKey: currencies/dora2.png
-name: Doraemoon
+name: Dora Factory (Old)

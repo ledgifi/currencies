@@ -1,10 +1,10 @@
 contracts:
-  - address: THDNyQz1BH9f5z9Ua1BMiytguoSZfVofH5
-    platform: TRX
+  - address: '0xd1d92f1c5524d93ced7bf6f418c8bf8abf68ac66'
+    platform: ETH
 crypto: true
 fiat: false
 id: BULL16
-id_coinmarketcap: '30066'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30066.png
+id_coinmarketcap: '28118'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28118.png
 logoKey: currencies/bull16.png
-name: BULL
+name: Bull Frog

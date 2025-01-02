@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x137fFd84025C582482E03D3A0B9f74c26dDDFBad'
+    platform: BNB
 crypto: true
 fiat: false
 id: HODL1
-id_coinmarketcap: '1195'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1195.png
+id_coinmarketcap: '31281'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31281.png
 logoKey: currencies/hodl1.png
-name: HOdlcoin
+name: HODL

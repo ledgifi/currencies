@@ -1,12 +1,10 @@
 contracts:
-  - address: '0xB4B07b60455a2F38cBA98A8f3Dd161f7cA396a9c'
-    platform: ARB
-  - address: '0xd0ea21ba66b67be636de1ec4bd9696eb8c61e9aa'
-    platform: ZK
+  - address: '0x5559A5D740c09fdfD9a9929C45297a6f633BBf12'
+    platform: BNB
 crypto: true
 fiat: false
 id: OT1
-id_coinmarketcap: '23563'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23563.png
+id_coinmarketcap: '26689'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26689.png
 logoKey: currencies/ot1.png
-name: Onchain Trade
+name: Olaf Token

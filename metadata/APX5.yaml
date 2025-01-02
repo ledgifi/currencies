@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x992ace1acb518837ac615b380719bfc0c64eaa8f'
+    platform: BNB
 crypto: true
 fiat: false
 id: APX5
-id_coinmarketcap: '19500'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19500.png
+id_coinmarketcap: '16403'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16403.png
 logoKey: currencies/apx5.png
-name: Appics
+name: Apollo Coin

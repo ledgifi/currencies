@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x8292bb45bf1ee4d140127049757c2e0ff06317ed'
+    platform: ETH
+  - address: rMxCKbEDwqr76QuheSUMdEGf4B9xJ8m5De
+    platform: XRP
+crypto: true
+fiat: false
+id: RLUSD
+id_coinmarketcap: '34387'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34387.png
+logoKey: currencies/rlusd.png
+name: Ripple USD

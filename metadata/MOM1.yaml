@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x211fa9e7e390c29b0ab1a9248949a0ab716c4154'
-    platform: BNB
+  - address: AwoQCa5BVt9y3bkVURkTSXCXnWGeXZrrdDPodQHjRoWm
+    platform: SOL
 crypto: true
 fiat: false
 id: MOM1
-id_coinmarketcap: '15557'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15557.png
+id_coinmarketcap: '32504'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32504.png
 logoKey: currencies/mom1.png
-name: Mother of Memes
+name: Mother of memes (SOL)

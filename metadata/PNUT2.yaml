@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xe69ccaaaea33ebfe5b76e0dd373cd9a1a31fd410'
-    platform: ETH
+  - address: 7jYfnjn3jHWmUhhgfkZ9uUEKroH3Zz1BvF8RmVQHm86D
+    platform: SOL
 crypto: true
 fiat: false
 id: PNUT2
-id_coinmarketcap: '33940'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33940.png
+id_coinmarketcap: '33789'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33789.png
 logoKey: currencies/pnut2.png
-name: Peanut the Squirrel on Ethereum
+name: Pnut

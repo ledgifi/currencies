@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xccac36423def6c19ee6b5679144e2976e309ca45'
-    platform: ETH
+  - address: '0x87Ffc48C9f89fc5dfA05836e083406D684FD6331'
+    platform: BNB
 crypto: true
 fiat: false
 id: HACHIKO1
-id_coinmarketcap: '9988'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9988.png
+id_coinmarketcap: '16563'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16563.png
 logoKey: currencies/hachiko1.png
-name: Hachiko Inu
+name: Hachiko

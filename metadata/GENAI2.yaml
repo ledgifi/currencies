@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x260eA2A1710f14D670A37cfA3f57A9CeD6E795e2'
-    platform: BNB
+  - address: '0x1131D427ECd794714ed00733aC0f851E904c8398'
+    platform: ETH
 crypto: true
 fiat: false
 id: GENAI2
-id_coinmarketcap: '23472'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23472.png
+id_coinmarketcap: '30908'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30908.png
 logoKey: currencies/genai2.png
-name: Genie AI
+name: GenBox

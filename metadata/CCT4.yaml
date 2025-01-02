@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xfc4b9e2d71a7795102Eb0C0e8b5DA992946a62De'
-    platform: ETH
+  - address: '0xd47B8865A79dFBc7E73F96D3a4Cca1C1d016DEc0'
+    platform: CORE
 crypto: true
 fiat: false
 id: CCT4
-id_coinmarketcap: '5054'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5054.png
+id_coinmarketcap: '26313'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26313.png
 logoKey: currencies/cct4.png
-name: Coupon Chain
+name: Corecuties

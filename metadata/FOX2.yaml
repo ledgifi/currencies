@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x62e3b3c557c792c4a70765b3cdb5b56b1879f82d'
-    platform: ETH
+  - address: '0x6bcc14b02cd624ebe1a8a665cb6d4067aa097230'
+    platform: ARB
 crypto: true
 fiat: false
 id: FOX2
-id_coinmarketcap: '32121'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32121.png
+id_coinmarketcap: '30602'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30602.png
 logoKey: currencies/fox2.png
-name: Fox
+name: Foxify

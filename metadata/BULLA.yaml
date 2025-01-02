@@ -1,0 +1,10 @@
+contracts:
+  - address: 0xeec46a9527885ade0b62b984315f2f45d4cd40d9a8c19a553e553e722ab33239::bulla::BULLA
+    platform: SUI
+crypto: true
+fiat: false
+id: BULLA
+id_coinmarketcap: '34580'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34580.png
+logoKey: currencies/bulla.png
+name: Bulla

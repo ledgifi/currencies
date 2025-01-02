@@ -1,7 +1,12 @@
+contracts:
+  - address: '0x68e2e5c9dff32419a108713f83274a4fb5e194ca'
+    platform: ETH
+  - address: '0xe898bcd00b86a3eae43914319d2d4460230f735c'
+    platform: TBA
 crypto: true
 fiat: false
 id: GLS1
-id_coinmarketcap: '2232'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2232.png
+id_coinmarketcap: '34729'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34729.png
 logoKey: currencies/gls1.png
-name: GlassCoin
+name: Glacier Network

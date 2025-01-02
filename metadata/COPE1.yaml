@@ -1,10 +1,10 @@
 contracts:
-  - address: o1Mw5Y3n68o8TakZFuGKLZMGjm72qv4JeoZvGiCLEvK
-    platform: SOL
+  - address: '0x633546a298e734700bdca888a87ab954159ec93c'
+    platform: TBA
 crypto: true
 fiat: false
 id: COPE1
-id_coinmarketcap: '23212'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23212.png
+id_coinmarketcap: '30414'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30414.png
 logoKey: currencies/cope1.png
-name: Cope
+name: COPE

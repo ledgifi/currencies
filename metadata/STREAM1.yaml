@@ -1,7 +1,10 @@
+contracts:
+  - address: 54jVZGHyWURX5evBtZqUsJjwoKzcZJbVokDU93AUZf2h
+    platform: SOL
 crypto: true
 fiat: false
 id: STREAM1
-id_coinmarketcap: '4365'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4365.png
+id_coinmarketcap: '30172'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30172.png
 logoKey: currencies/stream1.png
-name: Streamit Coin
+name: Solstream

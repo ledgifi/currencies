@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x2dBd86A424a815AD2A08a2D8dAE07007fed6Dc91'
-    platform: BNB
+  - address: '0x57700244B20f84799a31c6C96DadFF373ca9D6c5'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRUST2
-id_coinmarketcap: '9206'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9206.png
+id_coinmarketcap: '5972'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5972.png
 logoKey: currencies/trust2.png
-name: Trustworks
+name: TrustDAO

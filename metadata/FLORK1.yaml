@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x452c953e49D93b45C0b4b7B861B7Db6AC288450D'
-    platform: BNB
+  - address: '0xDB0238975Ce84f89212FFA56C64C0f2b47F8f153'
+    platform: ETH
 crypto: true
 fiat: false
 id: FLORK1
-id_coinmarketcap: '26401'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26401.png
+id_coinmarketcap: '32057'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32057.png
 logoKey: currencies/flork1.png
-name: FLORK
+name: HeyFlork

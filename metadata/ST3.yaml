@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x3394f112F6F985591D160a3bd9f2c6e1722280F5'
-    platform: ETH
+  - address: '0x6F706319C46D1b28508E8e4bCaA59e47D15e028C'
+    platform: BNB
 crypto: true
 fiat: false
 id: ST3
-id_coinmarketcap: '27168'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27168.png
+id_coinmarketcap: '20434'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20434.png
 logoKey: currencies/st3.png
-name: STCoin
+name: Sealem Token

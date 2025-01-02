@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x3f6b2d68980db7371d3d0470117393c9262621ea'
+  - address: '0xE3EF5EB1A78E1d1a4Ef345052242cBcbcBCF164D'
     platform: BNB
-  - address: '0x7121d00b4fa18f13da6c2e30d19c04844e6afdc8'
-    platform: ETH
 crypto: true
 fiat: false
 id: LUFFY1
-id_coinmarketcap: '11856'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11856.png
+id_coinmarketcap: '34523'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34523.png
 logoKey: currencies/luffy1.png
-name: Luffy [Old]
+name: Luffy Mugiwara

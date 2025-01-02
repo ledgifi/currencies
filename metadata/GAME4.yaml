@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x66109633715d2110dda791e64a7b2afadb517abb'
-    platform: BNB
-  - address: '0xD567B5F02b9073aD3a982a099a23Bf019FF11d1c'
-    platform: ETH
+  - address: '0xc4cbd54ffa7a6a142fd73554cc6c23dd95cd8e01'
+    platform: ARB
 crypto: true
 fiat: false
 id: GAME4
-id_coinmarketcap: '10861'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10861.png
+id_coinmarketcap: '31573'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31573.png
 logoKey: currencies/game4.png
-name: Gamestarter
+name: $GAME Token

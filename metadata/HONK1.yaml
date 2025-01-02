@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xd8e8438cf7beed13cfabc82f300fb6573962c9e3'
-    platform: ETH
+  - address: 3ag1Mj9AKz9FAkCQ6gAEhpLSX8B2pUbPdkb9iBsDLZNB
+    platform: SOL
 crypto: true
 fiat: false
 id: HONK1
-id_coinmarketcap: '31770'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31770.png
+id_coinmarketcap: '29153'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29153.png
 logoKey: currencies/honk1.png
-name: Pepoclown
+name: Honk

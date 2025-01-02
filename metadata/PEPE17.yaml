@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x000c94565910eD59AB98Fc47Fe3b39ed5Acba34C'
-    platform: BNB
+  - address: '0xfe1ef2b469846d1832b25095ff51b004f090e0c6'
+    platform: ETH
 crypto: true
 fiat: false
 id: PEPE17
-id_coinmarketcap: '29783'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29783.png
+id_coinmarketcap: '25289'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25289.png
 logoKey: currencies/pepe17.png
-name: SUPER PEPE
+name: Pepe Coin

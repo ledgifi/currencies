@@ -1,6 +1,8 @@
 contracts:
   - address: '0x85dec8c4B2680793661bCA91a8F129607571863d'
     platform: FTM
+  - address: '0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44'
+    platform: S
 crypto: true
 decimals: 8
 fiat: false

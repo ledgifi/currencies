@@ -3,8 +3,6 @@ contracts:
     platform: BNB
   - address: '0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e'
     platform: ETH
-  - address: '0x329dda64cbc4dfd5fa5072b447b3941ce054ebb3'
-    platform: HT
 crypto: true
 fiat: false
 id: SWFTC

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xf18432ef894ef4b2a5726f933718f5a8cf9ff831'
-    platform: ETH
+  - address: AmtvMBMYtb5auN4KiFdMe9C8wjiu1KQZYQUL73Pw7ZZE
+    platform: SOL
 crypto: true
 fiat: false
 id: BIO1
-id_coinmarketcap: '4657'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4657.png
+id_coinmarketcap: '34329'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34329.png
 logoKey: currencies/bio1.png
-name: BioCrypt
+name: bioDAOs

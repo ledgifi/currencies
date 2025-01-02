@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x421b05cf5ce28Cb7347E73e2278E84472F0E4a88'
+    platform: ETH
 crypto: true
 fiat: false
 id: SEN
-id_coinmarketcap: '2621'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2621.png
+id_coinmarketcap: '34916'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34916.png
 logoKey: currencies/sen.png
-name: Sentient Coin
+name: Sentio Protocol

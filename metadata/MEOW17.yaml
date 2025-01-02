@@ -1,10 +1,10 @@
 contracts:
-  - address: CjZa49GtXdFnZftPVvQBakRP72H5NHMVWtMbeVbFkrhB
-    platform: SOL
+  - address: '0x3AaD7cBBb2ab50946436215b19202C42E9156fA4'
+    platform: ETH
 crypto: true
 fiat: false
 id: MEOW17
-id_coinmarketcap: '29784'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29784.png
+id_coinmarketcap: '26652'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26652.png
 logoKey: currencies/meow17.png
-name: Meow Meow Coin
+name: MEOW

@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xF8dfC70A422CcF0ab206adf7b043fDfB410cAAB5'
+    platform: BNB
 crypto: true
 fiat: false
 id: ELYS1
-id_coinmarketcap: '32959'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32959.png
+id_coinmarketcap: '24960'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24960.png
 logoKey: currencies/elys1.png
-name: Elys Network
+name: Elysium

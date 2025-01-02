@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x050c24dbf1eec17babe5fc585f06116a259cc77a'
-    platform: ARB
+  - address: '0xb7c4a82936194fee52a4e3d4cec3415f74507532'
+    platform: ETH
 crypto: true
 fiat: false
 id: IBTC1
-id_coinmarketcap: '32716'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32716.png
+id_coinmarketcap: '2131'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2131.png
 logoKey: currencies/ibtc1.png
 name: iBTC

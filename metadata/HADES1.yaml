@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x88c37e0bc6a237e96bc4a82774a38bbc30eff3cf'
-    platform: METIS
+  - address: BWXrrYFhT7bMHmNBFoQFWdsSgA3yXoAnMhDK6Fn1eSEn
+    platform: SOL
 crypto: true
 fiat: false
 id: HADES1
-id_coinmarketcap: '16953'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16953.png
+id_coinmarketcap: '23405'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23405.png
 logoKey: currencies/hades1.png
-name: Hades Money
+name: Hadeswap

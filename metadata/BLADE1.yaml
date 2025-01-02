@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x26380930191673eA8D3887BeE116d2e9996D048B'
+    platform: BNB
+  - address: '0xc9950a24e98B7d71f0565C3e10048e5F8EC43050'
+    platform: IOTX
+  - address: '0xa07403c1bd0c5cf53df07f15faa589241352527b'
+    platform: OKT
+crypto: true
+fiat: false
+id: BLADE1
+id_coinmarketcap: '11972'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11972.png
+logoKey: currencies/blade1.png
+name: BladeWarrior

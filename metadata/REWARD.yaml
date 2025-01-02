@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xe552bbA3040D31Aca73880fbd400A70C9B870495'
-    platform: BNB
+  - address: '0x1986Cc18D8eC757447254310D2604f85741aA732'
+    platform: TBA
 crypto: true
 fiat: false
 id: REWARD
-id_coinmarketcap: '23243'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23243.png
+id_coinmarketcap: '34365'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34365.png
 logoKey: currencies/reward.png
-name: RewardTax
+name: Rewardable

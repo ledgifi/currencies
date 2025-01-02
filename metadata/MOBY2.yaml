@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x47a57a9174fd8e4228e31735238a3059cfe6ecd2'
-    platform: BNB
+  - address: '0x40a7df3df8b56147b781353d379cb960120211d7'
+    platform: ETH
 crypto: true
 fiat: false
 id: MOBY2
-id_coinmarketcap: '19475'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19475.png
+id_coinmarketcap: '29392'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29392.png
 logoKey: currencies/moby2.png
-name: Moby Dick V2
+name: Moby

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x77f6a5f1b7a2b6d6c322af8581317d6bb0a52689'
-    platform: BNB
+  - address: '0xa4bad5d040d4464ec5ce130987731f2f428c9307'
+    platform: ETH
 crypto: true
 fiat: false
 id: SPORE2
-id_coinmarketcap: '8589'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8589.png
+id_coinmarketcap: '7496'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7496.png
 logoKey: currencies/spore2.png
-name: Spore Engineering
+name: Enoki Finance

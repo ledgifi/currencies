@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x6432096f054288ee45b7f6ad8863a1f4a8e1201c'
-    platform: TBA
+  - address: '0x8387c2d1b0eea6b91b910aff66a7bd2710a5946a'
+    platform: ETH
 crypto: true
 fiat: false
 id: FOMO12
-id_coinmarketcap: '30091'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30091.png
+id_coinmarketcap: '25251'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25251.png
 logoKey: currencies/fomo12.png
-name: Fomo Base
+name: FOMO

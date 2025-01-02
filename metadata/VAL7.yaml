@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x891c203609866791dce93644476344e8a9892a4f'
-    platform: ETH
+  - address: '0xd67907ceef57bbc536094b59e1a67edee60697e0'
+    platform: BNB
 crypto: true
 fiat: false
 id: VAL7
-id_coinmarketcap: '25441'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25441.png
+id_coinmarketcap: '21419'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21419.png
 logoKey: currencies/val7.png
-name: Valhalla
+name: Valhalla Protocol

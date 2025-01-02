@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xe06f46afd251b06152b478d8ee3acea534063994'
-    platform: BNB
+  - address: '0xbe58fda3bcf03b6bbc821d1f0e6b764c86709227'
+    platform: TBA
 crypto: true
 fiat: false
 id: VFX
-id_coinmarketcap: '24388'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24388.png
+id_coinmarketcap: '34601'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34601.png
 logoKey: currencies/vfx.png
-name: Vault Finance
+name: Vabble v2

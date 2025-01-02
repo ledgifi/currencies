@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x99cd7207d1cbe59033a01892c06889adae47b0e5'
+    platform: BNB
 crypto: true
 fiat: false
 id: BULL9
-id_coinmarketcap: '5056'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5056.png
+id_coinmarketcap: '20156'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20156.png
 logoKey: currencies/bull9.png
-name: BuySell
+name: Bullshit Inu

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xf307a39752da29b1c1e45c2c1476976eab272686'
-    platform: CRO
+  - address: '0x3d9a4d8ab4f5bd1d5d08ae3a95e8ed8bb4d7e3b9'
+    platform: ETH
 crypto: true
 fiat: false
 id: STONKS2
-id_coinmarketcap: '31273'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31273.png
+id_coinmarketcap: '24651'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24651.png
 logoKey: currencies/stonks2.png
-name: Stonks
+name: Stonks DAO

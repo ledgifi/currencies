@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xdd162b1bfa615543b66d8907837e797a1050c23f'
-    platform: TBA
+  - address: '0xe69ccaaaea33ebfe5b76e0dd373cd9a1a31fd410'
+    platform: ETH
 crypto: true
 fiat: false
 id: PNUT1
-id_coinmarketcap: '34210'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34210.png
+id_coinmarketcap: '33940'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33940.png
 logoKey: currencies/pnut1.png
-name: PNUT on Base
+name: Peanut the Squirrel on Ethereum

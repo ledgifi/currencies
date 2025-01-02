@@ -1,10 +1,10 @@
 contracts:
-  - address: 3kwu1PS6v53eRcqMBpouVjLCz3ytW6F7TaTpjagjMs9V
-    platform: SOL
+  - address: '0x9727eaf447203be268e5D471b6503Bf47A71eA72'
+    platform: ETH
 crypto: true
 fiat: false
 id: ARKY
-id_coinmarketcap: '32502'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32502.png
+id_coinmarketcap: '31065'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31065.png
 logoKey: currencies/arky.png
-name: Arky Satoshi's Dog
+name: Arky

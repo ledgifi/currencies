@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x42069cc15F5BEfb510430d22Ff1c9A1b3ae22CfE'
+  - address: '0x93dfaf57d986b9ca77df9376c50878e013d9c7c8'
     platform: ETH
+  - address: '0x0047e323378d23116261954e67836f350c45625124bbadb35404d9109026feb5'
+    platform: XOR
 crypto: true
 fiat: false
 id: RARE2
-id_coinmarketcap: '32377'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32377.png
+id_coinmarketcap: '8125'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8125.png
 logoKey: currencies/rare2.png
-name: Rare Pepe
+name: Unique One

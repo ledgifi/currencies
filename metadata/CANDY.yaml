@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x32043520205367a68b527881fA594Bbc714f80ec'
-    platform: MATIC
+  - address: '0x06C04B0AD236e7Ca3B3189b1d049FE80109C7977'
+    platform: CRO
 crypto: true
 fiat: false
 id: CANDY
-id_coinmarketcap: '26858'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26858.png
+id_coinmarketcap: '22794'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22794.png
 logoKey: currencies/candy.png
-name: Candy Pocket
+name: Bored Candy City

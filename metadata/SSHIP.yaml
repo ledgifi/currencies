@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x68a82c8a65e2e02e217f9baaf304c8d565f7fb59'
+    platform: ETH
 crypto: true
 fiat: false
 id: SSHIP
-id_coinmarketcap: '25811'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25811.png
+id_coinmarketcap: '34860'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34860.png
 logoKey: currencies/sship.png
-name: StarShip BSC
+name: StarShip

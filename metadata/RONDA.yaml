@@ -1,0 +1,10 @@
+contracts:
+  - address: 0xdc9b462697876ff4c680e59b3756ac39a6899cfbc355a6880c60e01c8930b3cc::ronda::RONDA
+    platform: SUI
+crypto: true
+fiat: false
+id: RONDA
+id_coinmarketcap: '34324'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34324.png
+logoKey: currencies/ronda.png
+name: Ronda On Sui

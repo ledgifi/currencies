@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x38ed8a2ad425eb024995a2238cdad2bac30086d7'
+    platform: ETH
 crypto: true
 fiat: false
 id: FOMO11
-id_coinmarketcap: '33496'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33496.png
+id_coinmarketcap: '24609'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24609.png
 logoKey: currencies/fomo11.png
-name: FOMO
+name: Fomo ERC20

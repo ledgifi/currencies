@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xd74433b187cf0ba998ad9be3486b929c76815215'
-    platform: ONE
+  - address: '0x4b4d2e899658fb59b1d518b68fe836b100ee8958'
+    platform: ETH
 crypto: true
 fiat: false
 id: MIS
-id_coinmarketcap: '16988'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16988.png
+id_coinmarketcap: '8141'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8141.png
 logoKey: currencies/mis.png
-name: Artemis Protocol
+name: Mithril Share

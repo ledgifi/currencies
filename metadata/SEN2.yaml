@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x23383e18deedf460ebb918545c8b0588038b7998'
-    platform: BNB
+  - address: '0xb697231730C004110A86f51BfF4B8DD085c0CB28'
+    platform: KAI
 crypto: true
 fiat: false
 id: SEN2
-id_coinmarketcap: '19515'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19515.png
+id_coinmarketcap: '13903'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13903.png
 logoKey: currencies/sen2.png
-name: Senspark
+name: SleepEarn Finance

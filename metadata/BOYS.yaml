@@ -1,6 +1,8 @@
 contracts:
   - address: '0x706987611C5d2052541D64ef8f036916807c916A'
     platform: ETH
+  - address: 9cLx6w1fN6b67VxsGxaFaCTgQcNqsA51p4uMWdkgQqmC
+    platform: SOL
 crypto: true
 fiat: false
 id: BOYS

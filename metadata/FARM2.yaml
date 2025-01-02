@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xad759b4634bf48c982541c8db61b4581470b4974'
-    platform: BNB
+  - address: '0x5c15cdB9d43824DCA67Fceb1201e5aBeBE0b2CBc'
+    platform: MATIC
 crypto: true
 fiat: false
 id: FARM2
-id_coinmarketcap: '16274'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16274.png
+id_coinmarketcap: '33955'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33955.png
 logoKey: currencies/farm2.png
-name: Agrofarm
+name: CryptoFarmers

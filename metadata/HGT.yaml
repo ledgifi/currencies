@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xba2184520a1cc49a6159c57e61e1844e085615b6'
-    platform: ETH
+  - address: HGTxJQKzuMjzKkHVpRLcFHwE6ngVCJbcP35FDQtmRzhx
+    platform: SOL
 crypto: true
 fiat: false
 id: HGT
-id_coinmarketcap: '2042'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2042.png
+id_coinmarketcap: '34370'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34370.png
 logoKey: currencies/hgt.png
-name: HelloGold
+name: Project Hive

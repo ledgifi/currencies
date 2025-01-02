@@ -34,6 +34,8 @@ contracts:
     platform: XOR
   - address: KT19at7rQUvyjxnZ2fBv7D9zc8rkyG7gAoU8
     platform: XTZ
+  - address: '0x000000000000000000000000000000000000800A'
+    platform: ZK
 crypto: true
 decimals: 9
 fiat: false

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x7F465507f058e17Ad21623927a120ac05CA32741'
-    platform: ARB
+  - address: '0x2903Bd7dB50f300b0884f7a15904bAffc77f3eC7'
+    platform: ETH
 crypto: true
 fiat: false
 id: ARC2
-id_coinmarketcap: '23486'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23486.png
+id_coinmarketcap: '30362'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30362.png
 logoKey: currencies/arc2.png
-name: Arcadeum
+name: Arcade

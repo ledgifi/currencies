@@ -1,10 +1,12 @@
 contracts:
-  - address: '0xa0dc5132c91ea4d94fcf1727c32cc5a303b34cfc'
+  - address: '0x157a6df6B74F4E5E45af4E4615FDe7B49225a662'
     platform: ETH
+  - address: '0x157a6df6B74F4E5E45af4E4615FDe7B49225a662'
+    platform: TBA
 crypto: true
 fiat: false
 id: ISLAND
-id_coinmarketcap: '13888'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13888.png
+id_coinmarketcap: '34794'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34794.png
 logoKey: currencies/island.png
-name: Island Doges
+name: ISLAND Token

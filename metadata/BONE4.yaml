@@ -1,10 +1,10 @@
 contracts:
-  - address: 7hzZSZecEEBftmoe97BMSKfdGhYVJRXqrFaZ8TwZiDM4
-    platform: SOL
+  - address: '0x67915e893b68fbc436a288564fff1476b632b009'
+    platform: BNB
 crypto: true
 fiat: false
 id: BONE4
-id_coinmarketcap: '23162'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23162.png
+id_coinmarketcap: '20809'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20809.png
 logoKey: currencies/bone4.png
 name: Bone

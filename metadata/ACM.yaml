@@ -1,6 +1,8 @@
 contracts:
   - address: '0xEA6A3E367e96521fD9E8296425a44EFa6aee82da'
     platform: CHZ
+  - address: '0xF9C0F80a6c67b1B39bdDF00ecD57f2533ef5b688'
+    platform: CHZ
 crypto: true
 decimals: 8
 fiat: false

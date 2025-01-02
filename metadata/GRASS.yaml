@@ -1,10 +1,12 @@
 contracts:
-  - address: '0xA63f8bC44F4C8999f61ab986D9Dc3A2635f80Da9'
-    platform: ETH
+  - address: 3T3R5KTAXgMF5KVw6v38qUfSUernCHQwYFzfVo1jdjMX
+    platform: SOL
+  - address: '0xbb4f69a0fca3f63477b6b3b2a3e8491e5425a356'
+    platform: TBA
 crypto: true
 fiat: false
 id: GRASS
-id_coinmarketcap: '25335'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25335.png
+id_coinmarketcap: '32276'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32276.png
 logoKey: currencies/grass.png
-name: TouchGrass
+name: Touch Grass

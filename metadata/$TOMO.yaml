@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x6A4402a535d74Bd0C9cDb5Ce2d51822Fc9F6620E'
+    platform: ETH
+crypto: true
+fiat: false
+id: $TOMO
+id_coinmarketcap: '34314'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34314.png
+logoKey: currencies/$tomo.png
+name: Tomo Cat

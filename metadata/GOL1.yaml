@@ -1,10 +1,12 @@
 contracts:
-  - address: 9sjyR4GrozeV8a9xM3ykKPGPXJYASy9AuufzefCyaCnP
-    platform: SOL
+  - address: '0xf6d7181B5a07C2C2F38d044E5c5D15E63624a217'
+    platform: BNB
+  - address: '0x083d41d6dd21ee938f0c055ca4fb12268df0efac'
+    platform: ETH
 crypto: true
 fiat: false
 id: GOL1
-id_coinmarketcap: '30903'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30903.png
+id_coinmarketcap: '9670'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9670.png
 logoKey: currencies/gol1.png
-name: Golazo
+name: GogolCoin

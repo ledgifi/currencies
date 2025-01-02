@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x136E2Ff1463397B2E4Bdb828c73693eA6bD3e03A'
-    platform: BNB
+  - address: 0x8b2df69c9766e18486c37e3cfc53c6ce6e9aa58bbc606a8a0a219f24cf9eafc1::sui_launch_token::SuiLaunchToken
+    platform: APT
 crypto: true
 fiat: false
 id: SLT5
-id_coinmarketcap: '19124'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19124.png
+id_coinmarketcap: '25247'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25247.png
 logoKey: currencies/slt5.png
-name: SafeWallet Token
+name: Sui Launch Token

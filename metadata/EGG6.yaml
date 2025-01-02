@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x7761e2338b35bceb6bda6ce477ef012bde7ae611'
-    platform: AVAX
+  - address: 4ynyx6BzY2XGFgjjun9Cruj1bSRo8FLsAqNnPsW6jDsu
+    platform: SOL
 crypto: true
 fiat: false
 id: EGG6
-id_coinmarketcap: '16330'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16330.png
+id_coinmarketcap: '29211'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29211.png
 logoKey: currencies/egg6.png
-name: Chikn Egg
+name: EGG SOL

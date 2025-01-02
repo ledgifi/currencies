@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x0cF453DC7EA21ef8FdfFC1B14Cb848E1e3884Be5'
-    platform: BNB
+  - address: '0x2d64750ec85f6ec442e3093d74c7b1b0a133be6a'
+    platform: ETH
 crypto: true
 fiat: false
 id: POINT1
-id_coinmarketcap: '31922'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31922.png
+id_coinmarketcap: '21823'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21823.png
 logoKey: currencies/point1.png
-name: SportPoint
+name: Point Coin

@@ -1,12 +1,10 @@
 contracts:
-  - address: '0xae620dc4b9b6e44fbeb4a949f63ac957cc43b5dd'
-    platform: CRO
-  - address: '0x925FAdb35B73720238cc78777d02ED4dD3100816'
-    platform: MATIC
+  - address: '0xf477AC7719e2e659001455cDDA0cc8f3aD10b604'
+    platform: ETH
 crypto: true
 fiat: false
 id: AUTOS
-id_coinmarketcap: '21616'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21616.png
+id_coinmarketcap: '34573'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34573.png
 logoKey: currencies/autos.png
-name: AutoSingle
+name: CryptoAutos

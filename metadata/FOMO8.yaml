@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x38ed8a2ad425eb024995a2238cdad2bac30086d7'
-    platform: ETH
+  - address: '0x1f508e77cd0d30792a2cf1558da3d5ad382328a4'
+    platform: BNB
 crypto: true
 fiat: false
 id: FOMO8
-id_coinmarketcap: '24609'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24609.png
+id_coinmarketcap: '17671'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17671.png
 logoKey: currencies/fomo8.png
-name: Fomo ERC20
+name: FOMO

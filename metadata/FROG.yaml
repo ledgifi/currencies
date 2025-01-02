@@ -1,10 +1,10 @@
 contracts:
-  - address: sm6LoSiRQLM28rMgcd8GtR5XBkZFMEYXgEUgwCxpump
-    platform: SOL
+  - address: '0x4AD663403df2F0E7987bC9C74561687472e1611C'
+    platform: BNB
 crypto: true
 fiat: false
 id: FROG
-id_coinmarketcap: '34128'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34128.png
+id_coinmarketcap: '34587'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34587.png
 logoKey: currencies/frog.png
-name: FROG
+name: Frodo the virtual samurai

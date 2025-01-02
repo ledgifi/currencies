@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1'
-    platform: BNB
-  - address: '0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1'
+  - address: '0x440f52c497a0f5163259e16d3d95a533b99be961'
     platform: ETH
 crypto: true
 fiat: false
 id: TBC3
-id_coinmarketcap: '10128'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10128.png
+id_coinmarketcap: '22945'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22945.png
 logoKey: currencies/tbc3.png
-name: TeraBlock
+name: TURBOCHAIN

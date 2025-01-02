@@ -1,0 +1,18 @@
+contracts:
+  - address: '0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8'
+    platform: ARB
+  - address: '0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8'
+    platform: ETH
+  - address: '0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8'
+    platform: GNO
+  - address: '0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8'
+    platform: MATIC
+  - address: '0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8'
+    platform: OP
+crypto: true
+fiat: false
+id: CLEAR
+id_coinmarketcap: '34512'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34512.png
+logoKey: currencies/clear.png
+name: Everclear

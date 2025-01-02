@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x2090c8295769791ab7a3cf1cc6e0aa19f35e441a'
-    platform: BNB
+  - address: '0x675B68AA4d9c2d3BB3F0397048e62E6B7192079c'
+    platform: ETH
 crypto: true
 fiat: false
 id: FUEL1
-id_coinmarketcap: '8659'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8659.png
+id_coinmarketcap: '24087'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24087.png
 logoKey: currencies/fuel1.png
-name: Jetfuel Finance
+name: Fuel Network

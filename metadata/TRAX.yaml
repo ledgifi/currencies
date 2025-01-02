@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xd09d8d172dbb6b9209b1a9f8f7a67a6f1f99244a'
-    platform: BNB
+  - address: ecu3s-hiaaa-aaaaq-aacaq-cai
+    platform: ICP
 crypto: true
 fiat: false
 id: TRAX
-id_coinmarketcap: '11204'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11204.png
+id_coinmarketcap: '34408'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34408.png
 logoKey: currencies/trax.png
-name: Privi TRAX
+name: TRAX

@@ -1,10 +1,10 @@
 contracts:
-  - address: 0x3e2c812d31f64c871f95a6829d9ba4ea5ecb2bbf68c85614d2a083b198caaa05::brett::BRETT
-    platform: SUI
+  - address: EQAnmanJNfO07EHZAsHode4AyxCFboiobF1-Y04Q7UG9sinZ
+    platform: TON
 crypto: true
 fiat: false
 id: BRETT6
-id_coinmarketcap: '33422'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33422.png
+id_coinmarketcap: '31992'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31992.png
 logoKey: currencies/brett6.png
-name: Brett (brettsui.com)
+name: Brett (TON)

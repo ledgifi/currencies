@@ -1,7 +1,15 @@
+color: '#f70808'
+contracts:
+  - address: '0x5B08fEE76c6b1D4F5faB98FC41a242B51cb090df'
+    platform: AVAX
+  - address: '0x2DD1DaEd2951aEc5Ba360Acb3256473181ef9751'
+    platform: BEAM
+  - address: '0xC29bBE89E98250eE2eee3ac677BbeD542A049EFB'
+    platform: ETH
 crypto: true
 fiat: false
 id: CDN
-id_coinmarketcap: '304'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/304.png
+id_coinmarketcap: '34494'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34494.png
 logoKey: currencies/cdn.png
-name: Canada eCoin
+name: CEDEN Network

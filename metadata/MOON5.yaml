@@ -1,10 +1,12 @@
 contracts:
-  - address: '0xc56d17dD519e5eB43a19C9759b5D5372115220BD'
-    platform: MATIC
+  - address: '0x68a3637bA6E75c0f66B61A42639c4e9fCD3D4824'
+    platform: ETH
+  - address: '0x5b917D4fb9B27591353211c32F1552A527987AFC'
+    platform: GNO
 crypto: true
 fiat: false
 id: MOON5
-id_coinmarketcap: '10229'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10229.png
+id_coinmarketcap: '7017'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7017.png
 logoKey: currencies/moon5.png
-name: Polywolf
+name: MoonSwap

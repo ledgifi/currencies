@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x49fb8ad7578148E17c3eF0C344CE23A66ed372C4'
+    platform: ETH
+crypto: true
+fiat: false
+id: TAOBOT
+id_coinmarketcap: '34835'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34835.png
+logoKey: currencies/taobot.png
+name: tao.bot

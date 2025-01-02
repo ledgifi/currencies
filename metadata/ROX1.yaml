@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x574f84108a98c575794f75483d801d1d5dc861a5'
+    platform: ETH
 crypto: true
 fiat: false
 id: ROX1
-id_coinmarketcap: '420'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/420.png
+id_coinmarketcap: '3325'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3325.png
 logoKey: currencies/rox1.png
-name: ROXcoin
+name: Robotina

@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x2ef8a2Ccb058915E00E16aA13Cc6E36F19D8893b'
+    platform: ETH
 crypto: true
 fiat: false
 id: VDO
-id_coinmarketcap: '665'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/665.png
+id_coinmarketcap: '34974'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34974.png
 logoKey: currencies/vdo.png
-name: Vidio
+name: Validao

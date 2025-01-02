@@ -1,10 +1,10 @@
 contracts:
-  - address: HCddnnDKSeCCJuLa5M64tQUCwXocjCdJUhH5T2KCptuk
-    platform: SOL
+  - address: '0x8282c1daa19ee23276f307b8f4aff5002af53211'
+    platform: BNB
 crypto: true
 fiat: false
 id: BIDEN1
-id_coinmarketcap: '31648'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31648.png
+id_coinmarketcap: '15793'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15793.png
 logoKey: currencies/biden1.png
-name: Joe Biden 2024
+name: Biden Token

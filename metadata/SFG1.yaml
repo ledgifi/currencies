@@ -1,12 +1,10 @@
 contracts:
-  - address: '0xa71dcaaf5ba390b1b2012323a8810fac121f90dd'
-    platform: BNB
-  - address: '0xA71DCaaf5ba390B1B2012323A8810fAc121F90dd'
-    platform: ETH
+  - address: BLiUhfaUFbSoMVeRqq3QYTA1eJsTsB3ZDEYtUsGGQ9em
+    platform: SOL
 crypto: true
 fiat: false
 id: SFG1
-id_coinmarketcap: '24195'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24195.png
+id_coinmarketcap: '34734'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34734.png
 logoKey: currencies/sfg1.png
-name: SafeGrow
+name: SolForge Fusion

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xA7d9D54A98aDC16E6aA980e845C740053b5B7771'
-    platform: BNB
+  - address: '0xae93dfbef7cfbbaca7c3a9e8b55ae1be34c3db16'
+    platform: ETH
 crypto: true
 fiat: false
 id: MOM5
-id_coinmarketcap: '27936'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27936.png
+id_coinmarketcap: '26444'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26444.png
 logoKey: currencies/mom5.png
-name: Mastery Of Monsters
+name: YourMom

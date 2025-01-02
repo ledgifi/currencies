@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xc4c75f2a0cb1a9acc33929512dc9733ea1fd6fde'
-    platform: ETH
+  - address: E3SPN9aQjT6yeCsQou5wKb5iaG68CbUE8ZnBaFBpump
+    platform: SOL
 crypto: true
 fiat: false
 id: MSI1
-id_coinmarketcap: '20990'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20990.png
+id_coinmarketcap: '34826'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34826.png
 logoKey: currencies/msi1.png
-name: Martin Shkreli Inu
+name: Monkey Sol Inu

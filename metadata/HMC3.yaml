@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x2407f9136df8ddf84fd9bde34d48cfc32305447b'
-    platform: BNB
+  - address: '0xAa0bb10CEc1fa372eb3Abc17C933FC6ba863DD9E'
+    platform: ETH
 crypto: true
 fiat: false
 id: HMC3
-id_coinmarketcap: '14618'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14618.png
+id_coinmarketcap: '2484'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2484.png
 logoKey: currencies/hmc3.png
-name: Hamdan Coin
+name: Hi Mutual Society

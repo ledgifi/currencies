@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xe4fcf2d991505089bbb36275570757c1f9800cb0'
-    platform: TBA
+  - address: 0:3a26c7d83b44dcb80818898a0846411db1446071725de8d77c706f8a56ee45a8
+    platform: VENOM
 crypto: true
 fiat: false
 id: PURR1
-id_coinmarketcap: '30646'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30646.png
+id_coinmarketcap: '20771'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20771.png
 logoKey: currencies/purr1.png
-name: Purrcoin
+name: SpartaCats

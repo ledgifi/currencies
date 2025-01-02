@@ -1,5 +1,10 @@
+contracts:
+  - address: '0xb54a58cdc7d3fefd93ea4454e0c1a23da8bedc6f'
+    platform: BNB
 crypto: true
 fiat: false
 id: HOODRAT1
-id_coinmarketcap: '11917'
-name: Hoodrat Finance
+id_coinmarketcap: '10071'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10071.png
+logoKey: currencies/hoodrat1.png
+name: Ratify

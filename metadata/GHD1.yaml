@@ -1,12 +1,10 @@
 contracts:
-  - address: '0xfDFD27aE39cebefDBaAc8615F18aa68DDD0F15f5'
+  - address: '0x7399717d8c0a59732baf851a48685b284c0deb12'
     platform: BNB
-  - address: '0x3b544e6fcf6c8dce9d8b45a4fdf21c9b02f9fda9'
-    platform: ETH
 crypto: true
 fiat: false
 id: GHD1
-id_coinmarketcap: '7126'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7126.png
+id_coinmarketcap: '31902'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31902.png
 logoKey: currencies/ghd1.png
-name: Giftedhands [Old]
+name: Giftedhands [New]

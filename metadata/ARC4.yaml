@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x3Fb2Adf906030a5BebDBf9EF42AAD978151a2676'
+    platform: BNB
 crypto: true
 fiat: false
 id: ARC4
-id_coinmarketcap: '1434'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1434.png
+id_coinmarketcap: '13933'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13933.png
 logoKey: currencies/arc4.png
-name: Advanced Technology Coin
+name: ArcadeNetwork

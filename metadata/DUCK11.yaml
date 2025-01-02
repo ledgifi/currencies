@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xdCA716B7360B76383E8f7B82AeFCbe632fC381af'
-    platform: TBA
+  - address: '0x70d70a716cDF5f5335E62d298A848F5a8228F473'
+    platform: ETH
 crypto: true
 fiat: false
 id: DUCK11
-id_coinmarketcap: '33298'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33298.png
+id_coinmarketcap: '32294'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32294.png
 logoKey: currencies/duck11.png
-name: Smoking Duck
+name: Return of the QUACK

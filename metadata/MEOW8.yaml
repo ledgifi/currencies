@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xfE4EE5EA324CDa81FEF5973f3cfC0a213879f2B2'
+    platform: ETH
 crypto: true
 fiat: false
 id: MEOW8
-id_coinmarketcap: '102'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/102.png
+id_coinmarketcap: '33957'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33957.png
 logoKey: currencies/meow8.png
-name: Kittehcoin
+name: Meow

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xde73e4852f8f7B07aA044190787F33750Df04f56'
-    platform: BNB
+  - address: '0x05c7065d644096a4e4c3fe24af86e36de021074b'
+    platform: ETH
 crypto: true
 fiat: false
 id: LCT1
-id_coinmarketcap: '33928'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33928.png
+id_coinmarketcap: '2365'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2365.png
 logoKey: currencies/lct1.png
-name: Lemonschain
+name: LendConnect

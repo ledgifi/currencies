@@ -1,3 +1,6 @@
+contracts:
+  - address: 0x1ef4c0b20340b8c6a59438204467ca71e1e7cbe918526f9c2c6c5444517cd5ca::chirp::CHIRP
+    platform: SUI
 crypto: true
 fiat: false
 id: CHIRP2

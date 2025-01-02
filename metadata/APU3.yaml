@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xEd8Aa3907432Db4c7A785e2c3910fb40910940cC'
-    platform: ETH
+  - address: '0xC155504787e9430180F33F35eDd7C5eC06Cd5761'
+    platform: MATIC
 crypto: true
 fiat: false
 id: APU3
-id_coinmarketcap: '25992'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25992.png
+id_coinmarketcap: '18872'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18872.png
 logoKey: currencies/apu3.png
-name: APU Coin
+name: Apreum

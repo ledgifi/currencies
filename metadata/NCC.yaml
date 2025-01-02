@@ -1,10 +1,10 @@
 contracts:
-  - address: T9yYp7JUxypLk7GFhsLRj5jN6ZrNDcH2Cf
-    platform: TRX
+  - address: '0x5d48f293baed247a2d0189058ba37aa238bd4725'
+    platform: ETH
 crypto: true
 fiat: false
 id: NCC
-id_coinmarketcap: '14811'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14811.png
+id_coinmarketcap: '3016'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3016.png
 logoKey: currencies/ncc.png
-name: Netcoincapital
+name: NeuroChain

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xb439B8731ee047799019eF0b745a51d256B116Af'
-    platform: ETH
+  - address: '0x90db4c8ddc0055ae03cde0b4e83fbde7de711464'
+    platform: BNB
 crypto: true
 fiat: false
 id: BULL11
-id_coinmarketcap: '12961'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12961.png
+id_coinmarketcap: '11687'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11687.png
 logoKey: currencies/bull11.png
-name: BullionFx
+name: Bullrise

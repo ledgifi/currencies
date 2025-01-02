@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x179b734D0291Fa9E3a4728C7c27866EE25CCC3e0'
+  - address: '0x543ff227f64aa17ea132bf9886cab5db55dcaddf'
     platform: ETH
 crypto: true
 fiat: false
 id: GEN1
-id_coinmarketcap: '20096'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20096.png
+id_coinmarketcap: '2726'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2726.png
 logoKey: currencies/gen1.png
-name: Generation
+name: DAOstack

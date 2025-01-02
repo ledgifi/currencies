@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xcDD1d715F01bF959Bf94Cd553F43250ddb303D1f'
+    platform: BNB
 crypto: true
 fiat: false
 id: COW8
-id_coinmarketcap: '14860'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14860.png
+id_coinmarketcap: '14537'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14537.png
 logoKey: currencies/cow8.png
-name: Cow Token
+name: CaashCow

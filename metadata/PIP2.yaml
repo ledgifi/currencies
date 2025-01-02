@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xf3d127db17136dea1887dfbafdbbf8ee1177f1aa'
-    platform: ETH
+  - address: '0x25C30340e6f9f6e521827cF03282943dA00c0ECE'
+    platform: BNB
 crypto: true
 fiat: false
 id: PIP2
-id_coinmarketcap: '24516'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24516.png
+id_coinmarketcap: '22921'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22921.png
 logoKey: currencies/pip2.png
-name: PIP
+name: Pi Protocol

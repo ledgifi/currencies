@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xb67cf01958b1a06c330f5a46501fe1fb2ec82aaa'
+    platform: ETH
+crypto: true
+fiat: false
+id: $OPTION
+id_coinmarketcap: '34635'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34635.png
+logoKey: currencies/$option.png
+name: Options AI

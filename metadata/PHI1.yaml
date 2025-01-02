@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x4F7620a4e134B1D3fca3f419663aCf351b225C74'
-    platform: BNB
+  - address: '0x13c2fab6354d3790d8ece4f0f1a3280b4a25ad96'
+    platform: ETH
 crypto: true
 fiat: false
 id: PHI1
-id_coinmarketcap: '18497'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18497.png
+id_coinmarketcap: '2676'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2676.png
 logoKey: currencies/phi1.png
-name: Prometheus
+name: PHI Token

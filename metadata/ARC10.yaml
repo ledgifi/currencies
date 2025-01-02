@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xE67A03116324BF92B5d530bf1a00d1E7aCB31702'
-    platform: ETH
+  - address: '0xec0ad1b4d51b056a357fc9acb3f1881c9d3628a7'
+    platform: BNB
 crypto: true
 fiat: false
 id: ARC10
-id_coinmarketcap: '32528'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32528.png
+id_coinmarketcap: '22506'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22506.png
 logoKey: currencies/arc10.png
-name: Neko Arc
+name: Crypto ARC

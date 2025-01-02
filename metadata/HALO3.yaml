@@ -1,10 +1,10 @@
 contracts:
-  - address: terra1w8kvd6cqpsthupsk4l0clwnmek4l3zr7c84kwq
-    platform: LUNC
+  - address: '0x0746b8cb6dd33134baf0ead66146f442c098b42e'
+    platform: ETH
 crypto: true
 fiat: false
 id: HALO3
-id_coinmarketcap: '19572'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19572.png
+id_coinmarketcap: '7054'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7054.png
 logoKey: currencies/halo3.png
-name: Angel Protocol
+name: HaloOracle

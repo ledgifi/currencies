@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x3D0e93bfCb8FB46331Ea8c98B6ab8C575aB424C3'
-    platform: BNB
+  - address: 0x07e791cef4ab73e22e6407eb644ebb0b715b3decbca6c29c58aa73a17bf4a488::smash::SMASH
+    platform: SUI
 crypto: true
 fiat: false
 id: SMASH
-id_coinmarketcap: '15719'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15719.png
+id_coinmarketcap: '34620'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34620.png
 logoKey: currencies/smash.png
-name: SmashCash
+name: Sui Smash Bros

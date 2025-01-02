@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x4c98c4626aabe18fb875b73e33e504497081bce7'
-    platform: ETH
+  - address: '0x535d51c09e8245e7dbb956140d8132a5f26c6ca1'
+    platform: BNB
 crypto: true
 fiat: false
 id: CASPER
-id_coinmarketcap: '32820'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32820.png
+id_coinmarketcap: '26429'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26429.png
 logoKey: currencies/casper.png
-name: Vitalik's Casper
+name: CASPER

@@ -1,10 +1,10 @@
 contracts:
-  - address: TCeEjxAJUxfPCoWwuKxgo1mFwAASsj421j
-    platform: TRX
+  - address: '0x43eaba2e2d2f32f1207a11a18679287dc7700015'
+    platform: PLS
 crypto: true
 fiat: false
 id: RBC2
-id_coinmarketcap: '15893'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15893.png
+id_coinmarketcap: '27535'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27535.png
 logoKey: currencies/rbc2.png
-name: Ruby Currency
+name: Real BIG Coin

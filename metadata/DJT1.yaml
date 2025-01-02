@@ -1,10 +1,10 @@
 contracts:
-  - address: GRPCVjqksypAaVXxwNzCdr1xTW9zPmNXB78c6tiU8wGZ
-    platform: SOL
+  - address: '0x968496Dd59EFc1Caa11e94FDA99eA67Db7be5cd9'
+    platform: ETH
 crypto: true
 fiat: false
 id: DJT1
-id_coinmarketcap: '33765'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33765.png
+id_coinmarketcap: '33325'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33325.png
 logoKey: currencies/djt1.png
-name: Donald J Trump
+name: TrumpChain

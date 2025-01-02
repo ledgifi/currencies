@@ -1,8 +1,12 @@
 contracts:
+  - address: '0x6d7187220f769bde541ff51dd37ee07416f861d2'
+    platform: ARB
   - address: '0x610dbd98a28ebba525e9926b6aaf88f9159edbfd'
     platform: ETH
   - address: '0xc530f2c0aa4c16a0806365b0898499fba372e5df7a7172dc6fe9ba777e8007'
     platform: STRK
+  - address: '0x08d7ea3c148672c4b03999eb0d0467733da2db6a'
+    platform: TBA
 crypto: true
 fiat: false
 id: NSTR

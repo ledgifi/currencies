@@ -1,10 +1,7 @@
-contracts:
-  - address: '0x825e2cfBb71a92e09Ef73D9e96d15cE2e0f63E9F'
-    platform: MERL
 crypto: true
 fiat: false
 id: MAGE
-id_coinmarketcap: '31414'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31414.png
+id_coinmarketcap: '2250'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2250.png
 logoKey: currencies/mage.png
-name: MAGE
+name: MagicCoin

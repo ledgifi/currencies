@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xee609fe292128cad03b786dbb9bc2634ccdbe7fc'
-    platform: ETH
+  - address: '0x4ae3fa715e21f328c2b61c037b9cc1761b6af0bd'
+    platform: FTM
 crypto: true
 fiat: false
 id: POS1
-id_coinmarketcap: '2038'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2038.png
+id_coinmarketcap: '17304'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17304.png
 logoKey: currencies/pos1.png
-name: PoSToken
+name: Poseidon Token

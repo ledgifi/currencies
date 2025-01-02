@@ -1,6 +1,20 @@
 contracts:
+  - address: '0xac7952D30850c9d214b0f44cbe213781b4dAcF05'
+    platform: ARB
+  - address: '0x542245f2B93B30994a4670121541B38226f1208c'
+    platform: AVAX
+  - address: '0x94cf269d63c4140eD481CB0b149daE03c4620cdF'
+    platform: BNB
   - address: cxf61cd5a45dc9f91c15aa65831a30a90d59a09619
     platform: ICX
+  - address: '0x51260f53933db7C3319a61ee444fD9548cFF94D5'
+    platform: MATIC
+  - address: '0xD336c74B840f9962cF2c666f8666d6d61Ec24440'
+    platform: OP
+  - address: '0x76e118fa6839ddAd531411B8cc7a9dCdFD7D4fB0'
+    platform: TBA
+  - address: CBLG7XCYNXKMBELD5NHQ5EV5MLNDEGZVXDCJB3TEBUXDVAMCTMYRGVLW
+    platform: XLM
 crypto: true
 fiat: false
 id: BALN

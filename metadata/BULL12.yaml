@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xb33522C5747A151D47825e2307Bf67890cd124C8'
-    platform: BNB
+  - address: '0xb439B8731ee047799019eF0b745a51d256B116Af'
+    platform: ETH
 crypto: true
 fiat: false
 id: BULL12
-id_coinmarketcap: '16695'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16695.png
+id_coinmarketcap: '12961'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12961.png
 logoKey: currencies/bull12.png
-name: strong bull
+name: BullionFx

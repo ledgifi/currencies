@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x77184100237e46b06cd7649aBf37435F5D5e678B'
+    platform: TBA
 crypto: true
 fiat: false
 id: SPR
-id_coinmarketcap: '702'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/702.png
+id_coinmarketcap: '34775'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34775.png
 logoKey: currencies/spr.png
-name: SpreadCoin
+name: Super Meme

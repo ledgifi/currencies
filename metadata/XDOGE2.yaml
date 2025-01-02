@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xd2b274cfbf9534f56b59ad0fb7e645e0354f4941'
-    platform: ETH
+  - address: '0xB68A34756D8A92CCc821EFfA03d802846594b64E'
+    platform: BNB
 crypto: true
 fiat: false
 id: XDOGE2
-id_coinmarketcap: '27691'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27691.png
+id_coinmarketcap: '14840'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14840.png
 logoKey: currencies/xdoge2.png
-name: XDOGE
+name: ClassicDoge

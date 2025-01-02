@@ -1,6 +1,8 @@
 contracts:
   - address: '0x3269a3C00AB86c753856fD135d97b87FACB0d848'
     platform: ARB
+  - address: '0x72a9b1c9b191781bb15f1b98f443a1d916557c92'
+    platform: ETH
   - address: '0xb4e1B230dd0476238Fc64C99fF9D6cCDFDB2258D'
     platform: TBA
 crypto: true

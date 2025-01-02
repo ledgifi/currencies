@@ -1,10 +1,10 @@
 contracts:
-  - address: EQB7hH6wJbzrZYEbggsOcBeWUEmgO7llkwTKdgDU4Q___SPN
-    platform: TON
+  - address: '0x20f7a3ddf244dc9299975b4da1c39f8d5d75f05a'
+    platform: ETH
 crypto: true
 fiat: false
 id: SPN2
-id_coinmarketcap: '33844'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33844.png
+id_coinmarketcap: '3091'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3091.png
 logoKey: currencies/spn2.png
-name: SpinnerCoin
+name: Sapien

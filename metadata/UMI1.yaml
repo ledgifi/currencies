@@ -1,16 +1,14 @@
 contracts:
-  - address: '0x46943113ae84e732bb510b5f7686d8b76ff56774'
+  - address: '0x9f4298f2893e756030515f7b0dc85065cfae674b'
     platform: BNB
-  - address: '0x46943113ae84e732bb510b5f7686d8b76ff56774'
+  - address: '0x61107a409fffe1965126aa456af679719695c69c'
     platform: ETH
-  - address: '0x10adf16a60f0020477c70473d6ea595d9bc29372'
-    platform: MATIC
-  - address: TDH9sTjrxgrL8oogwMYw4Lq8UK25pTfp3d
-    platform: TRX
+  - address: '0x003252667a82d2dd70fa046eea663eaec1f2e37c20879f113b880b04c5ebd805'
+    platform: XOR
 crypto: true
 fiat: false
 id: UMI1
-id_coinmarketcap: '9632'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9632.png
+id_coinmarketcap: '12737'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12737.png
 logoKey: currencies/umi1.png
-name: UMI
+name: Umi Digital

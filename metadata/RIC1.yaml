@@ -1,8 +1,6 @@
 contracts:
-  - address: '0x5232b3f532b58fbf96ec7cbdbf10c01cb0520c87'
-    platform: BNB
-  - address: '0x5DC808549aB6D74815c93Fc9a2923C7fF95222CA'
-    platform: ETH
+  - address: '0x12c94d3a30daa09f81ea6c037004e6e99a4a3dfc'
+    platform: BONE
 crypto: true
 fiat: false
 id: RIC1

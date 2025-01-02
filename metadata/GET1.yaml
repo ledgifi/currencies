@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x60c68a87be1e8a84144b543aacfa77199cd3d024'
+  - address: '0x8a854288a5976036a725879164ca3e91d30c6a1b'
     platform: ETH
+  - address: '0xdb725f82818de83e99f1dac22a9b5b51d3d04dd4'
+    platform: MATIC
 crypto: true
 fiat: false
 id: GET1
-id_coinmarketcap: '3127'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3127.png
+id_coinmarketcap: '2354'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2354.png
 logoKey: currencies/get1.png
-name: Themis
+name: GET Protocol

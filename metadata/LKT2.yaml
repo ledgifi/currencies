@@ -1,12 +1,10 @@
 contracts:
-  - address: '0xde8fa069707b6322ad45d001425b617f4f1930bd'
+  - address: '0xd294affd029d89054496675c52693b12decfd6dc'
     platform: BNB
-  - address: '0xd9b89eee86b15634c70cab51baf85615a4ab91a1'
-    platform: ETH
 crypto: true
 fiat: false
 id: LKT2
-id_coinmarketcap: '10775'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10775.png
+id_coinmarketcap: '14530'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14530.png
 logoKey: currencies/lkt2.png
-name: Locklet
+name: LuckyToken

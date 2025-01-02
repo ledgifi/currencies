@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7ce89243Cc0d9e746609c57845ECCbD9bB4B7315'
     platform: ETH
+  - address: Co5WwGeZfpfqGE1tUyAp1SBjcmumoY9sNN99MXRbX98K
+    platform: SOL
 crypto: true
 fiat: false
 id: LILY

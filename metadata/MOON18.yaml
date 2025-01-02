@@ -1,7 +1,10 @@
+contracts:
+  - address: c993a511da1794e6cc8dd7d307ee8116cd05906e2a6c19f1ff4672c29511c4b5i0
+    platform: BTC
 crypto: true
 fiat: false
 id: MOON18
-id_coinmarketcap: '33466'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33466.png
+id_coinmarketcap: '28482'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28482.png
 logoKey: currencies/moon18.png
-name: Harvest Moon
+name: MOON (Ordinals)

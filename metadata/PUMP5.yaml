@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x5610bf2bf5abe5750bdbce311631dee2afa2cd24'
-    platform: BNB
+  - address: '0x8eDDA0107D661E82df660DBa01Ff1D40FA17B70c'
+    platform: FTM
 crypto: true
 fiat: false
 id: PUMP5
-id_coinmarketcap: '10649'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10649.png
+id_coinmarketcap: '16631'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16631.png
 logoKey: currencies/pump5.png
-name: MoonPump
+name: PumpkinDAO

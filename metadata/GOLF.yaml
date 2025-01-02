@@ -1,10 +1,10 @@
 contracts:
-  - address: Hei9Ua5EZmUFKKnNrbF8mDpuoh3sks8e1szYyoqupump
-    platform: SOL
+  - address: '0x020c710646e23ab868dbe5b88004892797fe4efb'
+    platform: ETH
 crypto: true
 fiat: false
 id: GOLF
-id_coinmarketcap: '31938'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31938.png
+id_coinmarketcap: '1375'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1375.png
 logoKey: currencies/golf.png
-name: Golf is Boring
+name: Golfcoin

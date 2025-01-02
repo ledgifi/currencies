@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x02f92800F57BCD74066F5709F1Daa1A4302Df875'
+    platform: ARB
   - address: '0x02f92800f57bcd74066f5709f1daa1a4302df875'
     platform: ETH
+  - address: '0x02f92800F57BCD74066F5709F1Daa1A4302Df875'
+    platform: MODE
+  - address: '0x02f92800F57BCD74066F5709F1Daa1A4302Df875'
+    platform: TBA
 crypto: true
 fiat: false
 id: PEAS

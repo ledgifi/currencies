@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x85b6ACaBa696B9E4247175274F8263F99b4B9180'
-    platform: ETH
+  - address: '0xaf0bd10E1b6B995E54F342C78DACd25291e0d3B2'
+    platform: BNB
 crypto: true
 fiat: false
 id: SPR2
-id_coinmarketcap: '24417'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24417.png
+id_coinmarketcap: '20891'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20891.png
 logoKey: currencies/spr2.png
-name: Spiral
+name: Spring Game
