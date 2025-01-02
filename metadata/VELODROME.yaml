@@ -2,9 +2,11 @@ contracts:
   - address: '0x9560e827af36c94d2ac33a39bce1fe78631088db'
     platform: OP
 crypto: true
+decimals: 8
 fiat: false
-id: VELO1
+id: VELODROME
+id_binance: '1403'
 id_coinmarketcap: '20435'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20435.png
-logoKey: currencies/velo1.png
+logoKey: currencies/velodrome.png
 name: Velodrome Finance
