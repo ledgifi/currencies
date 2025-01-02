@@ -1,10 +1,12 @@
 contracts:
-  - address: 7q3AdgKuMeDRnjaMQs7ppXjaw4HUxjsdyMrrfiSZraiN
-    platform: SOL
+  - address: '0xabe8e5cabe24cb36df9540088fd7ce1175b9bc52'
+    platform: BNB
 crypto: true
+decimals: 8
 fiat: false
 id: SOLV
-id_coinmarketcap: '14675'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14675.png
+id_binance: '1417'
+id_coinmarketcap: '12165'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12165.png
 logoKey: currencies/solv.png
 name: SOLVIEW
