@@ -1,12 +1,7 @@
-contracts:
-  - address: '0xf4fe727c855c2d395852ca43f645cab4b504af23'
-    platform: ARB
-  - address: '0x3404149e9ee6f17fb41db1ce593ee48fbdcd9506'
-    platform: ARB
 crypto: true
 fiat: false
 id: HDX
-id_coinmarketcap: '19689'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19689.png
+id_coinmarketcap: '6753'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6753.png
 logoKey: currencies/hdx.png
-name: Hydranet
+name: Hydration
