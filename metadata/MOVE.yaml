@@ -1,7 +1,13 @@
+contracts:
+  - address: '0x3073f7aAA4DB83f95e9FFf17424F71D4751a3073'
+    platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: MOVE
+id_binance: '1398'
+id_coinmarketcap: '32452'
 id_nomics: MOVE2
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MOVE2.png
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32452.png
 logoKey: currencies/move.png
-name: MarketMove
+name: Movement
