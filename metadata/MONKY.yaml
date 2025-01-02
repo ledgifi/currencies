@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x59e69094398afbea632f8bd63033bdd2443a3be1'
+    platform: BNB
+crypto: true
+decimals: 2
+fiat: false
+id: MONKY
+id_binance: '1406'
+id_coinmarketcap: '34610'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34610.png
+logoKey: currencies/monky.png
+name: Wise Monkey
