@@ -1,7 +1,9 @@
 crypto: true
+decimals: 8
 fiat: false
 id: BIO
-id_coinmarketcap: '2521'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2521.png
+id_binance: '1413'
+id_coinmarketcap: '34812'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34812.png
 logoKey: currencies/bio.png
-name: BioCoin
+name: Bio Protocol
