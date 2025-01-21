@@ -4,8 +4,10 @@ contracts:
   - address: '0x25931894a86d47441213199621f1f2994e1c39aa'
     platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: CGPT
+id_binance: '1424'
 id_coinmarketcap: '23756'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23756.png
 logoKey: currencies/cgpt.png
