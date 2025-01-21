@@ -1,22 +1,10 @@
 contracts:
-  - address: '0x4425742F1EC8D98779690b5A3A6276Db85Ddc01A'
-    platform: ARB
-  - address: '0xaa88c603d142c371ea0eac8756123c5805edee03'
-    platform: BNB
-  - address: '0xbaac2b4491727d78d2b78815144570b9f2fe8899'
-    platform: ETH
-  - address: '0x8F69Ee043d52161Fd29137AeDf63f5e70cd504D5'
-    platform: OP
-  - address: '0xeEe3371B89FC43Ea970E908536Fcddd975135D8a'
-    platform: POL
-  - address: B9u8h65uM1oifqmP82VyUDb68iG2fKfZiyubmNMtu3h7
-    platform: SOL
-  - address: '0xafb89a09d82fbde58f18ac6437b3fc81724e4df6'
-    platform: TBA
+  - address: DOGGOTOTHEMOON
+    platform: BTC
 crypto: true
 fiat: false
 id: DOG
-id_coinmarketcap: '11557'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11557.png
+id_coinmarketcap: '30933'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30933.png
 logoKey: currencies/dog.png
-name: Own The Doge
+name: Dog (Bitcoin)
