@@ -4,7 +4,7 @@ contracts:
   - address: '0x35156b404c3f9bdaf45ab65ba315419bcde3775c'
     platform: ETH
   - address: '0x35156b404C3f9bdaf45ab65Ba315419bcDe3775c'
-    platform: MATIC
+    platform: POL
 crypto: true
 fiat: false
 id: CHIRO

@@ -2,7 +2,7 @@ contracts:
   - address: '0x8765b1a0eb57ca49be7eacd35b24a574d0203656'
     platform: ETH
   - address: '0xc3C604F1943B8C619c5D65cd11A876e9C8eDCF10'
-    platform: MATIC
+    platform: POL
 crypto: true
 fiat: false
 id: MGH

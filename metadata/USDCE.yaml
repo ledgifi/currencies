@@ -3,12 +3,12 @@ contracts:
     platform: ARB
   - address: '0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664'
     platform: AVAX
-  - address: '0x2791bca1f2de4661ed88a30c99a7a9449aa84174'
-    platform: MATIC
   - address: '0x748134b5f553f2bcbd78c6826de99a70274bdeb3'
     platform: MOVR
   - address: '0x7f5c764cbc14f9669b88837ca1490cca17c31607'
     platform: OP
+  - address: '0x2791bca1f2de4661ed88a30c99a7a9449aa84174'
+    platform: POL
   - address: '0x29219dd400f2bf60e5a23d13be72b486d4038894'
     platform: S
   - address: '0x739222d8a9179fe05129c77a8fa354049c088caa'

@@ -10,12 +10,12 @@ contracts:
     platform: FTM
   - address: '0x777850281719d5a96c29812ab72f822e0e09f3da'
     platform: HT
-  - address: '0x50b728d8d964fd00c2d0aad81718b71311fef68a'
-    platform: MATIC
   - address: c011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.factory.bridge.near
     platform: NEAR
   - address: '0x8700daec35af8ff88c16bdf0418774cb3d7599b4'
     platform: OP
+  - address: '0x50b728d8d964fd00c2d0aad81718b71311fef68a'
+    platform: POL
   - address: 8cTNUtcV2ueC3royJ642uRnvTxorJAWLZc58gxAo7y56
     platform: SOL
 crypto: true

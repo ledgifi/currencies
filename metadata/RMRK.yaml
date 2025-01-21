@@ -15,14 +15,14 @@ contracts:
     platform: GLMR
   - address: https://statemine.statescan.io/asset/8
     platform: KSM
-  - address: '0xd225eAD1Ce2554F6CB519894Fc98cFB882566339'
-    platform: MATIC
-  - address: '0x524d524B4c9366be706D3A90dcf70076ca037aE3'
-    platform: MATIC
   - address: '0xffffffFF893264794d9d57E1E0E21E0042aF5A0A'
     platform: MOVR
   - address: '0xE6cDD3a275c976BcA5d3De4F96c7514B899f0434'
     platform: OP
+  - address: '0xd225eAD1Ce2554F6CB519894Fc98cFB882566339'
+    platform: POL
+  - address: '0x524d524B4c9366be706D3A90dcf70076ca037aE3'
+    platform: POL
   - address: '0x524d524B4c9366be706D3A90dcf70076ca037aE3'
     platform: TBA
 crypto: true

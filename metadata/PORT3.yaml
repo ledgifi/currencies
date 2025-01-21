@@ -6,9 +6,9 @@ contracts:
   - address: '0xb4357054c3da8d46ed642383f03139ac7f090343'
     platform: ETH
   - address: '0xb4357054c3da8d46ed642383f03139ac7f090343'
-    platform: MATIC
-  - address: '0xb4357054c3da8d46ed642383f03139ac7f090343'
     platform: OP
+  - address: '0xb4357054c3da8d46ed642383f03139ac7f090343'
+    platform: POL
   - address: Bo5T8zkE6Xen9ZirEqoNqczuGcsopwNnxbBcW9HqCLGJ
     platform: SOL
 crypto: true

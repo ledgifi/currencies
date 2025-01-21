@@ -5,10 +5,10 @@ contracts:
     platform: BNB
   - address: '0x998FFE1E43fAcffb941dc337dD0468d52bA5b48A'
     platform: ETH
-  - address: '0x554cd6bdD03214b10AafA3e0D4D42De0C5D2937b'
-    platform: MATIC
   - address: '0xcefbea899cfccdc653b171d063481b622086be3f'
     platform: ONE
+  - address: '0x554cd6bdD03214b10AafA3e0D4D42De0C5D2937b'
+    platform: POL
 crypto: true
 decimals: 2
 fiat: false

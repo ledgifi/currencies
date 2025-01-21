@@ -9,10 +9,10 @@ contracts:
     platform: ETH
   - address: '0x21ada0d2ac28c3a5fa3cd2ee30882da8812279b6'
     platform: FTM
-  - address: '0xC2C52FF5134596f5FF1b1204d3304228f2432836'
-    platform: MATIC
   - address: '0x39FdE572a18448F8139b7788099F0a0740f51205'
     platform: OP
+  - address: '0xC2C52FF5134596f5FF1b1204d3304228f2432836'
+    platform: POL
 crypto: true
 fiat: false
 id: OATH

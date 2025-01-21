@@ -3,10 +3,10 @@ contracts:
     platform: BNB
   - address: '0xcfa0885131f602d11d4da248d2c65a62063567a9'
     platform: ETH
-  - address: '0xe9993763e0b7f7d915a62a5f22a6e151f91d98a8'
-    platform: MATIC
   - address: '0x2aa4a46f48c4fcb11c14a21863c1cf2d6d7bcd5b'
     platform: ONE
+  - address: '0xe9993763e0b7f7d915a62a5f22a6e151f91d98a8'
+    platform: POL
   - address: AbnTggpTujbdAiJtyhH9WtK2CqXk44W7GipyJXkopBDd
     platform: SOL
 crypto: true

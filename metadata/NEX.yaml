@@ -1,10 +1,10 @@
 contracts:
   - address: '0xe2dc070524a6e305ddb64d8513dc444b6a1ec845'
     platform: ETH
-  - address: '0xA486c6BC102f409180cCB8a94ba045D39f8fc7cB'
-    platform: MATIC
   - address: 3a4acd3647086e7c44398aac0349802e6a171129
     platform: NEO
+  - address: '0xA486c6BC102f409180cCB8a94ba045D39f8fc7cB'
+    platform: POL
 crypto: true
 fiat: false
 id: NEX

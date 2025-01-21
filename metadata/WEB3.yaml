@@ -4,9 +4,9 @@ contracts:
   - address: '0x8F0d5660929cA6ac394c5c41f59497629b1dbc23'
     platform: ETH
   - address: '0xBcD2C5C78000504EFBC1cE6489dfcaC71835406A'
-    platform: MATIC
+    platform: POL
   - address: '0xC4ea087fc2cB3a1D9ff86c676F03abE4F3EE906F'
-    platform: MATIC
+    platform: POL
 crypto: true
 fiat: false
 id: WEB3

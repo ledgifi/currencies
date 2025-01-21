@@ -3,10 +3,10 @@ contracts:
     platform: ATOM
   - address: '0xC727f87871ee12Bbcedd2973746D1Deb7529aaD6'
     platform: ETH
-  - address: '0xf14fbC6B30e2c4BC05A1D4fbE34bf9f14313309D'
-    platform: MATIC
   - address: ibc/1480B8FD20AD5FCAE81EA87584D269547DD4D436843C1D20F15E00EB64743EF4
     platform: OSMO
+  - address: '0xf14fbC6B30e2c4BC05A1D4fbE34bf9f14313309D'
+    platform: POL
 crypto: true
 fiat: false
 id: AKT

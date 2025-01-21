@@ -5,10 +5,10 @@ contracts:
     platform: CFX
   - address: '0x0569843257B91A9753351a4d621AdA83F642F57C'
     platform: HT
-  - address: '0xeb48cf0caa8b39e0b3b1fee774caa9f9c45dbcd9'
-    platform: MATIC
   - address: ex1fxkp35ynccssktrymdlkdxzq0qq7z2xd5aqn8j
     platform: OKT
+  - address: '0xeb48cf0caa8b39e0b3b1fee774caa9f9c45dbcd9'
+    platform: POL
 crypto: true
 fiat: false
 id: ITFX

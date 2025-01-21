@@ -5,10 +5,10 @@ contracts:
     platform: ETH
   - address: '0x959ff4d35b1ad8425276383a2b128e398b10c5d7'
     platform: HT
-  - address: '0x16e72fd009e6c4b99ea8e2b08dd1af4ba3a23787'
-    platform: MATIC
   - address: '0x68df883715a12f085ffe54e90733a12c7c9c8128'
     platform: OKT
+  - address: '0x16e72fd009e6c4b99ea8e2b08dd1af4ba3a23787'
+    platform: POL
 crypto: true
 fiat: false
 id: NABOX

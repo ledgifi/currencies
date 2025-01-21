@@ -7,10 +7,10 @@ contracts:
     platform: BNB
   - address: cxf61cd5a45dc9f91c15aa65831a30a90d59a09619
     platform: ICX
-  - address: '0x51260f53933db7C3319a61ee444fD9548cFF94D5'
-    platform: MATIC
   - address: '0xD336c74B840f9962cF2c666f8666d6d61Ec24440'
     platform: OP
+  - address: '0x51260f53933db7C3319a61ee444fD9548cFF94D5'
+    platform: POL
   - address: '0x76e118fa6839ddAd531411B8cc7a9dCdFD7D4fB0'
     platform: TBA
   - address: CBLG7XCYNXKMBELD5NHQ5EV5MLNDEGZVXDCJB3TEBUXDVAMCTMYRGVLW

@@ -3,10 +3,10 @@ contracts:
     platform: ETH
   - address: '0x3452e23f9c4cc62c70b7adad699b264af3549c19'
     platform: EVMOS
-  - address: '0xc6bdB9dD7F33FF11EfDD3A84b2C1c99b8CC93052'
-    platform: MATIC
   - address: IBC/46B44899322F3CD854D2D46DEEF881958467CDD4B3B10086DA49296BBED94BED
     platform: OSMO
+  - address: '0xc6bdB9dD7F33FF11EfDD3A84b2C1c99b8CC93052'
+    platform: POL
 crypto: true
 fiat: false
 id: JUNO1

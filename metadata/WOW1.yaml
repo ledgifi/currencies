@@ -3,10 +3,10 @@ contracts:
     platform: AVAX
   - address: '0x4da996c5fe84755c80e108cf96fe705174c5e36a'
     platform: BNB
-  - address: '0x855d4248672a1fce482165e8dbe1207b94b1968a'
-    platform: MATIC
   - address: '0x5ce34d9abe4bf239cbc08b89287c87f4cd6d80b7'
     platform: METIS
+  - address: '0x855d4248672a1fce482165e8dbe1207b94b1968a'
+    platform: POL
 crypto: true
 fiat: false
 id: WOW1

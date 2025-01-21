@@ -3,10 +3,10 @@ contracts:
     platform: BNB
   - address: '0x3593d125a4f7849a1b059e64f4517a86dd60c95d'
     platform: ETH
-  - address: '0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea'
-    platform: MATIC
   - address: ibc/164807F6226F91990F358C6467EEE8B162E437BDCD3DADEC3F0CE20693720795
     platform: OSMO
+  - address: '0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea'
+    platform: POL
   - address: '0x3992b27da26848c2b19cea6fd25ad5568b68ab98'
     platform: TBA
 crypto: true

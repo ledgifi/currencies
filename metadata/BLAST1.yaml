@@ -11,10 +11,10 @@ contracts:
     platform: ETH
   - address: '0x7d226bff737c5855254c307523afb3c464c5680b'
     platform: FTM
-  - address: '0xd145261dd80bc5388ea8f437d503897060410f1c'
-    platform: MATIC
   - address: '0xd1a891E6eCcB7471Ebd6Bc352F57150d4365dB21'
     platform: OP
+  - address: '0xd145261dd80bc5388ea8f437d503897060410f1c'
+    platform: POL
 crypto: true
 fiat: false
 id: BLAST1

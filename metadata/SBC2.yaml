@@ -5,10 +5,10 @@ contracts:
     platform: CELO
   - address: '0xf9FB20B8E097904f0aB7d12e9DbeE88f2dcd0F16'
     platform: ETH
-  - address: '0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798'
-    platform: MATIC
   - address: '0xf9FB20B8E097904f0aB7d12e9DbeE88f2dcd0F16'
     platform: OP
+  - address: '0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798'
+    platform: POL
   - address: '0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798'
     platform: TBA
 crypto: true

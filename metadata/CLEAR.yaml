@@ -6,9 +6,9 @@ contracts:
   - address: '0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8'
     platform: GNO
   - address: '0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8'
-    platform: MATIC
-  - address: '0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8'
     platform: OP
+  - address: '0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8'
+    platform: POL
 crypto: true
 fiat: false
 id: CLEAR

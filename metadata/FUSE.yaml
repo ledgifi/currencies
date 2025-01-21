@@ -7,10 +7,10 @@ contracts:
     platform: ETH
   - address: '0xD589F00Fa2Eb83367f732AB3CDA92eE0940389cF'
     platform: GNO
-  - address: '0x6b021b3f68491974be6d4009fee61a4e3c708fd6'
-    platform: MATIC
   - address: '0xe453d6649643F1F460C371dC3D1da98F7922fe51'
     platform: OP
+  - address: '0x6b021b3f68491974be6d4009fee61a4e3c708fd6'
+    platform: POL
   - address: '0x01facc69ec7360640aa5898e852326752801674a'
     platform: TBA
 crypto: true

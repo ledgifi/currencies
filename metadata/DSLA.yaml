@@ -9,10 +9,10 @@ contracts:
     platform: ETH
   - address: '0x25a528af62e56512a19ce8c3cab427807c28cc19'
     platform: FTM
-  - address: '0xa0e390e9cea0d0e8cd40048ced9fa9ea10d71639'
-    platform: MATIC
   - address: '0x34704c70e9ec9fb9a921da6daad7d3e19f43c734'
     platform: ONE
+  - address: '0xa0e390e9cea0d0e8cd40048ced9fa9ea10d71639'
+    platform: POL
 crypto: true
 fiat: false
 id: DSLA

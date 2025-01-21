@@ -3,10 +3,10 @@ contracts:
     platform: BNB
   - address: '0x4297394c20800e8a38a619a243e9bbe7681ff24e'
     platform: ETH
-  - address: '0x3b737a181f7d2532cF49864f8050b3465a310593'
-    platform: MATIC
   - address: one1u0tuw46yh9m09kkxs7znwjtwwhm754h3lp0jzn
     platform: ONE
+  - address: '0x3b737a181f7d2532cF49864f8050b3465a310593'
+    platform: POL
 crypto: true
 fiat: false
 id: HOTCROSS

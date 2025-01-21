@@ -11,14 +11,14 @@ contracts:
     platform: ETH
   - address: '0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c'
     platform: FTM
-  - address: '0xc4e82ba0fe6763cbe5e9cbca0ba7cbd6f91c6018'
-    platform: MATIC
-  - address: '0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c'
-    platform: MATIC
   - address: '0x12D8CE035c5DE3Ce39B1fDD4C1d5a745EAbA3b8C'
     platform: MODE
   - address: '0xe05a08226c49b636acf99c40da8dc6af83ce5bb3'
     platform: OP
+  - address: '0xc4e82ba0fe6763cbe5e9cbca0ba7cbd6f91c6018'
+    platform: POL
+  - address: '0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c'
+    platform: POL
 crypto: true
 fiat: false
 id: ANKRETH

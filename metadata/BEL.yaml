@@ -4,7 +4,7 @@ contracts:
   - address: '0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14'
     platform: ETH
   - address: '0x28c388fb1f4fa9f9eb445f0579666849ee5eeb42'
-    platform: MATIC
+    platform: POL
 crypto: true
 decimals: 8
 fiat: false

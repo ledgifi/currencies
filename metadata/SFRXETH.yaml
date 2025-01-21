@@ -9,12 +9,12 @@ contracts:
     platform: FTM
   - address: '0xecf91116348aF1cfFe335e9807f0051332BE128D'
     platform: GLMR
-  - address: '0x6d1FdBB266fCc09A16a22016369210A15bb95761'
-    platform: MATIC
-  - address: '0x7c2af1fb79d0b1c67d4eb802d44c673d0a1d2c04'
-    platform: MATIC
   - address: '0x484c2D6e3cDd945a8B2DF735e079178C1036578c'
     platform: OP
+  - address: '0x6d1FdBB266fCc09A16a22016369210A15bb95761'
+    platform: POL
+  - address: '0x7c2af1fb79d0b1c67d4eb802d44c673d0a1d2c04'
+    platform: POL
 crypto: true
 fiat: false
 id: SFRXETH

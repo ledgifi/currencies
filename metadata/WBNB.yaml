@@ -27,10 +27,10 @@ contracts:
     platform: KAI
   - address: terra1cetg5wruw2wsdjp7j46rj44xdel00z006e9yg8
     platform: LUNC
-  - address: '0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d'
-    platform: MATIC
   - address: ibc/F4A070A6D78496D53127EA85C094A9EC87DFC1F36071B8CCDDBD020F933D213D
     platform: OSMO
+  - address: '0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d'
+    platform: POL
   - address: '0x6D9659bdF5b1A1dA217f7BbAf7dBAF8190E2e71B'
     platform: RBTC
   - address: 9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa

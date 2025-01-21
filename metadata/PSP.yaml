@@ -5,10 +5,10 @@ contracts:
     platform: ETH
   - address: '0xcafe001067cdef266afb7eb5a286dcfd277f3de5'
     platform: FTM
-  - address: '0x42d61d766b85431666b39b89c43011f24451bff6'
-    platform: MATIC
   - address: '0xd3594E879B358F430E20F82bea61e83562d49D48'
     platform: OP
+  - address: '0x42d61d766b85431666b39b89c43011f24451bff6'
+    platform: POL
 crypto: true
 fiat: false
 id: PSP

@@ -1,10 +1,10 @@
 contracts:
   - address: '0xA276DC434A366C62ef010585b3885D0C85154389'
     platform: BNB
-  - address: '0xd0076D7E57AAC42ec3F9d6E7C604d04A5b7030Fa'
-    platform: MATIC
   - address: '0xa6b9579563A48a0540BB53853Ae0947972371169'
     platform: ONUS
+  - address: '0xd0076D7E57AAC42ec3F9d6E7C604d04A5b7030Fa'
+    platform: POL
 crypto: true
 fiat: false
 id: VNDC

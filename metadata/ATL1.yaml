@@ -5,10 +5,10 @@ contracts:
     platform: BNB
   - address: '0x338726dd694dB9e2230eC2bB8624a2d7F566C96d'
     platform: DOGE
-  - address: '0xb98e169C37ce30Dd47Fdad1f9726Fb832191e60b'
-    platform: MATIC
   - address: '0x4C882ec256823eE773B25b414d36F92ef58a7c0C'
     platform: METIS
+  - address: '0xb98e169C37ce30Dd47Fdad1f9726Fb832191e60b'
+    platform: POL
 crypto: true
 fiat: false
 id: ATL1

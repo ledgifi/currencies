@@ -12,7 +12,7 @@ contracts:
   - address: '0x193f4A4a6ea24102F49b931DEeeb931f6E32405d'
     platform: ETH
   - address: '0x193f4A4a6ea24102F49b931DEeeb931f6E32405d'
-    platform: MATIC
+    platform: POL
   - address: eosio.token
     platform: TLOS
 crypto: true

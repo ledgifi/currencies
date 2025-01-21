@@ -5,10 +5,10 @@ contracts:
     platform: BNB
   - address: '0x5d843fa9495d23de997c394296ac7b4d721e841c'
     platform: ETH
-  - address: '0x904371845bc56dcbbcf0225ef84a669b2fd6bd0d'
-    platform: MATIC
   - address: '0xfe282af5f9eb59c30a3f78789eeffa704188bdd4'
     platform: METIS
+  - address: '0x904371845bc56dcbbcf0225ef84a669b2fd6bd0d'
+    platform: POL
 crypto: true
 fiat: false
 id: RELAY

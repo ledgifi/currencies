@@ -4,9 +4,9 @@ contracts:
   - address: '0xABD4C63d2616A5201454168269031355f4764337'
     platform: ETH
   - address: '0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8'
-    platform: MATIC
-  - address: '0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8'
     platform: OP
+  - address: '0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8'
+    platform: POL
   - address: '0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8'
     platform: TBA
 crypto: true

@@ -8,9 +8,9 @@ contracts:
   - address: '0x0e573ce2736dd9637a0b21058352e1667925c7a8'
     platform: ETH
   - address: '0x323665443CEf804A3b5206103304BD4872EA4253'
-    platform: MATIC
-  - address: '0x323665443CEf804A3b5206103304BD4872EA4253'
     platform: OP
+  - address: '0x323665443CEf804A3b5206103304BD4872EA4253'
+    platform: POL
 crypto: true
 fiat: false
 id: USDV1

@@ -11,10 +11,10 @@ contracts:
     platform: ETH
   - address: '0xa6097a4DbEF3EB44c50bad6286a5ED2bc4418AA2'
     platform: FTM
-  - address: '0xe94845Ac6782A2E71C407ABe4D5201445C26a62B'
-    platform: MATIC
   - address: '0xe4dE4B87345815C71aa843ea4841bCdc682637bb'
     platform: OP
+  - address: '0xe94845Ac6782A2E71C407ABe4D5201445C26a62B'
+    platform: POL
 crypto: true
 fiat: false
 id: BUILD2

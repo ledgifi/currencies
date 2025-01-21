@@ -7,14 +7,14 @@ contracts:
     platform: ETH
   - address: terra190tqwgqx7s8qrknz6kckct7v607cu068gfujpk
     platform: LUNC
-  - address: '0xd93f7e271cb87c23aaa73edc008a79646d1f9912'
-    platform: MATIC
   - address: sol.token.a11bd.near
     platform: NEAR
   - address: '0x5f38248f339bf4e84a2caf4e4c0552862dc9f82a'
     platform: NEON
   - address: ibc/1E43D59E565D41FB4E54CA639B838FFD5BCFC20003D330A56CB1396231AA1CBA
     platform: OSMO
+  - address: '0xd93f7e271cb87c23aaa73edc008a79646d1f9912'
+    platform: POL
   - address: So11111111111111111111111111111111111111112
     platform: SOL
 crypto: true

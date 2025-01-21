@@ -12,9 +12,9 @@ contracts:
   - address: '0x18719D2e1e57A1A64708e4550fF3DEF9d1074621'
     platform: KAVA
   - address: '0x18719D2e1e57A1A64708e4550fF3DEF9d1074621'
-    platform: MATIC
-  - address: '0x18719D2e1e57A1A64708e4550fF3DEF9d1074621'
     platform: OP
+  - address: '0x18719D2e1e57A1A64708e4550fF3DEF9d1074621'
+    platform: POL
 crypto: true
 fiat: false
 id: APRIL

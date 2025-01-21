@@ -29,8 +29,6 @@ contracts:
     platform: KAVA
   - address: '0x3F56e0c36d275367b8C502090EDF38289b3dEa0d'
     platform: KLAY
-  - address: '0xa3Fa99A148fA48D14Ed51d610c367C61876997F1'
-    platform: MATIC
   - address: '0xdFA46478F9e5EA86d57387849598dbFB2e964b02'
     platform: METIS
   - address: '0x7f5a79576620c046a293f54ffcdbd8f2468174f1'
@@ -39,6 +37,8 @@ contracts:
     platform: ONE
   - address: '0xdFA46478F9e5EA86d57387849598dbFB2e964b02'
     platform: OP
+  - address: '0xa3Fa99A148fA48D14Ed51d610c367C61876997F1'
+    platform: POL
   - address: 9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7
     platform: SOL
   - address: '0x2611fa1cae2a3e20ed47fb1b293437c14f41b00f'

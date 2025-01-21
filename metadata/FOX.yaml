@@ -5,10 +5,10 @@ contracts:
     platform: ETH
   - address: '0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d'
     platform: GNO
-  - address: '0x65A05DB8322701724c197AF82C9CaE41195B0aA8'
-    platform: MATIC
   - address: '0xF1a0DA3367BC7aa04F8D94BA57B862ff37CeD174'
     platform: OP
+  - address: '0x65A05DB8322701724c197AF82C9CaE41195B0aA8'
+    platform: POL
 crypto: true
 fiat: false
 id: FOX

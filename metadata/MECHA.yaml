@@ -2,7 +2,7 @@ contracts:
   - address: '0xc5bcc8ba3f33ab0d64f3473e861bdc0685b19ef5'
     platform: ETH
   - address: '0xacd4e2d936be9b16c01848a3742a34b3d5a5bdfa'
-    platform: MATIC
+    platform: POL
 crypto: true
 fiat: false
 id: MECHA

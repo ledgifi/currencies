@@ -10,9 +10,9 @@ contracts:
   - address: '0x18f0b0f2c9148d38d97a10d3d1dcc82744938ddd'
     platform: FTM
   - address: '0x18f0b0f2c9148d38d97a10d3d1dcc82744938ddd'
-    platform: MATIC
-  - address: '0x18f0b0f2c9148d38d97a10d3d1dcc82744938ddd'
     platform: ONE
+  - address: '0x18f0b0f2c9148d38d97a10d3d1dcc82744938ddd'
+    platform: POL
 crypto: true
 fiat: false
 id: FWCL

@@ -7,12 +7,12 @@ contracts:
     platform: BNB
   - address: '0x5f7f94a1dd7b15594d17543beb8b30b111dd464c'
     platform: FTM
-  - address: '0xb53ec4ace420a62cfb75afdeba600d284777cd65'
-    platform: MATIC
-  - address: '0x1D1498166DDCEeE616a6d99868e1E0677300056f'
-    platform: MATIC
   - address: '0x1D1498166DDCEeE616a6d99868e1E0677300056f'
     platform: OP
+  - address: '0xb53ec4ace420a62cfb75afdeba600d284777cd65'
+    platform: POL
+  - address: '0x1D1498166DDCEeE616a6d99868e1E0677300056f'
+    platform: POL
 crypto: true
 fiat: false
 id: SPACE2

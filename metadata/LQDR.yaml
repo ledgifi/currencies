@@ -13,10 +13,10 @@ contracts:
     platform: FTM
   - address: '0x332c72dd7E77070740F01d2d35851c461585D5d0'
     platform: KAVA
-  - address: '0x0294D8eB7857D43FEb1210Db72456d41481f9Ede'
-    platform: MATIC
   - address: '0x332c72dd7E77070740F01d2d35851c461585D5d0'
     platform: OP
+  - address: '0x0294D8eB7857D43FEb1210Db72456d41481f9Ede'
+    platform: POL
 crypto: true
 decimals: 8
 fiat: false

@@ -32,8 +32,6 @@ contracts:
     platform: KLAY
   - address: terra1zmclyfepfmqvfqflu8r3lv6f75trmg05z7xq95
     platform: LUNC
-  - address: '0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063'
-    platform: MATIC
   - address: '0x4651b38e7ec14bb3db731369bfe5b08f2466bd0a'
     platform: METIS
   - address: '0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844'
@@ -50,6 +48,8 @@ contracts:
     platform: OSMO
   - address: '0xefd766ccb38eaf1dfd701853bfce31359239f305'
     platform: PLS
+  - address: '0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063'
+    platform: POL
   - address: EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o
     platform: SOL
   - address: '0xda114221cb83fa859dbdb4c44beeaa0bb37c7537ad5ae66fe5e0efd20e6eb3'

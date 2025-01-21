@@ -28,8 +28,6 @@ contracts:
     platform: KCS
   - address: terra1aa7upykmmqqc63l924l5qfap8mrmx5rfdm0v55
     platform: LUNC
-  - address: '0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6'
-    platform: MATIC
   - address: '0xf6d226f9dc15d9bb51182815b320d3fbe324e1ba'
     platform: MERL
   - address: '0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4'
@@ -46,6 +44,8 @@ contracts:
     platform: OSMO
   - address: factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc
     platform: OSMO
+  - address: '0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6'
+    platform: POL
   - address: 3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh
     platform: SOL
   - address: '0x3fe2b97c1fd336e750087d68b9b867997fd64a2661ff3ca5a7c771641e8e7ac'

@@ -20,14 +20,14 @@ contracts:
     platform: HT
   - address: terra12dfv3f0e6m22z6cnhfn3nxk2en3z3zeqy6ctym
     platform: LUNC
-  - address: '0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39'
-    platform: MATIC
   - address: 514910771af9ca656af840dff83e8264ecf986ca.factory.bridge.near
     platform: NEAR
   - address: '0x68Ca48cA2626c415A89756471D4ADe2CC9034008'
     platform: NRG
   - address: '0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6'
     platform: OP
+  - address: '0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39'
+    platform: POL
   - address: CWE8jPTUYhdCTZYWPTe1o5DFqfdjzWKc9WKz6rSjQUdG
     platform: SOL
   - address: '0x008484148dcf23d1b48908393e7a00d5fdc3bf81029a73eeca62a15ebfb1205a'

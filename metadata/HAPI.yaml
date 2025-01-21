@@ -5,10 +5,10 @@ contracts:
     platform: ETH
   - address: '0xad8286fc5d133f177e7711daabd3af5040247e07'
     platform: HT
-  - address: '0xbe276e3d5060b0e770fe0260bb6be94ac19b4b19'
-    platform: MATIC
   - address: d9c2d319cd7e6177336b0a9c93c21cb48d84fb54.factory.bridge.near
     platform: NEAR
+  - address: '0xbe276e3d5060b0e770fe0260bb6be94ac19b4b19'
+    platform: POL
   - address: 6VNKqgz9hk7zRShTFdg5AnkfKwZUcojzwAkzxSH3bnUm
     platform: SOL
 crypto: true

@@ -9,16 +9,16 @@ contracts:
     platform: ETH
   - address: '0xdc301622e621166BD8E82f2cA0A26c13Ad0BE355'
     platform: FTM
-  - address: '0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89'
-    platform: MATIC
-  - address: '0xff8544fed5379d9ffa8d47a74ce6b91e632ac44d'
-    platform: MATIC
   - address: '0x1a93b23281cc1cde4c4741353f3064709a16197d'
     platform: MOVR
   - address: 853d955acef822db058eb8505911ed77f175b99e.factory.bridge.near
     platform: NEAR
   - address: '0x2E3D870790dC77A83DD1d18184Acc7439A53f475'
     platform: OP
+  - address: '0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89'
+    platform: POL
+  - address: '0xff8544fed5379d9ffa8d47a74ce6b91e632ac44d'
+    platform: POL
   - address: FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp
     platform: SOL
 crypto: true

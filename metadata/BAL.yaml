@@ -8,12 +8,12 @@ contracts:
     platform: GNO
   - address: '0x045de15ca76e76426e8fc7cba8392a3138078d0f'
     platform: HT
-  - address: '0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3'
-    platform: MATIC
   - address: ba100000625a3754423978a60c9317c58a424e3d.factory.bridge.near
     platform: NEAR
   - address: '0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921'
     platform: OP
+  - address: '0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3'
+    platform: POL
   - address: '0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2'
     platform: TBA
 crypto: true

@@ -1,10 +1,10 @@
 contracts:
   - address: '0x170DC35C5B58AEdEdC81960691eb4b389Eba9E95'
     platform: BNB
-  - address: '0x2df54842cd85c60f21b4871e09bcc6047b2dcc4d'
-    platform: MATIC
   - address: '0x550d9923693998a6fe20801abe3f1a78e0d75089'
     platform: ONE
+  - address: '0x2df54842cd85c60f21b4871e09bcc6047b2dcc4d'
+    platform: POL
 crypto: true
 fiat: false
 id: IMRTL

@@ -2,7 +2,7 @@ contracts:
   - address: '0xb14ebf566511b9e6002bb286016ab2497b9b9c9d'
     platform: ETH
   - address: '0x87847703d4bb4fcd42db887ffdcb94496e77e3ab'
-    platform: MATIC
+    platform: POL
 crypto: true
 fiat: false
 id: HID

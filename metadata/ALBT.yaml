@@ -9,10 +9,10 @@ contracts:
     platform: ETH
   - address: '0xB2991Ae5FE9593aB2978A2388acd4ce19B053a12'
     platform: GLMR
-  - address: '0x35b2ECE5B1eD6a7a99b83508F8ceEAB8661E0632'
-    platform: MATIC
   - address: '0x276cf9e7a43d1B9422dEcd1f1d2608f3D588CAad'
     platform: OP
+  - address: '0x35b2ECE5B1eD6a7a99b83508F8ceEAB8661E0632'
+    platform: POL
 crypto: true
 fiat: false
 id: ALBT

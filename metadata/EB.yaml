@@ -1,10 +1,10 @@
 contracts:
   - address: '0xA41eE9a01fd417c372B318746d8891c0C240A73c'
     platform: BNB
-  - address: '0xa41ee9a01fd417c372b318746d8891c0c240a73c'
-    platform: MATIC
   - address: ex122lcentk4fw3zueyw59c7yv8ljjw2ve262c607
     platform: OKT
+  - address: '0xa41ee9a01fd417c372b318746d8891c0c240a73c'
+    platform: POL
 crypto: true
 fiat: false
 id: EB

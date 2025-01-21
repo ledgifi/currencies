@@ -9,10 +9,10 @@ contracts:
     platform: ETH
   - address: '0x43d037a562099a4c2c95b1e2120cc43054450629'
     platform: FTM
-  - address: '0x43d037a562099a4c2c95b1e2120cc43054450629'
-    platform: MATIC
   - address: incognito_chain.near
     platform: NEAR
+  - address: '0x43d037a562099a4c2c95b1e2120cc43054450629'
+    platform: POL
 crypto: true
 fiat: false
 id: PRV1

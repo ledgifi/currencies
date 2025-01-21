@@ -5,12 +5,12 @@ contracts:
     platform: BNB
   - address: '0x97a9bac06f90940bCe9CAeC2b880ff17707519e4'
     platform: ETH
-  - address: '0x4c9f66b2806538cf00ef596e09fb05bcb0d17dc8'
-    platform: MATIC
   - address: '0xcad5937a790541ba912542d81fcf36d75fbf7dd7'
     platform: ONE
   - address: '0xc04fb38f10ad352c5f16bd4546f7456e7f1a2d9e'
     platform: OP
+  - address: '0x4c9f66b2806538cf00ef596e09fb05bcb0d17dc8'
+    platform: POL
 crypto: true
 fiat: false
 id: MNTO

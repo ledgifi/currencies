@@ -7,10 +7,10 @@ contracts:
     platform: BNB
   - address: '0xE95076d9fe7155c17b455ac49497E78912c4AB65'
     platform: ETH
-  - address: '0x7f7DB10e385B3AAD82a9755F7dBE5082166141Bf'
-    platform: MATIC
   - address: '0xc65AD8c78081ee35909c42E9689e3dCB94D096a4'
     platform: OP
+  - address: '0x7f7DB10e385B3AAD82a9755F7dBE5082166141Bf'
+    platform: POL
   - address: 5AnPDx9GposBi9jSW2dFfE5QQD3FmXbudoquMNDxpump
     platform: SOL
   - address: 0x52b898325b823e3e44e12d4f74f08a90ed526018712567cec58d04fd9b3b8082::coin::COIN

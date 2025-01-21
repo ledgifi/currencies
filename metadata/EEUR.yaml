@@ -1,10 +1,10 @@
 contracts:
   - address: '0x714bfD06Da6EB24fAc379f0d9DEBFa85261bF439'
     platform: ETH
-  - address: '0x2D27E0E31f86bd8889300E5D8148BA7b231Cf1c1'
-    platform: MATIC
   - address: IBC/5973C068568365FFF40DEDCF1A1CB7582B6116B731CD31A12231AE25E20B871F
     platform: OSMO
+  - address: '0x2D27E0E31f86bd8889300E5D8148BA7b231Cf1c1'
+    platform: POL
 crypto: true
 fiat: false
 id: EEUR

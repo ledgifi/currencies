@@ -3,10 +3,10 @@ contracts:
     platform: ARB
   - address: '0xF17A3fE536F8F7847F1385ec1bC967b2Ca9caE8D'
     platform: ETH
-  - address: '0xB87904DB461005FC716a6BF9F2d451c33b10b80b'
-    platform: MATIC
   - address: '0xC27D9BC194a648fE3069955a5126699C4e49351C'
     platform: OP
+  - address: '0xB87904DB461005FC716a6BF9F2d451c33b10b80b'
+    platform: POL
 crypto: true
 fiat: false
 id: AMKT

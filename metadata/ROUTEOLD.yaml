@@ -11,10 +11,10 @@ contracts:
     platform: ETH
   - address: '0x11BbF12363dC8375b78D2719395d505f52a02F68'
     platform: FTM
-  - address: '0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4'
-    platform: MATIC
   - address: '0x8413041a7702603d9d991F2C4ADd29e4e8A241F8'
     platform: OP
+  - address: '0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4'
+    platform: POL
 crypto: true
 fiat: false
 id: ROUTEOLD

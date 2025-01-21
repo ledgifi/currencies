@@ -76,10 +76,6 @@ contracts:
     platform: LUNC
   - address: '0xf417f5a458ec102b90352f697d6e2ac3a3d2851f'
     platform: MANTA
-  - address: '0xc2132d05d31c914a87c6611c10748aeb04b58e8f'
-    platform: MATIC
-  - address: '0x1e4a5963abfd975d8c9021ce480b42188849d41d'
-    platform: MATIC
   - address: '0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc'
     platform: METIS
   - address: '0x201eba5cc46d216ce6dc03f6a759e8e766e956ae'
@@ -106,6 +102,10 @@ contracts:
     platform: OSMO
   - address: '0x0cb6f5a34ad42ec934882a05265a7d5f59b51a2f'
     platform: PLS
+  - address: '0xc2132d05d31c914a87c6611c10748aeb04b58e8f'
+    platform: POL
+  - address: '0x1e4a5963abfd975d8c9021ce480b42188849d41d'
+    platform: POL
   - address: '0xEf213441a85DF4d7acBdAe0Cf78004E1e486BB96'
     platform: RBTC
   - address: '0x73e84bfd35c3f1537a72180d1481e1eabf64b70b'

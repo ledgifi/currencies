@@ -1,10 +1,10 @@
 contracts:
   - address: '0x01bf66becdcfd6d59a5ca18869f494fea086cdfd'
     platform: ETH
-  - address: '0xA66818b5bda74c081a9582d8aA8929fae77E214a'
-    platform: MATIC
   - address: '0x05F41F99E6c72511F157674c6e43Eda2A2e599A0'
     platform: MNT
+  - address: '0xA66818b5bda74c081a9582d8aA8929fae77E214a'
+    platform: POL
   - address: '0x7a6AA80B49017f3E091574ab5C6977d863ff3865'
     platform: TBA
 crypto: true

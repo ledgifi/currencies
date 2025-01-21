@@ -1,8 +1,8 @@
 contracts:
-  - address: '0xA8c8eD18d151159cCCD2b3C2528227a37b32fda3'
-    platform: MATIC
   - address: token.v1.realisnetwork.near
     platform: NEAR
+  - address: '0xA8c8eD18d151159cCCD2b3C2528227a37b32fda3'
+    platform: POL
 crypto: true
 fiat: false
 id: LIS

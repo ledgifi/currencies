@@ -3,10 +3,10 @@ contracts:
     platform: BNB
   - address: '0x69e5C11a7C30f0bf84A9faECBd5161AA7a94decA'
     platform: ETH
-  - address: '0x1c0a798b5a5273a9e54028eb1524fd337b24145f'
-    platform: MATIC
   - address: '0x08963Db742Ab159F27518D1D12188f69AA7387FB'
     platform: OKT
+  - address: '0x1c0a798b5a5273a9e54028eb1524fd337b24145f'
+    platform: POL
 crypto: true
 fiat: false
 id: LOWB

@@ -7,10 +7,10 @@ contracts:
     platform: ETH
   - address: '0xd10852DF03Ea8b8Af0CC0B09cAc3f7dbB15e0433'
     platform: HT
-  - address: '0xd10852DF03Ea8b8Af0CC0B09cAc3f7dbB15e0433'
-    platform: MATIC
   - address: '0xd0c6821aba4fcc65e8f1542589e64bae9de11228'
     platform: OKT
+  - address: '0xd10852DF03Ea8b8Af0CC0B09cAc3f7dbB15e0433'
+    platform: POL
 crypto: true
 fiat: false
 id: FLUX2

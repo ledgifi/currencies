@@ -10,9 +10,9 @@ contracts:
   - address: '0x4f1960E29b2cA581a38c5c474e123f420F8092db'
     platform: FTM
   - address: '0x4f1960E29b2cA581a38c5c474e123f420F8092db'
-    platform: MATIC
-  - address: '0x4f1960E29b2cA581a38c5c474e123f420F8092db'
     platform: OP
+  - address: '0x4f1960E29b2cA581a38c5c474e123f420F8092db'
+    platform: POL
 crypto: true
 fiat: false
 id: UBXS

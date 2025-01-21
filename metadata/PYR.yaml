@@ -2,7 +2,7 @@ contracts:
   - address: '0x430ef9263e76dae63c84292c3409d61c598e9682'
     platform: ETH
   - address: '0x430EF9263E76DAE63c84292C3409D61c598E9682'
-    platform: MATIC
+    platform: POL
 crypto: true
 decimals: 8
 fiat: false

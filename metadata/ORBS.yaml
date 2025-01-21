@@ -13,10 +13,10 @@ contracts:
     platform: ETH
   - address: '0x43a8cab15D06d3a5fE5854D714C37E7E9246F170'
     platform: FTM
-  - address: '0x614389eaae0a6821dc49062d56bda3d9d45fa2ff'
-    platform: MATIC
   - address: '0xAaD96d04f00b718b9Ed43E39DB8E73DE61cEf8b7'
     platform: ONE
+  - address: '0x614389eaae0a6821dc49062d56bda3d9d45fa2ff'
+    platform: POL
   - address: 7JnHPPJBBKSTJ7iEmsiGSBcPJgbcKw28uCRXtQgimncp
     platform: SOL
 crypto: true

@@ -8,9 +8,9 @@ contracts:
   - address: '0x38F9bf9dCe51833Ec7f03C9dC218197999999999'
     platform: ETH
   - address: '0x38F9bf9dCe51833Ec7f03C9dC218197999999999'
-    platform: MATIC
-  - address: '0x38F9bf9dCe51833Ec7f03C9dC218197999999999'
     platform: OP
+  - address: '0x38F9bf9dCe51833Ec7f03C9dC218197999999999'
+    platform: POL
   - address: '0x38F9bf9dCe51833Ec7f03C9dC218197999999999'
     platform: TBA
 crypto: true

@@ -12,9 +12,9 @@ contracts:
   - address: '0xad5f5edaa218b45866285252cb5662cd19cab99b'
     platform: FTM
   - address: '0xad5f5edaa218b45866285252cb5662cd19cab99b'
-    platform: MATIC
-  - address: '0xad5f5edaa218b45866285252cb5662cd19cab99b'
     platform: ONE
+  - address: '0xad5f5edaa218b45866285252cb5662cd19cab99b'
+    platform: POL
 crypto: true
 fiat: false
 id: FWC

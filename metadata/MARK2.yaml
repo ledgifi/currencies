@@ -3,10 +3,10 @@ contracts:
     platform: BNB
   - address: '0x779a8134750809F79Cf0Ba48ee0fF1A5c41a8fDC'
     platform: HT
-  - address: '0xf99FC9f2D4B9F6cc4d6e56B13C5Ae7E0030FB406'
-    platform: MATIC
   - address: '0x1fE622E91e54D6AD00B01917351Ea6081426764A'
     platform: OKT
+  - address: '0xf99FC9f2D4B9F6cc4d6e56B13C5Ae7E0030FB406'
+    platform: POL
 crypto: true
 fiat: false
 id: MARK2

@@ -8,9 +8,9 @@ contracts:
   - address: '0x6985884C4392D348587B19cb9eAAf157F13271cd'
     platform: ETH
   - address: '0x6985884c4392d348587b19cb9eaaf157f13271cd'
-    platform: MATIC
-  - address: '0x6985884c4392d348587b19cb9eaaf157f13271cd'
     platform: OP
+  - address: '0x6985884c4392d348587b19cb9eaaf157f13271cd'
+    platform: POL
   - address: '0x6985884c4392d348587b19cb9eaaf157f13271cd'
     platform: TBA
 crypto: true

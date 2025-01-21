@@ -1,8 +1,8 @@
 contracts:
-  - address: '0xffBF21632d4AD2B1F85031B418a8f69638118364'
-    platform: MATIC
   - address: edge-fast.near
     platform: NEAR
+  - address: '0xffBF21632d4AD2B1F85031B418a8f69638118364'
+    platform: POL
 crypto: true
 fiat: false
 id: FAST

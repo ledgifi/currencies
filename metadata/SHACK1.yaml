@@ -11,10 +11,10 @@ contracts:
     platform: ETH
   - address: '0x462Fa81050f0fF732D59df121BFd9b8Bab072018'
     platform: FTM
-  - address: '0x6E65Ae5572DF196FAe40Be2545Ebc2A9A24eAcE9'
-    platform: MATIC
   - address: '0x66e8617d1Df7ab523a316a6c01D16Aa5beD93681'
     platform: OP
+  - address: '0x6E65Ae5572DF196FAe40Be2545Ebc2A9A24eAcE9'
+    platform: POL
 crypto: true
 fiat: false
 id: SHACK1

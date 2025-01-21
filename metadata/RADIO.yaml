@@ -17,10 +17,10 @@ contracts:
     platform: ETH
   - address: '0xf899e3909B4492859d44260E1de41A9E663e70F5'
     platform: FTM
-  - address: '0x613a489785C95afEB3b404CC41565cCff107B6E0'
-    platform: MATIC
   - address: '0xf899e3909B4492859d44260E1de41A9E663e70F5'
     platform: OP
+  - address: '0x613a489785C95afEB3b404CC41565cCff107B6E0'
+    platform: POL
 crypto: true
 fiat: false
 id: RADIO

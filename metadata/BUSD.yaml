@@ -11,10 +11,10 @@ contracts:
     platform: ETH
   - address: '0x6a5F6A8121592BeCd6747a38d67451B310F7f156'
     platform: FUSE
-  - address: '0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39'
-    platform: MATIC
   - address: '0xe176ebe47d621b984a73036b9da5d834411ef734'
     platform: ONE
+  - address: '0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39'
+    platform: POL
   - address: 33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX
     platform: SOL
   - address: '0x7d43AABC515C356145049227CeE54B608342c0ad'

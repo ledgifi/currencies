@@ -5,10 +5,10 @@ contracts:
     platform: AVAX
   - address: '0x820802fa8a99901f52e39acd21177b0be6ee2974'
     platform: ETH
-  - address: '0x820802Fa8a99901F52e39acD21177b0BE6EE2974'
-    platform: MATIC
   - address: '0x820802fa8a99901f52e39acd21177b0be6ee2974'
     platform: OP
+  - address: '0x820802Fa8a99901F52e39acD21177b0BE6EE2974'
+    platform: POL
   - address: 2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg
     platform: SOL
 crypto: true

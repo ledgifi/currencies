@@ -16,14 +16,14 @@ contracts:
     platform: GNO
   - address: terra1csvuzlf92nyemu6tv25h0l79etpe8hz3h5vn4a
     platform: LUNC
-  - address: '0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a'
-    platform: MATIC
   - address: 6b3595068778dd592e39a122f4f5a5cf09c90fe2.factory.bridge.near
     platform: NEAR
   - address: '0xbec775cb42abfa4288de81f387a9b1a3c4bc552a'
     platform: ONE
   - address: '0x3eaEb77b03dBc0F6321AE1b72b2E9aDb0F60112B'
     platform: OP
+  - address: '0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a'
+    platform: POL
   - address: AR1Mtgh7zAtxuxGd2XPovXPVjcSdY3i4rQYisNadjfKy
     platform: SOL
   - address: '0x7D49a065D17d6d4a55dc13649901fdBB98B2AFBA'

@@ -3,10 +3,10 @@ contracts:
     platform: ARB
   - address: '0x8c223a82e07fecb49d602150d7c2b3a4c9630310'
     platform: ETH
-  - address: '0x492Fa53b88614923937B7197C87E0F7F8EEb7B20'
-    platform: MATIC
   - address: '0x8637725ada78db0674a679cea2a5e0a0869ef4a1'
     platform: OP
+  - address: '0x492Fa53b88614923937B7197C87E0F7F8EEb7B20'
+    platform: POL
   - address: '0xc2106ca72996e49bbadcb836eec52b765977fd20'
     platform: TBA
 crypto: true

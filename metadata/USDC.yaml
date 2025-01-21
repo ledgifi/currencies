@@ -76,10 +76,6 @@ contracts:
     platform: KCS
   - address: terra1pvel56a2hs93yd429pzv9zp5aptcjg5ulhkz7w
     platform: LUNC
-  - address: '0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035'
-    platform: MATIC
-  - address: '0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359'
-    platform: MATIC
   - address: '0xea32a96608495e54156ae48931a7c20f0dcc1a21'
     platform: METIS
   - address: '0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9'
@@ -104,6 +100,10 @@ contracts:
     platform: OSMO
   - address: '0x15d38573d2feeb82e7ad5187ab8c1d52810b1f07'
     platform: PLS
+  - address: '0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035'
+    platform: POL
+  - address: '0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359'
+    platform: POL
   - address: '0x0b7007c13325c48911f73a2dad5fa5dcbf808adc'
     platform: RON
   - address: '0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c'

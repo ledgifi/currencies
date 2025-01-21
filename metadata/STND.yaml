@@ -1,10 +1,10 @@
 contracts:
   - address: '0x9040e237C3bF18347bb00957Dc22167D0f2b999d'
     platform: ETH
-  - address: '0x08BE454de533509e8832B257116C5506E55b0b64'
-    platform: MATIC
   - address: '0xc12caC7090baa48Ec750CceeC57C80768F6ee58E'
     platform: METIS
+  - address: '0x08BE454de533509e8832B257116C5506E55b0b64'
+    platform: POL
   - address: '0x722377A047e89CA735f09Eb7CccAb780943c4CB4'
     platform: SDN
 crypto: true
