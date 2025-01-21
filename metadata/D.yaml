@@ -1,7 +1,14 @@
+contracts:
+  - address: '0x8fB238058E71f828F505582E65b1D14f8cf52067'
+    platform: BNB
+  - address: '0x33b481CbBF3c24f2B3184Ee7Cb02dAAD1C4F49A8'
+    platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: D
-id_coinmarketcap: '1769'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1769.png
+id_binance: '1419'
+id_coinmarketcap: '11374'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11374.png
 logoKey: currencies/d.png
-name: Denarius
+name: Dar Open Network
