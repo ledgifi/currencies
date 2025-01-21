@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x052c252cF4909f084Bd4f95f355C192ffb87bbAa'
+    platform: ETH
+crypto: true
+fiat: false
+id: ETHR
+id_coinmarketcap: '35203'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35203.png
+logoKey: currencies/ethr.png
+name: Ethereal

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xb7375de759eef76217dbb47ae2b058b95fa06815'
-    platform: BNB
+  - address: TCGPc27oyS2x7S5pex7ssyZxZ2edPWonk2
+    platform: TRX
 crypto: true
 fiat: false
 id: NEIRO7
-id_coinmarketcap: '33111'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33111.png
+id_coinmarketcap: '32985'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32985.png
 logoKey: currencies/neiro7.png
-name: Neiro BNB
+name: Neiro on Tron

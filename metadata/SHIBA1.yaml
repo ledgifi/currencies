@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x041fDF3F472D2c8A7Ecc458fc3B7F543E6c57EF7'
-    platform: TBA
+  - address: '0xfd1450a131599ff34f3be1775d8c8bf79e353d8c'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHIBA1
-id_coinmarketcap: '31244'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31244.png
+id_coinmarketcap: '28192'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28192.png
 logoKey: currencies/shiba1.png
-name: Shiba Armstrong
+name: Shiba

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x2E8F3eBC2Aacc6df50823DA82FC63b253a2272D1'
-    platform: ETH
+  - address: A3Y1xWobiHkbRcbfn2nHCbfMFEMupGw1UkUucUFUpump
+    platform: SOL
 crypto: true
 fiat: false
 id: KERMIT1
-id_coinmarketcap: '33161'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33161.png
+id_coinmarketcap: '32494'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32494.png
 logoKey: currencies/kermit1.png
-name: Kermit
+name: Kermit (SOL)

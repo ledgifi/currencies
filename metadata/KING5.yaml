@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x8F08B70456eb22f6109F57b8fafE862ED28E6040'
+    platform: ETH
 crypto: true
 fiat: false
 id: KING5
-id_coinmarketcap: '758'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/758.png
+id_coinmarketcap: '33695'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33695.png
 logoKey: currencies/king5.png
-name: Kingdom Coin
+name: King Protocol

@@ -1,10 +1,10 @@
 contracts:
-  - address: TV9R6MZoPv5yYjKVumzeyRMPWXV7UrYsAY
-    platform: TRX
+  - address: '0x1ab052db3216835182926a6d516762b0f1634661'
+    platform: ETH
 crypto: true
 fiat: false
 id: YORI
-id_coinmarketcap: '32834'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32834.png
+id_coinmarketcap: '22140'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22140.png
 logoKey: currencies/yori.png
-name: YORI
+name: The Path Of Light

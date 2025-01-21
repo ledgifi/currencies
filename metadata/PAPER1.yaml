@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xddce093888c8dc636677cd29bc6c68d35cfdac33'
+    platform: ETH
 crypto: true
 fiat: false
 id: PAPER1
-id_coinmarketcap: '5018'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5018.png
+id_coinmarketcap: '8847'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8847.png
 logoKey: currencies/paper1.png
-name: Papercoin
+name: Fomo App

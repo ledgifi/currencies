@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xD65960FAcb8E4a2dFcb2C2212cb2e44a02e2a57E'
-    platform: ETH
+  - address: 9359LVZJs8bf2FXcTdHvwcMnvg2ZCf6DUZ5ABDcJKx52
+    platform: SOL
 crypto: true
 fiat: false
 id: SOAR
-id_coinmarketcap: '1595'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1595.png
+id_coinmarketcap: '35041'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35041.png
 logoKey: currencies/soar.png
-name: Soarcoin
+name: Soarchain

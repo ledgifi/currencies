@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xe243ccab9e66e6cf1215376980811ddf1eb7f689'
-    platform: CRO
+  - address: '0x49218282042072e054afdc90e552e832735f8316'
+    platform: ETH
 crypto: true
 fiat: false
 id: CRX1
-id_coinmarketcap: '15069'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15069.png
+id_coinmarketcap: '35248'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35248.png
 logoKey: currencies/crx1.png
-name: CRODEX
+name: Cerebro Protocol

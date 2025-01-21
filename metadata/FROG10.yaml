@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x265ffEC79468A97E30F03724D133e3567F45D6C9'
-    platform: FTM
+  - address: '0x0b98814e29a9731Daed49D301e09AAF508408e28'
+    platform: BNB
 crypto: true
 fiat: false
 id: FROG10
-id_coinmarketcap: '25669'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25669.png
+id_coinmarketcap: '29479'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29479.png
 logoKey: currencies/frog10.png
-name: FROG
+name: Frog Bsc

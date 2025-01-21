@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xf017d3690346eb8234b85F74cEe5E15821fEe1f4'
-    platform: ETH
+  - address: '0xf7b0dd0B642a6ccc2fc4d8FfE2BfFb0caC8C43C8'
+    platform: TBA
 crypto: true
 fiat: false
 id: GEKKO
-id_coinmarketcap: '28287'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28287.png
+id_coinmarketcap: '35189'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35189.png
 logoKey: currencies/gekko.png
-name: Gekko HQ
+name: Gekko AI

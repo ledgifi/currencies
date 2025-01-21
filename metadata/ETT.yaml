@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x2f2e0f7716508F72f6Fa907Ca7a763D1149A0796'
+    platform: BNB
 crypto: true
 fiat: false
 id: ETT
-id_coinmarketcap: '1714'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1714.png
+id_coinmarketcap: '32012'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32012.png
 logoKey: currencies/ett.png
-name: EncryptoTel [WAVES]
+name: Euro 20

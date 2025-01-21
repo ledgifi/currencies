@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xE2c81eFA28DA43ca17e35bF4BEe14108aFA47B28'
-    platform: BNB
+  - address: '0x7e7ef0ee0305c1c195fcae22fd7b207a813eef86'
+    platform: ETH
 crypto: true
 fiat: false
 id: FIONA
-id_coinmarketcap: '33366'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33366.png
+id_coinmarketcap: '33373'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33373.png
 logoKey: currencies/fiona.png
 name: Fiona

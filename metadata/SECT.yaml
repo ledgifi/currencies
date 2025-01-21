@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x59a73BEF0f729761bc3B9aA7F41872077E4Bf300'
-    platform: ETH
+  - address: '0x0b63c61bba4a876a6eb8b5e596800f7649a9b71e'
+    platform: ARB
 crypto: true
 fiat: false
 id: SECT
-id_coinmarketcap: '28696'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28696.png
+id_coinmarketcap: '24059'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24059.png
 logoKey: currencies/sect.png
-name: SECTBOT
+name: Sector Finance

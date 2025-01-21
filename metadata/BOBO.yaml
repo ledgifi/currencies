@@ -1,6 +1,8 @@
 contracts:
   - address: '0xb90b2a35c65dbc466b04240097ca756ad2005295'
     platform: ETH
+  - address: '0x570b1533F6dAa82814B25B62B5c7c4c55eB83947'
+    platform: TBA
 crypto: true
 fiat: false
 id: BOBO

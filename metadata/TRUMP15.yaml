@@ -1,10 +1,10 @@
 contracts:
-  - address: 3Lw4GkVy9SjySq5FfqNpYsi4Xum5SbTwtM4HvgV31Eas
-    platform: SOL
+  - address: '0xCaB66bc319C96A2921Caed30E990b20F2322357e'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRUMP15
-id_coinmarketcap: '33831'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33831.png
+id_coinmarketcap: '32305'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32305.png
 logoKey: currencies/trump15.png
-name: Trump Era
+name: Simpson Trump

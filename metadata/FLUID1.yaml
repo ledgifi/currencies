@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x4E47951508Fd4A4126F8ff9CF5E6Fa3b7cC8E073'
-    platform: ETH
+  - address: '0x876ec6be52486eeec06bc06434f3e629d695c6ba'
+    platform: ARB
 crypto: true
 fiat: false
 id: FLUID1
-id_coinmarketcap: '28819'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28819.png
+id_coinmarketcap: '14581'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14581.png
 logoKey: currencies/fluid1.png
-name: Fluid
+name: FluidFi

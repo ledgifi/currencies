@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x69CE152dF6F2d1855343a94a8d65DeB86e494B98'
-    platform: BNB
+  - address: '0xAFD871f684F21Ab9D7137608C71808f83D75e6fc'
+    platform: ARB
 crypto: true
 fiat: false
 id: BUCK5
-id_coinmarketcap: '29753'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29753.png
+id_coinmarketcap: '11873'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11873.png
 logoKey: currencies/buck5.png
-name: Buck
+name: Arbucks

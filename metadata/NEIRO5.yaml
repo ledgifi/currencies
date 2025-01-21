@@ -1,10 +1,10 @@
 contracts:
-  - address: CRDhyUevseDnVk2jng3Lg4WuGBW7obz8TYKBQeYAftJy
-    platform: SOL
+  - address: '0xa816ee97b1d7ae50fb0c68672a56f45334b90aa7'
+    platform: TBA
 crypto: true
 fiat: false
 id: NEIRO5
-id_coinmarketcap: '32653'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32653.png
+id_coinmarketcap: '33138'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33138.png
 logoKey: currencies/neiro5.png
-name: Neiro Solana (neirosolana.me)
+name: Neiro on Base

@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xa3E7e143b69AEaa2B435EFD7E40C4A7D1d6D8296'
+    platform: ARB
 crypto: true
 fiat: false
 id: BUB3
-id_coinmarketcap: '918'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/918.png
+id_coinmarketcap: '24280'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24280.png
 logoKey: currencies/bub3.png
-name: Bubble
+name: Bubble DeFi

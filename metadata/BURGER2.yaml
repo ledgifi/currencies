@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x01e7Cd5CE65bDF04de97C22F817123CD0E9Eca0d'
-    platform: ETH
+  - address: 7B9QV7RD3sa9njiESBEgMtHYyLKiM6wa7HrE6pi6tL87
+    platform: SOL
 crypto: true
 fiat: false
 id: BURGER2
-id_coinmarketcap: '33090'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33090.png
+id_coinmarketcap: '33092'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33092.png
 logoKey: currencies/burger2.png
-name: Burger
+name: Crypto Burger

@@ -1,10 +1,10 @@
 contracts:
-  - address: NA
-    platform: TBA
+  - address: '0x435b67f0dcae34c046720de42fcdc135b8f90e55'
+    platform: ETH
 crypto: true
 fiat: false
 id: BSX4
-id_coinmarketcap: '34585'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34585.png
+id_coinmarketcap: '6663'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6663.png
 logoKey: currencies/bsx4.png
-name: BSX
+name: Bistox Token

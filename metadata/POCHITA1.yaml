@@ -1,10 +1,10 @@
 contracts:
-  - address: 6FJideHPpcJtmFm3deHTnP4hs52PjDbd7mYFLK4snjmQ
-    platform: SOL
+  - address: '0x4e6221c07dae8d3460a46fa01779cf17fdd72ad8'
+    platform: ETH
 crypto: true
 fiat: false
 id: POCHITA1
-id_coinmarketcap: '33288'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33288.png
+id_coinmarketcap: '33394'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33394.png
 logoKey: currencies/pochita1.png
-name: Pochita (pochita.com)
+name: Pochita (pochita-eth)

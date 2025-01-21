@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x202000D9D77cB08fEE5a592568993031F7E49381'
-    platform: BNB
+  - address: '0x69D0981FADffD225B93936d7436A412fA9821652'
+    platform: ETH
 crypto: true
 fiat: false
 id: POPO2
-id_coinmarketcap: '26882'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26882.png
+id_coinmarketcap: '32996'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32996.png
 logoKey: currencies/popo2.png
-name: popo
+name: POPO

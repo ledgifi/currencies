@@ -1,10 +1,12 @@
 contracts:
-  - address: G8Vy25NzjRmuQtnN35xF7j3X2Z1TrV39XijZu8Mg4w8n
-    platform: SOL
+  - address: '0x9F0C013016E8656bC256f948CD4B79ab25c7b94D'
+    platform: ETH
+  - address: '0x9F0C013016E8656bC256f948CD4B79ab25c7b94D'
+    platform: MNT
 crypto: true
 fiat: false
 id: COOK2
-id_coinmarketcap: '32227'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32227.png
+id_coinmarketcap: '33720'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33720.png
 logoKey: currencies/cook2.png
-name: LET HIM COOK
+name: mETH Protocol

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x34772C4D12F288368Aa35AE7bc527A6B2b3e8906'
-    platform: ARB
+  - address: '0x61073ed3acefafc5e8f87afaedacf9b8586fb28c'
+    platform: BNB
 crypto: true
 fiat: false
 id: POLY4
-id_coinmarketcap: '26625'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26625.png
+id_coinmarketcap: '14754'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14754.png
 logoKey: currencies/poly4.png
-name: Monopoly Finance Layer 3
+name: FarmPoly

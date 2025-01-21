@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xf18432ef894ef4b2a5726f933718f5a8cf9ff831'
+    platform: ETH
 crypto: true
 fiat: false
 id: BIO4
-id_coinmarketcap: '19217'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19217.png
+id_coinmarketcap: '4657'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4657.png
 logoKey: currencies/bio4.png
-name: BITONE
+name: BioCrypt

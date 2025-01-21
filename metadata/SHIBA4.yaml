@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x39bE270D18bcb4EF93F670158E1204A561158D93'
-    platform: BNB
+  - address: '0xeb15a54e462e1ec239c09f1e6aa322b45c8da225'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHIBA4
-id_coinmarketcap: '28493'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28493.png
+id_coinmarketcap: '32148'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32148.png
 logoKey: currencies/shiba4.png
-name: SHIBA INU X
+name: American Shib

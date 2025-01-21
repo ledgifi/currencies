@@ -1,6 +1,8 @@
 contracts:
   - address: '0xfc1c93a2507975e98b9d0e9260ded61a00152bf1'
     platform: ETH
+  - address: '0x37CfcDd301E992cd0c2435049D7075C6583B1D0E'
+    platform: TBA
 crypto: true
 fiat: false
 id: NAVI

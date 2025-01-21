@@ -1,10 +1,10 @@
 contracts:
-  - address: HAWKThXRcNL9ZGZKqgUXLm4W8tnRZ7U6MVdEepSutj34
-    platform: SOL
+  - address: '0xe846d164b88ed2e1209609fea3cf7a3d89d70d2d'
+    platform: BNB
 crypto: true
 fiat: false
 id: HAWK2
-id_coinmarketcap: '34428'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34428.png
+id_coinmarketcap: '33383'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33383.png
 logoKey: currencies/hawk2.png
-name: Hawk Tuah (overhere.gg)
+name: Hawk

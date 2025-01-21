@@ -1,10 +1,10 @@
 contracts:
-  - address: tysjdwNYp1suKsq6jFed5UpiHJP7mdYMrM3mo2VRENX
-    platform: SOL
+  - address: '0x260e59a6e96c26cfefd9dec566a4d4e50031744d'
+    platform: ETH
 crypto: true
 fiat: false
 id: MIKE
-id_coinmarketcap: '33987'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33987.png
+id_coinmarketcap: '26701'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26701.png
 logoKey: currencies/mike.png
-name: Mike
+name: OHearn

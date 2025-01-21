@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x3709E8615E02C15B096f8a9B460ccb8cA8194e86'
-    platform: AVAX
+  - address: '0x0caadd427a6feb5b5fc1137eb05aa7ddd9c08ce9'
+    platform: ARB
+  - address: '0x7616113782AaDAB041d7B10d474F8A0c04EFf258'
+    platform: ETH
 crypto: true
 fiat: false
 id: VEE1
-id_coinmarketcap: '11961'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11961.png
+id_coinmarketcap: '23621'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23621.png
 logoKey: currencies/vee1.png
-name: Vee Finance
+name: Zeeverse

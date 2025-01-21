@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x58f121917a75db7bfddad151000030ad4e7f5933'
+  - address: '0xe03B2642A5111aD0EFc0cbCe766498c2dd562Ae9'
     platform: ETH
 crypto: true
 fiat: false
 id: BC3
-id_coinmarketcap: '24630'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24630.png
+id_coinmarketcap: '23137'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23137.png
 logoKey: currencies/bc3.png
-name: BlueChip Casino
+name: Old Bitcoin

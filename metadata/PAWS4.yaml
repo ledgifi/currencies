@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xFC914eCB4e4cbEea1Fcf5315129C6cdB398cd465'
+    platform: BNB
 crypto: true
 fiat: false
 id: PAWS4
-id_coinmarketcap: '33908'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33908.png
+id_coinmarketcap: '28345'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28345.png
 logoKey: currencies/paws4.png
-name: PAWS CULT
+name: PawStars

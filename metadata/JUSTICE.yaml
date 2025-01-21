@@ -1,10 +1,10 @@
 contracts:
-  - address: DGagMywvLG3DwffZHX4eWWE6svnoJpiod3dSNBDwpump
-    platform: SOL
+  - address: '0x59d1e836F7b7210A978b25a855085cc46fd090B5'
+    platform: ETH
 crypto: true
 fiat: false
 id: JUSTICE
-id_coinmarketcap: '34208'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34208.png
+id_coinmarketcap: '17995'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17995.png
 logoKey: currencies/justice.png
-name: Justice for Pnut and Fred
+name: AssangeDAO

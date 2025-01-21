@@ -1,14 +1,7 @@
-contracts:
-  - address: '0x5F2F6c4C491B690216E0f8Ea753fF49eF4E36ba6'
-    platform: BNB
-  - address: '0x974e54266708292383c2989dca5fdbb115666d4f'
-    platform: KCS
-  - address: '0xb886b4e041bb8b841AeA5cc983AF756283a8d36D'
-    platform: MATIC
 crypto: true
 fiat: false
 id: MLS
-id_coinmarketcap: '20262'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20262.png
+id_coinmarketcap: '610'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/610.png
 logoKey: currencies/mls.png
-name: Metaland Shares
+name: MozzShare

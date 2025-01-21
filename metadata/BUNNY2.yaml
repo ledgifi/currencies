@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x264c5a3A84b60D05b1803BAcaA033e385bFC9D16'
-    platform: BNB
+  - address: 86moLTVsCsS1C6JrYTcWT7wfH21pCff2CgU1vjPmdzHd
+    platform: SOL
 crypto: true
 fiat: false
 id: BUNNY2
-id_coinmarketcap: '31060'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31060.png
+id_coinmarketcap: '30547'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30547.png
 logoKey: currencies/bunny2.png
-name: SUPER BUNNY
+name: BUNNY MEV BOT

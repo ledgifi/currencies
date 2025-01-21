@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x19AAe9E4269AB47FF291125b5C0c2f7296A635AB'
-    platform: CFX
+  - address: '0xf6d7181B5a07C2C2F38d044E5c5D15E63624a217'
+    platform: BNB
+  - address: '0x083d41d6dd21ee938f0c055ca4fb12268df0efac'
+    platform: ETH
 crypto: true
 fiat: false
 id: GOL2
-id_coinmarketcap: '22284'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22284.png
+id_coinmarketcap: '9670'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9670.png
 logoKey: currencies/gol2.png
-name: Goledo Finance
+name: GogolCoin

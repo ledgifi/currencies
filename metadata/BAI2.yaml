@@ -1,10 +1,12 @@
 contracts:
-  - address: AuTHEbrT36JC7NgejrDZDTtds8fLGp7MR9v6CpLBTqUF
-    platform: SOL
+  - address: '0x31ea904A7eca45122890dEb8dA3473A2081bc9d1'
+    platform: ETH
+  - address: '0x31ea904A7eca45122890dEb8dA3473A2081bc9d1'
+    platform: TBA
 crypto: true
 fiat: false
 id: BAI2
-id_coinmarketcap: '33869'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33869.png
+id_coinmarketcap: '28503'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28503.png
 logoKey: currencies/bai2.png
-name: Bunnies AI
+name: Bonsai3

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x248C1e2b50C72F04704c71BcC953799351aB30a8'
-    platform: BNB
+  - address: '0x8489f4554790F5A103F2B0398537eAEe68B73884'
+    platform: ASTR
 crypto: true
 fiat: false
 id: STAR6
-id_coinmarketcap: '10728'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10728.png
+id_coinmarketcap: '21169'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21169.png
 logoKey: currencies/star6.png
-name: Pornstar
+name: StarSwap

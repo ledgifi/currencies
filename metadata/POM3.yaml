@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xc8a0f3e7163f07a7bd3025ecfc6341f130583bb2'
-    platform: ETH
+  - address: '0x79a9b1e4298ac4a544608ff7715460b92b936c43'
+    platform: BNB
 crypto: true
 fiat: false
 id: POM3
-id_coinmarketcap: '22626'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22626.png
+id_coinmarketcap: '14980'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14980.png
 logoKey: currencies/pom3.png
-name: Proof Of Memes
+name: Pomeranian

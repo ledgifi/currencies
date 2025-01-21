@@ -1,10 +1,10 @@
 contracts:
-  - address: EYzraAuzjmriL1d5hw3NNzaE95g8nPJbqasbmooNSjTy
-    platform: SOL
+  - address: '0x440f52c497a0f5163259e16d3d95a533b99be961'
+    platform: ETH
 crypto: true
 fiat: false
 id: TBC4
-id_coinmarketcap: '32456'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32456.png
+id_coinmarketcap: '22945'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22945.png
 logoKey: currencies/tbc4.png
-name: The Boys Club
+name: TURBOCHAIN

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x740a5ac14d0096c81d331adc1611cf2fd28ae317'
+  - address: '0xe19f85c920b572ca48942315b06d6cac86585c87'
     platform: ETH
 crypto: true
 fiat: false
 id: PLEB1
-id_coinmarketcap: '30925'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30925.png
+id_coinmarketcap: '24583'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24583.png
 logoKey: currencies/pleb1.png
-name: Plebz
+name: PLEBToken

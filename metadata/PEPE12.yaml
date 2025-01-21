@@ -1,10 +1,10 @@
 contracts:
-  - address: 2Zaq3WyDJj2ZkMcuqUiTBfAXCjqZtqihxcwUdwv9dyHA
-    platform: SOL
+  - address: 0x288710173f12f677ac38b0c2b764a0fea8108cb5e32059c3dd8f650d65e2cb25::pepe::PEPE
+    platform: SUI
 crypto: true
 fiat: false
 id: PEPE12
-id_coinmarketcap: '31147'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31147.png
+id_coinmarketcap: '34519'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34519.png
 logoKey: currencies/pepe12.png
-name: NEXT GEN PEPE
+name: Pepe on Sui

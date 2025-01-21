@@ -1,10 +1,10 @@
 contracts:
-  - address: G31LJG7sSXTbv6e4hqQvVHieKH7ytjfTKjz15gJUkR5T
-    platform: SOL
+  - address: '0xd0b0e54ebe7f450be3f1b438e45b95d0ec6f9bd7'
+    platform: ETH
 crypto: true
 fiat: false
 id: LEN2
-id_coinmarketcap: '33331'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33331.png
+id_coinmarketcap: '33332'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33332.png
 logoKey: currencies/len2.png
-name: Len Sassaman
+name: Len Sassaman (Ethereum)

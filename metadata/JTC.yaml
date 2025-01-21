@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x0449F3c30541C3288494dDE28ac74498f3CCdbCf'
+    platform: TBA
 crypto: true
 fiat: false
 id: JTC
-id_coinmarketcap: '23361'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23361.png
+id_coinmarketcap: '35177'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35177.png
 logoKey: currencies/jtc.png
-name: Jurat
+name: Jurat v2

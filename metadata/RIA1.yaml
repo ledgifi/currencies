@@ -1,12 +1,7 @@
-contracts:
-  - address: '0x9b110Fda4E20DB18Ad7052f8468a455de7449eb6'
-    platform: ETH
-  - address: '0xF9cea445c2Ac1668f50CAa2c2924F93606a4a37d'
-    platform: MATIC
 crypto: true
 fiat: false
 id: RIA1
-id_coinmarketcap: '23018'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23018.png
+id_coinmarketcap: '19865'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19865.png
 logoKey: currencies/ria1.png
-name: 'Calvaria: Duels of Eternity'
+name: aRIA Currency

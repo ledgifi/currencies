@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xfa6828649050266abec7c6691e472192947b1ba9'
-    platform: BNB
+  - address: '0xEc7D3E835dA3F6118079fA9a236b267D044FD7cA'
+    platform: ETH
 crypto: true
 fiat: false
 id: CRS1
-id_coinmarketcap: '15813'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15813.png
+id_coinmarketcap: '8608'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8608.png
 logoKey: currencies/crs1.png
-name: Ceres
+name: Crypto Rewards Studio

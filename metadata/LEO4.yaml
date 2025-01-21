@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xda38d8facd3875daad437839308f1885646dfbb6'
-    platform: BNB
+  - address: '0xbe8dab8ce8521ecfde43a8ff8d5c6644f4dcecb7'
+    platform: MATIC
 crypto: true
 fiat: false
 id: LEO4
-id_coinmarketcap: '15990'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15990.png
+id_coinmarketcap: '12113'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12113.png
 logoKey: currencies/leo4.png
-name: Leo
+name: AstroFarms Finance

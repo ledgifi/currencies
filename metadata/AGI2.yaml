@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xff191514a9baba76bfd19e3943a4d37e8ec9a111'
-    platform: ARB
+  - address: '0x5F18ea482ad5cc6BC65803817C99f477043DcE85'
+    platform: ETH
 crypto: true
 fiat: false
 id: AGI2
-id_coinmarketcap: '24408'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24408.png
+id_coinmarketcap: '24364'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24364.png
 logoKey: currencies/agi2.png
-name: Auragi
+name: Agility LSD

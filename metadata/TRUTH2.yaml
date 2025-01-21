@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x55a633b3fce52144222e468a326105aa617cc1cc'
-    platform: BNB
+  - address: '0xAF75d880b3128981D1fEd3292Fc02E3FB37Acd53'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRUTH2
-id_coinmarketcap: '24041'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24041.png
+id_coinmarketcap: '24513'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24513.png
 logoKey: currencies/truth2.png
-name: TRUTH SEEKERS
+name: TruthGPT

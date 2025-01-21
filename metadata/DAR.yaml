@@ -1,7 +1,11 @@
 contracts:
   - address: '0x23ce9e926048273ef83be0a3a8ba9cb6d45cd978'
     platform: BNB
+  - address: '0x8fB238058E71f828F505582E65b1D14f8cf52067'
+    platform: BNB
   - address: '0x081131434f93063751813c619ecca9c4dc7862a3'
+    platform: ETH
+  - address: '0x33b481CbBF3c24f2B3184Ee7Cb02dAAD1C4F49A8'
     platform: ETH
 crypto: true
 decimals: 8

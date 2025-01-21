@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x1ffe8a8177d3c261600a8bd8080d424d64b7fbc2'
-    platform: ETH
+  - address: '0xa5b000d453143B357dbA63f4EE83F2f6FDa832b8'
+    platform: BNB
 crypto: true
 fiat: false
 id: MET1
-id_coinmarketcap: '19114'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19114.png
+id_coinmarketcap: '35269'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35269.png
 logoKey: currencies/met1.png
-name: Metroverse
+name: MetYa

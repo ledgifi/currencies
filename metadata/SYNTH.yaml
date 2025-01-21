@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xbd2DBb8eceA9743CA5B16423b4eAa26bDcfE5eD2'
-    platform: TBA
+  - address: '0x0721b3C9f19cfeF1d622C918DcD431960f35E060'
+    platform: ARB
 crypto: true
 fiat: false
 id: SYNTH
-id_coinmarketcap: '27759'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27759.png
+id_coinmarketcap: '35197'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35197.png
 logoKey: currencies/synth.png
-name: Synthswap
+name: SYNTHR

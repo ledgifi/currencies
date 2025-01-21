@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xc242eb8e4e27eae6a2a728a41201152f19595c83'
+    platform: ETH
 crypto: true
 fiat: false
 id: ECO4
-id_coinmarketcap: '12502'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12502.png
+id_coinmarketcap: '11643'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11643.png
 logoKey: currencies/eco4.png
-name: Ecoball
+name: EcoFi

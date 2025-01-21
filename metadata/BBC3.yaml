@@ -1,10 +1,10 @@
 contracts:
-  - address: TRrkeSxEypfiTn7gU3Gg3tP756cEhK493b
-    platform: TRX
+  - address: '0xe9b14e4d05eb22b47dfb8a10708be83c17bbcbbc'
+    platform: BNB
 crypto: true
 fiat: false
 id: BBC3
-id_coinmarketcap: '29279'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29279.png
+id_coinmarketcap: '32843'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32843.png
 logoKey: currencies/bbc3.png
-name: Bybyecar
+name: BBC

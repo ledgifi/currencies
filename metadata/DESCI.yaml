@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xAEc613188B1E178d42a05d352044D54854C3196a'
+    platform: ETH
   - address: 0x01d022d585ea528404d2ea250b01098ed62348c0a52bf934d797cec374261d7d::desci::DESCI
     platform: SUI
 crypto: true

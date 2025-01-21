@@ -1,10 +1,7 @@
-contracts:
-  - address: 0x881ac202b1f1e6ad4efcff7a1d0579411533f2502417a19211cfc49751ddb5f4::coin::MOJO
-    platform: APT
 crypto: true
 fiat: false
 id: MOJO1
-id_coinmarketcap: '22399'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22399.png
+id_coinmarketcap: '1212'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1212.png
 logoKey: currencies/mojo1.png
-name: Mojito Markets
+name: MojoCoin

@@ -1,10 +1,10 @@
 contracts:
-  - address: 0x288710173f12f677ac38b0c2b764a0fea8108cb5e32059c3dd8f650d65e2cb25::pepe::PEPE
-    platform: SUI
+  - address: '0x698dc45e4f10966f6d1d98e3bfd7071d8144c233'
+    platform: TBA
 crypto: true
 fiat: false
 id: PEPE11
-id_coinmarketcap: '34519'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34519.png
+id_coinmarketcap: '30890'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30890.png
 logoKey: currencies/pepe11.png
-name: Pepe on Sui
+name: PEPE 0x69 ON BASE

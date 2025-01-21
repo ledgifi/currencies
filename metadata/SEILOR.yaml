@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: sei10knxlv9e54z0xcywdhtycc63uf970aefeec73ycqwd75ep9nu45sh66m6a
     platform: SEI
+  - address: '0x9bDE70Bad05b7D84dAc03024daE15aAce8C9CCa2'
+    platform: TBA
 crypto: true
 fiat: false
 id: SEILOR

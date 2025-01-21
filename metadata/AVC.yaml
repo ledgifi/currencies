@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xD34984D7bfF492dC3b2336EAbD1758cE16DDFC2D'
+    platform: BNB
 crypto: true
 fiat: false
 id: AVC
-id_coinmarketcap: '6376'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6376.png
+id_coinmarketcap: '35040'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35040.png
 logoKey: currencies/avc.png
-name: AVCCOIN
+name: Alterverse

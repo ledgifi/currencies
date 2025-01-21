@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x6265b90aaebD5E472760651639687C6Cff8942E3'
-    platform: ETH
+  - address: '0xb348B87b23D5977E2948E6f36ca07E1EC94d7328'
+    platform: ARB
 crypto: true
 fiat: false
 id: FISH7
-id_coinmarketcap: '26612'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26612.png
+id_coinmarketcap: '22852'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22852.png
 logoKey: currencies/fish7.png
-name: FishMeme
+name: SwapFish

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x1e05c8b69e4128949fcef16811a819ef2f55d33e'
-    platform: ONE
+  - address: qtooy-2yaaa-aaaaq-aabvq-cai
+    platform: ICP
 crypto: true
 fiat: false
 id: SONIC4
-id_coinmarketcap: '13120'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13120.png
+id_coinmarketcap: '29005'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29005.png
 logoKey: currencies/sonic4.png
-name: SonicSwap
+name: Sonic

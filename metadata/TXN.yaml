@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x247E3866F743CcE280433b865A669c9361421ecc'
+    platform: ETH
+crypto: true
+fiat: false
+id: TXN
+id_coinmarketcap: '35270'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35270.png
+logoKey: currencies/txn.png
+name: TXNScan

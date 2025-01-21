@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xa3889a5f5f84f4296ff734081ad6d333838a56b5'
+  - address: '0x2f9b6779c37df5707249eeb3734bbfc94763fbe2'
     platform: ETH
 crypto: true
 fiat: false
 id: WIZ
-id_coinmarketcap: '31548'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31548.png
+id_coinmarketcap: '3331'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3331.png
 logoKey: currencies/wiz.png
-name: Wizard
+name: CrowdWiz

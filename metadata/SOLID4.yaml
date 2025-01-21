@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x68300309047f8bC213f10e238eA6Badb700cb193'
-    platform: ETH
+  - address: A5UevXJdphkzXhRtTXj8JyoYYrWnkCLHVS986JHtRLyj
+    platform: SOL
 crypto: true
 fiat: false
 id: SOLID4
-id_coinmarketcap: '25262'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25262.png
+id_coinmarketcap: '16571'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16571.png
 logoKey: currencies/solid4.png
-name: Solidblock
+name: Solid Protocol

@@ -1,10 +1,7 @@
-contracts:
-  - address: '0x7ae1d57b58fa6411f32948314badd83583ee0e8c'
-    platform: ETH
 crypto: true
 fiat: false
 id: PAPER
-id_coinmarketcap: '11675'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11675.png
+id_coinmarketcap: '5018'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5018.png
 logoKey: currencies/paper.png
-name: Dope Wars Paper
+name: Papercoin

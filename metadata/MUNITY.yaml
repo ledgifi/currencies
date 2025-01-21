@@ -1,6 +1,8 @@
 contracts:
   - address: '0xe97f6dde78b11b58cb3e394f15ab592cb2acd290'
     platform: ETH
+  - address: '0x5283aF37d473eF7c185A1F8a2042d427cD9C83c4'
+    platform: TBA
 crypto: true
 fiat: false
 id: MUNITY

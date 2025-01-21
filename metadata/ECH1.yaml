@@ -1,22 +1,10 @@
 contracts:
-  - address: '0x6195DE423da947f52AE8d55331C207c963eD2b3f'
-    platform: AVAX
-  - address: '0x00eafc9c1fb1b7f7889c7e91441ab62de0259ad5'
-    platform: BNB
-  - address: '0xf69B774BE9ACA90e87D2788BE7E6b1D492fA7ACd'
-    platform: CRO
-  - address: '0xFea300256736DC102F63552303a5B0995B15F79E'
+  - address: '0xcde86186866ca04a5da9240cbfae4306499a2125'
     platform: ETH
-  - address: '0xb868B46BcEC6595A953e351e6d8459bedEF6805E'
-    platform: FTM
-  - address: '0xA3baC05723c35aA0b30Ea63F5A5e9986465a9391'
-    platform: MATIC
-  - address: '0x9E92477a7b4000be6e279505F35847BB963e0A65'
-    platform: ONE
 crypto: true
 fiat: false
 id: ECH1
-id_coinmarketcap: '20047'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20047.png
+id_coinmarketcap: '2532'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2532.png
 logoKey: currencies/ech1.png
-name: Echelon
+name: Etherecash

@@ -1,7 +1,10 @@
+contracts:
+  - address: 0xfa7357235818f6a0234ed65546af28be2a606f62f7ee426b7521229d37344393::spot::SPOT
+    platform: SUI
 crypto: true
 fiat: false
 id: SPOT2
-id_coinmarketcap: '4580'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4580.png
+id_coinmarketcap: '35119'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35119.png
 logoKey: currencies/spot2.png
-name: Cryptospot Token
+name: SPOT AI

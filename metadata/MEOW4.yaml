@@ -1,10 +1,10 @@
 contracts:
-  - address: DPc5aw1FEg71LuKU52RFehWmj38xFCNJ1VkJejbcqD8T
-    platform: SOL
+  - address: '0x77be1ba1cd2d7a63bffc772d361168cc327dd8bc'
+    platform: ETH
 crypto: true
 fiat: false
 id: MEOW4
-id_coinmarketcap: '32247'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32247.png
+id_coinmarketcap: '29254'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29254.png
 logoKey: currencies/meow4.png
-name: Catsaidmeow
+name: Meow Meow Coin

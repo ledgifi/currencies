@@ -1,10 +1,10 @@
 contracts:
-  - address: 2HjefZ23Jk4jgm8R8bW4VWrnfEURRJW1XphXeKzZjwUa
-    platform: SOL
+  - address: '0xEA3665e272f14052442E433fb0059424D16Cc6c7'
+    platform: ETH
 crypto: true
 fiat: false
 id: SMIDGE2
-id_coinmarketcap: '31969'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31969.png
+id_coinmarketcap: '31563'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31563.png
 logoKey: currencies/smidge2.png
-name: Smidge
+name: SMIDGE

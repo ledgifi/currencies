@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x667210a731447F8B385e068205759BE2311b86d4'
+  - address: '0xa09e6f797223af66f3088ab8df35b2419165ea07'
     platform: ETH
 crypto: true
 fiat: false
 id: ETF1
-id_coinmarketcap: '28364'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28364.png
+id_coinmarketcap: '28258'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28258.png
 logoKey: currencies/etf1.png
-name: ETF
+name: Bitcoin ETF

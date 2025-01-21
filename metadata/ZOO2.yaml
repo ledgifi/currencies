@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x7fFC1243232da3Ac001994208E2002816b57c669'
-    platform: BNB
+  - address: '0x1B88D7aD51626044Ec62eF9803EA264DA4442F32'
+    platform: AVAX
+  - address: '0x6e11655d6aB3781C6613db8CB1Bc3deE9a7e111F'
+    platform: WAN
 crypto: true
 fiat: false
 id: ZOO2
-id_coinmarketcap: '11556'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11556.png
+id_coinmarketcap: '9488'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9488.png
 logoKey: currencies/zoo2.png
-name: CryptoZoo  (new)
+name: ZooKeeper

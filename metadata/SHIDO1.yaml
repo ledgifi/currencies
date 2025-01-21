@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x0b842c7b18bef85daea11f23e1dabe0d6671c19a'
-    platform: BNB
-  - address: '0xed354cae598148846aa9694254c854fc7051163c'
-    platform: ETH
+  - address: ibc/62B50BB1DAEAD2A92D6C6ACAC118F4ED8CBE54265DCF5688E8D0A0A978AA46E7
+    platform: OSMO
 crypto: true
 fiat: false
 id: SHIDO1
-id_coinmarketcap: '19520'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19520.png
+id_coinmarketcap: '34836'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34836.png
 logoKey: currencies/shido1.png
-name: Shido [Old]
+name: Shido Network

@@ -1,10 +1,10 @@
 contracts:
-  - address: FwFJkwW8m4QCuqzYzK6S3UHMPmB7mWWpC1jBEJ6kLW3M
-    platform: SOL
+  - address: '0x36737b4ac153c762d6a767056e1af7b17573a6b9'
+    platform: ETH
 crypto: true
 fiat: false
 id: GOLD2
-id_coinmarketcap: '33864'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33864.png
+id_coinmarketcap: '28234'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28234.png
 logoKey: currencies/gold2.png
-name: GOLDEN AGE
+name: GOLD

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x9cc7437978255e2c38b0d3d4671fb9ac411a68ac'
-    platform: PLS
+  - address: '0xD09e5d8607f2541E13c3F014C360f0EE2A25Eb80'
+    platform: ETH
 crypto: true
 fiat: false
 id: DOGE8
-id_coinmarketcap: '27134'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27134.png
+id_coinmarketcap: '33019'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33019.png
 logoKey: currencies/doge8.png
-name: Doge on Pulsechain
+name: Department Of Government Efficiency (doge.ong)

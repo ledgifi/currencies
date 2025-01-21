@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xa0385E7283C83e2871E9aF49EEC0966088421ddD'
-    platform: ETH
+  - address: '0xed3d88d3321f82e5c25ca9ac6d5b427ec93f567e'
+    platform: BNB
 crypto: true
 fiat: false
 id: APE3
-id_coinmarketcap: '31968'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31968.png
+id_coinmarketcap: '21172'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21172.png
 logoKey: currencies/ape3.png
-name: Ape
+name: APEmove

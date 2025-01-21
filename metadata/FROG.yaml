@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x4AD663403df2F0E7987bC9C74561687472e1611C'
-    platform: BNB
+  - address: '0x0a2c375553e6965b42c135bb8b15a8914b08de0c'
+    platform: ETH
 crypto: true
 fiat: false
 id: FROG
-id_coinmarketcap: '34587'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34587.png
+id_coinmarketcap: '31851'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31851.png
 logoKey: currencies/frog.png
-name: Frodo the virtual samurai
+name: Frog

@@ -1,10 +1,10 @@
 contracts:
-  - address: CsZv54bGFU3LTRnjMimqcq3kVVYbK63CzBnHs6XmxFU3
-    platform: SOL
+  - address: '0xC9bd9b4F5e96644B9C5C525E99f655Ff31ce5Ce6'
+    platform: ETH
 crypto: true
 fiat: false
 id: WLFI2
-id_coinmarketcap: '33558'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33558.png
+id_coinmarketcap: '33052'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33052.png
 logoKey: currencies/wlfi2.png
-name: World Liberty Financial(worldlibertysol.com)
+name: World Liberty Financial (wlfi.one)

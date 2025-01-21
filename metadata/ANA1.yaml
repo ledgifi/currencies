@@ -1,10 +1,10 @@
 contracts:
-  - address: 5DkzT65YJvCsZcot9L6qwkJnsBCPmKHjJz3QU7t7QeRW
-    platform: SOL
+  - address: '0x1c519DbAF073342445cf546F8BaEA76c78a2f146'
+    platform: BNB
 crypto: true
 fiat: false
 id: ANA1
-id_coinmarketcap: '19513'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19513.png
+id_coinmarketcap: '9806'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9806.png
 logoKey: currencies/ana1.png
-name: Nirvana ANA
+name: Anamnesis

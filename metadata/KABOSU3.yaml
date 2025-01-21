@@ -1,10 +1,10 @@
 contracts:
-  - address: 92EcDYWSA9YRhtmPWzUFqPyzDfkjF7AkF8AxVJt5LXYM
-    platform: SOL
+  - address: '0x180000dDA70Eb7fB7f3E10e52e88ce88f46E3b3a'
+    platform: ETH
 crypto: true
 fiat: false
 id: KABOSU3
-id_coinmarketcap: '33524'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33524.png
+id_coinmarketcap: '32650'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32650.png
 logoKey: currencies/kabosu3.png
-name: Kabosu
+name: KABOSU

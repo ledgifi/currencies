@@ -1,7 +1,24 @@
+contracts:
+  - address: '0x8EC1877698ACF262Fe8Ad8a295ad94D6ea258988'
+    platform: ARB
+  - address: '0x8EC1877698ACF262Fe8Ad8a295ad94D6ea258988'
+    platform: BNB
+  - address: '0xa48F322F8b3edff967629Af79E027628b9Dd1298'
+    platform: ETH
+  - address: '0x819d1daa794c1c46b841981b61cc978d95a17b8e'
+    platform: MATIC
+  - address: '0xec38621e72d86775a89c7422746de1f52bba5320'
+    platform: MATIC
+  - address: '0x819d1Daa794c1c46B841981b61cC978d95A17b8e'
+    platform: MODE
+  - address: '0xb396b31599333739A97951b74652c117BE86eE1D'
+    platform: OP
+  - address: '0xa88b54e6b76fb97cdb8ecae868f1458e18a953f4'
+    platform: TBA
 crypto: true
 fiat: false
 id: DUSD
-id_coinmarketcap: '18861'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18861.png
+id_coinmarketcap: '23515'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23515.png
 logoKey: currencies/dusd.png
-name: Decentralized USD (DefiChain)
+name: Davos.xyz USD

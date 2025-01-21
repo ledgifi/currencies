@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xfd78aaed1e3f2d06dbde9510c6dc14112eca896d'
-    platform: BNB
+  - address: '0x2dcb6f84cc76a888aed21efc86ac7492879866c3'
+    platform: ETH
 crypto: true
 fiat: false
 id: ANON4
-id_coinmarketcap: '10162'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10162.png
+id_coinmarketcap: '7693'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7693.png
 logoKey: currencies/anon4.png
-name: AnonymousBSC
+name: Anonyme

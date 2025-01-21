@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xD0f3C49297a85C81bfE98bC0BdC966964c0E7173'
+    platform: ETH
 crypto: true
 fiat: false
 id: VMC
-id_coinmarketcap: '302'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/302.png
+id_coinmarketcap: '35180'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35180.png
 logoKey: currencies/vmc.png
-name: VirtualMiningCoin
+name: VMS Classic

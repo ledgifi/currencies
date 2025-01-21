@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xb09b659cfd8c3cb0d8b981e227cb654eb9e99d56'
-    platform: BNB
+  - address: '0x7391a131ccb43a571a34e09f986080d117b4313c'
+    platform: ETH
 crypto: true
 fiat: false
 id: MICKEY3
-id_coinmarketcap: '26754'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26754.png
+id_coinmarketcap: '30015'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30015.png
 logoKey: currencies/mickey3.png
-name: Mickey Mouse
+name: Mickey Meme

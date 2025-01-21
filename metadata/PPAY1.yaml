@@ -1,10 +1,10 @@
 contracts:
-  - address: 8uCVHmHrRH61PgDx9KgzpNanuv18QbmZnQbjZ82f2RfG
-    platform: SOL
+  - address: '0xCD7287113496cFf7705792081D973B13a465E51e'
+    platform: BNB
 crypto: true
 fiat: false
 id: PPAY1
-id_coinmarketcap: '19749'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19749.png
+id_coinmarketcap: '24017'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24017.png
 logoKey: currencies/ppay1.png
-name: PocketPay Finance
+name: PioneerPay

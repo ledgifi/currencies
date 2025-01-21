@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xb646EB2146e770bF1c675C54969C7830A57A88E9'
-    platform: BNB
+  - address: '0x39fed555ff57cb1154bfa6b1a2492bb914ce2d9b'
+    platform: TBA
 crypto: true
 fiat: false
 id: ECHO1
-id_coinmarketcap: '9645'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9645.png
+id_coinmarketcap: '35314'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35314.png
 logoKey: currencies/echo1.png
-name: Token Echo
+name: EchoLeaks by Virtuals

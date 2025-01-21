@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x0f46fe95a8d6573990118aee8b7ac9a3532f5963'
+    platform: NRG
 crypto: true
 fiat: false
 id: USDE3
-id_coinmarketcap: '5968'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5968.png
+id_coinmarketcap: '23470'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23470.png
 logoKey: currencies/usde3.png
-name: Dollar Electrino
+name: Energi Dollar

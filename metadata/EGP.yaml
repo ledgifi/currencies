@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7e7a7c916c19a45769f6bdaf91087f93c6c12f78'
     platform: ARB
+  - address: '0x0cc7288A11c0c31d39d0e05EB59F24e506ad6aD5'
+    platform: BNB
 crypto: true
 fiat: false
 id: EGP

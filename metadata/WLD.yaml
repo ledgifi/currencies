@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: '0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1'
     platform: OP
+  - address: '0x2cFc85d8E48F8EAB294be644d9E25C3030863003'
+    platform: WLD
 crypto: true
 decimals: 8
 fiat: false

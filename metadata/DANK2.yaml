@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x9ea1ae46c15a4164b74463bc26f8aa3b0eea2e6e'
+    platform: ETH
 crypto: true
 fiat: false
 id: DANK2
-id_coinmarketcap: '705'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/705.png
+id_coinmarketcap: '9041'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9041.png
 logoKey: currencies/dank2.png
-name: Darkkush
+name: MU DANK

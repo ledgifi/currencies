@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x99cd7207d1cbe59033a01892c06889adae47b0e5'
-    platform: BNB
+  - address: CYtPJQqzYQT7QVW7kNZA15GQpbwpt78XAJ38UtQ7udRK
+    platform: SOL
 crypto: true
 fiat: false
 id: BULL9
-id_coinmarketcap: '20156'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20156.png
+id_coinmarketcap: '34940'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34940.png
 logoKey: currencies/bull9.png
-name: Bullshit Inu
+name: SOL BULL

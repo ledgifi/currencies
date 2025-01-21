@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x484f2ff94a7790759D56Fb1eFbAce8075aBA5e06'
-    platform: FTM
+  - address: '0x01bd7acb6fF3B6Dd5aefA05CF085F2104f3fC53F'
+    platform: BNB
 crypto: true
 fiat: false
 id: TREAT3
-id_coinmarketcap: '13882'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13882.png
+id_coinmarketcap: '12820'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12820.png
 logoKey: currencies/treat3.png
-name: Treat
+name: Treat DAO [new]

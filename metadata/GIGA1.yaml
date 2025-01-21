@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x83249c6794bca5a77eb8c0af9f1a86e055459cea'
-    platform: ETH
+  - address: '0x682f8fddfec6ebdf6c7bf1c0eec276b37a647d59'
+    platform: BNB
 crypto: true
 fiat: false
 id: GIGA1
-id_coinmarketcap: '21493'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21493.png
+id_coinmarketcap: '29383'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29383.png
 logoKey: currencies/giga1.png
-name: GigaSwap
+name: GigaChadGPT

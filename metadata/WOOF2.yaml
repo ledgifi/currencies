@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x6bc08509b36a98e829dffad49fde5e412645d0a3'
+    platform: ETH
 crypto: true
 fiat: false
 id: WOOF2
-id_coinmarketcap: '9403'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9403.png
+id_coinmarketcap: '23371'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23371.png
 logoKey: currencies/woof2.png
-name: WOOF PACK
+name: WoofWork.io

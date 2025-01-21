@@ -1,10 +1,10 @@
 contracts:
-  - address: EQBF7jWUxErQbHyAARQJcNeQeSN-eVp0ZsQy-7acsKPPMDqA
-    platform: TON
+  - address: '0x09e7e61f28e83c7bac827a0ec9dcd800ce4b4cc1'
+    platform: BNB
 crypto: true
 fiat: false
 id: FIN1
-id_coinmarketcap: '34123'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34123.png
+id_coinmarketcap: '13826'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13826.png
 logoKey: currencies/fin1.png
-name: FIN Token
+name: Financio

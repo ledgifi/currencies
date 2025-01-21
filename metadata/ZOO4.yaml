@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x8e7788ee2b1d3e5451e182035d6b2b566c2fe997'
-    platform: BNB
+  - address: '0x09e145A1D53c0045F41aEEf25D8ff982ae74dD56'
+    platform: FTM
 crypto: true
 fiat: false
 id: ZOO4
-id_coinmarketcap: '11284'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11284.png
+id_coinmarketcap: '9007'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9007.png
 logoKey: currencies/zoo4.png
-name: CryptoZoo (old)
+name: ZooCoin

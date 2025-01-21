@@ -5,6 +5,8 @@ contracts:
     platform: ARB
   - address: '0xA592055Db0F9218915C7383eddC057fB402b1DB4'
     platform: MATIC
+  - address: '0x7f604C7898D47f0F41049f40ceEEaBE63fA3C45A'
+    platform: TBA
 crypto: true
 fiat: false
 id: ROSX

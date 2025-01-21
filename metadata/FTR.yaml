@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x63F712B7EC2b9f7146b54a79133900F9458eeC6a'
-    platform: BNB
+  - address: '0x61f23250451305f6C4426E81C50aE535Edf94A02'
+    platform: AVAX
+  - address: '0xD6C7bB8531295e88D364EA67D5D1acC7D3F87454'
+    platform: ETH
 crypto: true
 fiat: false
 id: FTR
-id_coinmarketcap: '14010'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14010.png
+id_coinmarketcap: '31953'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31953.png
 logoKey: currencies/ftr.png
-name: Future Token
+name: Fautor

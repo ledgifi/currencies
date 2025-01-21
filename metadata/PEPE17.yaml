@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xfe1ef2b469846d1832b25095ff51b004f090e0c6'
-    platform: ETH
+  - address: '0x80f45eacf6537498ecc660e4e4a2d2f99e195cf4'
+    platform: TBA
 crypto: true
 fiat: false
 id: PEPE17
-id_coinmarketcap: '25289'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25289.png
+id_coinmarketcap: '30341'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30341.png
 logoKey: currencies/pepe17.png
-name: Pepe Coin
+name: Pepe

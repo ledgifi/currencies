@@ -1,10 +1,14 @@
 contracts:
-  - address: '0x3c7b464376db7c9927930cf50eefdea2eff3a66a'
+  - address: '0x9356086146be5158E98aD827E21b5cF944699894'
+    platform: BNB
+  - address: '0x8A60E489004Ca22d775C5F2c657598278d17D9c2'
     platform: ETH
+  - address: '0x075df695b8E7f4361FA7F8c1426C63f11B06e326'
+    platform: MNT
 crypto: true
 fiat: false
 id: USDA
-id_coinmarketcap: '5058'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5058.png
+id_coinmarketcap: '35368'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35368.png
 logoKey: currencies/usda.png
-name: USDA
+name: USDa (Avalon Labs)

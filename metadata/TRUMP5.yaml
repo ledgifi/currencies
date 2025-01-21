@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xCf01a5c02c9b9DD5bF73a5a56BcDbc9dca483D43'
-    platform: ETH
+  - address: '0xccdF812aa7cdee4fF7cb89546d7f1718bb8d46E1'
+    platform: BNB
 crypto: true
 fiat: false
 id: TRUMP5
-id_coinmarketcap: '32929'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32929.png
+id_coinmarketcap: '32865'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32865.png
 logoKey: currencies/trump5.png
-name: BOME TRUMP
+name: TRUMP AI

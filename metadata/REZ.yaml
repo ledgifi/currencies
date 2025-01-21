@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: '0x3b50805453023a91a8bf641e279401a0b23fa6f9'
     platform: ETH
+  - address: 3DK98MXPz8TRuim7rfQnebSLpA7VSoc79Bgiee1m4Zw5
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

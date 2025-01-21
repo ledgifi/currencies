@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x2b46578b7f06f2b373ad0e0c9b28f800dcc80bf3'
+    platform: ETH
+crypto: true
+fiat: false
+id: ECHO5
+id_coinmarketcap: '27906'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27906.png
+logoKey: currencies/echo5.png
+name: ECHO BOT

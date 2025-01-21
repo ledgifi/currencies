@@ -1,10 +1,10 @@
 contracts:
-  - address: F9wvY65wPdUeA6s98QX7qyPyLe5g7uUNVt8ta5Ekjd29
-    platform: SOL
+  - address: '0x880226cbcce551eeafd18c9a9e883c85811b82fc'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRUMP20241
-id_coinmarketcap: '33817'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33817.png
+id_coinmarketcap: '33000'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33000.png
 logoKey: currencies/trump20241.png
-name: Trump or Kamala
+name: Trump2024

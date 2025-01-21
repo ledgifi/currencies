@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x72d20164569Cc77fd4d056319C9Afd36A9b0bFA3'
-    platform: BNB
+  - address: '0x119533669866cFC69CbC41DD77db7e634B92c0a7'
+    platform: ETH
 crypto: true
 fiat: false
 id: GOAT9
-id_coinmarketcap: '9706'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9706.png
+id_coinmarketcap: '33202'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33202.png
 logoKey: currencies/goat9.png
-name: ZuckGoat
+name: GOAT

@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x56d594d76b37be83c54abf8a4747d60ce58d32c2'
-    platform: BNB
-  - address: '0x831be1970511c069ddedc452ffbbee55eeb70170'
-    platform: ETH
+  - address: 4AkMp1178szLkMk2My3EFxvZ6tvk8ryGMHS12gwZmTDM
+    platform: SOL
 crypto: true
 fiat: false
 id: ELF3
-id_coinmarketcap: '22153'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22153.png
+id_coinmarketcap: '34296'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34296.png
 logoKey: currencies/elf3.png
-name: ELF Wallet
+name: Buddy The Elf

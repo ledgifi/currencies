@@ -1,10 +1,10 @@
 contracts:
-  - address: 3m7A2A8HHdqmiDrjAfaddj7Hxd88FrBHA1KSoqjoELtu
-    platform: SOL
+  - address: '0x0dc78c79b4eb080ead5c1d16559225a46b580694'
+    platform: ONE
 crypto: true
 fiat: false
 id: WAGMI3
-id_coinmarketcap: '15768'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15768.png
+id_coinmarketcap: '14153'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14153.png
 logoKey: currencies/wagmi3.png
-name: WAGMI on Solana
+name: Euphoria

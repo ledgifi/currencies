@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x5f2ad0a281ea15515c8feff8421cb968cbfe9ae4'
+    platform: BNB
+  - address: 0x5c60d2434f7487703dffecb958b99827f4e1e3eef4cbbf1091318cb0b0a787c2::coin::COIN
+    platform: SUI
+crypto: true
+fiat: false
+id: SETAI
+id_coinmarketcap: '34996'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34996.png
+logoKey: currencies/setai.png
+name: SETAI Agents

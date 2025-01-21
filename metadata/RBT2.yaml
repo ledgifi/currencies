@@ -1,10 +1,10 @@
 contracts:
-  - address: GCMSCRWZ3QBOI6AF75B5ZWDBXOSMIRW4FSBZH5OI65Y4H4GVH7LPSOYS
-    platform: XLM
+  - address: '0x7eCc65A5E734a8bcAf24eEA0AC9C7cfE6355bc30'
+    platform: TBA
 crypto: true
 fiat: false
 id: RBT2
-id_coinmarketcap: '18001'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18001.png
+id_coinmarketcap: '30972'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30972.png
 logoKey: currencies/rbt2.png
-name: Rabet
+name: RobotBulls

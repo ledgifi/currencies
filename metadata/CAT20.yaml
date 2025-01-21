@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x7Df083f3b16a37Ee91E89d4a11D62053AAD331a4'
+  - address: '0xc92d954B07Cf80Db8c7981a46A6be8588f2043d0'
     platform: BNB
-  - address: DL8ff7SMKMo257D6i1EJTxN974CN8uikJAv4KM29XoH8
-    platform: SOL
 crypto: true
 fiat: false
 id: CAT20
-id_coinmarketcap: '31621'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31621.png
+id_coinmarketcap: '30691'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30691.png
 logoKey: currencies/cat20.png
-name: Cat Finance
+name: WHALES CAT

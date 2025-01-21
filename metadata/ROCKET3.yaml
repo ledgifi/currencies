@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x8d6482B757f29e7b06440DDEeBCCeed3AF49B4Ce'
-    platform: ETH
+  - address: '0xAfE80953BB7A01B0051d929f6626B10d6719dB5F'
+    platform: FTM
 crypto: true
 fiat: false
 id: ROCKET3
-id_coinmarketcap: '25371'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25371.png
+id_coinmarketcap: '17622'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17622.png
 logoKey: currencies/rocket3.png
-name: Rocket Raccoon
+name: Rocket Finance

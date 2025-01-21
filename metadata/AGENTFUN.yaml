@@ -1,7 +1,7 @@
 contracts:
-  - address: '0x18d40Bd95e34d1a4fcaf9027Db11F6988e5B860A'
-    platform: CRO
   - address: '0x96733708C4157218B6E6889eb9E16B1df7873061'
+    platform: CRO
+  - address: '0x18d40Bd95e34d1a4fcaf9027Db11F6988e5B860A'
     platform: CRO
 crypto: true
 fiat: false

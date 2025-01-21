@@ -1,10 +1,10 @@
 contracts:
-  - address: BjJhZJz11xpd7PkPFTsMvkCcQrEWRmMpNYUe6K9GT8cH
-    platform: SOL
+  - address: '0xbe92b510007bd3ec0adb3d1fca338dd631e98de7'
+    platform: ETH
 crypto: true
 fiat: false
 id: DEGEN3
-id_coinmarketcap: '34380'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34380.png
+id_coinmarketcap: '25514'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25514.png
 logoKey: currencies/degen3.png
-name: Degen the Otter
+name: DegensTogether

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xD700009fD99Eae9b0272049C92e991F6A1c69856'
-    platform: TBA
+  - address: '0x135a5f2b1c49Bd07954561E048C38cc2EF19B6Cb'
+    platform: BNB
 crypto: true
 fiat: false
 id: HB
-id_coinmarketcap: '32421'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32421.png
+id_coinmarketcap: '35069'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35069.png
 logoKey: currencies/hb.png
-name: HamsterBase
+name: HBC

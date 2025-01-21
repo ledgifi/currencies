@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xe6877ea9c28fbdec631ffbc087956d0023a76bf2'
-    platform: ETH
+  - address: '0x9a545ec1dDD71505Bbf5DF04ac3fA8CA669DcadB'
+    platform: TBA
 crypto: true
 fiat: false
 id: UNI6
-id_coinmarketcap: '4113'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4113.png
+id_coinmarketcap: '34399'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34399.png
 logoKey: currencies/uni6.png
-name: UNI COIN
+name: Unicorn

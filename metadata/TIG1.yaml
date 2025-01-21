@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x3a33473d7990a605a88ac72a78ad4efc40a54adb'
-    platform: ARB
+  - address: '0xeee2d00eb7deb8dd6924187f5aa3496b7d06e62a'
+    platform: ETH
 crypto: true
 fiat: false
 id: TIG1
-id_coinmarketcap: '26721'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26721.png
+id_coinmarketcap: '2523'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2523.png
 logoKey: currencies/tig1.png
-name: Tigris
+name: Tigereum

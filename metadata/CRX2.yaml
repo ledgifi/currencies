@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xe243ccab9e66e6cf1215376980811ddf1eb7f689'
+    platform: CRO
 crypto: true
 fiat: false
 id: CRX2
-id_coinmarketcap: '1315'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1315.png
+id_coinmarketcap: '15069'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15069.png
 logoKey: currencies/crx2.png
-name: Chronos
+name: CRODEX

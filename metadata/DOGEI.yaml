@@ -1,6 +1,8 @@
 contracts:
   - address: '0xe6705367880B4D5D1Aeae948Fd620f55EF7413e4'
     platform: ETH
+  - address: FqyEBJDWy1fcKH7v1SKTMPJ1fCMB9M6FGMvM6m1GDzh8
+    platform: SOL
 crypto: true
 fiat: false
 id: DOGEI

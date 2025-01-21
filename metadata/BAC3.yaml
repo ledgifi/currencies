@@ -1,10 +1,7 @@
-contracts:
-  - address: '0x7dc59729b0adf4ae34721a1e06ef82a19e690b04'
-    platform: ETH
 crypto: true
 fiat: false
 id: BAC3
-id_coinmarketcap: '6009'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6009.png
+id_coinmarketcap: '4648'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4648.png
 logoKey: currencies/bac3.png
-name: BTC-Alpha Token
+name: BACoin

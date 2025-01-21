@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xbDC3b3639f7AA19e623A4d603A3Fb7Ab20115A91'
-    platform: BNB
+  - address: '0x22b6c31c2beb8f2d0d5373146eed41ab9ede3caf'
+    platform: ETH
 crypto: true
 fiat: false
 id: COC1
-id_coinmarketcap: '14292'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14292.png
+id_coinmarketcap: '12870'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12870.png
 logoKey: currencies/coc1.png
-name: Coin Of Champions
+name: The CocktailBar

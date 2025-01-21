@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x163fca838dbcee2e8dc2d3aa107e72d3b0dce181'
-    platform: BNB
+  - address: '0x4Aca0ad6357b918e3d06BB1a0BCC403619177523'
+    platform: AVAX
 crypto: true
 fiat: false
 id: SONIC6
-id_coinmarketcap: '17993'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17993.png
+id_coinmarketcap: '15014'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15014.png
 logoKey: currencies/sonic6.png
-name: SONIC TOKEN
+name: Sonic Token

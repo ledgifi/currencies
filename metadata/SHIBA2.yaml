@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xeb15a54e462e1ec239c09f1e6aa322b45c8da225'
-    platform: ETH
+  - address: '0x041fDF3F472D2c8A7Ecc458fc3B7F543E6c57EF7'
+    platform: TBA
 crypto: true
 fiat: false
 id: SHIBA2
-id_coinmarketcap: '32148'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32148.png
+id_coinmarketcap: '31244'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31244.png
 logoKey: currencies/shiba2.png
-name: American Shib
+name: Shiba Armstrong

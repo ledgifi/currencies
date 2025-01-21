@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xca66b54a8a4ad9a231dd70d3605d1ff6ae95d427'
-    platform: PLS
+  - address: 0x1ef4c0b20340b8c6a59438204467ca71e1e7cbe918526f9c2c6c5444517cd5ca::chirp::CHIRP
+    platform: SUI
 crypto: true
 fiat: false
 id: CHIRP
-id_coinmarketcap: '27478'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27478.png
+id_coinmarketcap: '23445'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23445.png
 logoKey: currencies/chirp.png
-name: Chirp Finance
+name: Chirp

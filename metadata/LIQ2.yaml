@@ -1,10 +1,16 @@
 contracts:
-  - address: '0x2749C9f2f8568d389BBF61ed77784A43C3cD3E19'
+  - address: '0xc7981767f644c7f8e483dabdc413e8a371b83079'
     platform: BNB
+  - address: '0xABd380327Fe66724FFDa91A87c772FB8D00bE488'
+    platform: CRO
+  - address: '0x5f69b7ab8f7cab199a310fd5a27b43fef44ddcc0'
+    platform: ETH
+  - address: '0x4036f3d9c45a20f44f0b8b85dd6ca33005ff9654'
+    platform: MATIC
 crypto: true
 fiat: false
 id: LIQ2
-id_coinmarketcap: '28524'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28524.png
+id_coinmarketcap: '12546'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12546.png
 logoKey: currencies/liq2.png
-name: Liquidus Foundation
+name: Liquidus (old)

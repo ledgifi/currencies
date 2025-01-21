@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x07DDaCf367f0d40bd68B4b80b4709A37BDC9F847'
+    platform: ETH
 crypto: true
 fiat: false
 id: MOJO2
-id_coinmarketcap: '1212'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1212.png
+id_coinmarketcap: '32142'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32142.png
 logoKey: currencies/mojo2.png
-name: MojoCoin
+name: Mojo

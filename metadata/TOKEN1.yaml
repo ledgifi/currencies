@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x49AD42aac28A982FB5FF6A4172Ba73f0cCdF73C9'
+    platform: TBA
 crypto: true
 fiat: false
 id: TOKEN1
-id_coinmarketcap: '612'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/612.png
+id_coinmarketcap: '35240'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35240.png
 logoKey: currencies/token1.png
-name: SuperNET (TOKEN)
+name: Token.com

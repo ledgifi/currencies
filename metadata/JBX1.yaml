@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x534b178fcbc969613f960225af4c10f466a58c89'
-    platform: BNB
-  - address: '0x884e3902c4d5cfa86de4ace7a96aa91ebc25c0ff'
+  - address: '0x4554CC10898f92D45378b98D6D6c2dD54c687Fb2'
     platform: ETH
 crypto: true
 fiat: false
 id: JBX1
-id_coinmarketcap: '6704'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6704.png
+id_coinmarketcap: '15456'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15456.png
 logoKey: currencies/jbx1.png
-name: JBOX
+name: Juicebox

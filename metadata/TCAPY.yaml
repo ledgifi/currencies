@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x045c2767a6cae0a4551f40e4e8d250af94fe056b'
+    platform: BNB
+  - address: '0x57604f28a2af0e2fcc1c0570e95731d82b55c730'
+    platform: ETH
+crypto: true
+fiat: false
+id: TCAPY
+id_coinmarketcap: '35002'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35002.png
+logoKey: currencies/tcapy.png
+name: TonCapy

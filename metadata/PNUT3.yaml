@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x783b396b10cf56768d6daccaeacf1713eca04791'
+  - address: '0xdd162b1bfa615543b66d8907837e797a1050c23f'
     platform: TBA
 crypto: true
 fiat: false
 id: PNUT3
-id_coinmarketcap: '34761'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34761.png
+id_coinmarketcap: '34210'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34210.png
 logoKey: currencies/pnut3.png
-name: Peanut the Squirrel on Base(peanutonbase.xyz)
+name: PNUT on Base

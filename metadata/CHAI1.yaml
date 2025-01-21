@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x8bF19d0255E38f78DE9543Ae0ae5369A6321DFaA'
-    platform: ETH
+  - address: '0x743b077b103d91109082a7a48e19ffc1093137a5'
+    platform: ARB
 crypto: true
 fiat: false
 id: CHAI1
-id_coinmarketcap: '33209'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33209.png
+id_coinmarketcap: '24160'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24160.png
 logoKey: currencies/chai1.png
-name: Chroma AI
+name: CharacterAI

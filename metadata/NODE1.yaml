@@ -1,10 +1,7 @@
-contracts:
-  - address: '0x0c3ef32f802967db75b9d49fe1e76620151ccb81'
-    platform: ETH
 crypto: true
 fiat: false
 id: NODE1
-id_coinmarketcap: '4674'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4674.png
+id_coinmarketcap: '595'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/595.png
 logoKey: currencies/node1.png
-name: Whole Network
+name: Node

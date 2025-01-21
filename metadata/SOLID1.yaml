@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x777172d858dc1599914a1c4c6c9fc48c99a60990'
-    platform: ETH
+  - address: 6asVAjccGo89Xa48WYudREmF2VJr9gkpZZZVoibtwgSq
+    platform: SOL
 crypto: true
 fiat: false
 id: SOLID1
-id_coinmarketcap: '23708'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23708.png
+id_coinmarketcap: '35220'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35220.png
 logoKey: currencies/solid1.png
-name: Solidly
+name: Solidum RWA Token

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x4b87F578d6FaBf381f43bd2197fBB2A877da6ef8'
-    platform: BNB
+  - address: '0x01ff50f8b7f74e4f00580d9596cd3d0d6d6e326f'
+    platform: ETH
 crypto: true
 fiat: false
 id: BFT2
-id_coinmarketcap: '21952'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21952.png
+id_coinmarketcap: '2605'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2605.png
 logoKey: currencies/bft2.png
-name: The Big Five Token
+name: BnkToTheFuture

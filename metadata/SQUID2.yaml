@@ -1,10 +1,10 @@
 contracts:
-  - address: 6sbSz8r8sqap2DERkxvDLxAHBWpLiD5LnUfiW3wQpump
-    platform: SOL
+  - address: '0x561Cf9121E89926c27FA1cfC78dFcC4C422937a4'
+    platform: ETH
 crypto: true
 fiat: false
 id: SQUID2
-id_coinmarketcap: '34715'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34715.png
+id_coinmarketcap: '28470'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28470.png
 logoKey: currencies/squid2.png
-name: Squid Game(squidgames.info)
+name: Squid Game (squid-game.cool)

@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x21cd589a989615a9e901328d3c089bbca16d00b2'
+    platform: ETH
+crypto: true
+fiat: false
+id: XMONEY
+id_coinmarketcap: '35036'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35036.png
+logoKey: currencies/xmoney.png
+name: X Money

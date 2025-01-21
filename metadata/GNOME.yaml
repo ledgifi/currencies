@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x698e222aaa7082bdaE18CB4722BC5aEbB31C2002'
-    platform: ETH
+  - address: 2J5Dpp57RsjLBkJrEvyrAQpg8qWvgadUeJR4Ln7bpump
+    platform: SOL
 crypto: true
 fiat: false
 id: GNOME
-id_coinmarketcap: '34242'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34242.png
+id_coinmarketcap: '34179'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34179.png
 logoKey: currencies/gnome.png
-name: Gnome Child
+name: Gnome

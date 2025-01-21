@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x1d3c26cf2388dc923cfc7dd309bc7fbf85d1fa2a'
-    platform: BNB
+  - address: '0xeaccb6E0f24d66cF4Aa6cBDa33971b9231d332a1'
+    platform: ETH
 crypto: true
 fiat: false
 id: PGT
-id_coinmarketcap: '27380'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27380.png
+id_coinmarketcap: '7315'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7315.png
 logoKey: currencies/pgt.png
-name: Price Gap
+name: Polyient Games Governance Token

@@ -1,10 +1,16 @@
 contracts:
-  - address: '0x87230146e138d3f296a9a77e497a2a83012e9bc5'
+  - address: '0xFAfb7581a65A1f554616Bf780fC8a8aCd2Ab8c9b'
     platform: BNB
+  - address: SQUiDbpt993WzEa1WLUEgYJRtKxsQAKjoELH9xhMs3v
+    platform: SOL
+  - address: '0xFAfb7581a65A1f554616Bf780fC8a8aCd2Ab8c9b'
+    platform: TBA
+  - address: TSjUeAj5y2p1QBX7353CKDAqHdb6gcpJhR
+    platform: TRX
 crypto: true
 fiat: false
 id: SQUID1
-id_coinmarketcap: '33447'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33447.png
+id_coinmarketcap: '13276'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13276.png
 logoKey: currencies/squid1.png
-name: Squid Game (CTO)
+name: Squid Game (squidgametoken.vip)

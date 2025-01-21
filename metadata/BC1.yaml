@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x2ecb13a8c458c379c4d9a7259e202de03c8f3d19'
+    platform: ETH
 crypto: true
 fiat: false
 id: BC1
-id_coinmarketcap: '3976'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3976.png
+id_coinmarketcap: '3406'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3406.png
 logoKey: currencies/bc1.png
-name: Bitcoin Confidential
+name: Block-Chain.com

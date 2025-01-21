@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xC22501e408702a6b26884F38b6c16ffcE0251B5f'
-    platform: ETH
+  - address: '0xb2aB08fa2b4c3D69b5c67B56828aaB8c5ffD5c63'
+    platform: BNB
 crypto: true
 fiat: false
 id: ROCKET5
-id_coinmarketcap: '27539'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27539.png
+id_coinmarketcap: '26787'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26787.png
 logoKey: currencies/rocket5.png
-name: Rocket Raptor
+name: PixelRocket

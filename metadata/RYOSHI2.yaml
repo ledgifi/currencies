@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x3751D1A5e0CdDD08BF91A8e115E44BA5359e52B1'
-    platform: BONE
+  - address: '0xb350aebaedb1ed3269b0e25d5e593a9bb4b9f9d5'
+    platform: BNB
 crypto: true
 fiat: false
 id: RYOSHI2
-id_coinmarketcap: '28002'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28002.png
+id_coinmarketcap: '24433'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24433.png
 logoKey: currencies/ryoshi2.png
-name: Ryoshi's Coin
+name: Ryoshi Token

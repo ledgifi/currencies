@@ -1,12 +1,7 @@
-contracts:
-  - address: '0x52a047ee205701895ee06a375492490ec9c597ce'
-    platform: ETH
-  - address: 52a047ee205701895ee06a375492490ec9c597ce.factory.bridge.near
-    platform: NEAR
 crypto: true
 fiat: false
 id: PULSE1
-id_coinmarketcap: '12728'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12728.png
+id_coinmarketcap: '1192'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1192.png
 logoKey: currencies/pulse1.png
-name: Pulse Predictions Market
+name: Pulse

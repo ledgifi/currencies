@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x0962828e4b9Af3336E5AF5f696bC2F3c2cC6abb4'
+    platform: BNB
+  - address: '0x6a7260e44789aef24fdaf72d80ecdc253aaa079e'
+    platform: ETH
+crypto: true
+fiat: false
+id: CORA1
+id_coinmarketcap: '9579'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9579.png
+logoKey: currencies/cora1.png
+name: Corra.Finance

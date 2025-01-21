@@ -1,14 +1,10 @@
 contracts:
-  - address: '0x1689A6E1f09658FF37d0bB131514E701045876dA'
-    platform: ARB
-  - address: '0x09F098B155D561Fc9F7BcCc97038b7e3d20bAF74'
-    platform: ETH
-  - address: '0x7cd3e6e1A69409deF0D78D17a492e8e143F40eC5'
-    platform: GLMR
+  - address: '0x09e2b83fe5485a7c8beaa5dffd1d324a2b2d5c13'
+    platform: BNB
 crypto: true
 fiat: false
 id: ZOO7
-id_coinmarketcap: '22589'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22589.png
+id_coinmarketcap: '13816'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13816.png
 logoKey: currencies/zoo7.png
-name: ZooDAO
+name: Zoo Labs

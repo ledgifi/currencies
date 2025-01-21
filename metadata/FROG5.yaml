@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xC808592e5b4585F982bc728d63b227634bc007a4'
-    platform: BNB
+  - address: Amt5wUJREJQC5pX7Z48YSK812xmu4j3sQVupNhtsEuY8
+    platform: SOL
 crypto: true
 fiat: false
 id: FROG5
-id_coinmarketcap: '7580'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7580.png
+id_coinmarketcap: '10092'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10092.png
 logoKey: currencies/frog5.png
-name: CryptoFrog.Finance
+name: FROG

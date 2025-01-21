@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x081271acda8ef14047a35cd5f2a66544e51d431b'
-    platform: ETH
+  - address: APBcWeYBwkBPMtyEj1QGy1AFzEqnYcQcVYCQofjwpump
+    platform: SOL
 crypto: true
 fiat: false
 id: ECO1
-id_coinmarketcap: '1685'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1685.png
+id_coinmarketcap: '35122'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35122.png
 logoKey: currencies/eco1.png
-name: EcoCoin
+name: EcoAI

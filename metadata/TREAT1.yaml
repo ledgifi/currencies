@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xac0c7d9b063ed2c0946982ddb378e03886c064e6'
-    platform: BNB
+  - address: '0xfbd5fd3f85e9f4c5e8b40eec9f8b8ab1caaa146b'
+    platform: ETH
 crypto: true
 fiat: false
 id: TREAT1
-id_coinmarketcap: '8808'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8808.png
+id_coinmarketcap: '27839'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27839.png
 logoKey: currencies/treat1.png
-name: Treat DAO [old]
+name: Treat

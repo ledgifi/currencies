@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x63290fc683d11ea077aba09596ff7387d49df912'
-    platform: BNB
+  - address: '0xaaa6c1e32c55a7bfa8066a6fae9b42650f262418'
+    platform: ARB
 crypto: true
 fiat: false
 id: RAM1
-id_coinmarketcap: '8798'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8798.png
+id_coinmarketcap: '23858'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23858.png
 logoKey: currencies/ram1.png
-name: Ramifi Protocol
+name: Ramses Exchange

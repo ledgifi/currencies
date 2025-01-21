@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xE5cc4160Cc001653b8816556eF67e9c70c181352'
-    platform: BNB
+  - address: '0xf3b62184c56a0e6cfe950f60393d2e8039c03dda'
+    platform: ETH
 crypto: true
 fiat: false
 id: BUZZ3
-id_coinmarketcap: '26373'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26373.png
+id_coinmarketcap: '25107'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25107.png
 logoKey: currencies/buzz3.png
-name: Buzz Coin
+name: BUZZ

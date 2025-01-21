@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x94553328D8A3189B6f47AA85cB77D03d76566148'
-    platform: ETH
+  - address: '0x459fab6be3b07558e28fecb07b64a481d0e8c6a3'
+    platform: BNB
 crypto: true
 fiat: false
 id: FAI3
-id_coinmarketcap: '27512'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27512.png
+id_coinmarketcap: '24129'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24129.png
 logoKey: currencies/fai3.png
-name: FarmAI Token
+name: FlokiTer

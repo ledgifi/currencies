@@ -1,6 +1,8 @@
 contracts:
   - address: '0xA608512BBC9934E4b1DDeCF0F5Fb38b6Ad93308D'
     platform: ETH
+  - address: '0xA608512BBC9934E4b1DDeCF0F5Fb38b6Ad93308D'
+    platform: TBA
 crypto: true
 fiat: false
 id: GUD

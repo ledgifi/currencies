@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xF1B6460e7fA76E7aFDDfe20740C260b0Ec6807a8'
-    platform: BNB
+  - address: '0x7db4072D6e26BBF35129E826d656f230F791CD2f'
+    platform: FITFI
 crypto: true
 fiat: false
 id: SPEX1
-id_coinmarketcap: '23524'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23524.png
+id_coinmarketcap: '21725'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21725.png
 logoKey: currencies/spex1.png
-name: SPECIEX
+name: StepEx

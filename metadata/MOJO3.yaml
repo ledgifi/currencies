@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x8b95fe1c06e58c269f1267e0f0093b7b26b85481'
-    platform: ETH
+  - address: '0x8087e4c1735c1373f0d04b88d4dbe1fae1149123'
+    platform: BNB
 crypto: true
 fiat: false
 id: MOJO3
-id_coinmarketcap: '31547'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31547.png
+id_coinmarketcap: '9832'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9832.png
 logoKey: currencies/mojo3.png
-name: MOJO The Gorilla
+name: MoonJuice

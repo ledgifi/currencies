@@ -1,10 +1,10 @@
 contracts:
-  - address: romeXVvaTkwG3WVrFjdDjMn4Y6v1d6PUTJn76jSu6X8
-    platform: SOL
+  - address: '0x4a436073552044d5f2f49b176853ad3ad473d9d6'
+    platform: MOVR
 crypto: true
 fiat: false
 id: ROME
-id_coinmarketcap: '30546'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30546.png
+id_coinmarketcap: '15398'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15398.png
 logoKey: currencies/rome.png
-name: Rich Of Memes
+name: Rome

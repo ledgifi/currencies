@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x86bF362B3bcb067895481AA071A7364e5884232e'
-    platform: BNB
+  - address: '0xd43d8adac6a4c7d9aeece7c3151fca8f23752cf8'
+    platform: BLAST
 crypto: true
 fiat: false
 id: ANDY3
-id_coinmarketcap: '31995'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31995.png
+id_coinmarketcap: '30376'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30376.png
 logoKey: currencies/andy3.png
-name: ANDY (BSC)
+name: AndyBlast

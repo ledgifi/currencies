@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x6230f552a1c825d02e1140ccc0d3f5eeec81ca84'
+    platform: ETH
+crypto: true
+fiat: false
+id: FUSION1
+id_coinmarketcap: '27728'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27728.png
+logoKey: currencies/fusion1.png
+name: FusionBot

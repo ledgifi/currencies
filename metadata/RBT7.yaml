@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x7eCc65A5E734a8bcAf24eEA0AC9C7cfE6355bc30'
-    platform: TBA
+  - address: '0x7c6663367f1a5fafFF37Ec36290Ccd5FE67f2BDf'
+    platform: BNB
 crypto: true
 fiat: false
 id: RBT7
-id_coinmarketcap: '30972'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30972.png
+id_coinmarketcap: '22526'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22526.png
 logoKey: currencies/rbt7.png
-name: RobotBulls
+name: Run&Burn

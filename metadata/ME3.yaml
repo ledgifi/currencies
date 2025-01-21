@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x4F4f09831180F416890D857123506680B59263Bb'
-    platform: ETH
+  - address: 21i1NFrAHuzcBqUzqFLJuvqsQZFJ7K1DEsbvBbs5SdUb
+    platform: SOL
 crypto: true
 fiat: false
 id: ME3
-id_coinmarketcap: '34531'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34531.png
+id_coinmarketcap: '34543'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34543.png
 logoKey: currencies/me3.png
-name: Magic Eden Ether
+name: Magic Eden Solana

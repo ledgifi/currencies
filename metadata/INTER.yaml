@@ -1,7 +1,7 @@
 contracts:
-  - address: '0xc727c9C0f2647CB90B0FCA64d8ddB14878716BeD'
-    platform: CHZ
   - address: '0x67e410B0e722ff2eec6dDCC7AefD3EdBC2B9078d'
+    platform: CHZ
+  - address: '0xc727c9C0f2647CB90B0FCA64d8ddB14878716BeD'
     platform: CHZ
 crypto: true
 fiat: false

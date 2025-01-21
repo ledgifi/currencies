@@ -1,10 +1,10 @@
 contracts:
-  - address: CD38LKRQc6k7DttkjJEmx9BMQjvRZt2ABvbebSxJCyAw
-    platform: SOL
+  - address: '0x3D39e1F320D0468A8BAFFe77262A3f675F5B3F63'
+    platform: ETH
 crypto: true
 fiat: false
 id: PENGU3
-id_coinmarketcap: '34476'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34476.png
+id_coinmarketcap: '34525'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34525.png
 logoKey: currencies/pengu3.png
-name: (fake) pudgypenguin.xyz
+name: '[Fake] (ETH - pudgypenguin.xyz)'

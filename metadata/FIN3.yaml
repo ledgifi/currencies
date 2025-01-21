@@ -1,10 +1,10 @@
 contracts:
-  - address: cx785d504f44b5d2c8dac04c5a1ecd75f18ee57d16
-    platform: ICX
+  - address: '0x934a9f51873783f066e018c05b4f2e3ae1ce95dc'
+    platform: ETH
 crypto: true
 fiat: false
 id: FIN3
-id_coinmarketcap: '18301'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18301.png
+id_coinmarketcap: '22648'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22648.png
 logoKey: currencies/fin3.png
-name: Optimus Finance
+name: FINL

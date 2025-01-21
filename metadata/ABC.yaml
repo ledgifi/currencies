@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x905f2202003453006eaf975699545f2e909079b8'
-    platform: CFX
+  - address: '0xce899f5fcf55b0c1d7478910f812cfe68c5bcf0f'
+    platform: KAIA
+  - address: '0xce899f5fcf55b0c1d7478910f812cfe68c5bcf0f'
+    platform: MATIC
 crypto: true
 fiat: false
 id: ABC
-id_coinmarketcap: '24497'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24497.png
+id_coinmarketcap: '23966'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23966.png
 logoKey: currencies/abc.png
-name: ABC PoS Pool
+name: Angry Bulls Club

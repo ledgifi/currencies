@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x56b251d4b493ee3956e3f899d36b7290902d2326'
+    platform: ARB
 crypto: true
 fiat: false
 id: MMF3
-id_coinmarketcap: '19522'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19522.png
+id_coinmarketcap: '24336'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24336.png
 logoKey: currencies/mmf3.png
-name: My Meta Farm
+name: MMFinance (Arbitrum)

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xEc7D3E835dA3F6118079fA9a236b267D044FD7cA'
-    platform: ETH
+  - address: '0x3E51783FEf3Cb3e807cff7Fcb660d3e51c6127F6'
+    platform: BNB
 crypto: true
 fiat: false
 id: CRS
-id_coinmarketcap: '8608'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8608.png
+id_coinmarketcap: '35157'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35157.png
 logoKey: currencies/crs.png
-name: Crypto Rewards Studio
+name: Ceranos Finance

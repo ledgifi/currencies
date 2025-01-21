@@ -1,10 +1,10 @@
 contracts:
-  - address: 9YtudLX9P6BtEihwpg66YKQ3qGBr2KxdXMgTbgcJzxAN
-    platform: SOL
+  - address: '0x516e2758b044433371076a48127b8cfa7b0bdb43'
+    platform: ETH
 crypto: true
 fiat: false
 id: SMUDGE1
-id_coinmarketcap: '31015'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31015.png
+id_coinmarketcap: '25245'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25245.png
 logoKey: currencies/smudge1.png
-name: SMUDGE CAT
+name: Smudge Lord

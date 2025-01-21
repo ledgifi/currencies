@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xA2C638b78783E9aFe26a16EC8b11DE54Eb169360'
-    platform: MATIC
+  - address: '0xB86126b872E3F23bC62D6A4a3152Ec65202a2073'
+    platform: BNB
 crypto: true
 fiat: false
 id: PIN2
-id_coinmarketcap: '17109'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17109.png
+id_coinmarketcap: '27109'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27109.png
 logoKey: currencies/pin2.png
-name: Pay It Now
+name: Pin Token

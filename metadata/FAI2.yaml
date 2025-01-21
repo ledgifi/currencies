@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x459fab6be3b07558e28fecb07b64a481d0e8c6a3'
-    platform: BNB
+  - address: '0xcda2f16c6aa895d533506b426aff827b709c87f5'
+    platform: ETH
 crypto: true
 fiat: false
 id: FAI2
-id_coinmarketcap: '24129'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24129.png
+id_coinmarketcap: '8414'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8414.png
 logoKey: currencies/fai2.png
-name: FlokiTer
+name: Fairum

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xbe8dab8ce8521ecfde43a8ff8d5c6644f4dcecb7'
-    platform: MATIC
+  - address: SP1AY6K3PQV5MRT6R4S671NWW2FRVPKM0BR162CT6.leo-token
+    platform: STX
 crypto: true
 fiat: false
 id: LEO3
-id_coinmarketcap: '12113'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12113.png
+id_coinmarketcap: '29742'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29742.png
 logoKey: currencies/leo3.png
-name: AstroFarms Finance
+name: LEO

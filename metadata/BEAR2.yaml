@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x19c79F282d151995D91f6dbdda2739701F9C47AA'
-    platform: AVAX
+  - address: '0x17837004ea685690b32dbead02a274ec4333a26a'
+    platform: ETH
 crypto: true
 fiat: false
 id: BEAR2
-id_coinmarketcap: '28899'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28899.png
+id_coinmarketcap: '24027'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24027.png
 logoKey: currencies/bear2.png
-name: Bear Coin on Avax
+name: Bear Inu

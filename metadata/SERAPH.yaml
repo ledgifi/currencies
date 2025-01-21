@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x4f81837c2f4a189a0b69370027cc2627d93785b4'
-    platform: TBA
+  - address: '0xd6B48CCF41a62EB3891e58D0F006B19B01d50cCa'
+    platform: BNB
+  - address: '0xd6B48CCF41a62EB3891e58D0F006B19B01d50cCa'
+    platform: ETH
 crypto: true
 fiat: false
 id: SERAPH
-id_coinmarketcap: '34650'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34650.png
+id_coinmarketcap: '34377'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34377.png
 logoKey: currencies/seraph.png
-name: Seraph by Virtuals
+name: Seraph

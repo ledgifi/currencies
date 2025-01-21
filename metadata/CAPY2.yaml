@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x55bde08af72cd693d1284b531f3f97dc81ecc334'
-    platform: BNB
+  - address: FC72MuKzJV29orFFfoPvxZerys8kNxdoADuNaxuJhKeo
+    platform: SOL
 crypto: true
 fiat: false
 id: CAPY2
-id_coinmarketcap: '33262'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33262.png
+id_coinmarketcap: '30294'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30294.png
 logoKey: currencies/capy2.png
-name: Capy coin
+name: CAPYBARA

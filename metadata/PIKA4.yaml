@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x9a601c5bb360811d96a23689066af316a30c3027'
-    platform: OP
+  - address: '0x60F5672A271C7E39E787427A18353ba59A4A3578'
+    platform: ETH
+  - address: '0xFFb89d7637Cf4860884ED48b57Ae5562bF64e10F'
+    platform: MATIC
 crypto: true
 fiat: false
 id: PIKA4
-id_coinmarketcap: '25148'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25148.png
+id_coinmarketcap: '8879'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8879.png
 logoKey: currencies/pika4.png
-name: Pika Protocol
+name: Pika

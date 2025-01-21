@@ -1,10 +1,10 @@
 contracts:
-  - address: B598mEzN4gWPZN2d7xcPQ45itu4YYyLQJ22nb1mCMJ7T
-    platform: SOL
+  - address: '0xB52575Ce47c4534f7B0ba88acfba7546350197d8'
+    platform: BNB
 crypto: true
 fiat: false
 id: PERRY2
-id_coinmarketcap: '31892'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31892.png
+id_coinmarketcap: '25006'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25006.png
 logoKey: currencies/perry2.png
-name: Perry The Platypus
+name: Perry The BNB

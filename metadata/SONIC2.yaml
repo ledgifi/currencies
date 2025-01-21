@@ -1,10 +1,10 @@
 contracts:
-  - address: 72h2cpj8YU7aUJW3NFMjxfqGTh6hXnUrovMC4gKqyFPM
-    platform: SOL
+  - address: '0x4aafec51e99751db6e3409d54770868d8e0475b8'
+    platform: BNB
 crypto: true
 fiat: false
 id: SONIC2
-id_coinmarketcap: '31376'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31376.png
+id_coinmarketcap: '34924'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34924.png
 logoKey: currencies/sonic2.png
-name: sonic
+name: Sonic

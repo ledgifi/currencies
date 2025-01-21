@@ -1,10 +1,10 @@
 contracts:
-  - address: KENMdm22KMgjgGhQ19yLtsLD4vaheJBmg3v9KwuFnM3
-    platform: SOL
+  - address: '0x7316D973b0269863BbfeD87302e11334E25eA565'
+    platform: ETH
 crypto: true
 fiat: false
 id: KEN
-id_coinmarketcap: '32704'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32704.png
+id_coinmarketcap: '32542'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32542.png
 logoKey: currencies/ken.png
-name: KEN
+name: Ken

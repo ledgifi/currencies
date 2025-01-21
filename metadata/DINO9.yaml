@@ -1,10 +1,7 @@
-contracts:
-  - address: '0x5fb60a9e69b53edbc95a5a2d9dd4abd8c16c4233'
-    platform: BNB
 crypto: true
 fiat: false
 id: DINO9
-id_coinmarketcap: '29046'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29046.png
+id_coinmarketcap: '29074'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29074.png
 logoKey: currencies/dino9.png
-name: Dinosaur Inu
+name: DINO(ASC20)

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xec9333e7dadeebf82d290d6cb12e66cc30ce46b0'
     platform: ETH
+  - address: '0x5319419caf59a446f2f129a5876a5e6b490d6610'
+    platform: TBA
 crypto: true
 fiat: false
 id: LUSH

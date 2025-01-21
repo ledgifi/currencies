@@ -1,12 +1,10 @@
 contracts:
-  - address: '0xA2c2C937333165d4c5f2dC5f31a43E1239FeCfeB'
-    platform: ETH
-  - address: '0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE'
-    platform: METIS
+  - address: '0x49c7295ff86eabf5bf58c6ebc858db4805738c01'
+    platform: BNB
 crypto: true
 fiat: false
 id: HERA1
-id_coinmarketcap: '19225'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19225.png
+id_coinmarketcap: '11967'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11967.png
 logoKey: currencies/hera1.png
-name: Hera Finance
+name: Hero Arena

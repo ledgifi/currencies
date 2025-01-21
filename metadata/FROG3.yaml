@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x4fEe21439F2b95b72da2F9f901b3956f27fE91D5'
-    platform: ETH
+  - address: sm6LoSiRQLM28rMgcd8GtR5XBkZFMEYXgEUgwCxpump
+    platform: SOL
 crypto: true
 fiat: false
 id: FROG3
-id_coinmarketcap: '15931'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15931.png
+id_coinmarketcap: '34128'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34128.png
 logoKey: currencies/frog3.png
-name: FrogSwap
+name: FROG

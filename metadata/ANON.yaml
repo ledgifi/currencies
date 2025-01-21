@@ -1,10 +1,24 @@
 contracts:
-  - address: EQDv-yr41_CZ2urg2gfegVfa44PDPjIK9F-MilEDKDUIhlwZ
-    platform: TON
+  - address: '0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c'
+    platform: ARB
+  - address: 'BSC: 0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C'
+    platform: BNB
+  - address: '0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c'
+    platform: ETH
+  - address: '0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c'
+    platform: IOTA
+  - address: '0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c'
+    platform: METIS
+  - address: '0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C'
+    platform: S
+  - address: 9McvH6w97oewLmPxqQEoHUAv3u5iYMyQ9AeZZhguYf1T
+    platform: SOL
+  - address: '0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c'
+    platform: TBA
 crypto: true
 fiat: false
 id: ANON
-id_coinmarketcap: '30846'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30846.png
+id_coinmarketcap: '35092'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35092.png
 logoKey: currencies/anon.png
-name: Anon
+name: Hey Anon

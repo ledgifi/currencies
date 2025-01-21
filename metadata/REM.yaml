@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x83984d6142934bb535793a82adb0a46ef0f66b6d'
-    platform: ETH
+  - address: '0x83d5D441eD15737D34226b682F7427d2217f2a8f'
+    platform: TBA
 crypto: true
 fiat: false
 id: REM
-id_coinmarketcap: '2546'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2546.png
+id_coinmarketcap: '35260'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35260.png
 logoKey: currencies/rem.png
-name: Remme
+name: Real Estate Metaverse

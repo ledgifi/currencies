@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xcd619a8ec557adb00a7c818a5ac5dfbd9007d3ac'
-    platform: BNB
+  - address: '0xeDA0073B4Aa1b1B6f9c718c3036551ab46E5Ec32'
+    platform: PLS
 crypto: true
 fiat: false
 id: BEET1
-id_coinmarketcap: '3242'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3242.png
+id_coinmarketcap: '27209'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27209.png
 logoKey: currencies/beet1.png
-name: Beetlecoin
+name: BEETroot

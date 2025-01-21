@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xDa007777D86AC6d989cC9f79A73261b3fC5e0DA0'
+    platform: ETH
+crypto: true
+fiat: false
+id: NODE4
+id_coinmarketcap: '10990'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10990.png
+logoKey: currencies/node4.png
+name: DAppNode

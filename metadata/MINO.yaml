@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x85a3b9f36fe35f86ebea072a682e506eeb7c43ae'
-    platform: ETH
+  - address: '0x130040f389CBBa91bb5c27dcEF0589FE38c5260D'
+    platform: BNB
 crypto: true
 fiat: false
 id: MINO
-id_coinmarketcap: '33956'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33956.png
+id_coinmarketcap: '30401'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30401.png
 logoKey: currencies/mino.png
-name: MINO
+name: MINO INU

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x18f6ee26782ea2bd914eb4ff8a33b1a5c5a5512a'
-    platform: BNB
+  - address: EQBF7jWUxErQbHyAARQJcNeQeSN-eVp0ZsQy-7acsKPPMDqA
+    platform: TON
 crypto: true
 fiat: false
 id: FIN5
-id_coinmarketcap: '25551'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25551.png
+id_coinmarketcap: '34123'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34123.png
 logoKey: currencies/fin5.png
-name: Project BloodFin
+name: FIN Token

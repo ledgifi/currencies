@@ -1,10 +1,10 @@
 contracts:
-  - address: GbXdCbkSYot4VUDSWD7cduxhQ5nSYXWC3wZtv1Jov2mN
-    platform: SOL
+  - address: '0x315B8c9A1123c10228d469551033440441b41F0b'
+    platform: TBA
 crypto: true
 fiat: false
 id: BEATS1
-id_coinmarketcap: '31879'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31879.png
+id_coinmarketcap: '34915'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34915.png
 logoKey: currencies/beats1.png
-name: Sol Beats
+name: BEATS on BASE

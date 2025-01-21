@@ -1,12 +1,10 @@
 contracts:
-  - address: '0xDE734047952E178450237948cDf2ca7F24c37Ad5'
-    platform: BNB
-  - address: '0xA808B22ffd2c472aD1278088F16D4010E6a54D5F'
+  - address: '0xA4bB712B4ea05E74a9590EC550BD922cd857AfcB'
     platform: ETH
 crypto: true
 fiat: false
 id: REFI2
-id_coinmarketcap: '16020'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16020.png
+id_coinmarketcap: '32779'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32779.png
 logoKey: currencies/refi2.png
-name: Reimagined Finance
+name: ReFi Protocol

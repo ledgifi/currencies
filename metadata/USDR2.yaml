@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x7b43e3875440b44613dc3bc08e7763e6da63c8f8'
+    platform: ETH
+crypto: true
+fiat: false
+id: USDR2
+id_coinmarketcap: '35372'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35372.png
+logoKey: currencies/usdr2.png
+name: StablR USD

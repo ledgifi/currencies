@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x56a0f16af7c8098141b363094fcf864d52831326'
-    platform: BNB
-  - address: '0xeea9aE787f3A620072d13b2cdC8cabFFb9c0aB96'
+  - address: '0xf906997808f73b09c1007b98ab539b189282b192'
     platform: ETH
 crypto: true
 fiat: false
 id: USDG2
-id_coinmarketcap: '7572'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7572.png
+id_coinmarketcap: '4964'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4964.png
 logoKey: currencies/usdg2.png
-name: USDG (ysec.finance)
+name: USDG (acashcorp.com)

@@ -1,10 +1,16 @@
 contracts:
-  - address: '0xcd9442d70eb0e6ecf26919e62278fc4fd24c3ed2'
-    platform: BNB
+  - address: '0x77b7787a09818502305C95d68A2571F090abb135'
+    platform: ARB
+  - address: '0xB1D1eae60EEA9525032a6DCb4c1CE336a1dE71BE'
+    platform: ETH
+  - address: '0x33800De7E817A70A694F31476313A7c572BBa100'
+    platform: OP
+  - address: '0x9d0E8f5b25384C7310CB8C6aE32C8fbeb645d083'
+    platform: TBA
 crypto: true
 fiat: false
 id: DRV
-id_coinmarketcap: '16139'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16139.png
+id_coinmarketcap: '35014'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35014.png
 logoKey: currencies/drv.png
-name: Dragon Verse
+name: Derive

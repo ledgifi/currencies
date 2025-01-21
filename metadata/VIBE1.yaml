@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xe7fd8ab781bf7654cfcce2ace6eefabae0891996'
-    platform: ETH
+  - address: '0xeedba439a4ab8987a995cf5cfefebd713000b3365718a29dfbc36bc214445fb8'
+    platform: APT
 crypto: true
 fiat: false
 id: VIBE1
-id_coinmarketcap: '14469'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14469.png
+id_coinmarketcap: '35266'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35266.png
 logoKey: currencies/vibe1.png
-name: Vibe Token
+name: VibrantX

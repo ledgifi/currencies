@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x20C28C0F23729849eE7D814816d8Ee173Fa48aB2'
-    platform: ETH
+  - address: '0x7E24D548438100f1fA9cf2CFAc2aD09516440f02'
+    platform: BNB
 crypto: true
 fiat: false
 id: SONIC9
-id_coinmarketcap: '27182'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27182.png
+id_coinmarketcap: '19861'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19861.png
 logoKey: currencies/sonic9.png
-name: SONIC
+name: SONIC INU

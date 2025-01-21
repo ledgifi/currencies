@@ -1,10 +1,12 @@
 contracts:
-  - address: 02e4fdb6da83b463236ba8c28ce6e3888ef6c0217f38d2e1a94062b2a3695d1ei0
-    platform: BTC
+  - address: '0x123458c167a371250d325bd8b1fff12c8af692a7'
+    platform: BNB
+  - address: '0xc8a34e86c187830922f841985e376f412ee0088a'
+    platform: ETH
 crypto: true
 fiat: false
 id: DRAC1
-id_coinmarketcap: '25161'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25161.png
+id_coinmarketcap: '21371'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21371.png
 logoKey: currencies/drac1.png
-name: Drac (Ordinals)
+name: DRAC Network

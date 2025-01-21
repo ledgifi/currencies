@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x0c04ff41b11065eed8c9eda4d461ba6611591395'
-    platform: ETH
+  - address: '0x411c9f87824b98c043db255a171a360313ebb881'
+    platform: BNB
 crypto: true
 fiat: false
 id: TRUTH
-id_coinmarketcap: '32012'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32012.png
+id_coinmarketcap: '16131'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16131.png
 logoKey: currencies/truth.png
-name: VIVEK
+name: Truth Technology

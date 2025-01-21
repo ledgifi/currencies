@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x0159ed2e06ddcd46a25e74eb8e159ce666b28687'
-    platform: ONE
+  - address: '0x62e3b3c557c792c4a70765b3cdb5b56b1879f82d'
+    platform: ETH
 crypto: true
 fiat: false
 id: FOX3
-id_coinmarketcap: '12524'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12524.png
+id_coinmarketcap: '32121'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32121.png
 logoKey: currencies/fox3.png
-name: Farmers Only
+name: Fox

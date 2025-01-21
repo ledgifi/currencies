@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x191db90032652B1842e4B001631376577bbEE2b9'
-    platform: ETH
+  - address: ibc/EDD6F0D66BCD49C1084FB2C35353B4ACD7B9191117CE63671B61320548F7C89D
+    platform: OSMO
 crypto: true
 fiat: false
 id: WHALE3
-id_coinmarketcap: '26199'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26199.png
+id_coinmarketcap: '16121'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16121.png
 logoKey: currencies/whale3.png
-name: 0xWhale
+name: White Whale

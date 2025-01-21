@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xd5f9c3b520ba78dcb8a29bad546a9352e3d19295'
-    platform: BNB
+  - address: 3m7A2A8HHdqmiDrjAfaddj7Hxd88FrBHA1KSoqjoELtu
+    platform: SOL
 crypto: true
 fiat: false
 id: WAGMI4
-id_coinmarketcap: '17943'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17943.png
+id_coinmarketcap: '15768'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15768.png
 logoKey: currencies/wagmi4.png
-name: WAGMI
+name: WAGMI on Solana

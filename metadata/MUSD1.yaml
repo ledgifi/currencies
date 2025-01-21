@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x95aeaf383e2e86a47c11cffde1f7944ecb2c38c2'
-    platform: CRO
+  - address: '0xe2f2a5c287993345a840db3b0845fbc70f5935a5'
+    platform: ETH
 crypto: true
 fiat: false
 id: MUSD1
-id_coinmarketcap: '20025'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20025.png
+id_coinmarketcap: '5747'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5747.png
 logoKey: currencies/musd1.png
-name: Mad USD
+name: mStable USD

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x7704d0ead6f74e625d7371b079d8b2475bc852d4'
+  - address: '0xbA7e020d5a463f29535B35137CCb4aA6F4359272'
     platform: BNB
 crypto: true
 fiat: false
 id: PULSE3
-id_coinmarketcap: '25198'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25198.png
+id_coinmarketcap: '24244'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24244.png
 logoKey: currencies/pulse3.png
-name: PulseAI
+name: PulseFolio

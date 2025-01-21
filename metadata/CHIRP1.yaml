@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xd3c4163e18aaebe43b4fc8b1a53dc3241fb3d017'
-    platform: ETH
+  - address: '0xca66b54a8a4ad9a231dd70d3605d1ff6ae95d427'
+    platform: PLS
 crypto: true
 fiat: false
 id: CHIRP1
-id_coinmarketcap: '19649'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19649.png
+id_coinmarketcap: '27478'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27478.png
 logoKey: currencies/chirp1.png
-name: Chirp
+name: Chirp Finance

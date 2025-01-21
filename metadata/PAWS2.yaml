@@ -1,10 +1,10 @@
 contracts:
-  - address: 6bLp99VoqKU1C3Qp6VTNvSoCoc78jMGxPkGSSopq8wHB
-    platform: SOL
+  - address: '0x066fc8dd5955534a01a9f892314c9b01b59a9c11'
+    platform: BNB
 crypto: true
 fiat: false
 id: PAWS2
-id_coinmarketcap: '14729'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14729.png
+id_coinmarketcap: '9573'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9573.png
 logoKey: currencies/paws2.png
-name: Solana Paws
+name: Animal Adoption Advocacy

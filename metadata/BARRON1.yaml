@@ -1,10 +1,10 @@
 contracts:
-  - address: HmAgiwjjP9CXqK5wQNsHKtjAt2CH3Kv8Q7xH5kGL2nqZ
-    platform: SOL
+  - address: '0x9361adf2b72f413d96f81ff40d794b47ce13b331'
+    platform: ETH
 crypto: true
 fiat: false
 id: BARRON1
-id_coinmarketcap: '31031'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31031.png
+id_coinmarketcap: '31345'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31345.png
 logoKey: currencies/barron1.png
-name: Time Traveler
+name: BARRON

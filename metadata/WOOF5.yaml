@@ -1,10 +1,10 @@
 contracts:
-  - address: TYsmVhQYDXJYa4iuBhwDHDqwcVNh5WA3JD
-    platform: TRX
+  - address: '0x1f56ae850930460d076e8c2177d92daa6dd046c3'
+    platform: ETH
 crypto: true
 fiat: false
 id: WOOF5
-id_coinmarketcap: '32801'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32801.png
+id_coinmarketcap: '17190'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17190.png
 logoKey: currencies/woof5.png
-name: Huobi Dog
+name: Woof Token

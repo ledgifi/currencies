@@ -1,8 +1,6 @@
 contracts:
   - address: '0x02cbe46fb8a1f579254a9b485788f2d86cad51aa'
     platform: KAIA
-  - address: '0x0EF39E52704Ad52E2882BBfA6781167E1b6c4510'
-    platform: MATIC
 crypto: true
 fiat: false
 id: BORA

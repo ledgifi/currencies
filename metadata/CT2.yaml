@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x9130ae8e2826947cf8b6a06333890b4e8a1667c7'
-    platform: BNB
+  - address: '0x7f223b1607171b81ebd68d22f1ca79157fd4a44b'
+    platform: KAIA
 crypto: true
 fiat: false
 id: CT2
-id_coinmarketcap: '8779'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8779.png
+id_coinmarketcap: '13309'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13309.png
 logoKey: currencies/ct2.png
-name: CommunityToken
+name: Cojam

@@ -1,14 +1,10 @@
 contracts:
-  - address: '0xC11bF915Db4b43714bC8D32bF83BF5eA53d40981'
-    platform: AVAX
-  - address: '0x842defB310cacE2b923C1FD7B3db067D3d0FCC34'
-    platform: BNB
-  - address: '0xA64D5d1eB67748226d84812B45711453f1118c32'
-    platform: ETH
+  - address: '0x7264610a66eca758a8ce95cf11ff5741e1fd0455'
+    platform: CANTO
 crypto: true
 fiat: false
 id: CINU3
-id_coinmarketcap: '23946'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23946.png
+id_coinmarketcap: '21554'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21554.png
 logoKey: currencies/cinu3.png
-name: Cheems Inu (new)
+name: Canto Inu

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x4E69365007eE6560D01D174B608bF9ac13D58F37'
-    platform: ETH
+  - address: 0xafca9a55f5e545083d1af063248b17ef82d02f33a47b01fc7b0a26538d2e873e::quant::QUANT
+    platform: SUI
 crypto: true
 fiat: false
 id: QUANT1
-id_coinmarketcap: '27149'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27149.png
+id_coinmarketcap: '35098'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35098.png
 logoKey: currencies/quant1.png
-name: Quant Finance
+name: Quantimodo

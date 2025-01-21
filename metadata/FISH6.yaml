@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xb348B87b23D5977E2948E6f36ca07E1EC94d7328'
-    platform: ARB
+  - address: '0xFa7f035B88c633Ef9ED7ADdf885f8c7575FD6dbd'
+    platform: BNB
 crypto: true
 fiat: false
 id: FISH6
-id_coinmarketcap: '22852'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22852.png
+id_coinmarketcap: '22609'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22609.png
 logoKey: currencies/fish6.png
-name: SwapFish
+name: Fish

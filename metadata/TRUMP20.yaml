@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x4f4a556361B8B4869F97b8709ff47c1B057Ea13b'
-    platform: ETH
+  - address: '0x06342c8681498b49Cb548c1b6E9213454290E707'
+    platform: TBA
 crypto: true
 fiat: false
 id: TRUMP20
-id_coinmarketcap: '28514'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28514.png
+id_coinmarketcap: '31400'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31400.png
 logoKey: currencies/trump20.png
-name: MAGA
+name: TRUMP ON BASE

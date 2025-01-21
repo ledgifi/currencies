@@ -1,10 +1,10 @@
 contracts:
-  - address: 2Va1uz4qvj5MxKW3s19KNHRJtxu2JHdfe4KMtyZTncMM
-    platform: SOL
+  - address: '0x9cc7437978255e2c38b0d3d4671fb9ac411a68ac'
+    platform: PLS
 crypto: true
 fiat: false
 id: DOGE7
-id_coinmarketcap: '34119'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34119.png
+id_coinmarketcap: '27134'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27134.png
 logoKey: currencies/doge7.png
-name: Dogecoin on SOL
+name: Doge on Pulsechain

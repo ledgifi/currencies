@@ -1,10 +1,18 @@
 contracts:
-  - address: 99ouK5YUK3JPGCPX9joNtHsMU7NPpU7w91JN4kdQ97po
-    platform: SOL
+  - address: '0x8d7c2588c365b9e98Ea464b63DBCCDf13ECd9809'
+    platform: ARB
+  - address: '0x10B3AAF66D90Cb54fca62Dd37d17022555399EE1'
+    platform: AVAX
+  - address: '0xA9b038285F43cD6fE9E16B4C80B4B9bCcd3C161b'
+    platform: BNB
+  - address: '0x6ab4ce36260f201e4e2391eca2fd7538f71e4131'
+    platform: ETH
+  - address: '0xfa78cba4ebbf8fe28b4fc1468948f16fda2752b3'
+    platform: MATIC
 crypto: true
 fiat: false
 id: AI2
-id_coinmarketcap: '28847'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28847.png
+id_coinmarketcap: '10712'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10712.png
 logoKey: currencies/ai2.png
-name: AI
+name: Flourishing AI

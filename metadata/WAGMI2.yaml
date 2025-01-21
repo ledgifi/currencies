@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x0dc78c79b4eb080ead5c1d16559225a46b580694'
-    platform: ONE
+  - address: '0xef8e456967122db4c3c160314bde8d2602ad6199'
+    platform: ETH
 crypto: true
 fiat: false
 id: WAGMI2
-id_coinmarketcap: '14153'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14153.png
+id_coinmarketcap: '25385'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25385.png
 logoKey: currencies/wagmi2.png
-name: Euphoria
+name: Wagmi Coin

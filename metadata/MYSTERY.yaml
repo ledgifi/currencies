@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xcb0491bB073217DB330df7c003Bd54958fD5DC3B'
-    platform: TBA
+  - address: '0x64c5cbA9A1BfBD2A5faf601D91Beff2dCac2c974'
+    platform: ETH
 crypto: true
 fiat: false
 id: MYSTERY
-id_coinmarketcap: '34876'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34876.png
+id_coinmarketcap: '34583'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34583.png
 logoKey: currencies/mystery.png
-name: Mystery On Base
+name: Mystery

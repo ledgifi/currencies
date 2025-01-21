@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x2f9411088cef82fd9fb904eb8092f28eb485c8f6'
-    platform: ETH
+  - address: '0xcbabee0658725b5b21e1512244734a5d5c6b51d6'
+    platform: GLMR
 crypto: true
 fiat: false
 id: ATH6
-id_coinmarketcap: '19005'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19005.png
+id_coinmarketcap: '20483'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20483.png
 logoKey: currencies/ath6.png
-name: Athens
+name: Athos Finance

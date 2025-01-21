@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x544d230f0362f3843fdA5CAa99b94cB2B336E384'
-    platform: ETH
+  - address: '0x1d60109178c48e4a937d8ab71699d8ebb6f7c5de'
+    platform: AVAX
 crypto: true
 fiat: false
 id: MAG6
-id_coinmarketcap: '28181'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28181.png
+id_coinmarketcap: '16809'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16809.png
 logoKey: currencies/mag6.png
-name: Magnesium
+name: Magnet

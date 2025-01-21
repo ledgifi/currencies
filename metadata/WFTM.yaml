@@ -1,8 +1,16 @@
 contracts:
   - address: '0x332730a4f6e03d9c55829435f10360e13cfa41ff'
     platform: ADA
+  - address: '0xad29abb318791d579433d831ed122afeaf29dcfe'
+    platform: BNB
+  - address: FTM-A64
+    platform: BNB
+  - address: '0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0'
+    platform: CELO
   - address: '0xb44a9b6905af7c801311e8f4e76932ee959c663c'
     platform: CRO
+  - address: '0x4e15361fd6b4bb609fa63c81a2be19d873717870'
+    platform: ETH
   - address: '0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83'
     platform: FTM
   - address: '0xc19281f22a075e0f10351cd5d6ea9f0ac63d4327'

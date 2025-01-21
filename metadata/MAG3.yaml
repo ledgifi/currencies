@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xb9d4B6DC1e1Ee3577CC442dE015CC11F238B35ed'
+    platform: ETH
 crypto: true
 fiat: false
 id: MAG3
-id_coinmarketcap: '2218'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2218.png
+id_coinmarketcap: '28716'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28716.png
 logoKey: currencies/mag3.png
-name: Magnet
+name: Magnum Trading

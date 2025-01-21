@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x300e0d87f8c95d90cfe4b809baa3a6c90e83b850'
-    platform: ETH
+  - address: 6AGNtEgBE2jph1bWFdyaqsXJ762emaP9RE17kKxEsfiV
+    platform: SOL
 crypto: true
 fiat: false
 id: BTC5
-id_coinmarketcap: '31469'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31469.png
+id_coinmarketcap: '30938'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30938.png
 logoKey: currencies/btc5.png
-name: Boost Trump Campaign
+name: Satoshi Pumpomoto

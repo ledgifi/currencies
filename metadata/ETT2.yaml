@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x1212b68d8555cf0b08f3371b926b3e1148b520f1'
+  - address: '0xe0c72452740414d861606a44ccd5ea7f96488278'
     platform: ETH
 crypto: true
 fiat: false
 id: ETT2
-id_coinmarketcap: '6429'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6429.png
+id_coinmarketcap: '2018'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2018.png
 logoKey: currencies/ett2.png
-name: Efficient Transaction Token
+name: EncryptoTel [ETH]

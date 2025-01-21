@@ -1,6 +1,8 @@
 contracts:
   - address: '0x49f1D4dB3ea1a64390E990C6deBEaC88EAC007Ca'
     platform: BNB
+  - address: '0x1095ae55b62174d9ea3bc6a4136acacad461d7ce'
+    platform: ETH
 crypto: true
 fiat: false
 id: ITHACA

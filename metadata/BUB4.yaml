@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xa3E7e143b69AEaa2B435EFD7E40C4A7D1d6D8296'
-    platform: ARB
+  - address: '0x2c21b6d44e4f01807e2f9577ddd89f89d72c292c'
+    platform: BNB
 crypto: true
 fiat: false
 id: BUB4
-id_coinmarketcap: '24280'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24280.png
+id_coinmarketcap: '30347'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30347.png
 logoKey: currencies/bub4.png
-name: Bubble DeFi
+name: BUBCAT

@@ -1,10 +1,7 @@
-contracts:
-  - address: '0x04a1255f37bf739a234f6bf4e945bf7127e007a5'
-    platform: ETH
 crypto: true
 fiat: false
 id: TOKEN3
-id_coinmarketcap: '26988'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26988.png
+id_coinmarketcap: '1311'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1311.png
 logoKey: currencies/token3.png
-name: Token
+name: SwapToken
