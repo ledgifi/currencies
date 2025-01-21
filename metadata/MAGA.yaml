@@ -1,10 +1,16 @@
 contracts:
-  - address: '0xd29da236dd4aac627346e1bba06a619e8c22d7c5'
+  - address: '0x4ea98c1999575aaadfb38237dd015c5e773f75a2'
+    platform: BNB
+  - address: '0x576e2BeD8F7b46D34016198911Cdf9886f78bea7'
     platform: ETH
+  - address: HaP8r3ksG76PhQLTqR8FYBeNiQpejcFbQmiHbg787Ut1
+    platform: SOL
+  - address: '0x57f5fbd3de65dfc0bd3630f732969e5fb97e6d37'
+    platform: TBA
 crypto: true
 fiat: false
 id: MAGA
-id_coinmarketcap: '31305'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31305.png
+id_coinmarketcap: '27872'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27872.png
 logoKey: currencies/maga.png
-name: MAGA (maga-hat.vip)
+name: MAGA (magamemecoin.com)

@@ -1,16 +1,12 @@
 contracts:
-  - address: '0x4ea98c1999575aaadfb38237dd015c5e773f75a2'
-    platform: BNB
-  - address: '0x576e2BeD8F7b46D34016198911Cdf9886f78bea7'
-    platform: ETH
-  - address: HaP8r3ksG76PhQLTqR8FYBeNiQpejcFbQmiHbg787Ut1
+  - address: 6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN
     platform: SOL
-  - address: '0x57f5fbd3de65dfc0bd3630f732969e5fb97e6d37'
-    platform: TBA
 crypto: true
+decimals: 8
 fiat: false
 id: TRUMP
-id_coinmarketcap: '27872'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27872.png
+id_binance: '1433'
+id_coinmarketcap: '35336'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35336.png
 logoKey: currencies/trump.png
-name: MAGA (magamemecoin.com)
+name: OFFICIAL TRUMP
