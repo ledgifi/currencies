@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x3b484b82567a09e2588a13d54d032153f0c0aee0'
-    platform: ETH
-  - address: 6Q5fvsJ6kgAFmisgDqqyaFd9FURYzHf8MCUbpAUaGZnE
+  - address: HDa3zJc12ahykSsBRvgiWzr6WLEByf36yzKKbVvy4gnF
     platform: SOL
 crypto: true
 fiat: false
 id: SOS
-id_coinmarketcap: '16463'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16463.png
+id_coinmarketcap: '33110'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33110.png
 logoKey: currencies/sos.png
-name: OpenDAO
+name: Solana Swap
