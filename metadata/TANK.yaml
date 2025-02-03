@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x4444a19c8bb86e9bdbc023709a363bbce91af33e'
-    platform: BNB
+  - address: GAMwtMB6onAvBNBQJCJFuxoaqfPH8uCQ2dewNMVVpump
+    platform: SOL
 crypto: true
 fiat: false
 id: TANK
-id_coinmarketcap: '16447'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16447.png
+id_coingecko: agenttank
+logo: https://assets.coingecko.com/coins/images/52616/standard/simple-logo1-pixel-800x800.png
 logoKey: currencies/tank.png
-name: CryptoTanks
+name: AgentTank
