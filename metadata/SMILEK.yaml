@@ -2,6 +2,7 @@ contracts:
   - address: 7x4FgiFfeqzs1tiUNvJzpt47GtLXAJ8Jfn8G1Hyyu6JH
     platform: SOL
 crypto: true
+decimals: 6
 fiat: false
 id: SMILEK
 id_coinmarketcap: '10186'
