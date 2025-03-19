@@ -1,10 +1,11 @@
 contracts:
-  - address: LAYER4xPpTCb3QL8S9u41EAhAX7mhBn8Q6xMTwY2Yzc
-    platform: SOL
+  - address: '0x0fF6ffcFDa92c53F615a4A75D982f399C989366b'
+    platform: ETH
 crypto: true
 fiat: false
 id: LAYER1
-id_coinmarketcap: '35429'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35429.png
-logoKey: currencies/layer1.png
-name: Solayer
+id_coinmarketcap: '6638'
+id_coinpaprika: layer-unilayer
+id_nomics: LAYER
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6638.png
+name: UniLayer
