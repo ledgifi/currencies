@@ -1,10 +1,11 @@
 contracts:
-  - address: '0xc744df3419a8c9bd4d6b9852a503eb1c5308a326'
+  - address: '0xc43c6bfeda065fe2c4c11765bf838789bd0bb5de'
     platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: RED
-id_coinmarketcap: '21690'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21690.png
-logoKey: currencies/red.png
-name: RED TOKEN
+id_binance: '1457'
+id_coinmarketcap: '21707'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21707.png
+name: RedStone
