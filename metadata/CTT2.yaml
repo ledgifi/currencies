@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x464863745ed3af8b9f8871f1082211c55f8f884d'
-    platform: BNB
+  - address: '0x6A3b0eb5b57C9a4F5772fc900dAE427E65f8C1a5'
+    platform: MNT
 crypto: true
 fiat: false
 id: CTT2
-id_coinmarketcap: '9503'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9503.png
+id_coinmarketcap: '27934'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27934.png
 logoKey: currencies/ctt2.png
-name: CryptoTycoon
+name: Cashtree Token

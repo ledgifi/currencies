@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x4c746Edf20762dC201aC40135e0C13e400d23D58'
-    platform: ETH
+  - address: '0xb801d03e1c394abd0d77440376e7f0d473254c0b'
+    platform: BNB
 crypto: true
 fiat: false
 id: GOD5
-id_coinmarketcap: '25659'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25659.png
+id_coinmarketcap: '21674'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21674.png
 logoKey: currencies/god5.png
-name: God Coin
+name: Game of Dragons

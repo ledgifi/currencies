@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xc0a696bbb66352e5b88624f1d1b8909c34dc4e4a'
-    platform: BNB
+  - address: EQA1jvPqRx6bujYohDny43hwX8FZr3b6OYnI3t2jHd4TXSJs
+    platform: TON
 crypto: true
 fiat: false
 id: SHIP1
-id_coinmarketcap: '13849'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13849.png
+id_coinmarketcap: '30114'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30114.png
 logoKey: currencies/ship1.png
-name: Secured Ship
+name: Ton Ship

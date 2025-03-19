@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xAa9654BECca45B5BDFA5ac646c939C62b527D394'
-    platform: POL
+  - address: 0.0.7907968
+    platform: HBAR
 crypto: true
 fiat: false
 id: DINO
-id_coinmarketcap: '10777'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10777.png
+id_coinmarketcap: '35488'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35488.png
 logoKey: currencies/dino.png
-name: DinoSwap
+name: DINO

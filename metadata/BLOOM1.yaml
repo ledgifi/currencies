@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x9b2e37cdc711cfcac1e1482b5741c74dd3924199'
-    platform: FTM
+  - address: '0x6c4a8973e6633da2da7187669479c27830c7b1c4'
+    platform: ETH
 crypto: true
 fiat: false
 id: BLOOM1
-id_coinmarketcap: '15441'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15441.png
+id_coinmarketcap: '31556'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31556.png
 logoKey: currencies/bloom1.png
-name: BLOOM  Protocol
+name: BloomBeans

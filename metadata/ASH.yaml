@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x64d91f12ece7362f91a6f8e7940cd55f05060b92'
-    platform: ETH
+  - address: ASH-a642d1
+    platform: EGLD
 crypto: true
 fiat: false
 id: ASH
-id_coinmarketcap: '11566'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11566.png
+id_coinmarketcap: '22321'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22321.png
 logoKey: currencies/ash.png
-name: ASH
+name: AshSwap

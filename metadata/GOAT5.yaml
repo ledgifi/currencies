@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x847f6695874fe9d2abB6fE8Bf56D809BBF1e83DA'
-    platform: ETH
+  - address: '0x08922cc5e9bd4c74ff570e27a40b84084a7f9988'
+    platform: BNB
 crypto: true
 fiat: false
 id: GOAT5
-id_coinmarketcap: '33641'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33641.png
+id_coinmarketcap: '9602'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9602.png
 logoKey: currencies/goat5.png
-name: Goatseus Maximus (ETH)
+name: Goat Coin

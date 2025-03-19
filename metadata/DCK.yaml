@@ -3,6 +3,10 @@ contracts:
     platform: BNB
   - address: '0x672f4fa517894496b8a958b4b3fca068ce513a39'
     platform: ETH
+  - address: CdC6jsYRRyHy9gXZX3SaS2rf6qa218XhXjEhaiANkBYT
+    platform: SOL
+  - address: '0x1718C0b55A07F61dB44F0aC7404DC574B5abfef2'
+    platform: TBA
 crypto: true
 fiat: false
 id: DCK

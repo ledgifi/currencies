@@ -1,10 +1,10 @@
 contracts:
-  - address: 2YCQcQgy9nNhgukjAur1jCvMXgSTQ5FVDc3ae3BcspXS
-    platform: SOL
+  - address: '0x402eeef1a50695b3cce1cb748cead2013c4dfa1e'
+    platform: KAIA
 crypto: true
 fiat: false
 id: VRS2
-id_coinmarketcap: '20425'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20425.png
+id_coinmarketcap: '20477'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20477.png
 logoKey: currencies/vrs2.png
-name: Verasaw Plant Token
+name: VRES

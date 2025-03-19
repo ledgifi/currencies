@@ -1,3 +1,6 @@
+contracts:
+  - address: 0x1e005d033d858a39e1210aafdd139ce4fa21c79cdb8acadd16513a03c9d4cebd::seed::SEED
+    platform: SUI
 crypto: true
 fiat: false
 id: SEED9

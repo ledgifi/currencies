@@ -1,10 +1,10 @@
 contracts:
-  - address: BDbhJUMgQBQ1bJTKhSS9NsxZdfaiBG6Hgp8qNKpc3YSX
-    platform: SOL
+  - address: '0x50B806C5fe274c07e46B96be8C68D2Fd2d9597B4'
+    platform: ETH
 crypto: true
 fiat: false
 id: TUCKER
-id_coinmarketcap: '34120'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34120.png
+id_coinmarketcap: '29199'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29199.png
 logoKey: currencies/tucker.png
-name: Pnut's Dog
+name: TUCKER CARLSON

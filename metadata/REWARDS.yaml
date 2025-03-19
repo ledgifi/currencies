@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x7B5B3BC6890c1dE78FeDE739C1b02D2e51B1b58c'
-    platform: BNB
+  - address: FaQvXD4Ww6F5qJ5ruvs58fjR5oSD9AozryebhovWHjNk
+    platform: SOL
 crypto: true
 fiat: false
 id: REWARDS
-id_coinmarketcap: '11180'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11180.png
+id_coinmarketcap: '35864'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35864.png
 logoKey: currencies/rewards.png
-name: Rewards Token
+name: Solana Rewards

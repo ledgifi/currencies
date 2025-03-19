@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x8Ea43e15b1a616a19903F6A87498F7dCa1efae0f'
-    platform: BNB
+  - address: '0x0a13a5929e5f0ff0eaba4bd9e9512c91fce40280'
+    platform: ETH
 crypto: true
 fiat: false
 id: XAI4
-id_coinmarketcap: '28285'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28285.png
+id_coinmarketcap: '25679'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25679.png
 logoKey: currencies/xai4.png
-name: xAI
+name: XAI Corp

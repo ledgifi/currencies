@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x42fa9fbf92852b3f7b0a2816b00357c8541d2b53'
-    platform: BNB
+  - address: '0x58d471468FBC1193E499a3dCFCA1d25116198C63'
+    platform: ETH
 crypto: true
 fiat: false
 id: KITTY8
-id_coinmarketcap: '27280'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27280.png
+id_coinmarketcap: '30489'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30489.png
 logoKey: currencies/kitty8.png
-name: Hello Kitty
+name: Kitty Token

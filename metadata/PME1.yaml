@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xFD1eEb2f3399872735f3Df735816c4FC607E12C4'
-    platform: POL
+  - address: '0x320F6c1304e1a2a50A0fEbb62BA6a9700043d152'
+    platform: BNB
 crypto: true
 fiat: false
 id: PME1
-id_coinmarketcap: '31218'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31218.png
+id_coinmarketcap: '28487'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28487.png
 logoKey: currencies/pme1.png
-name: Pcoland Meta Earth
+name: DogePome

@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xb45ffb51984d626ee758b336c61cf20990c6bf13'
+    platform: ETH
+  - address: 2GBVt2ENvbHepuJMWYTPkkfpWUabAhsaXToYw8UphxS3
+    platform: SOL
 crypto: true
 fiat: false
 id: RBNT

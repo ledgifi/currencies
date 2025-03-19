@@ -1,10 +1,12 @@
 contracts:
-  - address: 5SuHxgTNE8cbCoK4gfQ7LxpiKgrkENVEQmq78FoAr6La
-    platform: SOL
+  - address: '0x881ee52679537C6834fDeeB3673da2e3eCb50DF6'
+    platform: ARB
+  - address: '0x1a131F7B106D58f33eAf0fE5B47DB2f2045E5732'
+    platform: BNB
 crypto: true
 fiat: false
 id: DEGEN1
-id_coinmarketcap: '28773'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28773.png
+id_coinmarketcap: '24276'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24276.png
 logoKey: currencies/degen1.png
-name: Degen (SOL)
+name: DegenReborn

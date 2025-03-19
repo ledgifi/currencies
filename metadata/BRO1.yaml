@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xc796E499CC8f599A2a8280825d8BdA92F7a895e0'
-    platform: TBA
+  - address: 33rVymHHPxfMvg4EHKBRF3h8a37cG7Et3eQWZzAkpump
+    platform: SOL
 crypto: true
 fiat: false
 id: BRO1
-id_coinmarketcap: '34727'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34727.png
+id_coinmarketcap: '33622'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33622.png
 logoKey: currencies/bro1.png
-name: Neurobro
+name: Bro the cat

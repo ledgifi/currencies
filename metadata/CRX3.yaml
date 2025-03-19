@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x526190295AFB6b8736B14E4b42744FBd95203A3a'
-    platform: CORE
+  - address: '0x49218282042072e054afdc90e552e832735f8316'
+    platform: ETH
 crypto: true
 fiat: false
 id: CRX3
-id_coinmarketcap: '35224'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35224.png
+id_coinmarketcap: '35248'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35248.png
 logoKey: currencies/crx3.png
-name: COREx Network
+name: Cerebro Protocol

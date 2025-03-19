@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x6491c05A82219b8D1479057361ff1654749b876b'
+    platform: ARB
   - address: '0xdC035D45d973E3EC169d2276DDab16f1e407384F'
     platform: ETH
+  - address: USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA
+    platform: SOL
+  - address: '0x820c137fa70c8691f0e44dc420a5e53c168921dc'
+    platform: TBA
 crypto: true
 fiat: false
 id: USDS2

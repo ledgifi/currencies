@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x5971f6eCF4092824ed8229154d97c21317A04764'
-    platform: BNB
+  - address: '0x3734dc0d241b5ad886fa6bff45ffa67252ac0e89'
+    platform: ETH
 crypto: true
 fiat: false
 id: CAT24
-id_coinmarketcap: '33510'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33510.png
+id_coinmarketcap: '15335'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15335.png
 logoKey: currencies/cat24.png
-name: Cat Token
+name: Capital Aggregator Token

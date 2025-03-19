@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x0263994554ec08cc60473dbf8cee60f9eedbf093'
-    platform: ETH
+  - address: '0x000c6322Df760155bBe4F20F2EDD8F4Cd35733A6'
+    platform: BNB
 crypto: true
 fiat: false
 id: POWER5
-id_coinmarketcap: '23067'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23067.png
+id_coinmarketcap: '16633'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16633.png
 logoKey: currencies/power5.png
-name: Kingmaker
+name: Meta Reserve Finance

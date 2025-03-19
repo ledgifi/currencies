@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x432463e0D195C1a6e20FD780aE4ED6D33e694C7f'
+    platform: SEI
 crypto: true
 fiat: false
 id: DT
-id_coinmarketcap: '609'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/609.png
+id_coinmarketcap: '35919'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35919.png
 logoKey: currencies/dt.png
-name: DarkToken
+name: Drift Zone

@@ -1,10 +1,10 @@
 contracts:
-  - address: 64sPyZFGV6gV7bTver4aTacsDXJDJ3iA67iqEax4o4pe
-    platform: SOL
+  - address: '0x46F90D865E742B8e9a62FF8277B5cd70740CB916'
+    platform: ETH
 crypto: true
 fiat: false
 id: MEOW7
-id_coinmarketcap: '30227'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30227.png
+id_coinmarketcap: '9811'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9811.png
 logoKey: currencies/meow7.png
-name: just a cat
+name: CatJAM

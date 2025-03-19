@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x12a34a6759c871c4c1e8a0a42cfc97e4d7aaf68d'
-    platform: POL
+  - address: '0xCAAE2A2F939F51d97CdFa9A86e79e3F085b799f3'
+    platform: BNB
 crypto: true
 fiat: false
 id: TUT
-id_coinmarketcap: '14349'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14349.png
+id_coinmarketcap: '35892'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35892.png
 logoKey: currencies/tut.png
-name: Tutellus
+name: Tutorial

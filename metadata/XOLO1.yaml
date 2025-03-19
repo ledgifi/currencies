@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xc1122358ab7c92fc00e5ca01215bed394dae8fd7'
-    platform: ETH
+  - address: '0x19314Dfa75CfC1E5154f95daFaB217646bdb79AC'
+    platform: BNB
 crypto: true
 fiat: false
 id: XOLO1
-id_coinmarketcap: '15287'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15287.png
+id_coinmarketcap: '10537'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10537.png
 logoKey: currencies/xolo1.png
-name: Xolo Metaverse
+name: Xolo Finance

@@ -1,7 +1,18 @@
+contracts:
+  - address: '0x000000000000012DeF132E61759048bE5b5C6033'
+    platform: ARB
+  - address: '0x000000000000012DeF132E61759048bE5b5C6033'
+    platform: BNB
+  - address: '0x000000000000012DeF132E61759048bE5b5C6033'
+    platform: ETH
+  - address: '0x000000000000012DeF132E61759048bE5b5C6033'
+    platform: OP
+  - address: '0x000000000000012DeF132E61759048bE5b5C6033'
+    platform: TBA
 crypto: true
 fiat: false
 id: CX
-id_coinmarketcap: '995'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/995.png
+id_coinmarketcap: '35735'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35735.png
 logoKey: currencies/cx.png
-name: XtraCoin
+name: Cortex Protocol

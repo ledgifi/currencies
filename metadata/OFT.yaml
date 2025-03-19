@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xc0a25a24cce412e2fb407c08e3785437fee9ad1d'
-    platform: ETH
+  - address: '0x297c6470cc7a3fe5cf8e5d977c33a2d4b4d9b126'
+    platform: BNB
 crypto: true
 fiat: false
 id: OFT
-id_coinmarketcap: '8095'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8095.png
+id_coinmarketcap: '35632'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35632.png
 logoKey: currencies/oft.png
-name: Orient
+name: ONFA

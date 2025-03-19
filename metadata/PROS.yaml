@@ -1,7 +1,11 @@
 contracts:
   - address: '0xed8c8aa8299c10f067496bb66f8cc7fb338a3405'
     platform: BNB
+  - address: '0x915424Ac489433130d92B04096F3b96c82e92a9D'
+    platform: BNB
   - address: '0x8642A849D0dcb7a15a974794668ADcfbe4794B56'
+    platform: ETH
+  - address: '0x915424Ac489433130d92B04096F3b96c82e92a9D'
     platform: ETH
   - address: '0x6109cb051c5c64093830121ed76272ab04bbdd7c'
     platform: POL

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x7a3d3c4f30c46f51b814bee23d970a7c9b757a32'
-    platform: ETH
+  - address: '0xebe7c1395e43465ae7a041a686e957d9aa184b0d'
+    platform: BNB
 crypto: true
 fiat: false
 id: ASG1
-id_coinmarketcap: '4236'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4236.png
+id_coinmarketcap: '22211'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22211.png
 logoKey: currencies/asg1.png
-name: Asgard
+name: Asgard Games

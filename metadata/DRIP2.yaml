@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xB8A914A00664e9361eaE187468EfF94905dfbC15'
+    platform: ETH
 crypto: true
 fiat: false
 id: DRIP2
-id_coinmarketcap: '9325'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9325.png
+id_coinmarketcap: '32467'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32467.png
 logoKey: currencies/drip2.png
-name: Dripping Finance
+name: DRIP

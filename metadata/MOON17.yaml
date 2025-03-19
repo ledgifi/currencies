@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x6a7e9aaebb816338bc18dac0328a1e94c733cdb5'
-    platform: BNB
+  - address: '0x942272a2004e81cbdf0e11781addf6a19427244b'
+    platform: ETH
 crypto: true
 fiat: false
 id: MOON17
-id_coinmarketcap: '28375'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28375.png
+id_coinmarketcap: '26848'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26848.png
 logoKey: currencies/moon17.png
-name: Moonseer (BSC)
+name: MoonCoin

@@ -1,10 +1,10 @@
 contracts:
-  - address: Hr9GVwBMBDKnMLBMvrtw8vLDZoYQrdSa2QFyCQbGJUve
-    platform: SOL
+  - address: '0x728b3F6A79f226BC2108D21aBd9b455d679ef725'
+    platform: ETH
 crypto: true
 fiat: false
 id: XRP21
-id_coinmarketcap: '34381'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34381.png
+id_coinmarketcap: '27664'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27664.png
 logoKey: currencies/xrp21.png
 name: XRP2.0

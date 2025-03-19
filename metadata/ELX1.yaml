@@ -1,7 +1,12 @@
+contracts:
+  - address: '0xBC0AE82bBC2E1e4FAaf73703dB30DF1Eb0DcDd32'
+    platform: BNB
+  - address: '0x9048c33c7bae0bbe9ad702b17b4453a83900d154'
+    platform: ETH
 crypto: true
 fiat: false
 id: ELX1
-id_coinmarketcap: '26854'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26854.png
+id_coinmarketcap: '8331'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8331.png
 logoKey: currencies/elx1.png
-name: Elixir Network
+name: Energy Ledger

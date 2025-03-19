@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x5343b4586a3f2a3365df92Ee705c3BF446C54668'
+    platform: BNB
 crypto: true
 fiat: false
 id: BLC
-id_coinmarketcap: '125'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/125.png
+id_coinmarketcap: '35507'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35507.png
 logoKey: currencies/blc.png
-name: Blakecoin
+name: Balance Coin

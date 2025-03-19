@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x7463C17E3d91B17d9cD0b1E9fDFA18d4DdC3cF0E'
-    platform: ETH
+  - address: GyycsGxHuTVv12mXAoEVcvHqi7xd8XKT9eeoysxuNPqe
+    platform: SOL
 crypto: true
 fiat: false
 id: SHREK
-id_coinmarketcap: '25069'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25069.png
+id_coinmarketcap: '36059'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36059.png
 logoKey: currencies/shrek.png
-name: Shrek ERC
+name: Shrek

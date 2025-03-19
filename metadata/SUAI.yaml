@@ -1,0 +1,10 @@
+contracts:
+  - address: 0xbc732bc5f1e9a9f4bdf4c0672ee538dbf56c161afe04ff1de2176efabdf41f92::suai::SUAI
+    platform: SUI
+crypto: true
+fiat: false
+id: SUAI
+id_coinmarketcap: '35374'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35374.png
+logoKey: currencies/suai.png
+name: SuiAI

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x67859a9314b9dca2642023ad8231beaa6cbf1933'
-    platform: ETH
+  - address: '0xa369eab397bef8e35ffc065c3ec9b800a548c059'
+    platform: BNB
 crypto: true
 fiat: false
 id: WOLF9
-id_coinmarketcap: '31577'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31577.png
+id_coinmarketcap: '17322'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17322.png
 logoKey: currencies/wolf9.png
-name: Landwolf
+name: Werewolves Game

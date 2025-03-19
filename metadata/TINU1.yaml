@@ -1,10 +1,10 @@
 contracts:
-  - address: TNQFofWidmW9XXwSGL8jKp83AFJXEUAQBE
-    platform: TRX
+  - address: '0x4aa22532e3e8b051eae48e60c58426c8553d5df5'
+    platform: BNB
 crypto: true
 fiat: false
 id: TINU1
-id_coinmarketcap: '32757'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32757.png
+id_coinmarketcap: '21556'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21556.png
 logoKey: currencies/tinu1.png
-name: Tron Inu
+name: Telegram Inu

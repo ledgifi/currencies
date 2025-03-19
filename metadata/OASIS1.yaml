@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xb19289b436b2f7a92891ac391d8f52580d3087e4'
-    platform: BNB
+  - address: '0xa74a05B17d72E9B0781d973e7963dfAACd266B94'
+    platform: ETH
 crypto: true
 fiat: false
 id: OASIS1
-id_coinmarketcap: '12588'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12588.png
+id_coinmarketcap: '29761'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29761.png
 logoKey: currencies/oasis1.png
-name: ProjectOasis
+name: Oasis

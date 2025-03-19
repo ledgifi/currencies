@@ -1,7 +1,12 @@
+contracts:
+  - address: '0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa'
+    platform: ETH
+  - address: '0x2977893f4c04bfbd6efc68d0e46598d27810d3db'
+    platform: GNO
 crypto: true
 fiat: false
 id: BID1
-id_coinmarketcap: '5512'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5512.png
+id_coinmarketcap: '7200'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7200.png
 logoKey: currencies/bid1.png
-name: BLOCKIDCOIN
+name: Bidao

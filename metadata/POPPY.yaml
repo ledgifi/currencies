@@ -1,10 +1,10 @@
 contracts:
-  - address: GD1AR5uHytu7nHJ9zWYEEHytmLe7MaD8wg6Tzesdpump
-    platform: SOL
+  - address: '0xcA4F53E6117623992126A9A45Ce61682FE8678Df'
+    platform: ETH
 crypto: true
 fiat: false
 id: POPPY
-id_coinmarketcap: '35128'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35128.png
+id_coinmarketcap: '35120'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35120.png
 logoKey: currencies/poppy.png
 name: Poppy

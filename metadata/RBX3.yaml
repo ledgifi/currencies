@@ -1,7 +1,14 @@
+contracts:
+  - address: '0x94960952876e3ED6A7760B198354fCc5319A406a'
+    platform: AVAX
+  - address: '0xace3574b8b054e074473a9bd002e5dc6dd3dff1b'
+    platform: BNB
+  - address: '0x8254e26e453eb5abd29b3c37ac9e8da32e5d3299'
+    platform: ETH
 crypto: true
 fiat: false
 id: RBX3
-id_coinmarketcap: '1613'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1613.png
+id_coinmarketcap: '13326'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13326.png
 logoKey: currencies/rbx3.png
-name: Ripto Bux
+name: RBX

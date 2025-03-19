@@ -1,10 +1,12 @@
 contracts:
-  - address: 5BthRwBakCdXVYq7KQwgAauD5RLW8qLoEyyghh1btypx
-    platform: SOL
+  - address: '0x6afcff9189e8ed3fcc1cffa184feb1276f6a82a5'
+    platform: ETH
+  - address: '0x1e0F2A75Be02c025Bd84177765F89200c04337Da'
+    platform: MOVR
 crypto: true
 fiat: false
 id: PETS2
-id_coinmarketcap: '29887'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29887.png
+id_coinmarketcap: '13157'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13157.png
 logoKey: currencies/pets2.png
-name: SolPets
+name: PolkaPets

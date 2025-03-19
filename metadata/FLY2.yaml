@@ -1,16 +1,10 @@
 contracts:
-  - address: '0x32fD06dE8c0e4364aE38f7321357fc2b9A575bbD'
+  - address: '0x000F1720A263f96532D1ac2bb9CDC12b72C6f386'
     platform: ARB
-  - address: '0x681fd3e49a6188fc526784ee70aa1c269ee2b887'
-    platform: BNB
-  - address: '0x85f6eb2bd5a062f5f8560be93fb7147e16c81472'
-    platform: ETH
-  - address: '0xb58d1d90c4f0a89c96337387feafff0a7a75a722'
-    platform: OP
 crypto: true
 fiat: false
 id: FLY2
-id_coinmarketcap: '9120'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9120.png
+id_coinmarketcap: '30452'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30452.png
 logoKey: currencies/fly2.png
-name: Franklin
+name: Fluidity

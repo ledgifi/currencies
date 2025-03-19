@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x5F8a7c646511A790C53F171891E5d469cA884EdE'
+    platform: ARB
 crypto: true
 fiat: false
 id: SLING
-id_coinmarketcap: '893'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/893.png
+id_coinmarketcap: '36035'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36035.png
 logoKey: currencies/sling.png
-name: Sling
+name: Slingshot

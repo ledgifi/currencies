@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x761A3557184cbC07b7493da0661c41177b2f97fA'
-    platform: ETH
-  - address: '0x321725ee44CB4bfA544CF45a5A585b925d30A58C'
-    platform: TBA
+  - address: '0x0C9aD20802E89BeA858ae2E8594843fAfA887CB3'
+    platform: BNB
 crypto: true
 fiat: false
 id: GROW1
-id_coinmarketcap: '29633'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29633.png
+id_coinmarketcap: '29608'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29608.png
 logoKey: currencies/grow1.png
-name: ValleyDAO
+name: Grow Token

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x747Ca1679F39618C084873da9fF7a90583a03797'
-    platform: BNB
+  - address: '0xa3ec7df93090f4de46faea09f73cc40ebe7dd714'
+    platform: ETH
 crypto: true
 fiat: false
 id: WUKONG2
-id_coinmarketcap: '32666'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32666.png
+id_coinmarketcap: '21776'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21776.png
 logoKey: currencies/wukong2.png
-name: Black Myth WuKong
+name: Monkey King

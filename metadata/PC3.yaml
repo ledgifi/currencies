@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xe1eC350ea16D1DdAFF57F31387B2d9708Eb7ce28'
+    platform: ETH
 crypto: true
 fiat: false
 id: PC3
-id_coinmarketcap: '13249'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13249.png
+id_coinmarketcap: '24801'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24801.png
 logoKey: currencies/pc3.png
-name: Plug Chain
+name: Pepechain

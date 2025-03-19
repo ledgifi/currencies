@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x57c9487f30D04aEE52D323586EC9A23d05A1504e'
-    platform: BNB
+  - address: '0xb8919522331C59f5C16bDfAA6A121a6E03A91F62'
+    platform: ETH
 crypto: true
 fiat: false
 id: HOME2
-id_coinmarketcap: '10342'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10342.png
+id_coinmarketcap: '20520'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20520.png
 logoKey: currencies/home2.png
-name: HomeCoin
+name: HOME Coin

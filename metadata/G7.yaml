@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xF18e4466F26B4cA55bbAb890b314a54976E45B17'
+    platform: ARB
+  - address: '0x12c88a3c30a7aabc1dd7f2c08a97145f5dccd830'
+    platform: ETH
+crypto: true
+fiat: false
+id: G7
+id_coinmarketcap: '35736'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35736.png
+logoKey: currencies/g7.png
+name: Game7

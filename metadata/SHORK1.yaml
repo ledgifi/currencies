@@ -1,10 +1,10 @@
 contracts:
-  - address: BJB5tHWAHboMAwti5AHbCNX17F3jL8ehkh4zuTUx99Zn
-    platform: SOL
+  - address: 0x80a4b8e2fbc6b5741a301e2295e431c3ca54ad7ff0b20291c433c05cb53b35ce::shork::SHORK
+    platform: SUI
 crypto: true
 fiat: false
 id: SHORK1
-id_coinmarketcap: '30696'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30696.png
+id_coinmarketcap: '33936'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33936.png
 logoKey: currencies/shork1.png
-name: shork
+name: Shork

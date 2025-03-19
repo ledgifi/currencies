@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x650F44eD6F1FE0E1417cb4b3115d52494B4D9b6D'
-    platform: ETH
+  - address: 1dd1a7dde0e1e82761325ee5f4719d0d4b7c24dfba77d9bee01eed4b
+    platform: ADA
 crypto: true
 fiat: false
 id: MEOW11
-id_coinmarketcap: '11282'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11282.png
+id_coinmarketcap: '17714'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17714.png
 logoKey: currencies/meow11.png
-name: Meowshi
+name: MeowSwap

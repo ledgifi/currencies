@@ -1,10 +1,7 @@
-contracts:
-  - address: '0x0a44a7ccea34a7563ba1d45a5f757d0b02281124'
-    platform: ETH
 crypto: true
 fiat: false
 id: BBL
-id_coinmarketcap: '19379'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19379.png
+id_coinmarketcap: '422'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/422.png
 logoKey: currencies/bbl.png
-name: BlockBlend
+name: BitBlock

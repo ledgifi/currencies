@@ -1,10 +1,10 @@
 contracts:
-  - address: 6wdbFQAxDVwUdJrZEnnzgPzsZ1NruvLhf9qCvmSD5DLX
-    platform: SOL
+  - address: '0xbecd75bde87020a4f0d3084bcce9cde794547660'
+    platform: CFX
 crypto: true
 fiat: false
 id: NEKO1
-id_coinmarketcap: '30250'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30250.png
+id_coinmarketcap: '23856'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23856.png
 logoKey: currencies/neko1.png
-name: NEKO
+name: Maneki

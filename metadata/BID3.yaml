@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x00000000000045166c45af0fc6e4cf31d9e14b9a'
+  - address: '0x1dA01e84F3d4e6716F274c987Ae4bEE5DC3C8288'
     platform: ETH
 crypto: true
 fiat: false
 id: BID3
-id_coinmarketcap: '9236'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9236.png
+id_coinmarketcap: '6857'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6857.png
 logoKey: currencies/bid3.png
-name: TopBidder
+name: DeFi Bids

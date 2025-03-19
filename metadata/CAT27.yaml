@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x22936E12c8d409b4282588F0FE4AB5eDE5c02DeA'
-    platform: BNB
+  - address: '0x02d7a93829b365b7ad4c582dace1493aac50a290'
+    platform: ETH
 crypto: true
 fiat: false
 id: CAT27
-id_coinmarketcap: '16241'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16241.png
+id_coinmarketcap: '25328'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25328.png
 logoKey: currencies/cat27.png
-name: SlavCat
+name: Scat

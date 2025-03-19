@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x21cd589a989615a9e901328d3c089bbca16d00b2'
-    platform: ETH
+  - address: 5csfa95Xf8ebiCwP9joQ7mtC8KwFvnnejnYx5FbYpump
+    platform: SOL
 crypto: true
 fiat: false
 id: XMONEY
-id_coinmarketcap: '35036'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35036.png
+id_coinmarketcap: '35127'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35127.png
 logoKey: currencies/xmoney.png
-name: X Money
+name: XMoney Solana

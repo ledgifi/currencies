@@ -1,6 +1,8 @@
 contracts:
   - address: '0xf9774762b5D5ab5b12A96E536479e4528a574572'
     platform: CHZ
+  - address: '0x06ed14a885d0710118fc20d51efdc151a48005b3'
+    platform: CHZ
 crypto: true
 fiat: false
 id: RACING

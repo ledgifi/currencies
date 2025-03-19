@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x6012c3a742f92103d238f1c8306cf8fbcdeca8b3'
+    platform: BNB
 crypto: true
 fiat: false
 id: LC1
-id_coinmarketcap: '289'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/289.png
+id_coinmarketcap: '20170'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20170.png
 logoKey: currencies/lc1.png
-name: Limecoin
+name: LuckyChip

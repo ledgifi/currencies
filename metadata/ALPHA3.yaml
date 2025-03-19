@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x6a3e7c3c6ef65ee26975b12293ca1aad7e1daed2'
-    platform: POL
+  - address: 0xfe3afec26c59e874f3c1d60b8203cb3852d2bb2aa415df9548b8d688e6683f93::alpha::ALPHA
+    platform: SUI
 crypto: true
 fiat: false
 id: ALPHA3
-id_coinmarketcap: '19262'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19262.png
+id_coinmarketcap: '32745'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32745.png
 logoKey: currencies/alpha3.png
-name: Aavegotchi ALPHA
+name: Alpha Fi

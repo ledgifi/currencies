@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x25E0C222F687510e90B7a93650483DB59418C41A'
+  - address: '0x61A607FA127da4d61F28FE39D371Db8F2c06ca4C'
     platform: BNB
-  - address: '0x2863916c6ebdbbf0c6f02f87b7eb478509299868'
-    platform: ETH
 crypto: true
 fiat: false
 id: SST3
-id_coinmarketcap: '5987'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5987.png
+id_coinmarketcap: '20029'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20029.png
 logoKey: currencies/sst3.png
-name: SIMBA Storage Token
+name: Sexn

@@ -1,10 +1,14 @@
 contracts:
+  - address: '0x9134283aFaF6E1B45689EC0b0c82fF2B232BCb30'
+    platform: ARB
   - address: '0x314593fa9a2fa16432913dBcCC96104541d32D11'
     platform: BNB
   - address: '0x7866e48c74cbfb8183cd1a929cd9b95a7a5cb4f4'
     platform: ETH
   - address: '0x4d0def42cf57d6f27cd4983042a55dce1c9f853c'
     platform: POL
+  - address: '0x946f8b0ef009f3f5b1b35e6511a82a58b09d8d4e'
+    platform: TBA
 crypto: true
 fiat: false
 id: KIT1

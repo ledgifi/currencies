@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x12aa33065edf46d41e42945046aae8a6f5c1622f'
-    platform: BNB
+  - address: '0xf5a27e55c748bcddbfea5477cb9ae924f0f7fd2e'
+    platform: ARB
 crypto: true
 fiat: false
 id: TST3
-id_coinmarketcap: '21573'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21573.png
+id_coinmarketcap: '33450'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33450.png
 logoKey: currencies/tst3.png
-name: The Sprint Token
+name: TheStandard Token

@@ -1,10 +1,10 @@
 contracts:
-  - address: 21i1NFrAHuzcBqUzqFLJuvqsQZFJ7K1DEsbvBbs5SdUb
-    platform: SOL
+  - address: '0xb51feac0cd237084760c24e78aaba5233ce09491'
+    platform: ETH
 crypto: true
 fiat: false
 id: ME3
-id_coinmarketcap: '34543'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34543.png
+id_coinmarketcap: '14511'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14511.png
 logoKey: currencies/me3.png
-name: Magic Eden Solana
+name: MissedEverything

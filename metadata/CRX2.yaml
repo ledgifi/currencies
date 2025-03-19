@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xe243ccab9e66e6cf1215376980811ddf1eb7f689'
-    platform: CRO
+  - address: '0x526190295AFB6b8736B14E4b42744FBd95203A3a'
+    platform: CORE
 crypto: true
 fiat: false
 id: CRX2
-id_coinmarketcap: '15069'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15069.png
+id_coinmarketcap: '35224'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35224.png
 logoKey: currencies/crx2.png
-name: CRODEX
+name: COREx Network

@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xCEeE63fF114F8e8deBF5E78a14e770E5B905eA91'
+    platform: AVAX
 crypto: true
 fiat: false
 id: AIM
-id_coinmarketcap: '340'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/340.png
+id_coinmarketcap: '32404'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32404.png
 logoKey: currencies/aim.png
-name: AimCoin
+name: AI Metaverse

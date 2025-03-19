@@ -1,12 +1,10 @@
 contracts:
-  - address: '0xde8fa069707b6322ad45d001425b617f4f1930bd'
-    platform: BNB
-  - address: '0xd9b89eee86b15634c70cab51baf85615a4ab91a1'
+  - address: '0x243c56E8e740025aC6b112D7B9Af59be8eEF6E33'
     platform: ETH
 crypto: true
 fiat: false
 id: LKT1
-id_coinmarketcap: '10775'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10775.png
+id_coinmarketcap: '9030'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9030.png
 logoKey: currencies/lkt1.png
-name: Locklet
+name: Lukutex

@@ -1,10 +1,10 @@
 contracts:
-  - address: 5CB5Q7GkxxwduBgq9LboGuHpA2LMJLydy7uwKEhENnAD
-    platform: SOL
+  - address: '0x7f3fd4d04990798b6b7be4a3e9cf3b7e8955a7b7'
+    platform: BNB
 crypto: true
 fiat: false
 id: CDOGE1
-id_coinmarketcap: '33389'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33389.png
+id_coinmarketcap: '29351'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29351.png
 logoKey: currencies/cdoge1.png
-name: CDOGE
+name: cyberdoge

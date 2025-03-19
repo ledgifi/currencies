@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xe0bCcE4c349F1F31FD5d9b600106e5112e3F214d'
-    platform: TBA
+  - address: '0x3D39e1F320D0468A8BAFFe77262A3f675F5B3F63'
+    platform: ETH
 crypto: true
 fiat: false
 id: PENGU4
-id_coinmarketcap: '34547'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34547.png
+id_coinmarketcap: '34525'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34525.png
 logoKey: currencies/pengu4.png
-name: '[Fake] Pudgy Penguin (Base - pudgypenguin.io)'
+name: '[Fake] (ETH - pudgypenguin.xyz)'

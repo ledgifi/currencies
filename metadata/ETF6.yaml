@@ -1,10 +1,10 @@
 contracts:
-  - address: 2ewq5wqLH7KXFD3twSpSoW1dnYFehWKqHDAZ6C7GWNEa
-    platform: SOL
+  - address: '0x79C204732242FE9869f3EAd91Ab74A8863274915'
+    platform: ETH
 crypto: true
 fiat: false
 id: ETF6
-id_coinmarketcap: '28918'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28918.png
+id_coinmarketcap: '28279'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28279.png
 logoKey: currencies/etf6.png
-name: ETF
+name: X-ETF

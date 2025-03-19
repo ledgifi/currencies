@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x33d53608167ac3679c0fe9f7a7a725891cf0f471'
-    platform: BNB
+  - address: '0x6B01679D4c2f8E34FfAB2B822F58D0E6aeEbD441'
+    platform: ETH
 crypto: true
 fiat: false
 id: OGC
-id_coinmarketcap: '9257'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9257.png
+id_coinmarketcap: '35833'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35833.png
 logoKey: currencies/ogc.png
-name: One Get Coin
+name: OGCommunity

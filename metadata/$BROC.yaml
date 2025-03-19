@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x554b5daea72b2e2185147374954cb4721e20f4e1'
+    platform: BNB
+crypto: true
+fiat: false
+id: $BROC
+id_coinmarketcap: '36023'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36023.png
+logoKey: currencies/$broc.png
+name: Broccoli(broc.wtf)

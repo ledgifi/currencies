@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xD1B89856D82F978D049116eBA8b7F9Df2f342fF3'
-    platform: ETH
+  - address: pepo1CFNU2RXf7yXX7HNXazXwxsq8WrPvDHpHriwoLY
+    platform: SOL
 crypto: true
 fiat: false
 id: PEPO
-id_coinmarketcap: '31630'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31630.png
+id_coinmarketcap: '35391'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35391.png
 logoKey: currencies/pepo.png
-name: Peepo
+name: PEPO

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xf53c580bc4065405bc649cc077ff4f2f28528f4b'
-    platform: ETH
+  - address: '0x32475e3b6a9892c0910B2f8BF43959bEEF67Ce46'
+    platform: BNB
 crypto: true
 fiat: false
 id: BWT
-id_coinmarketcap: '2867'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2867.png
+id_coinmarketcap: '35816'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35816.png
 logoKey: currencies/bwt.png
-name: Bittwatt
+name: Blockworld

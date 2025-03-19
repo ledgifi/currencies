@@ -1,12 +1,12 @@
 contracts:
-  - address: '0x1223334444A7466fBf985B14E1F4EdAf3883bCa6'
-    platform: BNB
-  - address: '0x1223334444A7466fBf985B14E1F4EdAf3883bCa6'
+  - address: '0x761A3557184cbC07b7493da0661c41177b2f97fA'
     platform: ETH
+  - address: '0x321725ee44CB4bfA544CF45a5A585b925d30A58C'
+    platform: TBA
 crypto: true
 fiat: false
 id: GROW2
-id_coinmarketcap: '29862'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29862.png
+id_coinmarketcap: '29633'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29633.png
 logoKey: currencies/grow2.png
-name: Grow
+name: ValleyDAO

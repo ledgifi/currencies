@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x0d86eb9f43c57f6ff3bc9e23d8f9d82503f0e84b'
-    platform: ETH
+  - address: '0xdd5d49910c5d475c984ee891a928de6658d2042d'
+    platform: CORE
 crypto: true
 fiat: false
 id: MAXI3
-id_coinmarketcap: '19837'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19837.png
+id_coinmarketcap: '26206'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26206.png
 logoKey: currencies/maxi3.png
-name: Maximus Token
+name: Maxi protocol

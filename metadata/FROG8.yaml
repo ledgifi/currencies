@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xDCD103Bc6D14829C39Afc9c10c9c373CE385D2C5'
-    platform: BNB
+  - address: '0x63d2fe83fb7553baddbb3b93666efc2d178ed092'
+    platform: ETH
 crypto: true
 fiat: false
 id: FROG8
-id_coinmarketcap: '25433'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25433.png
+id_coinmarketcap: '24672'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24672.png
 logoKey: currencies/frog8.png
-name: FROG
+name: The Frog

@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x72f0a4dd1acf33aa575e6ec9a7b9184e40a8e478'
+  - address: '0x1529cFD6578979b8f35B0184d7f25e7390e8dED0'
     platform: BNB
+  - address: '0x9a834eb3932c3a40a2cfa9a1b1658fe551f04407'
+    platform: ETH
 crypto: true
 fiat: false
 id: CAT29
-id_coinmarketcap: '25746'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25746.png
+id_coinmarketcap: '26479'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26479.png
 logoKey: currencies/cat29.png
-name: Sylvester BSC
+name: CatDoge

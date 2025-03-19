@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x3fbabe48e137c9ef4f8cb517a4762add7e6242ae'
-    platform: ETH
+  - address: '0x04c6f12e06ffe8a79935accf3d3068a4581a7e95'
+    platform: BNB
 crypto: true
 fiat: false
 id: BABYPEIPEI
-id_coinmarketcap: '33074'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33074.png
+id_coinmarketcap: '32338'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32338.png
 logoKey: currencies/babypeipei.png
-name: Baby PeiPei (babypeipeicoin.com)
+name: Baby PeiPei

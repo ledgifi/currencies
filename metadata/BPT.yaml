@@ -1,13 +1,8 @@
 color: '#0f63d8'
-contracts:
-  - address: '0x0eC9F76202a7061eB9b3a7D6B59D36215A7e37da'
-    platform: ETH
-  - address: '0x6863BD30C9e313B264657B107352bA246F8Af8e0'
-    platform: POL
 crypto: true
 fiat: false
 id: BPT
-id_coinmarketcap: '10402'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10402.png
+id_coinmarketcap: '32061'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32061.png
 logoKey: currencies/bpt.png
-name: BlackPool
+name: Best Patent

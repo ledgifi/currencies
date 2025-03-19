@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x4da2b1fafb2e54a775b624e822504a4b504899f2'
-    platform: BNB
+  - address: '0x92416e32042c9e67b0771a1b00bcdf92ecb64950'
+    platform: ETH
 crypto: true
 fiat: false
 id: BDOG1
-id_coinmarketcap: '14596'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14596.png
+id_coinmarketcap: '9280'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9280.png
 logoKey: currencies/bdog1.png
-name: Big Dog Coin
+name: Bulldog Token

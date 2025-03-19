@@ -1,6 +1,10 @@
 contracts:
   - address: '0xC8A11F433512C16ED895245F34BCC2ca44eb06bd'
     platform: BNB
+  - address: '0x6DE835B76937283bE8ac98fbd6a41CA44A0431de'
+    platform: POL
+  - address: Bvcrp7FSz5MmhDNi99myBXZnWrMwDPj1rzd1fcDDbdB8
+    platform: SOL
 crypto: true
 fiat: false
 id: KSN

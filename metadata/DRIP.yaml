@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xB8A914A00664e9361eaE187468EfF94905dfbC15'
-    platform: ETH
+  - address: FrkF4GNdqKZLuzWXTk1imqMJRGK9uxCRE3PaBKZbpump
+    platform: SOL
 crypto: true
 fiat: false
 id: DRIP
-id_coinmarketcap: '32467'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32467.png
+id_coinmarketcap: '36032'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36032.png
 logoKey: currencies/drip.png
-name: DRIP
+name: Metadrip

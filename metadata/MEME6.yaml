@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xE932902b2f8B7d4959A311b16B2672501C42b3F7'
-    platform: BNB
+  - address: ibc/67C89B8B0A70C08F093C909A4DD996DD10E0494C87E28FD9A551697BF173D4CA
+    platform: OSMO
 crypto: true
 fiat: false
 id: MEME6
-id_coinmarketcap: '18938'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18938.png
+id_coinmarketcap: '23258'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23258.png
 logoKey: currencies/meme6.png
-name: Memeverse
+name: Meme Network

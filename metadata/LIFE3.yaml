@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x8640353CDc9778DEaB0dF45D12FB3013dEAC079C'
-    platform: ETH
+  - address: 7r9fn99PcPj8YeT9f5i4e9hFwCFGayqyKBKU28Zrpump
+    platform: SOL
 crypto: true
 fiat: false
 id: LIFE3
-id_coinmarketcap: '16483'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16483.png
+id_coinmarketcap: '34129'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34129.png
 logoKey: currencies/life3.png
-name: DEVITA
+name: Life

@@ -1,14 +1,10 @@
 contracts:
-  - address: '0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a'
-    platform: BNB
-  - address: '0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a'
-    platform: FTM
-  - address: '0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a'
-    platform: POL
+  - address: Uuc6hiKT9Y6ASoqs2phonGGw2LAtecfJu9yEohppzWH
+    platform: SOL
 crypto: true
 fiat: false
 id: BABY3
-id_coinmarketcap: '20971'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20971.png
+id_coinmarketcap: '14253'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14253.png
 logoKey: currencies/baby3.png
-name: Babylonia
+name: Baby Samo Coin

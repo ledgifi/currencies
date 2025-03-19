@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xFc76ba9157Ee5D079De8c1e969ee54096Aaa6C9c'
-    platform: BNB
+  - address: '0xED7Fa212E100DFb3b13B834233E4B680332a3420'
+    platform: ETH
 crypto: true
 fiat: false
 id: CRED1
-id_coinmarketcap: '24445'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24445.png
+id_coinmarketcap: '7297'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7297.png
 logoKey: currencies/cred1.png
-name: CRED COIN PAY
+name: Street Cred

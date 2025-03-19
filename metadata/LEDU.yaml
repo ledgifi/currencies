@@ -1,8 +1,6 @@
 contracts:
-  - address: '0x887d9c01fff04022da9c6d64a65a481a9e5d1fca'
+  - address: '0x887D9c01FFf04022da9c6D64a65a481a9e5D1FCa'
     platform: BNB
-  - address: '0xc741f06082aa47f93729070ad0dd95e223bda091'
-    platform: ETH
 crypto: true
 fiat: false
 id: LEDU

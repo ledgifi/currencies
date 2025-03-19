@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x44d7f403B0451B991df1378827982C883c390719'
+    platform: BNB
 crypto: true
 fiat: false
 id: TIT
-id_coinmarketcap: '513'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/513.png
+id_coinmarketcap: '35758'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35758.png
 logoKey: currencies/tit.png
-name: Titcoin
+name: TITAN

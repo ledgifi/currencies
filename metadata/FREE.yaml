@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd'
     platform: ETH
+  - address: FrEeWJreTHUyPgdJ3DWrdRg6X8qogF5zG5qdxMCgXtTy
+    platform: SOL
 crypto: true
 fiat: false
 id: FREE

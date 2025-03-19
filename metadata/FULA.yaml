@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x92217cCaEDBdbc54C76c15feA18823db1558fDc9'
+    platform: ETH
+  - address: '0x9e12735d77c72c5C3670636D428f2F3815d8A4cB'
+    platform: TBA
 crypto: true
 fiat: false
 id: FULA

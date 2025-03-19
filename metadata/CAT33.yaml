@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x342143A0Fb1912fc499C2df605491535F80438C8'
+  - address: '0x7Df083f3b16a37Ee91E89d4a11D62053AAD331a4'
     platform: BNB
+  - address: DL8ff7SMKMo257D6i1EJTxN974CN8uikJAv4KM29XoH8
+    platform: SOL
 crypto: true
 fiat: false
 id: CAT33
-id_coinmarketcap: '30247'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30247.png
+id_coinmarketcap: '31621'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31621.png
 logoKey: currencies/cat33.png
-name: CatCoin Inu
+name: Cat Finance

@@ -1,10 +1,10 @@
 contracts:
-  - address: CymqTrLSVZ97v87Z4W3dkF4ipZE1kYyeasmN2VckUL4J
-    platform: SOL
+  - address: '0x61fd1c62551850d0c04c76fce614cbced0094498'
+    platform: ETH
 crypto: true
 fiat: false
 id: IDK
-id_coinmarketcap: '30075'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30075.png
+id_coinmarketcap: '5580'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5580.png
 logoKey: currencies/idk.png
-name: i dont know
+name: IDK

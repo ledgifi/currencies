@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xefb2beb3b6325855bc257bad9166bf2687c68cc1'
-    platform: ETH
+  - address: '0x761cb807bfbf14a4f4ba980f29f43f009f6a18c0'
+    platform: MOVR
 crypto: true
 fiat: false
 id: MD
-id_coinmarketcap: '33573'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33573.png
+id_coinmarketcap: '14927'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14927.png
 logoKey: currencies/md.png
-name: MetaDeck
+name: MoonDao

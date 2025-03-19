@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x3a1138075bd97a33f23a87824b811146fa44288e'
-    platform: CRO
+  - address: '0x85a3b9f36fe35f86ebea072a682e506eeb7c43ae'
+    platform: ETH
 crypto: true
 fiat: false
 id: MINO2
-id_coinmarketcap: '17171'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17171.png
+id_coinmarketcap: '33956'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33956.png
 logoKey: currencies/mino2.png
-name: Minotaur
+name: MINO

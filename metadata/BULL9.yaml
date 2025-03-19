@@ -1,10 +1,10 @@
 contracts:
-  - address: CYtPJQqzYQT7QVW7kNZA15GQpbwpt78XAJ38UtQ7udRK
-    platform: SOL
+  - address: '0xb439B8731ee047799019eF0b745a51d256B116Af'
+    platform: ETH
 crypto: true
 fiat: false
 id: BULL9
-id_coinmarketcap: '34940'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34940.png
+id_coinmarketcap: '12961'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12961.png
 logoKey: currencies/bull9.png
-name: SOL BULL
+name: BullionFx

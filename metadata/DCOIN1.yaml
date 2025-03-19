@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x571183a3be52ba7f1b57dbe9a3e057c09f9da8bc'
-    platform: BNB
+  - address: '0xf1BB41F9eD87e6c7E1F70e921b7B4bee1Df7Ae9c'
+    platform: ETH
 crypto: true
 fiat: false
 id: DCOIN1
-id_coinmarketcap: '30364'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30364.png
+id_coinmarketcap: '35409'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35409.png
 logoKey: currencies/dcoin1.png
-name: Crypto Delivery
+name: Dogcoin

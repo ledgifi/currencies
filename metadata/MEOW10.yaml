@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x46F90D865E742B8e9a62FF8277B5cd70740CB916'
-    platform: ETH
+  - address: HAgX1HSfok8DohiNCS54FnC2UJkDSrRVnT38W3iWFwc8
+    platform: SOL
 crypto: true
 fiat: false
 id: MEOW10
-id_coinmarketcap: '9811'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9811.png
+id_coinmarketcap: '14116'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14116.png
 logoKey: currencies/meow10.png
-name: CatJAM
+name: Solcats

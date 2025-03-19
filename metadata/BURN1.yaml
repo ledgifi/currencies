@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xa2fe5e51729be71261bcf42854012827bc44c044'
-    platform: ETH
+  - address: egjwt-lqaaa-aaaak-qi2aa-cai
+    platform: ICP
 crypto: true
 fiat: false
 id: BURN1
-id_coinmarketcap: '19755'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19755.png
+id_coinmarketcap: '33309'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33309.png
 logoKey: currencies/burn1.png
-name: Burn
+name: MSQ Cycle Burn

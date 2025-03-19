@@ -3,6 +3,8 @@ contracts:
     platform: ARB
   - address: '0xa3F4341C3fEf5963AB04135D2014AC7d68222E19'
     platform: ETH
+  - address: 7cHJTPkhnCKesVFijmMXVFVY4HjpkLd9qYjg6neb74yD
+    platform: SOL
   - address: '0x04055057677807d2a53d2b25a80ff3b4d932ae1a'
     platform: TBA
 crypto: true

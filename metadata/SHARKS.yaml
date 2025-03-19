@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7ff4588aa09924d374c118499c3b343b566b2901'
     platform: CHZ
+  - address: '0x1f5Ed1182b673338ECff0eeaB13ed79cEaf775f5'
+    platform: CHZ
 crypto: true
 fiat: false
 id: SHARKS

@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x8800E9902879AC7fB9823086d1749030C9a5EB91'
+    platform: BNB
 crypto: true
 fiat: false
 id: BBL1
-id_coinmarketcap: '422'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/422.png
+id_coinmarketcap: '16673'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16673.png
 logoKey: currencies/bbl1.png
-name: BitBlock
+name: Basket Legends

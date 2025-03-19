@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x0B048D6e01a6b9002C291060bF2179938fd8264c'
-    platform: POL
+  - address: 2sCUCJdVkmyXp4dT8sFaA9LKgSMK4yDPi9zLHiwXpump
+    platform: SOL
 crypto: true
 fiat: false
 id: ALPHA1
-id_coinmarketcap: '12179'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12179.png
+id_coinmarketcap: '35484'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35484.png
 logoKey: currencies/alpha1.png
-name: PolyAlpha Finance
+name: Alpha

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xcBa78d126f0B1FeDa0c538bcAf4C852A7a171099'
-    platform: ETH
+  - address: '0x4515A45337F461A11Ff0FE8aBF3c606AE5dC00c9'
+    platform: MNT
 crypto: true
 fiat: false
 id: MOE1
-id_coinmarketcap: '25542'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25542.png
+id_coinmarketcap: '28852'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28852.png
 logoKey: currencies/moe1.png
-name: MOE
+name: Merchant Moe

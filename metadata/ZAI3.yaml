@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x9d1233cc46795E94029fDA81aAaDc1455D510f15'
+    platform: ETH
+crypto: true
+fiat: false
+id: ZAI3
+id_coinmarketcap: '8192'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8192.png
+logoKey: currencies/zai3.png
+name: Zero Collateral Dai

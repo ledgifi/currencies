@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: Em8WF6pg9FmKDy1dXkWhXxpgmfhj5Bes3ZCE8PCCJSHt
     platform: SOL
+  - address: '0x1eefd52f6e218f262da7b0089b9e343a1eb5c9f4'
+    platform: TBA
 crypto: true
 fiat: false
 id: SHRUB

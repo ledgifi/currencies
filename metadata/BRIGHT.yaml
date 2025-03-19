@@ -1,6 +1,10 @@
 contracts:
   - address: '0xbeab712832112bd7664226db7cd025b153d3af55'
     platform: ETH
+  - address: '0xb7e10110eedca190da51b22e90a2caee014c8140'
+    platform: GNO
+  - address: '0xa26a4611b8313bbb25ccb1a9e227ecc536a2f8f7'
+    platform: TBA
 crypto: true
 fiat: false
 id: BRIGHT

@@ -1,10 +1,12 @@
 contracts:
-  - address: GcDzJd4BMZfCqFbUqW2f6emJZHBciYCVruMeqik8gj3z
-    platform: SOL
+  - address: '0x699060b76f0269c19171b4e193c0a792fa25cad7'
+    platform: BNB
+  - address: '0x699060b76f0269c19171b4e193c0a792fa25cad7'
+    platform: ETH
 crypto: true
 fiat: false
 id: RAGE3
-id_coinmarketcap: '11812'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11812.png
+id_coinmarketcap: '26192'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26192.png
 logoKey: currencies/rage3.png
-name: The Rare Age
+name: Rage

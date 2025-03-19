@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xe7976c4Efc60d9f4C200Cc1bCEF1A1e3B02c73e7'
-    platform: ETH
+  - address: oraim8c9d1nkfuQk9EzGYEUGxqL3MHQYndRw1huVo5h
+    platform: SOL
 crypto: true
 fiat: false
 id: MAX1
-id_coinmarketcap: '5067'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5067.png
+id_coinmarketcap: '35410'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35410.png
 logoKey: currencies/max1.png
-name: MAX Exchange Token
+name: MAX

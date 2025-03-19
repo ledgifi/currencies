@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x9B11EFcAAA1890f6eE52C6bB7CF8153aC5d74139'
-    platform: ETH
+  - address: 8QhSMvYfXome11VgxFMD75hNbGQXW5QTnjA8khENkY2c
+    platform: SOL
 crypto: true
 fiat: false
 id: ATM2
-id_coinmarketcap: '2015'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2015.png
+id_coinmarketcap: '35905'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35905.png
 logoKey: currencies/atm2.png
-name: ATMChain
+name: Automatic Treasury Machine

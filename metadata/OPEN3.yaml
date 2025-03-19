@@ -1,12 +1,10 @@
 contracts:
-  - address: '0xabae871b7e3b67aeec6b46ae9fe1a91660aadac5'
-    platform: BNB
-  - address: '0x69e8b9528CABDA89fe846C67675B5D73d463a916'
-    platform: ETH
+  - address: '0x58cb98a966f62aa6f2190eb3aa03132a0c3de3d5'
+    platform: ARB
 crypto: true
 fiat: false
 id: OPEN3
-id_coinmarketcap: '7783'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7783.png
+id_coinmarketcap: '13206'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13206.png
 logoKey: currencies/open3.png
-name: Open Governance Token
+name: OpenWorld

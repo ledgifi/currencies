@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x8ce7fc007fc5d1dea63fed829e11eeddd6406dff'
-    platform: BNB
+  - address: '0xf2f9a7e93f845b3ce154efbeb64fb9346fcce509'
+    platform: ETH
+  - address: '0x00d5149cdf7cec8725bf50073c51c4fa58ecca12'
+    platform: POL
 crypto: true
 fiat: false
 id: POWER4
-id_coinmarketcap: '17437'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17437.png
+id_coinmarketcap: '5660'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5660.png
 logoKey: currencies/power4.png
-name: Civic Power
+name: UniPower

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x2659cb928f6f705c1e574464361882fd6e92e1f9'
-    platform: BNB
+  - address: '0x51318b7d00db7acc4026c88c3952b66278b6a67f'
+    platform: ARB
 crypto: true
 fiat: false
 id: PLS2
-id_coinmarketcap: '16411'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16411.png
+id_coinmarketcap: '19964'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19964.png
 logoKey: currencies/pls2.png
-name: iPulse
+name: PlutusDAO

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xf5a27e55c748bcddbfea5477cb9ae924f0f7fd2e'
-    platform: ARB
+  - address: '0x86Bb94DdD16Efc8bc58e6b056e8df71D9e666429'
+    platform: BNB
 crypto: true
 fiat: false
 id: TST1
-id_coinmarketcap: '33450'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33450.png
+id_coinmarketcap: '35647'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35647.png
 logoKey: currencies/tst1.png
-name: TheStandard Token
+name: Test

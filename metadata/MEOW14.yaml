@@ -1,10 +1,10 @@
 contracts:
-  - address: 1dd1a7dde0e1e82761325ee5f4719d0d4b7c24dfba77d9bee01eed4b
-    platform: ADA
+  - address: '0x3AaD7cBBb2ab50946436215b19202C42E9156fA4'
+    platform: ETH
 crypto: true
 fiat: false
 id: MEOW14
-id_coinmarketcap: '17714'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17714.png
+id_coinmarketcap: '26652'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26652.png
 logoKey: currencies/meow14.png
-name: MeowSwap
+name: MEOW

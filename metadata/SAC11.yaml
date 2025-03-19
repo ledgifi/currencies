@@ -1,6 +1,8 @@
 contracts:
   - address: '0x3e27A81e83567aD1A24ae67dEec3dAda8ce2c3ec'
     platform: ETH
+  - address: '0xeDd666802003D178C416b4e5DD6A82F76C2C7554'
+    platform: POL
 crypto: true
 fiat: false
 id: SAC11

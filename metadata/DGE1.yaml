@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x2D2Fc70fBE48068fC3625A6B37085E3d247F1dbd'
-    platform: ETH
+  - address: '0x467f4773879a3917ddc2a6befa430c5d8ac22bee'
+    platform: BNB
 crypto: true
 fiat: false
 id: DGE1
-id_coinmarketcap: '35058'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35058.png
+id_coinmarketcap: '14425'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14425.png
 logoKey: currencies/dge1.png
-name: Dept. of Gov. Efficiency
+name: DragonSea

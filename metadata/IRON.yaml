@@ -1,3 +1,12 @@
+contracts:
+  - address: '0xda4ee8a7c25bafe80e03013da7c28a063bee8d65'
+    platform: ARB
+  - address: '0x1b2b24bb39c20cb2cd9704b3e68f3d6a57ab3747'
+    platform: ETH
+  - address: '0xd554d950e99e7f3b6dc3c8748cfb66ade4818206'
+    platform: OP
+  - address: '0x166e70941262ae7cbf9df5c8897a6242c546457d'
+    platform: TBA
 crypto: true
 fiat: false
 id: IRON

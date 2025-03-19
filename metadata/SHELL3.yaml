@@ -1,12 +1,7 @@
-contracts:
-  - address: '0xe47ba52f326806559c1deC7ddd997F6957d0317D'
-    platform: ARB
-  - address: '0x8dcaec45365e5ada5676073a07b418c2f538145a'
-    platform: ETH
 crypto: true
 fiat: false
 id: SHELL3
-id_coinmarketcap: '7499'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7499.png
+id_coinmarketcap: '969'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/969.png
 logoKey: currencies/shell3.png
-name: Shell Protocol
+name: ShellPay

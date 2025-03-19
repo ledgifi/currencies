@@ -1,10 +1,12 @@
 contracts:
-  - address: '0xd966cc309898847ded8741deb877d16a7fae4d2c'
-    platform: BNB
+  - address: '0xd3E133a0A14Bb8B595e5Fbf9851c7c783685BA69'
+    platform: ARB
+  - address: '0xd3E133a0A14Bb8B595e5Fbf9851c7c783685BA69'
+    platform: ETH
 crypto: true
 fiat: false
 id: LKT4
-id_coinmarketcap: '23076'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23076.png
+id_coinmarketcap: '22739'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22739.png
 logoKey: currencies/lkt4.png
-name: Lux King Tech
+name: LOCKER Token

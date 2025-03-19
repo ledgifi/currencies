@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xb627d12f7024c78b1139cbb31348393b3d37774d'
-    platform: ETH
+  - address: '0x2D8269Dae518e78D95110dbFADf1fb479b8152e7'
+    platform: BNB
 crypto: true
 fiat: false
 id: GCC3
-id_coinmarketcap: '6006'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6006.png
+id_coinmarketcap: '29909'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29909.png
 logoKey: currencies/gcc3.png
-name: Game Currency Coin
+name: GCCOIN

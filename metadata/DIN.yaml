@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x3Ab1A5f76E12202d1AD1548A08a799501581Da4E'
+    platform: BNB
 crypto: true
 fiat: false
 id: DIN
-id_coinmarketcap: '3263'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3263.png
+id_coinmarketcap: '33027'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33027.png
 logoKey: currencies/din.png
-name: Dinero
+name: DIN

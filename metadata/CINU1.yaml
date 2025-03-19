@@ -1,12 +1,10 @@
 contracts:
-  - address: '0xdfe6891ce8e5a5c7cf54ffde406a6c2c54145f71'
-    platform: BNB
-  - address: '0xAc8cC32Fab2368a1A095722AAf760C45f578E17B'
-    platform: ETH
+  - address: '0x7264610a66eca758a8ce95cf11ff5741e1fd0455'
+    platform: CANTO
 crypto: true
 fiat: false
 id: CINU1
-id_coinmarketcap: '15230'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15230.png
+id_coinmarketcap: '21554'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21554.png
 logoKey: currencies/cinu1.png
-name: Cheems Inu (old)
+name: Canto Inu

@@ -1,10 +1,12 @@
 contracts:
-  - address: '0xF3c3745894d979F8F85761bd060520BDdbc464e9'
-    platform: ETH
+  - address: '0x9D8c68F185A04314DDC8B8216732455e8dbb7E45'
+    platform: CRO
+  - address: 7kN5FQMD8ja4bzysEgc5FXmryKd6gCgjiWnhksjHCFb3
+    platform: SOL
 crypto: true
 fiat: false
 id: LION
-id_coinmarketcap: '31772'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31772.png
+id_coinmarketcap: '35954'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35954.png
 logoKey: currencies/lion.png
-name: King Of Meme
+name: Loaded Lions

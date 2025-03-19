@@ -1,10 +1,12 @@
 contracts:
-  - address: 3zDsHx1828svTTPPiLTGgYWXJikHUh9N3gyuBPeHC78A
-    platform: SOL
+  - address: '0xf1b8a242157bfbb6397e7433af1ed6e638e2d82d'
+    platform: BNB
+  - address: '0x8424c5ac326834b404742de0067bcb654e86be30'
+    platform: ETH
 crypto: true
 fiat: false
 id: SCAT3
-id_coinmarketcap: '32639'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32639.png
+id_coinmarketcap: '8819'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8819.png
 logoKey: currencies/scat3.png
-name: SimonsCat
+name: Sad Cat Token

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xad2b16869e9822943745d17e6bf49ff8ba46bdcb'
     platform: CHZ
+  - address: '0xB407a167fE99eb97970e41b2608d0d9484C489C8'
+    platform: CHZ
 crypto: true
 fiat: false
 id: APL1

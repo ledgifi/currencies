@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xCAcd6fd266aF91b8AeD52aCCc382b4e165586E29'
+    platform: ETH
+crypto: true
+fiat: false
+id: FRXUSD
+id_coinmarketcap: '36039'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36039.png
+logoKey: currencies/frxusd.png
+name: Frax USD

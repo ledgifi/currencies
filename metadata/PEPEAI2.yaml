@@ -1,10 +1,10 @@
 contracts:
-  - address: 4EVDa9omQgaaMxHiZukf2F3RMZfEMb1r1jacdiJrT6N8
-    platform: SOL
+  - address: '0x87053aFEd327D6F77fF3e6dC4744AA9933ae9B2E'
+    platform: BNB
 crypto: true
 fiat: false
 id: PEPEAI2
-id_coinmarketcap: '35089'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35089.png
+id_coinmarketcap: '29747'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29747.png
 logoKey: currencies/pepeai2.png
-name: Pepe AI Agent
+name: Pepe AI (pepeai.biz)

@@ -1,10 +1,10 @@
 contracts:
-  - address: KoLzhrMy8VbHYttSB2tLRRmAB5bzzbAR3r5zx9oye87
-    platform: SOL
+  - address: '0xd9eadE302456AfF8BF8d87fF0EF77dAb1fB9230f'
+    platform: BNB
 crypto: true
 fiat: false
 id: KOL
-id_coinmarketcap: '32758'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32758.png
+id_coinmarketcap: '22300'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22300.png
 logoKey: currencies/kol.png
-name: Kollectiv
+name: King of Legends

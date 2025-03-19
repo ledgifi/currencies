@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0'
-    platform: AVAX
+  - address: '0x19247618d79e3fc4d4866169789e4b8eedef52e6'
+    platform: ETH
 crypto: true
 fiat: false
 id: CAI2
-id_coinmarketcap: '21726'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21726.png
+id_coinmarketcap: '33768'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33768.png
 logoKey: currencies/cai2.png
-name: Colony Avalanche Index
+name: Chasm

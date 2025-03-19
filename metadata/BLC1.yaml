@@ -1,10 +1,7 @@
-contracts:
-  - address: '0x326caf6980d4e9161Cfb3c55f195B3D825c266D4'
-    platform: ETH
 crypto: true
 fiat: false
 id: BLC1
-id_coinmarketcap: '7291'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7291.png
+id_coinmarketcap: '125'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/125.png
 logoKey: currencies/blc1.png
-name: BullionsChain
+name: Blakecoin

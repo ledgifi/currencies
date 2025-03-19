@@ -1,16 +1,10 @@
 contracts:
-  - address: '0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B'
-    platform: BNB
-  - address: '0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B'
-    platform: ETH
-  - address: '0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B'
-    platform: OP
-  - address: '0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b'
-    platform: POL
+  - address: '0xd9ea811a51d6fe491d27c2a0442b3f577852874d'
+    platform: TBA
 crypto: true
 fiat: false
 id: BOB7
-id_coinmarketcap: '21882'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21882.png
+id_coinmarketcap: '34903'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34903.png
 logoKey: currencies/bob7.png
-name: BOB
+name: Breakout Bro by Virtuals

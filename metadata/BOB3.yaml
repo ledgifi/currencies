@@ -1,10 +1,10 @@
 contracts:
-  - address: 7pail-xaaaa-aaaas-aabmq-cai
-    platform: ICP
+  - address: '0x4f863274e5A7bB1958F3d8891D7635c72C44F0Fe'
+    platform: BNB
 crypto: true
 fiat: false
 id: BOB3
-id_coinmarketcap: '33308'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33308.png
+id_coinmarketcap: '36072'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36072.png
 logoKey: currencies/bob3.png
-name: BOB
+name: Bob The Builder

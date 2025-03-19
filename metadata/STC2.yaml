@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xd9361d306A9e9A43f5883a064038220EF0D46fB0'
+    platform: BNB
 crypto: true
 fiat: false
 id: STC2
-id_coinmarketcap: '10202'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10202.png
+id_coinmarketcap: '21204'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21204.png
 logoKey: currencies/stc2.png
-name: Starcoin
+name: Styleo Coin

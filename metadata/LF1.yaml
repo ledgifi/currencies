@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x5684a087C739A2e845F4AaAaBf4FBd261edc2bE8'
-    platform: AVAX
+  - address: '0x88665a7556e1b3c939d6661248116886845249a8'
+    platform: ETH
 crypto: true
 fiat: false
 id: LF1
-id_coinmarketcap: '15289'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15289.png
+id_coinmarketcap: '9160'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9160.png
 logoKey: currencies/lf1.png
-name: Life DAO
+name: Linkflow Finance

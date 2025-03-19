@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x0A10D108E2d81ccC793E37b56206C84bF96ddc57'
+    platform: AVAX
 crypto: true
 fiat: false
 id: XSEED
-id_coinmarketcap: '897'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/897.png
+id_coinmarketcap: '35412'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35412.png
 logoKey: currencies/xseed.png
-name: BitSeeds
+name: MXS Games

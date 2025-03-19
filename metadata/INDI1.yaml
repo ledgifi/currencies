@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xe8c09672cfb9cfce6e2edbb01057d9fa569f97c1'
-    platform: ETH
+  - address: '0x4EEC869d847A6d13b0F6D1733C5DEC0d1E741B4f'
+    platform: S
 crypto: true
 fiat: false
 id: INDI1
-id_coinmarketcap: '2519'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2519.png
+id_coinmarketcap: '35037'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35037.png
 logoKey: currencies/indi1.png
-name: Indicoin
+name: Indi

@@ -1,8 +1,14 @@
 contracts:
+  - address: ' 0xe4dB3652aC7F88c5712717fd774676BF4aa56769'
+    platform: ARB
   - address: '0x8503a7b00b4b52692cc6c14e5b96f142e30547b7'
     platform: ETH
+  - address: '0xDd462e9399624DFCF73018793BD50a7ef47940b9'
+    platform: OP
   - address: '0x6aca77cf3bab0c4e8210a09b57b07854a995289a'
     platform: POL
+  - address: ' 0xD9dF947d2A8f9c28c37Af7Cb7C526022Fb14Efa2'
+    platform: TBA
 crypto: true
 fiat: false
 id: MEED

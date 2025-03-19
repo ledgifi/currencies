@@ -1,6 +1,8 @@
 contracts:
   - address: '0x689dee82d191dac845599f46393c2efe4b5896a2'
     platform: CHZ
+  - address: '0x6d72034d7508d16988bf84638d51592a8c02887b'
+    platform: CHZ
 crypto: true
 fiat: false
 id: VASCO

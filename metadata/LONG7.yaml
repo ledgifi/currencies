@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x0080428794a79a40ae03cf6E6C1D56bd5467a4A2'
+    platform: ETH
 crypto: true
 fiat: false
 id: LONG7
-id_coinmarketcap: '7668'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7668.png
+id_coinmarketcap: '28273'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28273.png
 logoKey: currencies/long7.png
-name: LONG COIN
+name: LONG (ETH)

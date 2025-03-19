@@ -1,10 +1,12 @@
 contracts:
-  - address: EYzraAuzjmriL1d5hw3NNzaE95g8nPJbqasbmooNSjTy
-    platform: SOL
+  - address: '0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1'
+    platform: BNB
+  - address: '0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1'
+    platform: ETH
 crypto: true
 fiat: false
 id: TBC2
-id_coinmarketcap: '32456'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32456.png
+id_coinmarketcap: '10128'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10128.png
 logoKey: currencies/tbc2.png
-name: The Boys Club
+name: TeraBlock

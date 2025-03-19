@@ -1,14 +1,10 @@
 contracts:
-  - address: '0x28b9aed756de31b6b362aa0f23211d13093ebb79'
-    platform: BNB
-  - address: '0xe8b0df74192cca9c4de66f23653476f6e6cd1d98'
-    platform: CORE
-  - address: '0xcc4140d69f2df353f44f3d5305dd351abd8b36be'
-    platform: ETH
+  - address: EMVgDAthRCUEFQwzKYX3fYTgikmeaw88i2MfjgBFPhkN
+    platform: SOL
 crypto: true
 fiat: false
 id: LUNG
 id_coinmarketcap: '20823'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20823.png
 logoKey: currencies/lung.png
-name: LungDefi
+name: Lunagens

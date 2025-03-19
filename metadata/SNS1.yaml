@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xD702993613686Ab0f706Ef07883870a97D36fdcf'
-    platform: FTM
+  - address: '0xF3A587d1AC967b40DB59223434BAf0C6e11588EA'
+    platform: BNB
 crypto: true
 fiat: false
 id: SNS1
-id_coinmarketcap: '34344'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34344.png
+id_coinmarketcap: '28709'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28709.png
 logoKey: currencies/sns1.png
-name: Sonic Name Service
+name: Sonorus

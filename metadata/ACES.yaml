@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x7bef710a5759d197ec0bf621c3df802c2d60d848'
+    platform: ETH
 crypto: true
 fiat: false
 id: ACES
-id_coinmarketcap: '1351'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1351.png
+id_coinmarketcap: '8863'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8863.png
 logoKey: currencies/aces.png
-name: Aces
+name: Aces.fun

@@ -1,10 +1,10 @@
 contracts:
-  - address: GEaSgC9nNMFjtBb5p6GQM6xEB7hWGETGrHL9nyJLV8pP
-    platform: SOL
+  - address: '0x880226cbcce551eeafd18c9a9e883c85811b82fc'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRUMP20247
-id_coinmarketcap: '30274'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30274.png
+id_coinmarketcap: '33000'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33000.png
 logoKey: currencies/trump20247.png
-name: TRUMP2024
+name: Trump2024

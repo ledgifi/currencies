@@ -1,12 +1,10 @@
 contracts:
-  - address: '0xa89Bf95c5f15a847c8Eb8D348cd7feD719AD7D80'
-    platform: BNB
-  - address: '0xa89bf95c5f15a847c8eb8d348cd7fed719ad7d80'
-    platform: ETH
+  - address: 99ouK5YUK3JPGCPX9joNtHsMU7NPpU7w91JN4kdQ97po
+    platform: SOL
 crypto: true
 fiat: false
 id: AI7
-id_coinmarketcap: '23955'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23955.png
+id_coinmarketcap: '28847'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28847.png
 logoKey: currencies/ai7.png
-name: Chat AI
+name: AI

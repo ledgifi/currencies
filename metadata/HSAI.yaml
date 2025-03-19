@@ -1,6 +1,8 @@
 contracts:
   - address: '0xaa3ACc21D184cEF6F7fC3385FBdB79575231aFbA'
     platform: ETH
+  - address: '0x11A2021368f518Fa390d20308076B25C57292e83'
+    platform: TBA
 crypto: true
 fiat: false
 id: HSAI

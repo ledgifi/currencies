@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x4E69365007eE6560D01D174B608bF9ac13D58F37'
-    platform: ETH
+  - address: 4yfM8Ndr6ZpQiA9US6WUzHdZzCTUaf1THyKBTD5ppump
+    platform: SOL
 crypto: true
 fiat: false
 id: QUANT2
-id_coinmarketcap: '27149'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27149.png
+id_coinmarketcap: '34155'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34155.png
 logoKey: currencies/quant2.png
-name: Quant Finance
+name: Gen Z Quant

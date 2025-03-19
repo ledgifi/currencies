@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xD5CBaE3F69B0640724A6532cC81BE9C798A755A7'
-    platform: BNB
+  - address: '0xD702993613686Ab0f706Ef07883870a97D36fdcf'
+    platform: FTM
 crypto: true
 fiat: false
 id: SNS4
-id_coinmarketcap: '22404'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22404.png
+id_coinmarketcap: '34344'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34344.png
 logoKey: currencies/sns4.png
-name: Melody
+name: Sonic Name Service

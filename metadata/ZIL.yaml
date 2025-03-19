@@ -2,7 +2,11 @@ color: '#49c1bf'
 contracts:
   - address: '0xb86abcb37c3a4b64f74f59301aff131a1becc787'
     platform: BNB
+  - address: '0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27'
+    platform: ETH
   - address: zil1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq9yf6pz
+    platform: ZIL
+  - address: '0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27'
     platform: ZIL
 crypto: true
 decimals: 8

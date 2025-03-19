@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x76574c7b61b07ba14eace42e60cc73a08038da85'
-    platform: ETH
+  - address: '0x0c088bed7207E5E37BD3022d58aE40D4a3490ABc'
+    platform: BNB
 crypto: true
 fiat: false
 id: ME4
-id_coinmarketcap: '6026'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6026.png
+id_coinmarketcap: '19227'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19227.png
 logoKey: currencies/me4.png
-name: All.me
+name: MOONEYE

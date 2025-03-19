@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xf184fcce25573df753e52914e152eae5441b6e1b'
-    platform: TBA
+  - address: '0x6efb32bc7893b793603e39643d86594ce3638157'
+    platform: ETH
 crypto: true
 fiat: false
 id: CNDL1
-id_coinmarketcap: '18327'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18327.png
+id_coinmarketcap: '31179'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31179.png
 logoKey: currencies/cndl1.png
-name: Candle
+name: CandleAI

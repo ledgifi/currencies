@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x36b60a425b82483004487abc7adcb0002918fc56'
-    platform: ETH
+  - address: '0xEDf647326007E64d94B0Ee69743350F3736E392C'
+    platform: AVAX
 crypto: true
 fiat: false
 id: TICO
-id_coinmarketcap: '4828'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4828.png
+id_coinmarketcap: '30767'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30767.png
 logoKey: currencies/tico.png
-name: TICOEX Token
+name: Funtico

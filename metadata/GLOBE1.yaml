@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x17740e230cb5ac3f6eb16135fa1ce02baf9a07f2acfa884b33b0fb2f1bc2b91d::coin_factory::Emojicoin
+    platform: APT
+crypto: true
+fiat: false
+id: GLOBE1
+id_coinmarketcap: '35667'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35667.png
+logoKey: currencies/globe1.png
+name: Globe with Meridians

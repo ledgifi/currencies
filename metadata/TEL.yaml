@@ -4,6 +4,8 @@ contracts:
     platform: ETH
   - address: '0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32'
     platform: POL
+  - address: '0x09bE1692ca16e06f536F0038fF11D1dA8524aDB1'
+    platform: TBA
 crypto: true
 fiat: false
 id: TEL

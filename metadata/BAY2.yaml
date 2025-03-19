@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x5F64b52B76c708030185aA79a3Af383A96c2A6D3'
-    platform: BNB
+  - address: '0x18706c65b12595EDB43643214EacDb4F618DD166'
+    platform: AVAX
 crypto: true
 fiat: false
 id: BAY2
-id_coinmarketcap: '13598'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13598.png
+id_coinmarketcap: '23256'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23256.png
 logoKey: currencies/bay2.png
-name: CryptoBay
+name: Baymax Finance

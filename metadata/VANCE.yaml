@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x9b465aaB9e8F325418F222C37de474b1bD38ded2'
-    platform: ETH
+  - address: FXcsLmuLtGw8CtHJRVE7G3aN9XvkN6HY2ViytJDaDhsC
+    platform: SOL
 crypto: true
 fiat: false
 id: VANCE
-id_coinmarketcap: '32277'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32277.png
+id_coinmarketcap: '35993'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35993.png
 logoKey: currencies/vance.png
-name: JD Vance
+name: Vance Meme

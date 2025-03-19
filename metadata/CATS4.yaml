@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x8d20f0142dcCe227d3E9b284bcd6B598fdD34E16'
+    platform: ETH
 crypto: true
 fiat: false
 id: CATS4
-id_coinmarketcap: '5874'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5874.png
+id_coinmarketcap: '18388'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18388.png
 logoKey: currencies/cats4.png
-name: Catscoin
+name: Catcoin

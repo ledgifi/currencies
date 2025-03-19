@@ -1,7 +1,12 @@
+contracts:
+  - address: '0xb5130F4767AB0ACC579f25a76e8f9E977CB3F948'
+    platform: ETH
+  - address: '0xb5130F4767AB0ACC579f25a76e8f9E977CB3F948'
+    platform: TBA
 crypto: true
 fiat: false
 id: GOD
-id_coinmarketcap: '2370'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2370.png
+id_coinmarketcap: '35489'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35489.png
 logoKey: currencies/god.png
-name: Bitcoin God
+name: Godcoin

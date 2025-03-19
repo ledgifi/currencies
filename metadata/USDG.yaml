@@ -1,6 +1,8 @@
 contracts:
   - address: '0xe343167631d89B6Ffc58B88d6b7fB0228795491D'
     platform: ETH
+  - address: 2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH
+    platform: SOL
 crypto: true
 fiat: false
 id: USDG

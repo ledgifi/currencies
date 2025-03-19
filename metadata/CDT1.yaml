@@ -13,6 +13,8 @@ contracts:
     platform: POL
   - address: Ak3ovnWQnAxPSFoSNCoNYJLnJtQDCKRBH4HwhWkb6hFm
     platform: SOL
+  - address: 0x711d2704034eeb509104481a99a556f17b6b444c7fed7cfb223fd5567af843ad::cdt::CDT
+    platform: SUI
   - address: '0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE'
     platform: TBA
 crypto: true

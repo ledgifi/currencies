@@ -1,10 +1,14 @@
 contracts:
-  - address: '0x97280BEAfc195E4CcdFeAF4658b4974F8e69d625'
+  - address: '0x7969dc3c6e925bccbea9f7fc466a63c74f0115b8'
     platform: BNB
+  - address: '0xc8ff6772f605a139c40b32d5d87d54994c705c6b'
+    platform: ETH
+  - address: '0xd44c3ba075d73c812e272c03d42fdb6448ae10cd'
+    platform: HT
 crypto: true
 fiat: false
 id: LION2
-id_coinmarketcap: '29234'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29234.png
+id_coinmarketcap: '9598'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9598.png
 logoKey: currencies/lion2.png
-name: CRAZY LION
+name: Lion Token

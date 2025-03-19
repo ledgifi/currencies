@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x619574A4A35e16BdA3942c7500054D531b311d0e'
-    platform: BNB
+  - address: '0x41C068D513BA0f38D5Af3822BA944662f77cCD35'
+    platform: FTM
 crypto: true
 fiat: false
 id: SANTA4
-id_coinmarketcap: '28814'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28814.png
+id_coinmarketcap: '14712'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14712.png
 logoKey: currencies/santa4.png
-name: SANTA CHRISTMAS INU
+name: SantaDoge

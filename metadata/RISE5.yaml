@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xa3d80275E300237a62D3431C26d52f185584cC1B'
+    platform: BNB
 crypto: true
 fiat: false
 id: RISE5
-id_coinmarketcap: '20007'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20007.png
+id_coinmarketcap: '17627'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17627.png
 logoKey: currencies/rise5.png
-name: ECORISE
+name: RiseHero

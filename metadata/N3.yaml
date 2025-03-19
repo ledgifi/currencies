@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xaA9478eb3eFE80C18dd99d47bE466D760c329181'
-    platform: FTM
+  - address: '0x9b79ea20a8258649401f8c58973281081d905b9f'
+    platform: ETH
 crypto: true
 fiat: false
 id: N3
-id_coinmarketcap: '17141'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17141.png
+id_coinmarketcap: '35529'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35529.png
 logoKey: currencies/n3.png
-name: Node Cubed
+name: Network3

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x7e72d6410803c40e73806f2a72e3eade5d075cc0'
-    platform: TBA
+  - address: '0xc18358243294ecf28955f7029559a253f04b4ad9'
+    platform: BNB
 crypto: true
 fiat: false
 id: MOB2
-id_coinmarketcap: '32060'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32060.png
+id_coinmarketcap: '28143'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28143.png
 logoKey: currencies/mob2.png
-name: Marvin on Base
+name: Mobster

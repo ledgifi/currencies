@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xc8168d5665f4418353728ac970713e09C0B7c20e'
-    platform: ETH
+  - address: '0xfce692762e907e80a061c01631d15ba7328eaaaa'
+    platform: BNB
 crypto: true
 fiat: false
 id: MONKE
-id_coinmarketcap: '31153'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31153.png
+id_coinmarketcap: '30159'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30159.png
 logoKey: currencies/monke.png
-name: Monke
+name: Monkecoin

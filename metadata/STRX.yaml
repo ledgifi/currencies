@@ -1,6 +1,10 @@
 contracts:
   - address: '0xd6fdde76b8c1c45b33790cc8751d5b88984c44ec'
     platform: BNB
+  - address: '0x4ed257678Fc4E76df9642a416b223729fdEDBEFd'
+    platform: ETH
+  - address: 9HCRyuqrFDt1kUrwuUF7xjb2eqCgFmC5433MjqJ3STRX
+    platform: SOL
 crypto: true
 fiat: false
 id: STRX

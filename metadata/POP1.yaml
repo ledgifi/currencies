@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x1bb76a939d6b7f5be6b95c4f9f822b02b4d62ced'
+  - address: '0x63bc9770Ea9a2F21Df6cc1224D64d8dEc9c61a74'
     platform: BNB
-  - address: '0x5d858bcd53e085920620549214a8b27ce2f04670'
-    platform: ETH
 crypto: true
 fiat: false
 id: POP1
-id_coinmarketcap: '7363'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7363.png
+id_coinmarketcap: '22629'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22629.png
 logoKey: currencies/pop1.png
-name: POP Network Token
+name: Popcoin

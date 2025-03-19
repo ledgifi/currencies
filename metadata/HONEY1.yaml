@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xfcbd14dc51f0a4d49d5e53c2e0950e0bc26d0dce'
+    platform: BERA
 crypto: true
 fiat: false
 id: HONEY1
-id_coinmarketcap: '1581'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1581.png
+id_coinmarketcap: '35670'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35670.png
 logoKey: currencies/honey1.png
 name: Honey

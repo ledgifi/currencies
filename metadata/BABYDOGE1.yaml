@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xac8e13ecc30da7ff04b842f21a62a1fb0f10ebd5'
-    platform: ETH
+  - address: '0x072A55c520a28947336AB5Fc080abeE38Bc541ee'
+    platform: BNB
 crypto: true
 fiat: false
 id: BABYDOGE1
-id_coinmarketcap: '10970'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10970.png
+id_coinmarketcap: '35940'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35940.png
 logoKey: currencies/babydoge1.png
-name: BabyDoge ETH
+name: Baby Doge 2.0

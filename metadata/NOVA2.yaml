@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xB48B7E5bF6563B3e0A85055821A83Deb8CFc12f6'
-    platform: ETH
+  - address: '0x56E344bE9A7a7A1d27C854628483Efd67c11214F'
+    platform: BNB
 crypto: true
 fiat: false
 id: NOVA2
-id_coinmarketcap: '4835'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4835.png
+id_coinmarketcap: '12059'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12059.png
 logoKey: currencies/nova2.png
-name: NOVA
+name: ShibaNova

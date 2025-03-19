@@ -1,10 +1,10 @@
 contracts:
-  - address: DPekQ4tTrEU9mKhFbQJAjGdZbxK5mNHPa37QvuewG9v4
-    platform: SOL
+  - address: '0x8869eac0d82245a2df50a0fad770d72ce63649d1'
+    platform: BNB
 crypto: true
 fiat: false
 id: DOGS7
-id_coinmarketcap: '32592'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32592.png
+id_coinmarketcap: '10489'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10489.png
 logoKey: currencies/dogs7.png
-name: BinanceDog On Sol
+name: Doggy Swap

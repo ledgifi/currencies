@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xa2117f6Fa3d4De8A7E25001c525fC372CDA884Be'
-    platform: BNB
+  - address: '0x4fbaf51b95b024d0d7cab575be2a1f0afedc9b64'
+    platform: ETH
 crypto: true
 fiat: false
 id: BONK3
-id_coinmarketcap: '29975'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29975.png
+id_coinmarketcap: '31136'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31136.png
 logoKey: currencies/bonk3.png
-name: SUPER BONK
+name: Bonk on ETH

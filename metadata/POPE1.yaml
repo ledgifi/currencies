@@ -1,10 +1,12 @@
 contracts:
-  - address: '0xac9cc719532aab9d6c16a7c8739cb4e4b2ca45f9'
+  - address: '0xA15865D9de09CB96aAa3A9081B3dFC8481f07d33'
     platform: BNB
+  - address: '0xA15865D9de09CB96aAa3A9081B3dFC8481f07d33'
+    platform: ETH
 crypto: true
 fiat: false
 id: POPE1
-id_coinmarketcap: '17239'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17239.png
+id_coinmarketcap: '24933'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24933.png
 logoKey: currencies/pope1.png
-name: Pope Inu
+name: Popecoin

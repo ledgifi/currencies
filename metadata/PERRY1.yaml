@@ -1,10 +1,10 @@
 contracts:
-  - address: B598mEzN4gWPZN2d7xcPQ45itu4YYyLQJ22nb1mCMJ7T
-    platform: SOL
+  - address: '0x9452D45d33490234B8C96f42342F1Be28c0FE097'
+    platform: BNB
 crypto: true
 fiat: false
 id: PERRY1
-id_coinmarketcap: '31892'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31892.png
+id_coinmarketcap: '10160'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10160.png
 logoKey: currencies/perry1.png
-name: Perry The Platypus
+name: Swaperry

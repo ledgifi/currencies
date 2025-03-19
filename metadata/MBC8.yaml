@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xbAaa37361BA9489DD5049c245B00782451Be2Dd7'
+    platform: BNB
 crypto: true
 fiat: false
 id: MBC8
-id_coinmarketcap: '33623'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33623.png
+id_coinmarketcap: '17346'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17346.png
 logoKey: currencies/mbc8.png
-name: Miners.Club
+name: MegaBitcoin

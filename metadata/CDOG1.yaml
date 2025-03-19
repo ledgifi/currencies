@@ -1,10 +1,10 @@
 contracts:
-  - address: FPBZ6A3YfcFXLpq9pEmwrNokexQn7yfMffyfwoxoXRiJ
-    platform: SOL
+  - address: '0x990a524ebc0a54fd2a7ebc02a1ce54d309fb5cd3'
+    platform: POL
 crypto: true
 fiat: false
 id: CDOG1
-id_coinmarketcap: '30371'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30371.png
+id_coinmarketcap: '22272'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22272.png
 logoKey: currencies/cdog1.png
-name: Corn Dog
+name: Cypherdog Token

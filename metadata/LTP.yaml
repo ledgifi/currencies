@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x56fA5F7BF457454Be33D8B978C86A5f5B9DD84C2'
+    platform: BNB
 crypto: true
 fiat: false
 id: LTP
-id_coinmarketcap: '7790'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7790.png
+id_coinmarketcap: '35405'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35405.png
 logoKey: currencies/ltp.png
-name: LifetionCoin
+name: Listapie

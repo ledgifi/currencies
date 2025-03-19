@@ -1,6 +1,8 @@
 contracts:
   - address: '0xDfc7C877a950e49D2610114102175A06C2e3167a'
     platform: MODE
+  - address: '0x084382D1cc4f4DFD1769b1cC1Ac2A9b1f8365e90'
+    platform: TBA
 crypto: true
 fiat: false
 id: MODE

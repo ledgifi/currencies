@@ -1,6 +1,8 @@
 contracts:
   - address: '0xbb5f1f9e7967117bc5842b1c37509457f5e60304'
     platform: CHZ
+  - address: '0xdd03a533d6a309afff3053fe9fc6c197324597bb'
+    platform: CHZ
 crypto: true
 fiat: false
 id: RSO

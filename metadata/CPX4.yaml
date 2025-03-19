@@ -1,10 +1,10 @@
 contracts:
-  - address: CPXDs2uhNwDKAt9V3vXvtspv9U7rsQ2fVr1qAUDmuCaq
-    platform: SOL
+  - address: '0x1e2b832edd325e85eac987d3e6a95861f6280c46'
+    platform: BNB
 crypto: true
 fiat: false
 id: CPX4
-id_coinmarketcap: '14615'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14615.png
+id_coinmarketcap: '21950'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21950.png
 logoKey: currencies/cpx4.png
-name: Circlepod
+name: Cat Sphynx

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x9b6443b0fb9c241a7fdac375595cea13e6b7807a'
-    platform: ETH
+  - address: '0xE9A4790e8e96dDEfDd54C8dfe8DDc66983673438'
+    platform: BNB
 crypto: true
 fiat: false
 id: RCC
-id_coinmarketcap: '4371'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4371.png
+id_coinmarketcap: '35884'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35884.png
 logoKey: currencies/rcc.png
-name: Reality Clash Coin
+name: Ride Chain Coin

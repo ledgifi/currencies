@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xda65892ea771d3268610337e9964d916028b7dad'
+    platform: DUCK
   - address: EQDWXjnVWheFemaAaFn-Cp4nDehvGllrXOZ8wqHm8sDEwn_c
     platform: TON
 crypto: true

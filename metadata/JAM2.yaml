@@ -1,6 +1,8 @@
 contracts:
   - address: '0xF8252C05eC4cB2fdf1e0398BaE049D454dDbA3AD'
     platform: BNB
+  - address: '0xF8252C05eC4cB2fdf1e0398BaE049D454dDbA3AD'
+    platform: TBA
 crypto: true
 fiat: false
 id: JAM2

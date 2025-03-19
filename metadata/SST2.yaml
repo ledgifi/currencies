@@ -1,7 +1,12 @@
+contracts:
+  - address: '0x25E0C222F687510e90B7a93650483DB59418C41A'
+    platform: BNB
+  - address: '0x2863916c6ebdbbf0c6f02f87b7eb478509299868'
+    platform: ETH
 crypto: true
 fiat: false
 id: SST2
-id_coinmarketcap: '1441'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1441.png
+id_coinmarketcap: '5987'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5987.png
 logoKey: currencies/sst2.png
-name: SuperStakeToken
+name: SIMBA Storage Token

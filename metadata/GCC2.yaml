@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xb627d12f7024c78b1139cbb31348393b3d37774d'
+    platform: ETH
 crypto: true
 fiat: false
 id: GCC2
-id_coinmarketcap: '1531'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1531.png
+id_coinmarketcap: '6006'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6006.png
 logoKey: currencies/gcc2.png
-name: Global Cryptocurrency
+name: Game Currency Coin

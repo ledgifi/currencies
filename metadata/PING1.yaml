@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x5546600f77eda1dcf2e8817ef4d617382e7f71f5'
-    platform: BNB
+  - address: '0x21cd6af01383651ed10554394c0497f9db5e5dbc'
+    platform: ETH
 crypto: true
 fiat: false
 id: PING1
-id_coinmarketcap: '10774'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10774.png
+id_coinmarketcap: '1777'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1777.png
 logoKey: currencies/ping1.png
-name: Sonar
+name: CryptoPing

@@ -3,6 +3,8 @@ contracts:
     platform: CYBER
   - address: '0xD3C68968137317a57a9bAbeacC7707Ec433548B4'
     platform: ETH
+  - address: 4WS7CeusWMwWGNALHDJtyxvN9yxydoB7pvM6Pwd9F2VA
+    platform: SOL
   - address: '0xD3C68968137317a57a9bAbeacC7707Ec433548B4'
     platform: TBA
 crypto: true

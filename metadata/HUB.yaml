@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x8aC0A467f878f3561D309cF9B0994b0530b0a9d2'
-    platform: BNB
-  - address: '0x8e9A29e7Ed21DB7c5B2E1cd75e676dA0236dfB45'
+  - address: '0xba358b6f5b4c0215650444b8c30d870b55050d2d'
     platform: ETH
 crypto: true
 fiat: false
 id: HUB
-id_coinmarketcap: '9086'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9086.png
+id_coinmarketcap: '7986'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7986.png
 logoKey: currencies/hub.png
-name: Minter HUB
+name: Hub - Human Trust Protocol

@@ -1,6 +1,8 @@
 contracts:
   - address: '0xc71d22fb8074345D066Df3b768B7722b8D1246A6'
     platform: CHZ
+  - address: '0xde05490B7AC4B86e54eFf43f4F809C3a7Bb16564'
+    platform: CHZ
 crypto: true
 fiat: false
 id: PFL

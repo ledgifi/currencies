@@ -1,7 +1,14 @@
+contracts:
+  - address: '0xc146b7cdbaff065090077151d391f4c96aa09e0c'
+    platform: BNB
+  - address: '0xc146b7cdbaff065090077151d391f4c96aa09e0c'
+    platform: ETH
+  - address: '0xc146b7cdbaff065090077151d391f4c96aa09e0c'
+    platform: FTM
 crypto: true
 fiat: false
 id: MCC1
-id_coinmarketcap: '596'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/596.png
+id_coinmarketcap: '16160'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16160.png
 logoKey: currencies/mcc1.png
-name: MileyCyrusCoin
+name: Multi-Chain Capital (new)

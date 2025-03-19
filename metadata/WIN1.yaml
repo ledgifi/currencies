@@ -1,12 +1,10 @@
 contracts:
-  - address: '0xb10cb07ca2cdac77fbb5707f6690301f9d036f45'
-    platform: BNB
-  - address: '0xb10CB07CA2CDac77FbB5707f6690301f9d036F45'
-    platform: ETH
+  - address: 0xe6b9e1033c72084ad01db37c77778ca53b9c4ebb263f28ffbfed39f4d5fd5057::win::WIN
+    platform: SUI
 crypto: true
 fiat: false
 id: WIN1
-id_coinmarketcap: '28992'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28992.png
+id_coinmarketcap: '36015'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36015.png
 logoKey: currencies/win1.png
-name: Win
+name: WinX.io

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xA5043373edC09f3f7d87Fe35CA933e0a7B59D005'
-    platform: BNB
+  - address: '0x282a69142bac47855c3fbe1693fcc4ba3b4d5ed6'
+    platform: ETH
 crypto: true
 fiat: false
 id: CARROT
-id_coinmarketcap: '12111'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12111.png
+id_coinmarketcap: '35839'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35839.png
 logoKey: currencies/carrot.png
-name: CARROT STABLE COIN
+name: Carrot by Puffer

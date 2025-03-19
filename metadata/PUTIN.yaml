@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x8fe4ceA3835eFF16C5F2d6F1daF3B7C684211559'
+    platform: ETH
 crypto: true
 fiat: false
 id: PUTIN
-id_coinmarketcap: '1764'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1764.png
+id_coinmarketcap: '35398'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35398.png
 logoKey: currencies/putin.png
-name: PutinCoin
+name: Putin Meme

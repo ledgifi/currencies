@@ -1,6 +1,10 @@
 contracts:
   - address: '0xdBB7a34Bf10169d6d2D0d02A6cbb436cF4381BFa'
     platform: ETH
+  - address: '0x9f28c9c2da4a833cbfaaacbf7eb62267334d7149'
+    platform: RON
+  - address: '0xdf49c226ED9CF05Be0e38cdb86Df4E8A945158B1'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

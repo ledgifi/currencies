@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xc3951d77737733174152532e8b0f27e2c4e9f0dc'
-    platform: ETH
+  - address: '0xb0d9bd0937720956b3f1d4cab7d54ebab1dcba7f'
+    platform: BNB
 crypto: true
 fiat: false
 id: CLD1
-id_coinmarketcap: '2385'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2385.png
+id_coinmarketcap: '12056'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12056.png
 logoKey: currencies/cld1.png
-name: Cloud
+name: Cryptopia Land Dollar

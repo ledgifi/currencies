@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xb4da413d7643000a84c5b62bfb1bf2077604b165'
+    platform: BNB
 crypto: true
 fiat: false
 id: PAL3
-id_coinmarketcap: '2718'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2718.png
+id_coinmarketcap: '17563'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17563.png
 logoKey: currencies/pal3.png
-name: PAL Network
+name: Paladin dao

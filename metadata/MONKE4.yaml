@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x18cc2ba8995c6307e355726244adb023cf00522f'
-    platform: ETH
+  - address: 0x5197a0c59aa781a6dc085ea84eaf741f0134ed832fba4899f95065a51038b0d9::MONKEAI::MONKEAI
+    platform: SUI
 crypto: true
 fiat: false
 id: MONKE4
-id_coinmarketcap: '24943'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24943.png
+id_coinmarketcap: '25272'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25272.png
 logoKey: currencies/monke4.png
-name: Monke
+name: Sui Monke AI

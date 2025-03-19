@@ -1,20 +1,10 @@
 contracts:
-  - address: '0xce6c9c70f91c6797873EFC80505f972290A88f5D'
-    platform: BNB
-  - address: '0xB999Ea90607a826A3E6E6646B404c3C7d11fa39D'
-    platform: BRISE
-  - address: '0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44'
-    platform: CORE
-  - address: '0x81bCEa03678D1CEF4830942227720D542Aa15817'
-    platform: DOGE
-  - address: '0x867f08A3ab824b42e8058a1B48e32E1dF205b092'
-    platform: FUSE
-  - address: '0x54051D9DbE99687867090d95fe15C3D3E35512Ba'
-    platform: XDC
+  - address: 69mqWupVM29JNh5LJeBmh2xRETzYWQV26Bze6e4gpump
+    platform: SOL
 crypto: true
 fiat: false
 id: ICE4
-id_coinmarketcap: '23700'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23700.png
+id_coinmarketcap: '35549'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35549.png
 logoKey: currencies/ice4.png
-name: IceCream
+name: Immigration Customs Enforcement

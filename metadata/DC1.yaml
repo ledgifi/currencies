@@ -1,7 +1,12 @@
+contracts:
+  - address: '0x0b44547be0a0df5dcd5327de8ea73680517c5a54'
+    platform: ETH
+  - address: '0x20b59e6c5deb7d7ced2ca823c6ca81dd3f7e9a3a'
+    platform: XDC
 crypto: true
 fiat: false
 id: DC1
-id_coinmarketcap: '4728'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4728.png
+id_coinmarketcap: '10357'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10357.png
 logoKey: currencies/dc1.png
-name: Ducat Coin
+name: Datachain Foundation (DC)

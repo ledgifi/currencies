@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x6e53e24f0f7b273d27d92a909a30762d5734b649'
-    platform: BNB
+  - address: '0xbe41772587872a92184873d55b09c6bb6f59f895'
+    platform: FTM
 crypto: true
 fiat: false
 id: MARS7
-id_coinmarketcap: '18956'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18956.png
+id_coinmarketcap: '10826'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10826.png
 logoKey: currencies/mars7.png
-name: Marsupilamii
+name: ProjectMars

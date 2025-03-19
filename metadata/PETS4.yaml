@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xE21502dB7B9c6a78Ed9400E30C8521be84F2CA4F'
-    platform: BNB
+  - address: 5BthRwBakCdXVYq7KQwgAauD5RLW8qLoEyyghh1btypx
+    platform: SOL
 crypto: true
 fiat: false
 id: PETS4
-id_coinmarketcap: '28986'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28986.png
+id_coinmarketcap: '29887'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29887.png
 logoKey: currencies/pets4.png
-name: BNB Pets
+name: SolPets

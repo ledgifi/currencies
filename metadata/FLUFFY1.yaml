@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xde74bb5a16000deea9eb26ef3941344325dbdb8c'
-    platform: ETH
+  - address: 6hnt5U7RcwLAtWHysPGCNfZ7mPeYvbpMmHVSUpz2iCRB
+    platform: SOL
 crypto: true
 fiat: false
 id: FLUFFY1
-id_coinmarketcap: '16288'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16288.png
+id_coinmarketcap: '32221'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32221.png
 logoKey: currencies/fluffy1.png
-name: Fluffy Inu
+name: FLUFFY

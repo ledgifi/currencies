@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x3B4Ab1855866E49684BA2405bcDe844305D96bB9'
+    platform: BNB
 crypto: true
 fiat: false
 id: MOON4
-id_coinmarketcap: '89'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/89.png
+id_coinmarketcap: '35737'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35737.png
 logoKey: currencies/moon4.png
-name: Mooncoin
+name: SafeMoon

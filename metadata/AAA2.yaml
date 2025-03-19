@@ -1,10 +1,14 @@
 contracts:
-  - address: '0xd938137e6d96c72e4a6085412ada2dad78ff89c4'
+  - address: '0xa39bf0446268d99c5c0a85ecf92970611912d386'
+    platform: BNB
+  - address: '0x8c6bf16c273636523c29db7db04396143770f6a0'
     platform: ETH
+  - address: '0x2EBD50AE084e71eed419cB6C620B3BbD3927bF7e'
+    platform: POL
 crypto: true
 fiat: false
 id: AAA2
-id_coinmarketcap: '3287'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3287.png
+id_coinmarketcap: '11392'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11392.png
 logoKey: currencies/aaa2.png
-name: Abulaba
+name: Moon Rabbit

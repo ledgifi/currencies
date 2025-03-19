@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x18c1074845c389907762a71242bfe271c9da2d9c'
-    platform: ETH
+  - address: '0xC1aC98BACBAC2641D6e19DB46D214A95f0E16AC1'
+    platform: BNB
 crypto: true
 fiat: false
 id: BULL15
-id_coinmarketcap: '27042'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27042.png
+id_coinmarketcap: '29166'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29166.png
 logoKey: currencies/bull15.png
-name: BULL Token
+name: BULL

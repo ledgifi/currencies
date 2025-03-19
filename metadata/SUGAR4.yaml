@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x57528b45134f09f2e0069334a36a7e14af74745f'
-    platform: BNB
+  - address: '0xcf3697848ea491966d0e0653fb4420e55d196360'
+    platform: ETH
 crypto: true
 fiat: false
 id: SUGAR4
-id_coinmarketcap: '23469'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23469.png
+id_coinmarketcap: '32871'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32871.png
 logoKey: currencies/sugar4.png
-name: SugarYield
+name: Sugar

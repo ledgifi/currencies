@@ -1,10 +1,10 @@
 contracts:
-  - address: 3Lw4GkVy9SjySq5FfqNpYsi4Xum5SbTwtM4HvgV31Eas
-    platform: SOL
+  - address: '0xB3a3606EA55Fe45e6635b221592674F5DbdA3292'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRUMP18
-id_coinmarketcap: '33831'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33831.png
+id_coinmarketcap: '31680'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31680.png
 logoKey: currencies/trump18.png
-name: Trump Era
+name: MAGA

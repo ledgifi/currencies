@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x88faea256f789f8dd50de54f9c807eef24f71b16'
-    platform: TBA
+  - address: '0x33ABE795f9c1b6136608c36dB211bD7590f5FdAE'
+    platform: ETH
 crypto: true
 fiat: false
 id: WOLF6
-id_coinmarketcap: '30824'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30824.png
+id_coinmarketcap: '30780'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30780.png
 logoKey: currencies/wolf6.png
-name: Landwolf (Base)
+name: Landwolf (firstlandwolfeth)

@@ -1,10 +1,10 @@
 contracts:
-  - address: MBCccZZEbcvWzaHD9otPjmBMFaa6pG7XRYSw39HT5n2
-    platform: SOL
+  - address: '0x551FAAB1027Cc50eFAeA5BED092E330475C3Cd99'
+    platform: BNB
 crypto: true
 fiat: false
 id: MBC1
-id_coinmarketcap: '32972'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32972.png
+id_coinmarketcap: '30287'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30287.png
 logoKey: currencies/mbc1.png
-name: Mutant Boys Club
+name: MonbaseCoin

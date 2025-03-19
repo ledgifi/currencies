@@ -1,6 +1,8 @@
 contracts:
   - address: '0x96B3693A35bE72651e733c94F0D380b0fb8DeFC3'
     platform: CHZ
+  - address: '0x0dc1776c56ffd3a046134be6fdc23a3214359329'
+    platform: CHZ
 crypto: true
 fiat: false
 id: YBO

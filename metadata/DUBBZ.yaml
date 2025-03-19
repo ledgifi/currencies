@@ -1,7 +1,5 @@
 contracts:
   - address: '0x38029C62DfA30D9FD3CaDf4C64e9b2ab21DbDa17'
-    platform: ETH
-  - address: '0x38029C62DfA30D9FD3CaDf4C64e9b2ab21DbDa17'
     platform: TBA
 crypto: true
 fiat: false

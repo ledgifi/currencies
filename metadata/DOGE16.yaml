@@ -1,10 +1,10 @@
 contracts:
-  - address: 2Va1uz4qvj5MxKW3s19KNHRJtxu2JHdfe4KMtyZTncMM
-    platform: SOL
+  - address: '0xF016F07c9B0787a18C81dC562F32FFE70003cA3B'
+    platform: ETH
 crypto: true
 fiat: false
 id: DOGE16
-id_coinmarketcap: '34119'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34119.png
+id_coinmarketcap: '27301'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27301.png
 logoKey: currencies/doge16.png
-name: Dogecoin on SOL
+name: DOGE 2.0

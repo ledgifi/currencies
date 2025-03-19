@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xbecd75bde87020a4f0d3084bcce9cde794547660'
-    platform: CFX
+  - address: '0xDedF440AD8bf07729EAD58F4fF52edaB20d2628d'
+    platform: BNB
 crypto: true
 fiat: false
 id: NEKO2
-id_coinmarketcap: '23856'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23856.png
+id_coinmarketcap: '9963'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9963.png
 logoKey: currencies/neko2.png
-name: Maneki
+name: Neko Network

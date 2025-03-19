@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xEC143f87E8C2166F0405158677b84A10C045479a'
-    platform: BNB
+  - address: '0x2637ffecE0217aE626529f6775167020F1c17D83'
+    platform: ETH
 crypto: true
 fiat: false
 id: PAL7
-id_coinmarketcap: '20953'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20953.png
+id_coinmarketcap: '33410'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33410.png
 logoKey: currencies/pal7.png
-name: Palmare
+name: Pal

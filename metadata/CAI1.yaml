@@ -1,10 +1,10 @@
 contracts:
-  - address: 0XF36C5F04127F7470834ED6F98BDDC1BE62ABA48D
-    platform: ETH
+  - address: '0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0'
+    platform: AVAX
 crypto: true
 fiat: false
 id: CAI1
-id_coinmarketcap: '23341'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23341.png
+id_coinmarketcap: '21726'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21726.png
 logoKey: currencies/cai1.png
-name: CryptoAI
+name: Colony Avalanche Index

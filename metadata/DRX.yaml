@@ -1,10 +1,10 @@
 contracts:
-  - address: DRX-b7f337
-    platform: EGLD
+  - address: '0x83f4389ccCe1CC044dD7441Add33c4F28b967434'
+    platform: ETH
 crypto: true
 fiat: false
 id: DRX
-id_coinmarketcap: '34762'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34762.png
+id_coinmarketcap: '35795'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35795.png
 logoKey: currencies/drx.png
-name: DoctorX
+name: DRX Token

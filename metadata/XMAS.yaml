@@ -1,10 +1,10 @@
 contracts:
-  - address: XMASaA7Lp7yQdYRFoAxb2C4TbfxVipG4BkpPxCrUPnv
-    platform: SOL
+  - address: '0x26194992e8bbad50eb9d9d46d5114068511b910b'
+    platform: BNB
 crypto: true
 fiat: false
 id: XMAS
-id_coinmarketcap: '34075'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34075.png
+id_coinmarketcap: '15679'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15679.png
 logoKey: currencies/xmas.png
-name: Bad Santa
+name: MerryXRPmas

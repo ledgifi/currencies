@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x67009eb16ff64d06b4f782b3c552b924b1d1bb93'
+    platform: BNB
 crypto: true
 fiat: false
 id: MTC4
-id_coinmarketcap: '195'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/195.png
+id_coinmarketcap: '28841'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28841.png
 logoKey: currencies/mtc4.png
-name: Marinecoin
+name: Matrix Chain

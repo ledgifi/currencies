@@ -1,10 +1,10 @@
 contracts:
-  - address: SP1AY6K3PQV5MRT6R4S671NWW2FRVPKM0BR162CT6.leo-token
-    platform: STX
+  - address: '0xc8db98437bed9943f11c5b31b645b07c0efc17e0'
+    platform: TBA
 crypto: true
 fiat: false
 id: LEO3
-id_coinmarketcap: '29742'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29742.png
+id_coinmarketcap: '35316'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35316.png
 logoKey: currencies/leo3.png
-name: LEO
+name: Leoono

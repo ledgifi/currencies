@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x291A50E611035b6562a2374B8B44dE70aA8d7896'
-    platform: ARB
-  - address: '0x5ee3188a3f8adee1d736edd4ae85000105c88f66'
-    platform: ETH
+  - address: pen2WzojYAFUaWJn13c3UH2hXDZ5dCzu26U1xfaRx1b
+    platform: SOL
 crypto: true
 fiat: false
 id: PEN1
-id_coinmarketcap: '34420'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34420.png
+id_coinmarketcap: '35533'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35533.png
 logoKey: currencies/pen1.png
-name: Pentagon Games
+name: Penguin

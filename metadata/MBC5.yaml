@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x8888889213dd4da823ebdd1e235b09590633c150'
+  - address: '0x0b1683b742976a46603453a918773e46e666b12c'
     platform: ETH
 crypto: true
 fiat: false
 id: MBC5
-id_coinmarketcap: '5996'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5996.png
+id_coinmarketcap: '5101'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5101.png
 logoKey: currencies/mbc5.png
-name: Marblecoin
+name: myBlockchain Certificate

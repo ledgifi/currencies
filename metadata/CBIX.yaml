@@ -1,7 +1,7 @@
 contracts:
-  - address: '0x34681c1035f97e1edcccec5f142e02ff81a3a230'
-    platform: BNB
   - address: CBIX-3C9
+    platform: BNB
+  - address: '0x34681c1035f97e1edcccec5f142e02ff81a3a230'
     platform: BNB
   - address: '0x122f96d596384885b54bccdddf2125018c421d83'
     platform: ETH

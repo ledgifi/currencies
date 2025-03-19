@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x65f5Ce7c3C320875ca9e2a7648a27F2104Ad5DdA'
-    platform: POL
+  - address: '0x8C11f1A80Afce494BAC9cc78339CB2768c955D4E'
+    platform: ETH
 crypto: true
 fiat: false
 id: EVO6
-id_coinmarketcap: '20944'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20944.png
+id_coinmarketcap: '34735'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34735.png
 logoKey: currencies/evo6.png
-name: Evo Surfers
+name: Evnode Blockchain

@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xA8fb059fc7eF9305158994DA4632779E5dFB32F2'
+    platform: BNB
 crypto: true
 fiat: false
 id: REV4
-id_coinmarketcap: '2021'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2021.png
+id_coinmarketcap: '17425'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17425.png
 logoKey: currencies/rev4.png
-name: RChain
+name: Revolutin

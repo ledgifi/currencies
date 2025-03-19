@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x73bb9070a89875f1a7592c626461dba332c08a4c'
-    platform: ETH
+  - address: 45d493a6f73fa5f404244a5fb8472fc014ca5885
+    platform: NEO
 crypto: true
 fiat: false
 id: CPX
-id_coinmarketcap: '33933'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33933.png
+id_coinmarketcap: '2641'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2641.png
 logoKey: currencies/cpx.png
-name: CPX50
+name: Apex

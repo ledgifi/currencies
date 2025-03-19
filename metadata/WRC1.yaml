@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x72adadb447784dd7ab1f472467750fc485e4cb2d'
-    platform: ETH
+  - address: '0xcb2B11e8B780971907A9A171754C7D767ee8Bc70'
+    platform: BNB
+  - address: KT19Fmya7B49wKYdoqXYphyQWGRUn9g5wG8R
+    platform: XTZ
 crypto: true
 fiat: false
 id: WRC1
-id_coinmarketcap: '2288'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2288.png
+id_coinmarketcap: '18407'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18407.png
 logoKey: currencies/wrc1.png
-name: Worldcore
+name: "Werecoin\_EV\_Charging"

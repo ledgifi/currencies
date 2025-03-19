@@ -1,10 +1,14 @@
 contracts:
-  - address: '0x582daef1f36d6009f64b74519cfd612a8467be18'
-    platform: DOGE
+  - address: '0x71b3a0566f4BF80331D115D8026a7022bF670cCe'
+    platform: ARB
+  - address: '0x71b3a0566f4BF80331D115D8026a7022bF670cCe'
+    platform: BNB
+  - address: '0x71b3a0566f4BF80331D115D8026a7022bF670cCe'
+    platform: ETH
 crypto: true
 fiat: false
 id: DD1
-id_coinmarketcap: '21666'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21666.png
+id_coinmarketcap: '30702'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30702.png
 logoKey: currencies/dd1.png
-name: DogeDragon
+name: Diment Dollar

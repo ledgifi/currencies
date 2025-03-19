@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x547b2f82cecfab9c2b1d36fdda96ef9f58c63b8c'
-    platform: ETH
+  - address: 7XzYCSB3QCh4Qb7d8cX6G9ZhEjtQPAZnvX6S7k9Q5DUD
+    platform: SOL
 crypto: true
 fiat: false
 id: TXT
-id_coinmarketcap: '12208'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12208.png
+id_coinmarketcap: '35450'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35450.png
 logoKey: currencies/txt.png
-name: Taxa Token
+name: Textopia

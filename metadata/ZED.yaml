@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: '0x5eC03C1f7fA7FF05EC476d19e34A22eDDb48ACdc'
     platform: POL
+  - address: '0xA7921e4C3Dc8E38069061a07C08fC0D2a35B9E6f'
+    platform: TBA
 crypto: true
 fiat: false
 id: ZED

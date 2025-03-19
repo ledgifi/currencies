@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x46D3Ece45F8E16beC4Bd241C248CE0e7CffF310e'
-    platform: FTM
+  - address: 2hXQn7nJbh2XFTxvtyKb5mKfnScuoiC1Sm8rnWydpump
+    platform: SOL
 crypto: true
 fiat: false
 id: BREW1
-id_coinmarketcap: '14017'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14017.png
+id_coinmarketcap: '35900'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35900.png
 logoKey: currencies/brew1.png
-name: Potion Brew Finance
+name: Homebrew Robotics Club

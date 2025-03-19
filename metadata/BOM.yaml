@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x0C4651a40A0390C081979ce1Ffd0755558aA87D9'
-    platform: ETH
+  - address: '0xf57d8b3034af78d08bcd751dd4c4f756279ed462'
+    platform: BNB
 crypto: true
 fiat: false
 id: BOM
-id_coinmarketcap: '32213'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32213.png
+id_coinmarketcap: '12311'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12311.png
 logoKey: currencies/bom.png
-name: Book Of Matt Furie
+name: Black Lemon

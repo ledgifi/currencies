@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xdBB910F546De59857194c51BC28f6BDFAA6bc58f'
-    platform: ETH
+  - address: '0x342143A0Fb1912fc499C2df605491535F80438C8'
+    platform: BNB
 crypto: true
 fiat: false
 id: CAT32
-id_coinmarketcap: '28187'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28187.png
+id_coinmarketcap: '30247'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30247.png
 logoKey: currencies/cat32.png
-name: CATECOIN
+name: CatCoin Inu

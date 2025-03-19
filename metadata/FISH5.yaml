@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x055a902303746382fbb7d18f6ae0df56efdc5213'
-    platform: RSK
+  - address: '0xFa7f035B88c633Ef9ED7ADdf885f8c7575FD6dbd'
+    platform: BNB
 crypto: true
 fiat: false
 id: FISH5
-id_coinmarketcap: '22384'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22384.png
+id_coinmarketcap: '22609'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22609.png
 logoKey: currencies/fish5.png
-name: BabelFish
+name: Fish

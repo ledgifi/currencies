@@ -1,10 +1,10 @@
 contracts:
-  - address: 3NMRp22ARChFUd2xPtgVLzvf1gCfCjMwb1yjra3P3SB1
-    platform: SOL
+  - address: '0xfd42728b76772a82ccad527e298dd15a55f4ddd6'
+    platform: BNB
 crypto: true
 fiat: false
 id: KAREN
-id_coinmarketcap: '30781'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30781.png
+id_coinmarketcap: '10378'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10378.png
 logoKey: currencies/karen.png
-name: Karen
+name: KarenCoin

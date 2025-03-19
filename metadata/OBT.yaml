@@ -1,10 +1,14 @@
 contracts:
-  - address: '0x07f9702ce093db82dfdc92c2c6e578d6ea8d5e22'
+  - address: '0x1cd9a56c8c2ea913c70319a44da75e99255aa46f'
+    platform: ARB
+  - address: '0x4af322Ff4A6f2858F6B51E546B9EC499654493C5'
     platform: ETH
+  - address: '0x514d8e8099286a13486ef6c525c120f51c239b52'
+    platform: TBA
 crypto: true
 fiat: false
 id: OBT
-id_coinmarketcap: '13914'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13914.png
+id_coinmarketcap: '35422'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35422.png
 logoKey: currencies/obt.png
-name: Oobit
+name: Orbiter Finance

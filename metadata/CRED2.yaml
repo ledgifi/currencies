@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xED7Fa212E100DFb3b13B834233E4B680332a3420'
-    platform: ETH
+  - address: '0x571d0b55fe30eb1f6e68e8799f181c46de6b0059'
+    platform: BNB
 crypto: true
 fiat: false
 id: CRED2
-id_coinmarketcap: '7297'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7297.png
+id_coinmarketcap: '7830'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7830.png
 logoKey: currencies/cred2.png
-name: Street Cred
+name: Street Credit

@@ -1,10 +1,10 @@
 contracts:
-  - address: BjuNRPzhv5YMiQ4UECp1mX2cfo5ZJU1ZrVvSFCwvTb59
-    platform: SOL
+  - address: '0x7458fd786B2fe8CD801C0381f88b61C5071A006F'
+    platform: ETH
 crypto: true
 fiat: false
 id: LOA2
-id_coinmarketcap: '33142'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33142.png
+id_coinmarketcap: '5516'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5516.png
 logoKey: currencies/loa2.png
-name: Law of Attraction on Solona
+name: LOA Protocol

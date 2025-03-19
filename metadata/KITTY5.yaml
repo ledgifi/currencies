@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xb4228798fF437ecD8fa43429664e9992256fe6Ac'
-    platform: POL
+  - address: '0x788ae3b5d153d49f8db649aacba1857f744b739e'
+    platform: AVAX
 crypto: true
 fiat: false
 id: KITTY5
-id_coinmarketcap: '13576'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13576.png
+id_coinmarketcap: '15948'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15948.png
 logoKey: currencies/kitty5.png
-name: Kitty Coin
+name: Kitty Finance

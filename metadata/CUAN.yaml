@@ -1,10 +1,14 @@
 contracts:
-  - address: '0xedf44412b47a76e452fd133794e45d9485e4cd4b'
-    platform: ETH
+  - address: '0x33Ddf4b5E19b7Cbe69410CFaA2B69aE1F9eBcAD8'
+    platform: BNB
+  - address: '0xed107b49aA4d8b6D7686017315b1D441A51E035C'
+    platform: CORE
+  - address: EQDIvpv2o-EsjS0hBjGO1COs3gcv5ZPkAPZB5cuEN_8hJcZv
+    platform: TON
 crypto: true
 fiat: false
 id: CUAN
-id_coinmarketcap: '4463'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4463.png
+id_coinmarketcap: '27553'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27553.png
 logoKey: currencies/cuan.png
-name: Kingcuan
+name: CuanSwap.com

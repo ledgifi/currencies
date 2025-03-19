@@ -1,6 +1,8 @@
 contracts:
   - address: '0xd44fC47dBe5751ed36C3f549e217Dab749Aa4039'
     platform: CHZ
+  - address: '0x3Ce3946A68EB044C59AFe77dfdfdc71f19EB4328'
+    platform: CHZ
 crypto: true
 fiat: false
 id: LEG

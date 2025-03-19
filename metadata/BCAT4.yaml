@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xD6731bd33521F5bCfD9380075E6888E7a85852d6'
-    platform: BNB
+  - address: '0x9bd75c164daf830733ac2ea71a0258f95aac7c57'
+    platform: BLAST
 crypto: true
 fiat: false
 id: BCAT4
-id_coinmarketcap: '26111'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26111.png
+id_coinmarketcap: '29590'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29590.png
 logoKey: currencies/bcat4.png
-name: BongoCat
+name: BlastCat

@@ -1,10 +1,10 @@
 contracts:
-  - address: AYABiqKuTh9Va5Aqc6AujFevHwDGmECGQiFmKW5g3K4Z
-    platform: SOL
+  - address: '0xfC8774321Ee4586aF183bAca95A8793530056353'
+    platform: BNB
 crypto: true
 fiat: false
 id: LONG2
-id_coinmarketcap: '30305'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30305.png
+id_coinmarketcap: '28215'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28215.png
 logoKey: currencies/long2.png
-name: Nobiko Coin
+name: LONG

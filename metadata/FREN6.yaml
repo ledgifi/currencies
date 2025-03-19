@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x8e14c88ab0644ef41bd7138ab91c0160d8c1583a'
-    platform: ETH
+  - address: '0x1f8a1efbf6247139fb9cbdb9d4dea34e3d18c20a'
+    platform: BNB
 crypto: true
 fiat: false
 id: FREN6
-id_coinmarketcap: '22571'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22571.png
+id_coinmarketcap: '17495'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17495.png
 logoKey: currencies/fren6.png
-name: FrenChain
+name: FrenCoin

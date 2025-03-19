@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x687c24313c5F7B04Fc4cca2764ac0f3E1d792e2A'
+    platform: ETH
+crypto: true
+fiat: false
+id: DUCAT
+id_coinmarketcap: '35987'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35987.png
+logoKey: currencies/ducat.png
+name: Ducat

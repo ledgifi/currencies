@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xef8e456967122db4c3c160314bde8d2602ad6199'
-    platform: ETH
+  - address: '0x2ce1340f1d402ae75afeb55003d7491645db1857'
+    platform: TBA
 crypto: true
 fiat: false
 id: WAGMI2
-id_coinmarketcap: '25385'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25385.png
+id_coinmarketcap: '35309'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35309.png
 logoKey: currencies/wagmi2.png
-name: Wagmi Coin
+name: WAGMI

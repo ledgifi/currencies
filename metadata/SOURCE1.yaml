@@ -1,10 +1,14 @@
 contracts:
-  - address: aPig1huDbdDTR9HmJBSHK5jiHrG3o2ZThdG4xPDpump
-    platform: SOL
+  - address: '0xea136fc555e695ba96d22e10b7e2151c4c6b2a20'
+    platform: BNB
+  - address: '0x74c0C58B99b68cF16A717279AC2d056A34ba2bFe'
+    platform: CELO
+  - address: '0x7118057ff0F4Fd0994fb9d2D94de8231d5cca79E'
+    platform: ETH
 crypto: true
 fiat: false
 id: SOURCE1
-id_coinmarketcap: '33157'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33157.png
+id_coinmarketcap: '15013'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15013.png
 logoKey: currencies/source1.png
-name: I MADE IT UP
+name: ReSource Protocol

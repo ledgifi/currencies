@@ -1,10 +1,10 @@
 contracts:
-  - address: 73aSiBpJBAXQPNjFPFoWx2EDjrgquh27ky1DBsMkpump
-    platform: SOL
+  - address: '0xac9cc719532aab9d6c16a7c8739cb4e4b2ca45f9'
+    platform: BNB
 crypto: true
 fiat: false
 id: POPE
-id_coinmarketcap: '32520'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32520.png
+id_coinmarketcap: '17239'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17239.png
 logoKey: currencies/pope.png
-name: PopPepe
+name: Pope Inu

@@ -1,10 +1,18 @@
 contracts:
-  - address: '0xa806b3fed6891136940cf81c4085661500aa2709'
+  - address: '0xc5a861787f3e173f2b004d5cfa6a717f5dc5484d'
+    platform: ARB
+  - address: '0xc5a861787f3e173f2b004d5cfa6a717f5dc5484d'
+    platform: BNB
+  - address: '0xC5a861787f3e173F2b004d5cfA6a717f5DC5484D'
     platform: ETH
+  - address: '0xc5a861787f3e173f2b004d5cfa6a717f5dc5484d'
+    platform: POL
+  - address: '0xc5a861787f3e173f2b004d5cfa6a717f5dc5484d'
+    platform: TBA
 crypto: true
 fiat: false
 id: SNL
-id_coinmarketcap: '3977'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3977.png
+id_coinmarketcap: '35953'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35953.png
 logoKey: currencies/snl.png
-name: Sport and Leisure
+name: Snow Leopard

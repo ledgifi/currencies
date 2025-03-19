@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x4442556a08a841227bef04c67a7ba7acf01b6fc8'
-    platform: ETH
+  - address: '0xFf45161474C39cB00699070Dd49582e417b57a7E'
+    platform: TBA
 crypto: true
 fiat: false
 id: MT1
-id_coinmarketcap: '4266'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4266.png
+id_coinmarketcap: '35964'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35964.png
 logoKey: currencies/mt1.png
-name: Monarch
+name: Mint Token

@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x965F298E4ade51C0b0bB24e3369deB6C7D5b3951'
-    platform: ARB
-  - address: '0x8b69A4e5AEB67858E3d03d0124176E85C3DFa51d'
-    platform: ZK
+  - address: '0xa6281838f4a9c5736b2aa1cba9260d3f879623ca'
+    platform: ETH
 crypto: true
 fiat: false
 id: DCA
-id_coinmarketcap: '24037'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24037.png
+id_coinmarketcap: '5140'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5140.png
 logoKey: currencies/dca.png
-name: AutoDCA
+name: Decentralize Currency Assets

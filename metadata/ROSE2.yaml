@@ -1,10 +1,10 @@
 contracts:
-  - address: EQBdr5b7csZbXhDnQ5U364bpLylHfk8AWcug8TwhzCMVcvPA
-    platform: TON
+  - address: '0xdcD6D4e2B3e1D1E1E6Fa8C21C8A323DcbecfF970'
+    platform: AURORA
 crypto: true
 fiat: false
 id: ROSE2
-id_coinmarketcap: '30687'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30687.png
+id_coinmarketcap: '16661'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16661.png
 logoKey: currencies/rose2.png
-name: Rosecoin
+name: Rose

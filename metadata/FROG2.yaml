@@ -1,10 +1,10 @@
 contracts:
-  - address: 6NspJqVFceCiU5D1YgVq7waYoC394Vhqxwg7cSJdFtVE
-    platform: SOL
+  - address: '0x4fEe21439F2b95b72da2F9f901b3956f27fE91D5'
+    platform: ETH
 crypto: true
 fiat: false
 id: FROG2
-id_coinmarketcap: '29980'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29980.png
+id_coinmarketcap: '15931'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15931.png
 logoKey: currencies/frog2.png
-name: Frogonsol
+name: FrogSwap

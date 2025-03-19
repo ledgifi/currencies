@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xB37A6953F6B943B24a769Ea94eaCaD3E4C5495b5'
+    platform: ETH
+  - address: '0x38820D13f4dAcf6E0b5634aE41Ab6CFb00C4CF5D'
+    platform: POL
 crypto: true
 fiat: false
 id: STRC

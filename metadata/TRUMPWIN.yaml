@@ -1,10 +1,10 @@
 contracts:
-  - address: 34MphWDvZeTtZSjkR2R3fRWCwQgb1eGdvYuFEJMfBb44
-    platform: SOL
+  - address: '0x073aF3f70516380654Ba7C5812c4Ab0255F081Bc'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRUMPWIN
-id_coinmarketcap: '31175'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31175.png
+id_coinmarketcap: '6578'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6578.png
 logoKey: currencies/trumpwin.png
-name: Trump Coin
+name: Trump Wins Token

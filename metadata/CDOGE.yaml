@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x0d8cD7b47822670082C854382c323edA2B91E6A9'
-    platform: ETH
+  - address: 5CB5Q7GkxxwduBgq9LboGuHpA2LMJLydy7uwKEhENnAD
+    platform: SOL
 crypto: true
 fiat: false
 id: CDOGE
-id_coinmarketcap: '33954'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33954.png
+id_coinmarketcap: '33389'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33389.png
 logoKey: currencies/cdoge.png
-name: Chief D.O.G.E (chiefdog-cto.com)
+name: CDOGE

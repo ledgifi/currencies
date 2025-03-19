@@ -1,10 +1,14 @@
 contracts:
-  - address: FF4dN8Qy8NNF88HRgMA3TkbRVZ8PTXWXZCZJb59X3Sbg
-    platform: SOL
+  - address: '0xB5039F8bCa27893d48222d54626069bA3E9f23D2'
+    platform: ARB
+  - address: '0xdE9a73272BC2F28189CE3c243e36FaFDA2485212'
+    platform: BNB
+  - address: '0xd5F9bdc2e6c8EE0484a6293ce7FA97d96a5e1012'
+    platform: HT
 crypto: true
 fiat: false
 id: CAN1
-id_coinmarketcap: '30162'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30162.png
+id_coinmarketcap: '8537'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8537.png
 logoKey: currencies/can1.png
-name: canwifhat
+name: Channels

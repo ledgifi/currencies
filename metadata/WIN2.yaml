@@ -1,10 +1,12 @@
 contracts:
-  - address: FF71MVJYgMeGcJRjvdLUkThHupPFNvXyVPCWdq7VPsXd
-    platform: SOL
+  - address: '0xb10cb07ca2cdac77fbb5707f6690301f9d036f45'
+    platform: BNB
+  - address: '0xb10CB07CA2CDac77FbB5707f6690301f9d036F45'
+    platform: ETH
 crypto: true
 fiat: false
 id: WIN2
-id_coinmarketcap: '31754'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31754.png
+id_coinmarketcap: '28992'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28992.png
 logoKey: currencies/win2.png
-name: WINBIT CASINO
+name: Win

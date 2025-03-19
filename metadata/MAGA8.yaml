@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x25d01b5b39e58843291586a5d8afddf744bdeb13'
+  - address: '0x3EF144cB45C8a390EB207A6aa9bFcf3DA639cb5C'
+    platform: BNB
+  - address: '0xc9b6A17EbB43491635F603A01f8Bb3e4B5D22228'
     platform: ETH
 crypto: true
 fiat: false
 id: MAGA8
-id_coinmarketcap: '29222'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29222.png
+id_coinmarketcap: '13859'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13859.png
 logoKey: currencies/maga8.png
-name: MAGA 2024
+name: MAGA Coin

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xcc0014ccb39f6e86b1be0f17859a783b6722722f'
-    platform: ETH
+  - address: '0x214666c2da7992152fd0b868C9568F3C430F3b50'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHO1
-id_coinmarketcap: '6540'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6540.png
+id_coinmarketcap: '31962'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31962.png
 logoKey: currencies/sho1.png
-name: Showcase
+name: SHIRO

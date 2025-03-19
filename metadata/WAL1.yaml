@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xd306c124282880858a634e7396383ae58d37c79c'
+    platform: BNB
 crypto: true
 fiat: false
 id: WAL1
-id_coinmarketcap: '4395'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4395.png
+id_coinmarketcap: '16034'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16034.png
 logoKey: currencies/wal1.png
-name: WAL
+name: The Wasted Lands

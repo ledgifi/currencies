@@ -1,10 +1,10 @@
 contracts:
-  - address: CqMLnuQ8bVSiak5crmhA3PCrwwtKi7R5VzcxJDKArfYN
-    platform: SOL
+  - address: '0x8103bb77ed2035b5da9a3a65d9c313cb6ee41dbd'
+    platform: VIC
 crypto: true
 fiat: false
 id: TAB
-id_coinmarketcap: '33756'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33756.png
+id_coinmarketcap: '11185'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11185.png
 logoKey: currencies/tab.png
-name: TabMan
+name: TABANK

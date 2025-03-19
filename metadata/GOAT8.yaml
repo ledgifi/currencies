@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x72d20164569Cc77fd4d056319C9Afd36A9b0bFA3'
-    platform: BNB
+  - address: '0x847f6695874fe9d2abB6fE8Bf56D809BBF1e83DA'
+    platform: ETH
 crypto: true
 fiat: false
 id: GOAT8
-id_coinmarketcap: '9706'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9706.png
+id_coinmarketcap: '33641'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33641.png
 logoKey: currencies/goat8.png
-name: ZuckGoat
+name: Goatseus Maximus (ETH)

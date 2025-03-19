@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x00eA0C4E7B95484aCB171f2691f302d0eC26b0A4'
-    platform: BNB
+  - address: '0xa7997f0ec9fa54e89659229fb26537b6a725b798'
+    platform: ARB
+  - address: '0xab846fb6c81370327e784ae7cbb6d6a6af6ff4bf'
+    platform: ETH
 crypto: true
 fiat: false
 id: PAL4
-id_coinmarketcap: '8207'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8207.png
+id_coinmarketcap: '19072'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19072.png
 logoKey: currencies/pal4.png
-name: PlayAndLike
+name: Paladin

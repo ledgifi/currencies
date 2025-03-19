@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xe09c4cf1a912cf33a6f746d70f3114a32f78b517'
-    platform: BNB
+  - address: '0x055a902303746382fbb7d18f6ae0df56efdc5213'
+    platform: RSK
 crypto: true
 fiat: false
 id: FISH4
-id_coinmarketcap: '13621'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13621.png
+id_coinmarketcap: '22384'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22384.png
 logoKey: currencies/fish4.png
-name: FishCoin
+name: BabelFish

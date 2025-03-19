@@ -1,11 +1,9 @@
 contracts:
   - address: '0x1526ca6e3d440159ab02f11815de9ceb62192bf6'
     platform: ARB
-  - address: '0xe4e11e02AA14c7f24DB749421986EAEc1369e8C9'
+  - address: '0xa4ce62BB3047E3C4aE52b7eC20c3EB10f4397AF7'
     platform: BNB
-  - address: '0xf5a1f8bc0aa7d6ebf3a44856c622bd047bfb5bfa'
-    platform: ETH
-  - address: TKP1118XrpMHeAmsyoKN4Tcn2WGTRc2w5e
+  - address: TSw4Kg3y5AvPpYeq8jPSALUDzYNfRd1VQa
     platform: TRX
 crypto: true
 fiat: false

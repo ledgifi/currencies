@@ -1,10 +1,18 @@
 contracts:
-  - address: 8vUQxYgcJxiPgXFNeybv7Xd64QwFvvUoWvjomtPaP9WA
-    platform: SOL
+  - address: e043fd7b2076ea9e1b279d200b59e153bf6b299a72ce6e2c14aeb790424c554553
+    platform: ADA
+  - address: '0x8c008BBA2Dd56b99f4A6aB276bE3a478cB075F0C'
+    platform: ADA
+  - address: '0xCFBF083A7749C23391296C65ADBdd8A4118b861f'
+    platform: BOBA
+  - address: '0xcE108380c39e4fE9DAcE9D5597E048Bcc5Ef743B'
+    platform: ETH
+  - address: '0xadBd83BFc4Ff8A4f0BBf1d1B8D4780717a4E8Fb5'
+    platform: POL
 crypto: true
 fiat: false
 id: BLUES
-id_coinmarketcap: '33003'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33003.png
+id_coinmarketcap: '19595'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19595.png
 logoKey: currencies/blues.png
-name: BluesCrypto
+name: Blueshift

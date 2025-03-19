@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xfd42728b76772a82ccad527e298dd15a55f4ddd6'
-    platform: BNB
+  - address: '0x2881080650b782a48b03a1f5bd30df117b6a5bd5'
+    platform: ETH
 crypto: true
 fiat: false
 id: KAREN1
-id_coinmarketcap: '10378'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10378.png
+id_coinmarketcap: '16125'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16125.png
 logoKey: currencies/karen1.png
-name: KarenCoin
+name: Senator Karen

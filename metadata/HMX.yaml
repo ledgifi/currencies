@@ -1,12 +1,12 @@
 contracts:
-  - address: '0x83d6c8C06ac276465e4C92E7aC8C23740F435140'
-    platform: ARB
-  - address: '0x83d6c8c06ac276465e4c92e7ac8c23740f435140'
+  - address: '0xb012be90957d70d9a070918027655f998c123a88'
     platform: ETH
+  - address: '0x002d4e9e03f192cc33b128319a049f353db98fbf4d98f717fd0b7f66a0462142'
+    platform: XOR
 crypto: true
 fiat: false
 id: HMX
-id_coinmarketcap: '29121'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29121.png
+id_coinmarketcap: '23747'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23747.png
 logoKey: currencies/hmx.png
-name: HMX
+name: Hermes DAO

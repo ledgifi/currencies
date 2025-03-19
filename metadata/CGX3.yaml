@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xdbde08d475bd50e2d1a6af34c7b10dd430d8396e'
-    platform: ETH
+  - address: '0x4dEBB4d2EF775E601967250102E2732C3ec36471'
+    platform: BNB
 crypto: true
 fiat: false
 id: CGX3
-id_coinmarketcap: '35344'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35344.png
+id_coinmarketcap: '24412'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24412.png
 logoKey: currencies/cgx3.png
-name: Forkast
+name: ChainGamingX

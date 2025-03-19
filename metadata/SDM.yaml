@@ -1,6 +1,8 @@
 contracts:
   - address: '0x516f8a1fB458EBdcFd0F544fF85c69C1c0Ebc31d'
     platform: BNB
+  - address: '0x9cfe02Eb040C6F5718126128DBBa0c1d364d9c07'
+    platform: TBA
 crypto: true
 fiat: false
 id: SDM

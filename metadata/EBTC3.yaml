@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x30f5919849514be54d11941e90cc529099267f02'
+  - address: '0x657e8C867D8B37dCC18fA4Caead9C45EB088C642'
     platform: ETH
 crypto: true
 fiat: false
 id: EBTC3
-id_coinmarketcap: '4368'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4368.png
+id_coinmarketcap: '33696'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33696.png
 logoKey: currencies/ebtc3.png
-name: ExtremeBTC
+name: ether.fi Staked BTC

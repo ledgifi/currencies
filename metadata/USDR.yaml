@@ -1,20 +1,10 @@
 contracts:
-  - address: '0x00c7d33fCE26AC11584582923AE4D182634de0e8'
-    platform: ARB
-  - address: '0x509a5A600a2258d1e984b87e0DB190C6742D4Cb1'
-    platform: BNB
-  - address: '0x6ceD48EfBb581A141667D7487222E42a3FA17cf7'
+  - address: '0x7b43e3875440b44613dc3bc08e7763e6da63c8f8'
     platform: ETH
-  - address: '0x6ceD48EfBb581A141667D7487222E42a3FA17cf7'
-    platform: OP
-  - address: '0x40379a439D4F6795B6fc9aa5687dB461677A2dBa'
-    platform: POL
-  - address: '0x00c7d33fCE26AC11584582923AE4D182634de0e8'
-    platform: TBA
 crypto: true
 fiat: false
 id: USDR
-id_coinmarketcap: '21555'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21555.png
+id_coinmarketcap: '35372'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35372.png
 logoKey: currencies/usdr.png
-name: Real USD
+name: StablR USD

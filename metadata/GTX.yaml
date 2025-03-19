@@ -1,10 +1,10 @@
 contracts:
-  - address: TNX4acLTt4X1hTnx2dFD8RbN5gX6gBEVmU
-    platform: TRX
+  - address: '0x916885426255235DA7a0BD90447986c00675f9EC'
+    platform: ETH
 crypto: true
 fiat: false
 id: GTX
-id_coinmarketcap: '20892'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20892.png
+id_coinmarketcap: '5366'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5366.png
 logoKey: currencies/gtx.png
-name: Global Trading Xenocurrency
+name: GoalTime N

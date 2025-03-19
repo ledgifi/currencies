@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x184b72289c0992BDf96751354680985a7C4825d6'
+    platform: BNB
+crypto: true
+fiat: false
+id: ASBTC
+id_coinmarketcap: '35438'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35438.png
+logoKey: currencies/asbtc.png
+name: Astherus Staked BTC

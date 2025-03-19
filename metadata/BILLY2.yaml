@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xA3fe99AA5523c874E1581A9860eFdD164cb25e1a'
-    platform: BNB
+  - address: '0x9cbf044bc535db4c93a9f11205a69631d9dcef26'
+    platform: ETH
 crypto: true
 fiat: false
 id: BILLY2
-id_coinmarketcap: '32186'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32186.png
+id_coinmarketcap: '25020'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25020.png
 logoKey: currencies/billy2.png
-name: BILLY (BSC)
+name: Billy Token

@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x07f9702ce093db82dfdc92c2c6e578d6ea8d5e22'
+    platform: ETH
 crypto: true
 fiat: false
 id: OBT1
-id_coinmarketcap: '3031'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3031.png
+id_coinmarketcap: '13914'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13914.png
 logoKey: currencies/obt1.png
-name: Orbis Token
+name: Oobit

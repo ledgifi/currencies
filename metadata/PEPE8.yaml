@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xb46584e0efdE3092e04010A13f2eAe62aDb3b9F0'
-    platform: BNB
+  - address: F9CpWoyeBJfoRB8f2pBe2ZNPbPsEE76mWZWme3StsvHK
+    platform: SOL
 crypto: true
 fiat: false
 id: PEPE8
-id_coinmarketcap: '25359'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25359.png
+id_coinmarketcap: '23450'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23450.png
 logoKey: currencies/pepe8.png
-name: Pepe Coin
+name: PepeSol

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x24404DC041d74cd03cFE28855F555559390C931b'
     platform: ARB
+  - address: '0x0057Ac2d777797d31CD3f8f13bF5e927571D6Ad0'
+    platform: ARBITRUM
 crypto: true
 fiat: false
 id: MOON

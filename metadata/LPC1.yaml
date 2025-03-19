@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xd445f4cCb4c73AF58bBa206bf255918e85c19b65'
+    platform: BNB
 crypto: true
 fiat: false
 id: LPC1
-id_coinmarketcap: '186'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/186.png
+id_coinmarketcap: '32117'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32117.png
 logoKey: currencies/lpc1.png
-name: LeproCoin
+name: Leprechaun

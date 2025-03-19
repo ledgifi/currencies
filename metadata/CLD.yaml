@@ -1,10 +1,10 @@
 contracts:
-  - address: NpkVFDHVfQZzRDzptBujzf8xHs1fDTdjBsR6vdWzjjH
-    platform: SOL
+  - address: '0xc3951d77737733174152532e8b0f27e2c4e9f0dc'
+    platform: ETH
 crypto: true
 fiat: false
 id: CLD
-id_coinmarketcap: '33192'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33192.png
+id_coinmarketcap: '2385'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2385.png
 logoKey: currencies/cld.png
-name: Cloudex Token
+name: Cloud

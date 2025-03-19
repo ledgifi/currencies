@@ -1,6 +1,8 @@
 contracts:
   - address: '0x5d37ABAFd5498B0E7af753a2E83bd4F0335AA89F'
     platform: BNB
+  - address: '0x99ba92234e0f0f7c2a16cb087e7307ade19cab1c'
+    platform: TBA
 crypto: true
 fiat: false
 id: WECO

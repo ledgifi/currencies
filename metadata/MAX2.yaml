@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xe7976c4Efc60d9f4C200Cc1bCEF1A1e3B02c73e7'
+    platform: ETH
 crypto: true
 fiat: false
 id: MAX2
-id_coinmarketcap: '128'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/128.png
+id_coinmarketcap: '5067'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5067.png
 logoKey: currencies/max2.png
-name: Maxcoin
+name: MAX Exchange Token

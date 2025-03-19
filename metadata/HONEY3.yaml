@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x5CB9B847FbA8aAdb8a943fE19C1cc8439d7e00C5'
-    platform: ETH
+  - address: '0xFa363022816aBf82f18a9C2809dCd2BB393F6AC5'
+    platform: BNB
 crypto: true
 fiat: false
 id: HONEY3
-id_coinmarketcap: '11511'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11511.png
+id_coinmarketcap: '11287'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11287.png
 logoKey: currencies/honey3.png
-name: Honey Defi
+name: HoneyFarm Finance

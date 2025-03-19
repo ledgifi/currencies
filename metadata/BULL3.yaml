@@ -1,10 +1,10 @@
 contracts:
-  - address: EhnkvA1qSXksF3ymqSSo9Psf6Qw8P4v18pp9rdbXpump
-    platform: SOL
+  - address: '0xf483af09917ba63f1e274056978036d266eb56e6'
+    platform: BNB
 crypto: true
 fiat: false
 id: BULL3
-id_coinmarketcap: '34046'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34046.png
+id_coinmarketcap: '10482'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10482.png
 logoKey: currencies/bull3.png
-name: Wall Street Bull
+name: BULL FINANCE

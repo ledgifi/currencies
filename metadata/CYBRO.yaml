@@ -1,6 +1,10 @@
 contracts:
   - address: '0x963eec23618bbc8e1766661d5f263f18094ae4d5'
     platform: BLAST
+  - address: '0xA9972b1fAC35fdd8cBdbaA315A002B2Ad91d2ad6'
+    platform: BNB
+  - address: '0xD58826d2C0bAbf1A60d8b508160b52E9C19AFf07'
+    platform: ETH
 crypto: true
 fiat: false
 id: CYBRO

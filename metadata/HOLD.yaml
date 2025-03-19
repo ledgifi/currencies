@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xFF0a636Dfc44Bb0129b631cDd38D21B613290c98'
+    platform: BERA
   - address: '0xed4040fD47629e7c8FBB7DA76bb50B3e7695F0f2'
     platform: ZK
 crypto: true

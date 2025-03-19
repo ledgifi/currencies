@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x3b248cefa87f836a4e6f6d6c9b42991b88dc1d58'
-    platform: BNB
+  - address: 6c8642400e8437f737eb86df0fc8a8437c760f48592b1ba8f5767e81456d706f7761
+    platform: ADA
 crypto: true
 fiat: false
 id: EMP3
-id_coinmarketcap: '17633'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17633.png
+id_coinmarketcap: '19606'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19606.png
 logoKey: currencies/emp3.png
-name: Emp Money
+name: Empowa

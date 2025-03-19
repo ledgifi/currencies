@@ -1,5 +1,7 @@
 contracts:
   - address: '0x696c0bA235444607A1c4b93E6b34Ba14928c1B60'
+    platform: MATIC
+  - address: '0x696c0bA235444607A1c4b93E6b34Ba14928c1B60'
     platform: POL
 crypto: true
 fiat: false

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x75c97384ca209f915381755c582ec0e2ce88c1ba'
-    platform: ETH
+  - address: E61GYSjBEHaXR5kdhUQrD4F3VmhR2DDthHogrt9TyEpF
+    platform: SOL
 crypto: true
 fiat: false
 id: FINE1
-id_coinmarketcap: '28052'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28052.png
+id_coinmarketcap: '35978'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35978.png
 logoKey: currencies/fine1.png
-name: Fine
+name: This Is Fine

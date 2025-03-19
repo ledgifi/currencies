@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x56083560594E314b5cDd1680eC6a493bb851BBd8'
+    platform: BNB
 crypto: true
 fiat: false
 id: THC
-id_coinmarketcap: '416'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/416.png
+id_coinmarketcap: '14452'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14452.png
 logoKey: currencies/thc.png
-name: HempCoin
+name: Transhuman Coin

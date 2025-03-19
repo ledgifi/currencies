@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xfc93e5844a2015ceef26bf6cae6689ff031509f4'
+  - address: '0x9839675308f4a83e45f4B0C89B8fa264D68B7812'
     platform: ETH
 crypto: true
 fiat: false
 id: CIPHER1
-id_coinmarketcap: '27260'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27260.png
+id_coinmarketcap: '27464'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27464.png
 logoKey: currencies/cipher1.png
-name: Cipher Protocol
+name: Cipher Core

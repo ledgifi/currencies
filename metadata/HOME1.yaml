@@ -1,10 +1,10 @@
 contracts:
-  - address: 2QC9fREiAu6JCHV7Zz15CKd2ebBCVL1Sm6aoZdjn8jo6
-    platform: SOL
+  - address: '0x57c9487f30D04aEE52D323586EC9A23d05A1504e'
+    platform: BNB
 crypto: true
 fiat: false
 id: HOME1
-id_coinmarketcap: '30224'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30224.png
+id_coinmarketcap: '10342'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10342.png
 logoKey: currencies/home1.png
-name: Homer Of Meme
+name: HomeCoin

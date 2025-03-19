@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xB8Fd1438CA2aF47b940FFF34D13cF58C64ac96A1'
+    platform: BNB
 crypto: true
 fiat: false
 id: SFX
-id_coinmarketcap: '4183'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4183.png
+id_coinmarketcap: '35679'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35679.png
 logoKey: currencies/sfx.png
-name: Safex Cash
+name: SpaceFrog X

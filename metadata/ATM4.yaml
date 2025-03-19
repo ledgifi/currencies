@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x9B11EFcAAA1890f6eE52C6bB7CF8153aC5d74139'
+    platform: ETH
 crypto: true
 fiat: false
 id: ATM4
-id_coinmarketcap: '20945'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20945.png
+id_coinmarketcap: '2015'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2015.png
 logoKey: currencies/atm4.png
-name: AstroMoon
+name: ATMChain

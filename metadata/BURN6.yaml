@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x2f4FC16308Be09e7611a047B9576881Eb5298dD6'
-    platform: AVAX
+  - address: '0xa2fe5e51729be71261bcf42854012827bc44c044'
+    platform: ETH
 crypto: true
 fiat: false
 id: BURN6
-id_coinmarketcap: '18441'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18441.png
+id_coinmarketcap: '19755'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19755.png
 logoKey: currencies/burn6.png
-name: Snow Burn
+name: Burn

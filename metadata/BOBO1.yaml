@@ -1,10 +1,10 @@
 contracts:
-  - address: Bobo54AXWLGQWqCK6EZdrBQz4bKJXeBE9ExD1HJGbXed
-    platform: SOL
+  - address: '0x5888641e3e6cBeA6D84Ba81EDb217bD691d3bE38'
+    platform: ETH
 crypto: true
 fiat: false
 id: BOBO1
-id_coinmarketcap: '32500'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32500.png
+id_coinmarketcap: '24552'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24552.png
 logoKey: currencies/bobo1.png
-name: Bobo The Bear
+name: Bobo

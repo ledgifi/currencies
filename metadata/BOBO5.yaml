@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x9cc3d8b8d7ef22e246b848c356e4e9f4b0bd2068'
-    platform: ARB
+  - address: '0x05ea877924ec89ee62eefe483a8af97e77daeefd'
+    platform: BNB
 crypto: true
 fiat: false
 id: BOBO5
-id_coinmarketcap: '26295'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26295.png
+id_coinmarketcap: '30582'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30582.png
 logoKey: currencies/bobo5.png
-name: BOBO ARB
+name: BOBO

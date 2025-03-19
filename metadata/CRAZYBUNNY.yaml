@@ -1,10 +1,10 @@
 contracts:
-  - address: 2ncKzZN6b2GbwWZVxQ4Q7nRQZbzqaR61MXrp4J7VE4Zj
-    platform: SOL
+  - address: '0x48ed9372169ef0bf2b901bbe45e52b6a6b8f1ecc'
+    platform: BNB
 crypto: true
 fiat: false
 id: CRAZYBUNNY
-id_coinmarketcap: '29664'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29664.png
+id_coinmarketcap: '24267'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24267.png
 logoKey: currencies/crazybunny.png
 name: Crazy Bunny

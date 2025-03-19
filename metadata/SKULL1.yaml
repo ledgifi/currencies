@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xfa5992A8A47aF7029e04eC6a95203AD3f301460b'
-    platform: FTM
+  - address: '0x70eF0Df8B656403fc8c632C52661f19fc9934471'
+    platform: ETH
 crypto: true
 fiat: false
 id: SKULL1
-id_coinmarketcap: '23629'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23629.png
+id_coinmarketcap: '33684'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33684.png
 logoKey: currencies/skull1.png
-name: Skull Order
+name: Wolf Skull

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x4f47a0d15c1e53f3d94c069c7d16977c29f9cb6b'
-    platform: BNB
+  - address: '0xb8b1af593dc37b33a2c87c8db1c9051fc32858b7'
+    platform: BERA
 crypto: true
 fiat: false
 id: RAMEN
-id_coinmarketcap: '8547'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8547.png
+id_coinmarketcap: '35957'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35957.png
 logoKey: currencies/ramen.png
-name: RamenSwap
+name: Ramen

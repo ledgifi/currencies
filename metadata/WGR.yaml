@@ -1,7 +1,7 @@
 contracts:
-  - address: '0xdBf8265B1d5244A13424f13977723AcF5395eAB2'
-    platform: BNB
   - address: WGR-D3D
+    platform: BNB
+  - address: '0xdBf8265B1d5244A13424f13977723AcF5395eAB2'
     platform: BNB
   - address: '0xc237868a9c5729bdf3173dddacaa336a0a5bb6e0'
     platform: ETH

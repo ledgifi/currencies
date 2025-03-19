@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x4329f1fbb62dea8960237fd975a794a604c57ff7'
-    platform: BNB
+  - address: '0xf53c580bc4065405bc649cc077ff4f2f28528f4b'
+    platform: ETH
 crypto: true
 fiat: false
 id: BWT1
-id_coinmarketcap: '11749'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11749.png
+id_coinmarketcap: '2867'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2867.png
 logoKey: currencies/bwt1.png
-name: BabyWhiteTiger
+name: Bittwatt

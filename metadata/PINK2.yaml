@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x9133049Fb1FdDC110c92BF5b7Df635abB70C89DC'
-    platform: BNB
-  - address: '0x30A54FbFF50f86C3a289fa70e677051a86677be4'
-    platform: MOVR
+  - address: 6Wav5ysCbupDfrhnXqE94UncK2ckfJQLY5jiHRc6kvoD
+    platform: SOL
 crypto: true
 fiat: false
 id: PINK2
-id_coinmarketcap: '9740'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9740.png
+id_coinmarketcap: '32541'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32541.png
 logoKey: currencies/pink2.png
-name: Dot Finance
+name: PINK - The Panther

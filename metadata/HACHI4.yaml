@@ -1,12 +1,10 @@
 contracts:
-  - address: '0xF9a76af0bf7a8D4718fb7956a6873eAA64bbD0D9'
-    platform: ARB
-  - address: '0x967b0c95295ead8faef70d26a7846aecd349aaff'
+  - address: '0x26ee9f83c61193ea6b636001b1550cd0edf6ebad'
     platform: ETH
 crypto: true
 fiat: false
 id: HACHI4
-id_coinmarketcap: '23338'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23338.png
+id_coinmarketcap: '26800'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26800.png
 logoKey: currencies/hachi4.png
-name: Akita DAO
+name: Hachiko

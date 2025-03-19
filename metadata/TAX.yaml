@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x7aDFdD3A5C70fe047608F68f763830A973843A8a'
-    platform: AVAX
-  - address: '0x5fe52cfc3390751f610075646bebfbca5e937ff7'
-    platform: BNB
+  - address: TaxJXxxrFxxiWUNS6MMA9XpftPjfo3h7C44sLoRHZRs
+    platform: SOL
 crypto: true
 fiat: false
 id: TAX
-id_coinmarketcap: '19291'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19291.png
+id_coinmarketcap: '35970'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35970.png
 logoKey: currencies/tax.png
-name: MetaToll
+name: Taxpad

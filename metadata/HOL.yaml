@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x7b8656c95944f1d6e2e6deadedd0392a4138d8dd'
-    platform: BNB
+  - address: '0x65C101E95D7DD475c7966330fa1A803205FF92aB'
+    platform: ARB
 crypto: true
 fiat: false
 id: HOL
-id_coinmarketcap: '14988'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14988.png
+id_coinmarketcap: '35611'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35611.png
 logoKey: currencies/hol.png
-name: Holiday Token
+name: Hall of Legends

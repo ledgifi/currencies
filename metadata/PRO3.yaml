@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x259EF6776648500D7F1A8aBA3651E38b1121e65e'
+    platform: METIS
 crypto: true
 fiat: false
 id: PRO3
-id_coinmarketcap: '905'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/905.png
+id_coinmarketcap: '19565'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19565.png
 logoKey: currencies/pro3.png
-name: ProsperityCoin
+name: Prometheus

@@ -1,7 +1,7 @@
 contracts:
-  - address: '0xede2f059545e8cde832d8da3985caacf795b8765'
-    platform: BNB
   - address: ECO-083
+    platform: BNB
+  - address: '0xede2f059545e8cde832d8da3985caacf795b8765'
     platform: BNB
   - address: '0x191557728e4d8caa4ac94f86af842148c0fa8f7e'
     platform: ETH

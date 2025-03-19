@@ -1,12 +1,10 @@
 contracts:
-  - address: '0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf'
-    platform: ETH
-  - address: '0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf'
+  - address: '0x805aF152eebc7e280628A0Bb30Dd916b5B7716fb'
     platform: TBA
 crypto: true
 fiat: false
 id: CBBTC1
-id_coinmarketcap: '32994'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32994.png
+id_coinmarketcap: '32731'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32731.png
 logoKey: currencies/cbbtc1.png
-name: Coinbase Wrapped BTC
+name: cbBTC

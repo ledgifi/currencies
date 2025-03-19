@@ -1,18 +1,10 @@
 contracts:
-  - address: '0x69000dFD5025E82f48Eb28325A2B88a241182CEd'
-    platform: ARB
-  - address: '0x69000dFD5025E82f48Eb28325A2B88a241182CEd'
+  - address: '0x9959413ec3eb6cEe73aD16e6cd531352C9cE816F'
     platform: BNB
-  - address: '0x69000dFD5025E82f48Eb28325A2B88a241182CEd'
-    platform: ETH
-  - address: '0x69000dFD5025E82f48Eb28325A2B88a241182CEd'
-    platform: OKB
-  - address: '0x69000dFD5025E82f48Eb28325A2B88a241182CEd'
-    platform: TBA
 crypto: true
 fiat: false
 id: ZAI1
-id_coinmarketcap: '32824'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32824.png
+id_coinmarketcap: '35397'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35397.png
 logoKey: currencies/zai1.png
-name: ZAI Stablecoin
+name: ZAYA AI

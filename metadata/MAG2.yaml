@@ -1,16 +1,10 @@
 contracts:
-  - address: aura1qgt0tesm52tgdda5h8262rs00lnkagmky466gzlcx8dcvt48dl0se9ph3e
-    platform: ATOM
-  - address: '0x53B22d356F34e977e48921e07381DE0f8200b8e6'
-    platform: AVAX
-  - address: '0xd4c73fd18f732bc6ee9fb193d109b2eed815df80'
-    platform: BNB
-  - address: '0x53B22d356F34e977e48921e07381DE0f8200b8e6'
-    platform: OKT
+  - address: '0x2DC1cDa9186a4993bD36dE60D08787c0C382BEAD'
+    platform: TBA
 crypto: true
 fiat: false
 id: MAG2
-id_coinmarketcap: '21625'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21625.png
+id_coinmarketcap: '27879'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27879.png
 logoKey: currencies/mag2.png
-name: Monsterra (MAG)
+name: Magnate Finance

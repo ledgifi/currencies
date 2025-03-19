@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xfa94348467f64d5a457f75f8bc40495d33c65abb'
-    platform: AURORA
+  - address: '0xcc06579a4cd31b79d5277ed637edbfeb7bb2686a'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRI1
-id_coinmarketcap: '16547'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16547.png
+id_coinmarketcap: '22767'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22767.png
 logoKey: currencies/tri1.png
-name: Trisolaris
+name: Trillant

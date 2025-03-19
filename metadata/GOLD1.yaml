@@ -1,10 +1,10 @@
 contracts:
-  - address: FwFJkwW8m4QCuqzYzK6S3UHMPmB7mWWpC1jBEJ6kLW3M
-    platform: SOL
+  - address: '0xb3a6381070b1a15169dea646166ec0699fdaea79'
+    platform: BNB
 crypto: true
 fiat: false
 id: GOLD1
-id_coinmarketcap: '33864'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33864.png
+id_coinmarketcap: '12082'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12082.png
 logoKey: currencies/gold1.png
-name: GOLDEN AGE
+name: CyberDragon Gold

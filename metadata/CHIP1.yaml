@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xa25fc408ef05321103243557c851101f9acee608'
+    platform: BNB
 crypto: true
 fiat: false
 id: CHIP1
-id_coinmarketcap: '1021'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1021.png
+id_coinmarketcap: '9079'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9079.png
 logoKey: currencies/chip1.png
-name: ChipCoin
+name: Chip

@@ -1,7 +1,12 @@
+contracts:
+  - address: '0x291A50E611035b6562a2374B8B44dE70aA8d7896'
+    platform: ARB
+  - address: '0x5ee3188a3f8adee1d736edd4ae85000105c88f66'
+    platform: ETH
 crypto: true
 fiat: false
 id: PEN2
-id_coinmarketcap: '23476'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23476.png
+id_coinmarketcap: '34420'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34420.png
 logoKey: currencies/pen2.png
-name: Pendulum
+name: Pentagon Games

@@ -1,10 +1,10 @@
 contracts:
-  - address: CpaLbvBSsNV9iQTfmUHHomawKH2jXt3HxT6umjcBpnWe
-    platform: SOL
+  - address: '0x3228d1624759deAf3D967B2c1214B4ace65A4F6a'
+    platform: BNB
 crypto: true
 fiat: false
 id: GEGE
-id_coinmarketcap: '31888'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31888.png
+id_coinmarketcap: '29657'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29657.png
 logoKey: currencies/gege.png
-name: GEGE
+name: Gege

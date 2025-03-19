@@ -1,7 +1,12 @@
+contracts:
+  - address: '0x71da932ccda723ba3ab730c976bc66daaf9c598c'
+    platform: ETH
+  - address: '0x59f680f431f5280e7662b96f2dfa195d1693852d'
+    platform: TBA
 crypto: true
 fiat: false
 id: MAG4
-id_coinmarketcap: '2218'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2218.png
+id_coinmarketcap: '35176'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35176.png
 logoKey: currencies/mag4.png
-name: Magnet
+name: Magnify Cash

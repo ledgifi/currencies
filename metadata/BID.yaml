@@ -1,12 +1,12 @@
 contracts:
-  - address: '0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa'
-    platform: ETH
-  - address: '0x2977893f4c04bfbd6efc68d0e46598d27810d3db'
-    platform: GNO
+  - address: '0xa1832f7F4e534aE557f9B5AB76dE54B1873e498B'
+    platform: BNB
+  - address: '0xa1832f7F4e534aE557f9B5AB76dE54B1873e498B'
+    platform: TBA
 crypto: true
 fiat: false
 id: BID
-id_coinmarketcap: '7200'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7200.png
+id_coinmarketcap: '35430'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35430.png
 logoKey: currencies/bid.png
-name: Bidao
+name: CreatorBid

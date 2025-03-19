@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: TADA-5c032c
     platform: EGLD
+  - address: AY1emMxqWLJnHE2HkQvLdLyVpZdsLzq4S3tx5whCNQoC
+    platform: SOL
 crypto: true
 fiat: false
 id: TADA

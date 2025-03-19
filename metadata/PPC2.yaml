@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x84f710bae3316a74fb0fcb01904d2578a4cc6a26'
-    platform: ETH
+  - address: '0xfe4dDae4fC4632bffe20966C9208C888b98f1699'
+    platform: BNB
 crypto: true
 fiat: false
 id: PPC2
-id_coinmarketcap: '6253'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6253.png
+id_coinmarketcap: '22845'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22845.png
 logoKey: currencies/ppc2.png
-name: PHILLIPS PAY COIN
+name: Pokemon Play

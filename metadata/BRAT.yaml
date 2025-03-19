@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x9e77d5a1251b6f7d456722a6eac6d2d5980bd891'
-    platform: ETH
+  - address: '0xb4d4Ff3fcbd6965962A79229aa94631D394217CB'
+    platform: TBA
 crypto: true
 fiat: false
 id: BRAT
-id_coinmarketcap: '1926'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1926.png
+id_coinmarketcap: '35726'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35726.png
 logoKey: currencies/brat.png
-name: BROTHER
+name: Brat

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x3b4443f97b37a6ef864c3f0f1632e366b4f1d20f'
-    platform: BNB
+  - address: Hrh6QCmnGjtq3gqg4xZzncXS7wAWeVmu7SCRfQ4N5H6S
+    platform: SOL
 crypto: true
 fiat: false
 id: $RICH
-id_coinmarketcap: '10068'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10068.png
+id_coinmarketcap: '35980'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35980.png
 logoKey: currencies/$rich.png
-name: RichieRich Coin
+name: $RICH

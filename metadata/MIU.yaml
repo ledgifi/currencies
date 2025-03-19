@@ -1,10 +1,10 @@
 contracts:
-  - address: ZpXcEXDvM5GQPSbBFpds8brgXKyQrGihYsT2jropump
-    platform: SOL
+  - address: 0x32a976482bf4154961bf20bfa3567a80122fdf8e8f8b28d752b609d8640f7846::miu::MIU
+    platform: SUI
 crypto: true
 fiat: false
 id: MIU
-id_coinmarketcap: '32131'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32131.png
+id_coinmarketcap: '35713'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35713.png
 logoKey: currencies/miu.png
 name: Miu

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x575e5dc6d16e6043c79f0f44282960a0d2cc86d3'
-    platform: CHZ
+  - address: 2z1p8xCEjRzpBHjXWrx4tJnz7BFL6z7NnvbCxH7bpump
+    platform: SOL
 crypto: true
 fiat: false
 id: SAN1
-id_coinmarketcap: '22110'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22110.png
+id_coinmarketcap: '35572'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35572.png
 logoKey: currencies/san1.png
-name: Club Santos Laguna Fan Token
+name: San Chan

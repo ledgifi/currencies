@@ -1,7 +1,10 @@
+contracts:
+  - address: DRX-b7f337
+    platform: EGLD
 crypto: true
 fiat: false
 id: DRX1
-id_coinmarketcap: '547'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/547.png
+id_coinmarketcap: '34762'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34762.png
 logoKey: currencies/drx1.png
-name: DarkFox
+name: DoctorX

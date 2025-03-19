@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xaD0354F71332AAd8Df5d840458d4Fd86456DC7b5'
-    platform: BNB
+  - address: 3WKzqdh3ZW3tP2PhAtAuDu4e1XsEzFhk7qnN8mApm3S2
+    platform: SOL
 crypto: true
 fiat: false
 id: CAT21
-id_coinmarketcap: '31427'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31427.png
+id_coinmarketcap: '31438'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31438.png
 logoKey: currencies/cat21.png
-name: CAT SYLVESTER
+name: CAT (SOL)

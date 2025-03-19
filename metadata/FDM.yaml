@@ -1,6 +1,8 @@
 contracts:
   - address: '0x60d91f6D394c5004A782E0D175E2b839e078FB83'
     platform: ETH
+  - address: '0xE3Df2C1f1ca54707AB49747eeBc7658bb1c8Bf1C'
+    platform: FUSE
 crypto: true
 fiat: false
 id: FDM

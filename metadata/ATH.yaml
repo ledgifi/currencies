@@ -3,6 +3,8 @@ contracts:
     platform: ARB
   - address: '0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b'
     platform: ETH
+  - address: Dm5BxyMetG3Aq5PaG1BrG7rBYqEMtnkjvPNMExfacVk7
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xeBa8bA0a568225678655F5E53FfE31866aE02c95'
+    platform: BNB
 crypto: true
 fiat: false
 id: WCC1
-id_coinmarketcap: '5233'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5233.png
+id_coinmarketcap: '22237'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22237.png
 logoKey: currencies/wcc1.png
-name: WinCash
+name: Worldcore Coin

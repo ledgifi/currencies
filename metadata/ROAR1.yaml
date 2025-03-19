@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xd1cb43c9d1859e57057770cb9ed0398736ad9d6f'
+    platform: BONE
   - address: '0xD8C978de79E12728e38aa952a6cB4166F891790f'
     platform: ETH
 crypto: true

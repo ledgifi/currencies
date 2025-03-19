@@ -1,6 +1,22 @@
 contracts:
-  - address: '0x1a7f5FB3dfEd1925742b535Ce4693a5B60Fff9dE'
+  - address: '0x75c5f6d32d8ef3a4f0f43f7792aa08e8678972f9'
+    platform: ARB
+  - address: '0xe9dc987b939a7b33270e56532297cf82716c79a3'
+    platform: AURORA
+  - address: '0xb355f4f4cc84a9429a59d5c2b98d77016f7ec482'
+    platform: AVAX
+  - address: '0x55d6043859dbe45e0a2571ea64b3855062fd86d8'
     platform: BNB
+  - address: '0xe9dc987b939a7b33270e56532297cf82716c79a3'
+    platform: CELO
+  - address: '0xe57425f1598f9b0d6219706b77f4b3da573a3695'
+    platform: ETH
+  - address: '0xb355f4f4cc84a9429a59d5c2b98d77016f7ec482'
+    platform: FTM
+  - address: '0x75c5f6d32d8ef3a4f0f43f7792aa08e8678972f9'
+    platform: OP
+  - address: '0xb355f4f4cc84a9429a59d5c2b98d77016f7ec482'
+    platform: POL
   - address: '0xe132fef618ec9f47a7578ed1b9db77b50243a7e5'
     platform: TBA
 crypto: true

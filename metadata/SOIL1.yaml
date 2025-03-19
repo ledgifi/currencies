@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x54991328ab43c7d5d31c19d1b9fa048e77b5cd16'
+    platform: ETH
   - address: '0x43C73b90E0C2A355784dCf0Da12f477729b31e77'
     platform: POL
 crypto: true

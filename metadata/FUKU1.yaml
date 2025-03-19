@@ -1,10 +1,10 @@
 contracts:
-  - address: 7SoY54eqR31jhRyNuGq9yCPxFgJC4nRbaQUiKnP3GEos
-    platform: SOL
+  - address: '0x6a159543abfc7baf816fdbc99efd48e4ee7acc63'
+    platform: ETH
 crypto: true
 fiat: false
 id: FUKU1
-id_coinmarketcap: '32624'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32624.png
+id_coinmarketcap: '32622'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32622.png
 logoKey: currencies/fuku1.png
-name: Fuku-Kun (fukuonsol.vip)
+name: FUKU (fukucoin.io)

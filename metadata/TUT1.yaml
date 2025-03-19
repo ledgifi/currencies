@@ -1,10 +1,10 @@
 contracts:
-  - address: 6wShYhqA2gs3HUAZ4MyaPDpKPBWFJUQQUGaCoy2k1Tgz
-    platform: SOL
+  - address: '0x12a34a6759c871c4c1e8a0a42cfc97e4d7aaf68d'
+    platform: POL
 crypto: true
 fiat: false
 id: TUT1
-id_coinmarketcap: '16505'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16505.png
+id_coinmarketcap: '14349'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14349.png
 logoKey: currencies/tut1.png
-name: Turnt Up Tikis
+name: Tutellus

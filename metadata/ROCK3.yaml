@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x724Af984b63FD53fDEdb5dEd17063001e3Afc3e5'
-    platform: ETH
+  - address: '0xC3387E4285e9F80A7cFDf02B4ac6cdF2476A528A'
+    platform: BNB
 crypto: true
 fiat: false
 id: ROCK3
-id_coinmarketcap: '34458'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34458.png
+id_coinmarketcap: '15842'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15842.png
 logoKey: currencies/rock3.png
-name: Rock (rockgoup.com)
+name: Bedrock

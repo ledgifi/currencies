@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x9Be776559fED779cAbd67042a7B8987AAe592541'
-    platform: ETH
+  - address: '0x99cd7207d1cbe59033a01892c06889adae47b0e5'
+    platform: BNB
 crypto: true
 fiat: false
 id: BULL2
-id_coinmarketcap: '24679'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24679.png
+id_coinmarketcap: '20156'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20156.png
 logoKey: currencies/bull2.png
-name: Bull Market
+name: Bullshit Inu

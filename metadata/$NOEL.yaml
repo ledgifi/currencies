@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x578A30D32Cc99468Ab27a0218DBe52f1B61b0F20'
+    platform: BNB
+crypto: true
+fiat: false
+id: $NOEL
+id_coinmarketcap: '36058'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36058.png
+logoKey: currencies/$noel.png
+name: AskNoel

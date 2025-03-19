@@ -1,10 +1,14 @@
 contracts:
-  - address: 15637826ecbdb4e5747fd41f830d9735a8c4e6d927e44d29ceef9e885a4f4f
-    platform: ADA
+  - address: '0x1689A6E1f09658FF37d0bB131514E701045876dA'
+    platform: ARB
+  - address: '0x09F098B155D561Fc9F7BcCc97038b7e3d20bAF74'
+    platform: ETH
+  - address: '0x7cd3e6e1A69409deF0D78D17a492e8e143F40eC5'
+    platform: GLMR
 crypto: true
 fiat: false
 id: ZOO9
-id_coinmarketcap: '23737'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23737.png
+id_coinmarketcap: '22589'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22589.png
 logoKey: currencies/zoo9.png
-name: ADAZOO
+name: ZooDAO

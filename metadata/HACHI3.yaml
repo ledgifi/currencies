@@ -1,10 +1,12 @@
 contracts:
-  - address: HAchgdhsPRicRTEKZkNH1tcoaAs8gJk1rrJzjA7s5KdN
-    platform: SOL
+  - address: '0xF9a76af0bf7a8D4718fb7956a6873eAA64bbD0D9'
+    platform: ARB
+  - address: '0x967b0c95295ead8faef70d26a7846aecd349aaff'
+    platform: ETH
 crypto: true
 fiat: false
 id: HACHI3
-id_coinmarketcap: '32105'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32105.png
+id_coinmarketcap: '23338'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23338.png
 logoKey: currencies/hachi3.png
-name: Hachiko
+name: Akita DAO

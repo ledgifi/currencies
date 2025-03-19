@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x7B8779e01d117ec7e220f8299a6f93672E8eae23'
-    platform: BNB
+  - address: '0x13119e34e140097a507b07a5564bde1bc375d9e6'
+    platform: ETH
 crypto: true
 fiat: false
 id: IMT
-id_coinmarketcap: '21128'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21128.png
+id_coinmarketcap: '3243'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3243.png
 logoKey: currencies/imt.png
-name: IMOV
+name: Moneytoken

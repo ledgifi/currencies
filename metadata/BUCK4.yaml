@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x9851fEB263DD6e559C2B934f2873401CFB09ECb5'
-    platform: BNB
+  - address: '0x5f531738eb92f34b8550237befdd4247d3525411'
+    platform: ETH
 crypto: true
 fiat: false
 id: BUCK4
-id_coinmarketcap: '28956'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28956.png
+id_coinmarketcap: '35009'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35009.png
 logoKey: currencies/buck4.png
-name: Coinbuck
+name: BuckTheBunny

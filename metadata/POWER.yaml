@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x429f0d8233e517f9acf6f0c8293bf35804063a83'
+    platform: ETH
 crypto: true
 fiat: false
 id: POWER
-id_coinmarketcap: '1046'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1046.png
+id_coinmarketcap: '35784'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35784.png
 logoKey: currencies/power.png
-name: PowerStake
+name: Powerloom

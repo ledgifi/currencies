@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xdf779ae4cbb7c45882c3521f0574d86d3bb95b5f'
-    platform: BNB
+  - address: '0xdfdc0d82d96f8fd40ca0cfb4a288955becec2088'
+    platform: ETH
 crypto: true
 fiat: false
 id: MTC7
-id_coinmarketcap: '20537'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20537.png
+id_coinmarketcap: '2936'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2936.png
 logoKey: currencies/mtc7.png
-name: MetaCars
+name: MTC Mesh Network

@@ -1,10 +1,12 @@
 contracts:
-  - address: '0xA26a756a2347C37fa4ad2f4c932990f3837b4eb8'
+  - address: '0xdfe6891ce8e5a5c7cf54ffde406a6c2c54145f71'
     platform: BNB
+  - address: '0xAc8cC32Fab2368a1A095722AAf760C45f578E17B'
+    platform: ETH
 crypto: true
 fiat: false
 id: CINU
-id_coinmarketcap: '35034'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35034.png
+id_coinmarketcap: '15230'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15230.png
 logoKey: currencies/cinu.png
-name: ChowChow Inu
+name: Cheems Inu (old)

@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xc029a12e4a002c6858878fd9d3cc74e227cc2dda'
+    platform: BNB
 crypto: true
 fiat: false
 id: VEX2
-id_coinmarketcap: '611'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/611.png
+id_coinmarketcap: '9798'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9798.png
 logoKey: currencies/vex2.png
-name: VexCoin
+name: VELOREX

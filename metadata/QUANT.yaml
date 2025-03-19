@@ -1,10 +1,10 @@
 contracts:
-  - address: 4yfM8Ndr6ZpQiA9US6WUzHdZzCTUaf1THyKBTD5ppump
-    platform: SOL
+  - address: 0xafca9a55f5e545083d1af063248b17ef82d02f33a47b01fc7b0a26538d2e873e::quant::QUANT
+    platform: SUI
 crypto: true
 fiat: false
 id: QUANT
-id_coinmarketcap: '34155'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34155.png
+id_coinmarketcap: '35098'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35098.png
 logoKey: currencies/quant.png
-name: Gen Z Quant
+name: Quantimodo

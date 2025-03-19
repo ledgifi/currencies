@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xb33522C5747A151D47825e2307Bf67890cd124C8'
+    platform: BNB
 crypto: true
 fiat: false
 id: BULL10
-id_coinmarketcap: '5056'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5056.png
+id_coinmarketcap: '16695'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16695.png
 logoKey: currencies/bull10.png
-name: BuySell
+name: strong bull

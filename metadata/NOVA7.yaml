@@ -1,10 +1,12 @@
 contracts:
-  - address: '0xd0b3a986fff305854a7238a8e099cce1ced01a3d'
+  - address: '0x82967568A57625675b260Ebab1294038C9ACcC6e'
     platform: ETH
+  - address: '0x7Cea109FC3516eD1248ae9AA67B5a352cF74075e'
+    platform: TBA
 crypto: true
 fiat: false
 id: NOVA7
-id_coinmarketcap: '27537'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27537.png
+id_coinmarketcap: '28677'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28677.png
 logoKey: currencies/nova7.png
-name: Nova
+name: Nova DAO

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xaa68fd12a3b0f7aea66fe8f7111ae3f8d9ac5058'
-    platform: ETH
+  - address: '0x37E7e9129c78d32f547B7d42c6E3db639b76BD4b'
+    platform: BNB
 crypto: true
 fiat: false
 id: TWEETY1
-id_coinmarketcap: '27183'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27183.png
+id_coinmarketcap: '30047'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30047.png
 logoKey: currencies/tweety1.png
-name: Tweety
+name: TWEETY

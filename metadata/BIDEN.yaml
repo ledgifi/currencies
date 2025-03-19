@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xc548e90589b166E1364DE744E6d35d8748996FE8'
-    platform: ETH
+  - address: '0x8282c1daa19ee23276f307b8f4aff5002af53211'
+    platform: BNB
 crypto: true
 fiat: false
 id: BIDEN
-id_coinmarketcap: '29857'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29857.png
+id_coinmarketcap: '15793'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15793.png
 logoKey: currencies/biden.png
-name: Joe Biden
+name: Biden Token

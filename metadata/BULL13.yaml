@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xb33522C5747A151D47825e2307Bf67890cd124C8'
-    platform: BNB
+  - address: '0xd1d92f1c5524d93ced7bf6f418c8bf8abf68ac66'
+    platform: ETH
 crypto: true
 fiat: false
 id: BULL13
-id_coinmarketcap: '16695'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16695.png
+id_coinmarketcap: '28118'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28118.png
 logoKey: currencies/bull13.png
-name: strong bull
+name: Bull Frog

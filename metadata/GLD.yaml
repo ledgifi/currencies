@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x6EF7E2D571f9806ab8FAAB73a76A97442BF78e3b'
-    platform: BNB
+  - address: TXVoyBWdyKTTtrxXRFYa7QmG9UFLRpiS4j
+    platform: TRX
 crypto: true
 fiat: false
 id: GLD
-id_coinmarketcap: '16011'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16011.png
+id_coinmarketcap: '35799'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35799.png
 logoKey: currencies/gld.png
-name: Goldario
+name: GoldToken

@@ -1,7 +1,7 @@
 contracts:
   - address: BILLIONDOLLARCAT
     platform: BTC
-  - address: B1LLYvSrpYKtpNGhcLbzQ7V5tbVjHvmj8C8zphnFxDSP
+  - address: BDCs2xEqzXyRpp9P6uPDnAvERpLKBfzHPEzbe3BfCxDY
     platform: SOL
 crypto: true
 fiat: false
@@ -9,4 +9,4 @@ id: BDC
 id_coinmarketcap: '31668'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31668.png
 logoKey: currencies/bdc.png
-name: BILLION•DOLLAR•CAT
+name: Billy (Bitcoin)

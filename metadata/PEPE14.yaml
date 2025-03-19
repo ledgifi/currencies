@@ -1,10 +1,10 @@
 contracts:
-  - address: 3tS6fbLh2P8tzxXuqCiHZpZhsxJpmrR3Xb9psmypnp69
-    platform: SOL
+  - address: '0xfe1ef2b469846d1832b25095ff51b004f090e0c6'
+    platform: ETH
 crypto: true
 fiat: false
 id: PEPE14
-id_coinmarketcap: '29084'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29084.png
+id_coinmarketcap: '25289'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25289.png
 logoKey: currencies/pepe14.png
-name: pepecoin on SOL
+name: Pepe Coin

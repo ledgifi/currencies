@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x67745484b7e8b80ab0d2a7de12dc30345b2bcc56'
-    platform: BNB
+  - address: '0x69C275C3Cbd7Edf5e6942149266CE8505C65baF8'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRT1
-id_coinmarketcap: '24718'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24718.png
+id_coinmarketcap: '21216'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21216.png
 logoKey: currencies/trt1.png
-name: Trackers Token
+name: The Revolution Token

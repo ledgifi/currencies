@@ -1,10 +1,10 @@
 contracts:
-  - address: Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS
-    platform: SOL
+  - address: '0x13a5c811093dd001c328b59a0cc9dec88951f042'
+    platform: BNB
 crypto: true
 fiat: false
 id: PAI
-id_coinmarketcap: '20649'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20649.png
+id_coinmarketcap: '33951'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33951.png
 logoKey: currencies/pai.png
-name: Parrot USD
+name: Panther Ai

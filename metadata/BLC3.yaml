@@ -1,10 +1,10 @@
 contracts:
-  - address: 585cfcbdd0786e961187999e5d5d36b38d1ebc1c4112a0a95a8bd477424c43
-    platform: ADA
+  - address: '0x419264d79b92b8DE3C710AB0cD3406Cd11990e02'
+    platform: BNB
 crypto: true
 fiat: false
 id: BLC3
-id_coinmarketcap: '25693'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25693.png
+id_coinmarketcap: '24611'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24611.png
 logoKey: currencies/blc3.png
-name: Ibilecoin
+name: Blockscape

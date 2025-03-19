@@ -1,6 +1,8 @@
 contracts:
   - address: '0x09cAD96Bc28f55e9253cfB9a84a3A1Ab79061E54'
     platform: POL
+  - address: https://suiscan.xyz/mainnet/coin/0xf16656c7d417654680c9e6a67f626c2c99a7a91011c88bc50d9ccaffdc53081b::oshi::OSHI
+    platform: SUI
 crypto: true
 fiat: false
 id: OSHI

@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x5e7f6e008c6d9d7ad4c7eb75bd4ce62864cc7454'
-    platform: ETH
+  - address: '0x35bEdBF9291b22218a0dA863170dcC9329Ef2563'
+    platform: BNB
+  - address: BDq41H2KMf39i6N3vZeEFQ1QdLyPqVGDomLcf4ReWyQ2
+    platform: SOL
 crypto: true
 fiat: false
 id: TAP1
-id_coinmarketcap: '33931'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33931.png
+id_coinmarketcap: '17718'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17718.png
 logoKey: currencies/tap1.png
-name: Tap Protocol
+name: TAP FANTASY

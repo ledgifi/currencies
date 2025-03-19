@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x2Ebd53d035150f328bd754D6DC66B99B0eDB89aa'
-    platform: ETH
+  - address: '0xa5b000d453143B357dbA63f4EE83F2f6FDa832b8'
+    platform: BNB
 crypto: true
 fiat: false
 id: MET
-id_coinmarketcap: '2873'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2873.png
+id_coinmarketcap: '35269'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35269.png
 logoKey: currencies/met.png
-name: Metronome
+name: MetYa

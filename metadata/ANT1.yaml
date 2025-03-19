@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xD283cE7Acd177f7cf6caBB7ce5B11fDA3605659e'
-    platform: BNB
+  - address: '0xa78d8321b20c4ef90ecd72f2588aa985a4bdb684'
+    platform: ARB
 crypto: true
 fiat: false
 id: ANT1
-id_coinmarketcap: '16473'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16473.png
+id_coinmarketcap: '35793'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35793.png
 logoKey: currencies/ant1.png
-name: AnonToken
+name: Autonomi

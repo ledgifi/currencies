@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x4dEBB4d2EF775E601967250102E2732C3ec36471'
-    platform: BNB
+  - address: '0x40fF4581cF2d6e4E07b02034105D6435d4f3F84c'
+    platform: CRO
 crypto: true
 fiat: false
 id: CGX2
-id_coinmarketcap: '24412'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24412.png
+id_coinmarketcap: '19612'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19612.png
 logoKey: currencies/cgx2.png
-name: ChainGamingX
+name: Cougar Exchange

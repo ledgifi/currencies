@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x8515cD0f00aD81996d24b9A9C35121a3b759D6Cd'
+    platform: ETH
 crypto: true
 fiat: false
 id: BURN4
-id_coinmarketcap: '1508'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1508.png
+id_coinmarketcap: '4069'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4069.png
 logoKey: currencies/burn4.png
-name: President Sanders
+name: Blockburn

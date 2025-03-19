@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xbae235823d7255d9d48635ced4735227244cd583'
-    platform: ETH
+  - address: 9zoqdwEBKWEi9G5Ze8BSkdmppxGgVv1Kw4LuigDiNr9m
+    platform: SOL
 crypto: true
 fiat: false
 id: STR4
-id_coinmarketcap: '3232'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3232.png
+id_coinmarketcap: '12385'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12385.png
 logoKey: currencies/str4.png
-name: Staker
+name: Solster Finance

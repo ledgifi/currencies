@@ -1,10 +1,10 @@
 contracts:
-  - address: HonyeYAaTPgKUgQpayL914P6VAqbQZPrbkGMETZvW4iN
-    platform: SOL
+  - address: '0x0f131f75e945cda74a75aa2b260ed5eb8fd20480'
+    platform: BNB
 crypto: true
 fiat: false
 id: HONEY5
-id_coinmarketcap: '19286'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19286.png
+id_coinmarketcap: '17036'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17036.png
 logoKey: currencies/honey5.png
-name: Honey Finance
+name: 6DayHoneypot

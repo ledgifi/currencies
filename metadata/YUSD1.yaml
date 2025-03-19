@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x1CE7D9942ff78c328A4181b9F3826fEE6D845A97'
-    platform: ETH
+  - address: '0x111111111111ed1D73f860F57b2798b683f2d325'
+    platform: AVAX
 crypto: true
 fiat: false
 id: YUSD1
-id_coinmarketcap: '34304'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34304.png
+id_coinmarketcap: '19577'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19577.png
 logoKey: currencies/yusd1.png
-name: YieldFi yToken
+name: YUSD Stablecoin

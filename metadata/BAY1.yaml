@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x5F64b52B76c708030185aA79a3Af383A96c2A6D3'
+    platform: BNB
 crypto: true
 fiat: false
 id: BAY1
-id_coinmarketcap: '723'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/723.png
+id_coinmarketcap: '13598'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13598.png
 logoKey: currencies/bay1.png
-name: BitBay
+name: CryptoBay

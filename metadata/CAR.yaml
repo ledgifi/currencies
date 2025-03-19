@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x4d9e23a3842fe7eb7682b9725cf6c507c424a41b'
-    platform: ETH
+  - address: 7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump
+    platform: SOL
 crypto: true
 fiat: false
 id: CAR
-id_coinmarketcap: '2888'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2888.png
+id_coinmarketcap: '35669'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35669.png
 logoKey: currencies/car.png
-name: CarBlock
+name: Central African Republic Meme

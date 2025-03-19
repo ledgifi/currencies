@@ -1,12 +1,10 @@
 contracts:
-  - address: '0xa9243aeb1e1038273d479436d4F4DecE656c62F3'
-    platform: BNB
-  - address: '0x9ac5c63ddcb93612e316ab31dfc8192bc8961988'
+  - address: '0xa92e7c82b11d10716ab534051b271d2f6aef7df5'
     platform: ETH
 crypto: true
 fiat: false
 id: ARA2
-id_coinmarketcap: '11738'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11738.png
+id_coinmarketcap: '9490'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9490.png
 logoKey: currencies/ara2.png
-name: Adora Token
+name: Ara Blocks

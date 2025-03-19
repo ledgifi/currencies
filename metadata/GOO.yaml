@@ -1,10 +1,10 @@
 contracts:
-  - address: GRFKaABC518SqXMvBpAVYUZtVT3Nj4mYk7E7xU4gA5Rg
-    platform: SOL
+  - address: '0x6F3Cc27E17a0f2e52D8e7693FF0d892Cea1854bF'
+    platform: POL
 crypto: true
 fiat: false
 id: GOO
-id_coinmarketcap: '29805'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29805.png
+id_coinmarketcap: '20364'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20364.png
 logoKey: currencies/goo.png
-name: Silly Goose
+name: Gooeys

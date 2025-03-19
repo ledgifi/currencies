@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x25100c0083e8e53b1cb264e978522bd477011a0d'
-    platform: CORE
+  - address: '0x3d41D6B6A90055C5BcF547974852524741361887'
+    platform: ETH
 crypto: true
 fiat: false
 id: HOBO
-id_coinmarketcap: '27382'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27382.png
+id_coinmarketcap: '27166'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27166.png
 logoKey: currencies/hobo.png
-name: HOBO UNIVERSE
+name: HOBO THE BEAR

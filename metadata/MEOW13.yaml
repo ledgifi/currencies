@@ -1,10 +1,10 @@
 contracts:
-  - address: HAgX1HSfok8DohiNCS54FnC2UJkDSrRVnT38W3iWFwc8
-    platform: SOL
+  - address: '0xa73595d936daf28b691fbfdeed598f6a2163ab8b'
+    platform: ETH
 crypto: true
 fiat: false
 id: MEOW13
-id_coinmarketcap: '14116'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14116.png
+id_coinmarketcap: '25387'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25387.png
 logoKey: currencies/meow13.png
-name: Solcats
+name: MeowCat (ETH)

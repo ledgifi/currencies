@@ -1,10 +1,12 @@
 contracts:
-  - address: 4mDpYBSB5gyUz4cq9eeaRpymYZuYh5pqfYfHjj2bpump
-    platform: SOL
+  - address: '0xdbde08d475bd50e2d1a6af34c7b10dd430d8396e'
+    platform: ETH
+  - address: '0x656fe582b4c6dc95c598ea54dc820eb36152e2f7'
+    platform: RON
 crypto: true
 fiat: false
 id: CGX
-id_coinmarketcap: '34709'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34709.png
+id_coinmarketcap: '35344'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35344.png
 logoKey: currencies/cgx.png
-name: Chill Guy Xmas
+name: Forkast

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xe3a46b2bc1d83c731d58cab765d3b45bce789095'
-    platform: ETH
+  - address: '0x3b7e1ce09afe2bb3a23919afb65a38e627cfbe97'
+    platform: POL
 crypto: true
 fiat: false
 id: DST1
-id_coinmarketcap: '22408'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22408.png
+id_coinmarketcap: '24625'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24625.png
 logoKey: currencies/dst1.png
-name: DAYSTARTER
+name: Dragon Soul Token

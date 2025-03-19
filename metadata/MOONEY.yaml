@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x1Fa56414549BdccBB09916f61f0A5827f779a85c'
+    platform: ARB
   - address: '0x20d4DB1946859E2Adb0e5ACC2eac58047aD41395'
     platform: ETH
+  - address: '0x74ac7664abb1c8fa152d41bb60e311a663a41c7e'
+    platform: POL
+  - address: '0x6585a54A98fADA893904EB8A9E9CDFb927bddf39'
+    platform: TBA
 crypto: true
 fiat: false
 id: MOONEY

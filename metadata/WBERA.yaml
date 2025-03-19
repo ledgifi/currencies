@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x6969696969696969696969696969696969696969'
+    platform: BERA
+crypto: true
+fiat: false
+id: WBERA
+id_coinmarketcap: '35608'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35608.png
+logoKey: currencies/wbera.png
+name: Wrapped Bera

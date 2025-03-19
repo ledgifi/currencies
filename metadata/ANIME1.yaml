@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x37a645648df29205c6261289983fb04ecd70b4b3'
+    platform: ARB
+  - address: '0x4dc26fc5854e7648a064a4abd590bbe71724c277'
+    platform: ETH
+crypto: true
+fiat: false
+id: ANIME1
+id_coinmarketcap: '35319'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35319.png
+logoKey: currencies/anime1.png
+name: Animecoin

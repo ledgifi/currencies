@@ -1,10 +1,12 @@
 contracts:
-  - address: '0xFE540D6dbAD8C68928778AaF2Be828efA4b44Fa2'
-    platform: METIS
+  - address: '0xa9243aeb1e1038273d479436d4F4DecE656c62F3'
+    platform: BNB
+  - address: '0x9ac5c63ddcb93612e316ab31dfc8192bc8961988'
+    platform: ETH
 crypto: true
 fiat: false
 id: ARA3
-id_coinmarketcap: '21365'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21365.png
+id_coinmarketcap: '11738'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11738.png
 logoKey: currencies/ara3.png
-name: AraFi
+name: Adora Token

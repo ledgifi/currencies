@@ -1,10 +1,10 @@
 contracts:
-  - address: 2kMpEJCZL8vEDZe7YPLMCS9Y3WKSAMedXBn7xHPvsWvi
-    platform: SOL
+  - address: '0x96f4005F5377ec317245966CcAf3E2EEfc1A01D3'
+    platform: BNB
 crypto: true
 fiat: false
 id: MOON14
-id_coinmarketcap: '25469'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25469.png
+id_coinmarketcap: '23906'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23906.png
 logoKey: currencies/moon14.png
-name: SolarMoon
+name: MOON COIN

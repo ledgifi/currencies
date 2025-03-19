@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x419264d79b92b8DE3C710AB0cD3406Cd11990e02'
-    platform: BNB
+  - address: '0x326caf6980d4e9161Cfb3c55f195B3D825c266D4'
+    platform: ETH
 crypto: true
 fiat: false
 id: BLC2
-id_coinmarketcap: '24611'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24611.png
+id_coinmarketcap: '7291'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7291.png
 logoKey: currencies/blc2.png
-name: Blockscape
+name: BullionsChain

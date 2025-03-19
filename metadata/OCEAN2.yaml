@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x1d8148823C46B9c55b678cA84BeB82bc3523aDb1'
+    platform: TBA
 crypto: true
 fiat: false
 id: OCEAN2
-id_coinmarketcap: '1571'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1571.png
+id_coinmarketcap: '35078'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35078.png
 logoKey: currencies/ocean2.png
-name: BurstOcean
+name: OpenSeaport

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x493d8CBd9533E57D4BEfb17cc2eC1dB76828261d'
-    platform: OKT
+  - address: '0xa872e0a44bbd66c1486a756cb5bd3f0beec4e32e'
+    platform: ETH
 crypto: true
 fiat: false
 id: AST3
-id_coinmarketcap: '11155'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11155.png
+id_coinmarketcap: '5827'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5827.png
 logoKey: currencies/ast3.png
-name: AST.finance
+name: AntiscamToken

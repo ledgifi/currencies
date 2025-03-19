@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x44048851C18e2aE10953164427300dC986b46815'
-    platform: ETH
+  - address: gCXx34ULevmpjRnYGG5KcFuVnoNRTMLn61fYVq2Moon
+    platform: SOL
 crypto: true
 fiat: false
 id: MOLLY3
-id_coinmarketcap: '33606'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33606.png
+id_coinmarketcap: '34250'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34250.png
 logoKey: currencies/molly3.png
-name: Molly by Matt Furie
+name: Molly Labs

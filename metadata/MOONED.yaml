@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7e4c577ca35913af564ee2a24d882a4946ec492b'
     platform: POL
+  - address: '0x599899dBaA0b4d3110b53d1A4d05fCdCb1C81945'
+    platform: TBA
 crypto: true
 fiat: false
 id: MOONED

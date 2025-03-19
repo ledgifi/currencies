@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xedd5BBb085d429ECB3C46FCf3BabBD69d242246c'
+    platform: AVAX
 crypto: true
 fiat: false
 id: BGR
-id_coinmarketcap: '586'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/586.png
+id_coinmarketcap: '35836'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35836.png
 logoKey: currencies/bgr.png
-name: Bongger
+name: Bitgrit

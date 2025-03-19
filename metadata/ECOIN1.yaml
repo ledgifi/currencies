@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x536dd70445cea1e97f9bf1bada04cbda5199a2a1'
-    platform: XDC
+  - address: '0x7d38315b92d0e7a85b35b2b7fe969b25935619d7'
+    platform: BNB
 crypto: true
 fiat: false
 id: ECOIN1
-id_coinmarketcap: '6111'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6111.png
+id_coinmarketcap: '19148'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19148.png
 logoKey: currencies/ecoin1.png
-name: Ecoin official
+name: Ecoin Finance

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xf03d5fc6e08de6ad886fca34abf9a59ef633b78a'
-    platform: ETH
+  - address: '0x0aec1e4CE3cD3ccEe64FF1A2eE47770fd2B0d8d3'
+    platform: BNB
 crypto: true
 fiat: false
 id: CAPY3
-id_coinmarketcap: '25076'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25076.png
+id_coinmarketcap: '24174'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24174.png
 logoKey: currencies/capy3.png
-name: Capybara
+name: Capybara Coin

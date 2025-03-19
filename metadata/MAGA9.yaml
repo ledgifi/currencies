@@ -1,10 +1,10 @@
 contracts:
-  - address: ALe5WhLpdcg3qVcFiAEBor2PALFa5hwfCc55SccsxSiz
-    platform: SOL
+  - address: '0x11Cee2f0F707810c98382724fb6D5e14972366dC'
+    platform: BNB
 crypto: true
 fiat: false
 id: MAGA9
-id_coinmarketcap: '29619'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29619.png
+id_coinmarketcap: '31557'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31557.png
 logoKey: currencies/maga9.png
-name: MAGA (Solana)
+name: MAGA

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x937dcca207128af363470a711d0c2b1cf76c49b1'
-    platform: BNB
+  - address: '0x064797Ac7f833D01FaeeAe0E69F3aF5a52a91fC8'
+    platform: ETH
 crypto: true
 fiat: false
 id: SU1
-id_coinmarketcap: '22154'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22154.png
+id_coinmarketcap: '25106'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25106.png
 logoKey: currencies/su1.png
-name: skyup
+name: Smol Su

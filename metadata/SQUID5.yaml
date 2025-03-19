@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x1D5e8a43b9e93F4E5580F59f1531487139bb6c9F'
-    platform: BNB
+  - address: JAzyFsJu96zZgtKuyS8KDdQFVpAKHkkm2HEjgHVFpump
+    platform: SOL
 crypto: true
 fiat: false
 id: SQUID5
-id_coinmarketcap: '34904'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34904.png
+id_coinmarketcap: '34257'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34257.png
 logoKey: currencies/squid5.png
-name: Squidanomics
+name: SquidShip

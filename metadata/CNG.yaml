@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xFd60B3c3C1916BdBB4319a3D264894f1DFD5ECA2'
-    platform: BNB
+  - address: '0x5C1d9aA868a30795F92fAe903eDc9eFF269044bf'
+    platform: ETH
 crypto: true
 fiat: false
 id: CNG
-id_coinmarketcap: '29188'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29188.png
+id_coinmarketcap: '16279'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16279.png
 logoKey: currencies/cng.png
-name: CoinNavigator
+name: Changer

@@ -1,10 +1,16 @@
 contracts:
+  - address: '0xa5312c3e42a82d459162b2a3bd7ffc4f9099b911'
+    platform: ARB
   - address: '0x423071774C43c0Aaf4210b439E7CDA8c797e2F26'
     platform: ETH
+  - address: '0x3c69d114664d48357d820dbdd121a8071eac99bf'
+    platform: POL
+  - address: '0x2d189eabb667aa1ecfc01963a6a3a5d83960f558'
+    platform: TBA
 crypto: true
 fiat: false
 id: GALAXIS
 id_coinmarketcap: '31154'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31154.png
 logoKey: currencies/galaxis.png
-name: Galaxis
+name: GALAXIS Token

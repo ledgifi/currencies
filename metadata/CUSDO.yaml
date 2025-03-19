@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xaD55aebc9b8c03FC43cd9f62260391c13c23e7c0'
+    platform: ETH
+crypto: true
+fiat: false
+id: CUSDO
+id_coinmarketcap: '36068'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36068.png
+logoKey: currencies/cusdo.png
+name: OpenEden Compounding OpenDollar

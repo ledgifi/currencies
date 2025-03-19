@@ -1,10 +1,10 @@
 contracts:
-  - address: BMxVxLPtQCXsbf14TJ86yNkYRmDj6JfWwHf66FVbT2n2
-    platform: SOL
+  - address: '0x83578055E28C626d36eD7015541641825A3e6e54'
+    platform: ETH
 crypto: true
 fiat: false
 id: MAGA16
-id_coinmarketcap: '31486'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31486.png
+id_coinmarketcap: '31473'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31473.png
 logoKey: currencies/maga16.png
-name: MAGA (Solana)
+name: Simpson MAGA

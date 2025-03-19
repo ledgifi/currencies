@@ -1,10 +1,10 @@
 contracts:
-  - address: F7MqYKZ5ZqAkUu8L6B5vMuzWLkaKCDNSexGMmCmM5o3W
-    platform: SOL
+  - address: '0x269616D549D7e8Eaa82DFb17028d0B212D11232A'
+    platform: ETH
 crypto: true
 fiat: false
 id: PUNK1
-id_coinmarketcap: '33362'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33362.png
+id_coinmarketcap: '11621'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11621.png
 logoKey: currencies/punk1.png
-name: PUNK - SpacePunksClub
+name: Punk Vault (NFTX)

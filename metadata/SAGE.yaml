@@ -1,10 +1,12 @@
 contracts:
-  - address: CMe1QWsoDWFUi95GMkk7mCTnnjxBxtnJ3jbrEhQTVWL5
-    platform: SOL
+  - address: '0xa71261c2b51cb8030700f5601ca597c522dc232e'
+    platform: ETH
+  - address: '0xBB2A93AFcF5d3af8AE28dd50d6c18556eA532c5a'
+    platform: TBA
 crypto: true
 fiat: false
 id: SAGE
-id_coinmarketcap: '35135'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35135.png
+id_coinmarketcap: '33191'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33191.png
 logoKey: currencies/sage.png
-name: Sage Universe
+name: Sage

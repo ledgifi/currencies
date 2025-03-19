@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x0227589aC63bf1E40187e22Ad09d87938031e941'
+  - address: '0x3AB6c736aa54917e11e58CC2Cc12e1638233B265'
     platform: BNB
-  - address: '0x5186c4Fb5752Eb4A952C7EF03fAE3e543f48383e'
-    platform: ETHW
 crypto: true
 fiat: false
 id: USDW
-id_coinmarketcap: '22566'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22566.png
+id_coinmarketcap: '35231'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35231.png
 logoKey: currencies/usdw.png
-name: Tether Pow
+name: USD DWIN

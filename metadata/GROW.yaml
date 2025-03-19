@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x0C9aD20802E89BeA858ae2E8594843fAfA887CB3'
+  - address: '0x1223334444A7466fBf985B14E1F4EdAf3883bCa6'
     platform: BNB
+  - address: '0x1223334444A7466fBf985B14E1F4EdAf3883bCa6'
+    platform: ETH
 crypto: true
 fiat: false
 id: GROW
-id_coinmarketcap: '29608'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29608.png
+id_coinmarketcap: '29862'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29862.png
 logoKey: currencies/grow.png
-name: Grow Token
+name: Grow

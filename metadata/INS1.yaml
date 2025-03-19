@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xe9572938bcbf08adcee86fd12a7c0d08dc4ab841'
-    platform: ETH
+  - address: '0xb988bd378a0754957d5d9471c96e0f8051645a26'
+    platform: POL
 crypto: true
 fiat: false
 id: INS1
-id_coinmarketcap: '29265'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29265.png
+id_coinmarketcap: '19170'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19170.png
 logoKey: currencies/ins1.png
-name: Inscribe
+name: iNFTspace

@@ -1,10 +1,10 @@
 contracts:
-  - address: 8AFk97BkiaSXfgJS4ADQ8vqf7fcJw9nXN4KSTisby5LC
-    platform: SOL
+  - address: '0x0BA74fb26Ca523f2dc22fa4318581CC2452eAbA1'
+    platform: ETH
 crypto: true
 fiat: false
 id: BOG1
-id_coinmarketcap: '33663'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33663.png
+id_coinmarketcap: '24731'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24731.png
 logoKey: currencies/bog1.png
-name: Bog
+name: Bogdanoff

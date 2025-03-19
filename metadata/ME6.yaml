@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x0c088bed7207E5E37BD3022d58aE40D4a3490ABc'
-    platform: BNB
+  - address: '0x4F4f09831180F416890D857123506680B59263Bb'
+    platform: ETH
 crypto: true
 fiat: false
 id: ME6
-id_coinmarketcap: '19227'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19227.png
+id_coinmarketcap: '34531'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34531.png
 logoKey: currencies/me6.png
-name: MOONEYE
+name: Magic Eden Ether

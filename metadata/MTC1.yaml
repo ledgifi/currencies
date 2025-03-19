@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xa1c9E626A49D62299baad6A47eA56629948e66D1'
+    platform: BNB
 crypto: true
 fiat: false
 id: MTC1
-id_coinmarketcap: '6498'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6498.png
+id_coinmarketcap: '35642'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35642.png
 logoKey: currencies/mtc1.png
-name: Metacoin
+name: MITCOIN

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xdb787f0cc920446c93ee7a35a674185ac27606f2'
-    platform: BNB
+  - address: 3CoTXmxP8pCKoJxd6QSxeYPzi9gzBQB6TmQzH8m1gza2
+    platform: SOL
 crypto: true
 fiat: false
 id: PEE
-id_coinmarketcap: '14779'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14779.png
+id_coinmarketcap: '35588'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35588.png
 logoKey: currencies/pee.png
-name: MicroPee
+name: peecoin

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x09f9e239801d2086b5e4a0232540faa1b3b9e1e7'
-    platform: ETH
+  - address: terra1ex0hjv3wurhj4wgup4jzlzaqj4av6xqd8le4etml7rg9rs207y4s8cdvrp
+    platform: LUNC
 crypto: true
 fiat: false
 id: TERRA
-id_coinmarketcap: '34409'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34409.png
+id_coinmarketcap: '35435'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35435.png
 logoKey: currencies/terra.png
-name: Terra Ecosystem
+name: Terraport

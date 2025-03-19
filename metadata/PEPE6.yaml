@@ -1,10 +1,10 @@
 contracts:
-  - address: B5WTLaRwaUQpKk7ir1wniNB6m5o8GgMrimhKMYan2R6B
-    platform: SOL
+  - address: '0xbe042e9d09cb588331ff911c2b46fd833a3e5bd6'
+    platform: ETH
 crypto: true
 fiat: false
 id: PEPE6
-id_coinmarketcap: '31616'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31616.png
+id_coinmarketcap: '27928'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27928.png
 logoKey: currencies/pepe6.png
-name: Pepe
+name: Pepe Community

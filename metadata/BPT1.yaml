@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x283669123bd83da2536bb534e20512101c18e5d8'
+    platform: ETH
 crypto: true
 fiat: false
 id: BPT1
-id_coinmarketcap: '32061'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32061.png
+id_coinmarketcap: '5850'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5850.png
 logoKey: currencies/bpt1.png
-name: Best Patent
+name: Bitpayer Token

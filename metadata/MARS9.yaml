@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xcb5e6e276adf62d68a1857880359750c8f79d076'
+    platform: BNB
+  - address: '0xb8d6196d71cdd7d90a053a7769a077772aaac464'
+    platform: ETH
+  - address: 3CnqgfQmiCyjMgaDfJpBDi9mjsE11vFnTfniM8BTMBzK
+    platform: SOL
+crypto: true
+fiat: false
+id: MARS9
+id_coinmarketcap: '33162'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33162.png
+logoKey: currencies/mars9.png
+name: Mars

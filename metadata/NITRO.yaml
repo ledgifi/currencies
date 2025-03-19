@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x0335A7610D817aeCA1bEBbEfbd392ecC2eD587B8'
+  - address: '0x76887cB94cF29EC539b3219Ba62104BE04F26A5C'
     platform: ETH
-  - address: '0x695FC8B80F344411F34bDbCb4E621aA69AdA384b'
-    platform: POL
 crypto: true
 fiat: false
 id: NITRO
-id_coinmarketcap: '16168'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16168.png
+id_coinmarketcap: '35942'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35942.png
 logoKey: currencies/nitro.png
-name: Nitro League
+name: Nitro

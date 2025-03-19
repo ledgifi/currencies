@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x588047365df5ba589f923604aac23d673555c623'
-    platform: ETH
+  - address: '0x6881b80ea7c858e4aeef63893e18a8a36f3682f3'
+    platform: S
 crypto: true
 fiat: false
 id: NAVI1
-id_coinmarketcap: '2825'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2825.png
+id_coinmarketcap: '23038'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23038.png
 logoKey: currencies/navi1.png
-name: Naviaddress
+name: Navigator Exchange

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x9498c4383406A5bDD9100cFF3fE0B550A111dD3D'
-    platform: BNB
+  - address: '0x84f710bae3316a74fb0fcb01904d2578a4cc6a26'
+    platform: ETH
 crypto: true
 fiat: false
 id: PPC1
-id_coinmarketcap: '24776'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24776.png
+id_coinmarketcap: '6253'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6253.png
 logoKey: currencies/ppc1.png
-name: PEPE COIN BSC
+name: PHILLIPS PAY COIN

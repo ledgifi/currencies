@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x9028C2A7f8C8530450549915c5338841Db2a5fEa'
-    platform: ETH
+  - address: '0x44a6e0be76e1d9620a7f76588e4509fe4fa8e8c8'
+    platform: POL
 crypto: true
 fiat: false
 id: FOMO2
-id_coinmarketcap: '30795'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30795.png
+id_coinmarketcap: '19261'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19261.png
 logoKey: currencies/fomo2.png
-name: FOMO Network
+name: Aavegotchi FOMO

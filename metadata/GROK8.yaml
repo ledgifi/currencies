@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xf8455CF9BCc672f9dd5539C44430EB7542A0DcB1'
-    platform: BNB
+  - address: '0x742F6F19CCCf9b4115b08c104Bb308196c0Fa224'
+    platform: ETH
 crypto: true
 fiat: false
 id: GROK8
-id_coinmarketcap: '29144'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29144.png
+id_coinmarketcap: '28982'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28982.png
 logoKey: currencies/grok8.png
-name: GROK ALLBESTICO
+name: Grok

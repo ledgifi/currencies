@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x7d1232b90d3f809a54eeaeebc639c62df8a8942f'
-    platform: AVAX
+  - address: 8twuNzMszqWeFbDErwtf4gw13E6MUS4Hsdx5mi3aqXAM
+    platform: SOL
 crypto: true
 fiat: false
 id: SB1
-id_coinmarketcap: '14027'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14027.png
+id_coinmarketcap: '30562'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30562.png
 logoKey: currencies/sb1.png
-name: Snowbank
+name: Solbank

@@ -1,12 +1,7 @@
-contracts:
-  - address: '0x3Dc2d7434bDbB4Ca1A8A6bCC8a8075AEaE2d2179'
-    platform: BNB
-  - address: '0x40821cd074dfecb1524286923bc69315075b5c89'
-    platform: ETH
 crypto: true
 fiat: false
 id: QUAI
-id_coinmarketcap: '8373'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8373.png
+id_coinmarketcap: '22354'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22354.png
 logoKey: currencies/quai.png
-name: QUAI DAO
+name: Quai Network

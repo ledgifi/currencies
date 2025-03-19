@@ -1,18 +1,10 @@
 contracts:
-  - address: '924268058'
+  - address: '2485314946'
     platform: ALGO
-  - address: '0xFEb6c209e609E6ca1da0991dcaAFDBf515d692dd'
-    platform: AVAX
-  - address: '0x08D54146050ED575775d5D8f9fCDB4c646f5B717'
-    platform: BNB
-  - address: '0x22E61C07F898Cc0a17826dE622793A6Cc2935c37'
-    platform: POL
-  - address: HWcrH99mVocuP5hBV9X5fNGH3WBKCcjw3DxfY4AGaeXg
-    platform: SOL
 crypto: true
 fiat: false
 id: FRY1
-id_coinmarketcap: '24874'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24874.png
+id_coinmarketcap: '34959'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34959.png
 logoKey: currencies/fry1.png
-name: FryNetworks
+name: Fry

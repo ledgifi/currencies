@@ -1,10 +1,10 @@
 contracts:
-  - address: FcGNJUhehrRzRAAVatRYokrWC7MPV2uuX4p1bxGdCTqu
-    platform: SOL
+  - address: '0x049bf3fFEe713AB8bF91cbF4cE6747DA01E87544'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRUMPCAT1
-id_coinmarketcap: '30870'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30870.png
+id_coinmarketcap: '30606'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30606.png
 logoKey: currencies/trumpcat1.png
-name: TrumpCat
+name: TRUMP CAT

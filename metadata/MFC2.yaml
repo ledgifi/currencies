@@ -1,6 +1,8 @@
 contracts:
   - address: '0xc27f81AD0A98B238314D7C3014c0631263F9895D'
     platform: CHZ
+  - address: '0xdEB5A271A67652A84dECb6278D70A6d6A18D7c3b'
+    platform: CHZ
 crypto: true
 fiat: false
 id: MFC2

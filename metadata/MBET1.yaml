@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x78d448a1d1fedaa3e916f467568e86081e0f4df5'
-    platform: ETH
+  - address: '0x44220eeB754aDe4aa72b83d587C2c959d34560Cf'
+    platform: BNB
 crypto: true
 fiat: false
 id: MBET1
-id_coinmarketcap: '17498'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17498.png
+id_coinmarketcap: '11866'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11866.png
 logoKey: currencies/mbet1.png
-name: MetaBET
+name: Moonbet

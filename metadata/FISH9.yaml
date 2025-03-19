@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x912315c0be322C7008826FDb0638b7DB16922b9E'
-    platform: ETH
+  - address: 7tFcT1WumaVUJKzgAxmdEtnt8CzTm6kCjQwiEBr4pump
+    platform: SOL
 crypto: true
 fiat: false
 id: FISH9
-id_coinmarketcap: '27154'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27154.png
+id_coinmarketcap: '35267'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35267.png
 logoKey: currencies/fish9.png
-name: FishCash
+name: fish

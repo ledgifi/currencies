@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7fbD14bC7dF32509bE488a81aD91b795bD45D08f'
     platform: CHZ
+  - address: '0x4b56F121F769BBdeE3faBA6e8B9163E7cfFDd59a'
+    platform: CHZ
 crypto: true
 fiat: false
 id: FOR2

@@ -1,7 +1,12 @@
+contracts:
+  - address: '0xf2c88757f8d03634671208935974B60a2a28Bdb3'
+    platform: BNB
+  - address: '0xf2c88757f8d03634671208935974B60a2a28Bdb3'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHELL1
-id_coinmarketcap: '924'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/924.png
+id_coinmarketcap: '35710'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35710.png
 logoKey: currencies/shell1.png
-name: ShellCoin
+name: MyShell

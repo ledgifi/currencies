@@ -1,6 +1,8 @@
 contracts:
   - address: '0x3EC4394C59b3b2863a9D02EF73888C686d13D54c'
     platform: CHZ
+  - address: '0xBA20eF1670393150d1C1b135F45043740ec3a729'
+    platform: CHZ
 crypto: true
 fiat: false
 id: ROUSH

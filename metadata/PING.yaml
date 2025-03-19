@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x21cd6af01383651ed10554394c0497f9db5e5dbc'
-    platform: ETH
+  - address: '0xF06151bF9D9A09E420e702417450B9f41b7C9447'
+    platform: BNB
 crypto: true
 fiat: false
 id: PING
-id_coinmarketcap: '1777'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1777.png
+id_coinmarketcap: '35926'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35926.png
 logoKey: currencies/ping.png
-name: CryptoPing
+name: Tangping

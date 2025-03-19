@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x122edffCa1c940A82574B21031623f063fC8C7F9'
-    platform: BNB
+  - address: '0xF38DEb975D9a34BC2B8F678dE0c1D53692363851'
+    platform: ETH
 crypto: true
 fiat: false
 id: BRAWL1
-id_coinmarketcap: '16122'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16122.png
+id_coinmarketcap: '35495'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35495.png
 logoKey: currencies/brawl1.png
-name: Meta Brawl
+name: Metabrawl

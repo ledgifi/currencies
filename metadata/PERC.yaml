@@ -1,6 +1,8 @@
 contracts:
   - address: '0x60be1e1fe41c1370adaf5d8e66f07cf1c2df2268'
     platform: ETH
+  - address: '0xF598797d9C160aeF2A14712C20b7731cBe5861da'
+    platform: TBA
 crypto: true
 fiat: false
 id: PERC

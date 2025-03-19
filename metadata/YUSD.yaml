@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x111111111111ed1D73f860F57b2798b683f2d325'
-    platform: AVAX
+  - address: '0x4274cD7277C7bb0806Bd5FE84b9aDAE466a8DA0a'
+    platform: ETH
 crypto: true
 fiat: false
 id: YUSD
-id_coinmarketcap: '19577'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19577.png
+id_coinmarketcap: '35976'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35976.png
 logoKey: currencies/yusd.png
-name: YUSD Stablecoin
+name: Aegis YUSD

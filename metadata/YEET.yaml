@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xaa62a002ce856d9fe1874e7f8558a38fc1e49cca'
-    platform: ETH
+  - address: '0x08a38caa631de329ff2dad1656ce789f31af3142'
+    platform: BERA
 crypto: true
 fiat: false
 id: YEET
-id_coinmarketcap: '7565'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7565.png
+id_coinmarketcap: '35337'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35337.png
 logoKey: currencies/yeet.png
-name: $YEET
+name: Yeet

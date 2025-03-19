@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x324E8E649A6A3dF817F97CdDBED2b746b62553dD'
+    platform: BNB
 crypto: true
 fiat: false
 id: XUSD5
-id_coinmarketcap: '16108'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16108.png
+id_coinmarketcap: '16177'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16177.png
 logoKey: currencies/xusd5.png
-name: xUSD
+name: xUSD Token

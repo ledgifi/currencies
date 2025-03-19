@@ -1,10 +1,7 @@
-contracts:
-  - address: egjwt-lqaaa-aaaak-qi2aa-cai
-    platform: ICP
 crypto: true
 fiat: false
 id: BURN2
-id_coinmarketcap: '33309'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33309.png
+id_coinmarketcap: '383'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/383.png
 logoKey: currencies/burn2.png
-name: MSQ Cycle Burn
+name: BurnerCoin

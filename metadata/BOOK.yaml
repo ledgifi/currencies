@@ -1,10 +1,10 @@
 contracts:
-  - address: 4nFwuKievw5wcpcXtUDdfxWLyXsEdvgkpENzC9M9Y5me
-    platform: SOL
+  - address: '0xC9Ad421f96579AcE066eC188a7Bba472fB83017F'
+    platform: BNB
 crypto: true
 fiat: false
 id: BOOK
-id_coinmarketcap: '30213'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30213.png
+id_coinmarketcap: '35578'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35578.png
 logoKey: currencies/book.png
-name: Solbook
+name: Book of Binance

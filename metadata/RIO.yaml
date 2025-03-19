@@ -7,6 +7,8 @@ contracts:
     platform: ETH
   - address: ibc/1CDF9C7D073DD59ED06F15DB08CC0901F2A24759BE70463570E8896F9A444ADF
     platform: OSMO
+  - address: HELn8rSM1rp8vAjNH4NYXzX6FvCbwWMGqLfaMgiBnZFV
+    platform: SOL
 crypto: true
 fiat: false
 id: RIO

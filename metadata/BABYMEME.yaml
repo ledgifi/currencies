@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x63f79d1de735c922cfce240b6c1cc30a00214f8c'
-    platform: BNB
+  - address: '0xCD54Df3C19A7aE672897f2A09821D2C287d36326'
+    platform: ETH
 crypto: true
 fiat: false
 id: BABYMEME
-id_coinmarketcap: '28361'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28361.png
+id_coinmarketcap: '28358'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28358.png
 logoKey: currencies/babymeme.png
-name: Baby Meme Coin
+name: Baby Memecoin

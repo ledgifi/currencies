@@ -1,10 +1,10 @@
 contracts:
-  - address: B2BsVuodH2eBGRnFckRYYW6yjur7Tn8cCxaSE2Xrnj5V
-    platform: SOL
+  - address: '0x735c522c20305d868f2c14654b878950f820dc50'
+    platform: BNB
 crypto: true
 fiat: false
 id: BEE
-id_coinmarketcap: '33259'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33259.png
+id_coinmarketcap: '28923'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28923.png
 logoKey: currencies/bee.png
-name: Bee
+name: BNBEE

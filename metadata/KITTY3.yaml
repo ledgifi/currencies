@@ -1,10 +1,10 @@
 contracts:
-  - address: 6JdcMdhqgCtcP4U9tieRqmKLhPLxRMLC67QfmdXAJBvZ
-    platform: SOL
+  - address: '0xb4228798fF437ecD8fa43429664e9992256fe6Ac'
+    platform: POL
 crypto: true
 fiat: false
 id: KITTY3
-id_coinmarketcap: '14382'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14382.png
+id_coinmarketcap: '13576'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13576.png
 logoKey: currencies/kitty3.png
-name: Kitty Solana
+name: Kitty Coin

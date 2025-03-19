@@ -1,6 +1,8 @@
 contracts:
   - address: '0x708C3E60494AcA6c2104b61Ef4B3a5eFb890B6ec'
     platform: ETH
+  - address: '0x089D91926e43cd7318198922D548189470cA25f2'
+    platform: TBA
 crypto: true
 fiat: false
 id: HMSTR1

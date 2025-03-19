@@ -1,10 +1,12 @@
 contracts:
-  - address: 6Wav5ysCbupDfrhnXqE94UncK2ckfJQLY5jiHRc6kvoD
-    platform: SOL
+  - address: '0xffffffff30478fafbe935e466da114e14fb3563d'
+    platform: GLMR
+  - address: '0x66fc31b3233c7c001bdd21ff6e5e66fa08ef85d0'
+    platform: TBA
 crypto: true
 fiat: false
 id: PINK1
-id_coinmarketcap: '32541'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32541.png
+id_coinmarketcap: '30450'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30450.png
 logoKey: currencies/pink1.png
-name: PINK - The Panther
+name: Pink

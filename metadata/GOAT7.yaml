@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x08922cc5e9bd4c74ff570e27a40b84084a7f9988'
-    platform: BNB
+  - address: '0x119533669866cFC69CbC41DD77db7e634B92c0a7'
+    platform: ETH
 crypto: true
 fiat: false
 id: GOAT7
-id_coinmarketcap: '9602'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9602.png
+id_coinmarketcap: '33202'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33202.png
 logoKey: currencies/goat7.png
-name: Goat Coin
+name: GOAT

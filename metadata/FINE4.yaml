@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xE83a08f69bB466AE01DB36293AC609CA6F96617a'
-    platform: ETH
+  - address: '0x29cf32336fe994494db95194ace34bbd84cff35a'
+    platform: BNB
 crypto: true
 fiat: false
 id: FINE4
-id_coinmarketcap: '26305'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26305.png
+id_coinmarketcap: '10539'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10539.png
 logoKey: currencies/fine4.png
-name: ThisisFine
+name: FineGame

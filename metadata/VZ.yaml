@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x910F42f204BD998fA271cA8aa07ce359c733b898'
+    platform: BNB
+  - address: 5XSsru2vSZKysfSVhsJNghT5VGhyeY9amk991etaEvSS
+    platform: SOL
+crypto: true
+fiat: false
+id: VZ
+id_coinmarketcap: '35383'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35383.png
+logoKey: currencies/vz.png
+name: Vault Zero

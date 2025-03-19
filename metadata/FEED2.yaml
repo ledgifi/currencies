@@ -1,10 +1,12 @@
 contracts:
-  - address: '0xB1731E5e035CB039298159EcB191cB3fe666Dd0e'
+  - address: '0x67d66e8Ec1Fd25d98B3Ccd3B19B7dc4b4b7fC493'
     platform: BNB
+  - address: '0x5d5530eb3147152fe78d5c4bfeede054c8d1442a'
+    platform: FTM
 crypto: true
 fiat: false
 id: FEED2
-id_coinmarketcap: '9793'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9793.png
+id_coinmarketcap: '10109'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10109.png
 logoKey: currencies/feed2.png
-name: FEED Token
+name: Feeder.finance

@@ -1,10 +1,14 @@
 contracts:
   - address: '0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92'
+    platform: ARB
+  - address: '0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92'
     platform: BNB
+  - address: '0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92'
+    platform: ETH
 crypto: true
 fiat: false
 id: SUSDX
 id_coinmarketcap: '34088'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34088.png
 logoKey: currencies/susdx.png
-name: usdx.money (Staked USDX)
+name: Stables Labs (Staked USDX)

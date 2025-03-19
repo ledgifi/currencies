@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x7f59b64c6ee521c0d7e590cf8e4b843caa236f96'
-    platform: ETH
+  - address: Bs9QfRGKFjappKEWUyjV5z6KEyNfw5c2hUh8Uygs1v1g
+    platform: SOL
 crypto: true
 fiat: false
 id: CELL4
-id_coinmarketcap: '29375'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29375.png
+id_coinmarketcap: '34504'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34504.png
 logoKey: currencies/cell4.png
-name: CellMates
+name: CELL

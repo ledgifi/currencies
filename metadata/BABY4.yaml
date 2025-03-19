@@ -1,10 +1,14 @@
 contracts:
-  - address: '0x1ccf27211e8bf052f6255329ed641b4e94e80603'
-    platform: ETH
+  - address: '0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a'
+    platform: BNB
+  - address: '0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a'
+    platform: FTM
+  - address: '0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a'
+    platform: POL
 crypto: true
 fiat: false
 id: BABY4
-id_coinmarketcap: '21709'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21709.png
+id_coinmarketcap: '20971'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20971.png
 logoKey: currencies/baby4.png
-name: Metababy
+name: Babylonia

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x20fe91f17ec9080e3cac2d688b4ecb48c5ac3a9c'
-    platform: BLAST
+  - address: '0xfc10cd3895f2c66d6639ec33ae6360d6cfca7d6d'
+    platform: ETH
 crypto: true
 fiat: false
 id: YES1
-id_coinmarketcap: '29620'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29620.png
+id_coinmarketcap: '29342'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29342.png
 logoKey: currencies/yes1.png
-name: YES Money
+name: 'YES'

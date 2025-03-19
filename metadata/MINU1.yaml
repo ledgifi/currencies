@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed'
-    platform: MNT
+  - address: '0xb6269D7aE76AdE0E3a5BF95d974EC3A407088989'
+    platform: BNB
 crypto: true
 fiat: false
 id: MINU1
-id_coinmarketcap: '27627'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27627.png
+id_coinmarketcap: '29594'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29594.png
 logoKey: currencies/minu1.png
-name: Mantle Inu
+name: MINU 2.0

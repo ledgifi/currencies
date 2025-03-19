@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x049Dd7532148826CdE956c7B45fec8c30b514052'
+    platform: BNB
+  - address: '0x0499A3EC965136Bea01E4350113A2105724785dC'
+    platform: IOTX
+crypto: true
+fiat: false
+id: TEX2
+id_coinmarketcap: '13391'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13391.png
+logoKey: currencies/tex2.png
+name: IoTex Pad

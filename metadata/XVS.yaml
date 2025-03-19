@@ -11,6 +11,8 @@ contracts:
     platform: OP
   - address: '0xebB7873213c8d1d9913D8eA39Aa12d74cB107995'
     platform: TBA
+  - address: '0x81908BBaad3f6fC74093540Ab2E9B749BB62aA0d'
+    platform: UNI
   - address: '0xD78ABD81a3D57712a3af080dc4185b698Fe9ac5A'
     platform: ZK
 crypto: true

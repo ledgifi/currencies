@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x21fdb8e43d84420afbd6351d645f50c9138daae0'
+    platform: POL
 crypto: true
 fiat: false
 id: ECO5
-id_coinmarketcap: '12502'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12502.png
+id_coinmarketcap: '17732'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17732.png
 logoKey: currencies/eco5.png
-name: Ecoball
+name: EcoCREDIT

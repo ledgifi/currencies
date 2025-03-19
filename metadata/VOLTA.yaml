@@ -1,16 +1,12 @@
 contracts:
-  - address: '0x9b06F3C5de42D4623D7A2Bd940EC735103c68A76'
-    platform: ARB
-  - address: '0x9b06F3C5de42D4623D7A2Bd940EC735103c68A76'
+  - address: '0x4C9993C7107495020c2Ce9A13d11839F48EcD2E6'
     platform: AVAX
-  - address: '0x9b06F3C5de42D4623D7A2Bd940EC735103c68A76'
-    platform: ETH
-  - address: '0x9b06F3C5de42D4623D7A2Bd940EC735103c68A76'
+  - address: '0x4C9993C7107495020c2Ce9A13d11839F48EcD2E6'
     platform: FTM
 crypto: true
 fiat: false
 id: VOLTA
-id_coinmarketcap: '28003'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28003.png
+id_coinmarketcap: '18370'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18370.png
 logoKey: currencies/volta.png
-name: Volta Club
+name: Volta

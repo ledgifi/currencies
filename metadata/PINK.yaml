@@ -1,13 +1,13 @@
 color: '#ed79aa'
 contracts:
-  - address: '0xffffffff30478fafbe935e466da114e14fb3563d'
-    platform: GLMR
-  - address: '0x66fc31b3233c7c001bdd21ff6e5e66fa08ef85d0'
-    platform: TBA
+  - address: '0x9133049Fb1FdDC110c92BF5b7Df635abB70C89DC'
+    platform: BNB
+  - address: '0x30A54FbFF50f86C3a289fa70e677051a86677be4'
+    platform: MOVR
 crypto: true
 fiat: false
 id: PINK
-id_coinmarketcap: '30450'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30450.png
+id_coinmarketcap: '9740'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9740.png
 logoKey: currencies/pink.png
-name: Pink
+name: Dot Finance

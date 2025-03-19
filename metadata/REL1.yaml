@@ -1,10 +1,10 @@
 contracts:
-  - address: 9HvM3nS2eDKWxNvi8vSFXRhHA1xhDW33rt4ZA1bE1DbV
-    platform: SOL
+  - address: '0x61bfc979ea8160ede9b862798b7833a97bafa02a'
+    platform: ETH
 crypto: true
 fiat: false
 id: REL1
-id_coinmarketcap: '33604'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33604.png
+id_coinmarketcap: '5807'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5807.png
 logoKey: currencies/rel1.png
-name: RENEC Lend
+name: Release Project

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xC824Bf014539F6bdE6b81ABAaca0D626C2AC5985'
+    platform: ETH
+  - address: https://stellar.expert/explorer/public/account/GDZSI5NQM4IU2NOQOMNXGAGU6K2NMU2G25C4P4UTH5SUY3IH5B3W74F4
+    platform: XLM
+crypto: true
+fiat: false
+id: USD1
+id_coinmarketcap: '35969'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35969.png
+logoKey: currencies/usd1.png
+name: USD One

@@ -1,11 +1,10 @@
-color: '#fd7a3d'
 contracts:
-  - address: 6TcoT3vcexjsMuuLvS9DhBUrVVcoqBMHEppQGQLMpump
-    platform: SOL
+  - address: '0xd2d6158683aee4cc838067727209a0aaf4359de3'
+    platform: ETH
 crypto: true
 fiat: false
 id: BNTY
-id_coinmarketcap: '34033'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34033.png
+id_coinmarketcap: '2310'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2310.png
 logoKey: currencies/bnty.png
-name: Bounty
+name: Bounty0x

@@ -1,12 +1,10 @@
 contracts:
-  - address: '0xA15865D9de09CB96aAa3A9081B3dFC8481f07d33'
-    platform: BNB
-  - address: '0xA15865D9de09CB96aAa3A9081B3dFC8481f07d33'
+  - address: '0xCf5EbF14f43488EC9231635deC3707c5b682b3D7'
     platform: ETH
 crypto: true
 fiat: false
 id: POPE2
-id_coinmarketcap: '24933'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24933.png
+id_coinmarketcap: '26144'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26144.png
 logoKey: currencies/pope2.png
-name: Popecoin
+name: Pope Erc

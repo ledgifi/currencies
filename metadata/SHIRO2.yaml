@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x9E2Bf5e09384A5Ad18443CB8206522d85ffc3763'
-    platform: TBA
+  - address: '0x71D23B27DEe759286e223Af6F2C236dA1975ddDE'
+    platform: BNB
 crypto: true
 fiat: false
 id: SHIRO2
-id_coinmarketcap: '34401'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34401.png
+id_coinmarketcap: '34815'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34815.png
 logoKey: currencies/shiro2.png
-name: Shiro Neko (shironekobase.xyz)
+name: Shiro Pet

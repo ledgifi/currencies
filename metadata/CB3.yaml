@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x01E45B8D0c51f05F17385DD3416fE3aA5BFd89aC'
-    platform: ETH
+  - address: '0xF66a8a197D5cb0e2799D79bE115208899332a0bA'
+    platform: BNB
 crypto: true
 fiat: false
 id: CB3
-id_coinmarketcap: '4042'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4042.png
+id_coinmarketcap: '16494'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16494.png
 logoKey: currencies/cb3.png
-name: COINBIG
+name: CryptoBike

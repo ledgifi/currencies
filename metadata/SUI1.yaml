@@ -1,10 +1,10 @@
 contracts:
-  - address: 0xe152cf4590affa8e187f98a4d31bba396e7922ae45c2c7c59b4575742dfde196::sui::SUI
-    platform: SUI
+  - address: '0x4841181ae4079072ebe83a29b718388a387169e3'
+    platform: BNB
 crypto: true
 fiat: false
 id: SUI1
-id_coinmarketcap: '33363'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33363.png
+id_coinmarketcap: '18932'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18932.png
 logoKey: currencies/sui1.png
-name: CristianoRonaldoSpeedSmurf7Siu
+name: Salmonation

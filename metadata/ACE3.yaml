@@ -1,10 +1,10 @@
 contracts:
-  - address: FofgVUkAzbffK3mw8ZEwMof8Lbpx59KkXRV4exhkpump
-    platform: SOL
+  - address: '0xfaaa87943bfca6d97434be3d26c589647fea4375'
+    platform: BNB
 crypto: true
 fiat: false
 id: ACE3
-id_coinmarketcap: '33825'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33825.png
+id_coinmarketcap: '22307'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22307.png
 logoKey: currencies/ace3.png
-name: Ace of Pentacles
+name: ACEToken

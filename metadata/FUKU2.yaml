@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x6a159543abfc7baf816fdbc99efd48e4ee7acc63'
-    platform: ETH
+  - address: '0x685b63CFE0179b3EFb70A01dCb1D648549AA192d'
+    platform: AVAX
 crypto: true
 fiat: false
 id: FUKU2
-id_coinmarketcap: '32622'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32622.png
+id_coinmarketcap: '12963'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12963.png
 logoKey: currencies/fuku2.png
-name: FUKU (fukucoin.io)
+name: FuruKuru

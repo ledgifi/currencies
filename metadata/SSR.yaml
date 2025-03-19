@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x29d266b5d6cdc0cd0a775f18fff0176842d4b1d2'
-    platform: BNB
+  - address: 5e1BcWvuuyg2srvbfvWWX1DfxiX6X1xZm72Ym6JXJSsL
+    platform: SOL
 crypto: true
 fiat: false
 id: SSR
-id_coinmarketcap: '14563'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14563.png
+id_coinmarketcap: '35927'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35927.png
 logoKey: currencies/ssr.png
-name: Star Ship Royal
+name: SOL Strategic Reserve

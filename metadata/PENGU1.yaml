@@ -1,10 +1,10 @@
 contracts:
-  - address: PENGEKyPYXYDnbXGKcjXaSfMsovhcrtPT8S7127tKcg
-    platform: SOL
+  - address: '0x26b17fC034b82A20563dbB02EC9E78B1D65d7a58'
+    platform: ETH
 crypto: true
 fiat: false
 id: PENGU1
-id_coinmarketcap: '31654'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31654.png
+id_coinmarketcap: '25314'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25314.png
 logoKey: currencies/pengu1.png
-name: Penguiana
+name: Pengu

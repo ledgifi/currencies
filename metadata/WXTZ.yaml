@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab'
+    platform: Etherlink
+crypto: true
+fiat: false
+id: WXTZ
+id_coinmarketcap: '35930'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35930.png
+logoKey: currencies/wxtz.png
+name: Wrapped Tezos

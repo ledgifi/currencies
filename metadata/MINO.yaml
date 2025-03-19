@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x130040f389CBBa91bb5c27dcEF0589FE38c5260D'
-    platform: BNB
+  - address: '0x3a1138075bd97a33f23a87824b811146fa44288e'
+    platform: CRO
 crypto: true
 fiat: false
 id: MINO
-id_coinmarketcap: '30401'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30401.png
+id_coinmarketcap: '17171'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17171.png
 logoKey: currencies/mino.png
-name: MINO INU
+name: Minotaur

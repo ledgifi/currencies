@@ -1,10 +1,10 @@
 contracts:
-  - address: 4j69pMABAxvef22MUY78rhjw4rLcqWMv1z988nVMMsYJ
-    platform: SOL
+  - address: '0x00000000ea00F3F4000e7Ed5Ed91965b19f1009B'
+    platform: ARB
 crypto: true
 fiat: false
 id: MAIA
-id_coinmarketcap: '34295'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34295.png
+id_coinmarketcap: '17181'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17181.png
 logoKey: currencies/maia.png
-name: Project M-AI-A
+name: Maia

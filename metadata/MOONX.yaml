@@ -1,10 +1,10 @@
 contracts:
-  - address: GrtvB1k2AkNaqDb7dsFJoLrrSpqMoiYEu6ZU1dARWme3
-    platform: SOL
+  - address: '0x053F574B35eB29dEB6817bD8B3f8c848c6aBbe53'
+    platform: BNB
 crypto: true
 fiat: false
 id: MOONX
-id_coinmarketcap: '34700'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34700.png
+id_coinmarketcap: '12474'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12474.png
 logoKey: currencies/moonx.png
-name: Mission Moon
+name: MoonX

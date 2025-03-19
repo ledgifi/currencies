@@ -1,10 +1,10 @@
 contracts:
-  - address: SWANaZUGxF82KyVsbxeeNsMaVECtimze5VyCdywkvkH
-    platform: SOL
+  - address: '0x43e3De6745fad70127d7935198311386449fD9dd'
+    platform: ETH
 crypto: true
 fiat: false
 id: SWAN
-id_coinmarketcap: '12349'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12349.png
+id_coinmarketcap: '35835'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35835.png
 logoKey: currencies/swan.png
-name: Swanlana
+name: Swan Chain

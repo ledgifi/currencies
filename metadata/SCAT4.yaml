@@ -1,12 +1,10 @@
 contracts:
-  - address: '0xf1b8a242157bfbb6397e7433af1ed6e638e2d82d'
-    platform: BNB
-  - address: '0x8424c5ac326834b404742de0067bcb654e86be30'
-    platform: ETH
+  - address: '0xbE3e1F44d99edb10cf6378e5a3879BB533A67331'
+    platform: AVAX
 crypto: true
 fiat: false
 id: SCAT4
-id_coinmarketcap: '8819'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8819.png
+id_coinmarketcap: '19028'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19028.png
 logoKey: currencies/scat4.png
-name: Sad Cat Token
+name: Snowcat DAO

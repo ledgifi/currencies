@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814'
+    platform: ETH
 crypto: true
 fiat: false
 id: AURA3
-id_coinmarketcap: '20326'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20326.png
+id_coinmarketcap: '2423'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2423.png
 logoKey: currencies/aura3.png
-name: Aura Network
+name: Aurora DAO

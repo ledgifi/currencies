@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x1d60109178c48e4a937d8ab71699d8ebb6f7c5de'
-    platform: AVAX
+  - address: '0x647f274b3a7248d6cf51b35f08e7e7fd6edfb271'
+    platform: ETH
 crypto: true
 fiat: false
 id: MAG6
-id_coinmarketcap: '16809'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16809.png
+id_coinmarketcap: '2434'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2434.png
 logoKey: currencies/mag6.png
-name: Magnet
+name: Maggie

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x3073f7aAA4DB83f95e9FFf17424F71D4751a3073'
     platform: ETH
+  - address: 0x1::aptos_coin::AptosCoin
+    platform: MOVE
 crypto: true
 decimals: 8
 fiat: false

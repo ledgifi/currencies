@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xCE842Fd2ebE59AeD59C30c728fcC2c3e1a9e88c4'
-    platform: BNB
+  - address: '0x4fadc7a98f2dc96510e42dd1a74141eeae0c1543'
+    platform: ETH
 crypto: true
 fiat: false
 id: WAR6
-id_coinmarketcap: '11729'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11729.png
+id_coinmarketcap: '11272'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11272.png
 logoKey: currencies/war6.png
-name: Robot Wars
+name: Wrapped Arweave

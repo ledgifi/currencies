@@ -1,10 +1,10 @@
 contracts:
-  - address: HUmZBfWc5VqWPPiQ9tCjCLjMao2PDXCYQoY3vcB8pump
-    platform: SOL
+  - address: '0xAd0d1436DD45dbd6d8e50Ac82240B72F52D7EA89'
+    platform: ETH
 crypto: true
 fiat: false
 id: TRUMP472
-id_coinmarketcap: '33818'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33818.png
+id_coinmarketcap: '33780'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33780.png
 logoKey: currencies/trump472.png
-name: Super President Trump 47
+name: Trump47

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x0E5c51cE714bd319A11BFb26BF0e13D8CEED1Ebe'
-    platform: BNB
+  - address: '0x5a5389ba78f04d783e9f30e5a8c45727c5e018be'
+    platform: ETH
 crypto: true
 fiat: false
 id: CHIP3
-id_coinmarketcap: '16877'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16877.png
+id_coinmarketcap: '23493'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23493.png
 logoKey: currencies/chip3.png
-name: Chip
+name: Ask Chip

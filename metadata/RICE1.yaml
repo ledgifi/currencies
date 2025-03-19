@@ -1,10 +1,16 @@
 contracts:
-  - address: '0xc4eeff5aab678c3ff32362d80946a3f5de4a1861'
+  - address: '0xcf909ef9a61dc5b05d46b5490a9f00d51c40bb28'
     platform: BNB
+  - address: '0xa64c3a85ddc4cd351eeb7aecebc6a44a64a76392'
+    platform: ETH
+  - address: '0xff40318cdA551BF168c7cC8B9DC004FaA07345AC'
+    platform: KAI
+  - address: '0x60138EFCeB1F7D8e10C8Cb89bb61BbDbEeBB4Ffc'
+    platform: POL
 crypto: true
 fiat: false
 id: RICE1
-id_coinmarketcap: '11057'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11057.png
+id_coinmarketcap: '14611'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14611.png
 logoKey: currencies/rice1.png
-name: RiceFarm Token
+name: Rice Wallet

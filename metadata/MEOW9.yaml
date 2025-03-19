@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xe8658b07c555e9604329a6a0a82ff6d9c6f68d2f'
+    platform: BNB
 crypto: true
 fiat: false
 id: MEOW9
-id_coinmarketcap: '102'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/102.png
+id_coinmarketcap: '12206'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12206.png
 logoKey: currencies/meow9.png
-name: Kittehcoin
+name: MeowSwap

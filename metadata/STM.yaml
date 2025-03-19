@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x90df11a8cce420675e73922419e3f4f3fe13cccb'
-    platform: BNB
-  - address: '0x0e22734e078d6e399bcee40a549db591c4ea46cb'
-    platform: ETH
+  - address: yPmHqPBoaKuE5cg6D6vYC3yMmtq6ZwJqdn9pRQnA7YG
+    platform: SOL
 crypto: true
 fiat: false
 id: STM
-id_coinmarketcap: '5046'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5046.png
+id_coinmarketcap: '35916'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35916.png
 logoKey: currencies/stm.png
-name: Streamity
+name: Solana Treasury Machine

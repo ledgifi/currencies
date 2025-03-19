@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x6afcff9189e8ed3fcc1cffa184feb1276f6a82a5'
-    platform: ETH
-  - address: '0x1e0F2A75Be02c025Bd84177765F89200c04337Da'
-    platform: MOVR
+  - address: '0xE21502dB7B9c6a78Ed9400E30C8521be84F2CA4F'
+    platform: BNB
 crypto: true
 fiat: false
 id: PETS3
-id_coinmarketcap: '13157'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13157.png
+id_coinmarketcap: '28986'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28986.png
 logoKey: currencies/pets3.png
-name: PolkaPets
+name: BNB Pets

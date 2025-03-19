@@ -1,7 +1,10 @@
+contracts:
+  - address: eosdtnutoken
+    platform: EOS
 crypto: true
 fiat: false
 id: NUT3
-id_coinmarketcap: '1415'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1415.png
+id_coinmarketcap: '4033'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4033.png
 logoKey: currencies/nut3.png
-name: NUTCoin
+name: Native Utility Token

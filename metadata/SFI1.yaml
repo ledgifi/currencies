@@ -1,10 +1,10 @@
 contracts:
-  - address: TVGiaML3hJE7sv9NEEVjqLbF5DcXJgHSfy
-    platform: TRX
+  - address: '0x7636d8722fdf7cd34232a915e48e96aa3eb386bf'
+    platform: ETH
 crypto: true
 fiat: false
 id: SFI1
-id_coinmarketcap: '22874'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22874.png
+id_coinmarketcap: '35732'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35732.png
 logoKey: currencies/sfi1.png
-name: STRX Finance
+name: Singularity Finance

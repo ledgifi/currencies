@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xe3e24b4ea87935e15bbe99a24e9ace9998e4614d'
-    platform: ETH
+  - address: '0xBeFc2781C187376ac54248b84e8E8F7DE87f6679'
+    platform: POL
 crypto: true
 fiat: false
 id: AIDI
-id_coinmarketcap: '24055'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24055.png
+id_coinmarketcap: '10692'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10692.png
 logoKey: currencies/aidi.png
-name: Aidi Finance (new)
+name: Aidi Finance (old)

@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x7d4a23832fad83258b32ce4fd3109ceef4332af4'
-    platform: ETH
-  - address: 8P6WDZ59qwMrTgXWaxFN5J19dGwvY2XEavCyRdA25PNm
+  - address: 6NcdiK8B5KK2DzKvzvCfqi8EHaEqu48fyEzC8Mm9pump
     platform: SOL
 crypto: true
 fiat: false
 id: STONKS
-id_coinmarketcap: '31802'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31802.png
+id_coinmarketcap: '35718'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35718.png
 logoKey: currencies/stonks.png
-name: Stonks
+name: STONKS

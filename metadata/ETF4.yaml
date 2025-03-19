@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xc2b58812c24020ea924c3d7c241c441605f12e75'
-    platform: ETH
+  - address: '0x6cf727d9089a07e44607bea30f5e687983ca6aa1'
+    platform: TBA
 crypto: true
 fiat: false
 id: ETF4
-id_coinmarketcap: '5441'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5441.png
+id_coinmarketcap: '29956'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29956.png
 logoKey: currencies/etf4.png
-name: Entherfound
+name: ETH Trust Fund

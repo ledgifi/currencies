@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x000000C396558ffbAB5Ea628f39658Bdf61345b3'
+    platform: ARB
+  - address: '0x000000C396558ffbAB5Ea628f39658Bdf61345b3'
+    platform: ETH
+  - address: '0x000000C396558ffbAB5Ea628f39658Bdf61345b3'
+    platform: TBA
+crypto: true
+fiat: false
+id: BUNNI
+id_coinmarketcap: '23236'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23236.png
+logoKey: currencies/bunni.png
+name: Bunni

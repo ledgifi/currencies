@@ -1,12 +1,10 @@
 contracts:
-  - address: '0xa55c1e67039b6d59e91eb4cda2bfc5a854989102'
-    platform: BNB
-  - address: '0xbc7250c8c3eca1dfc1728620af835fca489bfdf3'
-    platform: ETH
+  - address: '0x5D9c2457a10d455e0AD8e28e40CC28EACF27A06a'
+    platform: TBA
 crypto: true
 fiat: false
 id: GM2
-id_coinmarketcap: '14271'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14271.png
+id_coinmarketcap: '34213'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34213.png
 logoKey: currencies/gm2.png
-name: GM Wagmi
+name: GM Everyday

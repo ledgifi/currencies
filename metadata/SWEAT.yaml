@@ -1,8 +1,24 @@
 contracts:
+  - address: '0x9aa4c03344444b53f4d9b1bca229ed2ac47504e3ea6cd0683ebdc0c5ecefd693'
+    platform: APT
+  - address: '0xca7dec8550f43a5e46e3dfb95801f64280e75b27'
+    platform: ARB
+  - address: '0x510Ad22d8C956dCC20f68932861f54A591001283'
+    platform: BNB
+  - address: '0x718Aa4F7f026fD16086C842a68CE9ef55203B54F'
+    platform: CELO
   - address: '0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35'
     platform: ETH
   - address: token.sweat
     platform: NEAR
+  - address: '0x0cc931c30f4fc7fa36d290a4cd8d94acd738826e'
+    platform: POL
+  - address: NSG17kiSApMumWjLbZ4BLx8biPaAxTk9tDCdy1Fb9ia
+    platform: SOL
+  - address: '0xf0b202ef3e107ff4fc0142bbb9a607bf73b8f6460c5026d5c21c6f2e0a9a1083'
+    platform: SUI
+  - address: '0x227d920e20ebac8a40e7d6431b7d724bb64d7245 '
+    platform: TBA
 crypto: true
 fiat: false
 id: SWEAT

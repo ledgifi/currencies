@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x1c9BA9144505aaBa12f4b126Fda9807150b88f80'
+    platform: ETH
 crypto: true
 fiat: false
 id: XUSD3
-id_coinmarketcap: '769'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/769.png
+id_coinmarketcap: '8316'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8316.png
 logoKey: currencies/xusd3.png
-name: CoinoUSD
+name: XUSD Stable

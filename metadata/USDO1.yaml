@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x8238884ec9668ef77b90c6dff4d1a9f4f4823bfe'
+    platform: ETH
+  - address: '0xaD55aebc9b8c03FC43cd9f62260391c13c23e7c0'
+    platform: TBA
+crypto: true
+fiat: false
+id: USDO1
+id_coinmarketcap: '36067'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36067.png
+logoKey: currencies/usdo1.png
+name: OpenEden Open Dollar

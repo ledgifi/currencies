@@ -1,10 +1,7 @@
-contracts:
-  - address: '0x15F73a3AB443ee6EbF36c605C7868159cE5d028C'
-    platform: ETH
 crypto: true
 fiat: false
 id: SST1
-id_coinmarketcap: '28713'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28713.png
+id_coinmarketcap: '1441'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1441.png
 logoKey: currencies/sst1.png
-name: SMARTSET TOKEN
+name: SuperStakeToken

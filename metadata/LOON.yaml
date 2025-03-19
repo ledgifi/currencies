@@ -1,7 +1,10 @@
+contracts:
+  - address: 0x268d4a7a2ad93274edf6116f9f20ad8455223a7ab5fc73154f687e7dbc3e3ec6::LOON::LOON
+    platform: APT
 crypto: true
 fiat: false
 id: LOON
-id_coinmarketcap: '8173'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8173.png
+id_coinmarketcap: '35413'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35413.png
 logoKey: currencies/loon.png
-name: Loon Network
+name: The Loonies

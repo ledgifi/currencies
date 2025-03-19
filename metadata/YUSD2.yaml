@@ -1,0 +1,16 @@
+contracts:
+  - address: '0x895e15020C3f52ddD4D8e9514eB83C39F53B1579'
+    platform: ARB
+  - address: '0x1CE7D9942ff78c328A4181b9F3826fEE6D845A97'
+    platform: ETH
+  - address: '0x895e15020C3f52ddD4D8e9514eB83C39F53B1579'
+    platform: OP
+  - address: '0x895e15020C3f52ddD4D8e9514eB83C39F53B1579'
+    platform: TBA
+crypto: true
+fiat: false
+id: YUSD2
+id_coinmarketcap: '34304'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34304.png
+logoKey: currencies/yusd2.png
+name: YieldFi yToken

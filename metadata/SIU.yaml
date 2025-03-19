@@ -1,10 +1,10 @@
 contracts:
-  - address: Bctsxd5a6jPrF1QwhXsKCPhEXZMWDs92Azr9ypH4VP1W
-    platform: SOL
+  - address: '0x16E33015C466c0183cd1c2adbC5B4E7bf97548Da'
+    platform: BNB
 crypto: true
 fiat: false
 id: SIU
-id_coinmarketcap: '30614'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30614.png
+id_coinmarketcap: '21094'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21094.png
 logoKey: currencies/siu.png
-name: Siu
+name: SIU2022

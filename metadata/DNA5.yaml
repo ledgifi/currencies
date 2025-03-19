@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xcc57f84637b441127f2f74905b9d99821b47b20c'
-    platform: CRO
+  - address: '0x444ddc9ab6e938511fdd56f89ec334d38cadee0f'
+    platform: BNB
 crypto: true
 fiat: false
 id: DNA5
-id_coinmarketcap: '17251'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17251.png
+id_coinmarketcap: '19435'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19435.png
 logoKey: currencies/dna5.png
-name: DNA Dollar
+name: DNA(RXC)

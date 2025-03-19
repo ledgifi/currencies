@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x0a13a5929e5f0ff0eaba4bd9e9512c91fce40280'
-    platform: ETH
+  - address: '0x0009Ae5a69B037eA74A900783fab457fa605ae5d'
+    platform: BNB
 crypto: true
 fiat: false
 id: XAI2
-id_coinmarketcap: '25679'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25679.png
+id_coinmarketcap: '28357'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28357.png
 logoKey: currencies/xai2.png
-name: XAI Corp
+name: Grok

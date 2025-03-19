@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: '0xa94880d3a4b39746e90cdb57f8de3732c984de14'
     platform: POL
+  - address: '0x26cf750abaf38af7109effdbdf79ba50d2ee09a1'
+    platform: TBA
 crypto: true
 fiat: false
 id: UCASH

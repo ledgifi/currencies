@@ -1,6 +1,8 @@
 contracts:
   - address: '0x1337420dED5ADb9980CFc35f8f2B054ea86f8aB1'
     platform: ARB
+  - address: '0xd4554bea546efa83c1e6b389ecac40ea999b3e78'
+    platform: TBA
 crypto: true
 fiat: false
 id: SQD

@@ -1,10 +1,14 @@
 contracts:
   - address: '0xaa95f26e30001251fb905d264Aa7b00eE9dF6C18'
     platform: ETH
+  - address: 2nnrviYJRLcf2bXAxpKTRXzccoDbwaP4vzuGUG75Jo45
+    platform: SOL
+  - address: '0xef73611f98da6e57e0776317957af61b59e09ed7'
+    platform: TBA
 crypto: true
 fiat: false
 id: KENDU
 id_coinmarketcap: '31152'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31152.png
 logoKey: currencies/kendu.png
-name: Kendu Inu
+name: Kendu

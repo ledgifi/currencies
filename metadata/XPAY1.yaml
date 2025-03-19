@@ -1,10 +1,7 @@
-contracts:
-  - address: '0xd160fdad4b3cf8ff6ec5e1ec3343c6d21df19bc0'
-    platform: ETH
 crypto: true
 fiat: false
 id: XPAY1
-id_coinmarketcap: '33385'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33385.png
+id_coinmarketcap: '1410'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1410.png
 logoKey: currencies/xpay1.png
-name: XPAY
+name: Xpay

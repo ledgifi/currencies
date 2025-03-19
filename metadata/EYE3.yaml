@@ -1,10 +1,10 @@
 contracts:
-  - address: G7eETAaUzmsBPKhokZyfbaT4tD9igdZSmfQGEYWem8Sw
-    platform: SOL
+  - address: '0xE9a97602Ea2985634032a6dFE8a391F7124328F1'
+    platform: BNB
 crypto: true
 fiat: false
 id: EYE3
-id_coinmarketcap: '16600'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16600.png
+id_coinmarketcap: '32050'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32050.png
 logoKey: currencies/eye3.png
-name: NftEyez
+name: EYE Network

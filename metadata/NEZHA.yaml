@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x04fF3dC80504E55039a685BcF97e71F96A41b6a3'
-    platform: ETH
+  - address: '0x252817c5dd2e90Bca477D5975724418CBca49B60'
+    platform: BNB
 crypto: true
 fiat: false
 id: NEZHA
-id_coinmarketcap: '29003'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29003.png
+id_coinmarketcap: '35698'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35698.png
 logoKey: currencies/nezha.png
-name: NezhaToken
+name: NEZHA

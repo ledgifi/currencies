@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xD474E6c0930e3B1b999E7b093abCF1a38018D4F4'
-    platform: ARB
+  - address: '0xdf779ae4cbb7c45882c3521f0574d86d3bb95b5f'
+    platform: BNB
 crypto: true
 fiat: false
 id: MTC8
-id_coinmarketcap: '24015'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24015.png
+id_coinmarketcap: '20537'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20537.png
 logoKey: currencies/mtc8.png
-name: MetaCity
+name: MetaCars

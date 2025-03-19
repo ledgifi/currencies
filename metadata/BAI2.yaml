@@ -1,12 +1,7 @@
-contracts:
-  - address: '0x31ea904A7eca45122890dEb8dA3473A2081bc9d1'
-    platform: ETH
-  - address: '0x31ea904A7eca45122890dEb8dA3473A2081bc9d1'
-    platform: TBA
 crypto: true
 fiat: false
 id: BAI2
-id_coinmarketcap: '28503'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28503.png
+id_coinmarketcap: '22426'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22426.png
 logoKey: currencies/bai2.png
-name: Bonsai3
+name: AstridDAO

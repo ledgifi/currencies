@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x65114046c6e73af794308547124ad5c8dce3be6f'
+    platform: ARB
+  - address: '0xca1c644704febf4ab81f85daca488d1623c28e63'
+    platform: BNB
+crypto: true
+fiat: false
+id: ABRA1
+id_coinmarketcap: '35541'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35541.png
+logoKey: currencies/abra1.png
+name: Cadabra Finance

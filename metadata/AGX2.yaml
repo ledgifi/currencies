@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xa2d78cb5cc4e8931dc695a24df73cb751c0aeb07'
-    platform: BNB
+  - address: '0x13e7bcefdde72492e656f3fa58bae6029708e673'
+    platform: AVAX
 crypto: true
 fiat: false
 id: AGX2
-id_coinmarketcap: '13431'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13431.png
+id_coinmarketcap: '22803'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22803.png
 logoKey: currencies/agx2.png
-name: Agricoin
+name: AGX Coin

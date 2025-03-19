@@ -1,10 +1,10 @@
 contracts:
-  - address: 2Zaq3WyDJj2ZkMcuqUiTBfAXCjqZtqihxcwUdwv9dyHA
-    platform: SOL
+  - address: '0xb46584e0efdE3092e04010A13f2eAe62aDb3b9F0'
+    platform: BNB
 crypto: true
 fiat: false
 id: PEPE9
-id_coinmarketcap: '31147'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31147.png
+id_coinmarketcap: '25359'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25359.png
 logoKey: currencies/pepe9.png
-name: NEXT GEN PEPE
+name: Pepe Coin

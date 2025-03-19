@@ -1,10 +1,14 @@
 contracts:
-  - address: '0x81ee105457c4eafc061b8c8fedc7bb45d22286d2'
+  - address: '0x3509f19581afedeff07c53592bc0ca84e4855475'
+    platform: ARB
+  - address: '0x3509f19581aFEDEff07c53592bc0Ca84e4855475'
+    platform: AVAX
+  - address: '0x3a3e7650f8b9f667da98f236010fbf44ee4b2975'
     platform: POL
 crypto: true
 fiat: false
 id: XUSD1
-id_coinmarketcap: '22791'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22791.png
+id_coinmarketcap: '13534'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13534.png
 logoKey: currencies/xusd1.png
-name: Space Rebase XUSD
+name: xDollar Stablecoin

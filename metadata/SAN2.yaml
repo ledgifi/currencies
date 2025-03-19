@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x575e5dc6d16e6043c79f0f44282960a0d2cc86d3'
+    platform: CHZ
+  - address: '0x44941a2d2049be0acb00baf0a5dee8931c33712e'
+    platform: CHZ
+crypto: true
+fiat: false
+id: SAN2
+id_coinmarketcap: '22110'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22110.png
+logoKey: currencies/san2.png
+name: Club Santos Laguna Fan Token

@@ -1,10 +1,10 @@
 contracts:
-  - address: 7usVzynPTUJ9czdS96ezm9C6Z3hCsjb7j6TMKipURyyQ
-    platform: SOL
+  - address: '0x9F24818c84B357Ee05CFB2F2c1537C73c7Cb1502'
+    platform: ETH
 crypto: true
 fiat: false
 id: LEIA
-id_coinmarketcap: '28588'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28588.png
+id_coinmarketcap: '35677'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35677.png
 logoKey: currencies/leia.png
-name: Leia
+name: Leia Games

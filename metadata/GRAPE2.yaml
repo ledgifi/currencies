@@ -1,14 +1,10 @@
 contracts:
-  - address: '0x17757dcE604899699b79462a63dAd925B82FE221'
-    platform: AVAX
-  - address: '0xb699390735ed74e2d89075b300761dae34b4b36b'
-    platform: BNB
-  - address: '0x17757dcE604899699b79462a63dAd925B82FE221'
-    platform: POL
+  - address: 8upjSpvjcdpuzhfR1zriwg5NXkwDruejqNE9WNbPRtyA
+    platform: SOL
 crypto: true
 fiat: false
 id: GRAPE2
-id_coinmarketcap: '8570'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8570.png
+id_coinmarketcap: '12242'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12242.png
 logoKey: currencies/grape2.png
-name: Grapeswap
+name: Grape Network

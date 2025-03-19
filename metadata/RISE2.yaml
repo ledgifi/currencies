@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x3fa807b6f8d4c407e6e605368f4372d14658b38c'
+  - address: '0x89ca762f778c82120C13C79A9bFbDF6e8e663AB4'
     platform: ETH
 crypto: true
 fiat: false
 id: RISE2
-id_coinmarketcap: '8460'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8460.png
+id_coinmarketcap: '35527'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35527.png
 logoKey: currencies/rise2.png
-name: Rise Protocol
+name: AdRise

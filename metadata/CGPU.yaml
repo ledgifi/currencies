@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x49d1372124f9b018f32f13b81de6f4c83d89fcc3'
-    platform: ETH
+  - address: '0xbac405e6b93846cdc809db7af3380746efa2c06f'
+    platform: BNB
 crypto: true
 fiat: false
 id: CGPU
-id_coinmarketcap: '33527'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33527.png
+id_coinmarketcap: '32958'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32958.png
 logoKey: currencies/cgpu.png
-name: CloudGPU
+name: ChainGPU

@@ -1,14 +1,10 @@
 contracts:
-  - address: '0xb802D45372EA29dA4748Ba73d40ad708FC43bd45'
-    platform: ARB
-  - address: '0x8eB05c38c1d92ff74FD941AB4F7a469a5CC2CA6A'
+  - address: '0xCA7661Ba64A7667E3006c421C181502d545D1911'
     platform: BNB
-  - address: '0x16467F88F41Fe323324084BEd682E10f937eF10C'
-    platform: ETH
 crypto: true
 fiat: false
 id: BXC2
 id_coinmarketcap: '5168'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5168.png
 logoKey: currencies/bxc2.png
-name: Bitcoin Classic
+name: Bitcoin Classic (ARAW)

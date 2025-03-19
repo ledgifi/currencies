@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x19247618d79e3fc4d4866169789e4b8eedef52e6'
+  - address: 0XF36C5F04127F7470834ED6F98BDDC1BE62ABA48D
     platform: ETH
 crypto: true
 fiat: false
 id: CAI
-id_coinmarketcap: '33768'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33768.png
+id_coinmarketcap: '23341'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23341.png
 logoKey: currencies/cai.png
-name: Chasm
+name: CryptoAI

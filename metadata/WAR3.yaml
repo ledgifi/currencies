@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x42dbd44a8883d4363b395f77547812dc7db806d5'
-    platform: BNB
+  - address: '0xf4a81c18816c9b0ab98fac51b36dcb63b0e58fde'
+    platform: ETH
 crypto: true
 fiat: false
 id: WAR3
-id_coinmarketcap: '8682'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8682.png
+id_coinmarketcap: '7251'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7251.png
 logoKey: currencies/war3.png
-name: Warrior Token
+name: YieldWars

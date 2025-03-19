@@ -1,12 +1,10 @@
 contracts:
-  - address: '0x1529cFD6578979b8f35B0184d7f25e7390e8dED0'
-    platform: BNB
-  - address: '0x9a834eb3932c3a40a2cfa9a1b1658fe551f04407'
+  - address: '0xdBB910F546De59857194c51BC28f6BDFAA6bc58f'
     platform: ETH
 crypto: true
 fiat: false
 id: CAT30
-id_coinmarketcap: '26479'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26479.png
+id_coinmarketcap: '28187'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28187.png
 logoKey: currencies/cat30.png
-name: CatDoge
+name: CATECOIN

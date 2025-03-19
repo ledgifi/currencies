@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xa3d80275E300237a62D3431C26d52f185584cC1B'
-    platform: BNB
+  - address: '0x3fa807b6f8d4c407e6e605368f4372d14658b38c'
+    platform: ETH
 crypto: true
 fiat: false
 id: RISE4
-id_coinmarketcap: '17627'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17627.png
+id_coinmarketcap: '8460'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8460.png
 logoKey: currencies/rise4.png
-name: RiseHero
+name: Rise Protocol

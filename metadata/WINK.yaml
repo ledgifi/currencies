@@ -1,7 +1,10 @@
+contracts:
+  - address: '0x7698A5311DA174A95253Ce86C21ca7272b9B05f8'
+    platform: AVAX
 crypto: true
 fiat: false
 id: WINK
-id_coinmarketcap: '1865'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1865.png
+id_coinmarketcap: '35765'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35765.png
 logoKey: currencies/wink.png
 name: Wink

@@ -1,10 +1,7 @@
-contracts:
-  - address: '0xab8c98491816fede394582f7758a5effeb4368d7'
-    platform: BNB
 crypto: true
 fiat: false
 id: DTC1
-id_coinmarketcap: '25228'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25228.png
+id_coinmarketcap: '69'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/69.png
 logoKey: currencies/dtc1.png
-name: TrumpCoin
+name: Datacoin
