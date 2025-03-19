@@ -1,12 +1,9 @@
 contracts:
-  - address: '0x7d814b9eD370Ec0a502EdC3267393bF62d891B62'
-    platform: BNB
-  - address: FQgtfugBdpFN7PZ6NdPrZpVLDBrPGxXesi4gVu3vErhY
-    platform: SOL
+  - address: '0xc6363c1a05f840be2d185d7084b28af84c543d40'
+    platform: ETH
 crypto: true
 fiat: false
 id: BMT1
-id_coinmarketcap: '35214'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35214.png
-logoKey: currencies/bmt1.png
-name: Bubblemaps
+id_coinmarketcap: '5928'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5928.png
+name: BMToken
