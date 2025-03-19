@@ -1,11 +1,10 @@
 contracts:
-  - address: '0x86Bb94DdD16Efc8bc58e6b056e8df71D9e666429'
-    platform: BNB
+  - address: '0x0828096494ad6252F0F853abFC5b6ec9dfe9fDAd'
+    platform: ETH
 crypto: true
-decimals: 8
 fiat: false
-id: TST1
-id_binance: '1442'
-id_coinmarketcap: '35647'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35647.png
-name: Test
+id: TST
+id_coinmarketcap: '31934'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31934.png
+logoKey: currencies/tst.png
+name: Teleport System Token

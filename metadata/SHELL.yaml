@@ -1,13 +1,10 @@
 contracts:
-  - address: '0xf2c88757f8d03634671208935974B60a2a28Bdb3'
+  - address: '0x208cfEc94d2BA8B8537da7A9BB361c6baAD77272'
     platform: BNB
-  - address: '0xf2c88757f8d03634671208935974B60a2a28Bdb3'
-    platform: ETH
 crypto: true
-decimals: 8
 fiat: false
-id: SHELL1
-id_binance: '1458'
-id_coinmarketcap: '35710'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35710.png
-name: MyShell
+id: SHELL
+id_coinmarketcap: '21078'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21078.png
+logoKey: currencies/shell.png
+name: Meta Apes
