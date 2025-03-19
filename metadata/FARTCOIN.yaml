@@ -2,8 +2,10 @@ contracts:
   - address: 9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump
     platform: SOL
 crypto: true
+decimals: 8
 fiat: false
 id: FARTCOIN
+id_binance: '1460'
 id_coinmarketcap: '33597'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33597.png
 logoKey: currencies/fartcoin.png

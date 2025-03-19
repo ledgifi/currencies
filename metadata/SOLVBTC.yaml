@@ -10,8 +10,10 @@ contracts:
   - address: '0x41D9036454BE47d3745A823C4aaCD0e29cFB0f71'
     platform: MERL
 crypto: true
+decimals: 8
 fiat: false
 id: SOLVBTC
+id_binance: '1437'
 id_coinmarketcap: '33312'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33312.png
 logoKey: currencies/solvbtc.png

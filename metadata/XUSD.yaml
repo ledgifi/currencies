@@ -2,9 +2,11 @@ contracts:
   - address: '0xC08e7E23C235073C6807C2EFE7021304cb7c2815'
     platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: XUSD
+id_binance: '1463'
 id_coinmarketcap: '32372'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32372.png
 logoKey: currencies/xusd.png
-name: XUSD
+name: StraitsX USD
