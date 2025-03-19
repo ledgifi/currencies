@@ -1,13 +1,11 @@
 contracts:
-  - address: '0x25a528af62e56512a19ce8c3cab427807c28cc19'
+  - address: '0x5b73A93b4E5e4f1FD27D8b3F8C97D69908b5E284'
     platform: BNB
-  - address: '0x21381e026ad6d8266244f2a583b35f9e4413fa2a'
-    platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: FORM
-id_coinmarketcap: '10408'
-id_nomics: FORM
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FORM.png
-logoKey: currencies/form.png
-name: Formation Fi
+id_binance: '1466'
+id_coinmarketcap: '23635'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23635.png
+name: Four

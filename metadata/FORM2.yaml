@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x25a528af62e56512a19ce8c3cab427807c28cc19'
+    platform: BNB
+  - address: '0x21381e026ad6d8266244f2a583b35f9e4413fa2a'
+    platform: ETH
+crypto: true
+fiat: false
+id: FORM2
+id_coinmarketcap: '10408'
+id_nomics: FORM
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10408.png
+name: Formation Fi
