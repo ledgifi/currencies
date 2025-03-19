@@ -4,8 +4,10 @@ contracts:
   - address: '0xf8f173e20e15f3b6cb686fb64724d370689de083'
     platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: HEI
+id_binance: '1441'
 id_coinmarketcap: '35724'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35724.png
 logoKey: currencies/hei.png

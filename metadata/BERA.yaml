@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: BERA
+id_binance: '1438'
 id_coinmarketcap: '24647'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24647.png
 logoKey: currencies/bera.png
