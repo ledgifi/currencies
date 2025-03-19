@@ -1,8 +1,6 @@
 contracts:
   - address: '0xbbc2ae13b23d715c30720f079fcd9b4a74093505'
     platform: ETH
-  - address: '0x94314a14df63779c99c0764a30e0cd22fa78fc0e'
-    platform: ETH
   - address: '0x0E50BEA95Fe001A370A4F1C220C49AEdCB982DeC'
     platform: POL
 crypto: true
@@ -10,7 +8,6 @@ decimals: 8
 fiat: false
 id: ERN
 id_binance: '702'
-id_coinmarketcap: '8615'
 id_coinpaprika: ern-ethernity-chain
 id_nomics: ERN2
 logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20210622/ec712249-c233-4ce0-a1ca-eba470cf412f.png

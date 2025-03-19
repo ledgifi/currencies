@@ -1,7 +1,11 @@
+contracts:
+  - address: '0x94314a14df63779c99c0764a30e0cd22fa78fc0e'
+    platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: EPIC
-id_coinmarketcap: '5435'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5435.png
-logoKey: currencies/epic.png
-name: Epic Cash
+id_binance: '1464'
+id_coinmarketcap: '8615'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8615.png
+name: Epic Chain
