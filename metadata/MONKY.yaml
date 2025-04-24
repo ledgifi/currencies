@@ -2,7 +2,7 @@ contracts:
   - address: '0x59e69094398afbea632f8bd63033bdd2443a3be1'
     platform: BNB
 crypto: true
-decimals: 2
+decimals: 6
 fiat: false
 id: MONKY
 id_binance: '1406'

@@ -2,7 +2,7 @@ contracts:
   - address: '0x6982508145454ce325ddbe47a25d4ec3d2311933'
     platform: ETH
 crypto: true
-decimals: 2
+decimals: 6
 fiat: false
 id: PEPE
 id_binance: '1186'

@@ -4,7 +4,7 @@ contracts:
   - address: '0x9a2f5556e9a637e8fbce886d8e3cf8b316a1d8a2'
     platform: BNB
 crypto: true
-decimals: 2
+decimals: 6
 fiat: false
 id: BIDR
 id_binance: '384'
