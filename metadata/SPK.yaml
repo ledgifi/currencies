@@ -1,7 +1,14 @@
+contracts:
+  - address: '0xAfF2e841851700D1Fc101995Ee6b81Ae21Bb87D7'
+    platform: BNB
+  - address: '0xc20059e0317DE91738d13af027DfC4a50781b066'
+    platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: SPK
-id_coinmarketcap: '2448'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2448.png
+id_binance: '1535'
+id_coinmarketcap: '36569'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36569.png
 logoKey: currencies/spk.png
-name: SparksPay
+name: Spark
