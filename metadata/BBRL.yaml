@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xB6BB22f4D1e58E9E43eFa2ec7F572D215B3CF08a'
+    platform: BNB
+  - address: rH5CJsqvNqZGxrMyGaqLEoMWRYcVTAPZMt
+    platform: XRP
+crypto: true
+fiat: false
+id: BBRL
+id_coinmarketcap: '38483'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38483.png
+logoKey: currencies/bbrl.png
+name: Braza BRL

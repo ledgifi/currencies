@@ -1,0 +1,20 @@
+contracts:
+  - address: '0x59caf3854A29D886080Fe28DfECb2DEc61cF5BA2'
+    platform: BNB
+  - address: '0xB3B78A5094bfBA3D590E596594c87544E83225BD'
+    platform: ETH
+  - address: '0xB3B78A5094bfBA3D590E596594c87544E83225BD'
+    platform: POL
+  - address: FPPne7q12D6wnoW5SMNvk1h3JKyZWtpbgti3YcEpn953
+    platform: SOL
+  - address: EQB61uPz4Xi6lFVuFU3-I7cwiNHWluJLUJf8Jn2TtP_c47k7
+    platform: TON
+  - address: TUYMwjE4CJtteFFMPE7nY3PG7ub8bfFN6F
+    platform: TRX
+crypto: true
+fiat: false
+id: TBET
+id_coinmarketcap: '31853'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31853.png
+logoKey: currencies/tbet.png
+name: Terabet.io

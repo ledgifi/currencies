@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x50356167a4dbc38bea6779c045e24e25facedfdc'
+    platform: BNB
+  - address: '0x590F21186489cA1612f49a4B1ff5c66acD6796A9'
+    platform: ETH
+crypto: true
+fiat: false
+id: SPOTON
+id_coinmarketcap: '38028'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38028.png
+logoKey: currencies/spoton.png
+name: Spotify Tokenized Stock (Ondo)

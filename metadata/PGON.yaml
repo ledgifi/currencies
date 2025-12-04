@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x400f1e257f86d25578a0928c94dc95115f09d5c9'
+    platform: BNB
+  - address: '0x339ce23a355ed6D513DD3e1462975C4eCD86823a'
+    platform: ETH
+crypto: true
+fiat: false
+id: PGON
+id_coinmarketcap: '38096'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38096.png
+logoKey: currencies/pgon.png
+name: Procter & Gamble Tokenized Stock (Ondo)

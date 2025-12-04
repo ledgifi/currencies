@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x0afcb0065362ec8bc94902479b9d37e3fa49eda6'
+    platform: BNB
+crypto: true
+fiat: false
+id: BTC1
+id_coinmarketcap: '38692'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38692.png
+logoKey: currencies/btc1.png
+name: Bitcoin Second Chance

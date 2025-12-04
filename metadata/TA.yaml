@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x539ae81a166e5e80aed211731563e549c411b140'
+    platform: BNB
+  - address: '0x539ae81a166e5e80aed211731563e549c411b140'
+    platform: LINEA
+crypto: true
+fiat: false
+id: TA
+id_coinmarketcap: '37430'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37430.png
+logoKey: currencies/ta.png
+name: Trusta.AI

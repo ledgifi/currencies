@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xacb5b33ce55ba7729e38b2b59677e71c0112f0d9'
+    platform: '-'
+  - address: '0xacb5b33ce55ba7729e38b2b59677e71c0112f0d9'
+    platform: TBA
+crypto: true
+fiat: false
+id: OSP
+id_coinmarketcap: '24292'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24292.png
+logoKey: currencies/osp.png
+name: OpenSocial

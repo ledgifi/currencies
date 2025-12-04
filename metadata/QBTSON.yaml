@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x8c7bf0ed6bc778bde1489de1592c1aad3e66371d'
+    platform: BNB
+  - address: '0x3807562a482b824c08a564dfefcc471806d3e00a'
+    platform: ETH
+crypto: true
+fiat: false
+id: QBTSON
+id_coinmarketcap: '38011'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38011.png
+logoKey: currencies/qbtson.png
+name: D-Wave Quantum Tokenized Stock (Ondo)

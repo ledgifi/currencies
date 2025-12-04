@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x314938c596F5ce31C3f75307d2979338C346D7F2'
+    platform: ARB
+  - address: '0x314938c596f5ce31c3f75307d2979338c346d7f2'
+    platform: BNB
+  - address: XswsQk4duEQmCbGzfqUUWYmi7pV7xpJ9eEmLHXCaEQP
+    platform: SOL
+crypto: true
+fiat: false
+id: BACX
+id_coinmarketcap: '37019'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37019.png
+logoKey: currencies/bacx.png
+name: Bank of America tokenized stock (xStock)

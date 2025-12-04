@@ -1,0 +1,16 @@
+contracts:
+  - address: '0xC31DDaAfCBe9F2e589B65199A9756630b99eb815'
+    platform: ARB
+  - address: '0xd0D56273290D339aaF1417D9bfa1bb8cFe8A0933'
+    platform: ETH
+  - address: '0x2e250061938231e8d85C9D2D3313DEe6674f6609'
+    platform: POL
+  - address: '0x02300aC24838570012027E0A90D3FEcCEF3c51d2'
+    platform: TBA
+crypto: true
+fiat: false
+id: FOOM
+id_coinmarketcap: '27023'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27023.png
+logoKey: currencies/foom.png
+name: FOOM

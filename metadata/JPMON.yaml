@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x317bf42b43a394860718266dec445dcc9fd9da49'
+    platform: BNB
+  - address: '0x03C1EC4CA9DBb168E6Db0DeF827c085999CBffaF'
+    platform: ETH
+crypto: true
+fiat: false
+id: JPMON
+id_coinmarketcap: '38082'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38082.png
+logoKey: currencies/jpmon.png
+name: JPMorgan Chase Tokenized Stock (Ondo)

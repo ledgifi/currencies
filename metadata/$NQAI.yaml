@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x5EAD27FCC5Bc50aa100da635F8D1E6198ACEe71C'
+    platform: ETH
+crypto: true
+fiat: false
+id: $NQAI
+id_coinmarketcap: '37434'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37434.png
+logoKey: currencies/$nqai.png
+name: NodeQAI

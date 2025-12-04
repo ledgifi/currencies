@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x89233399708C18Ac6887F90A2B4Cd8Ba5fEdD06e'
+    platform: ARB
+  - address: '0x89233399708c18ac6887f90a2b4cd8ba5fedd06e'
+    platform: BNB
+  - address: XsHtf5RpxsQ7jeJ9ivNewouZKJHbPxhPoEy6yYvULr7
+    platform: SOL
+crypto: true
+fiat: false
+id: ABTX
+id_coinmarketcap: '37010'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37010.png
+logoKey: currencies/abtx.png
+name: Abbott tokenized stock (xStock)

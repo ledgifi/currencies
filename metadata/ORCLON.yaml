@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x03e4bd1ea53f1da84513da0319d1f03dd1bbcf93'
+    platform: BNB
+  - address: '0x8a23C6BaadB88512b30475C83Df6A63881e33e1E'
+    platform: ETH
+crypto: true
+fiat: false
+id: ORCLON
+id_coinmarketcap: '38009'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38009.png
+logoKey: currencies/orclon.png
+name: Oracle Tokenized Stock (Ondo)

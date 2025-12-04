@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xf5f52266a57e6d7312da39bd7ab9527b9e975c40'
+    platform: ETH
+crypto: true
+fiat: false
+id: AVM
+id_coinmarketcap: '36805'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36805.png
+logoKey: currencies/avm.png
+name: Agent Virtual Machine

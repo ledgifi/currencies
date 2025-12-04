@@ -1,0 +1,13 @@
+color: '#1d9ad7'
+contracts:
+  - address: '0x9AfC975EdB8a0B57f066e8e0A72A5e2ADbdCb605'
+    platform: ETH
+  - address: '0x2b8bb627ce7c0c9cbe579e83099de665032d08be'
+    platform: FSN
+crypto: true
+fiat: false
+id: FSN
+id_coinmarketcap: '2530'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2530.png
+logoKey: currencies/fsn.png
+name: Fusion

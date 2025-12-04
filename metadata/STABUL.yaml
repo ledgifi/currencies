@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x6A43795941113c2F58EB487001f4f8eE74b6938A'
+    platform: ETH
+  - address: '0xc4420347a4791832bb7b16bf070d5c017d9fabc4'
+    platform: POL
+  - address: '0x6722F882cc3A1B1034893eFA9764397C88897892'
+    platform: TBA
+crypto: true
+fiat: false
+id: STABUL
+id_coinmarketcap: '36372'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36372.png
+logoKey: currencies/stabul.png
+name: Stabull Finance

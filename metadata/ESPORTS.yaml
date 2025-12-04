@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xF39e4b21c84e737Df08e2C3b32541d856f508E48'
+    platform: BNB
+  - address: '0x49A0C2366936b115d6877438175EE4b97D6dAb7C'
+    platform: LINEA
+crypto: true
+fiat: false
+id: ESPORTS
+id_coinmarketcap: '37414'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37414.png
+logoKey: currencies/esports.png
+name: Yooldo

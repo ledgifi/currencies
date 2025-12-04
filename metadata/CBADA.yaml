@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xcbADA732173e39521CDBE8bf59a6Dc85A9fc7b8c'
+    platform: '-'
+  - address: '0xcbADA732173e39521CDBE8bf59a6Dc85A9fc7b8c'
+    platform: TBA
+crypto: true
+fiat: false
+id: CBADA
+id_coinmarketcap: '36864'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36864.png
+logoKey: currencies/cbada.png
+name: Coinbase Wrapped ADA

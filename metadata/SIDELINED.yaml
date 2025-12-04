@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x9d4d8a8f1551317276bc2fbf924e7adf82b722b72f4f914dcfb6cc1811bc383f::Sidelined::Sidelined
+    platform: APT
+crypto: true
+fiat: false
+id: SIDELINED
+id_coinmarketcap: '35898'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35898.png
+logoKey: currencies/sidelined.png
+name: Sidelined?

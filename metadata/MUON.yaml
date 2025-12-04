@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x8b6acf6041a81567f012ff6a4c6d96d5818d74bf'
+    platform: BNB
+  - address: '0x050362Ab1072Cb2Ce74d74770E22A3203Ad04ee5'
+    platform: ETH
+crypto: true
+fiat: false
+id: MUON
+id_coinmarketcap: '38014'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38014.png
+logoKey: currencies/muon.png
+name: Micron Technology Tokenized Stock (Ondo)

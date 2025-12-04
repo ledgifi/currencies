@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x179f782d7fbe745f40b20e0c7dbb6205d43fa4b9'
+    platform: ETH
+crypto: true
+fiat: false
+id: INSP1
+id_coinmarketcap: '29565'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29565.png
+logoKey: currencies/insp1.png
+name: InspireAI

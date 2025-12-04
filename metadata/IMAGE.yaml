@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x2e156a3e09782A785345B7A33c46C71596FFd551'
+    platform: BNB
+  - address: '0x1c3547dfa9ce7acd9c54ae49244575fa65bc75e2'
+    platform: ETH
+  - address: EZGB14NYbqMrsw1QKSgfLXKpj8PrnQBXSjWHbwxpvbAy
+    platform: SOL
+crypto: true
+fiat: false
+id: IMAGE
+id_coinmarketcap: '36790'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36790.png
+logoKey: currencies/image.png
+name: Imagen Network

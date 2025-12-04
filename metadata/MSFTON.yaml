@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x6bfe75d1ad432050ea973c3a3dcd88f02e2444c3'
+    platform: BNB
+  - address: '0xB812837b81a3a6b81d7CD74CfB19A7f2784555E5'
+    platform: ETH
+crypto: true
+fiat: false
+id: MSFTON
+id_coinmarketcap: '38086'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38086.png
+logoKey: currencies/msfton.png
+name: Microsoft Tokenized Stock (Ondo)

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x91152B4Ef635403efBAe860edD0F8c321d7c035d'
+    platform: BNB
+  - address: '0x50f41F589aFACa2EF41FDF590FE7b90cD26DEe64'
+    platform: ETH
+crypto: true
+fiat: false
+id: IRYS
+id_coinmarketcap: '38978'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38978.png
+logoKey: currencies/irys.png
+name: Irys

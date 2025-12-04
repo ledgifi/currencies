@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x3065930e06307eeCF872304299cE9be2a2F6bCe0'
+    platform: BNB
+  - address: '0x373f323d21b38004d17386c18680c57657f78040'
+    platform: ETH
+crypto: true
+fiat: false
+id: NIZA
+id_coinmarketcap: '38362'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38362.png
+logoKey: currencies/niza.png
+name: Niza Global

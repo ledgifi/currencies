@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xB638f8EB4F242EB1883De8553998aA89624E9e81'
+    platform: ARB
+  - address: Ee4ooSk6GMC34T1Gbh8rRY2XLyuk2FsyiWtq3jrHUcPR
+    platform: SOL
+crypto: true
+fiat: false
+id: VNX
+id_coinmarketcap: '36640'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36640.png
+logoKey: currencies/vnx.png
+name: VNX Community Hub

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x1f8955E640Cbd9abc3C3Bb408c9E2E1f5F20DfE6'
+    platform: BNB
+  - address: '0xAcE8E719899F6E91831B18AE746C9A965c2119F1'
+    platform: ETH
+crypto: true
+fiat: false
+id: USDON
+id_coinmarketcap: '38273'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38273.png
+logoKey: currencies/usdon.png
+name: U.S. Dollar Tokenized Currency (Ondo)

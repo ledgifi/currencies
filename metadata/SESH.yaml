@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x10Ea9E5303670331Bdddfa66A4cEA47dae4fcF3b'
+    platform: ARB
+  - address: '0x10Ea9E5303670331Bdddfa66A4cEA47dae4fcF3b'
+    platform: ETH
+crypto: true
+fiat: false
+id: SESH
+id_coinmarketcap: '37248'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37248.png
+logoKey: currencies/sesh.png
+name: Session Token

@@ -1,0 +1,18 @@
+contracts:
+  - address: '0xe3b3fe7bca19ca77ad877a5bebab186becfad906'
+    platform: ARB
+  - address: '0x3405e88af759992937b84e58f2fe691ef0eea320'
+    platform: AVAX
+  - address: '0xa63f56985f9c7f3bc9ffc5685535649e0c1a55f3'
+    platform: BNB
+  - address: '0xA663B02CF0a4b149d2aD41910CB81e23e1c41c32'
+    platform: ETH
+  - address: '0x2dd1b4d4548accea497050619965f91f78b3b532'
+    platform: OP
+crypto: true
+fiat: false
+id: SFRAX
+id_coinmarketcap: '36433'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36433.png
+logoKey: currencies/sfrax.png
+name: Staked FRAX

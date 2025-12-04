@@ -1,0 +1,18 @@
+contracts:
+  - address: '0x27f6c8289550fce67f6b50bed1f519966afe5287'
+    platform: AVAX
+  - address: '0x27f6c8289550fce67f6b50bed1f519966afe5287'
+    platform: BNB
+  - address: '0x27f6c8289550fce67f6b50bed1f519966afe5287'
+    platform: ETH
+  - address: '0x27f6c8289550fce67f6b50bed1f519966afe5287'
+    platform: POL
+  - address: 2zMqyX4AYCk6mgy5UZ2S7zUaLxwERhK5WjqDzkPPbSpW
+    platform: SOL
+crypto: true
+fiat: false
+id: TGBP
+id_coinmarketcap: '38935'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38935.png
+logoKey: currencies/tgbp.png
+name: Tokenised GBP

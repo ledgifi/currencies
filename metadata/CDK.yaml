@@ -1,0 +1,12 @@
+contracts:
+  - address: '647846491'
+    platform: ALGO
+  - address: '0x108468885ebA2932901d409AF6bF97Bf9C3eda50'
+    platform: AVAX
+crypto: true
+fiat: false
+id: CDK
+id_coinmarketcap: '14908'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14908.png
+logoKey: currencies/cdk.png
+name: CDK Token

@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x548308e91ec9f285c7bff05295badbd56a6e4971'
+    platform: ARB
+  - address: '0x548308e91ec9f285c7bff05295badbd56a6e4971'
+    platform: BNB
+  - address: XsjFwUPiLofddX5cWFHW35GCbXcSu1BCUGfxoQAQjeL
+    platform: SOL
+crypto: true
+fiat: false
+id: ORCLX
+id_coinmarketcap: '37059'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37059.png
+logoKey: currencies/orclx.png
+name: Oracle tokenized stock (xStock)

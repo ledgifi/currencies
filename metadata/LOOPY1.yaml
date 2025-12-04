@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x9b9c0e26a8ace7edb8fce14acd81507c507c677a400cfb9cc9a0ca4a8432a97a::loopy_sui::LOOPY_SUI
+    platform: SUI
+crypto: true
+fiat: false
+id: LOOPY1
+id_coinmarketcap: '33395'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33395.png
+logoKey: currencies/loopy1.png
+name: LOOPY (SUI)

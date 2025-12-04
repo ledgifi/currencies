@@ -1,0 +1,16 @@
+contracts:
+  - address: '0x083Fb956333f9c1568F66fc0d0BE451f31F8c46c'
+    platform: ARB
+  - address: '0x058d411ab9911F90c74f471bDC9d2Bb4Cf9B309C'
+    platform: ETH
+  - address: 93bVs9o8Nq88zxnLWwUAVfN5PXBhCcnV5sfs6AFLno8q
+    platform: SOL
+  - address: '0x67543CF0304C19CA62AC95ba82FD4F4B40788dc1'
+    platform: TBA
+crypto: true
+fiat: false
+id: RIZ
+id_coinmarketcap: '35590'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35590.png
+logoKey: currencies/riz.png
+name: Rivalz Network

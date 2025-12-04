@@ -1,0 +1,16 @@
+contracts:
+  - address: '0x8835A2F66A7AaCCB297Cb985831A616B75e2E16c'
+    platform: AVAX
+  - address: '0x888883b5F5D21fb10Dfeb70e8f9722B9FB0E5E51'
+    platform: ETH
+  - address: '0x888883b5F5D21fb10Dfeb70e8f9722B9FB0E5E51'
+    platform: POL
+  - address: rMkEuRii9w9uBMQDnWV5AA43gvYZR9JxVK
+    platform: XRP
+crypto: true
+fiat: false
+id: EUROP
+id_coinmarketcap: '36748'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36748.png
+logoKey: currencies/europ.png
+name: EURØP

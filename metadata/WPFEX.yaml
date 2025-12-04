@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x4e6894c3481b3a45393ce8ac9552945ad50a3758'
+    platform: ARB
+crypto: true
+fiat: false
+id: WPFEX
+id_coinmarketcap: '37115'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37115.png
+logoKey: currencies/wpfex.png
+name: Wrapped Pfizer Tokenized stock (xStock)

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x38fd4ee2ade8b4be157dfee3d6b8979c78a56145'
+    platform: BNB
+  - address: '0x6Efe65C2426b51E9AA0427B96C313E5D8715FD06'
+    platform: ETH
+crypto: true
+fiat: false
+id: SHARDS
+id_coinmarketcap: '38291'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38291.png
+logoKey: currencies/shards.png
+name: WorldShards

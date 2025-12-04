@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x05765a792a04ecc6d45102b45874bc44a95a2d7e'
+    platform: CHZ
+  - address: '0x0fD7cdbC3576bF3eDD700649Ac989D75E3efE4A0'
+    platform: CHZ
+crypto: true
+fiat: false
+id: NAVI4
+id_coinmarketcap: '8340'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8340.png
+logoKey: currencies/navi4.png
+name: Natus Vincere Fan Token

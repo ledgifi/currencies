@@ -1,0 +1,22 @@
+contracts:
+  - address: '3203964481'
+    platform: ALGO
+  - address: '0xFF7F8F301F7A706E3CfD3D2275f5dc0b9EE8009B'
+    platform: ARB
+  - address: '0xFF7F8F301F7A706E3CfD3D2275f5dc0b9EE8009B'
+    platform: AVAX
+  - address: '0xFF7F8F301F7A706E3CfD3D2275f5dc0b9EE8009B'
+    platform: BNB
+  - address: '0xFF7F8F301F7A706E3CfD3D2275f5dc0b9EE8009B'
+    platform: ETH
+  - address: '0xFF7F8F301F7A706E3CfD3D2275f5dc0b9EE8009B'
+    platform: POL
+  - address: '0xFF7F8F301F7A706E3CfD3D2275f5dc0b9EE8009B'
+    platform: TBA
+crypto: true
+fiat: false
+id: FOLKS
+id_coinmarketcap: '38864'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38864.png
+logoKey: currencies/folks.png
+name: Folks Finance

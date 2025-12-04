@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xd1baaed91361cea01a2d9be0ca8988756163971a'
+    platform: BNB
+crypto: true
+fiat: false
+id: FMC1
+id_coinmarketcap: '19601'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19601.png
+logoKey: currencies/fmc1.png
+name: FidoMeta

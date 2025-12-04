@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x62a48560861b0b451654bfffdb5be6e47aa8ff1b'
+    platform: ARB
+  - address: '0x62a48560861b0b451654bfffdb5be6e47aa8ff1b'
+    platform: BNB
+  - address: XsRbLZthfABAPAfumWNEJhPyiKDW6TvDVeAeW7oKqA2
+    platform: SOL
+crypto: true
+fiat: false
+id: HONX
+id_coinmarketcap: '37027'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37027.png
+logoKey: currencies/honx.png
+name: Honeywell tokenized stock (xStock)

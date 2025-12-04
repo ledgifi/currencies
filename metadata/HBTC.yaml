@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x84a599f19184d432CB86eB7fDAda0276c25d4444'
+    platform: BNB
+crypto: true
+fiat: false
+id: HBTC
+id_coinmarketcap: '38220'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38220.png
+logoKey: currencies/hbtc.png
+name: Hold BTC

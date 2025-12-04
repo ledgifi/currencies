@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x01d68079416439cf4aad4ab97f507c483ec4970e'
+    platform: BNB
+crypto: true
+fiat: false
+id: NEO1
+id_coinmarketcap: '38861'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38861.png
+logoKey: currencies/neo1.png
+name: NEO

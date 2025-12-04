@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xcfde7c43edb3c9f71331aac1003b099ce40c94ea'
+    platform: MATIC
+  - address: '0xcfde7c43edb3c9f71331aac1003b099ce40c94ea'
+    platform: POL
+crypto: true
+fiat: false
+id: GIFT1
+id_coinmarketcap: '38622'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38622.png
+logoKey: currencies/gift1.png
+name: GIFT

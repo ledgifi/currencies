@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xdb0482cfaD4789798623E64b15eebA01b16e917C'
+    platform: ARB
+  - address: '0xdb0482cfad4789798623e64b15eeba01b16e917c'
+    platform: BNB
+  - address: XsGVi5eo1Dh2zUpic4qACcjuWGjNv8GCt3dm5XcX6Dn
+    platform: SOL
+crypto: true
+fiat: false
+id: JNJX
+id_coinmarketcap: '37030'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37030.png
+logoKey: currencies/jnjx.png
+name: Johnson & Johnson tokenized stock (xStock)

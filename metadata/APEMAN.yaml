@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xabAb3B0DB38f2303ACbCAB672905E41A18e396d8'
+    platform: ETH
+  - address: '0xd46E2EDC7314eE5cb69f86aB7b0E84e349971eFB'
+    platform: TBA
+crypto: true
+fiat: false
+id: APEMAN
+id_coinmarketcap: '35339'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35339.png
+logoKey: currencies/apeman.png
+name: APEMAN

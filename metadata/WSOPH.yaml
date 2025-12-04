@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x2b1a859de6a55c553520d7780bc5805712b128f9'
+    platform: SOPH
+crypto: true
+fiat: false
+id: WSOPH
+id_coinmarketcap: '36751'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36751.png
+logoKey: currencies/wsoph.png
+name: Wrapped SOPH

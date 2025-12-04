@@ -1,0 +1,22 @@
+contracts:
+  - address: '0x5E817F2AbCCB9095585D26c2a3ce234a440574Fc'
+    platform: ARB
+  - address: '0x5E817F2AbCCB9095585D26c2a3ce234a440574Fc'
+    platform: AVAX
+  - address: '0x5E817F2AbCCB9095585D26c2a3ce234a440574Fc'
+    platform: ETH
+  - address: '0x5E817F2AbCCB9095585D26c2a3ce234a440574Fc'
+    platform: OP
+  - address: '0x5E817F2AbCCB9095585D26c2a3ce234a440574Fc'
+    platform: POL
+  - address: FRNTPi9V3Sw9b9U8d5Q3WY7tNANT6Q394d7dYtv7Jdog
+    platform: SOL
+  - address: '0x5E817F2AbCCB9095585D26c2a3ce234a440574Fc'
+    platform: TBA
+crypto: true
+fiat: false
+id: FRNT1
+id_coinmarketcap: '37761'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37761.png
+logoKey: currencies/frnt1.png
+name: Frontier Stable Token

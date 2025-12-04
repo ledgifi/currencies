@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x8888888809b788CD6e40a2D27e67425D5D0B5d3B'
+    platform: BNB
+  - address: '0xf43756D85EF9275fE224236f6D072c5C7143a3Be'
+    platform: ETH
+crypto: true
+fiat: false
+id: CTH
+id_coinmarketcap: '36081'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36081.png
+logoKey: currencies/cth.png
+name: Changcoin

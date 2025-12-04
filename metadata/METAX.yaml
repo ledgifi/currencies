@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x96702be57cd9777f835117a809c7124fe4ec989a'
+    platform: ARB
+  - address: '0x96702be57cd9777f835117a809c7124fe4ec989a'
+    platform: BNB
+  - address: Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu
+    platform: SOL
+crypto: true
+fiat: false
+id: METAX
+id_coinmarketcap: '37055'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37055.png
+logoKey: currencies/metax.png
+name: Meta tokenized stock (xStock)

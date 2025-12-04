@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xd3113a0ad20a46f6a662c63fe8e637f7713e59c7'
+    platform: BNB
+  - address: '0x8F3E41b378ae010c46d255F36bFC1D303b52dceb'
+    platform: ETH
+crypto: true
+fiat: false
+id: CVXON
+id_coinmarketcap: '38042'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38042.png
+logoKey: currencies/cvxon.png
+name: Chevron Tokenized Stock (Ondo)

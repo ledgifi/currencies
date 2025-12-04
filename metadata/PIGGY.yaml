@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x8410fea2Dd13c1798977Ff4D55A9e1835f54f216'
+    platform: BNB
+  - address: 3ff6l-yaaaa-aaaac-a4ryq-cai
+    platform: ICP
+crypto: true
+fiat: false
+id: PIGGY
+id_coinmarketcap: '38711'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38711.png
+logoKey: currencies/piggy.png
+name: Piggycell

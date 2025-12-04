@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x93e62845c1dd5822ebc807ab71a5fb750decd15a'
+    platform: ARB
+crypto: true
+fiat: false
+id: WNVDAX
+id_coinmarketcap: '37270'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37270.png
+logoKey: currencies/wnvdax.png
+name: Wrapped NVIDIA Tokenized stock (xStock)

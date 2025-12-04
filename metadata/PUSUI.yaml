@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x1b1991838812ec46860dcf0cf414d2be0ac367d6b4c6cee5c9d20d6edcc644a2::pusui::PUSUI::pusui::PUSUI
+    platform: SUI
+crypto: true
+fiat: false
+id: PUSUI
+id_coinmarketcap: '37321'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37321.png
+logoKey: currencies/pusui.png
+name: PUSUI

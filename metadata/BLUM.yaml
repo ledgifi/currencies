@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xfDc8Cd47848c0C67dF66F7120F4e3371181cFA5e'
+    platform: BNB
+  - address: EQCAj5oiRRrXokYsg_B-e0KG9xMwh5upr5I8HQzErm0_BLUM
+    platform: TON
+crypto: true
+fiat: false
+id: BLUM
+id_coinmarketcap: '33154'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33154.png
+logoKey: currencies/blum.png
+name: Blum

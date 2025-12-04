@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x374d03a6c0d5bd4be0a5117ebe1b49d52ac8a53f'
+    platform: BNB
+  - address: '0x4EFD92F372898B57F292De69fCe377dd7D912bDd'
+    platform: ETH
+crypto: true
+fiat: false
+id: PYPLON
+id_coinmarketcap: '38010'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38010.png
+logoKey: currencies/pyplon.png
+name: PayPal Tokenized Stock (Ondo)

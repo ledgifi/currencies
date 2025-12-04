@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x2E0E7DD22ad56705237A59759918E20267B111f2'
+    platform: ETH
+crypto: true
+fiat: false
+id: SPRSTR
+id_coinmarketcap: '38405'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38405.png
+logoKey: currencies/sprstr.png
+name: SprotoStrategy

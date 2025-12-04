@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x8c6691704d0c3630d6a4fbd5383e0f8e59e10616'
+    platform: ETH
+crypto: true
+fiat: false
+id: $TRITON
+id_coinmarketcap: '32881'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32881.png
+logoKey: currencies/$triton.png
+name: Triton

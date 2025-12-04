@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x45bafad5a6a531bc18cf6ce5b02c58ea4d20589b'
+    platform: CANTO
+crypto: true
+fiat: false
+id: IFBILL
+id_coinmarketcap: '37100'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37100.png
+logoKey: currencies/ifbill.png
+name: Short-term U.S. Treasury Tokenized Bills (Fortunafi)

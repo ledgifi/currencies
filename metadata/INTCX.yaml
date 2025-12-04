@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xf8a80d1cb9cfd70d03d655d9df42339846f3b3c8'
+    platform: ARB
+  - address: '0xf8a80d1cb9cfd70d03d655d9df42339846f3b3c8'
+    platform: BNB
+  - address: XshPgPdXFRWB8tP1j82rebb2Q9rPgGX37RuqzohmArM
+    platform: SOL
+crypto: true
+fiat: false
+id: INTCX
+id_coinmarketcap: '37028'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37028.png
+logoKey: currencies/intcx.png
+name: Intel tokenized stock (xStock)

@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x90a2a4c76b5d8c0bc892a69ea28aa775a8f2dd48'
+    platform: ARB
+  - address: '0x90a2a4c76b5d8c0bc892a69ea28aa775a8f2dd48'
+    platform: BNB
+  - address: XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W
+    platform: SOL
+crypto: true
+fiat: false
+id: SPYX
+id_coinmarketcap: '37006'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37006.png
+logoKey: currencies/spyx.png
+name: SP500 tokenized ETF (xStock)

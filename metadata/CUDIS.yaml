@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xC1353D3Ee02FDbd4f65F92EEe543cfd709049CB1'
+    platform: BNB
+  - address: CudisfkgWvMKnZ3TWf6iCuHm8pN2ikXhDcWytwz6f6RN
+    platform: SOL
+crypto: true
+fiat: false
+id: CUDIS
+id_coinmarketcap: '36396'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36396.png
+logoKey: currencies/cudis.png
+name: CUDIS

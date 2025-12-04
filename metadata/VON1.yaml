@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x1cde419fae0ef7f7931ae3e29e5f411c8c5e5fa1'
+    platform: BNB
+  - address: '0xaC37c20C1d0E5285035e056101a64e263Ff94a41'
+    platform: ETH
+crypto: true
+fiat: false
+id: VON1
+id_coinmarketcap: '38040'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38040.png
+logoKey: currencies/von1.png
+name: Visa Tokenized Stock (Ondo)

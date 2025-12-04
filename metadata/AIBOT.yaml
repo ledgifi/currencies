@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x96adaa33e175f4a7f20c099730bc78dd0b45745b'
+    platform: BNB
+  - address: 6V6YhTMR3hXbvHrMmMQ4vMG3gUWwifc57ZsEjRTbAsdH
+    platform: SOL
+crypto: true
+fiat: false
+id: AIBOT
+id_coinmarketcap: '37694'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37694.png
+logoKey: currencies/aibot.png
+name: Cherry AI

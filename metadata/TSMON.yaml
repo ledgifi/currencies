@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xc37042a7a4fa510d8884a433762ab87257b91965'
+    platform: BNB
+  - address: '0x3Cafdbfe682aec17d5acE2f97A2f3ab3dCf6a4A9'
+    platform: ETH
+crypto: true
+fiat: false
+id: TSMON
+id_coinmarketcap: '38075'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38075.png
+logoKey: currencies/tsmon.png
+name: Taiwan Semiconductor Manufacturing Tokenized Stock (Ondo)

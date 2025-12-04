@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x2a7e3392458307493c86388d5e544aad93286836'
+    platform: BNB
+  - address: '0xC9cbbD8f211300Dd0e7a3933b7AeEdAC6F61Dd52'
+    platform: IP
+crypto: true
+fiat: false
+id: ARIAIP
+id_coinmarketcap: '38877'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38877.png
+logoKey: currencies/ariaip.png
+name: Aria Protocol

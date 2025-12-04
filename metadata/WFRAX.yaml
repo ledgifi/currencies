@@ -1,0 +1,26 @@
+contracts:
+  - address: '0x64445f0aecC51E94aD52d8AC56b7190e764E561a'
+    platform: ARB
+  - address: '0x64445f0aecC51E94aD52d8AC56b7190e764E561a'
+    platform: BNB
+  - address: '0x04ACaF8D2865c0714F79da09645C13FD2888977f'
+    platform: ETH
+  - address: '0xFc00000000000000000000000000000000000002'
+    platform: FRAX
+  - address: '0x5217Ab28ECE654Aab2C68efedb6A22739df6C3D5'
+    platform: LINEA
+  - address: '0x64445f0aecC51E94aD52d8AC56b7190e764E561a'
+    platform: S
+  - address: zZbQjiRg8uSxZaPu996XuviuZeSY6nsaMuutKZQBJga
+    platform: SOL
+  - address: '0x0CEAC003B0d2479BebeC9f4b2EBAd0a803759bbf'
+    platform: TBA
+  - address: '0x64445f0aecC51E94aD52d8AC56b7190e764E561a'
+    platform: UNI
+crypto: true
+fiat: false
+id: WFRAX
+id_coinmarketcap: '37362'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37362.png
+logoKey: currencies/wfrax.png
+name: Wrapped FRAX

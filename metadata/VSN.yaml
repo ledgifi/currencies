@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x6fbbbd8bfb1cd3986b1d05e7861a0f62f87db74b'
+    platform: ARB
+  - address: '0x699ccf919c1dfdfa4c374292f42cadc9899bf753'
+    platform: ETH
+crypto: true
+fiat: false
+id: VSN
+id_coinmarketcap: '37322'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37322.png
+logoKey: currencies/vsn.png
+name: Vision

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xaD55aebc9b8c03FC43cd9f62260391c13c23e7c0'
+    platform: ETH
+  - address: '0x83db73ef5192de4b6a4c92bd0141ba1a0dc87c65'
+    platform: TBA
+crypto: true
+fiat: false
+id: CUSDO
+id_coinmarketcap: '36068'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36068.png
+logoKey: currencies/cusdo.png
+name: OpenEden Compounding OpenDollar

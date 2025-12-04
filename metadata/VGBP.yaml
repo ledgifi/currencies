@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x7aE4265eCFC1F31bc0E112DfCFe3D78E01f4BB7f'
+    platform: CELO
+  - address: 5H4voZhzySsVvwVYDAKku8MZGuYBC7cXaBKDPW4YHWW1
+    platform: SOL
+  - address: '0xaeb4bb7debd1e5e82266f7c3b5cff56b3a7bf411'
+    platform: TBA
+crypto: true
+fiat: false
+id: VGBP
+id_coinmarketcap: '36339'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36339.png
+logoKey: currencies/vgbp.png
+name: VNX British Pound

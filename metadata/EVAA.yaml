@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xaa036928c9c0Df07d525B55ea8EE690Bb5a628C1'
+    platform: BNB
+  - address: EQBKMfjX_a_dsOLm-juxyVZytFP7_KKnzGv6J01kGc72gVBp
+    platform: TON
+crypto: true
+fiat: false
+id: EVAA
+id_coinmarketcap: '38376'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38376.png
+logoKey: currencies/evaa.png
+name: EVAA Protocol

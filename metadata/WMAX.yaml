@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x5b32624f352d2fc6cc70889967a143ba1814f82b'
+    platform: ARB
+crypto: true
+fiat: false
+id: WMAX
+id_coinmarketcap: '37208'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37208.png
+logoKey: currencies/wmax.png
+name: Wrapped Mastercard Tokenized stock (xStock)

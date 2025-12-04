@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x8fce7206e3043dd360f115afa956ee31b90b787c'
+    platform: BNB
+  - address: STARqri3xhy6Pyv1EpgdjkPDVcs9FncKcaEP6527krs
+    platform: SOL
+crypto: true
+fiat: false
+id: STAR1
+id_coinmarketcap: '37743'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37743.png
+logoKey: currencies/star1.png
+name: Starpower

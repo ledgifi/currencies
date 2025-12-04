@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x22af33fe49fd1fa80c7149773dde5890d3c76f3b'
+    platform: '-'
+  - address: '0x22af33fe49fd1fa80c7149773dde5890d3c76f3b'
+    platform: TBA
+crypto: true
+fiat: false
+id: BNKR
+id_coinmarketcap: '37545'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37545.png
+logoKey: currencies/bnkr.png
+name: BankrCoin

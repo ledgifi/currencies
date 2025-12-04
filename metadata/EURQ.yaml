@@ -1,0 +1,16 @@
+contracts:
+  - address: '2768422954'
+    platform: ALGO
+  - address: '0x8dF723295214Ea6f21026eeEb4382d475f146F9f'
+    platform: ETH
+  - address: '0xD571Edb2EF29DF10fcd6200fd6D0Ed2389983db3'
+    platform: POL
+  - address: '4555525100000000000000000000000000000000'
+    platform: XRP
+crypto: true
+fiat: false
+id: EURQ
+id_coinmarketcap: '34176'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34176.png
+logoKey: currencies/eurq.png
+name: Quantoz EURQ

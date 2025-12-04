@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x42a53b1fd6bd9279c6e5d88d53361bb524591472'
+    platform: BNB
+crypto: true
+fiat: false
+id: EPOUND
+id_coinmarketcap: '36524'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36524.png
+logoKey: currencies/epound.png
+name: EPound

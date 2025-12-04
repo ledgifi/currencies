@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x7C8217517ed4711fe2DECCdFefFE8d906b9Ae11F'
+    platform: BNB
+  - address: A1t2UviBYwyfYZDJyKY2W6Td8ritgsCriUDuNaAQN49S
+    platform: SOL
+crypto: true
+fiat: false
+id: BLESS
+id_coinmarketcap: '38466'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38466.png
+logoKey: currencies/bless.png
+name: Bless

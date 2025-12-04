@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x054c9D4C6F4EA4E14391addD1812106c97D05690'
+    platform: ETH
+  - address: GwKKPsJdY5oWMJ8RReWLcvb82KzW6FKy2bKoYW7kHr16
+    platform: SOL
+  - address: TC8QDMS2nLdWMT7iJwvtG5YH6XiGEJT6om
+    platform: TRX
+crypto: true
+fiat: false
+id: LLD
+id_coinmarketcap: '35872'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35872.png
+logoKey: currencies/lld.png
+name: Liberland Dollar

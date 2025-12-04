@@ -1,0 +1,16 @@
+contracts:
+  - address: '0xaedaff046601beb063b647845dfb21841f32d6a4'
+    platform: BNB
+  - address: '0x9F1E8F87c6321b84baD7DDa7DfB86D5115A47605'
+    platform: ETH
+  - address: '0x9F1E8F87c6321b84baD7DDa7DfB86D5115A47605'
+    platform: POL
+  - address: '0x9818B6c09f5ECc843060927E8587c427C7C93583'
+    platform: TBA
+crypto: true
+fiat: false
+id: RIZE
+id_coinmarketcap: '36539'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36539.png
+logoKey: currencies/rize.png
+name: RIZE

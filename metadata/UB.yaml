@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x40b8129B786D766267A7a118cF8C07E31CDB6Fde'
+    platform: BNB
+  - address: '0x6944E1DF6Bf5972305f9Ab25dF47ef10De01bcc8'
+    platform: ETH
+crypto: true
+fiat: false
+id: UB
+id_coinmarketcap: '38339'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38339.png
+logoKey: currencies/ub.png
+name: Unibase

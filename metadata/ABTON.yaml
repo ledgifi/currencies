@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x5a20886b575058dd7299785f0ea9b1172942a3e0'
+    platform: BNB
+  - address: '0x3859385363f7BB4Dfe42811cCF3F294FcD41dd1D'
+    platform: ETH
+crypto: true
+fiat: false
+id: ABTON
+id_coinmarketcap: '38006'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38006.png
+logoKey: currencies/abton.png
+name: Abbott Tokenized Stock (Ondo)

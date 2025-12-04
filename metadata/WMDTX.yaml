@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x02c1b10e5329c4502469396b2ce9f200e60b4a77'
+    platform: ARB
+crypto: true
+fiat: false
+id: WMDTX
+id_coinmarketcap: '37210'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37210.png
+logoKey: currencies/wmdtx.png
+name: Wrapped Medtronic Tokenized stock (xStock)

@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x8c025b35826e6c928769e3c7ba2d999999999999'
+    platform: BNB
+crypto: true
+fiat: false
+id: ATM3
+id_coinmarketcap: '36026'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36026.png
+logoKey: currencies/atm3.png
+name: ATM (BSC)

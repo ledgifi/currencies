@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x6aB973862737B64830F8431Be580F9D7c236382E'
+    platform: ETH
+crypto: true
+fiat: false
+id: USDUC1
+id_coinmarketcap: '36612'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36612.png
+logoKey: currencies/usduc1.png
+name: Unstable Coin (usduc.ai)

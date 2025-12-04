@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xd55C9fB62E176a8Eb6968f32958FeFDD0962727E'
+    platform: BNB
+  - address: '0xd55C9fB62E176a8Eb6968f32958FeFDD0962727E'
+    platform: ETH
+crypto: true
+fiat: false
+id: FHE
+id_coinmarketcap: '36153'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36153.png
+logoKey: currencies/fhe.png
+name: Mind Network

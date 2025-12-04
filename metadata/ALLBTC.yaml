@@ -1,0 +1,10 @@
+contracts:
+  - address: factory/osmo1z6r6qdknhgsc0zeracktgpcxf43j6sekq07nw8sxduc9lg0qjjlqfu25e3/alloyed/allBTC
+    platform: OSMO
+crypto: true
+fiat: false
+id: ALLBTC
+id_coinmarketcap: '36599'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36599.png
+logoKey: currencies/allbtc.png
+name: Osmosis allBTC

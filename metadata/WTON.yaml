@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x7f9308e8d724e724ec31395f3af52e0593bb2e3f'
+    platform: DUCK
+crypto: true
+fiat: false
+id: WTON
+id_coinmarketcap: '35129'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35129.png
+logoKey: currencies/wton.png
+name: Wrapped TON

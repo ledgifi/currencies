@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x056aa0b63a3cd2fc5538608ad37dbe0f89cceee7'
+    platform: ETH
+crypto: true
+fiat: false
+id: USD13
+id_coinmarketcap: '37598'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37598.png
+logoKey: currencies/usd13.png
+name: Vellum USD

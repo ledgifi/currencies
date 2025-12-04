@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x22092c94a91d019ad15536725598b0a6be0a73c0'
+    platform: BNB
+  - address: '0xcDD60D15125bf3362b6838D2506b0Fa33bc1a515'
+    platform: ETH
+crypto: true
+fiat: false
+id: IEMGON
+id_coinmarketcap: '38099'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38099.png
+logoKey: currencies/iemgon.png
+name: iShares Core MSCI Emerging Markets Tokenized ETF (Ondo)

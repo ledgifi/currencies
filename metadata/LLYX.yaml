@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x19c41EA77b34BbDEe61c3A87A75D1ABDA2ED0be4'
+    platform: ARB
+  - address: '0x19c41ea77b34bbdee61c3a87a75d1abda2ed0be4'
+    platform: BNB
+  - address: Xsnuv4omNoHozR6EEW5mXkw8Nrny5rB3jVfLqi6gKMH
+    platform: SOL
+crypto: true
+fiat: false
+id: LLYX
+id_coinmarketcap: '37038'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37038.png
+logoKey: currencies/llyx.png
+name: Eli Lilly tokenized stock (xStock)

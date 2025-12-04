@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x45df6533f2c874027cf1Cd6275823e34dBdE906d'
+    platform: BNB
+crypto: true
+fiat: false
+id: WBESC
+id_coinmarketcap: '24526'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24526.png
+logoKey: currencies/wbesc.png
+name: Wrapped BESC

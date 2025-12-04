@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x4cbf89ED7Bb30b8a860fa86d3c96E9c72931299b'
+    platform: BNB
+  - address: '0x4cbf89ED7Bb30b8a860fa86d3c96E9c72931299b'
+    platform: ETH
+  - address: XsqBC5tcVQLYt8wqGCHRnAUUecbRYXoJCReD6w7QEKp
+    platform: SOL
+crypto: true
+fiat: false
+id: TBLLX
+id_coinmarketcap: '37741'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37741.png
+logoKey: currencies/tbllx.png
+name: TBLL tokenized ETF (xStock)

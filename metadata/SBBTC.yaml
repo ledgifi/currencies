@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x13bA349ECbE6d78590587f12eE19f50d8F8CD627'
+    platform: BNB
+crypto: true
+fiat: false
+id: SBBTC
+id_coinmarketcap: '30953'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30953.png
+logoKey: currencies/sbbtc.png
+name: ShibaBitcoin

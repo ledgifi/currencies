@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x3bd359c1119da7da1d913d1c4d2b7c461115433a'
+    platform: MON
+  - address: CrAr4RRJMBVwRsZtT62pEhfA9H5utymC2mVx8e7FreP2
+    platform: SOL
+crypto: true
+fiat: false
+id: MON
+id_coinmarketcap: '30495'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30495.png
+logoKey: currencies/mon.png
+name: Monad

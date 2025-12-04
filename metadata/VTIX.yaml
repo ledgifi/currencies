@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xbd730e618bcd88c82ddee52e10275cf2f88a4777'
+    platform: ARB
+  - address: '0xbd730e618bcd88c82ddee52e10275cf2f88a4777'
+    platform: BNB
+  - address: XsssYEQjzxBCFgvYFFNuhJFBeHNdLWYeUSP8F45cDr9
+    platform: SOL
+crypto: true
+fiat: false
+id: VTIX
+id_coinmarketcap: '37047'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37047.png
+logoKey: currencies/vtix.png
+name: Vanguard tokenized ETF (xStock)

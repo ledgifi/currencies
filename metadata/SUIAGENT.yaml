@@ -1,0 +1,10 @@
+contracts:
+  - address: 0xd31630377c445d5e3e4812310452e8a09eef4c1f5616fb12d2912b9173c622ef::suiagent::SUIAGENT
+    platform: SUI
+crypto: true
+fiat: false
+id: SUIAGENT
+id_coinmarketcap: '36470'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36470.png
+logoKey: currencies/suiagent.png
+name: aiSUI

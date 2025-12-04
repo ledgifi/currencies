@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x2f8A339B5889FfaC4c5A956787cdA593b3c36867'
+    platform: BNB
+  - address: '0xa0A8481fc246Cd12f75227aBB96220fF5360fad3'
+    platform: TBA
+crypto: true
+fiat: false
+id: CMC20
+id_coinmarketcap: '38442'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38442.png
+logoKey: currencies/cmc20.png
+name: CoinMarketCap 20 Index DTF

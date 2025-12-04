@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x78ec15c5fd8efc5e924e9eebb9e549e29c785867'
+    platform: '-'
+  - address: '0x78ec15c5fd8efc5e924e9eebb9e549e29c785867'
+    platform: TBA
+crypto: true
+fiat: false
+id: TORUS
+id_coinmarketcap: '37476'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37476.png
+logoKey: currencies/torus.png
+name: Torus (torus.network)

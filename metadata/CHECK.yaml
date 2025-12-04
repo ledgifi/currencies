@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x9126236476efba9ad8ab77855c60eb5bf37586eb'
+    platform: ETH
+  - address: '0x9126236476efba9ad8ab77855c60eb5bf37586eb'
+    platform: TBA
+crypto: true
+fiat: false
+id: CHECK
+id_coinmarketcap: '38926'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38926.png
+logoKey: currencies/check.png
+name: Checkmate

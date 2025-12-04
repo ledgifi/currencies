@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x7c37dca97ad357c39a86cd25fd98debf17d0688b'
+    platform: ETH
+crypto: true
+fiat: false
+id: ETHCHAN
+id_coinmarketcap: '37433'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37433.png
+logoKey: currencies/ethchan.png
+name: ETH-CHAN

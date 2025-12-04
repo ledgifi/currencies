@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x11920f139a3121c2836e01551d43f95b3c31159c'
+    platform: ARB
+  - address: '0x9d9535dae62f5f12ab83f1183dca1ead244b0db3'
+    platform: ETH
+crypto: true
+fiat: false
+id: YBR
+id_coinmarketcap: '34385'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34385.png
+logoKey: currencies/ybr.png
+name: YieldBricks

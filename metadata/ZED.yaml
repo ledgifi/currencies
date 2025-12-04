@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x5c999e15b71de2bb8e651f0f999fb0bc321a0dfe'
+    platform: BNB
+  - address: '0x5b0f21f60116b9463210c00c7a1a6a46e26bfa33'
+    platform: ZEDX
+crypto: true
+fiat: false
+id: ZED
+id_coinmarketcap: '30507'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30507.png
+logoKey: currencies/zed.png
+name: ZedDex

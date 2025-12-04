@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x28d38dF637dB75533bD3F71426F3410a82041544'
+    platform: ETH
+  - address: '0x30c7235866872213F68cb1F08c37Cb9eCCB93452'
+    platform: TBA
+crypto: true
+fiat: false
+id: PROMPT
+id_coinmarketcap: '36223'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36223.png
+logoKey: currencies/prompt.png
+name: Wayfinder

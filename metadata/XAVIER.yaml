@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x69B1ac639c0153b8EAe75e4c19A176d07071683C'
+    platform: ETH
+  - address: 69G8CpUVZAxbPMiEBrfCCCH445NwFxH6PzVL693Xpump
+    platform: SOL
+crypto: true
+fiat: false
+id: XAVIER
+id_coinmarketcap: '36852'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36852.png
+logoKey: currencies/xavier.png
+name: 'Xavier: Renegade Angel'

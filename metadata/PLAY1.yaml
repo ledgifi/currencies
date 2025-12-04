@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xf86089B30F30285D492B0527C37b9C2225bFCF8c'
+    platform: BNB
+  - address: '0x853a7c99227499dba9db8c3a02aa691afdebf841'
+    platform: TBA
+crypto: true
+fiat: false
+id: PLAY1
+id_coinmarketcap: '37534'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37534.png
+logoKey: currencies/play1.png
+name: PlaysOut

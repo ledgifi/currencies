@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x7567c2a46bce46373b454682f3d95e6535bde144'
+    platform: BNB
+  - address: '0x241958c86c7744d15d5f6314BA1Ea4c81DDA2896'
+    platform: ETH
+crypto: true
+fiat: false
+id: DASHON
+id_coinmarketcap: '38078'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38078.png
+logoKey: currencies/dashon.png
+name: DoorDash Tokenized Stock (Ondo)

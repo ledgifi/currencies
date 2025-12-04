@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x0e4f6209ed984b21edea43ace6e09559ed051d48'
+    platform: BNB
+  - address: '0x33f6BE84becfF45ea6aA2952d7eF890B44bFB59d'
+    platform: ETH
+crypto: true
+fiat: false
+id: 'ON'
+id_coinmarketcap: '38750'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38750.png
+logoKey: currencies/on.png
+name: Orochi Network

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x5422374B27757da72d5265cC745ea906E0446634'
+    platform: ETH
+  - address: 8smindLdDuySY6i2bStQX9o8DVhALCXCMbNxD98unx35
+    platform: SOL
+crypto: true
+fiat: false
+id: USDCV
+id_coinmarketcap: '37180'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37180.png
+logoKey: currencies/usdcv.png
+name: USD CoinVertible

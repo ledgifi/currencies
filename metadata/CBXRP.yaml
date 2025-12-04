@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xcb585250f852c6c6bf90434ab21a00f02833a4af'
+    platform: '-'
+  - address: '0xcb585250f852c6c6bf90434ab21a00f02833a4af'
+    platform: TBA
+crypto: true
+fiat: false
+id: CBXRP
+id_coinmarketcap: '36707'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36707.png
+logoKey: currencies/cbxrp.png
+name: Coinbase Wrapped XRP

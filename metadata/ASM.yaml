@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x2565ae0385659badcada1031db704442e1b69982'
+    platform: ETH
+  - address: '0x3b53604113B5677291BFc0bc255379E7a796559b'
+    platform: TBA
+crypto: true
+fiat: false
+id: ASM
+id_coinmarketcap: '6069'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6069.png
+logoKey: currencies/asm.png
+name: Assemble AI

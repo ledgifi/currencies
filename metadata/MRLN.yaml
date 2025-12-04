@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x0B3547CD0E14e7D42f8921b0c370FdFD708bff6C'
+    platform: ARB
+  - address: '0x79bE2B20389A869476d183b1f42B9950EAf457d8'
+    platform: BNB
+crypto: true
+fiat: false
+id: MRLN
+id_coinmarketcap: '38377'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38377.png
+logoKey: currencies/mrln.png
+name: Project Merlin

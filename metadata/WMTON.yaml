@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xa7d1e886acf66ec0656df2decb4b7c893a3bab4c'
+    platform: BNB
+  - address: '0x82106347dDbB23cE44Cf4cE4053Ef1adf8b9323B'
+    platform: ETH
+crypto: true
+fiat: false
+id: WMTON
+id_coinmarketcap: '38060'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38060.png
+logoKey: currencies/wmton.png
+name: Walmart Tokenized Stock (Ondo)

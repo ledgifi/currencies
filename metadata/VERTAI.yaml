@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x6edac263561da41ade155a992759260fafb87b43'
+    platform: AVAX
+  - address: '0xcDbddbdEFB0eE3eF03a89AFcd714aa4ef310D567'
+    platform: ETH
+  - address: '0x93402f62aeda632b9d768092b61887c4e9a13079'
+    platform: TBA
+crypto: true
+fiat: false
+id: VERTAI
+id_coinmarketcap: '34158'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34158.png
+logoKey: currencies/vertai.png
+name: Vertical AI

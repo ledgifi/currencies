@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x27Ae27110350B98d564b9A3eeD31bAeBc82d878d'
+    platform: BNB
+  - address: 4WD28rCz2TraGBZPb5R7b64PFxDDK8UndxfxozizwZ3W
+    platform: SOL
+crypto: true
+fiat: false
+id: CUMMIES
+id_coinmarketcap: '9212'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9212.png
+logoKey: currencies/cummies.png
+name: CumRocket

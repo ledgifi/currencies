@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xd9fc3e075d45254a1d834fea18af8041207dea0a'
+    platform: ARB
+  - address: '0xd9fc3e075d45254a1d834fea18af8041207dea0a'
+    platform: BNB
+  - address: XsMAqkcKsUewDrzVkait4e5u4y8REgtyS7jWgCpLV2C
+    platform: SOL
+crypto: true
+fiat: false
+id: JPMX
+id_coinmarketcap: '37031'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37031.png
+logoKey: currencies/jpmx.png
+name: JPMorgan Chase tokenized stock (xStock)

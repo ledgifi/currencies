@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x6a2a68ca7fc793d8cea36326a6ec1ef7ac3d9742'
+    platform: ARB
+crypto: true
+fiat: false
+id: WINTCX
+id_coinmarketcap: '37202'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37202.png
+logoKey: currencies/wintcx.png
+name: Wrapped Intel Tokenized stock (xStock)

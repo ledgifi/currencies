@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xAB3dBcD9B096C3fF76275038bf58eAC10D22C61f'
+    platform: BNB
+  - address: '0x4274cD7277C7bb0806Bd5FE84b9aDAE466a8DA0a'
+    platform: ETH
+crypto: true
+fiat: false
+id: YUSD
+id_coinmarketcap: '35976'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35976.png
+logoKey: currencies/yusd.png
+name: Aegis YUSD

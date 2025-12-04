@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x5bb4d589467c25A5Ac8db930372dc5dA30C3410E'
+    platform: BNB
+crypto: true
+fiat: false
+id: LUSD1
+id_coinmarketcap: '36552'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36552.png
+logoKey: currencies/lusd1.png
+name: LUSD

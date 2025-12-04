@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x4cf08813756dfa7519cb480a1a1a3472b5b4ec067592a8bee0f826808d218158::tardi::TARDI
+    platform: SUI
+crypto: true
+fiat: false
+id: TARDI
+id_coinmarketcap: '35006'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35006.png
+logoKey: currencies/tardi.png
+name: Tardi

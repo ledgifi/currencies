@@ -1,0 +1,10 @@
+contracts:
+  - address: RMBCASH-eos-token.pcash
+    platform: A
+crypto: true
+fiat: false
+id: RMBCASH
+id_coinmarketcap: '28565'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28565.png
+logoKey: currencies/rmbcash.png
+name: RMBCASH

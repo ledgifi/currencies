@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x64d1335b7b942385a60c50e57f647d1982f0c4c8'
+    platform: BNB
+  - address: '0x399ef659fdead53b3e7f97e9491e727925667945'
+    platform: ETH
+  - address: HeFNBDauVZDD86dV8TmFGx39kGxmFLrVKqbYe6wXWcPT
+    platform: SOL
+crypto: true
+fiat: false
+id: L1X
+id_coinmarketcap: '35427'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35427.png
+logoKey: currencies/l1x.png
+name: Layer One X

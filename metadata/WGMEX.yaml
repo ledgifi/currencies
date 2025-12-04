@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xb2f6ed0ed3eeb22bef7a648794ffc19b8af3761c'
+    platform: ARB
+crypto: true
+fiat: false
+id: WGMEX
+id_coinmarketcap: '37120'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37120.png
+logoKey: currencies/wgmex.png
+name: Wrapped Gamestop Tokenized stock (xStock)

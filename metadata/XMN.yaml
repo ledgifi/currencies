@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x97c7571f4406cdd7a95f3027075ab80d3e9c937c2a567690d31e14ab1872ccee::xmn::XMN
+    platform: SUI
+crypto: true
+fiat: false
+id: XMN
+id_coinmarketcap: '38455'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38455.png
+logoKey: currencies/xmn.png
+name: xMoney

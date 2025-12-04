@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x0308a3a9c433256ad7ef24dbef9c49c8cb01300a'
+    platform: POL
+  - address: '0x50E139fFa6BbD52d5a5354BAcB5E0C94D48d12b3'
+    platform: TBA
+crypto: true
+fiat: false
+id: GPO1
+id_coinmarketcap: '15462'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15462.png
+logoKey: currencies/gpo1.png
+name: GoldPesa Option

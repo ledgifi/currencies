@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x139f335ce45167fdb2279afaffb980cca627bc83'
+    platform: ETH
+crypto: true
+fiat: false
+id: BYB2
+id_coinmarketcap: '36932'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36932.png
+logoKey: currencies/byb2.png
+name: ByexToken

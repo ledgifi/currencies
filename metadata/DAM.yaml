@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xF9Ca3fE094212FfA705742D3626a8Ab96aAbABf8'
+    platform: BNB
+  - address: '0x0FedbA9178b70e8b54e2Af08eBffcf28A1e5A43B'
+    platform: ETH
+crypto: true
+fiat: false
+id: DAM
+id_coinmarketcap: '37638'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37638.png
+logoKey: currencies/dam.png
+name: Reservoir

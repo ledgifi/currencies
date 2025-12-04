@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x78D11E37e890Af4589Fc9D0F6F884fd165c5aa0A'
+    platform: ETH
+  - address: 4ikwYoNvoGEwtMbziUyYBTz1zRM6nmxspsfw9G7Bpump
+    platform: SOL
+crypto: true
+fiat: false
+id: CRYPTO1
+id_coinmarketcap: '36632'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36632.png
+logoKey: currencies/crypto1.png
+name: Cryptocurrency Coin

@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xb08d8becab1bf76a9ce3d2d5fa946f65ec1d3e83'
+    platform: ARB
+  - address: '0x64d3CAe387405d91f7b0D91fb1D824A281719500'
+    platform: ETH
+  - address: '0xc4d44c155f95FD4E94600d191a4a01bb571dF7DF'
+    platform: TBA
+crypto: true
+fiat: false
+id: GS
+id_coinmarketcap: '38233'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38233.png
+logoKey: currencies/gs.png
+name: GammaSwap

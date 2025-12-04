@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x34375f826fd3dd4e15f883d4f4786bb45eb705ac'
+    platform: BNB
+  - address: '0x0c8276E4FeC072cf7854Be69c70F7773D1610857'
+    platform: ETH
+crypto: true
+fiat: false
+id: COSTON
+id_coinmarketcap: '38019'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38019.png
+logoKey: currencies/coston.png
+name: Costco Tokenized Stock (Ondo)

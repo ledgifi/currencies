@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x0f0df6cb17ee5e883eddfef9153fc6036bdb4e37'
+    platform: BNB
+crypto: true
+fiat: false
+id: BAS
+id_coinmarketcap: '37387'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37387.png
+logoKey: currencies/bas.png
+name: BNB Attestation Service

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xca7661ba64a7667e3006c421c181502d545d1911'
+    platform: BNB
+  - address: '0xc1514df9178f123A0EaFA3Cc206D7891E9215d6F'
+    platform: ZEDX
+crypto: true
+fiat: false
+id: BXC2
+id_coinmarketcap: '5168'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5168.png
+logoKey: currencies/bxc2.png
+name: Bitcoin Classic (ARAW)

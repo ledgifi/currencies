@@ -1,0 +1,18 @@
+contracts:
+  - address: '0x03569CC076654F82679C4BA2124D64774781B01D'
+    platform: ARB
+  - address: '0x6440f144b7e50d6a8439336510312d2f54beb01d'
+    platform: ETH
+  - address: '0x84533b1512A3A23F0c9668D88FDf86FEffdbb11A'
+    platform: HYPE
+  - address: '0x03569CC076654F82679C4BA2124D64774781B01D'
+    platform: OP
+  - address: '0x03569CC076654F82679C4BA2124D64774781B01D'
+    platform: TBA
+crypto: true
+fiat: false
+id: BOLD
+id_coinmarketcap: '38407'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38407.png
+logoKey: currencies/bold.png
+name: Liquity BOLD

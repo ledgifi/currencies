@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xB2D97C4ed2d0Ef452654F5CAB3da3735B5e6F3ab'
+    platform: BNB
+  - address: 8f62NyJGo7He5uWeveTA2JJQf4xzf8aqxkmzxRQ3mxfU
+    platform: SOL
+crypto: true
+fiat: false
+id: $FIGHT
+id_coinmarketcap: '38963'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38963.png
+logoKey: currencies/$fight.png
+name: FIGHT

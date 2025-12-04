@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x60a8f8e05200ff73afde9e2cae819bf1605f0bdd'
+    platform: BNB
+  - address: '0x2816169A49953C548BfEb3948dCF05c4A0E4657D'
+    platform: ETH
+crypto: true
+fiat: false
+id: MELION
+id_coinmarketcap: '38097'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38097.png
+logoKey: currencies/melion.png
+name: MercadoLibre Tokenized Stock (Ondo)

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x9f16e46c73b43bdb70861247d537bee4ea18f639'
+    platform: BNB
+  - address: '0x0C1f3412A44Ff99E40bF14e06e5Ea321aE7B3938'
+    platform: ETH
+crypto: true
+fiat: false
+id: AMDON
+id_coinmarketcap: '38027'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38027.png
+logoKey: currencies/amdon.png
+name: AMD Tokenized Stock (Ondo)

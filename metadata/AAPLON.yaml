@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x390a684ef9cade28a7ad0dfa61ab1eb3842618c4'
+    platform: BNB
+  - address: '0x14c3abF95Cb9C93a8b82C1CdCB76D72Cb87b2d4c'
+    platform: ETH
+crypto: true
+fiat: false
+id: AAPLON
+id_coinmarketcap: '38037'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38037.png
+logoKey: currencies/aaplon.png
+name: Apple Tokenized Stock (Ondo)

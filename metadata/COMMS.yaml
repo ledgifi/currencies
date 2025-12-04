@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x809b05ff167c7d70425951753bc0eb0fcc8e491f'
+    platform: ETH
+crypto: true
+fiat: false
+id: COMMS
+id_coinmarketcap: '37493'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37493.png
+logoKey: currencies/comms.png
+name: CallofMeme

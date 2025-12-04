@@ -1,0 +1,10 @@
+contracts:
+  - address: betdicetoken
+    platform: A
+crypto: true
+fiat: false
+id: DICE2
+id_coinmarketcap: '6219'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/6219.png
+logoKey: currencies/dice2.png
+name: Dice

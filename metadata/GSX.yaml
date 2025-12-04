@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x3Ee7E9B3A992fD23CD1C363B0e296856B04ab149'
+    platform: ARB
+  - address: '0x3ee7e9b3a992fd23cd1c363b0e296856b04ab149'
+    platform: BNB
+  - address: XsgaUyp4jd1fNBCxgtTKkW64xnnhQcvgaxzsbAq5ZD1
+    platform: SOL
+crypto: true
+fiat: false
+id: GSX
+id_coinmarketcap: '37025'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37025.png
+logoKey: currencies/gsx.png
+name: Goldman Sachs tokenized stock (xStock)

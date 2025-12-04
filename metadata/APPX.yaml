@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x50a1291F69D9d3853Def8209cFb1AF0b46927BE1'
+    platform: ARB
+  - address: '0x50a1291f69d9d3853def8209cfb1af0b46927be1'
+    platform: BNB
+  - address: XsPdAVBi8Zc1xvv53k4JcMrQaEDTgkGqKYeh7AYgPHV
+    platform: SOL
+crypto: true
+fiat: false
+id: APPX
+id_coinmarketcap: '37017'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37017.png
+logoKey: currencies/appx.png
+name: AppLovin tokenized stock (xStock)

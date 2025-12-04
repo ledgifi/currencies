@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xc845b2894dbddd03858fd2d643b4ef725fe0849d'
+    platform: BNB
+  - address: Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh
+    platform: SOL
+crypto: true
+fiat: false
+id: NVDAX
+id_coinmarketcap: '36992'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36992.png
+logoKey: currencies/nvdax.png
+name: NVIDIA tokenized stock (xStock)

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x1b379a79c91a540b2bcd612b4d713f31de1b80cc'
+    platform: BNB
+  - address: '0x1b379A79c91a540b2bcd612b4d713f31De1b80cc'
+    platform: ETH
+crypto: true
+fiat: false
+id: NAORIS
+id_coinmarketcap: '35114'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35114.png
+logoKey: currencies/naoris.png
+name: Naoris Protocol

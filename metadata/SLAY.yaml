@@ -1,0 +1,18 @@
+contracts:
+  - address: '0xfC5a743271672E91D77F0176e5CEa581Fbd5D834'
+    platform: BNB
+  - address: '0x51477A3002ee04B7542aDfe63ccdb50c00Ee5147'
+    platform: ETH
+  - address: '0xf9dadbe873e83783630c7089320f361a'
+    platform: HYPE
+  - address: '0x9efdfc72c1bc90b36f8aae35247e62310c58eacf'
+    platform: HYPE
+  - address: '0x3e248ab4554cFdec8fc4f18F569FE6F46dE61DB1'
+    platform: TBA
+crypto: true
+fiat: false
+id: SLAY
+id_coinmarketcap: '36020'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36020.png
+logoKey: currencies/slay.png
+name: SatLayer

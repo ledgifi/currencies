@@ -1,0 +1,10 @@
+contracts:
+  - address: ibc/0C39BD03B5C57A1753A9B73164705871A9B549F1A5226CFD7E39BE7BF73CF8CF
+    platform: OSMO
+crypto: true
+fiat: false
+id: USDN2
+id_coinmarketcap: '36538'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36538.png
+logoKey: currencies/usdn2.png
+name: Noble Dollar

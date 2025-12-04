@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x36c424a6ec0e264b1616102ad63ed2ad7857413e'
+    platform: ARB
+  - address: '0x36c424a6ec0e264b1616102ad63ed2ad7857413e'
+    platform: BNB
+  - address: Xsv99frTRUeornyvCfvhnDesQDWuvns1M852Pez91vF
+    platform: SOL
+crypto: true
+fiat: false
+id: PEPX
+id_coinmarketcap: '37064'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37064.png
+logoKey: currencies/pepx.png
+name: PepsiCo tokenized stock (xStock)

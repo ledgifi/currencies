@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x615987d46003CC37387dBe544FF4F16FA1200077'
+    platform: ETH
+  - address: GXUisEapYfHJe8oFoWSPPyiLSLYT6Em9iEeXTFxUHyUA
+    platform: SOL
+crypto: true
+fiat: false
+id: NSDQ
+id_coinmarketcap: '33408'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33408.png
+logoKey: currencies/nsdq.png
+name: NSDQ420

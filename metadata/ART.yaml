@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x4DEC3139f4A6c638E26452d32181fe87A7530805'
+    platform: '-'
+  - address: '0x4DEC3139f4A6c638E26452d32181fe87A7530805'
+    platform: BNB
+  - address: '0x4DEC3139f4A6c638E26452d32181fe87A7530805'
+    platform: TBA
+crypto: true
+fiat: false
+id: ART
+id_coinmarketcap: '38336'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38336.png
+logoKey: currencies/art.png
+name: LiveArt

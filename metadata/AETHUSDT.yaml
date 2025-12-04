@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x23878914EFE38d27C4D67Ab83ed1b93A74D4086a'
+    platform: ETH
+crypto: true
+fiat: false
+id: AETHUSDT
+id_coinmarketcap: '36457'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36457.png
+logoKey: currencies/aethusdt.png
+name: Aave Ethereum USDT

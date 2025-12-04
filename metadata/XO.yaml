@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x90f9eb95f62d31fbe2179313547e360db86d88d2399103a94286291b63f469ba::xo::XO
+    platform: SUI
+crypto: true
+fiat: false
+id: XO
+id_coinmarketcap: '36953'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36953.png
+logoKey: currencies/xo.png
+name: XOCIETY

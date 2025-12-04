@@ -1,0 +1,16 @@
+contracts:
+  - address: '0x9fd22a17b4a96da3f83797d122172c450381fb88'
+    platform: ETH
+  - address: '0x9fd22a17b4a96da3f83797d122172c450381fb88'
+    platform: OP
+  - address: '0x70e7f1d907E30efb18FE1DD8A1d75c09A98177d3'
+    platform: S
+  - address: MXKCMQiyUWgN7cEvQL4pQ8A2oLEvjkH1Tnm3BVQJEFE
+    platform: SOL
+crypto: true
+fiat: false
+id: JEFE1
+id_coinmarketcap: '16800'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16800.png
+logoKey: currencies/jefe1.png
+name: JEFE TOKEN

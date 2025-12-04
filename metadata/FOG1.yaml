@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x33277c3ff3642c80a9d63daacecff87f1ce8d3e9'
+    platform: ETH
+crypto: true
+fiat: false
+id: FOG1
+id_coinmarketcap: '28043'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28043.png
+logoKey: currencies/fog1.png
+name: FOGNET

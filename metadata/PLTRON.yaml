@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x9351abd19f42101dd36025e495b98e910b255d78'
+    platform: BNB
+  - address: '0x0c666485b02F7A87d21AdD7AEb9F5e64975AA490'
+    platform: ETH
+crypto: true
+fiat: false
+id: PLTRON
+id_coinmarketcap: '38073'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38073.png
+logoKey: currencies/pltron.png
+name: Palantir Technologies Tokenized Stock (Ondo)

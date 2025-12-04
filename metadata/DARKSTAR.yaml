@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xb05f4747eb3d18a3fa4aa3e5c627f02ccc70d005'
+    platform: BNB
+  - address: '0x06053d778ea9200605bd3bcec374368fbcc0e3d6'
+    platform: KAIA
+crypto: true
+fiat: false
+id: DARKSTAR
+id_coinmarketcap: '37566'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37566.png
+logoKey: currencies/darkstar.png
+name: DarkStar

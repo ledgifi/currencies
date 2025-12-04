@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x995add4ba29a628a57930a8a185c62ca044ec090'
+    platform: BNB
+  - address: '0x4C82c8cD9a218612DCe60b156B73A36705645e3b'
+    platform: ETH
+crypto: true
+fiat: false
+id: MCDON
+id_coinmarketcap: '38049'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38049.png
+logoKey: currencies/mcdon.png
+name: McDonald's Tokenized Stock (Ondo)

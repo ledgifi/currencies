@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xdfeb13936a8975f9f788e73fb93861ce461541f9'
+    platform: BNB
+  - address: '0xebddb124ada952ad80fcc4dc6fe4ef0f45e2e8e8'
+    platform: ETH
+crypto: true
+fiat: false
+id: XNL1
+id_coinmarketcap: '35245'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35245.png
+logoKey: currencies/xnl1.png
+name: Novastro

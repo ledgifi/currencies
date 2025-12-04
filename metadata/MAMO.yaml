@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x7300B37DfdfAb110d83290A29DfB31B1740219fE'
+    platform: '-'
+  - address: '0x7300B37DfdfAb110d83290A29DfB31B1740219fE'
+    platform: TBA
+crypto: true
+fiat: false
+id: MAMO
+id_coinmarketcap: '36601'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36601.png
+logoKey: currencies/mamo.png
+name: Mamo

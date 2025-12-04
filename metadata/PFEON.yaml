@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x8a83c31d6751833b4940b6e871c48d9a15a07b46'
+    platform: BNB
+  - address: '0x06954faa913fA14c28Eb1b2e459594F22f33f3dE'
+    platform: ETH
+crypto: true
+fiat: false
+id: PFEON
+id_coinmarketcap: '38000'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38000.png
+logoKey: currencies/pfeon.png
+name: Pfizer Tokenized Stock (Ondo)

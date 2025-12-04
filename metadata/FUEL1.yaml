@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x5c8daEabc57E9249606D3bD6d1E097eF492eA3C5'
+    platform: BNB
+  - address: '0x675B68AA4d9c2d3BB3F0397048e62E6B7192079c'
+    platform: ETH
+  - address: '0x1d5d97005e41cae2187a895fd8eab0506111e0e2f3331cd3912c15c24e3c1d82'
+    platform: FUEL
+crypto: true
+fiat: false
+id: FUEL1
+id_coinmarketcap: '24087'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24087.png
+logoKey: currencies/fuel1.png
+name: Fuel Network

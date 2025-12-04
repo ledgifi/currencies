@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xc1753be9d4a7a9f7cade1cd010cb6c3b09e043fa'
+    platform: ARB
+crypto: true
+fiat: false
+id: O1
+id_coinmarketcap: '37067'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37067.png
+logoKey: currencies/o1.png
+name: OpenAI tokenized stock (Robinhood)

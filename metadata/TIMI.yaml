@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xAaFe1f781bC5e4D240c4B73f6748d76079678Fa8'
+    platform: BNB
+  - address: '0x4a1EA452c598363188bcCC83FB4f69Dc14b54Acd'
+    platform: SEI
+crypto: true
+fiat: false
+id: TIMI
+id_coinmarketcap: '38905'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38905.png
+logoKey: currencies/timi.png
+name: MetaArena

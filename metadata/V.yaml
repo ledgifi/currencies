@@ -1,0 +1,10 @@
+contracts:
+  - address: token.rms
+    platform: A
+crypto: true
+fiat: false
+id: V
+id_coinmarketcap: '38113'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38113.png
+logoKey: currencies/v.png
+name: VaultRAM

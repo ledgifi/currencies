@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x1986Cc18D8eC757447254310D2604f85741aA732'
+    platform: '-'
+  - address: '0x1986Cc18D8eC757447254310D2604f85741aA732'
+    platform: TBA
+crypto: true
+fiat: false
+id: REWARD
+id_coinmarketcap: '34365'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34365.png
+logoKey: currencies/reward.png
+name: Rewardable

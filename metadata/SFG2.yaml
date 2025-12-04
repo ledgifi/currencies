@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xa71dcaaf5ba390b1b2012323a8810fac121f90dd'
+    platform: BNB
+  - address: '0xA71DCaaf5ba390B1B2012323A8810fAc121F90dd'
+    platform: ETH
+crypto: true
+fiat: false
+id: SFG2
+id_coinmarketcap: '24195'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24195.png
+logoKey: currencies/sfg2.png
+name: SafeGrow

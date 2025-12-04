@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x7048f5227b032326cc8dbc53cf3fddd947a2c757'
+    platform: BNB
+  - address: '0x032deC3372F25C41EA8054B4987a7c4832CDB338'
+    platform: ETH
+crypto: true
+fiat: false
+id: NFLXON
+id_coinmarketcap: '38032'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38032.png
+logoKey: currencies/nflxon.png
+name: Netflix Tokenized Stock (Ondo)

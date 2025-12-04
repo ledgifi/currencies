@@ -1,0 +1,16 @@
+contracts:
+  - address: '0x20482b0b4d9d8f60d3ab432b92f4c4b901a0d10c'
+    platform: BNB
+  - address: '0xdd3B11eF34cd511a2DA159034a05fcb94D806686'
+    platform: ETH
+  - address: vQoYWru2pbUdcVkUrRH74ktQDJgVjRcDvsoDbUzM5n9
+    platform: SOL
+  - address: '0xb3e3c89b8d9c88b1fe96856e382959ee6291ebba'
+    platform: TBA
+crypto: true
+fiat: false
+id: REKT
+id_coinmarketcap: '34434'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34434.png
+logoKey: currencies/rekt.png
+name: Rekt (rekt.com)

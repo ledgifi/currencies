@@ -1,0 +1,16 @@
+contracts:
+  - address: '0xea17df5cf6d172224892b5477a16acb111182478'
+    platform: BNB
+  - address: '0xea17df5cf6d172224892b5477a16acb111182478'
+    platform: ETH
+  - address: DuMbhu7mvQvqQHGcnikDgb4XegXJRyhUBfdU22uELiZA
+    platform: SOL
+  - address: '0xea17df5cf6d172224892b5477a16acb111182478'
+    platform: TBA
+crypto: true
+fiat: false
+id: ELIZAOS
+id_coinmarketcap: '38888'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38888.png
+logoKey: currencies/elizaos.png
+name: elizaOS

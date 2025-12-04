@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x6519cb1f694ccbcc72417570b364f2d051eefb9d'
+    platform: BNB
+  - address: '0xa74Ee74152DcA467DbaA3915445164496f361744'
+    platform: ETH
+  - address: '0xc157ee77518769b8009642F68A8d6A500ff59d53'
+    platform: POL
+crypto: true
+fiat: false
+id: NLC1
+id_coinmarketcap: '1382'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1382.png
+logoKey: currencies/nlc1.png
+name: NoLimitCoin

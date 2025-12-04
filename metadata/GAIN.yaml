@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xa890F8BA60051ec8a5B528F056DA362Ba208a96F'
+    platform: BNB
+  - address: '0xe0Ff1B0584d63Cb74A78537f1fe0d17564e741D4'
+    platform: ETH
+crypto: true
+fiat: false
+id: GAIN
+id_coinmarketcap: '38476'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38476.png
+logoKey: currencies/gain.png
+name: Griffin AI

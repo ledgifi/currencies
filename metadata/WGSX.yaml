@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x6eed78e2780d82be4e37d9937c27bcf32c8da072'
+    platform: ARB
+crypto: true
+fiat: false
+id: WGSX
+id_coinmarketcap: '37197'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37197.png
+logoKey: currencies/wgsx.png
+name: Wrapped Goldman Sachs Tokenized stock (xStock)

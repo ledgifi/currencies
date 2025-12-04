@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x5651fa7a726b9ec0cad00ee140179912b6e73599'
+    platform: BNB
+  - address: '0x5651fa7a726b9ec0cad00ee140179912b6e73599'
+    platform: ETH
+crypto: true
+fiat: false
+id: OORT
+id_coinmarketcap: '29331'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29331.png
+logoKey: currencies/oort.png
+name: OORT

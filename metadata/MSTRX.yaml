@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xae2f842ef90c0d5213259ab82639d5bbf649b08e'
+    platform: ARB
+  - address: '0xae2f842ef90c0d5213259ab82639d5bbf649b08e'
+    platform: BNB
+  - address: XsP7xzNPvEHS1m6qfanPUGjNmdnmsLKEoNAnHjdxxyZ
+    platform: SOL
+crypto: true
+fiat: false
+id: MSTRX
+id_coinmarketcap: '37003'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37003.png
+logoKey: currencies/mstrx.png
+name: MicroStrategy tokenized stock (xStock)

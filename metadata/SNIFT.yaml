@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x5c4625ac040486ce7a9054924b8cd3e4ba8480a6'
+    platform: BNB
+crypto: true
+fiat: false
+id: SNIFT
+id_coinmarketcap: '12830'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12830.png
+logoKey: currencies/snift.png
+name: StarryNift

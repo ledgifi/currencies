@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xd17e483364d849e3b3a52464bb2ca56626edfc31'
+    platform: ARB
+crypto: true
+fiat: false
+id: WAPPX
+id_coinmarketcap: '37113'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37113.png
+logoKey: currencies/wappx.png
+name: Wrapped AppLovin Tokenized stock (xStock)

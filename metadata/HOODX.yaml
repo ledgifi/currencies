@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xE1385FDd5ffB10081Cd52C56584F25EFa9084015'
+    platform: ARB
+  - address: '0xe1385fdd5ffb10081cd52c56584f25efa9084015'
+    platform: BNB
+  - address: XsvNBAYkrDRNhA7wPHQfX3ZUXZyZLdnCQDfHZ56bzpg
+    platform: SOL
+crypto: true
+fiat: false
+id: HOODX
+id_coinmarketcap: '37041'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37041.png
+logoKey: currencies/hoodx.png
+name: Robinhood tokenized stock (xStock)

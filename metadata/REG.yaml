@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x0aa1e96d2a46ec6beb2923de1e61addf5f5f1dce'
+    platform: ETH
+  - address: '0x0aa1e96d2a46ec6beb2923de1e61addf5f5f1dce'
+    platform: GNO
+  - address: '0x0aa1e96d2a46ec6beb2923de1e61addf5f5f1dce'
+    platform: POL
+crypto: true
+fiat: false
+id: REG
+id_coinmarketcap: '37069'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37069.png
+logoKey: currencies/reg.png
+name: RealToken Ecosystem Governance

@@ -1,0 +1,10 @@
+contracts:
+  - address: susdabGDNbhrnCa6ncrYo81u4s9GM8ecK2UwMyZiq4X
+    platform: SOL
+crypto: true
+fiat: false
+id: SUSD1
+id_coinmarketcap: '36258'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36258.png
+logoKey: currencies/susd1.png
+name: Solayer USD

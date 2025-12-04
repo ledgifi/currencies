@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x10ee9f68ee4e4d311e854ae14c53f5b25a917f85'
+    platform: ETH
+crypto: true
+fiat: false
+id: MHRD
+id_coinmarketcap: '38184'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38184.png
+logoKey: currencies/mhrd.png
+name: MacroHard

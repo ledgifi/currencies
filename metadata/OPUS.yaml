@@ -1,0 +1,12 @@
+contracts:
+  - address: 9JhFqCA21MoAXs2PTaeqNQp2XngPn1PgYr2rsEVCpump
+    platform: SOL
+  - address: '0xFe0E104477431129d215d3992Af7F1D5961FfC50'
+    platform: TBA
+crypto: true
+fiat: false
+id: OPUS
+id_coinmarketcap: '35052'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35052.png
+logoKey: currencies/opus.png
+name: Opus

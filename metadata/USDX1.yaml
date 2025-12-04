@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x55b0faf9818074716f622453abc296839d559120'
+    platform: BNB
+  - address: '0x40750bb210562e2ad987d9dfaec9688e88749a07'
+    platform: ETH
+  - address: TSWZX9hL5tW1sCYvVAQFAhoEokyuPcsDVS
+    platform: TRX
+crypto: true
+fiat: false
+id: USDX1
+id_coinmarketcap: '36486'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36486.png
+logoKey: currencies/usdx1.png
+name: USD X20

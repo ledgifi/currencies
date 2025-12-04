@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x6DF0E641FC9847c0c6Fde39bE6253045440c14d3'
+    platform: ETH
+crypto: true
+fiat: false
+id: DINERO1
+id_coinmarketcap: '32492'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32492.png
+logoKey: currencies/dinero1.png
+name: Dinero

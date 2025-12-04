@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xd803f8777187d6dee1ea57854aeb957043fb1675'
+    platform: BNB
+  - address: '0x2Bc7Ff0C5dA9F1a4A51F96e77C5b0F7165DC06d2'
+    platform: ETH
+crypto: true
+fiat: false
+id: AXPON
+id_coinmarketcap: '38077'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38077.png
+logoKey: currencies/axpon.png
+name: American Express Tokenized Stock (Ondo)

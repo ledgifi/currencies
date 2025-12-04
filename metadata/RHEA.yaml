@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x4c067DE26475E1CeFee8b8d1f6E2266b33a2372E'
+    platform: BNB
+  - address: token.rhealab.near
+    platform: NEAR
+crypto: true
+fiat: false
+id: RHEA
+id_coinmarketcap: '37529'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37529.png
+logoKey: currencies/rhea.png
+name: RHEA Finance

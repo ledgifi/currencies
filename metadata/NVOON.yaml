@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x08a513779f46ffb7a34f16094a94016d010128a8'
+    platform: BNB
+  - address: '0x28151F5888833D3d767C4d6945a0Ee50D1B193E3'
+    platform: ETH
+crypto: true
+fiat: false
+id: NVOON
+id_coinmarketcap: '38002'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38002.png
+logoKey: currencies/nvoon.png
+name: Novo Nordisk Tokenized Stock (Ondo)

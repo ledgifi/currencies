@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xe8Db8733c5baDF634F86D6EF894fFdBF0e85B7c2'
+    platform: BNB
+  - address: '0x0566C506477cD2d8dF4e0123512dBc344bD9D111'
+    platform: POL
+  - address: 8Up6R3g6qdpsApu8DUCtajSAWANxSty2eQmSjCSGSHH6
+    platform: SOL
+crypto: true
+fiat: false
+id: MLC
+id_coinmarketcap: '32035'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32035.png
+logoKey: currencies/mlc.png
+name: My Lovely Planet

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x0c808f0464c423d5ea4f4454fcc23b6e2ae75562'
+    platform: BNB
+  - address: '0xAa9806c938836627Ed1a41Ae871c7E1889AE02Ca'
+    platform: ETH
+crypto: true
+fiat: false
+id: EDGEN
+id_coinmarketcap: '36499'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36499.png
+logoKey: currencies/edgen.png
+name: LayerEdge

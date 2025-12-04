@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x4e107a0000DB66f0E9Fd2039288Bf811dD1f9c74'
+    platform: ETH
+  - address: '0x4e107a0000DB66f0E9Fd2039288Bf811dD1f9c74'
+    platform: OP
+  - address: '0x4e107a0000DB66f0E9Fd2039288Bf811dD1f9c74'
+    platform: TBA
+crypto: true
+fiat: false
+id: VLR
+id_coinmarketcap: '36629'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36629.png
+logoKey: currencies/vlr.png
+name: Velora

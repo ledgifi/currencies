@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x99e01f02d66455bb106d91d469c9eaf6ab4904f6'
+    platform: BNB
+  - address: '0xfDb46864A7C476F0914c5E82CdED3364a9F56F8a'
+    platform: ETH
+crypto: true
+fiat: false
+id: SBETON
+id_coinmarketcap: '38087'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38087.png
+logoKey: currencies/sbeton.png
+name: SharpLink Gaming, Inc Tokenized Stock (Ondo)

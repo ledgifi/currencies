@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x395215aae81c5d266dca89ce82b5940f7f5c193e'
+    platform: FTM
+  - address: '0xBC0d0650412EF353D672c0Bbd12eFFF90591B251'
+    platform: S
+crypto: true
+fiat: false
+id: FS
+id_coinmarketcap: '13237'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/13237.png
+logoKey: currencies/fs.png
+name: FutureStarter

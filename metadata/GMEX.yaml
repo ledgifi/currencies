@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xE5f6d3b2405ABdfE6F660e63202B25D23763160d'
+    platform: ARB
+  - address: '0xe5f6d3b2405abdfe6f660e63202b25d23763160d'
+    platform: BNB
+  - address: Xsf9mBktVB9BSU5kf4nHxPq5hCBJ2j2ui3ecFGxPRGc
+    platform: SOL
+crypto: true
+fiat: false
+id: GMEX
+id_coinmarketcap: '37023'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37023.png
+logoKey: currencies/gmex.png
+name: Gamestop tokenized stock (xStock)

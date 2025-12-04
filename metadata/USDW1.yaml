@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xAbdDb950F2ae8430c5a818f8bb4eC09E3AE41253'
+    platform: BNB
+  - address: '0x60f7dD499956Ec8FCEA8ED80e9D7EaDe4ccdC417'
+    platform: POL
+crypto: true
+fiat: false
+id: USDW1
+id_coinmarketcap: '35231'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35231.png
+logoKey: currencies/usdw1.png
+name: USD DWIN

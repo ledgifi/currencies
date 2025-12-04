@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x5621737f42dae558b81269fcb9e9e70c19aa6b35'
+    platform: ARB
+  - address: '0x5621737f42dae558b81269fcb9e9e70c19aa6b35'
+    platform: BNB
+  - address: XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX
+    platform: SOL
+crypto: true
+fiat: false
+id: MSFTX
+id_coinmarketcap: '37056'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37056.png
+logoKey: currencies/msftx.png
+name: Microsoft tokenized stock (xStock)

@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x8deb752aaa807e0258afd5ccffe2b5a804026f28'
+    platform: ARB
+crypto: true
+fiat: false
+id: WAVGOX
+id_coinmarketcap: '37129'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37129.png
+logoKey: currencies/wavgox.png
+name: Wrapped Broadcom Tokenized stock (xStock)

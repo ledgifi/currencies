@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x2380F2673C640fB67E2d6B55B44C62F0E0e69DA9'
+    platform: ARB
+  - address: '0x2380f2673c640fb67e2d6b55b44c62f0e0e69da9'
+    platform: BNB
+  - address: Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re
+    platform: SOL
+crypto: true
+fiat: false
+id: GLDX
+id_coinmarketcap: '37024'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37024.png
+logoKey: currencies/gldx.png
+name: Gold tokenized ETF (xStock)

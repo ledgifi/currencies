@@ -1,0 +1,10 @@
+contracts:
+  - address: 0xd550289ab12caaad74cd2213f242adf5507afe0fa876578c0dca753bf5409bac::squirt::SQUIRT
+    platform: SUI
+crypto: true
+fiat: false
+id: SQUIRT
+id_coinmarketcap: '36452'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36452.png
+logoKey: currencies/squirt.png
+name: SQUIRTLE

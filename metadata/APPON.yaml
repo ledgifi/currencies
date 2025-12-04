@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xedb3124e96c64c177eb709cbc64f9977db40ea74'
+    platform: BNB
+  - address: '0xd5C5B2883735Fa9B658Dd52e2FCC8d7c0f1A42Ce'
+    platform: ETH
+crypto: true
+fiat: false
+id: APPON
+id_coinmarketcap: '38016'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38016.png
+logoKey: currencies/appon.png
+name: AppLovin Tokenized Stock (Ondo)

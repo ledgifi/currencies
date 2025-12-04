@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xD85a68faa78b4431DCe816C157B66FC9911B3612'
+    platform: ETH
+  - address: 42py4U4kUcxUsj2AYAbPuu9ottwYM2Y9P8jo3fHiNF42
+    platform: SOL
+crypto: true
+fiat: false
+id: INF1
+id_coinmarketcap: '36314'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36314.png
+logoKey: currencies/inf1.png
+name: Infinaeon

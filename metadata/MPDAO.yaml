@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x798bcB35D2d48C8cE7eF8171860B8d53A98b361d'
+    platform: ETH
+  - address: mpdao-token.near
+    platform: NEAR
+crypto: true
+fiat: false
+id: MPDAO
+id_coinmarketcap: '38103'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38103.png
+logoKey: currencies/mpdao.png
+name: Meta Pool

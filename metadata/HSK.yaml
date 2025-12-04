@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xE7C6BF469e97eEB0bFB74C8dbFF5BD47D4C1C98a'
+    platform: ETH
+  - address: '0xB210D2120d57b758EE163cFfb43e73728c471Cf1'
+    platform: HSK
+crypto: true
+fiat: false
+id: HSK
+id_coinmarketcap: '33849'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33849.png
+logoKey: currencies/hsk.png
+name: HashKey Platform Token

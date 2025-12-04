@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x7ABE9Edf5C544A04dA83e9110CF46DBC4759170c'
+    platform: POL
+  - address: '0x35e0966208f518371e79cc9fd35559112068ddad'
+    platform: TBA
+crypto: true
+fiat: false
+id: WPAY
+id_coinmarketcap: '33392'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33392.png
+logoKey: currencies/wpay.png
+name: WPAY

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xc00db6b41473d065027f5ed6fada20fde75f142e'
+    platform: ETH
+  - address: '0x370923d39f139c64813f173a1bf0b4f9ba36a24f'
+    platform: TBA
+crypto: true
+fiat: false
+id: KRWQ
+id_coinmarketcap: '38807'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38807.png
+logoKey: currencies/krwq.png
+name: KRWQ

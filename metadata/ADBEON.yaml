@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xcb22db0ecb6fe58b7b47db443dcfdfdfbf729cef'
+    platform: BNB
+  - address: '0x7042a8fFc7c7049684BfBc2fcb41b72380755a43'
+    platform: ETH
+crypto: true
+fiat: false
+id: ADBEON
+id_coinmarketcap: '38024'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38024.png
+logoKey: currencies/adbeon.png
+name: Adobe Tokenized Stock (Ondo)

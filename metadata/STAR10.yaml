@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x8b9abdd229ec0c4a28e01b91aacdc5daafc25c2b'
+    platform: BNB
+  - address: 8hCYPHGC73UxC7gqLDMBHQvgVmtQ6fryCq49tJMCP55D
+    platform: SOL
+crypto: true
+fiat: false
+id: STAR10
+id_coinmarketcap: '35920'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35920.png
+logoKey: currencies/star10.png
+name: Ronaldinho Coin

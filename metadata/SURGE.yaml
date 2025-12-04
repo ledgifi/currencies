@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x74Ac77D7CA54c38EB5ea2e638a80A5182558d3a2'
+    platform: BNB
+  - address: 3z2tRjNuQjoq6UDcw4zyEPD1Eb5KXMPYb4GWFzVT1DPg
+    platform: SOL
+  - address: '0xedB6970B7BE5A522cFf14c8b679a2D813FF97b4D'
+    platform: TBA
+crypto: true
+fiat: false
+id: SURGE
+id_coinmarketcap: '38941'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38941.png
+logoKey: currencies/surge.png
+name: Surge

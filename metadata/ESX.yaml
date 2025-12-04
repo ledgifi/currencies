@@ -1,0 +1,12 @@
+contracts:
+  - address: 28G7z3VyHDFNhrnvSTf1GssKoGrtCrdiguASQy2BsHiF
+    platform: SOL
+  - address: '0x6a72d3A87f97a0fEE2c2ee4233BdAEBc32813D7a'
+    platform: TBA
+crypto: true
+fiat: false
+id: ESX
+id_coinmarketcap: '30734'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30734.png
+logoKey: currencies/esx.png
+name: EstateX

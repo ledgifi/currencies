@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xB523FfeE21E1a864F45c23c39d81bE91dcFD60d6'
+    platform: BNB
+crypto: true
+fiat: false
+id: BNBPRINTER
+id_coinmarketcap: '35803'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35803.png
+logoKey: currencies/bnbprinter.png
+name: BNBPrinter

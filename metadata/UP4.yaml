@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x87dfe1248a1dc4ce473bd9cb2937d66cdc6c30fee63f3fe0dbb55c7a09d35dec::up::UP
+    platform: SUI
+crypto: true
+fiat: false
+id: UP4
+id_coinmarketcap: '38511'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38511.png
+logoKey: currencies/up4.png
+name: DoubleUp

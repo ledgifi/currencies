@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xb528a9DB27A74dB802C74D0CCc40657efE5F0A45'
+    platform: PLS
+  - address: '0xDE0540B4359D74aF32e6BE86E4F8C9b14FBA2EE3'
+    platform: TBA
+crypto: true
+fiat: false
+id: SAVVA
+id_coinmarketcap: '36597'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36597.png
+logoKey: currencies/savva.png
+name: SAVVA

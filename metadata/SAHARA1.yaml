@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xFDFFF924C413A228C9fC62b1978Ed8f755d81111'
+    platform: '-'
+  - address: '0xFDFFF924C413A228C9fC62b1978Ed8f755d81111'
+    platform: ETH
+  - address: '0xFDFFF924C413A228C9fC62b1978Ed8f755d81111'
+    platform: TBA
+crypto: true
+fiat: false
+id: SAHARA1
+id_coinmarketcap: '36972'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36972.png
+logoKey: currencies/sahara1.png
+name: Sahara AI Coin

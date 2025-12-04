@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x110Ac02Ba3384Bc055c13A87766049a74517BedA'
+    platform: APTM
+crypto: true
+fiat: false
+id: WAPTM
+id_coinmarketcap: '36838'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36838.png
+logoKey: currencies/waptm.png
+name: Wrapped Apertum

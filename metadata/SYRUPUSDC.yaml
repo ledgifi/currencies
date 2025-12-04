@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x41ca7586cc1311807b4605fbb748a3b8862b42b5'
+    platform: ARB
+  - address: '0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b'
+    platform: ETH
+  - address: AvZZF1YaZDziPY2RCK4oJrRVrbN3mTD9NL24hPeaZeUj
+    platform: SOL
+crypto: true
+fiat: false
+id: SYRUPUSDC
+id_coinmarketcap: '38779'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38779.png
+logoKey: currencies/syrupusdc.png
+name: syrupUSDC

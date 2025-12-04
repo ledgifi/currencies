@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xDeFB958286C41bf580dFdeabE2C444d5B14Dd005'
+    platform: BNB
+  - address: '0x97c8603a02e0adbf1e37c76cff190bdb7dac5cea'
+    platform: ETH
+  - address: 5YYWnA9sfJ6RrjKsMFFVqGCzdmpht4BMxF3o2cHRwoce
+    platform: SOL
+crypto: true
+fiat: false
+id: CPLX
+id_coinmarketcap: '36845'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36845.png
+logoKey: currencies/cplx.png
+name: Coinplex

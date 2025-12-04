@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xbd33da1f9a0cc70224e9a71c80baa92fd0eb82d0'
+    platform: ETH
+  - address: '0xbd33da1f9a0cc70224e9a71c80baa92fd0eb82d0'
+    platform: POL
+  - address: '0xbd33da1f9a0cc70224e9a71c80baa92fd0eb82d0'
+    platform: TBA
+crypto: true
+fiat: false
+id: BRM
+id_coinmarketcap: '37762'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37762.png
+logoKey: currencies/brm.png
+name: BullRun Meme

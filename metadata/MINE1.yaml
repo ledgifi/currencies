@@ -1,0 +1,14 @@
+contracts:
+  - address: MINEMINEMINE
+    platform: BTC
+  - address: mineminemine.tkn.primitives.near
+    platform: NEAR
+  - address: M1NEtUMtvTcZ5K8Ym6fY4DZLdKtBFeh8qWWpsPZiu5S
+    platform: SOL
+crypto: true
+fiat: false
+id: MINE1
+id_coinmarketcap: '31600'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31600.png
+logoKey: currencies/mine1.png
+name: RuneMine

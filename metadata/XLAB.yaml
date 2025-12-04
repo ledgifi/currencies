@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x5ba9bfffb868859064c33d4f995a0828b2b1d2d3'
+    platform: BNB
+  - address: XLnpFRQ3rSWupCRjuQfx74mgVoT3ezVJKE1CogRZxhH
+    platform: SOL
+crypto: true
+fiat: false
+id: XLAB
+id_coinmarketcap: '38212'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38212.png
+logoKey: currencies/xlab.png
+name: Dexlab

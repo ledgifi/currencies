@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x091fc7778e6932d4009b087b191d1ee3bac5729a'
+    platform: BNB
+  - address: '0xbA47214eDd2bb43099611b208f75E4b42FDcfEDc'
+    platform: ETH
+crypto: true
+fiat: false
+id: GOOGLON
+id_coinmarketcap: '38001'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38001.png
+logoKey: currencies/googlon.png
+name: Alphabet Class A Tokenized Stock (Ondo)

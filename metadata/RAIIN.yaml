@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x481fe356df88169f5f38203dd7f3c67b7559fda5'
+    platform: SEI
+  - address: '0x60A5AA13d4c3046Cf75e05ee1D5cE59025Be000C'
+    platform: TBA
+crypto: true
+fiat: false
+id: RAIIN
+id_coinmarketcap: '15884'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15884.png
+logoKey: currencies/raiin.png
+name: Raiinmaker

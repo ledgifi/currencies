@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x44f161ae29361e332dea039dfa2f404e0bc5b5cc'
+    platform: BNB
+  - address: '0xcf5104D094e3864CfCBDa43B82e1cEFD26A016eB'
+    platform: ETH
+crypto: true
+fiat: false
+id: H
+id_coinmarketcap: '36922'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36922.png
+logoKey: currencies/h.png
+name: Humanity Protocol

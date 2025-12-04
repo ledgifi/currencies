@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xE0Cd4cAcDdcBF4f36e845407CE53E87717b6601d'
+    platform: '-'
+  - address: '0xe5e0b73380181273abCfD88695F52C4D0C825661'
+    platform: ETH
+  - address: '0xE0Cd4cAcDdcBF4f36e845407CE53E87717b6601d'
+    platform: TBA
+crypto: true
+fiat: false
+id: ICNT
+id_coinmarketcap: '37070'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37070.png
+logoKey: currencies/icnt.png
+name: Impossible Cloud Network

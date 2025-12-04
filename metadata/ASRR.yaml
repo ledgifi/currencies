@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xf7626c7ff7b778aaf187d508d056a9398d9545d1'
+    platform: BNB
+  - address: ASRRjA1R4RHVk5H9QKKm1jaQqMkxvv6nh5EypPrvwmxQ
+    platform: SOL
+crypto: true
+fiat: false
+id: ASRR
+id_coinmarketcap: '36619'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36619.png
+logoKey: currencies/asrr.png
+name: Assisterr AI

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x93fac02b22b6743423381d163aec418178019b7a'
+    platform: BNB
+  - address: '0x073E7a0669833d356fa88ca65CC6D454EFaAa3c5'
+    platform: ETH
+crypto: true
+fiat: false
+id: FIGON
+id_coinmarketcap: '38098'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38098.png
+logoKey: currencies/figon.png
+name: Figma Ord Shs Tokenized Stock (Ondo)

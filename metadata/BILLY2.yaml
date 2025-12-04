@@ -1,0 +1,10 @@
+contracts:
+  - address: 0xbc598ef950f73d43645e9ac3c961afb4037a172dd187ec3edc3ca3102051fa7c::billy::BILLY
+    platform: SUI
+crypto: true
+fiat: false
+id: BILLY2
+id_coinmarketcap: '38225'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38225.png
+logoKey: currencies/billy2.png
+name: Billy on SUI

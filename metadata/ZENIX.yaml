@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x54D017c45105333fa0c52ec5c7b89d1d48ac1037'
+    platform: BNB
+  - address: '0x3d1428A0f17bD5D2dDA4F65C383E9e86d22E5c3B'
+    platform: ETH
+  - address: '0xDd9939C0e29014CeBeF654c1eBB4785e11D5f963'
+    platform: POL
+crypto: true
+fiat: false
+id: ZENIX
+id_coinmarketcap: '38822'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38822.png
+logoKey: currencies/zenix.png
+name: Zenix

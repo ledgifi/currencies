@@ -1,0 +1,16 @@
+contracts:
+  - address: '0x5829d6fe7528bc8e92c4e81cc8f20a528820b51a'
+    platform: ARB
+  - address: '0x90ce5720c17587d28e4af120ae2d313b3bad1722'
+    platform: ETH
+  - address: '0xedf38688b27036816a50185caa430d5479e1c63e'
+    platform: OP
+  - address: '0x7750c092e284e2c7366f50c8306f43c7eb2e82a2'
+    platform: TBA
+crypto: true
+fiat: false
+id: OVER
+id_coinmarketcap: '36272'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36272.png
+logoKey: currencies/over.png
+name: Overtime

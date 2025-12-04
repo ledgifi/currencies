@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x30cbdfdaab4bc15e26caf11e1a4703323d77cd3e'
+    platform: ETH
+crypto: true
+fiat: false
+id: CMX1
+id_coinmarketcap: '36567'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36567.png
+logoKey: currencies/cmx1.png
+name: CMX Agent

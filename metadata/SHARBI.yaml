@@ -1,0 +1,12 @@
+contracts:
+  - address: 8D1nUMJQam54o34Kj2knFhSTaWoehEr4mBc7LfiDdCqq
+    platform: SOL
+  - address: '0x5a75a61032143575067dE2B38eF38d601976091E'
+    platform: TBA
+crypto: true
+fiat: false
+id: SHARBI
+id_coinmarketcap: '23523'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23523.png
+logoKey: currencies/sharbi.png
+name: SHARBI

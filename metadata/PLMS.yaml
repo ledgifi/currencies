@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x68614481AeF06e53D23bbe0772343fB555ac40c8'
+    platform: ETH
+  - address: '0x66AE6198Dcd1B12A6e245356BA15B63d16F56BBe'
+    platform: TBA
+crypto: true
+fiat: false
+id: PLMS
+id_coinmarketcap: '35906'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35906.png
+logoKey: currencies/plms.png
+name: Polemos

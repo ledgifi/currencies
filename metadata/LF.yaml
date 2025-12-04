@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x957c7fA189a408E78543113412f6Ae1a9b4022C4'
+    platform: ETH
+  - address: 5jGaCTioXy1FSZfzSznFtsnsyiiEddEogaKk1pikF2zr
+    platform: SOL
+  - address: '0x8Ab3509F511f4c887763ba2a3450e3aAF8b3AC97'
+    platform: TBA
+crypto: true
+fiat: false
+id: LF
+id_coinmarketcap: '35989'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35989.png
+logoKey: currencies/lf.png
+name: LF

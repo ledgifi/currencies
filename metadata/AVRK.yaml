@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xA71E2738704e367798bAa2755aF5A10499634953'
+    platform: ARB
+  - address: '0x607f451f850CB612a07b37b6315be23F55165610'
+    platform: ETH
+crypto: true
+fiat: false
+id: AVRK
+id_coinmarketcap: '35004'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35004.png
+logoKey: currencies/avrk.png
+name: Avarik Saga

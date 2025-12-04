@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x1a8b8e526d093476ac5c488a3ea057f8de9c0dee'
+    platform: ETH
+  - address: '0x87682C4813B7d43447C6dcb8eD6b4a599C9CEC7E'
+    platform: TBA
+crypto: true
+fiat: false
+id: JEFF
+id_coinmarketcap: '28509'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28509.png
+logoKey: currencies/jeff.png
+name: Jeff World

@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x9002d4485b7594e3e850f0a206713b305113f69e'
+    platform: ETH
+crypto: true
+fiat: false
+id: HAT2
+id_coinmarketcap: '2179'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2179.png
+logoKey: currencies/hat2.png
+name: Hat.Exchange

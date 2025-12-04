@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xd226d8170ee38793430c7dec6903df4b818bb74c'
+    platform: BNB
+  - address: '0xA29dC2102dfc2a0A4A5dCb84Af984315567c9858'
+    platform: ETH
+crypto: true
+fiat: false
+id: MAON
+id_coinmarketcap: '38054'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38054.png
+logoKey: currencies/maon.png
+name: Mastercard Tokenized Stock (Ondo)

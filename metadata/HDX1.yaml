@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x766b0CD6ED6D90B5d49d2c36a3761E9728501BA9'
+    platform: ARB
+  - address: '0x766b0cd6ed6d90b5d49d2c36a3761e9728501ba9'
+    platform: BNB
+  - address: XszjVtyhowGjSC5odCqBpW1CtXXwXjYokymrk7fGKD3
+    platform: SOL
+crypto: true
+fiat: false
+id: HDX1
+id_coinmarketcap: '37026'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37026.png
+logoKey: currencies/hdx1.png
+name: Home Depot tokenized stock (xStock)

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xfed13d0c40790220fbde712987079eda1ed75c51'
+    platform: BNB
+  - address: '0x6C76dE483F1752Ac8473e2B4983A873991e70dA7'
+    platform: ETH
+crypto: true
+fiat: false
+id: BTR1
+id_coinmarketcap: '36277'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36277.png
+logoKey: currencies/btr1.png
+name: Bitlayer

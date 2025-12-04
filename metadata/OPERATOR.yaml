@@ -1,0 +1,10 @@
+contracts:
+  - address: 46Ws3CkfBRjtGumCeH3pNrmpyxPmtJgqYpr7WDeaXXoo
+    platform: SOL
+crypto: true
+fiat: false
+id: OPERATOR
+id_coinmarketcap: '35059'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35059.png
+logoKey: currencies/operator.png
+name: OpenAI Agent

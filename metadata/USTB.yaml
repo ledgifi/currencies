@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x43415eb6ff9db7e26a15b704e7a3edce97d31c4e'
+    platform: ETH
+crypto: true
+fiat: false
+id: USTB
+id_coinmarketcap: '37086'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37086.png
+logoKey: currencies/ustb.png
+name: Superstate Short Duration U.S. Government Securities Fund (USTB)

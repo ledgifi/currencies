@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xecc1299f183b6a720a6f4729bf24f82cd8d50828'
+    platform: BNB
+  - address: '0xaB02fc332e9278eBCbbC6B4a8038050c01D15F69'
+    platform: ETH
+crypto: true
+fiat: false
+id: TMON
+id_coinmarketcap: '38045'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38045.png
+logoKey: currencies/tmon.png
+name: Toyota Tokenized Stock (Ondo)

@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x7e975D85714B11d862C7cFFEe3C88d565a139Eb7'
+    platform: BNB
+  - address: '0x0ba2ba407e80bcb8a314649d9bc12efeecc81519'
+    platform: KAIA
+  - address: EQAQZEf6A-BfN8wYVnjdyPWpCXwkTSjhfF5ZWP7AjReM4eEI
+    platform: TON
+crypto: true
+fiat: false
+id: BOMB
+id_coinmarketcap: '36771'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36771.png
+logoKey: currencies/bomb.png
+name: Bombie

@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x57df399cace62f98a74bffdffbb264e6f31bd982'
+    platform: BNB
+  - address: '0x3157874a7508fcf972379d24590c6806522b784f'
+    platform: ETH
+  - address: '0xb4562fdefd5ed58f7705ce9386d54ee9b53831d1'
+    platform: RON
+crypto: true
+fiat: false
+id: PFVS
+id_coinmarketcap: '36604'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36604.png
+logoKey: currencies/pfvs.png
+name: Puffverse

@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xf767C4ae9d5fFee4FF10d6431B47F303F79bF331'
+    platform: ETH
+crypto: true
+fiat: false
+id: UNSD
+id_coinmarketcap: '36996'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36996.png
+logoKey: currencies/unsd.png
+name: Unstaked

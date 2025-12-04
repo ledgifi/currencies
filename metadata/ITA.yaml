@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x280e7a6db41213776e6a4429c819867dd2312dad'
+    platform: CHZ
+  - address: '0x7483263CA24BFcfF716a21F4a9bbF2610BDD9Ec9'
+    platform: CHZ
+crypto: true
+fiat: false
+id: ITA
+id_coinmarketcap: '22443'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22443.png
+logoKey: currencies/ita.png
+name: Italian National Football Team Fan Token

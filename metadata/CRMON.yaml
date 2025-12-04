@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xd04a2bb053277721a8321d7441eed5b42fdf7250'
+    platform: BNB
+  - address: '0x55720eF5b023Fd043AE5F8D2e526030207978950'
+    platform: ETH
+crypto: true
+fiat: false
+id: CRMON
+id_coinmarketcap: '38023'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38023.png
+logoKey: currencies/crmon.png
+name: Salesforce Tokenized Stock (Ondo)

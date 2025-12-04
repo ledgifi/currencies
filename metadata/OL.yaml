@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x3f160760535eb715d5809a26cf55408a2d9844c1'
+    platform: BNB
+  - address: '0x1F57da732A77636D913C9a75d685B26CC85DCC3A'
+    platform: ETH
+crypto: true
+fiat: false
+id: OL
+id_coinmarketcap: '34034'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34034.png
+logoKey: currencies/ol.png
+name: Open Loot

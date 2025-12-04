@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x48f926Cc56fcBc709e0d13b5f92Af60B80Acb52A'
+    platform: ARB
+  - address: '0x6ec6968D9869e024c7B05429fFcB8e8794c610c6'
+    platform: BNB
+  - address: TUatKTR5CSmEog3K6jRTRySqCB6A8txbBC
+    platform: TRX
+crypto: true
+fiat: false
+id: WEURC
+id_coinmarketcap: '38764'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38764.png
+logoKey: currencies/weurc.png
+name: Euro Finance

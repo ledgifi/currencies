@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x2dca96907fde857dd3d816880a0df407eeb2d2f2'
+    platform: KAT
+crypto: true
+fiat: false
+id: VBUSDT
+id_coinmarketcap: '38912'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38912.png
+logoKey: currencies/vbusdt.png
+name: VaultBridge Bridged USDT (Katana)

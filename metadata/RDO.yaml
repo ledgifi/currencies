@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xd86E6ef14b96D942eF0AbF0720C549197EA8c528'
+    platform: BNB
+  - address: '0x57240C3E140f98abe315CA8E0213c7a77F34A334'
+    platform: ETH
+crypto: true
+fiat: false
+id: RDO
+id_coinmarketcap: '36634'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36634.png
+logoKey: currencies/rdo.png
+name: Reddio

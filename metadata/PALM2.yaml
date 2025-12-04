@@ -1,0 +1,12 @@
+contracts:
+  - address: b7c5cd554f3e83c8aa0900a0c9053284a5348244d23d0406c28eaf4d50414c4d0a
+    platform: ADA
+  - address: '0x502a641decfe32b1e3d030e05effb8ae5146e64b'
+    platform: BNB
+crypto: true
+fiat: false
+id: PALM2
+id_coinmarketcap: '37089'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37089.png
+logoKey: currencies/palm2.png
+name: Palm Economy

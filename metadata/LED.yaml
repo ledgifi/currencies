@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x72De803b67B6AB05B61EFab2Efdcd414D16eBF6D'
+    platform: ETH
+crypto: true
+fiat: false
+id: LED
+id_coinmarketcap: '10598'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10598.png
+logoKey: currencies/led.png
+name: LedgerScore

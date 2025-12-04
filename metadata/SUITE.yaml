@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x818e9258be113f30316dedd24703df7d2ba27eab925e1bf744166d71c487342a::suite::SUITE
+    platform: SUI
+crypto: true
+fiat: false
+id: SUITE
+id_coinmarketcap: '33318'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33318.png
+logoKey: currencies/suite.png
+name: Suite

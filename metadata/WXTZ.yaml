@@ -1,0 +1,18 @@
+contracts:
+  - address: '0x7424f00845777a06e21f0bd8873f814a8a814b2d'
+    platform: ARB
+  - address: '0x91f9cc2649ac70a071602cade9b0c1a5868af51d'
+    platform: BNB
+  - address: '0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab'
+    platform: ETH
+  - address: '0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab'
+    platform: Etherlink
+  - address: '0x91f9cc2649ac70a071602cade9b0c1a5868af51d'
+    platform: TBA
+crypto: true
+fiat: false
+id: WXTZ
+id_coinmarketcap: '35930'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35930.png
+logoKey: currencies/wxtz.png
+name: Wrapped XTZ

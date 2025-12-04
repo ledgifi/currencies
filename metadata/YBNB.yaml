@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x5119b761c43EE153b5464d83fDA4361512F15835'
+    platform: BNB
+crypto: true
+fiat: false
+id: YBNB
+id_coinmarketcap: '38643'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38643.png
+logoKey: currencies/ybnb.png
+name: Yellow BNB

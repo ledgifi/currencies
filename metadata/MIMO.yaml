@@ -1,0 +1,18 @@
+contracts:
+  - address: '0xfD28f108e95f4D41daAE9dbfFf707D677985998E'
+    platform: ARB
+  - address: '0x6c0aeceeDc55c9d55d8B99216a670D85330941c3'
+    platform: ETH
+  - address: '0xfD28f108e95f4D41daAE9dbfFf707D677985998E'
+    platform: OP
+  - address: '0x7790dd69aa10eD3f1271E41CD7222D2a7d2D5948'
+    platform: POL
+  - address: '0xfD28f108e95f4D41daAE9dbfFf707D677985998E'
+    platform: S
+crypto: true
+fiat: false
+id: MIMO
+id_coinmarketcap: '10831'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10831.png
+logoKey: currencies/mimo.png
+name: Mimo Governance Token

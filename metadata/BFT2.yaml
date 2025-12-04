@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xb99f69b7e6A128Dd4D1891e59e7e7556b313ed0D'
+    platform: BNB
+  - address: '0xedbf98724a86f92baefac101082c366e96f1e9d9'
+    platform: ETH
+crypto: true
+fiat: false
+id: BFT2
+id_coinmarketcap: '36380'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36380.png
+logoKey: currencies/bft2.png
+name: BiFinanceToken

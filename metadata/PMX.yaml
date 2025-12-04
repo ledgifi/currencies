@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x02a6c1789c3b4fdb1a7a3dfa39f90e5d3c94f4f9'
+    platform: ARB
+  - address: '0x02a6c1789c3b4fdb1a7a3dfa39f90e5d3c94f4f9'
+    platform: BNB
+  - address: Xsba6tUnSjDae2VcopDB6FGGDaxRrewFCDa5hKn5vT3
+    platform: SOL
+crypto: true
+fiat: false
+id: PMX
+id_coinmarketcap: '37065'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37065.png
+logoKey: currencies/pmx.png
+name: Philip Morris tokenized stock (xStock)

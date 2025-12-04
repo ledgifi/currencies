@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xf9523e369c5f55ad72dbaa75b0a9b92b3d8b147e'
+    platform: ARB
+  - address: '0xf9523e369c5f55ad72dbaa75b0a9b92b3d8b147e'
+    platform: BNB
+  - address: XsfAzPzYrYjd4Dpa9BU3cusBsvWfVB9gBcyGC87S57n
+    platform: SOL
+crypto: true
+fiat: false
+id: NVOX
+id_coinmarketcap: '37058'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37058.png
+logoKey: currencies/nvox.png
+name: Novo Nordisk tokenized stock (xStock)

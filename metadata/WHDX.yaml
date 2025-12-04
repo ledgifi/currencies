@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xc641e2ebf6e076e2ae53477c2e725b3c67c0fd94'
+    platform: ARB
+crypto: true
+fiat: false
+id: WHDX
+id_coinmarketcap: '37198'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37198.png
+logoKey: currencies/whdx.png
+name: Wrapped Home Depot Tokenized stock (xStock)

@@ -1,0 +1,10 @@
+contracts:
+  - address: xmd.treasury
+    platform: XPR
+crypto: true
+fiat: false
+id: XMD
+id_coinmarketcap: '38457'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38457.png
+logoKey: currencies/xmd.png
+name: Metal Dollar

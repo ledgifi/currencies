@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x3dae8b8687b370fca9d0283d88994149195e9daa'
+    platform: BNB
+crypto: true
+fiat: false
+id: TEUSD
+id_coinmarketcap: '36792'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36792.png
+logoKey: currencies/teusd.png
+name: TeUSD

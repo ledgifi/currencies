@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xb5130F4767AB0ACC579f25a76e8f9E977CB3F948'
+    platform: ETH
+  - address: '0x5e525c76aa6e1f0a80fd8a0e71b77c45'
+    platform: HYPE
+  - address: '0xb5130F4767AB0ACC579f25a76e8f9E977CB3F948'
+    platform: TBA
+crypto: true
+fiat: false
+id: GOD1
+id_coinmarketcap: '35489'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35489.png
+logoKey: currencies/god1.png
+name: Godcoin

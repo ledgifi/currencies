@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xb2c7780f0a255a6137e5b39733f5a4c85fe093c549de5c359c1232deef57d1b7'
+    platform: APT
+  - address: '0x06238c1b8e618abedf17669228dc95fb2d2e210b'
+    platform: BNB
+crypto: true
+fiat: false
+id: ECHO
+id_coinmarketcap: '36978'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36978.png
+logoKey: currencies/echo.png
+name: Echo Protocol

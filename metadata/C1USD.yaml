@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x40CAA7912437002ee2c8415D43E7f575c733674C'
+    platform: ETH
+  - address: GDZSI5NQM4IU2NOQOMNXGAGU6K2NMU2G25C4P4UTH5SUY3IH5B3W74F4
+    platform: XLM
+crypto: true
+fiat: false
+id: C1USD
+id_coinmarketcap: '38968'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38968.png
+logoKey: currencies/c1usd.png
+name: Currency One USD

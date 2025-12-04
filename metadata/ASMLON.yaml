@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xb034f6cb52b7f2fd5a7eeeffca6b9adcd6b9a6f6'
+    platform: BNB
+  - address: '0xE51bA774ebF6392c45Bf1d9E6b334d07992460d3'
+    platform: ETH
+crypto: true
+fiat: false
+id: ASMLON
+id_coinmarketcap: '38050'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38050.png
+logoKey: currencies/asmlon.png
+name: ASML Holding NV Tokenized Stock (Ondo)

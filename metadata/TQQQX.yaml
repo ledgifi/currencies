@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xfdddb57878ef9d6f681ec4381dcb626b9e69ac86'
+    platform: ARB
+  - address: '0xfdddb57878ef9d6f681ec4381dcb626b9e69ac86'
+    platform: BNB
+  - address: XsjQP3iMAaQ3kQScQKthQpx9ALRbjKAjQtHg6TFomoc
+    platform: SOL
+crypto: true
+fiat: false
+id: TQQQX
+id_coinmarketcap: '37044'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37044.png
+logoKey: currencies/tqqqx.png
+name: TQQQ tokenized ETF (xStock)

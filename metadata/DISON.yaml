@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xeee9eee593cb8f7946260b4066cba7907f40acfa'
+    platform: BNB
+  - address: '0xc3D93B45249E8E06cfeB01d25A96337E8893265d'
+    platform: ETH
+crypto: true
+fiat: false
+id: DISON
+id_coinmarketcap: '38080'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38080.png
+logoKey: currencies/dison.png
+name: Disney Tokenized Stock (Ondo)

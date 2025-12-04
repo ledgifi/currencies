@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xcefc79c16cd62cf0c35c1d16d23b9f266f2eda51'
+    platform: BNB
+  - address: EnYkmHKm13mLnBgpvHJZE2T6rqi8weQXoFuPccW9ZiD5
+    platform: SOL
+crypto: true
+fiat: false
+id: CATTON
+id_coinmarketcap: '35653'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35653.png
+logoKey: currencies/catton.png
+name: Catton AI

@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xec2bC2B25Ab6ED8e669E202CD0Ee533e24C9A068'
+    platform: ETH
+crypto: true
+fiat: false
+id: ZKEX
+id_coinmarketcap: '35330'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35330.png
+logoKey: currencies/zkex.png
+name: zkExchange

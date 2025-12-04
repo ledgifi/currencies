@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x346B46280f559DEF274f80c5d16471b4b7EF2f14'
+    platform: ETH
+  - address: '0x1D404bdC29a7F29b9Cb6B3aECC730B318b981549'
+    platform: TBA
+crypto: true
+fiat: false
+id: WSTOR
+id_coinmarketcap: '29173'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29173.png
+logoKey: currencies/wstor.png
+name: StorageChain

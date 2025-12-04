@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xD029B392580d555F35CCa1987f27D248cF883716'
+    platform: BNB
+  - address: DEpHYkW6nEm3Sxhb2rwftatrSAV3AP3ac6MgAWBbnsS8
+    platform: SOL
+crypto: true
+fiat: false
+id: PHY
+id_coinmarketcap: '37488'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37488.png
+logoKey: currencies/phy.png
+name: DePHY Network

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xaA52167Bd14B1b22c74a80390469f796F1F82632'
+    platform: BNB
+  - address: '0x2445EE0B87B5C7f4D069A14b21a4838b70aa83ED'
+    platform: ETH
+crypto: true
+fiat: false
+id: GRD
+id_coinmarketcap: '20289'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20289.png
+logoKey: currencies/grd.png
+name: Gradium

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x347e430b7cd1235e216be58ffa13394e5009e6e2'
+    platform: BNB
+  - address: '0x723b17718289a91af252d616de2c77944962d122'
+    platform: POL
+crypto: true
+fiat: false
+id: GAIA1
+id_coinmarketcap: '12650'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12650.png
+logoKey: currencies/gaia1.png
+name: GAIA Everworld

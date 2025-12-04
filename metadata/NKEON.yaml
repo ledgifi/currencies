@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x04b5e199f2ec84f78b111035f57b16bee448db6f'
+    platform: BNB
+  - address: '0xD8e26FcC879b30cB0a0B543925a2B3500f074D81'
+    platform: ETH
+crypto: true
+fiat: false
+id: NKEON
+id_coinmarketcap: '38058'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38058.png
+logoKey: currencies/nkeon.png
+name: Nike Tokenized Stock (Ondo)

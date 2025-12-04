@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xe1743616f705954620aa351465c8885fbde5a8a9'
+    platform: BNB
+  - address: '0x01B19c68f8A9eE3a480dA788ba401cFAbdf19B93'
+    platform: ETH
+crypto: true
+fiat: false
+id: LINON
+id_coinmarketcap: '38005'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38005.png
+logoKey: currencies/linon.png
+name: Linde plc Tokenized Stock (Ondo)

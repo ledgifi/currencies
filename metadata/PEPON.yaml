@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xf99f8f3a95257d82006183bd524efa7aacc9ef7a'
+    platform: BNB
+  - address: '0x3cE219D498D807317F840f4CB0f03FA27dd65046'
+    platform: ETH
+crypto: true
+fiat: false
+id: PEPON
+id_coinmarketcap: '38015'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38015.png
+logoKey: currencies/pepon.png
+name: PepsiCo Tokenized Stock (Ondo)

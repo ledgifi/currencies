@@ -1,0 +1,16 @@
+contracts:
+  - address: '0xa1ca6299ba48366af1845a9a8ae59b87ff0d5c01'
+    platform: ARB
+  - address: '0x97ad24ab86186af1d0bad969c7ec2116f2120db6'
+    platform: ETH
+  - address: '0xa1ca6299ba48366af1845a9a8ae59b87ff0d5c01'
+    platform: POL
+  - address: '0xa1ca6299ba48366af1845a9a8ae59b87ff0d5c01'
+    platform: TBA
+crypto: true
+fiat: false
+id: SWOL
+id_coinmarketcap: '36662'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36662.png
+logoKey: currencies/swol.png
+name: Snowy Owl

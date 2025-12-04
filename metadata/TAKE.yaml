@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xE747E54783Ba3F77a8E5251a3cBA19EBe9C0E197'
+    platform: BNB
+  - address: 0x76a49ebaf991fa2d4cb6a352af14425d453fe2ba6802b5ed2361b227150b6689::take::TAKE
+    platform: SUI
+crypto: true
+fiat: false
+id: TAKE
+id_coinmarketcap: '38175'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38175.png
+logoKey: currencies/take.png
+name: OVERTAKE

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xd5964f3fcee8d649995ab88f04b8982539c282d2'
+    platform: BNB
+  - address: '0x41765F0FCddC276309195166C7A62AE522FA09ef'
+    platform: ETH
+crypto: true
+fiat: false
+id: BABAON
+id_coinmarketcap: '38076'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38076.png
+logoKey: currencies/babaon.png
+name: Alibaba Tokenized Stock (Ondo)

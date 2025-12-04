@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x3cf5aab770d2895ad9b4acef518c78b10b27e74d'
+    platform: ETH
+crypto: true
+fiat: false
+id: LEMU
+id_coinmarketcap: '36367'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36367.png
+logoKey: currencies/lemu.png
+name: lemuoid

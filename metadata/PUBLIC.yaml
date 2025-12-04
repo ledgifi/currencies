@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x87aa6aeb62ff128aaa96e275d7b24cd12a72aba1'
+    platform: BNB
+  - address: token.publicailab.near
+    platform: NEAR
+  - address: AXCp86262ZPfpcV9bmtmtnzmJSL5sD99mCVJD4GR9vS
+    platform: SOL
+crypto: true
+fiat: false
+id: PUBLIC
+id_coinmarketcap: '37728'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37728.png
+logoKey: currencies/public.png
+name: PublicAI

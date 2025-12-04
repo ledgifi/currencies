@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xf7Af0A8079F12F19533B0DF69ce7ee6718b0C46f'
+    platform: ETH
+crypto: true
+fiat: false
+id: STHUSD
+id_coinmarketcap: '38253'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38253.png
+logoKey: currencies/sthusd.png
+name: Staked Tharwa USD

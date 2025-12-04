@@ -1,0 +1,12 @@
+contracts:
+  - address: edge-fast.near
+    platform: NEAR
+  - address: '0xffBF21632d4AD2B1F85031B418a8f69638118364'
+    platform: POL
+crypto: true
+fiat: false
+id: FAST
+id_coinmarketcap: '32038'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32038.png
+logoKey: currencies/fast.png
+name: Edge Video AI

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x395603B95D721084c1917aFfDD06D78E559Fa94d'
+    platform: BNB
+  - address: '0x9947d29b1607ea6edb502d7c08d998fbf0ae0ab1'
+    platform: KAIA
+crypto: true
+fiat: false
+id: SVSA
+id_coinmarketcap: '38700'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38700.png
+logoKey: currencies/svsa.png
+name: SavannaSurvival

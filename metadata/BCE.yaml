@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x34d12f761847a05dfa33a1692440588f4b5f7f24be619334e29d74e083f5e64e::bce::BCE
+    platform: SUI
+crypto: true
+fiat: false
+id: BCE
+id_coinmarketcap: '38872'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38872.png
+logoKey: currencies/bce.png
+name: bitcastle Token

@@ -1,0 +1,10 @@
+contracts:
+  - address: https://bscscan.com/token/0x87a659e946beee8e6948a42f54cd04e3aa24ded0
+    platform: BNB
+crypto: true
+fiat: false
+id: ZET1
+id_coinmarketcap: '38378'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38378.png
+logoKey: currencies/zet1.png
+name: Zetarium

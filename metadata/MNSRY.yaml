@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x0fcfe33b46e5b21e5e96b722d4c85510198f9255'
+    platform: BNB
+  - address: 1xdtu7y3LkkrVCAbm5KGKfYzq1qgKhxxk5AaJBqpump
+    platform: SOL
+crypto: true
+fiat: false
+id: MNSRY
+id_coinmarketcap: '36078'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36078.png
+logoKey: currencies/mnsry.png
+name: Mansory

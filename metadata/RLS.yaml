@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x17ea10b6ae4fde59fdbf471bd28ab9710f508816'
+    platform: BNB
+  - address: '0xB5F7b021a78f470d31D762C1DDA05ea549904fbd'
+    platform: ETH
+crypto: true
+fiat: false
+id: RLS
+id_coinmarketcap: '38701'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38701.png
+logoKey: currencies/rls.png
+name: Rayls

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xd09f7b75b9659b864c6f82bb00ff096f9d277998'
+    platform: BNB
+  - address: '0x691b126cF619707Ed5d16CaB1B27C000aa8De300'
+    platform: ETH
+crypto: true
+fiat: false
+id: LMTON
+id_coinmarketcap: '38017'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38017.png
+logoKey: currencies/lmton.png
+name: Lockheed Tokenized Stock (Ondo)

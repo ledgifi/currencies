@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x0ef38abcdaaafedd1e2d88929068a3f65b59bf7ee07d7e8f573c71df02d27522::attn::ATTN
+    platform: SUI
+crypto: true
+fiat: false
+id: ATTN
+id_coinmarketcap: '36675'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36675.png
+logoKey: currencies/attn.png
+name: Attention

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x8c6f889888d22ee1d8aa2954b61b9f10e7402b95'
+    platform: ETH
+  - address: '0x8c6f889888d22ee1d8aa2954b61b9f10e7402b95'
+    platform: TBA
+crypto: true
+fiat: false
+id: AXOME
+id_coinmarketcap: '38632'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38632.png
+logoKey: currencies/axome.png
+name: Axolotl Token

@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x034e3d48c7d742ff7Eb40365aC7366A35ECB1EF6'
+    platform: BNB
+crypto: true
+fiat: false
+id: TST2
+id_coinmarketcap: '35796'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35796.png
+logoKey: currencies/tst2.png
+name: '[Fake] Test (testtoken.me)'

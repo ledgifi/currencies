@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xa753a7395cae905cd615da0b82a53e0560f250af'
+    platform: ARB
+  - address: '0xa753a7395cae905cd615da0b82a53e0560f250af'
+    platform: BNB
+  - address: Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ
+    platform: SOL
+crypto: true
+fiat: false
+id: QQQX
+id_coinmarketcap: '37057'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37057.png
+logoKey: currencies/qqqx.png
+name: Nasdaq tokenized ETF (xStock)

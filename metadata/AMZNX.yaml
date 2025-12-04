@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x3557ba345b01efa20a1bddc61f573bfd87195081'
+    platform: ARB
+  - address: '0x3557ba345b01efa20a1bddc61f573bfd87195081'
+    platform: BNB
+  - address: Xs3eBt7uRfJX8QUs4suhyU8p2M6DoUDrJyWBa8LLZsg
+    platform: SOL
+crypto: true
+fiat: false
+id: AMZNX
+id_coinmarketcap: '37014'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37014.png
+logoKey: currencies/amznx.png
+name: Amazon tokenized stock (xStock)

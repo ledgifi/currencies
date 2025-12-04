@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xdc49a53e1f15fd7fd522e0691cb570f442e9ca6c'
+    platform: BNB
+crypto: true
+fiat: false
+id: QGOLD
+id_coinmarketcap: '37078'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37078.png
+logoKey: currencies/qgold.png
+name: Quorium

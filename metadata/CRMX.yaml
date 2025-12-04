@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x4a4073f2eaf299a1be22254dcd2c41727f6f54a2'
+    platform: ARB
+  - address: '0x4a4073f2eaf299a1be22254dcd2c41727f6f54a2'
+    platform: BNB
+  - address: XsczbcQ3zfcgAEt9qHQES8pxKAVG5rujPSHQEXi4kaN
+    platform: SOL
+crypto: true
+fiat: false
+id: CRMX
+id_coinmarketcap: '37042'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37042.png
+logoKey: currencies/crmx.png
+name: Salesforce tokenized stock (xStock)

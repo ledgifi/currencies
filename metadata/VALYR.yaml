@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x8A853b3D639202c64ae700A0c89e4cFD4B31f7f4'
+    platform: ETH
+crypto: true
+fiat: false
+id: VALYR
+id_coinmarketcap: '38374'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38374.png
+logoKey: currencies/valyr.png
+name: Valyr

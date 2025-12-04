@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xa9d72f6c1490647df20e8fad3c136ca6ac42c2fc'
+    platform: BNB
+  - address: '0xc311FD6DA9686507F33991543d8158EF5FaDd5E7'
+    platform: ETH
+crypto: true
+fiat: false
+id: ZARO
+id_coinmarketcap: '37313'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37313.png
+logoKey: currencies/zaro.png
+name: Zaro Coin

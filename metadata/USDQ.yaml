@@ -1,0 +1,16 @@
+contracts:
+  - address: '2768603795'
+    platform: ALGO
+  - address: '0xc83e27f270cce0A3A3A29521173a83F402c1768b'
+    platform: ETH
+  - address: '0xB291996477504506Bf5f583102B5B5ea5d1E40E0'
+    platform: POL
+  - address: '5553445100000000000000000000000000000000'
+    platform: XRP
+crypto: true
+fiat: false
+id: USDQ
+id_coinmarketcap: '34177'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34177.png
+logoKey: currencies/usdq.png
+name: Quantoz USDQ

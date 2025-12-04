@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x1526ca6e3d440159ab02f11815de9ceb62192bf6'
+    platform: ARB
+  - address: '0xa4ce62BB3047E3C4aE52b7eC20c3EB10f4397AF7'
+    platform: BNB
+  - address: TSw4Kg3y5AvPpYeq8jPSALUDzYNfRd1VQa
+    platform: TRX
+crypto: true
+fiat: false
+id: MNTC1
+id_coinmarketcap: '25715'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25715.png
+logoKey: currencies/mntc1.png
+name: Minati Coin

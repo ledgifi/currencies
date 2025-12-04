@@ -1,0 +1,20 @@
+contracts:
+  - address: '0x2492D0006411Af6C8bbb1c8afc1B0197350a79e9'
+    platform: ARB
+  - address: '0x2492D0006411Af6C8bbb1c8afc1B0197350a79e9'
+    platform: BNB
+  - address: '0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110'
+    platform: ETH
+  - address: '0x0aD339d66BF4AeD5ce31c64Bc37B3244b6394A77'
+    platform: HYPE
+  - address: '0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9'
+    platform: TBA
+  - address: '0xb1b385542B6E80F77B94393Ba8342c3Af699f15c'
+    platform: XPL
+crypto: true
+fiat: false
+id: USR
+id_coinmarketcap: '32873'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32873.png
+logoKey: currencies/usr.png
+name: Resolv USR

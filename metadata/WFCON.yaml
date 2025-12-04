@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x629520dee1620def11596f84e85de9f1ff653012'
+    platform: BNB
+  - address: '0x4AD2118Da8a65eaa81402A3d583FEF6eE76BDf3F'
+    platform: ETH
+crypto: true
+fiat: false
+id: WFCON
+id_coinmarketcap: '38081'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38081.png
+logoKey: currencies/wfcon.png
+name: Wells Fargo Tokenized Stock (Ondo)

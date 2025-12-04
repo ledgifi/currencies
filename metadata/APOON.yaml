@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x5630b5741a33371d9d935283849a16dc808f7f3a'
+    platform: BNB
+  - address: '0x4D21aFfD27183B07335935F81A5C26b6A5A15355'
+    platform: ETH
+crypto: true
+fiat: false
+id: APOON
+id_coinmarketcap: '38095'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38095.png
+logoKey: currencies/apoon.png
+name: Apollo Global Management Tokenized Stock (Ondo)

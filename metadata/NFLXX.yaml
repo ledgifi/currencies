@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xa6a65ac27e76cd53cb790473e4345c46e5ebf961'
+    platform: ARB
+  - address: '0xa6a65ac27e76cd53cb790473e4345c46e5ebf961'
+    platform: BNB
+  - address: XsEH7wWfJJu2ZT3UCFeVfALnVA6CP5ur7Ee11KmzVpL
+    platform: SOL
+crypto: true
+fiat: false
+id: NFLXX
+id_coinmarketcap: '37060'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37060.png
+logoKey: currencies/nflxx.png
+name: Netflix tokenized stock (xStock)

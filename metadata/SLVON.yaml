@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x8b872732b07be325a8803cdb480d9d20b6f8d11b'
+    platform: BNB
+  - address: '0xF3e4872e6a4cF365888D93b6146a2bAA7348F1A4'
+    platform: ETH
+crypto: true
+fiat: false
+id: SLVON
+id_coinmarketcap: '38057'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38057.png
+logoKey: currencies/slvon.png
+name: iShares Silver Trust Tokenized ETF (Ondo)

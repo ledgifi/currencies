@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x475b72CB2A45324329d16D4Ddf14240A1f35b159'
+    platform: ETH
+  - address: '0x33DCe4097B75B3C35Dd8149e3eFb6D9486C950cD'
+    platform: TBA
+  - address: '0xAbE69c550eA6eC22Bed4B92614511c4F31bb0F64'
+    platform: UNI
+crypto: true
+fiat: false
+id: ABE
+id_coinmarketcap: '38142'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38142.png
+logoKey: currencies/abe.png
+name: Abe

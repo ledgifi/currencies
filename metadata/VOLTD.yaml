@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x9b0095e700ec4a0589afbe46c25e3ac80ddab06c7814fee956644c9b376fdc39::voltd::VOLTD::voltd::VOLTD
+    platform: SUI
+crypto: true
+fiat: false
+id: VOLTD
+id_coinmarketcap: '34460'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34460.png
+logoKey: currencies/voltd.png
+name: VoltDoge

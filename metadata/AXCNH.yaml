@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x70BFD7F7eADF9b9827541272589A6B2Bb760aE2E'
+    platform: CFX
+  - address: '0x2925ac3be7d585874b88ea51ed50add376ad8239'
+    platform: ETH
+crypto: true
+fiat: false
+id: AXCNH
+id_coinmarketcap: '38880'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38880.png
+logoKey: currencies/axcnh.png
+name: AxCNH

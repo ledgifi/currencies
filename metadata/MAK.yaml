@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xd073e6341a3aa6c4d94c4f8f20fbd1ede572b0da'
+    platform: ETH
+  - address: '0x7282bf0AbECEcFa516CF014DBD142AEC6528b7b6'
+    platform: MNT
+crypto: true
+fiat: false
+id: MAK
+id_coinmarketcap: '32926'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32926.png
+logoKey: currencies/mak.png
+name: MetaCene

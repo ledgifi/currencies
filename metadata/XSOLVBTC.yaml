@@ -1,0 +1,16 @@
+contracts:
+  - address: '0xcc0966d8418d412c599a6421b760a847eb169a8c'
+    platform: AVAX
+  - address: '0x1346b618dc92810ec74163e4c27004c921d446a5'
+    platform: BNB
+  - address: '0xd9d920aa40f578ab794426f5c90f6c731d159def'
+    platform: ETH
+  - address: '0x1760900aCA15B90Fa2ECa70CE4b4EC441c2CF6c5'
+    platform: MERL
+crypto: true
+fiat: false
+id: XSOLVBTC
+id_coinmarketcap: '33310'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33310.png
+logoKey: currencies/xsolvbtc.png
+name: xSolvBTC

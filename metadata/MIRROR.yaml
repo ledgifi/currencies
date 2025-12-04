@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x297eb2CD0E0aF48Dd2241D1fe2EAe8D9d5188E87'
+    platform: BNB
+  - address: '0xe1bfA25468AF64e366ddAFC9D91bCc6c97439A14'
+    platform: TBA
+crypto: true
+fiat: false
+id: MIRROR
+id_coinmarketcap: '38292'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38292.png
+logoKey: currencies/mirror.png
+name: Black Mirror Experience

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x8A063A9ff4dE28dcB87117cc759BE6cE70e09F81'
+    platform: BNB
+  - address: '0x32db8748f9b99c6fc2590484f584089955d05c19'
+    platform: KAIA
+crypto: true
+fiat: false
+id: SLX
+id_coinmarketcap: '38542'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38542.png
+logoKey: currencies/slx.png
+name: SLIMEX

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x2efa572467c50c04a6eed6742196c0d0d287c1bb'
+    platform: ETH
+  - address: '0xecaf81eb42cd30014eb44130b89bcd6d4ad98b92'
+    platform: TBA
+crypto: true
+fiat: false
+id: CHAD
+id_coinmarketcap: '31477'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31477.png
+logoKey: currencies/chad.png
+name: Based Chad

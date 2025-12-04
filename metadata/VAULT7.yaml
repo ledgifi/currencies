@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x220125af9da649e368813733ec8702a4145f996b'
+    platform: ETH
+crypto: true
+fiat: false
+id: VAULT7
+id_coinmarketcap: '33506'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33506.png
+logoKey: currencies/vault7.png
+name: MoonVault

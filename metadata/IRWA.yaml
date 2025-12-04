@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xc7bd8466606539f06f2ec606d3c08efc181e15e5'
+    platform: ETH
+  - address: '0x833f973406E07830d494cBe5FaBBc3AE9c750c1F'
+    platform: TBA
+crypto: true
+fiat: false
+id: IRWA
+id_coinmarketcap: '38501'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38501.png
+logoKey: currencies/irwa.png
+name: IncomRWA

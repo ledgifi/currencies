@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x500eafc69b68acd6f27064f9b75f1c7d91cc4d9f'
+    platform: BNB
+  - address: '0x070D79021dD7e841123cB0CF554993bF683c511D'
+    platform: ETH
+crypto: true
+fiat: false
+id: IWMON
+id_coinmarketcap: '38066'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38066.png
+logoKey: currencies/iwmon.png
+name: iShares Russell 2000 Tokenized ETF (Ondo)

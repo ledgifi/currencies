@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x2a8227993a4e38537a57caefe5e7e9a51327bf6cd732c1f56648f26f68304ebc'
+    platform: APT
+  - address: '0xf3d5b4c34ed623478cc5141861776e6cf7ae3a1e'
+    platform: BNB
+crypto: true
+fiat: false
+id: KGEN
+id_coinmarketcap: '38554'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38554.png
+logoKey: currencies/kgen.png
+name: KGeN

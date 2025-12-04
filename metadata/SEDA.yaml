@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x14862c03A0cACcC1aB328B062E64e31B2a1afcd7'
+    platform: ETH
+  - address: ibc/956AEF1DA92F70584266E87978C3F30A43B91EE6ABC62F03D097E79F6B99C4D8
+    platform: OSMO
+  - address: '0x306aCd0c07c430AbBBb2e74Ef7bdE94F32A898c0'
+    platform: TBA
+crypto: true
+fiat: false
+id: SEDA
+id_coinmarketcap: '23305'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23305.png
+logoKey: currencies/seda.png
+name: SEDA Protocol

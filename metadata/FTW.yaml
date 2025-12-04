@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xbc188b5dbb155b6ea693d46d98bf60b8482939b9'
+    platform: ETH
+crypto: true
+fiat: false
+id: FTW
+id_coinmarketcap: '30004'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30004.png
+logoKey: currencies/ftw.png
+name: Apollo FTW

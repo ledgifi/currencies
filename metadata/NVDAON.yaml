@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xa9ee28c80f960b889dfbd1902055218cba016f75'
+    platform: BNB
+  - address: '0x2D1F7226Bd1F780AF6B9A49DCC0aE00E8Df4bDEE'
+    platform: ETH
+crypto: true
+fiat: false
+id: NVDAON
+id_coinmarketcap: '38093'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38093.png
+logoKey: currencies/nvdaon.png
+name: NVIDIA Tokenized Stock (Ondo)

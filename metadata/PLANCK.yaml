@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x004D50B3fC784b580531D8e8615AA96Cf7fbb919'
+    platform: BNB
+  - address: '0xe33679565212f14d68131851751E1050E15db857'
+    platform: ETH
+  - address: '0xB6fd6Ae1cd535e7B5253a30780B9F5B01F4D56F2'
+    platform: TBA
+crypto: true
+fiat: false
+id: PLANCK
+id_coinmarketcap: '38251'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38251.png
+logoKey: currencies/planck.png
+name: Planck

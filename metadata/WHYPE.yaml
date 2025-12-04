@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x5555555555555555555555555555555555555555'
+    platform: HYPE
+crypto: true
+fiat: false
+id: WHYPE
+id_coinmarketcap: '35881'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35881.png
+logoKey: currencies/whype.png
+name: Wrapped HYPE

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xc142ba8ccd36d80c3a001342fb83e4c3d218a873'
+    platform: BNB
+  - address: '0x2ca12a3F9635fD69C21580def14F25C210cA9612'
+    platform: ETH
+crypto: true
+fiat: false
+id: SMCION
+id_coinmarketcap: '37996'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37996.png
+logoKey: currencies/smcion.png
+name: Super Micro Computer Tokenized Stock (Ondo)

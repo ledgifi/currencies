@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x34304f2f7cc487eb4186e6d69f5905a613474aa2'
+    platform: BNB
+  - address: '0x980a1001ee94e54142b231f44C7CA7c9DF71FBe1'
+    platform: ETH
+crypto: true
+fiat: false
+id: CSCOON
+id_coinmarketcap: '38070'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38070.png
+logoKey: currencies/cscoon.png
+name: Cisco Systems Tokenized Stock (Ondo)

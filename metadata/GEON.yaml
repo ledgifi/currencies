@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x5151a22421ed4277f1e4ca4785a07b035d548a36'
+    platform: BNB
+  - address: '0xD904bCf89B7CedF5c89f9Df7e829191D695F847E'
+    platform: ETH
+crypto: true
+fiat: false
+id: GEON
+id_coinmarketcap: '38085'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38085.png
+logoKey: currencies/geon.png
+name: General Electric Tokenized Stock (Ondo)

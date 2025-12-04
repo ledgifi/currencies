@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xAf84c508fEF42Dc8424bc123447F5968d2a86770'
+    platform: BNB
+  - address: '0x18104f8E31786F0f519fF59D1B24C31A2F8feF40'
+    platform: POL
+crypto: true
+fiat: false
+id: SC3
+id_coinmarketcap: '16576'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16576.png
+logoKey: currencies/sc3.png
+name: ScarpaCoin

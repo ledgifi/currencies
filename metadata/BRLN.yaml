@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x3a872ae95f645acdd17db8aa961f4d39e0f5bc39'
+    platform: ETH
+crypto: true
+fiat: false
+id: BRLN
+id_coinmarketcap: '22481'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22481.png
+logoKey: currencies/brln.png
+name: Brillion

@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x4e41a262caa93c6575d336e0a4eb79f3c67caa06'
+    platform: ARB
+crypto: true
+fiat: false
+id: WMETAX
+id_coinmarketcap: '37211'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37211.png
+logoKey: currencies/wmetax.png
+name: Wrapped Meta Tokenized stock (xStock)

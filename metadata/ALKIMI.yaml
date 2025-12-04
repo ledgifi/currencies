@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x1a8f4bc33f8ef7fbc851f156857aa65d397a6a6fd27a7ac2ca717b51f2fd9489::alkimi::ALKIMI
+    platform: SUI
+crypto: true
+fiat: false
+id: ALKIMI
+id_coinmarketcap: '38131'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38131.png
+logoKey: currencies/alkimi.png
+name: Alkimi

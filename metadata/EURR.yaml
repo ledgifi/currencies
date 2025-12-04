@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x50753cfaf86c094925bf976f218d043f8791e408'
+    platform: ETH
+crypto: true
+fiat: false
+id: EURR
+id_coinmarketcap: '29042'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29042.png
+logoKey: currencies/eurr.png
+name: StablR Euro

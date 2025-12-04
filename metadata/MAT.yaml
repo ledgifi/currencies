@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xFE2DD2d57a05F89438F3AEC94EaFA4070396bab0'
+    platform: BNB
+  - address: '0x44a83a012B926853DFc1BBE2ec5BEf37126067e8'
+    platform: MAT
+crypto: true
+fiat: false
+id: MAT
+id_coinmarketcap: '36397'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36397.png
+logoKey: currencies/mat.png
+name: Matchain

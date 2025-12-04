@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xdabb9aff4cf02f26d2014e4ca9f94ac6fe6572a3'
+    platform: BNB
+  - address: '0x71d24Baeb0A033ec5F90FF65C4210545AF378D97'
+    platform: ETH
+crypto: true
+fiat: false
+id: GMEON
+id_coinmarketcap: '37997'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37997.png
+logoKey: currencies/gmeon.png
+name: GameStop Tokenized Stock (Ondo)

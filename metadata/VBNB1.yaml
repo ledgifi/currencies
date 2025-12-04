@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xe3a8dbc95080b653831291fa491b5cf41fa81b8c'
+    platform: BNB
+crypto: true
+fiat: false
+id: VBNB1
+id_coinmarketcap: '39015'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39015.png
+logoKey: currencies/vbnb1.png
+name: BNB ETF

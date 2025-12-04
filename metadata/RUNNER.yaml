@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x495e02A6E3aa2283d736EdC3bcaC67224054E394'
+    platform: ETH
+crypto: true
+fiat: false
+id: RUNNER
+id_coinmarketcap: '33054'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33054.png
+logoKey: currencies/runner.png
+name: Runner

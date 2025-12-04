@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x4CdA244c7e93045c88f86e6Ec571C223bEc2fc70'
+    platform: ETH
+  - address: n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.kb-VATRENI
+    platform: KDA
+  - address: '0xd60deba014459f07bbcc077a5b817f31dafd5229'
+    platform: POL
+crypto: true
+fiat: false
+id: VATRENI
+id_coinmarketcap: '22789'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22789.png
+logoKey: currencies/vatreni.png
+name: Croatian Football Federation Token

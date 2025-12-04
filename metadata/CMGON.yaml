@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xaed5985afc12aa09d87f55b4b1e6bc3b8f7b0208'
+    platform: BNB
+  - address: '0x25018520138bbaB60684AD7983D4432E8B8E926B'
+    platform: ETH
+crypto: true
+fiat: false
+id: CMGON
+id_coinmarketcap: '38008'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38008.png
+logoKey: currencies/cmgon.png
+name: Chipotle Tokenized Stock (Ondo)

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x7CEA5B9548a4B48cF9551813Ef9e73DE916e41E0'
+    platform: BNB
+  - address: '0x7cea5b9548a4b48cf9551813ef9e73de916e41e0'
+    platform: TBA
+crypto: true
+fiat: false
+id: MIA
+id_coinmarketcap: '36535'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36535.png
+logoKey: currencies/mia.png
+name: MIA

@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x6b0debd0d80e34b073b1de5f8bfe27983dd604497ac457fb082844894a3e548d::coin_factory::Emojicoin
+    platform: APT
+crypto: true
+fiat: false
+id: REDPACKET
+id_coinmarketcap: '35668'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35668.png
+logoKey: currencies/redpacket.png
+name: Redpacket

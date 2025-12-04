@@ -1,0 +1,18 @@
+contracts:
+  - address: '0xF4F447E6AFa04c9D11Ef0e2fC0d7f19C24Ee55de'
+    platform: ARB
+  - address: '0x2e3c5e514eef46727de1fe44618027a9b70d92fc'
+    platform: ETH
+  - address: '0xF4F447E6AFa04c9D11Ef0e2fC0d7f19C24Ee55de'
+    platform: OP
+  - address: '0xF4F447E6AFa04c9D11Ef0e2fC0d7f19C24Ee55de'
+    platform: S
+  - address: '0xF4F447E6AFa04c9D11Ef0e2fC0d7f19C24Ee55de'
+    platform: TBA
+crypto: true
+fiat: false
+id: VYUSD
+id_coinmarketcap: '38249'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38249.png
+logoKey: currencies/vyusd.png
+name: YieldFi

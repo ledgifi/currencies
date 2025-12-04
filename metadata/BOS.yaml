@@ -1,0 +1,13 @@
+color: '#00a8d6'
+contracts:
+  - address: '0xae1e85c3665b70b682defd778e3dafdf09ed3b0f'
+    platform: BNB
+  - address: '0x13239C268BEDDd88aD0Cb02050D3ff6a9d00de6D'
+    platform: ETH
+crypto: true
+fiat: false
+id: BOS
+id_coinmarketcap: '38784'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38784.png
+logoKey: currencies/bos.png
+name: BitcoinOS

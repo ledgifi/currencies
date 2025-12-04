@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x4d5F47FA6A74757f35C14fD3a6Ef8E3C9BC514E8'
+    platform: ETH
+crypto: true
+fiat: false
+id: AETHWETH
+id_coinmarketcap: '36458'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36458.png
+logoKey: currencies/aethweth.png
+name: Aave Ethereum WETH

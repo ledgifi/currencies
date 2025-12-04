@@ -1,0 +1,10 @@
+contracts:
+  - address: ibc/BC26A7A805ECD6822719472BCB7842A48EF09DF206182F8F259B2593EB5D23FB
+    platform: OSMO
+crypto: true
+fiat: false
+id: ATONE
+id_coinmarketcap: '38878'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38878.png
+logoKey: currencies/atone.png
+name: AtomOne

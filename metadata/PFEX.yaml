@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x1ac765b5bea23184802c7d2d497f7c33f1444a9e'
+    platform: ARB
+  - address: '0x1ac765b5bea23184802c7d2d497f7c33f1444a9e'
+    platform: BNB
+  - address: XsAtbqkAP1HJxy7hFDeq7ok6yM43DQ9mQ1Rh861X8rw
+    platform: SOL
+crypto: true
+fiat: false
+id: PFEX
+id_coinmarketcap: '37063'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37063.png
+logoKey: currencies/pfex.png
+name: Pfizer tokenized stock (xStock)

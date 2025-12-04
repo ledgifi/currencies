@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x94f9bB5c972285728DCee7EAece48BeC2fF341ce'
+    platform: AVAX
+  - address: '0xe2fc85bfb48c4cf147921fbe110cf92ef9f26f94'
+    platform: ETH
+  - address: '0x6eAf19b2FC24552925dB245F9Ff613157a7dbb4C'
+    platform: XPL
+crypto: true
+fiat: false
+id: XUSD2
+id_coinmarketcap: '38894'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38894.png
+logoKey: currencies/xusd2.png
+name: Staked Stream USD

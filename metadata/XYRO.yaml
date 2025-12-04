@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xAeAC3b55c3522157ecdA7EC8fcB86C832fAA28aF'
+    platform: ARB
+  - address: '0x4eddb15a0abfa2c349e8065af9214e942d9a6d36'
+    platform: ETH
+crypto: true
+fiat: false
+id: XYRO
+id_coinmarketcap: '33160'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33160.png
+logoKey: currencies/xyro.png
+name: XYRO

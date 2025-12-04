@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xbE7E12B2E128bC955A0130fFB168F031d7dD8d58'
+    platform: BNB
+  - address: '0xbe7e12b2e128bc955a0130ffb168f031d7dd8d58'
+    platform: ETH
+crypto: true
+fiat: false
+id: BOOST
+id_coinmarketcap: '36531'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36531.png
+logoKey: currencies/boost.png
+name: Boost

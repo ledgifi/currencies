@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x992879cd8ce0c312d98648875b5a8d6d042cbf34'
+    platform: BNB
+  - address: '0x3632DEa96A953C11dac2f00b4A05a32CD1063fAE'
+    platform: ETH
+crypto: true
+fiat: false
+id: CRCLON
+id_coinmarketcap: '38056'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38056.png
+logoKey: currencies/crclon.png
+name: Circle Internet Group Tokenized Stock (Ondo)

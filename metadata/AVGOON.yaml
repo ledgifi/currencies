@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x0ed2e3180edf393e6bf8db124bd15ddd54de150a'
+    platform: BNB
+  - address: '0x0d54D4279B9E8c54cD8547c2C75A8Ee81A0BcaE8'
+    platform: ETH
+crypto: true
+fiat: false
+id: AVGOON
+id_coinmarketcap: '38062'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38062.png
+logoKey: currencies/avgoon.png
+name: Broadcom Tokenized Stock (Ondo)

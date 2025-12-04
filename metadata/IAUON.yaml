@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xcb2a0f46f67dc4c58a316f1c008edef5c2311795'
+    platform: BNB
+  - address: '0x4f0CA3df1c2e6b943cf82E649d576ffe7B2fABCF'
+    platform: ETH
+crypto: true
+fiat: false
+id: IAUON
+id_coinmarketcap: '38041'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38041.png
+logoKey: currencies/iauon.png
+name: iShares Gold Trust Tokenized ETF (Ondo)

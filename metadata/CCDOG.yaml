@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x1165ecebfa6693cf64ac5ef49f1b32e8acbffe01'
+    platform: ETH
+crypto: true
+fiat: false
+id: CCDOG
+id_coinmarketcap: '36730'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36730.png
+logoKey: currencies/ccdog.png
+name: Courage The Dog

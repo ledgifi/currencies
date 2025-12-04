@@ -1,0 +1,16 @@
+contracts:
+  - address: '0x0b6f3ea2814f3fff804ba5d5c237aebbc364fba9'
+    platform: BNB
+  - address: '0x0b6f3ea2814f3fff804ba5d5c237aebbc364fba9'
+    platform: ETH
+  - address: '0x0b6f3ea2814f3fff804ba5d5c237aebbc364fba9'
+    platform: POL
+  - address: '0x24569d33653c404f90af10a2b98d6e0030d3d267'
+    platform: TBA
+crypto: true
+fiat: false
+id: UNA
+id_coinmarketcap: '29310'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29310.png
+logoKey: currencies/una.png
+name: Unagi Token

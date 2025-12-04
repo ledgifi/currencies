@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xef80743f78d98fc2b47a2253b293152ce8b879ba'
+    platform: BNB
+  - address: '0xb035c3d5083bdc80074F380aeBc9Fcb68aBa0A28'
+    platform: ETH
+crypto: true
+fiat: false
+id: ABNBON
+id_coinmarketcap: '38044'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38044.png
+logoKey: currencies/abnbon.png
+name: Airbnb Tokenized Stock (Ondo)

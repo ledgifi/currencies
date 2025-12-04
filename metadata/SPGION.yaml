@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x55b370b704240a914f42b5bbb3195431c031f9f8'
+    platform: BNB
+  - address: '0xbc843b147DB4C7E00721d76037b8b92e13AfE13f'
+    platform: ETH
+crypto: true
+fiat: false
+id: SPGION
+id_coinmarketcap: '38074'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38074.png
+logoKey: currencies/spgion.png
+name: S&P Global Tokenized Stock (Ondo)

@@ -1,0 +1,22 @@
+contracts:
+  - address: '0x6d57B2E05F26C26b549231c866bdd39779e4a488'
+    platform: ETH
+  - address: '0xe4fadbbf24f118b1e63d65f1aac2a825a07f7619'
+    platform: ETH
+  - address: '0xc8bb8eda94931ca2f20ef43ea7dbd58e68400400'
+    platform: POL
+  - address: 9TPL8droGJ7jThsq4momaoz6uhTcvX2SeMqipoPmNa8R
+    platform: SOL
+  - address: '0xac3fe22294beaed9d1fd752323a6d06d12ff3098'
+    platform: TBA
+  - address: VNXAU-GCKIYYQVIFBIFDRN7BNDNHL3UZSFHT5NHDAISG2N3MWCZY3WNXL3LXN3
+    platform: XLM
+  - address: KT1LSH97386CURN9FgRNqdQJoHaHY6e1vxUv
+    platform: XTZ
+crypto: true
+fiat: false
+id: VNXAU
+id_coinmarketcap: '22492'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22492.png
+logoKey: currencies/vnxau.png
+name: VNX Gold

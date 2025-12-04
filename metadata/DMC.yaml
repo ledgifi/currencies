@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x4c981f3ff786cdb9e514da897ab8a953647dae2ace9679e8358eec1e3e8871ac::dmc::DMC
+    platform: SUI
+crypto: true
+fiat: false
+id: DMC
+id_coinmarketcap: '36920'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36920.png
+logoKey: currencies/dmc.png
+name: DeLorean

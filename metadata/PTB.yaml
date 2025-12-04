@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x95C9B514566fbD224Dc2037F5914eB8ab91c9201'
+    platform: BNB
+  - address: '0x30a25cc9c9eade4d4d9e9349be6e68c3411367d3'
+    platform: ETH
+crypto: true
+fiat: false
+id: PTB
+id_coinmarketcap: '37372'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37372.png
+logoKey: currencies/ptb.png
+name: Portal To Bitcoin

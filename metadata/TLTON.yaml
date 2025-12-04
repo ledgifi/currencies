@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xf69e40069ac227c11459e3f4e8a446b3401616b6'
+    platform: BNB
+  - address: '0x992651BFeB9A0DCC4457610E284ba66D86489d4d'
+    platform: ETH
+crypto: true
+fiat: false
+id: TLTON
+id_coinmarketcap: '38031'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38031.png
+logoKey: currencies/tlton.png
+name: iShares 20+ Year Treasury Bond Tokenized ETF (Ondo)

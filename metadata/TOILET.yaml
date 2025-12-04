@@ -1,0 +1,10 @@
+contracts:
+  - address: 0xc5b61b1e1f7f88511c9c0c6f475f823c66cc4e2d39a49beb6777059710be8404::toilet::TOILET
+    platform: SUI
+crypto: true
+fiat: false
+id: TOILET
+id_coinmarketcap: '36394'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36394.png
+logoKey: currencies/toilet.png
+name: Toilet Dust

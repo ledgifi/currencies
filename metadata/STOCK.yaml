@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x0987689aA8b7Bf4d990552599069ce5Fb99CCA0a'
+    platform: '-'
+  - address: '0x0987689aA8b7Bf4d990552599069ce5Fb99CCA0a'
+    platform: TBA
+crypto: true
+fiat: false
+id: STOCK
+id_coinmarketcap: '37174'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37174.png
+logoKey: currencies/stock.png
+name: Coin Stock

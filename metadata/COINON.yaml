@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xf8589b526fdd65f7f301c605a6e04f0f1b4b3620'
+    platform: BNB
+  - address: '0xF042cfa86cf1D598a75Bdb55c3507a1F39f9493b'
+    platform: ETH
+crypto: true
+fiat: false
+id: COINON
+id_coinmarketcap: '38046'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38046.png
+logoKey: currencies/coinon.png
+name: Coinbase Tokenized Stock (Ondo)

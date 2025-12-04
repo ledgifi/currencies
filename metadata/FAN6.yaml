@@ -1,0 +1,10 @@
+contracts:
+  - address: 0xf838b27c5332635b877bb0902c5520af769530ed8a21aa48adad8b7681a043dc::fan::FAN
+    platform: SUI
+crypto: true
+fiat: false
+id: FAN6
+id_coinmarketcap: '35870'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35870.png
+logoKey: currencies/fan6.png
+name: FanTV AI

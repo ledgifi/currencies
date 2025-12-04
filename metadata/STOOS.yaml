@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xf96bf89ac671e0e3c931bcbfc12de00572f218e0'
+    platform: BNB
+  - address: '0x15512e654ddc92273dceac1399e09c7fb9def476'
+    platform: KAIA
+crypto: true
+fiat: false
+id: STOOS
+id_coinmarketcap: '34229'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34229.png
+logoKey: currencies/stoos.png
+name: STO Operating System

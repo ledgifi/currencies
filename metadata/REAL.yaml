@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x65e7a112dB1142EAE919201b1232f7aA488Ed83c'
+    platform: BNB
+  - address: TGBfBt6Y2Dm3RHdNpZAdqywBsvfdysf834
+    platform: TRX
+crypto: true
+fiat: false
+id: REAL
+id_coinmarketcap: '14721'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/14721.png
+logoKey: currencies/real.png
+name: RealLink

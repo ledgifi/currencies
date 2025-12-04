@@ -1,0 +1,16 @@
+contracts:
+  - address: '0x31094ed0f645dbd5efb6aca5b9a05e8ee0efb386'
+    platform: ARB
+  - address: '0xd4743a3fFFD44E709F8B4483F5BD1b7e54Fe7df7'
+    platform: BNB
+  - address: '0x31094ed0f645dbd5efb6aca5b9a05e8ee0efb386'
+    platform: ETH
+  - address: TXo8Fum48zk3Wc6CAtm79ZBcqq9ve4i6Cn
+    platform: TRX
+crypto: true
+fiat: false
+id: EURC1
+id_coinmarketcap: '36572'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36572.png
+logoKey: currencies/eurc1.png
+name: EuroUnion

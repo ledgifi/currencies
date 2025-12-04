@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x63ad27614231767c8c489745b9145272de50d09b'
+    platform: ARB
+crypto: true
+fiat: false
+id: WMSFTX
+id_coinmarketcap: '37214'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37214.png
+logoKey: currencies/wmsftx.png
+name: Wrapped Microsoft Tokenized stock (xStock)

@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xB69C715906db6476846CEfcb437555E1232CE3aB'
+    platform: ETH
+crypto: true
+fiat: false
+id: PDP
+id_coinmarketcap: '38372'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38372.png
+logoKey: currencies/pdp.png
+name: Paydax

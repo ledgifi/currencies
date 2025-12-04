@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xeaad46f4146ded5a47b55aa7f6c48c191deaec88'
+    platform: ARB
+  - address: '0xeaad46f4146ded5a47b55aa7f6c48c191deaec88'
+    platform: BNB
+  - address: XsuxRGDzbLjnJ72v74b7p9VY6N66uYgTCyfwwRjVCJA
+    platform: SOL
+crypto: true
+fiat: false
+id: MRVLX
+id_coinmarketcap: '37050'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37050.png
+logoKey: currencies/mrvlx.png
+name: Marvell tokenized stock (xStock)

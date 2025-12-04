@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xaeeaa594e7dc112d67b8547fe9767a02c15b5597'
+    platform: ETH
+crypto: true
+fiat: false
+id: ANVL
+id_coinmarketcap: '38683'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38683.png
+logoKey: currencies/anvl.png
+name: Anvil

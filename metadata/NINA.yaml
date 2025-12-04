@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xe94db607eba8f76a377d9bcc327c9856ed90fbde'
+    platform: BNB
+  - address: '0xe94db607eba8f76a377d9bcc327c9856ed90fbde'
+    platform: ETH
+  - address: '0xe94db607eba8f76a377d9bcc327c9856ed90fbde'
+    platform: TBA
+crypto: true
+fiat: false
+id: NINA
+id_coinmarketcap: '35691'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35691.png
+logoKey: currencies/nina.png
+name: NINA

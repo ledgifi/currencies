@@ -1,0 +1,18 @@
+contracts:
+  - address: '0x5e85faf503621830ca857a5f38b982e0cc57d537'
+    platform: ARB
+  - address: '0xba3f535bbcccca2a154b573ca6c5a49baae0a3ea'
+    platform: ETH
+  - address: '0x1B5F7fA46ED0F487F049C42f374cA4827d65A264'
+    platform: OP
+  - address: '0xc2ff25dd99e467d2589b2c26edd270f220f14e47'
+    platform: POL
+  - address: '0x1B5F7fA46ED0F487F049C42f374cA4827d65A264'
+    platform: TBA
+crypto: true
+fiat: false
+id: DEURO
+id_coinmarketcap: '36169'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36169.png
+logoKey: currencies/deuro.png
+name: Decentralized Euro

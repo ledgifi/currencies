@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x0a526e425809aEA71eb279d24ae22Dee6C92A4Fe'
+    platform: SEI
+crypto: true
+fiat: false
+id: DRG
+id_coinmarketcap: '38979'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38979.png
+logoKey: currencies/drg.png
+name: DragonSwap

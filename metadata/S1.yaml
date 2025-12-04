@@ -1,0 +1,12 @@
+contracts:
+  - address: 3Ws5Z9ZVWZFBFPQtmUqSbL1pg1LG4jpfpMHGkUWK6UGJ
+    platform: SOL
+  - address: '0x667d0fb35364b0711b8566bee4dc3d0f96d6a688'
+    platform: TBA
+crypto: true
+fiat: false
+id: S1
+id_coinmarketcap: '36222'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36222.png
+logoKey: currencies/s1.png
+name: Token S

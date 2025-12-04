@@ -1,0 +1,16 @@
+contracts:
+  - address: '0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b'
+    platform: ETH
+  - address: '0xE261D618a959aFfFd53168Cd07D12E37B26761db'
+    platform: POL
+  - address: ERQXNXuWfpaGMh9Cs19zxcQTtzCVNZerdKXJ7BQKXVhd
+    platform: SOL
+  - address: '0x5eAA326fB2fc97fAcCe6A79A304876daD0F2e96c'
+    platform: TBA
+crypto: true
+fiat: false
+id: DIMO
+id_coinmarketcap: '22837'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22837.png
+logoKey: currencies/dimo.png
+name: DIMO

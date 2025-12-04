@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x077574441C4F8763a37a2cFeE2ECb444aA60A15e'
+    platform: ARB
+  - address: '0x6f0037c79d144d5b8e3e6f04e49fbb5f25fd508f'
+    platform: BNB
+crypto: true
+fiat: false
+id: RCADE1
+id_coinmarketcap: '37260'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37260.png
+logoKey: currencies/rcade1.png
+name: RCADE

@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xd812b37181ae89801e4bb3f49e4c1faf11fc0b57'
+    platform: ARB
+crypto: true
+fiat: false
+id: WABTX
+id_coinmarketcap: '37095'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37095.png
+logoKey: currencies/wabtx.png
+name: Wrapped Abbott tokenized stock (xStock)

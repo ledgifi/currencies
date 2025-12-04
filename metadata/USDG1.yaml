@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xa92801abe3EaAb63Ab2a6180233Ba10D2c84A69a'
+    platform: ARB
+  - address: '0x0Caf8956cd1a219Cc4e56005593F80f221B5E666'
+    platform: BNB
+  - address: '0x17b65cFcD084739459Ecc8fDc032e9Cbc7aeEfda'
+    platform: ETH
+crypto: true
+fiat: false
+id: USDG1
+id_coinmarketcap: '39011'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39011.png
+logoKey: currencies/usdg1.png
+name: USDGOLD

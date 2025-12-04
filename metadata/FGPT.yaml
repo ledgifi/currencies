@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x21d6d37411d86fafdc565260e81e7a585bc44119'
+    platform: BNB
+  - address: '0x21D6d37411d86fAfdC565260e81E7a585bc44119'
+    platform: ETH
+  - address: 7JLTz1vvoaA4hbjq9Kqt8V9ENjAxnePUwMy5NkFZAoxZ
+    platform: SOL
+crypto: true
+fiat: false
+id: FGPT
+id_coinmarketcap: '38798'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38798.png
+logoKey: currencies/fgpt.png
+name: FurGPT

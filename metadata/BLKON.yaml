@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x24f5471183ea549987f245d6ce236b6108869c92'
+    platform: BNB
+  - address: '0x7a0F89c1606f71499950AA2590d547c3975B728E'
+    platform: ETH
+crypto: true
+fiat: false
+id: BLKON
+id_coinmarketcap: '38030'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38030.png
+logoKey: currencies/blkon.png
+name: Blackrock, Inc. Tokenized Stock (Ondo)

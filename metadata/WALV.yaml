@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x9c5695E768932a7fA4c2CdBB17C7A1240afe2220'
+    platform: BNB
+  - address: '0x256D1fCE1b1221e8398f65F9B36033CE50B2D497'
+    platform: ETH
+  - address: 7mUGedR4KTULcggZuY5Ggrh36AXWKgsVL993aAAbwALV
+    platform: SOL
+crypto: true
+fiat: false
+id: WALV
+id_coinmarketcap: '21428'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21428.png
+logoKey: currencies/walv.png
+name: Wrapped Alvey Chain

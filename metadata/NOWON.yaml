@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xeb19c13c54b1cd48afc62f6503375e92d5f1e856'
+    platform: BNB
+  - address: '0x8bCF9012f4b0c1C3D359eDb7133C294f82f80790'
+    platform: ETH
+crypto: true
+fiat: false
+id: NOWON
+id_coinmarketcap: '38025'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38025.png
+logoKey: currencies/nowon.png
+name: ServiceNow Tokenized Stock (Ondo)

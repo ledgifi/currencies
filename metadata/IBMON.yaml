@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xe8ff70859ce4cbd72e4352b4fb45f5bf39d07464'
+    platform: BNB
+  - address: '0x25d3f236B2d61656eebdeA86Ac6D42168e340011'
+    platform: ETH
+crypto: true
+fiat: false
+id: IBMON
+id_coinmarketcap: '38018'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38018.png
+logoKey: currencies/ibmon.png
+name: IBM Tokenized Stock (Ondo)

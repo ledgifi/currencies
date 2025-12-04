@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xa90424d5d3e770e8644103ab503ed775dd1318fd'
+    platform: ARB
+  - address: '0xa90424d5d3e770e8644103ab503ed775dd1318fd'
+    platform: BNB
+  - address: XsYdjDjNUygZ7yGKfQaB6TxLh2gC6RRjzLtLAGJrhzV
+    platform: SOL
+crypto: true
+fiat: false
+id: PGX
+id_coinmarketcap: '37040'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37040.png
+logoKey: currencies/pgx.png
+name: Procter & Gamble tokenized stock (xStock)

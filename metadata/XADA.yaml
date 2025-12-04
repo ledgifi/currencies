@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x80af55941665ef143d967545a1fe0688f31939c1'
+    platform: OKB
+  - address: '0xB0c26970E9dAd9B5162FcAab1A5D13E604A6d9ac'
+    platform: TBA
+crypto: true
+fiat: false
+id: XADA
+id_coinmarketcap: '38286'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38286.png
+logoKey: currencies/xada.png
+name: xADA

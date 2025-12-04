@@ -1,0 +1,12 @@
+contracts:
+  - address: 6wQDzAZT17HYABu7rNXBDUSgNzDeGUUUzY2cS8wpEGAc
+    platform: SOL
+  - address: EQDc_nrm5oOVCVQM8GRJ5q_hr1jgpNQjsGkIGE-uztt26_Ep
+    platform: TON
+crypto: true
+fiat: false
+id: ECOR
+id_coinmarketcap: '36657'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36657.png
+logoKey: currencies/ecor.png
+name: Ecorpay Token

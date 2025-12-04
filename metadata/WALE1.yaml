@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x958270188099f75ef9d8b9ace7f457dac8094c284e83b5ee990cd9e163018538::wale::WALE
+    platform: SUI
+crypto: true
+fiat: false
+id: WALE1
+id_coinmarketcap: '36441'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36441.png
+logoKey: currencies/wale1.png
+name: Wale

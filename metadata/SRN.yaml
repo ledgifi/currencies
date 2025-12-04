@@ -1,0 +1,13 @@
+color: '#1c1c1c'
+contracts:
+  - address: '0xb2ffd1b3b48d6913d8d76062cae30708d2a16e62'
+    platform: BNB
+  - address: TGfJ7GoEHZovXM9SVHb5pkBDCj5d4sLKmw
+    platform: TRX
+crypto: true
+fiat: false
+id: SRN
+id_coinmarketcap: '35984'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35984.png
+logoKey: currencies/srn.png
+name: SILVERNOVA

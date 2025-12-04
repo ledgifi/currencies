@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xed9Ae3DEF8d6F052971Bb8b6d1975FF267Cf9aaD'
+    platform: BNB
+  - address: 0xf8bfaf1cfefdc539a00e0bc37213c8f339cb411a6b0c4c023ed92f36c68d0fb6::bluwhale_ai::BLUWHALE_AI
+    platform: SUI
+crypto: true
+fiat: false
+id: BLUAI
+id_coinmarketcap: '38717'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38717.png
+logoKey: currencies/bluai.png
+name: Bluwhale

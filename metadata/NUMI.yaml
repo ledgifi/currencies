@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x59234B44214D88C57B7c54A6D2633334D95C5161'
+    platform: AVAX
+  - address: '0xC61eb549Acf4A05Ed6e3Fe0966f5e213b23541cE'
+    platform: BNB
+  - address: '0xa29c9a740de8194e4016747e9a04a84946ada0a5'
+    platform: ETH
+crypto: true
+fiat: false
+id: NUMI
+id_coinmarketcap: '36227'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36227.png
+logoKey: currencies/numi.png
+name: NUMINE

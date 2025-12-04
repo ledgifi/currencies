@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xfcFdf8396B93db7862441b035B104A7974A7fC50'
+    platform: BNB
+  - address: '0xe8e06a5613dc86d459bc8fb989e173bb8b256072'
+    platform: ETH
+  - address: EQBgBNk08ebUtN4LlDDfIhSW4qOeLqb38foA1JRtqlccsD3T
+    platform: TON
+crypto: true
+fiat: false
+id: FEY
+id_coinmarketcap: '10361'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10361.png
+logoKey: currencies/fey.png
+name: Feyorra

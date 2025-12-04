@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x2363fd1235c1b6d3a5088ddf8df3a0b3a30c5293'
+    platform: ARB
+  - address: '0x2363fd1235c1b6d3a5088ddf8df3a0b3a30c5293'
+    platform: BNB
+  - address: XsqgsbXwWogGJsNcVZ3TyVouy2MbTkfCFhCGGGcQZ2p
+    platform: SOL
+crypto: true
+fiat: false
+id: VX
+id_coinmarketcap: '37046'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37046.png
+logoKey: currencies/vx.png
+name: Visa tokenized stock (xStock)

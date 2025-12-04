@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x4ff23cf2804e777c233890119b881cab7fd60652'
+    platform: ETH
+crypto: true
+fiat: false
+id: BABYETH
+id_coinmarketcap: '37981'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37981.png
+logoKey: currencies/babyeth.png
+name: Baby Ethereum

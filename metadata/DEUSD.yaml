@@ -1,0 +1,16 @@
+contracts:
+  - address: '0xb57b25851fe2311cc3fe511c8f10e868932e0680'
+    platform: AVAX
+  - address: '0x15700b564ca08d9439c58ca5053166e8317aa138'
+    platform: ETH
+  - address: '0x1271656f45e251f588847721ba2c561dd1f0223f'
+    platform: PLUME
+  - address: 0xf6b468748dced8435f4407d0ecb0457b921a2e89266a60862e36dbf243c71841::deusd::DEUSD
+    platform: SUI
+crypto: true
+fiat: false
+id: DEUSD
+id_coinmarketcap: '31024'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31024.png
+logoKey: currencies/deusd.png
+name: Elixir deUSD

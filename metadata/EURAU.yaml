@@ -1,0 +1,18 @@
+contracts:
+  - address: '0x4933A85b5b5466Fbaf179F72D3DE273c287EC2c2'
+    platform: ARB
+  - address: '0x4933A85b5b5466Fbaf179F72D3DE273c287EC2c2'
+    platform: ETH
+  - address: '0x4933A85b5b5466Fbaf179F72D3DE273c287EC2c2'
+    platform: OP
+  - address: '0x4933A85b5b5466Fbaf179F72D3DE273c287EC2c2'
+    platform: POL
+  - address: '0x4933A85b5b5466Fbaf179F72D3DE273c287EC2c2'
+    platform: TBA
+crypto: true
+fiat: false
+id: EURAU
+id_coinmarketcap: '37504'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37504.png
+logoKey: currencies/eurau.png
+name: AllUnity EUR

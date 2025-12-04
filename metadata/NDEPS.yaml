@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xc71104001a3ccda1bef1177d765831bd1bfe8ee6'
+    platform: ETH
+  - address: '0x9d74de101e2a54ad42198f37bdcce0a0160acacb'
+    platform: POL
+  - address: '0x5f674bf6d559229bdd29d642d2e0978f1e282722'
+    platform: TBA
+crypto: true
+fiat: false
+id: NDEPS
+id_coinmarketcap: '36289'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36289.png
+logoKey: currencies/ndeps.png
+name: Native Decentralized Euro Protocol Share

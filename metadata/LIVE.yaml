@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xdc9df5b6fb6a13ae1c9ff8b749cd5c95fbb060e1'
+    platform: BNB
+crypto: true
+fiat: false
+id: LIVE
+id_coinmarketcap: '16356'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16356.png
+logoKey: currencies/live.png
+name: SecondLive

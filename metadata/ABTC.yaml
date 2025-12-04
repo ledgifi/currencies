@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xe141f43C9022805E10B0a220a8dF4936184Ea6A4'
+    platform: ETH
+crypto: true
+fiat: false
+id: ABTC
+id_coinmarketcap: '38244'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38244.png
+logoKey: currencies/abtc.png
+name: American Bitcoin

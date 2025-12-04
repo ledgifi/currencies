@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x1104eb7e85e25eb45f88e638b0c27a06c1a91cb2'
+    platform: BNB
+  - address: '0x62cA254a363dc3c748e7E955c20447aB5bF06fF7'
+    platform: ETH
+crypto: true
+fiat: false
+id: IVVON
+id_coinmarketcap: '38051'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38051.png
+logoKey: currencies/ivvon.png
+name: iShares Core S&P 500 Tokenized ETF (Ondo)

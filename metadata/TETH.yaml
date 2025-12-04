@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xd09acb80c1e8f2291862c4978a008791c9167003'
+    platform: ARB
+  - address: '0xd11c452fc99cf405034ee446803b6f6c1f6d5ed8'
+    platform: ETH
+crypto: true
+fiat: false
+id: TETH
+id_coinmarketcap: '37574'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37574.png
+logoKey: currencies/teth.png
+name: Treehouse ETH

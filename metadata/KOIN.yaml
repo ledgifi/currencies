@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xa50ad3a559A10f384a5bB2e27516f63E0B937b1A'
+    platform: ETH
+  - address: 8AUxdPqYU4FBy5rZDhMJxTniPs7gtEfdHjP3UKM71m6G
+    platform: SOL
+crypto: true
+fiat: false
+id: KOIN
+id_coinmarketcap: '8282'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8282.png
+logoKey: currencies/koin.png
+name: Koinos

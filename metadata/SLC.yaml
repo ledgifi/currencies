@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x6Bd83ABC39391Af1E24826E90237C4BD3468b5D2'
+    platform: '-'
+  - address: '0x5c3126bfB9A68a7021d461230127470b3824886B'
+    platform: PEAQ
+  - address: '0x6Bd83ABC39391Af1E24826E90237C4BD3468b5D2'
+    platform: TBA
+crypto: true
+fiat: false
+id: SLC
+id_coinmarketcap: '35433'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35433.png
+logoKey: currencies/slc.png
+name: Silencio

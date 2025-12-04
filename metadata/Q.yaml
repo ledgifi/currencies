@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xc07e1300dc138601FA6B0b59f8D0FA477e690589'
+    platform: BNB
+  - address: '0xc07e1300dc138601FA6B0b59f8D0FA477e690589'
+    platform: ETH
+crypto: true
+fiat: false
+id: Q
+id_coinmarketcap: '38236'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38236.png
+logoKey: currencies/q.png
+name: Quack AI

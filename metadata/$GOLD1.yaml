@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xdbd1ed1fa8ba9eadaa38da012a4180a8f4af3f93'
+    platform: BNB
+crypto: true
+fiat: false
+id: $GOLD1
+id_coinmarketcap: '37188'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37188.png
+logoKey: currencies/$gold1.png
+name: $GOLD

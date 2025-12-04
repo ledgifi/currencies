@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xc8ef4398664b2eed5ee560544f659083d98a3888'
+    platform: BNB
+  - address: '0xc8EF4398664b2eeD5ee560544f659083d98A3888'
+    platform: ETH
+  - address: C8qKVjKNf6JH2yrVVf3aFyny6ZCbHCJUBXTQAT2Em888
+    platform: SOL
+crypto: true
+fiat: false
+id: CTM
+id_coinmarketcap: '37745'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37745.png
+logoKey: currencies/ctm.png
+name: c8ntinuum

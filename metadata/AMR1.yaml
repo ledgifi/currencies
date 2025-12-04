@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xc3618bb89840a68B593263c279F10dAf2E18112B'
+    platform: ARB
+  - address: '0xb6105976A7326Ec8C1dc6dd1b09A61729067eC96'
+    platform: BNB
+crypto: true
+fiat: false
+id: AMR1
+id_coinmarketcap: '36055'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36055.png
+logoKey: currencies/amr1.png
+name: Amero

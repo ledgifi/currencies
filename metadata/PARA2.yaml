@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x076ddce096c93dcf5d51fe346062bf0ba9523493'
+    platform: BNB
+  - address: '0x3a8d5BC8A8948b68DfC0Ce9C14aC4150e083518c'
+    platform: ETH
+crypto: true
+fiat: false
+id: PARA2
+id_coinmarketcap: '8298'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/8298.png
+logoKey: currencies/para2.png
+name: Paralink Network

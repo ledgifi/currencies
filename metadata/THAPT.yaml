@@ -1,0 +1,10 @@
+contracts:
+  - address: 0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6::staking::StakedThalaAPT
+    platform: APT
+crypto: true
+fiat: false
+id: THAPT
+id_coinmarketcap: '34435'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34435.png
+logoKey: currencies/thapt.png
+name: Thala APT

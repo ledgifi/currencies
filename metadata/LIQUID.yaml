@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x11DFC652eb62c723ad8c2ae731FcEdE58aB07564'
+    platform: ETH
+crypto: true
+fiat: false
+id: LIQUID
+id_coinmarketcap: '38446'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38446.png
+logoKey: currencies/liquid.png
+name: Liquid Agent

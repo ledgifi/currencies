@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xF8F331DFa811132c43C308757CD802ca982b7211'
+    platform: BNB
+crypto: true
+fiat: false
+id: MCH
+id_coinmarketcap: '38247'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38247.png
+logoKey: currencies/mch.png
+name: Moonchain

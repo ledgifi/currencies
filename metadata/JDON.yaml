@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xe92be960ae64f6a914ca77014cac9e56de7f36c1'
+    platform: BNB
+  - address: '0xdeB6B89088cA9B7d7756087c8a0F7C6DF46f319C'
+    platform: ETH
+crypto: true
+fiat: false
+id: JDON
+id_coinmarketcap: '38052'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38052.png
+logoKey: currencies/jdon.png
+name: JD.com Tokenized Stock (Ondo)

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x97e66D3C4d5bCd7c64e3e55Af28544C9ADdf9281'
+    platform: ARB
+  - address: '0x71FB1795b084ff2B65EAbf51CAd22Bbefd42ED5F'
+    platform: BNB
+crypto: true
+fiat: false
+id: CAPX
+id_coinmarketcap: '36557'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36557.png
+logoKey: currencies/capx.png
+name: Capx AI

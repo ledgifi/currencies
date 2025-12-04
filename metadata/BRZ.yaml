@@ -1,0 +1,44 @@
+contracts:
+  - address: '112866019'
+    platform: ALGO
+  - address: '0xa8940698fda5a07abaef4a5ccdf2f1bb525b47a2'
+    platform: ARB
+  - address: '0x05539F021b66Fd01d1FB1ff8E167CdD09bf7c2D0'
+    platform: AVAX
+  - address: '0x0295afd3D7E86068050d64509e515f2Db71b4914'
+    platform: BNB
+  - address: '0xE9185Ee218cae427aF7B9764A011bb89FeA761B4'
+    platform: CELO
+  - address: '0xE9185Ee218cae427aF7B9764A011bb89FeA761B4'
+    platform: CHZ
+  - address: '0x01d33FD36ec67c6Ada32cf36b31e88EE190B1839'
+    platform: ETH
+  - address: '0x3225edCe8aD30Ae282e62fa32e7418E4b9cf197b'
+    platform: GLMR
+  - address: '0x0a06c8354A6CC1a07549a38701eAc205942E3Ac6'
+    platform: GNO
+  - address: '0x05539F021b66Fd01d1FB1ff8E167CdD09bf7c2D0'
+    platform: MNT
+  - address: '0xE9185Ee218cae427aF7B9764A011bb89FeA761B4'
+    platform: OP
+  - address: '0x4eD141110F6EeeAbA9A1df36d8c26f684d2475Dc'
+    platform: POL
+  - address: '0x05539f021b66fd01d1fb1ff8e167cdd09bf7c2d0'
+    platform: RSK
+  - address: FtgGSFADXBtroxq8VCausXRr2of47QBf5AS1NtZCu4GD
+    platform: SOL
+  - address: '0xE9185Ee218cae427aF7B9764A011bb89FeA761B4'
+    platform: TBA
+  - address: TGastcpw5NHre1MAspBTzursyaLNWG85Qq
+    platform: TRX
+  - address: BRZ-GABMA6FPH3OJXNTGWO7PROF7I5WPQUZOB4BLTBTP4FK6QV7HWISLIEO2
+    platform: XLM
+  - address: BRZ.r4i4KNPm26RJqvqtx7HkG9Tc4u2uDBL9gg
+    platform: XRP
+crypto: true
+fiat: false
+id: BRZ
+id_coinmarketcap: '4139'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4139.png
+logoKey: currencies/brz.png
+name: Brazilian Digital Token

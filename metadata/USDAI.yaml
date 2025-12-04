@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef'
+    platform: ARB
+  - address: '0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef'
+    platform: XPL
+crypto: true
+fiat: false
+id: USDAI
+id_coinmarketcap: '38562'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38562.png
+logoKey: currencies/usdai.png
+name: USDai

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x79D464248516Bc6977cA2069ba15d8D1044479D8'
+    platform: ETH
+  - address: '0xcb9Fe0F506702e125843BCef0Fc8123a44bb11a7'
+    platform: TBA
+crypto: true
+fiat: false
+id: GPU1
+id_coinmarketcap: '36772'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36772.png
+logoKey: currencies/gpu1.png
+name: GPUnet

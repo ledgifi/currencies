@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x03183Ce31b1656B72A55fa6056e287f50C35BbEB'
+    platform: ARB
+  - address: '0x03183ce31b1656b72a55fa6056e287f50c35bbeb'
+    platform: BNB
+  - address: Xs5UJzmCRQ8DWZjskExdSQDnbE6iLkRu2jjrRAB1JSU
+    platform: SOL
+crypto: true
+fiat: false
+id: ACNX
+id_coinmarketcap: '37012'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37012.png
+logoKey: currencies/acnx.png
+name: Accenture tokenized stock (xStock)

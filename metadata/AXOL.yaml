@@ -1,0 +1,10 @@
+contracts:
+  - address: 0xf00eb7ab086967a33c04a853ad960e5c6b0955ef5a47d50b376d83856dc1215e::axol::AXOL
+    platform: SUI
+crypto: true
+fiat: false
+id: AXOL
+id_coinmarketcap: '33183'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33183.png
+logoKey: currencies/axol.png
+name: Axol

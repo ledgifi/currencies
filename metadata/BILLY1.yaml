@@ -1,0 +1,12 @@
+contracts:
+  - address: BILLIONDOLLARCAT
+    platform: BTC
+  - address: BDCs2xEqzXyRpp9P6uPDnAvERpLKBfzHPEzbe3BfCxDY
+    platform: SOL
+crypto: true
+fiat: false
+id: BILLY1
+id_coinmarketcap: '31668'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31668.png
+logoKey: currencies/billy1.png
+name: Billy (Bitcoin)

@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x593ccca4c4bf58b7526a4c164ceef4003c6388db'
+    platform: ETH
+crypto: true
+fiat: false
+id: NALPHA
+id_coinmarketcap: '37110'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37110.png
+logoKey: currencies/nalpha.png
+name: Nest Alpha Vault

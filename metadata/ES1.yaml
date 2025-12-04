@@ -1,0 +1,14 @@
+contracts:
+  - address: GnBAskb2SQjrLgpTjtgatz4hEugUsYV7XrWU1idV3oqW
+    platform: ES
+  - address: '0x6055Dc6Ff1077eebe5e6D2BA1a1f53d7Ef8430dE'
+    platform: ETH
+  - address: BqPqrrQuoQXFGGEAEMnPmDgZ6RWQCajWnY3V6Yp4DZWP
+    platform: SOL
+crypto: true
+fiat: false
+id: ES1
+id_coinmarketcap: '36174'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36174.png
+logoKey: currencies/es1.png
+name: Eclipse

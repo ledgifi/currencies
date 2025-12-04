@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x053C784cD87B74f42e0c089f98643E79c1A3ff16'
+    platform: ARB
+  - address: '0x053c784cd87b74f42e0c089f98643e79c1a3ff16'
+    platform: BNB
+  - address: Xsr3pdLQyXvDJBFgpR5nexCEZwXvigb8wbPYp4YoNFf
+    platform: SOL
+crypto: true
+fiat: false
+id: CSCOX
+id_coinmarketcap: '37032'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37032.png
+logoKey: currencies/cscox.png
+name: Cisco tokenized stock (xStock)

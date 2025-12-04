@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xdA7AD9dea9397cffdDAE2F8a052B82f1484252B3'
+    platform: BNB
+  - address: '0xdA7AD9dea9397cffdDAE2F8a052B82f1484252B3'
+    platform: ETH
+  - address: '0xdA7AD9dea9397cffdDAE2F8a052B82f1484252B3'
+    platform: TBA
+crypto: true
+fiat: false
+id: RIVER
+id_coinmarketcap: '38417'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38417.png
+logoKey: currencies/river.png
+name: River

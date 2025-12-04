@@ -1,0 +1,10 @@
+contracts:
+  - address: ibc/CE5BFF1D9BADA03BB5CCA5F56939392A761B53A10FBD03B37506669C3218D3B2
+    platform: OSMO
+crypto: true
+fiat: false
+id: HASH
+id_coinmarketcap: '19960'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19960.png
+logoKey: currencies/hash.png
+name: Provenance Blockchain

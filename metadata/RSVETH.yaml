@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xca9de1f80df74331c5fcb7eee2d05e746d47bfb2'
+    platform: ETH
+crypto: true
+fiat: false
+id: RSVETH
+id_coinmarketcap: '35983'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35983.png
+logoKey: currencies/rsveth.png
+name: Reddio Vault Ethereum

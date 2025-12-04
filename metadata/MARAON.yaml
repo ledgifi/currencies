@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x25ffda07f585c39848db6573e533d7585679c52d'
+    platform: BNB
+  - address: '0x4604b0b581269843ac7a6b70A5FC019E7762e511'
+    platform: ETH
+crypto: true
+fiat: false
+id: MARAON
+id_coinmarketcap: '38013'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38013.png
+logoKey: currencies/maraon.png
+name: MARA Holdings Tokenized Stock (Ondo)

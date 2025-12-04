@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x9a70815dfb644a24b57358e1041f8d0324c8f6e1'
+    platform: BNB
+  - address: boopkpWqe68MSxLqBGogs8ZbUDN4GXaLhFwNP7mpP1i
+    platform: SOL
+crypto: true
+fiat: false
+id: BOOP
+id_coinmarketcap: '36393'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36393.png
+logoKey: currencies/boop.png
+name: Boop

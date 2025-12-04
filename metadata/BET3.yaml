@@ -1,0 +1,12 @@
+contracts:
+  - address: BET-wax-betdividends
+    platform: A
+  - address: '0xfdd4e938bb067280a52ac4e02aaf1502cc882ba6'
+    platform: ETH
+crypto: true
+fiat: false
+id: BET3
+id_coinmarketcap: '5487'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5487.png
+logoKey: currencies/bet3.png
+name: EarnBet

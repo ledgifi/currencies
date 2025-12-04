@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x4da12f47578ef89c76179b760c778e70b668f80b'
+    platform: BNB
+  - address: '0xA9431d354cFAD3c6B76E50f0e73b43D48Be80CD0'
+    platform: ETH
+crypto: true
+fiat: false
+id: RDDTON
+id_coinmarketcap: '38053'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38053.png
+logoKey: currencies/rddton.png
+name: Reddit Tokenized Stock (Ondo)

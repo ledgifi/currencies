@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x214151022C2a5E380aB80CdaC31f23Ae554a7345'
+    platform: ARB
+  - address: '0x214151022c2a5e380ab80cdac31f23ae554a7345'
+    platform: BNB
+  - address: Xs7xXqkcK7K8urEqGg52SECi79dRp2cEKKuYjUePYDw
+    platform: SOL
+crypto: true
+fiat: false
+id: CRWDX
+id_coinmarketcap: '37035'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37035.png
+logoKey: currencies/crwdx.png
+name: CrowdStrike tokenized stock (xStock)

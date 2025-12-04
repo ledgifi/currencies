@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xde9d6036fca870f7efc5a82722ae694c371ac909'
+    platform: BNB
+  - address: '0x5Bcd8195E3Ef58f677aeF9eBC276B5087c027050'
+    platform: ETH
+crypto: true
+fiat: false
+id: UBERON
+id_coinmarketcap: '38069'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38069.png
+logoKey: currencies/uberon.png
+name: Uber Tokenized Stock (Ondo)

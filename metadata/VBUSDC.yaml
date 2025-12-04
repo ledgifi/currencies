@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x203a662b0bd271a6ed5a60edfbd04bfce608fd36'
+    platform: KAT
+crypto: true
+fiat: false
+id: VBUSDC
+id_coinmarketcap: '38911'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38911.png
+logoKey: currencies/vbusdc.png
+name: VaultBridge Bridged USDC (Katana)

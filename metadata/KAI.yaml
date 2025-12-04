@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xa891b374942cde9061e044c1d19c5b5de06a68e1'
+    platform: ARB
+  - address: '0x39ae8eefb05138f418bb27659c21632dc1ddab10'
+    platform: BNB
+crypto: true
+fiat: false
+id: KAI
+id_coinmarketcap: '5453'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5453.png
+logoKey: currencies/kai.png
+name: KaiChain

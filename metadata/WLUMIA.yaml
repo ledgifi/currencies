@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xE891B5EE2F52E312038710b761EC165792AD25B1'
+    platform: LUMIA
+crypto: true
+fiat: false
+id: WLUMIA
+id_coinmarketcap: '36752'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36752.png
+logoKey: currencies/wlumia.png
+name: Wrapped Lumia

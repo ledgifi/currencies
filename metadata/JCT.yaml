@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xea37a8de1de2d9d10772eeb569e28bfa5cb17707'
+    platform: BNB
+  - address: '0xC477B6dfd26EC2460b3b92de18837Fd476Ea7549'
+    platform: ETH
+crypto: true
+fiat: false
+id: JCT
+id_coinmarketcap: '38909'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38909.png
+logoKey: currencies/jct.png
+name: Janction

@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xabebed1684a789b3cf178db810f3cbb30cc14444'
+    platform: BNB
+crypto: true
+fiat: false
+id: SORA2
+id_coinmarketcap: '39007'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39007.png
+logoKey: currencies/sora2.png
+name: Sora Oracle

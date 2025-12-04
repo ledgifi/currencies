@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xB7C0007ab75350c582d5eAb1862b872B5cF53F0C'
+    platform: BNB
+crypto: true
+fiat: false
+id: PUMP1
+id_coinmarketcap: '36166'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36166.png
+logoKey: currencies/pump1.png
+name: PumpBTC (Governance token)

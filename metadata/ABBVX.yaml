@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xfbf2398df672cee4afcc2a4a733222331c742a6a'
+    platform: ARB
+  - address: '0xfbf2398df672cee4afcc2a4a733222331c742a6a'
+    platform: BNB
+  - address: XswbinNKyPmzTa5CskMbCPvMW6G5CMnZXZEeQSSQoie
+    platform: SOL
+crypto: true
+fiat: false
+id: ABBVX
+id_coinmarketcap: '37011'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37011.png
+logoKey: currencies/abbvx.png
+name: AbbVie tokenized stock (xStock)

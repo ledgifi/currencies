@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x43d0b380c33cd004a6a69abd61843881a2de4113'
+    platform: BNB
+  - address: '0x908266C1192628371Cff7AD2F5Eba4dE061a0ac5'
+    platform: ETH
+crypto: true
+fiat: false
+id: SHOPON
+id_coinmarketcap: '38026'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38026.png
+logoKey: currencies/shopon.png
+name: Shopify Tokenized Stock (Ondo)

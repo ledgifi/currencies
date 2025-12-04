@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62'
+    platform: KAT
+crypto: true
+fiat: false
+id: VBETH1
+id_coinmarketcap: '38910'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38910.png
+logoKey: currencies/vbeth1.png
+name: VaultBridge Bridged ETH (Katana)

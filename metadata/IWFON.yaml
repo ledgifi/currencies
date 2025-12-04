@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x40755f06ab7f8de1ab3a9413b1ef562d63de19b1'
+    platform: BNB
+  - address: '0x8d05432C2786e3F93f1a9A62b9572DBf54f3ea06'
+    platform: ETH
+crypto: true
+fiat: false
+id: IWFON
+id_coinmarketcap: '38022'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38022.png
+logoKey: currencies/iwfon.png
+name: iShares Russell 1000 Growth Tokenized ETF (Ondo)

@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xC7068FFf81F3a5B8C49CF6d35B3Bc524c3f045e9'
+    platform: ETH
+crypto: true
+fiat: false
+id: $MYST
+id_coinmarketcap: '35047'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35047.png
+logoKey: currencies/$myst.png
+name: MYST

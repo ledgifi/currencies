@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x364f210f430ec2448fc68a49203040f6124096f0'
+    platform: ARB
+  - address: '0x364f210f430ec2448fc68a49203040f6124096f0'
+    platform: BNB
+  - address: Xs7ZdzSHLU9ftNJsii5fCeJhoRWSC32SQGzGQtePxNu
+    platform: SOL
+crypto: true
+fiat: false
+id: COINX
+id_coinmarketcap: '36989'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36989.png
+logoKey: currencies/coinx.png
+name: Coinbase tokenized stock (xStock)

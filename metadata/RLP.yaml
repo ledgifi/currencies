@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x35e5db674d8e93a03d814fa0ada70731efe8a4b9'
+    platform: BNB
+  - address: '0x4956b52aE2fF65D74CA2d61207523288e4528f96'
+    platform: ETH
+  - address: '0xC31389794Ffac23331E0D9F611b7953f90AA5fDC'
+    platform: TBA
+crypto: true
+fiat: false
+id: RLP
+id_coinmarketcap: '37992'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37992.png
+logoKey: currencies/rlp.png
+name: Resolv Liquidity Pool

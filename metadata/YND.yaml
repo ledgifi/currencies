@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xDB8E54f39aff243B25A41e4747957eD517aF0511'
+    platform: BNB
+  - address: '0x7159cc276D7d17Ab4b3bEb19959E1F39368a45Ba'
+    platform: ETH
+crypto: true
+fiat: false
+id: YND
+id_coinmarketcap: '36663'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36663.png
+logoKey: currencies/ynd.png
+name: YieldNest

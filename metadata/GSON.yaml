@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x0d4f9b25f81163fb4840ba4f434672543823000c'
+    platform: BNB
+  - address: '0xdB57d9C14e357Fc01E49035a808779Df41E9B4e2'
+    platform: ETH
+crypto: true
+fiat: false
+id: GSON
+id_coinmarketcap: '38038'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38038.png
+logoKey: currencies/gson.png
+name: Goldman Sachs Tokenized Stock (Ondo)

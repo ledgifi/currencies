@@ -1,0 +1,10 @@
+contracts:
+  - address: BOS-eos-eosio.token
+    platform: A
+crypto: true
+fiat: false
+id: BOS3
+id_coinmarketcap: '4629'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4629.png
+logoKey: currencies/bos3.png
+name: BOSCore

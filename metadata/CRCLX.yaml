@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xfebded1b0986a8ee107f5ab1a1c5a813491deceb'
+    platform: ARB
+  - address: '0xfebded1b0986a8ee107f5ab1a1c5a813491deceb'
+    platform: BNB
+  - address: XsueG8BtpquVJX9LVLLEGuViXUungE6WmK5YZ3p3bd1
+    platform: SOL
+crypto: true
+fiat: false
+id: CRCLX
+id_coinmarketcap: '37005'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37005.png
+logoKey: currencies/crclx.png
+name: Circle tokenized stock (xStock)

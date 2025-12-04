@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xEcf99aB23C11ddc6520252105308C251001AEfBB'
+    platform: BNB
+  - address: 9V4iZc2VcbbbLAwK8Do9YQXRK5ZJ3DEz4EEgaN4nDuns
+    platform: SOL
+crypto: true
+fiat: false
+id: UNS
+id_coinmarketcap: '23081'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23081.png
+logoKey: currencies/uns.png
+name: UNS TOKEN

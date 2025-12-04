@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x0256B279D973C8d687264AC3eB36bE09232D4474'
+    platform: AVAX
+  - address: '0x3d5F61a4BB385B6D1eB34F47aA790A996f1Eba65'
+    platform: ETH
+crypto: true
+fiat: false
+id: MYST2
+id_coinmarketcap: '38843'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38843.png
+logoKey: currencies/myst2.png
+name: MyStandard

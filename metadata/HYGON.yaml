@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x0dae81a905b645a3d1e67129b89cd0acda224e9a'
+    platform: BNB
+  - address: '0xeD3618Bb8778F8eBBe2f241Da532227591771D04'
+    platform: ETH
+crypto: true
+fiat: false
+id: HYGON
+id_coinmarketcap: '38088'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38088.png
+logoKey: currencies/hygon.png
+name: iBoxx $ High Yield Corporate Bond Tokenized ETF (Ondo)

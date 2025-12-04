@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x3c7eDe4372ca768C0fcB4eB78113cFEC71E34fD0'
+    platform: BNB
+  - address: '0x8Abd1ACa182C18397c2069c0517d19C769A29816'
+    platform: ETH
+crypto: true
+fiat: false
+id: USDX4
+id_coinmarketcap: '38508'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38508.png
+logoKey: currencies/usdx4.png
+name: USD X20

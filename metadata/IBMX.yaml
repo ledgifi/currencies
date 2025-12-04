@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xd9913208647671fe0f48f7f260076b2c6f310aac'
+    platform: ARB
+  - address: '0xd9913208647671fe0f48f7f260076b2c6f310aac'
+    platform: BNB
+  - address: XspwhyYPdWVM8XBHZnpS9hgyag9MKjLRyE3tVfmCbSr
+    platform: SOL
+crypto: true
+fiat: false
+id: IBMX
+id_coinmarketcap: '37029'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37029.png
+logoKey: currencies/ibmx.png
+name: International Business Machines tokenized stock (xStock)

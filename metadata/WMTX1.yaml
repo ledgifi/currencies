@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x7aefc9965699fbea943e03264d96e50cd4a97b21'
+    platform: ARB
+  - address: '0x7aefc9965699fbea943e03264d96e50cd4a97b21'
+    platform: BNB
+  - address: Xs151QeqTCiuKtinzfRATnUESM2xTU6V9Wy8Vy538ci
+    platform: SOL
+crypto: true
+fiat: false
+id: WMTX1
+id_coinmarketcap: '37048'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37048.png
+logoKey: currencies/wmtx1.png
+name: Walmart tokenized stock (xStock)

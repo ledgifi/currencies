@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xc19d38925f9f645337b1d1f37baf3c0647a48e50'
+    platform: BNB
+  - address: '0xC19D38925F9F645337B1D1f37bAf3C0647A48E50'
+    platform: ETH
+crypto: true
+fiat: false
+id: GAIB
+id_coinmarketcap: '38946'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38946.png
+logoKey: currencies/gaib.png
+name: GAIB

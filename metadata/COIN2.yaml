@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x169Bb9F7474C1FfeEe711b76Be3e42ABe10c81C6'
+    platform: '-'
+  - address: '0x169Bb9F7474C1FfeEe711b76Be3e42ABe10c81C6'
+    platform: TBA
+crypto: true
+fiat: false
+id: COIN2
+id_coinmarketcap: '36936'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36936.png
+logoKey: currencies/coin2.png
+name: '[Fake] Wrapped COINBASE'

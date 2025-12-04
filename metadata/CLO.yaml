@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x81D3A238b02827F62B9f390f947D36d4A5bf89D2'
+    platform: BNB
+  - address: '0x81D3A238b02827F62B9f390f947D36d4A5bf89D2'
+    platform: SEI
+crypto: true
+fiat: false
+id: CLO
+id_coinmarketcap: '38634'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38634.png
+logoKey: currencies/clo.png
+name: Yei Finance

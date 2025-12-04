@@ -1,0 +1,16 @@
+contracts:
+  - address: '0x6EF2FFB38D64aFE18ce782DA280b300e358CFeAF'
+    platform: BNB
+  - address: '0x216b3643ff8b7bb30d8a48e9f1bd550126202add'
+    platform: ETH
+  - address: '0x165bcb970836F83c15b22c3c1622279d97A20446'
+    platform: PEAQ
+  - address: '0xc5fEd7c8cCC75D8A72b601a66DffD7A489073F0b'
+    platform: TBA
+crypto: true
+fiat: false
+id: ACU3
+id_coinmarketcap: '36492'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36492.png
+logoKey: currencies/acu3.png
+name: Acurast

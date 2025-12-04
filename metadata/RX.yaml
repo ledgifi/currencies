@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x5b1E769E74Fd7E532A48261AB42Ee906f0090556'
+    platform: ETH
+  - address: '0x5b1E769E74Fd7E532A48261AB42Ee906f0090556'
+    platform: TBA
+crypto: true
+fiat: false
+id: RX
+id_coinmarketcap: '36092'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36092.png
+logoKey: currencies/rx.png
+name: RealtyX

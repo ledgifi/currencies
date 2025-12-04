@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xb78cf9ac0f47f1d69cba861deda29814d285c834'
+    platform: POL
+  - address: 4ybjc4C7eC3NDD6BQc3ogJ4oHWzKubv5kLw88qMcB2x4
+    platform: SOL
+crypto: true
+fiat: false
+id: BEAT2
+id_coinmarketcap: '21020'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/21020.png
+logoKey: currencies/beat2.png
+name: MetaBeat

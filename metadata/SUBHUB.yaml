@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x9EFdAE4D959365349Fcd7c7EaE1f38DdCb25068c'
+    platform: BNB
+  - address: '0x9efdae4d959365349fcd7c7eae1f38ddcb25068c'
+    platform: TBA
+crypto: true
+fiat: false
+id: SUBHUB
+id_coinmarketcap: '38684'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38684.png
+logoKey: currencies/subhub.png
+name: SubHub

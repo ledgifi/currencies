@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xad5cdc3340904285B8159089974A99a1A09EB4C0'
+    platform: ARB
+  - address: '0xad5cdc3340904285b8159089974a99a1a09eb4c0'
+    platform: BNB
+  - address: XsNNMt7WTNA2sV3jrb1NNfNgapxRF5i4i6GcnTRRHts
+    platform: SOL
+crypto: true
+fiat: false
+id: CVXX
+id_coinmarketcap: '37022'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37022.png
+logoKey: currencies/cvxx.png
+name: Chevron tokenized stock (xStock)

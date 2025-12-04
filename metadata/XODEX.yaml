@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xb81408a1cC2f4be70a6a3178D351ca95A77C5A06'
+    platform: BNB
+  - address: '0xb81408a1cC2f4be70a6a3178D351ca95A77C5A06'
+    platform: ETH
+crypto: true
+fiat: false
+id: XODEX
+id_coinmarketcap: '19932'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19932.png
+logoKey: currencies/xodex.png
+name: XODEX

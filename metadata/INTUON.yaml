@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x6e3e077a6c0e3c27fd6d00b97387d9b7bd451bab'
+    platform: BNB
+  - address: '0x6cc0afD51CE4Cb6920B775F3D6376Ab82b9A93Bb'
+    platform: ETH
+crypto: true
+fiat: false
+id: INTUON
+id_coinmarketcap: '38079'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38079.png
+logoKey: currencies/intuon.png
+name: Intuit Tokenized Stock (Ondo)

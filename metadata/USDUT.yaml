@@ -1,0 +1,10 @@
+contracts:
+  - address: 3vz82EWYv8xnc7Cm7qSgERcpMeqw92PcX8PBz88npump
+    platform: SOL
+crypto: true
+fiat: false
+id: USDUT
+id_coinmarketcap: '38310'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38310.png
+logoKey: currencies/usdut.png
+name: Unstable Tether

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x43ad1bd4c08e024f9f17acff5719a8da8e3689f1'
+    platform: BNB
+  - address: '0xf9a3e803ed270cf0ca6cd76ea40b8cc8562cf93f'
+    platform: POL
+crypto: true
+fiat: false
+id: IRC
+id_coinmarketcap: '26908'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26908.png
+logoKey: currencies/irc.png
+name: IRIS Chain

@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x2f9a35ab5ddfbc49927bfdeab98a86c53dc6e763'
+    platform: ARB
+  - address: '0x2f9a35ab5ddfbc49927bfdeab98a86c53dc6e763'
+    platform: BNB
+  - address: XsaQTCgebC2KPbf27KUhdv5JFvHhQ4GDAPURwrEhAzb
+    platform: SOL
+crypto: true
+fiat: false
+id: AMBRX
+id_coinmarketcap: '37015'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37015.png
+logoKey: currencies/ambrx.png
+name: Amber tokenized stock (xStock)

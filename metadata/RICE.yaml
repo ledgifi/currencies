@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xb5761f36fdfe2892f1b54bc8ee8babb2a1b698d3'
+    platform: BNB
+  - address: '0x1190fb50226b54958e284bd674eff346936af885'
+    platform: PEAQ
+crypto: true
+fiat: false
+id: RICE
+id_coinmarketcap: '37596'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37596.png
+logoKey: currencies/rice.png
+name: RICE AI

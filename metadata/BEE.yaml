@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x1f1bA52c445755C92caFFe7B608B87dCDAf9d825'
+    platform: '-'
+  - address: '0xDB6f1F098B55E36B036603c8e54663a8D907D6E1'
+    platform: BNB
+  - address: '0x1f1bA52c445755C92caFFe7B608B87dCDAf9d825'
+    platform: TBA
+crypto: true
+fiat: false
+id: BEE
+id_coinmarketcap: '36846'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36846.png
+logoKey: currencies/bee.png
+name: DAOBase

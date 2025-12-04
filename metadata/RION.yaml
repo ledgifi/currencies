@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x435ad41e7b383cef98899c4e5a22c8dc88ab67b22f95e5663d6c6649298c3a9d'
+    platform: APT
+  - address: '0xc0c240c870606a5cb3150795e2d0dfff9f1f7456'
+    platform: BNB
+crypto: true
+fiat: false
+id: RION
+id_coinmarketcap: '37344'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37344.png
+logoKey: currencies/rion.png
+name: Hyperion

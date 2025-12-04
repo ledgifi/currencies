@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x360ee0225CD8ABF0aDf1F97f4c0f4079a4BF41ec'
+    platform: ETH
+  - address: '0x360ee0225CD8ABF0aDf1F97f4c0f4079a4BF41ec'
+    platform: TBA
+crypto: true
+fiat: false
+id: CAI7
+id_coinmarketcap: '36688'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36688.png
+logoKey: currencies/cai7.png
+name: Catalyse AI

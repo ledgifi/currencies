@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x0588e851ec0418d660bee81230d6c678daf21d46'
+    platform: ARB
+  - address: '0x0588e851ec0418d660bee81230d6c678daf21d46'
+    platform: BNB
+  - address: XsDgw22qRLTv5Uwuzn6T63cW69exG41T6gwQhEK22u2
+    platform: SOL
+crypto: true
+fiat: false
+id: MDTX
+id_coinmarketcap: '37053'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37053.png
+logoKey: currencies/mdtx.png
+name: Medtronic tokenized stock (xStock)

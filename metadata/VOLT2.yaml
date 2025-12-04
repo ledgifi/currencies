@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x692b16ca3fbfd78147ec07f377b6e5c482cb3e42'
+    platform: ETH
+crypto: true
+fiat: false
+id: VOLT2
+id_coinmarketcap: '38304'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38304.png
+logoKey: currencies/volt2.png
+name: VoltCoin

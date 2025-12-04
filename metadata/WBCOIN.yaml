@@ -1,0 +1,20 @@
+contracts:
+  - address: '0xdec933e2392ad908263e70a386fbf34e703ffe8f'
+    platform: '-'
+  - address: '0xdec933e2392ad908263e70a386fbf34e703ffe8f'
+    platform: AVAX
+  - address: '0xdec933e2392ad908263e70a386fbf34e703ffe8f'
+    platform: ETH
+  - address: '0xdec933e2392ad908263e70a386fbf34e703ffe8f'
+    platform: GNO
+  - address: '0xdec933e2392ad908263e70a386fbf34e703ffe8f'
+    platform: POL
+  - address: '0xdec933e2392ad908263e70a386fbf34e703ffe8f'
+    platform: TBA
+crypto: true
+fiat: false
+id: WBCOIN
+id_coinmarketcap: '37066'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37066.png
+logoKey: currencies/wbcoin.png
+name: Wrapped Coinbase Global tokenized stock (Backed)

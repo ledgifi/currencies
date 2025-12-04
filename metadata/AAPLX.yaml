@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x9d275685dc284c8eb1c79f6aba7a63dc75ec890a'
+    platform: ARB
+  - address: '0x9d275685dc284c8eb1c79f6aba7a63dc75ec890a'
+    platform: BNB
+  - address: XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp
+    platform: SOL
+crypto: true
+fiat: false
+id: AAPLX
+id_coinmarketcap: '36994'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36994.png
+logoKey: currencies/aaplx.png
+name: Apple tokenized stock (xStock)

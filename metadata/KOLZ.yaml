@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x288741b45AD4042f7b124E38b53cEc5E9ccA0376'
+    platform: ETH
+  - address: '0x50CE4129Ca261CCDe4EB100c170843c2936Bc11b'
+    platform: TBA
+crypto: true
+fiat: false
+id: KOLZ
+id_coinmarketcap: '34067'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34067.png
+logoKey: currencies/kolz.png
+name: KOLZ

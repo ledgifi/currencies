@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x4d9e23a3842fe7eb7682b9725cf6c507c424a41b'
+    platform: ETH
+crypto: true
+fiat: false
+id: CAR2
+id_coinmarketcap: '2888'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/2888.png
+logoKey: currencies/car2.png
+name: CarBlock

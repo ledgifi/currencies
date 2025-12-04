@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x17EAfd08994305D8AcE37EfB82F1523177eC70EE'
+    platform: BNB
+crypto: true
+fiat: false
+id: USDA
+id_coinmarketcap: '37721'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37721.png
+logoKey: currencies/usda.png
+name: USDA

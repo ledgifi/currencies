@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xc497BFc3ef5104272a9b4cCfFf6acc51e62DcB9c'
+    platform: ETH
+crypto: true
+fiat: false
+id: $SILVER
+id_coinmarketcap: '39032'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39032.png
+logoKey: currencies/$silver.png
+name: SILVER

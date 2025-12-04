@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xc3d2c4baa028c9758f4262feaf9d5a539a643570'
+    platform: ETH
+crypto: true
+fiat: false
+id: DEPLOY
+id_coinmarketcap: '38300'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38300.png
+logoKey: currencies/deploy.png
+name: Deploy

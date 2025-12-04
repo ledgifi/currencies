@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x7bbcf1b600565ae023a1806ef637af4739de3255'
+    platform: ARB
+  - address: '0x7bbcf1b600565ae023a1806ef637af4739de3255'
+    platform: ETH
+  - address: '0x7bbcf1b600565ae023a1806ef637af4739de3255'
+    platform: TBA
+crypto: true
+fiat: false
+id: PRNT
+id_coinmarketcap: '36727'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36727.png
+logoKey: currencies/prnt.png
+name: Prime Numbers Labs Ecosystem (new)

@@ -1,0 +1,12 @@
+contracts:
+  - address: ibc/613BF0BF2F2146AE9941E923725745E931676B2C14E9768CD609FA0849B2AE13
+    platform: OSMO
+  - address: '0xad13bce42394add02e6c215a40e582309b7975c7'
+    platform: TBA
+crypto: true
+fiat: false
+id: KYVE
+id_coinmarketcap: '27766'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27766.png
+logoKey: currencies/kyve.png
+name: KYVE Network

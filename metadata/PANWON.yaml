@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x0eaa1a75bd682a5669ab2371a559fbd039c6b9eb'
+    platform: BNB
+  - address: '0x34bfdFF25F0fdA6d3ad0c33F1e06c0D40bD68885'
+    platform: ETH
+crypto: true
+fiat: false
+id: PANWON
+id_coinmarketcap: '38061'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38061.png
+logoKey: currencies/panwon.png
+name: Palo Alto Networks Tokenized Stock (Ondo)

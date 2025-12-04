@@ -1,0 +1,18 @@
+contracts:
+  - address: '0xde5ed76e7c05ec5e4572cfc88d1acea165109e44'
+    platform: BNB
+  - address: '0xde5ed76e7c05ec5e4572cfc88d1acea165109e44'
+    platform: ETH
+  - address: '0xde55b113a27cc0c5893caa6ee1c020b6b46650c0'
+    platform: FTM
+  - address: '0xde5ed76e7c05ec5e4572cfc88d1acea165109e44'
+    platform: POL
+  - address: '0xde5ed76e7c05ec5e4572cfc88d1acea165109e44'
+    platform: TBA
+crypto: true
+fiat: false
+id: DEUS
+id_coinmarketcap: '12972'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/12972.png
+logoKey: currencies/deus.png
+name: DEUS Finance

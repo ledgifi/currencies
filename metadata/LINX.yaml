@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x15059c599c16fd8f70b633ade165502d6402cd49'
+    platform: ARB
+  - address: '0x15059c599c16fd8f70b633ade165502d6402cd49'
+    platform: BNB
+  - address: XsSr8anD1hkvNMu8XQiVcmiaTP7XGvYu7Q58LdmtE8Z
+    platform: SOL
+crypto: true
+fiat: false
+id: LINX
+id_coinmarketcap: '37049'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37049.png
+logoKey: currencies/linx.png
+name: Linde tokenized stock (xStock)

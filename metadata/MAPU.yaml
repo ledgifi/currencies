@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xe4b8e9920B86E603D99AfAA0c0D1B9C7Ab0195A1'
+    platform: ETH
+  - address: '0x972a20c075c39ec84ad503b09c3c376506611176'
+    platform: POL
+crypto: true
+fiat: false
+id: MAPU
+id_coinmarketcap: '37620'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37620.png
+logoKey: currencies/mapu.png
+name: MatchAwards Platform Utility Token

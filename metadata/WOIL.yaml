@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xdaa17d35639a76e920f4a51d7fbbf118c1cac4f1'
+    platform: BNB
+  - address: '0x3Fca4992b704b0c0e1CE0c654B8a57f6AaA4fc4F'
+    platform: ZEDX
+crypto: true
+fiat: false
+id: WOIL
+id_coinmarketcap: '38343'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38343.png
+logoKey: currencies/woil.png
+name: Wrapped OIL

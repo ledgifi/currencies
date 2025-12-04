@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x00c81d35eddf44c75d4db9e07bdcdc236eb0ebcf'
+    platform: BNB
+  - address: '0x77A1a02e4a888ADA8620b93C30dE8a41E621126c'
+    platform: ETH
+crypto: true
+fiat: false
+id: EEMON
+id_coinmarketcap: '38033'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38033.png
+logoKey: currencies/eemon.png
+name: iShares MSCI Emerging Markets Tokenized ETF (Ondo)

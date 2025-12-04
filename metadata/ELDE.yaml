@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x799a290f9cc4085a0ce5b42b5f2c30193a7a872b'
+    platform: BNB
+  - address: '0x8755d2e532b1559454689bf0e8964bd78b187ff6'
+    platform: KAIA
+crypto: true
+fiat: false
+id: ELDE
+id_coinmarketcap: '36379'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36379.png
+logoKey: currencies/elde.png
+name: Elderglade

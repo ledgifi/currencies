@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x6EE2f71049DDE9a93B7c0EE1091b72aCf9b46810'
+    platform: ETH
+  - address: '0x8923947EAfaf4aD68F1f0C9eb5463eC876D79058'
+    platform: TBA
+crypto: true
+fiat: false
+id: MERC
+id_coinmarketcap: '38503'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38503.png
+logoKey: currencies/merc.png
+name: Liquid Mercury

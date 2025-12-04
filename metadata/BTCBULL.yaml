@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xc3f822e94c321dD3Ee53ca46B78098ea79b7ec8d'
+    platform: ETH
+crypto: true
+fiat: false
+id: BTCBULL
+id_coinmarketcap: '37294'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37294.png
+logoKey: currencies/btcbull.png
+name: Bitcoin Bull

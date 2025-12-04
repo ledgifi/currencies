@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x11cf6bf6d87cb0eb9c294fd6cbfec91ee3a1a7d0'
+    platform: BNB
+  - address: '0x8D33F0Ae6d111212D9d64B0821c7Cf09E6270C27'
+    platform: ETH
+crypto: true
+fiat: false
+id: FOREST
+id_coinmarketcap: '38237'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38237.png
+logoKey: currencies/forest.png
+name: Forest Protocol

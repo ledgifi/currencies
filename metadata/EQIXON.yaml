@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xe4e12c9cec3e8cae405202a97f66afa695075fa0'
+    platform: BNB
+  - address: '0x73d2ccEE12C120E7DA265a2dE9d9f952a0101b4f'
+    platform: ETH
+crypto: true
+fiat: false
+id: EQIXON
+id_coinmarketcap: '38047'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38047.png
+logoKey: currencies/eqixon.png
+name: Equinix Tokenized Stock (Ondo)

@@ -1,0 +1,10 @@
+contracts:
+  - address: 0xc26a8eda1c3ab69a157815183ddda88c89d6758ee491dd1647a70af2907ce074::coin::Chewy
+    platform: APT
+crypto: true
+fiat: false
+id: CHEWY
+id_coinmarketcap: '30840'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30840.png
+logoKey: currencies/chewy.png
+name: Chewy

@@ -1,0 +1,12 @@
+contracts:
+  - address: CmRWGQAdDgDb7dPyDqUZNagLg2s4hn9tUeEiyFfiQgjZ
+    platform: SOL
+  - address: 0x3599429d66965021f6ce08a997e81bb3c1f2c1b9a8fbb19953e26f5dc55e91ef::suidepin::SUIDEPIN
+    platform: SUI
+crypto: true
+fiat: false
+id: SUIDEPIN
+id_coinmarketcap: '35187'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35187.png
+logoKey: currencies/suidepin.png
+name: Sui DePIN

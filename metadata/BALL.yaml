@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x393Bf304dD474f48210f5cE741F19A2a851703Ca'
+    platform: ETH
+  - address: 3wtnog8YQ4zoY13p8tqwgL9GWz2fxNyQQVJY2kSok7au
+    platform: SOL
+crypto: true
+fiat: false
+id: BALL
+id_coinmarketcap: '32586'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32586.png
+logoKey: currencies/ball.png
+name: Game 5 BALL

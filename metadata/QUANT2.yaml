@@ -1,0 +1,10 @@
+contracts:
+  - address: 0xafca9a55f5e545083d1af063248b17ef82d02f33a47b01fc7b0a26538d2e873e::quant::QUANT
+    platform: SUI
+crypto: true
+fiat: false
+id: QUANT2
+id_coinmarketcap: '35098'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35098.png
+logoKey: currencies/quant2.png
+name: Quantimodo

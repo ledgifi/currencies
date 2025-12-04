@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xD370eeB6250b2a1173D9F2BAf8AA410f1146c490'
+    platform: BNB
+crypto: true
+fiat: false
+id: BNBCAKE
+id_coinmarketcap: '38479'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38479.png
+logoKey: currencies/bnbcake.png
+name: BNBCakeCoin

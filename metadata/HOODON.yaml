@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x19601179a60f55ff6636f5d1a8b6671053bd60a8'
+    platform: BNB
+  - address: '0x998f02A9E343EF6E3E6f28700d5A20F839fD74E6'
+    platform: ETH
+crypto: true
+fiat: false
+id: HOODON
+id_coinmarketcap: '38004'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38004.png
+logoKey: currencies/hoodon.png
+name: Robinhood Markets Tokenized Stock (Ondo)

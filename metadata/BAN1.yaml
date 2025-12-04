@@ -1,0 +1,18 @@
+contracts:
+  - address: '0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034'
+    platform: ARB
+  - address: '0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034'
+    platform: BNB
+  - address: '0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034'
+    platform: ETH
+  - address: '0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034'
+    platform: FTM
+  - address: '0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034'
+    platform: POL
+crypto: true
+fiat: false
+id: BAN1
+id_coinmarketcap: '4704'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4704.png
+logoKey: currencies/ban1.png
+name: Banano

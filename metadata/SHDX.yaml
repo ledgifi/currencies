@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xe550bde2f0898552b38a41635d7a8ddb1fd81276'
+    platform: SHIDO
+crypto: true
+fiat: false
+id: SHDX
+id_coinmarketcap: '35960'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35960.png
+logoKey: currencies/shdx.png
+name: Shido DEX

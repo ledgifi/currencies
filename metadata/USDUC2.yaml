@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x49e9e71fda1d3e2f92f90306d3cb01cc02026bce'
+    platform: ETH
+crypto: true
+fiat: false
+id: USDUC2
+id_coinmarketcap: '38228'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38228.png
+logoKey: currencies/usduc2.png
+name: unstable coin (usduc.world)

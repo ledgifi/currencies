@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x4553cfe1c09f37f38b12dc509f676964e392f8fc'
+    platform: BNB
+  - address: '0xbb8774FB97436d23d74C1b882E8E9A69322cFD31'
+    platform: ETH
+crypto: true
+fiat: false
+id: AMZNON
+id_coinmarketcap: '38083'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38083.png
+logoKey: currencies/amznon.png
+name: Amazon Tokenized Stock (Ondo)

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xf21132a811ad1a878e21af60f64d4e690c9daa42'
+    platform: BNB
+  - address: '0x57270D35A840BC5C094da6FBeCA033FB71eA6Ab0'
+    platform: ETH
+crypto: true
+fiat: false
+id: BAON
+id_coinmarketcap: '38091'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38091.png
+logoKey: currencies/baon.png
+name: Boeing Tokenized Stock (Ondo)

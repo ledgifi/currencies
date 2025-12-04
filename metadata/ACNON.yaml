@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x7af44d51d1fb88c5b74fc71d3cba649bb8099d14'
+    platform: BNB
+  - address: '0xAbA9Ae731Aad63335C604E5f6E6A5db2e05f549d'
+    platform: ETH
+crypto: true
+fiat: false
+id: ACNON
+id_coinmarketcap: '38064'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38064.png
+logoKey: currencies/acnon.png
+name: Accenture Tokenized Stock (Ondo)
