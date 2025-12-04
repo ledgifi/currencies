@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x27D8De4c30ffDE34e982482AE504fC7F23061f61'
-    platform: ARB
+  - address: 0x35169bc93e1fddfcf3a82a9eae726d349689ed59e4b065369af8789fe59f8608::mmt::MMT
+    platform: SUI
 crypto: true
+decimals: 8
 fiat: false
 id: MMT
-id_coinmarketcap: '23627'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23627.png
+id_binance: '1658'
+id_coinmarketcap: '38231'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38231.png
 logoKey: currencies/mmt.png
-name: MyMetaTrader
+name: Momentum

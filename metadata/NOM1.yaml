@@ -1,0 +1,10 @@
+contracts:
+  - address: ibc/B9606D347599F0F2FDF82BA3EE339000673B7D274EA50F59494DC51EFCD42163
+    platform: OSMO
+crypto: true
+fiat: false
+id: NOM1
+id_coinmarketcap: '10687'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10687.png
+logoKey: currencies/nom1.png
+name: Onomy Protocol

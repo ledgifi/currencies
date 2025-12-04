@@ -2,8 +2,10 @@ contracts:
   - address: '0x405FBc9004D857903bFD6b3357792D71a50726b0'
     platform: BNB
 crypto: true
+decimals: 8
 fiat: false
 id: XPL
+id_binance: '1621'
 id_coinmarketcap: '36645'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36645.png
 logoKey: currencies/xpl.png

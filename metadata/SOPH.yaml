@@ -1,16 +1,20 @@
 contracts:
-  - address: '0x73fbd93bfda83b111ddc092aa3a4ca77fd30d380'
+  - address: '0x31DbA3c96481FDe3CD81C2aaF51F2D8bf618C742'
+    platform: ARB
+  - address: '0x31DbA3c96481FDe3CD81C2aaF51F2D8bf618C742'
     platform: BNB
-  - address: '0x73fbd93bfda83b111ddc092aa3a4ca77fd30d380'
+  - address: '0x6B7774CB12ed7573a7586E7D0e62a2A563dDd3f0'
     platform: ETH
-  - address: '0x73fbd93bfda83b111ddc092aa3a4ca77fd30d380'
+  - address: '0xEb971Fd26783f32694dbB392dD7289de23109148'
     platform: POL
-  - address: '0x73fbd93bfda83b111ddc092aa3a4ca77fd30d380'
+  - address: '0x31DbA3c96481FDe3CD81C2aaF51F2D8bf618C742'
     platform: TBA
 crypto: true
+decimals: 8
 fiat: false
 id: SOPH
-id_coinmarketcap: '27486'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27486.png
+id_binance: '1499'
+id_coinmarketcap: '32087'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32087.png
 logoKey: currencies/soph.png
-name: SophiaVerse
+name: Sophon

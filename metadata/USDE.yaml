@@ -20,8 +20,10 @@ contracts:
   - address: '0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34'
     platform: TBA
 crypto: true
+decimals: 8
 fiat: false
 id: USDE
+id_binance: '1602'
 id_coinmarketcap: '29470'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29470.png
 logoKey: currencies/usde.png

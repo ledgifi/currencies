@@ -1,10 +1,16 @@
 contracts:
-  - address: '0x1bD013bD089C2B6b2D30a0e0B545810a5844E761'
-    platform: ARB
+  - address: '0x4bfaa776991e85e5f8b1255461cbbd216cfc714f'
+    platform: BNB
+  - address: J3umBWqhSjd13sag1E1aUojViWvPYA5dFNyqpKuX3WXj
+    platform: SOL
+  - address: '0x4bfaa776991e85e5f8b1255461cbbd216cfc714f'
+    platform: TBA
 crypto: true
+decimals: 8
 fiat: false
 id: HOME
-id_coinmarketcap: '26959'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/26959.png
+id_binance: '1533'
+id_coinmarketcap: '36133'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36133.png
 logoKey: currencies/home.png
-name: OtterHome
+name: Defi App

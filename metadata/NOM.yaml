@@ -1,10 +1,12 @@
 contracts:
-  - address: ibc/B9606D347599F0F2FDF82BA3EE339000673B7D274EA50F59494DC51EFCD42163
-    platform: OSMO
+  - address: '0x6e6F6d696e61decd6605bD4a57836c5DB6923340'
+    platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: NOM
-id_coinmarketcap: '10687'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10687.png
+id_binance: '1623'
+id_coinmarketcap: '38464'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38464.png
 logoKey: currencies/nom.png
-name: Onomy Protocol
+name: Nomina

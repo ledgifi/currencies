@@ -4,8 +4,10 @@ contracts:
   - address: '0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842'
     platform: TBA
 crypto: true
+decimals: 8
 fiat: false
 id: MORPHO
+id_binance: '1497'
 id_coinmarketcap: '34104'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34104.png
 logoKey: currencies/morpho.png

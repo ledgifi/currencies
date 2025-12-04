@@ -1,10 +1,14 @@
 contracts:
-  - address: 9SUCZg1RMpyMMYzRP9Z3JSZFghXGoXerEzjKQvbSpump
+  - address: '0x1a5D7E4c3A7F940B240b7357a4bFED30D17f9497'
+    platform: BNB
+  - address: 69RX85eQoEsnZvXGmLNjYcWgVkp9r2JjahVm99KbJETU
     platform: SOL
 crypto: true
+decimals: 8
 fiat: false
 id: HOLO
-id_coinmarketcap: '34874'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34874.png
+id_binance: '1605'
+id_coinmarketcap: '38309'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38309.png
 logoKey: currencies/holo.png
-name: HOLO
+name: Holoworld AI

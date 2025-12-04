@@ -1,7 +1,14 @@
+contracts:
+  - address: '0x26deBD39D5eD069770406FCa10A0E4f8d2c743eB'
+    platform: AVAX
+  - address: 3jUf2RTyXp867piSB2dt8uUcNiLDW58asjGtXkRAkBbe
+    platform: SOL
 crypto: true
+decimals: 8
 fiat: false
 id: GUN
-id_coinmarketcap: '312'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/312.png
+id_binance: '1472'
+id_coinmarketcap: '36156'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36156.png
 logoKey: currencies/gun.png
-name: Guncoin
+name: GUNZ

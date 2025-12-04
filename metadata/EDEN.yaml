@@ -1,10 +1,14 @@
 contracts:
-  - address: '0x1559fa1b8f28238fd5d76d9f434ad86fd20d1559'
+  - address: '0x235B6fe22B4642aDa16D311855c49Ce7DE260841'
+    platform: BNB
+  - address: '0x24A3D725C37A8D1a66Eb87f0E5D07fE67c120035'
     platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: EDEN
-id_coinmarketcap: '7750'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/7750.png
+id_binance: '1629'
+id_coinmarketcap: '38513'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38513.png
 logoKey: currencies/eden.png
-name: Eden
+name: OpenEden

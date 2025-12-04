@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: INIT
+id_binance: '1488'
 id_coinmarketcap: '33120'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33120.png
 logoKey: currencies/init.png

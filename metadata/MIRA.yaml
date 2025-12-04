@@ -1,14 +1,14 @@
 contracts:
-  - address: 160a880d9fc45380737cb7e57ff859763230aab28b3ef6a84007bfcc4d495241
-    platform: ADA
-  - address: '0x7ce4bfc3a66d0fcf5d91dd846911c15c3ff82ecc'
+  - address: '0x7839Fbfd09DaE4d0F15BfB36b8f16f7898FBE684'
     platform: BNB
-  - address: '0xf5207ac91c9e7ec7ebb03e93cbcbcad10878ac79'
-    platform: ETH
+  - address: '0x7AaFD31a321d3627b30A8e2171264B56852187fe'
+    platform: TBA
 crypto: true
+decimals: 8
 fiat: false
 id: MIRA
-id_coinmarketcap: '22568'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/22568.png
+id_binance: '1625'
+id_coinmarketcap: '38495'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38495.png
 logoKey: currencies/mira.png
-name: Chains of War
+name: Mira

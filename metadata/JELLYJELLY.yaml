@@ -2,8 +2,10 @@ contracts:
   - address: FeR8VBqNRSUD5NtXAj2n3j1dAHkZHfyDktKuLXD4pump
     platform: SOL
 crypto: true
+decimals: 8
 fiat: false
 id: JELLYJELLY
+id_binance: '1547'
 id_coinmarketcap: '35537'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35537.png
 logoKey: currencies/jellyjelly.png

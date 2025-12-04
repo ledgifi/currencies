@@ -1,10 +1,14 @@
 contracts:
-  - address: '0x95db29acce0db3d3c9b0a1772ec13bd13138cf3f'
+  - address: '0x7DDf164CEcfddd0f992299D033B5a11279A15929'
+    platform: BNB
+  - address: '0x6BEF15D938d4E72056AC92Ea4bDD0D76B1C4ad29'
     platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: PROVE
-id_coinmarketcap: '4579'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4579.png
+id_binance: '1584'
+id_coinmarketcap: '37593'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37593.png
 logoKey: currencies/prove.png
-name: Prove Token
+name: Succinct

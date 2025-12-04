@@ -1,10 +1,14 @@
 contracts:
-  - address: '0x7e9d8f07a64e363e97a648904a89fb4cd5fb94cd'
+  - address: '0xac23b90a79504865d52b49b327328411a23d4db2'
+    platform: BNB
+  - address: '0xfa1c09fc8b491b6a4d3ff53a10cad29381b3f949'
     platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: FF
-id_coinmarketcap: '9601'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9601.png
+id_binance: '1627'
+id_coinmarketcap: '38482'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38482.png
 logoKey: currencies/ff.png
-name: Forefront
+name: Falcon Finance

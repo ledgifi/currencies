@@ -2,8 +2,10 @@ contracts:
   - address: '0x4C1746A800D224393fE2470C70A35717eD4eA5F1'
     platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: PLUME
+id_binance: '1496'
 id_coinmarketcap: '35364'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35364.png
 logoKey: currencies/plume.png

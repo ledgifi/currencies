@@ -1,10 +1,14 @@
 contracts:
-  - address: '0x6f9F0c4ad9Af7EbD61Ac5A1D4e0F2227F7B0E5f9'
+  - address: '0x00312400303d02c323295f6e8b7309bc30fb6bce'
     platform: BNB
+  - address: '0xE2AD0BF751834f2fbdC62A41014f84d67cA1de2A'
+    platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: ERA
-id_coinmarketcap: '18483'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18483.png
+id_binance: '1565'
+id_coinmarketcap: '37374'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37374.png
 logoKey: currencies/era.png
-name: Era Token (Era7)
+name: Caldera

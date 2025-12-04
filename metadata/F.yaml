@@ -4,8 +4,10 @@ contracts:
   - address: '0x2c24497d4086490e7ead87cc12597fb50c2e6ed6'
     platform: TBA
 crypto: true
+decimals: 8
 fiat: false
 id: F
+id_binance: '1651'
 id_coinmarketcap: '34297'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34297.png
 logoKey: currencies/f.png

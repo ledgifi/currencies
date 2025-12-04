@@ -1,10 +1,12 @@
 contracts:
-  - address: '0xCEe4E6F4d8e634e329c457a4F98c090aFAfB1C4b'
-    platform: BNB
+  - address: pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn
+    platform: SOL
 crypto: true
+decimals: 2
 fiat: false
 id: PUMP
-id_coinmarketcap: '28451'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28451.png
+id_binance: '1606'
+id_coinmarketcap: '36507'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36507.png
 logoKey: currencies/pump.png
-name: 2024PUMP
+name: Pump.fun

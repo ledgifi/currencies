@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x0eb638648207d00b9025684d13b1cb53806debe4'
+  - address: '0x7Cf9a80db3B29eE8efE3710AadB7b95270572d47'
     platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: NIL
-id_coinmarketcap: '15096'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/15096.png
+id_binance: '1454'
+id_coinmarketcap: '35702'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35702.png
 logoKey: currencies/nil.png
-name: NIL Coin
+name: Nillion

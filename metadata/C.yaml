@@ -1,10 +1,14 @@
 contracts:
-  - address: '0xC2f2B22ADfDDde6b0931bF8C304a7E95Ccbbc109'
+  - address: '0xc32cc70741c3A8433dCbcB5adE071c299B55FfC8'
     platform: BNB
+  - address: '0xba12bc7b210e61e5d3110b997a63ea216e0e18f7'
+    platform: TBA
 crypto: true
+decimals: 8
 fiat: false
 id: C
-id_coinmarketcap: '18465'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18465.png
+id_binance: '1568'
+id_coinmarketcap: '37340'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37340.png
 logoKey: currencies/c.png
-name: Carbon Coin
+name: Chainbase

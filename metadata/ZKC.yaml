@@ -1,10 +1,14 @@
 contracts:
-  - address: '0xbC708F57be3DBa3DD9d649eC91cf560483553d67'
+  - address: '0x15247e6E23D3923a853cCf15940A20CCdf16e94a'
     platform: BNB
+  - address: '0x000006c2a22ff4a44ff1f5d0f2ed65f781f55555'
+    platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: ZKC
-id_coinmarketcap: '25839'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25839.png
+id_binance: '1609'
+id_coinmarketcap: '38371'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38371.png
 logoKey: currencies/zkc.png
-name: ZK-Chain
+name: Boundless

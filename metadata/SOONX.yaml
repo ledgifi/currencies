@@ -1,10 +1,12 @@
 contracts:
   - address: '0x574D22E2555cAc0ce71e44778f6De2e7487aE229'
     platform: ETH
+  - address: '0x5df7abe3c51c01dcf6d1f1f9a0ab4dc3759869b9'
+    platform: OP
 crypto: true
 fiat: false
-id: SOON2
+id: SOONX
 id_coinmarketcap: '23961'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23961.png
-logoKey: currencies/soon2.png
-name: SoonVerse
+logoKey: currencies/soonx.png
+name: SoonChain

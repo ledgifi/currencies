@@ -1,10 +1,14 @@
 contracts:
-  - address: '0xcb39c3502415152b2ec90ff07ee18cc94f681a72'
+  - address: '0xdAf1695c41327b61B9b9965Ac6A5843A3198cf07'
+    platform: BNB
+  - address: '0x1D88713b483A8E45cfF0e5CD7c2e15E5Fab4534d'
     platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: STO
-id_coinmarketcap: '4162'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4162.png
+id_binance: '1505'
+id_coinmarketcap: '32194'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32194.png
 logoKey: currencies/sto.png
-name: Storeum
+name: StakeStone

@@ -1,7 +1,14 @@
+contracts:
+  - address: '0x59264f02D301281f3393e1385c0aEFd446Eb0F00'
+    platform: BNB
+  - address: '0x59264f02D301281f3393e1385c0aEFd446Eb0F00'
+    platform: TBA
 crypto: true
+decimals: 8
 fiat: false
 id: PARTI
-id_coinmarketcap: '25344'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/25344.png
+id_binance: '1474'
+id_coinmarketcap: '36102'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36102.png
 logoKey: currencies/parti.png
-name: Parti
+name: Particle Network

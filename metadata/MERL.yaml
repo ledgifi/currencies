@@ -1,9 +1,14 @@
 contracts:
-  - address: '0xda360309c59cb8c434b28a91b823344a96444278'
+  - address: '0xa0c56a8c0692bD10B3fA8f8bA79Cf5332B7107F9'
     platform: BNB
+  - address: '0xa0c56a8c0692bD10B3fA8f8bA79Cf5332B7107F9'
+    platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: MERL
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9853.png
+id_binance: '1307'
+id_coinmarketcap: '30712'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30712.png
 logoKey: currencies/merl.png
 name: Merlin

@@ -1,11 +1,14 @@
 contracts:
-  - address: '0x4123a133ae3c521fd134d7b13a2dec35b56c2463'
+  - address: '0xa227cc36938f0c9e09ce0e64dfab226cad739447'
+    platform: BNB
+  - address: '0xa227cc36938f0c9e09ce0e64dfab226cad739447'
     platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: OPEN
-id_coinmarketcap: '10750'
-id_nomics: QRDO
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10750.png
+id_binance: '1598'
+id_coinmarketcap: '37456'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37456.png
 logoKey: currencies/open.png
-name: Open Custody Protocol
+name: OpenLedger

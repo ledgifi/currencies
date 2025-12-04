@@ -6,8 +6,10 @@ contracts:
   - address: '0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C'
     platform: TBA
 crypto: true
+decimals: 8
 fiat: false
 id: SPX
+id_binance: '1537'
 id_coinmarketcap: '28081'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28081.png
 logoKey: currencies/spx.png

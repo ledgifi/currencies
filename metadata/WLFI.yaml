@@ -1,10 +1,16 @@
 contracts:
-  - address: '0x66f85E3865D0cFDC009acf6280a8621f12e46CCf'
+  - address: '0x47474747477b199288bF72a1D702f7Fe0Fb1DEeA'
+    platform: BNB
+  - address: '0xdA5e1988097297dCdc1f90D4dFE7909e847CBeF6'
     platform: ETH
+  - address: WLFinEv6ypjkczcS83FZqFpgFZYwQXutRbxGe7oC16g
+    platform: SOL
 crypto: true
+decimals: 2
 fiat: false
 id: WLFI
-id_coinmarketcap: '33444'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33444.png
+id_binance: '1593'
+id_coinmarketcap: '33251'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33251.png
 logoKey: currencies/wlfi.png
-name: World Liberty Financial (worldlibertyfinance.ai)
+name: World Liberty Financial

@@ -1,7 +1,16 @@
+contracts:
+  - address: '0x868fced65edbf0056c4163515dd840e9f287a4c3'
+    platform: BNB
+  - address: '0x868FCEd65edBF0056c4163515dD840e9f287A4c3'
+    platform: ETH
+  - address: '0x868fced65edbf0056c4163515dd840e9f287a4c3'
+    platform: TBA
 crypto: true
+decimals: 8
 fiat: false
 id: SIGN
-id_coinmarketcap: '3868'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3868.png
+id_binance: '1503'
+id_coinmarketcap: '35600'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35600.png
 logoKey: currencies/sign.png
-name: Signature Chain
+name: Sign

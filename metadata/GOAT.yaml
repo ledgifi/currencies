@@ -2,8 +2,10 @@ contracts:
   - address: CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump
     platform: SOL
 crypto: true
+decimals: 8
 fiat: false
 id: GOAT
+id_binance: '1541'
 id_coinmarketcap: '33440'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33440.png
 logoKey: currencies/goat.png

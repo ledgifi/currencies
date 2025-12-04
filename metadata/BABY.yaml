@@ -1,8 +1,9 @@
 crypto: true
+decimals: 8
 fiat: false
 id: BABY
-id_coinmarketcap: '9414'
-id_nomics: BABY
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABY.jpg
-logoKey: currencies/baby.jpg
-name: Babytoken
+id_binance: '1485'
+id_coinmarketcap: '32198'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32198.png
+logoKey: currencies/baby.png
+name: Babylon

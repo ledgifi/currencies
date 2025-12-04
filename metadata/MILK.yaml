@@ -1,7 +1,14 @@
+contracts:
+  - address: '0x7b4bf9feccff207ef2cb7101ceb15b8516021acd'
+    platform: BNB
+  - address: ibc/9D8D4CAE9D8F15B69E93969304AF3878D14BDED39FEAF0060566D6AC22288779
+    platform: OSMO
 crypto: true
+decimals: 8
 fiat: false
 id: MILK
-id_nomics: MILK
-logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MILK.png
+id_binance: '1504'
+id_coinmarketcap: '20874'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/20874.png
 logoKey: currencies/milk.png
-name: MILK
+name: MilkyWay

@@ -1,10 +1,12 @@
 contracts:
-  - address: SNSNkV9zfG5ZKWQs6x4hxvBRV6s8SqMfSGCtECDvdMd
+  - address: SNS8DJbHc34nKySHVhLGMUUE72ho6igvJaxtq9T3cX3
     platform: SOL
 crypto: true
+decimals: 8
 fiat: false
 id: SNS
-id_coinmarketcap: '17231'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/17231.png
+id_binance: '1519'
+id_coinmarketcap: '36468'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36468.png
 logoKey: currencies/sns.png
-name: Synesis One
+name: Solana Name Service

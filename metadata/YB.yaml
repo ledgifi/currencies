@@ -1,7 +1,14 @@
+contracts:
+  - address: '0xFB93EE8152dd0a0e6F4b49C66c06d800Cf1Db72d'
+    platform: BNB
+  - address: '0x01791F726B4103694969820be083196cC7c045fF'
+    platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: YB
-id_coinmarketcap: '36016'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36016.png
+id_binance: '1644'
+id_coinmarketcap: '38651'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38651.png
 logoKey: currencies/yb.png
 name: Yield Basis

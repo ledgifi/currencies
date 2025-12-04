@@ -2,8 +2,10 @@ contracts:
   - address: '0xA35b1B31Ce002FBF2058D22F30f95D405200A15b'
     platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: ETHX
+id_binance: '1580'
 id_coinmarketcap: '27566'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27566.png
 logoKey: currencies/ethx.png

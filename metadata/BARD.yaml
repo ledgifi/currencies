@@ -1,10 +1,14 @@
 contracts:
-  - address: '0x9E7e87608A34Bc66396D53e69B9495Bd8f5414DF'
+  - address: '0xd23A186A78c0B3B805505E5f8ea4083295ef9f3a'
+    platform: BNB
+  - address: '0xf0DB65D17e30a966C2ae6A21f6BBA71cea6e9754'
     platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: BARD
-id_coinmarketcap: '24061'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/24061.png
+id_binance: '1614'
+id_coinmarketcap: '38408'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38408.png
 logoKey: currencies/bard.png
-name: Bard Protocol
+name: Lombard

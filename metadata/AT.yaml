@@ -1,10 +1,14 @@
 contracts:
-  - address: '0xbf8fb919a8bbf28e590852aef2d284494ebc0657'
+  - address: '0x9be61A38725b265BC3eb7Bfdf17AfDFc9d26C130'
+    platform: BNB
+  - address: '0x0581CCdf2d9BcA21baEfF8b32b2551fd49CF70aa'
     platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: AT
-id_coinmarketcap: '3238'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3238.png
+id_binance: '1671'
+id_coinmarketcap: '38757'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38757.png
 logoKey: currencies/at.png
-name: ABCC Token
+name: APRO

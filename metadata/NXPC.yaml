@@ -1,7 +1,14 @@
+contracts:
+  - address: '0x5E0E90E268BC247Cc850c789A0DB0d5c7621fb59'
+    platform: AVAX
+  - address: '0xf2b51cc1850fed939658317a22d73d3482767591'
+    platform: BNB
 crypto: true
+decimals: 8
 fiat: false
 id: NXPC
+id_binance: '1515'
 id_coinmarketcap: '36044'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36044.png
 logoKey: currencies/nxpc.png
-name: MapleStory Universe
+name: NEXPACE

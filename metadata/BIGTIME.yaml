@@ -2,8 +2,10 @@ contracts:
   - address: '0x64Bc2cA1Be492bE7185FAA2c8835d9b824c8a194'
     platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: BIGTIME
+id_binance: '1492'
 id_coinmarketcap: '28230'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28230.png
 logoKey: currencies/bigtime.png

@@ -6,8 +6,10 @@ contracts:
   - address: '0xD71552d9e08E5351AdB52163B3bbbC4d7DE53Ce1'
     platform: TBA
 crypto: true
+decimals: 8
 fiat: false
 id: AITECH
+id_binance: '1555'
 id_coinmarketcap: '19055'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/19055.png
 logoKey: currencies/aitech.png

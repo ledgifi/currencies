@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x96084fd213088e5a0d686fc7778f6d42974fe1d6'
-    platform: AVAX
+  - address: '0x8e1e6BF7E13C400269987B65Ab2b5724b016CaEF'
+    platform: BNB
 crypto: true
+decimals: 8
 fiat: false
 id: MITO
-id_coinmarketcap: '18220'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/18220.png
+id_binance: '1588'
+id_coinmarketcap: '38204'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38204.png
 logoKey: currencies/mito.png
-name: Musk Ito
+name: Mitosis

@@ -2,8 +2,10 @@ contracts:
   - address: Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs
     platform: SOL
 crypto: true
+decimals: 8
 fiat: false
 id: GRASS
+id_binance: '1550'
 id_coinmarketcap: '32956'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32956.png
 logoKey: currencies/grass.png

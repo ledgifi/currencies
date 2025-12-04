@@ -1,10 +1,12 @@
 contracts:
-  - address: '0x928A6a9fc62b2C94BaF2992a6fBa4715f5Bb0066'
-    platform: TBA
+  - address: '0x9C8B5CA345247396bDfAc0395638ca9045C6586E'
+    platform: BNB
 crypto: true
+decimals: 8
 fiat: false
 id: RWA
-id_coinmarketcap: '30711'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30711.png
+id_binance: '1551'
+id_coinmarketcap: '33783'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33783.png
 logoKey: currencies/rwa.png
-name: Rug World Assets
+name: Allo

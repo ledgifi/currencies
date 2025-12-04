@@ -1,10 +1,16 @@
 contracts:
-  - address: '0x38a0df9a08d18dc06cd91fc7ec94a0acdf28d994'
+  - address: '0x61ec85ab89377db65762e234c946b5c25a56e99e'
+    platform: BNB
+  - address: '0x61ec85ab89377db65762e234c946b5c25a56e99e'
     platform: ETH
+  - address: TUPM7K8REVzD2UdV4R5fe5M8XbnR2DdoJ6
+    platform: TRX
 crypto: true
+decimals: 2
 fiat: false
 id: HTX
-id_coinmarketcap: '5037'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5037.png
+id_binance: '1521'
+id_coinmarketcap: '29160'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29160.png
 logoKey: currencies/htx.png
-name: Huptex
+name: HTX

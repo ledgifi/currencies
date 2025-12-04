@@ -1,10 +1,16 @@
 contracts:
-  - address: '0xede26a1ee14281b58a5238a3ff246b02358a13b6'
+  - address: '0x904567252D8F48555b7447c67dCA23F0372E16be'
+    platform: AVAX
+  - address: '0x904567252D8F48555b7447c67dCA23F0372E16be'
     platform: BNB
+  - address: '0x904567252D8F48555b7447c67dCA23F0372E16be'
+    platform: ETH
 crypto: true
+decimals: 8
 fiat: false
 id: KITE
-id_coinmarketcap: '11984'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11984.png
+id_binance: '1656'
+id_coinmarketcap: '38828'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38828.png
 logoKey: currencies/kite.png
-name: Kite Sync
+name: Kite
