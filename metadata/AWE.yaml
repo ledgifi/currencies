@@ -1,0 +1,13 @@
+contracts:
+  - address: '0xde7d85157d9714eadf595045cc12ca4a5f3e2adb'
+    platform: ETH
+crypto: true
+decimals: 8
+fiat: false
+id: AWE
+id_binance: '1517'
+id_coinmarketcap: '4006'
+id_nomics: STPT
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20250516/45b017d4-bd0b-4248-bdbd-9749bcd222c9.png
+logoKey: currencies/awe.png
+name: AWE Network
