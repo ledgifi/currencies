@@ -5,6 +5,8 @@ contracts:
     platform: BNB
   - address: '0xc2544a32872a91f4a553b404c6950e89de901fdb'
     platform: ETH
+  - address: '0xfc00000000000000000000000000000000000004'
+    platform: FRAX
   - address: '0x8368Dca5CE2a4Db530c0F6e535d90B6826428Dee'
     platform: OP
 crypto: true

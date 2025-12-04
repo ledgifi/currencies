@@ -1,6 +1,8 @@
 contracts:
   - address: '0x9cdf242Ef7975D8c68D5C1F5B6905801699b1940'
     platform: ETH
+  - address: ENWC66tsY6cyqSrd8a7S9ETc712xCcSAuGcRUwSMWhyo
+    platform: SOL
 crypto: true
 fiat: false
 id: WHITE

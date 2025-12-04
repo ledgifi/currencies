@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xf42fcffc27a5b8d0afec45659407b82f9f32fa98'
+    platform: ETH
+  - address: '0xa19377761fed745723b90993988e04d641c2cffe'
+    platform: SAGA
 crypto: true
 decimals: 8
 fiat: false

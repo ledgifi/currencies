@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x93C9932E4afa59201F0B5E63f7d816516F1669fE'
+    platform: ARB
   - address: '0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409'
     platform: BNB
   - address: '0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409'
@@ -9,6 +11,8 @@ contracts:
     platform: SUI
   - address: 0xf16e6b723f242ec745dfd7634ad072c42d5c1d9ac9d62a39c381303eaa57693a::fdusd::FDUSD
     platform: SUI
+  - address: EQD0Evpk4timFOHmy4Sv3l_KEUXlM-dN1_KhroTCfB2wkO89
+    platform: TON
 crypto: true
 decimals: 8
 fiat: false

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x746dda2ea243400d5a63e0700f190ab79f06489e'
     platform: ETH
+  - address: '0x51bD4f39803fcAEFf3ef45aae2C3aaFf0B9faDcb'
+    platform: ETH
 crypto: true
 fiat: false
 id: BOA

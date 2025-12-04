@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697'
     platform: ETH
+  - address: '0x08E6D50169863FD9BEb88687ce1573CF9D6D1484'
+    platform: PEAQ
   - address: '0x1631244689ec1fecbdd22fb5916e920dfc9b8d30'
     platform: POL
   - address: '0x27E3Bc3a66E24CaD043aC3d93A12A8070E3897ba'

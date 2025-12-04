@@ -1,11 +1,21 @@
 color: '#e6007a'
 contracts:
+  - address: '0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8'
+    platform: ARB
   - address: '0x7083609fce4d1d8dc0c979aab8c869ea2c873402'
     platform: BNB
+  - address: '0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8'
+    platform: ETH
+  - address: '0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8'
+    platform: GNO
   - address: '0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3'
     platform: HT
+  - address: '0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8'
+    platform: OP
   - address: ibc/3FF92D26B407FD61AE95D975712A7C319CDE28DE4D80BDC9978D935932B991D7
     platform: OSMO
+  - address: '0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

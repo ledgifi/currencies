@@ -3,10 +3,14 @@ contracts:
     platform: ARB
   - address: '0x6Ba7a8f9063c712C1c8CabC776B1dA7126805f3b'
     platform: BNB
+  - address: '0xb75ba7ef520a5bd0a5d01108060be269642c4601'
+    platform: BNB
   - address: '0x6e5970DBd6fc7eb1f29C6D2eDF2bC4c36124C0C1'
     platform: ETH
   - address: '0x692AC1e363ae34b6B489148152b12e2785a3d8d6'
     platform: POL
+  - address: '0x72e1868f8eb8f9fb86455c10e72aa4b24774a5a3'
+    platform: TBA
 crypto: true
 fiat: false
 id: TRADE

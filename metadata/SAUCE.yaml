@@ -1,6 +1,8 @@
 contracts:
   - address: 0.0.731861
     platform: HBAR
+  - address: '0xA4FF56eF7Ef4a2CaD03cFa130208C9BC1b45d293'
+    platform: TBA
 crypto: true
 fiat: false
 id: SAUCE

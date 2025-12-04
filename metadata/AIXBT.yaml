@@ -1,4 +1,8 @@
 contracts:
+  - address: '0x0D37aF9D8AE74F35F3A38bD2a08FcB29890Ca6d2'
+    platform: ETH
+  - address: 14zP2ToQ79XWvc7FQpm4bRnp9d6Mp1rFfsUW3gpLcRX
+    platform: SOL
   - address: '0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825'
     platform: TBA
 crypto: true

@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x66fd8de541c0594b4dccdfc13bf3a390e50d3afd'
     platform: ETH
+  - address: '0x56aa6d651bfefa9207b35e508716466359bae8ef'
+    platform: LINEA
 crypto: true
 decimals: 8
 fiat: false

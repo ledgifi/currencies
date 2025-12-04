@@ -1,4 +1,7 @@
 color: '#00eaab'
+contracts:
+  - address: '0xf43eb8de897fbc7f2502483b2bef7bb9ea179229'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

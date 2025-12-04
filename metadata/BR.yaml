@@ -1,3 +1,12 @@
+contracts:
+  - address: '0xd352dc6e5f0c45e2f2b38eb5565eb286a1ea4087'
+    platform: BERA
+  - address: '0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41'
+    platform: BNB
+  - address: '0x9b61879e91a0b1322f3d61c23aaf936231882096'
+    platform: ETH
+  - address: '0xd6122ddada244913521f3d62006eaf756c157660'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

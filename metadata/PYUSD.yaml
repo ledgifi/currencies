@@ -1,8 +1,12 @@
 contracts:
+  - address: '0x46850ad61c2b7d64d08c9c754f45254596696984'
+    platform: ARB
   - address: '0x6c3ea9036406852006290770bedfcaba0e23a0e8'
     platform: ETH
   - address: 2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo
     platform: SOL
+  - address: CCCRWH6Q3FNP3I2I57BDLM5AFAT7O6OF6GKQOC6SSJNDAVRZ57SPHGU2
+    platform: XLM
 crypto: true
 fiat: false
 id: PYUSD

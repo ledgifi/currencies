@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x3252d4221f92b7af3774da8312f01600ec84b252'
+    platform: POL
   - address: '0xf7cebf7df90a1c59fd0347c41b983846ca8bc76a'
     platform: TBA
 crypto: true

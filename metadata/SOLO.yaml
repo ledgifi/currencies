@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: rsoLo2S1kiGeCcn6hCUXVrCpGMWLrRrLZz
     platform: XRP
+  - address: 534F4C4F00000000000000000000000000000000.rsoLo2S1kiGeCcn6hCUXVrCpGMWLrRrLZz
+    platform: XRP
 crypto: true
 decimals: 8
 fiat: false

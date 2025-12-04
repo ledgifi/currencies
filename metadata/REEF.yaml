@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xfe3e6a25e6b192a42a44ecddcd13796471735acf'
     platform: ETH
+  - address: '0x0000000000000000000000000000000001000000'
+    platform: REEF
 crypto: true
 decimals: 8
 fiat: false

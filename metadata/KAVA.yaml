@@ -1,6 +1,8 @@
 contracts:
   - address: KAVA-10C
     platform: BNB
+  - address: '0x9BAFC8d4b487cEBff201721702507a3E2C67ad79'
+    platform: BNB
   - address: '0x0C356B7fD36a5357E5A017EF11887ba100C9AB76'
     platform: ETH
   - address: ibc/57AA1A70A4BC9769C525EBF6386F7A21536E04A79D62E1981EFCEF9428EBB205

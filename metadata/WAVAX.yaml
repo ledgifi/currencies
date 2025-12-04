@@ -9,6 +9,8 @@ contracts:
     platform: CRO
   - address: '0xb57b60debdb0b8172bb6316a9164bd3c695f133a'
     platform: JEWEL
+  - address: '0x5471ea8f739dd37e9b81be9c5c77754d8aa953e4'
+    platform: LINEA
   - address: terra1hj8de24c3yqvcsv9r8chr03fzwsak3hgd8gv3m
     platform: LUNC
   - address: ibc/6F62F01D913E3FFE472A38C78235B8F021B511BC6596ADFF02615C8F83D3B373

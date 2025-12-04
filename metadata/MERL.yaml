@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xa0c56a8c0692bD10B3fA8f8bA79Cf5332B7107F9'
     platform: ETH
+  - address: '0x5c46bFF4B38dc1EAE09C5BAc65872a1D8bc87378'
+    platform: MERL
 crypto: true
 decimals: 8
 fiat: false

@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x8236a87084f8b84306f72007f36f2618a5634494'
     platform: ETH
+  - address: '0x036834a40984312f7f7de8d31e3f6305b325389eaeea5b1c0664b2fb936461a4'
+    platform: STRK
   - address: '0xecac9c5f704e954931349da37f60e39f515c11c1'
     platform: TBA
 crypto: true

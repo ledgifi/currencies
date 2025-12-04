@@ -19,6 +19,8 @@ contracts:
     platform: POL
   - address: '0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5'
     platform: TBA
+  - address: '0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5'
+    platform: UNI
 crypto: true
 fiat: false
 id: BETS

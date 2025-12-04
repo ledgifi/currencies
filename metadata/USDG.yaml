@@ -1,6 +1,10 @@
 contracts:
   - address: '0xe343167631d89B6Ffc58B88d6b7fB0228795491D'
     platform: ETH
+  - address: '0xe343167631d89B6Ffc58B88d6b7fB0228795491D'
+    platform: INK
+  - address: '0x4ae46a509f6b1d9056937ba4500cb143933d2dc8'
+    platform: OKB
   - address: 2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH
     platform: SOL
 crypto: true

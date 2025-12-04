@@ -5,10 +5,14 @@ contracts:
     platform: ETH
   - address: '0x6c76971f98945ae98dd7d4dfca8711ebea946ea6'
     platform: GNO
+  - address: '0x10Aeaf63194db8d453d4D85a06E5eFE1dd0b5417'
+    platform: MON
   - address: '0x1f32b1c2345538c0c6f582fcb022739c4a194ebb'
     platform: OP
   - address: '0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd'
     platform: POL
+  - address: '0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452'
+    platform: TBA
 crypto: true
 fiat: false
 id: WSTETH

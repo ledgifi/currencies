@@ -1,6 +1,10 @@
 contracts:
   - address: '0x0F81001eF0A83ecCE5ccebf63EB302c70a39a654'
+    platform: ARB
+  - address: '0x0F81001eF0A83ecCE5ccebf63EB302c70a39a654'
     platform: BERA
+  - address: '0x0F81001eF0A83ecCE5ccebf63EB302c70a39a654'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false

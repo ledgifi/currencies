@@ -1,6 +1,8 @@
 contracts:
   - address: '0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee'
     platform: ETH
+  - address: '0x226702c0ca528c29eb9252b773c4f06492510f4c'
+    platform: HYPE
   - address: FkmodwcM4YULTKLNMo7VHs4HLPvm8iBVLJHTj9YhMr9h
     platform: SOL
   - address: '0x5ca35ebc4f25b042d2cae75914c7e882e631fa9a'

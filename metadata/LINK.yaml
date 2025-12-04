@@ -2,36 +2,84 @@ color: '#2a5ada'
 contracts:
   - address: '0xf390830df829cf22c53c8840554b98eafc5dcbc2'
     platform: ADA
+  - address: '0xf575731b78981B86d34321d875A3D25a48479be6'
+    platform: APE
   - address: '0xf97f4df75117a78c1A5a0DBb814Af92458539FB4'
     platform: ARB
+  - address: '0x31efb841d5e0b4082f7e1267dab8de1b853f2a9d'
+    platform: ASTR
   - address: '0x5947bb275c521040051d82396192181b413227a3'
     platform: AVAX
+  - address: '0x71052BAe71C25C78E37fD12E5ff1101A71d9018F'
+    platform: BERA
+  - address: '0x93202eC683288a9EA75BB829c6baCFb2BfeA9013'
+    platform: BLAST
   - address: '0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd'
     platform: BNB
+  - address: '0x99f0d88B81b758AB07E22C7AbA00E0121a882dEA'
+    platform: BNB
+  - address: '0x5aB885CDa7216b163fb6F813DEC1E1532516c833'
+    platform: BOB
+  - address: '0xd07294e6E917e07dfDcee882dd1e2565085C2ae0'
+    platform: CELO
+  - address: '0x3902228D6A3d2Dc44731fD9d45FeE6a61c722D0b'
+    platform: CORE
+  - address: '0x7311DED199CC28D80E58e81e8589aa160199FCD2'
+    platform: CORN
+  - address: '0x8c80A01F461f297Df7F9DA3A4f740D7297C8Ac85'
+    platform: CRO
+  - address: '0x61170ca9fB9cF98d4c7d684e07be6D969D59667E'
+    platform: CRO
   - address: '0x514910771af9ca656af840dff83e8264ecf986ca'
     platform: ETH
+  - address: '0xd6A6ba37fAaC229B9665E86739ca501401f5a940'
+    platform: FRAX
   - address: '0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8'
     platform: FTM
   - address: '0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2'
     platform: GNO
   - address: '0x294cde734a863dcf65417992424405bccf3973e7'
     platform: HSC
+  - address: '0x71052BAe71C25C78E37fD12E5ff1101A71d9018F'
+    platform: HSK
   - address: '0x9e004545c59d359f6b7bfb06a26390b087717b42'
     platform: HT
+  - address: '0x1AC2EE68b8d038C982C1E1f73F596927dd70De59'
+    platform: HYPE
+  - address: '0xa18152629128738a5c081eb226335FEd4B9C95e9'
+    platform: LINEA
   - address: terra12dfv3f0e6m22z6cnhfn3nxk2en3z3zeqy6ctym
     platform: LUNC
+  - address: '0x71052BAe71C25C78E37fD12E5ff1101A71d9018F'
+    platform: MERL
+  - address: '0x183E3691EfF3524B2315D3703D94F922CbE51F54'
+    platform: MODE
+  - address: '0x76f257B1DDA5cC71bee4eF637Fbdde4C801310A9'
+    platform: MON
   - address: 514910771af9ca656af840dff83e8264ecf986ca.factory.bridge.near
     platform: NEAR
   - address: '0x68Ca48cA2626c415A89756471D4ADe2CC9034008'
     platform: NRG
+  - address: '0x8aF9711B44695a5A081F25AB9903DDB73aCf8FA9'
+    platform: OKB
   - address: '0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6'
     platform: OP
+  - address: '0xb549B375dA0c76f8b3877B9aDfDD28378f087A64'
+    platform: PLUME
   - address: '0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39'
     platform: POL
   - address: CWE8jPTUYhdCTZYWPTe1o5DFqfdjzWKc9WKz6rSjQUdG
     platform: SOL
+  - address: '0x88Fb150BDc53A65fe94Dea0c9BA0a6dAf8C6e196'
+    platform: TBA
+  - address: '0xEF66491eab4bbB582c57b14778afd8dFb70D8A1A'
+    platform: UNI
+  - address: '0xE27dd9BF01B55ce6803c0d81386A04212c718b95'
+    platform: XDC
   - address: '0x008484148dcf23d1b48908393e7a00d5fdc3bf81029a73eeca62a15ebfb1205a'
     platform: XOR
+  - address: '0x76a443768A5e3B8d1AED0105FC250877841Deb40'
+    platform: XPL
 crypto: true
 decimals: 8
 fiat: false

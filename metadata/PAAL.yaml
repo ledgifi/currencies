@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xbb1b031c591235408755ff4e0739cb88c5cf2507'
+    platform: BNB
   - address: '0x14fee680690900ba0cccfc76ad70fd1b95d10e16'
     platform: ETH
+  - address: '0xd52333441c0553facb259600fa833a69186893a5'
+    platform: TBA
 crypto: true
 fiat: false
 id: PAAL

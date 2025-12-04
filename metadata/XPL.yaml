@@ -1,6 +1,8 @@
 contracts:
   - address: '0x405FBc9004D857903bFD6b3357792D71a50726b0'
     platform: BNB
+  - address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    platform: XPL
 crypto: true
 decimals: 8
 fiat: false

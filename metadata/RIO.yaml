@@ -9,6 +9,8 @@ contracts:
     platform: OSMO
   - address: HELn8rSM1rp8vAjNH4NYXzX6FvCbwWMGqLfaMgiBnZFV
     platform: SOL
+  - address: '0x5e64c9049455b3bB6E9fbDC33565fa313BAe9B53'
+    platform: TBA
 crypto: true
 fiat: false
 id: RIO

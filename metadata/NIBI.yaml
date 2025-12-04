@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x8a47e412a865198b9d5f10ff2e54f788f1696195'
+    platform: ETH
+  - address: '0x3ade6652f203d919697f8577f75eebb989a5c586'
+    platform: TBA
 crypto: true
 fiat: false
 id: NIBI

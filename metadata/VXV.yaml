@@ -1,6 +1,8 @@
 contracts:
   - address: '0x7D29A64504629172a429e64183D6673b9dAcbFCe'
     platform: ETH
+  - address: '0xB7b37b81d4497AB317fc9d4A370CF243043d6bBe'
+    platform: ETH
 crypto: true
 fiat: false
 id: VXV

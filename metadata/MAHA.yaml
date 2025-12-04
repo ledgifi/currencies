@@ -11,6 +11,8 @@ contracts:
     platform: BNB
   - address: '0x745407c86df8db893011912d3ab28e68b62e49b0'
     platform: ETH
+  - address: '0x6A661312938D22A2A0e27F585073E4406903990a'
+    platform: LINEA
   - address: '0xbc3186b68d1a7b771288122386288aca9c1561a9'
     platform: OKB
   - address: '0x6A661312938D22A2A0e27F585073E4406903990a'

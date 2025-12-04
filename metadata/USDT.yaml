@@ -6,6 +6,8 @@ contracts:
     platform: ALGO
   - address: 0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT
     platform: APT
+  - address: '0x1487Db421F6B58e77bfefc905fDc1EDE5Fb85C7F'
+    platform: APTM
   - address: '0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9'
     platform: ARB
   - address: '0x3795C36e7D12A8c252A20C5a7B455f7c57b60283'
@@ -17,6 +19,8 @@ contracts:
   - address: '0xBc2F884680c95A02cea099dA2F524b366d9028Ba'
     platform: BCH
   - address: '0x55d398326f99059ff775485246999027b3197955'
+    platform: BNB
+  - address: '0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3'
     platform: BNB
   - address: '0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d'
     platform: BOBA
@@ -48,6 +52,8 @@ contracts:
     platform: ETHW
   - address: 0:a519f99bb5d6d51ef958ed24d337ad75a1c770885dcd42d51d6663f9fcdacfb2
     platform: EVER
+  - address: '0x0b38e83b86d491735feaa0a791f65c2b99535396'
+    platform: FLR
   - address: '0x9636d3294e45823ec924c8d89dd1f1dffcf044e6'
     platform: FSN
   - address: '0x049d68029688eabf473097a2fc38ef61633a3c7a'
@@ -66,14 +72,24 @@ contracts:
     platform: INJ
   - address: '0x6fbcdc1169b5130c59e72e51ed68a84841c98cd1'
     platform: IOTX
+  - address: '0xc8e19c19479a866142b42fb390f2ea1ff082e0d2'
+    platform: JU
   - address: '0x551a5dcac57c66aa010940c2dcff5da9c53aa53b'
     platform: KAI
   - address: '0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167'
     platform: KAIA
+  - address: '0xd077a400968890eacc75cdc901f0356c943e4fdb'
+    platform: KAIA
+  - address: '0x919C1c267BC06a7039e03fcc2eF738525769109c'
+    platform: KAVA
   - address: '0x0039f574ee5cc39bdd162e9a88e3eb1f111baf48'
     platform: KCS
   - address: '0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167'
     platform: KLAY
+  - address: ce091c998b83c78bb71a632313ba3760f1763d9cfcffae02258ffa9865a37bd2
+    platform: LBTC
+  - address: '0xa219439258ca9da29e9cc4ce5596924745e12b93'
+    platform: LINEA
   - address: terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva
     platform: LUNC
   - address: '0xf417f5a458ec102b90352f697d6e2ac3a3d2851f'
@@ -102,6 +118,8 @@ contracts:
     platform: OP
   - address: ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB
     platform: OSMO
+  - address: '0xf4d9235269a96aadafc9adae454a0618ebe37949'
+    platform: PEAQ
   - address: '0x0cb6f5a34ad42ec934882a05265a7d5f59b51a2f'
     platform: PLS
   - address: '0xc2132d05d31c914a87c6611c10748aeb04b58e8f'
@@ -122,14 +140,24 @@ contracts:
     platform: SCRT
   - address: '0xb75d0b03c06a926e488e2659df1a861f860bd3d1'
     platform: SEI
+  - address: ibc/6C00E4AA0CC7618370F81F7378638AE6C48EFF8C9203CE1C2357012B440EBDB7
+    platform: SEI
+  - address: '0x318A0dd4142fDDfffC000c877bE7Ae6679185200'
+    platform: SHIDO
   - address: Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB
     platform: SOL
+  - address: '0x6386da73545ae4e2b2e0393688fa8b65bb9a7169'
+    platform: SOPH
   - address: '0x68f5c6a61780768455de69077e07e89787839bf8166decfbf92b645209c0fb8'
     platform: STRK
   - address: 0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN
     platform: SUI
+  - address: 0x375f70cf2ae4c00bf37117d0c85a2c71545e6ee05c4a5c7d282cd66a4504b068::usdt::USDT
+    platform: SUI
   - address: '0x922D641a426DcFFaeF11680e5358F34d97d112E1'
     platform: SYS
+  - address: '0xfde4c96c8593536e31f229ea8f37b2ada2699bb2'
+    platform: TBA
   - address: '0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73'
     platform: TLOS
   - address: '0x975Ed13fa16857E83e7C493C7741D556eaaD4A3f'
@@ -144,6 +172,8 @@ contracts:
     platform: TRX
   - address: '0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82'
     platform: TT
+  - address: 8a4ed4483500caf2d4bb4b56c84df41009cc3d0ed6a9de05d853e26a30faeced
+    platform: VENOM
   - address: '0x381b31409e4d220919b2cff012ed94d70135a59e'
     platform: VIC
   - address: '0x69B946132B4a6C74cd29Ba3ff614cEEA1eF9fF2B'
@@ -154,10 +184,16 @@ contracts:
     platform: WAVES
   - address: G5WWWzzVsWRyzGf32xojbnfp7gXbWrgqJT8RcVWEfLmC
     platform: WAVES
+  - address: B45iYkZVC9cudR2yxrsJnrM75StiTrwphbfQ7xkyisip
+    platform: WAVES
+  - address: '1984'
+    platform: WDOT
   - address: '0xd4b5f10d61916bd6e0860144a91ac658de8a1437'
     platform: XDC
   - address: KT1XnTn74bUtxHfDtBmm2bGZAQfhPbvKWR8o
     platform: XTZ
+  - address: '0xb78e2642b875928254cf50683d0589ca249f4efc'
+    platform: ZEDX
   - address: zil1sxx29cshups269ahh5qjffyr58mxjv9ft78jqy
     platform: ZIL
   - address: '0x493257fD37EDB34451f62EDf8D2a0C418852bA4C'

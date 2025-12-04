@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: '0xf1c1a3c2481a3a8a3f173a9ab5ade275292a6fa3'
     platform: POL
+  - address: '0xeFc2689D3E79252fBA37E889a1b5aD92cEDC6e4F'
+    platform: TBA
 crypto: true
 fiat: false
 id: VEE

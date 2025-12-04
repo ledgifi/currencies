@@ -7,18 +7,30 @@ contracts:
     platform: AVAX
   - address: '0x55d6043859dbe45e0a2571ea64b3855062fd86d8'
     platform: BNB
+  - address: '0x69cF9Fb2E4103258D2480d519b97b35Fc11af5CF'
+    platform: BNB
   - address: '0xe9dc987b939a7b33270e56532297cf82716c79a3'
     platform: CELO
   - address: '0xe57425f1598f9b0d6219706b77f4b3da573a3695'
     platform: ETH
+  - address: '0x6918809076129bfba70592976d372bc952c72781'
+    platform: ETH
   - address: '0xb355f4f4cc84a9429a59d5c2b98d77016f7ec482'
     platform: FTM
+  - address: '0x8B19b6a2eb4472539CBbdDAef258f45f3D27406b'
+    platform: MON
   - address: '0x75c5f6d32d8ef3a4f0f43f7792aa08e8678972f9'
     platform: OP
   - address: '0xb355f4f4cc84a9429a59d5c2b98d77016f7ec482'
     platform: POL
   - address: '0xe132fef618ec9f47a7578ed1b9db77b50243a7e5'
     platform: TBA
+  - address: '0x690DF4A9Cc4a37750aFa7012E902943c7A0F1f3f'
+    platform: TBA
+  - address: '0x69c969A3E82936D5cf8D641D8229A9977e598438'
+    platform: UNI
+  - address: '0x4aDB71a149Bc5EE8CC63cA609760E64093b24A75'
+    platform: XPL
 crypto: true
 fiat: false
 id: BTCBR

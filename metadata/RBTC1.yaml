@@ -1,3 +1,12 @@
+contracts:
+  - address: '0x441Fcb23dFe8289cf572126FEDCf450974ADc891'
+    platform: ARB
+  - address: '0x1e44f98cC78d505A61F63b26D13b116CF51dbB87'
+    platform: ETH
+  - address: 8yev7nLen2PFN2uYGhzsUbu243wMa9z4ZrCwuXs6DEQw
+    platform: SOL
+  - address: '0x441Fcb23dFe8289cf572126FEDCf450974ADc891'
+    platform: TBA
 crypto: true
 fiat: false
 id: RBTC1

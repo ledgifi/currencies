@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xcccccccccc33d538dbc2ee4feab0a7a1ff4e8a94'
+    platform: ETH
   - address: '0xffffffff44bd9d2ffee20b25d1cf9e78edb6eae3'
     platform: GLMR
 crypto: true

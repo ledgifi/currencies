@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xa7440029eca41deabd8775ef1d6086b37d4df8d6'
+    platform: BNB
   - address: '0x532f27101965dd16442e59d40670faf5ebb142e4'
     platform: TBA
 crypto: true

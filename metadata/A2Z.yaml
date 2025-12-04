@@ -1,3 +1,6 @@
+contracts:
+  - address: '0x08dcb9b5989fb09ef80e85567ec1f49577a70d29'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false

@@ -1,6 +1,8 @@
 contracts:
   - address: SarosY6Vscao718M4A778z4CGtvcwcGef5M9MEH1LGL
     platform: SOL
+  - address: '0xB786D9c8120D311b948cF1e5Aa48D8fBacf477E2'
+    platform: VIC
 crypto: true
 fiat: false
 id: SAROS

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x2da719db753dfa10a62e140f436e1d67f2ddb0d6'
     platform: ETH
+  - address: '0x9886447ff4c350f4600e4bf95db756bdc629b1ca'
+    platform: TBA
 crypto: true
 fiat: false
 id: CERE

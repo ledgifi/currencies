@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xd98f75b1a3261dab9eed4956c93f33749027a964'
     platform: ETH
+  - address: '0x192675d1E131b9E339F16603E21b01A845D8C21e'
+    platform: ETH
 crypto: true
 fiat: false
 id: SHR

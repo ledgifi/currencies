@@ -1,9 +1,15 @@
 contracts:
   - address: '0xaa9e582e5751d703f85912903bacaddfed26484c'
     platform: BNB
+  - address: '0x582a560B9f8EAa5B6c889D7674532bcd61F066EC'
+    platform: BNB
   - address: '0x05Fb86775Fd5c16290f1E838F5caaa7342bD9a63'
     platform: ETH
+  - address: '0x6403AF1267CacC0714C1Bd916B12F80e179c0558'
+    platform: ETH
   - address: '0x73E2A6320314883ff8Cc08b53F1460a5f4c47f2c'
+    platform: TBA
+  - address: '0x7002987e5F63716273E77b51E12A578143C222aa'
     platform: TBA
   - address: '0xacc280010b2ee0efc770bce34774376656d8ce14'
     platform: VET

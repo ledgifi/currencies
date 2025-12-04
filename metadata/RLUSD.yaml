@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: rMxCKbEDwqr76QuheSUMdEGf4B9xJ8m5De
     platform: XRP
+  - address: 524C555344000000000000000000000000000000.rMxCKbEDwqr76QuheSUMdEGf4B9xJ8m5De
+    platform: XRP
 crypto: true
 fiat: false
 id: RLUSD

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x90bbdDbF3223363898065b9C736e2B86C655762b'
     platform: BNB
+  - address: '0x6ad12E761b438beA3EA09F6C6266556Bb24C2181'
+    platform: BNB
 crypto: true
 fiat: false
 id: BDX

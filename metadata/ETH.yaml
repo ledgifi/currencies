@@ -1,5 +1,7 @@
 color: '#627eea'
 contracts:
+  - address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    platform: ARB
   - address: '0xf20d962a6c8f70c731bd838a3a388d7d48fa6e15'
     platform: AVAX
   - address: '0x2170ed0880ac9a755fd29b2688956bd959f933f8'
@@ -8,6 +10,8 @@ contracts:
     platform: ETH
   - address: '0x34a9c05b638020a07bb153bf624c8763bf8b4a86'
     platform: ETHW
+  - address: '0xf8f8b6283d7fa5b672b530cbb84fcccb4ff8dc40f8176ef4544ddb1f1952ad07'
+    platform: FUEL
   - address: '0x64ff637fb478863b7468bc97d30a5bf3a428a1fd'
     platform: HT
   - address: '0x34d21b1e550d73cee41151c77f3c73359527a396'
@@ -22,8 +26,12 @@ contracts:
     platform: RBTC
   - address: 2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk
     platform: SOL
+  - address: '0x72af9f169b619d85a47dfa8fefbcd39de55c567d'
+    platform: SOPH
   - address: '0x49d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7'
     platform: STRK
+  - address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    platform: TBA
   - address: '0x2eaa73bd0db20c64f53febea7b5f5e5bccc7fb8b'
     platform: TOMO
   - address: '0x2eaa73bd0db20c64f53febea7b5f5e5bccc7fb8b'

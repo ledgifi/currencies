@@ -2,6 +2,8 @@ color: '#c3a634'
 contracts:
   - address: '0xba2ae424d960c26247dd6c32edc70b295c744c43'
     platform: BNB
+  - address: factory/osmo10pk4crey8fpdyqd62rsau0y02e3rk055w5u005ah6ly7k849k5tsf72x40/alloyed/allDOGE
+    platform: OSMO
 crypto: true
 decimals: 8
 fiat: false

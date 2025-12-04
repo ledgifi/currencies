@@ -1,6 +1,10 @@
 contracts:
   - address: '0x594DaaD7D77592a2b97b725A7AD59D7E188b5bFa'
     platform: ETH
+  - address: 26s3UGB9hund1qspApy1zYgCritxAooGg7o63BMn89Yq
+    platform: SOL
+  - address: '0xB9926b3fBc5873Db0182016D55727D5ae89E5EFd'
+    platform: TBA
 crypto: true
 fiat: false
 id: APU

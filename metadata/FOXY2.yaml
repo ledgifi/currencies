@@ -1,5 +1,7 @@
 contracts:
   - address: '0x5FBDF89403270a1846F5ae7D113A989F850d1566'
+    platform: LINEA
+  - address: '0x5FBDF89403270a1846F5ae7D113A989F850d1566'
     platform: TBA
 crypto: true
 fiat: false

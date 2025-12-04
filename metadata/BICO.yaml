@@ -1,6 +1,18 @@
 contracts:
+  - address: '0xa68Ec98D7ca870cF1Dd0b00EBbb7c4bF60A8e74d'
+    platform: ARB
+  - address: '0xB2a51E38893F153A5e40AF94958fe782a170a552'
+    platform: AVAX
+  - address: '0x06250a4962558F0F3E69FC07F4c67BB9c9eAc739'
+    platform: BNB
   - address: '0xf17e65822b568b3903685a7c9f496cf7656cc6c2'
     platform: ETH
+  - address: '0xd6909e9e702024eb93312b989ee46794c0fb1c9d'
+    platform: OP
+  - address: '0x91c89A94567980f0e9723b487b0beD586eE96aa7'
+    platform: POL
+  - address: '0xf5Dbaa3DFC5e81405c7306039fB037a3DCD57Ce2'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

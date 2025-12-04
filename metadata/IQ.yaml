@@ -1,5 +1,7 @@
 color: '#55ddff'
 contracts:
+  - address: everipediaiq
+    platform: A
   - address: '0xce4DB2ce8cCa463f8Aa1e2174C244Ba4a8d672cB'
     platform: ARB
   - address: everipediaiq

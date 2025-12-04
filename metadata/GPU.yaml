@@ -1,6 +1,8 @@
 contracts:
   - address: '0x1258d60b224c0c5cd888d37bbf31aa5fcfb7e870'
     platform: ETH
+  - address: '0x16A3832E690278D4979fd072FA4913BD1E8cbfD8'
+    platform: TBA
 crypto: true
 fiat: false
 id: GPU

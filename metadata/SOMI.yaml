@@ -1,3 +1,12 @@
+contracts:
+  - address: '0xa9616e5e23EC1582c2828B025bEcf3Ef610e266F'
+    platform: BNB
+  - address: '0x1B0F6590d21dc02B92ad3A7D00F8884dC4f1aed9'
+    platform: ETH
+  - address: '0x046ede9564a72571df6f5e44d0405360c0f4dcab'
+    platform: SOMI
+  - address: '0x47636b3188774a3E7273D85A537b9bA4Ee7b2535'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

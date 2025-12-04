@@ -3,6 +3,8 @@ contracts:
     platform: SOL
   - address: rCSCManTZ8ME9EoLrSHHYKW8PPwWMgkwr
     platform: XRP
+  - address: CSC.rCSCManTZ8ME9EoLrSHHYKW8PPwWMgkwr
+    platform: XRP
 crypto: true
 fiat: false
 id: CSC

@@ -9,6 +9,8 @@ contracts:
     platform: ETH
   - address: '0x41D9036454BE47d3745A823C4aaCD0e29cFB0f71'
     platform: MERL
+  - address: '0x0593e034dda23eea82d2ba9a30960ed42cf4a01502cc2351dc9b9881f9931a68'
+    platform: STRK
 crypto: true
 decimals: 8
 fiat: false

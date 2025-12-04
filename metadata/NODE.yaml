@@ -1,3 +1,10 @@
+contracts:
+  - address: '0x2f714d7b9a035d4ce24af8d9b6091c07e37f43fb'
+    platform: ARB
+  - address: '0x2f714d7b9a035d4ce24af8d9b6091c07e37f43fb'
+    platform: BNB
+  - address: '0x2f714d7b9a035d4ce24af8d9b6091c07e37f43fb'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false

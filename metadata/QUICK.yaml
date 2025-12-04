@@ -7,6 +7,8 @@ contracts:
     platform: POL
   - address: '0x68286607a1d43602d880d349187c3c48c0fd05e6'
     platform: POL
+  - address: '0x7094c27f342dbadfbbed005b219431595e33b305'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

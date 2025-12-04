@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: '0x9B3B0703D392321AD24338Ff1f846650437A43C9'
     platform: POL
+  - address: '0x2192607C3CBA9Ec3D490206d10d831E68E5F3c97'
+    platform: TBA
 crypto: true
 fiat: false
 id: BOSON

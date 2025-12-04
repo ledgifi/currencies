@@ -1,6 +1,8 @@
 contracts:
   - address: '0x9E6be44cC1236eEf7e1f197418592D363BedCd5A'
     platform: ETH
+  - address: '0x98703d0f6e86b9d3ea78cf7e768bdfdbfc40039f'
+    platform: TBA
 crypto: true
 fiat: false
 id: AZUR

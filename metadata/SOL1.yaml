@@ -7,6 +7,8 @@ contracts:
     platform: ETH
   - address: terra190tqwgqx7s8qrknz6kckct7v607cu068gfujpk
     platform: LUNC
+  - address: '0xea17E5a9efEBf1477dB45082d67010E2245217f1'
+    platform: MON
   - address: sol.token.a11bd.near
     platform: NEAR
   - address: '0x5f38248f339bf4e84a2caf4e4c0552862dc9f82a'

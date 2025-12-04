@@ -1,6 +1,14 @@
 contracts:
+  - address: '0xe5e851b01DD3Eda24FDe709a407dB44555B6d1E0'
+    platform: ARB
+  - address: '0x01b603be3D545F096015741e6503440282BF45fb'
+    platform: ETH
   - address: '0x2acc95758f8b5f583470ba265eb685a8f45fc9d5'
     platform: RBTC
+  - address: AAeENcfHbTExuTvs4q7r9Bjax98Dg6BGX3aMph4bTLdK
+    platform: SOL
+  - address: '0xe5e851b01DD3Eda24FDe709a407dB44555B6d1E0'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

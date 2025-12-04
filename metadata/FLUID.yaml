@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x61e030a56d33e8260fdd81f03b162a79fe3449cd'
+    platform: ARB
   - address: '0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb'
     platform: ETH
+  - address: '0x61e030a56d33e8260fdd81f03b162a79fe3449cd'
+    platform: TBA
 crypto: true
 fiat: false
 id: FLUID

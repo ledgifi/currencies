@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xa2437A33049E878c35E16d10789a7D296baDE29e'
     platform: ETH
+  - address: '0x478d742e1c7Ed2A8883Da95E6A5d6b41f2b8545d'
+    platform: ETH
 crypto: true
 fiat: false
 id: GALEON

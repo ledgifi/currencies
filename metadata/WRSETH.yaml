@@ -1,6 +1,8 @@
 contracts:
   - address: '0xe7903B1F75C534Dd8159b313d92cDCfbC62cB3Cd'
     platform: BLAST
+  - address: '0xD2671165570f41BBB3B0097893300b6EB6101E6C'
+    platform: LINEA
   - address: '0xe7903B1F75C534Dd8159b313d92cDCfbC62cB3Cd'
     platform: MODE
   - address: '0x87eEE96D50Fb761AD85B1c982d28A042169d61b1'

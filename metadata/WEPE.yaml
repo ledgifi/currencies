@@ -1,6 +1,8 @@
 contracts:
   - address: '0xccB365D2e11aE4D6d74715c680f56cf58bF4bF10'
     platform: ETH
+  - address: 2TV8tG8tfDMtChy4e5HGu3QBpH3oqXL8CZKCk2hMRSLv
+    platform: SOL
 crypto: true
 fiat: false
 id: WEPE

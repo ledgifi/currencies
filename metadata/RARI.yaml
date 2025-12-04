@@ -1,6 +1,8 @@
 contracts:
   - address: '0xfca59cd816ab1ead66534d82bc21e7515ce441cf'
     platform: ETH
+  - address: '0xc61f9663e05fccd84d4d6c56a373093437ecb899'
+    platform: TBA
 crypto: true
 fiat: false
 id: RARI

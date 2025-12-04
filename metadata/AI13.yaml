@@ -1,6 +1,8 @@
 contracts:
   - address: '0xbc544207ff1c5b2bc47a35f745010b603b97e99e'
     platform: ETH
+  - address: '0xf516562b703f46084EEB79aFE58Cc046572e56a7'
+    platform: TBA
 crypto: true
 fiat: false
 id: AI13

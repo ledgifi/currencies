@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x153374c6d6786b6ca2c4bc96f9c3a471428f2bc7'
+    platform: AVAX
+  - address: '0x6685906b75c61c57772c335402f594f855c1b0e3'
+    platform: BNB
   - address: '0x2a3bff78b79a009976eea096a51a948a3dc00e34'
     platform: ETH
+  - address: FVvd3s9dZYzsgitkJyWbmycSc8MkYZjyF7oqAEvmSxTZ
+    platform: SOL
 crypto: true
 fiat: false
 id: WILD

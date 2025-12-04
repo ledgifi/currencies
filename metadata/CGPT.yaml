@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0x25931894a86d47441213199621f1f2994e1c39aa'
     platform: ETH
+  - address: CCDfDXZxzZtkZLuhY48gyKdXc5KywqpR8xEVHHh8ck1G
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

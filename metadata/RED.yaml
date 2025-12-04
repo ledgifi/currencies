@@ -1,6 +1,10 @@
 contracts:
   - address: '0xc43c6bfeda065fe2c4c11765bf838789bd0bb5de'
     platform: ETH
+  - address: 3iLDkQgwyotMWno1E2WiDvMZnirNUeDZirCLoeCNNuGo
+    platform: SOL
+  - address: '0x4eB92702bA4cfbF80561BAd64D89C706Ac824960'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

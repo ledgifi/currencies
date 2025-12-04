@@ -1,6 +1,10 @@
 contracts:
+  - address: '0xB035723D62e0e2ea7499D76355c9D560f13ba404'
+    platform: BNB
   - address: '0x6E7F11641c1EC71591828E531334192d622703F7'
     platform: ETH
+  - address: '0xdA49591f442B8c7A5292C6Aa07655746299D6F4C'
+    platform: IMX
 crypto: true
 fiat: false
 id: OIK

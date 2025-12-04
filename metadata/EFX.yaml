@@ -1,4 +1,6 @@
 contracts:
+  - address: effecttokens
+    platform: A
   - address: '0xC51Ef828319b131B595b7ec4B28210eCf4d05aD0'
     platform: BNB
   - address: effecttokens

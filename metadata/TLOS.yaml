@@ -13,6 +13,8 @@ contracts:
     platform: ETH
   - address: '0x193f4A4a6ea24102F49b931DEeeb931f6E32405d'
     platform: POL
+  - address: '0x7252c865c05378ffc15120f428dd65804dd0ce63'
+    platform: TBA
   - address: eosio.token
     platform: TLOS
 crypto: true

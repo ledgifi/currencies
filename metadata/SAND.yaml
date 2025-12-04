@@ -6,6 +6,8 @@ contracts:
     platform: POL
   - address: 49c7WuCZkQgc3M4qH8WuEUNXfgwupZf1xqWkDQ7gjRGt
     platform: SOL
+  - address: '0xac531Eb26Ca1d21b85126De8FB87E80E09002DcF'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

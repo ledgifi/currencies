@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x92516e0DDf1dDBF7FAB1b79CaC26689fDC5ba8e6'
+    platform: BNB
+  - address: HUMA1821qVDKta3u2ovmfDQeW2fSQouSKE8fkF44wvGw
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

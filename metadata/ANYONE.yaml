@@ -1,6 +1,10 @@
 contracts:
   - address: '0xFeAc2Eae96899709a43E252B6B92971D32F9C0F9'
     platform: ETH
+  - address: '0xe67F39FbE8C24ef8b3542efED1eE9963cEFC1f2a'
+    platform: PEAQ
+  - address: '0xe67F39FbE8C24ef8b3542efED1eE9963cEFC1f2a'
+    platform: TBA
 crypto: true
 fiat: false
 id: ANYONE

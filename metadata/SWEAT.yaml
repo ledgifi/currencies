@@ -19,6 +19,8 @@ contracts:
     platform: SUI
   - address: '0x227d920e20ebac8a40e7d6431b7d724bb64d7245 '
     platform: TBA
+  - address: '0x227d920e20ebac8a40e7d6431b7d724bb64d7245'
+    platform: TBA
 crypto: true
 fiat: false
 id: SWEAT

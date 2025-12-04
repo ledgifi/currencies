@@ -1,6 +1,8 @@
 contracts:
   - address: '0x32B053F2CBA79F80ada5078cb6b305da92BDe6e1'
     platform: ETH
+  - address: BNC5eVJZixJFykygncDuUK5TpRBsWZuT6eSA99YNh2cZ
+    platform: SOL
 crypto: true
 fiat: false
 id: NEURAL

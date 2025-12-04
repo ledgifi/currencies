@@ -12,6 +12,8 @@ contracts:
   - address: '0x8b1f4432F943c465A973FeDC6d7aa50Fc96f1f65'
     platform: FTM
   - address: '0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f'
+    platform: LINEA
+  - address: '0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f'
     platform: MNT
   - address: '0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f'
     platform: OP

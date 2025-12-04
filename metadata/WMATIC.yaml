@@ -7,6 +7,8 @@ contracts:
     platform: BNB
   - address: '0x8e66c0d6b70c0b23d39f4b21a1eac52bba8ed89a'
     platform: IOTX
+  - address: '0x265b25e22bcd7f10a5bd6e6410f10537cc7567e8'
+    platform: LINEA
   - address: terra1dtqlfecglk47yplfrtwjzyagkgcqqngd5lgjp8
     platform: LUNC
   - address: ibc/AB589511ED0DD5FA56171A39978AFBF1371DB986EC1C3526CE138A16377E39BB

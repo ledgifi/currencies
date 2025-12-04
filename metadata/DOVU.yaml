@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x2aeAbde1aB736c59E9A19BeD67681869eEF39526'
+    platform: ETH
   - address: 0.0.3716059
     platform: HBAR
+  - address: '0xB38266e0e9D9681b77aEB0A280E98131b953F865'
+    platform: TBA
 crypto: true
 fiat: false
 id: DOVU

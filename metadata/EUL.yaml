@@ -1,6 +1,12 @@
 contracts:
+  - address: '0x462cd9e0247b2e63831c3189ae738e5e9a5a4b64'
+    platform: ARB
+  - address: '0x2117e8b79e8e176a670c9fcf945d4348556bffad'
+    platform: BNB
   - address: '0xd9fcd98c322942075a5c3860693e9f4f03aae07b'
     platform: ETH
+  - address: '0xa153ad732f831a79b5575fa02e793ec4e99181b0'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

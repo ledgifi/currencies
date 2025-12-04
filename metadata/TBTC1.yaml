@@ -9,6 +9,8 @@ contracts:
     platform: POL
   - address: 6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU
     platform: SOL
+  - address: '0x04daa17763b286d1e59b97c283c0b8c949994c361e426a28f743c67bdfe9a32f'
+    platform: STRK
   - address: '0x236aa50979d5f3de3bd1eeb40e81137f22ab794b'
     platform: TBA
 crypto: true

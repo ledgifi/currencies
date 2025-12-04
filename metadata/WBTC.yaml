@@ -32,6 +32,8 @@ contracts:
     platform: MERL
   - address: '0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4'
     platform: METIS
+  - address: '0x0555E30da8f98308EdB960aa94C0Db47230d2B9c'
+    platform: MON
   - address: '0x78f811a431d248c1edcf6d95ec8551879b2897c3'
     platform: MOVR
   - address: 2260fac5e5542a773aa44fbcfedf7c193bc2c599.factory.bridge.near
@@ -48,10 +50,16 @@ contracts:
     platform: POL
   - address: 3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh
     platform: SOL
+  - address: 5XZw2LKTyrfvfiskJ78AMpackRjPcyCif1WhUsPDuVqQ
+    platform: SOL
   - address: '0x3fe2b97c1fd336e750087d68b9b867997fd64a2661ff3ca5a7c771641e8e7ac'
+    platform: STRK
+  - address: '0x03fe2b97c1fd336e750087d68b9b867997fd64a2661ff3ca5a7c771641e8e7ac'
     platform: STRK
   - address: SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.token-wbtc
     platform: STX
+  - address: 0xaafb102dd0902f5055cadecd687fb5b71ca82ef0e0285d90afde828ec58ca96b::btc::BTC
+    platform: SUI
   - address: '0xf390830df829cf22c53c8840554b98eafc5dcbc2'
     platform: TLOS
   - address: '0x7627b27594bc71e6Ab0fCE755aE8931EB1E12DAC'
@@ -60,11 +68,17 @@ contracts:
     platform: TOMO
   - address: EQDcBkGHmC4pTf34x3Gm05XvepO5w60DNxZ-XT4I6-UGG5L5
     platform: TON
+  - address: TYhWwKpw43ENFWBTGpzLHn3882f2au7SMi
+    platform: TRX
+  - address: '0x0555E30da8f98308EdB960aa94C0Db47230d2B9c'
+    platform: UNI
   - address: '0x503b2ddc059b81788fd1239561596614b27faade'
     platform: VIC
   - address: '0x313dbD8e65C6499dE939e5317cA97Ccc6eD4c621'
     platform: VLX
   - address: 8LQW8f7P5d5PZM7GtZEBgaqRPGSzS3DfPuiXrURJ4AJS
+    platform: WAVES
+  - address: CPhNn4f754kvEvt7UFbC5NScGT7BNWuZivuEwPF2BpPY
     platform: WAVES
   - address: zil1wha8mzaxhm22dpm5cav2tepuldnr8kwkvmqtjq
     platform: ZIL

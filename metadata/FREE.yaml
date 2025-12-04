@@ -5,6 +5,8 @@ contracts:
     platform: ETH
   - address: FrEeWJreTHUyPgdJ3DWrdRg6X8qogF5zG5qdxMCgXtTy
     platform: SOL
+  - address: '1003134'
+    platform: TRX
 crypto: true
 fiat: false
 id: FREE

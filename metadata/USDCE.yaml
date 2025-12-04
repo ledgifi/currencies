@@ -3,6 +3,8 @@ contracts:
     platform: ARB
   - address: '0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664'
     platform: AVAX
+  - address: '0xdf0b24095e15044538866576754f3c964e902ee6'
+    platform: CORN
   - address: '0x748134b5f553f2bcbd78c6826de99a70274bdeb3'
     platform: MOVR
   - address: '0x7f5c764cbc14f9669b88837ca1490cca17c31607'
@@ -13,6 +15,8 @@ contracts:
     platform: S
   - address: '0x739222d8a9179fe05129c77a8fa354049c088caa'
     platform: SKR
+  - address: '0x28bec7e30e6faee657a03e19bf1128aad7632a00'
+    platform: SOMI
   - address: '0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4'
     platform: ZK
 crypto: true
