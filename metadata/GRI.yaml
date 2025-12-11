@@ -1,6 +1,8 @@
 contracts:
   - address: '0x134C857757308AEeC4c20CA2A583F560a906ed28'
     platform: BNB
+  - address: '0x36E41AA32b0C83739183C839DeaFA7b7D2E93c43'
+    platform: ETH
 crypto: true
 fiat: false
 id: GRI

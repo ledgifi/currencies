@@ -1,6 +1,8 @@
 contracts:
   - address: '0x817162975186d4d53dbf5a7377dd45376e2d2fc5'
     platform: ETH
+  - address: '0xeDAcC73AE9f73235934f72a43388404E4a2C4A24'
+    platform: TBA
 crypto: true
 fiat: false
 id: REACT

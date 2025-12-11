@@ -1,6 +1,10 @@
 contracts:
+  - address: '0x4ACD4D03af6F9cc0fB7C5f0868B7b6287D7969c5'
+    platform: BNB
   - address: '0xC4441c2BE5d8fA8126822B9929CA0b81Ea0DE38E'
     platform: ETH
+  - address: '0x4ACD4D03af6F9cc0fB7C5f0868B7b6287D7969c5'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

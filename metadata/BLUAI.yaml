@@ -1,6 +1,8 @@
 contracts:
   - address: '0xed9Ae3DEF8d6F052971Bb8b6d1975FF267Cf9aaD'
     platform: BNB
+  - address: 6ZnCkq5t8XG4q42b5JiVvU6hV5cZFaNdSBoFq5E7Vf9q
+    platform: SOL
   - address: 0xf8bfaf1cfefdc539a00e0bc37213c8f339cb411a6b0c4c023ed92f36c68d0fb6::bluwhale_ai::BLUWHALE_AI
     platform: SUI
 crypto: true

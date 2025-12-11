@@ -1,5 +1,7 @@
 contracts:
   - address: '0x2f2f2f74ab5db61AE8BD3c13ccD4Dc8c9E8A2f2f'
+    platform: MON
+  - address: '0x2f2f2f74ab5db61AE8BD3c13ccD4Dc8c9E8A2f2f'
     platform: S
   - address: '0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a'
     platform: ZK

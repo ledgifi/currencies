@@ -1,6 +1,8 @@
 contracts:
   - address: '0x524f61DEF05E5FA39482628C803Ba869899c07C6'
     platform: ETH
+  - address: '0x6eaEA1ED457E06F8CF6eE7Adf34e621844c3b0Fc'
+    platform: POL
 crypto: true
 fiat: false
 id: NESS

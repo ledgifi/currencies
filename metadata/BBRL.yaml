@@ -1,6 +1,8 @@
 contracts:
   - address: '0xB6BB22f4D1e58E9E43eFa2ec7F572D215B3CF08a'
     platform: BNB
+  - address: '0xB6BB22f4D1e58E9E43eFa2ec7F572D215B3CF08a'
+    platform: POL
   - address: rH5CJsqvNqZGxrMyGaqLEoMWRYcVTAPZMt
     platform: XRP
 crypto: true
