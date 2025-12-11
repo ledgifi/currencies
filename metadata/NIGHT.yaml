@@ -1,10 +1,12 @@
 contracts:
-  - address: '0xD33fd95fC17bc808b35e98458e078330F35Dbfa3'
-    platform: POL
+  - address: 0691b2fecca1ac4f53cb6dfb00b7013e561d1f34403b957cbb5af1fa4e49474854
+    platform: ADA
+  - address: '0xfe930c2d63aed9b82fc4dbc801920dd2c1a3224f'
+    platform: BNB
 crypto: true
 fiat: false
 id: NIGHT
-id_coinmarketcap: '31374'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31374.png
+id_coinmarketcap: '39064'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39064.png
 logoKey: currencies/night.png
 name: Midnight
