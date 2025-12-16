@@ -1,18 +1,10 @@
 contracts:
-  - address: '0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C'
-    platform: ARB
-  - address: '0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C'
-    platform: ETH
-  - address: '0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C'
-    platform: OP
-  - address: '0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C'
-    platform: POL
-  - address: '0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C'
-    platform: TBA
+  - address: '0xbb0fa2fbe9b37444f5d1dbd22e0e5bdd2afbbe85'
+    platform: BNB
 crypto: true
 fiat: false
 id: USDM1
-id_coinmarketcap: '29569'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29569.png
+id_coinmarketcap: '10029'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10029.png
 logoKey: currencies/usdm1.png
-name: Mountain Protocol
+name: USD mars

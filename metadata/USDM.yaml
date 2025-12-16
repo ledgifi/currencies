@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xbb0fa2fbe9b37444f5d1dbd22e0e5bdd2afbbe85'
-    platform: BNB
+  - address: c48cbb3d5e57ed56e276bc45f99ab39abe94e6cd7ac39fb402da47ad0014df105553444d
+    platform: ADA
 crypto: true
 fiat: false
 id: USDM
-id_coinmarketcap: '10029'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/10029.png
-logoKey: currencies/usdm.png
-name: USD mars
+id_coingecko: usdm-2
+logo: https://assets.coingecko.com/coins/images/38755/standard/USDM_Logo_01.jpg
+logoKey: currencies/usdm.jpg
+name: USDM
