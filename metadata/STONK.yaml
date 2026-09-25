@@ -1,10 +1,10 @@
 contracts:
-  - address: '0xb4058411967d5046f3510943103805be61f0600e'
-    platform: ETH
+  - address: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx
+    platform: SOL
 crypto: true
 fiat: false
 id: STONK
-id_coinmarketcap: '5843'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5843.png
+id_coinmarketcap: '42022'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/42022.png
 logoKey: currencies/stonk.png
-name: STONK
+name: STONK (stonkfun.xyz)
