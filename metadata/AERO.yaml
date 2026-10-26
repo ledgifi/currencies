@@ -2,8 +2,10 @@ contracts:
   - address: '0x940181a94a35a4569e4529a3cdfb74e38fd98631'
     platform: TBA
 crypto: true
+decimals: 8
 fiat: false
 id: AERO
+id_binance: '1791'
 id_coinmarketcap: '29270'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29270.png
 logoKey: currencies/aero.png

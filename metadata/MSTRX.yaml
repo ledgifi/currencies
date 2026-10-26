@@ -6,8 +6,10 @@ contracts:
   - address: XsP7xzNPvEHS1m6qfanPUGjNmdnmsLKEoNAnHjdxxyZ
     platform: SOL
 crypto: true
+decimals: 8
 fiat: false
 id: MSTRX
+id_binance: '1840'
 id_coinmarketcap: '37003'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37003.png
 logoKey: currencies/mstrx.png

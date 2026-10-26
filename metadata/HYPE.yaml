@@ -2,8 +2,10 @@ contracts:
   - address: '0x0d01dc56dcaaca66ad901c959b4011ec'
     platform: HYPE
 crypto: true
+decimals: 8
 fiat: false
 id: HYPE
+id_binance: '1857'
 id_coinmarketcap: '32196'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/32196.png
 logoKey: currencies/hype.png

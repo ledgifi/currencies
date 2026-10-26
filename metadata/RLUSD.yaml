@@ -6,8 +6,10 @@ contracts:
   - address: 524C555344000000000000000000000000000000.rMxCKbEDwqr76QuheSUMdEGf4B9xJ8m5De
     platform: XRP
 crypto: true
+decimals: 8
 fiat: false
 id: RLUSD
+id_binance: '1693'
 id_coinmarketcap: '34387'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34387.png
 logoKey: currencies/rlusd.png

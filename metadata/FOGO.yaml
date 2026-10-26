@@ -1,6 +1,8 @@
 crypto: true
+decimals: 8
 fiat: false
 id: FOGO
+id_binance: '1685'
 id_coinmarketcap: '38356'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38356.png
 logoKey: currencies/fogo.png

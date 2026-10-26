@@ -4,8 +4,10 @@ contracts:
   - address: '0xfe930c2d63aed9b82fc4dbc801920dd2c1a3224f'
     platform: BNB
 crypto: true
+decimals: 8
 fiat: false
 id: NIGHT
+id_binance: '1673'
 id_coinmarketcap: '39064'
 logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39064.png
 logoKey: currencies/night.png
