@@ -5,6 +5,7 @@ crypto: true
 fiat: false
 id: USDM
 id_coingecko: usdm-2
+id_coinmarketcap: '39192'
 logo: https://assets.coingecko.com/coins/images/38755/standard/USDM_Logo_01.jpg
 logoKey: currencies/usdm.jpg
 name: USDM

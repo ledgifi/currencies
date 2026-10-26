@@ -2,8 +2,9 @@ color: '#302c2c'
 crypto: true
 fiat: false
 id: GBYTE
+id_coinmarketcap: '1492'
 id_coinpaprika: gbyte-obyte
 id_nomics: GBYTE
 logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/gbyte.svg
 logoKey: currencies/gbyte.svg
-name: Obyte (gigabytes)
+name: Obyte
