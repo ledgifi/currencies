@@ -1,0 +1,24 @@
+contracts:
+  - address: '0x23AE4fd8E7844cdBc97775496eBd0E8248656028'
+    platform: BNB
+  - address: '0x2103E845C5E135493Bb6c2A4f0B8651956eA8682'
+    platform: ETH
+  - address: '0x14F0DFC32e8af769961B31ba3e89389bD6797652'
+    platform: HYPE
+  - address: '0xA0C4F78A29ead4ABf6b7f5B3F0d05C0f3EAb8DDf'
+    platform: PLUME
+  - address: 5aLhp9VnUEKcsdtkfsf2DUgpJfomx7GmYVny24dHUZoB
+    platform: SOL
+  - address: 0x9d297676e7a4b771ab023291377b2adfaa4938fb9080b8d12430e4b108b836a9::xaum::XAUM
+    platform: SUI
+  - address: '0x178b01f61CBeA1D2a5581Fe1621Be607835EC349'
+    platform: TBA
+  - address: CC2RBGYNCFBCVENIDL5BFBWPH4OUZM2UA3OD2K2N54GLMWCC4KWPVAGO
+    platform: XLM
+crypto: true
+fiat: false
+id: XAUM
+id_coinmarketcap: '34212'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34212.png
+logoKey: currencies/xaum.png
+name: Matrixdock Gold

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x38b9a53bfdc5dba58a29bd6992341927c2fca637'
+    platform: BNB
+  - address: '0x4111b60bc87F2Bd1e81E783E271D7F0ec6EE088B'
+    platform: ETH
+crypto: true
+fiat: false
+id: EFAON
+id_coinmarketcap: '38007'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38007.png
+logoKey: currencies/efaon.png
+name: iShares MSCI EAFE Tokenized ETF (Ondo)

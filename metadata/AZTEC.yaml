@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xA27EC0006e59f245217Ff08CD52A7E8b169E62D2'
+    platform: ETH
+crypto: true
+fiat: false
+id: AZTEC
+id_coinmarketcap: '39521'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39521.png
+logoKey: currencies/aztec.png
+name: Aztec

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x51C46f1d601C7D98DC34e9cbC980F7C280488a31'
+    platform: BNB
+  - address: '0xab6363da0c80cef3ae105bd6241e30872355d021'
+    platform: TBA
+crypto: true
+fiat: false
+id: ROLL1
+id_coinmarketcap: '39355'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39355.png
+logoKey: currencies/roll1.png
+name: RollX

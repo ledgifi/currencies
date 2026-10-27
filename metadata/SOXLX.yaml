@@ -1,0 +1,20 @@
+contracts:
+  - address: '0x53ee7f58cf031ea4d897fdfcdafad124b3160689'
+    platform: ARB
+  - address: '0x53ee7f58cf031ea4d897fdfcdafad124b3160689'
+    platform: BNB
+  - address: '0x53ee7f58cf031ea4d897fdfcdafad124b3160689'
+    platform: ETH
+  - address: '0x53ee7f58cf031ea4d897fdfcdafad124b3160689'
+    platform: HYPE
+  - address: '0x53ee7f58cf031ea4d897fdfcdafad124b3160689'
+    platform: INK
+  - address: '0x53ee7f58cf031ea4d897fdfcdafad124b3160689'
+    platform: MNT
+crypto: true
+fiat: false
+id: SOXLX
+id_coinmarketcap: '40147'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/40147.png
+logoKey: currencies/soxlx.png
+name: Direxion Semiconductor Bull 3X tokenized ETF (xStock)

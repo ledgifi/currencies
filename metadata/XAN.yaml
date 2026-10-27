@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x7427bd9542e64d1ac207a540cfce194b7390a07f'
+    platform: BNB
+  - address: '0xcedbea37c8872c4171259cdfd5255cb8923cf8e7'
+    platform: ETH
+crypto: true
+fiat: false
+id: XAN
+id_coinmarketcap: '38481'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38481.png
+logoKey: currencies/xan.png
+name: Anoma

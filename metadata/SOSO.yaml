@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x76A0e27618462bDAC7a29104bdcfFf4E6BFCea2D'
+    platform: ETH
+  - address: '0x624e2e7fdc8903165f64891672267ab0fcb98831'
+    platform: TBA
+crypto: true
+fiat: false
+id: SOSO
+id_coinmarketcap: '35818'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/35818.png
+logoKey: currencies/soso.png
+name: SoSoValue

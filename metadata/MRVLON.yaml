@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x1501ec83ffef405b4331cc4f73277a40fb0c627d'
+    platform: BNB
+  - address: '0xF404E5f887dBd5508e16a1198fCDD5DE1A4296B8'
+    platform: ETH
+crypto: true
+fiat: false
+id: MRVLON
+id_coinmarketcap: '38089'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38089.png
+logoKey: currencies/mrvlon.png
+name: Marvell Technology Tokenized Stock (Ondo)

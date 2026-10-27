@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x30117E4bC17d7B044194b76A38365C53b72F7D49'
+    platform: BNB
+  - address: '0x2798b1cC5A993085E8A9D46e80499F1B63f42204'
+    platform: ETH
+crypto: true
+fiat: false
+id: GWEI1
+id_coinmarketcap: '39379'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39379.png
+logoKey: currencies/gwei1.png
+name: ETHGas

@@ -1,0 +1,10 @@
+contracts:
+  - address: x/ruji
+    platform: RUNE
+crypto: true
+fiat: false
+id: RUJI
+id_coinmarketcap: '39910'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39910.png
+logoKey: currencies/ruji.png
+name: Rujira

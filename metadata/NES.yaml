@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x097acf27503753e77bCA940277806156C5925B81'
+    platform: BNB
+  - address: '0x863F08A3d3B14fbD3D42fFD061D0e290F7dBC538'
+    platform: ETH
+crypto: true
+fiat: false
+id: NES
+id_coinmarketcap: '30140'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30140.png
+logoKey: currencies/nes.png
+name: Nesa

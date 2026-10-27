@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x02bcC4C181B83a8c0A342BC003389CbEcb4BC54D'
+    platform: BNB
+  - address: SLXdx4BUt2v9uJQNzWqSfzTJ9UKLUDsvxHFMEEdrfgq
+    platform: SOL
+crypto: true
+fiat: false
+id: SLX
+id_coinmarketcap: '40047'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/40047.png
+logoKey: currencies/slx.png
+name: Solstice

@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xAAA9214F675316182Eaa21C85f0Ca99160CC3AAA'
+    platform: BNB
+  - address: '0xAAA9214F675316182Eaa21C85f0Ca99160CC3AAA'
+    platform: ETH
 crypto: true
 fiat: false
 id: QANX

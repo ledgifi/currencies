@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x2ac26ec236df5d1d2ad1a6dd4e448a90e45dc35d'
+    platform: BNB
+  - address: '0x2Df38cA485D01fC15e4FD85847ed26b7EF871c1c'
+    platform: ETH
+crypto: true
+fiat: false
+id: TIPON
+id_coinmarketcap: '38068'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38068.png
+logoKey: currencies/tipon.png
+name: iShares TIPS Bond Tokenized ETF (Ondo)

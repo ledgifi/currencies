@@ -1,0 +1,18 @@
+contracts:
+  - address: '0xbf59dbc154421a7b37f4f2841e11f4ed2a1dee7c'
+    platform: BNB
+  - address: '0xbf59dbc154421a7b37f4f2841e11f4ed2a1dee7c'
+    platform: ETH
+  - address: 5g6wVay8NYQ5Tspo4irj9YqSFfQoPDW7apkX352N29PP
+    platform: SOL
+  - address: '0xFb31f85A8367210B2e4Ed2360D2dA9Dc2D2Ccc95'
+    platform: TBA
+  - address: '0x88C4C42ED68584FF02F5a00D5D3D985108A3961C'
+    platform: TBA
+crypto: true
+fiat: false
+id: EDEL
+id_coinmarketcap: '38966'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38966.png
+logoKey: currencies/edel.png
+name: Edel

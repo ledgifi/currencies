@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x46F2564E0FA8248d15125E7e54173cfbdEf91Be7'
+    platform: BNB
+  - address: '0xAD29F2723fcdBcF665F210F25E06f97477e417cF'
+    platform: ETH
+crypto: true
+fiat: false
+id: GRVT
+id_coinmarketcap: '40814'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/40814.png
+logoKey: currencies/grvt.png
+name: Grvt

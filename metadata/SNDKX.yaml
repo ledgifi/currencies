@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xb63efbc28860c8097e341de1fcf59456161e9d98'
+    platform: ETH
+  - address: '0xb63EFBc28860c8097e341DE1fCF59456161E9D98'
+    platform: OKB
+crypto: true
+fiat: false
+id: SNDKX
+id_coinmarketcap: '40037'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/40037.png
+logoKey: currencies/sndkx.png
+name: Sandisk Corporation tokenized stock(xstock)

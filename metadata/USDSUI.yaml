@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x44f838219cf67b058f3b37907b655f226153c18e33dfcd0da559a844fea9b1c1::usdsui::USDSUI
+    platform: SUI
+crypto: true
+fiat: false
+id: USDSUI
+id_coinmarketcap: '38942'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38942.png
+logoKey: currencies/usdsui.png
+name: USDsui

@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x52B5fB4B0F6572B8C44d0251Cc224513ac5eB7E7'
+    platform: BNB
+  - address: '0xb0bd54846a92b214c04a63b26ad7dc5e19a60808'
+    platform: BOB
+  - address: '0xC9746F73cC33a36c2cD55b8aEFD732586946Cedd'
+    platform: ETH
+crypto: true
+fiat: false
+id: BOB2
+id_coinmarketcap: '38970'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38970.png
+logoKey: currencies/bob2.png
+name: BOB (Build on Bitcoin)

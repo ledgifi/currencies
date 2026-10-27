@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xd20fB09A49a8e75Fef536A2dBc68222900287BAc'
+    platform: BNB
+  - address: PERLEQKUNUp1dgFZ8EvyXHdN9d6ZQqfGxALDvfs6pDs
+    platform: SOL
+crypto: true
+fiat: false
+id: PRL
+id_coinmarketcap: '39797'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39797.png
+logoKey: currencies/prl.png
+name: Perle

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x71E9dc9DEbc18650BD2342B93623B88C2aD00c89'
+    platform: BNB
+  - address: '0xECABE1Ff8a9e1dC55899cf58dac8497ecE5Ae84c'
+    platform: ETH
+crypto: true
+fiat: false
+id: STRCON
+id_coinmarketcap: '39923'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39923.png
+logoKey: currencies/strcon.png
+name: Strategy Stretch Preferred Tokenized Stock (Ondo)

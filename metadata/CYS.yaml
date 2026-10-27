@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x0C69199C1562233640e0Db5Ce2c399A88eB507C7'
+    platform: BNB
+  - address: '0x19e8d59ff3D7A31289e0Dc04Db48d43b02c7ffa6'
+    platform: TBA
+crypto: true
+fiat: false
+id: CYS
+id_coinmarketcap: '39071'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39071.png
+logoKey: currencies/cys.png
+name: Cysic

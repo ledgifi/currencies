@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x1E9A8531548aEd9b7fb83e80eF66422d182998C3'
+    platform: BNB
+  - address: '0xBBDE7EFB7a1AB3ED9122a14b33dC5C07D982367E'
+    platform: ETH
+crypto: true
+fiat: false
+id: CENT
+id_coinmarketcap: '38754'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38754.png
+logoKey: currencies/cent.png
+name: Incentiv

@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x9dC44ae5BE187ECA9e2A67e33f27A4c91cEA1223'
+    platform: BNB
+  - address: '0x9dC44ae5BE187ECA9e2A67e33f27A4c91cEA1223'
+    platform: ETH
+  - address: '0x394cEF8bDd737EE24DBc9f43d0d5D2ab83136054'
+    platform: RON
+crypto: true
+fiat: false
+id: POWER1
+id_coinmarketcap: '39042'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39042.png
+logoKey: currencies/power1.png
+name: Power Protocol

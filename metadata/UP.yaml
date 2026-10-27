@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x000008D2175F9AEAdDb2430c26f8A6f73c5A0000'
+    platform: BNB
+  - address: '0x00007Ac313f4f4C1AD809E8A4Ca42bc613AA0000'
+    platform: ETH
+  - address: 7Zhxshgt7Ft6pHFYMrHE1epWdWre7sJ1Af1GhEUnitas
+    platform: SOL
+crypto: true
+fiat: false
+id: UP
+id_coinmarketcap: '39665'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39665.png
+logoKey: currencies/up.png
+name: Unitas

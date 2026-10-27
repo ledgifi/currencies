@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x68B07cEf227Cea1b2b6683921C8c825cd5C69Ec7'
+    platform: BNB
+  - address: '0x122940c4C5F9cCFAe7Fa86455a42D3EC140855cE'
+    platform: ETH
+crypto: true
+fiat: false
+id: IBITON
+id_coinmarketcap: '39769'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39769.png
+logoKey: currencies/ibiton.png
+name: iShares Bitcoin Trust Tokenized Stock (Ondo)

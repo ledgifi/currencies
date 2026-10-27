@@ -1,0 +1,16 @@
+contracts:
+  - address: '0xeec6574eabba52bac3f0277f2cd5ac7e67197886'
+    platform: BNB
+  - address: '0xEEC6574eAbBa52bac3f0277F2cD5Ac7e67197886'
+    platform: ETH
+  - address: '0xEEC6574eAbBa52bac3f0277F2cD5Ac7e67197886'
+    platform: POL
+  - address: '0x3EBA6644819546C44Eb3e7c3A92f034f921dcA80'
+    platform: TBA
+crypto: true
+fiat: false
+id: KII
+id_coinmarketcap: '41773'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/41773.png
+logoKey: currencies/kii.png
+name: KiiChain

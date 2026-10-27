@@ -1,0 +1,22 @@
+contracts:
+  - address: '0xf6a873bae4ba1b304e45df52a4b7d176e1c6a8c4'
+    platform: ARB
+  - address: '0xf6a873bae4ba1b304e45df52a4b7d176e1c6a8c4'
+    platform: BNB
+  - address: '0xf6a873bae4ba1b304e45df52a4b7d176e1c6a8c4'
+    platform: ETH
+  - address: '0xf6a873bae4ba1b304e45df52a4b7d176e1c6a8c4'
+    platform: HYPE
+  - address: '0xf6a873bae4ba1b304e45df52a4b7d176e1c6a8c4'
+    platform: INK
+  - address: '0xf6a873bae4ba1b304e45df52a4b7d176e1c6a8c4'
+    platform: MNT
+  - address: '0xf6a873BAe4Ba1B304e45dF52A4b7D176E1C6a8c4'
+    platform: OKB
+crypto: true
+fiat: false
+id: MUX
+id_coinmarketcap: '40175'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/40175.png
+logoKey: currencies/mux.png
+name: Micron Technology tokenized stock (xStock)

@@ -1,0 +1,24 @@
+contracts:
+  - address: '0xfa15e42c18cf57aeef4b1bac1cee7754af7cfe42'
+    platform: ARB
+  - address: '0xfa15e42c18cf57aeef4b1bac1cee7754af7cfe42'
+    platform: BNB
+  - address: '0xfa15e42c18cf57aeef4b1bac1cee7754af7cfe42'
+    platform: ETH
+  - address: '0xfa15e42c18cf57aeef4b1bac1cee7754af7cfe42'
+    platform: HYPE
+  - address: '0xfa15e42c18cf57aeef4b1bac1cee7754af7cfe42'
+    platform: INK
+  - address: '0xfa15e42c18cf57aeef4b1bac1cee7754af7cfe42'
+    platform: MNT
+  - address: '0xfa15e42c18cf57aeef4b1bac1cee7754af7cfe42'
+    platform: OKB
+  - address: '0xfa15e42c18cf57aeef4b1bac1cee7754af7cfe42'
+    platform: OP
+crypto: true
+fiat: false
+id: TCENTX
+id_coinmarketcap: '41050'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/41050.png
+logoKey: currencies/tcentx.png
+name: Tencent Tokenized Stock (xStock)

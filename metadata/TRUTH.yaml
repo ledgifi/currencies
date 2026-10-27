@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x0a48f85a3905cfa49a652bdb074d9e9fabad27892d54afaa5c9e0adeb7ac3cdf::swarm_network_token::SWARM_NETWORK_TOKEN
+    platform: SUI
+crypto: true
+fiat: false
+id: TRUTH
+id_coinmarketcap: '38178'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38178.png
+logoKey: currencies/truth.png
+name: Swarm Network

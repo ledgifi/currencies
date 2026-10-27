@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x87acFA3fD7A6e0d48677D070644D76905C2bDC00'
+    platform: BNB
+  - address: '0x87acFA3fD7A6e0d48677D070644D76905C2bDC00'
+    platform: ETH
+crypto: true
+fiat: false
+id: SPACE
+id_coinmarketcap: '38136'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38136.png
+logoKey: currencies/space.png
+name: Spacecoin

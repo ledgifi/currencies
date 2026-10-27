@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x0a092e544da31150b439a1aaa1a3a2214a867f46'
+    platform: BNB
+  - address: '0x0a092e544da31150b439a1aaa1a3a2214a867f46'
+    platform: ETH
+crypto: true
+fiat: false
+id: CT1
+id_coinmarketcap: '42253'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/42253.png
+logoKey: currencies/ct1.png
+name: Concrete

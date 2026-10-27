@@ -22,6 +22,8 @@ contracts:
     platform: FTM
   - address: '0x922d641a426dcffaef11680e5358f34d97d112e1'
     platform: GLMR
+  - address: EQDcBkGHmC4pTf34x3Gm05XvepO5w60DNxZ-XT4I6-UGG5L5
+    platform: GRAM
   - address: '0xC7b93720F73b037394cE00f954f849Ed484a3dEA'
     platform: IOTX
   - address: '0xfA93C12Cd345c658bc4644D1D4E1B9615952258C'
@@ -80,6 +82,8 @@ contracts:
     platform: WAVES
   - address: CPhNn4f754kvEvt7UFbC5NScGT7BNWuZivuEwPF2BpPY
     platform: WAVES
+  - address: '0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f'
+    platform: XTZ
   - address: zil1wha8mzaxhm22dpm5cav2tepuldnr8kwkvmqtjq
     platform: ZIL
   - address: '0xBBeB516fb02a01611cBBE0453Fe3c580D7281011'

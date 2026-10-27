@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x4693f6f5ef257381a28afd0673e64d8b32d5c6ad'
+    platform: BNB
+  - address: '0xCa468554e5C0423Ee858fe3942c9568C51FcAa79'
+    platform: ETH
+crypto: true
+fiat: false
+id: HIMSON
+id_coinmarketcap: '38034'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38034.png
+logoKey: currencies/himson.png
+name: Hims & Hers Health Tokenized Stock (Ondo)

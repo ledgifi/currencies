@@ -5,6 +5,8 @@ contracts:
     platform: BNB
   - address: '0xC004e2318722EA2b15499D6375905d75Ee5390B8'
     platform: POL
+  - address: '0x52BaCFbf0e3F7C16Bc883e8F6D7C9Bc3Ad41558B'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

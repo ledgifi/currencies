@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x5506599c722389a60580b5213ea1da60d64754a1'
+    platform: BNB
+  - address: '0xf326c8c9a691319f6330e27aa4a39f2d22c88dc5'
+    platform: ETH
+  - address: '0x7297968ffb753dd12e4f6b1f18d9865c76707fc2'
+    platform: TBA
+crypto: true
+fiat: false
+id: ZEST
+id_coinmarketcap: '40008'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/40008.png
+logoKey: currencies/zest.png
+name: Zest Protocol

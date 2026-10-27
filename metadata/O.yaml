@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x500A02a20B0B0A3F3efCCFc0559543F5743bd1C4'
+    platform: BNB
+  - address: '0x182fa643e5f29d5eca75e7b9cf9336a3fe4620b2'
+    platform: TBA
+crypto: true
+fiat: false
+id: O
+id_coinmarketcap: '40092'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/40092.png
+logoKey: currencies/o.png
+name: o1.exchange

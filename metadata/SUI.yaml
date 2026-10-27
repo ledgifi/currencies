@@ -1,4 +1,6 @@
 contracts:
+  - address: suifhC9gU1VbJAPYPTBkHJyyyStKGLLYPVDTmPoqbvA
+    platform: SOL
   - address: 0x2::sui::SUI
     platform: SUI
 crypto: true

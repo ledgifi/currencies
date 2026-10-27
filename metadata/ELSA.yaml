@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x29cC30f9D113B356Ce408667aa6433589CeCBDcA'
+    platform: MNT
+  - address: '0x29cc30f9d113b356ce408667aa6433589cecbdca'
+    platform: TBA
+crypto: true
+fiat: false
+id: ELSA
+id_coinmarketcap: '39387'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39387.png
+logoKey: currencies/elsa.png
+name: HeyElsa

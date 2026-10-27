@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x6a708ead771238919d85930b5a0f10454e1c331a'
+    platform: BNB
+  - address: '0xFeDC5f4a6c38211c1338aa411018DFAf26612c08'
+    platform: ETH
+  - address: '0x32eC2792aeC02122eDD9f28866B720db1e1c1B54'
+    platform: HYPE
+crypto: true
+fiat: false
+id: SPYON
+id_coinmarketcap: '38067'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38067.png
+logoKey: currencies/spyon.png
+name: SPDR S&P 500 Tokenized ETF (Ondo)

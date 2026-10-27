@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x99991c6AAbba5a096f24f250b73580F5179b9999'
+    platform: BNB
+  - address: '0x99991c6AAbba5a096f24f250b73580F5179b9999'
+    platform: ETH
+crypto: true
+fiat: false
+id: CAP1
+id_coinmarketcap: '40531'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/40531.png
+logoKey: currencies/cap1.png
+name: Cap

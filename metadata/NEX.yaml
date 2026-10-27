@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x365de036a1f7dccb621530d517133521debb2013'
+    platform: BNB
+  - address: '0xf57D49646621F563b0B905aFc8336923AC569Ec5'
+    platform: ETH
+crypto: true
+fiat: false
+id: NEX
+id_coinmarketcap: '39965'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39965.png
+logoKey: currencies/nex.png
+name: Nexus

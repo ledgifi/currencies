@@ -5,6 +5,12 @@ contracts:
     platform: BNB
   - address: '0x904567252D8F48555b7447c67dCA23F0372E16be'
     platform: ETH
+  - address: '0x118B70dF4F06Fa5678E7d543e6066e028C8ea0c0'
+    platform: ETH
+  - address: '0x1ea14af5f4e13431ceda398ec7823441'
+    platform: HYPE
+  - address: '0xbc28beac0b6765429c8ee7a6acab2af5a4e7a679'
+    platform: HYPE
 crypto: true
 decimals: 8
 fiat: false

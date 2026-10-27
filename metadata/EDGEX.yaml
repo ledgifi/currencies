@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x70f2eadf1ca1969ff42b0c78e9da519e8937cbaf'
+    platform: BNB
+  - address: '0xB0076DE78Dc50581770BBa1D211dDc0aD4F2a241'
+    platform: ETH
+crypto: true
+fiat: false
+id: EDGEX
+id_coinmarketcap: '39720'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39720.png
+logoKey: currencies/edgex.png
+name: edgeX

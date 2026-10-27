@@ -3,6 +3,8 @@ contracts:
     platform: APT
   - address: '0xf3d5b4c34ed623478cc5141861776e6cf7ae3a1e'
     platform: BNB
+  - address: '0xF3d5b4c34Ed623478cc5141861776E6cf7AE3A1E'
+    platform: TBA
 crypto: true
 fiat: false
 id: KGEN

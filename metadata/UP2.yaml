@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x1D926bbE67425C9F507b9A0E8030eEdc7880BF33'
+    platform: ETH
+  - address: '0x5b2193fDc451C1f847bE09CA9d13A4Bf60f8c86B'
+    platform: TBA
+crypto: true
+fiat: false
+id: UP2
+id_coinmarketcap: '39552'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39552.png
+logoKey: currencies/up2.png
+name: Superform

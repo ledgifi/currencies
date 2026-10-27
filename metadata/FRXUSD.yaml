@@ -1,0 +1,28 @@
+contracts:
+  - address: '0x80eede496655fb9047dd39d9f418d5483ed600df'
+    platform: ARB
+  - address: '0x80Eede496655FB9047dd39d9f418d5483ED600df'
+    platform: BNB
+  - address: '0xCAcd6fd266aF91b8AeD52aCCc382b4e165586E29'
+    platform: ETH
+  - address: '0xFc00000000000000000000000000000000000001'
+    platform: FRAX
+  - address: '0xC7346783f5e645aa998B106Ef9E7f499528673D8'
+    platform: LINEA
+  - address: '0x80Eede496655FB9047dd39d9f418d5483ED600df'
+    platform: OP
+  - address: '0x80eede496655fb9047dd39d9f418d5483ed600df'
+    platform: S
+  - address: '0x80eede496655fb9047dd39d9f418d5483ed600df'
+    platform: SEI
+  - address: GzX1ireZDU865FiMaKrdVB1H6AE8LAqWYCg6chrMrfBw
+    platform: SOL
+  - address: '0xe5020A6d073a794B6E7f05678707dE47986Fb0b6'
+    platform: TBA
+crypto: true
+fiat: false
+id: FRXUSD
+id_coinmarketcap: '36039'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36039.png
+logoKey: currencies/frxusd.png
+name: Frax USD

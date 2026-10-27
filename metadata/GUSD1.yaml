@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xaf6186b3521b60e27396b5d23b48abc34bf585c5'
+    platform: ETH
+crypto: true
+fiat: false
+id: GUSD1
+id_coinmarketcap: '38330'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38330.png
+logoKey: currencies/gusd1.png
+name: GUSD

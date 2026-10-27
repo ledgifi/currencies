@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x444045B0EE1ee319A660a5E3d604CA0ffA35ACaA'
+    platform: BNB
+  - address: '0x3A63DE3572c69a1307ff08394f3Ee7702C16d25d'
+    platform: ETH
+crypto: true
+fiat: false
+id: BTW1
+id_coinmarketcap: '39158'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39158.png
+logoKey: currencies/btw1.png
+name: Bitway

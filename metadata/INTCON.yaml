@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xa528caaa2f96090e379d43f90834c75df54d6e74'
+    platform: BNB
+  - address: '0xFdA09936DbD717368De0835bA441d9E62069d36f'
+    platform: ETH
+crypto: true
+fiat: false
+id: INTCON
+id_coinmarketcap: '38035'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38035.png
+logoKey: currencies/intcon.png
+name: Intel Tokenized Stock (Ondo)

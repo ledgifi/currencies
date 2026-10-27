@@ -1,0 +1,10 @@
+contracts:
+  - address: 0x9f854b3ad20f8161ec0886f15f4a1752bf75d22261556f14cc8d3a1c5d50e529::magma::MAGMA
+    platform: SUI
+crypto: true
+fiat: false
+id: MAGMA
+id_coinmarketcap: '39121'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39121.png
+logoKey: currencies/magma.png
+name: Magma Finance

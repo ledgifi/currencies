@@ -1,0 +1,16 @@
+contracts:
+  - address: '0xDf24f8c21Cb404B3031a450D8e049D6E39FC1fA5'
+    platform: BNB
+  - address: '0xb1110919016846972056AB995054D65560D5f05E'
+    platform: ETH
+  - address: '0x55b9f84605b30df9bb9d817a6900219f25218157'
+    platform: MNT
+  - address: Bi11Je4MH3PpyCNiuTAepRbsA5U6DK3DJy79ZFthddX
+    platform: SOL
+crypto: true
+fiat: false
+id: BILL1
+id_coinmarketcap: '39545'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39545.png
+logoKey: currencies/bill1.png
+name: Billions Network

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xd5f6ef5deabe61e6d5cdb49bfb6f156f2c1ca715'
+    platform: BNB
+  - address: ARXwZkNAtzPfdcoqQiduJn8EPv9fKiDfGn2KyggyDrFs
+    platform: SOL
+crypto: true
+fiat: false
+id: ARX1
+id_coinmarketcap: '39970'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39970.png
+logoKey: currencies/arx1.png
+name: Arcium

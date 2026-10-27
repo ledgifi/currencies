@@ -1,0 +1,16 @@
+contracts:
+  - address: '0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a'
+    platform: BNB
+  - address: '0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a'
+    platform: ETH
+  - address: '0x598e49f01befeb1753737934a5b11fea9119c796'
+    platform: POL
+  - address: '0xb20a4bd059f5914a2f8b9c18881c637f79efb7df'
+    platform: TBA
+crypto: true
+fiat: false
+id: ADS
+id_coinmarketcap: '1883'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1883.png
+logoKey: currencies/ads.png
+name: Adshares

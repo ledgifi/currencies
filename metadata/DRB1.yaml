@@ -1,0 +1,10 @@
+contracts:
+  - address: '0x3ec2156d4c0a9cbdab4a016633b7bcf6a8d68ea2'
+    platform: TBA
+crypto: true
+fiat: false
+id: DRB1
+id_coinmarketcap: '41909'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/41909.png
+logoKey: currencies/drb1.png
+name: DebtReliefBot

@@ -1,0 +1,20 @@
+contracts:
+  - address: '0x68fa48b1c2fe52b3d776e1953e0e782b5044ce28'
+    platform: ARB
+  - address: '0x68fa48b1c2fe52b3d776e1953e0e782b5044ce28'
+    platform: BNB
+  - address: '0x68fa48b1c2fe52b3d776e1953e0e782b5044ce28'
+    platform: ETH
+  - address: '0x68fa48b1c2fe52b3d776e1953e0e782b5044ce28'
+    platform: HYPE
+  - address: '0x68fa48b1c2fe52b3d776e1953e0e782b5044ce28'
+    platform: MNT
+  - address: '0x68fa48B1C2FE52b3D776E1953e0E782b5044Ce28'
+    platform: OKB
+crypto: true
+fiat: false
+id: SPCXX
+id_coinmarketcap: '40218'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/40218.png
+logoKey: currencies/spcxx.png
+name: SpaceX tokenized stock (xStock)

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xd8a271974e8edae9d7b58e3370dc1669427503f4'
+    platform: ETH
+  - address: BWsnyEa1XtsNRdgPaDoA1WVUonF7BBGZTd2zc72NQsWT
+    platform: SOL
+crypto: true
+fiat: false
+id: BLEND
+id_coinmarketcap: '39666'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39666.png
+logoKey: currencies/blend.png
+name: Fluent

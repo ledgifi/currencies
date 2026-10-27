@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x45f55b46689402583073ff227b6ac20520052a24'
+    platform: BNB
+  - address: '0xdeF1b2D939EdC0E4d35806c59b3166F790175afe'
+    platform: ETH
+  - address: inxKXw9V2NDZE7hDijzpJaKKUb97NEPJDTCEEiYg4yY
+    platform: SOL
+crypto: true
+fiat: false
+id: INX
+id_coinmarketcap: '39461'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39461.png
+logoKey: currencies/inx.png
+name: Infinex

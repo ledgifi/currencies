@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xb0f09ea9ae0515c3551080d4a745c8115aa30e37'
+    platform: BNB
+  - address: '0x951f086a127e280724fd93ccc543f65065afeb5e'
+    platform: ETH
+crypto: true
+fiat: false
+id: DOS
+id_coinmarketcap: '40980'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/40980.png
+logoKey: currencies/dos.png
+name: DAPPOS

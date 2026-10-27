@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x53EC33Cd4fA46b9ecED9cA3f6dB626C5FfCd55cC'
+    platform: BNB
+  - address: 0x99cc0e7834326ec6ac571421e9b8e042e9eb63062771c77ac592bd194180b5da::deagent_token::DEAGENT_TOKEN
+    platform: SUI
+crypto: true
+fiat: false
+id: AIA
+id_coinmarketcap: '38430'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38430.png
+logoKey: currencies/aia.png
+name: DeAgentAI

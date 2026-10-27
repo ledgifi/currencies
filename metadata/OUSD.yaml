@@ -1,0 +1,10 @@
+contracts:
+  - address: ousd2mJsPEckLHcSCDxyKD7NDGARZcfLbDZkKiatYHB
+    platform: SOL
+crypto: true
+fiat: false
+id: OUSD
+id_coinmarketcap: '40671'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/40671.png
+logoKey: currencies/ousd.png
+name: Open USD

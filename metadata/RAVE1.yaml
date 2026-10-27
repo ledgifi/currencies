@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x97693439ea2f0ecdeb9135881e49f354656a911c'
+    platform: BNB
+  - address: '0x17205fab260a7a6383a81452cE6315A39370Db97'
+    platform: ETH
+  - address: '0x1aa8fd5bcce2231c6100d55bf8b377cff33acfc3'
+    platform: TBA
+crypto: true
+fiat: false
+id: RAVE1
+id_coinmarketcap: '38967'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38967.png
+logoKey: currencies/rave1.png
+name: RaveDAO

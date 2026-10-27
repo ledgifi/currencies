@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x0cde6936d305d5b34667fc46425e852efd73559a'
+    platform: BNB
+  - address: '0x0e397938C1Aa0680954093495B70A9F5e2249aBa'
+    platform: ETH
+  - address: '0x911e2dCD2b70F44231F3F0f1C6ec9aF75068FD85'
+    platform: HYPE
+crypto: true
+fiat: false
+id: QQQON
+id_coinmarketcap: '38094'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38094.png
+logoKey: currencies/qqqon.png
+name: Invesco QQQ Tokenized ETF (Ondo)

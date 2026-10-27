@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x61fac5f038515572d6f42d4bcb6b581642753d50'
+    platform: BNB
+  - address: '0x61fac5f038515572d6f42d4bcb6b581642753d50'
+    platform: ETH
+crypto: true
+fiat: false
+id: IN
+id_coinmarketcap: '37609'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/37609.png
+logoKey: currencies/in.png
+name: INFINIT

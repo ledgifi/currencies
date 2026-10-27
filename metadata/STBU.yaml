@@ -7,6 +7,8 @@ contracts:
     platform: ETH
   - address: '0xcf403036bc139d30080d2cf0f5b48066f98191bb'
     platform: POL
+  - address: '0xe0c0F44A84CC4a60206360006ebA237a5e8fC2dd'
+    platform: TBA
 crypto: true
 fiat: false
 id: STBU

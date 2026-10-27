@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x12C2dE43878FB1A06C1Ead481f11E0C693a719c7'
+    platform: ARB
+  - address: '0x10D4183389e99233db3cc981c43443Ebd28Ebd5e'
+    platform: BNB
+crypto: true
+fiat: false
+id: DGAI
+id_coinmarketcap: '41912'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/41912.png
+logoKey: currencies/dgai.png
+name: DGrid AI

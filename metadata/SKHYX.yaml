@@ -1,0 +1,24 @@
+contracts:
+  - address: '0x58100046a4afcd4ee4fadbd4244f3f895a341c56'
+    platform: ARB
+  - address: '0x58100046a4afcd4ee4fadbd4244f3f895a341c56'
+    platform: BNB
+  - address: '0x58100046a4afcd4ee4fadbd4244f3f895a341c56'
+    platform: ETH
+  - address: '0x58100046a4afcd4ee4fadbd4244f3f895a341c56'
+    platform: HYPE
+  - address: '0x58100046a4afcd4ee4fadbd4244f3f895a341c56'
+    platform: INK
+  - address: '0x58100046a4afcd4ee4fadbd4244f3f895a341c56'
+    platform: MNT
+  - address: '0x58100046a4Afcd4eE4faDbD4244f3f895a341c56'
+    platform: OKB
+  - address: '0x58100046a4afcd4ee4fadbd4244f3f895a341c56'
+    platform: OP
+crypto: true
+fiat: false
+id: SKHYX
+id_coinmarketcap: '40786'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/40786.png
+logoKey: currencies/skhyx.png
+name: SK hynix tokenized stock (xStock)

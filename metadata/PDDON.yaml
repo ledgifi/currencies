@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xf3e82ea164cb344b2b11bad4c24b0ea4f7ba4714'
+    platform: BNB
+  - address: '0xcc40965d3621362c3ee1dd946ba98d6a708ea86b'
+    platform: ETH
+crypto: true
+fiat: false
+id: PDDON
+id_coinmarketcap: '39247'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39247.png
+logoKey: currencies/pddon.png
+name: PDD Holdings Tokenized Stock (Ondo)

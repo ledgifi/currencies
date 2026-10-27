@@ -1,0 +1,24 @@
+contracts:
+  - address: '0xE8Ff2d2b9FD5099B70e535A53FeB83048CF798f2'
+    platform: ARB
+  - address: '0xE8Ff2d2b9FD5099B70e535A53FeB83048CF798f2'
+    platform: BNB
+  - address: '0xE8Ff2d2b9FD5099B70e535A53FeB83048CF798f2'
+    platform: ETH
+  - address: '0xe8ff2d2b9fd5099b70e535a53feb83048cf798f2'
+    platform: INK
+  - address: '0xe8ff2d2b9fd5099b70e535a53feb83048cf798f2'
+    platform: MNT
+  - address: '0xE8Ff2d2b9FD5099B70e535A53FeB83048CF798f2'
+    platform: MON
+  - address: '0xe8ff2d2b9fd5099b70e535a53feb83048cf798f2'
+    platform: OKB
+  - address: '0xe8ff2d2b9fd5099b70e535a53feb83048cf798f2'
+    platform: OP
+crypto: true
+fiat: false
+id: SQQQX
+id_coinmarketcap: '42599'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/42599.png
+logoKey: currencies/sqqqx.png
+name: ProShares UltraPro Short QQQ tokenized ETF (xStock)

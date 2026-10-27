@@ -14,6 +14,8 @@ contracts:
     platform: FTM
   - address: '0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE'
     platform: GNO
+  - address: '0x17bff452dae47e07cea877ff0e1aba17eb62b0ab'
+    platform: KAT
   - address: terra1csvuzlf92nyemu6tv25h0l79etpe8hz3h5vn4a
     platform: LUNC
   - address: 6b3595068778dd592e39a122f4f5a5cf09c90fe2.factory.bridge.near
@@ -27,6 +29,8 @@ contracts:
   - address: AR1Mtgh7zAtxuxGd2XPovXPVjcSdY3i4rQYisNadjfKy
     platform: SOL
   - address: '0x7D49a065D17d6d4a55dc13649901fdBB98B2AFBA'
+    platform: TBA
+  - address: '0x0bb40d7fbae7f0c69bc5910c601987dce697d85f'
     platform: TBA
 crypto: true
 decimals: 8

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xc008c5f579ec1450f20099c39f587547e27c7523'
+    platform: BNB
+  - address: '0x8de5d49725550f7b318b2fa0f1b1f118e98e8d0f'
+    platform: ETH
+crypto: true
+fiat: false
+id: SGOVON
+id_coinmarketcap: '39306'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39306.png
+logoKey: currencies/sgovon.png
+name: iShares 0-3 Month Treasury Bond Tokenized ETF (Ondo)

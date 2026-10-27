@@ -26,6 +26,8 @@ contracts:
     platform: GLMR
   - address: '0x44fA8E6f47987339850636F88629646662444217'
     platform: GNO
+  - address: EQDo_ZJyQ_YqBzBwbVpMmhbhIddKtRP99HugZJ14aFscxi7B
+    platform: GRAM
   - address: '0x5c74070fdea071359b86082bd9f9b3deaafbe32b'
     platform: KAIA
   - address: '0x5c74070fdea071359b86082bd9f9b3deaafbe32b'
@@ -55,6 +57,8 @@ contracts:
   - address: '0xda114221cb83fa859dbdb4c44beeaa0bb37c7537ad5ae66fe5e0efd20e6eb3'
     platform: STRK
   - address: '0x50c5725949a6f0c72e6c4a641f24049a917db0cb'
+    platform: TBA
+  - address: '0x83fd06f0846d9d90b3016bf670efe2e0b11cde14'
     platform: TBA
   - address: EQDo_ZJyQ_YqBzBwbVpMmhbhIddKtRP99HugZJ14aFscxi7B
     platform: TON

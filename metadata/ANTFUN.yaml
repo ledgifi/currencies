@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x6ced5c6d3f913b48d59fa07abbfe9060c409087c'
+    platform: BNB
+  - address: CWZ6BsdnjkDVTGkmL6bGbJXXig6ceef12KvyGQW14cMt
+    platform: SOL
+crypto: true
+fiat: false
+id: ANTFUN
+id_coinmarketcap: '39094'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39094.png
+logoKey: currencies/antfun.png
+name: AntFun

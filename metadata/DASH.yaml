@@ -1,4 +1,7 @@
 color: '#008ce7'
+contracts:
+  - address: dash.omft.near
+    platform: NEAR
 crypto: true
 decimals: 8
 fiat: false

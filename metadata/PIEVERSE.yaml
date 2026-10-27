@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x0e63b9c287e32a05e6b9ab8ee8df88a2760225a9'
+    platform: BNB
+  - address: '0x0e63b9c287e32a05e6b9ab8ee8df88a2760225a9'
+    platform: ETH
+crypto: true
+fiat: false
+id: PIEVERSE
+id_coinmarketcap: '38849'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38849.png
+logoKey: currencies/pieverse.png
+name: Pieverse

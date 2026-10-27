@@ -1,0 +1,14 @@
+contracts:
+  - address: '0xE4Bd77247671746CaA3119E9FEAA146F8a4EE237'
+    platform: BNB
+  - address: '0xc90341Cb9cb8D65AF044FaB23b659b7b4279399B'
+    platform: ETH
+  - address: qr13tSwtPWKTgYQqf6XM8YoT5LrbFgacpVUupfEondo
+    platform: SOL
+crypto: true
+fiat: false
+id: BLKGRWON
+id_coinmarketcap: '42347'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/42347.png
+logoKey: currencies/blkgrwon.png
+name: High Growth Powered by BlackRock Tokenized Assets (Ondo)

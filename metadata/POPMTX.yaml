@@ -1,0 +1,22 @@
+contracts:
+  - address: '0x3a0a47a9c2713a7049d1052cc8ebd39c41570580'
+    platform: ARB
+  - address: '0x3a0a47a9c2713a7049d1052cc8ebd39c41570580'
+    platform: BNB
+  - address: '0x3a0a47a9c2713a7049d1052cc8ebd39c41570580'
+    platform: ETH
+  - address: '0x3a0a47a9c2713a7049d1052cc8ebd39c41570580'
+    platform: HYPE
+  - address: '0x3a0a47a9c2713a7049d1052cc8ebd39c41570580'
+    platform: INK
+  - address: '0x3a0a47a9c2713a7049d1052cc8ebd39c41570580'
+    platform: OKB
+  - address: '0x3a0a47a9c2713a7049d1052cc8ebd39c41570580'
+    platform: OP
+crypto: true
+fiat: false
+id: POPMTX
+id_coinmarketcap: '41010'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/41010.png
+logoKey: currencies/popmtx.png
+name: Pop Mart International Tokenized Stock (xStock)

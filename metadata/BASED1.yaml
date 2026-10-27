@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x1d28d989f9e3ccb8b15d0cec601734514f958e4d'
+    platform: BNB
+  - address: '0x4f2b33840227ddd0e28da8d4185d6fa07adfed87'
+    platform: ETH
+crypto: true
+fiat: false
+id: BASED1
+id_coinmarketcap: '39812'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39812.png
+logoKey: currencies/based1.png
+name: Based

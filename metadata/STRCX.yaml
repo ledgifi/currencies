@@ -1,0 +1,14 @@
+contracts:
+  - address: '0x1Aad217B8F78dbA5E6693460e8470F8b1A3977f3'
+    platform: BNB
+  - address: '0x1aad217b8f78dba5e6693460e8470f8b1a3977f3'
+    platform: ETH
+  - address: '0x1aad217b8f78dba5e6693460e8470f8b1a3977f3'
+    platform: INK
+crypto: true
+fiat: false
+id: STRCX
+id_coinmarketcap: '39711'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39711.png
+logoKey: currencies/strcx.png
+name: Strategy PP Variable tokenized stock (xStock)

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x08ce97f3d5cf11e577d091ab048bc5e2eae3fabb'
+    platform: BNB
+  - address: '0xfF7CF16aA2fFc463b996DB2f7B7cf0130336899D'
+    platform: ETH
+crypto: true
+fiat: false
+id: AGGON
+id_coinmarketcap: '38072'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38072.png
+logoKey: currencies/aggon.png
+name: iShares Core US Aggregate Bond Tokenized ETF (Ondo)

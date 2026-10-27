@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xD2ab3C9A02DBBAB236BfEC45D1d755DF4267F771'
+    platform: CELO
+  - address: '0x07041776f5007ACa2A54844F50503a18A72A8b68'
+    platform: ETH
+crypto: true
+fiat: false
+id: USAT
+id_coinmarketcap: '38386'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38386.png
+logoKey: currencies/usat.png
+name: USAT

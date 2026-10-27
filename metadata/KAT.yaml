@@ -1,3 +1,12 @@
+contracts:
+  - address: '0x8104B8868Ef383e90269e999864C428192743505'
+    platform: BNB
+  - address: '0x8F051Ca72a3440d83B18E71C3E59676203aB8f91'
+    platform: ETH
+  - address: '0x7f1f4b4b29f5058fa32cc7a97141b8d7e5abdc2d'
+    platform: KAT
+  - address: '0xD5390300c5DB71F80d46f0fA9983Fc72D4d1e3da'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

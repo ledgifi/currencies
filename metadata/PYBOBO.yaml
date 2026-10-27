@@ -1,0 +1,14 @@
+contracts:
+  - address: EQD3-DscdjEM95zRmW936vGVr6O7uFJ1W6a8--7-Vg3rtfGy
+    platform: GRAM
+  - address: '0x2b94e669139b1b546a0c28c3b78fd7a35d5a5f94'
+    platform: KAIA
+  - address: D6xWgRCSHoMEB5fqPwk3p6Stxirn5ytm2WwboSTTx4oE
+    platform: SOL
+crypto: true
+fiat: false
+id: PYBOBO
+id_coinmarketcap: '39151'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/39151.png
+logoKey: currencies/pybobo.png
+name: Capybobo
