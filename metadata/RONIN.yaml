@@ -1,6 +1,8 @@
 contracts:
   - address: '0xe514d9deb7966c8be0ca922de8a064264ea6bcd4'
     platform: RON
+  - address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    platform: RON
 crypto: true
 decimals: 8
 fiat: false

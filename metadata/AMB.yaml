@@ -6,6 +6,8 @@ contracts:
     platform: ETH
   - address: '0xf4fb9bf10e489ea3edb03e094939341399587b0c'
     platform: ETH
+  - address: AMB4mArTRxZG7jCLqhxWziDeZGxzT59WPrQWvgpZPe8d
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

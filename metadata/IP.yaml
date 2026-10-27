@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xA37EDed373c5cdF88644db7C6b89f222e756aFB2'
+    platform: BNB
+  - address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    platform: DATA
 crypto: true
 fiat: false
 id: IP

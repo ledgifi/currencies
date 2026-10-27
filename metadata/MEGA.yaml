@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x28B7E77f82B25B95953825F1E3eA0E36c1c29861'
+    platform: MEGA
+  - address: megaA5QDK1qLXtjpvg9oCFMvxT9d5BCMrVTBddnM5kV
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

@@ -1,4 +1,6 @@
 contracts:
+  - address: '0x3510fbbc13090f991ffa523527113a166161683e'
+    platform: BNB
   - address: '0xE77aBB1E75D2913B2076DD16049992FFeACa5235'
     platform: POL
 crypto: true

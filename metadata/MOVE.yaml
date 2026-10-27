@@ -1,8 +1,12 @@
 contracts:
   - address: '0x3073f7aAA4DB83f95e9FFf17424F71D4751a3073'
     platform: ETH
+  - address: '0xedfb8d993ee8cb935338601d8673dfcf'
+    platform: HYPE
   - address: 0x1::aptos_coin::AptosCoin
     platform: MOVE
+  - address: '0x3073f7aaa4db83f95e9fff17424f71d4751a3073'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

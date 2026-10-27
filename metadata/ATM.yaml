@@ -6,6 +6,10 @@ contracts:
     platform: CHZ
   - address: '0x7da0eb973d982ffca095e80437f5e37459a95c67'
     platform: CHZ
+  - address: 6VdpC1hcx7byFtJ5M6Xhspa6Uup5rZHruzXvuJhXAyXm
+    platform: SOL
+  - address: '0xb46357d8ed050d35d3a24154c39d7236dae86187'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

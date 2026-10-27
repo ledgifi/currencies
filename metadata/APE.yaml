@@ -1,9 +1,13 @@
 color: '#0054f9'
 contracts:
+  - address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    platform: APE
   - address: '0x8f86a15EC17cb3369d8b3E666dAdBC11daA82b79'
     platform: BNB
   - address: '0x4d224452801aced8b2f0aebe155379bb5d594381'
     platform: ETH
+  - address: '0x8f86a15ec17cb3369d8b3e666dadbc11daa82b79'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

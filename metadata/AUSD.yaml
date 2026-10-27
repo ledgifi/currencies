@@ -15,6 +15,8 @@ contracts:
     platform: IMX
   - address: factory/inj1n636d9gzrqggdk66n2f97th0x8yuhfrtx520e7/ausd
     platform: INJ
+  - address: '0x00000000efe302beaa2b3e6e1b18d08d69a9012a'
+    platform: KAT
   - address: '0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a'
     platform: MNT
   - address: '0x00000000efe302beaa2b3e6e1b18d08d69a9012a'

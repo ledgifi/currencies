@@ -1,9 +1,13 @@
 contracts:
   - address: '0xecedb6f8108b9f7bbf499da843dced6c2bb6e270'
     platform: ETH
+  - address: '0x61ef9543f8919bb06e374b3bb58a17725e34f9d9'
+    platform: HYPE
   - address: CB9dDufT3ZuQXqqSfa1c5kY935TEreyBw9XJXxHKpump
     platform: SOL
   - address: '0xecedb6f8108b9f7bbf499da843dced6c2bb6e270'
+    platform: TBA
+  - address: '0xBbb8Ef3181661512CEAB66e0B213C29211B24b6c'
     platform: TBA
 crypto: true
 fiat: false

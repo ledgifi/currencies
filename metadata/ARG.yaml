@@ -4,6 +4,12 @@ contracts:
     platform: CHZ
   - address: '0xd34625c1c812439229EF53e06f22053249D011f5'
     platform: CHZ
+  - address: '0x4394886B1eec08Fe88681462914702dC99D97Eb7'
+    platform: CHZ
+  - address: BX8VbHBf8DUHeGJjJsSW2HCviGyQSF5SVCEnN7vXUkwM
+    platform: SOL
+  - address: '0xb2798c409e58db6be0998cd9bf8ab8081bc949a4'
+    platform: TBA
 crypto: true
 fiat: false
 id: ARG

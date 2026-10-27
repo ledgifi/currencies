@@ -1,9 +1,15 @@
 contracts:
+  - address: '0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf'
+    platform: ARB
   - address: '0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf'
     platform: ETH
+  - address: '0xd18B7EC58Cdf4876f6AFebd3Ed1730e4Ce10414b'
+    platform: MON
   - address: cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij
     platform: SOL
   - address: '0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf'
+    platform: TBA
+  - address: '0xcec185eb182c47d1ba1efc84e6959e18cd620be4'
     platform: TBA
 crypto: true
 fiat: false

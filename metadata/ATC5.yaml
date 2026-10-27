@@ -1,8 +1,14 @@
 contracts:
   - address: '0xe363329Cd82d3883e7EEa6445A8A4FC7130fa6A2'
     platform: BNB
+  - address: '0xfc0CFF733131614D02707741A4A74CDEB4b06EAe'
+    platform: BNB
   - address: '0x7F5A937c397713fD4124BdA0bCFf79F85C0C886E'
     platform: ETH
+  - address: '0xbfAA6082D6c82E0752A2aA7558746fC5a5dAAAAA'
+    platform: TBA
+  - address: '0xD794cE63002C4Ae9DA4f373f1ecb856187b7A375'
+    platform: TBA
 crypto: true
 fiat: false
 id: ATC5

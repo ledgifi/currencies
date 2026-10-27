@@ -1,6 +1,14 @@
 contracts:
+  - address: '0x6418c0dd099a9fda397c766304cdd918233e8847'
+    platform: BNB
+  - address: '0x6418c0dd099a9fda397c766304cdd918233e8847'
+    platform: ETH
+  - address: '0xfa44c2634ff17cbe26dc3007d36bd61c79068c14'
+    platform: HYPE
   - address: 2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv
     platform: SOL
+  - address: '0x74BE72AFFAFbC8de30F0C11247814036314D625f'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

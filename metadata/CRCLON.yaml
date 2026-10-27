@@ -1,8 +1,12 @@
 contracts:
-  - address: '0x3632dea96a953c11dac2f00b4a05a32cd1063fae'
-    platform: ETH
   - address: '0x992879cd8ce0c312d98648875b5a8d6d042cbf34'
     platform: BNB
+  - address: '0x3632dea96a953c11dac2f00b4a05a32cd1063fae'
+    platform: ETH
+  - address: '0x13a81c5e8b4AB05Fc721DfF7bA95e250b29458F8'
+    platform: HYPE
+  - address: 6xHEyem9hmkGtVq6XGCiQUGpPsHBaoYuYdFNZa5ondo
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

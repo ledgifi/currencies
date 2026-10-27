@@ -1,12 +1,20 @@
 contracts:
+  - address: '0x004b506865409877c9fa29bfb1eba929984b9bbc'
+    platform: ARB
   - address: '0xe343167631d89B6Ffc58B88d6b7fB0228795491D'
     platform: ETH
   - address: '0xe343167631d89B6Ffc58B88d6b7fB0228795491D'
     platform: INK
+  - address: '0x063C1d1ef6e9099Ce3E8e9AD5C6173d12C49C086'
+    platform: MNT
   - address: '0x4ae46a509f6b1d9056937ba4500cb143933d2dc8'
     platform: OKB
   - address: 2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH
     platform: SOL
+  - address: '0x7E955252E15c84f5768B83c41a71F9eba181802F'
+    platform: TBA
+  - address: '0x5fc5360d0400a0fd4f2af552add042d716f1d168'
+    platform: TBA
 crypto: true
 fiat: false
 id: USDG

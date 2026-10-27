@@ -7,8 +7,12 @@ contracts:
     platform: AVAX
   - address: '0x9e1170c12fddd3b00fec42ddf4c942565d9be577'
     platform: BNB
+  - address: '0x1D1498166DDCEeE616a6d99868e1E0677300056f'
+    platform: ETH
   - address: '0x5f7f94a1dd7b15594d17543beb8b30b111dd464c'
     platform: FTM
+  - address: '0x1D1498166DDCEeE616a6d99868e1E0677300056f'
+    platform: GNO
   - address: '0x1D1498166DDCEeE616a6d99868e1E0677300056f'
     platform: OP
   - address: '0xb53ec4ace420a62cfb75afdeba600d284777cd65'
@@ -17,6 +21,8 @@ contracts:
     platform: POL
   - address: '0x841aef70237a88027ccb2d15c1bbaf88a669674a'
     platform: S
+  - address: '0x588aC26F61d5aEDCB3A2E903e65da5F5F95CaB24'
+    platform: TBA
 crypto: true
 fiat: false
 id: SPACE2

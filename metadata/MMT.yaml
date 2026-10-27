@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xac246674dd88dd08f9c6dd0ab5e2115988bff34a'
+    platform: BNB
   - address: 0x35169bc93e1fddfcf3a82a9eae726d349689ed59e4b065369af8789fe59f8608::mmt::MMT
     platform: SUI
 crypto: true

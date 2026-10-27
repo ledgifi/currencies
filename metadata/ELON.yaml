@@ -11,6 +11,8 @@ contracts:
     platform: SOL
   - address: 7ZCm8WBN9aLa3o47SoYctU6iLdj7wkGG5SV2hE5CgtD5
     platform: SOL
+  - address: '0x4a9f3ed92892c0168dc194ec3867f8316288b32a'
+    platform: TBA
 crypto: true
 decimals: 1
 fiat: false

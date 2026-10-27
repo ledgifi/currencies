@@ -5,6 +5,8 @@ contracts:
     platform: BNB
   - address: '0x26B80FBfC01b71495f477d5237071242e0d959d7'
     platform: ETH
+  - address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    platform: ROSE
   - address: S3SQfD6RheMXQ3EEYn1Z5sJsbtwfXdt7tSAVXPQFtYo
     platform: SOL
 crypto: true

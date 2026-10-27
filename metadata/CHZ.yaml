@@ -2,10 +2,16 @@ color: '#cd0124'
 contracts:
   - address: CHZ-ECD
     platform: BNB
+  - address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    platform: CHZ
   - address: '0x3506424f91fd33084466f402d5d97f05f8e3b4af'
     platform: ETH
   - address: 5TtSKAamFq88grN1QGrEaZ1AjjyciqnCya1aiMhAgFvG
     platform: SOL
+  - address: 6eftxVbSAunVEoxUWdGhPdxg5UdsJ8Wkwy5w5YFuxouw
+    platform: SOL
+  - address: '0x70c8392DE9b39a1E48d12A70Af6FF4Be25D6D0A2'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

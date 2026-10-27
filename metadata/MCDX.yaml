@@ -3,6 +3,12 @@ contracts:
     platform: ARB
   - address: '0x80a77a372c1e12accda84299492f404902e2da67'
     platform: BNB
+  - address: '0x80a77a372c1e12accda84299492f404902e2da67'
+    platform: ETH
+  - address: EQBUtLkOu9vzKu3PW58c50WX7w89BtzwYYZlZGmvOr_Aq66U
+    platform: GRAM
+  - address: '0x80a77a372c1e12accda84299492f404902e2da67'
+    platform: INK
   - address: XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2
     platform: SOL
 crypto: true

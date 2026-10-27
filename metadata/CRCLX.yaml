@@ -1,3 +1,18 @@
+contracts:
+  - address: '0xfebded1b0986a8ee107f5ab1a1c5a813491deceb'
+    platform: ARB
+  - address: '0xfebded1b0986a8ee107f5ab1a1c5a813491deceb'
+    platform: BNB
+  - address: '0xfebded1b0986a8ee107f5ab1a1c5a813491deceb'
+    platform: ETH
+  - address: EQB-RPtAAQeFSGW3gIj0zREh4N92MGXfqFzxAc6TRvu-zvYT
+    platform: GRAM
+  - address: '0xfebded1b0986a8ee107f5ab1a1c5a813491deceb'
+    platform: INK
+  - address: '0xfEbDEd1B0986a8ee107f5AB1a1c5a813491DeCEB'
+    platform: OKB
+  - address: XsueG8BtpquVJX9LVLLEGuViXUungE6WmK5YZ3p3bd1
+    platform: SOL
 crypto: true
 decimals: 8
 fiat: false

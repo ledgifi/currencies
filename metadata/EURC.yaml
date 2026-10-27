@@ -1,6 +1,8 @@
 contracts:
   - address: '0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD'
     platform: AVAX
+  - address: '0xA6dE01a2d62C6B5f3525d768f34d276652C554c8'
+    platform: CRO
   - address: '0x1abaea1f7c830bd89acc67ec4af516284b1bc33c'
     platform: ETH
   - address: '0xe715cba7b5ccb33790cebff1436809d36cb17e57'
@@ -9,8 +11,12 @@ contracts:
     platform: SOL
   - address: '0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42'
     platform: TBA
+  - address: '0xbEf5f6d51CB62b58e6A8f77868681825C6fe21c1'
+    platform: TBA
   - address: EURC-GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2
     platform: XLM
+  - address: '0x3ee196e78d4d4248b849b8e1c7f44c5457fafd2c'
+    platform: XPL
 crypto: true
 fiat: false
 id: EURC

@@ -1,6 +1,8 @@
 contracts:
   - address: '0x18c11FD286C5EC11c3b683Caa813B77f5163A122'
     platform: ARB
+  - address: '0x551dfe38994ec53c9e7e18084d73893225eea3bf'
+    platform: MEGA
   - address: '0xE5417Af564e4bFDA1c483642db72007871397896'
     platform: POL
   - address: '0xFB1Aaba03c31EA98A3eEC7591808AcB1947ee7Ac'

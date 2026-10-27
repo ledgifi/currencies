@@ -1,6 +1,8 @@
 contracts:
   - address: RUNE-B1A
     platform: BNB
+  - address: THOR.RUNE
+    platform: RUNE
 crypto: true
 decimals: 8
 fiat: false

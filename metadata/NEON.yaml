@@ -1,4 +1,6 @@
 contracts:
+  - address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    platform: NEON
   - address: NeonTjSjsuo3rexg9o6vHuMXw62f9V7zvmu8M8Zut44
     platform: SOL
 crypto: true

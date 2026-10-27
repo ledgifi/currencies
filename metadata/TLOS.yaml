@@ -17,6 +17,8 @@ contracts:
     platform: TBA
   - address: eosio.token
     platform: TLOS
+  - address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    platform: TLOS
 crypto: true
 fiat: false
 id: TLOS

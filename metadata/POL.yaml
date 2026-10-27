@@ -2,6 +2,8 @@ color: '#6f41d8'
 contracts:
   - address: '0x455e53cbb86018ac2b8092fdcd39d8444affc3f6'
     platform: ETH
+  - address: '0x0000000000000000000000000000000000001010'
+    platform: POL
 crypto: true
 decimals: 8
 fiat: false

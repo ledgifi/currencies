@@ -1,6 +1,12 @@
 contracts:
   - address: '0xD1723Eb9e7C6eE7c7e2d421B2758dc0f2166eDDc'
     platform: CHZ
+  - address: '0xBfF8FaBb04f6494fe393EB7416A698869569A310'
+    platform: CHZ
+  - address: Hf5terE5YuL2e8um8398r6vbsiNcfvwggwUAssgAxeF3
+    platform: SOL
+  - address: '0x8269c9930791b0f3339519ab742eb08413beb335'
+    platform: TBA
 crypto: true
 fiat: false
 id: MENGO

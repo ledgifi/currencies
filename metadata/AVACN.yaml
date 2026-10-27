@@ -1,5 +1,7 @@
 contracts:
   - address: EQAR-KBduwL4w-Lg72QFX4tWTOAJCGS72FkGHrJL9Qt7P9ln
+    platform: GRAM
+  - address: EQAR-KBduwL4w-Lg72QFX4tWTOAJCGS72FkGHrJL9Qt7P9ln
     platform: TON
 crypto: true
 fiat: false

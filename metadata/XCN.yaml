@@ -5,6 +5,8 @@ contracts:
     platform: ETH
   - address: '0x9c632e6aaa3ea73f91554f8a3cb2ed2f29605e0c'
     platform: TBA
+  - address: '0x1a0Da75ADf091a69E7285e596bB27218D77E17a9'
+    platform: XCN
 crypto: true
 fiat: false
 id: XCN

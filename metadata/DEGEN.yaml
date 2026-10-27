@@ -1,11 +1,15 @@
 contracts:
   - address: '0x9f07f8a82cb1af1466252e505b7b7ddee103bc91'
     platform: ARB
+  - address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    platform: DEGEN
   - address: '0xfee293840d23b0b2de8c55e1cf7a9f01c157767c'
     platform: ETH
   - address: A7n89LqW67HJKzJkdWZa2xojuK4N5GBKHz3dfjATCZPz
     platform: SOL
   - address: '0x4ed4e862860bed51a9570b96d89af5e1b0efefed'
+    platform: TBA
+  - address: '0x0830A9Dd26a04e959657AB6788d45f5725590c32'
     platform: TBA
 crypto: true
 fiat: false

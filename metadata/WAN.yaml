@@ -1,4 +1,9 @@
 color: '#136aad'
+contracts:
+  - address: '0x135B810e48e4307AB2a59ea294A6f1724781bD3C'
+    platform: ETH
+  - address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    platform: WAN
 crypto: true
 decimals: 8
 fiat: false

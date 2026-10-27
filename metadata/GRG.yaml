@@ -5,12 +5,16 @@ contracts:
     platform: BNB
   - address: '0x4fbb350052bca5417566f188eb2ebce5b19bc964'
     platform: ETH
+  - address: '0x78118293A39B6338bfC2e68fb54ef8282938D56d'
+    platform: HYPE
   - address: '0xecf46257ed31c329f204eb43e254c609dee143b3'
     platform: OP
   - address: '0xbc0bea8e634ec838a2a45f8a43e7e16cd2a8ba99'
     platform: POL
   - address: '0x09188484e1ab980daef53a9755241d759c5b7d60'
     platform: TBA
+  - address: '0x03C2868c6D7fD27575426f395EE081498B1120dd'
+    platform: UNI
 crypto: true
 fiat: false
 id: GRG

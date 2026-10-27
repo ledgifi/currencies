@@ -1,3 +1,8 @@
+contracts:
+  - address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    platform: ASTR
+  - address: '0xF27441230EADEaC85B764610325Cc9a0D7859689'
+    platform: ETH
 crypto: true
 decimals: 8
 fiat: false

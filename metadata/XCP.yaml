@@ -1,4 +1,7 @@
 color: '#ed1650'
+contracts:
+  - address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    platform: XCP
 crypto: true
 fiat: false
 id: XCP

@@ -4,6 +4,8 @@ contracts:
     platform: BNB
   - address: zec.omft.near
     platform: NEAR
+  - address: '0x5ce53b9b68fb8e9ecab9283a96d97948914733fd6ed8d9a53a276a419497841'
+    platform: STRK
 crypto: true
 decimals: 8
 fiat: false

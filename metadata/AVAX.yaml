@@ -2,6 +2,8 @@ color: '#e84142'
 contracts:
   - address: FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z
     platform: AVAX
+  - address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    platform: AVAX
   - address: '0x1ce0c2827e2ef14d5c4f29a091d735a204794041'
     platform: BNB
   - address: '0x4792c1ecb969b036eb51330c63bd27899a13d84e'

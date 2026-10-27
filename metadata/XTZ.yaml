@@ -4,6 +4,8 @@ contracts:
     platform: BNB
   - address: Tez
     platform: XTZ
+  - address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    platform: XTZ
 crypto: true
 decimals: 8
 fiat: false

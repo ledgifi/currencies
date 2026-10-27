@@ -5,6 +5,8 @@ contracts:
     platform: AVAX
   - address: '0xdf0b24095e15044538866576754f3c964e902ee6'
     platform: CORN
+  - address: '0x7aB6f3ed87C42eF0aDb67Ed95090f8bF5240149e'
+    platform: KITE
   - address: '0x748134b5f553f2bcbd78c6826de99a70274bdeb3'
     platform: MOVR
   - address: '0x7f5c764cbc14f9669b88837ca1490cca17c31607'
@@ -17,6 +19,12 @@ contracts:
     platform: SKR
   - address: '0x28bec7e30e6faee657a03e19bf1128aad7632a00'
     platform: SOMI
+  - address: '0x7dd9c7cbc32df500fa3c06fd60cd62c4e97b2eef'
+    platform: TBA
+  - address: '0x44bB111010DfFfb3695F9a1B66aa879976199e7b'
+    platform: WEMIX
+  - address: '0xC8410270bb53f6c99A2EFe6eD3686a8630Efe22B'
+    platform: XCN
   - address: '0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4'
     platform: ZK
 crypto: true

@@ -13,6 +13,8 @@ contracts:
     platform: SCROLL
   - address: '0x6EF95B6f3b0F39508e3E04054Be96D5eE39eDE0d'
     platform: TBA
+  - address: https://robinhoodchain.blockscout.com/token/0x32807d54eE1570cBA97e256c59426dD80dcD9fcF
+    platform: TBA
   - address: '0xdd9f72afed3631a6c85b5369d84875e6c42f1827'
     platform: ZK
 crypto: true

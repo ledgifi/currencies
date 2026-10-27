@@ -3,6 +3,10 @@ contracts:
     platform: BNB
   - address: '0xF3e4872e6a4cF365888D93b6146a2bAA7348F1A4'
     platform: ETH
+  - address: '0xd53d98d13D93C817011645442c2e4d46E499B460'
+    platform: HYPE
+  - address: iy11ytbSGcUnrjE6Lfv78TFqxKyUESfku1FugS9ondo
+    platform: SOL
 crypto: true
 fiat: false
 id: SLVON

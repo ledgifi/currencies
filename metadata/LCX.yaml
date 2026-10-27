@@ -1,6 +1,8 @@
 contracts:
   - address: '0x037a54aab062628c9bbae1fdb1583c195585fe41'
     platform: ETH
+  - address: '0x8CD41041505885EF0aD3858181D66f17BE8aae7E'
+    platform: ETH
 crypto: true
 fiat: false
 id: LCX

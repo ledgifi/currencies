@@ -7,6 +7,8 @@ contracts:
     platform: SOL
   - address: '0xb166e8b140d35d9d8226e40c09f757bac5a4d87d'
     platform: TBA
+  - address: '0x241f3caad03db31137f641bef005a32176530024'
+    platform: TBA
 crypto: true
 fiat: false
 id: NPC

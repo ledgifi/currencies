@@ -1,6 +1,10 @@
 contracts:
+  - address: taoC6xyv2v8tDLcev4uaGUgV4vdQsWJrGft2kcBRrBY
+    platform: SOL
   - address: '0'
     platform: TAO
+  - address: '0xf3081494b87e8d5fb7960f066e931d1d0e6e3d67'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

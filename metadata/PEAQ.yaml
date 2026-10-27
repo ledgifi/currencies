@@ -1,8 +1,16 @@
 contracts:
   - address: '0x8b9Ee39195eA99d6ddD68030F44131116bc218F6'
     platform: BNB
+  - address: '0x1eef208926667594e5136e89d0e9dd6907959197'
+    platform: ETH
   - address: '0x3cd66d2e1fac1751b0a20bebf6ca4c9699bb12d7'
     platform: PEAQ
+  - address: '0x0000000000000000000000000000000000000809'
+    platform: PEAQ
+  - address: PEAQjk7SRS6rXHVFFmpRr7zrC4g5ZuEebpwTxvaLr3b
+    platform: SOL
+  - address: '0x9B56B112BbD6343a8961a093315A9A60b8cB1F36'
+    platform: TBA
 crypto: true
 fiat: false
 id: PEAQ

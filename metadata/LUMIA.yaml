@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xd9343a049d5dbd89cd19dc6bca8c48fb3a0a42a7'
     platform: ETH
+  - address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    platform: LUMIA
 crypto: true
 decimals: 8
 fiat: false

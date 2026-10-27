@@ -1,6 +1,12 @@
 contracts:
   - address: '0x1d4343d35f0E0e14C14115876D01dEAa4792550b'
     platform: CHZ
+  - address: '0x76088F3eD5dC655De9295D93868ec1EeC654A615'
+    platform: CHZ
+  - address: Dst93spXQEXxFzwYbFrQRnFYBYpw7AzB2QyALEeP4NGQ
+    platform: SOL
+  - address: '0x580edA966a8129C3c01D149871B47feFcC599D28'
+    platform: TBA
 crypto: true
 fiat: false
 id: AFC

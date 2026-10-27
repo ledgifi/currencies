@@ -1,4 +1,8 @@
 contracts:
+  - address: '0x4f9d3AdbfAF4579518b1Ca7E06468A363897B997'
+    platform: ARB
+  - address: '0x4f9d3AdbfAF4579518b1Ca7E06468A363897B997'
+    platform: BNB
   - address: 7x4FgiFfeqzs1tiUNvJzpt47GtLXAJ8Jfn8G1Hyyu6JH
     platform: SOL
 crypto: true

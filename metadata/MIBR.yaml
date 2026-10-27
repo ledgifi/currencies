@@ -3,6 +3,12 @@ contracts:
     platform: CHZ
   - address: '0xa8206Af1e6a0289156d45B9d60e5bbD5d1fCf68d'
     platform: CHZ
+  - address: '0x8CAf9018Aa56f7Db55bB353005C7aa0FBfb1736b'
+    platform: CHZ
+  - address: C9fjwEYf3UL1SULNnZAWmKum288wMTSchppCwKwTSAUS
+    platform: SOL
+  - address: '0x77a75ee1abf2e14c2892c7d56a53ef657ebb385a'
+    platform: TBA
 crypto: true
 fiat: false
 id: MIBR

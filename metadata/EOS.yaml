@@ -2,6 +2,8 @@ color: '#000000'
 contracts:
   - address: '0x56b6fb708fc5732dec1afc8d8556423a2edccbd6'
     platform: BNB
+  - address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    platform: EOS
   - address: '0xae3a94a6dc7fce46b40d63bbf355a3ab2aa2a588'
     platform: HT
 crypto: true

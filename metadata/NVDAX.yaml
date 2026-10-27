@@ -1,6 +1,14 @@
 contracts:
   - address: '0xc845b2894dbddd03858fd2d643b4ef725fe0849d'
     platform: BNB
+  - address: '0xc845b2894dbddd03858fd2d643b4ef725fe0849d'
+    platform: ETH
+  - address: EQCva-Of7acQdU_piADdlcbzsFtA-xJwZoctz8ZOXBdBoaB8
+    platform: GRAM
+  - address: '0xc845b2894dbddd03858fd2d643b4ef725fe0849d'
+    platform: INK
+  - address: '0xc845b2894dBddd03858fd2D643B4eF725fE0849d'
+    platform: OKB
   - address: Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh
     platform: SOL
 crypto: true

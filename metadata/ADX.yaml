@@ -6,6 +6,8 @@ contracts:
     platform: ETH
   - address: '0xdDa7b23D2D72746663E7939743f929a3d85FC975'
     platform: POL
+  - address: '0xf82119ebd01eb6ab67105c9536a713d61a25cf9f'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

@@ -1,3 +1,8 @@
+contracts:
+  - address: '0x5feCcD17C393CaF1001D18164236A37E731FCb9d'
+    platform: BNB
+  - address: '0xFbC2051AE2265686a469421b2C5A2D5462FbF5eB'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

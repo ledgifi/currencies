@@ -1,6 +1,8 @@
 contracts:
   - address: J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn
     platform: SOL
+  - address: '0x97be14dd8f994a5364573bc035d85309e7cb34de'
+    platform: TBA
 crypto: true
 fiat: false
 id: JITOSOL

@@ -1,6 +1,10 @@
 contracts:
   - address: '0x3c3a81e81dc49a522a592e7622a7e711c06bf354'
     platform: ETH
+  - address: '0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000'
+    platform: MNT
+  - address: 4SoQ8UkWfeDH47T56PA53CZCeW4KytYCiU65CwBWoJUt
+    platform: SOL
 crypto: true
 fiat: false
 id: MNT

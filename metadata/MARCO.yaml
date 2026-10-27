@@ -1,6 +1,14 @@
 contracts:
   - address: '0x963556de0eb8138E97A85F0A86eE0acD159D210b'
     platform: BNB
+  - address: '0xF31A621A0e75d90fdA320EeE52956D718Fa34615'
+    platform: POL
+  - address: 6SWgjmuTyPAcYYU77Mzf1gE6QA7ZcZsbsfiThz2cW1VF
+    platform: SOL
+  - address: '0x803925DacEcCc32343cdac0C731dB07a1A384bFB'
+    platform: TBA
+  - address: '0x30Eb6f2878f60Ba0eD6418BFE7CAdCd0F475A265'
+    platform: TBA
 crypto: true
 fiat: false
 id: MARCO

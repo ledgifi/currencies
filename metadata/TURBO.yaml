@@ -3,6 +3,8 @@ contracts:
     platform: ETH
   - address: 2Dyzu65QA9zdX1UeE7Gx71k7fiwyUK6sZdrvJ7auq5wm
     platform: SOL
+  - address: '0x134A73B9B3DC68B716298e0934E8c449B7B3967F'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

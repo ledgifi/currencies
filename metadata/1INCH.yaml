@@ -1,5 +1,7 @@
 color: '#d82122'
 contracts:
+  - address: '0x6314c31a7a1652ce482cffe247e9cb7c3f4bb9af'
+    platform: ARB
   - address: '0xd501281565bf7789224523144Fe5D98e8B28f267'
     platform: AVAX
   - address: '0x111111111117dc0aa78b770fa6a738034120c302'
@@ -8,10 +10,22 @@ contracts:
     platform: ETH
   - address: '0x7f7440C5098462f833E123B44B8A03E1d9785BAb'
     platform: GNO
+  - address: '0x10f04e61bd6019d6c9b0bf4907e805a64b92ee3e'
+    platform: LINEA
   - address: 111111111117dc0aa78b770fa6a738034120c302.factory.bridge.near
     platform: NEAR
+  - address: '0xad42d013ac31486b73b6b059e748172994736426'
+    platform: OP
   - address: AjkPkq3nsyDe1yKcbyZT7N4aK4Evv9om9tzhQD3wsRC
     platform: SOL
+  - address: '0xc5fecc3a29fb57b5024eec8a2239d4621e111cbe'
+    platform: TBA
+  - address: '0x1755c2910c126ee1b0cf1e08a307dc9e787285a0'
+    platform: TBA
+  - address: '0xbe41cde1c5e75a7b6c2c70466629878aa9acd06e'
+    platform: UNI
+  - address: '0x3f0b8b206a7fbdb3ecfc08c9407ca83f5ab1ce59'
+    platform: ZK
 crypto: true
 decimals: 8
 fiat: false

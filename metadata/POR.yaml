@@ -3,6 +3,12 @@ contracts:
     platform: CHZ
   - address: '0xffad7930b474d45933c93b83a2802204b8787129'
     platform: CHZ
+  - address: '0x013F2407c6eF765F1199f8818B805121F269F5b8'
+    platform: CHZ
+  - address: AiYi7HyVVXnDSuj8BoPirDsuuWgddeKkD5MQN35VpwNz
+    platform: SOL
+  - address: '0x00a030340b89eea5dafeebc1da4fe76db374996e'
+    platform: TBA
 crypto: true
 fiat: false
 id: POR

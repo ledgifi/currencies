@@ -1,4 +1,7 @@
 color: '#242424'
+contracts:
+  - address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    platform: IOTA
 crypto: true
 decimals: 8
 fiat: false

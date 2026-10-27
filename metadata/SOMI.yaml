@@ -5,6 +5,8 @@ contracts:
     platform: ETH
   - address: '0x046ede9564a72571df6f5e44d0405360c0f4dcab'
     platform: SOMI
+  - address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    platform: SOMI
   - address: '0x47636b3188774a3E7273D85A537b9bA4Ee7b2535'
     platform: TBA
 crypto: true

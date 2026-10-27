@@ -3,6 +3,8 @@ contracts:
     platform: OSMO
   - address: usei
     platform: SEI
+  - address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    platform: SEI
 crypto: true
 decimals: 8
 fiat: false

@@ -1,6 +1,10 @@
 contracts:
   - address: '0x96c3530bfd0a906a123a4e26cebb635636b41f9d'
     platform: ETH
+  - address: '0x43A488315ad6d670a360D27d68E71F39F6a06CA7'
+    platform: ETH
+  - address: '0x0c0dB132C6c4F687B7F772e3514ae2A172Cab2bb'
+    platform: TBA
 crypto: true
 fiat: false
 id: HYDRA

@@ -6,6 +6,8 @@ contracts:
     platform: ALGO
   - address: 0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT
     platform: APT
+  - address: '0x357b0b74bc833e95a115ad22604854d6b0fca151cecd94111770e5d6ffc9dc2b'
+    platform: APT
   - address: '0x1487Db421F6B58e77bfefc905fDc1EDE5Fb85C7F'
     platform: APTM
   - address: '0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9'
@@ -64,6 +66,8 @@ contracts:
     platform: GLMR
   - address: '0x4ECaBa5870353805a9F068101A40E0f32ed605C6'
     platform: GNO
+  - address: EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs
+    platform: GRAM
   - address: '0xD16bAbe52980554520F6Da505dF4d1b124c815a7'
     platform: HSC
   - address: '0xa71edc38d189767582c38a3145b5873052c3e47a'
@@ -86,6 +90,8 @@ contracts:
     platform: KCS
   - address: '0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167'
     platform: KLAY
+  - address: '0x59973ae98d340ca0577ed92502402e82e987ba2e'
+    platform: KROWN
   - address: ce091c998b83c78bb71a632313ba3760f1763d9cfcffae02258ffa9865a37bd2
     platform: LBTC
   - address: '0xa219439258ca9da29e9cc4ce5596924745e12b93'
@@ -103,6 +109,8 @@ contracts:
   - address: '0x5fa41671c48e3c951afc30816947126ccc8c162e'
     platform: MTRG
   - address: dac17f958d2ee523a2206206994597c13d831ec7.factory.bridge.near
+    platform: NEAR
+  - address: usdt.tether-token.near
     platform: NEAR
   - address: '0x5f0155d08ef4aae2b500aefb64a3419da8bb611a'
     platform: NEON
@@ -191,6 +199,8 @@ contracts:
   - address: '0xd4b5f10d61916bd6e0860144a91ac658de8a1437'
     platform: XDC
   - address: KT1XnTn74bUtxHfDtBmm2bGZAQfhPbvKWR8o
+    platform: XTZ
+  - address: '0x2c03058c8afc06713be23e58d2febc8337dbfe6a'
     platform: XTZ
   - address: '0xb78e2642b875928254cf50683d0589ca249f4efc'
     platform: ZEDX

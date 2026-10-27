@@ -1,6 +1,8 @@
 contracts:
   - address: '0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01'
     platform: POL
+  - address: '0x4d1d808a081fdac440703b3765fc61f8028c06b8'
+    platform: TBA
 crypto: true
 fiat: false
 id: LGNS

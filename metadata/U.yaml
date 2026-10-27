@@ -1,3 +1,12 @@
+contracts:
+  - address: '0xcE24439F2D9C6a2289F741120FE202248B666666'
+    platform: BNB
+  - address: '0xce24439f2d9c6a2289f741120fe202248b666666'
+    platform: ETH
+  - address: '0xcE24439F2D9C6a2289F741120FE202248B666666'
+    platform: TBA
+  - address: TFNirp6PbqYE1ZTtWuCMUKJWLNZkoCoeFJ
+    platform: TRX
 crypto: true
 decimals: 8
 fiat: false

@@ -3,6 +3,10 @@ contracts:
     platform: ARB
   - address: '0xFe0c30065B384F05761f15d0CC899D4F9F9Cc0eB'
     platform: ETH
+  - address: '0xe0080d2F853ecDdbd81A643dC10DA075Df26fD3f'
+    platform: OP
+  - address: '0x6C240DDA6b5c336DF09A4D011139beAAa1eA2Aa2'
+    platform: TBA
 crypto: true
 decimals: 8
 fiat: false

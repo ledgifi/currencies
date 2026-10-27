@@ -1,4 +1,7 @@
 color: '#10283c'
+contracts:
+  - address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    platform: S
 crypto: true
 decimals: 8
 fiat: false

@@ -3,6 +3,8 @@ contracts:
     platform: BNB
   - address: '0xcf5104D094e3864CfCBDa43B82e1cEFD26A016eB'
     platform: ETH
+  - address: '0xE76c5b78f93909d34404E9eb4C1f19e7582a5dE1'
+    platform: ETH
 crypto: true
 fiat: false
 id: H
