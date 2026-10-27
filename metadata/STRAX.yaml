@@ -1,12 +1,8 @@
-color: '#1387c9'
 crypto: true
-decimals: 8
 fiat: false
 id: STRAX
 id_binance: '533'
-id_coinmarketcap: '1343'
-id_coinpaprika: strax-stratis
-id_nomics: STRAX
-logo: https://cdn.jsdelivr.net/npm/cryptocurrency-icons@0.18.1/svg/color/strat.svg
-logoKey: currencies/strat.svg
-name: Stratis (Old)
+id_coinmarketcap: '30168'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/30168.png
+logoKey: currencies/strax1.png
+name: Xertra
