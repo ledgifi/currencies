@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xd6B48CCF41a62EB3891e58D0F006B19B01d50cCa'
+    platform: BNB
+  - address: '0xd6B48CCF41a62EB3891e58D0F006B19B01d50cCa'
+    platform: ETH
+crypto: true
+fiat: false
+id: SERAPH
+id_coinmarketcap: '34377'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/34377.png
+logoKey: currencies/seraph.png
+name: Seraph

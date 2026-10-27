@@ -1,6 +1,7 @@
 crypto: true
 fiat: false
 id: USDN
+id_coinmarketcap: '5068'
 id_nomics: USDN
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDN.jpg
 logoKey: currencies/usdn.jpg

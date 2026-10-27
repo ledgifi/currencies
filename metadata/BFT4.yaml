@@ -1,6 +1,10 @@
+contracts:
+  - address: '0x4270A3D1a61FC6b86Ea9E19730E529ACEe592c3B'
+    platform: BITCI
 crypto: true
 fiat: false
 id: BFT4
+id_coinmarketcap: '11714'
 id_nomics: BFT4
 logo: https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BFT4.png
 logoKey: currencies/bft4.png

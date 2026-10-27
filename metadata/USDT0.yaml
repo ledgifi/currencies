@@ -1,0 +1,22 @@
+contracts:
+  - address: '0x779ded0c9e1022225f8e0630b35a9b54be713736'
+    platform: BERA
+  - address: '0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb'
+    platform: HYPE
+  - address: '0x0200c29006150606b650577bbe7b6248f58470c1'
+    platform: INK
+  - address: '0xe7cd86e13AC4309349F30B3435a9d337750fC82D'
+    platform: MON
+  - address: '0x01bff41798a0bcf287b996046ca68b395dbc1071'
+    platform: OP
+  - address: '0x9151434b16b9763660705744891fa906f660ecc5'
+    platform: SEI
+  - address: '0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb'
+    platform: XPL
+crypto: true
+fiat: false
+id: USDT0
+id_coinmarketcap: '38517'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/38517.png
+logoKey: currencies/usdt0.png
+name: USDT0

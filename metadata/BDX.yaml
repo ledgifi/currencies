@@ -3,6 +3,14 @@ contracts:
     platform: BNB
   - address: '0x6ad12E761b438beA3EA09F6C6266556Bb24C2181'
     platform: BNB
+  - address: '0x9d10a1ec41Fe7878429BB457e31F9b050D38c633'
+    platform: BNB
+  - address: '0x6ad12E761b438beA3EA09F6C6266556Bb24C2181'
+    platform: ETH
+  - address: CP4w2B3og2TaFUpye1kr8pdeJwwahtESKppZnffN9n9d
+    platform: SOL
+  - address: '0x6ad12E761b438beA3EA09F6C6266556Bb24C2181'
+    platform: TBA
 crypto: true
 fiat: false
 id: BDX

@@ -1,0 +1,10 @@
+contracts:
+  - address: '0xc65d8d96cdddb31328186efa113a460b0af9ec63'
+    platform: ETH
+crypto: true
+fiat: false
+id: PELL
+id_coinmarketcap: '36034'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/36034.png
+logoKey: currencies/pell.png
+name: Pell Network

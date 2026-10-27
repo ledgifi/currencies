@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x76E8e912097F0E6b81cab73147161bb616dF1D7d'
+    platform: BNB
+  - address: '0xDA6A3876AD460194Cd7bA28062D838C98Ee2fD1d'
+    platform: ETH
+crypto: true
+fiat: false
+id: KEL
+id_coinmarketcap: '9261'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/9261.png
+logoKey: currencies/kel.png
+name: KelVPN

@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x696c0bA235444607A1c4b93E6b34Ba14928c1B60'
+    platform: MATIC
+  - address: '0x696c0bA235444607A1c4b93E6b34Ba14928c1B60'
+    platform: POL
+crypto: true
+fiat: false
+id: DOV
+id_coinmarketcap: '27186'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/27186.png
+logoKey: currencies/dov.png
+name: Dovish Finance
