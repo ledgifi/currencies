@@ -1,13 +1,17 @@
 contracts:
-  - address: '0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe'
+  - address: '0x6491c05A82219b8D1479057361ff1654749b876b'
+    platform: ARB
+  - address: '0xdC035D45d973E3EC169d2276DDab16f1e407384F'
     platform: ETH
+  - address: USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA
+    platform: SOL
+  - address: '0x820c137fa70c8691f0e44dc420a5e53c168921dc'
+    platform: TBA
 crypto: true
-decimals: 8
 fiat: false
 id: USDS
-id_binance: '212'
-id_coinmarketcap: '3719'
-id_nomics: USDS
-logo: https://bin.bnbstatic.com/images/20191212/71443a8a-5878-4329-a255-2468480941e0.png
-logoKey: currencies/usds.png
-name: StableUSD
+id_binance: '1716'
+id_coinmarketcap: '33039'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/33039.png
+logoKey: currencies/usds2.png
+name: USDS
