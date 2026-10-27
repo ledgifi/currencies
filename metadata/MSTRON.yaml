@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xcabd955322dfbf94c084929ac5e9eca3feb5556f'
+    platform: ETH
+  - address: '0x7313ea16493b2f55054df0131a3a14b043ec8992'
+    platform: BNB
+crypto: true
+decimals: 8
+fiat: false
+id: MSTRON
+id_coinmarketcap: '38092'
+logo: https://bin.bnbstatic.com/image/admin_mgs_image_upload/20260813/29b7cb9c-0198-429c-8b04-9244badde73f.png
+name: MicroStrategy Tokenized Stock (Ondo)
