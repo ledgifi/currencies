@@ -1,12 +1,10 @@
 contracts:
-  - address: '0xb32d4817908f001c2a53c15bff8c14d8813109be'
+  - address: '0x40c8225329bd3e28a043b029e0d07a5344d2c27c'
     platform: BNB
-  - address: '0x8578530205cecbe5db83f7f29ecfeec860c297c2'
-    platform: ETH
 crypto: true
 fiat: false
 id: AOG
-id_coinmarketcap: '3316'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3316.png
-logoKey: currencies/aog.png
-name: smARTOFGIVING
+id_coinmarketcap: '16679'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/16679.png
+logoKey: currencies/aog1.png
+name: AgeOfGods

@@ -1,7 +1,10 @@
+contracts:
+  - address: '0xf2b688b2201979d44fdf18d1d8c641305cf560ba'
+    platform: BNB
 crypto: true
 fiat: false
 id: EVO
-id_coinmarketcap: '1130'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/1130.png
-logoKey: currencies/evo.png
-name: Evotion
+id_coinmarketcap: '29635'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/29635.png
+logoKey: currencies/evo5.png
+name: Devomon

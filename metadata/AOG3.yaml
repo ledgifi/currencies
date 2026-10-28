@@ -1,0 +1,12 @@
+contracts:
+  - address: '0xb32d4817908f001c2a53c15bff8c14d8813109be'
+    platform: BNB
+  - address: '0x8578530205cecbe5db83f7f29ecfeec860c297c2'
+    platform: ETH
+crypto: true
+fiat: false
+id: AOG3
+id_coinmarketcap: '3316'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/3316.png
+logoKey: currencies/aog.png
+name: smARTOFGIVING

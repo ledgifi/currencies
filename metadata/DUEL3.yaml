@@ -1,0 +1,12 @@
+contracts:
+  - address: '0x297817CE1a8De777e7ddbed86C3B7f9Dc9349f2c'
+    platform: BNB
+  - address: '0xFFC4B25557bB4327d437C3B3eAD6b2B15fAb391A'
+    platform: POL
+crypto: true
+fiat: false
+id: DUEL3
+id_coinmarketcap: '11370'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11370.png
+logoKey: currencies/duel.png
+name: Duel Network

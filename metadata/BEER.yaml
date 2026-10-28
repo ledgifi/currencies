@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x05a00764d371774831a48b3f57ef9073710c5fd8'
-    platform: BNB
+  - address: AujTJJ7aMS8LDo3bFzoyXDwT3jBALUbu4VZhzZdTZLmG
+    platform: SOL
 crypto: true
 fiat: false
 id: BEER
-id_coinmarketcap: '5449'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/5449.png
-logoKey: currencies/beer.png
-name: Beer Money
+id_coinmarketcap: '31337'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/31337.png
+logoKey: currencies/beer1.png
+name: BEERCOIN

@@ -1,10 +1,10 @@
 contracts:
-  - address: '0x6c22910c6f75f828b305e57c6a54855d8adeabf8'
-    platform: ETH
+  - address: 9b664bdd6f5ed80d8d88957b63364c41f3ad4efb8eee11366aa16435974d9333i0
+    platform: BTC
 crypto: true
 fiat: false
 id: SATS
-id_coinmarketcap: '23839'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/23839.png
-logoKey: currencies/sats.png
-name: Satoshis Vision
+id_coinmarketcap: '28194'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28194.png
+logoKey: currencies/sats3.png
+name: SATS (Ordinals)

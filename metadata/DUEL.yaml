@@ -1,12 +1,12 @@
 contracts:
-  - address: '0x297817CE1a8De777e7ddbed86C3B7f9Dc9349f2c'
+  - address: '0xa1ED0bD9A4776830c5b7bA004F26427b71152CA5'
     platform: BNB
-  - address: '0xFFC4B25557bB4327d437C3B3eAD6b2B15fAb391A'
-    platform: POL
+  - address: '0x943Af2ece93118B973c95c2F698EE9D15002e604'
+    platform: ETH
 crypto: true
 fiat: false
 id: DUEL
-id_coinmarketcap: '11370'
-logo: https://s2.coinmarketcap.com/static/img/coins/64x64/11370.png
-logoKey: currencies/duel.png
-name: Duel Network
+id_coinmarketcap: '28868'
+logo: https://s2.coinmarketcap.com/static/img/coins/64x64/28868.png
+logoKey: currencies/duel1.png
+name: GameGPT
